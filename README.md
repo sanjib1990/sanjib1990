@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve responds to claims it has banned AI-generated games from Steam](https://techcrunch.com/2023/07/03/valve-responds-to-claims-it-has-banned-ai-generated-games-from-steam/)
-- [The M4 robot transforms to roll, fly and walk across various terrains](https://techcrunch.com/2023/07/03/the-m4-robot-transforms-to-roll-fly-and-walk-across-various-terrains/)
-- [Netflix adds ‘Insecure’ as more HBO shows, including ‘Six Feet Under,’ are on the way](https://techcrunch.com/2023/07/03/netflix-adds-insecure-as-more-hbo-shows-including-six-feet-under-are-on-the-way/)
-- [AudioPen is a great web app for converting your voice into text notes](https://techcrunch.com/2023/07/03/audio-pen-is-a-great-web-app-for-converting-your-voice-into-text-notes/)
-- [Watch the 1st supermoon of 2023 rise in this Full Buck Moon livestream tonight](https://www.space.com/full-moon-buck-supermoon-july-2023-livestream)
+- [Key ingredient for life found in star-birthing cloud just 1,000 light-years from Earth](https://www.space.com/amino-acid-tryptophan-perseus-molecular-complex-life)
+- [Sun blasts out powerful X-class solar flare causing radio blackouts on Earth &lpar;video&rpar;](https://www.space.com/sun-solar-flare-radio-blackouts-earth-july-2023)
+- [Stop using Google Analytics, warns Sweden’s privacy watchdog, as it issues over $1M in fines](https://techcrunch.com/2023/07/03/google-analytics-sweden-gdpr-fines/)
+- [Google’s Gradient backs YC alum Infisical to solve secret sprawl](https://techcrunch.com/2023/07/03/googles-gradient-backs-yc-alum-infisical-to-solve-secret-sprawl/)
+- [Robot dogs race across a simulated Red Planet in in new reality TV series &#39;Stars on Mars&#39; &lpar;exclusive&rpar;](https://www.space.com/stars-on-mars-robot-dogs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
