@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Audio Pen is a great web app for converting your voice into text notes](https://techcrunch.com/2023/07/03/audio-pen-is-a-great-web-app-for-converting-your-voice-into-text-notes/)
+- [Valve responds to claims it has banned AI-generated games from Steam](https://techcrunch.com/2023/07/03/valve-responds-to-claims-it-has-banned-ai-generated-games-from-steam/)
+- [The M4 robot transforms to roll, fly and walk across various terrains](https://techcrunch.com/2023/07/03/the-m4-robot-transforms-to-roll-fly-and-walk-across-various-terrains/)
+- [Netflix adds ‘Insecure’ as more HBO shows, including ‘Six Feet Under,’ are on the way](https://techcrunch.com/2023/07/03/netflix-adds-insecure-as-more-hbo-shows-including-six-feet-under-are-on-the-way/)
+- [AudioPen is a great web app for converting your voice into text notes](https://techcrunch.com/2023/07/03/audio-pen-is-a-great-web-app-for-converting-your-voice-into-text-notes/)
 - [Watch the 1st supermoon of 2023 rise in this Full Buck Moon livestream tonight](https://www.space.com/full-moon-buck-supermoon-july-2023-livestream)
-- [Sun breaks out with record number of sunspots, sparking solar storm concerns](https://www.space.com/sun-highest-sunspot-number-since-2002)
-- [Anthony Padilla and Ian Hecox usher in the new era of Smosh](https://techcrunch.com/2023/07/03/anthony-padilla-and-ian-hecox-usher-in-the-new-era-of-smosh/)
-- [Lina Zakarauskaite is elevated from Principal to Partner at London’s Stride VC](https://techcrunch.com/2023/07/03/lina-zakarauskaite-is-elevated-from-principal-to-partner-at-londons-stride-vc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
