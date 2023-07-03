@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pornhub blocks access in Mississippi, Virginia and Utah amid changing laws](https://techcrunch.com/2023/07/03/pornhub-blocks-access-in-mississippi-virginia-and-utah-amid-changing-laws/)
+- [Watch lightning crackle over Europe and Africa in stunning video from powerful new weather satellite](https://www.space.com/video-lighting-europe-weather-satellite-meteosat)
 - [As Twitter flounders, Mastodon refreshes its official app for Android users](https://techcrunch.com/2023/07/03/as-twitter-flounders-mastodon-refreshes-its-official-app-for-android-users/)
 - [The top 10 Ariane 5 rocket launches of all time](https://www.space.com/top-10-ariane-5-rocket-launches)
 - [Robotic &#39;Light Bender&#39; on the moon could help Artemis astronauts keep the lights on](https://www.space.com/moon-artemis-astronauts-maxar-light-bender)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Apple reportedly slashes Vision Pro production, pushes back cheaper model](https://techcrunch.com/2023/07/03/apple-reportedly-slashes-vision-pro-production-pushes-back-cheaper-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
