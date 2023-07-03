@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Twitter flounders, Mastodon refreshes its official app for Android users](https://techcrunch.com/2023/07/03/as-twitter-flounders-mastodon-refreshes-its-official-app-for-android-users/)
+- [The top 10 Ariane 5 rocket launches of all time](https://www.space.com/top-10-ariane-5-rocket-launches)
+- [Robotic &#39;Light Bender&#39; on the moon could help Artemis astronauts keep the lights on](https://www.space.com/moon-artemis-astronauts-maxar-light-bender)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [Apple reportedly slashes Vision Pro production, pushes back cheaper model](https://techcrunch.com/2023/07/03/apple-reportedly-slashes-vision-pro-production-pushes-back-cheaper-model/)
-- [Key ingredient for life found in star-birthing cloud just 1,000 light-years from Earth](https://www.space.com/amino-acid-tryptophan-perseus-molecular-complex-life)
-- [Sun blasts out powerful X-class solar flare causing radio blackouts on Earth &lpar;video&rpar;](https://www.space.com/sun-solar-flare-radio-blackouts-earth-july-2023)
-- [Stop using Google Analytics, warns Sweden’s privacy watchdog, as it issues over $1M in fines](https://techcrunch.com/2023/07/03/google-analytics-sweden-gdpr-fines/)
-- [Google’s Gradient backs YC alum Infisical to solve secret sprawl](https://techcrunch.com/2023/07/03/googles-gradient-backs-yc-alum-infisical-to-solve-secret-sprawl/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
