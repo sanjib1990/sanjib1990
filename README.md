@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three days left to snag a TechCrunch Disrupt 2023 pass at early-bird prices](https://techcrunch.com/2023/07/03/july-fourth-sale-earlybird-price-three-days-left-techcrunch-disrupt-2023/)
+- [The remote work startups that will last aren’t actually remote work startups](https://techcrunch.com/2023/07/03/remote-work-startups-future/)
+- [Tiny acquires HappyFunCorp, the prolific firm that’s built apps for Twitter, Amazon and more, for $30M](https://techcrunch.com/2023/07/03/tiny-acquires-happyfuncorp-the-prolific-firm-thats-built-apps-for-twitter-amazon-and-more-for-30m/)
 - [Road trip! Catch October&#39;s annular solar eclipse with 5 iconic routes through the US](https://www.space.com/US-road-trips-october-annular-solar-eclipse-2023)
 - [RoboDeck, the deck maintenance robot, scores a $2M pre-seed](https://techcrunch.com/2023/07/03/robodeck-the-deck-maintenance-robot-scores-a-2m-pre-seed/)
-- [India’s Reliance launches $12 4G-enabled phone to extend reach](https://techcrunch.com/2023/07/03/jio-bharat-specifications-price-plans/)
-- [One of these 19 amazing night sky images will win 2023 Astronomy Photo of the Year](https://www.space.com/astronomy-photo-of-the-year-shortlist-2023)
-- [TweetDeck suffers as Musk enforces read limits on Twitter](https://techcrunch.com/2023/07/03/tweetdeck-suffers-as-musk-enforces-read-limits-on-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
