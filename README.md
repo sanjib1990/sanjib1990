@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Virgin Galactic’s triumphant first commercial flight](https://techcrunch.com/2023/07/03/max-q-virgin-galactics-triumphant-first-commercial-flight/)
+- [EV maker Arrival’s second SPAC is now a dead SPAC](https://techcrunch.com/2023/07/03/ev-maker-arrivals-second-spac-is-now-a-dead-spac/)
+- [Molly Alter leaving Index Ventures for Northzone](https://techcrunch.com/2023/07/03/molly-alter-leaving-index-ventures-for-northzone/)
 - [Pornhub blocks access in Mississippi, Virginia and Utah amid changing laws](https://techcrunch.com/2023/07/03/pornhub-blocks-access-in-mississippi-virginia-and-utah-amid-changing-laws/)
 - [Watch lightning crackle over Europe and Africa in stunning video from powerful new weather satellite](https://www.space.com/video-lighting-europe-weather-satellite-meteosat)
-- [As Twitter flounders, Mastodon refreshes its official app for Android users](https://techcrunch.com/2023/07/03/as-twitter-flounders-mastodon-refreshes-its-official-app-for-android-users/)
-- [The top 10 Ariane 5 rocket launches of all time](https://www.space.com/top-10-ariane-5-rocket-launches)
-- [Robotic &#39;Light Bender&#39; on the moon could help Artemis astronauts keep the lights on](https://www.space.com/moon-artemis-astronauts-maxar-light-bender)
 <!-- BLOG-POST-LIST:END -->
 
 ---
