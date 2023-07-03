@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple reportedly slashes Vision Pro production, pushes back cheaper model](https://techcrunch.com/2023/07/03/apple-reportedly-slashes-vision-pro-production-pushes-back-cheaper-model/)
 - [Key ingredient for life found in star-birthing cloud just 1,000 light-years from Earth](https://www.space.com/amino-acid-tryptophan-perseus-molecular-complex-life)
 - [Sun blasts out powerful X-class solar flare causing radio blackouts on Earth &lpar;video&rpar;](https://www.space.com/sun-solar-flare-radio-blackouts-earth-july-2023)
 - [Stop using Google Analytics, warns Sweden’s privacy watchdog, as it issues over $1M in fines](https://techcrunch.com/2023/07/03/google-analytics-sweden-gdpr-fines/)
 - [Google’s Gradient backs YC alum Infisical to solve secret sprawl](https://techcrunch.com/2023/07/03/googles-gradient-backs-yc-alum-infisical-to-solve-secret-sprawl/)
-- [Robot dogs race across a simulated Red Planet in in new reality TV series &#39;Stars on Mars&#39; &lpar;exclusive&rpar;](https://www.space.com/stars-on-mars-robot-dogs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
