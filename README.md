@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Three days left to snag a TechCrunch Disrupt 2023 pass at early-bird prices](https://techcrunch.com/2023/07/03/july-fourth-sale-earlybird-price-three-days-left-techcrunch-disrupt-2023/)
-- [The remote work startups that will last aren’t actually remote work startups](https://techcrunch.com/2023/07/03/remote-work-startups-future/)
-- [Tiny acquires HappyFunCorp, the prolific firm that’s built apps for Twitter, Amazon and more, for $30M](https://techcrunch.com/2023/07/03/tiny-acquires-happyfuncorp-the-prolific-firm-thats-built-apps-for-twitter-amazon-and-more-for-30m/)
-- [Road trip! Catch October&#39;s annular solar eclipse with 5 iconic routes through the US](https://www.space.com/US-road-trips-october-annular-solar-eclipse-2023)
-- [RoboDeck, the deck maintenance robot, scores a $2M pre-seed](https://techcrunch.com/2023/07/03/robodeck-the-deck-maintenance-robot-scores-a-2m-pre-seed/)
+- [Sun breaks out with record number of sunspots, sparking solar storm concerns](https://www.space.com/sun-highest-sunspot-number-since-2002)
+- [Anthony Padilla and Ian Hecox usher in the new era of Smosh](https://techcrunch.com/2023/07/03/anthony-padilla-and-ian-hecox-usher-in-the-new-era-of-smosh/)
+- [Lina Zakarauskaite is elevated from Principal to Partner at London’s Stride VC](https://techcrunch.com/2023/07/03/lina-zakarauskaite-is-elevated-from-principal-to-partner-at-londons-stride-vc/)
+- [Rivian shares pop on better-than-expected Q2 deliveries](https://techcrunch.com/2023/07/03/rivian-shares-pop-on-better-than-expected-q2-deliveries/)
+- [Kenya’s MyDawa aims to be an all-in-one health platform backed by $20 million funding](https://techcrunch.com/2023/07/03/kenyas-mydawa-aims-to-be-an-all-in-one-health-platform-backed-by-20-million-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
