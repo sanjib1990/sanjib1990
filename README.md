@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Farmers use tech too with Charles Baron from Farmers Business Network](https://techcrunch.com/2023/07/04/farmers-use-tech-too-with-charles-baron-from-farmers-business-network/)
 - [Deep tech in Latin America and the Caribbean is set to skyrocket](https://techcrunch.com/2023/07/04/deep-tech-latam-caribbean/)
 - [Chinese EVs have yet to succeed in Europe. The Middle East could be different](https://techcrunch.com/2023/07/04/chinese-evs-turn-to-middlle-east-after-europe/)
 - [The James Webb Space Telescope spots the wreckage of a cosmic clash of the Titans &lpar;image&rpar;](https://www.space.com/webb-telescope-galactic-collision-image)
 - [The UK&#39;s ODIN Space just aced its 1st space junk tracking system test in orbit](https://www.space.com/odin-space-completes-debris-tracking-demo)
-- [&quot;Shooting stars&quot; seen raining down on the sun for the first time &lpar;images&rpar;](https://www.space.com/news/shooting-stars-seen-raining-down-on-the-sun-for-the-first-time-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
