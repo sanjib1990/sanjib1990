@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Flipkart begins customer lending in bid to boost sales](https://techcrunch.com/2023/07/03/flipkart-begins-lending-to-drive-sales/)
+- [UK’s early-stage media tech VC GMG Ventures rebrands to Mercuri, closes £50M fund](https://techcrunch.com/2023/07/03/mercuri/)
 - [Twitter said only verified users will be able to access TweetDeck after 30 days](https://techcrunch.com/2023/07/03/twitter-said-only-verified-users-will-be-able-to-access-tweetdeck-after-30-days/)
 - [Rivian delivers first electric vans to Amazon in Europe](https://techcrunch.com/2023/07/03/rivian-delivers-first-electric-vans-to-amazon-in-europe/)
 - [Threads, Instagram’s Twitter competitor, is expected July 6](https://techcrunch.com/2023/07/03/threads-instagrams-twitter-competitor-is-expected-july-6/)
-- [Twitter competitors soar after yet another bad Musk move](https://techcrunch.com/2023/07/03/twitter-competitors-soar-after-yet-another-bad-musk-move/)
-- [Max Q: Virgin Galactic’s triumphant first commercial flight](https://techcrunch.com/2023/07/03/max-q-virgin-galactics-triumphant-first-commercial-flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
