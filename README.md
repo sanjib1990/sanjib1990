@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Plaid will deposit open banking intel on the Fintech Stage at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/04/plaid-will-deposit-open-banking-intel-on-the-fintech-stage-at-techcrunch-disrupt-2023/)
+- [Tour the mock Mars habitat where 4 NASA analog astronauts will spend the next year &lpar;video&rpar;](https://www.space.com/nasa-mock-mars-dune-alpha-chapea-habitat-video-tour)
+- [What’s it like being a Black founder in France?](https://techcrunch.com/2023/07/04/whats-it-like-being-a-black-founder-in-france/)
 - [If humans went extinct, what would the Earth look like one year later?](https://www.space.com/what-would-the-earth-look-like-one-year-after-humans-go-extinct)
 - [Full Buck Moon, the 1st supermoon of the year, thrills skywatchers all over the world &lpar;photos, video&rpar;](https://www.space.com/buck-moon-supermoon-photos)
-- [Space Blocs: The future of international cooperation in space is splitting along lines of power on Earth](https://www.space.com/future-of-international-cooperation-in-space-split-along-power-on-Earth)
-- [Reddit braces for life after API changes](https://techcrunch.com/2023/07/04/reddit-braces-for-life-after-api-changes/)
-- [Hubble telescope checks on the Milky Way galaxy&#39;s lonely neighbor &lpar;photo&rpar;](https://www.space.com/hubble-telescope-checks-on-neighbor-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
