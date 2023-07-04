@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If humans went extinct, what would the Earth look like one year later?](https://www.space.com/what-would-the-earth-look-like-one-year-after-humans-go-extinct)
+- [Full Buck Moon, the 1st supermoon of the year, thrills skywatchers all over the world &lpar;photos, video&rpar;](https://www.space.com/buck-moon-supermoon-photos)
 - [Space Blocs: The future of international cooperation in space is splitting along lines of power on Earth](https://www.space.com/future-of-international-cooperation-in-space-split-along-power-on-Earth)
 - [Reddit braces for life after API changes](https://techcrunch.com/2023/07/04/reddit-braces-for-life-after-api-changes/)
 - [Hubble telescope checks on the Milky Way galaxy&#39;s lonely neighbor &lpar;photo&rpar;](https://www.space.com/hubble-telescope-checks-on-neighbor-galaxy)
-- [CJEU ruling on Meta referral could close the chapter on surveillance capitalism](https://techcrunch.com/2023/07/04/cjeu-meta-superprofiling-decision/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
