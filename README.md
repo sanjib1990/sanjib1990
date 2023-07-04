@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble telescope checks on the Milky Way galaxy&#39;s lonely neighbor &lpar;photo&rpar;](https://www.space.com/hubble-telescope-checks-on-neighbor-galaxy)
+- [CJEU ruling on Meta referral could close the chapter on surveillance capitalism](https://techcrunch.com/2023/07/04/cjeu-meta-superprofiling-decision/)
 - [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [Our infant solar system may have survived a nearby supernova explosion](https://www.space.com/infant-solar-system-survived-nearby-supernova)
 - [Watch last-ever launch of Europe&#39;s powerful Ariane 5 rocket today](https://www.space.com/ariane-5-final-launch-webcast)
-- [ClickUp, a productivity platform that was last valued at $4B, cuts 10% of workforce](https://techcrunch.com/2023/07/04/clickup-layoffs/)
-- [‘GAFAM’ tech giants, ByteDance and Samsung expect to face EU’s rebooted antitrust regime](https://techcrunch.com/2023/07/04/dma-seven/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
