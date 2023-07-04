@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian delivers first electric vans to Amazon in Europe](https://techcrunch.com/2023/07/03/rivian-delivers-first-electric-vans-to-amazon-in-europe/)
+- [Threads, Instagram’s Twitter competitor, is expected July 6](https://techcrunch.com/2023/07/03/threads-instagrams-twitter-competitor-is-expected-july-6/)
 - [Twitter competitors soar after yet another bad Musk move](https://techcrunch.com/2023/07/03/twitter-competitors-soar-after-yet-another-bad-musk-move/)
 - [Max Q: Virgin Galactic’s triumphant first commercial flight](https://techcrunch.com/2023/07/03/max-q-virgin-galactics-triumphant-first-commercial-flight/)
 - [EV maker Arrival’s second SPAC is now a dead SPAC](https://techcrunch.com/2023/07/03/ev-maker-arrivals-second-spac-is-now-a-dead-spac/)
-- [Molly Alter leaving Index Ventures for Northzone](https://techcrunch.com/2023/07/03/molly-alter-leaving-index-ventures-for-northzone/)
-- [Pornhub blocks access in Mississippi, Virginia and Utah amid changing laws](https://techcrunch.com/2023/07/03/pornhub-blocks-access-in-mississippi-virginia-and-utah-amid-changing-laws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
