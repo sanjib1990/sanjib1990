@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The UK&#39;s ODIN Space just aced its 1st space junk tracking system test in orbit](https://www.space.com/odin-space-completes-debris-tracking-demo)
+- [&quot;Shooting stars&quot; seen raining down on the sun for the first time &lpar;images&rpar;](https://www.space.com/news/shooting-stars-seen-raining-down-on-the-sun-for-the-first-time-images)
+- [Konux gears up to scale its AI + IoT play for optimizing the railways](https://techcrunch.com/2023/07/04/konux-db-expansion/)
 - [Plaid will deposit open banking intel on the Fintech Stage at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/04/plaid-will-deposit-open-banking-intel-on-the-fintech-stage-at-techcrunch-disrupt-2023/)
 - [Tour the mock Mars habitat where 4 NASA analog astronauts will spend the next year &lpar;video&rpar;](https://www.space.com/nasa-mock-mars-dune-alpha-chapea-habitat-video-tour)
-- [What’s it like being a Black founder in France?](https://techcrunch.com/2023/07/04/whats-it-like-being-a-black-founder-in-france/)
-- [If humans went extinct, what would the Earth look like one year later?](https://www.space.com/what-would-the-earth-look-like-one-year-after-humans-go-extinct)
-- [Full Buck Moon, the 1st supermoon of the year, thrills skywatchers all over the world &lpar;photos, video&rpar;](https://www.space.com/buck-moon-supermoon-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
