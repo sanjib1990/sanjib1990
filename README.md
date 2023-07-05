@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NYC’s anti-bias law for hiring algorithms goes into effect](https://techcrunch.com/2023/07/05/nycs-anti-bias-law-for-hiring-algorithms-goes-into-effect/)
-- [Secret Invasion season 1 episode 3 review: Nick Fury and Talos go on the offensive](https://www.space.com/secret-invasion-season-1-episode-3-review)
-- [&#39;Star Trek: Picard - The Final Season&#39; warps onto home video with exclusives and extras](https://www.space.com/star-trek-picard-final-season-blu-ray)
-- [Blast off for less with 20% off LEGO City Lunar sets at Walmart](https://www.space.com/blast-off-for-less-with-20-off-lego-city-lunar-sets-at-walmart)
-- [Security researchers latest to blast UK’s Online Safety Bill as encryption risk](https://techcrunch.com/2023/07/05/uk-online-safety-bill-risks-e2ee/)
+- [Steering through venture’s global correction with the GPCA’s CEO](https://techcrunch.com/2023/07/05/steering-through-ventures-global-correction-with-the-gpcas-ceo/)
+- [Yes, investors will sign an NDA, but only in this specific circumstance](https://techcrunch.com/2023/07/05/vc-investor-nda/)
+- [The TechCrunch Disrupt 2023 July 4th sale ends today](https://techcrunch.com/2023/07/05/the-techcrunch-disrupt-2023-july-4th-sale-ends-today/)
+- [CADDi raises $89M Series C to scale its B2B supply chain marketplace for manufacturing parts](https://techcrunch.com/2023/07/05/caddi-raises-89m-series-c-to-scale-its-b2b-supply-chain-marketplace-for-manufacturing-parts/)
+- [Adam Mosseri says Meta’s Threads app won’t have ActivityPub support at launch](https://techcrunch.com/2023/07/05/adam-mosseri-says-metas-threads-app-wont-have-activitypub-support-at-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
