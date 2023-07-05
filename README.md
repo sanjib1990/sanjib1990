@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security researchers latest to blast UK’s Online Safety Bill as encryption risk](https://techcrunch.com/2023/07/05/uk-online-safety-bill-risks-e2ee/)
+- [The Outer Worlds is a warning of the corporate space age we&#39;re barreling towards](https://www.space.com/the-outer-worlds-is-a-warning-of-the-corporate-space-age-were-barreling-towards)
+- [Daniel Ek’s Neko Health raises $65M for preventative healthcare through full-body scans](https://techcrunch.com/2023/07/05/daniel-eks-neko-health-raises-65m-for-preventative-healthcare-through-full-body-scans/)
+- [Cornerstone VC hires Ella Wales Bonner as first female partner](https://techcrunch.com/2023/07/05/cornerstone-vc-hires-ella-wales-bonner-as-first-female-partner/)
 - [Alien&#39;s-eye view of the Milky Way: Our galaxy is unusual but not unique](https://www.space.com/milky-way-aliens-eye-view-unusual-galaxy)
-- [Satellites uncover &#39;invisible&#39; auroras glowing in infrared in Earth&#39;s atmosphere](https://www.space.com/auroras-invisible-carbon-dioxide)
-- [PharmEasy, once valued at over $5 billion, seeks new funding at a 90% valuation cut](https://techcrunch.com/2023/07/05/pharmeasy-valuation-cut/)
-- [After bootstrapping for 8 years, accounting startup Dougs raises $27 million](https://techcrunch.com/2023/07/04/after-bootstrapping-for-8-years-accounting-startup-dougs-raises-27-million/)
-- [China’s WeRide secures self-driving vehicle license from UAE](https://techcrunch.com/2023/07/04/chinas-weride-secures-self-driving-vehicle-license-from-uae/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
