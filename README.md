@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fiat says its cutest EV will tote accessories like, I kid you not, a ‘little shower’](https://techcrunch.com/2023/07/05/fiat-says-its-cutest-ev-will-tote-accessories-like-i-kid-you-not-a-little-shower/)
 - [Cosmic &#39;sandwich&#39; theory could explain how smaller planets are formed](https://www.space.com/planet-formation-gas-dust-sandwich)
 - [Crypto funding drops for fifth straight quarter as investors continue to pull back](https://techcrunch.com/2023/07/05/crypto-funding-drops-fifth-straight-quarter/)
 - [OpenAI is forming a new team to bring ‘superintelligent’ AI under control](https://techcrunch.com/2023/07/05/openai-is-forming-a-new-team-to-bring-superintelligent-ai-under-control/)
 - [Astra establishes subsidiary for spacecraft engine business](https://techcrunch.com/2023/07/05/astra-establishes-subsidiary-for-spacecraft-engine-business/)
-- [Gravitational waves could help us find out how fast the universe&#39;s expansion is accelerating](https://www.space.com/gravitational-waves-lensing-universe-expansion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
