@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PharmEasy, once valued at over $5 billion, seeks new funding at a 90% valuation cut](https://techcrunch.com/2023/07/05/pharmeasy-valuation-cut/)
 - [After bootstrapping for 8 years, accounting startup Dougs raises $27 million](https://techcrunch.com/2023/07/04/after-bootstrapping-for-8-years-accounting-startup-dougs-raises-27-million/)
 - [China’s WeRide secures self-driving vehicle license from UAE](https://techcrunch.com/2023/07/04/chinas-weride-secures-self-driving-vehicle-license-from-uae/)
 - [Kentucky is the first state to mandate Tesla’s charging plug](https://techcrunch.com/2023/07/04/kentucky-is-the-latest-state-to-mandate-teslas-charging-plug/)
 - [Farmers use tech too with Charles Baron from Farmers Business Network](https://techcrunch.com/2023/07/04/farmers-use-tech-too-with-charles-baron-from-farmers-business-network/)
-- [Deep tech in Latin America and the Caribbean is set to skyrocket](https://techcrunch.com/2023/07/04/deep-tech-latam-caribbean/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
