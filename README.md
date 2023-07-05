@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EGYM, the Munich-based smart fitness startup, raises $225M from Jared Kushner’s Affinity Partners](https://techcrunch.com/2023/07/05/egym-the-munich-based-smart-fitness-startup-raises-225m-from-jared-kushners-affinity-partners/)
+- [A &#39;double punch&#39; of solar storms could smash into Earth and spark widespread auroras this week](https://www.space.com/sun-coronal-mass-ejection-double-punch-july-2023)
+- [&#39;Terminator 3&#39;: Average movie, fantastic ending](https://www.space.com/terminator-3-average-movie-fantastic-ending)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [Meta’s Threads app is a privacy nightmare that won’t launch in EU yet](https://techcrunch.com/2023/07/05/threads-no-eu-launch/)
-- [Twitter silently removes login requirement for viewing tweets](https://techcrunch.com/2023/07/05/twitter-silently-removes-login-requirement-for-viewing-tweets/)
-- [Steering through venture’s global correction with the GPCA’s CEO](https://techcrunch.com/2023/07/05/steering-through-ventures-global-correction-with-the-gpcas-ceo/)
-- [Yes, investors will sign an NDA, but only in this specific circumstance](https://techcrunch.com/2023/07/05/vc-investor-nda/)
-- [The TechCrunch Disrupt 2023 July 4th sale ends today](https://techcrunch.com/2023/07/05/the-techcrunch-disrupt-2023-july-4th-sale-ends-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
