@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic &#39;sandwich&#39; theory could explain how smaller planets are formed](https://www.space.com/planet-formation-gas-dust-sandwich)
+- [Crypto funding drops for fifth straight quarter as investors continue to pull back](https://techcrunch.com/2023/07/05/crypto-funding-drops-fifth-straight-quarter/)
 - [OpenAI is forming a new team to bring ‘superintelligent’ AI under control](https://techcrunch.com/2023/07/05/openai-is-forming-a-new-team-to-bring-superintelligent-ai-under-control/)
 - [Astra establishes subsidiary for spacecraft engine business](https://techcrunch.com/2023/07/05/astra-establishes-subsidiary-for-spacecraft-engine-business/)
 - [Gravitational waves could help us find out how fast the universe&#39;s expansion is accelerating](https://www.space.com/gravitational-waves-lensing-universe-expansion)
-- [Judge silences White House social media talks in lawsuit that departs from reality](https://techcrunch.com/2023/07/05/judge-silences-white-house-social-media-talks-in-lawsuit-that-departs-from-reality/)
-- [Gfycat, the Snap-owned GIF hub, shuts down on September 1](https://techcrunch.com/2023/07/05/gfycat-shuts-down-on-september-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
