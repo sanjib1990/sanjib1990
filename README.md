@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads, Meta’s Twitter competitor, is now live](https://techcrunch.com/2023/07/05/threads-metas-twitter-competitor-is-now-live/)
+- [Bluesky announces its $8M seed round &amp; first paid service, custom domains](https://techcrunch.com/2023/07/05/bluesky-announces-its-8m-seed-round-first-paid-service-custom-domains/)
+- [Farewell, Ariane 5! Europe&#39;s workhorse rocket launches 2 satellites on final mission](https://www.space.com/ariane-5-rocket-final-launch-success)
 - [Fiat says its cutest EV will tote accessories like, I kid you not, a ‘little shower’](https://techcrunch.com/2023/07/05/fiat-says-its-cutest-ev-will-tote-accessories-like-i-kid-you-not-a-little-shower/)
 - [Cosmic &#39;sandwich&#39; theory could explain how smaller planets are formed](https://www.space.com/planet-formation-gas-dust-sandwich)
-- [Crypto funding drops for fifth straight quarter as investors continue to pull back](https://techcrunch.com/2023/07/05/crypto-funding-drops-fifth-straight-quarter/)
-- [OpenAI is forming a new team to bring ‘superintelligent’ AI under control](https://techcrunch.com/2023/07/05/openai-is-forming-a-new-team-to-bring-superintelligent-ai-under-control/)
-- [Astra establishes subsidiary for spacecraft engine business](https://techcrunch.com/2023/07/05/astra-establishes-subsidiary-for-spacecraft-engine-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
