@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien&#39;s-eye view of the Milky Way: Our galaxy is unusual but not unique](https://www.space.com/milky-way-aliens-eye-view-unusual-galaxy)
+- [Satellites uncover &#39;invisible&#39; auroras glowing in infrared in Earth&#39;s atmosphere](https://www.space.com/auroras-invisible-carbon-dioxide)
 - [PharmEasy, once valued at over $5 billion, seeks new funding at a 90% valuation cut](https://techcrunch.com/2023/07/05/pharmeasy-valuation-cut/)
 - [After bootstrapping for 8 years, accounting startup Dougs raises $27 million](https://techcrunch.com/2023/07/04/after-bootstrapping-for-8-years-accounting-startup-dougs-raises-27-million/)
 - [China’s WeRide secures self-driving vehicle license from UAE](https://techcrunch.com/2023/07/04/chinas-weride-secures-self-driving-vehicle-license-from-uae/)
-- [Kentucky is the first state to mandate Tesla’s charging plug](https://techcrunch.com/2023/07/04/kentucky-is-the-latest-state-to-mandate-teslas-charging-plug/)
-- [Farmers use tech too with Charles Baron from Farmers Business Network](https://techcrunch.com/2023/07/04/farmers-use-tech-too-with-charles-baron-from-farmers-business-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
