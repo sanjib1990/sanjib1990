@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is forming a new team to bring ‘superintelligent’ AI under control](https://techcrunch.com/2023/07/05/openai-is-forming-a-new-team-to-bring-superintelligent-ai-under-control/)
+- [Astra establishes subsidiary for spacecraft engine business](https://techcrunch.com/2023/07/05/astra-establishes-subsidiary-for-spacecraft-engine-business/)
+- [Gravitational waves could help us find out how fast the universe&#39;s expansion is accelerating](https://www.space.com/gravitational-waves-lensing-universe-expansion)
+- [Judge silences White House social media talks in lawsuit that departs from reality](https://techcrunch.com/2023/07/05/judge-silences-white-house-social-media-talks-in-lawsuit-that-departs-from-reality/)
 - [Gfycat, the Snap-owned GIF hub, shuts down on September 1](https://techcrunch.com/2023/07/05/gfycat-shuts-down-on-september-1/)
-- [El Nino is officially here and may cause temperature spikes and major weather events, scientists warn](https://www.space.com/el-nino-2023-temperature-spikes-weather-events)
-- [Announcing the SaaS Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/05/announcing-the-saas-stage-agenda-at-techcrunch-disrupt/)
-- [Time appeared to move 5 times more slowly in 1st billion years after Big Bang, quasar &#39;clocks&#39; reveal](https://www.space.com/quasar-clocks-universe-time-dilation)
-- [Fairphone’s repairable smartphone goes on sale in US for the first time — in a ‘deGoogled’ Murena e/OS variant](https://techcrunch.com/2023/07/05/fairphones-repairable-smartphone-goes-on-sale-in-us-for-the-first-time-in-a-degoogled-murena-e-os-variant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
