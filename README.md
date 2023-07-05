@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s Threads app is a privacy nightmare that won’t launch in EU yet](https://techcrunch.com/2023/07/05/threads-no-eu-launch/)
+- [Twitter silently removes login requirement for viewing tweets](https://techcrunch.com/2023/07/05/twitter-silently-removes-login-requirement-for-viewing-tweets/)
 - [Steering through venture’s global correction with the GPCA’s CEO](https://techcrunch.com/2023/07/05/steering-through-ventures-global-correction-with-the-gpcas-ceo/)
 - [Yes, investors will sign an NDA, but only in this specific circumstance](https://techcrunch.com/2023/07/05/vc-investor-nda/)
 - [The TechCrunch Disrupt 2023 July 4th sale ends today](https://techcrunch.com/2023/07/05/the-techcrunch-disrupt-2023-july-4th-sale-ends-today/)
-- [CADDi raises $89M Series C to scale its B2B supply chain marketplace for manufacturing parts](https://techcrunch.com/2023/07/05/caddi-raises-89m-series-c-to-scale-its-b2b-supply-chain-marketplace-for-manufacturing-parts/)
-- [Adam Mosseri says Meta’s Threads app won’t have ActivityPub support at launch](https://techcrunch.com/2023/07/05/adam-mosseri-says-metas-threads-app-wont-have-activitypub-support-at-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
