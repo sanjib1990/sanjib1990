@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thrive Capital doubles down on Clair, a fintech helping frontline workers get paid instantly](https://techcrunch.com/2023/07/06/thrive-capital-clair-fintech-front-line-worker/)
 - [This NASA probe has been revealing stunning moon views for 14 years. How long will it last?](https://www.space.com/moon-nasa-lunar-reconnaissance-orbiter-how-long)
 - [When will Ariane 6 fly? Europe&#39;s new heavy-lift rocket battles delays as Ariane 5 era ends](https://www.space.com/ariane-6-new-european-rocket-delays)
-- [Threads account cannot be deleted without nuking Instagram profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
+- [Threads profile can only be deleted by deleting Instagram account, Meta says](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
 - [Ask Sophie: What do I need to know about getting a J-1 exchange visa?](https://techcrunch.com/2023/07/05/ask-sophie-what-do-i-need-to-know-about-getting-a-j-1-exchange-visa/)
-- [This sex toy company uses ChatGPT to whisper sweet, customizable fantasies at you](https://techcrunch.com/2023/07/05/lovense-chatgpt-pleasure-companion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
