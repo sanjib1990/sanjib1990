@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s Starlink internet satellites &#39;leak&#39; so much radiation that it&#39;s hurting radio astronomy, scientists say](https://www.space.com/starlink-electronics-hum-disturbs-radio-astronomy)
-- [India to launch Chandrayaan-3 Moon lander mission on July 14](https://techcrunch.com/2023/07/06/india-chandrayaan-3-moon-lander-mission-launch-date/)
-- [Reagan Library unveils statue of Sally Ride, debuts song to honor 1st American woman in space](https://www.space.com/astronaut-sally-ride-statue-reagan-library-unveiled)
-- [YouTube is experimenting with a new lock screen feature for Premium users](https://techcrunch.com/2023/07/06/youtube-is-experimenting-with-a-new-lock-screen-feature-for-premium-users/)
-- [Elon Musk’s Twitter: Everything you need to know, from layoffs to verification](https://techcrunch.com/2023/07/06/elon-musk-twitter-everything-you-need-to-know/)
+- [Should you move to a new state for tax savings before selling your startup?](https://techcrunch.com/2023/07/06/should-you-move-to-a-new-state-for-tax-savings-before-selling-your-startup/)
+- [Astronaut shares stunning view of July&#39;s supermoon from space &lpar;photo&rpar;](https://www.space.com/astronaut-iss-july-supermoon-full-moon-photo)
+- [Is political unrest taking a toll on Israeli startups?](https://techcrunch.com/2023/07/06/israel-startups-h1-2023/)
+- [Threads won’t be fun — but it will give brands a home away from Twitter](https://techcrunch.com/2023/07/06/threads-wont-be-fun-but-it-will-give-brands-a-home-away-from-twitter/)
+- [What is Instagram’s Threads app? All your questions answered](https://techcrunch.com/2023/07/06/what-is-instagrams-threads-app-all-your-questions-answered/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
