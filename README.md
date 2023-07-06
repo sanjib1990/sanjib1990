@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India stacks moon lander, rover atop rocket ahead of July 13 launch &lpar;video, photos&rpar;](https://www.space.com/india-stacks-chandrayaan-3-moon-mission-rocket-photos)
-- [Volkswagen to start testing self-driving ID Buzz vans in Austin](https://techcrunch.com/2023/07/06/volkswagen-to-start-testing-self-driving-id-buzz-vans-in-austin/)
-- [Standard protocol: In a post-Twitter world, Mastodon and Bluesky need to get on the same page](https://techcrunch.com/2023/07/06/mastodon-bluesky-protocol-twitter-elon-musk/)
-- [Public Ventures launches $100M impact fund to invest in early-stage life science, clean tech](https://techcrunch.com/2023/07/06/public-ventures-launches-100m-impact-fund-to-invest-in-early-stage-life-science-cleantech/)
-- [&#39;Star Trek: Strange New Worlds&#39; season 2 episode 4 delivers a well-written nod to the original series](https://www.space.com/star-trek-strange-new-worlds-S02-E04-review)
+- [Reagan Library unveils statue of Sally Ride, debuts song to honor 1st American woman in space](https://www.space.com/astronaut-sally-ride-statue-reagan-library-unveiled)
+- [YouTube is experimenting with a new lock screen feature for Premium users](https://techcrunch.com/2023/07/06/youtube-is-experimenting-with-a-new-lock-screen-feature-for-premium-users/)
+- [More organizations confirm MOVEit-related breaches as hackers claim to publish stolen data](https://techcrunch.com/2023/07/06/more-organizations-confirm-moveit-related-breaches-as-hackers-claim-to-publish-stolen-data/)
+- [Instagram head says a Threads ‘Following’ feed is ‘on the list’ of upcoming features](https://techcrunch.com/2023/07/06/instagram-head-threads-adding-following-feed-other-additional-features/)
+- [DigitalOcean acquires cloud computing startup Paperspace for $111M in cash](https://techcrunch.com/2023/07/06/digitalocean-acquires-cloud-computing-startup-paperspace-for-111m-in-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
