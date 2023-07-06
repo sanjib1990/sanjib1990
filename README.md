@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 investors lift the lid on the biggest surprises of H1 2023](https://techcrunch.com/2023/07/06/2023-investors-surprises-regrets/)
+- [Director Valerie Weiss on her engrossing &#39;Star Trek: Strange New Worlds&#39; courtroom drama &lpar;exclusive&rpar;](https://www.space.com/valerie-weiss-star-trek-strange-new-worlds-interview)
+- [James Webb Space Telescope detects most distant active supermassive black hole ever seen](https://www.space.com/james-webb-space-telescope-most-distant-supermassive-black-hole)
+- [TikTok launches a music streaming service in Brazil and Indonesia called ‘TikTok Music’](https://techcrunch.com/2023/07/06/tiktok-launches-a-music-streaming-service-in-brazil-and-indonesia-called-tiktok-music/)
 - [Should you move to a new state for tax savings before selling your startup?](https://techcrunch.com/2023/07/06/should-you-move-to-a-new-state-for-tax-savings-before-selling-your-startup/)
-- [Astronaut shares stunning view of July&#39;s supermoon from space &lpar;photo&rpar;](https://www.space.com/astronaut-iss-july-supermoon-full-moon-photo)
-- [Is political unrest taking a toll on Israeli startups?](https://techcrunch.com/2023/07/06/israel-startups-h1-2023/)
-- [Threads won’t be fun — but it will give brands a home away from Twitter](https://techcrunch.com/2023/07/06/threads-wont-be-fun-but-it-will-give-brands-a-home-away-from-twitter/)
-- [What is Instagram’s Threads app? All your questions answered](https://techcrunch.com/2023/07/06/what-is-instagrams-threads-app-all-your-questions-answered/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
