@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony’s modular speaker system is a clever and portable take on the home theater](https://techcrunch.com/2023/07/06/sonys-modular-speaker-system-is-a-clever-and-portable-take-on-the-home-theater/)
+- [In-space propulsion developer Benchmark Space Systems closes $33M in new funding](https://techcrunch.com/2023/07/06/in-space-propulsion-developer-benchmark-space-systems-closes-33m-in-new-funding/)
+- [Deel under fire for alleged questionable hiring practices, advice to other companies](https://techcrunch.com/2023/07/06/deel-under-fire-for-alleged-questionable-hiring-practices-advice-to-other-companies/)
+- [Hungry black hole &#39;switches on&#39; as astronomers watch in surprise](https://www.space.com/hungry-black-hole-switches-on)
 - [Threads app hits Top 5 on Apple’s China App Store despite ban](https://techcrunch.com/2023/07/06/threads-surges-to-top-5-on-apples-china-app-store-despite-ban/)
-- [OpenAI makes GPT-4 generally available](https://techcrunch.com/2023/07/06/openai-makes-gpt-4-generally-available/)
-- [Amazon adds discounted healthcare to Prime Day deals](https://techcrunch.com/2023/07/06/amazon-adds-discounted-healthcare-to-prime-day-deals/)
-- [Say goodbye to Europe&#39;s Ariane 5 rocket with these stunning final launch photos](https://www.space.com/ariane-5-final-launch-photos)
-- [Twitter threatens to sue Meta over its new Threads app](https://techcrunch.com/2023/07/06/twitter-threatens-to-sue-meta-over-its-new-threads-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
