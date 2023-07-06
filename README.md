@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notion hits €300M for its fifth fund, but is unimpressed by big rounds into Generative AI startups](https://techcrunch.com/2023/07/05/notion-hits-e300m-for-its-fifth-fund-but-is-unimpressed-by-big-rounds-into-generative-ai-startups/)
 - [India’s electric two-wheeler sales hit a speed bump](https://techcrunch.com/2023/07/05/india-electric-two-wheeler-scooter-sales/)
 - [Threads passes 2 million downloads in 2 hours](https://techcrunch.com/2023/07/05/threads-passes-2-million-downloads-in-2-hours/)
 - [Brinc launches new program for climate tech startups](https://techcrunch.com/2023/07/05/brinc-climate-tech/)
 - [Mark Zuckerberg’s remarks on China cast shadow over Meta’s VR quest](https://techcrunch.com/2023/07/05/mark-zuckerbergs-remarks-on-china-cast-shadow-over-metas-vr-quest/)
-- [Threads, Meta’s Twitter competitor, is now live](https://techcrunch.com/2023/07/05/threads-metas-twitter-competitor-is-now-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
