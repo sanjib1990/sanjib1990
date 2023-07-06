@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India stacks moon lander, rover atop rocket ahead of July 13 launch &lpar;video, photos&rpar;](https://www.space.com/india-stacks-chandrayaan-3-moon-mission-rocket-photos)
+- [Volkswagen to start testing self-driving ID Buzz vans in Austin](https://techcrunch.com/2023/07/06/volkswagen-to-start-testing-self-driving-id-buzz-vans-in-austin/)
 - [Standard protocol: In a post-Twitter world, Mastodon and Bluesky need to get on the same page](https://techcrunch.com/2023/07/06/mastodon-bluesky-protocol-twitter-elon-musk/)
 - [Public Ventures launches $100M impact fund to invest in early-stage life science, clean tech](https://techcrunch.com/2023/07/06/public-ventures-launches-100m-impact-fund-to-invest-in-early-stage-life-science-cleantech/)
 - [&#39;Star Trek: Strange New Worlds&#39; season 2 episode 4 delivers a well-written nod to the original series](https://www.space.com/star-trek-strange-new-worlds-S02-E04-review)
-- [SoftBank backs Japanese robotics startup Telexistence in $170M funding round](https://techcrunch.com/2023/07/06/softbank-backs-japanese-robotics-startup-telexistence-in-170m-funding-round/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
