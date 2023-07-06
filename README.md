@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starlink internet satellites &#39;leak&#39; so much radiation that it&#39;s hurting radio astronomy, scientists say](https://www.space.com/starlink-electronics-hum-disturbs-radio-astronomy)
+- [India to launch Chandrayaan-3 Moon lander mission on July 14](https://techcrunch.com/2023/07/06/india-chandrayaan-3-moon-lander-mission-launch-date/)
 - [Reagan Library unveils statue of Sally Ride, debuts song to honor 1st American woman in space](https://www.space.com/astronaut-sally-ride-statue-reagan-library-unveiled)
 - [YouTube is experimenting with a new lock screen feature for Premium users](https://techcrunch.com/2023/07/06/youtube-is-experimenting-with-a-new-lock-screen-feature-for-premium-users/)
-- [More organizations confirm MOVEit-related breaches as hackers claim to publish stolen data](https://techcrunch.com/2023/07/06/more-organizations-confirm-moveit-related-breaches-as-hackers-claim-to-publish-stolen-data/)
-- [Instagram head says a Threads ‘Following’ feed is ‘on the list’ of upcoming features](https://techcrunch.com/2023/07/06/instagram-head-threads-adding-following-feed-other-additional-features/)
-- [DigitalOcean acquires cloud computing startup Paperspace for $111M in cash](https://techcrunch.com/2023/07/06/digitalocean-acquires-cloud-computing-startup-paperspace-for-111m-in-cash/)
+- [Elon Musk’s Twitter: Everything you need to know, from layoffs to verification](https://techcrunch.com/2023/07/06/elon-musk-twitter-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
