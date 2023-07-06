@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify is removing App Store payment option for legacy subscribers](https://techcrunch.com/2023/07/06/spotify-is-removing-app-store-payment-option-for-legacy-subscribers/)
-- [Happy Aphelion Day! Earth is at its farthest from the sun for 2023 today](https://www.space.com/earth-farthest-from-sun-aphelion-july-2023)
-- [Thrive Capital doubles down on Clair, a fintech helping frontline workers get paid instantly](https://techcrunch.com/2023/07/06/thrive-capital-clair-fintech-front-line-worker/)
-- [This NASA probe has been revealing stunning moon views for 14 years. How long will it last?](https://www.space.com/moon-nasa-lunar-reconnaissance-orbiter-how-long)
-- [When will Ariane 6 fly? Europe&#39;s new heavy-lift rocket battles delays as Ariane 5 era ends](https://www.space.com/ariane-6-new-european-rocket-delays)
+- [Standard protocol: In a post-Twitter world, Mastodon and Bluesky need to get on the same page](https://techcrunch.com/2023/07/06/mastodon-bluesky-protocol-twitter-elon-musk/)
+- [Public Ventures launches $100M impact fund to invest in early-stage life science, clean tech](https://techcrunch.com/2023/07/06/public-ventures-launches-100m-impact-fund-to-invest-in-early-stage-life-science-cleantech/)
+- [&#39;Star Trek: Strange New Worlds&#39; season 2 episode 4 delivers a well-written nod to the original series](https://www.space.com/star-trek-strange-new-worlds-S02-E04-review)
+- [SoftBank backs Japanese robotics startup Telexistence in $170M funding round](https://techcrunch.com/2023/07/06/softbank-backs-japanese-robotics-startup-telexistence-in-170m-funding-round/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
