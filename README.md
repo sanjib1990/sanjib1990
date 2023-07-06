@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads passes 2 million downloads in 2 hours](https://techcrunch.com/2023/07/05/threads-passes-2-million-downloads-in-2-hours/)
 - [Brinc launches new program for climate tech startups](https://techcrunch.com/2023/07/05/brinc-climate-tech/)
 - [Mark Zuckerberg’s remarks on China cast shadow over Meta’s VR quest](https://techcrunch.com/2023/07/05/mark-zuckerbergs-remarks-on-china-cast-shadow-over-metas-vr-quest/)
 - [Threads, Meta’s Twitter competitor, is now live](https://techcrunch.com/2023/07/05/threads-metas-twitter-competitor-is-now-live/)
 - [Bluesky announces its $8M seed round and first paid service, custom domains](https://techcrunch.com/2023/07/05/bluesky-announces-its-8m-seed-round-first-paid-service-custom-domains/)
-- [Farewell, Ariane 5! Europe&#39;s workhorse rocket launches 2 satellites on final mission](https://www.space.com/ariane-5-rocket-final-launch-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
