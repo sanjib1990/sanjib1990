@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe is more of a fuzzy tech cloud than a functioning ecosystem](https://techcrunch.com/2023/07/06/european-startup-ecosystem/)
+- [Maybe the second half of 2023 will have greater capital flowing into crypto, but maybe not](https://techcrunch.com/2023/07/06/heres-to-hoping-the-rest-of-2023-has-more-capital-flowing-into-crypto/)
 - [15 investors lift the lid on the biggest surprises of H1 2023](https://techcrunch.com/2023/07/06/2023-investors-surprises-regrets/)
 - [Director Valerie Weiss on her engrossing &#39;Star Trek: Strange New Worlds&#39; courtroom drama &lpar;exclusive&rpar;](https://www.space.com/valerie-weiss-star-trek-strange-new-worlds-interview)
 - [James Webb Space Telescope detects most distant active supermassive black hole ever seen](https://www.space.com/james-webb-space-telescope-most-distant-supermassive-black-hole)
-- [TikTok launches a music streaming service in Brazil and Indonesia called ‘TikTok Music’](https://techcrunch.com/2023/07/06/tiktok-launches-a-music-streaming-service-in-brazil-and-indonesia-called-tiktok-music/)
-- [Should you move to a new state for tax savings before selling your startup?](https://techcrunch.com/2023/07/06/should-you-move-to-a-new-state-for-tax-savings-before-selling-your-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
