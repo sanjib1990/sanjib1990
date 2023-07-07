@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU’s competition unit takes a deeper look at Amazon’s iRobot acquisition](https://techcrunch.com/2023/07/07/amazon-irobot-eu-antitrust-probe/)
 - [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
 - [Tesla to provide more info on its driver alert system amid Autopilot probe](https://techcrunch.com/2023/07/06/tesla-to-provide-more-info-on-its-driver-alert-system-amid-autopilot-probe/)
 - [You can’t post ass, Threads is doomed](https://techcrunch.com/2023/07/06/you-cant-post-ass-threads-is-doomed-meta-instagram-twitter/)
 - [EV truck maker Nikola fails again to secure enough shareholder support to issue more shares](https://techcrunch.com/2023/07/06/ev-truck-maker-nikola-fails-again-to-secure-enough-shareholder-support-to-issue-more-shares/)
-- [Sony’s modular speaker system is a clever and portable take on the home theater](https://techcrunch.com/2023/07/06/sonys-modular-speaker-system-is-a-clever-and-portable-take-on-the-home-theater/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
