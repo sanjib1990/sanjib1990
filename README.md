@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shazam can now identify songs from YouTube, Instagram and TikTok on iOS](https://techcrunch.com/2023/07/07/shazam-can-now-identify-songs-from-youtube-instagram-and-tiktok-on-ios/)
+- [SpaceX, NASA targeting Aug. 15 for launch of Crew-7 astronaut mission](https://www.space.com/spacex-nasa-crew-7-mission-august-15-launch)
+- [Apple purges predatory lending apps in India following scrutiny](https://techcrunch.com/2023/07/07/apple-purges-predatory-lending-apps-in-india-following-scrutiny/)
 - [Indonesian aquaculture startup eFishery nets $200M at unicorn valuation](https://techcrunch.com/2023/07/07/efisher-series-d/)
 - [Watch SpaceX launch 48 Starlink satellites today](https://www.space.com/spacex-starlink-group-5-13-launch)
-- [Mars and Venus leave the night sky this month. Here&#39;s how to say goodbye](https://www.space.com/mars-venus-say-farewell-july-2023)
-- [Threads doesn’t deserve my FOMO, but here we are](https://techcrunch.com/2023/07/07/threads-doesnt-deserve-my-fomo-but-here-we-are/)
-- [EU’s competition unit takes a deeper look at Amazon’s iRobot acquisition](https://techcrunch.com/2023/07/07/amazon-irobot-eu-antitrust-probe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
