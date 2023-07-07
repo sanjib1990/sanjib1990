@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT develops a motion and task planning system for home robots](https://techcrunch.com/2023/07/07/mit-develops-a-motion-and-task-planning-system-for-home-robots/)
+- [Meta launches a Threads beta program for Android users](https://techcrunch.com/2023/07/07/metas-new-threads-beta-program-for-android-will-give-users-early-access-to-new-features-and-bug-fixes/)
 - [New &#39;Foundation&#39; Season 2 trailer teases massive space stations and explosive combat &lpar;video&rpar;](https://www.space.com/foundation-season-2-extended-trailer-space-combat)
 - [Pulsar Fusion wants to use nuclear fusion to make interstellar space travel a reality](https://techcrunch.com/2023/07/07/pulsar-fusion-interstellar-space-travel-a-reality/)
 - [EV maker Fisker falls short of Q2 production target](https://techcrunch.com/2023/07/07/ev-maker-fisker-falls-short-of-q2-production-target/)
-- [So, how are Europe’s startups doing?](https://techcrunch.com/2023/07/07/so-how-are-europes-startups-doing/)
-- [Heat shield installed for Artemis 2 moon mission &lpar;photo&rpar;](https://www.space.com/artemis-ii-orion-heat-shield-install)
 <!-- BLOG-POST-LIST:END -->
 
 ---
