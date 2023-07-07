@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet looks ready to fly in new photos](https://www.space.com/nasa-x-59-quiet-supersonic-jet-photos)
+- [Pitch Deck Teardown: Nokod Security’s $8M seed deck](https://techcrunch.com/2023/07/07/sample-seed-pitch-deck-nokod-security/)
+- [Morphing NASA robot could someday walk, fly and drive over alien planets &lpar;video&rpar;](https://www.space.com/nasa-jpl-morphobot-robot)
+- [Google Calendar now lets users specify where they’re working from throughout the day](https://techcrunch.com/2023/07/07/google-calendar-now-lets-users-specify-where-theyre-working-from-throughout-the-day/)
 - [YouTube tests AI-generated quizzes on educational videos](https://techcrunch.com/2023/07/07/youtube-tests-ai-generated-quizzes-on-educational-videos/)
-- [TechCrunch+ roundup: J-1 visa details, how to close a Series B in 2023, moving for tax savings](https://techcrunch.com/2023/07/07/techcrunch-roundup-j-1-visa-details-how-to-close-a-series-b-in-2023-moving-for-tax-savings/)
-- [The best electric bikes in 2023 for every type of rider](https://techcrunch.com/2023/07/07/the-best-electric-bikes-in-2023-for-every-type-of-rider/)
-- [Why is the sun&#39;s outer atmosphere so staggeringly hot? AI could help us find out](https://www.space.com/sun-corona-heating-mystery-artificial-intelligence)
-- [This $3,000, 32-inch e-ink display brings newspaper front pages to your wall](https://techcrunch.com/2023/07/07/this-3000-32-inch-e-ink-display-brings-newspaper-front-pages-to-your-wall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
