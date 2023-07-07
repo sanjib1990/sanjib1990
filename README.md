@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Go for stack&#39;: Museum to start taking space shuttle Endeavour vertical for launchpad-like display](https://www.space.com/space-shuttle-endeavour-go-for-stack-museum-display)
+- [As Threads soars, Twitter rival Bluesky hits its first million installs](https://techcrunch.com/2023/07/07/as-threads-soars-twitter-rival-bluesky-hits-its-first-million-installs/)
+- [SpeedyBrand uses generative AI to create SEO-optimized content](https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/)
 - [Shazam can now identify songs from YouTube, Instagram and TikTok on iOS](https://techcrunch.com/2023/07/07/shazam-can-now-identify-songs-from-youtube-instagram-and-tiktok-on-ios/)
 - [SpaceX, NASA targeting Aug. 15 for launch of Crew-7 astronaut mission](https://www.space.com/spacex-nasa-crew-7-mission-august-15-launch)
-- [Apple purges predatory lending apps in India following scrutiny](https://techcrunch.com/2023/07/07/apple-purges-predatory-lending-apps-in-india-following-scrutiny/)
-- [Indonesian aquaculture startup eFishery nets $200M at unicorn valuation](https://techcrunch.com/2023/07/07/efisher-series-d/)
-- [Watch SpaceX launch 48 Starlink satellites today](https://www.space.com/spacex-starlink-group-5-13-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
