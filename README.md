@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet looks ready to fly in new photos](https://www.space.com/nasa-x-59-quiet-supersonic-jet-photos)
-- [Pitch Deck Teardown: Nokod Security’s $8M seed deck](https://techcrunch.com/2023/07/07/sample-seed-pitch-deck-nokod-security/)
-- [Morphing NASA robot could someday walk, fly and drive over alien planets &lpar;video&rpar;](https://www.space.com/nasa-jpl-morphobot-robot)
-- [Google Calendar now lets users specify where they’re working from throughout the day](https://techcrunch.com/2023/07/07/google-calendar-now-lets-users-specify-where-theyre-working-from-throughout-the-day/)
-- [YouTube tests AI-generated quizzes on educational videos](https://techcrunch.com/2023/07/07/youtube-tests-ai-generated-quizzes-on-educational-videos/)
+- [So, how are Europe’s startups doing?](https://techcrunch.com/2023/07/07/so-how-are-europes-startups-doing/)
+- [Heat shield installed for Artemis 2 moon mission &lpar;photo&rpar;](https://www.space.com/artemis-ii-orion-heat-shield-install)
+- [China wraps up fintech crackdown with big fines on Tencent, Alibaba](https://techcrunch.com/2023/07/07/china-wraps-up-fintech-crackdown-with-big-fines-on-tencent-and-alibaba/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [How to identify, interview and hire a head of growth for an early-stage startup](https://techcrunch.com/2023/07/07/how-to-identify-interview-and-hire-a-head-of-growth-for-an-early-stage-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
