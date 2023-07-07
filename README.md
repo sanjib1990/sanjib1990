@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla to provide more info on its driver alert system amid Autopilot probe](https://techcrunch.com/2023/07/06/tesla-to-provide-more-info-on-its-driver-alert-system-amid-autopilot-probe/)
-- [You can’t post ass, Threads is doomed](https://techcrunch.com/2023/07/06/you-cant-post-ass-threads-is-doomed-meta-instagram-twitter/)
-- [EV truck maker Nikola fails again to secure enough shareholder support to issue more shares](https://techcrunch.com/2023/07/06/ev-truck-maker-nikola-fails-again-to-secure-enough-shareholder-support-to-issue-more-shares/)
-- [Sony’s modular speaker system is a clever and portable take on the home theater](https://techcrunch.com/2023/07/06/sonys-modular-speaker-system-is-a-clever-and-portable-take-on-the-home-theater/)
 - [What is Instagram’s Threads app? All your questions answered](https://techcrunch.com/2023/07/06/what-is-instagrams-threads-app-all-your-questions-answered/)
+- [Hungry black hole &#39;switches on&#39; as astronomers watch in surprise](https://www.space.com/hungry-black-hole-switches-on)
+- [Say goodbye to Europe&#39;s Ariane 5 rocket with these stunning final launch photos](https://www.space.com/ariane-5-final-launch-photos)
+- [What would it be like to walk on an asteroid? Scientists explain &lpar;video&rpar;](https://www.space.com/asteroid-walking-scientists-explain)
+- [Director Valerie Weiss on her engrossing &#39;Star Trek: Strange New Worlds&#39; courtroom drama &lpar;exclusive&rpar;](https://www.space.com/valerie-weiss-star-trek-strange-new-worlds-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
