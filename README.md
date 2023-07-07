@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indonesian aquaculture startup eFishery nets $200M at unicorn valuation](https://techcrunch.com/2023/07/07/efisher-series-d/)
 - [Watch SpaceX launch 48 Starlink satellites today](https://www.space.com/spacex-starlink-group-5-13-launch)
 - [Mars and Venus leave the night sky this month. Here&#39;s how to say goodbye](https://www.space.com/mars-venus-say-farewell-july-2023)
 - [Threads doesn’t deserve my FOMO, but here we are](https://techcrunch.com/2023/07/07/threads-doesnt-deserve-my-fomo-but-here-we-are/)
 - [EU’s competition unit takes a deeper look at Amazon’s iRobot acquisition](https://techcrunch.com/2023/07/07/amazon-irobot-eu-antitrust-probe/)
-- [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
