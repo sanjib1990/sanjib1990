@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Martin Lewis warns over ‘first’ deepfake video scam ad circulating on Facebook](https://techcrunch.com/2023/07/07/martin-lewis-deepfake-scam-ad-facebook/)
-- [Retro is a deeply personal photo journaling app for close friends](https://techcrunch.com/2023/07/07/retro-is-a-deeply-personal-photo-journaling-app-for-close-friends/)
-- [Challenger bank N26 finally adds French IBANs](https://techcrunch.com/2023/07/07/challenger-bank-n26-finally-adds-french-ibans/)
-- [Web3 games don’t need to highlight blockchain elements to succeed](https://techcrunch.com/2023/07/07/web3-games-dont-need-to-highlight-blockchain-elements-to-succeed/)
-- [Aliens return to conquer Earth in &#39;Invasion&#39; Season 2 on Apple TV+](https://www.space.com/news/aliens-return-to-conquer-earth-in-invasion-season-2-on-apple-tv)
+- [YouTube tests AI-generated quizzes on educational videos](https://techcrunch.com/2023/07/07/youtube-tests-ai-generated-quizzes-on-educational-videos/)
+- [TechCrunch+ roundup: J-1 visa details, how to close a Series B in 2023, moving for tax savings](https://techcrunch.com/2023/07/07/techcrunch-roundup-j-1-visa-details-how-to-close-a-series-b-in-2023-moving-for-tax-savings/)
+- [The best electric bikes in 2023 for every type of rider](https://techcrunch.com/2023/07/07/the-best-electric-bikes-in-2023-for-every-type-of-rider/)
+- [Why is the sun&#39;s outer atmosphere so staggeringly hot? AI could help us find out](https://www.space.com/sun-corona-heating-mystery-artificial-intelligence)
+- [This $3,000, 32-inch e-ink display brings newspaper front pages to your wall](https://techcrunch.com/2023/07/07/this-3000-32-inch-e-ink-display-brings-newspaper-front-pages-to-your-wall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
