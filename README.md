@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Martin Lewis warns over ‘first’ deepfake video scam ad circulating on Facebook](https://techcrunch.com/2023/07/07/martin-lewis-deepfake-scam-ad-facebook/)
+- [Retro is a deeply personal photo journaling app for close friends](https://techcrunch.com/2023/07/07/retro-is-a-deeply-personal-photo-journaling-app-for-close-friends/)
+- [Challenger bank N26 finally adds French IBANs](https://techcrunch.com/2023/07/07/challenger-bank-n26-finally-adds-french-ibans/)
+- [Web3 games don’t need to highlight blockchain elements to succeed](https://techcrunch.com/2023/07/07/web3-games-dont-need-to-highlight-blockchain-elements-to-succeed/)
 - [Aliens return to conquer Earth in &#39;Invasion&#39; Season 2 on Apple TV+](https://www.space.com/news/aliens-return-to-conquer-earth-in-invasion-season-2-on-apple-tv)
-- [Unistellar&#39;s early Amazon Prime Day telescope deals can save you $800](https://www.space.com/unistellar-evscope-equinox-prime-day-deals-2023)
-- [SVB’s collapse drove 26K customers to Mercury in 4 months](https://techcrunch.com/2023/07/07/mercury-says-it-gained-nearly-26k-new-customers-in-the-four-months-after-svbs-collapse/)
-- [Where was the sun? Here&#39;s why astronomers are more useful in court cases than you&#39;d think](https://www.space.com/where-was-the-sun-astronomers-useful-in-court-cases)
-- [Bangladesh government website leaks citizens’ personal data](https://techcrunch.com/2023/07/07/bangladesh-government-website-leaks-citizens-personal-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
