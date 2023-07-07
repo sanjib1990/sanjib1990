@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
 - [Quantum Computing in Reality &lpar;Pt3: Beyond the Hype&rpar; - Computerphile](https://www.youtube.com/watch?v=gH_rF9LLzFA)
 - [The sad truth about Twitter’s rate limit](https://www.youtube.com/watch?v=3AS5x05XIyg)
 - [how to HACK a password // Windows Edition](https://www.youtube.com/watch?v=L26Xq7m0uQ0)
 - [How Safe are Short Links?](https://www.youtube.com/watch?v=ElQxbbNBayI)
-- [This unicorn startup faked 95% of its users](https://www.youtube.com/watch?v=M_wZpSEvOkc)
 <!-- YOUTUBE:END -->
 
 ---
