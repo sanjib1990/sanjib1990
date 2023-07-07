@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Go for stack&#39;: Museum to start taking space shuttle Endeavour vertical for launchpad-like display](https://www.space.com/space-shuttle-endeavour-go-for-stack-museum-display)
-- [As Threads soars, Twitter rival Bluesky hits its first million installs](https://techcrunch.com/2023/07/07/as-threads-soars-twitter-rival-bluesky-hits-its-first-million-installs/)
-- [SpeedyBrand uses generative AI to create SEO-optimized content](https://techcrunch.com/2023/07/07/speedybrand-generative-ai-marketing/)
-- [Shazam can now identify songs from YouTube, Instagram and TikTok on iOS](https://techcrunch.com/2023/07/07/shazam-can-now-identify-songs-from-youtube-instagram-and-tiktok-on-ios/)
-- [SpaceX, NASA targeting Aug. 15 for launch of Crew-7 astronaut mission](https://www.space.com/spacex-nasa-crew-7-mission-august-15-launch)
+- [SVB’s collapse drove 26K customers to Mercury in 4 months](https://techcrunch.com/2023/07/07/mercury-says-it-gained-nearly-26k-new-customers-in-the-four-months-after-svbs-collapse/)
+- [Where was the sun? Here&#39;s why astronomers are more useful in court cases than you&#39;d think](https://www.space.com/where-was-the-sun-astronomers-useful-in-court-cases)
+- [Bangladesh government website leaks citizens’ personal data](https://techcrunch.com/2023/07/07/bangladesh-government-website-leaks-citizens-personal-data/)
+- [Mercedes-Benz adopts Tesla’s NACS charging standard](https://techcrunch.com/2023/07/07/mercedes-benz-adopts-teslas-nacs-charging-standard/)
+- [Google’s Gradient Ventures backs Weflow to bring greater hygiene to Salesforce data](https://techcrunch.com/2023/07/07/googles-gradient-ventures-backs-weflow-to-bring-greater-hygiene-to-salesforce-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
