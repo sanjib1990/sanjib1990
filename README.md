@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aliens return to conquer Earth in &#39;Invasion&#39; Season 2 on Apple TV+](https://www.space.com/news/aliens-return-to-conquer-earth-in-invasion-season-2-on-apple-tv)
+- [Unistellar&#39;s early Amazon Prime Day telescope deals can save you $800](https://www.space.com/unistellar-evscope-equinox-prime-day-deals-2023)
 - [SVB’s collapse drove 26K customers to Mercury in 4 months](https://techcrunch.com/2023/07/07/mercury-says-it-gained-nearly-26k-new-customers-in-the-four-months-after-svbs-collapse/)
 - [Where was the sun? Here&#39;s why astronomers are more useful in court cases than you&#39;d think](https://www.space.com/where-was-the-sun-astronomers-useful-in-court-cases)
 - [Bangladesh government website leaks citizens’ personal data](https://techcrunch.com/2023/07/07/bangladesh-government-website-leaks-citizens-personal-data/)
-- [Mercedes-Benz adopts Tesla’s NACS charging standard](https://techcrunch.com/2023/07/07/mercedes-benz-adopts-teslas-nacs-charging-standard/)
-- [Google’s Gradient Ventures backs Weflow to bring greater hygiene to Salesforce data](https://techcrunch.com/2023/07/07/googles-gradient-ventures-backs-weflow-to-bring-greater-hygiene-to-salesforce-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
