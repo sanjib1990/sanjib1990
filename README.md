@@ -98,7 +98,7 @@
 - [If you don’t buy Jony Ive’s $60,000 turntable, are you really a music fan?](https://techcrunch.com/2023/07/07/if-you-dont-buy-jony-ives-60000-turntable-are-you-really-a-music-fan/)
 - [MIT develops a motion and task planning system for home robots](https://techcrunch.com/2023/07/07/mit-develops-a-motion-and-task-planning-system-for-home-robots/)
 - [Meta launches a Threads beta program for Android users](https://techcrunch.com/2023/07/07/metas-new-threads-beta-program-for-android-will-give-users-early-access-to-new-features-and-bug-fixes/)
-- [New &#39;Foundation&#39; Season 2 trailer teases massive space stations and explosive combat &lpar;video&rpar;](https://www.space.com/foundation-season-2-extended-trailer-space-combat)
+- [New &#39;Foundation&#39; Season 2 trailer teases massive spaceships and explosive combat &lpar;video&rpar;](https://www.space.com/foundation-season-2-extended-trailer-space-combat)
 <!-- BLOG-POST-LIST:END -->
 
 ---
