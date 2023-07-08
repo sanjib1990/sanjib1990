@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Catastrophic climate &#39;doom loops&#39; could start in just 15 years, new study warns](https://www.space.com/catastrophic-climate-doom-loops-in-15-years-new-study)
 - [Stay up late and see the half-lit moon in its last quarter phase tonight](https://www.space.com/half-lit-moon-third-quarter-july-2023)
 - [SpaceX, FAA seek to dismiss environmental groups&#39; Starship lawsuit](https://www.space.com/spacex-faa-seek-dismiss-starship-lawsuit)
 - [Meta’s vision for Threads is more mega-mall than public square](https://techcrunch.com/2023/07/07/threads-shopping-mall-not-a-public-square/)
 - [If you don’t buy Jony Ive’s $60,000 turntable, are you really a music fan?](https://techcrunch.com/2023/07/07/if-you-dont-buy-jony-ives-60000-turntable-are-you-really-a-music-fan/)
-- [MIT develops a motion and task planning system for home robots](https://techcrunch.com/2023/07/07/mit-develops-a-motion-and-task-planning-system-for-home-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
