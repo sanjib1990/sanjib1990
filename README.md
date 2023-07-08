@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: Startups can still raise capital — even if it’s for a good cause](https://techcrunch.com/2023/07/08/impact-driven-venture-everytable/)
 - [The week in AI: Generative AI spams up the web](https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/)
 - [Watch SpaceX Falcon 9 rocket launch for record-breaking 16th time Sunday morning](https://www.space.com/spacex-starlink-group-6-5-record-breaking-launch)
 - [Yes, solar storms are increasing, but don&#39;t lose sleep over an &#39;internet apocalypse.&#39;](https://www.space.com/sun-solar-storm-internet-apocalypse-debunking)
 - [Swirls of liquid iron may be trapped inside Earth&#39;s &#39;solid&#39; core](https://www.space.com/swirls-liquid-iron-trapped-inside-earth-solid-core)
-- [Catastrophic climate &#39;doom loops&#39; could start in just 15 years, new study warns](https://www.space.com/catastrophic-climate-doom-loops-in-15-years-new-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
