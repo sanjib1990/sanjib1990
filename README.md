@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best e-bikes for every type of rider and where Chinese EV makers are headed](https://techcrunch.com/2023/07/09/the-best-e-bikes-for-every-type-of-rider-and-mercedes-adopts-teslas-charging-standard/)
 - [Eliminating food waste is the next frontier in saving the planet](https://techcrunch.com/2023/07/09/food-waste-climate-tech-fridgely-mill/)
 - [Seven things every EV fast-charging network needs](https://techcrunch.com/2023/07/09/ev-charging-bill-of-rights/)
 - [Clair raises, Deel defends allegations and Mercury shares post-SVB growth figures](https://techcrunch.com/2023/07/09/2566528/)
 - [The climate of Mars changed dramatically 400,000 years ago, Chinese rover finds](https://www.space.com/mars-climate-shift-china-mars-rover-zhurong)
-- [Mushroom-shaped superplume of scorching hot rock may be splitting Africa in 2](https://www.space.com/mushroom-shaped-superplume-splitting-africa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
