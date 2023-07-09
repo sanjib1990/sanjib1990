@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seven things every EV fast-charging network needs](https://techcrunch.com/2023/07/09/ev-charging-bill-of-rights/)
+- [Clair raises, Deel defends allegations and Mercury shares post-SVB growth figures](https://techcrunch.com/2023/07/09/2566528/)
 - [The climate of Mars changed dramatically 400,000 years ago, Chinese rover finds](https://www.space.com/mars-climate-shift-china-mars-rover-zhurong)
 - [Mushroom-shaped superplume of scorching hot rock may be splitting Africa in 2](https://www.space.com/mushroom-shaped-superplume-splitting-africa)
 - [James Webb telescope detects the earliest strand in the &#39;cosmic web&#39; ever seen](https://www.space.com/james-webb-space-telescope-detects-earliest-cosmic-web-strand)
-- [Huge granite &#39;body&#39; on far side of the moon offers clues to ancient lunar volcanoes](https://www.space.com/moon-volcanoes-granite-body-lunar-reconnaissance-orbiter)
-- [Meta’s Threads goes live, OpenAI launches GPT-4 and Pornhub blocks access](https://techcrunch.com/2023/07/08/metas-threads-goes-live-openai-launches-gpt-4-and-pornhub-blocks-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
