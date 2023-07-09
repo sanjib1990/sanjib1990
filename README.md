@@ -98,7 +98,7 @@
 - [Vertical AI and who might build it](https://techcrunch.com/2023/07/08/vertical-ai-saas-founders/)
 - [Deal Dive: Startups can still raise capital — even if it’s for a good cause](https://techcrunch.com/2023/07/08/impact-driven-venture-everytable/)
 - [The week in AI: Generative AI spams up the web](https://techcrunch.com/2023/07/08/the-week-in-ai-generative-ai-spams-up-the-web/)
-- [Watch SpaceX Falcon 9 rocket launch for record-breaking 16th time Sunday morning](https://www.space.com/spacex-starlink-group-6-5-record-breaking-launch)
+- [Watch SpaceX Falcon 9 rocket launch for record-breaking 16th time Sunday evening](https://www.space.com/spacex-starlink-group-6-5-record-breaking-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
