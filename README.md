@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Astra Spacecraft Engines, Inc.](https://techcrunch.com/2023/07/10/max-q-astra-spacecraft-engines-inc/)
 - [Twitch is launching a discovery feed and other short-form video features](https://techcrunch.com/2023/07/10/twitch-discovery-feed-stories-tiktok-youtube-twitchcon-paris-new-features/)
+- [New ExoMars lander contract will be issued in a few months](https://www.space.com/mars-landing-exomars-mission-contract-issued-shortly-esa)
 - [Starlink satellites are dodging objects in orbit thousands of times every month](https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/)
 - [You don’t need VC to develop a consumer tech product](https://techcrunch.com/2023/07/10/you-dont-need-vc-to-develop-a-consumer-tech-product/)
-- [Volunteer your way to attend TechCrunch Disrupt 2023 for free](https://techcrunch.com/2023/07/10/apply-volunteer-get-free-pass-techcrunch-disrupt-2023/)
-- [James Webb Space Telescope time travels billions of years in amazing 3D visualization &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-3d-video-13-billion-year-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
