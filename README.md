@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Longshot Space wants to make space launch dumb – and really cheap, too](https://techcrunch.com/2023/07/10/longshot-space-wants-to-make-space-launch-dumb-and-really-cheap-too/)
+- [IP for startups: It starts with strategy](https://techcrunch.com/2023/07/10/ip-for-startups-strategy/)
 - [EA to launch single-player Black Panther video game](https://techcrunch.com/2023/07/10/ea-to-launch-single-player-black-panther-video-game/)
 - [Snap is teaming up with Linktree to let users include links in their profiles](https://techcrunch.com/2023/07/10/snap-is-teaming-up-with-linktree-to-let-users-include-links-in-their-profiles/)
 - [Forget Prime Day — the Canon EOS R6 is $300 off at Adorama](https://www.space.com/canon-eos-r6-300-off-adorama-amazon-prime-day-summer-sales)
-- [Europe adopts US data adequacy decision](https://techcrunch.com/2023/07/10/eu-us-data-privacy-framework-adoption/)
-- [As the value of startup exits craters, poor liquidity may be harming VCs’ ability to raise capital](https://techcrunch.com/2023/07/10/as-the-value-of-startup-exits-craters-poor-liquidity-may-be-harming-vcs-ability-to-raise-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
