@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch is launching a discovery feed and other short-form video features](https://techcrunch.com/2023/07/10/twitch-discovery-feed-stories-tiktok-youtube-twitchcon-paris-new-features/)
+- [Starlink satellites are dodging objects in orbit thousands of times every month](https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/)
+- [You don’t need VC to develop a consumer tech product](https://techcrunch.com/2023/07/10/you-dont-need-vc-to-develop-a-consumer-tech-product/)
 - [Volunteer your way to attend TechCrunch Disrupt 2023 for free](https://techcrunch.com/2023/07/10/apply-volunteer-get-free-pass-techcrunch-disrupt-2023/)
 - [James Webb Space Telescope time travels billions of years in amazing 3D visualization &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-3d-video-13-billion-year-journey)
-- [Fisker to sell $340M in convertible notes to fund operations, add battery pack capacity](https://techcrunch.com/2023/07/10/fisker-to-sell-340m-in-convertible-notes-to-fund-operations-add-battery-pack-capacity/)
-- [Netflix’s AI-assisted green screen bathes actors in eye-searing magenta](https://techcrunch.com/2023/07/10/netflixs-ai-assisted-green-screen-bathes-actors-in-eye-searing-magenta/)
-- [Colliding black holes could hide in the light of superbright quasars](https://www.space.com/colliding-black-holes-hide-quasar-light)
 <!-- BLOG-POST-LIST:END -->
 
 ---
