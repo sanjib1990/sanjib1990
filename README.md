@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upside Foods shares its recipe for scaling cultivated meat at TC Disrupt 2023](https://techcrunch.com/2023/07/10/upside-foods-shares-its-recipe-for-scaling-cultivated-meat-at-tc-disrupt-2023/)
+- [Black Sesame, Chinese auto chip challenger to Nvidia, burns $140M a year](https://techcrunch.com/2023/07/10/black-sesame-ipo-nvidia-rival-auto-chip/)
 - [JumpCloud resets customer API keys citing ‘ongoing incident’](https://techcrunch.com/2023/07/10/jumpcloud-api-keys-ongoing-incident/)
 - [Boom! Watch an inflatable space habitat explode during testing &lpar;video&rpar;](https://www.space.com/lockheed-inflatable-habitat-burst-test-2)
 - [Verifiable validates its healthcare credentialing software with another $27M](https://techcrunch.com/2023/07/10/verifiable-healthcare-credentialing-software-27m/)
-- [UK battles hacking wave as ransomware gang claims ‘biggest ever’ NHS breach](https://techcrunch.com/2023/07/10/uk-hacks-public-sector-nhs-ransomware/)
-- [James Webb Space Telescope spots violent collision between neutron stars](https://www.space.com/james-webb-space-telescope-kilonova-neutron-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
