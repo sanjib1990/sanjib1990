@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Car-sharing revenue could be a first step to mainstream adoption of web3 in the enterprise](https://techcrunch.com/2023/07/10/web3-enterprise-adoption/)
-- [The 1st light to flood the universe can help unravel the history of the cosmos. Here&#39;s how](https://www.space.com/universe-first-light-cosmic-microwave-background-history-cosmos)
-- [Sourcetable raises $3M, claiming the future of spreadsheets is spreadsheets](https://techcrunch.com/2023/07/10/sourcetable-seed-investment/)
-- [Save $500 on Prime Day&#39;s lowest-ever Canon EOS R5 camera deal](https://www.space.com/news/save-dollar500-on-prime-days-lowest-ever-canon-eos-r5-camera-deal)
-- [Longshot Space wants to make space launch dumb — and really cheap](https://techcrunch.com/2023/07/10/longshot-space-wants-to-make-space-launch-dumb-and-really-cheap-too/)
+- [Volunteer your way to attend TechCrunch Disrupt 2023 for free](https://techcrunch.com/2023/07/10/apply-volunteer-get-free-pass-techcrunch-disrupt-2023/)
+- [James Webb Space Telescope time travels billions of years in amazing 3D visualization &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-3d-video-13-billion-year-journey)
+- [Fisker to sell $340M in convertible notes to fund operations, add battery pack capacity](https://techcrunch.com/2023/07/10/fisker-to-sell-340m-in-convertible-notes-to-fund-operations-add-battery-pack-capacity/)
+- [Netflix’s AI-assisted green screen bathes actors in eye-searing magenta](https://techcrunch.com/2023/07/10/netflixs-ai-assisted-green-screen-bathes-actors-in-eye-searing-magenta/)
+- [Colliding black holes could hide in the light of superbright quasars](https://www.space.com/colliding-black-holes-hide-quasar-light)
 <!-- BLOG-POST-LIST:END -->
 
 ---
