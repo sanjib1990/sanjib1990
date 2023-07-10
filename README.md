@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JumpCloud resets customer API keys citing ‘ongoing incident’](https://techcrunch.com/2023/07/10/jumpcloud-api-keys-ongoing-incident/)
+- [Boom! Watch an inflatable space habitat explode during testing &lpar;video&rpar;](https://www.space.com/lockheed-inflatable-habitat-burst-test-2)
+- [Verifiable validates its healthcare credentialing software with another $27M](https://techcrunch.com/2023/07/10/verifiable-healthcare-credentialing-software-27m/)
 - [UK battles hacking wave as ransomware gang claims ‘biggest ever’ NHS breach](https://techcrunch.com/2023/07/10/uk-hacks-public-sector-nhs-ransomware/)
-- [How to get the old version of TweetDeck back](https://techcrunch.com/2023/07/10/how-to-get-the-old-version-of-tweetdeck-back/)
-- [See the Red Planet Mars shine beside the blue star Regulus tonight](https://www.space.com/mars-red-planet-blue-star-regulus-july-2023)
-- [Is the puzzling star Betelgeuse going to explode in our lifetime after all?](https://www.space.com/betelgeuse-supernova-in-our-lifetime-study-unsure)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [James Webb Space Telescope spots violent collision between neutron stars](https://www.space.com/james-webb-space-telescope-kilonova-neutron-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
