@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Longshot Space wants to make space launch dumb – and really cheap, too](https://techcrunch.com/2023/07/10/longshot-space-wants-to-make-space-launch-dumb-and-really-cheap-too/)
+- [Sourcetable raises $3M, claiming the future of spreadsheets is spreadsheets](https://techcrunch.com/2023/07/10/sourcetable-seed-investment/)
+- [Save $500 on Prime Day&#39;s lowest-ever Canon EOS R5 camera deal](https://www.space.com/news/save-dollar500-on-prime-days-lowest-ever-canon-eos-r5-camera-deal)
+- [Longshot Space wants to make space launch dumb — and really cheap](https://techcrunch.com/2023/07/10/longshot-space-wants-to-make-space-launch-dumb-and-really-cheap-too/)
 - [IP for startups: It starts with strategy](https://techcrunch.com/2023/07/10/ip-for-startups-strategy/)
 - [EA to launch single-player Black Panther video game](https://techcrunch.com/2023/07/10/ea-to-launch-single-player-black-panther-video-game/)
-- [Snap is teaming up with Linktree to let users include links in their profiles](https://techcrunch.com/2023/07/10/snap-is-teaming-up-with-linktree-to-let-users-include-links-in-their-profiles/)
-- [Forget Prime Day — the Canon EOS R6 is $300 off at Adorama](https://www.space.com/canon-eos-r6-300-off-adorama-amazon-prime-day-summer-sales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
