@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [FrontRow, a learning platform featuring celebrities, shuts down](https://techcrunch.com/2023/07/10/frontrow-shutdown/)
 - [HR tech startup Propel wants to power the open talent economy via tech communities](https://techcrunch.com/2023/07/10/hr-tech-startup-propel-wants-to-accelerate-the-growth-of-tech-and-developer-communities/)
 - [Instagram’s Threads app reaches 100 million users within just five days](https://techcrunch.com/2023/07/10/instagrams-threads-app-reaches-100-million-users-in-just-five-days/)
 - [The best e-bikes for every type of rider and where Chinese EV makers are headed](https://techcrunch.com/2023/07/09/the-best-e-bikes-for-every-type-of-rider-and-mercedes-adopts-teslas-charging-standard/)
-- [Eliminating food waste is the next frontier in saving the planet](https://techcrunch.com/2023/07/09/food-waste-climate-tech-fridgely-mill/)
-- [Seven things every EV fast-charging network needs](https://techcrunch.com/2023/07/09/ev-charging-bill-of-rights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
