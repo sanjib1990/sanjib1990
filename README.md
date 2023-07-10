@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [10 DevOps Tools you need to know - The Complete Guide](https://www.youtube.com/watch?v=UMQGyeAnfFE)
 - [ChatGPT just leveled up big time...](https://www.youtube.com/watch?v=p6Yw0Bx5dbw)
 - [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
 - [Quantum Computing in Reality &lpar;Pt3: Beyond the Hype&rpar; - Computerphile](https://www.youtube.com/watch?v=gH_rF9LLzFA)
 - [The sad truth about Twitter’s rate limit](https://www.youtube.com/watch?v=3AS5x05XIyg)
-- [how to HACK a password // Windows Edition](https://www.youtube.com/watch?v=L26Xq7m0uQ0)
 <!-- YOUTUBE:END -->
 
 ---
