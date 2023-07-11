@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [eBay acquires AI-powered product authentication company Certilogo](https://techcrunch.com/2023/07/11/ebay-acquires-product-authentication-company-certilogo/)
-- [The quest for solid-state EV batteries](https://techcrunch.com/2023/07/11/solid-state-ev-batteries/)
-- [Sustainable Ocean Alliance converts its accelerator into a broader ‘Ecopreneur Network’](https://techcrunch.com/2023/07/11/sustainable-ocean-alliance-converts-its-accelerator-into-a-broader-ecopreneur-network/)
-- [Save the galaxy – and a few credits – with these Star Wars board game deals in the Prime Day sale](https://www.space.com/star-wars-board-games-deals-amazon-prime-day)
-- [We love the Celestron Skymaster 25x100 — and it is half-price for one day only!](https://www.space.com/celestron-skymaster-25x100-binoculars-deal-amazon-prime-day-half-price)
+- [Netflix updates ‘Profile Transfer’ feature so users can switch to an existing account](https://techcrunch.com/2023/07/11/netflix-updates-profile-transfer-feature-so-users-can-switch-to-an-existing-account/)
+- [&#39;Ohioans in Space&#39; mural to recognize state&#39;s astronauts in capitol](https://www.space.com/ohioians-in-space-statehouse-mural)
+- [Twitter blocks links to rival Threads, while CEO downplays reports of traffic decline](https://techcrunch.com/2023/07/11/twitter-blocks-links-to-rival-threads-while-ceo-downplays-reports-of-traffic-decline/)
+- [Stargaze for longer with the Celestron PowerTank Lithium, now over 30% off](https://www.space.com/celestron-powertank-lithium-power-bank-flash-light-deal-amazon-prime-day-skywatching)
+- [Shutterstock expands deal with OpenAI to build generative AI tools](https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
