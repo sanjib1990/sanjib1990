@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Outverse wants to build a full-stack community platform for software companies](https://techcrunch.com/2023/07/11/outverse-wants-to-build-a-full-stack-community-platform-for-software-companies/)
-- [Apple launches an online store on China’s WeChat app](https://techcrunch.com/2023/07/11/apple-launches-an-online-store-on-chinas-wechat-app/)
-- [This Celestron beginner telescope is half-price on Amazon Prime Day](https://www.space.com/celestron-beginner-telescope-half-price-amazon-prime-day-2023)
-- [Enjoy stellar savings on the Celestron StarSense Explorer DX 102AZ telescope](https://www.space.com/celestron-starsense-explorer-dx-102az-telescope-amazon-prime-day-sale)
-- [Foxconn seeks India incentive despite withdrawing from Vedanta venture](https://techcrunch.com/2023/07/10/foxconn-pursues-india-incentive-despite-withdrawing-from-vedanta-venture/)
+- [Raft, which services freight forwarders, closes $30M Series B led by Eight Roads VC](https://techcrunch.com/2023/07/11/raft-which-services-freight-forwarders-closes-30m-series-b-led-by-eight-roads-vc/)
+- [&#39;Strange New Worlds&#39; cinematographer brings 23rd-century style to &#39;Star Trek&#39; &lpar;exclusive&rpar;](https://www.space.com/star-trek-strange-new-worlds-cinematographer-interview)
+- [Artemis 4 and Artemis 5 moon missions will include European astronauts](https://www.space.com/artemis-4-5-moon-missions-european-astronauts)
+- [Feels like you missed the generative AI train? 5 steps for speeding ahead in 90 days](https://techcrunch.com/2023/07/11/feeling-late-for-the-generative-ai-train-5-clear-steps-for-speeding-ahead-in-90-days/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
