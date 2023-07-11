@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pylon wants to make it easier to manage B2B conversations in Slack](https://techcrunch.com/2023/07/11/pylon-wants-to-make-it-easier-to-manage-b2b-conversations-in-slack/)
-- [Take the high ground with these Black Series Star Wars lightsaber deals during Amazon Prime Day](https://www.space.com/black-series-star-wars-lightsaber-deals-amazon-prime-day)
-- [Roku users can now buy products from Shopify merchants with their TV remote](https://techcrunch.com/2023/07/11/roku-users-can-now-buy-products-from-shopify-merchants-with-their-tv-remote/)
-- [We think this portable USB star projector is a steal for $10 on Prime Day](https://www.space.com/usb-star-projector-10-dollar-amazon-prime-day-deal)
-- [Anthropic releases Claude 2, its second-gen AI chatbot](https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/)
+- [This VC firm uses personality tests and AI to find its next investments](https://techcrunch.com/2023/07/11/here-is-a-term-sheet-beep-boop/)
+- [Discord introduces new opt-in parental controls for teens](https://techcrunch.com/2023/07/11/discords-introduces-opt-in-parental-controls-teens/)
+- [Exotic &#39;stripped stars&#39; may be missing link on path to powerful kilonova explosions](https://www.space.com/stripped-stars-missing-link-kilonova-explosions)
+- [These Celestron SkyMaster binoculars are less than half price in the Prime Day deals](https://www.space.com/celestron-skymaster-20x80-binoculars-astronomy-amazon-prime-day)
+- [Banks, hotels and hospitals among latest MOVEit mass-hack victims](https://techcrunch.com/2023/07/11/banks-hotels-hospitals-latest-moveit-mass-hack-victims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
