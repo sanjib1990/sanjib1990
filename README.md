@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport’s Ryan Petersen joins venture firm Founders Fund as a partner](https://techcrunch.com/2023/07/10/flexports-ryan-petersen-joins-venture-firm-founders-fund-as-a-partner/)
 - [Good news for the alien life hunt: Buried oceans may be common on icy exoplanets](https://www.space.com/icy-exoplanets-buried-oceans-alien-life-search)
 - [Max Q: Astra Spacecraft Engines, Inc.](https://techcrunch.com/2023/07/10/max-q-astra-spacecraft-engines-inc/)
 - [Twitch is launching a discovery feed and other short-form video features](https://techcrunch.com/2023/07/10/twitch-discovery-feed-stories-tiktok-youtube-twitchcon-paris-new-features/)
 - [New ExoMars lander contract will be issued in a few months](https://www.space.com/mars-landing-exomars-mission-contract-issued-shortly-esa)
-- [Starlink satellites are dodging objects in orbit thousands of times every month](https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
