@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stellar Saving! Sony FE 24-70mm f/2.8 GM lens now $585 cheaper](https://www.space.com/stellar-saving-sony-fe-24-70mm-f28-gm-lens-now-585-dollars-cheaper-amazon-prime-day)
-- [One of our favorite Anycubic 3D printers is a massive 57% off in the Prime Day deals](https://www.space.com/one-of-our-favorite-anycubic-3d-printers-is-a-massive-57-off-in-the-prime-day-deals)
-- [Lowest-price — Sony A7 III is $500 off this Amazon Prime Day](https://www.space.com/sony-a7-iii-amazon-prime-day-deal-save-500-dollars)
-- [Raft, which services freight forwarders, closes $30M Series B led by Eight Roads VC](https://techcrunch.com/2023/07/11/raft-which-services-freight-forwarders-closes-30m-series-b-led-by-eight-roads-vc/)
-- [&#39;Strange New Worlds&#39; cinematographer brings 23rd-century style to &#39;Star Trek&#39; &lpar;exclusive&rpar;](https://www.space.com/star-trek-strange-new-worlds-cinematographer-interview)
+- [Rocsys wants to automate EV charging, starting in ports and yards](https://techcrunch.com/2023/07/11/rocsys-wants-to-automate-ev-charging-starting-in-ports-and-yards/)
+- [Stunning solar tornado swings into space above the glowing sun &lpar;video&rpar;](https://www.space.com/sun-photography-solar-tornado-4k-video)
+- [China’s search engine pioneer unveils open-source large language model to rival OpenAI](https://techcrunch.com/2023/07/11/chinas-search-engine-pioneer-unveils-open-source-large-language-model-to-rival-openai/)
+- [Take to the skies for less with $180 off this DJI Mini 3 Pro drone in the Amazon Prime Day deals](https://www.space.com/dji-mini-3-pro-amazon-prime-day-deal-save-180-dollars)
+- [Instant bank payments startup Ivy secured $7.7M in Seed round led by Creandum](https://techcrunch.com/2023/07/11/instant-bank-payments-startup-ivy-secured-7-7m-in-seed-round-led-by-creandum/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
