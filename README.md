@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This VC firm uses personality tests and AI to find its next investments](https://techcrunch.com/2023/07/11/here-is-a-term-sheet-beep-boop/)
-- [Discord introduces new opt-in parental controls for teens](https://techcrunch.com/2023/07/11/discords-introduces-opt-in-parental-controls-teens/)
-- [Exotic &#39;stripped stars&#39; may be missing link on path to powerful kilonova explosions](https://www.space.com/stripped-stars-missing-link-kilonova-explosions)
-- [These Celestron SkyMaster binoculars are less than half price in the Prime Day deals](https://www.space.com/celestron-skymaster-20x80-binoculars-astronomy-amazon-prime-day)
-- [Banks, hotels and hospitals among latest MOVEit mass-hack victims](https://techcrunch.com/2023/07/11/banks-hotels-hospitals-latest-moveit-mass-hack-victims/)
+- [I test cameras for a living — this is the Prime Day camera deal I recommend](https://www.space.com/best-camera-deal-amazon-prime-2023-save-200-dollars)
+- [The era of tech layoffs is evolving in an interesting way](https://techcrunch.com/2023/07/11/tech-layoffs-are-changing/)
+- [Prompt engineering startup Vellum.ai raises $5M as demand for generative AI services scales](https://techcrunch.com/2023/07/11/prompt-engineering-startup-vellum-ai/)
+- [Save $500 on Prime Day&#39;s lowest-ever Canon EOS R5 camera deal](https://www.space.com/save-500-dollars-amazon-prime-day-canon-eos-r5)
+- [India deals a 28% tax blow to online gaming firms](https://techcrunch.com/2023/07/11/india-online-gaming-gst-tax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
