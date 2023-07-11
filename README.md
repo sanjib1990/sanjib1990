@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HCA Healthcare reports breach of 11 million patients’ personal data](https://techcrunch.com/2023/07/11/hca-healthcare-breach-patients-personal-data/)
-- [Jirav, a startup developing financial planning software for businesses, raises $20M](https://techcrunch.com/2023/07/11/jirav-a-startup-developing-financial-planning-software-for-businesses-raises-20m/)
-- [Collective, a financial management platform for freelancers, raises $50M](https://techcrunch.com/2023/07/11/collective-a-financial-management-platform-for-freelancers-raises-50m/)
-- [Backed by Gradient, Fileread use LLMs to make legal discovery more efficient](https://techcrunch.com/2023/07/11/fileread/)
-- [Savvy, a platform to secure SaaS apps, launches out of stealth with $30M](https://techcrunch.com/2023/07/11/savvy-a-platform-to-secure-saas-apps-launches-out-of-stealth-with-30m/)
+- [Pylon wants to make it easier to manage B2B conversations in Slack](https://techcrunch.com/2023/07/11/pylon-wants-to-make-it-easier-to-manage-b2b-conversations-in-slack/)
+- [Take the high ground with these Black Series Star Wars lightsaber deals during Amazon Prime Day](https://www.space.com/black-series-star-wars-lightsaber-deals-amazon-prime-day)
+- [Roku users can now buy products from Shopify merchants with their TV remote](https://techcrunch.com/2023/07/11/roku-users-can-now-buy-products-from-shopify-merchants-with-their-tv-remote/)
+- [We think this portable USB star projector is a steal for $10 on Prime Day](https://www.space.com/usb-star-projector-10-dollar-amazon-prime-day-deal)
+- [Anthropic releases Claude 2, its second-gen AI chatbot](https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
