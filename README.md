@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best VR headset deal of Prime Day - Save $100 on Meta Quest 2 and get a free $50 gift card](https://www.space.com/the-best-vr-headset-deal-of-prime-day-save-dollar100-on-meta-quest-2-and-get-a-free-dollar50-gift-card)
+- [Create context and provide examples to lower AI adoption barriers](https://techcrunch.com/2023/07/11/create-context-and-provide-examples-to-lower-ai-adoption-barriers/)
+- [Keep the night sky still with these Canon image-stablizing binoculars using a great Prime Day deal](https://www.space.com/canon-10x32-binoculars-astronomy-amazon-prime-day)
+- [We love the Joby GorillaPod 5K — and now you can save $120 at Adorama](https://www.space.com/joby-gorillapod-5k-kit-save-120-deal)
 - [National Guard in space? White House says no thanks](https://www.space.com/space-force-national-guard-white-house-says-no)
-- [Yeehaw! NASA chief and Artemis 2 moon astronaut play cowboy for a day &lpar;photo&rpar;](https://www.space.com/artemis-2-moon-astronaut-nasa-chief-cowboys)
-- [You may not like Amazon Prime Day, but this Nikon Z6 II camera deal is hard to resist!](https://www.space.com/nikon-z6-ii-amazon-prime-day-save-300-deal)
-- [Rosario Dawson shines in new trailer for this summer&#39;s &#39;Star Wars: Ahsoka&#39; &lpar;video&rpar;](https://www.space.com/star-wars-ahsoka-trailer-july-2023-video)
-- [Cybersecurity professional accused of stealing $9 million in crypto](https://techcrunch.com/2023/07/11/cybersecurity-professional-charged-for-stealing-9-million-in-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
