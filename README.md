@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enjoy stellar savings on the Celestron StarSense Explorer DX 102AZ telescope](https://www.space.com/celestron-starsense-explorer-dx-102az-telescope-amazon-prime-day-sale)
+- [Foxconn seeks India incentive despite withdrawing from Vedanta venture](https://techcrunch.com/2023/07/10/foxconn-pursues-india-incentive-despite-withdrawing-from-vedanta-venture/)
 - [We recommend these Celestron binoculars, now at their lowest-ever price on Amazon Prime Day](https://www.space.com/celestron-outland-x-10x42-binoculars-save-50-dollars-amazon-prime-day)
 - [Amazon readies TV series on Indian startups](https://techcrunch.com/2023/07/10/amazon-readies-tv-series-on-indian-startups/)
 - [Flexport’s Ryan Petersen joins venture firm Founders Fund as a partner](https://techcrunch.com/2023/07/10/flexports-ryan-petersen-joins-venture-firm-founders-fund-as-a-partner/)
-- [Good news for the alien life hunt: Buried oceans may be common on icy exoplanets](https://www.space.com/icy-exoplanets-buried-oceans-alien-life-search)
-- [Max Q: Astra Spacecraft Engines, Inc.](https://techcrunch.com/2023/07/10/max-q-astra-spacecraft-engines-inc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
