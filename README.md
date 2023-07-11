@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Outverse wants to build a full-stack community platform for software companies](https://techcrunch.com/2023/07/11/outverse-wants-to-build-a-full-stack-community-platform-for-software-companies/)
 - [Apple launches an online store on China’s WeChat app](https://techcrunch.com/2023/07/11/apple-launches-an-online-store-on-chinas-wechat-app/)
 - [This Celestron beginner telescope is half-price on Amazon Prime Day](https://www.space.com/celestron-beginner-telescope-half-price-amazon-prime-day-2023)
 - [Enjoy stellar savings on the Celestron StarSense Explorer DX 102AZ telescope](https://www.space.com/celestron-starsense-explorer-dx-102az-telescope-amazon-prime-day-sale)
 - [Foxconn seeks India incentive despite withdrawing from Vedanta venture](https://techcrunch.com/2023/07/10/foxconn-pursues-india-incentive-despite-withdrawing-from-vedanta-venture/)
-- [We recommend these Celestron binoculars, now at their lowest-ever price on Amazon Prime Day](https://www.space.com/celestron-outland-x-10x42-binoculars-save-50-dollars-amazon-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
