@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix updates ‘Profile Transfer’ feature so users can switch to an existing account](https://techcrunch.com/2023/07/11/netflix-updates-profile-transfer-feature-so-users-can-switch-to-an-existing-account/)
-- [&#39;Ohioans in Space&#39; mural to recognize state&#39;s astronauts in capitol](https://www.space.com/ohioians-in-space-statehouse-mural)
-- [Twitter blocks links to rival Threads, while CEO downplays reports of traffic decline](https://techcrunch.com/2023/07/11/twitter-blocks-links-to-rival-threads-while-ceo-downplays-reports-of-traffic-decline/)
-- [Stargaze for longer with the Celestron PowerTank Lithium, now over 30% off](https://www.space.com/celestron-powertank-lithium-power-bank-flash-light-deal-amazon-prime-day-skywatching)
-- [Shutterstock expands deal with OpenAI to build generative AI tools](https://techcrunch.com/2023/07/11/shutterstock-expands-deal-with-openai-to-build-generative-ai-tools/)
+- [You may not like Amazon Prime Day, but this Nikon Z6 II camera deal is hard to resist!](https://www.space.com/nikon-z6-ii-amazon-prime-day-save-300-deal)
+- [Rosario Dawson shines in new trailer for this summer&#39;s &#39;Star Wars: Ahsoka&#39; &lpar;video&rpar;](https://www.space.com/star-wars-ahsoka-trailer-july-2023-video)
+- [Cybersecurity professional accused of stealing $9 million in crypto](https://techcrunch.com/2023/07/11/cybersecurity-professional-charged-for-stealing-9-million-in-crypto/)
+- [Astranis will launch a dedicated internet satellites for the Philippines next year](https://techcrunch.com/2023/07/11/astranis-will-launch-a-dedicated-internet-satellites-for-the-philippines-next-year/)
+- [You can now use your Meta avatar in video calls on Instagram and Messenger](https://techcrunch.com/2023/07/11/you-can-now-use-your-meta-avatar-to-answer-video-calls-on-instagram-and-messenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
