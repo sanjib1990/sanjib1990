@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocsys wants to automate EV charging, starting in ports and yards](https://techcrunch.com/2023/07/11/rocsys-wants-to-automate-ev-charging-starting-in-ports-and-yards/)
-- [Stunning solar tornado swings into space above the glowing sun &lpar;video&rpar;](https://www.space.com/sun-photography-solar-tornado-4k-video)
-- [China’s search engine pioneer unveils open-source large language model to rival OpenAI](https://techcrunch.com/2023/07/11/chinas-search-engine-pioneer-unveils-open-source-large-language-model-to-rival-openai/)
-- [Take to the skies for less with $180 off this DJI Mini 3 Pro drone in the Amazon Prime Day deals](https://www.space.com/dji-mini-3-pro-amazon-prime-day-deal-save-180-dollars)
-- [Instant bank payments startup Ivy secured $7.7M in Seed round led by Creandum](https://techcrunch.com/2023/07/11/instant-bank-payments-startup-ivy-secured-7-7m-in-seed-round-led-by-creandum/)
+- [HCA Healthcare reports breach of 11 million patients’ personal data](https://techcrunch.com/2023/07/11/hca-healthcare-breach-patients-personal-data/)
+- [Jirav, a startup developing financial planning software for businesses, raises $20M](https://techcrunch.com/2023/07/11/jirav-a-startup-developing-financial-planning-software-for-businesses-raises-20m/)
+- [Collective, a financial management platform for freelancers, raises $50M](https://techcrunch.com/2023/07/11/collective-a-financial-management-platform-for-freelancers-raises-50m/)
+- [Backed by Gradient, Fileread use LLMs to make legal discovery more efficient](https://techcrunch.com/2023/07/11/fileread/)
+- [Savvy, a platform to secure SaaS apps, launches out of stealth with $30M](https://techcrunch.com/2023/07/11/savvy-a-platform-to-secure-saas-apps-launches-out-of-stealth-with-30m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
