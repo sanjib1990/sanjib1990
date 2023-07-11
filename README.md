@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I test cameras for a living — this is the Prime Day camera deal I recommend](https://www.space.com/best-camera-deal-amazon-prime-2023-save-200-dollars)
-- [The era of tech layoffs is evolving in an interesting way](https://techcrunch.com/2023/07/11/tech-layoffs-are-changing/)
-- [Prompt engineering startup Vellum.ai raises $5M as demand for generative AI services scales](https://techcrunch.com/2023/07/11/prompt-engineering-startup-vellum-ai/)
-- [Save $500 on Prime Day&#39;s lowest-ever Canon EOS R5 camera deal](https://www.space.com/save-500-dollars-amazon-prime-day-canon-eos-r5)
-- [India deals a 28% tax blow to online gaming firms](https://techcrunch.com/2023/07/11/india-online-gaming-gst-tax/)
+- [eBay acquires AI-powered product authentication company Certilogo](https://techcrunch.com/2023/07/11/ebay-acquires-product-authentication-company-certilogo/)
+- [The quest for solid-state EV batteries](https://techcrunch.com/2023/07/11/solid-state-ev-batteries/)
+- [Sustainable Ocean Alliance converts its accelerator into a broader ‘Ecopreneur Network’](https://techcrunch.com/2023/07/11/sustainable-ocean-alliance-converts-its-accelerator-into-a-broader-ecopreneur-network/)
+- [Save the galaxy – and a few credits – with these Star Wars board game deals in the Prime Day sale](https://www.space.com/star-wars-board-games-deals-amazon-prime-day)
+- [We love the Celestron Skymaster 25x100 — and it is half-price for one day only!](https://www.space.com/celestron-skymaster-25x100-binoculars-deal-amazon-prime-day-half-price)
 <!-- BLOG-POST-LIST:END -->
 
 ---
