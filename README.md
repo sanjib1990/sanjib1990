@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Teen and mom plead guilty to abortion charges based on Facebook data](https://techcrunch.com/2023/07/11/teen-and-mom-plead-guilty-to-abortion-charges-based-on-facebook-data/)
+- [Full-stack insurtech startup PasarPolis hires former CEO of Allianz Indonesia](https://techcrunch.com/2023/07/11/pasarpolis-hires-former-ceo-of-allianz-indonesia/)
+- [Everything you need to know about e-bike battery fires](https://techcrunch.com/2023/07/11/everything-you-need-to-know-about-e-bike-battery-fires/)
+- [Blue Origin&#39;s BE-4 rocket engine exploded during June 30 test: report](https://www.space.com/blue-origin-be-4-rocket-engine-explosion)
 - [The best VR headset deal of Prime Day - Save $100 on Meta Quest 2 and get a free $50 gift card](https://www.space.com/the-best-vr-headset-deal-of-prime-day-save-dollar100-on-meta-quest-2-and-get-a-free-dollar50-gift-card)
-- [Create context and provide examples to lower AI adoption barriers](https://techcrunch.com/2023/07/11/create-context-and-provide-examples-to-lower-ai-adoption-barriers/)
-- [Keep the night sky still with these Canon image-stablizing binoculars using a great Prime Day deal](https://www.space.com/canon-10x32-binoculars-astronomy-amazon-prime-day)
-- [We love the Joby GorillaPod 5K — and now you can save $120 at Adorama](https://www.space.com/joby-gorillapod-5k-kit-save-120-deal)
-- [National Guard in space? White House says no thanks](https://www.space.com/space-force-national-guard-white-house-says-no)
 <!-- BLOG-POST-LIST:END -->
 
 ---
