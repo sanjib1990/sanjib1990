@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [National Guard in space? White House says no thanks](https://www.space.com/space-force-national-guard-white-house-says-no)
+- [Yeehaw! NASA chief and Artemis 2 moon astronaut play cowboy for a day &lpar;photo&rpar;](https://www.space.com/artemis-2-moon-astronaut-nasa-chief-cowboys)
 - [You may not like Amazon Prime Day, but this Nikon Z6 II camera deal is hard to resist!](https://www.space.com/nikon-z6-ii-amazon-prime-day-save-300-deal)
 - [Rosario Dawson shines in new trailer for this summer&#39;s &#39;Star Wars: Ahsoka&#39; &lpar;video&rpar;](https://www.space.com/star-wars-ahsoka-trailer-july-2023-video)
 - [Cybersecurity professional accused of stealing $9 million in crypto](https://techcrunch.com/2023/07/11/cybersecurity-professional-charged-for-stealing-9-million-in-crypto/)
-- [Astranis will launch a dedicated internet satellites for the Philippines next year](https://techcrunch.com/2023/07/11/astranis-will-launch-a-dedicated-internet-satellites-for-the-philippines-next-year/)
-- [You can now use your Meta avatar in video calls on Instagram and Messenger](https://techcrunch.com/2023/07/11/you-can-now-use-your-meta-avatar-to-answer-video-calls-on-instagram-and-messenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
