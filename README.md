@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Force wants &#39;Foo Fighter&#39; satellites to track hypersonic missiles](https://www.space.com/satellites-hypersonic-missile-foo-fighter-pentagon)
-- [Roblox is coming to Meta Quest VR headsets](https://techcrunch.com/2023/07/12/roblox-coming-metas-quest-vr-headsets/)
-- [India&#39;s moon-landing mission is &#39;go&#39; for Friday morning launch &lpar;photos&rpar;](https://www.space.com/india-chandrayaan-3-moon-mission-go-for-launch)
-- [Topanga banishes single-use plastics from your Grubhub order](https://techcrunch.com/2023/07/12/topanga-reusable-packaging/)
-- [Google Cloud infrastructure head Urs Hölzle stepping down](https://techcrunch.com/2023/07/12/google-cloud-infrastructure-head-urs-holzle-stepping-down/)
+- [NASA&#39;s new Artemis &#39;astrovans&#39; arrive for use by moon-bound crews](https://www.space.com/nasa-canoo-artemis-crew-transport-vehicles)
+- [Lucid stock falls as sales miss expectations](https://techcrunch.com/2023/07/12/lucid-stock-falls-as-sales-miss-expectations/)
+- [Google Play changes policy toward blockchain-based apps, opening door to tokenized digital assets, NFTs](https://techcrunch.com/2023/07/12/google-play-policy-blockchain-apps-gaming-nfts-digital-assets/)
+- [Time is running out on this Occer 12x25 binoculars deal for Prime Day!](https://www.space.com/occer-12x25-binoculars-prime-day-deal)
+- [This Prime Day you can fly high with up to 50% off these Holy Stone drones](https://www.space.com/holy-stone-drones-prime-day-deals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
