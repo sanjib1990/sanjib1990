@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cooling inflation in the US brings slight relief to tech valuations](https://techcrunch.com/2023/07/12/cooling-inflation-in-the-us-brings-slight-relief-to-tech-valuations/)
-- [Announcing the Sustainability Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/12/announcing-the-sustainability-stage-agenda-at-techcrunch-disrupt-2023/)
-- [Clibrain joins the generative AI race with Lince, an LLM optimized for Spanish](https://techcrunch.com/2023/07/12/lince-llm/)
-- [Conquer the galaxy on the cheap with these Prime Day space board game deals](https://www.space.com/amazon-prime-day-2023-space-board-game-deals)
-- [Building blocks of Mars life? Perseverance rover digs up diverse set of organic molecules on the Red Planet](https://www.space.com/perseverance-rover-organic-molecules-mars)
+- [Elon Musk wants to build AI to ‘understand the true nature of the universe’](https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/)
+- [Report: e-bike startup VanMoof, unable to pay its bills, files for payment deferment in Holland](https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/)
+- [Istio graduates](https://techcrunch.com/2023/07/12/istio-graduates/)
+- [Get a 3D printer for less with the Creality Ender 3, now under $170 - hurry though, Prime Day ends soon](https://www.space.com/get-a-3d-printer-for-less-with-the-creality-ender-3-now-under-dollar170-hurry-though-prime-day-ends-soon)
+- [You&#39;ve only got 12 hours left to grab this deal on the Sony FE 16-35mm f/2.8 GM Lens!](https://www.space.com/sony-fe-16-35mm-f28-gm-lens-amazon-prime-day-camera-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
