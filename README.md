@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prolific raises $32M to train and stress-test AI models using its network of 120K people](https://techcrunch.com/2023/07/11/prolific-raises-32m-to-train-and-stress-test-ai-models-using-its-network-of-120k-people/)
 - [Teen and mom plead guilty to abortion charges based on Facebook data](https://techcrunch.com/2023/07/11/teen-and-mom-plead-guilty-to-abortion-charges-based-on-facebook-data/)
 - [Full-stack insurtech startup PasarPolis hires former CEO of Allianz Indonesia](https://techcrunch.com/2023/07/11/pasarpolis-hires-former-ceo-of-allianz-indonesia/)
 - [Everything you need to know about e-bike battery fires](https://techcrunch.com/2023/07/11/everything-you-need-to-know-about-e-bike-battery-fires/)
 - [Blue Origin&#39;s BE-4 rocket engine exploded during June 30 test: report](https://www.space.com/blue-origin-be-4-rocket-engine-explosion)
-- [The best VR headset deal of Prime Day - Save $100 on Meta Quest 2 and get a free $50 gift card](https://www.space.com/the-best-vr-headset-deal-of-prime-day-save-dollar100-on-meta-quest-2-and-get-a-free-dollar50-gift-card)
 <!-- BLOG-POST-LIST:END -->
 
 ---
