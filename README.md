@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapped since 2009, IT management company InvGate raises $35M](https://techcrunch.com/2023/07/12/invgate-it-management-35m-latin-america-enterprise/)
-- [Testing automation platform Tricentis acquires Waldo](https://techcrunch.com/2023/07/12/test-automation-platform-tricentis-acquires-waldo/)
-- [Europe greenlights Broadcom’s $61B VMware acquisition](https://techcrunch.com/2023/07/12/europe-greenlights-broadcoms-61b-vmware-acquisition/)
-- [Akamai expands its cloud computing footprint with new locations and services](https://techcrunch.com/2023/07/12/akamai-expands-its-cloud-computing-footprint-with-5-new-locations-and-services/)
-- [UK femtech Daye launches virtual clinic for period pain](https://techcrunch.com/2023/07/12/daye-period-pain-clinic/)
+- [Bedrock’s autonomous ocean-mapping ambitions score $25M as renewables rise](https://techcrunch.com/2023/07/12/bedrocks-autonomous-ocean-mapping-ambitions-score-25m-as-renewables-rise/)
+- [Quora’s Poe chatbot introduces better context window and document upload support](https://techcrunch.com/2023/07/12/quoras-poe-chatbot-introduces-better-context-window-and-document-upload-support/)
+- [Voice cloning platform Resemble AI lands $8M](https://techcrunch.com/2023/07/12/voice-cloning-platform-resemble-ai-lands-8m/)
+- [Why is Earth&#39;s day 24 hours long &lpar;and how did the sun keep it from being longer&rpar;?](https://www.space.com/how-sun-kept-earth-day-24-hours-long)
+- [I have this star projector and use it daily — get it for $27.99 today](https://www.space.com/astronaut-galaxy-star-projector-amazon-prime-day-deal-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
