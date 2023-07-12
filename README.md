@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber insurance startup Coalition acquires privacy assistant Jumbo](https://techcrunch.com/2023/07/12/cyber-insurance-startup-coalition-acquires-privacy-assistant-jumbo/)
+- [India&#39;s ready to launch its Chandrayaan-3 moon-landing mission on July 14. Here&#39;s what to expect](https://www.space.com/india-ready-launch-chandrayaan-3-moon-mission)
+- [The James Webb Space Telescope wraps 1st year peering across the universe. What has it discovered so far?](https://www.space.com/james-webb-space-telescope-first-year-science)
 - [Gmail brings in Calendly-style availability sharing from Google Calendar](https://techcrunch.com/2023/07/12/gmail-brings-in-calendly-style-availability-sharing-from-google-calendar/)
 - [Defacto gets new credit facility to provide instant financing to small companies](https://techcrunch.com/2023/07/11/defacto-gets-new-credit-facility-to-provide-instant-financing-to-small-companies/)
-- [Android 14’s fourth beta version brings auto-confirm unlock feature](https://techcrunch.com/2023/07/11/android-14s-fourth-beta-version-brings-auto-confirm-unlock-feature/)
-- [Oritain raises $57M for its forensic, big-data science approach to tracking the origin of goods](https://techcrunch.com/2023/07/11/oritain-raises-57m-for-its-forensic-big-data-science-approach-to-tracking-the-origin-of-goods/)
-- [Prolific raises $32M to train and stress-test AI models using its network of 120K people](https://techcrunch.com/2023/07/11/prolific-raises-32m-to-train-and-stress-test-ai-models-using-its-network-of-120k-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
