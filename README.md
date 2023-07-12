@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Foraged’s wild foods marketplace saw repeat customer rate increase over 1,000%](https://techcrunch.com/2023/07/12/foraged-mushroom-marketplace-seed/)
-- [Fold Health streamlines admin work for value-based care providers](https://techcrunch.com/2023/07/12/fold-health/)
-- [Silo raises $32M to help food supply chain companies manage their finances](https://techcrunch.com/2023/07/12/silo-raises-32m-to-help-food-supply-chain-companies-manage-their-finances/)
-- [Google TV adds The Roku Channel to its free, streaming TV lineup](https://techcrunch.com/2023/07/12/google-tv-adds-the-roku-channel-to-its-free-streaming-tv-lineup/)
-- [Adobe says Firefly has now generated 1B images, takes it global](https://techcrunch.com/2023/07/12/adobe-says-firefly-has-now-generated-1b-images-takes-it-global/)
+- [Is ChatGPT the iBeer of LLM’s?](https://techcrunch.com/2023/07/12/is-chatgpt-the-ibeer-of-llms/)
+- [Inngest helps developers build their backend workflows, raises $3M](https://techcrunch.com/2023/07/12/inngest-helps-developers-build-their-backend-workflows-raises-3m/)
+- [8 VCs explain why there’s good reason to be optimistic about cybersecurity](https://techcrunch.com/2023/07/12/cybersecurity-investor-survey-2023/)
+- [Barbie and Ken are your dating coaches in Bumble’s newest feature](https://techcrunch.com/2023/07/12/bumble-barbie-compliments-feature/)
+- [Coinbase Wallet launches onchain messaging feature so users can interact directly on its platform](https://techcrunch.com/2023/07/12/coinbase-wallet-launches-onchain-messaging-service-so-users-can-interact-directly-on-its-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
