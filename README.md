@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipe co-founder raises $6M for CapStack, a bank-to-bank marketplace aimed at ‘de-riskifying portfolios’](https://techcrunch.com/2023/07/12/pipe-co-founder-raises-6m-for-capstack-a-bank-to-bank-marketplace-aimed-at-de-riskifying-portfolios/)
-- [Infant formula company Bobbie takes in $70M to acquire Nature’s One](https://techcrunch.com/2023/07/12/infant-formula-bobbie-acquire-natures-one-70m-foodtech/)
-- [Tales of ESG’s death have been greatly exaggerated](https://techcrunch.com/2023/07/12/esg-investor-sentiment/)
-- [Employee benefits startup Swile expects to become profitable next quarter](https://techcrunch.com/2023/07/12/employee-benefits-startup-swile-expects-to-become-profitable-next-quarter/)
-- [The cheapest telescope bundle we&#39;ve found this Prime Day — $62.88 for one day only](https://www.space.com/cheapest-telescope-bundle-amazon-prime-day-telescope-deal)
+- [Cooling inflation in the US brings slight relief to tech valuations](https://techcrunch.com/2023/07/12/cooling-inflation-in-the-us-brings-slight-relief-to-tech-valuations/)
+- [Announcing the Sustainability Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/12/announcing-the-sustainability-stage-agenda-at-techcrunch-disrupt-2023/)
+- [Clibrain joins the generative AI race with Lince, an LLM optimized for Spanish](https://techcrunch.com/2023/07/12/lince-llm/)
+- [Conquer the galaxy on the cheap with these Prime Day space board game deals](https://www.space.com/amazon-prime-day-2023-space-board-game-deals)
+- [Building blocks of Mars life? Perseverance rover digs up diverse set of organic molecules on the Red Planet](https://www.space.com/perseverance-rover-organic-molecules-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
