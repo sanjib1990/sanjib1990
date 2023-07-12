@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force wants &#39;Foo Fighter&#39; satellites to track hypersonic missiles](https://www.space.com/satellites-hypersonic-missile-foo-fighter-pentagon)
 - [Roblox is coming to Meta Quest VR headsets](https://techcrunch.com/2023/07/12/roblox-coming-metas-quest-vr-headsets/)
 - [India&#39;s moon-landing mission is &#39;go&#39; for Friday morning launch &lpar;photos&rpar;](https://www.space.com/india-chandrayaan-3-moon-mission-go-for-launch)
 - [Topanga banishes single-use plastics from your Grubhub order](https://techcrunch.com/2023/07/12/topanga-reusable-packaging/)
 - [Google Cloud infrastructure head Urs Hölzle stepping down](https://techcrunch.com/2023/07/12/google-cloud-infrastructure-head-urs-holzle-stepping-down/)
-- [Google’s AI-assisted note-taking app gets limited launch as NotebookLM](https://techcrunch.com/2023/07/12/googles-ai-assisted-note-taking-app-gets-limited-launch-as-notebooklm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
