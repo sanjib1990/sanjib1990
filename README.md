@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber insurance startup Coalition acquires privacy assistant Jumbo](https://techcrunch.com/2023/07/12/cyber-insurance-startup-coalition-acquires-privacy-assistant-jumbo/)
-- [India&#39;s ready to launch its Chandrayaan-3 moon-landing mission on July 14. Here&#39;s what to expect](https://www.space.com/india-ready-launch-chandrayaan-3-moon-mission)
-- [The James Webb Space Telescope wraps 1st year peering across the universe. What has it discovered so far?](https://www.space.com/james-webb-space-telescope-first-year-science)
-- [Gmail brings in Calendly-style availability sharing from Google Calendar](https://techcrunch.com/2023/07/12/gmail-brings-in-calendly-style-availability-sharing-from-google-calendar/)
-- [Defacto gets new credit facility to provide instant financing to small companies](https://techcrunch.com/2023/07/11/defacto-gets-new-credit-facility-to-provide-instant-financing-to-small-companies/)
+- [Bootstrapped since 2009, IT management company InvGate raises $35M](https://techcrunch.com/2023/07/12/invgate-it-management-35m-latin-america-enterprise/)
+- [Testing automation platform Tricentis acquires Waldo](https://techcrunch.com/2023/07/12/test-automation-platform-tricentis-acquires-waldo/)
+- [Europe greenlights Broadcom’s $61B VMware acquisition](https://techcrunch.com/2023/07/12/europe-greenlights-broadcoms-61b-vmware-acquisition/)
+- [Akamai expands its cloud computing footprint with new locations and services](https://techcrunch.com/2023/07/12/akamai-expands-its-cloud-computing-footprint-with-5-new-locations-and-services/)
+- [UK femtech Daye launches virtual clinic for period pain](https://techcrunch.com/2023/07/12/daye-period-pain-clinic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
