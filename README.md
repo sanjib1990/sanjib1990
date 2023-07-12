@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is ChatGPT the iBeer of LLM’s?](https://techcrunch.com/2023/07/12/is-chatgpt-the-ibeer-of-llms/)
-- [Inngest helps developers build their backend workflows, raises $3M](https://techcrunch.com/2023/07/12/inngest-helps-developers-build-their-backend-workflows-raises-3m/)
-- [8 VCs explain why there’s good reason to be optimistic about cybersecurity](https://techcrunch.com/2023/07/12/cybersecurity-investor-survey-2023/)
-- [Barbie and Ken are your dating coaches in Bumble’s newest feature](https://techcrunch.com/2023/07/12/bumble-barbie-compliments-feature/)
-- [Coinbase Wallet launches onchain messaging feature so users can interact directly on its platform](https://techcrunch.com/2023/07/12/coinbase-wallet-launches-onchain-messaging-service-so-users-can-interact-directly-on-its-platform/)
+- [Pipe co-founder raises $6M for CapStack, a bank-to-bank marketplace aimed at ‘de-riskifying portfolios’](https://techcrunch.com/2023/07/12/pipe-co-founder-raises-6m-for-capstack-a-bank-to-bank-marketplace-aimed-at-de-riskifying-portfolios/)
+- [Infant formula company Bobbie takes in $70M to acquire Nature’s One](https://techcrunch.com/2023/07/12/infant-formula-bobbie-acquire-natures-one-70m-foodtech/)
+- [Tales of ESG’s death have been greatly exaggerated](https://techcrunch.com/2023/07/12/esg-investor-sentiment/)
+- [Employee benefits startup Swile expects to become profitable next quarter](https://techcrunch.com/2023/07/12/employee-benefits-startup-swile-expects-to-become-profitable-next-quarter/)
+- [The cheapest telescope bundle we&#39;ve found this Prime Day — $62.88 for one day only](https://www.space.com/cheapest-telescope-bundle-amazon-prime-day-telescope-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
