@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bedrock’s autonomous ocean-mapping ambitions score $25M as renewables rise](https://techcrunch.com/2023/07/12/bedrocks-autonomous-ocean-mapping-ambitions-score-25m-as-renewables-rise/)
-- [Quora’s Poe chatbot introduces better context window and document upload support](https://techcrunch.com/2023/07/12/quoras-poe-chatbot-introduces-better-context-window-and-document-upload-support/)
-- [Voice cloning platform Resemble AI lands $8M](https://techcrunch.com/2023/07/12/voice-cloning-platform-resemble-ai-lands-8m/)
-- [Why is Earth&#39;s day 24 hours long &lpar;and how did the sun keep it from being longer&rpar;?](https://www.space.com/how-sun-kept-earth-day-24-hours-long)
-- [I have this star projector and use it daily — get it for $27.99 today](https://www.space.com/astronaut-galaxy-star-projector-amazon-prime-day-deal-2023)
+- [Foraged’s wild foods marketplace saw repeat customer rate increase over 1,000%](https://techcrunch.com/2023/07/12/foraged-mushroom-marketplace-seed/)
+- [Fold Health streamlines admin work for value-based care providers](https://techcrunch.com/2023/07/12/fold-health/)
+- [Silo raises $32M to help food supply chain companies manage their finances](https://techcrunch.com/2023/07/12/silo-raises-32m-to-help-food-supply-chain-companies-manage-their-finances/)
+- [Google TV adds The Roku Channel to its free, streaming TV lineup](https://techcrunch.com/2023/07/12/google-tv-adds-the-roku-channel-to-its-free-streaming-tv-lineup/)
+- [Adobe says Firefly has now generated 1B images, takes it global](https://techcrunch.com/2023/07/12/adobe-says-firefly-has-now-generated-1b-images-takes-it-global/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
