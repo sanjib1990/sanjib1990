@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk wants to build AI to ‘understand the true nature of the universe’](https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/)
-- [Report: e-bike startup VanMoof, unable to pay its bills, files for payment deferment in Holland](https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/)
-- [Istio graduates](https://techcrunch.com/2023/07/12/istio-graduates/)
-- [Get a 3D printer for less with the Creality Ender 3, now under $170 - hurry though, Prime Day ends soon](https://www.space.com/get-a-3d-printer-for-less-with-the-creality-ender-3-now-under-dollar170-hurry-though-prime-day-ends-soon)
-- [You&#39;ve only got 12 hours left to grab this deal on the Sony FE 16-35mm f/2.8 GM Lens!](https://www.space.com/sony-fe-16-35mm-f28-gm-lens-amazon-prime-day-camera-deal)
+- [Roblox is coming to Meta Quest VR headsets](https://techcrunch.com/2023/07/12/roblox-coming-metas-quest-vr-headsets/)
+- [India&#39;s moon-landing mission is &#39;go&#39; for Friday morning launch &lpar;photos&rpar;](https://www.space.com/india-chandrayaan-3-moon-mission-go-for-launch)
+- [Topanga banishes single-use plastics from your Grubhub order](https://techcrunch.com/2023/07/12/topanga-reusable-packaging/)
+- [Google Cloud infrastructure head Urs Hölzle stepping down](https://techcrunch.com/2023/07/12/google-cloud-infrastructure-head-urs-holzle-stepping-down/)
+- [Google’s AI-assisted note-taking app gets limited launch as NotebookLM](https://techcrunch.com/2023/07/12/googles-ai-assisted-note-taking-app-gets-limited-launch-as-notebooklm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
