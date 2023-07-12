@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 14’s fourth beta version brings auto-confirm unlock feature](https://techcrunch.com/2023/07/11/android-14s-fourth-beta-version-brings-auto-confirm-unlock-feature/)
 - [Oritain raises $57M for its forensic, big-data science approach to tracking the origin of goods](https://techcrunch.com/2023/07/11/oritain-raises-57m-for-its-forensic-big-data-science-approach-to-tracking-the-origin-of-goods/)
 - [Prolific raises $32M to train and stress-test AI models using its network of 120K people](https://techcrunch.com/2023/07/11/prolific-raises-32m-to-train-and-stress-test-ai-models-using-its-network-of-120k-people/)
 - [Teen and mom plead guilty to abortion charges based on Facebook data](https://techcrunch.com/2023/07/11/teen-and-mom-plead-guilty-to-abortion-charges-based-on-facebook-data/)
 - [Full-stack insurtech startup PasarPolis hires former CEO of Allianz Indonesia](https://techcrunch.com/2023/07/11/pasarpolis-hires-former-ceo-of-allianz-indonesia/)
-- [Everything you need to know about e-bike battery fires](https://techcrunch.com/2023/07/11/everything-you-need-to-know-about-e-bike-battery-fires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
