@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter admits to having a Verified spammer problem with announcement of new DM settings](https://techcrunch.com/2023/07/13/twitter-admits-to-having-a-verified-spammer-problem-with-announcement-of-new-dm-settings/)
+- [FTC reportedly looking into OpenAI over ‘reputational harm’ caused by ChatGPT](https://techcrunch.com/2023/07/13/ftc-reportedly-looking-into-openai-over-reputational-harm-caused-by-chatgpt/)
+- [ULA delays Vulcan rocket&#39;s debut to late 2023 after fireball during test](https://www.space.com/ula-vulcan-rocket-first-flight-delay-late-2023)
+- [What are El Niño and La Niña and how do they affect Earth&#39;s weather?](https://www.space.com/el-nino-la-nina-causes-effects-weather-explained)
 - [Welcome to the new venture normal](https://techcrunch.com/2023/07/13/welcome-to-the-new-venture-normal/)
-- [Federal court rules Ripple’s XRP token can be treated as a security… sometimes](https://techcrunch.com/2023/07/13/federal-court-rules-ripples-xrp-token-can-be-treated-as-a-securitysometimes/)
-- [Cowboy rides to the rescue of VanMoof owners with app to unlock threatened bikes](https://techcrunch.com/2023/07/13/cowboy-rides-to-the-rescue-of-vanmoof-owners-with-app-to-unlock-threatened-bikes/)
-- [&#39;Star Wars&#39; TV shows snag 22 Emmy nominations](https://www.space.com/star-wars-shows-emmy-nominations-2023)
-- [Can Amazon please show mercy to the brands and products we love?](https://techcrunch.com/2023/07/13/selling-startup-company-acquisitions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
