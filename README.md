@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security flaws in Honeywell devices could be used to disrupt critical industries](https://techcrunch.com/2023/07/13/security-flaws-in-honeywell-devices-could-be-used-to-disrupt-critical-industries/)
 - [Watch India launch epic moon-landing mission early Friday](https://www.space.com/india-chandrayaan-3-moon-mission-launch-webcast)
 - [Cruise, Waymo say humans are bad drivers amid robotaxi permit delays](https://techcrunch.com/2023/07/13/cruise-waymo-say-humans-are-bad-drivers-amid-robotaxi-permit-delays-san-francisco/)
 - [Jupiter shines near the moon with the Seven Sisters of the Pleiades on July 14. Here&#39;s how to see it.](https://www.space.com/moon-stars-pleiades-seven-sisters-july-2023)
 - [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Google’s Bard chatbot finally launches in the EU, now supports more than 40 languages](https://techcrunch.com/2023/07/13/googles-bard-finally-lands-in-the-eu-now-supports-more-than-40-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
