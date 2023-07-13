@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian upskilling platform Skill-Lync cuts 20% jobs to ‘streamline operations’](https://techcrunch.com/2023/07/13/india-skill-lync-layoffs/)
-- [HawkEye 360’s new funding reflects ongoing investor appetite for defense-focused tech](https://techcrunch.com/2023/07/13/hawkeye-360s-new-funding-reflects-ongoing-investor-appetite-for-defense-focused-tech/)
-- [Ford picks up the pace on hands-off driving with BlueCruise 1.3 release](https://techcrunch.com/2023/07/13/ford-releases-blue-cruise-1-3-hands-free-driver-assistance/)
-- [Azolla Ventures hopes its new $239M climate fund will help founders take bigger risks](https://techcrunch.com/2023/07/13/azolla-ventures-new-fund/)
-- [Stability AI releases Stable Doodle, a sketch-to-image tool](https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/)
+- [Causaly, an AI platform for drug discovery and biomedical research, raises $60M](https://techcrunch.com/2023/07/13/causaly-an-ai-platform-for-drug-discovery-and-biomedical-research-raises-60m/)
+- [Spline, a no-code design tool for creating 3D assets, raises $15M](https://techcrunch.com/2023/07/13/spline-a-no-code-design-tool-for-creating-3d-assets-raises-15m/)
+- [Pearpop’s new ‘Boost Mode’ feature allows brands to turn content from creators into paid ads](https://techcrunch.com/2023/07/13/pearpop-boost-mode-feature-brands-turn-content-creators-into-paid-ads/)
+- [NASA shelves Janus asteroid mission after launch delay](https://www.space.com/nasa-shelves-janus-asteroid-mission)
+- [Meet the 19-year old MIT drop-out “replacing gunpowder” for the defense industry](https://techcrunch.com/2023/07/13/meet-the-19-year-old-mit-drop-out-replacing-gunpowder-for-the-defense-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
