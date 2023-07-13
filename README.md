@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Congress prepares to continue throwing money at NASA’s Space Launch System](https://techcrunch.com/2023/07/13/congress-prepares-to-continue-throwing-money-at-nasas-space-launch-system/)
+- [Making sense of the latest climate-tech funding trend stories](https://techcrunch.com/2023/07/13/making-sense-of-the-latest-climate-tech-trend-stories/)
+- [Suffolk Technologies looks to be more than a CVC by not really being one at all](https://techcrunch.com/2023/07/13/suffolk-technologies-construction-tech-venture/)
+- [Twitter starts sharing ad revenue with verified creators](https://techcrunch.com/2023/07/13/twitter-starts-sharing-ad-revenue-with-verified-creators/)
 - [Telly starts shipping its free ad-supported TVs to its first round of customers](https://techcrunch.com/2023/07/13/telly-starts-shipping-free-ad-supported-tvs-first-round-customers/)
-- [Hubble telescope captures the making of a &#39;cosmic monster&#39; &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-cosmic-monster-photo)
-- [Celsius Network and its former CEO are probably not having a good day](https://techcrunch.com/2023/07/13/celsius-network-former-ceo-charged-lawsuits/)
-- [Want your sales team to be more productive? Take a closer look at your ‘watermelons’](https://techcrunch.com/2023/07/13/want-your-sales-team-to-be-more-productive-take-a-closer-look-at-your-watermelons/)
-- [How China will land astronauts on the moon by 2030](https://www.space.com/china-astronauts-moon-landing-2030-plan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
