@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kia to invest $200M in Georgia plant to build EV9 SUV](https://techcrunch.com/2023/07/12/kia-to-invest-200m-in-georgia-plant-to-build-ev9-suv/)
 - [Mars orbiter spies a tiny Earth and moon from the Red Planet &lpar;photos&rpar;](https://www.space.com/mars-express-sees-earth-moon-photos)
 - [China just launched a methane-fueled rocket into orbit, a world&#39;s 1st for spaceflight &lpar;video&rpar;](https://www.space.com/china-first-methane-powered-rocket-reach-orbit)
 - [HBO’s ‘Succession’ and ‘The Last of Us’ lead 2023 Emmy nominations](https://techcrunch.com/2023/07/12/hbos-succession-and-the-last-of-us-lead-2023-emmy-nominations/)
 - [NASA&#39;s new Artemis &#39;astrovans&#39; arrive for use by moon-bound crews](https://www.space.com/nasa-canoo-artemis-crew-transport-vehicles)
-- [Lucid stock falls as sales miss expectations](https://techcrunch.com/2023/07/12/lucid-stock-falls-as-sales-miss-expectations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
