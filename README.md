@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla says Model 3, Model Y tax credits likely to be reduced by 2024](https://techcrunch.com/2023/07/12/tesla-says-model-3-model-y-tax-credits-likely-to-be-reduced-by-2024/)
 - [Kia to invest $200M in Georgia plant to build EV9 SUV](https://techcrunch.com/2023/07/12/kia-to-invest-200m-in-georgia-plant-to-build-ev9-suv/)
 - [Mars orbiter spies a tiny Earth and moon from the Red Planet &lpar;photos&rpar;](https://www.space.com/mars-express-sees-earth-moon-photos)
 - [China just launched a methane-fueled rocket into orbit, a world&#39;s 1st for spaceflight &lpar;video&rpar;](https://www.space.com/china-first-methane-powered-rocket-reach-orbit)
 - [HBO’s ‘Succession’ and ‘The Last of Us’ lead 2023 Emmy nominations](https://techcrunch.com/2023/07/12/hbos-succession-and-the-last-of-us-lead-2023-emmy-nominations/)
-- [NASA&#39;s new Artemis &#39;astrovans&#39; arrive for use by moon-bound crews](https://www.space.com/nasa-canoo-artemis-crew-transport-vehicles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
