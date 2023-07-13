@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the new venture normal](https://techcrunch.com/2023/07/13/welcome-to-the-new-venture-normal/)
+- [Federal court rules Ripple’s XRP token can be treated as a security… sometimes](https://techcrunch.com/2023/07/13/federal-court-rules-ripples-xrp-token-can-be-treated-as-a-securitysometimes/)
+- [Cowboy rides to the rescue of VanMoof owners with app to unlock threatened bikes](https://techcrunch.com/2023/07/13/cowboy-rides-to-the-rescue-of-vanmoof-owners-with-app-to-unlock-threatened-bikes/)
 - [&#39;Star Wars&#39; TV shows snag 22 Emmy nominations](https://www.space.com/star-wars-shows-emmy-nominations-2023)
 - [Can Amazon please show mercy to the brands and products we love?](https://techcrunch.com/2023/07/13/selling-startup-company-acquisitions/)
-- [Simbe’s inventory robots score $28 million in funding](https://techcrunch.com/2023/07/13/simbes-inventory-robots-score-28-million-in-funding/)
-- [Instagram Threads update brings iOS 17 support among other small improvements](https://techcrunch.com/2023/07/13/instagram-threads-update-brings-ios-17-support-among-other-small-improvements/)
-- [Nothing Phone &lpar;2&rpar; review](https://techcrunch.com/2023/07/13/nothing-phone-2-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
