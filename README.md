@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch India launch epic moon-landing mission early Friday](https://www.space.com/india-chandrayaan-3-moon-mission-launch-webcast)
+- [Cruise, Waymo say humans are bad drivers amid robotaxi permit delays](https://techcrunch.com/2023/07/13/cruise-waymo-say-humans-are-bad-drivers-amid-robotaxi-permit-delays-san-francisco/)
+- [Jupiter shines near the moon with the Seven Sisters of the Pleiades on July 14. Here&#39;s how to see it.](https://www.space.com/moon-stars-pleiades-seven-sisters-july-2023)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Google’s Bard chatbot finally launches in the EU, now supports more than 40 languages](https://techcrunch.com/2023/07/13/googles-bard-finally-lands-in-the-eu-now-supports-more-than-40-languages/)
-- [Ask Sophie: Any guidance for changing jobs while on an H-1B?](https://techcrunch.com/2023/07/12/ask-sophie-any-guidance-for-changing-jobs-while-on-an-h-1b/)
-- [Apple introduces bilingual Siri and a full page screenshot feature with iOS 17](https://techcrunch.com/2023/07/12/apple-introduces-bilingual-siri-and-a-full-page-screenshot-feature-with-ios-17/)
-- [Indian food delivery giant Swiggy acquires LYNK in retail distribution push](https://techcrunch.com/2023/07/12/indian-food-delivery-giant-swiggy-acquires-retail-logistics-startup-lynk/)
-- [Tesla says Model 3, Model Y tax credits likely to be reduced by 2024](https://techcrunch.com/2023/07/12/tesla-says-model-3-model-y-tax-credits-likely-to-be-reduced-by-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
