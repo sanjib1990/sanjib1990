@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celsius Network and its former CEO are probably not having a good day](https://techcrunch.com/2023/07/13/celsius-network-former-ceo-charged-lawsuits/)
+- [Want your sales team to be more productive? Take a closer look at your ‘watermelons’](https://techcrunch.com/2023/07/13/want-your-sales-team-to-be-more-productive-take-a-closer-look-at-your-watermelons/)
+- [How China will land astronauts on the moon by 2030](https://www.space.com/china-astronauts-moon-landing-2030-plan)
 - [Twitter admits to having a Verified spammer problem with announcement of new DM settings](https://techcrunch.com/2023/07/13/twitter-admits-to-having-a-verified-spammer-problem-with-announcement-of-new-dm-settings/)
 - [FTC reportedly looking into OpenAI over ‘reputational harm’ caused by ChatGPT](https://techcrunch.com/2023/07/13/ftc-reportedly-looking-into-openai-over-reputational-harm-caused-by-chatgpt/)
-- [ULA delays Vulcan rocket&#39;s debut to late 2023 after fireball during test](https://www.space.com/ula-vulcan-rocket-first-flight-delay-late-2023)
-- [What are El Niño and La Niña and how do they affect Earth&#39;s weather?](https://www.space.com/el-nino-la-nina-causes-effects-weather-explained)
-- [Welcome to the new venture normal](https://techcrunch.com/2023/07/13/welcome-to-the-new-venture-normal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
