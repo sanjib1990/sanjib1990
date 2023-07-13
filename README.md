@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amit Serper locks up IoT security flaws at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/13/amit-serper-locks-up-iot-security-flaws-at-techcrunch-disrupt-2023/)
-- [Global temperatures were the hottest on record for 3 days in a row in July](https://www.space.com/hottest-day-on-record-3-days-in-a-row)
-- [Crypto lending firm Celsius Network and its former CEO sued by SEC, CFTC, FTC](https://techcrunch.com/2023/07/13/crypto-lending-firm-celsius-network-and-its-former-ceo-sued-by-sec-cftc-ftc/)
-- [QED leads $7M round into startup that offers financing to SaaS businesses across US-South Asia corridor](https://techcrunch.com/2023/07/13/qed-leads-7m-round-into-startup-focused-on-providing-revenue-based-financing-to-b2b-saas-businesses-in-south-asia/)
-- [China unveils provisional rules for generative AI, including a licensing regime](https://techcrunch.com/2023/07/13/china-unveils-provisional-rules-for-generative-ai-services/)
+- [&#39;Star Wars&#39; TV shows snag 22 Emmy nominations](https://www.space.com/star-wars-shows-emmy-nominations-2023)
+- [Can Amazon please show mercy to the brands and products we love?](https://techcrunch.com/2023/07/13/selling-startup-company-acquisitions/)
+- [Simbe’s inventory robots score $28 million in funding](https://techcrunch.com/2023/07/13/simbes-inventory-robots-score-28-million-in-funding/)
+- [Instagram Threads update brings iOS 17 support among other small improvements](https://techcrunch.com/2023/07/13/instagram-threads-update-brings-ios-17-support-among-other-small-improvements/)
+- [Nothing Phone &lpar;2&rpar; review](https://techcrunch.com/2023/07/13/nothing-phone-2-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
