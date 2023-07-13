@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Congress prepares to continue throwing money at NASA’s Space Launch System](https://techcrunch.com/2023/07/13/congress-prepares-to-continue-throwing-money-at-nasas-space-launch-system/)
-- [Making sense of the latest climate-tech funding trend stories](https://techcrunch.com/2023/07/13/making-sense-of-the-latest-climate-tech-trend-stories/)
+- [Making sense of the latest climate tech funding trend stories](https://techcrunch.com/2023/07/13/making-sense-of-the-latest-climate-tech-trend-stories/)
 - [Suffolk Technologies looks to be more than a CVC by not really being one at all](https://techcrunch.com/2023/07/13/suffolk-technologies-construction-tech-venture/)
 - [Twitter starts sharing ad revenue with verified creators](https://techcrunch.com/2023/07/13/twitter-starts-sharing-ad-revenue-with-verified-creators/)
 - [Telly starts shipping its free ad-supported TVs to its first round of customers](https://techcrunch.com/2023/07/13/telly-starts-shipping-free-ad-supported-tvs-first-round-customers/)
