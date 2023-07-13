@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Causaly, an AI platform for drug discovery and biomedical research, raises $60M](https://techcrunch.com/2023/07/13/causaly-an-ai-platform-for-drug-discovery-and-biomedical-research-raises-60m/)
-- [Spline, a no-code design tool for creating 3D assets, raises $15M](https://techcrunch.com/2023/07/13/spline-a-no-code-design-tool-for-creating-3d-assets-raises-15m/)
-- [Pearpop’s new ‘Boost Mode’ feature allows brands to turn content from creators into paid ads](https://techcrunch.com/2023/07/13/pearpop-boost-mode-feature-brands-turn-content-creators-into-paid-ads/)
-- [NASA shelves Janus asteroid mission after launch delay](https://www.space.com/nasa-shelves-janus-asteroid-mission)
-- [Meet the 19-year old MIT drop-out “replacing gunpowder” for the defense industry](https://techcrunch.com/2023/07/13/meet-the-19-year-old-mit-drop-out-replacing-gunpowder-for-the-defense-industry/)
+- [Crypto lending firm Celsius Network and its former CEO sued by SEC, CFTC, FTC](https://techcrunch.com/2023/07/13/crypto-lending-firm-celsius-network-and-its-former-ceo-sued-by-sec-cftc-ftc/)
+- [QED leads $7M round into startup that offers financing to SaaS businesses across US-South Asia corridor](https://techcrunch.com/2023/07/13/qed-leads-7m-round-into-startup-focused-on-providing-revenue-based-financing-to-b2b-saas-businesses-in-south-asia/)
+- [China unveils provisional rules for generative AI, including a licensing regime](https://techcrunch.com/2023/07/13/china-unveils-provisional-rules-for-generative-ai-services/)
+- [&#39;Foundation&#39; Season 2 clip reveals what it takes to keep a galactic empire together in the face of war &lpar;video&rpar;](https://www.space.com/foundation-season-two-clip-brother-day)
+- [Apple’s password manager is compatible with third-party browsers in latest macOS beta](https://techcrunch.com/2023/07/13/apples-password-manager-is-compatible-with-third-party-browsers-in-latest-macos-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
