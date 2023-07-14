@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kenya’s Lawyers Hub gains traction helping startups meet regulatory compliance](https://techcrunch.com/2023/07/14/kenyas-lawyers-hub-gains-traction-helping-startups-meet-regulatory-compliance/)
-- [Google Play Games beta for PC expands to over 60 new countries including India](https://techcrunch.com/2023/07/14/google-play-games-beta-for-pc-expands-to-over-60-new-countries-including-india/)
-- [SpaceX aborts Falcon 9 rocket&#39;s record-tying 16th launch attempt](https://www.space.com/spacex-falcon-9-starlink-launch-abort-july-2023)
-- [NASA doubles its spacesuit options for Artemis astronauts the moon, ISS crews](https://www.space.com/nasa-orders-more-spacesuits-for-moon-space-station)
-- [Congress prepares to continue throwing money at NASA’s Space Launch System](https://techcrunch.com/2023/07/13/congress-prepares-to-continue-throwing-money-at-nasas-space-launch-system/)
+- [See Wimbledon from space in new satellite image](https://www.space.com/wimbledon-tennis-courts-planet-satellite-photo)
+- [Watch Rocket Lab launch 7 satellites, return booster to Earth today](https://www.space.com/rocket-lab-electron-launch-recovery-july-2023)
+- [India launches historic Chandrayaan-3 moon-landing mission](https://www.space.com/india-launches-chandrayaan-3-moon-landing-mission)
+- [Flipkart makes $700 million payout to employees following PhonePe split](https://techcrunch.com/2023/07/14/flipkart-payout-employees-phonepe/)
+- [India’s Chandrayaan-3 blasts off to the moon](https://techcrunch.com/2023/07/14/india-chandrayaan-3-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
