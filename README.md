@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Colleen Ballinger’s toxic gossip train won’t stop chugging on](https://techcrunch.com/2023/07/14/colleen-ballinger-ukelele-apology-video-explained-toxic-gossip-train/)
 - [First Amendment org challenges restrictions on TikTok at Texas universities](https://techcrunch.com/2023/07/14/texas-tiktok-lawsuit-knight-institute-abbott/)
 - [Do fabled &#39;dark stars&#39; actually exist? James Webb Space Telescope spots 3 candidates](https://www.space.com/nasa-james-webb-space-telescope-stars-dark-matter)
 - [NASA and Metallica team up for epic Artemis 1 moon rocket video](https://www.space.com/nasa-metallica-artemis-moon-rocket-video)
 - [Startups, be careful who you sell to](https://techcrunch.com/2023/07/14/startups-be-careful-who-you-sell-to/)
-- [All money is not created equal: What raising venture debt looks like](https://techcrunch.com/2023/07/14/not-all-money-is-created-equal-what-raising-venture-debt-looks-like/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
