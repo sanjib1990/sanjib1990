@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gamified e-learning platform Kahoot gets acquired in a $1.7B deal led by Goldman Sachs, Lego and more](https://techcrunch.com/2023/07/14/kahoot-acquired/)
-- [Beam yourself into the &#39;Star Trek&#39; universe with this bold new &#39;Captain&#39;s Log Solo RPG&#39;](https://www.space.com/star-trek-adventures-captains-log-solo-rpg)
-- [Meta claims its new art-generating model is best-in-class](https://techcrunch.com/2023/07/14/meta-generative-transformer-art-model/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [&#39;Foundation&#39; showrunner David S. Goyer on Season 2&#39;s F-bombs and fantastic visual effects &lpar;exclusive&rpar;](https://www.space.com/foundation-showrunner-david-goyer-interview)
+- [Space-flown Snoopy dolls star in new Schulz Museum exhibit](https://www.space.com/snoopy-in-orbit-exhibit-schulz-museum)
+- [Crypto winter is showing market maturity compared to previous downturns, Electric Capital GP says](https://techcrunch.com/2023/07/14/crypto-winter-is-showing-market-maturity-compared-to-previous-downturns-electric-capital-gp-says/)
+- [On-prem data centers are hanging in, but cloud capacity is growing much faster](https://techcrunch.com/2023/07/14/on-prem-data-centers-are-hanging-in-but-cloud-capacity-is-growing-much-faster/)
+- [VC Office Hours: How this venture thesis aims to improve tech for women](https://techcrunch.com/2023/07/14/vc-office-hours-emmeline-ventures/)
+- [NYC gig workers need help accessing safe e-bikes amid lithium battery fires](https://techcrunch.com/2023/07/14/nyc-gig-workers-need-help-accessing-safe-e-bikes-amid-lithium-battery-fires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
