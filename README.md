@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good news for life: Mars rivers flowed for long stretches long ago](https://www.space.com/ancient-mars-rivers-flowed-long-stretches)
+- [We’re in the pruning phase of tech layoffs](https://techcrunch.com/2023/07/14/were-in-the-pruning-phase-of-tech-layoffs/)
 - [Space-flown Snoopy dolls star in new Schulz Museum exhibit](https://www.space.com/snoopy-in-orbit-exhibit-schulz-museum)
 - [Crypto winter is showing market maturity compared to previous downturns, Electric Capital GP says](https://techcrunch.com/2023/07/14/crypto-winter-is-showing-market-maturity-compared-to-previous-downturns-electric-capital-gp-says/)
 - [On-prem data centers are hanging in, but cloud capacity is growing much faster](https://techcrunch.com/2023/07/14/on-prem-data-centers-are-hanging-in-but-cloud-capacity-is-growing-much-faster/)
-- [VC Office Hours: How this venture thesis aims to improve tech for women](https://techcrunch.com/2023/07/14/vc-office-hours-emmeline-ventures/)
-- [NYC gig workers need help accessing safe e-bikes amid lithium battery fires](https://techcrunch.com/2023/07/14/nyc-gig-workers-need-help-accessing-safe-e-bikes-amid-lithium-battery-fires/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
