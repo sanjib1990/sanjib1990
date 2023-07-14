@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ roundup: SaaS sales toughlove, cybersecurity survey, ‘the new venture normal’](https://techcrunch.com/2023/07/14/techcrunch-roundup-saas-sales-toughlove-cybersecurity-survey-the-new-venture-normal/)
+- [Workers that made ChatGPT less harmful ask lawmakers to stem alleged exploitation by Big Tech](https://techcrunch.com/2023/07/14/workers-that-made-chatgpt-less-harmful-ask-lawmakers-to-stem-alleged-exploitation-by-big-tech/)
+- [The bittersweet tale of two seed markets](https://techcrunch.com/2023/07/14/seed-market-deal-counts-down/)
+- [Passes acquired Fanhouse, but some creators are apprehensive](https://techcrunch.com/2023/07/14/passes-acquired-fanhouse-but-some-creators-are-apprehensive/)
 - [Famous &#39;man in the moon&#39; could be 200 million years older than we thought](https://www.space.com/moon-age-craters-200-million-years-older)
-- [Team up with TechCrunch: Host an After Hours event at Disrupt](https://techcrunch.com/2023/07/14/team-up-with-techcrunch-host-an-after-hours-event-at-disrupt/)
-- [&quot;Foundation&quot; season 2 review: Stick with it and you will be rewarded](https://www.space.com/foundation-season-2-review)
-- [A tale of two space rocks: The year &#39;Deep Impact&#39; and &#39;Armageddon&#39; smashed onto the silver screen](https://www.space.com/a-tale-of-two-space-rocks-the-year-deep-impact-and-armageddon-smashed-onto-the-silver-screen)
-- [Good news for life: Mars rivers flowed for long stretches long ago](https://www.space.com/ancient-mars-rivers-flowed-long-stretches)
 <!-- BLOG-POST-LIST:END -->
 
 ---
