@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LG Electronics plans $39.5B investment to reach $79B in sales by 2030](https://techcrunch.com/2023/07/14/lg-electronics-plans-39-5b-investment-to-reach-79b-in-sales-by-2030/)
 - [See Wimbledon from space in new satellite image](https://www.space.com/wimbledon-tennis-courts-planet-satellite-photo)
 - [Watch Rocket Lab launch 7 satellites, return booster to Earth today](https://www.space.com/rocket-lab-electron-launch-recovery-july-2023)
-- [India launches historic Chandrayaan-3 moon-landing mission](https://www.space.com/india-launches-chandrayaan-3-moon-landing-mission)
+- [India launches historic Chandrayaan-3 moon rover to land at the lunar south pole](https://www.space.com/india-launches-chandrayaan-3-moon-landing-mission)
 - [Flipkart makes $700 million payout to employees following PhonePe split](https://techcrunch.com/2023/07/14/flipkart-payout-employees-phonepe/)
-- [India’s Chandrayaan-3 blasts off to the moon](https://techcrunch.com/2023/07/14/india-chandrayaan-3-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
