@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA and Metallica team up for epic Artemis 1 moon rocket video](https://www.space.com/nasa-metallica-artemis-moon-rocket-video)
 - [Startups, be careful who you sell to](https://techcrunch.com/2023/07/14/startups-be-careful-who-you-sell-to/)
 - [All money is not created equal: What raising venture debt looks like](https://techcrunch.com/2023/07/14/not-all-money-is-created-equal-what-raising-venture-debt-looks-like/)
-- [See the wild new Las Vegas Sphere transform into Earth, Mars and the moon &lpar;photos&rpar;](https://www.space.com/earth-moon-mars-las-vegas-sphere)
+- [See the wild Las Vegas Sphere transform into Earth, Mars and the moon &lpar;photos&rpar;](https://www.space.com/earth-moon-mars-las-vegas-sphere)
 - [&#39;Failed star&#39; is the coldest radio wave source ever discovered](https://www.space.com/brown-dwarf-star-radio-waves)
-- [Designers sue Shein over AI ripoffs of their work](https://techcrunch.com/2023/07/14/designers-sue-shein-over-ai-ripoffs-of-their-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
