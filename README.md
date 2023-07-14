@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do fabled &#39;dark stars&#39; actually exist? James Webb Space Telescope spots 3 candidates](https://www.space.com/nasa-james-webb-space-telescope-stars-dark-matter)
 - [NASA and Metallica team up for epic Artemis 1 moon rocket video](https://www.space.com/nasa-metallica-artemis-moon-rocket-video)
 - [Startups, be careful who you sell to](https://techcrunch.com/2023/07/14/startups-be-careful-who-you-sell-to/)
 - [All money is not created equal: What raising venture debt looks like](https://techcrunch.com/2023/07/14/not-all-money-is-created-equal-what-raising-venture-debt-looks-like/)
 - [See the wild Las Vegas Sphere transform into Earth, Mars and the moon &lpar;photos&rpar;](https://www.space.com/earth-moon-mars-las-vegas-sphere)
-- [&#39;Failed star&#39; is the coldest radio wave source ever discovered](https://www.space.com/brown-dwarf-star-radio-waves)
 <!-- BLOG-POST-LIST:END -->
 
 ---
