@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups, be careful who you sell to](https://techcrunch.com/2023/07/14/startups-be-careful-who-you-sell-to/)
+- [All money is not created equal: What raising venture debt looks like](https://techcrunch.com/2023/07/14/not-all-money-is-created-equal-what-raising-venture-debt-looks-like/)
+- [See the wild new Las Vegas Sphere transform into Earth, Mars and the moon &lpar;photos&rpar;](https://www.space.com/earth-moon-mars-las-vegas-sphere)
 - [&#39;Failed star&#39; is the coldest radio wave source ever discovered](https://www.space.com/brown-dwarf-star-radio-waves)
 - [Designers sue Shein over AI ripoffs of their work](https://techcrunch.com/2023/07/14/designers-sue-shein-over-ai-ripoffs-of-their-work/)
-- [Reddit is killing its Gold awards system](https://techcrunch.com/2023/07/14/reddit-is-killing-its-gold-awards-system/)
-- [8 reasons why the venture capital market isn’t as miserable as you think](https://techcrunch.com/2023/07/14/venture-capital-is-doing-better/)
-- [What&#39;s next for India&#39;s Chandrayaan-3 moon mission?](https://www.space.com/india-chandrayaan-3-moon-mission-next-steps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
