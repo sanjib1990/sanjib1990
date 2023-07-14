@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gamified e-learning platform Kahoot gets acquired in a $1.7B deal led by Goldman Sachs, Lego and more](https://techcrunch.com/2023/07/14/kahoot-acquired/)
+- [Beam yourself into the &#39;Star Trek&#39; universe with this bold new &#39;Captain&#39;s Log Solo RPG&#39;](https://www.space.com/star-trek-adventures-captains-log-solo-rpg)
+- [Meta claims its new art-generating model is best-in-class](https://techcrunch.com/2023/07/14/meta-generative-transformer-art-model/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 - [&#39;Foundation&#39; showrunner David S. Goyer on Season 2&#39;s F-bombs and fantastic visual effects &lpar;exclusive&rpar;](https://www.space.com/foundation-showrunner-david-goyer-interview)
-- [Meta is blocking EU-based users from accessing Threads via VPN](https://techcrunch.com/2023/07/14/meta-is-blocking-eu-based-users-from-accessing-threads-via-vpn/)
-- [LG Electronics plans $39.5B investment to reach $79B in sales by 2030](https://techcrunch.com/2023/07/14/lg-electronics-plans-39-5b-investment-to-reach-79b-in-sales-by-2030/)
-- [See Wimbledon from space in new satellite image](https://www.space.com/wimbledon-tennis-courts-planet-satellite-photo)
-- [Watch Rocket Lab launch 7 satellites, return booster to Earth today](https://www.space.com/rocket-lab-electron-launch-recovery-july-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
