@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya’s Lawyers Hub gains traction helping startups meet regulatory compliance](https://techcrunch.com/2023/07/14/kenyas-lawyers-hub-gains-traction-helping-startups-meet-regulatory-compliance/)
 - [Google Play Games beta for PC expands to over 60 new countries including India](https://techcrunch.com/2023/07/14/google-play-games-beta-for-pc-expands-to-over-60-new-countries-including-india/)
 - [SpaceX aborts Falcon 9 rocket&#39;s record-tying 16th launch attempt](https://www.space.com/spacex-falcon-9-starlink-launch-abort-july-2023)
 - [NASA doubles its spacesuit options for Artemis astronauts the moon, ISS crews](https://www.space.com/nasa-orders-more-spacesuits-for-moon-space-station)
 - [Congress prepares to continue throwing money at NASA’s Space Launch System](https://techcrunch.com/2023/07/13/congress-prepares-to-continue-throwing-money-at-nasas-space-launch-system/)
-- [Making sense of the latest climate tech funding trend stories](https://techcrunch.com/2023/07/13/making-sense-of-the-latest-climate-tech-trend-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
