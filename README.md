@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ roundup: SaaS sales toughlove, cybersecurity survey, ‘the new venture normal’](https://techcrunch.com/2023/07/14/techcrunch-roundup-saas-sales-toughlove-cybersecurity-survey-the-new-venture-normal/)
-- [Workers that made ChatGPT less harmful ask lawmakers to stem alleged exploitation by Big Tech](https://techcrunch.com/2023/07/14/workers-that-made-chatgpt-less-harmful-ask-lawmakers-to-stem-alleged-exploitation-by-big-tech/)
-- [The bittersweet tale of two seed markets](https://techcrunch.com/2023/07/14/seed-market-deal-counts-down/)
-- [Passes acquired Fanhouse, but some creators are apprehensive](https://techcrunch.com/2023/07/14/passes-acquired-fanhouse-but-some-creators-are-apprehensive/)
-- [Famous &#39;man in the moon&#39; could be 200 million years older than we thought](https://www.space.com/moon-age-craters-200-million-years-older)
+- [&#39;Failed star&#39; is the coldest radio wave source ever discovered](https://www.space.com/brown-dwarf-star-radio-waves)
+- [Designers sue Shein over AI ripoffs of their work](https://techcrunch.com/2023/07/14/designers-sue-shein-over-ai-ripoffs-of-their-work/)
+- [Reddit is killing its Gold awards system](https://techcrunch.com/2023/07/14/reddit-is-killing-its-gold-awards-system/)
+- [8 reasons why the venture capital market isn’t as miserable as you think](https://techcrunch.com/2023/07/14/venture-capital-is-doing-better/)
+- [What&#39;s next for India&#39;s Chandrayaan-3 moon mission?](https://www.space.com/india-chandrayaan-3-moon-mission-next-steps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
