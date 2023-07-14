@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Famous &#39;man in the moon&#39; could be 200 million years older than we thought](https://www.space.com/moon-age-craters-200-million-years-older)
+- [Team up with TechCrunch: Host an After Hours event at Disrupt](https://techcrunch.com/2023/07/14/team-up-with-techcrunch-host-an-after-hours-event-at-disrupt/)
+- [&quot;Foundation&quot; season 2 review: Stick with it and you will be rewarded](https://www.space.com/foundation-season-2-review)
+- [A tale of two space rocks: The year &#39;Deep Impact&#39; and &#39;Armageddon&#39; smashed onto the silver screen](https://www.space.com/a-tale-of-two-space-rocks-the-year-deep-impact-and-armageddon-smashed-onto-the-silver-screen)
 - [Good news for life: Mars rivers flowed for long stretches long ago](https://www.space.com/ancient-mars-rivers-flowed-long-stretches)
-- [We’re in the pruning phase of tech layoffs](https://techcrunch.com/2023/07/14/were-in-the-pruning-phase-of-tech-layoffs/)
-- [Space-flown Snoopy dolls star in new Schulz Museum exhibit](https://www.space.com/snoopy-in-orbit-exhibit-schulz-museum)
-- [Crypto winter is showing market maturity compared to previous downturns, Electric Capital GP says](https://techcrunch.com/2023/07/14/crypto-winter-is-showing-market-maturity-compared-to-previous-downturns-electric-capital-gp-says/)
-- [On-prem data centers are hanging in, but cloud capacity is growing much faster](https://techcrunch.com/2023/07/14/on-prem-data-centers-are-hanging-in-but-cloud-capacity-is-growing-much-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
