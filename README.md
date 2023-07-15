@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 3 Orion spacecraft will carry Artemis astronauts to the moon &lpar;photo&rpar;](https://www.space.com/nasa-artemis-orion-3-spacecraft-ksc-photo)
+- [Where did the interstellar object &#39;Oumuamua come from? Its speed could tell us](https://www.space.com/interstellar-objects-oumuamua-speed-origin-composition)
 - [Colleen Ballinger’s toxic gossip train won’t stop chugging on](https://techcrunch.com/2023/07/14/colleen-ballinger-ukelele-apology-video-explained-toxic-gossip-train/)
 - [First Amendment org challenges restrictions on TikTok at Texas universities](https://techcrunch.com/2023/07/14/texas-tiktok-lawsuit-knight-institute-abbott/)
 - [Do fabled &#39;dark stars&#39; actually exist? James Webb Space Telescope spots 3 candidates](https://www.space.com/nasa-james-webb-space-telescope-stars-dark-matter)
-- [NASA and Metallica team up for epic Artemis 1 moon rocket video](https://www.space.com/nasa-metallica-artemis-moon-rocket-video)
-- [Startups, be careful who you sell to](https://techcrunch.com/2023/07/14/startups-be-careful-who-you-sell-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
