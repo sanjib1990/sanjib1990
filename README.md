@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The summer meteor showers of 2023 could be awesome. Here&#39;s how to see them](https://www.space.com/summer-meteor-showers-2023-explained)
+- [This week in robotics: Amazon’s iRobot deal hits an EU snag as new funding keeps hot drone summer rolling](https://techcrunch.com/2023/07/15/this-week-in-robotics-amazons-irobot-deal-hits-an-eu-snag-as-new-funding-keeps-hot-drone-summer-rolling/)
 - [These 3 Orion spacecraft will carry Artemis astronauts to the moon &lpar;photo&rpar;](https://www.space.com/nasa-artemis-orion-3-spacecraft-ksc-photo)
 - [Where did the interstellar object &#39;Oumuamua come from? Its speed could tell us](https://www.space.com/interstellar-objects-oumuamua-speed-origin-composition)
 - [Colleen Ballinger’s toxic gossip train won’t stop chugging on](https://techcrunch.com/2023/07/14/colleen-ballinger-ukelele-apology-video-explained-toxic-gossip-train/)
-- [First Amendment org challenges restrictions on TikTok at Texas universities](https://techcrunch.com/2023/07/14/texas-tiktok-lawsuit-knight-institute-abbott/)
-- [Do fabled &#39;dark stars&#39; actually exist? James Webb Space Telescope spots 3 candidates](https://www.space.com/nasa-james-webb-space-telescope-stars-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
