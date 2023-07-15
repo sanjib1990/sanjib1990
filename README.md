@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads hits 100M users, pedestrians fight back against AVs, and VanMoof skids off course](https://techcrunch.com/2023/07/15/threads-hits-100m-users-pedestrians-fight-back-against-avs-and-vanmoof-skids-off-course/)
 - [Remembering Joanne Pransky](https://techcrunch.com/2023/07/15/remembering-joanne-pransky/)
 - [If cybersecurity isn’t recession-proof, what is?](https://techcrunch.com/2023/07/15/cybersecurity-ai-recession/)
 - [Deal Dive: Backing a founder again after they’ve spun out from their acquirer](https://techcrunch.com/2023/07/15/performance-livestock-analytics-ag-tech/)
 - [Truly to open 1st zero-gravity hard seltzer bar aboard astronaut training aircraft](https://www.space.com/truly-hard-seltzer-zero-gravity-bar-contest)
-- [Threads, a Slack alternative completely unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
