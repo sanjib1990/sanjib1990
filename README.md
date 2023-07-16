@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VanMoof skids off track, another mobility startup goes SPAC and e-bike batteries catch fire](https://techcrunch.com/2023/07/16/vanmoof-skids-off-track-another-mobility-startup-goes-spac-and-e-bike-batteries-catch-fire/)
 - [Why this founder decided to replace himself as CEO](https://techcrunch.com/2023/07/16/replacing-yourself-as-ceo/)
 - [AI didn’t invent creative remixing](https://techcrunch.com/2023/07/16/ai-creative-jobs/)
 - [The fintech funding slump, by the numbers](https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/)
 - [Super-close supernova captivates record number of citizen scientists](https://www.space.com/supernova-closest-earth-ten-years-citizen-science)
-- [Hubble telescope captures stunning shot of spiral galaxy &lpar;photo&rpar;](https://www.space.com/hubble-spiral-galaxy-ugc-11860-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
