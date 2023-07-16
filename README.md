@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why this founder decided to replace himself as CEO](https://techcrunch.com/2023/07/16/replacing-yourself-as-ceo/)
 - [AI didn’t invent creative remixing](https://techcrunch.com/2023/07/16/ai-creative-jobs/)
 - [The fintech funding slump, by the numbers](https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/)
 - [Super-close supernova captivates record number of citizen scientists](https://www.space.com/supernova-closest-earth-ten-years-citizen-science)
 - [Hubble telescope captures stunning shot of spiral galaxy &lpar;photo&rpar;](https://www.space.com/hubble-spiral-galaxy-ugc-11860-photo)
-- [&#39;Foundation&#39; Season 2 clip reveals a brutal look at the new season &lpar;video&rpar;](https://www.space.com/foundation-season-two-clip-brother-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
