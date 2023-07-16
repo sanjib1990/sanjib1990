@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Super-close supernova captivated record number of citizen scientists](https://www.space.com/supernova-closest-earth-ten-years-citizen-science)
 - [Hubble telescope captures stunning shot of spiral galaxy &lpar;photo&rpar;](https://www.space.com/hubble-spiral-galaxy-ugc-11860-photo)
 - [&#39;Foundation&#39; Season 2 clip reveals a brutal look at the new season &lpar;video&rpar;](https://www.space.com/foundation-season-two-clip-brother-day)
 - [Threads hits 100M users, pedestrians fight back against AVs, and VanMoof skids off course](https://techcrunch.com/2023/07/15/threads-hits-100m-users-pedestrians-fight-back-against-avs-and-vanmoof-skids-off-course/)
 - [Remembering Joanne Pransky](https://techcrunch.com/2023/07/15/remembering-joanne-pransky/)
-- [If cybersecurity isn’t recession-proof, what is?](https://techcrunch.com/2023/07/15/cybersecurity-ai-recession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
