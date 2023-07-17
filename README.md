@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The July new moon offers dark skies to see 5 visible planets tonight](https://www.space.com/new-moon-five-planets-july-2023)
+- [Lego Star Wars UCS X-Wing Starfighter review](https://www.space.com/lego-star-wars-ucs-x-wing-starfighter-75355-review)
+- [Corsair is buying mechanical keyboard maker Drop](https://techcrunch.com/2023/07/17/corsair-is-buying-mechanical-keyboard-maker-drop/)
+- [Intel backs robotics startup, Twitter loses money, and fintech shows signs of life](https://techcrunch.com/2023/07/17/intel-backs-robotics-startup-twitter-loses-money-and-fintech-shows-signs-of-life/)
 - [Rocket Lab aiming to advance Electron reusability with tonight’s launch](https://techcrunch.com/2023/07/17/rocket-lab-aiming-to-advance-electron-reusability-with-tonights-launch/)
-- [&#39;Star Trek: Strange New Worlds&#39; season 2 episode 5 gives the Chapel-Spock-T&#39;Pring love triangle a turn](https://www.space.com/star-trek-strange-new-worlds-S02-E05-review)
-- [Common Sense Media, a popular resource for parents, to review AI products’ suitability for kids](https://techcrunch.com/2023/07/17/common-sense-media-a-popular-resource-for-parents-to-review-ai-products-suitability-for-kids/)
-- [A tale of two climate tech SPACs](https://techcrunch.com/2023/07/17/climate-tech-spacs-altc-oklo/)
-- [Facebook puts more emphasis on video again with new discovery and editing tools](https://techcrunch.com/2023/07/17/facebook-is-trying-to-be-bullish-on-video-again-with-new-discovery-and-editing-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
