@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thunes pockets $72M at a $900M+ valuation to expand its cross-border, B2B payment platform](https://techcrunch.com/2023/07/17/thunes-pockets-72m-at-a-900m-valuation-to-expand-its-cross-border-b2b-payment-platform/)
+- [TLV Partners raises new $250M fund](https://techcrunch.com/2023/07/17/tlv-partners-raises-new-250m-fund/)
 - [Gnosis launches Visa card that lets you spend self-custody crypto in Europe, soon US and Hong Kong](https://techcrunch.com/2023/07/17/gnosis-has-a-visa-card-that-lets-you-spend-self-custodial-crypto-in-europe-soon-us-and-hong-kong/)
 - [Intel backs Figure’s Humanoid robot to the tune of $9 million](https://techcrunch.com/2023/07/17/intel-backs-figures-humanoid-robot-to-the-tune-of-9-million/)
 - [Water on Mars carved deep gullies and left a &#39;great puzzle&#39; for Red Planet history](https://www.space.com/mars-water-gullies-climate-change)
-- [Lee Fixel’s Addition leads $6M seed round in Egyptian fintech Flash](https://techcrunch.com/2023/07/17/lee-fixels-addition-leads-6m-seed-round-in-egyptian-fintech-flash/)
-- [Tesla announces first Cybertruck build ahead of Q2 earnings](https://techcrunch.com/2023/07/16/tesla-announces-first-cybertruck-build-q2-earnings-giga-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
