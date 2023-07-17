@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OnePlus 81 Pro mechanical keyboard review](https://techcrunch.com/2023/07/17/oneplus-81-pro-mechanical-keyboard-review/)
-- [TC Include Founders save 75% on Disrupt 2023 passes](https://techcrunch.com/2023/07/17/tc-include-founders-save-75-on-disrupt-2023-passes/)
-- [Artiphon’s latest mashes Orba and Instrument 1 into a clever new music maker](https://techcrunch.com/2023/07/17/artiphons-latest-mashes-orba-and-instrument-1-into-a-clever-new-music-maker/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Wix’s new tool can create entire websites from prompts](https://techcrunch.com/2023/07/17/wixs-new-tool-can-create-entire-websites-from-prompts/)
+- [India’s Furlenco to sell 35% stake for $36.5 million](https://techcrunch.com/2023/07/17/furlenco-sheela-foam-sleepwell/)
+- [Microsoft lost its keys, and the government got hacked](https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/)
+- [Red Dwarf: 10 ways the Brit sci-fi sitcom proved it was as smart as Star Trek](https://www.space.com/red-dwarf-10-ways-the-brit-sci-fi-sitcom-proved-it-was-as-smart-as-star-trek)
+- [Ford slashes the price of the F-150 Lightning EV pickup](https://techcrunch.com/2023/07/17/ford-slashes-the-price-of-the-f-150-lightning-ev-pickup/)
+- [JumpCloud says nation-state hackers breached its systems](https://techcrunch.com/2023/07/17/jumpcloud-nation-state-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
