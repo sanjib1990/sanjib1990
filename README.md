@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s Furlenco to sell 35% stake for $36.5 million](https://techcrunch.com/2023/07/17/furlenco-sheela-foam-sleepwell/)
-- [Microsoft lost its keys, and the government got hacked](https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/)
-- [Red Dwarf: 10 ways the Brit sci-fi sitcom proved it was as smart as Star Trek](https://www.space.com/red-dwarf-10-ways-the-brit-sci-fi-sitcom-proved-it-was-as-smart-as-star-trek)
-- [Ford slashes the price of the F-150 Lightning EV pickup](https://techcrunch.com/2023/07/17/ford-slashes-the-price-of-the-f-150-lightning-ev-pickup/)
-- [JumpCloud says nation-state hackers breached its systems](https://techcrunch.com/2023/07/17/jumpcloud-nation-state-breach/)
+- [Rocket Lab aiming to advance Electron reusability with tonight’s launch](https://techcrunch.com/2023/07/17/rocket-lab-aiming-to-advance-electron-reusability-with-tonights-launch/)
+- [&#39;Star Trek: Strange New Worlds&#39; season 2 episode 5 gives the Chapel-Spock-T&#39;Pring love triangle a turn](https://www.space.com/star-trek-strange-new-worlds-S02-E05-review)
+- [Common Sense Media, a popular resource for parents, to review AI products’ suitability for kids](https://techcrunch.com/2023/07/17/common-sense-media-a-popular-resource-for-parents-to-review-ai-products-suitability-for-kids/)
+- [A tale of two climate tech SPACs](https://techcrunch.com/2023/07/17/climate-tech-spacs-altc-oklo/)
+- [Facebook puts more emphasis on video again with new discovery and editing tools](https://techcrunch.com/2023/07/17/facebook-is-trying-to-be-bullish-on-video-again-with-new-discovery-and-editing-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
