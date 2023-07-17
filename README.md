@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elusive exoplanet is &#39;cosmic sculptor&#39; that carved spiral arms of its star](https://www.space.com/giant-exoplanet-carves-star-spiral-arms)
-- [Meta’s behavioral ads banned in Norway on Facebook and Instagram](https://techcrunch.com/2023/07/17/norway-meta-ads-ban/)
-- [Nova3D Whale3 SE review: Bringing convenience to 8K printing](https://www.space.com/nova3d-whale3-se-review)
-- [Thunes pockets $72M at a $900M+ valuation to expand its cross-border, B2B payment platform](https://techcrunch.com/2023/07/17/thunes-pockets-72m-at-a-900m-valuation-to-expand-its-cross-border-b2b-payment-platform/)
-- [TLV Partners raises new $250M fund](https://techcrunch.com/2023/07/17/tlv-partners-raises-new-250m-fund/)
+- [OnePlus 81 Pro mechanical keyboard review](https://techcrunch.com/2023/07/17/oneplus-81-pro-mechanical-keyboard-review/)
+- [TC Include Founders save 75% on Disrupt 2023 passes](https://techcrunch.com/2023/07/17/tc-include-founders-save-75-on-disrupt-2023-passes/)
+- [Artiphon’s latest mashes Orba and Instrument 1 into a clever new music maker](https://techcrunch.com/2023/07/17/artiphons-latest-mashes-orba-and-instrument-1-into-a-clever-new-music-maker/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [Wix’s new tool can create entire websites from prompts](https://techcrunch.com/2023/07/17/wixs-new-tool-can-create-entire-websites-from-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
