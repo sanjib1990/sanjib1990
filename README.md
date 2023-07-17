@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lee Fixel’s Addition leads $6M seed round in Egyptian fintech Flash](https://techcrunch.com/2023/07/17/lee-fixels-addition-leads-6m-seed-round-in-egyptian-fintech-flash/)
 - [Tesla announces first Cybertruck build ahead of Q2 earnings](https://techcrunch.com/2023/07/16/tesla-announces-first-cybertruck-build-q2-earnings-giga-texas/)
 - [Instagram Threads now has one-fifth the weekly active user base of Twitter](https://techcrunch.com/2023/07/16/instagram-threads-now-has-one-fifth-the-weekly-active-user-base-of-twitter/)
 - [VanMoof skids off track, another mobility startup goes SPAC and e-bike batteries catch fire](https://techcrunch.com/2023/07/16/vanmoof-skids-off-track-another-mobility-startup-goes-spac-and-e-bike-batteries-catch-fire/)
 - [Why this founder decided to replace himself as CEO](https://techcrunch.com/2023/07/16/replacing-yourself-as-ceo/)
-- [AI didn’t invent creative remixing](https://techcrunch.com/2023/07/16/ai-creative-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
