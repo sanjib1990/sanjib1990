@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is testing a new ‘Stable Volume’ feature across its mobile apps](https://techcrunch.com/2023/07/17/youtube-is-testing-a-new-stable-volume-feature-across-its-mobile-apps/)
+- [Australian Space Agency investigating possible rocket debris found on beach](https://www.space.com/australian-space-agency-mystery-object-space-debris)
+- [Are software companies good businesses?](https://techcrunch.com/2023/07/17/are-software-companies-good-businesses/)
+- [Virgin Galactic to launch 2nd commercial spaceflight on Aug. 10](https://www.space.com/virgin-galactic-second-commercial-spaceflight-august-10)
 - [Mukesh Bansal seeks over $100M valuation in new venture’s maiden funding](https://techcrunch.com/2023/07/17/mukesh-bansal-new-venture/)
-- [Rusty Arctic rocks could help us understand water on Mars &lpar;photos&rpar;](https://www.space.com/mars-like-rocks-earth-arctic-expedition)
-- [House Republicans probe Threads in ongoing social media investigation](https://techcrunch.com/2023/07/17/house-republicans-probe-threads-in-ongoing-social-media-investigation/)
-- [Threads as a gaming hub? Zynga founder-backed Artie is counting on it](https://techcrunch.com/2023/07/17/threads-games-zynga-artie/)
-- [Twitter tweaks its new revenue-sharing policy for creators to expand access, increase rate limits](https://techcrunch.com/2023/07/17/twitter-tweaks-its-new-revenue-sharing-policy-for-creators-to-expand-access-increase-rate-limits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
