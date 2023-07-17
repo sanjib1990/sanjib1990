@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The future of &quot;truth&quot; on the Internet](https://www.youtube.com/watch?v=-Bdb2KOb_zI)
 - [can my daughters decode this?!?](https://www.youtube.com/watch?v=PbDtgXRsCuE)
 - [Mike&#39;s Cube Code - Computerphile](https://www.youtube.com/watch?v=g9n0a0644B4)
 - [intro to cloud hacking &lpar;leaky buckets&rpar;](https://www.youtube.com/watch?v=0kk6k-VdllM)
 - [10 DevOps Tools you need to know - The Complete Guide](https://www.youtube.com/watch?v=UMQGyeAnfFE)
-- [ChatGPT just leveled up big time...](https://www.youtube.com/watch?v=p6Yw0Bx5dbw)
 <!-- YOUTUBE:END -->
 
 ---
