@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter tweaks its new revenue-sharing policy for creators to expand access, increase rate limits](https://techcrunch.com/2023/07/17/twitter-tweaks-its-new-revenue-sharing-policy-for-creators-to-expand-access-increase-rate-limits/)
+- [Microsoft and Sony sign deal to keep Call of Duty on PlayStation consoles](https://techcrunch.com/2023/07/17/microsoft-and-sony-sign-deal-to-keep-call-of-duty-on-playstation-consoles/)
 - [The July new moon offers dark skies to see 5 visible planets tonight](https://www.space.com/new-moon-five-planets-july-2023)
 - [Lego Star Wars UCS X-Wing Starfighter review](https://www.space.com/lego-star-wars-ucs-x-wing-starfighter-75355-review)
-- [Corsair is buying mechanical keyboard maker Drop](https://techcrunch.com/2023/07/17/corsair-is-buying-mechanical-keyboard-maker-drop/)
-- [Intel backs robotics startup, Twitter loses money, and fintech shows signs of life](https://techcrunch.com/2023/07/17/intel-backs-robotics-startup-twitter-loses-money-and-fintech-shows-signs-of-life/)
-- [Rocket Lab aiming to advance Electron reusability with tonight’s launch](https://techcrunch.com/2023/07/17/rocket-lab-aiming-to-advance-electron-reusability-with-tonights-launch/)
+- [Tubi appoints Vimeo’s Anjali Sud as new CEO](https://techcrunch.com/2023/07/17/tubi-appoints-vimeos-anjali-sud-as-new-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
