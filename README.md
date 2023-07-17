@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mukesh Bansal seeks over $100M valuation in new venture’s maiden funding](https://techcrunch.com/2023/07/17/mukesh-bansal-new-venture/)
+- [Rusty Arctic rocks could help us understand water on Mars &lpar;photos&rpar;](https://www.space.com/mars-like-rocks-earth-arctic-expedition)
+- [House Republicans probe Threads in ongoing social media investigation](https://techcrunch.com/2023/07/17/house-republicans-probe-threads-in-ongoing-social-media-investigation/)
+- [Threads as a gaming hub? Zynga founder-backed Artie is counting on it](https://techcrunch.com/2023/07/17/threads-games-zynga-artie/)
 - [Twitter tweaks its new revenue-sharing policy for creators to expand access, increase rate limits](https://techcrunch.com/2023/07/17/twitter-tweaks-its-new-revenue-sharing-policy-for-creators-to-expand-access-increase-rate-limits/)
-- [Microsoft and Sony sign deal to keep Call of Duty on PlayStation consoles](https://techcrunch.com/2023/07/17/microsoft-and-sony-sign-deal-to-keep-call-of-duty-on-playstation-consoles/)
-- [The July new moon offers dark skies to see 5 visible planets tonight](https://www.space.com/new-moon-five-planets-july-2023)
-- [Lego Star Wars UCS X-Wing Starfighter review](https://www.space.com/lego-star-wars-ucs-x-wing-starfighter-75355-review)
-- [Tubi appoints Vimeo’s Anjali Sud as new CEO](https://techcrunch.com/2023/07/17/tubi-appoints-vimeos-anjali-sud-as-new-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
