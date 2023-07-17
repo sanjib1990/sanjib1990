@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube is testing a new ‘Stable Volume’ feature across its mobile apps](https://techcrunch.com/2023/07/17/youtube-is-testing-a-new-stable-volume-feature-across-its-mobile-apps/)
-- [Australian Space Agency investigating possible rocket debris found on beach](https://www.space.com/australian-space-agency-mystery-object-space-debris)
-- [Are software companies good businesses?](https://techcrunch.com/2023/07/17/are-software-companies-good-businesses/)
-- [Virgin Galactic to launch 2nd commercial spaceflight on Aug. 10](https://www.space.com/virgin-galactic-second-commercial-spaceflight-august-10)
-- [Mukesh Bansal seeks over $100M valuation in new venture’s maiden funding](https://techcrunch.com/2023/07/17/mukesh-bansal-new-venture/)
+- [&#39;Foundation&#39; stars Lee Pace and Laura Birn discuss Season 2&#39;s riddles and romance &lpar;exclusive&rpar;](https://www.space.com/foundation-season-2-lee-pace-laura-birn-interview)
+- [The spam bots have now found Threads, as company announces its own ‘rate limits’](https://techcrunch.com/2023/07/17/the-spam-bots-have-now-found-threads-as-company-announces-its-own-rate-limits/)
+- [Spotify adds shared volume control to its group listening feature](https://techcrunch.com/2023/07/17/spotify-shared-volume-control-group-listening-feature/)
+- [Stratasys rejects Nano Dimension acquisition offer, agrees to talk to 3D Systems](https://techcrunch.com/2023/07/17/stratasys-rejects-nano-dimension-acquisition-offer-agrees-to-talk-to-3d-systems/)
+- [Russia&#39;s Luna-25 moon lander reaches launch site for August 11 liftoff](https://www.space.com/russia-moon-mission-luna-25-at-launch-site)
 <!-- BLOG-POST-LIST:END -->
 
 ---
