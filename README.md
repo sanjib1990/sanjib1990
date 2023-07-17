@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla directors pay $735M to settle claims they overpaid themselves](https://techcrunch.com/2023/07/17/tesla-directors-pay-735m-to-settle-claims-they-overpaid-themselves/)
+- [Celebronauts race to plug holes in the hab on Fox&#39;s &#39;Stars on Mars&#39; &lpar;exclusive clip&rpar;](https://www.space.com/stars-on-mars-episode-6-trailer-william-shatner)
 - [Tesla lets owners recharge with solar](https://techcrunch.com/2023/07/17/tesla-lets-owners-recharge-with-solar/)
 - [&#39;Cannibal&#39; coronal mass ejection that devoured &#39;dark eruption&#39; from sun will smash into Earth on July 18](https://www.space.com/sun-coronal-mass-ejection-devoured-dark-eruption-smash-into-earth-july-18)
 - [&#39;Foundation&#39; stars Lee Pace and Laura Birn discuss Season 2&#39;s riddles and romance &lpar;exclusive&rpar;](https://www.space.com/foundation-season-2-lee-pace-laura-birn-interview)
-- [The spam bots have now found Threads, as company announces its own ‘rate limits’](https://techcrunch.com/2023/07/17/the-spam-bots-have-now-found-threads-as-company-announces-its-own-rate-limits/)
-- [Spotify adds shared volume control to its group listening feature](https://techcrunch.com/2023/07/17/spotify-shared-volume-control-group-listening-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
