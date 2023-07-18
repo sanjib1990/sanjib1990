@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Komi rolls out to the public with new creator tools, including on-page checkout](https://techcrunch.com/2023/07/18/komi-rolls-out-to-the-public-with-new-creator-tools/)
+- [Indian Ocean gravity hole was caused by extinct ancient sea, scientists say](https://www.space.com/gravity-hole-indian-ocean-caused-by-extinct-sea)
+- [From VanMoof to VanPoof! How did the e-bike pioneer go bankrupt, even as the market boomed?](https://techcrunch.com/2023/07/18/from-vanmoof-to-vanpoof-how-did-the-e-bike-pioneer-go-bankrupt-even-as-the-market-boomed/)
 - [Glassdoor is introducing Blind-like anonymous community features to fuel user growth](https://techcrunch.com/2023/07/18/glassdoor-is-introducing-blind-like-anonymous-community-features-to-fuel-user-growth/)
-- [Tractable snaps up $65M led by SoftBank for car and property damage appraisals using AI](https://techcrunch.com/2023/07/18/tractable-snaps-up-65m-led-by-softbank-for-car-and-property-damage-appraisals-using-ai/)
-- [World&#39;s biggest radio telescope could tease out secrets of dark matter, universe&#39;s 1st galaxies](https://www.space.com/dark-matter-universe-first-galaxies-cosmic-dawn-forest)
-- [Watch 1 month in the life of a green comet during its journey past Earth &lpar;video&rpar;](https://www.space.com/green-comet-journey-solar-system-earth-video)
-- [VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
+- [Nuclear bombs set off new geological epoch in the 1950s, scientists say](https://www.space.com/nuclear-bombs-set-off-geological-epoch-1950s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
