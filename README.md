@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok launches its music streaming service in Australia, Mexico and Singapore](https://techcrunch.com/2023/07/18/tiktok-launches-music-streaming-service-australia-mexico-singapore/)
-- [Logitech buys editing console maker Loupedeck](https://techcrunch.com/2023/07/18/logitech-buys-editing-console-maker-loupedeck/)
-- [AO3 was offline a week ago, but there’s still a fandom brewing in the Downdetector comments](https://techcrunch.com/2023/07/18/ao3-was-offline-a-week-ago-but-theres-still-a-fandom-brewing-in-the-downdetector-comments/)
-- [Fire-in-space experiment could soon make its way to the moon](https://www.space.com/international-space-station-nasa-fire-experiment-moon)
-- [Cameo announces more layoffs as celebrity greeting market shrinks](https://techcrunch.com/2023/07/18/cameo-layoffs-celebrity-greeting/)
+- [Meta releases Llama 2, a more ‘helpful’ set of text-generating models](https://techcrunch.com/2023/07/18/meta-releases-llama-2-a-more-helpful-set-of-text-generating-models/)
+- [Samsung teases latest foldables ahead of Unpacked](https://techcrunch.com/2023/07/18/samsung-teases-latest-foldables-ahead-of-unpacked/)
+- [Maybe showing off an AI-generated fake TV episode during a writers strike is a bad idea](https://techcrunch.com/2023/07/18/maybe-showing-off-an-ai-generated-fake-tv-episode-during-a-writers-strike-is-a-bad-idea/)
+- [Threads update adds translation and a flurry of minor improvements](https://techcrunch.com/2023/07/18/metas-threads-update-adds-translation-and-a-flurry-of-minor-improvements/)
+- [Sources: Lensa AI backer exits Servers.com for $200M](https://techcrunch.com/2023/07/18/sources-lensa-ai-backer-exits-servers-com-for-200m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
