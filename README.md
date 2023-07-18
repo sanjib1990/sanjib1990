@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Komi rolls out to the public with new creator tools, including on-page checkout](https://techcrunch.com/2023/07/18/komi-rolls-out-to-the-public-with-new-creator-tools/)
-- [Indian Ocean gravity hole was caused by extinct ancient sea, scientists say](https://www.space.com/gravity-hole-indian-ocean-caused-by-extinct-sea)
-- [From VanMoof to VanPoof! How did the e-bike pioneer go bankrupt, even as the market boomed?](https://techcrunch.com/2023/07/18/from-vanmoof-to-vanpoof-how-did-the-e-bike-pioneer-go-bankrupt-even-as-the-market-boomed/)
-- [Glassdoor is introducing Blind-like anonymous community features to fuel user growth](https://techcrunch.com/2023/07/18/glassdoor-is-introducing-blind-like-anonymous-community-features-to-fuel-user-growth/)
-- [Nuclear bombs set off new geological epoch in the 1950s, scientists say](https://www.space.com/nuclear-bombs-set-off-geological-epoch-1950s)
+- [TikTok’s new program aims to identify rising artists in the music industry](https://techcrunch.com/2023/07/18/tiktoks-new-program-aims-to-identify-rising-artists-in-the-music-industry/)
+- [DataStax brings vector search to its Astra DB database service](https://techcrunch.com/2023/07/18/datastax-brings-vector-search-to-its-astra-db-database-service/)
+- [Developer-focused email platform Resend raises $3M](https://techcrunch.com/2023/07/18/developer-focused-email-platform-resend-raises-3m/)
+- [Polar Analytics raises $9M to scale Shopify brands](https://techcrunch.com/2023/07/18/polar-analytics-9m-shopify-brands-ecommerce/)
+- [Hammerspace ingests $56M for a new approach to work with vast amounts of unstructured data](https://techcrunch.com/2023/07/18/hammerspace-ingests-56m-for-a-new-approach-to-work-with-vast-amounts-of-unstructured-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
