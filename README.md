@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s going on with Greenwood and The Gathering Spot?](https://techcrunch.com/2023/07/18/whats-going-on-with-greenwood-and-the-gathering-spot/)
-- [NASA&#39;s Mars Sample Return in jeopardy after US Senate report](https://www.space.com/mars-sample-return-faces-senate-committee-cancellation)
-- [Framework Laptop 16 now available for pre-order, starting at $1,399](https://techcrunch.com/2023/07/18/framework-laptop-16-now-available-for-pre-order-starting-at-1399/)
-- [Plex’s Winamp-inspired music player Plexamp is now free](https://techcrunch.com/2023/07/18/plexs-winamp-inspired-music-player-plexamp-is-now-free/)
-- [Cognaize raises $18M to build a better LLM for the finance sector, one that keeps humans in the loop](https://techcrunch.com/2023/07/18/cognaize-raises-18m-to-build-a-better-llm-for-the-finance-sector-one-that-keeps-humans-in-the-loop/)
+- [TechCrunch+ Roundup: Firing yourself as CEO, board deck basics, venture debt explained](https://techcrunch.com/2023/07/18/techcrunch-roundup-firing-yourself-as-ceo-board-deck-basics-venture-debt-explained/)
+- [Thousands of authors sign letter urging AI makers to stop stealing books](https://techcrunch.com/2023/07/18/thousands-of-authors-sign-letter-urging-ai-makers-to-stop-stealing-books/)
+- [Twitter to support long-form articles with mixed media, Elon Musk confirms](https://techcrunch.com/2023/07/18/twitter-to-support-long-form-articles-with-mixed-media-elon-musk-confirms/)
+- [Auroras across the solar system are powered in the same way, Mercury results suggest](https://www.space.com/auroras-similar-cause-throughout-solar-system-mercury-results)
+- [What to do when customers say yes but VCs say no with Catherine Tabor from Sparkly](https://techcrunch.com/2023/07/18/what-to-do-when-customers-say-yes-but-vcs-say-no-with-catherine-tabor-from-sparkly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
