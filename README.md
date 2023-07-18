@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US government adds two more spyware makers on deny list](https://techcrunch.com/2023/07/18/us-government-adds-two-more-spyware-makers-on-deny-list/)
-- [What&#39;s it like to have an asteroid named after you? Our night sky columnist Joe Rao explains](https://www.space.com/asteroid-joe-rao-naming-200009joerao)
-- [Announcing the Hardware Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/18/announcing-the-hardware-stage-agenda-at-techcrunch-disrupt-2023/)
-- [Cybersecurity firm Netcraft lands $100M investment](https://techcrunch.com/2023/07/18/netcraft-raises-100m-cybersecurity-startup/)
-- [TikTok’s new program aims to identify rising artists in the music industry](https://techcrunch.com/2023/07/18/tiktoks-new-program-aims-to-identify-rising-artists-in-the-music-industry/)
+- [Mark Zuckerberg touts Threads is seeing ‘tens of millions’ people return to the app daily](https://techcrunch.com/2023/07/18/mark-zuckerberg-touts-threads-is-seeing-tens-of-millions-people-return-to-the-app-daily/)
+- [Watch SpaceX launch 15 Starlink satellites to orbit early Wednesday](https://www.space.com/spacex-starlink-launch-group-6-15)
+- [OnlyFans CEO Ami Gan steps down](https://techcrunch.com/2023/07/18/onlyfans-ceo-ami-gan-steps-down/)
+- [Smartphone shipments continue to decline as secondhand and premium markets thrives](https://techcrunch.com/2023/07/18/smartphone-shipments-continue-to-decline-as-secondhand-and-premium-markets-thrives/)
+- [Five sci-fi cartoons to watch while you wait for the Futurama revival](https://www.space.com/five-sci-fi-cartoons-like-futurama)
 <!-- BLOG-POST-LIST:END -->
 
 ---
