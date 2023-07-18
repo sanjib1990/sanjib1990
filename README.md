@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Glassdoor is introducing Blind-like anonymous community features to fuel user growth](https://techcrunch.com/2023/07/18/glassdoor-is-introducing-blind-like-anonymous-community-features-to-fuel-user-growth/)
+- [Tractable snaps up $65M led by SoftBank for car and property damage appraisals using AI](https://techcrunch.com/2023/07/18/tractable-snaps-up-65m-led-by-softbank-for-car-and-property-damage-appraisals-using-ai/)
+- [World&#39;s biggest radio telescope could tease out secrets of dark matter, universe&#39;s 1st galaxies](https://www.space.com/dark-matter-universe-first-galaxies-cosmic-dawn-forest)
+- [Watch 1 month in the life of a green comet during its journey past Earth &lpar;video&rpar;](https://www.space.com/green-comet-journey-solar-system-earth-video)
 - [VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
-- [US government launches the Cyber Trust Mark, its long-awaited IoT security labeling program](https://techcrunch.com/2023/07/18/us-government-launches-the-cyber-trust-mark-its-long-awaited-iot-security-labeling-program/)
-- [ID verification platform Bureau bumps its Series A to $16.5M](https://techcrunch.com/2023/07/18/bureau/)
-- [Sylvera banks $57M to put carbon offsetting on a path to Net Zero](https://techcrunch.com/2023/07/17/sylvera-series-b/)
-- [5 marketing slides to bring to your next board meeting](https://techcrunch.com/2023/07/17/5-marketing-slides-to-bring-to-your-next-board-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
