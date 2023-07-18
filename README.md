@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch+ Roundup: Firing yourself as CEO, board deck basics, venture debt explained](https://techcrunch.com/2023/07/18/techcrunch-roundup-firing-yourself-as-ceo-board-deck-basics-venture-debt-explained/)
-- [Thousands of authors sign letter urging AI makers to stop stealing books](https://techcrunch.com/2023/07/18/thousands-of-authors-sign-letter-urging-ai-makers-to-stop-stealing-books/)
-- [Twitter to support long-form articles with mixed media, Elon Musk confirms](https://techcrunch.com/2023/07/18/twitter-to-support-long-form-articles-with-mixed-media-elon-musk-confirms/)
-- [Auroras across the solar system are powered in the same way, Mercury results suggest](https://www.space.com/auroras-similar-cause-throughout-solar-system-mercury-results)
-- [What to do when customers say yes but VCs say no with Catherine Tabor from Sparkly](https://techcrunch.com/2023/07/18/what-to-do-when-customers-say-yes-but-vcs-say-no-with-catherine-tabor-from-sparkly/)
+- [Cats in space! New &#39;Captain Ginger&#39; comic unveils homage to classic &#39;Star Wars&#39; poster &lpar;exclusive&rpar;](https://www.space.com/captain-ginger-comic-star-wars-homage-cover)
+- [&#39;Meteorite&#39; that struck French woman was just a regular rock, experts say](https://www.space.com/french-woman-not-hit-by-meteorite)
+- [Meta launches an AI research community, but devotes few resources to it](https://techcrunch.com/2023/07/18/meta-launches-an-ai-research-community-but-devotes-few-resources-to-it/)
+- [Crypto is known for financial use cases, but how can it grow from there?](https://techcrunch.com/2023/07/18/crypto-nonfinancial-uses-polygon-labs/)
+- [Instagram is making it easier to create Reels with the app’s templates](https://techcrunch.com/2023/07/18/instagram-making-easier-create-reels-using-templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
