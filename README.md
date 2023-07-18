@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla directors pay $735M to settle claims they overpaid themselves](https://techcrunch.com/2023/07/17/tesla-directors-pay-735m-to-settle-claims-they-overpaid-themselves/)
-- [Celebronauts race to plug holes in the hab on Fox&#39;s &#39;Stars on Mars&#39; &lpar;exclusive clip&rpar;](https://www.space.com/stars-on-mars-episode-6-trailer-william-shatner)
-- [Tesla lets owners recharge with solar](https://techcrunch.com/2023/07/17/tesla-lets-owners-recharge-with-solar/)
-- [&#39;Cannibal&#39; coronal mass ejection that devoured &#39;dark eruption&#39; from sun will smash into Earth on July 18](https://www.space.com/sun-coronal-mass-ejection-devoured-dark-eruption-smash-into-earth-july-18)
-- [&#39;Foundation&#39; stars Lee Pace and Laura Birn discuss Season 2&#39;s riddles and romance &lpar;exclusive&rpar;](https://www.space.com/foundation-season-2-lee-pace-laura-birn-interview)
+- [Bluesky is under fire for allowing usernames with racial slurs](https://techcrunch.com/2023/07/17/bluesky-racial-slurs-banned-list-usernames/)
+- [Rice Robotics picks up $7M, powers SoftBank’s office delivery](https://techcrunch.com/2023/07/17/rice-robotics-picks-up-7m-powers-softbanks-office-delivery/)
+- [Peacock to raise its subscription prices on August 17](https://techcrunch.com/2023/07/17/peacock-is-set-to-raise-its-subscription-prices-on-august-17/)
+- [Isometric taps $25M to build a registry and science platform focused on carbon removal](https://techcrunch.com/2023/07/17/isometric-taps-25m-to-build-a-registry-and-science-platform-focused-on-carbon-removal/)
+- [UK’s approach to AI safety lacks credibility, report warns](https://techcrunch.com/2023/07/17/ada-lovelace-institute-report-on-uk-regulating-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
