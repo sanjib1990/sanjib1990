@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Ghost stars&#39; haunt the center of the Milky Way galaxy. Now we know why](https://www.space.com/milky-way-ghost-stars-planetary-nebulas)
-- [Telegram raises $210 million through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
-- [Tesla Q2 2023 earnings expectations: Cybertruck news and price cut effects](https://techcrunch.com/2023/07/18/tesla-q2-2023-earnings-expectations-cybertruck-news-and-price-cut-effects/)
-- [Can insurtech recover from the ‘death of insurtech 1.0’?](https://techcrunch.com/2023/07/18/vc-insurtech-h1-2023/)
-- [James Webb Space Telescope stars in new Netflix documentary &#39;Unknown: Cosmic Time Machine&#39; &lpar;exclusive trailer&rpar;](https://www.space.com/james-webb-space-telescope-netflix-cosmic-time-machine)
+- [What’s going on with Greenwood and The Gathering Spot?](https://techcrunch.com/2023/07/18/whats-going-on-with-greenwood-and-the-gathering-spot/)
+- [NASA&#39;s Mars Sample Return in jeopardy after US Senate report](https://www.space.com/mars-sample-return-faces-senate-committee-cancellation)
+- [Framework Laptop 16 now available for pre-order, starting at $1,399](https://techcrunch.com/2023/07/18/framework-laptop-16-now-available-for-pre-order-starting-at-1399/)
+- [Plex’s Winamp-inspired music player Plexamp is now free](https://techcrunch.com/2023/07/18/plexs-winamp-inspired-music-player-plexamp-is-now-free/)
+- [Cognaize raises $18M to build a better LLM for the finance sector, one that keeps humans in the loop](https://techcrunch.com/2023/07/18/cognaize-raises-18m-to-build-a-better-llm-for-the-finance-sector-one-that-keeps-humans-in-the-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
