@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 marketing slides to bring to your next board meeting](https://techcrunch.com/2023/07/17/5-marketing-slides-to-bring-to-your-next-board-meeting/)
 - [Bluesky is under fire for allowing usernames with racial slurs](https://techcrunch.com/2023/07/17/bluesky-racial-slurs-banned-list-usernames/)
 - [Rice Robotics picks up $7M, powers SoftBank’s office delivery](https://techcrunch.com/2023/07/17/rice-robotics-picks-up-7m-powers-softbanks-office-delivery/)
 - [Peacock to raise its subscription prices on August 17](https://techcrunch.com/2023/07/17/peacock-is-set-to-raise-its-subscription-prices-on-august-17/)
 - [Isometric taps $25M to build a registry and science platform focused on carbon removal](https://techcrunch.com/2023/07/17/isometric-taps-25m-to-build-a-registry-and-science-platform-focused-on-carbon-removal/)
-- [UK’s approach to AI safety lacks credibility, report warns](https://techcrunch.com/2023/07/17/ada-lovelace-institute-report-on-uk-regulating-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
