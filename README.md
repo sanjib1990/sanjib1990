@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok launches its music streaming service in Australia, Mexico and Singapore](https://techcrunch.com/2023/07/18/tiktok-launches-music-streaming-service-australia-mexico-singapore/)
+- [Logitech buys editing console maker Loupedeck](https://techcrunch.com/2023/07/18/logitech-buys-editing-console-maker-loupedeck/)
+- [AO3 was offline a week ago, but there’s still a fandom brewing in the Downdetector comments](https://techcrunch.com/2023/07/18/ao3-was-offline-a-week-ago-but-theres-still-a-fandom-brewing-in-the-downdetector-comments/)
 - [Fire-in-space experiment could soon make its way to the moon](https://www.space.com/international-space-station-nasa-fire-experiment-moon)
 - [Cameo announces more layoffs as celebrity greeting market shrinks](https://techcrunch.com/2023/07/18/cameo-layoffs-celebrity-greeting/)
-- [As growth becomes more elusive, a new set of software product benchmarks emerges](https://techcrunch.com/2023/07/18/software-product-benchmarks-2023/)
-- [What are public market investors looking for in IPOs?](https://techcrunch.com/2023/07/18/what-are-public-market-investors-looking-for-in-ipos/)
-- [An ancient red giant star created a rare &#39;bipolar&#39; nebula as it died &lpar;photo&rpar;](https://www.space.com/star-red-giant-planetary-nebula-double-lobed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
