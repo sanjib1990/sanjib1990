@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fire-in-space experiment could soon make its way to the moon](https://www.space.com/international-space-station-nasa-fire-experiment-moon)
+- [Cameo announces more layoffs as celebrity greeting market shrinks](https://techcrunch.com/2023/07/18/cameo-layoffs-celebrity-greeting/)
 - [As growth becomes more elusive, a new set of software product benchmarks emerges](https://techcrunch.com/2023/07/18/software-product-benchmarks-2023/)
 - [What are public market investors looking for in IPOs?](https://techcrunch.com/2023/07/18/what-are-public-market-investors-looking-for-in-ipos/)
 - [An ancient red giant star created a rare &#39;bipolar&#39; nebula as it died &lpar;photo&rpar;](https://www.space.com/star-red-giant-planetary-nebula-double-lobed)
-- [Cats in space! New &#39;Captain Ginger&#39; comic unveils homage to classic &#39;Star Wars&#39; poster &lpar;exclusive&rpar;](https://www.space.com/captain-ginger-comic-star-wars-homage-cover)
-- [&#39;Meteorite&#39; that struck French woman was just a regular Earth rock, experts say](https://www.space.com/french-woman-not-hit-by-meteorite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
