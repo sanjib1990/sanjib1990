@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg touts Threads is seeing ‘tens of millions’ people return to the app daily](https://techcrunch.com/2023/07/18/mark-zuckerberg-touts-threads-is-seeing-tens-of-millions-people-return-to-the-app-daily/)
-- [Watch SpaceX launch 15 Starlink satellites to orbit early Wednesday](https://www.space.com/spacex-starlink-launch-group-6-15)
-- [OnlyFans CEO Ami Gan steps down](https://techcrunch.com/2023/07/18/onlyfans-ceo-ami-gan-steps-down/)
-- [Smartphone shipments continue to decline as secondhand and premium markets thrives](https://techcrunch.com/2023/07/18/smartphone-shipments-continue-to-decline-as-secondhand-and-premium-markets-thrives/)
-- [Five sci-fi cartoons to watch while you wait for the Futurama revival](https://www.space.com/five-sci-fi-cartoons-like-futurama)
+- [&#39;Ghost stars&#39; haunt the center of the Milky Way galaxy. Now we know why](https://www.space.com/milky-way-ghost-stars-planetary-nebulas)
+- [Telegram raises $210 million through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
+- [Tesla Q2 2023 earnings expectations: Cybertruck news and price cut effects](https://techcrunch.com/2023/07/18/tesla-q2-2023-earnings-expectations-cybertruck-news-and-price-cut-effects/)
+- [Can insurtech recover from the ‘death of insurtech 1.0’?](https://techcrunch.com/2023/07/18/vc-insurtech-h1-2023/)
+- [James Webb Space Telescope stars in new Netflix documentary &#39;Unknown: Cosmic Time Machine&#39; &lpar;exclusive trailer&rpar;](https://www.space.com/james-webb-space-telescope-netflix-cosmic-time-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
