@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US government adds two more spyware makers on deny list](https://techcrunch.com/2023/07/18/us-government-adds-two-more-spyware-makers-on-deny-list/)
+- [What&#39;s it like to have an asteroid named after you? Our night sky columnist Joe Rao explains](https://www.space.com/asteroid-joe-rao-naming-200009joerao)
+- [Announcing the Hardware Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/18/announcing-the-hardware-stage-agenda-at-techcrunch-disrupt-2023/)
+- [Cybersecurity firm Netcraft lands $100M investment](https://techcrunch.com/2023/07/18/netcraft-raises-100m-cybersecurity-startup/)
 - [TikTok’s new program aims to identify rising artists in the music industry](https://techcrunch.com/2023/07/18/tiktoks-new-program-aims-to-identify-rising-artists-in-the-music-industry/)
-- [DataStax brings vector search to its Astra DB database service](https://techcrunch.com/2023/07/18/datastax-brings-vector-search-to-its-astra-db-database-service/)
-- [Developer-focused email platform Resend raises $3M](https://techcrunch.com/2023/07/18/developer-focused-email-platform-resend-raises-3m/)
-- [Polar Analytics raises $9M to scale Shopify brands](https://techcrunch.com/2023/07/18/polar-analytics-9m-shopify-brands-ecommerce/)
-- [Hammerspace ingests $56M for a new approach to work with vast amounts of unstructured data](https://techcrunch.com/2023/07/18/hammerspace-ingests-56m-for-a-new-approach-to-work-with-vast-amounts-of-unstructured-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
