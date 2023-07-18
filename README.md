@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ID verification platform Bureau bumps its Series A to $16.5M](https://techcrunch.com/2023/07/18/bureau/)
 - [Sylvera banks $57M to put carbon offsetting on a path to Net Zero](https://techcrunch.com/2023/07/17/sylvera-series-b/)
 - [5 marketing slides to bring to your next board meeting](https://techcrunch.com/2023/07/17/5-marketing-slides-to-bring-to-your-next-board-meeting/)
 - [Bluesky is under fire for allowing usernames with racial slurs](https://techcrunch.com/2023/07/17/bluesky-racial-slurs-banned-list-usernames/)
 - [Rice Robotics picks up $7M, powers SoftBank’s office delivery](https://techcrunch.com/2023/07/17/rice-robotics-picks-up-7m-powers-softbanks-office-delivery/)
-- [Peacock to raise its subscription prices on August 17](https://techcrunch.com/2023/07/17/peacock-is-set-to-raise-its-subscription-prices-on-august-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
