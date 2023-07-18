@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As growth becomes more elusive, a new set of software product benchmarks emerges](https://techcrunch.com/2023/07/18/software-product-benchmarks-2023/)
+- [What are public market investors looking for in IPOs?](https://techcrunch.com/2023/07/18/what-are-public-market-investors-looking-for-in-ipos/)
+- [An ancient red giant star created a rare &#39;bipolar&#39; nebula as it died &lpar;photo&rpar;](https://www.space.com/star-red-giant-planetary-nebula-double-lobed)
 - [Cats in space! New &#39;Captain Ginger&#39; comic unveils homage to classic &#39;Star Wars&#39; poster &lpar;exclusive&rpar;](https://www.space.com/captain-ginger-comic-star-wars-homage-cover)
-- [&#39;Meteorite&#39; that struck French woman was just a regular rock, experts say](https://www.space.com/french-woman-not-hit-by-meteorite)
-- [Meta launches an AI research community, but devotes few resources to it](https://techcrunch.com/2023/07/18/meta-launches-an-ai-research-community-but-devotes-few-resources-to-it/)
-- [Crypto is known for financial use cases, but how can it grow from there?](https://techcrunch.com/2023/07/18/crypto-nonfinancial-uses-polygon-labs/)
-- [Instagram is making it easier to create Reels with the app’s templates](https://techcrunch.com/2023/07/18/instagram-making-easier-create-reels-using-templates/)
+- [&#39;Meteorite&#39; that struck French woman was just a regular Earth rock, experts say](https://www.space.com/french-woman-not-hit-by-meteorite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
