@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK provisionally approves Broadcom’s $69B VMware acquisition](https://techcrunch.com/2023/07/19/uk-provisionally-approves-broadcoms-69b-vmware-acquisition/)
 - [Scientists discover &#39;glitched&#39; neutron star that obliterated an asteroid, then fired off a brilliant explosion](https://www.space.com/magnetic-star-asteroid-glitch-fast-radio-burst)
 - [You can see Mars, Venus and Mercury near the crescent moon tonight. Here&#39;s where to look.](https://www.space.com/mars-venus-mercury-moon-july-19)
 - [Nigeria’s MyCover.ai to scale its open insurance API platform with new funding](https://techcrunch.com/2023/07/19/nigerias-mycover-ai-to-scale-its-open-insurance-api-platform-with-new-funding/)
 - [Reliance-backed Dunzo defers staff pay again amid funding search](https://techcrunch.com/2023/07/19/reliance-backed-dunzo-defers-staff-pay-amid-funding-search/)
-- [Neura Robotics picks up $55M to ramp up in cognitive robotics](https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
