@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Hidden&#39; photons could shed light on mysterious dark matter](https://www.space.com/hidden-dark-matter-candidate-photons)
+- [Google’s Nearby Share for Windows app is now officially available](https://techcrunch.com/2023/07/19/googles-nearby-share-for-windows-app-is-now-officially-available/)
 - [I tried to buy a post on TechCrunch.com](https://techcrunch.com/2023/07/19/they-call-me-the-god-of-seo/)
 - [Join the Sith and hunt Jedi in &#39;Star Wars: Inquisitor: Rise of the Red Blade&#39; &lpar;exclusive&rpar;](https://www.space.com/star-wars-inquisitor-rise-of-red-blade-novel)
 - [8 VCs say they are still bullish on SAFE rounds, but it’s not 2021 anymore](https://techcrunch.com/2023/07/19/investors-discuss-safe-rounds/)
-- [Bizarre &#39;slow&#39; neutron star challenges our theories about dead stars](https://www.space.com/slow-magnetar-neutron-star-physics)
-- [Fintech valuations have fallen. Where do they go from here?](https://techcrunch.com/2023/07/19/fintech-valuations-down-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
