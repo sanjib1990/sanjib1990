@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India tax officials search edtech UpGrad offices](https://techcrunch.com/2023/07/19/india-tax-officials-search-edtech-upgrad-offices/)
-- [Unity’s Apple Vision Pro game development tool opens in beta](https://techcrunch.com/2023/07/19/unitys-apple-vision-pro-game-development-tool-opens-in-beta/)
-- [Here&#39;s how ISS astronauts jettison old space station hardware &lpar;video&rpar;](https://www.space.com/how-iss-astronauts-jettison-old-hardware-video)
-- [FedML raises $11.5 to combine MLOps tools with a decentralized AI compute network](https://techcrunch.com/2023/07/19/fedml-raises-11-5-to-combine-mlops-tools-with-a-decentralized-ai-compute-network/)
-- [Google is experimenting with AI-generated background on Meet](https://techcrunch.com/2023/07/19/google-is-experimenting-with-ai-generated-background-on-meet/)
+- [Intel Capital, Khosla lead $27M investment into SiPhox Health’s at-home blood-testing tech](https://techcrunch.com/2023/07/19/intel-khosla-27m-siphox-health-at-home-blood-test-healthcare/)
+- [Big Sky Capital debuts its $20M fund to invest in enterprise SaaS startups](https://techcrunch.com/2023/07/19/big-sky-capital-20m-venture-capital-enterprise-saas/)
+- [Team behind crypto privacy protocol Manta Network is now valued at $500M](https://techcrunch.com/2023/07/19/team-behind-crypto-privacy-protocol-manta-network-is-now-valued-at-500m/)
+- [Rocket Lab recovers Electron booster from Pacific Ocean after satellite launch &lpar;photos&rpar;](https://www.space.com/rocket-lab-booster-recovery-july-2023-photos)
+- [CodeSee adds generative AI to explore code bases with natural language queries](https://techcrunch.com/2023/07/19/codesee-adds-generative-ai-to-explore-code-base-with-natural-language-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
