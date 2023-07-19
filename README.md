@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Hidden&#39; photons could shed light on mysterious dark matter](https://www.space.com/hidden-dark-matter-candidate-photons)
-- [Google’s Nearby Share for Windows app is now officially available](https://techcrunch.com/2023/07/19/googles-nearby-share-for-windows-app-is-now-officially-available/)
-- [I tried to buy a post on TechCrunch.com](https://techcrunch.com/2023/07/19/they-call-me-the-god-of-seo/)
-- [Join the Sith and hunt Jedi in &#39;Star Wars: Inquisitor: Rise of the Red Blade&#39; &lpar;exclusive&rpar;](https://www.space.com/star-wars-inquisitor-rise-of-red-blade-novel)
-- [8 VCs say they are still bullish on SAFE rounds, but it’s not 2021 anymore](https://techcrunch.com/2023/07/19/investors-discuss-safe-rounds/)
+- [Ripple’s XRP case ‘underscores the need for regulatory clarity’](https://techcrunch.com/2023/07/19/ripple-xrp-court-ruling/)
+- [Severe outage knocks WhatsApp down](https://techcrunch.com/2023/07/19/whatsapp-down-2/)
+- [Tesla hits $25B in Q2 revenue, but margins decrease amid price cuts](https://techcrunch.com/2023/07/19/tesla-hits-25b-in-q2-revenue-but-margins-decrease-amid-price-cuts/)
+- [Tesla blames solar slump on interest rates as energy storage biz booms](https://techcrunch.com/2023/07/19/tesla-blames-solar-slump-on-interest-rates-energy-storage-booms/)
+- [Netflix gains nearly 6M subscribers as paid sharing soars](https://techcrunch.com/2023/07/19/netflix-gains-nearly-6m-subscribers-as-paid-sharing-soars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
