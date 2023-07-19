@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SvelteKit in 100 seconds](https://www.youtube.com/watch?v=H1eEFfAkIik)
 - [you need this FREE CyberSecurity tool](https://www.youtube.com/watch?v=3CaG2GI1kn0)
 - [The future of &quot;truth&quot; on the Internet](https://www.youtube.com/watch?v=-Bdb2KOb_zI)
 - [can my daughters decode this?!?](https://www.youtube.com/watch?v=PbDtgXRsCuE)
 - [Mike&#39;s Cube Code - Computerphile](https://www.youtube.com/watch?v=g9n0a0644B4)
-- [intro to cloud hacking &lpar;leaky buckets&rpar;](https://www.youtube.com/watch?v=0kk6k-VdllM)
 <!-- YOUTUBE:END -->
 
 ---
