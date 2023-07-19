@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Weirdly &#39;slow&#39; neutron star challenges our understanding of stellar corpses](https://www.space.com/slow-magnetar-neutron-star-physics)
+- [I tried to buy a post on TechCrunch.com](https://techcrunch.com/2023/07/19/they-call-me-the-god-of-seo/)
+- [Join the Sith and hunt Jedi in &#39;Star Wars: Inquisitor: Rise of the Red Blade&#39; &lpar;exclusive&rpar;](https://www.space.com/star-wars-inquisitor-rise-of-red-blade-novel)
+- [8 VCs say they are still bullish on SAFE rounds, but it’s not 2021 anymore](https://techcrunch.com/2023/07/19/investors-discuss-safe-rounds/)
+- [Bizarre &#39;slow&#39; neutron star challenges our theories about dead stars](https://www.space.com/slow-magnetar-neutron-star-physics)
 - [Fintech valuations have fallen. Where do they go from here?](https://techcrunch.com/2023/07/19/fintech-valuations-down-2023/)
-- [James Webb Space Telescope makes 1st detection of diamond-like carbon dust in the universe&#39;s earliest stars](https://www.space.com/james-webb-space-telescope-1st-detection-of-diamond-like-carbon-dust-earliest-stars)
-- [Qualtrics claims it’ll spend $500M on AI over the next four years](https://techcrunch.com/2023/07/19/qualtrics-claims-itll-spend-500m-on-ai-over-the-next-four-years/)
-- [1st evidence found for ‘Trojan planet’ worlds occupying same orbit](https://www.space.com/two-exoplanets-same-orbit-trojan-planet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
