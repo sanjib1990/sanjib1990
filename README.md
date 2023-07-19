@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After five years, Beats Studio 3’s replacement is finally here](https://techcrunch.com/2023/07/19/after-five-years-beats-studio-3-replacement-are-finally-here/)
-- [Venture’s Q2 was calm &lpar;and that’s not good&rpar;](https://techcrunch.com/2023/07/19/venture-capital-q2-was-calm-and-thats-not-good/)
-- [Sold-out Taylor Swift concert spied from space &lpar;satellite photos&rpar;](https://www.space.com/taylor-swift-concert-blacksky-satellite-photo)
-- [Netflix removes its basic tier in the US and the UK](https://techcrunch.com/2023/07/19/netflix-removes-its-basic-tier-in-the-us-and-the-uk/)
-- [BetaFPV Cetus X review: An exceptional FPV drone for beginners](https://www.space.com/betafpv-cetus-x-review)
+- [WhatsApp launches standalone smartwatch app for Wear OS](https://techcrunch.com/2023/07/19/whatsapp-smartwatch-wear-os-app/)
+- [Unstructured, which offers tools to prep enterprise data for LLMs, raises $25M](https://techcrunch.com/2023/07/19/unstructured-which-offers-tools-to-prep-enterprise-data-for-llms-raises-25m/)
+- [As Egnyte continues to grow steadily, an IPO seems like the inevitable conclusion](https://techcrunch.com/2023/07/19/egnyte-storage-ipo/)
+- [SAP invests in generative AI startups Anthropic, Cohere and Aleph Alpha](https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/)
+- [Microsoft, Activision give themselves three more months to close $68.7BN mega-merger](https://techcrunch.com/2023/07/19/microsoft-activision-deal-deadline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
