@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neura Robotics picks up $55M to ramp up in cognitive robotics](https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/)
 - [Korean fashion platform Musinsa bags $190M Series C led by KKR at a $2.7B valuation](https://techcrunch.com/2023/07/18/korean-fashion-platform-musinsa-bags-190m-series-c-led-by-kkr-at-a-2-7b-valuation/)
 - [SpaceX aborts Starlink satellite launch with 5 seconds left in countdown](https://www.space.com/spacex-starlink-launch-abort-july-19-2023)
 - [‘Shark Tank India’ falls short on investment pledges](https://techcrunch.com/2023/07/18/shark-tank-india-investors-fall-short-on-pledges/)
 - [Former NHTSA head blasts Cruise’s ‘Humans are terrible drivers’ ad](https://techcrunch.com/2023/07/18/former-nhtsa-head-blasts-cruises-humans-are-terrible-drivers-ad/)
-- [Forerunner Ventures sees a future full of ‘digitally native franchises’](https://techcrunch.com/2023/07/18/forerunner-ventures-sees-a-future-full-of-digitally-native-franchises/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
