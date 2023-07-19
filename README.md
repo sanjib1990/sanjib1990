@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowstorm raises seed and launches open beta to keep the internet free](https://techcrunch.com/2023/07/19/snowstorm/)
+- [Why does the internet love tree law so much?](https://techcrunch.com/2023/07/19/why-does-the-internet-love-tree-law-so-much/)
 - [Ripple’s XRP case ‘underscores the need for regulatory clarity’](https://techcrunch.com/2023/07/19/ripple-xrp-court-ruling/)
-- [Severe outage knocks WhatsApp down](https://techcrunch.com/2023/07/19/whatsapp-down-2/)
+- [Severe outage knocked WhatsApp down](https://techcrunch.com/2023/07/19/whatsapp-down-2/)
 - [Tesla hits $25B in Q2 revenue, but margins decrease amid price cuts](https://techcrunch.com/2023/07/19/tesla-hits-25b-in-q2-revenue-but-margins-decrease-amid-price-cuts/)
-- [Tesla blames solar slump on interest rates as energy storage biz booms](https://techcrunch.com/2023/07/19/tesla-blames-solar-slump-on-interest-rates-energy-storage-booms/)
-- [Netflix gains nearly 6M subscribers as paid sharing soars](https://techcrunch.com/2023/07/19/netflix-gains-nearly-6m-subscribers-as-paid-sharing-soars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
