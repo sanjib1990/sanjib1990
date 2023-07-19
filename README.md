@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weirdly &#39;slow&#39; neutron star challenges our understanding of stellar corpses](https://www.space.com/slow-magnetar-neutron-star-physics)
+- [Fintech valuations have fallen. Where do they go from here?](https://techcrunch.com/2023/07/19/fintech-valuations-down-2023/)
+- [James Webb Space Telescope makes 1st detection of diamond-like carbon dust in the universe&#39;s earliest stars](https://www.space.com/james-webb-space-telescope-1st-detection-of-diamond-like-carbon-dust-earliest-stars)
 - [Qualtrics claims it’ll spend $500M on AI over the next four years](https://techcrunch.com/2023/07/19/qualtrics-claims-itll-spend-500m-on-ai-over-the-next-four-years/)
 - [1st evidence found for ‘Trojan planet’ worlds occupying same orbit](https://www.space.com/two-exoplanets-same-orbit-trojan-planet)
-- [Apple is testing a ChatGPT-like AI chatbot](https://techcrunch.com/2023/07/19/apple-is-testing-chatgpt-like-ai-chatbot/)
-- [India’s Dunzo defers staff pay, to cut jobs amid funding search](https://techcrunch.com/2023/07/19/reliance-backed-dunzo-defers-staff-pay-amid-funding-search/)
-- [Rick Fox gets concrete about planet-friendly cement at Disrupt 2023](https://techcrunch.com/2023/07/19/rick-fox-gets-concrete-about-planet-friendly-cement-at-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
