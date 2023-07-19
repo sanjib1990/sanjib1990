@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover &#39;glitched&#39; neutron star that obliterated an asteroid, then fired off a brilliant explosion](https://www.space.com/magnetic-star-asteroid-glitch-fast-radio-burst)
+- [You can see Mars, Venus and Mercury near the crescent moon tonight. Here&#39;s where to look.](https://www.space.com/mars-venus-mercury-moon-july-19)
+- [Nigeria’s MyCover.ai to scale its open insurance API platform with new funding](https://techcrunch.com/2023/07/19/nigerias-mycover-ai-to-scale-its-open-insurance-api-platform-with-new-funding/)
 - [Reliance-backed Dunzo defers staff pay again amid funding search](https://techcrunch.com/2023/07/19/reliance-backed-dunzo-defers-staff-pay-amid-funding-search/)
 - [Neura Robotics picks up $55M to ramp up in cognitive robotics](https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/)
-- [Korean fashion platform Musinsa bags $190M Series C led by KKR at a $2.7B valuation](https://techcrunch.com/2023/07/18/korean-fashion-platform-musinsa-bags-190m-series-c-led-by-kkr-at-a-2-7b-valuation/)
-- [SpaceX aborts Starlink satellite launch with 5 seconds left in countdown](https://www.space.com/spacex-starlink-launch-abort-july-19-2023)
-- [‘Shark Tank India’ falls short on investment pledges](https://techcrunch.com/2023/07/18/shark-tank-india-investors-fall-short-on-pledges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
