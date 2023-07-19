@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rick Fox gets concrete about planet-friendly cement at Disrupt 2023](https://techcrunch.com/2023/07/19/rick-fox-gets-concrete-about-planet-friendly-cement-at-disrupt-2023/)
+- [TikTok is where young LGBTQ people of color feel the safest online](https://techcrunch.com/2023/07/19/trevor-project-tiktok-mental-health-survey-social-media/)
 - [WhatsApp launches standalone smartwatch app for Wear OS](https://techcrunch.com/2023/07/19/whatsapp-smartwatch-wear-os-app/)
 - [Unstructured, which offers tools to prep enterprise data for LLMs, raises $25M](https://techcrunch.com/2023/07/19/unstructured-which-offers-tools-to-prep-enterprise-data-for-llms-raises-25m/)
 - [As Egnyte continues to grow steadily, an IPO seems like the inevitable conclusion](https://techcrunch.com/2023/07/19/egnyte-storage-ipo/)
-- [SAP invests in generative AI startups Anthropic, Cohere and Aleph Alpha](https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/)
-- [Microsoft, Activision give themselves three more months to close $68.7BN mega-merger](https://techcrunch.com/2023/07/19/microsoft-activision-deal-deadline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
