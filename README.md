@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK provisionally approves Broadcom’s $69B VMware acquisition](https://techcrunch.com/2023/07/19/uk-provisionally-approves-broadcoms-69b-vmware-acquisition/)
-- [Scientists discover &#39;glitched&#39; neutron star that obliterated an asteroid, then fired off a brilliant explosion](https://www.space.com/magnetic-star-asteroid-glitch-fast-radio-burst)
-- [You can see Mars, Venus and Mercury near the crescent moon tonight. Here&#39;s where to look.](https://www.space.com/mars-venus-mercury-moon-july-19)
-- [Nigeria’s MyCover.ai to scale its open insurance API platform with new funding](https://techcrunch.com/2023/07/19/nigerias-mycover-ai-to-scale-its-open-insurance-api-platform-with-new-funding/)
-- [Reliance-backed Dunzo defers staff pay again amid funding search](https://techcrunch.com/2023/07/19/reliance-backed-dunzo-defers-staff-pay-amid-funding-search/)
+- [India tax officials search edtech UpGrad offices](https://techcrunch.com/2023/07/19/india-tax-officials-search-edtech-upgrad-offices/)
+- [Unity’s Apple Vision Pro game development tool opens in beta](https://techcrunch.com/2023/07/19/unitys-apple-vision-pro-game-development-tool-opens-in-beta/)
+- [Here&#39;s how ISS astronauts jettison old space station hardware &lpar;video&rpar;](https://www.space.com/how-iss-astronauts-jettison-old-hardware-video)
+- [FedML raises $11.5 to combine MLOps tools with a decentralized AI compute network](https://techcrunch.com/2023/07/19/fedml-raises-11-5-to-combine-mlops-tools-with-a-decentralized-ai-compute-network/)
+- [Google is experimenting with AI-generated background on Meet](https://techcrunch.com/2023/07/19/google-is-experimenting-with-ai-generated-background-on-meet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
