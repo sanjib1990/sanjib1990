@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualtrics claims it’ll spend $500M on AI over the next four years](https://techcrunch.com/2023/07/19/qualtrics-claims-itll-spend-500m-on-ai-over-the-next-four-years/)
+- [1st evidence found for ‘Trojan planet’ worlds occupying same orbit](https://www.space.com/two-exoplanets-same-orbit-trojan-planet)
+- [Apple is testing a ChatGPT-like AI chatbot](https://techcrunch.com/2023/07/19/apple-is-testing-chatgpt-like-ai-chatbot/)
+- [India’s Dunzo defers staff pay, to cut jobs amid funding search](https://techcrunch.com/2023/07/19/reliance-backed-dunzo-defers-staff-pay-amid-funding-search/)
 - [Rick Fox gets concrete about planet-friendly cement at Disrupt 2023](https://techcrunch.com/2023/07/19/rick-fox-gets-concrete-about-planet-friendly-cement-at-disrupt-2023/)
-- [TikTok is where young LGBTQ people of color feel the safest online](https://techcrunch.com/2023/07/19/trevor-project-tiktok-mental-health-survey-social-media/)
-- [WhatsApp launches standalone smartwatch app for Wear OS](https://techcrunch.com/2023/07/19/whatsapp-smartwatch-wear-os-app/)
-- [Unstructured, which offers tools to prep enterprise data for LLMs, raises $25M](https://techcrunch.com/2023/07/19/unstructured-which-offers-tools-to-prep-enterprise-data-for-llms-raises-25m/)
-- [As Egnyte continues to grow steadily, an IPO seems like the inevitable conclusion](https://techcrunch.com/2023/07/19/egnyte-storage-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
