@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shark Tank India investors fall short on pledges](https://techcrunch.com/2023/07/18/shark-tank-india-investors-fall-short-on-pledges/)
+- [Former NHTSA head blasts Cruise’s ‘Humans are terrible drivers’ ad](https://techcrunch.com/2023/07/18/former-nhtsa-head-blasts-cruises-humans-are-terrible-drivers-ad/)
+- [Forerunner Ventures sees a future full of ‘digitally native franchises’](https://techcrunch.com/2023/07/18/forerunner-ventures-sees-a-future-full-of-digitally-native-franchises/)
+- [Basecamp introduces special reduced pricing in India](https://techcrunch.com/2023/07/18/basecamp-india-special-pricing/)
 - [Meta releases Llama 2, a more ‘helpful’ set of text-generating models](https://techcrunch.com/2023/07/18/meta-releases-llama-2-a-more-helpful-set-of-text-generating-models/)
-- [Samsung teases latest foldables ahead of Unpacked](https://techcrunch.com/2023/07/18/samsung-teases-latest-foldables-ahead-of-unpacked/)
-- [Maybe showing off an AI-generated fake TV episode during a writers strike is a bad idea](https://techcrunch.com/2023/07/18/maybe-showing-off-an-ai-generated-fake-tv-episode-during-a-writers-strike-is-a-bad-idea/)
-- [Threads update adds translation and a flurry of minor improvements](https://techcrunch.com/2023/07/18/metas-threads-update-adds-translation-and-a-flurry-of-minor-improvements/)
-- [Sources: Lensa AI backer exits Servers.com for $200M](https://techcrunch.com/2023/07/18/sources-lensa-ai-backer-exits-servers-com-for-200m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
