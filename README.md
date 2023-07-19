@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Capital, Khosla lead $27M investment into SiPhox Health’s at-home blood-testing tech](https://techcrunch.com/2023/07/19/intel-khosla-27m-siphox-health-at-home-blood-test-healthcare/)
-- [Big Sky Capital debuts its $20M fund to invest in enterprise SaaS startups](https://techcrunch.com/2023/07/19/big-sky-capital-20m-venture-capital-enterprise-saas/)
-- [Team behind crypto privacy protocol Manta Network is now valued at $500M](https://techcrunch.com/2023/07/19/team-behind-crypto-privacy-protocol-manta-network-is-now-valued-at-500m/)
-- [Rocket Lab recovers Electron booster from Pacific Ocean after satellite launch &lpar;photos&rpar;](https://www.space.com/rocket-lab-booster-recovery-july-2023-photos)
-- [CodeSee adds generative AI to explore code bases with natural language queries](https://techcrunch.com/2023/07/19/codesee-adds-generative-ai-to-explore-code-base-with-natural-language-queries/)
+- [After five years, Beats Studio 3’s replacement is finally here](https://techcrunch.com/2023/07/19/after-five-years-beats-studio-3-replacement-are-finally-here/)
+- [Venture’s Q2 was calm &lpar;and that’s not good&rpar;](https://techcrunch.com/2023/07/19/venture-capital-q2-was-calm-and-thats-not-good/)
+- [Sold-out Taylor Swift concert spied from space &lpar;satellite photos&rpar;](https://www.space.com/taylor-swift-concert-blacksky-satellite-photo)
+- [Netflix removes its basic tier in the US and the UK](https://techcrunch.com/2023/07/19/netflix-removes-its-basic-tier-in-the-us-and-the-uk/)
+- [BetaFPV Cetus X review: An exceptional FPV drone for beginners](https://www.space.com/betafpv-cetus-x-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
