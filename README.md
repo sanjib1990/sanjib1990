@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX aborts Starlink satellite launch with 5 seconds left in countdown](https://www.space.com/spacex-starlink-launch-abort-july-19-2023)
 - [Shark Tank India falls short on investment pledges](https://techcrunch.com/2023/07/18/shark-tank-india-investors-fall-short-on-pledges/)
 - [Former NHTSA head blasts Cruise’s ‘Humans are terrible drivers’ ad](https://techcrunch.com/2023/07/18/former-nhtsa-head-blasts-cruises-humans-are-terrible-drivers-ad/)
 - [Forerunner Ventures sees a future full of ‘digitally native franchises’](https://techcrunch.com/2023/07/18/forerunner-ventures-sees-a-future-full-of-digitally-native-franchises/)
 - [Basecamp introduces special reduced pricing in India](https://techcrunch.com/2023/07/18/basecamp-india-special-pricing/)
-- [Meta releases Llama 2, a more ‘helpful’ set of text-generating models](https://techcrunch.com/2023/07/18/meta-releases-llama-2-a-more-helpful-set-of-text-generating-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
