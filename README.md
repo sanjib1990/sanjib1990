@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Korean fashion platform Musinsa bags $190M Series C led by KKR at a $2.7B valuation](https://techcrunch.com/2023/07/18/korean-fashion-platform-musinsa-bags-190m-series-c-led-by-kkr-at-a-2-7b-valuation/)
 - [SpaceX aborts Starlink satellite launch with 5 seconds left in countdown](https://www.space.com/spacex-starlink-launch-abort-july-19-2023)
-- [Shark Tank India falls short on investment pledges](https://techcrunch.com/2023/07/18/shark-tank-india-investors-fall-short-on-pledges/)
+- [‘Shark Tank India’ falls short on investment pledges](https://techcrunch.com/2023/07/18/shark-tank-india-investors-fall-short-on-pledges/)
 - [Former NHTSA head blasts Cruise’s ‘Humans are terrible drivers’ ad](https://techcrunch.com/2023/07/18/former-nhtsa-head-blasts-cruises-humans-are-terrible-drivers-ad/)
 - [Forerunner Ventures sees a future full of ‘digitally native franchises’](https://techcrunch.com/2023/07/18/forerunner-ventures-sees-a-future-full-of-digitally-native-franchises/)
-- [Basecamp introduces special reduced pricing in India](https://techcrunch.com/2023/07/18/basecamp-india-special-pricing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
