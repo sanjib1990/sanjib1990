@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Premium individual plan now costs $2 more in the US](https://techcrunch.com/2023/07/20/youtube-premium-individual-plan-now-costs-2-more-in-the-us/)
+- [Return to the moon: The race we have to win &lpar;again&rpar;](https://www.space.com/return-to-moon-china-space-race)
 - [Celebrate 400 years of moon maps for Apollo 11&#39;s anniversary &lpar;gallery&rpar;](https://www.space.com/nasa-apollo-11-400-years-moon-mapping-gallery)
 - [Interstellar meteor fragments found? Harvard astronomer&#39;s claim sparks debate, criticism](https://www.space.com/interstellar-meteor-avi-loeb-expedition)
 - [What happened when Nous.co hooked-up Generative AI to its users’ household bills](https://techcrunch.com/2023/07/20/what-happened-when-nous-co-hooked-up-generative-ai-to-its-users-household-bills/)
-- [TikTok expands research API to Europe and launches ads transparency library](https://techcrunch.com/2023/07/20/tiktok-ads-transparency/)
-- [Gushwork.ai raises $2M, led by Lightspeed, to outsource business tasks to workforces trained in AI](https://techcrunch.com/2023/07/20/gushwork-ai-funding-lightspeed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
