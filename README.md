@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrate 400 years of moon maps for Apollo 11&#39;s anniversary &lpar;gallery&rpar;](https://www.space.com/nasa-apollo-11-400-years-moon-mapping-gallery)
+- [Interstellar meteor fragments found? Harvard astronomer&#39;s claim sparks debate, criticism](https://www.space.com/interstellar-meteor-avi-loeb-expedition)
+- [What happened when Nous.co hooked-up Generative AI to its users’ household bills](https://techcrunch.com/2023/07/20/what-happened-when-nous-co-hooked-up-generative-ai-to-its-users-household-bills/)
+- [TikTok expands research API to Europe and launches ads transparency library](https://techcrunch.com/2023/07/20/tiktok-ads-transparency/)
 - [Gushwork.ai raises $2M, led by Lightspeed, to outsource business tasks to workforces trained in AI](https://techcrunch.com/2023/07/20/gushwork-ai-funding-lightspeed/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Can dltHub solve the Python library problem for AI? Dig Ventures thinks so](https://techcrunch.com/2023/07/20/can-dlthub-solve-the-python-library-problem-for-ai-dig-ventures-thinks-so/)
-- [Ask Sophie: How realistic are my chances of hiring H-1B candidates at my startup?](https://techcrunch.com/2023/07/19/how-realistic-are-my-chances-of-hiring-h-1b-candidates/)
-- [Michael Moritz moves on, book-ending a long chapter at Sequoia Capital](https://techcrunch.com/2023/07/19/michael-moritz-moves-on-bookmarking-a-long-chapter-at-sequoia-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
