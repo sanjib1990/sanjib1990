@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s been a bumpy 6 months for edtech — are smoother roads ahead?](https://techcrunch.com/2023/07/20/h1-2023-edtech-venture-capital-trends/)
+- [Expo+ Pass: The affordable TechCrunch Disrupt 2023 experience](https://techcrunch.com/2023/07/20/expo-pass-the-affordable-techcrunch-disrupt-2023-experience/)
+- [See SpaceX launch picture-perfect nighttime Starlink mission &lpar;photos&rpar;](https://www.space.com/spacex-starlink-launch-vandenberg-july-2023)
 - [Twitter is prepping a job listings feature for verified organizations](https://techcrunch.com/2023/07/20/twitter-prepping-job-listings-feature-verified-organizations/)
 - [We tried using OpenAI to generate marketing strategies — and it worked](https://techcrunch.com/2023/07/20/we-tried-using-openai-to-generate-marketing-strategies-and-it-worked/)
-- [Here’s an EthCC recap for those who couldn’t make it to Paris this year](https://techcrunch.com/2023/07/20/ethcc-ethereum-conference-recap-paris-2023/)
-- [Few Americans think NASA’s top priority should be sending humans to the moon or Mars](https://techcrunch.com/2023/07/20/few-americans-think-nasas-top-priority-should-be-sending-humans-to-the-moon-or-mars/)
-- [Electric utilities are driving customers into the hands of startups](https://techcrunch.com/2023/07/20/electric-utilities-ev-charging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
