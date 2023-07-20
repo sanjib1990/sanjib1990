@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Premium individual plan now costs $2 more in the US](https://techcrunch.com/2023/07/20/youtube-premium-individual-plan-now-costs-2-more-in-the-us/)
-- [Return to the moon: The race we have to win &lpar;again&rpar;](https://www.space.com/return-to-moon-china-space-race)
-- [Celebrate 400 years of moon maps for Apollo 11&#39;s anniversary &lpar;gallery&rpar;](https://www.space.com/nasa-apollo-11-400-years-moon-mapping-gallery)
-- [Interstellar meteor fragments found? Harvard astronomer&#39;s claim sparks debate, criticism](https://www.space.com/interstellar-meteor-avi-loeb-expedition)
-- [What happened when Nous.co hooked-up Generative AI to its users’ household bills](https://techcrunch.com/2023/07/20/what-happened-when-nous-co-hooked-up-generative-ai-to-its-users-household-bills/)
+- [How Apollo 11 inspired record-breaking NASA astronaut Peggy Whitson &lpar;exclusive&rpar;](https://www.space.com/apollo-11-nasa-astronaut-peggy-whitson)
+- [InDrive brings its ‘bid-based’ ride-hail app to the US](https://techcrunch.com/2023/07/20/indrive-brings-its-bid-based-ride-hail-app-to-the-us/)
+- [First sneak peek at the judges for Startup Battlefield at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/20/first-sneak-peek-at-the-judges-for-startup-battlefield-at-techcrunch-disrupt-2023/)
+- [Google starts the GA rollout of its Privacy Sandbox APIs to all Chrome users](https://techcrunch.com/2023/07/20/google-starts-the-ga-rollout-of-its-privacy-sandbox-apis-to-all-chrome-users/)
+- [YouTube Premium individual plan now costs $2 more for all subscribers in the US](https://techcrunch.com/2023/07/20/youtube-premium-individual-plan-now-costs-2-more-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
