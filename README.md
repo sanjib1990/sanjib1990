@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The new Pokémon app will put you to sleep](https://techcrunch.com/2023/07/20/pokemon-sleep-launch/)
-- [Collectly wants to make paying healthcare bills easier so medical providers don’t lose $200B](https://techcrunch.com/2023/07/20/collectly-healthcare-bills-fintech/)
-- [Ofcom says it won’t pay ransom, as new MOVEit hack victims come forward](https://techcrunch.com/2023/07/20/ofcom-comreg-moveit-hacks/)
-- [Netflix’s first live sporting event arrives in November, confirms CEO](https://techcrunch.com/2023/07/20/netflixs-first-live-sporting-event-arrives-in-november-confirms-ceo/)
-- [How Apollo 11 inspired record-breaking NASA astronaut Peggy Whitson &lpar;exclusive&rpar;](https://www.space.com/apollo-11-nasa-astronaut-peggy-whitson)
+- [Fake passports, real bank accounts: How TheTruthSpy stalkerware made its millions](https://techcrunch.com/2023/07/20/thetruthspy-stalkerware-forged-passports-millions/)
+- [Startups with all-women founding teams raised just $1.4B in H1](https://techcrunch.com/2023/07/20/all-women-team-funding-h12023/)
+- [Walmart+ Assist halves the price of its Prime competitor for those on government assistance](https://techcrunch.com/2023/07/20/walmart-assist-halves-the-price-of-its-prime-competitor-for-those-on-government-assistance/)
+- [Strange two-faced dying star &#39;Janus&#39; baffles scientists in cosmic oddity](https://www.space.com/star-two-faced-janus-baffles-scientists)
+- [Google is testing an AI tool that can write news articles](https://techcrunch.com/2023/07/20/google-reportedly-testing-ai-tool-write-news-articles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
