@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With $37M seed round, Maka Motors begins EV pilot on Indonesia’s streets](https://techcrunch.com/2023/07/19/with-37m-seed-round-maka-motors-begins-ev-pilot-on-indonesias-streets/)
 - [Kitchen robot Botinkit raises $13M from DJI angel and others](https://techcrunch.com/2023/07/19/kitchen-robot-botinkit-raises-13m-from-dji-angel-and-others/)
 - [Tesla to license FSD to other OEMs, allow transfer of FSD to new cars](https://techcrunch.com/2023/07/19/tesla-to-license-fsd-to-other-oems-allow-transfer-of-fsd-to-new-cars/)
 - [Beijing robotics firm ForwardX’s Series C hits $61 million](https://techcrunch.com/2023/07/19/beijing-robotics-firm-forwardxs-series-c-hits-61-million/)
-- [Snowstorm raises seed and launches open beta to keep the internet free](https://techcrunch.com/2023/07/19/snowstorm/)
-- [Why does the internet love tree law so much?](https://techcrunch.com/2023/07/19/why-does-the-internet-love-tree-law-so-much/)
+- [Snowstorm raises seed to keep the internet free](https://techcrunch.com/2023/07/19/snowstorm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
