@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake passports, real bank accounts: How TheTruthSpy stalkerware made its millions](https://techcrunch.com/2023/07/20/thetruthspy-stalkerware-forged-passports-millions/)
-- [Startups with all-women founding teams raised just $1.4B in H1](https://techcrunch.com/2023/07/20/all-women-team-funding-h12023/)
-- [Walmart+ Assist halves the price of its Prime competitor for those on government assistance](https://techcrunch.com/2023/07/20/walmart-assist-halves-the-price-of-its-prime-competitor-for-those-on-government-assistance/)
-- [Strange two-faced dying star &#39;Janus&#39; baffles scientists in cosmic oddity](https://www.space.com/star-two-faced-janus-baffles-scientists)
-- [Google is testing an AI tool that can write news articles](https://techcrunch.com/2023/07/20/google-reportedly-testing-ai-tool-write-news-articles/)
+- [Tech-ish companies’ killer IPOs are making startups look silly as hell](https://techcrunch.com/2023/07/20/oddity-tech-ipo/)
+- [Artemis 2 moon astronaut explains risk of flying NASA&#39;s supersonic training jet](https://www.space.com/artemis-2-moon-astronaut-nasa-supersonic-training-jet-t38)
+- [GitHub’s Copilot Chat is now in public preview for businesses](https://techcrunch.com/2023/07/20/githubs-copilot-chat-is-now-in-public-preview-for-businesses/)
+- [Redditors are already using r/place to address API controversy](https://techcrunch.com/2023/07/20/redditors-are-already-using-r-place-to-address-api-controversy/)
+- [Most Americans expect routine space tourism by 2073, but few would actually try it: report](https://www.space.com/americans-view-spaceflight-next-50-years-pew-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
