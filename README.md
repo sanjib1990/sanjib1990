@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomous vehicle company Aurora sells $820M worth of stock](https://techcrunch.com/2023/07/20/av-company-aurora-innovation-sells-820m-worth-of-stock/)
 - [SpaceX’s Swarm Technologies is halting new device sales](https://techcrunch.com/2023/07/20/spacexs-swarm-technologies-is-halting-new-device-sales/)
 - [Cruise starts initial robotaxi testing in Miami](https://techcrunch.com/2023/07/20/cruise-starts-initial-robotaxi-testing-in-miami/)
 - [VR is dead](https://techcrunch.com/2023/07/20/vr-is-dead/)
 - [It’s been a bumpy 6 months for edtech — are smoother roads ahead?](https://techcrunch.com/2023/07/20/h1-2023-edtech-venture-capital-trends/)
-- [Expo+ Pass: The affordable TechCrunch Disrupt 2023 experience](https://techcrunch.com/2023/07/20/expo-pass-the-affordable-techcrunch-disrupt-2023-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
