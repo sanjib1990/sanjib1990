@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX’s Swarm Technologies is halting new device sales](https://techcrunch.com/2023/07/20/spacexs-swarm-technologies-is-halting-new-device-sales/)
+- [Cruise starts initial robotaxi testing in Miami](https://techcrunch.com/2023/07/20/cruise-starts-initial-robotaxi-testing-in-miami/)
+- [VR is dead](https://techcrunch.com/2023/07/20/vr-is-dead/)
 - [It’s been a bumpy 6 months for edtech — are smoother roads ahead?](https://techcrunch.com/2023/07/20/h1-2023-edtech-venture-capital-trends/)
 - [Expo+ Pass: The affordable TechCrunch Disrupt 2023 experience](https://techcrunch.com/2023/07/20/expo-pass-the-affordable-techcrunch-disrupt-2023-experience/)
-- [See SpaceX launch picture-perfect nighttime Starlink mission &lpar;photos&rpar;](https://www.space.com/spacex-starlink-launch-vandenberg-july-2023)
-- [Twitter is prepping a job listings feature for verified organizations](https://techcrunch.com/2023/07/20/twitter-prepping-job-listings-feature-verified-organizations/)
-- [We tried using OpenAI to generate marketing strategies — and it worked](https://techcrunch.com/2023/07/20/we-tried-using-openai-to-generate-marketing-strategies-and-it-worked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
