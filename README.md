@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We tried using OpenAI to generate marketing strategies — and it worked](https://techcrunch.com/2023/07/20/we-tried-using-openai-to-generate-marketing-strategies-and-it-worked/)
+- [Here’s an EthCC recap for those who couldn’t make it to Paris this year](https://techcrunch.com/2023/07/20/ethcc-ethereum-conference-recap-paris-2023/)
+- [Few Americans think NASA’s top priority should be sending humans to the moon or Mars](https://techcrunch.com/2023/07/20/few-americans-think-nasas-top-priority-should-be-sending-humans-to-the-moon-or-mars/)
 - [Electric utilities are driving customers into the hands of startups](https://techcrunch.com/2023/07/20/electric-utilities-ev-charging/)
 - [Hubble telescope spies cloud of space rocks created by DART asteroid impact &lpar;photos&rpar;](https://www.space.com/hubble-telescope-nasa-dart-mission-asteroid-space-boulders)
-- [Remini tops the App Store for its viral ‘AI headshots’ but its body edits go too far, some say](https://techcrunch.com/2023/07/20/remini-tops-the-app-store-for-its-viral-ai-headshots-but-its-body-edits-go-too-far-some-say/)
-- [OpenAI launches customized instructions for ChatGPT](https://techcrunch.com/2023/07/20/openai-launches-customized-instructions-for-chatgpt/)
-- [Apple warning it could shut FaceTime, iMessage in UK over gov’t surveillance policy adds to growing tech industry discontent](https://techcrunch.com/2023/07/20/apple-ipa-threat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
