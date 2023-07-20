@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Michael Moritz moves on, bookmarking a long chapter at Sequoia Capital](https://techcrunch.com/2023/07/19/michael-moritz-moves-on-bookmarking-a-long-chapter-at-sequoia-capital/)
 - [China’s OpenAI challenger Zhipu AI gets Meituan funding](https://techcrunch.com/2023/07/19/chinas-openai-challenger-zhipu-ai-gets-meituan-funding/)
 - [Netflix brings password-sharing crackdown to India and every other market](https://techcrunch.com/2023/07/19/netflix-account-password-sharing-crackdown/)
 - [Farizon, Geely’s truck unit, raised $600M to expand outside China](https://techcrunch.com/2023/07/19/farizon-geelys-truck-unit-raised-600m-to-expand-outside-china/)
 - [With $37M seed round, Maka Motors begins EV pilot on Indonesia’s streets](https://techcrunch.com/2023/07/19/with-37m-seed-round-maka-motors-begins-ev-pilot-on-indonesias-streets/)
-- [Kitchen robot Botinkit raises $13M from DJI angel and others](https://techcrunch.com/2023/07/19/kitchen-robot-botinkit-raises-13m-from-dji-angel-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
