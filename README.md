@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gushwork.ai raises $2M, led by Lightspeed, to outsource business tasks to workforces trained in AI](https://techcrunch.com/2023/07/20/gushwork-ai-funding-lightspeed/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Can dltHub solve the Python library problem for AI? Dig Ventures thinks so](https://techcrunch.com/2023/07/20/can-dlthub-solve-the-python-library-problem-for-ai-dig-ventures-thinks-so/)
 - [Ask Sophie: How realistic are my chances of hiring H-1B candidates at my startup?](https://techcrunch.com/2023/07/19/how-realistic-are-my-chances-of-hiring-h-1b-candidates/)
 - [Michael Moritz moves on, book-ending a long chapter at Sequoia Capital](https://techcrunch.com/2023/07/19/michael-moritz-moves-on-bookmarking-a-long-chapter-at-sequoia-capital/)
-- [China’s OpenAI challenger Zhipu AI gets Meituan funding](https://techcrunch.com/2023/07/19/chinas-openai-challenger-zhipu-ai-gets-meituan-funding/)
-- [Netflix brings password-sharing crackdown to India and every other market](https://techcrunch.com/2023/07/19/netflix-account-password-sharing-crackdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
