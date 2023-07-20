@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Early-stage SaaS startups grow the same with or without VC dollars](https://techcrunch.com/2023/07/20/early-stage-saas-startups-vc-bootstrap/)
+- [San Diego Comic-Con 2023: The space fan&#39;s ultimate guide](https://www.space.com/san-diego-comic-con-2023-space-fans-guide)
+- [Satellite will die by fire as 1st-of-its-kind operation sends it plummeting down to Earth](https://www.space.com/esa-satellite-aeolus-reentry-first-of-its-kind)
+- [Google says Apple employee found a zero-day but did not report it](https://techcrunch.com/2023/07/20/google-says-apple-employee-found-a-zero-day-but-did-not-report-it/)
 - [Tech-ish companies’ killer IPOs are making startups look silly as hell](https://techcrunch.com/2023/07/20/oddity-tech-ipo/)
-- [Artemis 2 moon astronaut explains risk of flying NASA&#39;s supersonic training jet](https://www.space.com/artemis-2-moon-astronaut-nasa-supersonic-training-jet-t38)
-- [GitHub’s Copilot Chat is now in public preview for businesses](https://techcrunch.com/2023/07/20/githubs-copilot-chat-is-now-in-public-preview-for-businesses/)
-- [Redditors are already using r/place to address API controversy](https://techcrunch.com/2023/07/20/redditors-are-already-using-r-place-to-address-api-controversy/)
-- [Most Americans expect routine space tourism by 2073, but few would actually try it: report](https://www.space.com/americans-view-spaceflight-next-50-years-pew-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
