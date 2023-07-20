@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kitchen robot Botinkit raises $13M from DJI angel and others](https://techcrunch.com/2023/07/19/kitchen-robot-botinkit-raises-13m-from-dji-angel-and-others/)
+- [Tesla to license FSD to other OEMs, allow transfer of FSD to new cars](https://techcrunch.com/2023/07/19/tesla-to-license-fsd-to-other-oems-allow-transfer-of-fsd-to-new-cars/)
 - [Beijing robotics firm ForwardX’s Series C hits $61 million](https://techcrunch.com/2023/07/19/beijing-robotics-firm-forwardxs-series-c-hits-61-million/)
 - [Snowstorm raises seed and launches open beta to keep the internet free](https://techcrunch.com/2023/07/19/snowstorm/)
 - [Why does the internet love tree law so much?](https://techcrunch.com/2023/07/19/why-does-the-internet-love-tree-law-so-much/)
-- [Ripple’s XRP case ‘underscores the need for regulatory clarity’](https://techcrunch.com/2023/07/19/ripple-xrp-court-ruling/)
-- [Severe outage knocked WhatsApp down](https://techcrunch.com/2023/07/19/whatsapp-down-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
