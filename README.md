@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Early-stage SaaS startups grow the same with or without VC dollars](https://techcrunch.com/2023/07/20/early-stage-saas-startups-vc-bootstrap/)
-- [San Diego Comic-Con 2023: The space fan&#39;s ultimate guide](https://www.space.com/san-diego-comic-con-2023-space-fans-guide)
-- [Satellite will die by fire as 1st-of-its-kind operation sends it plummeting down to Earth](https://www.space.com/esa-satellite-aeolus-reentry-first-of-its-kind)
-- [Google says Apple employee found a zero-day but did not report it](https://techcrunch.com/2023/07/20/google-says-apple-employee-found-a-zero-day-but-did-not-report-it/)
-- [Tech-ish companies’ killer IPOs are making startups look silly as hell](https://techcrunch.com/2023/07/20/oddity-tech-ipo/)
+- [Electric utilities are driving customers into the hands of startups](https://techcrunch.com/2023/07/20/electric-utilities-ev-charging/)
+- [Hubble telescope spies cloud of space rocks created by DART asteroid impact &lpar;photos&rpar;](https://www.space.com/hubble-telescope-nasa-dart-mission-asteroid-space-boulders)
+- [Remini tops the App Store for its viral ‘AI headshots’ but its body edits go too far, some say](https://techcrunch.com/2023/07/20/remini-tops-the-app-store-for-its-viral-ai-headshots-but-its-body-edits-go-too-far-some-say/)
+- [OpenAI launches customized instructions for ChatGPT](https://techcrunch.com/2023/07/20/openai-launches-customized-instructions-for-chatgpt/)
+- [Apple warning it could shut FaceTime, iMessage in UK over gov’t surveillance policy adds to growing tech industry discontent](https://techcrunch.com/2023/07/20/apple-ipa-threat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
