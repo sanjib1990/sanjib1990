@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter is prepping a job listings feature for verified organizations](https://techcrunch.com/2023/07/20/twitter-prepping-job-listings-feature-verified-organizations/)
 - [We tried using OpenAI to generate marketing strategies — and it worked](https://techcrunch.com/2023/07/20/we-tried-using-openai-to-generate-marketing-strategies-and-it-worked/)
 - [Here’s an EthCC recap for those who couldn’t make it to Paris this year](https://techcrunch.com/2023/07/20/ethcc-ethereum-conference-recap-paris-2023/)
 - [Few Americans think NASA’s top priority should be sending humans to the moon or Mars](https://techcrunch.com/2023/07/20/few-americans-think-nasas-top-priority-should-be-sending-humans-to-the-moon-or-mars/)
 - [Electric utilities are driving customers into the hands of startups](https://techcrunch.com/2023/07/20/electric-utilities-ev-charging/)
-- [Hubble telescope spies cloud of space rocks created by DART asteroid impact &lpar;photos&rpar;](https://www.space.com/hubble-telescope-nasa-dart-mission-asteroid-space-boulders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
