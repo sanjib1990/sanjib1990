@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye VR, hello AR, and can AI be more human, plz?](https://techcrunch.com/2023/07/21/goodbye-vr-hello-ar-and-can-ai-be-more-human-plz/)
-- [SpaceX rolls Starship Super Heavy booster back to the pad ahead of next launch &lpar;photos&rpar;](https://www.space.com/starship-super-heavy-rollout-photos-july-2023)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Climate change may be changing the color of Earth&#39;s oceans](https://www.space.com/earth-oceans-change-color-climate-change)
-- [China&#39;s Shenzhou 16 astronauts complete 1st spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-16-astronauts-first-spacewalk)
+- [AOC will stream on Twitch again this weekend](https://techcrunch.com/2023/07/21/aoc-will-stream-on-twitch-again-this-weekend/)
+- [Investor opportunities abound at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/21/investor-opportunities-abound-at-techcrunch-disrupt-2023/)
+- [NASA searches for climate solutions as global temperatures reach record highs](https://www.space.com/nasa-discusses-record-temperatures-climate-solutions)
+- [European insurtech is showing strength that venture data doesn’t fully detail](https://techcrunch.com/2023/07/21/european-insurtech-2023-data/)
+- [Suspending access to medication abortions will threaten telehealth access](https://techcrunch.com/2023/07/21/suspending-access-to-medication-abortions-will-threaten-telehealth-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
