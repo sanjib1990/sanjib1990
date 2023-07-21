@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How California museum is protecting space shuttle Endeavour against earthquakes](https://www.space.com/space-shuttle-endeavour-exhibit-earthquakes)
-- [Tesla’s margins remind us that it’s an automaker, not a tech company](https://techcrunch.com/2023/07/21/tesla-earnings-stock-price-down/)
-- [Artemis 2 moon astronauts visit splashdown zone for their Orion spacecraft &lpar;photo&rpar;](https://www.space.com/artemis-2-moon-astronauts-orion-splashdown-zone-visit)
-- [Amazon is building a $120M facility in Florida for Project Kuiper satellite processing](https://techcrunch.com/2023/07/21/amazon-is-building-a-120m-facility-in-florida-for-project-kuiper-satellite-processing/)
-- [&#39;Go for Stack&#39;: 1st parts of space shuttle Endeavour vertical display lifted into place at California Science Center](https://www.space.com/space-shuttle-endeavour-aft-skirts-go-for-stack)
+- [China&#39;s Shenzhou 16 astronauts complete 1st spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-16-astronauts-first-spacewalk)
+- [Leave sex workers out of your NPC TikTok discourse](https://techcrunch.com/2023/07/21/pinkydoll-npc-tiktok-sex-work-not-fetish-content/)
+- [AMC scraps plan to charge more for better seats](https://techcrunch.com/2023/07/21/amc-scraps-plan-to-charge-more-for-better-seats/)
+- [FedNow is finally live in the US](https://techcrunch.com/2023/07/21/fednow-is-finally-live-in-the-us/)
+- [Over 100 space rocks collected by meteorite hunter Geoffrey Notkin are up for action today](https://www.space.com/meteorite-auction-geoffrey-notkin-july-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
