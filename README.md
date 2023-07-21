@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Red Hat saved IBM’s bacon this quarter](https://techcrunch.com/2023/07/21/red-hat-ibm-earnings/)
+- [The makers of Camera+ releases Photon, a new image capture app for pros](https://techcrunch.com/2023/07/21/the-makers-of-camera-releases-photon-a-new-image-capture-app-for-pros/)
+- [Astranis moves to Plan B after first commercial internet satellite malfunctions on orbit](https://techcrunch.com/2023/07/21/astranis-moves-to-plan-b-after-first-commercial-internet-satellite-malfunctions-on-orbit/)
+- [Q2 fintech funding: LatAm, Caribbean more than doubles while payments takes a big hit](https://techcrunch.com/2023/07/21/q2-fintech-funding-latam-caribbean-more-than-doubles-while-payments-takes-a-big-hit/)
 - [Paradigm’s CEO dives into diversity on the Builder Stage at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/21/paradigms-ceo-dives-into-diversity-on-the-builder-stage-at-techcrunch-disrupt-2023/)
-- [Pitch Deck Teardown: CleanHub’s $7M seed deck](https://techcrunch.com/2023/07/21/sample-seed-pitch-deck-cleanhub/)
-- [China launches 4 commercial weather satellites to orbit &lpar;video&rpar;](https://www.space.com/china-launches-four-weather-satellites-july-2023)
-- [Telegram rolls out its Stories feature to Premium users](https://techcrunch.com/2023/07/21/telegram-rolls-out-stories-feature-premium-users/)
-- [Hubble telescope captures a brave star trying to outshine a huge galaxy &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-star-outshine-galaxy-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
