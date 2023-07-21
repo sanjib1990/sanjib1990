@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peak XV, Tiger Global, others urge PM Modi to review India’s online gaming tax](https://techcrunch.com/2023/07/20/high-profile-investors-ask-india-pm-modi-to-reconsider-tax-on-online-gaming/)
 - [Kasha raises $21M Series B led by Knife Capital to expand health access platform across Africa](https://techcrunch.com/2023/07/20/kasha-raises-21m-series-b-led-by-knife-capital-to-expand-health-access-platform-across-africa/)
 - [Autonomous vehicle company Aurora sells $820M worth of stock](https://techcrunch.com/2023/07/20/av-company-aurora-innovation-sells-820m-worth-of-stock/)
 - [SpaceX’s Swarm Technologies is halting new device sales](https://techcrunch.com/2023/07/20/spacexs-swarm-technologies-is-halting-new-device-sales/)
 - [Cruise starts initial robotaxi testing in Miami](https://techcrunch.com/2023/07/20/cruise-starts-initial-robotaxi-testing-in-miami/)
-- [VR is dead](https://techcrunch.com/2023/07/20/vr-is-dead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
