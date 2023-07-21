@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye VR, hello AR, and can AI be more human, plz?](https://techcrunch.com/2023/07/21/goodbye-vr-hello-ar-and-can-ai-be-more-human-plz/)
+- [SpaceX rolls Starship Super Heavy booster back to the pad ahead of next launch &lpar;photos&rpar;](https://www.space.com/starship-super-heavy-rollout-photos-july-2023)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [Climate change may be changing the color of Earth&#39;s oceans](https://www.space.com/earth-oceans-change-color-climate-change)
 - [China&#39;s Shenzhou 16 astronauts complete 1st spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-16-astronauts-first-spacewalk)
-- [Leave sex workers out of your NPC TikTok discourse](https://techcrunch.com/2023/07/21/pinkydoll-npc-tiktok-sex-work-not-fetish-content/)
-- [AMC scraps plan to charge more for better seats](https://techcrunch.com/2023/07/21/amc-scraps-plan-to-charge-more-for-better-seats/)
-- [FedNow is finally live in the US](https://techcrunch.com/2023/07/21/fednow-is-finally-live-in-the-us/)
-- [Over 100 space rocks collected by meteorite hunter Geoffrey Notkin are up for action today](https://www.space.com/meteorite-auction-geoffrey-notkin-july-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
