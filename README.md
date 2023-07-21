@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble telescope captures a brave star trying to outshine a huge galaxy &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-star-outshine-galaxy-photo)
+- [That’s capitalism, baby](https://techcrunch.com/2023/07/21/thats-capitalism-baby/)
 - [GPS satellites may be able to detect earthquakes before they happen](https://www.space.com/earthquake-prediction-gps-satellite-data)
 - [OpenAI’s head of trust and safety Dave Willner steps down](https://techcrunch.com/2023/07/21/openais-head-of-trust-and-safety-dave-willner-steps-down/)
 - [&#39;Oppenheimer&#39; featurette offers an explosive look behind &#39;the most important story of our time&#39; &lpar;video&rpar;](https://www.space.com/news/oppenheimer-featurette-offers-an-explosive-look-behind-the-most-important-story-of-our-time-video)
-- [Grab acquires Singapore’s third-largest taxi operator Trans-cab](https://techcrunch.com/2023/07/21/grab-acquires-singapores-third-largest-taxi-operator-trans-cab/)
-- [Was Oppenheimer, the father of the atomic bomb, also the father of black holes?](https://www.space.com/oppenheimer-atomic-bomb-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
