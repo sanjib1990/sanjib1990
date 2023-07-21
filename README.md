@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 Women&#39;s World Cup stadiums spied from space &lpar;satellite photos&rpar;](https://www.space.com/womens-world-cup-stadiums-planet-satellite-photos)
+- [Threads in decline? Don’t count out Instagram’s new Twitter rival yet](https://techcrunch.com/2023/07/21/threads-in-decline-dont-count-out-instagrams-new-twitter-rival-yet/)
+- [Congress probes Ford’s big battery deal with China’s CATL](https://techcrunch.com/2023/07/21/congress-probes-ford-battery-deal-china-catl/)
 - [AOC will stream on Twitch again this weekend](https://techcrunch.com/2023/07/21/aoc-will-stream-on-twitch-again-this-weekend/)
 - [Investor opportunities abound at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/21/investor-opportunities-abound-at-techcrunch-disrupt-2023/)
-- [NASA searches for climate solutions as global temperatures reach record highs](https://www.space.com/nasa-discusses-record-temperatures-climate-solutions)
-- [European insurtech is showing strength that venture data doesn’t fully detail](https://techcrunch.com/2023/07/21/european-insurtech-2023-data/)
-- [Suspending access to medication abortions will threaten telehealth access](https://techcrunch.com/2023/07/21/suspending-access-to-medication-abortions-will-threaten-telehealth-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
