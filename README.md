@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Was Oppenheimer, the father of the atomic bomb, also the father of black holes?](https://www.space.com/oppenheimer-atomic-bomb-black-holes)
+- [Asteroid sample incoming: OSIRIS-REx team preps for September landing of Bennu bits](https://www.space.com/osiris-rex-sample-return-landing-practice)
 - [Top AI companies visit the White House to make ‘voluntary’ safety commitments](https://techcrunch.com/2023/07/21/top-ai-companies-visit-the-white-house-to-make-voluntary-safety-commitments/)
 - [Peak XV, Tiger Global, others urge PM Modi to review India’s online gaming tax](https://techcrunch.com/2023/07/20/high-profile-investors-ask-india-pm-modi-to-reconsider-tax-on-online-gaming/)
 - [Kasha raises $21M Series B led by Knife Capital to expand health access platform across Africa](https://techcrunch.com/2023/07/20/kasha-raises-21m-series-b-led-by-knife-capital-to-expand-health-access-platform-across-africa/)
-- [Autonomous vehicle company Aurora sells $820M worth of stock](https://techcrunch.com/2023/07/20/av-company-aurora-innovation-sells-820m-worth-of-stock/)
-- [SpaceX’s Swarm Technologies is halting new device sales](https://techcrunch.com/2023/07/20/spacexs-swarm-technologies-is-halting-new-device-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
