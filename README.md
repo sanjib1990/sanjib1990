@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT comes to Android next week, but you can sign up today](https://techcrunch.com/2023/07/21/chatgpt-comes-to-android-next-week-but-you-can-sign-up-today/)
+- [Bolt, ex-CEO Ryan Breslow subject of SEC probe](https://techcrunch.com/2023/07/21/bolt-ex-ceo-ryan-breslow-subject-of-sec-probe/)
+- [Foreign visitors to China can finally go cashless like locals](https://techcrunch.com/2023/07/21/foreign-visitors-to-china-can-finally-go-cashless-like-locals/)
 - [2 Women&#39;s World Cup stadiums spied from space &lpar;satellite photos&rpar;](https://www.space.com/womens-world-cup-stadiums-planet-satellite-photos)
 - [Threads in decline? Don’t count out Instagram’s new Twitter rival yet](https://techcrunch.com/2023/07/21/threads-in-decline-dont-count-out-instagrams-new-twitter-rival-yet/)
-- [Congress probes Ford’s big battery deal with China’s CATL](https://techcrunch.com/2023/07/21/congress-probes-ford-battery-deal-china-catl/)
-- [AOC will stream on Twitch again this weekend](https://techcrunch.com/2023/07/21/aoc-will-stream-on-twitch-again-this-weekend/)
-- [Investor opportunities abound at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/21/investor-opportunities-abound-at-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
