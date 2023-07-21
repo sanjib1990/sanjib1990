@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s head of trust and safety Dave Willner steps down](https://techcrunch.com/2023/07/21/openais-head-of-trust-and-safety-dave-willner-steps-down/)
+- [&#39;Oppenheimer&#39; featurette offers an explosive look behind &#39;the most important story of our time&#39; &lpar;video&rpar;](https://www.space.com/news/oppenheimer-featurette-offers-an-explosive-look-behind-the-most-important-story-of-our-time-video)
 - [Grab acquires Singapore’s third-largest taxi operator Trans-cab](https://techcrunch.com/2023/07/21/grab-acquires-singapores-third-largest-taxi-operator-trans-cab/)
 - [Was Oppenheimer, the father of the atomic bomb, also the father of black holes?](https://www.space.com/oppenheimer-atomic-bomb-black-holes)
 - [Asteroid sample incoming: OSIRIS-REx team preps for September landing of Bennu bits](https://www.space.com/osiris-rex-sample-return-landing-practice)
-- [Top AI companies visit the White House to make ‘voluntary’ safety commitments](https://techcrunch.com/2023/07/21/top-ai-companies-visit-the-white-house-to-make-voluntary-safety-commitments/)
-- [Peak XV, Tiger Global, others urge PM Modi to review India’s online gaming tax](https://techcrunch.com/2023/07/20/high-profile-investors-ask-india-pm-modi-to-reconsider-tax-on-online-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
