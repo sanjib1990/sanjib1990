@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paradigm’s CEO dives into diversity on the Builder Stage at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/21/paradigms-ceo-dives-into-diversity-on-the-builder-stage-at-techcrunch-disrupt-2023/)
+- [Pitch Deck Teardown: CleanHub’s $7M seed deck](https://techcrunch.com/2023/07/21/sample-seed-pitch-deck-cleanhub/)
+- [China launches 4 commercial weather satellites to orbit &lpar;video&rpar;](https://www.space.com/china-launches-four-weather-satellites-july-2023)
+- [Telegram rolls out its Stories feature to Premium users](https://techcrunch.com/2023/07/21/telegram-rolls-out-stories-feature-premium-users/)
 - [Hubble telescope captures a brave star trying to outshine a huge galaxy &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-star-outshine-galaxy-photo)
-- [That’s capitalism, baby](https://techcrunch.com/2023/07/21/thats-capitalism-baby/)
-- [GPS satellites may be able to detect earthquakes before they happen](https://www.space.com/earthquake-prediction-gps-satellite-data)
-- [OpenAI’s head of trust and safety Dave Willner steps down](https://techcrunch.com/2023/07/21/openais-head-of-trust-and-safety-dave-willner-steps-down/)
-- [&#39;Oppenheimer&#39; featurette offers an explosive look behind &#39;the most important story of our time&#39; &lpar;video&rpar;](https://www.space.com/news/oppenheimer-featurette-offers-an-explosive-look-behind-the-most-important-story-of-our-time-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
