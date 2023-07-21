@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Red Hat saved IBM’s bacon this quarter](https://techcrunch.com/2023/07/21/red-hat-ibm-earnings/)
-- [The makers of Camera+ releases Photon, a new image capture app for pros](https://techcrunch.com/2023/07/21/the-makers-of-camera-releases-photon-a-new-image-capture-app-for-pros/)
-- [Astranis moves to Plan B after first commercial internet satellite malfunctions on orbit](https://techcrunch.com/2023/07/21/astranis-moves-to-plan-b-after-first-commercial-internet-satellite-malfunctions-on-orbit/)
-- [Q2 fintech funding: LatAm, Caribbean more than doubles while payments takes a big hit](https://techcrunch.com/2023/07/21/q2-fintech-funding-latam-caribbean-more-than-doubles-while-payments-takes-a-big-hit/)
-- [Paradigm’s CEO dives into diversity on the Builder Stage at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/21/paradigms-ceo-dives-into-diversity-on-the-builder-stage-at-techcrunch-disrupt-2023/)
+- [How California museum is protecting space shuttle Endeavour against earthquakes](https://www.space.com/space-shuttle-endeavour-exhibit-earthquakes)
+- [Tesla’s margins remind us that it’s an automaker, not a tech company](https://techcrunch.com/2023/07/21/tesla-earnings-stock-price-down/)
+- [Artemis 2 moon astronauts visit splashdown zone for their Orion spacecraft &lpar;photo&rpar;](https://www.space.com/artemis-2-moon-astronauts-orion-splashdown-zone-visit)
+- [Amazon is building a $120M facility in Florida for Project Kuiper satellite processing](https://techcrunch.com/2023/07/21/amazon-is-building-a-120m-facility-in-florida-for-project-kuiper-satellite-processing/)
+- [&#39;Go for Stack&#39;: 1st parts of space shuttle Endeavour vertical display lifted into place at California Science Center](https://www.space.com/space-shuttle-endeavour-aft-skirts-go-for-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
