@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gorgeous photos show SpaceX&#39;s next Starship Super Heavy booster on the launch pad](https://www.space.com/spacex-starship-booster-9-launch-pad-photos)
+- [Watch SpaceX launch 22 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-6)
 - [ChatGPT comes to Android next week, but you can sign up today](https://techcrunch.com/2023/07/21/chatgpt-comes-to-android-next-week-but-you-can-sign-up-today/)
 - [Bolt, ex-CEO Ryan Breslow subject of SEC probe](https://techcrunch.com/2023/07/21/bolt-ex-ceo-ryan-breslow-subject-of-sec-probe/)
 - [Foreign visitors to China can finally go cashless like locals](https://techcrunch.com/2023/07/21/foreign-visitors-to-china-can-finally-go-cashless-like-locals/)
-- [2 Women&#39;s World Cup stadiums spied from space &lpar;satellite photos&rpar;](https://www.space.com/womens-world-cup-stadiums-planet-satellite-photos)
-- [Threads in decline? Don’t count out Instagram’s new Twitter rival yet](https://techcrunch.com/2023/07/21/threads-in-decline-dont-count-out-instagrams-new-twitter-rival-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
