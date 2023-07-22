@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s Chandrayaan-3 moon rover mission aces orbit-raising maneuvers around Earth](https://www.space.com/chandrayaan-3-moon-rover-orbit-raising-maneuvers)
 - [The Milky Way sparkles like fireworks in this desert view of our galaxy &lpar;photo&rpar;](https://www.space.com/milky-way-galaxy-panorama-desert-photo)
 - [Tech warriors in the battle for Israel’s democracy](https://techcrunch.com/2023/07/22/tech-warriors-in-the-battle-for-israels-democracy/)
 - [Gorgeous photos show SpaceX&#39;s next Starship Super Heavy booster on the launch pad](https://www.space.com/spacex-starship-booster-9-launch-pad-photos)
 - [Watch SpaceX launch 22 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-6)
-- [ChatGPT comes to Android next week, but you can sign up today](https://techcrunch.com/2023/07/21/chatgpt-comes-to-android-next-week-but-you-can-sign-up-today/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
