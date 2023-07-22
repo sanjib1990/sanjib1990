@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in AI: Companies voluntarily submit to AI guidelines — for now](https://techcrunch.com/2023/07/22/this-week-in-ai-companies-voluntarily-submit-to-ai-guidelines-for-now/)
+- [Watch astronauts play new &#39;Space Dart&#39; game on the ISS &lpar;video&rpar;](https://www.space.com/international-space-station-astronauts-dart-game-video)
 - [India&#39;s Chandrayaan-3 moon rover mission aces orbit-raising maneuvers around Earth](https://www.space.com/chandrayaan-3-moon-rover-orbit-raising-maneuvers)
 - [The Milky Way sparkles like fireworks in this desert view of our galaxy &lpar;photo&rpar;](https://www.space.com/milky-way-galaxy-panorama-desert-photo)
 - [Tech warriors in the battle for Israel’s democracy](https://techcrunch.com/2023/07/22/tech-warriors-in-the-battle-for-israels-democracy/)
-- [Gorgeous photos show SpaceX&#39;s next Starship Super Heavy booster on the launch pad](https://www.space.com/spacex-starship-booster-9-launch-pad-photos)
-- [Watch SpaceX launch 22 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
