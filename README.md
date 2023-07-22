@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An AI-generated ‘South Park’ episode, Microsoft’s security woes, and Tesla’s first Cybertruck build](https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/)
 - [Reining in API sprawl](https://techcrunch.com/2023/07/22/api-sprawl-postman-report/)
 - [Deal Dive: Futureverse is a metaverse company that might actually get it](https://techcrunch.com/2023/07/22/futureverse-metaverse-fundraise/)
 - [This week in robotics: Chinese startups net a series of fundraising successes](https://techcrunch.com/2023/07/22/this-week-in-robotics-chinese-startups-net-a-series-of-fundraising-successes/)
 - [This week in AI: Companies voluntarily submit to AI guidelines — for now](https://techcrunch.com/2023/07/22/this-week-in-ai-companies-voluntarily-submit-to-ai-guidelines-for-now/)
-- [Watch astronauts play new &#39;Space Dart&#39; game on the ISS &lpar;video&rpar;](https://www.space.com/international-space-station-astronauts-dart-game-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
