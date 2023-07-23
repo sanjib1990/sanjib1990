@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla stock falls as margins slip, VanMoof files for bankruptcy, and Aurora sells $820M worth of stock](https://techcrunch.com/2023/07/23/tesla-stock-falls-as-margins-slip-vanmoof-files-for-bankruptcy-and-aurora-sells-820m-worth-of-stock/)
+- [Can Europe’s cannabis market avoid the US’ mistakes? Investors chime in](https://techcrunch.com/2023/07/23/europe-cannabis-market-2023/)
+- [Elon Musk says an ‘X’ will soon mark the spot where Twitter used to be](https://techcrunch.com/2023/07/23/elon-musk-says-an-x-will-soon-mark-the-spot-where-twitter-used-to-be/)
 - [Gear Patrol’s acquisition of DPReview shows that it can pay to be boring](https://techcrunch.com/2023/07/23/slow-is-smooth-and-smooth-is-fast/)
 - [FedNow may finally be live, but will it be too costly for businesses to adopt?](https://techcrunch.com/2023/07/23/fednow-may-finally-be-live-but-will-it-be-too-costly-for-businesses-to-adopt/)
-- [China is sending zebrafish to the Tiangong space station](https://www.space.com/china-tiangong-space-station-zebrafish)
-- [James Webb Space Telescope stars in breathtaking new IMAX documentary](https://www.space.com/james-webb-space-telescope-imax-documentary)
-- [Massive galaxy with no dark matter is a cosmic puzzle](https://www.space.com/galaxy-no-dark-matter-cosmic-puzzle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
