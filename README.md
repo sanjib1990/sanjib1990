@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope stars in breathtaking new IMAX documentary](https://www.space.com/james-webb-space-telescope-imax-documentary)
 - [Massive galaxy with no dark matter is a cosmic puzzle](https://www.space.com/galaxy-no-dark-matter-cosmic-puzzle)
 - [10 breathtaking locations to see October 2023&#39;s &#39;ring of fire&#39; annular solar eclipse](https://www.space.com/october-2023-annular-solar-eclipse-10-breaktaking-locations-to-watch-from)
 - [An AI-generated ‘South Park’ episode, Microsoft’s security woes, and Tesla’s first Cybertruck build](https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/)
 - [Reining in API sprawl](https://techcrunch.com/2023/07/22/api-sprawl-postman-report/)
-- [Deal Dive: Futureverse is a metaverse company that might actually get it](https://techcrunch.com/2023/07/22/futureverse-metaverse-fundraise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
