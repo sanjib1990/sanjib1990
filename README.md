@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gear Patrol’s acquisition of DPReview shows that it can pay to be boring](https://techcrunch.com/2023/07/23/slow-is-smooth-and-smooth-is-fast/)
 - [FedNow may finally be live, but will it be too costly for businesses to adopt?](https://techcrunch.com/2023/07/23/fednow-may-finally-be-live-but-will-it-be-too-costly-for-businesses-to-adopt/)
 - [China is sending zebrafish to the Tiangong space station](https://www.space.com/china-tiangong-space-station-zebrafish)
 - [James Webb Space Telescope stars in breathtaking new IMAX documentary](https://www.space.com/james-webb-space-telescope-imax-documentary)
 - [Massive galaxy with no dark matter is a cosmic puzzle](https://www.space.com/galaxy-no-dark-matter-cosmic-puzzle)
-- [10 breathtaking locations to see October 2023&#39;s &#39;ring of fire&#39; annular solar eclipse](https://www.space.com/october-2023-annular-solar-eclipse-10-breaktaking-locations-to-watch-from)
 <!-- BLOG-POST-LIST:END -->
 
 ---
