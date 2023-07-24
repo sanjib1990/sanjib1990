@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The US government is holding a historic UFO hearing this week. Here&#39;s how to watch](https://www.space.com/ufos-congress-hearing-livestream-july-2023)
-- [What to do about your traction slide when you don’t have revenue yet](https://techcrunch.com/2023/07/24/traction-slide/)
-- [A satellite will fall to Earth this week in a 1st-of-its-kind reentry. Here&#39;s what you need to know](https://www.space.com/aeolus-satellite-will-return-to-earth-this-week)
-- [James Webb Space Telescope spies water near center of planet-forming disk in cosmic 1st](https://www.space.com/james-webb-space-telescope-water-center-protoplanetary-disk)
-- [Twitter &lpar;now X&rpar; CEO Linda Yaccarino claims usage at ‘all time high’ in memo to staff](https://techcrunch.com/2023/07/24/twitter-now-x-ceo-ceo-linda-yaccarino-claims-usage-at-all-time-high-in-memo-to-staff/)
+- [OneTrust hauls in another $150M on a $4.5B down round valuation](https://techcrunch.com/2023/07/24/onetrust-hauls-in-another-150m-on-a-4-5b-down-round-valuation/)
+- [Call for volunteers: work your way to TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/24/call-for-volunteers-work-your-way-to-techcrunch-disrupt-2023/)
+- [Review: &#39;Oppenheimer&#39; ushers in atomic age in bleak but absorbing biopic](https://www.space.com/oppenheimer-nolan-film-atomic-bomb-review)
+- [&#39;Star Trek: Strange New Worlds&#39; Season 2, episode 6 revisits how alien life can get lost in translation](https://www.space.com/star-trek-strange-new-worlds-season-2-episode-6-review)
+- [Blow for Flutterwave as Kenyan court declines request to withdraw case](https://techcrunch.com/2023/07/24/blow-for-flutterwave-as-kenyan-court-declines-request-to-withdraw-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
