@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Twitter rebrands to X in latest 5D chess move](https://www.youtube.com/watch?v=AE3iXR1JFak)
 - [Subnetting…..but in reverse](https://www.youtube.com/watch?v=6zopTcQFhqM)
 - [Is AI really getting dumber? Llama2 vs GPT-4](https://www.youtube.com/watch?v=DXWwCggFROk)
 - [SvelteKit in 100 seconds](https://www.youtube.com/watch?v=H1eEFfAkIik)
 - [you need this FREE CyberSecurity tool](https://www.youtube.com/watch?v=3CaG2GI1kn0)
-- [The future of &quot;truth&quot; on the Internet](https://www.youtube.com/watch?v=-Bdb2KOb_zI)
 <!-- YOUTUBE:END -->
 
 ---
