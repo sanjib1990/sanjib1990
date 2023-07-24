@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to do about your traction slide when you don’t have revenue yet](https://techcrunch.com/2023/07/24/traction-slide/)
+- [A satellite will fall to Earth this week in a 1st-of-its-kind reentry. Here&#39;s what you need to know](https://www.space.com/aeolus-satellite-will-return-to-earth-this-week)
+- [James Webb Space Telescope spies water near center of planet-forming disk in cosmic 1st](https://www.space.com/james-webb-space-telescope-water-center-protoplanetary-disk)
+- [Twitter &lpar;now X&rpar; CEO CEO Linda Yaccarino claims usage at ‘all time high’ in memo to staff](https://techcrunch.com/2023/07/24/twitter-now-x-ceo-ceo-linda-yaccarino-claims-usage-at-all-time-high-in-memo-to-staff/)
 - [Netflix rolls out ‘My Netflix,’ a new tab for trailers, reminders and more](https://techcrunch.com/2023/07/24/netflix-rolls-out-new-shortcut-feature/)
-- [400 Earth-size rogue planets could be wandering the Milky Way](https://www.space.com/400-earth-size-rogue-planets-could-be-wandering-the-milky-way)
-- [Instagram is launching creator subscriptions in Australia, Canada, the UK and more](https://techcrunch.com/2023/07/24/instagram-launching-creator-subscriptions-australia-canada-uk-and-more/)
-- [Spyhide stalkerware is spying on tens of thousands of phones](https://techcrunch.com/2023/07/24/spyhide-stalkerware-android/)
-- [SoftBank and Symbotic team to offer automated warehouses as a service](https://techcrunch.com/2023/07/24/softbank-and-symbotic-team-to-offer-automated-warehouses-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
