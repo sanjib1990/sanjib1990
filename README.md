@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
+- [Crypto wallet ZenGo launches pro subscription with additional security features](https://techcrunch.com/2023/07/24/crypto-wallet-zengo-launches-pro-subscription-with-additional-security-features/)
 - [Sam Altman’s Worldcoin eyeball-scanning crypto project launches](https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/)
 - [Tesla stock falls as margins slip, VanMoof files for bankruptcy, and Aurora sells $820M worth of stock](https://techcrunch.com/2023/07/23/tesla-stock-falls-as-margins-slip-vanmoof-files-for-bankruptcy-and-aurora-sells-820m-worth-of-stock/)
 - [Can Europe’s cannabis market avoid the US’ mistakes? Investors chime in](https://techcrunch.com/2023/07/23/europe-cannabis-market-2023/)
-- [Elon Musk says an ‘X’ will soon mark the spot where Twitter used to be](https://techcrunch.com/2023/07/23/elon-musk-says-an-x-will-soon-mark-the-spot-where-twitter-used-to-be/)
-- [Gear Patrol’s acquisition of DPReview shows that it can pay to be boring](https://techcrunch.com/2023/07/23/slow-is-smooth-and-smooth-is-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
