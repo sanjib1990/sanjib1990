@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman’s Worldcoin eyeball-scanning crypto project launches](https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/)
 - [Tesla stock falls as margins slip, VanMoof files for bankruptcy, and Aurora sells $820M worth of stock](https://techcrunch.com/2023/07/23/tesla-stock-falls-as-margins-slip-vanmoof-files-for-bankruptcy-and-aurora-sells-820m-worth-of-stock/)
 - [Can Europe’s cannabis market avoid the US’ mistakes? Investors chime in](https://techcrunch.com/2023/07/23/europe-cannabis-market-2023/)
 - [Elon Musk says an ‘X’ will soon mark the spot where Twitter used to be](https://techcrunch.com/2023/07/23/elon-musk-says-an-x-will-soon-mark-the-spot-where-twitter-used-to-be/)
 - [Gear Patrol’s acquisition of DPReview shows that it can pay to be boring](https://techcrunch.com/2023/07/23/slow-is-smooth-and-smooth-is-fast/)
-- [FedNow may finally be live, but will it be too costly for businesses to adopt?](https://techcrunch.com/2023/07/23/fednow-may-finally-be-live-but-will-it-be-too-costly-for-businesses-to-adopt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
