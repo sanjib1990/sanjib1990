@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pioneering NASA &#39;Hidden Figure&#39; Evelyn Boyd Granville dies at age 99](https://www.space.com/nasa-hidden-figure-evelyn-boyd-granville-mathematician-obituary)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Spotify confirms price hike as premium plan rises to $10.99/month in the US](https://techcrunch.com/2023/07/24/spotify-confirms-price-hike-as-premium-plan-rises-to-10-99-month-in-the-us/)
 - [Public transit is driving EV sector growth in Kenya](https://techcrunch.com/2023/07/24/public-transit-is-driving-ev-sector-growth-in-kenya/)
 - [5 key questions climate tech founders should ask impact investors](https://techcrunch.com/2023/07/24/5-key-questions-climate-tech-founders-should-ask-impact-investors/)
-- [The US Congress is holding UFO hearings this week. What might we learn?](https://www.space.com/ufo-uap-full-disclosure-congressional-hearings)
-- [Boomerang meteorite may be the 1st space rock to leave Earth and return](https://www.space.com/boomerang-meteorite-left-earth-and-returned)
-- [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
