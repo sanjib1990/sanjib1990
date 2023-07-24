@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Umbra is a Silicon Valley outsider — they prefer it that way](https://techcrunch.com/2023/07/24/max-q-umbra-is-a-silicon-valley-outsider-they-prefer-it-that-way/)
 - [A cosmic chameleon reveals its true colors in stunning infrared image &lpar;photo&rpar;](https://www.space.com/eso-vista-telescope-cosmic-chameleon-photo)
 - [Microsoft’s Bing Chat comes to Chrome and Safari in tests for ‘select users’](https://techcrunch.com/2023/07/24/microsofts-bing-chat-comes-to-chrome-and-safari-in-tests-for-select-users/)
 - [OneTrust hauls in another $150M on a $4.5B down round valuation](https://techcrunch.com/2023/07/24/onetrust-hauls-in-another-150m-on-a-4-5b-down-round-valuation/)
-- [Call for volunteers: work your way to TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/24/call-for-volunteers-work-your-way-to-techcrunch-disrupt-2023/)
-- [Review: &#39;Oppenheimer&#39; ushers in atomic age in bleak but absorbing biopic](https://www.space.com/oppenheimer-nolan-film-atomic-bomb-review)
+- [Call for volunteers: Work your way to TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/24/call-for-volunteers-work-your-way-to-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
