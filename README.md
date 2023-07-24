@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How does light slow down?](https://www.space.com/how-does-light-slow-down)
-- [TikTok is adding support for text posts](https://techcrunch.com/2023/07/24/tiktok-is-adding-support-for-text-posts/)
-- [Voltpost raises $3.6M seed round to bring EV charging to the curbside](https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/)
-- [Announcing the second group of judges for Startup Battlefield at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/24/announcing-the-second-group-of-judges-for-startup-battlefield-at-techcrunch-disrupt-2023/)
-- [Unusual galaxy cluster is an island of tranquility in the chaotic early universe](https://www.space.com/unusual-galaxy-cluster-chaotic-early-universe)
+- [As Twitter destroys its brand by renaming itself X, Mastodon usage numbers are again soaring](https://techcrunch.com/2023/07/24/as-twitter-destroys-its-brand-by-renaming-itself-x-mastodon-usage-numbers-are-again-soaring/)
+- [Impulse Space is flying high with new funding led by RTX Ventures](https://techcrunch.com/2023/07/24/impulse-space-is-flying-high-with-new-funding-led-by-rtx-ventures/)
+- [Please re-xeet this podcast episode](https://techcrunch.com/2023/07/24/please-re-xeet-this-podcast-episode/)
+- [Bunq, the Dutch neobank, has raised $111M at a flat $1.8B valuation to break into the US](https://techcrunch.com/2023/07/24/bunq-the-dutch-neobank-has-raised-111m-at-a-flat-1-8b-valuation-to-break-into-the-us/)
+- [Hackers exploit Citrix zero-day to target US critical infrastructure](https://techcrunch.com/2023/07/24/citrix-zero-day-critical-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
