@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix rolls out ‘My Netflix,’ a new tab for trailers, reminders and more](https://techcrunch.com/2023/07/24/netflix-rolls-out-new-shortcut-feature/)
+- [400 Earth-size rogue planets could be wandering the Milky Way](https://www.space.com/400-earth-size-rogue-planets-could-be-wandering-the-milky-way)
+- [Instagram is launching creator subscriptions in Australia, Canada, the UK and more](https://techcrunch.com/2023/07/24/instagram-launching-creator-subscriptions-australia-canada-uk-and-more/)
+- [Spyhide stalkerware is spying on tens of thousands of phones](https://techcrunch.com/2023/07/24/spyhide-stalkerware-android/)
 - [SoftBank and Symbotic team to offer automated warehouses as a service](https://techcrunch.com/2023/07/24/softbank-and-symbotic-team-to-offer-automated-warehouses-as-a-service/)
-- [Sony WF-1000XM5 earbuds review](https://techcrunch.com/2023/07/24/sony-wf-1000xm5-earbuds-review/)
-- [Time for tech’s report card](https://techcrunch.com/2023/07/24/time-for-techs-report-card/)
-- [North Korean hackers targeting JumpCloud mistakenly exposed their IP addresses, researchers say](https://techcrunch.com/2023/07/24/north-korea-jumpcloud-opsec-mandiant/)
-- [Elon Musk and Mark Zuckerberg should cage fight over whose rebrand is worse](https://techcrunch.com/2023/07/24/elon-musk-and-mark-zuckerberg-should-cage-fight-over-whose-rebrand-is-worse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
