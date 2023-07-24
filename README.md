@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The US government is holding a historic UFO hearing this week. Here&#39;s how to watch](https://www.space.com/ufos-congress-hearing-livestream-july-2023)
 - [What to do about your traction slide when you don’t have revenue yet](https://techcrunch.com/2023/07/24/traction-slide/)
 - [A satellite will fall to Earth this week in a 1st-of-its-kind reentry. Here&#39;s what you need to know](https://www.space.com/aeolus-satellite-will-return-to-earth-this-week)
 - [James Webb Space Telescope spies water near center of planet-forming disk in cosmic 1st](https://www.space.com/james-webb-space-telescope-water-center-protoplanetary-disk)
-- [Twitter &lpar;now X&rpar; CEO CEO Linda Yaccarino claims usage at ‘all time high’ in memo to staff](https://techcrunch.com/2023/07/24/twitter-now-x-ceo-ceo-linda-yaccarino-claims-usage-at-all-time-high-in-memo-to-staff/)
-- [Netflix rolls out ‘My Netflix,’ a new tab for trailers, reminders and more](https://techcrunch.com/2023/07/24/netflix-rolls-out-new-shortcut-feature/)
+- [Twitter &lpar;now X&rpar; CEO Linda Yaccarino claims usage at ‘all time high’ in memo to staff](https://techcrunch.com/2023/07/24/twitter-now-x-ceo-ceo-linda-yaccarino-claims-usage-at-all-time-high-in-memo-to-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
