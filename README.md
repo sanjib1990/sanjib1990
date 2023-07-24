@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As Twitter destroys its brand by renaming itself X, Mastodon usage numbers are again soaring](https://techcrunch.com/2023/07/24/as-twitter-destroys-its-brand-by-renaming-itself-x-mastodon-usage-numbers-are-again-soaring/)
-- [Impulse Space is flying high with new funding led by RTX Ventures](https://techcrunch.com/2023/07/24/impulse-space-is-flying-high-with-new-funding-led-by-rtx-ventures/)
-- [Please re-xeet this podcast episode](https://techcrunch.com/2023/07/24/please-re-xeet-this-podcast-episode/)
-- [Bunq, the Dutch neobank, has raised $111M at a flat $1.8B valuation to break into the US](https://techcrunch.com/2023/07/24/bunq-the-dutch-neobank-has-raised-111m-at-a-flat-1-8b-valuation-to-break-into-the-us/)
-- [Hackers exploit Citrix zero-day to target US critical infrastructure](https://techcrunch.com/2023/07/24/citrix-zero-day-critical-infrastructure/)
+- [SoftBank and Symbotic team to offer automated warehouses as a service](https://techcrunch.com/2023/07/24/softbank-and-symbotic-team-to-offer-automated-warehouses-as-a-service/)
+- [Sony WF-1000XM5 earbuds review](https://techcrunch.com/2023/07/24/sony-wf-1000xm5-earbuds-review/)
+- [Time for tech’s report card](https://techcrunch.com/2023/07/24/time-for-techs-report-card/)
+- [North Korean hackers targeting JumpCloud mistakenly exposed their IP addresses, researchers say](https://techcrunch.com/2023/07/24/north-korea-jumpcloud-opsec-mandiant/)
+- [Elon Musk and Mark Zuckerberg should cage fight over whose rebrand is worse](https://techcrunch.com/2023/07/24/elon-musk-and-mark-zuckerberg-should-cage-fight-over-whose-rebrand-is-worse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
