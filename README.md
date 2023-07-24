@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 key questions climate tech founders should ask impact investors](https://techcrunch.com/2023/07/24/5-key-questions-climate-tech-founders-should-ask-impact-investors/)
+- [The US Congress is holding UFO hearings this week. What might we learn?](https://www.space.com/ufo-uap-full-disclosure-congressional-hearings)
+- [Boomerang meteorite may be the 1st space rock to leave Earth and return](https://www.space.com/boomerang-meteorite-left-earth-and-returned)
 - [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
-- [Crypto wallet ZenGo launches pro subscription with additional security features](https://techcrunch.com/2023/07/24/crypto-wallet-zengo-launches-pro-subscription-with-additional-security-features/)
-- [Sam Altman’s Worldcoin eyeball-scanning crypto project launches](https://techcrunch.com/2023/07/24/worldcoin-launch-sam-altman/)
-- [Tesla stock falls as margins slip, VanMoof files for bankruptcy, and Aurora sells $820M worth of stock](https://techcrunch.com/2023/07/23/tesla-stock-falls-as-margins-slip-vanmoof-files-for-bankruptcy-and-aurora-sells-820m-worth-of-stock/)
-- [Can Europe’s cannabis market avoid the US’ mistakes? Investors chime in](https://techcrunch.com/2023/07/23/europe-cannabis-market-2023/)
+- [Crypto wallet Zengo launches pro subscription with additional security features](https://techcrunch.com/2023/07/24/crypto-wallet-zengo-launches-pro-subscription-with-additional-security-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
