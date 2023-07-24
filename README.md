@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How does light slow down?](https://www.space.com/how-does-light-slow-down)
+- [TikTok is adding support for text posts](https://techcrunch.com/2023/07/24/tiktok-is-adding-support-for-text-posts/)
 - [Voltpost raises $3.6M seed round to bring EV charging to the curbside](https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/)
 - [Announcing the second group of judges for Startup Battlefield at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/24/announcing-the-second-group-of-judges-for-startup-battlefield-at-techcrunch-disrupt-2023/)
 - [Unusual galaxy cluster is an island of tranquility in the chaotic early universe](https://www.space.com/unusual-galaxy-cluster-chaotic-early-universe)
-- [Supply Change Capital is latest women-led VC to raise substantial debut fund](https://techcrunch.com/2023/07/24/supply-change-capital-vc-fund-foodtech/)
-- [Pioneering NASA &#39;Hidden Figure&#39; Evelyn Boyd Granville dies at age 99](https://www.space.com/nasa-hidden-figure-evelyn-boyd-granville-mathematician-obituary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
