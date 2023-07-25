@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ample to bring EV battery swapping to Mitsubishi trucks in Japan](https://techcrunch.com/2023/07/25/ample-to-bring-ev-battery-swapping-to-mitsubishi-trucks-in-japan/)
-- [How Artemis 2 astronauts are training for their 2024 moon mission](https://www.space.com/nasa-artemis-2-moon-mission-astronaut-training)
-- [GM isn’t going to kill off the Chevy Bolt EV after all](https://techcrunch.com/2023/07/25/gm-isnt-going-to-kill-off-the-chevy-bolt-ev-after-all/)
-- [ChatGPT for Android is now available in the US, India, Bangladesh and Brazil](https://techcrunch.com/2023/07/25/chatgpt-for-android-is-now-available-in-the-us-india-bangladesh-and-brazil/)
-- [Meta’s Threads app is rolling out a Following feed](https://techcrunch.com/2023/07/25/metas-threads-app-is-rolling-out-a-following-feed/)
+- [Apple’s app tracking triggers statement of objections from French competition authority](https://techcrunch.com/2023/07/25/apple-att-antitrust-france/)
+- [Growth driven by AI will be the metric to watch this earnings cycle](https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/)
+- [Flight tracker Flighty adds a private social network for tracking loved ones’ travels](https://techcrunch.com/2023/07/25/flight-tracker-flighty-adds-a-private-social-network-for-tracking-loved-ones-travels/)
+- [SpaceX Falcon Heavy to launch world&#39;s largest private communications satellite on July 26](https://www.space.com/spacex-falcon-heavy-maxar-jupiter-3-largest-ever-private-communications-satellite)
+- [Whither Israel? Israeli tech players comment on the impact of the country’s convulsions](https://techcrunch.com/2023/07/25/whither-israel-israeli-tech-players-comment-on-the-impact-of-the-countrys-convulsions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
