@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify reports strong user growth as it is raising subscription price](https://techcrunch.com/2023/07/25/spotify-reports-strong-user-growth-as-it-is-about-to-raise-subscription-price/)
+- [Queen guitarist Brian May to release a book of 3D images of asteroid Bennu](https://www.space.com/brian-may-3d-book-asteroid-bennu-osiris-rex-photos)
+- [Archaeology on the moon: How to preserve spaceflight artifacts from Apollo era](https://www.space.com/moon-spacecraft-prevent-destroy-apollo-artifacts)
 - [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [African governments are collaborating with innovators to strengthen local health supply chains](https://techcrunch.com/2023/07/25/african-governments-are-collaborating-with-innovators-to-strengthen-local-health-supply-chains/)
-- [Prosus slams Byju’s after quitting board, says India’s top startup ‘regularly disregarded advice’](https://techcrunch.com/2023/07/24/prosus-questions-byjus-governance-says-indian-edtech-regularly-disregarded-advice/)
-- [Instagram is down for multiple users &lpar;Update: It’s back&rpar;](https://techcrunch.com/2023/07/24/instagram-is-down-for-multiple-users/)
-- [Apple targeted in App Store antitrust damages suit that’s seeking $1BN+ for UK developers](https://techcrunch.com/2023/07/24/apple-targeted-in-app-store-antitrust-damages-suit-thats-seeking-1bn-for-uk-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
