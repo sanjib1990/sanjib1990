@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites watch as wildfires rage across Greece &lpar;photos&rpar;](https://www.space.com/satellites-greece-wildfires-space-photos)
+- [Zombie game maker Techland joins Tencent’s global empire in latest acquisition](https://techcrunch.com/2023/07/25/zombie-game-maker-techland-joins-tencents-global-empire-in-latest-acquisition/)
+- [SpaceX Falcon Heavy shows off its 27 engines ahead of July 26 launch &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-maxar-jupiter-3-photo)
+- [Blue Origin, Astrobotic, Varda Space and others win NASA funding to develop advanced space tech](https://techcrunch.com/2023/07/25/blue-origin-astrobotic-varda-space-and-others-win-nasa-funding-to-develop-advanced-space-tech/)
 - [A supermassive black hole is spitting a high-energy jet toward Earth](https://www.space.com/supermassive-black-hole-jet-nasa-ixpe-x-ray)
-- [How to prevent an ‘operational catastrophe’](https://techcrunch.com/2023/07/25/five-steps-for-developing-a-fast-scaling-startup/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [SpaceX&#39;s Crew-7 astronaut launch delayed to Aug. 17](https://www.space.com/spacex-crew-7-astronaut-launch-delay-august-17)
-- [OpenAI scuttles AI-written text detector over ‘low rate of accuracy’](https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
