@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exclusive: Goodwater Capital snags $1B across two new funds, despite cooling interest in consumer tech](https://techcrunch.com/2023/07/25/exclusive-goodwater-capital-snags-1b-across-two-new-funds-despite-broader-cooling-interest-in-consumer-tech/)
+- [Main Sequence hits first close of $450M AUD for its third deep tech fund](https://techcrunch.com/2023/07/25/main-sequence-hits-first-close-of-450m-aud-for-its-third-deep-tech-fund/)
 - [Snap’s revenue woes continue but earnings yield a few bright spots](https://techcrunch.com/2023/07/25/snap-snapchat-q2-2023-earnings/)
 - [SpaceX Dragon spacecraft had a thruster glitch at the International Space Station in June](https://www.space.com/spacex-dragon-international-space-station-glitch)
 - [Amazon will now warn consumers of recalls and product safety alerts related to their orders](https://techcrunch.com/2023/07/25/amazon-will-now-warn-consumers-of-recalls-and-product-safety-alerts-related-to-their-orders/)
-- [Spotify CEO teases potential AI-powered capabilities surrounding personalization, ads](https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/)
-- [SpaceX fuels up Starship Super Heavy boosters in prelaunch tests &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-fueling-tests-july-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
