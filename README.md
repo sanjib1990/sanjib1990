@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram is down for multiple users](https://techcrunch.com/2023/07/24/instagram-is-down-for-multiple-users/)
+- [Instagram is down for multiple users &lpar;Update: It’s back&rpar;](https://techcrunch.com/2023/07/24/instagram-is-down-for-multiple-users/)
 - [Apple targeted in App Store antitrust damages suit that’s seeking $1BN+ for UK developers](https://techcrunch.com/2023/07/24/apple-targeted-in-app-store-antitrust-damages-suit-thats-seeking-1bn-for-uk-developers/)
 - [Here’s why Elon Musk’s rebranding of Twitter to ‘X’ is good, actually](https://techcrunch.com/2023/07/24/heres-why-elon-musks-rebranding-of-twitter-to-x-is-good-actually/)
 - [SpaceX targeting July 26 for next Falcon Heavy launch &lpar;video&rpar;](https://www.space.com/spacex-falcon-heavy-launch-date-july-2023)
