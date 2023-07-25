@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Grubhub+ gets new deals like 5% back on pickup orders, among others](https://techcrunch.com/2023/07/25/grubhub-gets-new-deals-like-5-back-on-pickup-orders-among-others/)
-- [Stunning image reveals 1st detection of gas giants being born around a young star &lpar;photo&rpar;](https://www.space.com/planet-forming-young-star-gas-giants)
-- [Stay Ai’s tech helps Shopify brands get customers to make that second purchase](https://techcrunch.com/2023/07/25/stay-ai-shopify-brands-customer-retention/)
-- [Ivanti rushes to patch zero-day used to breach Norway’s government](https://techcrunch.com/2023/07/25/ivanti-epmm-zero-day-norway-government-breach/)
-- [Brevel sprouts $18.5M to develop microalgae-based alternative proteins](https://techcrunch.com/2023/07/25/brevel-18-5m-microalgae-alternative-proteins-foodtech/)
+- [Glowforge launches the Aura, a more accessible laser cutter](https://techcrunch.com/2023/07/25/glowforge-aura/)
+- [Venus volcanoes may be powered by long-ago violent impacts](https://www.space.com/venus-volcanoes-violent-asteroid-comet-impacts)
+- [Avalanche Foundation to invest $50M in asset tokenization on its blockchain](https://techcrunch.com/2023/07/25/avalanche-foundation-to-invest-50m-in-asset-tokenization-on-its-blockchain/)
+- [Nexla has defied startup conventional wisdom with slow and steady growth](https://techcrunch.com/2023/07/25/nexla-has-defied-startup-conventional-wisdom-with-slow-and-steady-growth/)
+- [Arc browser is now available to download for everyone](https://techcrunch.com/2023/07/25/arc-browser-is-now-available-to-download-for-everyone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
