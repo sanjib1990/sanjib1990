@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Glowforge launches the Aura, a more accessible laser cutter](https://techcrunch.com/2023/07/25/glowforge-aura/)
-- [Venus volcanoes may be powered by long-ago violent impacts](https://www.space.com/venus-volcanoes-violent-asteroid-comet-impacts)
-- [Avalanche Foundation to invest $50M in asset tokenization on its blockchain](https://techcrunch.com/2023/07/25/avalanche-foundation-to-invest-50m-in-asset-tokenization-on-its-blockchain/)
-- [Nexla has defied startup conventional wisdom with slow and steady growth](https://techcrunch.com/2023/07/25/nexla-has-defied-startup-conventional-wisdom-with-slow-and-steady-growth/)
-- [Arc browser is now available to download for everyone](https://techcrunch.com/2023/07/25/arc-browser-is-now-available-to-download-for-everyone/)
+- [Jeeves hits over $40M in annualized revenue as it expands beyond corporate credit cards](https://techcrunch.com/2023/07/25/jeeves-hits-over-40m-in-annualized-revenue-as-it-expands-beyond-corporate-credit-cards/)
+- [Twenty years ago, AIM chatbot SmarterChild out-snarked ChatGPT](https://techcrunch.com/2023/07/25/twenty-years-ago-aim-chatbot-smarterchild-out-snarked-chatgpt/)
+- [Carl Sagan&#39;s master for Voyager Golden Record up for auction at Sotheby&#39;s](https://www.space.com/carl-sagan-voyager-golden-record-sothebys-auction)
+- [Apple launches dev kit program for the Vision Pro](https://techcrunch.com/2023/07/25/apple-dev-kit-program-for-the-vision-pro/)
+- [Where data meets DEI with Mandy Price from Kanarys](https://techcrunch.com/2023/07/25/where-data-meets-dei-with-mandy-price-from-kanarys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
