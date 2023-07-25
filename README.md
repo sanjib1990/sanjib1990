@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s app tracking triggers statement of objections from French competition authority](https://techcrunch.com/2023/07/25/apple-att-antitrust-france/)
-- [Growth driven by AI will be the metric to watch this earnings cycle](https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/)
-- [Flight tracker Flighty adds a private social network for tracking loved ones’ travels](https://techcrunch.com/2023/07/25/flight-tracker-flighty-adds-a-private-social-network-for-tracking-loved-ones-travels/)
-- [SpaceX Falcon Heavy to launch world&#39;s largest private communications satellite on July 26](https://www.space.com/spacex-falcon-heavy-maxar-jupiter-3-largest-ever-private-communications-satellite)
-- [Whither Israel? Israeli tech players comment on the impact of the country’s convulsions](https://techcrunch.com/2023/07/25/whither-israel-israeli-tech-players-comment-on-the-impact-of-the-countrys-convulsions/)
+- [A supermassive black hole is spitting a high-energy jet toward Earth](https://www.space.com/supermassive-black-hole-jet-nasa-ixpe-x-ray)
+- [How to prevent an ‘operational catastrophe’](https://techcrunch.com/2023/07/25/five-steps-for-developing-a-fast-scaling-startup/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [SpaceX&#39;s Crew-7 astronaut launch delayed to Aug. 17](https://www.space.com/spacex-crew-7-astronaut-launch-delay-august-17)
+- [OpenAI scuttles AI-written text detector over ‘low rate of accuracy’](https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
