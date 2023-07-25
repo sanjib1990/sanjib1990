@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify reports strong user growth as it is raising subscription price](https://techcrunch.com/2023/07/25/spotify-reports-strong-user-growth-as-it-is-about-to-raise-subscription-price/)
-- [Queen guitarist Brian May to release a book of 3D images of asteroid Bennu](https://www.space.com/brian-may-3d-book-asteroid-bennu-osiris-rex-photos)
-- [Archaeology on the moon: How to preserve spaceflight artifacts from Apollo era](https://www.space.com/moon-spacecraft-prevent-destroy-apollo-artifacts)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [African governments are collaborating with innovators to strengthen local health supply chains](https://techcrunch.com/2023/07/25/african-governments-are-collaborating-with-innovators-to-strengthen-local-health-supply-chains/)
+- [Brevel sprouts $18.5M to develop microalgae-based alternative proteins](https://techcrunch.com/2023/07/25/brevel-18-5m-microalgae-alternative-proteins-foodtech/)
+- [Cloud camera security startup Solink raises $60M](https://techcrunch.com/2023/07/25/solink-camera-security-raises-60m/)
+- [Atomos Space books launch to demonstrate rendezvous, docking and refueling in-orbit](https://techcrunch.com/2023/07/25/atomos-space-books-launch-to-demonstrate-rendezvous-docking-and-refueling-in-orbit/)
+- [Wayfair’s new app uses generative AI to transform your space](https://techcrunch.com/2023/07/25/wayfairs-new-app-uses-generative-ai-to-transform-your-space/)
+- [NASA to hunt deep space gamma-rays with new high-altitude balloon mission](https://www.space.com/nasa-hunt-deep-space-gamma-rays-balloon-mission-compair)
 <!-- BLOG-POST-LIST:END -->
 
 ---
