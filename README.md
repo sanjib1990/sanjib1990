@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fuels up Starship Super Heavy boosters in prelaunch tests &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-fueling-tests-july-2023)
+- [Akhetonics raises capital for its all-optical processor prototype](https://techcrunch.com/2023/07/25/akhetonics-raises-capital-for-its-all-optical-processor-prototype/)
 - [Satellites watch as wildfires rage across Greece &lpar;photos&rpar;](https://www.space.com/satellites-greece-wildfires-space-photos)
 - [Zombie game maker Techland joins Tencent’s global empire in latest acquisition](https://techcrunch.com/2023/07/25/zombie-game-maker-techland-joins-tencents-global-empire-in-latest-acquisition/)
 - [SpaceX Falcon Heavy shows off its 27 engines ahead of July 26 launch &lpar;photo&rpar;](https://www.space.com/spacex-falcon-heavy-maxar-jupiter-3-photo)
-- [Blue Origin, Astrobotic, Varda Space and others win NASA funding to develop advanced space tech](https://techcrunch.com/2023/07/25/blue-origin-astrobotic-varda-space-and-others-win-nasa-funding-to-develop-advanced-space-tech/)
-- [A supermassive black hole is spitting a high-energy jet toward Earth](https://www.space.com/supermassive-black-hole-jet-nasa-ixpe-x-ray)
 <!-- BLOG-POST-LIST:END -->
 
 ---
