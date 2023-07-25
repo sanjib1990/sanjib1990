@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grubhub+ gets new deals like 5% back on pickup orders, among others](https://techcrunch.com/2023/07/25/grubhub-gets-new-deals-like-5-back-on-pickup-orders-among-others/)
+- [Stunning image reveals 1st detection of gas giants being born around a young star &lpar;photo&rpar;](https://www.space.com/planet-forming-young-star-gas-giants)
+- [Stay Ai’s tech helps Shopify brands get customers to make that second purchase](https://techcrunch.com/2023/07/25/stay-ai-shopify-brands-customer-retention/)
+- [Ivanti rushes to patch zero-day used to breach Norway’s government](https://techcrunch.com/2023/07/25/ivanti-epmm-zero-day-norway-government-breach/)
 - [Brevel sprouts $18.5M to develop microalgae-based alternative proteins](https://techcrunch.com/2023/07/25/brevel-18-5m-microalgae-alternative-proteins-foodtech/)
-- [Cloud camera security startup Solink raises $60M](https://techcrunch.com/2023/07/25/solink-camera-security-raises-60m/)
-- [Atomos Space books launch to demonstrate rendezvous, docking and refueling in-orbit](https://techcrunch.com/2023/07/25/atomos-space-books-launch-to-demonstrate-rendezvous-docking-and-refueling-in-orbit/)
-- [Wayfair’s new app uses generative AI to transform your space](https://techcrunch.com/2023/07/25/wayfairs-new-app-uses-generative-ai-to-transform-your-space/)
-- [NASA to hunt deep space gamma-rays with new high-altitude balloon mission](https://www.space.com/nasa-hunt-deep-space-gamma-rays-balloon-mission-compair)
 <!-- BLOG-POST-LIST:END -->
 
 ---
