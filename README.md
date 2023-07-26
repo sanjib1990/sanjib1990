@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How long does it take to get to the moon?](https://www.space.com/how-long-does-it-take-to-get-to-the-moon)
+- [When and where will Europe&#39;s Aeolus wind satellite fall to Earth this week?](https://www.space.com/europe-aeolus-satellite-reentry-explainer)
+- [Twitter rival Mammoth adds a personalized For You feed to make its Mastodon client feel familiar](https://techcrunch.com/2023/07/26/twitter-rival-mammoth-adds-a-personalized-for-you-feed-to-make-its-mastodon-client-feel-familiar/)
+- [YouTube offers new NFL Sunday Ticket deal for Verizon customers](https://techcrunch.com/2023/07/26/youtube-nfl-sunday-ticket-deal-for-verizon-customers/)
 - [AWS launches new healthcare-focused services, powered by generative AI](https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/)
-- [Linktree is now letting users add Threads on their profile](https://techcrunch.com/2023/07/26/linktree-is-now-letting-users-threads-on-their-profile/)
-- [NASA awards $150 million for moon power systems, other exploration tech](https://www.space.com/nasa-funding-moon-power-exploration-tech-july-2023)
-- [Generative AI capabilities come to Amazon QuickSight](https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/)
-- [Amazon expands Bedrock with conversational agents and new third-party models](https://techcrunch.com/2023/07/26/amazon-expands-bedrock-with-conversational-agents-and-new-third-party-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
