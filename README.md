@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart+ adds travel benefits to its list of perks](https://techcrunch.com/2023/07/26/walmart-adds-travel-benefits-list-of-perks/)
+- [What’s next for social media from someone who’s Extremely Online](https://techcrunch.com/2023/07/26/whats-next-for-social-media-from-someone-whos-extremely-online/)
+- [Moon gear: China building lander, rover and spacesuit for lunar missions &lpar;video&rpar;](https://www.space.com/china-moon-lander-rover-spacesuit-astronauts)
+- [Capture One Pro 23 Review 2023](https://www.space.com/capture-one-pro-23-review)
 - [Effectiv’s fraud tools determine if it is you or your deep fake making that bank withdrawal](https://techcrunch.com/2023/07/26/effectiv-fraud-bank-fintech/)
-- [Collaborative Robotics raises $30M to develop and deploy ‘novel cobot’](https://techcrunch.com/2023/07/26/collaborative-robotics-raises-30m-to-develop-and-deploy-novel-cobot/)
-- [Protect AI raises $35M to build a suite of AI-defending tools](https://techcrunch.com/2023/07/26/protect-ai-raises-35m-to-build-a-suite-of-ai-defending-tools/)
-- [Bumble launches a separate BFF app for friend friending](https://techcrunch.com/2023/07/26/bumble-is-a-launching-a-separate-bff-app-for-friend-friending/)
-- [Ancient star that crashed hot young star party could solve solar system mystery](https://www.space.com/old-star-crashes-party-solar-system-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
