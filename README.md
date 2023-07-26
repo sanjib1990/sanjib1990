@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook surpasses 3 billion monthly active users](https://techcrunch.com/2023/07/26/facebook-3-billion-users/)
 - [Audiobook platform Libro.fm announces its international launch](https://techcrunch.com/2023/07/26/audiobook-platform-libro-fm-international-launch/)
 - [Former pilots recount UFO sightings as Congress pushes for transparency](https://techcrunch.com/2023/07/26/congress-dives-into-ufos-in-a-hearing-featuring-eyewitness-testimony/)
 - [Meta reports 11% revenue growth, but the metaverse still suffers](https://techcrunch.com/2023/07/26/meta-earnings-q2-2023/)
 - [Finding CEO: It’s the new ‘Finding Nemo’](https://techcrunch.com/2023/07/26/finding-a-new-ceo/)
-- [NASA, DARPA to launch nuclear rocket to orbit by early 2026](https://www.space.com/nasa-darpa-nuclear-thermal-rocket-draco-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
