@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trustmi lands $17M to scale its payments fraud prevention tech](https://techcrunch.com/2023/07/26/trustmi-lands-17m-to-scale-its-payments-fraud-prevention-tech/)
+- [NASA practices for 2024 launch of Artemis 2 moon mission](https://www.space.com/nasa-artemis-2-moon-mission-launch-simulation)
+- [OpenAI, Google, Microsoft and Anthropic form body to oversee safe ‘frontier AI’ development](https://techcrunch.com/2023/07/26/openai-google-microsoft-and-anthropic-form-body-to-oversee-safe-frontier-ai-development/)
 - [Meta firms fined in Australia over ‘Onavo Protect’ consumer protection breach](https://techcrunch.com/2023/07/26/meta-onavo-australia-fine/)
 - [Samsung’s Galaxy Tab S9 arrives with new chip and water resistance](https://techcrunch.com/2023/07/26/samsungs-galaxy-s9-tab-arrives-with-new-chip-and-water-resistance/)
-- [Samsung’s Galaxy Z Flip 5 finally fixes the foldable’s biggest problem](https://techcrunch.com/2023/07/26/samsungs-galaxy-z-flip-5-finally-fixes-the-foldables-biggest-problem/)
-- [Samsung Galaxy Watch Classic: The bezel is back &lpar;again&rpar;](https://techcrunch.com/2023/07/26/samsung-galaxy-watch-classic-the-bezel-is-back-again/)
-- [Samsung’s Galaxy Z Fold 5 gets upgraded chip, thinner body and $1,800 price](https://techcrunch.com/2023/07/26/samsungs-galaxy-z-fold-5-gets-upgraded-chip-thinner-body-and-1800-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
