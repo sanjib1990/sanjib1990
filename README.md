@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Walmart+ adds travel benefits to its list of perks](https://techcrunch.com/2023/07/26/walmart-adds-travel-benefits-list-of-perks/)
-- [What’s next for social media from someone who’s Extremely Online](https://techcrunch.com/2023/07/26/whats-next-for-social-media-from-someone-whos-extremely-online/)
-- [Moon gear: China building lander, rover and spacesuit for lunar missions &lpar;video&rpar;](https://www.space.com/china-moon-lander-rover-spacesuit-astronauts)
-- [Capture One Pro 23 Review 2023](https://www.space.com/capture-one-pro-23-review)
-- [Effectiv’s fraud tools determine if it is you or your deep fake making that bank withdrawal](https://techcrunch.com/2023/07/26/effectiv-fraud-bank-fintech/)
+- [Leading automakers partner to create massive EV charging network](https://techcrunch.com/2023/07/26/leading-automakers-partner-to-create-massive-ev-charging-network/)
+- [Fanatics launches live commerce app](https://techcrunch.com/2023/07/26/fanatics-launches-live-commerce-app/)
+- [Shopify expands into credit cards as it pushes further into the fintech space](https://techcrunch.com/2023/07/26/shopify-expands-into-credit-as-it-pushes-further-into-the-fintech-space/)
+- [Shopify Sidekick is like ChatGPT, but for ecommerce merchants](https://techcrunch.com/2023/07/26/shopify-sidekick-is-like-chatgpt-but-for-ecommerce-merchants/)
+- [Listen to music &#39;written&#39; by doomed Aeolus wind-studying satellite &lpar;video&rpar;](https://www.space.com/aeolus-wind-satellite-music-sonification-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
