@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists may have just cracked the sun&#39;s greatest mystery](https://www.space.com/solar-orbiter-fast-magnetic-waves-sun-coronal-heating)
-- [Watch SpaceX&#39;s Falcon Heavy rocket launch on record-breaking mission tonight](https://www.space.com/spacex-falcon-heavy-jupiter-3-satellite-launch)
-- [Apple and Amazon face UK class action damages suit over price collusion claim](https://techcrunch.com/2023/07/26/apple-amazon-price-collusion-uk-lawsuit/)
-- [Dial-up a therapist like an Uber? Wangie aims at Gen-Zs and the time-poor](https://techcrunch.com/2023/07/26/dial-up-a-therapist-like-an-uber-wangie-aims-at-the-gen-z-market/)
-- [Materials Nexus raises £2 million seed to discover clean climate material](https://techcrunch.com/2023/07/26/materials-nexus-2-million-seed/)
+- [Meta firms fined in Australia over ‘Onavo Protect’ consumer protection breach](https://techcrunch.com/2023/07/26/meta-onavo-australia-fine/)
+- [Samsung’s Galaxy Tab S9 arrives with new chip and water resistance](https://techcrunch.com/2023/07/26/samsungs-galaxy-s9-tab-arrives-with-new-chip-and-water-resistance/)
+- [Samsung’s Galaxy Z Flip 5 finally fixes the foldable’s biggest problem](https://techcrunch.com/2023/07/26/samsungs-galaxy-z-flip-5-finally-fixes-the-foldables-biggest-problem/)
+- [Samsung Galaxy Watch Classic: The bezel is back &lpar;again&rpar;](https://techcrunch.com/2023/07/26/samsung-galaxy-watch-classic-the-bezel-is-back-again/)
+- [Samsung’s Galaxy Z Fold 5 gets upgraded chip, thinner body and $1,800 price](https://techcrunch.com/2023/07/26/samsungs-galaxy-z-fold-5-gets-upgraded-chip-thinner-body-and-1800-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
