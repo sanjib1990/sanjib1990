@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dial-up a therapist like an Uber? Wangie aims at Gen-Zs and the time-poor](https://techcrunch.com/2023/07/26/dial-up-a-therapist-like-an-uber-wangie-aims-at-the-gen-z-market/)
+- [Materials Nexus raises £2 million seed to discover clean climate material](https://techcrunch.com/2023/07/26/materials-nexus-2-million-seed/)
+- [India’s food delivery giant Swiggy launches credit card](https://techcrunch.com/2023/07/26/swiggy-hdfc-credit-card/)
 - [Twitter changes its official handle to @X](https://techcrunch.com/2023/07/25/twitter-changes-its-official-handle-to-x/)
 - [Google says 2 billion logged in monthly users are watching YouTube Shorts](https://techcrunch.com/2023/07/25/google-says-2-billion-logged-in-monthly-users-are-watching-youtube-shorts/)
-- [AI leaders warn Senate of twin risks: Moving too slow and moving too fast](https://techcrunch.com/2023/07/25/ai-leaders-warn-senate-of-twin-risks-moving-too-slow-and-moving-too-fast/)
-- [Exclusive: Goodwater Capital snags $1B across two new funds, despite cooling interest in consumer tech](https://techcrunch.com/2023/07/25/exclusive-goodwater-capital-snags-1b-across-two-new-funds-despite-broader-cooling-interest-in-consumer-tech/)
-- [Main Sequence hits first close of $450M AUD for its third deep tech fund](https://techcrunch.com/2023/07/25/main-sequence-hits-first-close-of-450m-aud-for-its-third-deep-tech-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
