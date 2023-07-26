@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter changes its official handle to @X](https://techcrunch.com/2023/07/25/twitter-changes-its-official-handle-to-x/)
+- [Google says 2 billion logged in monthly users are watching YouTube Shorts](https://techcrunch.com/2023/07/25/google-says-2-billion-logged-in-monthly-users-are-watching-youtube-shorts/)
 - [AI leaders warn Senate of twin risks: Moving too slow and moving too fast](https://techcrunch.com/2023/07/25/ai-leaders-warn-senate-of-twin-risks-moving-too-slow-and-moving-too-fast/)
 - [Exclusive: Goodwater Capital snags $1B across two new funds, despite cooling interest in consumer tech](https://techcrunch.com/2023/07/25/exclusive-goodwater-capital-snags-1b-across-two-new-funds-despite-broader-cooling-interest-in-consumer-tech/)
 - [Main Sequence hits first close of $450M AUD for its third deep tech fund](https://techcrunch.com/2023/07/25/main-sequence-hits-first-close-of-450m-aud-for-its-third-deep-tech-fund/)
-- [Snap’s revenue woes continue but earnings yield a few bright spots](https://techcrunch.com/2023/07/25/snap-snapchat-q2-2023-earnings/)
-- [SpaceX Dragon spacecraft had a thruster glitch at the International Space Station in June](https://www.space.com/spacex-dragon-international-space-station-glitch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
