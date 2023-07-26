@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask Sophie: Which US visas are best for international founders?](https://techcrunch.com/2023/07/26/ask-sophie-which-us-visas-are-best-for-international-founders/)
-- [Google boosts tablet apps’ visibility on Play Store following Pixel Tablet launch](https://techcrunch.com/2023/07/26/google-boosts-tablet-apps-visibility-on-play-store-following-pixel-tablet-launch/)
-- [How long does it take to get to the moon?](https://www.space.com/how-long-does-it-take-to-get-to-the-moon)
-- [When and where will Europe&#39;s Aeolus wind satellite fall to Earth this week?](https://www.space.com/europe-aeolus-satellite-reentry-explainer)
-- [Twitter rival Mammoth adds a personalized For You feed to make its Mastodon client feel familiar](https://techcrunch.com/2023/07/26/twitter-rival-mammoth-adds-a-personalized-for-you-feed-to-make-its-mastodon-client-feel-familiar/)
+- [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
+- [Meta, Microsoft and Amazon release open map dataset to rival Google Maps, Apple Maps](https://techcrunch.com/2023/07/26/meta-microsoft-and-amazon-release-open-map-dataset-to-rival-google-maps-apple-maps/)
+- [China&#39;s new moon rocket could launch as soon as 2027](https://www.space.com/china-new-rocket-progress-astronaut-moon-mission)
+- [James Webb Space Telescope stuns with glowing portrait of actively forming stars &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-stuns-with-glowing-portrait-actively-forming-stars)
+- [5 founders discuss why SAFEs are better for early-stage and bridge rounds](https://techcrunch.com/2023/07/26/5-founders-discuss-why-safes-are-better-for-early-stage-and-bridge-rounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
