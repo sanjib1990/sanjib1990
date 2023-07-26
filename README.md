@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: Which US visas are best for international founders?](https://techcrunch.com/2023/07/26/ask-sophie-which-us-visas-are-best-for-international-founders/)
+- [Google boosts tablet apps’ visibility on Play Store following Pixel Tablet launch](https://techcrunch.com/2023/07/26/google-boosts-tablet-apps-visibility-on-play-store-following-pixel-tablet-launch/)
 - [How long does it take to get to the moon?](https://www.space.com/how-long-does-it-take-to-get-to-the-moon)
 - [When and where will Europe&#39;s Aeolus wind satellite fall to Earth this week?](https://www.space.com/europe-aeolus-satellite-reentry-explainer)
 - [Twitter rival Mammoth adds a personalized For You feed to make its Mastodon client feel familiar](https://techcrunch.com/2023/07/26/twitter-rival-mammoth-adds-a-personalized-for-you-feed-to-make-its-mastodon-client-feel-familiar/)
-- [YouTube offers new NFL Sunday Ticket deal for Verizon customers](https://techcrunch.com/2023/07/26/youtube-nfl-sunday-ticket-deal-for-verizon-customers/)
-- [AWS launches new healthcare-focused services, powered by generative AI](https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
