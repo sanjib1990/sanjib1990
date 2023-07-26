@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Leading automakers partner to create massive EV charging network](https://techcrunch.com/2023/07/26/leading-automakers-partner-to-create-massive-ev-charging-network/)
-- [Fanatics launches live commerce app](https://techcrunch.com/2023/07/26/fanatics-launches-live-commerce-app/)
-- [Shopify expands into credit cards as it pushes further into the fintech space](https://techcrunch.com/2023/07/26/shopify-expands-into-credit-as-it-pushes-further-into-the-fintech-space/)
-- [Shopify Sidekick is like ChatGPT, but for ecommerce merchants](https://techcrunch.com/2023/07/26/shopify-sidekick-is-like-chatgpt-but-for-ecommerce-merchants/)
-- [Listen to music &#39;written&#39; by doomed Aeolus wind-studying satellite &lpar;video&rpar;](https://www.space.com/aeolus-wind-satellite-music-sonification-video)
+- [Milky Way galaxy&#39;s spiral arms revealed in stunning detail by chemical mapping](https://www.space.com/milky-way-arms-revealed-chemical-mapping)
+- [Egnyte is bringing generative AI capabilities to its storage platform](https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/)
+- [Volkswagen takes stake in Xpeng as part of Chinese EV deal](https://techcrunch.com/2023/07/26/volkswagen-takes-stake-in-xpeng-as-part-of-chinese-ev-deal/)
+- [Source: Crowdstrike is close to acquiring Bionic.AI for between $200M and $300M](https://techcrunch.com/2023/07/26/crowdstrike-bionic-ai/)
+- [Secret Invasion season 1 episode 6 review: The conspiracy ends with a whimper](https://www.space.com/secret-invasion-season-1-episode-6-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
