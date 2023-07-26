@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists may have just cracked the sun&#39;s greatest mystery](https://www.space.com/solar-orbiter-fast-magnetic-waves-sun-coronal-heating)
+- [Watch SpaceX&#39;s Falcon Heavy rocket launch on record-breaking mission tonight](https://www.space.com/spacex-falcon-heavy-jupiter-3-satellite-launch)
+- [Apple and Amazon face UK class action damages suit over price collusion claim](https://techcrunch.com/2023/07/26/apple-amazon-price-collusion-uk-lawsuit/)
 - [Dial-up a therapist like an Uber? Wangie aims at Gen-Zs and the time-poor](https://techcrunch.com/2023/07/26/dial-up-a-therapist-like-an-uber-wangie-aims-at-the-gen-z-market/)
 - [Materials Nexus raises £2 million seed to discover clean climate material](https://techcrunch.com/2023/07/26/materials-nexus-2-million-seed/)
-- [India’s food delivery giant Swiggy launches credit card](https://techcrunch.com/2023/07/26/swiggy-hdfc-credit-card/)
-- [Twitter changes its official handle to @X](https://techcrunch.com/2023/07/25/twitter-changes-its-official-handle-to-x/)
-- [Google says 2 billion logged in monthly users are watching YouTube Shorts](https://techcrunch.com/2023/07/25/google-says-2-billion-logged-in-monthly-users-are-watching-youtube-shorts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
