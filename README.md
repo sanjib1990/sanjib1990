@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trustmi lands $17M to scale its payments fraud prevention tech](https://techcrunch.com/2023/07/26/trustmi-lands-17m-to-scale-its-payments-fraud-prevention-tech/)
-- [NASA practices for 2024 launch of Artemis 2 moon mission](https://www.space.com/nasa-artemis-2-moon-mission-launch-simulation)
-- [OpenAI, Google, Microsoft and Anthropic form body to oversee safe ‘frontier AI’ development](https://techcrunch.com/2023/07/26/openai-google-microsoft-and-anthropic-form-body-to-oversee-safe-frontier-ai-development/)
-- [Meta firms fined in Australia over ‘Onavo Protect’ consumer protection breach](https://techcrunch.com/2023/07/26/meta-onavo-australia-fine/)
-- [Samsung’s Galaxy Tab S9 arrives with new chip and water resistance](https://techcrunch.com/2023/07/26/samsungs-galaxy-s9-tab-arrives-with-new-chip-and-water-resistance/)
+- [Effectiv’s fraud tools determine if it is you or your deep fake making that bank withdrawal](https://techcrunch.com/2023/07/26/effectiv-fraud-bank-fintech/)
+- [Collaborative Robotics raises $30M to develop and deploy ‘novel cobot’](https://techcrunch.com/2023/07/26/collaborative-robotics-raises-30m-to-develop-and-deploy-novel-cobot/)
+- [Protect AI raises $35M to build a suite of AI-defending tools](https://techcrunch.com/2023/07/26/protect-ai-raises-35m-to-build-a-suite-of-ai-defending-tools/)
+- [Bumble launches a separate BFF app for friend friending](https://techcrunch.com/2023/07/26/bumble-is-a-launching-a-separate-bff-app-for-friend-friending/)
+- [Ancient star that crashed hot young star party could solve solar system mystery](https://www.space.com/old-star-crashes-party-solar-system-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
