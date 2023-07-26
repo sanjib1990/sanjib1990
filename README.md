@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding CEO: It’s the new ‘Finding Nemo’](https://techcrunch.com/2023/07/26/finding-a-new-ceo/)
+- [NASA, DARPA to launch nuclear rocket to orbit by early 2026](https://www.space.com/nasa-darpa-nuclear-thermal-rocket-draco-2026)
 - [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
 - [Meta, Microsoft and Amazon release open map dataset to rival Google Maps, Apple Maps](https://techcrunch.com/2023/07/26/meta-microsoft-and-amazon-release-open-map-dataset-to-rival-google-maps-apple-maps/)
 - [China&#39;s new moon rocket could launch as soon as 2027](https://www.space.com/china-new-rocket-progress-astronaut-moon-mission)
-- [James Webb Space Telescope stuns with glowing portrait of actively forming stars &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-stuns-with-glowing-portrait-actively-forming-stars)
-- [5 founders discuss why SAFEs are better for early-stage and bridge rounds](https://techcrunch.com/2023/07/26/5-founders-discuss-why-safes-are-better-for-early-stage-and-bridge-rounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
