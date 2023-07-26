@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Audiobook platform Libro.fm announces its international launch](https://techcrunch.com/2023/07/26/audiobook-platform-libro-fm-international-launch/)
+- [Former pilots recount UFO sightings as Congress pushes for transparency](https://techcrunch.com/2023/07/26/congress-dives-into-ufos-in-a-hearing-featuring-eyewitness-testimony/)
+- [Meta reports 11% revenue growth, but the metaverse still suffers](https://techcrunch.com/2023/07/26/meta-earnings-q2-2023/)
 - [Finding CEO: It’s the new ‘Finding Nemo’](https://techcrunch.com/2023/07/26/finding-a-new-ceo/)
 - [NASA, DARPA to launch nuclear rocket to orbit by early 2026](https://www.space.com/nasa-darpa-nuclear-thermal-rocket-draco-2026)
-- [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
-- [Meta, Microsoft and Amazon release open map dataset to rival Google Maps, Apple Maps](https://techcrunch.com/2023/07/26/meta-microsoft-and-amazon-release-open-map-dataset-to-rival-google-maps-apple-maps/)
-- [China&#39;s new moon rocket could launch as soon as 2027](https://www.space.com/china-new-rocket-progress-astronaut-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
