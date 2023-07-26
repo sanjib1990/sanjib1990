@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Milky Way galaxy&#39;s spiral arms revealed in stunning detail by chemical mapping](https://www.space.com/milky-way-arms-revealed-chemical-mapping)
-- [Egnyte is bringing generative AI capabilities to its storage platform](https://techcrunch.com/2023/07/26/egnyte-is-bringing-generative-ai-capabilities-to-its-storage-platform/)
-- [Volkswagen takes stake in Xpeng as part of Chinese EV deal](https://techcrunch.com/2023/07/26/volkswagen-takes-stake-in-xpeng-as-part-of-chinese-ev-deal/)
-- [Source: Crowdstrike is close to acquiring Bionic.AI for between $200M and $300M](https://techcrunch.com/2023/07/26/crowdstrike-bionic-ai/)
-- [Secret Invasion season 1 episode 6 review: The conspiracy ends with a whimper](https://www.space.com/secret-invasion-season-1-episode-6-review)
+- [AWS launches new healthcare-focused services, powered by generative AI](https://techcrunch.com/2023/07/26/aws-launches-new-health-focused-services-powered-by-generative-ai/)
+- [Linktree is now letting users add Threads on their profile](https://techcrunch.com/2023/07/26/linktree-is-now-letting-users-threads-on-their-profile/)
+- [NASA awards $150 million for moon power systems, other exploration tech](https://www.space.com/nasa-funding-moon-power-exploration-tech-july-2023)
+- [Generative AI capabilities come to Amazon QuickSight](https://techcrunch.com/2023/07/26/generative-ai-capabilities-come-to-amazon-quicksight/)
+- [Amazon expands Bedrock with conversational agents and new third-party models](https://techcrunch.com/2023/07/26/amazon-expands-bedrock-with-conversational-agents-and-new-third-party-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
