@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China begins trial operations with world’s largest solar telescope array](https://www.space.com/china-solar-telescope-array-trials)
+- [SpaceX aiming for record-breaking launch doubleheader tonight](https://www.space.com/spacex-starlink-falcon-heavy-launch-doubleheader-july-2023)
+- [News app Artifact adds AI text-to-speech voices, including Snoop Dogg and Gwyneth Paltrow](https://techcrunch.com/2023/07/27/news-app-artifact-adds-ai-text-to-speech-voices-including-snoop-dogg-and-gwyneth-paltrow/)
+- [The ad market is recovering](https://techcrunch.com/2023/07/27/google-facebook-snap-earnings-advertising/)
 - [Saturn may have &#39;failed&#39; as a gas giant](https://www.space.com/saturn-failed-gas-giant-planet)
-- [Tesla has a range inflation problem](https://techcrunch.com/2023/07/27/tesla-has-a-range-inflation-problem/)
-- [A high-tech third eye for neurosurgeons, Proprio could change the OR forever](https://techcrunch.com/2023/07/27/a-high-tech-third-eye-for-neurosurgeons-proprio-could-change-the-or-forever/)
-- [Clinical pathways are the currency of health tech](https://techcrunch.com/2023/07/27/clinical-pathways-are-the-currency-of-health-tech/)
-- [Android will now warn about unknown Bluetooth trackers, like AirTag, traveling with you](https://techcrunch.com/2023/07/27/android-will-now-warn-about-unknown-bluetooth-trackers-like-airtag-traveling-with-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
