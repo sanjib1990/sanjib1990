@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bloom Money raises £1M to digitize microcredit finance for ethnic communities](https://techcrunch.com/2023/07/27/bloom-money-raises-1m-to-digitize-microcredit-finance-for-ethnic-communities/)
+- [Samsung extends cut in memory chip production, will focus on high-end AI chips instead](https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/)
 - [Twitter rebrands its Android app with the new X logo](https://techcrunch.com/2023/07/26/twitter-rebrands-its-android-app-with-the-new-x-logo/)
 - [Kenya’s FarmWorks raises $4M pre-Series A funding](https://techcrunch.com/2023/07/26/kenyas-farmworks-raises-4m-pre-series-a-funding/)
 - [Ecosia adds a train travel search tool powered by Omio](https://techcrunch.com/2023/07/26/ecosia-omio-train-search-tool/)
-- [SpaceX scrubs record-breaking Falcon Heavy rocket launch &lpar;video&rpar;](https://www.space.com/spacex-scrub-falcon-heavy-launch-july-26)
-- [AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M](https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
