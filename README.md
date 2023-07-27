@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ecosia adds a train travel search tool powered by Omio](https://techcrunch.com/2023/07/26/ecosia-omio-train-search-tool/)
+- [SpaceX scrubs record-breaking Falcon Heavy rocket launch &lpar;video&rpar;](https://www.space.com/spacex-scrub-falcon-heavy-launch-july-26)
 - [AutogenAI, a generative AI tool for writing bids and pitches, secures $22.3M](https://techcrunch.com/2023/07/26/autogenai-a-generative-ai-tool-for-writing-bids-and-pitches-secures-22-3m/)
 - [Facebook surpasses 3 billion monthly active users](https://techcrunch.com/2023/07/26/facebook-3-billion-users/)
 - [Audiobook platform Libro.fm announces its international launch](https://techcrunch.com/2023/07/26/audiobook-platform-libro-fm-international-launch/)
-- [Former pilots recount UFO sightings as Congress pushes for transparency](https://techcrunch.com/2023/07/26/congress-dives-into-ufos-in-a-hearing-featuring-eyewitness-testimony/)
-- [Meta reports 11% revenue growth, but the metaverse still suffers](https://techcrunch.com/2023/07/26/meta-earnings-q2-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
