@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn may have &#39;failed&#39; as a gas giant](https://www.space.com/saturn-failed-gas-giant-planet)
+- [Tesla has a range inflation problem](https://techcrunch.com/2023/07/27/tesla-has-a-range-inflation-problem/)
+- [A high-tech third eye for neurosurgeons, Proprio could change the OR forever](https://techcrunch.com/2023/07/27/a-high-tech-third-eye-for-neurosurgeons-proprio-could-change-the-or-forever/)
+- [Clinical pathways are the currency of health tech](https://techcrunch.com/2023/07/27/clinical-pathways-are-the-currency-of-health-tech/)
 - [Android will now warn about unknown Bluetooth trackers, like AirTag, traveling with you](https://techcrunch.com/2023/07/27/android-will-now-warn-about-unknown-bluetooth-trackers-like-airtag-traveling-with-you/)
-- [Pet telehealth company Airvet closes on $18.2M to embark on enterprise focus](https://techcrunch.com/2023/07/27/pet-telehealth-airvet-18-2m-enterprise/)
-- [NASA eyeing SpaceX&#39;s Starship as possible space station](https://www.space.com/nasa-considering-spacex-starship-space-station)
-- [Watch Ben Kingsley befriend an alien who crashed to Earth in new UFO comedy &#39;Jules&#39; &lpar;exclusive&rpar;](https://www.space.com/jules-alien-ben-kingsley-exclusive-video)
-- [Denmark&#39;s Crew-7 astronaut plans to snap aurora photos on the ISS](https://www.space.com/international-space-station-aurora-photos-denmark-astronaut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
