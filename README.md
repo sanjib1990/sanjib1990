@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China begins trial operations with world’s largest solar telescope array](https://www.space.com/china-solar-telescope-array-trials)
-- [SpaceX aiming for record-breaking launch doubleheader tonight](https://www.space.com/spacex-starlink-falcon-heavy-launch-doubleheader-july-2023)
-- [News app Artifact adds AI text-to-speech voices, including Snoop Dogg and Gwyneth Paltrow](https://techcrunch.com/2023/07/27/news-app-artifact-adds-ai-text-to-speech-voices-including-snoop-dogg-and-gwyneth-paltrow/)
-- [The ad market is recovering](https://techcrunch.com/2023/07/27/google-facebook-snap-earnings-advertising/)
-- [Saturn may have &#39;failed&#39; as a gas giant](https://www.space.com/saturn-failed-gas-giant-planet)
+- [Are you going to let Sam Altman’s crypto project scan your eyeballs or not?](https://techcrunch.com/2023/07/27/are-you-going-to-let-sam-altmans-crypto-project-scan-your-eyeballs-or-not/)
+- [SpaceX Falcon Heavy seen from space waiting on launch pad &lpar;photos&rpar;](https://www.space.com/falcon-heavy-jupiter-3-maxar-satellite-photos)
+- [Startups aren’t &lpar;just&rpar; a young person’s game](https://techcrunch.com/2023/07/27/startups-are-not-just-for-kids/)
+- [FAA launches new committee to explore regulations on commercial human spaceflight](https://techcrunch.com/2023/07/27/faa-launches-new-committee-to-explore-regulations-on-commercial-human-spaceflight/)
+- [It’s not just Netflix’s $900K AI jobs, it’s the hypocrisy](https://techcrunch.com/2023/07/27/its-not-just-netflixs-900k-ai-jobs-its-the-hypocrisy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
