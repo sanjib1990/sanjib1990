@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PostgreSQL in 100 Seconds](https://www.youtube.com/watch?v=n2Fluyr3lbc)
 - [Start your IT Journey in 2023 RIGHT NOW](https://www.youtube.com/watch?v=zkdafBNyXas)
 - [Twitter rebrands to X in latest 5D chess move](https://www.youtube.com/watch?v=AE3iXR1JFak)
 - [Subnetting…..but in reverse](https://www.youtube.com/watch?v=6zopTcQFhqM)
 - [Is AI really getting dumber? Llama2 vs GPT-4](https://www.youtube.com/watch?v=DXWwCggFROk)
-- [SvelteKit in 100 seconds](https://www.youtube.com/watch?v=H1eEFfAkIik)
 <!-- YOUTUBE:END -->
 
 ---
