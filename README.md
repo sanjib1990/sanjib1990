@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US government contractor says MOVEit hackers accessed health data of ‘at least’ 8 million individuals](https://techcrunch.com/2023/07/27/us-government-contractor-says-moveit-hackers-accessed-health-data-of-at-least-8-million-individuals/)
-- [GlossGenius raises $28M to expand its bookings and payments platform for beauty businesses](https://techcrunch.com/2023/07/27/glossgenius-raises-28m-to-expand-its-bookings-and-payments-platform-for-beauty-businesses/)
-- [Hubble telescope spots a bright spiral galaxy with a violent past &lpar;photo&rpar;](https://www.space.com/spiral-galaxy-ugc-12295-hubble-photo)
-- [Previous governments’ incompetence crippled India’s semiconductor growth, deputy IT minister says](https://techcrunch.com/2023/07/27/previous-governments-incompetence-crippled-indias-semiconductor-growth-deputy-it-minister-says/)
-- [EU opens competition probe of Microsoft bundling Teams with Office 365](https://techcrunch.com/2023/07/27/microsoft-teams-antitrust-probe-eu/)
+- [Ex-Twitter Blue chief on Musk’s ‘lack of process’ and impulsive management style](https://techcrunch.com/2023/07/27/ex-twitter-blue-chief-on-musks-lack-of-process-and-impulsive-management-style/)
+- [Photoshop’s new generative AI feature lets you ‘uncrop’ images](https://techcrunch.com/2023/07/27/photoshops-new-generative-ai-feature-lets-you-uncrop-images/)
+- [a16z-backed Eco unveils Beam, a P2P crypto transfer service aiming to be a ‘global Venmo’](https://techcrunch.com/2023/07/27/a16z-eco-beam-p2p-crypto-transfer-service-global-venmo/)
+- [Flipturn hauls in $4.5M seed funding to help trucking fleets electrify for less](https://techcrunch.com/2023/07/27/flipturn-trucking-fleets/)
+- [Ocean current system could shut down as early as 2025, leading to climate disaster](https://www.space.com/ocean-current-system-shut-down-2025-climate-disaster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
