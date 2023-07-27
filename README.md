@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EV.energy snags $33M Series B to help utilities save billions on grid upgrades](https://techcrunch.com/2023/07/27/ev-energy-grid-upgrades/)
-- [Upgrade acquires travel-focused BNPL startup Uplift for a song](https://techcrunch.com/2023/07/27/upgrade-acquires-travel-focused-bnpl-startup-uplift-for-a-song/)
-- [Patently messy: How a $6B deal may spur more IP lawsuits](https://techcrunch.com/2023/07/27/opentext-micro-focus-patents/)
-- [Wow! Rare rainbow contrails caught on camera &lpar;photos&rpar;](https://www.space.com/rainbow-contrail-photographs)
-- [Dark energy camera reveals galaxies caught in a cosmic &#39;tug of war&#39; &lpar;photo&rpar;](https://www.space.com/dark-energy-camera-reveals-galaxies-in-cosmic-tug-of-war)
+- [US government contractor says MOVEit hackers accessed health data of ‘at least’ 8 million individuals](https://techcrunch.com/2023/07/27/us-government-contractor-says-moveit-hackers-accessed-health-data-of-at-least-8-million-individuals/)
+- [GlossGenius raises $28M to expand its bookings and payments platform for beauty businesses](https://techcrunch.com/2023/07/27/glossgenius-raises-28m-to-expand-its-bookings-and-payments-platform-for-beauty-businesses/)
+- [Hubble telescope spots a bright spiral galaxy with a violent past &lpar;photo&rpar;](https://www.space.com/spiral-galaxy-ugc-12295-hubble-photo)
+- [Previous governments’ incompetence crippled India’s semiconductor growth, deputy IT minister says](https://techcrunch.com/2023/07/27/previous-governments-incompetence-crippled-indias-semiconductor-growth-deputy-it-minister-says/)
+- [EU opens competition probe of Microsoft bundling Teams with Office 365](https://techcrunch.com/2023/07/27/microsoft-teams-antitrust-probe-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
