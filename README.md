@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV.energy snags $33M Series B to help utilities save billions on grid upgrades](https://techcrunch.com/2023/07/27/ev-energy-grid-upgrades/)
 - [Upgrade acquires travel-focused BNPL startup Uplift for a song](https://techcrunch.com/2023/07/27/upgrade-acquires-travel-focused-bnpl-startup-uplift-for-a-song/)
 - [Patently messy: How a $6B deal may spur more IP lawsuits](https://techcrunch.com/2023/07/27/opentext-micro-focus-patents/)
-- [Reddit is testing its own verification mark and new accessibility features](https://techcrunch.com/2023/07/27/reddit-is-testing-its-own-verification-mark-and-new-accessibility-features/)
-- [Terragon’s $9M raise gives credence to the market maturity in Africa’s cloud and martech space](https://techcrunch.com/2023/07/27/terragons-9m-raise-gives-credence-to-the-market-maturity-in-africas-cloud-and-martech-space/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Wow! Rare rainbow contrails caught on camera &lpar;photos&rpar;](https://www.space.com/rainbow-contrail-photographs)
+- [Dark energy camera reveals galaxies caught in a cosmic &#39;tug of war&#39; &lpar;photo&rpar;](https://www.space.com/dark-energy-camera-reveals-galaxies-in-cosmic-tug-of-war)
 <!-- BLOG-POST-LIST:END -->
 
 ---
