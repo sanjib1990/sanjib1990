@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford’s Q2 earnings show a thriving trucks, commercial business with EVs playing catch up](https://techcrunch.com/2023/07/27/fords-q2-earnings-show-a-thriving-trucks-commercial-business-with-evs-playing-catch-up/)
 - [Life on &#39;Mars:&#39; Commander of NASA&#39;s 1st yearlong analog comments on 1st month, food and stars](https://www.space.com/nasa-chapea-analog-mars-mission-one-month-interview)
 - [Three more VCs sign on to Startup Battlefield at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/27/three-more-vcs-sign-on-to-startup-battlefield-at-techcrunch-disrupt-2023/)
 - [Mobile website builder Universe launches AI-powered designer](https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/)
 - [Are you going to let Sam Altman’s crypto project scan your eyeballs or not?](https://techcrunch.com/2023/07/27/are-you-going-to-let-sam-altmans-crypto-project-scan-your-eyeballs-or-not/)
-- [SpaceX Falcon Heavy seen from space waiting on launch pad &lpar;photos&rpar;](https://www.space.com/falcon-heavy-jupiter-3-maxar-satellite-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
