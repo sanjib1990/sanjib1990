@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Helpful secures $7.5M to launch family caregiver app](https://techcrunch.com/2023/07/27/helpful-7-5m-family-caregiver/)
+- [NASA&#39;s Juno probe finds giant swirling waves in Jupiter&#39;s magnetosphere](https://www.space.com/jupiter-nasa-juno-swirling-waves-magnetosphere)
+- [Hackers are infecting Call of Duty players with a self-spreading malware](https://techcrunch.com/2023/07/27/hackers-are-infecting-call-of-duty-players-with-a-self-spreading-malware/)
+- [Coalition Operators, Cowboy Ventures and Finix set an equitable cap table at TC Disrupt 2023](https://techcrunch.com/2023/07/27/coalition-operators-cowboy-ventures-and-fini-set-an-equitable-cap-table-at-disrupt-2023/)
 - [Ex-Twitter Blue chief on Musk’s ‘lack of process’ and impulsive management style](https://techcrunch.com/2023/07/27/ex-twitter-blue-chief-on-musks-lack-of-process-and-impulsive-management-style/)
-- [Photoshop’s new generative AI feature lets you ‘uncrop’ images](https://techcrunch.com/2023/07/27/photoshops-new-generative-ai-feature-lets-you-uncrop-images/)
-- [a16z-backed Eco unveils Beam, a P2P crypto transfer service aiming to be a ‘global Venmo’](https://techcrunch.com/2023/07/27/a16z-eco-beam-p2p-crypto-transfer-service-global-venmo/)
-- [Flipturn hauls in $4.5M seed funding to help trucking fleets electrify for less](https://techcrunch.com/2023/07/27/flipturn-trucking-fleets/)
-- [Ocean current system could shut down as early as 2025, leading to climate disaster](https://www.space.com/ocean-current-system-shut-down-2025-climate-disaster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
