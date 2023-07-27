@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgrade acquires travel-focused BNPL startup Uplift for a song](https://techcrunch.com/2023/07/27/upgrade-acquires-travel-focused-bnpl-startup-uplift-for-a-song/)
+- [Patently messy: How a $6B deal may spur more IP lawsuits](https://techcrunch.com/2023/07/27/opentext-micro-focus-patents/)
+- [Reddit is testing its own verification mark and new accessibility features](https://techcrunch.com/2023/07/27/reddit-is-testing-its-own-verification-mark-and-new-accessibility-features/)
 - [Terragon’s $9M raise gives credence to the market maturity in Africa’s cloud and martech space](https://techcrunch.com/2023/07/27/terragons-9m-raise-gives-credence-to-the-market-maturity-in-africas-cloud-and-martech-space/)
 - [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Bloom Money raises £1M to digitize microcredit finance for ethnic communities](https://techcrunch.com/2023/07/27/bloom-money-raises-1m-to-digitize-microcredit-finance-for-ethnic-communities/)
-- [Samsung extends cut in memory chip production, will focus on high-end AI chips instead](https://techcrunch.com/2023/07/27/samsung-extends-cut-in-memory-chip-production-will-focus-on-high-end-ai-chips-instead/)
-- [Twitter rebrands its Android app with the new X logo](https://techcrunch.com/2023/07/26/twitter-rebrands-its-android-app-with-the-new-x-logo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
