@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Helpful secures $7.5M to launch family caregiver app](https://techcrunch.com/2023/07/27/helpful-7-5m-family-caregiver/)
-- [NASA&#39;s Juno probe finds giant swirling waves in Jupiter&#39;s magnetosphere](https://www.space.com/jupiter-nasa-juno-swirling-waves-magnetosphere)
-- [Hackers are infecting Call of Duty players with a self-spreading malware](https://techcrunch.com/2023/07/27/hackers-are-infecting-call-of-duty-players-with-a-self-spreading-malware/)
-- [Coalition Operators, Cowboy Ventures and Finix set an equitable cap table at TC Disrupt 2023](https://techcrunch.com/2023/07/27/coalition-operators-cowboy-ventures-and-fini-set-an-equitable-cap-table-at-disrupt-2023/)
-- [Ex-Twitter Blue chief on Musk’s ‘lack of process’ and impulsive management style](https://techcrunch.com/2023/07/27/ex-twitter-blue-chief-on-musks-lack-of-process-and-impulsive-management-style/)
+- [Listen to the sound of three stars playing &#39;Twinkle Twinkle Little Star&#39;](https://www.space.com/listen-to-three-stars-playing-twinkle-twinkle-little-star)
+- [WhatsApp now lets you record and share short video messages directly in chats](https://techcrunch.com/2023/07/27/whatsapp-now-lets-you-record-and-share-short-video-messages-directly-in-chats/)
+- [Mastodon is launching merch to help fund its development efforts](https://techcrunch.com/2023/07/27/mastodon-is-launching-merch-to-help-fund-its-development-efforts/)
+- [Peacock lags behind competitors, gains just 2M subs for Q2](https://techcrunch.com/2023/07/27/peacock-q2-2023-results/)
+- [Cash-strapped instant delivery giant Getir, trying to close funding, pulls out of Spain, Italy and Portugal](https://techcrunch.com/2023/07/27/cash-strapped-instant-delivery-giant-getir-trying-to-close-funding-pulls-out-of-spain-italy-and-portugal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
