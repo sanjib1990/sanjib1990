@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Listen to the sound of three stars playing &#39;Twinkle Twinkle Little Star&#39;](https://www.space.com/listen-to-three-stars-playing-twinkle-twinkle-little-star)
-- [WhatsApp now lets you record and share short video messages directly in chats](https://techcrunch.com/2023/07/27/whatsapp-now-lets-you-record-and-share-short-video-messages-directly-in-chats/)
-- [Mastodon is launching merch to help fund its development efforts](https://techcrunch.com/2023/07/27/mastodon-is-launching-merch-to-help-fund-its-development-efforts/)
-- [Peacock lags behind competitors, gains just 2M subs for Q2](https://techcrunch.com/2023/07/27/peacock-q2-2023-results/)
-- [Cash-strapped instant delivery giant Getir, trying to close funding, pulls out of Spain, Italy and Portugal](https://techcrunch.com/2023/07/27/cash-strapped-instant-delivery-giant-getir-trying-to-close-funding-pulls-out-of-spain-italy-and-portugal/)
+- [Android will now warn about unknown Bluetooth trackers, like AirTag, traveling with you](https://techcrunch.com/2023/07/27/android-will-now-warn-about-unknown-bluetooth-trackers-like-airtag-traveling-with-you/)
+- [Pet telehealth company Airvet closes on $18.2M to embark on enterprise focus](https://techcrunch.com/2023/07/27/pet-telehealth-airvet-18-2m-enterprise/)
+- [NASA eyeing SpaceX&#39;s Starship as possible space station](https://www.space.com/nasa-considering-spacex-starship-space-station)
+- [Watch Ben Kingsley befriend an alien who crashed to Earth in new UFO comedy &#39;Jules&#39; &lpar;exclusive&rpar;](https://www.space.com/jules-alien-ben-kingsley-exclusive-video)
+- [Denmark&#39;s Crew-7 astronaut plans to snap aurora photos on the ISS](https://www.space.com/international-space-station-aurora-photos-denmark-astronaut)
 <!-- BLOG-POST-LIST:END -->
 
 ---
