@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [19. Cholesterol Biosynthesis 1 &lpar;fixed audio glitch&rpar;](https://www.youtube.com/watch?v=ziG0Jp9QaBo)
 - [The shocking decline of Stack Overflow](https://www.youtube.com/watch?v=cXlxMP9PU8I)
 - [PostgreSQL in 100 Seconds](https://www.youtube.com/watch?v=n2Fluyr3lbc)
 - [Start your IT Journey in 2023 RIGHT NOW](https://www.youtube.com/watch?v=zkdafBNyXas)
 - [Twitter rebrands to X in latest 5D chess move](https://www.youtube.com/watch?v=AE3iXR1JFak)
-- [Subnetting…..but in reverse](https://www.youtube.com/watch?v=6zopTcQFhqM)
 <!-- YOUTUBE:END -->
 
 ---
