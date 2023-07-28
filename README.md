@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pollen is a professional development platform for tech workers, by tech workers](https://techcrunch.com/2023/07/28/pollen-is-a-new-professional-development-platform-for-tech-workers/)
+- [Former Hulu exec is building a go-to remittance app for Indian expats](https://techcrunch.com/2023/07/28/abound-times-group-hulu-executive/)
 - [European satellite will fall to Earth today in landmark &#39;assisted reentry&#39;](https://www.space.com/europe-aeolus-wind-satellite-reentry)
 - [Giant Mars mountain Olympus Mons may once have been a volcanic island](https://www.space.com/mars-mountain-olympus-mons-volcanic-island)
 - [The anatomy of a patent litigation target](https://techcrunch.com/2023/07/28/the-anatomy-of-a-patent-litigation-target/)
-- [AMD plans to invest $400 million in India by 2028](https://techcrunch.com/2023/07/27/amd-india-investment/)
-- [Andy McLoughlin of Uncork Capital on the firm’s new funds, succession, and why next year could be a bloodbath &lpar;sorry, startups&rpar;](https://techcrunch.com/2023/07/27/andy-mcloughlin-of-uncork-capital-on-the-firms-new-funds-succession-and-why-next-year-could-be-a-bloodbath-for-many-startups-sorry-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
