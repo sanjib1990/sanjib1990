@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [a16z-backed Rewind launches an iPhone app to help you remember everything](https://techcrunch.com/2023/07/28/a16z-backed-rewind-launches-an-iphone-app-to-help-you-remember-everything/)
-- [Meet Rollin&#39; Justin, the human-like robot that astronauts control from space](https://www.space.com/astronaut-space-robot-rollin-justin-experiment)
-- [HerMD opening new women’s health clinics following $18M extension](https://techcrunch.com/2023/07/28/hermd-womens-healthcare-18m/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [We can measure dark energy across the universe in our own cosmic backyard](https://www.space.com/dark-energy-measure-expanding-universe)
+- [Announcing the AI Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023/)
+- [It’s always earnings season if you look hard enough](https://techcrunch.com/2023/07/28/its-always-earnings-season-if-you-look-hard-enough/)
+- [Boys Club co-founders want crypto skeptics to see it as a tool, ‘not just a vehicle for finance or investments’](https://techcrunch.com/2023/07/28/boys-club-co-founders-want-crypto-skeptics-to-see-it-as-a-tool-not-just-a-vehicle-for-finance-or-investments/)
+- [How will space tourism be impacted by the Titan submersible tragedy?](https://www.space.com/spaceflight-titan-submersible-tragedy-impacts)
+- [Sequoia Capital cuts crypto, ecosystem funds by over 50% as it continues to downsize](https://techcrunch.com/2023/07/28/sequoia-cuts-crypto-and-ecosystem-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
