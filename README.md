@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What makes everyone so sure SAFE rounds are founder-friendly?](https://techcrunch.com/2023/07/28/what-makes-everyone-so-sure-safe-rounds-are-founder-friendly/)
+- [Apple’s App Store tightens up on user privacy with new rules for app developers](https://techcrunch.com/2023/07/28/apples-app-store-tightens-up-on-user-privacy-with-new-rules-for-app-developers/)
+- [I visited the dark web, and all I got was…](https://techcrunch.com/2023/07/28/the-dark-web-gift-shop/)
 - [NASA&#39;s Juno Jupiter probe to get closest view of volcanic moon Io on July 30](https://www.space.com/nasa-juno-jupiter-moon-io-closest-july-30)
 - [As Threads soars, Twitter rival Bluesky adopts a new personalized, algorithmic feed](https://techcrunch.com/2023/07/28/as-threads-soars-twitter-rival-bluesky-adopts-a-new-personalized-algorithmic-feed/)
-- [Announcing the AI Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/28/announcing-the-ai-stage-agenda-at-techcrunch-disrupt-2023/)
-- [It’s always earnings season if you look hard enough](https://techcrunch.com/2023/07/28/its-always-earnings-season-if-you-look-hard-enough/)
-- [Boys Club co-founders want crypto skeptics to see it as a tool, ‘not just a vehicle for finance or investments’](https://techcrunch.com/2023/07/28/boys-club-co-founders-want-crypto-skeptics-to-see-it-as-a-tool-not-just-a-vehicle-for-finance-or-investments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
