@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Andy McLoughlin of Uncork Capital on the firm’s new funds, succession, and why next year could be a bloodbath for many startups &lpar;sorry, startups&rpar;](https://techcrunch.com/2023/07/27/andy-mcloughlin-of-uncork-capital-on-the-firms-new-funds-succession-and-why-next-year-could-be-a-bloodbath-for-many-startups-sorry-startups/)
+- [Andy McLoughlin of Uncork Capital on the firm’s new funds, succession, and why next year could be a bloodbath &lpar;sorry, startups&rpar;](https://techcrunch.com/2023/07/27/andy-mcloughlin-of-uncork-capital-on-the-firms-new-funds-succession-and-why-next-year-could-be-a-bloodbath-for-many-startups-sorry-startups/)
 - [Volkswagen’s Xpeng deal sets example for EV alliance between the West and China](https://techcrunch.com/2023/07/27/volkswagens-xpeng-deal-sets-example-for-ev-alliance-between-the-west-and-china/)
 - [A new study found that Facebook’s Pages and Groups shape its ideological echo chambers](https://techcrunch.com/2023/07/27/a-new-study-found-that-facebooks-pages-and-groups-shape-its-ideological-echo-chambers/)
 - [US, Australia cyber agencies warn IDOR security flaws can be exploited ‘at scale’](https://techcrunch.com/2023/07/27/cisa-nsa-australia-idor-flaws/)
