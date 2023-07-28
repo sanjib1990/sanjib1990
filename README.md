@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble telescope sees an angry star and an evaporating planet](https://www.space.com/hubble-telescope-sees-angry-star-evaporating-planet)
 - [Japan gearing up to launch small moon lander next month](https://www.space.com/japan-slim-moon-lander-launch-august-2023)
 - [James Webb Space Telescope spies giant cosmic question mark in deep space &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-question-mark-galaxy-photo)
 - [If it hadn’t been for them meddlin’ kids](https://techcrunch.com/2023/07/28/if-it-hadnt-been-for-them-meddlin-kids/)
 - [Twitter, now X, opens up its ad revenue sharing program with global creators](https://techcrunch.com/2023/07/28/twitter-now-x-opens-up-its-ad-revenue-sharing-program-with-global-creators/)
-- [&#39;Futurama&#39; relaunches on Hulu with a hilarious Season 11 premiere &lpar;review&rpar;](https://www.space.com/futurama-season-11-premiere-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
