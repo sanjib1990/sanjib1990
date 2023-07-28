@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3D-printed hearts on ISS could help astronauts travel to deep space](https://www.space.com/international-space-station-3d-printed-hearts-astronauts-deep-space-travel)
+- [Startups, apply to the Space Domain Awareness Challenge Pitch-off at TC Disrupt 2023](https://techcrunch.com/2023/07/28/startups-apply-to-the-space-domain-awareness-challenge-pitch-off-at-tc-disrupt-2023/)
+- [Global web3 venture funding on pace to decline for seventh straight quarter](https://techcrunch.com/2023/07/28/web3-slow-dealmaking/)
 - [What makes everyone so sure SAFE rounds are founder-friendly?](https://techcrunch.com/2023/07/28/what-makes-everyone-so-sure-safe-rounds-are-founder-friendly/)
 - [Apple’s App Store tightens up on user privacy with new rules for app developers](https://techcrunch.com/2023/07/28/apples-app-store-tightens-up-on-user-privacy-with-new-rules-for-app-developers/)
-- [I visited the dark web, and all I got was…](https://techcrunch.com/2023/07/28/the-dark-web-gift-shop/)
-- [NASA&#39;s Juno Jupiter probe to get closest view of volcanic moon Io on July 30](https://www.space.com/nasa-juno-jupiter-moon-io-closest-july-30)
-- [As Threads soars, Twitter rival Bluesky adopts a new personalized, algorithmic feed](https://techcrunch.com/2023/07/28/as-threads-soars-twitter-rival-bluesky-adopts-a-new-personalized-algorithmic-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
