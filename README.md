@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If it hadn’t been for them meddlin’ kids](https://techcrunch.com/2023/07/28/if-it-hadnt-been-for-them-meddlin-kids/)
+- [Twitter, now X, opens up its ad revenue sharing program with global creators](https://techcrunch.com/2023/07/28/twitter-now-x-opens-up-its-ad-revenue-sharing-program-with-global-creators/)
+- [&#39;Futurama&#39; relaunches on Hulu with a hilarious Season 11 premiere &lpar;review&rpar;](https://www.space.com/futurama-season-11-premiere-review)
+- [Extremely distant galaxy reveals stories of stars from their cradles to their graves](https://www.space.com/distant-galaxy-stars-cradle-graves)
 - [NASA is launching its own streaming service later this year](https://techcrunch.com/2023/07/28/nasa-is-launching-its-own-streaming-service-later-this-year/)
-- [Pitch Deck Teardown: Unito’s $20M Series B deck](https://techcrunch.com/2023/07/28/sample-series-b-pitch-deck-unito/)
-- [SpaceX rocket double play! Falcon 9 soars over Falcon Heavy in gorgeous launch photo](https://www.space.com/spacex-falcon-9-falcon-heavy-launch-photo-july-2023)
-- [Worldcoin’s official launch triggers swift privacy scrutiny in Europe](https://techcrunch.com/2023/07/28/world-gdpr-concerns/)
-- [Fan fiction writers rally fandoms against KOSA, the bill purporting to protect kids online](https://techcrunch.com/2023/07/28/fan-fiction-writers-rally-fandoms-against-kosa-the-bill-purporting-to-protect-kids-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
