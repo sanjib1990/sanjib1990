@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new study found that Facebook’s Pages and Groups shape its ideological echo chambers](https://techcrunch.com/2023/07/27/a-new-study-found-that-facebooks-pages-and-groups-shape-its-ideological-echo-chambers/)
 - [US, Australia cyber agencies warn IDOR security flaws can be exploited ‘at scale’](https://techcrunch.com/2023/07/27/cisa-nsa-australia-idor-flaws/)
 - [Ford’s Q2 earnings show a thriving trucks, commercial business with EVs playing catch-up](https://techcrunch.com/2023/07/27/fords-q2-earnings-show-a-thriving-trucks-commercial-business-with-evs-playing-catch-up/)
 - [Life on &#39;Mars:&#39; Commander of NASA&#39;s 1st yearlong analog comments on 1st month, food and stars](https://www.space.com/nasa-chapea-analog-mars-mission-one-month-interview)
 - [Three more VCs sign on to Startup Battlefield at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/27/three-more-vcs-sign-on-to-startup-battlefield-at-techcrunch-disrupt-2023/)
-- [Mobile website builder Universe launches AI-powered designer](https://techcrunch.com/2023/07/27/mobile-website-builder-universe-launches-ai-powered-designer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
