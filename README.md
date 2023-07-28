@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z-backed Rewind launches an iPhone app to help you remember everything](https://techcrunch.com/2023/07/28/a16z-backed-rewind-launches-an-iphone-app-to-help-you-remember-everything/)
+- [Meet Rollin&#39; Justin, the human-like robot that astronauts control from space](https://www.space.com/astronaut-space-robot-rollin-justin-experiment)
+- [HerMD opening new women’s health clinics following $18M extension](https://techcrunch.com/2023/07/28/hermd-womens-healthcare-18m/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [We can measure dark energy across the universe in our own cosmic backyard](https://www.space.com/dark-energy-measure-expanding-universe)
-- [Cyber insurance audit: Painful necessity, or a valuable opportunity?](https://techcrunch.com/2023/07/28/cyber-insurance-audit-painful-necessity-or-a-valuable-opportunity/)
-- [Pollen is a professional development platform for tech workers, by tech workers](https://techcrunch.com/2023/07/28/pollen-is-a-new-professional-development-platform-for-tech-workers/)
-- [Former Hulu exec is building a go-to remittance app for Indian expats](https://techcrunch.com/2023/07/28/abound-times-group-hulu-executive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
