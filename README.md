@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Travel through an intergalactic wormhole in &#39;The Marvels&#39; trailer](https://www.space.com/marvels-trailer-intergalactic-wormhole)
 - [CISA’s security-by-design initiative is at risk: Here’s a path forward](https://techcrunch.com/2023/07/29/cisas-security-by-design-initiative-is-at-risk-heres-a-path-forward/)
 - [Could Earth ever become a rogue planet?](https://www.space.com/earth-become-rogue-planet-sun-death)
 - [Watch Rocket Lab launch Earth-observing radar satellite early on July 30](https://www.space.com/rocket-lab-launch-we-love-the-nightlife)
 - [Watch Indian rocket launch 7 satellites to orbit today](https://www.space.com/india-pslv-rocket-ds-sar-launch)
-- [Watch SpaceX test new Starship water-deluge system for 1st time &lpar;video&rpar;](https://www.space.com/spacex-starship-water-deluge-system-first-test-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
