@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In AI-enabled drug discovery, there might be more than one winner](https://techcrunch.com/2023/07/29/ai-enabled-drug-discovery/)
 - [Abundant opportunities for founders at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/29/abundant-opportunities-for-founders-at-techcrunch-disrupt-2023/)
 - [Deal Dive: Cutting through the noise in a category clouded by catastrophic failure](https://techcrunch.com/2023/07/29/vital-bio-blood-testing-theranos/)
 - [Travel through an intergalactic wormhole in &#39;The Marvels&#39; trailer](https://www.space.com/marvels-trailer-intergalactic-wormhole)
 - [CISA’s security-by-design initiative is at risk: Here’s a path forward](https://techcrunch.com/2023/07/29/cisas-security-by-design-initiative-is-at-risk-heres-a-path-forward/)
-- [Could Earth ever become a rogue planet?](https://www.space.com/earth-become-rogue-planet-sun-death)
 <!-- BLOG-POST-LIST:END -->
 
 ---
