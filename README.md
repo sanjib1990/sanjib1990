@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could Earth ever become a rogue planet?](https://www.space.com/earth-become-rogue-planet-sun-death)
 - [Watch Rocket Lab launch Earth-observing radar satellite early on July 30](https://www.space.com/rocket-lab-launch-we-love-the-nightlife)
 - [Watch Indian rocket launch 7 satellites to orbit today](https://www.space.com/india-pslv-rocket-ds-sar-launch)
 - [Watch SpaceX test new Starship water-deluge system for 1st time &lpar;video&rpar;](https://www.space.com/spacex-starship-water-deluge-system-first-test-video)
 - [Hubble telescope sees an angry star and an evaporating planet](https://www.space.com/hubble-telescope-sees-angry-star-evaporating-planet)
-- [Japan gearing up to launch small moon lander next month](https://www.space.com/japan-slim-moon-lander-launch-august-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
