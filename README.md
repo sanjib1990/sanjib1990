@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Abundant opportunities for founders at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/29/abundant-opportunities-for-founders-at-techcrunch-disrupt-2023/)
+- [Deal Dive: Cutting through the noise in a category clouded by catastrophic failure](https://techcrunch.com/2023/07/29/vital-bio-blood-testing-theranos/)
 - [Travel through an intergalactic wormhole in &#39;The Marvels&#39; trailer](https://www.space.com/marvels-trailer-intergalactic-wormhole)
 - [CISA’s security-by-design initiative is at risk: Here’s a path forward](https://techcrunch.com/2023/07/29/cisas-security-by-design-initiative-is-at-risk-heres-a-path-forward/)
 - [Could Earth ever become a rogue planet?](https://www.space.com/earth-become-rogue-planet-sun-death)
-- [Watch Rocket Lab launch Earth-observing radar satellite early on July 30](https://www.space.com/rocket-lab-launch-we-love-the-nightlife)
-- [Watch Indian rocket launch 7 satellites to orbit today](https://www.space.com/india-pslv-rocket-ds-sar-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
