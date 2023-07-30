@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New satellite will able to see &#39;X-ray rainbow&#39; from huge objects in space](https://www.space.com/xrism-cosmic-x-ray-imaging-satellite-mission)
 - [UK spaceport unearths a Bronze Age surprise ahead of 1st rocket launches this year](https://www.space.com/uk-spaceport-rocket-launches-prepare-bronze-age-find)
 - [Moon mining gains momentum as private companies plan for a lunar economy](https://www.space.com/moon-mining-gains-momentum)
 - [Twitter rebrands to ‘X,’ hackers infect Call of Duty, and foreign visitors to China go cashless](https://techcrunch.com/2023/07/29/twitter-rebrands-to-x-hackers-infect-call-of-duty-and-foreign-visitors-to-china-go-cashless/)
 - [In AI-enabled drug discovery, there might be more than one winner](https://techcrunch.com/2023/07/29/ai-enabled-drug-discovery/)
-- [Abundant opportunities for founders at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/29/abundant-opportunities-for-founders-at-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
