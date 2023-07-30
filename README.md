@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can we trust automakers to build an EV charging network that rivals Tesla’s Supercharger?](https://techcrunch.com/2023/07/30/ev-charging-tesla-superchargers-rivals/)
 - [When you’ve got two exits under your belt by the age of 26](https://techcrunch.com/2023/07/30/when-youve-got-two-exits-under-your-belt-by-the-age-of-26/)
 - [This week in food tech: New fund shows food investments are still simmering](https://techcrunch.com/2023/07/30/this-week-in-food-tech-new-fund/)
 - [New satellite will able to see &#39;X-ray rainbow&#39; from huge objects in space](https://www.space.com/xrism-cosmic-x-ray-imaging-satellite-mission)
 - [UK spaceport unearths a Bronze Age surprise ahead of 1st rocket launches this year](https://www.space.com/uk-spaceport-rocket-launches-prepare-bronze-age-find)
-- [Moon mining gains momentum as private companies plan for a lunar economy](https://www.space.com/moon-mining-gains-momentum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
