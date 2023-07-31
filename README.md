@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s cutthroat e-commerce tactic goes global as Shein-Temu war escalates](https://techcrunch.com/2023/07/31/chinas-cutthroat-e-commerce-tactic-goes-global-as-shein-temu-war-escalates/)
 - [X reinstates Kanye West’s account after Musk banned him last year](https://techcrunch.com/2023/07/30/x-reinstates-kanye-wests-account-after-musk-banned-him-last-year/)
 - [Fidelity deepens valuation cut for SaaS startup Gupshup](https://techcrunch.com/2023/07/30/fidelity-deepens-valuation-cut-for-saas-startup-gupshup/)
 - [Walmart pays $1.4 billion to buy Tiger Global’s remaining Flipkart stake](https://techcrunch.com/2023/07/30/walmart-flipkart-tiger-global/)
 - [Tesla’s range-flation problem, Waymo reverses on self-driving trucks and Ford tweaks its EV playbook](https://techcrunch.com/2023/07/30/teslas-range-flation-problem-waymo-reverses-on-self-driving-trucks-and-ford-tweaks-its-ev-playbook/)
-- [Is Black news VC backable?](https://techcrunch.com/2023/07/30/is-black-news-vc-backable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
