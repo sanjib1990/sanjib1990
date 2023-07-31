@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s range-flation problem, Waymo reverses on self-driving trucks and Ford tweaks its EV playbook](https://techcrunch.com/2023/07/30/teslas-range-flation-problem-waymo-reverses-on-self-driving-trucks-and-ford-tweaks-its-ev-playbook/)
 - [Is Black news VC backable?](https://techcrunch.com/2023/07/30/is-black-news-vc-backable/)
 - [Can we trust automakers to build an EV charging network that rivals Tesla’s Supercharger?](https://techcrunch.com/2023/07/30/ev-charging-tesla-superchargers-rivals/)
 - [When you’ve got two exits under your belt by the age of 26](https://techcrunch.com/2023/07/30/when-youve-got-two-exits-under-your-belt-by-the-age-of-26/)
 - [This week in food tech: New fund shows food investments are still simmering](https://techcrunch.com/2023/07/30/this-week-in-food-tech-new-fund/)
-- [New satellite will able to see &#39;X-ray rainbow&#39; from huge objects in space](https://www.space.com/xrism-cosmic-x-ray-imaging-satellite-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
