@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Social commerce DealShare’s CEO steps down](https://techcrunch.com/2023/07/31/social-commerce-dealshares-ceo-steps-down/)
+- [City-size comet headed toward Earth &#39;grows horns&#39; after massive volcanic eruption](https://www.space.com/comet-grows-horns-volcanic-eruption)
+- [Apple greenlights Twitter app’s rebrand to X](https://techcrunch.com/2023/07/31/apple-greenlights-twitter-apps-rebrand-to-x/)
 - [Strengthening security in a multi-SaaS cloud environment](https://techcrunch.com/2023/07/31/strengthening-security-in-a-multi-saas-cloud-environment/)
 - [Italy accepts data portability offer from Google to settle antitrust complaint](https://techcrunch.com/2023/07/31/google-data-portability-commitments-italy/)
-- [August&#39;s Full Sturgeon Moon rises tomorrow, 1st of 2 supermoons this month](https://www.space.com/august-supermoon-sturgeon-full-moon)
-- [China has sent more than 100 types of seeds to its Tiangong space station](https://www.space.com/china-launches-seeds-to-space-station-tiangong)
-- [China’s cutthroat e-commerce tactic goes global as Shein-Temu war escalates](https://techcrunch.com/2023/07/31/chinas-cutthroat-e-commerce-tactic-goes-global-as-shein-temu-war-escalates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
