@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [8BitDo’s NES-themed mechanical keyboard comes with truly large A and B ‘super buttons’](https://techcrunch.com/2023/07/31/8bitdos-nes-themed-mechanical-keyboard-comes-with-truly-large-a-and-b-super-buttons/)
-- [Tech spending has remained surprisingly stable in 2023](https://techcrunch.com/2023/07/31/2023-tech-spending-stable/)
-- [Queen legend Brian May helped NASA ace its asteroid-sampling mission, new book reveals](https://www.space.com/queen-brian-may-osiris-rex-asteroid-book)
-- [Twitter’s rebrand is a go, and we’re Blazing Our Collective Glory](https://techcrunch.com/2023/07/31/twitters-rebrand-is-a-go-and-were-blazing-our-collective-glory/)
-- [Disney+ drops ‘Loki’ Season 2 teaser trailer](https://techcrunch.com/2023/07/31/disney-drops-loki-season-2-teaser-trailer/)
+- [SpaceX tested ‘mega steel pancake’ water deluge system for Starship](https://techcrunch.com/2023/07/31/spacex-tested-mega-steel-pancake-water-deluge-system-for-starship/)
+- [VC Office Hours: Black Girls Code founder Kimberly Bryant starts a new chapter](https://techcrunch.com/2023/07/31/vc-office-hours-black-girls-code-founder-kimberly-bryant-starts-a-new-chapter/)
+- [Elon Musk’s lawyers accuse non-profit of colluding with Twitter rivals](https://techcrunch.com/2023/07/31/elon-musks-lawyers-accuse-non-profit-of-colluding-with-twitter-rivals/)
+- [New Relic agrees to go private in $6.5B all-cash deal](https://techcrunch.com/2023/07/31/new-relic-agrees-to-go-private-in-6-5b-all-cash-deal/)
+- [Call of Duty worm malware used to hack players exploits years-old bug](https://techcrunch.com/2023/07/31/call-of-duty-worm-malware-used-to-hack-players-exploits-years-old-bug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
