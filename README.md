@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Greenland ice sheets are weaker to climate change than we thought](https://www.space.com/climate-change-greenland-ice-sheet-sea-rise)
-- [Bloom wants to teach teens how to build wealth](https://techcrunch.com/2023/07/31/bloom-wants-to-teach-teens-how-to-build-wealth-fintech/)
-- [How to change back to the old Twitter app icon on iOS](https://techcrunch.com/2023/07/31/how-to-change-back-to-the-old-twitter-app-icon-on-ios/)
-- [See Artemis 2 moon astronauts train with US Navy for Orion splashdown &lpar;photos, video&rpar;](https://www.space.com/artemis-2-us-navy-moon-astronauts-orion-splashdown-training)
-- [Apple confirms a Screen Time bug is causing settings not to stick](https://techcrunch.com/2023/07/31/apple-confirms-a-screen-time-bug-is-causing-settings-not-to-stick/)
+- [8BitDo’s NES-themed mechanical keyboard comes with truly large A and B ‘super buttons’](https://techcrunch.com/2023/07/31/8bitdos-nes-themed-mechanical-keyboard-comes-with-truly-large-a-and-b-super-buttons/)
+- [Tech spending has remained surprisingly stable in 2023](https://techcrunch.com/2023/07/31/2023-tech-spending-stable/)
+- [Queen legend Brian May helped NASA ace its asteroid-sampling mission, new book reveals](https://www.space.com/queen-brian-may-osiris-rex-asteroid-book)
+- [Twitter’s rebrand is a go, and we’re Blazing Our Collective Glory](https://techcrunch.com/2023/07/31/twitters-rebrand-is-a-go-and-were-blazing-our-collective-glory/)
+- [Disney+ drops ‘Loki’ Season 2 teaser trailer](https://techcrunch.com/2023/07/31/disney-drops-loki-season-2-teaser-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
