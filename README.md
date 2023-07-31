@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Topline Pro grabs $12M in new capital to help home service businesses get discovered](https://techcrunch.com/2023/07/31/topline-pro-12m-home-service-enterprise/)
-- [Threat intelligence startup Cyble lands $24M investment](https://techcrunch.com/2023/07/31/threat-intelligence-startup-cyble-lands-24m-investment/)
-- [Xenomorph queen preys on a dark world in Marvel&#39;s &#39;Alien Annual #1&#39;](https://www.space.com/marvel-alien-annual-xenomorph-comic)
-- [Social commerce DealShare’s CEO steps down](https://techcrunch.com/2023/07/31/social-commerce-dealshares-ceo-steps-down/)
-- [City-size comet headed toward Earth &#39;grows horns&#39; after massive volcanic eruption](https://www.space.com/comet-grows-horns-volcanic-eruption)
+- [Greenland ice sheets are weaker to climate change than we thought](https://www.space.com/climate-change-greenland-ice-sheet-sea-rise)
+- [Bloom wants to teach teens how to build wealth](https://techcrunch.com/2023/07/31/bloom-wants-to-teach-teens-how-to-build-wealth-fintech/)
+- [How to change back to the old Twitter app icon on iOS](https://techcrunch.com/2023/07/31/how-to-change-back-to-the-old-twitter-app-icon-on-ios/)
+- [See Artemis 2 moon astronauts train with US Navy for Orion splashdown &lpar;photos, video&rpar;](https://www.space.com/artemis-2-us-navy-moon-astronauts-orion-splashdown-training)
+- [Apple confirms a Screen Time bug is causing settings not to stick](https://techcrunch.com/2023/07/31/apple-confirms-a-screen-time-bug-is-causing-settings-not-to-stick/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
