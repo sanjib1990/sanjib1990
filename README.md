@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC sues Richard Heart and his projects Hex, PulseChain and Pulse X for fraud, securities violations](https://techcrunch.com/2023/07/31/sec-sues-richard-heart-and-his-projects-hex-pulsechain-and-pulse-x-for-fraud-securities-violations/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Kevin Systrom talks AI and his post-Instagram social app at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/31/kevin-systrom-talks-ai-and-his-post-instagram-social-app-at-techcrunch-disrupt-2023/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 - [SpaceX tested ‘mega steel pancake’ water deluge system for Starship](https://techcrunch.com/2023/07/31/spacex-tested-mega-steel-pancake-water-deluge-system-for-starship/)
-- [VC Office Hours: Black Girls Code founder Kimberly Bryant starts a new chapter](https://techcrunch.com/2023/07/31/vc-office-hours-black-girls-code-founder-kimberly-bryant-starts-a-new-chapter/)
-- [Elon Musk’s lawyers accuse non-profit of colluding with Twitter rivals](https://techcrunch.com/2023/07/31/elon-musks-lawyers-accuse-non-profit-of-colluding-with-twitter-rivals/)
-- [New Relic agrees to go private in $6.5B all-cash deal](https://techcrunch.com/2023/07/31/new-relic-agrees-to-go-private-in-6-5b-all-cash-deal/)
-- [Call of Duty worm malware used to hack players exploits years-old bug](https://techcrunch.com/2023/07/31/call-of-duty-worm-malware-used-to-hack-players-exploits-years-old-bug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
