@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to succeed in today’s grocery delivery market](https://techcrunch.com/2023/07/31/misfits-market-instant-grocery-delivery-market/)
+- [Elon Musk is probably right about one thing](https://techcrunch.com/2023/07/31/elon-musk-is-probably-right-about-one-thing/)
+- [Argentina signs NASA&#39;s Artemis Accords for peaceful moon exploration](https://www.space.com/nasa-artemis-accords-argentina-signs-agreement)
 - [GM begins shipping a pricier-than-expected Chevy Blazer EV](https://techcrunch.com/2023/07/31/gm-begins-shipping-a-pricier-than-expected-chevy-blazer-ev/)
 - [New Relic’s sale tells us much about the value of middling growth today](https://techcrunch.com/2023/07/31/new-relics-sale-analysis/)
-- [Watch Lance Armstrong and Andy Richter take out the astronaut trash in &#39;Stars on Mars&#39; &lpar;video&rpar;](https://www.space.com/stars-on-mars-lance-armstrong-andy-richter-clip)
-- [Would-be Twitter rival T2 adds DMs — a feature others, including Threads, don’t yet have](https://techcrunch.com/2023/07/31/would-be-twitter-rival-t2-adds-dms-a-feature-others-including-threads-dont-yet-have/)
-- [Stars with superpowered magnetic fields could narrow the search for alien life](https://www.space.com/stars-with-superpowered-magnetic-fields-narrow-search-alien-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
