@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Relic’s sale tells us much about the value of middling growth today](https://techcrunch.com/2023/07/31/new-relics-sale-analysis/)
+- [Would-be Twitter rival T2 adds DMs — a feature others, including Threads, don’t yet have](https://techcrunch.com/2023/07/31/would-be-twitter-rival-t2-adds-dms-a-feature-others-including-threads-dont-yet-have/)
+- [Stars with superpowered magnetic fields could narrow the search for alien life](https://www.space.com/stars-with-superpowered-magnetic-fields-narrow-search-alien-life)
 - [SEC sues Richard Heart and his projects Hex, PulseChain and Pulse X for fraud, securities violations](https://techcrunch.com/2023/07/31/sec-sues-richard-heart-and-his-projects-hex-pulsechain-and-pulse-x-for-fraud-securities-violations/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Kevin Systrom talks AI and his post-Instagram social app at TechCrunch Disrupt 2023](https://techcrunch.com/2023/07/31/kevin-systrom-talks-ai-and-his-post-instagram-social-app-at-techcrunch-disrupt-2023/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [SpaceX tested ‘mega steel pancake’ water deluge system for Starship](https://techcrunch.com/2023/07/31/spacex-tested-mega-steel-pancake-water-deluge-system-for-starship/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
