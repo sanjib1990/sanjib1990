@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynatrace acquires cloud-native debugging platform Rookout](https://techcrunch.com/2023/07/31/dynatrace-acquires-cloud-native-debugging-platform-rookout/)
 - [How to succeed in today’s grocery delivery market](https://techcrunch.com/2023/07/31/misfits-market-instant-grocery-delivery-market/)
+- [&#39;Strange New Worlds&#39; season 2 episode 7 features a wild crossover with &#39;Lower Decks&#39;](https://www.space.com/star-trek-strange-new-worlds-season-2-episode-7-review)
 - [Elon Musk is probably right about one thing](https://techcrunch.com/2023/07/31/elon-musk-is-probably-right-about-one-thing/)
 - [Argentina signs NASA&#39;s Artemis Accords for peaceful moon exploration](https://www.space.com/nasa-artemis-accords-argentina-signs-agreement)
-- [GM begins shipping a pricier-than-expected Chevy Blazer EV](https://techcrunch.com/2023/07/31/gm-begins-shipping-a-pricier-than-expected-chevy-blazer-ev/)
-- [New Relic’s sale tells us much about the value of middling growth today](https://techcrunch.com/2023/07/31/new-relics-sale-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
