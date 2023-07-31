@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strengthening security in a multi-SaaS cloud environment](https://techcrunch.com/2023/07/31/strengthening-security-in-a-multi-saas-cloud-environment/)
+- [Italy accepts data portability offer from Google to settle antitrust complaint](https://techcrunch.com/2023/07/31/google-data-portability-commitments-italy/)
 - [August&#39;s Full Sturgeon Moon rises tomorrow, 1st of 2 supermoons this month](https://www.space.com/august-supermoon-sturgeon-full-moon)
 - [China has sent more than 100 types of seeds to its Tiangong space station](https://www.space.com/china-launches-seeds-to-space-station-tiangong)
 - [China’s cutthroat e-commerce tactic goes global as Shein-Temu war escalates](https://techcrunch.com/2023/07/31/chinas-cutthroat-e-commerce-tactic-goes-global-as-shein-temu-war-escalates/)
-- [X reinstates Kanye West’s account after Musk banned him last year](https://techcrunch.com/2023/07/30/x-reinstates-kanye-wests-account-after-musk-banned-him-last-year/)
-- [Fidelity deepens valuation cut for SaaS startup Gupshup](https://techcrunch.com/2023/07/30/fidelity-deepens-valuation-cut-for-saas-startup-gupshup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
