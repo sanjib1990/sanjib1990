@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Solving artificial gravity with gravityLab](https://techcrunch.com/2023/07/31/max-q-solving-artificial-gravity-with-gravitylab/)
+- [Euclid &#39;dark universe&#39; telescope reveals its 1st sparkling images of the cosmos &lpar;photos&rpar;](https://www.space.com/euclid-dark-universe-telescope-1st-sparkling-images-cosmos)
+- [Europe&#39;s trailblazing wind satellite comes to a fiery end above Earth](https://www.space.com/esa-aeolus-satellite-reentry-fiery-end)
 - [Dynatrace acquires cloud-native debugging platform Rookout](https://techcrunch.com/2023/07/31/dynatrace-acquires-cloud-native-debugging-platform-rookout/)
 - [How to succeed in today’s grocery delivery market](https://techcrunch.com/2023/07/31/misfits-market-instant-grocery-delivery-market/)
-- [&#39;Strange New Worlds&#39; season 2 episode 7 features a wild crossover with &#39;Lower Decks&#39;](https://www.space.com/star-trek-strange-new-worlds-season-2-episode-7-review)
-- [Elon Musk is probably right about one thing](https://techcrunch.com/2023/07/31/elon-musk-is-probably-right-about-one-thing/)
-- [Argentina signs NASA&#39;s Artemis Accords for peaceful moon exploration](https://www.space.com/nasa-artemis-accords-argentina-signs-agreement)
 <!-- BLOG-POST-LIST:END -->
 
 ---
