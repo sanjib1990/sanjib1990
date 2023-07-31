@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Topline Pro grabs $12M in new capital to help home service businesses get discovered](https://techcrunch.com/2023/07/31/topline-pro-12m-home-service-enterprise/)
+- [Threat intelligence startup Cyble lands $24M investment](https://techcrunch.com/2023/07/31/threat-intelligence-startup-cyble-lands-24m-investment/)
+- [Xenomorph queen preys on a dark world in Marvel&#39;s &#39;Alien Annual #1&#39;](https://www.space.com/marvel-alien-annual-xenomorph-comic)
 - [Social commerce DealShare’s CEO steps down](https://techcrunch.com/2023/07/31/social-commerce-dealshares-ceo-steps-down/)
 - [City-size comet headed toward Earth &#39;grows horns&#39; after massive volcanic eruption](https://www.space.com/comet-grows-horns-volcanic-eruption)
-- [Apple greenlights Twitter app’s rebrand to X](https://techcrunch.com/2023/07/31/apple-greenlights-twitter-apps-rebrand-to-x/)
-- [Strengthening security in a multi-SaaS cloud environment](https://techcrunch.com/2023/07/31/strengthening-security-in-a-multi-saas-cloud-environment/)
-- [Italy accepts data portability offer from Google to settle antitrust complaint](https://techcrunch.com/2023/07/31/google-data-portability-commitments-italy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
