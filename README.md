@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the all-electric Volvo EX30 is such a big deal](https://techcrunch.com/2023/08/01/why-the-all-electric-volvo-ex30-is-such-a-big-deal/)
+- [Not all early-stage AI startups are created equal](https://techcrunch.com/2023/08/01/not-all-early-stage-ai-startups-are-created-equal/)
+- [Massive sun &#39;umbrella&#39; attached to asteroid could help fight global warming, scientist says](https://www.space.com/sun-umbrella-attached-to-asteroid-fight-global-warming)
+- [Tinder to launch a ‘high-end’ membership this fall amid product refresh](https://techcrunch.com/2023/08/01/tinder-to-launch-a-high-end-membership-this-fall-amid-product-refresh/)
 - [Tuesday Capital, a Silicon Valley firm that moved to Austin during the pandemic, captures $31M for its newest seed-stage fund](https://techcrunch.com/2023/08/01/tuesday-capital-a-silicon-valley-firm-that-moved-to-austin-during-the-pandemic-captures-31m-for-its-newest-seed-stage-fund/)
-- [Privateer wants to create a “data ride-sharing economy” for space](https://techcrunch.com/2023/08/01/privateer-wants-to-create-a-data-ride-sharing-economy-for-space/)
-- [Mystery of space debris found on Australian beach may be solved](https://www.space.com/space-debris-australia-mystery-may-be-solved)
-- [Samsung Galaxy Z Fold 5 review](https://techcrunch.com/2023/08/01/samsung-galaxy-z-fold-5-review/)
-- [Amazon&#39;s Project Kuiper opens satellite facility at Kennedy Space Center](https://www.space.com/amazon-satellite-facility-kennedy-space-center-project-kuiper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
