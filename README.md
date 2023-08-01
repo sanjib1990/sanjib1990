@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tuesday Capital, a Silicon Valley firm that moved to Austin during the pandemic, captures $31M for its newest seed-stage fund](https://techcrunch.com/2023/08/01/tuesday-capital-a-silicon-valley-firm-that-moved-to-austin-during-the-pandemic-captures-31m-for-its-newest-seed-stage-fund/)
+- [Privateer wants to create a “data ride-sharing economy” for space](https://techcrunch.com/2023/08/01/privateer-wants-to-create-a-data-ride-sharing-economy-for-space/)
 - [Mystery of space debris found on Australian beach may be solved](https://www.space.com/space-debris-australia-mystery-may-be-solved)
 - [Samsung Galaxy Z Fold 5 review](https://techcrunch.com/2023/08/01/samsung-galaxy-z-fold-5-review/)
 - [Amazon&#39;s Project Kuiper opens satellite facility at Kennedy Space Center](https://www.space.com/amazon-satellite-facility-kennedy-space-center-project-kuiper)
-- [Planet to lay off 10% of staff to focus on “highest ROI opportunities”](https://techcrunch.com/2023/08/01/planet-to-layoff-10-of-staff-to-focus-on-highest-roi-opportunities/)
-- [YouTube star MrBeast sues ghost kitchen behind MrBeast Burger](https://techcrunch.com/2023/08/01/youtube-star-mrbeast-sues-ghost-kitchen-behind-mrbeast-burger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
