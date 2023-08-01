@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ola’s Aggarwal sets eyes on AI, semiconductor design](https://techcrunch.com/2023/08/01/bhavish-aggarwal-ola-ai-semiconductor/)
+- [Rapyd acquires a piece of PayU from Prosus for $610M to scale its fintech-as-a-service platform](https://techcrunch.com/2023/07/31/rapyd-acquires-a-piece-of-payu-from-prosus-for-610m-to-scale-its-fintech-as-a-service-platform/)
 - [Nigeria’s Remedial Health gets QED backing in $12M round](https://techcrunch.com/2023/07/31/remedial-health/)
 - [Google Assistant reportedly pivoting to generative AI](https://techcrunch.com/2023/07/31/google-assistant-reportedly-pivoting-to-generative-ai/)
 - [Max Q: Solving artificial gravity with gravityLab](https://techcrunch.com/2023/07/31/max-q-solving-artificial-gravity-with-gravitylab/)
-- [Euclid &#39;dark universe&#39; telescope reveals its 1st sparkling images of the cosmos &lpar;photos&rpar;](https://www.space.com/euclid-dark-universe-telescope-1st-sparkling-images-cosmos)
-- [Europe&#39;s trailblazing wind satellite comes to a fiery end above Earth](https://www.space.com/esa-aeolus-satellite-reentry-fiery-end)
 <!-- BLOG-POST-LIST:END -->
 
 ---
