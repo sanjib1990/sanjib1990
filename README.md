@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [There’s no reason to panic over WormGPT](https://techcrunch.com/2023/08/01/theres-no-reason-to-panic-over-wormgpt/)
-- [Ramp expands into procurement, lands Shopify as a customer](https://techcrunch.com/2023/08/01/ramp-expands-into-procurement-lands-shopify-as-a-customer/)
-- [The forgotten story of the real first Barbie to fly into space &lpar;on a still-secret mission&rpar;](https://www.space.com/first-barbie-doll-flown-in-space)
-- [Educating VCs on your lived experience with Rebecca Rosenberg from ReBokeh](https://techcrunch.com/2023/08/01/educating-vcs-on-your-lived-experience-with-rebecca-rosenberg-from-rebokeh/)
-- [Amazon expands its virtual health clinic nationwide](https://techcrunch.com/2023/08/01/amazon-expands-its-virtual-health-clinic-nationwide/)
+- [Ford resumes F-150 Lightning production as July price cuts drive up demand](https://techcrunch.com/2023/08/01/ford-resumes-f-150-lightning-production-as-july-price-cuts-drive-up-demand/)
+- [Reed Jobs, son of Steve Jobs, takes the wraps off a $200 million venture fund that will fund new cancer treatments](https://techcrunch.com/2023/08/01/reed-jobs-son-of-steve-jobs-takes-the-wraps-off-a-200-million-venture-fund-that-will-fund-new-cancer-treatments/)
+- [Announcing the Space Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/01/announcing-the-space-stage-agenda-at-techcrunch-disrupt-2023/)
+- [YouTube experiments with AI auto-generated video summaries](https://techcrunch.com/2023/08/01/youtube-experiments-with-ai-auto-generated-video-summaries/)
+- [Researchers claim US-registered cloud host facilitated state-backed cyberattacks](https://techcrunch.com/2023/08/01/cloudzy-hosting-provider-facilitated-state-sponsored-cyberattacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
