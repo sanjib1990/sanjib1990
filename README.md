@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Allo is a new app that aims to help people create positive habits with their finances through mindfulness](https://techcrunch.com/2023/08/01/allo-is-a-new-app-that-wants-to-help-people-create-positive-habits-with-their-finances-through-mindfulness/)
-- [TechCrunch+ Roundup: SaaS architecture, Kimberly Bryant’s next move, managing cloud security](https://techcrunch.com/2023/08/01/techcrunch-roundup-saas-architecture-kimberly-bryants-next-move-managing-cloud-security/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Meta is reportedly preparing to release AI-powered chatbots with different personas](https://techcrunch.com/2023/08/01/meta-release-ai-powered-chatbots-with-different-personas/)
-- [In challenge to TikTok, YouTube Shorts gains new creation tools like Collab and Q&amp;As](https://techcrunch.com/2023/08/01/in-challenge-to-tiktok-youtube-shorts-gains-new-creation-tools-like-collab-and-qas/)
+- [Amazon&#39;s Project Kuiper opens satellite facility at Kennedy Space Center](https://www.space.com/amazon-satellite-facility-kennedy-space-center-project-kuiper)
+- [Planet to layoff 10% of staff to focus on “highest ROI opportunities”](https://techcrunch.com/2023/08/01/planet-to-layoff-10-of-staff-to-focus-on-highest-roi-opportunities/)
+- [YouTube star MrBeast sues ghost kitchen behind MrBeast Burger](https://techcrunch.com/2023/08/01/youtube-star-mrbeast-sues-ghost-kitchen-behind-mrbeast-burger/)
+- [NHTSA probes 280,000 new Teslas over loss of steering control](https://techcrunch.com/2023/08/01/nhtsa-probes-280000-new-teslas-over-loss-of-steering-control/)
+- [Curve Finance’s $62M exploit exposes larger issues for DeFi ecosystem](https://techcrunch.com/2023/08/01/curve-finances-62m-exploit-exposes-larger-issues-for-defi-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
