@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mystery of space debris found on Australian beach may be solved](https://www.space.com/space-debris-australia-mystery-may-be-solved)
+- [Samsung Galaxy Z Fold 5 review](https://techcrunch.com/2023/08/01/samsung-galaxy-z-fold-5-review/)
 - [Amazon&#39;s Project Kuiper opens satellite facility at Kennedy Space Center](https://www.space.com/amazon-satellite-facility-kennedy-space-center-project-kuiper)
-- [Planet to layoff 10% of staff to focus on “highest ROI opportunities”](https://techcrunch.com/2023/08/01/planet-to-layoff-10-of-staff-to-focus-on-highest-roi-opportunities/)
+- [Planet to lay off 10% of staff to focus on “highest ROI opportunities”](https://techcrunch.com/2023/08/01/planet-to-layoff-10-of-staff-to-focus-on-highest-roi-opportunities/)
 - [YouTube star MrBeast sues ghost kitchen behind MrBeast Burger](https://techcrunch.com/2023/08/01/youtube-star-mrbeast-sues-ghost-kitchen-behind-mrbeast-burger/)
-- [NHTSA probes 280,000 new Teslas over loss of steering control](https://techcrunch.com/2023/08/01/nhtsa-probes-280000-new-teslas-over-loss-of-steering-control/)
-- [Curve Finance’s $62M exploit exposes larger issues for DeFi ecosystem](https://techcrunch.com/2023/08/01/curve-finances-62m-exploit-exposes-larger-issues-for-defi-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
