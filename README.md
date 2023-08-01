@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NATO announces $1B fund to back startups supporting ‘safety, freedom and human empowerment’](https://techcrunch.com/2023/08/01/nato-announces-1b-fund-to-back-startups-supporting-safety-freedom-and-human-empowerment/)
 - [Ola’s Aggarwal sets eyes on AI, semiconductor design](https://techcrunch.com/2023/08/01/bhavish-aggarwal-ola-ai-semiconductor/)
 - [Rapyd acquires a piece of PayU from Prosus for $610M to scale its fintech-as-a-service platform](https://techcrunch.com/2023/07/31/rapyd-acquires-a-piece-of-payu-from-prosus-for-610m-to-scale-its-fintech-as-a-service-platform/)
 - [Nigeria’s Remedial Health gets QED backing in $12M round](https://techcrunch.com/2023/07/31/remedial-health/)
 - [Google Assistant reportedly pivoting to generative AI](https://techcrunch.com/2023/07/31/google-assistant-reportedly-pivoting-to-generative-ai/)
-- [Max Q: Solving artificial gravity with gravityLab](https://techcrunch.com/2023/07/31/max-q-solving-artificial-gravity-with-gravitylab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
