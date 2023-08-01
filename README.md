@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Traction raises $6M seed as Nigerian merchant acquiring space continues to heat up](https://techcrunch.com/2023/08/01/traction-raises-6m-seed-as-nigerian-merchant-acquiring-space-continues-to-heat-up/)
-- [Reddit updates its site design for logged-out users](https://techcrunch.com/2023/08/01/reddit-updates-its-site-design-for-logged-out-users/)
-- [NATO announces $1B fund to back startups supporting ‘safety, freedom and human empowerment’](https://techcrunch.com/2023/08/01/nato-announces-1b-fund-to-back-startups-supporting-safety-freedom-and-human-empowerment/)
-- [Ola’s Aggarwal sets eyes on AI, semiconductor design](https://techcrunch.com/2023/08/01/bhavish-aggarwal-ola-ai-semiconductor/)
-- [Rapyd acquires a piece of PayU from Prosus for $610M to scale its fintech-as-a-service platform](https://techcrunch.com/2023/07/31/rapyd-acquires-a-piece-of-payu-from-prosus-for-610m-to-scale-its-fintech-as-a-service-platform/)
+- [How SaaS architecture impacts pricing and profitability](https://techcrunch.com/2023/08/01/how-saas-architecture-impacts-pricing-and-profitability/)
+- [Watch the supermoon of August 2023 rise today with free telescope livestream &lpar;video&rpar;](https://www.space.com/full-moon-supermoon-sturgeon-august-2023-livestream)
+- [Watch an Antares rocket launch to the International Space Station tonight](https://www.space.com/international-space-station-resupply-ng-19-antares-launch)
+- [Vanguard cuts Indian ride-hailing giant Ola’s valuation by 52%](https://techcrunch.com/2023/08/01/vanguard-ola-valuation/)
+- [Traction raises $6M seed as Nigeria’s merchant acquiring space continues to heat up](https://techcrunch.com/2023/08/01/traction-raises-6m-seed-as-nigerian-merchant-acquiring-space-continues-to-heat-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
