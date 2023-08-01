@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Allo is a new app that aims to help people create positive habits with their finances through mindfulness](https://techcrunch.com/2023/08/01/allo-is-a-new-app-that-wants-to-help-people-create-positive-habits-with-their-finances-through-mindfulness/)
+- [TechCrunch+ Roundup: SaaS architecture, Kimberly Bryant’s next move, managing cloud security](https://techcrunch.com/2023/08/01/techcrunch-roundup-saas-architecture-kimberly-bryants-next-move-managing-cloud-security/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
+- [Meta is reportedly preparing to release AI-powered chatbots with different personas](https://techcrunch.com/2023/08/01/meta-release-ai-powered-chatbots-with-different-personas/)
 - [In challenge to TikTok, YouTube Shorts gains new creation tools like Collab and Q&amp;As](https://techcrunch.com/2023/08/01/in-challenge-to-tiktok-youtube-shorts-gains-new-creation-tools-like-collab-and-qas/)
-- [Kickstarter requires generative AI projects to disclose additional info](https://techcrunch.com/2023/08/01/kickstarter-requires-generative-ai-projects-to-disclose-additional-info/)
-- [Read-it-later app Pocket to shut down its Mac app on August 15th](https://techcrunch.com/2023/08/01/read-it-later-app-pocket-to-shut-down-its-mac-app-on-august-15th/)
-- [Everything we know about Armored Core VI: Fires of Rubicon — Release date, plot, gameplay](https://www.space.com/armored-core-vi-fires-of-rubicon-release-date-gameplay-plot-platforms)
-- [Uber is now a profitable, cash-generating machine](https://techcrunch.com/2023/08/01/uber-profitable-earnings-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
