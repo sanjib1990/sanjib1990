@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tradeshift raises $70M, launches financing JV with HSBC focused on B2B trade](https://techcrunch.com/2023/08/01/tradeshift-raises-70m-launches-financing-jv-with-hsbc-focused-on-b2b-trade/)
-- [Socket lands $20M investment to help companies secure open source software](https://techcrunch.com/2023/08/01/socket-lands-20m-investment-to-help-companies-secure-open-source-software/)
-- [Neon, a relational database startup, lands ~$30M investment](https://techcrunch.com/2023/08/01/neon-a-relational-database-startup-lands-30m-investment/)
-- [&#39;The Expanse&#39; still a hit with astronauts and scientists as new video game releases](https://www.space.com/the-expanse-astronauts-scientists-popular-new-video-game)
-- [Best Transformers games of all time](https://www.space.com/best-transformers-games-of-all-time)
+- [ConfiAbogado wants to put a tech touch on Latin America’s legal system](https://techcrunch.com/2023/08/01/confiabogado-wants-to-put-a-tech-touch-on-latin-americas-legal-system/)
+- [Samsung Galaxy Z Flip 5 review](https://techcrunch.com/2023/08/01/samsung-galaxy-z-flip-5-review/)
+- [&#39;Star Wars&#39; fan favorite Lando Calrissian gets his own TV series on Disney Plus](https://www.space.com/star-wars-lando-series-disney)
+- [Nile, which offers enterprise networks as a service, raises $175M](https://techcrunch.com/2023/08/01/nile-which-offers-enterprise-networks-as-a-service-raises-175m/)
+- [Fitbit is revamping its app with a three-tab layout](https://techcrunch.com/2023/08/01/fitbit-is-revamping-its-app-with-a-three-tab-layout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
