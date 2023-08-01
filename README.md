@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Steg.AI puts deep learning on the job in a clever evolution of watermarking](https://techcrunch.com/2023/08/01/steg-ai-puts-deep-learning-on-the-job-in-a-clever-evolution-of-watermarking/)
 - [How SaaS architecture impacts pricing and profitability](https://techcrunch.com/2023/08/01/how-saas-architecture-impacts-pricing-and-profitability/)
 - [Watch the supermoon of August 2023 rise today with free telescope livestream &lpar;video&rpar;](https://www.space.com/full-moon-supermoon-sturgeon-august-2023-livestream)
 - [Watch an Antares rocket launch to the International Space Station tonight](https://www.space.com/international-space-station-resupply-ng-19-antares-launch)
 - [Vanguard cuts Indian ride-hailing giant Ola’s valuation by 52%](https://techcrunch.com/2023/08/01/vanguard-ola-valuation/)
-- [Traction raises $6M seed as Nigeria’s merchant acquiring space continues to heat up](https://techcrunch.com/2023/08/01/traction-raises-6m-seed-as-nigerian-merchant-acquiring-space-continues-to-heat-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
