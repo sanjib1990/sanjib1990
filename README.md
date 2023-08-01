@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford resumes F-150 Lightning production as July price cuts drive up demand](https://techcrunch.com/2023/08/01/ford-resumes-f-150-lightning-production-as-july-price-cuts-drive-up-demand/)
-- [Reed Jobs, son of Steve Jobs, takes the wraps off a $200 million venture fund that will fund new cancer treatments](https://techcrunch.com/2023/08/01/reed-jobs-son-of-steve-jobs-takes-the-wraps-off-a-200-million-venture-fund-that-will-fund-new-cancer-treatments/)
-- [Announcing the Space Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/01/announcing-the-space-stage-agenda-at-techcrunch-disrupt-2023/)
-- [YouTube experiments with AI auto-generated video summaries](https://techcrunch.com/2023/08/01/youtube-experiments-with-ai-auto-generated-video-summaries/)
-- [Researchers claim US-registered cloud host facilitated state-backed cyberattacks](https://techcrunch.com/2023/08/01/cloudzy-hosting-provider-facilitated-state-sponsored-cyberattacks/)
+- [In challenge to TikTok, YouTube Shorts gains new creation tools like Collab and Q&amp;As](https://techcrunch.com/2023/08/01/in-challenge-to-tiktok-youtube-shorts-gains-new-creation-tools-like-collab-and-qas/)
+- [Kickstarter requires generative AI projects to disclose additional info](https://techcrunch.com/2023/08/01/kickstarter-requires-generative-ai-projects-to-disclose-additional-info/)
+- [Read-it-later app Pocket to shut down its Mac app on August 15th](https://techcrunch.com/2023/08/01/read-it-later-app-pocket-to-shut-down-its-mac-app-on-august-15th/)
+- [Everything we know about Armored Core VI: Fires of Rubicon — Release date, plot, gameplay](https://www.space.com/armored-core-vi-fires-of-rubicon-release-date-gameplay-plot-platforms)
+- [Uber is now a profitable, cash-generating machine](https://techcrunch.com/2023/08/01/uber-profitable-earnings-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
