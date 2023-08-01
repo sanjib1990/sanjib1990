@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ConfiAbogado wants to put a tech touch on Latin America’s legal system](https://techcrunch.com/2023/08/01/confiabogado-wants-to-put-a-tech-touch-on-latin-americas-legal-system/)
-- [Samsung Galaxy Z Flip 5 review](https://techcrunch.com/2023/08/01/samsung-galaxy-z-flip-5-review/)
-- [&#39;Star Wars&#39; fan favorite Lando Calrissian gets his own TV series on Disney Plus](https://www.space.com/star-wars-lando-series-disney)
-- [Nile, which offers enterprise networks as a service, raises $175M](https://techcrunch.com/2023/08/01/nile-which-offers-enterprise-networks-as-a-service-raises-175m/)
-- [Fitbit is revamping its app with a three-tab layout](https://techcrunch.com/2023/08/01/fitbit-is-revamping-its-app-with-a-three-tab-layout/)
+- [There’s no reason to panic over WormGPT](https://techcrunch.com/2023/08/01/theres-no-reason-to-panic-over-wormgpt/)
+- [Ramp expands into procurement, lands Shopify as a customer](https://techcrunch.com/2023/08/01/ramp-expands-into-procurement-lands-shopify-as-a-customer/)
+- [The forgotten story of the real first Barbie to fly into space &lpar;on a still-secret mission&rpar;](https://www.space.com/first-barbie-doll-flown-in-space)
+- [Educating VCs on your lived experience with Rebecca Rosenberg from ReBokeh](https://techcrunch.com/2023/08/01/educating-vcs-on-your-lived-experience-with-rebecca-rosenberg-from-rebokeh/)
+- [Amazon expands its virtual health clinic nationwide](https://techcrunch.com/2023/08/01/amazon-expands-its-virtual-health-clinic-nationwide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
