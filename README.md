@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord will now let you stream Xbox gameplay directly to servers and DMs](https://techcrunch.com/2023/08/02/discord-will-now-let-you-stream-xbox-gameplay-directly-to-servers-and-dms/)
-- [What is the difference between science and pseudoscience?](https://www.space.com/science-pseudoscience-what-is-the-difference)
-- [Amazon now offers Fresh grocery delivery to non-Prime members in select US cities](https://techcrunch.com/2023/08/02/amazon-offers-fresh-grocery-delivery-non-prime-members/)
-- [American-made Antares rocket debut slips to 2025](https://techcrunch.com/2023/08/02/american-made-antares-rocket-debut-slips-to-2025/)
-- [Yeah, but is that venture backable?](https://techcrunch.com/2023/08/02/yeah-but-is-that-venture-backable/)
+- [The Greyhill Incident offers the most boring UFO invasion yet](https://www.space.com/the-greyhill-incident-ufo-invasion-review)
+- [Google’s generative search feature now shows related videos and images](https://techcrunch.com/2023/08/02/googles-generative-search-feature-now-shows-related-videos-and-images/)
+- [Google brings contextual search suggestions, trending searches and more to Chrome on mobile](https://techcrunch.com/2023/08/02/google-brings-contextual-search-suggestions-trending-searches-and-more-to-chrome-on-mobile/)
+- [Tinder tests AI photo selection feature to help users build profiles](https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/)
+- [Voyager and Airbus will operate Starlab private space station via ‘transatlantic joint venture’](https://techcrunch.com/2023/08/02/voyager-and-airbus-will-operate-starlab-private-space-station-via-transatlantic-joint-venture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
