@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI’s new GoPro competitor launches at $399](https://techcrunch.com/2023/08/02/djis-new-gopro-competitor-launches-at-399/)
+- [HackerOne lays off 12% workforce as ‘one-time event’](https://techcrunch.com/2023/08/02/hackerone-layoffs/)
+- [Commentary: The old guard in venture reigns supreme](https://techcrunch.com/2023/08/02/black-founders-funding-h1-2023/)
 - [NASA hears Voyager 2 &#39;heartbeat&#39; after losing touch with interstellar probe](https://www.space.com/voyager-2-heartbeat-earth-deep-space-signal)
 - [App Store users are downrating Twitter’s rebranding to X with 1-star reviews](https://techcrunch.com/2023/08/02/app-store-users-are-downrating-twitters-rebranding-to-x-with-1-star-reviews/)
-- [Ask Sophie: Any tips for F-1 student visa approval amid the rising denial rate?](https://techcrunch.com/2023/08/02/ask-sophie-any-tips-for-f-1-student-visa-approval-amid-the-rising-denial-rate/)
-- [What if room temperature superconductors were real?](https://techcrunch.com/2023/08/02/room-temperature-superconductors/)
-- [Meta starts blocking the news in Canada — its latest standoff with publishers](https://techcrunch.com/2023/08/02/meta-starts-blocking-the-news-in-canada-its-latest-standoff-with-publishers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
