@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As spend management space heats up, Brex and Rho turn to AI startups to help power new products](https://techcrunch.com/2023/08/01/as-spend-management-space-heats-up-brex-and-rho-turn-to-ai-startups-to-help-power-new-products/)
 - [This California agency wants to know what happens to all that connected car data](https://techcrunch.com/2023/08/01/california-privacy-agency-connected-cars/)
 - [Why the all-electric Volvo EX30 is such a big deal](https://techcrunch.com/2023/08/01/why-the-all-electric-volvo-ex30-is-such-a-big-deal/)
 - [Not all early-stage AI startups are created equal](https://techcrunch.com/2023/08/01/not-all-early-stage-ai-startups-are-created-equal/)
 - [Massive sun &#39;umbrella&#39; attached to asteroid could help fight global warming, scientist says](https://www.space.com/sun-umbrella-attached-to-asteroid-fight-global-warming)
-- [Tinder to launch a ‘high-end’ membership this fall amid product refresh](https://techcrunch.com/2023/08/01/tinder-to-launch-a-high-end-membership-this-fall-amid-product-refresh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
