@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope unveils the gravitationally warped galaxies of &#39;El Gordo&#39;](https://www.space.com/james-webb-telescope-einstein-general-relativity-galaxy-warps)
+- [Apple Card’s Savings account reaches over $10 billion in deposits](https://techcrunch.com/2023/08/02/apple-cards-savings-account-reaches-over-10-billion-in-deposits/)
+- [&#39;Loki&#39; Season 2 trailer reveals the god of mischief skipping through timelines](https://www.space.com/loki-season-2-trailer-marvel)
+- [Subaru doubles its plans for new EVs, targeting 8 models by 2028](https://techcrunch.com/2023/08/02/subaru-doubles-its-plans-for-new-evs-targeting-8-models-by-2028/)
 - [&#39;Starfield&#39; animated anthology introduces gamers to its inhabited planets &lpar;videos&rpar;](https://www.space.com/starfield-animated-anthology-settled-systems)
-- [UK privacy watchdog warns Meta over plan to keep denying Brits a choice over its ad tracking](https://techcrunch.com/2023/08/02/ico-meta-warning/)
-- [Where founders go wrong with pitch decks](https://techcrunch.com/2023/08/02/where-founders-go-wrong-with-pitch-decks/)
-- [5 questions investors should be asking inception-stage generative AI founders](https://techcrunch.com/2023/08/02/5-questions-investors-should-be-asking-inception-stage-generative-ai-founders/)
-- [The Greyhill Incident offers the most boring UFO invasion yet](https://www.space.com/the-greyhill-incident-ufo-invasion-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
