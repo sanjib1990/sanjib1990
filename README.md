@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit is down, per user reports](https://techcrunch.com/2023/08/02/reddit-is-down-per-user-reports/)
 - [DJI’s new GoPro competitor launches at $399](https://techcrunch.com/2023/08/02/djis-new-gopro-competitor-launches-at-399/)
 - [HackerOne lays off 12% workforce as ‘one-time event’](https://techcrunch.com/2023/08/02/hackerone-layoffs/)
 - [Commentary: The old guard in venture reigns supreme](https://techcrunch.com/2023/08/02/black-founders-funding-h1-2023/)
 - [NASA hears Voyager 2 &#39;heartbeat&#39; after losing touch with interstellar probe](https://www.space.com/voyager-2-heartbeat-earth-deep-space-signal)
-- [App Store users are downrating Twitter’s rebranding to X with 1-star reviews](https://techcrunch.com/2023/08/02/app-store-users-are-downrating-twitters-rebranding-to-x-with-1-star-reviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
