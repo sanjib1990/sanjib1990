@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Perseid meteor shower peaks in August. Here&#39;s how to see it](https://www.space.com/perseid-meteor-shower-how-to-see-august-2023)
-- [X, formerly Twitter, streamlines its crowdsourced fact-checking system Community Notes](https://techcrunch.com/2023/08/02/x-formerly-twitter-streamlines-its-crowdsourced-fact-checking-system-community-notes/)
-- [Mondee security lapse exposed flight itineraries and unencrypted credit card numbers](https://techcrunch.com/2023/08/02/mondee-data-exposed-credit-cards-flight-itineraries/)
-- [James Webb Space Telescope unveils the gravitationally warped galaxies of &#39;El Gordo&#39;](https://www.space.com/james-webb-telescope-einstein-general-relativity-galaxy-warps)
-- [Apple Card’s Savings account reaches over $10B in deposits](https://techcrunch.com/2023/08/02/apple-cards-savings-account-reaches-over-10-billion-in-deposits/)
+- [NASA hears Voyager 2 &#39;heartbeat&#39; after losing touch with interstellar probe](https://www.space.com/voyager-2-heartbeat-earth-deep-space-signal)
+- [App Store users are downrating Twitter’s rebranding to X with 1-star reviews](https://techcrunch.com/2023/08/02/app-store-users-are-downrating-twitters-rebranding-to-x-with-1-star-reviews/)
+- [Ask Sophie: Any tips for F-1 student visa approval amid the rising denial rate?](https://techcrunch.com/2023/08/02/ask-sophie-any-tips-for-f-1-student-visa-approval-amid-the-rising-denial-rate/)
+- [What if room temperature superconductors were real?](https://techcrunch.com/2023/08/02/room-temperature-superconductors/)
+- [Meta starts blocking the news in Canada — its latest standoff with publishers](https://techcrunch.com/2023/08/02/meta-starts-blocking-the-news-in-canada-its-latest-standoff-with-publishers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
