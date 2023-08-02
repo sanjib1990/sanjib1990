@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hopin, the struggling virtual conference unicorn, sells events and engagement units to RingCentral](https://techcrunch.com/2023/08/02/hopin-ringcentral/)
-- [Google pulls its AI Test Kitchen app from Play Store and App Store](https://techcrunch.com/2023/08/02/google-pulls-its-ai-test-kitchen-app-from-play-store-and-app-store/)
-- [Lightup wants to shine a light on data quality with $9M Series A](https://techcrunch.com/2023/08/02/lightup-wants-to-shine-a-light-on-data-quality-with-9m-series-a/)
-- [NASA&#39;s Psyche mission to metal asteroid undergoes vital testing for October launch](https://www.space.com/nasa-psyche-mission-update-july-2023)
-- [AI is helping scientists reveal star ages. Here&#39;s how](https://www.space.com/star-ages-ai-cosmic-chemical-data)
+- [James Webb Space Telescope captures vibrant details of the Milky Way&#39;s galactic neighbor &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-captures-vibrant-details-milky-way-neighbor)
+- [Reflex open source tool helps turn Python code into web apps](https://techcrunch.com/2023/08/02/reflex-open-source-tool-helps-turn-python-code-into-web-apps/)
+- [US, Norway say hackers have been exploiting Ivanti zero-day since April](https://techcrunch.com/2023/08/02/ivanti-zero-day-exploit-april-government/)
+- [August full moon: Sturgeon supermoon delights skywatchers worldwide &lpar;photos&rpar;](https://www.space.com/august-full-moon-sturgeon-supermoon-2023-photos)
+- [Cohart’s art marketplace makes buying and selling accessible for any kind of art lover](https://techcrunch.com/2023/08/02/cohart-art-marketplace-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
