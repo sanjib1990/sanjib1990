@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya suspends Worldcoin scans over security, privacy and financial concerns](https://techcrunch.com/2023/08/02/kenya-suspends-worldcoin-scans-over-security-privacy-and-financial-concerns/)
+- [Foxconn to invest $600M in Karnataka for iPhone components, chip-making tools projects](https://techcrunch.com/2023/08/02/foxconn-to-invest-600m-in-karnataka-for-iphone-components-chip-making-tools-projects/)
 - [Black hole jet surprises scientists with &#39;peculiar&#39; radio signal](https://www.space.com/black-hole-jet-peculiar-radio-signal-brightness)
 - [See the moon snuggle up to Saturn in the night sky this week](https://www.space.com/moon-saturn-close-approach-conjunction-august-2023)
 - [Elon Musk-owned X renames TweetDeck to XPro](https://techcrunch.com/2023/08/01/elon-musk-owned-x-renames-tweetdeck-to-xpro/)
-- [Flipkart-backed Shadowfax nears $60 million funding led by TPG NewQuest](https://techcrunch.com/2023/08/01/shadowfax-newquest/)
-- [X, formerly Twitter, now lets paid users hide their checkmarks](https://techcrunch.com/2023/08/01/x-twitter-paid-users-hide-checkmarks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
