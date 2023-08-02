@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Perseid meteor shower peaks in August. Here&#39;s how to see it](https://www.space.com/perseid-meteor-shower-how-to-see-august-2023)
+- [X, formerly Twitter, streamlines its crowdsourced fact-checking system Community Notes](https://techcrunch.com/2023/08/02/x-formerly-twitter-streamlines-its-crowdsourced-fact-checking-system-community-notes/)
+- [Mondee security lapse exposed flight itineraries and unencrypted credit card numbers](https://techcrunch.com/2023/08/02/mondee-data-exposed-credit-cards-flight-itineraries/)
 - [James Webb Space Telescope unveils the gravitationally warped galaxies of &#39;El Gordo&#39;](https://www.space.com/james-webb-telescope-einstein-general-relativity-galaxy-warps)
-- [Apple Card’s Savings account reaches over $10 billion in deposits](https://techcrunch.com/2023/08/02/apple-cards-savings-account-reaches-over-10-billion-in-deposits/)
-- [&#39;Loki&#39; Season 2 trailer reveals the god of mischief skipping through timelines](https://www.space.com/loki-season-2-trailer-marvel)
-- [Subaru doubles its plans for new EVs, targeting 8 models by 2028](https://techcrunch.com/2023/08/02/subaru-doubles-its-plans-for-new-evs-targeting-8-models-by-2028/)
-- [&#39;Starfield&#39; animated anthology introduces gamers to its inhabited planets &lpar;videos&rpar;](https://www.space.com/starfield-animated-anthology-settled-systems)
+- [Apple Card’s Savings account reaches over $10B in deposits](https://techcrunch.com/2023/08/02/apple-cards-savings-account-reaches-over-10-billion-in-deposits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
