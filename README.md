@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Starfield&#39; animated anthology introduces gamers to its inhabited planets &lpar;videos&rpar;](https://www.space.com/starfield-animated-anthology-settled-systems)
+- [UK privacy watchdog warns Meta over plan to keep denying Brits a choice over its ad tracking](https://techcrunch.com/2023/08/02/ico-meta-warning/)
+- [Where founders go wrong with pitch decks](https://techcrunch.com/2023/08/02/where-founders-go-wrong-with-pitch-decks/)
+- [5 questions investors should be asking inception-stage generative AI founders](https://techcrunch.com/2023/08/02/5-questions-investors-should-be-asking-inception-stage-generative-ai-founders/)
 - [The Greyhill Incident offers the most boring UFO invasion yet](https://www.space.com/the-greyhill-incident-ufo-invasion-review)
-- [Google’s generative search feature now shows related videos and images](https://techcrunch.com/2023/08/02/googles-generative-search-feature-now-shows-related-videos-and-images/)
-- [Google brings contextual search suggestions, trending searches and more to Chrome on mobile](https://techcrunch.com/2023/08/02/google-brings-contextual-search-suggestions-trending-searches-and-more-to-chrome-on-mobile/)
-- [Tinder tests AI photo selection feature to help users build profiles](https://techcrunch.com/2023/08/02/tinder-tests-new-ai-photo-selection-feature/)
-- [Voyager and Airbus will operate Starlab private space station via ‘transatlantic joint venture’](https://techcrunch.com/2023/08/02/voyager-and-airbus-will-operate-starlab-private-space-station-via-transatlantic-joint-venture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
