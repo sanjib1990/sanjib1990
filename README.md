@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope captures vibrant details of the Milky Way&#39;s galactic neighbor &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-captures-vibrant-details-milky-way-neighbor)
-- [Reflex open source tool helps turn Python code into web apps](https://techcrunch.com/2023/08/02/reflex-open-source-tool-helps-turn-python-code-into-web-apps/)
-- [US, Norway say hackers have been exploiting Ivanti zero-day since April](https://techcrunch.com/2023/08/02/ivanti-zero-day-exploit-april-government/)
-- [August full moon: Sturgeon supermoon delights skywatchers worldwide &lpar;photos&rpar;](https://www.space.com/august-full-moon-sturgeon-supermoon-2023-photos)
-- [Cohart’s art marketplace makes buying and selling accessible for any kind of art lover](https://techcrunch.com/2023/08/02/cohart-art-marketplace-commerce/)
+- [Discord will now let you stream Xbox gameplay directly to servers and DMs](https://techcrunch.com/2023/08/02/discord-will-now-let-you-stream-xbox-gameplay-directly-to-servers-and-dms/)
+- [What is the difference between science and pseudoscience?](https://www.space.com/science-pseudoscience-what-is-the-difference)
+- [Amazon now offers Fresh grocery delivery to non-Prime members in select US cities](https://techcrunch.com/2023/08/02/amazon-offers-fresh-grocery-delivery-non-prime-members/)
+- [American-made Antares rocket debut slips to 2025](https://techcrunch.com/2023/08/02/american-made-antares-rocket-debut-slips-to-2025/)
+- [Yeah, but is that venture backable?](https://techcrunch.com/2023/08/02/yeah-but-is-that-venture-backable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
