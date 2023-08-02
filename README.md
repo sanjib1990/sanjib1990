@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hopin, the struggling virtual conference unicorn, sells events and engagement units to RingCentral](https://techcrunch.com/2023/08/02/hopin-ringcentral/)
+- [Google pulls its AI Test Kitchen app from Play Store and App Store](https://techcrunch.com/2023/08/02/google-pulls-its-ai-test-kitchen-app-from-play-store-and-app-store/)
+- [Lightup wants to shine a light on data quality with $9M Series A](https://techcrunch.com/2023/08/02/lightup-wants-to-shine-a-light-on-data-quality-with-9m-series-a/)
+- [NASA&#39;s Psyche mission to metal asteroid undergoes vital testing for October launch](https://www.space.com/nasa-psyche-mission-update-july-2023)
 - [AI is helping scientists reveal star ages. Here&#39;s how](https://www.space.com/star-ages-ai-cosmic-chemical-data)
-- [Kenya suspends Worldcoin scans over security, privacy and financial concerns](https://techcrunch.com/2023/08/02/kenya-suspends-worldcoin-scans-over-security-privacy-and-financial-concerns/)
-- [Foxconn to invest $600M in Karnataka for iPhone components, chip-making tools projects](https://techcrunch.com/2023/08/02/foxconn-to-invest-600m-in-karnataka-for-iphone-components-chip-making-tools-projects/)
-- [Black hole jet surprises scientists with &#39;peculiar&#39; radio signal](https://www.space.com/black-hole-jet-peculiar-radio-signal-brightness)
-- [See the moon snuggle up to Saturn in the night sky this week](https://www.space.com/moon-saturn-close-approach-conjunction-august-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
