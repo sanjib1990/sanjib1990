@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India restricts import of laptop, tablets and servers](https://techcrunch.com/2023/08/02/india-restricts-import-of-laptop-tablets-other-personal-computers/)
 - [Xpeng’s head of autonomous driving quits, rumored to join Nvidia](https://techcrunch.com/2023/08/02/xpengs-head-of-autonomous-driving-resigns-rumored-to-join-nvidia/)
 - [SettleMint’s AI assistant aims to help web3 developers write better smart contracts](https://techcrunch.com/2023/08/02/settlemints-new-ai-assistant-aims-to-help-web3-developers-write-better-smart-contracts/)
 - [Reddit is down, per user reports](https://techcrunch.com/2023/08/02/reddit-is-down-per-user-reports/)
 - [DJI’s new GoPro competitor launches at $399](https://techcrunch.com/2023/08/02/djis-new-gopro-competitor-launches-at-399/)
-- [HackerOne lays off 12% workforce as ‘one-time event’](https://techcrunch.com/2023/08/02/hackerone-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
