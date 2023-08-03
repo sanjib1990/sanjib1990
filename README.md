@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok competitor Triller files to go public](https://techcrunch.com/2023/08/03/tiktok-competitor-triller-files-to-go-public/)
+- [Weird cosmic object identified as the remains of an exploded dead star](https://www.space.com/weird-cosmic-object-revealed-as-dead-star-remains)
+- [Pinterest touts Amazon partnership progress, AI in Q2 earnings beat](https://techcrunch.com/2023/08/03/pinterest-touts-amazon-partnership-progress-ai-in-q2-earnings-beat/)
+- [Nothing will launch earbuds and a smartwatch under its new budget line, CMF](https://techcrunch.com/2023/08/03/nothing-will-launch-earbuds-and-a-smartwatch-under-its-new-budget-line-cmf/)
 - [James Webb Space Telescope reveals the colorful Ring Nebula in exquisite detail &lpar;photos, video&rpar;](https://www.space.com/james-webb-space-telescope-ring-nebula-dead-star)
-- [Worldcoin hopes to resume iris scans in Kenya](https://techcrunch.com/2023/08/03/worldcoin-plans-to-resume-iris-scans-in-kenya/)
-- [Instagram’s new feature protects users from unwanted images and videos in DMs](https://techcrunch.com/2023/08/03/instagrams-new-feature-protects-users-from-unwanted-images-and-videos-in-dms/)
-- [Meet Lula, a startup that aims to be the ‘Stripe for insurance’ and just raised $35.5M](https://techcrunch.com/2023/08/03/meet-lula-a-startup-that-aims-to-be-the-stripe-for-insurance-and-just-raised-35-5m/)
-- [Anthropic’s Dario Amodei discusses building safer AI and more at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/03/anthropics-dario-amodei-discusses-building-safer-ai-and-more-at-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
