@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monthly NFT sales fell for fifth consecutive month to $495M in July](https://techcrunch.com/2023/08/03/monthly-nft-sales-fell-for-fifth-consecutive-month-to-495m-in-july/)
+- [The San Francisco Giants will wear big Cruise ads through 2025](https://techcrunch.com/2023/08/03/the-san-francisco-giants-will-wear-big-cruise-ads-through-2025/)
+- [Privacy-focused Brave Search launches its own image and video search](https://techcrunch.com/2023/08/03/privacy-focused-brave-search-launches-its-own-image-and-video-search/)
 - [New book &#39;Stargazing: Contemplating the Cosmos to Find Inner Peace&#39; teaches meditation to bring stargazing down to Earth](https://www.space.com/book-review-star-gazing-krishna)
 - [Moonware’s AI lets airfield ground crews ditch the walkies](https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/)
-- [Watch a cargo spacecraft dock with the International Space Station early on Aug. 4](https://www.space.com/cygnus-cargo-spacecraft-dock-international-space-station-livestream-august-2023)
-- [Asteroid collisions may be responsible for mysteriously magnetic meteorites on Earth](https://www.space.com/asteroid-collisions-magnetic-meteorites-earth)
-- [Google is making it easier to find and remove personal info, explicit images from Search](https://techcrunch.com/2023/08/03/google-is-making-it-easier-to-find-and-remove-personal-info-explicit-images-from-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
