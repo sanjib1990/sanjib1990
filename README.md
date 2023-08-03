@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok competitor Triller files to go public](https://techcrunch.com/2023/08/03/tiktok-competitor-triller-files-to-go-public/)
-- [Weird cosmic object identified as the remains of an exploded dead star](https://www.space.com/weird-cosmic-object-revealed-as-dead-star-remains)
-- [Pinterest touts Amazon partnership progress, AI in Q2 earnings beat](https://techcrunch.com/2023/08/03/pinterest-touts-amazon-partnership-progress-ai-in-q2-earnings-beat/)
-- [Nothing will launch earbuds and a smartwatch under its new budget line, CMF](https://techcrunch.com/2023/08/03/nothing-will-launch-earbuds-and-a-smartwatch-under-its-new-budget-line-cmf/)
-- [James Webb Space Telescope reveals the colorful Ring Nebula in exquisite detail &lpar;photos, video&rpar;](https://www.space.com/james-webb-space-telescope-ring-nebula-dead-star)
+- [Google is making it easier to find and remove personal info, explicit images from Search](https://techcrunch.com/2023/08/03/google-is-making-it-easier-to-find-and-remove-personal-info-explicit-images-from-search/)
+- [The first Tesla ‘range inflation’ lawsuit has been filed](https://techcrunch.com/2023/08/03/tesla-range-inflation-lawsuit-filed/)
+- [The Celestron StarSense Explorer LT 80AZ is over $115 off](https://www.space.com/celestron-starsense-explorer-deal-save-over-115-dollars)
+- [Queen&#39;s Brian May talks to Space.com about his role in NASA&#39;s OSIRIS-REx mission and new book on asteroid Bennu &lpar;video&rpar;](https://www.space.com/brian-may-osiris-rex-bennu-interview)
+- [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
