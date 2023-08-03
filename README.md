@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How long could you survive in space without a spacesuit?](https://www.space.com/how-long-could-you-survive-in-space-without-spacesuit)
-- [Russia-backed hackers used Microsoft Teams to breach government agencies](https://techcrunch.com/2023/08/03/russia-hackers-microsoft-teams-government/)
-- [New Stephen Hawking book &#39;You and the universe&#39; asks kids to save the Earth &lpar;exclusive&rpar;](https://www.space.com/stephen-hawking-earth-climate-change-book-kids)
-- [South Korea’s digital lender Toss Bank in advanced talks to close $154M funding at a valuation of $2.1B](https://techcrunch.com/2023/08/03/south-koreas-digital-lender-toss-bank-in-advanced-talks-to-close-150m-funding-at-a-valuation-of-2-1b/)
-- [Warner Bros. Discovery loses 1.8M subscribers amid Max rebrand](https://techcrunch.com/2023/08/03/warner-bros-discovery-q2-2023/)
+- [Developers continue to dive into the crypto space as market remains lackluster](https://techcrunch.com/2023/08/03/developers-crypto-q2-2023/)
+- [&#39;Strange New Worlds&#39; Season 2 episode 8 offers a gutsy, gritty look at the horrors of war](https://www.space.com/star-trek-strange-new-worlds-season-2-episode-8-review)
+- [Endor Labs, which helps companies secure their open source packages, raises $70M](https://techcrunch.com/2023/08/03/endor-labs-which-helps-companies-secure-their-open-source-packages-raises-70m/)
+- [‘The Super Mario Bros. Movie’ is now streaming on Peacock](https://techcrunch.com/2023/08/03/the-super-mario-bros-movie-streaming-on-peacock/)
+- [Researchers jailbreak a Tesla to get free in-car feature upgrades](https://techcrunch.com/2023/08/03/researchers-jailbreak-a-tesla-to-get-free-in-car-feature-upgrades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
