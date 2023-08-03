@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AFP sues Musk’s X for refusing to enter news reuse payment talks](https://techcrunch.com/2023/08/03/afp-sues-x/)
+- [Are your product and service teams creating value for customers?](https://techcrunch.com/2023/08/03/are-your-product-and-service-teams-creating-value-for-customers/)
 - [Emtech to advance its regtech and CBDC stack solutions with $4M led by Matrix Partners India](https://techcrunch.com/2023/08/03/emtech-raises-4m-led-by-matrix-partners-india/)
 - [India restricts import of laptop, tablets and servers](https://techcrunch.com/2023/08/02/india-restricts-import-of-laptop-tablets-other-personal-computers/)
 - [Xpeng’s head of autonomous driving quits, rumored to join Nvidia](https://techcrunch.com/2023/08/02/xpengs-head-of-autonomous-driving-resigns-rumored-to-join-nvidia/)
-- [SettleMint’s AI assistant aims to help web3 developers write better smart contracts](https://techcrunch.com/2023/08/02/settlemints-new-ai-assistant-aims-to-help-web3-developers-write-better-smart-contracts/)
-- [Reddit is down, per user reports](https://techcrunch.com/2023/08/02/reddit-is-down-per-user-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
