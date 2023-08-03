@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Credo AI, GitLab, Numbers Station will put the AI in SaaS at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/03/credo-ai-gitlab-numbers-station-will-put-the-ai-in-saas-at-techcrunch-disrupt-2023/)
+- [Rivian elects former Waymo CEO John Krafcik to board](https://techcrunch.com/2023/08/03/rivian-elects-former-waymo-ceo-john-krafcik-to-board/)
+- [EventMobi acquires a16z-backed virtual events platform Run The World](https://techcrunch.com/2023/08/03/eventmobi-acquires-a16z-backed-virtual-events-platform-run-the-world/)
 - [Monthly NFT sales fell for fifth consecutive month to $495M in July](https://techcrunch.com/2023/08/03/monthly-nft-sales-fell-for-fifth-consecutive-month-to-495m-in-july/)
-- [The San Francisco Giants will wear big Cruise ads through 2025](https://techcrunch.com/2023/08/03/the-san-francisco-giants-will-wear-big-cruise-ads-through-2025/)
-- [Privacy-focused Brave Search launches its own image and video search](https://techcrunch.com/2023/08/03/privacy-focused-brave-search-launches-its-own-image-and-video-search/)
-- [New book &#39;Stargazing: Contemplating the Cosmos to Find Inner Peace&#39; teaches meditation to bring stargazing down to Earth](https://www.space.com/book-review-star-gazing-krishna)
-- [Moonware’s AI lets airfield ground crews ditch the walkies](https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/)
+- [&#39;Star Trek&#39;s&#39; Jonathan Frakes on directing the &#39;Strange New Worlds&#39; crossover episode](https://www.space.com/star-trek-jonathan-frakes-strange-new-worlds-lower-decks-crossover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
