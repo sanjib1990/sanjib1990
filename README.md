@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Lego Technic Perseverance Mars rover was a &#39;thrill&#39; says JPL advisor](https://www.space.com/lego-technic-mars-rover-perseverance-jpl-review)
+- [India resurrects data privacy bill following abrupt pullback last year](https://techcrunch.com/2023/08/03/india-digital-personal-data-protection-bill-2023/)
 - [Waymo is bringing its robotaxi service to Austin](https://techcrunch.com/2023/08/03/waymo-is-bringing-its-robotaxi-service-to-austin/)
 - [Xiaomi removes its Mi Music app from the Play Store](https://techcrunch.com/2023/08/03/xiaomi-removes-its-mi-music-app-from-the-play-store/)
 - [1st solar eruption to simultaneously impact Earth, moon and Mars shows dangers of space radiation](https://www.space.com/news/expansive-solar-eruption-illustrates-risk-of-radiation-for-future-space-missions)
-- [AFP sues Musk’s X for refusing to enter news reuse payment talks](https://techcrunch.com/2023/08/03/afp-sues-x/)
-- [Are your product and service teams creating value for customers?](https://techcrunch.com/2023/08/03/are-your-product-and-service-teams-creating-value-for-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
