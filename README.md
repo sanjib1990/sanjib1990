@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers continue to dive into the crypto space as market remains lackluster](https://techcrunch.com/2023/08/03/developers-crypto-q2-2023/)
-- [&#39;Strange New Worlds&#39; Season 2 episode 8 offers a gutsy, gritty look at the horrors of war](https://www.space.com/star-trek-strange-new-worlds-season-2-episode-8-review)
-- [Endor Labs, which helps companies secure their open source packages, raises $70M](https://techcrunch.com/2023/08/03/endor-labs-which-helps-companies-secure-their-open-source-packages-raises-70m/)
-- [‘The Super Mario Bros. Movie’ is now streaming on Peacock](https://techcrunch.com/2023/08/03/the-super-mario-bros-movie-streaming-on-peacock/)
-- [Researchers jailbreak a Tesla to get free in-car feature upgrades](https://techcrunch.com/2023/08/03/researchers-jailbreak-a-tesla-to-get-free-in-car-feature-upgrades/)
+- [James Webb Space Telescope reveals the colorful Ring Nebula in exquisite detail &lpar;photos, video&rpar;](https://www.space.com/james-webb-space-telescope-ring-nebula-dead-star)
+- [Worldcoin hopes to resume iris scans in Kenya](https://techcrunch.com/2023/08/03/worldcoin-plans-to-resume-iris-scans-in-kenya/)
+- [Instagram’s new feature protects users from unwanted images and videos in DMs](https://techcrunch.com/2023/08/03/instagrams-new-feature-protects-users-from-unwanted-images-and-videos-in-dms/)
+- [Meet Lula, a startup that aims to be the ‘Stripe for insurance’ and just raised $35.5M](https://techcrunch.com/2023/08/03/meet-lula-a-startup-that-aims-to-be-the-stripe-for-insurance-and-just-raised-35-5m/)
+- [Anthropic’s Dario Amodei discusses building safer AI and more at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/03/anthropics-dario-amodei-discusses-building-safer-ai-and-more-at-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
