@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New book &#39;Stargazing: Contemplating the Cosmos to Find Inner Peace&#39; teaches meditation to bring stargazing down to Earth](https://www.space.com/book-review-star-gazing-krishna)
+- [Moonware’s AI lets airfield ground crews ditch the walkies](https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/)
+- [Watch a cargo spacecraft dock with the International Space Station early on Aug. 4](https://www.space.com/cygnus-cargo-spacecraft-dock-international-space-station-livestream-august-2023)
+- [Asteroid collisions may be responsible for mysteriously magnetic meteorites on Earth](https://www.space.com/asteroid-collisions-magnetic-meteorites-earth)
 - [Google is making it easier to find and remove personal info, explicit images from Search](https://techcrunch.com/2023/08/03/google-is-making-it-easier-to-find-and-remove-personal-info-explicit-images-from-search/)
-- [The first Tesla ‘range inflation’ lawsuit has been filed](https://techcrunch.com/2023/08/03/tesla-range-inflation-lawsuit-filed/)
-- [The Celestron StarSense Explorer LT 80AZ is over $115 off](https://www.space.com/celestron-starsense-explorer-deal-save-over-115-dollars)
-- [Queen&#39;s Brian May talks to Space.com about his role in NASA&#39;s OSIRIS-REx mission and new book on asteroid Bennu &lpar;video&rpar;](https://www.space.com/brian-may-osiris-rex-bennu-interview)
-- [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
