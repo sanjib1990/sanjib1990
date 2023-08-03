@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Lego Technic Perseverance Mars rover was a &#39;thrill&#39; says JPL advisor](https://www.space.com/lego-technic-mars-rover-perseverance-jpl-review)
-- [India resurrects data privacy bill following abrupt pullback last year](https://techcrunch.com/2023/08/03/india-digital-personal-data-protection-bill-2023/)
-- [Waymo is bringing its robotaxi service to Austin](https://techcrunch.com/2023/08/03/waymo-is-bringing-its-robotaxi-service-to-austin/)
-- [Xiaomi removes its Mi Music app from the Play Store](https://techcrunch.com/2023/08/03/xiaomi-removes-its-mi-music-app-from-the-play-store/)
-- [1st solar eruption to simultaneously impact Earth, moon and Mars shows dangers of space radiation](https://www.space.com/news/expansive-solar-eruption-illustrates-risk-of-radiation-for-future-space-missions)
+- [How long could you survive in space without a spacesuit?](https://www.space.com/how-long-could-you-survive-in-space-without-spacesuit)
+- [Russia-backed hackers used Microsoft Teams to breach government agencies](https://techcrunch.com/2023/08/03/russia-hackers-microsoft-teams-government/)
+- [New Stephen Hawking book &#39;You and the universe&#39; asks kids to save the Earth &lpar;exclusive&rpar;](https://www.space.com/stephen-hawking-earth-climate-change-book-kids)
+- [South Korea’s digital lender Toss Bank in advanced talks to close $154M funding at a valuation of $2.1B](https://techcrunch.com/2023/08/03/south-koreas-digital-lender-toss-bank-in-advanced-talks-to-close-150m-funding-at-a-valuation-of-2-1b/)
+- [Warner Bros. Discovery loses 1.8M subscribers amid Max rebrand](https://techcrunch.com/2023/08/03/warner-bros-discovery-q2-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
