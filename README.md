@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GoStudent adds another $95M to its war-chest to go after VR and AI-enhanced tutoring](https://techcrunch.com/2023/08/03/gostudent-adds-another-95m-to-its-war-chest-to-go-after-vr-and-ai-enhanced-tutoring/)
+- [AI.com flips from ChatGPT to Elon Musk’s X.ai](https://techcrunch.com/2023/08/03/ai-com-flips-from-chatgpt-to-elon-musks-x-ai/)
+- [Apple services growth continues to counter iPhone sales slide in Q3](https://techcrunch.com/2023/08/03/apple-services-growth-continues-to-counter-iphone-sales-slide-in-q3/)
+- [Nikola finally gets enough shareholder support to issue more shares](https://techcrunch.com/2023/08/03/nikola-finally-gets-enough-shareholder-support-to-issue-more-shares/)
 - [Coinbase Q2 earnings exceed estimates, signaling potential market recovery](https://techcrunch.com/2023/08/03/coinbase-q2-2023-earnings/)
-- [BMW is pumping more cash into EVs ‘than originally planned’](https://techcrunch.com/2023/08/03/bmw-is-pumping-more-cash-into-evs-than-originally-planned/)
-- [Credo AI, GitLab, Numbers Station will put the AI in SaaS at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/03/credo-ai-gitlab-numbers-station-will-put-the-ai-in-saas-at-techcrunch-disrupt-2023/)
-- [Rivian elects former Waymo CEO John Krafcik to board](https://techcrunch.com/2023/08/03/rivian-elects-former-waymo-ceo-john-krafcik-to-board/)
-- [EventMobi acquires a16z-backed virtual events platform Run The World](https://techcrunch.com/2023/08/03/eventmobi-acquires-a16z-backed-virtual-events-platform-run-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
