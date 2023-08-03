@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase Q2 earnings exceed estimates, signaling potential market recovery](https://techcrunch.com/2023/08/03/coinbase-q2-2023-earnings/)
+- [BMW is pumping more cash into EVs ‘than originally planned’](https://techcrunch.com/2023/08/03/bmw-is-pumping-more-cash-into-evs-than-originally-planned/)
 - [Credo AI, GitLab, Numbers Station will put the AI in SaaS at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/03/credo-ai-gitlab-numbers-station-will-put-the-ai-in-saas-at-techcrunch-disrupt-2023/)
 - [Rivian elects former Waymo CEO John Krafcik to board](https://techcrunch.com/2023/08/03/rivian-elects-former-waymo-ceo-john-krafcik-to-board/)
 - [EventMobi acquires a16z-backed virtual events platform Run The World](https://techcrunch.com/2023/08/03/eventmobi-acquires-a16z-backed-virtual-events-platform-run-the-world/)
-- [Monthly NFT sales fell for fifth consecutive month to $495M in July](https://techcrunch.com/2023/08/03/monthly-nft-sales-fell-for-fifth-consecutive-month-to-495m-in-july/)
-- [&#39;Star Trek&#39;s&#39; Jonathan Frakes on directing the &#39;Strange New Worlds&#39; crossover episode](https://www.space.com/star-trek-jonathan-frakes-strange-new-worlds-lower-decks-crossover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
