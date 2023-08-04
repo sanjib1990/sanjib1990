@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Artemis moon rocket mockup to stand alongside historic boosters at Alabama space museum](https://www.space.com/renewed-rocket-park-ussrc-ground-breaking)
+- [Amazon Music teams up with Bandsintown to let fans shop merch from popular artists](https://techcrunch.com/2023/08/04/amazon-music-bandsintown-concert-merch/)
+- [NASA selects astronauts for SpaceX Crew-8 mission to International Space Station](https://www.space.com/nasa-spacex-crew-8-astronauts-international-space-station)
 - [TechCrunch+ Roundup: How pitch decks fail, inside the AI hype cycle, budgeting for a downturn](https://techcrunch.com/2023/08/04/techcrunch-roundup-how-pitch-decks-fail-inside-the-ai-hype-cycle-budgeting-for-a-downturn/)
 - [A Jupiter-size exoplanet formed around a tiny star. Astronomers aren&#39;t sure how](https://www.space.com/jupiter-size-exoplanet-tiny-star)
-- [Nikola CEO steps down, replaced by chairman](https://techcrunch.com/2023/08/04/nikola-ceo-steps-down-replaced-by-chairman/)
-- [Spotify introduces new product to help software development teams with with A/B testing](https://techcrunch.com/2023/08/04/spotify-introduces-new-product-to-help-software-development-teams-with-with-a-b-testing/)
-- [AWS revenue growth dropped to 12% in Q2, but company remains optimistic about cloud biz](https://techcrunch.com/2023/08/04/aws-revenue-growth-dropped-to-12-in-q2-but-company-remains-optimistic-about-cloud-biz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
