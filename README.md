@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unpacking the end of Luko’s solo journey in insurtech](https://techcrunch.com/2023/08/04/unpacking-the-end-of-lukos-solo-journey-in-insurtech/)
+- [AI is going 4-dimensional](https://techcrunch.com/2023/08/04/ai-is-going-4-dimensional/)
+- [AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung](https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/)
 - [NASA Artemis moon rocket mockup to stand alongside historic boosters at Alabama space museum](https://www.space.com/renewed-rocket-park-ussrc-ground-breaking)
 - [Amazon Music teams up with Bandsintown to let fans shop merch from popular artists](https://techcrunch.com/2023/08/04/amazon-music-bandsintown-concert-merch/)
-- [NASA selects astronauts for SpaceX Crew-8 mission to International Space Station](https://www.space.com/nasa-spacex-crew-8-astronauts-international-space-station)
-- [TechCrunch+ Roundup: How pitch decks fail, inside the AI hype cycle, budgeting for a downturn](https://techcrunch.com/2023/08/04/techcrunch-roundup-how-pitch-decks-fail-inside-the-ai-hype-cycle-budgeting-for-a-downturn/)
-- [A Jupiter-size exoplanet formed around a tiny star. Astronomers aren&#39;t sure how](https://www.space.com/jupiter-size-exoplanet-tiny-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
