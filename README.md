@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cygnus space freighter arrives at space station with 8,200 pounds of cargo aboard](https://www.space.com/cygnus-cargo-spacecraft-dock-international-space-station)
+- [Coming soon to TikTok in Europe: A ‘For You’ feed without the TikTok algorithm](https://techcrunch.com/2023/08/04/tiktok-algorithm-dsa/)
 - [3 reasons to maintain a follow-on allocation](https://techcrunch.com/2023/08/04/3-reasons-to-maintain-a-follow-on-allocation/)
 - [Watch a brilliant fireball shine brighter than the full moon &lpar;video&rpar;](https://www.space.com/fireball-southern-united-states-august-2023)
 - [New ISS experiment will help develop air conditioning for future space habitats](https://www.space.com/iss-experiment-help-develop-air-conditioning-future-space-habitats)
-- [Discord cuts 4% staff as part of company reorganization](https://techcrunch.com/2023/08/03/discord-cuts-4-staff-as-part-of-company-reorganization/)
-- [Fisker reveals all-electric Alaska pickup, 3 other EV prototypes](https://techcrunch.com/2023/08/03/fisker-reveals-all-electric-alaska-pickup-three-other-ev-prototypes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
