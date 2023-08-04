@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last week to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/04/last-week-to-save-on-passes-to-techcrunch-disrupt-2023/)
+- [6 startup founders gaze into a future-of-work crystal ball](https://techcrunch.com/2023/08/04/the-future-of-work-2023/)
+- [Meet Window Snyder, the trailblazer who helped secure the internet and billions of devices](https://techcrunch.com/2023/08/04/window-snyder-cybersecurity-trailblazer/)
+- [Two new &#39;Star Wars&#39; books offer daring tales from the galaxy far, far away](https://www.space.com/star-wars-books-tales-of-light-and-life-crimson-climb)
 - [Pitch Deck Teardown: SquadTrip’s $1.5M pre-seed deck](https://techcrunch.com/2023/08/04/sample-pre-seed-pitch-deck-squadtrip/)
-- [SpaceX launch pad work delays Crew-7 astronaut launch for NASA to Aug. 25](https://www.space.com/spacex-crew-7-nasa-astronaut-launch-delay-launch-pad)
-- [India delays laptop import restrictions order](https://techcrunch.com/2023/08/04/india-delays-laptop-import-restrictions-order/)
-- [Health data of 1.7 million Oregon residents accessed by MOVEit hackers](https://techcrunch.com/2023/08/04/oregon-health-data-accessed-moveit-mass-hacks/)
-- [Microsoft kills Cortana in Windows as it focuses on next-gen AI](https://techcrunch.com/2023/08/04/microsoft-kills-cortana-in-windows-as-it-focuses-on-next-gen-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
