@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord cuts 4% staff as part of company reorganization](https://techcrunch.com/2023/08/03/discord-cuts-4-staff-as-part-of-company-reorganization/)
 - [Fisker reveals all-electric Alaska pickup, 3 other EV prototypes](https://techcrunch.com/2023/08/03/fisker-reveals-all-electric-alaska-pickup-three-other-ev-prototypes/)
 - [GoStudent adds another $95M to its war chest to go after VR and AI-enhanced tutoring](https://techcrunch.com/2023/08/03/gostudent-adds-another-95m-to-its-war-chest-to-go-after-vr-and-ai-enhanced-tutoring/)
 - [AI.com flips from ChatGPT to Elon Musk’s X.ai](https://techcrunch.com/2023/08/03/ai-com-flips-from-chatgpt-to-elon-musks-x-ai/)
 - [Apple services growth continues to counter iPhone sales slide in Q3](https://techcrunch.com/2023/08/03/apple-services-growth-continues-to-counter-iphone-sales-slide-in-q3/)
-- [Nikola finally gets enough shareholder support to issue more shares](https://techcrunch.com/2023/08/03/nikola-finally-gets-enough-shareholder-support-to-issue-more-shares/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
