@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How long can an asteroid &#39;survive&#39;?](https://www.space.com/asteroids-how-long-can-survive)
+- [EdgeIn hopes to be a faster, community-driven, ‘CrunchBase for Web3’](https://techcrunch.com/2023/08/04/edgein-hopes-to-be-a-faster-community-driven-crunchbase-for-web3/)
+- [Lego Star Wars Death Star Trash Compactor Diorama review](https://www.space.com/lego-star-wars-death-star-trash-compactor-diorama-75339-review)
 - [Cygnus space freighter arrives at space station with 8,200 pounds of cargo aboard](https://www.space.com/cygnus-cargo-spacecraft-dock-international-space-station)
 - [Coming soon to TikTok in Europe: A ‘For You’ feed without the TikTok algorithm](https://techcrunch.com/2023/08/04/tiktok-algorithm-dsa/)
-- [3 reasons to maintain a follow-on allocation](https://techcrunch.com/2023/08/04/3-reasons-to-maintain-a-follow-on-allocation/)
-- [Watch a brilliant fireball shine brighter than the full moon &lpar;video&rpar;](https://www.space.com/fireball-southern-united-states-august-2023)
-- [New ISS experiment will help develop air conditioning for future space habitats](https://www.space.com/iss-experiment-help-develop-air-conditioning-future-space-habitats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
