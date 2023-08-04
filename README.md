@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce Einstein Studio lets you bring your own model, starting with Amazon SageMaker](https://techcrunch.com/2023/08/04/salesforce-einstein-studio-lets-you-bring-your-own-model-starting-with-amazon-sagemaker/)
-- [Stomp brings a fully-functional Mastodon app to your Apple Watch](https://techcrunch.com/2023/08/04/stomp-brings-a-fully-functional-mastodon-app-to-your-apple-watch/)
-- [China keeps its eye on NASA&#39;s budget uncertainty](https://www.space.com/china-eyes-nasa-budget-uncertainty)
-- [Apple’s services business now has more than 1B subscribers](https://techcrunch.com/2023/08/04/apples-services-business-now-has-more-than-1b-subscribers/)
-- [SoftBank launches an OpenAI for Japan: SB Intuitions, building LLMs and generative AI in Japanese](https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/)
+- [Pitch Deck Teardown: SquadTrip’s $1.5M pre-seed deck](https://techcrunch.com/2023/08/04/sample-pre-seed-pitch-deck-squadtrip/)
+- [SpaceX launch pad work delays Crew-7 astronaut launch for NASA to Aug. 25](https://www.space.com/spacex-crew-7-nasa-astronaut-launch-delay-launch-pad)
+- [India delays laptop import restrictions order](https://techcrunch.com/2023/08/04/india-delays-laptop-import-restrictions-order/)
+- [Health data of 1.7 million Oregon residents accessed by MOVEit hackers](https://techcrunch.com/2023/08/04/oregon-health-data-accessed-moveit-mass-hacks/)
+- [Microsoft kills Cortana in Windows as it focuses on next-gen AI](https://techcrunch.com/2023/08/04/microsoft-kills-cortana-in-windows-as-it-focuses-on-next-gen-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
