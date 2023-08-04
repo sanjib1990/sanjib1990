@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA and Axiom Space sign-on for 4th private astronaut mission to space station](https://www.space.com/nasa-axiom-space-ax-4-mission-agreement)
+- [SEC ends investigation into Better.com, which is bleeding cash ahead of planned SPAC vote](https://techcrunch.com/2023/08/04/sec-ends-investigation-into-better-com-which-is-bleeding-cash-ahead-of-planned-spac-vote/)
+- [Berkeley Yeast, S2G dish on the future of beer, meat and more at TC Disrupt 2023](https://techcrunch.com/2023/08/04/berkeley-yeast-s2g-dish-on-the-future-of-beer-meat-and-more-at-tc-disrupt-2023/)
+- [Watch NASA&#39;s sci-fi-looking X-59 &#39;quiet&#39; supersonic jet roll out of the hangar &lpar;video&rpar;](https://www.space.com/nasa-x-59-quiet-supersonic-jet-hangar-video)
 - [Unpacking the end of Luko’s solo journey in insurtech](https://techcrunch.com/2023/08/04/unpacking-the-end-of-lukos-solo-journey-in-insurtech/)
-- [AI is going 4-dimensional](https://techcrunch.com/2023/08/04/ai-is-going-4-dimensional/)
-- [AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung](https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/)
-- [NASA Artemis moon rocket mockup to stand alongside historic boosters at Alabama space museum](https://www.space.com/renewed-rocket-park-ussrc-ground-breaking)
-- [Amazon Music teams up with Bandsintown to let fans shop merch from popular artists](https://techcrunch.com/2023/08/04/amazon-music-bandsintown-concert-merch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
