@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Israel cybersecurity agency says no breach after senior official self-infects home PC with malware](https://techcrunch.com/2023/08/04/israel-cybersecurity-directorate-no-breach-malware/)
-- [The US could learn a lot from how the UK is crafting DEI policy for venture capital](https://techcrunch.com/2023/08/04/us-venture-capital-policy/)
-- [Even as cloud growth continues to slow, market remains robust in Q2 at $65B](https://techcrunch.com/2023/08/04/even-as-cloud-growth-continues-to-slow-market-remains-robust-in-q2-at-65b/)
-- [Last week to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/04/last-week-to-save-on-passes-to-techcrunch-disrupt-2023/)
-- [6 startup founders gaze into a future-of-work crystal ball](https://techcrunch.com/2023/08/04/the-future-of-work-2023/)
+- [TechCrunch+ Roundup: How pitch decks fail, inside the AI hype cycle, budgeting for a downturn](https://techcrunch.com/2023/08/04/techcrunch-roundup-how-pitch-decks-fail-inside-the-ai-hype-cycle-budgeting-for-a-downturn/)
+- [A Jupiter-size exoplanet formed around a tiny star. Astronomers aren&#39;t sure how](https://www.space.com/jupiter-size-exoplanet-tiny-star)
+- [Nikola CEO steps down, replaced by chairman](https://techcrunch.com/2023/08/04/nikola-ceo-steps-down-replaced-by-chairman/)
+- [Spotify introduces new product to help software development teams with with A/B testing](https://techcrunch.com/2023/08/04/spotify-introduces-new-product-to-help-software-development-teams-with-with-a-b-testing/)
+- [AWS revenue growth dropped to 12% in Q2, but company remains optimistic about cloud biz](https://techcrunch.com/2023/08/04/aws-revenue-growth-dropped-to-12-in-q2-but-company-remains-optimistic-about-cloud-biz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
