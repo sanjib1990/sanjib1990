@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel cybersecurity agency says no breach after senior official self-infects home PC with malware](https://techcrunch.com/2023/08/04/israel-cybersecurity-directorate-no-breach-malware/)
+- [The US could learn a lot from how the UK is crafting DEI policy for venture capital](https://techcrunch.com/2023/08/04/us-venture-capital-policy/)
+- [Even as cloud growth continues to slow, market remains robust in Q2 at $65B](https://techcrunch.com/2023/08/04/even-as-cloud-growth-continues-to-slow-market-remains-robust-in-q2-at-65b/)
 - [Last week to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/04/last-week-to-save-on-passes-to-techcrunch-disrupt-2023/)
 - [6 startup founders gaze into a future-of-work crystal ball](https://techcrunch.com/2023/08/04/the-future-of-work-2023/)
-- [Meet Window Snyder, the trailblazer who helped secure the internet and billions of devices](https://techcrunch.com/2023/08/04/window-snyder-cybersecurity-trailblazer/)
-- [Two new &#39;Star Wars&#39; books offer daring tales from the galaxy far, far away](https://www.space.com/star-wars-books-tales-of-light-and-life-crimson-climb)
-- [Pitch Deck Teardown: SquadTrip’s $1.5M pre-seed deck](https://techcrunch.com/2023/08/04/sample-pre-seed-pitch-deck-squadtrip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
