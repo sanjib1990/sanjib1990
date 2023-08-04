@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How long can an asteroid &#39;survive&#39;?](https://www.space.com/asteroids-how-long-can-survive)
-- [EdgeIn hopes to be a faster, community-driven, ‘CrunchBase for Web3’](https://techcrunch.com/2023/08/04/edgein-hopes-to-be-a-faster-community-driven-crunchbase-for-web3/)
-- [Lego Star Wars Death Star Trash Compactor Diorama review](https://www.space.com/lego-star-wars-death-star-trash-compactor-diorama-75339-review)
-- [Cygnus space freighter arrives at space station with 8,200 pounds of cargo aboard](https://www.space.com/cygnus-cargo-spacecraft-dock-international-space-station)
-- [Coming soon to TikTok in Europe: A ‘For You’ feed without the TikTok algorithm](https://techcrunch.com/2023/08/04/tiktok-algorithm-dsa/)
+- [Salesforce Einstein Studio lets you bring your own model, starting with Amazon SageMaker](https://techcrunch.com/2023/08/04/salesforce-einstein-studio-lets-you-bring-your-own-model-starting-with-amazon-sagemaker/)
+- [Stomp brings a fully-functional Mastodon app to your Apple Watch](https://techcrunch.com/2023/08/04/stomp-brings-a-fully-functional-mastodon-app-to-your-apple-watch/)
+- [China keeps its eye on NASA&#39;s budget uncertainty](https://www.space.com/china-eyes-nasa-budget-uncertainty)
+- [Apple’s services business now has more than 1B subscribers](https://techcrunch.com/2023/08/04/apples-services-business-now-has-more-than-1b-subscribers/)
+- [SoftBank launches an OpenAI for Japan: SB Intuitions, building LLMs and generative AI in Japanese](https://techcrunch.com/2023/08/04/softbank-launches-an-openai-for-japan-sb-intuitions-building-llms-and-generative-ai-in-japanese/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
