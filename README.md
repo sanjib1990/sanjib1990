@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hate your commute? Googlers can sleep on campus at a discount](https://techcrunch.com/2023/08/04/hate-your-commute-googlers-can-sleep-on-campus-at-a-discount/)
+- [Henrik Fisker: No ‘final conclusion’ yet in Foxconn deal](https://techcrunch.com/2023/08/04/henrik-fisker-no-final-conclusion-yet-in-foxconn-deal/)
 - [NASA and Axiom Space sign-on for 4th private astronaut mission to space station](https://www.space.com/nasa-axiom-space-ax-4-mission-agreement)
-- [SEC ends investigation into Better.com, which is bleeding cash ahead of planned SPAC vote](https://techcrunch.com/2023/08/04/sec-ends-investigation-into-better-com-which-is-bleeding-cash-ahead-of-planned-spac-vote/)
+- [SEC ends investigation into Better.com, which continues to bleed cash ahead of planned SPAC vote](https://techcrunch.com/2023/08/04/sec-ends-investigation-into-better-com-which-is-bleeding-cash-ahead-of-planned-spac-vote/)
 - [Berkeley Yeast, S2G dish on the future of beer, meat and more at TC Disrupt 2023](https://techcrunch.com/2023/08/04/berkeley-yeast-s2g-dish-on-the-future-of-beer-meat-and-more-at-tc-disrupt-2023/)
-- [Watch NASA&#39;s sci-fi-looking X-59 &#39;quiet&#39; supersonic jet roll out of the hangar &lpar;video&rpar;](https://www.space.com/nasa-x-59-quiet-supersonic-jet-hangar-video)
-- [Unpacking the end of Luko’s solo journey in insurtech](https://techcrunch.com/2023/08/04/unpacking-the-end-of-lukos-solo-journey-in-insurtech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
