@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hate your commute? Googlers can sleep on campus at a discount](https://techcrunch.com/2023/08/04/hate-your-commute-googlers-can-sleep-on-campus-at-a-discount/)
-- [Henrik Fisker: No ‘final conclusion’ yet in Foxconn deal](https://techcrunch.com/2023/08/04/henrik-fisker-no-final-conclusion-yet-in-foxconn-deal/)
-- [NASA and Axiom Space sign-on for 4th private astronaut mission to space station](https://www.space.com/nasa-axiom-space-ax-4-mission-agreement)
-- [SEC ends investigation into Better.com, which continues to bleed cash ahead of planned SPAC vote](https://techcrunch.com/2023/08/04/sec-ends-investigation-into-better-com-which-is-bleeding-cash-ahead-of-planned-spac-vote/)
-- [Berkeley Yeast, S2G dish on the future of beer, meat and more at TC Disrupt 2023](https://techcrunch.com/2023/08/04/berkeley-yeast-s2g-dish-on-the-future-of-beer-meat-and-more-at-tc-disrupt-2023/)
+- [Astra lays off 25% of workforce, reallocates engineers, in an effort to fight dwindling cash reserves](https://techcrunch.com/2023/08/04/astra-lays-off-25-of-workforce-reallocates-engineers-in-an-effort-to-fight-dwindling-cash-reserves/)
+- [Twitch streamer’s PS5 giveaway sparks riot in Union Square](https://techcrunch.com/2023/08/04/twitch-streamer-kai-cenat-influencer-giveaway-union-square-riot/)
+- [Watch William Shatner call the U.S. government&#39;s UFO hearings &#39;ridiculous&#39; &lpar;video&rpar;](https://www.space.com/william-shatner-ufo-hearings-ridiculous-video)
+- [Pony, investor Toyota partner to ‘mass produce’ robotaxis in China](https://techcrunch.com/2023/08/04/pony-investor-toyota-partner-to-mass-produce-robotaxis-in-china/)
+- [SoftBank sues IRL over ‘elaborate scheme’ that swallowed $150M](https://techcrunch.com/2023/08/04/softbank-sues-irl-over-elaborate-scheme-that-swallowed-150m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
