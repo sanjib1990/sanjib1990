@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dan Gwak of Point72 Ventures thinks there has never been a better time for defense tech startups](https://techcrunch.com/2023/08/04/startups-see-just-1-of-dod-spending-says-the-venture-firm-backed-by-billionaire-steve-cohen-its-betting-thats-about-to-change/)
+- [Dan Gwak of Point72 Ventures on why defense tech is becoming the next big thing for investors](https://techcrunch.com/2023/08/04/startups-see-just-1-of-dod-spending-says-the-venture-firm-backed-by-billionaire-steve-cohen-its-betting-thats-about-to-change/)
 - [Astra lays off 25% of workforce, reallocates engineers, in an effort to fight dwindling cash reserves](https://techcrunch.com/2023/08/04/astra-lays-off-25-of-workforce-reallocates-engineers-in-an-effort-to-fight-dwindling-cash-reserves/)
 - [Twitch streamer’s PS5 giveaway sparks Union Square ‘riot’](https://techcrunch.com/2023/08/04/twitch-streamer-kai-cenat-influencer-giveaway-union-square-riot/)
 - [Watch William Shatner call the U.S. government&#39;s UFO hearings &#39;ridiculous&#39; &lpar;video&rpar;](https://www.space.com/william-shatner-ufo-hearings-ridiculous-video)
