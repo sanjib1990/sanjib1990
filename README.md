@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s what the Fearless Fund lawsuit could mean for venture](https://techcrunch.com/2023/08/05/fearless-fund-american-alliance-equal-rights-lawsuit/)
+- [Curious Kids: What comes after space?](https://www.space.com/what-comes-after-space-kids-ask)
+- [SpaceX&#39;s private control of satellite internet concerns military leaders: report](https://www.space.com/spacex-military-concern-private-control-satellite-network-starlink)
 - [Watch China test fire new engine for its planned crewed moon rocket &lpar;video&rpar;](https://www.space.com/china-moon-rocket-engine-test-fire)
 - [The James Webb Space Telescope spotlights Einstein&#39;s genius. A fellow Holocaust survivor remembers him as a friend](https://www.space.com/james-webb-space-telescope-einstein-holocaust-survivor-theories-images)
-- [Dan Gwak of Point72 Ventures on why defense tech is becoming the next big thing for investors](https://techcrunch.com/2023/08/04/startups-see-just-1-of-dod-spending-says-the-venture-firm-backed-by-billionaire-steve-cohen-its-betting-thats-about-to-change/)
-- [Astra lays off 25% of workforce, reallocates engineers, in an effort to fight dwindling cash reserves](https://techcrunch.com/2023/08/04/astra-lays-off-25-of-workforce-reallocates-engineers-in-an-effort-to-fight-dwindling-cash-reserves/)
-- [Twitch streamer’s PS5 giveaway sparks Union Square ‘riot’](https://techcrunch.com/2023/08/04/twitch-streamer-kai-cenat-influencer-giveaway-union-square-riot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
