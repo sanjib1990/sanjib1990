@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in AI: Experiments, retirements, and extinction events](https://techcrunch.com/2023/08/05/this-week-in-ai-experiments-retirements-and-extinction-events/)
+- [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
 - [Here’s what the Fearless Fund lawsuit could mean for venture](https://techcrunch.com/2023/08/05/fearless-fund-american-alliance-equal-rights-lawsuit/)
 - [Curious Kids: What comes after space?](https://www.space.com/what-comes-after-space-kids-ask)
 - [SpaceX&#39;s private control of satellite internet concerns military leaders: report](https://www.space.com/spacex-military-concern-private-control-satellite-network-starlink)
-- [Watch China test fire new engine for its planned crewed moon rocket &lpar;video&rpar;](https://www.space.com/china-moon-rocket-engine-test-fire)
-- [The James Webb Space Telescope spotlights Einstein&#39;s genius. A fellow Holocaust survivor remembers him as a friend](https://www.space.com/james-webb-space-telescope-einstein-holocaust-survivor-theories-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
