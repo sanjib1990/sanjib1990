@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch China test fire new engine for its planned crewed moon rocket &lpar;video&rpar;](https://www.space.com/china-moon-rocket-engine-test-fire)
+- [The James Webb Space Telescope spotlights Einstein&#39;s genius. A fellow Holocaust survivor remembers him as a friend](https://www.space.com/james-webb-space-telescope-einstein-holocaust-survivor-theories-images)
 - [Dan Gwak of Point72 Ventures on why defense tech is becoming the next big thing for investors](https://techcrunch.com/2023/08/04/startups-see-just-1-of-dod-spending-says-the-venture-firm-backed-by-billionaire-steve-cohen-its-betting-thats-about-to-change/)
 - [Astra lays off 25% of workforce, reallocates engineers, in an effort to fight dwindling cash reserves](https://techcrunch.com/2023/08/04/astra-lays-off-25-of-workforce-reallocates-engineers-in-an-effort-to-fight-dwindling-cash-reserves/)
 - [Twitch streamer’s PS5 giveaway sparks Union Square ‘riot’](https://techcrunch.com/2023/08/04/twitch-streamer-kai-cenat-influencer-giveaway-union-square-riot/)
-- [Watch William Shatner call the U.S. government&#39;s UFO hearings &#39;ridiculous&#39; &lpar;video&rpar;](https://www.space.com/william-shatner-ufo-hearings-ridiculous-video)
-- [Pony, investor Toyota partner to ‘mass produce’ robotaxis in China](https://techcrunch.com/2023/08/04/pony-investor-toyota-partner-to-mass-produce-robotaxis-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
