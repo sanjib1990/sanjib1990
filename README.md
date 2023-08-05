@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Steve Jobs’ son launches a fund, NASA debuts a streaming service, and writers protest a proposed surveillance law](https://techcrunch.com/2023/08/05/steve-jobs-son-launches-a-fund-nasa-debuts-a-streaming-service-and-writers-protest-a-proposed-surveillance-law/)
 - [The best apps are taking a page from mobile gaming](https://techcrunch.com/2023/08/05/apps-mobile-gaming/)
 - [Deal Dive: Most secondary sales in venture won’t look like Tiger’s Flipkart deal](https://techcrunch.com/2023/08/05/secondary-venture-sales-tiger-flipkart/)
 - [This week in AI: Experiments, retirements, and extinction events](https://techcrunch.com/2023/08/05/this-week-in-ai-experiments-retirements-and-extinction-events/)
 - [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
-- [Here’s what the Fearless Fund lawsuit could mean for venture](https://techcrunch.com/2023/08/05/fearless-fund-american-alliance-equal-rights-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
