@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA unveils new website and streaming new service landing later this year](https://www.space.com/nasa-streaming-service-2023)
 - [Sun blasts out highest-energy radiation ever recorded, raising questions for solar physics](https://www.space.com/sun-blasts-highest-energy-radiation-ever-recorded-raising-questions-solar-physics)
 - [Will the Law Commission’s digital assets final report make the UK a DeFi jurisdiction of choice?](https://techcrunch.com/2023/08/06/will-the-law-commissions-digital-assets-final-report-make-the-uk-a-defi-jurisdiction-of-choice/)
 - [4 ways generative AI makes founders more interesting to journalists](https://techcrunch.com/2023/08/05/4-ways-generative-ai-makes-founders-more-interesting-to-journalists/)
 - [Steve Jobs’ son launches a fund, NASA debuts a streaming service, and writers protest a proposed surveillance law](https://techcrunch.com/2023/08/05/steve-jobs-son-launches-a-fund-nasa-debuts-a-streaming-service-and-writers-protest-a-proposed-surveillance-law/)
-- [The best apps are taking a page from mobile gaming](https://techcrunch.com/2023/08/05/apps-mobile-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
