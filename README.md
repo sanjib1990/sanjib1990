@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking another look at venture debt](https://techcrunch.com/2023/08/06/taking-another-look-at-venture-debt/)
 - [How Thomson Reuters is leveraging AI to enhance productivity, rather than replace jobs](https://techcrunch.com/2023/08/06/thomson-reuters-ai-jobs/)
 - [How a frugal approach helped land Lula more runway amid a market downturn](https://techcrunch.com/2023/08/06/how-a-frugal-approach-helped-land-lula-more-runway-amid-a-market-downturn-fintech/)
 - [NASA unveils new website and streaming new service landing later this year](https://www.space.com/nasa-streaming-service-2023)
 - [Will the Law Commission’s digital assets final report make the UK a DeFi jurisdiction of choice?](https://techcrunch.com/2023/08/06/will-the-law-commissions-digital-assets-final-report-make-the-uk-a-defi-jurisdiction-of-choice/)
-- [Giant &#39;bubbletrons&#39; shaped the forces of the universe moments after the Big Bang, new study suggests](https://www.space.com/bubbletrons-shaped-universe-after-big-bang-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
