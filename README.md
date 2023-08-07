@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube brings high-quality 1080p option to the web](https://techcrunch.com/2023/08/07/youtube-brings-high-quality-1080p-option-to-the-web/)
+- [Artemis 2 moon mission practice recovered crew from an Orion spacecraft at sea](https://www.space.com/artemis-2-nasa-splashdown-exercise-nasa-goal)
+- [India&#39;s Chandrayaan-3 rover mission reaches moon, beams photos home to Earth &lpar;video&rpar;](https://www.space.com/india-chandrayaan-3-moon-orbit-photos)
 - [Microsoft’s Bing Chat is coming to third-party browsers, including on mobile devices](https://techcrunch.com/2023/08/07/microsofts-bing-chat-is-coming-to-third-party-browsers-including-on-mobile-devices/)
 - [Have we reached peak smartphone?](https://techcrunch.com/2023/08/07/have-we-reached-peak-smartphone/)
-- [5 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/07/5-day-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
-- [French startup Exotrail expands U.S. footprint with two new subsidiaries](https://techcrunch.com/2023/08/07/french-startup-exotrail-expands-u-s-footprint-with-two-new-subsidiaries/)
-- [Nitecore NU31 headlamp review](https://www.space.com/nitecore-nu31-headlamp-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
