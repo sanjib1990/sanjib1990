@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ant Financial to transfer 10.3% Paytm stake to Vijay Shekhar Sharma](https://techcrunch.com/2023/08/06/ant-financial-paytm-vijay-shekhar-sharma/)
+- [Ant Financial transfers Paytm stake worth $628 to Vijay Shekhar Sharma](https://techcrunch.com/2023/08/06/ant-financial-paytm-vijay-shekhar-sharma/)
 - [SpaceX fires up giant new Starship booster ahead of test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-9-static-fire)
 - [Taking another look at venture debt](https://techcrunch.com/2023/08/06/taking-another-look-at-venture-debt/)
 - [How Thomson Reuters is leveraging AI to enhance productivity, rather than replace jobs](https://techcrunch.com/2023/08/06/thomson-reuters-ai-jobs/)
