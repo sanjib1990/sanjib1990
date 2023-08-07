@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube brings high-quality 1080p option to the web](https://techcrunch.com/2023/08/07/youtube-brings-high-quality-1080p-option-to-the-web/)
-- [Artemis 2 moon mission practice recovered crew from an Orion spacecraft at sea](https://www.space.com/artemis-2-nasa-splashdown-exercise-nasa-goal)
-- [India&#39;s Chandrayaan-3 rover mission reaches moon, beams photos home to Earth &lpar;video&rpar;](https://www.space.com/india-chandrayaan-3-moon-orbit-photos)
-- [Microsoft’s Bing Chat is coming to third-party browsers, including on mobile devices](https://techcrunch.com/2023/08/07/microsofts-bing-chat-is-coming-to-third-party-browsers-including-on-mobile-devices/)
-- [Have we reached peak smartphone?](https://techcrunch.com/2023/08/07/have-we-reached-peak-smartphone/)
+- [How European satellite&#39;s landmark demise can aid the fight against space junk](https://www.space.com/aeolus-assisted-reentry-lessons-space-debris)
+- [DoorDash expands retail delivery offerings with new Staples partnership](https://techcrunch.com/2023/08/07/doordash-expands-retail-delivery-offerings-with-new-staples-partnership/)
+- [TikTok seeks aspiring artists to show off their talent in live music competition](https://techcrunch.com/2023/08/07/tiktok-live-music-competition-gimme-the-mic/)
+- [Callsheet for iOS offers a less cluttered, ad-free alternative to IMDb](https://techcrunch.com/2023/08/07/callsheet-for-ios-offers-a-less-cluttered-ad-free-alternative-to-imdb/)
+- [Colorado warns hackers stole 16 years of public school data](https://techcrunch.com/2023/08/07/colorado-ransomware-public-school-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
