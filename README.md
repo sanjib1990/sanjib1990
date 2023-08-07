@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads app is rolling out to a way to see your liked posts](https://techcrunch.com/2023/08/06/threads-app-is-rolling-out-to-a-way-to-see-your-liked-posts/)
 - [Ant Financial transfers Paytm stake worth $628 to Vijay Shekhar Sharma](https://techcrunch.com/2023/08/06/ant-financial-paytm-vijay-shekhar-sharma/)
 - [SpaceX fires up giant new Starship booster ahead of test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-9-static-fire)
 - [Taking another look at venture debt](https://techcrunch.com/2023/08/06/taking-another-look-at-venture-debt/)
 - [How Thomson Reuters is leveraging AI to enhance productivity, rather than replace jobs](https://techcrunch.com/2023/08/06/thomson-reuters-ai-jobs/)
-- [How a frugal approach helped land Lula more runway amid a market downturn](https://techcrunch.com/2023/08/06/how-a-frugal-approach-helped-land-lula-more-runway-amid-a-market-downturn-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
