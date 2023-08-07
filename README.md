@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Netflix is making it easier to rate its movies and shows on mobile](https://techcrunch.com/2023/08/07/netflix-updates-thumbs-rating-feature/)
-- [Scientists reconstruct Aeolus satellite&#39;s fiery fall to Earth from space](https://www.space.com/engineers-reconstruct-aeolus-fiery-earth-retun)
-- [Scientists repeat breakthrough fusion experiment, netting more power than before](https://techcrunch.com/2023/08/07/fusion-ignition-breakthrough-repeated/)
-- [World&#39;s largest radio telescope gets help from smart maintenance robots](https://www.space.com/largest-radio-telescope-smart-maintenance-robots)
-- [Chinese luxury EV brand Zeekr continues global push into Kazakhstan](https://techcrunch.com/2023/08/07/chinese-luxury-ev-brand-zeekr-continues-global-push-into-kazakhstan/)
+- [&#39;Star Trek: Strange New Worlds&#39; showrunners reveal origins of that historic &lpar;and epic&rpar; musical episode](https://www.space.com/star-trek-strange-new-worlds-musical-episode-explained)
+- [Can Mill’s tech-heavy food waste bin find its way into kitchens?](https://techcrunch.com/2023/08/07/mill-compost-review/)
+- [Investors: Discover pipeline possibilities at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/07/investors-discover-pipeline-possibilities-at-techcrunch-disrupt-2023/)
+- [New &#39;Star Trek: Strange New Worlds&#39; crossover featurette reveals its &#39;Lower Decks&#39; animation to live-action shift &lpar;video&rpar;](https://www.space.com/star-trek-strange-new-worlds-lower-decks-crossover-featurette-video)
+- [Boeing’s Starliner crew capsule will not be ready fly crew until March 2024](https://techcrunch.com/2023/08/07/boeings-starliner-crew-capsule-will-not-be-ready-fly-crew-until-march-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
