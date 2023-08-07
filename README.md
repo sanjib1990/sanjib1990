@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s Bing Chat is coming to third-party browsers, including on mobile devices](https://techcrunch.com/2023/08/07/microsofts-bing-chat-is-coming-to-third-party-browsers-including-on-mobile-devices/)
+- [Have we reached peak smartphone?](https://techcrunch.com/2023/08/07/have-we-reached-peak-smartphone/)
+- [5 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/07/5-day-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
+- [French startup Exotrail expands U.S. footprint with two new subsidiaries](https://techcrunch.com/2023/08/07/french-startup-exotrail-expands-u-s-footprint-with-two-new-subsidiaries/)
 - [Nitecore NU31 headlamp review](https://www.space.com/nitecore-nu31-headlamp-review)
-- [Artemis 1 cubesat finishes mission after detecting water and ice on the moon](https://www.space.com/artemis-1-cubesat-ice-hunting-mission-ends)
-- [PayPal launches PYUSD stablecoin for payments and transfers](https://techcrunch.com/2023/08/07/paypal-launches-pyusd-stablecoin-for-payments-and-transfers/)
-- [Tesla CFO, ‘Master of Coin’ Zachary Kirkhorn steps down](https://techcrunch.com/2023/08/07/tesla-cfo-master-of-coin-zachary-kirkhorn-steps-down/)
-- [Skyline raises $3.35M to clean skyscraper windows with robots](https://techcrunch.com/2023/08/07/skyline-raises-3-35m-to-clean-skyscraper-windows-with-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
