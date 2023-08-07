@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix is making it easier to rate its movies and shows on mobile](https://techcrunch.com/2023/08/07/netflix-updates-thumbs-rating-feature/)
+- [Scientists reconstruct Aeolus satellite&#39;s fiery fall to Earth from space](https://www.space.com/engineers-reconstruct-aeolus-fiery-earth-retun)
 - [Scientists repeat breakthrough fusion experiment, netting more power than before](https://techcrunch.com/2023/08/07/fusion-ignition-breakthrough-repeated/)
 - [World&#39;s largest radio telescope gets help from smart maintenance robots](https://www.space.com/largest-radio-telescope-smart-maintenance-robots)
 - [Chinese luxury EV brand Zeekr continues global push into Kazakhstan](https://techcrunch.com/2023/08/07/chinese-luxury-ev-brand-zeekr-continues-global-push-into-kazakhstan/)
-- [Triller’s upcoming listing likely won’t resurrect the US IPO market](https://techcrunch.com/2023/08/07/trillers-upcoming-listing-likely-wont-resurrect-the-us-ipo-market/)
-- [Cruise begins testing self-driving vehicles in Atlanta](https://techcrunch.com/2023/08/07/cruise-begins-testing-self-driving-vehicles-in-atlanta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
