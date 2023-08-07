@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meatable sinks its teeth into $35M to accelerate launch of its cultivated pork products](https://techcrunch.com/2023/08/07/meatable-35m-cultivated-meat-pork-foodtech/)
+- [Authors are losing their patience with AI, part 349235](https://techcrunch.com/2023/08/07/authors-ai-prosecraft/)
 - [GM’s BrightDrop to expand commercial EV business to Mexico](https://techcrunch.com/2023/08/07/gms-brightdrop-to-expand-commercial-ev-business-to-mexico/)
 - [Max Q: A rocket retirement and layoffs at Planet, Astra](https://techcrunch.com/2023/08/07/max-q-a-rocket-retirement-and-layoffs-at-planet-astra/)
 - [China launches Fengyun-3F meteorological satellite to orbit](https://www.space.com/china-launches-fengyun-3f-weather-satellite)
-- [Watch SpaceX launch 15 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-20)
-- [All the &#39;Star Trek&#39; news we found from San Diego Comic-Con 2023](https://www.space.com/star-trek-comic-con-news-sdcc-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
