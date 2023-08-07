@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese launch startup tests landing rockets with jet-powered prototype](https://www.space.com/china-startup-tests-landing-rocket-jet-powered)
 - [One Model lands $41M to bring data science-powered insights to HR](https://techcrunch.com/2023/08/07/one-model-lands-41m-to-bring-data-science-powered-insights-to-hr/)
 - [Array Labs is scanning the Earth from space to equip autonomous vehicles with 3D maps](https://techcrunch.com/2023/08/07/array-labs-is-scanning-the-earth-from-space-to-power-autonomous-vehicles-with-3d-maps/)
 - [India pushes ahead with data privacy bill despite pushback from critics](https://techcrunch.com/2023/08/07/india-digital-data-privacy-bill/)
 - [See Jupiter and the half moon join up in the night sky tonight](https://www.space.com/moon-jupiter-august-2023)
-- [Connected car data is the next big privacy fight, Fisker lays out its future EV portfolio and Waymo ramps up in Austin](https://techcrunch.com/2023/08/07/connected-car-data-is-the-next-big-privacy-fight-fisker-lays-out-its-future-ev-portfolio-and-waymo-ramps-up-in-austin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
