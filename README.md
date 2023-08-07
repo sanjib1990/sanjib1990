@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Trek: Strange New Worlds&#39; showrunners reveal origins of that historic &lpar;and epic&rpar; musical episode](https://www.space.com/star-trek-strange-new-worlds-musical-episode-explained)
-- [Can Mill’s tech-heavy food waste bin find its way into kitchens?](https://techcrunch.com/2023/08/07/mill-compost-review/)
-- [Investors: Discover pipeline possibilities at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/07/investors-discover-pipeline-possibilities-at-techcrunch-disrupt-2023/)
-- [New &#39;Star Trek: Strange New Worlds&#39; crossover featurette reveals its &#39;Lower Decks&#39; animation to live-action shift &lpar;video&rpar;](https://www.space.com/star-trek-strange-new-worlds-lower-decks-crossover-featurette-video)
-- [Boeing’s Starliner crew capsule will not be ready fly crew until March 2024](https://techcrunch.com/2023/08/07/boeings-starliner-crew-capsule-will-not-be-ready-fly-crew-until-march-2024/)
+- [Watch SpaceX launch 15 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-20)
+- [All the &#39;Star Trek&#39; news we found from San Diego Comic-Con 2023](https://www.space.com/star-trek-comic-con-news-sdcc-2023)
+- [TikTok users can now watch a full episode of Peacock’s “Killing It”](https://techcrunch.com/2023/08/07/tiktok-full-episode-peacock-tv-show-killing-it/)
+- [Lucid plans to start production of Gravity electric SUV in late 2024](https://techcrunch.com/2023/08/07/lucid-plans-to-start-production-of-gravity-electric-suv-in-late-2024/)
+- [Boeing delays 1st Starliner astronaut launch for NASA to March 2024 &lpar;at the earliest&rpar;](https://www.space.com/boeing-starliner-launch-delay-march-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
