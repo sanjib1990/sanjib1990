@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How European satellite&#39;s landmark demise can aid the fight against space junk](https://www.space.com/aeolus-assisted-reentry-lessons-space-debris)
-- [DoorDash expands retail delivery offerings with new Staples partnership](https://techcrunch.com/2023/08/07/doordash-expands-retail-delivery-offerings-with-new-staples-partnership/)
-- [TikTok seeks aspiring artists to show off their talent in live music competition](https://techcrunch.com/2023/08/07/tiktok-live-music-competition-gimme-the-mic/)
-- [Callsheet for iOS offers a less cluttered, ad-free alternative to IMDb](https://techcrunch.com/2023/08/07/callsheet-for-ios-offers-a-less-cluttered-ad-free-alternative-to-imdb/)
-- [Colorado warns hackers stole 16 years of public school data](https://techcrunch.com/2023/08/07/colorado-ransomware-public-school-data/)
+- [Scientists repeat breakthrough fusion experiment, netting more power than before](https://techcrunch.com/2023/08/07/fusion-ignition-breakthrough-repeated/)
+- [World&#39;s largest radio telescope gets help from smart maintenance robots](https://www.space.com/largest-radio-telescope-smart-maintenance-robots)
+- [Chinese luxury EV brand Zeekr continues global push into Kazakhstan](https://techcrunch.com/2023/08/07/chinese-luxury-ev-brand-zeekr-continues-global-push-into-kazakhstan/)
+- [Triller’s upcoming listing likely won’t resurrect the US IPO market](https://techcrunch.com/2023/08/07/trillers-upcoming-listing-likely-wont-resurrect-the-us-ipo-market/)
+- [Cruise begins testing self-driving vehicles in Atlanta](https://techcrunch.com/2023/08/07/cruise-begins-testing-self-driving-vehicles-in-atlanta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
