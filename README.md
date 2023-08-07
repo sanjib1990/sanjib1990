@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM’s BrightDrop to expand commercial EV business to Mexico](https://techcrunch.com/2023/08/07/gms-brightdrop-to-expand-commercial-ev-business-to-mexico/)
+- [Max Q: A rocket retirement and layoffs at Planet, Astra](https://techcrunch.com/2023/08/07/max-q-a-rocket-retirement-and-layoffs-at-planet-astra/)
+- [China launches Fengyun-3F meteorological satellite to orbit](https://www.space.com/china-launches-fengyun-3f-weather-satellite)
 - [Watch SpaceX launch 15 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-20)
 - [All the &#39;Star Trek&#39; news we found from San Diego Comic-Con 2023](https://www.space.com/star-trek-comic-con-news-sdcc-2023)
-- [TikTok users can now watch a full episode of Peacock’s “Killing It”](https://techcrunch.com/2023/08/07/tiktok-full-episode-peacock-tv-show-killing-it/)
-- [Lucid plans to start production of Gravity electric SUV in late 2024](https://techcrunch.com/2023/08/07/lucid-plans-to-start-production-of-gravity-electric-suv-in-late-2024/)
-- [Boeing delays 1st Starliner astronaut launch for NASA to March 2024 &lpar;at the earliest&rpar;](https://www.space.com/boeing-starliner-launch-delay-march-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
