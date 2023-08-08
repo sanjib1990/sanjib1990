@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia teams up with Hugging Face to offer cloud-based AI training](https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/)
-- [Nvidia’s AI Workbench brings model fine-tuning to workstations](https://techcrunch.com/2023/08/08/nvidias-ai-workbench-brings-model-fine-tuning-to-workstations/)
-- [The Volvo EX30’s interior is the IKEA take on Tesla’s playbook](https://techcrunch.com/2023/08/08/the-volvo-ex30s-interior-is-the-ikea-take-on-teslas-playbook/)
-- [No, it’s never too early to make sure a founder is telling the truth](https://techcrunch.com/2023/08/08/liar-liar-pants-on-fire/)
-- [Bringing VR to IRL classrooms with Anurupa Ganguly of Prisms](https://techcrunch.com/2023/08/08/bringing-vr-to-irl-classrooms-with-anurupa-ganguly-of-prisms/)
+- [TechCrunch+ Roundup: How VCs spot liars, venture debt basics, getting legal help &lpar;without going broke&rpar;](https://techcrunch.com/2023/08/08/how-vcs-spot-liars-venture-debt-basics-getting-legal-help-without-going-broke/)
+- [Google launches Project IDX, a new AI-enabled browser-based development environment](https://techcrunch.com/2023/08/08/google-launches-project-idx-a-new-ai-enabled-browser-based-development-environment/)
+- [Sling TV struggles to keep subscribers, drops nearly 100K users in Q2](https://techcrunch.com/2023/08/08/sling-tv-q2-2023/)
+- [SoftBank is getting its investing mojo back](https://techcrunch.com/2023/08/08/softbank-is-getting-its-investing-mojo-back/)
+- [Olight Perun 2 headlamp review](https://www.space.com/olight-perun-2-headlamp-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
