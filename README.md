@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars helicopter Ingenuity spies Perseverance rover during 54th Red Planet flight &lpar;photo, video&rpar;](https://www.space.com/mars-helicopter-ingenuity-perseverance-photo-54th-flight)
-- [Horizon3 secures $40M to expand its pen testing platform](https://techcrunch.com/2023/08/08/horizon3-secures-40m-to-expand-its-pen-testing-platform/)
-- [Spotify expands its AI-powered DJ feature globally](https://techcrunch.com/2023/08/08/spotify-expands-its-ai-dj-feature-globally/)
-- [See the moon dance with the Seven Sisters of the Pleiades before dawn on Aug. 9](https://www.space.com/moon-close-to-pleiades-seven-sisters-august-2023-skywatching-target)
-- [Best Star Trek games of all time](https://www.space.com/best-star-trek-games)
+- [Simon Data is putting customer data to work with $54M Series D](https://techcrunch.com/2023/08/08/simon-data-is-putting-customer-data-to-work-with-54m-series-d/)
+- [Greenlight’s new credit card helps teens, their parents build credit together](https://techcrunch.com/2023/08/08/greenlight-credit-card-teens-fintech/)
+- [Catch+Release is building an AI-powered search engine to help brands license user-generated content](https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/)
+- [Flower lands $3.6M to grow its platform for federated learning](https://techcrunch.com/2023/08/08/flower-lands-3-6m-to-grow-its-platform-for-federated-learning/)
+- [Chargeflow, which taps AI to fight chargebacks, raises $14M](https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
