@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenyan logistics startup Sendy shuts down, embarks on asset sale](https://techcrunch.com/2023/08/08/kenyan-logistics-startup-sendy-shuts-down-embarks-on-asset-sale/)
+- [YouTube no longer suggests videos if your ‘watch history’ is turned off](https://techcrunch.com/2023/08/08/youtube-update-homepage-watch-history/)
 - [Firefly debuts Elytra orbital transfer vehicle line, with first mission planned for 2024](https://techcrunch.com/2023/08/08/firefly-debuts-elytra-orbital-transfer-vehicles/)
 - [Google’s Messages app will now use RCS by default and encrypt group chats](https://techcrunch.com/2023/08/08/google-messages-will-now-use-rcs-by-default-and-encrypt-group-chats/)
 - [Kickstarter’s CEO eyes the future of crowdfunding at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/08/kickstarters-ceo-eyes-the-future-of-crowdfunding-at-techcrunch-disrupt-2023/)
-- [5 lessons robotics founders can learn from the AV industry](https://techcrunch.com/2023/08/08/5-lessons-robotics-founders-can-learn-from-the-av-industry/)
-- [Trio of tiny autonomous NASA rovers will launch to the moon next year](https://www.space.com/nasa-cadre-autonomous-mini-moon-rovers-2024-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
