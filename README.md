@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet with Samsung Next and other pivotal partners at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/07/pivotal-partners-support-techcrunch-disrupt-2023/)
 - [Meatable sinks its teeth into $35M to accelerate launch of its cultivated pork products](https://techcrunch.com/2023/08/07/meatable-35m-cultivated-meat-pork-foodtech/)
 - [Authors are losing their patience with AI, part 349235](https://techcrunch.com/2023/08/07/authors-ai-prosecraft/)
 - [GM’s BrightDrop to expand commercial EV business to Mexico](https://techcrunch.com/2023/08/07/gms-brightdrop-to-expand-commercial-ev-business-to-mexico/)
 - [Max Q: A rocket retirement and layoffs at Planet, Astra](https://techcrunch.com/2023/08/07/max-q-a-rocket-retirement-and-layoffs-at-planet-astra/)
-- [China launches Fengyun-3F meteorological satellite to orbit](https://www.space.com/china-launches-fengyun-3f-weather-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
