@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Syntellis, an enterprise performance management provider, sells for $1.25B](https://techcrunch.com/2023/08/08/syntellis-an-enterprise-performance-management-provider-sells-for-1-25b/)
-- [X’s takeover of @music handle hints toward possible music plans](https://techcrunch.com/2023/08/08/xs-takeover-of-music-handle-hints-toward-possible-music-plans/)
-- [Cramorant is back, baby](https://techcrunch.com/2023/08/08/cramorant-scarlet-violet-dlc/)
-- [WhatsApp introduces screen-sharing during video calls](https://techcrunch.com/2023/08/08/whatsapp-screen-sharing-video-calls-landscape/)
-- [Rubrik acquires Laminar for up to $250M to expand in data security across public clouds](https://techcrunch.com/2023/08/08/rubrik-laminar-cloud-security/)
+- [Nvidia teams up with Hugging Face to offer cloud-based AI training](https://techcrunch.com/2023/08/08/nvidia-teams-up-with-hugging-face-to-offer-cloud-based-ai-training/)
+- [Nvidia’s AI Workbench brings model fine-tuning to workstations](https://techcrunch.com/2023/08/08/nvidias-ai-workbench-brings-model-fine-tuning-to-workstations/)
+- [The Volvo EX30’s interior is the IKEA take on Tesla’s playbook](https://techcrunch.com/2023/08/08/the-volvo-ex30s-interior-is-the-ikea-take-on-teslas-playbook/)
+- [No, it’s never too early to make sure a founder is telling the truth](https://techcrunch.com/2023/08/08/liar-liar-pants-on-fire/)
+- [Bringing VR to IRL classrooms with Anurupa Ganguly of Prisms](https://techcrunch.com/2023/08/08/bringing-vr-to-irl-classrooms-with-anurupa-ganguly-of-prisms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
