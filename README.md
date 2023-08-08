@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefly debuts Elytra orbital transfer vehicle line, with first mission planned for 2024](https://techcrunch.com/2023/08/08/firefly-debuts-elytra-orbital-transfer-vehicles/)
+- [Google’s Messages app will now use RCS by default and encrypt group chats](https://techcrunch.com/2023/08/08/google-messages-will-now-use-rcs-by-default-and-encrypt-group-chats/)
+- [Kickstarter’s CEO eyes the future of crowdfunding at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/08/kickstarters-ceo-eyes-the-future-of-crowdfunding-at-techcrunch-disrupt-2023/)
+- [5 lessons robotics founders can learn from the AV industry](https://techcrunch.com/2023/08/08/5-lessons-robotics-founders-can-learn-from-the-av-industry/)
 - [Trio of tiny autonomous NASA rovers will launch to the moon next year](https://www.space.com/nasa-cadre-autonomous-mini-moon-rovers-2024-launch)
-- [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
-- [Powerful sun storm knocks out radio transmissions across North America](https://www.space.com/x-class-solar-flare-radio-blackout-august-2023)
-- [Cruise inches into Waymo’s territory in the Phoenix area](https://techcrunch.com/2023/08/08/cruise-inches-into-waymos-territory-in-the-phoenix-area/)
-- [TechCrunch+ Roundup: How VCs spot liars, venture debt basics, getting legal help &lpar;without going broke&rpar;](https://techcrunch.com/2023/08/08/how-vcs-spot-liars-venture-debt-basics-getting-legal-help-without-going-broke/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
