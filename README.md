@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Simon Data is putting customer data to work with $54M Series D](https://techcrunch.com/2023/08/08/simon-data-is-putting-customer-data-to-work-with-54m-series-d/)
-- [Greenlight’s new credit card helps teens, their parents build credit together](https://techcrunch.com/2023/08/08/greenlight-credit-card-teens-fintech/)
-- [Catch+Release is building an AI-powered search engine to help brands license user-generated content](https://techcrunch.com/2023/08/08/catchrelease-raises-8m-to-help-brands-discover-and-license-user-generated-content/)
-- [Flower lands $3.6M to grow its platform for federated learning](https://techcrunch.com/2023/08/08/flower-lands-3-6m-to-grow-its-platform-for-federated-learning/)
-- [Chargeflow, which taps AI to fight chargebacks, raises $14M](https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/)
+- [WhatsApp introduces screen-sharing during video calls](https://techcrunch.com/2023/08/08/whatsapp-screen-sharing-video-calls-landscape/)
+- [Rubrik acquires Laminar for up to $250M to expand in data security across public clouds](https://techcrunch.com/2023/08/08/rubrik-laminar-cloud-security/)
+- [Amazon is holding a Prime Day-like shopping event this fall once again](https://techcrunch.com/2023/08/08/amazon-is-holding-a-prime-day-like-shopping-event-this-fall-once-again/)
+- [Peak XV-backed gaming startup MPL cuts workforce by 50% amid taxation changes](https://techcrunch.com/2023/08/08/mpl-layoffs/)
+- [A small and electric Land Rover Defender sounds likely for 2027](https://techcrunch.com/2023/08/08/a-small-and-electric-land-rover-defender-sounds-likely-for-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
