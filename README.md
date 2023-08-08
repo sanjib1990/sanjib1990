@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft wants to kill surge pricing](https://techcrunch.com/2023/08/08/lyft-wants-to-kill-surge-pricing/)
+- [Human toddlers are inspiring new approaches to robot learning](https://techcrunch.com/2023/08/08/human-toddlers-are-inspiring-new-approaches-to-robot-learning/)
+- [Lyft shares pop, then plop, as it predicts slow and steady growth](https://techcrunch.com/2023/08/08/lyft-shares-pop-then-plop-as-it-predicts-slow-and-steady-growth/)
+- [Russian rocket debris falls from space in spectacular fireball over southern Australia &lpar;video&rpar;](https://www.space.com/russian-rocket-fall-fireball-southern-australia)
 - [So your startup’s runway is dwindling and fundraising is hard. What’s next?](https://techcrunch.com/2023/08/08/so-your-startups-runway-is-dwindling-and-fundraising-is-hard-whats-next/)
-- [Rivian beats on Q2 revenue, raises EV production guidance for 2023](https://techcrunch.com/2023/08/08/rivian-beats-on-q2-revenue-raises-ev-production-guidance-for-2023/)
-- [Artemis 2 astronauts eager to prep Orion spacecraft for more moon missions](https://www.space.com/artemis-2-crew-orion-spacecraft-future-moon-missions)
-- [Kenyan logistics startup Sendy shuts down, embarks on asset sale](https://techcrunch.com/2023/08/08/kenyan-logistics-startup-sendy-shuts-down-embarks-on-asset-sale/)
-- [YouTube no longer suggests videos if your ‘watch history’ is turned off](https://techcrunch.com/2023/08/08/youtube-update-homepage-watch-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
