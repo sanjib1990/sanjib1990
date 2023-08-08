@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Syntellis, an enterprise performance management provider, sells for $1.25B](https://techcrunch.com/2023/08/08/syntellis-an-enterprise-performance-management-provider-sells-for-1-25b/)
+- [X’s takeover of @music handle hints toward possible music plans](https://techcrunch.com/2023/08/08/xs-takeover-of-music-handle-hints-toward-possible-music-plans/)
+- [Cramorant is back, baby](https://techcrunch.com/2023/08/08/cramorant-scarlet-violet-dlc/)
 - [WhatsApp introduces screen-sharing during video calls](https://techcrunch.com/2023/08/08/whatsapp-screen-sharing-video-calls-landscape/)
 - [Rubrik acquires Laminar for up to $250M to expand in data security across public clouds](https://techcrunch.com/2023/08/08/rubrik-laminar-cloud-security/)
-- [Amazon is holding a Prime Day-like shopping event this fall once again](https://techcrunch.com/2023/08/08/amazon-is-holding-a-prime-day-like-shopping-event-this-fall-once-again/)
-- [Peak XV-backed gaming startup MPL cuts workforce by 50% amid taxation changes](https://techcrunch.com/2023/08/08/mpl-layoffs/)
-- [A small and electric Land Rover Defender sounds likely for 2027](https://techcrunch.com/2023/08/08/a-small-and-electric-land-rover-defender-sounds-likely-for-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
