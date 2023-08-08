@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trio of tiny autonomous NASA rovers will launch to the moon next year](https://www.space.com/nasa-cadre-autonomous-mini-moon-rovers-2024-launch)
+- [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
+- [Powerful sun storm knocks out radio transmissions across North America](https://www.space.com/x-class-solar-flare-radio-blackout-august-2023)
+- [Cruise inches into Waymo’s territory in the Phoenix area](https://techcrunch.com/2023/08/08/cruise-inches-into-waymos-territory-in-the-phoenix-area/)
 - [TechCrunch+ Roundup: How VCs spot liars, venture debt basics, getting legal help &lpar;without going broke&rpar;](https://techcrunch.com/2023/08/08/how-vcs-spot-liars-venture-debt-basics-getting-legal-help-without-going-broke/)
-- [Google launches Project IDX, a new AI-enabled browser-based development environment](https://techcrunch.com/2023/08/08/google-launches-project-idx-a-new-ai-enabled-browser-based-development-environment/)
-- [Sling TV struggles to keep subscribers, drops nearly 100K users in Q2](https://techcrunch.com/2023/08/08/sling-tv-q2-2023/)
-- [SoftBank is getting its investing mojo back](https://techcrunch.com/2023/08/08/softbank-is-getting-its-investing-mojo-back/)
-- [Olight Perun 2 headlamp review](https://www.space.com/olight-perun-2-headlamp-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
