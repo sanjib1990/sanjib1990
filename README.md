@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank posts loss, with a cumulative loss of $6.3B in its Vision Fund business](https://techcrunch.com/2023/08/08/softbank-posts-loss-with-a-cumulative-loss-of-6-3b-in-its-vision-fund-business/)
 - [Seoul-based proptech Dongnae acquires co-living platform Dears](https://techcrunch.com/2023/08/07/seoul-based-proptech-dongnae-acquires-co-living-platform-dears/)
 - [Apple Music adds a new algorithmic station to let users discover new music](https://techcrunch.com/2023/08/07/apple-music-adds-a-new-algorithmic-station-to-let-users-discover-new-music/)
 - [China’s draft measures demand ‘individual consent’ for facial recognition use](https://techcrunch.com/2023/08/07/chinas-draft-measures-demand-individual-consent-for-facial-recognition-use/)
 - [Meet with Samsung Next and other pivotal partners at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/07/pivotal-partners-support-techcrunch-disrupt-2023/)
-- [Meatable sinks its teeth into $35M to accelerate launch of its cultivated pork products](https://techcrunch.com/2023/08/07/meatable-35m-cultivated-meat-pork-foodtech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
