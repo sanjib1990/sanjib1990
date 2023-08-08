@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stay up late to see the half-lit moon during its last quarter phase tonight](https://www.space.com/see-half-lit-moon-last-quarter-phase-august-2023)
+- [Astroscale aims to capture old space junk with robotic arm in 2026 &lpar;exclusive video&rpar;](https://www.space.com/astroscale-space-junk-removal-2026-plan-exclusive-video)
 - [Europe confirms in-depth probe for Adobe’s $20B Figma acquisition](https://techcrunch.com/2023/08/08/europe-adobe-figma-acquisition/)
 - [Paramount+ tops 61 million subscribers after Showtime merger](https://techcrunch.com/2023/08/08/paramount-tops-61-million-subscribers-after-showtime-merger/)
 - [SoftBank posts loss, with a cumulative loss of $6.3B in its Vision Fund business](https://techcrunch.com/2023/08/08/softbank-posts-loss-with-a-cumulative-loss-of-6-3b-in-its-vision-fund-business/)
-- [Seoul-based proptech Dongnae acquires co-living platform Dears](https://techcrunch.com/2023/08/07/seoul-based-proptech-dongnae-acquires-co-living-platform-dears/)
-- [Apple Music adds a new algorithmic station to let users discover new music](https://techcrunch.com/2023/08/07/apple-music-adds-a-new-algorithmic-station-to-let-users-discover-new-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
