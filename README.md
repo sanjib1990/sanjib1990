@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Powered by electric vehicle growth, China overtakes Japan as biggest auto exporter](https://techcrunch.com/2023/08/08/powered-by-electric-vehicle-growth-china-overtakes-japan-as-biggest-auto-exporter/)
-- [Stay up late to see the half-lit moon during its last quarter phase tonight](https://www.space.com/see-half-lit-moon-last-quarter-phase-august-2023)
-- [Astroscale aims to capture old space junk with robotic arm in 2026 &lpar;exclusive video&rpar;](https://www.space.com/astroscale-space-junk-removal-2026-plan-exclusive-video)
-- [Europe confirms in-depth probe for Adobe’s $20B Figma acquisition](https://techcrunch.com/2023/08/08/europe-adobe-figma-acquisition/)
-- [Paramount+ tops 61 million subscribers after Showtime merger](https://techcrunch.com/2023/08/08/paramount-tops-61-million-subscribers-after-showtime-merger/)
+- [Mars helicopter Ingenuity spies Perseverance rover during 54th Red Planet flight &lpar;photo, video&rpar;](https://www.space.com/mars-helicopter-ingenuity-perseverance-photo-54th-flight)
+- [Horizon3 secures $40M to expand its pen testing platform](https://techcrunch.com/2023/08/08/horizon3-secures-40m-to-expand-its-pen-testing-platform/)
+- [Spotify expands its AI-powered DJ feature globally](https://techcrunch.com/2023/08/08/spotify-expands-its-ai-dj-feature-globally/)
+- [See the moon dance with the Seven Sisters of the Pleiades before dawn on Aug. 9](https://www.space.com/moon-close-to-pleiades-seven-sisters-august-2023-skywatching-target)
+- [Best Star Trek games of all time](https://www.space.com/best-star-trek-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
