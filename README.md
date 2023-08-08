@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lyft wants to kill surge pricing](https://techcrunch.com/2023/08/08/lyft-wants-to-kill-surge-pricing/)
-- [Human toddlers are inspiring new approaches to robot learning](https://techcrunch.com/2023/08/08/human-toddlers-are-inspiring-new-approaches-to-robot-learning/)
-- [Lyft shares pop, then plop, as it predicts slow and steady growth](https://techcrunch.com/2023/08/08/lyft-shares-pop-then-plop-as-it-predicts-slow-and-steady-growth/)
-- [Russian rocket debris falls from space in spectacular fireball over southern Australia &lpar;video&rpar;](https://www.space.com/russian-rocket-fall-fireball-southern-australia)
-- [So your startup’s runway is dwindling and fundraising is hard. What’s next?](https://techcrunch.com/2023/08/08/so-your-startups-runway-is-dwindling-and-fundraising-is-hard-whats-next/)
+- [The chemical contamination of the International Space Station is out of this world &lpar;and not in a good way&rpar;](https://www.space.com/chemical-contaminant-levels-discovered-on-international-space-station)
+- [WeWork goes from a $47B valuation to ‘substantial doubts’ about its ‘ability to continue as a going concern’](https://techcrunch.com/2023/08/08/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern/)
+- [Can&#39;t wait for &#39;Dune Part 2&#39;? Let your creativity flow with this official &#39;Dune&#39; coloring book](https://www.space.com/dune-coloring-book-launch-september-2023)
+- [This &#39;Star Wars&#39; auction could put Han Solo&#39;s blaster or Chewbacca&#39;s bowcaster in your hands](https://www.space.com/star-wars-star-strek-film-props-auction-september-2023)
+- [Meet the crew of Virgin Galactic&#39;s 2nd commercial spaceflight](https://www.space.com/virgin-galactic-meet-the-crew-galactic02-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
