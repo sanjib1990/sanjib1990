@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BlueJeans folds](https://techcrunch.com/2023/08/08/bluejeans-folds/)
+- [Singapore wealth management platform Endowus raises $35M](https://techcrunch.com/2023/08/08/endowus-35million/)
 - [The chemical contamination of the International Space Station is out of this world &lpar;and not in a good way&rpar;](https://www.space.com/chemical-contaminant-levels-discovered-on-international-space-station)
 - [WeWork goes from a $47B valuation to ‘substantial doubts’ about its ‘ability to continue as a going concern’](https://techcrunch.com/2023/08/08/wework-goes-from-a-47b-valuation-to-subtantial-doubts-about-its-ability-to-continue-as-a-going-concern/)
 - [Can&#39;t wait for &#39;Dune Part 2&#39;? Let your creativity flow with this official &#39;Dune&#39; coloring book](https://www.space.com/dune-coloring-book-launch-september-2023)
-- [This &#39;Star Wars&#39; auction could put Han Solo&#39;s blaster or Chewbacca&#39;s bowcaster in your hands](https://www.space.com/star-wars-star-strek-film-props-auction-september-2023)
-- [Meet the crew of Virgin Galactic&#39;s 2nd commercial spaceflight](https://www.space.com/virgin-galactic-meet-the-crew-galactic02-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
