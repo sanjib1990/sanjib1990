@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GoodNotes’ biggest update in four years brings AI-powered handwriting features and a digital marketplace](https://techcrunch.com/2023/08/09/goodnotes-biggest-update-in-four-years-brings-ai-powered-handwriting-features-and-a-digital-marketplace/)
-- [Watch 2 Russian cosmonauts conduct spacewalk outside ISS today](https://www.space.com/russian-cosmonaut-spacewalk-august-9-webcast)
-- [South Korea marks anniversary of 1st lunar probe with new moon photos](https://www.space.com/south-korea-danuri-moon-probe-anniversary-photos)
-- [Pretiosum Ventures hits first close on its second fund to back infrastructure startups](https://techcrunch.com/2023/08/09/pretiosum-ventures-hits-first-close-on-its-second-fund-to-back-infrastructure-startups/)
-- [Coupang to ramp up investment in Taiwan after four quarters of profits](https://techcrunch.com/2023/08/09/coupang-to-ramp-up-investment-in-taiwan-after-four-quarters-of-profits/)
+- [Deepset secures $30M to expand its LLM-focused MLOps offerings](https://techcrunch.com/2023/08/09/deepset-secures-30m-to-expand-its-llm-focused-mlops-offerings/)
+- [Atmosfy, an app that helps you discover local businesses through short-from video, raises $12M](https://techcrunch.com/2023/08/09/atmosfy-an-app-that-helps-you-discover-local-businesses-through-short-from-video-raises-12m/)
+- [Parsing the UK voter register cyberattack](https://techcrunch.com/2023/08/09/parsing-uk-electoral-commission-cyberattack/)
+- [China aims to boost low-cost space science with &#39;Innovation X&#39; rideshare program](https://www.space.com/chinas-innovation-x-satellite-program-boost-low-cost-space-science)
+- [Star Wars should have focused on the Sith ages ago](https://www.space.com/star-wars-should-have-focused-on-the-sith-ages-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
