@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coupang to ramp up investment in Taiwan after four quarters of profits](https://techcrunch.com/2023/08/09/coupang-to-ramp-up-investment-in-taiwan-after-four-quarters-of-profits/)
 - [Made Renovation promises “tech-enabled” remodels; customers describe “absolute nightmare”](https://techcrunch.com/2023/08/08/made-renovation-promised-tech-enabled-remodels-customers-describe-absolute-nightmare/)
 - [Micromax, smartphone sales stalled, eyes a steer into electric vehicles](https://techcrunch.com/2023/08/08/micromax-india-ev-smartphone/)
 - [Zoom knots itself a legal tangle over use of customer data for training AI models](https://techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr-eprivacy/)
 - [BlueJeans folds](https://techcrunch.com/2023/08/08/bluejeans-folds/)
-- [Singapore wealth management platform Endowus raises $35M](https://techcrunch.com/2023/08/08/endowus-35million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
