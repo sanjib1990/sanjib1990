@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is Virgin Galactic&#39;s Galactic-02 space tourist launch on Aug. 10? Here&#39;s how to watch live.](https://www.space.com/virgin-galactic-galactic02-launch-time)
+- [Anthropic launches improved version of its entry-level LLM](https://techcrunch.com/2023/08/09/anthropic-launches-improved-version-of-its-entry-level-llm/)
+- [Reddit’s menswear hub is the latest casualty of its battle with moderators](https://techcrunch.com/2023/08/09/reddit-male-fashion-advice-mod-take-over-api-protest/)
+- [What led to EV darling Proterra’s bankruptcy](https://techcrunch.com/2023/08/09/what-led-to-ev-darling-proterras-bankruptcy/)
 - [Messina joins Ride Home Fund’s new $15M AI vehicle, backed by Andreessen, Dixon, Crowley](https://techcrunch.com/2023/08/09/messina-joins-ride-home-funds-new-15m-ai-vehicle-backed-by-andreessen-dixon-crowley/)
-- [Creators vow not to scab as SAG-AFTRA, WGA strikes continue](https://techcrunch.com/2023/08/09/creators-vow-not-to-scab-as-sag-aftra-wga-strikes-continues/)
-- [Researchers watched 100 hours of hackers hacking honeypot computers](https://techcrunch.com/2023/08/09/researchers-watched-100-hours-of-hackers-hacking-honeypot-computers/)
-- [Special counsel secured a secret search warrant for Trump’s Twitter account](https://techcrunch.com/2023/08/09/trump-special-counsel-twitter-search-warrant/)
-- [Beacon’s latest demo day startups are a bet that the future might be multichain](https://techcrunch.com/2023/08/09/beacon-demo-day-s23-cohort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
