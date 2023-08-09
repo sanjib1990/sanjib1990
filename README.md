@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GoodNotes’ biggest update in four years brings AI-powered handwriting features and a digital marketplace](https://techcrunch.com/2023/08/09/goodnotes-biggest-update-in-four-years-brings-ai-powered-handwriting-features-and-a-digital-marketplace/)
+- [Watch 2 Russian cosmonauts conduct spacewalk outside ISS today](https://www.space.com/russian-cosmonaut-spacewalk-august-9-webcast)
+- [South Korea marks anniversary of 1st lunar probe with new moon photos](https://www.space.com/south-korea-danuri-moon-probe-anniversary-photos)
 - [Pretiosum Ventures hits first close on its second fund to back infrastructure startups](https://techcrunch.com/2023/08/09/pretiosum-ventures-hits-first-close-on-its-second-fund-to-back-infrastructure-startups/)
 - [Coupang to ramp up investment in Taiwan after four quarters of profits](https://techcrunch.com/2023/08/09/coupang-to-ramp-up-investment-in-taiwan-after-four-quarters-of-profits/)
-- [Made Renovation promises “tech-enabled” remodels; customers describe “absolute nightmare”](https://techcrunch.com/2023/08/08/made-renovation-promised-tech-enabled-remodels-customers-describe-absolute-nightmare/)
-- [Micromax, smartphone sales stalled, eyes a steer into electric vehicles](https://techcrunch.com/2023/08/08/micromax-india-ev-smartphone/)
-- [Zoom knots itself a legal tangle over use of customer data for training AI models](https://techcrunch.com/2023/08/08/zoom-data-mining-for-ai-terms-gdpr-eprivacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
