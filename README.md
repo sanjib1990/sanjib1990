@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DARPA launches two-year competition to build AI-powered cyber defenses](https://techcrunch.com/2023/08/09/darpa-launches-two-year-competition-to-build-ai-powered-cyber-defenses/)
-- [The powerful winds of super magnetic stars could destroy the possibility for life on their exoplanets](https://www.space.com/highly-magnetic-stars-powerful-winds-destroy-possibility-life-exoplanets)
-- [Earendel revealed: James Webb Space Telescope lifts veil on the most distant star known in the universe](https://www.space.com/james-webb-space-telescope-earendel-star)
-- [Fun while it lasted: The room-temperature superconductor claim is probably bunk](https://techcrunch.com/2023/08/09/boo-no-room-temp-superconductor/)
-- [The all-electric 2025 Cadillac Escalade IQ is loaded with tech and wrapped up in big ol’ package](https://techcrunch.com/2023/08/09/the-all-electric-2025-cadillac-escalade-iq-is-loaded-with-tech-and-wrapped-up-in-big-ol-package/)
+- [NASA&#39;s Artemis 2 moon mission is on track, but questions remain about Artemis 3](https://www.space.com/artemis-2-astronaut-mission-on-track-artemis-3-questions)
+- [JB Straubel, Redwood Materials founder and Tesla board member, is headed to TC Disrupt 2023](https://techcrunch.com/2023/08/09/jb-straubel-redwood-materials-founder-and-tesla-board-member-is-headed-to-tc-disrupt-2023/)
+- [Free ad-supported TV streaming services are booming, 1 in 3 U.S. viewers tune in](https://techcrunch.com/2023/08/09/free-ad-supported-tv-streaming-services-are-booming-1-in-3-u-s-viewers-tune-in/)
+- [California regulators to decide the future of Cruise and Waymo](https://techcrunch.com/2023/08/09/cpuc-vote-to-define-cruise-waymo-robotaxi-future-in-san-francisco/)
+- [App Store payment rules won’t change as Apple’s battle with Epic Games heads to Supreme Court](https://techcrunch.com/2023/08/09/app-store-payment-rules-wont-change-as-apples-battle-with-epic-games-heads-to-supreme-court/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
