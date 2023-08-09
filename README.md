@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepset secures $30M to expand its LLM-focused MLOps offerings](https://techcrunch.com/2023/08/09/deepset-secures-30m-to-expand-its-llm-focused-mlops-offerings/)
-- [Atmosfy, an app that helps you discover local businesses through short-from video, raises $12M](https://techcrunch.com/2023/08/09/atmosfy-an-app-that-helps-you-discover-local-businesses-through-short-from-video-raises-12m/)
-- [Parsing the UK voter register cyberattack](https://techcrunch.com/2023/08/09/parsing-uk-electoral-commission-cyberattack/)
-- [China aims to boost low-cost space science with &#39;Innovation X&#39; rideshare program](https://www.space.com/chinas-innovation-x-satellite-program-boost-low-cost-space-science)
-- [Star Wars should have focused on the Sith ages ago](https://www.space.com/star-wars-should-have-focused-on-the-sith-ages-ago)
+- [Slack gets interface makeover with a more unified approach including dedicated DMs](https://techcrunch.com/2023/08/09/slack-gets-interface-makeover-with-a-more-unified-approach-including-dedicated-dms/)
+- [Weights &amp; Biases, which counts OpenAI as a customer, lands $50M](https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/)
+- [Sweet Security raises $12M seed round for its cloud security suite](https://techcrunch.com/2023/08/09/sweet-security-raises-12m-seed-round-for-its-cloud-security-suite/)
+- [Spotify integrates with Patreon to stream subscriber-only content](https://techcrunch.com/2023/08/09/spotify-integrates-with-patreon-to-stream-subscriber-only-content/)
+- [1st launch of Europe&#39;s new Ariane 6 rocket slips to 2024](https://www.space.com/europe-ariane-6-rocket-launch-delay-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
