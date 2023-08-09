@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astranis gives its “secret satellite” a formal introduction](https://techcrunch.com/2023/08/09/astranis-gives-its-secret-satellite-a-formal-introduction/)
-- [72 hours to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/09/72-hours-to-save-on-passes-to-techcrunch-disrupt-2023/)
-- [Galaxy from the &#39;teenage&#39; universe reveals its water map for the 1st time](https://www.space.com/galaxy-from-teenage-universe-reveals-water-map-1st-time)
-- [Google’s redesigned Arts &amp; Culture app includes an AI-generated postcards feature, Play tab and more](https://techcrunch.com/2023/08/09/googles-redesigned-arts-culture-app-ai-generated-postcards-feature-play-tab/)
-- [Duolingo spotted developing a music learning app](https://techcrunch.com/2023/08/09/duolingo-spotted-developing-a-music-learning-app/)
+- [The all-electric 2025 Cadillac Escalade IQ is loaded with tech and wrapped up in big ol’ package](https://techcrunch.com/2023/08/09/the-all-electric-2025-cadillac-escalade-iq-is-loaded-with-tech-and-wrapped-up-in-big-ol-package/)
+- [Matter filters out microplastics, one washer at at time — and raises $10M to go industrial](https://techcrunch.com/2023/08/09/matter-filters-out-microplastics-one-washer-at-at-time-and-raises-10m-to-go-industrial/)
+- [Queen Rock legend Brian May launches Space.com astrophotography competition for signed copy of his asteroid book &lpar;video&rpar;](https://www.space.com/brian-may-launches-astrophotography-competition)
+- [Symmetry raises $18M to bolster organizations’ data security programs](https://techcrunch.com/2023/08/09/symmetry-raises-18m-to-bolster-organizations-data-security-programs/)
+- [Mars is spinning faster and its days are getting shorter. Scientists aren&#39;t sure why](https://www.space.com/mars-spinning-fast-slowing-days-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
