@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DARPA launches two-year competition to build AI-powered cyber defenses](https://techcrunch.com/2023/08/09/darpa-launches-two-year-competition-to-build-ai-powered-cyber-defenses/)
+- [The powerful winds of super magnetic stars could destroy the possibility for life on their exoplanets](https://www.space.com/highly-magnetic-stars-powerful-winds-destroy-possibility-life-exoplanets)
+- [Earendel revealed: James Webb Space Telescope lifts veil on the most distant star known in the universe](https://www.space.com/james-webb-space-telescope-earendel-star)
+- [Fun while it lasted: The room-temperature superconductor claim is probably bunk](https://techcrunch.com/2023/08/09/boo-no-room-temp-superconductor/)
 - [The all-electric 2025 Cadillac Escalade IQ is loaded with tech and wrapped up in big ol’ package](https://techcrunch.com/2023/08/09/the-all-electric-2025-cadillac-escalade-iq-is-loaded-with-tech-and-wrapped-up-in-big-ol-package/)
-- [Matter filters out microplastics, one washer at at time — and raises $10M to go industrial](https://techcrunch.com/2023/08/09/matter-filters-out-microplastics-one-washer-at-at-time-and-raises-10m-to-go-industrial/)
-- [Queen Rock legend Brian May launches Space.com astrophotography competition for signed copy of his asteroid book &lpar;video&rpar;](https://www.space.com/brian-may-launches-astrophotography-competition)
-- [Symmetry raises $18M to bolster organizations’ data security programs](https://techcrunch.com/2023/08/09/symmetry-raises-18m-to-bolster-organizations-data-security-programs/)
-- [Mars is spinning faster and its days are getting shorter. Scientists aren&#39;t sure why](https://www.space.com/mars-spinning-fast-slowing-days-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
