@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Kubernetes Roadmap - Complete Step-by-Step Learning Path](https://www.youtube.com/watch?v=S8eX0MxfnB4)
 - [How programmers flex on each other](https://www.youtube.com/watch?v=r6tH55syq0o)
 - [Graphs, Vectors and Machine Learning - Computerphile](https://www.youtube.com/watch?v=w0rOvNJW58o)
 - [Zig in 100 Seconds](https://www.youtube.com/watch?v=kxT8-C1vmd4)
 - [how to avoid SQL Injections](https://www.youtube.com/watch?v=QQOGu6HkZ_E)
-- [what is an SQL Injection?](https://www.youtube.com/watch?v=_ZCv6fROPTg)
 <!-- YOUTUBE:END -->
 
 ---
