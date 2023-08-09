@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The struggle to diversify venture investments is under fresh fire](https://techcrunch.com/2023/08/09/the-struggle-to-diversify-venture-investments-is-under-fresh-fire/)
 - [Slack gets interface makeover with a more unified approach including dedicated DMs](https://techcrunch.com/2023/08/09/slack-gets-interface-makeover-with-a-more-unified-approach-including-dedicated-dms/)
 - [Weights &amp; Biases, which counts OpenAI as a customer, lands $50M](https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/)
 - [Sweet Security raises $12M seed round for its cloud security suite](https://techcrunch.com/2023/08/09/sweet-security-raises-12m-seed-round-for-its-cloud-security-suite/)
 - [Spotify integrates with Patreon to stream subscriber-only content](https://techcrunch.com/2023/08/09/spotify-integrates-with-patreon-to-stream-subscriber-only-content/)
-- [1st launch of Europe&#39;s new Ariane 6 rocket slips to 2024](https://www.space.com/europe-ariane-6-rocket-launch-delay-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
