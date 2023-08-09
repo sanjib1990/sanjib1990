@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The struggle to diversify venture investments is under fresh fire](https://techcrunch.com/2023/08/09/the-struggle-to-diversify-venture-investments-is-under-fresh-fire/)
-- [Slack gets interface makeover with a more unified approach including dedicated DMs](https://techcrunch.com/2023/08/09/slack-gets-interface-makeover-with-a-more-unified-approach-including-dedicated-dms/)
-- [Weights &amp; Biases, which counts OpenAI as a customer, lands $50M](https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/)
-- [Sweet Security raises $12M seed round for its cloud security suite](https://techcrunch.com/2023/08/09/sweet-security-raises-12m-seed-round-for-its-cloud-security-suite/)
-- [Spotify integrates with Patreon to stream subscriber-only content](https://techcrunch.com/2023/08/09/spotify-integrates-with-patreon-to-stream-subscriber-only-content/)
+- [Astranis gives its “secret satellite” a formal introduction](https://techcrunch.com/2023/08/09/astranis-gives-its-secret-satellite-a-formal-introduction/)
+- [72 hours to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/09/72-hours-to-save-on-passes-to-techcrunch-disrupt-2023/)
+- [Galaxy from the &#39;teenage&#39; universe reveals its water map for the 1st time](https://www.space.com/galaxy-from-teenage-universe-reveals-water-map-1st-time)
+- [Google’s redesigned Arts &amp; Culture app includes an AI-generated postcards feature, Play tab and more](https://techcrunch.com/2023/08/09/googles-redesigned-arts-culture-app-ai-generated-postcards-feature-play-tab/)
+- [Duolingo spotted developing a music learning app](https://techcrunch.com/2023/08/09/duolingo-spotted-developing-a-music-learning-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
