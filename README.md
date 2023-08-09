@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beacon’s latest demo day startups are a bet that the future might be multichain](https://techcrunch.com/2023/08/09/beacon-demo-day-s23-cohort/)
 - [Scientists are using NASA satellite data to text Bangladeshi farmers water-saving strategies](https://www.space.com/scientists-texting-water-conservation-advice-bangladesh-farmers-nasa-satellite)
 - [‘Irreparable’ thrusters and solar activity push 3 HawkEye 360 satellites to lower orbits](https://techcrunch.com/2023/08/09/irreparable-thrusters-and-solar-activity-push-3-hawkeye-360-satellites-to-lower-orbits/)
 - [NASA&#39;s Artemis 2 moon mission is on track, but questions remain about Artemis 3](https://www.space.com/artemis-2-astronaut-mission-on-track-artemis-3-questions)
 - [JB Straubel, Redwood Materials founder and Tesla board member, is headed to TC Disrupt 2023](https://techcrunch.com/2023/08/09/jb-straubel-redwood-materials-founder-and-tesla-board-member-is-headed-to-tc-disrupt-2023/)
-- [Free ad-supported TV streaming services are booming, 1 in 3 U.S. viewers tune in](https://techcrunch.com/2023/08/09/free-ad-supported-tv-streaming-services-are-booming-1-in-3-u-s-viewers-tune-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
