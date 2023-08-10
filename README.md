@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber, Nvidia-backed delivery robot startup Serve Robotics to go public](https://techcrunch.com/2023/08/10/uber-nvidia-backed-delivery-robot-startup-serve-robotics-to-go-public/)
+- [Moove takes in $76M equity, debt from Mubadala and BlackRock at a $550M valuation](https://techcrunch.com/2023/08/10/moove-takes-in-76m-equity-debt-from-mubadala-and-blackrock-at-a-550m-valuation/)
+- [Unveiling the winning formula: How B2C fintechs conquer customer acquisition](https://techcrunch.com/2023/08/10/unveiling-the-winning-formula-how-b2c-fintechs-conquer-customer-acquisition/)
 - [Russia is launching its 1st moon mission since 1976 today: Watch live](https://www.space.com/russia-luna-25-moon-lander-launch-webcast)
 - [Stunning time-lapse video captures 17-year journey of exoplanet around its star](https://www.space.com/stunning-timelapse-video-captures-17-year-journey-exoplanet-around-star)
-- [Belarus hackers target foreign diplomats with help of local ISPs, researchers say](https://techcrunch.com/2023/08/10/belarus-hackers-target-foreign-diplomats/)
-- [VLGE opens SDK for its no-code virtual world builder aimed at fashion, beauty and art industries](https://techcrunch.com/2023/08/10/vlge-opens-sdk-for-its-no-code-virtual-world-builder-aimed-at-fashion-beauty-and-art-industries/)
-- [Disney+ announces another price hike, says ad-supported tier is coming to more countries](https://techcrunch.com/2023/08/10/disney-announces-another-price-hike-says-ad-supported-tier-is-coming-to-more-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
