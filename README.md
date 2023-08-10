@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric aircraft makers Wisk and Archer end bitter legal dispute, agree to work together](https://techcrunch.com/2023/08/10/ending-bitter-court-battle-wisk-and-archer-collaborate/)
+- [The 2023 Perseid meteor shower peaks this weekend! Here&#39;s what you need to know.](https://www.space.com/perseid-meteor-shower-2023-peak-this-weekend-aug-12-what-to-know)
+- [China launches new radar satellite for disaster mitigation &lpar;video&rpar;](https://www.space.com/china-launches-s-sar02-disaster-mitigation-satellite)
+- [Insiders bet more on Fizz, a social network that has now bubbled up at  80+ college campuses](https://techcrunch.com/2023/08/10/insiders-bet-more-on-fizz-a-social-network-that-has-now-bubbled-up-at-80-college-campuses/)
 - [Don’t expect an all-electric Volkswagen camper anytime soon, report says](https://techcrunch.com/2023/08/10/dont-expect-an-all-electric-volkswagen-camper-anytime-soon-report-says/)
-- [7 VCs explain why the creator economy still has legs](https://techcrunch.com/2023/08/10/7-vcs-explain-why-the-creator-economy-still-has-legs/)
-- [SEC to appeal XRP, PayPal launches stablecoin, and Microsoft partners with Aptos](https://techcrunch.com/2023/08/10/sec-appeal-xrp-federal-case-2023/)
-- [Instagram’s code reveals a ‘Meta Verified’ feed filter, but company denies active test](https://techcrunch.com/2023/08/10/instagrams-code-reveals-a-meta-verified-feed-filter-but-company-denies-active-test/)
-- [Skydio closing consumer drone business](https://techcrunch.com/2023/08/10/skydio-closing-consumer-drone-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
