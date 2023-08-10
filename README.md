@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Krafton commits $150 million to India following BGMI trial approval](https://techcrunch.com/2023/08/09/krafton-commits-150-million-to-india-following-bgmi-trial-approval/)
 - [Russian cosmonaut becomes first to ride European robotic arm on ISS spacewalk](https://www.space.com/iss-spacewalk-russian-robotic-arm-ride-august-2023)
 - [What time is Virgin Galactic&#39;s Galactic-02 space tourist launch on Aug. 10? Here&#39;s how to watch live.](https://www.space.com/virgin-galactic-galactic02-launch-time)
 - [Anthropic launches improved version of its entry-level LLM](https://techcrunch.com/2023/08/09/anthropic-launches-improved-version-of-its-entry-level-llm/)
 - [Reddit’s menswear hub is the latest casualty of its battle with moderators](https://techcrunch.com/2023/08/09/reddit-male-fashion-advice-mod-take-over-api-protest/)
-- [What led to EV darling Proterra’s bankruptcy](https://techcrunch.com/2023/08/09/what-led-to-ev-darling-proterras-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
