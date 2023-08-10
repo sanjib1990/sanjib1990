@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marc Raibert and Gill Pratt will discuss state-of-the-art research at TechCrunch Disrupt](https://techcrunch.com/2023/08/10/marc-raibert-and-gill-pratt-will-discuss-state-of-the-art-research-at-techcrunch-disrupt/)
+- [Oracle, SUSE and CIQ launch the Open Enterprise Linux Association amid Red Hat controversy](https://techcrunch.com/2023/08/10/oracle-suse-and-ciq-launch-the-open-enterprise-linux-association-amid-red-hat-controversy/)
 - [Shared micromobility firm Veo launches retail seated scooter](https://techcrunch.com/2023/08/10/shared-micromobility-firm-veo-launches-retail-seated-scooter/)
 - [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Virgin Galactic launches 1st mother-daughter team and 1st Olympian to space on 2nd commercial flight &lpar;video&rpar;](https://www.space.com/virgin-galactic-galactic02-launch-success)
-- [Tracer nabs $18.1 to aggregate and normalize business data](https://techcrunch.com/2023/08/10/tracer-nabs-18-1-to-aggregate-and-normalize-business-data/)
-- [YouTube is disabling links on Shorts to cut down on spam](https://techcrunch.com/2023/08/10/youtube-is-disabling-links-on-shorts-to-cut-down-on-spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
