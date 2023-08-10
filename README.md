@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagine for a moment that you’re an AI](https://techcrunch.com/2023/08/10/ai-and-the-emergence-of-empathy/)
-- [Fearless Fund responds to racial discrimination lawsuit](https://techcrunch.com/2023/08/10/fearless-fund-responds-to-racial-discrimination-lawsuit/)
-- [Identity management platform Veza secures $15M from Capital One and ServiceNow](https://techcrunch.com/2023/08/10/identity-management-platform-veza-secures-15m-from-capital-one-and-servicenow/)
-- [Video calls are coming to X, formerly Twitter, CEO confirms](https://techcrunch.com/2023/08/10/video-calls-are-coming-to-x-formerly-twitter-ceo-confirms/)
-- [Visa’s new head of fintech talks partnerships, venture and creators as an addressable market](https://techcrunch.com/2023/08/10/a-conversation-with-visas-head-of-fintech/)
+- [Shared micromobility firm Veo launches retail seated scooter](https://techcrunch.com/2023/08/10/shared-micromobility-firm-veo-launches-retail-seated-scooter/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Virgin Galactic launches 1st mother-daughter team and 1st Olympian to space on 2nd commercial flight &lpar;video&rpar;](https://www.space.com/virgin-galactic-galactic02-launch-success)
+- [Tracer nabs $18.1 to aggregate and normalize business data](https://techcrunch.com/2023/08/10/tracer-nabs-18-1-to-aggregate-and-normalize-business-data/)
+- [YouTube is disabling links on Shorts to cut down on spam](https://techcrunch.com/2023/08/10/youtube-is-disabling-links-on-shorts-to-cut-down-on-spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
