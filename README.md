@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Marc Raibert and Gill Pratt will discuss state-of-the-art research at TechCrunch Disrupt](https://techcrunch.com/2023/08/10/marc-raibert-and-gill-pratt-will-discuss-state-of-the-art-research-at-techcrunch-disrupt/)
-- [Oracle, SUSE and CIQ launch the Open Enterprise Linux Association amid Red Hat controversy](https://techcrunch.com/2023/08/10/oracle-suse-and-ciq-launch-the-open-enterprise-linux-association-amid-red-hat-controversy/)
-- [Shared micromobility firm Veo launches retail seated scooter](https://techcrunch.com/2023/08/10/shared-micromobility-firm-veo-launches-retail-seated-scooter/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Virgin Galactic launches 1st mother-daughter team and 1st Olympian to space on 2nd commercial flight &lpar;video&rpar;](https://www.space.com/virgin-galactic-galactic02-launch-success)
+- [Lyft takes a page from Uber’s playbook: Ads](https://techcrunch.com/2023/08/10/lyft-takes-a-page-from-ubers-playbook-ads/)
+- [Wildfire smoke is warming the planet more than previously thought, scientists say](https://www.space.com/wildfire-smoke-warming-planet-study)
+- [Data visualization startup Virtualitics lands $37M investment](https://techcrunch.com/2023/08/10/data-visualization-startup-virtualitics-lands-37m-investment/)
+- [SEC bites back, to appeal federal court ruling in XRP case](https://techcrunch.com/2023/08/10/sec-appeal-federal-court-ruling-xrp-case-2023/)
+- [Watch SpaceX launch 22 Starlink satellites tonight](https://www.space.com/spacex-starlink-group-6-9-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
