@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC to appeal XRP, PayPal launches stablecoin, and Microsoft partners with Aptos](https://techcrunch.com/2023/08/10/sec-appeal-xrp-federal-case-2023/)
+- [Instagram’s code reveals a ‘Meta Verified’ feed filter, but company denies active test](https://techcrunch.com/2023/08/10/instagrams-code-reveals-a-meta-verified-feed-filter-but-company-denies-active-test/)
+- [Skydio closing consumer drone business](https://techcrunch.com/2023/08/10/skydio-closing-consumer-drone-business/)
 - [Lyft takes a page from Uber’s playbook: Ads](https://techcrunch.com/2023/08/10/lyft-takes-a-page-from-ubers-playbook-ads/)
 - [Wildfire smoke is warming the planet more than previously thought, scientists say](https://www.space.com/wildfire-smoke-warming-planet-study)
-- [Data visualization startup Virtualitics lands $37M investment](https://techcrunch.com/2023/08/10/data-visualization-startup-virtualitics-lands-37m-investment/)
-- [SEC bites back, to appeal federal court ruling in XRP case](https://techcrunch.com/2023/08/10/sec-appeal-federal-court-ruling-xrp-case-2023/)
-- [Watch SpaceX launch 22 Starlink satellites tonight](https://www.space.com/spacex-starlink-group-6-9-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
