@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Ingenuity Mars helicopter fly in amazing video from Perseverance rover](https://www.space.com/ingenuity-mars-helicopter-perseverance-rover-video-54th-flight)
-- [Osano, a data privacy management platform, nabs $25M](https://techcrunch.com/2023/08/10/osano-a-data-privacy-management-platform-nabs-25m/)
-- [After Netflix, Disney is cracking down on password sharing](https://techcrunch.com/2023/08/10/after-netflix-disney-is-cracking-down-on-password-sharing/)
-- [Uber, Nvidia-backed delivery robot startup Serve Robotics to go public](https://techcrunch.com/2023/08/10/uber-nvidia-backed-delivery-robot-startup-serve-robotics-to-go-public/)
-- [Moove takes in $76M equity, debt from Mubadala and BlackRock at a $550M valuation](https://techcrunch.com/2023/08/10/moove-takes-in-76m-equity-debt-from-mubadala-and-blackrock-at-a-550m-valuation/)
+- [Check Point buys Perimeter 81 for $490M to enhance its security tools for hybrid and remote workers](https://techcrunch.com/2023/08/10/check-point-buys-perimeter-81-for-490m-to-enhance-its-security-tools-for-hybrid-and-remote-workers/)
+- [Basys.ai grabs $2.4M for its prior authorization tech powered by Mayo Clinic’s data](https://techcrunch.com/2023/08/10/basys-ai-2-4m-prior-authorization-mayo-clinic-healthcare/)
+- [Surprise! GPS satellites threatened more by mild solar storms than monster sun flares](https://www.space.com/mild-solar-storms-threat-gps-satellites)
+- [Instacart now accepts EBT SNAP payments in all 50 states](https://techcrunch.com/2023/08/10/instacart-now-accepts-ebt-snap-payments-in-all-50-states/)
+- [Incident response management platform Rootly secures $12M](https://techcrunch.com/2023/08/10/incident-response-management-platform-rootly-secures-12m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
