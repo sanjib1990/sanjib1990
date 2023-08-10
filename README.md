@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia is launching its 1st moon mission since 1976 today: Watch live](https://www.space.com/russia-luna-25-moon-lander-launch-webcast)
+- [Stunning time-lapse video captures 17-year journey of exoplanet around its star](https://www.space.com/stunning-timelapse-video-captures-17-year-journey-exoplanet-around-star)
+- [Belarus hackers target foreign diplomats with help of local ISPs, researchers say](https://techcrunch.com/2023/08/10/belarus-hackers-target-foreign-diplomats/)
 - [VLGE opens SDK for its no-code virtual world builder aimed at fashion, beauty and art industries](https://techcrunch.com/2023/08/10/vlge-opens-sdk-for-its-no-code-virtual-world-builder-aimed-at-fashion-beauty-and-art-industries/)
 - [Disney+ announces another price hike, says ad-supported tier is coming to more countries](https://techcrunch.com/2023/08/10/disney-announces-another-price-hike-says-ad-supported-tier-is-coming-to-more-countries/)
-- [Ask Sophie: As an immigrant to the US, how can I create and work for my own startup?](https://techcrunch.com/2023/08/09/ask-sophie-as-an-immigrant-how-can-i-create-and-work-for-my-own-startup/)
-- [SAEKI’s “microfactories” help large manufacturing scale up](https://techcrunch.com/2023/08/09/saeki/)
-- [Meta adds ability to verify your Threads profile on Mastodon](https://techcrunch.com/2023/08/09/meta-adds-ability-to-verify-your-threads-profile-on-mastodon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
