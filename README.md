@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Podcast 2023](https://techcrunch.com/2023/08/10/how-i-podcast-2023/)
+- [Less than 48 hours left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/10/less-than-48-hours-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
+- [Sony FE 24-70mm f/2.8 GM II lens review](https://www.space.com/sony-fe-24-70mm-f28-gm-ii-lens-review)
+- [NASA&#39;s upcoming Psyche mission will test next-gen laser communications in space](https://www.space.com/nasa-psyche-deep-space-laser-communications)
 - [Check Point buys Perimeter 81 for $490M to enhance its security tools for hybrid and remote workers](https://techcrunch.com/2023/08/10/check-point-buys-perimeter-81-for-490m-to-enhance-its-security-tools-for-hybrid-and-remote-workers/)
-- [Basys.ai grabs $2.4M for its prior authorization tech powered by Mayo Clinic’s data](https://techcrunch.com/2023/08/10/basys-ai-2-4m-prior-authorization-mayo-clinic-healthcare/)
-- [Surprise! GPS satellites threatened more by mild solar storms than monster sun flares](https://www.space.com/mild-solar-storms-threat-gps-satellites)
-- [Instacart now accepts EBT SNAP payments in all 50 states](https://techcrunch.com/2023/08/10/instacart-now-accepts-ebt-snap-payments-in-all-50-states/)
-- [Incident response management platform Rootly secures $12M](https://techcrunch.com/2023/08/10/incident-response-management-platform-rootly-secures-12m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
