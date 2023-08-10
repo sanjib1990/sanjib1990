@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: As an immigrant to the US, how can I create and work for my own startup?](https://techcrunch.com/2023/08/09/ask-sophie-as-an-immigrant-how-can-i-create-and-work-for-my-own-startup/)
 - [SAEKI’s “microfactories” help large manufacturing scale up](https://techcrunch.com/2023/08/09/saeki/)
 - [Meta adds ability to verify your Threads profile on Mastodon](https://techcrunch.com/2023/08/09/meta-adds-ability-to-verify-your-threads-profile-on-mastodon/)
 - [Disney’s Hotstar loses 12.5 million subscribers in a quarter amid cricket shortfall](https://techcrunch.com/2023/08/09/disney-hotstar-lost-12-5-million-subscribers-in-a-quarter-amid-cricket-shortfall/)
 - [Google opens eSignature beta for Google Docs and Google Drive](https://techcrunch.com/2023/08/09/google-opens-esignature-beta-for-google-docs-and-google-drive/)
-- [China tech further severed from US fundings after Biden ban](https://techcrunch.com/2023/08/09/china-tech-further-severed-from-us-fundings-after-biden-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
