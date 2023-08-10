@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Ingenuity Mars helicopter fly in amazing video from Perseverance rover](https://www.space.com/ingenuity-mars-helicopter-perseverance-rover-video-54th-flight)
+- [Osano, a data privacy management platform, nabs $25M](https://techcrunch.com/2023/08/10/osano-a-data-privacy-management-platform-nabs-25m/)
+- [After Netflix, Disney is cracking down on password sharing](https://techcrunch.com/2023/08/10/after-netflix-disney-is-cracking-down-on-password-sharing/)
 - [Uber, Nvidia-backed delivery robot startup Serve Robotics to go public](https://techcrunch.com/2023/08/10/uber-nvidia-backed-delivery-robot-startup-serve-robotics-to-go-public/)
 - [Moove takes in $76M equity, debt from Mubadala and BlackRock at a $550M valuation](https://techcrunch.com/2023/08/10/moove-takes-in-76m-equity-debt-from-mubadala-and-blackrock-at-a-550m-valuation/)
-- [Unveiling the winning formula: How B2C fintechs conquer customer acquisition](https://techcrunch.com/2023/08/10/unveiling-the-winning-formula-how-b2c-fintechs-conquer-customer-acquisition/)
-- [Russia is launching its 1st moon mission since 1976 today: Watch live](https://www.space.com/russia-luna-25-moon-lander-launch-webcast)
-- [Stunning time-lapse video captures 17-year journey of exoplanet around its star](https://www.space.com/stunning-timelapse-video-captures-17-year-journey-exoplanet-around-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
