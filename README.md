@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney’s Hotstar loses 12.5 million subscribers in a quarter amid cricket shortfall](https://techcrunch.com/2023/08/09/disney-hotstar-lost-12-5-million-subscribers-in-a-quarter-amid-cricket-shortfall/)
+- [Google opens eSignature beta for Google Docs and Google Drive](https://techcrunch.com/2023/08/09/google-opens-esignature-beta-for-google-docs-and-google-drive/)
+- [China tech further severed from US fundings after Biden ban](https://techcrunch.com/2023/08/09/china-tech-further-severed-from-us-fundings-after-biden-ban/)
 - [Krafton commits $150 million to India following BGMI trial approval](https://techcrunch.com/2023/08/09/krafton-commits-150-million-to-india-following-bgmi-trial-approval/)
 - [Russian cosmonaut becomes first to ride European robotic arm on ISS spacewalk](https://www.space.com/iss-spacewalk-russian-robotic-arm-ride-august-2023)
-- [What time is Virgin Galactic&#39;s Galactic-02 space tourist launch on Aug. 10? Here&#39;s how to watch live.](https://www.space.com/virgin-galactic-galactic02-launch-time)
-- [Anthropic launches improved version of its entry-level LLM](https://techcrunch.com/2023/08/09/anthropic-launches-improved-version-of-its-entry-level-llm/)
-- [Reddit’s menswear hub is the latest casualty of its battle with moderators](https://techcrunch.com/2023/08/09/reddit-male-fashion-advice-mod-take-over-api-protest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
