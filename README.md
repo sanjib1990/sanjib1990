@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t expect an all-electric Volkswagen camper anytime soon, report says](https://techcrunch.com/2023/08/10/dont-expect-an-all-electric-volkswagen-camper-anytime-soon-report-says/)
+- [7 VCs explain why the creator economy still has legs](https://techcrunch.com/2023/08/10/7-vcs-explain-why-the-creator-economy-still-has-legs/)
 - [SEC to appeal XRP, PayPal launches stablecoin, and Microsoft partners with Aptos](https://techcrunch.com/2023/08/10/sec-appeal-xrp-federal-case-2023/)
 - [Instagram’s code reveals a ‘Meta Verified’ feed filter, but company denies active test](https://techcrunch.com/2023/08/10/instagrams-code-reveals-a-meta-verified-feed-filter-but-company-denies-active-test/)
 - [Skydio closing consumer drone business](https://techcrunch.com/2023/08/10/skydio-closing-consumer-drone-business/)
-- [Lyft takes a page from Uber’s playbook: Ads](https://techcrunch.com/2023/08/10/lyft-takes-a-page-from-ubers-playbook-ads/)
-- [Wildfire smoke is warming the planet more than previously thought, scientists say](https://www.space.com/wildfire-smoke-warming-planet-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
