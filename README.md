@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Podcast 2023](https://techcrunch.com/2023/08/10/how-i-podcast-2023/)
-- [Less than 48 hours left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/10/less-than-48-hours-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
-- [Sony FE 24-70mm f/2.8 GM II lens review](https://www.space.com/sony-fe-24-70mm-f28-gm-ii-lens-review)
-- [NASA&#39;s upcoming Psyche mission will test next-gen laser communications in space](https://www.space.com/nasa-psyche-deep-space-laser-communications)
-- [Check Point buys Perimeter 81 for $490M to enhance its security tools for hybrid and remote workers](https://techcrunch.com/2023/08/10/check-point-buys-perimeter-81-for-490m-to-enhance-its-security-tools-for-hybrid-and-remote-workers/)
+- [Imagine for a moment that you’re an AI](https://techcrunch.com/2023/08/10/ai-and-the-emergence-of-empathy/)
+- [Fearless Fund responds to racial discrimination lawsuit](https://techcrunch.com/2023/08/10/fearless-fund-responds-to-racial-discrimination-lawsuit/)
+- [Identity management platform Veza secures $15M from Capital One and ServiceNow](https://techcrunch.com/2023/08/10/identity-management-platform-veza-secures-15m-from-capital-one-and-servicenow/)
+- [Video calls are coming to X, formerly Twitter, CEO confirms](https://techcrunch.com/2023/08/10/video-calls-are-coming-to-x-formerly-twitter-ceo-confirms/)
+- [Visa’s new head of fintech talks partnerships, venture and creators as an addressable market](https://techcrunch.com/2023/08/10/a-conversation-with-visas-head-of-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
