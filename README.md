@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Parker Solar Probe to make closest flyby of Venus on Aug. 21](https://www.space.com/parker-solar-probe-set-venus-flyby-august-21)
-- [Shiny Perseid meteors light up a dark sky in Portugal &lpar;video&rpar;](https://www.space.com/perseid-meteor-shower-dark-sky-portugal-video)
-- [Perseid meteor shower peaks this weekend — but 2028&#39;s show might be one for the ages](https://www.space.com/perseid-meteor-shower-storm-2028)
-- [Exoplanets in the Trappist-1 system more likely to be habitable than scientists once thought, study suggests](https://www.space.com/trappist-1-exoplanets-more-likely-to-have-water)
-- [5 growth lessons we learned while scaling from $2M to $3M ARR](https://techcrunch.com/2023/08/10/5-growth-lessons-we-learned-while-scaling-from-2m-to-3m-arr/)
+- [Ladies and gentlemen: The dregs of the SPAC boom](https://techcrunch.com/2023/08/11/ladies-and-gentlemen-the-dregs-of-the-spac-boom/)
+- [Nightfox Swift night vision binoculars review](https://www.space.com/nightfox-swift-night-vision-binoculars-review)
+- [Cosmonaut Alexander Viktorenko, who flew to Mir space station four times, dies at 76](https://www.space.com/cosmonaut-alexander-viktorenko-obituary)
+- [The sale on passes to TechCrunch Disrupt 2023 ends today](https://techcrunch.com/2023/08/11/the-sale-on-passes-to-techcrunch-disrupt-2023-ends-today/)
+- [Anycubic Photon Mono M5s review: 12K printing is here](https://www.space.com/anycubic-photon-mono-m5s-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
