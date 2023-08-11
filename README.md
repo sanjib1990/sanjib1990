@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Civil Rights Movement comes to venture capital](https://techcrunch.com/2023/08/11/fearless-fund-lawsuit-civil-rights/)
+- [When you gaze into the AI, the AI also gazes into you](https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/)
+- [This shoebox-sized gadget will make sure astronauts breathe safely on NASA&#39;s Artemis moon missions](https://www.space.com/nasa-crewed-artemis-multimillion-dollar-moon-air-quality-monitor)
+- [Startup founders should care more about Serve Robotics’ listing](https://techcrunch.com/2023/08/11/startup-founders-should-care-more-about-serve-robotics-listing/)
+- [The civil rights movement comes to venture capital](https://techcrunch.com/2023/08/11/fearless-fund-lawsuit-civil-rights/)
 - [Asteroid struck by NASA&#39;s DART probe to be radar-scanned with Hera mission](https://www.space.com/esa-hera-juventas-jura-radar-deliver)
-- [ByteDance again looks to TikTok to promote its other social app, Lemon8](https://techcrunch.com/2023/08/11/bytedance-again-looks-to-tiktok-to-promote-its-other-social-app-lemon8/)
-- [Baldur’s Gate 3 early review: Modern fantasy](https://techcrunch.com/2023/08/11/baldurs-gate-3-early-review-modern-fantasy/)
-- [How we scaled our App Store performance by approximately 200% in 1 year](https://techcrunch.com/2023/08/11/how-we-scaled-our-app-store-performance-by-approximately-200-in-1-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
