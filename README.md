@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseid meteor shower peaks this weekend — but 2028&#39;s show might be one for the ages](https://www.space.com/perseid-meteor-shower-storm-2028)
+- [Exoplanets in the Trappist-1 system more likely to be habitable than scientists once thought, study suggests](https://www.space.com/trappist-1-exoplanets-more-likely-to-have-water)
 - [5 growth lessons we learned while scaling from $2M to $3M ARR](https://techcrunch.com/2023/08/10/5-growth-lessons-we-learned-while-scaling-from-2m-to-3m-arr/)
 - [X, formerly Twitter, lowers requirements for its ad-revenue sharing program](https://techcrunch.com/2023/08/10/x-formerly-twitter-lowers-requirements-for-its-ad-revenue-sharing-program/)
 - [Cruise and Waymo win robotaxi expansions in San Francisco](https://techcrunch.com/2023/08/10/cruise-and-waymo-win-robotaxi-expansions-in-san-francisco/)
-- [Russia launches Luna-25 moon lander, its 1st lunar probe in 47 years](https://www.space.com/russia-luna-25-moon-mission-launch-success)
-- [Hidden forces and sliding screens trick the senses to make VR feel more real](https://techcrunch.com/2023/08/10/hidden-forces-and-sliding-screens-trick-the-senses-to-make-vr-feel-more-real/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
