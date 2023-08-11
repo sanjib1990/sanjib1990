@@ -97,7 +97,7 @@
 - [Cruise and Waymo win robotaxi expansions in San Francisco](https://techcrunch.com/2023/08/10/cruise-and-waymo-win-robotaxi-expansions-in-san-francisco/)
 - [Russia launches Luna-25 moon lander, its 1st lunar probe in 47 years](https://www.space.com/russia-luna-25-moon-mission-launch-success)
 - [Hidden forces and sliding screens trick the senses to make VR feel more real](https://techcrunch.com/2023/08/10/hidden-forces-and-sliding-screens-trick-the-senses-to-make-vr-feel-more-real/)
-- [Watch the 1st trailer for &#39;Strange Planet,&#39; a bizarre animated sci-fi show on Apple TV+](https://www.space.com/strange-planet-animated-sci-fi-show-trailer-apple-tv-plus)
+- [Watch a trippy trailer for &#39;Strange Planet,&#39; a bizarre animated sci-fi show on Apple TV+](https://www.space.com/strange-planet-animated-sci-fi-show-trailer-apple-tv-plus)
 - [Electric aircraft makers Wisk and Archer end bitter legal dispute, agree to work together](https://techcrunch.com/2023/08/10/ending-bitter-court-battle-wisk-and-archer-collaborate/)
 <!-- BLOG-POST-LIST:END -->
 
