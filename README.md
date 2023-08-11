@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia launches Luna-25 moon lander, its 1st lunar probe in 47 years](https://www.space.com/russia-luna-25-moon-mission-launch-success)
 - [Hidden forces and sliding screens trick the senses to make VR feel more real](https://techcrunch.com/2023/08/10/hidden-forces-and-sliding-screens-trick-the-senses-to-make-vr-feel-more-real/)
 - [Watch the 1st trailer for &#39;Strange Planet,&#39; a bizarre animated sci-fi show on Apple TV+](https://www.space.com/strange-planet-animated-sci-fi-show-trailer-apple-tv-plus)
 - [Electric aircraft makers Wisk and Archer end bitter legal dispute, agree to work together](https://techcrunch.com/2023/08/10/ending-bitter-court-battle-wisk-and-archer-collaborate/)
 - [The 2023 Perseid meteor shower peaks this weekend! Here&#39;s what you need to know.](https://www.space.com/perseid-meteor-shower-2023-peak-this-weekend-aug-12-what-to-know)
-- [China launches new radar satellite for disaster mitigation &lpar;video&rpar;](https://www.space.com/china-launches-s-sar02-disaster-mitigation-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
