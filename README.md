@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former FTX CEO Sam Bankman-Fried’s bail revoked ahead of October trial](https://techcrunch.com/2023/08/11/former-ftx-ceo-sam-bankman-fried-bail-revoked-ahead-of-october-trial/)
+- [After 17 years away, NASA&#39;s sun-studying spacecraft will visit Earth on Aug. 12](https://www.space.com/after-17-years-away-nasa-sun-studying-stereo-visit-earth-august-12)
 - [When you gaze into the AI, the AI also gazes into you](https://techcrunch.com/2023/08/11/when-you-gaze-into-the-ai-the-ai-also-gazes-into-you/)
 - [This shoebox-sized gadget will make sure astronauts breathe safely on NASA&#39;s Artemis moon missions](https://www.space.com/nasa-crewed-artemis-multimillion-dollar-moon-air-quality-monitor)
 - [Startup founders should care more about Serve Robotics’ listing](https://techcrunch.com/2023/08/11/startup-founders-should-care-more-about-serve-robotics-listing/)
-- [The civil rights movement comes to venture capital](https://techcrunch.com/2023/08/11/fearless-fund-lawsuit-civil-rights/)
-- [Asteroid struck by NASA&#39;s DART probe to be radar-scanned with Hera mission](https://www.space.com/esa-hera-juventas-jura-radar-deliver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
