@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The MOVEit mass hacks hold a valuable lesson for the software industry](https://techcrunch.com/2023/08/11/moveit-mass-hacks-lessons/)
+- [Aftermath of Hawaii&#39;s deadly wildfire inferno revealed in gut-wrenching satellite images](https://www.space.com/hawaii-wildfire-destruction-satellite-images)
+- [Vaonis&#39; Hestia Kickstarter to turn smartphones into smart telescopes crosses $2 million with a week to go](https://www.space.com/vaoins)
 - [Everything we know about Warhammer 40K: Space Marine 2](https://www.space.com/warhammer-40k-space-marine-2-everything-we-know)
-- [Instagram will now let you add music to photo carousels](https://techcrunch.com/2023/08/11/instagram-will-now-let-you-add-music-to-photo-carousels/)
-- [Pitch Deck Teardown: ANYbotics’ $50M Series B deck](https://techcrunch.com/2023/08/11/sample-series-b-pitch-deck-anybotics-ag/)
-- [Google pushes Match for more money in antitrust battle, court filing states](https://techcrunch.com/2023/08/11/google-pushes-match-for-more-money-in-antitrust-battle-court-filing-states/)
-- [Ladies and gentlemen: The dregs of the SPAC boom](https://techcrunch.com/2023/08/11/ladies-and-gentlemen-the-dregs-of-the-spac-boom/)
+- [Elon Musk’s Twitter &lpar;now X&rpar;: Everything you need to know, from layoffs to verification](https://techcrunch.com/2023/08/11/elon-musk-twitter-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
