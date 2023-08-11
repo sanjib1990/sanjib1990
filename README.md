@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech is a mess. Is BaaS the outlier?](https://techcrunch.com/2023/08/11/fintech-banking-as-a-service-outlier/)
-- [TechCrunch+ Roundup: Creator economy VC survey, B2C fintech growth strategy, web3 demo day](https://techcrunch.com/2023/08/11/creator-economy-vc-survey-b2c-fintech-growth-strategy-web3-demo-day/)
-- [Apple MacBook Air M2 15-inch laptop review](https://www.space.com/macbook-air-m2-15-inch-laptop-review)
-- [Ancient mud cracks on Mars suggest Red Planet may have been more habitable than thought](https://www.space.com/mars-mud-cracks-habitable-conditions-curiosity-rover)
-- [US cyber board to investigate Microsoft hack of government emails](https://techcrunch.com/2023/08/11/cyber-security-review-board-microsoft-hack-government-emails/)
+- [The Civil Rights Movement comes to venture capital](https://techcrunch.com/2023/08/11/fearless-fund-lawsuit-civil-rights/)
+- [Asteroid struck by NASA&#39;s DART probe to be radar-scanned with Hera mission](https://www.space.com/esa-hera-juventas-jura-radar-deliver)
+- [ByteDance again looks to TikTok to promote its other social app, Lemon8](https://techcrunch.com/2023/08/11/bytedance-again-looks-to-tiktok-to-promote-its-other-social-app-lemon8/)
+- [Baldur’s Gate 3 early review: Modern fantasy](https://techcrunch.com/2023/08/11/baldurs-gate-3-early-review-modern-fantasy/)
+- [How we scaled our App Store performance by approximately 200% in 1 year](https://techcrunch.com/2023/08/11/how-we-scaled-our-app-store-performance-by-approximately-200-in-1-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
