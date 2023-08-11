@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about Warhammer 40K: Space Marine 2](https://www.space.com/warhammer-40k-space-marine-2-everything-we-know)
+- [Instagram will now let you add music to photo carousels](https://techcrunch.com/2023/08/11/instagram-will-now-let-you-add-music-to-photo-carousels/)
+- [Pitch Deck Teardown: ANYbotics’ $50M Series B deck](https://techcrunch.com/2023/08/11/sample-series-b-pitch-deck-anybotics-ag/)
+- [Google pushes Match for more money in antitrust battle, court filing states](https://techcrunch.com/2023/08/11/google-pushes-match-for-more-money-in-antitrust-battle-court-filing-states/)
 - [Ladies and gentlemen: The dregs of the SPAC boom](https://techcrunch.com/2023/08/11/ladies-and-gentlemen-the-dregs-of-the-spac-boom/)
-- [Nightfox Swift night vision binoculars review](https://www.space.com/nightfox-swift-night-vision-binoculars-review)
-- [Cosmonaut Alexander Viktorenko, who flew to Mir space station four times, dies at 76](https://www.space.com/cosmonaut-alexander-viktorenko-obituary)
-- [The sale on passes to TechCrunch Disrupt 2023 ends today](https://techcrunch.com/2023/08/11/the-sale-on-passes-to-techcrunch-disrupt-2023-ends-today/)
-- [Anycubic Photon Mono M5s review: 12K printing is here](https://www.space.com/anycubic-photon-mono-m5s-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
