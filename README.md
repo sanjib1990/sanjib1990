@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Venus is now a slim crescent and will disappear from the evening sky this weekend](https://www.space.com/venus-crescent-night-sky-disappearing-soon)
+- [It’s official: Better.com is going public](https://techcrunch.com/2023/08/11/its-official-better-com-is-going-public/)
 - [NASA test-fires rocket motors that will help launch samples off Mars &lpar;video&rpar;](https://www.space.com/nasa-mars-sample-return-rocket-tests-video)
 - [Okay, fine, I want Elon Musk and Mark Zuckerberg to fight](https://techcrunch.com/2023/08/11/okay-fine-i-want-elon-musk-and-mark-zuckerberg-to-fight/)
 - [Win a free &#39;Asteroid City&#39; Blu-ray and more in this Facebook giveaway!](https://www.space.com/asteroid-city-blu-ray-release-giveaway)
-- [Instruments for NASA&#39;s VERITAS Venus mission get a test in Iceland &lpar;photos&rpar;](https://www.space.com/nasa-veritas-venus-mission-iceland-instrument-tests)
-- [Former FTX CEO Sam Bankman-Fried’s bail revoked ahead of October trial](https://techcrunch.com/2023/08/11/former-ftx-ceo-sam-bankman-fried-bail-revoked-ahead-of-october-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
