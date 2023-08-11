@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Parker Solar Probe to make closest flyby of Venus on Aug. 21](https://www.space.com/parker-solar-probe-set-venus-flyby-august-21)
 - [Shiny Perseid meteors light up a dark sky in Portugal &lpar;video&rpar;](https://www.space.com/perseid-meteor-shower-dark-sky-portugal-video)
 - [Perseid meteor shower peaks this weekend — but 2028&#39;s show might be one for the ages](https://www.space.com/perseid-meteor-shower-storm-2028)
 - [Exoplanets in the Trappist-1 system more likely to be habitable than scientists once thought, study suggests](https://www.space.com/trappist-1-exoplanets-more-likely-to-have-water)
 - [5 growth lessons we learned while scaling from $2M to $3M ARR](https://techcrunch.com/2023/08/10/5-growth-lessons-we-learned-while-scaling-from-2m-to-3m-arr/)
-- [X, formerly Twitter, lowers requirements for its ad-revenue sharing program](https://techcrunch.com/2023/08/10/x-formerly-twitter-lowers-requirements-for-its-ad-revenue-sharing-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
