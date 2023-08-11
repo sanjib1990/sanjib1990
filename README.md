@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The MOVEit mass hacks hold a valuable lesson for the software industry](https://techcrunch.com/2023/08/11/moveit-mass-hacks-lessons/)
-- [Aftermath of Hawaii&#39;s deadly wildfire inferno revealed in gut-wrenching satellite images](https://www.space.com/hawaii-wildfire-destruction-satellite-images)
-- [Vaonis&#39; Hestia Kickstarter to turn smartphones into smart telescopes crosses $2 million with a week to go](https://www.space.com/vaoins)
-- [Everything we know about Warhammer 40K: Space Marine 2](https://www.space.com/warhammer-40k-space-marine-2-everything-we-know)
-- [Elon Musk’s Twitter &lpar;now X&rpar;: Everything you need to know, from layoffs to verification](https://techcrunch.com/2023/08/11/elon-musk-twitter-everything-you-need-to-know/)
+- [Fintech is a mess. Is BaaS the outlier?](https://techcrunch.com/2023/08/11/fintech-banking-as-a-service-outlier/)
+- [TechCrunch+ Roundup: Creator economy VC survey, B2C fintech growth strategy, web3 demo day](https://techcrunch.com/2023/08/11/creator-economy-vc-survey-b2c-fintech-growth-strategy-web3-demo-day/)
+- [Apple MacBook Air M2 15-inch laptop review](https://www.space.com/macbook-air-m2-15-inch-laptop-review)
+- [Ancient mud cracks on Mars suggest Red Planet may have been more habitable than thought](https://www.space.com/mars-mud-cracks-habitable-conditions-curiosity-rover)
+- [US cyber board to investigate Microsoft hack of government emails](https://techcrunch.com/2023/08/11/cyber-security-review-board-microsoft-hack-government-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
