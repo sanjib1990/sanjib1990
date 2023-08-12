@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers jailbreak a Tesla, the FCC fines robocallers and WeWork finds itself in trouble &lpar;again&rpar;](https://techcrunch.com/2023/08/12/researchers-jailbreak-a-tesla-the-fcc-fines-robocallers-and-wework-finds-itself-in-trouble-again/)
 - [A core plank of the SaaS economic model is under extreme pressure](https://techcrunch.com/2023/08/12/saas-economic-model-pressure/)
 - [Deal Dive: This AI startup is racking up government customers](https://techcrunch.com/2023/08/12/ivix-ai-financial-crimes/)
 - [How the FBI goes after DDoS cyberattackers](https://techcrunch.com/2023/08/12/fbi-ddos-for-hire-cyberattackers/)
 - [The largest known asteroid impact structure on Earth is buried in southeast Australia, new evidence suggests](https://www.space.com/worlds-largest-asteroid-impact-structure-in-australia)
-- [Bizarre &#39;demon&#39; particle found inside superconductor could help unlock a &#39;holy grail&#39; of physics](https://www.space.com/bizarre-demon-particle-found-inside-superconductor-could-help-unlock-a-holy-grail-of-physics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
