@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise and Waymo score a win and a surprising deal between electric aircraft rivals](https://techcrunch.com/2023/08/13/cruise-and-waymo-score-a-win/)
 - [Sure AI is hot, but is it an actual market or a platform piece?](https://techcrunch.com/2023/08/13/is-ai-platform-or-market/)
 - [Disrupt is around the corner — Here are the fintech players taking the stage](https://techcrunch.com/2023/08/13/disrupt-is-around-the-corner-here-are-the-fintech-players-taking-the-stage/)
 - [&#39;Quantum superchemistry&#39; observed for the 1st time ever](https://www.space.com/quantum-superchemistry-observed-for-the-1st-time-ever)
 - [Meteorite that crashed to Earth 3,500 years ago carved into arrowhead by Bronze Age hunters](https://www.space.com/meteorite-that-crashed-to-earth-3500-years-ago-carved-into-arrowhead-by-bronze-age-hunters)
-- [Could white holes actually exist?](https://www.space.com/could-white-holes-exist-space-mysteries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
