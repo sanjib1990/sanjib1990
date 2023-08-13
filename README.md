@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meteorite that crashed to Earth 3,500 years ago carved into arrowhead by Bronze Age hunters](https://www.space.com/meteorite-that-crashed-to-earth-3500-years-ago-carved-into-arrowhead-by-bronze-age-hunters)
 - [Could white holes actually exist?](https://www.space.com/could-white-holes-exist-space-mysteries)
 - [You&#39;ll travel nearly a trillion miles in your lifetime, even if you never leave home. Here&#39;s how.](https://www.space.com/human-travel-trillion-miles-lifetime-universe-motion)
 - [Researchers jailbreak a Tesla, the FCC fines robocallers and WeWork finds itself in trouble &lpar;again&rpar;](https://techcrunch.com/2023/08/12/researchers-jailbreak-a-tesla-the-fcc-fines-robocallers-and-wework-finds-itself-in-trouble-again/)
 - [A core plank of the SaaS economic model is under extreme pressure](https://techcrunch.com/2023/08/12/saas-economic-model-pressure/)
-- [Deal Dive: This AI startup is racking up government customers](https://techcrunch.com/2023/08/12/ivix-ai-financial-crimes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
