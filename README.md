@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brex expands into group events while Mesh Payments moves into travel](https://techcrunch.com/2023/08/14/brex-expands-into-group-events-while-mesh-payments-moves-into-travel/)
 - [Robomart is banking on ‘store-hailing’ to bring self-driving stores directly to customers](https://techcrunch.com/2023/08/14/robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers/)
-- [Web3 gaming adoption is skewing towards Asia, and the rest of the world may have to play catch-up](https://techcrunch.com/2023/08/14/web3-gaming-adoption-is-skewing-towards-asia-and-the-rest-of-the-world-may-have-to-play-catch-up/)
+- [Web3 gaming adoption is skewing toward Asia, and the rest of the world may have to play catch-up](https://techcrunch.com/2023/08/14/web3-gaming-adoption-is-skewing-towards-asia-and-the-rest-of-the-world-may-have-to-play-catch-up/)
 - [Nikola shares tank after EV maker recalls its battery-electric big rigs](https://techcrunch.com/2023/08/14/nikola-shares-tank-after-ev-maker-recalls-its-battery-electric-big-rigs/)
 - [Ford taps Apple exec to lead new software services unit](https://techcrunch.com/2023/08/14/ford-taps-apple-exec-to-lead-new-software-services-unit/)
-- [Millions of Americans’ health data stolen after MOVEit hackers targeted IBM](https://techcrunch.com/2023/08/14/millions-americans-health-data-moveit-hackers-clop-ibm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
