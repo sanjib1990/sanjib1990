@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atomic, GV, &amp; SOSV join the Startup Battlefield judges lineup at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/14/atomic-gv-sosv-join-the-startup-battlefield-judges-lineup-at-techcrunch-disrupt-2023/)
+- [Watch celebronauts search for a missing robot dog in this exclusive &#39;Stars on Mars&#39; clip &lpar;video&rpar;](https://www.space.com/stars-on-mars-missing-robot-dog)
+- [Max Q: More propulsion troubles on-orbit](https://techcrunch.com/2023/08/14/max-q-more-propulsion-troubles-on-orbit/)
+- [Russia&#39;s Luna-25 moon lander snaps 1st pictures from space &lpar;photos&rpar;](https://www.space.com/russia-moon-lander-luna-25-1st-photos-from-space)
 - [Monday.com shows it’s possible to post great results even in a slow market](https://techcrunch.com/2023/08/14/no-excuses-do-better/)
-- [SecureWorks layoffs affect 15% staff](https://techcrunch.com/2023/08/14/secureworks-second-round-layoffs-this-year/)
-- [Telegram rolls out its Stories feature to all users](https://techcrunch.com/2023/08/14/telegram-rolls-out-its-stories-feature-to-all-users/)
-- [Our Milky Way galaxy was not always a spiral. Here&#39;s how it changed shape](https://www.space.com/galaxy-shape-shifting-milky-way-mystery-solved)
-- [Netflix begins testing its games on TVs and computers in Canada and U.K.](https://techcrunch.com/2023/08/14/netflix-begins-testing-its-games-on-tvs-and-computers-in-canada-and-u-k/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
