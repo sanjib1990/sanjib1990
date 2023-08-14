@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to read and understand a solar eclipse map](https://www.space.com/how-to-read-understand-solar-eclipse-map)
+- [Browse the breakout sessions at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/14/browse-the-breakout-sessions-at-techcrunch-disrupt-2023/)
+- [Perseid meteor shower 2023 thrills stargazers around the world. See their amazing photos.](https://www.space.com/perseid-meteor-shower-2023-amazing-photos)
 - [Meet the SpaceX Crew-7 astronauts launching to the ISS on Aug. 25](https://www.space.com/meet-spacex-crew-7-astronauts-iss)
 - [Enterprise spending on cybersecurity has changed, and vendors must adapt](https://techcrunch.com/2023/08/14/enterprise-spending-on-cybersecurity-has-changed-and-vendors-must-adapt/)
-- [Mastercard to purchase a minority stake in MTN’s $5.2B fintech business](https://techcrunch.com/2023/08/14/mastercard-to-purchase-a-minority-stake-in-mtns-5-2b-fintech-business/)
-- [Gravitational waves show black holes prefer certain masses before they collide](https://www.space.com/gravitational-waves-show-black-hole-collision-mass)
-- [China makes Chang&#39;e 5 moon samples open to international researchers](https://www.space.com/china-change-5-moon-samples-open-international-researchers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
