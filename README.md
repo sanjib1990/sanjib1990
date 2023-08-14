@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A merger that’s good for workers and consumers](https://techcrunch.com/2023/08/14/a-merger-thats-good-for-workers-and-consumers/)
+- [&#39;Strange New Worlds&#39; season 2 finale brings back those alien antagonists, the Gorn](https://www.space.com/star-trek-strange-new-worlds-season-2-episode-10-review)
 - [Atomic, GV, &amp; SOSV join the Startup Battlefield judges lineup at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/14/atomic-gv-sosv-join-the-startup-battlefield-judges-lineup-at-techcrunch-disrupt-2023/)
 - [Watch celebronauts search for a missing robot dog in this exclusive &#39;Stars on Mars&#39; clip &lpar;video&rpar;](https://www.space.com/stars-on-mars-missing-robot-dog)
 - [Max Q: More propulsion troubles on-orbit](https://techcrunch.com/2023/08/14/max-q-more-propulsion-troubles-on-orbit/)
-- [Russia&#39;s Luna-25 moon lander snaps 1st pictures from space &lpar;photos&rpar;](https://www.space.com/russia-moon-lander-luna-25-1st-photos-from-space)
-- [Monday.com shows it’s possible to post great results even in a slow market](https://techcrunch.com/2023/08/14/no-excuses-do-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
