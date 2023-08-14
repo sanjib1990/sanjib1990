@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the SpaceX Crew-7 astronauts launching to the ISS on Aug. 25](https://www.space.com/meet-spacex-crew-7-astronauts-iss)
 - [Enterprise spending on cybersecurity has changed, and vendors must adapt](https://techcrunch.com/2023/08/14/enterprise-spending-on-cybersecurity-has-changed-and-vendors-must-adapt/)
 - [Mastercard to purchase a minority stake in MTN’s $5.2B fintech business](https://techcrunch.com/2023/08/14/mastercard-to-purchase-a-minority-stake-in-mtns-5-2b-fintech-business/)
 - [Gravitational waves show black holes prefer certain masses before they collide](https://www.space.com/gravitational-waves-show-black-hole-collision-mass)
 - [China makes Chang&#39;e 5 moon samples open to international researchers](https://www.space.com/china-change-5-moon-samples-open-international-researchers)
-- [Iraq lifts ban on Telegram after messaging app complies with authorities](https://techcrunch.com/2023/08/14/iraq-lifts-ban-on-telegram-after-messaging-app-complies-with-authorities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
