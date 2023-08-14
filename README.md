@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A merger that’s good for workers and consumers](https://techcrunch.com/2023/08/14/a-merger-thats-good-for-workers-and-consumers/)
-- [&#39;Strange New Worlds&#39; season 2 finale brings back those alien antagonists, the Gorn](https://www.space.com/star-trek-strange-new-worlds-season-2-episode-10-review)
-- [Atomic, GV, &amp; SOSV join the Startup Battlefield judges lineup at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/14/atomic-gv-sosv-join-the-startup-battlefield-judges-lineup-at-techcrunch-disrupt-2023/)
-- [Watch celebronauts search for a missing robot dog in this exclusive &#39;Stars on Mars&#39; clip &lpar;video&rpar;](https://www.space.com/stars-on-mars-missing-robot-dog)
-- [Max Q: More propulsion troubles on-orbit](https://techcrunch.com/2023/08/14/max-q-more-propulsion-troubles-on-orbit/)
+- [OnePlus takes on the wet touchscreen problem](https://techcrunch.com/2023/08/14/oneplus-takes-on-the-wet-touchscreen-problem/)
+- [July 2023 was the hottest month since at least 1880, NASA says](https://www.space.com/july-hottest-month-since-1880-nasa-says)
+- [Amazon’s devices chief is stepping down this year](https://techcrunch.com/2023/08/14/amazons-devices-chief-is-stepping-down-this-year/)
+- [August Super Blue Moon guide 2023: The biggest and brightest moon of the year snuggles up to Saturn](https://www.space.com/blue-moon-supermoon-august-2023)
+- [First contact with aliens could end in colonization and genocide if we don&#39;t learn from history](https://www.space.com/first-contact-aliens-could-end-in-colonization-genocide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
