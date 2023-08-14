@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI startup Anthropic raises $100M from Korean telco giant SK Telecom](https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/)
 - [India, the world’s largest smartwatch market, is getting new smart rings](https://techcrunch.com/2023/08/13/smart-rings-india/)
 - [The space industry is starting a green revolution](https://techcrunch.com/2023/08/13/the-space-industry-is-starting-a-green-revolution/)
 - [Student opportunities abound at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/13/student-opportunities-abound-at-techcrunch-disrupt-2023/)
 - [Bugs in transportation app Moovit gave hackers free rides](https://techcrunch.com/2023/08/13/moovit-transportation-app-moovit-hackers-free-rides/)
-- [Cruise and Waymo score a win and a surprising deal between electric aircraft rivals](https://techcrunch.com/2023/08/13/cruise-and-waymo-score-a-win/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
