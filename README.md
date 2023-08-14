@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monday.com shows it’s possible to post great results even in a slow market](https://techcrunch.com/2023/08/14/no-excuses-do-better/)
 - [SecureWorks layoffs affect 15% staff](https://techcrunch.com/2023/08/14/secureworks-second-round-layoffs-this-year/)
 - [Telegram rolls out its Stories feature to all users](https://techcrunch.com/2023/08/14/telegram-rolls-out-its-stories-feature-to-all-users/)
 - [Our Milky Way galaxy was not always a spiral. Here&#39;s how it changed shape](https://www.space.com/galaxy-shape-shifting-milky-way-mystery-solved)
 - [Netflix begins testing its games on TVs and computers in Canada and U.K.](https://techcrunch.com/2023/08/14/netflix-begins-testing-its-games-on-tvs-and-computers-in-canada-and-u-k/)
-- [Ford’s hands-off driving tech available by subscription](https://techcrunch.com/2023/08/14/fords-hands-off-driving-tech-available-by-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
