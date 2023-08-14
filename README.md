@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brex expands into group events while Mesh Payments moves into travel](https://techcrunch.com/2023/08/14/brex-expands-into-group-events-while-mesh-payments-moves-into-travel/)
-- [Robomart is banking on ‘store-hailing’ to bring self-driving stores directly to customers](https://techcrunch.com/2023/08/14/robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers/)
-- [Web3 gaming adoption is skewing toward Asia, and the rest of the world may have to play catch-up](https://techcrunch.com/2023/08/14/web3-gaming-adoption-is-skewing-towards-asia-and-the-rest-of-the-world-may-have-to-play-catch-up/)
-- [Nikola shares tank after EV maker recalls its battery-electric big rigs](https://techcrunch.com/2023/08/14/nikola-shares-tank-after-ev-maker-recalls-its-battery-electric-big-rigs/)
-- [Ford taps Apple exec to lead new software services unit](https://techcrunch.com/2023/08/14/ford-taps-apple-exec-to-lead-new-software-services-unit/)
+- [SecureWorks layoffs affect 15% staff](https://techcrunch.com/2023/08/14/secureworks-second-round-layoffs-this-year/)
+- [Telegram rolls out its Stories feature to all users](https://techcrunch.com/2023/08/14/telegram-rolls-out-its-stories-feature-to-all-users/)
+- [Our Milky Way galaxy was not always a spiral. Here&#39;s how it changed shape](https://www.space.com/galaxy-shape-shifting-milky-way-mystery-solved)
+- [Netflix begins testing its games on TVs and computers in Canada and U.K.](https://techcrunch.com/2023/08/14/netflix-begins-testing-its-games-on-tvs-and-computers-in-canada-and-u-k/)
+- [Ford’s hands-off driving tech available by subscription](https://techcrunch.com/2023/08/14/fords-hands-off-driving-tech-available-by-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
