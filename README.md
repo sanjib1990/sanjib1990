@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robomart is banking on ‘store-hailing’ to bring self-driving stores directly to customers](https://techcrunch.com/2023/08/14/robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers/)
+- [Web3 gaming adoption is skewing towards Asia, and the rest of the world may have to play catch-up](https://techcrunch.com/2023/08/14/web3-gaming-adoption-is-skewing-towards-asia-and-the-rest-of-the-world-may-have-to-play-catch-up/)
+- [Nikola shares tank after EV maker recalls its battery-electric big rigs](https://techcrunch.com/2023/08/14/nikola-shares-tank-after-ev-maker-recalls-its-battery-electric-big-rigs/)
 - [Ford taps Apple exec to lead new software services unit](https://techcrunch.com/2023/08/14/ford-taps-apple-exec-to-lead-new-software-services-unit/)
 - [Millions of Americans’ health data stolen after MOVEit hackers targeted IBM](https://techcrunch.com/2023/08/14/millions-americans-health-data-moveit-hackers-clop-ibm/)
-- [Ugreen 25000mAh power bank review](https://www.space.com/ugreen-25000mah-power-bank-review)
-- [Amazon taps generative AI to enhance product reviews](https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/)
-- [Another $100M for AI, why not](https://techcrunch.com/2023/08/14/another-100m-for-ai-why-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
