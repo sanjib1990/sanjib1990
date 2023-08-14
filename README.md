@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mixlab adds to veterinary pharmacy footprint following $10M Series A extension](https://techcrunch.com/2023/08/14/mixlab-veterinary-pharmacy-10m/)
+- [Altos challenges lidar’s dominance in autonomous driving with 4D image radar](https://techcrunch.com/2023/08/14/altos-challenges-lidars-dominance-in-autonomous-driving-with-4d-image-radar/)
+- [CoinDesk to cut staffing ahead of potential sale](https://techcrunch.com/2023/08/14/coindesk-to-cut-staffing-ahead-of-potential-sale/)
+- [PayPal announces senior Intuit exec Alex Chriss as new CEO](https://techcrunch.com/2023/08/14/paypal-announces-senior-intuit-exec-alex-chriss-as-new-ceo/)
 - [How to read and understand a solar eclipse map](https://www.space.com/how-to-read-understand-solar-eclipse-map)
-- [Browse the breakout sessions at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/14/browse-the-breakout-sessions-at-techcrunch-disrupt-2023/)
-- [Perseid meteor shower 2023 thrills stargazers around the world. See their amazing photos.](https://www.space.com/perseid-meteor-shower-2023-amazing-photos)
-- [Meet the SpaceX Crew-7 astronauts launching to the ISS on Aug. 25](https://www.space.com/meet-spacex-crew-7-astronauts-iss)
-- [Enterprise spending on cybersecurity has changed, and vendors must adapt](https://techcrunch.com/2023/08/14/enterprise-spending-on-cybersecurity-has-changed-and-vendors-must-adapt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
