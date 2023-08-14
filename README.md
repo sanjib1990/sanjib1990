@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India, the world’s largest smartwatch market, is getting new smart rings](https://techcrunch.com/2023/08/13/smart-rings-india/)
 - [The space industry is starting a green revolution](https://techcrunch.com/2023/08/13/the-space-industry-is-starting-a-green-revolution/)
 - [Student opportunities abound at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/13/student-opportunities-abound-at-techcrunch-disrupt-2023/)
 - [Bugs in transportation app Moovit gave hackers free rides](https://techcrunch.com/2023/08/13/moovit-transportation-app-moovit-hackers-free-rides/)
 - [Cruise and Waymo score a win and a surprising deal between electric aircraft rivals](https://techcrunch.com/2023/08/13/cruise-and-waymo-score-a-win/)
-- [Sure AI is hot, but is it an actual market or a platform piece?](https://techcrunch.com/2023/08/13/is-ai-platform-or-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
