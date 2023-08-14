@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OnePlus takes on the wet touchscreen problem](https://techcrunch.com/2023/08/14/oneplus-takes-on-the-wet-touchscreen-problem/)
-- [July 2023 was the hottest month since at least 1880, NASA says](https://www.space.com/july-hottest-month-since-1880-nasa-says)
+- [Researchers dig deep underground in hopes of finally observing dark matter](https://www.space.com/digging-deep-in-search-of-dark-matter)
+- [July 2023 was the hottest month on Earth since at least 1880 &#39;by a longshot,&#39; NASA says](https://www.space.com/july-hottest-month-since-1880-nasa-says)
 - [Amazon’s devices chief is stepping down this year](https://techcrunch.com/2023/08/14/amazons-devices-chief-is-stepping-down-this-year/)
 - [August Super Blue Moon guide 2023: The biggest and brightest moon of the year snuggles up to Saturn](https://www.space.com/blue-moon-supermoon-august-2023)
-- [First contact with aliens could end in colonization and genocide if we don&#39;t learn from history](https://www.space.com/first-contact-aliens-could-end-in-colonization-genocide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
