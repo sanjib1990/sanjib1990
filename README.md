@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mixlab adds to veterinary pharmacy footprint following $10M Series A extension](https://techcrunch.com/2023/08/14/mixlab-veterinary-pharmacy-10m/)
-- [Altos challenges lidar’s dominance in autonomous driving with 4D image radar](https://techcrunch.com/2023/08/14/altos-challenges-lidars-dominance-in-autonomous-driving-with-4d-image-radar/)
-- [CoinDesk to cut staffing ahead of potential sale](https://techcrunch.com/2023/08/14/coindesk-to-cut-staffing-ahead-of-potential-sale/)
-- [PayPal announces senior Intuit exec Alex Chriss as new CEO](https://techcrunch.com/2023/08/14/paypal-announces-senior-intuit-exec-alex-chriss-as-new-ceo/)
-- [How to read and understand a solar eclipse map](https://www.space.com/how-to-read-understand-solar-eclipse-map)
+- [Ford taps Apple exec to lead new software services unit](https://techcrunch.com/2023/08/14/ford-taps-apple-exec-to-lead-new-software-services-unit/)
+- [Millions of Americans’ health data stolen after MOVEit hackers targeted IBM](https://techcrunch.com/2023/08/14/millions-americans-health-data-moveit-hackers-clop-ibm/)
+- [Ugreen 25000mAh power bank review](https://www.space.com/ugreen-25000mah-power-bank-review)
+- [Amazon taps generative AI to enhance product reviews](https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/)
+- [Another $100M for AI, why not](https://techcrunch.com/2023/08/14/another-100m-for-ai-why-not/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
