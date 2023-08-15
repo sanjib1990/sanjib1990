@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chicken Soup for the Soul Entertainment cuts costs a year after buying Redbox](https://techcrunch.com/2023/08/15/chicken-soup-for-the-soul-entertainment-q2-2023-earnings/)
+- [The startup landscape has shifted dramatically: Accelerators must adapt or fade away](https://techcrunch.com/2023/08/15/the-startup-landscape-has-shifted-dramatically-accelerators-must-adapt-or-fade-away/)
+- [Jumia expects losses not to exceed $100M this year, per Q3 financials](https://techcrunch.com/2023/08/15/jumia-expects-losses-not-to-exceed-100m-this-year-per-q3-financials/)
+- [Mars Society begins simulated Red Planet mission in Canadian Arctic](https://www.space.com/mars-society-simulated-red-planet-canadian-arctic-2023)
 - [Intuitive Machines sets November launch date for lunar lander mission](https://techcrunch.com/2023/08/15/intuitive-machines-sets-november-launch-date-for-lunar-lander-mission/)
-- [How ordinary spacecraft sensors could improve our understanding of space weather](https://www.space.com/space-weather-spacecraft-sensors)
-- [Configu raises a $3M pre-seed round for its configuration-as-code platform](https://techcrunch.com/2023/08/15/configu-raises-a-3m-pre-seed-round-for-its-configuration-as-code-platform/)
-- [OpenAI proposes a new way to use GPT-4 for content moderation](https://techcrunch.com/2023/08/15/openai-proposes-a-new-way-to-use-gpt-4-for-content-moderation/)
-- [The tech jobs market is as strong as it ever was](https://techcrunch.com/2023/08/15/tech-jobs-market-h1-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
