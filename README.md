@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab to launch a pair of climate satellites for NASA](https://techcrunch.com/2023/08/14/rocket-lab-to-launch-a-pair-of-climate-satellites-for-nasa/)
 - [OnePlus takes on the wet touchscreen problem](https://techcrunch.com/2023/08/14/oneplus-takes-on-the-wet-touchscreen-problem/)
 - [Researchers dig deep underground in hopes of finally observing dark matter](https://www.space.com/digging-deep-in-search-of-dark-matter)
 - [July 2023 was the hottest month on Earth since at least 1880 &#39;by a longshot,&#39; NASA says](https://www.space.com/july-hottest-month-since-1880-nasa-says)
 - [Amazon’s devices chief is stepping down this year](https://techcrunch.com/2023/08/14/amazons-devices-chief-is-stepping-down-this-year/)
-- [August Super Blue Moon guide 2023: The biggest and brightest moon of the year snuggles up to Saturn](https://www.space.com/blue-moon-supermoon-august-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
