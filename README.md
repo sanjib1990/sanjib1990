@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The pre-seed market is recovering, but investors increasingly have the upper hand](https://techcrunch.com/2023/08/15/the-investors-have-the-high-ground-luke/)
+- [Vlad Tenev shares Robinhood’s next chapter at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/15/vlad-tenev-shares-robinhoods-next-chapter-at-techcrunch-disrupt-2023/)
+- [Setapp announces plans to launch an alt app store for EU users](https://techcrunch.com/2023/08/15/setapp-announces-plans-to-launch-an-alt-app-store-for-eu-users/)
 - [Linear TV viewing sinks below 50% as streaming soars to new heights](https://techcrunch.com/2023/08/15/linear-tv-viewing-sinks-below-50-nielsen-july-2023-report/)
 - [Google’s AI search experience adds AI-powered summaries, definitions and coding improvements](https://techcrunch.com/2023/08/15/googles-ai-search-experience-adds-ai-powered-summaries-definitions-and-coding-improvements/)
-- [YouTube Music is adding a TikTok-style ‘Samples’ short-form video feed](https://techcrunch.com/2023/08/15/youtube-music-adding-tiktok-style-samples-short-form-video-feed/)
-- [ElectraMeccanica to merge with electric truck startup Tevva](https://techcrunch.com/2023/08/15/electrameccanica-to-merge-with-electric-truck-startup-tevva/)
-- [Catchup is a simple app for reminding yourself to check in with friends and loved ones](https://techcrunch.com/2023/08/15/catchup-is-a-simple-app-for-reminding-yourself-to-check-in-with-friends-and-loved-ones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
