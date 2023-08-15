@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voiceflow, a platform for building conversational AI experiences, raises $15M](https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/)
 - [‘Smart bus’ startup Zeelo, aimed at employers and schools, secures $14M to scale in the US](https://techcrunch.com/2023/08/15/smart-bus-startup-zeelo-aimed-at-employers-and-schools-secures-14m-to-scale-in-the-us/)
 - [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [The August new moon is ideal for spotting stunning deep sky objects tonight](https://www.space.com/new-moon-deep-sky-objects-august-2023)
 - [Supersonic tsunamis 3 times as tall as our sun are breaking on a distant &#39;heartbreak star&#39;](https://www.space.com/supersonic-tsunamis-three-times-tall-sun-heartbreak-star)
-- [Tesla reassures Chinese users on data security amid spying concerns](https://techcrunch.com/2023/08/14/tesla-reassures-chinese-users-on-data-security-amid-spying-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
