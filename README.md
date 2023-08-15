@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X, formerly Twitter, slowed down access to Threads, The New York Times, Bluesky and more](https://techcrunch.com/2023/08/15/x-formerly-twitter-slows-down-access-to-threads-the-new-york-times-bluesky-and-more/)
+- [Hubble telescope captures a &#39;ghostly&#39; galaxy glowing in distant space &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-ghostly-galaxy-image)
+- [Fly along with Virgin Galactic&#39;s 1st private astronauts on landmark mission &lpar;video&rpar;](https://www.space.com/virgin-galactic-first-private-astronaut-mission-video)
 - [Chicken Soup for the Soul Entertainment cuts costs a year after buying Redbox](https://techcrunch.com/2023/08/15/chicken-soup-for-the-soul-entertainment-q2-2023-earnings/)
 - [The startup landscape has shifted dramatically: Accelerators must adapt or fade away](https://techcrunch.com/2023/08/15/the-startup-landscape-has-shifted-dramatically-accelerators-must-adapt-or-fade-away/)
-- [Jumia expects losses not to exceed $100M this year, per Q3 financials](https://techcrunch.com/2023/08/15/jumia-expects-losses-not-to-exceed-100m-this-year-per-q3-financials/)
-- [Mars Society begins simulated Red Planet mission in Canadian Arctic](https://www.space.com/mars-society-simulated-red-planet-canadian-arctic-2023)
-- [Intuitive Machines sets November launch date for lunar lander mission](https://techcrunch.com/2023/08/15/intuitive-machines-sets-november-launch-date-for-lunar-lander-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
