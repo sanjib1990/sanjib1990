@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Record-breaking &#39;failed&#39; star orbiting stellar corpse is 3,600 degrees hotter than the sun](https://www.space.com/hottest-brown-dwarf-discovered-hotter-than-sun)
+- [Electrify America-backed 75MW solar farm kicks off operations](https://techcrunch.com/2023/08/15/electrify-america-backed-75mw-solar-farm-kicks-off-operations/)
+- [Japan&#39;s Interstellar Technologies aims to launch 1st orbital rocket in 2025](https://www.space.com/japan-interstellar-technologies-debut-orbital-launch-2025)
 - [X, formerly Twitter, slowed down access to Threads, The New York Times, Bluesky and more](https://techcrunch.com/2023/08/15/x-formerly-twitter-slows-down-access-to-threads-the-new-york-times-bluesky-and-more/)
 - [Hubble telescope captures a &#39;ghostly&#39; galaxy glowing in distant space &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-ghostly-galaxy-image)
-- [Fly along with Virgin Galactic&#39;s 1st private astronauts on landmark mission &lpar;video&rpar;](https://www.space.com/virgin-galactic-first-private-astronaut-mission-video)
-- [Chicken Soup for the Soul Entertainment cuts costs a year after buying Redbox](https://techcrunch.com/2023/08/15/chicken-soup-for-the-soul-entertainment-q2-2023-earnings/)
-- [The startup landscape has shifted dramatically: Accelerators must adapt or fade away](https://techcrunch.com/2023/08/15/the-startup-landscape-has-shifted-dramatically-accelerators-must-adapt-or-fade-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
