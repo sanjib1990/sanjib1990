@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The pre-seed market is recovering, but investors increasingly have the upper hand](https://techcrunch.com/2023/08/15/the-investors-have-the-high-ground-luke/)
-- [Vlad Tenev shares Robinhood’s next chapter at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/15/vlad-tenev-shares-robinhoods-next-chapter-at-techcrunch-disrupt-2023/)
-- [Setapp announces plans to launch an alt app store for EU users](https://techcrunch.com/2023/08/15/setapp-announces-plans-to-launch-an-alt-app-store-for-eu-users/)
-- [Linear TV viewing sinks below 50% as streaming soars to new heights](https://techcrunch.com/2023/08/15/linear-tv-viewing-sinks-below-50-nielsen-july-2023-report/)
-- [Google’s AI search experience adds AI-powered summaries, definitions and coding improvements](https://techcrunch.com/2023/08/15/googles-ai-search-experience-adds-ai-powered-summaries-definitions-and-coding-improvements/)
+- [The tech jobs market is strong as it ever was](https://techcrunch.com/2023/08/15/tech-jobs-market-h1-2023/)
+- [Space mining company developing nuclear reactor and more for moon projects](https://www.space.com/space-mining-company-moon-projects-drew-feustel)
+- [Worldcoin ignored initial order to stop iris scans in Kenya, records show](https://techcrunch.com/2023/08/15/worldcoin-in-kenya/)
+- [Substack expands further into social networking with a new ‘Follow’ button](https://techcrunch.com/2023/08/15/substack-expands-further-into-social-networking-with-a-new-follow-button/)
+- [TechCrunch+ Roundup: App Store growth tactics, changing SaaS models, ‘AI-induced frenzy’](https://techcrunch.com/2023/08/15/app-store-growth-tactics-changing-saas-models-ai-induced-frenzy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
