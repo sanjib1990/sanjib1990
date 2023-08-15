@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The tech jobs market is strong as it ever was](https://techcrunch.com/2023/08/15/tech-jobs-market-h1-2023/)
-- [Space mining company developing nuclear reactor and more for moon projects](https://www.space.com/space-mining-company-moon-projects-drew-feustel)
-- [Worldcoin ignored initial order to stop iris scans in Kenya, records show](https://techcrunch.com/2023/08/15/worldcoin-in-kenya/)
-- [Substack expands further into social networking with a new ‘Follow’ button](https://techcrunch.com/2023/08/15/substack-expands-further-into-social-networking-with-a-new-follow-button/)
-- [TechCrunch+ Roundup: App Store growth tactics, changing SaaS models, ‘AI-induced frenzy’](https://techcrunch.com/2023/08/15/app-store-growth-tactics-changing-saas-models-ai-induced-frenzy/)
+- [Intuitive Machines sets November launch date for lunar lander mission](https://techcrunch.com/2023/08/15/intuitive-machines-sets-november-launch-date-for-lunar-lander-mission/)
+- [How ordinary spacecraft sensors could improve our understanding of space weather](https://www.space.com/space-weather-spacecraft-sensors)
+- [Configu raises a $3M pre-seed round for its configuration-as-code platform](https://techcrunch.com/2023/08/15/configu-raises-a-3m-pre-seed-round-for-its-configuration-as-code-platform/)
+- [OpenAI proposes a new way to use GPT-4 for content moderation](https://techcrunch.com/2023/08/15/openai-proposes-a-new-way-to-use-gpt-4-for-content-moderation/)
+- [The tech jobs market is as strong as it ever was](https://techcrunch.com/2023/08/15/tech-jobs-market-h1-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
