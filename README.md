@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The August new moon is ideal for spotting stunning deep sky objects tonight](https://www.space.com/new-moon-deep-sky-objects-august-2023)
+- [Supersonic tsunamis 3 times as tall as our sun are breaking on a distant &#39;heartbreak star&#39;](https://www.space.com/supersonic-tsunamis-three-times-tall-sun-heartbreak-star)
 - [Tesla reassures Chinese users on data security amid spying concerns](https://techcrunch.com/2023/08/14/tesla-reassures-chinese-users-on-data-security-amid-spying-concerns/)
 - [Indian court ruling threatens Google’s advertising revenue model](https://techcrunch.com/2023/08/14/indian-court-ruling-threatens-google-advertising-revenue-model/)
 - [Rocket Lab to launch a pair of climate satellites for NASA](https://techcrunch.com/2023/08/14/rocket-lab-to-launch-a-pair-of-climate-satellites-for-nasa/)
-- [OnePlus takes on the wet touchscreen problem](https://techcrunch.com/2023/08/14/oneplus-takes-on-the-wet-touchscreen-problem/)
-- [Researchers dig deep underground in hopes of finally observing dark matter](https://www.space.com/digging-deep-in-search-of-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
