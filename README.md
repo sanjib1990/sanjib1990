@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finofo secures funding to challenge traditional forex with automated solution](https://techcrunch.com/2023/08/15/finofo-secures-funding-to-challenge-traditional-forex-with-automated-solution/)
-- [Closes Friday: Apply to the Space Domain Awareness Challenge Pitch-off at TC Disrupt 2023](https://techcrunch.com/2023/08/15/closes-friday-apply-to-the-space-domain-awareness-challenge-pitch-off-at-tc-disrupt-2023/)
-- [Tesla launches cheaper Model X and Model S options with less range](https://techcrunch.com/2023/08/15/tesla-launches-cheaper-model-x-and-model-s-options-with-less-range/)
-- [Voiceflow, a platform for building conversational AI experiences, raises $15M](https://techcrunch.com/2023/08/15/voiceflow-a-platform-for-building-conversational-ai-experiences-raises-15m/)
-- [&#39;Star Trek&#39; creature designer Neville Page on designing aliens and his new book &lpar;exclusive&rpar;](https://www.space.com/star-trek-creature-designer-neville-page-book)
+- [Talking with Webb using the Deep Space Network](https://blogs.nasa.gov/webb/2023/08/15/talking-with-webb-using-the-deep-space-network/)
+- [Browse AI help companies build bots to scrape website data and put it to work](https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/)
+- [How Pilea helps founders break down stigma around mental health](https://techcrunch.com/2023/08/15/founders-mental-health/)
+- [VC associates, this AI is coming for your jobs](https://techcrunch.com/2023/08/15/deckmatch-seed-round/)
+- [Google Photos adds a scrapbook-like Memories view feature aided by AI](https://techcrunch.com/2023/08/15/google-photos-adds-a-scrapbook-like-memories-view-feature-aided-by-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
