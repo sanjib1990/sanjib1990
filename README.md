@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Talking with Webb using the Deep Space Network](https://blogs.nasa.gov/webb/2023/08/15/talking-with-webb-using-the-deep-space-network/)
-- [Browse AI help companies build bots to scrape website data and put it to work](https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/)
-- [How Pilea helps founders break down stigma around mental health](https://techcrunch.com/2023/08/15/founders-mental-health/)
-- [VC associates, this AI is coming for your jobs](https://techcrunch.com/2023/08/15/deckmatch-seed-round/)
-- [Google Photos adds a scrapbook-like Memories view feature aided by AI](https://techcrunch.com/2023/08/15/google-photos-adds-a-scrapbook-like-memories-view-feature-aided-by-ai/)
+- [Catchup is a simple app for reminding yourself to check in with friends and loved ones](https://techcrunch.com/2023/08/15/catchup-is-a-simple-app-for-reminding-yourself-to-check-in-with-friends-and-loved-ones/)
+- [US lawmaker says FBI notified him of email breach linked to Microsoft cloud hack](https://techcrunch.com/2023/08/15/house-republican-emails-china-microsoft-cloud-hack/)
+- [Comcast’s new WIFI extender provides cellular and battery backup during storms](https://techcrunch.com/2023/08/15/comcasts-new-wifi-extender-provides-cellular-and-battery-backup-during-storms/)
+- [YouTube cracks down on videos promoting ‘ineffective’ cancer treatments](https://techcrunch.com/2023/08/15/youtube-cracks-down-harmful-cancer-treatment-misinformation/)
+- [Chandrayaan-3 vs. Luna-25: Are India and Russia racing to the moon’s south pole?](https://www.space.com/chandrayaan-3-vs-luna-25-lunar-pole-showdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
