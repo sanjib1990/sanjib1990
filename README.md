@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linear TV viewing sinks below 50% as streaming soars to new heights](https://techcrunch.com/2023/08/15/linear-tv-viewing-sinks-below-50-nielsen-july-2023-report/)
+- [Google’s AI search experience adds AI-powered summaries, definitions and coding improvements](https://techcrunch.com/2023/08/15/googles-ai-search-experience-adds-ai-powered-summaries-definitions-and-coding-improvements/)
+- [YouTube Music is adding a TikTok-style ‘Samples’ short-form video feed](https://techcrunch.com/2023/08/15/youtube-music-adding-tiktok-style-samples-short-form-video-feed/)
+- [ElectraMeccanica to merge with electric truck startup Tevva](https://techcrunch.com/2023/08/15/electrameccanica-to-merge-with-electric-truck-startup-tevva/)
 - [Catchup is a simple app for reminding yourself to check in with friends and loved ones](https://techcrunch.com/2023/08/15/catchup-is-a-simple-app-for-reminding-yourself-to-check-in-with-friends-and-loved-ones/)
-- [US lawmaker says FBI notified him of email breach linked to Microsoft cloud hack](https://techcrunch.com/2023/08/15/house-republican-emails-china-microsoft-cloud-hack/)
-- [Comcast’s new WIFI extender provides cellular and battery backup during storms](https://techcrunch.com/2023/08/15/comcasts-new-wifi-extender-provides-cellular-and-battery-backup-during-storms/)
-- [YouTube cracks down on videos promoting ‘ineffective’ cancer treatments](https://techcrunch.com/2023/08/15/youtube-cracks-down-harmful-cancer-treatment-misinformation/)
-- [Chandrayaan-3 vs. Luna-25: Are India and Russia racing to the moon’s south pole?](https://www.space.com/chandrayaan-3-vs-luna-25-lunar-pole-showdown)
 <!-- BLOG-POST-LIST:END -->
 
 ---
