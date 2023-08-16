@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers are helping robots teach themselves to open dishwashers and doors](https://techcrunch.com/2023/08/16/researchers-are-helping-robots-teach-themselves-to-open-dishwashers-and-doors/)
+- [EV maker Vinfast still worth more than Ford and GM after stock tanks 19%](https://techcrunch.com/2023/08/16/ev-maker-vinfast-still-worth-more-than-ford-and-gm-after-stock-tanks-19/)
 - [Deadly wildfires in Hawaii seen from International Space Station &lpar;photo&rpar;](https://www.space.com/deadly-wildfires-hawaii-international-space-station)
 - [A growth framework for reaching $1M ARR](https://techcrunch.com/2023/08/16/a-growth-framework-for-reaching-1m-arr/)
 - [These 3 teams just hacked a US Air Force satellite in space ... and won big cash prizes](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
-- [New York City bans TikTok on government-issued devices](https://techcrunch.com/2023/08/16/nyc-tiktok-ban/)
-- [NASA&#39;s New Horizons will investigate Uranus from the rear &lpar;Neptune, too&rpar;. Here&#39;s how you can help](https://www.space.com/nasa-new-horizons-probe-uranus-neptune)
 <!-- BLOG-POST-LIST:END -->
 
 ---
