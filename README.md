@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky adds self-labeling for posts and a dedicated media tab for profiles](https://techcrunch.com/2023/08/16/bluesky-adds-self-labeling-for-posts-and-a-dedicated-media-tab-for-profiles/)
-- [Tesla supplier CATL unveils battery that can add up to 400km of range in 10 minutes](https://techcrunch.com/2023/08/16/tesla-supplier-catl-unveils-battery-that-can-add-up-to-400km-of-range-in-10-minutes/)
-- [Paid users of X, formerly Twitter, gets a new tab to highlight their posts](https://techcrunch.com/2023/08/15/paid-users-of-x-formerly-twitter-gets-a-new-tab-to-highlight-their-posts/)
-- [X &lpar;formerly Twitter&rpar; makes X Pro &lpar;formerly TweetDeck&rpar; a subscriber-only product](https://techcrunch.com/2023/08/15/x-formerly-twitter-makes-x-pro-formerly-tweetdeck-a-subscriber-only-product/)
-- [Intuitive Machines sets Nov. 15 launch date for private moon lander on SpaceX rocket](https://www.space.com/intuitive-machines-private-moon-lander-launch-date-november-2023)
+- [SpaceX to launch 2 Starlink missions 7 hours apart late Wednesday and early Thursday: Watch live](https://www.space.com/spacex-starlink-launch-group-6-10)
+- [NASA working to get private space stations up and running before ISS retires in 2030](https://www.space.com/nasa-transition-iss-leo-commercial-space-stations)
+- [Intel and Tower Semiconductor cancel $5.4B merger over regulatory hurdles](https://techcrunch.com/2023/08/16/intel-tower-semiconductor-acquisition-china/)
+- [Founders Factory Africa to deploy $114M using learnings from past programs](https://techcrunch.com/2023/08/16/founders-factory-africa-to-deploy-114m-using-learnings-from-past-programs/)
+- [Lindus Health, a U.K. clinical trials startup backed by Peter Thiel, raises $18M](https://techcrunch.com/2023/08/16/lindus-health-clinical-trials-peter-thiel-creandum-18-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
