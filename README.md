@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X &lpar;formerly Twitter&rpar; makes X Pro &lpar;formerly TweetDeck&rpar; a subscriber-only product](https://techcrunch.com/2023/08/15/x-formerly-twitter-makes-x-pro-formerly-tweetdeck-a-subscriber-only-product/)
 - [Intuitive Machines sets Nov. 15 launch date for private moon lander on SpaceX rocket](https://www.space.com/intuitive-machines-private-moon-lander-launch-date-november-2023)
 - [Record-breaking &#39;failed&#39; star orbiting stellar corpse is 3,600 degrees hotter than the sun](https://www.space.com/hottest-brown-dwarf-discovered-hotter-than-sun)
 - [Electrify America–backed 75MW solar farm kicks off operations](https://techcrunch.com/2023/08/15/electrify-america-backed-75mw-solar-farm-kicks-off-operations/)
 - [Japan&#39;s Interstellar Technologies aims to launch 1st orbital rocket in 2025](https://www.space.com/japan-interstellar-technologies-debut-orbital-launch-2025)
-- [X, formerly Twitter, slowed down access to Threads, The New York Times, Bluesky and more](https://techcrunch.com/2023/08/15/x-formerly-twitter-slows-down-access-to-threads-the-new-york-times-bluesky-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
