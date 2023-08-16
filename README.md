@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The software market, AI moats, and when to go public with Amplitude CEO Spenser Skates](https://techcrunch.com/2023/08/16/the-software-market-ai-moats-and-when-to-go-public-with-amplitude-ceo-spenser-skates/)
-- [Opera’s iOS web browser gains an AI companion with Aria](https://techcrunch.com/2023/08/16/operas-ios-web-browser-gains-an-ai-companion-with-aria/)
-- [Highlight, now flush with $18M, helps CPG brands automate product testing](https://techcrunch.com/2023/08/16/highlight-18m-cpg-product-testing-commerce/)
-- [Apica acquires Logiq.ai to bring together observability and synthetic data](https://techcrunch.com/2023/08/16/apica-acquires-logiq-ai-to-bring-together-observability-and-synthetic-data/)
-- [Caden lands $15M to let users monetize their personal data](https://techcrunch.com/2023/08/16/caden-lands-15m-to-let-users-monetize-their-personal-data/)
+- [This $70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
+- [NFL Sunday Ticket gets student plans, flexible billing, live chat and more](https://techcrunch.com/2023/08/16/nfl-sunday-ticket-features-student-plan-flexible-billing-live-chat/)
+- [Katie Haun will discuss the future of crypto at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/16/katie-haun-will-discuss-the-future-of-crypto-at-techcrunch-disrupt-2023/)
+- [The sun rages with solar flares in epic time-lapse footage &lpar;video&rpar;](https://www.space.com/sun-solar-timelapse-full-disc-eruptions)
+- [Satellites show Mount Etna volcano erupt after weeks of puffing out smoke rings &lpar;photos&rpar;](https://www.space.com/mount-etna-eruption-seen-from-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
