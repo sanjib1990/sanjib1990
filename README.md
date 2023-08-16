@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Women-led firms are a bright spot in 2023’s fundraising slump](https://techcrunch.com/2023/08/16/women-led-firms-fundraising-2023/)
-- [India prepping to launch 1st sun-studying spacecraft next month](https://www.space.com/india-aditya-l1-sun-mission-september-launch)
-- [US Space Force creates 1st unit dedicated to targeting adversary satellites](https://www.space.com/space-force-1st-targeting-squadron)
-- [Russia&#39;s Luna-25 moon lander reaches lunar orbit](https://www.space.com/russia-luna-25-reaches-orbit-moon)
-- [Photo layout app Series makes it easier to post your panos to Threads](https://techcrunch.com/2023/08/16/photo-layout-app-series-makes-it-easier-to-post-your-panos-to-threads/)
+- [Skich, a discovery app for mobile games, now lets you launch and manage downloads](https://techcrunch.com/2023/08/16/skich-discovery-app-for-mobile-games/)
+- [Artemis 4 astronauts will be 1st crew to use NASA&#39;s moon-orbiting Gateway in 2028](https://www.space.com/artemis-4-first-astronauts-visit-gateway-moon-space-station)
+- [As unicorns grow rarer, maybe it’s time to look towards revenue, not valuations](https://techcrunch.com/2023/08/16/it-shouldve-been-centaurs-all-along/)
+- [Snapchat’s My AI goes rogue, posts to Stories, but Snap confirms it was just a glitch](https://techcrunch.com/2023/08/16/snapchats-my-ai-goes-rogue-posts-to-stories-but-snap-confirms-it-was-just-a-glitch/)
+- [OpenAI acquires AI design studio Global Illumination](https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
