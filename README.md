@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla supplier CATL unveils battery that can add up to 400km of range in 10 minutes](https://techcrunch.com/2023/08/16/tesla-supplier-catl-unveils-battery-that-can-add-up-to-400km-of-range-in-10-minutes/)
 - [Paid users of X, formerly Twitter, gets a new tab to highlight their posts](https://techcrunch.com/2023/08/15/paid-users-of-x-formerly-twitter-gets-a-new-tab-to-highlight-their-posts/)
 - [X &lpar;formerly Twitter&rpar; makes X Pro &lpar;formerly TweetDeck&rpar; a subscriber-only product](https://techcrunch.com/2023/08/15/x-formerly-twitter-makes-x-pro-formerly-tweetdeck-a-subscriber-only-product/)
 - [Intuitive Machines sets Nov. 15 launch date for private moon lander on SpaceX rocket](https://www.space.com/intuitive-machines-private-moon-lander-launch-date-november-2023)
 - [Record-breaking &#39;failed&#39; star orbiting stellar corpse is 3,600 degrees hotter than the sun](https://www.space.com/hottest-brown-dwarf-discovered-hotter-than-sun)
-- [Electrify America–backed 75MW solar farm kicks off operations](https://techcrunch.com/2023/08/15/electrify-america-backed-75mw-solar-farm-kicks-off-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
