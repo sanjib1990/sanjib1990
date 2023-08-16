@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tracking the EV battery factory construction boom across North America](https://techcrunch.com/2023/08/16/tracking-the-ev-battery-factory-construction-boom-across-north-america/)
+- [The White House’s efforts to combat climate change have sparked a tech arms race with the EU](https://techcrunch.com/2023/08/16/inflation-reduction-act-anniversary-2023/)
 - [Peak XV eyes $50M investment in former Edelweiss executives’ Neo](https://techcrunch.com/2023/08/16/peak-xv-eyes-50m-investment-in-former-edelweiss-executives-neo/)
 - [NASA working to get private space stations up and running before ISS retires in 2030](https://www.space.com/nasa-transition-iss-leo-commercial-space-stations)
 - [SpaceX to launch 2 Starlink missions 7 hours apart late Wednesday and early Thursday: Watch live](https://www.space.com/spacex-starlink-launch-group-6-10)
-- [Intel and Tower Semiconductor cancel $5.4B merger over regulatory hurdles](https://techcrunch.com/2023/08/16/intel-tower-semiconductor-acquisition-china/)
-- [Founders Factory Africa to deploy $114M using learnings from past programs](https://techcrunch.com/2023/08/16/founders-factory-africa-to-deploy-114m-using-learnings-from-past-programs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
