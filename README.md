@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The US Air Force challenged teams to hack into a satellite in space. Here are the winners](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
+- [New York City bans TikTok on government-issued devices](https://techcrunch.com/2023/08/16/nyc-tiktok-ban/)
+- [NASA&#39;s New Horizons will investigate Uranus from the rear &lpar;Neptune, too&rpar;. Here&#39;s how you can help](https://www.space.com/nasa-new-horizons-probe-uranus-neptune)
+- [SpaceX submits Starship mishap report to the FAA](https://www.space.com/spacex-submits-starship-mishap-report-faa)
 - [How NASA&#39;s Curiosity rover overcame its steepest Mars climb yet &lpar;video&rpar;](https://www.space.com/mars-rover-curiosity-steepest-climb-video)
-- [Work exchange earns you a free pass to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/16/work-exchange-earns-you-a-free-pass-to-techcrunch-disrupt-2023/)
-- [Women’s sports investment deserves the same consideration tech receives](https://techcrunch.com/2023/08/16/womens-sports-investment-deserves-the-same-consideration-tech-receives/)
-- [X, formerly Twitter, now sorts posts by like count on profiles when signed out](https://techcrunch.com/2023/08/16/x-formerly-twitter-now-sorts-posts-like-count-profiles-when-signed-out/)
-- [Elon Musk reportedly donated $10M to a fertility research project](https://techcrunch.com/2023/08/16/elon-musk-reportedly-donated-10-million-to-a-fertility-research-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
