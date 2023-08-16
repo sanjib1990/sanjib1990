@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The US Air Force challenged teams to hack into a satellite in space. Here are the winners](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
+- [Deadly wildfires in Hawaii seen from International Space Station &lpar;photo&rpar;](https://www.space.com/deadly-wildfires-hawaii-international-space-station)
+- [A growth framework for reaching $1M ARR](https://techcrunch.com/2023/08/16/a-growth-framework-for-reaching-1m-arr/)
+- [These 3 teams just hacked a US Air Force satellite in space ... and won big cash prizes](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
 - [New York City bans TikTok on government-issued devices](https://techcrunch.com/2023/08/16/nyc-tiktok-ban/)
 - [NASA&#39;s New Horizons will investigate Uranus from the rear &lpar;Neptune, too&rpar;. Here&#39;s how you can help](https://www.space.com/nasa-new-horizons-probe-uranus-neptune)
-- [SpaceX submits Starship mishap report to the FAA](https://www.space.com/spacex-submits-starship-mishap-report-faa)
-- [How NASA&#39;s Curiosity rover overcame its steepest Mars climb yet &lpar;video&rpar;](https://www.space.com/mars-rover-curiosity-steepest-climb-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
