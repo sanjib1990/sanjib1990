@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Skich, a discovery app for mobile games, now lets you launch and manage downloads](https://techcrunch.com/2023/08/16/skich-discovery-app-for-mobile-games/)
-- [Artemis 4 astronauts will be 1st crew to use NASA&#39;s moon-orbiting Gateway in 2028](https://www.space.com/artemis-4-first-astronauts-visit-gateway-moon-space-station)
-- [As unicorns grow rarer, maybe it’s time to look towards revenue, not valuations](https://techcrunch.com/2023/08/16/it-shouldve-been-centaurs-all-along/)
-- [Snapchat’s My AI goes rogue, posts to Stories, but Snap confirms it was just a glitch](https://techcrunch.com/2023/08/16/snapchats-my-ai-goes-rogue-posts-to-stories-but-snap-confirms-it-was-just-a-glitch/)
-- [OpenAI acquires AI design studio Global Illumination](https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/)
+- [How NASA&#39;s Curiosity rover overcame its steepest Mars climb yet &lpar;video&rpar;](https://www.space.com/mars-rover-curiosity-steepest-climb-video)
+- [Work exchange earns you a free pass to TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/16/work-exchange-earns-you-a-free-pass-to-techcrunch-disrupt-2023/)
+- [Women’s sports investment deserves the same consideration tech receives](https://techcrunch.com/2023/08/16/womens-sports-investment-deserves-the-same-consideration-tech-receives/)
+- [X, formerly Twitter, now sorts posts by like count on profiles when signed out](https://techcrunch.com/2023/08/16/x-formerly-twitter-now-sorts-posts-like-count-profiles-when-signed-out/)
+- [Elon Musk reportedly donated $10M to a fertility research project](https://techcrunch.com/2023/08/16/elon-musk-reportedly-donated-10-million-to-a-fertility-research-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
