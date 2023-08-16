@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BNPL vendor Splitit moves to go private in exchange for fresh funds](https://techcrunch.com/2023/08/16/bnpl-vendor-splitit-moves-to-go-private-in-exchange-for-fresh-funds/)
 - [Researchers are helping robots teach themselves to open dishwashers and doors](https://techcrunch.com/2023/08/16/researchers-are-helping-robots-teach-themselves-to-open-dishwashers-and-doors/)
 - [EV maker Vinfast still worth more than Ford and GM after stock tanks 19%](https://techcrunch.com/2023/08/16/ev-maker-vinfast-still-worth-more-than-ford-and-gm-after-stock-tanks-19/)
 - [Deadly wildfires in Hawaii seen from International Space Station &lpar;photo&rpar;](https://www.space.com/deadly-wildfires-hawaii-international-space-station)
 - [A growth framework for reaching $1M ARR](https://techcrunch.com/2023/08/16/a-growth-framework-for-reaching-1m-arr/)
-- [These 3 teams just hacked a US Air Force satellite in space ... and won big cash prizes](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
