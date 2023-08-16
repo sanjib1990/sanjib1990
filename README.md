@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Marqo, an open source vector search engine for AI applications](https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/)
-- [This Artemis 2 tour showed me the &#39;Canadian genius&#39; aiding NASA&#39;s next moon mission](https://www.space.com/artemis-2-spacecraft-tour-canadian-genius)
-- [&#39;A Million Miles Away&#39; trailer previews the true-life story of astronaut José Hernández](https://www.space.com/a-million-miles-away-jose-hernandez-amazon-prime-trailer)
-- [DynamoFL raises $15.1m to help enterprises adopt ‘compliant’ LLMs](https://techcrunch.com/2023/08/16/dynamofl-raises-15-1m-to-help-enterprises-adopt-compliant-llms/)
-- [Netflix’s ‘Scott Pilgrim Takes Off’ anime debuts teaser trailer and premiere date](https://techcrunch.com/2023/08/16/scott-pilgrim-anime-tv-series-netflix/)
+- [The software market, AI moats, and when to go public with Amplitude CEO Spenser Skates](https://techcrunch.com/2023/08/16/the-software-market-ai-moats-and-when-to-go-public-with-amplitude-ceo-spenser-skates/)
+- [Opera’s iOS web browser gains an AI companion with Aria](https://techcrunch.com/2023/08/16/operas-ios-web-browser-gains-an-ai-companion-with-aria/)
+- [Highlight, now flush with $18M, helps CPG brands automate product testing](https://techcrunch.com/2023/08/16/highlight-18m-cpg-product-testing-commerce/)
+- [Apica acquires Logiq.ai to bring together observability and synthetic data](https://techcrunch.com/2023/08/16/apica-acquires-logiq-ai-to-bring-together-observability-and-synthetic-data/)
+- [Caden lands $15M to let users monetize their personal data](https://techcrunch.com/2023/08/16/caden-lands-15m-to-let-users-monetize-their-personal-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
