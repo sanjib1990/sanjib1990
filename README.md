@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracking the EV battery factory construction boom across North America](https://techcrunch.com/2023/08/16/tracking-the-ev-battery-factory-construction-boom-across-north-america/)
-- [The White House’s efforts to combat climate change have sparked a tech arms race with the EU](https://techcrunch.com/2023/08/16/inflation-reduction-act-anniversary-2023/)
-- [Peak XV eyes $50M investment in former Edelweiss executives’ Neo](https://techcrunch.com/2023/08/16/peak-xv-eyes-50m-investment-in-former-edelweiss-executives-neo/)
-- [NASA working to get private space stations up and running before ISS retires in 2030](https://www.space.com/nasa-transition-iss-leo-commercial-space-stations)
-- [SpaceX to launch 2 Starlink missions 7 hours apart late Wednesday and early Thursday: Watch live](https://www.space.com/spacex-starlink-launch-group-6-10)
+- [Meet Marqo, an open source vector search engine for AI applications](https://techcrunch.com/2023/08/16/meet-marqo-an-open-source-vector-search-engine-for-ai-applications/)
+- [This Artemis 2 tour showed me the &#39;Canadian genius&#39; aiding NASA&#39;s next moon mission](https://www.space.com/artemis-2-spacecraft-tour-canadian-genius)
+- [&#39;A Million Miles Away&#39; trailer previews the true-life story of astronaut José Hernández](https://www.space.com/a-million-miles-away-jose-hernandez-amazon-prime-trailer)
+- [DynamoFL raises $15.1m to help enterprises adopt ‘compliant’ LLMs](https://techcrunch.com/2023/08/16/dynamofl-raises-15-1m-to-help-enterprises-adopt-compliant-llms/)
+- [Netflix’s ‘Scott Pilgrim Takes Off’ anime debuts teaser trailer and premiere date](https://techcrunch.com/2023/08/16/scott-pilgrim-anime-tv-series-netflix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
