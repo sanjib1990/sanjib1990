@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women-led firms are a bright spot in 2023’s fundraising slump](https://techcrunch.com/2023/08/16/women-led-firms-fundraising-2023/)
+- [India prepping to launch 1st sun-studying spacecraft next month](https://www.space.com/india-aditya-l1-sun-mission-september-launch)
 - [US Space Force creates 1st unit dedicated to targeting adversary satellites](https://www.space.com/space-force-1st-targeting-squadron)
 - [Russia&#39;s Luna-25 moon lander reaches lunar orbit](https://www.space.com/russia-luna-25-reaches-orbit-moon)
 - [Photo layout app Series makes it easier to post your panos to Threads](https://techcrunch.com/2023/08/16/photo-layout-app-series-makes-it-easier-to-post-your-panos-to-threads/)
-- [This $70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
-- [NFL Sunday Ticket gets student plans, flexible billing, live chat and more](https://techcrunch.com/2023/08/16/nfl-sunday-ticket-features-student-plan-flexible-billing-live-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
