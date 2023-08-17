@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Armed with new execs, dLocal rebounds from a short seller attack in a big way](https://techcrunch.com/2023/08/16/armed-with-new-execs-dlocal-rebounds-from-a-short-seller-attack-in-a-big-way/)
 - [BNPL vendor Splitit moves to go private in exchange for fresh funds](https://techcrunch.com/2023/08/16/bnpl-vendor-splitit-moves-to-go-private-in-exchange-for-fresh-funds/)
 - [Researchers are helping robots teach themselves to open dishwashers and doors](https://techcrunch.com/2023/08/16/researchers-are-helping-robots-teach-themselves-to-open-dishwashers-and-doors/)
 - [EV maker Vinfast still worth more than Ford and GM after stock tanks 19%](https://techcrunch.com/2023/08/16/ev-maker-vinfast-still-worth-more-than-ford-and-gm-after-stock-tanks-19/)
 - [Deadly wildfires in Hawaii seen from International Space Station &lpar;photo&rpar;](https://www.space.com/deadly-wildfires-hawaii-international-space-station)
-- [A growth framework for reaching $1M ARR](https://techcrunch.com/2023/08/16/a-growth-framework-for-reaching-1m-arr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
