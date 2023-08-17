@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Match Group’s background check partner Garbo ends its partnership](https://techcrunch.com/2023/08/17/match-groups-background-check-partner-garbo-ends-its-partnership/)
+- [Match Group’s background check provider Garbo ends its partnership](https://techcrunch.com/2023/08/17/match-groups-background-check-partner-garbo-ends-its-partnership/)
 - [True Anomaly gets regulatory greenlight for first spacecraft reconnaissance mission](https://techcrunch.com/2023/08/17/true-anomaly-gets-regulatory-greenlight-for-first-spacecraft-reconnaissance-mission/)
 - [Maui satellite photo shows full scale of deadliest US fire in more than a century](https://www.space.com/earth-satellite-images-maui-wildfires)
 - [Fifteen years in and still early to the industry with Marco Zappacosta from Thumbtack](https://techcrunch.com/2023/08/17/fifteen-years-in-and-still-early-to-the-industry-with-marco-zappacosta-from-thumbtack/)
