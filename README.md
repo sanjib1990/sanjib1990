@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arthur releases open source tool to help companies find the best LLM for a job](https://techcrunch.com/2023/08/17/arthur-releases-open-source-tool-to-help-companies-find-the-best-llm-for-a-job/)
 - [Soil can store gigatons of carbon, and Yard Stick wants to measure it all](https://techcrunch.com/2023/08/17/yard-stick-measure-soil-carbon/)
 - [A 142-year-old astronomy building was serendipitously unearthed in Michigan &lpar;photos&rpar;](https://www.space.com/astronomy-telescope-archaeology-michigan-state-university)
 - [CISA says hackers are exploiting a new file transfer bug in Citrix ShareFile](https://techcrunch.com/2023/08/17/cisa-hackers-citrix-sharefile-exploit/)
 - [How did supermassive black holes get so big so fast just after the Big Bang?](https://www.space.com/supermassive-black-hole-growth-after-big-bang)
-- [Rare iron meteorite could help reveal secrets of early solar system](https://www.space.com/iron-meteorite-parent-body-known-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
