@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Powerful helium star could finally reveal secrets about highly magnetic stellar corpses](https://www.space.com/star-helium-magnetic-stellar-corpses)
-- [Back to school: Our favorite student apps](https://techcrunch.com/2023/08/17/back-to-school-apps-2023/)
-- [Watch SpaceX launch 21 Starlink satellites early Friday](https://www.space.com/spacex-starlink-launch-group-7-1)
-- [Ford aims to secure battery material supply with new Canada facility](https://techcrunch.com/2023/08/17/ford-aims-to-secure-battery-material-supply-with-new-canada-facility/)
-- [Astronaut-artist Karen Nyberg unveils quilt portraits of first women to fly in space](https://www.space.com/astronaut-karen-nyberg-fabric-art-women-in-space)
+- [@Jack &lpar;Dorsey&rpar; quits Instagram, putting the first name handle up for grabs](https://techcrunch.com/2023/08/17/jack-dorsey-quits-instagram-putting-the-first-name-handle-up-for-grabs/)
+- [Bitcoin spot ETFs heat up, SBF’s bail revoked and web3 gaming adoption grows in Asia](https://techcrunch.com/2023/08/17/bitcoin-spot-etfs-heat-up-sbfs-bail-revoked-and-web3-gaming-adoption-grows-in-asia/)
+- [Moemate’s AI avatar analyzes your whole screen, with spotty but intriguing results](https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/)
+- [James Webb Space Telescope confirms &#39;Maisie&#39;s galaxy&#39; is one of the earliest ever seen](https://www.space.com/jwst-maisie-galaxy-earliest-observed)
+- [6 fintech investors sound off on AI, down rounds and what’s ahead](https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
