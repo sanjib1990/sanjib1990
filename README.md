@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [San Francisco presses CPUC to halt Waymo, Cruise robotaxi expansions](https://techcrunch.com/2023/08/17/san-francisco-presses-cpuc-to-halt-waymo-cruise-robotaxi-expansions/)
-- [What is a liquid neural network, really?](https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/)
-- [Wonder Brands’ pivot to acquiring e-commerce infrastructure pays off](https://techcrunch.com/2023/08/17/wonder-brands-e-commerce-series-a/)
-- [Intel’s modernization strategy could face setback with end of $5.4B Tower deal](https://techcrunch.com/2023/08/17/intels-modernization-strategy-could-face-setback-with-end-of-5-4b-tower-deal/)
-- [Musk says X will address shadowbanning ‘soon,’ but former Trust &amp; Safety exec explains why that will be difficult](https://techcrunch.com/2023/08/17/musk-says-x-will-address-shadowbanning-soon-but-former-trust-safety-exec-explains-why-that-will-be-difficult/)
+- [Powerful helium star could finally reveal secrets about highly magnetic stellar corpses](https://www.space.com/star-helium-magnetic-stellar-corpses)
+- [Back to school: Our favorite student apps](https://techcrunch.com/2023/08/17/back-to-school-apps-2023/)
+- [Watch SpaceX launch 21 Starlink satellites early Friday](https://www.space.com/spacex-starlink-launch-group-7-1)
+- [Ford aims to secure battery material supply with new Canada facility](https://techcrunch.com/2023/08/17/ford-aims-to-secure-battery-material-supply-with-new-canada-facility/)
+- [Astronaut-artist Karen Nyberg unveils quilt portraits of first women to fly in space](https://www.space.com/astronaut-karen-nyberg-fabric-art-women-in-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
