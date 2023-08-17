@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CISA says hackers are exploiting a new file transfer bug in Citrix ShareFile](https://techcrunch.com/2023/08/17/cisa-hackers-citrix-sharefile-exploit/)
+- [How did supermassive black holes get so big so fast just after the Big Bang?](https://www.space.com/supermassive-black-hole-growth-after-big-bang)
 - [Rare iron meteorite could help reveal secrets of early solar system](https://www.space.com/iron-meteorite-parent-body-known-orbit)
 - [SpaceX&#39;s Crew-7 mission will launch international crew to ISS next week](https://www.space.com/nasa-spacex-crew-7-astronauts-international-space-station-crew)
 - [Acronym’s new computer with Asus is bonkers, but that’s the point](https://techcrunch.com/2023/08/16/review-acronym-rmt02-asus/)
-- [Armed with new execs, dLocal rebounds from a short seller attack in a big way](https://techcrunch.com/2023/08/16/armed-with-new-execs-dlocal-rebounds-from-a-short-seller-attack-in-a-big-way/)
-- [BNPL vendor Splitit moves to go private in exchange for fresh funds](https://techcrunch.com/2023/08/16/bnpl-vendor-splitit-moves-to-go-private-in-exchange-for-fresh-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
