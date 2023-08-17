@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [@Jack &lpar;Dorsey&rpar; quits Instagram, putting the first name handle up for grabs](https://techcrunch.com/2023/08/17/jack-dorsey-quits-instagram-putting-the-first-name-handle-up-for-grabs/)
-- [Bitcoin spot ETFs heat up, SBF’s bail revoked and web3 gaming adoption grows in Asia](https://techcrunch.com/2023/08/17/bitcoin-spot-etfs-heat-up-sbfs-bail-revoked-and-web3-gaming-adoption-grows-in-asia/)
-- [Moemate’s AI avatar analyzes your whole screen, with spotty but intriguing results](https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/)
-- [James Webb Space Telescope confirms &#39;Maisie&#39;s galaxy&#39; is one of the earliest ever seen](https://www.space.com/jwst-maisie-galaxy-earliest-observed)
-- [6 fintech investors sound off on AI, down rounds and what’s ahead](https://techcrunch.com/2023/08/17/fintech-investors-q2-2023-down-rounds/)
+- [Fifteen years in and still early to the industry with Marco Zappacosta from Thumbtack](https://techcrunch.com/2023/08/17/fifteen-years-in-and-still-early-to-the-industry-with-marco-zappacosta-from-thumbtack/)
+- [Take an interstellar cruise into the cosmos in new limited series &#39;The Space Between&#39; &lpar;exclusive&rpar;](https://www.space.com/boom-studios-space-between-exclusive-look)
+- [Tumblr is rolling out a new web interface, and it looks a lot like X &lpar;formerly Twitter&rpar;](https://techcrunch.com/2023/08/17/tumblr-is-rolling-out-a-new-web-interface-and-it-looks-a-lot-like-x-formerly-twitter/)
+- [Cruise and Waymo see a surge in robotaxi app downloads](https://techcrunch.com/2023/08/17/cruise-and-waymo-see-a-surge-in-robotaxi-app-downloads/)
+- [Satellites watch wildfires rage across Canadian northwest &lpar;photos&rpar;](https://www.space.com/wildfires-rage-canada-northwest-satellite-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
