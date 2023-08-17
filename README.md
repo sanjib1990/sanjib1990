@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agility Robotics’ Damion Shelton and Melonee Wise will discuss the future of warehouse automation at TC Disrupt 2023](https://techcrunch.com/2023/08/17/agility-robotics-will-discuss-and-demo-digit-at-tc-disrupt-2023/)
+- [WhatsApp adds support for HD photos, says HD video coming ‘soon’](https://techcrunch.com/2023/08/17/whatsapp-adds-support-for-hd-photos-says-hd-video-coming-soon/)
+- [Most VCs have no clue what a CTO does](https://techcrunch.com/2023/08/17/evaluating-cto-venture-capital/)
+- [Watch how &#39;Ahsoka&#39; explores the bond between Jedi masters and apprentices in &#39;Star Wars&#39; &lpar;video&rpar;](https://www.space.com/star-wars-ahsoka-featurette-jedi-master-apprentice)
 - [Arthur releases open source tool to help companies find the best LLM for a job](https://techcrunch.com/2023/08/17/arthur-releases-open-source-tool-to-help-companies-find-the-best-llm-for-a-job/)
-- [Soil can store gigatons of carbon, and Yard Stick wants to measure it all](https://techcrunch.com/2023/08/17/yard-stick-measure-soil-carbon/)
-- [A 142-year-old astronomy building was serendipitously unearthed in Michigan &lpar;photos&rpar;](https://www.space.com/astronomy-telescope-archaeology-michigan-state-university)
-- [CISA says hackers are exploiting a new file transfer bug in Citrix ShareFile](https://techcrunch.com/2023/08/17/cisa-hackers-citrix-sharefile-exploit/)
-- [How did supermassive black holes get so big so fast just after the Big Bang?](https://www.space.com/supermassive-black-hole-growth-after-big-bang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
