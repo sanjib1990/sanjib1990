@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India&#39;s Chandrayaan-3 moon lander successfully separates, prepares for Aug. 23 touchdown](https://www.space.com/chandrayaan-3-moon-landing-spacecraft-separation)
-- [4 steps founders can take today to improve team recognition tomorrow](https://techcrunch.com/2023/08/17/4-steps-founders-can-take-today-to-improve-team-recognition-tomorrow/)
-- [A bitcoin spot ETF could open the floodgates for wider crypto demand](https://techcrunch.com/2023/08/17/bitcoin-spot-etf-crypto-demand/)
-- [ProjectDiscovery raises $25M to launch a cloud version of its threat-scanning platform](https://techcrunch.com/2023/08/17/projectdiscovery-raises-25m-to-launch-a-cloud-version-of-its-threat-scanning-platform/)
-- [Amplitude’s CEO feels his company would be “in a world of hurt” if it hadn’t gone public in 2021](https://techcrunch.com/2023/08/17/amplitude-ceo-interview-2023/)
+- [San Francisco presses CPUC to halt Waymo, Cruise robotaxi expansions](https://techcrunch.com/2023/08/17/san-francisco-presses-cpuc-to-halt-waymo-cruise-robotaxi-expansions/)
+- [What is a liquid neural network, really?](https://techcrunch.com/2023/08/17/what-is-a-liquid-neural-network-really/)
+- [Wonder Brands’ pivot to acquiring e-commerce infrastructure pays off](https://techcrunch.com/2023/08/17/wonder-brands-e-commerce-series-a/)
+- [Intel’s modernization strategy could face setback with end of $5.4B Tower deal](https://techcrunch.com/2023/08/17/intels-modernization-strategy-could-face-setback-with-end-of-5-4b-tower-deal/)
+- [Musk says X will address shadowbanning ‘soon,’ but former Trust &amp; Safety exec explains why that will be difficult](https://techcrunch.com/2023/08/17/musk-says-x-will-address-shadowbanning-soon-but-former-trust-safety-exec-explains-why-that-will-be-difficult/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
