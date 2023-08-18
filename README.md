@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Ingenuity Mars helicopter aces 55th Red Planet flight](https://www.space.com/nasa-mars-helicopter-ingenuity-55th-flight)
-- [Some good news, some Better.com news](https://techcrunch.com/2023/08/18/some-good-news-some-better-com-news/)
-- [Viome, a microbiome startup, raises $86.5M, inks distribution deal with CVS](https://techcrunch.com/2023/08/18/viome-a-microbiome-startup-raises-86-5m-inks-distribution-deal-with-cvs/)
-- [It’s official: LK-99 isn’t a room-temperature superconductor](https://techcrunch.com/2023/08/18/lk-99-room-temperature-superconductor/)
-- [We could be 16 years into a methane-fueled &#39;termination&#39; event significant enough to end an ice age](https://www.space.com/climate-change-termination-event-end-ice-age)
+- [Founders Fund, Index Ventures, Canvas Ventures join TC Disrupt Startup Battlefield judges](https://techcrunch.com/2023/08/18/founders-fund-index-ventures-canvas-ventures-join-tc-disrupt-startup-battlefield-judges/)
+- [SpaceX Dragon capsule arrives at launch pad ahead of Crew-7 liftoff &lpar;photos&rpar;](https://www.space.com/spacex-crew-7-dragon-endurance-arrives-launch-pad-photos)
+- [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Celestron EclipSmart 10x25mm roof solar binoculars review](https://www.space.com/celestron-eclipsmart-10x25mm-roof-solar-binoculars-review)
+- [Pitch Deck Teardown: DeckMatch’s $1M seed deck](https://techcrunch.com/2023/08/18/sample-seed-pitch-deck-deckmatch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
