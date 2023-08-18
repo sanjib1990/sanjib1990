@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon and Mars enjoy the sunset together tonight](https://www.space.com/moon-mars-sunset-august-2023)
+- [Astronomers find first evidence of heavy black hole seeds in the early universe](https://www.space.com/astronomers-find-first-evidence-of-heavy-black-hole-seeds-early-universe)
 - [Threads app’s latest update gives more prominence to reposts](https://techcrunch.com/2023/08/18/threads-apps-latest-update-gives-more-prominence-to-reposts/)
 - [Twitch will let streamers block banned users from watching streams](https://techcrunch.com/2023/08/17/twitch-will-let-streamers-block-banned-users-from-watching-streams/)
 - [HealthXCapital’s team joins Jungle Ventures](https://techcrunch.com/2023/08/17/healthxcapital-jungle-ventures/)
-- [Neptune&#39;s clouds have vanished, and the sun may be to blame &lpar;video&rpar;](https://www.space.com/neptune-clouds-vanish-solar-activity-responsible)
-- [Match Group’s background check provider Garbo ends its partnership](https://techcrunch.com/2023/08/17/match-groups-background-check-partner-garbo-ends-its-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
