@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Ingenuity Mars helicopter aces 55th Red Planet flight](https://www.space.com/nasa-mars-helicopter-ingenuity-55th-flight)
+- [Some good news, some Better.com news](https://techcrunch.com/2023/08/18/some-good-news-some-better-com-news/)
 - [Viome, a microbiome startup, raises $86.5M, inks distribution deal with CVS](https://techcrunch.com/2023/08/18/viome-a-microbiome-startup-raises-86-5m-inks-distribution-deal-with-cvs/)
 - [It’s official: LK-99 isn’t a room-temperature superconductor](https://techcrunch.com/2023/08/18/lk-99-room-temperature-superconductor/)
 - [We could be 16 years into a methane-fueled &#39;termination&#39; event significant enough to end an ice age](https://www.space.com/climate-change-termination-event-end-ice-age)
-- [Peak XV ramps up dealmaking following Sequoia split](https://techcrunch.com/2023/08/18/peak-xv-ramps-up-dealmaking-following-sequoia-split/)
-- [For climate tech startups, the IRA is starting to pay off](https://techcrunch.com/2023/08/18/for-climate-tech-startups-the-ira-is-starting-to-pay-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
