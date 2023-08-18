@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bad CTOs mean startups have millions of dollars’ worth of cap table dead weight](https://techcrunch.com/2023/08/18/bad-ctos-mean-startups-have-millions-worth-of-cap-table-dead-weight/)
+- [A nearby supernova could reveal the secret lives of ghostly neutrinos. Here&#39;s how.](https://www.space.com/nearby-supernova-reveal-secrets-neutrinos)
+- [Cruise robotaxi involved in a crash with fire truck, one passenger injured](https://techcrunch.com/2023/08/18/cruise-robotaxi-involved-in-a-crash-with-fire-truck-one-passenger-injured/)
 - [Bakery &#39;Kochs up&#39; kolache to honor moon-bound Artemis astronaut](https://www.space.com/artemis-2-astronaut-koch-it-to-the-moon-kolache)
 - [SpaceX’s new Bandwagon program is a big threat to small launch providers](https://techcrunch.com/2023/08/18/spacexs-new-bandwagon-program-is-a-big-threat-to-small-launch-providers/)
-- [Satellites watch powerful Hurricane Hilary swirl above the Pacific Ocean &lpar;video&rpar;](https://www.space.com/hurricane-hilary-threatens-california-satellite-video)
-- [Pentagon urges US space companies to stay vigilant against foreign intelligence](https://techcrunch.com/2023/08/18/pentagon-urges-vigilant-against-foreign-intelligence/)
-- [Bright cluster packed with stars shines in gorgeous new infrared image](https://www.space.com/globular-cluster-stars-vista-infrared-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
