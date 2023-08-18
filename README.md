@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why generalist investors will always win](https://techcrunch.com/2023/08/18/why-generalist-investors-will-always-win/)
+- [NASA rolls Artemis 2 mobile launch tower to pad for tests &lpar;photos&rpar;](https://www.space.com/nasa-artemis-2-mobile-launch-tower-rolled-pad-testing)
+- [Communication using thought alone? Unbabel unveils AI project to give us superhuman capabilities](https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/)
+- [Netflix inks deal with Ambani’s Jio to expand India presence](https://techcrunch.com/2023/08/18/netflix-inks-deal-with-reliance-jio-to-expand-india-presence/)
 - [See the moon and Mars enjoy the sunset together tonight](https://www.space.com/moon-mars-sunset-august-2023)
-- [Astronomers find first evidence of heavy black hole seeds in the early universe](https://www.space.com/astronomers-find-first-evidence-of-heavy-black-hole-seeds-early-universe)
-- [Threads app’s latest update gives more prominence to reposts](https://techcrunch.com/2023/08/18/threads-apps-latest-update-gives-more-prominence-to-reposts/)
-- [Twitch will let streamers block banned users from watching streams](https://techcrunch.com/2023/08/17/twitch-will-let-streamers-block-banned-users-from-watching-streams/)
-- [HealthXCapital’s team joins Jungle Ventures](https://techcrunch.com/2023/08/17/healthxcapital-jungle-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
