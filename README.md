@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bakery &#39;Kochs up&#39; kolache to honor moon-bound Artemis astronaut](https://www.space.com/artemis-2-astronaut-koch-it-to-the-moon-kolache)
+- [SpaceX’s new Bandwagon program is a big threat to small launch providers](https://techcrunch.com/2023/08/18/spacexs-new-bandwagon-program-is-a-big-threat-to-small-launch-providers/)
+- [Satellites watch powerful Hurricane Hilary swirl above the Pacific Ocean &lpar;video&rpar;](https://www.space.com/hurricane-hilary-threatens-california-satellite-video)
+- [Pentagon urges US space companies to stay vigilant against foreign intelligence](https://techcrunch.com/2023/08/18/pentagon-urges-vigilant-against-foreign-intelligence/)
 - [Bright cluster packed with stars shines in gorgeous new infrared image](https://www.space.com/globular-cluster-stars-vista-infrared-photo)
-- [TechCrunch+ Roundup: Reaching $1M ARR, tech job market rundown, women-led VC firms](https://techcrunch.com/2023/08/18/techcrunch-roundup-reaching-1m-arr-tech-job-market-rundown-women-led-vc-firms/)
-- [I’ve never seen so many crap startups](https://techcrunch.com/2023/08/18/ive-never-seen-so-many-crap-startups/)
-- [Musk says X’s ‘block’ feature is going away](https://techcrunch.com/2023/08/18/musk-says-xs-block-feature-is-going-away/)
-- [As net retention plummets, AI could be the savior software companies need](https://techcrunch.com/2023/08/18/ai-could-save-the-day-for-software-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
