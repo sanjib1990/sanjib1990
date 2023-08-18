@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why generalist investors will always win](https://techcrunch.com/2023/08/18/why-generalist-investors-will-always-win/)
-- [NASA rolls Artemis 2 mobile launch tower to pad for tests &lpar;photos&rpar;](https://www.space.com/nasa-artemis-2-mobile-launch-tower-rolled-pad-testing)
-- [Communication using thought alone? Unbabel unveils AI project to give us superhuman capabilities](https://techcrunch.com/2023/08/18/communication-using-thought-alone-unbabel-unveils-ai-project-to-give-us-superhuman-capabilities/)
-- [Netflix inks deal with Ambani’s Jio to expand India presence](https://techcrunch.com/2023/08/18/netflix-inks-deal-with-reliance-jio-to-expand-india-presence/)
-- [See the moon and Mars enjoy the sunset together tonight](https://www.space.com/moon-mars-sunset-august-2023)
+- [Viome, a microbiome startup, raises $86.5M, inks distribution deal with CVS](https://techcrunch.com/2023/08/18/viome-a-microbiome-startup-raises-86-5m-inks-distribution-deal-with-cvs/)
+- [It’s official: LK-99 isn’t a room-temperature superconductor](https://techcrunch.com/2023/08/18/lk-99-room-temperature-superconductor/)
+- [We could be 16 years into a methane-fueled &#39;termination&#39; event significant enough to end an ice age](https://www.space.com/climate-change-termination-event-end-ice-age)
+- [Peak XV ramps up dealmaking following Sequoia split](https://techcrunch.com/2023/08/18/peak-xv-ramps-up-dealmaking-following-sequoia-split/)
+- [For climate tech startups, the IRA is starting to pay off](https://techcrunch.com/2023/08/18/for-climate-tech-startups-the-ira-is-starting-to-pay-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
