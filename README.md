@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble images a museum of galaxies, and some are gravitationally warped &lpar;photo&rpar;](https://www.space.com/hubble-cosmic-cluster-warped-galaxies-abell-3322)
+- [Zepotha is huge on TikTok, but it’s no Goncharov](https://techcrunch.com/2023/08/18/zepotha-1980s-horror-fake-movie-tiktok-goncharov-tumblr/)
+- [AI2 drops biggest open dataset yet for training language models](https://techcrunch.com/2023/08/18/ai2-drops-biggest-open-dataset-yet-for-training-language-models/)
+- [SpaceX shows off newly modified Starship Super Heavy booster &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-9-hot-staging-photos)
 - [Roblox faces a new class action lawsuit alleging it facilitates child gambling](https://techcrunch.com/2023/08/18/roblox-children-gambling-class-action-lawsuit-robux/)
-- [Going to TechCrunch Disrupt 2023 is cheaper when you bundle](https://techcrunch.com/2023/08/18/going-to-techcrunch-disrupt-2023-is-cheaper-when-you-bundle/)
-- [&#39;Foundation&#39; space advisor on keeping Asimov&#39;s fictional galaxy realistic &lpar;exclusive&rpar;](https://www.space.com/foundation-space-advisor-kevin-hand-realism)
-- [Is JPMorgan turning a corner on climate finance?](https://techcrunch.com/2023/08/18/is-jpmorgan-turning-a-corner-on-climate-finance/)
-- [Bluesky buckled following Twitter/X’s announcement about the end of blocks](https://techcrunch.com/2023/08/18/bluesky-buckled-following-twitter-xs-announcement-about-the-end-of-blocks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
