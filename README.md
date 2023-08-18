@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SUSE goes private again](https://techcrunch.com/2023/08/18/suse-goes-private-again/)
-- [India&#39;s Chandrayaan-3 snaps close-up photos of moon ahead of landing try &lpar;video&rpar;](https://www.space.com/india-chandrayaan-3-moon-photos-august-2023)
-- [NASA propulsion technology brings &#39;flying cars&#39; closer to reality](https://www.space.com/nasa-flying-car-propulsion-technology-epiphany-transporter)
-- [How to cancel Disney+ and avoid the price hike](https://techcrunch.com/2023/08/18/how-to-cancel-disney-plus-and-avoid-the-price-hike/)
-- [Checkout.com cuts ties with Binance, which is mulling legal action in response](https://techcrunch.com/2023/08/18/checkout-com-cuts-ties-with-binance-which-is-mulling-legal-action-in-response/)
+- [Bright cluster packed with stars shines in gorgeous new infrared image](https://www.space.com/globular-cluster-stars-vista-infrared-photo)
+- [TechCrunch+ Roundup: Reaching $1M ARR, tech job market rundown, women-led VC firms](https://techcrunch.com/2023/08/18/techcrunch-roundup-reaching-1m-arr-tech-job-market-rundown-women-led-vc-firms/)
+- [I’ve never seen so many crap startups](https://techcrunch.com/2023/08/18/ive-never-seen-so-many-crap-startups/)
+- [Musk says X’s ‘block’ feature is going away](https://techcrunch.com/2023/08/18/musk-says-xs-block-feature-is-going-away/)
+- [As net retention plummets, AI could be the savior software companies need](https://techcrunch.com/2023/08/18/ai-could-save-the-day-for-software-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
