@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad CTOs mean startups have millions of dollars’ worth of cap table dead weight](https://techcrunch.com/2023/08/18/bad-ctos-mean-startups-have-millions-worth-of-cap-table-dead-weight/)
-- [A nearby supernova could reveal the secret lives of ghostly neutrinos. Here&#39;s how.](https://www.space.com/nearby-supernova-reveal-secrets-neutrinos)
-- [Cruise robotaxi involved in a crash with fire truck, one passenger injured](https://techcrunch.com/2023/08/18/cruise-robotaxi-involved-in-a-crash-with-fire-truck-one-passenger-injured/)
-- [Bakery &#39;Kochs up&#39; kolache to honor moon-bound Artemis astronaut](https://www.space.com/artemis-2-astronaut-koch-it-to-the-moon-kolache)
-- [SpaceX’s new Bandwagon program is a big threat to small launch providers](https://techcrunch.com/2023/08/18/spacexs-new-bandwagon-program-is-a-big-threat-to-small-launch-providers/)
+- [Roblox faces a new class action lawsuit alleging it facilitates child gambling](https://techcrunch.com/2023/08/18/roblox-children-gambling-class-action-lawsuit-robux/)
+- [Going to TechCrunch Disrupt 2023 is cheaper when you bundle](https://techcrunch.com/2023/08/18/going-to-techcrunch-disrupt-2023-is-cheaper-when-you-bundle/)
+- [&#39;Foundation&#39; space advisor on keeping Asimov&#39;s fictional galaxy realistic &lpar;exclusive&rpar;](https://www.space.com/foundation-space-advisor-kevin-hand-realism)
+- [Is JPMorgan turning a corner on climate finance?](https://techcrunch.com/2023/08/18/is-jpmorgan-turning-a-corner-on-climate-finance/)
+- [Bluesky buckled following Twitter/X’s announcement about the end of blocks](https://techcrunch.com/2023/08/18/bluesky-buckled-following-twitter-xs-announcement-about-the-end-of-blocks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
