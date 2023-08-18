@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Founders Fund, Index Ventures, Canvas Ventures join TC Disrupt Startup Battlefield judges](https://techcrunch.com/2023/08/18/founders-fund-index-ventures-canvas-ventures-join-tc-disrupt-startup-battlefield-judges/)
-- [SpaceX Dragon capsule arrives at launch pad ahead of Crew-7 liftoff &lpar;photos&rpar;](https://www.space.com/spacex-crew-7-dragon-endurance-arrives-launch-pad-photos)
-- [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Celestron EclipSmart 10x25mm roof solar binoculars review](https://www.space.com/celestron-eclipsmart-10x25mm-roof-solar-binoculars-review)
-- [Pitch Deck Teardown: DeckMatch’s $1M seed deck](https://techcrunch.com/2023/08/18/sample-seed-pitch-deck-deckmatch/)
+- [SUSE goes private again](https://techcrunch.com/2023/08/18/suse-goes-private-again/)
+- [India&#39;s Chandrayaan-3 snaps close-up photos of moon ahead of landing try &lpar;video&rpar;](https://www.space.com/india-chandrayaan-3-moon-photos-august-2023)
+- [NASA propulsion technology brings &#39;flying cars&#39; closer to reality](https://www.space.com/nasa-flying-car-propulsion-technology-epiphany-transporter)
+- [How to cancel Disney+ and avoid the price hike](https://techcrunch.com/2023/08/18/how-to-cancel-disney-plus-and-avoid-the-price-hike/)
+- [Checkout.com cuts ties with Binance, which is mulling legal action in response](https://techcrunch.com/2023/08/18/checkout-com-cuts-ties-with-binance-which-is-mulling-legal-action-in-response/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
