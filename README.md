@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads app’s latest update gives more prominence to reposts](https://techcrunch.com/2023/08/18/threads-apps-latest-update-gives-more-prominence-to-reposts/)
 - [Twitch will let streamers block banned users from watching streams](https://techcrunch.com/2023/08/17/twitch-will-let-streamers-block-banned-users-from-watching-streams/)
 - [HealthXCapital’s team joins Jungle Ventures](https://techcrunch.com/2023/08/17/healthxcapital-jungle-ventures/)
 - [Neptune&#39;s clouds have vanished, and the sun may be to blame &lpar;video&rpar;](https://www.space.com/neptune-clouds-vanish-solar-activity-responsible)
 - [Match Group’s background check provider Garbo ends its partnership](https://techcrunch.com/2023/08/17/match-groups-background-check-partner-garbo-ends-its-partnership/)
-- [True Anomaly gets regulatory greenlight for first spacecraft reconnaissance mission](https://techcrunch.com/2023/08/17/true-anomaly-gets-regulatory-greenlight-for-first-spacecraft-reconnaissance-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
