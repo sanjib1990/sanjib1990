@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Odds of &#39;strong&#39; El Niño now over 95%, with ocean temperatures to &#39;substantially exceed&#39; last big warming event](https://www.space.com/climate-el-nino-ocean-temperatures-exceed-last-warming-event)
 - [See Blue Origin&#39;s New Glenn rocket come together at Florida space coast factory &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-factory-photo)
 - [This Canadian satellite was supposed to last 2 years in space. It&#39;s now celebrating 20](https://www.space.com/canadian-satellite-scisat-climate-change-20-years)
 - [I flew weightlessly on a parabolic flight to see incredible student science soar](https://www.space.com/parabolic-flight-canada-weightless-student-science)
 - [How Index Ventures jumped to the front of the AI GPU line](https://techcrunch.com/2023/08/19/how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line/)
-- [Cruise told by regulators to ‘immediately’ reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
