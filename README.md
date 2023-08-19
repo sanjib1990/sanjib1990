@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nailing subscriptions in India](https://techcrunch.com/2023/08/19/subscriptions-saas-india/)
 - [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
 - [Deal Dive: Forecasting rain on DTC’s Parade](https://techcrunch.com/2023/08/19/parade-dtc-acquisition-market-conditions/)
 - [Karol &#39;Bo&#39; Bobko, former NASA astronaut who flew three shuttle missions, dies at 85](https://www.space.com/nasa-astronaut-karol-bo-bobko-obituary)
 - [This week in AI: Amazon ‘enhances’ reviews with AI while Snap’s goes rogue](https://techcrunch.com/2023/08/19/this-week-in-ai-amazon-enhances-reviews-with-ai-while-snaps-goes-rogue/)
-- [Legacy Effects wizard J. Alan Scott on creating the Gorn for &#39;Star Trek: Strange New Worlds&#39; &lpar;exclusive&rpar;](https://www.space.com/j-alan-scott-star-trek-strange-new-worlds-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
