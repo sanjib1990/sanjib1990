@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Karol &#39;Bo&#39; Bobko, former NASA astronaut who flew three shuttle missions, dies at 85](https://www.space.com/nasa-astronaut-karol-bo-bobko-obituary)
+- [This week in AI: Amazon ‘enhances’ reviews with AI while Snap’s goes rogue](https://techcrunch.com/2023/08/19/this-week-in-ai-amazon-enhances-reviews-with-ai-while-snaps-goes-rogue/)
+- [Legacy Effects wizard J. Alan Scott on creating the Gorn for &#39;Star Trek: Strange New Worlds&#39; &lpar;exclusive&rpar;](https://www.space.com/j-alan-scott-star-trek-strange-new-worlds-interview)
 - [Odds of &#39;strong&#39; El Niño now over 95%, with ocean temperatures to &#39;substantially exceed&#39; last big warming event](https://www.space.com/climate-el-nino-ocean-temperatures-exceed-last-warming-event)
 - [See Blue Origin&#39;s New Glenn rocket come together at Florida space coast factory &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-factory-photo)
-- [This Canadian satellite was supposed to last 2 years in space. It&#39;s now celebrating 20](https://www.space.com/canadian-satellite-scisat-climate-change-20-years)
-- [I flew weightlessly on a parabolic flight to see incredible student science soar](https://www.space.com/parabolic-flight-canada-weightless-student-science)
-- [How Index Ventures jumped to the front of the AI GPU line](https://techcrunch.com/2023/08/19/how-index-ventures-jumped-to-the-front-of-the-ai-gpu-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
