@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise told by regulators to ‘immediately’ reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
 - [Hubble images a museum of galaxies, and some are gravitationally warped &lpar;photo&rpar;](https://www.space.com/hubble-cosmic-cluster-warped-galaxies-abell-3322)
 - [Zepotha is huge on TikTok, but it’s no Goncharov](https://techcrunch.com/2023/08/18/zepotha-1980s-horror-fake-movie-tiktok-goncharov-tumblr/)
 - [AI2 drops biggest open dataset yet for training language models](https://techcrunch.com/2023/08/18/ai2-drops-biggest-open-dataset-yet-for-training-language-models/)
 - [SpaceX shows off newly modified Starship Super Heavy booster &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-9-hot-staging-photos)
-- [Roblox faces a new class action lawsuit alleging it facilitates child gambling](https://techcrunch.com/2023/08/18/roblox-children-gambling-class-action-lawsuit-robux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
