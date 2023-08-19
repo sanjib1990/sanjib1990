@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
+- [Deal Dive: Forecasting rain on DTC’s Parade](https://techcrunch.com/2023/08/19/parade-dtc-acquisition-market-conditions/)
 - [Karol &#39;Bo&#39; Bobko, former NASA astronaut who flew three shuttle missions, dies at 85](https://www.space.com/nasa-astronaut-karol-bo-bobko-obituary)
 - [This week in AI: Amazon ‘enhances’ reviews with AI while Snap’s goes rogue](https://techcrunch.com/2023/08/19/this-week-in-ai-amazon-enhances-reviews-with-ai-while-snaps-goes-rogue/)
 - [Legacy Effects wizard J. Alan Scott on creating the Gorn for &#39;Star Trek: Strange New Worlds&#39; &lpar;exclusive&rpar;](https://www.space.com/j-alan-scott-star-trek-strange-new-worlds-interview)
-- [Odds of &#39;strong&#39; El Niño now over 95%, with ocean temperatures to &#39;substantially exceed&#39; last big warming event](https://www.space.com/climate-el-nino-ocean-temperatures-exceed-last-warming-event)
-- [See Blue Origin&#39;s New Glenn rocket come together at Florida space coast factory &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-factory-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
