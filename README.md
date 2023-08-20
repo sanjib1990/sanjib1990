@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed and tech dominated the lawns at Monterey Car Week](https://techcrunch.com/2023/08/20/speed-and-tech-dominated-the-lawns-at-monterey-car-week/)
+- [NASA flew a modified U-2 spy plane into thunderstorms to study super-energetic gamma-rays](https://www.space.com/nasa-thunderstorms-gamma-rays-er-2-aircraft)
+- [How many potentially dangerous asteroids narrowly miss Earth each year?](https://www.space.com/asteroids-how-many-miss-earth-yearly)
 - [Russia&#39;s Luna-25 moon lander prepares for historic touchdown](https://www.space.com/russia-luna-25-moon-lander-historic-mission)
 - [NASA&#39;s Lunar Trailblazer satellite is ready to hunt for water on the moon](https://www.space.com/nasa-lunar-trailblazer-hunt-water-on-moon)
-- [Russia&#39;s Luna-25 moon lander suffers &#39;emergency situation&#39; in lunar orbit](https://www.space.com/russia-luna-25-moon-lander-glitch)
-- [Apple devices spoofed, Musk eggs on Zuckerberg and Better.com goes public](https://techcrunch.com/2023/08/19/apple-devices-spoofed-musk-eggs-on-zuckerberg-and-better-com-goes-public/)
-- [Nailing subscriptions in India](https://techcrunch.com/2023/08/19/subscriptions-saas-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
