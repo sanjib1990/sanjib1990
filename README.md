@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia says its Luna-25 lunar lander has crashed into the moon](https://www.space.com/russia-says-luna-25-crashes-into-moon)
+- [China&#39;s rover maps 1,000 feet of hidden &#39;structures&#39; deep below the dark side of the moon](https://www.space.com/china-moon-rover-maps-hidden-structures)
+- [Fountains of diamonds erupt from Earth&#39;s center as supercontinents break up](https://www.space.com/earth-diamond-fountains-erupt-from-supercontinent-break-up)
 - [Speed and tech dominated the lawns at Monterey Car Week](https://techcrunch.com/2023/08/20/speed-and-tech-dominated-the-lawns-at-monterey-car-week/)
 - [NASA flew a modified U-2 spy plane into thunderstorms to study super-energetic gamma-rays](https://www.space.com/nasa-thunderstorms-gamma-rays-er-2-aircraft)
-- [How many potentially dangerous asteroids narrowly miss Earth each year?](https://www.space.com/asteroids-how-many-miss-earth-yearly)
-- [Russia&#39;s Luna-25 moon lander prepares for historic touchdown](https://www.space.com/russia-luna-25-moon-lander-historic-mission)
-- [NASA&#39;s Lunar Trailblazer satellite is ready to hunt for water on the moon](https://www.space.com/nasa-lunar-trailblazer-hunt-water-on-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
