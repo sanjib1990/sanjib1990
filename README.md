@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vinfast takes a wild ride, a robotaxi fallout brews and the IRA one year later](https://techcrunch.com/2023/08/20/vinfast-takes-a-wild-ride-a-robotaxi-fallout-brews-and-the-ira-one-year-later/)
 - [VCs should give up on the winner-takes-all approach to investing](https://techcrunch.com/2023/08/20/theres-no-single-winner-in-any-market/)
 - [IP for startups: When &lpar;not&rpar; to patent your inventions](https://techcrunch.com/2023/08/20/ip-for-startups-patents/)
 - [A tale of two payments companies](https://techcrunch.com/2023/08/20/a-tale-of-two-payments-companies/)
 - [Celestron EclipSmart 12x50mm porro solar binoculars review](https://www.space.com/celestron-eclipsmart-12x50mm-porro-solar-binoculars-review)
-- [Russia says its Luna-25 lunar lander has crashed into the moon](https://www.space.com/russia-says-luna-25-crashes-into-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
