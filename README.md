@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IP for startups: When &lpar;not&rpar; to patent your inventions](https://techcrunch.com/2023/08/20/ip-for-startups-patents/)
+- [A tale of two payments companies](https://techcrunch.com/2023/08/20/a-tale-of-two-payments-companies/)
+- [Celestron EclipSmart 12x50mm porro solar binoculars review](https://www.space.com/celestron-eclipsmart-12x50mm-porro-solar-binoculars-review)
 - [Russia says its Luna-25 lunar lander has crashed into the moon](https://www.space.com/russia-says-luna-25-crashes-into-moon)
 - [China&#39;s rover maps 1,000 feet of hidden &#39;structures&#39; deep below the dark side of the moon](https://www.space.com/china-moon-rover-maps-hidden-structures)
-- [Fountains of diamonds erupt from Earth&#39;s center as supercontinents break up](https://www.space.com/earth-diamond-fountains-erupt-from-supercontinent-break-up)
-- [Speed and tech dominated the lawns at Monterey Car Week](https://techcrunch.com/2023/08/20/speed-and-tech-dominated-the-lawns-at-monterey-car-week/)
-- [NASA flew a modified U-2 spy plane into thunderstorms to study super-energetic gamma-rays](https://www.space.com/nasa-thunderstorms-gamma-rays-er-2-aircraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
