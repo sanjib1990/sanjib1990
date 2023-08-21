@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope offers a mesmerizing look at the Ring Nebula &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-ring-nebula-photos-210823)
+- [Snapchat is expanding further into generative AI with ‘Dreams’](https://techcrunch.com/2023/08/21/snapchat-is-expanding-further-into-generative-ai-with-dreams/)
 - [VC Office Hours: Why the sex tech industry could benefit from today’s politics](https://techcrunch.com/2023/08/21/sex-tech-industry-money/)
 - [Gravitational wave detectors on the moon could be more sensitive than those on Earth](https://www.space.com/gravitational-wave-detector-moon-more-sensitive)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Developers are now using AI for text-to-music apps](https://techcrunch.com/2023/08/21/developers-are-now-using-ai-for-text-to-music-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
