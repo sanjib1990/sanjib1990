@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance Mars rover spies big sunspot rotating toward Earth &lpar;photos&rpar;](https://www.space.com/perseverance-mars-rover-sunspot-photos)
 - [Triller’s S-1 filing claims 550M users, but its app installs fall far short, new data shows](https://techcrunch.com/2023/08/21/trillers-s-1-filing-claims-550m-users-but-its-app-installs-fall-far-short-new-data-shows/)
 - [Teeny EV startup Arcimoto hooks up with defense contractor](https://techcrunch.com/2023/08/21/teeny-ev-startup-arcimoto-defense-contractor-matbock/)
 - [Watch Hurricane Hilary hit California hours after earthquake in this satellite video](https://www.space.com/hurrican-hilary-satellite-images-above-earthquake-california)
 - [Match Group is going steady with AI, appoints Zynga alum to lead AI-focused team](https://techcrunch.com/2023/08/21/match-group-is-going-steady-with-ai-appoints-zynga-alum-to-lead-ai-focused-team/)
-- [Friend.tech hype is skyrocketing, but will it actually reach the stars?](https://techcrunch.com/2023/08/21/friend-tech-hype-is-skyrocketing-but-will-it-actually-reach-the-stars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
