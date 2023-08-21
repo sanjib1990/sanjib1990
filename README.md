@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope offers a mesmerizing look at the Ring Nebula &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-ring-nebula-photos-210823)
-- [Snapchat is expanding further into generative AI with ‘Dreams’](https://techcrunch.com/2023/08/21/snapchat-is-expanding-further-into-generative-ai-with-dreams/)
-- [VC Office Hours: Why the sex tech industry could benefit from today’s politics](https://techcrunch.com/2023/08/21/sex-tech-industry-money/)
-- [Gravitational wave detectors on the moon could be more sensitive than those on Earth](https://www.space.com/gravitational-wave-detector-moon-more-sensitive)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Triller’s S-1 filing claims 550M users, but its app installs fall far short, new data shows](https://techcrunch.com/2023/08/21/trillers-s-1-filing-claims-550m-users-but-its-app-installs-fall-far-short-new-data-shows/)
+- [Teeny EV startup Arcimoto hooks up with defense contractor](https://techcrunch.com/2023/08/21/teeny-ev-startup-arcimoto-defense-contractor-matbock/)
+- [Watch Hurricane Hilary hit California hours after earthquake in this satellite video](https://www.space.com/hurrican-hilary-satellite-images-above-earthquake-california)
+- [Match Group is going steady with AI, appoints Zynga alum to lead AI-focused team](https://techcrunch.com/2023/08/21/match-group-is-going-steady-with-ai-appoints-zynga-alum-to-lead-ai-focused-team/)
+- [Friend.tech hype is skyrocketing, but will it actually reach the stars?](https://techcrunch.com/2023/08/21/friend-tech-hype-is-skyrocketing-but-will-it-actually-reach-the-stars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
