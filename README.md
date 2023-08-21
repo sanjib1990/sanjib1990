@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘All-in-one’ sales tech platform FlashIntel raises $10 million](https://techcrunch.com/2023/08/21/all-in-one-sales-tech-platform-flashintel-raises-10-million/)
+- [Level up at the TechCrunch Disrupt 2023 roundtables](https://techcrunch.com/2023/08/21/level-up-at-the-techcrunch-disrupt-2023-roundtables/)
 - [An X glitch is breaking native images, links posted before December 2014](https://techcrunch.com/2023/08/21/an-x-glitch-is-breaking-native-images-links-posted-before-december-2014/)
 - [Tesla says data breach impacting 75,000 employees was an insider job](https://techcrunch.com/2023/08/21/tesla-breach-employee-insider/)
 - [B2B inventory marketplace Ghost reappears with $30M Series B to expand outside US](https://techcrunch.com/2023/08/21/b2b-inventory-marketplace-ghost-30m/)
-- [Turns out you can transmit sound in a vacuum, just not very far](https://www.space.com/sound-transmit-in-vacuum)
-- [SpaceX lights up the skies with midnight Starlink launch &lpar;photos&rpar;](https://www.space.com/spacex-starlink-night-launch-photos-160823)
 <!-- BLOG-POST-LIST:END -->
 
 ---
