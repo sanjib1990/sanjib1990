@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ten episodes of Star Wars to watch before Ahsoka](https://www.space.com/ten-episodes-of-star-wars-to-watch-before-ahsoka)
-- [Charles Martinet, the voice of Mario, is stepping down](https://techcrunch.com/2023/08/21/charles-martinet-the-voice-of-mario-is-stepping-down/)
-- [YouTube is working on a plan to compensate artists and rightsholders for AI music](https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/)
-- [Robotaxis hit a speedbump, crypto is down, and tech IPOs may be on the horizon](https://techcrunch.com/2023/08/21/robotaxis-hit-a-speedbump-crypto-is-down-and-tech-ipos-may-be-on-the-horizon/)
-- [Twiga lays off 33% of its staff, disbands in-house delivery and introduces logistics marketplace](https://techcrunch.com/2023/08/21/twiga-disbands-in-house-delivery/)
+- [Amazon launches a Fire TV Channels app with 400+ free ad-supported TV channels](https://techcrunch.com/2023/08/21/amazon-launches-fire-tv-channels-app-400-fast-channels/)
+- [Five, count ’em, five reasons you need to be at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/21/five-count-em-five-reasons-you-need-to-be-at-techcrunch-disrupt-2023/)
+- [Apple Podcasts gain new creator tools, including Subscription Analytics and Linkfire integration](https://techcrunch.com/2023/08/21/apple-podcasts-gain-new-creator-tools-including-subscription-analytics-and-linkfire-integration/)
+- [SpaceX rolls rocket to pad ahead of Crew-7 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-crew-7-falcon-9-dragon-rollout-photos)
+- [How any SaaS company can monetize generative AI](https://techcrunch.com/2023/08/21/usage-based-pricing-is-a-natural-fit-for-saas-and-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
