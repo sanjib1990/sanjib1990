@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jio Financial Services, Reliance’s $20 billion spin-off, makes market debut](https://techcrunch.com/2023/08/20/jio-financial-services-reliances-20-billion-spin-off-makes-market-debut/)
+- [Reliance spin-off Jio Financial Services makes muted market debut](https://techcrunch.com/2023/08/20/jio-financial-services-reliances-20-billion-spin-off-makes-market-debut/)
 - [Mycoprotein producer Enough raises €40M toward doubling its production capacity](https://techcrunch.com/2023/08/20/mycoprotein-enough-40m-foodtech/)
 - [Vinfast takes a wild ride, a robotaxi fallout brews and the IRA one year later](https://techcrunch.com/2023/08/20/vinfast-takes-a-wild-ride-a-robotaxi-fallout-brews-and-the-ira-one-year-later/)
 - [VCs should give up on the winner-takes-all approach to investing](https://techcrunch.com/2023/08/20/theres-no-single-winner-in-any-market/)
