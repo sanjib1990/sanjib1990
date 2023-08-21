@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zanifu raises $11.2M to scale its inventory financing offering in Kenya](https://techcrunch.com/2023/08/21/zanifu-raises-11-2m-to-scale-its-inventory-financing-offering-in-kenya/)
 - [Reliance spin-off Jio Financial Services slides 5% on market debut](https://techcrunch.com/2023/08/20/jio-financial-services-reliances-20-billion-spin-off-makes-market-debut/)
 - [Mycoprotein producer Enough raises €40M toward doubling its production capacity](https://techcrunch.com/2023/08/20/mycoprotein-enough-40m-foodtech/)
 - [Vinfast takes a wild ride, a robotaxi fallout brews and the IRA one year later](https://techcrunch.com/2023/08/20/vinfast-takes-a-wild-ride-a-robotaxi-fallout-brews-and-the-ira-one-year-later/)
 - [VCs should give up on the winner-takes-all approach to investing](https://techcrunch.com/2023/08/20/theres-no-single-winner-in-any-market/)
-- [IP for startups: When &lpar;not&rpar; to patent your inventions](https://techcrunch.com/2023/08/20/ip-for-startups-patents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
