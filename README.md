@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BeReal gets more social with ‘friends of friends’ feature](https://techcrunch.com/2023/08/21/bereal-gets-more-social-with-friends-of-friends-feature/)
-- [Who is Grand Admiral Thrawn?](https://www.space.com/who-is-grand-admiral-thrawn)
-- [Who is Ahsoka Tano?](https://www.space.com/who-is-ahsoka-tano)
-- [Are we really made of &#39;star stuff&#39; and what does that even mean? &lpar;video&rpar;](https://www.space.com/we-are-made-of-star-stuff-meaning-truth)
-- [We still don&#39;t know what dark matter is, but here&#39;s what it&#39;s not](https://www.space.com/dark-matter-detector-tights-limits-inelastic-collisions)
+- [An X glitch is breaking native images, links posted before December 2014](https://techcrunch.com/2023/08/21/an-x-glitch-is-breaking-native-images-links-posted-before-december-2014/)
+- [Tesla says data breach impacting 75,000 employees was an insider job](https://techcrunch.com/2023/08/21/tesla-breach-employee-insider/)
+- [B2B inventory marketplace Ghost reappears with $30M Series B to expand outside US](https://techcrunch.com/2023/08/21/b2b-inventory-marketplace-ghost-30m/)
+- [Turns out you can transmit sound in a vacuum, just not very far](https://www.space.com/sound-transmit-in-vacuum)
+- [SpaceX lights up the skies with midnight Starlink launch &lpar;photos&rpar;](https://www.space.com/spacex-starlink-night-launch-photos-160823)
 <!-- BLOG-POST-LIST:END -->
 
 ---
