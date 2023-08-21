@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Webb Reveals Intricate Details in the Remains of a Dying Star](https://blogs.nasa.gov/webb/2023/08/21/webb-reveals-intricate-details-in-the-remains-of-a-dying-star/)
-- [‘All-in-one’ sales tech platform FlashIntel raises $10 million](https://techcrunch.com/2023/08/21/all-in-one-sales-tech-platform-flashintel-raises-10-million/)
-- [Level up at the TechCrunch Disrupt 2023 roundtables](https://techcrunch.com/2023/08/21/level-up-at-the-techcrunch-disrupt-2023-roundtables/)
-- [An X glitch is breaking native images, links posted before December 2014](https://techcrunch.com/2023/08/21/an-x-glitch-is-breaking-native-images-links-posted-before-december-2014/)
-- [Tesla says data breach impacting 75,000 employees was an insider job](https://techcrunch.com/2023/08/21/tesla-breach-employee-insider/)
+- [Ten episodes of Star Wars to watch before Ahsoka](https://www.space.com/ten-episodes-of-star-wars-to-watch-before-ahsoka)
+- [Charles Martinet, the voice of Mario, is stepping down](https://techcrunch.com/2023/08/21/charles-martinet-the-voice-of-mario-is-stepping-down/)
+- [YouTube is working on a plan to compensate artists and rightsholders for AI music](https://techcrunch.com/2023/08/21/youtube-is-working-on-a-plan-to-compensate-artists-and-rightsholders-for-ai-music/)
+- [Robotaxis hit a speedbump, crypto is down, and tech IPOs may be on the horizon](https://techcrunch.com/2023/08/21/robotaxis-hit-a-speedbump-crypto-is-down-and-tech-ipos-may-be-on-the-horizon/)
+- [Twiga lays off 33% of its staff, disbands in-house delivery and introduces logistics marketplace](https://techcrunch.com/2023/08/21/twiga-disbands-in-house-delivery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
