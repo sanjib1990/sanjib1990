@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-7 astronauts arrive in Florida ahead of Aug. 25 launch &lpar;photos, video&rpar;](https://www.space.com/spacex-crew-7-astronauts-launch-site-arrive)
+- [Everyone’s talking about tech IPOs again](https://techcrunch.com/2023/08/21/everyones-talking-about-tech-ipos-again/)
+- [Customer engagement platform Beamer raises $20M](https://techcrunch.com/2023/08/21/customer-engagement-platform-beamer-raises-20m/)
+- [The human costs of the AI boom](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
 - [Amazon launches a Fire TV Channels app with 400+ free ad-supported TV channels](https://techcrunch.com/2023/08/21/amazon-launches-fire-tv-channels-app-400-fast-channels/)
-- [Five, count ’em, five reasons you need to be at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/21/five-count-em-five-reasons-you-need-to-be-at-techcrunch-disrupt-2023/)
-- [Apple Podcasts gain new creator tools, including Subscription Analytics and Linkfire integration](https://techcrunch.com/2023/08/21/apple-podcasts-gain-new-creator-tools-including-subscription-analytics-and-linkfire-integration/)
-- [SpaceX rolls rocket to pad ahead of Crew-7 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-crew-7-falcon-9-dragon-rollout-photos)
-- [How any SaaS company can monetize generative AI](https://techcrunch.com/2023/08/21/usage-based-pricing-is-a-natural-fit-for-saas-and-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
