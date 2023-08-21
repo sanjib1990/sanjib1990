@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zanifu raises $11.2M to scale its inventory financing offering in Kenya](https://techcrunch.com/2023/08/21/zanifu-raises-11-2m-to-scale-its-inventory-financing-offering-in-kenya/)
-- [Reliance spin-off Jio Financial Services slides 5% on market debut](https://techcrunch.com/2023/08/20/jio-financial-services-reliances-20-billion-spin-off-makes-market-debut/)
-- [Mycoprotein producer Enough raises €40M toward doubling its production capacity](https://techcrunch.com/2023/08/20/mycoprotein-enough-40m-foodtech/)
-- [Vinfast takes a wild ride, a robotaxi fallout brews and the IRA one year later](https://techcrunch.com/2023/08/20/vinfast-takes-a-wild-ride-a-robotaxi-fallout-brews-and-the-ira-one-year-later/)
-- [VCs should give up on the winner-takes-all approach to investing](https://techcrunch.com/2023/08/20/theres-no-single-winner-in-any-market/)
+- [BeReal gets more social with ‘friends of friends’ feature](https://techcrunch.com/2023/08/21/bereal-gets-more-social-with-friends-of-friends-feature/)
+- [Who is Grand Admiral Thrawn?](https://www.space.com/who-is-grand-admiral-thrawn)
+- [Who is Ahsoka Tano?](https://www.space.com/who-is-ahsoka-tano)
+- [Are we really made of &#39;star stuff&#39; and what does that even mean? &lpar;video&rpar;](https://www.space.com/we-are-made-of-star-stuff-meaning-truth)
+- [We still don&#39;t know what dark matter is, but here&#39;s what it&#39;s not](https://www.space.com/dark-matter-detector-tights-limits-inelastic-collisions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
