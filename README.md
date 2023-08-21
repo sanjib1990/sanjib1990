@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Crew-7 astronauts arrive in Florida ahead of Aug. 25 launch &lpar;photos, video&rpar;](https://www.space.com/spacex-crew-7-astronauts-launch-site-arrive)
-- [Everyone’s talking about tech IPOs again](https://techcrunch.com/2023/08/21/everyones-talking-about-tech-ipos-again/)
-- [Customer engagement platform Beamer raises $20M](https://techcrunch.com/2023/08/21/customer-engagement-platform-beamer-raises-20m/)
-- [The human costs of the AI boom](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
-- [Amazon launches a Fire TV Channels app with 400+ free ad-supported TV channels](https://techcrunch.com/2023/08/21/amazon-launches-fire-tv-channels-app-400-fast-channels/)
+- [VC Office Hours: Why the sex tech industry could benefit from today’s politics](https://techcrunch.com/2023/08/21/sex-tech-industry-money/)
+- [Gravitational wave detectors on the moon could be more sensitive than those on Earth](https://www.space.com/gravitational-wave-detector-moon-more-sensitive)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Developers are now using AI for text-to-music apps](https://techcrunch.com/2023/08/21/developers-are-now-using-ai-for-text-to-music-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
