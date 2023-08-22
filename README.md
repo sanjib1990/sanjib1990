@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Chip company Arm files for Nasdaq listing in IPO anticipated to be this year’s biggest](https://techcrunch.com/2023/08/21/chip-company-arm-files-for-nasdaq-listing-in-ipo-anticipated-to-be-this-years-biggest/)
-- [SpaceX, NASA declare Crew-7 astronaut mission &#39;go&#39; for launch](https://www.space.com/spacex-crew-7-mission-go-launch-august-25)
 - [Max Q: SpaceX’s Bandwagon program is a big deal, actually](https://techcrunch.com/2023/08/21/max-q-spacexs-bandwagon-program-is-a-big-deal-actually/)
-- [Perseverance Mars rover spies big sunspot rotating toward Earth &lpar;photos&rpar;](https://www.space.com/perseverance-mars-rover-sunspot-photos)
 - [Triller’s S-1 filing claims 550M users, but its app installs fall far short, new data shows](https://techcrunch.com/2023/08/21/trillers-s-1-filing-claims-550m-users-but-its-app-installs-fall-far-short-new-data-shows/)
+- [Teeny EV startup Arcimoto hooks up with defense contractor](https://techcrunch.com/2023/08/21/teeny-ev-startup-arcimoto-defense-contractor-matbock/)
+- [Match Group is going steady with AI, appoints Zynga alum to lead AI-focused team](https://techcrunch.com/2023/08/21/match-group-is-going-steady-with-ai-appoints-zynga-alum-to-lead-ai-focused-team/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
