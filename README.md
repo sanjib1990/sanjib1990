@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Not a traditional founder? Learn how to use it to your advantage at TC Disrupt 2023](https://techcrunch.com/2023/08/22/not-a-traditional-founder-learn-how-to-use-it-to-your-advantage-at-tc-disrupt-2023/)
-- [Artemis 3 rocket hardware arrives in Florida for crewed moon mission](https://www.space.com/nasa-artemis-3-rocket-hardware-arrives-florida)
-- [Ugreen PowerRoam 1200 power station review](https://www.space.com/ugreen-powerroam-1200-power-station-review)
-- [AI company Hypergiant Industries snapped up by PE firm Trive Capital](https://techcrunch.com/2023/08/22/ai-hypergiant-industries-trive-capital/)
-- [Swedish EV battery maker raises $1.2B to expand to North America](https://techcrunch.com/2023/08/22/swedish-ev-battery-maker-raises-1-2b-to-expand-to-north-america/)
+- [What&#39;s the difference between a total solar eclipse and an annular solar eclipse?](https://www.space.com/difference-between-total-solar-eclipse-and-annular-solar-eclipse)
+- [After seeing record traffic, Bluesky adds rate limits to improve network stability](https://techcrunch.com/2023/08/22/after-seeing-record-traffic-bluesky-adds-rate-limits-to-improve-network-stability/)
+- [More complaints prompt NHTSA probe of Ford 2022 Mach-E recall](https://techcrunch.com/2023/08/22/more-complaints-prompt-nhtsa-probe-of-ford-2022-mach-e-recall/)
+- [Ivanti warns customers another zero-day is under active attack](https://techcrunch.com/2023/08/22/ivanti-warns-customers-another-zero-day-is-under-active-attack/)
+- [Netflix says its DVD-by-mail customers get to keep their final shipment of discs](https://techcrunch.com/2023/08/22/netflix-says-its-dvd-by-mail-customers-get-to-keep-their-final-shipment-of-discs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
