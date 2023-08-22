@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Bose employees are resurrecting Sleepbuds](https://techcrunch.com/2023/08/22/boses-sleepbuds-return-more-full-realized-from-a-new-manufacturer/)
-- [It’s official: Threads launches its highly anticipated web app](https://techcrunch.com/2023/08/22/its-official-threads-launches-its-highly-anticipated-web-app/)
-- [Meet Relume, the bootstrapped AI web builder that wants to supercharge Figma and Webflow](https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/)
-- [Mars astronauts could make rocket fuel on the Red Planet someday. Here&#39;s how](https://www.space.com/mars-astronauts-rocket-fuel-red-planet)
-- [Microsoft is bringing Python to Excel](https://techcrunch.com/2023/08/22/microsoft-is-bringing-python-to-excel/)
+- [Not a traditional founder? Learn how to use it to your advantage at TC Disrupt 2023](https://techcrunch.com/2023/08/22/not-a-traditional-founder-learn-how-to-use-it-to-your-advantage-at-tc-disrupt-2023/)
+- [Artemis 3 rocket hardware arrives in Florida for crewed moon mission](https://www.space.com/nasa-artemis-3-rocket-hardware-arrives-florida)
+- [Ugreen PowerRoam 1200 power station review](https://www.space.com/ugreen-powerroam-1200-power-station-review)
+- [AI company Hypergiant Industries snapped up by PE firm Trive Capital](https://techcrunch.com/2023/08/22/ai-hypergiant-industries-trive-capital/)
+- [Swedish EV battery maker raises $1.2B to expand to North America](https://techcrunch.com/2023/08/22/swedish-ev-battery-maker-raises-1-2b-to-expand-to-north-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
