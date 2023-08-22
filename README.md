@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time will India&#39;s moon mission Chandrayaan-3 land Aug. 23? Here&#39;s how to watch live.](https://www.space.com/chandrayaan-3-india-moon-landing-what-time)
+- [Moniepoint cleared to acquire Kenyan fintech Kopo Kopo](https://techcrunch.com/2023/08/22/moniepoint-cleared-to-acquire-kenyan-fintech-kopo-kopo/)
 - [Grip Security raises $41M to help enterprises manage their SaaS identity risk](https://techcrunch.com/2023/08/22/grip-security-raises-41m-to-help-enterprises-manage-their-saas-identity-risk/)
 - [Cerby lands $17M to manage access to ‘nonstandard’ enterprise apps](https://techcrunch.com/2023/08/22/cerby-lands-17m-to-manage-access-to-nonstandard-enterprise-apps/)
 - [How this VC evaluates generative AI startups](https://techcrunch.com/2023/08/22/how-this-vc-evaluates-generative-ai-startups/)
-- [New XRISM X-ray mission to study the most violent events in the universe will launch on Aug. 26](https://www.space.com/xrism-x-ray-mission-launch-august-2023)
-- [What does the Luna-25 moon lander crash mean for Russia&#39;s lunar exploration plans?](https://www.space.com/russia-luna-25-moon-probe-failure-consequences)
 <!-- BLOG-POST-LIST:END -->
 
 ---
