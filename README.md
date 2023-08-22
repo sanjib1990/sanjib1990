@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grip Security raises $41M to help enterprises manage their SaaS identity risk](https://techcrunch.com/2023/08/22/grip-security-raises-41m-to-help-enterprises-manage-their-saas-identity-risk/)
 - [Cerby lands $17M to manage access to ‘nonstandard’ enterprise apps](https://techcrunch.com/2023/08/22/cerby-lands-17m-to-manage-access-to-nonstandard-enterprise-apps/)
 - [How this VC evaluates generative AI startups](https://techcrunch.com/2023/08/22/how-this-vc-evaluates-generative-ai-startups/)
-- [Preserving Israel’s high-tech ecosystem: A path to upholding democracy](https://techcrunch.com/2023/08/22/preserving-israels-high-tech-ecosystem-a-path-to-upholding-democracy/)
-- [UK’s CMA confirms decision to block Microsoft-Activision but opens fresh probe of restructured deal proposal](https://techcrunch.com/2023/08/22/microsoft-activision-uk-cma-new-probe/)
-- [X is planning to hide headlines from news links for ‘improved aesthetics’](https://techcrunch.com/2023/08/22/x-is-planning-to-hide-headlines-from-news-links-for-improved-aesthetics/)
+- [New XRISM X-ray mission to study the most violent events in the universe will launch on Aug. 26](https://www.space.com/xrism-x-ray-mission-launch-august-2023)
+- [What does the Luna-25 moon lander crash mean for Russia&#39;s lunar exploration plans?](https://www.space.com/russia-luna-25-moon-probe-failure-consequences)
 <!-- BLOG-POST-LIST:END -->
 
 ---
