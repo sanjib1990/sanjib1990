@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft can’t stop discontinuing Kinect](https://techcrunch.com/2023/08/22/microsoft-cant-stop-discontinuing-kinect/)
+- [Hubble Space Telescope captures the soft glow of a distant galaxy &lpar;photo&rpar;](https://www.space.com/distant-galactic-neighbor-sparkles-hubble-photo)
+- [Mars astronauts could make rocket fuel on the Red Planet someday. Here&#39;s how](https://www.space.com/mars-astronauts-rocket-fuel-red-planet)
 - [Spies and hackers are targeting the US space industry: report](https://www.space.com/us-government-warning-space-industry-satellites-hacking)
 - [They made a scary matcha Pokémon](https://techcrunch.com/2023/08/22/poltchageist-matcha-pokemon/)
-- [IBM sells The Weather Company assets to Francisco Partners](https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/)
-- [Chronic technical debt could be holding your company back](https://techcrunch.com/2023/08/22/get-rid-of-tech-debt/)
-- [Landing, a platform for making virtual mood boards, brings its creation tools to mobile](https://techcrunch.com/2023/08/22/landing-platform-virtual-mood-boards-creation-tools-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
