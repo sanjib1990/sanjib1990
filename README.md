@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI brings fine-tuning to GPT-3.5 Turbo](https://techcrunch.com/2023/08/22/openai-brings-fine-tuning-to-gpt-3-5-turbo/)
+- [Bessemer Venture Partners, Kindred Ventures VCs and Sunshine founder join Startup Battlefield judges at TC Disrupt](https://techcrunch.com/2023/08/22/bessemer-venture-partners-kindred-ventures-vcs-and-sunshine-founder-join-startup-battlefield-judges-at-tc-disrupt/)
+- [Netflix debuts ‘Rebel Moon’ teaser, Zack Snyder’s two-part sci-fi epic](https://techcrunch.com/2023/08/22/netflix-rebel-moon-trailer-zack-snyder/)
 - [IBM taps AI to translate COBOL code to Java](https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/)
 - [China launches Gaofen Earth-observation satellite &lpar;video&rpar;](https://www.space.com/china-launches-gaofen-earth-observation-satellite-august-2023)
-- [Supermassive black hole chews up huge star, spits stellar &#39;guts&#39; into space &lpar;video&rpar;](https://www.space.com/supermassive-black-hole-giant-star-guts-tidal-disruption-event)
-- [TechCrunch+ Roundup: Monetizing generative AI, sex tech checkup, patents and IP](https://techcrunch.com/2023/08/22/techcrunch-roundup-monetizing-generative-ai-sex-tech-checkup-patents-and-ip/)
-- [Aurora season has begun! Northern lights spotted in the Arctic Circle &lpar;photo&rpar;](https://www.space.com/aurora-season-has-begun-northern-lights-visible-arctic-circle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
