@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs’ voice-generating tools launch out of beta](https://techcrunch.com/2023/08/22/elevenlabs-voice-generating-tools-launch-out-of-beta/)
+- [Twitch starts testing a TikTok-like clips feed to boost discovery](https://techcrunch.com/2023/08/22/twitch-disccovery-feed-test/)
 - [Clearspace-1 space debris cleanup target in orbit just got struck by space debris](https://www.space.com/space-debris-cleanup-mission-target-hit)
 - [North Korea planning to launch a satellite this week amid military tensions](https://www.space.com/north-korea-satellite-launch-attempt-august-2023)
 - [India&#39;s Chandrayaan-3 probe to attempt historic moon landing on Aug. 23: Watch it live](https://www.space.com/india-chandrayaan-3-moon-landing-livestream)
-- [OpenAI brings fine-tuning to GPT-3.5 Turbo](https://techcrunch.com/2023/08/22/openai-brings-fine-tuning-to-gpt-3-5-turbo/)
-- [Bessemer Venture Partners, Kindred Ventures VCs and Sunshine founder join Startup Battlefield judges at TC Disrupt](https://techcrunch.com/2023/08/22/bessemer-venture-partners-kindred-ventures-vcs-and-sunshine-founder-join-startup-battlefield-judges-at-tc-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
