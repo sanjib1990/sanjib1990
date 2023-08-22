@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What time will India&#39;s moon mission Chandrayaan-3 land Aug. 23? Here&#39;s how to watch live.](https://www.space.com/chandrayaan-3-india-moon-landing-what-time)
-- [Moniepoint cleared to acquire Kenyan fintech Kopo Kopo](https://techcrunch.com/2023/08/22/moniepoint-cleared-to-acquire-kenyan-fintech-kopo-kopo/)
-- [Grip Security raises $41M to help enterprises manage their SaaS identity risk](https://techcrunch.com/2023/08/22/grip-security-raises-41m-to-help-enterprises-manage-their-saas-identity-risk/)
-- [Cerby lands $17M to manage access to ‘nonstandard’ enterprise apps](https://techcrunch.com/2023/08/22/cerby-lands-17m-to-manage-access-to-nonstandard-enterprise-apps/)
-- [How this VC evaluates generative AI startups](https://techcrunch.com/2023/08/22/how-this-vc-evaluates-generative-ai-startups/)
+- [Former Bose employees are resurrecting Sleepbuds](https://techcrunch.com/2023/08/22/boses-sleepbuds-return-more-full-realized-from-a-new-manufacturer/)
+- [It’s official: Threads launches its highly anticipated web app](https://techcrunch.com/2023/08/22/its-official-threads-launches-its-highly-anticipated-web-app/)
+- [Meet Relume, the bootstrapped AI web builder that wants to supercharge Figma and Webflow](https://techcrunch.com/2023/08/22/meet-relume-the-bootstrapped-ai-web-builder-that-wants-to-supercharge-figma-and-webflow/)
+- [Mars astronauts could make rocket fuel on the Red Planet someday. Here&#39;s how](https://www.space.com/mars-astronauts-rocket-fuel-red-planet)
+- [Microsoft is bringing Python to Excel](https://techcrunch.com/2023/08/22/microsoft-is-bringing-python-to-excel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
