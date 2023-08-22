@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One company’s quest to eliminate battery fires](https://techcrunch.com/2023/08/21/accure-series-a-battery-fires/)
 - [Dipp uses AI to fix bottlenecks between marketing and design teams](https://techcrunch.com/2023/08/21/dipp/)
 - [Chip company Arm files for Nasdaq listing in IPO anticipated to be this year’s biggest](https://techcrunch.com/2023/08/21/chip-company-arm-files-for-nasdaq-listing-in-ipo-anticipated-to-be-this-years-biggest/)
 - [SpaceX, NASA declare Crew-7 astronaut mission &#39;go&#39; for launch](https://www.space.com/spacex-crew-7-mission-go-launch-august-25)
 - [Max Q: SpaceX’s Bandwagon program is a big deal, actually](https://techcrunch.com/2023/08/21/max-q-spacexs-bandwagon-program-is-a-big-deal-actually/)
-- [Perseverance Mars rover spies big sunspot rotating toward Earth &lpar;photos&rpar;](https://www.space.com/perseverance-mars-rover-sunspot-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
