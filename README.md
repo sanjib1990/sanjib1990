@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the difference between a total solar eclipse and an annular solar eclipse?](https://www.space.com/difference-between-total-solar-eclipse-and-annular-solar-eclipse)
-- [After seeing record traffic, Bluesky adds rate limits to improve network stability](https://techcrunch.com/2023/08/22/after-seeing-record-traffic-bluesky-adds-rate-limits-to-improve-network-stability/)
-- [More complaints prompt NHTSA probe of Ford 2022 Mach-E recall](https://techcrunch.com/2023/08/22/more-complaints-prompt-nhtsa-probe-of-ford-2022-mach-e-recall/)
-- [Ivanti warns customers another zero-day is under active attack](https://techcrunch.com/2023/08/22/ivanti-warns-customers-another-zero-day-is-under-active-attack/)
-- [Netflix says its DVD-by-mail customers get to keep their final shipment of discs](https://techcrunch.com/2023/08/22/netflix-says-its-dvd-by-mail-customers-get-to-keep-their-final-shipment-of-discs/)
+- [Chronic technical debt could be holding your company back](https://techcrunch.com/2023/08/22/get-rid-of-tech-debt/)
+- [Landing, a platform for making virtual mood boards, brings its creation tools to mobile](https://techcrunch.com/2023/08/22/landing-platform-virtual-mood-boards-creation-tools-mobile/)
+- [Embrace the dark side of the Force in new &#39;Star Wars: Visions&#39; comic from Peach Momoko](https://www.space.com/star-wars-visions-comic-peach-momoko)
+- [Watch India’s Chandrayaan-3 moon landing live](https://techcrunch.com/2023/08/22/chandrayaan-3-landing-moon-live/)
+- [Enabling equitable cancer prevention with Feyi Ayodele from CancerIQ](https://techcrunch.com/2023/08/22/enabling-equitable-cancer-prevention-with-feyi-ayodele-from-canceriq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
