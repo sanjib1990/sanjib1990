@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s CMA confirms decision to block Microsoft-Activision but opens fresh probe of restructured deal proposal](https://techcrunch.com/2023/08/22/microsoft-activision-uk-cma-new-probe/)
 - [X is planning to hide headlines from news links for ‘improved aesthetics’](https://techcrunch.com/2023/08/22/x-is-planning-to-hide-headlines-from-news-links-for-improved-aesthetics/)
 - [One company’s quest to eliminate battery fires](https://techcrunch.com/2023/08/21/accure-series-a-battery-fires/)
 - [Dipp uses AI to fix bottlenecks between marketing and design teams](https://techcrunch.com/2023/08/21/dipp/)
 - [Chip company Arm files for Nasdaq listing in IPO anticipated to be this year’s biggest](https://techcrunch.com/2023/08/21/chip-company-arm-files-for-nasdaq-listing-in-ipo-anticipated-to-be-this-years-biggest/)
-- [SpaceX, NASA declare Crew-7 astronaut mission &#39;go&#39; for launch](https://www.space.com/spacex-crew-7-mission-go-launch-august-25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
