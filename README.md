@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft can’t stop discontinuing Kinect](https://techcrunch.com/2023/08/22/microsoft-cant-stop-discontinuing-kinect/)
-- [Hubble Space Telescope captures the soft glow of a distant galaxy &lpar;photo&rpar;](https://www.space.com/distant-galactic-neighbor-sparkles-hubble-photo)
-- [Mars astronauts could make rocket fuel on the Red Planet someday. Here&#39;s how](https://www.space.com/mars-astronauts-rocket-fuel-red-planet)
-- [Spies and hackers are targeting the US space industry: report](https://www.space.com/us-government-warning-space-industry-satellites-hacking)
-- [They made a scary matcha Pokémon](https://techcrunch.com/2023/08/22/poltchageist-matcha-pokemon/)
+- [IBM taps AI to translate COBOL code to Java](https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/)
+- [China launches Gaofen Earth-observation satellite &lpar;video&rpar;](https://www.space.com/china-launches-gaofen-earth-observation-satellite-august-2023)
+- [Supermassive black hole chews up huge star, spits stellar &#39;guts&#39; into space &lpar;video&rpar;](https://www.space.com/supermassive-black-hole-giant-star-guts-tidal-disruption-event)
+- [TechCrunch+ Roundup: Monetizing generative AI, sex tech checkup, patents and IP](https://techcrunch.com/2023/08/22/techcrunch-roundup-monetizing-generative-ai-sex-tech-checkup-patents-and-ip/)
+- [Aurora season has begun! Northern lights spotted in the Arctic Circle &lpar;photo&rpar;](https://www.space.com/aurora-season-has-begun-northern-lights-visible-arctic-circle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
