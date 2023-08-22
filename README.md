@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Another year of great growth and learning for OCW](https://www.youtube.com/watch?v=L-P7WhWkKrM)
 - [Lecture 5: Einstein and Experiment](https://www.youtube.com/watch?v=YBWv9EOX3pU)
 - [Lecture 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether](https://www.youtube.com/watch?v=OBHUrAFLQW8)
 - [Lecture 16: Secrecy and Security in the Nuclear Age](https://www.youtube.com/watch?v=MQYzG-UGlsk)
 - [Lecture 22: Quarks, QCD, and the Rise of the Standard Model](https://www.youtube.com/watch?v=t8wEwqQYsZQ)
-- [Lecture 11: Waves and Probabilities](https://www.youtube.com/watch?v=gWdAc-rPHW8)
 <!-- YOUTUBE:END -->
 
 ---
