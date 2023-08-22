@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cerby lands $17M to manage access to ‘nonstandard’ enterprise apps](https://techcrunch.com/2023/08/22/cerby-lands-17m-to-manage-access-to-nonstandard-enterprise-apps/)
+- [How this VC evaluates generative AI startups](https://techcrunch.com/2023/08/22/how-this-vc-evaluates-generative-ai-startups/)
+- [Preserving Israel’s high-tech ecosystem: A path to upholding democracy](https://techcrunch.com/2023/08/22/preserving-israels-high-tech-ecosystem-a-path-to-upholding-democracy/)
 - [UK’s CMA confirms decision to block Microsoft-Activision but opens fresh probe of restructured deal proposal](https://techcrunch.com/2023/08/22/microsoft-activision-uk-cma-new-probe/)
 - [X is planning to hide headlines from news links for ‘improved aesthetics’](https://techcrunch.com/2023/08/22/x-is-planning-to-hide-headlines-from-news-links-for-improved-aesthetics/)
-- [One company’s quest to eliminate battery fires](https://techcrunch.com/2023/08/21/accure-series-a-battery-fires/)
-- [Dipp uses AI to fix bottlenecks between marketing and design teams](https://techcrunch.com/2023/08/21/dipp/)
-- [Chip company Arm files for Nasdaq listing in IPO anticipated to be this year’s biggest](https://techcrunch.com/2023/08/21/chip-company-arm-files-for-nasdaq-listing-in-ipo-anticipated-to-be-this-years-biggest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
