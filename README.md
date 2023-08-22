@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spies and hackers are targeting the US space industry: report](https://www.space.com/us-government-warning-space-industry-satellites-hacking)
+- [They made a scary matcha Pokémon](https://techcrunch.com/2023/08/22/poltchageist-matcha-pokemon/)
+- [IBM sells The Weather Company assets to Francisco Partners](https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/)
 - [Chronic technical debt could be holding your company back](https://techcrunch.com/2023/08/22/get-rid-of-tech-debt/)
 - [Landing, a platform for making virtual mood boards, brings its creation tools to mobile](https://techcrunch.com/2023/08/22/landing-platform-virtual-mood-boards-creation-tools-mobile/)
-- [Embrace the dark side of the Force in new &#39;Star Wars: Visions&#39; comic from Peach Momoko](https://www.space.com/star-wars-visions-comic-peach-momoko)
-- [Watch India’s Chandrayaan-3 moon landing live](https://techcrunch.com/2023/08/22/chandrayaan-3-landing-moon-live/)
-- [Enabling equitable cancer prevention with Feyi Ayodele from CancerIQ](https://techcrunch.com/2023/08/22/enabling-equitable-cancer-prevention-with-feyi-ayodele-from-canceriq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
