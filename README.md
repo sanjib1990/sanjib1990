@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [the TOP 10 hottest IT Jobs in 2023](https://www.youtube.com/watch?v=Y_coOg6oHAc)
-- [Kubernetes Roadmap - Complete Step-by-Step Learning Path](https://www.youtube.com/watch?v=S8eX0MxfnB4)
-- [How programmers flex on each other](https://www.youtube.com/watch?v=r6tH55syq0o)
-- [Graphs, Vectors and Machine Learning - Computerphile](https://www.youtube.com/watch?v=w0rOvNJW58o)
-- [Zig in 100 Seconds](https://www.youtube.com/watch?v=kxT8-C1vmd4)
+- [Lecture 5: Einstein and Experiment](https://www.youtube.com/watch?v=YBWv9EOX3pU)
+- [Lecture 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether](https://www.youtube.com/watch?v=OBHUrAFLQW8)
+- [Lecture 16: Secrecy and Security in the Nuclear Age](https://www.youtube.com/watch?v=MQYzG-UGlsk)
+- [Lecture 22: Quarks, QCD, and the Rise of the Standard Model](https://www.youtube.com/watch?v=t8wEwqQYsZQ)
+- [Lecture 11: Waves and Probabilities](https://www.youtube.com/watch?v=gWdAc-rPHW8)
 <!-- YOUTUBE:END -->
 
 ---
