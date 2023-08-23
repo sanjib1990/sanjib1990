@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ASKA’s A5 eVTOL aircraft spread its wings but didn’t fly at Pebble Beach](https://techcrunch.com/2023/08/23/askas-a5-evtol-aircraft-spread-its-wings-but-didnt-fly-at-pebble-beach/)
-- [Good news for astronauts: Fatty tissue helps replenish bone and red blood cells in space](https://www.space.com/astronaut-fatty-tissue-rebuild-bone-red-blood-cells)
-- [Meta and moderators agree to mediation on labor dispute](https://techcrunch.com/2023/08/23/meta-and-moderators-agree-to-mediation/)
-- [India&#39;s successful Chandrayaan-3 moon landing &#39;belongs to all of humanity,&#39; Prime Minister Modi says](https://www.space.com/india-chandrayaan-3-moon-landing-prime-minister-modi-all-humanity)
-- [SpaceX Crew-7 astronauts will handle over 200 science experiments on ISS](https://www.space.com/nasa-spacex-crew-7-science-highlight)
+- [SpaceX to launch next Starship test flight &#39;soon,&#39; Elon Musk says &lpar;photos&rpar;](https://www.space.com/spacex-starship-launch-soon-elon-musk-august-2023)
+- [India&#39;s historic Chandrayaan-3 moon landing celebrated by ISS astronauts](https://www.space.com/chandrayaan-3-india-moon-landing-international-space-station-astronauts-celebrate)
+- [Apple lends support to California State Right to Repair bill](https://techcrunch.com/2023/08/23/apple-lends-support-to-california-state-right-to-repair-bill/)
+- [Two founders behind Russian crypto mixer Tornado Cash charged by U.S. federal courts](https://techcrunch.com/2023/08/23/two-founders-behind-russian-crypto-mixer-tornado-cash-charged-by-u-s-federal-courts/)
+- [Fallout TV series set to premiere on Prime Video in 2024](https://techcrunch.com/2023/08/23/fallout-tv-series-prime-video-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
