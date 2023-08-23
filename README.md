@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solana Pay integrates plug-in with Shopify for USDC payments](https://techcrunch.com/2023/08/23/solana-pay-plug-in-with-shopify-for-usdc-payments/)
+- [Wand.app raises $4.2M to scale its AI-powered creative tool for artists](https://techcrunch.com/2023/08/23/wand-app-ai-powered-creative-tool-artists-raises-4-2m-seed-funding/)
+- [India on the moon! Chandrayaan-3 becomes 1st probe to land near lunar south pole](https://www.space.com/india-chandrayaan-3-moon-landing-success)
+- [India’s Chandrayaan-3 makes successful landing on the moon](https://techcrunch.com/2023/08/23/india-chandrayaan-3-landing-moon/)
 - [FBI says North Korean hackers preparing to cash out after high-profile crypto hacks](https://techcrunch.com/2023/08/23/fbi-north-korea-lazarus-crypto/)
-- [The ‘US Cyber Trust Mark’ finally gives device makers a reason to spend big on security](https://techcrunch.com/2023/08/23/the-us-cyber-trust-mark-finally-gives-device-makers-a-reason-to-spend-big-on-security/)
-- [Why &#39;Star Wars&#39; needs its own answer to &#39;Star Trek: Lower Decks&#39;](https://www.space.com/star-wars-needs-a-lower-decks-style-show)
-- [As Better.com readies for its public debut, CEO Vishal Garg says he went through ‘a lot of leadership training’](https://techcrunch.com/2023/08/23/as-better-com-goes-public-ceo-vishal-garg-says-he-went-through-a-lot-of-leadership-training/)
-- [Maria Shriver’s, Patrick Schwarzenegger’s MOSH noshes on $3M for retail expansion](https://techcrunch.com/2023/08/23/maria-shriver-patrick-schwarzenegger-mosh-3m-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
