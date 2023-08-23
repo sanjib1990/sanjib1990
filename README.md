@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ASKA’s A5 eVTOL aircraft spread its wings but didn’t fly at Pebble Beach](https://techcrunch.com/2023/08/23/askas-a5-evtol-aircraft-spread-its-wings-but-didnt-fly-at-pebble-beach/)
+- [Good news for astronauts: Fatty tissue helps replenish bone and red blood cells in space](https://www.space.com/astronaut-fatty-tissue-rebuild-bone-red-blood-cells)
+- [Meta and moderators agree to mediation on labor dispute](https://techcrunch.com/2023/08/23/meta-and-moderators-agree-to-mediation/)
+- [India&#39;s successful Chandrayaan-3 moon landing &#39;belongs to all of humanity,&#39; Prime Minister Modi says](https://www.space.com/india-chandrayaan-3-moon-landing-prime-minister-modi-all-humanity)
 - [SpaceX Crew-7 astronauts will handle over 200 science experiments on ISS](https://www.space.com/nasa-spacex-crew-7-science-highlight)
-- [TikTok plans to ban links to outside e-commerce sites like Amazon, new report claims](https://techcrunch.com/2023/08/23/tiktok-plans-ban-links-outside-e-commerce-sites-like-amazon-new-report-claims/)
-- [Window Snyder talks striking out on her own in cybersecurity at TechCrunch Disrupt](https://techcrunch.com/2023/08/23/window-snyder-talks-striking-out-on-her-own-in-the-cybersecurity-industry-and-more-at-techcrunch-disrupt/)
-- [See 1st photos of the moon&#39;s south pole by India&#39;s Chandrayaan-3 lunar lander](https://www.space.com/india-chandrayaan-3-first-photos-moon-south-pole)
-- [Google TV adds 25 more free channels, NFL Sunday Ticket integration](https://techcrunch.com/2023/08/23/google-tv-adds-25-more-free-channels-nfl-sunday-ticket-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
