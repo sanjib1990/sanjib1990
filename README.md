@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Better.com readies for its public debut, CEO Vishal Garg says he went through ‘a lot of leadership training’](https://techcrunch.com/2023/08/23/as-better-com-goes-public-ceo-vishal-garg-says-he-went-through-a-lot-of-leadership-training/)
+- [Maria Shriver’s, Patrick Schwarzenegger’s MOSH noshes on $3M for retail expansion](https://techcrunch.com/2023/08/23/maria-shriver-patrick-schwarzenegger-mosh-3m-food/)
+- [QIA invests $1 billion in Ambani’s Reliance Retail at $100 billion valuation](https://techcrunch.com/2023/08/23/qia-invests-1-billion-in-ambani-reliance-retail-at-100-billion-valuation/)
 - [SpaceX Crew-7 astronauts rehearse ahead  of Aug. 25 launch &lpar;photos&rpar;](https://www.space.com/spacex-crew-7-astronauts-launch-rehearsal-photos)
 - [The only Blue Moon of 2023 is one week away](https://www.space.com/super-blue-moon-august-2023-one-week-away)
-- [Hackers exploit WinRAR zero-day bug to steal funds from broker accounts](https://techcrunch.com/2023/08/23/winrar-zero-day-funds-brokers/)
-- [Crypto lender Maple Finance raises $5M to enter Asia amid regulatory clarity](https://techcrunch.com/2023/08/23/crypto-lender-maple-finance-raises-5m-to-enter-asia-amid-regulatory-clarity/)
-- [Jobs platform CakeResume gets $5 million in fresh funding](https://techcrunch.com/2023/08/23/cakeresume/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
