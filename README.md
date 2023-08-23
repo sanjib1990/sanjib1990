@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: What are the visa options for a startup founder with family?](https://techcrunch.com/2023/08/23/ask-sophie-what-are-the-visa-options-for-a-startup-founder-with-family/)
+- [Nvidia’s Q2 earnings prove it’s the big winner in the generative AI boom](https://techcrunch.com/2023/08/23/nvidias-q2-earnings-prove-its-the-big-winner-in-the-generative-ai-boom/)
+- [Epic’s First Run offers 100% revenue share to game devs in exchange for exclusivity](https://techcrunch.com/2023/08/23/epics-first-run-offers-100-revenue-share-to-game-devs-in-exchange-for-exclusivity/)
 - [Tantrum-throwing young stars caught belting high-energy gamma rays for the 1st time](https://www.space.com/tantrum-throwing-young-stars-belting-high-energy-gamma-radiation-1st-time)
 - [OMERS Ventures didn’t exit Europe because of the market — but it had good reason to](https://techcrunch.com/2023/08/23/omers-ventures-europe-exit/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [SpaceX to launch next Starship test flight &#39;soon,&#39; Elon Musk says &lpar;photos&rpar;](https://www.space.com/spacex-starship-launch-soon-elon-musk-august-2023)
-- [India&#39;s historic Chandrayaan-3 moon landing celebrated by ISS astronauts](https://www.space.com/chandrayaan-3-india-moon-landing-international-space-station-astronauts-celebrate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
