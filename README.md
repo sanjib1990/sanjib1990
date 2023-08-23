@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-7 astronauts rehearse ahead  of Aug. 25 launch &lpar;photos&rpar;](https://www.space.com/spacex-crew-7-astronauts-launch-rehearsal-photos)
+- [The only Blue Moon of 2023 is one week away](https://www.space.com/super-blue-moon-august-2023-one-week-away)
 - [Hackers exploit WinRAR zero-day bug to steal funds from broker accounts](https://techcrunch.com/2023/08/23/winrar-zero-day-funds-brokers/)
 - [Crypto lender Maple Finance raises $5M to enter Asia amid regulatory clarity](https://techcrunch.com/2023/08/23/crypto-lender-maple-finance-raises-5m-to-enter-asia-amid-regulatory-clarity/)
 - [Jobs platform CakeResume gets $5 million in fresh funding](https://techcrunch.com/2023/08/23/cakeresume/)
-- [Dice books $65M for its event discovery and ticketing platform](https://techcrunch.com/2023/08/23/dice-books-65m-for-its-event-discovery-and-ticketing-platform/)
-- [Meta plans to roll out default end-to-end encryption for Messenger by the end of the year](https://techcrunch.com/2023/08/22/meta-plans-to-roll-out-default-end-to-end-encryption-for-messenger-by-the-end-of-the-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
