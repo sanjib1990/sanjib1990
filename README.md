@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 17 beta includes further hints that the iPhone 15 Pro will have an ‘Action Button’](https://techcrunch.com/2023/08/23/ios-17-beta-includes-further-hints-that-the-iphone-15-pro-will-have-an-action-button/)
-- [James Webb Space Telescope reveals active supermassive black holes were surprisingly rare in early universe](https://www.space.com/news/james-webb-space-telescope-reveals-active-supermassive-black-holes-were-surprisingly-rare-in-early-universe)
-- [Snap confirms EU users will soon be able to opt out of content ‘personalization’](https://techcrunch.com/2023/08/23/snapchat-dsa-compliance/)
-- [Lex raises $2.75M for its AI writing tool that helps writers get past blocks](https://techcrunch.com/2023/08/23/lex-ai-writing-tool-seed-round/)
-- [X changes its API to retire legacy tiers and endpoints](https://techcrunch.com/2023/08/23/x-changes-its-api-to-retire-legacy-tiers-and-endpoints/)
+- [We could start a settlement on Mars with just 22 people, scientists say](https://www.space.com/mars-settlements-people-personalities-number)
+- [Twilio Segment teams with Amazon SageMaker on new customer predictions product](https://techcrunch.com/2023/08/23/twilio-segment-teams-with-amazon-sagemaker-on-customer-predictions-product/)
+- [Automattic CEO Matt Mullenweg talks future of Tumblr, with algorithmic choice, AI enhancements and more](https://techcrunch.com/2023/08/23/automattic-ceo-matt-mullenweg-talks-future-of-tumblr-with-algorithmic-choice-ai-enhancements-and-more/)
+- [Star Wars Gentle Giant mini busts and statues review](https://www.space.com/gentle-giant-star-wars-collectible-statues-and-busts-review)
+- [Automakers now have to comply with MA’s Right to Repair law](https://techcrunch.com/2023/08/23/automakers-now-have-to-comply-with-mas-right-to-repair-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
