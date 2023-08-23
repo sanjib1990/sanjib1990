@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana Pay integrates plug-in with Shopify for USDC payments](https://techcrunch.com/2023/08/23/solana-pay-plug-in-with-shopify-for-usdc-payments/)
-- [Wand.app raises $4.2M to scale its AI-powered creative tool for artists](https://techcrunch.com/2023/08/23/wand-app-ai-powered-creative-tool-artists-raises-4-2m-seed-funding/)
-- [India on the moon! Chandrayaan-3 becomes 1st probe to land near lunar south pole](https://www.space.com/india-chandrayaan-3-moon-landing-success)
-- [India’s Chandrayaan-3 makes successful landing on the moon](https://techcrunch.com/2023/08/23/india-chandrayaan-3-landing-moon/)
-- [FBI says North Korean hackers preparing to cash out after high-profile crypto hacks](https://techcrunch.com/2023/08/23/fbi-north-korea-lazarus-crypto/)
+- [X changes its API to retire legacy tiers and endpoints](https://techcrunch.com/2023/08/23/x-changes-its-api-to-retire-legacy-tiers-and-endpoints/)
+- [LatAm startups playing ‘on hard mode,’  fintech and AI with VC Mercedes Bent](https://techcrunch.com/2023/08/23/latam-startups-playing-on-hard-mode-fintech-and-ai-with-vc-mercedes-bent/)
+- [WhatsApp now lets users create groups without names](https://techcrunch.com/2023/08/23/whatsapp-groups-without-names/)
+- [Learning the lessons from cybersecurity trash fires at TC Disrupt 2023](https://techcrunch.com/2023/08/23/learning-the-lessons-from-cybersecurity-trash-fires-at-tc-disrupt-2023/)
+- [Second-life Jaguar I-Pace batteries to power energy storage systems](https://techcrunch.com/2023/08/23/second-life-jaguar-i-pace-batteries-to-power-energy-storage-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
