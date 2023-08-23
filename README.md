@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Microsoft Excel just got Python](https://www.youtube.com/watch?v=8ofsE7xiGho)
 - [Do you STILL suck at subnetting?? &lpar;THE FINAL TEST&rpar;](https://www.youtube.com/watch?v=OD2vG5st4zI)
 - [Another year of great growth and learning for OCW](https://www.youtube.com/watch?v=L-P7WhWkKrM)
 - [Lecture 5: Einstein and Experiment](https://www.youtube.com/watch?v=YBWv9EOX3pU)
 - [Lecture 2: Faraday, Thomson, and Maxwell: Lines of Force in the Ether](https://www.youtube.com/watch?v=OBHUrAFLQW8)
-- [Lecture 16: Secrecy and Security in the Nuclear Age](https://www.youtube.com/watch?v=MQYzG-UGlsk)
 <!-- YOUTUBE:END -->
 
 ---
