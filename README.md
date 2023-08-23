@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar AI wants to make solar power more accessible in Southeast Asia](https://techcrunch.com/2023/08/22/solar-ai/)
+- [MrBeast’s Olympics video is a geopolitical nightmare](https://techcrunch.com/2023/08/22/mrbeast-olympics-every-country-youtube-geopolitical-nightmare/)
 - [ElevenLabs’ voice-generating tools launch out of beta](https://techcrunch.com/2023/08/22/elevenlabs-voice-generating-tools-launch-out-of-beta/)
 - [Twitch starts testing a TikTok-like clips feed to boost discovery](https://techcrunch.com/2023/08/22/twitch-disccovery-feed-test/)
 - [Clearspace-1 space debris cleanup target in orbit just got struck by space debris](https://www.space.com/space-debris-cleanup-mission-target-hit)
-- [North Korea planning to launch a satellite this week amid military tensions](https://www.space.com/north-korea-satellite-launch-attempt-august-2023)
-- [India&#39;s Chandrayaan-3 probe to attempt historic moon landing on Aug. 23: Watch it live](https://www.space.com/india-chandrayaan-3-moon-landing-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
