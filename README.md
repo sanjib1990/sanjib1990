@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI says North Korean hackers preparing to cash out after high-profile crypto hacks](https://techcrunch.com/2023/08/23/fbi-north-korea-lazarus-crypto/)
+- [The ‘US Cyber Trust Mark’ finally gives device makers a reason to spend big on security](https://techcrunch.com/2023/08/23/the-us-cyber-trust-mark-finally-gives-device-makers-a-reason-to-spend-big-on-security/)
+- [Why &#39;Star Wars&#39; needs its own answer to &#39;Star Trek: Lower Decks&#39;](https://www.space.com/star-wars-needs-a-lower-decks-style-show)
 - [As Better.com readies for its public debut, CEO Vishal Garg says he went through ‘a lot of leadership training’](https://techcrunch.com/2023/08/23/as-better-com-goes-public-ceo-vishal-garg-says-he-went-through-a-lot-of-leadership-training/)
 - [Maria Shriver’s, Patrick Schwarzenegger’s MOSH noshes on $3M for retail expansion](https://techcrunch.com/2023/08/23/maria-shriver-patrick-schwarzenegger-mosh-3m-food/)
-- [QIA invests $1 billion in Ambani’s Reliance Retail at $100 billion valuation](https://techcrunch.com/2023/08/23/qia-invests-1-billion-in-ambani-reliance-retail-at-100-billion-valuation/)
-- [SpaceX Crew-7 astronauts rehearse ahead  of Aug. 25 launch &lpar;photos&rpar;](https://www.space.com/spacex-crew-7-astronauts-launch-rehearsal-photos)
-- [The only Blue Moon of 2023 is one week away](https://www.space.com/super-blue-moon-august-2023-one-week-away)
 <!-- BLOG-POST-LIST:END -->
 
 ---
