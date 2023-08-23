@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snap overhauls India organizational structure, appoints new head](https://techcrunch.com/2023/08/22/snap-overhauls-india-organizational-structure-appoints-new-head/)
 - [India’s Kombai raises $4.5M to simplify UI coding with AI](https://techcrunch.com/2023/08/22/kombai-seed-funding/)
 - [Solar AI wants to make solar power more accessible in Southeast Asia](https://techcrunch.com/2023/08/22/solar-ai/)
 - [MrBeast’s Olympics video is a geopolitical nightmare](https://techcrunch.com/2023/08/22/mrbeast-olympics-every-country-youtube-geopolitical-nightmare/)
 - [ElevenLabs’ voice-generating tools launch out of beta](https://techcrunch.com/2023/08/22/elevenlabs-voice-generating-tools-launch-out-of-beta/)
-- [Twitch starts testing a TikTok-like clips feed to boost discovery](https://techcrunch.com/2023/08/22/twitch-disccovery-feed-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
