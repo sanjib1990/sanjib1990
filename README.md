@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17 beta includes further hints that the iPhone 15 Pro will have an ‘Action Button’](https://techcrunch.com/2023/08/23/ios-17-beta-includes-further-hints-that-the-iphone-15-pro-will-have-an-action-button/)
+- [James Webb Space Telescope reveals active supermassive black holes were surprisingly rare in early universe](https://www.space.com/news/james-webb-space-telescope-reveals-active-supermassive-black-holes-were-surprisingly-rare-in-early-universe)
+- [Snap confirms EU users will soon be able to opt out of content ‘personalization’](https://techcrunch.com/2023/08/23/snapchat-dsa-compliance/)
+- [Lex raises $2.75M for its AI writing tool that helps writers get past blocks](https://techcrunch.com/2023/08/23/lex-ai-writing-tool-seed-round/)
 - [X changes its API to retire legacy tiers and endpoints](https://techcrunch.com/2023/08/23/x-changes-its-api-to-retire-legacy-tiers-and-endpoints/)
-- [LatAm startups playing ‘on hard mode,’  fintech and AI with VC Mercedes Bent](https://techcrunch.com/2023/08/23/latam-startups-playing-on-hard-mode-fintech-and-ai-with-vc-mercedes-bent/)
-- [WhatsApp now lets users create groups without names](https://techcrunch.com/2023/08/23/whatsapp-groups-without-names/)
-- [Learning the lessons from cybersecurity trash fires at TC Disrupt 2023](https://techcrunch.com/2023/08/23/learning-the-lessons-from-cybersecurity-trash-fires-at-tc-disrupt-2023/)
-- [Second-life Jaguar I-Pace batteries to power energy storage systems](https://techcrunch.com/2023/08/23/second-life-jaguar-i-pace-batteries-to-power-energy-storage-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
