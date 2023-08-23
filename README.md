@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jobs platform CakeResume gets $5 million in fresh funding](https://techcrunch.com/2023/08/23/cakeresume/)
+- [Dice books $65M for its event discovery and ticketing platform](https://techcrunch.com/2023/08/23/dice-books-65m-for-its-event-discovery-and-ticketing-platform/)
 - [Meta plans to roll out default end-to-end encryption for Messenger by the end of the year](https://techcrunch.com/2023/08/22/meta-plans-to-roll-out-default-end-to-end-encryption-for-messenger-by-the-end-of-the-year/)
 - [Snap overhauls India organizational structure, appoints new head](https://techcrunch.com/2023/08/22/snap-overhauls-india-organizational-structure-appoints-new-head/)
 - [India’s Kombai raises $4.5M to simplify UI coding with AI](https://techcrunch.com/2023/08/22/kombai-seed-funding/)
-- [Solar AI wants to make solar power more accessible in Southeast Asia](https://techcrunch.com/2023/08/22/solar-ai/)
-- [MrBeast’s Olympics video is a geopolitical nightmare](https://techcrunch.com/2023/08/22/mrbeast-olympics-every-country-youtube-geopolitical-nightmare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
