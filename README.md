@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Danish cloud host says customers ‘lost all data’ after ransomware attack](https://techcrunch.com/2023/08/23/cloudnordic-azero-cloud-host-ransomware/)
-- [The late-stage venture market is crumbling](https://techcrunch.com/2023/08/23/late-stage-evaporating/)
-- [DARPA wants to build a &#39;thriving commercial economy&#39; on the moon in 10 years](https://www.space.com/darpa-study-luna-10-moon-tech-infrastructure)
-- [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [What time will SpaceX&#39;s Crew-7 mission launch on Aug. 25? Here&#39;s how to watch live.](https://www.space.com/spacex-crew-7-astronaut-launch-what-time)
+- [SpaceX Crew-7 astronauts will handle over 200 science experiments on ISS](https://www.space.com/nasa-spacex-crew-7-science-highlight)
+- [TikTok plans to ban links to outside e-commerce sites like Amazon, new report claims](https://techcrunch.com/2023/08/23/tiktok-plans-ban-links-outside-e-commerce-sites-like-amazon-new-report-claims/)
+- [Window Snyder talks striking out on her own in cybersecurity at TechCrunch Disrupt](https://techcrunch.com/2023/08/23/window-snyder-talks-striking-out-on-her-own-in-the-cybersecurity-industry-and-more-at-techcrunch-disrupt/)
+- [See 1st photos of the moon&#39;s south pole by India&#39;s Chandrayaan-3 lunar lander](https://www.space.com/india-chandrayaan-3-first-photos-moon-south-pole)
+- [Google TV adds 25 more free channels, NFL Sunday Ticket integration](https://techcrunch.com/2023/08/23/google-tv-adds-25-more-free-channels-nfl-sunday-ticket-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
