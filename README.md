@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [We could start a settlement on Mars with just 22 people, scientists say](https://www.space.com/mars-settlements-people-personalities-number)
-- [Twilio Segment teams with Amazon SageMaker on new customer predictions product](https://techcrunch.com/2023/08/23/twilio-segment-teams-with-amazon-sagemaker-on-customer-predictions-product/)
-- [Automattic CEO Matt Mullenweg talks future of Tumblr, with algorithmic choice, AI enhancements and more](https://techcrunch.com/2023/08/23/automattic-ceo-matt-mullenweg-talks-future-of-tumblr-with-algorithmic-choice-ai-enhancements-and-more/)
-- [Star Wars Gentle Giant mini busts and statues review](https://www.space.com/gentle-giant-star-wars-collectible-statues-and-busts-review)
-- [Automakers now have to comply with MA’s Right to Repair law](https://techcrunch.com/2023/08/23/automakers-now-have-to-comply-with-mas-right-to-repair-law/)
+- [Danish cloud host says customers ‘lost all data’ after ransomware attack](https://techcrunch.com/2023/08/23/cloudnordic-azero-cloud-host-ransomware/)
+- [The late-stage venture market is crumbling](https://techcrunch.com/2023/08/23/late-stage-evaporating/)
+- [DARPA wants to build a &#39;thriving commercial economy&#39; on the moon in 10 years](https://www.space.com/darpa-study-luna-10-moon-tech-infrastructure)
+- [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [What time will SpaceX&#39;s Crew-7 mission launch on Aug. 25? Here&#39;s how to watch live.](https://www.space.com/spacex-crew-7-astronaut-launch-what-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
