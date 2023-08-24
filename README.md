@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Wars: Dark Droids&#39; writer breaks down Marvel Comics&#39; spooky new series &lpar;exclusive&rpar;](https://www.space.com/charles-soule-marvel-star-wars-dark-droids)
-- [Amazon brings new AI-driven features to Thursday Night Football](https://techcrunch.com/2023/08/24/amazon-prime-video-ai-features-thursday-night-football/)
-- [Sony is buying gaming headphone maker, Audeze](https://techcrunch.com/2023/08/24/sony-is-buying-gaming-headphone-maker-audeze/)
-- [X &lpar;Twitter&rpar; blocked links to a Democratic political tool for a week](https://techcrunch.com/2023/08/24/x-twitter-blocked-links-to-a-democratic-political-tool-for-a-week/)
-- [X tries to lure back advertisers with new $250 ad credit](https://techcrunch.com/2023/08/24/x-tries-to-lure-back-advertisers-with-new-250-ad-credit/)
+- [No Man’s Sky updates are going strong with Starfield around the corner](https://techcrunch.com/2023/08/24/no-mans-sky-updates-are-going-strong-with-starfield-around-the-corner/)
+- [Astropad’s latest is a combo iPad screen protector/Apple Pencil Tip](https://techcrunch.com/2023/08/24/astropads-latest-is-a-combo-ipad-screen-protect-apple-pencil-tip/)
+- [Solar Orbiter observes rapid, tiny jets on sun that may be the solar wind&#39;s power source](https://www.space.com/rapid-tiny-jets-solar-orbiter-wind-power)
+- [ISS fires thrusters to avoid oncoming space junk](https://www.space.com/international-space-station-debris-avoidance-maneuver-august-2023)
+- [Social media giants urged to tackle data-scraping privacy risks](https://techcrunch.com/2023/08/24/data-scraping-privacy-risks-joint-statement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
