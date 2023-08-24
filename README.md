@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Luna app launches on LG smart TVs](https://techcrunch.com/2023/08/23/amazon-luna-app-launches-on-lg-smart-tvs/)
 - [Backed by Peak XV and Jungle, Neurowyzr puts the focus on brain health](https://techcrunch.com/2023/08/23/neurowyzr/)
 - [Rocket Lab launches booster with preflown engine for 1st time &lpar;video&rpar;](https://www.space.com/rocket-lab-launch-used-engine-recovery)
 - [Ask Sophie: What are the visa options for a startup founder with family?](https://techcrunch.com/2023/08/23/ask-sophie-what-are-the-visa-options-for-a-startup-founder-with-family/)
 - [Nvidia’s Q2 earnings prove it’s the big winner in the generative AI boom](https://techcrunch.com/2023/08/23/nvidias-q2-earnings-prove-its-the-big-winner-in-the-generative-ai-boom/)
-- [Epic’s First Run offers 100% revenue share to game devs in exchange for exclusivity](https://techcrunch.com/2023/08/23/epics-first-run-offers-100-revenue-share-to-game-devs-in-exchange-for-exclusivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
