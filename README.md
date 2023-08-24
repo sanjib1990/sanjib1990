@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTC back to school deals can save you up to £300](https://www.space.com/htc-vive-vr-headset-back-to-school-deals-uk)
+- [Walmart is adding Wing drone deliveries to limited Superstores this year](https://techcrunch.com/2023/08/24/walmart-is-adding-wing-drone-deliveries-to-limited-superstores-this-year/)
+- [China&#39;s Yutu 2 rover reveals deep layers below far side of the moon](https://www.space.com/china-chang-e-4-yutu-2-rover-moon-subsurface-layers)
+- [Who is Hera Syndulla?](https://www.space.com/who-is-hera-syndulla)
 - [Cypago, which aims to automate compliance and governance for companies, raises $13M](https://techcrunch.com/2023/08/24/cypago-compliance-governance-startup-raises-13m/)
-- [Google to go further on ads transparency and data access for researchers as EU digital rulebook reboot kicks in](https://techcrunch.com/2023/08/24/google-dsa/)
-- [OSIRIS-REx science chief reveals NASA&#39;s 1st asteroid sampling mission nearly didn&#39;t make it &lpar;exclusive interview&rpar;](https://www.space.com/asteroid-bennu-surprised-osiris-rex-dante-lauretta-interview)
-- [See the moon eclipse the red supergiant star Antares tonight](https://www.space.com/moon-eclipses-antares-red-star-august-2023)
-- [Reliance tests sound box payment system amid financial services push](https://techcrunch.com/2023/08/24/reliance-tests-sound-box-payment-system-amid-financial-services-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
