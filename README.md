@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 trends in VC funding for pre-seed startups](https://techcrunch.com/2023/08/24/vc-trends-h2-2023/)
-- [Rocketium scales and analyzes massive marketing campaigns](https://techcrunch.com/2023/08/24/rocketium/)
-- [Weekday puts the spotlight on job references](https://techcrunch.com/2023/08/24/weekday/)
-- [Ikigai lands $25M investment to bring generative AI to tabular data](https://techcrunch.com/2023/08/24/ikigai-lands-25m-investment-to-bring-generative-ai-to-tabular-data/)
-- [a16z-backed AI video generator Irreverent Labs raises funding from Samsung Next](https://techcrunch.com/2023/08/24/a16z-backed-ai-video-generator-irreverent-labs-raises-funding-from-samsung-next/)
+- [7 founders and CEOs discuss fusion power’s most pressing challenges](https://techcrunch.com/2023/08/24/fusion-power-challenges-founder-survey/)
+- [Hustle Fund doubles down on its mission to build the ‘YC of angel investing’](https://techcrunch.com/2023/08/24/hustle-fund-doubles-down-on-its-mission-to-build-the-yc-of-angel-investing/)
+- [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
+- [How to watch SpaceX launch Crew-7 astronauts for NASA early on Aug. 25 with free livestream](https://www.space.com/spacex-crew-7-international-space-station-launch-livestream)
+- [Meta releases Code Llama, a code-generating AI model](https://techcrunch.com/2023/08/24/meta-releases-code-llama-a-code-generating-ai-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
