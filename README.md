@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [No Man’s Sky updates are going strong with Starfield around the corner](https://techcrunch.com/2023/08/24/no-mans-sky-updates-are-going-strong-with-starfield-around-the-corner/)
-- [Astropad’s latest is a combo iPad screen protector/Apple Pencil Tip](https://techcrunch.com/2023/08/24/astropads-latest-is-a-combo-ipad-screen-protect-apple-pencil-tip/)
-- [Solar Orbiter observes rapid, tiny jets on sun that may be the solar wind&#39;s power source](https://www.space.com/rapid-tiny-jets-solar-orbiter-wind-power)
-- [ISS fires thrusters to avoid oncoming space junk](https://www.space.com/international-space-station-debris-avoidance-maneuver-august-2023)
-- [Social media giants urged to tackle data-scraping privacy risks](https://techcrunch.com/2023/08/24/data-scraping-privacy-risks-joint-statement/)
+- [Shein inks deal with Forever 21 as it looks to boost its reach](https://techcrunch.com/2023/08/24/shein-inks-deal-with-forever-21-as-it-looks-to-boost-its-reach/)
+- [Watch Russian cargo spacecraft arrive at ISS tonight](https://www.space.com/russia-progress-cargo-spacecraft-iss-arrival-august-2023)
+- [Friend.tech hype grows, Tornado Cash founders go for a spin and FBI’s monitoring North Korean hackers](https://techcrunch.com/2023/08/24/friend-tech-hype-grows-tornado-cash-founders-go-for-a-spin-and-fbis-monitoring-north-korean-hackers/)
+- [&#39;Failed star&#39; with radiation belts could be a big deal for astronomy. Here&#39;s why](https://www.space.com/failed-star-big-deal-astronomy-radiation-belts-exoplanet-hidden)
+- [Meta is shutting down Messenger Lite for Android in September](https://techcrunch.com/2023/08/24/meta-is-shutting-down-messenger-lite-for-android-in-september/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
