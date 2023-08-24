@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5](https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/)
-- [Satellites reveal catastrophic year for emperor penguins amid climate crisis in Antarctica &lpar;photos&rpar;](https://www.space.com/sea-ice-loss-kills-emperor-penguin-chicks-satellite-photos)
-- [Introducing the Startup Battlefield 200 companies at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/24/introducing-the-startup-battlefield-200-companies-at-techcrunch-disrupt-2023/)
-- [Weird dark spot on Neptune may have a bright spot buddy](https://www.space.com/weird-dark-spot-neptune-bright-spot-buddy)
-- [Better.com’s stock tanks after SPAC combination brings it to the public markets](https://techcrunch.com/2023/08/24/better-coms-stock-tanks-after-spac-combination-brings-it-to-the-public-markets/)
+- [How Google Cloud learned to embrace its partner ecosystem](https://techcrunch.com/2023/08/24/how-google-cloud-learned-to-embrace-its-partner-ecosystem/)
+- [Vessel Capital emerges from stealth with $55M fund focused on web3 infrastructure and apps](https://techcrunch.com/2023/08/24/vessel-capital-emerges-from-stealth-with-55m-fund-focused-on-web3-infrastructure-and-apps/)
+- [Who is Sabine Wren?](https://www.space.com/who-is-sabine-wren)
+- [Modular secures $100M to build tools to optimize and create AI models](https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/)
+- [How and when to charge for adding AI to your enterprise software](https://techcrunch.com/2023/08/24/how-and-when-to-charge-for-adding-ai-to-your-enterprise-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
