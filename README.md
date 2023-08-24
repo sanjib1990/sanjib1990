@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [0 for 2: North Korea suffers 2nd satellite launch failure this year](https://www.space.com/north-korea-spy-satellite-2nd-attempt-failure)
+- [Last chance to host an After Hours event at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/24/last-chance-to-host-an-after-hours-event-at-techcrunch-disrupt-2023/)
+- [Advanced Ionics nets $12.5M Series A to inject green hydrogen into heavy industry](https://techcrunch.com/2023/08/24/advanced-ionics-hydrogen-series-a/)
 - [Shein inks deal with Forever 21 as it looks to boost its reach](https://techcrunch.com/2023/08/24/shein-inks-deal-with-forever-21-as-it-looks-to-boost-its-reach/)
 - [Watch Russian cargo spacecraft arrive at ISS tonight](https://www.space.com/russia-progress-cargo-spacecraft-iss-arrival-august-2023)
-- [Friend.tech hype grows, Tornado Cash founders go for a spin and FBI’s monitoring North Korean hackers](https://techcrunch.com/2023/08/24/friend-tech-hype-grows-tornado-cash-founders-go-for-a-spin-and-fbis-monitoring-north-korean-hackers/)
-- [&#39;Failed star&#39; with radiation belts could be a big deal for astronomy. Here&#39;s why](https://www.space.com/failed-star-big-deal-astronomy-radiation-belts-exoplanet-hidden)
-- [Meta is shutting down Messenger Lite for Android in September](https://techcrunch.com/2023/08/24/meta-is-shutting-down-messenger-lite-for-android-in-september/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
