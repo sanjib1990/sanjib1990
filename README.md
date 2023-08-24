@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cypago, which aims to automate compliance and governance for companies, raises $13M](https://techcrunch.com/2023/08/24/cypago-compliance-governance-startup-raises-13m/)
+- [Google to go further on ads transparency and data access for researchers as EU digital rulebook reboot kicks in](https://techcrunch.com/2023/08/24/google-dsa/)
+- [OSIRIS-REx science chief reveals NASA&#39;s 1st asteroid sampling mission nearly didn&#39;t make it &lpar;exclusive interview&rpar;](https://www.space.com/asteroid-bennu-surprised-osiris-rex-dante-lauretta-interview)
+- [See the moon eclipse the red supergiant star Antares tonight](https://www.space.com/moon-eclipses-antares-red-star-august-2023)
 - [Reliance tests sound box payment system amid financial services push](https://techcrunch.com/2023/08/24/reliance-tests-sound-box-payment-system-amid-financial-services-push/)
-- [Making AI trustworthy: Can we overcome black-box hallucinations?](https://techcrunch.com/2023/08/24/making-ai-trustworthy-can-we-overcome-black-box-hallucinations/)
-- [Korea’s internet giant Naver unveils generative AI services](https://techcrunch.com/2023/08/24/koreas-internet-giant-naver-unveils-generative-ai-services/)
-- [Chrome is testing an option to enable bottom-placed address bar on iOS](https://techcrunch.com/2023/08/24/chrome-is-testing-an-option-to-enable-bottom-address-bar-on-ios/)
-- [Amazon Luna app launches on LG smart TVs](https://techcrunch.com/2023/08/23/amazon-luna-app-launches-on-lg-smart-tvs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
