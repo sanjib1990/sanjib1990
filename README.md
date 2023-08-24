@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 founders and CEOs discuss fusion power’s most pressing challenges](https://techcrunch.com/2023/08/24/fusion-power-challenges-founder-survey/)
-- [Hustle Fund doubles down on its mission to build the ‘YC of angel investing’](https://techcrunch.com/2023/08/24/hustle-fund-doubles-down-on-its-mission-to-build-the-yc-of-angel-investing/)
-- [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
-- [How to watch SpaceX launch Crew-7 astronauts for NASA early on Aug. 25 with free livestream](https://www.space.com/spacex-crew-7-international-space-station-launch-livestream)
-- [Meta releases Code Llama, a code-generating AI model](https://techcrunch.com/2023/08/24/meta-releases-code-llama-a-code-generating-ai-model/)
+- [OpenAI partners with Scale AI to allow companies to fine-tune GPT-3.5](https://techcrunch.com/2023/08/24/openai-partners-with-scale-ai-to-allow-companies-to-fine-tune-gpt-3-5/)
+- [Satellites reveal catastrophic year for emperor penguins amid climate crisis in Antarctica &lpar;photos&rpar;](https://www.space.com/sea-ice-loss-kills-emperor-penguin-chicks-satellite-photos)
+- [Introducing the Startup Battlefield 200 companies at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/24/introducing-the-startup-battlefield-200-companies-at-techcrunch-disrupt-2023/)
+- [Weird dark spot on Neptune may have a bright spot buddy](https://www.space.com/weird-dark-spot-neptune-bright-spot-buddy)
+- [Better.com’s stock tanks after SPAC combination brings it to the public markets](https://techcrunch.com/2023/08/24/better-coms-stock-tanks-after-spac-combination-brings-it-to-the-public-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
