@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Crew-6 astronauts readying to wrap up their record-breaking flight](https://www.space.com/spacex-crew-6-astronauts-readying-depart-iss)
+- [You can finally buy Lego’s Braille Bricks](https://techcrunch.com/2023/08/24/you-can-finally-buy-legos-braille-bricks/)
+- [&#39;I get the UFO question?&#39; New Jersey&#39;s Chris Christie promises honesty on aliens in 1st Republican presidential debate](https://www.space.com/chris-christie-ufos-honesty-presidential-debate)
 - [0 for 2: North Korea suffers 2nd satellite launch failure this year](https://www.space.com/north-korea-spy-satellite-2nd-attempt-failure)
 - [Last chance to host an After Hours event at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/24/last-chance-to-host-an-after-hours-event-at-techcrunch-disrupt-2023/)
-- [Advanced Ionics nets $12.5M Series A to inject green hydrogen into heavy industry](https://techcrunch.com/2023/08/24/advanced-ionics-hydrogen-series-a/)
-- [Shein inks deal with Forever 21 as it looks to boost its reach](https://techcrunch.com/2023/08/24/shein-inks-deal-with-forever-21-as-it-looks-to-boost-its-reach/)
-- [Watch Russian cargo spacecraft arrive at ISS tonight](https://www.space.com/russia-progress-cargo-spacecraft-iss-arrival-august-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
