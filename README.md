@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reliance tests sound box payment system amid financial services push](https://techcrunch.com/2023/08/24/reliance-tests-sound-box-payment-system-amid-financial-services-push/)
+- [Making AI trustworthy: Can we overcome black-box hallucinations?](https://techcrunch.com/2023/08/24/making-ai-trustworthy-can-we-overcome-black-box-hallucinations/)
 - [Korea’s internet giant Naver unveils generative AI services](https://techcrunch.com/2023/08/24/koreas-internet-giant-naver-unveils-generative-ai-services/)
 - [Chrome is testing an option to enable bottom-placed address bar on iOS](https://techcrunch.com/2023/08/24/chrome-is-testing-an-option-to-enable-bottom-address-bar-on-ios/)
 - [Amazon Luna app launches on LG smart TVs](https://techcrunch.com/2023/08/23/amazon-luna-app-launches-on-lg-smart-tvs/)
-- [Backed by Peak XV and Jungle, Neurowyzr puts the focus on brain health](https://techcrunch.com/2023/08/23/neurowyzr/)
-- [Rocket Lab launches booster with preflown engine for 1st time &lpar;video&rpar;](https://www.space.com/rocket-lab-launch-used-engine-recovery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
