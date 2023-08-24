@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Google Cloud learned to embrace its partner ecosystem](https://techcrunch.com/2023/08/24/how-google-cloud-learned-to-embrace-its-partner-ecosystem/)
-- [Vessel Capital emerges from stealth with $55M fund focused on web3 infrastructure and apps](https://techcrunch.com/2023/08/24/vessel-capital-emerges-from-stealth-with-55m-fund-focused-on-web3-infrastructure-and-apps/)
-- [Who is Sabine Wren?](https://www.space.com/who-is-sabine-wren)
-- [Modular secures $100M to build tools to optimize and create AI models](https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/)
-- [How and when to charge for adding AI to your enterprise software](https://techcrunch.com/2023/08/24/how-and-when-to-charge-for-adding-ai-to-your-enterprise-software/)
+- [&#39;Star Wars: Dark Droids&#39; writer breaks down Marvel Comics&#39; spooky new series &lpar;exclusive&rpar;](https://www.space.com/charles-soule-marvel-star-wars-dark-droids)
+- [Amazon brings new AI-driven features to Thursday Night Football](https://techcrunch.com/2023/08/24/amazon-prime-video-ai-features-thursday-night-football/)
+- [Sony is buying gaming headphone maker, Audeze](https://techcrunch.com/2023/08/24/sony-is-buying-gaming-headphone-maker-audeze/)
+- [X &lpar;Twitter&rpar; blocked links to a Democratic political tool for a week](https://techcrunch.com/2023/08/24/x-twitter-blocked-links-to-a-democratic-political-tool-for-a-week/)
+- [X tries to lure back advertisers with new $250 ad credit](https://techcrunch.com/2023/08/24/x-tries-to-lure-back-advertisers-with-new-250-ad-credit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
