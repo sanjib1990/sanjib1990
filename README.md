@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HTC back to school deals can save you up to £300](https://www.space.com/htc-vive-vr-headset-back-to-school-deals-uk)
-- [Walmart is adding Wing drone deliveries to limited Superstores this year](https://techcrunch.com/2023/08/24/walmart-is-adding-wing-drone-deliveries-to-limited-superstores-this-year/)
-- [China&#39;s Yutu 2 rover reveals deep layers below far side of the moon](https://www.space.com/china-chang-e-4-yutu-2-rover-moon-subsurface-layers)
-- [Who is Hera Syndulla?](https://www.space.com/who-is-hera-syndulla)
-- [Cypago, which aims to automate compliance and governance for companies, raises $13M](https://techcrunch.com/2023/08/24/cypago-compliance-governance-startup-raises-13m/)
+- [5 trends in VC funding for pre-seed startups](https://techcrunch.com/2023/08/24/vc-trends-h2-2023/)
+- [Rocketium scales and analyzes massive marketing campaigns](https://techcrunch.com/2023/08/24/rocketium/)
+- [Weekday puts the spotlight on job references](https://techcrunch.com/2023/08/24/weekday/)
+- [Ikigai lands $25M investment to bring generative AI to tabular data](https://techcrunch.com/2023/08/24/ikigai-lands-25m-investment-to-bring-generative-ai-to-tabular-data/)
+- [a16z-backed AI video generator Irreverent Labs raises funding from Samsung Next](https://techcrunch.com/2023/08/24/a16z-backed-ai-video-generator-irreverent-labs-raises-funding-from-samsung-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
