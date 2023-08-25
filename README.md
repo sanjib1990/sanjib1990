@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Newly discovered black hole &#39;speed limit&#39; hints at new laws of physics](https://www.space.com/black-hole-speed-limit-new-laws-physics)
+- [All hail the new EU law that lets social media users quiet quit the algorithm](https://techcrunch.com/2023/08/25/quiet-qutting-ai/)
+- [Everything we know about Star Wars Outlaws](https://www.space.com/everything-we-know-about-star-wars-outlaws)
 - [Watch SpaceX launch 5,000th Starlink satellite to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-11)
-- [Why Chandrayaan-3 landed near the moon&#39;s south pole — and why everyone else wants to get there too](https://www.space.com/chandrayaan-3-moon-south-pole-why-nasa-wants-to-go-too)
-- [Zepto becomes India’s first 2023 unicorn with $200 million fresh funding](https://techcrunch.com/2023/08/25/zepto-becomes-india-first-2023-unicorn-with-200-million-fresh-funding/)
-- [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
-- [Former President Trump returns to Twitter, now X, with his mugshot](https://techcrunch.com/2023/08/24/former-president-trump-returns-to-twitter-now-x-with-his-mugshot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
