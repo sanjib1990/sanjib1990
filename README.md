@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OnlyFans’ profitability proves the creator economy boom was real enough](https://techcrunch.com/2023/08/25/onlyfans-profitability-creator-economy/)
-- [Uber, squeezed by insurance, increases minimum age for new drivers in California](https://techcrunch.com/2023/08/25/uber-squeezed-by-insurance-increases-minimum-age-for-new-drivers-in-california/)
-- [YouTube demystifies the Shorts algorithm, views and answers other creator questions](https://techcrunch.com/2023/08/25/youtube-demystifies-the-shorts-algorithm-views-and-answers-other-creator-questions/)
-- [Dropbox drops unlimited storage, blames crypto miners and resellers for the change](https://techcrunch.com/2023/08/25/dropbox-drops-unlimited-storage-blames-crypto-miners-and-resellers-for-the-change/)
-- [Joby Aviation narrows down to Ohio or North Carolina for new air taxi factory](https://techcrunch.com/2023/08/25/joby-aviation-narrows-down-to-ohio-or-north-carolina-for-new-air-taxi-factory/)
+- [Lego Ideas Tales of the Space Age review](https://www.space.com/lego-ideas-tales-of-the-space-age-21340-review)
+- [WhatsApp rolls out support for HD video](https://techcrunch.com/2023/08/25/whatsapp-rolls-out-support-for-hd-video/)
+- [The 6 most important things to know about SaaS+ product architecture](https://techcrunch.com/2023/08/25/the-6-most-important-things-to-know-about-saas-product-architecture/)
+- [Japan&#39;s SLIM spacecraft, a &#39;moon sniper,&#39; to join lunar landing rush with Aug. 26 launch](https://www.space.com/moon-sniper-slim-japan-launch-august-2023)
+- [Tesla investors might get payout from SEC settlement](https://techcrunch.com/2023/08/25/tesla-investors-might-get-payout-from-sec-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
