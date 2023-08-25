@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qase raises $7.2M to help companies manage their software tests](https://techcrunch.com/2023/08/25/qase-raises-7-2m-to-help-companies-manage-their-software-tests/)
+- [Alloy, Synctera and Unit discuss the future of embedded finance at TC Disrupt](https://techcrunch.com/2023/08/25/alloy-synctera-and-unit-discuss-the-future-of-embedded-finance-at-tc-disrupt/)
+- [Orbital Composites lands new government contracts to advance in-space manufacturing](https://techcrunch.com/2023/08/25/orbital-composites-lands-new-government-contracts-to-advance-in-space-manufacturing/)
 - [Startups that are Ramp-ing up, and startups that are full of sh**](https://techcrunch.com/2023/08/25/startups-that-are-ramp-ing-up-and-startups-that-are-full-of-crap/)
 - [YouTube to support RSS uploads for podcasters by year-end, plus private feeds in YouTube Music](https://techcrunch.com/2023/08/25/youtube-to-support-rss-uploads-for-podcasters-by-year-end-plus-private-feeds-in-youtube-music/)
-- [Satellite imagery captures wildfires breaking across Greece &lpar;photo&rpar;](https://www.space.com/esa-satellite-severe-wildfires-greece)
-- [Byju’s exposed sensitive student data, including loan details](https://techcrunch.com/2023/08/25/byjus-student-data-exposed/)
-- [Luxury Presence, which builds marketing tools for realtors, raises $19.2M](https://techcrunch.com/2023/08/25/luxury-presence-which-builds-marketing-tools-for-realtors-raises-19-2m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
