@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit launches moderator rewards program amid sitewide discontent](https://techcrunch.com/2023/08/24/reddit-mod-helper-program-update-moderation-protest/)
 - [Wreckage of Russian warlord&#39;s plane spotted from space &lpar;satellite photo&rpar;](https://www.space.com/yevgeny-prigozhin-plane-crash-satellite-photo)
 - [Nvidia is flying high thanks to AI](https://techcrunch.com/2023/08/24/nvidia-earnings-flying-high/)
 - [SpaceX&#39;s Crew-6 astronauts readying to wrap up their record-breaking flight](https://www.space.com/spacex-crew-6-astronauts-readying-depart-iss)
 - [You can finally buy Lego’s Braille Bricks](https://techcrunch.com/2023/08/24/you-can-finally-buy-legos-braille-bricks/)
-- [&#39;I get the UFO question?&#39; New Jersey&#39;s Chris Christie promises honesty on aliens in 1st Republican presidential debate](https://www.space.com/chris-christie-ufos-honesty-presidential-debate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
