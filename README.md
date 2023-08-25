@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How founders raised money so far in 2023](https://techcrunch.com/2023/08/25/how-founders-raised-money-so-far-in-2023/)
+- [VFX artists show that Hollywood can use AI to create, not exploit](https://techcrunch.com/2023/08/25/vfx-artists-show-that-hollywood-can-use-ai-to-create-not-exploit/)
+- [SpaceX fires up giant Starship booster for 2nd time ahead of test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-9-second-static-fire)
 - [Lego Ideas Tales of the Space Age review](https://www.space.com/lego-ideas-tales-of-the-space-age-21340-review)
 - [WhatsApp rolls out support for HD video](https://techcrunch.com/2023/08/25/whatsapp-rolls-out-support-for-hd-video/)
-- [The 6 most important things to know about SaaS+ product architecture](https://techcrunch.com/2023/08/25/the-6-most-important-things-to-know-about-saas-product-architecture/)
-- [Japan&#39;s SLIM spacecraft, a &#39;moon sniper,&#39; to join lunar landing rush with Aug. 26 launch](https://www.space.com/moon-sniper-slim-japan-launch-august-2023)
-- [Tesla investors might get payout from SEC settlement](https://techcrunch.com/2023/08/25/tesla-investors-might-get-payout-from-sec-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
