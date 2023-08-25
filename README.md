@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Ax-2 astronaut releasing free educational videos filmed in space on Aug. 28](https://www.space.com/ax-2-astronaut-john-shoffner-space-video-series-students)
+- [See Saturn at its biggest and brightest of 2023 this weekend](https://www.space.com/saturn-opposition-biggest-brightest-august-2023)
+- [The mugshot that launched a thousand memes](https://techcrunch.com/2023/08/25/the-mugshot-that-launched-a-thousand-memes/)
 - [NASA&#39;s New Horizons mission faces an uncertain future &lpar;op-ed&rpar;](https://www.space.com/nasa-new-horizons-budget-uncertainty)
 - [Atlas V rocket rolled to pad for &#39;Silent Barker&#39; spysat launch &lpar;photos&rpar;](https://www.space.com/atlas-v-rocket-rollout-silent-barker-photos)
-- [Japan will launch SLIM moon lander and space telescope on Aug. 27. Here&#39;s how to watch it live.](https://www.space.com/japan-slim-moon-lander-mission-launch-preview)
-- [Five takeaways from Instacart’s S-1 filing](https://techcrunch.com/2023/08/25/instacart-s1-five-takeaways/)
-- [Bitcoin startups remain undercapitalized as funding drought drags on](https://techcrunch.com/2023/08/25/bitcoin-startups-undercapitalized-funding-drought/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
