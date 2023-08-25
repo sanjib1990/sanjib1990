@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan plans to launch moon lander and space telescope on Aug. 27](https://www.space.com/japan-slim-moon-lander-mission-launch-preview)
+- [NASA&#39;s New Horizons mission faces an uncertain future &lpar;op-ed&rpar;](https://www.space.com/nasa-new-horizons-budget-uncertainty)
+- [Atlas V rocket rolled to pad for &#39;Silent Barker&#39; spysat launch &lpar;photos&rpar;](https://www.space.com/atlas-v-rocket-rollout-silent-barker-photos)
+- [Japan will launch SLIM moon lander and space telescope on Aug. 27. Here&#39;s how to watch it live.](https://www.space.com/japan-slim-moon-lander-mission-launch-preview)
 - [Five takeaways from Instacart’s S-1 filing](https://techcrunch.com/2023/08/25/instacart-s1-five-takeaways/)
 - [Bitcoin startups remain undercapitalized as funding drought drags on](https://techcrunch.com/2023/08/25/bitcoin-startups-undercapitalized-funding-drought/)
-- [How founders raised money so far in 2023](https://techcrunch.com/2023/08/25/how-founders-raised-money-so-far-in-2023/)
-- [Watch new NASA sensor measure US air pollution from space in real time &lpar;video&rpar;](https://www.space.com/new-nasa-satellite-real-time-air-pollution-maps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
