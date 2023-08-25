@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OnlyFans’ profitability proves the creator economy boom was real enough](https://techcrunch.com/2023/08/25/onlyfans-profitability-creator-economy/)
+- [Uber, squeezed by insurance, increases minimum age for new drivers in California](https://techcrunch.com/2023/08/25/uber-squeezed-by-insurance-increases-minimum-age-for-new-drivers-in-california/)
+- [YouTube demystifies the Shorts algorithm, views and answers other creator questions](https://techcrunch.com/2023/08/25/youtube-demystifies-the-shorts-algorithm-views-and-answers-other-creator-questions/)
 - [Dropbox drops unlimited storage, blames crypto miners and resellers for the change](https://techcrunch.com/2023/08/25/dropbox-drops-unlimited-storage-blames-crypto-miners-and-resellers-for-the-change/)
 - [Joby Aviation narrows down to Ohio or North Carolina for new air taxi factory](https://techcrunch.com/2023/08/25/joby-aviation-narrows-down-to-ohio-or-north-carolina-for-new-air-taxi-factory/)
-- [Pitch Deck Teardown: BusRight’s $7M Series A deck](https://techcrunch.com/2023/08/25/sample-series-a-pitch-deck-busright/)
-- [Watch Chandrayaan-3&#39;s Pragyan rover take its &#39;1st steps&#39; on the moon &lpar;video&rpar;](https://www.space.com/chandrayaan-3-pragyan-rover-rolls-out-moon-video)
-- [MOVEit, the biggest hack of the year, by the numbers](https://techcrunch.com/2023/08/25/moveit-mass-hack-by-the-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
