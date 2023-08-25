@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups that are Ramp-ing up, and startups that are full of sh**](https://techcrunch.com/2023/08/25/startups-that-are-ramp-ing-up-and-startups-that-are-full-of-crap/)
+- [YouTube to support RSS uploads for podcasters by year-end, plus private feeds in YouTube Music](https://techcrunch.com/2023/08/25/youtube-to-support-rss-uploads-for-podcasters-by-year-end-plus-private-feeds-in-youtube-music/)
+- [Satellite imagery captures wildfires breaking across Greece &lpar;photo&rpar;](https://www.space.com/esa-satellite-severe-wildfires-greece)
+- [Byju’s exposed sensitive student data, including loan details](https://techcrunch.com/2023/08/25/byjus-student-data-exposed/)
 - [Luxury Presence, which builds marketing tools for realtors, raises $19.2M](https://techcrunch.com/2023/08/25/luxury-presence-which-builds-marketing-tools-for-realtors-raises-19-2m/)
-- [Watch the sun over the next 2 weeks to plan the ideal total eclipse 2024 viewing location](https://www.space.com/watch-sun-next-2-weeks-to-plan-total-solar-eclipse-2024-viewing-location)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Newly discovered black hole &#39;speed limit&#39; hints at new laws of physics](https://www.space.com/black-hole-speed-limit-new-laws-physics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
