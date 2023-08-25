@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former President Trump returns to Twitter, now X, with his mugshot](https://techcrunch.com/2023/08/24/former-president-trump-returns-to-twitter-now-x-with-his-mugshot/)
 - [SpaceX, NASA delay launch of Crew-7 astronauts to International Space Station](https://www.space.com/spacex-crew-7-astronaut-launch-scrub)
 - [Reddit launches moderator rewards program amid sitewide discontent](https://techcrunch.com/2023/08/24/reddit-mod-helper-program-update-moderation-protest/)
 - [Wreckage of Russian warlord&#39;s plane spotted from space &lpar;satellite photo&rpar;](https://www.space.com/yevgeny-prigozhin-plane-crash-satellite-photo)
 - [Nvidia is flying high thanks to AI](https://techcrunch.com/2023/08/24/nvidia-earnings-flying-high/)
-- [SpaceX&#39;s Crew-6 astronauts readying to wrap up their record-breaking flight](https://www.space.com/spacex-crew-6-astronauts-readying-depart-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
