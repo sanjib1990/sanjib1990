@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 5,000th Starlink satellite to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-11)
+- [Why Chandrayaan-3 landed near the moon&#39;s south pole — and why everyone else wants to get there too](https://www.space.com/chandrayaan-3-moon-south-pole-why-nasa-wants-to-go-too)
 - [Zepto becomes India’s first 2023 unicorn with $200 million fresh funding](https://techcrunch.com/2023/08/25/zepto-becomes-india-first-2023-unicorn-with-200-million-fresh-funding/)
 - [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
 - [Former President Trump returns to Twitter, now X, with his mugshot](https://techcrunch.com/2023/08/24/former-president-trump-returns-to-twitter-now-x-with-his-mugshot/)
-- [SpaceX, NASA delay launch of Crew-7 astronauts to International Space Station](https://www.space.com/spacex-crew-7-astronaut-launch-scrub)
-- [Reddit launches moderator rewards program amid sitewide discontent](https://techcrunch.com/2023/08/24/reddit-mod-helper-program-update-moderation-protest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
