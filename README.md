@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan plans to launch moon lander and space telescope on Aug. 27](https://www.space.com/japan-slim-moon-lander-mission-launch-preview)
+- [Five takeaways from Instacart’s S-1 filing](https://techcrunch.com/2023/08/25/instacart-s1-five-takeaways/)
+- [Bitcoin startups remain undercapitalized as funding drought drags on](https://techcrunch.com/2023/08/25/bitcoin-startups-undercapitalized-funding-drought/)
 - [How founders raised money so far in 2023](https://techcrunch.com/2023/08/25/how-founders-raised-money-so-far-in-2023/)
-- [VFX artists show that Hollywood can use AI to create, not exploit](https://techcrunch.com/2023/08/25/vfx-artists-show-that-hollywood-can-use-ai-to-create-not-exploit/)
-- [SpaceX fires up giant Starship booster for 2nd time ahead of test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-9-second-static-fire)
-- [Lego Ideas Tales of the Space Age review](https://www.space.com/lego-ideas-tales-of-the-space-age-21340-review)
-- [WhatsApp rolls out support for HD video](https://techcrunch.com/2023/08/25/whatsapp-rolls-out-support-for-hd-video/)
+- [Watch new NASA sensor measure US air pollution from space in real time &lpar;video&rpar;](https://www.space.com/new-nasa-satellite-real-time-air-pollution-maps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
