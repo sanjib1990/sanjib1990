@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luxury Presence, which builds marketing tools for realtors, raises $19.2M](https://techcrunch.com/2023/08/25/luxury-presence-which-builds-marketing-tools-for-realtors-raises-19-2m/)
+- [Watch the sun over the next 2 weeks to plan the ideal total eclipse 2024 viewing location](https://www.space.com/watch-sun-next-2-weeks-to-plan-total-solar-eclipse-2024-viewing-location)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [SpaceX Crew-6 and Crew-7 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [Newly discovered black hole &#39;speed limit&#39; hints at new laws of physics](https://www.space.com/black-hole-speed-limit-new-laws-physics)
-- [All hail the new EU law that lets social media users quiet quit the algorithm](https://techcrunch.com/2023/08/25/quiet-qutting-ai/)
-- [Everything we know about Star Wars Outlaws](https://www.space.com/everything-we-know-about-star-wars-outlaws)
-- [Watch SpaceX launch 5,000th Starlink satellite to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-11)
 <!-- BLOG-POST-LIST:END -->
 
 ---
