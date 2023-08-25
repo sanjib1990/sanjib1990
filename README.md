@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Qase raises $7.2M to help companies manage their software tests](https://techcrunch.com/2023/08/25/qase-raises-7-2m-to-help-companies-manage-their-software-tests/)
-- [Alloy, Synctera and Unit discuss the future of embedded finance at TC Disrupt](https://techcrunch.com/2023/08/25/alloy-synctera-and-unit-discuss-the-future-of-embedded-finance-at-tc-disrupt/)
-- [Orbital Composites lands new government contracts to advance in-space manufacturing](https://techcrunch.com/2023/08/25/orbital-composites-lands-new-government-contracts-to-advance-in-space-manufacturing/)
-- [Startups that are Ramp-ing up, and startups that are full of sh**](https://techcrunch.com/2023/08/25/startups-that-are-ramp-ing-up-and-startups-that-are-full-of-crap/)
-- [YouTube to support RSS uploads for podcasters by year-end, plus private feeds in YouTube Music](https://techcrunch.com/2023/08/25/youtube-to-support-rss-uploads-for-podcasters-by-year-end-plus-private-feeds-in-youtube-music/)
+- [Dropbox drops unlimited storage, blames crypto miners and resellers for the change](https://techcrunch.com/2023/08/25/dropbox-drops-unlimited-storage-blames-crypto-miners-and-resellers-for-the-change/)
+- [Joby Aviation narrows down to Ohio or North Carolina for new air taxi factory](https://techcrunch.com/2023/08/25/joby-aviation-narrows-down-to-ohio-or-north-carolina-for-new-air-taxi-factory/)
+- [Pitch Deck Teardown: BusRight’s $7M Series A deck](https://techcrunch.com/2023/08/25/sample-series-a-pitch-deck-busright/)
+- [Watch Chandrayaan-3&#39;s Pragyan rover take its &#39;1st steps&#39; on the moon &lpar;video&rpar;](https://www.space.com/chandrayaan-3-pragyan-rover-rolls-out-moon-video)
+- [MOVEit, the biggest hack of the year, by the numbers](https://techcrunch.com/2023/08/25/moveit-mass-hack-by-the-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
