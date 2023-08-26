@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Sasha&#39; the sloth breaks speed records as SpaceX Crew-7 zero-g indicator &lpar;photos&rpar;](https://www.space.com/spacex-crew7-sasha-sloth-zero-g-indicator)
 - [The scoop on Gen-Z and how they are rewriting the rules of the Internet](https://techcrunch.com/2023/08/26/the-scoop-on-gen-z-and-how-they-are-rewriting-the-rules-of-the-internet/)
 - [NASA and Forest Service offer seedlings to grow Artemis &#39;moon trees&#39;](https://www.space.com/artemis-moon-tree-seedlings-distrubtion)
 - [James Webb Space Telescope instrument experiences glitch — but observatory remains in &#39;good health&#39;](https://www.space.com/james-webb-space-telescope-glitch-remains-good-health)
 - [Will newfound Comet Nishimura really be visible to the naked eye? Experts aren&#39;t so sure](https://www.space.com/new-comet-nishimura-visible-naked-eye)
-- [SpaceX launches truly international astronaut team on Crew-7 flight to space station for NASA &lpar;video&rpar;](https://www.space.com/spacex-nasa-crew-7-launch-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
