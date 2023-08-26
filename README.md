@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Crew-7 Dragon capsule to dock at ISS with four astronauts aboard. Here&#39;s how to watch it live online.](https://www.space.com/spacex-crew-7-space-station-docking)
 - [Yes, in my backyard](https://techcrunch.com/2023/08/26/housing-supply-startups/)
 - [&#39;Sasha&#39; the sloth breaks speed records as SpaceX Crew-7 zero-g indicator &lpar;photos&rpar;](https://www.space.com/spacex-crew7-sasha-sloth-zero-g-indicator)
 - [The scoop on Gen-Z and how they are rewriting the rules of the Internet](https://techcrunch.com/2023/08/26/the-scoop-on-gen-z-and-how-they-are-rewriting-the-rules-of-the-internet/)
 - [NASA and Forest Service offer seedlings to grow Artemis &#39;moon trees&#39;](https://www.space.com/artemis-moon-tree-seedlings-distrubtion)
-- [James Webb Space Telescope instrument experiences glitch — but observatory remains in &#39;good health&#39;](https://www.space.com/james-webb-space-telescope-glitch-remains-good-health)
 <!-- BLOG-POST-LIST:END -->
 
 ---
