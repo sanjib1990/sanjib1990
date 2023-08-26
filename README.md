@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches truly international astronaut team on Crew-7 flight to space station for NASA &lpar;video&rpar;](https://www.space.com/spacex-nasa-crew-7-launch-international-space-station)
 - [US Department of Justice sues SpaceX for hiring discrimination](https://www.space.com/department-of-justice-sues-spacex-hiring-discrimination)
 - [Private Ax-2 astronaut releasing free educational videos filmed in space on Aug. 28](https://www.space.com/ax-2-astronaut-john-shoffner-space-video-series-students)
 - [See Saturn at its biggest and brightest of 2023 this weekend](https://www.space.com/saturn-opposition-biggest-brightest-august-2023)
 - [The mugshot that launched a thousand memes](https://techcrunch.com/2023/08/25/the-mugshot-that-launched-a-thousand-memes/)
-- [NASA&#39;s New Horizons mission faces an uncertain future &lpar;op-ed&rpar;](https://www.space.com/nasa-new-horizons-budget-uncertainty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
