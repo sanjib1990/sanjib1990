@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA and Forest Service offer seedlings to grow Artemis &#39;moon trees&#39;](https://www.space.com/artemis-moon-tree-seedlings-distrubtion)
 - [James Webb Space Telescope instrument experiences glitch — but observatory remains in &#39;good health&#39;](https://www.space.com/james-webb-space-telescope-glitch-remains-good-health)
 - [Will newfound Comet Nishimura really be visible to the naked eye? Experts aren&#39;t so sure](https://www.space.com/new-comet-nishimura-visible-naked-eye)
 - [SpaceX launches truly international astronaut team on Crew-7 flight to space station for NASA &lpar;video&rpar;](https://www.space.com/spacex-nasa-crew-7-launch-international-space-station)
 - [US Department of Justice sues SpaceX for hiring discrimination](https://www.space.com/department-of-justice-sues-spacex-hiring-discrimination)
-- [Private Ax-2 astronaut releasing free educational videos filmed in space on Aug. 28](https://www.space.com/ax-2-astronaut-john-shoffner-space-video-series-students)
 <!-- BLOG-POST-LIST:END -->
 
 ---
