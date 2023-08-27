@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Contrails: What are they and how do they form?](https://www.space.com/what-are-contrails)
 - [Ukraine&#39;s famed space sector is teetering on the brink, and Russian missiles aren&#39;t the main cause](https://www.space.com/ukraine-space-sector-threatened-lost-partnerships)
 - [Microsoft brings Python to Excel, Cruise reduces fleet following crash, and MrBeast creates controversy](https://techcrunch.com/2023/08/26/microsoft-brings-python-to-excel-cruise-reduces-fleet-following-crash-and-mrbeast-creates-controversy/)
 - [A Brazilian phone spyware was hacked and victims’ devices ‘deleted’ from server](https://techcrunch.com/2023/08/26/brazil-webdetetive-spyware-deleted/)
-- [SpaceX&#39;s Crew-7 Dragon capsule to dock at ISS with four astronauts aboard. Here&#39;s how to watch it live online.](https://www.space.com/spacex-crew-7-space-station-docking)
-- [Yes, in my backyard](https://techcrunch.com/2023/08/26/housing-supply-startups/)
+- [SpaceX&#39;s Crew-7 Dragon capsule to dock at ISS with four astronauts today. Here&#39;s how to watch it live online.](https://www.space.com/spacex-crew-7-space-station-docking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
