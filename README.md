@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New &#39;Starfield&#39; live-action trailer slingshots fans straight into the cosmos &lpar;video&rpar;](https://www.space.com/starfield-live-action-trailer-gamescon-2023)
+- [Looking for your next book? These 9 authors have reading recommendations for you](https://techcrunch.com/2023/08/27/tech-startups-recommendations/)
+- [Better.com’s public market debut was Miserable.com](https://techcrunch.com/2023/08/27/better-com-had-a-miserable-com-public-debut/)
 - [Which U.S. states will October&#39;s &#39;ring of fire&#39; solar eclipse be visible from?](https://www.space.com/which-us-states-oct-ring-of-fire-annular-solar-eclipse-visible-from)
 - [Contrails: What are they and how do they form?](https://www.space.com/what-are-contrails)
 - [Ukraine&#39;s famed space sector is teetering on the brink, and Russian missiles aren&#39;t the main cause](https://www.space.com/ukraine-space-sector-threatened-lost-partnerships)
-- [Microsoft brings Python to Excel, Cruise reduces fleet following crash, and MrBeast creates controversy](https://techcrunch.com/2023/08/26/microsoft-brings-python-to-excel-cruise-reduces-fleet-following-crash-and-mrbeast-creates-controversy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
