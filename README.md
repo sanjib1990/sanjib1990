@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The battery business is booming and Zeekr kicks off it IPO roadshow](https://techcrunch.com/2023/08/27/the-battery-business-is-booming-and-zeekr-kicks-off-it-ipo-roadshow/)
 - [Never express your ‘use of funds’ slide as percentages](https://techcrunch.com/2023/08/27/use-of-funds-are-not-percentages/)
 - [Looking for your next book? These 9 authors have reading recommendations for you](https://techcrunch.com/2023/08/27/tech-startups-recommendations/)
 - [Better.com’s public market debut was Miserable.com](https://techcrunch.com/2023/08/27/better-com-had-a-miserable-com-public-debut/)
 - [New &#39;Starfield&#39; live-action trailer slingshots fans straight into the cosmos &lpar;video&rpar;](https://www.space.com/starfield-live-action-trailer-gamescon-2023)
-- [Which U.S. states will October&#39;s &#39;ring of fire&#39; solar eclipse be visible from?](https://www.space.com/which-us-states-oct-ring-of-fire-annular-solar-eclipse-visible-from)
 <!-- BLOG-POST-LIST:END -->
 
 ---
