@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X saw weekly active users and rankings drop post rebrand, but Twitter Lite installs grew](https://techcrunch.com/2023/08/28/x-saw-weekly-active-users-and-rankings-drop-post-rebrand-but-twitter-lite-installs-grew/)
+- [Splinter group officially launches OpenTF fork of HashiCorp Terraform](https://techcrunch.com/2023/08/28/splinter-group-officially-launches-opentf-fork-of-hashicorp-terraform/)
 - [India to launch solar observatory mission Aditya-L1 this week](https://techcrunch.com/2023/08/28/aditya-l1-launch-solar-observatory-mission/)
 - [Leadsales targets LatAm businesses with conversational commerce tool for WhatsApp](https://techcrunch.com/2023/08/28/whatsapp-leadsales-conversational-commerce/)
 - [Moxie raises $15.7M to make opening medspas easier](https://techcrunch.com/2023/08/28/moxie/)
-- [Pragyan, Vikram, Vikas: How the names of India&#39;s Chandrayaan-3 moon mission were chosen](https://www.space.com/chandrayaan-3-moon-mission-names-pragyan-vikram-vikas)
-- [Geek Ventures targets immigrant founders with its first fund](https://techcrunch.com/2023/08/28/geek-ventures-immigrant-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
