@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum &#39;yin-yang&#39; shows two photons being entangled in real-time](https://www.space.com/quantum-yin-yang-shows-two-photons-being-entangled-in-real-time)
 - [10 years at TechCrunch](https://techcrunch.com/2023/08/28/10-years-at-techcrunch/)
 - [Founders: See what TechCrunch Disrupt 2023 has in store for you](https://techcrunch.com/2023/08/28/founders-see-what-techcrunch-disrupt-2023-has-in-store-for-you/)
 - [Google Flights will now tell you when it’s the cheapest time to book](https://techcrunch.com/2023/08/28/google-flights-will-now-tell-you-when-its-the-cheapest-time-to-book/)
 - [IPOs are back and the Equity crew is feasting](https://techcrunch.com/2023/08/28/ipos-are-back-and-the-equity-crew-is-feasting/)
-- [DoorDash launches AI-powered voice ordering technology for restaurants](https://techcrunch.com/2023/08/28/doordash-launches-ai-powered-voice-ordering-technology-for-restaurants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
