@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The ruthless forking of Terraform](https://www.youtube.com/watch?v=HzBA6FIn_Bo)
 - [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
 - [Microsoft Excel just got Python](https://www.youtube.com/watch?v=8ofsE7xiGho)
 - [Do you STILL suck at subnetting?? &lpar;THE FINAL TEST&rpar; // EP 9](https://www.youtube.com/watch?v=OD2vG5st4zI)
 - [Another year of great growth and learning for OCW](https://www.youtube.com/watch?v=L-P7WhWkKrM)
-- [Lecture 5: Einstein and Experiment](https://www.youtube.com/watch?v=YBWv9EOX3pU)
 <!-- YOUTUBE:END -->
 
 ---
