@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic to launch next space tourist flight on Sept. 8](https://www.space.com/virgin-galactic-launch-third-commercial-spaceflight-september-8)
+- [Angry Miao’s AM AFA R2 is part sculpture, part keyboard](https://techcrunch.com/2023/08/28/angry-miaos-am-afa-r2-is-part-sculpture-part-keyboard/)
+- [NASA&#39;s Psyche mission to a metal world may reveal the mysteries of Earth&#39;s interior](https://www.space.com/nasa-psyche-mission-metal-world-mysteries-earth-interior)
 - [What time is the Super Blue Moon of 2023?](https://www.space.com/super-blue-moon-august-2023-what-time)
 - [Free dating app Cosmic uses personality quizzes to make a profile for you](https://techcrunch.com/2023/08/28/free-dating-app-cosmic-uses-personality-quizzes-to-make-a-profile-for-you/)
-- [Subletting app Kiki raises $6M by using dating app concepts to match listings and renters](https://techcrunch.com/2023/08/28/subletting-app-kiki-raises-6m-by-using-dating-app-concepts-to-match-listings-and-renters/)
-- [We don’t have to reinvent the wheel to regulate AI responsibly](https://techcrunch.com/2023/08/28/we-dont-have-to-reinvent-the-wheel-to-regulate-ai-responsibly/)
-- [Klaviyo could break the unicorn IPO logjam](https://techcrunch.com/2023/08/28/klaviyo-could-break-the-unicorn-ipo-logjam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
