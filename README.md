@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI launches a ChatGPT plan for enterprise customers](https://techcrunch.com/2023/08/28/openai-launches-a-chatgpt-plan-for-enterprise-customers/)
-- [Yahoo Mail introduces new AI-powered capabilities, including a ‘Shopping Saver’ tool](https://techcrunch.com/2023/08/28/yahoo-mail-introduces-new-ai-powered-capabilities-including-a-shopping-saver-tool/)
-- [India&#39;s Chandrayaan-3 takes the moon&#39;s temperature near lunar south pole for 1st time](https://www.space.com/chandrayaan-3-moon-temperature-lunar-south-pole-first-time)
-- [Quantum &#39;yin-yang&#39; shows two photons being entangled in real-time](https://www.space.com/quantum-yin-yang-shows-two-photons-being-entangled-in-real-time)
-- [10 years at TechCrunch](https://techcrunch.com/2023/08/28/10-years-at-techcrunch/)
+- [What time is the Super Blue Moon of 2023?](https://www.space.com/super-blue-moon-august-2023-what-time)
+- [Free dating app Cosmic uses personality quizzes to make a profile for you](https://techcrunch.com/2023/08/28/free-dating-app-cosmic-uses-personality-quizzes-to-make-a-profile-for-you/)
+- [Subletting app Kiki raises $6M by using dating app concepts to match listings and renters](https://techcrunch.com/2023/08/28/subletting-app-kiki-raises-6m-by-using-dating-app-concepts-to-match-listings-and-renters/)
+- [We don’t have to reinvent the wheel to regulate AI responsibly](https://techcrunch.com/2023/08/28/we-dont-have-to-reinvent-the-wheel-to-regulate-ai-responsibly/)
+- [Klaviyo could break the unicorn IPO logjam](https://techcrunch.com/2023/08/28/klaviyo-could-break-the-unicorn-ipo-logjam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
