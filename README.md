@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Devolut leverages e-commerce growth in Latin America to develop reverse logistics tool](https://techcrunch.com/2023/08/28/devolut-e-commerce-latin-america-returns/)
+- [Landslides on Mars suggest water once surrounded Olympus Mons, tallest volcano in the solar system](https://www.space.com/landslides-mars-water-surrounded-olympus-mons-solar-system-largest-volcano)
 - [Reliance’s financial services unit to offer insurance, merchant lending](https://techcrunch.com/2023/08/28/reliance-jio-financial-services-unit/)
 - [Astronauts&#39; immune systems could be disturbed by microgravity, scientists find](https://www.space.com/news/astronauts-immune-systems-could-be-disturbed-by-microgravity-scientists-find)
 - [August&#39;s Blue Moon, the biggest full moon of 2023, rises this week](https://www.space.com/biggest-full-moon-of-2023)
-- [Reliance’s 5G hotspot Jio AirFiber to hit stores next month in broadband push](https://techcrunch.com/2023/08/28/jio-airfiber-india-launch/)
-- [Ambani to lead Reliance for five more years, children appointed to board in succession planning](https://techcrunch.com/2023/08/28/reliance-board-ambani/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
