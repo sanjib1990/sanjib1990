@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Devolut leverages e-commerce growth in Latin America to develop reverse logistics tool](https://techcrunch.com/2023/08/28/devolut-e-commerce-latin-america-returns/)
-- [Landslides on Mars suggest water once surrounded Olympus Mons, tallest volcano in the solar system](https://www.space.com/landslides-mars-water-surrounded-olympus-mons-solar-system-largest-volcano)
-- [Reliance’s financial services unit to offer insurance, merchant lending](https://techcrunch.com/2023/08/28/reliance-jio-financial-services-unit/)
-- [Astronauts&#39; immune systems could be disturbed by microgravity, scientists find](https://www.space.com/news/astronauts-immune-systems-could-be-disturbed-by-microgravity-scientists-find)
-- [August&#39;s Blue Moon, the biggest full moon of 2023, rises this week](https://www.space.com/biggest-full-moon-of-2023)
+- [India to launch solar observatory mission Aditya-L1 this week](https://techcrunch.com/2023/08/28/aditya-l1-launch-solar-observatory-mission/)
+- [Leadsales targets LatAm businesses with conversational commerce tool for WhatsApp](https://techcrunch.com/2023/08/28/whatsapp-leadsales-conversational-commerce/)
+- [Moxie raises $15.7M to make opening medspas easier](https://techcrunch.com/2023/08/28/moxie/)
+- [Pragyan, Vikram, Vikas: How the names of India&#39;s Chandrayaan-3 moon mission were chosen](https://www.space.com/chandrayaan-3-moon-mission-names-pragyan-vikram-vikas)
+- [Geek Ventures targets immigrant founders with its first fund](https://techcrunch.com/2023/08/28/geek-ventures-immigrant-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
