@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Virgin Galactic to launch next space tourist flight on Sept. 8](https://www.space.com/virgin-galactic-launch-third-commercial-spaceflight-september-8)
+- [Amazon increases its free shipping minimum to $35 for non-Prime members in some regions](https://techcrunch.com/2023/08/28/amazon-increases-its-free-shipping-minimum-to-35-for-non-prime-members-in-some-regions/)
+- [Friend.tech gets unfriended: Daily transactions drop 95% as hyped decentralized social app loses steam](https://techcrunch.com/2023/08/28/friend-tech-daily-transactions-drop/)
 - [Angry Miao’s AM AFA R2 is part sculpture, part keyboard](https://techcrunch.com/2023/08/28/angry-miaos-am-afa-r2-is-part-sculpture-part-keyboard/)
-- [NASA&#39;s Psyche mission to a metal world may reveal the mysteries of Earth&#39;s interior](https://www.space.com/nasa-psyche-mission-metal-world-mysteries-earth-interior)
 - [What time is the Super Blue Moon of 2023?](https://www.space.com/super-blue-moon-august-2023-what-time)
 - [Free dating app Cosmic uses personality quizzes to make a profile for you](https://techcrunch.com/2023/08/28/free-dating-app-cosmic-uses-personality-quizzes-to-make-a-profile-for-you/)
 <!-- BLOG-POST-LIST:END -->
