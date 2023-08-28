@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X saw weekly active users and rankings drop post rebrand, but Twitter Lite installs grew](https://techcrunch.com/2023/08/28/x-saw-weekly-active-users-and-rankings-drop-post-rebrand-but-twitter-lite-installs-grew/)
-- [Splinter group officially launches OpenTF fork of HashiCorp Terraform](https://techcrunch.com/2023/08/28/splinter-group-officially-launches-opentf-fork-of-hashicorp-terraform/)
-- [India to launch solar observatory mission Aditya-L1 this week](https://techcrunch.com/2023/08/28/aditya-l1-launch-solar-observatory-mission/)
-- [Leadsales targets LatAm businesses with conversational commerce tool for WhatsApp](https://techcrunch.com/2023/08/28/whatsapp-leadsales-conversational-commerce/)
-- [Moxie raises $15.7M to make opening medspas easier](https://techcrunch.com/2023/08/28/moxie/)
+- [10 years at TechCrunch](https://techcrunch.com/2023/08/28/10-years-at-techcrunch/)
+- [Founders: See what TechCrunch Disrupt 2023 has in store for you](https://techcrunch.com/2023/08/28/founders-see-what-techcrunch-disrupt-2023-has-in-store-for-you/)
+- [Google Flights will now tell you when it’s the cheapest time to book](https://techcrunch.com/2023/08/28/google-flights-will-now-tell-you-when-its-the-cheapest-time-to-book/)
+- [IPOs are back and the Equity crew is feasting](https://techcrunch.com/2023/08/28/ipos-are-back-and-the-equity-crew-is-feasting/)
+- [DoorDash launches AI-powered voice ordering technology for restaurants](https://techcrunch.com/2023/08/28/doordash-launches-ai-powered-voice-ordering-technology-for-restaurants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
