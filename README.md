@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Disrupt 2023 Startup Battlefield 200: AI and Security edition](https://techcrunch.com/2023/08/29/techcrunch-disrupt-2023-startup-battlefield-200-ai-and-security-edition/)
+- [DeepMind partners with Google Cloud to watermark AI-generated images](https://techcrunch.com/2023/08/29/deepmind-partners-with-google-cloud-to-watermark-ai-generated-images/)
+- [NHTSA raises more concerns about Tesla’s Autopilot safety](https://techcrunch.com/2023/08/29/nhtsa-raises-more-concerns-about-teslas-autopilot-safety/)
+- [Starfish Space pulls Otter Pup servicing vehicle back from “the brink of death”](https://techcrunch.com/2023/08/29/starfish-space-pulls-otter-pup-servicing-vehicle-back-from-the-brink-of-death/)
 - [Meta shut down a disinformation campaign tied to Chinese law enforcement](https://techcrunch.com/2023/08/29/meta-shut-down-a-disinformation-campaign-tied-to-chinese-law-enforcement/)
-- [Bizarre super-puffy exoplanet hosts rare &#39;thermometer molecule&#39;](https://www.space.com/hot-jupiter-exoplanet-thermometer-molecule)
-- [Meta avatars are finally getting legs &lpar;in beta&rpar;](https://techcrunch.com/2023/08/29/meta-avatars-are-finally-getting-legs-in-beta/)
-- [Announcing the complete AI Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/29/announcing-the-complete-ai-stage-agenda-at-techcrunch-disrupt-2023/)
-- [Satellites capture Burning Man festival&#39;s fire from space &lpar;photos&rpar;](https://www.space.com/burning-man-festival-satellite-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
