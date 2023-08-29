@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Wars timeline: From the dawn of the Jedi to the New Jedi Order](https://www.space.com/star-wars-timeline)
 - [Byju’s says restructuring businesses](https://techcrunch.com/2023/08/29/byjus-says-restructuring-businesses/)
 - [WordPress is now selling 100-year domains](https://techcrunch.com/2023/08/28/wordpress-is-now-selling-100-year-domains/)
 - [Lightspeed backs Markato, a marketplace that helps independent brands break into Asia](https://techcrunch.com/2023/08/28/markato/)
 - [SEC settles first NFT enforcement case, fines LA media company $6M](https://techcrunch.com/2023/08/28/sec-settles-first-nft-enforcement-case-fines-la-media-company-6m/)
-- [MFast get backing from Wavemaker Partners to increase financial services access in Vietnam](https://techcrunch.com/2023/08/28/mfast/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
