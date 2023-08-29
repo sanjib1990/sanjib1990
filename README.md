@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [General Motors to use Google AI chatbot for its OnStar service](https://techcrunch.com/2023/08/29/general-motors-to-use-google-ai-chatbot-for-its-onstar-service/)
 - [TechCrunch Disrupt 2023 Startup Battlefield 200: AI and Security edition](https://techcrunch.com/2023/08/29/techcrunch-disrupt-2023-startup-battlefield-200-ai-and-security-edition/)
+- [Hackers shut down 2 of the world&#39;s most advanced telescopes](https://www.space.com/noirlab-gemini-north-south-telescopes-hacked-cybersecurity)
 - [DeepMind partners with Google Cloud to watermark AI-generated images](https://techcrunch.com/2023/08/29/deepmind-partners-with-google-cloud-to-watermark-ai-generated-images/)
 - [NHTSA raises more concerns about Tesla’s Autopilot safety](https://techcrunch.com/2023/08/29/nhtsa-raises-more-concerns-about-teslas-autopilot-safety/)
-- [Starfish Space pulls Otter Pup servicing vehicle back from “the brink of death”](https://techcrunch.com/2023/08/29/starfish-space-pulls-otter-pup-servicing-vehicle-back-from-the-brink-of-death/)
-- [Meta shut down a disinformation campaign tied to Chinese law enforcement](https://techcrunch.com/2023/08/29/meta-shut-down-a-disinformation-campaign-tied-to-chinese-law-enforcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
