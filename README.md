@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 founders explain what fusion power needs to go mainstream](https://techcrunch.com/2023/08/29/7-founders-explain-what-fusion-power-needs-to-go-mainstream/)
-- [Flojoy is bringing no-code Python testing to industrial instrumentation](https://techcrunch.com/2023/08/29/flojoy-is-bringing-no-code-python-testing-to-industrial-instrumentation/)
-- [Snapchat launches a new AI selfie feature called ‘Dreams’](https://techcrunch.com/2023/08/29/snapchat-launches-a-new-ai-selfie-feature-called-dreams/)
-- [YouTube is giving creators violating policies a way to wipe out their warnings](https://techcrunch.com/2023/08/29/youtube-is-giving-creators-violating-policies-a-way-to-wipe-out-their-warnings/)
-- [A change at TechCrunch](https://techcrunch.com/2023/08/29/a-change-at-techcrunch/)
+- [Gitai closes additional funding in advance of demo mission outside the ISS](https://techcrunch.com/2023/08/29/gitai-closes-additional-funding-in-advance-of-demo-mission-outside-the-iss/)
+- [Refiberd sews up $3.4M seed round to use its AI to tackle textile waste](https://techcrunch.com/2023/08/29/refiberd-textile-waste-sorting/)
+- [Google Photos now lets you sync your ‘Locked Folder’ private photos across devices](https://techcrunch.com/2023/08/29/google-photos-now-lets-you-sync-your-locked-folder-private-photos-across-devices/)
+- [TeamSense helps manufacturers keep in touch with deskless workers](https://techcrunch.com/2023/08/29/teamsense/)
+- [Spreads lets you share full screen panoramic photos to Instagram Threads](https://techcrunch.com/2023/08/29/spreads-lets-you-share-full-screen-panoramic-photos-to-instagram-threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
