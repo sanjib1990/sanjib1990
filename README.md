@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Byju’s says restructuring businesses](https://techcrunch.com/2023/08/29/byjus-says-restructuring-businesses/)
+- [WordPress is now selling 100-year domains](https://techcrunch.com/2023/08/28/wordpress-is-now-selling-100-year-domains/)
 - [Lightspeed backs Markato, a marketplace that helps independent brands break into Asia](https://techcrunch.com/2023/08/28/markato/)
 - [SEC settles first NFT enforcement case, fines LA media company $6M](https://techcrunch.com/2023/08/28/sec-settles-first-nft-enforcement-case-fines-la-media-company-6m/)
 - [MFast get backing from Wavemaker Partners to increase financial services access in Vietnam](https://techcrunch.com/2023/08/28/mfast/)
-- [Last call: Volunteer at TechCrunch Disrupt 2023 and earn a free pass](https://techcrunch.com/2023/08/28/last-call-volunteer-at-techcrunch-disrupt-2023-and-earn-a-free-pass/)
-- [Mercedes to open first charging hubs in Atlanta, China, Germany](https://techcrunch.com/2023/08/28/mercedes-to-open-first-charging-hubs-in-atlanta-china-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
