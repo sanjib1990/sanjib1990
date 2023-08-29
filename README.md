@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India to name Chandrayaan-3&#39;s moon landing site &#39;Shiv Shakti Point&#39;](https://www.space.com/india-chandrayaan-3-moon-landing-site-name)
+- [The rare Super Blue Moon rises on Aug. 30 and you can watch it online for free](https://www.space.com/super-blue-moon-august-2023-livestream)
 - [Star Wars timeline: From the dawn of the Jedi to the New Jedi Order](https://www.space.com/star-wars-timeline)
 - [Byju’s says restructuring businesses](https://techcrunch.com/2023/08/29/byjus-says-restructuring-businesses/)
 - [WordPress is now selling 100-year domains](https://techcrunch.com/2023/08/28/wordpress-is-now-selling-100-year-domains/)
-- [Lightspeed backs Markato, a marketplace that helps independent brands break into Asia](https://techcrunch.com/2023/08/28/markato/)
-- [SEC settles first NFT enforcement case, fines LA media company $6M](https://techcrunch.com/2023/08/28/sec-settles-first-nft-enforcement-case-fines-la-media-company-6m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
