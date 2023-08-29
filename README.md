@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FBI operation tricked thousands of computers infected by Qakbot into uninstalling the malware](https://techcrunch.com/2023/08/29/fbi-operation-qakbot-uninstall/)
-- [A social platform to map the way we think with Ida Josefiina from Sane](https://techcrunch.com/2023/08/29/a-social-platform-to-map-the-way-we-think-with-ida-josefiina-from-sane/)
-- [Max to stream AMC+ shows like ‘Fear the Walking Dead’ and ‘Killing Eve’ in new deal](https://techcrunch.com/2023/08/29/max-amc-shows-fear-the-walking-dead-and-killing-eve-wbd/)
-- [Twitterific’s Easter eggs find new life in retro-gaming app ‘Ollie’s Arcade’](https://techcrunch.com/2023/08/29/twitterifics-easter-eggs-find-new-life-in-retro-gaming-app-ollies-arcade/)
-- [Apple will announce the iPhone 15 on September 12](https://techcrunch.com/2023/08/29/apple-will-announce-the-iphone-15-on-september-12/)
+- [James Webb Space Telescope gazes into the Whirlpool galaxy&#39;s hypnotic spiral arms](https://www.space.com/james-webb-space-telescope-captures-vortex-whirlpool-galaxy)
+- [Satellites watch powerful Hurricanes Idalia and Franklin churn &lpar;video&rpar;](https://www.space.com/satellites-watch-hurricane-idalia-franklin-from-space)
+- [Twitch just made it a little easier to qualify for the Partner Plus program](https://techcrunch.com/2023/08/29/twitch-partner-plus-program-tiers-points/)
+- [As appeals court rules in favor of Grayscale, a bitcoin spot ETF could be on the horizon](https://techcrunch.com/2023/08/29/as-appeals-court-rules-in-favor-of-grayscale-a-bitcoin-spot-etf-could-be-on-the-horizon/)
+- [TechCrunch+ Roundup: SaaS+ basics, Labor Day book picks, building trust with AI customers](https://techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
