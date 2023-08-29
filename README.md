@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Eldercare robot ElliQ nabs another $25 million in funding](https://techcrunch.com/2023/08/29/eldercare-robot-elliq-nabs-another-25-million-in-funding/)
-- [Apollo.io, a full-stack sales tech platform, bags $100M at a $1.6B valuation](https://techcrunch.com/2023/08/29/apollo-io-a-full-stack-sales-tech-platform-bags-100m-at-a-1-6b-valuation/)
-- [4 ways to show customers they can trust your generative AI enterprise tool](https://techcrunch.com/2023/08/29/4-ways-to-show-customers-they-can-trust-your-generative-ai-enterprise-tool/)
-- [India to name Chandrayaan-3&#39;s moon landing site &#39;Shiv Shakti Point&#39;](https://www.space.com/india-chandrayaan-3-moon-landing-site-name)
-- [The rare Super Blue Moon rises on Aug. 30 and you can watch it online for free](https://www.space.com/super-blue-moon-august-2023-livestream)
+- [Amazon acquires Fig, a startup building autocomplete for the command line](https://techcrunch.com/2023/08/29/amazon-fig-command-line-terminal-generative-ai/)
+- [Google launches BigQuery Studio, a new way to work with data](https://techcrunch.com/2023/08/29/google-launches-bigquery-studio-a-new-way-to-work-with-data/)
+- [ControlRooms.ai raises $10M for industrial manufacturing troubleshooting platform](https://techcrunch.com/2023/08/29/controlrooms-ai-raises-10m-for-industrial-manufacturing-troubleshooting-platform/)
+- [Duet AI, Google’s AI assistant suite, expands across Google Cloud](https://techcrunch.com/2023/08/29/duet-ai-googles-ai-assistant-suite-expands-across-google-cloud/)
+- [Google Colab gains an enterprise tier](https://techcrunch.com/2023/08/29/google-colab-gains-an-enterprise-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
