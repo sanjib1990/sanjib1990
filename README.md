@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitterific’s Easter eggs find new life in retro-gaming app ‘Ollie’s Arcade’](https://techcrunch.com/2023/08/29/twitterifics-easter-eggs-find-new-life-in-retro-gaming-app-ollies-arcade/)
+- [Apple will announce the iPhone 15 on September 12](https://techcrunch.com/2023/08/29/apple-will-announce-the-iphone-15-on-september-12/)
+- [Explore the complete Fintech Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/29/explore-the-complete-fintech-stage-agenda-at-techcrunch-disrupt-2023/)
+- [The IPO drought was worse than you thought](https://techcrunch.com/2023/08/29/ipo-drought-2023/)
 - [Gitai closes additional funding in advance of demo mission outside the ISS](https://techcrunch.com/2023/08/29/gitai-closes-additional-funding-in-advance-of-demo-mission-outside-the-iss/)
-- [Refiberd sews up $3.4M seed round to use its AI to tackle textile waste](https://techcrunch.com/2023/08/29/refiberd-textile-waste-sorting/)
-- [Google Photos now lets you sync your ‘Locked Folder’ private photos across devices](https://techcrunch.com/2023/08/29/google-photos-now-lets-you-sync-your-locked-folder-private-photos-across-devices/)
-- [TeamSense helps manufacturers keep in touch with deskless workers](https://techcrunch.com/2023/08/29/teamsense/)
-- [Spreads lets you share full screen panoramic photos to Instagram Threads](https://techcrunch.com/2023/08/29/spreads-lets-you-share-full-screen-panoramic-photos-to-instagram-threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
