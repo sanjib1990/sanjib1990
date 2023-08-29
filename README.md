@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last call: Volunteer at TechCrunch Disrupt 2023 and earn a free pass](https://techcrunch.com/2023/08/28/last-call-volunteer-at-techcrunch-disrupt-2023-and-earn-a-free-pass/)
+- [Mercedes to open first charging hubs in Atlanta, China, Germany](https://techcrunch.com/2023/08/28/mercedes-to-open-first-charging-hubs-in-atlanta-china-germany/)
+- [Cruise is bringing its robotaxis to Seattle and Washington, DC](https://techcrunch.com/2023/08/28/cruise-is-bringing-its-robotaxis-to-seattle-and-washington-dc/)
 - [A new creator’s guild aims to protect online content creators](https://techcrunch.com/2023/08/28/creators-guild-america-influencer-labor-rights-nonprofit/)
 - [The CIA knows a lot about other nations&#39; space programs. You can too with its new &#39;World Factbook&#39; update](https://www.space.com/cia-factbook-world-space-programs)
-- [India to launch Aditya-L1, its 1st solar probe, on Sept. 2](https://www.space.com/india-launch-aditya-l1-first-solar-probe-sept-2)
-- [Astra’s Apollo Fusion acquisition followed by delays and desertion](https://techcrunch.com/2023/08/28/astras-apollo-fusion-acquisition-followed-by-delays-and-desertion/)
-- [James Webb Space Telescope and Hubble will help NASA&#39;s Juno probe study Jupiter&#39;s volcanic moon Io](https://www.space.com/james-webb-space-telescope-hubble-nasa-juno-jupiter-volcanic-moon-io)
 <!-- BLOG-POST-LIST:END -->
 
 ---
