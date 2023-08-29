@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lighter Capital raises $130M credit facility to ignite revenue-based financing for startups](https://techcrunch.com/2023/08/29/lighter-capital-130m-revenue-based-financing-startups/)
-- [Quantum Machines’ next-gen quantum control solution that can scale beyond 1,000 qubits](https://techcrunch.com/2023/08/29/quantum-machines-next-gen-quantum-control-solution-that-can-scale-beyond-1000-qubits/)
-- [MoonPay launches venture arm to invest in web3 infra, gaming and fintech](https://techcrunch.com/2023/08/29/moonpay-launches-venture-arm-to-invest-in-web3-infra-gaming-and-fintech/)
-- [Calm’s new Sleep Story is narrated by TikTok’s text-to-speech voice artist](https://techcrunch.com/2023/08/29/calms-new-sleep-story-is-narrated-by-tiktoks-text-to-speech-voice-artist/)
-- [German Bionic targets healthcare workers with new exosuit](https://techcrunch.com/2023/08/29/german-bionic-targets-healthcare-workers-with-new-exosuit/)
+- [7 founders explain what fusion power needs to go mainstream](https://techcrunch.com/2023/08/29/7-founders-explain-what-fusion-power-needs-to-go-mainstream/)
+- [Flojoy is bringing no-code Python testing to industrial instrumentation](https://techcrunch.com/2023/08/29/flojoy-is-bringing-no-code-python-testing-to-industrial-instrumentation/)
+- [Snapchat launches a new AI selfie feature called ‘Dreams’](https://techcrunch.com/2023/08/29/snapchat-launches-a-new-ai-selfie-feature-called-dreams/)
+- [YouTube is giving creators violating policies a way to wipe out their warnings](https://techcrunch.com/2023/08/29/youtube-is-giving-creators-violating-policies-a-way-to-wipe-out-their-warnings/)
+- [A change at TechCrunch](https://techcrunch.com/2023/08/29/a-change-at-techcrunch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
