@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bizarre super-puffy exoplanet hosts rare &#39;thermometer molecule&#39;](https://www.space.com/hot-jupiter-exoplanet-thermometer-molecule)
+- [Meta avatars are finally getting legs &lpar;in beta&rpar;](https://techcrunch.com/2023/08/29/meta-avatars-are-finally-getting-legs-in-beta/)
 - [Announcing the complete AI Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/29/announcing-the-complete-ai-stage-agenda-at-techcrunch-disrupt-2023/)
-- [James Webb Space Telescope gazes into the Whirlpool galaxy&#39;s hypnotic spiral arms](https://www.space.com/james-webb-space-telescope-captures-vortex-whirlpool-galaxy)
-- [Satellites watch powerful Hurricanes Idalia and Franklin churn &lpar;video&rpar;](https://www.space.com/satellites-watch-hurricane-idalia-franklin-from-space)
-- [Twitch just made it a little easier to qualify for the Partner Plus program](https://techcrunch.com/2023/08/29/twitch-partner-plus-program-tiers-points/)
-- [As appeals court rules in favor of Grayscale, a bitcoin spot ETF could be on the horizon](https://techcrunch.com/2023/08/29/as-appeals-court-rules-in-favor-of-grayscale-a-bitcoin-spot-etf-could-be-on-the-horizon/)
+- [Satellites capture Burning Man festival&#39;s fire from space &lpar;photos&rpar;](https://www.space.com/burning-man-festival-satellite-photos)
+- [James Webb Space Telescope gazes into the Whirlpool galaxy&#39;s hypnotic spiral arms &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-captures-vortex-whirlpool-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
