@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI operation tricked thousands of computers infected by Qakbot into uninstalling the malware](https://techcrunch.com/2023/08/29/fbi-operation-qakbot-uninstall/)
+- [A social platform to map the way we think with Ida Josefiina from Sane](https://techcrunch.com/2023/08/29/a-social-platform-to-map-the-way-we-think-with-ida-josefiina-from-sane/)
+- [Max to stream AMC+ shows like ‘Fear the Walking Dead’ and ‘Killing Eve’ in new deal](https://techcrunch.com/2023/08/29/max-amc-shows-fear-the-walking-dead-and-killing-eve-wbd/)
 - [Twitterific’s Easter eggs find new life in retro-gaming app ‘Ollie’s Arcade’](https://techcrunch.com/2023/08/29/twitterifics-easter-eggs-find-new-life-in-retro-gaming-app-ollies-arcade/)
 - [Apple will announce the iPhone 15 on September 12](https://techcrunch.com/2023/08/29/apple-will-announce-the-iphone-15-on-september-12/)
-- [Explore the complete Fintech Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/29/explore-the-complete-fintech-stage-agenda-at-techcrunch-disrupt-2023/)
-- [The IPO drought was worse than you thought](https://techcrunch.com/2023/08/29/ipo-drought-2023/)
-- [Gitai closes additional funding in advance of demo mission outside the ISS](https://techcrunch.com/2023/08/29/gitai-closes-additional-funding-in-advance-of-demo-mission-outside-the-iss/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
