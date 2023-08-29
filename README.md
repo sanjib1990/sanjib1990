@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon acquires Fig, a startup building autocomplete for the command line](https://techcrunch.com/2023/08/29/amazon-fig-command-line-terminal-generative-ai/)
-- [Google launches BigQuery Studio, a new way to work with data](https://techcrunch.com/2023/08/29/google-launches-bigquery-studio-a-new-way-to-work-with-data/)
-- [ControlRooms.ai raises $10M for industrial manufacturing troubleshooting platform](https://techcrunch.com/2023/08/29/controlrooms-ai-raises-10m-for-industrial-manufacturing-troubleshooting-platform/)
-- [Duet AI, Google’s AI assistant suite, expands across Google Cloud](https://techcrunch.com/2023/08/29/duet-ai-googles-ai-assistant-suite-expands-across-google-cloud/)
-- [Google Colab gains an enterprise tier](https://techcrunch.com/2023/08/29/google-colab-gains-an-enterprise-tier/)
+- [Lighter Capital raises $130M credit facility to ignite revenue-based financing for startups](https://techcrunch.com/2023/08/29/lighter-capital-130m-revenue-based-financing-startups/)
+- [Quantum Machines’ next-gen quantum control solution that can scale beyond 1,000 qubits](https://techcrunch.com/2023/08/29/quantum-machines-next-gen-quantum-control-solution-that-can-scale-beyond-1000-qubits/)
+- [MoonPay launches venture arm to invest in web3 infra, gaming and fintech](https://techcrunch.com/2023/08/29/moonpay-launches-venture-arm-to-invest-in-web3-infra-gaming-and-fintech/)
+- [Calm’s new Sleep Story is narrated by TikTok’s text-to-speech voice artist](https://techcrunch.com/2023/08/29/calms-new-sleep-story-is-narrated-by-tiktoks-text-to-speech-voice-artist/)
+- [German Bionic targets healthcare workers with new exosuit](https://techcrunch.com/2023/08/29/german-bionic-targets-healthcare-workers-with-new-exosuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
