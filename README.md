@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative AI startup AI21 Labs lands $155M at a $1.4B valuation](https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/)
+- [That 30-slide deck won’t cut it anymore](https://techcrunch.com/2023/08/30/pitch-deck-slide-suggestions/)
+- [See more gorgeous photos of SpaceX&#39;s Starship engine test](https://www.space.com/spacex-starship-static-fire-test-photos-august-2023)
 - [Substack introduces new AI-powered audio transcription tools](https://techcrunch.com/2023/08/30/substack-introduces-new-ai-powered-audio-transcription-tools/)
 - [Screenly makes it easier to build interactive apps for its digital signage platform](https://techcrunch.com/2023/08/30/screenly-makes-it-easier-to-build-interactive-apps-for-its-digital-signage-platform/)
-- [Hurricane Idalia slams into Florida as astronauts and satellites track it from space &lpar;video, photos&rpar;](https://www.space.com/hurricane-idalia-florida-landfall-satellite-astronaut-photos)
-- [Ask Sophie: What’s the wait time for EB-2 and EB-1 green card categories for those born in India?](https://techcrunch.com/2023/08/30/ask-sophie-whats-the-wait-time-for-eb-2-and-eb-1-green-card-categories-for-those-born-in-india/)
-- [Firefly and Millennium enter “hot standby phase” for high-stakes Space Force mission](https://techcrunch.com/2023/08/30/firefly-and-millenium-enter-hot-standby-phase-for-high-stakes-space-force-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
