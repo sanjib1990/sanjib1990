@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With Beijing’s greenlight, mobility unicorns Zeekr and WeRide inch closer to US IPOs](https://techcrunch.com/2023/08/30/with-beijings-greenlight-mobility-unicorns-zeekr-and-weride-inch-closer-to-us-ipos/)
-- [Google discontinues its Pixel Pass subscription, which combined phones and services](https://techcrunch.com/2023/08/30/google-discontinues-its-pixel-pass-service-which-combined-phones-and-services/)
-- [PhonePe dives into stock and mutual fund arena](https://techcrunch.com/2023/08/29/phonepe-dives-into-stock-and-mutual-fund-arena/)
-- [General Motors to use Google AI chatbot for its OnStar service](https://techcrunch.com/2023/08/29/general-motors-to-use-google-ai-chatbot-for-its-onstar-service/)
-- [TechCrunch Disrupt 2023 Startup Battlefield 200: AI and Security edition](https://techcrunch.com/2023/08/29/techcrunch-disrupt-2023-startup-battlefield-200-ai-and-security-edition/)
+- [Voxel uses computer vision to increase workplace safety](https://techcrunch.com/2023/08/30/voxel/)
+- [Praso bags $9.3M, acquires Floki’s IP to simplify food purchasing for Brazilian retailers](https://techcrunch.com/2023/08/30/praso-9-3m-floki-food-purchasing-brazil-restaurant/)
+- [Longevity loving Fairphone 5 unwrapped, with pledge of 8+ years software support](https://techcrunch.com/2023/08/30/longevity-loving-fairphone-5-unwrapped-with-pledge-of-8-years-software-support/)
+- [Hyperproof, a compliance and risk management startup, raises $40M](https://techcrunch.com/2023/08/30/hyperproof-compliance-startup-raises-40m/)
+- [NASA discussing September arrival of OSIRIS-REx asteroid sample: Watch live today](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
