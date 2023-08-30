@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A ‘people-first’ view of the AI economy](https://techcrunch.com/2023/08/30/a-people-first-view-of-the-ai-economy/)
+- [Old Soviet satellite breaks apart in orbit after space debris collision](https://www.space.com/soviet-satellite-breaks-apart-after-debris-strike)
+- [Instagram is internally testing the ability to create Reels up to 10 minutes long](https://techcrunch.com/2023/08/30/instagram-is-internally-testing-the-ability-to-create-reels-up-to-10-minutes-long/)
 - [ChatGPT-maker OpenAI accused of string of data protection breaches in GDPR complaint filed by privacy researcher](https://techcrunch.com/2023/08/30/chatgpt-maker-openai-accused-of-string-of-data-protection-breaches-in-gdpr-complaint-filed-by-privacy-researcher/)
 - [Google’s Pixel 8 event set for October 4](https://techcrunch.com/2023/08/30/googles-pixel-8-event-set-for-october-4/)
-- [India&#39;s Chandrayaan-3 moon rover Pragyan snaps 1st photo of its lander near the lunar south pole](https://www.space.com/chandrayaan-3-pragyan-rover-takes-vikram-photo)
-- [Betaworks goes all-in on augmentative AI in latest camp cohort: ‘We’re rabidly interested’](https://techcrunch.com/2023/08/30/betaworks-goes-all-in-on-augmentative-ai-in-latest-camp-cohort-were-rabidly-interested/)
-- [&#39;Astroneer&#39; lead designer explains why the sandbox sci-fi game remains so relevant &lpar;exclusive&rpar;](https://www.space.com/astroneer-sci-fi-lead-designer-exclusive-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
