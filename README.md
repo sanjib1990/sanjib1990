@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Betaworks goes all-in on augmentative AI in latest camp cohort: ‘We’re rabidly interested’](https://techcrunch.com/2023/08/30/betaworks-goes-all-in-on-augmentative-ai-in-latest-camp-cohort-were-rabidly-interested/)
+- [&#39;Astroneer&#39; lead designer explains why the sandbox sci-fi game remains so relevant &lpar;exclusive&rpar;](https://www.space.com/astroneer-sci-fi-lead-designer-exclusive-interview)
 - [Google Assistant and Alexa finally play nicely together — but only on one speaker lineup](https://techcrunch.com/2023/08/30/google-assistant-and-alexa-finally-play-nicely-together-but-only-on-one-speaker-lineup/)
 - [Steve Blank: AI will revolutionize the ‘lean startup’](https://techcrunch.com/2023/08/30/artificial-intelligence-lean-startups/)
 - [Scorching Neptune-size world is way too massive for astronomers to explain](https://www.space.com/scorching-neptune-size-world-super-massive)
-- [Dunzo, backed by Reliance and Google, delays employee salaries again](https://techcrunch.com/2023/08/30/dunzo-backed-by-reliance-and-google-delays-employee-salaries-again/)
-- [Google’s Duet AI can now write your emails for you](https://techcrunch.com/2023/08/30/googles-duet-ai-can-now-write-your-emails-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
