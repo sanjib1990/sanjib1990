@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Voxel uses computer vision to increase workplace safety](https://techcrunch.com/2023/08/30/voxel/)
-- [Praso bags $9.3M, acquires Floki’s IP to simplify food purchasing for Brazilian retailers](https://techcrunch.com/2023/08/30/praso-9-3m-floki-food-purchasing-brazil-restaurant/)
-- [Longevity loving Fairphone 5 unwrapped, with pledge of 8+ years software support](https://techcrunch.com/2023/08/30/longevity-loving-fairphone-5-unwrapped-with-pledge-of-8-years-software-support/)
-- [Hyperproof, a compliance and risk management startup, raises $40M](https://techcrunch.com/2023/08/30/hyperproof-compliance-startup-raises-40m/)
-- [NASA discussing September arrival of OSIRIS-REx asteroid sample: Watch live today](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-preview)
+- [Why PE firm Alitheia is banking on women in Africa](https://techcrunch.com/2023/08/30/alitheia-for-women/)
+- [In Threads’ dwindling engagement, social media’s flawed hypothesis is laid bare](https://techcrunch.com/2023/08/30/in-threads-dwindling-engagement-social-medias-flawed-hypothesis-is-laid-bare/)
+- [Venmo lets you gift money to your loved ones with special Hallmark greeting cards](https://techcrunch.com/2023/08/30/venmo-lets-you-gift-money-to-your-loved-ones-with-special-hallmark-greeting-cards/)
+- [Dead &#39;vampire&#39; star is feeding on a companion and firing out cosmic cannonballs](https://www.space.com/dead-vampire-star-feeding-companion-firing-cosmic-cannonballs)
+- [Everything we know about Avatar: Frontiers of Pandora](https://www.space.com/everything-we-know-about-avatar-frontiers-of-pandora)
 <!-- BLOG-POST-LIST:END -->
 
 ---
