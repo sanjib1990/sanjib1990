@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Savor the complete SaaS Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/30/savor-the-complete-saas-stage-agenda-at-techcrunch-disrupt-2023/)
-- [A ‘people-first’ view of the AI economy](https://techcrunch.com/2023/08/30/a-people-first-view-of-the-ai-economy/)
-- [Old Soviet satellite breaks apart in orbit after space debris collision](https://www.space.com/soviet-satellite-breaks-apart-after-debris-strike)
-- [Instagram is internally testing the ability to create Reels up to 10 minutes long](https://techcrunch.com/2023/08/30/instagram-is-internally-testing-the-ability-to-create-reels-up-to-10-minutes-long/)
-- [ChatGPT-maker OpenAI accused of string of data protection breaches in GDPR complaint filed by privacy researcher](https://techcrunch.com/2023/08/30/chatgpt-maker-openai-accused-of-string-of-data-protection-breaches-in-gdpr-complaint-filed-by-privacy-researcher/)
+- [Substack introduces new AI-powered audio transcription tools](https://techcrunch.com/2023/08/30/substack-introduces-new-ai-powered-audio-transcription-tools/)
+- [Screenly makes it easier to build interactive apps for its digital signage platform](https://techcrunch.com/2023/08/30/screenly-makes-it-easier-to-build-interactive-apps-for-its-digital-signage-platform/)
+- [Hurricane Idalia slams into Florida as astronauts and satellites track it from space &lpar;video, photos&rpar;](https://www.space.com/hurricane-idalia-florida-landfall-satellite-astronaut-photos)
+- [Ask Sophie: What’s the wait time for EB-2 and EB-1 green card categories for those born in India?](https://techcrunch.com/2023/08/30/ask-sophie-whats-the-wait-time-for-eb-2-and-eb-1-green-card-categories-for-those-born-in-india/)
+- [Firefly and Millennium enter “hot standby phase” for high-stakes Space Force mission](https://techcrunch.com/2023/08/30/firefly-and-millenium-enter-hot-standby-phase-for-high-stakes-space-force-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
