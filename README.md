@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starz is lowering the price of its annual subscription](https://techcrunch.com/2023/08/30/starz-is-lowering-the-price-of-its-annual-subscription/)
-- [The difference between good and great founders](https://techcrunch.com/2023/08/30/the-difference-between-good-and-great-founders/)
-- [Context.ai wants to merge product analytics sensibilities with LLMs](https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/)
-- [Gremlin can now automatically find common reliability issues](https://techcrunch.com/2023/08/30/gremlin-can-now-automatically-find-common-reliability-issues/)
-- [Announcing the complete Hardware Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/30/announcing-the-complete-hardware-stage-agenda-at-techcrunch-disrupt-2023/)
+- [Google Assistant and Alexa finally play nicely together — but only on one speaker lineup](https://techcrunch.com/2023/08/30/google-assistant-and-alexa-finally-play-nicely-together-but-only-on-one-speaker-lineup/)
+- [Steve Blank: AI will revolutionize the ‘lean startup’](https://techcrunch.com/2023/08/30/artificial-intelligence-lean-startups/)
+- [Scorching Neptune-size world is way too massive for astronomers to explain](https://www.space.com/scorching-neptune-size-world-super-massive)
+- [Dunzo, backed by Reliance and Google, delays employee salaries again](https://techcrunch.com/2023/08/30/dunzo-backed-by-reliance-and-google-delays-employee-salaries-again/)
+- [Google’s Duet AI can now write your emails for you](https://techcrunch.com/2023/08/30/googles-duet-ai-can-now-write-your-emails-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
