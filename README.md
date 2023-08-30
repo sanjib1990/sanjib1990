@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Savor the complete SaaS Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/30/savor-the-complete-saas-stage-agenda-at-techcrunch-disrupt-2023/)
 - [A ‘people-first’ view of the AI economy](https://techcrunch.com/2023/08/30/a-people-first-view-of-the-ai-economy/)
 - [Old Soviet satellite breaks apart in orbit after space debris collision](https://www.space.com/soviet-satellite-breaks-apart-after-debris-strike)
 - [Instagram is internally testing the ability to create Reels up to 10 minutes long](https://techcrunch.com/2023/08/30/instagram-is-internally-testing-the-ability-to-create-reels-up-to-10-minutes-long/)
 - [ChatGPT-maker OpenAI accused of string of data protection breaches in GDPR complaint filed by privacy researcher](https://techcrunch.com/2023/08/30/chatgpt-maker-openai-accused-of-string-of-data-protection-breaches-in-gdpr-complaint-filed-by-privacy-researcher/)
-- [Google’s Pixel 8 event set for October 4](https://techcrunch.com/2023/08/30/googles-pixel-8-event-set-for-october-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
