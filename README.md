@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Accel-backed Agave lets construction software talk to one another](https://techcrunch.com/2023/08/30/agave/)
-- [QuantHealth brings its AI-informed clinical drug trials to the US with $15M round](https://techcrunch.com/2023/08/30/quanthealth-brings-its-ai-informed-clinical-drug-trials-to-the-us-with-15m-round/)
-- [See Saturn snuggle up to the Super Blue Moon in the night sky tonight](https://www.space.com/saturn-super-blue-moon-august-2023)
-- [Ahsoka season 1 episode 3 review: Democratizing the Force](https://www.space.com/ahsoka-season-1-episode-3-review)
-- [Why PE firm Alitheia is banking on women in Africa](https://techcrunch.com/2023/08/30/alitheia-for-women/)
+- [Starz is lowering the price of its annual subscription](https://techcrunch.com/2023/08/30/starz-is-lowering-the-price-of-its-annual-subscription/)
+- [The difference between good and great founders](https://techcrunch.com/2023/08/30/the-difference-between-good-and-great-founders/)
+- [Context.ai wants to merge product analytics sensibilities with LLMs](https://techcrunch.com/2023/08/30/context-ai-is-merging-product-analytics-sensibilities-with-llms/)
+- [Gremlin can now automatically find common reliability issues](https://techcrunch.com/2023/08/30/gremlin-can-now-automatically-find-common-reliability-issues/)
+- [Announcing the complete Hardware Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/30/announcing-the-complete-hardware-stage-agenda-at-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
