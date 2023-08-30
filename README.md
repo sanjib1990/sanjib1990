@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel-backed Agave lets construction software talk to one another](https://techcrunch.com/2023/08/30/agave/)
+- [QuantHealth brings its AI-informed clinical drug trials to the US with $15M round](https://techcrunch.com/2023/08/30/quanthealth-brings-its-ai-informed-clinical-drug-trials-to-the-us-with-15m-round/)
+- [See Saturn snuggle up to the Super Blue Moon in the night sky tonight](https://www.space.com/saturn-super-blue-moon-august-2023)
+- [Ahsoka season 1 episode 3 review: Democratizing the Force](https://www.space.com/ahsoka-season-1-episode-3-review)
 - [Why PE firm Alitheia is banking on women in Africa](https://techcrunch.com/2023/08/30/alitheia-for-women/)
-- [In Threads’ dwindling engagement, social media’s flawed hypothesis is laid bare](https://techcrunch.com/2023/08/30/in-threads-dwindling-engagement-social-medias-flawed-hypothesis-is-laid-bare/)
-- [Venmo lets you gift money to your loved ones with special Hallmark greeting cards](https://techcrunch.com/2023/08/30/venmo-lets-you-gift-money-to-your-loved-ones-with-special-hallmark-greeting-cards/)
-- [Dead &#39;vampire&#39; star is feeding on a companion and firing out cosmic cannonballs](https://www.space.com/dead-vampire-star-feeding-companion-firing-cosmic-cannonballs)
-- [Everything we know about Avatar: Frontiers of Pandora](https://www.space.com/everything-we-know-about-avatar-frontiers-of-pandora)
 <!-- BLOG-POST-LIST:END -->
 
 ---
