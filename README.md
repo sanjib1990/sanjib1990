@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anker introduces some clever new travel chargers](https://techcrunch.com/2023/08/31/anker-introduces-some-clever-new-travel-chargers/)
+- [Ivy raises $20M to take open-banking payments international](https://techcrunch.com/2023/08/31/ivy-raises-20m-to-take-open-banking-payments-international/)
 - [X, formerly Twitter, is now letting paid users hide their likes](https://techcrunch.com/2023/08/31/x-formerly-twitter-is-now-letting-paid-users-hide-their-likes/)
 - [Garena relaunches Free Fire in India a year after ban](https://techcrunch.com/2023/08/30/garena-relaunches-free-fire-in-india-a-year-after-ban/)
 - [Fitbit targeted with trio of data transfer complaints in Europe](https://techcrunch.com/2023/08/30/fitbit-gdpr-data-transfer-complaints-noyb/)
-- [Teale, your mental health companion at work, raises $11 million](https://techcrunch.com/2023/08/30/teale-your-mental-health-companion-at-work-raises-11-million/)
-- [Feds investigate Tesla’s use of funds for secret ‘glass house’ project](https://techcrunch.com/2023/08/30/feds-investigate-teslas-use-of-funds-for-secret-glass-house-project-elon-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
