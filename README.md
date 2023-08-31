@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone camera app Obscura releases a new version with iPad support](https://techcrunch.com/2023/08/31/iphone-camera-app-obscura-releases-a-new-version-with-ipad-support/)
+- [UK gov’t urged against delay in setting AI rulebook as MPs warn policymakers aren’t keeping up with tech](https://techcrunch.com/2023/08/31/uk-ai-governance-committee-report/)
 - [OpenAI-backed language learning app Speak raises $16M to expand to the U.S.](https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/)
 - [Watch SpaceX launch 13 satellites for the US Space Force today](https://www.space.com/spacex-launch-space-force-second-tranche-0-mission)
 - [Martian Lawyers Club raises $2.2M for AI-based game personalization tech](https://techcrunch.com/2023/08/31/martian-lawyers-club-raises-2-2m-for-ai-based-game-personalization-tech/)
-- [Clues to spotting life on Mars are right here on Earth](https://www.space.com/search-for-life-mars-aided-by-investigating-fossils-earth)
-- [Chinese users can finally try their homegrown ChatGPT equivalents](https://techcrunch.com/2023/08/31/chinese-users-can-finally-try-their-homegrown-chatgpt-equivalents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
