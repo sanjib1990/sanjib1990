@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [All products are garbage, and for good reason](https://techcrunch.com/2023/08/31/if-it-breaks-you-have-to-buy-more/)
-- [Embrace these FinOps best practices to ace your cloud strategy](https://techcrunch.com/2023/08/31/best-practices-for-cloud-finops/)
-- [Black astronauts celebrate ISS, Artemis 2 moon missions while reflecting on history](https://www.space.com/black-astronauts-celebrate-history-artemis-2-iss-missions)
-- [Threads’ web launch did little to bring in more users, new data suggests](https://techcrunch.com/2023/08/31/threads-web-launch-did-little-to-bring-in-more-users-new-data-suggests/)
-- [Grayscale’s legal head says bitcoin spot ETF approval is a ‘matter of when, not if’](https://techcrunch.com/2023/08/31/grayscales-legal-head-says-bitcoin-spot-etf-approval-is-a-matter-of-when-not-if/)
+- [X plans to collect users’ biometric data, along with education and job history](https://techcrunch.com/2023/08/31/x-plans-to-collect-users-biometric-data-along-with-education-and-job-history/)
+- [Forever 21 data breach affects half a million people](https://techcrunch.com/2023/08/31/forever-21-data-breach-half-million/)
+- [Google Play Points to gain rewards for Walmart+, Instacart and Discord](https://techcrunch.com/2023/08/31/google-play-points-add-rewards-for-walmart-instacart-and-discord/)
+- [OpenAI angles to put ChatGPT in classrooms with special tutor prompts](https://techcrunch.com/2023/08/31/openai-angles-to-put-chatgpt-in-classrooms-with-special-tutor-prompts/)
+- [Bumble changes its policy to crack down on bots, ghosting, and doxing](https://techcrunch.com/2023/08/31/bumble-changes-its-policy-to-crack-down-on-bots-ghosting-and-doxing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
