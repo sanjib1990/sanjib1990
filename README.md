@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon inks logistics deal with India’s post and railway services, announces SMB generative AI tool](https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/)
-- [Y Combinator removes Indian startup from batch over ‘irregularities’](https://techcrunch.com/2023/08/31/y-combinator-boots-indian-startup-over-irregularities/)
-- [Anker introduces some clever new travel chargers](https://techcrunch.com/2023/08/31/anker-introduces-some-clever-new-travel-chargers/)
-- [Ivy raises $20M to take open-banking payments international](https://techcrunch.com/2023/08/31/ivy-raises-20m-to-take-open-banking-payments-international/)
-- [X, formerly Twitter, is now letting paid users hide their likes](https://techcrunch.com/2023/08/31/x-formerly-twitter-is-now-letting-paid-users-hide-their-likes/)
+- [OpenAI-backed language learning app Speak raises $16M to expand to the U.S.](https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/)
+- [Watch SpaceX launch 13 satellites for the US Space Force today](https://www.space.com/spacex-launch-space-force-second-tranche-0-mission)
+- [Martian Lawyers Club raises $2.2M for AI-based game personalization tech](https://techcrunch.com/2023/08/31/martian-lawyers-club-raises-2-2m-for-ai-based-game-personalization-tech/)
+- [Clues to spotting life on Mars are right here on Earth](https://www.space.com/search-for-life-mars-aided-by-investigating-fossils-earth)
+- [Chinese users can finally try their homegrown ChatGPT equivalents](https://techcrunch.com/2023/08/31/chinese-users-can-finally-try-their-homegrown-chatgpt-equivalents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
