@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Veterinary software company TeleVet rebrands as Otto amid $43M in fresh funding](https://techcrunch.com/2023/08/31/televet-veterinary-software-otto/)
-- [Sun launches surprise blob of plasma at Mars, could trigger eerie Martian auroras](https://www.space.com/sun-launches-plasma-mars-auroras)
-- [See the complete Sustainability Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/31/see-the-complete-sustainability-stage-agenda-at-techcrunch-disrupt-2023/)
-- [Meta releases a data set to probe computer vision models for biases](https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/)
-- [AI-powered BeFake is a real app, not a BeReal parody…and it has $3M in funding](https://techcrunch.com/2023/08/31/ai-powered-befake-is-a-real-app-not-a-bereal-parody-and-it-has-3m-in-funding/)
+- [This startup wants to help landlords rethink risk when screening potential tenants](https://techcrunch.com/2023/08/31/startup-rent-butter-wants-to-help-give-landlords-a-more-equitable-way-to-screen-potential-tenants/)
+- [Annular solar eclipse 2023: How to watch Oct. 14 &#39;ring of fire&#39; in person and online](https://www.space.com/how-to-watch-annular-solar-eclipse-ring-of-fire-october-14)
+- [Floworks is building an AI assistant to change how workers interact with software](https://techcrunch.com/2023/08/31/floworks-is-building-an-ai-assistant-to-change-how-workers-use-software/)
+- [This gamma-ray space mystery may finally be solved with new black hole simulations](https://www.space.com/gamma-ray-origin-black-hole-neutron-star-collision)
+- [In a surprise tie-up, Shopify merchants will be able to offer Amazon’s ‘Buy with Prime’ option](https://techcrunch.com/2023/08/31/in-a-surprise-tie-up-shopify-merchants-will-be-able-to-offer-amazons-buy-with-prime-option/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
