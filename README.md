@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VanMoof makes a move: Lavoie acquires the e-bike startup out of bankruptcy and plans to relaunch it](https://techcrunch.com/2023/08/31/vanmoof-makes-a-move-lavoie-acquires-the-e-bike-startup-out-of-bankruptcy-and-plans-to-relaunch-it/)
-- [Will the power of data in the AI era leave startups at a disadvantage?](https://techcrunch.com/2023/08/31/will-the-power-of-data-in-the-ai-era-leave-startups-at-a-disadvantage/)
-- [NASA&#39;s exoplanet hunter TESS spots warm Jupiter with longest known year](https://www.space.com/nasa-tess-exoplanet-warm-jupiter-long-day)
-- [Malwarebytes lays off 100 employees ahead of business split](https://techcrunch.com/2023/08/31/malwarebytes-layoffs-business-split/)
-- [TikTok’s ‘Effect House’ AR development platform exits beta](https://techcrunch.com/2023/08/31/tiktoks-effect-house-ar-development-platform-exits-beta/)
+- [Starfield review: Guns and ships galore, but a vacuum of wonder](https://techcrunch.com/2023/08/31/starfield-review-guns-and-ships-galore-but-a-vacuum-of-wonder/)
+- [Reed Jobs will discuss his new venture firm at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/31/reed-jobs-will-discuss-his-new-venture-firm-at-techcrunch-disrupt-2023/)
+- [Withings’ ScanWatch 2 arrives with a temperature sensing](https://techcrunch.com/2023/08/31/withings-launches-the-scanwatch-2-with-a-temperature-sensing-module/)
+- [Get ready for the epic &#39;ring of fire&#39; annular solar eclipse of October 2023 with this epic NASA trailer &lpar;video&rpar;](https://www.space.com/nasa-trailer-ring-of-fire-solar-eclipse)
+- [Drift through space with a dreamy track from &#39;Starfield&#39;s&#39; original score by composer Inon Zur &lpar;exclusive&rpar;](https://www.space.com/starfield-track-inon-zur-soundtrack-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
