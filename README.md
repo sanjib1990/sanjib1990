@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon inks logistics deal with India’s post and railway services, announces SMB generative AI tool](https://techcrunch.com/2023/08/31/amazon-india-post-railways-generative-ai/)
+- [Y Combinator removes Indian startup from batch over ‘irregularities’](https://techcrunch.com/2023/08/31/y-combinator-boots-indian-startup-over-irregularities/)
 - [Anker introduces some clever new travel chargers](https://techcrunch.com/2023/08/31/anker-introduces-some-clever-new-travel-chargers/)
 - [Ivy raises $20M to take open-banking payments international](https://techcrunch.com/2023/08/31/ivy-raises-20m-to-take-open-banking-payments-international/)
 - [X, formerly Twitter, is now letting paid users hide their likes](https://techcrunch.com/2023/08/31/x-formerly-twitter-is-now-letting-paid-users-hide-their-likes/)
-- [Garena relaunches Free Fire in India a year after ban](https://techcrunch.com/2023/08/30/garena-relaunches-free-fire-in-india-a-year-after-ban/)
-- [Fitbit targeted with trio of data transfer complaints in Europe](https://techcrunch.com/2023/08/30/fitbit-gdpr-data-transfer-complaints-noyb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
