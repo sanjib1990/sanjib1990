@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This startup wants to help landlords rethink risk when screening potential tenants](https://techcrunch.com/2023/08/31/startup-rent-butter-wants-to-help-give-landlords-a-more-equitable-way-to-screen-potential-tenants/)
-- [Annular solar eclipse 2023: How to watch Oct. 14 &#39;ring of fire&#39; in person and online](https://www.space.com/how-to-watch-annular-solar-eclipse-ring-of-fire-october-14)
-- [Floworks is building an AI assistant to change how workers interact with software](https://techcrunch.com/2023/08/31/floworks-is-building-an-ai-assistant-to-change-how-workers-use-software/)
-- [This gamma-ray space mystery may finally be solved with new black hole simulations](https://www.space.com/gamma-ray-origin-black-hole-neutron-star-collision)
-- [In a surprise tie-up, Shopify merchants will be able to offer Amazon’s ‘Buy with Prime’ option](https://techcrunch.com/2023/08/31/in-a-surprise-tie-up-shopify-merchants-will-be-able-to-offer-amazons-buy-with-prime-option/)
+- [VanMoof makes a move: Lavoie acquires the e-bike startup out of bankruptcy and plans to relaunch it](https://techcrunch.com/2023/08/31/vanmoof-makes-a-move-lavoie-acquires-the-e-bike-startup-out-of-bankruptcy-and-plans-to-relaunch-it/)
+- [Will the power of data in the AI era leave startups at a disadvantage?](https://techcrunch.com/2023/08/31/will-the-power-of-data-in-the-ai-era-leave-startups-at-a-disadvantage/)
+- [NASA&#39;s exoplanet hunter TESS spots warm Jupiter with longest known year](https://www.space.com/nasa-tess-exoplanet-warm-jupiter-long-day)
+- [Malwarebytes lays off 100 employees ahead of business split](https://techcrunch.com/2023/08/31/malwarebytes-layoffs-business-split/)
+- [TikTok’s ‘Effect House’ AR development platform exits beta](https://techcrunch.com/2023/08/31/tiktoks-effect-house-ar-development-platform-exits-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
