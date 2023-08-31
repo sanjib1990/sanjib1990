@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Biden offers $15.5B to boost battery and EV manufacturing](https://techcrunch.com/2023/08/31/biden-offers-15-5b-to-boost-battery-and-ev-manufacturing/)
+- [Robotics sales decline for second straight quarter amid economic woes](https://techcrunch.com/2023/08/31/robotics-sales-decline-for-second-straight-quarter-amid-economic-woes/)
 - [NASA moon orbiter spots crash site of Russia&#39;s failed Luna-25 lander &lpar;photos&rpar;](https://www.space.com/russia-luna-25-moon-crash-site-lro-photos)
 - [Texas cannot yet enforce ID checks on porn sites](https://techcrunch.com/2023/08/31/texas-cannot-yet-enforce-id-checks-on-porn-sites/)
 - [Watch SpaceX launch 22 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-13)
-- [Grayscale wins lawsuit against SEC, while the agency settles first NFT case and Friend.tech hype crashes](https://techcrunch.com/2023/08/31/grayscale-wins-lawsuit-against-sec-while-the-agency-settles-first-nft-case-and-friend-tech-hype-crashes/)
-- [Lowering costs nets Salesforce a profitable quarter, but can it keep it up?](https://techcrunch.com/2023/08/31/salesforce-slowing-acquisitions-profitability-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
