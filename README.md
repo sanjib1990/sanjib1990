@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A blue supermoon and soaring ocean temperatures created a perfect storm for Hurricane Idalia](https://www.space.com/blue-supermoon-ocean-temps-hurricane-idalia-storm)
+- [The fall of Babylon: failed tele-health startup once valued at nearly $2B goes bankrupt and sold for parts](https://techcrunch.com/2023/08/31/the-fall-of-babylon-failed-tele-health-startup-once-valued-at-nearly-2b-goes-bankrupt-and-sold-for-parts/)
+- [Microsoft unbundles Teams from Microsoft Office in Europe to appease regulators](https://techcrunch.com/2023/08/31/microsoft-office-teams-europe-unbundle/)
 - [iPhone camera app Obscura releases a new version with iPad support](https://techcrunch.com/2023/08/31/iphone-camera-app-obscura-releases-a-new-version-with-ipad-support/)
-- [UK gov’t urged against delay in setting AI rulebook as MPs warn policymakers aren’t keeping up with tech](https://techcrunch.com/2023/08/31/uk-ai-governance-committee-report/)
-- [OpenAI-backed language learning app Speak raises $16M to expand to the U.S.](https://techcrunch.com/2023/08/31/openai-backed-language-learning-app-speak-raises-16m-to-expand-to-the-u-s/)
-- [Watch SpaceX launch 13 satellites for the US Space Force today](https://www.space.com/spacex-launch-space-force-second-tranche-0-mission)
-- [Martian Lawyers Club raises $2.2M for AI-based game personalization tech](https://techcrunch.com/2023/08/31/martian-lawyers-club-raises-2-2m-for-ai-based-game-personalization-tech/)
+- [UK gov’t urged against delay in setting AI rulebook as MPs warn policymakers aren’t keeping up](https://techcrunch.com/2023/08/31/uk-ai-governance-committee-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
