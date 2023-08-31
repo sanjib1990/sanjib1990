@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch 22 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-13)
 - [Grayscale wins lawsuit against SEC, while the agency settles first NFT case and Friend.tech hype crashes](https://techcrunch.com/2023/08/31/grayscale-wins-lawsuit-against-sec-while-the-agency-settles-first-nft-case-and-friend-tech-hype-crashes/)
 - [Lowering costs nets Salesforce a profitable quarter, but can it keep it up?](https://techcrunch.com/2023/08/31/salesforce-slowing-acquisitions-profitability-growth/)
 - [YouTube Music gets more social, adds comments to the ‘Now Playing’ screen](https://techcrunch.com/2023/08/31/youtube-music-gets-more-social-adds-comments-to-the-now-playing-screen/)
 - [James Webb Space Telescope snaps stunning view of supernova&#39;s expanding remains &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-supernova-expanding-remains)
-- [X plans to collect users’ biometric data, along with education and job history](https://techcrunch.com/2023/08/31/x-plans-to-collect-users-biometric-data-along-with-education-and-job-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
