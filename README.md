@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grayscale wins lawsuit against SEC, while the agency settles first NFT case and Friend.tech hype crashes](https://techcrunch.com/2023/08/31/grayscale-wins-lawsuit-against-sec-while-the-agency-settles-first-nft-case-and-friend-tech-hype-crashes/)
+- [Lowering costs nets Salesforce a profitable quarter, but can it keep it up?](https://techcrunch.com/2023/08/31/salesforce-slowing-acquisitions-profitability-growth/)
+- [YouTube Music gets more social, adds comments to the ‘Now Playing’ screen](https://techcrunch.com/2023/08/31/youtube-music-gets-more-social-adds-comments-to-the-now-playing-screen/)
+- [James Webb Space Telescope snaps stunning view of supernova&#39;s expanding remains &lpar;photos&rpar;](https://www.space.com/james-webb-space-telescope-supernova-expanding-remains)
 - [X plans to collect users’ biometric data, along with education and job history](https://techcrunch.com/2023/08/31/x-plans-to-collect-users-biometric-data-along-with-education-and-job-history/)
-- [Forever 21 data breach affects half a million people](https://techcrunch.com/2023/08/31/forever-21-data-breach-half-million/)
-- [Google Play Points to gain rewards for Walmart+, Instacart and Discord](https://techcrunch.com/2023/08/31/google-play-points-add-rewards-for-walmart-instacart-and-discord/)
-- [OpenAI angles to put ChatGPT in classrooms with special tutor prompts](https://techcrunch.com/2023/08/31/openai-angles-to-put-chatgpt-in-classrooms-with-special-tutor-prompts/)
-- [Bumble changes its policy to crack down on bots, ghosting, and doxing](https://techcrunch.com/2023/08/31/bumble-changes-its-policy-to-crack-down-on-bots-ghosting-and-doxing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
