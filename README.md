@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X, formerly Twitter, is now letting paid users hide their likes](https://techcrunch.com/2023/08/31/x-formerly-twitter-is-now-letting-paid-users-hide-their-likes/)
+- [Garena relaunches Free Fire in India a year after ban](https://techcrunch.com/2023/08/30/garena-relaunches-free-fire-in-india-a-year-after-ban/)
 - [Fitbit targeted with trio of data transfer complaints in Europe](https://techcrunch.com/2023/08/30/fitbit-gdpr-data-transfer-complaints-noyb/)
 - [Teale, your mental health companion at work, raises $11 million](https://techcrunch.com/2023/08/30/teale-your-mental-health-companion-at-work-raises-11-million/)
 - [Feds investigate Tesla’s use of funds for secret ‘glass house’ project](https://techcrunch.com/2023/08/30/feds-investigate-teslas-use-of-funds-for-secret-glass-house-project-elon-musk/)
-- [Google’s AI-powered search expands outside U.S. to India and Japan](https://techcrunch.com/2023/08/30/googles-ai-powered-search-expands-outside-u-s-to-india-and-japan/)
-- [TechCrunch interview: ‘Palo Alto’ author Malcolm Harris](https://techcrunch.com/2023/08/30/techcrunch-interview-palo-alto-author-malcolm-harris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
