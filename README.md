@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starfield review: Guns and ships galore, but a vacuum of wonder](https://techcrunch.com/2023/08/31/starfield-review-guns-and-ships-galore-but-a-vacuum-of-wonder/)
-- [Reed Jobs will discuss his new venture firm at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/31/reed-jobs-will-discuss-his-new-venture-firm-at-techcrunch-disrupt-2023/)
-- [Withings’ ScanWatch 2 arrives with a temperature sensing](https://techcrunch.com/2023/08/31/withings-launches-the-scanwatch-2-with-a-temperature-sensing-module/)
-- [Get ready for the epic &#39;ring of fire&#39; annular solar eclipse of October 2023 with this epic NASA trailer &lpar;video&rpar;](https://www.space.com/nasa-trailer-ring-of-fire-solar-eclipse)
-- [Drift through space with a dreamy track from &#39;Starfield&#39;s&#39; original score by composer Inon Zur &lpar;exclusive&rpar;](https://www.space.com/starfield-track-inon-zur-soundtrack-exclusive)
+- [All products are garbage, and for good reason](https://techcrunch.com/2023/08/31/if-it-breaks-you-have-to-buy-more/)
+- [Embrace these FinOps best practices to ace your cloud strategy](https://techcrunch.com/2023/08/31/best-practices-for-cloud-finops/)
+- [Black astronauts celebrate ISS, Artemis 2 moon missions while reflecting on history](https://www.space.com/black-astronauts-celebrate-history-artemis-2-iss-missions)
+- [Threads’ web launch did little to bring in more users, new data suggests](https://techcrunch.com/2023/08/31/threads-web-launch-did-little-to-bring-in-more-users-new-data-suggests/)
+- [Grayscale’s legal head says bitcoin spot ETF approval is a ‘matter of when, not if’](https://techcrunch.com/2023/08/31/grayscales-legal-head-says-bitcoin-spot-etf-approval-is-a-matter-of-when-not-if/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
