@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A blue supermoon and soaring ocean temperatures created a perfect storm for Hurricane Idalia](https://www.space.com/blue-supermoon-ocean-temps-hurricane-idalia-storm)
-- [The fall of Babylon: failed tele-health startup once valued at nearly $2B goes bankrupt and sold for parts](https://techcrunch.com/2023/08/31/the-fall-of-babylon-failed-tele-health-startup-once-valued-at-nearly-2b-goes-bankrupt-and-sold-for-parts/)
-- [Microsoft unbundles Teams from Microsoft Office in Europe to appease regulators](https://techcrunch.com/2023/08/31/microsoft-office-teams-europe-unbundle/)
-- [iPhone camera app Obscura releases a new version with iPad support](https://techcrunch.com/2023/08/31/iphone-camera-app-obscura-releases-a-new-version-with-ipad-support/)
-- [UK gov’t urged against delay in setting AI rulebook as MPs warn policymakers aren’t keeping up](https://techcrunch.com/2023/08/31/uk-ai-governance-committee-report/)
+- [Veterinary software company TeleVet rebrands as Otto amid $43M in fresh funding](https://techcrunch.com/2023/08/31/televet-veterinary-software-otto/)
+- [Sun launches surprise blob of plasma at Mars, could trigger eerie Martian auroras](https://www.space.com/sun-launches-plasma-mars-auroras)
+- [See the complete Sustainability Stage agenda at TechCrunch Disrupt 2023](https://techcrunch.com/2023/08/31/see-the-complete-sustainability-stage-agenda-at-techcrunch-disrupt-2023/)
+- [Meta releases a data set to probe computer vision models for biases](https://techcrunch.com/2023/08/31/meta-releases-a-data-set-to-probe-computer-vision-models-for-biases/)
+- [AI-powered BeFake is a real app, not a BeReal parody…and it has $3M in funding](https://techcrunch.com/2023/08/31/ai-powered-befake-is-a-real-app-not-a-bereal-parody-and-it-has-3m-in-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
