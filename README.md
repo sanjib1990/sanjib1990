@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawsuit alleges no due diligence in Amazon’s Project Kuiper launch contracts to Blue Origin, ULA](https://techcrunch.com/2023/08/31/lawsuit-alleges-no-due-diligence-in-amazons-project-kuiper-launch-contracts-to-blue-origin-ula/)
 - [Fisker confirms Foxconn will build its $29,900 Pear EV, but questions remain](https://techcrunch.com/2023/08/31/fisker-confirms-foxconn-will-build-its-29900-pear-ev-but-questions-remain/)
 - [Biden offers $15.5B to boost battery and EV manufacturing](https://techcrunch.com/2023/08/31/biden-offers-15-5b-to-boost-battery-and-ev-manufacturing/)
 - [Robotics sales decline for second straight quarter amid economic woes](https://techcrunch.com/2023/08/31/robotics-sales-decline-for-second-straight-quarter-amid-economic-woes/)
 - [NASA moon orbiter spots crash site of Russia&#39;s failed Luna-25 lander &lpar;photos&rpar;](https://www.space.com/russia-luna-25-moon-crash-site-lro-photos)
-- [Texas cannot yet enforce ID checks on porn sites](https://techcrunch.com/2023/08/31/texas-cannot-yet-enforce-id-checks-on-porn-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
