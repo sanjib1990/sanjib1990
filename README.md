@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazing satellite video shows China&#39;s space station come together in Earth orbit &lpar;video&rpar;](https://www.space.com/china-space-station-commercial-imaging-tracked)
+- [Kyle Vogt to discuss self-driving cars, AI, investing and more at TC Disrupt 2023](https://techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/)
+- [E-commerce acquirer Benitago files for bankruptcy](https://techcrunch.com/2023/09/01/e-commerce-acquirer-benitago-files-for-bankruptcy/)
 - [Pitch Deck Teardown: Tanbii’s $1.5M pre-seed deck](https://techcrunch.com/2023/09/01/sample-pre-seed-pitch-deck-tanbii/)
 - [SpaceX, NASA delay Crew-6 Dragon astronauts&#39; return to Earth due to bad weather](https://www.space.com/spacex-nasa-delay-crew-6-dragon-undocking-splashdown)
-- [Inalife’s digital legacy platform lets your preserve your family’s memories](https://techcrunch.com/2023/09/01/inalifes-digital-legacy-platform-lets-your-preserve-your-familys-memories/)
-- [What’s the opposite of a lean startup?](https://techcrunch.com/2023/09/01/whats-the-opposite-of-a-lean-startup/)
-- [Lidl recalls Paw Patrol snacks after website on packaging displayed porn](https://techcrunch.com/2023/09/01/lidl-recalls-paw-patrol-snacks-after-website-on-packaging-displayed-porn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
