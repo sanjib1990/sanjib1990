@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crucial test of Europe&#39;s long-delayed Ariane 6 rocket delayed](https://www.space.com/esa-ariane-6-testing-delay)
 - [Tesla decreases the price of FSD beta to $12,000](https://techcrunch.com/2023/09/01/tesla-decreases-the-price-of-fsd-beta-to-12000/)
 - [Apple reduces cost of MLS Season Pass to $29 for the rest of the season](https://techcrunch.com/2023/09/01/apple-reduces-cost-of-mls-season-pass-2023/)
 - [As a founder, how do you address climate change?](https://techcrunch.com/2023/09/01/as-a-founder-how-do-you-address-climate-change/)
 - [Meet Google, JPMorgan, Mastercard, DeepBrain AI and more at TC Disrupt 2023](https://techcrunch.com/2023/09/01/meet-google-jpmorgan-mastercard-deepbrain-ai-and-more-at-tc-disrupt-2023/)
-- [Atomic clocks on Earth could reveal secrets about dark matter across the universe](https://www.space.com/ultra-precise-atomic-clocks-investigate-dark-matter-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
