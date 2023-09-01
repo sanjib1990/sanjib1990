@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could AI be the spark that ends the opioid epidemic?](https://techcrunch.com/2023/09/01/could-ai-be-the-spark-that-ends-the-opioid-epidemic/)
+- [X’s privacy policy confirms it will use public data to train AI models](https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/)
+- [All that fintech investment had a real impact on banking penetration in Latin America](https://techcrunch.com/2023/09/01/latam-fintech-banking-penetration/)
+- [TechCrunch+ Roundup: FinOps for all, 15 investors who are taking pitches, Steve Blank on AI](https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/)
 - [How to buy an AI solution the right way: 7 questions new customers should consider](https://techcrunch.com/2023/09/01/questions-for-enterprise-buyers-evaluating-generative-ai/)
-- [Magic Leap’s original headset will stop working at the end of 2024](https://techcrunch.com/2023/09/01/magic-leaps-original-headset-will-stop-working-at-the-end-of-2024/)
-- [Amazing satellite video shows China&#39;s space station come together in Earth orbit &lpar;video&rpar;](https://www.space.com/china-space-station-commercial-imaging-tracked)
-- [Kyle Vogt to discuss self-driving cars, AI, investing and more at TC Disrupt 2023](https://techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/)
-- [E-commerce acquirer Benitago files for bankruptcy](https://techcrunch.com/2023/09/01/e-commerce-acquirer-benitago-files-for-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
