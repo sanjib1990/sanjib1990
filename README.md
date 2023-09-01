@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the opposite of a lean startup?](https://techcrunch.com/2023/09/01/whats-the-opposite-of-a-lean-startup/)
+- [Lidl recalls Paw Patrol snacks after website on packaging displayed porn](https://techcrunch.com/2023/09/01/lidl-recalls-paw-patrol-snacks-after-website-on-packaging-displayed-porn/)
 - [Korean internet giant Naver explores robotics, AI and autonomous driving](https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/)
 - [Watch Chandrayaan-3&#39;s Pragyan rover adorably avoid a lunar crater &lpar;video&rpar;](https://www.space.com/watch-chandrayaan-3-pragyan-rover-maneuver-on-moon)
 - [SpaceX Crew-6 astronauts say goodbye from ISS and prepare for return to Earth](https://www.space.com/spacex-crew-6-astronauts-international-space-station-farewell)
-- [How the FBI took down the notorious Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
-- [You can watch India&#39;s Aditya-L1 solar probe launch live on Sept. 2. Here&#39;s what it will do.](https://www.space.com/india-aditya-l1-solar-probe-launch-livestream-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
