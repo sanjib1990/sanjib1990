@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Tanbii’s $1.5M pre-seed deck](https://techcrunch.com/2023/09/01/sample-pre-seed-pitch-deck-tanbii/)
+- [SpaceX, NASA delay Crew-6 Dragon astronauts&#39; return to Earth due to bad weather](https://www.space.com/spacex-nasa-delay-crew-6-dragon-undocking-splashdown)
+- [Inalife’s digital legacy platform lets your preserve your family’s memories](https://techcrunch.com/2023/09/01/inalifes-digital-legacy-platform-lets-your-preserve-your-familys-memories/)
 - [What’s the opposite of a lean startup?](https://techcrunch.com/2023/09/01/whats-the-opposite-of-a-lean-startup/)
 - [Lidl recalls Paw Patrol snacks after website on packaging displayed porn](https://techcrunch.com/2023/09/01/lidl-recalls-paw-patrol-snacks-after-website-on-packaging-displayed-porn/)
-- [Korean internet giant Naver explores robotics, AI and autonomous driving](https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/)
-- [Watch Chandrayaan-3&#39;s Pragyan rover adorably avoid a lunar crater &lpar;video&rpar;](https://www.space.com/watch-chandrayaan-3-pragyan-rover-maneuver-on-moon)
-- [SpaceX Crew-6 astronauts say goodbye from ISS and prepare for return to Earth](https://www.space.com/spacex-crew-6-astronauts-international-space-station-farewell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
