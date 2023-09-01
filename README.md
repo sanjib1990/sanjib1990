@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As a founder, how do you address climate change?](https://techcrunch.com/2023/09/01/as-a-founder-how-do-you-address-climate-change/)
+- [Meet Google, JPMorgan, Mastercard, DeepBrain AI and more at TC Disrupt 2023](https://techcrunch.com/2023/09/01/meet-google-jpmorgan-mastercard-deepbrain-ai-and-more-at-tc-disrupt-2023/)
+- [Apple-backed Globalstar inks $64M launch contract with SpaceX](https://techcrunch.com/2023/09/01/apple-backed-globalstar-inks-64m-launch-contract-with-spacex/)
+- [Tesla packs higher-end Model S and X features into Model 3 refresh](https://techcrunch.com/2023/09/01/tesla-packs-higher-end-model-s-and-x-features-into-model-3-refresh/)
 - [Could AI be the spark that ends the opioid epidemic?](https://techcrunch.com/2023/09/01/could-ai-be-the-spark-that-ends-the-opioid-epidemic/)
-- [X’s privacy policy confirms it will use public data to train AI models](https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/)
-- [All that fintech investment had a real impact on banking penetration in Latin America](https://techcrunch.com/2023/09/01/latam-fintech-banking-penetration/)
-- [TechCrunch+ Roundup: FinOps for all, 15 investors who are taking pitches, Steve Blank on AI](https://techcrunch.com/2023/09/01/techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai/)
-- [How to buy an AI solution the right way: 7 questions new customers should consider](https://techcrunch.com/2023/09/01/questions-for-enterprise-buyers-evaluating-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
