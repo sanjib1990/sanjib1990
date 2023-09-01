@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Chandrayaan-3&#39;s Pragyan rover adorably avoid a lunar crater &lpar;video&rpar;](https://www.space.com/watch-chandrayaan-3-pragyan-rover-maneuver-on-moon)
+- [SpaceX Crew-6 astronauts say goodbye from ISS and prepare for return to Earth](https://www.space.com/spacex-crew-6-astronauts-international-space-station-farewell)
+- [How the FBI took down the notorious Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
 - [You can watch India&#39;s Aditya-L1 solar probe launch live on Sept. 2. Here&#39;s what it will do.](https://www.space.com/india-aditya-l1-solar-probe-launch-livestream-science)
 - [Star-studded stellar nursery shines in new Hubble Telescope photo](https://www.space.com/star-studded-stellar-nursery-hubble-telescope-photo)
-- [Google pulls popular but controversial live video chat app Chamet from the Play Store](https://techcrunch.com/2023/09/01/google-pulls-popular-but-controversial-live-video-chat-app-chamet-from-the-play-store/)
-- [How to pitch me: 15 investors talk about what they’re looking for in August 2023](https://techcrunch.com/2023/08/31/august-2023-how-to-pitch-15-early-stage-investors/)
-- [Lawsuit alleges no due diligence in Amazon’s Project Kuiper launch contracts to Blue Origin, ULA](https://techcrunch.com/2023/08/31/lawsuit-alleges-no-due-diligence-in-amazons-project-kuiper-launch-contracts-to-blue-origin-ula/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
