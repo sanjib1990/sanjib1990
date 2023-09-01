@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can watch India&#39;s Aditya-L1 solar probe launch live on Sept. 2. Here&#39;s what it will do.](https://www.space.com/india-aditya-l1-solar-probe-launch-livestream-science)
+- [Star-studded stellar nursery shines in new Hubble Telescope photo](https://www.space.com/star-studded-stellar-nursery-hubble-telescope-photo)
+- [Google pulls popular but controversial live video chat app Chamet from the Play Store](https://techcrunch.com/2023/09/01/google-pulls-popular-but-controversial-live-video-chat-app-chamet-from-the-play-store/)
 - [How to pitch me: 15 investors talk about what they’re looking for in August 2023](https://techcrunch.com/2023/08/31/august-2023-how-to-pitch-15-early-stage-investors/)
 - [Lawsuit alleges no due diligence in Amazon’s Project Kuiper launch contracts to Blue Origin, ULA](https://techcrunch.com/2023/08/31/lawsuit-alleges-no-due-diligence-in-amazons-project-kuiper-launch-contracts-to-blue-origin-ula/)
-- [Fisker confirms Foxconn will build its $29,900 Pear EV, but questions remain](https://techcrunch.com/2023/08/31/fisker-confirms-foxconn-will-build-its-29900-pear-ev-but-questions-remain/)
-- [Biden offers $15.5B to boost battery and EV manufacturing](https://techcrunch.com/2023/08/31/biden-offers-15-5b-to-boost-battery-and-ev-manufacturing/)
-- [Robotics sales decline for second straight quarter amid economic woes](https://techcrunch.com/2023/08/31/robotics-sales-decline-for-second-straight-quarter-amid-economic-woes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
