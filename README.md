@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India tests parachutes for Gaganyaan crew capsule using a rocket sled &lpar;video&rpar;](https://www.space.com/india-gaganyaan-crew-capsule-parachute-tests-video)
 - [India launches Aditya-L1 solar observatory, its 1st-ever sun probe](https://www.space.com/india-launches-aditya-l1-first-solar-probe)
 - [Walmart pays $3.5 billion to increase stake in India’s Flipkart](https://techcrunch.com/2023/09/02/walmart-has-spent-3-5-billion-this-year-to-increase-stake-in-flipkart/)
 - [India’s Aditya-L1 solar probe successfully lifts off toward the sun](https://techcrunch.com/2023/09/01/india-aditya-l1-launch-solar-mission-sun/)
 - [Lenovo debuts gaming glasses and portal PC handheld](https://techcrunch.com/2023/09/01/lenovo-debuts-gaming-glasses-and-portal-pc-handheld/)
-- [Crucial test of Europe&#39;s long-delayed Ariane 6 rocket delayed](https://www.space.com/esa-ariane-6-testing-delay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
