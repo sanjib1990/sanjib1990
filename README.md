@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Crew-6 Dragon depart ISS with 4 astronauts aboard on Sept. 3 after delay](https://www.space.com/spacex-crew-6-astronauts-depart-iss-webcast)
 - [Deal Dive: A cellular ag startup with a real moat](https://techcrunch.com/2023/09/02/deal-dive-a-cellular-ag-startup-with-a-real-moat/)
+- [NASA&#39;s Ingenuity helicopter flies on Mars for the 56th time](https://www.space.com/ingenuity-mars-helicopter-flight-56)
 - [Maker of ‘smart’ chastity cage left users’ emails, passwords, and locations exposed](https://techcrunch.com/2023/09/02/smart-chastity-cage-emails-passwords-location/)
 - [India tests parachutes for Gaganyaan crew capsule using a rocket sled &lpar;video&rpar;](https://www.space.com/india-gaganyaan-crew-capsule-parachute-tests-video)
-- [India launches Aditya-L1 solar observatory, its 1st-ever sun probe](https://www.space.com/india-launches-aditya-l1-first-solar-probe)
-- [Walmart pays $3.5 billion to increase stake in India’s Flipkart](https://techcrunch.com/2023/09/02/walmart-has-spent-3-5-billion-this-year-to-increase-stake-in-flipkart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
