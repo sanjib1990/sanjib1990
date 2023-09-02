@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon increases fees, ChatGPT comes to the enterprise, and Apple announces a press conference](https://techcrunch.com/2023/09/02/amazon-increases-fees-chatgpt-comes-to-the-enterprise-and-apple-announces-a-press-conference/)
 - [Should the US implement a ‘robot tax?’](https://techcrunch.com/2023/09/02/should-the-us-implement-a-robot-tax/)
 - [Making the world a better place?](https://techcrunch.com/2023/09/02/making-world-better-place/)
 - [Checkout’s Céline Dufétel will join us on the Fintech Stage at TC Disrupt](https://techcrunch.com/2023/09/02/checkouts-celine-dufetel-will-join-us-on-the-fintech-stage-at-tc-disrupt/)
 - [Watch SpaceX&#39;s Crew-6 Dragon depart ISS with 4 astronauts aboard on Sept. 3 after delay](https://www.space.com/spacex-crew-6-astronauts-depart-iss-webcast)
-- [Deal Dive: A cellular ag startup with a real moat](https://techcrunch.com/2023/09/02/deal-dive-a-cellular-ag-startup-with-a-real-moat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
