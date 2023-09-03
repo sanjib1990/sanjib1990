@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Greylock, Lightspeed Venture Partners, Khosla Ventures, Pear VC join Startup Battlefield judges](https://techcrunch.com/2023/09/03/greylock-lightspeed-venture-partners-khosla-ventures-pear-vc-join-startup-battlefield-judges/)
+- [Crypto funding in August wasn’t as good as the numbers may lead you to believe](https://techcrunch.com/2023/09/03/crypto-funding-is-freezing-up/)
 - [Watered-down SEC fund disclosure changes still worth paying attention to](https://techcrunch.com/2023/09/03/sec-fund-disclosure-new-rules/)
 - [Inside Rent Butter: Why credit scores shouldn’t tell the whole story](https://techcrunch.com/2023/09/03/inside-rent-butters-plan-to-make-applying-for-a-rental-more-than-just-about-your-credit-score/)
 - [India&#39;s Chandrayaan-3 landed on the south pole of the moon − a space policy expert explains what this means for India and the global race to the moon](https://www.space.com/india-chandrayaan-3-global-moon-race)
-- [Did &#39;Star Trek: Strange New Worlds&#39;&#39; second season overdo the gimmicks?](https://www.space.com/did-star-trek-strange-new-worlds-second-season-overdo-the-gimmicks)
-- [Taking out the trash: Here&#39;s how private companies could be vital for space debris removal](https://www.space.com/space-debris-taking-out-the-trash)
 <!-- BLOG-POST-LIST:END -->
 
 ---
