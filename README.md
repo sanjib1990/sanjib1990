@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s Chandrayaan-3 landed on the south pole of the moon − a space policy expert explains what this means for India and the global race to the moon](https://www.space.com/india-chandrayaan-3-global-moon-race)
+- [Did &#39;Star Trek: Strange New Worlds&#39;&#39; second season overdo the gimmicks?](https://www.space.com/did-star-trek-strange-new-worlds-second-season-overdo-the-gimmicks)
+- [Taking out the trash: Here&#39;s how private companies could be vital for space debris removal](https://www.space.com/space-debris-taking-out-the-trash)
 - [Watch SpaceX launch 21 Starlink satellites tonight](https://www.space.com/spacex-starlink-launch-group-6-12)
 - [Boom&#39;s supersonic jet moves toward debut flight &lpar;photos&rpar;](https://www.space.com/boom-supersonic-jet-milestones-path-first-flight)
-- [Amazon increases fees, ChatGPT comes to the enterprise, and Apple announces a press conference](https://techcrunch.com/2023/09/02/amazon-increases-fees-chatgpt-comes-to-the-enterprise-and-apple-announces-a-press-conference/)
-- [Should the US implement a ‘robot tax?’](https://techcrunch.com/2023/09/02/should-the-us-implement-a-robot-tax/)
-- [Making the world a better place?](https://techcrunch.com/2023/09/02/making-world-better-place/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
