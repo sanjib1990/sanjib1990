@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jude is building a bladder health champion](https://techcrunch.com/2023/09/03/jude-seed/)
+- [What’s up with Qi2 and why should you care?](https://techcrunch.com/2023/09/03/whats-up-with-qi2-and-why-should-you-care/)
 - [Google brings that cheap flight data and the feds investigate Elon’s glass house](https://techcrunch.com/2023/09/03/google-brings-that-cheap-flight-data-and-the-feds-investigate-elons-glass-house/)
 - [This veteran VC doesn’t think ARM’s IPO will have the impact that everyone is hoping it will](https://techcrunch.com/2023/09/03/this-veteran-vc-doesnt-think-arms-ipo-will-have-the-impact-that-everyone-is-hoping-it-will/)
 - [Launch into the future with the complete Space Stage agenda at TC Disrupt 2023](https://techcrunch.com/2023/09/03/launch-into-the-future-with-the-complete-space-stage-agenda-at-tc-disrupt-2023/)
-- [Greylock, Lightspeed Venture Partners, Khosla Ventures, Pear VC join Startup Battlefield judges](https://techcrunch.com/2023/09/03/greylock-lightspeed-venture-partners-khosla-ventures-pear-vc-join-startup-battlefield-judges/)
-- [Crypto funding in August wasn’t as good as the numbers may lead you to believe](https://techcrunch.com/2023/09/03/crypto-funding-is-freezing-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
