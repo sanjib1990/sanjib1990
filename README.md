@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The European Space Agency has a transparency problem — but it&#39;s completely legal](https://www.space.com/european-space-agency-freedom-of-information)
+- [See the moon meet up with Jupiter in the night sky tonight](https://www.space.com/moon-jupiter-conjunction-september-2023)
+- [Indian fintechs amplify payments soundbox pitches to woo merchants](https://techcrunch.com/2023/09/04/indian-fintechs-amplify-sound-box-pitches-to-woo-merchants/)
 - [Nigerian embedded finance platform Anchor raises $2.4M to expand product offerings](https://techcrunch.com/2023/09/04/nigerian-embedded-finance-platform-anchor-raises-2-6m-to-expand-product-offerings/)
 - [Qept is a simple iOS note-taking app that is all about texting yourself](https://techcrunch.com/2023/09/03/qept-is-a-simple-ios-note-taking-app-that-is-all-about-texting-yourself/)
-- [SpaceX&#39;s Crew-6 astronauts splash down after 6-month stay on ISS](https://www.space.com/spacex-crew-6-dragon-endeavour-landing)
-- [Jude is building a bladder health champion](https://techcrunch.com/2023/09/03/jude-seed/)
-- [What’s up with Qi2 and why should you care?](https://techcrunch.com/2023/09/03/whats-up-with-qi2-and-why-should-you-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
