@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Galaxy shapes can help identify wrinkles in space caused by the Big Bang](https://www.space.com/galactic-geometry-big-bang-wrinkles-baos)
+- [NASA&#39;s OSIRIS-REx mission almost bit the dust — then Queen guitarist Brian May stepped in](https://www.space.com/nasa-osiris-rex-saved-by-brian-may)
+- [Cinemin is a fun camera app with animated film aesthetics without any AI](https://techcrunch.com/2023/09/04/cinemin-is-a-fun-camera-app-with-animated-film-aesthetics-without-any-ai/)
 - [The European Space Agency has a transparency problem — but it&#39;s completely legal](https://www.space.com/european-space-agency-freedom-of-information)
 - [See the moon meet up with Jupiter in the night sky tonight](https://www.space.com/moon-jupiter-conjunction-september-2023)
-- [Indian fintechs amplify payments soundbox pitches to woo merchants](https://techcrunch.com/2023/09/04/indian-fintechs-amplify-sound-box-pitches-to-woo-merchants/)
-- [Nigerian embedded finance platform Anchor raises $2.4M to expand product offerings](https://techcrunch.com/2023/09/04/nigerian-embedded-finance-platform-anchor-raises-2-6m-to-expand-product-offerings/)
-- [Qept is a simple iOS note-taking app that is all about texting yourself](https://techcrunch.com/2023/09/03/qept-is-a-simple-ios-note-taking-app-that-is-all-about-texting-yourself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
