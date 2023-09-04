@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Butternut Box wolfs down $354M for subscription canine cuisine](https://techcrunch.com/2023/09/04/dog-health-food-startup-butternut-box-wolfs-down-354m/)
+- [Are AI models doomed to always hallucinate?](https://techcrunch.com/2023/09/04/are-language-models-doomed-to-always-hallucinate/)
 - [4 founders give us their take on what’s ahead for construction tech](https://techcrunch.com/2023/09/04/founds-discuss-future-construction-tech/)
 - [Hundreds of supernova remnants remain hidden in our galaxy. These astronomers want to find them](https://www.space.com/hundreds-supernova-remnants-hidden-galaxy-astronomers-find-them)
 - [Galaxy shapes can help identify wrinkles in space caused by the Big Bang](https://www.space.com/galactic-geometry-big-bang-wrinkles-baos)
-- [NASA&#39;s OSIRIS-REx mission almost bit the dust — then Queen guitarist Brian May stepped in](https://www.space.com/nasa-osiris-rex-saved-by-brian-may)
-- [Cinemin is a fun camera app with animated film aesthetics without any AI](https://techcrunch.com/2023/09/04/cinemin-is-a-fun-camera-app-with-animated-film-aesthetics-without-any-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
