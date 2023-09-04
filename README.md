@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Turing Machine Alternative &lpar;Counter Machines&rpar; - Computerphile](https://www.youtube.com/watch?v=PXN7jTNGQIw)
 - [Lecture 3: Biochemistry 2 &lpar;audio only&rpar;](https://www.youtube.com/watch?v=bbh5AQTX8r4)
 - [how did I NOT know about this?](https://www.youtube.com/watch?v=poDIT2ruQ9M)
 - [The ruthless forking of Terraform](https://www.youtube.com/watch?v=HzBA6FIn_Bo)
 - [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
-- [Microsoft Excel just got Python](https://www.youtube.com/watch?v=8ofsE7xiGho)
 <!-- YOUTUBE:END -->
 
 ---
