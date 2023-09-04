@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hero MotoCorp to increase stake in Ather with fresh $66.5 million investment](https://techcrunch.com/2023/09/04/hero-motocorp-to-increase-stake-in-ather-with-fresh-66-5-million-investment/)
+- [Chandrayaan-3 rover and lander in sleep mode but might wake up later this month](https://www.space.com/chandrayaan-3-rover-lander-sleep-mode)
 - [Food tech roundup: Plant-based protein eaters still want it to taste like meat](https://techcrunch.com/2023/09/04/foodtech-roundup-plant-based-protein/)
+- [&#39;NightWatch&#39; stargazing guide scores a brand-new updated edition for 2023](https://www.space.com/news/nightwatch-stargazing-guide-scores-a-brand-new-updated-edition-for-2023)
 - [&#39;Star Trek&#39; Day 2023 arrives this week to celebrate &#39;The Original Series&#39; 1966 launch](https://www.space.com/star-trek-day-september-2023)
-- [Butternut Box wolfs down $354M for subscription canine cuisine](https://techcrunch.com/2023/09/04/dog-health-food-startup-butternut-box-wolfs-down-354m/)
-- [Are AI models doomed to always hallucinate?](https://techcrunch.com/2023/09/04/are-language-models-doomed-to-always-hallucinate/)
-- [4 founders give us their take on what’s ahead for construction tech](https://techcrunch.com/2023/09/04/founds-discuss-future-construction-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
