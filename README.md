@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek&#39; Day 2023 arrives this week to celebrate &#39;The Original Series&#39; 1966 launch](https://www.space.com/star-trek-day-september-2023)
 - [Butternut Box wolfs down $354M for subscription canine cuisine](https://techcrunch.com/2023/09/04/dog-health-food-startup-butternut-box-wolfs-down-354m/)
 - [Are AI models doomed to always hallucinate?](https://techcrunch.com/2023/09/04/are-language-models-doomed-to-always-hallucinate/)
 - [4 founders give us their take on what’s ahead for construction tech](https://techcrunch.com/2023/09/04/founds-discuss-future-construction-tech/)
 - [Hundreds of supernova remnants remain hidden in our galaxy. These astronomers want to find them](https://www.space.com/hundreds-supernova-remnants-hidden-galaxy-astronomers-find-them)
-- [Galaxy shapes can help identify wrinkles in space caused by the Big Bang](https://www.space.com/galactic-geometry-big-bang-wrinkles-baos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
