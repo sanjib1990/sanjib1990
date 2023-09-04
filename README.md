@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: An inside look at Astra’s Apollo Fusion acquisition](https://techcrunch.com/2023/09/04/max-q-an-inside-look-at-astras-apollo-fusion-acquisition/)
 - [Marvel&#39;s &#39;Predator vs. Wolverine #1&#39; claws its way through 8 awesome variant covers](https://www.space.com/predator-wolverine-marvel-comics-variant-covers)
 - [Astronauts on ISS can face muscle loss in microgravity – a new ESA experiment may help](https://www.space.com/iss-astronauts-microgravity-muscle-loss-esa-experiment)
 - [Level up on the Builders Stage at TechCrunch Disrupt](https://techcrunch.com/2023/09/04/level-up-on-the-builders-stage-at-techcrunch-disrupt/)
 - [Nordic-based Unconventional Ventures nears €30M fund close to back diverse European teams](https://techcrunch.com/2023/09/04/nordic-based-unconventional-ventures-nears-e30m-fund-close-to-back-diverse-european-teams/)
-- [Hero MotoCorp to increase stake in Ather with fresh $66.5 million investment](https://techcrunch.com/2023/09/04/hero-motocorp-to-increase-stake-in-ather-with-fresh-66-5-million-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
