@@ -96,9 +96,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nigerian embedded finance platform Anchor raises $2.4M to expand product offerings](https://techcrunch.com/2023/09/04/nigerian-embedded-finance-platform-anchor-raises-2-6m-to-expand-product-offerings/)
 - [Qept is a simple iOS note-taking app that is all about texting yourself](https://techcrunch.com/2023/09/03/qept-is-a-simple-ios-note-taking-app-that-is-all-about-texting-yourself/)
+- [SpaceX&#39;s Crew-6 astronauts splash down after 6-month stay on ISS](https://www.space.com/spacex-crew-6-dragon-endeavour-landing)
 - [Jude is building a bladder health champion](https://techcrunch.com/2023/09/03/jude-seed/)
 - [What’s up with Qi2 and why should you care?](https://techcrunch.com/2023/09/03/whats-up-with-qi2-and-why-should-you-care/)
-- [Google brings that cheap flight data and the feds investigate Elon’s glass house](https://techcrunch.com/2023/09/03/google-brings-that-cheap-flight-data-and-the-feds-investigate-elons-glass-house/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
