@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts on ISS can face muscle loss in microgravity – a new ESA experiment may help](https://www.space.com/iss-astronauts-microgravity-muscle-loss-esa-experiment)
+- [Level up on the Builders Stage at TechCrunch Disrupt](https://techcrunch.com/2023/09/04/level-up-on-the-builders-stage-at-techcrunch-disrupt/)
+- [Nordic-based Unconventional Ventures nears €30M fund close to back diverse European teams](https://techcrunch.com/2023/09/04/nordic-based-unconventional-ventures-nears-e30m-fund-close-to-back-diverse-european-teams/)
 - [Hero MotoCorp to increase stake in Ather with fresh $66.5 million investment](https://techcrunch.com/2023/09/04/hero-motocorp-to-increase-stake-in-ather-with-fresh-66-5-million-investment/)
 - [Chandrayaan-3 rover and lander in sleep mode but might wake up later this month](https://www.space.com/chandrayaan-3-rover-lander-sleep-mode)
-- [Food tech roundup: Plant-based protein eaters still want it to taste like meat](https://techcrunch.com/2023/09/04/foodtech-roundup-plant-based-protein/)
-- [&#39;NightWatch&#39; stargazing guide scores a brand-new updated edition for 2023](https://www.space.com/news/nightwatch-stargazing-guide-scores-a-brand-new-updated-edition-for-2023)
-- [&#39;Star Trek&#39; Day 2023 arrives this week to celebrate &#39;The Original Series&#39; 1966 launch](https://www.space.com/star-trek-day-september-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
