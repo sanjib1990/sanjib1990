@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prosecutors in every state push to combat AI child exploitation](https://techcrunch.com/2023/09/05/prosecutors-in-every-state-push-to-combat-ai-child-exploitation/)
 - [Australia launching moon rover on NASA Artemis mission as soon as 2026](https://www.space.com/australia-moon-rover-2026-nasa-artemis)
 - [&#39;Twisty&#39; new theory of gravity says information can escape black holes after all](https://www.space.com/twisty-theory-of-gravity-says-information-can-escape-black-holes)
 - [Black holes keep &#39;burping up&#39; stars they destroyed years earlier, and astronomers don&#39;t know why](https://www.space.com/black-holes-burping-stars-astronomers-stumped)
 - [‘Ask Sophie’ book excerpt: A startup founder’s guide to O-1A visas](https://techcrunch.com/2023/09/05/a-startup-founders-guide-to-o-1a-visas/)
-- [Star blows giant exoplanet&#39;s atmosphere away, leaving massive tail in its wake](https://www.space.com/exoplanet-loses-atmosphere-massive-tail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
