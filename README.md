@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Australia launching moon rover on NASA Artemis mission as soon as 2026](https://www.space.com/australia-moon-rover-2026-nasa-artemis)
+- [&#39;Twisty&#39; new theory of gravity says information can escape black holes after all](https://www.space.com/twisty-theory-of-gravity-says-information-can-escape-black-holes)
+- [Black holes keep &#39;burping up&#39; stars they destroyed years earlier, and astronomers don&#39;t know why](https://www.space.com/black-holes-burping-stars-astronomers-stumped)
+- [‘Ask Sophie’ book excerpt: A startup founder’s guide to O-1A visas](https://techcrunch.com/2023/09/05/a-startup-founders-guide-to-o-1a-visas/)
 - [Star blows giant exoplanet&#39;s atmosphere away, leaving massive tail in its wake](https://www.space.com/exoplanet-loses-atmosphere-massive-tail)
-- [Is &#39;Starfield&#39; a far-flung fantasy or a glimpse of mankind&#39;s space-bound future?](https://www.space.com/starfield-a-far-flung-fantasy-or-a-glimpse-of-mankinds-space-bound-future)
-- [Supermassive black hole accretion disk seen &#39;on the edge&#39; for 1st time](https://www.space.com/supermassive-black-hole-disk-on-edge-first-time)
-- [Sex between space tourists will happen eventually. But are we ready for babies conceived off Earth?](https://www.space.com/sex-in-space--babies-may-have-considerable-consequences)
-- [Tiny satellites use AI to sniff for methane leaks on the ground &lpar;photos&rpar;](https://www.space.com/orbital-sidekick-methane-monitoring-ai-help)
 <!-- BLOG-POST-LIST:END -->
 
 ---
