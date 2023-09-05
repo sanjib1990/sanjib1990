@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify founder Daniel Ek admits he initially ‘didn’t get’ the appeal of the flagship feature, Discover Weekly](https://techcrunch.com/2023/09/05/spotify-founder-daniel-ek-admits-he-initially-didnt-get-the-appeal-of-the-flagship-feature-discover-weekly/)
-- [Latch is becoming Door.com](https://techcrunch.com/2023/09/05/latch-is-becoming-door-com/)
-- [What’s next for Atlassian? Rajeev Rajan tells all &lpar;maybe&rpar; at TC Disrupt 2023](https://techcrunch.com/2023/09/05/whats-next-for-atlassian-rajeev-rajan-tells-all-maybe-at-tc-disrupt-2023/)
-- [Robot software firm Mujin raises $85M](https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/)
-- [Sam Altman-backed Mentra aims to match neurodivergent jobseekers with ideal jobs](https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/)
+- [Google is changing Android branding with a 3D logo](https://techcrunch.com/2023/09/05/google-is-changing-android-branding-with-a-3d-logo/)
+- [Google’s quarterly Android updates include Zoom and Webex support in cars](https://techcrunch.com/2023/09/05/googles-quarterly-android-updates-include-zoom-and-webex-support-in-cars/)
+- [It doesn’t look like Y Combinator’s Summer demo day batch will surprise us much](https://techcrunch.com/2023/09/05/y-combinator-s23-batch/)
+- [Apple’s BIS acquisition is a bet on a classical music catalogue, and on building cred in the industry](https://techcrunch.com/2023/09/05/apples-bis-acquisition-is-a-bet-on-a-classical-music-catalogue-and-on-building-cred-in-the-industry/)
+- [French VC firm Founders Future reaches $80 million first close for its new funds](https://techcrunch.com/2023/09/05/french-vc-firm-founders-future-reaches-80-million-first-close-for-its-new-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
