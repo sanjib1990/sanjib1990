@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Photographer captures rare &#39;gigantic jets&#39; of upside-down lightning blasting out of Atlantic hurricane](https://www.space.com/rare-gigantic-jets-of-upside-down-lightning-blasting-out-of-atlantic-hurricane)
+- [Arm’s latest IPO filing eyes potential $52b valuation](https://techcrunch.com/2023/09/05/arms-latest-ipo-filing-eyes-potential-52b-valuation/)
+- [Meta to deprecate Facebook News in the U.K., Germany, and France](https://techcrunch.com/2023/09/05/meta-to-deprecate-facebook-news-in-the-u-k-germany-and-france/)
 - [Chipmaker NXP confirms data breach involving customers’ information](https://techcrunch.com/2023/09/05/chipmaker-nxp-confirms-data-breach-involving-customers-information/)
 - [Zoom rebrands existing — and intros new — generative AI features](https://techcrunch.com/2023/09/05/zoom-rebrands-existing-and-intros-new-generative-ai-features/)
-- [Harmonya bags $20M to decipher product data for CPG brands](https://techcrunch.com/2023/09/05/harmonya-20m-product-data-cpg/)
-- [Gleen’s tech-savvy chatbot for Discord and Slack attracts Solana founder in oversubscribed round](https://techcrunch.com/2023/09/05/gleens-tech-savvy-chatbot-for-discord-and-slack-attracts-solana-founder-in-oversubscribed-round/)
-- [Connect Ventures hits $80M for its next fund, says the Bear market means ‘Product is back, baby!’](https://techcrunch.com/2023/09/05/connect-ventures-hits-80m-for-its-next-fund-says-the-bear-market-means-product-is-back-baby/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
