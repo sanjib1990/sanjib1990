@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Envisics closes $100M to advance AR heads-up display tech in cars](https://techcrunch.com/2023/09/04/envisics-closes-100m-to-advance-ar-heads-up-display-tech-in-cars/)
+- [Telecom operators in India want tech companies to pay for network usage](https://techcrunch.com/2023/09/04/telecom-operators-in-india-want-tech-companies-to-pay-for-network-usage/)
+- [Protestors rally at Cruise HQ in San Francisco](https://techcrunch.com/2023/09/04/protestors-rally-at-cruise-hq-in-san-francisco/)
 - [myZoi wants to make remittances less costly for migrant workers](https://techcrunch.com/2023/09/04/myzoi/)
 - [Elon Musk to sue ADL for accusing him, X of antisemitism](https://techcrunch.com/2023/09/04/elon-musk-to-sue-adl-for-falsely-accusing-him-x-of-antisemitism/)
-- [Max Q: An inside look at Astra’s Apollo Fusion acquisition](https://techcrunch.com/2023/09/04/max-q-an-inside-look-at-astras-apollo-fusion-acquisition/)
-- [Marvel&#39;s &#39;Predator vs. Wolverine #1&#39; claws its way through 8 awesome variant covers](https://www.space.com/predator-wolverine-marvel-comics-variant-covers)
-- [Astronauts on ISS can face muscle loss in microgravity – a new ESA experiment may help](https://www.space.com/iss-astronauts-microgravity-muscle-loss-esa-experiment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
