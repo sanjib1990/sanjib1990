@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Catalyst Fund reaches first close to back climate-tech startups in Africa](https://techcrunch.com/2023/09/05/catalyst-fund-for-africa/)
 - [Opna wants to help companies hit ‘net zero’ by finding and funding carbon projects](https://techcrunch.com/2023/09/05/opna-wants-to-help-companies-hit-net-zero-by-finding-and-funding-carbon-projects/)
 - [The US can’t kill crypto: Real regulations are coming](https://techcrunch.com/2023/09/04/the-us-cant-kill-crypto-real-regulations-are-coming/)
 - [Atomicwork connects workers and their companies](https://techcrunch.com/2023/09/04/atomicwork/)
 - [Worldover is a compliance platform for cosmetic products &lpar;and soon any product&rpar;](https://techcrunch.com/2023/09/04/worldover-is-a-compliance-platform-for-cosmetic-products-and-soon-any-product/)
-- [Kotani gets $2M pre-seed to help African workers send money home via crypto — without the internet](https://techcrunch.com/2023/09/04/kotani-pay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
