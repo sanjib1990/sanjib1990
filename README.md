@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is changing Android branding with a 3D logo](https://techcrunch.com/2023/09/05/google-is-changing-android-branding-with-a-3d-logo/)
-- [Google’s quarterly Android updates include Zoom and Webex support in cars](https://techcrunch.com/2023/09/05/googles-quarterly-android-updates-include-zoom-and-webex-support-in-cars/)
-- [It doesn’t look like Y Combinator’s Summer demo day batch will surprise us much](https://techcrunch.com/2023/09/05/y-combinator-s23-batch/)
-- [Apple’s BIS acquisition is a bet on a classical music catalogue, and on building cred in the industry](https://techcrunch.com/2023/09/05/apples-bis-acquisition-is-a-bet-on-a-classical-music-catalogue-and-on-building-cred-in-the-industry/)
-- [French VC firm Founders Future reaches $80 million first close for its new funds](https://techcrunch.com/2023/09/05/french-vc-firm-founders-future-reaches-80-million-first-close-for-its-new-funds/)
+- [&#39;Star Trek: Picard&#39;s Academy&#39; comic shows how a young Jean-Luc got schooled](https://www.space.com/star-trek-comic-picards-academy-jean-luc)
+- [FedNow will expose fintech’s gaps: Compliance-by-design can help banks avoid risk](https://techcrunch.com/2023/09/05/fednow-impact-on-fintech-regulatory-compliance/)
+- [Perseverance Mars rover spots &#39;shark fin&#39; and &#39;crab claw&#39; rocks on Red Planet &lpar;photo&rpar;](https://www.space.com/nasa-perserverance-shark-fin-crab-claw-rock-mars)
+- [Major AI players are getting in sync, but it’s what comes next that really matters](https://techcrunch.com/2023/09/05/major-ai-players-are-getting-in-sync-but-its-what-comes-next-that-really-matters/)
+- [TechCrunch+ Roundup: How to buy AI, ‘permissionless’ pilots, new VC disclosure rules](https://techcrunch.com/2023/09/05/techcrunch-roundup-how-to-buy-ai-permissionless-pilots-new-vc-disclosure-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
