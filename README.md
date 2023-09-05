@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Photographer captures rare &#39;gigantic jets&#39; of upside-down lightning blasting out of Atlantic hurricane](https://www.space.com/rare-gigantic-jets-of-upside-down-lightning-blasting-out-of-atlantic-hurricane)
-- [Arm’s latest IPO filing eyes potential $52b valuation](https://techcrunch.com/2023/09/05/arms-latest-ipo-filing-eyes-potential-52b-valuation/)
-- [Meta to deprecate Facebook News in the U.K., Germany, and France](https://techcrunch.com/2023/09/05/meta-to-deprecate-facebook-news-in-the-u-k-germany-and-france/)
-- [Chipmaker NXP confirms data breach involving customers’ information](https://techcrunch.com/2023/09/05/chipmaker-nxp-confirms-data-breach-involving-customers-information/)
-- [Zoom rebrands existing — and intros new — generative AI features](https://techcrunch.com/2023/09/05/zoom-rebrands-existing-and-intros-new-generative-ai-features/)
+- [What’s next for Atlassian? Rajeev Rajan tells all &lpar;maybe&rpar; at TC Disrupt 2023](https://techcrunch.com/2023/09/05/whats-next-for-atlassian-rajeev-rajan-tells-all-maybe-at-tc-disrupt-2023/)
+- [Robot software firm Mujin raises $85M](https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/)
+- [Sam Altman-backed Mentra aims to match neurodivergent jobseekers with ideal jobs](https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/)
+- [TikTok starts shifting European data to its first local data center; full migration expected by Q4 2024](https://techcrunch.com/2023/09/05/tiktok-europe-data-center/)
+- [How to stream NFL games for the 2023 season](https://techcrunch.com/2023/09/05/how-to-stream-nfl-games-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
