@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last call! Volunteer your way to attend TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/05/last-call-volunteer-your-way-to-attend-techcrunch-disrupt-2023/)
-- [U.S. App Store downloads are dropping, new data indicates](https://techcrunch.com/2023/09/05/u-s-app-store-downloads-are-dropping-new-data-indicates/)
-- [Hacking device Flipper Zero can spam nearby iPhones with Bluetooth pop-ups](https://techcrunch.com/2023/09/05/flipper-zero-hacking-iphone-flood-popups/)
-- [&#39;Star Trek: Picard&#39;s Academy&#39; comic shows how a young Jean-Luc got schooled](https://www.space.com/star-trek-comic-picards-academy-jean-luc)
-- [FedNow will expose fintech’s gaps: Compliance-by-design can help banks avoid risk](https://techcrunch.com/2023/09/05/fednow-impact-on-fintech-regulatory-compliance/)
+- [Tiny satellites use AI to sniff for methane leaks on the ground &lpar;photos&rpar;](https://www.space.com/orbital-sidekick-methane-monitoring-ai-help)
+- [E-commerce loan startup Wayflyer secures $1B deal from Neuberger Berman](https://techcrunch.com/2023/09/05/e-commerce-loan-startup-wayflyer-secures-1b-deal-from-neuberger-berman/)
+- [Could Arm be worth more than $51B?](https://techcrunch.com/2023/09/05/could-arm-be-worth-more-than-51b/)
+- [Okra raises $12M as it brings solar power to grids in developing areas](https://techcrunch.com/2023/09/05/okra-raises-12m-as-it-brings-solar-power-to-grids-in-developing-areas/)
+- [Using AI to talk to trees with Graham Hine from ePlant](https://techcrunch.com/2023/09/05/using-ai-to-talk-to-trees-with-graham-hine-from-eplant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
