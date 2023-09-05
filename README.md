@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ThetaRay nabs $57M for AI tools to ID and fight money laundering](https://techcrunch.com/2023/09/05/thetaray-nabs-57m-for-ai-tools-to-id-and-fight-money-laundering/)
+- [Create a ‘permissionless’ pilot program that drives sales and delights customers](https://techcrunch.com/2023/09/05/create-a-permissionless-pilot-program-that-drives-sales-and-delights-customers/)
+- [India warns of malware attacks targeting its Android users](https://techcrunch.com/2023/09/05/india-advisory-dogerat-malware-android-users/)
+- [ThetaRay nabs $57M for AI tools to fight money laundering](https://techcrunch.com/2023/09/05/thetaray-nabs-57m-for-ai-tools-to-id-and-fight-money-laundering/)
 - [Europe assembles Hera spacecraft to eye aftermath of DART asteroid crash &lpar;video, photos&rpar;](https://www.space.com/esa-assembles-hera-spacecraft-dart-asteroid-crash)
 - [The ozone hole above Antarctica opened early this year. Huge Tonga undersea volcano eruption may be to blame](https://www.space.com/antarctic-ozone-hole-early-hunga-tonga)
-- [Catalyst Fund reaches first close to back climate-tech startups in Africa](https://techcrunch.com/2023/09/05/catalyst-fund-for-africa/)
-- [Opna wants to help companies hit ‘net zero’ by finding and funding carbon projects](https://techcrunch.com/2023/09/05/opna-wants-to-help-companies-hit-net-zero-by-finding-and-funding-carbon-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
