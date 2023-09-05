@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-time flight rewards search engine Point.me raises $10M](https://techcrunch.com/2023/09/05/real-time-flight-rewards-search-engine-point-me-raises-10m/)
+- [Financing climate solutions: Do it the easy way or the impactful way?](https://techcrunch.com/2023/09/05/financing-climate-solutions-do-it-the-easy-way-or-the-impactful-way/)
+- [A closer look at e/OS: Murena’s privacy-first ‘deGoogled’ Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
 - [Create a ‘permissionless’ pilot program that drives sales and delights customers](https://techcrunch.com/2023/09/05/create-a-permissionless-pilot-program-that-drives-sales-and-delights-customers/)
 - [India warns of malware attacks targeting its Android users](https://techcrunch.com/2023/09/05/india-advisory-dogerat-malware-android-users/)
-- [ThetaRay nabs $57M for AI tools to fight money laundering](https://techcrunch.com/2023/09/05/thetaray-nabs-57m-for-ai-tools-to-id-and-fight-money-laundering/)
-- [Europe assembles Hera spacecraft to eye aftermath of DART asteroid crash &lpar;video, photos&rpar;](https://www.space.com/esa-assembles-hera-spacecraft-dart-asteroid-crash)
-- [The ozone hole above Antarctica opened early this year. Huge Tonga undersea volcano eruption may be to blame](https://www.space.com/antarctic-ozone-hole-early-hunga-tonga)
 <!-- BLOG-POST-LIST:END -->
 
 ---
