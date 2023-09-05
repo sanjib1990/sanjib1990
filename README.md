@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opna wants to help companies hit ‘net zero’ by finding and funding carbon projects](https://techcrunch.com/2023/09/05/opna-wants-to-help-companies-hit-net-zero-by-finding-and-funding-carbon-projects/)
+- [The US can’t kill crypto: Real regulations are coming](https://techcrunch.com/2023/09/04/the-us-cant-kill-crypto-real-regulations-are-coming/)
+- [Atomicwork connects workers and their companies](https://techcrunch.com/2023/09/04/atomicwork/)
 - [Worldover is a compliance platform for cosmetic products &lpar;and soon any product&rpar;](https://techcrunch.com/2023/09/04/worldover-is-a-compliance-platform-for-cosmetic-products-and-soon-any-product/)
 - [Kotani gets $2M pre-seed to help African workers send money home via crypto — without the internet](https://techcrunch.com/2023/09/04/kotani-pay/)
-- [Envisics closes $100M to advance AR heads-up display tech in cars](https://techcrunch.com/2023/09/04/envisics-closes-100m-to-advance-ar-heads-up-display-tech-in-cars/)
-- [Telecom companies in India want tech firms to pay for network usage](https://techcrunch.com/2023/09/04/telecom-operators-in-india-want-tech-companies-to-pay-for-network-usage/)
-- [Protestors rally at Cruise HQ in San Francisco](https://techcrunch.com/2023/09/04/protestors-rally-at-cruise-hq-in-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
