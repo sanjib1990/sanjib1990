@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last call! Volunteer your way to attend TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/05/last-call-volunteer-your-way-to-attend-techcrunch-disrupt-2023/)
+- [U.S. App Store downloads are dropping, new data indicates](https://techcrunch.com/2023/09/05/u-s-app-store-downloads-are-dropping-new-data-indicates/)
+- [Hacking device Flipper Zero can spam nearby iPhones with Bluetooth pop-ups](https://techcrunch.com/2023/09/05/flipper-zero-hacking-iphone-flood-popups/)
 - [&#39;Star Trek: Picard&#39;s Academy&#39; comic shows how a young Jean-Luc got schooled](https://www.space.com/star-trek-comic-picards-academy-jean-luc)
 - [FedNow will expose fintech’s gaps: Compliance-by-design can help banks avoid risk](https://techcrunch.com/2023/09/05/fednow-impact-on-fintech-regulatory-compliance/)
-- [Perseverance Mars rover spots &#39;shark fin&#39; and &#39;crab claw&#39; rocks on Red Planet &lpar;photo&rpar;](https://www.space.com/nasa-perserverance-shark-fin-crab-claw-rock-mars)
-- [Major AI players are getting in sync, but it’s what comes next that really matters](https://techcrunch.com/2023/09/05/major-ai-players-are-getting-in-sync-but-its-what-comes-next-that-really-matters/)
-- [TechCrunch+ Roundup: How to buy AI, ‘permissionless’ pilots, new VC disclosure rules](https://techcrunch.com/2023/09/05/techcrunch-roundup-how-to-buy-ai-permissionless-pilots-new-vc-disclosure-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
