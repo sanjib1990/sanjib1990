@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-time flight rewards search engine Point.me raises $10M](https://techcrunch.com/2023/09/05/real-time-flight-rewards-search-engine-point-me-raises-10m/)
-- [Financing climate solutions: Do it the easy way or the impactful way?](https://techcrunch.com/2023/09/05/financing-climate-solutions-do-it-the-easy-way-or-the-impactful-way/)
-- [A closer look at e/OS: Murena’s privacy-first ‘deGoogled’ Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
-- [Create a ‘permissionless’ pilot program that drives sales and delights customers](https://techcrunch.com/2023/09/05/create-a-permissionless-pilot-program-that-drives-sales-and-delights-customers/)
-- [India warns of malware attacks targeting its Android users](https://techcrunch.com/2023/09/05/india-advisory-dogerat-malware-android-users/)
+- [Chipmaker NXP confirms data breach involving customers’ information](https://techcrunch.com/2023/09/05/chipmaker-nxp-confirms-data-breach-involving-customers-information/)
+- [Zoom rebrands existing — and intros new — generative AI features](https://techcrunch.com/2023/09/05/zoom-rebrands-existing-and-intros-new-generative-ai-features/)
+- [Harmonya bags $20M to decipher product data for CPG brands](https://techcrunch.com/2023/09/05/harmonya-20m-product-data-cpg/)
+- [Gleen’s tech-savvy chatbot for Discord and Slack attracts Solana founder in oversubscribed round](https://techcrunch.com/2023/09/05/gleens-tech-savvy-chatbot-for-discord-and-slack-attracts-solana-founder-in-oversubscribed-round/)
+- [Connect Ventures hits $80M for its next fund, says the Bear market means ‘Product is back, baby!’](https://techcrunch.com/2023/09/05/connect-ventures-hits-80m-for-its-next-fund-says-the-bear-market-means-product-is-back-baby/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
