@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk to sue ADL for falsely accusing him, X of antisemitism](https://techcrunch.com/2023/09/04/elon-musk-to-sue-adl-for-falsely-accusing-him-x-of-antisemitism/)
+- [Elon Musk to sue ADL for accusing him, X of antisemitism](https://techcrunch.com/2023/09/04/elon-musk-to-sue-adl-for-falsely-accusing-him-x-of-antisemitism/)
 - [Max Q: An inside look at Astra’s Apollo Fusion acquisition](https://techcrunch.com/2023/09/04/max-q-an-inside-look-at-astras-apollo-fusion-acquisition/)
 - [Marvel&#39;s &#39;Predator vs. Wolverine #1&#39; claws its way through 8 awesome variant covers](https://www.space.com/predator-wolverine-marvel-comics-variant-covers)
 - [Astronauts on ISS can face muscle loss in microgravity – a new ESA experiment may help](https://www.space.com/iss-astronauts-microgravity-muscle-loss-esa-experiment)
