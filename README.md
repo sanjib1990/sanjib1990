@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify founder Daniel Ek admits he initially ‘didn’t get’ the appeal of the flagship feature, Discover Weekly](https://techcrunch.com/2023/09/05/spotify-founder-daniel-ek-admits-he-initially-didnt-get-the-appeal-of-the-flagship-feature-discover-weekly/)
+- [Latch is becoming Door.com](https://techcrunch.com/2023/09/05/latch-is-becoming-door-com/)
 - [What’s next for Atlassian? Rajeev Rajan tells all &lpar;maybe&rpar; at TC Disrupt 2023](https://techcrunch.com/2023/09/05/whats-next-for-atlassian-rajeev-rajan-tells-all-maybe-at-tc-disrupt-2023/)
 - [Robot software firm Mujin raises $85M](https://techcrunch.com/2023/09/05/robot-software-firm-mujin-raises-85m/)
 - [Sam Altman-backed Mentra aims to match neurodivergent jobseekers with ideal jobs](https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/)
-- [TikTok starts shifting European data to its first local data center; full migration expected by Q4 2024](https://techcrunch.com/2023/09/05/tiktok-europe-data-center/)
-- [How to stream NFL games for the 2023 season](https://techcrunch.com/2023/09/05/how-to-stream-nfl-games-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
