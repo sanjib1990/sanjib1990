@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [500 Global closes $143M fund for Southeast Asia startups](https://techcrunch.com/2023/09/06/500-global-closes-143m-fund-for-southeast-asia-startups/)
-- [Meta denied injunction against Norway’s ban order on its surveillance ads](https://techcrunch.com/2023/09/06/meta-surveillance-ads-injunction-fail/)
-- [HubSpot unveils strategy to integrate AI across the platform](https://techcrunch.com/2023/09/06/hubspot-unveils-ai-hub-incorporating-new-and-existing-pieces/)
-- [&#39;Ahsoka&#39; season 1 episode 4 review: Fateful encounters and a return](https://www.space.com/ahsoka-season-1-episode-4-review)
-- [Read-it-later app Matter can now transcribe your favorite podcasts](https://techcrunch.com/2023/09/06/read-it-later-app-matter-can-now-transcribe-your-favorite-podcasts/)
+- [Caroline Herschel was England&#39;s first female professional astronomer, but still lacks name recognition two centuries later](https://www.space.com/caroline-herschel-englands-first-female-astronomer)
+- [Tech companies are finding their profitability groove](https://techcrunch.com/2023/09/06/tech-companies-are-finding-their-profitability-groove/)
+- [Tubi sees impressive growth, with over 74M monthly active users](https://techcrunch.com/2023/09/06/tubi-gains-over-74m-monthly-active-users/)
+- [The Polestar 4 will launch in China with its own smartphone](https://techcrunch.com/2023/09/06/the-polestar-4-will-launch-in-china-with-its-own-smartphone/)
+- [Earliest magnetic galaxy ever detected offers clues about Milky Way history](https://www.space.com/ancient-galaxy-magnetic-fields-earliest-detected)
 <!-- BLOG-POST-LIST:END -->
 
 ---
