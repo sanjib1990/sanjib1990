@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Read-it-later app Matter can now transcribe your favorite podcasts](https://techcrunch.com/2023/09/06/read-it-later-app-matter-can-now-transcribe-your-favorite-podcasts/)
+- [Bandana is building a platform to help hourly wage workers find better jobs](https://techcrunch.com/2023/09/06/bandana-is-building-a-platform-to-help-hourly-wage-workers-find-better-jobs/)
+- [GoPro Hero 12 Black: battery life’s the thing](https://techcrunch.com/2023/09/06/gopro-hero-12-black-battery-lifes-the-thing/)
+- [Duolingo confirms its app will soon include both math and music lessons](https://techcrunch.com/2023/09/06/duolingo-confirms-its-app-will-soon-include-both-math-and-music-lessons/)
 - [Ask Sophie: How do I bring my team members to the US from India?](https://techcrunch.com/2023/09/06/ask-sophie-how-do-i-bring-my-team-members-to-the-u-s-from-india/)
-- [Amy Schumer, Mark Wahlberg among SkinnyDipped’s star-studded $12M Series A](https://techcrunch.com/2023/09/06/amy-schumer-mark-wahlberg-skinnydipped-12m/)
-- [Sonos’ Move portable speaker gets a sequel](https://techcrunch.com/2023/09/06/sonos-move-portable-speaker-gets-a-sequel/)
-- [API security startup Pynt raises $6M](https://techcrunch.com/2023/09/06/api-security-startup-pynt-raises-6m/)
-- [Meet the AI, fintech, SaaS and security industry chairs at TC Disrupt 2023](https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
