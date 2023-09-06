@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Affordable, high-tech EVs in focus at Munich’s IAA Mobility 2023](https://techcrunch.com/2023/09/05/affordable-high-tech-evs-in-focus-at-munichs-iaa-mobility-2023/)
+- [Spotify strips lyrics from free tier for some users in new ‘test’](https://techcrunch.com/2023/09/05/spotify-lyrics-free-tier-premium-test/)
+- [L3Harris inks three launch deal on Firefly’s Alpha rocket](https://techcrunch.com/2023/09/05/l3harris-inks-three-launch-deal-on-fireflys-alpha-rocket/)
 - [Prosecutors in every state push to combat AI child exploitation](https://techcrunch.com/2023/09/05/prosecutors-in-every-state-push-to-combat-ai-child-exploitation/)
 - [Australia launching moon rover on NASA Artemis mission as soon as 2026](https://www.space.com/australia-moon-rover-2026-nasa-artemis)
-- [&#39;Twisty&#39; new theory of gravity says information can escape black holes after all](https://www.space.com/twisty-theory-of-gravity-says-information-can-escape-black-holes)
-- [Black holes keep &#39;burping up&#39; stars they destroyed years earlier, and astronomers don&#39;t know why](https://www.space.com/black-holes-burping-stars-astronomers-stumped)
-- [‘Ask Sophie’ book excerpt: A startup founder’s guide to O-1A visas](https://techcrunch.com/2023/09/05/a-startup-founders-guide-to-o-1a-visas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
