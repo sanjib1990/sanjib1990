@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino nabs $22 million in fresh funding to support expansion into enterprise](https://techcrunch.com/2023/09/06/arduino-nabs-22-million-in-fresh-funding-to-support-expansion-into-enterprise/)
-- [SpaceX stacks giant Starship rocket ahead of 2nd test flight &lpar;photos&rpar;](https://www.space.com/spacex-stacks-starship-second-test-flight-photos)
-- [Sleeping on the ISS isn&#39;t easy. This lamp for astronauts could help](https://www.space.com/iss-astronauts-sleep-circadian-rhythm-lamp)
-- [EU confirms six &lpar;mostly US&rpar; tech giants are subject to Digital Markets Act](https://techcrunch.com/2023/09/06/dma-gatekeepers-named/)
-- [China reportedly bars some government officials from using iPhones](https://techcrunch.com/2023/09/06/china-reportedly-bars-some-government-officials-from-using-iphones/)
+- [Google is putting short videos on Play Store to aid app discovery](https://techcrunch.com/2023/09/06/google-is-putting-short-videos-on-play-store-to-aid-app-discovery/)
+- [SimpleClosure raises $1.5M in less than 24 hours to help companies shut down faster and cheaper](https://techcrunch.com/2023/09/06/simpleclosure-raises-1-5m-to-companies-shut-down-faster-and-cheaper/)
+- [Intuit launches generative AI–powered digital assistant for small businesses and consumers](https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/)
+- [See the half-lit last quarter moon ride the Bull tonight](https://www.space.com/moon-half-lit-last-quarter-rides-bull-september-2023)
+- [Firstcard raises seed funding to help college students build better credit](https://techcrunch.com/2023/09/06/firstcard-raises-seed-funding-to-help-college-students-build-better-credit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
