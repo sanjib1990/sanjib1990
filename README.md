@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [my browser, my paste](https://www.youtube.com/watch?v=7bmsDg4BaKw)
-- [Turing Machine Alternative &lpar;Counter Machines&rpar; - Computerphile](https://www.youtube.com/watch?v=PXN7jTNGQIw)
-- [Lecture 3: Biochemistry 2 &lpar;audio only&rpar;](https://www.youtube.com/watch?v=bbh5AQTX8r4)
-- [how did I NOT know about this?](https://www.youtube.com/watch?v=poDIT2ruQ9M)
-- [The ruthless forking of Terraform](https://www.youtube.com/watch?v=HzBA6FIn_Bo)
+- [Lecture 20: Postmodern approaches  &lpar;audio only&rpar;](https://www.youtube.com/watch?v=4BCo99RDmVM)
+- [Lecture 17: George Russell and modal jazz &lpar;audio only&rpar;](https://www.youtube.com/watch?v=VLzFL42wt-k)
+- [Lecture 18: Afro-Cuban music and bebop &lpar;audio only&rpar;](https://www.youtube.com/watch?v=31XMdkFxAxw)
+- [Lecture 16: Gil Evans / Miles Davis collaborations &lpar;audio only&rpar;](https://www.youtube.com/watch?v=PoU8NbLcR24)
+- [13. Health System Design: Lessons from Rwanda and Haiti &lpar;audio only&rpar;](https://www.youtube.com/watch?v=MuNpOg4W7jk)
 <!-- YOUTUBE:END -->
 
 ---
