@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chris Lehane of Haun Ventures to dive into firm’s investing strategy and the web3 VC landscape at TechCrunch Disrupt](https://techcrunch.com/2023/09/06/chris-lehane-of-haun-ventures-to-dive-into-firms-investing-strategy-and-the-web3-vc-landscape-at-techcrunch-disrupt/)
-- [Twitter alternative T2 gets its own For You feed, but won’t force it as the default](https://techcrunch.com/2023/09/06/twitter-alternative-t2-gets-its-own-for-you-feed-but-wont-force-it-as-the-default/)
-- [Could an &#39;Earth-like&#39; planet be hiding in our solar system&#39;s outer reaches?](https://www.space.com/earth-like-planet-hiding-in-outer-solar-system)
-- [Voiijer’s new app offers a social community for nature-lovers and explorers](https://techcrunch.com/2023/09/06/voiijers-new-app-offers-a-social-community-for-nature-lovers-and-explorers/)
-- [OnePlus’ North American CEO is speaking at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/06/oneplus-north-american-ceo-is-speaking-at-techcrunch-disrupt-2023/)
+- [Google Cloud’s CEO will discuss AI and what’s next at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/06/google-clouds-ceo-will-discuss-ai-and-whats-next-at-techcrunch-disrupt-2023/)
+- [Here&#39;s our last look at Europe&#39;s Aeolus satellite falling to its fiery death &lpar;photo&rpar;](https://www.space.com/esa-aeolus-satellite-last-look-fiery-reentry-photo)
+- [Ransomware gang claims credit for Sabre data breach](https://techcrunch.com/2023/09/06/ransomware-gang-claims-credit-for-sabre-data-breach/)
+- [Blockchain tech needs a ‘ChatGPT moment’ to scale enterprise adoption](https://techcrunch.com/2023/09/06/blockchain-tech-needs-a-chatgpt-moment-to-scale-enterprise-adoption/)
+- [5 neat AI startups from Y Combinator’s Summer 2023 batch](https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
