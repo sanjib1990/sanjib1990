@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is putting short videos on Play Store to aid app discovery](https://techcrunch.com/2023/09/06/google-is-putting-short-videos-on-play-store-to-aid-app-discovery/)
-- [SimpleClosure raises $1.5M in less than 24 hours to help companies shut down faster and cheaper](https://techcrunch.com/2023/09/06/simpleclosure-raises-1-5m-to-companies-shut-down-faster-and-cheaper/)
-- [Intuit launches generative AI–powered digital assistant for small businesses and consumers](https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/)
-- [See the half-lit last quarter moon ride the Bull tonight](https://www.space.com/moon-half-lit-last-quarter-rides-bull-september-2023)
-- [Firstcard raises seed funding to help college students build better credit](https://techcrunch.com/2023/09/06/firstcard-raises-seed-funding-to-help-college-students-build-better-credit/)
+- [Ask Sophie: How do I bring my team members to the US from India?](https://techcrunch.com/2023/09/06/ask-sophie-how-do-i-bring-my-team-members-to-the-u-s-from-india/)
+- [Amy Schumer, Mark Wahlberg among SkinnyDipped’s star-studded $12M Series A](https://techcrunch.com/2023/09/06/amy-schumer-mark-wahlberg-skinnydipped-12m/)
+- [Sonos’ Move portable speaker gets a sequel](https://techcrunch.com/2023/09/06/sonos-move-portable-speaker-gets-a-sequel/)
+- [API security startup Pynt raises $6M](https://techcrunch.com/2023/09/06/api-security-startup-pynt-raises-6m/)
+- [Meet the AI, fintech, SaaS and security industry chairs at TC Disrupt 2023](https://techcrunch.com/2023/09/06/meet-the-ai-fintech-saas-and-security-industry-chairs-at-tc-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
