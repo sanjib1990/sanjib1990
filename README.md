@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Arduino nabs $22 million in fresh funding to support expansion into enterprise](https://techcrunch.com/2023/09/06/arduino-nabs-22-million-in-fresh-funding-to-support-expansion-into-enterprise/)
+- [SpaceX stacks giant Starship rocket ahead of 2nd test flight &lpar;photos&rpar;](https://www.space.com/spacex-stacks-starship-second-test-flight-photos)
+- [Sleeping on the ISS isn&#39;t easy. This lamp for astronauts could help](https://www.space.com/iss-astronauts-sleep-circadian-rhythm-lamp)
 - [EU confirms six &lpar;mostly US&rpar; tech giants are subject to Digital Markets Act](https://techcrunch.com/2023/09/06/dma-gatekeepers-named/)
 - [China reportedly bars some government officials from using iPhones](https://techcrunch.com/2023/09/06/china-reportedly-bars-some-government-officials-from-using-iphones/)
-- [LocalGlobe and Pronomos Capital back Itana to pave the way for Africa’s first digital free zone](https://techcrunch.com/2023/09/06/localglobe-and-pronomos-capital-back-itana-to-pave-the-way-for-africas-first-digital-free-zone/)
-- [Oyo India chief, Europe head quit amid public listing deliberation](https://techcrunch.com/2023/09/06/senior-executives-quit-oyo-amid-public-listing-deliberation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
