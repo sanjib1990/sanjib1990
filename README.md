@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Senior executives quit SoftBank-backed Oyo amid public listing deliberation](https://techcrunch.com/2023/09/06/senior-executives-quit-oyo-amid-public-listing-deliberation/)
+- [Apple says iPhone and iPad apps will show up on the visionOS App Store from the get-go](https://techcrunch.com/2023/09/05/apple-says-iphone-and-ipad-apps-will-show-up-on-the-visionos-app-store-from-the-get-go/)
 - [Josys, a SaaS management platform, raises $93M](https://techcrunch.com/2023/09/05/josys-a-saas-management-platform-raises-93m/)
 - [Nonprofits can profit from a discount to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/05/nonprofits-can-profit-from-a-discount-to-techcrunch-disrupt-2023/)
 - [Affordable, high-tech EVs in focus at Munich’s IAA Mobility 2023](https://techcrunch.com/2023/09/05/affordable-high-tech-evs-in-focus-at-munichs-iaa-mobility-2023/)
-- [Spotify strips lyrics from free tier for some users in new ‘test’](https://techcrunch.com/2023/09/05/spotify-lyrics-free-tier-premium-test/)
-- [L3Harris inks three launch deal on Firefly’s Alpha rocket](https://techcrunch.com/2023/09/05/l3harris-inks-three-launch-deal-on-fireflys-alpha-rocket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
