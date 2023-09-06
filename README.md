@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Caroline Herschel was England&#39;s first female professional astronomer, but still lacks name recognition two centuries later](https://www.space.com/caroline-herschel-englands-first-female-astronomer)
-- [Tech companies are finding their profitability groove](https://techcrunch.com/2023/09/06/tech-companies-are-finding-their-profitability-groove/)
-- [Tubi sees impressive growth, with over 74M monthly active users](https://techcrunch.com/2023/09/06/tubi-gains-over-74m-monthly-active-users/)
-- [The Polestar 4 will launch in China with its own smartphone](https://techcrunch.com/2023/09/06/the-polestar-4-will-launch-in-china-with-its-own-smartphone/)
-- [Earliest magnetic galaxy ever detected offers clues about Milky Way history](https://www.space.com/ancient-galaxy-magnetic-fields-earliest-detected)
+- [Chris Lehane of Haun Ventures to dive into firm’s investing strategy and the web3 VC landscape at TechCrunch Disrupt](https://techcrunch.com/2023/09/06/chris-lehane-of-haun-ventures-to-dive-into-firms-investing-strategy-and-the-web3-vc-landscape-at-techcrunch-disrupt/)
+- [Twitter alternative T2 gets its own For You feed, but won’t force it as the default](https://techcrunch.com/2023/09/06/twitter-alternative-t2-gets-its-own-for-you-feed-but-wont-force-it-as-the-default/)
+- [Could an &#39;Earth-like&#39; planet be hiding in our solar system&#39;s outer reaches?](https://www.space.com/earth-like-planet-hiding-in-outer-solar-system)
+- [Voiijer’s new app offers a social community for nature-lovers and explorers](https://techcrunch.com/2023/09/06/voiijers-new-app-offers-a-social-community-for-nature-lovers-and-explorers/)
+- [OnePlus’ North American CEO is speaking at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/06/oneplus-north-american-ceo-is-speaking-at-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
