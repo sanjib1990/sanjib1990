@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [500 Global closes $143M fund for Southeast Asia startups](https://techcrunch.com/2023/09/06/500-global-closes-143m-fund-for-southeast-asia-startups/)
+- [Meta denied injunction against Norway’s ban order on its surveillance ads](https://techcrunch.com/2023/09/06/meta-surveillance-ads-injunction-fail/)
+- [HubSpot unveils strategy to integrate AI across the platform](https://techcrunch.com/2023/09/06/hubspot-unveils-ai-hub-incorporating-new-and-existing-pieces/)
+- [&#39;Ahsoka&#39; season 1 episode 4 review: Fateful encounters and a return](https://www.space.com/ahsoka-season-1-episode-4-review)
 - [Read-it-later app Matter can now transcribe your favorite podcasts](https://techcrunch.com/2023/09/06/read-it-later-app-matter-can-now-transcribe-your-favorite-podcasts/)
-- [Bandana is building a platform to help hourly wage workers find better jobs](https://techcrunch.com/2023/09/06/bandana-is-building-a-platform-to-help-hourly-wage-workers-find-better-jobs/)
-- [GoPro Hero 12 Black: battery life’s the thing](https://techcrunch.com/2023/09/06/gopro-hero-12-black-battery-lifes-the-thing/)
-- [Duolingo confirms its app will soon include both math and music lessons](https://techcrunch.com/2023/09/06/duolingo-confirms-its-app-will-soon-include-both-math-and-music-lessons/)
-- [Ask Sophie: How do I bring my team members to the US from India?](https://techcrunch.com/2023/09/06/ask-sophie-how-do-i-bring-my-team-members-to-the-u-s-from-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
