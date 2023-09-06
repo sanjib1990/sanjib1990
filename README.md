@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the sun&#39;s atmosphere like never before thanks to a simple Solar Orbiter camera hack &lpar;video&rpar;](https://www.space.com/solar-orbiter-peers-deeper-into-sun-atmosphere)
 - [Google Cloud’s CEO will discuss AI and what’s next at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/06/google-clouds-ceo-will-discuss-ai-and-whats-next-at-techcrunch-disrupt-2023/)
 - [Here&#39;s our last look at Europe&#39;s Aeolus satellite falling to its fiery death &lpar;photo&rpar;](https://www.space.com/esa-aeolus-satellite-last-look-fiery-reentry-photo)
 - [Ransomware gang claims credit for Sabre data breach](https://techcrunch.com/2023/09/06/ransomware-gang-claims-credit-for-sabre-data-breach/)
 - [Blockchain tech needs a ‘ChatGPT moment’ to scale enterprise adoption](https://techcrunch.com/2023/09/06/blockchain-tech-needs-a-chatgpt-moment-to-scale-enterprise-adoption/)
-- [5 neat AI startups from Y Combinator’s Summer 2023 batch](https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
