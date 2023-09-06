@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Ingenuity helicopter soars past 100 minutes of total Mars flight time](https://www.space.com/nasa-ingenuity-mars-helicopter-57th-flight-100-minutes)
+- [Clubhouse is trying to make a comeback](https://techcrunch.com/2023/09/06/clubhouse-is-trying-to-make-a-comeback/)
+- [Bubble of galaxies spanning 1 billion light-years could be a fossil of the Big Bang](https://www.space.com/billion-light-year-wide-galaxy-bubble-big-bang)
+- [SpaceX launch of NASA&#39;s Psyche mission to bizarre metal asteroid just 1 month away](https://www.space.com/nasa-psyche-metal-asteroid-mission-one-month-launch)
 - [OpenAI will host its first developer conference on November 6](https://techcrunch.com/2023/09/06/openai-will-host-its-first-developer-conference-on-november-6/)
-- [Hubble Space Telescope sees lonely galaxy looming in isolation &lpar;photo&rpar;](https://www.space.com/isolated-galaxy-hubble-space-telescope-photo)
-- [TechCrunch Disrupt 2023 Startup Battlefield 200: Health tech and sustainability](https://techcrunch.com/2023/09/06/techcrunch-disrupt-2023-startup-battlefield-200-health-tech-and-sustainability/)
-- [&#39;Star Trek: Lower Decks&#39; drops a wild new Season 4 trailer and official poster &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-season-4-trailer)
-- [Our favorite startups from YC’s Summer 2023 Demo Day, Day 1](https://techcrunch.com/2023/09/06/ycombinator-demo-day-one-summer-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
