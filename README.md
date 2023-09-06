@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the sun&#39;s atmosphere like never before thanks to a simple Solar Orbiter camera hack &lpar;video&rpar;](https://www.space.com/solar-orbiter-peers-deeper-into-sun-atmosphere)
-- [Google Cloud’s CEO will discuss AI and what’s next at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/06/google-clouds-ceo-will-discuss-ai-and-whats-next-at-techcrunch-disrupt-2023/)
-- [Here&#39;s our last look at Europe&#39;s Aeolus satellite falling to its fiery death &lpar;photo&rpar;](https://www.space.com/esa-aeolus-satellite-last-look-fiery-reentry-photo)
-- [Ransomware gang claims credit for Sabre data breach](https://techcrunch.com/2023/09/06/ransomware-gang-claims-credit-for-sabre-data-breach/)
-- [Blockchain tech needs a ‘ChatGPT moment’ to scale enterprise adoption](https://techcrunch.com/2023/09/06/blockchain-tech-needs-a-chatgpt-moment-to-scale-enterprise-adoption/)
+- [OpenAI will host its first developer conference on November 6](https://techcrunch.com/2023/09/06/openai-will-host-its-first-developer-conference-on-november-6/)
+- [Hubble Space Telescope sees lonely galaxy looming in isolation &lpar;photo&rpar;](https://www.space.com/isolated-galaxy-hubble-space-telescope-photo)
+- [TechCrunch Disrupt 2023 Startup Battlefield 200: Health tech and sustainability](https://techcrunch.com/2023/09/06/techcrunch-disrupt-2023-startup-battlefield-200-health-tech-and-sustainability/)
+- [&#39;Star Trek: Lower Decks&#39; drops a wild new Season 4 trailer and official poster &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-season-4-trailer)
+- [Our favorite startups from YC’s Summer 2023 Demo Day, Day 1](https://techcrunch.com/2023/09/06/ycombinator-demo-day-one-summer-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
