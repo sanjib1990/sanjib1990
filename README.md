@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exposed: A closer look at seed investors’ biases and incentives](https://techcrunch.com/2023/09/07/exposed-a-closer-look-at-seed-investors-biases-and-incentives/)
+- [AI reading coach startup Ello raises $15M to bolster child literacy](https://techcrunch.com/2023/09/07/ai-reading-coach-startup-ello-raises-15-million-to-bolster-child-literacy/)
+- [Newly discovered asteroid zooms within 2,500 miles of Earth](https://www.space.com/small-asteroid-earth-near-miss-september-2023)
+- [What we expect from Apple’s ‘Wonderlust’ 15 event](https://techcrunch.com/2023/09/07/what-we-expect-from-apples-wonderlust-15-event/)
 - [Who is Ezra Bridger?](https://www.space.com/who-is-ezra-bridger)
-- [The perils of the platforms of paranoia](https://techcrunch.com/2023/09/07/platforms-of-paranoia/)
-- [Show me the revenue growth](https://techcrunch.com/2023/09/07/show-me-the-revenue-growth/)
-- [Imbue raises $200M to build AI models that can ‘robustly reason’](https://techcrunch.com/2023/09/07/imbue-raises-200m-to-build-ai-models-that-can-robustly-reason/)
-- [SoundCloud’s TikTok-styled discovery feed is rolling out to everyone](https://techcrunch.com/2023/09/07/soundclouds-tiktok-styled-discovery-feed-is-rolling-out-to-everyone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
