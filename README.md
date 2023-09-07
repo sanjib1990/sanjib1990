@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Syscap closes on $2.3M to create private credit infrastructure in Mexico](https://techcrunch.com/2023/09/07/syscap-2-3m-private-credit-mexico/)
-- [Compliance and risk management startup Certa raises $35M](https://techcrunch.com/2023/09/07/compliance-and-risk-management-startup-certa-raises-35m/)
-- [ActiveFence snaps up Spectrum Labs, last valued at $137M, to help fight the harmful content creep](https://techcrunch.com/2023/09/07/activefence-snaps-up-spectrum-labs-last-valued-at-137m-to-help-fight-the-harmful-content-creep/)
-- [Mindtrip wants to become your AI travel agent](https://techcrunch.com/2023/09/07/mindtrip-ai-travel-agent/)
-- [Derivative works are generative AI’s poison pill](https://techcrunch.com/2023/09/07/derivative-works-are-generative-ais-poison-pill/)
+- [Honda confirms it will use Tesla’s EV charging port from 2025](https://techcrunch.com/2023/09/07/honda-confirms-it-will-use-teslas-ev-charging-port/)
+- [Japanese brand Cosmology to provide skincare for astronauts aboard the ISS](https://www.space.com/cosmology-skincare-astronauts-international-space-station)
+- [SAP nabs German startup LeanIX to help companies modernize faster](https://techcrunch.com/2023/09/07/sap-nabs-german-startup-leanix-to-help-companies-modernize-faster/)
+- [Pinterest’s new computer vision-powered body type technology to make search more inclusive](https://techcrunch.com/2023/09/07/pinterests-new-computer-vision-powered-body-type-technology-to-make-search-more-inclusive/)
+- [Celestron EclipSmart Travel Solar Scope 50 telescope review](https://www.space.com/celestron-eclipsmart-travel-solar-scope-50-telescope-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
