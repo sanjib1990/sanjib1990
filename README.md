@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s Aditya-L1 solar mission takes an epic selfie with Earth and moon](https://www.space.com/india-aditya-1-solar-mission-selfie-earth-moon)
+- [Powerful Hurricane Jova spotted from space &lpar;video&rpar;](https://www.space.com/satellite-photos-hurricane-jova-lee)
+- [Threads expands search to ‘most’ English and Spanish-speaking countries, including U.S.](https://techcrunch.com/2023/09/07/threads-expands-search-to-most-english-and-spanish-speaking-countries/)
 - [Our favorite startups from YC’s Summer 2023 Demo Day, Day 2](https://techcrunch.com/2023/09/07/ycombinator-demo-day-two-summer-2023/)
 - [Startup Battlefield 200: Fintech and Hardware edition at TC Disrupt 2003](https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/)
-- [Korea Blockchain Week focused on web3 gaming, institutional involvement, investors, regulation…and more](https://techcrunch.com/2023/09/07/korea-blockchain-week-focused-on-web3-gaming-institutional-involvement-investors-regulation-and-more/)
-- [China launches classified Yaogan remote sensing satellites &lpar;video&rpar;](https://www.space.com/china-launching-yaogan-military-reconnaissance-satellites)
-- [Take a look at Google’s Pixel 8, Pixel 8 Pro and Pixel Watch 2](https://techcrunch.com/2023/09/07/take-a-look-at-googles-pixel-8-pixel-8-pro-and-pixel-watch-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
