@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [U.K. rejoins Europe’s Horizon R&amp;D program after prolonged Brexit stalemate](https://techcrunch.com/2023/09/07/u-k-rejoins-horizon-rd-program-after-3-year-brexit-stalemate/)
 - [Gaming browser Opera GX integrates ChatGPT-powered AI feature](https://techcrunch.com/2023/09/07/gaming-browser-opera-gx-integrates-chatgpt-powered-ai-feature/)
 - [US test launches unarmed ballistic missile from Vandenberg Space Force Base](https://www.space.com/us-test-launches-icbm-vandenberg-september-2023)
-- [Watch a NASA moon rover practice leaving its lunar lander &lpar;video&rpar;](https://www.space.com/nasa-moon-rover-practice-crawl-lunar-lander)
+- [Watch NASA&#39;s VIPER moon rover practice leaving its lunar lander &lpar;video&rpar;](https://www.space.com/nasa-moon-rover-practice-crawl-lunar-lander)
 - [Base Ecosystem Fund, Hashed Emergent invest $1.9M in Nestcoin to scale its Onboard product](https://techcrunch.com/2023/09/07/base-ecosystem-fund-hashed-emergent-invest-1-9m-in-nestcoin-to-scale-its-onboard-product/)
-- [Instagram is testing a feature to let you share feed posts just with ‘Close Friends’](https://techcrunch.com/2023/09/06/instagram-is-testing-a-feature-to-let-you-share-feed-posts-just-with-close-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
