@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [unboxing my SECRET project!!](https://www.youtube.com/watch?v=SWyXQfiN_Vo)
 - [Kernelless Kernel Programming &lpar;eBPF&rpar; - Computerphile](https://www.youtube.com/watch?v=J_EehoXLbIU)
 - [Lecture 20: Postmodern approaches  &lpar;audio only&rpar;](https://www.youtube.com/watch?v=4BCo99RDmVM)
 - [Lecture 17: George Russell and modal jazz &lpar;audio only&rpar;](https://www.youtube.com/watch?v=VLzFL42wt-k)
 - [Lecture 18: Afro-Cuban music and bebop &lpar;audio only&rpar;](https://www.youtube.com/watch?v=31XMdkFxAxw)
-- [Lecture 16: Gil Evans / Miles Davis collaborations &lpar;audio only&rpar;](https://www.youtube.com/watch?v=PoU8NbLcR24)
 <!-- YOUTUBE:END -->
 
 ---
