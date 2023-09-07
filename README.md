@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newfound Comet Nishimura got its tail blown off by a solar storm. It grew back and still looks gorgeous &lpar;photos&rpar;](https://www.space.com/new-comet-nishimura-photos-september-2023)
+- [Apple fixes zero-day bugs used to plant Pegasus spyware](https://techcrunch.com/2023/09/07/apple-fixes-zero-day-bugs-used-to-plant-pegasus-spyware/)
+- [FCC finally gets its 5th Commissioner in Anna Gomez](https://techcrunch.com/2023/09/07/fcc-finally-gets-its-5th-commissioner-in-anna-gomez/)
+- [What is India&#39;s Aditya-L1 sun mission?](https://www.space.com/aditya-l1-india-sun-observatory-mission)
 - [India&#39;s Aditya-L1 solar mission takes an epic selfie with Earth and moon](https://www.space.com/india-aditya-1-solar-mission-selfie-earth-moon)
-- [Powerful Hurricane Jova spotted from space &lpar;video&rpar;](https://www.space.com/satellite-photos-hurricane-jova-lee)
-- [Threads expands search to ‘most’ English and Spanish-speaking countries, including U.S.](https://techcrunch.com/2023/09/07/threads-expands-search-to-most-english-and-spanish-speaking-countries/)
-- [Our favorite startups from YC’s Summer 2023 Demo Day, Day 2](https://techcrunch.com/2023/09/07/ycombinator-demo-day-two-summer-2023/)
-- [Startup Battlefield 200: Fintech and Hardware edition at TC Disrupt 2003](https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
