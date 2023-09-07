@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Base Ecosystem Fund, Hashed Emergent invest $1.9M in Nestcoin to scale its Onboard product](https://techcrunch.com/2023/09/07/base-ecosystem-fund-hashed-emergent-invest-1-9m-in-nestcoin-to-scale-its-onboard-product/)
 - [Instagram is testing a feature to let you share feed posts just with ‘Close Friends’](https://techcrunch.com/2023/09/06/instagram-is-testing-a-feature-to-let-you-share-feed-posts-just-with-close-friends/)
 - [Anduril acquires Blue Force Technologies, the company behind the Fury unmanned fighter jet](https://techcrunch.com/2023/09/06/anduril-acquires-blue-force-technologies-the-company-behind-the-fury-unmanned-fighter-jet/)
 - [The question of gig worker status in Massachusetts is back on](https://techcrunch.com/2023/09/06/the-question-of-gig-worker-status-in-massachusetts-is-back-on/)
 - [Japan launches SLIM moon lander, XRISM X-ray telescope on space doubleheader &lpar;video&rpar;](https://www.space.com/japan-launches-slim-moon-lander-xrism-space-telescope)
-- [Tropical Storm Lee could become an &#39;extremely dangerous major hurricane&#39; by this weekend](https://www.space.com/tropical-storm-lee-becoming-hurricane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
