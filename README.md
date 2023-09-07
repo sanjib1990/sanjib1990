@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM rolls out new generative AI features and models](https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/)
-- [Enormous fireball meteor turns the sky over Turkey green in eerie viral video](https://www.space.com/fireball-meteor-green-over-turkey-video)
-- [Redwire Space prints human knee cartilage in space for the first time](https://techcrunch.com/2023/09/07/redwire-space-prints-human-knee-cartilage-in-space-for-the-first-time/)
-- [U.K. rejoins Europe’s Horizon R&amp;D program after prolonged Brexit stalemate](https://techcrunch.com/2023/09/07/u-k-rejoins-horizon-rd-program-after-3-year-brexit-stalemate/)
-- [Gaming browser Opera GX integrates ChatGPT-powered AI feature](https://techcrunch.com/2023/09/07/gaming-browser-opera-gx-integrates-chatgpt-powered-ai-feature/)
+- [Syscap closes on $2.3M to create private credit infrastructure in Mexico](https://techcrunch.com/2023/09/07/syscap-2-3m-private-credit-mexico/)
+- [Compliance and risk management startup Certa raises $35M](https://techcrunch.com/2023/09/07/compliance-and-risk-management-startup-certa-raises-35m/)
+- [ActiveFence snaps up Spectrum Labs, last valued at $137M, to help fight the harmful content creep](https://techcrunch.com/2023/09/07/activefence-snaps-up-spectrum-labs-last-valued-at-137m-to-help-fight-the-harmful-content-creep/)
+- [Mindtrip wants to become your AI travel agent](https://techcrunch.com/2023/09/07/mindtrip-ai-travel-agent/)
+- [Derivative works are generative AI’s poison pill](https://techcrunch.com/2023/09/07/derivative-works-are-generative-ais-poison-pill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
