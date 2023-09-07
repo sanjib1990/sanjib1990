@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zopa, the UK neobank, hits 1M customers and raises another $93M](https://techcrunch.com/2023/09/07/zopa-the-uk-neobank-hits-1m-customers-and-raises-another-93m/)
+- [BMW feels the heat, stops charging for warming cheeks](https://techcrunch.com/2023/09/07/bmw-feels-the-heat-stops-charging-for-warming-cheeks/)
+- [Relativity Space leases historic test stand from NASA to boost Terran R development](https://techcrunch.com/2023/09/07/relativity-space-leases-historic-test-stand-from-nasa-to-boost-terran-r-development/)
 - [Virgin Galactic will launch some of its 1st space tourist customers on &#39;Galactic 03&#39; flight Friday. But who&#39;s flying?](https://www.space.com/virgin-galactic-third-commercial-spaceflight-preview)
 - [Cruise nears approval to mass-produce robotaxis with no steering wheel, pedals](https://techcrunch.com/2023/09/07/cruise-nears-approval-to-mass-produce-robotaxis-with-no-steering-wheel-pedals/)
-- [Atlas V rocket rolled to pad for 2nd time for &#39;Silent Barker&#39; spysat launch &lpar;photos&rpar;](https://www.space.com/atlas-v-rocket-second-rollout-silent-barker-photos)
-- [Artists sign open letter saying generative AI is good, actually](https://techcrunch.com/2023/09/07/artists-sign-open-letter-saying-generative-ai-is-good-actually/)
-- [Newfound Comet Nishimura got its tail blown off by a solar storm. It grew back and still looks gorgeous &lpar;photos&rpar;](https://www.space.com/new-comet-nishimura-photos-september-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
