@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Patreon pilots Discord-like chatroom feature](https://techcrunch.com/2023/09/07/patreon-pilots-discord-like-chatroom-feature/)
-- [Low-code platform Retool makes it easier to bring AI smarts to business apps](https://techcrunch.com/2023/09/07/low-code-platform-retool-makes-it-easier-to-bring-ai-smarts-to-business-apps/)
-- [This black hole is devouring a dying star — but it only feasts once a month](https://www.space.com/black-hole-feasts-on-star-once-month-tidal-disruption)
-- [Google Chrome gets a visual makeover, new search features for its 15th anniversary](https://techcrunch.com/2023/09/07/google-chrome-gets-a-visual-makeover-new-search-features-for-its-15th-anniversary/)
-- [Anthropic launches a paid plan for its AI-powered chatbot](https://techcrunch.com/2023/09/07/anthropic-launches-a-paid-plan-for-its-ai-powered-chatbot/)
+- [SoundCloud’s TikTok-styled discovery feed is rolling out to everyone](https://techcrunch.com/2023/09/07/soundclouds-tiktok-styled-discovery-feed-is-rolling-out-to-everyone/)
+- [eBay rolls out a tool that generates product listings from photos](https://techcrunch.com/2023/09/07/ebay-rolls-out-a-tool-that-generates-product-listings-from-photos/)
+- [See the Great Square of Pegasus trot through the night sky this month](https://www.space.com/great-square-of-pegasus-asterism-night-sky-september)
+- [Astranis wants to bring internet connectivity to up to 5 million in Mexico](https://techcrunch.com/2023/09/07/astranis-on-its-plan-to-bring-internet-connectivity-to-5-million-in-mexico/)
+- [Meta’s Michel Protti will talk privacy and more at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/07/metas-michel-protti-will-talk-privacy-and-more-at-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
