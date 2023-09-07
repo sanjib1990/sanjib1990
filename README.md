@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Honda confirms it will use Tesla’s EV charging port from 2025](https://techcrunch.com/2023/09/07/honda-confirms-it-will-use-teslas-ev-charging-port/)
-- [Japanese brand Cosmology to provide skincare for astronauts aboard the ISS](https://www.space.com/cosmology-skincare-astronauts-international-space-station)
-- [SAP nabs German startup LeanIX to help companies modernize faster](https://techcrunch.com/2023/09/07/sap-nabs-german-startup-leanix-to-help-companies-modernize-faster/)
-- [Pinterest’s new computer vision-powered body type technology to make search more inclusive](https://techcrunch.com/2023/09/07/pinterests-new-computer-vision-powered-body-type-technology-to-make-search-more-inclusive/)
-- [Celestron EclipSmart Travel Solar Scope 50 telescope review](https://www.space.com/celestron-eclipsmart-travel-solar-scope-50-telescope-review)
+- [Patreon pilots Discord-like chatroom feature](https://techcrunch.com/2023/09/07/patreon-pilots-discord-like-chatroom-feature/)
+- [Low-code platform Retool makes it easier to bring AI smarts to business apps](https://techcrunch.com/2023/09/07/low-code-platform-retool-makes-it-easier-to-bring-ai-smarts-to-business-apps/)
+- [This black hole is devouring a dying star — but it only feasts once a month](https://www.space.com/black-hole-feasts-on-star-once-month-tidal-disruption)
+- [Google Chrome gets a visual makeover, new search features for its 15th anniversary](https://techcrunch.com/2023/09/07/google-chrome-gets-a-visual-makeover-new-search-features-for-its-15th-anniversary/)
+- [Anthropic launches a paid plan for its AI-powered chatbot](https://techcrunch.com/2023/09/07/anthropic-launches-a-paid-plan-for-its-ai-powered-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
