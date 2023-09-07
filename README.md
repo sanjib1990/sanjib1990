@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM rolls out new generative AI features and models](https://techcrunch.com/2023/09/07/ibm-rolls-out-new-generative-ai-features-and-models/)
+- [Enormous fireball meteor turns the sky over Turkey green in eerie viral video](https://www.space.com/fireball-meteor-green-over-turkey-video)
+- [Redwire Space prints human knee cartilage in space for the first time](https://techcrunch.com/2023/09/07/redwire-space-prints-human-knee-cartilage-in-space-for-the-first-time/)
 - [U.K. rejoins Europe’s Horizon R&amp;D program after prolonged Brexit stalemate](https://techcrunch.com/2023/09/07/u-k-rejoins-horizon-rd-program-after-3-year-brexit-stalemate/)
 - [Gaming browser Opera GX integrates ChatGPT-powered AI feature](https://techcrunch.com/2023/09/07/gaming-browser-opera-gx-integrates-chatgpt-powered-ai-feature/)
-- [US test launches unarmed ballistic missile from Vandenberg Space Force Base](https://www.space.com/us-test-launches-icbm-vandenberg-september-2023)
-- [Watch NASA&#39;s VIPER moon rover practice leaving its lunar lander &lpar;video&rpar;](https://www.space.com/nasa-moon-rover-practice-crawl-lunar-lander)
-- [Base Ecosystem Fund, Hashed Emergent invest $1.9M in Nestcoin to scale its Onboard product](https://techcrunch.com/2023/09/07/base-ecosystem-fund-hashed-emergent-invest-1-9m-in-nestcoin-to-scale-its-onboard-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
