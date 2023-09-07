@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic will launch some of its 1st space tourist customers on &#39;Galactic 03&#39; flight Friday. But who&#39;s flying?](https://www.space.com/virgin-galactic-third-commercial-spaceflight-preview)
+- [Cruise nears approval to mass-produce robotaxis with no steering wheel, pedals](https://techcrunch.com/2023/09/07/cruise-nears-approval-to-mass-produce-robotaxis-with-no-steering-wheel-pedals/)
+- [Atlas V rocket rolled to pad for 2nd time for &#39;Silent Barker&#39; spysat launch &lpar;photos&rpar;](https://www.space.com/atlas-v-rocket-second-rollout-silent-barker-photos)
+- [Artists sign open letter saying generative AI is good, actually](https://techcrunch.com/2023/09/07/artists-sign-open-letter-saying-generative-ai-is-good-actually/)
 - [Newfound Comet Nishimura got its tail blown off by a solar storm. It grew back and still looks gorgeous &lpar;photos&rpar;](https://www.space.com/new-comet-nishimura-photos-september-2023)
-- [Apple fixes zero-day bugs used to plant Pegasus spyware](https://techcrunch.com/2023/09/07/apple-fixes-zero-day-bugs-used-to-plant-pegasus-spyware/)
-- [FCC finally gets its 5th Commissioner in Anna Gomez](https://techcrunch.com/2023/09/07/fcc-finally-gets-its-5th-commissioner-in-anna-gomez/)
-- [What is India&#39;s Aditya-L1 sun mission?](https://www.space.com/aditya-l1-india-sun-observatory-mission)
-- [India&#39;s Aditya-L1 solar mission takes an epic selfie with Earth and moon](https://www.space.com/india-aditya-1-solar-mission-selfie-earth-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
