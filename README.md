@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exposed: A closer look at seed investors’ biases and incentives](https://techcrunch.com/2023/09/07/exposed-a-closer-look-at-seed-investors-biases-and-incentives/)
-- [AI reading coach startup Ello raises $15M to bolster child literacy](https://techcrunch.com/2023/09/07/ai-reading-coach-startup-ello-raises-15-million-to-bolster-child-literacy/)
-- [Newly discovered asteroid zooms within 2,500 miles of Earth](https://www.space.com/small-asteroid-earth-near-miss-september-2023)
-- [What we expect from Apple’s ‘Wonderlust’ 15 event](https://techcrunch.com/2023/09/07/what-we-expect-from-apples-wonderlust-15-event/)
-- [Who is Ezra Bridger?](https://www.space.com/who-is-ezra-bridger)
+- [Our favorite startups from YC’s Summer 2023 Demo Day, Day 2](https://techcrunch.com/2023/09/07/ycombinator-demo-day-two-summer-2023/)
+- [Startup Battlefield 200: Fintech and Hardware edition at TC Disrupt 2003](https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/)
+- [Korea Blockchain Week focused on web3 gaming, institutional involvement, investors, regulation…and more](https://techcrunch.com/2023/09/07/korea-blockchain-week-focused-on-web3-gaming-institutional-involvement-investors-regulation-and-more/)
+- [China launches classified Yaogan remote sensing satellites &lpar;video&rpar;](https://www.space.com/china-launching-yaogan-military-reconnaissance-satellites)
+- [Take a look at Google’s Pixel 8, Pixel 8 Pro and Pixel Watch 2](https://techcrunch.com/2023/09/07/take-a-look-at-googles-pixel-8-pixel-8-pro-and-pixel-watch-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
