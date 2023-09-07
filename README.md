@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The question of gig worker status in Massachusetts is back on](https://techcrunch.com/2023/09/06/the-question-of-gig-worker-status-in-massachusetts-is-back-on/)
+- [Japan launches SLIM moon lander, XRISM X-ray telescope on space doubleheader &lpar;video&rpar;](https://www.space.com/japan-launches-slim-moon-lander-xrism-space-telescope)
 - [Tropical Storm Lee could become an &#39;extremely dangerous major hurricane&#39; by this weekend](https://www.space.com/tropical-storm-lee-becoming-hurricane)
 - [Hyperspectral startup Wyvern signs on to fly with Loft Orbital next year](https://techcrunch.com/2023/09/06/hyperspectral-startup-wyvern-signs-on-to-fly-with-loft-orbital-next-year/)
 - [NASA&#39;s Ingenuity helicopter soars past 100 minutes of total Mars flight time](https://www.space.com/nasa-ingenuity-mars-helicopter-57th-flight-100-minutes)
-- [Clubhouse is trying to make a comeback](https://techcrunch.com/2023/09/06/clubhouse-is-trying-to-make-a-comeback/)
-- [Bubble of galaxies spanning 1 billion light-years could be a fossil of the Big Bang](https://www.space.com/billion-light-year-wide-galaxy-bubble-big-bang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
