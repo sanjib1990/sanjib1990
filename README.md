@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is Ezra Bridger?](https://www.space.com/who-is-ezra-bridger)
+- [The perils of the platforms of paranoia](https://techcrunch.com/2023/09/07/platforms-of-paranoia/)
+- [Show me the revenue growth](https://techcrunch.com/2023/09/07/show-me-the-revenue-growth/)
+- [Imbue raises $200M to build AI models that can ‘robustly reason’](https://techcrunch.com/2023/09/07/imbue-raises-200m-to-build-ai-models-that-can-robustly-reason/)
 - [SoundCloud’s TikTok-styled discovery feed is rolling out to everyone](https://techcrunch.com/2023/09/07/soundclouds-tiktok-styled-discovery-feed-is-rolling-out-to-everyone/)
-- [eBay rolls out a tool that generates product listings from photos](https://techcrunch.com/2023/09/07/ebay-rolls-out-a-tool-that-generates-product-listings-from-photos/)
-- [See the Great Square of Pegasus trot through the night sky this month](https://www.space.com/great-square-of-pegasus-asterism-night-sky-september)
-- [Astranis wants to bring internet connectivity to up to 5 million in Mexico](https://techcrunch.com/2023/09/07/astranis-on-its-plan-to-bring-internet-connectivity-to-5-million-in-mexico/)
-- [Meta’s Michel Protti will talk privacy and more at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/07/metas-michel-protti-will-talk-privacy-and-more-at-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
