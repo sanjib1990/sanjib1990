@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google flips the switch on interest-based ads with ‘Privacy Sandbox’ rollout](https://techcrunch.com/2023/09/08/google-flips-the-switch-on-interest-based-ads-with-privacy-sandbox-rollout/)
 - [SpaceX&#39;s Starship rocket spotted from space ahead of key test flight &lpar;satellite photo&rpar;](https://www.space.com/spacex-starship-maxar-satellite-photo-september-2023)
 - [Warp into Star Trek Day 2023 today with new animated &#39;very Short Treks&#39;](https://www.space.com/star-trek-day-2023-very-short-treks)
 - [India’s Reliance partners with Nvidia to build large language model](https://techcrunch.com/2023/09/08/reliance-nvidia-india/)
 - [Dream11-backed NFT startup Rario founders to leave a year after $120M funding](https://techcrunch.com/2023/09/08/rario-dream11/)
-- [The Lotus Emeya is a super speedy EV sedan designed to take on Porsche](https://techcrunch.com/2023/09/07/the-lotus-emeya-is-a-super-speedy-ev-sedan-designed-to-take-on-porsche/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
