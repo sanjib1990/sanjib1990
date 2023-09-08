@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When scaring us is great for business](https://techcrunch.com/2023/09/08/when-scaring-us-is-great-for-business/)
-- [Ready, set, network at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/08/ready-set-network-at-techcrunch-disrupt-2023/)
-- [Apple Event 2023: How to watch the iPhone 15 reveal on Sept. 12](https://techcrunch.com/2023/09/08/apple-event-2023-how-to-watch/)
-- [How NASA&#39;s Habitable Worlds Observatory will search exoplanets for signs of alien life](https://www.space.com/nasa-habitable-worlds-observatory-exoplanets-alien-life)
-- [X, formerly Twitter, caught running unlabeled ads in users’ Following feeds](https://techcrunch.com/2023/09/08/x-formerly-twitter-caught-running-unlabeled-ads-in-users-following-feeds/)
+- [Market intelligence firm Sensor Tower conducts layoffs, several execs out](https://techcrunch.com/2023/09/08/market-intelligence-firm-sensor-tower-conducts-layoffs-several-execs-out/)
+- [New California law would force firms to report diversity metrics](https://techcrunch.com/2023/09/08/california-sb54-bill-diversity-venture/)
+- [Flexport founder rescinds dozens of job offers to get ‘house in order’ days after CEO pushed out](https://techcrunch.com/2023/09/08/flexport-founder-rescinds-dozens-of-job-offers-to-get-house-in-order-days-after-ceo-pushed-out/)
+- [Watch Europe&#39;s new Ariane 6 rocket fire up its engine for the 1st time &lpar;video&rpar;](https://www.space.com/watch-europe-fire-ariane-6-engine-1st-time)
+- [Watch SpaceX launch 22 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
