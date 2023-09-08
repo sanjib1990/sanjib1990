@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Lotus Emeya is a super speedy EV sedan designed to take on Porsche](https://techcrunch.com/2023/09/07/the-lotus-emeya-is-a-super-speedy-ev-sedan-designed-to-take-on-porsche/)
 - [Zopa, the UK neobank, hits 1M customers and raises another $93M](https://techcrunch.com/2023/09/07/zopa-the-uk-neobank-hits-1m-customers-and-raises-another-93m/)
 - [BMW feels the heat, stops charging for warming cheeks](https://techcrunch.com/2023/09/07/bmw-feels-the-heat-stops-charging-for-warming-cheeks/)
 - [Relativity Space leases historic test stand from NASA to boost Terran R development](https://techcrunch.com/2023/09/07/relativity-space-leases-historic-test-stand-from-nasa-to-boost-terran-r-development/)
 - [Virgin Galactic will launch some of its 1st space tourist customers on &#39;Galactic 03&#39; flight Friday. But who&#39;s flying?](https://www.space.com/virgin-galactic-third-commercial-spaceflight-preview)
-- [Cruise nears approval to mass-produce robotaxis with no steering wheel, pedals](https://techcrunch.com/2023/09/07/cruise-nears-approval-to-mass-produce-robotaxis-with-no-steering-wheel-pedals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
