@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 steps for assembling AI-driven business teams](https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/)
+- [Venus is now a beacon in the early morning sky. Here&#39;s how to see it](https://www.space.com/venus-morning-beacon-september-2023)
+- [FAA closes investigation of SpaceX&#39;s Starship launch mishap](https://www.space.com/faa-closes-spacex-starship-mishap-investigation)
 - [Pitch Deck Teardown: Tomorrow University’s $10M Series A deck](https://techcrunch.com/2023/09/08/sample-series-a-pitch-deck-tomorrow-university/)
-- [TechCrunch+ Roundup: YC Demo Days, blockchain’s killer app, comparing seed investors](https://techcrunch.com/2023/09/08/techcrunch-roundup-yc-demo-days-blockchains-killer-app-comparing-seed-investors/)
-- [Virgin Galactic launches 3 of its original space tourist customers to the final frontier](https://www.space.com/virgin-galactic-third-commercial-spaceflight-success)
-- [Signs of life in the technology M&amp;A market](https://techcrunch.com/2023/09/08/acquisitions-growing-q2-2023/)
-- [Reddit users on mobile can now translate posts into other languages](https://techcrunch.com/2023/09/08/reddit-users-on-mobile-can-now-translate-posts-into-other-languages/)
+- [New &#39;Star Trek II: The Wrath of Khan&#39; book goes behind the scenes of a true sci-fi classic &lpar;exclusive&rpar;](https://www.space.com/star-trek-wrath-of-khan-book-behind-the-scenes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
