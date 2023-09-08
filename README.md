@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Big projects are ditching TypeScript… wtf?](https://www.youtube.com/watch?v=5ChkQKUzDCs)
+- [Bun is disrupting JavaScript land](https://www.youtube.com/watch?v=dWqNgzZwVJQ)
+- [Big projects are ditching TypeScript… why?](https://www.youtube.com/watch?v=5ChkQKUzDCs)
 - [the BIGGEST server project they&#39;ve ever done!! &lpar;45Drives&rpar;](https://www.youtube.com/watch?v=SWyXQfiN_Vo)
 - [Kernelless Kernel Programming &lpar;eBPF&rpar; - Computerphile](https://www.youtube.com/watch?v=J_EehoXLbIU)
 - [Lecture 20: Postmodern approaches  &lpar;audio only&rpar;](https://www.youtube.com/watch?v=4BCo99RDmVM)
-- [Lecture 17: George Russell and modal jazz &lpar;audio only&rpar;](https://www.youtube.com/watch?v=VLzFL42wt-k)
 <!-- YOUTUBE:END -->
 
 ---
