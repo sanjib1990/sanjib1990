@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybertruck spied with updated interior](https://techcrunch.com/2023/09/08/cybertruck-spied-with-updated-interior/)
+- [X, formerly Twitter, challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
+- [Microsoft reveals how hackers stole its email signing key… kind of](https://techcrunch.com/2023/09/08/microsoft-hacker-china-government-storm-0558/)
 - [Ultra-powerful space explosion, 1st of its kind, may have been triggered by black hole star-destroyer](https://www.space.com/1st-of-its-kind-explosion-luminous-fast-cooler-black-hole-star-destroyer)
-- [Elon Musk says Starship is “ready to launch,” FAA says not yet](https://techcrunch.com/2023/09/08/elon-musk-says-starship-is-ready-to-launch-faa-says-not-yet/)
-- [NASA&#39;s mighty SLS megarocket for Artemis moonshots &#39;unaffordable&#39; for sustained exploration, audit finds](https://www.space.com/nasa-sls-rocket-artemis-moon-plans-unaffordable-gao-report)
-- [Market intelligence firm Sensor Tower conducts layoffs, several execs out](https://techcrunch.com/2023/09/08/market-intelligence-firm-sensor-tower-conducts-layoffs-several-execs-out/)
-- [New California law would force firms to report diversity metrics](https://techcrunch.com/2023/09/08/california-sb54-bill-diversity-venture/)
+- [Elon Musk says Starship is ‘ready to launch,’ FAA says not yet](https://techcrunch.com/2023/09/08/elon-musk-says-starship-is-ready-to-launch-faa-says-not-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
