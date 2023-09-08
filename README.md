@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronauts just 3D-printed knee cartilage in space for the 1st time and it&#39;s as weird as it sounds](https://www.space.com/international-space-station-knee-cartilage-3d-printed)
-- [Square says it has resolved day-long outage](https://techcrunch.com/2023/09/08/square-day-long-outage-resolved/)
-- [NASA&#39;s Perseverance Mars rover wraps up MOXIE oxygen-making experiment](https://www.space.com/perseverance-mars-rover-ends-moxie-oxygen-experiment)
-- [Google flips the switch on interest-based ads with ‘Privacy Sandbox’ rollout](https://techcrunch.com/2023/09/08/google-flips-the-switch-on-interest-based-ads-with-privacy-sandbox-rollout/)
-- [SpaceX&#39;s Starship rocket spotted from space ahead of key test flight &lpar;satellite photo&rpar;](https://www.space.com/spacex-starship-maxar-satellite-photo-september-2023)
+- [This startup is betting on the downturn](https://techcrunch.com/2023/09/08/this-startup-is-betting-on-the-downturn/)
+- [Polish senate says use of government spyware is illegal in the country](https://techcrunch.com/2023/09/08/polish-senate-says-use-of-government-spyware-is-illegal-in-the-country/)
+- [Brine Fi challenges Coinbase, Binance with decentralized exchange as it nets Pantera-led $16.5M round](https://techcrunch.com/2023/09/08/brine-fi-pantera-funding-dex/)
+- [X updates its terms to ban crawling and scraping](https://techcrunch.com/2023/09/08/x-updates-its-terms-to-ban-crawling-and-scraping/)
+- [Glass Health is building an AI for suggesting medical diagnoses](https://techcrunch.com/2023/09/08/glass-health-is-building-an-ai-for-suggesting-medical-diagnoses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
