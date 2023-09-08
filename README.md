@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 steps for assembling AI-driven business teams](https://techcrunch.com/2023/09/08/5-steps-for-assembling-ai-driven-business-teams/)
-- [Venus is now a beacon in the early morning sky. Here&#39;s how to see it](https://www.space.com/venus-morning-beacon-september-2023)
-- [FAA closes investigation of SpaceX&#39;s Starship launch mishap](https://www.space.com/faa-closes-spacex-starship-mishap-investigation)
-- [Pitch Deck Teardown: Tomorrow University’s $10M Series A deck](https://techcrunch.com/2023/09/08/sample-series-a-pitch-deck-tomorrow-university/)
-- [New &#39;Star Trek II: The Wrath of Khan&#39; book goes behind the scenes of a true sci-fi classic &lpar;exclusive&rpar;](https://www.space.com/star-trek-wrath-of-khan-book-behind-the-scenes)
+- [When scaring us is great for business](https://techcrunch.com/2023/09/08/when-scaring-us-is-great-for-business/)
+- [Ready, set, network at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/08/ready-set-network-at-techcrunch-disrupt-2023/)
+- [Apple Event 2023: How to watch the iPhone 15 reveal on Sept. 12](https://techcrunch.com/2023/09/08/apple-event-2023-how-to-watch/)
+- [How NASA&#39;s Habitable Worlds Observatory will search exoplanets for signs of alien life](https://www.space.com/nasa-habitable-worlds-observatory-exoplanets-alien-life)
+- [X, formerly Twitter, caught running unlabeled ads in users’ Following feeds](https://techcrunch.com/2023/09/08/x-formerly-twitter-caught-running-unlabeled-ads-in-users-following-feeds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
