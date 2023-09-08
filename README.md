@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts just 3D-printed knee cartilage in space for the 1st time and it&#39;s as weird as it sounds](https://www.space.com/international-space-station-knee-cartilage-3d-printed)
+- [Square says it has resolved day-long outage](https://techcrunch.com/2023/09/08/square-day-long-outage-resolved/)
+- [NASA&#39;s Perseverance Mars rover wraps up MOXIE oxygen-making experiment](https://www.space.com/perseverance-mars-rover-ends-moxie-oxygen-experiment)
 - [Google flips the switch on interest-based ads with ‘Privacy Sandbox’ rollout](https://techcrunch.com/2023/09/08/google-flips-the-switch-on-interest-based-ads-with-privacy-sandbox-rollout/)
 - [SpaceX&#39;s Starship rocket spotted from space ahead of key test flight &lpar;satellite photo&rpar;](https://www.space.com/spacex-starship-maxar-satellite-photo-september-2023)
-- [Warp into Star Trek Day 2023 today with new animated &#39;very Short Treks&#39;](https://www.space.com/star-trek-day-2023-very-short-treks)
-- [India’s Reliance partners with Nvidia to build large language model](https://techcrunch.com/2023/09/08/reliance-nvidia-india/)
-- [Dream11-backed NFT startup Rario founders to leave a year after $120M funding](https://techcrunch.com/2023/09/08/rario-dream11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
