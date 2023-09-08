@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultra-powerful space explosion, 1st of its kind, may have been triggered by black hole star-destroyer](https://www.space.com/1st-of-its-kind-explosion-luminous-fast-cooler-black-hole-star-destroyer)
+- [Elon Musk says Starship is “ready to launch,” FAA says not yet](https://techcrunch.com/2023/09/08/elon-musk-says-starship-is-ready-to-launch-faa-says-not-yet/)
+- [NASA&#39;s mighty SLS megarocket for Artemis moonshots &#39;unaffordable&#39; for sustained exploration, audit finds](https://www.space.com/nasa-sls-rocket-artemis-moon-plans-unaffordable-gao-report)
 - [Market intelligence firm Sensor Tower conducts layoffs, several execs out](https://techcrunch.com/2023/09/08/market-intelligence-firm-sensor-tower-conducts-layoffs-several-execs-out/)
 - [New California law would force firms to report diversity metrics](https://techcrunch.com/2023/09/08/california-sb54-bill-diversity-venture/)
-- [Flexport founder rescinds dozens of job offers to get ‘house in order’ days after CEO pushed out](https://techcrunch.com/2023/09/08/flexport-founder-rescinds-dozens-of-job-offers-to-get-house-in-order-days-after-ceo-pushed-out/)
-- [Watch Europe&#39;s new Ariane 6 rocket fire up its engine for the 1st time &lpar;video&rpar;](https://www.space.com/watch-europe-fire-ariane-6-engine-1st-time)
-- [Watch SpaceX launch 22 Starlink satellites to orbit tonight](https://www.space.com/spacex-starlink-launch-group-6-14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
