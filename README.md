@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signs of life in the technology M&amp;A market](https://techcrunch.com/2023/09/08/acquisitions-growing-q2-2023/)
+- [Reddit users on mobile can now translate posts into other languages](https://techcrunch.com/2023/09/08/reddit-users-on-mobile-can-now-translate-posts-into-other-languages/)
+- [Why Artemis 2 moon launch with astronauts is different from Artemis 1](https://www.space.com/why-artemis-2-launch-astronauts-different-from-artemis-1)
 - [How badly will AI-generated images impact elections?](https://techcrunch.com/2023/09/08/how-badly-will-ai-generated-images-impact-elections/)
 - [7 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/08/7-days-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
-- [With Postmarks, social bookmarking is back — but this time it’s built on the fediverse](https://techcrunch.com/2023/09/08/with-postmarks-social-bookmarking-is-back-but-this-time-its-built-on-the-fediverse/)
-- [FAA recommends 63 corrective actions to SpaceX in Starship Heavy incident report](https://techcrunch.com/2023/09/08/faa-recommends-63-corrective-actions-to-spacex-in-starship-heavy-incident-report/)
-- [This startup is betting on the downturn](https://techcrunch.com/2023/09/08/this-startup-is-betting-on-the-downturn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
