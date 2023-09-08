@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How badly will AI-generated images impact elections?](https://techcrunch.com/2023/09/08/how-badly-will-ai-generated-images-impact-elections/)
+- [7 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/08/7-days-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
+- [With Postmarks, social bookmarking is back — but this time it’s built on the fediverse](https://techcrunch.com/2023/09/08/with-postmarks-social-bookmarking-is-back-but-this-time-its-built-on-the-fediverse/)
+- [FAA recommends 63 corrective actions to SpaceX in Starship Heavy incident report](https://techcrunch.com/2023/09/08/faa-recommends-63-corrective-actions-to-spacex-in-starship-heavy-incident-report/)
 - [This startup is betting on the downturn](https://techcrunch.com/2023/09/08/this-startup-is-betting-on-the-downturn/)
-- [Polish senate says use of government spyware is illegal in the country](https://techcrunch.com/2023/09/08/polish-senate-says-use-of-government-spyware-is-illegal-in-the-country/)
-- [Brine Fi challenges Coinbase, Binance with decentralized exchange as it nets Pantera-led $16.5M round](https://techcrunch.com/2023/09/08/brine-fi-pantera-funding-dex/)
-- [X updates its terms to ban crawling and scraping](https://techcrunch.com/2023/09/08/x-updates-its-terms-to-ban-crawling-and-scraping/)
-- [Glass Health is building an AI for suggesting medical diagnoses](https://techcrunch.com/2023/09/08/glass-health-is-building-an-ai-for-suggesting-medical-diagnoses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
