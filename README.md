@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Tomorrow University’s $10M Series A deck](https://techcrunch.com/2023/09/08/sample-series-a-pitch-deck-tomorrow-university/)
+- [TechCrunch+ Roundup: YC Demo Days, blockchain’s killer app, comparing seed investors](https://techcrunch.com/2023/09/08/techcrunch-roundup-yc-demo-days-blockchains-killer-app-comparing-seed-investors/)
+- [Virgin Galactic launches 3 of its original space tourist customers to the final frontier](https://www.space.com/virgin-galactic-third-commercial-spaceflight-success)
 - [Signs of life in the technology M&amp;A market](https://techcrunch.com/2023/09/08/acquisitions-growing-q2-2023/)
 - [Reddit users on mobile can now translate posts into other languages](https://techcrunch.com/2023/09/08/reddit-users-on-mobile-can-now-translate-posts-into-other-languages/)
-- [Why Artemis 2 moon launch with astronauts is different from Artemis 1](https://www.space.com/why-artemis-2-launch-astronauts-different-from-artemis-1)
-- [How badly will AI-generated images impact elections?](https://techcrunch.com/2023/09/08/how-badly-will-ai-generated-images-impact-elections/)
-- [7 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/08/7-days-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
