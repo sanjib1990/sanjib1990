@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator Demo Day, smart chastity cage hacked, and the feds investigate Tesla](https://techcrunch.com/2023/09/09/y-combinator-demo-day-smart-chastity-cage-hacked-and-the-feds-investigate-tesla/)
 - [Rainbow or storm?](https://techcrunch.com/2023/09/09/fintech-consolidation-ai/)
 - [Deal Dive: I think I know why this company can’t land a deal](https://techcrunch.com/2023/09/09/amazon-aggregators-tough-market/)
 - [Fintech faces its reckoning: It’s only a matter of time until the house of cards collapses](https://techcrunch.com/2023/09/09/are-fintech-business-models-sustainable/)
 - [The US Space Force has a new mission statement to secure everything &#39;in, from and to space&#39;](https://www.space.com/space-force-new-mission-statement)
-- [NASA may have unknowingly found and killed alien life on Mars 50 years ago, scientist claims](https://www.space.com/nasa-may-have-unknowingly-found-and-killed-alien-life-on-mars-50-years-ago-scientist-claims)
 <!-- BLOG-POST-LIST:END -->
 
 ---
