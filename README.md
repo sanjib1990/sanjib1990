@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The US Space Force has a new mission statement to secure everything &#39;in, from and to space&#39;](https://www.space.com/space-force-new-mission-statement)
 - [NASA may have unknowingly found and killed alien life on Mars 50 years ago, scientist claims](https://www.space.com/nasa-may-have-unknowingly-found-and-killed-alien-life-on-mars-50-years-ago-scientist-claims)
 - [Nightfox 100V night vision binoculars review](https://www.space.com/nightfox-100v-night-vision-binoculars-review)
 - [India&#39;s lunar lander finds 1st evidence of a moonquake in decades](https://www.space.com/india-lunar-lander-finds-evidence-of-moonquake)
 - [Hurricane Lee looks absolutely terrifying in this footage from inside its eye &lpar;video&rpar;](https://www.space.com/hurricane-lee-lightning-eye-video)
-- [Roblox is launching avatar-based voice calls with facial motion tracking](https://techcrunch.com/2023/09/08/roblox-connect-avatar-calling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
