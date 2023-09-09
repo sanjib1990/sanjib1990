@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s lunar lander finds 1st evidence of a moonquake in decades](https://www.space.com/india-lunar-lander-finds-evidence-of-moonquake)
+- [Hurricane Lee looks absolutely terrifying in this footage from inside its eye &lpar;video&rpar;](https://www.space.com/hurricane-lee-lightning-eye-video)
 - [Roblox is launching avatar-based voice calls with facial motion tracking](https://techcrunch.com/2023/09/08/roblox-connect-avatar-calling/)
 - [Exclusive: Cendana Capital closes on $470M more to back seed-stage fund managers](https://techcrunch.com/2023/09/08/exclusive-cendana-capital-closes-on-470m-more-to-back-seed-stage-fund-managers/)
 - [Discover space tech, trends, policies and possibilities at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/08/discover-space-tech-trends-policies-and-possibilities-at-techcrunch-disrupt-2023/)
-- [Cybertruck spied with updated interior](https://techcrunch.com/2023/09/08/cybertruck-spied-with-updated-interior/)
-- [X, formerly Twitter, challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
