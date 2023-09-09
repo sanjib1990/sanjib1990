@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox is launching avatar-based voice calls with facial motion tracking](https://techcrunch.com/2023/09/08/roblox-connect-avatar-calling/)
 - [Exclusive: Cendana Capital closes on $470M more to back seed-stage fund managers](https://techcrunch.com/2023/09/08/exclusive-cendana-capital-closes-on-470m-more-to-back-seed-stage-fund-managers/)
 - [Discover space tech, trends, policies and possibilities at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/08/discover-space-tech-trends-policies-and-possibilities-at-techcrunch-disrupt-2023/)
 - [Cybertruck spied with updated interior](https://techcrunch.com/2023/09/08/cybertruck-spied-with-updated-interior/)
 - [X, formerly Twitter, challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
-- [Microsoft reveals how hackers stole its email signing key… kind of](https://techcrunch.com/2023/09/08/microsoft-hacker-china-government-storm-0558/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
