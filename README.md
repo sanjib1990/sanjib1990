@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A program so nice, these founders did YC twice](https://techcrunch.com/2023/09/10/y-combinator-repeat-founders/)
 - [LexisNexis is embracing generative AI to ease legal writing and research](https://techcrunch.com/2023/09/10/lexisnexis-generative-ai/)
 - [Finding business opportunity in startup failure](https://techcrunch.com/2023/09/10/finding-business-opportunity-in-startup-failure/)
 - [Experience the Overview Effect with the Felix &amp; Paul VR trilogy &#39;Space Explorers: Blue Marble&#39;](https://www.space.com/felix-paul-vr-trilogy-space-explorers-blue-marble)
 - [Globular cluster glitters in stunning new Hubble telescope photo](https://www.space.com/glittering-globular-cluster-hubble-space-photo)
-- [India&#39;s Chandrayaan-3 robotic moon explorers don&#39;t have heaters. Can they survive the frigid lunar night?](https://www.space.com/india-chandrayaan-3-no-heaters-lunar-night-survival)
 <!-- BLOG-POST-LIST:END -->
 
 ---
