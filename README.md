@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [0xPass raises $1.8M from Balaji Srinivasan and others to build secure login systems for web3](https://techcrunch.com/2023/09/11/0xpass-secure-login-authentication/)
-- [Hitchhiking microbes on ISS cargo ships can make astronauts sick. Scientists have a solution](https://www.space.com/iss-microbial-burrows-astronaut-health-surface-treatment)
-- [Common Trust grabs $2.6M to give business owners employee-focused succession plans](https://techcrunch.com/2023/09/11/common-trust-2-6m-business-succession-plan/)
-- [Japan&#39;s SLIM moon lander is carrying this transforming ball robot &lpar;it&#39;s not BB-8&rpar;](https://www.space.com/jaxa-slim-moon-lander-lev-2-ball-robot)
-- [Open Cosmos, a UK satellite startup focused on sustainability, raises $50M](https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/)
+- [Scala Biodesign makes it easy to re-engineer proteins one molecule at a time – or 50](https://techcrunch.com/2023/09/11/scala-biodesign-makes-it-easy-to-re-engineer-proteins-one-molecule-at-a-time-or-50/)
+- [&#39;Artificial star&#39; helps test satellite navigation systems &lpar;photo&rpar;](https://www.space.com/esa-estec-artificial-star-photo-satellite-navigation)
+- [Only 5 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/11/only-5-days-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
+- [Google.org to invest $20M into AI-focused grants for think tanks and academic institutions](https://techcrunch.com/2023/09/11/google-org-to-invest-20m-into-ai-focused-grants-for-think-tanks-and-academic-institutions/)
+- [Square says daylong outage caused by DNS error](https://techcrunch.com/2023/09/11/square-daylong-outage-dns-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
