@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Battery recycling heats up with Ascend Elements’ $542M series D](https://techcrunch.com/2023/09/11/battery-recycling-heats-up-with-ascend-elements-542m-series-d/)
-- [India&#39;s Chandrayaan-3 moon lander shines in radar images from lunar orbit &lpar;photos&rpar;](https://www.space.com/news/indias-chandrayaan-3-moon-lander-shines-in-radar-images-from-lunar-orbit-photos)
-- [Kombucha on Mars? It could be key for astronauts&#39; survival off Earth](https://www.space.com/kombucha-culture-moon-mars-fermentation)
-- [Meta Quest adds new avatar customization options, an unsend message feature and more](https://techcrunch.com/2023/09/11/meta-quest-software-update-avatar-customization-unsend-message-v57/)
-- [Electronics on world&#39;s largest radio telescope are more radio-quiet than a smartphone on the moon](https://www.space.com/square-kilometer-array-radio-quiet-electronics)
+- [Max Q: Elon says Starship is ready, FAA says not quite](https://techcrunch.com/2023/09/11/max-q-elon-says-starship-is-ready-faa-says-not-quite/)
+- [SpaceX poised to launch 21 new Starlink satellites on Falcon 9 rocket](https://www.space.com/spacex-starlink-launch-group-7-2)
+- [Boeing to test DARPA&#39;s upcoming &#39;Glide Breaker&#39; hypersonic interceptor](https://www.space.com/darpa-boeing-contract-glide-breaker-hypersonic-interceptor-testing)
+- [Battery recycling heats up with Ascend Elements’ $542M Series D](https://techcrunch.com/2023/09/11/battery-recycling-heats-up-with-ascend-elements-542m-series-d/)
+- [India&#39;s Chandrayaan-3 moon lander shines in radar images from lunar orbit &lpar;photos&rpar;](https://www.space.com/chandrayaan-3-moon-lander-images-from-lunar-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
