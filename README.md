@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This week in AI: The generative AI boom drives demand for custom chips](https://techcrunch.com/2023/09/11/this-week-in-ai-the-generative-ai-boom-drives-demand-for-custom-chips/)
-- [Get a sneak peek at Hulu alien-invasion flick &#39;No One Will Save You&#39; &lpar;video&rpar;](https://www.space.com/hulu-alien-invasion-movie-no-one-will-save-you)
-- [AI app Character.ai is catching up to ChatGPT in the U.S.](https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/)
-- [Techstars selects 12 companies for its fall space accelerator](https://techcrunch.com/2023/09/11/techstars-selects-12-companies-for-its-fall-space-accelerator/)
-- [China wants help choosing names for its moon lander and lunar crew module](https://www.space.com/china-moon-lander-crew-module-naming-contest)
+- [The FTC is setting its sights on generative AI](https://techcrunch.com/2023/09/11/the-ftc-is-setting-its-sights-on-generative-ai/)
+- [Snapchat partners with MTV to let users vote for VMAs through Lenses](https://techcrunch.com/2023/09/11/snapchat-partners-with-mtv-to-let-users-vote-for-vmas-through-lenses/)
+- [China launches Yaogan 40 spy satellite on Long March 6A rocket &lpar;video&rpar;](https://www.space.com/china-yaogan-40-spy-satellite-long-march-6a-launch-video)
+- [Apple Event 2023: How to watch the iPhone 15 reveal tomorrow](https://techcrunch.com/2023/09/11/apple-event-2023-how-to-watch/)
+- [MGM Resorts blames ‘cybersecurity issue’ for ongoing outage](https://techcrunch.com/2023/09/11/mgm-resorts-cybersecurity-issue-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
