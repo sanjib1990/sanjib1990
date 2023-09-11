@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek&#39;s&#39; Celia Rose Gooding reveals how she channels Lt. Uhura interview excerpt &lpar;exclusive&rpar;](https://www.space.com/star-trek-explorer-celia-rose-gooding-interview-excerpt-exclusive)
+- [India’s Kale Logistics raises $30M in global expansion push](https://techcrunch.com/2023/09/11/kale-logistics-solutions-funding/)
 - [Instacart’s IPO price range puts it close to decacorn status](https://techcrunch.com/2023/09/11/instacarts-ipo-price-range/)
 - [OSIRIS-Rex&#39;s Dante Lauretta shares final preparations for Sept. 24 asteroid-sample return](https://www.space.com/dante-lauretta-man-on-mission-osiris-rex-sample-recovery)
 - [KKR invests $250 million in Reliance Retail at $100 billion valuation](https://techcrunch.com/2023/09/11/kkr-invests-250-million-in-reliance-retail-at-100-billion-valuation/)
-- [Instarcart, Klaviyo and the art of the unicorn haircut](https://techcrunch.com/2023/09/11/instarcart-klaviyo-and-the-art-of-the-unicorn-haircut/)
-- [Scala Biodesign makes it easy to re-engineer proteins one molecule at a time – or 50](https://techcrunch.com/2023/09/11/scala-biodesign-makes-it-easy-to-re-engineer-proteins-one-molecule-at-a-time-or-50/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
