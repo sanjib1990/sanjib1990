@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electronics on world&#39;s largest radio telescope are more radio-quiet than a smartphone on the moon](https://www.space.com/square-kilometer-array-radio-quiet-electronics)
+- [5 more fantastic reasons to go to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/11/5-more-fantastic-reasons-to-go-to-techcrunch-disrupt-2023/)
+- [Divvy Homes goes from $2B valuation to third layoff in a year](https://techcrunch.com/2023/09/11/divvy-homes-goes-from-2b-valuation-to-third-layoff-in-a-year/)
+- [‘Exadelic’ takes a shot at being Silicon Valley’s ‘Ready Player One’](https://techcrunch.com/2023/09/11/exadelic-takes-a-shot-at-being-silicon-valleys-ready-player-one/)
 - [The FTC is setting its sights on generative AI](https://techcrunch.com/2023/09/11/the-ftc-is-setting-its-sights-on-generative-ai/)
-- [Snapchat partners with MTV to let users vote for VMAs through Lenses](https://techcrunch.com/2023/09/11/snapchat-partners-with-mtv-to-let-users-vote-for-vmas-through-lenses/)
-- [China launches Yaogan 40 spy satellite on Long March 6A rocket &lpar;video&rpar;](https://www.space.com/china-yaogan-40-spy-satellite-long-march-6a-launch-video)
-- [Apple Event 2023: How to watch the iPhone 15 reveal tomorrow](https://techcrunch.com/2023/09/11/apple-event-2023-how-to-watch/)
-- [MGM Resorts blames ‘cybersecurity issue’ for ongoing outage](https://techcrunch.com/2023/09/11/mgm-resorts-cybersecurity-issue-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
