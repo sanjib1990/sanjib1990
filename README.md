@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instacart’s IPO price range puts it close to decacorn status](https://techcrunch.com/2023/09/11/instacarts-ipo-price-range/)
+- [OSIRIS-Rex&#39;s Dante Lauretta shares final preparations for Sept. 24 asteroid-sample return](https://www.space.com/dante-lauretta-man-on-mission-osiris-rex-sample-recovery)
+- [KKR invests $250 million in Reliance Retail at $100 billion valuation](https://techcrunch.com/2023/09/11/kkr-invests-250-million-in-reliance-retail-at-100-billion-valuation/)
+- [Instarcart, Klaviyo and the art of the unicorn haircut](https://techcrunch.com/2023/09/11/instarcart-klaviyo-and-the-art-of-the-unicorn-haircut/)
 - [Scala Biodesign makes it easy to re-engineer proteins one molecule at a time – or 50](https://techcrunch.com/2023/09/11/scala-biodesign-makes-it-easy-to-re-engineer-proteins-one-molecule-at-a-time-or-50/)
-- [&#39;Artificial star&#39; helps test satellite navigation systems &lpar;photo&rpar;](https://www.space.com/esa-estec-artificial-star-photo-satellite-navigation)
-- [Only 5 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/11/only-5-days-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
-- [Google.org to invest $20M into AI-focused grants for think tanks and academic institutions](https://techcrunch.com/2023/09/11/google-org-to-invest-20m-into-ai-focused-grants-for-think-tanks-and-academic-institutions/)
-- [Square says daylong outage caused by DNS error](https://techcrunch.com/2023/09/11/square-daylong-outage-dns-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
