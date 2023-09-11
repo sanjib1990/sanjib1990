@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Cosmos, a UK satellite startup focused on sustainability, raises $50M](https://techcrunch.com/2023/09/11/open-cosmos-a-uk-satellite-startup-focused-on-sustainability-raises-50m/)
 - [Astronaut Frank Rubio breaks US record on way to spending a year in space](https://www.space.com/nasa-astronaut-frank-rubio-longest-us-spaceflight-record)
 - [Mysterious moonquake traced to Apollo 17 lunar lander base](https://www.space.com/new-moonquakes-traced-to-apollo-17-lander)
 - [India to explore London Stock Exchange for listing local firms](https://techcrunch.com/2023/09/11/india-to-explore-london-stock-exchange-for-listing-local-firms/)
 - [Perfios raises $229 million for its real-time credit underwriting solutions](https://techcrunch.com/2023/09/10/perfios-raises-229-million-for-its-real-time-credit-underwriting-solutions/)
-- [iRobot launches a $1,399 premium Roomba combo vacuum/mop and dock](https://techcrunch.com/2023/09/10/irobot-launches-a-1399-premium-roomba-combo-vacuum-mop-and-dock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
