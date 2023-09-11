@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Battery recycling heats up with Ascend Elements’ $542M series D](https://techcrunch.com/2023/09/11/battery-recycling-heats-up-with-ascend-elements-542m-series-d/)
+- [India&#39;s Chandrayaan-3 moon lander shines in radar images from lunar orbit &lpar;photos&rpar;](https://www.space.com/news/indias-chandrayaan-3-moon-lander-shines-in-radar-images-from-lunar-orbit-photos)
+- [Kombucha on Mars? It could be key for astronauts&#39; survival off Earth](https://www.space.com/kombucha-culture-moon-mars-fermentation)
+- [Meta Quest adds new avatar customization options, an unsend message feature and more](https://techcrunch.com/2023/09/11/meta-quest-software-update-avatar-customization-unsend-message-v57/)
 - [Electronics on world&#39;s largest radio telescope are more radio-quiet than a smartphone on the moon](https://www.space.com/square-kilometer-array-radio-quiet-electronics)
-- [5 more fantastic reasons to go to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/11/5-more-fantastic-reasons-to-go-to-techcrunch-disrupt-2023/)
-- [Divvy Homes goes from $2B valuation to third layoff in a year](https://techcrunch.com/2023/09/11/divvy-homes-goes-from-2b-valuation-to-third-layoff-in-a-year/)
-- [‘Exadelic’ takes a shot at being Silicon Valley’s ‘Ready Player One’](https://techcrunch.com/2023/09/11/exadelic-takes-a-shot-at-being-silicon-valleys-ready-player-one/)
-- [The FTC is setting its sights on generative AI](https://techcrunch.com/2023/09/11/the-ftc-is-setting-its-sights-on-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
