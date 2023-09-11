@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iRobot launches a $1,399 premium Roomba combo vacuum/mop and dock](https://techcrunch.com/2023/09/10/irobot-launches-a-1399-premium-roomba-combo-vacuum-mop-and-dock/)
+- [Coinbase to discontinue services in India later this month](https://techcrunch.com/2023/09/10/coinbase-india/)
 - [SoftBank bets on ex-Argo AI founders, Flexport’s founder cleans house and Cruise digs in](https://techcrunch.com/2023/09/10/softbank-bets-on-ex-argo-ai-founders-flexports-founder-cleans-house-and-cruise-digs-in/)
 - [A program so nice, these founders did YC twice](https://techcrunch.com/2023/09/10/y-combinator-repeat-founders/)
 - [LexisNexis is embracing generative AI to ease legal writing and research](https://techcrunch.com/2023/09/10/lexisnexis-generative-ai/)
-- [Finding business opportunity in startup failure](https://techcrunch.com/2023/09/10/finding-business-opportunity-in-startup-failure/)
-- [Experience the Overview Effect with the Felix &amp; Paul VR trilogy &#39;Space Explorers: Blue Marble&#39;](https://www.space.com/felix-paul-vr-trilogy-space-explorers-blue-marble)
 <!-- BLOG-POST-LIST:END -->
 
 ---
