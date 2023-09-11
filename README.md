@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Trek&#39;s&#39; Celia Rose Gooding reveals how she channels Lt. Uhura interview excerpt &lpar;exclusive&rpar;](https://www.space.com/star-trek-explorer-celia-rose-gooding-interview-excerpt-exclusive)
-- [India’s Kale Logistics raises $30M in global expansion push](https://techcrunch.com/2023/09/11/kale-logistics-solutions-funding/)
-- [Instacart’s IPO price range puts it close to decacorn status](https://techcrunch.com/2023/09/11/instacarts-ipo-price-range/)
-- [OSIRIS-REx&#39;s Dante Lauretta shares final preparations for Sept. 24 asteroid-sample return](https://www.space.com/dante-lauretta-man-on-mission-osiris-rex-sample-recovery)
-- [KKR invests $250 million in Reliance Retail at $100 billion valuation](https://techcrunch.com/2023/09/11/kkr-invests-250-million-in-reliance-retail-at-100-billion-valuation/)
+- [This week in AI: The generative AI boom drives demand for custom chips](https://techcrunch.com/2023/09/11/this-week-in-ai-the-generative-ai-boom-drives-demand-for-custom-chips/)
+- [Get a sneak peek at Hulu alien-invasion flick &#39;No One Will Save You&#39; &lpar;video&rpar;](https://www.space.com/hulu-alien-invasion-movie-no-one-will-save-you)
+- [AI app Character.ai is catching up to ChatGPT in the U.S.](https://techcrunch.com/2023/09/11/ai-app-character-ai-is-catching-up-to-chatgpt-in-the-u-s/)
+- [Techstars selects 12 companies for its fall space accelerator](https://techcrunch.com/2023/09/11/techstars-selects-12-companies-for-its-fall-space-accelerator/)
+- [China wants help choosing names for its moon lander and lunar crew module](https://www.space.com/china-moon-lander-crew-module-naming-contest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
