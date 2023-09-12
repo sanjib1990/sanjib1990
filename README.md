@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s big antitrust trial kicks off, with even bigger implications](https://techcrunch.com/2023/09/12/googles-big-antitrust-trial-kicks-off-with-even-bigger-implications/)
+- [NASA astronaut Frank Rubio surprised by his accidental record in space &lpar;video&rpar;](https://www.space.com/nasa-astronaut-frank-rubio-international-space-station-surprise-record)
 - [Apple Event 2023: Everything you need to know about iPhone 15, Apple Watch, USB-C connector](https://techcrunch.com/2023/09/12/apple-event-2023-iphone-15-everything-you-need-to-know/)
 - [Can the quick grocery delivery model only work in emerging markets?](https://techcrunch.com/2023/09/12/quick-grocery-delivery-emerging-markets/)
 - [Neil deGrasse Tyson takes a &#39;candid look&#39; at the history of spaceflight in new StarTalk book &lpar;exclusive&rpar;](https://www.space.com/neil-degrasse-tyson-to-infinity-and-beyond-book)
-- [Apple’s Lisa Jackson will discuss sustainability at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/12/apples-lisa-jackson-will-discuss-sustainability-at-techcrunch-disrupt-2023/)
-- [Devialet launches a new pair of high-end wireless earbuds](https://techcrunch.com/2023/09/12/devialet-launches-a-new-pair-of-high-end-wireless-earbuds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
