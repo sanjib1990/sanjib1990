@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [E-bike subscription service Dance reaches 10,000 active subscribers](https://techcrunch.com/2023/09/12/e-bike-subscription-service-dance-reaches-10000-active-subscribers/)
 - [Ascento’s robots aid overstretched security guards](https://techcrunch.com/2023/09/11/ascento/)
 - [California bill to ban driverless autonomous trucks goes to Newsom’s desk](https://techcrunch.com/2023/09/11/california-bill-to-ban-driverless-autonomous-trucks-goes-to-newsoms-desk/)
 - [Why Lime says the time is almost right to go public](https://techcrunch.com/2023/09/11/why-lime-says-the-time-is-almost-right-to-go-public/)
 - [Indian consumers’ rising appetite for premium](https://techcrunch.com/2023/09/11/indian-consumers-rising-appetite-for-premium/)
-- [Taiwan-based lifestyle app FunNow merges with Eatigo to broaden its Southeast Asia reach](https://techcrunch.com/2023/09/11/funnow-eatigo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
