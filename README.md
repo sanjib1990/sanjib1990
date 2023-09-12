@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CertifID, which develops products to prevent wire fraud, raises $20M](https://techcrunch.com/2023/09/12/certifid-real-estate-wire-fraud-prevention-startup-raises-20m/)
+- [Virgin Galactic just launched 2 million-year-old fossils of human ancestors to space on tourist flight](https://www.space.com/virgin-galactic-human-fossils-in-space)
+- [FloLive connects with $47M to give its IoT and localized cellular technology a boost](https://techcrunch.com/2023/09/12/flolive-series-c/)
+- [Spotify’s latest personalized playlist, daylist, evolves with you throughout the day](https://techcrunch.com/2023/09/12/spotifys-latest-personalized-playlist-daylist-evolves-with-you-throughout-the-day/)
 - [AuthMind raises seed funding for its identity SecOps platform](https://techcrunch.com/2023/09/12/authmind-raises-seed-funding-for-its-identity-secops-platform/)
-- [Mighty Buildings raises $52M to build 3D-printed prefab homes](https://techcrunch.com/2023/09/12/mighty-buildings-raises-52m-to-build-3d-printed-prefab-homes/)
-- [India, NASA to cooperate on human spaceflight and planetary defense](https://www.space.com/india-nasa-space-cooperation-planetary-defense)
-- [1 year after launch failure, Blue Origin&#39;s New Shepard rocket remains grounded](https://www.space.com/blue-origin-new-shepard-grounded-one-year)
-- [English learning platform ELSA lands $22.5M Series C](https://techcrunch.com/2023/09/12/elsa-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
