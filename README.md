@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Portrait Mode gets an upgrade on the iPhone 15](https://techcrunch.com/2023/09/12/portrait-mode-gets-an-upgrade-on-the-iphone-15/)
-- [How does Earth&#39;s relationship with the sun affect our planet&#39;s climate?](https://www.space.com/earth-sun-relationship-effects-on-climate)
-- [Apple launches Roadside Assistance via satellite](https://techcrunch.com/2023/09/12/apple-launches-roadside-assistance-via-satellite/)
-- [Apple’s iPhone 15 Pro arrives in titanium](https://techcrunch.com/2023/09/12/apples-iphone-15-pro-arrives-in-titanium/)
-- [Apple’s ‘Find My’ app makes it easier to find your friends on iPhone 15](https://techcrunch.com/2023/09/12/apples-find-my-app-makes-it-easier-to-find-your-friends-on-iphone-15/)
+- [All these Apple products are getting USB-C](https://techcrunch.com/2023/09/12/all-these-apple-products-are-getting-usb-c/)
+- [iPhone 15 Pro Max gets 5x optical telephoto lens and other treats for photo lovers](https://techcrunch.com/2023/09/12/iphone-15-pro-max-telephoto/)
+- [Satellites watch rare, destructive Mediterranean hurricane swirl above the Sahara &lpar;photos&rpar;](https://www.space.com/medicane-daniel-above-sahara-libya-satellite-photos)
+- [iCloud+ adds a 6TB and 12TB storage plan](https://techcrunch.com/2023/09/12/icloud-adds-a-6tb-and-12tb-storage-plan/)
+- [Apple’s iPhone 15 Pro will capture 3D ‘spatial videos’ for the Apple Vision Pro](https://techcrunch.com/2023/09/12/apples-iphone-15-pro-will-capture-3d-spatial-videos-for-the-apple-vision-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
