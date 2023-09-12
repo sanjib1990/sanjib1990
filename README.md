@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Comet Nishimura at its closest point to Earth this week. It won&#39;t visit again for 435 years.](https://www.space.com/comet-nishimura-perigee-how-to-see-it)
+- [Zenity strives to keep no code/low code apps secure](https://techcrunch.com/2023/09/12/zenity-strives-to-keep-no-code-low-code-apps-secure/)
+- [Here’s how we raised a Series B for our AI startup during a downturn](https://techcrunch.com/2023/09/12/how-we-raised-a-series-b-for-our-ai-startup/)
+- [Amazon announces Supply Chain by Amazon, which includes restocking physical stores](https://techcrunch.com/2023/09/12/amazon-announces-supply-chain-by-amazon-which-includes-restocking-physical-stores/)
 - [T-minus 4 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/12/t-minus-4-days-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
-- [Astronomers may have discovered the closest black holes to Earth](https://www.space.com/astronomers-may-have-discovered-closest-black-holes-earth)
-- [Google’s adtech targeted by Dutch class-action style privacy damages suit](https://techcrunch.com/2023/09/12/google-dutch-adtech-privacy-damages-suit/)
-- [Salesforce introduces Einstein Copilot Studio to help customers customize their AI](https://techcrunch.com/2023/09/12/salesforce-introduces-einstein-copilot-studio-to-customers-customize-their-ai/)
-- [SQream calls in $45M to expand its GPU-based big data analytics platform](https://techcrunch.com/2023/09/12/sqream-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
