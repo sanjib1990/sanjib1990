@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CertifID, which develops products to prevent wire fraud, raises $20M](https://techcrunch.com/2023/09/12/certifid-real-estate-wire-fraud-prevention-startup-raises-20m/)
-- [Virgin Galactic just launched 2 million-year-old fossils of human ancestors to space on tourist flight](https://www.space.com/virgin-galactic-human-fossils-in-space)
-- [FloLive connects with $47M to give its IoT and localized cellular technology a boost](https://techcrunch.com/2023/09/12/flolive-series-c/)
-- [Spotify’s latest personalized playlist, daylist, evolves with you throughout the day](https://techcrunch.com/2023/09/12/spotifys-latest-personalized-playlist-daylist-evolves-with-you-throughout-the-day/)
-- [AuthMind raises seed funding for its identity SecOps platform](https://techcrunch.com/2023/09/12/authmind-raises-seed-funding-for-its-identity-secops-platform/)
+- [Druid, a conversational AI platform for enterprises that integrates with ChatGPT, raises $24M](https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/)
+- [These TikTokers are making ‘Get Ready With Me’ videos in Spanish to connect with their roots](https://techcrunch.com/2023/09/12/these-tiktokers-are-making-get-ready-with-me-videos-in-spanish-to-connect-with-their-roots/)
+- [OSIRIS-REx asteroid probe heads toward Earth for Sept. 24 sample delivery](https://www.space.com/osiris-rex-heads-toward-earth-sample-delivery)
+- [Liveblog: Watch Apple unveil the iPhone 15, Apple Watch Series 9 and more](https://techcrunch.com/2023/09/12/liveblog-watch-apple-unveil-the-iphone-15-apple-watch-series-9-and-more/)
+- [Enfabrica, which builds networking hardware to drive AI workloads, raises $125M](https://techcrunch.com/2023/09/12/enfabrica-which-builds-networking-hardware-to-drive-ai-workloads-raises-125m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
