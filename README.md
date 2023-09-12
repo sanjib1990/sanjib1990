@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking learnings from working at Amazon to clean beauty with Jaleh Bisharat from NakedPoppy](https://techcrunch.com/2023/09/12/taking-learnings-from-working-at-amazon-to-clean-beauty-with-jaleh-bisharat-from-nakedpoppy/)
+- [New survey outlines what NASA must do over the next 10 years to help astronauts thrive beyond Earth](https://www.space.com/nasa-space-exploration-decadal-survey-national-academies-sciences)
+- [Klaviyo could be the rare startup to defend a late-stage 2021 valuation](https://techcrunch.com/2023/09/12/klaviyo-could-be-the-rare-startup-to-defend-a-late-stage-2021-valuation/)
+- [Apple Event 2023: How to watch today’s iPhone 15 reveal](https://techcrunch.com/2023/09/12/apple-event-2023-how-to-watch/)
 - [See Comet Nishimura at its closest point to Earth this week. It won&#39;t visit again for 435 years.](https://www.space.com/comet-nishimura-perigee-how-to-see-it)
-- [Zenity strives to keep no code/low code apps secure](https://techcrunch.com/2023/09/12/zenity-strives-to-keep-no-code-low-code-apps-secure/)
-- [Here’s how we raised a Series B for our AI startup during a downturn](https://techcrunch.com/2023/09/12/how-we-raised-a-series-b-for-our-ai-startup/)
-- [Amazon announces Supply Chain by Amazon, which includes restocking physical stores](https://techcrunch.com/2023/09/12/amazon-announces-supply-chain-by-amazon-which-includes-restocking-physical-stores/)
-- [T-minus 4 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/12/t-minus-4-days-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
