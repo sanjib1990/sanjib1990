@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking learnings from working at Amazon to clean beauty with Jaleh Bisharat from NakedPoppy](https://techcrunch.com/2023/09/12/taking-learnings-from-working-at-amazon-to-clean-beauty-with-jaleh-bisharat-from-nakedpoppy/)
-- [New survey outlines what NASA must do over the next 10 years to help astronauts thrive beyond Earth](https://www.space.com/nasa-space-exploration-decadal-survey-national-academies-sciences)
-- [Klaviyo could be the rare startup to defend a late-stage 2021 valuation](https://techcrunch.com/2023/09/12/klaviyo-could-be-the-rare-startup-to-defend-a-late-stage-2021-valuation/)
-- [Apple Event 2023: How to watch today’s iPhone 15 reveal](https://techcrunch.com/2023/09/12/apple-event-2023-how-to-watch/)
-- [See Comet Nishimura at its closest point to Earth this week. It won&#39;t visit again for 435 years.](https://www.space.com/comet-nishimura-perigee-how-to-see-it)
+- [Apple Event 2023: Everything announced so far](https://techcrunch.com/2023/09/12/apple-event-2023-iphone-15-everything-you-need-to-know/)
+- [&#39;The Six&#39; author Loren Grush: 1st female astronauts set example for picking woman to land on moon](https://www.space.com/the-six-loren-grush-book-interview)
+- [Your guide to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/12/your-guide-to-techcrunch-disrupt-2023/)
+- [NASA astronaut Loral O&#39;Hara ready for Soyuz launch to relieve delayed crew in space](https://www.space.com/nasa-astronaut-loral-ohara-russia-soyuzlaunch-delay-relief)
+- [Will batteries usher in a new era of global energy sovereignty?](https://techcrunch.com/2023/09/12/will-batteries-usher-in-a-new-era-of-global-energy-sovereignty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
