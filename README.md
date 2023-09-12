@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ascento’s robots aid overstretched security guards](https://techcrunch.com/2023/09/11/ascento/)
 - [California bill to ban driverless autonomous trucks goes to Newsom’s desk](https://techcrunch.com/2023/09/11/california-bill-to-ban-driverless-autonomous-trucks-goes-to-newsoms-desk/)
 - [Why Lime says the time is almost right to go public](https://techcrunch.com/2023/09/11/why-lime-says-the-time-is-almost-right-to-go-public/)
 - [Indian consumers’ rising appetite for premium](https://techcrunch.com/2023/09/11/indian-consumers-rising-appetite-for-premium/)
 - [Taiwan-based lifestyle app FunNow merges with Eatigo to broaden its Southeast Asia reach](https://techcrunch.com/2023/09/11/funnow-eatigo/)
-- [Max Q: Elon says Starship is ready, FAA says not quite](https://techcrunch.com/2023/09/11/max-q-elon-says-starship-is-ready-faa-says-not-quite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
