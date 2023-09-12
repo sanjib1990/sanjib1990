@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AuthMind raises seed funding for its identity SecOps platform](https://techcrunch.com/2023/09/12/authmind-raises-seed-funding-for-its-identity-secops-platform/)
+- [Mighty Buildings raises $52M to build 3D-printed prefab homes](https://techcrunch.com/2023/09/12/mighty-buildings-raises-52m-to-build-3d-printed-prefab-homes/)
 - [India, NASA to cooperate on human spaceflight and planetary defense](https://www.space.com/india-nasa-space-cooperation-planetary-defense)
 - [1 year after launch failure, Blue Origin&#39;s New Shepard rocket remains grounded](https://www.space.com/blue-origin-new-shepard-grounded-one-year)
 - [English learning platform ELSA lands $22.5M Series C](https://techcrunch.com/2023/09/12/elsa-series-c/)
-- [TikTok Shop officially launches in the U.S.](https://techcrunch.com/2023/09/12/tiktok-shop-officially-launches-in-the-u-s/)
-- [E-bike subscription service Dance reaches 10,000 active subscribers](https://techcrunch.com/2023/09/12/e-bike-subscription-service-dance-reaches-10000-active-subscribers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
