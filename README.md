@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Druid, a conversational AI platform for enterprises that integrates with ChatGPT, raises $24M](https://techcrunch.com/2023/09/12/druid-a-conversational-ai-platform-for-enterprises-that-integrates-with-chatgpt-raises-24m/)
-- [These TikTokers are making ‘Get Ready With Me’ videos in Spanish to connect with their roots](https://techcrunch.com/2023/09/12/these-tiktokers-are-making-get-ready-with-me-videos-in-spanish-to-connect-with-their-roots/)
-- [OSIRIS-REx asteroid probe heads toward Earth for Sept. 24 sample delivery](https://www.space.com/osiris-rex-heads-toward-earth-sample-delivery)
-- [Liveblog: Watch Apple unveil the iPhone 15, Apple Watch Series 9 and more](https://techcrunch.com/2023/09/12/liveblog-watch-apple-unveil-the-iphone-15-apple-watch-series-9-and-more/)
-- [Enfabrica, which builds networking hardware to drive AI workloads, raises $125M](https://techcrunch.com/2023/09/12/enfabrica-which-builds-networking-hardware-to-drive-ai-workloads-raises-125m/)
+- [T-minus 4 days left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/12/t-minus-4-days-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
+- [Astronomers may have discovered the closest black holes to Earth](https://www.space.com/astronomers-may-have-discovered-closest-black-holes-earth)
+- [Google’s adtech targeted by Dutch class-action style privacy damages suit](https://techcrunch.com/2023/09/12/google-dutch-adtech-privacy-damages-suit/)
+- [Salesforce introduces Einstein Copilot Studio to help customers customize their AI](https://techcrunch.com/2023/09/12/salesforce-introduces-einstein-copilot-studio-to-customers-customize-their-ai/)
+- [SQream calls in $45M to expand its GPU-based big data analytics platform](https://techcrunch.com/2023/09/12/sqream-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
