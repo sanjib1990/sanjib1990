@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [California bill to ban driverless autonomous trucks goes to Newsom’s desk](https://techcrunch.com/2023/09/11/california-bill-to-ban-driverless-autonomous-trucks-goes-to-newsoms-desk/)
+- [Why Lime says the time is almost right to go public](https://techcrunch.com/2023/09/11/why-lime-says-the-time-is-almost-right-to-go-public/)
+- [Indian consumers’ rising appetite for premium](https://techcrunch.com/2023/09/11/indian-consumers-rising-appetite-for-premium/)
 - [Taiwan-based lifestyle app FunNow merges with Eatigo to broaden its Southeast Asia reach](https://techcrunch.com/2023/09/11/funnow-eatigo/)
 - [Max Q: Elon says Starship is ready, FAA says not quite](https://techcrunch.com/2023/09/11/max-q-elon-says-starship-is-ready-faa-says-not-quite/)
-- [SpaceX poised to launch 21 new Starlink satellites on Falcon 9 rocket](https://www.space.com/spacex-starlink-launch-group-7-2)
-- [Boeing to test DARPA&#39;s upcoming &#39;Glide Breaker&#39; hypersonic interceptor](https://www.space.com/darpa-boeing-contract-glide-breaker-hypersonic-interceptor-testing)
-- [Battery recycling heats up with Ascend Elements’ $542M Series D](https://techcrunch.com/2023/09/11/battery-recycling-heats-up-with-ascend-elements-542m-series-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
