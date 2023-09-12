@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [All these Apple products are getting USB-C](https://techcrunch.com/2023/09/12/all-these-apple-products-are-getting-usb-c/)
-- [iPhone 15 Pro Max gets 5x optical telephoto lens and other treats for photo lovers](https://techcrunch.com/2023/09/12/iphone-15-pro-max-telephoto/)
-- [Satellites watch rare, destructive Mediterranean hurricane swirl above the Sahara &lpar;photos&rpar;](https://www.space.com/medicane-daniel-above-sahara-libya-satellite-photos)
-- [iCloud+ adds a 6TB and 12TB storage plan](https://techcrunch.com/2023/09/12/icloud-adds-a-6tb-and-12tb-storage-plan/)
-- [Apple’s iPhone 15 Pro will capture 3D ‘spatial videos’ for the Apple Vision Pro](https://techcrunch.com/2023/09/12/apples-iphone-15-pro-will-capture-3d-spatial-videos-for-the-apple-vision-pro/)
+- [Apple’s Lisa Jackson will discuss sustainability at TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/12/apples-lisa-jackson-will-discuss-sustainability-at-techcrunch-disrupt-2023/)
+- [Devialet launches a new pair of high-end wireless earbuds](https://techcrunch.com/2023/09/12/devialet-launches-a-new-pair-of-high-end-wireless-earbuds/)
+- [Apple’s iPhone 15 feels like a refined flagship with smart camera improvements](https://techcrunch.com/2023/09/12/apples-iphone-15-feels-like-a-refined-flagship-with-smart-camera-improvements/)
+- [Apple’s iOS 17 arrives Monday, Sept. 18](https://techcrunch.com/2023/09/12/apples-ios-17-arrives-monday-sept-18/)
+- [Lyten is the latest EV battery startup to score hundreds of millions](https://techcrunch.com/2023/09/12/lyten-is-the-latest-ev-battery-startup-to-score-hundreds-of-millions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
