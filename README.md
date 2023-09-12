@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Event 2023: Everything announced so far](https://techcrunch.com/2023/09/12/apple-event-2023-iphone-15-everything-you-need-to-know/)
-- [&#39;The Six&#39; author Loren Grush: 1st female astronauts set example for picking woman to land on moon](https://www.space.com/the-six-loren-grush-book-interview)
-- [Your guide to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/12/your-guide-to-techcrunch-disrupt-2023/)
-- [NASA astronaut Loral O&#39;Hara ready for Soyuz launch to relieve delayed crew in space](https://www.space.com/nasa-astronaut-loral-ohara-russia-soyuzlaunch-delay-relief)
-- [Will batteries usher in a new era of global energy sovereignty?](https://techcrunch.com/2023/09/12/will-batteries-usher-in-a-new-era-of-global-energy-sovereignty/)
+- [Portrait Mode gets an upgrade on the iPhone 15](https://techcrunch.com/2023/09/12/portrait-mode-gets-an-upgrade-on-the-iphone-15/)
+- [How does Earth&#39;s relationship with the sun affect our planet&#39;s climate?](https://www.space.com/earth-sun-relationship-effects-on-climate)
+- [Apple launches Roadside Assistance via satellite](https://techcrunch.com/2023/09/12/apple-launches-roadside-assistance-via-satellite/)
+- [Apple’s iPhone 15 Pro arrives in titanium](https://techcrunch.com/2023/09/12/apples-iphone-15-pro-arrives-in-titanium/)
+- [Apple’s ‘Find My’ app makes it easier to find your friends on iPhone 15](https://techcrunch.com/2023/09/12/apples-find-my-app-makes-it-easier-to-find-your-friends-on-iphone-15/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
