@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s more venture capital than space lasers?](https://techcrunch.com/2023/09/13/whats-more-venture-capital-than-space-lasers/)
-- [&#39;Ahsoka&#39; season 1 episode 5 review: The trip down memory lane fans were waiting for](https://www.space.com/ahsoka-season-1-episode-5-review)
-- [Tesla plans to almost double component sourcing from India to $1.9B this year, says minister](https://techcrunch.com/2023/09/13/tesla-india-component-sourcing/)
-- [Amazon debuts generative AI tools that helps sellers write product descriptions](https://techcrunch.com/2023/09/13/amazon-debuts-generative-ai-tools-that-helps-sellers-write-product-descriptions/)
-- [Swan secures $40 million to bring embedded banking to Europe](https://techcrunch.com/2023/09/13/swan-secures-40-million-to-bring-embedded-banking-to-europe/)
+- [MobileCoin, which powers Signal’s anonymous crypto payments, appoints new CEO](https://techcrunch.com/2023/09/13/signal-mobilecoin-sara-drakeley/)
+- [This startup has 12 co-founders](https://techcrunch.com/2023/09/13/mindtrip-12-cofounders/)
+- [72 hours left for last-chance savings to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/13/72-hours-left-for-last-chance-savings-to-techcrunch-disrupt-2023/)
+- [Apple Event 2023: Everything you need to know about iPhone 15, Apple Watch, USB-C connector](https://techcrunch.com/2023/09/13/apple-event-2023-iphone-15-everything-you-need-to-know/)
+- [Superorganism wants to be the conservationist on the cap table](https://techcrunch.com/2023/09/13/superorganism-wants-to-be-the-conservationist-on-the-cap-table/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
