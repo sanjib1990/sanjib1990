@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It&#39;s been an incredible challenge:&#39; NASA astronaut tells all on setting new record for longest US spaceflight &lpar;video&rpar;](https://www.space.com/nasa-astronaut-frank-rubio-celebrates-spaceflight-record)
 - [Scientists may finally know why the sun&#39;s outer atmosphere is so freakishly hot](https://www.space.com/solar-waves-sun-corona-mysteriously-hotter-than-surface)
 - [Ask Sophie: Can I get an O-1A visa to bypass the H-1B process?](https://techcrunch.com/2023/09/13/ask-sophie-can-i-get-an-o-1a-visa-to-bypass-the-h-1b-process/)
 - [James Webb Space Telescope watches seasons change on Saturn &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-saturn-seasons-atmosphere)
 - [Mila Kunis and Ashton Kutcher’s ‘Stoner Cats’ NFTs get smoked by the SEC](https://techcrunch.com/2023/09/13/mila-kunis-and-ashton-kutchers-stoner-cats-nfts-get-smoked-by-the-sec/)
-- [Einstein cross! Gravitationally lensed &#39;flower&#39; spotted in deep space &lpar;photo&rpar;](https://www.space.com/cosmic-wildflower-eso-very-large-telescope-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
