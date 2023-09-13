@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky officially hits 1 million users](https://techcrunch.com/2023/09/12/bluesky-officially-hits-1-million-users/)
 - [Tesla robotaxi concept looks like a two-seater Cybertruck](https://techcrunch.com/2023/09/12/tesla-robotaxi-concept-looks-like-a-two-seater-cybertruck/)
 - [Olivia Rodrigo releases ‘get him back!’ video, filmed on iPhone 15 Pro](https://techcrunch.com/2023/09/12/olivia-rodrigo-releases-get-him-back-video-filmed-on-iphone-15-pro/)
 - [UAE&#39;s 1st long-duration astronaut says a moon mission is within reach](https://www.space.com/uae-first-long-duration-astronaut-moon-mission-within-reach)
 - [Google’s big antitrust trial kicks off, with even bigger implications](https://techcrunch.com/2023/09/12/googles-big-antitrust-trial-kicks-off-with-even-bigger-implications/)
-- [NASA astronaut Frank Rubio surprised by his accidental record in space &lpar;video&rpar;](https://www.space.com/nasa-astronaut-frank-rubio-international-space-station-surprise-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
