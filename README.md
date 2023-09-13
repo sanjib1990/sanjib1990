@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exostellar raises $15M to help companies optimize their cloud spend](https://techcrunch.com/2023/09/13/exostellar-raises-15m-to-help-companies-optimize-their-cloud-spend/)
-- [China sends record-setting Tianzhou 5 cargo spacecraft to fiery death &lpar;video&rpar;](https://www.space.com/china-tinazhou-5-cargo-spacecraft-reentry-earth-atmosphere)
-- [Slingshot’s playful new app lets you ‘sling’ quick photos to friends](https://techcrunch.com/2023/09/13/slingshots-playful-new-app-lets-you-sling-quick-photos-to-friends/)
-- [iPhone 15 proves the key battleground in smartphone photography is character](https://techcrunch.com/2023/09/13/iphone-15-proves-the-key-battleground-in-smartphone-photography-is-character/)
-- [Treefera raises $2.2M to solve the carbon credits credibility problem with AI](https://techcrunch.com/2023/09/13/treefera-2m-pre-seed-round-carbon-credits/)
+- [The European Company signs agreements with Axiom, Indian Space Research Organization](https://techcrunch.com/2023/09/13/the-european-company-signs-agreements-with-axiom-indian-space-research-organization/)
+- [Android Auto now lets drivers take Zoom and Cisco conference calls](https://techcrunch.com/2023/09/13/android-auto-now-lets-drivers-take-zoom-and-cisco-conference-calls/)
+- [7 places in the US Southwest to see rare &#39;edge effects&#39; during annular solar eclipse on Oct. 14](https://www.space.com/where-to-see-rare-edge-effects-annular-solar-eclipse-october-2023)
+- [Amazon Prime video is coming to the Polestar 2 and Volvo Cars](https://techcrunch.com/2023/09/13/amazon-prime-video-is-coming-to-the-polestar-2-and-volvo-cars/)
+- [Axiom Space names Ax-3 astronaut crew for SpaceX mission to ISS](https://www.space.com/axiom-space-ax-3-astronaut-crew-international-space-station-named)
 <!-- BLOG-POST-LIST:END -->
 
 ---
