@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s switch to USB-C resurfaces the need to label the cables](https://techcrunch.com/2023/09/13/apples-switch-to-usb-c-resurfaces-the-need-to-label-the-cables/)
-- [NASA&#39;s UFO study team to announce results Sept. 14. Here&#39;s how to watch live.](https://www.space.com/nasa-uap-independent-study-team-results-livestream)
-- [Stability AI, gunning for a hit, launches an AI-powered music generator](https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/)
-- [Kolors acquires Urbvan to transform corporate bus travel in Mexico](https://techcrunch.com/2023/09/13/kolors-acquires-urbvan-to-transform-corporate-bus-travel-in-mexico/)
-- [French watchdog temporarily halts iPhone 12 sales over radiation levels](https://techcrunch.com/2023/09/13/french-watchdog-temporarily-halts-iphone-12-sales-over-radiation-levels/)
+- [Adobe’s Firefly generative AI models are now generally available, get pricing plans](https://techcrunch.com/2023/09/13/adobes-firefly-generative-ai-models-are-now-generally-available-get-pricing-plans/)
+- [Port is aging well as developer portal concept takes shape](https://techcrunch.com/2023/09/13/port-is-aging-well-as-developer-portal-concept-takes-shape/)
+- [Adobe starts paying bonuses to Stock contributors whose content is being used to train Firefly](https://techcrunch.com/2023/09/13/adobe-starts-paying-bonuses-to-stock-contributors-whose-content-is-being-used-to-train-firefly/)
+- [WhatsApp is launching its Channels feature globally](https://techcrunch.com/2023/09/13/whatsapp-is-launching-its-channels-feature-globally/)
+- [X Corp faces Dutch privacy class action over MoPub data trading](https://techcrunch.com/2023/09/13/mopub-privacy-class-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
