@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mila Kunis and Ashton Kutcher’s ‘Stoner Cats’ NFTs get smoked by the SEC](https://techcrunch.com/2023/09/13/mila-kunis-and-ashton-kutchers-stoner-cats-nfts-get-smoked-by-the-sec/)
+- [Einstein cross! Gravitationally lensed &#39;flower&#39; spotted in deep space &lpar;photo&rpar;](https://www.space.com/cosmic-wildflower-eso-very-large-telescope-photo)
+- [Vladimir Putin meets North Korea&#39;s Kim Jong-un at Russia&#39;s Vostochny Cosmodrome spaceport for 5-hour summit](https://www.space.com/putin-north-korea-kim-summit-vostochny-cosmodrome)
+- [TikTok’s revamped creator fund expands beyond the US to Brazil, Germany, Korea and more](https://techcrunch.com/2023/09/13/tiktoks-revamped-creator-fund-expands-beyond-the-us-to-brazil-germany-korea-and-more/)
 - [&#39;I am horrified&#39;: Archaeologists are fuming over ancient human relative remains sent to edge of space](https://www.space.com/archaeologists-fuming-over-ancient-human-relative-remains-sent-to-space)
-- [Digital forensics firm Binalyze raises $19M to investigate cyber threats](https://techcrunch.com/2023/09/13/digital-forensics-firm-binalyze-raises-19m-to-investigate-cyber-threats/)
-- [Devastation wrought by Medicane Daniel revealed in satellite photos](https://www.space.com/medicane-daniel-libya-destruction-satellite-photos)
-- [The European Company signs agreements with Axiom, Indian Space Research Organization](https://techcrunch.com/2023/09/13/the-european-company-signs-agreements-with-axiom-indian-space-research-organization/)
-- [Android Auto now lets drivers take Zoom and Cisco conference calls](https://techcrunch.com/2023/09/13/android-auto-now-lets-drivers-take-zoom-and-cisco-conference-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
