@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe’s Firefly generative AI models are now generally available, get pricing plans](https://techcrunch.com/2023/09/13/adobes-firefly-generative-ai-models-are-now-generally-available-get-pricing-plans/)
-- [Port is aging well as developer portal concept takes shape](https://techcrunch.com/2023/09/13/port-is-aging-well-as-developer-portal-concept-takes-shape/)
-- [Adobe starts paying bonuses to Stock contributors whose content is being used to train Firefly](https://techcrunch.com/2023/09/13/adobe-starts-paying-bonuses-to-stock-contributors-whose-content-is-being-used-to-train-firefly/)
-- [WhatsApp is launching its Channels feature globally](https://techcrunch.com/2023/09/13/whatsapp-is-launching-its-channels-feature-globally/)
-- [X Corp faces Dutch privacy class action over MoPub data trading](https://techcrunch.com/2023/09/13/mopub-privacy-class-action/)
+- [What’s more venture capital than space lasers?](https://techcrunch.com/2023/09/13/whats-more-venture-capital-than-space-lasers/)
+- [&#39;Ahsoka&#39; season 1 episode 5 review: The trip down memory lane fans were waiting for](https://www.space.com/ahsoka-season-1-episode-5-review)
+- [Tesla plans to almost double component sourcing from India to $1.9B this year, says minister](https://techcrunch.com/2023/09/13/tesla-india-component-sourcing/)
+- [Amazon debuts generative AI tools that helps sellers write product descriptions](https://techcrunch.com/2023/09/13/amazon-debuts-generative-ai-tools-that-helps-sellers-write-product-descriptions/)
+- [Swan secures $40 million to bring embedded banking to Europe](https://techcrunch.com/2023/09/13/swan-secures-40-million-to-bring-embedded-banking-to-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
