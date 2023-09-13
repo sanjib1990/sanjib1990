@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MobileCoin, which powers Signal’s anonymous crypto payments, appoints new CEO](https://techcrunch.com/2023/09/13/signal-mobilecoin-sara-drakeley/)
-- [This startup has 12 co-founders](https://techcrunch.com/2023/09/13/mindtrip-12-cofounders/)
-- [72 hours left for last-chance savings to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/13/72-hours-left-for-last-chance-savings-to-techcrunch-disrupt-2023/)
-- [Apple Event 2023: Everything you need to know about iPhone 15, Apple Watch, USB-C connector](https://techcrunch.com/2023/09/13/apple-event-2023-iphone-15-everything-you-need-to-know/)
-- [Superorganism wants to be the conservationist on the cap table](https://techcrunch.com/2023/09/13/superorganism-wants-to-be-the-conservationist-on-the-cap-table/)
+- [iPhone 15 proves the key battleground in smartphone photography is character](https://techcrunch.com/2023/09/13/iphone-15-proves-the-key-battleground-in-smartphone-photography-is-character/)
+- [Treefera raises $2.2M to solve the carbon credits credibility problem with AI](https://techcrunch.com/2023/09/13/treefera-2m-pre-seed-round-carbon-credits/)
+- [Russia rolls Soyuz rocket to the pad ahead of Sept. 15 astronaut launch to ISS &lpar;photos&rpar;](https://www.space.com/russia-ms-24-soyuz-rocket-rollout-photos)
+- [Wicked Saints is making Pokémon GO for young activists](https://techcrunch.com/2023/09/13/wicked-saints-is-making-pokemon-go-for-young-activists/)
+- [Personalized news app Artifact becomes a discovery engine for the web with new Links feature](https://techcrunch.com/2023/09/13/personalized-news-ap-artifact-becomes-a-discovery-engine-for-the-web-with-new-links-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
