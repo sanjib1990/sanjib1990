@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exostellar raises $15M to help companies optimize their cloud spend](https://techcrunch.com/2023/09/13/exostellar-raises-15m-to-help-companies-optimize-their-cloud-spend/)
+- [China sends record-setting Tianzhou 5 cargo spacecraft to fiery death &lpar;video&rpar;](https://www.space.com/china-tinazhou-5-cargo-spacecraft-reentry-earth-atmosphere)
+- [Slingshot’s playful new app lets you ‘sling’ quick photos to friends](https://techcrunch.com/2023/09/13/slingshots-playful-new-app-lets-you-sling-quick-photos-to-friends/)
 - [iPhone 15 proves the key battleground in smartphone photography is character](https://techcrunch.com/2023/09/13/iphone-15-proves-the-key-battleground-in-smartphone-photography-is-character/)
 - [Treefera raises $2.2M to solve the carbon credits credibility problem with AI](https://techcrunch.com/2023/09/13/treefera-2m-pre-seed-round-carbon-credits/)
-- [Russia rolls Soyuz rocket to the pad ahead of Sept. 15 astronaut launch to ISS &lpar;photos&rpar;](https://www.space.com/russia-ms-24-soyuz-rocket-rollout-photos)
-- [Wicked Saints is making Pokémon GO for young activists](https://techcrunch.com/2023/09/13/wicked-saints-is-making-pokemon-go-for-young-activists/)
-- [Personalized news app Artifact becomes a discovery engine for the web with new Links feature](https://techcrunch.com/2023/09/13/personalized-news-ap-artifact-becomes-a-discovery-engine-for-the-web-with-new-links-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
