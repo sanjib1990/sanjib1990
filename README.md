@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists may finally know why the sun&#39;s outer atmosphere is so freakishly hot](https://www.space.com/solar-waves-sun-corona-mysteriously-hotter-than-surface)
+- [Ask Sophie: Can I get an O-1A visa to bypass the H-1B process?](https://techcrunch.com/2023/09/13/ask-sophie-can-i-get-an-o-1a-visa-to-bypass-the-h-1b-process/)
+- [James Webb Space Telescope watches seasons change on Saturn &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-saturn-seasons-atmosphere)
 - [Mila Kunis and Ashton Kutcher’s ‘Stoner Cats’ NFTs get smoked by the SEC](https://techcrunch.com/2023/09/13/mila-kunis-and-ashton-kutchers-stoner-cats-nfts-get-smoked-by-the-sec/)
 - [Einstein cross! Gravitationally lensed &#39;flower&#39; spotted in deep space &lpar;photo&rpar;](https://www.space.com/cosmic-wildflower-eso-very-large-telescope-photo)
-- [Vladimir Putin meets North Korea&#39;s Kim Jong-un at Russia&#39;s Vostochny Cosmodrome spaceport for 5-hour summit](https://www.space.com/putin-north-korea-kim-summit-vostochny-cosmodrome)
-- [TikTok’s revamped creator fund expands beyond the US to Brazil, Germany, Korea and more](https://techcrunch.com/2023/09/13/tiktoks-revamped-creator-fund-expands-beyond-the-us-to-brazil-germany-korea-and-more/)
-- [&#39;I am horrified&#39;: Archaeologists are fuming over ancient human relative remains sent to edge of space](https://www.space.com/archaeologists-fuming-over-ancient-human-relative-remains-sent-to-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
