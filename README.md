@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s switch to USB-C resurfaces the need to label the cables](https://techcrunch.com/2023/09/13/apples-switch-to-usb-c-resurfaces-the-need-to-label-the-cables/)
+- [NASA&#39;s UFO study team to announce results Sept. 14. Here&#39;s how to watch live.](https://www.space.com/nasa-uap-independent-study-team-results-livestream)
+- [Stability AI, gunning for a hit, launches an AI-powered music generator](https://techcrunch.com/2023/09/13/stability-ai-gunning-for-a-hit-launches-an-ai-powered-music-generator/)
 - [Kolors acquires Urbvan to transform corporate bus travel in Mexico](https://techcrunch.com/2023/09/13/kolors-acquires-urbvan-to-transform-corporate-bus-travel-in-mexico/)
 - [French watchdog temporarily halts iPhone 12 sales over radiation levels](https://techcrunch.com/2023/09/13/french-watchdog-temporarily-halts-iphone-12-sales-over-radiation-levels/)
-- [Manfrotto Pro Backloader Light camera backpack review](https://www.space.com/manfrotto-backloader-pro-light-camera-backpack-review)
-- [Asteroid Apophis will visit Earth in 2029. Why do scientists want NASA to send a probe there first?](https://www.space.com/nasa-asteroid-apophis-approach-earth)
-- [SpaceX completes required &#39;corrective actions&#39; ahead of 2nd Starship flight, Elon Musk says](https://www.space.com/spacex-completes-faa-starship-corrective-actions-elon-musk-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
