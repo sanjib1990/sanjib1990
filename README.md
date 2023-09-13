@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I am horrified&#39;: Archaeologists are fuming over ancient human relative remains sent to edge of space](https://www.space.com/archaeologists-fuming-over-ancient-human-relative-remains-sent-to-space)
+- [Digital forensics firm Binalyze raises $19M to investigate cyber threats](https://techcrunch.com/2023/09/13/digital-forensics-firm-binalyze-raises-19m-to-investigate-cyber-threats/)
+- [Devastation wrought by Medicane Daniel revealed in satellite photos](https://www.space.com/medicane-daniel-libya-destruction-satellite-photos)
 - [The European Company signs agreements with Axiom, Indian Space Research Organization](https://techcrunch.com/2023/09/13/the-european-company-signs-agreements-with-axiom-indian-space-research-organization/)
 - [Android Auto now lets drivers take Zoom and Cisco conference calls](https://techcrunch.com/2023/09/13/android-auto-now-lets-drivers-take-zoom-and-cisco-conference-calls/)
-- [7 places in the US Southwest to see rare &#39;edge effects&#39; during annular solar eclipse on Oct. 14](https://www.space.com/where-to-see-rare-edge-effects-annular-solar-eclipse-october-2023)
-- [Amazon Prime video is coming to the Polestar 2 and Volvo Cars](https://techcrunch.com/2023/09/13/amazon-prime-video-is-coming-to-the-polestar-2-and-volvo-cars/)
-- [Axiom Space names Ax-3 astronaut crew for SpaceX mission to ISS](https://www.space.com/axiom-space-ax-3-astronaut-crew-international-space-station-named)
 <!-- BLOG-POST-LIST:END -->
 
 ---
