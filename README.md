@@ -83,7 +83,7 @@
 
 <!-- YOUTUBE:START -->
 - [TETRA Vulnerability &lpar;TETRA:BURST&rpar; - Computerphile](https://www.youtube.com/watch?v=Fy3Odm-dny0)
-- [let&#39;s build an Oracle Database....and then HACK it!! &lpar;For Beginners&rpar;](https://www.youtube.com/watch?v=qHe4mlhuNt4)
+- [let&#39;s hack an Oracle Database!!](https://www.youtube.com/watch?v=qHe4mlhuNt4)
 - [Tails OS in 100 Seconds](https://www.youtube.com/watch?v=mVKAyw0xqxw)
 - [Bun is disrupting JavaScript land](https://www.youtube.com/watch?v=dWqNgzZwVJQ)
 - [Big projects are ditching TypeScript… why?](https://www.youtube.com/watch?v=5ChkQKUzDCs)
