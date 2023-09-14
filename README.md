@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify expands its ‘Promo Cards’ feature to allow songwriters to promote their work](https://techcrunch.com/2023/09/14/spotify-songwriter-promo-cards/)
-- [Watch China&#39;s Shenzhou 16 astronauts clean the Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-16-astronauts-clean-tiangong-space-station-video)
-- [Only 48 hours left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/14/only-48-hours-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
-- [The very memeable ‘Trombone Champ’ is coming to Nintendo Switch](https://techcrunch.com/2023/09/14/the-very-memeable-trombone-champ-is-coming-to-nintendo-switch/)
-- [NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st report](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)
+- [Humanity&#39;s current space behavior &#39;unsustainable,&#39; ESA report warns](https://www.space.com/human-space-behavior-unsustainable-esa-report)
+- [Chromebooks will get updates for 10 years](https://techcrunch.com/2023/09/14/google-says-chromebooks-will-get-updates-for-10-years/)
+- [WordPress blogs can now be followed in the fediverse, including Mastodon](https://techcrunch.com/2023/09/14/wordpress-blogs-can-now-be-followed-in-the-fediverse-including-mastodon/)
+- [Tugende takes first step towards repayment of defaulted $5M Goldfinch loan](https://techcrunch.com/2023/09/14/tugende-goldfinch-loan/)
+- [Virgin Galactic to launch next space tourist mission on Oct. 5](https://www.space.com/virgin-galactic-next-space-tourist-flight-october-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
