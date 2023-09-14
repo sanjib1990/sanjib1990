@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Defence AI startup Helsing breaks the record for European AI, raising a $223M Series B](https://techcrunch.com/2023/09/14/defence-ai-startup-helsing-breaks-the-record-for-european-ai-raising-a-223m-series-b/)
-- [Pixis, an AI-powered full-stack marketing platform, raises $85M](https://techcrunch.com/2023/09/14/pixis-an-ai-powered-full-stack-marketing-platform-raises-85m/)
-- [Former DCG, Blockchain Capital investors launch $20M early-stage fund at crypto advisory firm Reverie](https://techcrunch.com/2023/09/14/former-dcg-blockchain-capital-investors-launch-20m-early-stage-fund-at-crypto-advisory-firm-reverie/)
-- [Patronus AI conjures up an LLM evaluation tool for regulated industries](https://techcrunch.com/2023/09/14/patronus-ai-conjures-up-an-llm-evaluation-tool-for-regulated-industries/)
-- [Databricks raises $500M more, boosting valuation to $43B despite late-stage gloom](https://techcrunch.com/2023/09/14/databricks-raises-500m-more-boosting-valuation-to-43b-despite-late-stage-gloom/)
+- [Honda’s new Motocompacto e-scooter is stolen straight from my dreams](https://techcrunch.com/2023/09/14/honda-motocompacto-e-scooter/)
+- [Armed with First Republic alums, Citizens Bank unveils new startup-focused private bank](https://techcrunch.com/2023/09/14/armed-with-a-team-from-first-republic-citizens-bank-unveils-new-private-bank-aimed-at-startups-and-the-venture-community/)
+- [LastMile AI closes $10M seed round to ‘operationalize’ AI models](https://techcrunch.com/2023/09/14/lastmile-ai-closes-10m-seed-round-to-operationalize-ai-models/)
+- [8 Latin American VCs share why they’re brimming with optimism about the region’s startups](https://techcrunch.com/2023/09/14/latam-vc-survey/)
+- [The other astronauts in &#39;A Million Miles Away&#39; react to the new film and its focus](https://www.space.com/a-million-miles-away-hernandez-space-shuttle-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
