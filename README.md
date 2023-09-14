@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [September&#39;s new moon points the way to Mars, Jupiter and more](https://www.space.com/new-moon-september-2023-observers-guide)
+- [&#39;Lightning&#39; on Venus is actually meteors burning up in planet&#39;s atmosphere, study says](https://www.space.com/venus-lightning-meteor-strikes-atmosphere)
+- [Mecho Autotech raises $2.4M, ventures into wholesale spare parts distribution](https://techcrunch.com/2023/09/14/mecho-autotech-raises-2-4m-ventures-into-wholesale-spare-parts-distribution/)
 - [China’s Honor returns to the Indian smartphone market](https://techcrunch.com/2023/09/14/honor-90-india-launch/)
 - [UK DeepTech gets another boost with new $100M SCVC fund out of Bristol](https://techcrunch.com/2023/09/14/uk-deeptech-gets-another-boost-with-the-launch-of-the-scvc-vc-fund-out-of-bristol/)
-- [Access code: Evidence brings open source BI to technical data teams](https://techcrunch.com/2023/09/13/evidence-business-intelligence-open-source-code/)
-- [San Francisco requests redo on Cruise, Waymo robotaxi expansion hearing](https://techcrunch.com/2023/09/13/san-francisco-requests-redo-on-cruise-waymo-robotaxi-expansion-hearing/)
-- [EU considers imposing tariffs against Chinese EV companies](https://techcrunch.com/2023/09/13/eu-considers-imposing-tariffs-against-chinese-ev-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
