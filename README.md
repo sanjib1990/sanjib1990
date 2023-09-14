@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK DeepTech gets another boost with new $100M SCVC fund out of Bristol](https://techcrunch.com/2023/09/14/uk-deeptech-gets-another-boost-with-the-launch-of-the-scvc-vc-fund-out-of-bristol/)
 - [Access code: Evidence brings open source BI to technical data teams](https://techcrunch.com/2023/09/13/evidence-business-intelligence-open-source-code/)
 - [San Francisco requests redo on Cruise, Waymo robotaxi expansion hearing](https://techcrunch.com/2023/09/13/san-francisco-requests-redo-on-cruise-waymo-robotaxi-expansion-hearing/)
 - [EU considers imposing tariffs against Chinese EV companies](https://techcrunch.com/2023/09/13/eu-considers-imposing-tariffs-against-chinese-ev-companies/)
 - [Al Gore and Lila Preston question everything in their firm’s new climate report](https://techcrunch.com/2023/09/13/al-gore-and-lila-preston-ask-the-tough-questions-in-their-firms-new-climate-report/)
-- [The iPhone 15 Pro is the next AAA game console](https://techcrunch.com/2023/09/13/the-iphone-15-pro-is-the-next-aaa-game-console/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
