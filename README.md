@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Space Telescope discovers 11-billion-year-old galaxy hidden in a quasar&#39;s glare](https://www.space.com/hubble-elusive-11-billion-year-old-galaxy-light-absorption)
-- [USDC issuer Circle expands Asia focus in push to enter the region’s flourishing payments ecosystem](https://techcrunch.com/2023/09/14/usdc-issuer-circle-expands-asia-focus-in-push-to-enter-the-regions-flourishing-payments-ecosystem/)
-- [A &#39;Planet Nine&#39; far from Earth could explain the odd behavior of icy bodies beyond Neptune](https://www.space.com/planet-nine-explain-odd-icy-body-behavior-beyond-neptune)
-- [The 7 best way to lose money as an angel investor](https://techcrunch.com/2023/09/14/angel-investor-mistakes/)
-- [Humanity&#39;s current space behavior &#39;unsustainable,&#39; European Space Agency report warns](https://www.space.com/human-space-behavior-unsustainable-esa-report)
+- [Space is &#39;more contested&#39; than ever by world&#39;s militaries, US Space Force chief says](https://www.space.com/space-force-chief-saltzman-orbit-more-contested-speech)
+- [Microsoft open sources EvoDiff, a novel protein-generating AI](https://techcrunch.com/2023/09/14/microsoft-open-sources-evodiff-a-novel-protein-generating-ai/)
+- [Your B2B leads are going to waste](https://techcrunch.com/2023/09/14/your-b2b-leads-are-going-to-waste/)
+- [SpaceX will launch 22 Starlink satellites early Sept. 15 — if Hurricane Lee doesn&#39;t interfere](https://www.space.com/spacex-starlink-launch-group-6-16)
+- [Meet Abu Dhabi ECA, Jorie Healthcare, Establish PR and Scalable Path at TC Disrupt 2023](https://techcrunch.com/2023/09/14/meet-abu-dhabi-eca-jorie-healthcare-establish-pr-and-scalable-path-at-tc-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
