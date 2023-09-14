@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Luna-25 failure won&#39;t be end of Russia&#39;s moon program, Putin says](https://www.space.com/russia-moon-program-continue-despite-luna-25-failure-putin-says)
-- [Astronomers weigh ancient galaxies&#39; dark matter haloes for 1st time](https://www.space.com/dark-matter-haloes-ancient-galaxy-1st-weight-measurements)
-- [OpenAI to open its first EU office as it readies for regulatory hurdles](https://techcrunch.com/2023/09/14/openai-dublin-eu-regulation/)
-- [September&#39;s new moon points the way to Mars, Jupiter and more](https://www.space.com/new-moon-september-2023-observers-guide)
-- [&#39;Lightning&#39; on Venus is actually meteors burning up in planet&#39;s atmosphere, study says](https://www.space.com/venus-lightning-meteor-strikes-atmosphere)
+- [Defence AI startup Helsing breaks the record for European AI, raising a $223M Series B](https://techcrunch.com/2023/09/14/defence-ai-startup-helsing-breaks-the-record-for-european-ai-raising-a-223m-series-b/)
+- [Pixis, an AI-powered full-stack marketing platform, raises $85M](https://techcrunch.com/2023/09/14/pixis-an-ai-powered-full-stack-marketing-platform-raises-85m/)
+- [Former DCG, Blockchain Capital investors launch $20M early-stage fund at crypto advisory firm Reverie](https://techcrunch.com/2023/09/14/former-dcg-blockchain-capital-investors-launch-20m-early-stage-fund-at-crypto-advisory-firm-reverie/)
+- [Patronus AI conjures up an LLM evaluation tool for regulated industries](https://techcrunch.com/2023/09/14/patronus-ai-conjures-up-an-llm-evaluation-tool-for-regulated-industries/)
+- [Databricks raises $500M more, boosting valuation to $43B despite late-stage gloom](https://techcrunch.com/2023/09/14/databricks-raises-500m-more-boosting-valuation-to-43b-despite-late-stage-gloom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
