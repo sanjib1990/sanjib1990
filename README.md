@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Honda’s new Motocompacto e-scooter is stolen straight from my dreams](https://techcrunch.com/2023/09/14/honda-motocompacto-e-scooter/)
-- [Armed with First Republic alums, Citizens Bank unveils new startup-focused private bank](https://techcrunch.com/2023/09/14/armed-with-a-team-from-first-republic-citizens-bank-unveils-new-private-bank-aimed-at-startups-and-the-venture-community/)
-- [LastMile AI closes $10M seed round to ‘operationalize’ AI models](https://techcrunch.com/2023/09/14/lastmile-ai-closes-10m-seed-round-to-operationalize-ai-models/)
-- [8 Latin American VCs share why they’re brimming with optimism about the region’s startups](https://techcrunch.com/2023/09/14/latam-vc-survey/)
-- [The other astronauts in &#39;A Million Miles Away&#39; react to the new film and its focus](https://www.space.com/a-million-miles-away-hernandez-space-shuttle-astronauts)
+- [Spotify expands its ‘Promo Cards’ feature to allow songwriters to promote their work](https://techcrunch.com/2023/09/14/spotify-songwriter-promo-cards/)
+- [Watch China&#39;s Shenzhou 16 astronauts clean the Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-16-astronauts-clean-tiangong-space-station-video)
+- [Only 48 hours left to save on passes to TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/14/only-48-hours-left-to-save-on-passes-to-techcrunch-disrupt-2023/)
+- [The very memeable ‘Trombone Champ’ is coming to Nintendo Switch](https://techcrunch.com/2023/09/14/the-very-memeable-trombone-champ-is-coming-to-nintendo-switch/)
+- [NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st report](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
