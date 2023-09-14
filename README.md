@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Humanity&#39;s current space behavior &#39;unsustainable,&#39; ESA report warns](https://www.space.com/human-space-behavior-unsustainable-esa-report)
-- [Chromebooks will get updates for 10 years](https://techcrunch.com/2023/09/14/google-says-chromebooks-will-get-updates-for-10-years/)
-- [WordPress blogs can now be followed in the fediverse, including Mastodon](https://techcrunch.com/2023/09/14/wordpress-blogs-can-now-be-followed-in-the-fediverse-including-mastodon/)
-- [Tugende takes first step towards repayment of defaulted $5M Goldfinch loan](https://techcrunch.com/2023/09/14/tugende-goldfinch-loan/)
-- [Virgin Galactic to launch next space tourist mission on Oct. 5](https://www.space.com/virgin-galactic-next-space-tourist-flight-october-5)
+- [Hubble Space Telescope discovers 11-billion-year-old galaxy hidden in a quasar&#39;s glare](https://www.space.com/hubble-elusive-11-billion-year-old-galaxy-light-absorption)
+- [USDC issuer Circle expands Asia focus in push to enter the region’s flourishing payments ecosystem](https://techcrunch.com/2023/09/14/usdc-issuer-circle-expands-asia-focus-in-push-to-enter-the-regions-flourishing-payments-ecosystem/)
+- [A &#39;Planet Nine&#39; far from Earth could explain the odd behavior of icy bodies beyond Neptune](https://www.space.com/planet-nine-explain-odd-icy-body-behavior-beyond-neptune)
+- [The 7 best way to lose money as an angel investor](https://techcrunch.com/2023/09/14/angel-investor-mistakes/)
+- [Humanity&#39;s current space behavior &#39;unsustainable,&#39; European Space Agency report warns](https://www.space.com/human-space-behavior-unsustainable-esa-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
