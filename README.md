@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luna-25 failure won&#39;t be end of Russia&#39;s moon program, Putin says](https://www.space.com/russia-moon-program-continue-despite-luna-25-failure-putin-says)
+- [Astronomers weigh ancient galaxies&#39; dark matter haloes for 1st time](https://www.space.com/dark-matter-haloes-ancient-galaxy-1st-weight-measurements)
+- [OpenAI to open its first EU office as it readies for regulatory hurdles](https://techcrunch.com/2023/09/14/openai-dublin-eu-regulation/)
 - [September&#39;s new moon points the way to Mars, Jupiter and more](https://www.space.com/new-moon-september-2023-observers-guide)
 - [&#39;Lightning&#39; on Venus is actually meteors burning up in planet&#39;s atmosphere, study says](https://www.space.com/venus-lightning-meteor-strikes-atmosphere)
-- [Mecho Autotech raises $2.4M, ventures into wholesale spare parts distribution](https://techcrunch.com/2023/09/14/mecho-autotech-raises-2-4m-ventures-into-wholesale-spare-parts-distribution/)
-- [China’s Honor returns to the Indian smartphone market](https://techcrunch.com/2023/09/14/honor-90-india-launch/)
-- [UK DeepTech gets another boost with new $100M SCVC fund out of Bristol](https://techcrunch.com/2023/09/14/uk-deeptech-gets-another-boost-with-the-launch-of-the-scvc-vc-fund-out-of-bristol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
