@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stealth startup Favs raises ~$1M for its close-friends-only social network](https://techcrunch.com/2023/09/14/stealth-startup-favs-raises-1m-for-its-close-friends-only-social-network/)
-- [As Databricks stacks more capital, a competitive AI market heats up](https://techcrunch.com/2023/09/14/as-databricks-stacks-more-capital-a-competitive-ai-market-heats-up/)
-- [Space is &#39;more contested&#39; than ever by world&#39;s militaries, US Space Force chief says](https://www.space.com/space-force-chief-saltzman-orbit-more-contested-speech)
-- [Microsoft open sources EvoDiff, a novel protein-generating AI](https://techcrunch.com/2023/09/14/microsoft-open-sources-evodiff-a-novel-protein-generating-ai/)
-- [Your B2B leads are going to waste](https://techcrunch.com/2023/09/14/your-b2b-leads-are-going-to-waste/)
+- [Meta’s Horizon Worlds is rolling out on web and mobile](https://techcrunch.com/2023/09/14/metas-horizon-worlds-is-rolling-out-on-web-and-mobile/)
+- [Our universe holds more &#39;spectacular&#39; polar ring galaxies than once thought, scientists say](https://www.space.com/polar-ring-galaxy-spectacular-realms-universe)
+- [Circle expands Asia focus, Mila Kunis and Stoner Cats face SEC, Telegram adds crypto wallet and more](https://techcrunch.com/2023/09/14/circle-expands-asia-focus-mila-kunis-and-stoner-cats-face-sec-telegram-adds-crypto-wallet-and-more/)
+- [Where to stand in Texas to see two solar eclipses in under six months](https://www.space.com/where-to-stand-texas-to-see-two-solar-eclipses-under-six-months)
+- [TikTok and Billboard team up to launch a top 50 song chart](https://techcrunch.com/2023/09/14/tiktok-and-billboard-team-up-to-launch-a-top-50-song-chart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
