@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stealth startup Favs raises ~$1M for its close-friends-only social network](https://techcrunch.com/2023/09/14/stealth-startup-favs-raises-1m-for-its-close-friends-only-social-network/)
+- [As Databricks stacks more capital, a competitive AI market heats up](https://techcrunch.com/2023/09/14/as-databricks-stacks-more-capital-a-competitive-ai-market-heats-up/)
 - [Space is &#39;more contested&#39; than ever by world&#39;s militaries, US Space Force chief says](https://www.space.com/space-force-chief-saltzman-orbit-more-contested-speech)
 - [Microsoft open sources EvoDiff, a novel protein-generating AI](https://techcrunch.com/2023/09/14/microsoft-open-sources-evodiff-a-novel-protein-generating-ai/)
 - [Your B2B leads are going to waste](https://techcrunch.com/2023/09/14/your-b2b-leads-are-going-to-waste/)
-- [SpaceX will launch 22 Starlink satellites early Sept. 15 — if Hurricane Lee doesn&#39;t interfere](https://www.space.com/spacex-starlink-launch-group-6-16)
-- [Meet Abu Dhabi ECA, Jorie Healthcare, Establish PR and Scalable Path at TC Disrupt 2023](https://techcrunch.com/2023/09/14/meet-abu-dhabi-eca-jorie-healthcare-establish-pr-and-scalable-path-at-tc-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
