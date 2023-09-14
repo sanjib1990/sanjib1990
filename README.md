@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX could get license for 2nd Starship launch in October, FAA says](https://www.space.com/spacex-starship-second-launch-possible-october-2023)
+- [Oracle brings its database infrastructure to Microsoft Azure](https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/)
+- [Stunning James Webb Space Telescope image shows young star blasting supersonic jets](https://www.space.com/supersonic-jets-young-star-space-james-webb-space-telescope)
 - [Meta’s Horizon Worlds is rolling out on web and mobile](https://techcrunch.com/2023/09/14/metas-horizon-worlds-is-rolling-out-on-web-and-mobile/)
 - [Our universe holds more &#39;spectacular&#39; polar ring galaxies than once thought, scientists say](https://www.space.com/polar-ring-galaxy-spectacular-realms-universe)
-- [Circle expands Asia focus, Mila Kunis and Stoner Cats face SEC, Telegram adds crypto wallet and more](https://techcrunch.com/2023/09/14/circle-expands-asia-focus-mila-kunis-and-stoner-cats-face-sec-telegram-adds-crypto-wallet-and-more/)
-- [Where to stand in Texas to see two solar eclipses in under six months](https://www.space.com/where-to-stand-texas-to-see-two-solar-eclipses-under-six-months)
-- [TikTok and Billboard team up to launch a top 50 song chart](https://techcrunch.com/2023/09/14/tiktok-and-billboard-team-up-to-launch-a-top-50-song-chart/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
