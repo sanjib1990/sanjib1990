@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian CEO’s plan to make EVs cheaper starts with their computers](https://techcrunch.com/2023/09/14/rivian-ceos-plan-to-make-evs-cheaper-starts-with-their-computers/)
+- [GM boosts wage offer as autoworker strike deadline approaches](https://techcrunch.com/2023/09/14/gm-boosts-wage-offer-as-autoworker-strike-deadline-approaches/)
 - [French battery maker Verkor scores $2.1B to build gigafactory](https://techcrunch.com/2023/09/14/french-battery-maker-verkor-scores-2-1b-to-build-gigafactory/)
 - [California hits Google for $93M over deceptive location data options](https://techcrunch.com/2023/09/14/california-hits-google-for-93m-over-deceptive-location-data-options/)
 - [SpaceX could get license for 2nd Starship launch in October, FAA says](https://www.space.com/spacex-starship-second-launch-possible-october-2023)
-- [Oracle brings its database infrastructure to Microsoft Azure](https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/)
-- [Stunning James Webb Space Telescope image shows young star blasting supersonic jets](https://www.space.com/supersonic-jets-young-star-space-james-webb-space-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
