@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revel, the car subscription startup from Spain, raises $123M to take its business up a gear](https://techcrunch.com/2023/09/14/revel-spain/)
 - [California’s right to repair bill heads to Governor’s desk](https://techcrunch.com/2023/09/14/californias-right-to-repair-bill-heads-to-governors-desk/)
 - [Bose upgrades its QuietComfort line](https://techcrunch.com/2023/09/14/bose-upgrades-its-quietcomfort-line/)
 - [Rivian CEO’s plan to make EVs cheaper starts with their computers](https://techcrunch.com/2023/09/14/rivian-ceos-plan-to-make-evs-cheaper-starts-with-their-computers/)
 - [GM boosts wage offer as autoworker strike deadline approaches](https://techcrunch.com/2023/09/14/gm-boosts-wage-offer-as-autoworker-strike-deadline-approaches/)
-- [French battery maker Verkor scores $2.1B to build gigafactory](https://techcrunch.com/2023/09/14/french-battery-maker-verkor-scores-2-1b-to-build-gigafactory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
