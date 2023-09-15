@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russian Soyuz spacecraft carrying 3 spaceflyers arrives at ISS](https://www.space.com/soyuz-ms-24-arrives-international-space-station)
+- [NASA appoints new head of UFO research](https://www.space.com/nasa-names-head-of-uap-research)
 - [How angel investors lose their money, in 7 easy steps](https://techcrunch.com/2023/09/15/how-angel-investors-lose-their-money-in-7-easy-steps/)
 - [Superorder raises $10M to help restaurants maintain their online presence](https://techcrunch.com/2023/09/15/superorder-raises-10m-to-help-restaurants-maintain-their-online-presence/)
 - [Do Apple’s environmental claims live up to its own highly polished hype?](https://techcrunch.com/2023/09/15/apple-watch-series-9-environmental-claims/)
-- [Firefly and Millennium Space’s Victus Nox mission sets a new record for responsive launch](https://techcrunch.com/2023/09/15/firefly-and-millennium-spaces-victus-nox-mission-sets-a-new-record-for-responsive-launch/)
-- [Is Instacart’s new IPO price range justified?](https://techcrunch.com/2023/09/15/instacart-ipo-price-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
