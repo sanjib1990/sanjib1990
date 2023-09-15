@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s missing from Guy Kawasaki’s 10-slide deck](https://techcrunch.com/2023/09/15/guy-kawasaki-10-slide-deck-what-is-missing/)
+- [We’ll probably retire before Databricks IPOs](https://techcrunch.com/2023/09/15/well-probably-retire-before-databricks-ipos/)
+- [The last sale on passes to TechCrunch Disrupt 2023 ends tonight](https://techcrunch.com/2023/09/15/the-last-sale-on-passes-to-techcrunch-disrupt-2023-ends-tonight/)
+- [The right treasury management strategy can extend your startup’s runway](https://techcrunch.com/2023/09/15/the-right-treasury-management-strategy-can-extend-your-startups-runway/)
 - [Satellites reveal how deadly Morocco earthquake moved ground &lpar;photos&rpar;](https://www.space.com/morocco-earthquake-ground-shift-satellite-images)
-- [Why is Neptune&#39;s moon Triton so weird?](https://www.space.com/neptune-triton-why-so-weird)
-- [TikTok fined $379M in EU for failing to keep kids’ data safe](https://techcrunch.com/2023/09/15/tiktok-gdpr-childrens-data-decision/)
-- [All the iPhone 15 models compared](https://techcrunch.com/2023/09/15/all-the-iphone-15-models-compared/)
-- [Koo, India’s Twitter alternative, seeks strategic partner amid funding crunch](https://techcrunch.com/2023/09/15/koo-indias-twitter-alternative-seeks-strategic-partner-amid-funding-crunch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
