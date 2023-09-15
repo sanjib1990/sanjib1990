@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian rocket launches 3 astronauts for up to yearlong stay on ISS &lpar;photos&rpar;](https://www.space.com/soyuz-ms-24-launch-space-station)
+- [Russian rocket launches 3 astronauts for up to yearlong stay on ISS &lpar;video&rpar;](https://www.space.com/soyuz-ms-24-launch-space-station)
 - [Hubble telescope spots glowing galactic disk floating in deep space &lpar;photo&rpar;](https://www.space.com/great-galactic-disk-hubble-photo)
 - [Former WarnerMedia CEO Jason Kilar joins Roblox’s board](https://techcrunch.com/2023/09/15/former-warnermedia-ceo-jason-kilar-joins-robloxs-board/)
 - [If you’d bought Apple shares instead of iPhones, you’d now have $147,000](https://techcrunch.com/2023/09/15/one-meeeelion-dollars-muuhahahahaha/)
