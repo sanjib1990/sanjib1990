@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 adoption could come via the enterprise, but the real boom will be through startups](https://techcrunch.com/2023/09/15/web3-adoption-startups-enterprise/)
-- [X’s crowdsourced fact checking system will now let contributors consider opposing viewpoints](https://techcrunch.com/2023/09/15/xs-crowdsourced-fact-checking-system-will-now-let-contributors-consider-opposing-viewpoints/)
-- [Watch the inspiring true story of NASA astronaut José Hernández in &#39;A Million Miles Away&#39; on Amazon Prime &lpar;video&rpar;](https://www.space.com/nasa-astronaut-jose-hernandez-a-million-miles-away-amazon-prime)
-- [What’s missing from Guy Kawasaki’s 10-slide deck](https://techcrunch.com/2023/09/15/guy-kawasaki-10-slide-deck-what-is-missing/)
-- [We’ll probably retire before Databricks IPOs](https://techcrunch.com/2023/09/15/well-probably-retire-before-databricks-ipos/)
+- [Russian rocket launches 3 astronauts for up to yearlong stay on ISS &lpar;photos&rpar;](https://www.space.com/soyuz-ms-24-launch-space-station)
+- [Hubble telescope spots glowing galactic disk floating in deep space &lpar;photo&rpar;](https://www.space.com/great-galactic-disk-hubble-photo)
+- [Former WarnerMedia CEO Jason Kilar joins Roblox’s board](https://techcrunch.com/2023/09/15/former-warnermedia-ceo-jason-kilar-joins-robloxs-board/)
+- [If you’d bought Apple shares instead of iPhones, you’d now have $147,000](https://techcrunch.com/2023/09/15/one-meeeelion-dollars-muuhahahahaha/)
+- [Apple to release software update for iPhone 12 to solve radiation concerns](https://techcrunch.com/2023/09/15/apple-to-release-software-update-for-iphone-12-to-solve-radiation-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
