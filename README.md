@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien mummies in Mexico? NASA&#39;s UFO study team says don&#39;t bet on it](https://www.space.com/alien-mummies-nasa-uap-study-team)
+- [Watch NASA astronaut Loral O&#39;Hara, two Russians launch to ISS today](https://www.space.com/nasa-astronaut-loral-ohara-russian-soyuz-iss-launch-livestream)
 - [X launches account verification based on government ID](https://techcrunch.com/2023/09/15/x-launches-account-verification-based-on-government-id/)
 - [Meta says not planning ads on WhatsApp](https://techcrunch.com/2023/09/14/meta-says-not-planning-ads-on-whatsapp/)
 - [Autoworkers strike begins at Ford, GM, Stellantis plants](https://techcrunch.com/2023/09/14/autoworkers-strike-begins-at-ford-gm-stellantis-plants/)
-- [Revel, the car subscription startup from Spain, raises $123M to take its business up a gear](https://techcrunch.com/2023/09/14/revel-spain/)
-- [California’s right to repair bill heads to Governor’s desk](https://techcrunch.com/2023/09/14/californias-right-to-repair-bill-heads-to-governors-desk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
