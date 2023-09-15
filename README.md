@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bose upgrades its QuietComfort line](https://techcrunch.com/2023/09/14/bose-upgrades-its-quietcomfort-line/)
 - [Rivian CEO’s plan to make EVs cheaper starts with their computers](https://techcrunch.com/2023/09/14/rivian-ceos-plan-to-make-evs-cheaper-starts-with-their-computers/)
 - [GM boosts wage offer as autoworker strike deadline approaches](https://techcrunch.com/2023/09/14/gm-boosts-wage-offer-as-autoworker-strike-deadline-approaches/)
 - [French battery maker Verkor scores $2.1B to build gigafactory](https://techcrunch.com/2023/09/14/french-battery-maker-verkor-scores-2-1b-to-build-gigafactory/)
 - [California hits Google for $93M over deceptive location data options](https://techcrunch.com/2023/09/14/california-hits-google-for-93m-over-deceptive-location-data-options/)
-- [SpaceX could get license for 2nd Starship launch in October, FAA says](https://www.space.com/spacex-starship-second-launch-possible-october-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
