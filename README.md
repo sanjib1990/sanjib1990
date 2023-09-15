@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New record! Firefly Aerospace launches Space Force mission 27 hours after receiving order](https://www.space.com/firefly-aerospace-rapid-launch-space-force-success)
-- [Answering AI’s biggest questions requires an interdisciplinary approach](https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/)
-- [TechCrunch+ Roundup: New life for old B2B leads, LatAm VC survey, treasury management basics](https://techcrunch.com/2023/09/15/techcrunch-roundup-a-new-life-for-old-b2b-leads-latam-vc-survey-treasury-management-basics/)
-- [Pitch Deck Teardown: Learn.xyz’s $3M seed deck](https://techcrunch.com/2023/09/15/sample-seed-pitch-deck-learn-xyz/)
-- [James Webb Space Telescope could detect life on Earth from across the galaxy, new study suggests](https://www.space.com/james-webb-telescope-detect-life-on-earth-from-across-the-galaxy)
+- [How angel investors lose their money, in 7 easy steps](https://techcrunch.com/2023/09/15/how-angel-investors-lose-their-money-in-7-easy-steps/)
+- [Superorder raises $10M to help restaurants maintain their online presence](https://techcrunch.com/2023/09/15/superorder-raises-10m-to-help-restaurants-maintain-their-online-presence/)
+- [Do Apple’s environmental claims live up to its own highly polished hype?](https://techcrunch.com/2023/09/15/apple-watch-series-9-environmental-claims/)
+- [Firefly and Millennium Space’s Victus Nox mission sets a new record for responsive launch](https://techcrunch.com/2023/09/15/firefly-and-millennium-spaces-victus-nox-mission-sets-a-new-record-for-responsive-launch/)
+- [Is Instacart’s new IPO price range justified?](https://techcrunch.com/2023/09/15/instacart-ipo-price-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
