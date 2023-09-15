@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian rocket launches 3 astronauts for up to yearlong stay on ISS &lpar;video&rpar;](https://www.space.com/soyuz-ms-24-launch-space-station)
-- [Hubble telescope spots glowing galactic disk floating in deep space &lpar;photo&rpar;](https://www.space.com/great-galactic-disk-hubble-photo)
-- [Former WarnerMedia CEO Jason Kilar joins Roblox’s board](https://techcrunch.com/2023/09/15/former-warnermedia-ceo-jason-kilar-joins-robloxs-board/)
-- [If you’d bought Apple shares instead of iPhones, you’d now have $147,000](https://techcrunch.com/2023/09/15/one-meeeelion-dollars-muuhahahahaha/)
-- [Apple to release software update for iPhone 12 to solve radiation concerns](https://techcrunch.com/2023/09/15/apple-to-release-software-update-for-iphone-12-to-solve-radiation-concerns/)
+- [New record! Firefly Aerospace launches Space Force mission 27 hours after receiving order](https://www.space.com/firefly-aerospace-rapid-launch-space-force-success)
+- [Answering AI’s biggest questions requires an interdisciplinary approach](https://techcrunch.com/2023/09/15/answering-ais-biggest-questions-requires-an-interdisciplinary-approach/)
+- [TechCrunch+ Roundup: New life for old B2B leads, LatAm VC survey, treasury management basics](https://techcrunch.com/2023/09/15/techcrunch-roundup-a-new-life-for-old-b2b-leads-latam-vc-survey-treasury-management-basics/)
+- [Pitch Deck Teardown: Learn.xyz’s $3M seed deck](https://techcrunch.com/2023/09/15/sample-seed-pitch-deck-learn-xyz/)
+- [James Webb Space Telescope could detect life on Earth from across the galaxy, new study suggests](https://www.space.com/james-webb-telescope-detect-life-on-earth-from-across-the-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
