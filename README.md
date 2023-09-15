@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 adoption could come via the enterprise, but the real boom will be through startups](https://techcrunch.com/2023/09/15/web3-adoption-startups-enterprise/)
+- [X’s crowdsourced fact checking system will now let contributors consider opposing viewpoints](https://techcrunch.com/2023/09/15/xs-crowdsourced-fact-checking-system-will-now-let-contributors-consider-opposing-viewpoints/)
+- [Watch the inspiring true story of NASA astronaut José Hernández in &#39;A Million Miles Away&#39; on Amazon Prime &lpar;video&rpar;](https://www.space.com/nasa-astronaut-jose-hernandez-a-million-miles-away-amazon-prime)
 - [What’s missing from Guy Kawasaki’s 10-slide deck](https://techcrunch.com/2023/09/15/guy-kawasaki-10-slide-deck-what-is-missing/)
 - [We’ll probably retire before Databricks IPOs](https://techcrunch.com/2023/09/15/well-probably-retire-before-databricks-ipos/)
-- [The last sale on passes to TechCrunch Disrupt 2023 ends tonight](https://techcrunch.com/2023/09/15/the-last-sale-on-passes-to-techcrunch-disrupt-2023-ends-tonight/)
-- [The right treasury management strategy can extend your startup’s runway](https://techcrunch.com/2023/09/15/the-right-treasury-management-strategy-can-extend-your-startups-runway/)
-- [Satellites reveal how deadly Morocco earthquake moved ground &lpar;photos&rpar;](https://www.space.com/morocco-earthquake-ground-shift-satellite-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
