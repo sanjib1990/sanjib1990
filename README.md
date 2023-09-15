@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien mummies in Mexico? NASA&#39;s UFO study team says don&#39;t bet on it](https://www.space.com/alien-mummies-nasa-uap-study-team)
 - [Watch NASA astronaut Loral O&#39;Hara, two Russians launch to ISS today](https://www.space.com/nasa-astronaut-loral-ohara-russian-soyuz-iss-launch-livestream)
+- [Alien mummies in Mexico? NASA&#39;s UFO study team says don&#39;t bet on it](https://www.space.com/alien-mummies-nasa-uap-study-team)
 - [X launches account verification based on government ID](https://techcrunch.com/2023/09/15/x-launches-account-verification-based-on-government-id/)
 - [Meta says not planning ads on WhatsApp](https://techcrunch.com/2023/09/14/meta-says-not-planning-ads-on-whatsapp/)
 - [Autoworkers strike begins at Ford, GM, Stellantis plants](https://techcrunch.com/2023/09/14/autoworkers-strike-begins-at-ford-gm-stellantis-plants/)
