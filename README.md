@@ -83,7 +83,7 @@
 
 <!-- YOUTUBE:START -->
 - [TETRA Vulnerability &lpar;TETRA:BURST&rpar; - Computerphile](https://www.youtube.com/watch?v=Fy3Odm-dny0)
-- [HACKING a database &lpar;.....after we build it&rpar;](https://www.youtube.com/watch?v=qHe4mlhuNt4)
+- [Hacking the world’s most popular database](https://www.youtube.com/watch?v=qHe4mlhuNt4)
 - [Tails OS in 100 Seconds](https://www.youtube.com/watch?v=mVKAyw0xqxw)
 - [Bun is disrupting JavaScript land](https://www.youtube.com/watch?v=dWqNgzZwVJQ)
 - [Big projects are ditching TypeScript… why?](https://www.youtube.com/watch?v=5ChkQKUzDCs)
