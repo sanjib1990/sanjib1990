@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X launches account verification based on government ID](https://techcrunch.com/2023/09/15/x-launches-account-verification-based-on-government-id/)
 - [Meta says not planning ads on WhatsApp](https://techcrunch.com/2023/09/14/meta-says-not-planning-ads-on-whatsapp/)
 - [Autoworkers strike begins at Ford, GM, Stellantis plants](https://techcrunch.com/2023/09/14/autoworkers-strike-begins-at-ford-gm-stellantis-plants/)
 - [Revel, the car subscription startup from Spain, raises $123M to take its business up a gear](https://techcrunch.com/2023/09/14/revel-spain/)
 - [California’s right to repair bill heads to Governor’s desk](https://techcrunch.com/2023/09/14/californias-right-to-repair-bill-heads-to-governors-desk/)
-- [Bose upgrades its QuietComfort line](https://techcrunch.com/2023/09/14/bose-upgrades-its-quietcomfort-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
