@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [High-energy electrons in Earth&#39;s magnetic tail may form water on the moon](https://www.space.com/water-moon-electrons-earth-bombardment)
+- [Distant Neptune and Uranus make for excellent night sky sights this week. Here&#39;s how to see them](https://www.space.com/uranus-neptune-night-sky-how-to-se-september-2023)
 - [Russian Soyuz spacecraft carrying 3 spaceflyers arrives at ISS](https://www.space.com/soyuz-ms-24-arrives-international-space-station)
 - [NASA appoints new head of UFO research](https://www.space.com/nasa-names-head-of-uap-research)
 - [How angel investors lose their money, in 7 easy steps](https://techcrunch.com/2023/09/15/how-angel-investors-lose-their-money-in-7-easy-steps/)
-- [Superorder raises $10M to help restaurants maintain their online presence](https://techcrunch.com/2023/09/15/superorder-raises-10m-to-help-restaurants-maintain-their-online-presence/)
-- [Do Apple’s environmental claims live up to its own highly polished hype?](https://techcrunch.com/2023/09/15/apple-watch-series-9-environmental-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
