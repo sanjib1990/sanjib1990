@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA confirms summer 2023 was Earth&#39;s hottest on record](https://www.space.com/nasa-2023-summer-hottest-on-record)
+- [SpaceX Starship engine passes key test for Artemis 3 moon-landing mission &lpar;video&rpar;](https://www.space.com/spacex-starship-raptor-engine-artemis-3-cold-moon-landing-test)
 - [Germany signs on to NASA&#39;s Artemis Accords for moon exploration](https://www.space.com/germany-signs-artemis-accords-moon-exploration)
 - [Kennedy Space Center post office closing after 58 years of postmarks](https://www.space.com/kennedy-space-center-post-office-closing)
 - [Stunning image of Andromeda galaxy takes top astronomy photography prize of 2023 &lpar;gallery&rpar;](https://www.space.com/royal-observatory-greenwich-astronomy-photographer-of-the-year-15-winners)
-- [Satellites watch as Hurricane Lee swirls towards Canada &lpar;video&rpar;](https://www.space.com/hurricane-lee-threatens-canada-photo)
-- [Varda Space puts off orbital factory reentry pending Air Force and FAA green light](https://techcrunch.com/2023/09/15/varda-space-puts-off-orbital-factory-reentry-pending-air-force-and-faa-green-light/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
