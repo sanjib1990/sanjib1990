@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The iPhone 15 gets USB-C, a redesigned Cybertruck surfaces and California considers banning AV trucks](https://techcrunch.com/2023/09/16/the-iphone-15-gets-usb-c-a-redesigned-cybertruck-surfaces-and-california-considers-banning-av-trucks/)
 - [The future of batteries needs more than venture capital](https://techcrunch.com/2023/09/16/future-of-batteries-vc/)
 - [Deal Dive: Elder tech is expanding beyond reactive solutions](https://techcrunch.com/2023/09/16/eldertech-bold-personalization/)
 - [Are we about to see a rare green comet light up the sky? An expert explains what to expect from Comet Nishimura](https://www.space.com/comet-nishimura-green-comet-expert-astronomer-explains)
 - [NASA confirms summer 2023 was Earth&#39;s hottest on record](https://www.space.com/nasa-2023-summer-hottest-on-record)
-- [SpaceX Starship engine passes key test for Artemis 3 moon-landing mission &lpar;video&rpar;](https://www.space.com/spacex-starship-raptor-engine-artemis-3-cold-moon-landing-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
