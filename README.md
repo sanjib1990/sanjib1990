@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany signs on to NASA&#39;s Artemis Accords for moon exploration](https://www.space.com/germany-signs-artemis-accords-moon-exploration)
 - [Kennedy Space Center post office closing after 58 years of postmarks](https://www.space.com/kennedy-space-center-post-office-closing)
 - [Stunning image of Andromeda galaxy takes top astronomy photography prize of 2023 &lpar;gallery&rpar;](https://www.space.com/royal-observatory-greenwich-astronomy-photographer-of-the-year-15-winners)
 - [Satellites watch as Hurricane Lee swirls towards Canada &lpar;video&rpar;](https://www.space.com/hurricane-lee-threatens-canada-photo)
 - [Varda Space puts off orbital factory reentry pending Air Force and FAA green light](https://techcrunch.com/2023/09/15/varda-space-puts-off-orbital-factory-reentry-pending-air-force-and-faa-green-light/)
-- [High-energy electrons in Earth&#39;s magnetic tail may form water on the moon](https://www.space.com/water-moon-electrons-earth-bombardment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
