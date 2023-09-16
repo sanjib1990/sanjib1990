@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stunning image of Andromeda galaxy takes top astronomy photography prize of 2023 &lpar;gallery&rpar;](https://www.space.com/royal-observatory-greenwich-astronomy-photographer-of-the-year-15-winners)
 - [Satellites watch as Hurricane Lee swirls towards Canada &lpar;video&rpar;](https://www.space.com/hurricane-lee-threatens-canada-photo)
 - [Varda Space puts off orbital factory reentry pending Air Force and FAA green light](https://techcrunch.com/2023/09/15/varda-space-puts-off-orbital-factory-reentry-pending-air-force-and-faa-green-light/)
 - [High-energy electrons in Earth&#39;s magnetic tail may form water on the moon](https://www.space.com/water-moon-electrons-earth-bombardment)
 - [Distant Neptune and Uranus make for excellent night sky sights this week. Here&#39;s how to see them](https://www.space.com/uranus-neptune-night-sky-how-to-se-september-2023)
-- [Russian Soyuz spacecraft carrying 3 spaceflyers arrives at ISS &lpar;video&rpar;](https://www.space.com/soyuz-ms-24-arrives-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
