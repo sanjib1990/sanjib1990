@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parker Solar Probe and Solar Orbiter team up to tackle 65-year-old sun mystery](https://www.space.com/parker-solar-probe-solar-orbiter-sun-mystery-65-years)
+- [&#39;Hubble Hugger&#39; space shuttle engine mounted on Artemis 2 moon rocket &lpar;photos&rpar;](https://www.space.com/hubble-space-telescope-artemis-2-moon-rocket-engine)
 - [The iPhone 15 gets USB-C, a redesigned Cybertruck surfaces and California considers banning AV trucks](https://techcrunch.com/2023/09/16/the-iphone-15-gets-usb-c-a-redesigned-cybertruck-surfaces-and-california-considers-banning-av-trucks/)
 - [The future of batteries needs more than venture capital](https://techcrunch.com/2023/09/16/future-of-batteries-vc/)
 - [Deal Dive: Elder tech is expanding beyond reactive solutions](https://techcrunch.com/2023/09/16/eldertech-bold-personalization/)
-- [Are we about to see a rare green comet light up the sky? An expert explains what to expect from Comet Nishimura](https://www.space.com/comet-nishimura-green-comet-expert-astronomer-explains)
-- [NASA confirms summer 2023 was Earth&#39;s hottest on record](https://www.space.com/nasa-2023-summer-hottest-on-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
