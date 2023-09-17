@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch+ picks: 9 books set around San Francisco](https://techcrunch.com/2023/09/17/9-books-set-around-san-francisco/)
+- [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
+- [Real estate tech companies continue to get hammered by high mortgage rates](https://techcrunch.com/2023/09/17/real-estate-tech-companies-continue-to-get-hammered-by-high-mortgage-rates/)
 - [When SpaceX&#39;s Starship is ready to settle Mars, will we be? &lpar;op-ed&rpar;](https://www.space.com/spacex-starship-ready-mars-humanity-ready)
 - [NASA hopes humanoid robots can help us explore the moon and Mars](https://www.space.com/nasa-apptronik-humanoid-space-robots-moon-mars)
-- [Parker Solar Probe and Solar Orbiter team up to tackle 65-year-old sun mystery](https://www.space.com/parker-solar-probe-solar-orbiter-sun-mystery-65-years)
-- [&#39;Hubble Hugger&#39; space shuttle engine mounted on Artemis 2 moon rocket &lpar;photos&rpar;](https://www.space.com/hubble-space-telescope-artemis-2-moon-rocket-engine)
-- [The iPhone 15 gets USB-C, a redesigned Cybertruck surfaces and California considers banning AV trucks](https://techcrunch.com/2023/09/16/the-iphone-15-gets-usb-c-a-redesigned-cybertruck-surfaces-and-california-considers-banning-av-trucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
