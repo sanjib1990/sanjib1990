@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When SpaceX&#39;s Starship is ready to settle Mars, will we be? &lpar;op-ed&rpar;](https://www.space.com/spacex-starship-ready-mars-humanity-ready)
 - [NASA hopes humanoid robots can help us explore the moon and Mars](https://www.space.com/nasa-apptronik-humanoid-space-robots-moon-mars)
 - [Parker Solar Probe and Solar Orbiter team up to tackle 65-year-old sun mystery](https://www.space.com/parker-solar-probe-solar-orbiter-sun-mystery-65-years)
 - [&#39;Hubble Hugger&#39; space shuttle engine mounted on Artemis 2 moon rocket &lpar;photos&rpar;](https://www.space.com/hubble-space-telescope-artemis-2-moon-rocket-engine)
 - [The iPhone 15 gets USB-C, a redesigned Cybertruck surfaces and California considers banning AV trucks](https://techcrunch.com/2023/09/16/the-iphone-15-gets-usb-c-a-redesigned-cybertruck-surfaces-and-california-considers-banning-av-trucks/)
-- [The future of batteries needs more than venture capital](https://techcrunch.com/2023/09/16/future-of-batteries-vc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
