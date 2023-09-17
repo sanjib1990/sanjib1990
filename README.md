@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Erik Buell on the future of electric motorcycles](https://techcrunch.com/2023/09/17/the-future-of-electric-motorcycles/)
 - [TechCrunch+ picks: 9 books set around San Francisco](https://techcrunch.com/2023/09/17/9-books-set-around-san-francisco/)
 - [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 - [Real estate tech companies continue to get hammered by high mortgage rates](https://techcrunch.com/2023/09/17/real-estate-tech-companies-continue-to-get-hammered-by-high-mortgage-rates/)
 - [When SpaceX&#39;s Starship is ready to settle Mars, will we be? &lpar;op-ed&rpar;](https://www.space.com/spacex-starship-ready-mars-humanity-ready)
-- [NASA hopes humanoid robots can help us explore the moon and Mars](https://www.space.com/nasa-apptronik-humanoid-space-robots-moon-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
