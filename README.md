@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An autoworkers strike trifecta and another speed bump for Cruise and Waymo](https://techcrunch.com/2023/09/17/an-autoworkers-strike-trifecta-and-another-speed-bump-for-cruise-and-waymo/)
 - [Erik Buell on the future of electric motorcycles](https://techcrunch.com/2023/09/17/the-future-of-electric-motorcycles/)
 - [TechCrunch+ picks: 9 books set around San Francisco](https://techcrunch.com/2023/09/17/9-books-set-around-san-francisco/)
 - [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 - [Real estate tech companies continue to get hammered by high mortgage rates](https://techcrunch.com/2023/09/17/real-estate-tech-companies-continue-to-get-hammered-by-high-mortgage-rates/)
-- [When SpaceX&#39;s Starship is ready to settle Mars, will we be? &lpar;op-ed&rpar;](https://www.space.com/spacex-starship-ready-mars-humanity-ready)
 <!-- BLOG-POST-LIST:END -->
 
 ---
