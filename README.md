@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter/X rival T2 rebrands as ‘Pebble,’ saying the old name was never meant to be permanent](https://techcrunch.com/2023/09/18/twitter-x-rival-t2-rebrands-as-pebble-saying-the-old-name-was-never-meant-to-be-permanent/)
-- [Microsoft AI researchers accidentally exposed terabytes of internal sensitive data](https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/)
-- [TrueMed’s payment integration platform unlocks HSA/FSA for health, not sickness](https://techcrunch.com/2023/09/18/truemed-payment-integration-hsa-fsa/)
-- [AirPods Pro get USB-C and a few new tricks](https://techcrunch.com/2023/09/18/airpods-pro-get-usb-c-and-a-few-new-tricks/)
-- [SpaceX inks 14-launch deal to loft Telesat&#39;s &#39;Lightspeed&#39; internet constellation](https://www.space.com/spacex-telesat-lightspeed-constellation-launch-deal)
+- [Lyft to pay $10M fine to SEC for failure to disclose board member’s role in pre-IPO share sale](https://techcrunch.com/2023/09/18/lyft-to-pay-10m-fine-to-sec-for-failure-to-disclose-pre-ipo-share-sale/)
+- [Blockchain Capital launches two new funds for a total of $580M](https://techcrunch.com/2023/09/18/blockchain-capital-launches-two-new-funds-for-a-total-of-580m/)
+- [Bird Buddy, the AI-powered bird feeder startup, now lets anyone use its app to birdwatch](https://techcrunch.com/2023/09/18/bird-buddy-the-ai-powered-bird-feeder-startup-now-lets-anyone-use-its-app-to-birdwatch/)
+- [Joby Aviation selects Dayton, Ohio for first scaled electric air taxi factory](https://techcrunch.com/2023/09/18/joby-aviation-selects-dayton-ohio-for-first-scaled-electric-air-taxi-factory/)
+- [Chief Product Officer Panos Panay is out at Microsoft](https://techcrunch.com/2023/09/18/chief-product-officer-panos-panay-is-out-at-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
