@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17 includes these new security and privacy features](https://techcrunch.com/2023/09/18/ios-17-includes-these-new-security-and-privacy-features/)
+- [How asteroid Bennu caught NASA&#39;s OSIRIS-REx spacecraft by surprise and nearly killed it along the way](https://www.space.com/asteroid-bennu-surprised-osiris-rex)
+- [Powerful observatories reveal 5 breathtaking corners of the universe hidden to human eyes &lpar;images&rpar;](https://www.space.com/nasa-space-telescope-images-chandra-spitzer-james-webb)
+- [Boxbot pivots from last-mile trucks to robotical parcel storage](https://techcrunch.com/2023/09/18/boxbot-pivots-for-last-mile-trucks-to-robotical-parcel-storage/)
 - [Procurement management platform Levelpath raises $30M](https://techcrunch.com/2023/09/18/procurement-management-platform-levelpath-raises-30m/)
-- [The loss of dark skies is so painful, astronomers coined a new term for it](https://www.space.com/light-pollution-loss-dark-skies-noctalgia)
-- [A squishy robot built for Mars is helping 1st responders on Earth in rescue operations](https://www.space.com/squishy-robot-moon-earth-mars-saving-lives-1st-responders)
-- [Dragos raises $74M to secure industrial control systems from threats](https://techcrunch.com/2023/09/18/dragos-raises-74m-to-secure-industrial-control-systems/)
-- [Roam unveils new EV bus model to tap Kenya’s mass transit sector](https://techcrunch.com/2023/09/18/roam-move-ev-bus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
