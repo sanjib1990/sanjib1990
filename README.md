@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The loss of dark skies is so painful, astronomers coined a new term for it](https://www.space.com/light-pollution-loss-dark-skies-noctalgia)
+- [A squishy robot built for Mars is helping 1st responders on Earth in rescue operations](https://www.space.com/squishy-robot-moon-earth-mars-saving-lives-1st-responders)
+- [Dragos raises $74M to secure industrial control systems from threats](https://techcrunch.com/2023/09/18/dragos-raises-74m-to-secure-industrial-control-systems/)
 - [Roam unveils new EV bus model to tap Kenya’s mass transit sector](https://techcrunch.com/2023/09/18/roam-move-ev-bus/)
 - [Prosus, Naspers CEO Bob van Dijk abruptly steps down](https://techcrunch.com/2023/09/17/prosus-naspers-ceo-bob-van-dijk-abruptly-steps-down/)
-- [An autoworkers strike trifecta and another speed bump for Cruise and Waymo](https://techcrunch.com/2023/09/17/an-autoworkers-strike-trifecta-and-another-speed-bump-for-cruise-and-waymo/)
-- [Erik Buell on the future of electric motorcycles](https://techcrunch.com/2023/09/17/the-future-of-electric-motorcycles/)
-- [TechCrunch+ picks: 9 books set around San Francisco](https://techcrunch.com/2023/09/17/9-books-set-around-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
