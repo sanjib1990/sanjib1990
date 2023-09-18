@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Questions every VC needs to ask about every AI startup’s tech stack](https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/)
+- [Mars Society proposes institute to develop tech needed for Red Planet settlement](https://www.space.com/mars-society-settlement-technology-institute)
+- [Writer nets $100M for its enterprise-focused generative AI platform](https://techcrunch.com/2023/09/18/writer-nets-100m-for-its-enterprise-focused-generative-ai-platform/)
 - [One of the FBI’s most wanted hackers is trolling the U.S. government](https://techcrunch.com/2023/09/18/fbi-most-wanted-hacker-trolling-the-u-s-government/)
 - [NASA seeks citizen scientists to capture April 2024 total solar eclipse](https://www.space.com/nasa-citizen-scientists-april-2024-total-solar-eclipse)
-- [UK police officers’ data stolen in cyberattack on ID supplier](https://techcrunch.com/2023/09/18/uk-police-officers-data-stolen-cyberattack-digital-id/)
-- [You can now FaceTime from your Apple TV 4K](https://techcrunch.com/2023/09/18/you-can-now-facetime-from-your-apple-tv-4k/)
-- [New drug shows potential to aid astronauts during future missions to moon and Mars](https://www.space.com/drug-iss-microgravity-astronauts-bone-loss-moon-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
