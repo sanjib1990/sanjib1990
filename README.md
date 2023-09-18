@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter/X rival T2 rebrands as ‘Pebble,’ saying the old name was never meant to be permanent](https://techcrunch.com/2023/09/18/twitter-x-rival-t2-rebrands-as-pebble-saying-the-old-name-was-never-meant-to-be-permanent/)
 - [Microsoft AI researchers accidentally exposed terabytes of internal sensitive data](https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/)
 - [TrueMed’s payment integration platform unlocks HSA/FSA for health, not sickness](https://techcrunch.com/2023/09/18/truemed-payment-integration-hsa-fsa/)
 - [AirPods Pro get USB-C and a few new tricks](https://techcrunch.com/2023/09/18/airpods-pro-get-usb-c-and-a-few-new-tricks/)
 - [SpaceX inks 14-launch deal to loft Telesat&#39;s &#39;Lightspeed&#39; internet constellation](https://www.space.com/spacex-telesat-lightspeed-constellation-launch-deal)
-- [TechCrunch Disrupt 2023 opens tomorrow!](https://techcrunch.com/2023/09/18/techcrunch-disrupt-2023-opens-tomorrow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
