@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With iOS 17, the iPhone feels like a mature platform](https://techcrunch.com/2023/09/18/with-ios-17-the-iphone-feels-like-a-mature-platform/)
-- [Apple’s iOS 17 is now available to download](https://techcrunch.com/2023/09/18/apples-ios-17-is-now-available-to-download/)
-- [Camo releases its Studio app for iPad with support for external gear](https://techcrunch.com/2023/09/18/camo-releases-its-studio-app-for-ipad-with-support-for-external-gear/)
-- [Watch Rocket Lab launch radar Earth-observation satellite early Sept. 19](https://www.space.com/rocket-lab-launch-we-will-never-desert-you)
-- [RoboFab is ready to build 10,000 humanoid robots per year](https://techcrunch.com/2023/09/18/the-robots-are-coming/)
+- [Venezuela may put an astronaut on a Chinese moon mission](https://www.space.com/venezuelan-astronaut-china-moon-mission)
+- [&#39;Star Wars&#39; fan favorite Lando Calrissian is getting his own movie on Disney+](https://www.space.com/star-wars-lando-calrissian-movie)
+- [Can the tech IPO market keep up its positive momentum?](https://techcrunch.com/2023/09/18/can-the-tech-ipo-market-keep-up-its-positive-momentum/)
+- [Instead of fine-tuning an LLM as a first approach, try prompt architecting instead](https://techcrunch.com/2023/09/18/instead-of-fine-tuning-an-llm-as-a-first-approach-try-prompt-architecting-instead/)
+- [Apple releases iPadOS 17 with interactive widget support and a redesigned lock screen](https://techcrunch.com/2023/09/18/apple-releases-ipados-17-with-interactive-widget-support-and-a-redesigned-lock-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
