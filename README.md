@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Venezuela may put an astronaut on a Chinese moon mission](https://www.space.com/venezuelan-astronaut-china-moon-mission)
-- [&#39;Star Wars&#39; fan favorite Lando Calrissian is getting his own movie on Disney+](https://www.space.com/star-wars-lando-calrissian-movie)
-- [Can the tech IPO market keep up its positive momentum?](https://techcrunch.com/2023/09/18/can-the-tech-ipo-market-keep-up-its-positive-momentum/)
-- [Instead of fine-tuning an LLM as a first approach, try prompt architecting instead](https://techcrunch.com/2023/09/18/instead-of-fine-tuning-an-llm-as-a-first-approach-try-prompt-architecting-instead/)
-- [Apple releases iPadOS 17 with interactive widget support and a redesigned lock screen](https://techcrunch.com/2023/09/18/apple-releases-ipados-17-with-interactive-widget-support-and-a-redesigned-lock-screen/)
+- [One of the FBI’s most wanted hackers is trolling the U.S. government](https://techcrunch.com/2023/09/18/fbi-most-wanted-hacker-trolling-the-u-s-government/)
+- [NASA seeks citizen scientists to capture April 2024 total solar eclipse](https://www.space.com/nasa-citizen-scientists-april-2024-total-solar-eclipse)
+- [UK police officers’ data stolen in cyberattack on ID supplier](https://techcrunch.com/2023/09/18/uk-police-officers-data-stolen-cyberattack-digital-id/)
+- [You can now FaceTime from your Apple TV 4K](https://techcrunch.com/2023/09/18/you-can-now-facetime-from-your-apple-tv-4k/)
+- [New drug shows potential to aid astronauts during future missions to moon and Mars](https://www.space.com/drug-iss-microgravity-astronauts-bone-loss-moon-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
