@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Firefly conquered the night](https://techcrunch.com/2023/09/18/max-q-firefly-conquered-the-night/)
+- [Heart of the &#39;Squid Galaxy&#39; reveals how supermassive black holes dictate galactic chemistry](https://www.space.com/squid-galaxy-supermassive-black-hole-galactic-chemistry)
+- [Very Large Telescope surprisingly finds exoplanet lurking in 3-body star system](https://www.space.com/giant-exoplanet-in-multi-star-system-3-body)
+- [Elon Musk says X will charge users ‘a small monthly payment’ to use its service](https://techcrunch.com/2023/09/18/elon-musk-says-x-will-charge-users-a-small-monthly-payment-to-use-its-service/)
 - [The EV SPACs are running out of juice](https://techcrunch.com/2023/09/18/ev-spacs-bleak-outlook/)
-- [R2-D2 and Chopper return in &#39;Star Wars: Dark Droids: D-Squad #1&#39;](https://www.space.com/star-wars-dark-droids-d-squad-1)
-- [Not all companies need to be venture-scale](https://techcrunch.com/2023/09/18/not-all-companies-need-to-be-venture-scale/)
-- [Unity reportedly backtracking on new fees after developers revolt](https://techcrunch.com/2023/09/18/unity-reportedly-backtracking-on-new-fees-after-developers-revolt/)
-- [Questions every VC needs to ask about every AI startup’s tech stack](https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
