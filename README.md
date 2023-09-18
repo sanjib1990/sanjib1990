@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The EV SPACs are running out of juice](https://techcrunch.com/2023/09/18/ev-spacs-bleak-outlook/)
+- [R2-D2 and Chopper return in &#39;Star Wars: Dark Droids: D-Squad #1&#39;](https://www.space.com/star-wars-dark-droids-d-squad-1)
+- [Not all companies need to be venture-scale](https://techcrunch.com/2023/09/18/not-all-companies-need-to-be-venture-scale/)
+- [Unity reportedly backtracking on new fees after developers revolt](https://techcrunch.com/2023/09/18/unity-reportedly-backtracking-on-new-fees-after-developers-revolt/)
 - [Questions every VC needs to ask about every AI startup’s tech stack](https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/)
-- [Mars Society proposes institute to develop tech needed for Red Planet settlement](https://www.space.com/mars-society-settlement-technology-institute)
-- [Writer nets $100M for its enterprise-focused generative AI platform](https://techcrunch.com/2023/09/18/writer-nets-100m-for-its-enterprise-focused-generative-ai-platform/)
-- [One of the FBI’s most wanted hackers is trolling the U.S. government](https://techcrunch.com/2023/09/18/fbi-most-wanted-hacker-trolling-the-u-s-government/)
-- [NASA seeks citizen scientists to capture April 2024 total solar eclipse](https://www.space.com/nasa-citizen-scientists-april-2024-total-solar-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
