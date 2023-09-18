@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS 17 includes these new security and privacy features](https://techcrunch.com/2023/09/18/ios-17-includes-these-new-security-and-privacy-features/)
-- [How asteroid Bennu caught NASA&#39;s OSIRIS-REx spacecraft by surprise and nearly killed it along the way](https://www.space.com/asteroid-bennu-surprised-osiris-rex)
-- [Powerful observatories reveal 5 breathtaking corners of the universe hidden to human eyes &lpar;images&rpar;](https://www.space.com/nasa-space-telescope-images-chandra-spitzer-james-webb)
-- [Boxbot pivots from last-mile trucks to robotical parcel storage](https://techcrunch.com/2023/09/18/boxbot-pivots-for-last-mile-trucks-to-robotical-parcel-storage/)
-- [Procurement management platform Levelpath raises $30M](https://techcrunch.com/2023/09/18/procurement-management-platform-levelpath-raises-30m/)
+- [Microsoft AI researchers accidentally exposed terabytes of internal sensitive data](https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/)
+- [TrueMed’s payment integration platform unlocks HSA/FSA for health, not sickness](https://techcrunch.com/2023/09/18/truemed-payment-integration-hsa-fsa/)
+- [AirPods Pro get USB-C and a few new tricks](https://techcrunch.com/2023/09/18/airpods-pro-get-usb-c-and-a-few-new-tricks/)
+- [SpaceX inks 14-launch deal to loft Telesat&#39;s &#39;Lightspeed&#39; internet constellation](https://www.space.com/spacex-telesat-lightspeed-constellation-launch-deal)
+- [TechCrunch Disrupt 2023 opens tomorrow!](https://techcrunch.com/2023/09/18/techcrunch-disrupt-2023-opens-tomorrow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
