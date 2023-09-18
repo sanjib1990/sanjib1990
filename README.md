@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [TETRA Vulnerability &lpar;TETRA:BURST&rpar; - Computerphile](https://www.youtube.com/watch?v=Fy3Odm-dny0)
-- [Hacking the world’s most popular database](https://www.youtube.com/watch?v=qHe4mlhuNt4)
-- [Tails OS in 100 Seconds](https://www.youtube.com/watch?v=mVKAyw0xqxw)
-- [Bun is disrupting JavaScript land](https://www.youtube.com/watch?v=dWqNgzZwVJQ)
-- [Big projects are ditching TypeScript… why?](https://www.youtube.com/watch?v=5ChkQKUzDCs)
+- [13. The Battle of the Sexes: Love and Evolution &lpar;audio only&rpar;](https://www.youtube.com/watch?v=LzGIpm5UFCg)
+- [23. Successful Disasters: Date Rape &lpar;audio only&rpar;](https://www.youtube.com/watch?v=oM5OgMz4g_M)
+- [12. Intelligence: How Do We Know You Are Smart? &lpar;audio only&rpar;](https://www.youtube.com/watch?v=3LXkRwfXIYA)
+- [18. Freud and Fairy Tales &lpar;audio only&rpar;](https://www.youtube.com/watch?v=5UwvH2b1j2E)
+- [5. Attending: Limiting the Information &lpar;audio only&rpar;](https://www.youtube.com/watch?v=jnU15SkboCA)
 <!-- YOUTUBE:END -->
 
 ---
