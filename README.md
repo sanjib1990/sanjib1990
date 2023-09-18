@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Carrot Weather for iOS 17 introduces a voice impersonation feature and more](https://techcrunch.com/2023/09/18/carrot-weather-for-ios-17-introduces-a-voice-impersonation-feature-and-more/)
+- [NASA&#39;s new greenhouse gas detector will help track down &#39;super-emitters&#39; from space](https://www.space.com/greenhouse-gas-detector-nasa-tanager-spectrometer-methane)
+- [UK’s competition watchdog drafts principles for ‘responsible’ generative AI](https://techcrunch.com/2023/09/18/cma-foundation-ai-review/)
+- [&#39;A Million Miles Away&#39; director and astronaut José Hernández reveal cameo in new film from Amazon](https://www.space.com/a-million-miles-away-jose-hernandez-interview)
 - [Lyft to pay $10M fine to SEC for failure to disclose board member’s role in pre-IPO share sale](https://techcrunch.com/2023/09/18/lyft-to-pay-10m-fine-to-sec-for-failure-to-disclose-pre-ipo-share-sale/)
-- [Blockchain Capital launches two new funds for a total of $580M](https://techcrunch.com/2023/09/18/blockchain-capital-launches-two-new-funds-for-a-total-of-580m/)
-- [Bird Buddy, the AI-powered bird feeder startup, now lets anyone use its app to birdwatch](https://techcrunch.com/2023/09/18/bird-buddy-the-ai-powered-bird-feeder-startup-now-lets-anyone-use-its-app-to-birdwatch/)
-- [Joby Aviation selects Dayton, Ohio for first scaled electric air taxi factory](https://techcrunch.com/2023/09/18/joby-aviation-selects-dayton-ohio-for-first-scaled-electric-air-taxi-factory/)
-- [Chief Product Officer Panos Panay is out at Microsoft](https://techcrunch.com/2023/09/18/chief-product-officer-panos-panay-is-out-at-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
