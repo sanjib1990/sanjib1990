@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Carrot Weather for iOS 17 introduces a voice impersonation feature and more](https://techcrunch.com/2023/09/18/carrot-weather-for-ios-17-introduces-a-voice-impersonation-feature-and-more/)
-- [NASA&#39;s new greenhouse gas detector will help track down &#39;super-emitters&#39; from space](https://www.space.com/greenhouse-gas-detector-nasa-tanager-spectrometer-methane)
-- [UK’s competition watchdog drafts principles for ‘responsible’ generative AI](https://techcrunch.com/2023/09/18/cma-foundation-ai-review/)
-- [&#39;A Million Miles Away&#39; director and astronaut José Hernández reveal cameo in new film from Amazon](https://www.space.com/a-million-miles-away-jose-hernandez-interview)
-- [Lyft to pay $10M fine to SEC for failure to disclose board member’s role in pre-IPO share sale](https://techcrunch.com/2023/09/18/lyft-to-pay-10m-fine-to-sec-for-failure-to-disclose-pre-ipo-share-sale/)
+- [With iOS 17, the iPhone feels like a mature platform](https://techcrunch.com/2023/09/18/with-ios-17-the-iphone-feels-like-a-mature-platform/)
+- [Apple’s iOS 17 is now available to download](https://techcrunch.com/2023/09/18/apples-ios-17-is-now-available-to-download/)
+- [Camo releases its Studio app for iPad with support for external gear](https://techcrunch.com/2023/09/18/camo-releases-its-studio-app-for-ipad-with-support-for-external-gear/)
+- [Watch Rocket Lab launch radar Earth-observation satellite early Sept. 19](https://www.space.com/rocket-lab-launch-we-will-never-desert-you)
+- [RoboFab is ready to build 10,000 humanoid robots per year](https://techcrunch.com/2023/09/18/the-robots-are-coming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
