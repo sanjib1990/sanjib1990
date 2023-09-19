@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European carbon accounting startup Plan A raises $27M from VC and corporate heavyweights](https://techcrunch.com/2023/09/19/plan-a-carbon-accounting/)
+- [Catch+Release launches an AI-powered search for user-generated content](https://techcrunch.com/2023/09/18/catchrelease-launches-an-ai-powered-search-for-user-generated-content/)
 - [Material wealth: Scrap metal trading marketplace Metaloop raises $17M](https://techcrunch.com/2023/09/18/scrap-metal-trading-marketplace-metaloop-raises-17m/)
 - [European cyber insurance startup Stoïk raises $10.7 million and expands to Germany](https://techcrunch.com/2023/09/18/european-cyber-insurance-startup-stoik-raises-107-million-and-expands-to-germany/)
 - [What the continued UAW strike means for EVs](https://techcrunch.com/2023/09/18/what-the-continued-uaw-strike-means-for-evs/)
-- [Max Q: Firefly conquered the night](https://techcrunch.com/2023/09/18/max-q-firefly-conquered-the-night/)
-- [Heart of the &#39;Squid Galaxy&#39; reveals how supermassive black holes dictate galactic chemistry](https://www.space.com/squid-galaxy-supermassive-black-hole-galactic-chemistry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
