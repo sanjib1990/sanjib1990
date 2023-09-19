@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Ingenuity helicopter breaks altitude record on 59th Mars flight](https://www.space.com/mars-helicopter-ingenuity-flight-59-altitude-record)
+- [Volvo will make its last diesel car in 2024](https://techcrunch.com/2023/09/19/volvo-will-make-its-last-diesel-car-in-2024/)
+- [Redwood Materials acquires European battery recycler in expansion push](https://techcrunch.com/2023/09/19/redwood-materials-acquires-european-battery-recycler-in-expansion-push/)
+- [World&#39;s 1st mountaintop impact crater discovered in northeastern China](https://www.space.com/earths-1st-mountaintop-impact-crater-discovered-northeastern-china)
 - [Fitbit overhauls its app with visual refresh and simplified user experience](https://techcrunch.com/2023/09/19/the-new-fitbit-app-is-now-available/)
-- [Instacart’s IPO storms out the gate, showing that unicorns can, in fact, go public and survive](https://techcrunch.com/2023/09/19/instacarts-ipo-storms-out-the-gate-showing-that-unicorns-can-in-fact-go-public-and-survive/)
-- [VSCO gains former Figma COO Eric Wittman as its new CEO](https://techcrunch.com/2023/09/19/vsco-gains-former-figma-coo-eric-wittman-as-its-new-ceo/)
-- [Electrified Thermal Solutions’ e-bricks could be key to decarbonizing heavy industry](https://techcrunch.com/2023/09/19/electrified-thermal-solutions-startup-battlefield/)
-- [After cutting ties with Binance, Checkout.com says crypto companies are about 4% of its total processing volume](https://techcrunch.com/2023/09/19/after-cutting-ties-with-binance-checkout-com-says-crypto-companies-are-about-4-of-its-total-processing-volume/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
