@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Magnestar wants to solve the satellite signal interference problem for the entire space industry](https://techcrunch.com/2023/09/19/magnestar-wants-to-solve-the-satellite-signal-interference-problem-for-the-entire-space-industry/)
 - [Phalanx protects company data by automatically securing and tracking sensitive documents](https://techcrunch.com/2023/09/19/phalanx-protects-company-data-by-automatically-securing-and-tracking-sensitive-documents/)
+- [NASA&#39;s Curiosity Mars rover reaches perilous ridge on Red Planet after 3 failed attempts](https://www.space.com/nasa-curiosity-rover-mars-gediz-vallis-ridge)
 - [Nolej’s AI-generated classroom tools are a force multiplier for educators](https://techcrunch.com/2023/09/19/nolejs-ai-generated-classroom-tools-are-a-force-multiplier-for-educators/)
 - [OSIRIS-REx asteroid probe makes final maneuver before Sept. 24 sample delivery](https://www.space.com/osiris-rex-final-course-correction-asteroid-sample-delivery)
-- [DOJ investigates Elon Musk perks at Tesla](https://techcrunch.com/2023/09/19/doj-investigates-elon-musk-perks-at-tesla/)
-- [Beyond Aero is building a hydrogen-powered jet](https://techcrunch.com/2023/09/19/beyond-aero-is-building-a-hydrogen-powered-jet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
