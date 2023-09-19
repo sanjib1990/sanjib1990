@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Darrow gets served $35M for an AI that parses public documents for class action lawsuit potential](https://techcrunch.com/2023/09/19/darrow-legal-tech/)
+- [MigRun wants to simplify the process of immigrating to a new country](https://techcrunch.com/2023/09/19/migrun-wants-to-simplify-the-process-of-immigrating-to-a-new-country/)
 - [How much asteroid material is NASA&#39;s OSIRIS-REx probe delivering to Earth this weekend?](https://www.space.com/osiris-rex-asteroid-sample-how-much)
 - [What if OSIRIS-REx&#39;s asteroid-sample capsule crashes this weekend?](https://www.space.com/nasa-osiris-rex-spacecraft-asteroid-sample-crash-backup-scenario)
 - [Outschool launches an AI-powered tool to help teachers write progress reports](https://techcrunch.com/2023/09/19/outschool-launches-an-ai-powered-tool-to-help-teachers-write-progress-reports/)
-- [Google’s Bard chatbot can now tap into your Google apps, double check answers and more](https://techcrunch.com/2023/09/19/googles-bard-chatbot-can-now-tap-into-your-google-apps-double-check-answers-and-more/)
-- [Babbel acquires language learning browser extension Toucan](https://techcrunch.com/2023/09/19/babbel-acquires-language-learning-browser-extension-toucan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
