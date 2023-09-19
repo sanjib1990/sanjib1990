@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unite for Mac releases a new version to turn website into web apps](https://techcrunch.com/2023/09/19/unite-for-mac-releases-a-new-version-to-turn-website-into-web-apps/)
-- [8 web3 gaming experts discuss hurdles and opportunities in the road to wider adoption](https://techcrunch.com/2023/09/19/web3-gaming-investor-survey/)
-- [Rocket Lab’s Electron suffers first failure in over two years](https://techcrunch.com/2023/09/19/rocket-labs-electron-suffers-first-failure-in-over-two-years/)
-- [Amazon’s new Just Walk Out cashierless checkout system uses RFID tags to track apparel purchases](https://techcrunch.com/2023/09/19/amazons-new-just-walk-out-cashierless-checkout-system-uses-rfid-tags-to-track-apparel-purchases/)
-- [A year into private ownership, SailPoint cracks the $600M ARR threshold](https://techcrunch.com/2023/09/19/sailpoint-600m-arr/)
+- [NASA launches Spanish-language podcast &#39;Universo Curioso&#39; for Hispanic Heritage Month](https://www.space.com/nasa-spanish-language-podcast-universo-curioso-1st-season)
+- [Introducing the 2023 Startup Battlefield Top 20 onstage at TechCrunch Disrupt](https://techcrunch.com/2023/09/19/techcrunch-startup-battlefield-pitches-disrupt-founder/)
+- [6 surveys that will get you prepped for Disrupt](https://techcrunch.com/2023/09/19/survey-primer-disrupt-sessions/)
+- [Google wants to map more of the world’s roads with expansion of ‘Road Mapper’ volunteer community](https://techcrunch.com/2023/09/19/google-wants-to-map-more-of-the-worlds-roads-with-expansion-of-road-mapper-volunteer-community/)
+- [News aggregator app SmartNews’ latest feature aims to tackle doomscrolling](https://techcrunch.com/2023/09/19/news-aggregator-app-smartnews-latest-feature-aims-to-tackle-doomscrolling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
