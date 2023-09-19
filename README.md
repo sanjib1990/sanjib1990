@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Darrow gets served $35M for an AI that parses public documents for class action lawsuit potential](https://techcrunch.com/2023/09/19/darrow-legal-tech/)
-- [MigRun wants to simplify the process of immigrating to a new country](https://techcrunch.com/2023/09/19/migrun-wants-to-simplify-the-process-of-immigrating-to-a-new-country/)
-- [How much asteroid material is NASA&#39;s OSIRIS-REx probe delivering to Earth this weekend?](https://www.space.com/osiris-rex-asteroid-sample-how-much)
-- [What if OSIRIS-REx&#39;s asteroid-sample capsule crashes this weekend?](https://www.space.com/nasa-osiris-rex-spacecraft-asteroid-sample-crash-backup-scenario)
-- [Outschool launches an AI-powered tool to help teachers write progress reports](https://techcrunch.com/2023/09/19/outschool-launches-an-ai-powered-tool-to-help-teachers-write-progress-reports/)
+- [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
+- [Pryon raises $100M to index and analyze enterprise data](https://techcrunch.com/2023/09/19/pryon-raises-100m-to-index-and-analyze-enterprise-data/)
+- [Remote launches new HR platform for companies with a “global-first” approach](https://techcrunch.com/2023/09/19/remote-global/)
+- [HiddenLayer raises $50M for its AI-defending cybersecurity tools](https://techcrunch.com/2023/09/19/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/)
+- [Alcion, which provides backup and security services to enterprises, raises $21M](https://techcrunch.com/2023/09/19/alcion-which-provides-backup-and-security-services-to-enterprises-raises-21m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
