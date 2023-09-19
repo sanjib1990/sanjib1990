@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Material wealth: Scrap metal trading marketplace Metaloop raises $17M](https://techcrunch.com/2023/09/18/scrap-metal-trading-marketplace-metaloop-raises-17m/)
 - [European cyber insurance startup Stoïk raises $10.7 million and expands to Germany](https://techcrunch.com/2023/09/18/european-cyber-insurance-startup-stoik-raises-107-million-and-expands-to-germany/)
 - [What the continued UAW strike means for EVs](https://techcrunch.com/2023/09/18/what-the-continued-uaw-strike-means-for-evs/)
 - [Max Q: Firefly conquered the night](https://techcrunch.com/2023/09/18/max-q-firefly-conquered-the-night/)
 - [Heart of the &#39;Squid Galaxy&#39; reveals how supermassive black holes dictate galactic chemistry](https://www.space.com/squid-galaxy-supermassive-black-hole-galactic-chemistry)
-- [Very Large Telescope surprisingly finds exoplanet lurking in 3-body star system](https://www.space.com/giant-exoplanet-in-multi-star-system-3-body)
 <!-- BLOG-POST-LIST:END -->
 
 ---
