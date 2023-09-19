@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Polaris Spaceplanes wraps up MIRA-Light prototype flight tests](https://www.space.com/polaris-spaceplanes-mira-light-flight-test-campaign-complete)
-- [NASA launches Spanish-language podcast &#39;Universo Curioso&#39; for Hispanic Heritage Month](https://www.space.com/nasa-spanish-language-podcast-universo-curioso-1st-season)
-- [Introducing the 2023 Startup Battlefield Top 20 onstage at TechCrunch Disrupt](https://techcrunch.com/2023/09/19/techcrunch-startup-battlefield-pitches-disrupt-founder/)
-- [6 surveys that will get you prepped for Disrupt](https://techcrunch.com/2023/09/19/survey-primer-disrupt-sessions/)
-- [Google wants to map more of the world’s roads with expansion of ‘Road Mapper’ volunteer community](https://techcrunch.com/2023/09/19/google-wants-to-map-more-of-the-worlds-roads-with-expansion-of-road-mapper-volunteer-community/)
+- [Monoclonal antibody treatments have many challenges — Narval is fixing them](https://techcrunch.com/2023/09/19/narval-monoclonal-antibody-treatments/)
+- [The complete series of &#39;Babylon 5&#39; will be available on Blu-ray in December](https://www.space.com/babylon-5-coming-to-blu-ray-december-2023)
+- [In Diagnostics launches a $30 test that aims to tell you if your liver is working](https://techcrunch.com/2023/09/19/in-diagnostics-product-launch/)
+- [Amazon brings e-commerce to Prime Video with a merch shop, starting with ‘Gen V’](https://techcrunch.com/2023/09/19/amazon-brings-e-commerce-to-prime-video-with-a-merch-shop-starting-with-gen-v/)
+- [Startup Tezza takes on VSCO with easy-to-use photo and video editing tools](https://techcrunch.com/2023/09/19/startup-tezza-takes-on-vsco-with-easy-to-use-photo-and-video-editing-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
