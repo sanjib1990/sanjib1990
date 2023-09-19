@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Monoclonal antibody treatments have many challenges — Narval is fixing them](https://techcrunch.com/2023/09/19/narval-monoclonal-antibody-treatments/)
-- [The complete series of &#39;Babylon 5&#39; will be available on Blu-ray in December](https://www.space.com/babylon-5-coming-to-blu-ray-december-2023)
-- [In Diagnostics launches a $30 test that aims to tell you if your liver is working](https://techcrunch.com/2023/09/19/in-diagnostics-product-launch/)
-- [Amazon brings e-commerce to Prime Video with a merch shop, starting with ‘Gen V’](https://techcrunch.com/2023/09/19/amazon-brings-e-commerce-to-prime-video-with-a-merch-shop-starting-with-gen-v/)
-- [Startup Tezza takes on VSCO with easy-to-use photo and video editing tools](https://techcrunch.com/2023/09/19/startup-tezza-takes-on-vsco-with-easy-to-use-photo-and-video-editing-tools/)
+- [Fitbit overhauls its app with visual refresh and simplified user experience](https://techcrunch.com/2023/09/19/the-new-fitbit-app-is-now-available/)
+- [Instacart’s IPO storms out the gate, showing that unicorns can, in fact, go public and survive](https://techcrunch.com/2023/09/19/instacarts-ipo-storms-out-the-gate-showing-that-unicorns-can-in-fact-go-public-and-survive/)
+- [VSCO gains former Figma COO Eric Wittman as its new CEO](https://techcrunch.com/2023/09/19/vsco-gains-former-figma-coo-eric-wittman-as-its-new-ceo/)
+- [Electrified Thermal Solutions’ e-bricks could be key to decarbonizing heavy industry](https://techcrunch.com/2023/09/19/electrified-thermal-solutions-startup-battlefield/)
+- [After cutting ties with Binance, Checkout.com says crypto companies are about 4% of its total processing volume](https://techcrunch.com/2023/09/19/after-cutting-ties-with-binance-checkout-com-says-crypto-companies-are-about-4-of-its-total-processing-volume/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
