@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SVB’s commercial banking president: ‘Come on back, the water’s fine’](https://techcrunch.com/2023/09/19/svb-fintech/)
-- [China&#39;s new wide-field survey telescope scopes out Andromeda galaxy](https://www.space.com/china-wide-field-survey-andromeda-galaxy)
-- [SpaceX rocket poised to launch on record-breaking 17th flight tonight](https://www.space.com/spacex-starlink-falcon-9-record-17th-launch)
-- [Allie wants to layer intelligence on top of factory floors](https://techcrunch.com/2023/09/19/allie-wants-to-layer-intelligence-on-top-of-factory-floors/)
-- [Bird acquires Spin scooters from Tier for $19M](https://techcrunch.com/2023/09/19/bird-acquires-spin-scooters-from-tier-for-19m/)
+- [Phalanx protects company data by automatically securing and tracking sensitive documents](https://techcrunch.com/2023/09/19/phalanx-protects-company-data-by-automatically-securing-and-tracking-sensitive-documents/)
+- [Nolej’s AI-generated classroom tools are a force multiplier for educators](https://techcrunch.com/2023/09/19/nolejs-ai-generated-classroom-tools-are-a-force-multiplier-for-educators/)
+- [OSIRIS-REx asteroid probe makes final maneuver before Sept. 24 sample delivery](https://www.space.com/osiris-rex-final-course-correction-asteroid-sample-delivery)
+- [DOJ investigates Elon Musk perks at Tesla](https://techcrunch.com/2023/09/19/doj-investigates-elon-musk-perks-at-tesla/)
+- [Beyond Aero is building a hydrogen-powered jet](https://techcrunch.com/2023/09/19/beyond-aero-is-building-a-hydrogen-powered-jet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
