@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ZayZoon, which lends employees money for a fee, raises $34.5M](https://techcrunch.com/2023/09/19/zayzoon-which-lends-employees-money-for-a-fee-raises-34-5m/)
-- [How deep tech founders can secure early-stage fundraising in a downturn](https://techcrunch.com/2023/09/19/tips-for-deep-tech-founders-fundraising-in-a-downturn/)
-- [iPhone 15 Pro Max review](https://techcrunch.com/2023/09/19/iphone-15-pro-max-review/)
-- [Here’s what’s happening on day one of TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/19/heres-whats-happening-on-day-one-of-techcrunch-disrupt-2023/)
-- [TRI is developing a new method to teach robots overnight](https://techcrunch.com/2023/09/19/2601313/)
+- [Unite for Mac releases a new version to turn website into web apps](https://techcrunch.com/2023/09/19/unite-for-mac-releases-a-new-version-to-turn-website-into-web-apps/)
+- [8 web3 gaming experts discuss hurdles and opportunities in the road to wider adoption](https://techcrunch.com/2023/09/19/web3-gaming-investor-survey/)
+- [Rocket Lab’s Electron suffers first failure in over two years](https://techcrunch.com/2023/09/19/rocket-labs-electron-suffers-first-failure-in-over-two-years/)
+- [Amazon’s new Just Walk Out cashierless checkout system uses RFID tags to track apparel purchases](https://techcrunch.com/2023/09/19/amazons-new-just-walk-out-cashierless-checkout-system-uses-rfid-tags-to-track-apparel-purchases/)
+- [A year into private ownership, SailPoint cracks the $600M ARR threshold](https://techcrunch.com/2023/09/19/sailpoint-600m-arr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
