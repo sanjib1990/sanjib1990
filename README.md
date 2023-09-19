@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC says visa challenges hampering participation of international founders](https://techcrunch.com/2023/09/19/yc-says-visa-challenges-hampering-participation-of-international-founders/)
+- [IFC leads $5M extension round in Ivorian SaaS e-commerce platform ANKA](https://techcrunch.com/2023/09/19/ifc-leads-5m-extension-round-in-ivorian-saas-e-commerce-platform-anka/)
 - [Rocket Lab suffers anomaly during launch of Earth-observation satellite](https://www.space.com/rocket-lab-electron-launch-failure-september-2023)
 - [European carbon accounting startup Plan A raises $27M from VC and corporate heavyweights](https://techcrunch.com/2023/09/19/plan-a-carbon-accounting/)
 - [Catch+Release launches an AI-powered search for user-generated content](https://techcrunch.com/2023/09/18/catchrelease-launches-an-ai-powered-search-for-user-generated-content/)
-- [Material wealth: Scrap metal trading marketplace Metaloop raises $17M](https://techcrunch.com/2023/09/18/scrap-metal-trading-marketplace-metaloop-raises-17m/)
-- [European cyber insurance startup Stoïk raises $10.7 million and expands to Germany](https://techcrunch.com/2023/09/18/european-cyber-insurance-startup-stoik-raises-107-million-and-expands-to-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
