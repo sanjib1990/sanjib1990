@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rick Fox on not running from challenges – on court or on climate](https://techcrunch.com/2023/09/19/rick-fox-on-not-running-from-challenges-on-court-or-on-climate/)
+- [Robinhood CEO on the company’s evolution: ‘We’ve made a lot of progress’](https://techcrunch.com/2023/09/19/robinhood-ceo-on-the-companys-evolution-weve-made-a-lot-of-progress/)
+- [Shaquille O’Neal talks investing in edtech and projects that are going to ‘change people’s lives’](https://techcrunch.com/2023/09/19/shaquille-oneal-investing-edtech-and-things-that-are-going-to-change-peoples-lives/)
+- [a16z’s Arianna Simpson believes crypto will be just fine, thank you for asking](https://techcrunch.com/2023/09/19/a16zs-arianna-simpson-believes-crypto-will-be-just-fine-thank-you-for-asking/)
 - [Magnestar wants to solve the satellite signal interference problem for the entire space industry](https://techcrunch.com/2023/09/19/magnestar-wants-to-solve-the-satellite-signal-interference-problem-for-the-entire-space-industry/)
-- [Phalanx protects company data by automatically securing and tracking sensitive documents](https://techcrunch.com/2023/09/19/phalanx-protects-company-data-by-automatically-securing-and-tracking-sensitive-documents/)
-- [NASA&#39;s Curiosity Mars rover reaches perilous ridge on Red Planet after 3 failed attempts](https://www.space.com/nasa-curiosity-rover-mars-gediz-vallis-ridge)
-- [Nolej’s AI-generated classroom tools are a force multiplier for educators](https://techcrunch.com/2023/09/19/nolejs-ai-generated-classroom-tools-are-a-force-multiplier-for-educators/)
-- [OSIRIS-REx asteroid probe makes final maneuver before Sept. 24 sample delivery](https://www.space.com/osiris-rex-final-course-correction-asteroid-sample-delivery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
