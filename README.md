@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Ingenuity helicopter breaks altitude record on 59th Mars flight](https://www.space.com/mars-helicopter-ingenuity-flight-59-altitude-record)
-- [Volvo will make its last diesel car in 2024](https://techcrunch.com/2023/09/19/volvo-will-make-its-last-diesel-car-in-2024/)
-- [Redwood Materials acquires European battery recycler in expansion push](https://techcrunch.com/2023/09/19/redwood-materials-acquires-european-battery-recycler-in-expansion-push/)
-- [World&#39;s 1st mountaintop impact crater discovered in northeastern China](https://www.space.com/earths-1st-mountaintop-impact-crater-discovered-northeastern-china)
-- [Fitbit overhauls its app with visual refresh and simplified user experience](https://techcrunch.com/2023/09/19/the-new-fitbit-app-is-now-available/)
+- [SVB’s commercial banking president: ‘Come on back, the water’s fine’](https://techcrunch.com/2023/09/19/svb-fintech/)
+- [China&#39;s new wide-field survey telescope scopes out Andromeda galaxy](https://www.space.com/china-wide-field-survey-andromeda-galaxy)
+- [SpaceX rocket poised to launch on record-breaking 17th flight tonight](https://www.space.com/spacex-starlink-falcon-9-record-17th-launch)
+- [Allie wants to layer intelligence on top of factory floors](https://techcrunch.com/2023/09/19/allie-wants-to-layer-intelligence-on-top-of-factory-floors/)
+- [Bird acquires Spin scooters from Tier for $19M](https://techcrunch.com/2023/09/19/bird-acquires-spin-scooters-from-tier-for-19m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
