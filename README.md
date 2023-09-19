@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Polaris Spaceplanes wraps up MIRA-Light prototype flight tests](https://www.space.com/polaris-spaceplanes-mira-light-flight-test-campaign-complete)
 - [NASA launches Spanish-language podcast &#39;Universo Curioso&#39; for Hispanic Heritage Month](https://www.space.com/nasa-spanish-language-podcast-universo-curioso-1st-season)
 - [Introducing the 2023 Startup Battlefield Top 20 onstage at TechCrunch Disrupt](https://techcrunch.com/2023/09/19/techcrunch-startup-battlefield-pitches-disrupt-founder/)
 - [6 surveys that will get you prepped for Disrupt](https://techcrunch.com/2023/09/19/survey-primer-disrupt-sessions/)
 - [Google wants to map more of the world’s roads with expansion of ‘Road Mapper’ volunteer community](https://techcrunch.com/2023/09/19/google-wants-to-map-more-of-the-worlds-roads-with-expansion-of-road-mapper-volunteer-community/)
-- [News aggregator app SmartNews’ latest feature aims to tackle doomscrolling](https://techcrunch.com/2023/09/19/news-aggregator-app-smartnews-latest-feature-aims-to-tackle-doomscrolling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
