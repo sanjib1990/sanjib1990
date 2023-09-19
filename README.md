@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
-- [Pryon raises $100M to index and analyze enterprise data](https://techcrunch.com/2023/09/19/pryon-raises-100m-to-index-and-analyze-enterprise-data/)
-- [Remote launches new HR platform for companies with a “global-first” approach](https://techcrunch.com/2023/09/19/remote-global/)
-- [HiddenLayer raises $50M for its AI-defending cybersecurity tools](https://techcrunch.com/2023/09/19/hiddenlayer-raises-50m-for-its-ai-defending-cybersecurity-tools/)
-- [Alcion, which provides backup and security services to enterprises, raises $21M](https://techcrunch.com/2023/09/19/alcion-which-provides-backup-and-security-services-to-enterprises-raises-21m/)
+- [ZayZoon, which lends employees money for a fee, raises $34.5M](https://techcrunch.com/2023/09/19/zayzoon-which-lends-employees-money-for-a-fee-raises-34-5m/)
+- [How deep tech founders can secure early-stage fundraising in a downturn](https://techcrunch.com/2023/09/19/tips-for-deep-tech-founders-fundraising-in-a-downturn/)
+- [iPhone 15 Pro Max review](https://techcrunch.com/2023/09/19/iphone-15-pro-max-review/)
+- [Here’s what’s happening on day one of TechCrunch Disrupt 2023](https://techcrunch.com/2023/09/19/heres-whats-happening-on-day-one-of-techcrunch-disrupt-2023/)
+- [TRI is developing a new method to teach robots overnight](https://techcrunch.com/2023/09/19/2601313/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
