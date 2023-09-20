@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb is verifying all properties in its top five markets including the U.S.](https://techcrunch.com/2023/09/20/airbnb-is-verifying-all-properties-in-its-top-five-markets-including-the-u-s/)
+- [Ask Sophie: Can you explain the H-1B visa, EB-2 green card transfer and Visa Bulletin?](https://techcrunch.com/2023/09/20/ask-sophie-can-you-explain-the-h-1b-visa-eb-2-green-card-transfer-and-visa-bulletin/)
+- [Legit Security lands $40M to lock down apps and dev environments](https://techcrunch.com/2023/09/20/legit-security-lands-40m-to-lock-down-apps-and-dev-environments/)
+- [After 1 year in space, what&#39;s next for an astronaut? &#39;Peace and quiet&#39; on Earth, Frank Rubio says &lpar;video&rpar;](https://www.space.com/nasa-astronaut-frank-rubio-one-year-in-space-record)
 - [JOKR now valued at $800M after bagging about $50M in Series D funding](https://techcrunch.com/2023/09/20/jokr-series-d-instant-grocery-delivery/)
-- [Japan&#39;s SLIM moon lander completes 1st critical phase in Earth orbit](https://www.space.com/japan-slim-moon-lander-completes-first-phase-earth-orbit)
-- [NASA&#39;s OSIRIS-REx spacecraft changed how we think about asteroids. Here&#39;s how.](https://www.space.com/nasa-osiris-rex-change-how-scientists-understand-asteroids)
-- [DARPA wants new ideas for space weapons](https://www.space.com/darpa-space-weapons-superiority-technologies)
-- [Google-backed Indian audio platform Kuku FM raises $25 million](https://techcrunch.com/2023/09/20/google-backed-indian-audio-platform-kuku-fm-raises-25-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
