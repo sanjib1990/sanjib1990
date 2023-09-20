@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roblox acquires voice moderation startup Speechly](https://techcrunch.com/2023/09/20/roblox-acquires-voice-moderation-startup-speechly/)
 - [Equity Live: Self-flying helicopters, AI and the battle of the features](https://techcrunch.com/2023/09/20/equity-live-self-flying-helicopters-ai-and-the-battle-of-the-features/)
 - [Database startup MotherDuck lands $52.5M to grow its DuckDB-based platform](https://techcrunch.com/2023/09/20/database-startup-motherduck-lands-52-5m-to-grow-its-duckdb-based-platform/)
+- [Supermassive black holes eat more quickly than expected, 3D simulations suggest](https://www.space.com/supermassive-black-holes-more-gluttonous-than-scientists-expected)
 - [Auroras galore! Solar storm slams into Earth and sparks stunning northern lights display &lpar;photos&rpar;](https://www.space.com/powerful-solar-storm-creates-stunning-auroras-northern-lights-photos-september-2023)
-- [Is the Apple Watch Ultra 2 worth the upgrade?](https://techcrunch.com/2023/09/20/is-the-apple-watch-ultra-2-worth-the-upgrade/)
-- [Substack redesigns its mobile app to boost discovery and engagement](https://techcrunch.com/2023/09/20/substack-redesigns-its-mobile-app-to-boost-discovery-and-engagement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
