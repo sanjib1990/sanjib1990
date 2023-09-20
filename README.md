@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp users in India can now pay businesses with credit card, other UPI apps](https://techcrunch.com/2023/09/19/whatsapp-india-payments-businesses/)
+- [Meta is expanding its verification program to businesses](https://techcrunch.com/2023/09/19/meta-is-expanding-its-verification-program-to-businesses/)
+- [WhatsApp is introducing Flows for a richer in-app shopping experience](https://techcrunch.com/2023/09/19/whatsapp-is-introducing-flows-for-a-richer-in-app-shopping-experience/)
 - [Why Shaquille O’Neal led edtech startup Edsoma’s $2.5M seed round](https://techcrunch.com/2023/09/19/why-shaquille-oneal-led-edtech-startup-edsomas-2-5m-seed-round/)
 - [Kenyan fintech FlexPay is helping shoppers save for future purchases](https://techcrunch.com/2023/09/19/flexpay-disrupt-2023/)
-- [Plaid’s Zack Perret on Visa, valuations and privacy](https://techcrunch.com/2023/09/19/plaids-zack-perret-on-visa-valuations-and-privacy/)
-- [How Reed Jobs’ venture firm tackles cancer](https://techcrunch.com/2023/09/19/reed-jobs-on-how-his-venture-firm-tackles-cancer/)
-- [Somani’s Offline secures $2M to build community for top Indian startup founders](https://techcrunch.com/2023/09/19/utsav-somani-offline-club-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
