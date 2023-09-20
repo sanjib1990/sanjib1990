@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google-backed Indian audio platform Kuku FM raises $25 million](https://techcrunch.com/2023/09/20/google-backed-indian-audio-platform-kuku-fm-raises-25-million/)
+- [Ghana’s Complete Farmer, which connects farmers to global food buyers, raises $10.4M](https://techcrunch.com/2023/09/20/ghanas-complete-farmer-which-connects-farmers-to-global-food-buyers-raises-10-4m/)
 - [Terraform fork gets renamed OpenTofu, and joins Linux Foundation](https://techcrunch.com/2023/09/20/terraform-fork-gets-a-new-name-opentofu-and-joins-linux-foundation/)
 - [After relaunching as a studio for creators, LimeWire acquires BlueWillow, a Midjourney competitor](https://techcrunch.com/2023/09/19/limewire-bluewillow/)
 - [WhatsApp users in India can now pay businesses with credit card, other UPI apps](https://techcrunch.com/2023/09/19/whatsapp-india-payments-businesses/)
-- [Meta is expanding its verification program to businesses](https://techcrunch.com/2023/09/19/meta-is-expanding-its-verification-program-to-businesses/)
-- [WhatsApp is introducing Flows for a richer in-app shopping experience](https://techcrunch.com/2023/09/19/whatsapp-is-introducing-flows-for-a-richer-in-app-shopping-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
