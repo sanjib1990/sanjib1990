@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Shaquille O’Neal led edtech startup Edsoma’s $2.5M seed round](https://techcrunch.com/2023/09/19/why-shaquille-oneal-led-edtech-startup-edsomas-2-5m-seed-round/)
+- [Kenyan fintech FlexPay is helping shoppers save for future purchases](https://techcrunch.com/2023/09/19/flexpay-disrupt-2023/)
 - [Plaid’s Zack Perret on Visa, valuations and privacy](https://techcrunch.com/2023/09/19/plaids-zack-perret-on-visa-valuations-and-privacy/)
-- [Reed Jobs on how his venture firm tackles cancer](https://techcrunch.com/2023/09/19/reed-jobs-on-how-his-venture-firm-tackles-cancer/)
+- [How Reed Jobs’ venture firm tackles cancer](https://techcrunch.com/2023/09/19/reed-jobs-on-how-his-venture-firm-tackles-cancer/)
 - [Somani’s Offline secures $2M to build community for top Indian startup founders](https://techcrunch.com/2023/09/19/utsav-somani-offline-club-funding/)
-- [Upside Foods’ Uma Valeti on why it’s so difficult to scale cultivated meat](https://techcrunch.com/2023/09/19/upside-foods-uma-valeti-scale-cultivated-meat/)
-- [Vivek Ramaswamy is in his TikTok era, with Jake Paul’s endorsement](https://techcrunch.com/2023/09/19/vivek-ramaswamy-attempts-tiktok-fame-jake-paul/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
