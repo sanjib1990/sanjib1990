@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shortwave’s AI-powered assistant lets ask questions about your email history](https://techcrunch.com/2023/09/20/shortwaves-ai-powered-assistant-lets-ask-questions-about-your-email-history/)
-- [Amazon is bringing generative AI to Fire TV along with new devices](https://techcrunch.com/2023/09/20/amazon-is-bringing-generative-ai-to-fire-tv-along-with-new-devices/)
-- [China&#39;s astronauts have been tending a &quot;space garden&quot; in orbit &lpar;video&rpar;](https://www.space.com/china-astronauts-space-garden-tiangong-space-station)
-- [Don’t use builds, reveals or animations in your pitch deck](https://techcrunch.com/2023/09/20/dont-use-builds-reveals-or-animations-in-your-pitch-deck/)
-- [Uber Eats to launch Google-powered chatbot in late 2023](https://techcrunch.com/2023/09/20/uber-eats-to-launch-google-powered-ai-chatbot-in-late-2023/)
+- [Klaviyo’s strong IPO pricing should give unicorns an idea of what they are worth](https://techcrunch.com/2023/09/20/klaviyos-ipo-pricing-analysis/)
+- [GitHub expands access to Copilot Chat to individual users](https://techcrunch.com/2023/09/20/github-expands-access-to-copilot-chat-to-individual-users/)
+- [Water ice on the moon may be key for future space missions. But is there enough?](https://www.space.com/future-moon-missions-find-less-water-than-expected-study)
+- [Skydio’s enterprise pivot kicks off with a new drone](https://techcrunch.com/2023/09/20/skydios-enterprise-pivot-kicks-off-with-a-new-drone/)
+- [Donald Trump Jr.’s X account was hacked, spokesperson confirms](https://techcrunch.com/2023/09/20/donald-trump-jr-x-account-was-hacked-spokesperson-confirms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
