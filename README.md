@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PDS is coming to a cop car near you to stop you from drug-driving](https://techcrunch.com/2023/09/20/portable-diagnostic-systems-prototype-ready-for-launch/)
-- [Evidence of mysterious &#39;recurring nova&#39; that could reappear in 2024 found in medieval manuscript from 1217](https://www.space.com/evidence-medieval-manuscript-recurring-nova-reappear-2024)
-- [PayPal’s PYUSD stablecoin is now available on Venmo](https://techcrunch.com/2023/09/20/paypals-pyusd-stablecoin-is-now-available-on-venmo/)
-- [OpenAI unveils DALL-E 3, allows artists to opt out of training](https://techcrunch.com/2023/09/20/openai-unveils-dall-e-3-allows-artists-to-opt-out-of-training/)
-- [Parallel Health takes a biotech-forward approach to skincare with custom phage therapy](https://techcrunch.com/2023/09/20/parallel-health-takes-a-biotech-forward-approach-to-skincare-with-custom-phage-therapy/)
+- [NASA&#39;s Parker Solar Probe flies through major coronal mass ejection — and survives to tell the tale](https://www.space.com/parker-cme-flies-through-displaces-dust-solar-physics)
+- [Amazon Devices Event 2023: Everything you need to know about Alexa, Echo, Fire TV and more](https://techcrunch.com/2023/09/20/amazon-devices-event-2023-everything-you-need-to-know-about-alexa-echo-fire-tv-and-more/)
+- [5 things to get straight before submitting an RFP to a digital marketing agency](https://techcrunch.com/2023/09/20/5-things-to-get-straight-before-submitting-an-rfp-to-a-digital-marketing-agency/)
+- [JusticeText taps AI to transcribe evidence for public defenders](https://techcrunch.com/2023/09/20/justicetext-taps-ai-to-transcribe-evidence-for-public-defenders/)
+- [Front goes beyond the unified inbox with a Zendesk-style knowledge base](https://techcrunch.com/2023/09/20/front-goes-beyond-the-unified-inbox-with-a-zendesk-style-knowledge-base/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
