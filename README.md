@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the Apple Watch Ultra 2 worth the upgrade?](https://techcrunch.com/2023/09/20/is-the-apple-watch-ultra-2-worth-the-upgrade/)
+- [Substack redesigns its mobile app to boost discovery and engagement](https://techcrunch.com/2023/09/20/substack-redesigns-its-mobile-app-to-boost-discovery-and-engagement/)
+- [Apple Watch Series 9 review](https://techcrunch.com/2023/09/20/apple-watch-series-9-review/)
+- [Corti, an AI ‘co-pilot’ for healthcare clinicians, raises $60M](https://techcrunch.com/2023/09/20/corti-an-ai-co-pilot-for-healthcare-clinicians-raises-60m/)
 - [Airbnb is verifying all properties in its top five markets including the U.S.](https://techcrunch.com/2023/09/20/airbnb-is-verifying-all-properties-in-its-top-five-markets-including-the-u-s/)
-- [Ask Sophie: Can you explain the H-1B visa, EB-2 green card transfer and Visa Bulletin?](https://techcrunch.com/2023/09/20/ask-sophie-can-you-explain-the-h-1b-visa-eb-2-green-card-transfer-and-visa-bulletin/)
-- [Legit Security lands $40M to lock down apps and dev environments](https://techcrunch.com/2023/09/20/legit-security-lands-40m-to-lock-down-apps-and-dev-environments/)
-- [After 1 year in space, what&#39;s next for an astronaut? &#39;Peace and quiet&#39; on Earth, Frank Rubio says &lpar;video&rpar;](https://www.space.com/nasa-astronaut-frank-rubio-one-year-in-space-record)
-- [JOKR now valued at $800M after bagging about $50M in Series D funding](https://techcrunch.com/2023/09/20/jokr-series-d-instant-grocery-delivery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
