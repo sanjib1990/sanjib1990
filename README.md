@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Fox on not running from challenges – on court or on climate](https://techcrunch.com/2023/09/19/rick-fox-on-not-running-from-challenges-on-court-or-on-climate/)
-- [Robinhood CEO on the company’s evolution: ‘We’ve made a lot of progress’](https://techcrunch.com/2023/09/19/robinhood-ceo-on-the-companys-evolution-weve-made-a-lot-of-progress/)
-- [Shaquille O’Neal talks investing in edtech and projects that are going to ‘change people’s lives’](https://techcrunch.com/2023/09/19/shaquille-oneal-investing-edtech-and-things-that-are-going-to-change-peoples-lives/)
-- [a16z’s Arianna Simpson believes crypto will be just fine, thank you for asking](https://techcrunch.com/2023/09/19/a16zs-arianna-simpson-believes-crypto-will-be-just-fine-thank-you-for-asking/)
-- [Magnestar wants to solve the satellite signal interference problem for the entire space industry](https://techcrunch.com/2023/09/19/magnestar-wants-to-solve-the-satellite-signal-interference-problem-for-the-entire-space-industry/)
+- [Plaid’s Zack Perret on Visa, valuations and privacy](https://techcrunch.com/2023/09/19/plaids-zack-perret-on-visa-valuations-and-privacy/)
+- [Reed Jobs on how his venture firm tackles cancer](https://techcrunch.com/2023/09/19/reed-jobs-on-how-his-venture-firm-tackles-cancer/)
+- [Somani’s Offline secures $2M to build community for top Indian startup founders](https://techcrunch.com/2023/09/19/utsav-somani-offline-club-funding/)
+- [Upside Foods’ Uma Valeti on why it’s so difficult to scale cultivated meat](https://techcrunch.com/2023/09/19/upside-foods-uma-valeti-scale-cultivated-meat/)
+- [Vivek Ramaswamy is in his TikTok era, with Jake Paul’s endorsement](https://techcrunch.com/2023/09/19/vivek-ramaswamy-attempts-tiktok-fame-jake-paul/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
