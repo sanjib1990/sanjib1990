@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Roblox acquires voice moderation startup Speechly](https://techcrunch.com/2023/09/20/roblox-acquires-voice-moderation-startup-speechly/)
-- [Equity Live: Self-flying helicopters, AI and the battle of the features](https://techcrunch.com/2023/09/20/equity-live-self-flying-helicopters-ai-and-the-battle-of-the-features/)
-- [Database startup MotherDuck lands $52.5M to grow its DuckDB-based platform](https://techcrunch.com/2023/09/20/database-startup-motherduck-lands-52-5m-to-grow-its-duckdb-based-platform/)
-- [Supermassive black holes eat more quickly than expected, 3D simulations suggest](https://www.space.com/supermassive-black-holes-more-gluttonous-than-scientists-expected)
-- [Auroras galore! Solar storm slams into Earth and sparks stunning northern lights display &lpar;photos&rpar;](https://www.space.com/powerful-solar-storm-creates-stunning-auroras-northern-lights-photos-september-2023)
+- [Shortwave’s AI-powered assistant lets ask questions about your email history](https://techcrunch.com/2023/09/20/shortwaves-ai-powered-assistant-lets-ask-questions-about-your-email-history/)
+- [Amazon is bringing generative AI to Fire TV along with new devices](https://techcrunch.com/2023/09/20/amazon-is-bringing-generative-ai-to-fire-tv-along-with-new-devices/)
+- [China&#39;s astronauts have been tending a &quot;space garden&quot; in orbit &lpar;video&rpar;](https://www.space.com/china-astronauts-space-garden-tiangong-space-station)
+- [Don’t use builds, reveals or animations in your pitch deck](https://techcrunch.com/2023/09/20/dont-use-builds-reveals-or-animations-in-your-pitch-deck/)
+- [Uber Eats to launch Google-powered chatbot in late 2023](https://techcrunch.com/2023/09/20/uber-eats-to-launch-google-powered-ai-chatbot-in-late-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
