@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating public-private partnerships with Uber, Cruise, and the mayor of Atlanta](https://techcrunch.com/2023/09/20/navigating-public-private-partnerships-with-uber-cruise-and-the-mayor-of-atlanta/)
+- [Alpha3D wants to accelerate digital asset and AI-powered generation through cheaper, hyperscaling technology](https://techcrunch.com/2023/09/20/alpha3d-wants-to-accelerate-digital-asset-and-ai-powered-generation-through-cheaper-hyper-scaling-technology/)
 - [NASA&#39;s Parker Solar Probe flies through major coronal mass ejection — and survives to tell the tale](https://www.space.com/parker-cme-flies-through-displaces-dust-solar-physics)
 - [Amazon Devices Event 2023: Everything you need to know about Alexa, Echo, Fire TV and more](https://techcrunch.com/2023/09/20/amazon-devices-event-2023-everything-you-need-to-know-about-alexa-echo-fire-tv-and-more/)
 - [5 things to get straight before submitting an RFP to a digital marketing agency](https://techcrunch.com/2023/09/20/5-things-to-get-straight-before-submitting-an-rfp-to-a-digital-marketing-agency/)
-- [JusticeText taps AI to transcribe evidence for public defenders](https://techcrunch.com/2023/09/20/justicetext-taps-ai-to-transcribe-evidence-for-public-defenders/)
-- [Front goes beyond the unified inbox with a Zendesk-style knowledge base](https://techcrunch.com/2023/09/20/front-goes-beyond-the-unified-inbox-with-a-zendesk-style-knowledge-base/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
