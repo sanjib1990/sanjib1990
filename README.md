@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Klaviyo’s strong IPO pricing should give unicorns an idea of what they are worth](https://techcrunch.com/2023/09/20/klaviyos-ipo-pricing-analysis/)
-- [GitHub expands access to Copilot Chat to individual users](https://techcrunch.com/2023/09/20/github-expands-access-to-copilot-chat-to-individual-users/)
-- [Water ice on the moon may be key for future space missions. But is there enough?](https://www.space.com/future-moon-missions-find-less-water-than-expected-study)
-- [Skydio’s enterprise pivot kicks off with a new drone](https://techcrunch.com/2023/09/20/skydios-enterprise-pivot-kicks-off-with-a-new-drone/)
-- [Donald Trump Jr.’s X account was hacked, spokesperson confirms](https://techcrunch.com/2023/09/20/donald-trump-jr-x-account-was-hacked-spokesperson-confirms/)
+- [PDS is coming to a cop car near you to stop you from drug-driving](https://techcrunch.com/2023/09/20/portable-diagnostic-systems-prototype-ready-for-launch/)
+- [Evidence of mysterious &#39;recurring nova&#39; that could reappear in 2024 found in medieval manuscript from 1217](https://www.space.com/evidence-medieval-manuscript-recurring-nova-reappear-2024)
+- [PayPal’s PYUSD stablecoin is now available on Venmo](https://techcrunch.com/2023/09/20/paypals-pyusd-stablecoin-is-now-available-on-venmo/)
+- [OpenAI unveils DALL-E 3, allows artists to opt out of training](https://techcrunch.com/2023/09/20/openai-unveils-dall-e-3-allows-artists-to-opt-out-of-training/)
+- [Parallel Health takes a biotech-forward approach to skincare with custom phage therapy](https://techcrunch.com/2023/09/20/parallel-health-takes-a-biotech-forward-approach-to-skincare-with-custom-phage-therapy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
