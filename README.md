@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic&#39;s next flight will take a Pakistani to space for the 1st time](https://www.space.com/namira-salim-virgin-galactic-first-astronaut-pakistan)
+- [Betweened wants to teach kids how to use social media, not shut them out of it](https://techcrunch.com/2023/09/20/betweened-disrupt-2023-startup-battlefield-200-social-media/)
+- [MakersHub deciphers accounts payable data so construction companies don’t have to](https://techcrunch.com/2023/09/20/makershub-accounts-payable-data-construction-battlefield/)
+- [J.B. Straubel talks Tesla, Redwood Materials and keeping a startup mentality at any scale](https://techcrunch.com/2023/09/20/j-b-straubel-talks-tesla-redwood-materials-and-keeping-a-startup-mentality-at-any-scale/)
 - [AgTech leaders dish on untapped and overlooked opportunities for founders](https://techcrunch.com/2023/09/20/agtech-leaders-dish-on-untapped-and-overlooked-opportunities-for-founders/)
-- [Agri-Trak is helping farms replace pen and paper with digital tools to track labor and production](https://techcrunch.com/2023/09/20/agri-trak-is-helping-farms-replace-pen-and-paper-with-digital-tools-to-track-labor-and-production/)
-- [$100,000 Breakthrough physics prize awarded to 3 scientists who study the large scale structure of the universe](https://www.space.com/new-horizons-award-physics-universe-large-scale-structures)
-- [Why is Y Combinator so defensive lately?](https://techcrunch.com/2023/09/20/why-is-y-combinator-so-defensive-lately/)
-- [AppFactor drags legacy enterprise apps to the cloud through automation](https://techcrunch.com/2023/09/20/appfactor-drags-legacy-enterprise-apps-to-the-cloud-through-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
