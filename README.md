@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equity Live: Self-flying helicopters, AI and the battle of the features](https://techcrunch.com/2023/09/20/equity-live-self-flying-helicopters-ai-and-the-battle-of-the-features/)
+- [Database startup MotherDuck lands $52.5M to grow its DuckDB-based platform](https://techcrunch.com/2023/09/20/database-startup-motherduck-lands-52-5m-to-grow-its-duckdb-based-platform/)
+- [Auroras galore! Solar storm slams into Earth and sparks stunning northern lights display &lpar;photos&rpar;](https://www.space.com/powerful-solar-storm-creates-stunning-auroras-northern-lights-photos-september-2023)
 - [Is the Apple Watch Ultra 2 worth the upgrade?](https://techcrunch.com/2023/09/20/is-the-apple-watch-ultra-2-worth-the-upgrade/)
 - [Substack redesigns its mobile app to boost discovery and engagement](https://techcrunch.com/2023/09/20/substack-redesigns-its-mobile-app-to-boost-discovery-and-engagement/)
-- [Apple Watch Series 9 review](https://techcrunch.com/2023/09/20/apple-watch-series-9-review/)
-- [Corti, an AI ‘co-pilot’ for healthcare clinicians, raises $60M](https://techcrunch.com/2023/09/20/corti-an-ai-co-pilot-for-healthcare-clinicians-raises-60m/)
-- [Airbnb is verifying all properties in its top five markets including the U.S.](https://techcrunch.com/2023/09/20/airbnb-is-verifying-all-properties-in-its-top-five-markets-including-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
