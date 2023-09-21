@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s OSIRIS-REx asteroid sample return needs an awesome soundtrack. Here&#39;s how you can submit your favorite songs](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-landing-soundtrack)
+- [Snapchat now has over 5 million paying users for Snapchat+](https://techcrunch.com/2023/09/21/snapchat-now-has-over-5-million-paying-users-for-snapchat/)
+- [Encrypted email provider Proton has built its own CAPTCHA service](https://techcrunch.com/2023/09/21/proton-captcha-censorship/)
+- [Mastodon’s latest release makes the open source Twitter alternative easier to use](https://techcrunch.com/2023/09/21/mastodons-latest-release-makes-the-open-source-twitter-alternative-easier-to-use/)
 - [Hypothetical &#39;dark photons&#39; could shed light on mysterious dark matter](https://www.space.com/dark-photons-shed-light-mystery-dark-matter)
-- [YouTube debuts a new app, YouTube Create for editing videos, adding effects and more](https://techcrunch.com/2023/09/21/youtube-debuts-a-new-app-youtube-create-for-editing-videos-adding-effects-and-more/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [YouTube Studio to give creators a generative AI tool to suggest video topics](https://techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/)
-- [YouTube to add AI creator tools to find music for videos, add dubs](https://techcrunch.com/2023/09/21/youtube-to-add-ai-creator-tools-to-find-music-for-videos-add-dubs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
