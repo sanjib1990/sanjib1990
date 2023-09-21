@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What we learned from Microsoft’s big Xbox leak](https://techcrunch.com/2023/09/21/microsoft-xbox-leak-ftc/)
+- [And the winner of Startup Battlefield at Disrupt 2023 is… BioticsAI](https://techcrunch.com/2023/09/21/startup-battlefield-winner-techcrunch-disrupt-2023/)
+- [Inside Kinhub’s plan to democratize employee wellness](https://techcrunch.com/2023/09/21/inside-kinhubs-plan-to-democratize-employee-wellness/)
 - [eStreamly blends physical, digital shopping with the video as the star](https://techcrunch.com/2023/09/21/estreamly-livestream-shopping-battlefield/)
 - [Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents](https://techcrunch.com/2023/09/21/salesforce-airkit/)
-- [AvantGuard wants to turn chlorine into the best antiseptic you’ve ever seen](https://techcrunch.com/2023/09/21/avantguard-chlorine-antiseptic-battlefield/)
-- [We need a better way to map Earth&#39;s magnetic field. Finding it could win 1 of these teams $2 million](https://www.space.com/earth-magnetic-filed-diamond-quantum-magnometer)
-- [Meredith Whittaker reaffirms that Signal would leave UK if forced by privacy bill](https://techcrunch.com/2023/09/21/meredith-whittaker-reaffirms-that-signal-would-leave-u-k-if-forced-by-privacy-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
