@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s OSIRIS-REx asteroid sample return needs an awesome soundtrack. Here&#39;s how you can submit your favorite songs](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-landing-soundtrack)
-- [Snapchat now has over 5 million paying users for Snapchat+](https://techcrunch.com/2023/09/21/snapchat-now-has-over-5-million-paying-users-for-snapchat/)
-- [Encrypted email provider Proton has built its own CAPTCHA service](https://techcrunch.com/2023/09/21/proton-captcha-censorship/)
-- [Mastodon’s latest release makes the open source Twitter alternative easier to use](https://techcrunch.com/2023/09/21/mastodons-latest-release-makes-the-open-source-twitter-alternative-easier-to-use/)
-- [Hypothetical &#39;dark photons&#39; could shed light on mysterious dark matter](https://www.space.com/dark-photons-shed-light-mystery-dark-matter)
+- [New Horizon Prize in Physics awarded to scientists chasing mysterious black hole photon spheres](https://www.space.com/black-holes-new-horizon-physics-award-scientists-black-hole-photon-spheres)
+- [AI startup Gizmo raises $3.5M by using gamified quizzes and flashcards to make learning fun](https://techcrunch.com/2023/09/21/ai-startup-gizmo-funding-gamified-quizzes-flashcards-make-learning-fun/)
+- [How to spend your first $10K on paid ads](https://techcrunch.com/2023/09/21/how-to-spend-your-first-10k-on-paid-ads/)
+- [UK bolts US ‘data bridge’ deal onto EU-US Data Privacy Framework](https://techcrunch.com/2023/09/21/uk-us-data-bridge/)
+- [Saregama eyes Pocket Aces acquisition in video push](https://techcrunch.com/2023/09/21/saregama-pocket-aces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
