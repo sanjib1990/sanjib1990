@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waabi and Uber Freight partner to accelerate autonomous trucking](https://techcrunch.com/2023/09/21/waabi-and-uber-freight-partner-to-accelerate-autonomous-trucking/)
 - [Here are the 6 finalists of Startup Battlefield at Disrupt 2023](https://techcrunch.com/2023/09/20/here-are-the-6-finalists-of-startup-battlefield-at-disrupt-2023/)
 - [Libra’s co-creator had geopolitical motivations to build the digital currency](https://techcrunch.com/2023/09/20/libra-facebook-crypto-political-motivations/)
 - [Auctoria uses generative AI to create video game models](https://techcrunch.com/2023/09/20/auctoria-uses-generative-ai-to-create-video-game-models/)
 - [Cruise CEO says winter version of Origin AV is two years away](https://techcrunch.com/2023/09/20/cruise-ceo-says-winter-version-of-origin-av-is-two-years-away/)
-- [GitHub CEO: Despite AI gains, demand for software developers will still outweigh supply](https://techcrunch.com/2023/09/20/github-ceo-despite-ai-gains-demand-for-software-developers-will-still-outweigh-supply/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
