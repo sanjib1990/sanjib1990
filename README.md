@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We need a better way to map Earth&#39;s magnetic field. Finding it could win 1 of these teams $2 million](https://www.space.com/earth-magnetic-filed-diamond-quantum-magnometer)
+- [Meredith Whittaker reaffirms that Signal would leave U.K. if forced by privacy bill](https://techcrunch.com/2023/09/21/meredith-whittaker-reaffirms-that-signal-would-leave-u-k-if-forced-by-privacy-bill/)
+- [OnePlus confirms its first foldable is officially ‘coming soon’](https://techcrunch.com/2023/09/21/oneplus-confirms-its-first-foldable-is-officially-coming-soon/)
 - [Don’t want that commuter stipend? Bundl enables employees to choose their own company benefits](https://techcrunch.com/2023/09/21/bundl-employee-benefits-battlefield/)
 - [Chinese launch startup&#39;s rocket fails during satellite launch](https://www.space.com/china-galactic-energy-rocket-launch-failure-september-2023)
-- [AppCyclers wants to fight e-waste pollution across Africa](https://techcrunch.com/2023/09/21/appcyclers-wants-to-fight-e-waste-pollution-across-africa/)
-- [GGV splits off China business following congressional panel probe](https://techcrunch.com/2023/09/21/ggv-splits-off-china-business-following-congressional-panel-probe/)
-- [The copyright issues around generative AI aren’t going away anytime soon](https://techcrunch.com/2023/09/21/the-copyright-issues-around-generative-ai-arent-going-away-anytime-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
