@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Harness launches Gitness, an open-source GitHub competitor](https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/)
+- [Mesh, which helps people manage their digital assets, raises $22M](https://techcrunch.com/2023/09/21/mesh-which-helps-people-manage-their-digital-assets-raises-22m/)
+- [Artemis 2 astronaut crew suits up for moon launch dress rehearsal &lpar;photos, video&rpar;](https://www.space.com/nasa-artemis-2-astronaut-moon-crew-launch-day-test-photos)
+- [True Anomaly lands $17.4M contract from U.S. Space Force for space domain awareness tech](https://techcrunch.com/2023/09/21/true-anomaly-lands-17-4m-contract-from-u-s-space-force-for-space-domain-awareness-tech/)
 - [7 global investors discuss African tech post-Kauffman Fellows’ first summit on the continent](https://techcrunch.com/2023/09/21/7-global-investors-discuss-african-tech-post-kauffman-fellows-first-summit-on-the-continent/)
-- [Poland opens privacy probe of ChatGPT following GDPR complaint](https://techcrunch.com/2023/09/21/poland-chatgpt-gdpr-complaint-probe/)
-- [Next stop, Europa? Nano subs to get test beneath Antarctic ice in 2026](https://www.space.com/scientists-test-submarines-saturn-moon-enceladus)
-- [How NASA&#39;s OSIRIS-REx will bring asteroid samples to Earth in 5 not-so-easy steps](https://www.space.com/nasa-osiris-rex-sample-return-step-by-step)
-- [Khosla-backed HealthifyMe introduces AI-powered image recognition for Indian food](https://techcrunch.com/2023/09/21/khosla-backed-healthifyme-introduces-ai-powered-image-recognition-for-indian-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
