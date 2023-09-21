@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kindo aims to take the security stress out of AI workflows](https://techcrunch.com/2023/09/21/kindo-aims-to-take-the-security-stress-out-of-ai-workflows/)
-- [Blink-182&#39;s Tom DeLonge directs new UFO conspiracy flick &#39;Monsters of California&#39; &lpar;video&rpar;](https://www.space.com/tom-delonge-ufo-conspiracy-film-monsters-of-california-trailer)
-- [Here’s the crypto news you missed at Disrupt 2023](https://techcrunch.com/2023/09/21/heres-the-crypto-news-you-missed-at-disrupt-2023/)
-- [Anthropic’s Dario Amodei on AI’s limits: ‘I’m not sure there are any’](https://techcrunch.com/2023/09/21/anthropics-dario-amodei-on-ais-limits-im-not-sure-there-are-any/)
-- [GitHub launches passkey support into general availability](https://techcrunch.com/2023/09/21/github-passkeys/)
+- [Don’t want that commuter stipend? Bundl enables employees to choose their own company benefits](https://techcrunch.com/2023/09/21/bundl-employee-benefits-battlefield/)
+- [Chinese launch startup&#39;s rocket fails during satellite launch](https://www.space.com/china-galactic-energy-rocket-launch-failure-september-2023)
+- [AppCyclers wants to fight e-waste pollution across Africa](https://techcrunch.com/2023/09/21/appcyclers-wants-to-fight-e-waste-pollution-across-africa/)
+- [GGV splits off China business following congressional panel probe](https://techcrunch.com/2023/09/21/ggv-splits-off-china-business-following-congressional-panel-probe/)
+- [The copyright issues around generative AI aren’t going away anytime soon](https://techcrunch.com/2023/09/21/the-copyright-issues-around-generative-ai-arent-going-away-anytime-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
