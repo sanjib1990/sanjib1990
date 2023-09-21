@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tom Hanks returns to the moon with &#39;The Moonwalkers,&#39; a new visual experience](https://www.space.com/the-moonwalkers-journey-with-tom-hanks)
+- [Cisco to acquire Splunk in $28B mega deal](https://techcrunch.com/2023/09/21/cisco-to-acquire-splunk-in-28b-mega-deal/)
 - [Harness launches Gitness, an open-source GitHub competitor](https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/)
 - [Mesh, which helps people manage their digital assets, raises $22M](https://techcrunch.com/2023/09/21/mesh-which-helps-people-manage-their-digital-assets-raises-22m/)
 - [Artemis 2 astronaut crew suits up for moon launch dress rehearsal &lpar;photos, video&rpar;](https://www.space.com/nasa-artemis-2-astronaut-moon-crew-launch-day-test-photos)
-- [True Anomaly lands $17.4M contract from U.S. Space Force for space domain awareness tech](https://techcrunch.com/2023/09/21/true-anomaly-lands-17-4m-contract-from-u-s-space-force-for-space-domain-awareness-tech/)
-- [7 global investors discuss African tech post-Kauffman Fellows’ first summit on the continent](https://techcrunch.com/2023/09/21/7-global-investors-discuss-african-tech-post-kauffman-fellows-first-summit-on-the-continent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
