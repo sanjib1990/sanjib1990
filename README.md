@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 global investors discuss African tech post-Kauffman Fellows’ first summit on the continent](https://techcrunch.com/2023/09/21/7-global-investors-discuss-african-tech-post-kauffman-fellows-first-summit-on-the-continent/)
+- [Poland opens privacy probe of ChatGPT following GDPR complaint](https://techcrunch.com/2023/09/21/poland-chatgpt-gdpr-complaint-probe/)
 - [Next stop, Europa? Nano subs to get test beneath Antarctic ice in 2026](https://www.space.com/scientists-test-submarines-saturn-moon-enceladus)
 - [How NASA&#39;s OSIRIS-REx will bring asteroid samples to Earth in 5 not-so-easy steps](https://www.space.com/nasa-osiris-rex-sample-return-step-by-step)
 - [Khosla-backed HealthifyMe introduces AI-powered image recognition for Indian food](https://techcrunch.com/2023/09/21/khosla-backed-healthifyme-introduces-ai-powered-image-recognition-for-indian-food/)
-- [Waabi and Uber Freight partner to accelerate autonomous trucking](https://techcrunch.com/2023/09/21/waabi-and-uber-freight-partner-to-accelerate-autonomous-trucking/)
-- [Here are the 6 finalists of Startup Battlefield at Disrupt 2023](https://techcrunch.com/2023/09/20/here-are-the-6-finalists-of-startup-battlefield-at-disrupt-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
