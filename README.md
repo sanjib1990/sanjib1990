@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next stop, Europa? Nano subs to get test beneath Antarctic ice in 2026](https://www.space.com/scientists-test-submarines-saturn-moon-enceladus)
+- [How NASA&#39;s OSIRIS-REx will bring asteroid samples to Earth in 5 not-so-easy steps](https://www.space.com/nasa-osiris-rex-sample-return-step-by-step)
+- [Khosla-backed HealtifyMe introduces AI-powered image recognition for Indian food](https://techcrunch.com/2023/09/21/khosla-backed-healtifyme-introduces-ai-powered-image-recognition-for-indian-food/)
 - [Waabi and Uber Freight partner to accelerate autonomous trucking](https://techcrunch.com/2023/09/21/waabi-and-uber-freight-partner-to-accelerate-autonomous-trucking/)
 - [Here are the 6 finalists of Startup Battlefield at Disrupt 2023](https://techcrunch.com/2023/09/20/here-are-the-6-finalists-of-startup-battlefield-at-disrupt-2023/)
-- [Libra’s co-creator had geopolitical motivations to build the digital currency](https://techcrunch.com/2023/09/20/libra-facebook-crypto-political-motivations/)
-- [Auctoria uses generative AI to create video game models](https://techcrunch.com/2023/09/20/auctoria-uses-generative-ai-to-create-video-game-models/)
-- [Cruise CEO says winter version of Origin AV is two years away](https://techcrunch.com/2023/09/20/cruise-ceo-says-winter-version-of-origin-av-is-two-years-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
