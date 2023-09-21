@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Auctoria uses generative AI to create video game models](https://techcrunch.com/2023/09/20/auctoria-uses-generative-ai-to-create-video-game-models/)
+- [Cruise CEO says winter version of Origin AV is two years away](https://techcrunch.com/2023/09/20/cruise-ceo-says-winter-version-of-origin-av-is-two-years-away/)
 - [GitHub CEO: Despite AI gains, demand for software developers will still outweigh supply](https://techcrunch.com/2023/09/20/github-ceo-despite-ai-gains-demand-for-software-developers-will-still-outweigh-supply/)
 - [PureSpace prevents spoiled produce by removing ripening gas](https://techcrunch.com/2023/09/20/purespace-prevents-spoiled-produce-by-removing-ripening-gas/)
 - [Virgin Galactic&#39;s next flight will take a Pakistani to space for the 1st time](https://www.space.com/namira-salim-virgin-galactic-first-astronaut-pakistan)
-- [Betweened wants to teach kids how to use social media, not shut them out of it](https://techcrunch.com/2023/09/20/betweened-disrupt-2023-startup-battlefield-200-social-media/)
-- [MakersHub deciphers accounts payable data so construction companies don’t have to](https://techcrunch.com/2023/09/20/makershub-accounts-payable-data-construction-battlefield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
