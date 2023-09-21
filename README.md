@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tom Hanks returns to the moon with &#39;The Moonwalkers,&#39; a new visual experience](https://www.space.com/the-moonwalkers-journey-with-tom-hanks)
-- [Cisco to acquire Splunk in $28B mega deal](https://techcrunch.com/2023/09/21/cisco-to-acquire-splunk-in-28b-mega-deal/)
-- [Harness launches Gitness, an open-source GitHub competitor](https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/)
-- [Mesh, which helps people manage their digital assets, raises $22M](https://techcrunch.com/2023/09/21/mesh-which-helps-people-manage-their-digital-assets-raises-22m/)
-- [Artemis 2 astronaut crew suits up for moon launch dress rehearsal &lpar;photos, video&rpar;](https://www.space.com/nasa-artemis-2-astronaut-moon-crew-launch-day-test-photos)
+- [Hypothetical &#39;dark photons&#39; could shed light on mysterious dark matter](https://www.space.com/dark-photons-shed-light-mystery-dark-matter)
+- [YouTube debuts a new app, YouTube Create for editing videos, adding effects and more](https://techcrunch.com/2023/09/21/youtube-debuts-a-new-app-youtube-create-for-editing-videos-adding-effects-and-more/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [YouTube Studio to give creators a generative AI tool to suggest video topics](https://techcrunch.com/2023/09/21/youtube-studio-to-give-creators-a-generative-ai-tool-to-suggest-video-topics/)
+- [YouTube to add AI creator tools to find music for videos, add dubs](https://techcrunch.com/2023/09/21/youtube-to-add-ai-creator-tools-to-find-music-for-videos-add-dubs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
