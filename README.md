@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New Horizon Prize in Physics awarded to scientists chasing mysterious black hole photon spheres](https://www.space.com/black-holes-new-horizon-physics-award-scientists-black-hole-photon-spheres)
-- [AI startup Gizmo raises $3.5M by using gamified quizzes and flashcards to make learning fun](https://techcrunch.com/2023/09/21/ai-startup-gizmo-funding-gamified-quizzes-flashcards-make-learning-fun/)
-- [How to spend your first $10K on paid ads](https://techcrunch.com/2023/09/21/how-to-spend-your-first-10k-on-paid-ads/)
-- [UK bolts US ‘data bridge’ deal onto EU-US Data Privacy Framework](https://techcrunch.com/2023/09/21/uk-us-data-bridge/)
-- [Saregama eyes Pocket Aces acquisition in video push](https://techcrunch.com/2023/09/21/saregama-pocket-aces/)
+- [Artifact co-founder Kevin Systrom doesn’t believe in AI doomerism](https://techcrunch.com/2023/09/21/artifact-co-founder-kevin-systrom-doesnt-believe-in-ai-doomerism/)
+- [Diligent raises $25 million to triple its nursing robot’s reach](https://techcrunch.com/2023/09/21/diligent-raises-25-million-to-triple-its-nursing-robots-reach/)
+- [Secoda secures $16M to expand its data cataloging platform](https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/)
+- [New Forethought tool lets you build workflows with natural language](https://techcrunch.com/2023/09/21/new-forethought-tool-lets-you-build-workflows-with-natural-language/)
+- [Don&#39;t panic if you see balloons hovering during America&#39;s two upcoming solar eclipses](https://www.space.com/national-eclipse-ballooning-project-solar-eclipse-research-october-april)
 <!-- BLOG-POST-LIST:END -->
 
 ---
