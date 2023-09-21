@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artifact co-founder Kevin Systrom doesn’t believe in AI doomerism](https://techcrunch.com/2023/09/21/artifact-co-founder-kevin-systrom-doesnt-believe-in-ai-doomerism/)
-- [Diligent raises $25 million to triple its nursing robot’s reach](https://techcrunch.com/2023/09/21/diligent-raises-25-million-to-triple-its-nursing-robots-reach/)
-- [Secoda secures $16M to expand its data cataloging platform](https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/)
-- [New Forethought tool lets you build workflows with natural language](https://techcrunch.com/2023/09/21/new-forethought-tool-lets-you-build-workflows-with-natural-language/)
-- [Don&#39;t panic if you see balloons hovering during America&#39;s two upcoming solar eclipses](https://www.space.com/national-eclipse-ballooning-project-solar-eclipse-research-october-april)
+- [Kindo aims to take the security stress out of AI workflows](https://techcrunch.com/2023/09/21/kindo-aims-to-take-the-security-stress-out-of-ai-workflows/)
+- [Blink-182&#39;s Tom DeLonge directs new UFO conspiracy flick &#39;Monsters of California&#39; &lpar;video&rpar;](https://www.space.com/tom-delonge-ufo-conspiracy-film-monsters-of-california-trailer)
+- [Here’s the crypto news you missed at Disrupt 2023](https://techcrunch.com/2023/09/21/heres-the-crypto-news-you-missed-at-disrupt-2023/)
+- [Anthropic’s Dario Amodei on AI’s limits: ‘I’m not sure there are any’](https://techcrunch.com/2023/09/21/anthropics-dario-amodei-on-ais-limits-im-not-sure-there-are-any/)
+- [GitHub launches passkey support into general availability](https://techcrunch.com/2023/09/21/github-passkeys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
