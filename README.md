@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads adds easy profile switching to its mobile apps](https://techcrunch.com/2023/09/22/threads-adds-easy-profile-switching-to-its-mobile-apps/)
 - [Microsoft-Activision: UK looks poised to clear restructured deal](https://techcrunch.com/2023/09/22/microsoft-activision-restructured-deal-cma/)
 - [X is shutting down its Circle feature in October](https://techcrunch.com/2023/09/21/x-is-shutting-down-its-circle-feature-in-october/)
 - [Plantiga Technologies’ AI-powered footwear sensor pod aims to reduce injury risks](https://techcrunch.com/2023/09/21/plantiga-technologies-ai-powered-footwear-sensor-pod-aims-to-reduce-injury-risks/)
 - [HME Square aims to measure glucose painlessly with photoacoustics](https://techcrunch.com/2023/09/21/hme-square-aims-to-measure-glucose-painlessly-with-photoacoustics/)
-- [Microsoft refreshes Surface Laptop Go and Laptop Studio](https://techcrunch.com/2023/09/21/microsoft-refreshes-surface-laptop-go-and-laptop-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
