@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is NASA&#39;s OSIRIS-REx asteroid sample return capsule landing on Sept. 24?](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-landing-what-time)
+- [Autumnal equinox 2023 brings fall to the Northern Hemisphere this weekend](https://www.space.com/autumnal-equinox-fall-begins-september-2023)
 - [Threads adds easy profile switching to its mobile apps](https://techcrunch.com/2023/09/22/threads-adds-easy-profile-switching-to-its-mobile-apps/)
 - [Microsoft-Activision: UK looks poised to clear restructured deal](https://techcrunch.com/2023/09/22/microsoft-activision-restructured-deal-cma/)
 - [X is shutting down its Circle feature in October](https://techcrunch.com/2023/09/21/x-is-shutting-down-its-circle-feature-in-october/)
-- [Plantiga Technologies’ AI-powered footwear sensor pod aims to reduce injury risks](https://techcrunch.com/2023/09/21/plantiga-technologies-ai-powered-footwear-sensor-pod-aims-to-reduce-injury-risks/)
-- [HME Square aims to measure glucose painlessly with photoacoustics](https://techcrunch.com/2023/09/21/hme-square-aims-to-measure-glucose-painlessly-with-photoacoustics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
