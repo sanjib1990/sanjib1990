@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA proposes rule to reduce space junk in Earth orbit](https://www.space.com/faa-proposes-rule-reduce-space-junk)
+- [Communia hopes to build a digital safe space for women](https://techcrunch.com/2023/09/21/communia-hopes-to-build-a-digital-safe-space-for-women/)
+- [TikTok may start serving you Google Search results](https://techcrunch.com/2023/09/21/tiktok-may-start-serving-you-google-search-results/)
+- [Katie Haun believes now is a good time to invest in crypto](https://techcrunch.com/2023/09/21/katie-haun-believes-now-is-a-good-time-to-invest-in-crypto/)
 - [What we learned from Microsoft’s big Xbox leak](https://techcrunch.com/2023/09/21/microsoft-xbox-leak-ftc/)
-- [And the winner of Startup Battlefield at Disrupt 2023 is… BioticsAI](https://techcrunch.com/2023/09/21/startup-battlefield-winner-techcrunch-disrupt-2023/)
-- [Inside Kinhub’s plan to democratize employee wellness](https://techcrunch.com/2023/09/21/inside-kinhubs-plan-to-democratize-employee-wellness/)
-- [eStreamly blends physical, digital shopping with the video as the star](https://techcrunch.com/2023/09/21/estreamly-livestream-shopping-battlefield/)
-- [Salesforce to acquire Airkit.ai, a low-code platform for building AI customer service agents](https://techcrunch.com/2023/09/21/salesforce-airkit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
