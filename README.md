@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LimeLoop’s sleek reusable mailers seek to replace cardboard boxes](https://techcrunch.com/2023/09/22/lime-loop-reusable-packaging/)
+- [Astronauts on ISS gaze into the eye of Hurricane Nigel &lpar;photos&rpar;](https://www.space.com/astronauts-satellites-observe-hurricane-nigel-photos)
 - [Will NASA&#39;s OSIRIS-REx stick its asteroid sample landing? Scientists are &#39;very much confident&#39; as zero hour nears](https://www.space.com/osiris-rex-asteroid-sample-landing-nasa-briefing)
 - [India tries waking up Chandrayaan-3 moon lander, without success &lpar;so far&rpar;](https://www.space.com/india-tries-waking-up-chandrayaan-3-moon-lander-rover)
 - [US Space Force launch may have accidentally punched a hole in the upper atmosphere](https://www.space.com/space-force-launch-punch-hole-in-upper-atmosphere)
-- [AquaLith might have an answer to the US battery material shortage problem](https://techcrunch.com/2023/09/22/aqualith-might-have-an-answer-to-the-us-battery-material-shortage-problem/)
-- [Bay Area baby belly beholding Battlefield bounty](https://techcrunch.com/2023/09/22/bay-area-baby-belly-beholding-battlefield-bounty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
