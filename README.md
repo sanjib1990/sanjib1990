@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Artemis 2 astronauts explore moon-like crater in Canada &lpar;photos&rpar;](https://www.space.com/artemis-2-astronauts-moon-mission-crater-expedition-canada)
+- [Amazon Prime Video will start showing ads from early next year](https://techcrunch.com/2023/09/22/amazon-prime-video-will-start-showing-ads-from-early-next-year/)
+- [South Africa’s FinanceGPT simplifies financial analysis, set to interface in local languages](https://techcrunch.com/2023/09/22/financegpt-generative-ai-tools-for-financial-analysis/)
 - [What time is NASA&#39;s OSIRIS-REx asteroid sample return capsule landing on Sept. 24?](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-landing-what-time)
 - [Autumnal equinox 2023 brings fall to the Northern Hemisphere this weekend](https://www.space.com/autumnal-equinox-fall-begins-september-2023)
-- [Threads adds easy profile switching to its mobile apps](https://techcrunch.com/2023/09/22/threads-adds-easy-profile-switching-to-its-mobile-apps/)
-- [Microsoft-Activision: UK looks poised to clear restructured deal](https://techcrunch.com/2023/09/22/microsoft-activision-restructured-deal-cma/)
-- [X is shutting down its Circle feature in October](https://techcrunch.com/2023/09/21/x-is-shutting-down-its-circle-feature-in-october/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
