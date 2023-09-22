@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Mercury reach its highest point in the morning sky early on Sept. 23](https://www.space.com/mercury-highest-altitude-september-2023)
+- [Pixel Pals delivers a cute and clever update that takes advantage of new iOS features](https://techcrunch.com/2023/09/22/pixepixel-pals-delivers-a-cute-and-clever-update-that-takes-advantage-of-new-ios-features/)
 - [Google’s Parisa Tabriz on how the company stays ahead of hackers](https://techcrunch.com/2023/09/22/google-parisa-tabriz-chrome-project-zero-hackers/)
 - [How long will the annular solar eclipse last on Oct. 14?](https://www.space.com/how-long-will-october-annular-solar-eclipse-2023-last)
 - [Hulu&#39;s &#39;No One Will Save You&#39; serves up a fresh dose of alien invasion terror &lpar;exclusive&rpar;](https://www.space.com/hulu-no-one-will-save-you-review)
-- [Power amplifier startup Falcomm to close $4M, taking on Qualcomm and Broadcom](https://techcrunch.com/2023/09/22/power-amplifier-startup-falcomm-to-close-4m-taking-on-incumbents-qualcomm-and-broadcom/)
-- [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
