@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Parisa Tabriz on how the company stays ahead of hackers](https://techcrunch.com/2023/09/22/google-parisa-tabriz-chrome-project-zero-hackers/)
+- [How long will the annular solar eclipse last on Oct. 14?](https://www.space.com/how-long-will-october-annular-solar-eclipse-2023-last)
+- [Hulu&#39;s &#39;No One Will Save You&#39; serves up a fresh dose of alien invasion terror &lpar;exclusive&rpar;](https://www.space.com/hulu-no-one-will-save-you-review)
+- [Power amplifier startup Falcomm to close $4M, taking on Qualcomm and Broadcom](https://techcrunch.com/2023/09/22/power-amplifier-startup-falcomm-to-close-4m-taking-on-incumbents-qualcomm-and-broadcom/)
 - [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
-- [&#39;Star Trek&#39; advisor warps into NASA to talk real science of sci-fi](https://www.space.com/star-trek-advisor-nasa-lecture-space-exploration)
-- [Microsoft’s mobile keyboard app SwiftKey gains new AI-powered features](https://techcrunch.com/2023/09/22/microsofts-mobile-keyboard-app-swiftkey-gains-new-ai-powered-features/)
-- [Microsoft Bing to gain more personalized answers, support for DALLE-E 3, and watermarked AI images](https://techcrunch.com/2023/09/22/microsoft-bing-to-gain-more-personalized-answers-support-for-dalle-e-3-and-watermarked-ai-images/)
-- [James Webb Space Telescope detects 1st evidence of carbon on Jupiter&#39;s icy moon Europa](https://www.space.com/europa-jupiter-moon-james-webb-space-telescope-carbon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
