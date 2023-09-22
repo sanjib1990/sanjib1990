@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See Mercury reach its highest point in the morning sky early on Sept. 23](https://www.space.com/mercury-highest-altitude-september-2023)
-- [Pixel Pals delivers a cute and clever update that takes advantage of new iOS features](https://techcrunch.com/2023/09/22/pixepixel-pals-delivers-a-cute-and-clever-update-that-takes-advantage-of-new-ios-features/)
-- [Google’s Parisa Tabriz on how the company stays ahead of hackers](https://techcrunch.com/2023/09/22/google-parisa-tabriz-chrome-project-zero-hackers/)
-- [How long will the annular solar eclipse last on Oct. 14?](https://www.space.com/how-long-will-october-annular-solar-eclipse-2023-last)
-- [Hulu&#39;s &#39;No One Will Save You&#39; serves up a fresh dose of alien invasion terror &lpar;exclusive&rpar;](https://www.space.com/hulu-no-one-will-save-you-review)
+- [Pitch Deck Teardown: Transcend’s $20M Series B deck](https://techcrunch.com/2023/09/22/sample-series-b-pitch-deck-transcend/)
+- [New poppy seed-sized fuel pellets could power nuclear reactors on the moon](https://www.space.com/moon-nuclear-power-seed-sized-fuel-pellets-reactors)
+- [TechCrunch+ Roundup: Prompt engineering, web3 gaming survey, how to spend $10K on paid ads](https://techcrunch.com/2023/09/22/techcrunch-roundup-prompt-engineering-web3-gaming-survey-how-to-spend-10k-on-paid-ads/)
+- [Bluesky saw record usage after Elon Musk announced plans to charge all X users](https://techcrunch.com/2023/09/22/bluesky-saw-record-usage-after-elon-musk-announced-plans-to-charge-all-x-users/)
+- [Yes, you have to update your Apple devices again, because spyware is bad](https://techcrunch.com/2023/09/22/update-apple-devices-pegasus-predator-spyware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
