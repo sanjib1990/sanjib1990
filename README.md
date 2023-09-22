@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chris Lehane: The SEC isn’t handling crypto regulation ‘strategically’](https://techcrunch.com/2023/09/22/chris-lehane-crypto-regulations/)
-- [Satellite spots marine heat wave off the California coast &lpar;image&rpar;](https://www.space.com/nasa-swot-satellite-images-california-ocean-warming-el-nino)
-- [Niura’s EEG-implemented earbuds scan your brain health and recommend music to your mood](https://techcrunch.com/2023/09/22/niuras-eeg-implemented-earbuds-scan-your-brain-health-and-recommend-music-to-your-mood/)
-- [US Postal Service drops new OSIRIS-REx stamp ahead of asteroid sample return](https://www.space.com/osiris-rex-usps-postage-stamp-first-day-issue)
-- [Intel &lpar;re&rpar;fined $400M by EU for ‘naked restrictions’ dating back to the noughties](https://techcrunch.com/2023/09/22/intel-refined-in-eu-antitrust-sage/)
+- [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
+- [&#39;Star Trek&#39; advisor warps into NASA to talk real science of sci-fi](https://www.space.com/star-trek-advisor-nasa-lecture-space-exploration)
+- [Microsoft’s mobile keyboard app SwiftKey gains new AI-powered features](https://techcrunch.com/2023/09/22/microsofts-mobile-keyboard-app-swiftkey-gains-new-ai-powered-features/)
+- [Microsoft Bing to gain more personalized answers, support for DALLE-E 3, and watermarked AI images](https://techcrunch.com/2023/09/22/microsoft-bing-to-gain-more-personalized-answers-support-for-dalle-e-3-and-watermarked-ai-images/)
+- [James Webb Space Telescope detects 1st evidence of carbon on Jupiter&#39;s icy moon Europa](https://www.space.com/europa-jupiter-moon-james-webb-space-telescope-carbon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
