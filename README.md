@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Postal Service drops new OSIRIS-REx stamp ahead of asteroid sample return](https://www.space.com/osiris-rex-usps-postage-stamp-first-day-issue)
+- [Intel &lpar;re&rpar;fined $400M by EU for ‘naked restrictions’ dating back to the noughties](https://techcrunch.com/2023/09/22/intel-refined-in-eu-antitrust-sage/)
 - [See Artemis 2 astronauts explore moon-like crater in Canada &lpar;photos&rpar;](https://www.space.com/artemis-2-astronauts-moon-mission-crater-expedition-canada)
 - [Amazon Prime Video will start showing ads from early next year](https://techcrunch.com/2023/09/22/amazon-prime-video-will-start-showing-ads-from-early-next-year/)
 - [South Africa’s FinanceGPT simplifies financial analysis, set to interface in local languages](https://techcrunch.com/2023/09/22/financegpt-generative-ai-tools-for-financial-analysis/)
-- [What time is NASA&#39;s OSIRIS-REx asteroid sample return capsule landing on Sept. 24?](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-landing-what-time)
-- [Autumnal equinox 2023 brings fall to the Northern Hemisphere this weekend](https://www.space.com/autumnal-equinox-fall-begins-september-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
