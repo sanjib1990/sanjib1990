@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will NASA&#39;s OSIRIS-REx stick its asteroid sample landing? Scientists are &#39;very much confident&#39; as zero hour nears](https://www.space.com/osiris-rex-asteroid-sample-landing-nasa-briefing)
+- [India tries waking up Chandrayaan-3 moon lander, without success &lpar;so far&rpar;](https://www.space.com/india-tries-waking-up-chandrayaan-3-moon-lander-rover)
 - [US Space Force launch may have accidentally punched a hole in the upper atmosphere](https://www.space.com/space-force-launch-punch-hole-in-upper-atmosphere)
 - [AquaLith might have an answer to the US battery material shortage problem](https://techcrunch.com/2023/09/22/aqualith-might-have-an-answer-to-the-us-battery-material-shortage-problem/)
 - [Bay Area baby belly beholding Battlefield bounty](https://techcrunch.com/2023/09/22/bay-area-baby-belly-beholding-battlefield-bounty/)
-- [Everything we know about Homeworld 3: Release date, platforms, gameplay, trailers](https://www.space.com/everything-we-know-about-homeworld-3)
-- [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
