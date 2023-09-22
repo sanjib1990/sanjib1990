@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X is shutting down its Circle feature in October](https://techcrunch.com/2023/09/21/x-is-shutting-down-its-circle-feature-in-october/)
 - [Plantiga Technologies’ AI-powered footwear sensor pod aims to reduce injury risks](https://techcrunch.com/2023/09/21/plantiga-technologies-ai-powered-footwear-sensor-pod-aims-to-reduce-injury-risks/)
 - [HME Square aims to measure glucose painlessly with photoacoustics](https://techcrunch.com/2023/09/21/hme-square-aims-to-measure-glucose-painlessly-with-photoacoustics/)
 - [Microsoft refreshes Surface Laptop Go and Laptop Studio](https://techcrunch.com/2023/09/21/microsoft-refreshes-surface-laptop-go-and-laptop-studio/)
 - [FAA proposes rule to reduce space junk in Earth orbit](https://www.space.com/faa-proposes-rule-reduce-space-junk)
-- [Communia hopes to build a digital safe space for women](https://techcrunch.com/2023/09/21/communia-hopes-to-build-a-digital-safe-space-for-women/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
