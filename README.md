@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force launch may have accidentally punched a hole in the upper atmosphere](https://www.space.com/space-force-launch-punch-hole-in-upper-atmosphere)
+- [AquaLith might have an answer to the US battery material shortage problem](https://techcrunch.com/2023/09/22/aqualith-might-have-an-answer-to-the-us-battery-material-shortage-problem/)
 - [Bay Area baby belly beholding Battlefield bounty](https://techcrunch.com/2023/09/22/bay-area-baby-belly-beholding-battlefield-bounty/)
+- [Everything we know about Homeworld 3: Release date, platforms, gameplay, trailers](https://www.space.com/everything-we-know-about-homeworld-3)
 - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
-- [Pitch Deck Teardown: Transcend’s $20M Series B deck](https://techcrunch.com/2023/09/22/sample-series-b-pitch-deck-transcend/)
-- [New poppy seed-sized fuel pellets could power nuclear reactors on the moon](https://www.space.com/moon-nuclear-power-seed-sized-fuel-pellets-reactors)
-- [TechCrunch+ Roundup: Prompt engineering, web3 gaming survey, how to spend $10K on paid ads](https://techcrunch.com/2023/09/22/techcrunch-roundup-prompt-engineering-web3-gaming-survey-how-to-spend-10k-on-paid-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
