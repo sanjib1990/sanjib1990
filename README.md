@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HME Square aims to measure glucose painlessly with photoacoustics](https://techcrunch.com/2023/09/21/hme-square-aims-to-measure-glucose-painlessly-with-photoacoustics/)
+- [Microsoft refreshes Surface Laptop Go and Laptop Studio](https://techcrunch.com/2023/09/21/microsoft-refreshes-surface-laptop-go-and-laptop-studio/)
 - [FAA proposes rule to reduce space junk in Earth orbit](https://www.space.com/faa-proposes-rule-reduce-space-junk)
 - [Communia hopes to build a digital safe space for women](https://techcrunch.com/2023/09/21/communia-hopes-to-build-a-digital-safe-space-for-women/)
 - [TikTok may start serving you Google Search results](https://techcrunch.com/2023/09/21/tiktok-may-start-serving-you-google-search-results/)
-- [Katie Haun believes now is a good time to invest in crypto](https://techcrunch.com/2023/09/21/katie-haun-believes-now-is-a-good-time-to-invest-in-crypto/)
-- [What we learned from Microsoft’s big Xbox leak](https://techcrunch.com/2023/09/21/microsoft-xbox-leak-ftc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
