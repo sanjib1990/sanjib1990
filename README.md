@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA&#39;s OSIRIS-REx asteroid probe approach Earth tonight with free telescope livestream](https://www.space.com/osiris-rex-asteroid-sample-return-telescope-livestream)
+- [How NASA&#39;s OSIRIS-REx mission will help protect Earth against asteroid Bennu and its flyby in 2182](https://www.space.com/asteroid-bennu-most-likely-to-hit-earth-2182)
 - [OSIRIS-REx probe will bring pristine asteroid samples to Earth on Sept. 24. Watch it live](https://www.space.com/osiris-rex-asteroid-delivery-earth-webcast)
 - [Alien life may not be carbon-based, new study suggests](https://www.space.com/alien-life-not-carbon-based-autocatalysis-common)
 - [No, the OSIRIS-REx probe will not bring back asteroid space &#39;germs&#39;](https://www.space.com/nasa-osiris-rex-will-not-bring-home-space-germs)
-- [India’s PhonePe launches app store with zero fee in challenge to Google](https://techcrunch.com/2023/09/22/phonepe-indus-appstore-walmart/)
-- [How CFOs can reduce SaaS spend by 30% in these tough times](https://techcrunch.com/2023/09/22/how-cfos-can-reduce-saas-spend-by-30-in-these-tough-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
