@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disability tech startups kill the cynic in me](https://techcrunch.com/2023/09/23/disability-tech-startup-battlefield/)
 - [SpaceX rocket to launch on record-tying 17th mission tonight](https://www.space.com/spacex-starlink-launch-group-6-18)
 - [Humans battle hostile AI in final trailer and first clip from new sci-fi thriller, &#39;The Creator&#39; &lpar;video&rpar;](https://www.space.com/final-trailer-the-creator-humans-battle-ai)
 - [Sky Map stargazing app review](https://www.space.com/sky-map-stargazing-app-review)
 - [Watch NASA&#39;s OSIRIS-REx asteroid probe approach Earth tonight with free telescope livestream](https://www.space.com/osiris-rex-asteroid-sample-return-telescope-livestream)
-- [How NASA&#39;s OSIRIS-REx mission will help protect Earth against asteroid Bennu and its flyby in 2182](https://www.space.com/asteroid-bennu-most-likely-to-hit-earth-2182)
 <!-- BLOG-POST-LIST:END -->
 
 ---
