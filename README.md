@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s OSIRIS-REx capsule just landed with samples of asteroid Bennu. Next stop: Texas](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-next-stop-texas)
-- [NASA&#39;s OSIRIS-REx returns samples of asteroid Bennu to Earth after historic 4-billion-mile journey](https://www.space.com/nasa-osiris-rex-success-recovery-asteroid-sample)
+- [NASA&#39;s OSIRIS-REx lands samples of asteroid Bennu to Earth after historic 4-billion-mile journey](https://www.space.com/nasa-osiris-rex-success-recovery-asteroid-sample)
 - [Building an equitable cap table puts more tools in a startup’s toolbox](https://techcrunch.com/2023/09/24/equitable-cap-table-tools/)
 - [Despite the ups and downs of the fintech space, people still really care about it](https://techcrunch.com/2023/09/24/fintech-disrupt-edition/)
 - [SpaceX to launch 21 Starlink satellites from California early on Sept. 25](https://www.space.com/spacex-starlink-launch-group-7-3)
