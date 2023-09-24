@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s OSIRIS-REx spacecraft releases asteroid sample capsule toward Earth in flyby, heads to Apophis](https://www.space.com/osiris-rex-releases-asteroid-sample-return-capsule-heads-to-apophis)
+- [Spending time in space can harm the human body — but scientists are working to mitigate these risks before sending people to Mars](https://www.space.com/space-harm-body-scientists-work-to-mitigate-before-mars)
 - [Mathematicians find 12,000 new solutions to &#39;unsolvable&#39; 3-body problem](https://www.space.com/mathematicians-unsolvable-3-body-problem-12000-solutions)
 - [Elon Musk threatens to charge for X, OpenAI launches DALL-E 3 and Cisco acquires Splunk](https://techcrunch.com/2023/09/23/elon-musk-threatens-to-charge-for-x-openai-launches-dall-e-3-and-cisco-acquires-splunk/)
 - [Disability tech startups kill the cynic in me](https://techcrunch.com/2023/09/23/disability-tech-startup-battlefield/)
-- [SpaceX rocket launches on record-tying 17th mission](https://www.space.com/spacex-starlink-launch-group-6-18)
-- [Humans battle hostile AI in final trailer and first clip from new sci-fi thriller, &#39;The Creator&#39; &lpar;video&rpar;](https://www.space.com/final-trailer-the-creator-humans-battle-ai)
 <!-- BLOG-POST-LIST:END -->
 
 ---
