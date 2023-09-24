@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Elon Musk threatens to charge for X, OpenAI launches DALL-E 3 and Cisco acquires Splunk](https://techcrunch.com/2023/09/23/elon-musk-threatens-to-charge-for-x-openai-launches-dall-e-3-and-cisco-acquires-splunk/)
 - [Disability tech startups kill the cynic in me](https://techcrunch.com/2023/09/23/disability-tech-startup-battlefield/)
-- [SpaceX rocket to launch on record-tying 17th mission tonight](https://www.space.com/spacex-starlink-launch-group-6-18)
+- [SpaceX rocket launches on record-tying 17th mission](https://www.space.com/spacex-starlink-launch-group-6-18)
 - [Humans battle hostile AI in final trailer and first clip from new sci-fi thriller, &#39;The Creator&#39; &lpar;video&rpar;](https://www.space.com/final-trailer-the-creator-humans-battle-ai)
 - [Sky Map stargazing app review](https://www.space.com/sky-map-stargazing-app-review)
 <!-- BLOG-POST-LIST:END -->
