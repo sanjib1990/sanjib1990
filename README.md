@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 21 Starlink satellites from California early on Sept. 25](https://www.space.com/spacex-starlink-launch-group-7-3)
 - [NASA&#39;s OSIRIS-REx spacecraft releases asteroid sample capsule toward Earth in flyby, heads to Apophis](https://www.space.com/osiris-rex-releases-asteroid-sample-return-capsule-heads-to-apophis)
 - [Spending time in space can harm the human body — but scientists are working to mitigate these risks before sending people to Mars](https://www.space.com/space-harm-body-scientists-work-to-mitigate-before-mars)
 - [Mathematicians find 12,000 new solutions to &#39;unsolvable&#39; 3-body problem](https://www.space.com/mathematicians-unsolvable-3-body-problem-12000-solutions)
 - [Elon Musk threatens to charge for X, OpenAI launches DALL-E 3 and Cisco acquires Splunk](https://techcrunch.com/2023/09/23/elon-musk-threatens-to-charge-for-x-openai-launches-dall-e-3-and-cisco-acquires-splunk/)
-- [Disability tech startups kill the cynic in me](https://techcrunch.com/2023/09/23/disability-tech-startup-battlefield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
