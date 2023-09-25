@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Things got disrupted](https://techcrunch.com/2023/09/25/max-q-things-got-disrupted/)
+- [OSIRIS-REx&#39;s asteroid sample lands in Houston &lpar;photos&rpar;](https://www.space.com/osiris-rex-asteroid-samples-land-houston)
+- [Apple executives break down AirPods’ new features](https://techcrunch.com/2023/09/25/apple-executives-break-down-airpods-new-features/)
+- [NASA asks for &#39;space tug&#39; ideas to deorbit International Space Station](https://www.space.com/nasa-international-space-station-tug-deorbit-ideas)
 - [NASA&#39;s delayed VERITAS Venus mission tests key technology in Iceland &lpar;photos&rpar;](https://www.space.com/nasa-venus-veritas-mission-tests-tech-iceland)
-- [Storybutton wants to redesign the radio for Gen Alpha podcast listeners](https://techcrunch.com/2023/09/25/storybutton-wants-to-redesign-the-radio-for-gen-alpha-podcast-listeners/)
-- [NASA&#39;s Perseverance rover sets record for longest Martian drive without human review](https://www.space.com/perserverance-mars-rover-boulder-field-maneuvers)
-- [‘Nobody has lost their job because of what we do,’ says CEO of film industry AI tool](https://techcrunch.com/2023/09/25/ai-writers-strike-film-industry/)
-- [James Webb Space Telescope sees early galaxies defying &#39;cosmic rulebook&#39; of star formation](https://www.space.com/james-webb-space-telescope-early-galaxies-cosmic-rulebook)
 <!-- BLOG-POST-LIST:END -->
 
 ---
