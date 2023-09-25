@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You can make INVISIBLE folders?!?!](https://www.youtube.com/watch?v=nvRghr_pdoI)
 - [get past paywalls for FREE!!](https://www.youtube.com/watch?v=3WRJOES-gAw)
 - [CMPRSN &lpar;Compression Overview&rpar; - Computerphile](https://www.youtube.com/watch?v=Z4AgvG2Xg0k)
 - [13. The Battle of the Sexes: Love and Evolution &lpar;audio only&rpar;](https://www.youtube.com/watch?v=LzGIpm5UFCg)
 - [23. Successful Disasters: Date Rape &lpar;audio only&rpar;](https://www.youtube.com/watch?v=oM5OgMz4g_M)
-- [12. Intelligence: How Do We Know You Are Smart? &lpar;audio only&rpar;](https://www.youtube.com/watch?v=3LXkRwfXIYA)
 <!-- YOUTUBE:END -->
 
 ---
