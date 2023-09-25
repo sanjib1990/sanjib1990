@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After NASA&#39;s epic OSIRIS-REx capsule landing success, spacecraft heads to asteroid Apophis on new mission](https://www.space.com/osiris-rex-next-step-visit-asteroid-apophis)
+- [Our entire galaxy is warping, and a gigantic blob of dark matter could be to blame](https://www.space.com/milky-way-galaxy-warping-blob-dark-matter)
 - [Amazon to invest up to $4 billion in AI startup Anthropic](https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/)
 - [Correcto grabs $7M to build out its ‘Grammarly for Spanish’](https://techcrunch.com/2023/09/24/correcto-seed/)
 - [California governor vetoes bill to ban driverless AV trucks](https://techcrunch.com/2023/09/24/california-governor-vetoes-bill-to-ban-driverless-av-trucks/)
-- [A conversation with Cruise’s Kyle Vogt, Bird scoops up Spin, and self-driving trucks live to see another day in Cali](https://techcrunch.com/2023/09/24/a-conversation-with-cruises-kyle-vogt-bird-scoops-up-spin-and-self-driving-trucks-live-to-see-another-day-in-cali/)
-- [NASA&#39;s OSIRIS-REx capsule just landed with samples of asteroid Bennu. Next stop: Texas](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-next-stop-texas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
