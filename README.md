@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s delayed VERITAS Venus mission tests key technology in Iceland &lpar;photos&rpar;](https://www.space.com/nasa-venus-veritas-mission-tests-tech-iceland)
+- [Storybutton wants to redesign the radio for Gen Alpha podcast listeners](https://techcrunch.com/2023/09/25/storybutton-wants-to-redesign-the-radio-for-gen-alpha-podcast-listeners/)
+- [NASA&#39;s Perseverance rover sets record for longest Martian drive without human review](https://www.space.com/perserverance-mars-rover-boulder-field-maneuvers)
 - [‘Nobody has lost their job because of what we do,’ says CEO of film industry AI tool](https://techcrunch.com/2023/09/25/ai-writers-strike-film-industry/)
 - [James Webb Space Telescope sees early galaxies defying &#39;cosmic rulebook&#39; of star formation](https://www.space.com/james-webb-space-telescope-early-galaxies-cosmic-rulebook)
-- [Getty Images launches an AI-powered image generator](https://techcrunch.com/2023/09/25/getty-images-launches-an-ai-powered-image-generator/)
-- [The recent tech IPOs are flirting with negative territory](https://techcrunch.com/2023/09/25/the-recent-tech-ipos-are-flirting-with-negative-territory/)
-- [Reddit will start paying you real money for good posts](https://techcrunch.com/2023/09/25/reddit-will-start-paying-you-real-money-for-your-karma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
