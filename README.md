@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear &#39;pasta&#39; cooked up by dead stars could unravel the secrets of stellar afterlife](https://www.space.com/nuclear-pasta-dead-stars-stellar-afterlife)
+- [Notetaking app Goodnotes invests $1.9M in digital stationary company WeBudding](https://techcrunch.com/2023/09/25/notetaking-app-goodnotes-invests-1-9m-in-digital-stationary-company-webudding/)
+- [Google expands its subsea cable infrastructure with Nuvem, connecting the U.S., Bermuda, and Portugal](https://techcrunch.com/2023/09/25/google-nuvem-subsea-cable/)
 - [After NASA&#39;s epic OSIRIS-REx capsule landing success, spacecraft heads to asteroid Apophis on new mission](https://www.space.com/osiris-rex-next-step-visit-asteroid-apophis)
 - [Our entire galaxy is warping, and a gigantic blob of dark matter could be to blame](https://www.space.com/milky-way-galaxy-warping-blob-dark-matter)
-- [Amazon to invest up to $4 billion in AI startup Anthropic](https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/)
-- [Correcto grabs $7M to build out its ‘Grammarly for Spanish’](https://techcrunch.com/2023/09/24/correcto-seed/)
-- [California governor vetoes bill to ban driverless AV trucks](https://techcrunch.com/2023/09/24/california-governor-vetoes-bill-to-ban-driverless-av-trucks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
