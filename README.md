@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last supermoon of 2023 rises this week. Don&#39;t miss the Harvest Moon shine with 3 bright planets](https://www.space.com/harvest-full-moon-fourth-supermoon-2023-planet-parade)
-- [OpenAI gives ChatGPT a voice for verbal conversations](https://techcrunch.com/2023/09/25/openai-chatgpt-voice/)
-- [Elicit is building a tool to automate scientific literature review](https://techcrunch.com/2023/09/25/elicit-is-building-a-tool-to-automate-scientific-literature-review/)
-- [Heating and cooling space habitats isn’t easy – one engineering team is developing a lighter, more efficient solution](https://www.space.com/space-habitiat-heating-cooling-engineering-team-solution)
-- [Nuclear &#39;pasta&#39; cooked up by dead stars could unravel the secrets of stellar afterlife](https://www.space.com/nuclear-pasta-dead-stars-stellar-afterlife)
+- [Possible hints of life found on distant planet – how excited should we be?](https://www.space.com/possible-hints-of-life-exoplanet-expert-voices-conversation)
+- [The current labor market is a gold mine of talent for startups](https://techcrunch.com/2023/09/25/the-current-labor-market-is-a-gold-mine-of-talent-for-startups/)
+- [Sky Tonight Star Gazer Guide stargazing app review](https://www.space.com/reviews/sky-tonight-star-gazer-guide-stargazing-app-review)
+- [X will make audio and video calls a premium subscriber-only feature](https://techcrunch.com/2023/09/25/x-will-make-audio-and-video-calls-a-premium-subscriber-only-feature/)
+- [NASA&#39;s OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
