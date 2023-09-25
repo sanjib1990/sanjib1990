@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford halts work on $3.5B EV battery factory with China’s CATL](https://techcrunch.com/2023/09/25/ford-halts-work-on-3-5b-ev-battery-factory-with-chinas-catl/)
+- [Signal’s Meredith Whittaker: AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
+- [New SEC cybersecurity disclosure rules: What you need to know to stay in compliance](https://techcrunch.com/2023/09/25/new-sec-cybersecurity-disclosure-rules-what-you-need-to-know-to-stay-in-compliance/)
 - [Max Q: Things got disrupted](https://techcrunch.com/2023/09/25/max-q-things-got-disrupted/)
 - [OSIRIS-REx&#39;s asteroid sample lands in Houston &lpar;photos&rpar;](https://www.space.com/osiris-rex-asteroid-samples-land-houston)
-- [Apple executives break down AirPods’ new features](https://techcrunch.com/2023/09/25/apple-executives-break-down-airpods-new-features/)
-- [NASA asks for &#39;space tug&#39; ideas to deorbit International Space Station](https://www.space.com/nasa-international-space-station-tug-deorbit-ideas)
-- [NASA&#39;s delayed VERITAS Venus mission tests key technology in Iceland &lpar;photos&rpar;](https://www.space.com/nasa-venus-veritas-mission-tests-tech-iceland)
 <!-- BLOG-POST-LIST:END -->
 
 ---
