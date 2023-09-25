@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Correcto grabs $7M to build out its ‘Grammarly for Spanish’](https://techcrunch.com/2023/09/24/correcto-seed/)
 - [California governor vetoes bill to ban driverless AV trucks](https://techcrunch.com/2023/09/24/california-governor-vetoes-bill-to-ban-driverless-av-trucks/)
 - [A conversation with Cruise’s Kyle Vogt, Bird scoops up Spin, and self-driving trucks live to see another day in Cali](https://techcrunch.com/2023/09/24/a-conversation-with-cruises-kyle-vogt-bird-scoops-up-spin-and-self-driving-trucks-live-to-see-another-day-in-cali/)
 - [NASA&#39;s OSIRIS-REx capsule just landed with samples of asteroid Bennu. Next stop: Texas](https://www.space.com/nasa-osiris-rex-asteroid-sample-return-next-stop-texas)
 - [NASA&#39;s OSIRIS-REx lands samples of asteroid Bennu to Earth after historic 4-billion-mile journey](https://www.space.com/nasa-osiris-rex-success-recovery-asteroid-sample)
-- [Building an equitable cap table puts more tools in a startup’s toolbox](https://techcrunch.com/2023/09/24/equitable-cap-table-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
