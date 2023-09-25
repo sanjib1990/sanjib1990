@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers steal $200 million from crypto company Mixin](https://techcrunch.com/2023/09/25/hackers-steal-200-million-from-crypto-company-mixin/)
 - [Nx lands $16M to build ‘monorepo’ tools for software devs](https://techcrunch.com/2023/09/25/nx-lands-16m-to-build-monorepo-tools-for-software-devs/)
 - [What’s the best way to run a startup in a world full of advice?](https://techcrunch.com/2023/09/25/whats-the-best-way-to-run-a-startup-in-a-world-full-of-advice/)
 - [VC firm Fuse closes $250M fund to invest in Pacific Northwest startups](https://techcrunch.com/2023/09/25/vc-firm-fuse-closes-250m-fund-to-invest-in-pacific-northwest-startups/)
 - [&#39;I literally broke into tears&#39;: The scientist leading NASA&#39;s epic OSIRIS-REx asteroid mission just had the greatest day ever](https://www.space.com/nasa-osiris-rex-dante-lauretta-parachute-emotions)
-- [Decade of newborn child registry data stolen in MOVEit mass-hack](https://techcrunch.com/2023/09/25/decade-of-newborn-child-registry-data-stolen-in-moveit-mass-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
