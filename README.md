@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last supermoon of 2023 rises this week. Don&#39;t miss the Harvest Moon shine with 3 bright planets](https://www.space.com/harvest-full-moon-fourth-supermoon-2023-planet-parade)
+- [OpenAI gives ChatGPT a voice for verbal conversations](https://techcrunch.com/2023/09/25/openai-chatgpt-voice/)
 - [Elicit is building a tool to automate scientific literature review](https://techcrunch.com/2023/09/25/elicit-is-building-a-tool-to-automate-scientific-literature-review/)
 - [Heating and cooling space habitats isn’t easy – one engineering team is developing a lighter, more efficient solution](https://www.space.com/space-habitiat-heating-cooling-engineering-team-solution)
 - [Nuclear &#39;pasta&#39; cooked up by dead stars could unravel the secrets of stellar afterlife](https://www.space.com/nuclear-pasta-dead-stars-stellar-afterlife)
-- [Notetaking app Goodnotes invests $1.9M in digital stationary company WeBudding](https://techcrunch.com/2023/09/25/notetaking-app-goodnotes-invests-1-9m-in-digital-stationary-company-webudding/)
-- [Google expands its subsea cable infrastructure with Nuvem, connecting the U.S., Bermuda, and Portugal](https://techcrunch.com/2023/09/25/google-nuvem-subsea-cable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
