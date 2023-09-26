@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify launches Jam, a real-time collaborative playlist controlled by up to 32 people](https://techcrunch.com/2023/09/26/spotify-launches-jam-a-real-time-collaborative-playlist-controlled-by-up-to-32-people/)
+- [Google is killing Gmail’s basic HTML view in 2024](https://techcrunch.com/2023/09/25/google-is-killing-gmails-basic-html-view-in-2024/)
 - [Telegram starts to look like a super app, echoing WeChat](https://techcrunch.com/2023/09/25/telegram-wechat-super-app-ton-foundation/)
 - [Amazon’s outgoing Echo head is Blue Origin’s new CEO](https://techcrunch.com/2023/09/25/amazons-outgoing-echo-head-is-blue-origins-new-ceo/)
 - [Ford halts work on $3.5B EV battery factory with China’s CATL](https://techcrunch.com/2023/09/25/ford-halts-work-on-3-5b-ev-battery-factory-with-chinas-catl/)
-- [Signal’s Meredith Whittaker: AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
-- [New SEC cybersecurity disclosure rules: What you need to know to stay in compliance](https://techcrunch.com/2023/09/25/new-sec-cybersecurity-disclosure-rules-what-you-need-to-know-to-stay-in-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
