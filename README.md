@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Solana, Polygon and Aptos expect the enterprise to drive mass adoption](https://techcrunch.com/2023/09/26/why-solana-polygon-and-aptos-expect-the-enterprise-to-drive-mass-adoption/)
+- [This TRAPPIST-1 exoplanet seems to have no atmosphere — the truth may hide in its star, James Webb Space Telescope reveals](https://www.space.com/james-webb-space-telescope-discovers-trappist-1-might-not-be-habitable)
+- [TechCrunch+ Roundup: Slashing SaaS costs, FedNow’s ‘game changer,’ diverse cap tables](https://techcrunch.com/2023/09/26/techcrunch-roundup-slashing-saas-costs-fednows-game-changer-diverse-cap-tables/)
+- [Deepfake election risks trigger EU call for more generative AI safeguards](https://techcrunch.com/2023/09/26/generative-ai-disinformation-risks/)
 - [James Webb Space Telescope reveals ancient galaxies were more structured than scientists thought](https://www.space.com/james-webb-space-telescope-evolved-galaxy-early-universe)
-- [Found: Live from TechCrunch Disrupt with cybersecurity trailblazer Window Snyder from Thistle Technologies](https://techcrunch.com/2023/09/26/found-live-from-techcrunch-disrupt-with-cybersecurity-trailblazer-window-snyder-from-thistle-technologies/)
-- [Uber is getting tighter with taxi companies](https://techcrunch.com/2023/09/26/uber-is-getting-tighter-with-taxi-companies/)
-- [Bootstrapping is cool once again](https://techcrunch.com/2023/09/26/bootstrapping-is-cool-once-again/)
-- [The FTC just hit Amazon with a major antitrust lawsuit](https://techcrunch.com/2023/09/26/the-ftc-just-hit-amazon-with-a-major-antitrust-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
