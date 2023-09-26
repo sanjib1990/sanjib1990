@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Erudit raises $10M to monitor workplaces for ‘misalignment’](https://techcrunch.com/2023/09/26/erudit-raises-10m-to-monitor-workplaces-for-misalignment/)
-- [FedNow’s legal terms contain a game changer for digital wallets and payment apps](https://techcrunch.com/2023/09/26/fednows-legal-terms-contain-a-game-changer-for-digital-wallets-and-payment-apps/)
-- [SpaceX flight-proven rocket hardware to go on display at Smithsonian](https://www.space.com/spacex-artifacts-smithsonian-air-space-museum)
-- [Crediverso takes on legal after $3.5M capital infusion](https://techcrunch.com/2023/09/26/crediverso-legal-tech-3-5m/)
-- [Sequoia backs PartyKit to power real-time multiplayer collaboration for any app](https://techcrunch.com/2023/09/26/sequoia-backs-partykit-to-power-real-time-multiplayer-collaboration-for-any-app/)
+- [X &lpar;formerly Twitter&rpar; is worst for disinformation, per EU analysis](https://techcrunch.com/2023/09/26/x-failing-eu-disinformation/)
+- [Series, which aims to replace ERP systems, lands $25M](https://techcrunch.com/2023/09/26/series-which-aims-to-replace-erp-systems-lands-25m/)
+- [Learn the true stories of NASA&#39;s 1st women astronauts in new book &#39;The Six&#39; &lpar;exclusive&rpar;](https://www.space.com/the-six-loren-grush-book-first-women-nasa-astronauts-interview)
+- [Starpath Robotics wants to mine moon water for rocket fuel for off-world colonies](https://techcrunch.com/2023/09/26/starpath-robotics-wants-to-unlock-off-world-colonies-by-mining-moon-water-for-rocket-fuel/)
+- [Tubi to launch content discovery tool powered by OpenAI’s ChatGPT-4](https://techcrunch.com/2023/09/26/tubi-to-launch-content-discovery-tool-powered-by-openais-chatgpt-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
