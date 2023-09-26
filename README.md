@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Solana, Polygon and Aptos expect the enterprise to drive mass adoption](https://techcrunch.com/2023/09/26/why-solana-polygon-and-aptos-expect-the-enterprise-to-drive-mass-adoption/)
-- [This TRAPPIST-1 exoplanet seems to have no atmosphere — the truth may hide in its star, James Webb Space Telescope reveals](https://www.space.com/james-webb-space-telescope-discovers-trappist-1-might-not-be-habitable)
-- [TechCrunch+ Roundup: Slashing SaaS costs, FedNow’s ‘game changer,’ diverse cap tables](https://techcrunch.com/2023/09/26/techcrunch-roundup-slashing-saas-costs-fednows-game-changer-diverse-cap-tables/)
-- [Deepfake election risks trigger EU call for more generative AI safeguards](https://techcrunch.com/2023/09/26/generative-ai-disinformation-risks/)
-- [James Webb Space Telescope reveals ancient galaxies were more structured than scientists thought](https://www.space.com/james-webb-space-telescope-evolved-galaxy-early-universe)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Accidental 1-year astronaut crew hands over command of ISS ahead of Sept. 27 landing](https://www.space.com/iss-one-year-crew-handover-september-2023)
+- [FCC announces plans to reinstate net neutrality](https://techcrunch.com/2023/09/26/fcc-announces-plans-to-reinstate-net-neutrality/)
+- [Open Robotics’ ROS is in safe grippers with Alphabet, says Intrinsic](https://techcrunch.com/2023/09/26/is-open-robotics-ros-safe-with-alphabet/)
+- [Sierra Space raises $290M at a $5.3B valuation](https://techcrunch.com/2023/09/26/sierra-space-raises-290m-at-a-5-3b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
