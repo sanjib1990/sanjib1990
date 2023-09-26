@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kolena, a startup building tools to test AI models, raises $15M](https://techcrunch.com/2023/09/26/kolena-a-startup-building-tools-to-test-ai-models-raises-15m/)
-- [Byju’s to cut as many as 5,000 more jobs amid business restructuring](https://techcrunch.com/2023/09/26/byjus-to-cut-as-many-as-5000-more-jobs-amid-business-restructuring/)
-- [Photo-sharing app Lapse hits top of the App Store by forcing you to invite your friends](https://techcrunch.com/2023/09/26/photo-sharing-app-lapse-hits-top-of-the-app-store-by-forcing-you-to-invite-your-friends/)
-- [Alchemist Accelerator’s latest startups range from sneakernet for energy to solar panel cleaning bots](https://techcrunch.com/2023/09/26/alchemist-accelerators-latest-startups-range-from-sneakernet-for-energy-to-solar-panel-cleaning-bots/)
-- [Tech layoffs are all but a thing of the past](https://techcrunch.com/2023/09/26/tech-layoffs-are-all-but-a-thing-of-the-past/)
+- [James Webb Space Telescope reveals ancient galaxies were more structured than scientists thought](https://www.space.com/james-webb-space-telescope-evolved-galaxy-early-universe)
+- [Found: Live from TechCrunch Disrupt with cybersecurity trailblazer Window Snyder from Thistle Technologies](https://techcrunch.com/2023/09/26/found-live-from-techcrunch-disrupt-with-cybersecurity-trailblazer-window-snyder-from-thistle-technologies/)
+- [Uber is getting tighter with taxi companies](https://techcrunch.com/2023/09/26/uber-is-getting-tighter-with-taxi-companies/)
+- [Bootstrapping is cool once again](https://techcrunch.com/2023/09/26/bootstrapping-is-cool-once-again/)
+- [The FTC just hit Amazon with a major antitrust lawsuit](https://techcrunch.com/2023/09/26/the-ftc-just-hit-amazon-with-a-major-antitrust-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
