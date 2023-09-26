@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New AI algorithm can detect signs of life with 90% accuracy. Scientists want to send it to Mars](https://www.space.com/new-ai-method-detect-life-rock-samples-90-percent-accuracy)
+- [Talkdesk conducts third round of layoffs in less than 14 months](https://techcrunch.com/2023/09/26/talkdesk-conducts-third-round-of-layoffs-in-less-than-14-months/)
+- [Artemis 2 moon rocket now has all 4 powerful engines on board &lpar;photo&rpar;](https://www.space.com/artemis-2-moon-mission-space-launch-system-engines-core-stage)
 - [New Lockheed Martin system will manage satellite constellations from the cloud using AI](https://www.space.com/lockheed-martin-manage-satellite-constellations-cloud-artificial-intelligence)
 - [These Navajo Tribal Parks will be closed during the Oct. 14 annular solar eclipse](https://www.space.com/annular-solar-eclipse-october-2023-closed-navajo-locations)
-- [Fungi creepily infiltrates space stations — but scientists aren&#39;t scared. They&#39;re excited](https://www.space.com/fungus-in-space-long-duration-astronaut-missions)
-- [Watch a NASA astronaut and 2 cosmonauts return to Earth after 1 year in space on Sept. 27](https://www.space.com/one-year-astronaut-cosmonauts-soyuz-landing-september-2023-livestream)
-- [OpenAI is reportedly raising funds at a valuation of $80 billion to $90 billion](https://techcrunch.com/2023/09/26/openai-is-reportedly-raising-funds-at-a-valuation-of-80-billion-to-90-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
