@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Connect 2023: How to watch the Quest 3 reveal](https://techcrunch.com/2023/09/26/meta-connect-2023-how-to-watch-the-quest-3-reveal/)
+- [Nikon Aculon T02 8x21 binocular review](https://www.space.com/nikon-aculon-t02-8x21-binocular-review)
+- [Apple Podcasts adds original programming from Apple Music, Apple News+ and other apps](https://techcrunch.com/2023/09/26/apple-podcasts-adds-original-programming-from-apple-music-apple-news-and-other-apps/)
 - [Agility Robotics: Our robot won’t be armed or take your jobs](https://techcrunch.com/2023/09/26/agility-robotics-disrupt/)
 - [Why the public sector is an easy target for ransomware](https://techcrunch.com/2023/09/26/ransomware-public-sector-fight-back/)
-- [Google Podcasts to shut down in 2024 with listeners migrated to YouTube Music](https://techcrunch.com/2023/09/26/google-podcasts-to-shut-down-in-2024-with-listeners-migrated-to-youtube-music/)
-- [Meta says separate account deletion for Threads will roll out by December](https://techcrunch.com/2023/09/26/meta-says-separate-account-deletion-for-threads-will-roll-out-by-december/)
-- [X &lpar;formerly Twitter&rpar; is worst for disinformation, per EU analysis](https://techcrunch.com/2023/09/26/x-failing-eu-disinformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
