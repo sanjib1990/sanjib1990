@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Erudit raises $10M to monitor workplaces for ‘misalignment’](https://techcrunch.com/2023/09/26/erudit-raises-10m-to-monitor-workplaces-for-misalignment/)
+- [FedNow’s legal terms contain a game changer for digital wallets and payment apps](https://techcrunch.com/2023/09/26/fednows-legal-terms-contain-a-game-changer-for-digital-wallets-and-payment-apps/)
+- [SpaceX flight-proven rocket hardware to go on display at Smithsonian](https://www.space.com/spacex-artifacts-smithsonian-air-space-museum)
+- [Crediverso takes on legal after $3.5M capital infusion](https://techcrunch.com/2023/09/26/crediverso-legal-tech-3-5m/)
 - [Sequoia backs PartyKit to power real-time multiplayer collaboration for any app](https://techcrunch.com/2023/09/26/sequoia-backs-partykit-to-power-real-time-multiplayer-collaboration-for-any-app/)
-- [Uber Eats and Getir ink tie-up in Europe for speedy grocery deliveries](https://techcrunch.com/2023/09/26/uber-eats-getir/)
-- [How our Milky Way galaxy would look in gravitational waves &lpar;video&rpar;](https://www.space.com/milky-way-galaxy-gravitational-waves-video)
-- [AI chip company Kneron raises $49M to scale up its commercial efforts](https://techcrunch.com/2023/09/26/ai-chip-company-kneron-raises-49m-to-scale-up-its-commercial-efforts/)
-- [See the moon and Saturn shine side-by-side in the night sky tonight](https://www.space.com/see-the-moon-and-saturn-shine-night-sky-september-26)
 <!-- BLOG-POST-LIST:END -->
 
 ---
