@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Lockheed Martin system will manage satellite constellations from the cloud using AI](https://www.space.com/lockheed-martin-manage-satellite-constellations-cloud-artificial-intelligence)
+- [These Navajo Tribal Parks will be closed during the Oct. 14 annular solar eclipse](https://www.space.com/annular-solar-eclipse-october-2023-closed-navajo-locations)
+- [Fungi creepily infiltrates space stations — but scientists aren&#39;t scared. They&#39;re excited](https://www.space.com/fungus-in-space-long-duration-astronaut-missions)
 - [Watch a NASA astronaut and 2 cosmonauts return to Earth after 1 year in space on Sept. 27](https://www.space.com/one-year-astronaut-cosmonauts-soyuz-landing-september-2023-livestream)
 - [OpenAI is reportedly raising funds at a valuation of $80 billion to $90 billion](https://techcrunch.com/2023/09/26/openai-is-reportedly-raising-funds-at-a-valuation-of-80-billion-to-90-billion/)
-- [YouTube relaxes advertiser-friendly guidelines around controversial topics, like abortion, abuse and eating disorders](https://techcrunch.com/2023/09/26/youtube-relaxes-advertiser-friendly-guidelines-around-controversial-topics-like-abortion-abuse-and-eating-disorders/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Accidental 1-year astronaut crew hands over command of ISS ahead of Sept. 27 landing](https://www.space.com/iss-one-year-crew-handover-september-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
