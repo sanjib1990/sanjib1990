@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a NASA astronaut and 2 cosmonauts return to Earth after 1 year in space on Sept. 27](https://www.space.com/one-year-astronaut-cosmonauts-soyuz-landing-september-2023-livestream)
+- [OpenAI is reportedly raising funds at a valuation of $80 billion to $90 billion](https://techcrunch.com/2023/09/26/openai-is-reportedly-raising-funds-at-a-valuation-of-80-billion-to-90-billion/)
+- [YouTube relaxes advertiser-friendly guidelines around controversial topics, like abortion, abuse and eating disorders](https://techcrunch.com/2023/09/26/youtube-relaxes-advertiser-friendly-guidelines-around-controversial-topics-like-abortion-abuse-and-eating-disorders/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Accidental 1-year astronaut crew hands over command of ISS ahead of Sept. 27 landing](https://www.space.com/iss-one-year-crew-handover-september-2023)
-- [FCC announces plans to reinstate net neutrality](https://techcrunch.com/2023/09/26/fcc-announces-plans-to-reinstate-net-neutrality/)
-- [Open Robotics’ ROS is in safe grippers with Alphabet, says Intrinsic](https://techcrunch.com/2023/09/26/is-open-robotics-ros-safe-with-alphabet/)
-- [Sierra Space raises $290M at a $5.3B valuation](https://techcrunch.com/2023/09/26/sierra-space-raises-290m-at-a-5-3b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
