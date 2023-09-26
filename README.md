@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Connect 2023: How to watch the Quest 3 reveal](https://techcrunch.com/2023/09/26/meta-connect-2023-how-to-watch-the-quest-3-reveal/)
-- [Nikon Aculon T02 8x21 binocular review](https://www.space.com/nikon-aculon-t02-8x21-binocular-review)
-- [Apple Podcasts adds original programming from Apple Music, Apple News+ and other apps](https://techcrunch.com/2023/09/26/apple-podcasts-adds-original-programming-from-apple-music-apple-news-and-other-apps/)
-- [Agility Robotics: Our robot won’t be armed or take your jobs](https://techcrunch.com/2023/09/26/agility-robotics-disrupt/)
-- [Why the public sector is an easy target for ransomware](https://techcrunch.com/2023/09/26/ransomware-public-sector-fight-back/)
+- [Kolena, a startup building tools to test AI models, raises $15M](https://techcrunch.com/2023/09/26/kolena-a-startup-building-tools-to-test-ai-models-raises-15m/)
+- [Byju’s to cut as many as 5,000 more jobs amid business restructuring](https://techcrunch.com/2023/09/26/byjus-to-cut-as-many-as-5000-more-jobs-amid-business-restructuring/)
+- [Photo-sharing app Lapse hits top of the App Store by forcing you to invite your friends](https://techcrunch.com/2023/09/26/photo-sharing-app-lapse-hits-top-of-the-app-store-by-forcing-you-to-invite-your-friends/)
+- [Alchemist Accelerator’s latest startups range from sneakernet for energy to solar panel cleaning bots](https://techcrunch.com/2023/09/26/alchemist-accelerators-latest-startups-range-from-sneakernet-for-energy-to-solar-panel-cleaning-bots/)
+- [Tech layoffs are all but a thing of the past](https://techcrunch.com/2023/09/26/tech-layoffs-are-all-but-a-thing-of-the-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
