@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GIC in talks to lead $40 million funding in India’s Vegrow](https://techcrunch.com/2023/09/26/gic-vegrow/)
-- [Spotify launches Jam, a real-time collaborative playlist controlled by up to 32 people](https://techcrunch.com/2023/09/26/spotify-launches-jam-a-real-time-collaborative-playlist-controlled-by-up-to-32-people/)
-- [Google is killing Gmail’s basic HTML view in 2024](https://techcrunch.com/2023/09/25/google-is-killing-gmails-basic-html-view-in-2024/)
-- [Telegram starts to look like a super app, echoing WeChat](https://techcrunch.com/2023/09/25/telegram-wechat-super-app-ton-foundation/)
-- [Amazon’s outgoing Echo head is Blue Origin’s new CEO](https://techcrunch.com/2023/09/25/amazons-outgoing-echo-head-is-blue-origins-new-ceo/)
+- [Uber Eats and Getir ink tie-up in Europe for speedy grocery deliveries](https://techcrunch.com/2023/09/26/uber-eats-getir/)
+- [How our Milky Way galaxy would look in gravitational waves &lpar;video&rpar;](https://www.space.com/milky-way-galaxy-gravitational-waves-video)
+- [AI chip company Kneron raises $49M to scale up its commercial efforts](https://techcrunch.com/2023/09/26/ai-chip-company-kneron-raises-49m-to-scale-up-its-commercial-efforts/)
+- [See the moon and Saturn shine side-by-side in the night sky tonight](https://www.space.com/see-the-moon-and-saturn-shine-night-sky-september-26)
+- [Pan-African contrarian investor P1 Ventures reaches $25M first close for its second fund](https://techcrunch.com/2023/09/26/pan-african-contrarian-investor-p1-ventures-reaches-25m-first-close-for-its-second-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
