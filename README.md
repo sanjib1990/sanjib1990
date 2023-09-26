@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram starts to look like a super app, echoing WeChat](https://techcrunch.com/2023/09/25/telegram-wechat-super-app-ton-foundation/)
+- [Amazon’s outgoing Echo head is Blue Origin’s new CEO](https://techcrunch.com/2023/09/25/amazons-outgoing-echo-head-is-blue-origins-new-ceo/)
 - [Ford halts work on $3.5B EV battery factory with China’s CATL](https://techcrunch.com/2023/09/25/ford-halts-work-on-3-5b-ev-battery-factory-with-chinas-catl/)
 - [Signal’s Meredith Whittaker: AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
 - [New SEC cybersecurity disclosure rules: What you need to know to stay in compliance](https://techcrunch.com/2023/09/25/new-sec-cybersecurity-disclosure-rules-what-you-need-to-know-to-stay-in-compliance/)
-- [Max Q: Things got disrupted](https://techcrunch.com/2023/09/25/max-q-things-got-disrupted/)
-- [OSIRIS-REx&#39;s asteroid sample lands in Houston &lpar;photos&rpar;](https://www.space.com/osiris-rex-asteroid-samples-land-houston)
 <!-- BLOG-POST-LIST:END -->
 
 ---
