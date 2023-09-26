@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia backs PartyKit to power real-time multiplayer collaboration for any app](https://techcrunch.com/2023/09/26/sequoia-backs-partykit-to-power-real-time-multiplayer-collaboration-for-any-app/)
 - [Uber Eats and Getir ink tie-up in Europe for speedy grocery deliveries](https://techcrunch.com/2023/09/26/uber-eats-getir/)
 - [How our Milky Way galaxy would look in gravitational waves &lpar;video&rpar;](https://www.space.com/milky-way-galaxy-gravitational-waves-video)
 - [AI chip company Kneron raises $49M to scale up its commercial efforts](https://techcrunch.com/2023/09/26/ai-chip-company-kneron-raises-49m-to-scale-up-its-commercial-efforts/)
 - [See the moon and Saturn shine side-by-side in the night sky tonight](https://www.space.com/see-the-moon-and-saturn-shine-night-sky-september-26)
-- [Pan-African contrarian investor P1 Ventures reaches $25M first close for its second fund](https://techcrunch.com/2023/09/26/pan-african-contrarian-investor-p1-ventures-reaches-25m-first-close-for-its-second-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
