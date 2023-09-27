@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Dark universe&#39; telescope Euclid faces some setbacks during commissioning](https://www.space.com/euclid-guidance-light-sensor-setbacks-commissioning-dark-universe)
-- [Meta’s 512GB Quest 3 now comes with 6 months of the Quest+ subscription](https://techcrunch.com/2023/09/27/metas-512gb-quest-3-now-comes-with-6-months-of-the-quest-subscription/)
-- [Mistral AI makes its first large language model free for everyone](https://techcrunch.com/2023/09/27/mistral-ai-makes-its-first-large-language-model-free-for-everyone/)
-- [Meta Connect 2023: Everything you need to know about Quest 3 VR, smart glasses](https://techcrunch.com/2023/09/27/meta-connect-2023-quest-3-vr-everything-you-need-to-know/)
-- [Meta Quest 3 convinced me to love VR by downplaying the metaverse](https://techcrunch.com/2023/09/27/meta-quest-3-convinced-me-to-love-vr-by-downplaying-the-metaverse/)
+- [Can Bird’s Spin acquisition give it the lift it needs?](https://techcrunch.com/2023/09/27/bird-spin-acquisition-will-it-help/)
+- [Mammals may be driven to extinction by volcanic new supercontinent Pangaea Ultima](https://www.space.com/mammal-extinction-volcanic-supercontinent-pangaea-ultima)
+- [Meta’s ‘augments’ place digital objects around your physical space](https://techcrunch.com/2023/09/27/metas-augments-place-digital-objects-around-your-physical-space/)
+- [EV boat startup Arc wades into watersports with $70M in fresh funding](https://techcrunch.com/2023/09/27/ev-boat-startup-arc-wades-into-watersports-with-70m-in-fresh-funding/)
+- [This startup wants to verify your ID without storing your personal data](https://techcrunch.com/2023/09/27/this-startup-wants-to-verify-your-id-without-storing-your-personal-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
