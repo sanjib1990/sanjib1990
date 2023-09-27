@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resourcify, a platform to digitize waste management, raises €14M](https://techcrunch.com/2023/09/27/resourcify-a-platform-to-digitize-waste-management-raises-e14m/)
+- [Akamai launches new cloud computing regions in Asia, Europe and the Americas](https://techcrunch.com/2023/09/27/akamai-launches-new-cloud-computing-regions-in-asia-europe-and-the-americas/)
+- [Rayon is a collaborative design tool for architects and designers](https://techcrunch.com/2023/09/27/rayon-is-a-collaborative-design-tool-for-architects-and-designers/)
 - [Giant Magellan Telescope project casts 7th and final mirror &lpar;photos&rpar;](https://www.space.com/giant-magellan-telescope-mirror-final-mirror-casting)
 - [The artist who sculpted the 4-dimensional fabric of space and time](https://www.space.com/yerkes-observatory-general-relativity-sculpture-albert-einstein)
-- [QED and Partech back South African payment orchestration platform Revio in $5.2M seed](https://techcrunch.com/2023/09/27/qed-and-partech-back-south-african-payment-orchestration-platform-revio-in-5-2m-seed/)
-- [New research: Vast majority of VC-backed UK startups do *nothing* on climate emissions](https://techcrunch.com/2023/09/27/new-research-vast-majority-of-vc-backed-uk-startups-do-nothing-on-climate-emissions/)
-- [Google launches earthquake alerts on Android in India](https://techcrunch.com/2023/09/26/google-launches-earthquake-alerts-on-android-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
