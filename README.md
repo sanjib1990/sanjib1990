@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walmart returns to Roblox after its first games were attacked by consumer advocacy groups](https://techcrunch.com/2023/09/27/walmart-returns-to-roblox-after-its-first-games-were-attacked-by-consumer-advocacy-groups/)
+- [Gem Security raises $23M for its cloud security platform](https://techcrunch.com/2023/09/27/gem-security-raises-23m-for-its-cloud-security-platform/)
+- [La Belle Vie acquires Frichti following bankruptcy process](https://techcrunch.com/2023/09/27/la-belle-vie-acquires-frichti-following-bankruptcy-process/)
+- [Elon Musk’s X removes general option to report misleading info about politics](https://techcrunch.com/2023/09/27/x-limits-report-post-options/)
 - [Fintech actually has a value system: Here’s how we can reclaim it](https://techcrunch.com/2023/09/27/fintech-actually-has-a-value-system-heres-how-we-can-reclaim-it/)
-- [Cybersecurity firm Lumu raises $30M to detect network intrusions](https://techcrunch.com/2023/09/27/cybersecurity-firm-lumu-raises-30m-to-detect-network-intrusions/)
-- [Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
-- [Travel wheelchair Revolve Air launches on Kickstarter](https://techcrunch.com/2023/09/27/revolve-air-travel-wheelchair/)
-- [&#39;Ahsoka&#39; season 1 episode 7 review: Fast-paced action in the vein of Rebels ahead of the big finale](https://www.space.com/ahsoka-season-1-episode-7-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
