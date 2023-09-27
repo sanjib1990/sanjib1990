@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a 180-year-old star eruption unfold in new time-lapse movie &lpar;video&rpar;](https://www.space.com/time-lapse-eta-carinae-stellar-explosion-video)
+- [FAA closes investigation of Blue Origin launch failure](https://www.space.com/faa-closes-investigation-blue-origin-launch-failure)
+- [Regulators close investigation into Blue Origin’s New Shepard anomaly](https://techcrunch.com/2023/09/27/regulators-close-investigation-into-blue-origins-new-shepard-anomaly/)
 - [Japan&#39;s &#39;moon sniper&#39; probe snaps photo of Earth from orbit](https://www.space.com/japan-slim-moon-lander-earth-photo)
 - [Artifact takes on X and Threads with new Posts feature](https://techcrunch.com/2023/09/27/artifact-takes-on-x-and-threads-with-new-posts-feature/)
-- [Meta filmed Mr Beast, Paris Hilton and 26 more to build celebrity AIs based on Llama 2](https://techcrunch.com/2023/09/27/meta-mr-beast-paris-hilton-celebrity-ais-llama-2/)
-- [Security researcher warns of chilling effect after feds search phone at airport](https://techcrunch.com/2023/09/27/sam-curry-chilling-effect-phone-search-airport/)
-- [Can Bird’s Spin acquisition give it the lift it needs?](https://techcrunch.com/2023/09/27/bird-spin-acquisition-will-it-help/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
