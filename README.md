@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Walmart returns to Roblox after its first games were attacked by consumer advocacy groups](https://techcrunch.com/2023/09/27/walmart-returns-to-roblox-after-its-first-games-were-attacked-by-consumer-advocacy-groups/)
-- [Gem Security raises $23M for its cloud security platform](https://techcrunch.com/2023/09/27/gem-security-raises-23m-for-its-cloud-security-platform/)
-- [La Belle Vie acquires Frichti following bankruptcy process](https://techcrunch.com/2023/09/27/la-belle-vie-acquires-frichti-following-bankruptcy-process/)
-- [Elon Musk’s X removes general option to report misleading info about politics](https://techcrunch.com/2023/09/27/x-limits-report-post-options/)
-- [Fintech actually has a value system: Here’s how we can reclaim it](https://techcrunch.com/2023/09/27/fintech-actually-has-a-value-system-heres-how-we-can-reclaim-it/)
+- [Mythos Ventures grabs $14M for inaugural fund to invest in AI](https://techcrunch.com/2023/09/27/mythos-ventures-ai-14m-fund/)
+- [Rollstack automatically syncs data to reports and presentations](https://techcrunch.com/2023/09/27/rollstack-automatically-syncs-data-to-reports-and-presentations/)
+- [Antimatter responds to gravity like Einstein predicted, major CERN experiment confirms](https://www.space.com/gravity-affects-matter-antimatter-similarly)
+- [Sonos Move 2 review: The best rugged smart speaker gets better](https://techcrunch.com/2023/09/27/sonos-move-2-review/)
+- [Snap shutters its enterprise services division after less than a year](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
