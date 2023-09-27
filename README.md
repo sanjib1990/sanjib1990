@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman backs Slope’s $30M round to digitize, scale B2B payments](https://techcrunch.com/2023/09/27/sam-altman-slope-30m-b2b-payments/)
-- [How to photograph the &#39;ring of fire&#39; annular solar eclipse on Oct. 14](https://www.space.com/how-to-photograph-annular-solar-eclipse-october-14-guide)
-- [Was tech’s ‘bull run’ simply a temporary surge?](https://techcrunch.com/2023/09/27/was-techs-bull-run-simply-a-temporary-surge/)
-- [Russian zero-day seller offers $20M for hacking Android and iPhones](https://techcrunch.com/2023/09/27/russian-zero-day-seller-offers-20m-for-hacking-android-and-iphones/)
-- [OpenAI is reportedly in talks with Jony Ive about a hardware project](https://techcrunch.com/2023/09/27/openai-is-reportedly-in-talks-with-jony-ive-about-a-hardware-project/)
+- [Ask Sophie: How would a government shutdown affect the H-1B visa process?](https://techcrunch.com/2023/09/27/ask-sophie-how-would-a-government-shutdown-affect-the-h-1b-visa-process/)
+- [NASA picks 3 museums to display OSIRIS-REx asteroid samples](https://www.space.com/osiris-rex-bennu-asteroid-sample-public-display-museums)
+- [Warner Music CEO Robert Kyncl says AI to impact the music industry within the next year](https://techcrunch.com/2023/09/27/warner-music-ceo-robert-kyncl-says-ai-to-impact-the-music-industry-within-the-next-year/)
+- [NASA opens OSIRIS-REx&#39;s asteroid-sample canister &lpar;photos&rpar;](https://www.space.com/osiris-rex-asteroid-sample-caniser-lid-lifted-photos)
+- [Don’t forget to jargon-check your AI](https://techcrunch.com/2023/09/27/dont-forget-to-jargon-check-your-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
