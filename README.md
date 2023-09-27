@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s &#39;moon sniper&#39; probe snaps photo of Earth from orbit](https://www.space.com/japan-slim-moon-lander-earth-photo)
+- [Artifact takes on X and Threads with new Posts feature](https://techcrunch.com/2023/09/27/artifact-takes-on-x-and-threads-with-new-posts-feature/)
+- [Meta filmed Mr Beast, Paris Hilton and 26 more to build celebrity AIs based on Llama 2](https://techcrunch.com/2023/09/27/meta-mr-beast-paris-hilton-celebrity-ais-llama-2/)
+- [Security researcher warns of chilling effect after feds search phone at airport](https://techcrunch.com/2023/09/27/sam-curry-chilling-effect-phone-search-airport/)
 - [Can Bird’s Spin acquisition give it the lift it needs?](https://techcrunch.com/2023/09/27/bird-spin-acquisition-will-it-help/)
-- [Mammals may be driven to extinction by volcanic new supercontinent Pangaea Ultima](https://www.space.com/mammal-extinction-volcanic-supercontinent-pangaea-ultima)
-- [Meta’s ‘augments’ place digital objects around your physical space](https://techcrunch.com/2023/09/27/metas-augments-place-digital-objects-around-your-physical-space/)
-- [EV boat startup Arc wades into watersports with $70M in fresh funding](https://techcrunch.com/2023/09/27/ev-boat-startup-arc-wades-into-watersports-with-70m-in-fresh-funding/)
-- [This startup wants to verify your ID without storing your personal data](https://techcrunch.com/2023/09/27/this-startup-wants-to-verify-your-id-without-storing-your-personal-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
