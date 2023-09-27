@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [French billionaire Xavier Niel pledges to invest up to $210 million in AI](https://techcrunch.com/2023/09/27/french-billionaire-xavier-niel-pledges-to-invest-up-to-210-million-in-ai/)
-- [Gringo’s super app for Brazilian drivers adds insurance, financing with $30M Series C](https://techcrunch.com/2023/09/27/gringos-super-app-brazil-drivers-series-c/)
-- [First drive: Navigating LA freeways with Mercedes’ hands-off, eyes-off automated driving system](https://techcrunch.com/2023/09/27/first-drive-navigating-la-freeways-with-mercedes-hands-off-eyes-off-automated-driving-system/)
-- [Harvest moon 2023, the last supermoon of the year, kicks off fall stargazing on Sept. 29](https://www.space.com/harvest-full-moon-will-illuminate-the-sky-on-september-29)
-- [Senser launches its AI-enhanced observability platform, raises $9.5M](https://techcrunch.com/2023/09/27/senser-launches-its-ai-enhanced-observability-platform-raises-9-5m/)
+- [Fintech actually has a value system: Here’s how we can reclaim it](https://techcrunch.com/2023/09/27/fintech-actually-has-a-value-system-heres-how-we-can-reclaim-it/)
+- [Cybersecurity firm Lumu raises $30M to detect network intrusions](https://techcrunch.com/2023/09/27/cybersecurity-firm-lumu-raises-30m-to-detect-network-intrusions/)
+- [Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
+- [Travel wheelchair Revolve Air launches on Kickstarter](https://techcrunch.com/2023/09/27/revolve-air-travel-wheelchair/)
+- [&#39;Ahsoka&#39; season 1 episode 7 review: Fast-paced action in the vein of Rebels ahead of the big finale](https://www.space.com/ahsoka-season-1-episode-7-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
