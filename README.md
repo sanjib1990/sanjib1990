@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Resourcify, a platform to digitize waste management, raises €14M](https://techcrunch.com/2023/09/27/resourcify-a-platform-to-digitize-waste-management-raises-e14m/)
-- [Akamai launches new cloud computing regions in Asia, Europe and the Americas](https://techcrunch.com/2023/09/27/akamai-launches-new-cloud-computing-regions-in-asia-europe-and-the-americas/)
-- [Rayon is a collaborative design tool for architects and designers](https://techcrunch.com/2023/09/27/rayon-is-a-collaborative-design-tool-for-architects-and-designers/)
-- [Giant Magellan Telescope project casts 7th and final mirror &lpar;photos&rpar;](https://www.space.com/giant-magellan-telescope-mirror-final-mirror-casting)
-- [The artist who sculpted the 4-dimensional fabric of space and time](https://www.space.com/yerkes-observatory-general-relativity-sculpture-albert-einstein)
+- [French billionaire Xavier Niel pledges to invest up to $210 million in AI](https://techcrunch.com/2023/09/27/french-billionaire-xavier-niel-pledges-to-invest-up-to-210-million-in-ai/)
+- [Gringo’s super app for Brazilian drivers adds insurance, financing with $30M Series C](https://techcrunch.com/2023/09/27/gringos-super-app-brazil-drivers-series-c/)
+- [First drive: Navigating LA freeways with Mercedes’ hands-off, eyes-off automated driving system](https://techcrunch.com/2023/09/27/first-drive-navigating-la-freeways-with-mercedes-hands-off-eyes-off-automated-driving-system/)
+- [Harvest moon 2023, the last supermoon of the year, kicks off fall stargazing on Sept. 29](https://www.space.com/harvest-full-moon-will-illuminate-the-sky-on-september-29)
+- [Senser launches its AI-enhanced observability platform, raises $9.5M](https://techcrunch.com/2023/09/27/senser-launches-its-ai-enhanced-observability-platform-raises-9-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
