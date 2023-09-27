@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ray-Ban Meta smart glasses livestream to Instagram and Facebook](https://techcrunch.com/2023/09/27/ray-ban-meta-smart-glasses-livestream-to-instagram-and-facebook/)
-- [Generative AI stickers are coming to Meta’s apps along with AI editing](https://techcrunch.com/2023/09/27/generative-ai-stickers-are-coming-to-metas-apps/)
-- [Qualcomm launches its next-gen chips for XR and AR platforms](https://techcrunch.com/2023/09/27/qualcomm-launches-its-next-gen-chip-for-xr-and-ar-platforms/)
-- [What would colors look like on other planets?](https://www.space.com/colors-on-other-planets)
-- [Meta Connect 2023: Everything announced so far](https://techcrunch.com/2023/09/27/meta-connect-2023-quest-3-vr-everything-you-need-to-know/)
+- [&#39;Dark universe&#39; telescope Euclid faces some setbacks during commissioning](https://www.space.com/euclid-guidance-light-sensor-setbacks-commissioning-dark-universe)
+- [Meta’s 512GB Quest 3 now comes with 6 months of the Quest+ subscription](https://techcrunch.com/2023/09/27/metas-512gb-quest-3-now-comes-with-6-months-of-the-quest-subscription/)
+- [Mistral AI makes its first large language model free for everyone](https://techcrunch.com/2023/09/27/mistral-ai-makes-its-first-large-language-model-free-for-everyone/)
+- [Meta Connect 2023: Everything you need to know about Quest 3 VR, smart glasses](https://techcrunch.com/2023/09/27/meta-connect-2023-quest-3-vr-everything-you-need-to-know/)
+- [Meta Quest 3 convinced me to love VR by downplaying the metaverse](https://techcrunch.com/2023/09/27/meta-quest-3-convinced-me-to-love-vr-by-downplaying-the-metaverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
