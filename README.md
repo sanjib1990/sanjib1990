@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask Sophie: How would a government shutdown affect the H-1B visa process?](https://techcrunch.com/2023/09/27/ask-sophie-how-would-a-government-shutdown-affect-the-h-1b-visa-process/)
-- [NASA picks 3 museums to display OSIRIS-REx asteroid samples](https://www.space.com/osiris-rex-bennu-asteroid-sample-public-display-museums)
-- [Warner Music CEO Robert Kyncl says AI to impact the music industry within the next year](https://techcrunch.com/2023/09/27/warner-music-ceo-robert-kyncl-says-ai-to-impact-the-music-industry-within-the-next-year/)
-- [NASA opens OSIRIS-REx&#39;s asteroid-sample canister &lpar;photos&rpar;](https://www.space.com/osiris-rex-asteroid-sample-caniser-lid-lifted-photos)
-- [Don’t forget to jargon-check your AI](https://techcrunch.com/2023/09/27/dont-forget-to-jargon-check-your-ai/)
+- [Ray-Ban Meta smart glasses livestream to Instagram and Facebook](https://techcrunch.com/2023/09/27/ray-ban-meta-smart-glasses-livestream-to-instagram-and-facebook/)
+- [Generative AI stickers are coming to Meta’s apps along with AI editing](https://techcrunch.com/2023/09/27/generative-ai-stickers-are-coming-to-metas-apps/)
+- [Qualcomm launches its next-gen chips for XR and AR platforms](https://techcrunch.com/2023/09/27/qualcomm-launches-its-next-gen-chip-for-xr-and-ar-platforms/)
+- [What would colors look like on other planets?](https://www.space.com/colors-on-other-planets)
+- [Meta Connect 2023: Everything announced so far](https://techcrunch.com/2023/09/27/meta-connect-2023-quest-3-vr-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
