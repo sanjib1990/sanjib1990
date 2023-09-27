@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Giant Magellan Telescope project casts 7th and final mirror &lpar;photos&rpar;](https://www.space.com/giant-magellan-telescope-mirror-final-mirror-casting)
+- [The artist who sculpted the 4-dimensional fabric of space and time](https://www.space.com/yerkes-observatory-general-relativity-sculpture-albert-einstein)
 - [QED and Partech back South African payment orchestration platform Revio in $5.2M seed](https://techcrunch.com/2023/09/27/qed-and-partech-back-south-african-payment-orchestration-platform-revio-in-5-2m-seed/)
 - [New research: Vast majority of VC-backed UK startups do *nothing* on climate emissions](https://techcrunch.com/2023/09/27/new-research-vast-majority-of-vc-backed-uk-startups-do-nothing-on-climate-emissions/)
 - [Google launches earthquake alerts on Android in India](https://techcrunch.com/2023/09/26/google-launches-earthquake-alerts-on-android-in-india/)
-- [The writers strike is over; here’s how AI negotiations shook out](https://techcrunch.com/2023/09/26/writers-strike-over-ai/)
-- [Atlassian CTO: We were late moving to the cloud, on the ball with AI](https://techcrunch.com/2023/09/26/atlassian-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
