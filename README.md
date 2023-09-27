@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The writers strike is over; here’s how AI negotiations shook out](https://techcrunch.com/2023/09/26/writers-strike-over-ai/)
 - [Atlassian CTO: We were late moving to the cloud, on the ball with AI](https://techcrunch.com/2023/09/26/atlassian-ai/)
 - [What is Amazon’s [redacted] ‘Project Nessie’ algorithm?](https://techcrunch.com/2023/09/26/what-is-amazons-redacted-project-nessie-algorithm/)
 - [Sources: Palo Alto Networks in advanced talks to buy Talon and Dig in a $1B security sweep](https://techcrunch.com/2023/09/26/palo-alto-networks-dig-talon/)
 - [Antarctic sea ice hits &#39;record-smashing&#39; low this year, satellite data shows](https://www.space.com/sea-ice-antarctica-hits-record-low-2023-satellite-data)
-- [New AI algorithm can detect signs of life with 90% accuracy. Scientists want to send it to Mars](https://www.space.com/new-ai-method-detect-life-rock-samples-90-percent-accuracy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
