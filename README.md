@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mythos Ventures grabs $14M for inaugural fund to invest in AI](https://techcrunch.com/2023/09/27/mythos-ventures-ai-14m-fund/)
-- [Rollstack automatically syncs data to reports and presentations](https://techcrunch.com/2023/09/27/rollstack-automatically-syncs-data-to-reports-and-presentations/)
-- [Antimatter responds to gravity like Einstein predicted, major CERN experiment confirms](https://www.space.com/gravity-affects-matter-antimatter-similarly)
-- [Sonos Move 2 review: The best rugged smart speaker gets better](https://techcrunch.com/2023/09/27/sonos-move-2-review/)
-- [Snap shutters its enterprise services division after less than a year](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
+- [Sam Altman backs Slope’s $30M round to digitize, scale B2B payments](https://techcrunch.com/2023/09/27/sam-altman-slope-30m-b2b-payments/)
+- [How to photograph the &#39;ring of fire&#39; annular solar eclipse on Oct. 14](https://www.space.com/how-to-photograph-annular-solar-eclipse-october-14-guide)
+- [Was tech’s ‘bull run’ simply a temporary surge?](https://techcrunch.com/2023/09/27/was-techs-bull-run-simply-a-temporary-surge/)
+- [Russian zero-day seller offers $20M for hacking Android and iPhones](https://techcrunch.com/2023/09/27/russian-zero-day-seller-offers-20m-for-hacking-android-and-iphones/)
+- [OpenAI is reportedly in talks with Jony Ive about a hardware project](https://techcrunch.com/2023/09/27/openai-is-reportedly-in-talks-with-jony-ive-about-a-hardware-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
