@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India gov’t to propose setting up a separate body for vast data management, draft bill shows](https://techcrunch.com/2023/09/28/india-national-data-management-office/)
-- [Radio telescope will launch to moon&#39;s far side in 2025 to hunt for the cosmic Dark Ages](https://www.space.com/lunar-far-side-searching-cosmic-dark-ages)
-- [SpaceX launch of NASA&#39;s Psyche asteroid mission is just 1 week away](https://www.space.com/spacex-launch-psyche-asteroid-mission-one-week)
-- [Adobe launches Photoshop’s web version with Firefly-powered AI tools](https://techcrunch.com/2023/09/28/adobe-launches-photoshops-web-version-with-firefly-powered-ai-tools/)
-- [Investors taking 30% of a startup in a round are short-sighted](https://techcrunch.com/2023/09/28/short-sighted-investors/)
+- [Mercury Fund closes largest fund to invest in SaaS startups between the coasts](https://techcrunch.com/2023/09/28/mercury-fund-venture-capital-saas/)
+- [Nextdata is building data meshes for the enterprise](https://techcrunch.com/2023/09/28/nextdata-is-building-data-meshes-for-the-enterprise/)
+- [AlphaSense, an AI-based market intel firm, snaps up $150M at a $2.5B valuation](https://techcrunch.com/2023/09/28/alphasense-an-ai-based-market-intel-firm-snaps-up-150m-at-a-2-5b-valuation/)
+- [A giant moon collision may have given rise to Saturn&#39;s iconic rings, study suggests](https://www.space.com/saturn-rings-origin-moon-collision)
+- [Indian music label giant Saregama acquires Pocket Aces](https://techcrunch.com/2023/09/28/indian-music-label-giant-saregama-acquires-pocket-aces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
