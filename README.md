@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On TikTok, videos promoting steroids are exploding — and at times targeting teens](https://techcrunch.com/2023/09/28/tiktok-steroids-bodybuilding-ccdh-report/)
 - [Judge upholds $18 minimum pay for NYC delivery workers](https://techcrunch.com/2023/09/28/judge-upholds-18-minimum-pay-for-nyc-delivery-workers/)
+- [China adds yet another Yaogan spy satellite to its orbital fleet &lpar;launch video&rpar;](https://www.space.com/china-yaogan-spy-satellite-launch-september-2023)
 - [It’s not clear X CEO Linda Yaccarino knew about Elon Musk’s plan to charge for X](https://techcrunch.com/2023/09/28/its-not-clear-x-ceo-linda-yaccarino-knew-about-elon-musks-plan-to-charge-for-x/)
 - [Federal agency sues Tesla for racial discrimination of Black workers](https://techcrunch.com/2023/09/28/eeoc-sues-tesla-for-racial-discrimination-of-black-workers/)
-- [ispace unveils new lunar lander that will fly to the moon in 2026](https://techcrunch.com/2023/09/28/ispace-unveils-new-lunar-lander-that-will-fly-to-the-moon-in-2026/)
-- [Right before exploding, this star puffed out a sun&#39;s worth of mass](https://www.space.com/dooomed-star-weight-loss-hides-supernova-flash-for-days)
 <!-- BLOG-POST-LIST:END -->
 
 ---
