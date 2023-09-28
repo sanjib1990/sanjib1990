@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From AI Assistant to image restyler: Meta’s new AI features](https://techcrunch.com/2023/09/27/from-ai-assistant-to-image-restyler-metas-new-ai-features/)
 - [1st black hole imaged by humanity is confirmed to be spinning, study finds](https://www.space.com/historic-donut-black-hole-is-spinning-new-study-finds)
 - [Watch a 180-year-old star eruption unfold in new time-lapse movie &lpar;video&rpar;](https://www.space.com/time-lapse-eta-carinae-stellar-explosion-video)
 - [FAA closes investigation of Blue Origin launch failure](https://www.space.com/faa-closes-investigation-blue-origin-launch-failure)
 - [Regulators close investigation into Blue Origin’s New Shepard anomaly](https://techcrunch.com/2023/09/27/regulators-close-investigation-into-blue-origins-new-shepard-anomaly/)
-- [Japan&#39;s &#39;moon sniper&#39; probe snaps photo of Earth from orbit](https://www.space.com/japan-slim-moon-lander-earth-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
