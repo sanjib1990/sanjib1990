@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge upholds $18 minimum pay for NYC delivery workers](https://techcrunch.com/2023/09/28/judge-upholds-18-minimum-pay-for-nyc-delivery-workers/)
+- [It’s not clear X CEO Linda Yaccarino knew about Elon Musk’s plan to charge for X](https://techcrunch.com/2023/09/28/its-not-clear-x-ceo-linda-yaccarino-knew-about-elon-musks-plan-to-charge-for-x/)
+- [Federal agency sues Tesla for racial discrimination of Black workers](https://techcrunch.com/2023/09/28/eeoc-sues-tesla-for-racial-discrimination-of-black-workers/)
 - [ispace unveils new lunar lander that will fly to the moon in 2026](https://techcrunch.com/2023/09/28/ispace-unveils-new-lunar-lander-that-will-fly-to-the-moon-in-2026/)
-- [Honda forms largest EV partner network in the US despite not yet selling an EV in the country](https://techcrunch.com/2023/09/28/honda-forms-largest-ev-partner-network-in-the-us-despite-not-yet-selling-an-ev-in-the-country/)
-- [Your website can now opt out of training Google’s Bard and future AIs](https://techcrunch.com/2023/09/28/your-website-can-now-opt-out-of-training-googles-bard-and-future-ais/)
-- [Should VCs back the FTC suit against Amazon?](https://techcrunch.com/2023/09/28/ftc-amazon-lawsuit-venture-capital/)
-- [Watch Chinese astronauts light a match on Tiangong space station &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-light-match-fire-microgravity)
+- [Right before exploding, this star puffed out a sun&#39;s worth of mass](https://www.space.com/dooomed-star-weight-loss-hides-supernova-flash-for-days)
 <!-- BLOG-POST-LIST:END -->
 
 ---
