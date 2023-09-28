@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic asks the Supreme Court to weigh in on its beef with Apple](https://techcrunch.com/2023/09/27/epic-asks-the-supreme-court-to-weigh-in-on-its-beef-with-apple/)
+- [Teamsters urge NHTSA to deny Cruise Origin exemption](https://techcrunch.com/2023/09/27/teamsters-urge-nhtsa-to-deny-cruise-origin-exemption/)
 - [From AI Assistant to image restyler: Meta’s new AI features](https://techcrunch.com/2023/09/27/from-ai-assistant-to-image-restyler-metas-new-ai-features/)
 - [1st black hole imaged by humanity is confirmed to be spinning, study finds](https://www.space.com/historic-donut-black-hole-is-spinning-new-study-finds)
 - [Watch a 180-year-old star eruption unfold in new time-lapse movie &lpar;video&rpar;](https://www.space.com/time-lapse-eta-carinae-stellar-explosion-video)
-- [FAA closes investigation of Blue Origin launch failure](https://www.space.com/faa-closes-investigation-blue-origin-launch-failure)
-- [Regulators close investigation into Blue Origin’s New Shepard anomaly](https://techcrunch.com/2023/09/27/regulators-close-investigation-into-blue-origins-new-shepard-anomaly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
