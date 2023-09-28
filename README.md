@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronaut Jan Davis recounts career, father&#39;s POW experience in new book](https://www.space.com/nasa-astronaut-jan-davis-book-air-born)
+- [Major Big Tech privacy watchdog in EU set to get two more commissioners soon](https://techcrunch.com/2023/09/28/dpc-commissioner-job-ad/)
 - [Mercury Fund closes largest fund to invest in SaaS startups between the coasts](https://techcrunch.com/2023/09/28/mercury-fund-venture-capital-saas/)
 - [Nextdata is building data meshes for the enterprise](https://techcrunch.com/2023/09/28/nextdata-is-building-data-meshes-for-the-enterprise/)
 - [AlphaSense, an AI-based market intel firm, snaps up $150M at a $2.5B valuation](https://techcrunch.com/2023/09/28/alphasense-an-ai-based-market-intel-firm-snaps-up-150m-at-a-2-5b-valuation/)
-- [A giant moon collision may have given rise to Saturn&#39;s iconic rings, study suggests](https://www.space.com/saturn-rings-origin-moon-collision)
-- [Indian music label giant Saregama acquires Pocket Aces](https://techcrunch.com/2023/09/28/indian-music-label-giant-saregama-acquires-pocket-aces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
