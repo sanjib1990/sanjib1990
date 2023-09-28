@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Worldcoin doubles down on emerging markets amid wider criticism](https://techcrunch.com/2023/09/28/worldcoin-emerging-markets-criticism/)
-- [Commercial spaceflight research needs a code of ethics, scientists say](https://www.space.com/commercial-spaceflight-research-needs-code-of-ethics)
-- [Pilot is a social travel hub that uses AI to help you plan, book and share trips](https://techcrunch.com/2023/09/28/pilot-is-a-social-travel-hub-that-uses-ai-to-help-you-plan-book-and-share-trips/)
-- [Japan and India plan 2025 moon mission to hunt for water near the lunar south pole](https://www.space.com/japan-india-2025-moon-mission-lunar-south-pole)
-- [The generative AI boom could make the OS cool again](https://techcrunch.com/2023/09/28/generative-ai-windows-copilot/)
+- [Apple asks the Supreme Court to reconsider a previous ruling in Epic’s favor](https://techcrunch.com/2023/09/28/apple-asks-the-supreme-court-to-reconsider-a-previous-ruling-in-epics-favor/)
+- [Ask Sophie: What are your top immigration tips from TechCrunch Disrupt 2023?](https://techcrunch.com/2023/09/28/ask-sophie-what-are-your-top-immigration-tips-from-techcrunch-disrupt-2023/)
+- [Mixin hacked for $200M, Worldcoin eyes greater expansion and Haun Ventures’ execs talk crypto regulation](https://techcrunch.com/2023/09/28/mixin-hacked-for-200m-worldcoin-eyes-greater-expansion-and-haun-ventures-execs-talk-crypto-regulation/)
+- [Iran launches 3rd military satellite to orbit](https://www.space.com/iran-launches-noor-3-imaging-satellite-september-2023)
+- [Medium hints at a nascent media coalition to block AI crawlers](https://techcrunch.com/2023/09/28/medium-hints-at-a-nascent-media-coalition-to-block-ai-crawlers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
