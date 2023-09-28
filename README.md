@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Raspberry Pi 5 is here and looks yummier than ever](https://techcrunch.com/2023/09/27/raspberry-pi-5/)
 - [X will be profitable in 2024, CEO claims in tense interview](https://techcrunch.com/2023/09/27/x-will-be-profitable-in-2024-ceo-claims-in-tense-interview/)
 - [Epic asks the Supreme Court to weigh in on its beef with Apple](https://techcrunch.com/2023/09/27/epic-asks-the-supreme-court-to-weigh-in-on-its-beef-with-apple/)
 - [Teamsters urge NHTSA to deny Cruise Origin exemption](https://techcrunch.com/2023/09/27/teamsters-urge-nhtsa-to-deny-cruise-origin-exemption/)
 - [From AI Assistant to image restyler: Meta’s new AI features](https://techcrunch.com/2023/09/27/from-ai-assistant-to-image-restyler-metas-new-ai-features/)
-- [1st black hole imaged by humanity is confirmed to be spinning, study finds](https://www.space.com/historic-donut-black-hole-is-spinning-new-study-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
