@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artifact co-founder Mike Krieger says there’s a ‘flavor’ of Twitter in app’s latest release](https://techcrunch.com/2023/09/28/artifact-co-founder-mike-krieger-says-theres-a-flavor-of-twitter-in-apps-latest-release/)
+- [Zapier launches Canvas, an AI-powered flowchart tool](https://techcrunch.com/2023/09/28/zapier-launches-canvas-an-ai-powered-flowchart-tool/)
+- [Apron grabs $15 million to simplify invoice processing](https://techcrunch.com/2023/09/28/apron-grabs-15-million-to-simplify-invoice-processing/)
 - [Six imperatives for building AI-first companies](https://techcrunch.com/2023/09/28/six-imperatives-for-building-ai-first-companies/)
 - [Google is opening up its generative AI search experience to teenagers](https://techcrunch.com/2023/09/28/google-opening-up-generative-ai-search-experience-teenagers/)
-- [Norway seeks to extend ban on Meta’s consentless tracking ads across the EU](https://techcrunch.com/2023/09/28/norway-meta-ads-edpb-referral/)
-- [The newest new thing? Continuous feedback platforms that keep bad results tied to AI code from making it into production](https://techcrunch.com/2023/09/28/the-newest-new-thing-continuous-feedback-platforms-that-keep-bad-results-from-ai-created-code-from-making-it-into-production/)
-- [Amazon CodeWhisperer gains an enterprise tier](https://techcrunch.com/2023/09/28/amazon-codewhisperer-gains-an-enterprise-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
