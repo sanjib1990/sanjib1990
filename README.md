@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA astronaut Jan Davis recounts career, father&#39;s POW experience in new book](https://www.space.com/nasa-astronaut-jan-davis-book-air-born)
-- [Major Big Tech privacy watchdog in EU set to get two more commissioners soon](https://techcrunch.com/2023/09/28/dpc-commissioner-job-ad/)
-- [Mercury Fund closes largest fund to invest in SaaS startups between the coasts](https://techcrunch.com/2023/09/28/mercury-fund-venture-capital-saas/)
-- [Nextdata is building data meshes for the enterprise](https://techcrunch.com/2023/09/28/nextdata-is-building-data-meshes-for-the-enterprise/)
-- [AlphaSense, an AI-based market intel firm, snaps up $150M at a $2.5B valuation](https://techcrunch.com/2023/09/28/alphasense-an-ai-based-market-intel-firm-snaps-up-150m-at-a-2-5b-valuation/)
+- [Transfr, a VR platform for workforce training, raises $40M](https://techcrunch.com/2023/09/28/transfr-a-vr-platform-for-workforce-training-raises-40m/)
+- [How fast will October&#39;s annular solar eclipse travel?](https://www.space.com/how-fast-will-annular-eclipse-travel-oct-14)
+- [Being is an app that wants to help users map out and address mental health concerns](https://techcrunch.com/2023/09/28/meet-being-app-wants-help-users-map-out-address-mental-health-concerns/)
+- [Blend uses generative AI to give you a personalized clothing guide](https://techcrunch.com/2023/09/28/blend-uses-generative-ai-to-give-you-a-personalized-clothing-guide/)
+- [Publisher-focused Twitter alternative Post comes to Android, adds newsletter support](https://techcrunch.com/2023/09/28/publisher-focused-twitter-alternative-post-comes-to-android-adds-newsletter-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
