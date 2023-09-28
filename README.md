@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fitbit brings Pixel Watch features to the Charge 6](https://techcrunch.com/2023/09/28/fitbit-brings-pixel-watch-features-to-the-charge-6/)
-- [Nexusflow raises $10.5 to build a conversational interface for security tools](https://techcrunch.com/2023/09/28/nexusflow-raises-10-5-to-build-a-conversational-interface-for-security-tools/)
-- [Astronomers discover thousands of active red galaxy hearts with powerful radio signals](https://www.space.com/radio-signal-active-galaxy-hearts-red-quasars)
-- [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
-- [Bumble CEO Whitney Wolfe Herd shares how AI will ‘supercharge’ love and relathionships](https://techcrunch.com/2023/09/28/bumble-ceo-whitney-wolfe-herd-shares-how-ai-will-supercharge-love-and-relathionships/)
+- [Six imperatives for building AI-first companies](https://techcrunch.com/2023/09/28/six-imperatives-for-building-ai-first-companies/)
+- [Google is opening up its generative AI search experience to teenagers](https://techcrunch.com/2023/09/28/google-opening-up-generative-ai-search-experience-teenagers/)
+- [Norway seeks to extend ban on Meta’s consentless tracking ads across the EU](https://techcrunch.com/2023/09/28/norway-meta-ads-edpb-referral/)
+- [The newest new thing? Continuous feedback platforms that keep bad results tied to AI code from making it into production](https://techcrunch.com/2023/09/28/the-newest-new-thing-continuous-feedback-platforms-that-keep-bad-results-from-ai-created-code-from-making-it-into-production/)
+- [Amazon CodeWhisperer gains an enterprise tier](https://techcrunch.com/2023/09/28/amazon-codewhisperer-gains-an-enterprise-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
