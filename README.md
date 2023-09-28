@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should VCs back the FTC suit against Amazon?](https://techcrunch.com/2023/09/28/ftc-amazon-lawsuit-venture-capital/)
+- [Review: Tablo DVR gives users a major upgrade with its free ad-supported TV offering](https://techcrunch.com/2023/09/28/review-tablo-dvr-ota-free-ad-supported-tv-fast-channels/)
 - [Apple asks the Supreme Court to reconsider a previous ruling in Epic’s favor](https://techcrunch.com/2023/09/28/apple-asks-the-supreme-court-to-reconsider-a-previous-ruling-in-epics-favor/)
 - [Ask Sophie: What are your top immigration tips from TechCrunch Disrupt 2023?](https://techcrunch.com/2023/09/28/ask-sophie-what-are-your-top-immigration-tips-from-techcrunch-disrupt-2023/)
 - [Mixin hacked for $200M, Worldcoin eyes greater expansion and Haun Ventures’ execs talk crypto regulation](https://techcrunch.com/2023/09/28/mixin-hacked-for-200m-worldcoin-eyes-greater-expansion-and-haun-ventures-execs-talk-crypto-regulation/)
-- [Iran launches 3rd military satellite to orbit](https://www.space.com/iran-launches-noor-3-imaging-satellite-september-2023)
-- [Medium hints at a nascent media coalition to block AI crawlers](https://techcrunch.com/2023/09/28/medium-hints-at-a-nascent-media-coalition-to-block-ai-crawlers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
