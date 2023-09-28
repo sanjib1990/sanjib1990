@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Bzip2 Works &lpar;Burrows Wheeler Transform&rpar; - Computerphile](https://www.youtube.com/watch?v=GYbCttCF25A)
 - [the Raspberry Pi 5](https://www.youtube.com/watch?v=jsKqQvFk7Sk)
 - [You can make INVISIBLE folders?!?!](https://www.youtube.com/watch?v=nvRghr_pdoI)
 - [get past paywalls for FREE!!](https://www.youtube.com/watch?v=3WRJOES-gAw)
 - [CMPRSN &lpar;Compression Overview&rpar; - Computerphile](https://www.youtube.com/watch?v=Z4AgvG2Xg0k)
-- [13. The Battle of the Sexes: Love and Evolution &lpar;audio only&rpar;](https://www.youtube.com/watch?v=LzGIpm5UFCg)
 <!-- YOUTUBE:END -->
 
 ---
