@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ispace unveils new lunar lander that will fly to the moon in 2026](https://techcrunch.com/2023/09/28/ispace-unveils-new-lunar-lander-that-will-fly-to-the-moon-in-2026/)
+- [Honda forms largest EV partner network in the US despite not yet selling an EV in the country](https://techcrunch.com/2023/09/28/honda-forms-largest-ev-partner-network-in-the-us-despite-not-yet-selling-an-ev-in-the-country/)
+- [Your website can now opt out of training Google’s Bard and future AIs](https://techcrunch.com/2023/09/28/your-website-can-now-opt-out-of-training-googles-bard-and-future-ais/)
 - [Should VCs back the FTC suit against Amazon?](https://techcrunch.com/2023/09/28/ftc-amazon-lawsuit-venture-capital/)
-- [Review: Tablo DVR gives users a major upgrade with its free ad-supported TV offering](https://techcrunch.com/2023/09/28/review-tablo-dvr-ota-free-ad-supported-tv-fast-channels/)
-- [Apple asks the Supreme Court to reconsider a previous ruling in Epic’s favor](https://techcrunch.com/2023/09/28/apple-asks-the-supreme-court-to-reconsider-a-previous-ruling-in-epics-favor/)
-- [Ask Sophie: What are your top immigration tips from TechCrunch Disrupt 2023?](https://techcrunch.com/2023/09/28/ask-sophie-what-are-your-top-immigration-tips-from-techcrunch-disrupt-2023/)
-- [Mixin hacked for $200M, Worldcoin eyes greater expansion and Haun Ventures’ execs talk crypto regulation](https://techcrunch.com/2023/09/28/mixin-hacked-for-200m-worldcoin-eyes-greater-expansion-and-haun-ventures-execs-talk-crypto-regulation/)
+- [Watch Chinese astronauts light a match on Tiangong space station &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-light-match-fire-microgravity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
