@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Transfr, a VR platform for workforce training, raises $40M](https://techcrunch.com/2023/09/28/transfr-a-vr-platform-for-workforce-training-raises-40m/)
-- [How fast will October&#39;s annular solar eclipse travel?](https://www.space.com/how-fast-will-annular-eclipse-travel-oct-14)
-- [Being is an app that wants to help users map out and address mental health concerns](https://techcrunch.com/2023/09/28/meet-being-app-wants-help-users-map-out-address-mental-health-concerns/)
-- [Blend uses generative AI to give you a personalized clothing guide](https://techcrunch.com/2023/09/28/blend-uses-generative-ai-to-give-you-a-personalized-clothing-guide/)
-- [Publisher-focused Twitter alternative Post comes to Android, adds newsletter support](https://techcrunch.com/2023/09/28/publisher-focused-twitter-alternative-post-comes-to-android-adds-newsletter-support/)
+- [Fitbit brings Pixel Watch features to the Charge 6](https://techcrunch.com/2023/09/28/fitbit-brings-pixel-watch-features-to-the-charge-6/)
+- [Nexusflow raises $10.5 to build a conversational interface for security tools](https://techcrunch.com/2023/09/28/nexusflow-raises-10-5-to-build-a-conversational-interface-for-security-tools/)
+- [Astronomers discover thousands of active red galaxy hearts with powerful radio signals](https://www.space.com/radio-signal-active-galaxy-hearts-red-quasars)
+- [Amazon launches its Bedrock generative AI service in general availability](https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/)
+- [Bumble CEO Whitney Wolfe Herd shares how AI will ‘supercharge’ love and relathionships](https://techcrunch.com/2023/09/28/bumble-ceo-whitney-wolfe-herd-shares-how-ai-will-supercharge-love-and-relathionships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
