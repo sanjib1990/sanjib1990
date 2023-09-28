@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India gov’t to propose setting up a separate body for vast data management, draft bill shows](https://techcrunch.com/2023/09/28/india-national-data-management-office/)
 - [Radio telescope will launch to moon&#39;s far side in 2025 to hunt for the cosmic Dark Ages](https://www.space.com/lunar-far-side-searching-cosmic-dark-ages)
 - [SpaceX launch of NASA&#39;s Psyche asteroid mission is just 1 week away](https://www.space.com/spacex-launch-psyche-asteroid-mission-one-week)
 - [Adobe launches Photoshop’s web version with Firefly-powered AI tools](https://techcrunch.com/2023/09/28/adobe-launches-photoshops-web-version-with-firefly-powered-ai-tools/)
 - [Investors taking 30% of a startup in a round are short-sighted](https://techcrunch.com/2023/09/28/short-sighted-investors/)
-- [African VC firm Enza Capital launches founder partner program as it closes $58M across funds](https://techcrunch.com/2023/09/28/african-vc-firm-enza-capital-launches-founder-partner-program-as-it-closes-funds-at-58m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
