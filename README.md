@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artifact co-founder Mike Krieger says there’s a ‘flavor’ of Twitter in app’s latest release](https://techcrunch.com/2023/09/28/artifact-co-founder-mike-krieger-says-theres-a-flavor-of-twitter-in-apps-latest-release/)
-- [Zapier launches Canvas, an AI-powered flowchart tool](https://techcrunch.com/2023/09/28/zapier-launches-canvas-an-ai-powered-flowchart-tool/)
-- [Apron grabs $15 million to simplify invoice processing](https://techcrunch.com/2023/09/28/apron-grabs-15-million-to-simplify-invoice-processing/)
-- [Six imperatives for building AI-first companies](https://techcrunch.com/2023/09/28/six-imperatives-for-building-ai-first-companies/)
-- [Google is opening up its generative AI search experience to teenagers](https://techcrunch.com/2023/09/28/google-opening-up-generative-ai-search-experience-teenagers/)
+- [Worldcoin doubles down on emerging markets amid wider criticism](https://techcrunch.com/2023/09/28/worldcoin-emerging-markets-criticism/)
+- [Commercial spaceflight research needs a code of ethics, scientists say](https://www.space.com/commercial-spaceflight-research-needs-code-of-ethics)
+- [Pilot is a social travel hub that uses AI to help you plan, book and share trips](https://techcrunch.com/2023/09/28/pilot-is-a-social-travel-hub-that-uses-ai-to-help-you-plan-book-and-share-trips/)
+- [Japan and India plan 2025 moon mission to hunt for water near the lunar south pole](https://www.space.com/japan-india-2025-moon-mission-lunar-south-pole)
+- [The generative AI boom could make the OS cool again](https://techcrunch.com/2023/09/28/generative-ai-windows-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
