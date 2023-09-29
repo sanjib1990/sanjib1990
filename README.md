@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a dust devil swirl across Mars in this video from NASA&#39;s Perseverance rover](https://www.space.com/mars-rover-perseverance-dust-devil-august-2023)
+- [VW bails on its plan for a $2.1B EV plant in Germany](https://techcrunch.com/2023/09/29/vw-bails-on-its-plan-for-a-2-1b-ev-plant-in-germany/)
 - [See green comet Nishimura&#39;s tail get whipped away by powerful solar storm as it slingshots around the sun &lpar;video&rpar;](https://www.space.com/comet-nishimura-tail-solar-storm-sun)
 - [The brightest planets in October&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html)
 - [When predatory investors damage your chances of success](https://techcrunch.com/2023/09/29/when-predatory-investors-damage-your-chances-of-success/)
-- [Time-lapse video shows a supernova&#39;s aftermath ballooning into space](https://www.space.com/hubble-space-telescope-aftermath-time-lapse)
-- [Pudgy Penguins’ approach may be the answer to fixing NFTs’ revenue problems](https://techcrunch.com/2023/09/29/pudgy-penguins-nfts-revenue-problems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
