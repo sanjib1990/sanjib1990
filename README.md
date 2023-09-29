@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How methane studies on Earth could inform the search for alien life in our solar system](https://www.space.com/methane-deposits-earth-proteins-search-for-alien-life)
+- [So what happened to Blue Apron?](https://techcrunch.com/2023/09/29/wonder-group-blue-apron-acquisition/)
+- [Why product equity has become a business imperative for the future of digital products](https://techcrunch.com/2023/09/29/why-product-equity-has-become-a-business-imperative-for-the-future-of-digital-products/)
+- [X &lpar;Twitter&rpar; has paid almost $20M to creators, CEO says](https://techcrunch.com/2023/09/29/x-twitter-has-paid-almost-20m-to-creators-ceo-says/)
 - [&#39;Einstein ring&#39; snapped by James Webb Space Telescope is most distant gravitationally lensed object ever seen](https://www.space.com/james-webb-space-telescope-einstein-ring-gravitationally-lensed)
-- [Elon Musk’s X headed for ‘rule of law’ clash with EU, warns Twitter’s former head of trust &amp; safety](https://techcrunch.com/2023/09/29/x-vs-dsa/)
-- [Three Arrows Capital co-founder Zhu arrested in Singapore airport, sentenced four months in prison](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
-- [Pitch Deck Teardown: Point.me’s $10M Series A deck](https://techcrunch.com/2023/09/29/sample-series-a-pitch-deck-point-me/)
-- [YC, OpenAI and the trough of disillusionment](https://techcrunch.com/2023/09/29/yc-openai-and-the-trough-of-disillusionment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
