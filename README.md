@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 22 Starlink satellites to orbit from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-19)
 - [8 tips to safely watch the annular solar eclipse on Oct. 14](https://www.space.com/8-safety-tips-to-watch-annular-solar-eclipse-october-2023)
 - [WestBridge seeks to buy stake in India’s Meesho](https://techcrunch.com/2023/09/29/westbridge-seeks-to-buy-stake-in-india-meesho/)
 - [Apple revamps iCloud.com with more features for drive, mail and notes](https://techcrunch.com/2023/09/29/apple-revamps-icloud-com-with-more-features-for-drive-mail-and-notes/)
 - [NASA delays launch of Psyche asteroid mission by 1 week, to Oct. 12](https://www.space.com/nasa-delays-psyche-asteroid-mission-launch-october-12)
-- [Japan&#39;s ispace nabs $55 million NASA moon landing deal, slips 3rd lunar launch to 2026](https://www.space.com/ispace-moon-lander-update-nasa-clps-contract)
 <!-- BLOG-POST-LIST:END -->
 
 ---
