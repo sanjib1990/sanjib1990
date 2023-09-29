@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Einstein ring&#39; snapped by James Webb Space Telescope is most distant gravitationally lensed object ever seen](https://www.space.com/james-webb-space-telescope-einstein-ring-gravitationally-lensed)
+- [Elon Musk’s X headed for ‘rule of law’ clash with EU, warns Twitter’s former head of trust &amp; safety](https://techcrunch.com/2023/09/29/x-vs-dsa/)
+- [Three Arrows Capital co-founder Zhu arrested in Singapore airport, sentenced four months in prison](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
+- [Pitch Deck Teardown: Point.me’s $10M Series A deck](https://techcrunch.com/2023/09/29/sample-series-a-pitch-deck-point-me/)
 - [YC, OpenAI and the trough of disillusionment](https://techcrunch.com/2023/09/29/yc-openai-and-the-trough-of-disillusionment/)
-- [Discord is working to resolve a widespread outage caused by ‘unusual traffic spikes’](https://techcrunch.com/2023/09/29/discord-working-resolve-widespread-outage-caused-unusual-traffic-spikes/)
-- [SpaceX to launch 22 Starlink satellites to orbit from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-19)
-- [8 tips to safely watch the annular solar eclipse on Oct. 14](https://www.space.com/8-safety-tips-to-watch-annular-solar-eclipse-october-2023)
-- [WestBridge evaluates buying stake in India’s Meesho at a discount](https://techcrunch.com/2023/09/29/westbridge-seeks-to-buy-stake-in-india-meesho/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
