@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These photos of Stoke Space&#39;s &#39;Hopper&#39; reusuable rocket test are just amazing](https://www.space.com/stoke-space-hopper2-test-flight-photos)
+- [VC Office Hours: How data can help improve social impact investing](https://techcrunch.com/2023/09/29/vc-office-hours-how-data-can-help-improve-social-impact-investing/)
+- [Two large equity funds launched this week. What gives?](https://techcrunch.com/2023/09/29/two-large-equity-funds-launched-out-of-europe-this-week-what-gives/)
 - [TechCrunch+ Roundup: How to pitch 7 VCs, building AI moats, immigration law Q&amp;A](https://techcrunch.com/2023/09/29/techcrunch-roundup-how-to-pitch-6-vcs-building-ai-moats-immigration-law-qa/)
 - [Startups may have trouble finding their enterprise footing](https://techcrunch.com/2023/09/29/software-market-maybe-stabilizing/)
-- [Light from the cosmic web connecting galaxies has been seen for the 1st time &lpar;video&rpar;](https://www.space.com/cosmic-web-filaments-1st-images)
-- [BeReal pushes back at report that it’s losing steam, says it now has 25M daily users](https://techcrunch.com/2023/09/29/bereal-pushes-back-at-report-that-its-losing-steam-says-it-now-has-25m-daily-users/)
-- [How to pitch me: 7 investors discuss what they’re looking for in September 2023](https://techcrunch.com/2023/09/29/how-to-pitch-me-7-investors-discuss-what-theyre-looking-for-in-september-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
