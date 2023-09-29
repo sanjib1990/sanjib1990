@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC, OpenAI and the trough of disillusionment](https://techcrunch.com/2023/09/29/yc-openai-and-the-trough-of-disillusionment/)
+- [Discord is working to resolve a widespread outage caused by ‘unusual traffic spikes’](https://techcrunch.com/2023/09/29/discord-working-resolve-widespread-outage-caused-unusual-traffic-spikes/)
 - [SpaceX to launch 22 Starlink satellites to orbit from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-19)
 - [8 tips to safely watch the annular solar eclipse on Oct. 14](https://www.space.com/8-safety-tips-to-watch-annular-solar-eclipse-october-2023)
-- [WestBridge seeks to buy stake in India’s Meesho](https://techcrunch.com/2023/09/29/westbridge-seeks-to-buy-stake-in-india-meesho/)
-- [Apple revamps iCloud.com with more features for drive, mail and notes](https://techcrunch.com/2023/09/29/apple-revamps-icloud-com-with-more-features-for-drive-mail-and-notes/)
-- [NASA delays launch of Psyche asteroid mission by 1 week, to Oct. 12](https://www.space.com/nasa-delays-psyche-asteroid-mission-launch-october-12)
+- [WestBridge evaluates buying stake in India’s Meesho at a discount](https://techcrunch.com/2023/09/29/westbridge-seeks-to-buy-stake-in-india-meesho/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
