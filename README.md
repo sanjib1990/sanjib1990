@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WestBridge seeks to buy stake in India’s Meesho](https://techcrunch.com/2023/09/29/westbridge-seeks-to-buy-stake-in-india-meesho/)
+- [Apple revamps iCloud.com with more features for drive, mail and notes](https://techcrunch.com/2023/09/29/apple-revamps-icloud-com-with-more-features-for-drive-mail-and-notes/)
+- [NASA delays launch of Psyche asteroid mission by 1 week, to Oct. 12](https://www.space.com/nasa-delays-psyche-asteroid-mission-launch-october-12)
+- [Japan&#39;s ispace nabs $55 million NASA moon landing deal, slips 3rd lunar launch to 2026](https://www.space.com/ispace-moon-lander-update-nasa-clps-contract)
 - [SpaceX’s defense-focused Starshield satellite internet business lands first contract](https://techcrunch.com/2023/09/28/spacexs-defense-focused-starshield-satellite-internet-business-lands-first-contract/)
-- [On TikTok, videos promoting steroids are exploding — and at times targeting teens](https://techcrunch.com/2023/09/28/tiktok-steroids-bodybuilding-ccdh-report/)
-- [Judge upholds $18 minimum pay for NYC delivery workers](https://techcrunch.com/2023/09/28/judge-upholds-18-minimum-pay-for-nyc-delivery-workers/)
-- [China adds yet another Yaogan spy satellite to its orbital fleet &lpar;launch video&rpar;](https://www.space.com/china-yaogan-spy-satellite-launch-september-2023)
-- [It’s not clear X CEO Linda Yaccarino knew about Elon Musk’s plan to charge for X](https://techcrunch.com/2023/09/28/its-not-clear-x-ceo-linda-yaccarino-knew-about-elon-musks-plan-to-charge-for-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
