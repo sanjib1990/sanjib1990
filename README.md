@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How methane studies on Earth could inform the search for alien life in our solar system](https://www.space.com/methane-deposits-earth-proteins-search-for-alien-life)
-- [So what happened to Blue Apron?](https://techcrunch.com/2023/09/29/wonder-group-blue-apron-acquisition/)
-- [Why product equity has become a business imperative for the future of digital products](https://techcrunch.com/2023/09/29/why-product-equity-has-become-a-business-imperative-for-the-future-of-digital-products/)
-- [X &lpar;Twitter&rpar; has paid almost $20M to creators, CEO says](https://techcrunch.com/2023/09/29/x-twitter-has-paid-almost-20m-to-creators-ceo-says/)
-- [&#39;Einstein ring&#39; snapped by James Webb Space Telescope is most distant gravitationally lensed object ever seen](https://www.space.com/james-webb-space-telescope-einstein-ring-gravitationally-lensed)
+- [TechCrunch+ Roundup: How to pitch 7 VCs, building AI moats, immigration law Q&amp;A](https://techcrunch.com/2023/09/29/techcrunch-roundup-how-to-pitch-6-vcs-building-ai-moats-immigration-law-qa/)
+- [Startups may have trouble finding their enterprise footing](https://techcrunch.com/2023/09/29/software-market-maybe-stabilizing/)
+- [Light from the cosmic web connecting galaxies has been seen for the 1st time &lpar;video&rpar;](https://www.space.com/cosmic-web-filaments-1st-images)
+- [BeReal pushes back at report that it’s losing steam, says it now has 25M daily users](https://techcrunch.com/2023/09/29/bereal-pushes-back-at-report-that-its-losing-steam-says-it-now-has-25m-daily-users/)
+- [How to pitch me: 7 investors discuss what they’re looking for in September 2023](https://techcrunch.com/2023/09/29/how-to-pitch-me-7-investors-discuss-what-theyre-looking-for-in-september-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
