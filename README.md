@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See green comet Nishimura&#39;s tail get whipped away by powerful solar storm as it slingshots around the sun &lpar;video&rpar;](https://www.space.com/comet-nishimura-tail-solar-storm-sun)
+- [The brightest planets in October&#39;s night sky: How to see them &lpar;and when&rpar;](https://www.space.com/33619-visible-planets-guide.html)
 - [When predatory investors damage your chances of success](https://techcrunch.com/2023/09/29/when-predatory-investors-damage-your-chances-of-success/)
 - [Time-lapse video shows a supernova&#39;s aftermath ballooning into space](https://www.space.com/hubble-space-telescope-aftermath-time-lapse)
 - [Pudgy Penguins’ approach may be the answer to fixing NFTs’ revenue problems](https://techcrunch.com/2023/09/29/pudgy-penguins-nfts-revenue-problems/)
-- [These photos of Stoke Space&#39;s &#39;Hopper&#39; reusuable rocket test are just amazing](https://www.space.com/stoke-space-hopper2-test-flight-photos)
-- [VC Office Hours: How data can help improve social impact investing](https://techcrunch.com/2023/09/29/vc-office-hours-how-data-can-help-improve-social-impact-investing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
