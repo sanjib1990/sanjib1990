@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When predatory investors damage your chances of success](https://techcrunch.com/2023/09/29/when-predatory-investors-damage-your-chances-of-success/)
+- [Time-lapse video shows a supernova&#39;s aftermath ballooning into space](https://www.space.com/hubble-space-telescope-aftermath-time-lapse)
+- [Pudgy Penguins’ approach may be the answer to fixing NFTs’ revenue problems](https://techcrunch.com/2023/09/29/pudgy-penguins-nfts-revenue-problems/)
 - [These photos of Stoke Space&#39;s &#39;Hopper&#39; reusuable rocket test are just amazing](https://www.space.com/stoke-space-hopper2-test-flight-photos)
 - [VC Office Hours: How data can help improve social impact investing](https://techcrunch.com/2023/09/29/vc-office-hours-how-data-can-help-improve-social-impact-investing/)
-- [Two large equity funds launched this week. What gives?](https://techcrunch.com/2023/09/29/two-large-equity-funds-launched-out-of-europe-this-week-what-gives/)
-- [TechCrunch+ Roundup: How to pitch 7 VCs, building AI moats, immigration law Q&amp;A](https://techcrunch.com/2023/09/29/techcrunch-roundup-how-to-pitch-6-vcs-building-ai-moats-immigration-law-qa/)
-- [Startups may have trouble finding their enterprise footing](https://techcrunch.com/2023/09/29/software-market-maybe-stabilizing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
