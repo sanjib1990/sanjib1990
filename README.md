@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How much can artists make from generative AI? Vendors won’t say](https://techcrunch.com/2023/09/30/how-much-can-artists-make-from-generative-ai-vendors-wont-say/)
 - [Venture capital is opening the gates for defense tech](https://techcrunch.com/2023/09/30/vc-defense-tech/)
 - [Humane’s ‘AI Pin’ debuts on the Paris runway](https://techcrunch.com/2023/09/30/humanes-ai-pin-debuts-on-the-paris-runway/)
 - [Brilliant Harvest Moon, the last supermoon of 2023, wows stargazers around the world &lpar;photos&rpar;](https://www.space.com/harvest-moon-2023-last-supermoon-wows-skywatchers-photos)
 - [Lasers cut through star trails in beautiful photo from the European Southern Observatory](https://www.space.com/star-trails-european-southern-observatory-photo)
-- [Celebrate &#39;Star Wars Rebels&#39; 10th anniversary with Marvel Comics](https://www.space.com/star-wars-rebels-10th-anniversary-marvel-comics-covers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
