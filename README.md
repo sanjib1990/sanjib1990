@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celebrate &#39;Star Wars Rebels&#39; 10th anniversary with Marvel Comics](https://www.space.com/star-wars-rebels-10th-anniversary-marvel-comics-covers)
 - [New York City is sinking — and it&#39;s not just because of the flooding](https://www.space.com/new-york-city-sinking-rising-flooding)
 - [Watch the glow of the Milky Way and ghostly zodiacal light during the 2023 Perseid meteor shower &lpar;video&rpar;](https://www.space.com/miguel-claro-360-milky-way-perseids-meteor-shower-photo)
 - [Kick streamers consider leaving over CEO’s comments in a sex worker ‘prank’ stream](https://techcrunch.com/2023/09/29/kick-streamers-leave-ceo-ice-poseidon-prank-sex-work/)
 - [Watch a dust devil swirl across Mars in this video from NASA&#39;s Perseverance rover](https://www.space.com/mars-rover-perseverance-dust-devil-august-2023)
-- [VW bails on its plan for a $2.1B EV plant in Germany](https://techcrunch.com/2023/09/29/vw-bails-on-its-plan-for-a-2-1b-ev-plant-in-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
