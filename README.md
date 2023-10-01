@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get a sneak peek at Titan Comics&#39; new &#39;Doctor Who: Once Upon A Time Lord&#39; &lpar;video&rpar;](https://www.space.com/titan-comics-doctor-who-once-upon-time-lord-trailer)
 - [See Jupiter meet up with a bright moon in the night sky tonight](https://www.space.com/jupiter-moon-meet-night-sky-october-2023)
 - [Tinder goes ultra-premium, Amazon invests in Anthropic and Apple explains its new AirPods](https://techcrunch.com/2023/09/30/tinder-goes-ultra-premium-amazon-invests-in-anthropic-and-apple-explains-its-new-airpods/)
 - [How much can artists make from generative AI? Vendors won’t say](https://techcrunch.com/2023/09/30/how-much-can-artists-make-from-generative-ai-vendors-wont-say/)
 - [Venture capital is opening the gates for defense tech](https://techcrunch.com/2023/09/30/vc-defense-tech/)
-- [Humane’s ‘AI Pin’ debuts on the Paris runway](https://techcrunch.com/2023/09/30/humanes-ai-pin-debuts-on-the-paris-runway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
