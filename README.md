@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to raise a Series A in today’s market](https://techcrunch.com/2023/10/01/raising-series-a-funding/)
+- [Why we’re seeing so many seed-stage deals in fintech](https://techcrunch.com/2023/10/01/why-were-seeing-so-many-seed-stage-deals-in-fintech/)
 - [SBF’s trial starts soon, but how did he — and FTX — get here?](https://techcrunch.com/2023/10/01/ftx-lawsuit-timeline/)
 - [A tale of two research institutes](https://techcrunch.com/2023/10/01/a-tale-of-two-research-institutes/)
 - [Get a sneak peek at Titan Comics&#39; new &#39;Doctor Who: Once Upon A Time Lord&#39; &lpar;video&rpar;](https://www.space.com/titan-comics-doctor-who-once-upon-time-lord-trailer)
-- [See Jupiter meet up with a bright moon in the night sky tonight](https://www.space.com/jupiter-moon-meet-night-sky-october-2023)
-- [Tinder goes ultra-premium, Amazon invests in Anthropic and Apple explains its new AirPods](https://techcrunch.com/2023/09/30/tinder-goes-ultra-premium-amazon-invests-in-anthropic-and-apple-explains-its-new-airpods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
