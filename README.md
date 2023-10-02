@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bird loses its NYSE wings, Uber gets tight with taxis and Tesla gets sued again for racial discrimination](https://techcrunch.com/2023/10/02/bird-loses-its-nyse-wings-uber-gets-tight-with-taxis-and-tesla-gets-sued-again-for-racial-discrimination/)
 - [Procurement is painful, so Pivot wants to simplify it](https://techcrunch.com/2023/10/01/procurement-is-painful-so-pivot-wants-to-simplify-it/)
 - [How to raise a Series A in today’s market](https://techcrunch.com/2023/10/01/raising-series-a-funding/)
 - [Why we’re seeing so many seed-stage deals in fintech](https://techcrunch.com/2023/10/01/why-were-seeing-so-many-seed-stage-deals-in-fintech/)
 - [SBF’s trial starts soon, but how did he — and FTX — get here?](https://techcrunch.com/2023/10/01/ftx-lawsuit-timeline/)
-- [A tale of two research institutes](https://techcrunch.com/2023/10/01/a-tale-of-two-research-institutes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
