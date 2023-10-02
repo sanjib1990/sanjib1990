@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark Energy Camera peels back layers of &#39;galactic onion&#39; stretched across space](https://www.space.com/dark-energy-camera-galactic-onion-photo)
-- [Queer social app Lex gets a new CEO and $5.6M to grow](https://techcrunch.com/2023/10/02/queer-social-app-lex-gets-a-new-ceo-and-5-6m-to-grow/)
-- [Japanese lunar lander leaves Earth orbit and heads toward the moon](https://www.space.com/japan-slim-moon-lander-leaves-earth-orbit)
-- [Amid Twitter chaos, Mastodon grew donations 488% in 2022, reached 1.8M monthly active users](https://techcrunch.com/2023/10/02/amid-twitter-chaos-mastodon-grew-donations-488-in-2022-reached-1-8m-monthly-active-users/)
-- [This week in AI: AI-powered personalities are all the rage](https://techcrunch.com/2023/10/02/this-week-in-ai-ai-powered-personalities-are-all-the-rage/)
+- [Virgin Galactic delays next flight by 1 day, to Oct. 6](https://www.space.com/virgin-galactic-flight-delay-october-6)
+- [How our new AI feature earned 5% adoption in its first week](https://techcrunch.com/2023/10/02/how-our-new-ai-feature-earned-5-adoption-in-its-first-week/)
+- [SBF’s trial promises to be just as riveting as the rest of the FTX drama](https://techcrunch.com/2023/10/02/sbf-trial-ftx-drama/)
+- [Kenyan legislative committee calls for Worldcoin shutdown in the country](https://techcrunch.com/2023/10/02/worldcoin-shutdown-in-kenya/)
+- [Fearless Fund barred from awarding grant to Black women founders](https://techcrunch.com/2023/10/02/fearless-fund-trial-aaer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
