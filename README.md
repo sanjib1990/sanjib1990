@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires up Falcon Heavy rocket ahead of Psyche asteroid mission launch](https://www.space.com/spacex-falcon-heavy-static-fire-psyche-asteroid-mission)
+- [Elon Musk’s X Corp faces trademark lawsuit from social media ad agency](https://techcrunch.com/2023/10/02/elon-musks-x-corp-faces-trademark-lawsuit-from-social-media-ad-agency/)
 - [Virgin Galactic delays next flight by 1 day, to Oct. 6](https://www.space.com/virgin-galactic-flight-delay-october-6)
 - [How our new AI feature earned 5% adoption in its first week](https://techcrunch.com/2023/10/02/how-our-new-ai-feature-earned-5-adoption-in-its-first-week/)
 - [SBF’s trial promises to be just as riveting as the rest of the FTX drama](https://techcrunch.com/2023/10/02/sbf-trial-ftx-drama/)
-- [Kenyan legislative committee calls for Worldcoin shutdown in the country](https://techcrunch.com/2023/10/02/worldcoin-shutdown-in-kenya/)
-- [Fearless Fund barred from awarding grant to Black women founders](https://techcrunch.com/2023/10/02/fearless-fund-trial-aaer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
