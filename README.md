@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in AI: AI-powered personalities are all the rage](https://techcrunch.com/2023/10/02/this-week-in-ai-ai-powered-personalities-are-all-the-rage/)
+- [How much carbon pollution is in your product? Muir AI raises $3.25M seed to answer that question](https://techcrunch.com/2023/10/02/carbon-pollution-muir-ai-seed-round/)
+- [NASA&#39;s plan to point a massive telescope at America&#39;s two upcoming solar eclipses](https://www.space.com/nasa-plans-to-point-massive-telescope-upcoming-solar-eclipses-citizen-science-solar-patrol)
 - [Web3 funding is down again as the crypto winter drags on](https://techcrunch.com/2023/10/02/web3-venture-funding-q3/)
 - [Beams helps product teams shine a light on the work that matters most](https://techcrunch.com/2023/10/02/beams-helps-product-teams-shine-a-light-on-the-work-that-matters-most/)
-- [&#39;The Creator&#39; delivers a derivative yet dynamic portrait of pure AI paranoia &lpar;review&rpar;](https://www.space.com/the-creator-review-gareth-edwards)
-- [We need to break Big Tech’s data broker industry](https://techcrunch.com/2023/10/02/we-need-to-break-big-techs-data-broker-industry/)
-- [TikTok might begin testing $4.99 ad-free subscription tier](https://techcrunch.com/2023/10/02/tiktok-begins-testing-4-99-ad-free-subscription-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
