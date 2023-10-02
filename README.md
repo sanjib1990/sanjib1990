@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to talk to your kids about aliens: &#39;Is There Anybody Out There?&#39;](https://www.space.com/laura-krantz-is-there-anybody-out-there-alien-life)
+- [India’s national logistics portal exposed sensitive personal data, trade records](https://techcrunch.com/2023/10/02/india-national-logistics-portal-marine-data-expose/)
 - [The Space Force should safeguard US interests on the moon &lpar;op-ed&rpar;](https://www.space.com/space-force-safeguard-us-interests-moon)
 - [Supernova in James Webb Space Telescope image could help solve one of the universe&#39;s biggest mysteries](https://www.space.com/james-webb-space-telescope-ancient-supernova-mystery)
 - [Bird loses its NYSE wings, Uber gets tight with taxis and Tesla gets sued again for racial discrimination](https://techcrunch.com/2023/10/02/bird-loses-its-nyse-wings-uber-gets-tight-with-taxis-and-tesla-gets-sued-again-for-racial-discrimination/)
-- [Procurement is painful, so Pivot wants to simplify it](https://techcrunch.com/2023/10/01/procurement-is-painful-so-pivot-wants-to-simplify-it/)
-- [How to raise a Series A in today’s market](https://techcrunch.com/2023/10/01/raising-series-a-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
