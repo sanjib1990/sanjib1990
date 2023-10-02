@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The BlueWalker 3 satellite is officially one of the brightest objects in the sky](https://www.space.com/bluewalker-3-prototype-satellite-brightest-objects-sky)
 - [UK startup readies new satellite that will make semiconductors in space](https://www.space.com/space-forge-to-make-semiconductors-in-space)
 - [Eyeing vision-based autonomy for farm equipment, Bonsai Robotics raises $10.5M](https://techcrunch.com/2023/10/02/eyeing-vision-based-autonomy-for-farm-equipment-bonsai-robotics-raises-10-5m/)
 - [Google Pixel Event 2023: How to stream the Pixel 8 reveal](https://techcrunch.com/2023/10/02/google-pixel-event-2023-how-to-stream-the-pixel-8-reveal/)
 - [Rivian Q3 deliveries beat expectations, jump 23% from previous quarter](https://techcrunch.com/2023/10/02/rivian-q3-deliveries-beat-expectations-jump-23-from-previous-quarter/)
-- [Spotify spotted developing AI-generated playlists created with prompts](https://techcrunch.com/2023/10/02/spotify-spotted-developing-ai-generated-playlists-created-with-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
