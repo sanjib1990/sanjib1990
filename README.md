@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SBF, riding high on FTX, reportedly offered $5B to Trump to cancel President re-run](https://techcrunch.com/2023/10/02/sbf-60-minutes/)
+- [Humata AI summarizes and answers questions about your PDFs](https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/)
+- [Spain&#39;s new cubesats will fly in space like a flock of geese](https://www.space.com/spain-cubesat-fly-in-formation-like-geese)
+- [Progress, the company behind MOVEit, patches new actively exploited security flaws](https://techcrunch.com/2023/10/02/progress-moveit-ftp-actively-exploited-security-flaws/)
+- [SBF, riding high on FTX, wanted to buy off Trump to cancel a Presidential re-run](https://techcrunch.com/2023/10/02/sbf-60-minutes/)
 - [Greener for Business launches to help Australian SMBs move to net zero](https://techcrunch.com/2023/10/02/greener-for-business/)
-- [&#39;Star Trek: Lower Decks&#39; security chief shines in special &#39;Star Trek: Day of Blood&#39; prequel](https://www.space.com/star-trek-lower-decks-prequel-shaxs-best-day)
-- [The Economist to launch Space Economy Summit on Oct. 11-12](https://www.space.com/the-economist-space-economy-summit-october-2023)
-- [Google launches $399 Chromebook Plus category](https://techcrunch.com/2023/10/02/google-launches-chromebook-plus-category-with-a-minimum-spec-requirements-and-399-price-tag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
