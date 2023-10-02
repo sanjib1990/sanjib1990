@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Humata AI summarizes and answers questions about your PDFs](https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/)
-- [Spain&#39;s new cubesats will fly in space like a flock of geese](https://www.space.com/spain-cubesat-fly-in-formation-like-geese)
-- [Progress, the company behind MOVEit, patches new actively exploited security flaws](https://techcrunch.com/2023/10/02/progress-moveit-ftp-actively-exploited-security-flaws/)
-- [SBF, riding high on FTX, wanted to buy off Trump to cancel a Presidential re-run](https://techcrunch.com/2023/10/02/sbf-60-minutes/)
-- [Greener for Business launches to help Australian SMBs move to net zero](https://techcrunch.com/2023/10/02/greener-for-business/)
+- [UK startup readies new satellite that will make semiconductors in space](https://www.space.com/space-forge-to-make-semiconductors-in-space)
+- [Eyeing vision-based autonomy for farm equipment, Bonsai Robotics raises $10.5M](https://techcrunch.com/2023/10/02/eyeing-vision-based-autonomy-for-farm-equipment-bonsai-robotics-raises-10-5m/)
+- [Google Pixel Event 2023: How to stream the Pixel 8 reveal](https://techcrunch.com/2023/10/02/google-pixel-event-2023-how-to-stream-the-pixel-8-reveal/)
+- [Rivian Q3 deliveries beat expectations, jump 23% from previous quarter](https://techcrunch.com/2023/10/02/rivian-q3-deliveries-beat-expectations-jump-23-from-previous-quarter/)
+- [Spotify spotted developing AI-generated playlists created with prompts](https://techcrunch.com/2023/10/02/spotify-spotted-developing-ai-generated-playlists-created-with-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
