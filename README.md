@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX fires up Falcon Heavy rocket ahead of Psyche asteroid mission launch](https://www.space.com/spacex-falcon-heavy-static-fire-psyche-asteroid-mission)
-- [Elon Musk’s X Corp faces trademark lawsuit from social media ad agency](https://techcrunch.com/2023/10/02/elon-musks-x-corp-faces-trademark-lawsuit-from-social-media-ad-agency/)
-- [Virgin Galactic delays next flight by 1 day, to Oct. 6](https://www.space.com/virgin-galactic-flight-delay-october-6)
-- [How our new AI feature earned 5% adoption in its first week](https://techcrunch.com/2023/10/02/how-our-new-ai-feature-earned-5-adoption-in-its-first-week/)
-- [SBF’s trial promises to be just as riveting as the rest of the FTX drama](https://techcrunch.com/2023/10/02/sbf-trial-ftx-drama/)
+- [Max Q: Mining moon water](https://techcrunch.com/2023/10/02/max-q-mining-moon-water/)
+- [SpaceX wins $70 million Space Force contract for Starshield military satellites](https://www.space.com/spacex-starshield-space-force-contract)
+- [Republicans still don’t know how to talk to young voters online](https://techcrunch.com/2023/10/02/tiktok-republican-social-media-campaign-struggle-vivek-ramaswamy/)
+- [Ousted Flexport CEO Dave Clark strikes back](https://techcrunch.com/2023/10/02/ousted-flexport-ceo-dave-clark-strikes-back/)
+- [Visa earmarks $100M to invest in generative AI companies](https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
