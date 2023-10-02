@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Energy Camera peels back layers of &#39;galactic onion&#39; stretched across space](https://www.space.com/dark-energy-camera-galactic-onion-photo)
+- [Queer social app Lex gets a new CEO and $5.6M to grow](https://techcrunch.com/2023/10/02/queer-social-app-lex-gets-a-new-ceo-and-5-6m-to-grow/)
+- [Japanese lunar lander leaves Earth orbit and heads toward the moon](https://www.space.com/japan-slim-moon-lander-leaves-earth-orbit)
+- [Amid Twitter chaos, Mastodon grew donations 488% in 2022, reached 1.8M monthly active users](https://techcrunch.com/2023/10/02/amid-twitter-chaos-mastodon-grew-donations-488-in-2022-reached-1-8m-monthly-active-users/)
 - [This week in AI: AI-powered personalities are all the rage](https://techcrunch.com/2023/10/02/this-week-in-ai-ai-powered-personalities-are-all-the-rage/)
-- [How much carbon pollution is in your product? Muir AI raises $3.25M seed to answer that question](https://techcrunch.com/2023/10/02/carbon-pollution-muir-ai-seed-round/)
-- [NASA&#39;s plan to point a massive telescope at America&#39;s two upcoming solar eclipses](https://www.space.com/nasa-plans-to-point-massive-telescope-upcoming-solar-eclipses-citizen-science-solar-patrol)
-- [Web3 funding is down again as the crypto winter drags on](https://techcrunch.com/2023/10/02/web3-venture-funding-q3/)
-- [Beams helps product teams shine a light on the work that matters most](https://techcrunch.com/2023/10/02/beams-helps-product-teams-shine-a-light-on-the-work-that-matters-most/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
