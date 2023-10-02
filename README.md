@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Autopilot arbitration win could set legal benchmark in auto industry](https://techcrunch.com/2023/10/02/tesla-autopilot-arbitration-win-could-set-legal-benchmark-in-auto-industry/)
 - [Max Q: Mining moon water](https://techcrunch.com/2023/10/02/max-q-mining-moon-water/)
 - [SpaceX wins $70 million Space Force contract for Starshield military satellites](https://www.space.com/spacex-starshield-space-force-contract)
 - [Republicans still don’t know how to talk to young voters online](https://techcrunch.com/2023/10/02/tiktok-republican-social-media-campaign-struggle-vivek-ramaswamy/)
 - [Ousted Flexport CEO Dave Clark strikes back](https://techcrunch.com/2023/10/02/ousted-flexport-ceo-dave-clark-strikes-back/)
-- [Visa earmarks $100M to invest in generative AI companies](https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
