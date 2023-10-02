@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The BlueWalker 3 satellite is officially one of the brightest objects in the sky](https://www.space.com/bluewalker-3-prototype-satellite-brightest-objects-sky)
-- [UK startup readies new satellite that will make semiconductors in space](https://www.space.com/space-forge-to-make-semiconductors-in-space)
-- [Eyeing vision-based autonomy for farm equipment, Bonsai Robotics raises $10.5M](https://techcrunch.com/2023/10/02/eyeing-vision-based-autonomy-for-farm-equipment-bonsai-robotics-raises-10-5m/)
-- [Google Pixel Event 2023: How to stream the Pixel 8 reveal](https://techcrunch.com/2023/10/02/google-pixel-event-2023-how-to-stream-the-pixel-8-reveal/)
-- [Rivian Q3 deliveries beat expectations, jump 23% from previous quarter](https://techcrunch.com/2023/10/02/rivian-q3-deliveries-beat-expectations-jump-23-from-previous-quarter/)
+- [Web3 funding is down again as the crypto winter drags on](https://techcrunch.com/2023/10/02/web3-venture-funding-q3/)
+- [Beams helps product teams shine a light on the work that matters most](https://techcrunch.com/2023/10/02/beams-helps-product-teams-shine-a-light-on-the-work-that-matters-most/)
+- [&#39;The Creator&#39; delivers a derivative yet dynamic portrait of pure AI paranoia &lpar;review&rpar;](https://www.space.com/the-creator-review-gareth-edwards)
+- [We need to break Big Tech’s data broker industry](https://techcrunch.com/2023/10/02/we-need-to-break-big-techs-data-broker-industry/)
+- [TikTok might begin testing $4.99 ad-free subscription tier](https://techcrunch.com/2023/10/02/tiktok-begins-testing-4-99-ad-free-subscription-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
