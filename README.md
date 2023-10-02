@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to talk to your kids about aliens: &#39;Is There Anybody Out There?&#39;](https://www.space.com/laura-krantz-is-there-anybody-out-there-alien-life)
-- [India’s national logistics portal exposed sensitive personal data, trade records](https://techcrunch.com/2023/10/02/india-national-logistics-portal-marine-data-expose/)
-- [The Space Force should safeguard US interests on the moon &lpar;op-ed&rpar;](https://www.space.com/space-force-safeguard-us-interests-moon)
-- [Supernova in James Webb Space Telescope image could help solve one of the universe&#39;s biggest mysteries](https://www.space.com/james-webb-space-telescope-ancient-supernova-mystery)
-- [Bird loses its NYSE wings, Uber gets tight with taxis and Tesla gets sued again for racial discrimination](https://techcrunch.com/2023/10/02/bird-loses-its-nyse-wings-uber-gets-tight-with-taxis-and-tesla-gets-sued-again-for-racial-discrimination/)
+- [SBF, riding high on FTX, reportedly offered $5B to Trump to cancel President re-run](https://techcrunch.com/2023/10/02/sbf-60-minutes/)
+- [Greener for Business launches to help Australian SMBs move to net zero](https://techcrunch.com/2023/10/02/greener-for-business/)
+- [&#39;Star Trek: Lower Decks&#39; security chief shines in special &#39;Star Trek: Day of Blood&#39; prequel](https://www.space.com/star-trek-lower-decks-prequel-shaxs-best-day)
+- [The Economist to launch Space Economy Summit on Oct. 11-12](https://www.space.com/the-economist-space-economy-summit-october-2023)
+- [Google launches $399 Chromebook Plus category](https://techcrunch.com/2023/10/02/google-launches-chromebook-plus-category-with-a-minimum-spec-requirements-and-399-price-tag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
