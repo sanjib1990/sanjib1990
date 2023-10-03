@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stitch raises $25M Series A extension led by Ribbit Capital, increasing the round’s total to $46M](https://techcrunch.com/2023/10/02/stitch-raises-25m-series-a-extension-led-by-ribbit-capital-increasing-the-rounds-total-to-46m/)
-- [Unitary AI picks up $15M for its multimodal approach to video content moderation](https://techcrunch.com/2023/10/02/unitary-ai-picks-up-15m-for-its-multimodal-approach-to-video-content-moderation/)
-- [Elon Musk is being sued for defamation after falsely claiming a man was a neo-Nazi on X](https://techcrunch.com/2023/10/02/elon-musk-is-being-sued-for-defamation-after-falsely-claiming-a-man-was-a-neo-nazi-on-x/)
-- [Tesla Autopilot arbitration win could set legal benchmark in auto industry](https://techcrunch.com/2023/10/02/tesla-autopilot-arbitration-win-could-set-legal-benchmark-in-auto-industry/)
-- [Max Q: Mining moon water](https://techcrunch.com/2023/10/02/max-q-mining-moon-water/)
+- [Cloaked manages your logins with proxy emails, phone numbers and a built-in password manager](https://techcrunch.com/2023/10/03/cloaked-manages-your-logins-with-proxy-emails-phone-numbers-and-a-built-in-password-manager/)
+- [The new Ford F-150 Lightning Flash puts tech and battery range on center stage](https://techcrunch.com/2023/10/03/ford-launches-new-f-150-lightning-flash/)
+- [Microphones in space: Why scientists want to listen in on alien worlds](https://www.space.com/microphones-in-space-listen-to-alien-worlds)
+- [&#39;Lightning&#39; on Venus may not be lightning at all, Parker Solar Probe finds](https://www.space.com/parker-solar-probe-truth-lightning-venus)
+- [HMD Global starts manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21 5G phone](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
