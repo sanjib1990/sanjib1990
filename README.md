@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unitary AI picks up $15M for its multimodal approach to video content moderation](https://techcrunch.com/2023/10/02/unitary-ai-picks-up-15m-for-its-multimodal-approach-to-video-content-moderation/)
 - [Elon Musk is being sued for defamation after falsely claiming a man was a neo-Nazi on X](https://techcrunch.com/2023/10/02/elon-musk-is-being-sued-for-defamation-after-falsely-claiming-a-man-was-a-neo-nazi-on-x/)
 - [Tesla Autopilot arbitration win could set legal benchmark in auto industry](https://techcrunch.com/2023/10/02/tesla-autopilot-arbitration-win-could-set-legal-benchmark-in-auto-industry/)
 - [Max Q: Mining moon water](https://techcrunch.com/2023/10/02/max-q-mining-moon-water/)
 - [SpaceX wins $70 million Space Force contract for Starshield military satellites](https://www.space.com/spacex-starshield-space-force-contract)
-- [Republicans still don’t know how to talk to young voters online](https://techcrunch.com/2023/10/02/tiktok-republican-social-media-campaign-struggle-vivek-ramaswamy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
