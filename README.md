@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US government confirms it didn’t offer any plea deals to Sam Bankman-Fried](https://techcrunch.com/2023/10/03/sbf-ftx-trial-day-one/)
-- [TechCrunch+ Roundup: SBF’s trial opens, Series A tips, how to roll out AI features](https://techcrunch.com/2023/10/03/techcrunch-roundup-sbfs-trial-opens-series-a-tips-how-to-roll-out-ai-features/)
-- [Arc browser’s new AI-powered features combine OpenAI and Anthropic’s models](https://techcrunch.com/2023/10/03/arc-browsers-new-ai-powered-features-combine-openai-and-anthropics-models/)
-- [Promova’s new feature helps people with dyslexia learn a new language](https://techcrunch.com/2023/10/03/promovas-new-feature-helps-people-with-dyslexia-learn-a-new-language/)
-- [Gmail to enforce harsher rules in 2024 to keep spam from users’ inboxes](https://techcrunch.com/2023/10/03/gmail-to-enforce-harsher-rules-in-2024-to-keep-spam-from-users-inboxes/)
+- [NASA&#39;s Eclipse Explorer 2023 lets you track the Oct. 14 annular solar eclipse with new interactive map](https://www.space.com/annular-solar-eclipse-2023-nasa-eclipse-explorer-interactive-map)
+- [James Webb Space Telescope&#39;s stunning mosaic of Orion Nebula uncovers rogue planets](https://www.space.com/james-webb-space-telescope-rogue-planets-stars-forming)
+- [World Space Week 2023 kicks off Oct. 4 to highlight the growing private space economy](https://www.space.com/world-space-week-events-2023)
+- [Celestron EclipSmart 2x Power Viewers Solar Eclipse and Solar Eclipse Glasses Observing Kit review](https://www.space.com/celestron-eclipsmart-2x-power-viewers-and-solar-eclipse-glasses-kit-review)
+- [&#39;Star Trek: The Illustrated Oral History&#39; goes behind the scenes with the eclectic crew of the original Enterprise](https://www.space.com/star-trek-illustrated-history-original-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
