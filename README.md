@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HCVC is back with a new $75 million deep tech fund](https://techcrunch.com/2023/10/03/hcvc-is-back-with-a-new-75-million-deep-tech-fund/)
 - [Cloaked manages your logins with proxy emails, phone numbers and a built-in password manager](https://techcrunch.com/2023/10/03/cloaked-manages-your-logins-with-proxy-emails-phone-numbers-and-a-built-in-password-manager/)
 - [The new Ford F-150 Lightning Flash puts tech and battery range on center stage](https://techcrunch.com/2023/10/03/ford-launches-new-f-150-lightning-flash/)
 - [Microphones in space: Why scientists want to listen in on alien worlds](https://www.space.com/microphones-in-space-listen-to-alien-worlds)
 - [&#39;Lightning&#39; on Venus may not be lightning at all, Parker Solar Probe finds](https://www.space.com/parker-solar-probe-truth-lightning-venus)
-- [HMD Global starts manufacturing in Europe with the ‘Made in Hungary’ Nokia XR21 5G phone](https://techcrunch.com/2023/10/03/nokia-hmd-global-europe-smartphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
