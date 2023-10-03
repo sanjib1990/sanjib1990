@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA&#39;s Psyche probe will launch to a metal asteroid on Oct. 12 — and scientists are sneaking a peek at the target](https://www.space.com/james-webb-space-telescope-sofia-psyche-data)
+- [Electric Hydrogen is the green hydrogen industry’s first unicorn](https://techcrunch.com/2023/10/03/electric-hydrogen-is-the-green-hydrogen-industrys-first-unicorn/)
+- [In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi](https://techcrunch.com/2023/10/03/in-latest-cruise-incident-video-shows-pedestrian-struck-by-human-driven-car-then-run-over-by-robotaxi/)
 - [SpaceX&#39;s giant Starship vehicle towers above turquoise waters in gorgeous photo](https://www.space.com/spacex-starship-stacked-gulf-of-mexico-photo)
-- [The James Webb Space Telescope&#39;s early galaxy images were oddly bright. Now we know why](https://www.space.com/james-webb-space-telescope-early-galaxies-explained-starburst)
-- [Meet the crew of Virgin Galactic&#39;s 4th commercial spaceflight launching on Oct. 6](https://www.space.com/virgin-galactic-04-mission-meet-the-crew)
-- [NASA&#39;s Eclipse Explorer 2023 lets you track the Oct. 14 annular solar eclipse with new interactive map](https://www.space.com/annular-solar-eclipse-2023-nasa-eclipse-explorer-interactive-map)
+- [Spotify to include a selection of 150K audiobooks with its Premium subscription](https://techcrunch.com/2023/10/03/spotify-to-include-a-selection-of-audiobooks-with-its-premium-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
