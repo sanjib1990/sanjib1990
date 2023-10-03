@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The James Webb Space Telescope&#39;s early galaxy images were oddly bright. Now we know why](https://www.space.com/james-webb-space-telescope-early-galaxies-explained-starburst)
+- [Meet the crew of Virgin Galactic&#39;s 4th commercial spaceflight launching on Oct. 6](https://www.space.com/virgin-galactic-04-mission-meet-the-crew)
+- [You can now add PayPal and Venmo credit or debit cards to your Apple Wallet](https://techcrunch.com/2023/10/03/you-can-now-add-paypal-venmo-credit-debit-cards-apple-wallet/)
+- [The Xencelabs Pen Display 24 is a terrific alternative to Wacom’s big-screen drawing tablets](https://techcrunch.com/2023/10/03/xencelabs-pen-display-24-review/)
 - [NASA&#39;s Eclipse Explorer 2023 lets you track the Oct. 14 annular solar eclipse with new interactive map](https://www.space.com/annular-solar-eclipse-2023-nasa-eclipse-explorer-interactive-map)
-- [James Webb Space Telescope&#39;s stunning mosaic of Orion Nebula uncovers rogue planets](https://www.space.com/james-webb-space-telescope-rogue-planets-stars-forming)
-- [World Space Week 2023 kicks off Oct. 4 to highlight the growing private space economy](https://www.space.com/world-space-week-events-2023)
-- [Celestron EclipSmart 2x Power Viewers Solar Eclipse and Solar Eclipse Glasses Observing Kit review](https://www.space.com/celestron-eclipsmart-2x-power-viewers-and-solar-eclipse-glasses-kit-review)
-- [&#39;Star Trek: The Illustrated Oral History&#39; goes behind the scenes with the eclectic crew of the original Enterprise](https://www.space.com/star-trek-illustrated-history-original-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
