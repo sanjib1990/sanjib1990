@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dry Studio’s Black Diamond 75 is a gaming keyboard that actually looks good](https://techcrunch.com/2023/10/03/angry_maio_dry-studios-black-diamond-75-is-a-gaming-keyboard-that-actually-looks-good/)
-- [&#39;We need to get to Mars before I die.&#39; Read exclusive excerpt from &#39;Elon Musk&#39; by biographer Walter Isaacson](https://www.space.com/elon-musk-walter-isaacson-book-excerpt-starship-surge)
-- [DoorDash tests a feature that rewards users for dining out, not ordering in](https://techcrunch.com/2023/10/03/doordash-tests-a-feature-that-rewards-users-for-dining-out-not-ordering-in/)
-- [Adapting to a world with higher interest rates — a guide for startups](https://techcrunch.com/2023/10/03/adapting-to-a-world-with-higher-interest-rates-a-guide-for-startups/)
-- [Wattpad ditches ‘Paid Stories’ for a freemium model](https://techcrunch.com/2023/10/03/wattpad-ditches-paid-content-stories-program-for-a-freemium-model/)
+- [Qobra raises $10.5 million for its real-time sales compensation tool](https://techcrunch.com/2023/10/03/qobra-raises-105-million-for-its-real-time-sales-compensation-tool/)
+- [FBI most-wanted Russian hacker reveals why he burned his passport](https://techcrunch.com/2023/10/03/fbi-most-wanted-russian-hacker-reveals-why-he-burned-his-passport/)
+- [Everything we know about Invincible season 2: release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-invincible-season-2)
+- [US government issues 1st-ever space debris fine, serves DISH $150k penalty](https://www.space.com/space-debris-fcc-first-fine-dish-deorbit-satellite)
+- [Motel One says ransomware gang stole customer credit card data](https://techcrunch.com/2023/10/03/motel-one-says-ransomware-gang-stole-customer-credit-card-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
