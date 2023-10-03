@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arc browser’s new AI-powered features combine OpenAI and Anthropic’s models](https://techcrunch.com/2023/10/03/arc-browsers-new-ai-powered-features-combine-openai-and-anthropics-models/)
+- [Promova’s new feature helps people with dyslexia learn a new language](https://techcrunch.com/2023/10/03/promovas-new-feature-helps-people-with-dyslexia-learn-a-new-language/)
+- [Gmail to enforce harsher rules in 2024 to keep spam from users’ inboxes](https://techcrunch.com/2023/10/03/gmail-to-enforce-harsher-rules-in-2024-to-keep-spam-from-users-inboxes/)
+- [Celestron EclipSmart 2x Power Viewers Solar Eclipse and Solar Eclipse Glasses Observing Kit review](https://www.space.com/celestron-eclipsmart-2x-power-viewers-and-solar-eclipse-glasses-kit-review)
 - [Don’t sweat the valuation headlines, ByteDance is doing great](https://techcrunch.com/2023/10/03/bytedance-valuation-business-tiktok/)
-- [Greylock secures $1B for its 17th fund amid launch of early-stage founders program](https://techcrunch.com/2023/10/03/greylock-1b-venture-capital-founders-program/)
-- [PlanetScale forks MySQL to add vector support](https://techcrunch.com/2023/10/03/planetscale-forks-mysql-to-add-vector-support/)
-- [The EU is about to adopt a dangerous law with international consequences](https://techcrunch.com/2023/10/03/the-eu-media-freedom-act-is-a-dangerous-law/)
-- [&#39;Star Trek: The Illustrated Oral History&#39; goes behind the scenes with the eclectic crew of the original Enterprise](https://www.space.com/star-trek-illustrated-history-original-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
