@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s giant Starship vehicle towers above turquoise waters in gorgeous photo](https://www.space.com/spacex-starship-stacked-gulf-of-mexico-photo)
+- [Spotify to include a selection of 150K audiobooks with its Premium subscription](https://techcrunch.com/2023/10/03/spotify-to-include-a-selection-of-audiobooks-with-its-premium-subscription/)
+- [How an AI deepfake ad of MrBeast ended up on TikTok](https://techcrunch.com/2023/10/03/how-an-ai-deepfake-ad-of-mrbeast-ended-up-on-tiktok/)
+- [7 companies to provide NASA with commercial satellite imagery under $476M contract](https://techcrunch.com/2023/10/03/7-companies-to-provide-nasa-with-commercial-satellite-imagery-under-476m-contract/)
 - [The James Webb Space Telescope&#39;s early galaxy images were oddly bright. Now we know why](https://www.space.com/james-webb-space-telescope-early-galaxies-explained-starburst)
-- [Meet the crew of Virgin Galactic&#39;s 4th commercial spaceflight launching on Oct. 6](https://www.space.com/virgin-galactic-04-mission-meet-the-crew)
-- [You can now add PayPal and Venmo credit or debit cards to your Apple Wallet](https://techcrunch.com/2023/10/03/you-can-now-add-paypal-venmo-credit-debit-cards-apple-wallet/)
-- [The Xencelabs Pen Display 24 is a terrific alternative to Wacom’s big-screen drawing tablets](https://techcrunch.com/2023/10/03/xencelabs-pen-display-24-review/)
-- [NASA&#39;s Eclipse Explorer 2023 lets you track the Oct. 14 annular solar eclipse with new interactive map](https://www.space.com/annular-solar-eclipse-2023-nasa-eclipse-explorer-interactive-map)
 <!-- BLOG-POST-LIST:END -->
 
 ---
