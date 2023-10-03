@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ten Key Labs wants to simplify managing equity for startups](https://techcrunch.com/2023/10/03/ten-key-labs-wants-to-simplify-managing-equity-for-startups/)
+- [NASA extends New Horizons mission through late 2020s](https://www.space.com/nasa-extends-new-horizons-mission-late-2020s)
+- [Venture capital spring is here](https://techcrunch.com/2023/10/03/venture-capital-spring-is-here/)
 - [HCVC is back with a new $75 million deep tech fund](https://techcrunch.com/2023/10/03/hcvc-is-back-with-a-new-75-million-deep-tech-fund/)
 - [Cloaked manages your logins with proxy emails, phone numbers and a built-in password manager](https://techcrunch.com/2023/10/03/cloaked-manages-your-logins-with-proxy-emails-phone-numbers-and-a-built-in-password-manager/)
-- [The new Ford F-150 Lightning Flash puts tech and battery range on center stage](https://techcrunch.com/2023/10/03/ford-launches-new-f-150-lightning-flash/)
-- [Microphones in space: Why scientists want to listen in on alien worlds](https://www.space.com/microphones-in-space-listen-to-alien-worlds)
-- [&#39;Lightning&#39; on Venus may not be lightning at all, Parker Solar Probe finds](https://www.space.com/parker-solar-probe-truth-lightning-venus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
