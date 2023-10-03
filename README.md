@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Qobra raises $10.5 million for its real-time sales compensation tool](https://techcrunch.com/2023/10/03/qobra-raises-105-million-for-its-real-time-sales-compensation-tool/)
-- [FBI most-wanted Russian hacker reveals why he burned his passport](https://techcrunch.com/2023/10/03/fbi-most-wanted-russian-hacker-reveals-why-he-burned-his-passport/)
-- [Everything we know about Invincible season 2: release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-invincible-season-2)
-- [US government issues 1st-ever space debris fine, serves DISH $150k penalty](https://www.space.com/space-debris-fcc-first-fine-dish-deorbit-satellite)
-- [Motel One says ransomware gang stole customer credit card data](https://techcrunch.com/2023/10/03/motel-one-says-ransomware-gang-stole-customer-credit-card-data/)
+- [Don’t sweat the valuation headlines, ByteDance is doing great](https://techcrunch.com/2023/10/03/bytedance-valuation-business-tiktok/)
+- [Greylock secures $1B for its 17th fund amid launch of early-stage founders program](https://techcrunch.com/2023/10/03/greylock-1b-venture-capital-founders-program/)
+- [PlanetScale forks MySQL to add vector support](https://techcrunch.com/2023/10/03/planetscale-forks-mysql-to-add-vector-support/)
+- [The EU is about to adopt a dangerous law with international consequences](https://techcrunch.com/2023/10/03/the-eu-media-freedom-act-is-a-dangerous-law/)
+- [&#39;Star Trek: The Illustrated Oral History&#39; goes behind the scenes with the eclectic crew of the original Enterprise](https://www.space.com/star-trek-illustrated-history-original-series)
 <!-- BLOG-POST-LIST:END -->
 
 ---
