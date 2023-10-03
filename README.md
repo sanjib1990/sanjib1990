@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dry Studio’s Black Diamond 75 is a gaming keyboard that actually looks good](https://techcrunch.com/2023/10/03/angry_maio_dry-studios-black-diamond-75-is-a-gaming-keyboard-that-actually-looks-good/)
+- [&#39;We need to get to Mars before I die.&#39; Read exclusive excerpt from &#39;Elon Musk&#39; by biographer Walter Isaacson](https://www.space.com/elon-musk-walter-isaacson-book-excerpt-starship-surge)
+- [DoorDash tests a feature that rewards users for dining out, not ordering in](https://techcrunch.com/2023/10/03/doordash-tests-a-feature-that-rewards-users-for-dining-out-not-ordering-in/)
 - [Adapting to a world with higher interest rates — a guide for startups](https://techcrunch.com/2023/10/03/adapting-to-a-world-with-higher-interest-rates-a-guide-for-startups/)
 - [Wattpad ditches ‘Paid Stories’ for a freemium model](https://techcrunch.com/2023/10/03/wattpad-ditches-paid-content-stories-program-for-a-freemium-model/)
-- [&#39;Modest, humble, and uncommonly smart&#39;: How a Soviet mathematician quietly solved the mystery of planet formation](https://www.space.com/soviet-mathematician-solves-planet-formation-mystery)
-- [Science lab automation and robotics startup Automata raises $40M](https://techcrunch.com/2023/10/03/lab-automation-and-robotics-startup-automata-raises-40m/)
-- [Meta planning ad-free subscription or tracking ads ‘choice’ in EU, per WSJ — in latest bid to keep snooping](https://techcrunch.com/2023/10/03/meta-subscription-vs-consent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
