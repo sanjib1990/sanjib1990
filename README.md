@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ten Key Labs wants to simplify managing equity for startups](https://techcrunch.com/2023/10/03/ten-key-labs-wants-to-simplify-managing-equity-for-startups/)
-- [NASA extends New Horizons mission through late 2020s](https://www.space.com/nasa-extends-new-horizons-mission-late-2020s)
-- [Venture capital spring is here](https://techcrunch.com/2023/10/03/venture-capital-spring-is-here/)
-- [HCVC is back with a new $75 million deep tech fund](https://techcrunch.com/2023/10/03/hcvc-is-back-with-a-new-75-million-deep-tech-fund/)
-- [Cloaked manages your logins with proxy emails, phone numbers and a built-in password manager](https://techcrunch.com/2023/10/03/cloaked-manages-your-logins-with-proxy-emails-phone-numbers-and-a-built-in-password-manager/)
+- [Adapting to a world with higher interest rates — a guide for startups](https://techcrunch.com/2023/10/03/adapting-to-a-world-with-higher-interest-rates-a-guide-for-startups/)
+- [Wattpad ditches ‘Paid Stories’ for a freemium model](https://techcrunch.com/2023/10/03/wattpad-ditches-paid-content-stories-program-for-a-freemium-model/)
+- [&#39;Modest, humble, and uncommonly smart&#39;: How a Soviet mathematician quietly solved the mystery of planet formation](https://www.space.com/soviet-mathematician-solves-planet-formation-mystery)
+- [Science lab automation and robotics startup Automata raises $40M](https://techcrunch.com/2023/10/03/lab-automation-and-robotics-startup-automata-raises-40m/)
+- [Meta planning ad-free subscription or tracking ads ‘choice’ in EU, per WSJ — in latest bid to keep snooping](https://techcrunch.com/2023/10/03/meta-subscription-vs-consent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
