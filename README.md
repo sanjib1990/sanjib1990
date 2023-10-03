@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Problem Session 8](https://www.youtube.com/watch?v=UuxR0NCkg0k)
+- [Problem Session 7](https://www.youtube.com/watch?v=Md9QOXomxFs)
+- [Problem Session 9](https://www.youtube.com/watch?v=KPkOkiwAlbY)
 - [I’ve been hiding something from you….](https://www.youtube.com/watch?v=083-46NVMd8)
 - [How To Access the DARK WEB in 2023 &lpar;3 Levels&rpar;](https://www.youtube.com/watch?v=U2-JPqrALsA)
-- [the Raspberry Pi 5 is finally here!!!!](https://www.youtube.com/watch?v=F8kvAc9Gr1o)
-- [How Bzip2 Works &lpar;Burrows Wheeler Transform&rpar; - Computerphile](https://www.youtube.com/watch?v=GYbCttCF25A)
-- [the Raspberry Pi 5](https://www.youtube.com/watch?v=jsKqQvFk7Sk)
 <!-- YOUTUBE:END -->
 
 ---
