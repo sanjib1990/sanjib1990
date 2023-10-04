@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Watch’s new double tap gesture is now live in the watchOS 10.1 public beta](https://techcrunch.com/2023/10/04/apple-watchs-new-double-tap-gesture-is-now-live-in-the-watchos-10-1-public-beta/)
-- [OSIRIS-REx watched its asteroid sample capsule head toward Earth &lpar;photos&rpar;](https://www.space.com/osiris-rex-asteroid-sample-capsule-jettison-video)
-- [Lyca Mobile blames cyberattack for network disruption](https://techcrunch.com/2023/10/04/lyca-mobile-blames-cyberattack-for-network-disruption/)
-- [The global VC market continues to stumble](https://techcrunch.com/2023/10/04/the-global-vc-market-continues-to-stumble/)
-- [Astroscale gets up to $80 million for space junk inspection mission](https://www.space.com/astroscale-grant-inspect-large-dead-satellite)
+- [What’s at stake in the Supreme Court’s landmark social media case](https://techcrunch.com/2023/10/04/supreme-court-social-media-case-content-moderation-explained/)
+- [NASA will launch rockets into the annular solar eclipse&#39;s shadow on Oct. 14](https://www.space.com/nasa-sounding-rockets-ring-of-fire-eclipse)
+- [Three weeks later, investors still not terribly enthusiastic about the massive Cisco-Splunk deal](https://techcrunch.com/2023/10/04/cisco-splunk-deal-investors-disappointed/)
+- [Actually, X sees 500M posts per day — not 100M-200M as Musk recently said](https://techcrunch.com/2023/10/04/actually-x-sees-500m-posts-per-day-not-100m-200m-as-musk-recently-said/)
+- [Keep Labs’ smart storage redefines medication management](https://techcrunch.com/2023/10/04/keep-labs-smart-storage-redefines-medication-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
