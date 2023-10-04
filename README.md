@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Opsera, a DevOps platform geared toward enterprises, raises $12M](https://techcrunch.com/2023/10/04/opsera-a-devops-platform-geared-toward-enterprises-raises-12m/)
-- [Impulse Space CEO Tom Mueller talks early days at SpaceX, moon bases and a booming space industry &lpar;exclusive&rpar;](https://www.space.com/tom-mueller-impulse-space-mira-spacecraft)
-- [EU lawmakers take aim at ‘arbitrary’ decisions by Big Tech in Media Freedom Act vote](https://techcrunch.com/2023/10/04/eu-parliament-media-freedom-act-mandate/)
-- [Make these 5 changes to avoid becoming the next cybersecurity headline](https://techcrunch.com/2023/10/04/make-these-5-changes-to-avoid-becoming-the-next-cybersecurity-headline/)
-- [Uber couriers will now drop your package off at the post office](https://techcrunch.com/2023/10/04/uber-couriers-will-now-drop-your-package-off-at-the-post-office/)
+- [Rainforest raises $8.5M to help software companies embed financial services, payments](https://techcrunch.com/2023/10/04/rainforest-raises-8-5m-to-help-software-companies-embed-financial-services-payments/)
+- [Pow.bio says biomanufacturing is broken and its continuous fermentation tech will fix it](https://techcrunch.com/2023/10/04/pow-bio-biomanufacturing-fermentation-foodtech/)
+- [Recapitalization, $60M Series D support growth of e-commerce financier Clearco](https://techcrunch.com/2023/10/04/clearco-60m-e-commerce-financier/)
+- [Rabbit is building an AI model that understands how software works](https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-that-understands-how-software-works/)
+- [Okta plans to weave AI across its entire identity platform using multiple models](https://techcrunch.com/2023/10/04/okta-plans-to-weave-ai-across-its-entire-identity-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
