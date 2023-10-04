@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Krafton India launches gaming incubator to expand local ecosystem](https://techcrunch.com/2023/10/03/krafton-india-gaming-incubator/)
 - [NASA&#39;s Psyche probe will launch to a metal asteroid on Oct. 12 — and scientists are sneaking a peek at the target](https://www.space.com/james-webb-space-telescope-sofia-psyche-data)
 - [Electric Hydrogen is the green hydrogen industry’s first unicorn](https://techcrunch.com/2023/10/03/electric-hydrogen-is-the-green-hydrogen-industrys-first-unicorn/)
 - [In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi](https://techcrunch.com/2023/10/03/in-latest-cruise-incident-video-shows-pedestrian-struck-by-human-driven-car-then-run-over-by-robotaxi/)
 - [SpaceX&#39;s giant Starship vehicle towers above turquoise waters in gorgeous photo](https://www.space.com/spacex-starship-stacked-gulf-of-mexico-photo)
-- [Spotify to include a selection of 150K audiobooks with its Premium subscription](https://techcrunch.com/2023/10/03/spotify-to-include-a-selection-of-audiobooks-with-its-premium-subscription/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
