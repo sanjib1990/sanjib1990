@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars Society conference happening online Oct. 5 through Oct. 8](https://www.space.com/mars-society-annual-conference-2023-preview)
 - [Patreon launches new features, a redesigned app and a new look](https://techcrunch.com/2023/10/04/patreon-launches-new-features-a-redesigned-app-and-a-new-look/)
 - [Microsoft won’t say if its products were exploited by spyware zero-days](https://techcrunch.com/2023/10/04/microsoft-wont-say-if-its-products-were-exploited-by-spyware-zero-days/)
 - [Walmart experiments with generative AI tools that can help you plan a party or decorate](https://techcrunch.com/2023/10/04/walmart-experiments-with-new-generative-ai-tools-that-can-help-you-plan-a-party-or-decorate-a-space/)
 - [What’s at stake in the Supreme Court’s landmark social media case](https://techcrunch.com/2023/10/04/supreme-court-social-media-case-content-moderation-explained/)
-- [NASA will launch rockets into the annular solar eclipse&#39;s shadow on Oct. 14](https://www.space.com/nasa-sounding-rockets-ring-of-fire-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
