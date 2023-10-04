@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Habyt, an Airbnb-style platform aimed at longer stays and ‘flexible living’, raises $42M](https://techcrunch.com/2023/10/04/habyt-42-million/)
-- [Google Pixel Event 2023: Everything you need to know about Pixel 8, Pixel Watch 2, Pixel Buds Pro, Android 14](https://techcrunch.com/2023/10/04/google-pixel-event-2023-everything-you-need-to-know/)
-- [Up close with Intuitive Machine&#39;s Nova-C lunar lander before it leaves for the moon](https://www.space.com/intuitive-machines-nova-c-im-1-leaving-houston)
-- [Google announces AI-powered photo editing features for new Pixel phones](https://techcrunch.com/2023/10/04/google-announces-ai-powered-photo-editing-features-for-new-pixel-phones/)
-- [Pixel’s Call Screen feature gets better at filtering calls with a new conversational mode](https://techcrunch.com/2023/10/04/pixels-call-screen-feature-gets-better-at-filtering-calls-with-a-new-conversational-mode/)
+- [News app turned X competitor Artifact now lets users generate AI images for their posts](https://techcrunch.com/2023/10/04/news-app-turned-x-competitor-artifact-now-lets-users-generate-ai-images-for-their-posts/)
+- [Docker launches remote container builds, new debugging tools and more](https://techcrunch.com/2023/10/04/docker-launches-remote-container-builds-new-debugging-tools-and-more/)
+- [The James Webb Space Telescope shines in trailer for new IMAX film  &#39;Deep Sky&#39;  &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-documentary-deep-sky-imax-trailer)
+- [Lemurian Labs is building a new compute paradigm to reduce cost of running AI models](https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/)
+- [At One Ventures $375M new fund shows climate tech is still hot](https://techcrunch.com/2023/10/04/at-one-ventures-climate-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
