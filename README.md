@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Problem Session 8](https://www.youtube.com/watch?v=UuxR0NCkg0k)
-- [Problem Session 7](https://www.youtube.com/watch?v=Md9QOXomxFs)
-- [Problem Session 9](https://www.youtube.com/watch?v=KPkOkiwAlbY)
-- [I’ve been hiding something from you….](https://www.youtube.com/watch?v=083-46NVMd8)
-- [How To Access the DARK WEB in 2023 &lpar;3 Levels&rpar;](https://www.youtube.com/watch?v=U2-JPqrALsA)
+- [36. Neocortex, part 2](https://www.youtube.com/watch?v=xZ72LPLHVSY)
+- [34. Corpus striatum, part 2](https://www.youtube.com/watch?v=TeNrTKjJJ5g)
+- [28. Hypothalamus and limbic system, part 2](https://www.youtube.com/watch?v=VQlZOIAQZSc)
+- [31. Hypothalamus and limbic system, part 5](https://www.youtube.com/watch?v=pgjBwhb7A28)
+- [22. Visual systems, part 2](https://www.youtube.com/watch?v=8MyPd4F7y54)
 <!-- YOUTUBE:END -->
 
 ---
