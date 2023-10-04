@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX poised to launch its 70th mission of the year tonight](https://www.space.com/spacex-starlink-launch-group-6-21)
 - [News app turned X competitor Artifact now lets users generate AI images for their posts](https://techcrunch.com/2023/10/04/news-app-turned-x-competitor-artifact-now-lets-users-generate-ai-images-for-their-posts/)
 - [Docker launches remote container builds, new debugging tools and more](https://techcrunch.com/2023/10/04/docker-launches-remote-container-builds-new-debugging-tools-and-more/)
 - [The James Webb Space Telescope shines in trailer for new IMAX film  &#39;Deep Sky&#39;  &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-documentary-deep-sky-imax-trailer)
 - [Lemurian Labs is building a new compute paradigm to reduce cost of running AI models](https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/)
-- [At One Ventures $375M new fund shows climate tech is still hot](https://techcrunch.com/2023/10/04/at-one-ventures-climate-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
