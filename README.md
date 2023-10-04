@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber couriers will now drop your package off at the post office](https://techcrunch.com/2023/10/04/uber-couriers-will-now-drop-your-package-off-at-the-post-office/)
 - [Chinese astronomers say their new space telescope will outdo Hubble](https://www.space.com/china-space-telescope-xuntian)
 - [Nobel Prize in physics awarded to 3 scientists who glimpsed the inner world of atoms with tiny light pulses](https://www.space.com/nobel-prize-physics-attoseconds-inside-atoms-electrons)
 - [Open Banking led to a FinTech boom — As Brite raises $60M, account-to-account payment grows](https://techcrunch.com/2023/10/04/open-banking-led-to-a-fintech-boom-as-brite-raises-60m-account-to-account-payments-grows/)
 - [Indian fintech unicorn Slice secures rare approval to merge with bank](https://techcrunch.com/2023/10/03/slice-north-east-bank/)
-- [Krafton India launches gaming incubator to expand local ecosystem](https://techcrunch.com/2023/10/03/krafton-india-gaming-incubator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
