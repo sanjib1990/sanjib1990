@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opsera, a DevOps platform geared toward enterprises, raises $12M](https://techcrunch.com/2023/10/04/opsera-a-devops-platform-geared-toward-enterprises-raises-12m/)
+- [Impulse Space CEO Tom Mueller talks early days at SpaceX, moon bases and a booming space industry &lpar;exclusive&rpar;](https://www.space.com/tom-mueller-impulse-space-mira-spacecraft)
+- [EU lawmakers take aim at ‘arbitrary’ decisions by Big Tech in Media Freedom Act vote](https://techcrunch.com/2023/10/04/eu-parliament-media-freedom-act-mandate/)
+- [Make these 5 changes to avoid becoming the next cybersecurity headline](https://techcrunch.com/2023/10/04/make-these-5-changes-to-avoid-becoming-the-next-cybersecurity-headline/)
 - [Uber couriers will now drop your package off at the post office](https://techcrunch.com/2023/10/04/uber-couriers-will-now-drop-your-package-off-at-the-post-office/)
-- [Chinese astronomers say their new space telescope will outdo Hubble](https://www.space.com/china-space-telescope-xuntian)
-- [Nobel Prize in physics awarded to 3 scientists who glimpsed the inner world of atoms with tiny light pulses](https://www.space.com/nobel-prize-physics-attoseconds-inside-atoms-electrons)
-- [Open Banking led to a FinTech boom — As Brite raises $60M, account-to-account payment grows](https://techcrunch.com/2023/10/04/open-banking-led-to-a-fintech-boom-as-brite-raises-60m-account-to-account-payments-grows/)
-- [Indian fintech unicorn Slice secures rare approval to merge with bank](https://techcrunch.com/2023/10/03/slice-north-east-bank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
