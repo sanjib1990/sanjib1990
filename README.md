@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta debuts generative AI features for advertisers](https://techcrunch.com/2023/10/04/meta-debuts-generative-ai-features-for-advertisers/)
-- [Rosy red nebula glows in gorgeous new European Southern Observatory photo](https://www.space.com/rosy-red-nebula-ic1284-eso-photo)
-- [Ask Sophie: What are the options for replacing an L-1A visa?](https://techcrunch.com/2023/10/04/ask-sophie-what-are-the-options-for-replacing-an-l-1a-visa/)
-- [Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable](https://techcrunch.com/2023/10/04/making-wearable-medical-devices-more-patient-friendly-with-professor-esther-rodriguez-villegas-from-acurable/)
-- [&#39;Ahsoka&#39; season 1 episode 8 review: A finale that sticks the landing without flourish](https://www.space.com/ahsoka-season-1-episode-8-review)
+- [Habyt, an Airbnb-style platform aimed at longer stays and ‘flexible living’, raises $42M](https://techcrunch.com/2023/10/04/habyt-42-million/)
+- [Google Pixel Event 2023: Everything you need to know about Pixel 8, Pixel Watch 2, Pixel Buds Pro, Android 14](https://techcrunch.com/2023/10/04/google-pixel-event-2023-everything-you-need-to-know/)
+- [Up close with Intuitive Machine&#39;s Nova-C lunar lander before it leaves for the moon](https://www.space.com/intuitive-machines-nova-c-im-1-leaving-houston)
+- [Google announces AI-powered photo editing features for new Pixel phones](https://techcrunch.com/2023/10/04/google-announces-ai-powered-photo-editing-features-for-new-pixel-phones/)
+- [Pixel’s Call Screen feature gets better at filtering calls with a new conversational mode](https://techcrunch.com/2023/10/04/pixels-call-screen-feature-gets-better-at-filtering-calls-with-a-new-conversational-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
