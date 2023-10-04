@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Patreon launches new features, a redesigned app and a new look](https://techcrunch.com/2023/10/04/patreon-launches-new-features-a-redesigned-app-and-a-new-look/)
+- [Microsoft won’t say if its products were exploited by spyware zero-days](https://techcrunch.com/2023/10/04/microsoft-wont-say-if-its-products-were-exploited-by-spyware-zero-days/)
+- [Walmart experiments with generative AI tools that can help you plan a party or decorate](https://techcrunch.com/2023/10/04/walmart-experiments-with-new-generative-ai-tools-that-can-help-you-plan-a-party-or-decorate-a-space/)
 - [What’s at stake in the Supreme Court’s landmark social media case](https://techcrunch.com/2023/10/04/supreme-court-social-media-case-content-moderation-explained/)
 - [NASA will launch rockets into the annular solar eclipse&#39;s shadow on Oct. 14](https://www.space.com/nasa-sounding-rockets-ring-of-fire-eclipse)
-- [Three weeks later, investors still not terribly enthusiastic about the massive Cisco-Splunk deal](https://techcrunch.com/2023/10/04/cisco-splunk-deal-investors-disappointed/)
-- [Actually, X sees 500M posts per day — not 100M-200M as Musk recently said](https://techcrunch.com/2023/10/04/actually-x-sees-500m-posts-per-day-not-100m-200m-as-musk-recently-said/)
-- [Keep Labs’ smart storage redefines medication management](https://techcrunch.com/2023/10/04/keep-labs-smart-storage-redefines-medication-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
