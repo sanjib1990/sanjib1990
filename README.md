@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rainforest raises $8.5M to help software companies embed financial services, payments](https://techcrunch.com/2023/10/04/rainforest-raises-8-5m-to-help-software-companies-embed-financial-services-payments/)
-- [Pow.bio says biomanufacturing is broken and its continuous fermentation tech will fix it](https://techcrunch.com/2023/10/04/pow-bio-biomanufacturing-fermentation-foodtech/)
-- [Recapitalization, $60M Series D support growth of e-commerce financier Clearco](https://techcrunch.com/2023/10/04/clearco-60m-e-commerce-financier/)
-- [Rabbit is building an AI model that understands how software works](https://techcrunch.com/2023/10/04/rabbit-is-building-an-ai-model-that-understands-how-software-works/)
-- [Okta plans to weave AI across its entire identity platform using multiple models](https://techcrunch.com/2023/10/04/okta-plans-to-weave-ai-across-its-entire-identity-platform/)
+- [Meta debuts generative AI features for advertisers](https://techcrunch.com/2023/10/04/meta-debuts-generative-ai-features-for-advertisers/)
+- [Rosy red nebula glows in gorgeous new European Southern Observatory photo](https://www.space.com/rosy-red-nebula-ic1284-eso-photo)
+- [Ask Sophie: What are the options for replacing an L-1A visa?](https://techcrunch.com/2023/10/04/ask-sophie-what-are-the-options-for-replacing-an-l-1a-visa/)
+- [Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable](https://techcrunch.com/2023/10/04/making-wearable-medical-devices-more-patient-friendly-with-professor-esther-rodriguez-villegas-from-acurable/)
+- [&#39;Ahsoka&#39; season 1 episode 8 review: A finale that sticks the landing without flourish](https://www.space.com/ahsoka-season-1-episode-8-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
