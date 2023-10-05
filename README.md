@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-days for hacking WhatsApp are now worth millions of dollars](https://techcrunch.com/2023/10/05/zero-days-for-hacking-whatsapp-are-now-worth-millions-of-dollars/)
-- [Likewise debuts Pix, an AI chatbot for entertainment recommendations](https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/)
-- [New wristwatch bridges Apollo to Artemis with touch of real moon dust](https://www.space.com/colmacarthur-lunar1622-moon-dust-watch)
-- [SBF’s trial has started, and here’s what you missed](https://techcrunch.com/2023/10/05/sbfs-trial-has-started-and-heres-what-you-missed-equity-x-chain-reaction-crossover/)
-- [Bastille challenges the iconic Brompton bikes with a new folding bicycle](https://techcrunch.com/2023/10/05/bastille-challenges-the-iconic-brompton-bikes-with-its-folding-bicycle/)
+- [Machina Labs raises $32M to bring flexibility to manufacturing](https://techcrunch.com/2023/10/05/machina-labs-raises-31m-to-make-bring-flexibility-to-manufacturing/)
+- [Sony will offer Emerge’s tactile ultrasound device through a Bravia camera bundle](https://techcrunch.com/2023/10/05/sony-will-offer-emerges-tactile-ultrasound-device-through-a-smart-tv-bundle/)
+- [3 VCs weigh in on when to follow the hype cycle — and when to ignore it](https://techcrunch.com/2023/10/05/when-to-follow-and-ignore-tech-hype-cycles/)
+- [Pulsar surprises astronomers with record-breaking gamma-rays](https://www.space.com/vela-pulsar-highest-energy-radiation-gamma-rays)
+- [Advancing generative AI exploration safely and securely](https://techcrunch.com/2023/10/05/advancing-generative-ai-exploration-safely-and-securely/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
