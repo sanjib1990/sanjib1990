@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Mars rovers could inspire a more ethical future for AI](https://www.space.com/nasa-mars-rovers-inspire-ethical-ai)
+- [EngFlow and tipi.build launch a remote CMake build execution service for your C and C++ code](https://techcrunch.com/2023/10/05/engflow-and-tipi-build-launch-a-remote-cmake-build-execution-service-for-your-c-and-c-code/)
+- [Thoughts debuts an app designed to inspire you, not distract you](https://techcrunch.com/2023/10/05/thoughts-debuts-an-app-designed-to-inspire-you-not-distract-you/)
+- [Spotify’s new artist profiles highlight music, Stories, merch and events](https://techcrunch.com/2023/10/05/spotifys-new-artist-profiles-highlight-music-stories-merch-and-events/)
 - [Machina Labs raises $32M to bring flexibility to manufacturing](https://techcrunch.com/2023/10/05/machina-labs-raises-31m-to-make-bring-flexibility-to-manufacturing/)
-- [Sony will offer Emerge’s tactile ultrasound device through a Bravia camera bundle](https://techcrunch.com/2023/10/05/sony-will-offer-emerges-tactile-ultrasound-device-through-a-smart-tv-bundle/)
-- [3 VCs weigh in on when to follow the hype cycle — and when to ignore it](https://techcrunch.com/2023/10/05/when-to-follow-and-ignore-tech-hype-cycles/)
-- [Pulsar surprises astronomers with record-breaking gamma-rays](https://www.space.com/vela-pulsar-highest-energy-radiation-gamma-rays)
-- [Advancing generative AI exploration safely and securely](https://techcrunch.com/2023/10/05/advancing-generative-ai-exploration-safely-and-securely/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
