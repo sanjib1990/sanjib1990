@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon shutters its live radio app Amp](https://techcrunch.com/2023/10/05/amazon-shutters-its-live-radio-app-amp/)
-- [Kestra is an open source data orchestration platform for complex workflows](https://techcrunch.com/2023/10/04/kestra-is-an-open-source-data-orchestration-platform-for-complex-workflows/)
-- [Was FTX an empire ‘built on lies’ or a startup that ‘grew too quickly’?](https://techcrunch.com/2023/10/04/sbf-criminal-trial-opening-statements/)
-- [Meet the 12 jurors on Sam Bankman-Fried’s trial](https://techcrunch.com/2023/10/04/meet-the-12-jurors-on-sam-bankman-frieds-trial/)
-- [Tiny EV maker ElectraMeccanica pulls the plug on its exit plan](https://techcrunch.com/2023/10/04/ev-electrameccanica-terminates-tevva-truck-merger/)
+- [Union Square Ventures backs Indian EV infra startup Bolt.Earth in $20M funding](https://techcrunch.com/2023/10/05/bolt-earth-funding-union-square-ventures/)
+- [X cuts headlines from link previews as Musk wants users posting directly on the platform](https://techcrunch.com/2023/10/05/x-cuts-headlines-from-link-previews-as-musk-wants-users-posting-directly-on-the-platform/)
+- [Indian fintech CRED’s earnings surge 3.5x to $168 million](https://techcrunch.com/2023/10/05/cred-financials-march-2023/)
+- [“Be optimistic and innovate”  — The legacy of Cowboy founder and e-bike pioneer Karim Slaoui, who has passed away](https://techcrunch.com/2023/10/05/be-optimistic-and-innovate-the-legacy-of-cowboy-ebikes-pioneer-karim-slaoui-who-has-passed-away/)
+- [Amazon turns off the volume on Amp, its live radio app](https://techcrunch.com/2023/10/05/amazon-shutters-its-live-radio-app-amp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
