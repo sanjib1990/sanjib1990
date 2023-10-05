@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alaska Airlines taps Up.Labs to build the next-generation of aviation startups](https://techcrunch.com/2023/10/05/alaska-airlines-taps-up-labs-to-launch-batch-of-aviation-startups/)
 - [AWS, Microsoft, and Google face UK competition probe over cloud lock-in practices](https://techcrunch.com/2023/10/05/uk-cloud-investigation-microsoft-aws-google/)
+- [SpaceX&#39;s Elon Musk to give big Starship update today: Watch it live](https://www.space.com/spacex-elon-musk-starship-update-iac-webcast)
+- [Virgin Galactic to launch Galactic 04 space tourist flight Oct. 6. Here&#39;s what to expect](https://www.space.com/virgin-galactic-04-launch-what-time-is-it)
 - [Union Square Ventures backs Indian EV infra startup Bolt.Earth in $20M funding](https://techcrunch.com/2023/10/05/bolt-earth-funding-union-square-ventures/)
-- [X cuts headlines from link previews as Musk wants users posting directly on the platform](https://techcrunch.com/2023/10/05/x-cuts-headlines-from-link-previews-as-musk-wants-users-posting-directly-on-the-platform/)
-- [Indian fintech CRED’s earnings surge 3.5x to $168 million](https://techcrunch.com/2023/10/05/cred-financials-march-2023/)
-- [“Be optimistic and innovate”  — The legacy of Cowboy founder and e-bike pioneer Karim Slaoui, who has passed away](https://techcrunch.com/2023/10/05/be-optimistic-and-innovate-the-legacy-of-cowboy-ebikes-pioneer-karim-slaoui-who-has-passed-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
