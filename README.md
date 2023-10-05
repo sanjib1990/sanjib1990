@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kestra is an open-source data orchestration platform for complex workflows](https://techcrunch.com/2023/10/04/kestra-is-an-open-source-data-orchestration-platform-for-complex-workflows/)
+- [Amazon shutters its live radio app Amp](https://techcrunch.com/2023/10/05/amazon-shutters-its-live-radio-app-amp/)
+- [Kestra is an open source data orchestration platform for complex workflows](https://techcrunch.com/2023/10/04/kestra-is-an-open-source-data-orchestration-platform-for-complex-workflows/)
 - [Was FTX an empire ‘built on lies’ or a startup that ‘grew too quickly’?](https://techcrunch.com/2023/10/04/sbf-criminal-trial-opening-statements/)
 - [Meet the 12 jurors on Sam Bankman-Fried’s trial](https://techcrunch.com/2023/10/04/meet-the-12-jurors-on-sam-bankman-frieds-trial/)
 - [Tiny EV maker ElectraMeccanica pulls the plug on its exit plan](https://techcrunch.com/2023/10/04/ev-electrameccanica-terminates-tevva-truck-merger/)
-- [Bird lays off staff after Spin acquisition to reduce redundancies](https://techcrunch.com/2023/10/04/bird-lays-off-staff-after-spin-acquisition-to-reduce-redundancies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
