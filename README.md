@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Mars rovers could inspire a more ethical future for AI](https://www.space.com/nasa-mars-rovers-inspire-ethical-ai)
-- [EngFlow and tipi.build launch a remote CMake build execution service for your C and C++ code](https://techcrunch.com/2023/10/05/engflow-and-tipi-build-launch-a-remote-cmake-build-execution-service-for-your-c-and-c-code/)
-- [Thoughts debuts an app designed to inspire you, not distract you](https://techcrunch.com/2023/10/05/thoughts-debuts-an-app-designed-to-inspire-you-not-distract-you/)
-- [Spotify’s new artist profiles highlight music, Stories, merch and events](https://techcrunch.com/2023/10/05/spotifys-new-artist-profiles-highlight-music-stories-merch-and-events/)
-- [Machina Labs raises $32M to bring flexibility to manufacturing](https://techcrunch.com/2023/10/05/machina-labs-raises-31m-to-make-bring-flexibility-to-manufacturing/)
+- [New collectible pin buttons depict &#39;For All Mankind&#39; space mission patches](https://www.space.com/icon-heroes-for-all-mankind-patch-buttons)
+- [As its workers strike over burnout and low wages, Kaiser Permanente strikes a deal to use an AI Copilot from Nabla](https://techcrunch.com/2023/10/05/as-its-workers-strike-over-burnout-and-low-wages-kaiser-permanente-strikes-a-deal-to-use-an-ai-copilot-from-nabla/)
+- [Rivian reminds investors that making EVs is incredibly expensive](https://techcrunch.com/2023/10/05/rivian-evs-costly/)
+- [‘TikTok whisperer’ Annie Wu Henry on social media and 2024](https://techcrunch.com/2023/10/05/annie-wu-henry-vivek-ramaswamy-tiktok-strategy-election/)
+- [Google DeepMind unites researchers in bid to create an ImageNet of robot actions](https://techcrunch.com/2023/10/05/google-deepmind-unites-researchers-in-bid-to-create-an-imagenet-of-robot-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
