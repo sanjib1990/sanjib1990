@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stoke Space raises $100M Series B as it looks to reach orbit by 2025](https://techcrunch.com/2023/10/05/stoke-space-raises-100m-series-b-as-it-looks-to-reach-orbit-by-2025/)
+- [Watch the trailer for surreal space exploration survival game &#39;The Alters&#39; &lpar;video&rpar;](https://www.space.com/the-alters-video-game-trailer)
+- [Lawsuit alleges discriminatory pay schemes at SpaceX](https://techcrunch.com/2023/10/05/lawsuit-alleges-discriminatory-pay-schemes-at-spacex/)
 - [Hubble Telescope reveals a rare galaxy with a luminous heart &lpar;photo&rpar;](https://www.space.com/hubble-active-galaxy-photo-lenticular)
 - [How to stretch your venture dollars](https://techcrunch.com/2023/10/05/how-to-stretch-your-venture-dollars/)
-- [Hungryroot founder debuts Every, an AI-powered app for self-reflection and human connection](https://techcrunch.com/2023/10/05/hungryroot-founder-debuts-every-an-ai-powered-app-for-self-reflection-and-human-connection/)
-- [10 investors talk about the future of AI and what lies beyond the ChatGPT hype](https://techcrunch.com/2023/10/05/future-of-ai-survey/)
-- [Following the SBF trial, 3AC arrest and Q3 web3 funding drops](https://techcrunch.com/2023/10/05/following-the-sbf-trial-3ac-arrest-and-q3-web3-funding-drops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
