@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alameda had a $65B line of credit and ‘unlimited withdrawals’](https://techcrunch.com/2023/10/05/sbf-trial-gary-wang/)
+- [Hacked phone spyware shuts down… again](https://techcrunch.com/2023/10/05/spyhide-oospy-hacked-phone-spyware-shuts-down/)
+- [SEC to compel Elon Musk’s testimony in Twitter stock purchase probe](https://techcrunch.com/2023/10/05/sec-to-compel-elon-musks-testimony-in-twitter-stock-purchase-probe/)
 - [Stoke Space raises $100M Series B as it looks to reach orbit by 2025](https://techcrunch.com/2023/10/05/stoke-space-raises-100m-series-b-as-it-looks-to-reach-orbit-by-2025/)
 - [Watch the trailer for surreal space exploration survival game &#39;The Alters&#39; &lpar;video&rpar;](https://www.space.com/the-alters-video-game-trailer)
-- [Lawsuit alleges discriminatory pay schemes at SpaceX](https://techcrunch.com/2023/10/05/lawsuit-alleges-discriminatory-pay-schemes-at-spacex/)
-- [Hubble Telescope reveals a rare galaxy with a luminous heart &lpar;photo&rpar;](https://www.space.com/hubble-active-galaxy-photo-lenticular)
-- [How to stretch your venture dollars](https://techcrunch.com/2023/10/05/how-to-stretch-your-venture-dollars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
