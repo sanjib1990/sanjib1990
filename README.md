@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Hubble Space Telescope galaxy image could help reveal how stars are born &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-galaxy-stars-born)
-- [Uber still dragging its feet on algorithmic transparency, Dutch court finds](https://techcrunch.com/2023/10/05/uber-slow-on-algo-transparency/)
-- [New collectible pin buttons depict &#39;For All Mankind&#39; space mission patches](https://www.space.com/icon-heroes-for-all-mankind-patch-buttons)
-- [As its workers strike over burnout and low wages, Kaiser Permanente strikes a deal to use an AI Copilot from Nabla](https://techcrunch.com/2023/10/05/as-its-workers-strike-over-burnout-and-low-wages-kaiser-permanente-strikes-a-deal-to-use-an-ai-copilot-from-nabla/)
-- [Rivian reminds investors that making EVs is incredibly expensive](https://techcrunch.com/2023/10/05/rivian-evs-costly/)
+- [Following the SBF trial, 3AC arrest and Q3 web3 funding drops](https://techcrunch.com/2023/10/05/following-the-sbf-trial-3ac-arrest-and-q3-web3-funding-drops/)
+- [Disney debuts NASA Perseverance Mars rover tracks at EPCOT&#39;s Mission: SPACE](https://www.space.com/disney-epcot-mission-space-perseverance-mars-rover-tracks)
+- [Earth will experience 2 eclipses this month. Here&#39;s what you need to know](https://www.space.com/eclipse-solar-lunar-october-2023)
+- [PayPal faces new antitrust lawsuit claiming it unfairly stifles competition with Stripe, Shopify and more](https://techcrunch.com/2023/10/05/paypal-faces-new-antitrust-lawsuit-claiming-it-unfairly-stifles-competition-with-stripe-shopify-and-more/)
+- [SpaceX&#39;s Starship has &#39;decent chance&#39; of success on upcoming flight, Elon Musk says](https://www.space.com/spacex-elon-musk-starship-expectations-second-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
