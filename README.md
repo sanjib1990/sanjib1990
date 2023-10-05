@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Ring of fire&#39; eclipse Oct. 14 will be practice run for total solar eclipse next year](https://www.space.com/ring-of-fire-eclipse-practice-run-scientists)
+- [Qakbot hackers are still spamming victims despite FBI takedown](https://techcrunch.com/2023/10/05/qakbot-hackers-are-still-spamming-victims-despite-fbi-takedown/)
 - [Alaska Airlines taps Up.Labs to build the next-generation of aviation startups](https://techcrunch.com/2023/10/05/alaska-airlines-taps-up-labs-to-launch-batch-of-aviation-startups/)
 - [AWS, Microsoft, and Google face UK competition probe over cloud lock-in practices](https://techcrunch.com/2023/10/05/uk-cloud-investigation-microsoft-aws-google/)
 - [SpaceX&#39;s Elon Musk to give big Starship update today: Watch it live](https://www.space.com/spacex-elon-musk-starship-update-iac-webcast)
-- [Virgin Galactic to launch Galactic 04 space tourist flight Oct. 6. Here&#39;s what to expect](https://www.space.com/virgin-galactic-04-launch-what-time-is-it)
-- [Union Square Ventures backs Indian EV infra startup Bolt.Earth in $20M funding](https://techcrunch.com/2023/10/05/bolt-earth-funding-union-square-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
