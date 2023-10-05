@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny EV maker ElectraMeccanica pulls the plug on its exit plan](https://techcrunch.com/2023/10/04/ev-electrameccanica-terminates-tevva-truck-merger/)
 - [Bird lays off staff after Spin acquisition to reduce redundancies](https://techcrunch.com/2023/10/04/bird-lays-off-staff-after-spin-acquisition-to-reduce-redundancies/)
 - [Mars Society conference happening online Oct. 5 through Oct. 8](https://www.space.com/mars-society-annual-conference-2023-preview)
 - [Patreon launches new features, a redesigned app and a new look](https://techcrunch.com/2023/10/04/patreon-launches-new-features-a-redesigned-app-and-a-new-look/)
 - [Microsoft won’t say if its products were exploited by spyware zero-days](https://techcrunch.com/2023/10/04/microsoft-wont-say-if-its-products-were-exploited-by-spyware-zero-days/)
-- [Walmart experiments with generative AI tools that can help you plan a party or decorate](https://techcrunch.com/2023/10/04/walmart-experiments-with-new-generative-ai-tools-that-can-help-you-plan-a-party-or-decorate-a-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
