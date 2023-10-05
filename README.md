@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Section 32 closes on $525M fund, says there is ‘a zone of commoditization that you have to avoid while investing in AI’](https://techcrunch.com/2023/10/05/section-32-closes-on-525m-fund-says-there-is-a-zone-of-commoditization-that-you-have-to-avoid-while-investing-in-ai/)
-- [Gradient raises $10M to let companies deploy and fine-tune multiple LLMs](https://techcrunch.com/2023/10/05/gradient-raises-10m-to-let-companies-deploy-and-fine-tune-multiple-llms/)
-- [Phaver raises $7M to help make onboarding to web3 social platforms easier](https://techcrunch.com/2023/10/05/phaver-7million-round-web3-onboarding/)
-- [Orbital &#39;parking spots&#39; could help prevent satellite traffic jams](https://www.space.com/orbital-parking-spots-prevent-satellite-collisions)
-- [Observability platform Observe raises $50M in debt, launches gen AI features](https://techcrunch.com/2023/10/05/observability-platform-observe-raises-50m-in-debt-launches-gen-ai-features/)
+- [Zero-days for hacking WhatsApp are now worth millions of dollars](https://techcrunch.com/2023/10/05/zero-days-for-hacking-whatsapp-are-now-worth-millions-of-dollars/)
+- [Likewise debuts Pix, an AI chatbot for entertainment recommendations](https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/)
+- [New wristwatch bridges Apollo to Artemis with touch of real moon dust](https://www.space.com/colmacarthur-lunar1622-moon-dust-watch)
+- [SBF’s trial has started, and here’s what you missed](https://techcrunch.com/2023/10/05/sbfs-trial-has-started-and-heres-what-you-missed-equity-x-chain-reaction-crossover/)
+- [Bastille challenges the iconic Brompton bikes with a new folding bicycle](https://techcrunch.com/2023/10/05/bastille-challenges-the-iconic-brompton-bikes-with-its-folding-bicycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
