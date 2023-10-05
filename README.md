@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z-backed Castelion wants to mass produce defense hardware, starting with hypersonics](https://techcrunch.com/2023/10/05/a16z-backed-castelion-wants-to-mass-produce-defense-hardware-starting-with-hypersonics/)
 - [Alameda had a $65B line of credit and ‘unlimited withdrawals’](https://techcrunch.com/2023/10/05/sbf-trial-gary-wang/)
 - [Hacked phone spyware shuts down… again](https://techcrunch.com/2023/10/05/spyhide-oospy-hacked-phone-spyware-shuts-down/)
 - [SEC to compel Elon Musk’s testimony in Twitter stock purchase probe](https://techcrunch.com/2023/10/05/sec-to-compel-elon-musks-testimony-in-twitter-stock-purchase-probe/)
 - [Stoke Space raises $100M Series B as it looks to reach orbit by 2025](https://techcrunch.com/2023/10/05/stoke-space-raises-100m-series-b-as-it-looks-to-reach-orbit-by-2025/)
-- [Watch the trailer for surreal space exploration survival game &#39;The Alters&#39; &lpar;video&rpar;](https://www.space.com/the-alters-video-game-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
