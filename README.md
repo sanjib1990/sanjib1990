@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Budget Self-Driving Car - Computerphile](https://www.youtube.com/watch?v=5G56i_he79M)
 - [36. Neocortex, part 2](https://www.youtube.com/watch?v=xZ72LPLHVSY)
 - [34. Corpus striatum, part 2](https://www.youtube.com/watch?v=TeNrTKjJJ5g)
 - [28. Hypothalamus and limbic system, part 2](https://www.youtube.com/watch?v=VQlZOIAQZSc)
 - [31. Hypothalamus and limbic system, part 5](https://www.youtube.com/watch?v=pgjBwhb7A28)
-- [22. Visual systems, part 2](https://www.youtube.com/watch?v=8MyPd4F7y54)
 <!-- YOUTUBE:END -->
 
 ---
