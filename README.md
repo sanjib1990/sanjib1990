@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Hubble Space Telescope galaxy image could help reveal how stars are born &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-galaxy-stars-born)
+- [Uber still dragging its feet on algorithmic transparency, Dutch court finds](https://techcrunch.com/2023/10/05/uber-slow-on-algo-transparency/)
 - [New collectible pin buttons depict &#39;For All Mankind&#39; space mission patches](https://www.space.com/icon-heroes-for-all-mankind-patch-buttons)
 - [As its workers strike over burnout and low wages, Kaiser Permanente strikes a deal to use an AI Copilot from Nabla](https://techcrunch.com/2023/10/05/as-its-workers-strike-over-burnout-and-low-wages-kaiser-permanente-strikes-a-deal-to-use-an-ai-copilot-from-nabla/)
 - [Rivian reminds investors that making EVs is incredibly expensive](https://techcrunch.com/2023/10/05/rivian-evs-costly/)
-- [‘TikTok whisperer’ Annie Wu Henry on social media and 2024](https://techcrunch.com/2023/10/05/annie-wu-henry-vivek-ramaswamy-tiktok-strategy-election/)
-- [Google DeepMind unites researchers in bid to create an ImageNet of robot actions](https://techcrunch.com/2023/10/05/google-deepmind-unites-researchers-in-bid-to-create-an-imagenet-of-robot-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
