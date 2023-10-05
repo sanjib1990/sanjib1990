@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope reveals a rare galaxy with a luminous heart &lpar;photo&rpar;](https://www.space.com/hubble-active-galaxy-photo-lenticular)
+- [How to stretch your venture dollars](https://techcrunch.com/2023/10/05/how-to-stretch-your-venture-dollars/)
+- [Hungryroot founder debuts Every, an AI-powered app for self-reflection and human connection](https://techcrunch.com/2023/10/05/hungryroot-founder-debuts-every-an-ai-powered-app-for-self-reflection-and-human-connection/)
+- [10 investors talk about the future of AI and what lies beyond the ChatGPT hype](https://techcrunch.com/2023/10/05/future-of-ai-survey/)
 - [Following the SBF trial, 3AC arrest and Q3 web3 funding drops](https://techcrunch.com/2023/10/05/following-the-sbf-trial-3ac-arrest-and-q3-web3-funding-drops/)
-- [Disney debuts NASA Perseverance Mars rover tracks at EPCOT&#39;s Mission: SPACE](https://www.space.com/disney-epcot-mission-space-perseverance-mars-rover-tracks)
-- [Earth will experience 2 eclipses this month. Here&#39;s what you need to know](https://www.space.com/eclipse-solar-lunar-october-2023)
-- [PayPal faces new antitrust lawsuit claiming it unfairly stifles competition with Stripe, Shopify and more](https://techcrunch.com/2023/10/05/paypal-faces-new-antitrust-lawsuit-claiming-it-unfairly-stifles-competition-with-stripe-shopify-and-more/)
-- [SpaceX&#39;s Starship has &#39;decent chance&#39; of success on upcoming flight, Elon Musk says](https://www.space.com/spacex-elon-musk-starship-expectations-second-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
