@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bolt CEO discusses moving on after SEC probe](https://techcrunch.com/2023/10/06/bolt-ceo-discusses-moving-on-after-sec-probe/)
-- [Virgin Galactic launches 1st Pakistani to space on 4th commercial spaceflight](https://www.space.com/virgin-galactic-first-pakistani-space-galactic04)
-- [Humans can’t resist breaking AI with boobs and 9/11 memes](https://techcrunch.com/2023/10/06/facebook-ai-stickers-bing-image-creator-jailbreak-guardrails/)
-- [New space-based thermometer takes Earth&#39;s temperature in unprecedented detail &lpar;photos&rpar;](https://www.space.com/satvu-space-thermometer-first-images)
-- [Hubble Telescope just witnessed a massive intergalactic explosion and astronomers can&#39;t explain it](https://www.space.com/intergalactic-space-explosion-lfbot)
+- [Hold the annular solar eclipse in your hand with new &#39;One Eclipse&#39; app from Astronomers Without Borders](https://www.space.com/one-eclipse-app-launched-by-astronomers-without-borders)
+- [TechCrunch+ Roundup: AI investor survey, calculating TAM, inside the FTX trial](https://techcrunch.com/2023/10/06/techcrunch-roundup-ai-investor-survey-calculating-tam-inside-the-ftx-trial/)
+- [SBF Trial: The latest updates from the FTX collapse’s courtroom drama](https://techcrunch.com/2023/10/06/sbf-trial-the-latest-updates-from-the-ftx-collapses-courtroom-drama/)
+- [AI app EPIK hits No. 1 on the App Store for its viral yearbook photo feature](https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/)
+- [Google, Apple face fines in South Korea for breaching in-app billing rules](https://techcrunch.com/2023/10/06/google-apple-face-fines-in-south-korea-for-breaching-in-app-billing-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
