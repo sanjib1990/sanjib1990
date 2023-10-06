@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercury was shrinking for at least 3 billion years — and it still might be today](https://www.space.com/mercury-is-probably-still-shrinking-today)
+- [Watch United Launch Alliance launch two Project Kuiper test satellites for Amazon](https://techcrunch.com/2023/10/06/watch-united-launch-alliance-launch-two-amazon-project-kuiper-test-satellites/)
 - [MGM Resorts confirms hackers stole customers’ personal data during cyberattack](https://techcrunch.com/2023/10/06/mgm-resorts-admits-hackers-stole-customers-personal-data-cyberattack/)
 - [Deep space missions will test astronauts&#39; mental health. Could AI companions help?](https://www.space.com/astronauts-artificial-intelligence-companions-deep-space-missions)
 - [Snap’s AI chatbot draws scrutiny in UK over kids’ privacy concerns](https://techcrunch.com/2023/10/06/snap-ico-notice/)
-- [Breathe Battery Technologies bets that software will eat batteries too](https://techcrunch.com/2023/10/06/breathe-battery-technologies-series-a/)
-- [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
