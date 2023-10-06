@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ohm’s Quest is an electronic puzzle console inspired by escape rooms](https://techcrunch.com/2023/10/06/ohms-quest-is-an-electronic-puzzle-console-inspired-by-escape-rooms/)
+- [Premji Invest and Zerodha eye stake in Nainital Bank](https://techcrunch.com/2023/10/06/premji-invest-and-zerodha-eye-stake-in-nainital-bank/)
 - [Netflix’s 6.5M India subscribers dwarfed by Prime Video and Disney, Bernstein says](https://techcrunch.com/2023/10/05/netflix-india-subscribers/)
 - [‘Marked to zero’: Paradigm testimony at SBF trial points to investor fraud](https://techcrunch.com/2023/10/05/paradigm-matt-huang-testimony-sbf-trial-investor-fraud/)
 - [All eyes on VW after Hyundai, Kia adopt Tesla charging standard](https://techcrunch.com/2023/10/05/all-eyes-on-vw-after-hyundai-kia-adopt-tesla-charging-standard/)
-- [a16z-backed Castelion wants to mass produce defense hardware, starting with hypersonics](https://techcrunch.com/2023/10/05/a16z-backed-castelion-wants-to-mass-produce-defense-hardware-starting-with-hypersonics/)
-- [Alameda had a $65B line of credit and ‘unlimited withdrawals’](https://techcrunch.com/2023/10/05/sbf-trial-gary-wang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
