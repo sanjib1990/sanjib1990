@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Arianespace Vega rocket launch 12 satellites to orbit tonight](https://www.space.com/arianespace-vega-rocket-launch-12-satellites-october-2023)
-- [Exclusive: Y Combinator beefs up with a string of new lieutenants](https://techcrunch.com/2023/10/06/exclusive-y-combinator-beefs-up-with-a-string-of-new-lieutenants/)
-- [Some gen AI vendors say they’ll defend customers from IP lawsuits. Others, not so much](https://techcrunch.com/2023/10/06/some-gen-ai-vendors-say-theyll-defend-customers-from-ip-lawsuits-others-not-so-much/)
-- [Don’t miss this online event for devs, engineers and architects](https://techcrunch.com/2023/10/06/dont-miss-this-online-event-for-devs-engineers-and-architects/)
-- [Spanish company launching rocket for 1st time today: Watch it live](https://www.space.com/pld-space-first-launch-miura-1-rocket)
+- [Bolt CEO discusses moving on after SEC probe](https://techcrunch.com/2023/10/06/bolt-ceo-discusses-moving-on-after-sec-probe/)
+- [Virgin Galactic launches 1st Pakistani to space on 4th commercial spaceflight](https://www.space.com/virgin-galactic-first-pakistani-space-galactic04)
+- [Humans can’t resist breaking AI with boobs and 9/11 memes](https://techcrunch.com/2023/10/06/facebook-ai-stickers-bing-image-creator-jailbreak-guardrails/)
+- [New space-based thermometer takes Earth&#39;s temperature in unprecedented detail &lpar;photos&rpar;](https://www.space.com/satvu-space-thermometer-first-images)
+- [Hubble Telescope just witnessed a massive intergalactic explosion and astronomers can&#39;t explain it](https://www.space.com/intergalactic-space-explosion-lfbot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
