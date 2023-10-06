@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Marked to zero’: Paradigm testimony at SBF trial points to investor fraud](https://techcrunch.com/2023/10/05/paradigm-matt-huang-testimony-sbf-trial-investor-fraud/)
 - [All eyes on VW after Hyundai, Kia adopt Tesla charging standard](https://techcrunch.com/2023/10/05/all-eyes-on-vw-after-hyundai-kia-adopt-tesla-charging-standard/)
 - [a16z-backed Castelion wants to mass produce defense hardware, starting with hypersonics](https://techcrunch.com/2023/10/05/a16z-backed-castelion-wants-to-mass-produce-defense-hardware-starting-with-hypersonics/)
 - [Alameda had a $65B line of credit and ‘unlimited withdrawals’](https://techcrunch.com/2023/10/05/sbf-trial-gary-wang/)
 - [Hacked phone spyware shuts down… again](https://techcrunch.com/2023/10/05/spyhide-oospy-hacked-phone-spyware-shuts-down/)
-- [SEC to compel Elon Musk’s testimony in Twitter stock purchase probe](https://techcrunch.com/2023/10/05/sec-to-compel-elon-musks-testimony-in-twitter-stock-purchase-probe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
