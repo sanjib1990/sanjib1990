@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The whole venture merry-go-round is decelerating](https://techcrunch.com/2023/10/06/the-whole-venture-merry-go-round-is-decelerating/)
+- [X to test three tiers of its Premium service, CEO says; code shows one tier may be ad-free](https://techcrunch.com/2023/10/06/x-to-test-three-tiers-of-its-premium-service-ceo-says-code-shows-one-tier-may-be-ad-free/)
+- [Here&#39;s how Artemis 2 astronauts will exercise, sleep and use the toilet on their moon mission &lpar;photos&rpar;](https://www.space.com/artemis-2-orion-spacecraft-moon-astronaut-mockup)
 - [Mercury was shrinking for at least 3 billion years — and it still might be today](https://www.space.com/mercury-is-probably-still-shrinking-today)
 - [Watch United Launch Alliance launch two Project Kuiper test satellites for Amazon](https://techcrunch.com/2023/10/06/watch-united-launch-alliance-launch-two-amazon-project-kuiper-test-satellites/)
-- [MGM Resorts confirms hackers stole customers’ personal data during cyberattack](https://techcrunch.com/2023/10/06/mgm-resorts-admits-hackers-stole-customers-personal-data-cyberattack/)
-- [Deep space missions will test astronauts&#39; mental health. Could AI companions help?](https://www.space.com/astronauts-artificial-intelligence-companions-deep-space-missions)
-- [Snap’s AI chatbot draws scrutiny in UK over kids’ privacy concerns](https://techcrunch.com/2023/10/06/snap-ico-notice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
