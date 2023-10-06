@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Draconid meteor shower peaks this weekend. Here&#39;s how to see it](https://www.space.com/draconid-meteor-shower-peak-october-2023)
+- [EV buyers can soon get the $7,500 tax credit at time of purchase](https://techcrunch.com/2023/10/06/ev-buyers-can-soon-get-the-7500-tax-credit-at-time-of-purchase/)
 - [Electric seaglider startup Regent takes flight with $60M in new funding](https://techcrunch.com/2023/10/06/electric-seaglider-startup-regent-takes-flight-with-60m-in-new-funding/)
 - [OpenAI said to be considering developing its own AI chips](https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/)
 - [Pack away your mittens, startup winter is over](https://techcrunch.com/2023/10/06/pack-away-your-mittens-startup-winter-is-over/)
-- [Atlas V rocket launches Amazon&#39;s 1st 2 internet satellites to orbit &lpar;video&rpar;](https://www.space.com/atlas-v-rocket-launches-first-two-project-kuiper-satellites-amazon)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
