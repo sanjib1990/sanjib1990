@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pack away your mittens, startup winter is over](https://techcrunch.com/2023/10/06/pack-away-your-mittens-startup-winter-is-over/)
+- [Atlas V rocket launches Amazon&#39;s 1st 2 internet satellites to orbit &lpar;video&rpar;](https://www.space.com/atlas-v-rocket-launches-first-two-project-kuiper-satellites-amazon)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 - [Hold the annular solar eclipse in your hand with new &#39;One Eclipse&#39; app from Astronomers Without Borders](https://www.space.com/one-eclipse-app-launched-by-astronomers-without-borders)
 - [TechCrunch+ Roundup: AI investor survey, calculating TAM, inside the FTX trial](https://techcrunch.com/2023/10/06/techcrunch-roundup-ai-investor-survey-calculating-tam-inside-the-ftx-trial/)
-- [SBF Trial: The latest updates from the FTX collapse’s courtroom drama](https://techcrunch.com/2023/10/06/sbf-trial-the-latest-updates-from-the-ftx-collapses-courtroom-drama/)
-- [AI app EPIK hits No. 1 on the App Store for its viral yearbook photo feature](https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/)
-- [Google, Apple face fines in South Korea for breaching in-app billing rules](https://techcrunch.com/2023/10/06/google-apple-face-fines-in-south-korea-for-breaching-in-app-billing-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
