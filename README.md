@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Arianespace Vega rocket launch 12 satellites to orbit tonight](https://www.space.com/arianespace-vega-rocket-launch-12-satellites-october-2023)
+- [Exclusive: Y Combinator beefs up with a string of new lieutenants](https://techcrunch.com/2023/10/06/exclusive-y-combinator-beefs-up-with-a-string-of-new-lieutenants/)
+- [Some gen AI vendors say they’ll defend customers from IP lawsuits. Others, not so much](https://techcrunch.com/2023/10/06/some-gen-ai-vendors-say-theyll-defend-customers-from-ip-lawsuits-others-not-so-much/)
+- [Don’t miss this online event for devs, engineers and architects](https://techcrunch.com/2023/10/06/dont-miss-this-online-event-for-devs-engineers-and-architects/)
 - [Spanish company launching rocket for 1st time today: Watch it live](https://www.space.com/pld-space-first-launch-miura-1-rocket)
-- [Spotify spotted prepping a $19.99/mo ‘Superpremium’ service with lossless audio, AI playlists and more](https://techcrunch.com/2023/10/06/spotify-spotted-prepping-a-19-99-mo-superpremium-service-with-lossless-audio-ai-playlists-and-more/)
-- [How founders should approach TAM when venture capital is scarce](https://techcrunch.com/2023/10/06/how-founders-should-approach-tam-when-venture-capital-is-scarce/)
-- [Pitch Deck Teardown: Lupiya’s $8.3M Series A deck](https://techcrunch.com/2023/10/06/sample-series-a-pitch-deck-lupiya/)
-- [Lyca Mobile says customer data was stolen during cyberattack](https://techcrunch.com/2023/10/06/lyca-mobile-says-customer-data-was-stolen-during-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
