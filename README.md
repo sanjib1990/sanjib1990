@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MGM Resorts confirms hackers stole customers’ personal data during cyberattack](https://techcrunch.com/2023/10/06/mgm-resorts-admits-hackers-stole-customers-personal-data-cyberattack/)
+- [Deep space missions will test astronauts&#39; mental health. Could AI companions help?](https://www.space.com/astronauts-artificial-intelligence-companions-deep-space-missions)
+- [Snap’s AI chatbot draws scrutiny in UK over kids’ privacy concerns](https://techcrunch.com/2023/10/06/snap-ico-notice/)
 - [Breathe Battery Technologies bets that software will eat batteries too](https://techcrunch.com/2023/10/06/breathe-battery-technologies-series-a/)
 - [The ozone hole above Antarctica has grown to three times the size of Brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
-- [Atlas V rocket launching Amazon&#39;s 1st internet satellites today: Watch it live](https://www.space.com/ula-atlas-v-amazon-internet-satellite-launch-webcast)
-- [The night sky twinkles inside new book, &#39;Diamonds Everywhere,&#39; by astronomer Tom Kerss](https://www.space.com/diamonds-everywhere-collins-publishing)
-- [Ohm’s Quest is an electronic puzzle console inspired by escape rooms](https://techcrunch.com/2023/10/06/ohms-quest-is-an-electronic-puzzle-console-inspired-by-escape-rooms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
