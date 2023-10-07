@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Public invited to watch solid rocket motors arrive for shuttle Endeavour exhibit in L.A.](https://www.space.com/california-science-center-space-shuttle-endeavour-srms-arrival)
+- [One week until the spectacular &#39;ring of fire&#39; annular solar eclipse!](https://www.space.com/one-week-until-annular-solar-eclipse-2023)
 - [Brave lays off 9% of its workforce](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
 - [Artists across industries are strategizing together around AI concerns](https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/)
 - [a16z-backed fintech Synapse lays off 40% of its staff](https://techcrunch.com/2023/10/06/a16z-backed-fintech-synapse-lays-off-40-of-its-staff/)
-- [The Draconid meteor shower peaks this weekend. Here&#39;s how to see it](https://www.space.com/draconid-meteor-shower-peak-october-2023)
-- [EV buyers can soon get the $7,500 tax credit at time of purchase](https://techcrunch.com/2023/10/06/ev-buyers-can-soon-get-the-7500-tax-credit-at-time-of-purchase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
