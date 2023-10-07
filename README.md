@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman backs teens’ startup, Google unveils the Pixel 8 and TikTok tests an ad-free tier](https://techcrunch.com/2023/10/07/sam-altman-backs-a-teens-startup-google-unveils-the-pixel-8-and-tiktok-tests-an-ad-free-tier/)
 - [Crypto is about a lot more than a former golden boy turned villain](https://techcrunch.com/2023/10/07/sbf-crypto-rise-fall/)
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Deal Dive: The future of social media is vertical](https://techcrunch.com/2023/10/07/deal-dive-the-future-of-social-media-is-vertical/)
 - [Star-studded snake-like galaxy shines in gorgeous Hubble Telescope photo](https://www.space.com/hubble-telescope-snake-like-galaxy-ngc-1087-photo)
-- [Space telescope images star on new ESA-endorsed Swatch watches](https://www.space.com/swatch-x-you-esa-space-telescope-designs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
