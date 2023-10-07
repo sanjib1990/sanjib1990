@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave lays off 9% of its workforce](https://techcrunch.com/2023/10/06/brave-lays-off-9-of-its-workforce/)
 - [Artists across industries are strategizing together around AI concerns](https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/)
 - [a16z-backed fintech Synapse lays off 40% of its staff](https://techcrunch.com/2023/10/06/a16z-backed-fintech-synapse-lays-off-40-of-its-staff/)
 - [The Draconid meteor shower peaks this weekend. Here&#39;s how to see it](https://www.space.com/draconid-meteor-shower-peak-october-2023)
 - [EV buyers can soon get the $7,500 tax credit at time of purchase](https://techcrunch.com/2023/10/06/ev-buyers-can-soon-get-the-7500-tax-credit-at-time-of-purchase/)
-- [Electric seaglider startup Regent takes flight with $60M in new funding](https://techcrunch.com/2023/10/06/electric-seaglider-startup-regent-takes-flight-with-60m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
