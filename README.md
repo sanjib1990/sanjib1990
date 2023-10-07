@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Deal Dive: The future of social media is vertical](https://techcrunch.com/2023/10/07/deal-dive-the-future-of-social-media-is-vertical/)
 - [Star-studded snake-like galaxy shines in gorgeous Hubble Telescope photo](https://www.space.com/hubble-telescope-snake-like-galaxy-ngc-1087-photo)
 - [Space telescope images star on new ESA-endorsed Swatch watches](https://www.space.com/swatch-x-you-esa-space-telescope-designs)
 - [How NVIDIA became a major player in robotics](https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/)
-- [Public invited to watch solid rocket motors arrive for shuttle Endeavour exhibit in L.A.](https://www.space.com/california-science-center-space-shuttle-endeavour-srms-arrival)
 <!-- BLOG-POST-LIST:END -->
 
 ---
