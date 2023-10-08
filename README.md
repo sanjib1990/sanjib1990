@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Starfield&#39; is an inspiring odyssey that could rekindle mainstream interest in space exploration](https://www.space.com/starfield-video-game-review-space-exploration)
+- [All solar eclipses will be &quot;rings of fire&quot; in the distant future. Here&#39;s why](https://www.space.com/solar-eclipses-all-ring-shaped-future)
 - [Sam Altman backs teens’ startup, Google unveils the Pixel 8 and TikTok tests an ad-free tier](https://techcrunch.com/2023/10/07/sam-altman-backs-a-teens-startup-google-unveils-the-pixel-8-and-tiktok-tests-an-ad-free-tier/)
 - [Crypto is about a lot more than a former golden boy turned villain](https://techcrunch.com/2023/10/07/sbf-crypto-rise-fall/)
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Deal Dive: The future of social media is vertical](https://techcrunch.com/2023/10/07/deal-dive-the-future-of-social-media-is-vertical/)
-- [Star-studded snake-like galaxy shines in gorgeous Hubble Telescope photo](https://www.space.com/hubble-telescope-snake-like-galaxy-ngc-1087-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
