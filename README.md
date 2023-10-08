@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women and underrepresented founders aren’t going to wait for the VC industry to transform itself](https://techcrunch.com/2023/10/08/how-women-and-underrepresented-founders-can-overcome-investor-bias-and-shift-the-funding-landscape-in-their-favor/)
+- [SpaceX to launch 22 Starlink satellites tonight in 1st of back-to-back missions](https://www.space.com/spacex-starlink-launch-group-6-22)
+- [How do astronomers know the age of the planets and stars?](https://www.space.com/how-do-astronomers-know-age-of-planets-stars)
 - [A comet explosion may have started agriculture in Syria 12,800 years ago](https://www.space.com/comet-debris-led-to-farming-syria)
 - [&#39;Starfield&#39; is an inspiring odyssey that could rekindle mainstream interest in space exploration](https://www.space.com/starfield-video-game-review-space-exploration)
-- [All solar eclipses will be &quot;rings of fire&quot; in the distant future. Here&#39;s why](https://www.space.com/solar-eclipses-all-ring-shaped-future)
-- [Sam Altman backs teens’ startup, Google unveils the Pixel 8 and TikTok tests an ad-free tier](https://techcrunch.com/2023/10/07/sam-altman-backs-a-teens-startup-google-unveils-the-pixel-8-and-tiktok-tests-an-ad-free-tier/)
-- [Crypto is about a lot more than a former golden boy turned villain](https://techcrunch.com/2023/10/07/sbf-crypto-rise-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
