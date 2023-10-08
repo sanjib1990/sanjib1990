@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prosus-backed fast-fashion startup Virgio, valued at $161 million, shuts down](https://techcrunch.com/2023/10/08/prosus-backed-fast-fashion-startup-virgio-valued-at-161-million-shuts-down/)
+- [SpaceX to launch 22 Starlink satellites early Oct. 9 in 2nd half of doubleheader](https://www.space.com/spacex-starlink-launch-group-7-4)
+- [Zendesk emerges from last year’s turbulence with strong outlook](https://techcrunch.com/2023/10/08/zendesk-strong-outlook/)
+- [Celebrate Life Day with Marvel Comics&#39; batch of special &#39;Star Wars&#39; variant covers](https://www.space.com/marvel-comics-life-day-star-wars-variant-covers)
+- [Prosus-backed fast-fashion startup Virgio, valued at $161 million, to shut down](https://techcrunch.com/2023/10/08/prosus-backed-fast-fashion-startup-virgio-valued-at-161-million-shuts-down/)
 - [Here’s how Rainforest, a budding Stripe rival, aims to win over software companies](https://techcrunch.com/2023/10/08/heres-how-rainforest-an-atlanta-fintech-startup-and-stripe-rival-aims-to-win-over-software-companies/)
-- [Women and underrepresented founders aren’t going to wait for the VC industry to transform itself](https://techcrunch.com/2023/10/08/how-women-and-underrepresented-founders-can-overcome-investor-bias-and-shift-the-funding-landscape-in-their-favor/)
-- [SpaceX to launch 22 Starlink satellites tonight in 1st of back-to-back missions](https://www.space.com/spacex-starlink-launch-group-6-22)
-- [How do astronomers know the age of the planets and stars?](https://www.space.com/how-do-astronomers-know-age-of-planets-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
