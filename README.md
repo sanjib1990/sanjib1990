@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To attend or not to attend: We asked 52 founders whether events are useful or a waste of time](https://techcrunch.com/2023/10/08/founder-event-survey/)
 - [SpaceX to launch 22 Starlink satellites early Oct. 9 in 2nd half of doubleheader](https://www.space.com/spacex-starlink-launch-group-7-4)
 - [Zendesk emerges from last year’s turbulence with strong outlook](https://techcrunch.com/2023/10/08/zendesk-strong-outlook/)
 - [Celebrate Life Day with Marvel Comics&#39; batch of special &#39;Star Wars&#39; variant covers](https://www.space.com/marvel-comics-life-day-star-wars-variant-covers)
 - [Prosus-backed fast-fashion startup Virgio, valued at $161 million, to shut down](https://techcrunch.com/2023/10/08/prosus-backed-fast-fashion-startup-virgio-valued-at-161-million-shuts-down/)
-- [Here’s how Rainforest, a budding Stripe rival, aims to win over software companies](https://techcrunch.com/2023/10/08/heres-how-rainforest-an-atlanta-fintech-startup-and-stripe-rival-aims-to-win-over-software-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
