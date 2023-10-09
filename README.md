@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify puts restrictions on its free tier in India to attract more paid users](https://techcrunch.com/2023/10/09/spotify-puts-restrictions-on-its-free-tier-in-india-to-attract-more-paid-users/)
+- [ALIAVIA Ventures fights gender funding inequalities in the U.S. and Australia](https://techcrunch.com/2023/10/09/aliavia-ventures/)
+- [Michigan’s Grand Ventures announces $50m early stage fund](https://techcrunch.com/2023/10/09/michigans-grand-ventures-announces-50m-early-stage-fund/)
+- [All aboard! Train tugs Artemis 2 moon rocket parts to the NASA launch center &lpar;photos, video&rpar;](https://www.space.com/artemis-2-moon-rocket-parts-train-nasa-launch-center-arrival)
 - [What cosmic object &#39;Arrokoth&#39; can tell us about our solar system&#39;s formation](https://www.space.com/arrokoth-kuiper-belt-planetesimal-formation-new-horizons)
-- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [A green hydrogen unicorn is born, more problems for Cruise and inside aviation’s buzzy startup summit](https://techcrunch.com/2023/10/09/a-green-hydrogen-unicorn-is-born-more-problems-for-cruise-and-inside-aviations-buzzy-startup-summit/)
-- [Wanda Fish navigates VC waters to catch $7M for production of cultivated bluefin tuna](https://techcrunch.com/2023/10/09/wanda-fish-7m-cultivated-bluefin-tuna-foodtech/)
-- [This Hubble Telescope view of a chalky spiral galaxy is a sight to behold &lpar;photo&rpar;](https://www.space.com/hubble-galaxy-photo-seyfert-star-clusters-black-hole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
