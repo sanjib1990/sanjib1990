@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: Castelion comes out of stealth](https://techcrunch.com/2023/10/09/max-q-castelion-comes-out-of-stealth/)
+- [As SBF’s trial heads into its second week, here’s what we know so far](https://techcrunch.com/2023/10/09/sbf-trial-details-week-1/)
+- [John Riccitiello steps down as unity CEO with former Red Hat chief exec Jim Whitehurst taking over for now](https://techcrunch.com/2023/10/09/john-riccitiello-steps-down-as-unity-ceo-with-former-red-hat-chief-exec-jim-whitehurst-taking-over-for-now/)
 - [Could AI find alien life faster than humans, and would it tell us?](https://www.space.com/could-ai-find-alien-life-faster-than-humans)
 - [The psychology behind startup dealmaking: Pitching your pilot to an industry Goliath](https://techcrunch.com/2023/10/09/the-psychology-behind-startup-dealmaking-pitching-your-pilot-to-an-industry-goliath/)
-- [Buzzy social app Fizz sues rival Sidechat over unfair competition practices](https://techcrunch.com/2023/10/09/buzzy-social-app-fizz-sues-rival-sidechat-over-unfair-competition-practices/)
-- [Satellite time-lapse shows 45-mile long iceberg colliding with Clarence Island in Antarctica](https://www.space.com/satellite-image-45-mile-iceberg)
-- [Hacktivism erupts in response to Hamas-Israel war](https://techcrunch.com/2023/10/09/hacktivism-erupts-in-response-to-hamas-israel-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
