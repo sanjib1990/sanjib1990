@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A green hydrogen unicorn is born, more problems for Cruise and inside aviation’s buzzy startup summit](https://techcrunch.com/2023/10/09/a-green-hydrogen-unicorn-is-born-more-problems-for-cruise-and-inside-aviations-buzzy-startup-summit/)
+- [Wanda Fish navigates VC waters to catch $7M for production of cultivated bluefin tuna](https://techcrunch.com/2023/10/09/wanda-fish-7m-cultivated-bluefin-tuna-foodtech/)
+- [This Hubble Telescope view of a chalky spiral galaxy is a sight to behold &lpar;photo&rpar;](https://www.space.com/hubble-galaxy-photo-seyfert-star-clusters-black-hole)
+- [Annular solar eclipse will turn the sun into a spectacular &#39;ring of fire&#39; this week](https://www.space.com/annular-solar-eclipse-2023-this-week)
 - [Accel leads $21M investment in UK care home marketplace Lottie](https://techcrunch.com/2023/10/09/care-home-marketplace-lottie-raises-21m/)
-- [Singapore’s tech subscription service Circular wants to keep devices out of the landfill](https://techcrunch.com/2023/10/08/circular/)
-- [World Bank’s IFC backs Indian insurtech startup Onsurity in $24M funding](https://techcrunch.com/2023/10/08/onsurity-funding-world-bank-ifc/)
-- [Tech group calls India’s proposed guidelines against dark patterns ‘regulatory overlap’](https://techcrunch.com/2023/10/08/us-tech-giants-india-dark-patterns-guidelines-response/)
-- [Waymo-Zeekr robotaxi poised for US testing by end of 2023](https://techcrunch.com/2023/10/08/geely-waymo-robotaxi-to-test-in-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
