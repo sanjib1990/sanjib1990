@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the moon snuggle up to Venus early on Oct. 10](https://www.space.com/moon-venus-close-approach-skywatching-october-2023)
-- [Why Einstein must be wrong: In search of the theory of gravity](https://www.space.com/was-einstein-wrong-in-search-of-theory-of-gravity)
-- [California passes law mandating VC firms to release investments’ diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
-- [What are kilonovas?](https://www.space.com/what-are-kilonovas)
-- [Instagram Threads preps a Trending Topics feature in battle with X](https://techcrunch.com/2023/10/09/instagram-threads-preps-a-trending-topics-feature-in-battle-with-x/)
+- [Satellite time-lapse shows 45-mile long iceberg colliding with Clarence Island in Antarctica](https://www.space.com/satellite-image-45-mile-iceberg)
+- [Hacktivism erupts in response to Hamas-Israel war](https://techcrunch.com/2023/10/09/hacktivism-erupts-in-response-to-hamas-israel-war/)
+- [Waymo expands in San Francisco while Cruise feels the heat](https://techcrunch.com/2023/10/09/waymo-expands-in-san-francisco-while-cruise-feels-the-heat/)
+- [ChatGPT’s mobile app hit record $4.58M in revenue last month, but growth is slowing](https://techcrunch.com/2023/10/09/chatgpts-mobile-app-hit-record-4-58m-in-revenue-last-month-but-growth-is-slowing/)
+- [Severe space weather is messing up bird migrations, new study suggests](https://www.space.com/severe-space-weather-affects-nocturnal-bird-migration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
