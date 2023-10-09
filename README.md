@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon snuggle up to Venus early on Oct. 10](https://www.space.com/moon-venus-close-approach-skywatching-october-2023)
 - [Why Einstein must be wrong: In search of the theory of gravity](https://www.space.com/was-einstein-wrong-in-search-of-theory-of-gravity)
 - [California passes law mandating VC firms to release investments’ diversity information](https://techcrunch.com/2023/10/09/california-passes-law-mandating-vc-firms-to-release-investments-diversity-information/)
-- [Saronic, a defense startup building autonomous ships, raises $55M](https://techcrunch.com/2023/10/09/saronic-a-defense-startup-building-autonomous-ships-raises-55m/)
 - [What are kilonovas?](https://www.space.com/what-are-kilonovas)
 - [Instagram Threads preps a Trending Topics feature in battle with X](https://techcrunch.com/2023/10/09/instagram-threads-preps-a-trending-topics-feature-in-battle-with-x/)
 <!-- BLOG-POST-LIST:END -->
