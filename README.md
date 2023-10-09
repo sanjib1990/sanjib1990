@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech group calls India’s proposed guidelines against dark patterns ‘regulatory overlap’](https://techcrunch.com/2023/10/08/us-tech-giants-india-dark-patterns-guidelines-response/)
+- [Waymo-Zeekr robotaxi poised for US testing by end of 2023](https://techcrunch.com/2023/10/08/geely-waymo-robotaxi-to-test-in-us/)
+- [European Digital insurtech startup Getsafe acquires Luko’s German portfolio, reaches 550,000 customers](https://techcrunch.com/2023/10/08/getsafe-luko-germany/)
 - [To attend or not to attend: We asked 52 founders whether events are useful or a waste of time](https://techcrunch.com/2023/10/08/founder-event-survey/)
 - [SpaceX to launch 22 Starlink satellites early Oct. 9 in 2nd half of doubleheader](https://www.space.com/spacex-starlink-launch-group-7-4)
-- [Zendesk emerges from last year’s turbulence with strong outlook](https://techcrunch.com/2023/10/08/zendesk-strong-outlook/)
-- [Celebrate Life Day with Marvel Comics&#39; batch of special &#39;Star Wars&#39; variant covers](https://www.space.com/marvel-comics-life-day-star-wars-variant-covers)
-- [Prosus-backed fast-fashion startup Virgio, valued at $161 million, to shut down](https://techcrunch.com/2023/10/08/prosus-backed-fast-fashion-startup-virgio-valued-at-161-million-shuts-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
