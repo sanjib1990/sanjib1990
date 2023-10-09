@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World Bank’s IFC backs Indian insurtech startup Onsurity in $24M funding](https://techcrunch.com/2023/10/08/onsurity-funding-world-bank-ifc/)
 - [Tech group calls India’s proposed guidelines against dark patterns ‘regulatory overlap’](https://techcrunch.com/2023/10/08/us-tech-giants-india-dark-patterns-guidelines-response/)
 - [Waymo-Zeekr robotaxi poised for US testing by end of 2023](https://techcrunch.com/2023/10/08/geely-waymo-robotaxi-to-test-in-us/)
 - [European Digital insurtech startup Getsafe acquires Luko’s German portfolio, reaches 550,000 customers](https://techcrunch.com/2023/10/08/getsafe-luko-germany/)
 - [To attend or not to attend: We asked 52 founders whether events are useful or a waste of time](https://techcrunch.com/2023/10/08/founder-event-survey/)
-- [SpaceX to launch 22 Starlink satellites early Oct. 9 in 2nd half of doubleheader](https://www.space.com/spacex-starlink-launch-group-7-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
