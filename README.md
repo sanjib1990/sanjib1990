@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Quest 3 takes a step closer to mainstream AR/VR](https://techcrunch.com/2023/10/09/meta-quest-3-takes-a-step-closer-to-mainstream-ar-vr/)
+- [Euclid &#39;dark universe&#39; telescope is back on track after finding its guiding stars](https://www.space.com/euclid-telescope-finds-guiding-stars-ready-for-full-science-mode)
 - [The AI race, crypto doldrums, and the future of fake fish](https://techcrunch.com/2023/10/09/the-ai-race-crypto-doldrums-and-the-future-of-fake-fish/)
 - [Mastodon actually has 407K+ more monthly users than it thought](https://techcrunch.com/2023/10/09/mastodon-actually-has-407k-more-monthly-users-than-it-thought/)
 - [Axiom Space partners with fashion house Prada to design Artemis 3 moon suits](https://www.space.com/axiom-space-prada-artemis-3-moon-spacesuits)
-- [Spotify puts restrictions on its free tier in India to attract more paid users](https://techcrunch.com/2023/10/09/spotify-puts-restrictions-on-its-free-tier-in-india-to-attract-more-paid-users/)
-- [ALIAVIA Ventures fights gender funding inequalities in the U.S. and Australia](https://techcrunch.com/2023/10/09/aliavia-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
