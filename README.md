@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI race, crypto doldrums, and the future of fake fish](https://techcrunch.com/2023/10/09/the-ai-race-crypto-doldrums-and-the-future-of-fake-fish/)
+- [Mastodon actually has 407K+ more monthly users than it thought](https://techcrunch.com/2023/10/09/mastodon-actually-has-407k-more-monthly-users-than-it-thought/)
+- [Axiom Space partners with fashion house Prada to design Artemis 3 moon suits](https://www.space.com/axiom-space-prada-artemis-3-moon-spacesuits)
 - [Spotify puts restrictions on its free tier in India to attract more paid users](https://techcrunch.com/2023/10/09/spotify-puts-restrictions-on-its-free-tier-in-india-to-attract-more-paid-users/)
 - [ALIAVIA Ventures fights gender funding inequalities in the U.S. and Australia](https://techcrunch.com/2023/10/09/aliavia-ventures/)
-- [Michigan’s Grand Ventures announces $50m early stage fund](https://techcrunch.com/2023/10/09/michigans-grand-ventures-announces-50m-early-stage-fund/)
-- [All aboard! Train tugs Artemis 2 moon rocket parts to the NASA launch center &lpar;photos, video&rpar;](https://www.space.com/artemis-2-moon-rocket-parts-train-nasa-launch-center-arrival)
-- [What cosmic object &#39;Arrokoth&#39; can tell us about our solar system&#39;s formation](https://www.space.com/arrokoth-kuiper-belt-planetesimal-formation-new-horizons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
