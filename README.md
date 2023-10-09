@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel leads $21M investment in UK care home marketplace Lottie](https://techcrunch.com/2023/10/09/care-home-marketplace-lottie-raises-21m/)
 - [Singapore’s tech subscription service Circular wants to keep devices out of the landfill](https://techcrunch.com/2023/10/08/circular/)
 - [World Bank’s IFC backs Indian insurtech startup Onsurity in $24M funding](https://techcrunch.com/2023/10/08/onsurity-funding-world-bank-ifc/)
 - [Tech group calls India’s proposed guidelines against dark patterns ‘regulatory overlap’](https://techcrunch.com/2023/10/08/us-tech-giants-india-dark-patterns-guidelines-response/)
 - [Waymo-Zeekr robotaxi poised for US testing by end of 2023](https://techcrunch.com/2023/10/08/geely-waymo-robotaxi-to-test-in-us/)
-- [European Digital insurtech startup Getsafe acquires Luko’s German portfolio, reaches 550,000 customers](https://techcrunch.com/2023/10/08/getsafe-luko-germany/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
