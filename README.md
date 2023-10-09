@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could AI find alien life faster than humans, and would it tell us?](https://www.space.com/could-ai-find-alien-life-faster-than-humans)
+- [The psychology behind startup dealmaking: Pitching your pilot to an industry Goliath](https://techcrunch.com/2023/10/09/the-psychology-behind-startup-dealmaking-pitching-your-pilot-to-an-industry-goliath/)
+- [Buzzy social app Fizz sues rival Sidechat over unfair competition practices](https://techcrunch.com/2023/10/09/buzzy-social-app-fizz-sues-rival-sidechat-over-unfair-competition-practices/)
 - [Satellite time-lapse shows 45-mile long iceberg colliding with Clarence Island in Antarctica](https://www.space.com/satellite-image-45-mile-iceberg)
 - [Hacktivism erupts in response to Hamas-Israel war](https://techcrunch.com/2023/10/09/hacktivism-erupts-in-response-to-hamas-israel-war/)
-- [Waymo expands in San Francisco while Cruise feels the heat](https://techcrunch.com/2023/10/09/waymo-expands-in-san-francisco-while-cruise-feels-the-heat/)
-- [ChatGPT’s mobile app hit record $4.58M in revenue last month, but growth is slowing](https://techcrunch.com/2023/10/09/chatgpts-mobile-app-hit-record-4-58m-in-revenue-last-month-but-growth-is-slowing/)
-- [Severe space weather is messing up bird migrations, new study suggests](https://www.space.com/severe-space-weather-affects-nocturnal-bird-migration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
