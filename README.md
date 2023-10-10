@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alameda Research’s ex-CEO Caroline Ellison testifies, claims SBF directed her to commit crimes](https://techcrunch.com/2023/10/10/alameda-research-caroline-ellison-sbf-trial/)
+- [TikTok now supports direct posting from AI-powered Adobe apps, CapCut, Twitch and more](https://techcrunch.com/2023/10/10/tiktok-now-supports-direct-posting-from-ai-powered-adobe-apps-capcut-twitch-and-more/)
+- [The Q3 venture capital market explained in five charts](https://techcrunch.com/2023/10/10/q3-vc-charts/)
 - [SnapEDA becomes SnapMagic and debuts an AI copilot to help automate circuit board design](https://techcrunch.com/2023/10/10/snapeda-becomes-snapmagic-and-debuts-an-ai-copilot-to-help-automate-circuit-board-design/)
 - [Relationship community app Keepler wants to guide you through your dating journey](https://techcrunch.com/2023/10/10/keepler-relationship-community-dating-app-marketplace/)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/10/10/tech-layoffs-2023-list/)
-- [We highly rate these astronomy binoculars and today they&#39;re over 10% off](https://www.space.com/celestron-skymaster-15x70-binoculars-amazon-prime-day-deals-2023)
-- [Take to the skies for less this Prime Day — save $50 on the DJI Mavic Mini Drone Combo](https://www.space.com/dji-mavic-mini-drone-combo-deal-amazon-prime-day-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
