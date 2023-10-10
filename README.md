@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Iran is seeking Russian assistance for a new spy satellite: reports](https://www.space.com/iran-russia-help-khayyam-spy-satellite)
-- [Demos aren’t as important as you think for your VC pitch](https://techcrunch.com/2023/10/10/less-demos-in-your-vc-pitches-plz/)
-- [How James Webb Space Telescope&#39;s studies of TRAPPIST-1 flares could aid the search for alien life](https://www.space.com/james-webb-space-telescope-trappist-1-flares-alien-life-search)
-- [Watch China launch more classified Yaogan spy satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-satellites-launch-october-2023)
-- [Alameda Research’s ex-CEO Caroline Ellison testifies, claims SBF directed her to commit crimes](https://techcrunch.com/2023/10/10/alameda-research-caroline-ellison-sbf-trial/)
+- [Studying space weather can help address space debris. Here&#39;s how](https://www.space.com/how-studying-space-weather-address-orbital-debris)
+- [Federal judge throws out $32.5 million win for Sonos against Google](https://techcrunch.com/2023/10/10/federal-judge-throws-out-32-5-million-win-for-sonos-against-google/)
+- [Gaia telescope&#39;s new data reveals &#39;goldmine&#39; of over 500,000 undiscovered stars and more](https://www.space.com/gaia-space-telescope-undiscovered-stars)
+- [Arctic Wolf acquires cybersecurity automation platform Revelstoke](https://techcrunch.com/2023/10/10/arctic-wolf-acquires-cybersecurity-automation-platform-revelstoke/)
+- [As misinfo circulates on X amid the Israel-Hamas war, reporters look to other platforms](https://techcrunch.com/2023/10/10/as-misinfo-circulates-on-x-amid-the-israel-hamas-war-reporters-look-to-other-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
