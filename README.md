@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Iran is seeking Russian assistance for a new spy satellite: reports](https://www.space.com/iran-russia-help-khayyam-spy-satellite)
 - [Demos aren’t as important as you think for your VC pitch](https://techcrunch.com/2023/10/10/less-demos-in-your-vc-pitches-plz/)
 - [How James Webb Space Telescope&#39;s studies of TRAPPIST-1 flares could aid the search for alien life](https://www.space.com/james-webb-space-telescope-trappist-1-flares-alien-life-search)
 - [Watch China launch more classified Yaogan spy satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-satellites-launch-october-2023)
 - [Alameda Research’s ex-CEO Caroline Ellison testifies, claims SBF directed her to commit crimes](https://techcrunch.com/2023/10/10/alameda-research-caroline-ellison-sbf-trial/)
-- [TikTok now supports direct posting from AI-powered Adobe apps, CapCut, Twitch and more](https://techcrunch.com/2023/10/10/tiktok-now-supports-direct-posting-from-ai-powered-adobe-apps-capcut-twitch-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
