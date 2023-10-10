@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Demos aren’t as important as you think for your VC pitch](https://techcrunch.com/2023/10/10/less-demos-in-your-vc-pitches-plz/)
+- [How James Webb Space Telescope&#39;s studies of TRAPPIST-1 flares could aid the search for alien life](https://www.space.com/james-webb-space-telescope-trappist-1-flares-alien-life-search)
+- [Watch China launch more classified Yaogan spy satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-satellites-launch-october-2023)
 - [Alameda Research’s ex-CEO Caroline Ellison testifies, claims SBF directed her to commit crimes](https://techcrunch.com/2023/10/10/alameda-research-caroline-ellison-sbf-trial/)
 - [TikTok now supports direct posting from AI-powered Adobe apps, CapCut, Twitch and more](https://techcrunch.com/2023/10/10/tiktok-now-supports-direct-posting-from-ai-powered-adobe-apps-capcut-twitch-and-more/)
-- [The Q3 venture capital market explained in five charts](https://techcrunch.com/2023/10/10/q3-vc-charts/)
-- [SnapEDA becomes SnapMagic and debuts an AI copilot to help automate circuit board design](https://techcrunch.com/2023/10/10/snapeda-becomes-snapmagic-and-debuts-an-ai-copilot-to-help-automate-circuit-board-design/)
-- [Relationship community app Keepler wants to guide you through your dating journey](https://techcrunch.com/2023/10/10/keepler-relationship-community-dating-app-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
