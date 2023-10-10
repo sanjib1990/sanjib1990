@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SumUp’s valuation falls as low as $4.1B, as Groupon and others sell off their stakes](https://techcrunch.com/2023/10/10/sumup-groupon-valuation/)
+- [Cash-strapped EV maker Arrival lays off yet more workers](https://techcrunch.com/2023/10/10/cash-strapped-ev-maker-arrival-lays-off-yet-more-workers/)
 - [James Webb Space Telescope spotlights gorgeous young stars in a galaxy next door &lpar;photo&rpar;](https://www.space.com/young-stars-jwst-photo-cosmic-noon)
 - [Hackers advertised 23andMe stolen data two months ago](https://techcrunch.com/2023/10/10/hackers-advertised-23andme-stolen-data-two-months-ago/)
 - [Studying space weather can help address space debris. Here&#39;s how](https://www.space.com/how-studying-space-weather-address-orbital-debris)
-- [Federal judge throws out $32.5 million win for Sonos against Google](https://techcrunch.com/2023/10/10/federal-judge-throws-out-32-5-million-win-for-sonos-against-google/)
-- [Gaia telescope&#39;s new data reveals &#39;goldmine&#39; of over 500,000 undiscovered stars and more](https://www.space.com/gaia-space-telescope-undiscovered-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
