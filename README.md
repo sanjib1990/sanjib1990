@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Firefly can now generate more realistic images](https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/)
-- [Deta wants to reinvent personal computers with a new cloud OS](https://techcrunch.com/2023/10/10/deta-wants-to-reinvent-personal-computers-with-a-new-cloud-os/)
-- [Adobe Firefly’s generative AI models can now create vector graphics in Illustrator](https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/)
-- [&#39;Potentially catastrophic&#39; solar storm identified in ancient tree rings](https://www.space.com/largest-ever-recorded-solar-storm-found-in-tree-rings)
-- [Adobe’s Project Stardust is a sneak preview of its next-gen AI photo editing engine](https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/)
+- [SnapEDA becomes SnapMagic and debuts an AI copilot to help automate circuit board design](https://techcrunch.com/2023/10/10/snapeda-becomes-snapmagic-and-debuts-an-ai-copilot-to-help-automate-circuit-board-design/)
+- [Relationship community app Keepler wants to guide you through your dating journey](https://techcrunch.com/2023/10/10/keepler-relationship-community-dating-app-marketplace/)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/10/10/tech-layoffs-2023-list/)
+- [We highly rate these astronomy binoculars and today they&#39;re over 10% off](https://www.space.com/celestron-skymaster-15x70-binoculars-amazon-prime-day-deals-2023)
+- [Take to the skies for less this Prime Day — save $50 on the DJI Mavic Mini Drone Combo](https://www.space.com/dji-mavic-mini-drone-combo-deal-amazon-prime-day-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
