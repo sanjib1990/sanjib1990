@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ScyllaDB raises $43M to scale its NoSQL database platform](https://techcrunch.com/2023/10/10/scylladb-raises-43m-to-scale-its-nosql-database-platform/)
+- [Chandrayaan-3’s measurements of sulfur open the doors for lunar science and exploration](https://www.space.com/chandrayaan-3-sulfur-measurements-lunar-science-expert-voices)
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Heura adds ‘York ham style slices’ to its 100%-plant-based vegan mix](https://techcrunch.com/2023/10/10/heura-ham/)
 - [Orus offers business insurance products to restaurant owners and other small companies](https://techcrunch.com/2023/10/10/orus-offers-business-insurance-products-to-restaurant-owners-and-other-small-companies/)
-- [Zest Equity, a UAE-based startup digitizing private market deals, raises $3.8M seed funding](https://techcrunch.com/2023/10/09/zest-equity-seed-funding/)
-- [X’s new control lets only verified accounts reply to a post](https://techcrunch.com/2023/10/09/xs-new-control-lets-only-verified-accounts-reply-to-a-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
