@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SuperOps.ai streamlines the work of managed service providers](https://techcrunch.com/2023/10/10/superopsai/)
-- [ScyllaDB raises $43M to scale its NoSQL database platform](https://techcrunch.com/2023/10/10/scylladb-raises-43m-to-scale-its-nosql-database-platform/)
-- [Chandrayaan-3’s measurements of sulfur open the doors for lunar science and exploration](https://www.space.com/chandrayaan-3-sulfur-measurements-lunar-science-expert-voices)
-- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Heura adds ‘York ham style slices’ to its 100%-plant-based vegan mix](https://techcrunch.com/2023/10/10/heura-ham/)
+- [X changes its public interest policy to redefine ‘newsworthiness’ of posts](https://techcrunch.com/2023/10/10/x-changes-its-public-interest-policy-to-redefine-newsworthiness-of-posts/)
+- [Google makes passkeys the default sign-in method for all users](https://techcrunch.com/2023/10/10/google-makes-passkeys-the-default-sign-in-method-for-all-users/)
+- [Thread, which develops a platform to autonomously inspect utility assets, raises $15M](https://techcrunch.com/2023/10/10/thread-which-develops-a-platform-to-autonomously-inspect-utility-assets-raises-15m/)
+- [NASA astronaut walks on the &#39;moon&#39; to get ready for Artemis landings &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-moon-walk-training-artemis-program)
+- [Modal Labs lands $16M to abstract away big data workload infrastructure](https://techcrunch.com/2023/10/10/modal-labs-lands-16m-to-abstract-away-big-data-workload-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
