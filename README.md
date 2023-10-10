@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zest Equity, a UAE-based startup digitizing private market deals, raises $3.8M seed funding](https://techcrunch.com/2023/10/09/zest-equity-seed-funding/)
+- [X’s new control lets only verified accounts reply to a post](https://techcrunch.com/2023/10/09/xs-new-control-lets-only-verified-accounts-reply-to-a-post/)
 - [Indian banks attract VC and startup interest](https://techcrunch.com/2023/10/09/indian-banks-attract-vc-and-startup-interest/)
 - [Saronic, a defense startup building autonomous ships, raises $55M](https://techcrunch.com/2023/10/09/saronic-a-defense-startup-building-autonomous-ships-raises-55m/)
 - [Ultra-portable monitor from Espresso Displays goes 4K](https://techcrunch.com/2023/10/09/4k-espresso-displays/)
-- [Consumer payments startup Braid, backed by Index and Accel, shuts down](https://techcrunch.com/2023/10/09/consumer-payments-startup-braid-shuts-down-cites-struggles-with-leveraging-third-party-software/)
-- [Max Q: Castelion comes out of stealth](https://techcrunch.com/2023/10/09/max-q-castelion-comes-out-of-stealth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
