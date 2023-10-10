@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadow launches Windows-based cloud PCs for $9.99 per month](https://techcrunch.com/2023/10/10/shadow-launches-windows-based-cloud-pcs-for-999-per-month/)
-- [Stow away on a luxury starship in 1st look inside Jock&#39;s new sci-fi comic series, &#39;Gone&#39; &lpar;exclusive&rpar;](https://www.space.com/gone-jock-sci-fi-comic-exclusive)
-- [Google introduces new sustainability features, including a tool for people looking to buy an EV](https://techcrunch.com/2023/10/10/google-introduces-new-sustainability-features-including-a-tool-for-people-looking-to-buy-an-ev/)
-- [Lowest ever price — save $116 on Celestron TrailSeeker ED 8x42 binoculars on Prime Day](https://www.space.com/celestron-trailseeker-ed-8x42-binocular-deal-amazon-prime-day-2023)
-- [Canopy Servicing’s $15.2M Series A1 shows fintech startups that raised in 2021 can still get money](https://techcrunch.com/2023/10/10/canopy-servicings-15-2m-series-a1-shows-fintech-startups-that-raised-in-2021-can-still-get-money/)
+- [Adobe Firefly can now generate more realistic images](https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/)
+- [Deta wants to reinvent personal computers with a new cloud OS](https://techcrunch.com/2023/10/10/deta-wants-to-reinvent-personal-computers-with-a-new-cloud-os/)
+- [Adobe Firefly’s generative AI models can now create vector graphics in Illustrator](https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/)
+- [&#39;Potentially catastrophic&#39; solar storm identified in ancient tree rings](https://www.space.com/largest-ever-recorded-solar-storm-found-in-tree-rings)
+- [Adobe’s Project Stardust is a sneak preview of its next-gen AI photo editing engine](https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
