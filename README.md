@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Harbour secures $15M to streamline and automate contract drafting](https://techcrunch.com/2023/10/10/harbour-secures-15m-to-streamline-and-automate-contract-drafting/)
-- [Gutsy launches with huge $51M seed to bring process mining to security](https://techcrunch.com/2023/10/10/team-that-started-twistlock-launches-gutsy-with-enormous-51m-seed-round/)
-- [TabbyML, an open source challenger to GitHub Copilot, raises $3.2 million](https://techcrunch.com/2023/10/10/tabbyml-github-copilot-alternative-raises-3-2-million/)
-- [&#39;Remarkable&#39; explosions from colliding, dead stars could reveal the true expansion rate of the universe](https://www.space.com/remarkable-explosions-dead-stars-expansion-rate-universe)
-- [Data observability startup Acceldata raises $10M more](https://techcrunch.com/2023/10/10/data-observability-startup-acceldata-raises-10m-more/)
+- [Solar-powered everything with Giovanni Fili of Exeger](https://techcrunch.com/2023/10/10/solar-powered-everything-with-giovanni-fili-of-exeger/)
+- [NASA&#39;s Perseverance Mars rover is on the move! Here&#39;s what it will do at &#39;Jurabi Point.&#39;](https://www.space.com/perseverance-rover-moving-to-jurabi-point-mars)
+- [ISS astronauts &#39;never in any danger&#39; after Russian science module leak](https://www.space.com/international-space-station-astronauts-nauka-ammonia-leak-no-danger)
+- [Prime Day deal: Save $180 on Celestron&#39;s SkyMaster 25x100 binoculars](https://www.space.com/celestron-skymaster-25x100-amazon-prime-day-2023-deal)
+- [Pair Eyewear sets its peepers on international expansion following $75M Series C](https://techcrunch.com/2023/10/10/pair-eyewear-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
