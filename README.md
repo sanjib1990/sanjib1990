@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Heura adds ‘York ham style slices’ to its 100%-plant-based vegan mix](https://techcrunch.com/2023/10/10/heura-ham/)
+- [Orus offers business insurance products to restaurant owners and other small companies](https://techcrunch.com/2023/10/10/orus-offers-business-insurance-products-to-restaurant-owners-and-other-small-companies/)
 - [Zest Equity, a UAE-based startup digitizing private market deals, raises $3.8M seed funding](https://techcrunch.com/2023/10/09/zest-equity-seed-funding/)
 - [X’s new control lets only verified accounts reply to a post](https://techcrunch.com/2023/10/09/xs-new-control-lets-only-verified-accounts-reply-to-a-post/)
 - [Indian banks attract VC and startup interest](https://techcrunch.com/2023/10/09/indian-banks-attract-vc-and-startup-interest/)
-- [Saronic, a defense startup building autonomous ships, raises $55M](https://techcrunch.com/2023/10/09/saronic-a-defense-startup-building-autonomous-ships-raises-55m/)
-- [Ultra-portable monitor from Espresso Displays goes 4K](https://techcrunch.com/2023/10/09/4k-espresso-displays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
