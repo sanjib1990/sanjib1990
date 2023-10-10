@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope spotlights gorgeous young stars in a galaxy next door &lpar;photo&rpar;](https://www.space.com/young-stars-jwst-photo-cosmic-noon)
+- [Hackers advertised 23andMe stolen data two months ago](https://techcrunch.com/2023/10/10/hackers-advertised-23andme-stolen-data-two-months-ago/)
 - [Studying space weather can help address space debris. Here&#39;s how](https://www.space.com/how-studying-space-weather-address-orbital-debris)
 - [Federal judge throws out $32.5 million win for Sonos against Google](https://techcrunch.com/2023/10/10/federal-judge-throws-out-32-5-million-win-for-sonos-against-google/)
 - [Gaia telescope&#39;s new data reveals &#39;goldmine&#39; of over 500,000 undiscovered stars and more](https://www.space.com/gaia-space-telescope-undiscovered-stars)
-- [Arctic Wolf acquires cybersecurity automation platform Revelstoke](https://techcrunch.com/2023/10/10/arctic-wolf-acquires-cybersecurity-automation-platform-revelstoke/)
-- [As misinfo circulates on X amid the Israel-Hamas war, reporters look to other platforms](https://techcrunch.com/2023/10/10/as-misinfo-circulates-on-x-amid-the-israel-hamas-war-reporters-look-to-other-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
