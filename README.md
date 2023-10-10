@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X changes its public interest policy to redefine ‘newsworthiness’ of posts](https://techcrunch.com/2023/10/10/x-changes-its-public-interest-policy-to-redefine-newsworthiness-of-posts/)
-- [Google makes passkeys the default sign-in method for all users](https://techcrunch.com/2023/10/10/google-makes-passkeys-the-default-sign-in-method-for-all-users/)
-- [Thread, which develops a platform to autonomously inspect utility assets, raises $15M](https://techcrunch.com/2023/10/10/thread-which-develops-a-platform-to-autonomously-inspect-utility-assets-raises-15m/)
-- [NASA astronaut walks on the &#39;moon&#39; to get ready for Artemis landings &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-moon-walk-training-artemis-program)
-- [Modal Labs lands $16M to abstract away big data workload infrastructure](https://techcrunch.com/2023/10/10/modal-labs-lands-16m-to-abstract-away-big-data-workload-infrastructure/)
+- [Harbour secures $15M to streamline and automate contract drafting](https://techcrunch.com/2023/10/10/harbour-secures-15m-to-streamline-and-automate-contract-drafting/)
+- [Gutsy launches with huge $51M seed to bring process mining to security](https://techcrunch.com/2023/10/10/team-that-started-twistlock-launches-gutsy-with-enormous-51m-seed-round/)
+- [TabbyML, an open source challenger to GitHub Copilot, raises $3.2 million](https://techcrunch.com/2023/10/10/tabbyml-github-copilot-alternative-raises-3-2-million/)
+- [&#39;Remarkable&#39; explosions from colliding, dead stars could reveal the true expansion rate of the universe](https://www.space.com/remarkable-explosions-dead-stars-expansion-rate-universe)
+- [Data observability startup Acceldata raises $10M more](https://techcrunch.com/2023/10/10/data-observability-startup-acceldata-raises-10m-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
