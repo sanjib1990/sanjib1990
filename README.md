@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar-powered everything with Giovanni Fili of Exeger](https://techcrunch.com/2023/10/10/solar-powered-everything-with-giovanni-fili-of-exeger/)
-- [NASA&#39;s Perseverance Mars rover is on the move! Here&#39;s what it will do at &#39;Jurabi Point.&#39;](https://www.space.com/perseverance-rover-moving-to-jurabi-point-mars)
-- [ISS astronauts &#39;never in any danger&#39; after Russian science module leak](https://www.space.com/international-space-station-astronauts-nauka-ammonia-leak-no-danger)
-- [Prime Day deal: Save $180 on Celestron&#39;s SkyMaster 25x100 binoculars](https://www.space.com/celestron-skymaster-25x100-amazon-prime-day-2023-deal)
-- [Pair Eyewear sets its peepers on international expansion following $75M Series C](https://techcrunch.com/2023/10/10/pair-eyewear-series-c/)
+- [Shadow launches Windows-based cloud PCs for $9.99 per month](https://techcrunch.com/2023/10/10/shadow-launches-windows-based-cloud-pcs-for-999-per-month/)
+- [Stow away on a luxury starship in 1st look inside Jock&#39;s new sci-fi comic series, &#39;Gone&#39; &lpar;exclusive&rpar;](https://www.space.com/gone-jock-sci-fi-comic-exclusive)
+- [Google introduces new sustainability features, including a tool for people looking to buy an EV](https://techcrunch.com/2023/10/10/google-introduces-new-sustainability-features-including-a-tool-for-people-looking-to-buy-an-ev/)
+- [Lowest ever price — save $116 on Celestron TrailSeeker ED 8x42 binoculars on Prime Day](https://www.space.com/celestron-trailseeker-ed-8x42-binocular-deal-amazon-prime-day-2023)
+- [Canopy Servicing’s $15.2M Series A1 shows fintech startups that raised in 2021 can still get money](https://techcrunch.com/2023/10/10/canopy-servicings-15-2m-series-a1-shows-fintech-startups-that-raised-in-2021-can-still-get-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
