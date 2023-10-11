@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Box announces Hubs, a custom portal to share specialized content](https://techcrunch.com/2023/10/11/box-announces-hubs-a-custom-portal-to-share-specialized-content/)
-- [Prime Day drone deal: Save $110 on the Holy Stone HS700E](https://www.space.com/holy-stone-hs700e-amazon-prime-day-drone-deal-october-2023)
-- [Adobe’s project fast fill is generative fill for video](https://techcrunch.com/2023/10/11/adobes-project-fast-fill-is-generative-fill-for-video/)
-- [Box unveils unique AI pricing plan to account for high cost of running LLMs](https://techcrunch.com/2023/10/11/box-unveils-unique-ai-pricing-plan-to-account-for-high-cost-of-running-llms/)
-- [KIT Plugins, an audio software startup that help producers and musicians enhance their sound, raises $1 million](https://techcrunch.com/2023/10/11/kit-plugins-audio-software-startup-help-producers-musicians-enhance-their-sound-raises-1-million/)
+- [Why Medium is opting out of AI](https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/)
+- [Peer-to-peer fashion rental marketplace Pickle picks up $8 million](https://techcrunch.com/2023/10/11/peer-to-peer-fashion-rental-marketplace-pickle-picks-up-8-million/)
+- [Unidentified anomalous phenomena: Hot spots and the quest for data](https://www.space.com/unidentified-anomalous-phenomena-hot-spots-quest-data)
+- [Ask Sophie: Can a bootstrapping solo founder get an O-1A?](https://techcrunch.com/2023/10/11/ask-sophie-can-a-bootstrapping-solo-founder-get-an-o-1a/)
+- [Backed by A16z, Relay races to market with Zapier in its crosshairs](https://techcrunch.com/2023/10/11/relay-a16z-zapier-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
