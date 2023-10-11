@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Pixel 8 Pro camera is the new mobile photography champ](https://techcrunch.com/2023/10/11/google-pixel-8-pro-camera-review/)
-- [Google Pixel 8 Pro: The camera’s still the thing](https://techcrunch.com/2023/10/11/google-pixel-8-pro-the-cameras-still-the-thing/)
-- [Google’s Pixel 8 delivers solid performance and design upgrades, plus a focus on the future](https://techcrunch.com/2023/10/11/google-pixel-8-review/)
-- [Tesla now sells $8,000 vinyl wraps, hinting at clever Cybertruck solution](https://techcrunch.com/2023/10/11/tesla-now-sells-8000-vinyl-wraps-hinting-at-a-clever-cybertruck-solution/)
-- [Instagram head says Threads is “not going to amplify news on the platform”](https://techcrunch.com/2023/10/11/instagram-head-says-threads-is-not-going-to-amplify-news-on-the-platform/)
+- [India to launch test flight on Oct. 21 for future Gaganyaan astronaut mission](https://www.space.com/india-gaganyaan-astronaut-mission-test-flight-october-21)
+- [Phasio helps local manufacturers manage their customer relationships](https://techcrunch.com/2023/10/11/phasio/)
+- [SEC is investigating MOVEit mass-hack, says Progress Software](https://techcrunch.com/2023/10/11/sec-is-investigating-moveit-mass-hack-says-progress-software/)
+- [Fearing AI, fanfiction writers lock their accounts](https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/)
+- [WordPress.com blogs can now be followed on Mastodon and other federated platforms](https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
