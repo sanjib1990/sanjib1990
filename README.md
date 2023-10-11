@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI revolutionizing MRI scans — A Munich startup banked $32M to scan eggs, and says humans are next](https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/)
 - [Recs is a social ‘wallet’ for stashing and sharing your favorite places](https://techcrunch.com/2023/10/10/recs-is-a-social-wallet-for-stashing-and-sharing-your-favorite-places/)
 - [WM Motor’s bankruptcy highlights challenges faced by EV startups in China](https://techcrunch.com/2023/10/10/wm-motors-bankruptcy-highlights-challenges-faced-by-ev-startups-in-china/)
 - [Evolution Space to build solid rocket motor testing center at NASA Stennis](https://techcrunch.com/2023/10/10/evolution-space-to-build-solid-rocket-motor-testing-center-at-nasa-stennis/)
-- [India’s InsuranceDekho raises another $60 million](https://techcrunch.com/2023/10/10/insurancedekho/)
-- [Japanese VC Beyond Next Ventures raises $67.7M in a first close of its deep tech fund](https://techcrunch.com/2023/10/10/japanese-vc-beyond-next-ventures-raises-67-7m-in-a-first-close-of-its-deep-tech-fund/)
+- [India’s InsuranceDekho raises another $60M](https://techcrunch.com/2023/10/10/insurancedekho/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
