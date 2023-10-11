@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolution Space to build solid rocket motor testing center at NASA Stennis](https://techcrunch.com/2023/10/10/evolution-space-to-build-solid-rocket-motor-testing-center-at-nasa-stennis/)
 - [India’s InsuranceDekho raises another $60 million](https://techcrunch.com/2023/10/10/insurancedekho/)
 - [Japanese VC Beyond Next Ventures raises $67.7M in a first close of its deep tech fund](https://techcrunch.com/2023/10/10/japanese-vc-beyond-next-ventures-raises-67-7m-in-a-first-close-of-its-deep-tech-fund/)
 - [EU fires urgent warning at Elon Musk’s X over illegal content and disinformation following Hamas attacks](https://techcrunch.com/2023/10/10/eu-dsa-warning-elon-musk-x/)
 - [What drove online used car marketplace Shift to file for bankruptcy](https://techcrunch.com/2023/10/10/what-drove-online-used-car-marketplace-shift-to-file-for-bankruptcy/)
-- [SumUp’s valuation falls as low as $4.1B, as Groupon and others sell off their stakes](https://techcrunch.com/2023/10/10/sumup-groupon-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
