@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prime Day telescope deal: Save $110 on the Celestron AstroMaster 130EQ telescope](https://www.space.com/news/prime-day-telescope-deal-save-dollar110-on-the-celestron-astromaster-130eq-telescope)
-- [VidCon is still kickin’](https://techcrunch.com/2023/10/11/vidcon-2024-dates-anaheim/)
-- [Patrick Stewart remembers storming off the &#39;Star Trek: TNG&#39; set in new memoir, &#39;Making It So&#39;](https://www.space.com/patrick-stewart-making-it-so-memoir-anecdote)
-- [Final day of Prime Day Lego deals: We recommend saving 20% on the Lego X-Wing Fighter today](https://www.space.com/lego-star-wars-x-wing-amazon-prime-day-lego-deal-october-2023)
-- [Third-party Reddit app Narwhal hopes to survive Reddit’s app purge with a subscription plan](https://techcrunch.com/2023/10/11/third-party-reddit-app-narwhal-hopes-to-survive-reddits-app-purge-with-a-subscription-plan/)
+- [Google’s Pixel 8 Pro camera is the new mobile photography champ](https://techcrunch.com/2023/10/11/google-pixel-8-pro-camera-review/)
+- [Google Pixel 8 Pro: The camera’s still the thing](https://techcrunch.com/2023/10/11/google-pixel-8-pro-the-cameras-still-the-thing/)
+- [Google’s Pixel 8 delivers solid performance and design upgrades, plus a focus on the future](https://techcrunch.com/2023/10/11/google-pixel-8-review/)
+- [Tesla now sells $8,000 vinyl wraps, hinting at clever Cybertruck solution](https://techcrunch.com/2023/10/11/tesla-now-sells-8000-vinyl-wraps-hinting-at-a-clever-cybertruck-solution/)
+- [Instagram head says Threads is “not going to amplify news on the platform”](https://techcrunch.com/2023/10/11/instagram-head-says-threads-is-not-going-to-amplify-news-on-the-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
