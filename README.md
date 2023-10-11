@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Medium is opting out of AI](https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/)
-- [Peer-to-peer fashion rental marketplace Pickle picks up $8 million](https://techcrunch.com/2023/10/11/peer-to-peer-fashion-rental-marketplace-pickle-picks-up-8-million/)
-- [Unidentified anomalous phenomena: Hot spots and the quest for data](https://www.space.com/unidentified-anomalous-phenomena-hot-spots-quest-data)
-- [Ask Sophie: Can a bootstrapping solo founder get an O-1A?](https://techcrunch.com/2023/10/11/ask-sophie-can-a-bootstrapping-solo-founder-get-an-o-1a/)
-- [Backed by A16z, Relay races to market with Zapier in its crosshairs](https://techcrunch.com/2023/10/11/relay-a16z-zapier-google/)
+- [Save a HUGE 51% on this Holy Stone drone deal for Prime Day](https://www.space.com/prime-day-drone-deals-holy-stone-hs720g-51-percent-off)
+- [New space junk project aims to detect and monitor &#39;untrackable&#39; objects](https://www.space.com/space-junk-monitor-untrackable-objects)
+- [Data transformation startup Prophecy lands $35M investment](https://techcrunch.com/2023/10/11/data-transformation-startup-prophecy-lands-35m-investment/)
+- [Construction sites feel emptier, but is bleeding-edge tech the solution?](https://techcrunch.com/2023/10/11/construction-tech-labor-shortage/)
+- [AMD acquires Nod.ai to bolsters its AI software ecosystem](https://techcrunch.com/2023/10/11/amd-acquires-nod-ai-to-bolsters-its-ai-software-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
