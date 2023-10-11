@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SBF started a $2 billion venture fund using Alameda loans](https://techcrunch.com/2023/10/11/sbf-started-a-2-billion-venture-fund-using-alameda-loans/)
-- [Mastercard CFO says India’s UPI ‘incredibly painful experience’ for ecosystem participants](https://techcrunch.com/2023/10/11/mastercard-india-upi-economic-viability/)
-- [AI revolutionizing MRI scans — A Munich startup banked $32M to scan eggs, and says humans are next](https://techcrunch.com/2023/10/11/ai-revolutionizing-mri-scans-a-munich-startup-banked-32m-to-scan-eggs-and-says-humans-are-next/)
-- [Recs is a social ‘wallet’ for stashing and sharing your favorite places](https://techcrunch.com/2023/10/10/recs-is-a-social-wallet-for-stashing-and-sharing-your-favorite-places/)
-- [WM Motor’s bankruptcy highlights challenges faced by EV startups in China](https://techcrunch.com/2023/10/10/wm-motors-bankruptcy-highlights-challenges-faced-by-ev-startups-in-china/)
+- [NASA revealing OSIRIS-REx asteroid sample today: Watch it live](https://www.space.com/nasa-osiris-rex-asteroid-sample-reveal-webcast)
+- [Klarna launches a suite of new features, including an AI-powered image-search tool](https://techcrunch.com/2023/10/11/klarna-launches-a-suite-of-new-features-including-an-ai-powered-image-search-tool/)
+- [NASA&#39;s Psyche metal asteroid mission will have a big impact on astronomy. Here&#39;s how](https://www.space.com/psyche-science-objectives-could-change-astronomy)
+- [Anti-Prime Day — Walmart is selling this amazing beginner telescope from Celestron for just $98!](https://www.space.com/forget-prime-day-walmart-celestron-telescope-deal-2023)
+- [UK regulator launches antitrust investigation into $19B Vodafone/Three mobile merger](https://techcrunch.com/2023/10/11/uk-regulator-launches-antitrust-investigation-into-19b-vodafone-three-mobile-merger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
