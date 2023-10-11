@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India to launch test flight on Oct. 21 for future Gaganyaan astronaut mission](https://www.space.com/india-gaganyaan-astronaut-mission-test-flight-october-21)
-- [Phasio helps local manufacturers manage their customer relationships](https://techcrunch.com/2023/10/11/phasio/)
-- [SEC is investigating MOVEit mass-hack, says Progress Software](https://techcrunch.com/2023/10/11/sec-is-investigating-moveit-mass-hack-says-progress-software/)
-- [Fearing AI, fanfiction writers lock their accounts](https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/)
-- [WordPress.com blogs can now be followed on Mastodon and other federated platforms](https://techcrunch.com/2023/10/11/wordpress-com-blogs-can-now-be-followed-on-mastodon-and-other-federated-platforms/)
+- [Yepic fail: This startup promised not to make deepfakes without consent, but did anyway](https://techcrunch.com/2023/10/11/yepic-ai-deepfakes-without-consent/)
+- [Indian startups were not spared in the global venture slowdown of Q3](https://techcrunch.com/2023/10/11/india-declining-vc-funding/)
+- [Anysphere raises $8M from OpenAI to build an AI-powered IDE](https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/)
+- [Google’s Pixel Watch 2 offers solid upgrades](https://techcrunch.com/2023/10/11/googles-pixel-watch-2-offers-solid-upgrades/)
+- [NASA calls off spacewalk due to leak on International Space Station](https://www.space.com/international-space-station-us-spacewalk-delayed-nauka-leak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
