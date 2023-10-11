@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Alameda CEO Caroline Ellison explains how FTX hid losses, sandbagged lenders](https://techcrunch.com/2023/10/11/caroline-ellison-ftx-hid-losses/)
+- [Google turns up the heat on AWS, claims Cloud Spanner is half the cost of DynamoDB](https://techcrunch.com/2023/10/11/google-turns-up-the-heat-on-aws-claims-cloud-spanner-is-half-the-cost-of-dynamodb/)
+- [Character.AI introduces group chats where people and multiple AIs can talk to each other](https://techcrunch.com/2023/10/11/character-ai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other/)
 - [Explore a mysterious, crinkly Mars valley in this flyover video](https://www.space.com/mars-express-red-planet-valley-video)
 - [More money won’t fix your failing startup — here’s how to get investors to back a pivot](https://techcrunch.com/2023/10/11/how-to-pivot/)
-- [Investors suggest funds prepare for the fallout of the Fearless Fund lawsuit, not worry about it](https://techcrunch.com/2023/10/11/fearless-fund-lawsuit-survey/)
-- [Yepic fail: This startup promised not to make deepfakes without consent, but did anyway](https://techcrunch.com/2023/10/11/yepic-ai-deepfakes-without-consent/)
-- [Indian startups were not spared in the global venture slowdown of Q3](https://techcrunch.com/2023/10/11/india-declining-vc-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
