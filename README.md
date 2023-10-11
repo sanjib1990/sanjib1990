@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Formant is managing data so robotics companies don’t have to](https://techcrunch.com/2023/10/11/formant-is-managing-data-so-robotics-companies-dont-have-to/)
-- [SpaceX rolls out Falcon Heavy rocket for Psyche asteroid mission launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-falcon-heavy-launch-pad-psyche-asteroid-mission)
-- [Yooga wants its restaurant operating system to be ‘Toast of Latin America’](https://techcrunch.com/2023/10/11/yooga-restaurant-operating-toast-latin-america/)
-- [My favorite compact power station is discounted by 30% today during Prime Day](https://www.space.com/ugreen-powerroam-1200-power-station-amazon-prime-day-deal)
-- [One of the best budget telescopes is now $63 off for Prime Day](https://www.space.com/amazon-prime-big-deal-save-63-dollars-celestron-astromaster-70az)
+- [Box announces Hubs, a custom portal to share specialized content](https://techcrunch.com/2023/10/11/box-announces-hubs-a-custom-portal-to-share-specialized-content/)
+- [Prime Day drone deal: Save $110 on the Holy Stone HS700E](https://www.space.com/holy-stone-hs700e-amazon-prime-day-drone-deal-october-2023)
+- [Adobe’s project fast fill is generative fill for video](https://techcrunch.com/2023/10/11/adobes-project-fast-fill-is-generative-fill-for-video/)
+- [Box unveils unique AI pricing plan to account for high cost of running LLMs](https://techcrunch.com/2023/10/11/box-unveils-unique-ai-pricing-plan-to-account-for-high-cost-of-running-llms/)
+- [KIT Plugins, an audio software startup that help producers and musicians enhance their sound, raises $1 million](https://techcrunch.com/2023/10/11/kit-plugins-audio-software-startup-help-producers-musicians-enhance-their-sound-raises-1-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
