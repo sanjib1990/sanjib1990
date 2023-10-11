@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prime exclusive deal: $120 off the Celestron NexStar 130SLT](https://www.space.com/amazon-prime-big-deal-celestron-nexstar-130slt-save-120-dollars)
+- [Curious about skywatching? Celestron&#39;s Travel Scope 70 is now just $72.07](https://www.space.com/celestron-travel-scope-70-amazon-prime-day-2023-telescope-deal)
 - [NASA revealing OSIRIS-REx asteroid sample today: Watch it live](https://www.space.com/nasa-osiris-rex-asteroid-sample-reveal-webcast)
 - [Klarna launches a suite of new features, including an AI-powered image-search tool](https://techcrunch.com/2023/10/11/klarna-launches-a-suite-of-new-features-including-an-ai-powered-image-search-tool/)
 - [NASA&#39;s Psyche metal asteroid mission will have a big impact on astronomy. Here&#39;s how](https://www.space.com/psyche-science-objectives-could-change-astronomy)
-- [Anti-Prime Day — Walmart is selling this amazing beginner telescope from Celestron for just $98!](https://www.space.com/forget-prime-day-walmart-celestron-telescope-deal-2023)
-- [UK regulator launches antitrust investigation into $19B Vodafone/Three mobile merger](https://techcrunch.com/2023/10/11/uk-regulator-launches-antitrust-investigation-into-19b-vodafone-three-mobile-merger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
