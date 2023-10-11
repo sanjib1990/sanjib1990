@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Recs is a social ‘wallet’ for stashing and sharing your favorite places](https://techcrunch.com/2023/10/10/recs-is-a-social-wallet-for-stashing-and-sharing-your-favorite-places/)
 - [WM Motor’s bankruptcy highlights challenges faced by EV startups in China](https://techcrunch.com/2023/10/10/wm-motors-bankruptcy-highlights-challenges-faced-by-ev-startups-in-china/)
 - [Evolution Space to build solid rocket motor testing center at NASA Stennis](https://techcrunch.com/2023/10/10/evolution-space-to-build-solid-rocket-motor-testing-center-at-nasa-stennis/)
 - [India’s InsuranceDekho raises another $60 million](https://techcrunch.com/2023/10/10/insurancedekho/)
 - [Japanese VC Beyond Next Ventures raises $67.7M in a first close of its deep tech fund](https://techcrunch.com/2023/10/10/japanese-vc-beyond-next-ventures-raises-67-7m-in-a-first-close-of-its-deep-tech-fund/)
-- [EU fires urgent warning at Elon Musk’s X over illegal content and disinformation following Hamas attacks](https://techcrunch.com/2023/10/10/eu-dsa-warning-elon-musk-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
