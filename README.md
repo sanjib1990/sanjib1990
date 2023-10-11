@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prime exclusive deal: $120 off the Celestron NexStar 130SLT](https://www.space.com/amazon-prime-big-deal-celestron-nexstar-130slt-save-120-dollars)
-- [Curious about skywatching? Celestron&#39;s Travel Scope 70 is now just $72.07](https://www.space.com/celestron-travel-scope-70-amazon-prime-day-2023-telescope-deal)
-- [NASA revealing OSIRIS-REx asteroid sample today: Watch it live](https://www.space.com/nasa-osiris-rex-asteroid-sample-reveal-webcast)
-- [Klarna launches a suite of new features, including an AI-powered image-search tool](https://techcrunch.com/2023/10/11/klarna-launches-a-suite-of-new-features-including-an-ai-powered-image-search-tool/)
-- [NASA&#39;s Psyche metal asteroid mission will have a big impact on astronomy. Here&#39;s how](https://www.space.com/psyche-science-objectives-could-change-astronomy)
+- [Formant is managing data so robotics companies don’t have to](https://techcrunch.com/2023/10/11/formant-is-managing-data-so-robotics-companies-dont-have-to/)
+- [SpaceX rolls out Falcon Heavy rocket for Psyche asteroid mission launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-falcon-heavy-launch-pad-psyche-asteroid-mission)
+- [Yooga wants its restaurant operating system to be ‘Toast of Latin America’](https://techcrunch.com/2023/10/11/yooga-restaurant-operating-toast-latin-america/)
+- [My favorite compact power station is discounted by 30% today during Prime Day](https://www.space.com/ugreen-powerroam-1200-power-station-amazon-prime-day-deal)
+- [One of the best budget telescopes is now $63 off for Prime Day](https://www.space.com/amazon-prime-big-deal-save-63-dollars-celestron-astromaster-70az)
 <!-- BLOG-POST-LIST:END -->
 
 ---
