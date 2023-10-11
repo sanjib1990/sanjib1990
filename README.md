@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explore a mysterious, crinkly Mars valley in this flyover video](https://www.space.com/mars-express-red-planet-valley-video)
+- [More money won’t fix your failing startup — here’s how to get investors to back a pivot](https://techcrunch.com/2023/10/11/how-to-pivot/)
+- [Investors suggest funds prepare for the fallout of the Fearless Fund lawsuit, not worry about it](https://techcrunch.com/2023/10/11/fearless-fund-lawsuit-survey/)
 - [Yepic fail: This startup promised not to make deepfakes without consent, but did anyway](https://techcrunch.com/2023/10/11/yepic-ai-deepfakes-without-consent/)
 - [Indian startups were not spared in the global venture slowdown of Q3](https://techcrunch.com/2023/10/11/india-declining-vc-funding/)
-- [Anysphere raises $8M from OpenAI to build an AI-powered IDE](https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/)
-- [Google’s Pixel Watch 2 offers solid upgrades](https://techcrunch.com/2023/10/11/googles-pixel-watch-2-offers-solid-upgrades/)
-- [NASA calls off spacewalk due to leak on International Space Station](https://www.space.com/international-space-station-us-spacewalk-delayed-nauka-leak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
