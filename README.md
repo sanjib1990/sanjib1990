@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save a HUGE 51% on this Holy Stone drone deal for Prime Day](https://www.space.com/prime-day-drone-deals-holy-stone-hs720g-51-percent-off)
-- [New space junk project aims to detect and monitor &#39;untrackable&#39; objects](https://www.space.com/space-junk-monitor-untrackable-objects)
-- [Data transformation startup Prophecy lands $35M investment](https://techcrunch.com/2023/10/11/data-transformation-startup-prophecy-lands-35m-investment/)
-- [Construction sites feel emptier, but is bleeding-edge tech the solution?](https://techcrunch.com/2023/10/11/construction-tech-labor-shortage/)
-- [AMD acquires Nod.ai to bolsters its AI software ecosystem](https://techcrunch.com/2023/10/11/amd-acquires-nod-ai-to-bolsters-its-ai-software-ecosystem/)
+- [Prime Day telescope deal: Save $110 on the Celestron AstroMaster 130EQ telescope](https://www.space.com/news/prime-day-telescope-deal-save-dollar110-on-the-celestron-astromaster-130eq-telescope)
+- [VidCon is still kickin’](https://techcrunch.com/2023/10/11/vidcon-2024-dates-anaheim/)
+- [Patrick Stewart remembers storming off the &#39;Star Trek: TNG&#39; set in new memoir, &#39;Making It So&#39;](https://www.space.com/patrick-stewart-making-it-so-memoir-anecdote)
+- [Final day of Prime Day Lego deals: We recommend saving 20% on the Lego X-Wing Fighter today](https://www.space.com/lego-star-wars-x-wing-amazon-prime-day-lego-deal-october-2023)
+- [Third-party Reddit app Narwhal hopes to survive Reddit’s app purge with a subscription plan](https://techcrunch.com/2023/10/11/third-party-reddit-app-narwhal-hopes-to-survive-reddits-app-purge-with-a-subscription-plan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
