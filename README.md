@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bon Vivant toasts taking $15.9M to brew up versatile animal-free dairy proteins](https://techcrunch.com/2023/10/11/bon-vivant-seed/)
 - [10 Minute School aims to democratize education for Bangladeshi students](https://techcrunch.com/2023/10/11/10-minute-school/)
 - [Bad weather delays SpaceX Falcon Heavy launch of NASA&#39;s Psyche asteroid mission to Oct. 13](https://www.space.com/nasa-psyche-spacex-falcon-heavy-launch-delay-weather)
 - [Twitch adds anti-harassment features to stop banned users from watching streams](https://techcrunch.com/2023/10/11/twitch-adds-anti-harassment-features-to-stop-banned-users-from-watching-streams/)
 - [Former Alameda CEO Caroline Ellison explains how FTX hid losses, sandbagged lenders](https://techcrunch.com/2023/10/11/caroline-ellison-ftx-hid-losses/)
-- [Google turns up the heat on AWS, claims Cloud Spanner is half the cost of DynamoDB](https://techcrunch.com/2023/10/11/google-turns-up-the-heat-on-aws-claims-cloud-spanner-is-half-the-cost-of-dynamodb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
