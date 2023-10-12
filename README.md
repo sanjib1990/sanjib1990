@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford increases wages at planned EV battery factories amid UAW strike](https://techcrunch.com/2023/10/12/ford-increases-wages-at-planned-ev-battery-factories-amid-uaw-strike/)
+- [Ford’s joint EV battery venture increases wages at planned factories amid UAW strike](https://techcrunch.com/2023/10/12/ford-increases-wages-at-planned-ev-battery-factories-amid-uaw-strike/)
 - [Boeing&#39;s 1st Starliner flight with astronauts delayed to April 2024](https://www.space.com/boeing-starliner-spacecraft-delay-april-2024)
 - [1st evidence of giant exoplanet collision afterglow explains unusual eclipse](https://www.space.com/astronomers-1st-observations-colliding-giant-exoplanets)
 - [SpaceX Falcon Heavy rocket poised to launch Psyche metal asteroid mission &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-rocket-psyche-asteroid-prelaunch-photos)
