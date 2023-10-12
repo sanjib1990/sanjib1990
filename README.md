@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EVPassport scored $200M to build out its app-less charging infrastructure](https://techcrunch.com/2023/10/12/evpassport-scored-200m-to-build-out-its-app-less-charging-infrastructure/)
-- [CRED in talks to acquire mutual fund startup Kuvera](https://techcrunch.com/2023/10/12/cred-kuvera-mutual-fund/)
-- [What time is the annular solar eclipse on Oct. 14?](https://www.space.com/what-time-is-annular-solar-eclipse-2023)
-- [Metal asteroid Psyche has a ridiculously high &#39;value.&#39; But what does that even mean?](https://www.space.com/psyche-metal-asteroid-composition)
-- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Ergo’s Shopify app gives online retailers joy of bartering without the hassle](https://techcrunch.com/2023/10/12/ergo-shopify-app-e-commerce-pricing/)
+- [Didi’s autonomous vehicle arm raises $149M from state investors](https://techcrunch.com/2023/10/12/didis-autonomous-vehicle-arm-raises-149m-from-gac-china/)
+- [Mysterious radiation bursts could be coming from &#39;starquakes&#39; on neutron stars](https://www.space.com/starquakes-neutron-stars-radiation-bursts)
+- [EyeEm, the photo marketplace, changes hands as Freepik picks it up out of bankruptcy](https://techcrunch.com/2023/10/12/eyeem-the-photo-marketplace-changes-hands-as-freepik-picks-it-up-out-of-bankruptcy/)
+- [India’s CtrlS says it will invest $2B to expand datacenter business](https://techcrunch.com/2023/10/12/ctrls-investment-data-centers-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
