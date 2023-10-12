@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Oblivious Transfer - Computerphile](https://www.youtube.com/watch?v=wE5cl8J27Is)
 - [Complete DevSecOps Bootcamp - Most Extensive Training OUT NOW 🚀](https://www.youtube.com/watch?v=cdb6ernButc)
 - [Budget Self-Driving Car - Computerphile](https://www.youtube.com/watch?v=5G56i_he79M)
 - [36. Neocortex, part 2](https://www.youtube.com/watch?v=xZ72LPLHVSY)
 - [34. Corpus striatum, part 2](https://www.youtube.com/watch?v=TeNrTKjJJ5g)
-- [28. Hypothalamus and limbic system, part 2](https://www.youtube.com/watch?v=VQlZOIAQZSc)
 <!-- YOUTUBE:END -->
 
 ---
