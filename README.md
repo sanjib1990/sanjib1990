@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford increases wages at planned EV battery factories amid UAW strike](https://techcrunch.com/2023/10/12/ford-increases-wages-at-planned-ev-battery-factories-amid-uaw-strike/)
+- [Boeing&#39;s 1st Starliner flight with astronauts delayed to April 2024](https://www.space.com/boeing-starliner-spacecraft-delay-april-2024)
+- [1st evidence of giant exoplanet collision afterglow explains unusual eclipse](https://www.space.com/astronomers-1st-observations-colliding-giant-exoplanets)
 - [SpaceX Falcon Heavy rocket poised to launch Psyche metal asteroid mission &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-rocket-psyche-asteroid-prelaunch-photos)
 - [FTC sues bankrupt crypto company Voyager’s CEO over false FDIC insurance claims](https://techcrunch.com/2023/10/12/ftc-sues-bankrupt-crypto-company-voyagers-ceo-over-false-fdic-insurance-claims/)
-- [South Korea set to finalize cancellation of launch contracts with Russia](https://www.space.com/south-korea-cancel-launch-contracts-russia)
-- [FTX trial stirs up more chaos as ex Alameda CEO Caroline Ellison testifies on faulty balance sheets, bribes and more](https://techcrunch.com/2023/10/12/ftx-trial-stirs-up-more-chaos-as-ex-alameda-ceo-caroline-ellison-testifies-on-faulty-balance-sheets-bribes-and-more/)
-- [Cruise opens robotaxi service in Houston](https://techcrunch.com/2023/10/12/cruise-opens-robotaxi-service-in-houston/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
