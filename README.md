@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stock trading API developer Alpaca raises $15M convertible note from SBI Group](https://techcrunch.com/2023/10/12/stock-trading-api-developer-alpaca-raises-15m-convertible-note-from-sbi-group/)
-- [Hook wants to help you create a legal remix of your favorite track for TikTok](https://techcrunch.com/2023/10/12/hook-wants-to-help-you-create-a-legal-remix-of-your-favorite-track-for-tiktok/)
-- [What are different types of clouds and how do they form?](https://www.space.com/types-of-clouds)
-- [Bedrock Energy thinks the solution to decarbonizing skyscrapers is 1,500 feet underground](https://techcrunch.com/2023/10/12/bedrock-energy-seed-round/)
-- [Fave, the app for superfans, raises $2M as it continues to reward users for their obsessions](https://techcrunch.com/2023/10/12/fave-the-app-for-superfans-raises-2-million/)
+- [Cloud gaming firm Shadow says hackers stole customers’ personal data](https://techcrunch.com/2023/10/12/shadow-hacked-customers-personal-data-stolen/)
+- [Follow the annular solar eclipse this week with SkySafari](https://www.space.com/annular-solar-eclipse-sky-safari-app-update-2023)
+- [Google announces updates to privacy controls related to browsing history, Password Manager and more](https://techcrunch.com/2023/10/12/google-updates-privacy-controls-browsing-history-password-manager/)
+- [Block acquires music financial services startup Hifi](https://techcrunch.com/2023/10/12/block-acquires-music-financial-services-startup-hifi/)
+- [Atlassian to acquire former unicorn Loom for $975M](https://techcrunch.com/2023/10/12/atlassian-to-acquire-former-unicorn-loom-for-975m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
