@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud gaming firm Shadow says hackers stole customers’ personal data](https://techcrunch.com/2023/10/12/shadow-hacked-customers-personal-data-stolen/)
-- [Follow the annular solar eclipse this week with SkySafari](https://www.space.com/annular-solar-eclipse-sky-safari-app-update-2023)
-- [Google announces updates to privacy controls related to browsing history, Password Manager and more](https://techcrunch.com/2023/10/12/google-updates-privacy-controls-browsing-history-password-manager/)
-- [Block acquires music financial services startup Hifi](https://techcrunch.com/2023/10/12/block-acquires-music-financial-services-startup-hifi/)
-- [Atlassian to acquire former unicorn Loom for $975M](https://techcrunch.com/2023/10/12/atlassian-to-acquire-former-unicorn-loom-for-975m/)
+- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Google’s AI-powered search experience can now generate images, write drafts](https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/)
+- [Rocket booster parts arrive in LA to stand up space shuttle Endeavour exhibit](https://www.space.com/california-science-center-endeavour-exhibit-solid-rocket-motors-arrival)
+- [Medium expects to be profitable in 2024 as it climbs towards 1M subscribers](https://techcrunch.com/2023/10/12/medium-profitability-2024-interview/)
+- [Lanch, which creates food delivery brands for influencers, gobbles up $6.9M](https://techcrunch.com/2023/10/12/lanch-berlin-creators-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
