@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bad weather delays SpaceX Falcon Heavy launch of NASA&#39;s Psyche asteroid mission to Oct. 13](https://www.space.com/nasa-psyche-spacex-falcon-heavy-launch-delay-weather)
 - [Twitch adds anti-harassment features to stop banned users from watching streams](https://techcrunch.com/2023/10/11/twitch-adds-anti-harassment-features-to-stop-banned-users-from-watching-streams/)
 - [Former Alameda CEO Caroline Ellison explains how FTX hid losses, sandbagged lenders](https://techcrunch.com/2023/10/11/caroline-ellison-ftx-hid-losses/)
 - [Google turns up the heat on AWS, claims Cloud Spanner is half the cost of DynamoDB](https://techcrunch.com/2023/10/11/google-turns-up-the-heat-on-aws-claims-cloud-spanner-is-half-the-cost-of-dynamodb/)
 - [Character.AI introduces group chats where people and multiple AIs can talk to each other](https://techcrunch.com/2023/10/11/character-ai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other/)
-- [Explore a mysterious, crinkly Mars valley in this flyover video](https://www.space.com/mars-express-red-planet-valley-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
