@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After delays, X updates Community Notes fact-checks to improve speed and distribution](https://techcrunch.com/2023/10/12/after-delays-x-updates-community-notes-fact-checks-to-improve-speed-and-distribution/)
+- [Creators raising venture capital: unsettling or genius?](https://techcrunch.com/2023/10/12/creators-raising-venture-capital-unsettling-or-genius/)
+- [Mysterious magnetism in Apollo moon rocks is natural in origin, new study finds](https://www.space.com/moon-rock-magnetism-natural-origins-study)
+- [How to fundraise when your deep tech startup sounds like sci-fi](https://techcrunch.com/2023/10/12/how-to-fundraise-when-your-deep-tech-startup-sounds-like-sci-fi/)
 - [India&#39;s Aditya-L1 solar observatory on course for its sunny parking spot 1 million miles from Earth](https://www.space.com/india-aditya-l1-sun-solar-observatory-trajectory-correction)
-- [Bluesky gets its first third-party mobile app with Graysky, launching later this month](https://techcrunch.com/2023/10/12/bluesky-gets-its-first-third-party-mobile-app-with-graysky-launching-later-this-month/)
-- [Israeli biotech startup mana.bio launches AI-fueled programmable drug therapy](https://techcrunch.com/2023/10/12/israeli-biotech-startup-mana-bio-launches-ai-fueled-programmable-drug-therapy/)
-- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Google’s AI-powered search experience can now generate images, write drafts](https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
