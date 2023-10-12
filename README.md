@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stock trading API developer Alpaca raises $15M convertible note from SBI Group](https://techcrunch.com/2023/10/12/stock-trading-api-developer-alpaca-raises-15m-convertible-note-from-sbi-group/)
+- [Hook wants to help you create a legal remix of your favorite track for TikTok](https://techcrunch.com/2023/10/12/hook-wants-to-help-you-create-a-legal-remix-of-your-favorite-track-for-tiktok/)
+- [What are different types of clouds and how do they form?](https://www.space.com/types-of-clouds)
+- [Bedrock Energy thinks the solution to decarbonizing skyscrapers is 1,500 feet underground](https://techcrunch.com/2023/10/12/bedrock-energy-seed-round/)
 - [Fave, the app for superfans, raises $2M as it continues to reward users for their obsessions](https://techcrunch.com/2023/10/12/fave-the-app-for-superfans-raises-2-million/)
-- [Upfront’s Kobie Fuller is reimagining the blog post with the interactivity of generative AI](https://techcrunch.com/2023/10/12/upfronts-kobie-fuller-is-reimagining-the-blog-post-with-the-interactivity-of-generative-ai/)
-- [Mojo Vision’s Series A hits $43.5M, following pivot to micro-LED displays](https://techcrunch.com/2023/10/12/mojo-visions-series-a-hits-43-5m-following-pivot-to-micro-led-displays/)
-- [Account Labs raises $7.7M as FTX’s demise leads to crypto self-custody growth](https://techcrunch.com/2023/10/12/account-labs-raises-7-7m-amid-crypto-self-custodial-wallet-boom/)
-- [Deasie wants to rank and filter data to make generative AI more reliable](https://techcrunch.com/2023/10/12/deasie-wants-to-rank-and-filter-data-to-make-generative-ai-more-reliable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
