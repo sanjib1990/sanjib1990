@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon Heavy rocket poised to launch Psyche metal asteroid mission &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-rocket-psyche-asteroid-prelaunch-photos)
+- [FTC sues bankrupt crypto company Voyager’s CEO over false FDIC insurance claims](https://techcrunch.com/2023/10/12/ftc-sues-bankrupt-crypto-company-voyagers-ceo-over-false-fdic-insurance-claims/)
 - [South Korea set to finalize cancellation of launch contracts with Russia](https://www.space.com/south-korea-cancel-launch-contracts-russia)
 - [FTX trial stirs up more chaos as ex Alameda CEO Caroline Ellison testifies on faulty balance sheets, bribes and more](https://techcrunch.com/2023/10/12/ftx-trial-stirs-up-more-chaos-as-ex-alameda-ceo-caroline-ellison-testifies-on-faulty-balance-sheets-bribes-and-more/)
 - [Cruise opens robotaxi service in Houston](https://techcrunch.com/2023/10/12/cruise-opens-robotaxi-service-in-houston/)
-- [A leak on the ISS canceled his spacewalk. But an astronaut says that was the right call](https://www.space.com/international-space-station-leak-canceled-spacewalk-astronaut-comment)
-- [Threads is rolling out an edit button, and it’s not locked behind a paywall](https://techcrunch.com/2023/10/12/threads-is-rolling-out-an-edit-button-and-you-dont-have-to-pay-for-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
