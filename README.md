@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is the annular solar eclipse on Oct. 14?](https://www.space.com/what-time-is-annular-solar-eclipse-2023)
+- [Metal asteroid Psyche has a ridiculously high &#39;value.&#39; But what does that even mean?](https://www.space.com/psyche-metal-asteroid-composition)
+- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Linda Yaccarino responds to EU: 700 Community Notes, 5K+ images shared on Israel-Hamas war, “thousands” of pieces of content removed](https://techcrunch.com/2023/10/12/x-yaccarino-breton-israel-hamas-warning/)
-- [Bon Vivant toasts taking $15.9M to brew up versatile animal-free dairy proteins](https://techcrunch.com/2023/10/11/bon-vivant-seed/)
-- [10 Minute School aims to democratize education for Bangladeshi students](https://techcrunch.com/2023/10/11/10-minute-school/)
-- [Bad weather delays SpaceX Falcon Heavy launch of NASA&#39;s Psyche asteroid mission to Oct. 13](https://www.space.com/nasa-psyche-spacex-falcon-heavy-launch-delay-weather)
-- [Twitch adds anti-harassment features to stop banned users from watching streams](https://techcrunch.com/2023/10/11/twitch-adds-anti-harassment-features-to-stop-banned-users-from-watching-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
