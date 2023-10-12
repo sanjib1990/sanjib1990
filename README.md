@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ergo’s Shopify app gives online retailers joy of bartering without the hassle](https://techcrunch.com/2023/10/12/ergo-shopify-app-e-commerce-pricing/)
-- [Didi’s autonomous vehicle arm raises $149M from state investors](https://techcrunch.com/2023/10/12/didis-autonomous-vehicle-arm-raises-149m-from-gac-china/)
-- [Mysterious radiation bursts could be coming from &#39;starquakes&#39; on neutron stars](https://www.space.com/starquakes-neutron-stars-radiation-bursts)
-- [EyeEm, the photo marketplace, changes hands as Freepik picks it up out of bankruptcy](https://techcrunch.com/2023/10/12/eyeem-the-photo-marketplace-changes-hands-as-freepik-picks-it-up-out-of-bankruptcy/)
-- [India’s CtrlS says it will invest $2B to expand datacenter business](https://techcrunch.com/2023/10/12/ctrls-investment-data-centers-india/)
+- [Fave, the app for superfans, raises $2M as it continues to reward users for their obsessions](https://techcrunch.com/2023/10/12/fave-the-app-for-superfans-raises-2-million/)
+- [Upfront’s Kobie Fuller is reimagining the blog post with the interactivity of generative AI](https://techcrunch.com/2023/10/12/upfronts-kobie-fuller-is-reimagining-the-blog-post-with-the-interactivity-of-generative-ai/)
+- [Mojo Vision’s Series A hits $43.5M, following pivot to micro-LED displays](https://techcrunch.com/2023/10/12/mojo-visions-series-a-hits-43-5m-following-pivot-to-micro-led-displays/)
+- [Account Labs raises $7.7M as FTX’s demise leads to crypto self-custody growth](https://techcrunch.com/2023/10/12/account-labs-raises-7-7m-amid-crypto-self-custodial-wallet-boom/)
+- [Deasie wants to rank and filter data to make generative AI more reliable](https://techcrunch.com/2023/10/12/deasie-wants-to-rank-and-filter-data-to-make-generative-ai-more-reliable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
