@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you pronounce IaaS?](https://techcrunch.com/2023/10/13/how-do-you-pronounce-iaas/)
-- [Hubble Telescope captures star-packed galaxy spinning like a top &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-image-spiral-galaxy-ngc685)
-- [Instagram’s ‘Sharing to Reels’ feature opens up to all app developers](https://techcrunch.com/2023/10/13/instagrams-sharing-to-reels-feature-opens-up-to-all-app-developers/)
-- [Food tech roundup: Mammoth meatballs, tiger steaks and zebra chops, oh my!](https://techcrunch.com/2023/10/13/food-tech-roundup-mammoth-meatballs-tiger-steaks-zebra-chops/)
-- [Why Microsoft had to relinquish Activision’s cloud-gaming rights outside Europe](https://techcrunch.com/2023/10/13/why-microsoft-had-to-relinquish-activisions-cloud-gaming-rights-outside-europe/)
+- [&#39;Ring of fire&#39; solar eclipse on Oct. 14: Will the weather cooperate?](https://www.space.com/ring-of-fire-solar-eclipse-october-2023-weather)
+- [TikTok scores sizable Disney deal including a content hub and publisher partnership](https://techcrunch.com/2023/10/13/tiktok-scores-sizable-disney-deal-including-a-content-hub-and-publisher-partnership/)
+- [Shadow silent on data breach as hacked data appears genuine](https://techcrunch.com/2023/10/13/shadow-data-breach-hacked/)
+- [Armed with $40M in fresh capital, fintech Stash says it’s moving toward an IPO](https://techcrunch.com/2023/10/13/armed-with-40m-in-new-financing-fintech-stash-is-positioning-itself-for-the-public-markets/)
+- [SpaceX Falcon Heavy rocket launches NASA&#39;s Psyche probe to bizarre metal asteroid &lpar;video&rpar;](https://www.space.com/nasa-psyche-spacex-falcon-heavy-launch-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
