@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers want you to watch the Oct. 14 &#39;ring of fire&#39; eclipse with a disco ball. No, seriously.](https://www.space.com/watch-ring-of-fire-eclipse-with-disco-ball)
-- [Meta says it’s prioritizing livestreaming checks during Israel-Hamas war](https://techcrunch.com/2023/10/13/meta-israel-hamas-war-response/)
-- [Here&#39;s the &lpar;moon&rpar; scoop: Mercury 7-flown clock, Apollo lunar shovel up for auction](https://www.space.com/mercury-clock-apollo-moon-scoop-auction)
-- [How precious metals were brought to Earth and preserved in a magma ocean](https://www.space.com/gold-jewelry-precious-metals-earth-mantle-magma-ocean)
-- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [How do you pronounce IaaS?](https://techcrunch.com/2023/10/13/how-do-you-pronounce-iaas/)
+- [Hubble Telescope captures star-packed galaxy spinning like a top &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-image-spiral-galaxy-ngc685)
+- [Instagram’s ‘Sharing to Reels’ feature opens up to all app developers](https://techcrunch.com/2023/10/13/instagrams-sharing-to-reels-feature-opens-up-to-all-app-developers/)
+- [Food tech roundup: Mammoth meatballs, tiger steaks and zebra chops, oh my!](https://techcrunch.com/2023/10/13/food-tech-roundup-mammoth-meatballs-tiger-steaks-zebra-chops/)
+- [Why Microsoft had to relinquish Activision’s cloud-gaming rights outside Europe](https://techcrunch.com/2023/10/13/why-microsoft-had-to-relinquish-activisions-cloud-gaming-rights-outside-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
