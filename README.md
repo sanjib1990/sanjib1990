@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tradeshift co-founder accused of sexual assault by company, allegations he denies](https://techcrunch.com/2023/10/13/tradeshift-co-founder-accused-of-sexual-assault-by-company-allegations-he-denies/)
+- [Devialet’s Gemini II are the most luxurious wireless earbuds you can get](https://techcrunch.com/2023/10/13/devialets-gemini-ii-are-the-most-luxurious-wireless-earbuds-you-can-get/)
 - [Microsoft’s $68.7B Activision acquisition clears final hurdle as UK approves restructured deal](https://techcrunch.com/2023/10/12/microsofts-68-7b-activision-acquisition-clears-final-hurdle-as-uk-approves-restructured-deal/)
 - [Indian state government fixes website bug that revealed Aadhaar numbers and fingerprints](https://techcrunch.com/2023/10/12/india-aadhaar-fingerprints-west-bengal/)
 - [After warning, the EU opens investigation into X over alleged disinformation](https://techcrunch.com/2023/10/12/eu-x-investigation/)
-- [Ford’s joint EV battery venture increases wages at planned factories amid UAW strike](https://techcrunch.com/2023/10/12/ford-increases-wages-at-planned-ev-battery-factories-amid-uaw-strike/)
-- [Boeing&#39;s 1st Starliner flight with astronauts delayed to April 2024](https://www.space.com/boeing-starliner-spacecraft-delay-april-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
