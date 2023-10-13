@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Ring of fire&#39; solar eclipse on Oct. 14: Will the weather cooperate?](https://www.space.com/ring-of-fire-solar-eclipse-october-2023-weather)
-- [TikTok scores sizable Disney deal including a content hub and publisher partnership](https://techcrunch.com/2023/10/13/tiktok-scores-sizable-disney-deal-including-a-content-hub-and-publisher-partnership/)
-- [Shadow silent on data breach as hacked data appears genuine](https://techcrunch.com/2023/10/13/shadow-data-breach-hacked/)
-- [Armed with $40M in fresh capital, fintech Stash says it’s moving toward an IPO](https://techcrunch.com/2023/10/13/armed-with-40m-in-new-financing-fintech-stash-is-positioning-itself-for-the-public-markets/)
-- [SpaceX Falcon Heavy rocket launches NASA&#39;s Psyche probe to bizarre metal asteroid &lpar;video&rpar;](https://www.space.com/nasa-psyche-spacex-falcon-heavy-launch-success)
+- [Telegram CEO says app will continue to host “war-related content” after coming under fire for Hamas videos](https://techcrunch.com/2023/10/13/telegram-ceo-says-app-will-continue-to-host-war-related-content-after-coming-under-fire-for-hamas-videos/)
+- [In the search for alien life, should we be looking for artificial intelligence?](https://www.space.com/should-search-for-alien-life-include-looking-for-artificial-intelligence)
+- [&#39;Loki&#39; season 2 episode 2 review: Time to flex the acting muscles](https://www.space.com/marvel-loki-season-2-episode-2-review)
+- [For the CHIPS Act to pay off, the US needs a historic investment in memory production](https://techcrunch.com/2023/10/13/for-the-chips-act-to-pay-off-the-u-s-needs-a-historic-investment-in-memory-production/)
+- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
