@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders, are events useful?](https://techcrunch.com/2023/10/13/founders-are-events-useful/)
+- [4th season of &#39;For All Mankind&#39; moves from Mars to the asteroids &lpar;trailer&rpar;](https://www.space.com/apple-tv-for-all-mankind-fourth-season-trailer)
 - [Week 2 of the Sam Bankman-Fried trial wraps up](https://techcrunch.com/2023/10/13/week-2-of-the-sam-bankman-fried-trial-wraps-up/)
 - [SpaceX’s Falcon Heavy launches NASA Psyche mission to metal asteroid](https://techcrunch.com/2023/10/13/spacexs-falcon-heavy-launches-nasa-psyche-mission-to-metal-asteroid/)
 - [Relive SpaceX&#39;s Falcon Heavy launch of Psyche asteroid mission with these amazing photos](https://www.space.com/spacex-falcon-heavy-psyche-asteroid-mission-launch-photos)
-- [Toyota’s EV strategy hinges on a partnership with a petrochemical company](https://techcrunch.com/2023/10/13/toyota-idemitsu-solid-state-electrolyte/)
-- [Consistent policy is key to unlocking the climate tech boom, but the UK’s U-turn isn’t helping](https://techcrunch.com/2023/10/13/consistent-policy-is-key-to-unlocking-the-climate-tech-boom-but-the-uks-u-turn-isnt-helping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
