@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [The 5 main stages of October&#39;s annular solar eclipse explained](https://www.space.com/annular-solar-eclipse-2023-main-stages-explained)
 - [Watch SpaceX Falcon Heavy rocket launch NASA&#39;s Psyche asteroid mission today](https://www.space.com/spacex-falcon-heavy-psyche-launch-webcast)
 - [Tradeshift co-founder accused of sexual assault by company, allegations he denies](https://techcrunch.com/2023/10/13/tradeshift-co-founder-accused-of-sexual-assault-by-company-allegations-he-denies/)
 - [Devialet’s Gemini II are the most luxurious wireless earbuds you can get](https://techcrunch.com/2023/10/13/devialets-gemini-ii-are-the-most-luxurious-wireless-earbuds-you-can-get/)
-- [Microsoft’s $68.7B Activision acquisition clears final hurdle as UK approves restructured deal](https://techcrunch.com/2023/10/12/microsofts-68-7b-activision-acquisition-clears-final-hurdle-as-uk-approves-restructured-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
