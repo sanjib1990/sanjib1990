@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 2 of the Sam Bankman-Fried trial wraps up](https://techcrunch.com/2023/10/13/week-2-of-the-sam-bankman-fried-trial-wraps-up/)
+- [SpaceX’s Falcon Heavy launches NASA Psyche mission to metal asteroid](https://techcrunch.com/2023/10/13/spacexs-falcon-heavy-launches-nasa-psyche-mission-to-metal-asteroid/)
+- [Relive SpaceX&#39;s Falcon Heavy launch of Psyche asteroid mission with these amazing photos](https://www.space.com/spacex-falcon-heavy-psyche-asteroid-mission-launch-photos)
+- [Toyota’s EV strategy hinges on a partnership with a petrochemical company](https://techcrunch.com/2023/10/13/toyota-idemitsu-solid-state-electrolyte/)
 - [Consistent policy is key to unlocking the climate tech boom, but the UK’s U-turn isn’t helping](https://techcrunch.com/2023/10/13/consistent-policy-is-key-to-unlocking-the-climate-tech-boom-but-the-uks-u-turn-isnt-helping/)
-- [Why &#39;ring of fire&#39; solar eclipse on Oct. 14 has scientists excited &lpar;video&rpar;](https://www.space.com/ring-of-fire-solar-eclipse-october-2023-scientists-excited)
-- [Singularity’s ONI earbuds deliver outstanding audio thanks to MEMS speaker tech](https://techcrunch.com/2023/10/13/singularity-oni-xmems-earbuds-review/)
-- [X Communities start to look more like Facebook Groups with new member vetting feature](https://techcrunch.com/2023/10/13/x-communities-start-to-look-more-like-facebook-groups-with-new-member-vetting-feature/)
-- [Telegram CEO says app will continue to host ‘war-related content’ after coming under fire for Hamas videos](https://techcrunch.com/2023/10/13/telegram-ceo-says-app-will-continue-to-host-war-related-content-after-coming-under-fire-for-hamas-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
