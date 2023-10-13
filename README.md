@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronaut Frank Rubio considers himself &#39;incredibly lucky&#39; after accidental 1-year ISS stay](https://www.space.com/nasa-astronaut-frank-rubio-one-year-iss-incredibly-lucky)
+- [Amid breakup, Synapse, Evolve address allegations about how their relationship ended](https://techcrunch.com/2023/10/13/synapse-evolve-mercury-fintech/)
+- [EV data startup Volteras wants to bring Tesla-level control to every vehicle and charger](https://techcrunch.com/2023/10/13/ev-data-startup-volteras-wants-to-bring-tesla-level-control-to-every-vehicle-and-charger/)
 - [6 VCs explain how startups can capture and defend marketshare in the AI era](https://techcrunch.com/2023/10/13/6-vcs-explain-how-startups-can-capture-and-defend-marketshare-in-the-ai-era/)
 - [Rare all-woman spacewalk this month won&#39;t be the last, NASA says](https://www.space.com/international-space-station-rare-all-woman-spacewalk-not-the-last)
-- [African startups see their fundraising prospects dry up as capital availability falls yet again in Q3](https://techcrunch.com/2023/10/13/africa-vc-q3/)
-- [Uber sexual assault survivors call for in-car cameras, tech upgrades](https://techcrunch.com/2023/10/13/uber-sexual-assault-survivors-call-for-in-car-cameras-tech-upgrades/)
-- [Israel’s startup ecosystem: Down but not out](https://techcrunch.com/2023/10/13/israels-startup-ecosystem-down-but-not-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
