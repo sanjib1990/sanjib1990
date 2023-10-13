@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here&#39;s the &lpar;moon&rpar; scoop: Mercury 7-flown clock, Apollo lunar shovel up for auction](https://www.space.com/mercury-clock-apollo-moon-scoop-auction)
+- [How precious metals were brought to Earth and preserved in a magma ocean](https://www.space.com/gold-jewelry-precious-metals-earth-mantle-magma-ocean)
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [The 5 main stages of October&#39;s annular solar eclipse explained](https://www.space.com/annular-solar-eclipse-2023-main-stages-explained)
 - [Watch SpaceX Falcon Heavy rocket launch NASA&#39;s Psyche asteroid mission today](https://www.space.com/spacex-falcon-heavy-psyche-launch-webcast)
-- [Tradeshift co-founder accused of sexual assault by company, allegations he denies](https://techcrunch.com/2023/10/13/tradeshift-co-founder-accused-of-sexual-assault-by-company-allegations-he-denies/)
-- [Devialet’s Gemini II are the most luxurious wireless earbuds you can get](https://techcrunch.com/2023/10/13/devialets-gemini-ii-are-the-most-luxurious-wireless-earbuds-you-can-get/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
