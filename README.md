@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Founders, are events useful?](https://techcrunch.com/2023/10/13/founders-are-events-useful/)
-- [4th season of &#39;For All Mankind&#39; moves from Mars to the asteroids &lpar;trailer&rpar;](https://www.space.com/apple-tv-for-all-mankind-fourth-season-trailer)
-- [Week 2 of the Sam Bankman-Fried trial wraps up](https://techcrunch.com/2023/10/13/week-2-of-the-sam-bankman-fried-trial-wraps-up/)
-- [SpaceX’s Falcon Heavy launches NASA Psyche mission to metal asteroid](https://techcrunch.com/2023/10/13/spacexs-falcon-heavy-launches-nasa-psyche-mission-to-metal-asteroid/)
-- [Relive SpaceX&#39;s Falcon Heavy launch of Psyche asteroid mission with these amazing photos](https://www.space.com/spacex-falcon-heavy-psyche-asteroid-mission-launch-photos)
+- [6 VCs explain how startups can capture and defend marketshare in the AI era](https://techcrunch.com/2023/10/13/6-vcs-explain-how-startups-can-capture-and-defend-marketshare-in-the-ai-era/)
+- [Rare all-woman spacewalk this month won&#39;t be the last, NASA says](https://www.space.com/international-space-station-rare-all-woman-spacewalk-not-the-last)
+- [African startups see their fundraising prospects dry up as capital availability falls yet again in Q3](https://techcrunch.com/2023/10/13/africa-vc-q3/)
+- [Uber sexual assault survivors call for in-car cameras, tech upgrades](https://techcrunch.com/2023/10/13/uber-sexual-assault-survivors-call-for-in-car-cameras-tech-upgrades/)
+- [Israel’s startup ecosystem: Down but not out](https://techcrunch.com/2023/10/13/israels-startup-ecosystem-down-but-not-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
