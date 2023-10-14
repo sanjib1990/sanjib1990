@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [October&#39;s new moon brings us a &#39;ring of fire&#39; solar eclipse](https://www.space.com/new-moon-october-2023-annular-solar-eclipse)
+- [Annular solar eclipse will turn the sun into &#39;ring of fire&#39; today. Here&#39;s what you need to know.](https://www.space.com/annular-solar-eclipse-2023-today)
 - [Palestine’s growing tech industry has been literally blown apart by the war between Israel and Hamas](https://techcrunch.com/2023/10/14/palestine-tech-industry-hamas-israel-war/)
 - [Blue checks aren’t protecting sex workers from X’s porn crackdown](https://techcrunch.com/2023/10/13/sex-work-x-premium-subscription-twitter-blue-nudity-porn-ban/)
 - [Ripcord, the Steve Wozniak-backed file scanning startup, is raising new cash](https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/)
-- [Trezor launches two new devices to help onboard crypto newbies](https://techcrunch.com/2023/10/13/trezor-launches-two-new-devices-to-help-onboard-crypto-newbies/)
-- [NASA astronaut Frank Rubio considers himself &#39;incredibly lucky&#39; after accidental 1-year ISS stay](https://www.space.com/nasa-astronaut-frank-rubio-one-year-iss-incredibly-lucky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
