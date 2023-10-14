@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Annular solar eclipse of 2023 wows skywatchers with spectacular &#39;ring of fire&#39; &lpar;photos, video&rpar;](https://www.space.com/annular-solar-eclipse-2023-photos)
 - [How generative AI is creeping into EV battery development](https://techcrunch.com/2023/10/14/how-generative-ai-is-creeping-into-ev-battery-development/)
 - [More funding for defense tech?](https://techcrunch.com/2023/10/14/defense-tech-funding/)
 - [The annular solar eclipse of 2023 is underway! See the 1st &#39;ring of fire&#39; photos and video](https://www.space.com/annular-solar-eclipse-2023-ring-of-fire-first-photos-video)
-- [Deal Dive: Why does General Catalyst want to buy a healthcare system?](https://techcrunch.com/2023/10/14/deal-dive-general-catalyst-healthcare-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
