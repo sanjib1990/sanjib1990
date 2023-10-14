@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue checks aren’t protecting sex workers from X’s porn crackdown](https://techcrunch.com/2023/10/13/sex-work-x-premium-subscription-twitter-blue-nudity-porn-ban/)
 - [Ripcord, the Steve Wozniak-backed file scanning startup, is raising new cash](https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/)
 - [Trezor launches two new devices to help onboard crypto newbies](https://techcrunch.com/2023/10/13/trezor-launches-two-new-devices-to-help-onboard-crypto-newbies/)
 - [NASA astronaut Frank Rubio considers himself &#39;incredibly lucky&#39; after accidental 1-year ISS stay](https://www.space.com/nasa-astronaut-frank-rubio-one-year-iss-incredibly-lucky)
 - [Amid breakup, Synapse, Evolve address allegations about how their relationship ended](https://techcrunch.com/2023/10/13/synapse-evolve-mercury-fintech/)
-- [EV data startup Volteras wants to bring Tesla-level control to every vehicle and charger](https://techcrunch.com/2023/10/13/ev-data-startup-volteras-wants-to-bring-tesla-level-control-to-every-vehicle-and-charger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
