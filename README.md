@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [The SBF trial continues, Atlassian acquires Loom, and OpenAI explores making its own chips](https://techcrunch.com/2023/10/14/the-sbf-trial-continues-atlassian-acquires-loom-and-openai-explores-making-its-own-chips/)
+- [How roboticists are thinking about generative AI](https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/)
 - [Annular solar eclipse of 2023 wows skywatchers with spectacular &#39;ring of fire&#39; &lpar;photos, video&rpar;](https://www.space.com/annular-solar-eclipse-2023-photos)
 - [How generative AI is creeping into EV battery development](https://techcrunch.com/2023/10/14/how-generative-ai-is-creeping-into-ev-battery-development/)
-- [More funding for defense tech?](https://techcrunch.com/2023/10/14/defense-tech-funding/)
-- [The annular solar eclipse of 2023 is underway! See the 1st &#39;ring of fire&#39; photos and video](https://www.space.com/annular-solar-eclipse-2023-ring-of-fire-first-photos-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
