@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The mysteries of the dark universe could be solved by the Rubin Observatory](https://www.space.com/dark-universe-rubin-observatory-mysteries)
 - [October&#39;s new moon brings us a &#39;ring of fire&#39; solar eclipse](https://www.space.com/new-moon-october-2023-annular-solar-eclipse)
 - [Annular solar eclipse will turn the sun into &#39;ring of fire&#39; today. Here&#39;s what you need to know.](https://www.space.com/annular-solar-eclipse-2023-today)
 - [Palestine’s growing tech industry has been literally blown apart by the war between Israel and Hamas](https://techcrunch.com/2023/10/14/palestine-tech-industry-hamas-israel-war/)
 - [Blue checks aren’t protecting sex workers from X’s porn crackdown](https://techcrunch.com/2023/10/13/sex-work-x-premium-subscription-twitter-blue-nudity-porn-ban/)
-- [Ripcord, the Steve Wozniak-backed file scanning startup, is raising new cash](https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
