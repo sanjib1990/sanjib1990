@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [London’s not calling for Par Equity, as VC firm targets £100M at UK startups in the north](https://techcrunch.com/2023/10/15/londons-not-calling-for-par-equity-as-vc-firm-targets-100m-at-uk-startups-in-the-north/)
 - [Where’s the innovation in induction kitchens?](https://techcrunch.com/2023/10/15/wheres-the-innovation-in-induction-kitchens/)
 - [How founders can cut through the noise and find events that are actually worth it](https://techcrunch.com/2023/10/15/founder-events-worth-it/)
 - [Braid shuts down, Stash marches toward an IPO and what happens when a fintech relationship fizzles out](https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/)
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [The Milky Way is warped, and it might be the work of dark matter](https://www.space.com/milky-way-galaxy-warp-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
