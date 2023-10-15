@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Milky Way is warped, and it might be the work of dark matter](https://www.space.com/milky-way-galaxy-warp-dark-matter)
+- [Fire in the sky: Chasing the annular solar eclipse 2023 on the Extraterrestrial Highway](https://www.space.com/annular-solar-eclipse-2023-nevada-extraterrestrial-highway)
 - [Dead star at heart of cosmic graveyard predicts the sun&#39;s fate](https://www.space.com/dead-star-cosmic-graveyard-predicts-fate-of-sun)
 - [Blast into the first 5 pages of Marvel Comics&#39; &#39;Star Wars: The High Republic #1&#39;](https://www.space.com/star-wars-high-republic-1-comic-sneak-peak)
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [The SBF trial continues, Atlassian acquires Loom, and OpenAI explores making its own chips](https://techcrunch.com/2023/10/14/the-sbf-trial-continues-atlassian-acquires-loom-and-openai-explores-making-its-own-chips/)
-- [How roboticists are thinking about generative AI](https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
