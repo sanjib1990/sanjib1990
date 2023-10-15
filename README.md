@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead star at heart of cosmic graveyard predicts the sun&#39;s fate](https://www.space.com/dead-star-cosmic-graveyard-predicts-fate-of-sun)
+- [Blast into the first 5 pages of Marvel Comics&#39; &#39;Star Wars: The High Republic #1&#39;](https://www.space.com/star-wars-high-republic-1-comic-sneak-peak)
 - [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [The SBF trial continues, Atlassian acquires Loom, and OpenAI explores making its own chips](https://techcrunch.com/2023/10/14/the-sbf-trial-continues-atlassian-acquires-loom-and-openai-explores-making-its-own-chips/)
 - [How roboticists are thinking about generative AI](https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/)
-- [Annular solar eclipse of 2023 wows skywatchers with spectacular &#39;ring of fire&#39; &lpar;photos, video&rpar;](https://www.space.com/annular-solar-eclipse-2023-photos)
-- [How generative AI is creeping into EV battery development](https://techcrunch.com/2023/10/14/how-generative-ai-is-creeping-into-ev-battery-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
