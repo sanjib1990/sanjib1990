@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify is launching a personalized in-app Merch Hub](https://techcrunch.com/2023/10/16/spotify-launching-personalized-in-app-merch-hub/)
+- [YouTube gets new AI-powered ads that let brands target special cultural moments](https://techcrunch.com/2023/10/16/youtube-gets-new-ai-powered-ads-that-let-brands-target-special-cultural-moments/)
+- [Urban Sky closes $9.75M Series A to scale Earth imaging operations using reusable balloons](https://techcrunch.com/2023/10/16/urban-sky-closes-9-75m-series-a-to-scale-earth-imaging-operations-using-reusable-balloons/)
+- [Satellites watch the annular solar eclipse 2023 sweep over the U.S. &lpar;video&rpar;](https://www.space.com/satellites-watch-annular-solar-eclipse-2023-from-space-video)
 - [Live commerce startup TalkShopLive launches new app for sellers to broadcast on mobile](https://techcrunch.com/2023/10/16/live-commerce-startup-talkshoplive-launches-new-app-for-sellers-to-broadcast-on-mobile/)
-- [Scientists discover ghost of ancient mega-plate that disappeared 20 million years ago](https://www.space.com/scientists-discover-ghost-of-ancient-megaplate)
-- [Creative Force, now with $8.9M, gives e-commerce workflows an AI treatment](https://techcrunch.com/2023/10/16/creative-force-8-9m-e-commerce-workflow-ai/)
-- [Accessercise’s app makes it easier for people with disabilities to exercise](https://techcrunch.com/2023/10/16/accessercise-fitness-app/)
-- [Leucine makes drug manufacturing compliance less onerous](https://techcrunch.com/2023/10/16/leucine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
