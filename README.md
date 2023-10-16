@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evidence for &#39;Planet 9&#39; may actually show our theory of gravity is incomplete](https://www.space.com/planet-9-mystery-deepens-gravity-theory)
+- [Solid co-founders call FTV Capital’s fraud claims ‘completely baseless and incorrect’](https://techcrunch.com/2023/10/16/solid-ftv-capital-fraud-claims-fintech/)
 - [&#39;For All Mankind&#39; Season 4 hopes to get audiences excited about space](https://www.space.com/for-all-mankind-season-4-get-audiences-excited-about-space)
 - [Zipcar hit with feds’ first-ever fine for renting out recalled cars](https://techcrunch.com/2023/10/16/zipcar-hit-with-feds-first-ever-fine-for-renting-out-recalled-cars/)
 - [Axiom Space&#39;s 3rd private astronaut crew ready for ISS mission in 2024](https://www.space.com/axiom-space-ax-3-crew-ready-iss-mission)
-- [&#39;Star Trek: Lower Decks&#39; takes center stage at NYCC 2023](https://www.space.com/star-trek-lower-decks-new-york-comic-con-2023)
-- [Twitch launches stories for streamers](https://techcrunch.com/2023/10/16/twitch-launches-stories-streamers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
