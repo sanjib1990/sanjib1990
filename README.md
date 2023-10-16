@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Future Mars astronauts may chomp on Earth&#39;s tiniest flowering plant to survive](https://www.space.com/future-mars-astronaut-earth-tiniest-plant-survive)
+- [Flexport kicks off restructuring with layoffs](https://techcrunch.com/2023/10/16/flexport-kicks-off-restructuring-with-layoffs/)
+- [The NVCA Model Legal Documents reach legal drinking age: A retrospective](https://techcrunch.com/2023/10/16/the-nvca-model-legal-documents-reach-legal-drinking-age-a-retrospective/)
 - [What the &#39;ring of fire&#39; eclipse looked like from the home of ancient solar astronomy](https://www.space.com/what-annular-solar-eclipse-2023-looked-like-from-chaco-canyon-home-of-ancient-solar-astronomy)
 - [Will seed deals ever stop getting more expensive?](https://techcrunch.com/2023/10/16/will-seed-deals-ever-stop-getting-more-expensive/)
-- [ByteDance’s video editor CapCut targets businesses with AI ad scripts and AI-generated presenters](https://techcrunch.com/2023/10/16/bytedances-video-editor-capcut-targets-businesses-with-ai-ad-scripts-and-ai-generated-presenters/)
-- [Meta negotiations with moderators in Kenya over labor dispute collapse](https://techcrunch.com/2023/10/16/meta-moderators-talks-collapse/)
-- [LinkedIn confirms it will cut a further 668 jobs, bringing the total to nearly 1,400 this year](https://techcrunch.com/2023/10/16/linkedin-layoffs-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
