@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify is launching a personalized in-app Merch Hub](https://techcrunch.com/2023/10/16/spotify-launching-personalized-in-app-merch-hub/)
-- [YouTube gets new AI-powered ads that let brands target special cultural moments](https://techcrunch.com/2023/10/16/youtube-gets-new-ai-powered-ads-that-let-brands-target-special-cultural-moments/)
-- [Urban Sky closes $9.75M Series A to scale Earth imaging operations using reusable balloons](https://techcrunch.com/2023/10/16/urban-sky-closes-9-75m-series-a-to-scale-earth-imaging-operations-using-reusable-balloons/)
-- [Satellites watch the annular solar eclipse 2023 sweep over the U.S. &lpar;video&rpar;](https://www.space.com/satellites-watch-annular-solar-eclipse-2023-from-space-video)
-- [Live commerce startup TalkShopLive launches new app for sellers to broadcast on mobile](https://techcrunch.com/2023/10/16/live-commerce-startup-talkshoplive-launches-new-app-for-sellers-to-broadcast-on-mobile/)
+- [Xpanceo, a deep tech startup, raises $40M to focus on smart contact lenses](https://techcrunch.com/2023/10/16/xpanceo-a-deep-tech-startup-raises-40m-to-focus-on-smart-contact-lenses/)
+- [Total solar eclipse April 2024: 8 top tips for planning your trip](https://www.space.com/total-solar-eclipse-april-8-2024-top-tips-planning-trip)
+- [Mac users are embracing AI apps, study finds, with 42% using AI apps daily](https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/)
+- [Investors have not given up on web3 gaming](https://techcrunch.com/2023/10/16/investors-have-not-given-up-on-web3-gaming/)
+- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
