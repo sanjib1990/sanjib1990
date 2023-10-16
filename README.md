@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence for &#39;Planet 9&#39; may actually show our theory of gravity is incomplete](https://www.space.com/planet-9-mystery-deepens-gravity-theory)
-- [Solid co-founders call FTV Capital’s fraud claims ‘completely baseless and incorrect’](https://techcrunch.com/2023/10/16/solid-ftv-capital-fraud-claims-fintech/)
-- [&#39;For All Mankind&#39; Season 4 hopes to get audiences excited about space](https://www.space.com/for-all-mankind-season-4-get-audiences-excited-about-space)
-- [Zipcar hit with feds’ first-ever fine for renting out recalled cars](https://techcrunch.com/2023/10/16/zipcar-hit-with-feds-first-ever-fine-for-renting-out-recalled-cars/)
-- [Axiom Space&#39;s 3rd private astronaut crew ready for ISS mission in 2024](https://www.space.com/axiom-space-ax-3-crew-ready-iss-mission)
+- [Max Q: Psyche&lpar;d&rpar;](https://techcrunch.com/2023/10/16/max-q-psyched/)
+- [James Webb Space Telescope detects quartz crystals in an exoplanet&#39;s atmosphere](https://www.space.com/james-webb-space-telescope-quartz-crystals-exoplanet)
+- [Google lobbies against legally mandated age verification for minors](https://techcrunch.com/2023/10/16/google-lobbies-against-legally-mandated-age-verification-for-minors/)
+- [AI just spotted its 1st supernova. Could it replace human explosion hunters?](https://www.space.com/artificial-intelligence-spots-first-supernova)
+- [Web Summit derailed by founder’s public fight with those supporting Israel in Hamas war](https://techcrunch.com/2023/10/16/websummit-derailed-by-founders-public-fight-with-those-supporting-israel-in-hamas-conflict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
