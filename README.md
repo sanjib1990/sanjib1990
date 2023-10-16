@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What the &#39;ring of fire&#39; eclipse looked like from the home of ancient solar astronomy](https://www.space.com/what-annular-solar-eclipse-2023-looked-like-from-chaco-canyon-home-of-ancient-solar-astronomy)
+- [Will seed deals ever stop getting more expensive?](https://techcrunch.com/2023/10/16/will-seed-deals-ever-stop-getting-more-expensive/)
+- [ByteDance’s video editor CapCut targets businesses with AI ad scripts and AI-generated presenters](https://techcrunch.com/2023/10/16/bytedances-video-editor-capcut-targets-businesses-with-ai-ad-scripts-and-ai-generated-presenters/)
+- [Meta negotiations with moderators in Kenya over labor dispute collapse](https://techcrunch.com/2023/10/16/meta-moderators-talks-collapse/)
 - [LinkedIn confirms it will cut a further 668 jobs, bringing the total to nearly 1,400 this year](https://techcrunch.com/2023/10/16/linkedin-layoffs-2/)
-- [Observability startup Pantomath lands $14M to automate data pipelines](https://techcrunch.com/2023/10/16/observability-startup-pantomath-lands-14m-to-automate-data-pipelines/)
-- [Scientists want to make moon roads by blasting lunar soil with sunlight](https://www.space.com/blasting-lunar-soil-with-sunlight-could-create-moon-roads)
-- [From concept to patent: 4 key steps for AI entrepreneurs](https://techcrunch.com/2023/10/16/from-concept-to-patent-4-key-steps-for-ai-entrepreneurs/)
-- [Xpanceo, a deep tech startup, raises $40M to focus on smart contact lenses](https://techcrunch.com/2023/10/16/xpanceo-a-deep-tech-startup-raises-40m-to-focus-on-smart-contact-lenses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
