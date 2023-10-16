@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creative Force, now with $8.9M, gives e-commerce workflows an AI treatment](https://techcrunch.com/2023/10/16/creative-force-8-9m-e-commerce-workflow-ai/)
+- [Accessercise’s app makes it easier for people with disabilities to exercise](https://techcrunch.com/2023/10/16/accessercise-fitness-app/)
 - [Leucine makes drug manufacturing compliance less onerous](https://techcrunch.com/2023/10/16/leucine/)
 - [General Catalyst and European early stage fund La Famiglia ‘join forces’ to invest in European startups](https://techcrunch.com/2023/10/16/general-catalyst-and-european-early-stage-fund-la-famiglia-join-forces-to-invest-in-european-startups/)
 - [Earth&#39;s solid inner core is &#39;surprisingly soft&#39; thanks to hyperactive atoms jostling around](https://www.space.com/earth-inner-core-suprisingly-soft-hyperactive-atoms)
-- [&#39;Air showers&#39; could help reveal cosmic rays&#39; mysterious source](https://www.space.com/cosmic-rays-source-subaru-telescope)
-- [Australia fines X for failing to provide information about child abuse content](https://techcrunch.com/2023/10/16/australia-fines-x-for-failing-to-provide-information-about-child-abuse-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
