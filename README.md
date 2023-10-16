@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leucine makes drug manufacturing compliance less onerous](https://techcrunch.com/2023/10/16/leucine/)
+- [General Catalyst and European early stage fund La Famiglia ‘join forces’ to invest in European startups](https://techcrunch.com/2023/10/16/general-catalyst-and-european-early-stage-fund-la-famiglia-join-forces-to-invest-in-european-startups/)
+- [Earth&#39;s solid inner core is &#39;surprisingly soft&#39; thanks to hyperactive atoms jostling around](https://www.space.com/earth-inner-core-suprisingly-soft-hyperactive-atoms)
 - [&#39;Air showers&#39; could help reveal cosmic rays&#39; mysterious source](https://www.space.com/cosmic-rays-source-subaru-telescope)
 - [Australia fines X for failing to provide information about child abuse content](https://techcrunch.com/2023/10/16/australia-fines-x-for-failing-to-provide-information-about-child-abuse-content/)
-- [Asia emerges as a promising haven amid the crypto winter](https://techcrunch.com/2023/10/15/asia-crypto-winter/)
-- [London’s not calling for Par Equity, as VC firm targets £100M at UK startups in the north](https://techcrunch.com/2023/10/15/londons-not-calling-for-par-equity-as-vc-firm-targets-100m-at-uk-startups-in-the-north/)
-- [Where’s the innovation in induction kitchens?](https://techcrunch.com/2023/10/15/wheres-the-innovation-in-induction-kitchens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
