@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn confirms it will cut a further 668 jobs, bringing the total to nearly 1,400 this year](https://techcrunch.com/2023/10/16/linkedin-layoffs-2/)
+- [Observability startup Pantomath lands $14M to automate data pipelines](https://techcrunch.com/2023/10/16/observability-startup-pantomath-lands-14m-to-automate-data-pipelines/)
+- [Scientists want to make moon roads by blasting lunar soil with sunlight](https://www.space.com/blasting-lunar-soil-with-sunlight-could-create-moon-roads)
+- [From concept to patent: 4 key steps for AI entrepreneurs](https://techcrunch.com/2023/10/16/from-concept-to-patent-4-key-steps-for-ai-entrepreneurs/)
 - [Xpanceo, a deep tech startup, raises $40M to focus on smart contact lenses](https://techcrunch.com/2023/10/16/xpanceo-a-deep-tech-startup-raises-40m-to-focus-on-smart-contact-lenses/)
-- [Total solar eclipse April 2024: 8 top tips for planning your trip](https://www.space.com/total-solar-eclipse-april-8-2024-top-tips-planning-trip)
-- [Mac users are embracing AI apps, study finds, with 42% using AI apps daily](https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/)
-- [Investors have not given up on web3 gaming](https://techcrunch.com/2023/10/16/investors-have-not-given-up-on-web3-gaming/)
-- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
