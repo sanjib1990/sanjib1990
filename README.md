@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Live commerce startup TalkShopLive launches new app for sellers to broadcast on mobile](https://techcrunch.com/2023/10/16/live-commerce-startup-talkshoplive-launches-new-app-for-sellers-to-broadcast-on-mobile/)
+- [Scientists discover ghost of ancient mega-plate that disappeared 20 million years ago](https://www.space.com/scientists-discover-ghost-of-ancient-megaplate)
 - [Creative Force, now with $8.9M, gives e-commerce workflows an AI treatment](https://techcrunch.com/2023/10/16/creative-force-8-9m-e-commerce-workflow-ai/)
 - [Accessercise’s app makes it easier for people with disabilities to exercise](https://techcrunch.com/2023/10/16/accessercise-fitness-app/)
 - [Leucine makes drug manufacturing compliance less onerous](https://techcrunch.com/2023/10/16/leucine/)
-- [General Catalyst and European early stage fund La Famiglia ‘join forces’ to invest in European startups](https://techcrunch.com/2023/10/16/general-catalyst-and-european-early-stage-fund-la-famiglia-join-forces-to-invest-in-european-startups/)
-- [Earth&#39;s solid inner core is &#39;surprisingly soft&#39; thanks to hyperactive atoms jostling around](https://www.space.com/earth-inner-core-suprisingly-soft-hyperactive-atoms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
