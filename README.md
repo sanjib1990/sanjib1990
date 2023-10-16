@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space&#39;s 3rd private astronaut crew ready for ISS mission in 2024](https://www.space.com/axiom-space-ax-3-crew-ready-iss-mission)
+- [&#39;Star Trek: Lower Decks&#39; takes center stage at NYCC 2023](https://www.space.com/star-trek-lower-decks-new-york-comic-con-2023)
+- [Twitch launches stories for streamers](https://techcrunch.com/2023/10/16/twitch-launches-stories-streamers/)
+- [Netflix’s cloud gaming service begins tests in U.S.](https://techcrunch.com/2023/10/16/netflixs-cloud-gaming-service-begins-tests-in-u-s/)
 - [Future Mars astronauts may chomp on Earth&#39;s tiniest flowering plant to survive](https://www.space.com/future-mars-astronaut-earth-tiniest-plant-survive)
-- [Flexport kicks off restructuring with layoffs](https://techcrunch.com/2023/10/16/flexport-kicks-off-restructuring-with-layoffs/)
-- [The NVCA Model Legal Documents reach legal drinking age: A retrospective](https://techcrunch.com/2023/10/16/the-nvca-model-legal-documents-reach-legal-drinking-age-a-retrospective/)
-- [What the &#39;ring of fire&#39; eclipse looked like from the home of ancient solar astronomy](https://www.space.com/what-annular-solar-eclipse-2023-looked-like-from-chaco-canyon-home-of-ancient-solar-astronomy)
-- [Will seed deals ever stop getting more expensive?](https://techcrunch.com/2023/10/16/will-seed-deals-ever-stop-getting-more-expensive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
