@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;For All Mankind&#39; Season 4 hopes to get audiences excited about space](https://www.space.com/for-all-mankind-season-4-get-audiences-excited-about-space)
+- [Zipcar hit with feds’ first-ever fine for renting out recalled cars](https://techcrunch.com/2023/10/16/zipcar-hit-with-feds-first-ever-fine-for-renting-out-recalled-cars/)
 - [Axiom Space&#39;s 3rd private astronaut crew ready for ISS mission in 2024](https://www.space.com/axiom-space-ax-3-crew-ready-iss-mission)
 - [&#39;Star Trek: Lower Decks&#39; takes center stage at NYCC 2023](https://www.space.com/star-trek-lower-decks-new-york-comic-con-2023)
 - [Twitch launches stories for streamers](https://techcrunch.com/2023/10/16/twitch-launches-stories-streamers/)
-- [Netflix’s cloud gaming service begins tests in U.S.](https://techcrunch.com/2023/10/16/netflixs-cloud-gaming-service-begins-tests-in-u-s/)
-- [Future Mars astronauts may chomp on Earth&#39;s tiniest flowering plant to survive](https://www.space.com/future-mars-astronaut-earth-tiniest-plant-survive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
