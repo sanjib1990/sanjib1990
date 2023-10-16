@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Air showers&#39; could help reveal cosmic rays&#39; mysterious source](https://www.space.com/cosmic-rays-source-subaru-telescope)
+- [Australia fines X for failing to provide information about child abuse content](https://techcrunch.com/2023/10/16/australia-fines-x-for-failing-to-provide-information-about-child-abuse-content/)
 - [Asia emerges as a promising haven amid the crypto winter](https://techcrunch.com/2023/10/15/asia-crypto-winter/)
 - [London’s not calling for Par Equity, as VC firm targets £100M at UK startups in the north](https://techcrunch.com/2023/10/15/londons-not-calling-for-par-equity-as-vc-firm-targets-100m-at-uk-startups-in-the-north/)
 - [Where’s the innovation in induction kitchens?](https://techcrunch.com/2023/10/15/wheres-the-innovation-in-induction-kitchens/)
-- [How founders can cut through the noise and find events that are actually worth it](https://techcrunch.com/2023/10/15/founder-events-worth-it/)
-- [Braid shuts down, Stash marches toward an IPO and what happens when a fintech relationship fizzles out](https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
