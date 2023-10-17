@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [WeWork fires back at competitor Codi with cease and desist](https://techcrunch.com/2023/10/17/wework-fires-back-at-competitor-codi-with-cease-and-desist/)
+- [Satellite sees annular solar eclipse from 1 million miles away &lpar;photo&rpar;](https://www.space.com/annular-solar-eclipse-2023-million-miles-away)
 - [Jupiter-like exoplanets reveal our solar system may not be so unique after all](https://www.space.com/jupiter-planets-common-occurrence-cosmic-neighborhood)
 - [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/10/17/tech-layoffs-2023-list/)
-- [GM delays $4B EV truck factory plan by another year](https://techcrunch.com/2023/10/17/gm-delays-4b-ev-truck-factory-plan-by-another-year/)
-- [Top tips for astrophotography composition 2023](https://www.space.com/top-tips-for-composing-astrophotography)
-- [A simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
