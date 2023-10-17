@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Give biotech a chance for the planet’s sake, EU lawmakers urged](https://techcrunch.com/2023/10/17/biotech-eu/)
-- [ScyllaDB raises $43M to scale its NoSQL database platform](https://techcrunch.com/2023/10/17/scylladb-raises-43m-to-scale-its-nosql-database-platform/)
-- [SpaceX to launch Falcon 9 rocket tonight on 16th mission](https://www.space.com/spacex-starlink-satellite-launch-group-6-23)
-- [Over 1 million satellites could be headed to Earth orbit, and scientists are worried](https://www.space.com/million-satellites-congest-low-earth-orbit-study-shows)
-- [Figure’s humanoid robot walks for the camera](https://techcrunch.com/2023/10/17/figures-humanoid-robot-walks-for-the-camera/)
+- [Amazon quietly rolls out support for passkeys, with a catch](https://techcrunch.com/2023/10/17/amazon-passkey-sign-in/)
+- [Procurify lands fresh cash to invest in AI-powered tools for procurement](https://techcrunch.com/2023/10/17/procurify-lands-fresh-cash-to-invest-in-ai-powered-tools-for-procurement/)
+- [NASA&#39;s Hubble, Chandra space telescopes face possible budget cuts: report](https://www.space.com/hubble-chandra-space-telescopes-possible-budget-cuts)
+- [Reality Defender raises $15M to detect text, video and image deepfakes](https://techcrunch.com/2023/10/17/reality-defender-raises-15m-to-detect-text-video-and-image-deepfakes/)
+- [Nova Credit lands $45M to grow its cross-border and alternative data credit products](https://techcrunch.com/2023/10/17/nova-credit-lands-45m-in-funding-to-grow-its-cross-border-and-alternative-data-credit-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
