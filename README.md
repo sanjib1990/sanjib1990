@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Storz &amp; Bickel announces the $448 Venty, its first new dry herb vaporizer in nearly 10 years](https://techcrunch.com/2023/10/17/storz-bickel-announces-the-448-venty-its-first-new-dry-herb-vaporizer-in-nearly-10-years/)
-- [Zelus Analytics helps sports teams bring together growing pile of analytics data](https://techcrunch.com/2023/10/17/zelus-analytics-helps-sports-teams-bring-together-the-growing-amount-of-analytics-data/)
-- [Google is rolling out new Maps and Camera-based accessibility features](https://techcrunch.com/2023/10/17/google-is-rolling-out-new-maps-and-camera-based-accessibility-features/)
-- [Benjamin Moore partners with Blue Origin to reveal space-themed color of 2024](https://www.space.com/benjamin-moore-color-year-blue-origin-club-future)
-- [Anti-immigration policy is killing European tech](https://techcrunch.com/2023/10/17/anti-immigration-policy-is-killing-european-tech/)
+- [Trust &amp; Safety Tycoon lets you simulate the most agonizing job in tech](https://techcrunch.com/2023/10/17/trust-safety-tycoon-lets-you-simulate-the-most-agonizing-job-in-tech/)
+- [NASA&#39;s Roman Space Telescope will launch in 2027. Here&#39;s how scientists are getting ready](https://www.space.com/roman-space-telescope-scientists-preparing-2027-launch)
+- [One year-post acquisition, X traffic and monthly active users are in decline, report claims](https://techcrunch.com/2023/10/17/one-year-post-acquisition-x-traffic-and-monthly-active-users-are-in-decline-report-claims/)
+- [PayPal’s app gets a new package tracking feature](https://techcrunch.com/2023/10/17/paypals-app-gets-a-new-package-tracking-feature/)
+- [Luxury EV maker Lucid misses the mark on deliveries](https://techcrunch.com/2023/10/17/luxury-ev-maker-lucid-misses-the-mark-on-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
