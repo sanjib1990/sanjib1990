@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
+- [Mars was shaken by its strongest marsquake ever in 2022. Now we know what caused it](https://www.space.com/mars-marsquake-strongest-ever-2022-cause)
+- [Latin America’s Q3 2023 venture results show glimmers of light](https://techcrunch.com/2023/10/17/latam-q3-vc/)
 - [TC+ Roundup: How to capture market share in the era of AI](https://techcrunch.com/2023/10/17/tc-roundup-how-to-capture-market-share-in-the-era-of-ai/)
 - [&#39;Futurama&#39; team talks physics, humor and heart at NY Comic Con](https://www.space.com/futurama-panel-new-york-comic-con-2023)
-- [Reddit is killing blockchain-based Community Points](https://techcrunch.com/2023/10/17/reddit-is-phasing-out-community-points-blockchain-rewards/)
-- [Trust &amp; Safety Tycoon lets you simulate the most agonizing job in tech](https://techcrunch.com/2023/10/17/trust-safety-tycoon-lets-you-simulate-the-most-agonizing-job-in-tech/)
-- [NASA&#39;s Roman Space Telescope will launch in 2027. Here&#39;s how scientists are getting ready](https://www.space.com/roman-space-telescope-scientists-preparing-2027-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
