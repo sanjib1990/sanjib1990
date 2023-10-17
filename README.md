@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube is launching new playback and creator-focused features](https://techcrunch.com/2023/10/17/youtube-is-launching-new-playback-and-creator-focused-features/)
-- [K2 Space is building a power-rich future for space exploration based on the premise that bigger is better](https://techcrunch.com/2023/10/17/k2-space-is-building-a-mass-abundant-power-rich-future-for-space-exploration/)
-- [SpaceX stacks Starship to gear up for launch rehearsal &lpar;photos&rpar;](https://www.space.com/spacex-starship-stack-launch-rehearsal-prep-photos)
-- [Swsh’s new app helps you maintain your friendships through polls and games](https://techcrunch.com/2023/10/17/swshs-new-app-helps-you-maintain-your-friendships-through-polls-and-games/)
-- [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
+- [With $33M Series C, Fingerprint looks to expand device intelligence platform](https://techcrunch.com/2023/10/17/with-33m-in-new-capital-fingerprint-looks-to-expand-device-intelligence-platform/)
+- [Sony A6700 Review](https://www.space.com/sony-a6700-review)
+- [Apple adds USB-C, but cuts features in new $79 Apple Pencil](https://techcrunch.com/2023/10/17/apple-adds-usb-c-but-cuts-features-in-new-79-apple-pencil/)
+- [Prove Identity nabs $40M at a “unicorn status” valuation to expand in mobile-based authentication tech](https://techcrunch.com/2023/10/17/prove-identity-40-million/)
+- [YouTube debuts new playback controls and creator-focused features](https://techcrunch.com/2023/10/17/youtube-is-launching-new-playback-and-creator-focused-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
