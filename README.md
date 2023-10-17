@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When was the last time Marc Andreessen talked to a poor person?](https://techcrunch.com/2023/10/17/when-was-the-last-time-marc-andreessen-talked-to-a-poor-person/)
-- [Mars was shaken by its strongest marsquake ever in 2022. Now we know what caused it](https://www.space.com/mars-marsquake-strongest-ever-2022-cause)
-- [Latin America’s Q3 2023 venture results show glimmers of light](https://techcrunch.com/2023/10/17/latam-q3-vc/)
-- [TC+ Roundup: How to capture market share in the era of AI](https://techcrunch.com/2023/10/17/tc-roundup-how-to-capture-market-share-in-the-era-of-ai/)
-- [&#39;Futurama&#39; team talks physics, humor and heart at NY Comic Con](https://www.space.com/futurama-panel-new-york-comic-con-2023)
+- [Jupiter-like exoplanets reveal our solar system may not be so unique after all](https://www.space.com/jupiter-planets-common-occurrence-cosmic-neighborhood)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/10/17/tech-layoffs-2023-list/)
+- [GM delays $4B EV truck factory plan by another year](https://techcrunch.com/2023/10/17/gm-delays-4b-ev-truck-factory-plan-by-another-year/)
+- [Top tips for astrophotography composition 2023](https://www.space.com/top-tips-for-composing-astrophotography)
+- [A simple streetlight hack could protect astronomy from urban light pollution](https://www.space.com/astronomy-light-pollution-streetlight-hack)
 <!-- BLOG-POST-LIST:END -->
 
 ---
