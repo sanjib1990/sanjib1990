@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Stack Overflow cuts 28% of its staff](https://techcrunch.com/2023/10/17/stack-overflow-cuts-28-of-its-staff/)
 - [Ambani’s Jio Financial launches lending and insurance businesses](https://techcrunch.com/2023/10/17/ambani-jio-financial-launches-lending-and-insurance-businesses/)
 - [Ray-Ban Meta sunglasses have ‘influencer’ written all over them](https://techcrunch.com/2023/10/17/ray-ban-meta-review/)
 - [Snapchat is now allowing websites to embed content](https://techcrunch.com/2023/10/16/snapchat-is-now-allowing-websites-to-embed-content/)
-- [FTX execs blew through $8B; testimony reveals how](https://techcrunch.com/2023/10/16/ftx-execs-blew-through-8b-testimony-reveals-how/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
