@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TC+ Roundup: How to capture market share in the era of AI](https://techcrunch.com/2023/10/17/tc-roundup-how-to-capture-market-share-in-the-era-of-ai/)
+- [&#39;Futurama&#39; team talks physics, humor and heart at NY Comic Con](https://www.space.com/futurama-panel-new-york-comic-con-2023)
+- [Reddit is killing blockchain-based Community Points](https://techcrunch.com/2023/10/17/reddit-is-phasing-out-community-points-blockchain-rewards/)
 - [Trust &amp; Safety Tycoon lets you simulate the most agonizing job in tech](https://techcrunch.com/2023/10/17/trust-safety-tycoon-lets-you-simulate-the-most-agonizing-job-in-tech/)
 - [NASA&#39;s Roman Space Telescope will launch in 2027. Here&#39;s how scientists are getting ready](https://www.space.com/roman-space-telescope-scientists-preparing-2027-launch)
-- [One year-post acquisition, X traffic and monthly active users are in decline, report claims](https://techcrunch.com/2023/10/17/one-year-post-acquisition-x-traffic-and-monthly-active-users-are-in-decline-report-claims/)
-- [PayPal’s app gets a new package tracking feature](https://techcrunch.com/2023/10/17/paypals-app-gets-a-new-package-tracking-feature/)
-- [Luxury EV maker Lucid misses the mark on deliveries](https://techcrunch.com/2023/10/17/luxury-ev-maker-lucid-misses-the-mark-on-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
