@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The UAW strike is starting to affect CES 2024](https://techcrunch.com/2023/10/17/stellantis-cancels-ces-uaw-strike/)
+- [City-size comet regrows &#39;horns&#39; after massive volcanic eruption](https://www.space.com/comet-racing-toward-earth-grows-horns)
+- [IRS will pilot free, direct tax filing in 2024](https://techcrunch.com/2023/10/17/irs-will-pilot-free-direct-tax-filing-in-2024/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [WeWork fires back at competitor Codi with cease and desist](https://techcrunch.com/2023/10/17/wework-fires-back-at-competitor-codi-with-cease-and-desist/)
-- [Satellite sees annular solar eclipse from 1 million miles away &lpar;photo&rpar;](https://www.space.com/annular-solar-eclipse-2023-million-miles-away)
-- [Jupiter-like exoplanets reveal our solar system may not be so unique after all](https://www.space.com/jupiter-planets-common-occurrence-cosmic-neighborhood)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/10/17/tech-layoffs-2023-list/)
+- [WeWork fires back at competitor Codi with cease and desist following ‘WeWont’ campaign](https://techcrunch.com/2023/10/17/wework-fires-back-at-competitor-codi-with-cease-and-desist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
