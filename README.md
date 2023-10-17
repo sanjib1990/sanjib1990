@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Agnikul gets $26.7M to prepare for commercial space launches](https://techcrunch.com/2023/10/16/agnikul-funding-india-space-tech-startup/)
 - [Bandcamp’s new owner lays off half the company](https://techcrunch.com/2023/10/16/bandcamps-new-owner-lays-off-half-the-company/)
 - [Max Q: Psyche&lpar;d&rpar;](https://techcrunch.com/2023/10/16/max-q-psyched/)
 - [James Webb Space Telescope detects quartz crystals in an exoplanet&#39;s atmosphere](https://www.space.com/james-webb-space-telescope-quartz-crystals-exoplanet)
 - [Google lobbies against legally mandated age verification for minors](https://techcrunch.com/2023/10/16/google-lobbies-against-legally-mandated-age-verification-for-minors/)
-- [AI just spotted its 1st supernova. Could it replace human explosion hunters?](https://www.space.com/artificial-intelligence-spots-first-supernova)
 <!-- BLOG-POST-LIST:END -->
 
 ---
