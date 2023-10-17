@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ray-Ban Meta sunglasses have ‘influencer’ written all over them](https://techcrunch.com/2023/10/17/ray-ban-meta-review/)
 - [Snapchat is now allowing websites to embed content](https://techcrunch.com/2023/10/16/snapchat-is-now-allowing-websites-to-embed-content/)
 - [FTX execs blew through $8B; testimony reveals how](https://techcrunch.com/2023/10/16/ftx-execs-blew-through-8b-testimony-reveals-how/)
 - [India’s Agnikul gets $26.7M to prepare for commercial space launches](https://techcrunch.com/2023/10/16/agnikul-funding-india-space-tech-startup/)
 - [Bandcamp’s new owner lays off half the company](https://techcrunch.com/2023/10/16/bandcamps-new-owner-lays-off-half-the-company/)
-- [Max Q: Psyche&lpar;d&rpar;](https://techcrunch.com/2023/10/16/max-q-psyched/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
