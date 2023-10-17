@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [For Roblox avatars, it’s something old and something new](https://techcrunch.com/2023/10/17/for-roblox-avatars-its-something-old-and-something-new/)
-- [High school students set record with stratospheric balloon launch and recovery &lpar;photo&rpar;](https://www.space.com/high-school-students-record-weather-balloon-launch-recovery)
-- [Instagram head says Threads’ blocking of ‘covid’ and related terms is temporary, to lift in ‘weeks or months’](https://techcrunch.com/2023/10/17/instagram-head-says-threads-blocking-of-covid-and-related-terms-is-temporary-to-lift-in-weeks-or-months/)
-- [LeapFrog to double down on financial and healthcare sectors in Africa and Asia with the new fund](https://techcrunch.com/2023/10/17/leapfrog-new-1b-fund/)
-- [Capella Space to replace founder and CEO Payam Banazadeh](https://techcrunch.com/2023/10/17/capella-space-to-replace-founder-and-ceo-payam-banazadeh/)
+- [Storz &amp; Bickel announces the $448 Venty, its first new dry herb vaporizer in nearly 10 years](https://techcrunch.com/2023/10/17/storz-bickel-announces-the-448-venty-its-first-new-dry-herb-vaporizer-in-nearly-10-years/)
+- [Zelus Analytics helps sports teams bring together growing pile of analytics data](https://techcrunch.com/2023/10/17/zelus-analytics-helps-sports-teams-bring-together-the-growing-amount-of-analytics-data/)
+- [Google is rolling out new Maps and Camera-based accessibility features](https://techcrunch.com/2023/10/17/google-is-rolling-out-new-maps-and-camera-based-accessibility-features/)
+- [Benjamin Moore partners with Blue Origin to reveal space-themed color of 2024](https://www.space.com/benjamin-moore-color-year-blue-origin-club-future)
+- [Anti-immigration policy is killing European tech](https://techcrunch.com/2023/10/17/anti-immigration-policy-is-killing-european-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
