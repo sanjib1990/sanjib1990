@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Annular solar eclipse 2023: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Stack Overflow cuts 28% of its staff](https://techcrunch.com/2023/10/17/stack-overflow-cuts-28-of-its-staff/)
-- [Ambani’s Jio Financial launches lending and insurance businesses](https://techcrunch.com/2023/10/17/ambani-jio-financial-launches-lending-and-insurance-businesses/)
-- [Ray-Ban Meta sunglasses have ‘influencer’ written all over them](https://techcrunch.com/2023/10/17/ray-ban-meta-review/)
-- [Snapchat is now allowing websites to embed content](https://techcrunch.com/2023/10/16/snapchat-is-now-allowing-websites-to-embed-content/)
+- [ScyllaDB raises $43M to scale its NoSQL database platform](https://techcrunch.com/2023/10/17/scylladb-raises-43m-to-scale-its-nosql-database-platform/)
+- [SpaceX to launch Falcon 9 rocket tonight on 16th mission](https://www.space.com/spacex-starlink-satellite-launch-group-6-23)
+- [Over 1 million satellites could be headed to Earth orbit, and scientists are worried](https://www.space.com/million-satellites-congest-low-earth-orbit-study-shows)
+- [Figure’s humanoid robot walks for the camera](https://techcrunch.com/2023/10/17/figures-humanoid-robot-walks-for-the-camera/)
+- [Invesco raises Swiggy’s valuation to nearly $8 billion](https://techcrunch.com/2023/10/17/invesco-raises-swiggy-valuation-to-nearly-8-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
