@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Israel looks to roll out SpaceX Starlink internet amid war with Hamas](https://techcrunch.com/2023/10/17/israel-looks-to-roll-out-spacex-starlink-internet-amid-war-with-hamas/)
 - [The UAW strike is starting to affect CES 2024](https://techcrunch.com/2023/10/17/stellantis-cancels-ces-uaw-strike/)
 - [City-size comet regrows &#39;horns&#39; after massive volcanic eruption](https://www.space.com/comet-racing-toward-earth-grows-horns)
 - [IRS will pilot free, direct tax filing in 2024](https://techcrunch.com/2023/10/17/irs-will-pilot-free-direct-tax-filing-in-2024/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [WeWork fires back at competitor Codi with cease and desist following ‘WeWont’ campaign](https://techcrunch.com/2023/10/17/wework-fires-back-at-competitor-codi-with-cease-and-desist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
