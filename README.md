@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Give biotech a chance for the planet’s sake, EU lawmakers urged](https://techcrunch.com/2023/10/17/biotech-eu/)
 - [ScyllaDB raises $43M to scale its NoSQL database platform](https://techcrunch.com/2023/10/17/scylladb-raises-43m-to-scale-its-nosql-database-platform/)
 - [SpaceX to launch Falcon 9 rocket tonight on 16th mission](https://www.space.com/spacex-starlink-satellite-launch-group-6-23)
 - [Over 1 million satellites could be headed to Earth orbit, and scientists are worried](https://www.space.com/million-satellites-congest-low-earth-orbit-study-shows)
 - [Figure’s humanoid robot walks for the camera](https://techcrunch.com/2023/10/17/figures-humanoid-robot-walks-for-the-camera/)
-- [Invesco raises Swiggy’s valuation to nearly $8 billion](https://techcrunch.com/2023/10/17/invesco-raises-swiggy-valuation-to-nearly-8-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
