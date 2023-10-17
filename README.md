@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon quietly rolls out support for passkeys, with a catch](https://techcrunch.com/2023/10/17/amazon-passkey-sign-in/)
-- [Procurify lands fresh cash to invest in AI-powered tools for procurement](https://techcrunch.com/2023/10/17/procurify-lands-fresh-cash-to-invest-in-ai-powered-tools-for-procurement/)
-- [NASA&#39;s Hubble, Chandra space telescopes face possible budget cuts: report](https://www.space.com/hubble-chandra-space-telescopes-possible-budget-cuts)
-- [Reality Defender raises $15M to detect text, video and image deepfakes](https://techcrunch.com/2023/10/17/reality-defender-raises-15m-to-detect-text-video-and-image-deepfakes/)
-- [Nova Credit lands $45M to grow its cross-border and alternative data credit products](https://techcrunch.com/2023/10/17/nova-credit-lands-45m-in-funding-to-grow-its-cross-border-and-alternative-data-credit-products/)
+- [YouTube is launching new playback and creator-focused features](https://techcrunch.com/2023/10/17/youtube-is-launching-new-playback-and-creator-focused-features/)
+- [K2 Space is building a power-rich future for space exploration based on the premise that bigger is better](https://techcrunch.com/2023/10/17/k2-space-is-building-a-mass-abundant-power-rich-future-for-space-exploration/)
+- [SpaceX stacks Starship to gear up for launch rehearsal &lpar;photos&rpar;](https://www.space.com/spacex-starship-stack-launch-rehearsal-prep-photos)
+- [Swsh’s new app helps you maintain your friendships through polls and games](https://techcrunch.com/2023/10/17/swshs-new-app-helps-you-maintain-your-friendships-through-polls-and-games/)
+- [AI-generating music app Riffusion turns viral success into $4M in funding](https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
