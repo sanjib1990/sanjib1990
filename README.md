@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exclusive: KKR just closed its third tech growth fund with roughly $3 billion, $400 million of which came from KKR](https://techcrunch.com/2023/10/18/exclusive-kkr-just-closed-its-third-tech-growth-fund-with-roughly-3-billion-400-million-of-which-came-from-kkr/)
-- [Ask Sophie: How does my immigration status affect export control licensing to build in space tech?](https://techcrunch.com/2023/10/18/ask-sophie-how-does-my-immigration-status-affect-export-control-licensing-to-build-in-space-tech/)
-- [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
-- [All hail the &lpar;eventual&rpar; Plaid IPO](https://techcrunch.com/2023/10/18/all-hail-the-eventual-plaid-ipo/)
-- [A massive &#39;zombie&#39; star is rampaging away from its home cluster](https://www.space.com/zombie-star-rampaging-from-nearby-star-cluster)
+- [Chrome’s search bar now has smarter autocomplete, automatic typo fixes and more](https://techcrunch.com/2023/10/18/google-chromes-search-bar-now-has-smarter-autocomplete-automatic-typo-fixes-and-more/)
+- [Meet Alliance DAO’s latest accelerator cohort of startups building in crypto winter](https://techcrunch.com/2023/10/18/alliance-dao-crypto-demo-day/)
+- [New &#39;galactic atlas&#39; offers stunning details of 400,000 galaxies near the Milky Way](https://www.space.com/galactic-atlas-reveals-milky-way-galaxies)
+- [Amazon and MIT are partnering to study how robots impact jobs](https://techcrunch.com/2023/10/18/amazon-and-mit-are-partnering-to-study-how-robots-impact-jobs/)
+- [Microsoft highlights new Xbox accessibility features and the gamers who use them](https://techcrunch.com/2023/10/18/microsoft-highlights-new-xbox-accessibility-features-and-the-gamers-who-use-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
