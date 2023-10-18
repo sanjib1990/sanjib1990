@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flanks grabs additional capital to automate wealth services in Europe](https://techcrunch.com/2023/10/17/flanks-automate-wealth-management-europe-fintech/)
+- [Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars](https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/)
 - [X starts experimenting with a $1 per year fee for new users](https://techcrunch.com/2023/10/17/x-starts-experimenting-with-a-1-per-year-fee-for-new-users/)
 - [Tesla looks to maintain EV dominance by pushing for stricter fuel standards](https://techcrunch.com/2023/10/17/tesla-looks-to-maintain-ev-dominance-by-pushing-for-stricter-fuel-standards/)
 - [Amazon’s fleet of Rivian-made electric delivery vans reaches 10K in US](https://techcrunch.com/2023/10/17/amazons-fleet-of-rivian-made-electric-delivery-vans-reaches-10000-in-us/)
-- [Israel looks to roll out SpaceX Starlink internet amid war with Hamas](https://techcrunch.com/2023/10/17/israel-looks-to-roll-out-spacex-starlink-internet-amid-war-with-hamas/)
-- [The UAW strike is starting to affect CES 2024](https://techcrunch.com/2023/10/17/stellantis-cancels-ces-uaw-strike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
