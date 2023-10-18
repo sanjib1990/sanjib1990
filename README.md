@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla looks to maintain EV dominance by pushing for stricter fuel standards](https://techcrunch.com/2023/10/17/tesla-looks-to-maintain-ev-dominance-by-pushing-for-stricter-fuel-standards/)
 - [Amazon’s fleet of Rivian-made electric delivery vans reaches 10,000 in US](https://techcrunch.com/2023/10/17/amazons-fleet-of-rivian-made-electric-delivery-vans-reaches-10000-in-us/)
 - [Israel looks to roll out SpaceX Starlink internet amid war with Hamas](https://techcrunch.com/2023/10/17/israel-looks-to-roll-out-spacex-starlink-internet-amid-war-with-hamas/)
 - [The UAW strike is starting to affect CES 2024](https://techcrunch.com/2023/10/17/stellantis-cancels-ces-uaw-strike/)
 - [City-size comet regrows &#39;horns&#39; after massive volcanic eruption](https://www.space.com/comet-racing-toward-earth-grows-horns)
-- [IRS will pilot free, direct tax filing in 2024](https://techcrunch.com/2023/10/17/irs-will-pilot-free-direct-tax-filing-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
