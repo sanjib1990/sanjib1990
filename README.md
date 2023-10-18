@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space history and future leap off the screen at NASA&#39;s Kennedy Space Center](https://www.space.com/kennedy-entry-experience-nasa-visitor-complex)
-- [Canada to launch new satellites to monitor climate change, gather military data](https://www.space.com/canadian-radarsat-satellite-earth-observation-funding)
-- [Meta is bringing its Telegram-like broadcast channels to Facebook and Messenger](https://techcrunch.com/2023/10/18/meta-is-bringing-its-telegram-like-broadcast-channels-to-facebook-and-messenger/)
-- [&#39;Astronaut archaeology&#39; could improve space station design. Here&#39;s how](https://www.space.com/international-space-station-astronaut-archaeology-study)
-- [FTX misused customer funds, accounting expert who assisted in Enron prosecution testifies](https://techcrunch.com/2023/10/18/ftx-misused-customer-funds-accounting-expert-who-assisted-in-enron-prosecution-testifies/)
+- [Reddit may have killed Apollo, but the developer’s new Pixel Pals app has hit ~50K subscribers](https://techcrunch.com/2023/10/18/reddit-may-have-killed-apollo-but-the-developers-new-pixel-pals-app-has-hit-50k-subscribers/)
+- [NBC&#39;s &#39;Quantum Leap&#39; hops back in time to investigate UFOs in this week&#39;s spooky episode](https://www.space.com/quantum-leap-ufos-closure-encounters-episode-review)
+- [Tesla’s solar business is tanking but energy storage is making up for it](https://techcrunch.com/2023/10/18/teslas-solar-business-is-tanking-but-energy-storage-is-making-up-for-it/)
+- [Tesla Q3 profit falls 44% on EV price cuts](https://techcrunch.com/2023/10/18/tesla-q3-profits-fall-44-on-ev-price-cuts/)
+- [India wants to land astronauts on the moon in 2040](https://www.space.com/india-land-astronauts-moon-2040)
 <!-- BLOG-POST-LIST:END -->
 
 ---
