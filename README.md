@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exclusive: KKR just closed its third tech growth fund with roughly $3 billion, $400 million of which came from KKR](https://techcrunch.com/2023/10/18/exclusive-kkr-just-closed-its-third-tech-growth-fund-with-roughly-3-billion-400-million-of-which-came-from-kkr/)
+- [Ask Sophie: How does my immigration status affect export control licensing to build in space tech?](https://techcrunch.com/2023/10/18/ask-sophie-how-does-my-immigration-status-affect-export-control-licensing-to-build-in-space-tech/)
+- [Hacker leaks millions more 23andMe user records on cybercrime forum](https://techcrunch.com/2023/10/18/hacker-leaks-millions-more-23andme-user-records-on-cybercrime-forum/)
+- [All hail the &lpar;eventual&rpar; Plaid IPO](https://techcrunch.com/2023/10/18/all-hail-the-eventual-plaid-ipo/)
 - [A massive &#39;zombie&#39; star is rampaging away from its home cluster](https://www.space.com/zombie-star-rampaging-from-nearby-star-cluster)
-- [Microsoft launches Radius, an open-source application platform for the cloud-native era](https://techcrunch.com/2023/10/18/microsoft-launches-radius-an-open-source-application-platform-for-the-cloud/)
-- [5 investors on the pros and cons of open source AI business models](https://techcrunch.com/2023/10/18/pros-cons-open-source-ai-business-models/)
-- [Plaid taps former Expedia exec as its new chief financial officer, says ‘no timeline’ for IPO](https://techcrunch.com/2023/10/18/plaid-taps-former-expedia-exec-as-its-new-chief-financial-officer-says-no-plans-to-ipo-at-this-time/)
-- [Anti-ChatGPT app Superfy uses AI to match people for live chats and answers to queries](https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
