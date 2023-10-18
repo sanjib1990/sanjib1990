@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit may have killed Apollo, but the developer’s new Pixel Pals app has hit ~50K subscribers](https://techcrunch.com/2023/10/18/reddit-may-have-killed-apollo-but-the-developers-new-pixel-pals-app-has-hit-50k-subscribers/)
-- [NBC&#39;s &#39;Quantum Leap&#39; hops back in time to investigate UFOs in this week&#39;s spooky episode](https://www.space.com/quantum-leap-ufos-closure-encounters-episode-review)
-- [Tesla’s solar business is tanking but energy storage is making up for it](https://techcrunch.com/2023/10/18/teslas-solar-business-is-tanking-but-energy-storage-is-making-up-for-it/)
-- [Tesla Q3 profit falls 44% on EV price cuts](https://techcrunch.com/2023/10/18/tesla-q3-profits-fall-44-on-ev-price-cuts/)
-- [India wants to land astronauts on the moon in 2040](https://www.space.com/india-land-astronauts-moon-2040)
+- [Queen guitar legend Brian May helps analyze NASA&#39;s OSIRIS-REx asteroid samples](https://www.space.com/nasa-osiris-rex-brian-may-queen-guitarist-helps-analyze-asteroid-sample)
+- [Sequoia faces Congressional scrutiny over investments in China](https://techcrunch.com/2023/10/18/sequoia-faces-congressional-scrutiny-over-investments-in-china/)
+- [Tesla Cybertruck deliveries set for Nov 30](https://techcrunch.com/2023/10/18/tesla-cybertruck-deliveries-set-for-nov-30/)
+- [SpaceX aims to launch 144 missions next year](https://www.space.com/spacex-launch-144-missions-2024)
+- [Reddit may have killed Apollo, but the developer’s Pixel Pals app has hit ~50K subscribers](https://techcrunch.com/2023/10/18/reddit-may-have-killed-apollo-but-the-developers-new-pixel-pals-app-has-hit-50k-subscribers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
