@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Objective emerges from stealth to deliver multimodal search to developers as an API platform](https://techcrunch.com/2023/10/18/objective-emerges-from-stealth-to-deliver-multimodal-search-to-developers-as-an-api-platform/)
-- [OpenAI formally brings web search to ChatGPT as DALL-E 3 integration arrives in beta](https://techcrunch.com/2023/10/18/openai-formally-brings-bing-powered-search-to-chatgpt-as-dall-e-3-arrives-in-beta/)
-- [Dwarf planet Ceres could be a great place to hunt for alien life. Here&#39;s why](https://www.space.com/dwarf-planet-ceres-organic-molecules-asteroid-impacts)
-- [Galactic archeology reveals Milky Way&#39;s neighbor Andromeda has a violent past](https://www.space.com/galactic-archeology-milky-way-andromeda-violent-past)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Biden further chokes off China’s AI chip supply with Nvidia bans](https://techcrunch.com/2023/10/18/biden-china-nvidia-a800-h800-chips/)
+- [Snap partners with edtech company Inspirit to bring its AR tech to 50 US schools](https://techcrunch.com/2023/10/18/snap-partners-edtech-company-inspirit-bring-ar-tech-50-us-schools/)
+- [NASA astronaut snaps photo of solar eclipse from the space station](https://www.space.com/nasa-astronaut-solar-eclipse-october-2023-iss-photo)
+- [Passwordless authentication startup SecureW2 raises $80M from Insight Partners](https://techcrunch.com/2023/10/18/passwordless-authentication-startup-securew2-raises-80m-from-insight-partners/)
+- [Darwinium brings digital security and fraud prevention to the perimeter](https://techcrunch.com/2023/10/18/darwinium-brings-digital-security-and-fraud-prevention-to-the-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
