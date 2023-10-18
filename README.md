@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anti-ChatGPT app Superfly uses AI to match people for live chats and answers to queries](https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/)
-- [Anyplace, a startup aimed at giving ‘digital nomads’ a comfortable place to work, nearly doubles valuation](https://techcrunch.com/2023/10/18/anyplace-a-startup-aimed-at-giving-digital-nomads-a-comfortable-place-to-work-nearly-doubles-valuation-with-new-8-27m-round/)
-- [Russia and China-backed hackers are exploiting WinRAR zero-day bug](https://techcrunch.com/2023/10/18/russia-sandworm-fancy-bear-china-winrar-zero-day/)
-- [Meet two open source challengers to OpenAI’s ‘multimodal’ GPT-4V](https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/)
-- [Nvidia brings generative AI compatibility to robotics platforms](https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/)
+- [A massive &#39;zombie&#39; star is rampaging away from its home cluster](https://www.space.com/zombie-star-rampaging-from-nearby-star-cluster)
+- [Microsoft launches Radius, an open-source application platform for the cloud-native era](https://techcrunch.com/2023/10/18/microsoft-launches-radius-an-open-source-application-platform-for-the-cloud/)
+- [5 investors on the pros and cons of open source AI business models](https://techcrunch.com/2023/10/18/pros-cons-open-source-ai-business-models/)
+- [Plaid taps former Expedia exec as its new chief financial officer, says ‘no timeline’ for IPO](https://techcrunch.com/2023/10/18/plaid-taps-former-expedia-exec-as-its-new-chief-financial-officer-says-no-plans-to-ipo-at-this-time/)
+- [Anti-ChatGPT app Superfy uses AI to match people for live chats and answers to queries](https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
