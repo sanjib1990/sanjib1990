@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Biden further chokes off China’s AI chip supply with Nvidia bans](https://techcrunch.com/2023/10/18/biden-china-nvidia-a800-h800-chips/)
-- [Snap partners with edtech company Inspirit to bring its AR tech to 50 US schools](https://techcrunch.com/2023/10/18/snap-partners-edtech-company-inspirit-bring-ar-tech-50-us-schools/)
-- [NASA astronaut snaps photo of solar eclipse from the space station](https://www.space.com/nasa-astronaut-solar-eclipse-october-2023-iss-photo)
-- [Passwordless authentication startup SecureW2 raises $80M from Insight Partners](https://techcrunch.com/2023/10/18/passwordless-authentication-startup-securew2-raises-80m-from-insight-partners/)
-- [Darwinium brings digital security and fraud prevention to the perimeter](https://techcrunch.com/2023/10/18/darwinium-brings-digital-security-and-fraud-prevention-to-the-edge/)
+- [RevRoad Capital raises $61 million for early-stage startups in Utah and beyond](https://techcrunch.com/2023/10/18/revroad-capital-raises-61-million-for-early-stage-startups-in-utah-and-beyond/)
+- [Statement, a cash flow management platform for enterprises, raises $12M](https://techcrunch.com/2023/10/18/statement-a-cash-flow-management-platform-for-enterprises-raises-12m/)
+- [Whisper Aero unveils ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
+- [Allara, a telehealth platform for women with chronic hormonal conditions, raises $10M Series A](https://techcrunch.com/2023/10/18/allara-a-telehealth-platform-for-women-with-chronic-hormonal-conditions-raises-10m-series-a/)
+- [NASA&#39;s Parker Solar Probe smashes record for fastest human-made object](https://www.space.com/nasa-parker-solar-probe-fastest-man-made-object-breaks-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
