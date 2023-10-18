@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero to Employment Hero: HR unicorn nabs $167M to be Australia’s ‘biggest export since Atlassian’](https://techcrunch.com/2023/10/18/zero-to-employment-hero-hr-unicorn-nabs-167m-to-be-australias-biggest-export-since-atlassian/)
+- [Made Renovation, which intrigued, then infuriated, its customers, is shutting down](https://techcrunch.com/2023/10/18/made-renovation-which-intrigued-then-infuriated-its-customers-is-shutting-down/)
 - [Queen guitar legend Brian May helps analyze NASA&#39;s OSIRIS-REx asteroid samples](https://www.space.com/nasa-osiris-rex-brian-may-queen-guitarist-helps-analyze-asteroid-sample)
 - [Sequoia faces Congressional scrutiny over investments in China](https://techcrunch.com/2023/10/18/sequoia-faces-congressional-scrutiny-over-investments-in-china/)
-- [Tesla Cybertruck deliveries set for Nov 30](https://techcrunch.com/2023/10/18/tesla-cybertruck-deliveries-set-for-nov-30/)
-- [SpaceX aims to launch 144 missions next year](https://www.space.com/spacex-launch-144-missions-2024)
-- [Reddit may have killed Apollo, but the developer’s Pixel Pals app has hit ~50K subscribers](https://techcrunch.com/2023/10/18/reddit-may-have-killed-apollo-but-the-developers-new-pixel-pals-app-has-hit-50k-subscribers/)
+- [Tesla Cybertruck deliveries set for Nov. 30](https://techcrunch.com/2023/10/18/tesla-cybertruck-deliveries-set-for-nov-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
