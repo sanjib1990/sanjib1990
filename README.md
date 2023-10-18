@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How AI-powered lasers could help with space debris](https://www.space.com/ai-powered-lasers-could-help-with-space-debris)
+- [Was Loom’s $975M exit a fair price?](https://techcrunch.com/2023/10/18/was-looms-975m-exit-a-fair-price/)
+- [Jupiter&#39;s volcanic moon Io looks stunning in new Juno probe photos](https://www.space.com/jupiter-moon-io-juno-probe-photos-october-2023)
+- [Amazon begins testing Agility’s Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
 - [Chrome’s search bar now has smarter autocomplete, automatic typo fixes and more](https://techcrunch.com/2023/10/18/google-chromes-search-bar-now-has-smarter-autocomplete-automatic-typo-fixes-and-more/)
-- [Meet Alliance DAO’s latest accelerator cohort of startups building in crypto winter](https://techcrunch.com/2023/10/18/alliance-dao-crypto-demo-day/)
-- [New &#39;galactic atlas&#39; offers stunning details of 400,000 galaxies near the Milky Way](https://www.space.com/galactic-atlas-reveals-milky-way-galaxies)
-- [Amazon and MIT are partnering to study how robots impact jobs](https://techcrunch.com/2023/10/18/amazon-and-mit-are-partnering-to-study-how-robots-impact-jobs/)
-- [Microsoft highlights new Xbox accessibility features and the gamers who use them](https://techcrunch.com/2023/10/18/microsoft-highlights-new-xbox-accessibility-features-and-the-gamers-who-use-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
