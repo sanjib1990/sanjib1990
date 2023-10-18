@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The venture market is overcorrecting](https://techcrunch.com/2023/10/18/the-venture-market-is-overcorrecting/)
+- [New York VC firms form alliance to back diversity](https://techcrunch.com/2023/10/18/new-york-vc-firms-form-alliance-to-back-diversity/)
+- [YouTube’s latest features aim to help creators make more money from shoppable videos](https://techcrunch.com/2023/10/18/youtubes-latest-features-aim-to-help-creators-make-more-money-from-shoppable-videos/)
 - [RevRoad Capital raises $61 million for early-stage startups in Utah and beyond](https://techcrunch.com/2023/10/18/revroad-capital-raises-61-million-for-early-stage-startups-in-utah-and-beyond/)
 - [Statement, a cash flow management platform for enterprises, raises $12M](https://techcrunch.com/2023/10/18/statement-a-cash-flow-management-platform-for-enterprises-raises-12m/)
-- [Whisper Aero unveils ultra-quiet electric leaf blower, powered by aerospace tech](https://techcrunch.com/2023/10/18/whisper-aero-unveils-ultra-quiet-electric-leaf-blower-powered-by-aerospace-tech/)
-- [Allara, a telehealth platform for women with chronic hormonal conditions, raises $10M Series A](https://techcrunch.com/2023/10/18/allara-a-telehealth-platform-for-women-with-chronic-hormonal-conditions-raises-10m-series-a/)
-- [NASA&#39;s Parker Solar Probe smashes record for fastest human-made object](https://www.space.com/nasa-parker-solar-probe-fastest-man-made-object-breaks-record)
 <!-- BLOG-POST-LIST:END -->
 
 ---
