@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI-powered lasers could help with space debris](https://www.space.com/ai-powered-lasers-could-help-with-space-debris)
-- [Was Loom’s $975M exit a fair price?](https://techcrunch.com/2023/10/18/was-looms-975m-exit-a-fair-price/)
-- [Jupiter&#39;s volcanic moon Io looks stunning in new Juno probe photos](https://www.space.com/jupiter-moon-io-juno-probe-photos-october-2023)
-- [Amazon begins testing Agility’s Digit robot for warehouse work](https://techcrunch.com/2023/10/18/amazon-begins-testing-agilitys-digit-robot-for-warehouse-work/)
-- [Chrome’s search bar now has smarter autocomplete, automatic typo fixes and more](https://techcrunch.com/2023/10/18/google-chromes-search-bar-now-has-smarter-autocomplete-automatic-typo-fixes-and-more/)
+- [Space history and future leap off the screen at NASA&#39;s Kennedy Space Center](https://www.space.com/kennedy-entry-experience-nasa-visitor-complex)
+- [Canada to launch new satellites to monitor climate change, gather military data](https://www.space.com/canadian-radarsat-satellite-earth-observation-funding)
+- [Meta is bringing its Telegram-like broadcast channels to Facebook and Messenger](https://techcrunch.com/2023/10/18/meta-is-bringing-its-telegram-like-broadcast-channels-to-facebook-and-messenger/)
+- [&#39;Astronaut archaeology&#39; could improve space station design. Here&#39;s how](https://www.space.com/international-space-station-astronaut-archaeology-study)
+- [FTX misused customer funds, accounting expert who assisted in Enron prosecution testifies](https://techcrunch.com/2023/10/18/ftx-misused-customer-funds-accounting-expert-who-assisted-in-enron-prosecution-testifies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
