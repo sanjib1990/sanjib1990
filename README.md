@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Objective emerges from stealth to deliver multimodal search to developers as an API platform](https://techcrunch.com/2023/10/18/objective-emerges-from-stealth-to-deliver-multimodal-search-to-developers-as-an-api-platform/)
+- [OpenAI formally brings web search to ChatGPT as DALL-E 3 integration arrives in beta](https://techcrunch.com/2023/10/18/openai-formally-brings-bing-powered-search-to-chatgpt-as-dall-e-3-arrives-in-beta/)
+- [Dwarf planet Ceres could be a great place to hunt for alien life. Here&#39;s why](https://www.space.com/dwarf-planet-ceres-organic-molecules-asteroid-impacts)
 - [Galactic archeology reveals Milky Way&#39;s neighbor Andromeda has a violent past](https://www.space.com/galactic-archeology-milky-way-andromeda-violent-past)
 - [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Zygon helps startups avoid data breaches from SaaS providers](https://techcrunch.com/2023/10/17/zygon-helps-startups-avoid-data-breaches-from-saas-providers/)
-- [Flanks grabs additional capital to automate wealth services in Europe](https://techcrunch.com/2023/10/17/flanks-automate-wealth-management-europe-fintech/)
-- [Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars](https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
