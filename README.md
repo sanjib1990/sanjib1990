@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Could Neptune&#39;s largest moon swing a spacecraft into the planet&#39;s orbit?](https://www.space.com/neptune-triton-spacecraft-orbit-capture-assist)
-- [Waymo’s new simulator helps researchers train more realistic agents](https://techcrunch.com/2023/10/19/waymos-new-simulator-helps-researchers-train-more-realistic-agents/)
-- [FCC begins second quest for net neutrality](https://techcrunch.com/2023/10/19/fcc-begins-second-quest-for-net-neutrality/)
-- [All eyes on Tesla’s margins](https://techcrunch.com/2023/10/19/all-eyes-on-teslas-margins/)
-- [Hackers exploit zero-day to compromise tens of thousands of Cisco devices](https://techcrunch.com/2023/10/19/hackers-exploit-zero-day-to-compromise-tens-of-thousands-of-cisco-devices/)
+- [Tofu automates content creation for massive omnichannel B2B marketing campaigns](https://techcrunch.com/2023/10/19/tofu/)
+- [OpenAI debates when to release its AI-generated image detector](https://techcrunch.com/2023/10/19/openai-debates-when-to-release-its-ai-generated-image-detector/)
+- [Discord kills Gas, the anonymous compliments app it bought nine months ago](https://techcrunch.com/2023/10/19/discord-kills-gas-anonymous-compliments-app-bought-nine-months-ago/)
+- [Astronauts embark on a surreal survival odyssey in new series &#39;Scavengers Reign&#39; &lpar;exclusive&rpar;](https://www.space.com/space-survival-series-scavengers-reign-exclusive)
+- [With X, Musk is playing the bottoms-up game](https://techcrunch.com/2023/10/19/why-musk-is-thinking-bottoms-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
