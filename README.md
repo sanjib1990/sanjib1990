@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google takes aim at Duolingo with new English tutoring tool](https://techcrunch.com/2023/10/19/google-takes-aim-at-duolingo-with-new-english-tutoring-tool/)
+- [Record-breaking radio burst could help us find the universe&#39;s missing matter](https://www.space.com/record-breaking-radio-burst-help-find-universe-missing-matter)
+- [Pebble’s $100k+ EV travel trailer can live off the grid for 7 days](https://techcrunch.com/2023/10/19/pebbles-100k-ev-travel-trailer-can-live-off-the-grid-for-7-days/)
+- [James Webb Space Telescope spots jet stream on Jupiter stronger than a Category 5 hurricane](https://www.space.com/james-webb-space-telescope-jupiter-jet-stream-photo)
 - [Tofu automates content creation for massive omnichannel B2B marketing campaigns](https://techcrunch.com/2023/10/19/tofu/)
-- [OpenAI debates when to release its AI-generated image detector](https://techcrunch.com/2023/10/19/openai-debates-when-to-release-its-ai-generated-image-detector/)
-- [Discord kills Gas, the anonymous compliments app it bought nine months ago](https://techcrunch.com/2023/10/19/discord-kills-gas-anonymous-compliments-app-bought-nine-months-ago/)
-- [Astronauts embark on a surreal survival odyssey in new series &#39;Scavengers Reign&#39; &lpar;exclusive&rpar;](https://www.space.com/space-survival-series-scavengers-reign-exclusive)
-- [With X, Musk is playing the bottoms-up game](https://techcrunch.com/2023/10/19/why-musk-is-thinking-bottoms-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
