@@ -97,7 +97,7 @@
 - [Google Maps partners with India’s ONDC to add metro ticket booking](https://techcrunch.com/2023/10/19/google-maps-to-let-users-in-india-book-metro-tickets-ondc/)
 - [WhatsApp will now let users log into two accounts simultaneously](https://techcrunch.com/2023/10/19/whatsapp-will-now-let-log-into-two-accounts-simultaneously/)
 - [Google to manufacture Pixel smartphones in India](https://techcrunch.com/2023/10/18/google-to-manufacture-pixel-smartphones-in-india/)
-- [Google Pay makes big consumer and merchant lending push in India](https://techcrunch.com/2023/10/18/google-pay-deepens-consumer-and-merchant-lending-offerings-in-india/)
+- [Google makes big consumer and merchant lending push in India](https://techcrunch.com/2023/10/18/google-pay-deepens-consumer-and-merchant-lending-offerings-in-india/)
 - [Google taps gen-AI to help users in India search through government welfare schemes](https://techcrunch.com/2023/10/18/google-taps-gen-ai-to-help-users-in-india-search-through-government-welfare-schemes/)
 <!-- BLOG-POST-LIST:END -->
 
