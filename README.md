@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Early-stage founders are optimistic about raising again — but not all of them](https://techcrunch.com/2023/10/19/early-stage-founders-survey-january-ventures/)
-- [Vopero, now with $4 million more, provides clothing resale marketplace for Latin America](https://techcrunch.com/2023/10/19/vopero-clothing-resale-latin-america-recommerce/)
-- [Citi inks deal with fintech Navan, says ‘not having to file an expense report is like nirvana’](https://techcrunch.com/2023/10/19/citi-inks-deal-with-fintech-navan-says-not-having-to-file-an-expense-report-is-like-nirvana/)
-- [NY Attorney General sues Gemini, Genesis and DCG for allegedly defrauding crypto investors of over $1B](https://techcrunch.com/2023/10/19/ny-attorney-general-sues-gemini-genesis-and-dcg-for-defrauding-crypto-investors-of-over-1b/)
-- [Virgin Galactic sets date, announces crew for 5th commercial spaceflight](https://www.space.com/virgin-galactic-sets-date-fifth-commercial-spaceflight)
+- [&#39;99% totality&#39; does not exist! Why you need to get to the path for April 8, 2024, total solar eclipse](https://www.space.com/why-99-percent-totality-does-not-exist-need-to-be-on-total-solar-eclipse-path-april-2024)
+- [Warmly pivots from Zoom tool to directing warm leads to sales](https://techcrunch.com/2023/10/19/warmly-pivots-from-zoom-tool-to-directing-warm-leads-to-sales/)
+- [Amazon adds social shopping features, including a way to ask friends for product feedback](https://techcrunch.com/2023/10/19/amazon-adds-social-shopping-features-including-a-way-to-ask-friends-for-product-feedback/)
+- [SynFutures raises $22 million Series B, bucking ‘crypto winter’](https://techcrunch.com/2023/10/19/synfutures-raises-22-million-round-bucking-crypto-winter/)
+- [After X, Meta and TikTok get EU request for info on response to Israel-Hamas war](https://techcrunch.com/2023/10/19/meta-tiktok-eu-rfi-dsa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
