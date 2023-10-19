@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [French VC firm Founders Future just acquired an equity crowdfunding platform, Sowefund](https://techcrunch.com/2023/10/18/french-vc-firm-founders-future-just-acquired-an-equity-crowdfunding-platform-sowefund/)
 - [GM, Cruise and Honda to launch robotaxi service in Japan](https://techcrunch.com/2023/10/18/gm-cruise-and-honda-to-launch-robotaxi-service-in-japan/)
 - [Elon Musk warns Cybertruck won’t be profitable until 2025](https://techcrunch.com/2023/10/18/elon-musk-warns-cybertruck-wont-be-profitable-until-2025/)
 - [Trans healthcare startup Plume lays off dozens of workers](https://techcrunch.com/2023/10/18/trans-healthcare-startup-plume-lays-off-dozens-of-workers/)
 - [Zero to Employment Hero: HR unicorn nabs $167M to be Australia’s ‘biggest export since Atlassian’](https://techcrunch.com/2023/10/18/zero-to-employment-hero-hr-unicorn-nabs-167m-to-be-australias-biggest-export-since-atlassian/)
-- [Made Renovation, which intrigued, then infuriated, its customers, is shutting down](https://techcrunch.com/2023/10/18/made-renovation-which-intrigued-then-infuriated-its-customers-is-shutting-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
