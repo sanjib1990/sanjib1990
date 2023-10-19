@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Trek: Lower Decks&#39; creator shares how to find humor in Starfleet](https://www.space.com/star-trek-lower-decks-comic-con-humor-starfleet)
-- [Q3 data for women is just more of the same](https://techcrunch.com/2023/10/19/q3-data-for-women-is-just-more-of-the-same/)
-- [Instagram co-founders’ app Artifact now let you discover recommended places, too](https://techcrunch.com/2023/10/19/instagram-co-founders-app-artifact-now-let-you-discover-recommended-places-too/)
-- [Threads’ latest growth hack is showing posts on Facebook](https://techcrunch.com/2023/10/19/threads-latest-growth-hack-is-showing-posts-on-facebook/)
-- [Catch, offering health insurance for gig workers, relaunches with new owners](https://techcrunch.com/2023/10/19/catch-health-insurance-gig-workers-relaunches/)
+- [Discord is growing its developer monetization efforts](https://techcrunch.com/2023/10/19/discord-is-growing-its-developer-monetization-efforts/)
+- [Google Meet now lets you apply a skin-smoothing effect with its new portrait touch-up mode](https://techcrunch.com/2023/10/19/google-meet-now-lets-you-apply-a-skin-smoothing-effect-with-its-new-portrait-touch-up-mode/)
+- [Telegram is still leaking user IP addresses to contacts](https://techcrunch.com/2023/10/19/telegram-is-still-leaking-user-ip-addresses-to-contacts/)
+- [OnePlus Open is a foldable contender](https://techcrunch.com/2023/10/19/oneplus-open-is-a-foldable-contender/)
+- [Iink puts its digital stamp on property insurance claim lending following $12M Series A](https://techcrunch.com/2023/10/19/iink-digital-property-insurance-claim-lending-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
