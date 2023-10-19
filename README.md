@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sidebar thinks the key to career dev is small peer groups](https://techcrunch.com/2023/10/19/sidebar-thinks-the-key-to-career-dev-is-small-peer-groups/)
 - [Burned-up space junk pollutes Earth&#39;s upper atmosphere, NASA planes find](https://www.space.com/air-pollution-reentering-space-junk-detected)
 - [Wildfires burned a staggering 30% of Brazil&#39;s Pantanal wetlands in 2020, satellite data shows](https://www.space.com/2020-wildfires-brazil-pantanal-satellite-data)
 - [Netflix raises prices again after reporting strong subscriber growth](https://techcrunch.com/2023/10/19/netflix-raises-prices-again-after-reporting-strong-subscriber-growth/)
 - [Google Maps partners with India’s ONDC to add metro ticket booking](https://techcrunch.com/2023/10/19/google-maps-to-let-users-in-india-book-metro-tickets-ondc/)
-- [WhatsApp will now let users log into two accounts simultaneously](https://techcrunch.com/2023/10/19/whatsapp-will-now-let-log-into-two-accounts-simultaneously/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
