@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Varda Space will land its next capsule in Australia as it continues to coordinate first mission reentry](https://techcrunch.com/2023/10/19/varda-space-will-land-its-next-capsule-in-australia-as-it-continues-to-coordinate-first-mission-reentry/)
 - [NASA tests new kind of Artemis moon-rocket engine in dramatic &#39;hot fire&#39; test &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-rocket-engine-hotfire-eo525-first-test)
+- [All I want from the internet is Homer Simpson singing ‘Smells Like Teen Spirit’](https://techcrunch.com/2023/10/19/all-i-want-from-the-internet-is-homer-simpson-singing-smells-like-teen-spirit/)
 - [Snake-like magnetic fields on the sun bring scientists closer to solving a major solar mystery](https://www.space.com/sun-coronal-heating-mystery-snake-like-magnetic-fields)
-- [The search for extraterrestrial intelligence gets a new home at Oxford](https://www.space.com/news/the-search-for-extraterrestrial-intelligence-gets-a-new-home-at-oxford)
-- [Record-breaking radio burst could help us find the universe&#39;s missing matter](https://www.space.com/record-breaking-radio-burst-help-find-universe-missing-matter)
-- [James Webb Space Telescope spots jet stream on Jupiter stronger than a Category 5 hurricane](https://www.space.com/james-webb-space-telescope-jupiter-jet-stream-photo)
+- [Three leading space companies agree: no new regulations on human spaceflight](https://techcrunch.com/2023/10/19/three-leading-space-companies-agree-no-new-regulations-on-human-spaceflight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
