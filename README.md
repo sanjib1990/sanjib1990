@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA tests new kind of Artemis moon-rocket engine in dramatic &#39;hot fire&#39; test &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-rocket-engine-hotfire-eo525-first-test)
 - [Snake-like magnetic fields on the sun bring scientists closer to solving a major solar mystery](https://www.space.com/sun-coronal-heating-mystery-snake-like-magnetic-fields)
 - [The search for extraterrestrial intelligence gets a new home at Oxford](https://www.space.com/news/the-search-for-extraterrestrial-intelligence-gets-a-new-home-at-oxford)
 - [Record-breaking radio burst could help us find the universe&#39;s missing matter](https://www.space.com/record-breaking-radio-burst-help-find-universe-missing-matter)
 - [James Webb Space Telescope spots jet stream on Jupiter stronger than a Category 5 hurricane](https://www.space.com/james-webb-space-telescope-jupiter-jet-stream-photo)
-- [Astronauts embark on a surreal survival odyssey in new series &#39;Scavengers Reign&#39; &lpar;exclusive&rpar;](https://www.space.com/space-survival-series-scavengers-reign-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
