@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord is growing its developer monetization efforts](https://techcrunch.com/2023/10/19/discord-is-growing-its-developer-monetization-efforts/)
-- [Google Meet now lets you apply a skin-smoothing effect with its new portrait touch-up mode](https://techcrunch.com/2023/10/19/google-meet-now-lets-you-apply-a-skin-smoothing-effect-with-its-new-portrait-touch-up-mode/)
-- [Telegram is still leaking user IP addresses to contacts](https://techcrunch.com/2023/10/19/telegram-is-still-leaking-user-ip-addresses-to-contacts/)
-- [OnePlus Open is a foldable contender](https://techcrunch.com/2023/10/19/oneplus-open-is-a-foldable-contender/)
-- [Iink puts its digital stamp on property insurance claim lending following $12M Series A](https://techcrunch.com/2023/10/19/iink-digital-property-insurance-claim-lending-fintech/)
+- [Could Neptune&#39;s largest moon swing a spacecraft into the planet&#39;s orbit?](https://www.space.com/neptune-triton-spacecraft-orbit-capture-assist)
+- [Waymo’s new simulator helps researchers train more realistic agents](https://techcrunch.com/2023/10/19/waymos-new-simulator-helps-researchers-train-more-realistic-agents/)
+- [FCC begins second quest for net neutrality](https://techcrunch.com/2023/10/19/fcc-begins-second-quest-for-net-neutrality/)
+- [All eyes on Tesla’s margins](https://techcrunch.com/2023/10/19/all-eyes-on-teslas-margins/)
+- [Hackers exploit zero-day to compromise tens of thousands of Cisco devices](https://techcrunch.com/2023/10/19/hackers-exploit-zero-day-to-compromise-tens-of-thousands-of-cisco-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
