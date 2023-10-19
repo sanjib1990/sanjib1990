@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Oblivious Transfer - Computerphile](https://www.youtube.com/watch?v=wE5cl8J27Is)
-- [Complete DevSecOps Bootcamp - Most Extensive Training OUT NOW 🚀](https://www.youtube.com/watch?v=cdb6ernButc)
-- [Budget Self-Driving Car - Computerphile](https://www.youtube.com/watch?v=5G56i_he79M)
-- [36. Neocortex, part 2](https://www.youtube.com/watch?v=xZ72LPLHVSY)
-- [34. Corpus striatum, part 2](https://www.youtube.com/watch?v=TeNrTKjJJ5g)
+- [Lec27: Sociobiology and culture](https://www.youtube.com/watch?v=RjdAI2ycYhI)
+- [Lec26: Critique of cultural determinism](https://www.youtube.com/watch?v=Q8p2q9GFBMk)
+- [Lec23: Sociobiology, mating behaviors and scientific method](https://www.youtube.com/watch?v=9Nlb3rIoCIc)
+- [Lec20: Sociobiology](https://www.youtube.com/watch?v=-HPdmgS88Og)
+- [Lec18: Mating and reproduction](https://www.youtube.com/watch?v=9mYYNtaZJp8)
 <!-- YOUTUBE:END -->
 
 ---
