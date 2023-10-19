@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sidebar thinks the key to career dev is small peer groups](https://techcrunch.com/2023/10/19/sidebar-thinks-the-key-to-career-dev-is-small-peer-groups/)
-- [Burned-up space junk pollutes Earth&#39;s upper atmosphere, NASA planes find](https://www.space.com/air-pollution-reentering-space-junk-detected)
-- [Wildfires burned a staggering 30% of Brazil&#39;s Pantanal wetlands in 2020, satellite data shows](https://www.space.com/2020-wildfires-brazil-pantanal-satellite-data)
-- [Netflix raises prices again after reporting strong subscriber growth](https://techcrunch.com/2023/10/19/netflix-raises-prices-again-after-reporting-strong-subscriber-growth/)
-- [Google Maps partners with India’s ONDC to add metro ticket booking](https://techcrunch.com/2023/10/19/google-maps-to-let-users-in-india-book-metro-tickets-ondc/)
+- [Early-stage founders are optimistic about raising again — but not all of them](https://techcrunch.com/2023/10/19/early-stage-founders-survey-january-ventures/)
+- [Vopero, now with $4 million more, provides clothing resale marketplace for Latin America](https://techcrunch.com/2023/10/19/vopero-clothing-resale-latin-america-recommerce/)
+- [Citi inks deal with fintech Navan, says ‘not having to file an expense report is like nirvana’](https://techcrunch.com/2023/10/19/citi-inks-deal-with-fintech-navan-says-not-having-to-file-an-expense-report-is-like-nirvana/)
+- [NY Attorney General sues Gemini, Genesis and DCG for allegedly defrauding crypto investors of over $1B](https://techcrunch.com/2023/10/19/ny-attorney-general-sues-gemini-genesis-and-dcg-for-defrauding-crypto-investors-of-over-1b/)
+- [Virgin Galactic sets date, announces crew for 5th commercial spaceflight](https://www.space.com/virgin-galactic-sets-date-fifth-commercial-spaceflight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
