@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The search for extraterrestrial intelligence gets a new home at Oxford](https://www.space.com/news/the-search-for-extraterrestrial-intelligence-gets-a-new-home-at-oxford)
+- [SBF trial brings in FTX exec and experts, NY AG sues three crypto firms for fraud, Reddit kills blockchain program and FTC sues bankrupt Voyager](https://techcrunch.com/2023/10/19/sbf-trial-brings-in-ftx-exec-and-experts-reddit-kills-blockchain-program-and-ftc-sues-bankrupt-voyager/)
+- [Product Hunt cleans house with layoffs impacting 60% of staff](https://techcrunch.com/2023/10/19/product-hunt-cleans-house-with-layoffs-impacting-60-of-staff/)
+- [SBF asked FTX general counsel to create ‘legal justification’ for using billions in customer funds amid collapse](https://techcrunch.com/2023/10/19/sbf-asked-ftx-general-counsel-to-create-legal-justification-for-using-billions-in-customer-funds-amid-collapse/)
 - [Google takes aim at Duolingo with new English tutoring tool](https://techcrunch.com/2023/10/19/google-takes-aim-at-duolingo-with-new-english-tutoring-tool/)
-- [Record-breaking radio burst could help us find the universe&#39;s missing matter](https://www.space.com/record-breaking-radio-burst-help-find-universe-missing-matter)
-- [Pebble’s $100k+ EV travel trailer can live off the grid for 7 days](https://techcrunch.com/2023/10/19/pebbles-100k-ev-travel-trailer-can-live-off-the-grid-for-7-days/)
-- [James Webb Space Telescope spots jet stream on Jupiter stronger than a Category 5 hurricane](https://www.space.com/james-webb-space-telescope-jupiter-jet-stream-photo)
-- [Tofu automates content creation for massive omnichannel B2B marketing campaigns](https://techcrunch.com/2023/10/19/tofu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
