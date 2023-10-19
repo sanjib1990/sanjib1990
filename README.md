@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk warns Cybertruck won’t be profitable until 2025](https://techcrunch.com/2023/10/18/elon-musk-warns-cybertruck-wont-be-profitable-until-2025/)
+- [Trans healthcare startup Plume lays off dozens of workers](https://techcrunch.com/2023/10/18/trans-healthcare-startup-plume-lays-off-dozens-of-workers/)
 - [Zero to Employment Hero: HR unicorn nabs $167M to be Australia’s ‘biggest export since Atlassian’](https://techcrunch.com/2023/10/18/zero-to-employment-hero-hr-unicorn-nabs-167m-to-be-australias-biggest-export-since-atlassian/)
 - [Made Renovation, which intrigued, then infuriated, its customers, is shutting down](https://techcrunch.com/2023/10/18/made-renovation-which-intrigued-then-infuriated-its-customers-is-shutting-down/)
 - [Queen guitar legend Brian May helps analyze NASA&#39;s OSIRIS-REx asteroid samples](https://www.space.com/nasa-osiris-rex-brian-may-queen-guitarist-helps-analyze-asteroid-sample)
-- [Sequoia faces Congressional scrutiny over investments in China](https://techcrunch.com/2023/10/18/sequoia-faces-congressional-scrutiny-over-investments-in-china/)
-- [Tesla Cybertruck deliveries set for Nov. 30](https://techcrunch.com/2023/10/18/tesla-cybertruck-deliveries-set-for-nov-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
