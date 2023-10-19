@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A warning to software founders developing apps with lean teams and open source code](https://techcrunch.com/2023/10/19/a-warning-to-software-founders-developing-apps-with-lean-teams-and-open-source-code/)
-- [Temasek’s Xero backs Cosmos Innovation’s next-generation solar cell technology](https://techcrunch.com/2023/10/19/cosmosinnovation/)
-- [Poshmark to shut down India, Australia and UK businesses](https://techcrunch.com/2023/10/19/poshmark-international/)
+- [Snake-like magnetic fields on the sun bring scientists closer to solving a major solar mystery](https://www.space.com/sun-coronal-heating-mystery-snake-like-magnetic-fields)
 - [The search for extraterrestrial intelligence gets a new home at Oxford](https://www.space.com/news/the-search-for-extraterrestrial-intelligence-gets-a-new-home-at-oxford)
-- [SBF trial brings in FTX exec and experts, NY AG sues three crypto firms for fraud, Reddit kills blockchain program and FTC sues bankrupt Voyager](https://techcrunch.com/2023/10/19/sbf-trial-brings-in-ftx-exec-and-experts-reddit-kills-blockchain-program-and-ftc-sues-bankrupt-voyager/)
+- [Record-breaking radio burst could help us find the universe&#39;s missing matter](https://www.space.com/record-breaking-radio-burst-help-find-universe-missing-matter)
+- [James Webb Space Telescope spots jet stream on Jupiter stronger than a Category 5 hurricane](https://www.space.com/james-webb-space-telescope-jupiter-jet-stream-photo)
+- [Astronauts embark on a surreal survival odyssey in new series &#39;Scavengers Reign&#39; &lpar;exclusive&rpar;](https://www.space.com/space-survival-series-scavengers-reign-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
