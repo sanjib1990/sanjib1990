@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta has a moderation bias problem, not just a ‘bug,’ that’s suppressing Palestinian voices](https://techcrunch.com/2023/10/19/meta-instagram-palestine-israel-shadowban-censorship-moderation-bias/)
 - [Varda Space will land its next capsule in Australia as it continues to coordinate first mission reentry](https://techcrunch.com/2023/10/19/varda-space-will-land-its-next-capsule-in-australia-as-it-continues-to-coordinate-first-mission-reentry/)
 - [NASA tests new kind of Artemis moon-rocket engine in dramatic &#39;hot fire&#39; test &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-rocket-engine-hotfire-eo525-first-test)
 - [All I want from the internet is Homer Simpson singing ‘Smells Like Teen Spirit’](https://techcrunch.com/2023/10/19/all-i-want-from-the-internet-is-homer-simpson-singing-smells-like-teen-spirit/)
 - [Snake-like magnetic fields on the sun bring scientists closer to solving a major solar mystery](https://www.space.com/sun-coronal-heating-mystery-snake-like-magnetic-fields)
-- [Three leading space companies agree: no new regulations on human spaceflight](https://techcrunch.com/2023/10/19/three-leading-space-companies-agree-no-new-regulations-on-human-spaceflight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
