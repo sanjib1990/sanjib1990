@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Windows has a SECRET MODE??](https://www.youtube.com/watch?v=mdHHDURM31g)
 - [Check your USB cables for this!!](https://www.youtube.com/watch?v=w9EYdWs5Hq4)
 - [Lec27: Sociobiology and culture](https://www.youtube.com/watch?v=RjdAI2ycYhI)
 - [Lec26: Critique of cultural determinism](https://www.youtube.com/watch?v=Q8p2q9GFBMk)
 - [Lec23: Sociobiology, mating behaviors and scientific method](https://www.youtube.com/watch?v=9Nlb3rIoCIc)
-- [Lec20: Sociobiology](https://www.youtube.com/watch?v=-HPdmgS88Og)
 <!-- YOUTUBE:END -->
 
 ---
