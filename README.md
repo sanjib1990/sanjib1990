@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A mud lake on Mars might be hiding signs of life in chaotic terrain](https://www.space.com/mars-chaos-terrain-mud-lake-signs-of-life)
+- [NASA&#39;s Artemis moon astronauts may wear electric field spacesuits to fight pesky lunar dust](https://www.space.com/moon-spacesuit-dust-static-electric-field-hawaii-pacific-university)
 - [Elon Musk confirms X is soon launching two new premium tiers](https://techcrunch.com/2023/10/19/elon-musk-confirms-x-is-soon-launching-two-new-premium-tiers/)
 - [Meta has a moderation bias problem, not just a ‘bug,’ that’s suppressing Palestinian voices](https://techcrunch.com/2023/10/19/meta-instagram-palestine-israel-shadowban-censorship-moderation-bias/)
 - [Varda Space will land its next capsule in Australia as it continues to coordinate first mission reentry](https://techcrunch.com/2023/10/19/varda-space-will-land-its-next-capsule-in-australia-as-it-continues-to-coordinate-first-mission-reentry/)
-- [NASA tests new kind of Artemis moon-rocket engine in dramatic &#39;hot fire&#39; test &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-rocket-engine-hotfire-eo525-first-test)
-- [All I want from the internet is Homer Simpson singing ‘Smells Like Teen Spirit’](https://techcrunch.com/2023/10/19/all-i-want-from-the-internet-is-homer-simpson-singing-smells-like-teen-spirit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
