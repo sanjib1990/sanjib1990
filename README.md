@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TAM/SAM/SOM is only for founders who think small](https://techcrunch.com/2023/10/20/tam-sam-som-is-only-for-founders-who-think-small/)
+- [Toyota hops on Tesla’s EV charging standard, leaving Stellantis and VW as holdouts](https://techcrunch.com/2023/10/20/toyota-hops-on-teslas-ev-charging-standard-leaving-stellantis-and-vw-as-holdouts/)
+- [TC+ Roundup: Did Atlassian pay a fair price for Loom?](https://techcrunch.com/2023/10/20/tc-roundup-did-atlassian-pay-a-fair-price-for-loom/)
+- [Microsoft would like to remind you that they are all-in on AI](https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/)
 - [6 tax-related do’s and don’ts for SaaS startups in 2023](https://techcrunch.com/2023/10/20/6-tax-related-dos-and-donts-for-saas-startups-in-2023/)
-- [Watch NASA&#39;s VIPER moon rover conquer a lunar &#39;obstacle course&#39; &lpar;video&rpar;](https://www.space.com/nasa-viper-moon-rover-simulated-terrain-video)
-- [Tape It’s software for musicians aims to deliver studio-quality noise reduction via AI](https://techcrunch.com/2023/10/20/tape-its-software-for-musicians-aims-to-delivers-studio-quality-noise-reduction-via-ai/)
-- [Authorities confirm RagnarLocker ransomware taken down during international sting](https://techcrunch.com/2023/10/20/ragnarlocker-ransomware-dark-web-portal-seized-in-international-sting/)
-- [I did my expenses in VR and I liked it](https://techcrunch.com/2023/10/20/i-did-my-expenses-in-vr-and-i-liked-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
