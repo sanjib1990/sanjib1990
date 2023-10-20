@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why we must teach AI to empathize with us](https://techcrunch.com/2023/10/20/why-we-must-teach-ai-to-empathize-with-us/)
+- [India launching test flight tonight for future Gaganyaan astronaut mission: Watch it live](https://www.space.com/india-tv-d1-test-flight-future-gaganyaan-astronaut-mission)
+- [Potensic Atom drone review](https://www.space.com/potensic-atom-drone-review)
 - [We’re sending a cake to the next fintech startup that goes public](https://techcrunch.com/2023/10/20/were-sending-a-cake-to-the-next-fintech-startup-that-goes-public/)
 - [Apollo artifacts: NASA salvages parts from Alabama&#39;s rest stop Saturn IB rocket](https://www.space.com/saturn-ib-rocket-alabama-rest-stop-removal)
-- [There’s ‘great hope’ for bitcoin spot ETF approval in 2024, says Bitwise’s general counsel](https://techcrunch.com/2023/10/20/bitcoin-spot-etf-approval-2024/)
-- [China’s tech titans race to invest $340M in OpenAI challenger](https://techcrunch.com/2023/10/20/china-openai-challenger-zhipu/)
-- [Loki season 2 episode 3 review: Timely but not elegant](https://www.space.com/loki-season-2-episode-3-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
