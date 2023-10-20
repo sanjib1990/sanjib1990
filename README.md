@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I did my expenses in VR and I liked it](https://techcrunch.com/2023/10/20/i-did-my-expenses-in-vr-and-i-liked-it/)
+- [Astronomers have learned lots about the universe − but how do they study astronomical objects too distant to visit?](https://www.space.com/expert-voices-how-astronomers-study-distant-astronomical-objects)
+- [International Criminal Court says cyberattack was attempted espionage](https://techcrunch.com/2023/10/20/war-crimes-tribunal-cyberattack-espionage-russia/)
+- [Pitch Deck Teardown: SplitBrick’s $200K angel deck](https://techcrunch.com/2023/10/20/sample-angel-pitch-deck-splitbrick/)
 - [Join Chewbacca in the forests of Kashyyyk in &#39;Star Wars: The Secrets of the Wookiees&#39;](https://www.space.com/star-wars-secrets-of-the-wookiees)
-- [India launching test flight tonight for future Gaganyaan astronaut mission: Watch it live](https://www.space.com/india-tv-d1-test-flight-future-gaganyaan-astronaut-mission)
-- [Potensic Atom drone review](https://www.space.com/potensic-atom-drone-review)
-- [Apollo artifacts: NASA salvages parts from Alabama&#39;s rest stop Saturn IB rocket](https://www.space.com/saturn-ib-rocket-alabama-rest-stop-removal)
-- [Loki season 2 episode 3 review: Timely but not elegant](https://www.space.com/loki-season-2-episode-3-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
