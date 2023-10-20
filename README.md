@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark energy may allow black holes to live in &#39;perfect pair&#39; binaries](https://www.space.com/dark-energy-allow-existence-binary-black-holes)
 - [TAM/SAM/SOM is only for founders who think small](https://techcrunch.com/2023/10/20/tam-sam-som-is-only-for-founders-who-think-small/)
+- [Home of the world&#39;s most powerful telescopes joins the fight against light pollution](https://www.space.com/chile-new-standards-fight-light-pollution)
 - [Toyota hops on Tesla’s EV charging standard, leaving Stellantis and VW as holdouts](https://techcrunch.com/2023/10/20/toyota-hops-on-teslas-ev-charging-standard-leaving-stellantis-and-vw-as-holdouts/)
 - [TC+ Roundup: Did Atlassian pay a fair price for Loom?](https://techcrunch.com/2023/10/20/tc-roundup-did-atlassian-pay-a-fair-price-for-loom/)
-- [Microsoft would like to remind you that they are all-in on AI](https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/)
-- [6 tax-related do’s and don’ts for SaaS startups in 2023](https://techcrunch.com/2023/10/20/6-tax-related-dos-and-donts-for-saas-startups-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
