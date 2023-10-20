@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Embodied AI spins a pen and helps clean the living room in new research](https://techcrunch.com/2023/10/20/embodied-ai-spins-a-pen-and-helps-clean-the-living-room-in-new-research/)
-- [Powerful new radio telescope could unmask the ancient universe — if satellites don&#39;t ruin the view](https://www.space.com/new-radio-telescope-unmask-ancient-universe-satellites-ruin-view)
-- [Luzia lands $10 million in funding to expand its WhatsApp-based chatbot](https://techcrunch.com/2023/10/20/luzia-lands-10-million-in-funding-to-expand-its-whatsapp-based-chatbot/)
-- [The Orionid meteor shower peaks this weekend. Here&#39;s how to see it](https://www.space.com/orionid-meteor-shower-peak-2023-good-year)
-- [NASA&#39;s Artemis moon astronauts may wear electric field spacesuits to fight pesky lunar dust](https://www.space.com/moon-spacesuit-dust-static-electric-field-hawaii-pacific-university)
+- [We’re sending a cake to the next fintech startup that goes public](https://techcrunch.com/2023/10/20/were-sending-a-cake-to-the-next-fintech-startup-that-goes-public/)
+- [Apollo artifacts: NASA salvages parts from Alabama&#39;s rest stop Saturn IB rocket](https://www.space.com/saturn-ib-rocket-alabama-rest-stop-removal)
+- [There’s ‘great hope’ for bitcoin spot ETF approval in 2024, says Bitwise’s general counsel](https://techcrunch.com/2023/10/20/bitcoin-spot-etf-approval-2024/)
+- [China’s tech titans race to invest $340M in OpenAI challenger](https://techcrunch.com/2023/10/20/china-openai-challenger-zhipu/)
+- [Loki season 2 episode 3 review: Timely but not elegant](https://www.space.com/loki-season-2-episode-3-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
