@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Right Stuff&#39; at 40: Director Philip Kaufman on chasing demons in the sky to make a true American classic &lpar;exclusive&rpar;](https://www.space.com/the-right-stuff-at-40-philip-kaufman-director-interview)
+- [Okta says hackers stole customer access tokens from support unit](https://techcrunch.com/2023/10/20/okta-says-hackers-stole-customer-access-tokens-from-support-unit/)
+- [NASA&#39;s Lucy probe will fly by a &#39;dinky&#39; asteroid on Nov. 1. Here&#39;s what to expect &lpar;video&rpar;](https://www.space.com/nasa-lucy-mission-dinkinesh-asteroid-flyby-preview-video)
 - [Dark energy may allow black holes to live in &#39;perfect pair&#39; binaries](https://www.space.com/dark-energy-allow-existence-binary-black-holes)
 - [TAM/SAM/SOM is only for founders who think small](https://techcrunch.com/2023/10/20/tam-sam-som-is-only-for-founders-who-think-small/)
-- [Home of the world&#39;s most powerful telescopes joins the fight against light pollution](https://www.space.com/chile-new-standards-fight-light-pollution)
-- [Toyota hops on Tesla’s EV charging standard, leaving Stellantis and VW as holdouts](https://techcrunch.com/2023/10/20/toyota-hops-on-teslas-ev-charging-standard-leaving-stellantis-and-vw-as-holdouts/)
-- [TC+ Roundup: Did Atlassian pay a fair price for Loom?](https://techcrunch.com/2023/10/20/tc-roundup-did-atlassian-pay-a-fair-price-for-loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
