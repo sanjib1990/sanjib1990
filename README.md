@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX set to launch 21 Starlink satellites from California early Oct. 21](https://www.space.com/spacex-starlink-launch-group-7-5)
 - [&#39;The Right Stuff&#39; at 40: Director Philip Kaufman on chasing demons in the sky to make a true American classic &lpar;exclusive&rpar;](https://www.space.com/the-right-stuff-at-40-philip-kaufman-director-interview)
 - [Okta says hackers stole customer access tokens from support unit](https://techcrunch.com/2023/10/20/okta-says-hackers-stole-customer-access-tokens-from-support-unit/)
 - [NASA&#39;s Lucy probe will fly by a &#39;dinky&#39; asteroid on Nov. 1. Here&#39;s what to expect &lpar;video&rpar;](https://www.space.com/nasa-lucy-mission-dinkinesh-asteroid-flyby-preview-video)
 - [Dark energy may allow black holes to live in &#39;perfect pair&#39; binaries](https://www.space.com/dark-energy-allow-existence-binary-black-holes)
-- [TAM/SAM/SOM is only for founders who think small](https://techcrunch.com/2023/10/20/tam-sam-som-is-only-for-founders-who-think-small/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
