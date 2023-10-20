@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embodied AI spins a pen and helps clean the living room in new research](https://techcrunch.com/2023/10/20/embodied-ai-spins-a-pen-and-helps-clean-the-living-room-in-new-research/)
+- [Powerful new radio telescope could unmask the ancient universe — if satellites don&#39;t ruin the view](https://www.space.com/new-radio-telescope-unmask-ancient-universe-satellites-ruin-view)
 - [Luzia lands $10 million in funding to expand its WhatsApp-based chatbot](https://techcrunch.com/2023/10/20/luzia-lands-10-million-in-funding-to-expand-its-whatsapp-based-chatbot/)
 - [The Orionid meteor shower peaks this weekend. Here&#39;s how to see it](https://www.space.com/orionid-meteor-shower-peak-2023-good-year)
-- [A mud lake on Mars might be hiding signs of life in chaotic terrain](https://www.space.com/mars-chaos-terrain-mud-lake-signs-of-life)
 - [NASA&#39;s Artemis moon astronauts may wear electric field spacesuits to fight pesky lunar dust](https://www.space.com/moon-spacesuit-dust-static-electric-field-hawaii-pacific-university)
-- [Elon Musk confirms X is soon launching two new premium tiers](https://techcrunch.com/2023/10/19/elon-musk-confirms-x-is-soon-launching-two-new-premium-tiers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
