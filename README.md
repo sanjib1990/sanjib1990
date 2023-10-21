@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: Tucker Carlson is a media startup founder — again](https://techcrunch.com/2023/10/21/tucker-carlson-last-country-media-startup/)
 - [This week in AI: Can we trust DeepMind to be ethical?](https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/)
+- [SpaceX to launch 23 Starlink satellites tonight on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-6-24)
 - [NASA Ames, UC Berkeley to build $2 billion space center in Silicon Valley](https://www.space.com/nasa-uc-berkeley-space-research-center)
 - [Scientists propose &#39;missing&#39; law for the evolution of everything in the universe](https://www.space.com/scientists-propose-missing-law-evolution-of-everything-in-the-universe)
-- [It&#39;s &#39;International Observe the Moon Night&#39; tonight. Here&#39;s how to participate](https://www.space.com/international-observe-the-moon-night-2023)
-- [Why is space so dark even though the universe is filled with stars?](https://www.space.com/why-is-space-so-dark-with-so-many-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
