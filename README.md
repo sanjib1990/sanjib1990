@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in AI: Can we trust DeepMind to be ethical?](https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/)
+- [NASA Ames, UC Berkeley to build $2 billion space center in Silicon Valley](https://www.space.com/nasa-uc-berkeley-space-research-center)
 - [Scientists propose &#39;missing&#39; law for the evolution of everything in the universe](https://www.space.com/scientists-propose-missing-law-evolution-of-everything-in-the-universe)
 - [It&#39;s &#39;International Observe the Moon Night&#39; tonight. Here&#39;s how to participate](https://www.space.com/international-observe-the-moon-night-2023)
 - [Why is space so dark even though the universe is filled with stars?](https://www.space.com/why-is-space-so-dark-with-so-many-stars)
-- [SpaceX fires up Starship prototype in deorbit burn test &lpar;video&rpar;](https://www.space.com/spacex-starship-deorbit-burn-test-video)
-- [SpaceX launches Starlink satellites on 75th orbital mission of 2023](https://www.space.com/spacex-starlink-launch-group-7-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
