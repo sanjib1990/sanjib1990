@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists propose &#39;missing&#39; law for the evolution of everything in the universe](https://www.space.com/scientists-propose-missing-law-evolution-of-everything-in-the-universe)
 - [It&#39;s &#39;International Observe the Moon Night&#39; tonight. Here&#39;s how to participate](https://www.space.com/international-observe-the-moon-night-2023)
 - [Why is space so dark even though the universe is filled with stars?](https://www.space.com/why-is-space-so-dark-with-so-many-stars)
 - [SpaceX fires up Starship prototype in deorbit burn test &lpar;video&rpar;](https://www.space.com/spacex-starship-deorbit-burn-test-video)
-- [SpaceX set to launch 21 Starlink satellites from California early Oct. 21](https://www.space.com/spacex-starlink-launch-group-7-5)
-- [&#39;The Right Stuff&#39; at 40: Director Philip Kaufman on chasing demons in the sky to make a true American classic &lpar;exclusive&rpar;](https://www.space.com/the-right-stuff-at-40-philip-kaufman-director-interview)
+- [SpaceX launches Starlink satellites on 75th orbital mission of 2023](https://www.space.com/spacex-starlink-launch-group-7-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
