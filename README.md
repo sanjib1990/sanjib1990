@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In insurtech, too, business models aren’t one-size-fits-all](https://techcrunch.com/2023/10/21/insurtech-business-models-dtc/)
+- [Paddy Cosgrave has stepped down as CEO of Web Summit](https://techcrunch.com/2023/10/21/paddy-cosgrave-has-stepped-down-as-ceo-of-web-summit/)
 - [Deal Dive: Tucker Carlson is a media startup founder — again](https://techcrunch.com/2023/10/21/tucker-carlson-last-country-media-startup/)
 - [This week in AI: Can we trust DeepMind to be ethical?](https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/)
 - [SpaceX to launch 23 Starlink satellites tonight on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-6-24)
-- [NASA Ames, UC Berkeley to build $2 billion space center in Silicon Valley](https://www.space.com/nasa-uc-berkeley-space-research-center)
-- [Scientists propose &#39;missing&#39; law for the evolution of everything in the universe](https://www.space.com/scientists-propose-missing-law-evolution-of-everything-in-the-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
