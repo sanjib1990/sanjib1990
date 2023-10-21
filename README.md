@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanoid robots face a major test with Amazon’s Digit pilots](https://techcrunch.com/2023/10/21/humanoid-robots-face-their-first-major-test-with-amazons-digit-pilots/)
 - [In insurtech, too, business models aren’t one-size-fits-all](https://techcrunch.com/2023/10/21/insurtech-business-models-dtc/)
 - [Paddy Cosgrave has stepped down as CEO of Web Summit](https://techcrunch.com/2023/10/21/paddy-cosgrave-has-stepped-down-as-ceo-of-web-summit/)
 - [Deal Dive: Tucker Carlson is a media startup founder — again](https://techcrunch.com/2023/10/21/tucker-carlson-last-country-media-startup/)
 - [This week in AI: Can we trust DeepMind to be ethical?](https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/)
-- [SpaceX to launch 23 Starlink satellites tonight on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-6-24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
