@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Lego Star Wars&#39; conjures a fun-sized trio of new Halloween shorts &lpar;video&rpar;](https://www.space.com/lego-star-wars-halloween-shorts)
 - [Scientists bury time capsule to celebrate upcoming Extremely Large Telescope &lpar;photos&rpar;](https://www.space.com/eso-celebrates-elt-time-capsule-photos)
 - [How did the universe&#39;s elements form?](https://www.space.com/how-did-universe-elements-form)
 - [Hackers leak more 23andMe data, X cracks down on porn and Andreessen writes a manifesto](https://techcrunch.com/2023/10/21/hackers-leak-more-23andme-data-x-cracks-down-on-porn-and-andreessen-writes-a-manifesto/)
 - [Humanoid robots face a major test with Amazon’s Digit pilots](https://techcrunch.com/2023/10/21/humanoid-robots-face-their-first-major-test-with-amazons-digit-pilots/)
-- [In insurtech, too, business models aren’t one-size-fits-all](https://techcrunch.com/2023/10/21/insurtech-business-models-dtc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
