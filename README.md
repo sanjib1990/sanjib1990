@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is Plaid’s potential IPO a sign of fintech turning a corner?](https://techcrunch.com/2023/10/22/is-plaids-potential-ipo-a-sign-of-fintech-turning-a-corner/)
 - [Space Perspective unveils &#39;Space Spa&#39; restroom for balloon tourist flights &lpar;images&rpar;](https://www.space.com/space-perspective-unveils-spaceship-neptune-restroom-images)
 - [China is building the world&#39;s largest underwater telescope to hunt for elusive &#39;ghost particles&#39;](https://www.space.com/china-worlds-largest-underwater-telescope-hunt-for-elusive-ghost-particles)
 - [&#39;Lego Star Wars&#39; conjures a fun-sized trio of new Halloween shorts &lpar;video&rpar;](https://www.space.com/lego-star-wars-halloween-shorts)
 - [Scientists bury time capsule to celebrate upcoming Extremely Large Telescope &lpar;photos&rpar;](https://www.space.com/eso-celebrates-elt-time-capsule-photos)
-- [How did the universe&#39;s elements form?](https://www.space.com/how-did-universe-elements-form)
 <!-- BLOG-POST-LIST:END -->
 
 ---
