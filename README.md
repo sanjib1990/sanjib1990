@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Perspective unveils &#39;Space Spa&#39; restroom for balloon tourist flights &lpar;images&rpar;](https://www.space.com/space-perspective-unveils-spaceship-neptune-restroom-images)
 - [China is building the world&#39;s largest underwater telescope to hunt for elusive &#39;ghost particles&#39;](https://www.space.com/china-worlds-largest-underwater-telescope-hunt-for-elusive-ghost-particles)
 - [&#39;Lego Star Wars&#39; conjures a fun-sized trio of new Halloween shorts &lpar;video&rpar;](https://www.space.com/lego-star-wars-halloween-shorts)
 - [Scientists bury time capsule to celebrate upcoming Extremely Large Telescope &lpar;photos&rpar;](https://www.space.com/eso-celebrates-elt-time-capsule-photos)
 - [How did the universe&#39;s elements form?](https://www.space.com/how-did-universe-elements-form)
-- [Hackers leak more 23andMe data, X cracks down on porn and Andreessen writes a manifesto](https://techcrunch.com/2023/10/21/hackers-leak-more-23andme-data-x-cracks-down-on-porn-and-andreessen-writes-a-manifesto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
