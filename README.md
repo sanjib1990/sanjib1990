@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla ‘digs its own grave with the Cybertruck,’ Convoy collapses and Rivian scores a win at Rebelle](https://techcrunch.com/2023/10/22/tesla-digs-its-own-grave-with-the-cybertruck-convoy-collapses-and-rivian-scores-a-win-at-rebelle/)
 - [Why Monday.com decided to build its new database instead of buying one](https://techcrunch.com/2023/10/22/monday-mondaydb-new-database/)
 - [Federal hydrogen hub program could give fuel a boost — or the boot](https://techcrunch.com/2023/10/22/federal-hydrogen-hub-program/)
 - [Is Plaid’s potential IPO a sign of fintech turning a corner?](https://techcrunch.com/2023/10/22/is-plaids-potential-ipo-a-sign-of-fintech-turning-a-corner/)
 - [Space Perspective unveils &#39;Space Spa&#39; restroom for balloon tourist flights &lpar;images&rpar;](https://www.space.com/space-perspective-unveils-spaceship-neptune-restroom-images)
-- [China is building the world&#39;s largest underwater telescope to hunt for elusive &#39;ghost particles&#39;](https://www.space.com/china-worlds-largest-underwater-telescope-hunt-for-elusive-ghost-particles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
