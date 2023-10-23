@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s new Ariane 6 rocket will undergo crucial engine test fire in November](https://www.space.com/ariane-6-rocket-crucial-test-november-2023)
+- [What’s behind the fresh round of tech layoffs?](https://techcrunch.com/2023/10/23/fresh-round-tech-layoffs/)
+- [Feds expand Tesla investigation to include vehicle range, personal benefits](https://techcrunch.com/2023/10/23/feds-expand-tesla-investigation-to-include-vehicle-range-personal-benefits/)
 - [A star is born! How cosmic winds are a key step in stellar formation](https://www.space.com/cosmic-winds-key-step-young-star-formation)
 - [TikTok is testing 15-minute uploads with select users](https://techcrunch.com/2023/10/23/tiktok-testing-15-minute-uploads/)
-- [It’s too late for nuclear to save the climate](https://techcrunch.com/2023/10/23/nuclear-wont-save-the-climate/)
-- [How astronaut Thomas Pesquet captured the planet in &#39;The Earth in Our Hands&#39;](https://www.space.com/the-earth-in-our-hands-thomas-pesquet-interview)
-- [Here’s hoping genAI can make Siri better](https://techcrunch.com/2023/10/23/heres-hoping-genai-can-make-siri-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
