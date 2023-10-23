@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s too late for nuclear to save the climate](https://techcrunch.com/2023/10/23/nuclear-wont-save-the-climate/)
+- [How astronaut Thomas Pesquet captured the planet in &#39;The Earth in Our Hands&#39;](https://www.space.com/the-earth-in-our-hands-thomas-pesquet-interview)
+- [Here’s hoping genAI can make Siri better](https://techcrunch.com/2023/10/23/heres-hoping-genai-can-make-siri-better/)
 - [After years of explosive growth, the French tech ecosystem is at a turning point](https://techcrunch.com/2023/10/23/after-years-of-explosive-growth-the-french-tech-ecosystem-is-at-a-turning-point/)
 - [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.space.com/gulf-stream-weakening-certain-global-ramifications)
-- [Investors are split on whether California’s diversity bill will make an impact](https://techcrunch.com/2023/10/23/california-diversity-bill-sb54-reactions/)
-- [Nearby asteroid may contain elements &#39;beyond the periodic table&#39;, new study suggests](https://www.space.com/asteroid-may-contain-element-beyond-periodic-table-new-study)
-- [After $43B valuation, Databricks acquires data replication startup Arcion for $100M](https://techcrunch.com/2023/10/23/after-43b-valuation-databricks-acquires-data-replication-startup-arcion-for-100m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
