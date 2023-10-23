@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech startup Finerio secures $6.5M to create open finance ecosystem in Latin America](https://techcrunch.com/2023/10/23/fintech-finerio-6-5m-open-finance-latin-america/)
-- [Ternary, a cloud spend management startup, raises $12M](https://techcrunch.com/2023/10/23/ternary-a-cloud-spend-management-startup-raises-12m/)
-- [Don&#39;t miss a partial lunar eclipse of October&#39;s Full Hunter&#39;s Moon this week](https://www.space.com/partial-lunar-eclipse-october-2023-one-week-away)
-- [Not everyone is fond of venture debt](https://techcrunch.com/2023/10/23/venture-debt-downsides/)
-- [Web Summit confirms Lisbon and Qatar events still on, ex-CEO Paddy Cosgrave has 80% ownership of business](https://techcrunch.com/2023/10/23/cosgrave-web-summit-event/)
+- [Investors are split on whether California’s diversity bill will make an impact](https://techcrunch.com/2023/10/23/california-diversity-bill-sb54-reactions/)
+- [Nearby asteroid may contain elements &#39;beyond the periodic table&#39;, new study suggests](https://www.space.com/asteroid-may-contain-element-beyond-periodic-table-new-study)
+- [After $43B valuation, Databricks acquires data replication startup Arcion for $100M](https://techcrunch.com/2023/10/23/after-43b-valuation-databricks-acquires-data-replication-startup-arcion-for-100m/)
+- [Want to invest in startups? Here are 4 ways to get started as a solo GP](https://techcrunch.com/2023/10/23/4-ways-to-get-started-as-a-solo-gp/)
+- [‘Household restocking’ startup The Rounds uses tech and AI to make sustainable e-commerce profitable](https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
