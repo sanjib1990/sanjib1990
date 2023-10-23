@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nomad Homes adds software for real estate agents following $20M capital infusion](https://techcrunch.com/2023/10/23/nomad-homes-real-estate-20m/)
+- [What is an attosecond? A physical chemist explains the tiny time scale behind Nobel Prize-winning research](https://www.space.com/expert-voice-what-is-an-attosecond)
+- [Apple’s job listings suggest it plans to infuse AI in multiple products](https://techcrunch.com/2023/10/23/apples-job-listings-suggest-it-plans-to-infuse-ai-in-multiple-products/)
 - [The moon may be 40 million years older than we thought, Apollo 17 samples suggest](https://www.space.com/apollo-17-moon-rocks-lunar-age-analysis)
 - [Reliance nears deal to acquire Disney’s India business, report says](https://techcrunch.com/2023/10/23/reliance-nears-deal-to-acquire-disney-india-business-report-says/)
-- [Tinder’s app gets more social by letting friends play matchmaker](https://techcrunch.com/2023/10/23/tinders-app-gets-more-social-by-letting-friends-play-matchmaker/)
-- [Strange anomaly in sun&#39;s solar cycle discovered in centuries-old texts from Korea](https://www.space.com/sun-solar-cycle-anomaly-discovered-korean-texts)
-- [&#39;Sew Sister&#39; Jean Wright shares her NASA space shuttle experience with new book](https://www.space.com/sew-sister-book-jean-wright-nasa-space-shuttle-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
