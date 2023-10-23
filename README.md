@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A star is born! How cosmic winds are a key step in stellar formation](https://www.space.com/cosmic-winds-key-step-young-star-formation)
+- [TikTok is testing 15-minute uploads with select users](https://techcrunch.com/2023/10/23/tiktok-testing-15-minute-uploads/)
 - [It’s too late for nuclear to save the climate](https://techcrunch.com/2023/10/23/nuclear-wont-save-the-climate/)
 - [How astronaut Thomas Pesquet captured the planet in &#39;The Earth in Our Hands&#39;](https://www.space.com/the-earth-in-our-hands-thomas-pesquet-interview)
 - [Here’s hoping genAI can make Siri better](https://techcrunch.com/2023/10/23/heres-hoping-genai-can-make-siri-better/)
-- [After years of explosive growth, the French tech ecosystem is at a turning point](https://techcrunch.com/2023/10/23/after-years-of-explosive-growth-the-french-tech-ecosystem-is-at-a-turning-point/)
-- [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.space.com/gulf-stream-weakening-certain-global-ramifications)
 <!-- BLOG-POST-LIST:END -->
 
 ---
