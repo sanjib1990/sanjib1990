@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [While tech companies play with OpenAI’s API, this startup believes small, in-house AI models will win](https://techcrunch.com/2023/10/23/zenml-empowers-companies-to-build-their-own-ai-stack-based-on-open-source-tools/)
 - [Peak XV’s latest Surge batch is 77% AI and deeptech startups](https://techcrunch.com/2023/10/22/peak-xv-latest-surge-batch-is-77-ai-and-deeptech-startups/)
 - [Rivian R1T is the first EV to win the longest off-road competition in the US](https://techcrunch.com/2023/10/22/rivian-r1t-is-the-first-ev-to-win-the-longest-off-road-competition-in-the-us/)
 - [Tesla ‘digs its own grave with the Cybertruck,’ Convoy collapses and Rivian scores a win at Rebelle](https://techcrunch.com/2023/10/22/tesla-digs-its-own-grave-with-the-cybertruck-convoy-collapses-and-rivian-scores-a-win-at-rebelle/)
 - [Why Monday.com decided to build its new database instead of buying one](https://techcrunch.com/2023/10/22/monday-mondaydb-new-database/)
-- [Federal hydrogen hub program could give fuel a boost — or the boot](https://techcrunch.com/2023/10/22/federal-hydrogen-hub-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
