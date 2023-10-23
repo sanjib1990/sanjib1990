@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shortest &#39;fast radio bursts&#39; ever discovered last only 1 millionth of a second](https://www.space.com/shortest-fast-radio-burst-magnetars)
+- [Artemis 2 moon astronauts meet car racing teams at Formula 1](https://www.space.com/artemis-2-moon-astronauts-formula-1-grand-prix-car-racing)
+- [So how about another 20 IPOs?](https://techcrunch.com/2023/10/23/we-need-more-ipos/)
 - [NASA&#39;s interstellar Voyager probes get software updates beamed from 12 billion miles away](https://www.space.com/voyager-probes-interstellar-space-remote-updates)
 - [FCC aims to investigate the risk of AI-enhanced robocalls](https://techcrunch.com/2023/10/23/fcc-aims-to-investigate-the-risk-of-ai-enhanced-robocalls/)
-- [Europe&#39;s new Ariane 6 rocket will undergo crucial engine test fire in November](https://www.space.com/ariane-6-rocket-crucial-test-november-2023)
-- [What’s behind the fresh round of tech layoffs?](https://techcrunch.com/2023/10/23/fresh-round-tech-layoffs/)
-- [Feds expand Tesla investigation to include vehicle range, personal benefits](https://techcrunch.com/2023/10/23/feds-expand-tesla-investigation-to-include-vehicle-range-personal-benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
