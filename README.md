@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nomad Homes adds software for real estate agents following $20M capital infusion](https://techcrunch.com/2023/10/23/nomad-homes-real-estate-20m/)
-- [What is an attosecond? A physical chemist explains the tiny time scale behind Nobel Prize-winning research](https://www.space.com/expert-voice-what-is-an-attosecond)
-- [Apple’s job listings suggest it plans to infuse AI in multiple products](https://techcrunch.com/2023/10/23/apples-job-listings-suggest-it-plans-to-infuse-ai-in-multiple-products/)
-- [The moon may be 40 million years older than we thought, Apollo 17 samples suggest](https://www.space.com/apollo-17-moon-rocks-lunar-age-analysis)
-- [Reliance nears deal to acquire Disney’s India business, report says](https://techcrunch.com/2023/10/23/reliance-nears-deal-to-acquire-disney-india-business-report-says/)
+- [Fintech startup Finerio secures $6.5M to create open finance ecosystem in Latin America](https://techcrunch.com/2023/10/23/fintech-finerio-6-5m-open-finance-latin-america/)
+- [Ternary, a cloud spend management startup, raises $12M](https://techcrunch.com/2023/10/23/ternary-a-cloud-spend-management-startup-raises-12m/)
+- [Don&#39;t miss a partial lunar eclipse of October&#39;s Full Hunter&#39;s Moon this week](https://www.space.com/partial-lunar-eclipse-october-2023-one-week-away)
+- [Not everyone is fond of venture debt](https://techcrunch.com/2023/10/23/venture-debt-downsides/)
+- [Web Summit confirms Lisbon and Qatar events still on, ex-CEO Paddy Cosgrave has 80% ownership of business](https://techcrunch.com/2023/10/23/cosgrave-web-summit-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
