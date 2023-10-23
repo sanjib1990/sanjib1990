@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: SpaceX, Blue Origin and Virgin Galactic speak on space regulations](https://techcrunch.com/2023/10/23/max-q-spacex-blue-origin-and-virgin-galactic-speak-on-space-regulations/)
+- [NASA&#39;s OSIRIS-REx mission officially surpasses asteroid sample size goal](https://www.space.com/osiris-rex-asteroid-sample-passes-goal)
+- [Fly along with India&#39;s crew capsule on crucial test flight &lpar;video&rpar;](https://www.space.com/india-crew-module-tv-d1-test-flight-video)
 - [Shortest &#39;fast radio bursts&#39; ever discovered last only 1 millionth of a second](https://www.space.com/shortest-fast-radio-burst-magnetars)
 - [Artemis 2 moon astronauts meet car racing teams at Formula 1](https://www.space.com/artemis-2-moon-astronauts-formula-1-grand-prix-car-racing)
-- [So how about another 20 IPOs?](https://techcrunch.com/2023/10/23/we-need-more-ipos/)
-- [NASA&#39;s interstellar Voyager probes get software updates beamed from 12 billion miles away](https://www.space.com/voyager-probes-interstellar-space-remote-updates)
-- [FCC aims to investigate the risk of AI-enhanced robocalls](https://techcrunch.com/2023/10/23/fcc-aims-to-investigate-the-risk-of-ai-enhanced-robocalls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
