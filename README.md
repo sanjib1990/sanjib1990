@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After years of explosive growth, the French tech ecosystem is at a turning point](https://techcrunch.com/2023/10/23/after-years-of-explosive-growth-the-french-tech-ecosystem-is-at-a-turning-point/)
+- [Gulf Stream weakening now 99% certain, and ramifications will be global](https://www.space.com/gulf-stream-weakening-certain-global-ramifications)
 - [Investors are split on whether California’s diversity bill will make an impact](https://techcrunch.com/2023/10/23/california-diversity-bill-sb54-reactions/)
 - [Nearby asteroid may contain elements &#39;beyond the periodic table&#39;, new study suggests](https://www.space.com/asteroid-may-contain-element-beyond-periodic-table-new-study)
 - [After $43B valuation, Databricks acquires data replication startup Arcion for $100M](https://techcrunch.com/2023/10/23/after-43b-valuation-databricks-acquires-data-replication-startup-arcion-for-100m/)
-- [Want to invest in startups? Here are 4 ways to get started as a solo GP](https://techcrunch.com/2023/10/23/4-ways-to-get-started-as-a-solo-gp/)
-- [‘Household restocking’ startup The Rounds uses tech and AI to make sustainable e-commerce profitable](https://techcrunch.com/2023/10/23/household-restocking-startup-the-rounds-uses-tech-and-ai-to-make-sustainable-e-commerce-profitable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
