@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Windows has a SECRET MODE??](https://www.youtube.com/watch?v=mdHHDURM31g)
-- [Check your USB cables for this!!](https://www.youtube.com/watch?v=w9EYdWs5Hq4)
-- [Lec27: Sociobiology and culture](https://www.youtube.com/watch?v=RjdAI2ycYhI)
-- [Lec26: Critique of cultural determinism](https://www.youtube.com/watch?v=Q8p2q9GFBMk)
-- [Lec23: Sociobiology, mating behaviors and scientific method](https://www.youtube.com/watch?v=9Nlb3rIoCIc)
+- [Lecture 15: Introduction to Solutions, General Case](https://www.youtube.com/watch?v=C7CDv47DXxI)
+- [Lecture 4: Heat Engines and Energy Conversion Efficiency](https://www.youtube.com/watch?v=saXXzQya7Tc)
+- [Lecture 22: Free Energy-Composition Diagrams, General Case](https://www.youtube.com/watch?v=yA515wfRhjg)
+- [Supplemental Video: Gallium-Indium Eutectic Demo](https://www.youtube.com/watch?v=2tGYGprLuNs)
+- [Lecture 32: Case Study - Reacting, Multi-component, Multi-phase Systems](https://www.youtube.com/watch?v=xGuMdNH4pLw)
 <!-- YOUTUBE:END -->
 
 ---
