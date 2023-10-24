@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aleph is building a platform to reconcile disparate financial data](https://techcrunch.com/2023/10/24/aleph-is-building-a-platform-to-reconcile-disparate-financial-data/)
-- [&#39;Star Trek: Sons of Star Trek&#39; alternate dimension miniseries coming in 2024](https://www.space.com/sons-of-star-trek-miniseries-march-2024)
-- [WorkMagic wants to automate all the marketing tasks for Shopify sellers](https://techcrunch.com/2023/10/24/workmagic-wants-to-automate-marketing-for-shopify-sellers/)
-- [Walmart and Outlier Ventures’ web3 accelerator launches with five startups](https://techcrunch.com/2023/10/24/walmart-and-outlier-ventures-web3-accelerator-launches-with-five-startups/)
-- [D-ID’s newest app uses AI to make videos from photographs](https://techcrunch.com/2023/10/24/d-ids-newest-app-uses-ai-to-make-videos-from-photographs/)
+- [Anti-Instagram photo-sharing app Daylyy has no vanity metrics, filters or algorithm](https://techcrunch.com/2023/10/24/photo-sharing-social-app-daylyy-fosters-a-judgment-free-zone-with-its-hidden-likes-private-comments-and-zero-filters/)
+- [Harvest Thermal taps $4M seed round to make heat pumps cheaper to run](https://techcrunch.com/2023/10/24/harvest-thermal-heat-pumps-seed-round/)
+- [Censys lands new cash to grow its threat-detecting cybersecurity service](https://techcrunch.com/2023/10/24/censys-lands-new-cash-to-grow-its-threat-detecting-cybersecurity-service/)
+- [Twelve Labs is building models that can understand videos at a deep level](https://techcrunch.com/2023/10/24/twelve-labs-is-building-models-that-can-understand-videos-at-a-deep-level/)
+- [NASA&#39;s Aaron Yazzie explores Mars in PBS&#39;s &#39;Native America&#39; Season 2 &lpar;exclusive&rpar;](https://www.space.com/nasa-mars-engineer-aaron-yazzie-pbs-native-america-show)
 <!-- BLOG-POST-LIST:END -->
 
 ---
