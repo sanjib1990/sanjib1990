@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adapting to the climate crisis with Jonas Torland from 7Analytics](https://techcrunch.com/2023/10/24/adapting-to-the-climate-crisis-with-jonas-torland-from-7analytics/)
+- [TC+ Roundup: Is European venture showing signs of recovery?](https://techcrunch.com/2023/10/24/tc-roundup-is-european-venture-showing-signs-of-recovery/)
 - [Watch NASA test a 3D-printed rocket nozzle designed for deep space &lpar;video&rpar;](https://www.space.com/nasa-3d-printed-rocket-nozzle-ramfire-video)
 - [California DMV immediately suspends Cruise’s robotaxi permit](https://techcrunch.com/2023/10/24/dmv-immediately-suspends-cruises-robotaxi-permit-in-california/)
 - [Signos raises $20 million to sprinkle AI fairy dust on the weight loss industry](https://techcrunch.com/2023/10/24/signos-series-b/)
-- [What happens when neutron stars collide? Astronomers may finally know](https://www.space.com/astronomers-know-what-hapens-when-neutron-stars-collide)
-- [Europe’s CSAM-scanning plan is a tipping point for democratic rights, experts warn](https://techcrunch.com/2023/10/24/eu-csam-scanning-edps-seminar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
