@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon and Saturn take a night swim in Aquarius tonight](https://www.space.com/moon-saturn-conjunction-october-2023)
+- [If the Perseverance rover found evidence of life on Mars, would we recognize it?](https://www.space.com/perseverance-rover-search-for-life-on-mars-is-difficult)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [In the wake of Dash’s closure due to fraud, 5 investors talk due diligence in Africa](https://techcrunch.com/2023/10/24/in-the-wake-of-dashs-closure-due-to-fraud-5-investors-talk-due-diligence-in-africa/)
 - [New solar mini-grids in Africa to be powered by Husk Power Systems’ $103M Series D](https://techcrunch.com/2023/10/24/new-solar-mini-grids-in-africa-to-be-powered-by-husk-power-systems-103m-series-d/)
-- [Oxolo bags €13M for Gen AI-driven video platform which can optimise engagement on the fly](https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/)
-- [Byju’s CFO quits in six months amid delayed accounts](https://techcrunch.com/2023/10/23/byjus-cfo-quits-in-six-months-delayed-accounts/)
-- [Two years after pausing service, Roblox China cuts a small number of staff](https://techcrunch.com/2023/10/23/roblox-china-tencent-layoff/)
-- [Smart upcycling machine dissects batteries to save them](https://techcrunch.com/2023/10/23/smart-upcycling-machine-dissects-batteries-to-save-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
