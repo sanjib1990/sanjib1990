@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Davis-Bacon Act changes present a chance for startups to disrupt construction tech](https://techcrunch.com/2023/10/24/davis-bacon-act-construction-tech/)
+- [SpaceX to launch European navigation satellites as EU launchers stall](https://techcrunch.com/2023/10/24/spacex-to-launch-european-navigation-satellites-as-eu-launchers-stall/)
 - [Adapting to the climate crisis with Jonas Torland from 7Analytics](https://techcrunch.com/2023/10/24/adapting-to-the-climate-crisis-with-jonas-torland-from-7analytics/)
+- [Hubble Space Telescope reveals an unexpected galaxy trio &lpar;photo&rpar;](https://www.space.com/galaxy-trio-hubble-space-telescope-photo)
 - [TC+ Roundup: Is European venture showing signs of recovery?](https://techcrunch.com/2023/10/24/tc-roundup-is-european-venture-showing-signs-of-recovery/)
-- [Watch NASA test a 3D-printed rocket nozzle designed for deep space &lpar;video&rpar;](https://www.space.com/nasa-3d-printed-rocket-nozzle-ramfire-video)
-- [California DMV immediately suspends Cruise’s robotaxi permit](https://techcrunch.com/2023/10/24/dmv-immediately-suspends-cruises-robotaxi-permit-in-california/)
-- [Signos raises $20 million to sprinkle AI fairy dust on the weight loss industry](https://techcrunch.com/2023/10/24/signos-series-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
