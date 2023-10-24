@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/10/24/tech-layoffs-2023-list/)
+- [SpaceX inks landmark deal to launch European navigation satellites: report](https://www.space.com/spacex-launch-european-galileo-navigation-satellites)
+- [The SEC’s broadening of investment adviser obligations comes with hidden costs](https://techcrunch.com/2023/10/24/the-secs-broadening-of-investment-adviser-obligations-comes-with-hidden-costs/)
+- [Moon rocks blasted off the lunar surface could become near-Earth asteroids](https://www.space.com/moon-rock-near-earth-asteroid-study)
 - [The Davis-Bacon Act changes present a chance for startups to disrupt construction tech](https://techcrunch.com/2023/10/24/davis-bacon-act-construction-tech/)
-- [SpaceX to launch European navigation satellites as EU launchers stall](https://techcrunch.com/2023/10/24/spacex-to-launch-european-navigation-satellites-as-eu-launchers-stall/)
-- [Adapting to the climate crisis with Jonas Torland from 7Analytics](https://techcrunch.com/2023/10/24/adapting-to-the-climate-crisis-with-jonas-torland-from-7analytics/)
-- [Hubble Space Telescope reveals an unexpected galaxy trio &lpar;photo&rpar;](https://www.space.com/galaxy-trio-hubble-space-telescope-photo)
-- [TC+ Roundup: Is European venture showing signs of recovery?](https://techcrunch.com/2023/10/24/tc-roundup-is-european-venture-showing-signs-of-recovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
