@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See the moon and Saturn take a night swim in Aquarius tonight](https://www.space.com/moon-saturn-conjunction-october-2023)
-- [If the Perseverance rover found evidence of life on Mars, would we recognize it?](https://www.space.com/perseverance-rover-search-for-life-on-mars-is-difficult)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [In the wake of Dash’s closure due to fraud, 5 investors talk due diligence in Africa](https://techcrunch.com/2023/10/24/in-the-wake-of-dashs-closure-due-to-fraud-5-investors-talk-due-diligence-in-africa/)
-- [New solar mini-grids in Africa to be powered by Husk Power Systems’ $103M Series D](https://techcrunch.com/2023/10/24/new-solar-mini-grids-in-africa-to-be-powered-by-husk-power-systems-103m-series-d/)
+- [Aleph is building a platform to reconcile disparate financial data](https://techcrunch.com/2023/10/24/aleph-is-building-a-platform-to-reconcile-disparate-financial-data/)
+- [&#39;Star Trek: Sons of Star Trek&#39; alternate dimension miniseries coming in 2024](https://www.space.com/sons-of-star-trek-miniseries-march-2024)
+- [WorkMagic wants to automate all the marketing tasks for Shopify sellers](https://techcrunch.com/2023/10/24/workmagic-wants-to-automate-marketing-for-shopify-sellers/)
+- [Walmart and Outlier Ventures’ web3 accelerator launches with five startups](https://techcrunch.com/2023/10/24/walmart-and-outlier-ventures-web3-accelerator-launches-with-five-startups/)
+- [D-ID’s newest app uses AI to make videos from photographs](https://techcrunch.com/2023/10/24/d-ids-newest-app-uses-ai-to-make-videos-from-photographs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
