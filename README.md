@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope could have explained the mysterious signals from &#39;hell planet&#39; 40 light-years away](https://www.space.com/james-webb-space-telescope-hell-planet-mystery-signals)
-- [Instagram is testing a dedicated feed for posts from Meta Verified users](https://techcrunch.com/2023/10/24/instagram-is-testing-a-dedicated-feed-for-posts-from-meta-verified-users/)
-- [New e-commerce startup, founded by an ex-PayPal exec, aims to give customers control of their own shopping data](https://techcrunch.com/2023/10/24/new-e-commerce-startup-founded-by-an-ex-paypal-exec-gives-customers-control-of-their-own-shopping-data/)
-- [WordPress.com owner buys all-in-one messaging app Texts.com for $50M](https://techcrunch.com/2023/10/24/wordpress-com-owner-buys-all-in-one-messaging-app-texts-com-for-50m/)
-- [Okta’s latest hack fallout hits Cloudflare, 1Password](https://techcrunch.com/2023/10/24/oktas-latest-hack-fallout-hits-cloudflare-1password/)
+- [Ex-SDNY prosecutor says Caroline Ellison, Gary Wang and Nishad Singh probably won’t get jail time](https://techcrunch.com/2023/10/24/ex-sdny-prosecutor-says-caroline-ellison-gary-wang-and-nishad-singh-probably-wont-get-jail-time/)
+- [France wants to boost angel investment by copying UK’s investment schemes](https://techcrunch.com/2023/10/24/france-wants-to-boost-angel-investment-by-copying-uks-investment-schemes/)
+- [Zack Snyder&#39;s &#39;Rebel Moon&#39; space opera scores prequel series from Titan Comics, &#39;House of the Bloodaxe&#39;](https://www.space.com/rebel-moon-prequel-house-of-the-bloodaxe)
+- [Pebble, the Twitter alternative previously known as T2, is shutting down](https://techcrunch.com/2023/10/24/pebble-the-twitter-alternative-previously-known-as-t2-is-closing-down/)
+- [As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results](https://techcrunch.com/2023/10/24/microsoft-alphabet-q3-results-expectations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
