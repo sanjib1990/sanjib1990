@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oxolo bags €13M for Gen AI-driven video platform which can optimise engagement on the fly](https://techcrunch.com/2023/10/24/oxolo-bags-e13m-for-gen-ai-driven-video-platform-which-can-optimise-engagement-on-the-fly/)
 - [Byju’s CFO quits in six months amid delayed accounts](https://techcrunch.com/2023/10/23/byjus-cfo-quits-in-six-months-delayed-accounts/)
 - [Two years after pausing service, Roblox China cuts a small number of staff](https://techcrunch.com/2023/10/23/roblox-china-tencent-layoff/)
 - [Smart upcycling machine dissects batteries to save them](https://techcrunch.com/2023/10/23/smart-upcycling-machine-dissects-batteries-to-save-them/)
 - [Singapore-based Qosmosys closes $100M seed round to develop tech for the moon](https://techcrunch.com/2023/10/23/singapore-based-qosmosys-closes-100m-seed-round-to-develop-tech-for-the-moon/)
-- [AI-based data center optimization startup MangoBoost raises $55M Series A](https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
