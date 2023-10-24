@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Byju’s CFO quits in seven months amid delayed accounts](https://techcrunch.com/2023/10/23/byjus-cfo-quits-in-seven-months/)
+- [Byju’s CFO quits in six months amid delayed accounts](https://techcrunch.com/2023/10/23/byjus-cfo-quits-in-six-months-delayed-accounts/)
 - [Two years after pausing service, Roblox China cuts a small number of staff](https://techcrunch.com/2023/10/23/roblox-china-tencent-layoff/)
 - [Smart upcycling machine dissects batteries to save them](https://techcrunch.com/2023/10/23/smart-upcycling-machine-dissects-batteries-to-save-them/)
 - [Singapore-based Qosmosys closes $100M seed round to develop tech for the moon](https://techcrunch.com/2023/10/23/singapore-based-qosmosys-closes-100m-seed-round-to-develop-tech-for-the-moon/)
