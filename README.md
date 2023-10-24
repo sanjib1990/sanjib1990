@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe’s CSAM-scanning plan is a tipping point for democratic rights, experts warn](https://techcrunch.com/2023/10/24/eu-csam-scanning-edps-seminar/)
+- [China recruits Pakistan and Belarus for its planned moon base](https://www.space.com/china-ilrs-moon-base-partners-belarus-pakistan)
+- [Apple sends out invites for ‘Scary Fast’ event – new Macs could be on the menu](https://techcrunch.com/2023/10/24/apple-sends-out-invites-for-scary-fast-event-new-macs-could-be-on-the-way/)
 - [Ex-SDNY prosecutor says Caroline Ellison, Gary Wang and Nishad Singh probably won’t get jail time](https://techcrunch.com/2023/10/24/ex-sdny-prosecutor-says-caroline-ellison-gary-wang-and-nishad-singh-probably-wont-get-jail-time/)
 - [France wants to boost angel investment by copying UK’s investment schemes](https://techcrunch.com/2023/10/24/france-wants-to-boost-angel-investment-by-copying-uks-investment-schemes/)
-- [Zack Snyder&#39;s &#39;Rebel Moon&#39; space opera scores prequel series from Titan Comics, &#39;House of the Bloodaxe&#39;](https://www.space.com/rebel-moon-prequel-house-of-the-bloodaxe)
-- [Pebble, the Twitter alternative previously known as T2, is shutting down](https://techcrunch.com/2023/10/24/pebble-the-twitter-alternative-previously-known-as-t2-is-closing-down/)
-- [As Databricks touts demand for AI services, all eyes are on Microsoft and Alphabet’s Q3 results](https://techcrunch.com/2023/10/24/microsoft-alphabet-q3-results-expectations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
