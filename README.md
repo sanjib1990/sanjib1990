@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA test a 3D-printed rocket nozzle designed for deep space &lpar;video&rpar;](https://www.space.com/nasa-3d-printed-rocket-nozzle-ramfire-video)
+- [California DMV immediately suspends Cruise’s robotaxi permit](https://techcrunch.com/2023/10/24/dmv-immediately-suspends-cruises-robotaxi-permit-in-california/)
+- [Signos raises $20 million to sprinkle AI fairy dust on the weight loss industry](https://techcrunch.com/2023/10/24/signos-series-b/)
+- [What happens when neutron stars collide? Astronomers may finally know](https://www.space.com/astronomers-know-what-hapens-when-neutron-stars-collide)
 - [Europe’s CSAM-scanning plan is a tipping point for democratic rights, experts warn](https://techcrunch.com/2023/10/24/eu-csam-scanning-edps-seminar/)
-- [China recruits Pakistan and Belarus for its planned moon base](https://www.space.com/china-ilrs-moon-base-partners-belarus-pakistan)
-- [Apple sends out invites for ‘Scary Fast’ event – new Macs could be on the menu](https://techcrunch.com/2023/10/24/apple-sends-out-invites-for-scary-fast-event-new-macs-could-be-on-the-way/)
-- [Ex-SDNY prosecutor says Caroline Ellison, Gary Wang and Nishad Singh probably won’t get jail time](https://techcrunch.com/2023/10/24/ex-sdny-prosecutor-says-caroline-ellison-gary-wang-and-nishad-singh-probably-wont-get-jail-time/)
-- [France wants to boost angel investment by copying UK’s investment schemes](https://techcrunch.com/2023/10/24/france-wants-to-boost-angel-investment-by-copying-uks-investment-schemes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
