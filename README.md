@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope could have explained the mysterious signals from &#39;hell planet&#39; 40 light-years away](https://www.space.com/james-webb-space-telescope-hell-planet-mystery-signals)
+- [Instagram is testing a dedicated feed for posts from Meta Verified users](https://techcrunch.com/2023/10/24/instagram-is-testing-a-dedicated-feed-for-posts-from-meta-verified-users/)
+- [New e-commerce startup, founded by an ex-PayPal exec, aims to give customers control of their own shopping data](https://techcrunch.com/2023/10/24/new-e-commerce-startup-founded-by-an-ex-paypal-exec-gives-customers-control-of-their-own-shopping-data/)
 - [WordPress.com owner buys all-in-one messaging app Texts.com for $50M](https://techcrunch.com/2023/10/24/wordpress-com-owner-buys-all-in-one-messaging-app-texts-com-for-50m/)
 - [Okta’s latest hack fallout hits Cloudflare, 1Password](https://techcrunch.com/2023/10/24/oktas-latest-hack-fallout-hits-cloudflare-1password/)
-- [YouTube Music now lets you create custom AI-generated playlist art](https://techcrunch.com/2023/10/24/youtube-music-now-lets-you-create-custom-ai-generated-playlist-art/)
-- [Anti-Instagram photo-sharing app Daylyy has no vanity metrics, filters or algorithm](https://techcrunch.com/2023/10/24/photo-sharing-social-app-daylyy-fosters-a-judgment-free-zone-with-its-hidden-likes-private-comments-and-zero-filters/)
-- [Harvest Thermal taps $4M seed round to make heat pumps cheaper to run](https://techcrunch.com/2023/10/24/harvest-thermal-heat-pumps-seed-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
