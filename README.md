@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smart upcycling machine dissects batteries to save them](https://techcrunch.com/2023/10/23/smart-upcycling-machine-dissects-batteries-to-save-them/)
+- [Singapore-based Qosmosys closes $100M seed round to develop tech for the moon](https://techcrunch.com/2023/10/23/singapore-based-qosmosys-closes-100m-seed-round-to-develop-tech-for-the-moon/)
 - [AI-based data center optimization startup MangoBoost raises $55M Series A](https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/)
 - [Max Q: SpaceX, Blue Origin and Virgin Galactic speak on space regulations](https://techcrunch.com/2023/10/23/max-q-spacex-blue-origin-and-virgin-galactic-speak-on-space-regulations/)
 - [NASA&#39;s OSIRIS-REx mission officially surpasses asteroid sample size goal](https://www.space.com/osiris-rex-asteroid-sample-passes-goal)
-- [Fly along with India&#39;s crew capsule on crucial test flight &lpar;video&rpar;](https://www.space.com/india-crew-module-tv-d1-test-flight-video)
-- [Shortest &#39;fast radio bursts&#39; ever discovered last only 1 millionth of a second](https://www.space.com/shortest-fast-radio-burst-magnetars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
