@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress.com owner buys all-in-one messaging app Texts.com for $50M](https://techcrunch.com/2023/10/24/wordpress-com-owner-buys-all-in-one-messaging-app-texts-com-for-50m/)
+- [Okta’s latest hack fallout hits Cloudflare, 1Password](https://techcrunch.com/2023/10/24/oktas-latest-hack-fallout-hits-cloudflare-1password/)
+- [YouTube Music now lets you create custom AI-generated playlist art](https://techcrunch.com/2023/10/24/youtube-music-now-lets-you-create-custom-ai-generated-playlist-art/)
 - [Anti-Instagram photo-sharing app Daylyy has no vanity metrics, filters or algorithm](https://techcrunch.com/2023/10/24/photo-sharing-social-app-daylyy-fosters-a-judgment-free-zone-with-its-hidden-likes-private-comments-and-zero-filters/)
 - [Harvest Thermal taps $4M seed round to make heat pumps cheaper to run](https://techcrunch.com/2023/10/24/harvest-thermal-heat-pumps-seed-round/)
-- [Censys lands new cash to grow its threat-detecting cybersecurity service](https://techcrunch.com/2023/10/24/censys-lands-new-cash-to-grow-its-threat-detecting-cybersecurity-service/)
-- [Twelve Labs is building models that can understand videos at a deep level](https://techcrunch.com/2023/10/24/twelve-labs-is-building-models-that-can-understand-videos-at-a-deep-level/)
-- [NASA&#39;s Aaron Yazzie explores Mars in PBS&#39;s &#39;Native America&#39; Season 2 &lpar;exclusive&rpar;](https://www.space.com/nasa-mars-engineer-aaron-yazzie-pbs-native-america-show)
 <!-- BLOG-POST-LIST:END -->
 
 ---
