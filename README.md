@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotaxi pushback grows in Los Angeles as Cruise loses permits](https://techcrunch.com/2023/10/24/robotaxi-pushback-grows-in-los-angeles-as-cruise-loses-permits/)
+- [Trevor Milton to reimburse Nikola $165M per arbitration proceeding](https://techcrunch.com/2023/10/24/trevor-milton-to-reimburse-nikola-165m-per-arbitration-proceeding/)
+- [Apple, government officials lend support to federal right to repair law](https://techcrunch.com/2023/10/24/apple-government-officials-lend-support-to-federal-right-to-repair-law/)
 - [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/10/24/tech-layoffs-2023-list/)
-- [SpaceX inks landmark deal to launch European navigation satellites: report](https://www.space.com/spacex-launch-european-galileo-navigation-satellites)
-- [The SEC’s broadening of investment adviser obligations comes with hidden costs](https://techcrunch.com/2023/10/24/the-secs-broadening-of-investment-adviser-obligations-comes-with-hidden-costs/)
-- [Moon rocks blasted off the lunar surface could become near-Earth asteroids](https://www.space.com/moon-rock-near-earth-asteroid-study)
-- [The Davis-Bacon Act changes present a chance for startups to disrupt construction tech](https://techcrunch.com/2023/10/24/davis-bacon-act-construction-tech/)
+- [NASA&#39;s Ingenuity helicopter aces longest Mars flight in 18 months](https://www.space.com/nasa-ingenuity-mars-helicopter-63rd-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
