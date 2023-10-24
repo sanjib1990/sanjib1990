@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-based data center optimization startup MangoBoost raises $55M Series A](https://techcrunch.com/2023/10/23/ai-based-data-center-optimization-startup-mangoboost-raises-55m-series-a/)
 - [Max Q: SpaceX, Blue Origin and Virgin Galactic speak on space regulations](https://techcrunch.com/2023/10/23/max-q-spacex-blue-origin-and-virgin-galactic-speak-on-space-regulations/)
 - [NASA&#39;s OSIRIS-REx mission officially surpasses asteroid sample size goal](https://www.space.com/osiris-rex-asteroid-sample-passes-goal)
 - [Fly along with India&#39;s crew capsule on crucial test flight &lpar;video&rpar;](https://www.space.com/india-crew-module-tv-d1-test-flight-video)
 - [Shortest &#39;fast radio bursts&#39; ever discovered last only 1 millionth of a second](https://www.space.com/shortest-fast-radio-burst-magnetars)
-- [Artemis 2 moon astronauts meet car racing teams at Formula 1](https://www.space.com/artemis-2-moon-astronauts-formula-1-grand-prix-car-racing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
