@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the partial lunar eclipse of the Full Hunter&#39;s Moon on Oct. 28 in these free livestreams](https://www.space.com/partial-lunar-eclipse-full-hunters-moon-october-2023-how-to-watch)
+- [Robotaxis ‘do not belong in the city of Los Angeles,’ lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
+- [Apple Pay Later is now available to all users in the US](https://techcrunch.com/2023/10/25/apple-pay-later-is-now-available-to-all-users-in-the-us/)
 - [The West Antarctic Ice Sheet is melting, and it&#39;s too late to stop it](https://www.space.com/west-antarctic-ice-sheet-melting-unavoidable)
 - [Amazon’s new generative AI tool lets advertisers enhance product images](https://techcrunch.com/2023/10/25/amazons-new-generative-ai-tool-lets-advertisers-enhance-product-images/)
-- [The mysterious dimming of supergiant star Betelgeuse may finally be explained &lpar;photo&rpar;](https://www.space.com/betelgeuse-photosphere-dimming-dust-cold-spot)
-- [Raising without a deck is more common than you think](https://techcrunch.com/2023/10/25/no-deck-required/)
-- [1st-ever radio images of an annular solar eclipse showcase the sun&#39;s extended corona](https://www.space.com/annular-eclipse-first-radio-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
