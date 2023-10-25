@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The West Antarctic Ice Sheet is melting, and it&#39;s too late to stop it](https://www.space.com/west-antarctic-ice-sheet-melting-unavoidable)
+- [Amazon’s new generative AI tool lets advertisers enhance product images](https://techcrunch.com/2023/10/25/amazons-new-generative-ai-tool-lets-advertisers-enhance-product-images/)
+- [The mysterious dimming of supergiant star Betelgeuse may finally be explained &lpar;photo&rpar;](https://www.space.com/betelgeuse-photosphere-dimming-dust-cold-spot)
+- [Raising without a deck is more common than you think](https://techcrunch.com/2023/10/25/no-deck-required/)
 - [1st-ever radio images of an annular solar eclipse showcase the sun&#39;s extended corona](https://www.space.com/annular-eclipse-first-radio-images)
-- [Ask Sophie: Is it now easier for founders to get H-1B visas?](https://techcrunch.com/2023/10/25/ask-sophie-is-it-now-easier-for-founders-to-get-h-1b-visas/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Apple Watch’s best new feature is now live](https://techcrunch.com/2023/10/25/apple-watchs-best-new-feature-is-now-live/)
-- [AI is finally resulting in real growth for big tech](https://techcrunch.com/2023/10/25/microsoft-alphabet-earnings-ai-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
