@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google is actively looking to insert different types of ads in its generative AI search](https://techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/)
 - [Sukhiba eyes expansion to power WhatsApp conversational commerce in Africa](https://techcrunch.com/2023/10/25/sukhiba-eyes-africa-growth/)
 - [Lab-grown leather scales up as Gozen raises $3.3M from Happiness Capital, SoSV and others](https://techcrunch.com/2023/10/25/lab-grown-leather-scales-up-as-gozen-raises-3-3m-from-happiness-capital-sosv-and-others/)
 - [California agency pulls Cruise’s commercial robotaxi permit following DMV action](https://techcrunch.com/2023/10/24/cpuc-pulls-cruise-robotaxi-permit-after-dmv-suspension/)
 - [Triple-A gets funding from Peak XV to help more businesses use crypto](https://techcrunch.com/2023/10/24/triple-a/)
-- [Largest-ever computer simulation of the universe escalates cosmology dilemma](https://www.space.com/largest-computer-simulation-of-universe-s8-debate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
