@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Carta’s CEO reaches out to customers about bad press, alerting them to bad press](https://techcrunch.com/2023/10/25/cartas-ceo-reaches-out-to-customers-about-bad-press-alerting-them-to-bad-press/)
 - [Kids on Roblox are hosting protests for Palestine](https://techcrunch.com/2023/10/25/roblox-palestine-protest/)
 - [Pony.ai gets $100M, establishes JV with Saudi Arabia’s Neom](https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/)
 - [EU commissioner sidesteps MEPs’ questions about CSAM proposal microtargeting](https://techcrunch.com/2023/10/25/libe-committee-ylva-johansson/)
 - [Climate change has pushed Earth into &#39;uncharted territory&#39;: report](https://www.space.com/earth-enters-uncharted-territory-new-climate-report)
-- [Singapore-based fintech YouTrip picks up $50M led by Lightspeed](https://techcrunch.com/2023/10/25/youtrip-lightspeed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
