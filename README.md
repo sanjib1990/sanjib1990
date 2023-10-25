@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Cosmonauts will hunt for source of ISS leak during a spacewalk today. Watch it live](https://www.space.com/russian-spacewalk-nauka-leak-cause-webcast)
+- [AWS announces ‘sovereign cloud’ to support data residency in Europe](https://techcrunch.com/2023/10/25/aws-to-launch-sovereign-cloud-to-support-data-residency-in-europe/)
 - [Curiosity rover discovers new evidence Mars once had &#39;right conditions&#39; for life](https://www.space.com/mars-water-curiosity-rover-data-conditions-for-life)
 - [James Webb Space Telescope photos to feature on US Priority Mail stamps in 2024](https://www.space.com/usps-2024-james-webb-space-telescope-stamps)
-- [Google is actively looking to insert different types of ads in its generative AI search](https://techcrunch.com/2023/10/25/google-is-actively-looking-to-insert-different-types-of-ads-in-its-generative-ai-search/)
-- [Sukhiba eyes expansion to power WhatsApp conversational commerce in Africa](https://techcrunch.com/2023/10/25/sukhiba-eyes-africa-growth/)
-- [Lab-grown leather scales up as Gozen raises $3.3M from Happiness Capital, SoSV and others](https://techcrunch.com/2023/10/25/lab-grown-leather-scales-up-as-gozen-raises-3-3m-from-happiness-capital-sosv-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
