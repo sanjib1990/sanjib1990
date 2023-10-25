@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Largest-ever computer simulation of the universe escalates cosmology dilemma](https://www.space.com/largest-computer-simulation-of-universe-s8-debate)
 - [Robotaxi pushback grows in Los Angeles as Cruise loses permits](https://techcrunch.com/2023/10/24/robotaxi-pushback-grows-in-los-angeles-as-cruise-loses-permits/)
 - [US Space Force&#39;s 1st official painting shows military space plane intercepting adversary satellite](https://www.space.com/space-force-painting-plane-intercepting-satellite)
 - [Trevor Milton to reimburse Nikola $165M per arbitration proceeding](https://techcrunch.com/2023/10/24/trevor-milton-to-reimburse-nikola-165m-per-arbitration-proceeding/)
 - [Apple, government officials lend support to federal right to repair law](https://techcrunch.com/2023/10/24/apple-government-officials-lend-support-to-federal-right-to-repair-law/)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/10/24/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
