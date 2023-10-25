@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [California agency pulls Cruise’s commercial robotaxi permit following DMV action](https://techcrunch.com/2023/10/24/cpuc-pulls-cruise-robotaxi-permit-after-dmv-suspension/)
+- [Triple-A gets funding from Peak XV to help more businesses use crypto](https://techcrunch.com/2023/10/24/triple-a/)
 - [Largest-ever computer simulation of the universe escalates cosmology dilemma](https://www.space.com/largest-computer-simulation-of-universe-s8-debate)
 - [Robotaxi pushback grows in Los Angeles as Cruise loses permits](https://techcrunch.com/2023/10/24/robotaxi-pushback-grows-in-los-angeles-as-cruise-loses-permits/)
 - [US Space Force&#39;s 1st official painting shows military space plane intercepting adversary satellite](https://www.space.com/space-force-painting-plane-intercepting-satellite)
-- [Trevor Milton to reimburse Nikola $165M per arbitration proceeding](https://techcrunch.com/2023/10/24/trevor-milton-to-reimburse-nikola-165m-per-arbitration-proceeding/)
-- [Apple, government officials lend support to federal right to repair law](https://techcrunch.com/2023/10/24/apple-government-officials-lend-support-to-federal-right-to-repair-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
