@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blackbird backs Heidi Health’s AI platform for overworked doctors](https://techcrunch.com/2023/10/25/heidi-health/)
-- [The DJI Osmo Pocket 3 is a major upgrade to the best little vlogging camera you can buy](https://techcrunch.com/2023/10/25/dji-osmo-pocket-3-review/)
-- [Two years after launching the C1 webcam, Opal is still committed to hardware](https://techcrunch.com/2023/10/25/two-years-after-launching-the-c1-webcam-opal-is-still-committed-to-hardware/)
-- [Coach’s knitwear supplier bets $1M on Jellibeans’ fashion prediction tech](https://techcrunch.com/2023/10/25/jellibeans-fashion-design-trend-aggregator-collaboration/)
-- [Amazon brings conversational AI to kids with launch of ‘Explore with Alexa’](https://techcrunch.com/2023/10/25/amazon-brings-conversational-ai-to-kids-with-launch-of-explore-with-alexa/)
+- [Flourish Ventures, a ‘fintech venture fund with a purpose,’ secures $350M in new capital](https://techcrunch.com/2023/10/25/flourish-ventures-a-fintech-venture-fund-with-a-purpose-secures-350m-in-new-capital/)
+- [The Theory Ventures venture theory with venture theorist Tomasz Tunguz](https://techcrunch.com/2023/10/25/the-theory-ventures-venture-theory-with-venture-theorist-tomasz-tunguz/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [Google launches AR beauty ads for lip and eye products](https://techcrunch.com/2023/10/25/google-launches-ar-beauty-ads-for-lip-and-eye-products/)
+- [SpaceX fuels up Starship in key test ahead of 2nd-ever flight &lpar;video, photos&rpar;](https://www.space.com/spacex-starship-fueling-wet-dress-rehearsal-october-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
