@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Cosmonauts will hunt for source of ISS leak during a spacewalk today. Watch it live](https://www.space.com/russian-spacewalk-nauka-leak-cause-webcast)
-- [AWS announces ‘sovereign cloud’ to support data residency in Europe](https://techcrunch.com/2023/10/25/aws-to-launch-sovereign-cloud-to-support-data-residency-in-europe/)
-- [Curiosity rover discovers new evidence Mars once had &#39;right conditions&#39; for life](https://www.space.com/mars-water-curiosity-rover-data-conditions-for-life)
-- [James Webb Space Telescope photos to feature on US Priority Mail stamps in 2024](https://www.space.com/usps-2024-james-webb-space-telescope-stamps)
+- [Blackbird backs Heidi Health’s AI platform for overworked doctors](https://techcrunch.com/2023/10/25/heidi-health/)
+- [The DJI Osmo Pocket 3 is a major upgrade to the best little vlogging camera you can buy](https://techcrunch.com/2023/10/25/dji-osmo-pocket-3-review/)
+- [Two years after launching the C1 webcam, Opal is still committed to hardware](https://techcrunch.com/2023/10/25/two-years-after-launching-the-c1-webcam-opal-is-still-committed-to-hardware/)
+- [Coach’s knitwear supplier bets $1M on Jellibeans’ fashion prediction tech](https://techcrunch.com/2023/10/25/jellibeans-fashion-design-trend-aggregator-collaboration/)
+- [Amazon brings conversational AI to kids with launch of ‘Explore with Alexa’](https://techcrunch.com/2023/10/25/amazon-brings-conversational-ai-to-kids-with-launch-of-explore-with-alexa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
