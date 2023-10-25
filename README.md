@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pirr raised an angel round to help you co-write erotica with an AI](https://techcrunch.com/2023/10/25/pirr-ai-erotica/)
-- [US security remains paramount in the continued rise of AI, according to Treasury Department secretary](https://techcrunch.com/2023/10/25/ai-security-paul-rosen/)
-- [SpaceX counters FAA claims that its reentering Starlink satellites could hurt or kill people](https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers)
-- [New app ‘Wyzr Friends’ helps older adults make friends, arrange carpools](https://techcrunch.com/2023/10/25/wzyr-friends-app/)
-- [Thanks to a layer of molten rock, Mars&#39; core appears bigger than it is](https://www.space.com/mars-core-molten-silicon-rock)
+- [AI titans throw a &lpar;tiny&rpar; bone to AI safety researchers](https://techcrunch.com/2023/10/25/ai-titans-throw-a-tiny-bone-to-ai-safety-researchers/)
+- [Viso eyes no-code for the future of computer vision and scores funding to scale](https://techcrunch.com/2023/10/25/viso-eyes-no-code-for-the-future-of-computer-vision-and-scores-funding-to-scale/)
+- [Chkk helps keep complex Kubernetes environments up and running](https://techcrunch.com/2023/10/25/chkk-helps-keep-complex-kubernetes-environments-up-and-running/)
+- [As publishers block AI web crawlers, Direqt is building AI chatbots for the media industry](https://techcrunch.com/2023/10/25/as-publishers-block-ai-web-crawlers-direqt-is-building-ai-chatbots-for-the-media-industry/)
+- [SpaceX to launch final piece of NASA&#39;s 1st two-way laser communications relay](https://www.space.com/nasa-illuma-t-laser-communication-relay-ready-to-launch-crs-29)
 <!-- BLOG-POST-LIST:END -->
 
 ---
