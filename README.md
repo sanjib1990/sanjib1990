@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU commissioner sidesteps MEPs’ questions about CSAM microtargeting](https://techcrunch.com/2023/10/25/libe-committee-ylva-johansson/)
+- [Climate change has pushed Earth into &#39;uncharted territory&#39;: report](https://www.space.com/earth-enters-uncharted-territory-new-climate-report)
+- [Singapore-based fintech YouTrip picks up $50M led by Lightspeed](https://techcrunch.com/2023/10/25/youtrip-lightspeed/)
 - [Watch the partial lunar eclipse of the Full Hunter&#39;s Moon on Oct. 28 in these free livestreams](https://www.space.com/partial-lunar-eclipse-full-hunters-moon-october-2023-how-to-watch)
 - [Robotaxis ‘do not belong in the city of Los Angeles,’ lawmaker says](https://techcrunch.com/2023/10/25/robotaxis-do-not-belong-in-the-city-of-los-angeles-lawmaker-says/)
-- [Apple Pay Later is now available to all users in the US](https://techcrunch.com/2023/10/25/apple-pay-later-is-now-available-to-all-users-in-the-us/)
-- [The West Antarctic Ice Sheet is melting, and it&#39;s too late to stop it](https://www.space.com/west-antarctic-ice-sheet-melting-unavoidable)
-- [Amazon’s new generative AI tool lets advertisers enhance product images](https://techcrunch.com/2023/10/25/amazons-new-generative-ai-tool-lets-advertisers-enhance-product-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
