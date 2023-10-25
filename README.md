@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI titans throw a &lpar;tiny&rpar; bone to AI safety researchers](https://techcrunch.com/2023/10/25/ai-titans-throw-a-tiny-bone-to-ai-safety-researchers/)
-- [Viso eyes no-code for the future of computer vision and scores funding to scale](https://techcrunch.com/2023/10/25/viso-eyes-no-code-for-the-future-of-computer-vision-and-scores-funding-to-scale/)
-- [Chkk helps keep complex Kubernetes environments up and running](https://techcrunch.com/2023/10/25/chkk-helps-keep-complex-kubernetes-environments-up-and-running/)
-- [As publishers block AI web crawlers, Direqt is building AI chatbots for the media industry](https://techcrunch.com/2023/10/25/as-publishers-block-ai-web-crawlers-direqt-is-building-ai-chatbots-for-the-media-industry/)
-- [SpaceX to launch final piece of NASA&#39;s 1st two-way laser communications relay](https://www.space.com/nasa-illuma-t-laser-communication-relay-ready-to-launch-crs-29)
+- [TikTok partners with Tickets.com to sell tickets for its first live music event](https://techcrunch.com/2023/10/25/tiktok-partners-with-tickets-com-to-sell-tickets-for-its-first-live-music-event/)
+- [China continues remote-sensing buildup with new launch of Yaogan satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-remote-sensing-satellites-launch-october-2023)
+- [Google Play’s policy update cracks down on ‘offensive’ AI apps, disruptive notifications](https://techcrunch.com/2023/10/25/google-plays-policy-update-cracks-down-on-offensive-ai-apps-disruptive-notifications/)
+- [China unveils Shenzhou 17 astronauts launching to Tiangong space station tonight &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-launching-to-tiangong-space-station-unveiled)
+- [GM and Honda punt on plan to build millions of affordable EVs together](https://techcrunch.com/2023/10/25/gm-and-honda-punt-on-plan-to-build-millions-of-affordable-evs-together/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
