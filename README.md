@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flourish Ventures, a ‘fintech venture fund with a purpose,’ secures $350M in new capital](https://techcrunch.com/2023/10/25/flourish-ventures-a-fintech-venture-fund-with-a-purpose-secures-350m-in-new-capital/)
-- [The Theory Ventures venture theory with venture theorist Tomasz Tunguz](https://techcrunch.com/2023/10/25/the-theory-ventures-venture-theory-with-venture-theorist-tomasz-tunguz/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Google launches AR beauty ads for lip and eye products](https://techcrunch.com/2023/10/25/google-launches-ar-beauty-ads-for-lip-and-eye-products/)
-- [SpaceX fuels up Starship in key test ahead of 2nd-ever flight &lpar;video, photos&rpar;](https://www.space.com/spacex-starship-fueling-wet-dress-rehearsal-october-2023)
+- [Pirr raised an angel round to help you co-write erotica with an AI](https://techcrunch.com/2023/10/25/pirr-ai-erotica/)
+- [US security remains paramount in the continued rise of AI, according to Treasury Department secretary](https://techcrunch.com/2023/10/25/ai-security-paul-rosen/)
+- [SpaceX counters FAA claims that its reentering Starlink satellites could hurt or kill people](https://www.space.com/spacex-counters-faa-claims-starlink-space-junk-dangers)
+- [New app ‘Wyzr Friends’ helps older adults make friends, arrange carpools](https://techcrunch.com/2023/10/25/wzyr-friends-app/)
+- [Thanks to a layer of molten rock, Mars&#39; core appears bigger than it is](https://www.space.com/mars-core-molten-silicon-rock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
