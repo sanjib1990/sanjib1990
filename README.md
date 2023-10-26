@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SaaS follow-on rounds see a slowdown, but it won’t last forever](https://techcrunch.com/2023/10/26/saas-follow-on-rounds-slowdown/)
+- [Satellite data reveals ancient landscape preserved beneath East Antarctic ice sheet](https://www.space.com/antarctica-ice-sheet-satellite-data-ancient-landscape)
+- [After helping sift through 400m photos, GoodOnes renames to Ollie](https://techcrunch.com/2023/10/26/goodones-good-ollie-better/)
+- [Waymo driverless vehicles are now available through Uber, starting first in Phoenix](https://techcrunch.com/2023/10/26/waymo-driverless-vehicles-are-now-available-through-uber-starting-first-in-phoenix/)
 - [Rocket Lab aims to return to flight this year after September launch failure](https://www.space.com/rocket-lab-electron-return-flight-2023)
-- [Google Maps is getting new AI-powered search updates, an enhanced navigation interface and more](https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/)
-- [Credal aims to connect company data to LLMs ‘securely’](https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/)
-- [Outset is using GPT-4 to make user surveys better](https://techcrunch.com/2023/10/26/outset-is-using-gpt-4-to-make-user-surveys-better/)
-- [Generative AI startup 1337 &lpar;Leet&rpar; is paying users to help create AI-driven influencers](https://techcrunch.com/2023/10/26/generative-ai-startup-1337-leet-ai-driven-virtual-influencers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
