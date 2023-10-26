@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kid Cudi unveils upcoming sci-fi comic series &#39;Moon Man&#39;](https://www.space.com/news/kid-cudi-unveils-upcoming-sci-fi-comic-series-moon-man)
+- [Astronauts test moon camera design for future Artemis missions](https://www.space.com/astronauts-test-moon-camera-prototype-earth)
+- [ABL Space Systems provides update on the road to second RS1 launch](https://techcrunch.com/2023/10/26/abl-space-systems-provides-update-on-the-road-to-second-rs1-launch/)
+- [China&#39;s Shenzhou 17 astronauts arrive at Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-arrive-tiangong-space-station)
 - [SBF testifying, bitcoin rises amid spot ETF speculation and Walmart’s web3 accelerator surfaces](https://techcrunch.com/2023/10/26/sbf-testifying-bitcoin-rises-amid-spot-etf-speculation-and-walmarts-web3-accelerator-surfaces/)
-- [NASA wants to fly this nuclear Dragonfly drone on Saturn&#39;s moon Titan. Watch its wind tunnel test &lpar;video&rpar;](https://www.space.com/nasa-dragonfly-drone-titan-wind-tunnel-test-video)
-- [Threads isn’t dead and it now has polls and GIFs too](https://techcrunch.com/2023/10/26/threads-isnt-dead-and-it-now-has-polls-and-gifs-too/)
-- [Thrawn, Mace Windu and Jango Fett highlight Marvel Comics&#39; ambitious &#39;Star Wars&#39; roster for 2024](https://www.space.com/marvel-comics-new-star-wars-series-2024)
-- [OpenAI forms team to study ‘catastrophic’ AI risks, including nuclear threats](https://techcrunch.com/2023/10/26/openai-forms-team-to-study-catastrophic-risks-including-nuclear-threats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
