@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inlyte Energy reels in $8M seed round to revive a 50-year-old battery technology](https://techcrunch.com/2023/10/26/inlyte-energy-seed-round/)
+- [Artemis 2 Orion spacecraft comes together ahead of 2024 moon mission &lpar;photos&rpar;](https://www.space.com/artemis-2-orion-moon-spacecraft-assembly-nasa-factory)
+- [Memory chip maker SK Hynix, a shareholder of Kioxia, opposes a merger with Western Digital](https://techcrunch.com/2023/10/26/memory-chip-maker-sk-hynix-a-shareholder-of-kioxia-opposes-a-merger-with-western-digital/)
 - [GGV Capital U.S. backs Arteria AI’s digital makeover for financial document creation](https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/)
 - [Temasek and SBI pour $384 million into India’s Ola Electric](https://techcrunch.com/2023/10/26/temasek-and-sbi-pour-384-million-into-indias-ola-electric/)
-- [Meta says users and businesses have 600 million chats on its platforms every day](https://techcrunch.com/2023/10/26/meta-says-users-and-businesses-have-600-million-chats-on-its-platforms-every-day/)
-- [African VCs and startups are eyeing the Middle East for new capital, but there’s a catch](https://techcrunch.com/2023/10/26/african-vcs-and-startups-are-eyeing-the-middle-east-for-new-capital-but-theres-a-catch/)
-- [Oxide is the latest startup to try and bring the power of the cloud on prem](https://techcrunch.com/2023/10/26/oxide-is-the-latest-startup-to-try-and-bring-the-power-of-the-cloud-on-prem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
