@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [50inTech believes it’s time to measure diversity with KPIs](https://techcrunch.com/2023/10/26/50intech-believes-its-time-to-measure-diversity-with-kpis/)
+- [Zuckerberg says Threads has a ‘good chance’ of reaching 1 billion users in a few years](https://techcrunch.com/2023/10/26/zuckerberg-says-threads-has-a-good-chance-of-reaching-1-billion-users-in-a-few-years/)
 - [Xpeng starts removing HD maps from Tesla FSD-like feature in China](https://techcrunch.com/2023/10/25/xpeng-tesla-rival-hd-map-free/)
 - [Tech companies seek 12-18 month extension for India data-protection law compliance](https://techcrunch.com/2023/10/25/tech-companies-seek-12-18-month-extension-for-india-data-protection-law-compliance/)
 - [Will X’s addition of audio and video calling create stickiness in the app?](https://techcrunch.com/2023/10/25/will-xs-addition-of-audio-and-video-calling-create-stickiness-in-the-app/)
-- [China launches new 3-astronaut crew to Tiangong space station](https://www.space.com/china-launches-shenzhou-17-crew-tiangong)
-- [Cosmonauts on ISS spacewalk encounter toxic coolant &#39;blob&#39; while inspecting leaky radiator](https://www.space.com/russian-spacewalk-nauka-radiator-leak-october-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
