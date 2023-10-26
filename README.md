@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oxide is the latest startup to try and bring the power of the cloud on prem](https://techcrunch.com/2023/10/26/oxide-is-the-latest-startup-to-try-and-bring-the-power-of-the-cloud-on-prem/)
+- [Declassified spy satellite images reveal 400 Roman Empire forts in the Middle East](https://www.space.com/spy-satellite-images-declassified-roman-empire-forts-discovered)
+- [Nailing down exoplanet orbits could be key to finding ET. Here&#39;s why](https://www.space.com/exoplanets-orbit-key-to-finding-alien-life-seti)
 - [50inTech believes it’s time to measure diversity with KPIs](https://techcrunch.com/2023/10/26/50intech-believes-its-time-to-measure-diversity-with-kpis/)
 - [Zuckerberg says Threads has a ‘good chance’ of reaching 1 billion users in a few years](https://techcrunch.com/2023/10/26/zuckerberg-says-threads-has-a-good-chance-of-reaching-1-billion-users-in-a-few-years/)
-- [Xpeng starts removing HD maps from Tesla FSD-like feature in China](https://techcrunch.com/2023/10/25/xpeng-tesla-rival-hd-map-free/)
-- [Tech companies seek 12-18 month extension for India data-protection law compliance](https://techcrunch.com/2023/10/25/tech-companies-seek-12-18-month-extension-for-india-data-protection-law-compliance/)
-- [Will X’s addition of audio and video calling create stickiness in the app?](https://techcrunch.com/2023/10/25/will-xs-addition-of-audio-and-video-calling-create-stickiness-in-the-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
