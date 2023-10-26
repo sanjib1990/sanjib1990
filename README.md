@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Consul Service Mesh Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=s3I1kKKfjtQ)
 - [Lecture 15: Introduction to Solutions, General Case](https://www.youtube.com/watch?v=C7CDv47DXxI)
 - [Lecture 4: Heat Engines and Energy Conversion Efficiency](https://www.youtube.com/watch?v=saXXzQya7Tc)
 - [Lecture 22: Free Energy-Composition Diagrams, General Case](https://www.youtube.com/watch?v=yA515wfRhjg)
 - [Supplemental Video: Gallium-Indium Eutectic Demo](https://www.youtube.com/watch?v=2tGYGprLuNs)
-- [Lecture 32: Case Study - Reacting, Multi-component, Multi-phase Systems](https://www.youtube.com/watch?v=xGuMdNH4pLw)
 <!-- YOUTUBE:END -->
 
 ---
