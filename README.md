@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here&#39;s how NASA&#39;s Roman Space Telescope will hunt for lonely black holes and distant exoplanets](https://www.space.com/nasa-roman-space-telescope-black-holes-exoplanets)
+- [Amazon’s virtual health clinic can now treat patients for a cough, cold or flu](https://techcrunch.com/2023/10/26/amazons-virtual-health-clinic-can-now-treat-patients-cough-cold-flu/)
+- [Luminar Neo brings generative AI tools to hobbyist photographers](https://techcrunch.com/2023/10/26/luminar-neo-brings-generative-ai-tools-to-hobbyist-photographers/)
 - [SaaS follow-on rounds see a slowdown, but it won’t last forever](https://techcrunch.com/2023/10/26/saas-follow-on-rounds-slowdown/)
 - [Satellite data reveals ancient landscape preserved beneath East Antarctic ice sheet](https://www.space.com/antarctica-ice-sheet-satellite-data-ancient-landscape)
-- [After helping sift through 400m photos, GoodOnes renames to Ollie](https://techcrunch.com/2023/10/26/goodones-good-ollie-better/)
-- [Waymo driverless vehicles are now available through Uber, starting first in Phoenix](https://techcrunch.com/2023/10/26/waymo-driverless-vehicles-are-now-available-through-uber-starting-first-in-phoenix/)
-- [Rocket Lab aims to return to flight this year after September launch failure](https://www.space.com/rocket-lab-electron-return-flight-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
