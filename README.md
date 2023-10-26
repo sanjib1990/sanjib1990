@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ULA aims to launch Astrobotic lunar lander on Christmas Eve](https://techcrunch.com/2023/10/25/ula-aims-to-launch-astrobotic-lunar-lander-on-christmas-eve/)
 - [Ford and UAW negotiators reach ‘tentative agreement’ to end strike](https://techcrunch.com/2023/10/25/ford-and-uaw-negotiators-reach-tentative-agreement-to-end-strike/)
 - [Electron will likely return to the skies before the year is out, Rocket Lab says](https://techcrunch.com/2023/10/25/electron-will-likely-return-to-the-skies-before-the-year-is-out-rocket-lab-says/)
 - [TwitchCon 2023 was better than last year, but everyone hated Las Vegas](https://techcrunch.com/2023/10/25/twitchcon-2023-was-better-than-last-year-but-everyone-hated-las-vegas/)
 - [Why 42 states came together to sue Meta over kids’ mental health](https://techcrunch.com/2023/10/25/meta-attorneys-general-state-joint-lawsuit-children/)
-- [AMD and Korean telco KT back AI software developer Moreh in $22M Series B](https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
