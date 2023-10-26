@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads isn’t dead and it now has polls and GIFs too](https://techcrunch.com/2023/10/26/threads-isnt-dead-and-it-now-has-polls-and-gifs-too/)
+- [Thrawn, Mace Windu and Jango Fett highlight Marvel Comics&#39; ambitious &#39;Star Wars&#39; roster for 2024](https://www.space.com/marvel-comics-new-star-wars-series-2024)
+- [OpenAI forms team to study ‘catastrophic’ AI risks, including nuclear threats](https://techcrunch.com/2023/10/26/openai-forms-team-to-study-catastrophic-risks-including-nuclear-threats/)
+- [There could be a simple reason why seed deals are so expensive today](https://techcrunch.com/2023/10/26/why-are-seed-deals-expensive/)
 - [Agora enables brands to host live shopping events and auctions](https://techcrunch.com/2023/10/26/agora-enables-brands-to-host-live-shopping-events-and-auctions/)
-- [Spam is about to get even more terrible](https://techcrunch.com/2023/10/26/ai-will-make-spam-more-awful/)
-- [What time is the Full Hunter&#39;s Moon lunar eclipse on Oct. 28?](https://www.space.com/partial-lunar-eclipse-october-28-what-time)
-- [Stealthy social commerce startup taps into Meta roots to create AI-first brand messaging](https://techcrunch.com/2023/10/26/social-commerce-meta-ai-brand-messaging/)
-- [Lego&#39;s epic &#39;Dune&#39; Ornithopter building set is now open for pre-orders](https://www.space.com/lego-dune-ornithopter-kit-pre-orders)
 <!-- BLOG-POST-LIST:END -->
 
 ---
