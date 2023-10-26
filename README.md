@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmonauts on ISS spacewalk encounter toxic coolant &#39;blob&#39; while inspecting leaky radiator](https://www.space.com/russian-spacewalk-nauka-radiator-leak-october-2023)
 - [ULA aims to launch Astrobotic lunar lander on Christmas Eve](https://techcrunch.com/2023/10/25/ula-aims-to-launch-astrobotic-lunar-lander-on-christmas-eve/)
 - [Ford and UAW negotiators reach ‘tentative agreement’ to end strike](https://techcrunch.com/2023/10/25/ford-and-uaw-negotiators-reach-tentative-agreement-to-end-strike/)
 - [Electron will likely return to the skies before the year is out, Rocket Lab says](https://techcrunch.com/2023/10/25/electron-will-likely-return-to-the-skies-before-the-year-is-out-rocket-lab-says/)
 - [TwitchCon 2023 was better than last year, but everyone hated Las Vegas](https://techcrunch.com/2023/10/25/twitchcon-2023-was-better-than-last-year-but-everyone-hated-las-vegas/)
-- [Why 42 states came together to sue Meta over kids’ mental health](https://techcrunch.com/2023/10/25/meta-attorneys-general-state-joint-lawsuit-children/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
