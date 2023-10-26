@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TwitchCon 2023 was better than last year, but everyone hated Las Vegas](https://techcrunch.com/2023/10/25/twitchcon-2023-was-better-than-last-year-but-everyone-hated-las-vegas/)
+- [Why 42 states came together to sue Meta over kids’ mental health](https://techcrunch.com/2023/10/25/meta-attorneys-general-state-joint-lawsuit-children/)
+- [AMD and Korean telco KT back AI software developer Moreh in $22M Series B](https://techcrunch.com/2023/10/25/amd-korean-telco-kt-among-backers-in-ai-software-developer-moreh-in-22m-series-b/)
 - [Carta’s CEO reaches out to customers about bad press, alerting them to bad press](https://techcrunch.com/2023/10/25/cartas-ceo-reaches-out-to-customers-about-bad-press-alerting-them-to-bad-press/)
 - [Kids on Roblox are hosting protests for Palestine](https://techcrunch.com/2023/10/25/roblox-palestine-protest/)
-- [Pony.ai gets $100M, establishes JV with Saudi Arabia’s Neom](https://techcrunch.com/2023/10/25/pony-ai-gets-100m-autonomous-vehicle-jv-saudi-arabias-neom/)
-- [EU commissioner sidesteps MEPs’ questions about CSAM proposal microtargeting](https://techcrunch.com/2023/10/25/libe-committee-ylva-johansson/)
-- [Climate change has pushed Earth into &#39;uncharted territory&#39;: report](https://www.space.com/earth-enters-uncharted-territory-new-climate-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
