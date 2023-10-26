@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Inlyte Energy reels in $8M seed round to revive a 50-year-old battery technology](https://techcrunch.com/2023/10/26/inlyte-energy-seed-round/)
-- [Artemis 2 Orion spacecraft comes together ahead of 2024 moon mission &lpar;photos&rpar;](https://www.space.com/artemis-2-orion-moon-spacecraft-assembly-nasa-factory)
-- [Memory chip maker SK Hynix, a shareholder of Kioxia, opposes a merger with Western Digital](https://techcrunch.com/2023/10/26/memory-chip-maker-sk-hynix-a-shareholder-of-kioxia-opposes-a-merger-with-western-digital/)
-- [GGV Capital U.S. backs Arteria AI’s digital makeover for financial document creation](https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/)
-- [Temasek and SBI pour $384 million into India’s Ola Electric](https://techcrunch.com/2023/10/26/temasek-and-sbi-pour-384-million-into-indias-ola-electric/)
+- [Rocket Lab aims to return to flight this year after September launch failure](https://www.space.com/rocket-lab-electron-return-flight-2023)
+- [Google Maps is getting new AI-powered search updates, an enhanced navigation interface and more](https://techcrunch.com/2023/10/26/google-maps-is-getting-new-ai-powered-search-updates-an-enhanced-navigation-interface-and-more/)
+- [Credal aims to connect company data to LLMs ‘securely’](https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/)
+- [Outset is using GPT-4 to make user surveys better](https://techcrunch.com/2023/10/26/outset-is-using-gpt-4-to-make-user-surveys-better/)
+- [Generative AI startup 1337 &lpar;Leet&rpar; is paying users to help create AI-driven influencers](https://techcrunch.com/2023/10/26/generative-ai-startup-1337-leet-ai-driven-virtual-influencers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
