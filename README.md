@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Search for intelligent aliens explores new radio-frequency realms](https://www.space.com/alien-life-hunt-lofar-radio-frequency-seti)
+- [Magic Leap’s new CEO is a Bain Capital exec](https://techcrunch.com/2023/10/26/magic-leaps-new-ceo-is-a-bain-capital-exec/)
+- [Soundboks is scaling high-volume, high-energy speakers across borders and cultures](https://techcrunch.com/2023/10/26/soundboks-is-scaling-high-volume-high-energy-speakers-across-borders-and-cultures/)
 - [Kid Cudi unveils upcoming sci-fi comic series &#39;Moon Man&#39;](https://www.space.com/news/kid-cudi-unveils-upcoming-sci-fi-comic-series-moon-man)
 - [Astronauts test moon camera design for future Artemis missions](https://www.space.com/astronauts-test-moon-camera-prototype-earth)
-- [ABL Space Systems provides update on the road to second RS1 launch](https://techcrunch.com/2023/10/26/abl-space-systems-provides-update-on-the-road-to-second-rs1-launch/)
-- [China&#39;s Shenzhou 17 astronauts arrive at Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-arrive-tiangong-space-station)
-- [SBF testifying, bitcoin rises amid spot ETF speculation and Walmart’s web3 accelerator surfaces](https://techcrunch.com/2023/10/26/sbf-testifying-bitcoin-rises-amid-spot-etf-speculation-and-walmarts-web3-accelerator-surfaces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
