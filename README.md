@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford delays $12B in EV investments as automaker wrestles with demand](https://techcrunch.com/2023/10/26/ford-delays-12b-in-ev-investments-as-automaker-wrestles-with-demand/)
+- [Twitch’s money guy talks about the revenue split controversy and its monetization long game](https://techcrunch.com/2023/10/26/twitch-mike-minton-chief-monetization-officer-twitchcon-2023-partner-plus-revenue-split/)
+- [Sam Bankman-Fried takes the stand, but without jurors](https://techcrunch.com/2023/10/26/sam-bankman-fried-takes-the-stand/)
 - [How director Nathaniel Kahn brought the James Webb Space Telescope to IMAX with &#39;Deep Sky&#39;](https://www.space.com/james-webb-space-telescope-deep-sky-imax)
 - [Search for intelligent aliens explores new radio-frequency realms](https://www.space.com/alien-life-hunt-lofar-radio-frequency-seti)
-- [Magic Leap’s new CEO is a Bain Capital exec](https://techcrunch.com/2023/10/26/magic-leaps-new-ceo-is-a-bain-capital-exec/)
-- [Soundboks is scaling high-volume, high-energy speakers across borders and cultures](https://techcrunch.com/2023/10/26/soundboks-is-scaling-high-volume-high-energy-speakers-across-borders-and-cultures/)
-- [Kid Cudi unveils upcoming sci-fi comic series &#39;Moon Man&#39;](https://www.space.com/news/kid-cudi-unveils-upcoming-sci-fi-comic-series-moon-man)
 <!-- BLOG-POST-LIST:END -->
 
 ---
