@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Xpeng starts removing HD maps from Tesla FSD-like feature in China](https://techcrunch.com/2023/10/25/xpeng-tesla-rival-hd-map-free/)
+- [Tech companies seek 12-18 month extension for India data-protection law compliance](https://techcrunch.com/2023/10/25/tech-companies-seek-12-18-month-extension-for-india-data-protection-law-compliance/)
 - [Will X’s addition of audio and video calling create stickiness in the app?](https://techcrunch.com/2023/10/25/will-xs-addition-of-audio-and-video-calling-create-stickiness-in-the-app/)
 - [China launches new 3-astronaut crew to Tiangong space station](https://www.space.com/china-launches-shenzhou-17-crew-tiangong)
 - [Cosmonauts on ISS spacewalk encounter toxic coolant &#39;blob&#39; while inspecting leaky radiator](https://www.space.com/russian-spacewalk-nauka-radiator-leak-october-2023)
-- [ULA aims to launch Astrobotic lunar lander on Christmas Eve](https://techcrunch.com/2023/10/25/ula-aims-to-launch-astrobotic-lunar-lander-on-christmas-eve/)
-- [Ford and UAW negotiators reach ‘tentative agreement’ to end strike](https://techcrunch.com/2023/10/25/ford-and-uaw-negotiators-reach-tentative-agreement-to-end-strike/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
