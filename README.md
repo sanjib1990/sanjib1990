@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GGV Capital U.S. backs Arteria AI’s digital makeover for financial document creation](https://techcrunch.com/2023/10/26/ggv-capital-arteria-ai-digital-financial-documents/)
+- [Temasek and SBI pour $384 million into India’s Ola Electric](https://techcrunch.com/2023/10/26/temasek-and-sbi-pour-384-million-into-indias-ola-electric/)
+- [Meta says users and businesses have 600 million chats on its platforms every day](https://techcrunch.com/2023/10/26/meta-says-users-and-businesses-have-600-million-chats-on-its-platforms-every-day/)
+- [African VCs and startups are eyeing the Middle East for new capital, but there’s a catch](https://techcrunch.com/2023/10/26/african-vcs-and-startups-are-eyeing-the-middle-east-for-new-capital-but-theres-a-catch/)
 - [Oxide is the latest startup to try and bring the power of the cloud on prem](https://techcrunch.com/2023/10/26/oxide-is-the-latest-startup-to-try-and-bring-the-power-of-the-cloud-on-prem/)
-- [Declassified spy satellite images reveal 400 Roman Empire forts in the Middle East](https://www.space.com/spy-satellite-images-declassified-roman-empire-forts-discovered)
-- [Nailing down exoplanet orbits could be key to finding ET. Here&#39;s why](https://www.space.com/exoplanets-orbit-key-to-finding-alien-life-seti)
-- [50inTech believes it’s time to measure diversity with KPIs](https://techcrunch.com/2023/10/26/50intech-believes-its-time-to-measure-diversity-with-kpis/)
-- [Zuckerberg says Threads has a ‘good chance’ of reaching 1 billion users in a few years](https://techcrunch.com/2023/10/26/zuckerberg-says-threads-has-a-good-chance-of-reaching-1-billion-users-in-a-few-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
