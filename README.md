@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Scary Fast October Mac event: How to watch and what to expect](https://techcrunch.com/2023/10/27/apples-scary-fast-mac-event-how-to-watch-and-what-to-expect/)
-- [Truecaller drops 32% on lower revenue](https://techcrunch.com/2023/10/27/truecaller-drops-on-lower-revenue/)
-- [1st public exhibit of OSIRIS-Rex asteroid sample to open Nov. 3 at Smithsonian](https://www.space.com/smithsonian-osiris-rex-bennu-asteroid-display)
-- [Loki season 2 episode 4 review: Fixing the system](https://www.space.com/loki-season-2-episode-4-review)
-- [Capturing spread is a powerful but less understood business model available for some startups](https://techcrunch.com/2023/10/27/capturing-spread-is-a-powerful-but-less-understood-business-model-available-for-some-startups/)
+- [UK Space Agency signs deal with Axiom Space for human spaceflight mission](https://www.space.com/uk-space-agency-axiom-human-spaceflight-mission)
+- [Sam Bankman-Fried says he didn’t defraud FTX customers or take their funds](https://techcrunch.com/2023/10/27/sam-bankman-fried-testifies/)
+- [Big Tech’s massive ad businesses are getting a boost from AI](https://techcrunch.com/2023/10/27/big-tech-advertising-ai/)
+- [Elon Musk’s Twitter a year later: Everything you need to know](https://techcrunch.com/2023/10/27/elon-musk-twitter-everything-you-need-to-know/)
+- [Startup browser maker Arc now lets you share Spaces, Folders and Split Views with non-Arc users](https://techcrunch.com/2023/10/27/startup-browser-maker-arc-now-lets-you-share-spaces-folders-and-split-views-with-non-arc-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
