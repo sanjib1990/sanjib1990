@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Scary Fast October Mac event: How to watch and what to expect](https://techcrunch.com/2023/10/27/apples-scary-fast-mac-event-how-to-watch-and-what-to-expect/)
+- [Truecaller drops 32% on lower revenue](https://techcrunch.com/2023/10/27/truecaller-drops-on-lower-revenue/)
 - [1st public exhibit of OSIRIS-Rex asteroid sample to open Nov. 3 at Smithsonian](https://www.space.com/smithsonian-osiris-rex-bennu-asteroid-display)
 - [Loki season 2 episode 4 review: Fixing the system](https://www.space.com/loki-season-2-episode-4-review)
 - [Capturing spread is a powerful but less understood business model available for some startups](https://techcrunch.com/2023/10/27/capturing-spread-is-a-powerful-but-less-understood-business-model-available-for-some-startups/)
-- [Apple fixes bug that undermined iOS privacy feature for years](https://techcrunch.com/2023/10/27/apple-fixes-bug-that-undermined-ios-privacy-feature-for-years/)
-- [X to take on newswire services with new product, XWire](https://techcrunch.com/2023/10/27/x-to-take-on-newswire-services-with-new-product-xwire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
