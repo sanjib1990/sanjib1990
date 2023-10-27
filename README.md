@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech layoffs are back with a vengeance](https://techcrunch.com/2023/10/27/tc-startups-weekly-10-27-23/)
+- [CCleaner says hackers stole users’ personal data during MOVEit mass-hack](https://techcrunch.com/2023/10/27/ccleaner-says-hackers-stole-users-personal-data-during-moveit-mass-hack/)
+- [TC+ Roundup: How to successfully buy another company](https://techcrunch.com/2023/10/27/tc-roundup-how-to-successfully-buy-another-company/)
 - [UK Space Agency signs deal with Axiom Space for human spaceflight mission](https://www.space.com/uk-space-agency-axiom-human-spaceflight-mission)
 - [Sam Bankman-Fried says he didn’t defraud FTX customers or take their funds](https://techcrunch.com/2023/10/27/sam-bankman-fried-testifies/)
-- [Big Tech’s massive ad businesses are getting a boost from AI](https://techcrunch.com/2023/10/27/big-tech-advertising-ai/)
-- [Elon Musk’s Twitter a year later: Everything you need to know](https://techcrunch.com/2023/10/27/elon-musk-twitter-everything-you-need-to-know/)
-- [Startup browser maker Arc now lets you share Spaces, Folders and Split Views with non-Arc users](https://techcrunch.com/2023/10/27/startup-browser-maker-arc-now-lets-you-share-spaces-folders-and-split-views-with-non-arc-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
