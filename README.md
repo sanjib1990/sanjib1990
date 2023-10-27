@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Two of California’s biggest robotaxi opponents join forces](https://techcrunch.com/2023/10/27/stop-the-av-disaster-teamsters-and-rideshare-drivers-join-forces/)
+- [Supermassive black hole seen spinning ropes of plasma like a cosmic spider](https://www.space.com/supermassive-black-hole-plasma-jet-ropes)
 - [Infrared aurora on Uranus confirmed for the 1st time](https://www.space.com/uranus-infrared-aurora-confirmed-first-time)
 - [&#39;Deep learning&#39; could shed new light on supernova explosions — and our cosmic origins](https://www.space.com/deep-learning-supernova-explosions-cosmic-origins)
 - [AI’s proxy war heats up as Google reportedly backs Anthropic with $2B](https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/)
-- [The next 4 to 5 years will be &#39;most favorable&#39; for aurora sightings. Here&#39;s why](https://www.space.com/why-auroras-will-be-at-their-best-next-few-years-solar-cycle-25)
-- [X is launching two new subscription tiers, including a ‘Premium+’ ad-free plan](https://techcrunch.com/2023/10/27/x-is-launching-new-premium-and-basic-subscription-tiers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
