@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI, Google and an “digital anthropologist”: the UN forms a high level board to explore AI governance](https://techcrunch.com/2023/10/27/openai-google-and-an-digital-anthropologist-the-un-forms-a-high-level-board-to-explore-ai-governance/)
+- [Byterat nabs $4M seed round to collect and analyze data for battery labs](https://techcrunch.com/2023/10/27/byterat-seed-round/)
 - [Pitch Deck Teardown: Aether’s $49M Series A deck](https://techcrunch.com/2023/10/27/sample-series-a-pitch-deck-aether/)
 - [Watch NASA&#39;s Artemis 2 mobile rocket launcher get soaked during water deluge test &lpar;video&rpar;](https://www.space.com/artemis-2-mobile-rocket-launcher-water-deluge-test)
 - [ULA targets Christmas Eve for debut of new Vulcan Centaur rocket](https://www.space.com/ula-vulcan-centaur-debut-launch-christmas-eve)
-- [Tata to start manufacturing iPhones in India](https://techcrunch.com/2023/10/27/tata-to-start-making-iphones-in-india/)
-- [The Full Hunter&#39;s Moon experiences a partial lunar eclipse tomorrow. Here&#39;s what to expect](https://www.space.com/partial-lunar-eclipse-oct-2023-heres-what-to-expect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
