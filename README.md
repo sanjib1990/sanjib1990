@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Aether’s $49M Series A deck](https://techcrunch.com/2023/10/27/sample-series-a-pitch-deck-aether/)
+- [Watch NASA&#39;s Artemis 2 mobile rocket launcher get soaked during water deluge test &lpar;video&rpar;](https://www.space.com/artemis-2-mobile-rocket-launcher-water-deluge-test)
 - [ULA targets Christmas Eve for debut of new Vulcan Centaur rocket](https://www.space.com/ula-vulcan-centaur-debut-launch-christmas-eve)
 - [Tata to start manufacturing iPhones in India](https://techcrunch.com/2023/10/27/tata-to-start-making-iphones-in-india/)
 - [The Full Hunter&#39;s Moon experiences a partial lunar eclipse tomorrow. Here&#39;s what to expect](https://www.space.com/partial-lunar-eclipse-oct-2023-heres-what-to-expect)
-- [Groundbreaking laser communications experiment flying to ISS on SpaceX cargo mission next month](https://www.space.com/spacex-cargo-mission-crs-29-science-experiments)
-- [A year after Musk’s takeover, X says an average user spends 32 minutes per day on the platform](https://techcrunch.com/2023/10/27/a-year-after-musks-takeover-x-says-an-average-user-spends-32-minutes-per-day-on-the-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
