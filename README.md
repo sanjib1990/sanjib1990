@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A year after Musk’s takeover, X says an average user spends 32 minutes per day on the platform](https://techcrunch.com/2023/10/27/a-year-after-musks-takeover-x-says-an-average-user-spends-32-minutes-per-day-on-the-platform/)
 - [India’s bike taxi startup Rapido is getting into the cab business](https://techcrunch.com/2023/10/26/rapido-cabs-india/)
 - [India’s Reliance readies credit card debut](https://techcrunch.com/2023/10/26/india-reliance-readies-credit-cards-with-sbi/)
 - [Cruise pauses all driverless robotaxi operations to ‘rebuild public trust’](https://techcrunch.com/2023/10/26/cruise-pauses-all-driverless-robotaxi-operations-to-rebuild-public-trust/)
 - [Ford delays $12B in EV investments as automaker wrestles with demand](https://techcrunch.com/2023/10/26/ford-delays-12b-in-ev-investments-as-automaker-wrestles-with-demand/)
-- [Twitch’s money guy talks about the revenue split controversy and its monetization long game](https://techcrunch.com/2023/10/26/twitch-mike-minton-chief-monetization-officer-twitchcon-2023-partner-plus-revenue-split/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
