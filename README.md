@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI’s proxy war heats up as Google reportedly backs Anthropic with $2B](https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/)
+- [The next 4 to 5 years will be &#39;most favorable&#39; for aurora sightings. Here&#39;s why](https://www.space.com/why-auroras-will-be-at-their-best-next-few-years-solar-cycle-25)
 - [X is launching two new subscription tiers, including a ‘Premium+’ ad-free plan](https://techcrunch.com/2023/10/27/x-is-launching-new-premium-and-basic-subscription-tiers/)
 - [If Venus had Earth-like plate tectonics in its distant past, did it have life too?](https://www.space.com/venus-earth-plate-tectonics-alien-life)
 - [Tech layoffs are back with a vengeance](https://techcrunch.com/2023/10/27/tc-startups-weekly-10-27-23/)
-- [The moon will match up with Jupiter on Oct. 28](https://www.space.com/moon-jupiter-meetup-night-sky-october-28)
-- [CCleaner says hackers stole users’ personal data during MOVEit mass-hack](https://techcrunch.com/2023/10/27/ccleaner-says-hackers-stole-users-personal-data-during-moveit-mass-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
