@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X is launching two new subscription tiers, including a ‘Premium+’ ad-free plan](https://techcrunch.com/2023/10/27/x-is-launching-new-premium-and-basic-subscription-tiers/)
+- [If Venus had Earth-like plate tectonics in its distant past, did it have life too?](https://www.space.com/venus-earth-plate-tectonics-alien-life)
 - [Tech layoffs are back with a vengeance](https://techcrunch.com/2023/10/27/tc-startups-weekly-10-27-23/)
+- [The moon will match up with Jupiter on Oct. 28](https://www.space.com/moon-jupiter-meetup-night-sky-october-28)
 - [CCleaner says hackers stole users’ personal data during MOVEit mass-hack](https://techcrunch.com/2023/10/27/ccleaner-says-hackers-stole-users-personal-data-during-moveit-mass-hack/)
-- [TC+ Roundup: How to successfully buy another company](https://techcrunch.com/2023/10/27/tc-roundup-how-to-successfully-buy-another-company/)
-- [UK Space Agency signs deal with Axiom Space for human spaceflight mission](https://www.space.com/uk-space-agency-axiom-human-spaceflight-mission)
-- [Sam Bankman-Fried says he didn’t defraud FTX customers or take their funds](https://techcrunch.com/2023/10/27/sam-bankman-fried-testifies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
