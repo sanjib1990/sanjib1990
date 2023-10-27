@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI, Google and an “digital anthropologist”: the UN forms a high level board to explore AI governance](https://techcrunch.com/2023/10/27/openai-google-and-an-digital-anthropologist-the-un-forms-a-high-level-board-to-explore-ai-governance/)
-- [Byterat nabs $4M seed round to collect and analyze data for battery labs](https://techcrunch.com/2023/10/27/byterat-seed-round/)
-- [Pitch Deck Teardown: Aether’s $49M Series A deck](https://techcrunch.com/2023/10/27/sample-series-a-pitch-deck-aether/)
-- [Watch NASA&#39;s Artemis 2 mobile rocket launcher get soaked during water deluge test &lpar;video&rpar;](https://www.space.com/artemis-2-mobile-rocket-launcher-water-deluge-test)
-- [ULA targets Christmas Eve for debut of new Vulcan Centaur rocket](https://www.space.com/ula-vulcan-centaur-debut-launch-christmas-eve)
+- [Should you buy a telescope on Black Friday/Cyber Monday 2023?](https://www.space.com/should-you-buy-a-telescope-on-black-friday-cyber-monday)
+- [Internet access in Gaza is collapsing as ISPs fall offline](https://techcrunch.com/2023/10/27/internet-access-in-gaza-is-collapsing-as-isps-fall-offline/)
+- [AI is going to make Big Tech even bigger, and richer](https://techcrunch.com/2023/10/27/ai-is-going-to-make-big-tech-even-bigger-and-richer/)
+- [Sure, Microsoft grabbed the headlines, but Amazon still top dog in the cloud](https://techcrunch.com/2023/10/27/sure-microsoft-grabbed-the-headlines-but-amazon-still-top-dog-in-the-cloud/)
+- [A group behind Stable Diffusion wants to open source emotion-detecting AI](https://techcrunch.com/2023/10/27/a-group-behind-stable-diffusion-wants-to-open-source-emotion-detecting-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
