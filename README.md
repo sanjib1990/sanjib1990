@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s Tye Brady discusses generative AI, humanoid robots and mobile manipulation](https://techcrunch.com/2023/10/28/2620382/)
 - [NASA rocket to study star-forming supernova remnant on Oct. 29](https://www.space.com/nasa-infuse-sounding-rocket-supernova-remnant-preview)
 - [Drinkware with a twist of space history: New &#39;Milestones in Space&#39; glass tumblers](https://www.space.com/chop-shop-milestones-of-space-glass-tumblers)
 - [Instagram head says Threads API is in the works](https://techcrunch.com/2023/10/27/instagram-head-says-threads-api-is-in-the-works/)
 - [Catching up with Keith Rabois on the state of VC, his newest bet, and who he’s backing for president](https://techcrunch.com/2023/10/27/catching-up-with-keith-rabois-on-the-state-of-vc-his-newest-bet-and-who-hes-backing-for-president/)
-- [Twitch’s CMO says competition from rival platforms is good for creators](https://techcrunch.com/2023/10/27/twitchcon-rachel-delphin-twitch-simulcast-community-feedback-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
