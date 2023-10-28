@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch’s CMO says competition from rival platforms is good for creators](https://techcrunch.com/2023/10/27/twitchcon-rachel-delphin-twitch-simulcast-community-feedback-interview/)
 - [Two of California’s biggest robotaxi opponents join forces](https://techcrunch.com/2023/10/27/stop-the-av-disaster-teamsters-and-rideshare-drivers-join-forces/)
 - [Supermassive black hole seen spinning ropes of plasma like a cosmic spider](https://www.space.com/supermassive-black-hole-plasma-jet-ropes)
 - [Infrared aurora on Uranus confirmed for the 1st time](https://www.space.com/uranus-infrared-aurora-confirmed-first-time)
 - [&#39;Deep learning&#39; could shed new light on supernova explosions — and our cosmic origins](https://www.space.com/deep-learning-supernova-explosions-cosmic-origins)
-- [AI’s proxy war heats up as Google reportedly backs Anthropic with $2B](https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
