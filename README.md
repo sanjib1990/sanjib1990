@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can AI lift our spirits?](https://techcrunch.com/2023/10/28/q3-2023-ai-impact/)
+- [MarketForce exits three markets, set to launch a social commerce spinout](https://techcrunch.com/2023/10/28/marketforce-exits-three-markets/)
+- [The urgent call for innovation and investment in maternal health](https://techcrunch.com/2023/10/28/the-urgent-call-for-innovation-and-investment-in-maternal-health/)
 - [Deal Dive: Bagels with a schmear of venture capital](https://techcrunch.com/2023/10/28/deal-dive-bagels-with-a-schmear-of-venture-capital/)
 - [Full Hunter&#39;s Moon puts on a spooky display today with partial lunar eclipse](https://www.space.com/full-hunters-moon-partial-lunar-eclipse-today)
-- [Amazon’s Tye Brady discusses generative AI, humanoid robots and mobile manipulation](https://techcrunch.com/2023/10/28/2620382/)
-- [NASA rocket to study star-forming supernova remnant on Oct. 29](https://www.space.com/nasa-infuse-sounding-rocket-supernova-remnant-preview)
-- [Drinkware with a twist of space history: New &#39;Milestones in Space&#39; glass tumblers](https://www.space.com/chop-shop-milestones-of-space-glass-tumblers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
