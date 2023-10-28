@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise ceases robotaxi operations, the Apple Watch gets a new feature and Carta tries to head off bad press](https://techcrunch.com/2023/10/28/cruise-ceases-robotaxi-operations-the-apple-watch-gets-a-new-feature-and-carta-tries-to-head-off-bad-press/)
 - [Can AI lift our spirits?](https://techcrunch.com/2023/10/28/q3-2023-ai-impact/)
 - [MarketForce exits three markets, set to launch a social commerce spinout](https://techcrunch.com/2023/10/28/marketforce-exits-three-markets/)
 - [The urgent call for innovation and investment in maternal health](https://techcrunch.com/2023/10/28/the-urgent-call-for-innovation-and-investment-in-maternal-health/)
 - [Deal Dive: Bagels with a schmear of venture capital](https://techcrunch.com/2023/10/28/deal-dive-bagels-with-a-schmear-of-venture-capital/)
-- [Full Hunter&#39;s Moon puts on a spooky display today with partial lunar eclipse](https://www.space.com/full-hunters-moon-partial-lunar-eclipse-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
