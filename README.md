@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 22 Starlink satellites from California early Oct. 29](https://www.space.com/spacex-starlink-satellite-launch-group-7-6)
 - [Full Hunter&#39;s Moon lunar eclipse, last eclipse of 2023, an early Halloween treat for stargazers &lpar;photos&rpar;](https://www.space.com/full-hunters-moon-lunar-eclipse-october-2023-photos-video)
 - [Cruise ceases robotaxi operations, the Apple Watch gets a new feature and Carta tries to head off bad press](https://techcrunch.com/2023/10/28/cruise-ceases-robotaxi-operations-the-apple-watch-gets-a-new-feature-and-carta-tries-to-head-off-bad-press/)
 - [Can AI lift our spirits?](https://techcrunch.com/2023/10/28/q3-2023-ai-impact/)
 - [MarketForce exits three markets, set to launch a social commerce spinout](https://techcrunch.com/2023/10/28/marketforce-exits-three-markets/)
-- [The urgent call for innovation and investment in maternal health](https://techcrunch.com/2023/10/28/the-urgent-call-for-innovation-and-investment-in-maternal-health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
