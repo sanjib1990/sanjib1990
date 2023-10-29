@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut Callie Rodriguez helps deploy a lunar telescope in NASA&#39;s new online graphic novel](https://www.space.com/nasa-graphic-novel-first-woman-second-issue)
 - [World&#39;s smallest particle accelerator is 54 million times smaller than the Large Hadron Collider — and it works](https://www.space.com/worlds-smallest-particle-accelerator-nanophotonic)
 - [New map of ice on Mars could help NASA decide where to send future astronauts](https://www.space.com/map-water-ice-mars-nasa-astronauts)
 - [SpaceX launches 22 Starlink satellites from California](https://www.space.com/spacex-starlink-satellite-launch-group-7-6)
 - [Full Hunter&#39;s Moon lunar eclipse, last eclipse of 2023, an early Halloween treat for stargazers &lpar;photos&rpar;](https://www.space.com/full-hunters-moon-lunar-eclipse-october-2023-photos-video)
-- [Cruise ceases robotaxi operations, the Apple Watch gets a new feature and Carta tries to head off bad press](https://techcrunch.com/2023/10/28/cruise-ceases-robotaxi-operations-the-apple-watch-gets-a-new-feature-and-carta-tries-to-head-off-bad-press/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
