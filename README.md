@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More than a year later, the $20B Adobe-Figma deal is still stuck in regulatory limbo](https://techcrunch.com/2023/10/29/adobe-figma-deal-regulatory-limbo/)
+- [A look at how one fintech CEO’s PR decision backfired](https://techcrunch.com/2023/10/29/a-look-at-how-one-fintech-ceos-pr-decision-backfired/)
 - [SpaceX to launch 23 satellites tonight on 2nd half of Starlink doubleheader](https://www.space.com/spacex-starlink-satellite-launch-group-6-25)
 - [Space rocks and asteroid dust are pricey, but these aren’t the most expensive materials used in science](https://www.space.com/expensive-science-materials-space-rocks-asteroid-dust)
 - [Astronaut Callie Rodriguez helps deploy a lunar telescope in NASA&#39;s new online graphic novel](https://www.space.com/nasa-graphic-novel-first-woman-second-issue)
-- [World&#39;s smallest particle accelerator is 54 million times smaller than the Large Hadron Collider — and it works](https://www.space.com/worlds-smallest-particle-accelerator-nanophotonic)
-- [New map of ice on Mars could help NASA decide where to send future astronauts](https://www.space.com/map-water-ice-mars-nasa-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
