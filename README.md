@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China plans to take &#39;hack-proof&#39; quantum satellite technology to new heights](https://www.space.com/china-quantum-communications-satellite-higher-orbit-plans)
+- [Privacy will die to deliver us the thinking and knowing computer](https://techcrunch.com/2023/10/30/privacy-will-die-to-deliver-us-the-thinking-and-knowing-computer/)
+- [&#39;Star Wars&#39; gets spooky in &#39;Tales from the Death Star&#39;](https://www.space.com/star-wars-tales-from-the-death-star)
+- [ChatGPT for career growth? Practica introduces AI-based career coaching and mentorship](https://techcrunch.com/2023/10/30/chatgpt-for-career-growth-practica-introduces-ai-based-career-coaching-and-mentorship/)
 - [Apple’s Scary Fast October Mac event: How to watch and what to expect tonight](https://techcrunch.com/2023/10/30/apples-scary-fast-mac-event-how-to-watch-and-what-to-expect/)
-- [Welcome back to the SaaS bear market](https://techcrunch.com/2023/10/30/welcome-back-to-the-saas-bear-market/)
-- [Understanding operations intelligence can transform a startup](https://techcrunch.com/2023/10/30/understanding-operations-intelligence-can-transform-a-startup/)
-- [ADIA, Norges among anchor backers in Mamaearth’s $92M raise ahead of IPO](https://techcrunch.com/2023/10/30/adia-norges-among-anchor-backers-in-mamaearths-92m-raise-ahead-of-ipo/)
-- [ChatGPT app revenue shows no signs of slowing, but some other AI apps top it](https://techcrunch.com/2023/10/30/chatgpt-app-revenue-shows-no-signs-of-slowing-but-some-other-ai-apps-top-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
