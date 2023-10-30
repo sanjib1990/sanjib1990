@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The rings of Uranus are being held back by its pesky moons](https://www.space.com/uranus-rings-held-back-moons)
+- [Jupiter has a creepy &#39;face&#39; in haunting Halloween photo by NASA&#39;s Juno probe](https://www.space.com/nasa-juno-spacecraft-jupiter-face-halloween-photo)
 - [Korea Investment Partners is the latest Korean VC firm to launch a Southeast Asia fund](https://techcrunch.com/2023/10/29/kipsea/)
 - [Layoffs at VW’s Cariad further delay software launch in Porsche, Audi models](https://techcrunch.com/2023/10/29/layoffs-at-vws-cariad-further-delay-software-launch-in-porsche-audi-models/)
 - [Posts with misinformation on X become ‘ineligible for revenue share’ says Musk](https://techcrunch.com/2023/10/29/posts-with-misinformation-on-x-become-ineligible-for-revenue-share-says-musk/)
-- [US automakers need to make up their minds already](https://techcrunch.com/2023/10/29/ford-gm-ev-uncertainty/)
-- [More than a year later, the $20B Adobe-Figma deal is still stuck in regulatory limbo](https://techcrunch.com/2023/10/29/adobe-figma-deal-regulatory-limbo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
