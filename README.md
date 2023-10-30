@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Scary Fast October Mac event: How to watch and what to expect tonight](https://techcrunch.com/2023/10/30/apples-scary-fast-mac-event-how-to-watch-and-what-to-expect/)
+- [Welcome back to the SaaS bear market](https://techcrunch.com/2023/10/30/welcome-back-to-the-saas-bear-market/)
+- [Understanding operations intelligence can transform a startup](https://techcrunch.com/2023/10/30/understanding-operations-intelligence-can-transform-a-startup/)
+- [ADIA, Norges among anchor backers in Mamaearth’s $92M raise ahead of IPO](https://techcrunch.com/2023/10/30/adia-norges-among-anchor-backers-in-mamaearths-92m-raise-ahead-of-ipo/)
 - [ChatGPT app revenue shows no signs of slowing, but some other AI apps top it](https://techcrunch.com/2023/10/30/chatgpt-app-revenue-shows-no-signs-of-slowing-but-some-other-ai-apps-top-it/)
-- [With deadline looming, Broadcom tries to push $61B VMware deal over finish line](https://techcrunch.com/2023/10/30/with-deadline-looming-broadcom-tries-to-push-61b-vmware-deal-over-finish-line/)
-- [Watch China&#39;s Shenzhou 16 space station astronauts return to Earth tonight &lpar;video&rpar;](https://www.space.com/shenzhou-16-crew-return-tiangong-space-station)
-- [GM reaches tentative deal with UAW, ending widespread six-week autoworkers strike](https://techcrunch.com/2023/10/30/gm-reaches-tentative-deal-with-uaw-ending-widespread-six-week-strike/)
-- [A nearby kilonova explosion could threaten all life on Earth. But don&#39;t worry, scientists say.](https://www.space.com/earth-kilonova-neutron-star-collision-threat-assessment)
 <!-- BLOG-POST-LIST:END -->
 
 ---
