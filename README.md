@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A nearby kilonova explosion could threaten all life on Earth. But don&#39;t worry, scientists say.](https://www.space.com/earth-kilonova-neutron-star-collision-threat-assessment)
+- [Japan’s MagicPod takes its no-code testing platform global](https://techcrunch.com/2023/10/30/japans-magicpod-takes-its-no-code-testing-platform-global/)
+- [Why startups should start preparing now for a potential founder breakup](https://techcrunch.com/2023/10/30/founder-breakups-startups/)
+- [Governments are getting their AI-regulating boots on](https://techcrunch.com/2023/10/30/governments-are-getting-their-ai-regulating-boots-on/)
 - [Meta to offer ad-free subscription in Europe in bid to keep tracking other users](https://techcrunch.com/2023/10/30/meta-ad-free-sub-eu/)
-- [President Biden issues executive order to set standards for AI safety and security](https://techcrunch.com/2023/10/30/president-biden-issues-executive-order-to-set-standards-for-ai-safety-and-security/)
-- [Supervolcano eruption on Pluto hints at hidden ocean beneath the surface](https://www.space.com/new-horizons-pluto-subsurface-ocean)
-- [China&#39;s astronauts grow vegetables in orbit, with an eye on deep space exploration](https://www.space.com/china-astronauts-grow-vegetables-tiangong-space-station)
-- [Video app Detail’s new feature helps you record multi-camera podcasts using iPhones](https://techcrunch.com/2023/10/30/video-app-details-new-feature-helps-you-record-multi-camera-podcasts-using-iphones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
