@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Summit names ex-Wikimedia CEO, Katherine Maher, to take over in wake of Cosgrave controversy](https://techcrunch.com/2023/10/30/web-summit-ceo-katherine-maher/)
+- [Cruise hits the brakes on driverless, UAW makes progress and more EV backpedaling](https://techcrunch.com/2023/10/30/cruise-hits-the-brakes-on-driverless-uaw-makes-progress-and-more-ev-backpedaling/)
 - [The rings of Uranus are being held back by its pesky moons](https://www.space.com/uranus-rings-held-back-moons)
 - [Jupiter has a creepy &#39;face&#39; in haunting Halloween photo by NASA&#39;s Juno probe](https://www.space.com/nasa-juno-spacecraft-jupiter-face-halloween-photo)
 - [Korea Investment Partners is the latest Korean VC firm to launch a Southeast Asia fund](https://techcrunch.com/2023/10/29/kipsea/)
-- [Layoffs at VW’s Cariad further delay software launch in Porsche, Audi models](https://techcrunch.com/2023/10/29/layoffs-at-vws-cariad-further-delay-software-launch-in-porsche-audi-models/)
-- [Posts with misinformation on X become ‘ineligible for revenue share’ says Musk](https://techcrunch.com/2023/10/29/posts-with-misinformation-on-x-become-ineligible-for-revenue-share-says-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
