@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT app revenue shows no signs of slowing, but some other AI apps top it](https://techcrunch.com/2023/10/30/chatgpt-app-revenue-shows-no-signs-of-slowing-but-some-other-ai-apps-top-it/)
+- [With deadline looming, Broadcom tries to push $61B VMware deal over finish line](https://techcrunch.com/2023/10/30/with-deadline-looming-broadcom-tries-to-push-61b-vmware-deal-over-finish-line/)
+- [Watch China&#39;s Shenzhou 16 space station astronauts return to Earth tonight &lpar;video&rpar;](https://www.space.com/shenzhou-16-crew-return-tiangong-space-station)
+- [GM reaches tentative deal with UAW, ending widespread six-week autoworkers strike](https://techcrunch.com/2023/10/30/gm-reaches-tentative-deal-with-uaw-ending-widespread-six-week-strike/)
 - [A nearby kilonova explosion could threaten all life on Earth. But don&#39;t worry, scientists say.](https://www.space.com/earth-kilonova-neutron-star-collision-threat-assessment)
-- [Japan’s MagicPod takes its no-code testing platform global](https://techcrunch.com/2023/10/30/japans-magicpod-takes-its-no-code-testing-platform-global/)
-- [Why startups should start preparing now for a potential founder breakup](https://techcrunch.com/2023/10/30/founder-breakups-startups/)
-- [Governments are getting their AI-regulating boots on](https://techcrunch.com/2023/10/30/governments-are-getting-their-ai-regulating-boots-on/)
-- [Meta to offer ad-free subscription in Europe in bid to keep tracking other users](https://techcrunch.com/2023/10/30/meta-ad-free-sub-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
