@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Korean Investment Partners is the latest Korean VC firm to launch a Southeast Asia fund](https://techcrunch.com/2023/10/29/kipsea/)
+- [Korea Investment Partners is the latest Korean VC firm to launch a Southeast Asia fund](https://techcrunch.com/2023/10/29/kipsea/)
 - [Layoffs at VW’s Cariad further delay software launch in Porsche, Audi models](https://techcrunch.com/2023/10/29/layoffs-at-vws-cariad-further-delay-software-launch-in-porsche-audi-models/)
 - [Posts with misinformation on X become ‘ineligible for revenue share’ says Musk](https://techcrunch.com/2023/10/29/posts-with-misinformation-on-x-become-ineligible-for-revenue-share-says-musk/)
 - [US automakers need to make up their minds already](https://techcrunch.com/2023/10/29/ford-gm-ev-uncertainty/)
