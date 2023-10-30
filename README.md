@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Japanese spacecraft aims to explore the mysterious moons of Mars](https://www.space.com/mars-moons-phobos-jaxa-mmx-mission)
 - [Internet access in Gaza partially restored after blackout](https://techcrunch.com/2023/10/30/internet-access-in-gaza-partially-restored-after-blackout/)
 - [Mastodon takes on Twitter/X by bringing ‘lists’ to mobile](https://techcrunch.com/2023/10/30/mastodon-takes-on-twitter-x-by-bringing-lists-to-mobile/)
 - [Fortnite is the latest game to entice players with a portal to the past](https://techcrunch.com/2023/10/30/fortnite-is-the-latest-game-to-entice-players-with-a-portal-to-the-past/)
 - [French soccer players back African mobile video network StarNews Mobile in $3M round](https://techcrunch.com/2023/10/30/french-soccer-players-back-african-mobile-video-network-starnews-mobile-in-3m-round/)
-- [&#39;Too early&#39; to say which astronaut will command UK Space Agency mission with Axiom Space](https://www.space.com/axiom-space-uk-space-agency-too-early-astronaut-commander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
