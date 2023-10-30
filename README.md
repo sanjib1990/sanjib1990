@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China plans to take &#39;hack-proof&#39; quantum satellite technology to new heights](https://www.space.com/china-quantum-communications-satellite-higher-orbit-plans)
-- [Privacy will die to deliver us the thinking and knowing computer](https://techcrunch.com/2023/10/30/privacy-will-die-to-deliver-us-the-thinking-and-knowing-computer/)
-- [&#39;Star Wars&#39; gets spooky in &#39;Tales from the Death Star&#39;](https://www.space.com/star-wars-tales-from-the-death-star)
-- [ChatGPT for career growth? Practica introduces AI-based career coaching and mentorship](https://techcrunch.com/2023/10/30/chatgpt-for-career-growth-practica-introduces-ai-based-career-coaching-and-mentorship/)
-- [Apple’s Scary Fast October Mac event: How to watch and what to expect tonight](https://techcrunch.com/2023/10/30/apples-scary-fast-mac-event-how-to-watch-and-what-to-expect/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [Solar maximum will arrive sooner and last longer than previously expected, say scientists](https://www.space.com/solar-maximum-expected-2024-new-predictions-suggest)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [James Webb Space Telescope dives deep into the Crab Nebula supernova wreckage &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-crab-supernova-wreckage)
+- [Prosecution tries to paint Sam Bankman-Fried as a liar](https://techcrunch.com/2023/10/30/sam-bankman-fried-ftx-cross-examination/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
