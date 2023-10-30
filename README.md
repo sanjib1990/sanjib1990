@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Q: ABL Space nears next launch](https://techcrunch.com/2023/10/30/max-q-abl-space-nears-next-launch/)
+- [Nex Cubed partners with HBCU.vc to launch scout program](https://techcrunch.com/2023/10/30/nex-cubed-partners-with-hbcu-vc-to-launch-scout-program/)
+- [Why did Twitter &lpar;X&rpar;’s valuation tank 56% in one year?](https://techcrunch.com/2023/10/30/why-did-twitter-xs-valuation-tank-56-in-one-year/)
+- [The Chevy Equinox EV is coming in 2024 with a $34,995 starting price](https://techcrunch.com/2023/10/30/the-chevy-equinox-ev-is-coming-in-2024-with-a-34995-starting-price-and-surprising-range/)
 - [New Japanese spacecraft aims to explore the mysterious moons of Mars](https://www.space.com/mars-moons-phobos-jaxa-mmx-mission)
-- [Internet access in Gaza partially restored after blackout](https://techcrunch.com/2023/10/30/internet-access-in-gaza-partially-restored-after-blackout/)
-- [Mastodon takes on Twitter/X by bringing ‘lists’ to mobile](https://techcrunch.com/2023/10/30/mastodon-takes-on-twitter-x-by-bringing-lists-to-mobile/)
-- [Fortnite is the latest game to entice players with a portal to the past](https://techcrunch.com/2023/10/30/fortnite-is-the-latest-game-to-entice-players-with-a-portal-to-the-past/)
-- [French soccer players back African mobile video network StarNews Mobile in $3M round](https://techcrunch.com/2023/10/30/french-soccer-players-back-african-mobile-video-network-starnews-mobile-in-3m-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
