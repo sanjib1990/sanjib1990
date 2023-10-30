@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Solar maximum will arrive sooner and last longer than previously expected, say scientists](https://www.space.com/solar-maximum-expected-2024-new-predictions-suggest)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [James Webb Space Telescope dives deep into the Crab Nebula supernova wreckage &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-crab-supernova-wreckage)
-- [Prosecution tries to paint Sam Bankman-Fried as a liar](https://techcrunch.com/2023/10/30/sam-bankman-fried-ftx-cross-examination/)
+- [Internet access in Gaza partially restored after blackout](https://techcrunch.com/2023/10/30/internet-access-in-gaza-partially-restored-after-blackout/)
+- [Mastodon takes on Twitter/X by bringing ‘lists’ to mobile](https://techcrunch.com/2023/10/30/mastodon-takes-on-twitter-x-by-bringing-lists-to-mobile/)
+- [Fortnite is the latest game to entice players with a portal to the past](https://techcrunch.com/2023/10/30/fortnite-is-the-latest-game-to-entice-players-with-a-portal-to-the-past/)
+- [French soccer players back African mobile video network StarNews Mobile in $3M round](https://techcrunch.com/2023/10/30/french-soccer-players-back-african-mobile-video-network-starnews-mobile-in-3m-round/)
+- [&#39;Too early&#39; to say which astronaut will command UK Space Agency mission with Axiom Space](https://www.space.com/axiom-space-uk-space-agency-too-early-astronaut-commander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
