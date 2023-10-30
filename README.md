@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supervolcano eruption on Pluto hints at hidden ocean beneath the surface](https://www.space.com/new-horizons-pluto-subsurface-ocean)
 - [China&#39;s astronauts grow vegetables in orbit, with an eye on deep space exploration](https://www.space.com/china-astronauts-grow-vegetables-tiangong-space-station)
 - [Video app Detail’s new feature helps you record multi-camera podcasts using iPhones](https://techcrunch.com/2023/10/30/video-app-details-new-feature-helps-you-record-multi-camera-podcasts-using-iphones/)
 - [Shein adds struggling UK brand Missguided to its fashion empire](https://techcrunch.com/2023/10/30/shein-adds-struggling-uk-brand-missguided-to-its-fashion-empire/)
 - [Web Summit names ex-Wikimedia CEO, Katherine Maher, to take over in wake of Cosgrave controversy](https://techcrunch.com/2023/10/30/web-summit-ceo-katherine-maher/)
-- [Cruise hits the brakes on driverless, UAW makes progress and more EV backpedaling](https://techcrunch.com/2023/10/30/cruise-hits-the-brakes-on-driverless-uaw-makes-progress-and-more-ev-backpedaling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
