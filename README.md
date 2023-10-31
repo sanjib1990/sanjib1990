@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Max Q: ABL Space nears next launch](https://techcrunch.com/2023/10/30/max-q-abl-space-nears-next-launch/)
-- [Nex Cubed partners with HBCU.vc to launch scout program](https://techcrunch.com/2023/10/30/nex-cubed-partners-with-hbcu-vc-to-launch-scout-program/)
-- [Why did Twitter &lpar;X&rpar;’s valuation tank 56% in one year?](https://techcrunch.com/2023/10/30/why-did-twitter-xs-valuation-tank-56-in-one-year/)
-- [The Chevy Equinox EV is coming in 2024 with a $34,995 starting price and surprising range](https://techcrunch.com/2023/10/30/the-chevy-equinox-ev-is-coming-in-2024-with-a-34995-starting-price-and-surprising-range/)
-- [New Japanese spacecraft aims to explore the mysterious moons of Mars](https://www.space.com/mars-moons-phobos-jaxa-mmx-mission)
+- [Apple’s ‘Scary Fast’ event video was shot on iPhone](https://techcrunch.com/2023/10/30/apples-scary-fast-event-video-was-shot-on-iphone/)
+- [Apple’s October Scary Fast Event: Everything revealed about the new MacBook Pro, iMac and M3 chips](https://techcrunch.com/2023/10/30/apples-october-scary-fast-event-everything-announced-so-far/)
+- [Apple brought back the best Mac colorway with the new M3 MacBook Pro](https://techcrunch.com/2023/10/30/apple-brought-back-the-best-mac-colorway-with-the-new-m3-macbook-pro/)
+- [Apple’s M3 iMac is up for preorder, starting at $1,299](https://techcrunch.com/2023/10/30/apples-m3-imac-is-up-for-pre-order-starting-at-1299/)
+- [Apple’s M3, M3 Pro and M3 Max 3-nanometer chips arrive with a big graphics boost](https://techcrunch.com/2023/10/30/apples-m3-m3-pro-and-m3-max-3-nanometer-chips-arrive-with-a-big-graphics-boost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
