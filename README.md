@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brazilian fintech QI Tech lands $200M led by General Atlantic](https://techcrunch.com/2023/10/31/brazils-qi-tech-which-wants-to-decentralize-credit-away-from-banks-lands-200m-led-by-general-atlantic/)
+- [New Horizons&#39; Alan Stern will fulfill a lifelong dream on Virgin Galactic spaceflight this week](https://www.space.com/virgin-galactic-alan-stern-suborbital-research-flight)
+- [SkyCell raises $57M at a $600M valuation to build smart containers for pharmaceutical transport](https://techcrunch.com/2023/10/31/skycell-raises-57m-at-a-600m-valuation-to-build-smart-containers-for-pharmaceutical-transport/)
 - [Egyptian healthtech Almouneer raises $3.6M to scale its platform for treating diabetes and obesity](https://techcrunch.com/2023/10/31/egyptian-healthtech-almouneer-raises-3-6m-to-scale-its-platform-for-treating-diabetes-and-obesity/)
-- [Indian opposition leaders say Apple has warned them of state-sponsored iPhone attacks](https://techcrunch.com/2023/10/30/indian-opposition-leaders-says-apple-has-warned-them-of-state-sponsored-iphone-attacks/)
-- [Hexa, the startup studio behind Front, Spendesk and Aircall, unveils its next batch of startups](https://techcrunch.com/2023/10/30/hexa-the-startup-studio-behind-front-spendesk-and-aircall-unveils-its-next-batch-of-startups/)
-- [5 things we learned so far about the Google antitrust case](https://techcrunch.com/2023/10/30/5-things-we-learned-so-far-about-the-google-antitrust-case/)
-- [China&#39;s Shenzhou 16 astronauts land safely after 5 months aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-16-mission-touchdown-success)
+- [Apple warns Indian opposition leaders of state-sponsored iPhone attacks](https://techcrunch.com/2023/10/30/indian-opposition-leaders-says-apple-has-warned-them-of-state-sponsored-iphone-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
