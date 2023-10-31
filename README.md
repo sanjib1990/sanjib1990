@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cambrium aims to one-up nature with designer proteins that scale sustainably](https://techcrunch.com/2023/10/31/cambrium-aims-to-one-up-nature-with-designer-proteins-that-scale-sustainably/)
+- [Guidde’s AI automatically generates software documentation videos](https://techcrunch.com/2023/10/31/guiddes-ai-automatically-generates-documentation-videos-for-software/)
+- [This proptech startup says generative building design can change the way cities are built](https://techcrunch.com/2023/10/31/proptech-generative-building-design-real-estate/)
 - [Brazilian fintech QI Tech lands $200M led by General Atlantic](https://techcrunch.com/2023/10/31/brazils-qi-tech-which-wants-to-decentralize-credit-away-from-banks-lands-200m-led-by-general-atlantic/)
 - [New Horizons&#39; Alan Stern will fulfill a lifelong dream on Virgin Galactic spaceflight this week](https://www.space.com/virgin-galactic-alan-stern-suborbital-research-flight)
-- [SkyCell raises $57M at a $600M valuation to build smart containers for pharmaceutical transport](https://techcrunch.com/2023/10/31/skycell-raises-57m-at-a-600m-valuation-to-build-smart-containers-for-pharmaceutical-transport/)
-- [Egyptian healthtech Almouneer raises $3.6M to scale its platform for treating diabetes and obesity](https://techcrunch.com/2023/10/31/egyptian-healthtech-almouneer-raises-3-6m-to-scale-its-platform-for-treating-diabetes-and-obesity/)
-- [Apple warns Indian opposition leaders of state-sponsored iPhone attacks](https://techcrunch.com/2023/10/30/indian-opposition-leaders-says-apple-has-warned-them-of-state-sponsored-iphone-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
