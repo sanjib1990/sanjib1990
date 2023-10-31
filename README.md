@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Biden’s AI EO hailed as broad, but not deep without legislation to match](https://techcrunch.com/2023/10/31/bidens-ai-eo-hailed-as-broad-but-not-deep-without-legislation-to-match/)
-- [Connectly taps automation to nudge shoppers to complete purchases](https://techcrunch.com/2023/10/31/connectly-taps-automation-to-nudge-shoppers-to-complete-purchases/)
-- [Does X’s new valuation make sense?](https://techcrunch.com/2023/10/31/does-xs-new-valuation-make-sense/)
-- [NASA, India to launch Earth-observing satellite in 2024](https://www.space.com/nasa-isro-nisar-earth-observing-mission-2024)
-- [Charlie’s senior-focused banking puts new funding toward stopping fraud](https://techcrunch.com/2023/10/31/charlie-which-provides-banking-services-to-seniors-secures-23-million-in-capital-six-months-after-launching/)
+- [Could people reproduce in space? Mouse breakthrough on ISS a promising sign](https://www.space.com/international-space-station-mouse-embryo-reproduction)
+- [Quora’s Poe introduces an AI chatbot creator economy](https://techcrunch.com/2023/10/31/quoras-poe-introduces-an-ai-chatbot-creator-economy/)
+- [How AI is enhancing, not threatening the future of professionals](https://techcrunch.com/2023/10/31/how-ai-is-enhancing-not-threatening-the-future-of-professionals/)
+- [New nonprofit backed by crypto billionaire scores AI chips worth $500M](https://techcrunch.com/2023/10/31/new-nonprofit-backed-by-crypto-billionaire-scores-ai-chips-worth-500m/)
+- [&#39;Bones&#39; of cosmic hand revealed in creepy NASA X-ray telescope views &lpar;video, photo&rpar;](https://www.space.com/cosmic-hand-bones-creepy-nasa-photo-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
