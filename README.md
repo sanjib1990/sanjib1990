@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s October Scary Fast Event: Everything revealed about the new MacBook Pro, iMac and M3 chips](https://techcrunch.com/2023/10/31/apples-october-scary-fast-event-everything-announced-so-far/)
-- [Alexis Ohanian says he’s a ‘techno optimist,’ despite social media’s impact on society](https://techcrunch.com/2023/10/31/alexis-ohanian-says-hes-a-techno-optimist-despite-social-medias-impact-on-society/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Should you buy binoculars on Black Friday or Cyber Monday?](https://www.space.com/should-you-buy-binoculars-on-black-friday-or-cyber-monday)
+- [China&#39;s Shenzhou 16 astronauts hand over Tiangong space station to new crew &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-hand-over-tiangong-space-station)
+- [What not to do when getting your grocery startup off the ground with Abhi Ramesh from Misfits Market](https://techcrunch.com/2023/10/31/what-not-to-do-when-getting-your-grocery-startup-off-the-ground-with-abhi-ramesh-from-misfits-market/)
+- [TC+ Roundup: What happened to the Adobe-Figma deal?](https://techcrunch.com/2023/10/31/tc-roundup-what-happened-to-the-adobe-figma-deal/)
+- [NASA&#39;s Lucy probe will fly by asteroid &#39;Dinkinesh&#39; on Nov. 1. Here&#39;s what to expect](https://www.space.com/lucy-asteroid-flyby-dinkinesh-trojan-jupiter)
+- [SBF’s defense puts forth a 35-minute last-ditch effort to show his goodwill](https://techcrunch.com/2023/10/31/sbf-defense-final-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
