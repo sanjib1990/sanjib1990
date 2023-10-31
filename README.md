@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s October Scary Fast Event: Everything revealed about the new MacBook Pro, iMac and M3 chips](https://techcrunch.com/2023/10/31/apples-october-scary-fast-event-everything-announced-so-far/)
+- [Alexis Ohanian says he’s a ‘techno optimist,’ despite social media’s impact on society](https://techcrunch.com/2023/10/31/alexis-ohanian-says-hes-a-techno-optimist-despite-social-medias-impact-on-society/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Should you buy binoculars on Black Friday or Cyber Monday?](https://www.space.com/should-you-buy-binoculars-on-black-friday-or-cyber-monday)
-- [Star explosions boost deep space cosmic rays to near the speed of light](https://www.space.com/nasa-telescope-supernova-remains-accelerate-cosmic-rays)
-- [Toyota to invest another $8B into North Carolina EV battery factory](https://techcrunch.com/2023/10/31/toyota-to-invest-another-8b-into-north-carolina-ev-battery-factory/)
-- [GreenLite streamlines ‘nightmare’ of construction permitting for businesses](https://techcrunch.com/2023/10/31/this-new-startup-aims-to-help-businesses-like-chick-fil-a-get-construction-permits-in-weeks/)
-- [Xenomorphs strike terror in deep space in Marvel Comics&#39; &#39;Alien: Black, White &amp; Blood&#39;](https://www.space.com/alien-black-white-blood-marvel-comics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
