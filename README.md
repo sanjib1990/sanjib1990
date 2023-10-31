@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should you buy binoculars on Black Friday or Cyber Monday?](https://www.space.com/should-you-buy-binoculars-on-black-friday-or-cyber-monday)
+- [Star explosions boost deep space cosmic rays to near the speed of light](https://www.space.com/nasa-telescope-supernova-remains-accelerate-cosmic-rays)
+- [Toyota to invest another $8B into North Carolina EV battery factory](https://techcrunch.com/2023/10/31/toyota-to-invest-another-8b-into-north-carolina-ev-battery-factory/)
 - [GreenLite streamlines ‘nightmare’ of construction permitting for businesses](https://techcrunch.com/2023/10/31/this-new-startup-aims-to-help-businesses-like-chick-fil-a-get-construction-permits-in-weeks/)
 - [Xenomorphs strike terror in deep space in Marvel Comics&#39; &#39;Alien: Black, White &amp; Blood&#39;](https://www.space.com/alien-black-white-blood-marvel-comics)
-- [DeepMind’s latest AlphaFold model is more useful for drug discovery](https://techcrunch.com/2023/10/31/deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery/)
-- [US-led cybersecurity coalition vows to not pay hackers’ ransom demands](https://techcrunch.com/2023/10/31/united-states-cybersecurity-coalition-deny-ransom-demands/)
-- [How to be an inspirational startup founder](https://techcrunch.com/2023/10/31/how-to-be-an-inspirational-startup-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
