@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Could people reproduce in space? Mouse breakthrough on ISS a promising sign](https://www.space.com/international-space-station-mouse-embryo-reproduction)
-- [Quora’s Poe introduces an AI chatbot creator economy](https://techcrunch.com/2023/10/31/quoras-poe-introduces-an-ai-chatbot-creator-economy/)
-- [How AI is enhancing, not threatening the future of professionals](https://techcrunch.com/2023/10/31/how-ai-is-enhancing-not-threatening-the-future-of-professionals/)
-- [New nonprofit backed by crypto billionaire scores AI chips worth $500M](https://techcrunch.com/2023/10/31/new-nonprofit-backed-by-crypto-billionaire-scores-ai-chips-worth-500m/)
-- [&#39;Bones&#39; of cosmic hand revealed in creepy NASA X-ray telescope views &lpar;video, photo&rpar;](https://www.space.com/cosmic-hand-bones-creepy-nasa-photo-video)
+- [GreenLite streamlines ‘nightmare’ of construction permitting for businesses](https://techcrunch.com/2023/10/31/this-new-startup-aims-to-help-businesses-like-chick-fil-a-get-construction-permits-in-weeks/)
+- [Xenomorphs strike terror in deep space in Marvel Comics&#39; &#39;Alien: Black, White &amp; Blood&#39;](https://www.space.com/alien-black-white-blood-marvel-comics)
+- [DeepMind’s latest AlphaFold model is more useful for drug discovery](https://techcrunch.com/2023/10/31/deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery/)
+- [US-led cybersecurity coalition vows to not pay hackers’ ransom demands](https://techcrunch.com/2023/10/31/united-states-cybersecurity-coalition-deny-ransom-demands/)
+- [How to be an inspirational startup founder](https://techcrunch.com/2023/10/31/how-to-be-an-inspirational-startup-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
