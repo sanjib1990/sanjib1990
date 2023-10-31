@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shield AI raises $200M at a $2.7B valuation to scale military autonomous flying tech](https://techcrunch.com/2023/10/31/shield-ai-raises-200m-at-a-2-7b-valuation-to-scale-military-autonomous-flying-tech/)
-- [Watch new trailer for &#39;Doctor Who&#39; 60th-anniversary specials coming to Disney+ &lpar;video&rpar;](https://www.space.com/doctor-who-60th-anniversary-specials-air-date-trailer)
-- [Yuzu wants to make health plans cheaper by letting insurers mix and match benefits](https://techcrunch.com/2023/10/31/yuzu-wants-to-make-health-plans-cheaper-by-letting-insurers-mix-and-match-benefits/)
-- [Cambrium aims to one-up nature with designer proteins that scale sustainably](https://techcrunch.com/2023/10/31/cambrium-aims-to-one-up-nature-with-designer-proteins-that-scale-sustainably/)
-- [Guidde’s AI automatically generates software documentation videos](https://techcrunch.com/2023/10/31/guiddes-ai-automatically-generates-documentation-videos-for-software/)
+- [SEC accuses SolarWinds CISO of misleading investors before Russian cyberattack](https://techcrunch.com/2023/10/31/sec-solarwinds-ciso-investors-cyberattack/)
+- [Artemis 2 moon astronaut says crew is ready for ambitious 2024 mission](https://www.space.com/artemis-2-moon-astronaut-canadian-space-agency-jeremy-hansen-team-ambition)
+- [DistroKid users can now upload their songs to TikTok Music and CapCut](https://techcrunch.com/2023/10/31/distrokid-tiktok-agreement-capcut/)
+- [Wirepas nabs $22M to expand a IoT business based on distributed, mesh technology](https://techcrunch.com/2023/10/31/wirepas-nabs-22m-to-expand-a-iot-business-based-on-distributed-mesh-technology/)
+- [Confirmed: Palo Alto Networks buys Dig Security, sources say for $400M](https://techcrunch.com/2023/10/31/confirmed-palo-alto-networks-buys-dig-security-sources-say-for-400m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
