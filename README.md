@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google and Match Group reach settlement in app store antitrust case](https://techcrunch.com/2023/10/31/google-and-match-group-reach-settlement-in-app-store-antitrust-case/)
+- [Watch 2 NASA astronauts conduct 4th-ever all-female spacewalk on Nov. 1](https://www.space.com/nasa-all-female-spacewalk-november-2023-webcast)
 - [Why Comcast built an accelerator to nurture sports startups](https://techcrunch.com/2023/10/31/comcast-sports-tech-accelerator/)
 - [So long, Twitter Circles](https://techcrunch.com/2023/10/31/twitter-circle-gone/)
 - [International Space Station astronauts show off creative outfits for Halloween](https://www.space.com/international-space-station-astronauts-halloween-costume-cosplay)
-- [Log analysis and security firm Graylog raises $9M in equity, $30M in debt](https://techcrunch.com/2023/10/31/log-analysis-and-security-firm-graylog-raises-9m-in-equity-30m-in-debt/)
-- [Tesla wins fatal Autopilot crash jury trial](https://techcrunch.com/2023/10/31/tesla-wins-fatal-autopilot-crash-jury-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
