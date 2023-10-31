@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SEC accuses SolarWinds CISO of misleading investors before Russian cyberattack](https://techcrunch.com/2023/10/31/sec-solarwinds-ciso-investors-cyberattack/)
-- [Artemis 2 moon astronaut says crew is ready for ambitious 2024 mission](https://www.space.com/artemis-2-moon-astronaut-canadian-space-agency-jeremy-hansen-team-ambition)
-- [DistroKid users can now upload their songs to TikTok Music and CapCut](https://techcrunch.com/2023/10/31/distrokid-tiktok-agreement-capcut/)
-- [Wirepas nabs $22M to expand a IoT business based on distributed, mesh technology](https://techcrunch.com/2023/10/31/wirepas-nabs-22m-to-expand-a-iot-business-based-on-distributed-mesh-technology/)
-- [Confirmed: Palo Alto Networks buys Dig Security, sources say for $400M](https://techcrunch.com/2023/10/31/confirmed-palo-alto-networks-buys-dig-security-sources-say-for-400m/)
+- [Biden’s AI EO hailed as broad, but not deep without legislation to match](https://techcrunch.com/2023/10/31/bidens-ai-eo-hailed-as-broad-but-not-deep-without-legislation-to-match/)
+- [Connectly taps automation to nudge shoppers to complete purchases](https://techcrunch.com/2023/10/31/connectly-taps-automation-to-nudge-shoppers-to-complete-purchases/)
+- [Does X’s new valuation make sense?](https://techcrunch.com/2023/10/31/does-xs-new-valuation-make-sense/)
+- [NASA, India to launch Earth-observing satellite in 2024](https://www.space.com/nasa-isro-nisar-earth-observing-mission-2024)
+- [Charlie’s senior-focused banking puts new funding toward stopping fraud](https://techcrunch.com/2023/10/31/charlie-which-provides-banking-services-to-seniors-secures-23-million-in-capital-six-months-after-launching/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
