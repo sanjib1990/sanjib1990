@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hexa, the startup studio behind Front, Spendesk and Aircall, unveils its next batch of startups](https://techcrunch.com/2023/10/30/hexa-the-startup-studio-behind-front-spendesk-and-aircall-unveils-its-next-batch-of-startups/)
 - [5 things we learned so far about the Google antitrust case](https://techcrunch.com/2023/10/30/5-things-we-learned-so-far-about-the-google-antitrust-case/)
 - [China&#39;s Shenzhou 16 astronauts land safely after 5 months aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-16-mission-touchdown-success)
 - [Apple’s October Scary Fast Event: Everything revealed about the new MacBook Pro, iMac and M3 chips](https://techcrunch.com/2023/10/30/apples-october-scary-fast-event-everything-announced-so-far/)
 - [Apple’s ‘Scary Fast’ event video was shot on iPhone](https://techcrunch.com/2023/10/30/apples-scary-fast-event-video-was-shot-on-iphone/)
-- [Apple brought back the best Mac colorway with the new M3 MacBook Pro](https://techcrunch.com/2023/10/30/apple-brought-back-the-best-mac-colorway-with-the-new-m3-macbook-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
