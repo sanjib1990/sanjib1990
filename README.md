@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shield AI raises $200M at a $2.7B valuation to scale military autonomous flying tech](https://techcrunch.com/2023/10/31/shield-ai-raises-200m-at-a-2-7b-valuation-to-scale-military-autonomous-flying-tech/)
+- [Watch new trailer for &#39;Doctor Who&#39; 60th-anniversary specials coming to Disney+ &lpar;video&rpar;](https://www.space.com/doctor-who-60th-anniversary-specials-air-date-trailer)
+- [Yuzu wants to make health plans cheaper by letting insurers mix and match benefits](https://techcrunch.com/2023/10/31/yuzu-wants-to-make-health-plans-cheaper-by-letting-insurers-mix-and-match-benefits/)
 - [Cambrium aims to one-up nature with designer proteins that scale sustainably](https://techcrunch.com/2023/10/31/cambrium-aims-to-one-up-nature-with-designer-proteins-that-scale-sustainably/)
 - [Guidde’s AI automatically generates software documentation videos](https://techcrunch.com/2023/10/31/guiddes-ai-automatically-generates-documentation-videos-for-software/)
-- [This proptech startup says generative building design can change the way cities are built](https://techcrunch.com/2023/10/31/proptech-generative-building-design-real-estate/)
-- [Brazilian fintech QI Tech lands $200M led by General Atlantic](https://techcrunch.com/2023/10/31/brazils-qi-tech-which-wants-to-decentralize-credit-away-from-banks-lands-200m-led-by-general-atlantic/)
-- [New Horizons&#39; Alan Stern will fulfill a lifelong dream on Virgin Galactic spaceflight this week](https://www.space.com/virgin-galactic-alan-stern-suborbital-research-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
