@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s Shenzhou 16 astronauts hand over Tiangong space station to new crew &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-hand-over-tiangong-space-station)
-- [What not to do when getting your grocery startup off the ground with Abhi Ramesh from Misfits Market](https://techcrunch.com/2023/10/31/what-not-to-do-when-getting-your-grocery-startup-off-the-ground-with-abhi-ramesh-from-misfits-market/)
-- [TC+ Roundup: What happened to the Adobe-Figma deal?](https://techcrunch.com/2023/10/31/tc-roundup-what-happened-to-the-adobe-figma-deal/)
-- [NASA&#39;s Lucy probe will fly by asteroid &#39;Dinkinesh&#39; on Nov. 1. Here&#39;s what to expect](https://www.space.com/lucy-asteroid-flyby-dinkinesh-trojan-jupiter)
-- [SBF’s defense puts forth a 35-minute last-ditch effort to show his goodwill](https://techcrunch.com/2023/10/31/sbf-defense-final-questions/)
+- [Why Comcast built an accelerator to nurture sports startups](https://techcrunch.com/2023/10/31/comcast-sports-tech-accelerator/)
+- [So long, Twitter Circles](https://techcrunch.com/2023/10/31/twitter-circle-gone/)
+- [International Space Station astronauts show off creative outfits for Halloween](https://www.space.com/international-space-station-astronauts-halloween-costume-cosplay)
+- [Log analysis and security firm Graylog raises $9M in equity, $30M in debt](https://techcrunch.com/2023/10/31/log-analysis-and-security-firm-graylog-raises-9m-in-equity-30m-in-debt/)
+- [Tesla wins fatal Autopilot crash jury trial](https://techcrunch.com/2023/10/31/tesla-wins-fatal-autopilot-crash-jury-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
