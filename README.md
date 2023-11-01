@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask Sophie: Will there be more visas and green cards for AI talent?](https://techcrunch.com/2023/11/01/ask-sophie-will-there-be-more-visas-and-green-cards-for-ai-talent/)
-- [Roli returns with the $350 Seaboard M](https://techcrunch.com/2023/11/01/roli-returns-with-the-350-seaboard-m/)
-- [&#39;Star Wars: Young Jedi Adventures&#39; will return with all-new adventures on Nov. 8](https://www.space.com/star-wars-young-jedi-adventures-returns-nov-2023)
-- [Google Search can now help you solve geometry, physics and calculus problems](https://techcrunch.com/2023/11/01/google-search-update-math-solver-lens/)
-- [Don’t be surprised if WeWork files for bankruptcy](https://techcrunch.com/2023/11/01/dont-be-surprised-if-wework-files-for-bankruptcy/)
+- [Snowflake brings together developer and analyst needs in new GenAI tool](https://techcrunch.com/2023/11/01/snowflake-brings-together-neeva-and-streamlit-acquisitions-in-new-genai-tool/)
+- [Hubble Telescope sees spiral galaxy dancing through the Dorado constellation &lpar;image&rpar;](https://www.space.com/spiral-galaxy-dances-dorado-hubble-photo)
+- [SBF said nothing and everything in his testimony, all at the same time](https://techcrunch.com/2023/11/01/sbf-testimony-phrases/)
+- [China’s tech vice minister calls for ‘equal rights’ at global AI summit in UK](https://techcrunch.com/2023/11/01/chinas-tech-vice-minister-calls-for-equal-rights-at-global-ai-summit-in-uk/)
+- [Instagram spotted developing a customizable ‘AI friend’](https://techcrunch.com/2023/11/01/instagram-spotted-developing-a-customizable-ai-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
