@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Security researchers observed ‘deliberate’ takedown of notorious Mozi botnet](https://techcrunch.com/2023/11/01/mozi-botnet-take-down-china/)
 - [India&#39;s Chandrayaan-3 moon lander kicked up a &#39;halo&#39; of dust visible from space](https://www.space.com/isro-chandrayaan-3-moon-dust-ejecta-halo)
 - [NASA&#39;s Juno probe detects organic compounds on huge Jupiter moon Ganymede](https://www.space.com/jupiter-moon-ganymede-organics-salts)
 - [YouTube is now cracking down on ad-blockers globally](https://techcrunch.com/2023/11/01/youtube-is-now-cracking-down-on-ad-blockers-globally/)
 - [Southeast Asia funding at its lowest level in six years](https://techcrunch.com/2023/11/01/southeast-asia-funding-at-its-lowest-level-in-six-years/)
-- [Buy now, pay later platform Tabby nabs $200M in Series D funding at $1.5B valuation](https://techcrunch.com/2023/10/31/buy-now-pay-later-platform-tabby-nabs-200m-in-series-d-funding-at-1-5b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
