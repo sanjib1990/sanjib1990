@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ford snaps up EV power startup to boost its charging tech](https://techcrunch.com/2023/11/01/ford-snaps-up-ev-power-startup-to-boost-its-charging-tech/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [NASA astronauts complete 4th-ever all-female spacewalk outside International Space Station](https://www.space.com/nasa-all-female-spacewalk-november-2023)
-- [Future moon astronauts may 3D-print their supplies using lunar minerals](https://www.space.com/titanium-3d-printing-astronaut-shelter-uv-radiation)
-- [SBF’s prosecutors emphasize the case is not about crypto: ‘It’s about lies. It’s about stealing, greed.’](https://techcrunch.com/2023/11/01/sbf-trial-closing-arguments/)
+- [NASA&#39;s Lucy spacecraft successfully completes 1st flyby of asteroid &#39;Dinky&#39;](https://www.space.com/lucy-flyby-dinkinesh-successfully-completed)
+- [Apple Music shuts down its Siri-only Voice Plan nearly two years later](https://techcrunch.com/2023/11/01/apple-music-shuts-down-its-siri-only-voice-plan-nearly-two-years-later/)
+- [Virgin Galactic set to launch Galactic 05 mission with research duo on Nov. 2](https://www.space.com/virgin-galactic-05-mission-stern-gerardi-preview)
+- [The demise of Twitter Circles left a void that Instagram Close Friends can’t fill](https://techcrunch.com/2023/11/01/the-demise-of-twitter-circles-left-a-void-that-instagram-close-friends-cant-fill/)
+- [A researcher critical of X under Elon Musk will fight for his account in court](https://techcrunch.com/2023/11/01/travis-brown-x-musk-account-suspended-over-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
