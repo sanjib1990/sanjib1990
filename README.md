@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Security researchers observed ‘deliberate’ takedown of notorious Mozi botnet](https://techcrunch.com/2023/11/01/mozi-botnet-take-down-china/)
-- [India&#39;s Chandrayaan-3 moon lander kicked up a &#39;halo&#39; of dust visible from space](https://www.space.com/isro-chandrayaan-3-moon-dust-ejecta-halo)
-- [NASA&#39;s Juno probe detects organic compounds on huge Jupiter moon Ganymede](https://www.space.com/jupiter-moon-ganymede-organics-salts)
-- [YouTube is now cracking down on ad-blockers globally](https://techcrunch.com/2023/11/01/youtube-is-now-cracking-down-on-ad-blockers-globally/)
-- [Southeast Asia funding at its lowest level in six years](https://techcrunch.com/2023/11/01/southeast-asia-funding-at-its-lowest-level-in-six-years/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Blue Origin shows off moon lander prototype for NASA&#39;s Artemis program](https://www.space.com/blue-origin-lunar-lander-mockup)
+- [Politicians commit to collaborate to tackle AI safety, US launches safety institute](https://techcrunch.com/2023/11/01/politicians-commit-to-collaborate-to-tackle-ai-safety-us-launches-safety-institute/)
+- [Grant Assistant wants to apply generative AI to grant proposals](https://techcrunch.com/2023/11/01/grant-assistant-wants-to-apply-generative-ai-to-grant-proposals/)
+- [New 500N vacuum test facility in Europe. Green propulsion oriented.](https://www.space.com/new-500n-vacuum-test-facility-in-europe-green-propulsion-oriented)
 <!-- BLOG-POST-LIST:END -->
 
 ---
