@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When does a startup know it’s time to spread its wings?](https://techcrunch.com/2023/11/01/when-does-a-startup-know-its-time-to-spread-its-wings/)
-- [Bee Partners closes fourth fund to add more capital for pre-seed founders in deep tech](https://techcrunch.com/2023/11/01/bee-partners-venture-capital-pre-seed-deep-tech/)
-- [New water system that could aid Artemis moon astronauts gets a test on the ISS](https://www.space.com/international-space-station-water-system-astronaut-moon-test)
-- [Solar eruption carves colossal &#39;canyon of fire&#39; in the sun&#39;s southern hemisphere &lpar;video&rpar;](https://www.space.com/sun-eruption-filaments-carve-canyon-of-fire)
-- [Atlassian urges customers to take ‘immediate action’ to protect against data-loss security bug](https://techcrunch.com/2023/11/01/atlassian-urges-customers-to-take-immediate-action-to-protect-against-data-loss-security-bug/)
+- [Ask Sophie: Will there be more visas and green cards for AI talent?](https://techcrunch.com/2023/11/01/ask-sophie-will-there-be-more-visas-and-green-cards-for-ai-talent/)
+- [Roli returns with the $350 Seaboard M](https://techcrunch.com/2023/11/01/roli-returns-with-the-350-seaboard-m/)
+- [&#39;Star Wars: Young Jedi Adventures&#39; will return with all-new adventures on Nov. 8](https://www.space.com/star-wars-young-jedi-adventures-returns-nov-2023)
+- [Google Search can now help you solve geometry, physics and calculus problems](https://techcrunch.com/2023/11/01/google-search-update-math-solver-lens/)
+- [Don’t be surprised if WeWork files for bankruptcy](https://techcrunch.com/2023/11/01/dont-be-surprised-if-wework-files-for-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
