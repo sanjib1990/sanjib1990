@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WeWork reportedly on the verge of filing bankruptcy, stock plummets](https://techcrunch.com/2023/10/31/wework-reportedly-on-the-verge-of-filing-bankruptcy-stock-plummets/)
+- [Who’s going &lpar;and who’s not&rpar; to the AI Safety Summit at Bletchley Park?](https://techcrunch.com/2023/10/31/whos-going-and-whos-not-to-the-ai-safety-summit-at-bletchley-park/)
+- [WeWork reportedly on the verge of filing for bankruptcy, stock plummets](https://techcrunch.com/2023/10/31/wework-reportedly-on-the-verge-of-filing-bankruptcy-stock-plummets/)
 - [James Webb Space Telescope gazes into a galactic garden of budding stars &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-gazes-m83-galaxy)
 - [FAA completes SpaceX Starship safety review as environmental assessment remains ongoing](https://techcrunch.com/2023/10/31/faa-completes-spacex-starship-safety-review-as-environmental-assessment-remains-ongoing/)
 - [Google and Match Group reach settlement in app store antitrust case](https://techcrunch.com/2023/10/31/google-and-match-group-reach-settlement-in-app-store-antitrust-case/)
-- [Watch 2 NASA astronauts conduct 4th-ever all-female spacewalk on Nov. 1](https://www.space.com/nasa-all-female-spacewalk-november-2023-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
