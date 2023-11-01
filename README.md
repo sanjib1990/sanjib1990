@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders: It’s never too early to start planning for your succession](https://techcrunch.com/2023/11/01/founders-its-never-too-early-to-start-planning-for-your-succession/)
+- [Google launches generative AI tools for product imagery to U.S. advertisers](https://techcrunch.com/2023/11/01/google-launches-generative-ai-tools-for-product-imagery-to-u-s-advertisers/)
+- [Lawmakers say Costco’s decision to continue selling banned China surveillance tech is ‘puzzling’](https://techcrunch.com/2023/11/01/lawmakers-costco-lorex-dahua-entity-list/)
 - [Snowflake brings together developer and analyst needs in new GenAI tool](https://techcrunch.com/2023/11/01/snowflake-brings-together-neeva-and-streamlit-acquisitions-in-new-genai-tool/)
 - [Hubble Telescope sees spiral galaxy dancing through the Dorado constellation &lpar;image&rpar;](https://www.space.com/spiral-galaxy-dances-dorado-hubble-photo)
-- [SBF said nothing and everything in his testimony, all at the same time](https://techcrunch.com/2023/11/01/sbf-testimony-phrases/)
-- [China’s tech vice minister calls for ‘equal rights’ at global AI summit in UK](https://techcrunch.com/2023/11/01/chinas-tech-vice-minister-calls-for-equal-rights-at-global-ai-summit-in-uk/)
-- [Instagram spotted developing a customizable ‘AI friend’](https://techcrunch.com/2023/11/01/instagram-spotted-developing-a-customizable-ai-friend/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
