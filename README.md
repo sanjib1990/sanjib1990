@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Buy now, pay later platform Tabby nabs $200M in Series D funding at $1.5B valuation](https://techcrunch.com/2023/10/31/buy-now-pay-later-platform-tabby-nabs-200m-in-series-d-funding-at-1-5b-valuation/)
 - [Who’s going &lpar;and who’s not&rpar; to the AI Safety Summit at Bletchley Park?](https://techcrunch.com/2023/10/31/whos-going-and-whos-not-to-the-ai-safety-summit-at-bletchley-park/)
 - [WeWork reportedly on the verge of filing for bankruptcy, stock plummets](https://techcrunch.com/2023/10/31/wework-reportedly-on-the-verge-of-filing-bankruptcy-stock-plummets/)
 - [James Webb Space Telescope gazes into a galactic garden of budding stars &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-gazes-m83-galaxy)
 - [FAA completes SpaceX Starship safety review as environmental assessment remains ongoing](https://techcrunch.com/2023/10/31/faa-completes-spacex-starship-safety-review-as-environmental-assessment-remains-ongoing/)
-- [Google and Match Group reach settlement in app store antitrust case](https://techcrunch.com/2023/10/31/google-and-match-group-reach-settlement-in-app-store-antitrust-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
