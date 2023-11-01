@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX, NASA delay CRS-29 cargo launch to International Space Station](https://www.space.com/spacex-nasa-international-space-station-dragon-crs-29-launch-delay)
-- [Meta’s Yann Lecun joins 70 others in calling for more openness in AI development](https://techcrunch.com/2023/11/01/metas-yann-lecun-joins-70-others-in-calling-for-more-openness-in-ai-development/)
-- [Subaru follows Toyota in adopting Tesla’s charging standard](https://techcrunch.com/2023/11/01/subaru-follows-toyota-in-adopting-teslas-charging-standard/)
-- [Early Black Friday deal: Top Celestron telescope nearly $100 off](https://www.space.com/early-black-friday-2023-celestron-astro-fi-102-telescope-deal)
-- [The remnants of an alien &#39;protoplanet&#39; could be hidden deep within Earth](https://www.space.com/moon-impact-remnant-earths-core)
+- [Future moon astronauts may 3D-print their supplies using lunar minerals](https://www.space.com/titanium-3d-printing-astronaut-shelter-uv-radiation)
+- [SBF’s prosecutors emphasize the case is not about crypto: ‘It’s about lies. It’s about stealing; greed.’](https://techcrunch.com/2023/11/01/sbf-trial-closing-arguments/)
+- [India-made iPhones to top 20% of global shipments by 2024, Kuo says](https://techcrunch.com/2023/11/01/india-made-iphones-to-top-20-of-global-shipments-by-2024-kuo-says/)
+- [HubSpot picks up B2B data provider Clearbit to enhance its AI platform](https://techcrunch.com/2023/11/01/hubspot-picks-up-b2b-data-provider-clearbit-to-enhance-its-ai-platform/)
+- [Where will the April 2024 total solar eclipse be visible from?](https://www.space.com/what-states-total-solar-eclipse-april-2024-visible-from)
 <!-- BLOG-POST-LIST:END -->
 
 ---
