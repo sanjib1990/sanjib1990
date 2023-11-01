@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Founders: It’s never too early to start planning for your succession](https://techcrunch.com/2023/11/01/founders-its-never-too-early-to-start-planning-for-your-succession/)
-- [Google launches generative AI tools for product imagery to U.S. advertisers](https://techcrunch.com/2023/11/01/google-launches-generative-ai-tools-for-product-imagery-to-u-s-advertisers/)
-- [Lawmakers say Costco’s decision to continue selling banned China surveillance tech is ‘puzzling’](https://techcrunch.com/2023/11/01/lawmakers-costco-lorex-dahua-entity-list/)
-- [Snowflake brings together developer and analyst needs in new GenAI tool](https://techcrunch.com/2023/11/01/snowflake-brings-together-neeva-and-streamlit-acquisitions-in-new-genai-tool/)
-- [Hubble Telescope sees spiral galaxy dancing through the Dorado constellation &lpar;image&rpar;](https://www.space.com/spiral-galaxy-dances-dorado-hubble-photo)
+- [SpaceX, NASA delay CRS-29 cargo launch to International Space Station](https://www.space.com/spacex-nasa-international-space-station-dragon-crs-29-launch-delay)
+- [Meta’s Yann Lecun joins 70 others in calling for more openness in AI development](https://techcrunch.com/2023/11/01/metas-yann-lecun-joins-70-others-in-calling-for-more-openness-in-ai-development/)
+- [Subaru follows Toyota in adopting Tesla’s charging standard](https://techcrunch.com/2023/11/01/subaru-follows-toyota-in-adopting-teslas-charging-standard/)
+- [Early Black Friday deal: Top Celestron telescope nearly $100 off](https://www.space.com/early-black-friday-2023-celestron-astro-fi-102-telescope-deal)
+- [The remnants of an alien &#39;protoplanet&#39; could be hidden deep within Earth](https://www.space.com/moon-impact-remnant-earths-core)
 <!-- BLOG-POST-LIST:END -->
 
 ---
