@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Blue Origin shows off moon lander prototype for NASA&#39;s Artemis program](https://www.space.com/blue-origin-lunar-lander-mockup)
-- [Politicians commit to collaborate to tackle AI safety, US launches safety institute](https://techcrunch.com/2023/11/01/politicians-commit-to-collaborate-to-tackle-ai-safety-us-launches-safety-institute/)
-- [Grant Assistant wants to apply generative AI to grant proposals](https://techcrunch.com/2023/11/01/grant-assistant-wants-to-apply-generative-ai-to-grant-proposals/)
-- [New 500N vacuum test facility in Europe. Green propulsion oriented.](https://www.space.com/new-500n-vacuum-test-facility-in-europe-green-propulsion-oriented)
+- [Authentication startup FusionAuth raises $65M, its first outside round](https://techcrunch.com/2023/11/01/authentication-startup-fusionauth-raises-65m-its-first-outside-round/)
+- [MassRobotics is launching an accelerator](https://techcrunch.com/2023/11/01/massrobotics-is-launching-an-accelerator/)
+- [EarlyBird raises $4.5M, partially from its users, to scale its investment gifting platform for families](https://techcrunch.com/2023/11/01/earlybird-raises-4-5m-scale-fintech-gifting-platform-for-kids/)
+- [Procurement management software startup Oro Labs lands $34M investment](https://techcrunch.com/2023/11/01/procurement-management-software-startup-oro-labs-lands-34m-investment/)
+- [Virgin Galactic astronaut Kellie Gerardi is ready for broader access to space](https://www.space.com/virgin-galactic-05-kellie-gerardi-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
