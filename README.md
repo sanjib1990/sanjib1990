@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create your own Dark Web website](https://www.youtube.com/watch?v=CurcakgurRE)
 - [The Dark Web NEEDS You!](https://www.youtube.com/watch?v=tBnJRraXDc0)
 - [Consul Service Mesh Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=s3I1kKKfjtQ)
 - [Lecture 15: Introduction to Solutions, General Case](https://www.youtube.com/watch?v=C7CDv47DXxI)
 - [Lecture 4: Heat Engines and Energy Conversion Efficiency](https://www.youtube.com/watch?v=saXXzQya7Tc)
-- [Lecture 22: Free Energy-Composition Diagrams, General Case](https://www.youtube.com/watch?v=yA515wfRhjg)
 <!-- YOUTUBE:END -->
 
 ---
