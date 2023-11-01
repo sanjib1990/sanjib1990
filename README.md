@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication startup FusionAuth raises $65M, its first outside round](https://techcrunch.com/2023/11/01/authentication-startup-fusionauth-raises-65m-its-first-outside-round/)
-- [MassRobotics is launching an accelerator](https://techcrunch.com/2023/11/01/massrobotics-is-launching-an-accelerator/)
-- [EarlyBird raises $4.5M, partially from its users, to scale its investment gifting platform for families](https://techcrunch.com/2023/11/01/earlybird-raises-4-5m-scale-fintech-gifting-platform-for-kids/)
-- [Procurement management software startup Oro Labs lands $34M investment](https://techcrunch.com/2023/11/01/procurement-management-software-startup-oro-labs-lands-34m-investment/)
-- [Virgin Galactic astronaut Kellie Gerardi is ready for broader access to space](https://www.space.com/virgin-galactic-05-kellie-gerardi-interview)
+- [When does a startup know it’s time to spread its wings?](https://techcrunch.com/2023/11/01/when-does-a-startup-know-its-time-to-spread-its-wings/)
+- [Bee Partners closes fourth fund to add more capital for pre-seed founders in deep tech](https://techcrunch.com/2023/11/01/bee-partners-venture-capital-pre-seed-deep-tech/)
+- [New water system that could aid Artemis moon astronauts gets a test on the ISS](https://www.space.com/international-space-station-water-system-astronaut-moon-test)
+- [Solar eruption carves colossal &#39;canyon of fire&#39; in the sun&#39;s southern hemisphere &lpar;video&rpar;](https://www.space.com/sun-eruption-filaments-carve-canyon-of-fire)
+- [Atlassian urges customers to take ‘immediate action’ to protect against data-loss security bug](https://techcrunch.com/2023/11/01/atlassian-urges-customers-to-take-immediate-action-to-protect-against-data-loss-security-bug/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
