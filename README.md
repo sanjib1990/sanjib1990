@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [NASA astronauts complete 4th-ever all-female spacewalk outside International Space Station](https://www.space.com/nasa-all-female-spacewalk-november-2023)
 - [Future moon astronauts may 3D-print their supplies using lunar minerals](https://www.space.com/titanium-3d-printing-astronaut-shelter-uv-radiation)
-- [SBF’s prosecutors emphasize the case is not about crypto: ‘It’s about lies. It’s about stealing; greed.’](https://techcrunch.com/2023/11/01/sbf-trial-closing-arguments/)
+- [SBF’s prosecutors emphasize the case is not about crypto: ‘It’s about lies. It’s about stealing, greed.’](https://techcrunch.com/2023/11/01/sbf-trial-closing-arguments/)
 - [India-made iPhones to top 20% of global shipments by 2024, Kuo says](https://techcrunch.com/2023/11/01/india-made-iphones-to-top-20-of-global-shipments-by-2024-kuo-says/)
-- [HubSpot picks up B2B data provider Clearbit to enhance its AI platform](https://techcrunch.com/2023/11/01/hubspot-picks-up-b2b-data-provider-clearbit-to-enhance-its-ai-platform/)
-- [Where will the April 2024 total solar eclipse be visible from?](https://www.space.com/what-states-total-solar-eclipse-april-2024-visible-from)
 <!-- BLOG-POST-LIST:END -->
 
 ---
