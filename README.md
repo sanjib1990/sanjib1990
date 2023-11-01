@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is now cracking down on ad-blockers globally](https://techcrunch.com/2023/11/01/youtube-is-now-cracking-down-on-ad-blockers-globally/)
+- [Southeast Asia funding at its lowest level in six years](https://techcrunch.com/2023/11/01/southeast-asia-funding-at-its-lowest-level-in-six-years/)
 - [Buy now, pay later platform Tabby nabs $200M in Series D funding at $1.5B valuation](https://techcrunch.com/2023/10/31/buy-now-pay-later-platform-tabby-nabs-200m-in-series-d-funding-at-1-5b-valuation/)
 - [Who’s going &lpar;and who’s not&rpar; to the AI Safety Summit at Bletchley Park?](https://techcrunch.com/2023/10/31/whos-going-and-whos-not-to-the-ai-safety-summit-at-bletchley-park/)
 - [WeWork reportedly on the verge of filing for bankruptcy, stock plummets](https://techcrunch.com/2023/10/31/wework-reportedly-on-the-verge-of-filing-bankruptcy-stock-plummets/)
-- [James Webb Space Telescope gazes into a galactic garden of budding stars &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-gazes-m83-galaxy)
-- [FAA completes SpaceX Starship safety review as environmental assessment remains ongoing](https://techcrunch.com/2023/10/31/faa-completes-spacex-starship-safety-review-as-environmental-assessment-remains-ongoing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
