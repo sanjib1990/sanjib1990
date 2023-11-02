@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase’s Q3 revenue beat expectations, but its shares fell as growth prospects underwhelmed](https://techcrunch.com/2023/11/02/coinbases-q3-2023-revenue-beat-expectations/)
+- [Surprise! Asteroid &#39;Dinky&#39; is actually a double, NASA&#39;s Lucy probe reveals &lpar;photo&rpar;](https://www.space.com/lucy-asteroid-flyby-dinkinesh-binary-system)
+- [Charting the last 10 years of the unicorn era](https://techcrunch.com/2023/11/02/startup-unicorns-tenth-anniversary-charts/)
 - [PagerDuty scoops up incident management startup Jeli.io](https://techcrunch.com/2023/11/02/pagerduty-scoops-up-incident-management-startup-jeli-io/)
-- [Musk: SpaceX’s Starlink “has achieved breakeven cash flow”](https://techcrunch.com/2023/11/02/musk-spacexs-starlink-has-achieved-breakeven-cash-flow/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [China&#39;s Shenzhou 16 astronauts apparently landed with a ripped parachute &lpar;photo&rpar;](https://www.space.com/china-shenzhou-16-landing-parachute-hole)
-- [SBF’s trial is coming to a close – here’s what you missed](https://techcrunch.com/2023/11/02/sbfs-trial-is-coming-to-a-close-heres-what-you-missed/)
+- [Swirling gas helps scientists nail down Milky Way&#39;s supermassive black hole mass](https://www.space.com/supermassive-black-hole-mass-milky-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
