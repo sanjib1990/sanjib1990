@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 years since the term ‘unicorn’ was coined, we’ve almost come full circle](https://techcrunch.com/2023/11/02/unicorn-tenth-anniversary/)
+- [Kaiber’s new app helps artists create music videos using generative AI tools](https://techcrunch.com/2023/11/02/kaibers-new-app-helps-artists-make-music-videos-using-generative-ai-tools/)
+- [Flavrs, a shoppable video app for foodies, launches a new takeout feature and AI-powered recommendations](https://techcrunch.com/2023/11/02/flavrs-a-shoppable-video-app-for-foodies-launches-a-new-takeout-feature-and-ai-powered-recommendations/)
 - [YouTube’s new teen safeguards limit repeated viewing of some video topics and more](https://techcrunch.com/2023/11/02/youtubes-new-teen-safeguards-limit-repeated-viewing-of-some-video-topics-and-more/)
-- [Factory wants to use AI to automate the software dev lifecycle](https://techcrunch.com/2023/11/02/factory-wants-to-use-ai-to-automate-the-software-dev-lifecycle/)
-- [Boeing confirms ‘cyber incident’ after ransomware gang claims data theft](https://techcrunch.com/2023/11/02/boeing-cyber-incident-ransomware-gang-claims-data-theft/)
-- [Do government sanctions against ransomware groups work?](https://techcrunch.com/2023/11/02/government-sanctions-ransomware-effective/)
-- [AirLoom has a plan to halve the cost of wind power](https://techcrunch.com/2023/11/02/airloom-emerges-from-stealth/)
+- [Satellite companies may be starting to take the fight against space junk seriously](https://www.space.com/in-space-satellite-propulsion-sustainability-space-junk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
