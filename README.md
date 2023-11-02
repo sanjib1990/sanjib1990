@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mantic’s robot vacuum maps spaces without sending data to the cloud](https://techcrunch.com/2023/11/02/mantics-robot-vacuum-maps-spaces-without-sending-data-to-the-cloud/)
-- [Brave’s Leo AI assistant is now available to desktop users](https://techcrunch.com/2023/11/02/braves-leo-ai-assistant-is-now-available-to-desktop-users/)
-- [Astronaut captures image of a glowering &#39;skull&#39; lurking in a giant volcanic pit in the Sahara](https://www.space.com/astronaut-photograph-skull-volcano-pit-sahara)
-- [How to raise a substantial round with angel investors](https://techcrunch.com/2023/11/02/how-to-raise-a-substantial-round-with-angel-investors/)
-- [10 years since the term ‘unicorn’ was coined, we’ve almost come full circle](https://techcrunch.com/2023/11/02/unicorn-tenth-anniversary/)
+- [Watch China launch pair of Earth-mapping satellites on its 50th launch of 2023 &lpar;video&rpar;](https://www.space.com/china-tianhui-satellites-earth-mapping-nov-2023)
+- [Stability AI’s latest tool uses AI to generate 3D models](https://techcrunch.com/2023/11/02/stability-ais-latest-tool-uses-ai-to-generate-3d-models/)
+- [Sigma 14mm f/1.4 DG DN Art lens review](https://www.space.com/sigma-14mm-f14-dg-dn-art-lens-review)
+- [Virgin Galactic launches researchers to suborbital space on 5th commercial flight](https://www.space.com/virgin-galactic-05-mission-success-stern-gerardi)
+- [Matic’s robot vacuum maps spaces without sending data to the cloud](https://techcrunch.com/2023/11/02/mantics-robot-vacuum-maps-spaces-without-sending-data-to-the-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
