@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SBF’s trial is coming to a close – here’s what you missed](https://techcrunch.com/2023/11/02/sbfs-trial-is-coming-to-a-close-heres-what-you-missed/)
+- [The iPhone 15’s best friend is an ultra-budget, stripped down version of Apple Vision Pro](https://techcrunch.com/2023/11/02/the-iphone-15s-best-friend-is-an-ultra-budget-stripped-down-version-of-apple-vision-pro/)
+- [Don’t be afraid of the ‘AI-assisted’ Beatles song, ‘Now And Then’](https://techcrunch.com/2023/11/02/dont-be-afraid-of-the-ai-assisted-beatles-song-now-and-then/)
 - [Mortgage and loan giant Mr. Cooper blames cyberattack for ongoing outage](https://techcrunch.com/2023/11/02/mr-cooper-hackers-cyberattack/)
 - [Los Angeles demands robotaxi rulemaking powers](https://techcrunch.com/2023/11/02/los-angeles-demands-robotaxi-rulemaking-powers/)
-- [Personal finance app Monarch sees bump in users following Intuit’s news it is closing Mint](https://techcrunch.com/2023/11/02/personal-finance-monarch-intuit-mint/)
-- [Your startup should solve an impossibly hard problem](https://techcrunch.com/2023/11/02/how-hard-is-it/)
-- [Intuitive Machines private moon lander launch set for January 2024](https://www.space.com/moon-landing-intuitive-machines-private-mission-target-january-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
