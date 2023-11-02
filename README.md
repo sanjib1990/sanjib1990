@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolut appoints new UK CEO as British banking license is still pending](https://techcrunch.com/2023/11/02/revolut-appoints-francesca-carlesi-as-new-uk-ceo/)
+- [See the world&#39;s largest telescope dwarfed by the Full Hunter&#39;s Moon &lpar;photo&rpar;](https://www.space.com/worlds-largest-telescope-elt-moon-illusion-photo)
+- [Zephr emerges from stealth with $3.5M and plans to create a “networked GPS” using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
 - [Charm offensive: Google’s Gradient backs this startup to bring more pizzazz to the command line](https://techcrunch.com/2023/11/02/charm-offensive-googles-gradient-backs-this-startup-to-bring-more-pizzazz-to-the-command-line/)
 - [New Facebook Stories API helps creators share directly from third-party desktop or web apps](https://techcrunch.com/2023/11/02/new-facebook-stories-api-helps-creators-share-directly-from-third-party-desktop-or-web-apps/)
-- [Xage Security raises $20M more to expand its security platform](https://techcrunch.com/2023/11/02/xage-security-raises-20m-more-to-expand-its-security-platform/)
-- [Dashtoon uses AI to turn storytellers into comics artists](https://techcrunch.com/2023/11/02/dashtoon/)
-- [Bullying Jupiter-like planets may push &#39;alien Earths&#39; away from life-friendly orbits](https://www.space.com/jupiter-size-planets-earth-orbit-gravity-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
