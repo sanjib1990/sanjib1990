@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Payroll Integrations grabs $20M to build employee financial wellness tools](https://techcrunch.com/2023/11/02/payroll-integrations-20m-employee-financial-wellness/)
-- [When generative AI cyberthreats arrive, Wraithwatch will be ready and waiting](https://techcrunch.com/2023/11/02/when-generative-ai-cyberthreats-arrive-wraithwatch-wants-to-be-prepared/)
-- [Govly wants to make it easier for companies to spot federal contract opportunities](https://techcrunch.com/2023/11/02/govly-wants-to-make-it-easier-for-companies-to-spot-federal-contract-opportunities/)
-- [&#39;Star Trek: Lower Decks&#39; crew handbook explains life aboard the U.S.S. Cerritos](https://www.space.com/star-trek-lower-decks-crew-handbook-uss-cerritos)
-- [Sweep aims to automate basic dev tasks using large language models](https://techcrunch.com/2023/11/02/sweep-aims-to-automate-basic-dev-tasks-using-large-language-models/)
+- [YouTube’s new teen safeguards limit repeated viewing of some video topics and more](https://techcrunch.com/2023/11/02/youtubes-new-teen-safeguards-limit-repeated-viewing-of-some-video-topics-and-more/)
+- [Factory wants to use AI to automate the software dev lifecycle](https://techcrunch.com/2023/11/02/factory-wants-to-use-ai-to-automate-the-software-dev-lifecycle/)
+- [Boeing confirms ‘cyber incident’ after ransomware gang claims data theft](https://techcrunch.com/2023/11/02/boeing-cyber-incident-ransomware-gang-claims-data-theft/)
+- [Do government sanctions against ransomware groups work?](https://techcrunch.com/2023/11/02/government-sanctions-ransomware-effective/)
+- [AirLoom has a plan to halve the cost of wind power](https://techcrunch.com/2023/11/02/airloom-emerges-from-stealth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
