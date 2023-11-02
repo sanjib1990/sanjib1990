@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Charm offensive: Google’s Gradient backs this startup to bring more pizzazz to the command line](https://techcrunch.com/2023/11/02/charm-offensive-googles-gradient-backs-this-startup-to-bring-more-pizzazz-to-the-command-line/)
+- [New Facebook Stories API helps creators share directly from third-party desktop or web apps](https://techcrunch.com/2023/11/02/new-facebook-stories-api-helps-creators-share-directly-from-third-party-desktop-or-web-apps/)
 - [Xage Security raises $20M more to expand its security platform](https://techcrunch.com/2023/11/02/xage-security-raises-20m-more-to-expand-its-security-platform/)
 - [Dashtoon uses AI to turn storytellers into comics artists](https://techcrunch.com/2023/11/02/dashtoon/)
 - [Bullying Jupiter-like planets may push &#39;alien Earths&#39; away from life-friendly orbits](https://www.space.com/jupiter-size-planets-earth-orbit-gravity-study)
-- [Astronaut Tom Jones&#39; new book gathers &#39;Space Shuttle Stories&#39; from fellow fliers](https://www.space.com/tom-jones-space-shuttle-stories-interview)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
