@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new generation of companies is moving on up in San Francisco](https://techcrunch.com/2023/11/01/san-francisco-office-space-2/)
 - [Flexport acquires technology of former digital freight unicorn Convoy](https://techcrunch.com/2023/11/01/flexport-acquires-technology-of-former-digital-freight-unicorn-convoy/)
 - [For VCs and founders, building in public is about filling the top of the funnel](https://techcrunch.com/2023/11/01/vc-founders-building-in-public/)
 - [NASA&#39;s Lucy spacecraft successfully completes 1st flyby of asteroid &#39;Dinky&#39;](https://www.space.com/lucy-flyby-dinkinesh-successfully-completed)
 - [Apple Music shuts down its Siri-only Voice Plan nearly two years later](https://techcrunch.com/2023/11/01/apple-music-shuts-down-its-siri-only-voice-plan-nearly-two-years-later/)
-- [Virgin Galactic set to launch Galactic 05 mission with research duo on Nov. 2](https://www.space.com/virgin-galactic-05-mission-stern-gerardi-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
