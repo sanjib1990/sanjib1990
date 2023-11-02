@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolut appoints new UK CEO as British banking license is still pending](https://techcrunch.com/2023/11/02/revolut-appoints-francesca-carlesi-as-new-uk-ceo/)
-- [See the world&#39;s largest telescope dwarfed by the Full Hunter&#39;s Moon &lpar;photo&rpar;](https://www.space.com/worlds-largest-telescope-elt-moon-illusion-photo)
-- [Zephr emerges from stealth with $3.5M and plans to create a “networked GPS” using cell phones](https://techcrunch.com/2023/11/02/zephr-emerges-from-stealth-with-3-5m-and-plans-to-create-a-networked-gps-using-cell-phones/)
-- [Charm offensive: Google’s Gradient backs this startup to bring more pizzazz to the command line](https://techcrunch.com/2023/11/02/charm-offensive-googles-gradient-backs-this-startup-to-bring-more-pizzazz-to-the-command-line/)
-- [New Facebook Stories API helps creators share directly from third-party desktop or web apps](https://techcrunch.com/2023/11/02/new-facebook-stories-api-helps-creators-share-directly-from-third-party-desktop-or-web-apps/)
+- [Payroll Integrations grabs $20M to build employee financial wellness tools](https://techcrunch.com/2023/11/02/payroll-integrations-20m-employee-financial-wellness/)
+- [When generative AI cyberthreats arrive, Wraithwatch will be ready and waiting](https://techcrunch.com/2023/11/02/when-generative-ai-cyberthreats-arrive-wraithwatch-wants-to-be-prepared/)
+- [Govly wants to make it easier for companies to spot federal contract opportunities](https://techcrunch.com/2023/11/02/govly-wants-to-make-it-easier-for-companies-to-spot-federal-contract-opportunities/)
+- [&#39;Star Trek: Lower Decks&#39; crew handbook explains life aboard the U.S.S. Cerritos](https://www.space.com/star-trek-lower-decks-crew-handbook-uss-cerritos)
+- [Sweep aims to automate basic dev tasks using large language models](https://techcrunch.com/2023/11/02/sweep-aims-to-automate-basic-dev-tasks-using-large-language-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
