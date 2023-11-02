@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mantic’s robot vacuum maps spaces without sending data to the cloud](https://techcrunch.com/2023/11/02/mantics-robot-vacuum-maps-spaces-without-sending-data-to-the-cloud/)
+- [Brave’s Leo AI assistant is now available to desktop users](https://techcrunch.com/2023/11/02/braves-leo-ai-assistant-is-now-available-to-desktop-users/)
+- [Astronaut captures image of a glowering &#39;skull&#39; lurking in a giant volcanic pit in the Sahara](https://www.space.com/astronaut-photograph-skull-volcano-pit-sahara)
+- [How to raise a substantial round with angel investors](https://techcrunch.com/2023/11/02/how-to-raise-a-substantial-round-with-angel-investors/)
 - [10 years since the term ‘unicorn’ was coined, we’ve almost come full circle](https://techcrunch.com/2023/11/02/unicorn-tenth-anniversary/)
-- [Kaiber’s new app helps artists create music videos using generative AI tools](https://techcrunch.com/2023/11/02/kaibers-new-app-helps-artists-make-music-videos-using-generative-ai-tools/)
-- [Flavrs, a shoppable video app for foodies, launches a new takeout feature and AI-powered recommendations](https://techcrunch.com/2023/11/02/flavrs-a-shoppable-video-app-for-foodies-launches-a-new-takeout-feature-and-ai-powered-recommendations/)
-- [YouTube’s new teen safeguards limit repeated viewing of some video topics and more](https://techcrunch.com/2023/11/02/youtubes-new-teen-safeguards-limit-repeated-viewing-of-some-video-topics-and-more/)
-- [Satellite companies may be starting to take the fight against space junk seriously](https://www.space.com/in-space-satellite-propulsion-sustainability-space-junk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
