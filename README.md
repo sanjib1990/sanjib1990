@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch China launch pair of Earth-mapping satellites on its 50th launch of 2023 &lpar;video&rpar;](https://www.space.com/china-tianhui-satellites-earth-mapping-nov-2023)
-- [Stability AI’s latest tool uses AI to generate 3D models](https://techcrunch.com/2023/11/02/stability-ais-latest-tool-uses-ai-to-generate-3d-models/)
-- [Sigma 14mm f/1.4 DG DN Art lens review](https://www.space.com/sigma-14mm-f14-dg-dn-art-lens-review)
-- [Virgin Galactic launches researchers to suborbital space on 5th commercial flight](https://www.space.com/virgin-galactic-05-mission-success-stern-gerardi)
-- [Matic’s robot vacuum maps spaces without sending data to the cloud](https://techcrunch.com/2023/11/02/mantics-robot-vacuum-maps-spaces-without-sending-data-to-the-cloud/)
+- [Mortgage and loan giant Mr. Cooper blames cyberattack for ongoing outage](https://techcrunch.com/2023/11/02/mr-cooper-hackers-cyberattack/)
+- [Los Angeles demands robotaxi rulemaking powers](https://techcrunch.com/2023/11/02/los-angeles-demands-robotaxi-rulemaking-powers/)
+- [Personal finance app Monarch sees bump in users following Intuit’s news it is closing Mint](https://techcrunch.com/2023/11/02/personal-finance-monarch-intuit-mint/)
+- [Your startup should solve an impossibly hard problem](https://techcrunch.com/2023/11/02/how-hard-is-it/)
+- [Intuitive Machines private moon lander launch set for January 2024](https://www.space.com/moon-landing-intuitive-machines-private-mission-target-january-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
