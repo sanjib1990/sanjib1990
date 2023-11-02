@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford shutters company building an app for plumbers, electricians and other trades](https://techcrunch.com/2023/11/02/ford-shutters-company-building-an-app-for-plumbers-electricians-and-other-trades/)
 - [Uber and Lyft pay $328M to settle wage-theft complaints in New York](https://techcrunch.com/2023/11/02/uber-and-lyft-pay-328m-to-settle-wage-theft-complaints-in-new-york/)
 - [Astronaut Ken Mattingly, who launched to the moon on Apollo 16, dies at 87](https://www.space.com/thomas-ken-tk-mattingly-nasa-astronaut-obituary)
 - [Coinbase’s Q3 revenue beat expectations, but its shares fell as growth prospects underwhelmed](https://techcrunch.com/2023/11/02/coinbases-q3-2023-revenue-beat-expectations/)
 - [Surprise! Asteroid &#39;Dinky&#39; is actually a double space rock, NASA&#39;s Lucy probe reveals &lpar;photo&rpar;](https://www.space.com/lucy-asteroid-flyby-dinkinesh-binary-system)
-- [Charting the last 10 years of the unicorn era](https://techcrunch.com/2023/11/02/startup-unicorns-tenth-anniversary-charts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
