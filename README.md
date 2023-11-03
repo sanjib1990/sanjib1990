@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Norrsken22’s debut fund closes at $205M to back growth-stage startups in Africa](https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/)
 - [X runs ‘timeline takeover’ ad promoting anti-trans film](https://techcrunch.com/2023/11/02/x-runs-timeline-takeover-ad-promoting-anti-trans-film/)
 - [Sam Bankman-Fried found guilty on all seven counts](https://techcrunch.com/2023/11/02/sam-bankman-fried-found-guilty-on-all-seven-counts/)
 - [Ford shutters company building an app for plumbers, electricians and other trades](https://techcrunch.com/2023/11/02/ford-shutters-company-building-an-app-for-plumbers-electricians-and-other-trades/)
 - [Uber and Lyft pay $328M to settle wage-theft complaints in New York](https://techcrunch.com/2023/11/02/uber-and-lyft-pay-328m-to-settle-wage-theft-complaints-in-new-york/)
-- [Astronaut Ken Mattingly, who launched to the moon on Apollo 16, dies at 87](https://www.space.com/thomas-ken-tk-mattingly-nasa-astronaut-obituary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
