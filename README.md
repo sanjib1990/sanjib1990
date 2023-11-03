@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swedish fintech Klarna dodges a strike after reaching agreement with workers](https://techcrunch.com/2023/11/03/fintech-klarna-reaches-agreement-with-workers-planned-strike-called-off/)
+- [10 editor-tested travel gifts for frequent fliers in 2023](https://techcrunch.com/2023/11/03/10-editor-tested-travel-gifts-for-frequent-fliers-in-2023/)
 - [Meet &#39;Tenacity:&#39; Sierra Space unveils 1st Dream Chaser space plane &lpar;photos&rpar;](https://www.space.com/sierra-space-completes-first-dream-chaser-space-plane-tenacity)
 - [Smithsonian debuts 1st display of asteroid Bennu sample brought back by OSIRIS-REx](https://www.space.com/smithsonian-osiris-rex-bennu-asteroid-unveiling)
 - [Not many unicorns were spotted in the UK and France this year](https://techcrunch.com/2023/11/03/uk-france-unicorns-anniversary/)
-- [These high-tech buzzers may help astronauts avoid getting lost in space &lpar;video&rpar;](https://www.space.com/astronauts-wearable-tech-spatial-disorientation)
-- [Boox’s latest e-readers combine quiet, compact styles with big customization](https://techcrunch.com/2023/11/03/boox-ereaders-poke-5-palma-page-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
