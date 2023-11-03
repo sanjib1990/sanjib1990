@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Returning astronauts to the moon is NASA&#39;s biggest challenge, but not its only one: report](https://www.space.com/nasa-biggest-challenges-return-to-moon-oig-report)
-- [Deft is building e-commerce search to help you find the right product quickly](https://techcrunch.com/2023/11/03/deft-is-building-e-commerce-search-to-help-you-find-the-right-product-quickly/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [10 editor-tested travel gifts for frequent fliers in 2023](https://techcrunch.com/2023/11/03/10-editor-tested-travel-gifts-for-frequent-fliers-in-2023/)
-- [DoorDash adds new safety tools for its delivery people, including ‘driving insights’](https://techcrunch.com/2023/11/03/doordash-adds-new-safety-tools-delivery-people-insights-about-their-driving-habits/)
+- [BNPL is just another way of saying ‘debt’](https://techcrunch.com/2023/11/03/bnpl-is-just-a-description-of-the-word-debt/)
+- [Miss England &#39;flies&#39; Boeing Starliner spaceship at NASA&#39;s Kennedy Space Center](https://www.space.com/boeing-starliner-miss-england-nasa-kennedy-space-center)
+- [Pitch Teardown: The CancerVAX crowdfunding campaign on StartEngine](https://techcrunch.com/2023/11/03/cancervax-crowdfunding-campaign-pitch-teardown/)
+- [&#39;Loki&#39; season 2 episode 5 review: An unexpected solution](https://www.space.com/loki-season-2-episode-5-review)
+- [Meta and Amazon settle UK antitrust probes over use of third-party data to benefit marketplaces](https://techcrunch.com/2023/11/03/uk-cma-amazon-meta-facebook-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
