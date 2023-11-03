@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How El Niño may affect the chances of clear skies for the 2024 total solar eclipse](https://www.space.com/how-el-nino-may-affect-total-solar-eclipse-2024-weather)
-- [Jupiter&#39;s Great Red Spot turns blue in new ultraviolet view from Hubble Telescope &lpar;photo&rpar;](https://www.space.com/jupiter-hubble-space-telescope-atmosphere-ultraviolet)
-- [Apple CEO Tim Cook says AI is a fundamental technology, confirms investments in generative AI](https://techcrunch.com/2023/11/03/apple-ceo-tim-cook-says-ai-is-a-fundamental-technology-confirms-investments-in-generative-ai/)
-- [Look up! The Taurid meteor shower peaks next week](https://www.space.com/taurid-meteor-shower-november-2023-guide)
-- [How to bootstrap an AI startup](https://techcrunch.com/2023/11/03/how-to-bootstrap-an-ai-startup/)
+- [Black founders still care for Silicon Valley Bank](https://techcrunch.com/2023/11/03/black-founders-silicon-valley-bank-no-hard-feelings/)
+- [Solar storm causes &#39;impossible,&#39; pumpkin-colored auroras to fill the sky](https://www.space.com/solar-storm-causes-pumpkin-orange-aurora)
+- [SpaceX Falcon 9 rocket set to launch on record-breaking 18th mission today](https://www.space.com/spacex-falcon-9-starlink-launch-18th-mission-record)
+- [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
+- [People are turning to Snap Map for firsthand perspectives from Gaza](https://techcrunch.com/2023/11/03/snapchat-snap-map-israel-hamas-war-gaza-palestine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
