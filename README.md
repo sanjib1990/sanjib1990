@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese EV darling Nio to cut 10% staff amid ‘fierce competition’](https://techcrunch.com/2023/11/03/chinese-ev-darling-nio-to-cut-10-staff-amid-fierce-competition/)
+- [Meta’s latest privacy rip-off will test the EU’s mettle for reining in Big Tech](https://techcrunch.com/2023/11/03/meta-ad-free-subscription-vs-eu-dma-dsa/)
 - [SpaceX, NASA delay CRS-29 cargo launch again, to Nov. 9](https://www.space.com/spacex-nasa-crs-29-cargo-launch-delay-november-9)
 - [The Magellanic Clouds must be renamed, astronomers say](https://www.space.com/astronomers-rename-magellanic-clouds-coalition)
 - [Blackbird invests in Carepatron’s “radically accessible” healthcare management platform](https://techcrunch.com/2023/11/03/carepatron/)
-- [Norrsken22’s debut fund closes at $205M to back growth-stage startups in Africa](https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/)
-- [X runs ‘timeline takeover’ ad promoting anti-trans film](https://techcrunch.com/2023/11/02/x-runs-timeline-takeover-ad-promoting-anti-trans-film/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
