@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple CEO Tim Cook says AI is a fundamental technology, confirms investments in generative AI](https://techcrunch.com/2023/11/03/apple-ceo-tim-cook-says-ai-is-a-fundamental-technology-confirms-investments-in-generative-ai/)
+- [Look up! The Taurid meteor shower peaks next week](https://www.space.com/taurid-meteor-shower-november-2023-guide)
+- [How to bootstrap an AI startup](https://techcrunch.com/2023/11/03/how-to-bootstrap-an-ai-startup/)
+- [Lemon8, the Instagram rival from TikTok parent ByteDance, fails to gain traction in U.S.](https://techcrunch.com/2023/11/03/lemon8-the-instagram-rival-from-tiktok-parent-bytedance-fails-to-gain-traction-in-u-s/)
 - [5 AI-powered tech gifts that are actually fun — and productive](https://techcrunch.com/2023/11/03/5-ai-powered-gifts-that-are-actually-fun-and-productive/)
-- [James Webb Space Telescope reveals distances of nearly 200 deep-space galaxies](https://www.space.com/james-webb-space-telescope-200-galaxies-distances-revealed)
-- [Wholesale marketplace Faire, which raised at a $12.6B valuation last year, lays off 20% of its staff](https://techcrunch.com/2023/11/03/faire-layoffs-20-staff/)
-- [Best Space gift Black Friday deals from 2022](https://www.space.com/best-space-gift-black-friday-deals-from-2022)
-- [PSA: Your chat and call apps may leak your IP address](https://techcrunch.com/2023/11/03/psa-chat-call-apps-reveal-ip-address/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
