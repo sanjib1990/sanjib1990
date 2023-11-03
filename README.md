@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX, NASA delay CRS-29 cargo launch again, to Nov. 9](https://www.space.com/spacex-nasa-crs-29-cargo-launch-delay-november-9)
+- [The Magellanic Clouds must be renamed, astronomers say](https://www.space.com/astronomers-rename-magellanic-clouds-coalition)
 - [Blackbird invests in Carepatron’s “radically accessible” healthcare management platform](https://techcrunch.com/2023/11/03/carepatron/)
 - [Norrsken22’s debut fund closes at $205M to back growth-stage startups in Africa](https://techcrunch.com/2023/11/02/norrsken22s-debut-fund-closes-at-205m-to-back-growth-stage-startups-in-africa/)
 - [X runs ‘timeline takeover’ ad promoting anti-trans film](https://techcrunch.com/2023/11/02/x-runs-timeline-takeover-ad-promoting-anti-trans-film/)
-- [Sam Bankman-Fried found guilty on all seven counts](https://techcrunch.com/2023/11/02/sam-bankman-fried-found-guilty-on-all-seven-counts/)
-- [Ford shutters company building an app for plumbers, electricians and other trades](https://techcrunch.com/2023/11/02/ford-shutters-company-building-an-app-for-plumbers-electricians-and-other-trades/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
