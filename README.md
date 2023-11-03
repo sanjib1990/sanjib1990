@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black founders still care for Silicon Valley Bank](https://techcrunch.com/2023/11/03/black-founders-silicon-valley-bank-no-hard-feelings/)
-- [Solar storm causes &#39;impossible,&#39; pumpkin-colored auroras to fill the sky](https://www.space.com/solar-storm-causes-pumpkin-orange-aurora)
-- [SpaceX Falcon 9 rocket set to launch on record-breaking 18th mission today](https://www.space.com/spacex-falcon-9-starlink-launch-18th-mission-record)
-- [Why Mozilla is betting on a decentralized social networking future](https://techcrunch.com/2023/11/03/why-mozilla-is-betting-on-a-decentralized-social-networking-future/)
-- [People are turning to Snap Map for firsthand perspectives from Gaza](https://techcrunch.com/2023/11/03/snapchat-snap-map-israel-hamas-war-gaza-palestine/)
+- [Boox’s latest e-readers combine quiet, compact styles with big customization](https://techcrunch.com/2023/11/03/boox-ereaders-poke-5-palma-page-review/)
+- [If your startup doesn’t seem impossible at first, it’s not hard enough](https://techcrunch.com/2023/11/03/if-your-startup-doesnt-seem-impossible-at-first-its-not-hard-enough/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [7 scorching-hot exoplanets discovered circling the same star](https://www.space.com/kepler-space-telescope-exoplanets-)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/03/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
