@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smithsonian debuts 1st display of asteroid Bennu sample brought back by OSIRIS-REx](https://www.space.com/smithsonian-osiris-rex-bennu-asteroid-unveiling)
+- [Not many unicorns were spotted in the UK and France this year](https://techcrunch.com/2023/11/03/uk-france-unicorns-anniversary/)
+- [These high-tech buzzers may help astronauts avoid getting lost in space &lpar;video&rpar;](https://www.space.com/astronauts-wearable-tech-spatial-disorientation)
 - [Boox’s latest e-readers combine quiet, compact styles with big customization](https://techcrunch.com/2023/11/03/boox-ereaders-poke-5-palma-page-review/)
 - [If your startup doesn’t seem impossible at first, it’s not hard enough](https://techcrunch.com/2023/11/03/if-your-startup-doesnt-seem-impossible-at-first-its-not-hard-enough/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [7 scorching-hot exoplanets discovered circling the same star](https://www.space.com/kepler-space-telescope-exoplanets-)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/03/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
