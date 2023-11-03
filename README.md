@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How El Niño may affect the chances of clear skies for the 2024 total solar eclipse](https://www.space.com/how-el-nino-may-affect-total-solar-eclipse-2024-weather)
+- [Jupiter&#39;s Great Red Spot turns blue in new ultraviolet view from Hubble Telescope &lpar;photo&rpar;](https://www.space.com/jupiter-hubble-space-telescope-atmosphere-ultraviolet)
 - [Apple CEO Tim Cook says AI is a fundamental technology, confirms investments in generative AI](https://techcrunch.com/2023/11/03/apple-ceo-tim-cook-says-ai-is-a-fundamental-technology-confirms-investments-in-generative-ai/)
 - [Look up! The Taurid meteor shower peaks next week](https://www.space.com/taurid-meteor-shower-november-2023-guide)
 - [How to bootstrap an AI startup](https://techcrunch.com/2023/11/03/how-to-bootstrap-an-ai-startup/)
-- [Lemon8, the Instagram rival from TikTok parent ByteDance, fails to gain traction in U.S.](https://techcrunch.com/2023/11/03/lemon8-the-instagram-rival-from-tiktok-parent-bytedance-fails-to-gain-traction-in-u-s/)
-- [5 AI-powered tech gifts that are actually fun — and productive](https://techcrunch.com/2023/11/03/5-ai-powered-gifts-that-are-actually-fun-and-productive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
