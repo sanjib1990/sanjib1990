@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet &#39;Tenacity:&#39; Sierra Space unveils 1st Dream Chaser space plane &lpar;photos&rpar;](https://www.space.com/sierra-space-completes-first-dream-chaser-space-plane-tenacity)
 - [Smithsonian debuts 1st display of asteroid Bennu sample brought back by OSIRIS-REx](https://www.space.com/smithsonian-osiris-rex-bennu-asteroid-unveiling)
 - [Not many unicorns were spotted in the UK and France this year](https://techcrunch.com/2023/11/03/uk-france-unicorns-anniversary/)
 - [These high-tech buzzers may help astronauts avoid getting lost in space &lpar;video&rpar;](https://www.space.com/astronauts-wearable-tech-spatial-disorientation)
 - [Boox’s latest e-readers combine quiet, compact styles with big customization](https://techcrunch.com/2023/11/03/boox-ereaders-poke-5-palma-page-review/)
-- [If your startup doesn’t seem impossible at first, it’s not hard enough](https://techcrunch.com/2023/11/03/if-your-startup-doesnt-seem-impossible-at-first-its-not-hard-enough/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
