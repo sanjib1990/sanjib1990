@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BNPL is just another way of saying ‘debt’](https://techcrunch.com/2023/11/03/bnpl-is-just-a-description-of-the-word-debt/)
-- [Miss England &#39;flies&#39; Boeing Starliner spaceship at NASA&#39;s Kennedy Space Center](https://www.space.com/boeing-starliner-miss-england-nasa-kennedy-space-center)
-- [Pitch Teardown: The CancerVAX crowdfunding campaign on StartEngine](https://techcrunch.com/2023/11/03/cancervax-crowdfunding-campaign-pitch-teardown/)
-- [&#39;Loki&#39; season 2 episode 5 review: An unexpected solution](https://www.space.com/loki-season-2-episode-5-review)
-- [Meta and Amazon settle UK antitrust probes over use of third-party data to benefit marketplaces](https://techcrunch.com/2023/11/03/uk-cma-amazon-meta-facebook-marketplace/)
+- [5 AI-powered tech gifts that are actually fun — and productive](https://techcrunch.com/2023/11/03/5-ai-powered-gifts-that-are-actually-fun-and-productive/)
+- [James Webb Space Telescope reveals distances of nearly 200 deep-space galaxies](https://www.space.com/james-webb-space-telescope-200-galaxies-distances-revealed)
+- [Wholesale marketplace Faire, which raised at a $12.6B valuation last year, lays off 20% of its staff](https://techcrunch.com/2023/11/03/faire-layoffs-20-staff/)
+- [Best Space gift Black Friday deals from 2022](https://www.space.com/best-space-gift-black-friday-deals-from-2022)
+- [PSA: Your chat and call apps may leak your IP address](https://techcrunch.com/2023/11/03/psa-chat-call-apps-reveal-ip-address/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
