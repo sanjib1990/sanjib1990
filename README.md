@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Returning astronauts to the moon is NASA&#39;s biggest challenge, but not its only one: report](https://www.space.com/nasa-biggest-challenges-return-to-moon-oig-report)
+- [Deft is building e-commerce search to help you find the right product quickly](https://techcrunch.com/2023/11/03/deft-is-building-e-commerce-search-to-help-you-find-the-right-product-quickly/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [10 editor-tested travel gifts for frequent fliers in 2023](https://techcrunch.com/2023/11/03/10-editor-tested-travel-gifts-for-frequent-fliers-in-2023/)
-- [See Jupiter shine bright during the Taurid meteor shower tonight](https://www.space.com/jupiter-opposition-taurid-meteor-shower-november-2023)
-- [Chinese EV darling Nio to cut 10% staff amid ‘fierce competition’](https://techcrunch.com/2023/11/03/chinese-ev-darling-nio-to-cut-10-staff-amid-fierce-competition/)
-- [Meta’s latest privacy rip-off will test the EU’s mettle for reining in Big Tech](https://techcrunch.com/2023/11/03/meta-ad-free-subscription-vs-eu-dma-dsa/)
-- [SpaceX, NASA delay CRS-29 cargo launch again, to Nov. 9](https://www.space.com/spacex-nasa-crs-29-cargo-launch-delay-november-9)
+- [DoorDash adds new safety tools for its delivery people, including ‘driving insights’](https://techcrunch.com/2023/11/03/doordash-adds-new-safety-tools-delivery-people-insights-about-their-driving-habits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
