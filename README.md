@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How engineering leaders can use AI to optimize performance](https://techcrunch.com/2023/11/04/how-engineering-leaders-can-use-ai-to-optimize-performance/)
 - [Deal Dive: AI’s not the only sector dodging the funding slowdown](https://techcrunch.com/2023/11/04/deal-dive-defense-tech-funding/)
 - [The &#39;safe&#39; threshold for global warming will be passed in just 6 years, scientists say](https://www.space.com/climate-change-safe-threshold-global-warming-6-years)
 - [Google DeepMind’s robotics head on general purpose robots, generative AI and office WiFi](https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/)
 - [Track the ISS with NASA&#39;s new &#39;Spot the Station&#39; mobile app](https://www.space.com/nasa-spot-the-station-iss-mobile-tracking-app)
-- [James Webb Space Telescope could soon solve mysteries of the Milky Way&#39;s heart](https://www.space.com/james-webb-space-telescope-milky-way-heart-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
