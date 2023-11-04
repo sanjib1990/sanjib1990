@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech layoffs return with a vengeance, Gaza internet collapses and Apple hosts a Halloween event](https://techcrunch.com/2023/11/04/tech-layoffs-return-with-a-vengeance-gaza-internet-collapses-and-apple-hosts-a-halloween-event/)
 - [A new breed of companies expand in San Francisco’s prime areas](https://techcrunch.com/2023/11/04/san-francisco-office-space-2/)
 - [Android’s new real-time app scanning aims to combat malicious sideloaded apps](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/)
 - [Will this former future unicorn be sold for parts?](https://techcrunch.com/2023/11/04/luko-insurtech-sale/)
 - [How engineering leaders can use AI to optimize performance](https://techcrunch.com/2023/11/04/how-engineering-leaders-can-use-ai-to-optimize-performance/)
-- [Deal Dive: AI’s not the only sector dodging the funding slowdown](https://techcrunch.com/2023/11/04/deal-dive-defense-tech-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
