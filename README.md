@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;safe&#39; threshold for global warming will be passed in just 6 years, scientists say](https://www.space.com/climate-change-safe-threshold-global-warming-6-years)
 - [Google DeepMind’s robotics head on general purpose robots, generative AI and office WiFi](https://techcrunch.com/2023/11/04/google-deepminds-robotics-head-on-general-purpose-robots-generative-ai-and-office-ai/)
 - [Track the ISS with NASA&#39;s new &#39;Spot the Station&#39; mobile app](https://www.space.com/nasa-spot-the-station-iss-mobile-tracking-app)
 - [James Webb Space Telescope could soon solve mysteries of the Milky Way&#39;s heart](https://www.space.com/james-webb-space-telescope-milky-way-heart-mystery)
 - [Edtech giant Byju’s misses revenue projection in delayed financial account](https://techcrunch.com/2023/11/04/byjus-misses-revenue-projection-in-delayed-financial-account/)
-- [Musk says X subscribers will get early access to xAI’s chatbot, Grok](https://techcrunch.com/2023/11/03/musk-says-twitter-subscribers-will-get-early-access-to-xais-chatbot-grok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
