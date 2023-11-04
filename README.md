@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Musk says Twitter subscribers will get early access to xAI’s chatbot, Grok](https://techcrunch.com/2023/11/03/musk-says-twitter-subscribers-will-get-early-access-to-xais-chatbot-grok/)
+- [Musk says X subscribers will get early access to xAI’s chatbot, Grok](https://techcrunch.com/2023/11/03/musk-says-twitter-subscribers-will-get-early-access-to-xais-chatbot-grok/)
 - [This EV startup was going to revolutionize how cars were made – now, it’s on life support](https://techcrunch.com/2023/11/03/this-ev-startup-was-going-to-revolutionize-how-cars-were-made-now-its-on-life-support/)
 - [Swedish fintech Klarna dodges a strike after reaching agreement with workers](https://techcrunch.com/2023/11/03/fintech-klarna-reaches-agreement-with-workers-planned-strike-called-off/)
 - [10 editor-tested travel gifts for frequent fliers in 2023](https://techcrunch.com/2023/11/03/10-editor-tested-travel-gifts-for-frequent-fliers-in-2023/)
