@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sci-fi inspired tractor beams are real, and could solve a major space junk problem](https://www.space.com/sci-fi-inspired-tractor-beams-are-real-and-could-solve-the-major-problem-of-space-junk)
 - [SpaceX Artist-in-Residence on painting spacecraft and Starlink satellites: &#39;The machine is my patron&#39; &lpar;exclusive&rpar;](https://www.space.com/spacex-artist-in-residence-agnieszka-pilat-interview)
 - [Netherlands, Iceland sign Artemis Accords for moon exploration](https://www.space.com/netherlands-iceland-artemis-accords-moon-exploration)
 - [Tech layoffs return with a vengeance, Gaza internet collapses and Apple hosts a Halloween event](https://techcrunch.com/2023/11/04/tech-layoffs-return-with-a-vengeance-gaza-internet-collapses-and-apple-hosts-a-halloween-event/)
 - [A new breed of companies expand in San Francisco’s prime areas](https://techcrunch.com/2023/11/04/san-francisco-office-space-2/)
-- [Android’s new real-time app scanning aims to combat malicious sideloaded apps](https://techcrunch.com/2023/11/04/google-play-android-real-time-app-scanning-sideload-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
