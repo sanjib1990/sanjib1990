@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Before you found a startup, think about your personal goals](https://techcrunch.com/2023/11/05/startup-goals/)
 - [The circular economy promises to remake retail. Why is it so hard to trust?](https://techcrunch.com/2023/11/05/circular-economy-resale-trust/)
 - [Why last week felt like 2021 in fintech](https://techcrunch.com/2023/11/05/the-return-of-mega-rounds-in-fintech-and-where-all-the-former-mint-users-are-headed/)
 - [Watch NASA build Artemis 2 astronaut moon rocket boosters ahead of 2024 launch &lpar;video&rpar;](https://www.space.com/nasa-artemis-2-moon-rocket-booster-build-launch-work)
 - [NASA&#39;s SWOT satellite maps nearly of all Earth&#39;s water &lpar;video&rpar;](https://www.space.com/nasa-swot-satellite-maps-earths-water-video)
-- [Sci-fi inspired tractor beams are real, and could solve a major space junk problem](https://www.space.com/sci-fi-inspired-tractor-beams-are-real-and-could-solve-the-major-problem-of-space-junk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
