@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best jigsaw puzzles to gift in 2023](https://techcrunch.com/2023/11/06/the-best-jigsaw-puzzles-to-gift-in-2023/)
-- [Powerful solar storm supercharges auroras and STEVE around the world &lpar;photos&rpar;](https://www.space.com/strong-geomagnetic-storm-triggers-auroras-worldwide-photos-november-2023)
-- [Bumble announces Slack CEO Lidiane Jones will be its new chief exec](https://techcrunch.com/2023/11/06/bumble-announces-its-hiring-slack-ceo-lidiane-jones-as-its-next-chief-exec/)
-- [The race to build tomorrow’s AI models, and signs of life in the crypto markets](https://techcrunch.com/2023/11/06/the-race-to-build-tomorrows-ai-models-and-signs-of-life-in-the-crypto-markets/)
-- [Scientists finally discover &#39;lost continent&#39; thought to have vanished without a trace](https://www.space.com/lost-continent-finally-discovered)
+- [Dark matter-hunting Euclid mission to share its 1st full-color images of the universe on Nov. 7](https://www.space.com/euclid-space-telescope-first-full-color-images-preview)
+- [What to know about Fortnite maker Epic Games’ antitrust battle with Google, starting today](https://techcrunch.com/2023/11/06/what-to-know-about-fortnite-maker-epic-games-antitrust-battle-with-google-starting-today/)
+- [Generative AI shouldn’t reduce your startup’s marketing headcount](https://techcrunch.com/2023/11/06/generative-ai-shouldnt-reduce-your-startups-marketing-headcount/)
+- [Astronaut Luca Parmitano on NASA&#39;s return to the moon: &#39;It&#39;s no longer a dream&#39; &lpar;exclusive&rpar;](https://www.space.com/esa-astronaut-luca-parmitano-interview)
+- [Decentralized communication protocol Matrix shifts to less-permissive AGPL open source license](https://techcrunch.com/2023/11/06/decentralized-communication-protocol-matrix-shifts-to-less-permissive-agpl-open-source-license/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
