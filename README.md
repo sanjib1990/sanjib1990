@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Klarna’s financial glow-up is my favorite story in tech right now](https://techcrunch.com/2023/11/06/klarnas-q3-results-analysis/)
 - [Apple, it’s time to fold](https://techcrunch.com/2023/11/06/apple-its-time-to-fold/)
 - [This spinal implant tech could restore mobility to Parkinsons patients](https://techcrunch.com/2023/11/06/this-spinal-implant-tech-could-restore-mobility-to-parkinsons-patients/)
 - [China launches mystery satellite on Long March 7A rocket &lpar;photo&rpar;](https://www.space.com/china-tjs-10-mystery-satellite-launch)
 - [OpenAI’s ChatGPT now has 100 million weekly active users](https://techcrunch.com/2023/11/06/openais-chatgpt-now-has-100-million-weekly-active-users/)
-- [Coperniq raises $4M seed round to bring SaaS to solar installers](https://techcrunch.com/2023/11/06/coperniq-seed-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
