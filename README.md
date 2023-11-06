@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star-birthing galaxies can hide supermassive black holes behind walls of dust](https://www.space.com/supermassive-black-hole-galaxies-dust-walls-hide)
+- [YouTube to test generative AI features, including a comments summarizer and conversational tool](https://techcrunch.com/2023/11/06/youtube-to-test-generative-ai-features-including-a-comments-summarizer-and-conversational-tool/)
+- [Startups learn the hard way that relying on OpenAI’s tech can burn them](https://techcrunch.com/2023/11/06/get-the-pdf-outta-here/)
+- [US sanctions Russian accused of laundering Ryuk ransomware funds](https://techcrunch.com/2023/11/06/us-sanctions-russian-accused-of-laundering-ryuk-ransomware-funds/)
 - [Dark matter-hunting Euclid mission to share its 1st full-color images of the universe on Nov. 7](https://www.space.com/euclid-space-telescope-first-full-color-images-preview)
-- [What to know about Fortnite maker Epic Games’ antitrust battle with Google, starting today](https://techcrunch.com/2023/11/06/what-to-know-about-fortnite-maker-epic-games-antitrust-battle-with-google-starting-today/)
-- [Generative AI shouldn’t reduce your startup’s marketing headcount](https://techcrunch.com/2023/11/06/generative-ai-shouldnt-reduce-your-startups-marketing-headcount/)
-- [Astronaut Luca Parmitano on NASA&#39;s return to the moon: &#39;It&#39;s no longer a dream&#39; &lpar;exclusive&rpar;](https://www.space.com/esa-astronaut-luca-parmitano-interview)
-- [Decentralized communication protocol Matrix shifts to less-permissive AGPL open source license](https://techcrunch.com/2023/11/06/decentralized-communication-protocol-matrix-shifts-to-less-permissive-agpl-open-source-license/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
