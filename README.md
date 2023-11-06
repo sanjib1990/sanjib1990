@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple, it’s time to fold](https://techcrunch.com/2023/11/06/apple-its-time-to-fold/)
+- [This spinal implant tech could restore mobility to Parkinsons patients](https://techcrunch.com/2023/11/06/this-spinal-implant-tech-could-restore-mobility-to-parkinsons-patients/)
+- [China launches mystery satellite on Long March 7A rocket &lpar;photo&rpar;](https://www.space.com/china-tjs-10-mystery-satellite-launch)
 - [OpenAI’s ChatGPT now has 100 million weekly active users](https://techcrunch.com/2023/11/06/openais-chatgpt-now-has-100-million-weekly-active-users/)
 - [Coperniq raises $4M seed round to bring SaaS to solar installers](https://techcrunch.com/2023/11/06/coperniq-seed-round/)
-- [What is STEVE, and how is it different from the aurora?](https://www.space.com/what-is-steve)
-- [App Store for AI: OpenAI’s GPT Store lets you build &lpar;and monetize&rpar; your own GPT](https://techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gpt-and-sell-it-on-openais-gpt-store/)
-- [OpenAI launches DALL-E 3 API, new text-to-speech models](https://techcrunch.com/2023/11/06/openai-launches-dall-e-3-api-new-text-to-speech-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
