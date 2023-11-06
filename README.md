@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best jigsaw puzzles to gift in 2023](https://techcrunch.com/2023/11/06/the-best-jigsaw-puzzles-to-gift-in-2023/)
+- [Powerful solar storm supercharges auroras and STEVE around the world &lpar;photos&rpar;](https://www.space.com/strong-geomagnetic-storm-triggers-auroras-worldwide-photos-november-2023)
+- [Bumble announces Slack CEO Lidiane Jones will be its new chief exec](https://techcrunch.com/2023/11/06/bumble-announces-its-hiring-slack-ceo-lidiane-jones-as-its-next-chief-exec/)
+- [The race to build tomorrow’s AI models, and signs of life in the crypto markets](https://techcrunch.com/2023/11/06/the-race-to-build-tomorrows-ai-models-and-signs-of-life-in-the-crypto-markets/)
 - [Scientists finally discover &#39;lost continent&#39; thought to have vanished without a trace](https://www.space.com/lost-continent-finally-discovered)
-- [Firefly’s Blue Ghost lander represents a big bet on a future lunar economy](https://techcrunch.com/2023/11/06/fireflys-blue-ghost-lander-represents-a-big-bet-on-a-future-lunar-economy/)
-- [James Burke discusses revival of famous &#39;Connections&#39; docuseries: Exclusive Q&amp;A](https://www.space.com/connections-with-james-burke-docuseries-curiosity-stream-q-and-a)
-- [Lidl owner and Bosch Ventures co-lead $500M Series B into German AI start-up Aleph Alpha](https://techcrunch.com/2023/11/06/lidl-owner-and-bosch-ventures-co-lead-500m-series-b-into-german-ai-start-up-aleph-alpha/)
-- [Confirmed: Palo Alto has acquired Talon Cyber Security, sources say for $625M](https://techcrunch.com/2023/11/06/confirmed-palo-alto-has-acquired-talon-cyber-security-sources-say-for-625m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
