@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists finally discover &#39;lost continent&#39; thought to have vanished without a trace](https://www.space.com/lost-continent-finally-discovered)
+- [Firefly’s Blue Ghost lander represents a big bet on a future lunar economy](https://techcrunch.com/2023/11/06/fireflys-blue-ghost-lander-represents-a-big-bet-on-a-future-lunar-economy/)
+- [James Burke discusses revival of famous &#39;Connections&#39; docuseries: Exclusive Q&amp;A](https://www.space.com/connections-with-james-burke-docuseries-curiosity-stream-q-and-a)
 - [Lidl owner and Bosch Ventures co-lead $500M Series B into German AI start-up Aleph Alpha](https://techcrunch.com/2023/11/06/lidl-owner-and-bosch-ventures-co-lead-500m-series-b-into-german-ai-start-up-aleph-alpha/)
 - [Confirmed: Palo Alto has acquired Talon Cyber Security, sources say for $625M](https://techcrunch.com/2023/11/06/confirmed-palo-alto-has-acquired-talon-cyber-security-sources-say-for-625m/)
-- [Luxury clothing distributors get into virtual try-on tech; bag $15M Series A on a $100M valuation](https://techcrunch.com/2023/11/06/luxury-clothing-virtual-try-on-100m-valuation-e-commerce/)
-- [20GROWTH secures $5M to invest in early-stage startups, provide growth strategies](https://techcrunch.com/2023/11/06/20growth-5m-venture-capital-startups/)
-- [Apple says it’s not planning a 27-inch iMac](https://techcrunch.com/2023/11/06/apple-imac-27-inch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
