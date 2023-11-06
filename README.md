@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 20 best STEM toys to gift coders-in-training](https://techcrunch.com/2023/11/06/the-20-best-stem-toys-to-gift-coders-in-training/)
-- [Smart simians stare at the stars in 1st &#39;Kingdom of the Planet of the Apes&#39; teaser &lpar;video&rpar;](https://www.space.com/kingdom-of-the-planet-of-the-apes-first-trailer)
-- [Seeing NASA&#39;s OSIRIS-REx asteroid sample up close at the Smithsonian was surreal](https://www.space.com/smithsonian-osiris-rex-sample-reveal)
-- [Appetite wants to help you and your friends discover, plan and book a meal out](https://techcrunch.com/2023/11/06/appetite-wants-to-help-you-and-your-friends-discover-plan-and-book-a-meal-out/)
-- [Japan&#39;s DESTINY+ mission to the bizarre asteroid Phaethon delayed to 2025](https://www.space.com/japan-destiny-mission-asteroid-phaethon-launch-delay)
+- [Lidl owner and Bosch Ventures co-lead $500M Series B into German AI start-up Aleph Alpha](https://techcrunch.com/2023/11/06/lidl-owner-and-bosch-ventures-co-lead-500m-series-b-into-german-ai-start-up-aleph-alpha/)
+- [Confirmed: Palo Alto has acquired Talon Cyber Security, sources say for $625M](https://techcrunch.com/2023/11/06/confirmed-palo-alto-has-acquired-talon-cyber-security-sources-say-for-625m/)
+- [Luxury clothing distributors get into virtual try-on tech; bag $15M Series A on a $100M valuation](https://techcrunch.com/2023/11/06/luxury-clothing-virtual-try-on-100m-valuation-e-commerce/)
+- [20GROWTH secures $5M to invest in early-stage startups, provide growth strategies](https://techcrunch.com/2023/11/06/20growth-5m-venture-capital-startups/)
+- [Apple says it’s not planning a 27-inch iMac](https://techcrunch.com/2023/11/06/apple-imac-27-inch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
