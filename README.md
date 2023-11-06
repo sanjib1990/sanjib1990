@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s DESTINY+ mission to the bizarre asteroid Phaethon delayed to 2025](https://www.space.com/japan-destiny-mission-asteroid-phaethon-launch-delay)
+- [Perseverance pastry: Celebrity chef Duff Goldman makes Mars rover cake](https://www.space.com/perseverance-mars-rover-duff-goldman-cake)
 - [Daytona wants to be an enterprise-grade GitHub Codespaces](https://techcrunch.com/2023/11/06/daytona-wants-to-be-an-enterprise-grade-github-codespaces/)
 - [Daye now offers tampon-based STI screening — starting in the UK](https://techcrunch.com/2023/11/06/daye-sti-testing/)
 - [Dreamfarm, a startup out of Italy’s Food Valley, is setting its sights on the perfect vegan mozzarella](https://techcrunch.com/2023/11/06/dreamfarm-pre-seed/)
-- [In Mamaearth, Peak XV finds its fourth 10x return since Sequoia separation](https://techcrunch.com/2023/11/05/in-mamaearth-peak-xv-finds-its-fourth-10x-return-in-six-months/)
-- [Flexport gobbles up Convoy’s assets, Revel pulls the plug on mopeds and UAW sets its sights on Toyota and Tesla](https://techcrunch.com/2023/11/05/flexport-gobbles-up-convoys-assets-revel-pulls-the-plug-on-mopeds-and-uaw-sets-its-sights-on-toyota-and-tesla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
