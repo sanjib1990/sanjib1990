@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 20 best STEM toys to gift coders-in-training](https://techcrunch.com/2023/11/06/the-20-best-stem-toys-to-gift-coders-in-training/)
+- [Smart simians stare at the stars in 1st &#39;Kingdom of the Planet of the Apes&#39; teaser &lpar;video&rpar;](https://www.space.com/kingdom-of-the-planet-of-the-apes-first-trailer)
+- [Seeing NASA&#39;s OSIRIS-REx asteroid sample up close at the Smithsonian was surreal](https://www.space.com/smithsonian-osiris-rex-sample-reveal)
 - [Appetite wants to help you and your friends discover, plan and book a meal out](https://techcrunch.com/2023/11/06/appetite-wants-to-help-you-and-your-friends-discover-plan-and-book-a-meal-out/)
 - [Japan&#39;s DESTINY+ mission to the bizarre asteroid Phaethon delayed to 2025](https://www.space.com/japan-destiny-mission-asteroid-phaethon-launch-delay)
-- [Perseverance pastry: Celebrity chef Duff Goldman makes Mars rover cake](https://www.space.com/perseverance-mars-rover-duff-goldman-cake)
-- [Daytona wants to be an enterprise-grade GitHub Codespaces](https://techcrunch.com/2023/11/06/daytona-wants-to-be-an-enterprise-grade-github-codespaces/)
-- [Daye now offers tampon-based STI screening — starting in the UK](https://techcrunch.com/2023/11/06/daye-sti-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
