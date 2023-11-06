@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Appetite wants to help you and your friends discover, plan and book a meal out](https://techcrunch.com/2023/11/06/appetite-wants-to-help-you-and-your-friends-discover-plan-and-book-a-meal-out/)
 - [Japan&#39;s DESTINY+ mission to the bizarre asteroid Phaethon delayed to 2025](https://www.space.com/japan-destiny-mission-asteroid-phaethon-launch-delay)
 - [Perseverance pastry: Celebrity chef Duff Goldman makes Mars rover cake](https://www.space.com/perseverance-mars-rover-duff-goldman-cake)
 - [Daytona wants to be an enterprise-grade GitHub Codespaces](https://techcrunch.com/2023/11/06/daytona-wants-to-be-an-enterprise-grade-github-codespaces/)
 - [Daye now offers tampon-based STI screening — starting in the UK](https://techcrunch.com/2023/11/06/daye-sti-testing/)
-- [Dreamfarm, a startup out of Italy’s Food Valley, is setting its sights on the perfect vegan mozzarella](https://techcrunch.com/2023/11/06/dreamfarm-pre-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
