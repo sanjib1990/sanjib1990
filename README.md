@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daytona wants to be an enterprise-grade GitHub Codespaces](https://techcrunch.com/2023/11/06/daytona-wants-to-be-an-enterprise-grade-github-codespaces/)
+- [Daye now offers tampon-based STI screening — starting in the UK](https://techcrunch.com/2023/11/06/daye-sti-testing/)
 - [Dreamfarm, a startup out of Italy’s Food Valley, is setting its sights on the perfect vegan mozzarella](https://techcrunch.com/2023/11/06/dreamfarm-pre-seed/)
 - [In Mamaearth, Peak XV finds its fourth 10x return since Sequoia separation](https://techcrunch.com/2023/11/05/in-mamaearth-peak-xv-finds-its-fourth-10x-return-in-six-months/)
 - [Flexport gobbles up Convoy’s assets, Revel pulls the plug on mopeds and UAW sets its sights on Toyota and Tesla](https://techcrunch.com/2023/11/05/flexport-gobbles-up-convoys-assets-revel-pulls-the-plug-on-mopeds-and-uaw-sets-its-sights-on-toyota-and-tesla/)
-- [Valued at $1B, Kai-Fu Lee’s LLM startup unveils open source model](https://techcrunch.com/2023/11/05/valued-at-1b-kai-fu-lees-llm-startup-unveils-open-source-model/)
-- [Before you found a startup, think about your personal goals](https://techcrunch.com/2023/11/05/startup-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
