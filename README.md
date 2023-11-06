@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Star-birthing galaxies can hide supermassive black holes behind walls of dust](https://www.space.com/supermassive-black-hole-galaxies-dust-walls-hide)
-- [YouTube to test generative AI features, including a comments summarizer and conversational tool](https://techcrunch.com/2023/11/06/youtube-to-test-generative-ai-features-including-a-comments-summarizer-and-conversational-tool/)
-- [Startups learn the hard way that relying on OpenAI’s tech can burn them](https://techcrunch.com/2023/11/06/get-the-pdf-outta-here/)
-- [US sanctions Russian accused of laundering Ryuk ransomware funds](https://techcrunch.com/2023/11/06/us-sanctions-russian-accused-of-laundering-ryuk-ransomware-funds/)
-- [Dark matter-hunting Euclid mission to share its 1st full-color images of the universe on Nov. 7](https://www.space.com/euclid-space-telescope-first-full-color-images-preview)
+- [OpenAI’s ChatGPT now has 100 million weekly active users](https://techcrunch.com/2023/11/06/openais-chatgpt-now-has-100-million-weekly-active-users/)
+- [Coperniq raises $4M seed round to bring SaaS to solar installers](https://techcrunch.com/2023/11/06/coperniq-seed-round/)
+- [What is STEVE, and how is it different from the aurora?](https://www.space.com/what-is-steve)
+- [App Store for AI: OpenAI’s GPT Store lets you build &lpar;and monetize&rpar; your own GPT](https://techcrunch.com/2023/11/06/app-store-for-ai-build-your-own-gpt-and-sell-it-on-openais-gpt-store/)
+- [OpenAI launches DALL-E 3 API, new text-to-speech models](https://techcrunch.com/2023/11/06/openai-launches-dall-e-3-api-new-text-to-speech-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
