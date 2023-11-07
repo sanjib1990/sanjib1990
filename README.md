@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [GM halts production of Cruise Origin robotaxi amid suspended operations](https://techcrunch.com/2023/11/06/gm-halts-production-of-cruise-origin-robotaxi-amid-suspended-operations/)
+- [The 2025 Ram Ramcharger is an electric truck that gets its EV juice from a gas-powered generator](https://techcrunch.com/2023/11/06/the-2025-ram-ramcharger-is-an-electric-truck-that-gets-its-ev-juice-from-a-gas-powered-generator/)
 - [Mamaearth makes public debut, youngest Indian unicorn to list](https://techcrunch.com/2023/11/06/honasa-mamaearth-listing-trading/)
 - [WeWork, once valued at $47 billion, files for bankruptcy](https://techcrunch.com/2023/11/06/wework-once-worth-47-billion-files-for-bankruptcy/)
 - [Why this autonomous vehicle veteran joined a legged robotics startup](https://techcrunch.com/2023/11/06/why-this-autonomous-vehicle-veteran-joined-a-legged-robotics-startup/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
