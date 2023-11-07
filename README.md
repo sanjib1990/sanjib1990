@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fabric introduces an AI-powered workspace and home for all your information](https://techcrunch.com/2023/11/07/fabric-introduces-an-ai-powered-workspace-and-home-for-all-your-information/)
+- [A VR headset that could help astronaut mental health is launching to ISS on SpaceX rocket this week](https://www.space.com/vr-headset-launch-iss-spacex-dragon-cargo-mission)
+- [Meta, Discord and others unveil effort to combat online child sexual exploitation and abuse](https://techcrunch.com/2023/11/07/meta-discord-and-others-unveil-effort-to-combat-online-child-sexual-exploitation-and-abuse/)
 - [ReturnGO, with $5M more, now powers product returns for Amazon Multi-Channel Fulfillment](https://techcrunch.com/2023/11/07/returngo-5m-amazon-fulfillment-e-commerce/)
 - [Sift raises $7.5M to build a telemetry stack for the “digital backbone to the physical world”](https://techcrunch.com/2023/11/07/sift-raises-7-5m-to-build-a-telemetry-stack-for-the-digital-backbone-to-the-physical-world/)
-- [Former Myspace founders introduce a text-to-video generator that uses your selfie to personalize content](https://techcrunch.com/2023/11/07/former-myspace-founders-introduce-a-text-to-video-generator-that-uses-your-selfie-to-personalize-content/)
-- [Cast AI, which helps companies optimize cloud spend, lands $35M](https://techcrunch.com/2023/11/07/cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m/)
-- [a16z writes first check out of UK to crypto startup Pimlico](https://techcrunch.com/2023/11/07/a16z-backs-crypto-startup-pimlico-its-first-check-from-london-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
