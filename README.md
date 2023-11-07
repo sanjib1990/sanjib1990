@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [May Mobility rides the AV wave while Cruise and Waymo feel the heat](https://techcrunch.com/2023/11/07/may-mobility-rides-the-av-wave-while-cruise-and-waymo-feel-the-heat/)
-- [Summer, which helps customers buy — and rent out — vacation homes, raises $18M](https://techcrunch.com/2023/11/07/summer-which-helps-customers-buy-and-rent-out-vacation-homes-raises-18m/)
-- [Microsoft partners with VCs to give startups free AI chip access](https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/)
-- [&#39;Rogue&#39; star won&#39;t collide with our solar system in 29,000 years after all](https://www.space.com/rogue-star-dead-white-dwarf-solar-system)
-- [WhatsApp head Will Cathcart says the chat app could introduce ads in Status](https://techcrunch.com/2023/11/07/whatsapp-head-will-cathcart-says-the-chat-app-could-introduce-ads-in-status/)
+- [Spill toasts one year with a 2.7M seed extension, Kerry Washington and champagne](https://techcrunch.com/2023/11/07/spill-toasts-one-year-with-a-2-7m-seed-extension-kerry-washington-and-champagne/)
+- [Uber’s Q3 numbers include impressive profitability gains, slower-than-expected growth](https://techcrunch.com/2023/11/07/ubers-q3-numbers-profitability-gains/)
+- [Figma sweetens FigJam whiteboard tool with new AI features](https://techcrunch.com/2023/11/07/figma-sweetens-figjam-whiteboard-tool-with-new-ai-features/)
+- [NASA dedicates giant &#39;worm,&#39; honors logo designer Richard Danne](https://www.space.com/nasa-worm-logo-designer-richard-danne-honor)
+- [WeWork’s bankruptcy is proof that its core business never actually worked](https://techcrunch.com/2023/11/07/wework-bankruptcy-business-bad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
