@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Withings Body Scan review: A smart scale that tracks cardio heath, body comp and more](https://techcrunch.com/2023/11/07/withings-body-scan-smart-scale-review/)
+- [This supermassive black hole is the most distant ever seen in X-rays](https://www.space.com/supermassive-black-hole-most-distant-x-rays-discovery)
+- [NASA+ streaming service launches with all-new original series on Nov. 8 &lpar;video&rpar;](https://www.space.com/nasa-plus-streaming-service-launches-nov-2023)
+- [Withings Body Scan review: A smart scale that tracks cardio health, body comp and more](https://techcrunch.com/2023/11/07/withings-body-scan-smart-scale-review/)
 - [James Webb Space Telescope watches infant galaxies bringing light to the early universe](https://www.space.com/james-webb-space-telescope-infant-galaxies-light-up-universe)
 - [23andMe data theft prompts DNA testing companies to switch on 2FA by default](https://techcrunch.com/2023/11/07/23andme-ancestry-myheritage-two-factor-by-default/)
-- [Congruent starts raising fresh $250M early-stage climate tech fund](https://techcrunch.com/2023/11/07/congruent-new-250m-climate-tech-fund/)
-- [PopSockets unveils a photo case and accessory designer, powered by AI](https://techcrunch.com/2023/11/07/popsockets-unveils-a-photo-case-and-accessory-designer-powered-by-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
