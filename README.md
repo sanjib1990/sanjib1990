@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe wants a private cargo spacecraft by 2028](https://www.space.com/european-space-agency-private-cargo-spacecraft-2028)
+- [SpaceX fishes Falcon 9 payload fairing out the sea at sunrise &lpar;photo&rpar;](https://www.space.com/spacex-starlink-payload-fairing-recovery-sea-photo)
+- [Enable, a platform for managing B2B rebates, is now worth $1B](https://techcrunch.com/2023/11/07/enable-a-platform-for-managing-b2b-rebates-is-now-worth-1b/)
 - [Malwarebytes makes B2B unit spin-off official, launches ThreatDown](https://techcrunch.com/2023/11/07/malwarebytes-threatdown-business-spin-off/)
 - [Google Search and Chrome are getting new tools to help users find discounts](https://techcrunch.com/2023/11/07/google-search-and-chrome-are-getting-new-tools-to-help-users-find-discounts/)
-- [SpaceX to launch its 80th orbital mission of the year tonight](https://www.space.com/spacex-starlink-launch-group-6-27)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Yellow, a new VC firm from Glovo founders and Atomico investor, is betting on Southern Europe](https://techcrunch.com/2023/11/07/yellow-a-new-vc-firm-from-glovo-founders-and-atomico-investor-is-betting-on-southern-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
