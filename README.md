@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM halts production of Cruise Origin robotaxi amid suspended operations](https://techcrunch.com/2023/11/06/gm-halts-production-of-cruise-origin-robotaxi-amid-suspended-operations/)
+- [Mamaearth makes public debut, youngest Indian unicorn to list](https://techcrunch.com/2023/11/06/honasa-mamaearth-listing-trading/)
 - [WeWork, once valued at $47 billion, files for bankruptcy](https://techcrunch.com/2023/11/06/wework-once-worth-47-billion-files-for-bankruptcy/)
 - [Why this autonomous vehicle veteran joined a legged robotics startup](https://techcrunch.com/2023/11/06/why-this-autonomous-vehicle-veteran-joined-a-legged-robotics-startup/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Max Q: Will Starlink IPO?](https://techcrunch.com/2023/11/06/max-q-will-starlink-ipo/)
-- [Online store exposed millions of Chinese citizen IDs](https://techcrunch.com/2023/11/06/store-millions-chinese-citizen-identity-cards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
