@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shein reportedly seeks $90 billion valuation in IPO](https://techcrunch.com/2023/11/06/shein-reportedly-seeks-90-billion-valuation-in-ipo/)
+- [Everything announced at OpenAI’s first developer event](https://techcrunch.com/2023/11/06/everything-announced-at-openais-first-developer-event/)
 - [GM halts production of Cruise Origin robotaxi amid suspended operations](https://techcrunch.com/2023/11/06/gm-halts-production-of-cruise-origin-robotaxi-amid-suspended-operations/)
 - [The 2025 Ram Ramcharger is an electric truck that gets its EV juice from a gas-powered generator](https://techcrunch.com/2023/11/06/the-2025-ram-ramcharger-is-an-electric-truck-that-gets-its-ev-juice-from-a-gas-powered-generator/)
 - [Mamaearth makes public debut, youngest Indian unicorn to list](https://techcrunch.com/2023/11/06/honasa-mamaearth-listing-trading/)
-- [WeWork, once valued at $47 billion, files for bankruptcy](https://techcrunch.com/2023/11/06/wework-once-worth-47-billion-files-for-bankruptcy/)
-- [Why this autonomous vehicle veteran joined a legged robotics startup](https://techcrunch.com/2023/11/06/why-this-autonomous-vehicle-veteran-joined-a-legged-robotics-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
