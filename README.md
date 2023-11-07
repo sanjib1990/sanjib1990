@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Beacon 23&#39; explores an interstellar mystery on a deep-space lighthouse &lpar;exclusive&rpar;](https://www.space.com/beacon-23-interstellar-mystery-series)
-- [Another room-temperature superconductor bites the dust](https://techcrunch.com/2023/11/07/room-temperature-superconductor-false-claims/)
-- [Strange moon of asteroid Dinkinesh is weirder than thought after NASA probe finds &#39;contact binary&#39; &lpar;photo&rpar;](https://www.space.com/nasa-lucy-asteroid-dinky-3-space-rocks-contact-binary)
-- [Astra secures new debt agreement with assets as collateral](https://techcrunch.com/2023/11/07/astra-secures-new-debt-agreement-with-assets-as-collateral/)
-- [Hubble Space Telescope sees supernova wreckage in a hazy galaxy &lpar;image&rpar;](https://www.space.com/hubble-space-telescope-hazy-galaxy-photo)
+- [NASA&#39;s Ingenuity Mars helicopter flies on back-to-back days to prep for &#39;solar conjunction&#39;](https://www.space.com/nasa-mars-helicopter-ingenuity-flights-solar-conjunction-2023)
+- [Rivian raises production forecast for 2023, narrows losses in Q3](https://techcrunch.com/2023/11/07/rivian-raises-production-forecast-for-2023-narrows-losses-in-q3/)
+- [Rivian and Amazon are no longer exclusive](https://techcrunch.com/2023/11/07/rivian-and-amazon-are-no-longer-exclusive/)
+- [Building digital infrastructure for developing countries with Nasrat Khalid from Aseel](https://techcrunch.com/2023/11/07/building-digital-infrastructure-for-developing-countries-with-nasrat-khalid-from-aseel/)
+- [01 Advisors, founded by Dick Costolo and Adam Bain, just closed on $395M more](https://techcrunch.com/2023/11/07/01-advisors-founded-by-dick-costolo-and-adam-bain-just-closed-on-395m-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
