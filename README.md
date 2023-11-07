@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope sees supernova wreckage in a hazy galaxy &lpar;image&rpar;](https://www.space.com/hubble-space-telescope-hazy-galaxy-photo)
+- [TC+ Roundup: Many Black founders are rooting for SVB](https://techcrunch.com/2023/11/07/tc-roundup-many-black-founders-are-rooting-for-svb/)
 - [This supermassive black hole is the most distant ever seen in X-rays](https://www.space.com/supermassive-black-hole-most-distant-x-rays-discovery)
 - [NASA+ streaming service launches with all-new original series on Nov. 8 &lpar;video&rpar;](https://www.space.com/nasa-plus-streaming-service-launches-nov-2023)
 - [Withings Body Scan review: A smart scale that tracks cardio health, body comp and more](https://techcrunch.com/2023/11/07/withings-body-scan-smart-scale-review/)
-- [James Webb Space Telescope watches infant galaxies bringing light to the early universe](https://www.space.com/james-webb-space-telescope-infant-galaxies-light-up-universe)
-- [23andMe data theft prompts DNA testing companies to switch on 2FA by default](https://techcrunch.com/2023/11/07/23andme-ancestry-myheritage-two-factor-by-default/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
