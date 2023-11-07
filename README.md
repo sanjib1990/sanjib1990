@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fabric introduces an AI-powered workspace and home for all your information](https://techcrunch.com/2023/11/07/fabric-introduces-an-ai-powered-workspace-and-home-for-all-your-information/)
-- [A VR headset that could help astronaut mental health is launching to ISS on SpaceX rocket this week](https://www.space.com/vr-headset-launch-iss-spacex-dragon-cargo-mission)
-- [Meta, Discord and others unveil effort to combat online child sexual exploitation and abuse](https://techcrunch.com/2023/11/07/meta-discord-and-others-unveil-effort-to-combat-online-child-sexual-exploitation-and-abuse/)
-- [ReturnGO, with $5M more, now powers product returns for Amazon Multi-Channel Fulfillment](https://techcrunch.com/2023/11/07/returngo-5m-amazon-fulfillment-e-commerce/)
-- [Sift raises $7.5M to build a telemetry stack for the “digital backbone to the physical world”](https://techcrunch.com/2023/11/07/sift-raises-7-5m-to-build-a-telemetry-stack-for-the-digital-backbone-to-the-physical-world/)
+- [May Mobility rides the AV wave while Cruise and Waymo feel the heat](https://techcrunch.com/2023/11/07/may-mobility-rides-the-av-wave-while-cruise-and-waymo-feel-the-heat/)
+- [Summer, which helps customers buy — and rent out — vacation homes, raises $18M](https://techcrunch.com/2023/11/07/summer-which-helps-customers-buy-and-rent-out-vacation-homes-raises-18m/)
+- [Microsoft partners with VCs to give startups free AI chip access](https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/)
+- [&#39;Rogue&#39; star won&#39;t collide with our solar system in 29,000 years after all](https://www.space.com/rogue-star-dead-white-dwarf-solar-system)
+- [WhatsApp head Will Cathcart says the chat app could introduce ads in Status](https://techcrunch.com/2023/11/07/whatsapp-head-will-cathcart-says-the-chat-app-could-introduce-ads-in-status/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
