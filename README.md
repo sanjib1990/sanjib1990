@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spill toasts one year with a 2.7M seed extension, Kerry Washington and champagne](https://techcrunch.com/2023/11/07/spill-toasts-one-year-with-a-2-7m-seed-extension-kerry-washington-and-champagne/)
-- [Uber’s Q3 numbers include impressive profitability gains, slower-than-expected growth](https://techcrunch.com/2023/11/07/ubers-q3-numbers-profitability-gains/)
-- [Figma sweetens FigJam whiteboard tool with new AI features](https://techcrunch.com/2023/11/07/figma-sweetens-figjam-whiteboard-tool-with-new-ai-features/)
-- [NASA dedicates giant &#39;worm,&#39; honors logo designer Richard Danne](https://www.space.com/nasa-worm-logo-designer-richard-danne-honor)
-- [WeWork’s bankruptcy is proof that its core business never actually worked](https://techcrunch.com/2023/11/07/wework-bankruptcy-business-bad/)
+- [Withings Body Scan review: A smart scale that tracks cardio heath, body comp and more](https://techcrunch.com/2023/11/07/withings-body-scan-smart-scale-review/)
+- [James Webb Space Telescope watches infant galaxies bringing light to the early universe](https://www.space.com/james-webb-space-telescope-infant-galaxies-light-up-universe)
+- [23andMe data theft prompts DNA testing companies to switch on 2FA by default](https://techcrunch.com/2023/11/07/23andme-ancestry-myheritage-two-factor-by-default/)
+- [Congruent starts raising fresh $250M early-stage climate tech fund](https://techcrunch.com/2023/11/07/congruent-new-250m-climate-tech-fund/)
+- [PopSockets unveils a photo case and accessory designer, powered by AI](https://techcrunch.com/2023/11/07/popsockets-unveils-a-photo-case-and-accessory-designer-powered-by-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
