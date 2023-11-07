@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch its 80th orbital mission of the year tonight](https://www.space.com/spacex-starlink-launch-group-6-27)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Yellow, a new VC firm from Glovo founders and Atomico investor, is betting on Southern Europe](https://techcrunch.com/2023/11/07/yellow-a-new-vc-firm-from-glovo-founders-and-atomico-investor-is-betting-on-southern-europe/)
 - [Ontario Teachers’ fund backs Indian logistics unicorn Xpressbees in $80 million funding](https://techcrunch.com/2023/11/06/indian-logistics-unicorn-xpressbees-in-80-million-funding/)
 - [Shein reportedly seeks $90 billion valuation in IPO](https://techcrunch.com/2023/11/06/shein-reportedly-seeks-90-billion-valuation-in-ipo/)
-- [Everything announced at OpenAI’s first developer event](https://techcrunch.com/2023/11/06/everything-announced-at-openais-first-developer-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
