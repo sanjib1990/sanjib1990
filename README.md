@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Beacon 23&#39; explores an interstellar mystery on a deep-space lighthouse &lpar;exclusive&rpar;](https://www.space.com/beacon-23-interstellar-mystery-series)
+- [Another room-temperature superconductor bites the dust](https://techcrunch.com/2023/11/07/room-temperature-superconductor-false-claims/)
+- [Strange moon of asteroid Dinkinesh is weirder than thought after NASA probe finds &#39;contact binary&#39; &lpar;photo&rpar;](https://www.space.com/nasa-lucy-asteroid-dinky-3-space-rocks-contact-binary)
+- [Astra secures new debt agreement with assets as collateral](https://techcrunch.com/2023/11/07/astra-secures-new-debt-agreement-with-assets-as-collateral/)
 - [Hubble Space Telescope sees supernova wreckage in a hazy galaxy &lpar;image&rpar;](https://www.space.com/hubble-space-telescope-hazy-galaxy-photo)
-- [TC+ Roundup: Many Black founders are rooting for SVB](https://techcrunch.com/2023/11/07/tc-roundup-many-black-founders-are-rooting-for-svb/)
-- [This supermassive black hole is the most distant ever seen in X-rays](https://www.space.com/supermassive-black-hole-most-distant-x-rays-discovery)
-- [NASA+ streaming service launches with all-new original series on Nov. 8 &lpar;video&rpar;](https://www.space.com/nasa-plus-streaming-service-launches-nov-2023)
-- [Withings Body Scan review: A smart scale that tracks cardio health, body comp and more](https://techcrunch.com/2023/11/07/withings-body-scan-smart-scale-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
