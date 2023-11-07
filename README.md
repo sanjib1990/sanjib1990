@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/06/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Max Q: Will Starlink IPO?](https://techcrunch.com/2023/11/06/max-q-will-starlink-ipo/)
 - [Online store exposed millions of Chinese citizen IDs](https://techcrunch.com/2023/11/06/store-millions-chinese-citizen-identity-cards/)
 - [Sources confirm that Salesforce intends to announce new Slack CEO next week](https://techcrunch.com/2023/11/06/sources-confirm-that-salesforce-intends-to-announce-new-slack-ceo-next-week/)
 - [Lucid adopts Tesla’s charging standard](https://techcrunch.com/2023/11/06/lucid-adopts-teslas-charging-standard/)
-- [A choreographer’s lawsuit over Fortnite dance moves isn’t dead after all](https://techcrunch.com/2023/11/06/fortnite-dance-moves-lawsuit-hanagami/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
