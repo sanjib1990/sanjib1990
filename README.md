@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe wants a private cargo spacecraft by 2028](https://www.space.com/european-space-agency-private-cargo-spacecraft-2028)
-- [SpaceX fishes Falcon 9 payload fairing out the sea at sunrise &lpar;photo&rpar;](https://www.space.com/spacex-starlink-payload-fairing-recovery-sea-photo)
-- [Enable, a platform for managing B2B rebates, is now worth $1B](https://techcrunch.com/2023/11/07/enable-a-platform-for-managing-b2b-rebates-is-now-worth-1b/)
-- [Malwarebytes makes B2B unit spin-off official, launches ThreatDown](https://techcrunch.com/2023/11/07/malwarebytes-threatdown-business-spin-off/)
-- [Google Search and Chrome are getting new tools to help users find discounts](https://techcrunch.com/2023/11/07/google-search-and-chrome-are-getting-new-tools-to-help-users-find-discounts/)
+- [ReturnGO, with $5M more, now powers product returns for Amazon Multi-Channel Fulfillment](https://techcrunch.com/2023/11/07/returngo-5m-amazon-fulfillment-e-commerce/)
+- [Sift raises $7.5M to build a telemetry stack for the “digital backbone to the physical world”](https://techcrunch.com/2023/11/07/sift-raises-7-5m-to-build-a-telemetry-stack-for-the-digital-backbone-to-the-physical-world/)
+- [Former Myspace founders introduce a text-to-video generator that uses your selfie to personalize content](https://techcrunch.com/2023/11/07/former-myspace-founders-introduce-a-text-to-video-generator-that-uses-your-selfie-to-personalize-content/)
+- [Cast AI, which helps companies optimize cloud spend, lands $35M](https://techcrunch.com/2023/11/07/cast-ai-which-helps-companies-optimize-cloud-spend-lands-35m/)
+- [a16z writes first check out of UK to crypto startup Pimlico](https://techcrunch.com/2023/11/07/a16z-backs-crypto-startup-pimlico-its-first-check-from-london-office/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
