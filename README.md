@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Klarna is inching toward an IPO, and it’s not the only one](https://techcrunch.com/2023/11/08/klarna-ipo-incoming/)
+- [Betelgeuse may be the result of a &#39;quiet&#39; star merger](https://www.space.com/betelgeuse-may-be-result-of-quiet-star-merger)
 - [SiriusXM unveils new streaming app, set to launch next month](https://techcrunch.com/2023/11/08/siriusxm-unveils-new-streaming-app-set-to-launch-next-month/)
 - [India&#39;s Aditya-L1 sun probe spots 1st high-energy solar flare](https://www.space.com/india-aditya-l1-sun-probe-first-solar-flare)
 - [NASA powers up Artemis 2 Orion spacecraft ahead of 2024 moon mission](https://www.space.com/artemis-2-orion-moon-spacecraft-power-test)
-- [Creators have mixed feelings about TikTok’s new monetization program](https://techcrunch.com/2023/11/08/tiktok-creativity-program-creators/)
-- [Sumo Logic urges customers to reset API keys following security breach](https://techcrunch.com/2023/11/08/sumo-logic-urges-customers-to-reset-api-keys-following-security-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
