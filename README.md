@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sutro introduces AI-powered app creation with no coding required](https://techcrunch.com/2023/11/08/sutro-introduces-ai-powered-app-creation-with-no-coding-required/)
+- [Why Flip AI built a custom large language model to run its observability platform](https://techcrunch.com/2023/11/08/why-flip-ai-built-a-custom-large-language-model-to-run-its-observability-platform/)
+- [Prime members can now get a One Medical membership for $9/month](https://techcrunch.com/2023/11/08/amazon-prime-members-one-medical-membership-for-9-dollars-a-month/)
+- [How startups can use generative AI from ideation to implementation](https://techcrunch.com/2023/11/08/how-startups-can-use-generative-ai-from-ideation-to-implementation/)
 - [10 subscription boxes we recommend gifting this holiday season](https://techcrunch.com/2023/11/08/10-subscription-boxes-we-recommend-gifting-this-holiday-season/)
-- [Asteroids in the solar system could contain undiscovered, superheavy elements](https://www.space.com/asteroids-could-contain-superheavy-elements)
-- [Cruise recalls entire fleet after robotaxi ran over, dragged pedestrian](https://techcrunch.com/2023/11/08/cruise-recalls-entire-fleet-after-robotaxi-ran-over-dragged-pedestrian/)
-- [M&amp;A founder lessons: Valuable insights from PlanGrid’s $875M acquisition by Autodesk](https://techcrunch.com/2023/11/08/ma-founder-lessons-valuable-insights-from-plangrids-875m-acquisition-by-autodesk/)
-- [It’s been a long time since we’ve seen such positive signals in fintech](https://techcrunch.com/2023/11/08/its-been-a-long-time-since-weve-seen-such-positive-signals-in-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
