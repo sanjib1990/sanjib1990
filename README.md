@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s 1st continental spaceport is open for business in Norway](https://www.space.com/europe-spaceport-continental-Norway-operational)
 - [Nintendo confirms live-action Zelda movie is in the works](https://techcrunch.com/2023/11/07/zelda-movie/)
 - [Lucid revises 2023 production amid softening demand for luxury EVs](https://techcrunch.com/2023/11/07/lucid-revises-2023-production-amid-softening-demand-for-luxury-evs/)
 - [NASA&#39;s Ingenuity Mars helicopter flies on back-to-back days to prep for &#39;solar conjunction&#39; &lpar;video&rpar;](https://www.space.com/nasa-mars-helicopter-ingenuity-flights-solar-conjunction-2023)
 - [Rivian raises production forecast for 2023, narrows losses in Q3](https://techcrunch.com/2023/11/07/rivian-raises-production-forecast-for-2023-narrows-losses-in-q3/)
-- [Rivian and Amazon are no longer exclusive](https://techcrunch.com/2023/11/07/rivian-and-amazon-are-no-longer-exclusive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
