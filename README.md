@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify brings 15 hours of monthly audiobook listening to Premium subscribers in the U.S.](https://techcrunch.com/2023/11/08/spotify-brings-15-hours-of-monthly-audiobook-listening-to-premium-subscribers-in-the-u-s/)
-- [See bright Venus and the crescent moon light up the early morning sky on Nov. 9](https://www.space.com/moon-venus-november-2023)
-- [Airbnb is leaning on reviews to make listings more reliable](https://techcrunch.com/2023/11/08/airbnb-is-leaning-on-reviews-to-make-properties-more-reliable/)
-- [The 8 Lego sets you didn’t know you needed in 2023](https://techcrunch.com/2023/11/08/the-8-lego-sets-you-didnt-know-you-needed-in-2023/)
-- [&#39;A City on Mars&#39; is a reality check for anyone dreaming about life on the Red Planet](https://www.space.com/a-city-on-mars-author-interview)
+- [Google-led App Defense Alliance joins Linux Foundation, with Meta and Microsoft joining too](https://techcrunch.com/2023/11/08/google-app-defense-alliance-linux-foundation-meta-microsoft/)
+- [10 years on, Aileen Lee explains why focusing on unicorn valuations makes sense](https://techcrunch.com/2023/11/08/aileen-lee-unicorns-interview/)
+- [Ozone raises $7.1M to scale its AI-powered collaborative video editor in the cloud](https://techcrunch.com/2023/11/08/ozone-raises-7-1m-to-scale-its-ai-powered-collaborative-video-editor/)
+- [Code-generating AI platform Tabnine nabs $25M investment](https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/)
+- [Black Friday space gift ideas: Telescope deals, binocular discounts, camera deals and more](https://www.space.com/best-black-friday-deals-sales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
