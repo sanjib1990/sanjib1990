@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More consolidation in grocery delivery: Getir acquires FreshDirect to beef up in the US](https://techcrunch.com/2023/11/07/getir-freshdirect/)
+- [Gogoro’s Smartscooters can now be unlocked via Apple Wallet](https://techcrunch.com/2023/11/07/gogoros-smartscooters-can-now-be-unlocked-via-apple-wallet/)
+- [Instagram is finally testing a feature to let you turn off read receipts for DMs](https://techcrunch.com/2023/11/07/instagram-is-finally-testing-a-feature-to-let-you-turn-off-read-receipts-for-dms/)
+- [Vanguard slashes Ola valuation by 60%-plus; NB reduces Pharmeasy’s by over 90%](https://techcrunch.com/2023/11/07/ola-pharmeasy-valuation-vanguard-neuberger-berman/)
 - [Europe&#39;s 1st continental spaceport is open for business in Norway](https://www.space.com/europe-spaceport-continental-Norway-operational)
-- [Nintendo confirms live-action Zelda movie is in the works](https://techcrunch.com/2023/11/07/zelda-movie/)
-- [Lucid revises 2023 production amid softening demand for luxury EVs](https://techcrunch.com/2023/11/07/lucid-revises-2023-production-amid-softening-demand-for-luxury-evs/)
-- [NASA&#39;s Ingenuity Mars helicopter flies on back-to-back days to prep for &#39;solar conjunction&#39; &lpar;video&rpar;](https://www.space.com/nasa-mars-helicopter-ingenuity-flights-solar-conjunction-2023)
-- [Rivian raises production forecast for 2023, narrows losses in Q3](https://techcrunch.com/2023/11/07/rivian-raises-production-forecast-for-2023-narrows-losses-in-q3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
