@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask Sophie: What should we know about the next H-1B lottery?](https://techcrunch.com/2023/11/08/ask-sophie-what-should-we-know-about-the-next-h-1b-lottery/)
-- [Fakespot Chat, Mozilla’s first LLM, lets online shoppers research products via an AI chatbot](https://techcrunch.com/2023/11/08/fakespot-chat-mozillas-first-llm-lets-online-shoppers-research-products-via-an-ai-chatbot/)
-- [New pre-seed funds are popping up everywhere](https://techcrunch.com/2023/11/08/new-pre-seed-funds-everywhere/)
-- [Hugging Face has a two-person team developing ChatGPT-like AI models](https://techcrunch.com/2023/11/08/hugging-face-has-a-two-person-team-developing-chatgpt-like-ai-models/)
-- [&#39;Star Trek: Lower Decks&#39; will get a choose-your-own-adventure graphic novel](https://www.space.com/star-trek-lower-decks-choose-your-adventure-graphic-novel-nycc-2023)
+- [Creators have mixed feelings about TikTok’s new monetization program](https://techcrunch.com/2023/11/08/tiktok-creativity-program-creators/)
+- [Sumo Logic urges customers to reset API keys following security breach](https://techcrunch.com/2023/11/08/sumo-logic-urges-customers-to-reset-api-keys-following-security-breach/)
+- [Good news, everyone! Hulu renews &#39;Futurama&#39; for 2 more seasons](https://www.space.com/hulu-renews-futurama-seasons-13-14)
+- [Proptech startup Zeus Living, which was backed by Airbnb, reportedly shuts down](https://techcrunch.com/2023/11/08/proptech-startup-zeus-living-which-was-backed-by-airbnb-reportedly-shuts-down/)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/08/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
