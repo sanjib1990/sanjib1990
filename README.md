@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sutro introduces AI-powered app creation with no coding required](https://techcrunch.com/2023/11/08/sutro-introduces-ai-powered-app-creation-with-no-coding-required/)
-- [Why Flip AI built a custom large language model to run its observability platform](https://techcrunch.com/2023/11/08/why-flip-ai-built-a-custom-large-language-model-to-run-its-observability-platform/)
-- [Prime members can now get a One Medical membership for $9/month](https://techcrunch.com/2023/11/08/amazon-prime-members-one-medical-membership-for-9-dollars-a-month/)
-- [How startups can use generative AI from ideation to implementation](https://techcrunch.com/2023/11/08/how-startups-can-use-generative-ai-from-ideation-to-implementation/)
-- [10 subscription boxes we recommend gifting this holiday season](https://techcrunch.com/2023/11/08/10-subscription-boxes-we-recommend-gifting-this-holiday-season/)
+- [&#39;Star Trek: Lower Decks&#39; will get a choose-your-own-adventure graphic novel](https://www.space.com/star-trek-lower-decks-choose-your-adventure-graphic-novel-nycc-2023)
+- [Google’s AI-powered search experience expands globally to 120+ countries and territories](https://techcrunch.com/2023/11/08/googles-ai-powered-search-experience-expands-globally-to-120-countries-and-territories/)
+- [TikTok-viral astronaut star projector 15% off pre-Black Friday](https://www.space.com/tiktok-viral-astronaut-star-projector-black-friday-deal-save-15-percent)
+- [Stablecoin company Circle going public makes good sense](https://techcrunch.com/2023/11/08/circle-ipo-makes-sense/)
+- [GitHub teases Copilot enterprise plan that lets companies customize for their codebase](https://techcrunch.com/2023/11/08/github-teases-copilot-enterprise-plan-that-lets-companies-customize-for-their-codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
