@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: What should we know about the next H-1B lottery?](https://techcrunch.com/2023/11/08/ask-sophie-what-should-we-know-about-the-next-h-1b-lottery/)
+- [Fakespot Chat, Mozilla’s first LLM, lets online shoppers research products via an AI chatbot](https://techcrunch.com/2023/11/08/fakespot-chat-mozillas-first-llm-lets-online-shoppers-research-products-via-an-ai-chatbot/)
+- [New pre-seed funds are popping up everywhere](https://techcrunch.com/2023/11/08/new-pre-seed-funds-everywhere/)
+- [Hugging Face has a two-person team developing ChatGPT-like AI models](https://techcrunch.com/2023/11/08/hugging-face-has-a-two-person-team-developing-chatgpt-like-ai-models/)
 - [&#39;Star Trek: Lower Decks&#39; will get a choose-your-own-adventure graphic novel](https://www.space.com/star-trek-lower-decks-choose-your-adventure-graphic-novel-nycc-2023)
-- [Google’s AI-powered search experience expands globally to 120+ countries and territories](https://techcrunch.com/2023/11/08/googles-ai-powered-search-experience-expands-globally-to-120-countries-and-territories/)
-- [TikTok-viral astronaut star projector 15% off pre-Black Friday](https://www.space.com/tiktok-viral-astronaut-star-projector-black-friday-deal-save-15-percent)
-- [Stablecoin company Circle going public makes good sense](https://techcrunch.com/2023/11/08/circle-ipo-makes-sense/)
-- [GitHub teases Copilot enterprise plan that lets companies customize for their codebase](https://techcrunch.com/2023/11/08/github-teases-copilot-enterprise-plan-that-lets-companies-customize-for-their-codebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
