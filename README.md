@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Klarna is inching toward an IPO, and it’s not the only one](https://techcrunch.com/2023/11/08/klarna-ipo-incoming/)
-- [Betelgeuse may be the result of a &#39;quiet&#39; star merger](https://www.space.com/betelgeuse-may-be-result-of-quiet-star-merger)
-- [SiriusXM unveils new streaming app, set to launch next month](https://techcrunch.com/2023/11/08/siriusxm-unveils-new-streaming-app-set-to-launch-next-month/)
-- [India&#39;s Aditya-L1 sun probe spots 1st high-energy solar flare](https://www.space.com/india-aditya-l1-sun-probe-first-solar-flare)
-- [NASA powers up Artemis 2 Orion spacecraft ahead of 2024 moon mission](https://www.space.com/artemis-2-orion-moon-spacecraft-power-test)
+- [Robotics funding saw another dip in 2023](https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/)
+- [SpaceX is &#39;go&#39; to launch its 29th cargo mission to the International Space Station on Nov. 9](https://www.space.com/spacex-crs-29-iss-cargo-mission-launch)
+- [James Webb Space Telescope detects clues about how Earth formed billions of years ago](https://www.space.com/james-webb-space-telescope-planet-formation-earth-theory)
+- [NASA&#39;s exoplanet-hunting telescope spies 8 &#39;super-Earths&#39;](https://www.space.com/nasa-tess-exoplanet-telescope-8-super-earths)
+- [Lyft’s price war with Uber yields mixed results](https://techcrunch.com/2023/11/08/lyfts-price-war-with-uber-yields-mixed-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
