@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 subscription boxes we recommend gifting this holiday season](https://techcrunch.com/2023/11/08/10-subscription-boxes-we-recommend-gifting-this-holiday-season/)
+- [Asteroids in the solar system could contain undiscovered, superheavy elements](https://www.space.com/asteroids-could-contain-superheavy-elements)
+- [Cruise recalls entire fleet after robotaxi ran over, dragged pedestrian](https://techcrunch.com/2023/11/08/cruise-recalls-entire-fleet-after-robotaxi-ran-over-dragged-pedestrian/)
+- [M&amp;A founder lessons: Valuable insights from PlanGrid’s $875M acquisition by Autodesk](https://techcrunch.com/2023/11/08/ma-founder-lessons-valuable-insights-from-plangrids-875m-acquisition-by-autodesk/)
 - [It’s been a long time since we’ve seen such positive signals in fintech](https://techcrunch.com/2023/11/08/its-been-a-long-time-since-weve-seen-such-positive-signals-in-fintech/)
-- [NASA&#39;s Curiosity Mars rover celebrates 4,000 &#39;sols&#39; on the Red Planet](https://www.space.com/nasa-curiosity-rover-4000-mars-days-water-search)
-- [Upciti helps cities level up their data strategy](https://techcrunch.com/2023/11/08/upciti-helps-cities-level-up-their-data-strategy/)
-- [The world’s largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
-- [Google-led App Defense Alliance joins Linux Foundation, with Meta and Microsoft joining too](https://techcrunch.com/2023/11/08/google-app-defense-alliance-linux-foundation-meta-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
