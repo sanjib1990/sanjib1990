@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta will start requiring disclosures for political ads manipulated with AI](https://techcrunch.com/2023/11/08/meta-will-start-requiring-disclosures-for-political-ads-manipulated-with-ai/)
+- [Samsung unveils ChatGPT alternative Samsung Gauss that can generate text, code and images](https://techcrunch.com/2023/11/08/samsung-unveils-chatgpt-alternative-samsung-gauss-that-can-generate-text-code-and-images/)
 - [More consolidation in grocery delivery: Getir acquires FreshDirect to beef up in the US](https://techcrunch.com/2023/11/07/getir-freshdirect/)
 - [Gogoro’s Smartscooters can now be unlocked via Apple Wallet](https://techcrunch.com/2023/11/07/gogoros-smartscooters-can-now-be-unlocked-via-apple-wallet/)
 - [Instagram is finally testing a feature to let you turn off read receipts for DMs](https://techcrunch.com/2023/11/07/instagram-is-finally-testing-a-feature-to-let-you-turn-off-read-receipts-for-dms/)
-- [Vanguard slashes Ola valuation by 60%-plus; NB reduces Pharmeasy’s by over 90%](https://techcrunch.com/2023/11/07/ola-pharmeasy-valuation-vanguard-neuberger-berman/)
-- [Europe&#39;s 1st continental spaceport is open for business in Norway](https://www.space.com/europe-spaceport-continental-Norway-operational)
 <!-- BLOG-POST-LIST:END -->
 
 ---
