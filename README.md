@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta taps Hugging Face for startup accelerator to spur adoption of open source AI models](https://techcrunch.com/2023/11/08/meta-hugging-face-open-source-ai-station-f/)
-- [Meta will start requiring disclosures for political ads manipulated with AI](https://techcrunch.com/2023/11/08/meta-will-start-requiring-disclosures-for-political-ads-manipulated-with-ai/)
-- [Rocket motor lifted for shuttle Endeavour exhibit as NASA preps lift for Artemis 2](https://www.space.com/space-shuttle-endeavour-exhibit-booster-lift-begins)
-- [Samsung unveils ChatGPT alternative Samsung Gauss that can generate text, code and images](https://techcrunch.com/2023/11/08/samsung-unveils-chatgpt-alternative-samsung-gauss-that-can-generate-text-code-and-images/)
-- [More consolidation in grocery delivery: Getir acquires FreshDirect to beef up in the US](https://techcrunch.com/2023/11/07/getir-freshdirect/)
+- [Spotify brings 15 hours of monthly audiobook listening to Premium subscribers in the U.S.](https://techcrunch.com/2023/11/08/spotify-brings-15-hours-of-monthly-audiobook-listening-to-premium-subscribers-in-the-u-s/)
+- [See bright Venus and the crescent moon light up the early morning sky on Nov. 9](https://www.space.com/moon-venus-november-2023)
+- [Airbnb is leaning on reviews to make listings more reliable](https://techcrunch.com/2023/11/08/airbnb-is-leaning-on-reviews-to-make-properties-more-reliable/)
+- [The 8 Lego sets you didn’t know you needed in 2023](https://techcrunch.com/2023/11/08/the-8-lego-sets-you-didnt-know-you-needed-in-2023/)
+- [&#39;A City on Mars&#39; is a reality check for anyone dreaming about life on the Red Planet](https://www.space.com/a-city-on-mars-author-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
