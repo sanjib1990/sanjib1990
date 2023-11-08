@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s been a long time since we’ve seen such positive signals in fintech](https://techcrunch.com/2023/11/08/its-been-a-long-time-since-weve-seen-such-positive-signals-in-fintech/)
+- [NASA&#39;s Curiosity Mars rover celebrates 4,000 &#39;sols&#39; on the Red Planet](https://www.space.com/nasa-curiosity-rover-4000-mars-days-water-search)
+- [Upciti helps cities level up their data strategy](https://techcrunch.com/2023/11/08/upciti-helps-cities-level-up-their-data-strategy/)
+- [The world’s largest aircraft breaks cover in Silicon Valley](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/)
 - [Google-led App Defense Alliance joins Linux Foundation, with Meta and Microsoft joining too](https://techcrunch.com/2023/11/08/google-app-defense-alliance-linux-foundation-meta-microsoft/)
-- [10 years on, Aileen Lee explains why focusing on unicorn valuations makes sense](https://techcrunch.com/2023/11/08/aileen-lee-unicorns-interview/)
-- [Ozone raises $7.1M to scale its AI-powered collaborative video editor in the cloud](https://techcrunch.com/2023/11/08/ozone-raises-7-1m-to-scale-its-ai-powered-collaborative-video-editor/)
-- [Code-generating AI platform Tabnine nabs $25M investment](https://techcrunch.com/2023/11/08/code-generating-ai-platform-tabnine-nabs-25m-investment/)
-- [Black Friday space gift ideas: Telescope deals, binocular discounts, camera deals and more](https://www.space.com/best-black-friday-deals-sales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
