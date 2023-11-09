@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis moon astronauts will need oxygen. NASA wants to extract it from lunar dust](https://www.space.com/nasa-oxygen-from-moon-dust)
-- [Secure messaging app Signal moves a step closer to launching usernames](https://techcrunch.com/2023/11/09/signal-usernames-test/)
-- [SpaceX will launch Ireland&#39;s 1st-ever satellite this month](https://www.space.com/eirsat-1-ireland-first-satellite-spacex-launch)
-- [Should I buy a camera on Black Friday 2023?](https://www.space.com/should-i-buy-a-camera-on-black-friday)
-- [OpenAI blames DDoS attack for ongoing ChatGPT outage](https://techcrunch.com/2023/11/09/openai-blames-ddos-attack-for-ongoing-chatgpt-outage/)
+- [September launch failure likely caused by &#39;electrical arc,&#39; Rocket Lab says](https://www.space.com/rocket-lab-cause-launch-failure-september-2023)
+- [Lunar.dev wants to help developers take control of third-party API costs](https://techcrunch.com/2023/11/09/lunar-dev-wants-to-help-developers-take-control-of-their-external-api-costs/)
+- [Chptr, a memorialization app for gathering and sharing memories of loved ones, raises $1.5M](https://techcrunch.com/2023/11/09/chptr-memorialization-app-sharing-memories-of-loved-ones-raises-1-5m/)
+- [Lightspeed Faction launches $285M early-stage crypto fund](https://techcrunch.com/2023/11/09/lightspeed-faction-launches-285m-early-stage-crypto-fund/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
