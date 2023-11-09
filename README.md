@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI blames DDoS attack for ongoing ChatGPT outage](https://techcrunch.com/2023/11/09/openai-blames-ddos-attack-for-ongoing-chatgpt-outage/)
+- [Investors double down on Snaptrude in challenging legacy building design platforms](https://techcrunch.com/2023/11/09/snaptrude-funding-series-a/)
 - [UK-based Ooodles raises $12M to scale up its device-leasing services](https://techcrunch.com/2023/11/09/uk-based-ooodles-raises-12m-to-scale-up-its-device-leasing-services/)
 - [Popular video chat service Omegle shuts down](https://techcrunch.com/2023/11/09/omegle-shutdown/)
 - [Bob Iger says Disney would like to stay in India, looking to strengthen hand](https://techcrunch.com/2023/11/08/bob-iger-says-disney-would-like-to-stay-in-india-amid-hotstars-subscriber-dip/)
-- [James Webb Space Telescope reveals most distant Milky Way galaxy doppelganger](https://www.space.com/james-webb-space-telescope-milky-way-look-alike)
-- [UK’s online safety regulator puts out draft guidance on illegal content, saying child safety is priority](https://techcrunch.com/2023/11/08/ofcom-illegal-content-draft-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
