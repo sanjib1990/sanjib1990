@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [September launch failure likely caused by &#39;electrical arc,&#39; Rocket Lab says](https://www.space.com/rocket-lab-cause-launch-failure-september-2023)
-- [Lunar.dev wants to help developers take control of third-party API costs](https://techcrunch.com/2023/11/09/lunar-dev-wants-to-help-developers-take-control-of-their-external-api-costs/)
-- [Chptr, a memorialization app for gathering and sharing memories of loved ones, raises $1.5M](https://techcrunch.com/2023/11/09/chptr-memorialization-app-sharing-memories-of-loved-ones-raises-1-5m/)
-- [Lightspeed Faction launches $285M early-stage crypto fund](https://techcrunch.com/2023/11/09/lightspeed-faction-launches-285m-early-stage-crypto-fund/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [Heali’s app provides personalized nutrition guide to using food as medicine](https://techcrunch.com/2023/11/09/heali-app-personalized-nutrition-food-as-medicine/)
+- [A satellite&#39;s very tiny camera took a very blurry picture of Earth — and it&#39;s perfect](https://www.space.com/trisatr-satellites-earth-image-space-camera)
+- [With the power of AI, you can be mediocre, too](https://techcrunch.com/2023/11/09/meh-ai/)
+- [Ridepanda’s shift from D2C micromobility platform to corporate e-bike supplier](https://techcrunch.com/2023/11/09/ridepandas-shift-from-d2c-micromobility-platform-to-corporate-e-bike-supplier/)
+- [Amazon makes online grocery available for non-Prime members, starting with Amazon Fresh](https://techcrunch.com/2023/11/09/amazon-makes-online-grocery-available-for-non-prime-members-starting-with-amazon-fresh/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
