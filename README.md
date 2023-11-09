@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bob Iger says Disney would like to stay in India amid Hotstar’s subscriber dip](https://techcrunch.com/2023/11/08/bob-iger-says-disney-would-like-to-stay-in-india-amid-hotstars-subscriber-dip/)
 - [James Webb Space Telescope reveals most distant Milky Way galaxy doppelganger](https://www.space.com/james-webb-space-telescope-milky-way-look-alike)
 - [UK’s online safety regulator puts out draft guidance on illegal content, saying child safety is priority](https://techcrunch.com/2023/11/08/ofcom-illegal-content-draft-code/)
 - [Lyft picks comfort over sharing in bid to compete with Uber](https://techcrunch.com/2023/11/08/lyft-picks-comfort-over-sharing-in-bid-to-compete-with-uber/)
 - [mogul club raises $3.6M toward its effort to make real estate investing more accessible](https://techcrunch.com/2023/11/08/mogul-club-raises-3-6m-toward-its-effort-to-make-real-estate-investing-more-accessible/)
-- [Rocket Lab’s Electron launch vehicle ‘fully’ booked next year, will resume flight as early as November-end](https://techcrunch.com/2023/11/08/rocket-labs-electron-launch-vehicle-fully-booked-next-year-will-resume-flight-as-early-as-november-end/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
