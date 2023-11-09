@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Between Venus&#39; atmospheric currents, a layer of reactive oxygen](https://www.space.com/astronomers-identify-atomic-oxygen-venus-atmosphere)
-- [Getir is a sign of what’s to come in the M&amp;A market in 2024](https://techcrunch.com/2023/11/09/getir-acquisitions-preview-2024/)
-- [GitLab expands its AI lineup with Duo Chat](https://techcrunch.com/2023/11/09/gitlab-expands-its-ai-lineup-with-duo-chat/)
-- [Snap’s latest version of its AR development tool includes a ChatGPT API, boosted productivity and more](https://techcrunch.com/2023/11/09/snaps-latest-version-of-its-ar-development-tool-includes-a-chatgpt-api-boosted-productivity-and-more/)
-- [NASA’s robotic prospectors are helping scientists understand what asteroids are made of, setting the stage for miners to follow someday](https://www.space.com/nasa-robotic-prospectors-helping-asteroid-mining)
+- [California regulators weigh a do-over for Cruise’s robotaxi permit](https://techcrunch.com/2023/11/09/cpuc-consider-redoing-hearing-to-grant-cruises-24-7-robotaxi-permit/)
+- [Moving on from SBF trial with Circle IPO rumors, a massive new crypto fund and sanctions](https://techcrunch.com/2023/11/09/moving-on-from-sbf-trial-with-circle-ipo-rumors-a-massive-new-crypto-fund-and-sanctions/)
+- [The Match-Google antitrust settlement netted the dating app maker over $300M](https://techcrunch.com/2023/11/09/the-match-google-antitrust-settlement-netted-dating-app-maker-over-300m/)
+- [Build your own AI-powered Perseverance Mars rover with this new DIY kit](https://www.space.com/perseverance-mars-rover-build-your-own-ai-kit)
+- [Snap confirms small-scale layoffs as part of product team re-org](https://techcrunch.com/2023/11/09/snap-confirms-small-scale-layoffs-as-part-of-product-team-re-org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
