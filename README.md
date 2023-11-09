@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA build its VIPER moon rover with these free online watch parties](https://www.space.com/nasa-viper-moon-rover-assembly-watch-parties)
+- [Launch contracts are “basically worthless” until a rocket is proven and flying, Rocket Lab CEO says](https://techcrunch.com/2023/11/09/launch-contracts-are-worthless-until-a-rocket-is-proven-and-flying-rocket-lab-ceo-says/)
+- [Virgin Galactic to ground its VSS Unity space plane next year: report](https://www.space.com/virgin-galactic-ground-vss-unity-space-plane-2024)
+- [Maine government says data breach affects 1.3 million residents](https://techcrunch.com/2023/11/09/maine-government-data-breach-clop-ransomware/)
 - [Mars, Earth, or deep space? ESA narrows down finalists for a future space mission](https://www.space.com/esa-medium-space-mission-mars-gamma-rays-plasma)
-- [1st black hole ever imaged by humans has twisted magnetic fields and scientists are thrilled](https://www.space.com/supermassive-black-hole-twisted-magnetic-fields-m87)
-- [Frank Borman, Apollo 8 astronaut who led first flight to the moon, dies at 95](https://www.space.com/apollo-8-astronaut-frank-borman-obituary)
-- [Tumblr to run on skeleton crew as parent company Automattic absorbs staff](https://techcrunch.com/2023/11/09/tumblr-to-run-on-skeleton-crew-as-parent-company-automattic-absorbs-staff/)
-- [Powerful new thrusters for NASA&#39;s moon-orbiting Gateway space station get a test &lpar;photo&rpar;](https://www.space.com/ion-thrusters-nasa-gateway-moon-space-station-test)
 <!-- BLOG-POST-LIST:END -->
 
 ---
