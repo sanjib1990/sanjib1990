@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Between Venus&#39; atmospheric currents, a layer of reactive oxygen](https://www.space.com/astronomers-identify-atomic-oxygen-venus-atmosphere)
+- [Getir is a sign of what’s to come in the M&amp;A market in 2024](https://techcrunch.com/2023/11/09/getir-acquisitions-preview-2024/)
+- [GitLab expands its AI lineup with Duo Chat](https://techcrunch.com/2023/11/09/gitlab-expands-its-ai-lineup-with-duo-chat/)
+- [Snap’s latest version of its AR development tool includes a ChatGPT API, boosted productivity and more](https://techcrunch.com/2023/11/09/snaps-latest-version-of-its-ar-development-tool-includes-a-chatgpt-api-boosted-productivity-and-more/)
 - [NASA’s robotic prospectors are helping scientists understand what asteroids are made of, setting the stage for miners to follow someday](https://www.space.com/nasa-robotic-prospectors-helping-asteroid-mining)
-- [Humane’s Ai Pin promises an ‘ambient computing’ future for $699 &lpar;plus $24 a month&rpar;](https://techcrunch.com/2023/11/09/humanes-ai-pin/)
-- [LGBTQ suicide prevention org the Trevor Project is leaving Elon Musk’s X for good](https://techcrunch.com/2023/11/09/trevor-project-leaves-x-twitter-lgbtq/)
-- [Cruise begins layoffs, starting with workers who supported driverless operations](https://techcrunch.com/2023/11/09/cruise-begins-layoffs-starting-with-workers-who-supported-driverless-operations/)
-- [2nd rocket booster lifted into place for space shuttle Endeavour LA exhibit](https://www.space.com/space-shuttle-endeavour-exhibit-srm-lift-complete)
 <!-- BLOG-POST-LIST:END -->
 
 ---
