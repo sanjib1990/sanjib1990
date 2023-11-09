@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [California regulators weigh a do-over for Cruise’s robotaxi permit](https://techcrunch.com/2023/11/09/cpuc-consider-redoing-hearing-to-grant-cruises-24-7-robotaxi-permit/)
-- [Moving on from SBF trial with Circle IPO rumors, a massive new crypto fund and sanctions](https://techcrunch.com/2023/11/09/moving-on-from-sbf-trial-with-circle-ipo-rumors-a-massive-new-crypto-fund-and-sanctions/)
-- [The Match-Google antitrust settlement netted the dating app maker over $300M](https://techcrunch.com/2023/11/09/the-match-google-antitrust-settlement-netted-dating-app-maker-over-300m/)
-- [Build your own AI-powered Perseverance Mars rover with this new DIY kit](https://www.space.com/perseverance-mars-rover-build-your-own-ai-kit)
-- [Snap confirms small-scale layoffs as part of product team re-org](https://techcrunch.com/2023/11/09/snap-confirms-small-scale-layoffs-as-part-of-product-team-re-org/)
+- [Tumblr to run on skeleton crew as parent company Automattic absorbs staff](https://techcrunch.com/2023/11/09/tumblr-to-run-on-skeleton-crew-as-parent-company-automattic-absorbs-staff/)
+- [Powerful new thrusters for NASA&#39;s moon-orbiting Gateway space station get a test &lpar;photo&rpar;](https://www.space.com/ion-thrusters-nasa-gateway-moon-space-station-test)
+- [European Space Agency signs agreement with Starlab developers to secure ongoing access to low Earth orbit](https://techcrunch.com/2023/11/09/european-space-agency-signs-agreement-with-starlab-developers-to-secure-ongoing-access-to-low-earth-orbit/)
+- [TikTokers are sharing Palestinian family recipes to raise money for aid](https://techcrunch.com/2023/11/09/tiktokers-are-sharing-palestinian-family-recipes-to-raise-money-for-aid/)
+- [Meta and Amazon team up on new in-app shopping feature on Facebook &amp; Instagram](https://techcrunch.com/2023/11/09/meta-and-amazon-team-up-on-new-in-app-shopping-feature-on-facebook-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
