@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis moon astronauts will need oxygen. NASA wants to extract it from lunar dust](https://www.space.com/nasa-oxygen-from-moon-dust)
 - [Secure messaging app Signal moves a step closer to launching usernames](https://techcrunch.com/2023/11/09/signal-usernames-test/)
 - [SpaceX will launch Ireland&#39;s 1st-ever satellite this month](https://www.space.com/eirsat-1-ireland-first-satellite-spacex-launch)
 - [Should I buy a camera on Black Friday 2023?](https://www.space.com/should-i-buy-a-camera-on-black-friday)
 - [OpenAI blames DDoS attack for ongoing ChatGPT outage](https://techcrunch.com/2023/11/09/openai-blames-ddos-attack-for-ongoing-chatgpt-outage/)
-- [Investors double down on Snaptrude in challenging legacy building design platforms](https://techcrunch.com/2023/11/09/snaptrude-funding-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
