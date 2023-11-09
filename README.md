@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s online safety regulator puts out draft guidance on illegal content, saying child safety is priority](https://techcrunch.com/2023/11/08/ofcom-illegal-content-draft-code/)
+- [Lyft picks comfort over sharing in bid to compete with Uber](https://techcrunch.com/2023/11/08/lyft-picks-comfort-over-sharing-in-bid-to-compete-with-uber/)
+- [mogul club raises $3.6M toward its effort to make real estate investing more accessible](https://techcrunch.com/2023/11/08/mogul-club-raises-3-6m-toward-its-effort-to-make-real-estate-investing-more-accessible/)
+- [Rocket Lab’s Electron launch vehicle ‘fully’ booked next year, will resume flight as early as November-end](https://techcrunch.com/2023/11/08/rocket-labs-electron-launch-vehicle-fully-booked-next-year-will-resume-flight-as-early-as-november-end/)
 - [Robotics funding saw another dip in 2023](https://techcrunch.com/2023/11/08/robotics-funding-saw-another-dip-in-2023/)
-- [SpaceX is &#39;go&#39; to launch its 29th cargo mission to the International Space Station on Nov. 9](https://www.space.com/spacex-crs-29-iss-cargo-mission-launch)
-- [James Webb Space Telescope detects clues about how Earth formed billions of years ago](https://www.space.com/james-webb-space-telescope-planet-formation-earth-theory)
-- [NASA&#39;s exoplanet-hunting telescope spies 8 &#39;super-Earths&#39;](https://www.space.com/nasa-tess-exoplanet-telescope-8-super-earths)
-- [Lyft’s price war with Uber yields mixed results](https://techcrunch.com/2023/11/08/lyfts-price-war-with-uber-yields-mixed-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
