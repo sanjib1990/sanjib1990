@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Heali’s app provides personalized nutrition guide to using food as medicine](https://techcrunch.com/2023/11/09/heali-app-personalized-nutrition-food-as-medicine/)
-- [A satellite&#39;s very tiny camera took a very blurry picture of Earth — and it&#39;s perfect](https://www.space.com/trisatr-satellites-earth-image-space-camera)
-- [With the power of AI, you can be mediocre, too](https://techcrunch.com/2023/11/09/meh-ai/)
-- [Ridepanda’s shift from D2C micromobility platform to corporate e-bike supplier](https://techcrunch.com/2023/11/09/ridepandas-shift-from-d2c-micromobility-platform-to-corporate-e-bike-supplier/)
-- [Amazon makes online grocery available for non-Prime members, starting with Amazon Fresh](https://techcrunch.com/2023/11/09/amazon-makes-online-grocery-available-for-non-prime-members-starting-with-amazon-fresh/)
+- [NASA&#39;s hunting for &#39;strategic minerals&#39; in the desert with a modified U-2 spy plane. Here&#39;s why](https://www.space.com/nasa-er-2-spy-plane-mineral-mapping)
+- [You can use jargon in your startup pitch](https://techcrunch.com/2023/11/09/you-can-use-jargon-in-your-startup-pitch/)
+- [Mr. Cooper says customer data exposed during cyberattack](https://techcrunch.com/2023/11/09/mr-cooper-confirms-customer-data-was-exposed-in-cyberattack/)
+- [EU asks TikTok and YouTube for more info on how they’re safeguarding kids](https://techcrunch.com/2023/11/09/eu-asks-tiktok-and-youtube-for-more-info-on-how-theyre-safeguarding-kids/)
+- [Y Combinator-backed Ole delivers luxury fashion items in 50 minutes](https://techcrunch.com/2023/11/09/y-combinator-backed-ole-delivers-luxury-fashion-items-in-50-minutes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
