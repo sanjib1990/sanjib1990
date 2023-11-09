@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s hunting for &#39;strategic minerals&#39; in the desert with a modified U-2 spy plane. Here&#39;s why](https://www.space.com/nasa-er-2-spy-plane-mineral-mapping)
-- [You can use jargon in your startup pitch](https://techcrunch.com/2023/11/09/you-can-use-jargon-in-your-startup-pitch/)
-- [Mr. Cooper says customer data exposed during cyberattack](https://techcrunch.com/2023/11/09/mr-cooper-confirms-customer-data-was-exposed-in-cyberattack/)
-- [EU asks TikTok and YouTube for more info on how they’re safeguarding kids](https://techcrunch.com/2023/11/09/eu-asks-tiktok-and-youtube-for-more-info-on-how-theyre-safeguarding-kids/)
-- [Y Combinator-backed Ole delivers luxury fashion items in 50 minutes](https://techcrunch.com/2023/11/09/y-combinator-backed-ole-delivers-luxury-fashion-items-in-50-minutes/)
+- [Humane’s Ai Pin promises an ‘ambient computing’ future for $699 &lpar;plus $24 a month&rpar;](https://techcrunch.com/2023/11/09/humanes-ai-pin/)
+- [LGBTQ suicide prevention org the Trevor Project is leaving Elon Musk’s X for good](https://techcrunch.com/2023/11/09/trevor-project-leaves-x-twitter-lgbtq/)
+- [Cruise begins layoffs, starting with workers who supported driverless operations](https://techcrunch.com/2023/11/09/cruise-begins-layoffs-starting-with-workers-who-supported-driverless-operations/)
+- [2nd rocket booster lifted into place for space shuttle Endeavour LA exhibit](https://www.space.com/space-shuttle-endeavour-exhibit-srm-lift-complete)
+- [Google Play tightens up rules for Android app developers to require testing, increased app review](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
