@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars, Earth, or deep space? ESA narrows down finalists for a future space mission](https://www.space.com/esa-medium-space-mission-mars-gamma-rays-plasma)
+- [1st black hole ever imaged by humans has twisted magnetic fields and scientists are thrilled](https://www.space.com/supermassive-black-hole-twisted-magnetic-fields-m87)
+- [Frank Borman, Apollo 8 astronaut who led first flight to the moon, dies at 95](https://www.space.com/apollo-8-astronaut-frank-borman-obituary)
 - [Tumblr to run on skeleton crew as parent company Automattic absorbs staff](https://techcrunch.com/2023/11/09/tumblr-to-run-on-skeleton-crew-as-parent-company-automattic-absorbs-staff/)
 - [Powerful new thrusters for NASA&#39;s moon-orbiting Gateway space station get a test &lpar;photo&rpar;](https://www.space.com/ion-thrusters-nasa-gateway-moon-space-station-test)
-- [European Space Agency signs agreement with Starlab developers to secure ongoing access to low Earth orbit](https://techcrunch.com/2023/11/09/european-space-agency-signs-agreement-with-starlab-developers-to-secure-ongoing-access-to-low-earth-orbit/)
-- [TikTokers are sharing Palestinian family recipes to raise money for aid](https://techcrunch.com/2023/11/09/tiktokers-are-sharing-palestinian-family-recipes-to-raise-money-for-aid/)
-- [Meta and Amazon team up on new in-app shopping feature on Facebook &amp; Instagram](https://techcrunch.com/2023/11/09/meta-and-amazon-team-up-on-new-in-app-shopping-feature-on-facebook-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
