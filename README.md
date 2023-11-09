@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA’s robotic prospectors are helping scientists understand what asteroids are made of, setting the stage for miners to follow someday](https://www.space.com/nasa-robotic-prospectors-helping-asteroid-mining)
 - [Humane’s Ai Pin promises an ‘ambient computing’ future for $699 &lpar;plus $24 a month&rpar;](https://techcrunch.com/2023/11/09/humanes-ai-pin/)
 - [LGBTQ suicide prevention org the Trevor Project is leaving Elon Musk’s X for good](https://techcrunch.com/2023/11/09/trevor-project-leaves-x-twitter-lgbtq/)
 - [Cruise begins layoffs, starting with workers who supported driverless operations](https://techcrunch.com/2023/11/09/cruise-begins-layoffs-starting-with-workers-who-supported-driverless-operations/)
 - [2nd rocket booster lifted into place for space shuttle Endeavour LA exhibit](https://www.space.com/space-shuttle-endeavour-exhibit-srm-lift-complete)
-- [Google Play tightens up rules for Android app developers to require testing, increased app review](https://techcrunch.com/2023/11/09/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
