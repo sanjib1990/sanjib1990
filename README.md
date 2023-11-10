@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US military gives Lockheed Martin $33.7 million to develop nuclear spacecraft](https://www.space.com/space-nuclear-power-tech-lockheed-martin-jetson-contract)
-- [YC-backed productivity app Superpowered pivots to become a voice API platform for bots](https://techcrunch.com/2023/11/10/yc-backed-productivity-app-superpowered-pivots-to-become-a-voice-api-platform-for-bots/)
-- [The 6 best gifts for book lovers this holiday season](https://techcrunch.com/2023/11/10/the-6-best-gifts-for-book-lovers-this-holiday-season/)
-- [Safety, not speed, should be the priority in launch mishap probes, FAA advisory group says](https://www.space.com/space-mishap-safety-first-faa-advisory-committee)
-- [Detecting alien life might be easier if we hunt for &#39;Jurassic worlds.&#39; Here&#39;s why](https://www.space.com/dinosaur-era-earth-clues-search-for-alien-life)
+- [OpenAI’s DevDay, reinventing the REIT and good actors in crypto](https://techcrunch.com/2023/11/10/openais-first-dev-event-reinventing-the-reit-and-good-actors-in-crypto/)
+- [A newly discovered comet will shine bright in the Hercules constellation tonight. Here&#39;s how to see it](https://www.space.com/comet-c2023-h2-lemmon-perigee-nov-2023)
+- [Pitch Deck Teardown: Phospholutions’ $10M Series A extension deck](https://techcrunch.com/2023/11/10/sample-series-a-extension-pitch-deck-phospholutions/)
+- [&#39;The Marvels&#39; review: A chaotic cosmic headache](https://www.space.com/the-marvels-review)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
