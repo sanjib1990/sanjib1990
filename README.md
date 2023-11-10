@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter&#39;s winds whip around in &#39;cylindrical&#39; form, NASA&#39;s Juno probe discovers](https://www.space.com/nasa-juno-investigates-jupiter-wind-dynamics)
+- [What did ancient humans know about astronomy?](https://www.space.com/what-did-ancient-humans-know-about-astronomy)
+- [This week in AI: OpenAI plays for keeps with GPTs](https://techcrunch.com/2023/11/10/this-week-in-ai-openai-plays-for-keeps-with-gpts/)
 - [Season 4 of &#39;For All Mankind&#39; debuts with alternate asteroid history](https://www.space.com/for-all-mankind-season-4-timelines)
 - [I review star projectors for a living and this early Black Friday deal is one of the best I&#39;ve seen all year.](https://www.space.com/early-black-friday-deal-star-projector-pococo-galaxy-save-38)
-- [Bulgaria signs Artemis Accords for peaceful moon exploration](https://www.space.com/nasa-bulgaria-signs-artemis-accords)
-- [Meta and Snap latest to get EU request for info on child safety, as bloc shoots for ‘unprecedented’ transparency](https://techcrunch.com/2023/11/10/eu-dsa-unprecedented-transparency/)
-- [&#39;Loki&#39; season 2 episode 6 review: Finding a glorious purpose](https://www.space.com/loki-season-2-episode-6-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
