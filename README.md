@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter&#39;s winds whip around in &#39;cylindrical&#39; form, NASA&#39;s Juno probe discovers](https://www.space.com/nasa-juno-investigates-jupiter-wind-dynamics)
-- [What did ancient humans know about astronomy?](https://www.space.com/what-did-ancient-humans-know-about-astronomy)
-- [This week in AI: OpenAI plays for keeps with GPTs](https://techcrunch.com/2023/11/10/this-week-in-ai-openai-plays-for-keeps-with-gpts/)
-- [Season 4 of &#39;For All Mankind&#39; debuts with alternate asteroid history](https://www.space.com/for-all-mankind-season-4-timelines)
-- [I review star projectors for a living and this early Black Friday deal is one of the best I&#39;ve seen all year.](https://www.space.com/early-black-friday-deal-star-projector-pococo-galaxy-save-38)
+- [AI makes you worse at what you’re good at](https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/)
+- [A volcanic eruption gave birth to a new island, and a NASA satellite saw it from space &lpar;photo&rpar;](https://www.space.com/nasa-satellite-spots-new-island-from-space)
+- [Automattic CEO Matt Mullenweg details Tumblr’s future after re-org](https://techcrunch.com/2023/11/10/automattic-ceo-matt-mullenweg-details-tumblrs-future-after-re-org/)
+- [Astronauts dropped a tool bag during an ISS spacewalk, and you can see it with binoculars](https://www.space.com/astronauts-international-space-station-tool-bag-visible)
+- [TC+ Roundup: Know your goals before taking the plunge](https://techcrunch.com/2023/11/10/tc-roundup-know-your-goals-before-taking-the-plunge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
