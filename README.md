@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US military gives Lockheed Martin $33.7 million to develop nuclear spacecraft](https://www.space.com/space-nuclear-power-tech-lockheed-martin-jetson-contract)
+- [YC-backed productivity app Superpowered pivots to become a voice API platform for bots](https://techcrunch.com/2023/11/10/yc-backed-productivity-app-superpowered-pivots-to-become-a-voice-api-platform-for-bots/)
 - [The 6 best gifts for book lovers this holiday season](https://techcrunch.com/2023/11/10/the-6-best-gifts-for-book-lovers-this-holiday-season/)
 - [Safety, not speed, should be the priority in launch mishap probes, FAA advisory group says](https://www.space.com/space-mishap-safety-first-faa-advisory-committee)
 - [Detecting alien life might be easier if we hunt for &#39;Jurassic worlds.&#39; Here&#39;s why](https://www.space.com/dinosaur-era-earth-clues-search-for-alien-life)
-- [These small galaxies were shredded by their larger siblings — but they survived](https://www.space.com/ultra-compact-dwarf-galaxies-cannibalism-study)
-- [EU business crowdfunding is now bound by bloc-wide regulations](https://techcrunch.com/2023/11/10/eu-business-crowdfunding-is-now-bound-by-bloc-wide-regulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
