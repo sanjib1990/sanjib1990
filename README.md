@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Lunar swirls&#39; have confused scientists for years. New NASA moon data might clear things up](https://www.space.com/nasa-spacecraft-lunar-swirls-moon-topography)
+- [&#39;For All Mankind&#39; season 4 episode 1 review: Lots of moving parts but light on plot](https://www.space.com/for-all-mankind-season-4-episode-1-review)
+- [Polestar tackles softening EV demand with new tech and next-gen vehicles](https://techcrunch.com/2023/11/10/polestar-tackles-softening-ev-demand-with-new-tech-and-next-gen-vehicles/)
 - [AI makes you worse at what you’re good at](https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/)
 - [A volcanic eruption gave birth to a new island, and a NASA satellite saw it from space &lpar;photo&rpar;](https://www.space.com/nasa-satellite-spots-new-island-from-space)
-- [Automattic CEO Matt Mullenweg details Tumblr’s future after re-org](https://techcrunch.com/2023/11/10/automattic-ceo-matt-mullenweg-details-tumblrs-future-after-re-org/)
-- [Astronauts dropped a tool bag during an ISS spacewalk, and you can see it with binoculars](https://www.space.com/astronauts-international-space-station-tool-bag-visible)
-- [TC+ Roundup: Know your goals before taking the plunge](https://techcrunch.com/2023/11/10/tc-roundup-know-your-goals-before-taking-the-plunge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
