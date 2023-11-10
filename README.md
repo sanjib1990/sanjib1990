@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Season 4 of &#39;For All Mankind&#39; debuts with alternate asteroid history](https://www.space.com/for-all-mankind-season-4-timelines)
+- [I review star projectors for a living and this early Black Friday deal is one of the best I&#39;ve seen all year.](https://www.space.com/early-black-friday-deal-star-projector-pococo-galaxy-save-38)
+- [Bulgaria signs Artemis Accords for peaceful moon exploration](https://www.space.com/nasa-bulgaria-signs-artemis-accords)
 - [Meta and Snap latest to get EU request for info on child safety, as bloc shoots for ‘unprecedented’ transparency](https://techcrunch.com/2023/11/10/eu-dsa-unprecedented-transparency/)
 - [&#39;Loki&#39; season 2 episode 6 review: Finding a glorious purpose](https://www.space.com/loki-season-2-episode-6-review)
-- [Navigating startups through smart investments, outsourcing and cash preservation](https://techcrunch.com/2023/11/10/navigating-startups-through-smart-investments-outsourcing-and-cash-preservation/)
-- [7 great pieces of podcast, streaming gear to gift in 2023](https://techcrunch.com/2023/11/10/7-great-pieces-of-podcast-streaming-gear-to-gift-in-2023/)
-- [Black Friday beginner drone on sale — save $60 on the DJI Mini 3 Fly More Combo](https://www.space.com/early-black-friday-drone-deal-dji-mini-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
