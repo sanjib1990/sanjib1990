@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based startup EduFi raises funding for its student loan platform](https://techcrunch.com/2023/11/09/singapore-based-startup-edufi-raises-funding-to-help-students-access-loans-for-their-education/)
 - [Humane’s Ai Pin up close](https://techcrunch.com/2023/11/09/humanes-ai-pin-up-close/)
 - [The watermelon emoji isn’t just TikTok speak for Palestine](https://techcrunch.com/2023/11/09/watermelon-emoji-palestine-tiktok-filter-political-statement/)
 - [Geely’s Zeekr gears up for US IPO, but China influence remains a concern](https://techcrunch.com/2023/11/09/zeekr-us-ipo-china-risks/)
 - [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/09/tech-layoffs-2023-list/)
-- [Watch NASA build its VIPER moon rover with these free online watch parties](https://www.space.com/nasa-viper-moon-rover-assembly-watch-parties)
 <!-- BLOG-POST-LIST:END -->
 
 ---
