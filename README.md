@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s DevDay, reinventing the REIT and good actors in crypto](https://techcrunch.com/2023/11/10/openais-first-dev-event-reinventing-the-reit-and-good-actors-in-crypto/)
-- [A newly discovered comet will shine bright in the Hercules constellation tonight. Here&#39;s how to see it](https://www.space.com/comet-c2023-h2-lemmon-perigee-nov-2023)
-- [Pitch Deck Teardown: Phospholutions’ $10M Series A extension deck](https://techcrunch.com/2023/11/10/sample-series-a-extension-pitch-deck-phospholutions/)
-- [&#39;The Marvels&#39; review: A chaotic cosmic headache](https://www.space.com/the-marvels-review)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [7 great pieces of podcast, streaming gear to gift in 2023](https://techcrunch.com/2023/11/10/7-great-pieces-of-podcast-streaming-gear-to-gift-in-2023/)
+- [Black Friday beginner drone on sale — save $60 on the DJI Mini 3 Fly More Combo](https://www.space.com/early-black-friday-drone-deal-dji-mini-3)
+- [Prosecutors will likely proceed with SBF’s second trial in March](https://techcrunch.com/2023/11/10/another-sbf-trial/)
+- [5 Things we learned from the Epic-Google antitrust case this week](https://techcrunch.com/2023/11/10/5-things-we-learned-from-the-epic-google-antitrust-case-this-week/)
+- [3 ways startups can improve survival odds in a tough economic landscape](https://techcrunch.com/2023/11/10/3-ways-startups-can-improve-survival-odds-in-a-tough-economic-landscape/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
