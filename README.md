@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 6 best gifts for book lovers this holiday season](https://techcrunch.com/2023/11/10/the-6-best-gifts-for-book-lovers-this-holiday-season/)
+- [Safety, not speed, should be the priority in launch mishap probes, FAA advisory group says](https://www.space.com/space-mishap-safety-first-faa-advisory-committee)
+- [Detecting alien life might be easier if we hunt for &#39;Jurassic worlds.&#39; Here&#39;s why](https://www.space.com/dinosaur-era-earth-clues-search-for-alien-life)
 - [These small galaxies were shredded by their larger siblings — but they survived](https://www.space.com/ultra-compact-dwarf-galaxies-cannibalism-study)
 - [EU business crowdfunding is now bound by bloc-wide regulations](https://techcrunch.com/2023/11/10/eu-business-crowdfunding-is-now-bound-by-bloc-wide-regulations/)
-- [Singapore-based startup EduFi raises funding for its student loan platform](https://techcrunch.com/2023/11/09/singapore-based-startup-edufi-raises-funding-to-help-students-access-loans-for-their-education/)
-- [Humane’s Ai Pin up close](https://techcrunch.com/2023/11/09/humanes-ai-pin-up-close/)
-- [The watermelon emoji isn’t just TikTok speak for Palestine](https://techcrunch.com/2023/11/09/watermelon-emoji-palestine-tiktok-filter-political-statement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
