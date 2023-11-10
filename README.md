@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humane’s Ai Pin up close](https://techcrunch.com/2023/11/09/humanes-ai-pin-up-close/)
+- [The watermelon emoji isn’t just TikTok speak for Palestine](https://techcrunch.com/2023/11/09/watermelon-emoji-palestine-tiktok-filter-political-statement/)
+- [Geely’s Zeekr gears up for US IPO, but China influence remains a concern](https://techcrunch.com/2023/11/09/zeekr-us-ipo-china-risks/)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/09/tech-layoffs-2023-list/)
 - [Watch NASA build its VIPER moon rover with these free online watch parties](https://www.space.com/nasa-viper-moon-rover-assembly-watch-parties)
-- [Launch contracts are “basically worthless” until a rocket is proven and flying, Rocket Lab CEO says](https://techcrunch.com/2023/11/09/launch-contracts-are-worthless-until-a-rocket-is-proven-and-flying-rocket-lab-ceo-says/)
-- [Virgin Galactic to ground its VSS Unity space plane next year: report](https://www.space.com/virgin-galactic-ground-vss-unity-space-plane-2024)
-- [Maine government says data breach affects 1.3 million residents](https://techcrunch.com/2023/11/09/maine-government-data-breach-clop-ransomware/)
-- [Mars, Earth, or deep space? ESA narrows down finalists for a future space mission](https://www.space.com/esa-medium-space-mission-mars-gamma-rays-plasma)
 <!-- BLOG-POST-LIST:END -->
 
 ---
