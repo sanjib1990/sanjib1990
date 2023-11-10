@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta and Snap latest to get EU request for info on child safety, as bloc shoots for ‘unprecedented’ transparency](https://techcrunch.com/2023/11/10/eu-dsa-unprecedented-transparency/)
+- [&#39;Loki&#39; season 2 episode 6 review: Finding a glorious purpose](https://www.space.com/loki-season-2-episode-6-review)
+- [Navigating startups through smart investments, outsourcing and cash preservation](https://techcrunch.com/2023/11/10/navigating-startups-through-smart-investments-outsourcing-and-cash-preservation/)
 - [7 great pieces of podcast, streaming gear to gift in 2023](https://techcrunch.com/2023/11/10/7-great-pieces-of-podcast-streaming-gear-to-gift-in-2023/)
 - [Black Friday beginner drone on sale — save $60 on the DJI Mini 3 Fly More Combo](https://www.space.com/early-black-friday-drone-deal-dji-mini-3)
-- [Prosecutors will likely proceed with SBF’s second trial in March](https://techcrunch.com/2023/11/10/another-sbf-trial/)
-- [5 Things we learned from the Epic-Google antitrust case this week](https://techcrunch.com/2023/11/10/5-things-we-learned-from-the-epic-google-antitrust-case-this-week/)
-- [3 ways startups can improve survival odds in a tough economic landscape](https://techcrunch.com/2023/11/10/3-ways-startups-can-improve-survival-odds-in-a-tough-economic-landscape/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
