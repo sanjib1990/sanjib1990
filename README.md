@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [International Space Station dodges orbital debris hours before SpaceX cargo ship&#39;s arrival: report](https://www.space.com/international-space-station-space-debris-spacex-dragon-spacecraft-arrival)
 - [&#39;Lunar swirls&#39; have confused scientists for years. New NASA moon data might clear things up](https://www.space.com/nasa-spacecraft-lunar-swirls-moon-topography)
 - [&#39;For All Mankind&#39; season 4 episode 1 review: Lots of moving parts but light on plot](https://www.space.com/for-all-mankind-season-4-episode-1-review)
 - [Polestar tackles softening EV demand with new tech and next-gen vehicles](https://techcrunch.com/2023/11/10/polestar-tackles-softening-ev-demand-with-new-tech-and-next-gen-vehicles/)
 - [AI makes you worse at what you’re good at](https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/)
-- [A volcanic eruption gave birth to a new island, and a NASA satellite saw it from space &lpar;photo&rpar;](https://www.space.com/nasa-satellite-spots-new-island-from-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
