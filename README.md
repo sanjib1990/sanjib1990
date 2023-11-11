@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: BNPL expands beyond its roots — that’s a good thing](https://techcrunch.com/2023/11/11/qomodo-buy-now-pay-later/)
+- [Veteran to visionary: What I learned in the marines about being a fintech founder](https://techcrunch.com/2023/11/11/veteran-to-visionary-what-i-learned-in-the-marines-about-being-a-fintech-founder/)
 - [How to leverage military experience to become a successful entrepreneur](https://techcrunch.com/2023/11/11/how-to-leverage-military-experience-to-become-a-successful-entrepreneur/)
 - [SpaceX set to launch 90 payloads to orbit on &#39;rideshare&#39; mission today](https://www.space.com/spacex-transporter-9-rideshare-mission-launch)
 - [This Week In Space podcast: Episode 87 — One Lunar Fizz Please](https://www.space.com/this-week-in-space-episode-87-drinking-in-space)
-- [Volcanic &#39;devil comet&#39; resprouts its horns after erupting again](https://www.space.com/devil-comet-grows-horns-after-volcanic-eruption)
-- [The Taurid meteor shower peaks tonight. Here&#39;s how to see it.](https://www.space.com/northern-taurids-peak-november-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
