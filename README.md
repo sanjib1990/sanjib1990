@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Volcanic &#39;devil comet&#39; resprouts its horns after erupting again](https://www.space.com/devil-comet-grows-horns-after-volcanic-eruption)
 - [The Taurid meteor shower peaks tonight. Here&#39;s how to see it.](https://www.space.com/northern-taurids-peak-november-2023)
 - [These highly rated lightsabers are at their lowest ever price ahead of Black Friday](https://www.space.com/early-black-friday-2023-force-fx-lightsaber-deals)
 - [Satellite data and 100-year-old images reveal quickening retreat of Greenland&#39;s glaciers](https://www.space.com/greenland-glaciers-retreat-rate-doubled)
 - [Watch SpaceX Dragon capsule arrive at the space station early on Nov. 11](https://www.space.com/spacex-dragon-crs-29-cargo-mission-arrive-iss)
-- [International Space Station dodges orbital debris hours before SpaceX cargo ship&#39;s arrival: report](https://www.space.com/international-space-station-space-debris-spacex-dragon-spacecraft-arrival)
 <!-- BLOG-POST-LIST:END -->
 
 ---
