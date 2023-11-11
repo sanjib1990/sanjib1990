@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Taurid meteor shower peaks tonight. Here&#39;s how to see it.](https://www.space.com/northern-taurids-peak-november-2023)
 - [These highly rated lightsabers are at their lowest ever price ahead of Black Friday](https://www.space.com/early-black-friday-2023-force-fx-lightsaber-deals)
 - [Satellite data and 100-year-old images reveal quickening retreat of Greenland&#39;s glaciers](https://www.space.com/greenland-glaciers-retreat-rate-doubled)
 - [Watch SpaceX Dragon capsule arrive at the space station early on Nov. 11](https://www.space.com/spacex-dragon-crs-29-cargo-mission-arrive-iss)
 - [International Space Station dodges orbital debris hours before SpaceX cargo ship&#39;s arrival: report](https://www.space.com/international-space-station-space-debris-spacex-dragon-spacecraft-arrival)
-- [&#39;Lunar swirls&#39; have confused scientists for years. New NASA moon data might clear things up](https://www.space.com/nasa-spacecraft-lunar-swirls-moon-topography)
 <!-- BLOG-POST-LIST:END -->
 
 ---
