@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX set to launch 90 payloads to orbit on &#39;rideshare&#39; mission today](https://www.space.com/spacex-transporter-9-rideshare-mission-launch)
+- [This Week In Space podcast: Episode 87 — One Lunar Fizz Please](https://www.space.com/this-week-in-space-episode-87-drinking-in-space)
 - [Volcanic &#39;devil comet&#39; resprouts its horns after erupting again](https://www.space.com/devil-comet-grows-horns-after-volcanic-eruption)
 - [The Taurid meteor shower peaks tonight. Here&#39;s how to see it.](https://www.space.com/northern-taurids-peak-november-2023)
 - [These highly rated lightsabers are at their lowest ever price ahead of Black Friday](https://www.space.com/early-black-friday-2023-force-fx-lightsaber-deals)
-- [Satellite data and 100-year-old images reveal quickening retreat of Greenland&#39;s glaciers](https://www.space.com/greenland-glaciers-retreat-rate-doubled)
-- [Watch SpaceX Dragon capsule arrive at the space station early on Nov. 11](https://www.space.com/spacex-dragon-crs-29-cargo-mission-arrive-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
