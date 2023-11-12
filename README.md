@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Icebergs are melting fast. This AI can track them 10,000 times faster than humans](https://www.space.com/icebergs-melting-ai-tool-monitoring-shrinkage)
+- [Watch a riveting clip from MGM+&#39;s new sci-fi mystery series &#39;Beacon 23&#39; &lpar;exclusive&rpar;](https://www.space.com/watch-a-riveting-clip-from-mgms-new-sci-fi-mystery-series-beacon-23-exclusive)
+- [DART asteroid-smashing team and record-breaking astronaut Peggy Whitson honored for impact on space science](https://www.space.com/peggy-whitson-dart-receive-michael-collins-trophy)
 - [The Apollo program continues to inspire &#39;moonshots&#39; in the 21st century](https://www.space.com/apollo-program-21st-century-moonshots)
 - [OpenAI hosts a dev day, TechCrunch reviews the M3 iMac and MacBook Pro, and Bumble gets a new CEO](https://techcrunch.com/2023/11/11/openai-hosts-a-dev-day-techcrunch-reviews-the-m3-imac-and-macbook-air-and-bumble-gets-a-new-ceo/)
-- [Will Airbnb’s co-founder build your next home?](https://techcrunch.com/2023/11/11/samara-adus-backyard-homes/)
-- [SpaceX says its 2nd Starship test flight could launch on Nov. 17 &lpar;video&rpar;](https://www.space.com/spacex-starship-launch-date-november-2023)
-- [Deal Dive: BNPL expands beyond its roots — that’s a good thing](https://techcrunch.com/2023/11/11/qomodo-buy-now-pay-later/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
