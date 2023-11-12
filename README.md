@@ -98,7 +98,7 @@
 - [How Inversion Art is trying to become the Y Combinator of the arts world](https://techcrunch.com/2023/11/12/inversion-art/)
 - [Three human mistakes VCs often make, and how understanding them can help entrepreneurs fundraise better](https://techcrunch.com/2023/11/12/three-human-mistakes-vcs-often-make-and-how-understanding-them-can-help-entrepreneurs-fundraise-better/)
 - [Klarna’s and Affirm’s very good week](https://techcrunch.com/2023/11/12/klarna-and-affirms-very-good-week/)
-- [SpaceX to launch O3b mPOWER communication satellites today on its 84th mission of 2023](https://www.space.com/spacex-falcon-9-launch-o3b-mpower-5-6-nov-2023)
+- [SpaceX launches O3b mPOWER communication satellites on its 84th mission of 2023](https://www.space.com/spacex-falcon-9-launch-o3b-mpower-5-6-nov-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
