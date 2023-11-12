@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Inversion Art is trying to become the Y Combinator of the arts world](https://techcrunch.com/2023/11/12/inversion-art/)
+- [Three human mistakes VCs often make, and how understanding them can help entrepreneurs fundraise better](https://techcrunch.com/2023/11/12/three-human-mistakes-vcs-often-make-and-how-understanding-them-can-help-entrepreneurs-fundraise-better/)
+- [Klarna’s and Affirm’s very good week](https://techcrunch.com/2023/11/12/klarna-and-affirms-very-good-week/)
 - [SpaceX to launch O3b mPOWER communication satellites today on its 84th mission of 2023](https://www.space.com/spacex-falcon-9-launch-o3b-mpower-5-6-nov-2023)
 - [Robotics Q&amp;A: CMU’s Matthew Johnson-Roberson](https://techcrunch.com/2023/11/12/robotics-qa-cmus-matthew-johnson-roberson/)
-- [Icebergs are melting fast. This AI can track them 10,000 times faster than humans](https://www.space.com/icebergs-melting-ai-tool-monitoring-shrinkage)
-- [DART asteroid-smashing team and record-breaking astronaut Peggy Whitson honored for impact on space science](https://www.space.com/peggy-whitson-dart-receive-michael-collins-trophy)
-- [Watch a riveting clip from MGM+&#39;s new sci-fi mystery series &#39;Beacon 23&#39; &lpar;exclusive&rpar;](https://www.space.com/watch-a-riveting-clip-from-mgms-new-sci-fi-mystery-series-beacon-23-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
