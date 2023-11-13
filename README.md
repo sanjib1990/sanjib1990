@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Lego Space: 1978-1992&#39; takes off for a brick-filled blast from the past](https://www.space.com/lego-space-dark-horse-books-deluxe-edition)
-- [Threads now lets users opt out of having their posts appear on Facebook and Instagram](https://techcrunch.com/2023/11/13/threads-now-lets-users-opt-out-of-having-their-posts-appear-on-facebook-and-instagram/)
-- [Are we at the start of a new crypto bull cycle?](https://techcrunch.com/2023/11/13/are-we-at-the-start-of-a-new-crypto-bull-cycle/)
-- [November&#39;s new moon lets the winter constellations shine bright tonight](https://www.space.com/new-moon-november-2023)
-- [Should I buy a drone on Black Friday 2023?](https://www.space.com/should-i-buy-a-drone-black-friday-deals)
+- [This VC firm thinks that AI automation could resurrect startup valuations](https://techcrunch.com/2023/11/13/battery-ventures-startup-valuations/)
+- [Is the vacuum of space truly empty?](https://www.space.com/is-the-vacuum-of-space-truly-empty)
+- [Astronomers pierce cosmic dust to study the anatomy of a dying star](https://www.space.com/igrins-2-spectrograph-jewel-bug-nebula)
+- [Elon Musk says X is changing its algorithm to highlight smaller accounts](https://techcrunch.com/2023/11/13/elon-musk-says-x-is-changing-its-algorithm-to-highlight-smaller-accounts/)
+- [Healthcare giant McLaren reveals data on 2.2 million patients stolen during ransomware attack](https://techcrunch.com/2023/11/13/mclaren-cyberattack-millions-patients-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
