@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise spirals and LTA’s airship breaks cover in Silicon Valley](https://techcrunch.com/2023/11/12/cruise-spirals-and-ltas-airship-breaks-cover-in-silicon-valley/)
 - [Bose QuietComfort Ultra earn their name and maybe even their $429 price tag](https://techcrunch.com/2023/11/12/bose-quietcomfort-ultra-earn-their-name-and-maybe-even-their-4249-price-tag/)
 - [Keep IT complexity in check with pragmatic composable commerce](https://techcrunch.com/2023/11/12/keep-it-complexity-in-check-with-pragmatic-composable-commerce/)
 - [How Inversion Art is trying to become the Y Combinator of the arts world](https://techcrunch.com/2023/11/12/inversion-art/)
 - [Three human mistakes VCs often make, and how understanding them can help entrepreneurs fundraise better](https://techcrunch.com/2023/11/12/three-human-mistakes-vcs-often-make-and-how-understanding-them-can-help-entrepreneurs-fundraise-better/)
-- [Klarna’s and Affirm’s very good week](https://techcrunch.com/2023/11/12/klarna-and-affirms-very-good-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
