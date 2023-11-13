@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After six quarters of falling venture interest, crypto investors see recent price gains as positive signal](https://techcrunch.com/2023/11/13/crypto-investors-optimism/)
+- [Chickasaw astronaut &#39;signs&#39; patches for Native American girls&#39; Space Camp fund](https://www.space.com/astronaut-john-herrington-signature-edition-patch)
 - [This VC firm thinks that AI automation could resurrect startup valuations](https://techcrunch.com/2023/11/13/battery-ventures-startup-valuations/)
 - [Is the vacuum of space truly empty?](https://www.space.com/is-the-vacuum-of-space-truly-empty)
 - [Astronomers pierce cosmic dust to study the anatomy of a dying star](https://www.space.com/igrins-2-spectrograph-jewel-bug-nebula)
-- [Elon Musk says X is changing its algorithm to highlight smaller accounts](https://techcrunch.com/2023/11/13/elon-musk-says-x-is-changing-its-algorithm-to-highlight-smaller-accounts/)
-- [Healthcare giant McLaren reveals data on 2.2 million patients stolen during ransomware attack](https://techcrunch.com/2023/11/13/mclaren-cyberattack-millions-patients-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
