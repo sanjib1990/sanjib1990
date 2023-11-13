@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Lego Space: 1978-1992&#39; takes off for a brick-filled blast from the past](https://www.space.com/lego-space-dark-horse-books-deluxe-edition)
+- [Threads now lets users opt out of having their posts appear on Facebook and Instagram](https://techcrunch.com/2023/11/13/threads-now-lets-users-opt-out-of-having-their-posts-appear-on-facebook-and-instagram/)
+- [Are we at the start of a new crypto bull cycle?](https://techcrunch.com/2023/11/13/are-we-at-the-start-of-a-new-crypto-bull-cycle/)
 - [November&#39;s new moon lets the winter constellations shine bright tonight](https://www.space.com/new-moon-november-2023)
 - [Should I buy a drone on Black Friday 2023?](https://www.space.com/should-i-buy-a-drone-black-friday-deals)
-- [More from the US v Google trial: vertical search, pre-installs and the case of Firefox/Yahoo](https://techcrunch.com/2023/11/13/more-from-the-us-v-google-trial-vertical-search-pre-installs-and-the-case-of-firefox-yahoo/)
-- [Dating app Hatched brings its hidden profile concept to the East Coast, launches new paid features](https://techcrunch.com/2023/11/13/dating-app-hatched-brings-its-hidden-profile-concept-to-the-east-coast-launches-new-paid-features/)
-- [Interplay secures $45M for third fund focused on B2B marketplaces, vertical software](https://techcrunch.com/2023/11/13/interplay-fund-venture-capital-b2b-marketplaces-vertical-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
