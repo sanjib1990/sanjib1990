@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [November&#39;s new moon lets the winter constellations shine bright tonight](https://www.space.com/new-moon-november-2023)
+- [Should I buy a drone on Black Friday 2023?](https://www.space.com/should-i-buy-a-drone-black-friday-deals)
+- [More from the US v Google trial: vertical search, pre-installs and the case of Firefox/Yahoo](https://techcrunch.com/2023/11/13/more-from-the-us-v-google-trial-vertical-search-pre-installs-and-the-case-of-firefox-yahoo/)
+- [Dating app Hatched brings its hidden profile concept to the East Coast, launches new paid features](https://techcrunch.com/2023/11/13/dating-app-hatched-brings-its-hidden-profile-concept-to-the-east-coast-launches-new-paid-features/)
 - [Interplay secures $45M for third fund focused on B2B marketplaces, vertical software](https://techcrunch.com/2023/11/13/interplay-fund-venture-capital-b2b-marketplaces-vertical-software/)
-- [The oldest continents in the Milky Way may be 5 billion years older than Earth&#39;s](https://www.space.com/oldest-milky-way-continents-5-billion-years-older-than-earth)
-- [The best tech gifts under $50 to consider in 2023](https://techcrunch.com/2023/11/13/the-best-tech-gifts-under-50-to-consider-in-2023/)
-- [Hunt for Uranus tonight in a dark sky, thanks to November&#39;s new moon](https://www.space.com/dark-skies-new-moon-uranus-sighting-november)
-- [James Webb telescope finds an &#39;extreme&#39; glow coming from 90% of the universe&#39;s earliest galaxies](https://www.space.com/james-webb-space-telescope-extreme-glow-from-90-percent-early-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
