@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interplay secures $45M for third fund focused on B2B marketplaces, vertical software](https://techcrunch.com/2023/11/13/interplay-fund-venture-capital-b2b-marketplaces-vertical-software/)
+- [The oldest continents in the Milky Way may be 5 billion years older than Earth&#39;s](https://www.space.com/oldest-milky-way-continents-5-billion-years-older-than-earth)
 - [The best tech gifts under $50 to consider in 2023](https://techcrunch.com/2023/11/13/the-best-tech-gifts-under-50-to-consider-in-2023/)
 - [Hunt for Uranus tonight in a dark sky, thanks to November&#39;s new moon](https://www.space.com/dark-skies-new-moon-uranus-sighting-november)
 - [James Webb telescope finds an &#39;extreme&#39; glow coming from 90% of the universe&#39;s earliest galaxies](https://www.space.com/james-webb-space-telescope-extreme-glow-from-90-percent-early-galaxies)
-- [Shekel Mobility, a B2B marketplace for auto dealers in Africa, raises $7M led by Ventures Platform and MaC VC](https://techcrunch.com/2023/11/13/shekel-mobility-a-b2b-marketplace-for-auto-dealers-in-africa-raises-7m-led-by-ventures-platform-and-mac-vc/)
-- [See the sun&#39;s savage surface like never before in new timelapse video](https://www.space.com/sun-timelapse-solar-activity-dark-sky-view)
 <!-- BLOG-POST-LIST:END -->
 
 ---
