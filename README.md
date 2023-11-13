@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the epic new trailer for Netflix&#39;s upcoming sci-fi film &#39;Rebel Moon&#39; &lpar;video&rpar;](https://www.space.com/rebel-moon-netflix-trailer-poster)
-- [Use LinkedIn to raise a Series A](https://techcrunch.com/2023/11/13/use-linkedin-to-raise-a-series-a/)
-- [The Predator franchise is due for a big comeback following the success of &#39;Prey&#39;](https://www.space.com/predator-franchise-comeback-prey)
-- [AI chemist finds molecule to make oxygen on Mars after sifting through millions](https://www.space.com/mars-oxygen-ai-robot-chemist-splitting-water)
-- [&#39;The Expanse&#39; authors to launch epic new space opera &#39;The Mercy of Gods&#39; in August 2024](https://www.space.com/the-expanse-authors-to-launch-epic-new-space-opera-the-mercy-of-gods-in-aug-2024)
+- [I&#39;ve been a space reporter for 23 years and Starfield&#39;s Constellation Edition is an epic Apollo-era treat &lpar;video&rpar;](https://www.space.com/starfield-constellation-edition-apollo-12-space-reporter-opening-video)
+- [Pebble, a startup that tried and failed to take on Twitter, finds new life on Mastodon](https://techcrunch.com/2023/11/13/pebble-a-startup-that-tried-and-failed-to-take-on-twitter-finds-new-life-on-mastodon/)
+- [‘Deepwashing’ risks dampening progress in European climate tech investing](https://techcrunch.com/2023/11/13/deepwashing-risks-dampening-progress-in-european-climate-tech-investing/)
+- [Exxon wants to drill enough lithium out of Arkansas to power 1M EVs per year](https://techcrunch.com/2023/11/13/exxon-wants-to-drill-enough-lithium-out-of-arkansas-to-power-1m-evs-per-year/)
+- [Obskur’s Character Creator and marketplace streamlines VTubing](https://techcrunch.com/2023/11/13/obskur-character-creator-vtuber-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
