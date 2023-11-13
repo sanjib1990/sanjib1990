@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best tech gifts under $50 to consider in 2023](https://techcrunch.com/2023/11/13/the-best-tech-gifts-under-50-to-consider-in-2023/)
+- [Hunt for Uranus tonight in a dark sky, thanks to November&#39;s new moon](https://www.space.com/dark-skies-new-moon-uranus-sighting-november)
+- [James Webb telescope finds an &#39;extreme&#39; glow coming from 90% of the universe&#39;s earliest galaxies](https://www.space.com/james-webb-space-telescope-extreme-glow-from-90-percent-early-galaxies)
 - [Shekel Mobility, a B2B marketplace for auto dealers in Africa, raises $7M led by Ventures Platform and MaC VC](https://techcrunch.com/2023/11/13/shekel-mobility-a-b2b-marketplace-for-auto-dealers-in-africa-raises-7m-led-by-ventures-platform-and-mac-vc/)
 - [See the sun&#39;s savage surface like never before in new timelapse video](https://www.space.com/sun-timelapse-solar-activity-dark-sky-view)
-- [Cruise spirals and LTA’s airship breaks cover in Silicon Valley](https://techcrunch.com/2023/11/12/cruise-spirals-and-ltas-airship-breaks-cover-in-silicon-valley/)
-- [Bose QuietComfort Ultra earn their name and maybe even their $429 price tag](https://techcrunch.com/2023/11/12/bose-quietcomfort-ultra-earn-their-name-and-maybe-even-their-4249-price-tag/)
-- [Keep IT complexity in check with pragmatic composable commerce](https://techcrunch.com/2023/11/12/keep-it-complexity-in-check-with-pragmatic-composable-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
