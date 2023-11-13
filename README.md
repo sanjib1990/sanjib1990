@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Predator franchise is due for a big comeback following the success of &#39;Prey&#39;](https://www.space.com/predator-franchise-comeback-prey)
 - [AI chemist finds molecule to make oxygen on Mars after sifting through millions](https://www.space.com/mars-oxygen-ai-robot-chemist-splitting-water)
 - [&#39;The Expanse&#39; authors to launch epic new space opera &#39;The Mercy of Gods&#39; in August 2024](https://www.space.com/the-expanse-authors-to-launch-epic-new-space-opera-the-mercy-of-gods-in-aug-2024)
 - [Joby, Volocopter fly electric air taxis over New York City](https://techcrunch.com/2023/11/13/joby-volocopter-fly-electric-air-taxis-over-new-york-city/)
 - [Uber takes steps to combat unfair driver deactivations](https://techcrunch.com/2023/11/13/uber-takes-steps-to-combat-unfair-driver-deactivations/)
-- [After six quarters of falling venture interest, crypto investors see recent price gains as positive signal](https://techcrunch.com/2023/11/13/crypto-investors-optimism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
