@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monta Vista Capital closes its largest fund to date](https://techcrunch.com/2023/11/14/monta-vista-capital-closes-its-largest-fund-to-date/)
+- [European Space Agency signs on to upcoming &#39;Starlab&#39; space station](https://www.space.com/starlab-space-station-esa-airbus-voyager-space)
+- [Should I buy a star projector on Black Friday 2023?](https://www.space.com/should-i-buy-star-projector-black-friday-deals)
 - [James Webb Space Telescope finds 2 of the most distant galaxies ever seen](https://www.space.com/james-webb-space-telescope-distant-galaxies)
 - [Giskard’s open-source framework evaluates AI models before they’re pushed into production](https://techcrunch.com/2023/11/14/giskards-open-source-framework-evaluates-ai-models-before-theyre-pushed-into-production/)
-- [Nepal joins a growing list of countries banning TikTok](https://techcrunch.com/2023/11/14/nepal-joins-a-growing-list-of-countries-banning-tiktok/)
-- [Etaily is a “one stop solution” for consumer brands that want to enter Southeast Asia](https://techcrunch.com/2023/11/13/etaily/)
-- [SETI Institute gets $200 million to seek out evidence of alien life](https://www.space.com/searth-extraterrestrial-life-major-funding-boost-seti)
 <!-- BLOG-POST-LIST:END -->
 
 ---
