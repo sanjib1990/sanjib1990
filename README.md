@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Online pet goods retailer Chewy lays off 200+ employees](https://techcrunch.com/2023/11/14/online-pet-goods-retailer-chewy-lays-off-200-employees/)
-- [Minecraft goes cosmic with new Jedi-centric &#39;Star Wars: Path of the Jedi DLC&#39; &lpar;video&rpar;](https://www.space.com/minecraft-star-wars-path-of-the-jedi-dlc)
-- [Dark matter data salvaged from balloon-borne telescope that landed hard on Earth](https://www.space.com/superbit-balloon-telescope-dark-matter-data-salvaged)
-- [Amazon introduces new Buy with Prime perks, such as tracking and returns](https://techcrunch.com/2023/11/14/amazon-introduces-new-buy-with-prime-perks-such-as-tracking-and-returns/)
-- [Amazon Games will close its Crown channel on Twitch and cut 180 jobs](https://techcrunch.com/2023/11/14/amazon-games-will-close-its-crown-channel-on-twitch-and-cut-180-jobs/)
+- [Hackers are exploiting ‘CitrixBleed’ bug in the latest wave of mass cyberattacks](https://techcrunch.com/2023/11/14/citrix-bleed-critical-bug-ransomware-mass-cyberattacks/)
+- [Record-breaking &#39;BOAT&#39; gamma-ray burst continues to amaze scientists](https://www.space.com/boat-gamma-ray-burst-earth-ionosphere-ozone-bright)
+- [X is leaving up antisemitic and Islamophobia hate, new report shows](https://techcrunch.com/2023/11/14/x-is-leaving-up-antisemitic-and-islamophobia-hate-new-report-shows/)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/14/tech-layoffs-2023-list/)
+- [Use intellectual property to secure debt and equity-based funding](https://techcrunch.com/2023/11/14/use-intellectual-property-to-secure-debt-and-equity-based-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
