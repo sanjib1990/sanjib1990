@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Earth has many objects in orbit but definitely only one moon — despite what some people think](https://www.space.com/earth-only-has-one-moon-despite-what-some-think)
-- [Airbnb acquires secretive firm launched by Siri co-founder](https://techcrunch.com/2023/11/14/airbnb-acquires-secretive-firm-launched-by-siri-co-founder/)
-- [Amazon strikes deal with Snap to let users buy its products from ads on Snapchat](https://techcrunch.com/2023/11/14/amazon-strikes-deal-snap-let-users-buy-products-ads-snapchat/)
-- [A software update bricked Rivian infotainment systems](https://techcrunch.com/2023/11/14/a-software-update-bricked-rivian-infotainment-systems/)
-- [Why supersize convenience stores might be key to unlocking EV fast charging](https://techcrunch.com/2023/11/14/buc-ees-mercedes-partnership/)
+- [Online pet goods retailer Chewy lays off 200+ employees](https://techcrunch.com/2023/11/14/online-pet-goods-retailer-chewy-lays-off-200-employees/)
+- [Minecraft goes cosmic with new Jedi-centric &#39;Star Wars: Path of the Jedi DLC&#39; &lpar;video&rpar;](https://www.space.com/minecraft-star-wars-path-of-the-jedi-dlc)
+- [Dark matter data salvaged from balloon-borne telescope that landed hard on Earth](https://www.space.com/superbit-balloon-telescope-dark-matter-data-salvaged)
+- [Amazon introduces new Buy with Prime perks, such as tracking and returns](https://techcrunch.com/2023/11/14/amazon-introduces-new-buy-with-prime-perks-such-as-tracking-and-returns/)
+- [Amazon Games will close its Crown channel on Twitch and cut 180 jobs](https://techcrunch.com/2023/11/14/amazon-games-will-close-its-crown-channel-on-twitch-and-cut-180-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
