@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Giskard’s open-source framework evaluates AI models before they’re pushed into production](https://techcrunch.com/2023/11/14/giskards-open-source-framework-evaluates-ai-models-before-theyre-pushed-into-production/)
 - [Nepal joins a growing list of countries banning TikTok](https://techcrunch.com/2023/11/14/nepal-joins-a-growing-list-of-countries-banning-tiktok/)
 - [Etaily is a “one stop solution” for consumer brands that want to enter Southeast Asia](https://techcrunch.com/2023/11/13/etaily/)
 - [SETI Institute gets $200 million to seek out evidence of alien life](https://www.space.com/searth-extraterrestrial-life-major-funding-boost-seti)
 - [I&#39;ve been a space reporter for 23 years and Starfield&#39;s Constellation Edition is an epic Apollo-era treat &lpar;video&rpar;](https://www.space.com/starfield-constellation-edition-apollo-12-space-reporter-opening-video)
-- [Pebble, a startup that tried and failed to take on Twitter, finds new life on Mastodon](https://techcrunch.com/2023/11/13/pebble-a-startup-that-tried-and-failed-to-take-on-twitter-finds-new-life-on-mastodon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
