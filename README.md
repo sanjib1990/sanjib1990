@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CPG manufacturing platform Keychain raises $18 million](https://techcrunch.com/2023/11/14/cpg-manufacturing-platform-keychain-raises-18-million/)
+- [Venmo gets a new way to split expenses among groups](https://techcrunch.com/2023/11/14/venmo-gets-a-new-way-to-split-expenses-among-groups-like-clubs-teams-trip-buddies-and-more/)
+- [Is the truth out there? Garrett M. Graff on his new UFO book &lpar;exclusive&rpar;](https://www.space.com/garrett-graff-ufo-book-interview)
+- [TikTok’s newest feature lets you save favorite songs directly to Spotify or Amazon Music](https://techcrunch.com/2023/11/14/tiktoks-newest-feature-lets-you-save-favorite-songs-directly-to-spotify-or-amazon-music/)
 - [Monta Vista Capital closes its largest fund to date](https://techcrunch.com/2023/11/14/monta-vista-capital-closes-its-largest-fund-to-date/)
-- [European Space Agency signs on to upcoming &#39;Starlab&#39; space station](https://www.space.com/starlab-space-station-esa-airbus-voyager-space)
-- [Should I buy a star projector on Black Friday 2023?](https://www.space.com/should-i-buy-star-projector-black-friday-deals)
-- [James Webb Space Telescope finds 2 of the most distant galaxies ever seen](https://www.space.com/james-webb-space-telescope-distant-galaxies)
-- [Giskard’s open-source framework evaluates AI models before they’re pushed into production](https://techcrunch.com/2023/11/14/giskards-open-source-framework-evaluates-ai-models-before-theyre-pushed-into-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
