@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s SPHEREx mission aims to map 450 million galaxies and 100 million stars](https://www.space.com/nasa-spherex-map-450-million-galaxies)
+- [Former YC Continuity head targets $350 million growth-stage fund](https://techcrunch.com/2023/11/14/former-yc-continuity-head-targets-350-million-growth-stage-fund/)
 - [Hackers are exploiting ‘CitrixBleed’ bug in the latest wave of mass cyberattacks](https://techcrunch.com/2023/11/14/citrix-bleed-critical-bug-ransomware-mass-cyberattacks/)
 - [Record-breaking &#39;BOAT&#39; gamma-ray burst continues to amaze scientists](https://www.space.com/boat-gamma-ray-burst-earth-ionosphere-ozone-bright)
-- [X is leaving up antisemitic and Islamophobia hate, new report shows](https://techcrunch.com/2023/11/14/x-is-leaving-up-antisemitic-and-islamophobia-hate-new-report-shows/)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/14/tech-layoffs-2023-list/)
-- [Use intellectual property to secure debt and equity-based funding](https://techcrunch.com/2023/11/14/use-intellectual-property-to-secure-debt-and-equity-based-funding/)
+- [X is leaving up antisemitic and Islamophobic hate, new report shows](https://techcrunch.com/2023/11/14/x-is-leaving-up-antisemitic-and-islamophobia-hate-new-report-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
