@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Etaily is a “one stop solution” for consumer brands that want to enter Southeast Asia](https://techcrunch.com/2023/11/13/etaily/)
+- [SETI Institute gets $200 million to seek out evidence of alien life](https://www.space.com/searth-extraterrestrial-life-major-funding-boost-seti)
 - [I&#39;ve been a space reporter for 23 years and Starfield&#39;s Constellation Edition is an epic Apollo-era treat &lpar;video&rpar;](https://www.space.com/starfield-constellation-edition-apollo-12-space-reporter-opening-video)
 - [Pebble, a startup that tried and failed to take on Twitter, finds new life on Mastodon](https://techcrunch.com/2023/11/13/pebble-a-startup-that-tried-and-failed-to-take-on-twitter-finds-new-life-on-mastodon/)
 - [‘Deepwashing’ risks dampening progress in European climate tech investing](https://techcrunch.com/2023/11/13/deepwashing-risks-dampening-progress-in-european-climate-tech-investing/)
-- [Exxon wants to drill enough lithium out of Arkansas to power 1M EVs per year](https://techcrunch.com/2023/11/13/exxon-wants-to-drill-enough-lithium-out-of-arkansas-to-power-1m-evs-per-year/)
-- [Obskur’s Character Creator and marketplace streamlines VTubing](https://techcrunch.com/2023/11/13/obskur-character-creator-vtuber-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
