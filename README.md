@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches world&#39;s 1st satellite that can pinpoint carbon emissions from space](https://www.space.com/spacex-launch-ghgsat-carbon-emissions-satellite)
-- [Courtesy of AI: Weather forecasts for the hour, the week, and the century](https://techcrunch.com/2023/11/14/courtesy-of-ai-weather-forecasts-for-the-hour-the-week-and-the-century/)
-- [Instagram brings Close Friends feature to the main feed](https://techcrunch.com/2023/11/14/instagram-brings-close-friends-feature-to-the-main-feed/)
-- [The sun may be smaller than we thought](https://www.space.com/sun-maybe-smaller-than-thought)
-- [Baton, a music collaboration platform for unreleased material, raises $4.2M](https://techcrunch.com/2023/11/14/baton-a-music-collaboration-platform-for-unreleased-material-raises-4-million/)
+- [Earth has many objects in orbit but definitely only one moon — despite what some people think](https://www.space.com/earth-only-has-one-moon-despite-what-some-think)
+- [Airbnb acquires secretive firm launched by Siri co-founder](https://techcrunch.com/2023/11/14/airbnb-acquires-secretive-firm-launched-by-siri-co-founder/)
+- [Amazon strikes deal with Snap to let users buy its products from ads on Snapchat](https://techcrunch.com/2023/11/14/amazon-strikes-deal-snap-let-users-buy-products-ads-snapchat/)
+- [A software update bricked Rivian infotainment systems](https://techcrunch.com/2023/11/14/a-software-update-bricked-rivian-infotainment-systems/)
+- [Why supersize convenience stores might be key to unlocking EV fast charging](https://techcrunch.com/2023/11/14/buc-ees-mercedes-partnership/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
