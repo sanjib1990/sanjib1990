@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CPG manufacturing platform Keychain raises $18 million](https://techcrunch.com/2023/11/14/cpg-manufacturing-platform-keychain-raises-18-million/)
-- [Venmo gets a new way to split expenses among groups](https://techcrunch.com/2023/11/14/venmo-gets-a-new-way-to-split-expenses-among-groups-like-clubs-teams-trip-buddies-and-more/)
-- [Is the truth out there? Garrett M. Graff on his new UFO book &lpar;exclusive&rpar;](https://www.space.com/garrett-graff-ufo-book-interview)
-- [TikTok’s newest feature lets you save favorite songs directly to Spotify or Amazon Music](https://techcrunch.com/2023/11/14/tiktoks-newest-feature-lets-you-save-favorite-songs-directly-to-spotify-or-amazon-music/)
-- [Monta Vista Capital closes its largest fund to date](https://techcrunch.com/2023/11/14/monta-vista-capital-closes-its-largest-fund-to-date/)
+- [Courtesy of AI: Weather forecasts for the hour, the week, and the century](https://techcrunch.com/2023/11/14/courtesy-of-ai-weather-forecasts-for-the-hour-the-week-and-the-century/)
+- [Instagram brings Close Friends feature to the main feed](https://techcrunch.com/2023/11/14/instagram-brings-close-friends-feature-to-the-main-feed/)
+- [The sun may be smaller than we thought](https://www.space.com/sun-maybe-smaller-than-thought)
+- [Baton, a music collaboration platform for unreleased material, raises $4.2M](https://techcrunch.com/2023/11/14/baton-a-music-collaboration-platform-for-unreleased-material-raises-4-million/)
+- [You.com launches new APIs to connect LLMs to the web](https://techcrunch.com/2023/11/14/you-com-launches-new-apis-to-connect-llms-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
