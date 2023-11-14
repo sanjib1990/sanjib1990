@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches world&#39;s 1st satellite that can pinpoint carbon emissions from space](https://www.space.com/spacex-launch-ghgsat-carbon-emissions-satellite)
 - [Courtesy of AI: Weather forecasts for the hour, the week, and the century](https://techcrunch.com/2023/11/14/courtesy-of-ai-weather-forecasts-for-the-hour-the-week-and-the-century/)
 - [Instagram brings Close Friends feature to the main feed](https://techcrunch.com/2023/11/14/instagram-brings-close-friends-feature-to-the-main-feed/)
 - [The sun may be smaller than we thought](https://www.space.com/sun-maybe-smaller-than-thought)
 - [Baton, a music collaboration platform for unreleased material, raises $4.2M](https://techcrunch.com/2023/11/14/baton-a-music-collaboration-platform-for-unreleased-material-raises-4-million/)
-- [You.com launches new APIs to connect LLMs to the web](https://techcrunch.com/2023/11/14/you-com-launches-new-apis-to-connect-llms-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
