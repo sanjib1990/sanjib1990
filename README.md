@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgraded Tesla Cyberquad for Kids back on sale after safety recall](https://techcrunch.com/2023/11/14/upgraded-tesla-cyberquad-for-kids-back-on-sale-after-safety-recall/)
+- [Tesla hits reverse on threat to sue Cybertruck resellers](https://techcrunch.com/2023/11/14/tesla-hits-reverse-on-threat-to-sue-cybertruck-resellers/)
 - [NASA&#39;s SPHEREx mission aims to map 450 million galaxies and 100 million stars](https://www.space.com/nasa-spherex-map-450-million-galaxies)
 - [Former YC Continuity head targets $350 million growth-stage fund](https://techcrunch.com/2023/11/14/former-yc-continuity-head-targets-350-million-growth-stage-fund/)
 - [What is Bluesky? Everything to know about the app trying to replace Twitter](https://techcrunch.com/2023/11/14/what-is-bluesky-everything-to-know-about-the-app-trying-to-replace-twitter/)
-- [Hackers are exploiting ‘CitrixBleed’ bug in the latest wave of mass cyberattacks](https://techcrunch.com/2023/11/14/citrix-bleed-critical-bug-ransomware-mass-cyberattacks/)
-- [Record-breaking &#39;BOAT&#39; gamma-ray burst continues to amaze scientists](https://www.space.com/boat-gamma-ray-burst-earth-ionosphere-ozone-bright)
 <!-- BLOG-POST-LIST:END -->
 
 ---
