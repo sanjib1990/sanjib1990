@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Morpheus Space developed a space mission design platform so intuitive even I could use it](https://techcrunch.com/2023/11/14/morpheus-space-developed-a-space-mission-design-platform-so-intuitive-even-i-could-use-it/)
+- [Lego unveils epic Marvel Avengers Tower set with Black Friday deals and offers for Insiders](https://www.space.com/lego-black-friday-2023-marvel-avengers-tower-deals)
 - [Upgraded Tesla Cyberquad for Kids back on sale after safety recall](https://techcrunch.com/2023/11/14/upgraded-tesla-cyberquad-for-kids-back-on-sale-after-safety-recall/)
 - [Tesla hits reverse on threat to sue Cybertruck resellers](https://techcrunch.com/2023/11/14/tesla-hits-reverse-on-threat-to-sue-cybertruck-resellers/)
 - [NASA&#39;s SPHEREx mission aims to map 450 million galaxies and 100 million stars](https://www.space.com/nasa-spherex-map-450-million-galaxies)
-- [Former YC Continuity head targets $350 million growth-stage fund](https://techcrunch.com/2023/11/14/former-yc-continuity-head-targets-350-million-growth-stage-fund/)
-- [What is Bluesky? Everything to know about the app trying to replace Twitter](https://techcrunch.com/2023/11/14/what-is-bluesky-everything-to-know-about-the-app-trying-to-replace-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
