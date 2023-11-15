@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Defining Cybersecurity with Eugene Spafford - Computerphile](https://www.youtube.com/watch?v=olgGZmkkooU)
+- [Defining Cybersecurity with Gene Spafford - Computerphile](https://www.youtube.com/watch?v=olgGZmkkooU)
 - [True Random Numbers - Computerphile](https://www.youtube.com/watch?v=aEJB8IAMMpA)
 - [Binary Search Algorithm - Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk)
 - [Put your website on the Dark Web](https://www.youtube.com/watch?v=CurcakgurRE)
