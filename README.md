@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope reveals sandy surprise in distant planet](https://www.space.com/james-webb-space-telescope-exoplanet-sand-clouds-atmosphere)
-- [The bull case for software growth in 2024](https://techcrunch.com/2023/11/15/the-bull-case-for-software-growth-in-2024/)
-- [Here are this year’s top 40 startups at Station F](https://techcrunch.com/2023/11/15/here-are-this-years-top-40-startups-at-station-f/)
-- [To find success as a woman founder, embrace your scrappy side](https://techcrunch.com/2023/11/15/to-find-success-as-a-woman-founder-embrace-your-scrappy-side/)
-- [iPhone 14 users get an additional free year of Apple’s Emergency SOS via satellite feature](https://techcrunch.com/2023/11/15/iphone-14-users-get-an-additional-free-year-of-apples-emergency-sos-via-satellite-feature/)
+- [US says Royal ransomware gang plans ‘Blacksuit’ rebrand](https://techcrunch.com/2023/11/15/cisa-fbi-royal-ransomware-blacksuit-sanctions/)
+- [Inito, a startup that helps women quickly track fertility hormones at home, raises $6M](https://techcrunch.com/2023/11/15/inito-helps-women-quickly-track-fertility-hormones-at-home-raises-6m/)
+- [Female Founders Fund looks to raise $75 million for new fund](https://techcrunch.com/2023/11/15/female-founders-fund-75-million/)
+- [Northern lights webcams: Watch the aurora borealis online for free](https://www.space.com/northern-lights-webcams-watch-aurora-online)
+- [The time to triage is over](https://techcrunch.com/2023/11/15/the-time-to-triage-is-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
