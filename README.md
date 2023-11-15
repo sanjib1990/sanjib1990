@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital pharmacy startup Truepill says hackers accessed sensitive data of 2.3 million patients](https://techcrunch.com/2023/11/15/truepill-hackers-millions-patients/)
-- [Tech Spark AI raises $1.4 million to create ChatGPT alternative](https://techcrunch.com/2023/11/15/tech-spark-ai-closes-1-4-million-to-create-chatgpt-alternative/)
-- [26 companies sign statement against destructive anti-satellite tests](https://www.space.com/aerospace-companies-not-conduct-destructive-anti-satellite-tests)
-- [Forward Health launches CarePods, a self-contained, AI-powered doctor’s office](https://techcrunch.com/2023/11/15/forward-health-carepod-ai-doctor/)
-- [SPAC delays $350M merger with stratospheric balloon startup World View – again](https://techcrunch.com/2023/11/15/spac-delays-350m-merger-with-stratospheric-balloon-startup-world-view-again/)
+- [What you need to know about Google’s search antitrust case](https://techcrunch.com/2023/11/15/what-you-need-to-know-about-googles-search-antitrust-case/)
+- [Mindful drinking app Sunnyside lands $11.5M to launch its AI-powered coach](https://techcrunch.com/2023/11/15/mindful-drinking-app-sunnyside-lands-11-5m-to-launch-its-ai-powered-coach/)
+- [Netflix&#39;s &#39;Masters of the Universe&#39; becomes a cartoon space opera in 2024 with William Shatner and Mark Hamill &lpar;video&rpar;](https://www.space.com/masters-of-the-universe-revolution-trailer)
+- [Should I buy an FPV drone in the Black Friday deals?](https://www.space.com/should-i-buy-an-fpv-drone-black-friday)
+- [Amazon next in line for EU scrutiny over product risks and user rights](https://techcrunch.com/2023/11/15/amazon-dsa-rfi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
