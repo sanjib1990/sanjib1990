@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Peculiar&#39; aurora-like radio signal from sunspot discovered for the 1st time](https://www.space.com/sunspot-emissions-similar-to-auroras-earth)
+- [Martian’s tool automatically switches between LLMs to reduce costs](https://techcrunch.com/2023/11/15/martians-tool-automatically-switches-between-llms-to-reduce-costs/)
+- [Ramp taps AI as fintech hunts for growth](https://techcrunch.com/2023/11/15/ramp-copilot-integration/)
 - [9 million patients had data stolen after US medical transcription firm hacked](https://techcrunch.com/2023/11/15/9-million-patients-had-data-stolen-after-us-medical-transcription-firm-hacked/)
 - [Instagram adds new features, including custom AI stickers, photo filters, a clip hub and more](https://techcrunch.com/2023/11/15/instagram-adds-new-features-including-custom-ai-stickers-photo-filters-a-clip-hub-and-more/)
-- [NASA supercomputers show how Apollo 12 landing kicked up moon dust &lpar;video&rpar;](https://www.space.com/nasa-supercomputer-apollo-12-moon-landing-video)
-- [Why Norrsken founder Niklas Adalberth is betting on Africa](https://techcrunch.com/2023/11/15/why-norrsken-founder-niklas-adalberth-is-betting-on-africa/)
-- [Ask Sophie: How can I move to the US to join my co-founder?](https://techcrunch.com/2023/11/15/ask-sophie-how-can-i-move-to-the-u-s-to-join-my-co-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
