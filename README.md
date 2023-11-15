@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars probe sees Red Planet atmosphere glowing green at night](https://www.space.com/mars-nightglow-exomars-esa-visible-light)
-- [Dark matter-hunting satellite ARRAKIHS to launch in 2030. Here&#39;s how it will work](https://www.space.com/arrakihs-science-review-satellite-dark-matter-haloes)
-- [Meet Tanda, your friendly neighborhood savings, lending network](https://techcrunch.com/2023/11/15/tanda-savings-lending-network/)
-- [Remote connects talent and employers with a new job board](https://techcrunch.com/2023/11/15/remote-talent-job-board/)
-- [Bag $500 off the Canon EOS R5 in this Black Friday camera deal](https://www.space.com/canon-eos-r5-black-friday-camera-deal-2023-500-dollar-discount)
+- [Digital pharmacy startup Truepill says hackers accessed sensitive data of 2.3 million patients](https://techcrunch.com/2023/11/15/truepill-hackers-millions-patients/)
+- [Tech Spark AI raises $1.4 million to create ChatGPT alternative](https://techcrunch.com/2023/11/15/tech-spark-ai-closes-1-4-million-to-create-chatgpt-alternative/)
+- [26 companies sign statement against destructive anti-satellite tests](https://www.space.com/aerospace-companies-not-conduct-destructive-anti-satellite-tests)
+- [Forward Health launches CarePods, a self-contained, AI-powered doctor’s office](https://techcrunch.com/2023/11/15/forward-health-carepod-ai-doctor/)
+- [SPAC delays $350M merger with stratospheric balloon startup World View – again](https://techcrunch.com/2023/11/15/spac-delays-350m-merger-with-stratospheric-balloon-startup-world-view-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
