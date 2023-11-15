@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads starts testing hashtags…without the hash](https://techcrunch.com/2023/11/15/threads-starts-testing-hashtags-without-the-hash/)
+- [Microsoft combines Microsoft To Do, Planner and Project into a new Microsoft Planner in Microsoft Teams](https://techcrunch.com/2023/11/15/microsoft-combines-microsoft-to-do-planner-and-project-into-a-new-microsoft-planner-in-microsoft-teams/)
+- [Jumia reports GMV growth in physical goods across five countries and lowest losses since IPO](https://techcrunch.com/2023/11/15/jumia-reports-gmv-growth-in-physical-goods-across-five-countries-and-lowest-losses-since-ipo/)
 - [Watch SpaceX&#39;s Starship launch for 2nd time ever on Nov. 17](https://www.space.com/spacex-starship-second-space-launch-attempt-webcast)
 - [Go for launch: SpaceX receives regulatory green light for second Starship flight](https://techcrunch.com/2023/11/15/go-for-launch-spacex-receives-regulatory-green-light-for-second-starship-flight/)
-- [SpaceX gets license for 2nd launch of giant Starship rocket](https://www.space.com/spacex-faa-license-second-starship-launch)
-- [&#39;Peculiar&#39; aurora-like radio signal from sunspot discovered for the 1st time](https://www.space.com/sunspot-emissions-similar-to-auroras-earth)
-- [Martian’s tool automatically switches between LLMs to reduce costs](https://techcrunch.com/2023/11/15/martians-tool-automatically-switches-between-llms-to-reduce-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
