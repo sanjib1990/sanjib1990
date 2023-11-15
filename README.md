@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM inserts exec at Cruise as safety review expands, manual self driving paused](https://techcrunch.com/2023/11/14/gm-inserts-exec-at-cruise-as-safety-review-expands-manual-self-driving-paused/)
+- [Comets that &#39;bounce&#39; from planet to planet could spread life across the universe](https://www.space.com/comets-bouncing-seed-life-on-exoplanets)
 - [Morpheus Space developed a space mission design platform so intuitive even I could use it](https://techcrunch.com/2023/11/14/morpheus-space-developed-a-space-mission-design-platform-so-intuitive-even-i-could-use-it/)
 - [Lego unveils epic Marvel Avengers Tower set with Black Friday deals and offers for Insiders](https://www.space.com/lego-black-friday-2023-marvel-avengers-tower-deals)
 - [Upgraded Tesla Cyberquad for Kids back on sale after safety recall](https://techcrunch.com/2023/11/14/upgraded-tesla-cyberquad-for-kids-back-on-sale-after-safety-recall/)
-- [Tesla hits reverse on threat to sue Cybertruck resellers](https://techcrunch.com/2023/11/14/tesla-hits-reverse-on-threat-to-sue-cybertruck-resellers/)
-- [NASA&#39;s SPHEREx mission aims to map 450 million galaxies and 100 million stars](https://www.space.com/nasa-spherex-map-450-million-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
