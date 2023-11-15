@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon brings its home robot to businesses](https://techcrunch.com/2023/11/15/amazon-brings-its-home-robot-to-businesses/)
-- [Microsoft Teams gets an AI-powered home decorator](https://techcrunch.com/2023/11/15/microsoft-teams-gets-an-ai-driven-decorator-voice-isolation-and-more/)
-- [Bing Chat is now Copilot](https://techcrunch.com/2023/11/15/bing-chat-is-now-copilot/)
-- [Google Photos turns to AI to organize and categorize your photos for you](https://techcrunch.com/2023/11/15/google-photos-turns-to-ai-to-organize-and-categorize-your-photos-for-you/)
-- [Microsoft now has a Copilot for &lpar;almost&rpar; everything](https://techcrunch.com/2023/11/15/microsoft-now-has-a-copilot-for-almost-everything/)
+- [James Webb Space Telescope reveals sandy surprise in distant planet](https://www.space.com/james-webb-space-telescope-exoplanet-sand-clouds-atmosphere)
+- [The bull case for software growth in 2024](https://techcrunch.com/2023/11/15/the-bull-case-for-software-growth-in-2024/)
+- [Here are this year’s top 40 startups at Station F](https://techcrunch.com/2023/11/15/here-are-this-years-top-40-startups-at-station-f/)
+- [To find success as a woman founder, embrace your scrappy side](https://techcrunch.com/2023/11/15/to-find-success-as-a-woman-founder-embrace-your-scrappy-side/)
+- [iPhone 14 users get an additional free year of Apple’s Emergency SOS via satellite feature](https://techcrunch.com/2023/11/15/iphone-14-users-get-an-additional-free-year-of-apples-emergency-sos-via-satellite-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
