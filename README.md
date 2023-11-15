@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Defining Cybersecurity with Eugene Spafford - Computerphile](https://www.youtube.com/watch?v=olgGZmkkooU)
 - [True Random Numbers - Computerphile](https://www.youtube.com/watch?v=aEJB8IAMMpA)
 - [Binary Search Algorithm - Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk)
 - [Put your website on the Dark Web](https://www.youtube.com/watch?v=CurcakgurRE)
 - [The Dark Web NEEDS You!](https://www.youtube.com/watch?v=tBnJRraXDc0)
-- [Consul Service Mesh Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=s3I1kKKfjtQ)
 <!-- YOUTUBE:END -->
 
 ---
