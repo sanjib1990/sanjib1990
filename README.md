@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: How can I move to the U.S. to join my co-founder?](https://techcrunch.com/2023/11/15/ask-sophie-how-can-i-move-to-the-u-s-to-join-my-co-founder/)
+- [Supermassive black hole at heart of the Milky Way is approaching the cosmic speed limit](https://www.space.com/milky-way-supermassive-black-hole-cosmic-speed-limit)
+- [Ads watchdog files FTC complaint against X, formerly Twitter, over unlabeled ads](https://techcrunch.com/2023/11/15/ads-watchdog-files-ftc-complaint-against-x-formerly-twitter-over-unlabeled-ads/)
+- [Anthym helps colleagues form workplace connections through music](https://techcrunch.com/2023/11/15/anthym-helps-colleagues-form-workplace-connections-through-music/)
 - [US says Royal ransomware gang plans ‘Blacksuit’ rebrand](https://techcrunch.com/2023/11/15/cisa-fbi-royal-ransomware-blacksuit-sanctions/)
-- [Inito, a startup that helps women quickly track fertility hormones at home, raises $6M](https://techcrunch.com/2023/11/15/inito-helps-women-quickly-track-fertility-hormones-at-home-raises-6m/)
-- [Female Founders Fund looks to raise $75 million for new fund](https://techcrunch.com/2023/11/15/female-founders-fund-75-million/)
-- [Northern lights webcams: Watch the aurora borealis online for free](https://www.space.com/northern-lights-webcams-watch-aurora-online)
-- [The time to triage is over](https://techcrunch.com/2023/11/15/the-time-to-triage-is-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
