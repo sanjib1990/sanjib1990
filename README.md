@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Starship launch for 2nd time ever on Nov. 17](https://www.space.com/spacex-starship-second-space-launch-attempt-webcast)
+- [Go for launch: SpaceX receives regulatory green light for second Starship flight](https://techcrunch.com/2023/11/15/go-for-launch-spacex-receives-regulatory-green-light-for-second-starship-flight/)
+- [SpaceX gets license for 2nd launch of giant Starship rocket](https://www.space.com/spacex-faa-license-second-starship-launch)
 - [&#39;Peculiar&#39; aurora-like radio signal from sunspot discovered for the 1st time](https://www.space.com/sunspot-emissions-similar-to-auroras-earth)
 - [Martian’s tool automatically switches between LLMs to reduce costs](https://techcrunch.com/2023/11/15/martians-tool-automatically-switches-between-llms-to-reduce-costs/)
-- [Ramp taps AI as fintech hunts for growth](https://techcrunch.com/2023/11/15/ramp-copilot-integration/)
-- [9 million patients had data stolen after US medical transcription firm hacked](https://techcrunch.com/2023/11/15/9-million-patients-had-data-stolen-after-us-medical-transcription-firm-hacked/)
-- [Instagram adds new features, including custom AI stickers, photo filters, a clip hub and more](https://techcrunch.com/2023/11/15/instagram-adds-new-features-including-custom-ai-stickers-photo-filters-a-clip-hub-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
