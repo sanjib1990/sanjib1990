@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Telescope revisits gorgeous spiral galaxy, offering a newly filtered view &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-revisits-spiral-galaxy-photos)
-- [GM inserts exec at Cruise as safety review expands, manual self driving paused](https://techcrunch.com/2023/11/14/gm-inserts-exec-at-cruise-as-safety-review-expands-manual-self-driving-paused/)
-- [Comets that &#39;bounce&#39; from planet to planet could spread life across the universe](https://www.space.com/comets-bouncing-seed-life-on-exoplanets)
-- [Morpheus Space developed a space mission design platform so intuitive even I could use it](https://techcrunch.com/2023/11/14/morpheus-space-developed-a-space-mission-design-platform-so-intuitive-even-i-could-use-it/)
-- [Lego unveils epic Marvel Avengers Tower set with Black Friday deals and offers for Insiders](https://www.space.com/lego-black-friday-2023-marvel-avengers-tower-deals)
+- [Meet Tanda, your friendly neighborhood savings, lending network](https://techcrunch.com/2023/11/15/tanda-savings-lending-network/)
+- [Remote connects talent and employers with a new job board](https://techcrunch.com/2023/11/15/remote-talent-job-board/)
+- [Bag $500 off the Canon EOS R5 in this Black Friday camera deal](https://www.space.com/canon-eos-r5-black-friday-camera-deal-2023-500-dollar-discount)
+- [Disney’s Hotstar tops 50 million concurrent viewers in India-New Zealand cricket clash](https://techcrunch.com/2023/11/15/india-new-zealand-cricket-clash-sets-new-high-for-disney-hotstar/)
+- [Cheapest-ever Black Friday binocular deal: Nikon Prostaff P3 8x42 over 30% off](https://www.space.com/nikon-prostaff-p3-8x42-black-friday-binoculars-deal-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
