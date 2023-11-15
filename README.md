@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask Sophie: How can I move to the U.S. to join my co-founder?](https://techcrunch.com/2023/11/15/ask-sophie-how-can-i-move-to-the-u-s-to-join-my-co-founder/)
-- [Supermassive black hole at heart of the Milky Way is approaching the cosmic speed limit](https://www.space.com/milky-way-supermassive-black-hole-cosmic-speed-limit)
-- [Ads watchdog files FTC complaint against X, formerly Twitter, over unlabeled ads](https://techcrunch.com/2023/11/15/ads-watchdog-files-ftc-complaint-against-x-formerly-twitter-over-unlabeled-ads/)
-- [Anthym helps colleagues form workplace connections through music](https://techcrunch.com/2023/11/15/anthym-helps-colleagues-form-workplace-connections-through-music/)
-- [US says Royal ransomware gang plans ‘Blacksuit’ rebrand](https://techcrunch.com/2023/11/15/cisa-fbi-royal-ransomware-blacksuit-sanctions/)
+- [9 million patients had data stolen after US medical transcription firm hacked](https://techcrunch.com/2023/11/15/9-million-patients-had-data-stolen-after-us-medical-transcription-firm-hacked/)
+- [Instagram adds new features, including custom AI stickers, photo filters, a clip hub and more](https://techcrunch.com/2023/11/15/instagram-adds-new-features-including-custom-ai-stickers-photo-filters-a-clip-hub-and-more/)
+- [NASA supercomputers show how Apollo 12 landing kicked up moon dust &lpar;video&rpar;](https://www.space.com/nasa-supercomputer-apollo-12-moon-landing-video)
+- [Why Norrsken founder Niklas Adalberth is betting on Africa](https://techcrunch.com/2023/11/15/why-norrsken-founder-niklas-adalberth-is-betting-on-africa/)
+- [Ask Sophie: How can I move to the US to join my co-founder?](https://techcrunch.com/2023/11/15/ask-sophie-how-can-i-move-to-the-u-s-to-join-my-co-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
