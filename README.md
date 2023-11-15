@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars probe sees Red Planet atmosphere glowing green at night](https://www.space.com/mars-nightglow-exomars-esa-visible-light)
+- [Dark matter-hunting satellite ARRAKIHS to launch in 2030. Here&#39;s how it will work](https://www.space.com/arrakihs-science-review-satellite-dark-matter-haloes)
 - [Meet Tanda, your friendly neighborhood savings, lending network](https://techcrunch.com/2023/11/15/tanda-savings-lending-network/)
 - [Remote connects talent and employers with a new job board](https://techcrunch.com/2023/11/15/remote-talent-job-board/)
 - [Bag $500 off the Canon EOS R5 in this Black Friday camera deal](https://www.space.com/canon-eos-r5-black-friday-camera-deal-2023-500-dollar-discount)
-- [Disney’s Hotstar tops 50 million concurrent viewers in India-New Zealand cricket clash](https://techcrunch.com/2023/11/15/india-new-zealand-cricket-clash-sets-new-high-for-disney-hotstar/)
-- [Cheapest-ever Black Friday binocular deal: Nikon Prostaff P3 8x42 over 30% off](https://www.space.com/nikon-prostaff-p3-8x42-black-friday-binoculars-deal-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
