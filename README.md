@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With Muse, Unity aims to give developers generative AI that’s useful and ethical](https://techcrunch.com/2023/11/16/with-muse-unity-aims-to-give-developers-generative-ai-thats-useful-and-ethical/)
 - [Ida uses AI to prevent grocery food waste](https://techcrunch.com/2023/11/16/ida-uses-ai-to-prevent-grocery-food-waste/)
 - [EU faces privacy complaint over CSAM microtargeting ads it ran on X](https://techcrunch.com/2023/11/15/oops-2/)
 - [Refilled wants to save 100 million plastic bottles from the landfill](https://techcrunch.com/2023/11/15/refilled/)
 - [White House lays out possible rules for private space stations and more](https://www.space.com/white-house-private-space-stations-regulations)
-- [Microsoft launches a deepfakes creator at Ignite 2023 event](https://techcrunch.com/2023/11/15/microsoft-launches-a-deepfakes-creator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
