@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best techy plant gifts for green thumbs in 2023](https://techcrunch.com/2023/11/16/the-best-techy-plant-gifts-for-green-thumbs-in-2023/)
+- [Candela’s electric hydrofoiling ferry takes flight](https://techcrunch.com/2023/11/16/candela-p-12-electric-hydrofoiling-ferry-takes-flight/)
+- [How long is Earth&#39;s day? We now have the most precise answer to date](https://www.space.com/earth-day-length-measured-unprecedented-precision)
+- [DeepMind and YouTube release Lyria, a gen-AI model for music, and Dream Track to build AI tunes](https://techcrunch.com/2023/11/16/deepmind-and-youtube-release-lyria-a-gen-ai-model-for-music-and-dream-track-to-build-ai-tunes/)
 - [Feds want speed reduction tech in every new car. Are American drivers ready?](https://techcrunch.com/2023/11/16/ntsb-speed-reduction-tech-in-every-new-car/)
-- [Toyota is turning to startup Redwood Materials for critical battery materials](https://techcrunch.com/2023/11/16/toyota-turning-to-redwood-materials-critical-battery-materials-us-factory/)
-- [Black Friday telescope deal: $500 off Unistellar&#39;s eQuinox 2](https://www.space.com/unistellar-equinox-2-pre-black-friday-2023-deal-500-dollars-off)
-- [Sony A7C II Review](https://www.space.com/sony-a7c-ii-review)
-- [SpaceX&#39;s 2nd Starship launch on Nov. 17: How it will work](https://www.space.com/spacex-second-starship-launch-explainer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
