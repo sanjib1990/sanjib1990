@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Children’s tablet has malware and exposes kid’s data, researcher finds](https://techcrunch.com/2023/11/16/childrens-tablet-has-malware-and-exposes-kids-data-researcher-finds/)
-- [CreateSafe, the company behind Grimes’ voice cloning tool, launches new AI tools](https://techcrunch.com/2023/11/16/createsafe-the-company-behind-grimes-voice-cloning-tool-launches-new-ai-tools/)
-- [The Milky Way&#39;s dusty galaxy heart has a super-strange glow &lpar;photo&rpar;](https://www.space.com/milky-way-dusty-galaxy-heart-glow-photo)
-- [Paystack reduces operations outside of Africa, affecting 33 employees in Europe and Dubai](https://techcrunch.com/2023/11/16/paystack-reduces-operations-outside-of-africa-affecting-33-employees-in-europe-and-dubai/)
-- [Samsung says hackers accessed customer data during year-long breach](https://techcrunch.com/2023/11/16/samsung-hackers-customer-data-breach/)
+- [Several popular AI products flagged as unsafe for kids by Common Sense Media](https://techcrunch.com/2023/11/16/several-popular-ai-products-flagged-as-unsafe-for-kids-by-common-sense-media/)
+- [Six outdoor gear gift ideas for the adventurer in your life](https://techcrunch.com/2023/11/16/six-outdoor-gear-gift-ideas-for-the-adventurer-in-your-life/)
+- [High-energy cosmic rays may originate within the Milky Way galaxy](https://www.space.com/iss-cosmic-ray-detector-energetic-particles-milky-way)
+- [Google is opening up its Bard AI chatbot to teenagers](https://techcrunch.com/2023/11/16/google-opens-up-its-bard-ai-chatbot-to-teens-after-implementing-guardrails/)
+- [7 SaaS resiliency lessons for doing business in a volatile market](https://techcrunch.com/2023/11/16/7-saas-resiliency-lessons-for-doing-business-in-a-volatile-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
