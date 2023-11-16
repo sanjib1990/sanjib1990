@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Several popular AI products flagged as unsafe for kids by Common Sense Media](https://techcrunch.com/2023/11/16/several-popular-ai-products-flagged-as-unsafe-for-kids-by-common-sense-media/)
-- [Six outdoor gear gift ideas for the adventurer in your life](https://techcrunch.com/2023/11/16/six-outdoor-gear-gift-ideas-for-the-adventurer-in-your-life/)
-- [High-energy cosmic rays may originate within the Milky Way galaxy](https://www.space.com/iss-cosmic-ray-detector-energetic-particles-milky-way)
-- [Google is opening up its Bard AI chatbot to teenagers](https://techcrunch.com/2023/11/16/google-opens-up-its-bard-ai-chatbot-to-teens-after-implementing-guardrails/)
-- [7 SaaS resiliency lessons for doing business in a volatile market](https://techcrunch.com/2023/11/16/7-saas-resiliency-lessons-for-doing-business-in-a-volatile-market/)
+- [Blackshark.ai’s Orca Huntr lets you build orbital intelligence models with a scribble](https://techcrunch.com/2023/11/16/blackshark-ais-orca-huntr-lets-you-build-orbital-intelligence-models-with-a-scribble/)
+- [Bazooka Tango nabs $5M to develop tactical collectible card game ‘Shardbound’](https://techcrunch.com/2023/11/16/bazooka-tango-nabs-5m-to-develop-tactical-collectible-card-game-shardbound/)
+- [Aave Companies rebrands to Avara and acquires crypto wallet Family to expand its web3 reach](https://techcrunch.com/2023/11/16/aave-companies-rebrands-to-avara-and-acquires-crypto-wallet-family-to-expand-its-web3-reach/)
+- [Solar eclipses seen by long-dead Cassini spacecraft shed new light on Saturn&#39;s rings](https://www.space.com/saturn-rings-transparency-cassini-eclipse-data)
+- [How to ensure an ethical acquisition for your startup](https://techcrunch.com/2023/11/16/how-to-ensure-an-ethical-acquisition-for-your-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
