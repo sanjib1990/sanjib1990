@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Children’s tablet has malware and exposes kid’s data, researcher finds](https://techcrunch.com/2023/11/16/childrens-tablet-has-malware-and-exposes-kids-data-researcher-finds/)
+- [CreateSafe, the company behind Grimes’ voice cloning tool, launches new AI tools](https://techcrunch.com/2023/11/16/createsafe-the-company-behind-grimes-voice-cloning-tool-launches-new-ai-tools/)
+- [The Milky Way&#39;s dusty galaxy heart has a super-strange glow &lpar;photo&rpar;](https://www.space.com/milky-way-dusty-galaxy-heart-glow-photo)
+- [Paystack reduces operations outside of Africa, affecting 33 employees in Europe and Dubai](https://techcrunch.com/2023/11/16/paystack-reduces-operations-outside-of-africa-affecting-33-employees-in-europe-and-dubai/)
 - [Samsung says hackers accessed customer data during year-long breach](https://techcrunch.com/2023/11/16/samsung-hackers-customer-data-breach/)
-- [Siena AI raises $4.7M to develop an empathic AI customer service agent](https://techcrunch.com/2023/11/16/siena-ai-4-7m-ai-customer-service-agent/)
-- [Refurbished e-bike marketplace Upway raised $30M at a higher valuation](https://techcrunch.com/2023/11/16/refurbished-e-bike-marketplace-upway-raised-30m-at-a-higher-valuation/)
-- [Customer data-syncing and analysis startup Hightouch acquires HeadsUp](https://techcrunch.com/2023/11/16/hightouch-acquires-headsup/)
-- [&#39;Star Trek: Strange New Worlds&#39; Season 2 transports onto on Blu-ray and 4K UHD Dec. 5](https://www.space.com/star-trek-strange-new-worlds-season-2-blue-ray-4k-uhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
