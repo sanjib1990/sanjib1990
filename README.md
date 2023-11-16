@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s 2nd Starship launch on Nov. 17: How it will work](https://www.space.com/spacex-second-starship-launch-explainer)
+- [Early Black Friday telescope deal: Celestron StarSense Explorer DX 130AZ now $150 cheaper](https://www.space.com/celestron-starsense-explorer-save-150-dollars-pre-black-friday-2023)
 - [With Muse, Unity aims to give developers generative AI that’s useful and ethical](https://techcrunch.com/2023/11/16/with-muse-unity-aims-to-give-developers-generative-ai-thats-useful-and-ethical/)
 - [Ida uses AI to prevent grocery food waste](https://techcrunch.com/2023/11/16/ida-uses-ai-to-prevent-grocery-food-waste/)
 - [EU faces privacy complaint over CSAM microtargeting ads it ran on X](https://techcrunch.com/2023/11/15/oops-2/)
-- [Refilled wants to save 100 million plastic bottles from the landfill](https://techcrunch.com/2023/11/15/refilled/)
-- [White House lays out possible rules for private space stations and more](https://www.space.com/white-house-private-space-stations-regulations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
