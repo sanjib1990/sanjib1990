@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Jane Street-backed ZetaChain aims to expand Bitcoin’s use cases](https://techcrunch.com/2023/11/16/zetachain-bitcoin-trading/)
+- [Experience April&#39;s total solar eclipse from the palm of your hand with the &#39;Totality&#39; app from Big Kid Science](https://www.space.com/totality-app-big-kid-science-april-total-solar-eclipse-2024)
+- [The all-electric Lucid Gravity SUV finally makes its debut with 440 miles of range](https://techcrunch.com/2023/11/16/lucid-gravity-suv-ev/)
 - [Blackshark.ai’s Orca Huntr lets you build orbital intelligence models with a scribble](https://techcrunch.com/2023/11/16/blackshark-ais-orca-huntr-lets-you-build-orbital-intelligence-models-with-a-scribble/)
 - [Bazooka Tango nabs $5M to develop tactical collectible card game ‘Shardbound’](https://techcrunch.com/2023/11/16/bazooka-tango-nabs-5m-to-develop-tactical-collectible-card-game-shardbound/)
-- [Aave Companies rebrands to Avara and acquires crypto wallet Family to expand its web3 reach](https://techcrunch.com/2023/11/16/aave-companies-rebrands-to-avara-and-acquires-crypto-wallet-family-to-expand-its-web3-reach/)
-- [Solar eclipses seen by long-dead Cassini spacecraft shed new light on Saturn&#39;s rings](https://www.space.com/saturn-rings-transparency-cassini-eclipse-data)
-- [How to ensure an ethical acquisition for your startup](https://techcrunch.com/2023/11/16/how-to-ensure-an-ethical-acquisition-for-your-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
