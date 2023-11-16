@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best techy plant gifts for green thumbs in 2023](https://techcrunch.com/2023/11/16/the-best-techy-plant-gifts-for-green-thumbs-in-2023/)
-- [Candela’s electric hydrofoiling ferry takes flight](https://techcrunch.com/2023/11/16/candela-p-12-electric-hydrofoiling-ferry-takes-flight/)
-- [How long is Earth&#39;s day? We now have the most precise answer to date](https://www.space.com/earth-day-length-measured-unprecedented-precision)
-- [DeepMind and YouTube release Lyria, a gen-AI model for music, and Dream Track to build AI tunes](https://techcrunch.com/2023/11/16/deepmind-and-youtube-release-lyria-a-gen-ai-model-for-music-and-dream-track-to-build-ai-tunes/)
-- [Feds want speed reduction tech in every new car. Are American drivers ready?](https://techcrunch.com/2023/11/16/ntsb-speed-reduction-tech-in-every-new-car/)
+- [Samsung says hackers accessed customer data during year-long breach](https://techcrunch.com/2023/11/16/samsung-hackers-customer-data-breach/)
+- [Siena AI raises $4.7M to develop an empathic AI customer service agent](https://techcrunch.com/2023/11/16/siena-ai-4-7m-ai-customer-service-agent/)
+- [Refurbished e-bike marketplace Upway raised $30M at a higher valuation](https://techcrunch.com/2023/11/16/refurbished-e-bike-marketplace-upway-raised-30m-at-a-higher-valuation/)
+- [Customer data-syncing and analysis startup Hightouch acquires HeadsUp](https://techcrunch.com/2023/11/16/hightouch-acquires-headsup/)
+- [&#39;Star Trek: Strange New Worlds&#39; Season 2 transports onto on Blu-ray and 4K UHD Dec. 5](https://www.space.com/star-trek-strange-new-worlds-season-2-blue-ray-4k-uhd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
