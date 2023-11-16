@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Jane Street-backed ZetaChain aims to expand Bitcoin’s use cases](https://techcrunch.com/2023/11/16/zetachain-bitcoin-trading/)
-- [Experience April&#39;s total solar eclipse from the palm of your hand with the &#39;Totality&#39; app from Big Kid Science](https://www.space.com/totality-app-big-kid-science-april-total-solar-eclipse-2024)
-- [The all-electric Lucid Gravity SUV finally makes its debut with 440 miles of range](https://techcrunch.com/2023/11/16/lucid-gravity-suv-ev/)
-- [Blackshark.ai’s Orca Huntr lets you build orbital intelligence models with a scribble](https://techcrunch.com/2023/11/16/blackshark-ais-orca-huntr-lets-you-build-orbital-intelligence-models-with-a-scribble/)
-- [Bazooka Tango nabs $5M to develop tactical collectible card game ‘Shardbound’](https://techcrunch.com/2023/11/16/bazooka-tango-nabs-5m-to-develop-tactical-collectible-card-game-shardbound/)
+- [The Wild West of robotaxis: Will Texas be a regulatory haven or chaos unleashed?](https://techcrunch.com/2023/11/16/the-wild-west-of-robotaxis-will-texas-be-a-regulatory-haven-or-chaos-unleashed/)
+- [James Webb Space Telescope makes 1st discovery of disappearing neon around newborn star](https://www.space.com/james-webb-space-telescope-neon-planet-forming-disk)
+- [1 year after Artemis 1 launch, NASA readies Artemis 2 to shoot for the moon again &lpar;video&rpar;](https://www.space.com/artemis-1-moon-mission-anniversary-artemis-2-astronaut-readiness)
+- [A Quibi-like app called ReelShort hit record downloads and revenue this month](https://techcrunch.com/2023/11/16/a-quibi-like-app-called-reelshort-hit-record-downloads-and-revenue-this-month/)
+- [Amazon to sell cars online, starting with Hyundai](https://techcrunch.com/2023/11/16/amazon-to-sell-cars-online-starting-with-hyundai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
