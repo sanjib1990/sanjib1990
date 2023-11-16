@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Refilled wants to save 100 million plastic bottles from the landfill](https://techcrunch.com/2023/11/15/refilled/)
+- [White House lays out possible rules for private space stations and more](https://www.space.com/white-house-private-space-stations-regulations)
 - [Microsoft launches a deepfakes creator at Ignite 2023 event](https://techcrunch.com/2023/11/15/microsoft-launches-a-deepfakes-creator/)
 - [Microsoft renames Bing Chat to Copilot as it competes with ChatGPT](https://techcrunch.com/2023/11/15/bing-chat-is-now-copilot/)
-- [Microsoft Teams gets an AI-powered home decorator, voice isolation at Ignite 2023](https://techcrunch.com/2023/11/15/microsoft-teams-gets-an-ai-driven-decorator-voice-isolation-and-more/)
-- [Threads starts testing hashtags…without the hash](https://techcrunch.com/2023/11/15/threads-starts-testing-hashtags-without-the-hash/)
-- [Microsoft combines Microsoft To Do, Planner and Project into a new Microsoft Planner in Microsoft Teams](https://techcrunch.com/2023/11/15/microsoft-combines-microsoft-to-do-planner-and-project-into-a-new-microsoft-planner-in-microsoft-teams/)
+- [Microsoft unveils new AI tools Copilot Azure, Copilot for Service and Copilot Studio at Ignite event](https://techcrunch.com/2023/11/15/microsoft-now-has-a-copilot-for-almost-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
