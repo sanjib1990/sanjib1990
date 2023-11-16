@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft launches a deepfakes creator at Ignite 2023 event](https://techcrunch.com/2023/11/15/microsoft-launches-a-deepfakes-creator/)
+- [Microsoft renames Bing Chat to Copilot as it competes with ChatGPT](https://techcrunch.com/2023/11/15/bing-chat-is-now-copilot/)
+- [Microsoft Teams gets an AI-powered home decorator, voice isolation at Ignite 2023](https://techcrunch.com/2023/11/15/microsoft-teams-gets-an-ai-driven-decorator-voice-isolation-and-more/)
 - [Threads starts testing hashtags…without the hash](https://techcrunch.com/2023/11/15/threads-starts-testing-hashtags-without-the-hash/)
 - [Microsoft combines Microsoft To Do, Planner and Project into a new Microsoft Planner in Microsoft Teams](https://techcrunch.com/2023/11/15/microsoft-combines-microsoft-to-do-planner-and-project-into-a-new-microsoft-planner-in-microsoft-teams/)
-- [Jumia reports GMV growth in physical goods across five countries and lowest losses since IPO](https://techcrunch.com/2023/11/15/jumia-reports-gmv-growth-in-physical-goods-across-five-countries-and-lowest-losses-since-ipo/)
-- [Watch SpaceX&#39;s Starship launch for 2nd time ever on Nov. 17](https://www.space.com/spacex-starship-second-space-launch-attempt-webcast)
-- [Go for launch: SpaceX receives regulatory green light for second Starship flight](https://techcrunch.com/2023/11/15/go-for-launch-spacex-receives-regulatory-green-light-for-second-starship-flight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
