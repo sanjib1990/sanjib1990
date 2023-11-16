@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rogue rocket that slammed into the moon last year confirmed to be Chinese vehicle](https://www.space.com/moon-crash-march-2022-china-rocket-body)
+- [Cybersecurity investor Ballistic Ventures seeks $300M for new fund](https://techcrunch.com/2023/11/16/ballistic-ventures-fund-cybersecurity/)
+- [X rival Bluesky hits 2M users, says federation coming ‘early next year’](https://techcrunch.com/2023/11/16/x-rival-bluesky-hits-2m-users-saying-federation-coming-early-next-year/)
 - [NASA and Japan to launch world&#39;s 1st wooden satellite as soon as 2024. Why?](https://www.space.com/nasa-japan-launch-wooden-satellite-lignosat-2024)
 - [France’s Mistral dials up call for EU AI rules to fix rules for apps, not model makers](https://techcrunch.com/2023/11/16/mistral-eu-ai-act/)
-- [YouTube now allows monetization on videos with breastfeeding nudity and ‘non-sexually graphic dancing’](https://techcrunch.com/2023/11/16/youtube-allows-monetization-videos-breastfeeding-nudity-non-sexually-graphic-dancing/)
-- [Musk: SpaceX now aiming for Saturday for Starship’s second flight test](https://techcrunch.com/2023/11/16/musk-spacex-now-aiming-for-saturday-for-starships-second-flight-test/)
-- [SpaceX delays second Starship test launch to Nov. 18 to replace rocket part](https://www.space.com/spacex-starship-second-test-flight-launch-delay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
