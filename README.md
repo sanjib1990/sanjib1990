@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IRL founders allege investors sabotaged company with fake users claims](https://techcrunch.com/2023/11/16/irl-founders-allege-investors-sabotaged-company-with-fake-users-claims/)
+- [Twitch launches Privacy Center to educate users about their personal data](https://techcrunch.com/2023/11/16/twitch-privacy-center-launch-personal-data-rights/)
 - [Rogue rocket that slammed into the moon last year confirmed to be Chinese vehicle](https://www.space.com/moon-crash-march-2022-china-rocket-body)
 - [Cybersecurity investor Ballistic Ventures seeks $300M for new fund](https://techcrunch.com/2023/11/16/ballistic-ventures-fund-cybersecurity/)
 - [X rival Bluesky hits 2M users, says federation coming ‘early next year’](https://techcrunch.com/2023/11/16/x-rival-bluesky-hits-2m-users-saying-federation-coming-early-next-year/)
-- [NASA and Japan to launch world&#39;s 1st wooden satellite as soon as 2024. Why?](https://www.space.com/nasa-japan-launch-wooden-satellite-lignosat-2024)
-- [France’s Mistral dials up call for EU AI rules to fix rules for apps, not model makers](https://techcrunch.com/2023/11/16/mistral-eu-ai-act/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
