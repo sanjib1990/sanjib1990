@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal details costs of keeping its private messaging service alive](https://techcrunch.com/2023/11/17/signal-costs/)
 - [Lost astronaut tool bag from ISS shines in new telescope image &lpar;photo&rpar;](https://www.space.com/international-space-station-spacewalk-lost-tool-bag-photo)
 - [Online grocery startup Pricepally to expand in Nigeria backed by $1.3M funding](https://techcrunch.com/2023/11/17/pricepally-raises-seed-funding/)
 - [Instafest now lets you create a music festival poster through a playlist link](https://techcrunch.com/2023/11/17/instafest-now-lets-you-create-a-music-festival-poster-through-a-playlist-link/)
 - [Yet another former Silicon Valley darling is convicted of investor fraud](https://techcrunch.com/2023/11/16/yet-another-former-silicon-valley-darling-is-convicted-of-investor-fraud/)
-- [Indian central bank tightening consumer loans curb to impact startups](https://techcrunch.com/2023/11/16/indian-central-bank-tightening-consumer-loans-to-impact-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
