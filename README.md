@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM absorbs commercial EV unit BrightDrop, CEO is out](https://techcrunch.com/2023/11/16/gm-absorbs-commercial-ev-unit-brightdrop-ceo-is-out/)
+- [Microsoft Ignite 2023: Copilot AI expansions, custom chips and all the other announcements](https://techcrunch.com/2023/11/16/microsoft-ignite-2023-copilot-ai-expansions-custom-chips-and-all-the-other-announcements/)
 - [IRL founders allege investors sabotaged company with fake users claims](https://techcrunch.com/2023/11/16/irl-founders-allege-investors-sabotaged-company-with-fake-users-claims/)
 - [Twitch launches Privacy Center to educate users about their personal data](https://techcrunch.com/2023/11/16/twitch-privacy-center-launch-personal-data-rights/)
 - [Rogue rocket that slammed into the moon last year confirmed to be Chinese vehicle](https://www.space.com/moon-crash-march-2022-china-rocket-body)
-- [Cybersecurity investor Ballistic Ventures seeks $300M for new fund](https://techcrunch.com/2023/11/16/ballistic-ventures-fund-cybersecurity/)
-- [X rival Bluesky hits 2M users, says federation coming ‘early next year’](https://techcrunch.com/2023/11/16/x-rival-bluesky-hits-2m-users-saying-federation-coming-early-next-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
