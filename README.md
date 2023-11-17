@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LA Auto Show: the tech, EVs and cars that got our attention](https://techcrunch.com/2023/11/17/la-auto-show-the-tech-evs-and-cars-that-got-our-attention/)
+- [Satellites watch lava flows of Italy&#39;s Mount Etna volcano eruption &lpar;image&rpar;](https://www.space.com/satellite-image-lava-flows-esa-mount-etna-infrared)
+- [Rising interest rates are helping more than just fintech-focused companies](https://techcrunch.com/2023/11/17/rising-interest-rates-monday-walkme/)
 - [Will 2024 be a bounce-back year for startups?](https://techcrunch.com/2023/11/17/2024-startups-bounce-back-year/)
 - [April 2024 total solar eclipse viewing events: Parties, festivals and more](https://www.space.com/total-solar-eclipse-april-2024-viewing-events-parties-festivals)
-- [How we run our in-house generative AI accelerator: Framework for ideation](https://techcrunch.com/2023/11/17/how-we-run-our-in-house-generative-ai-accelerator-framework-for-ideation/)
-- [See the highest-resolution image ever snapped by ALMA radio telescope](https://www.space.com/alma-telescope-highest-resolution-image-ever)
-- [Rooms, an interactive 3D space designer and ‘cozy game,’ arrives on the App Store](https://techcrunch.com/2023/11/17/rooms-an-interactive-3d-space-designer-and-cozy-game-arrives-on-the-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
