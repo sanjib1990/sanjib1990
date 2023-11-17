@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who knows what GamePlanner does, but Airbnb just bought the company](https://techcrunch.com/2023/11/17/who-knows-what-gameplanner-does-but-airbnb-just-bought-the-company/)
+- [This solar eruption was so powerful it warped the sun&#39;s magnetic field &lpar;video&rpar;](https://www.space.com/coronal-mass-ejection-warps-suns-magnetic-field-video)
+- [TC+ Roundup: Just say no to triaging](https://techcrunch.com/2023/11/17/tc-roundup-just-say-no-to-triaging/)
 - [Volcanic &#39;Devil Comet&#39; erupts with its biggest blast yet as it races toward Earth](https://www.space.com/volcanic-devil-comet-eruption-record-earth-close-approach)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [This Week in Apps: Apple’s iPhone app of the year finalists, plus 7 hidden gems](https://techcrunch.com/2023/11/17/this-week-in-apps-apples-iphone-app-of-the-year-finalists-plus-7-hidden-gems/)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/17/tech-layoffs-2023-list/)
-- [&#39;For All Mankind&#39; season 4 episode 2 review: A brilliant exploration of the haves and have-nots on Mars](https://www.space.com/for-all-mankind-season-4-episode-2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
