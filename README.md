@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wattpad Premium subscribers now have access to 5 free monthly Wattpad Originals](https://techcrunch.com/2023/11/17/wattpad-gives-premium-subscribes-access-to-5-free-monthly-wattpad-originals/)
+- [Some exoplanets are shrinking. Here&#39;s why](https://www.space.com/nasa-kepler-telescope-exoplanets-shrinking-size)
+- [Kyutai is a French AI research lab with a $330 million budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
 - [Algol, the &#39;Demon star of Perseus,&#39; gets eclipsed this week. Here&#39;s how to see it](https://www.space.com/algol-demon-star-november-2023)
 - [Toku’s AI platform predicts heart conditions by scanning inside your eye](https://techcrunch.com/2023/11/17/tokus-ai-platform-predicts-heart-conditions-by-scanning-inside-your-eye/)
-- [Change in X’s terms indicate EU researchers will get API access](https://techcrunch.com/2023/11/17/change-in-xs-terms-indicate-eu-researchers-will-get-api-access/)
-- [Signal details costs of keeping its private messaging service alive](https://techcrunch.com/2023/11/17/signal-costs/)
-- [Lost astronaut tool bag from ISS shines in new telescope image &lpar;photo&rpar;](https://www.space.com/international-space-station-spacewalk-lost-tool-bag-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
