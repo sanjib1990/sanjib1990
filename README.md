@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Backlash builds after Elon Musk called an antisemitic conspiracy theory the ‘actual truth’](https://techcrunch.com/2023/11/17/elon-musk-x-antisemitic-conspiracy-theory-actual-truth/)
-- [Sam Altman ousted as OpenAI’s CEO](https://techcrunch.com/2023/11/17/sam-altman-is-out-as-openais-ceo/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Who knows what GamePlanner does, but Airbnb just bought the company](https://techcrunch.com/2023/11/17/who-knows-what-gameplanner-does-but-airbnb-just-bought-the-company/)
-- [This solar eruption was so powerful it warped the sun&#39;s magnetic field &lpar;video&rpar;](https://www.space.com/coronal-mass-ejection-warps-suns-magnetic-field-video)
+- [The universe is expanding faster than theory predicts – physicists are searching for new ideas that might explain the mismatch](https://www.space.com/universe-expanding-faster-than-theory-physicists-new-ideas)
+- [Worldcoin’s future remains uncertain after Sam Altman fired from OpenAI](https://techcrunch.com/2023/11/17/worldcoins-future-uncertain-sam-altman-fired-from-openai/)
+- [Apple to pause advertising on X after Musk endorses antisemitic post](https://techcrunch.com/2023/11/17/apple-to-pause-advertising-on-x-after-musk-endorses-antisemitic-conspiracy/)
+- [Quantum chemistry experiment on ISS creates exotic 5th state of matter](https://www.space.com/quantum-chemistry-gas-cold-atom-lab-iss)
+- [The &#39;Star Wars&#39; universe celebrates Life Day today with red robes, glowing orbs and goodwill](https://www.space.com/star-wars-life-day-november-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
