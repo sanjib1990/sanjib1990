@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the highest-resolution image ever snapped by ALMA radio telescope](https://www.space.com/alma-telescope-highest-resolution-image-ever)
+- [Rooms, an interactive 3D space designer and ‘cozy game,’ arrives on the App Store](https://techcrunch.com/2023/11/17/rooms-an-interactive-3d-space-designer-and-cozy-game-arrives-on-the-app-store/)
+- [How to watch SpaceX launch Starship for a second time live](https://techcrunch.com/2023/11/17/how-to-watch-spacex-launch-starship-for-a-second-time-live/)
 - [The future of M&amp;A and why founders are getting whiplash](https://techcrunch.com/2023/11/17/the-future-of-ma-and-why-founders-are-getting-whiplash/)
 - [These SpaceX fans say they&#39;ll stay after 1-day Starship launch delay to Saturday](https://www.space.com/spacex-starship-delay-launch-viewing-travelers)
-- [Say goodbye to Mars! The Red Planet hides behind the sun for 2 weeks](https://www.space.com/mars-solar-conjunction-november-2023)
-- [Lego&#39;s Apollo 11 Lunar Lander is 20% off this weekend](https://www.space.com/apollo-11-lunar-lander-lego-insiders-exclusive-deal-2023)
-- [Wattpad Premium subscribers now have access to 5 free monthly Wattpad Originals](https://techcrunch.com/2023/11/17/wattpad-gives-premium-subscribes-access-to-5-free-monthly-wattpad-originals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
