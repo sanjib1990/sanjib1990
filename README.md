@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet another former Silicon Valley darling is convicted of investor fraud](https://techcrunch.com/2023/11/16/yet-another-former-silicon-valley-darling-is-convicted-of-investor-fraud/)
 - [Indian central bank tightening consumer loans curb to impact startups](https://techcrunch.com/2023/11/16/indian-central-bank-tightening-consumer-loans-to-impact-startups/)
 - [GM absorbs commercial EV unit BrightDrop, CEO is out](https://techcrunch.com/2023/11/16/gm-absorbs-commercial-ev-unit-brightdrop-ceo-is-out/)
 - [Microsoft Ignite 2023: Copilot AI expansions, custom chips and all the other announcements](https://techcrunch.com/2023/11/16/microsoft-ignite-2023-copilot-ai-expansions-custom-chips-and-all-the-other-announcements/)
 - [IRL founders allege investors sabotaged company with fake users claims](https://techcrunch.com/2023/11/16/irl-founders-allege-investors-sabotaged-company-with-fake-users-claims/)
-- [Twitch launches Privacy Center to educate users about their personal data](https://techcrunch.com/2023/11/16/twitch-privacy-center-launch-personal-data-rights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
