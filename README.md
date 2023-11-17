@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will 2024 be a bounce-back year for startups?](https://techcrunch.com/2023/11/17/2024-startups-bounce-back-year/)
+- [April 2024 total solar eclipse viewing events: Parties, festivals and more](https://www.space.com/total-solar-eclipse-april-2024-viewing-events-parties-festivals)
+- [How we run our in-house generative AI accelerator: Framework for ideation](https://techcrunch.com/2023/11/17/how-we-run-our-in-house-generative-ai-accelerator-framework-for-ideation/)
 - [See the highest-resolution image ever snapped by ALMA radio telescope](https://www.space.com/alma-telescope-highest-resolution-image-ever)
 - [Rooms, an interactive 3D space designer and ‘cozy game,’ arrives on the App Store](https://techcrunch.com/2023/11/17/rooms-an-interactive-3d-space-designer-and-cozy-game-arrives-on-the-app-store/)
-- [How to watch SpaceX launch Starship for a second time live](https://techcrunch.com/2023/11/17/how-to-watch-spacex-launch-starship-for-a-second-time-live/)
-- [The future of M&amp;A and why founders are getting whiplash](https://techcrunch.com/2023/11/17/the-future-of-ma-and-why-founders-are-getting-whiplash/)
-- [These SpaceX fans say they&#39;ll stay after 1-day Starship launch delay to Saturday](https://www.space.com/spacex-starship-delay-launch-viewing-travelers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
