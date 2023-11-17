@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The future of M&amp;A and why founders are getting whiplash](https://techcrunch.com/2023/11/17/the-future-of-ma-and-why-founders-are-getting-whiplash/)
+- [These SpaceX fans say they&#39;ll stay after 1-day Starship launch delay to Saturday](https://www.space.com/spacex-starship-delay-launch-viewing-travelers)
+- [Say goodbye to Mars! The Red Planet hides behind the sun for 2 weeks](https://www.space.com/mars-solar-conjunction-november-2023)
+- [Lego&#39;s Apollo 11 Lunar Lander is 20% off this weekend](https://www.space.com/apollo-11-lunar-lander-lego-insiders-exclusive-deal-2023)
 - [Wattpad Premium subscribers now have access to 5 free monthly Wattpad Originals](https://techcrunch.com/2023/11/17/wattpad-gives-premium-subscribes-access-to-5-free-monthly-wattpad-originals/)
-- [Some exoplanets are shrinking. Here&#39;s why](https://www.space.com/nasa-kepler-telescope-exoplanets-shrinking-size)
-- [Kyutai is a French AI research lab with a $330 million budget that will make everything open source](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
-- [Algol, the &#39;Demon star of Perseus,&#39; gets eclipsed this week. Here&#39;s how to see it](https://www.space.com/algol-demon-star-november-2023)
-- [Toku’s AI platform predicts heart conditions by scanning inside your eye](https://techcrunch.com/2023/11/17/tokus-ai-platform-predicts-heart-conditions-by-scanning-inside-your-eye/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
