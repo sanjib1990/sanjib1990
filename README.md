@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LA Auto Show: the tech, EVs and cars that got our attention](https://techcrunch.com/2023/11/17/la-auto-show-the-tech-evs-and-cars-that-got-our-attention/)
-- [Satellites watch lava flows of Italy&#39;s Mount Etna volcano eruption &lpar;image&rpar;](https://www.space.com/satellite-image-lava-flows-esa-mount-etna-infrared)
-- [Rising interest rates are helping more than just fintech-focused companies](https://techcrunch.com/2023/11/17/rising-interest-rates-monday-walkme/)
-- [Will 2024 be a bounce-back year for startups?](https://techcrunch.com/2023/11/17/2024-startups-bounce-back-year/)
-- [April 2024 total solar eclipse viewing events: Parties, festivals and more](https://www.space.com/total-solar-eclipse-april-2024-viewing-events-parties-festivals)
+- [Volcanic &#39;Devil Comet&#39; erupts with its biggest blast yet as it races toward Earth](https://www.space.com/volcanic-devil-comet-eruption-record-earth-close-approach)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [This Week in Apps: Apple’s iPhone app of the year finalists, plus 7 hidden gems](https://techcrunch.com/2023/11/17/this-week-in-apps-apples-iphone-app-of-the-year-finalists-plus-7-hidden-gems/)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/17/tech-layoffs-2023-list/)
+- [&#39;For All Mankind&#39; season 4 episode 2 review: A brilliant exploration of the haves and have-nots on Mars](https://www.space.com/for-all-mankind-season-4-episode-2-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
