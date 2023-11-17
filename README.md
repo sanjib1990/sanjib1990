@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backlash builds after Elon Musk called an antisemitic conspiracy theory the ‘actual truth’](https://techcrunch.com/2023/11/17/elon-musk-x-antisemitic-conspiracy-theory-actual-truth/)
+- [Sam Altman ousted as OpenAI’s CEO](https://techcrunch.com/2023/11/17/sam-altman-is-out-as-openais-ceo/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 - [Who knows what GamePlanner does, but Airbnb just bought the company](https://techcrunch.com/2023/11/17/who-knows-what-gameplanner-does-but-airbnb-just-bought-the-company/)
 - [This solar eruption was so powerful it warped the sun&#39;s magnetic field &lpar;video&rpar;](https://www.space.com/coronal-mass-ejection-warps-suns-magnetic-field-video)
-- [TC+ Roundup: Just say no to triaging](https://techcrunch.com/2023/11/17/tc-roundup-just-say-no-to-triaging/)
-- [Volcanic &#39;Devil Comet&#39; erupts with its biggest blast yet as it races toward Earth](https://www.space.com/volcanic-devil-comet-eruption-record-earth-close-approach)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
