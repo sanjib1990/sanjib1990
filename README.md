@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 88 — Thanksgiving Special](https://www.space.com/this-week-in-space-episode-88-thanksgiving-special)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Watch SpaceX&#39;s Starship launch on its 2nd-ever test flight today](https://www.space.com/spacex-starship-second-test-flight-webcast)
 - [Greg Brockman quits OpenAI after abrupt firing of Sam Altman](https://techcrunch.com/2023/11/17/greg-brockman-quits-openai-after-abrupt-firing-of-sam-altman/)
 - [WTF is going on at OpenAI? We have theories](https://techcrunch.com/2023/11/17/wtf-is-going-on-at-openai-sam-altman-fired/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
