@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Healthcare startups scramble to assess fallout after Postmeds data breach hits millions of patients](https://techcrunch.com/2023/11/18/postmeds-truepill-data-breach-pharmacy-millions/)
+- [SpaceX Starship megarocket launches on 2nd-ever test flight, but explodes in &#39;rapid unscheduled disassembly&#39;](https://www.space.com/spacex-starship-second-test-flight-launch-explodes)
+- [How to build a robust and adaptive data culture that instills investor confidence](https://techcrunch.com/2023/11/18/how-to-build-a-robust-and-adaptive-data-culture-that-instills-investor-confidence/)
+- [SpaceX launches Starship for the second time, going farther than ever before](https://techcrunch.com/2023/11/18/spacex-launches-starship-for-the-second-time-ever-going-farther-than-ever-before/)
 - [This Week In Space podcast: Episode 88 — Thanksgiving Special](https://www.space.com/this-week-in-space-episode-88-thanksgiving-special)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Watch SpaceX&#39;s Starship launch on its 2nd-ever test flight today](https://www.space.com/spacex-starship-second-test-flight-webcast)
-- [Greg Brockman quits OpenAI after abrupt firing of Sam Altman](https://techcrunch.com/2023/11/17/greg-brockman-quits-openai-after-abrupt-firing-of-sam-altman/)
-- [WTF is going on at OpenAI? We have theories](https://techcrunch.com/2023/11/17/wtf-is-going-on-at-openai-sam-altman-fired/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
