@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotics Q&amp;A with Toyota Research Institute’s Max Bajracharya and Russ Tedrake](https://techcrunch.com/2023/11/18/robotics-qa-with-toyota-research-institutes-max-bajracharya-and-russ-tedrake/)
+- [NASA chief congratulates SpaceX on Starship&#39;s explosive 2nd launch test](https://www.space.com/spacex-starship-second-test-launch-nasa-congratulations)
 - [Healthcare startups scramble to assess fallout after Postmeds data breach hits millions of patients](https://techcrunch.com/2023/11/18/postmeds-truepill-data-breach-pharmacy-millions/)
 - [SpaceX Starship megarocket launches on 2nd-ever test flight, explodes in &#39;rapid unscheduled disassembly&#39; &lpar;video&rpar;](https://www.space.com/spacex-starship-second-test-flight-launch-explodes)
 - [How to build a robust and adaptive data culture that instills investor confidence](https://techcrunch.com/2023/11/18/how-to-build-a-robust-and-adaptive-data-culture-that-instills-investor-confidence/)
-- [SpaceX launches Starship for the second time, going farther than ever before](https://techcrunch.com/2023/11/18/spacex-launches-starship-for-the-second-time-ever-going-farther-than-ever-before/)
-- [This Week In Space podcast: Episode 88 — Thanksgiving Special](https://www.space.com/this-week-in-space-episode-88-thanksgiving-special)
 <!-- BLOG-POST-LIST:END -->
 
 ---
