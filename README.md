@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Starship launch on its 2nd-ever test flight today](https://www.space.com/spacex-starship-second-test-flight-webcast)
 - [Greg Brockman quits OpenAI after abrupt firing of Sam Altman](https://techcrunch.com/2023/11/17/greg-brockman-quits-openai-after-abrupt-firing-of-sam-altman/)
 - [WTF is going on at OpenAI? We have theories](https://techcrunch.com/2023/11/17/wtf-is-going-on-at-openai-sam-altman-fired/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Who is Mira Murati, OpenAI’s new interim CEO?](https://techcrunch.com/2023/11/17/who-is-mira-murati-openais-new-interim-ceo/)
-- [SpaceX to launch 22 Starlink satellites tonight on 1st of back-to-back missions](https://www.space.com/spacex-starlink-launch-group-6-28)
 <!-- BLOG-POST-LIST:END -->
 
 ---
