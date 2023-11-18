@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/18/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [FAA to oversee investigation of SpaceX&#39;s explosive 2nd Starship flight](https://www.space.com/faa-oversee-investigation-second-starship-flight)
 - [SpaceX poised to launch 22 Starlink satellites early Nov. 19](https://www.space.com/spacex-starlink-launch-group-7-7)
 - [Time for moderation?](https://techcrunch.com/2023/11/18/freight-logistics-flexport/)
 - [SpaceX&#39;s 2nd Starship launch test looks amazing in these stunning photos and videos](https://www.space.com/spacex-starship-second-launch-test-amazing-photos)
-- [Deal Dive: An AI application that isn’t just marginally better](https://techcrunch.com/2023/11/18/ai-real-estate-pippin-title/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
