@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA to oversee investigation of SpaceX&#39;s explosive 2nd Starship flight](https://www.space.com/faa-oversee-investigation-second-starship-flight)
 - [SpaceX poised to launch 22 Starlink satellites early Nov. 19](https://www.space.com/spacex-starlink-launch-group-7-7)
+- [Time for moderation?](https://techcrunch.com/2023/11/18/freight-logistics-flexport/)
 - [SpaceX&#39;s 2nd Starship launch test looks amazing in these stunning photos and videos](https://www.space.com/spacex-starship-second-launch-test-amazing-photos)
 - [Deal Dive: An AI application that isn’t just marginally better](https://techcrunch.com/2023/11/18/ai-real-estate-pippin-title/)
-- [Robotics Q&amp;A with Toyota Research Institute’s Max Bajracharya and Russ Tedrake](https://techcrunch.com/2023/11/18/robotics-qa-with-toyota-research-institutes-max-bajracharya-and-russ-tedrake/)
-- [NASA chief congratulates SpaceX on Starship&#39;s explosive 2nd launch test](https://www.space.com/spacex-starship-second-test-launch-nasa-congratulations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
