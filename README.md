@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s board is no match for investors’ wrath](https://techcrunch.com/2023/11/18/openais-board-is-no-match-for-investors-wrath/)
 - [OpenAI fires CEO Sam Altman, Airbnb acquires GamePlanner.AI, and Epic battles Google over antitrust](https://techcrunch.com/2023/11/18/a-look-at-humanes-ai-pin-airbnb-acquires-gameplanner-ai-and-epic-battles-google-over-antitrust/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/18/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [FAA to oversee investigation of SpaceX&#39;s explosive 2nd Starship flight](https://www.space.com/faa-oversee-investigation-second-starship-flight)
 - [SpaceX poised to launch 22 Starlink satellites early Nov. 19](https://www.space.com/spacex-starlink-launch-group-7-7)
-- [Time for moderation?](https://techcrunch.com/2023/11/18/freight-logistics-flexport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
