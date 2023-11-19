@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside Brex and Ramp’s AI ambitions](https://techcrunch.com/2023/11/19/fintech-startups-brex-ramp-look-to-ai-to-boost-bottom-line/)
 - [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet heads for a new red, white and blue paint job](https://www.space.com/nasa-x-59-quesst-paint-job)
 - [Fisher Space Pens to fly with Blue Origin crews as &#39;official ballpoint&#39;](https://www.space.com/fisher-space-pen-fly-blue-origin)
 - [Satellites watch Russia&#39;s tallest volcano spew 1,000-mile-long plume of smoke &lpar;photos&rpar;](https://www.space.com/satellite-images-russia-tallest-volcano-eruption)
 - [With Amo, the founder of Zenly wants to make social apps social again](https://techcrunch.com/2023/11/19/with-amo-the-founder-of-zenly-wants-to-make-social-apps-social-again/)
-- [Russia&#39;s long-duration space journey on Earth put 6 people in isolation for a year](https://www.space.com/russia-sirius-23-astronaut-isolation-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
