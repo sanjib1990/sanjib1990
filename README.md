@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s board is no match for investors’ wrath](https://techcrunch.com/2023/11/19/openais-board-is-no-match-for-investors-wrath/)
+- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/19/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Inside Brex and Ramp’s AI ambitions](https://techcrunch.com/2023/11/19/fintech-startups-brex-ramp-look-to-ai-to-boost-bottom-line/)
 - [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet heads for a new red, white and blue paint job](https://www.space.com/nasa-x-59-quesst-paint-job)
 - [Fisher Space Pens to fly with Blue Origin crews as &#39;official ballpoint&#39;](https://www.space.com/fisher-space-pen-fly-blue-origin)
-- [Satellites watch Russia&#39;s tallest volcano spew 1,000-mile-long plume of smoke &lpar;photos&rpar;](https://www.space.com/satellite-images-russia-tallest-volcano-eruption)
-- [With Amo, the founder of Zenly wants to make social apps social again](https://techcrunch.com/2023/11/19/with-amo-the-founder-of-zenly-wants-to-make-social-apps-social-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
