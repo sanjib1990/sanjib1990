@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia&#39;s long-duration space journey on Earth put 6 people in isolation for a year](https://www.space.com/russia-sirius-23-astronaut-isolation-study)
 - [India and Australia World Cup final shatters streaming records on Hotstar](https://techcrunch.com/2023/11/19/india-and-australia-world-cup-final-shatters-streaming-records-on-hotstar/)
 - [OpenAI’s board is no match for investors’ wrath](https://techcrunch.com/2023/11/18/openais-board-is-no-match-for-investors-wrath/)
 - [OpenAI fires CEO Sam Altman, Airbnb acquires GamePlanner.AI, and Epic battles Google over antitrust](https://techcrunch.com/2023/11/18/a-look-at-humanes-ai-pin-airbnb-acquires-gameplanner-ai-and-epic-battles-google-over-antitrust/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/18/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
-- [FAA to oversee investigation of SpaceX&#39;s explosive 2nd Starship flight](https://www.space.com/faa-oversee-investigation-second-starship-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
