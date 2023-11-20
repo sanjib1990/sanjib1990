@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers accessed sensitive health data of Welltok patients](https://techcrunch.com/2023/11/20/hackers-accessed-sensitive-health-data-of-welltok-patients/)
+- [LucidLink lands $75M for its on-demand file streaming tech](https://techcrunch.com/2023/11/20/lucidlink-lands-75m-for-its-on-demand-file-streaming-tech/)
+- [&#39;Planet killer&#39; asteroids are hiding in the sun&#39;s glare. Can we stop them in time?](https://www.space.com/asteroids-sun-glare-space-telescopes)
+- [SEVA, a new growth equity fund, secures $85M for debut fund in four months](https://techcrunch.com/2023/11/20/seva-growth-equity-fund-85m/)
 - [NASA astronaut sees her parents&#39; birth country from space. &#39;This may be the closest I will ever get&#39;](https://www.space.com/nasa-astronaut-jasmin-moghbeli-iran-international-space-station-view)
-- [Listen to a symphony for the Milky Way, made from real NASA data &lpar;video&rpar;](https://www.space.com/milky-way-galactic-center-sonification-nasa-data-telescope)
-- [Tinder redesigns profile pages with prompts, info tags and quiz](https://techcrunch.com/2023/11/20/tinder-redesigns-profile-pages-with-prompts-info-tags-and-quiz/)
-- [Inside a historic trip to Antarctica, crewed by over 100 women scientists](https://www.space.com/women-astronomers-antarctica-leadership-climate-action-earth)
-- [Open source Notion alternative AppFlowy gets big-name backers and lands on the cloud](https://techcrunch.com/2023/11/20/appflowy-open-source-notion-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
