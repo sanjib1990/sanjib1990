@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s Starship should be ready to fly again before Christmas, Elon Musk says](https://www.space.com/spacex-starship-third-flight-readiness-four-weeks)
-- [Instagram Threads missed a moment to shine, as OpenAI’s drama took place on X](https://techcrunch.com/2023/11/20/instagram-threads-missed-a-moment-to-shine-as-openais-drama-took-place-on-x/)
-- [With Functional Source License, Sentry wants to grant developers freedom ‘without harmful free-riding’](https://techcrunch.com/2023/11/20/with-functional-source-license-sentry-wants-to-grant-developers-freedom-without-harmful-free-riding/)
-- [OpenAI’s crisis will sow the seeds of the next generation of AI startups](https://techcrunch.com/2023/11/20/openai-expats/)
-- [Powder, an AI clipping tool for gaming, can detect when a creator yells during a stream](https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/)
+- [Thousands of new honeypots deployed across Israel to catch hackers](https://techcrunch.com/2023/11/20/thousands-of-new-honeypots-deployed-across-israel-to-catch-hackers/)
+- [Distant &#39;teenage galaxies&#39; surprise astronomers with unexpected heavy elements](https://www.space.com/teenage-galaxies-hotter-heavier-elements-nickel)
+- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/20/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
+- [Omegle’s death is the end of an era for anonymous online connection](https://techcrunch.com/2023/11/20/omegles-death-is-the-end-of-an-era-for-anonymous-online-connection/)
+- [10 gifts for frequent travelers in 2023, from backpacks to portable power](https://techcrunch.com/2023/11/20/10-editor-tested-travel-gifts-for-frequent-fliers-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
