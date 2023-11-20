@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s Starship is now a Matchbox Sky Busters die-cast toy](https://www.space.com/spacex-starship-dragon-mattel-matchbox-sky-busters)
-- [US emerging managers started their fundraising rebound in 2023](https://techcrunch.com/2023/11/20/emerging-managers-rebound-2023/)
-- [Score weeklong Black Friday and Cyber Monday savings on passes to TechCrunch Early Stage 2024](https://techcrunch.com/2023/11/20/score-weeklong-savings-on-passes-to-techcrunch-early-stage-2024/)
-- [British Library confirms data stolen during ransomware attack](https://techcrunch.com/2023/11/20/british-library-employee-data-stolen-ransomware-attack/)
-- [Apple reportedly plans to release its Vision Pro headset in March 2024](https://techcrunch.com/2023/11/20/apple-reportedly-releasing-vision-pro-headset-in-march-2024/)
+- [Europe&#39;s JUICE probe will be 1st to use gravity of Earth and moon to slingshot to Jupiter](https://www.space.com/esa-juice-spacecraft-executes-major-maneuver)
+- [Ukraine fires top cybersecurity officials](https://techcrunch.com/2023/11/20/ukraine-fires-senior-cybersecurity-officials-ssscip/)
+- [Emmett Shear, the ex-Twitch CEO tasked with stabilizing OpenAI, has some spicy social history](https://techcrunch.com/2023/11/20/openai-emmett-shear-ceo/)
+- [How Headline is using AI to make better investment decisions](https://techcrunch.com/2023/11/20/headline-deep-dive/)
+- [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
