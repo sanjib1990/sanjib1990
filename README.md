@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft hires ex-OpenAI leaders Altman and Brockman to lead new AI team](https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/)
+- [Microsoft hires ex-OpenAI leaders Altman and Brockman to lead new AI group](https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/19/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Sam Altman won’t return as OpenAI’s CEO after all](https://techcrunch.com/2023/11/19/altman-wont-return-as-openais-ceo-after-all/)
