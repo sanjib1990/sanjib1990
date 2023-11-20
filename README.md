@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tinder redesigns profile pages with prompts, info tags and quiz](https://techcrunch.com/2023/11/20/tinder-redesigns-profile-pages-with-prompts-info-tags-and-quiz/)
+- [Inside a historic trip to Antarctica, crewed by over 100 women scientists](https://www.space.com/women-astronomers-antarctica-leadership-climate-action-earth)
+- [Open source Notion alternative AppFlowy gets big-name backers and lands on the cloud](https://techcrunch.com/2023/11/20/appflowy-open-source-notion-alternative/)
 - [Microsoft hires ex-OpenAI leaders Altman and Brockman to lead new AI group](https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/19/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
-- [Sam Altman won’t return as OpenAI’s CEO after all](https://techcrunch.com/2023/11/19/altman-wont-return-as-openais-ceo-after-all/)
-- [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
