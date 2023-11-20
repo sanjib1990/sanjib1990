@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers accessed sensitive health data of Welltok patients](https://techcrunch.com/2023/11/20/hackers-accessed-sensitive-health-data-of-welltok-patients/)
-- [LucidLink lands $75M for its on-demand file streaming tech](https://techcrunch.com/2023/11/20/lucidlink-lands-75m-for-its-on-demand-file-streaming-tech/)
-- [&#39;Planet killer&#39; asteroids are hiding in the sun&#39;s glare. Can we stop them in time?](https://www.space.com/asteroids-sun-glare-space-telescopes)
-- [SEVA, a new growth equity fund, secures $85M for debut fund in four months](https://techcrunch.com/2023/11/20/seva-growth-equity-fund-85m/)
-- [NASA astronaut sees her parents&#39; birth country from space. &#39;This may be the closest I will ever get&#39;](https://www.space.com/nasa-astronaut-jasmin-moghbeli-iran-international-space-station-view)
+- [China’s tech giants dip their toes into web3, but prospects are limited so far](https://techcrunch.com/2023/11/20/china-tech-giants-crypto-web3/)
+- [Microsoft is the only real winner in the OpenAI debacle](https://techcrunch.com/2023/11/20/microsoft-is-the-only-real-winner-in-the-openai-debacle/)
+- [Climate tech’s biggest hits and misses in 2023](https://techcrunch.com/2023/11/20/climate-tech-2023-in-review/)
+- [Axiom Space astronaut Marcus Wandt says space is &#39;more real&#39; thanks to private flights](https://www.space.com/axiom-space-ax-3-marcus-wandt-astronaut-one-year-selection)
+- [Most of OpenAI’s employees threaten to quit if Sam Altman isn’t reappointed CEO](https://techcrunch.com/2023/11/20/most-of-openais-employees-threaten-to-quit-if-sam-altman-isnt-reappointed-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
