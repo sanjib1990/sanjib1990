@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise’s mea culpa and everything that stood out at the LA Auto Show](https://techcrunch.com/2023/11/19/cruises-mea-culpa-and-everything-that-stood-out-at-the-la-auto-show/)
 - [OpenAI’s board is no match for investors’ wrath](https://techcrunch.com/2023/11/19/openais-board-is-no-match-for-investors-wrath/)
 - [Inside Brex and Ramp’s AI ambitions](https://techcrunch.com/2023/11/19/fintech-startups-brex-ramp-look-to-ai-to-boost-bottom-line/)
 - [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet heads for a new red, white and blue paint job](https://www.space.com/nasa-x-59-quesst-paint-job)
 - [Fisher Space Pens to fly with Blue Origin crews as &#39;official ballpoint&#39;](https://www.space.com/fisher-space-pen-fly-blue-origin)
-- [Satellites watch Russia&#39;s tallest volcano spew 1,000-mile-long plume of smoke &lpar;photos&rpar;](https://www.space.com/satellite-images-russia-tallest-volcano-eruption)
 <!-- BLOG-POST-LIST:END -->
 
 ---
