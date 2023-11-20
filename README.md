@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI Osmo Action 4 review](https://www.space.com/dji-osmo-action-4-review)
+- [Investors are souring on OpenAI’s nonprofit governance model](https://techcrunch.com/2023/11/20/openai-governance-model-investors/)
 - [Epic Starship liftoff didn&#39;t damage launch pad, Elon Musk says](https://www.space.com/spacex-starship-launch-pad-good-condition)
 - [Watch all the Star Trek you want and save 67% on 3 months of Paramount Plus in this early Black Friday deal](https://www.space.com/paramount-plus-black-friday-2023-deal)
 - [Rivian CEO RJ Scaringe is now taking over the top product role at the EV maker](https://techcrunch.com/2023/11/20/rivian-ceo-rj-scaringe-is-now-taking-over-the-top-product-role-at-the-ev-maker/)
-- [Don’t expect competition authorities to wade into the Microsoft-OpenAI power-play — yet](https://techcrunch.com/2023/11/20/microsoft-openai-competition-concerns/)
-- [HoverAir X1 review](https://www.space.com/hoverair-x1-drone-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
