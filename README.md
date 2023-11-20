@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starship is now a Matchbox Sky Busters die-cast toy](https://www.space.com/spacex-starship-dragon-mattel-matchbox-sky-busters)
+- [US emerging managers started their fundraising rebound in 2023](https://techcrunch.com/2023/11/20/emerging-managers-rebound-2023/)
+- [Score weeklong Black Friday and Cyber Monday savings on passes to TechCrunch Early Stage 2024](https://techcrunch.com/2023/11/20/score-weeklong-savings-on-passes-to-techcrunch-early-stage-2024/)
+- [British Library confirms data stolen during ransomware attack](https://techcrunch.com/2023/11/20/british-library-employee-data-stolen-ransomware-attack/)
 - [Apple reportedly plans to release its Vision Pro headset in March 2024](https://techcrunch.com/2023/11/20/apple-reportedly-releasing-vision-pro-headset-in-march-2024/)
-- [The best places in Mexico to see the total solar eclipse on April 8, 2024](https://www.space.com/best-places-in-mexico-to-see-total-solar-eclipse-april-8-2024)
-- [Effective accelerationism, doomers, decels, and how to flaunt your AI priors](https://techcrunch.com/2023/11/20/e-acc-doomers-decels-openai-altman/)
-- [Apple, Disney, Comcast among X advertisers pausing spending after Musk endorsed antisemitic post](https://techcrunch.com/2023/11/20/apple-to-pause-advertising-on-x-after-musk-endorses-antisemitic-conspiracy/)
-- [Meta Quest 3 review: One giant leap for consumer VR](https://www.space.com/meta-quest-3-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
