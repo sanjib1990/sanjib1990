@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian CEO RJ Scaringe is now taking over the top product role at the EV maker](https://techcrunch.com/2023/11/20/rivian-ceo-rj-scaringe-is-now-taking-over-the-top-product-role-at-the-ev-maker/)
+- [Don’t expect competition authorities to wade into the Microsoft-OpenAI power-play — yet](https://techcrunch.com/2023/11/20/microsoft-openai-competition-concerns/)
+- [HoverAir X1 review](https://www.space.com/hoverair-x1-drone-review)
+- [5 investors have high hopes for defense tech amid growing venture interest](https://techcrunch.com/2023/11/20/defense-tech-investor-survey/)
 - [Thousands of new honeypots deployed across Israel to catch hackers](https://techcrunch.com/2023/11/20/thousands-of-new-honeypots-deployed-across-israel-to-catch-hackers/)
-- [Distant &#39;teenage galaxies&#39; surprise astronomers with unexpected heavy elements](https://www.space.com/teenage-galaxies-hotter-heavier-elements-nickel)
-- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/20/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
-- [Omegle’s death is the end of an era for anonymous online connection](https://techcrunch.com/2023/11/20/omegles-death-is-the-end-of-an-era-for-anonymous-online-connection/)
-- [10 gifts for frequent travelers in 2023, from backpacks to portable power](https://techcrunch.com/2023/11/20/10-editor-tested-travel-gifts-for-frequent-fliers-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
