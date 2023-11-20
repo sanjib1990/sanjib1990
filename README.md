@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe&#39;s JUICE probe will be 1st to use gravity of Earth and moon to slingshot to Jupiter](https://www.space.com/esa-juice-spacecraft-executes-major-maneuver)
-- [Ukraine fires top cybersecurity officials](https://techcrunch.com/2023/11/20/ukraine-fires-senior-cybersecurity-officials-ssscip/)
-- [Emmett Shear, the ex-Twitch CEO tasked with stabilizing OpenAI, has some spicy social history](https://techcrunch.com/2023/11/20/openai-emmett-shear-ceo/)
-- [How Headline is using AI to make better investment decisions](https://techcrunch.com/2023/11/20/headline-deep-dive/)
-- [Advertiser exodus expected to deeply impact X ad revenue, analysis indicates](https://techcrunch.com/2023/11/20/advertiser-exodus-expected-to-deeply-impact-x-ad-revenue-analysis-indicates/)
+- [SpaceX&#39;s Starship should be ready to fly again before Christmas, Elon Musk says](https://www.space.com/spacex-starship-third-flight-readiness-four-weeks)
+- [Instagram Threads missed a moment to shine, as OpenAI’s drama took place on X](https://techcrunch.com/2023/11/20/instagram-threads-missed-a-moment-to-shine-as-openais-drama-took-place-on-x/)
+- [With Functional Source License, Sentry wants to grant developers freedom ‘without harmful free-riding’](https://techcrunch.com/2023/11/20/with-functional-source-license-sentry-wants-to-grant-developers-freedom-without-harmful-free-riding/)
+- [OpenAI’s crisis will sow the seeds of the next generation of AI startups](https://techcrunch.com/2023/11/20/openai-expats/)
+- [Powder, an AI clipping tool for gaming, can detect when a creator yells during a stream](https://techcrunch.com/2023/11/20/powder-an-ai-clipping-tool-for-gaming-can-detect-when-a-creator-yells-during-a-stream/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
