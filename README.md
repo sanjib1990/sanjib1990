@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China’s tech giants dip their toes into web3, but prospects are limited so far](https://techcrunch.com/2023/11/20/china-tech-giants-crypto-web3/)
-- [Microsoft is the only real winner in the OpenAI debacle](https://techcrunch.com/2023/11/20/microsoft-is-the-only-real-winner-in-the-openai-debacle/)
-- [Climate tech’s biggest hits and misses in 2023](https://techcrunch.com/2023/11/20/climate-tech-2023-in-review/)
-- [Axiom Space astronaut Marcus Wandt says space is &#39;more real&#39; thanks to private flights](https://www.space.com/axiom-space-ax-3-marcus-wandt-astronaut-one-year-selection)
-- [Most of OpenAI’s employees threaten to quit if Sam Altman isn’t reappointed CEO](https://techcrunch.com/2023/11/20/most-of-openais-employees-threaten-to-quit-if-sam-altman-isnt-reappointed-ceo/)
+- [Apple reportedly plans to release its Vision Pro headset in March 2024](https://techcrunch.com/2023/11/20/apple-reportedly-releasing-vision-pro-headset-in-march-2024/)
+- [The best places in Mexico to see the total solar eclipse on April 8, 2024](https://www.space.com/best-places-in-mexico-to-see-total-solar-eclipse-april-8-2024)
+- [Effective accelerationism, doomers, decels, and how to flaunt your AI priors](https://techcrunch.com/2023/11/20/e-acc-doomers-decels-openai-altman/)
+- [Apple, Disney, Comcast among X advertisers pausing spending after Musk endorsed antisemitic post](https://techcrunch.com/2023/11/20/apple-to-pause-advertising-on-x-after-musk-endorses-antisemitic-conspiracy/)
+- [Meta Quest 3 review: One giant leap for consumer VR](https://www.space.com/meta-quest-3-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
