@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI co-founders Sam Altman and Greg Brockman to join Microsoft](https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/19/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Sam Altman won’t return as OpenAI’s CEO after all](https://techcrunch.com/2023/11/19/altman-wont-return-as-openais-ceo-after-all/)
 - [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/)
-- [Cruise’s mea culpa and everything that stood out at the LA Auto Show](https://techcrunch.com/2023/11/19/cruises-mea-culpa-and-everything-that-stood-out-at-the-la-auto-show/)
-- [OpenAI’s board is no match for investors’ wrath](https://techcrunch.com/2023/11/19/openais-board-is-no-match-for-investors-wrath/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
