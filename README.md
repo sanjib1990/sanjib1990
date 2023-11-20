@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic Starship liftoff didn&#39;t damage launch pad, Elon Musk says](https://www.space.com/spacex-starship-launch-pad-good-condition)
+- [Watch all the Star Trek you want and save 67% on 3 months of Paramount Plus in this early Black Friday deal](https://www.space.com/paramount-plus-black-friday-2023-deal)
 - [Rivian CEO RJ Scaringe is now taking over the top product role at the EV maker](https://techcrunch.com/2023/11/20/rivian-ceo-rj-scaringe-is-now-taking-over-the-top-product-role-at-the-ev-maker/)
 - [Don’t expect competition authorities to wade into the Microsoft-OpenAI power-play — yet](https://techcrunch.com/2023/11/20/microsoft-openai-competition-concerns/)
 - [HoverAir X1 review](https://www.space.com/hoverair-x1-drone-review)
-- [5 investors have high hopes for defense tech amid growing venture interest](https://techcrunch.com/2023/11/20/defense-tech-investor-survey/)
-- [Thousands of new honeypots deployed across Israel to catch hackers](https://techcrunch.com/2023/11/20/thousands-of-new-honeypots-deployed-across-israel-to-catch-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
