@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronaut sees her parents&#39; birth country from space. &#39;This may be the closest I will ever get&#39;](https://www.space.com/nasa-astronaut-jasmin-moghbeli-iran-international-space-station-view)
+- [Listen to a symphony for the Milky Way, made from real NASA data &lpar;video&rpar;](https://www.space.com/milky-way-galactic-center-sonification-nasa-data-telescope)
 - [Tinder redesigns profile pages with prompts, info tags and quiz](https://techcrunch.com/2023/11/20/tinder-redesigns-profile-pages-with-prompts-info-tags-and-quiz/)
 - [Inside a historic trip to Antarctica, crewed by over 100 women scientists](https://www.space.com/women-astronomers-antarctica-leadership-climate-action-earth)
 - [Open source Notion alternative AppFlowy gets big-name backers and lands on the cloud](https://techcrunch.com/2023/11/20/appflowy-open-source-notion-alternative/)
-- [Microsoft hires ex-OpenAI leaders Altman and Brockman to lead new AI group](https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/19/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
