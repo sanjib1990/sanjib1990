@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
 - [Indy raises $44 million to simplify taxes and paperwork for freelancers](https://techcrunch.com/2023/11/20/indy-raises-44-million-to-simplify-taxes-and-paperwork-for-freelancers/)
 - [Elon Musk’s ‘thermonuclear’ lawsuit over hate-adjacent ads on X… actually confirms them](https://techcrunch.com/2023/11/20/elon-musks-thermonuclear-lawsuit-over-hate-adjacent-ads-on-x-actually-confirms-them/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/20/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Microsoft CEO Satya Nadella suggests that Sam Altman might return to OpenAI](https://techcrunch.com/2023/11/20/microsoft-ceo-satya-nadella-suggests-that-sam-altman-might-return-to-openai/)
-- [European investors grab the popcorn for the new ‘series’ of OpenAI, but are fearful of the fallout](https://techcrunch.com/2023/11/20/european-investors-grab-the-popcorn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
