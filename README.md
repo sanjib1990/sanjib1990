@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope discovers &#39;Cosmic Vine&#39; of 20 connected galaxies in the early universe](https://www.space.com/james-webb-space-telescope-cosmic-vine)
-- [Amidst OpenAI chaos, Sam Altman’s involvement in Worldcoin is ‘not expected to change’](https://techcrunch.com/2023/11/21/openai-sam-altman-worldcoin/)
-- [Ford downsizes EV battery factory plan](https://techcrunch.com/2023/11/21/ford-downsizes-ev-battery-factory-plan/)
-- [1st black hole ever imaged by humanity is losing huge amount of energy through &#39;lightsaber&#39; jets](https://www.space.com/supermassive-black-hole-m87-losing-energy)
-- [Screenshots show xAI’s chatbot Grok on X’s web app](https://techcrunch.com/2023/11/21/screenshots-show-xais-chatbot-grok-on-xs-web-app/)
+- [A brief look at the history of OpenAI’s board](https://techcrunch.com/2023/11/21/a-brief-look-at-the-history-of-openais-board/)
+- [Japan&#39;s ispace unveils micro rover for its 2nd moon mission](https://www.space.com/ispace-unveils-private-moon-rover-second-mission)
+- [Tesla rolls out congestion pricing ahead of holiday travel season](https://techcrunch.com/2023/11/21/tesla-rolls-out-congestion-pricing-ahead-of-holiday-travel-season/)
+- [Flipboard stops tweeting, launches new podcast about decentralized social apps](https://techcrunch.com/2023/11/21/flipboard-stops-tweeting-launches-new-podcast-about-decentralized-social-apps/)
+- [Just how big of a recovery will it take to bring investors back to web3?](https://techcrunch.com/2023/11/21/recovering-crypto-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
