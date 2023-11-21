@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chaos at OpenAI adds fuel to the AI talent poaching war](https://techcrunch.com/2023/11/20/openai-ai-talent-poaching-war/)
+- [Max Q: SpaceX’s mega-rocket for the moon and Mars goes farther than ever before](https://techcrunch.com/2023/11/20/max-q-spacexs-mega-rocket-for-the-moon-and-mars-goes-farther-than-ever-before/)
 - [DJI Osmo Action 4 review](https://www.space.com/dji-osmo-action-4-review)
 - [Investors are souring on OpenAI’s nonprofit governance model](https://techcrunch.com/2023/11/20/openai-governance-model-investors/)
-- [Epic Starship liftoff didn&#39;t damage launch pad, Elon Musk says](https://www.space.com/spacex-starship-launch-pad-good-condition)
-- [Watch all the Star Trek you want and save 67% on 3 months of Paramount Plus in this early Black Friday deal](https://www.space.com/paramount-plus-black-friday-2023-deal)
-- [Rivian CEO RJ Scaringe is now taking over the top product role at the EV maker](https://techcrunch.com/2023/11/20/rivian-ceo-rj-scaringe-is-now-taking-over-the-top-product-role-at-the-ev-maker/)
+- [SpaceX&#39;s epic Starship liftoff didn&#39;t damage launch pad, Elon Musk says](https://www.space.com/spacex-starship-launch-pad-good-condition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
