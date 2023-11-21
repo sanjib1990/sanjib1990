@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See SpaceX&#39;s Starship ignite all 33 1st-stage engines in fiery test-flight photos](https://www.space.com/spacex-starship-second-test-flight-engines-photos)
-- [China’s EV upstart Li Auto hunts for chip talent in Singapore](https://techcrunch.com/2023/11/21/chinas-ev-upstart-li-auto-hunts-for-chip-talent-in-singapore/)
-- [Tech CEO Austin Russell’s bid to buy Forbes fails](https://techcrunch.com/2023/11/21/tech-ceo-austin-russells-bid-to-buy-forbes-fails/)
-- [eBay to gain $2.2B from sales of its shares in classified biz Adevinta](https://techcrunch.com/2023/11/21/ebay-to-gain-2-2b-from-sales-of-its-shares-in-classified-biz-adevinta/)
-- [Anthropic’s Claude 2.1 release shows the competition isn’t rubbernecking the OpenAI disaster](https://techcrunch.com/2023/11/21/anthropic-claude-2-1/)
+- [Owning the earscape market with Lisa Bubbers and Anna Harman from Studs](https://techcrunch.com/2023/11/21/owning-the-earscape-market-with-lisa-bubbers-and-anna-harman-from-studs/)
+- [NASA&#39;s Psyche spacecraft just fired a laser 10 million miles away in deep space](https://www.space.com/nasa-psyche-asteroid-mission-laser-test-deep-space)
+- [Everything we know about &#39;Kingdom of the Planet of the Apes&#39;](https://www.space.com/everything-we-know-about-kingdom-of-the-planet-of-the-apes)
+- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/21/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
+- [OpenAI’s board may be coming around to Sam Altman returning](https://techcrunch.com/2023/11/21/openais-board-may-be-coming-around-to-sam-altman-returning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
