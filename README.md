@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After Chandrayaan-3 success, India gearing up for moon sample-return mission](https://www.space.com/india-moon-sample-return-mission-chandrayaan-4)
-- [Anti-censorship tools are quietly disappearing into thin air in China](https://techcrunch.com/2023/11/21/china-censorship-circumvention-tools-clash-disappear/)
-- [3 skills could make or break your cybersecurity career in the generative AI era](https://techcrunch.com/2023/11/21/3-skills-could-make-or-break-your-cybersecurity-career-in-the-generative-ai-era/)
-- [Mercury is home to exotic glaciers of salt, and they may host life beneath them](https://www.space.com/mercury-salt-glaciers-habitability)
-- [Generative AI startup AI21 Labs raises cash in the midst of OpenAI chaos](https://techcrunch.com/2023/11/21/generative-ai-startup-ai21-labs-raises-cash-in-the-midst-of-openai-chaos/)
+- [1st black hole ever imaged by humanity is losing huge amount of energy through &#39;lightsaber&#39; jets](https://www.space.com/supermassive-black-hole-m87-losing-energy)
+- [Screenshots show xAI’s chatbot Grok on X’s web app](https://techcrunch.com/2023/11/21/screenshots-show-xais-chatbot-grok-on-xs-web-app/)
+- [How the OpenAI fiasco could bolster Meta and the ‘open AI’ movement](https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/)
+- [Save $200 on this Sony A7 IV bundle at Adorama in this Black Friday deal](https://www.space.com/save-200-sony-a7-iv-bundle-adorama-black-friday-camera-deal)
+- [Best practices for developing a generative AI copilot for business](https://techcrunch.com/2023/11/21/best-practices-for-developing-a-generative-ai-copilot-for-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
