@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft CEO Satya Nadella suggests that Sam Altman might return to OpenAI](https://techcrunch.com/2023/11/20/microsoft-ceo-satya-nadella-suggests-that-sam-altman-might-return-to-openai/)
+- [European investors grab the popcorn for the new ‘series’ of OpenAI, but are fearful of the fallout](https://techcrunch.com/2023/11/20/european-investors-grab-the-popcorn/)
 - [Chaos at OpenAI adds fuel to the AI talent poaching war](https://techcrunch.com/2023/11/20/openai-ai-talent-poaching-war/)
 - [Max Q: SpaceX’s mega-rocket for the moon and Mars goes farther than ever before](https://techcrunch.com/2023/11/20/max-q-spacexs-mega-rocket-for-the-moon-and-mars-goes-farther-than-ever-before/)
 - [DJI Osmo Action 4 review](https://www.space.com/dji-osmo-action-4-review)
-- [Investors are souring on OpenAI’s nonprofit governance model](https://techcrunch.com/2023/11/20/openai-governance-model-investors/)
-- [SpaceX&#39;s epic Starship liftoff didn&#39;t damage launch pad, Elon Musk says](https://www.space.com/spacex-starship-launch-pad-good-condition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
