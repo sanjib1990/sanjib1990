@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indy raises $44 million to simplify taxes and paperwork for freelancers](https://techcrunch.com/2023/11/20/indy-raises-44-million-to-simplify-taxes-and-paperwork-for-freelancers/)
 - [Elon Musk’s ‘thermonuclear’ lawsuit over hate-adjacent ads on X… actually confirms them](https://techcrunch.com/2023/11/20/elon-musks-thermonuclear-lawsuit-over-hate-adjacent-ads-on-x-actually-confirms-them/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/20/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Microsoft CEO Satya Nadella suggests that Sam Altman might return to OpenAI](https://techcrunch.com/2023/11/20/microsoft-ceo-satya-nadella-suggests-that-sam-altman-might-return-to-openai/)
 - [European investors grab the popcorn for the new ‘series’ of OpenAI, but are fearful of the fallout](https://techcrunch.com/2023/11/20/european-investors-grab-the-popcorn/)
-- [Chaos at OpenAI adds fuel to the AI talent poaching war](https://techcrunch.com/2023/11/20/openai-ai-talent-poaching-war/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
