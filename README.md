@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope discovers &#39;Cosmic Vine&#39; of 20 connected galaxies in the early universe](https://www.space.com/james-webb-space-telescope-cosmic-vine)
+- [Amidst OpenAI chaos, Sam Altman’s involvement in Worldcoin is ‘not expected to change’](https://techcrunch.com/2023/11/21/openai-sam-altman-worldcoin/)
+- [Ford downsizes EV battery factory plan](https://techcrunch.com/2023/11/21/ford-downsizes-ev-battery-factory-plan/)
 - [1st black hole ever imaged by humanity is losing huge amount of energy through &#39;lightsaber&#39; jets](https://www.space.com/supermassive-black-hole-m87-losing-energy)
 - [Screenshots show xAI’s chatbot Grok on X’s web app](https://techcrunch.com/2023/11/21/screenshots-show-xais-chatbot-grok-on-xs-web-app/)
-- [How the OpenAI fiasco could bolster Meta and the ‘open AI’ movement](https://techcrunch.com/2023/11/21/how-the-openai-fiasco-could-bolster-meta-and-the-open-ai-movement/)
-- [Save $200 on this Sony A7 IV bundle at Adorama in this Black Friday deal](https://www.space.com/save-200-sony-a7-iv-bundle-adorama-black-friday-camera-deal)
-- [Best practices for developing a generative AI copilot for business](https://techcrunch.com/2023/11/21/best-practices-for-developing-a-generative-ai-copilot-for-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
