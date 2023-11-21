@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercury is home to exotic glaciers of salt, and they may host life beneath them](https://www.space.com/mercury-salt-glaciers-habitability)
+- [Starlink-rival OneWeb scores approval to launch satellite broadband services in India](https://techcrunch.com/2023/11/21/starlink-oneweb-satellite-broadband-india/)
+- [Save over $400 on the DJI Avata Pro-View this Black Friday](https://www.space.com/dji-avata-black-friday-2023-fpv-drone-deal-save-430-dollars)
 - [Vendelux grabs new capital for B2B event marketing amid in-person resurgence](https://techcrunch.com/2023/11/21/vendelux-b2b-event-marketing/)
 - [Motional and Hyundai to jointly build IONIQ 5 robotaxi in Singapore](https://techcrunch.com/2023/11/21/motional-and-hyundai-to-jointly-build-ioniq-5-robotaxi-in-singapore/)
-- [&#39;Devil Comet&#39; 12P/Pons-Brooks is approaching Earth. Why is it flaring up, &#39;horns&#39; and all?](https://www.space.com/devil-comet-12p-pons-brooks-approaching-earth)
-- [James Webb Space Telescope sees major star factory near the Milky Way&#39;s black hole &lpar;image&rpar;](https://www.space.com/star-factory-galactic-center-james-webb-space-telescope)
-- [Twelve Below secures $108M across two new funds](https://techcrunch.com/2023/11/21/twelve-below-secures-108m-across-two-new-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
