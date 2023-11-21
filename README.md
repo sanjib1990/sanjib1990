@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tom Hanks visits Artemis 2 moon astronauts and NASA Mission Control](https://www.space.com/tom-hanks-nasa-mission-control-moon-artemis-2-astronauts)
+- [Insane $1000 saving on this Canon EOS R3 Black Friday camera deal!](https://www.space.com/insane-1000-dollar-saving-canon-eos-r3-black-friday-camera-deal)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [India’s anti-money laundering agency to issue notice to Byju’s](https://techcrunch.com/2023/11/21/india-anti-money-laundering-agency-finds-1-billion-violation-at-byjus/)
 - [Google admits Spotify pays no Play Store fees because of a secret deal](https://techcrunch.com/2023/11/20/google-admits-spotify-pays-no-play-store-fees-because-of-a-secret-deal/)
-- [Indy raises $44 million to simplify taxes and paperwork for freelancers](https://techcrunch.com/2023/11/20/indy-raises-44-million-to-simplify-taxes-and-paperwork-for-freelancers/)
-- [Elon Musk’s ‘thermonuclear’ lawsuit over hate-adjacent ads on X… actually confirms them](https://techcrunch.com/2023/11/20/elon-musks-thermonuclear-lawsuit-over-hate-adjacent-ads-on-x-actually-confirms-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
