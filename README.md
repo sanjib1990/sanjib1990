@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX set to launch 23 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-29)
-- [Greg Brockman is still announcing OpenAI products for some reason](https://techcrunch.com/2023/11/21/greg-brockman-is-still-announcing-openai-products-for-some-reason/)
-- [Founders: Pay attention to what happened with OpenAI’s board](https://techcrunch.com/2023/11/21/openai-governance-board-founders-beware/)
-- [NASA instrument on ISS identifies more than 750 greenhouse gas sources](https://www.space.com/nasa-emit-instrument-greenhouse-gases-source)
-- [Binance and CEO ‘CZ’ plead guilty to federal charges, agreed to pay $4.3B in fines](https://techcrunch.com/2023/11/21/binance-to-pay-4-3b-in-fines-and-ceo-cz-to-step-down-plead-guilty-to-anti-money-laundering-charges/)
+- [What does a Harry Potter fanfic have to do with OpenAI?](https://techcrunch.com/2023/11/21/what-does-a-harry-potter-fanfic-have-to-do-with-openai/)
+- [Black Friday drone deal: Save $99 on this DJI Mini 3 Fly More Combo](https://www.space.com/dji-mini-3-fly-more-combo-black-friday-deal)
+- [Tiger Global  chieftain Scott Shleifer transitions to advisory role after wild ride](https://techcrunch.com/2023/11/21/tiger-global-chieftain-scott-shleifer-transitions-to-advisory-role-after-wild-ride/)
+- [Yup hacks together a cross-posting app for X, Threads, Bluesky and others](https://techcrunch.com/2023/11/21/yup-hacks-together-a-cross-posting-app-for-x-threads-bluesky-and-others/)
+- [Where OpenAI goes from here is anyone’s guess](https://techcrunch.com/2023/11/21/where-openai-goes-from-here-is-anyones-guess/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
