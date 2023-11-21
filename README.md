@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After Chandrayaan-3 success, India gearing up for moon sample-return mission](https://www.space.com/india-moon-sample-return-mission-chandrayaan-4)
+- [Anti-censorship tools are quietly disappearing into thin air in China](https://techcrunch.com/2023/11/21/china-censorship-circumvention-tools-clash-disappear/)
+- [3 skills could make or break your cybersecurity career in the generative AI era](https://techcrunch.com/2023/11/21/3-skills-could-make-or-break-your-cybersecurity-career-in-the-generative-ai-era/)
 - [Mercury is home to exotic glaciers of salt, and they may host life beneath them](https://www.space.com/mercury-salt-glaciers-habitability)
-- [Starlink-rival OneWeb scores approval to launch satellite broadband services in India](https://techcrunch.com/2023/11/21/starlink-oneweb-satellite-broadband-india/)
-- [Save over $400 on the DJI Avata Pro-View this Black Friday](https://www.space.com/dji-avata-black-friday-2023-fpv-drone-deal-save-430-dollars)
-- [Vendelux grabs new capital for B2B event marketing amid in-person resurgence](https://techcrunch.com/2023/11/21/vendelux-b2b-event-marketing/)
-- [Motional and Hyundai to jointly build IONIQ 5 robotaxi in Singapore](https://techcrunch.com/2023/11/21/motional-and-hyundai-to-jointly-build-ioniq-5-robotaxi-in-singapore/)
+- [Generative AI startup AI21 Labs raises cash in the midst of OpenAI chaos](https://techcrunch.com/2023/11/21/generative-ai-startup-ai21-labs-raises-cash-in-the-midst-of-openai-chaos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
