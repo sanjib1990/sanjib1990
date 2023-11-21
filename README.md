@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders: Pay attention to what happened with OpenAI’s board](https://techcrunch.com/2023/11/21/openai-governance-board-founders-beware/)
+- [NASA instrument on ISS identifies more than 750 greenhouse gas sources](https://www.space.com/nasa-emit-instrument-greenhouse-gases-source)
+- [&#39;Stellar vampires&#39; may feed on hidden stars in their systems](https://www.space.com/triple-star-system-vampire-stellar-bodies-be-disks)
+- [Will the OpenAI chaos boost open-source models?](https://techcrunch.com/2023/11/21/will-the-openai-chaos-boost-open-source-models/)
 - [Owning the earscape market with Lisa Bubbers and Anna Harman from Studs](https://techcrunch.com/2023/11/21/owning-the-earscape-market-with-lisa-bubbers-and-anna-harman-from-studs/)
-- [NASA&#39;s Psyche spacecraft just fired a laser 10 million miles away in deep space](https://www.space.com/nasa-psyche-asteroid-mission-laser-test-deep-space)
-- [Everything we know about &#39;Kingdom of the Planet of the Apes&#39;](https://www.space.com/everything-we-know-about-kingdom-of-the-planet-of-the-apes)
-- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/21/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
-- [OpenAI’s board may be coming around to Sam Altman returning](https://techcrunch.com/2023/11/21/openais-board-may-be-coming-around-to-sam-altman-returning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
