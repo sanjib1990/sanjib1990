@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A brief look at the history of OpenAI’s board](https://techcrunch.com/2023/11/21/a-brief-look-at-the-history-of-openais-board/)
-- [Japan&#39;s ispace unveils micro rover for its 2nd moon mission](https://www.space.com/ispace-unveils-private-moon-rover-second-mission)
-- [Tesla rolls out congestion pricing ahead of holiday travel season](https://techcrunch.com/2023/11/21/tesla-rolls-out-congestion-pricing-ahead-of-holiday-travel-season/)
-- [Flipboard stops tweeting, launches new podcast about decentralized social apps](https://techcrunch.com/2023/11/21/flipboard-stops-tweeting-launches-new-podcast-about-decentralized-social-apps/)
-- [Just how big of a recovery will it take to bring investors back to web3?](https://techcrunch.com/2023/11/21/recovering-crypto-prices/)
+- [See SpaceX&#39;s Starship ignite all 33 1st-stage engines in fiery test-flight photos](https://www.space.com/spacex-starship-second-test-flight-engines-photos)
+- [China’s EV upstart Li Auto hunts for chip talent in Singapore](https://techcrunch.com/2023/11/21/chinas-ev-upstart-li-auto-hunts-for-chip-talent-in-singapore/)
+- [Tech CEO Austin Russell’s bid to buy Forbes fails](https://techcrunch.com/2023/11/21/tech-ceo-austin-russells-bid-to-buy-forbes-fails/)
+- [eBay to gain $2.2B from sales of its shares in classified biz Adevinta](https://techcrunch.com/2023/11/21/ebay-to-gain-2-2b-from-sales-of-its-shares-in-classified-biz-adevinta/)
+- [Anthropic’s Claude 2.1 release shows the competition isn’t rubbernecking the OpenAI disaster](https://techcrunch.com/2023/11/21/anthropic-claude-2-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
