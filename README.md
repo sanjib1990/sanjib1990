@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vendelux grabs new capital for B2B event marketing amid in-person resurgence](https://techcrunch.com/2023/11/21/vendelux-b2b-event-marketing/)
+- [Motional and Hyundai to jointly build IONIQ 5 robotaxi in Singapore](https://techcrunch.com/2023/11/21/motional-and-hyundai-to-jointly-build-ioniq-5-robotaxi-in-singapore/)
+- [&#39;Devil Comet&#39; 12P/Pons-Brooks is approaching Earth. Why is it flaring up, &#39;horns&#39; and all?](https://www.space.com/devil-comet-12p-pons-brooks-approaching-earth)
+- [James Webb Space Telescope sees major star factory near the Milky Way&#39;s black hole &lpar;image&rpar;](https://www.space.com/star-factory-galactic-center-james-webb-space-telescope)
 - [Twelve Below secures $108M across two new funds](https://techcrunch.com/2023/11/21/twelve-below-secures-108m-across-two-new-funds/)
-- [EU widens scope of food delivery cartel concerns probe](https://techcrunch.com/2023/11/21/eu-antitrust-food-delivery-probe-widens/)
-- [Tom Hanks visits Artemis 2 moon astronauts and NASA Mission Control](https://www.space.com/tom-hanks-nasa-mission-control-moon-artemis-2-astronauts)
-- [Insane $1000 saving on this Canon EOS R3 Black Friday camera deal!](https://www.space.com/insane-1000-dollar-saving-canon-eos-r3-black-friday-camera-deal)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
