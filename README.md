@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s next cargo spacecraft arrives at launch site ahead of early 2024 liftoff](https://www.space.com/china-tianzhou-7-cargo-spacecraft-arrives-launch-site)
-- [How to talk about the OpenAI drama at Thanksgiving dinner](https://techcrunch.com/2023/11/22/how-to-talk-about-the-openai-drama-at-thanksgiving-dinner/)
-- [Watch SpaceX&#39;s Starship explode in astronomer&#39;s stunning telescope footage &lpar;video&rpar;](https://www.space.com/spacex-starship-telescope-astronomer-video)
-- [Google Meet can now detect when you raise your hand IRL](https://techcrunch.com/2023/11/22/google-meet-hand-detection-feature/)
-- [City-size &#39;devil comet&#39; headed for Earth loses its iconic horns and turns green after latest volcanic eruption](https://www.space.com/comet-headed-for-earth-loses-its-iconic-horns-and-turns-green)
+- [No, you can’t lie to your board of directors](https://techcrunch.com/2023/11/22/dont-lie-to-your-board-of-directors/)
+- [Forget Siri. Turn your iPhone’s ‘Action Button’ into a ChatGPT voice assistant instead](https://techcrunch.com/2023/11/22/forget-siri-turn-your-iphones-action-button-into-a-chatgpt-voice-assistant-instead/)
+- [Google’s Bard AI chatbot can now answer questions about YouTube videos](https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/)
+- [North Korea-backed hackers target CyberLink users in supply-chain attack](https://techcrunch.com/2023/11/22/north-korea-backed-hackers-target-cyberlink-users-in-supply-chain-attack/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
