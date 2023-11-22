@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FrontEdge raises $10M in debt, equity from TLG, Flexport to facilitate trade for African exporters](https://techcrunch.com/2023/11/22/frontedge-raises-10m-in-debt-equity-from-tlg-flexport-to-facilitate-trade-for-african-exporters/)
+- [Cameroonian healthtech Waspito gets $2.5M seed extension to scale, tap offline patients](https://techcrunch.com/2023/11/22/waspito-gets-seed-extension/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/21/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Callyope monitors mental health through speech-based technology](https://techcrunch.com/2023/11/21/callyope-monitors-mental-health-through-speech-based-technology/)
-- [Lightspeed finalizing leading $80M-plus funding in Pocket FM](https://techcrunch.com/2023/11/21/lightspeed-finalizing-leading-80m-plus-funding-in-pocket-fm/)
-- [OpenAI’s initial new board counts Larry Summers among its ranks](https://techcrunch.com/2023/11/21/openais-initial-new-board-counts-larry-summers-among-its-ranks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
