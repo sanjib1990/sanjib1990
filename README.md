@@ -94,12 +94,12 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Meet can now detect when you raise your hand IRL](https://techcrunch.com/2023/11/22/google-meet-hand-detection-feature/)
+- [City-size &#39;devil comet&#39; headed for Earth loses its iconic horns and turns green after latest volcanic eruption](https://www.space.com/comet-headed-for-earth-loses-its-iconic-horns-and-turns-green)
+- [Elon Musk says xAI’s chatbot ‘Grok’ will launch to X Premium+ subscribers next week](https://techcrunch.com/2023/11/22/elon-musk-says-xais-chatbot-grok-will-launch-to-x-premium-subscribers-next-week/)
 - [US Space Force wants to track &#39;abnormal
 observables&#39; with unknown origins in Earth&#39;s orbit](https://www.space.com/space-force-domain-awareness-abnormal-observables)
 - [Canon RF 15-35mm F/2.8 L IS USM now $300 off: Black Friday deal](https://www.space.com/canon-rf-15-35mm-f28-l-is-usm-lens-black-friday-camera-deal)
-- [Pocket $500 on the Nikon D850 camera with this Black Friday deal](https://www.space.com/best-black-friday-dslr-camera-deal-nikon-d850-500-off)
-- [OpenAI’s initial new board counts Larry Summers among its ranks](https://techcrunch.com/2023/11/22/openais-initial-new-board-counts-larry-summers-among-its-ranks/)
-- [Ask Sophie: I work at OpenAI on an H-1B. How can I explore immigration independence?](https://techcrunch.com/2023/11/22/ask-sophie-i-work-at-openai-on-an-h-1b-how-can-i-explore-immigration-independence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
