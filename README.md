@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Sunspot archipelago&#39; 15 times wider than Earth could soon bombard us with solar storms](https://www.space.com/enormous-sunspot-archipelago-solar-flares-earth)
 - [No, you can’t lie to your board of directors](https://techcrunch.com/2023/11/22/dont-lie-to-your-board-of-directors/)
 - [Forget Siri. Turn your iPhone’s ‘Action Button’ into a ChatGPT voice assistant instead](https://techcrunch.com/2023/11/22/forget-siri-turn-your-iphones-action-button-into-a-chatgpt-voice-assistant-instead/)
 - [Google’s Bard AI chatbot can now answer questions about YouTube videos](https://techcrunch.com/2023/11/22/googles-bard-ai-chatbot-can-now-answer-questions-about-youtube-videos/)
 - [North Korea-backed hackers target CyberLink users in supply-chain attack](https://techcrunch.com/2023/11/22/north-korea-backed-hackers-target-cyberlink-users-in-supply-chain-attack/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
