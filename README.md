@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [North Korea claims it sent a spy satellite to orbit for 1st time: report](https://www.space.com/north-korea-spy-satellite-3rd-launch-attempt-nov-2023)
+- [Stellar telescope Black Friday deal: Over 30% off this Celestron beginner telescope](https://www.space.com/best-black-friday-beginner-telescope-deal-150-off-celestron)
+- [Uber-for-parcels startups Relay raises $10M Seed round to scale in the UK](https://techcrunch.com/2023/11/22/uber-for-parcels-startups-relay-raises-10m-seed-round-to-scale-in-the-uk/)
+- [Birdseye’s AI-powered chief marketing officer drives personalized email campaigns for retailers](https://techcrunch.com/2023/11/22/birdseye-ai-chief-marketing-officer-retail/)
 - [Black Friday: Save $310 on Celestron NexStar 8SE at Amazon](https://www.space.com/black-friday-telescope-deal-save-310-celestron-nexstar-8se-amazon)
-- [OpenAI will benefit from unity of purpose with Sam Altman’s return](https://techcrunch.com/2023/11/22/openai-will-benefit-from-unity-of-purpose-with-sam-altmans-return/)
-- [Osium AI uses artificial intelligence to speed up materials innovation](https://techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/)
-- [Epic 33-engine burn among successes of Starship&#39;s 2nd test flight, SpaceX says](https://www.space.com/spacex-starship-second-test-flight-milestones)
-- [I review cameras for a living — this Amazon Black Friday deal cuts $400 off my favorite camera.](https://www.space.com/i-review-cameras-amazon-black-friday-deal-400-off-sony-a7r-v)
 <!-- BLOG-POST-LIST:END -->
 
 ---
