@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google is forcing you to use their proxy &lpar;build your own instead&rpar;](https://www.youtube.com/watch?v=JJ0St6OmTp0)
 - [this Will replace your dog](https://www.youtube.com/watch?v=RDJyb5rlSHw)
 - [Defining Cybersecurity with Gene Spafford - Computerphile](https://www.youtube.com/watch?v=olgGZmkkooU)
 - [True Random Numbers - Computerphile](https://www.youtube.com/watch?v=aEJB8IAMMpA)
 - [Binary Search Algorithm - Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk)
-- [Put your website on the Dark Web](https://www.youtube.com/watch?v=CurcakgurRE)
 <!-- YOUTUBE:END -->
 
 ---
