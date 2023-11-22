@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X loses Paris Hilton’s 11:11 Media partnership in latest brand pull-out](https://techcrunch.com/2023/11/22/x-loses-paris-hiltons-1111-media-partnership-in-latest-brand-pull-out/)
-- [Who would’ve guessed the powerful folk would win the AI fight?](https://techcrunch.com/2023/11/22/who-wouldve-guessed-the-powerful-folk-would-win-the-ai-fight/)
-- [Fidelity National Financial shuts down network in wake of cybersecurity incident](https://techcrunch.com/2023/11/22/fidelity-national-financial-shuts-down-network-in-wake-of-cybersecurity-incident/)
-- [These supermassive black hole jets may pelt Earth with &#39;ghost particles&#39;](https://www.space.com/blazars-gamma-ray-black-hole-neutrino-flux)
-- [Nikon Z8 &amp; lens bundle $200 off: Black Friday camera deal](https://www.space.com/nikon-z8-lens-bundle-black-friday-camera-deal)
+- [NASA’s Webb Identifies Methane In an Exoplanet’s Atmosphere](https://blogs.nasa.gov/webb/2023/11/22/nasas-webb-identifies-methane-in-an-exoplanets-atmosphere/)
+- [The Milky Way&#39;s stunning spiral structure appears to be an anomaly. But why?](https://www.space.com/spiral-galaxies-milky-way-supercomputer-simulation)
+- [Canada assigns astronauts to launch on Boeing&#39;s Starliner, back up Artemis 2 moon mission](https://www.space.com/canadian-space-agency-astronaut-assignments-spaceflight)
+- [Mastodon tackles the problem of ‘reply guys’ with its latest feature](https://techcrunch.com/2023/11/22/mastodon-tackles-the-problem-of-reply-guys-with-its-latest-feature/)
+- [Black Friday VR deal: get $50 off the Meta Quest 2 headset](https://www.space.com/meta-quest-2-black-friday-2023-deal-save-50-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
