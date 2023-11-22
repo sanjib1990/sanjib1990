@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [North Korea claims it sent a spy satellite to orbit for 1st time: report](https://www.space.com/north-korea-spy-satellite-3rd-launch-attempt-nov-2023)
-- [Stellar telescope Black Friday deal: Over 30% off this Celestron beginner telescope](https://www.space.com/best-black-friday-beginner-telescope-deal-150-off-celestron)
-- [Uber-for-parcels startups Relay raises $10M Seed round to scale in the UK](https://techcrunch.com/2023/11/22/uber-for-parcels-startups-relay-raises-10m-seed-round-to-scale-in-the-uk/)
-- [Birdseye’s AI-powered chief marketing officer drives personalized email campaigns for retailers](https://techcrunch.com/2023/11/22/birdseye-ai-chief-marketing-officer-retail/)
-- [Black Friday: Save $310 on Celestron NexStar 8SE at Amazon](https://www.space.com/black-friday-telescope-deal-save-310-celestron-nexstar-8se-amazon)
+- [X loses Paris Hilton’s 11:11 Media partnership in latest brand pull-out](https://techcrunch.com/2023/11/22/x-loses-paris-hiltons-1111-media-partnership-in-latest-brand-pull-out/)
+- [Who would’ve guessed the powerful folk would win the AI fight?](https://techcrunch.com/2023/11/22/who-wouldve-guessed-the-powerful-folk-would-win-the-ai-fight/)
+- [Fidelity National Financial shuts down network in wake of cybersecurity incident](https://techcrunch.com/2023/11/22/fidelity-national-financial-shuts-down-network-in-wake-of-cybersecurity-incident/)
+- [These supermassive black hole jets may pelt Earth with &#39;ghost particles&#39;](https://www.space.com/blazars-gamma-ray-black-hole-neutrino-flux)
+- [Nikon Z8 &amp; lens bundle $200 off: Black Friday camera deal](https://www.space.com/nikon-z8-lens-bundle-black-friday-camera-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
