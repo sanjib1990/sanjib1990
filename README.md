@@ -94,12 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s next cargo spacecraft arrives at launch site ahead of early 2024 liftoff](https://www.space.com/china-tianzhou-7-cargo-spacecraft-arrives-launch-site)
+- [How to talk about the OpenAI drama at Thanksgiving dinner](https://techcrunch.com/2023/11/22/how-to-talk-about-the-openai-drama-at-thanksgiving-dinner/)
+- [Watch SpaceX&#39;s Starship explode in astronomer&#39;s stunning telescope footage &lpar;video&rpar;](https://www.space.com/spacex-starship-telescope-astronomer-video)
 - [Google Meet can now detect when you raise your hand IRL](https://techcrunch.com/2023/11/22/google-meet-hand-detection-feature/)
 - [City-size &#39;devil comet&#39; headed for Earth loses its iconic horns and turns green after latest volcanic eruption](https://www.space.com/comet-headed-for-earth-loses-its-iconic-horns-and-turns-green)
-- [Elon Musk says xAI’s chatbot ‘Grok’ will launch to X Premium+ subscribers next week](https://techcrunch.com/2023/11/22/elon-musk-says-xais-chatbot-grok-will-launch-to-x-premium-subscribers-next-week/)
-- [US Space Force wants to track &#39;abnormal
-observables&#39; with unknown origins in Earth&#39;s orbit](https://www.space.com/space-force-domain-awareness-abnormal-observables)
-- [Canon RF 15-35mm F/2.8 L IS USM now $300 off: Black Friday deal](https://www.space.com/canon-rf-15-35mm-f28-l-is-usm-lens-black-friday-camera-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
