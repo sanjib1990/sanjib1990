@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday: Save $310 on Celestron NexStar 8SE at Amazon](https://www.space.com/black-friday-telescope-deal-save-310-celestron-nexstar-8se-amazon)
+- [OpenAI will benefit from unity of purpose with Sam Altman’s return](https://techcrunch.com/2023/11/22/openai-will-benefit-from-unity-of-purpose-with-sam-altmans-return/)
 - [Osium AI uses artificial intelligence to speed up materials innovation](https://techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/)
-- [Epic 33-engine burn among successes of of Starship&#39;s 2nd test flight, SpaceX says](https://www.space.com/spacex-starship-second-test-flight-milestones)
+- [Epic 33-engine burn among successes of Starship&#39;s 2nd test flight, SpaceX says](https://www.space.com/spacex-starship-second-test-flight-milestones)
 - [I review cameras for a living — this Amazon Black Friday deal cuts $400 off my favorite camera.](https://www.space.com/i-review-cameras-amazon-black-friday-deal-400-off-sony-a7r-v)
-- [Sunbird pauses its efforts to bring iMessage to Android amid security worries](https://techcrunch.com/2023/11/22/sunbird-pauses-its-efforts-to-bring-imessage-to-android-amid-security-worries/)
-- [Peacock Black Friday deal: Get Peacock for just $1.99 a month for a full year of SYFY and more](https://www.space.com/peacock-streaming-black-friday-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
