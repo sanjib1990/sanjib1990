@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What does a Harry Potter fanfic have to do with OpenAI?](https://techcrunch.com/2023/11/21/what-does-a-harry-potter-fanfic-have-to-do-with-openai/)
-- [Black Friday drone deal: Save $99 on this DJI Mini 3 Fly More Combo](https://www.space.com/dji-mini-3-fly-more-combo-black-friday-deal)
-- [Tiger Global  chieftain Scott Shleifer transitions to advisory role after wild ride](https://techcrunch.com/2023/11/21/tiger-global-chieftain-scott-shleifer-transitions-to-advisory-role-after-wild-ride/)
-- [Yup hacks together a cross-posting app for X, Threads, Bluesky and others](https://techcrunch.com/2023/11/21/yup-hacks-together-a-cross-posting-app-for-x-threads-bluesky-and-others/)
-- [Where OpenAI goes from here is anyone’s guess](https://techcrunch.com/2023/11/21/where-openai-goes-from-here-is-anyones-guess/)
+- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/21/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
+- [Crezco aims to make integrating bill payments easier](https://techcrunch.com/2023/11/21/crezco-aims-to-make-integrating-bill-payments-easier/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Stability AI gets into the video-generating game](https://techcrunch.com/2023/11/21/stability-ai-gets-into-the-video-generating-game/)
+- [Kinterra Capital’s debut $565M fund to support mining for battery metals](https://techcrunch.com/2023/11/21/kinterra-capitals-debut-565m-fund-to-support-mining-for-battery-metals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
