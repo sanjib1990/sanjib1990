@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman to return as OpenAI CEO](https://techcrunch.com/2023/11/21/openai-says-sam-altman-to-return-as-ceo/)
 - [Florida judge finds Tesla, Elon Musk knew of defective Autopilot system](https://techcrunch.com/2023/11/21/florida-judge-finds-tesla-elon-musk-knew-of-defective-autopilot-system/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/21/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Crezco aims to make integrating bill payments easier](https://techcrunch.com/2023/11/21/crezco-aims-to-make-integrating-bill-payments-easier/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/11/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Stability AI gets into the video-generating game](https://techcrunch.com/2023/11/21/stability-ai-gets-into-the-video-generating-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
