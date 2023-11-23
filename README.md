@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk says X will show headlines on the platform again](https://techcrunch.com/2023/11/22/elon-musk-says-x-will-show-headlines-on-the-platform-again/)
 - [Wonder what it&#39;s like to fall into Uranus? These scientists do, too](https://www.space.com/falling-into-uranus-neptune-atmosphere-wind-tunnels-ice-giant)
 - [Singapore-based Climate Alpha analyzes the impact of climate change on real estate](https://techcrunch.com/2023/11/22/climate-alpha/)
 - [OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return](https://techcrunch.com/2023/11/22/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
 - [Bruised Cruise shifts gears in scaled-down robotaxi comeback plan](https://techcrunch.com/2023/11/22/bruised-cruise-shifts-gears-scaled-down-robotaxi-comeback-plan/)
-- [Non-unicorn insurtech Luko urgently needs a buyer, but will it be Allianz?](https://techcrunch.com/2023/11/22/luko-allianz-buyer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
