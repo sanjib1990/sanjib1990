@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 40% on the lightweight DJI Mini 2 SE drone this Black Friday](https://www.space.com/save-40-percent-dji-mini-2-se-drone-black-friday-2023)
+- [China eyes additional modules for Tiangong space station](https://www.space.com/china-tiangong-space-station-additonal-modules)
+- [Save $30 on the Encalife Aurora Star Projector for Black Friday](https://www.space.com/encalife-aurora-star-projector-black-friday-deal-2023)
 - [If I’m being honest, I didn’t have what it takes to be a founder](https://techcrunch.com/2023/11/23/yo-ho-a-founders-life-for-me/)
 - [Google&#39;s DeepMind AI can make better weather forecasts than supercomputers](https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence)
-- [Save 40% on the Celestron PowerSeeker 127EQ telescope for Black Friday](https://www.space.com/save-40-percent-celestron-powerseeker-127eq-telescope-black-friday-2023)
-- [Save a galactic 44% on this Lego Star Wars set for Black Friday](https://www.space.com/lego-star-wars-darth-vader-obi-wan-battle-set-black-friday-2023)
-- [OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return](https://techcrunch.com/2023/11/23/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
