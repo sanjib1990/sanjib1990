@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts celebrate Thanksgiving in space! Here&#39;s what they&#39;ll eat and what they&#39;re thankful for &lpar;video&rpar;](https://www.space.com/astronauts-thanksgiving-international-space-station)
+- [Sony A6600 now under $1000 in this Black Friday Amazon deal](https://www.space.com/sony-a6600-camera-under-1000-black-friday-amazon-deal)
 - [DoorFeed raises another €7M for its platform allowing large-scale investors to hoover-up family homes](https://techcrunch.com/2023/11/23/doorfeed-raises-another-e7m-for-its-platform-allowing-large-scale-investors-to-hoover-up-family-homes/)
 - [Instagram now allows anyone to download public Reels](https://techcrunch.com/2023/11/22/instagram-now-allows-anyone-to-download-public-reels/)
 - [India seeks to regulate deepfakes amid ethical concerns](https://techcrunch.com/2023/11/22/india-seeks-to-regulate-deepfakes-amid-ethical-concerns/)
-- [Pakistan-based BusCaro is providing safer transportation options, especially for women](https://techcrunch.com/2023/11/22/pakistan-based-buscaro-is-providing-safer-transportation-options-especially-for-women/)
-- [Elon Musk says X will show headlines on the platform again](https://techcrunch.com/2023/11/22/elon-musk-says-x-will-show-headlines-on-the-platform-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
