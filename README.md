@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s youngest space station crew send home spectacular views from space &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-tiangong-video)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Black Friday deal: Save $629 on Leica Noctivid 10x42 binoculars](https://www.space.com/leica-noctivid-10x42-binocular-black-friday-deal-2023)
-- [10 scenic spots to watch the April 2024 total solar eclipse](https://www.space.com/10-best-scenic-locations-watch-total-solar-eclipse-2024-national-parks-state-parks)
-- [Black Friday Drone Deal: Save $110 on this  DJI Mini 3 Pro](https://www.space.com/save-110-dollars-dji-mini-3-pro-drone-black-friday-2023)
+- [If I’m being honest, I didn’t have what it takes to be a founder](https://techcrunch.com/2023/11/23/yo-ho-a-founders-life-for-me/)
+- [Google&#39;s DeepMind AI can make better weather forecasts than supercomputers](https://www.space.com/google-deepmind-ai-weather-forecasts-artificial-intelligence)
+- [Save 40% on the Celestron PowerSeeker 127EQ telescope for Black Friday](https://www.space.com/save-40-percent-celestron-powerseeker-127eq-telescope-black-friday-2023)
+- [Save a galactic 44% on this Lego Star Wars set for Black Friday](https://www.space.com/lego-star-wars-darth-vader-obi-wan-battle-set-black-friday-2023)
+- [OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return](https://techcrunch.com/2023/11/23/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
