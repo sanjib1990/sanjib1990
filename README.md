@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wonder what it&#39;s like to fall into Uranus? These scientists do, too](https://www.space.com/falling-into-uranus-neptune-atmosphere-wind-tunnels-ice-giant)
+- [Singapore-based Climate Alpha analyzes the impact of climate change on real estate](https://techcrunch.com/2023/11/22/climate-alpha/)
+- [OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return](https://techcrunch.com/2023/11/22/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
 - [Bruised Cruise shifts gears in scaled-down robotaxi comeback plan](https://techcrunch.com/2023/11/22/bruised-cruise-shifts-gears-scaled-down-robotaxi-comeback-plan/)
 - [Non-unicorn insurtech Luko urgently needs a buyer, but will it be Allianz?](https://techcrunch.com/2023/11/22/luko-allianz-buyer/)
-- [In Australia and New Zealand, a venture downturn isn’t the end — It’s time to shine](https://techcrunch.com/2023/11/22/australia-new-zealand-venture-capital/)
-- [This Max Black Friday deal for $2.99 will get you 6 months of streaming at 70% off](https://www.space.com/max-black-friday-streaming-deal)
-- [Scientists find hydrogen in Apollo moon rocks, suggesting astronauts can harvest lunar water](https://www.space.com/hydrogen-moon-rocks-apollo-astronauts-samples)
 <!-- BLOG-POST-LIST:END -->
 
 ---
