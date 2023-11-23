@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India seeks to regulate deepfakes amid ethical concerns](https://techcrunch.com/2023/11/22/india-seeks-to-regulate-deepfakes-amid-ethical-concerns/)
 - [Pakistan-based BusCaro is providing safer transportation options, especially for women](https://techcrunch.com/2023/11/22/pakistan-based-buscaro-is-providing-safer-transportation-options-especially-for-women/)
 - [Elon Musk says X will show headlines on the platform again](https://techcrunch.com/2023/11/22/elon-musk-says-x-will-show-headlines-on-the-platform-again/)
 - [Wonder what it&#39;s like to fall into Uranus? These scientists do, too](https://www.space.com/falling-into-uranus-neptune-atmosphere-wind-tunnels-ice-giant)
 - [Singapore-based Climate Alpha analyzes the impact of climate change on real estate](https://techcrunch.com/2023/11/22/climate-alpha/)
-- [OpenAI, emerging from the ashes, has a lot to prove even with Sam Altman’s return](https://techcrunch.com/2023/11/22/openai-emerging-from-the-ashes-has-a-lot-to-prove-even-with-sam-altmans-return/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
