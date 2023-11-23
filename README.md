@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Europe&#39;s new Ariane 6 rocket perform crucial 8-minute engine burn today](https://www.space.com/europe-ariane-6-rocket-test-fire-november-2023)
 - [The moon, Saturn and Jupiter provide a Thanksgiving skywatching feast](https://www.space.com/night-sky-thanksgiving-2023-moon-saturn-jupiter)
 - [This Thanksgiving, I am thankful for Starship. Yes, really &lpar;op-ed&rpar;](https://www.space.com/spacex-starship-thankful)
 - [Early Black Friday Lego Star Wars deal: 35% off Hoth battle set](https://www.space.com/lego-star-wars-hoth-battle-set-black-friday-deal-2023)
 - [Save $53 on these lightweight Nikon binoculars this Black Friday](https://www.space.com/nikon-prostaff-p3-black-friday-deal-35-percent-off)
-- [Black Friday Drone Deal: Save 50% on this Holy Stone HS720G](https://www.space.com/black-friday-drone-deal-save-50-percent-holy-stone-hs720g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
