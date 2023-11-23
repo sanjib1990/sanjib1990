@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday Drone Deal: Save 50% on this Holy Stone HS720G](https://www.space.com/black-friday-drone-deal-save-50-percent-holy-stone-hs720g)
+- [US chip export ban is hurting China’s AI startups, not so much the giants yet](https://techcrunch.com/2023/11/23/us-chip-restrictions-on-china-are-hurting-ai-startups-not-so-much-the-big-players/)
+- [Proton Drive encrypted cloud storage service arrives on Mac](https://techcrunch.com/2023/11/23/proton-drive-mac-encrypted/)
+- [Black Friday: Save $183 on these powerful skywatching binos](https://www.space.com/save-183-celestron-skymaster-25x100-binocular-black-friday-deal)
 - [Astronauts celebrate Thanksgiving in space! Here&#39;s what they&#39;ll eat and what they&#39;re thankful for &lpar;video&rpar;](https://www.space.com/astronauts-thanksgiving-international-space-station)
-- [Sony A6600 now under $1000 in this Black Friday Amazon deal](https://www.space.com/sony-a6600-camera-under-1000-black-friday-amazon-deal)
-- [DoorFeed raises another €7M for its platform allowing large-scale investors to hoover-up family homes](https://techcrunch.com/2023/11/23/doorfeed-raises-another-e7m-for-its-platform-allowing-large-scale-investors-to-hoover-up-family-homes/)
-- [Instagram now allows anyone to download public Reels](https://techcrunch.com/2023/11/22/instagram-now-allows-anyone-to-download-public-reels/)
-- [India seeks to regulate deepfakes amid ethical concerns](https://techcrunch.com/2023/11/22/india-seeks-to-regulate-deepfakes-amid-ethical-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
