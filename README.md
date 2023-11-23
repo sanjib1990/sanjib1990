@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grab a mesmerizing star projector for less than $20 this Black Friday](https://www.space.com/encalife-ambience-star-projector-black-friday-deal-2023)
 - [Inside &#39;Earthrise&#39;: A historian&#39;s take on the origins of the Apollo 8 &#39;image of the century&#39;](https://www.space.com/earthrise-apollo-8-photo-explained-by-historian)
 - [Black Friday: Save $450 on one of the best Celestron telescopes](https://www.space.com/save-450-dollars-celestron-telescope-black-friday-2023)
 - [I’m trying so hard not to gush over Teenage Engineering’s latest gadget](https://techcrunch.com/2023/11/23/im-trying-so-hard-not-to-gush-over-teenage-engineerings-latest-gadget/)
 - [High-energy &#39;sun goddess&#39; particle opens possibilities for new physics, exciting scientists](https://www.space.com/mysterious-sun-goddess-particle-new-physics)
-- [Save 40% on the lightweight DJI Mini 2 SE drone this Black Friday](https://www.space.com/save-40-percent-dji-mini-2-se-drone-black-friday-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
