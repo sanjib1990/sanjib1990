@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In Australia and New Zealand, a venture downturn isn’t the end. It’s time to shine.](https://techcrunch.com/2023/11/22/australia-new-zealand-venture-capital/)
+- [Bruised Cruise shifts gears in scaled-down robotaxi comeback plan](https://techcrunch.com/2023/11/22/bruised-cruise-shifts-gears-scaled-down-robotaxi-comeback-plan/)
+- [Non-unicorn insurtech Luko urgently needs a buyer, but will it be Allianz?](https://techcrunch.com/2023/11/22/luko-allianz-buyer/)
+- [In Australia and New Zealand, a venture downturn isn’t the end — It’s time to shine](https://techcrunch.com/2023/11/22/australia-new-zealand-venture-capital/)
 - [This Max Black Friday deal for $2.99 will get you 6 months of streaming at 70% off](https://www.space.com/max-black-friday-streaming-deal)
 - [Scientists find hydrogen in Apollo moon rocks, suggesting astronauts can harvest lunar water](https://www.space.com/hydrogen-moon-rocks-apollo-astronauts-samples)
-- [&#39;Sunspot archipelago&#39; 15 times wider than Earth could soon bombard us with solar storms](https://www.space.com/enormous-sunspot-archipelago-solar-flares-earth)
-- [No, you can’t lie to your board of directors](https://techcrunch.com/2023/11/22/dont-lie-to-your-board-of-directors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
