@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 scenic spots to watch the April 2024 total solar eclipse](https://www.space.com/10-best-scenic-locations-watch-total-solar-eclipse-2024-national-parks-state-parks)
+- [Black Friday Drone Deal: Save $110 on this  DJI Mini 3 Pro](https://www.space.com/save-110-dollars-dji-mini-3-pro-drone-black-friday-2023)
 - [Watch Europe&#39;s new Ariane 6 rocket perform crucial 8-minute engine burn today](https://www.space.com/europe-ariane-6-rocket-test-fire-november-2023)
 - [The moon, Saturn and Jupiter provide a Thanksgiving skywatching feast](https://www.space.com/night-sky-thanksgiving-2023-moon-saturn-jupiter)
 - [This Thanksgiving, I am thankful for Starship. Yes, really &lpar;op-ed&rpar;](https://www.space.com/spacex-starship-thankful)
-- [Early Black Friday Lego Star Wars deal: 35% off Hoth battle set](https://www.space.com/lego-star-wars-hoth-battle-set-black-friday-deal-2023)
-- [Save $53 on these lightweight Nikon binoculars this Black Friday](https://www.space.com/nikon-prostaff-p3-black-friday-deal-35-percent-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
