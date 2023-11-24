@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese scientists build model Mars atmosphere to aid sample-return plans](https://www.space.com/china-mars-sample-return-model-atmosphere)
-- [Warren Buffett’s Berkshire Hathaway exits Paytm at a 40% loss](https://techcrunch.com/2023/11/24/warren-buffett-berkshire-hathaway-exits-paytm-at-a-40-loss/)
-- [Save 35% on Lego Star Wars Luke Skywalker&#39;s X-Wing Fighter this Black Friday](https://www.space.com/lego-star-wars-luke-skywalker-x-wing-fighter-black-friday-deal)
-- [Save 33% on SanDisk 2TB Extreme Portable SSD this Black Friday](https://www.space.com/sandisk-2tb-extreme-ssd-black-friday-deal-2023)
-- [Denmark&#39;s comic strip bear Rasmus Klump takes a spin on the space station](https://www.space.com/rasmus-klump-andreas-mogensen-international-space-station)
+- [Watch this Jupiter moon lander handle harsh terrain it may face on Europa &lpar;video&rpar;](https://www.space.com/nasa-engineers-test-lander-europa-mission)
+- [Adobe: Thanksgiving US online sales nudge up to $5.6B; Salesforce: $31.7B spent globally](https://techcrunch.com/2023/11/24/thanksgiving-holiday-shopping/)
+- [Lego Ideas Tales of The Space Age is one of the best space Lego sets and it&#39;s 15% off for Black Friday](https://www.space.com/lego-ideas-tales-of-the-space-age-black-friday-deal)
+- [Startups should consider hiring fractional AI officers](https://techcrunch.com/2023/11/24/startups-should-consider-hiring-fractional-ai-officers/)
+- [Black Friday: Save a whopping $180 on the Lego UCS Razor Crest](https://www.space.com/lego-razor-crest-mandalorian-black-friday-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
