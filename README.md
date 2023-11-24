@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch this Jupiter moon lander handle harsh terrain it may face on Europa &lpar;video&rpar;](https://www.space.com/nasa-engineers-test-lander-europa-mission)
-- [Adobe: Thanksgiving US online sales nudge up to $5.6B; Salesforce: $31.7B spent globally](https://techcrunch.com/2023/11/24/thanksgiving-holiday-shopping/)
-- [Lego Ideas Tales of The Space Age is one of the best space Lego sets and it&#39;s 15% off for Black Friday](https://www.space.com/lego-ideas-tales-of-the-space-age-black-friday-deal)
-- [Startups should consider hiring fractional AI officers](https://techcrunch.com/2023/11/24/startups-should-consider-hiring-fractional-ai-officers/)
-- [Black Friday: Save a whopping $180 on the Lego UCS Razor Crest](https://www.space.com/lego-razor-crest-mandalorian-black-friday-2023)
+- [North Korea rocket explodes during spy satellite launch, and meteor hunters caught it on camera: report](https://www.space.com/north-korea-rocket-stage-spy-satellite-explosion-report)
+- [Staggering $1,600 saving this Fujifilm GFX 100S Black Friday camera deal](https://www.space.com/fujifilm-gfx-100s-1600-saving-black-friday-camera-deal-2023)
+- [Black Friday drone deal: Save up to $240 on this Ruko F11Pro drone](https://www.space.com/news/black-friday-drone-deal-save-up-to-dollar240-on-this-ruko-f11pro-drone)
+- [Sony A6600 now under $1000 in this Black Friday Amazon deal](https://www.space.com/sony-a6600-camera-under-1000-black-friday-amazon-deal)
+- [Pocket $500 on the Nikon D850 camera with this Black Friday deal](https://www.space.com/best-black-friday-dslr-camera-deal-nikon-d850-500-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
