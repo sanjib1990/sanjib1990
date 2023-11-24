@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Lego Star Wars Advent Calendar is 30% off for Black Friday](https://www.space.com/lego-star-wars-advent-calendar-2023-black-friday-deal)
+- [Save $200 on Zeiss Conquest HD 10x42 binoculars this Black Friday](https://www.space.com/zeiss-conquest-hd-10x42-binocular-black-friday-deal-2023)
 - [Double discount Black Friday drone deal: Over 65% off, save $405!](https://www.space.com/double-discount-65-percent-off-bwine-f7gb2-black-friday-drone-deal-2023)
 - [Black Friday: Save $200 on this Nikon Z 14-24mm f/2.8 S lens](https://www.space.com/nikon-nikkor-z-14-24mm-f28-s-black-friday-lens-deal-2023)
 - [Cosmic radiation during spaceflight could increase risk of erectile dysfunction](https://www.space.com/erectile-dysfunction-astronauts-sexual-health-microgravity)
-- [Black Friday drone deal: DJI Air 2S now $200 off at Amazon](https://www.space.com/dji-air-2s-drone-deal-black-friday-2023)
-- [James Webb Space Telescope finds water and methane in atmosphere of a &#39;warm Jupiter&#39;](https://www.space.com/james-webb-space-telescope-wasp-80-b-methane-water-vapor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
