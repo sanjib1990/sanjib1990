@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saviu Ventures’ second fund reaches €12 million first close to back Francophone Africa startups](https://techcrunch.com/2023/11/24/saviu-second-fund/)
-- [&#39;Alien&#39; spherules dredged from the Pacific are probably just industrial pollution, new studies suggest](https://www.space.com/alien-spherules-new-analysis-shows-likely-origin-is-earth)
-- [See the nearly full moon and Jupiter shine bright together tonight](https://www.space.com/moon-jupiter-nov-2023)
-- [Save 23% on the excellent Nikon Prostaff P7 8x42 binoculars this Black Friday](https://www.space.com/save-23-percent-nikon-prostaff-p7-8x42-black-friday-binocular-deal-2023)
-- [Lego Luke Skywalker&#39;s Landspeeder is 30% off for Black Friday](https://www.space.com/lego-luke-skywalker-landspeeder-ucs-black-friday-deal-2023)
+- [Denmark&#39;s comic strip bear Rasmus Klump takes a spin on the space station](https://www.space.com/rasmus-klump-andreas-mogensen-international-space-station)
+- [Further Black Friday price drop! Save $900 on Canon EOS R5](https://www.space.com/black-friday-camera-deal-canon-eos-r5-900-dollars-discount)
+- [50% Black Friday discount: Star Wars fans, build your own Grogu with this huge LEGO deal](https://www.space.com/lego-star-wars-grogu-the-child-black-friday-deal-2023)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [Save $150 on the Celestron StarSense Explorer DX 102AZ this Black Friday](https://www.space.com/black-friday-telescope-deal-150-dollar-discount-celestron-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
