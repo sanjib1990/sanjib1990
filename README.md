@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 30% on this groundbreaking Peak Design travel tripod this Black Friday](https://www.space.com/peak-design-travel-tripod-black-friday-deal-2023)
+- [&#39;Mateship&#39; or &#39;Kakirra&#39;? Australia turns to public to name its 1st moon rover](https://www.space.com/australia-first-moon-rover-name-vote)
+- [Black Friday: Save 30% on the Celestron SkyMaster 15x70 Binocular](https://www.space.com/celestron-skymaster-15x70-binocular-black-friday-deal-2023)
+- [The best beginner Celestron telescope is $100 off for Black Friday](https://www.space.com/celestron-nexstar-4se-beginner-telescope-black-friday-deal-2023)
 - [Save $100 on the Nikon Z5 in this Black Friday mirrorless camera deal](https://www.space.com/news/save-dollar100-on-the-nikon-z5-in-this-black-friday-mirrorless-camera-deal)
-- [Grab a mesmerizing star projector for less than $20 this Black Friday](https://www.space.com/encalife-ambience-star-projector-black-friday-deal-2023)
-- [Inside &#39;Earthrise&#39;: A historian&#39;s take on the origins of the Apollo 8 &#39;image of the century&#39;](https://www.space.com/earthrise-apollo-8-photo-explained-by-historian)
-- [Black Friday: Save $450 on one of the best Celestron telescopes](https://www.space.com/save-450-dollars-celestron-telescope-black-friday-2023)
-- [I’m trying so hard not to gush over Teenage Engineering’s latest gadget](https://techcrunch.com/2023/11/23/im-trying-so-hard-not-to-gush-over-teenage-engineerings-latest-gadget/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
