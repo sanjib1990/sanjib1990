@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Double discount Black Friday drone deal: Over 65% off, save $405!](https://www.space.com/double-discount-65-percent-off-bwine-f7gb2-black-friday-drone-deal-2023)
+- [Black Friday: Save $200 on this Nikon Z 14-24mm f/2.8 S lens](https://www.space.com/nikon-nikkor-z-14-24mm-f28-s-black-friday-lens-deal-2023)
+- [Cosmic radiation during spaceflight could increase risk of erectile dysfunction](https://www.space.com/erectile-dysfunction-astronauts-sexual-health-microgravity)
 - [Black Friday drone deal: DJI Air 2S now $200 off at Amazon](https://www.space.com/dji-air-2s-drone-deal-black-friday-2023)
 - [James Webb Space Telescope finds water and methane in atmosphere of a &#39;warm Jupiter&#39;](https://www.space.com/james-webb-space-telescope-wasp-80-b-methane-water-vapor)
-- [Fly more for less: $200 saving on the Autel Robotics EVO Lite+ drone this Black Friday](https://www.space.com/black-friday-drone-deal-200-off-autel-robotics-2023)
-- [Canon RF 15-35mm F/2.8 L IS USM now $500 off: Black Friday lens deal](https://www.space.com/canon-rf-15-35mm-f28-l-is-usm-lens-black-friday-camera-deal)
-- [Nikon Z8 &amp; lens bundle $500 off: Black Friday camera deal](https://www.space.com/nikon-z8-lens-bundle-black-friday-camera-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
