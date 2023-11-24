@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saviu Ventures’ second fund reaches €12 million first close to back Francophone Africa startups](https://techcrunch.com/2023/11/24/saviu-second-fund/)
+- [&#39;Alien&#39; spherules dredged from the Pacific are probably just industrial pollution, new studies suggest](https://www.space.com/alien-spherules-new-analysis-shows-likely-origin-is-earth)
+- [See the nearly full moon and Jupiter shine bright together tonight](https://www.space.com/moon-jupiter-nov-2023)
 - [Save 23% on the excellent Nikon Prostaff P7 8x42 binoculars this Black Friday](https://www.space.com/save-23-percent-nikon-prostaff-p7-8x42-black-friday-binocular-deal-2023)
 - [Lego Luke Skywalker&#39;s Landspeeder is 30% off for Black Friday](https://www.space.com/lego-luke-skywalker-landspeeder-ucs-black-friday-deal-2023)
-- [Capture the stars this Black Friday: Save $800 on the Nikon Z7 II](https://www.space.com/nikon-z7-ii-black-friday-camera-deal-2023)
-- [Black Friday binocular deal — save $94 on Celestron binos](https://www.space.com/celestron-nature-dx-12x56-black-friday-binocular-deal-2023)
-- [Save 30% on this groundbreaking Peak Design travel tripod this Black Friday](https://www.space.com/peak-design-travel-tripod-black-friday-deal-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
