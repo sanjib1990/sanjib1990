@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fly to infinity and beyond to save 40% on Buzz Lightyear&#39;s Lego XL-15 Spaceship for Black Friday](https://www.space.com/lego-buzz-lightyear-xl-15-spaceship-black-friday-2023)
+- [The super Lego Marvel Avengers advent calendar is 30% off this Black Friday](https://www.space.com/lego-marvel-avengers-advent-calendar-black-friday-2023)
+- [This huge Lego Marvels Avengers Tower comes with free gifts for Black Friday](https://www.space.com/lego-avengers-tower-free-gifts-black-friday-2023)
 - [Save 20% on Lego&#39;s Hoopty spaceship from The Marvels this Black Friday](https://www.space.com/lego-the-marvels-hoopty-spaceship-black-friday-2023)
 - [Meta Quest 3 only launched last month, but the Black Friday deals are here already](https://www.space.com/meta-quest-3-black-friday-vr-deals-2023)
-- [NASA astronaut celebrates Thanksgiving on ISS with turkey socks, Earth views](https://www.space.com/nasa-astronaut-iss-thanksgiving-turkey-socks)
-- [This Lego Star Wars Advent Calendar is 30% off for Black Friday](https://www.space.com/lego-star-wars-advent-calendar-2023-black-friday-deal)
-- [Save $200 on Zeiss Conquest HD 10x42 binoculars this Black Friday](https://www.space.com/zeiss-conquest-hd-10x42-binocular-black-friday-deal-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
