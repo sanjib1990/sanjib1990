@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 23% on the excellent Nikon Prostaff P7 8x42 binoculars this Black Friday](https://www.space.com/save-23-percent-nikon-prostaff-p7-8x42-black-friday-binocular-deal-2023)
+- [Lego Luke Skywalker&#39;s Landspeeder is 30% off for Black Friday](https://www.space.com/lego-luke-skywalker-landspeeder-ucs-black-friday-deal-2023)
+- [Capture the stars this Black Friday: Save $800 on the Nikon Z7 II](https://www.space.com/nikon-z7-ii-black-friday-camera-deal-2023)
+- [Black Friday binocular deal — save $94 on Celestron binos](https://www.space.com/celestron-nature-dx-12x56-black-friday-binocular-deal-2023)
 - [Save 30% on this groundbreaking Peak Design travel tripod this Black Friday](https://www.space.com/peak-design-travel-tripod-black-friday-deal-2023)
-- [&#39;Mateship&#39; or &#39;Kakirra&#39;? Australia turns to public to name its 1st moon rover](https://www.space.com/australia-first-moon-rover-name-vote)
-- [Black Friday: Save 30% on the Celestron SkyMaster 15x70 Binocular](https://www.space.com/celestron-skymaster-15x70-binocular-black-friday-deal-2023)
-- [The best beginner Celestron telescope is $100 off for Black Friday](https://www.space.com/celestron-nexstar-4se-beginner-telescope-black-friday-deal-2023)
-- [Save $100 on the Nikon Z5 in this Black Friday mirrorless camera deal](https://www.space.com/news/save-dollar100-on-the-nikon-z5-in-this-black-friday-mirrorless-camera-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
