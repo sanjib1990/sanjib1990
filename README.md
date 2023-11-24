@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese scientists build model Mars atmosphere to aid sample-return plans](https://www.space.com/china-mars-sample-return-model-atmosphere)
+- [Warren Buffett’s Berkshire Hathaway exits Paytm at a 40% loss](https://techcrunch.com/2023/11/24/warren-buffett-berkshire-hathaway-exits-paytm-at-a-40-loss/)
+- [Save 35% on Lego Star Wars Luke Skywalker&#39;s X-Wing Fighter this Black Friday](https://www.space.com/lego-star-wars-luke-skywalker-x-wing-fighter-black-friday-deal)
+- [Save 33% on SanDisk 2TB Extreme Portable SSD this Black Friday](https://www.space.com/sandisk-2tb-extreme-ssd-black-friday-deal-2023)
 - [Denmark&#39;s comic strip bear Rasmus Klump takes a spin on the space station](https://www.space.com/rasmus-klump-andreas-mogensen-international-space-station)
-- [Further Black Friday price drop! Save $900 on Canon EOS R5](https://www.space.com/black-friday-camera-deal-canon-eos-r5-900-dollars-discount)
-- [50% Black Friday discount: Star Wars fans, build your own Grogu with this huge LEGO deal](https://www.space.com/lego-star-wars-grogu-the-child-black-friday-deal-2023)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Save $150 on the Celestron StarSense Explorer DX 102AZ this Black Friday](https://www.space.com/black-friday-telescope-deal-150-dollar-discount-celestron-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
