@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The fate of US venture capital in China teeters on uncertainty](https://techcrunch.com/2023/11/25/fate-of-us-venture-capital-in-china/)
+- [Fate of US venture capital in China teeters on uncertainty](https://techcrunch.com/2023/11/25/fate-of-us-venture-capital-in-china/)
 - [This stunning Lego Guardians of the Galaxy ship is 40% off, Amazon&#39;s best price yet, for Black Friday](https://www.space.com/lego-guardians-ship-save-40-percent-black-friday-2023)
 - [Save 20% on Lego Star Wars Dark Trooper Helmet this Black Friday](https://www.space.com/lego-dark-trooper-black-friday-2023)
 - [Fly to infinity and beyond to save 40% on Buzz Lightyear&#39;s Lego XL-15 Spaceship for Black Friday](https://www.space.com/lego-buzz-lightyear-xl-15-spaceship-black-friday-2023)
