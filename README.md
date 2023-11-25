@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This stunning Lego Guardians of the Galaxy ship is 40% off, Amazon&#39;s best price yet, for Black Friday](https://www.space.com/lego-guardians-ship-save-40-percent-black-friday-2023)
+- [Save 20% on Lego Star Wars Dark Trooper Helmet this Black Friday](https://www.space.com/lego-dark-trooper-black-friday-2023)
 - [Fly to infinity and beyond to save 40% on Buzz Lightyear&#39;s Lego XL-15 Spaceship for Black Friday](https://www.space.com/lego-buzz-lightyear-xl-15-spaceship-black-friday-2023)
 - [The super Lego Marvel Avengers advent calendar is 30% off this Black Friday](https://www.space.com/lego-marvel-avengers-advent-calendar-black-friday-2023)
 - [This huge Lego Marvels Avengers Tower comes with free gifts for Black Friday](https://www.space.com/lego-avengers-tower-free-gifts-black-friday-2023)
-- [Save 20% on Lego&#39;s Hoopty spaceship from The Marvels this Black Friday](https://www.space.com/lego-the-marvels-hoopty-spaceship-black-friday-2023)
-- [Meta Quest 3 only launched last month, but the Black Friday deals are here already](https://www.space.com/meta-quest-3-black-friday-vr-deals-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
