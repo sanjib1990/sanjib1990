@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [If you&#39;re buying Lego on Amazon this Black Friday weekend, watch out for cheap imitators](https://www.space.com/Lego-cheap-imitators-caution-amazon-black-friday)
-- [The LEGO Marvel Daily Bugle just got a rare discount for Black Friday](https://www.space.com/black-friday-lego-marvel-deal)
-- [Satellites spy remnants of hidden Bronze Age settlement in Serbia](https://www.space.com/satellites-see-hidden-bronze-age-settlement-serbia)
-- [The Terminator franchise should take a break from the big screen in order to evolve](https://www.space.com/the-terminator-franchise-should-take-a-break-from-the-big-screen-in-order-to-evolve)
-- [Save 40% on this adorable LEGO Battle of Endor Heroes set this Black Friday weekend](https://www.space.com/black-friday-lego-star-wars-battle-of-endor-heroes)
+- [Top 7 best streaming deals we&#39;ve spotted: Black Friday weekend 2023](https://www.space.com/top-best-streaming-deals-black-friday-cyber-monday)
+- [Our universe&#39;s smallest galaxies hold the largest star factories. Here&#39;s why](https://www.space.com/small-galaxies-star-forming-nebulas-black-hole-metallicity)
+- [Top 10 best telescope deals we&#39;ve spotted: Black Friday weekend 2023](https://www.space.com/top-10-telescope-deals-black-friday-cyber-monday)
+- [Save 20% on the LEGO TIE Bomber this Black Friday weekend, ideal for younger Star Wars fans](https://www.space.com/black-friday-lego-star-wars-tie-bomber-deal)
+- [This Black Friday Lego deal is still live: save 30% on the Lunar Space Station](https://www.space.com/lego-city-lunar-space-station-black-friday-2023-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
