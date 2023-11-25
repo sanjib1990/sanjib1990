@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save an incredible $500 on the Canon RF 24-70mm f/2.8 L IS USM lens this Black Friday](https://www.space.com/black-friday-canon-rf-24-70mm-deal)
+- [Save $500 on the Canon RF 70-200mm F2.8L IS USM lens this Black Friday](https://www.space.com/black-friday-canon-rf-70-200mm-lens-deal)
+- [Sony A7 III now $500 off in this Black Friday camera deal](https://www.space.com/sony-a7-iii-now-500-off-black-friday-camera-deal-2023)
+- [Get $300 off with this Nikon D7500 Black Friday deal](https://www.space.com/black-friday-nikon-d7500-camera-deal)
 - [Fate of US venture capital in China teeters on uncertainty](https://techcrunch.com/2023/11/25/fate-of-us-venture-capital-in-china/)
-- [This stunning Lego Guardians of the Galaxy ship is 40% off, Amazon&#39;s best price yet, for Black Friday](https://www.space.com/lego-guardians-ship-save-40-percent-black-friday-2023)
-- [Save 20% on Lego Star Wars Dark Trooper Helmet this Black Friday](https://www.space.com/lego-dark-trooper-black-friday-2023)
-- [Fly to infinity and beyond to save 40% on Buzz Lightyear&#39;s Lego XL-15 Spaceship for Black Friday](https://www.space.com/lego-buzz-lightyear-xl-15-spaceship-black-friday-2023)
-- [The super Lego Marvel Avengers advent calendar is 30% off this Black Friday](https://www.space.com/lego-marvel-avengers-advent-calendar-black-friday-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
