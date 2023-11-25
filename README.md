@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 30% on the gigantic, fun-loving Lego Monkie Kid&#39;s Galactic Explorer](https://www.space.com/black-friday-lego-monkie-kids-galactic-explorer-deal)
+- [This Lego City Mars Spacecraft Exploration Missions Black Friday deal is out of this world](https://www.space.com/black-friday-lego-city-mars-spacecraft-exploration-missions-deal)
+- [Save 30% on this fun Lego Monkie Kid space playset this Black Friday weekend](https://www.space.com/black-friday-lego-monkie-kid-space-playset-deal)
 - [Lego City&#39;s Lunar Research Base is 20% off for Black Friday](https://www.space.com/black-friday-lego-city-lunar-research-base-deal)
 - [Black Friday online buying hits a record $9.8B in the US, $70.9B globally](https://techcrunch.com/2023/11/25/black-friday-2033-e-commerce/)
-- [Neuralink, Elon Musk’s brain implant startup, quietly raises an additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
-- [Save 20% on this Mandalorian&#39;s N-1 Starfighter LEGO set for Black Friday weekend](https://www.space.com/black-friday-lego-mandalorian-starfighter-deal)
-- [Save $145 on the Sky-Watcher Classic 250P telescope this Black Friday weekend](https://www.space.com/black-friday-skywatcher-250p-telescope-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
