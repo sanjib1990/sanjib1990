@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Terminator franchise should take a break from the big screen in order to evolve](https://www.space.com/the-terminator-franchise-should-take-a-break-from-the-big-screen-in-order-to-evolve)
+- [If you&#39;re buying Lego on Amazon this Black Friday weekend, watch out for cheap imitators](https://www.space.com/Lego-cheap-imitators-caution-amazon-black-friday)
+- [The LEGO Marvel Daily Bugle just got a rare discount for Black Friday](https://www.space.com/black-friday-lego-marvel-deal)
 - [Satellites spy remnants of hidden Bronze Age settlement in Serbia](https://www.space.com/satellites-see-hidden-bronze-age-settlement-serbia)
+- [The Terminator franchise should take a break from the big screen in order to evolve](https://www.space.com/the-terminator-franchise-should-take-a-break-from-the-big-screen-in-order-to-evolve)
 - [Save 40% on this adorable LEGO Battle of Endor Heroes set this Black Friday weekend](https://www.space.com/black-friday-lego-star-wars-battle-of-endor-heroes)
-- [Black Friday weekend: Save $80 on this fantastic Potensic ATOM drone](https://www.space.com/potensic-atom-drone-save-80-black-friday-weekend-2023)
-- [Save an incredible $500 on the Canon RF 24-70mm f/2.8 L IS USM lens this Black Friday](https://www.space.com/black-friday-canon-rf-24-70mm-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
