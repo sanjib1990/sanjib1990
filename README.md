@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Best camera deals we&#39;ve spotted: Black Friday weekend 2023](https://www.space.com/black-friday-cyber-monday-camera-deals)
-- [There&#39;s a huge 55% saving on this Celestron NexStar telescope this Black Friday weekend](https://www.space.com/black-friday-celestron-nexstar-6se-telescope-deal)
-- [Top 10 best binoculars deals we&#39;ve spotted: Black Friday weekend 2023](https://www.space.com/top-binoculars-deals-black-friday-cyber-monday)
-- [Black Friday weekend: Now just $27 for the Celestron 7x50 binoculars](https://www.space.com/celestron-7x50-binocular-black-friday-cyber-monday-deal-save-28)
-- [Top 7 best streaming deals we&#39;ve spotted: Black Friday weekend 2023](https://www.space.com/top-best-streaming-deals-black-friday-cyber-monday)
+- [Lego City&#39;s Lunar Research Base is 20% off for Black Friday](https://www.space.com/black-friday-lego-city-lunar-research-base-deal)
+- [Black Friday online buying hits a record $9.8B in the US, $70.9B globally](https://techcrunch.com/2023/11/25/black-friday-2033-e-commerce/)
+- [Neuralink, Elon Musk’s brain implant startup, quietly raises an additional $43M](https://techcrunch.com/2023/11/25/neuralink-elon-musks-brain-implant-startup-quietly-raises-an-additional-43m/)
+- [Save 20% on this Mandalorian&#39;s N-1 Starfighter LEGO set for Black Friday weekend](https://www.space.com/black-friday-lego-mandalorian-starfighter-deal)
+- [Save $145 on the Sky-Watcher Classic 250P telescope this Black Friday weekend](https://www.space.com/black-friday-skywatcher-250p-telescope-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
