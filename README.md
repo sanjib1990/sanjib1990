@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon meet up with the Seven Sisters of the Pleiades tonight](https://www.space.com/moon-pleiades-seven-sisters-nov-2023)
+- [Get a LEGO Star Wars Jedi Starfighter for under $25 ahead of Cyber Monday](https://www.space.com/cyber-monday-lego-star-wars-jedi-starfighter-deal)
+- [Save 20% on the Lego Star Wars Millennium Falcon set this Cyber Monday](https://www.space.com/cyber-monday-lego-star-wars-millennium-falcon-deal)
+- [Cyber Monday Saving! $150 off Sigma 24-70mm f/2.8 DG DN Art Lens](https://www.space.com/sigma-astro-lens-cyber-monday-camera-deal-2023)
 - [This Star Wars LEGO TIE Fighter is a perfect gift thanks to a Cyber Monday discount](https://www.space.com/cyber-monday-star-wars-lego-tie-fighter-deal)
-- [Cyber Monday deal: Save $23 on Nikon 10x50 Aculon A211 binoculars](https://www.space.com/cyber-monday-nikon-aculon-a211-binoculars-deal)
-- [Medical emergencies will happen in deep space. Here&#39;s how Canada is getting ready](https://www.space.com/canadian-space-agency-deep-space-healthcare-challenge-finalists)
-- [&#39;Krull&#39;: the science fantasy of &#39;Star Wars&#39; without the magic](https://www.space.com/krull-the-science-fantasy-of-star-wars-without-the-magic)
-- [Save 20% on the excellent Nikon Z6 II full-frame mirrorless camera this Cyber Monday](https://www.space.com/cyber-monday-nikon-z6-mirrorless-camera-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
