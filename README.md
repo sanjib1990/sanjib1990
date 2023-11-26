@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fujifilm GFX50S II is a huge $800 off this Cyber Monday](https://www.space.com/cyber-monday-fujifilm-gfx50s-camera-deal)
-- [Cyber Monday drone deal: Get $155 off the beginner-friendly Holy Stone HS720R](https://www.space.com/cyber-monday-drone-deal-holy-stone-hs720r-155-saving)
-- [Cyber Monday: Save $100 with this Canon EOS R7 camera deal](https://www.space.com/cyber-monday-canon-eos-r7-camera-deal)
-- [Get $300 off the Canon EOS R6 with this Cyber Monday deal](https://www.space.com/cyber-monday-canon-eos-r6-camera-deal)
-- [Save $185 on Sky-Watcher&#39;s StarTravel 102 AZ-GTe telescope this Cyber Monday](https://www.space.com/cyber-monday-skywatcher-startravel-120-telescope-deal)
+- [This Star Wars LEGO TIE Fighter is a perfect gift thanks to a Cyber Monday discount](https://www.space.com/cyber-monday-star-wars-lego-tie-fighter-deal)
+- [Cyber Monday deal: Save $23 on Nikon 10x50 Aculon A211 binoculars](https://www.space.com/cyber-monday-nikon-aculon-a211-binoculars-deal)
+- [Medical emergencies will happen in deep space. Here&#39;s how Canada is getting ready](https://www.space.com/canadian-space-agency-deep-space-healthcare-challenge-finalists)
+- [&#39;Krull&#39;: the science fantasy of &#39;Star Wars&#39; without the magic](https://www.space.com/krull-the-science-fantasy-of-star-wars-without-the-magic)
+- [Save 20% on the excellent Nikon Z6 II full-frame mirrorless camera this Cyber Monday](https://www.space.com/cyber-monday-nikon-z6-mirrorless-camera-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
