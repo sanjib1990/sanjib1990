@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber Monday deal: Cheapest-ever price! $900 discount on Canon EOS R5](https://www.space.com/cyber-monday-camera-deal-2023-900-saving-canon-eos-r5)
 - [See the moon meet up with the Seven Sisters of the Pleiades tonight](https://www.space.com/moon-pleiades-seven-sisters-nov-2023)
 - [Get a LEGO Star Wars Jedi Starfighter for under $25 ahead of Cyber Monday](https://www.space.com/cyber-monday-lego-star-wars-jedi-starfighter-deal)
 - [Save 20% on the Lego Star Wars Millennium Falcon set this Cyber Monday](https://www.space.com/cyber-monday-lego-star-wars-millennium-falcon-deal)
 - [Cyber Monday Saving! $150 off Sigma 24-70mm f/2.8 DG DN Art Lens](https://www.space.com/sigma-astro-lens-cyber-monday-camera-deal-2023)
-- [This Star Wars LEGO TIE Fighter is a perfect gift thanks to a Cyber Monday discount](https://www.space.com/cyber-monday-star-wars-lego-tie-fighter-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
