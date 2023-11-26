@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber Monday telescope deal: 33% off Celestron AstroMaster 70AZ](https://www.space.com/cyber-monday-telescope-celestron-astromaster-70-az-deal)
-- [TC Startup Battlefield master class with Blumberg Capital: Make the most of your investors’ expertise](https://techcrunch.com/2023/11/26/battlefield-master-class-blumberg-capital/)
-- [Early Cyber Monday star projector deal: 50% off Encalife&#39;s Atmosphere Smart Galaxy](https://www.space.com/cyber-monday-2023-encalife-atmosphere-deal-save-50-percent)
-- [Huge 47% off this Cyber Monday home planetarium deal](https://www.space.com/cyber-monday-deal-2023-home-planetarium)
-- [Save $190 on the Sigma 14-24mm F2.8 DG DN Sony E Mount lens this Cyber Monday](https://www.space.com/cyber-monday-sigma-dg-dn-sony-e-mount-lens-deal)
+- [Refections on Web Summit: Out of the frying pan, and out of the fire?](https://techcrunch.com/2023/11/26/refections-on-web-summit-out-of-the-frying-pan-and-out-of-the-fire/)
+- [Save over $120 on the Celestron NexStar 130 SLT telescope this Cyber Monday](https://www.space.com/cyber-monday-celestron-nexstar-130slt-telescope-deal)
+- [Bag $20 off the Sega Toys Homestar Flux for Cyber Monday](https://www.space.com/cyber-monday-sega-toys-homestar-flux-star-projector-deal)
+- [This huge Cyber Monday deal can net you an excellent drone for almost half price](https://www.space.com/cyber-monday-ruko-r11pro-drone-deal)
+- [Save $120 on the excellent Celestron AstroMaster 114EQ telescope this Cyber Monday](https://www.space.com/cyber-monday-celestron-astromaster-114eq-telescope-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
