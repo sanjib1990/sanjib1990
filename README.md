@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m sending my name to Jupiter&#39;s moon Europa on a NASA spacecraft — and here&#39;s why you should, too](https://www.space.com/nasa-clipper-moon-jupiter-europa-human-names-microchip)
 - [What startup founders need to know about AI heading into 2024](https://techcrunch.com/2023/11/26/what-startup-founders-need-to-know-about-ai-heading-into-2024/)
 - [Sam Altman returns to OpenAI, Apple adopts RCS, and Binance’s CEO pleads guilty to charges](https://techcrunch.com/2023/11/25/sam-altman-returns-to-openai-apple-adopts-rcs-and-binances-ceo-pleads-guilty-to-charges/)
 - [Save 30% on the gigantic, fun-loving Lego Monkie Kid&#39;s Galactic Explorer](https://www.space.com/black-friday-lego-monkie-kids-galactic-explorer-deal)
 - [This Lego City Mars Spacecraft Exploration Missions Black Friday deal is out of this world](https://www.space.com/black-friday-lego-city-mars-spacecraft-exploration-missions-deal)
-- [Save 30% on this fun Lego Monkie Kid space playset this Black Friday weekend](https://www.space.com/black-friday-lego-monkie-kid-space-playset-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
