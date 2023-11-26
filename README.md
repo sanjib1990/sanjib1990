@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber Monday deal: Cheapest-ever price! $900 discount on Canon EOS R5](https://www.space.com/cyber-monday-camera-deal-2023-900-saving-canon-eos-r5)
-- [See the moon meet up with the Seven Sisters of the Pleiades tonight](https://www.space.com/moon-pleiades-seven-sisters-nov-2023)
-- [Get a LEGO Star Wars Jedi Starfighter for under $25 ahead of Cyber Monday](https://www.space.com/cyber-monday-lego-star-wars-jedi-starfighter-deal)
-- [Save 20% on the Lego Star Wars Millennium Falcon set this Cyber Monday](https://www.space.com/cyber-monday-lego-star-wars-millennium-falcon-deal)
-- [Cyber Monday Saving! $150 off Sigma 24-70mm f/2.8 DG DN Art Lens](https://www.space.com/sigma-astro-lens-cyber-monday-camera-deal-2023)
+- [Cyber Monday telescope deal: 33% off Celestron AstroMaster 70AZ](https://www.space.com/cyber-monday-telescope-celestron-astromaster-70-az-deal)
+- [TC Startup Battlefield master class with Blumberg Capital: Make the most of your investors’ expertise](https://techcrunch.com/2023/11/26/battlefield-master-class-blumberg-capital/)
+- [Early Cyber Monday star projector deal: 50% off Encalife&#39;s Atmosphere Smart Galaxy](https://www.space.com/cyber-monday-2023-encalife-atmosphere-deal-save-50-percent)
+- [Huge 47% off this Cyber Monday home planetarium deal](https://www.space.com/cyber-monday-deal-2023-home-planetarium)
+- [Save $190 on the Sigma 14-24mm F2.8 DG DN Sony E Mount lens this Cyber Monday](https://www.space.com/cyber-monday-sigma-dg-dn-sony-e-mount-lens-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
