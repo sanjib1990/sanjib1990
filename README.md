@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evernote pushes users to upgrade with test of a free plan limited to only 50 notes](https://techcrunch.com/2023/11/27/evernote-pushes-users-to-upgrade-with-test-of-a-free-plan-limited-to-only-50-notes/)
-- [Cyber Monday deal: Save an impressive $400 on the Celestron NexStar Evolution 8 telescope](https://www.space.com/celestron-nexstar-evolution-8-cyber-monday-telescope-deal-2023)
-- [Dazzling remains of star explosion revealed in new ESO image](https://www.space.com/vlt-supernova-remnant-eso-image-vela-star-explosion)
-- [Cyber Monday: Save 34% on this 14-piece Celestron telescope eyepiece accessory kit](https://www.space.com/celestron-telescope-eyepiece-accessory-kit-cyber-monday-deal-2023)
-- [Securing generative AI across the technology stack](https://techcrunch.com/2023/11/27/securing-generative-ai-across-the-technology-stack/)
+- [Construction marketplace Construex takes in first capital to expand in Latin America](https://techcrunch.com/2023/11/27/construction-marketplace-construex-latin-america/)
+- [This $300 Panasonic Lumix S5 II saving could be one of the last Cyber Monday camera deals](https://www.space.com/panasonic-lumix-s5-ii-cyber-monday-camera-deal-2023)
+- [Save $100 on the Nikon Z50 mirrorless camera this Cyber Monday](https://www.space.com/nikon-z50-cyber-monday-camera-deal-2023-save-100)
+- [VCs have a jargon problem and this is how to fix it](https://techcrunch.com/2023/11/27/vcs-have-a-jargon-problem-and-this-is-how-to-fix-it/)
+- [Cyber Monday binocular deal: Celestron Nature DX 8x42 41% off](https://www.space.com/cyber-monday-2023-celestron-nature-dx-8x42-binocular-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
