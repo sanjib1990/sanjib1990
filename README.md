@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last chance! Insane $1000 saving on this Canon EOS R3 Cyber Monday camera deal!](https://www.space.com/insane-1000-dollar-saving-canon-eos-r3-black-friday-camera-deal)
+- [Contrary to reports, OpenAI probably isn’t building humanity-threatening AI](https://techcrunch.com/2023/11/27/contrary-to-reports-openai-probably-isnt-building-humanity-threatening-ai/)
+- [Prefab home builder Veev reportedly shutting down after reaching unicorn status last year](https://techcrunch.com/2023/11/27/prefab-home-builder-veev-reportedly-shutting-down-after-reaching-unicorn-status-last-year/)
 - [Ransomware ‘catastrophe’ at Fidelity National Financial causes panic with homeowners and buyers](https://techcrunch.com/2023/11/27/ransomware-catastrophe-at-fidelity-national-financial-causes-panic-with-homeowners-and-buyers/)
 - [What to look out for in this week’s deluge of SaaS earnings reports](https://techcrunch.com/2023/11/27/saas-earnings-reports-q3/)
-- [1st Vulcan Centaur rocket will fly DNA samples of CEO, &#39;Star Trek&#39; crew](https://www.space.com/united-launch-alliance-vulcan-centaur-rocket-dna-ceo-star-trek-launch)
-- [California’s privacy watchdog eyes AI rules with opt-out and access rights](https://techcrunch.com/2023/11/27/cppa-admt-draft-rules/)
-- [Lapse, the photo app that forced users to invite friends, is running out of steam](https://techcrunch.com/2023/11/27/lapse-a-photo-app-that-forced-users-to-invite-friends-is-running-out-of-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
