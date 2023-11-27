@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As the ISS turns 25, a look back at the space laboratory&#39;s legacy](https://www.space.com/iss-25-anniversary-achievements-legacy-nasa)
-- [Amazon’s new $195 thin client looks just like a Fire TV Cube](https://techcrunch.com/2023/11/27/amazons-new-195-thin-client-looks-just-like-a-fire-tv-cube/)
-- [The Full Beaver Moon rises tonight, the next-to-last full moon of 2023](https://www.space.com/november-full-moon-tonight-2023)
-- [RepeatMD lands capital to grow its aesthetics and wellness booking business](https://techcrunch.com/2023/11/27/repeatmd-lands-new-investment-grow-its-aesthetics-and-wellness-booking-business/)
-- [Mozaic raises $20 million to build payment splitting solution for creators](https://techcrunch.com/2023/11/27/mozaic-raises-20-million-to-build-payment-splitting-solution-for-creators/)
+- [Evernote pushes users to upgrade with test of a free plan limited to only 50 notes](https://techcrunch.com/2023/11/27/evernote-pushes-users-to-upgrade-with-test-of-a-free-plan-limited-to-only-50-notes/)
+- [Cyber Monday deal: Save an impressive $400 on the Celestron NexStar Evolution 8 telescope](https://www.space.com/celestron-nexstar-evolution-8-cyber-monday-telescope-deal-2023)
+- [Dazzling remains of star explosion revealed in new ESO image](https://www.space.com/vlt-supernova-remnant-eso-image-vela-star-explosion)
+- [Cyber Monday: Save 34% on this 14-piece Celestron telescope eyepiece accessory kit](https://www.space.com/celestron-telescope-eyepiece-accessory-kit-cyber-monday-deal-2023)
+- [Securing generative AI across the technology stack](https://techcrunch.com/2023/11/27/securing-generative-ai-across-the-technology-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
