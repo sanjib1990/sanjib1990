@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists suspect there’s ice hiding on the Moon, and a host of missions from the US and beyond are searching for it](https://www.space.com/ice-hiding-on-the-moon-missions-searching-for-it)
-- [This week in AI: The OpenAI debacle shows the perils of going commercial](https://techcrunch.com/2023/11/27/this-week-in-ai-the-openai-debacle-shows-the-perils-of-going-commercial/)
-- [Hurry to save a whopping 50% on this Lego Marvel Iron Man Armory for Cyber Monday](https://www.space.com/lego-marvel-iron-man-armory-50-percent-off-cyber-monday-2023)
-- [Collect the Infinity Stones of Cyber Monday with this amazing Lego Marvel Infinity Gauntlet deal](https://www.space.com/lego-marvel-infinity-guantlet-16-dollars-off-cyber-monday-2023)
-- [Sweden sides with Tesla, says transport agency must deliver plates or pay up](https://techcrunch.com/2023/11/27/sweden-sides-with-tesla-says-transport-agency-must-deliver-plates-or-pay-up/)
+- [The Mars helicopter Ingenuity is an amazing success. NASA&#39;s already testing tech for the next generation &lpar;video&rpar;](https://www.space.com/mars-rotor-system-test-nears-supersonic-speeds-ingenuity-flies-coincides)
+- [Mysterious blasts of radiation might stem from our universe&#39;s most extreme stars](https://www.space.com/mysterious-bursts-raditation-neutron-stars-magnetars)
+- [Meta turned a blind eye to kids on its platforms for years, unredacted lawsuit alleges](https://techcrunch.com/2023/11/27/meta-turned-a-blind-eye-to-kids-on-its-platforms-for-years-unredacted-lawsuit-alleges/)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/27/tech-layoffs-2023-list/)
+- [Google’s new tools help discussion forums and social media platforms rank higher in search results](https://techcrunch.com/2023/11/27/googles-new-tools-help-discussion-forums-and-social-media-platforms-rank-higher-in-search-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
