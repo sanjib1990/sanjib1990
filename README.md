@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [10 JavaScript changes you missed in 2023](https://www.youtube.com/watch?v=ANCm3oG7htM)
 - [Here&#39;s why everyone is worried about Google Chrome](https://www.youtube.com/watch?v=Hpgg7lYqmTU)
 - [What does a PROXY actually do??](https://www.youtube.com/watch?v=dQogZx2aABQ)
 - [The high-stakes war on AdBlockers](https://www.youtube.com/watch?v=QQu1_bf1Bdo)
 - [the EASIEST way to build a website](https://www.youtube.com/watch?v=fb-OjzMgq2k)
-- [The truth about the OpenAI drama](https://www.youtube.com/watch?v=4Ff2ZrhVkp0)
 <!-- YOUTUBE:END -->
 
 ---
