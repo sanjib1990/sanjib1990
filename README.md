@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PhysicsX emerges from stealth with $32M for AI to power engineering simulations](https://techcrunch.com/2023/11/27/physicsx-emerges-from-stealth-with-32m-for-ai-to-power-engineering-simulations/)
-- [Cyber Monday deal: Save 20% on the Celestron StarSense Explorer LT 80AZ telescope](https://www.space.com/cyber-monday-black-friday-telescope-deal-save-20-celestron-2023)
-- [Don&#39;t make this Meta Quest 3 purchasing mistake on Cyber Monday](https://www.space.com/dont-make-meta-quest-3-mistake-cyber-monday-2023)
-- [See ULA assemble new Vulcan Centaur rocket for its 1st launch on Dec. 24 &lpar;photos&rpar;](https://www.space.com/united-launch-alliance-vulcan-centar-final-stretch)
-- [Cyber Monday telescope deal: Save over $1000 on this telescope and solar filter bundle for more than 50% off](https://www.space.com/celestron-nexstar-6se-solar-filter-cyber-monday-deal-2023)
+- [The Full Beaver Moon rises tonight, the next-to-last full moon of 2023](https://www.space.com/november-full-moon-tonight-2023)
+- [RepeatMD lands capital to grow its aesthetics and wellness booking business](https://techcrunch.com/2023/11/27/repeatmd-lands-new-investment-grow-its-aesthetics-and-wellness-booking-business/)
+- [Mozaic raises $20 million to build payment splitting solution for creators](https://techcrunch.com/2023/11/27/mozaic-raises-20-million-to-build-payment-splitting-solution-for-creators/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Your pitch deck needs to be machine-readable](https://techcrunch.com/2023/11/27/your-pitch-deck-also-needs-to-be-machine-readable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
