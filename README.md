@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Construction marketplace Construex takes in first capital to expand in Latin America](https://techcrunch.com/2023/11/27/construction-marketplace-construex-latin-america/)
-- [This $300 Panasonic Lumix S5 II saving could be one of the last Cyber Monday camera deals](https://www.space.com/panasonic-lumix-s5-ii-cyber-monday-camera-deal-2023)
-- [Save $100 on the Nikon Z50 mirrorless camera this Cyber Monday](https://www.space.com/nikon-z50-cyber-monday-camera-deal-2023-save-100)
-- [VCs have a jargon problem and this is how to fix it](https://techcrunch.com/2023/11/27/vcs-have-a-jargon-problem-and-this-is-how-to-fix-it/)
-- [Cyber Monday binocular deal: Celestron Nature DX 8x42 41% off](https://www.space.com/cyber-monday-2023-celestron-nature-dx-8x42-binocular-deal)
+- [Ransomware ‘catastrophe’ at Fidelity National Financial causes panic with homeowners and buyers](https://techcrunch.com/2023/11/27/ransomware-catastrophe-at-fidelity-national-financial-causes-panic-with-homeowners-and-buyers/)
+- [What to look out for in this week’s deluge of SaaS earnings reports](https://techcrunch.com/2023/11/27/saas-earnings-reports-q3/)
+- [1st Vulcan Centaur rocket will fly DNA samples of CEO, &#39;Star Trek&#39; crew](https://www.space.com/united-launch-alliance-vulcan-centaur-rocket-dna-ceo-star-trek-launch)
+- [California’s privacy watchdog eyes AI rules with opt-out and access rights](https://techcrunch.com/2023/11/27/cppa-admt-draft-rules/)
+- [Lapse, the photo app that forced users to invite friends, is running out of steam](https://techcrunch.com/2023/11/27/lapse-a-photo-app-that-forced-users-to-invite-friends-is-running-out-of-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
