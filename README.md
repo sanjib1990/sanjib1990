@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s EMotorad rides high with $20M investment for global e-bike push](https://techcrunch.com/2023/11/26/india-emotorad-funding-series-b-ebike/)
 - [Save 35% on the Celestron SkyMaster 25x70 Binocular this Cyber Monday](https://www.space.com/cyber-monday-celestron-skymaster-25x70-binocular-deal)
 - [Reflections on Web Summit: Out of the frying pan, and out of the fire?](https://techcrunch.com/2023/11/26/refections-on-web-summit-out-of-the-frying-pan-and-out-of-the-fire/)
 - [Save over $120 on the Celestron NexStar 130 SLT telescope this Cyber Monday](https://www.space.com/cyber-monday-celestron-nexstar-130slt-telescope-deal)
 - [Bag $20 off the Sega Toys Homestar Flux for Cyber Monday](https://www.space.com/cyber-monday-sega-toys-homestar-flux-star-projector-deal)
-- [This huge Cyber Monday deal can net you an excellent drone for almost half price](https://www.space.com/cyber-monday-ruko-r11pro-drone-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
