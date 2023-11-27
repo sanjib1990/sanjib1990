@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the biggest planet ever found?](https://www.space.com/what-is-biggest-planet-ever-found)
-- [Ends today: Max Cyber Monday deal for $2.99 — 6 months of streaming at 70% off](https://www.space.com/max-cyber-monday-streaming-deal-2023)
-- [Last chance: Hulu and Disney Plus Cyber Monday deal combo $2.99/month](https://www.space.com/hulu-disney-plus-cyber-monday-streaming-deal-2023)
-- [After two ambitious years, TikTok parent ByteDance starts mass layoffs in gaming](https://techcrunch.com/2023/11/26/after-two-ambitious-years-tiktok-parent-bytedance-starts-mass-layoffs-in-gaming/)
-- [Byju’s taps Jiny Thattil as CTO following departure of Anil Goel](https://techcrunch.com/2023/11/26/byjus-taps-jiny-thattil-as-cto-following-departure-of-anil-goel/)
+- [PhysicsX emerges from stealth with $32M for AI to power engineering simulations](https://techcrunch.com/2023/11/27/physicsx-emerges-from-stealth-with-32m-for-ai-to-power-engineering-simulations/)
+- [Cyber Monday deal: Save 20% on the Celestron StarSense Explorer LT 80AZ telescope](https://www.space.com/cyber-monday-black-friday-telescope-deal-save-20-celestron-2023)
+- [Don&#39;t make this Meta Quest 3 purchasing mistake on Cyber Monday](https://www.space.com/dont-make-meta-quest-3-mistake-cyber-monday-2023)
+- [See ULA assemble new Vulcan Centaur rocket for its 1st launch on Dec. 24 &lpar;photos&rpar;](https://www.space.com/united-launch-alliance-vulcan-centar-final-stretch)
+- [Cyber Monday telescope deal: Save over $1000 on this telescope and solar filter bundle for more than 50% off](https://www.space.com/celestron-nexstar-6se-solar-filter-cyber-monday-deal-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
