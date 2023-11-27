@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last chance! Insane $1000 saving on this Canon EOS R3 Cyber Monday camera deal!](https://www.space.com/insane-1000-dollar-saving-canon-eos-r3-black-friday-camera-deal)
-- [Contrary to reports, OpenAI probably isn’t building humanity-threatening AI](https://techcrunch.com/2023/11/27/contrary-to-reports-openai-probably-isnt-building-humanity-threatening-ai/)
-- [Prefab home builder Veev reportedly shutting down after reaching unicorn status last year](https://techcrunch.com/2023/11/27/prefab-home-builder-veev-reportedly-shutting-down-after-reaching-unicorn-status-last-year/)
-- [Ransomware ‘catastrophe’ at Fidelity National Financial causes panic with homeowners and buyers](https://techcrunch.com/2023/11/27/ransomware-catastrophe-at-fidelity-national-financial-causes-panic-with-homeowners-and-buyers/)
-- [What to look out for in this week’s deluge of SaaS earnings reports](https://techcrunch.com/2023/11/27/saas-earnings-reports-q3/)
+- [With AI chatbots, will Elon Musk and the ultra-rich replace the masses?](https://techcrunch.com/2023/11/27/with-ai-chatbots-will-elon-musk-and-the-ultra-rich-replace-the-masses/)
+- [Hurry! This Lego Star Wars Inquisitor Scythe is still 15% off for Cyber Monday](https://www.space.com/lego-star-wars-inquisitor-scythe-set-15-percent-off-cyber-monday-2023)
+- [Last chance to save 20% on this Lego Star Wars Mandalorian helmet for Cyber Monday](https://www.space.com/cyber-monday-2023-lego-the-mandalorian-helmet-deal-20-percent)
+- [Scientists chart the stories of young stars — from being born to moving out](https://www.space.com/adolescent-star-evolution-galactic-stellar-clusters)
+- [These Lego Star Wars, Pandora and other sets are all under $30 for Cyber Monday, but hurry](https://www.space.com/lego-star-wars-pandora-dc-marvel-sets-under-30-dollars-cyber-monday-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
