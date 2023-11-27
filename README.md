@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the biggest planet ever found?](https://www.space.com/what-is-biggest-planet-ever-found)
+- [Ends today: Max Cyber Monday deal for $2.99 — 6 months of streaming at 70% off](https://www.space.com/max-cyber-monday-streaming-deal-2023)
+- [Last chance: Hulu and Disney Plus Cyber Monday deal combo $2.99/month](https://www.space.com/hulu-disney-plus-cyber-monday-streaming-deal-2023)
 - [After two ambitious years, TikTok parent ByteDance starts mass layoffs in gaming](https://techcrunch.com/2023/11/26/after-two-ambitious-years-tiktok-parent-bytedance-starts-mass-layoffs-in-gaming/)
 - [Byju’s taps Jiny Thattil as CTO following departure of Anil Goel](https://techcrunch.com/2023/11/26/byjus-taps-jiny-thattil-as-cto-following-departure-of-anil-goel/)
-- [India’s EMotorad rides high with $20M investment for global e-bike push](https://techcrunch.com/2023/11/26/india-emotorad-funding-series-b-ebike/)
-- [Save 35% on the Celestron SkyMaster 25x70 Binocular this Cyber Monday](https://www.space.com/cyber-monday-celestron-skymaster-25x70-binocular-deal)
-- [Reflections on Web Summit: Out of the frying pan, and out of the fire?](https://techcrunch.com/2023/11/26/refections-on-web-summit-out-of-the-frying-pan-and-out-of-the-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
