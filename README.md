@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mars helicopter Ingenuity is an amazing success. NASA&#39;s already testing tech for the next generation &lpar;video&rpar;](https://www.space.com/mars-rotor-system-test-nears-supersonic-speeds-ingenuity-flies-coincides)
-- [Mysterious blasts of radiation might stem from our universe&#39;s most extreme stars](https://www.space.com/mysterious-bursts-raditation-neutron-stars-magnetars)
-- [Meta turned a blind eye to kids on its platforms for years, unredacted lawsuit alleges](https://techcrunch.com/2023/11/27/meta-turned-a-blind-eye-to-kids-on-its-platforms-for-years-unredacted-lawsuit-alleges/)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/11/27/tech-layoffs-2023-list/)
-- [Google’s new tools help discussion forums and social media platforms rank higher in search results](https://techcrunch.com/2023/11/27/googles-new-tools-help-discussion-forums-and-social-media-platforms-rank-higher-in-search-results/)
+- [Terran Orbital sues former CTO who joined call for leadership shake-up](https://techcrunch.com/2023/11/27/terran-orbital-sues-former-cto-who-joined-call-for-leadership-shake-up/)
+- [Shein files confidentially to go public in the US](https://techcrunch.com/2023/11/27/shein-files-confidentially-to-go-public-in-the-us/)
+- [Max Q: The Thanksgiving edition](https://techcrunch.com/2023/11/27/max-q-the-thanksgiving-edition/)
+- [This virtual garage sale lets you haggle with AIs to buy Tesla stock, a PS5 or a toilet magazine](https://techcrunch.com/2023/11/27/this-virtual-garage-sale-lets-you-haggle-with-ais-to-buy-tesla-stock-a-ps5-or-a-toilet-magazine/)
+- [Ukraine detains Victor Zhora, former top government cyber official](https://techcrunch.com/2023/11/27/ukraine-detains-victor-zhora-former-top-government-cyber-official/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
