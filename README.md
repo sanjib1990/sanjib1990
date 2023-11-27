@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With AI chatbots, will Elon Musk and the ultra-rich replace the masses?](https://techcrunch.com/2023/11/27/with-ai-chatbots-will-elon-musk-and-the-ultra-rich-replace-the-masses/)
-- [Hurry! This Lego Star Wars Inquisitor Scythe is still 15% off for Cyber Monday](https://www.space.com/lego-star-wars-inquisitor-scythe-set-15-percent-off-cyber-monday-2023)
-- [Last chance to save 20% on this Lego Star Wars Mandalorian helmet for Cyber Monday](https://www.space.com/cyber-monday-2023-lego-the-mandalorian-helmet-deal-20-percent)
-- [Scientists chart the stories of young stars — from being born to moving out](https://www.space.com/adolescent-star-evolution-galactic-stellar-clusters)
-- [These Lego Star Wars, Pandora and other sets are all under $30 for Cyber Monday, but hurry](https://www.space.com/lego-star-wars-pandora-dc-marvel-sets-under-30-dollars-cyber-monday-2023)
+- [Scientists suspect there’s ice hiding on the Moon, and a host of missions from the US and beyond are searching for it](https://www.space.com/ice-hiding-on-the-moon-missions-searching-for-it)
+- [This week in AI: The OpenAI debacle shows the perils of going commercial](https://techcrunch.com/2023/11/27/this-week-in-ai-the-openai-debacle-shows-the-perils-of-going-commercial/)
+- [Hurry to save a whopping 50% on this Lego Marvel Iron Man Armory for Cyber Monday](https://www.space.com/lego-marvel-iron-man-armory-50-percent-off-cyber-monday-2023)
+- [Collect the Infinity Stones of Cyber Monday with this amazing Lego Marvel Infinity Gauntlet deal](https://www.space.com/lego-marvel-infinity-guantlet-16-dollars-off-cyber-monday-2023)
+- [Sweden sides with Tesla, says transport agency must deliver plates or pay up](https://techcrunch.com/2023/11/27/sweden-sides-with-tesla-says-transport-agency-must-deliver-plates-or-pay-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
