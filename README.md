@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As the ISS turns 25, a look back at the space laboratory&#39;s legacy](https://www.space.com/iss-25-anniversary-achievements-legacy-nasa)
+- [Amazon’s new $195 thin client looks just like a Fire TV Cube](https://techcrunch.com/2023/11/27/amazons-new-195-thin-client-looks-just-like-a-fire-tv-cube/)
 - [The Full Beaver Moon rises tonight, the next-to-last full moon of 2023](https://www.space.com/november-full-moon-tonight-2023)
 - [RepeatMD lands capital to grow its aesthetics and wellness booking business](https://techcrunch.com/2023/11/27/repeatmd-lands-new-investment-grow-its-aesthetics-and-wellness-booking-business/)
 - [Mozaic raises $20 million to build payment splitting solution for creators](https://techcrunch.com/2023/11/27/mozaic-raises-20-million-to-build-payment-splitting-solution-for-creators/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Your pitch deck needs to be machine-readable](https://techcrunch.com/2023/11/27/your-pitch-deck-also-needs-to-be-machine-readable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
