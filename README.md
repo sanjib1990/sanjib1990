@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Candex lands $45M infusion to grow its procurement management business](https://techcrunch.com/2023/11/28/candex-lands-45m-infusion-to-grow-its-procurement-management-business/)
+- [Data science helps cross-check space discoveries &#39;across time and telescopes&#39;](https://www.space.com/space-discoveries-data-science-galaxies-matching-objects)
+- [&#39;Missing&#39; blob of water predicted to be in the Atlantic finally found](https://www.space.com/missing-water-blob-found-in-atlantic-ocean)
+- [Solve Intelligence helps attorneys draft patents for IP analysis and generation](https://techcrunch.com/2023/11/28/solve-intelligences-ai-solution-helps-attorneys-draft-patents-for-ip-analysis-and-generation/)
 - [Vimcal raises $4.5 million to expand its team offerings](https://techcrunch.com/2023/11/28/vimcal-raises-4-5-million-to-expand-its-team-offerings/)
-- [AWS brings Amazon One palm-scanning authentication to the enterprise](https://techcrunch.com/2023/11/28/aws-brings-amazon-one-palm-scanning-authentication-technology-to-the-enterprise/)
-- [Canada soars into space with new moon and ISS astronaut missions](https://www.space.com/canada-soars-space-iss-astronaut-moon-missions)
-- [Meta’s EU ad-free subscription faces early privacy challenge](https://techcrunch.com/2023/11/28/meta-ad-free-sub-noyb-complaint/)
-- [As pet owners turn to mobile insurance apps, Lassie raises $25M Series B led by Balderton](https://techcrunch.com/2023/11/28/as-pet-owners-turn-to-mobile-insurance-apps-lassie-raises-25m-series-b-led-by-balderton/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
