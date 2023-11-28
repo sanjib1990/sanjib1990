@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wind.app makes DeFi accessible to the average consumer](https://techcrunch.com/2023/11/27/wind-app/)
 - [Amazon announces three new serverless offerings to kick off re:Invent](https://techcrunch.com/2023/11/27/amazon-announces-three-new-serverless-offerings-to-kick-off-reinvent/)
 - [Paris-based startup studio Hexa raises some funding to launch even more startups](https://techcrunch.com/2023/11/27/paris-based-startup-studio-hexa-raises-some-funding-to-launch-even-more-startups/)
 - [SpaceX launches another batch of Starlink satellites from Florida](https://www.space.com/spacex-starlink-launch-group-6-30)
 - [Apple partner Foxconn to invest $1.5 billion in India](https://techcrunch.com/2023/11/27/apple-partner-foxconn-to-invest-1-5-billion-in-india/)
-- [Inflow connects small fashion brands with manufacturers in Vietnam](https://techcrunch.com/2023/11/27/inflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
