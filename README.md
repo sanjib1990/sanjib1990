@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX to launch another batch of Starlink satellites from Florida on Nov. 27](https://www.space.com/spacex-starlink-launch-group-6-30)
+- [Amazon announces three new serverless offerings to kick off re:Invent](https://techcrunch.com/2023/11/27/amazon-announces-three-new-serverless-offerings-to-kick-off-reinvent/)
+- [Paris-based startup studio Hexa raises some funding to launch even more startups](https://techcrunch.com/2023/11/27/paris-based-startup-studio-hexa-raises-some-funding-to-launch-even-more-startups/)
+- [SpaceX launches another batch of Starlink satellites from Florida](https://www.space.com/spacex-starlink-launch-group-6-30)
 - [Apple partner Foxconn to invest $1.5 billion in India](https://techcrunch.com/2023/11/27/apple-partner-foxconn-to-invest-1-5-billion-in-india/)
-- [Water leaking into Earth&#39;s core may have birthed a mysterious layer that churns out crystals](https://www.space.com/water-in-earth-core-forms-crystal-layer)
-- [European startup funding halved to $42B in 2023, says Atomico](https://techcrunch.com/2023/11/27/european-startup-funding-halved-to-42b-in-2023-says-atomico/)
-- [Cradle’s AI-powered protein programming platform levels up with $24M in new funding](https://techcrunch.com/2023/11/27/cradles-ai-powered-protein-programming-platform-levels-up-with-24m-in-new-funding/)
+- [Inflow connects small fashion brands with manufacturers in Vietnam](https://techcrunch.com/2023/11/27/inflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
