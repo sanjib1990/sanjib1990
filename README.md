@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Polestar’s climate-tweeting bot isn’t actually a bot, for good reason](https://techcrunch.com/2023/11/28/polestars-climate-bot-isnt-really-a-bot-its-better-that-way/)
+- [LockBit claims cyberattack on India’s national aerospace lab](https://techcrunch.com/2023/11/28/lockbit-india-national-aerospace-laboratories-ransomware-attack/)
+- [The TechCrunch+ 2023 Holiday Gift Guide](https://techcrunch.com/2023/11/28/techcrunch-plus-2023-holiday-gift-guide/)
+- [Scooter startup Tier lays off 22% of workforce to reach profitability](https://techcrunch.com/2023/11/28/scooter-startup-tier-lays-off-22-of-workforce-to-reach-profitability/)
 - [James Webb Space Telescope spies a newborn star in its cosmic crib &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-herbig-haro-object-nov-2023)
-- [Exoplanet &#39;haze&#39; makes it harder to identify water on alien worlds. Scientists may have a solution](https://www.space.com/hazy-atmospheres-water-exoplanets-worlds-beyond-earth)
-- [Everything we know about &#39;The Acolyte&#39;: Release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-the-acolyte)
-- [Google search ads spotted in compromising placements](https://techcrunch.com/2023/11/28/google-gsp-risks-adalytics-report/)
-- [Solar maximum: Why April&#39;s total Solar Eclipse will bring unique views of the sun&#39;s corona](https://www.space.com/solar-maximum-gives-unique-view-sun-corona-during-total-solar-eclipse-april-8-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
