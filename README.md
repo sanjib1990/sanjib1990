@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cradle’s AI-powered protein programming platform levels up with $24M in new funding](https://techcrunch.com/2023/11/27/cradles-ai-powered-protein-programming-platform-levels-up-with-24m-in-new-funding/)
+- [Amazon’s iRobot purchase sucks up formal competition concerns in EU](https://techcrunch.com/2023/11/27/eu-amazon-irobot-statement-of-objections/)
 - [Terran Orbital sues former CTO who joined call for leadership shake-up](https://techcrunch.com/2023/11/27/terran-orbital-sues-former-cto-who-joined-call-for-leadership-shake-up/)
 - [Shein files confidentially to go public in the US](https://techcrunch.com/2023/11/27/shein-files-confidentially-to-go-public-in-the-us/)
 - [Max Q: The Thanksgiving edition](https://techcrunch.com/2023/11/27/max-q-the-thanksgiving-edition/)
-- [This virtual garage sale lets you haggle with AIs to buy Tesla stock, a PS5 or a toilet magazine](https://techcrunch.com/2023/11/27/this-virtual-garage-sale-lets-you-haggle-with-ais-to-buy-tesla-stock-a-ps5-or-a-toilet-magazine/)
-- [Ukraine detains Victor Zhora, former top government cyber official](https://techcrunch.com/2023/11/27/ukraine-detains-victor-zhora-former-top-government-cyber-official/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
