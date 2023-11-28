@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope spies multiple galaxy clusters masquerading as one &lpar;image&rpar;](https://www.space.com/hubble-telescope-multiple-galaxy-clusters-image)
 - [Here’s everything Amazon Web Services has announced at AWS re:Invent so far](https://techcrunch.com/2023/11/28/heres-everything-aws-reinvent-2023-so-far/)
-- [Oxford study says internet use doesn’t harm mental health, but its research has limits](https://techcrunch.com/2023/11/28/oxford-study-says-internet-use-doesnt-harm-mental-health-but-its-research-has-limits/)
-- [Nvidia taps China talent for autonomous driving endeavors](https://techcrunch.com/2023/11/28/nvidia-taps-china-talent-for-autonomous-driving-endeavors/)
-- [Amazon unveils new chips for training and running AI models](https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/)
-- [Consider three lenses when building your go-forward brand](https://techcrunch.com/2023/11/28/consider-three-lenses-when-building-your-go-forward-brand/)
+- [Webull leaps into Mexico with acquisition of stock trading app Flink](https://techcrunch.com/2023/11/28/webull-leaps-into-mexico-with-acquisition-of-stock-trading-app-flink/)
+- [Amazon unveils Q, an AI-powered chatbot for businesses](https://techcrunch.com/2023/11/28/amazon-unveils-q-an-ai-powered-chatbot-for-businesses/)
+- [AWS adds Guardrails for Amazon Bedrock to help safeguard LLMs](https://techcrunch.com/2023/11/28/aws-adds-guardrails-for-amazon-bedrock-to-help-safeguard-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
