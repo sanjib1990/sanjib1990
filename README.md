@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dataminr, the $4B big data startup, is laying off 20% of staff today, or 150 people, as it preps to double down on AI](https://techcrunch.com/2023/11/28/dataminr-the-4b-big-data-startup-is-laying-off-20-of-staff-today-or-150-people-as-it-preps-to-double-down-on-ai/)
-- [The 2024 IPO cohort is coming into focus as Shein, Reddit prep to go public](https://techcrunch.com/2023/11/28/shein-reddit-ipo-plans/)
-- [Generative AI is fueling the recovery of European SaaS](https://techcrunch.com/2023/11/28/generative-ai-is-fueling-the-recovery-of-european-saas/)
-- [Meet FlashIntel and Withum at TechCrunch Early Stage 2024](https://techcrunch.com/2023/11/28/meet-flashintel-and-withum-at-techcrunch-early-stage-2024/)
-- [YouTube launches more than 30 ‘Playables’ mini-games for Premium users](https://techcrunch.com/2023/11/28/youtube-launches-more-than-30-playables-mini-games-for-premium-users/)
+- [Here’s everything Amazon Web Services has announced at AWS re:Invent so far](https://techcrunch.com/2023/11/28/heres-everything-aws-reinvent-2023-so-far/)
+- [Oxford study says internet use doesn’t harm mental health, but its research has limits](https://techcrunch.com/2023/11/28/oxford-study-says-internet-use-doesnt-harm-mental-health-but-its-research-has-limits/)
+- [Nvidia taps China talent for autonomous driving endeavors](https://techcrunch.com/2023/11/28/nvidia-taps-china-talent-for-autonomous-driving-endeavors/)
+- [Amazon unveils new chips for training and running AI models](https://techcrunch.com/2023/11/28/amazon-unveils-new-chips-for-training-and-running-ai-models/)
+- [Consider three lenses when building your go-forward brand](https://techcrunch.com/2023/11/28/consider-three-lenses-when-building-your-go-forward-brand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
