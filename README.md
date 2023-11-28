@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope spies a newborn star in its cosmic crib &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-herbig-haro-object-nov-2023)
+- [Exoplanet &#39;haze&#39; makes it harder to identify water on alien worlds. Scientists may have a solution](https://www.space.com/hazy-atmospheres-water-exoplanets-worlds-beyond-earth)
 - [Everything we know about &#39;The Acolyte&#39;: Release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-the-acolyte)
 - [Google search ads spotted in compromising placements](https://techcrunch.com/2023/11/28/google-gsp-risks-adalytics-report/)
 - [Solar maximum: Why April&#39;s total Solar Eclipse will bring unique views of the sun&#39;s corona](https://www.space.com/solar-maximum-gives-unique-view-sun-corona-during-total-solar-eclipse-april-8-2024)
-- [AWS takes the cheap shots](https://techcrunch.com/2023/11/28/aws-takes-the-cheap-shots/)
-- [TC+ Roundup: The venture downturn isn’t the end for Australia and New Zealand](https://techcrunch.com/2023/11/28/tc-roundup-the-venture-downturn-isnt-the-end-for-australia-and-new-zealand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
