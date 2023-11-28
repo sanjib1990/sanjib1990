@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada soars into space with new moon and ISS astronaut missions](https://www.space.com/canada-soars-space-iss-astronaut-moon-missions)
+- [Meta’s EU ad-free subscription faces early privacy challenge](https://techcrunch.com/2023/11/28/meta-ad-free-sub-noyb-complaint/)
 - [As pet owners turn to mobile insurance apps, Lassie raises $25M Series B led by Balderton](https://techcrunch.com/2023/11/28/as-pet-owners-turn-to-mobile-insurance-apps-lassie-raises-25m-series-b-led-by-balderton/)
 - [Augment provides an MBA-like program, but exclusively online](https://techcrunch.com/2023/11/28/augment-provides-an-mba-like-program-but-exclusively-online/)
 - [Wind.app makes DeFi accessible to the average consumer](https://techcrunch.com/2023/11/27/wind-app/)
-- [Amazon announces three new serverless offerings to kick off re:Invent](https://techcrunch.com/2023/11/27/amazon-announces-three-new-serverless-offerings-to-kick-off-reinvent/)
-- [Paris-based startup studio Hexa raises some funding to launch even more startups](https://techcrunch.com/2023/11/27/paris-based-startup-studio-hexa-raises-some-funding-to-launch-even-more-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
