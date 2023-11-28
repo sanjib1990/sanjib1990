@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can a Private Space Mission Pierce Venus’s Clouds?](https://www.space.com/can-private-space-mission-pierce-venus-clouds)
+- [Pika Labs, which is building AI tools to generate and edit videos, raises $55M](https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/)
 - [Candex lands $45M infusion to grow its procurement management business](https://techcrunch.com/2023/11/28/candex-lands-45m-infusion-to-grow-its-procurement-management-business/)
 - [Data science helps cross-check space discoveries &#39;across time and telescopes&#39;](https://www.space.com/space-discoveries-data-science-galaxies-matching-objects)
 - [&#39;Missing&#39; blob of water predicted to be in the Atlantic finally found](https://www.space.com/missing-water-blob-found-in-atlantic-ocean)
-- [Solve Intelligence helps attorneys draft patents for IP analysis and generation](https://techcrunch.com/2023/11/28/solve-intelligences-ai-solution-helps-attorneys-draft-patents-for-ip-analysis-and-generation/)
-- [Vimcal raises $4.5 million to expand its team offerings](https://techcrunch.com/2023/11/28/vimcal-raises-4-5-million-to-expand-its-team-offerings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
