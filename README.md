@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini South Telescope in Chile to run solely on clean energy by 2027](https://www.space.com/gemini-south-telescope-chile-clean-energy-2027)
-- [Tumblr+ kills Post+, its ill-fated subscription offering for creators](https://techcrunch.com/2023/11/28/tumblr-kills-post-its-ill-fated-subscription-offering-for-creators/)
-- [Europol arrest hackers allegedly behind string of ransomware attacks](https://techcrunch.com/2023/11/28/europol-hackers-ransomware-lockergoga-hive/)
-- [Can a Private Space Mission Pierce Venus’s Clouds?](https://www.space.com/can-private-space-mission-pierce-venus-clouds)
-- [Pika, which is building AI tools to generate and edit videos, raises $55M](https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/)
+- [Dataminr, the $4B big data startup, is laying off 20% of staff today, or 150 people, as it preps to double down on AI](https://techcrunch.com/2023/11/28/dataminr-the-4b-big-data-startup-is-laying-off-20-of-staff-today-or-150-people-as-it-preps-to-double-down-on-ai/)
+- [The 2024 IPO cohort is coming into focus as Shein, Reddit prep to go public](https://techcrunch.com/2023/11/28/shein-reddit-ipo-plans/)
+- [Generative AI is fueling the recovery of European SaaS](https://techcrunch.com/2023/11/28/generative-ai-is-fueling-the-recovery-of-european-saas/)
+- [Meet FlashIntel and Withum at TechCrunch Early Stage 2024](https://techcrunch.com/2023/11/28/meet-flashintel-and-withum-at-techcrunch-early-stage-2024/)
+- [YouTube launches more than 30 ‘Playables’ mini-games for Premium users](https://techcrunch.com/2023/11/28/youtube-launches-more-than-30-playables-mini-games-for-premium-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
