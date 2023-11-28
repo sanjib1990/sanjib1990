@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google search ads spotted in compromising placements](https://techcrunch.com/2023/11/28/google-gsp-risks-adalytics-report/)
+- [Solar maximum: Why April&#39;s total Solar Eclipse will bring unique views of the sun&#39;s corona](https://www.space.com/solar-maximum-gives-unique-view-sun-corona-during-total-solar-eclipse-april-8-2024)
+- [AWS takes the cheap shots](https://techcrunch.com/2023/11/28/aws-takes-the-cheap-shots/)
+- [TC+ Roundup: The venture downturn isn’t the end for Australia and New Zealand](https://techcrunch.com/2023/11/28/tc-roundup-the-venture-downturn-isnt-the-end-for-australia-and-new-zealand/)
 - [&#39;The Making of JUICE&#39; film documents how scientists built a Jupiter-bound spacecraft against the odds](https://www.space.com/europe-juice-jupiter-icy-moons-mission-documentary)
-- [Building for Medicaid’s regulatory moment with Neil Batlivala from Pair Team](https://techcrunch.com/2023/11/28/building-for-medicaids-regulatory-moment-with-neil-batlivala-from-pair-team/)
-- [Hubble Space Telescope spies multiple galaxy clusters masquerading as one &lpar;image&rpar;](https://www.space.com/hubble-telescope-multiple-galaxy-clusters-image)
-- [Here’s everything Amazon Web Services announced at AWS re:Invent](https://techcrunch.com/2023/11/28/heres-everything-aws-reinvent-2023-so-far/)
-- [Webull leaps into Mexico with acquisition of stock trading app Flink](https://techcrunch.com/2023/11/28/webull-leaps-into-mexico-with-acquisition-of-stock-trading-app-flink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
