@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini South Telescope in Chile to run solely on clean energy by 2027](https://www.space.com/gemini-south-telescope-chile-clean-energy-2027)
+- [Tumblr+ kills Post+, its ill-fated subscription offering for creators](https://techcrunch.com/2023/11/28/tumblr-kills-post-its-ill-fated-subscription-offering-for-creators/)
+- [Europol arrest hackers allegedly behind string of ransomware attacks](https://techcrunch.com/2023/11/28/europol-hackers-ransomware-lockergoga-hive/)
 - [Can a Private Space Mission Pierce Venus’s Clouds?](https://www.space.com/can-private-space-mission-pierce-venus-clouds)
-- [Pika Labs, which is building AI tools to generate and edit videos, raises $55M](https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/)
-- [Candex lands $45M infusion to grow its procurement management business](https://techcrunch.com/2023/11/28/candex-lands-45m-infusion-to-grow-its-procurement-management-business/)
-- [Data science helps cross-check space discoveries &#39;across time and telescopes&#39;](https://www.space.com/space-discoveries-data-science-galaxies-matching-objects)
-- [&#39;Missing&#39; blob of water predicted to be in the Atlantic finally found](https://www.space.com/missing-water-blob-found-in-atlantic-ocean)
+- [Pika, which is building AI tools to generate and edit videos, raises $55M](https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
