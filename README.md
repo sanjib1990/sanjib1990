@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Making of JUICE&#39; film documents how scientists built a Jupiter-bound spacecraft against the odds](https://www.space.com/europe-juice-jupiter-icy-moons-mission-documentary)
+- [Building for Medicaid’s regulatory moment with Neil Batlivala from Pair Team](https://techcrunch.com/2023/11/28/building-for-medicaids-regulatory-moment-with-neil-batlivala-from-pair-team/)
 - [Hubble Space Telescope spies multiple galaxy clusters masquerading as one &lpar;image&rpar;](https://www.space.com/hubble-telescope-multiple-galaxy-clusters-image)
-- [Here’s everything Amazon Web Services has announced at AWS re:Invent so far](https://techcrunch.com/2023/11/28/heres-everything-aws-reinvent-2023-so-far/)
+- [Here’s everything Amazon Web Services announced at AWS re:Invent](https://techcrunch.com/2023/11/28/heres-everything-aws-reinvent-2023-so-far/)
 - [Webull leaps into Mexico with acquisition of stock trading app Flink](https://techcrunch.com/2023/11/28/webull-leaps-into-mexico-with-acquisition-of-stock-trading-app-flink/)
-- [Amazon unveils Q, an AI-powered chatbot for businesses](https://techcrunch.com/2023/11/28/amazon-unveils-q-an-ai-powered-chatbot-for-businesses/)
-- [AWS adds Guardrails for Amazon Bedrock to help safeguard LLMs](https://techcrunch.com/2023/11/28/aws-adds-guardrails-for-amazon-bedrock-to-help-safeguard-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
