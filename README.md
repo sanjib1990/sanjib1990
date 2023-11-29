@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab to return to flight with Electron launch on Dec. 13 after failure in September](https://www.space.com/rocket-lab-payload-integration-electron-update)
+- [Over the past six years, governments proposed launching over one million satellites, but where will they all go?](https://www.space.com/where-will-millions-of-proposed-satellites-go)
 - [Layla taps into AI and creator content to build a travel recommendation app](https://techcrunch.com/2023/11/29/layla-taps-into-ai-and-creator-content-to-build-a-travel-recommendation-app/)
 - [This Antarctic glacier dramatically retreated. Then, its ice shelf totally collapsed &lpar;satellite image&rpar;](https://www.space.com/satellites-cadman-glacier-antarctica-retreat-ice-shelf-collapse)
 - [Prosus slashes valuation of India’s Byju’s below $3 billion](https://techcrunch.com/2023/11/28/prosus-slashes-indian-edtech-giant-byjus-valuation-to-sub-3-billion/)
-- [Immensa, a MENA-based additive manufacturing and digital inventory platform, raises $20 million](https://techcrunch.com/2023/11/28/immensa-a-mena-based-additive-manufacturing-and-digital-inventory-platform-raises-20-million/)
-- [South African startup GoMetro gets £9M for its fleet management optimization software](https://techcrunch.com/2023/11/28/south-african-startup-gometro-gets-9m-series-a-for-its-fleet-management-optimization-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
