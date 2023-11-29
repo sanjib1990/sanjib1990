@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Feds seize Sinbad crypto mixer allegedly used by North Korean hackers](https://techcrunch.com/2023/11/29/feds-seize-sinbad-crypto-mixer-allegedly-used-by-north-korean-hackers/)
-- [Satellites watch world&#39;s largest iceberg break away from Antarctica &lpar;photos&rpar;](https://www.space.com/satellites-watch-worlds-largest-iceberg-move)
-- [With Neptune Analytics, AWS combines the power of vector search and graph data](https://techcrunch.com/2023/11/29/with-neptune-analytics-aws-combines-the-power-of-vector-search-and-graph-data/)
-- [AWS Clean Rooms ML lets companies securely collaborate on AI](https://techcrunch.com/2023/11/29/aws-clean-rooms-ml-lets-companies-securely-collaborate-on-ai/)
-- [Call for content: Speak at TechCrunch Early Stage 2024](https://techcrunch.com/2023/11/29/call-for-content-speak-at-techcrunch-early-stage-2024/)
+- [Ask Sophie: What’s the fastest green card if we are from India or China?](https://techcrunch.com/2023/11/29/ask-sophie-whats-the-fastest-green-card-if-we-are-from-india-or-china/)
+- [Netflix gets a major win with GTA: The Trilogy coming to its mobile games roster](https://techcrunch.com/2023/11/29/netflix-gta-the-trilogy-mobile-games/)
+- [China releases 1st images of complete Tiangong space station &lpar;photos&rpar;](https://www.space.com/china-tiangong-space-station-shenzhou-16-photos)
+- [Discord expands its plans to sell custom avatars and other virtual items](https://techcrunch.com/2023/11/29/discord-shop-avatars-profile-decorations/)
+- [Innovation or folly? The Cybertruck will test whether anyone still trusts Tesla](https://techcrunch.com/2023/11/29/innovation-or-folly-the-cybertruck-will-test-whether-anyone-still-trusts-tesla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
