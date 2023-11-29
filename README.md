@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket Lab to return to flight with Electron launch on Dec. 13 after failure in September](https://www.space.com/rocket-lab-payload-integration-electron-update)
-- [Over the past six years, governments proposed launching over one million satellites, but where will they all go?](https://www.space.com/where-will-millions-of-proposed-satellites-go)
-- [Layla taps into AI and creator content to build a travel recommendation app](https://techcrunch.com/2023/11/29/layla-taps-into-ai-and-creator-content-to-build-a-travel-recommendation-app/)
-- [This Antarctic glacier dramatically retreated. Then, its ice shelf totally collapsed &lpar;satellite image&rpar;](https://www.space.com/satellites-cadman-glacier-antarctica-retreat-ice-shelf-collapse)
-- [Prosus slashes valuation of India’s Byju’s below $3 billion](https://techcrunch.com/2023/11/28/prosus-slashes-indian-edtech-giant-byjus-valuation-to-sub-3-billion/)
+- [DuploCloud lands $32M infusion to make provisioning cloud apps easier](https://techcrunch.com/2023/11/29/duplocloud-lands-32m-infusion-to-make-provisioning-cloud-apps-easier/)
+- [Acctual raises $3.85M to help crypto companies better manage their bills](https://techcrunch.com/2023/11/29/acctual-raises-3-85m-to-help-crypto-companies-better-manage-their-bills/)
+- [SpaceX rockets keep tearing blood-red &#39;atmospheric holes&#39; in the sky, and scientists are concerned](https://www.space.com/spacex-rockets-tearing-atmospheric-holes-in-sky)
+- [Okta admits hackers accessed data on all customers during recent breach](https://techcrunch.com/2023/11/29/okta-admits-hackers-accessed-data-on-all-customers-during-recent-breach/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
