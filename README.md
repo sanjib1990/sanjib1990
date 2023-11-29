@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FEBE Ventures launches $75 million second fund](https://techcrunch.com/2023/11/28/febe-ventures-launches-75-million-second-fund/)
 - [London’s iconic black cabs can soon be hailed on Uber](https://techcrunch.com/2023/11/28/londons-iconic-black-cabs-can-soon-be-hailed-on-uber/)
 - [Dark matter may be hiding in the Large Hadron Collider&#39;s particle jets](https://www.space.com/large-hadron-collider-dark-matter-particle-jets)
 - [Fearless Fund grant program was already ‘at risk’ before lawsuit](https://techcrunch.com/2023/11/28/fearless-fund-grant-program-was-already-at-risk-before-lawsuit/)
 - [Polestar’s climate-tweeting bot isn’t actually a bot, for good reason](https://techcrunch.com/2023/11/28/polestars-climate-bot-isnt-really-a-bot-its-better-that-way/)
-- [LockBit claims cyberattack on India’s national aerospace lab](https://techcrunch.com/2023/11/28/lockbit-india-national-aerospace-laboratories-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
