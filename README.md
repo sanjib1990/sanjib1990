@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [British Library confirms customer data was stolen by hackers, with outage expected to last ‘months’](https://techcrunch.com/2023/11/29/british-library-customer-data-stolen-ransomware/)
-- [Pinterest begins testing a ‘body type ranges’ tool to make searches more inclusive](https://techcrunch.com/2023/11/29/pinterest-begins-testing-a-body-type-ranges-tool-to-make-searches-more-inclusive/)
-- [Elon Musk, Israel agree on use of Starlink satellite internet in Gaza](https://www.space.com/elon-musk-israel-starlink-gaza)
-- [Strong auroras likely as powerful solar flare eruption hurls possible &#39;cannibal CME&#39; toward Earth &lpar;video&rpar;](https://www.space.com/aurora-alert-solar-flare-eruption-cannibal-cme-november-30-december-1)
-- [GM to slash spending at Cruise by ‘hundreds of millions of dollars’](https://techcrunch.com/2023/11/29/gm-to-slash-spending-at-cruise-by-hundreds-of-millions-of-dollars/)
+- [Scientists just found a planet-forming disk beyond our Milky Way for the 1st time — yes, they&#39;re thrilled](https://www.space.com/planet-forming-disk-young-star-1st-outside-milky-way-galaxy)
+- [This rare exoplanet system has 6 &#39;sub-Neptunes&#39; with mathematically perfect orbits](https://www.space.com/six-sub-neptunes-found-100-light-years-from-earth)
+- [Byju’s expects minimal or no fine from India’s forex rule violation allegation](https://techcrunch.com/2023/11/29/byjus-expects-minimal-or-no-fine-from-indias-forex-rule-violation-allegation/)
+- [Hacker claims theft of Shadowfax users’ information](https://techcrunch.com/2023/11/29/shadowfax-user-data-sale-leak/)
+- [Squint peers at $13M led by Sequoia for AR aimed at B2B to interact with physical objects](https://techcrunch.com/2023/11/29/squint-ai-ar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
