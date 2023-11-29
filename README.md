@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Europe&#39;s new Ariane 6 rocket fire its engines in new timelapse video](https://www.space.com/esa-ariane-6-hot-fire-test-timelapse)
 - [Reddit refreshes its logo as IPO speculation swirls](https://techcrunch.com/2023/11/29/reddit-rebrand-refreshes-its-logo-as-ipo-speculation-swirls/)
 - [Loft Orbital is launching ‘virtual missions’ for developers wanting access to space](https://techcrunch.com/2023/11/29/loft-orbital-is-launching-virtual-missions-for-developers-wanting-access-to-space/)
 - [Founder of spyware maker Hacking Team arrested for attempted murder: local media](https://techcrunch.com/2023/11/29/founder-of-spyware-maker-hacking-team-arrested-for-attempted-murder-local-media/)
 - [Artemis 2 moon astronauts autograph their own rocket 1 year before launch](https://www.space.com/artemis-2-moon-astronaut-autograph-nasa-space-launch-system-1-year-launch)
-- [WSJ says the Goldman-Apple deal is dead. Apple says not yet.](https://techcrunch.com/2023/11/29/wsj-says-the-goldman-apple-deal-is-dead-apple-says-not-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
