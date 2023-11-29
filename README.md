@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fearless Fund grant program was already ‘at risk’ before lawsuit](https://techcrunch.com/2023/11/28/fearless-fund-grant-program-was-already-at-risk-before-lawsuit/)
 - [Polestar’s climate-tweeting bot isn’t actually a bot, for good reason](https://techcrunch.com/2023/11/28/polestars-climate-bot-isnt-really-a-bot-its-better-that-way/)
 - [LockBit claims cyberattack on India’s national aerospace lab](https://techcrunch.com/2023/11/28/lockbit-india-national-aerospace-laboratories-ransomware-attack/)
 - [The TechCrunch+ 2023 Holiday Gift Guide](https://techcrunch.com/2023/11/28/techcrunch-plus-2023-holiday-gift-guide/)
 - [Scooter startup Tier lays off 22% of workforce to reach profitability](https://techcrunch.com/2023/11/28/scooter-startup-tier-lays-off-22-of-workforce-to-reach-profitability/)
-- [James Webb Space Telescope spies a newborn star in its cosmic crib &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-herbig-haro-object-nov-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
