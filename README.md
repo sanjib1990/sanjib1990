@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists just found a planet-forming disk beyond our Milky Way for the 1st time — yes, they&#39;re thrilled](https://www.space.com/planet-forming-disk-young-star-1st-outside-milky-way-galaxy)
-- [This rare exoplanet system has 6 &#39;sub-Neptunes&#39; with mathematically perfect orbits](https://www.space.com/six-sub-neptunes-found-100-light-years-from-earth)
-- [Byju’s expects minimal or no fine from India’s forex rule violation allegation](https://techcrunch.com/2023/11/29/byjus-expects-minimal-or-no-fine-from-indias-forex-rule-violation-allegation/)
-- [Hacker claims theft of Shadowfax users’ information](https://techcrunch.com/2023/11/29/shadowfax-user-data-sale-leak/)
-- [Squint peers at $13M led by Sequoia for AR aimed at B2B to interact with physical objects](https://techcrunch.com/2023/11/29/squint-ai-ar/)
+- [Amazon finally releases its own AI-powered image generator](https://techcrunch.com/2023/11/29/amazon-finally-releases-its-own-ai-powered-image-generator/)
+- [Firefly Aerospace&#39;s new rocket engine spouts green flames in 1st &#39;hot fire&#39; test &lpar;photo&rpar;](https://www.space.com/firefly-aerospace-miranda-engine-hot-fire-test-photo)
+- [A three-step process to launch and sustain your merged brand](https://techcrunch.com/2023/11/29/a-three-step-process-to-launch-and-sustain-your-merged-brand/)
+- [Together lands $102.5M investment to grow its cloud for training generative AI](https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/)
+- [Apple and Google avoid naming ChatGPT as their ‘app of the year,’ picking AllTrails and Imprint instead](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
