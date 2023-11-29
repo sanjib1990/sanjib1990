@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon finally releases its own AI-powered image generator](https://techcrunch.com/2023/11/29/amazon-finally-releases-its-own-ai-powered-image-generator/)
-- [Firefly Aerospace&#39;s new rocket engine spouts green flames in 1st &#39;hot fire&#39; test &lpar;photo&rpar;](https://www.space.com/firefly-aerospace-miranda-engine-hot-fire-test-photo)
-- [A three-step process to launch and sustain your merged brand](https://techcrunch.com/2023/11/29/a-three-step-process-to-launch-and-sustain-your-merged-brand/)
-- [Together lands $102.5M investment to grow its cloud for training generative AI](https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/)
-- [Apple and Google avoid naming ChatGPT as their ‘app of the year,’ picking AllTrails and Imprint instead](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
+- [Feds seize Sinbad crypto mixer allegedly used by North Korean hackers](https://techcrunch.com/2023/11/29/feds-seize-sinbad-crypto-mixer-allegedly-used-by-north-korean-hackers/)
+- [Satellites watch world&#39;s largest iceberg break away from Antarctica &lpar;photos&rpar;](https://www.space.com/satellites-watch-worlds-largest-iceberg-move)
+- [With Neptune Analytics, AWS combines the power of vector search and graph data](https://techcrunch.com/2023/11/29/with-neptune-analytics-aws-combines-the-power-of-vector-search-and-graph-data/)
+- [AWS Clean Rooms ML lets companies securely collaborate on AI](https://techcrunch.com/2023/11/29/aws-clean-rooms-ml-lets-companies-securely-collaborate-on-ai/)
+- [Call for content: Speak at TechCrunch Early Stage 2024](https://techcrunch.com/2023/11/29/call-for-content-speak-at-techcrunch-early-stage-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
