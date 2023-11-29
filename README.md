@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prosus slashes Indian edtech giant Byju’s valuation to ‘sub-$3 billion’](https://techcrunch.com/2023/11/28/prosus-slashes-indian-edtech-giant-byjus-valuation-to-sub-3-billion/)
+- [Prosus slashes valuation of India’s Byju’s below $3 billion](https://techcrunch.com/2023/11/28/prosus-slashes-indian-edtech-giant-byjus-valuation-to-sub-3-billion/)
 - [Immensa, a MENA-based additive manufacturing and digital inventory platform, raises $20 million](https://techcrunch.com/2023/11/28/immensa-a-mena-based-additive-manufacturing-and-digital-inventory-platform-raises-20-million/)
+- [South African startup GoMetro gets £9M for its fleet management optimization software](https://techcrunch.com/2023/11/28/south-african-startup-gometro-gets-9m-series-a-for-its-fleet-management-optimization-software/)
 - [FEBE Ventures launches $75 million second fund](https://techcrunch.com/2023/11/28/febe-ventures-launches-75-million-second-fund/)
 - [London’s iconic black cabs can soon be hailed on Uber](https://techcrunch.com/2023/11/28/londons-iconic-black-cabs-can-soon-be-hailed-on-uber/)
-- [Dark matter may be hiding in the Large Hadron Collider&#39;s particle jets](https://www.space.com/large-hadron-collider-dark-matter-particle-jets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
