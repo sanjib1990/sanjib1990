@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram Threads search now supports ‘all languages’ in latest update](https://techcrunch.com/2023/11/30/instagram-threads-search-now-supports-all-languages-in-latest-update/)
-- [300 gamma-ray-blasting neutron stars found in massive haul — and some are &#39;spider pulsars&#39;](https://www.space.com/gamma-ray-spider-pulsar-neutron-star-spinning-fermi)
-- [YouTube Music Recap is no Spotify Wrapped, but it’s still pretty fun](https://techcrunch.com/2023/11/30/youtube-music-2023-recap/)
-- [Stensul draws on new capital to boost marketing creation features](https://techcrunch.com/2023/11/30/stensul-marketing-creation-series-c/)
-- [Meet &#39;Selam,&#39; the curious double moon orbiting asteroid &#39;Dinky&#39;](https://www.space.com/lucy-dinkinesh-asteroid-satellite-name)
+- [Makers of popular Dream by Wombo AI app launch a new app for AI avatars](https://techcrunch.com/2023/11/30/makers-of-popular-dream-by-wombo-ai-app-launch-a-new-app-for-ai-avatars/)
+- [Here&#39;s what astronauts in orbit around Mars would see from their spacecraft](https://www.space.com/mars-from-orbit-video)
+- [For Henry Kissinger, NASA&#39;S Apollo 11 lunar landing was about more than the moon](https://www.space.com/henry-kissinger-apollo-program-moon-landing)
+- [Yieldstreet to acquire real estate investment platform Cadre](https://techcrunch.com/2023/11/30/yieldstreet-to-acquire-real-estate-investment-platform-cadre/)
+- [AWS re:Invent: Everything Amazon’s announced, from new AI tools to LLM updates and more](https://techcrunch.com/2023/11/30/heres-everything-aws-reinvent-2023-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
