@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s up with Tesla’s Cybertruck? Everything to know about much-hyped electric pickup](https://techcrunch.com/2023/11/30/whats-up-with-teslas-cybertruck-everything-to-know-about-the-much-hyped-electric-pickup/)
+- [Zubale bags new capital for software to help retailers scale e-commerce in Latin America](https://techcrunch.com/2023/11/30/zubale-software-retailers-e-commerce-latin-america/)
 - [Our neighbor the Andromeda Galaxy shines overhead this week. Here&#39;s how to see it](https://www.space.com/andromeda-galaxy-november-2023)
 - [As Temu shakes up global ecommerce, PDD nears overtaking Alibaba](https://techcrunch.com/2023/11/30/as-temu-shakes-up-global-ecommerce-pdd-nears-overtaking-alibaba/)
 - [It’s official: Evernote will restrict free users to 50 notes](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
-- [Robinhood brings its stock-trading platform to the U.K., its first international market](https://techcrunch.com/2023/11/29/robinhood-brings-its-stock-trading-platform-to-the-u-k-its-first-international-market/)
-- [European consumer groups band together to fight Meta’s self-serving ad-free sub — branding it ‘unfair’ and ‘illegal’](https://techcrunch.com/2023/11/29/beuc-cpc-meta-complaint/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
