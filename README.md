@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This small French company wants to build the open alternative to Kindle and Kobo](https://techcrunch.com/2023/11/30/this-small-french-company-wants-to-build-the-open-alternative-to-kindle-and-kobo/)
-- [Nucleos puts secure, tablet-powered education in the hands of inmates](https://techcrunch.com/2023/11/30/nucleos-puts-secure-tablet-powered-education-in-the-hands-of-inmates/)
-- [Mary Cleave, space shuttle astronaut who led NASA&#39;s science division, dies at 76](https://www.space.com/nasa-astronaut-mary-cleave-obituary)
-- [Practical advice for B2B startups raising a Series A](https://techcrunch.com/2023/11/30/practical-advice-for-b2b-startups-raising-a-series-a/)
-- [Hubble Space Telescope is in safe mode — but scientists aren&#39;t too worried](https://www.space.com/hubble-space-telescope-safe-mode-gyroscope-issue)
+- [Security flaws in court record systems used in five US states exposed sensitive legal documents](https://techcrunch.com/2023/11/30/us-court-records-systems-vulnerabilities-exposed-sealed-documents/)
+- [Android users gain nearly a dozen new features with latest update](https://techcrunch.com/2023/11/30/android-users-gain-nearly-a-dozen-new-features-with-latest-update/)
+- [Clayful, a startup that helps students connect to mental health experts within 60 seconds, raises $7M](https://techcrunch.com/2023/11/30/clayful-a-startup-that-helps-students-connect-to-mental-health-experts-within-60-seconds-raises-7m/)
+- [On ChatGPT’s first anniversary, its mobile apps have topped 110M installs and nearly $30M in revenue](https://techcrunch.com/2023/11/30/on-chatgpts-first-anniversary-its-mobile-apps-have-topped-110m-installs-and-nearly-30m-in-revenue/)
+- [The Milky Way lights up the &#39;Valley of the moon&#39; in magical new night sky photo](https://www.space.com/milky-way-valley-of-the-moon-eso)
 <!-- BLOG-POST-LIST:END -->
 
 ---
