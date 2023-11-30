@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Security flaws in court record systems used in five US states exposed sensitive legal documents](https://techcrunch.com/2023/11/30/us-court-records-systems-vulnerabilities-exposed-sealed-documents/)
-- [Android users gain nearly a dozen new features with latest update](https://techcrunch.com/2023/11/30/android-users-gain-nearly-a-dozen-new-features-with-latest-update/)
-- [Clayful, a startup that helps students connect to mental health experts within 60 seconds, raises $7M](https://techcrunch.com/2023/11/30/clayful-a-startup-that-helps-students-connect-to-mental-health-experts-within-60-seconds-raises-7m/)
-- [On ChatGPT’s first anniversary, its mobile apps have topped 110M installs and nearly $30M in revenue](https://techcrunch.com/2023/11/30/on-chatgpts-first-anniversary-its-mobile-apps-have-topped-110m-installs-and-nearly-30m-in-revenue/)
-- [The Milky Way lights up the &#39;Valley of the moon&#39; in magical new night sky photo](https://www.space.com/milky-way-valley-of-the-moon-eso)
+- [YouTube Music Recap is no Spotify Wrapped, but it’s still pretty fun](https://techcrunch.com/2023/11/30/youtube-music-2023-recap/)
+- [Stensul draws on new capital to boost marketing creation features](https://techcrunch.com/2023/11/30/stensul-marketing-creation-series-c/)
+- [Meet &#39;Selam,&#39; the curious double moon orbiting asteroid &#39;Dinky&#39;](https://www.space.com/lucy-dinkinesh-asteroid-satellite-name)
+- [Drug discovery startup Pepper Bio hopes to challenge Eroom’s law with new funding](https://techcrunch.com/2023/11/30/drug-discovery-pepper-bio/)
+- [X CEO Linda Yaccarino publicly backs Musk after he says ‘f*ck yourself’ to advertisers](https://techcrunch.com/2023/11/30/x-ceo-linda-yaccarino-publicly-backs-musk-after-he-says-fck-yourself-to-advertisers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
