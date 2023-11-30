@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Big blob of hot water in Pacific may be making El Niño act weirdly](https://www.space.com/pacific-ocean-hot-water-blob-effecting-el-nino)
+- [Earth-like planets may form even in harsh environments, James Webb Space Telescope finds](https://www.space.com/webb-finds-water-carbon-in-harshest-region)
+- [NomuPay, formed out of Wirecard’s ashes, acquires Total Processing for tooling and customer service](https://techcrunch.com/2023/11/30/nomupay-formed-out-of-wirecards-ashes-acquires-total-processing-for-tooling-and-customer-service/)
+- [Meta reportedly set to launch Threads in the EU next month](https://techcrunch.com/2023/11/30/meta-reportedly-set-to-launch-threads-in-the-eu-next-month/)
 - [What’s up with Tesla’s Cybertruck? Everything to know about much-hyped electric pickup](https://techcrunch.com/2023/11/30/whats-up-with-teslas-cybertruck-everything-to-know-about-the-much-hyped-electric-pickup/)
-- [Zubale bags new capital for software to help retailers scale e-commerce in Latin America](https://techcrunch.com/2023/11/30/zubale-software-retailers-e-commerce-latin-america/)
-- [Our neighbor the Andromeda Galaxy shines overhead this week. Here&#39;s how to see it](https://www.space.com/andromeda-galaxy-november-2023)
-- [As Temu shakes up global ecommerce, PDD nears overtaking Alibaba](https://techcrunch.com/2023/11/30/as-temu-shakes-up-global-ecommerce-pdd-nears-overtaking-alibaba/)
-- [It’s official: Evernote will restrict free users to 50 notes](https://techcrunch.com/2023/11/29/its-official-evernote-will-restrict-free-users-to-50-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
