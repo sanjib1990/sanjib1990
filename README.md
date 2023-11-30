@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European consumer groups band together to fight Meta’s self-serving ad-free sub — branding it ‘unfair’ and ‘illegal’](https://techcrunch.com/2023/11/29/beuc-cpc-meta-complaint/)
 - [Apple and Google avoid naming ChatGPT as their ‘app of the year,’ picking AllTrails and Imprint instead](https://techcrunch.com/2023/11/29/apple-and-google-avoid-naming-chatgpt-as-their-app-of-the-year-picking-alltrails-and-imprint-instead/)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/29/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Sam Altman’s officially back at OpenAI — and the board gains a Microsoft observer](https://techcrunch.com/2023/11/29/sam-altmans-officially-back-at-openai-and-the-board-gains-a-microsoft-observer/)
 - [Elon Musk says ‘go f*ck yourself’ to advertisers leaving X](https://techcrunch.com/2023/11/29/elon-musk-says-go-fuck-yourself-to-advertisers-leaving-x/)
-- [Backed by East Ventures, Fr8Labs aims to digitize Asia’s logistics industry](https://techcrunch.com/2023/11/29/fr8labs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
