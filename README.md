@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear-powered Dragonfly mission to Saturn moon Titan delayed until 2028, NASA says](https://www.space.com/nasa-dragonfly-mission-saturn-moon-titan-2028-launch)
+- [Former Blue Origin rocket engine manager alleges wrongful termination for whistleblowing on safety](https://techcrunch.com/2023/11/30/former-blue-origin-rocket-engine-manager-alleges-wrongful-termination-for-whistleblowing-on-safety/)
 - [Makers of popular Dream by Wombo AI app launch a new app for AI avatars](https://techcrunch.com/2023/11/30/makers-of-popular-dream-by-wombo-ai-app-launch-a-new-app-for-ai-avatars/)
 - [Here&#39;s what astronauts in orbit around Mars would see from their spacecraft](https://www.space.com/mars-from-orbit-video)
 - [For Henry Kissinger, NASA&#39;S Apollo 11 lunar landing was about more than the moon](https://www.space.com/henry-kissinger-apollo-program-moon-landing)
-- [Yieldstreet to acquire real estate investment platform Cadre](https://techcrunch.com/2023/11/30/yieldstreet-to-acquire-real-estate-investment-platform-cadre/)
-- [AWS re:Invent: Everything Amazon’s announced, from new AI tools to LLM updates and more](https://techcrunch.com/2023/11/30/heres-everything-aws-reinvent-2023-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
