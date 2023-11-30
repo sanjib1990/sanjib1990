@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2023/11/29/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Sam Altman’s officially back at OpenAI — and the board gains a Microsoft observer](https://techcrunch.com/2023/11/29/sam-altmans-officially-back-at-openai-and-the-board-gains-a-microsoft-observer/)
 - [Elon Musk says ‘go fuck yourself’ to advertisers leaving X](https://techcrunch.com/2023/11/29/elon-musk-says-go-fuck-yourself-to-advertisers-leaving-x/)
 - [Backed by East Ventures, Fr8Labs aims to digitize Asia’s logistics industry](https://techcrunch.com/2023/11/29/fr8labs/)
-- [SpaceX acquires parachute company for $2.2M – because it turns out space-rated parachutes are very hard](https://techcrunch.com/2023/11/29/spacex-acquires-parachute-company-for-2-2m-because-it-turns-out-space-rated-parachutes-are-very-hard/)
-- [ISS astronauts watch Russian cargo ship burn up in Earth&#39;s atmosphere &lpar;photos&rpar;](https://www.space.com/international-space-station-astronaut-russian-cargo-ship-reentry-photos)
+- [SpaceX acquires parachute company for $2.2M, because it turns out space-rated parachutes are very hard](https://techcrunch.com/2023/11/29/spacex-acquires-parachute-company-for-2-2m-because-it-turns-out-space-rated-parachutes-are-very-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
