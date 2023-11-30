@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram Threads search now supports ‘all languages’ in latest update](https://techcrunch.com/2023/11/30/instagram-threads-search-now-supports-all-languages-in-latest-update/)
+- [300 gamma-ray-blasting neutron stars found in massive haul — and some are &#39;spider pulsars&#39;](https://www.space.com/gamma-ray-spider-pulsar-neutron-star-spinning-fermi)
 - [YouTube Music Recap is no Spotify Wrapped, but it’s still pretty fun](https://techcrunch.com/2023/11/30/youtube-music-2023-recap/)
 - [Stensul draws on new capital to boost marketing creation features](https://techcrunch.com/2023/11/30/stensul-marketing-creation-series-c/)
 - [Meet &#39;Selam,&#39; the curious double moon orbiting asteroid &#39;Dinky&#39;](https://www.space.com/lucy-dinkinesh-asteroid-satellite-name)
-- [Drug discovery startup Pepper Bio hopes to challenge Eroom’s law with new funding](https://techcrunch.com/2023/11/30/drug-discovery-pepper-bio/)
-- [X CEO Linda Yaccarino publicly backs Musk after he says ‘f*ck yourself’ to advertisers](https://techcrunch.com/2023/11/30/x-ceo-linda-yaccarino-publicly-backs-musk-after-he-says-fck-yourself-to-advertisers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
