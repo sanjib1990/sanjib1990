@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce Ventures and Female Founders Fund back Kenyan climate-tech Amini in $4M seed round](https://techcrunch.com/2023/11/30/salesforce-ventures-and-female-founders-fund-back-kenyan-climate-tech-amini-in-4m-seed-round/)
-- [Amazon CTO Werner Vogels on culturally aware LLMs, developer productivity and FemTech](https://techcrunch.com/2023/11/30/amazon-cto-werner-vogels-on-culturally-aware-llms-developer-productivity-and-femtech/)
-- [Asteroid Phaethon&#39;s mysterious tail may finally have an explanation](https://www.space.com/asteroid-phaethon-rare-class-solar-system)
-- [Tech-enabled warehousing startup Huboo raises another $36.6M amid continued e-commerce growth](https://techcrunch.com/2023/11/30/tech-enabled-warehousing-startup-huboo-raises-another-36-6m-amid-continued-e-commerce-growth/)
-- [Here’s your reminder that Google is deleting inactive accounts tomorrow](https://techcrunch.com/2023/11/30/google-deleting-inactive-accounts-december-1/)
+- [This small French company wants to build the open alternative to Kindle and Kobo](https://techcrunch.com/2023/11/30/this-small-french-company-wants-to-build-the-open-alternative-to-kindle-and-kobo/)
+- [Nucleos puts secure, tablet-powered education in the hands of inmates](https://techcrunch.com/2023/11/30/nucleos-puts-secure-tablet-powered-education-in-the-hands-of-inmates/)
+- [Mary Cleave, space shuttle astronaut who led NASA&#39;s science division, dies at 76](https://www.space.com/nasa-astronaut-mary-cleave-obituary)
+- [Practical advice for B2B startups raising a Series A](https://techcrunch.com/2023/11/30/practical-advice-for-b2b-startups-raising-a-series-a/)
+- [Hubble Space Telescope is in safe mode — but scientists aren&#39;t too worried](https://www.space.com/hubble-space-telescope-safe-mode-gyroscope-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
