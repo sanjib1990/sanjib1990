@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk says ‘go fuck yourself’ to advertisers leaving X](https://techcrunch.com/2023/11/29/elon-musk-says-go-fuck-yourself-to-advertisers-leaving-x/)
+- [SpaceX acquires parachute company for $2.2M – because it turns out space-rated parachutes are very hard](https://techcrunch.com/2023/11/29/spacex-acquires-parachute-company-for-2-2m-because-it-turns-out-space-rated-parachutes-are-very-hard/)
 - [ISS astronauts watch Russian cargo ship burn up in Earth&#39;s atmosphere &lpar;photos&rpar;](https://www.space.com/international-space-station-astronaut-russian-cargo-ship-reentry-photos)
 - [Watch Europe&#39;s new Ariane 6 rocket fire its engines in new timelapse video](https://www.space.com/esa-ariane-6-hot-fire-test-timelapse)
 - [AWS re:Invent: Everything Amazon’s announced, from new AI tools to LLM updates and more](https://techcrunch.com/2023/11/29/heres-everything-aws-reinvent-2023-so-far/)
-- [Reddit refreshes its logo as IPO speculation swirls](https://techcrunch.com/2023/11/29/reddit-rebrand-refreshes-its-logo-as-ipo-speculation-swirls/)
-- [Loft Orbital is launching ‘virtual missions’ for developers wanting access to space](https://techcrunch.com/2023/11/29/loft-orbital-is-launching-virtual-missions-for-developers-wanting-access-to-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
