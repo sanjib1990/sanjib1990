@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kognitos raises $35M to help businesses automate back-office processes](https://techcrunch.com/2023/11/30/kognitos-raises-35m-to-help-businesses-automate-back-office-processes/)
-- [Our solar system&#39;s planets aren&#39;t weird after all. Exoplanets have tilted orbits, too](https://www.space.com/solar-system-orbit-ecliptic-tilt-exoplanet-study)
-- [South Korea to launch digital currency pilot with 100,000 residents next year](https://techcrunch.com/2023/11/30/south-korea-to-launch-digital-currency-pilot-with-100000-residents-next-year/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Big blob of hot water in Pacific may be making El Niño act weirdly](https://www.space.com/pacific-ocean-hot-water-blob-effecting-el-nino)
+- [Salesforce Ventures and Female Founders Fund back Kenyan climate-tech Amini in $4M seed round](https://techcrunch.com/2023/11/30/salesforce-ventures-and-female-founders-fund-back-kenyan-climate-tech-amini-in-4m-seed-round/)
+- [Amazon CTO Werner Vogels on culturally aware LLMs, developer productivity and FemTech](https://techcrunch.com/2023/11/30/amazon-cto-werner-vogels-on-culturally-aware-llms-developer-productivity-and-femtech/)
+- [Asteroid Phaethon&#39;s mysterious tail may finally have an explanation](https://www.space.com/asteroid-phaethon-rare-class-solar-system)
+- [Tech-enabled warehousing startup Huboo raises another $36.6M amid continued e-commerce growth](https://techcrunch.com/2023/11/30/tech-enabled-warehousing-startup-huboo-raises-another-36-6m-amid-continued-e-commerce-growth/)
+- [Here’s your reminder that Google is deleting inactive accounts tomorrow](https://techcrunch.com/2023/11/30/google-deleting-inactive-accounts-december-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
