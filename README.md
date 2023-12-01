@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A mysterious river of gas flowing into the Milky Way has stars inside after all](https://www.space.com/stars-discovered-in-magellanic-stream-first-time)
+- [How to see and track the Tiangong Chinese space station](https://www.space.com/how-to-see-track-chinese-space-station-tiangong)
+- [Capsule’s new app combines AI and human editors to curate the news](https://techcrunch.com/2023/12/01/capsules-new-app-combines-ai-and-human-editors-to-curate-the-news/)
 - [8 authors and their 8 gift book picks for this holiday season](https://techcrunch.com/2023/12/01/8-authors-and-their-8-gift-book-picks-for-this-holiday-season/)
 - [The end of Elon](https://techcrunch.com/2023/12/01/the-end-of-elon/)
-- [The search and discovery marketplace](https://techcrunch.com/2023/12/01/the-search-and-discovery-marketplace/)
-- [Montana’s ban on TikTok is now on hold](https://techcrunch.com/2023/12/01/montanas-ban-on-tiktok-is-now-on-hold/)
-- [Big wins for Latin America, climate tech momentum, and Rover’s $2.3B sale](https://techcrunch.com/2023/12/01/big-wins-for-latin-america-climate-tech-momentum-and-rovers-2-3b-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
