@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anduril unveils Roadrunner, “a fighter jet weapon that lands like a Falcon 9”](https://techcrunch.com/2023/11/30/anduril-unveils-roadrunner-a-fighter-jet-weapon-that-lands-like-a-falcon-9/)
 - [How the Tesla Cyberbeast compares to other high-priced electric pickups](https://techcrunch.com/2023/11/30/how-the-tesla-cyberbeast-compares-to-other-high-priced-electric-pickups/)
 - [Defense startup Epirus CEO leaving to take new job at a public company](https://techcrunch.com/2023/11/30/defense-startup-epirus-ceo-leaving-to-take-new-job-at-a-public-company/)
 - [Tesla’s cheapest Cybertruck won’t drop until 2025](https://techcrunch.com/2023/11/30/teslas-cheapest-cybertruck-wont-drop-until-2025/)
 - [Tesla Cybertruck delivery event: Everything Elon revealed about the EV pickup](https://techcrunch.com/2023/11/30/tesla-cybertruck-delivery-event-everything-elon-revealed-about-the-ev-pickup/)
-- [Nuclear-powered Dragonfly mission to Saturn moon Titan delayed until 2028, NASA says](https://www.space.com/nasa-dragonfly-mission-saturn-moon-titan-2028-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
