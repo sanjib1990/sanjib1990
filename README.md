@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [23andMe says hackers accessed ‘significant number’ of files about users’ ancestry](https://techcrunch.com/2023/12/01/23andme-says-hackers-accessed-significant-number-of-files-about-users-ancestry/)
+- [How to watch &#39;Doctor Who&#39; anniversary specials: Stream &#39;Wild Blue Yonder&#39; from anywhere](https://www.space.com/doctor-who-anniversary-special-wild-blue-yonder-how-to-watch)
+- [Ev startup Fisker cut its 2023 production target for the fourth time](https://techcrunch.com/2023/12/01/ev-startup-fisker-cut-its-2023-production-target-for-the-fourth-time/)
+- [OpenAI’s GPT Store delayed to 2024 following leadership chaos](https://techcrunch.com/2023/12/01/openais-gpt-store-delayed-to-2024-following-leadership-chaos/)
 - [AWS re:Invent: Everything Amazon’s announced, from new AI tools to LLM updates and more](https://techcrunch.com/2023/12/01/heres-everything-aws-reinvent-2023-so-far/)
-- [NASA&#39;s Artemis 3 astronaut moon landing unlikely before 2027, GAO report finds](https://www.space.com/artemis-3-2027-nasa-gao-report)
-- [What’s up with Tesla’s Cybertruck? Everything to know about the much-hyped electric pickup](https://techcrunch.com/2023/12/01/whats-up-with-teslas-cybertruck-everything-to-know-about-the-much-hyped-electric-pickup/)
-- [When Uncle Sam puts his thumb on your brake pedal](https://techcrunch.com/2023/12/01/when-uncle-sam-puts-his-thumb-on-your-brake-pedal/)
-- [This &#39;forbidden&#39; exoplanet is way too massive for its star](https://www.space.com/exoplanet-massive-hpf-star-habitable-zone-planetary-models)
 <!-- BLOG-POST-LIST:END -->
 
 ---
