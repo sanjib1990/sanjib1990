@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 3 astronaut moon landing unlikely before 2027, GAO report finds](https://www.space.com/artemis-3-2027-nasa-gao-report)
+- [What’s up with Tesla’s Cybertruck? Everything to know about the much-hyped electric pickup](https://techcrunch.com/2023/12/01/whats-up-with-teslas-cybertruck-everything-to-know-about-the-much-hyped-electric-pickup/)
 - [When Uncle Sam puts his thumb on your brake pedal](https://techcrunch.com/2023/12/01/when-uncle-sam-puts-his-thumb-on-your-brake-pedal/)
 - [This &#39;forbidden&#39; exoplanet is way too massive for its star](https://www.space.com/exoplanet-massive-hpf-star-habitable-zone-planetary-models)
 - [Amazon signs 3-launch deal with SpaceX for Project Kuiper satellite internet constellation](https://techcrunch.com/2023/12/01/amazon-signs-3-launch-deal-with-spacex-for-project-kuiper-satellite-internet-constellation/)
-- [Tesla Cybertruck delivery event: Everything Elon revealed about the EV pickup](https://techcrunch.com/2023/12/01/tesla-cybertruck-delivery-event-everything-elon-revealed-about-the-ev-pickup/)
-- [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
