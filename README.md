@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS re:Invent: Everything Amazon’s announced, from new AI tools to LLM updates and more](https://techcrunch.com/2023/12/01/heres-everything-aws-reinvent-2023-so-far/)
 - [NASA&#39;s Artemis 3 astronaut moon landing unlikely before 2027, GAO report finds](https://www.space.com/artemis-3-2027-nasa-gao-report)
 - [What’s up with Tesla’s Cybertruck? Everything to know about the much-hyped electric pickup](https://techcrunch.com/2023/12/01/whats-up-with-teslas-cybertruck-everything-to-know-about-the-much-hyped-electric-pickup/)
 - [When Uncle Sam puts his thumb on your brake pedal](https://techcrunch.com/2023/12/01/when-uncle-sam-puts-his-thumb-on-your-brake-pedal/)
 - [This &#39;forbidden&#39; exoplanet is way too massive for its star](https://www.space.com/exoplanet-massive-hpf-star-habitable-zone-planetary-models)
-- [Amazon signs 3-launch deal with SpaceX for Project Kuiper satellite internet constellation](https://techcrunch.com/2023/12/01/amazon-signs-3-launch-deal-with-spacex-for-project-kuiper-satellite-internet-constellation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
