@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force postpones launch of secretive X-37B space plane to Dec. 10](https://www.space.com/spacex-space-force-ussf-52-launch-delay)
+- [Benchmark, the storied venture firm, sees “traps” in today’s AI funding frenzy: “Don’t be Microsoft”](https://techcrunch.com/2023/12/01/benchmark-the-storied-venture-firm-sees-traps-in-todays-ai-funding-frenzy-dont-be-microsoft/)
 - [Last chance! Black Friday telescope deal continues: Save $310 on Celestron NexStar 8SE at Walmart](https://www.space.com/black-friday-telescope-deal-save-310-celestron-nexstar-8se-amazon)
 - [Smartphone sales to rebound on AI gains, Morgan Stanley says](https://techcrunch.com/2023/12/01/smartphone-sales-to-rebound-on-ai-gains-morgan-stanley-says/)
 - [Anduril unveils Roadrunner, “a fighter jet weapon that lands like a Falcon 9”](https://techcrunch.com/2023/11/30/anduril-unveils-roadrunner-a-fighter-jet-weapon-that-lands-like-a-falcon-9/)
-- [How the Tesla Cyberbeast compares to other high-priced electric pickups](https://techcrunch.com/2023/11/30/how-the-tesla-cyberbeast-compares-to-other-high-priced-electric-pickups/)
-- [Defense startup Epirus CEO leaving to take new job at a public company](https://techcrunch.com/2023/11/30/defense-startup-epirus-ceo-leaving-to-take-new-job-at-a-public-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
