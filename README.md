@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 authors and their 8 gift book picks for this holiday season](https://techcrunch.com/2023/12/01/8-authors-and-their-8-gift-book-picks-for-this-holiday-season/)
+- [The end of Elon](https://techcrunch.com/2023/12/01/the-end-of-elon/)
+- [The search and discovery marketplace](https://techcrunch.com/2023/12/01/the-search-and-discovery-marketplace/)
+- [Montana’s ban on TikTok is now on hold](https://techcrunch.com/2023/12/01/montanas-ban-on-tiktok-is-now-on-hold/)
 - [Big wins for Latin America, climate tech momentum, and Rover’s $2.3B sale](https://techcrunch.com/2023/12/01/big-wins-for-latin-america-climate-tech-momentum-and-rovers-2-3b-sale/)
-- [Life as we know it may have its roots in an old, cold cosmic cloud](https://www.space.com/life-building-blocks-lab-experiments-amino-acids)
-- [Watch SpaceX launch Irish, South Korean satellites on Falcon 9 rocket today &lpar;video&rpar;](https://www.space.com/spacex-falcon-9-rocket-ireland-south-korea-satellite-webcast)
-- [Meta faces more questions in Europe about child safety risks on Instagram](https://techcrunch.com/2023/12/01/meta-dsa-rfi-2-child-safety/)
-- [Sci-fi classic &#39;The Abyss&#39; washes into theaters and home video remastered in 4K](https://www.space.com/the-abyss-remastered-theaters-home-video-nov-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
