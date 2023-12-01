@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s Chang&#39;e 5 moon samples, beyond NASA&#39;s reach for years, are finally available to US scientists](https://www.space.com/china-moon-samples-change-5-nasa-researchers)
-- [Scientists are devising ways to gaze past Earth&#39;s radio haze](https://www.space.com/radio-interference-signal-processing-astronomy-telescopic-data-earth-orbit)
-- [Deal extended: Huge 47% off this Cyber Monday home planetarium deal](https://www.space.com/cyber-monday-deal-2023-home-planetarium)
-- [US Space Force postpones launch of secretive X-37B space plane to Dec. 10](https://www.space.com/spacex-space-force-ussf-52-launch-delay)
-- [Benchmark, the storied venture firm, sees “traps” in today’s AI funding frenzy: “Don’t be Microsoft”](https://techcrunch.com/2023/12/01/benchmark-the-storied-venture-firm-sees-traps-in-todays-ai-funding-frenzy-dont-be-microsoft/)
+- [Meta faces more questions in Europe about child safety risks on Instagram](https://techcrunch.com/2023/12/01/meta-dsa-rfi-2-child-safety/)
+- [Sci-fi classic &#39;The Abyss&#39; washes into theaters and home video remastered in 4K](https://www.space.com/the-abyss-remastered-theaters-home-video-nov-2023)
+- [Apple releases security updates for iOS, iPadOS and macOS, fixing two actively exploited zero-days](https://techcrunch.com/2023/12/01/apple-ios-ipad-macos-actively-exploited/)
+- [6 innovative products from kid tech startups to gift your children](https://techcrunch.com/2023/12/01/6-innovative-products-from-kid-tech-startups-to-gift-your-children/)
+- [Telegram spruces up its channels with new discovery and customization features](https://techcrunch.com/2023/12/01/telegram-spruces-up-its-channels-with-new-discovery-and-customization-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
