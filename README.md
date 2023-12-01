@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A mysterious river of gas flowing into the Milky Way has stars inside after all](https://www.space.com/stars-discovered-in-magellanic-stream-first-time)
-- [How to see and track the Tiangong Chinese space station](https://www.space.com/how-to-see-track-chinese-space-station-tiangong)
-- [Capsule’s new app combines AI and human editors to curate the news](https://techcrunch.com/2023/12/01/capsules-new-app-combines-ai-and-human-editors-to-curate-the-news/)
-- [8 authors and their 8 gift book picks for this holiday season](https://techcrunch.com/2023/12/01/8-authors-and-their-8-gift-book-picks-for-this-holiday-season/)
-- [The end of Elon](https://techcrunch.com/2023/12/01/the-end-of-elon/)
+- [X says it will chase SMB ad dollars after Musk’s ‘go  f*** yourself’ comments to fleeing advertisers](https://techcrunch.com/2023/12/01/x-says-it-will-chase-smb-ad-dollars-after-musks-go-f-yourself-comments-to-fleeing-advertisers/)
+- [&#39;For All Mankind&#39; season 4 episode 4 review: The shove that shook two worlds](https://www.space.com/for-all-mankind-season-4-episode-4-review)
+- [Why Rover’s $2.3B sale price makes good sense](https://techcrunch.com/2023/12/01/rover-spac-sale-price/)
+- [Revenue-based financing heats-up in the Middle East as Flow48 attracts $25M in funding](https://techcrunch.com/2023/12/01/revenue-based-financing-heats-up-in-the-middle-east-as-flow48-attracts-25m-in-funding/)
+- [Microsoft is in talks with partners about launching an Xbox mobile store](https://techcrunch.com/2023/12/01/microsoft-is-in-talks-with-partners-about-launching-an-xbox-mobile-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
