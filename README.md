@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TC+ Roundup: Forestry tech is at an inflection point](https://techcrunch.com/2023/12/01/tc-roundup-forestry-tech-is-at-an-inflection-point/)
-- [Bluesky rolls out automated moderation tools, plus user and moderation lists](https://techcrunch.com/2023/12/01/bluesky-rolls-out-automated-moderation-tools-plus-user-and-moderation-lists/)
-- [The beautifully bizarre animated classic &#39;Fantastic Planet&#39; turns 50 today](https://www.space.com/fantastic-planet-animated-film-50th-anniversary)
-- [Pitch Deck Teardown: Scalestack’s $1M AI sales tech seed deck](https://techcrunch.com/2023/12/01/sample-seed-pitch-deck-scalestack/)
-- [X says it will chase SMB ad dollars after Musk’s ‘go  f*** yourself’ comments to fleeing advertisers](https://techcrunch.com/2023/12/01/x-says-it-will-chase-smb-ad-dollars-after-musks-go-f-yourself-comments-to-fleeing-advertisers/)
+- [When Uncle Sam puts his thumb on your brake pedal](https://techcrunch.com/2023/12/01/when-uncle-sam-puts-his-thumb-on-your-brake-pedal/)
+- [This &#39;forbidden&#39; exoplanet is way too massive for its star](https://www.space.com/exoplanet-massive-hpf-star-habitable-zone-planetary-models)
+- [Amazon signs 3-launch deal with SpaceX for Project Kuiper satellite internet constellation](https://techcrunch.com/2023/12/01/amazon-signs-3-launch-deal-with-spacex-for-project-kuiper-satellite-internet-constellation/)
+- [Tesla Cybertruck delivery event: Everything Elon revealed about the EV pickup](https://techcrunch.com/2023/12/01/tesla-cybertruck-delivery-event-everything-elon-revealed-about-the-ev-pickup/)
+- [Good old-fashioned AI remains viable in spite of the rise of LLMs](https://techcrunch.com/2023/12/01/good-old-fashioned-ai-remains-viable-in-spite-of-the-rise-of-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
