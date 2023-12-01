@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TC+ Roundup: Forestry tech is at an inflection point](https://techcrunch.com/2023/12/01/tc-roundup-forestry-tech-is-at-an-inflection-point/)
+- [Bluesky rolls out automated moderation tools, plus user and moderation lists](https://techcrunch.com/2023/12/01/bluesky-rolls-out-automated-moderation-tools-plus-user-and-moderation-lists/)
+- [The beautifully bizarre animated classic &#39;Fantastic Planet&#39; turns 50 today](https://www.space.com/fantastic-planet-animated-film-50th-anniversary)
+- [Pitch Deck Teardown: Scalestack’s $1M AI sales tech seed deck](https://techcrunch.com/2023/12/01/sample-seed-pitch-deck-scalestack/)
 - [X says it will chase SMB ad dollars after Musk’s ‘go  f*** yourself’ comments to fleeing advertisers](https://techcrunch.com/2023/12/01/x-says-it-will-chase-smb-ad-dollars-after-musks-go-f-yourself-comments-to-fleeing-advertisers/)
-- [&#39;For All Mankind&#39; season 4 episode 4 review: The shove that shook two worlds](https://www.space.com/for-all-mankind-season-4-episode-4-review)
-- [Why Rover’s $2.3B sale price makes good sense](https://techcrunch.com/2023/12/01/rover-spac-sale-price/)
-- [Revenue-based financing heats-up in the Middle East as Flow48 attracts $25M in funding](https://techcrunch.com/2023/12/01/revenue-based-financing-heats-up-in-the-middle-east-as-flow48-attracts-25m-in-funding/)
-- [Microsoft is in talks with partners about launching an Xbox mobile store](https://techcrunch.com/2023/12/01/microsoft-is-in-talks-with-partners-about-launching-an-xbox-mobile-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
