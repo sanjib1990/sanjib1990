@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Chang&#39;e 5 moon samples, beyond NASA&#39;s reach for years, are finally available to US scientists](https://www.space.com/china-moon-samples-change-5-nasa-researchers)
+- [Scientists are devising ways to gaze past Earth&#39;s radio haze](https://www.space.com/radio-interference-signal-processing-astronomy-telescopic-data-earth-orbit)
 - [Deal extended: Huge 47% off this Cyber Monday home planetarium deal](https://www.space.com/cyber-monday-deal-2023-home-planetarium)
 - [US Space Force postpones launch of secretive X-37B space plane to Dec. 10](https://www.space.com/spacex-space-force-ussf-52-launch-delay)
 - [Benchmark, the storied venture firm, sees “traps” in today’s AI funding frenzy: “Don’t be Microsoft”](https://techcrunch.com/2023/12/01/benchmark-the-storied-venture-firm-sees-traps-in-todays-ai-funding-frenzy-dont-be-microsoft/)
-- [Last chance! Black Friday telescope deal continues: Save $310 on Celestron NexStar 8SE at Walmart](https://www.space.com/black-friday-telescope-deal-save-310-celestron-nexstar-8se-amazon)
-- [Smartphone sales to rebound on AI gains, Morgan Stanley says](https://techcrunch.com/2023/12/01/smartphone-sales-to-rebound-on-ai-gains-morgan-stanley-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
