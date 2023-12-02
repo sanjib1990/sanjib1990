@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m watching ‘AI upscaled’ Star Trek and it isn’t terrible](https://techcrunch.com/2023/12/02/ai-upscaled-star-trek-deep-space-9-ds9/)
+- [Robotics Q&amp;A with Meta’s Dhruv Batra](https://techcrunch.com/2023/12/02/robotics-qa-with-metas-dhruv-batra/)
 - [It’s time for a heat check on the subscription economy and its proposed value to customers](https://techcrunch.com/2023/12/02/its-time-for-a-heat-check-on-the-subscription-economy-and-its-proposed-value-to-customers/)
 - [This Week In Space podcast: Episode 89 — Who’s in Charge in Space?](https://www.space.com/this-week-in-space-episode-89-whos-in-charge-of-space)
 - [Unwrapping Uranus and its icy secrets: What NASA would learn from a mission to a wild world](https://www.space.com/unwrapping-uranus-what-could-nasa-learn)
-- [Lockheed Martin&#39;s &#39;Tantrum&#39; tech could help get satellites up and running without the wait](https://www.space.com/lockheed-marin-esa-satellite-demonstrator-calibration)
-- [The Peregrine Lunar Lander is set to launch on Dec 24. Here&#39;s what it&#39;ll bring to the moon](https://www.space.com/nasa-peregrine-lunar-lander-mission-christmas-eve)
 <!-- BLOG-POST-LIST:END -->
 
 ---
