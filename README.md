@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Peregrine Lunar Lander is set to launch on Dec 24. Here&#39;s what it&#39;ll bring to the moon](https://www.space.com/nasa-peregrine-lunar-lander-mission-christmas-eve)
+- [Lockheed Martin&#39;s &#39;Tantrum&#39; tech could help get satellites up and running without the wait](https://www.space.com/lockheed-marin-esa-satellite-demonstrator-calibration)
 - [&#39;Star Wars&#39; has changed the English language. Here&#39;s how](https://www.space.com/star-wars-changed-english-language)
 - [23andMe says hackers accessed ‘significant number’ of files about users’ ancestry](https://techcrunch.com/2023/12/01/23andme-says-hackers-accessed-significant-number-of-files-about-users-ancestry/)
 - [How to watch &#39;Doctor Who&#39; anniversary specials: Stream &#39;Wild Blue Yonder&#39; from anywhere](https://www.space.com/doctor-who-anniversary-special-wild-blue-yonder-how-to-watch)
-- [EV startup Fisker cut its 2023 production target for the fourth time](https://techcrunch.com/2023/12/01/ev-startup-fisker-cut-its-2023-production-target-for-the-fourth-time/)
-- [OpenAI’s GPT Store delayed to 2024 following leadership chaos](https://techcrunch.com/2023/12/01/openais-gpt-store-delayed-to-2024-following-leadership-chaos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
