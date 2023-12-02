@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [23andMe says hackers accessed ‘significant number’ of files about users’ ancestry](https://techcrunch.com/2023/12/01/23andme-says-hackers-accessed-significant-number-of-files-about-users-ancestry/)
 - [How to watch &#39;Doctor Who&#39; anniversary specials: Stream &#39;Wild Blue Yonder&#39; from anywhere](https://www.space.com/doctor-who-anniversary-special-wild-blue-yonder-how-to-watch)
-- [Ev startup Fisker cut its 2023 production target for the fourth time](https://techcrunch.com/2023/12/01/ev-startup-fisker-cut-its-2023-production-target-for-the-fourth-time/)
+- [EV startup Fisker cut its 2023 production target for the fourth time](https://techcrunch.com/2023/12/01/ev-startup-fisker-cut-its-2023-production-target-for-the-fourth-time/)
 - [OpenAI’s GPT Store delayed to 2024 following leadership chaos](https://techcrunch.com/2023/12/01/openais-gpt-store-delayed-to-2024-following-leadership-chaos/)
 - [AWS re:Invent: Everything Amazon’s announced, from new AI tools to LLM updates and more](https://techcrunch.com/2023/12/01/heres-everything-aws-reinvent-2023-so-far/)
 <!-- BLOG-POST-LIST:END -->
