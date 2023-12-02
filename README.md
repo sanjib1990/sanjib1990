@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s time for a heat check on the subscription economy and its proposed value to customers](https://techcrunch.com/2023/12/02/its-time-for-a-heat-check-on-the-subscription-economy-and-its-proposed-value-to-customers/)
+- [This Week In Space podcast: Episode 89 — Who’s in Charge in Space?](https://www.space.com/this-week-in-space-episode-89-whos-in-charge-of-space)
 - [Unwrapping Uranus and its icy secrets: What NASA would learn from a mission to a wild world](https://www.space.com/unwrapping-uranus-what-could-nasa-learn)
 - [Lockheed Martin&#39;s &#39;Tantrum&#39; tech could help get satellites up and running without the wait](https://www.space.com/lockheed-marin-esa-satellite-demonstrator-calibration)
 - [The Peregrine Lunar Lander is set to launch on Dec 24. Here&#39;s what it&#39;ll bring to the moon](https://www.space.com/nasa-peregrine-lunar-lander-mission-christmas-eve)
-- [&#39;Star Wars&#39; has changed the English language. Here&#39;s how](https://www.space.com/star-wars-changed-english-language)
-- [23andMe says hackers accessed ‘significant number’ of files about users’ ancestry](https://techcrunch.com/2023/12/01/23andme-says-hackers-accessed-significant-number-of-files-about-users-ancestry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
