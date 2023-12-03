@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VC Office Hours: Unlocking the Farmers’ Market with Black Farmer Fund](https://techcrunch.com/2023/12/03/black-farmers-fund-interview/)
 - [Cosmonauts dock Russian Progress cargo ship to ISS on remote control after autopilot glitch](https://www.space.com/russian-cosmonauts-dock-progress-86-cargo-ship-at-space-station.)
 - [GM and Toyota are shaping up to be the biggest losers in the EV transition](https://techcrunch.com/2023/12/03/ev-transition-losers/)
 - [Fintechs go shopping](https://techcrunch.com/2023/12/03/fintechs-go-shopping/)
 - [A &#39;runaway star&#39; could save Earth from extinction a billion years from now. Here&#39;s how.](https://www.space.com/runaway-star-save-earth-from-extinction)
-- [The most important metrics for SaaS funding in 2024](https://techcrunch.com/2023/12/03/the-most-important-metrics-for-saas-funding-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
