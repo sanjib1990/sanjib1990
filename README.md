@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 23 more Starlink satellites from Florida](https://www.space.com/spacex-starlink-launch-group-6-31)
 - [Tesla releases the Cybertruck, Sam Altman officially returns to OpenAI, and Evernote cripples its free plan](https://techcrunch.com/2023/12/02/tesla-releases-the-cybertruck-sam-altman-officially-returns-to-openai-and-evernote-cripples-its-free-plan/)
 - [Shein a light](https://techcrunch.com/2023/12/02/shein-a-light/)
 - [Deal Dive: Betting on beauty fads is big business](https://techcrunch.com/2023/12/02/med-spac-investing-repeatmd/)
 - [I’m watching ‘AI upscaled’ Star Trek and it isn’t terrible](https://techcrunch.com/2023/12/02/ai-upscaled-star-trek-deep-space-9-ds9/)
-- [Robotics Q&amp;A with Meta’s Dhruv Batra](https://techcrunch.com/2023/12/02/robotics-qa-with-metas-dhruv-batra/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
