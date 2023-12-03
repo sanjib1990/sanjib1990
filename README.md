@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Landspace gears up for 3rd launch of its methane-powered rocket](https://www.space.com/china-prepare-3rd-launch-methane-rocket)
 - [From Earth orbit to the moon: Europe&#39;s I-Hab continues Spacelab 40-year legacy](https://www.space.com/esa-spacelab-40th-anniversary-gateway-ihab)
 - [1st launch of Europe&#39;s Ariane 6 rocket finally has June 2024 launch target](https://www.space.com/1st-ariane-6-rocket-launch-june-2024-target)
 - [Axiom Space&#39;s 3rd private mission will conduct pioneering microgravity experiments on ISS](https://www.space.com/axiom-3-space-mission-iss-pushing-boundaries)
-- [SpaceX launches 23 more Starlink satellites from Florida](https://www.space.com/spacex-starlink-launch-group-6-31)
-- [Tesla releases the Cybertruck, Sam Altman officially returns to OpenAI, and Evernote cripples its free plan](https://techcrunch.com/2023/12/02/tesla-releases-the-cybertruck-sam-altman-officially-returns-to-openai-and-evernote-cripples-its-free-plan/)
+- [SpaceX launches 23 more Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/spacex-starlink-launch-group-6-31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
