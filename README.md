@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintechs go shopping](https://techcrunch.com/2023/12/03/fintechs-go-shopping/)
 - [A &#39;runaway star&#39; could save Earth from extinction a billion years from now. Here&#39;s how.](https://www.space.com/runaway-star-save-earth-from-extinction)
 - [The most important metrics for SaaS funding in 2024](https://techcrunch.com/2023/12/03/the-most-important-metrics-for-saas-funding-in-2024/)
 - [China&#39;s Landspace gears up for 3rd launch of its methane-powered rocket](https://www.space.com/china-prepare-3rd-launch-methane-rocket)
 - [From Earth orbit to the moon: Europe&#39;s I-Hab continues Spacelab 40-year legacy](https://www.space.com/esa-spacelab-40th-anniversary-gateway-ihab)
-- [1st launch of Europe&#39;s Ariane 6 rocket finally has June 2024 launch target](https://www.space.com/1st-ariane-6-rocket-launch-june-2024-target)
 <!-- BLOG-POST-LIST:END -->
 
 ---
