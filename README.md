@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strava gets in-app messaging to help you bypass WhatsApp](https://techcrunch.com/2023/12/04/strava-whatsapp-messaging/)
+- [Space mysteries: Why are there no gas moons?](https://www.space.com/space-mysteries-why-no-gas-moons)
+- [ArmorCode raises $40M to consolidate security data in one place](https://techcrunch.com/2023/12/04/armorcode-raises-40m-to-consolidate-security-data-in-one-place/)
+- [The best kitchen gifts for techy chefs in 2023](https://techcrunch.com/2023/12/04/the-best-kitchen-gifts-for-techy-chefs-in-2023/)
 - [NASA to train Indian astronauts for a week-long trip to ISS in 2024](https://www.space.com/indian-astronauts-nasa-week-long-trip-iss)
-- [Strange &#39;blob&#39; circling Milky Way&#39;s central black hole is shooting powerful radiation at Earth every 76 minutes](https://www.space.com/strange-blob-circling-milky-way-center-shooting-radiation-every-76-minutes)
-- [Meta faces $600M competition damages claim in Spain as media owners pursue privacy breach lawsuit](https://techcrunch.com/2023/12/04/meta-ami-competition-damages-claim/)
-- [TikTok expands its in-app Ticketmaster ticketing feature to users in 20 countries](https://techcrunch.com/2023/12/04/tiktok-expands-its-in-app-ticketmaster-ticketing-feature-to-users-in-20-countries/)
-- [Near-Earth asteroids: Hunting and tracking upcoming encounters](https://www.space.com/near-earth-asteroids-approaching-encounters-tracking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
