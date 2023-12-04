@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s MoveinSync eyes $50–60M in fresh funding](https://techcrunch.com/2023/12/03/moveinsync-funding/)
+- [More layoffs come for micromobility, Cruise cuts loom, and what the Cybertruck signals for Elon](https://techcrunch.com/2023/12/03/more-layoffs-come-for-micromobility-cruise-cuts-loom-and-what-the-cybertruck-signals-for-elon/)
 - [Gravel gets funding from NEA to support Indonesia’s booming construction industry](https://techcrunch.com/2023/12/03/gravel/)
 - [VC Office Hours: Unlocking the Farmers’ Market with Black Farmer Fund](https://techcrunch.com/2023/12/03/black-farmers-fund-interview/)
 - [Cosmonauts dock Russian Progress cargo ship to ISS on remote control after autopilot glitch](https://www.space.com/russian-cosmonauts-dock-progress-86-cargo-ship-at-space-station.)
-- [GM and Toyota are shaping up to be the biggest losers in the EV transition](https://techcrunch.com/2023/12/03/ev-transition-losers/)
-- [Fintechs go shopping](https://techcrunch.com/2023/12/03/fintechs-go-shopping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
