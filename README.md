@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA to train Indian astronauts for a week-long trip to ISS in 2024](https://www.space.com/indian-astronauts-nasa-week-long-trip-iss)
+- [Strange &#39;blob&#39; circling Milky Way&#39;s central black hole is shooting powerful radiation at Earth every 76 minutes](https://www.space.com/strange-blob-circling-milky-way-center-shooting-radiation-every-76-minutes)
+- [Meta faces $600M competition damages claim in Spain as media owners pursue privacy breach lawsuit](https://techcrunch.com/2023/12/04/meta-ami-competition-damages-claim/)
 - [TikTok expands its in-app Ticketmaster ticketing feature to users in 20 countries](https://techcrunch.com/2023/12/04/tiktok-expands-its-in-app-ticketmaster-ticketing-feature-to-users-in-20-countries/)
 - [Near-Earth asteroids: Hunting and tracking upcoming encounters](https://www.space.com/near-earth-asteroids-approaching-encounters-tracking)
-- [Doubtnut, once offered a $150M deal by Byju’s, sells for $10M](https://techcrunch.com/2023/12/04/doubtnut-once-offered-a-150m-deal-from-byjus-sells-for-10m/)
-- [Bending Spoons lays off entire staff of Flimic](https://techcrunch.com/2023/12/04/bending-spoons-lays-off-entire-staff-of-flimic/)
-- [Spotify cuts 17% jobs amid rising capital costs](https://techcrunch.com/2023/12/03/spotify-cuts-17-jobs-amid-rising-capital-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
