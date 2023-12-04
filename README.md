@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Animate Anyone’ heralds the approach of full-motion deepfakes](https://techcrunch.com/2023/12/04/animate-anyone-heralds-the-approach-of-full-motion-deepfakes/)
+- [X-ray telescope catches &#39;spider pulsars&#39; devouring stars like cosmic black widows &lpar;image&rpar;](https://www.space.com/nasa-telescope-spider-pulsars-devouring-stars-black-widows)
 - [SpaceX buys parachute manufacturer Pioneer Aerospace](https://www.space.com/spacex-buys-parachute-manufacturer-pioneer-aerospace)
 - [Mastercard launches Shopping Muse, an AI-powered shopping assistant](https://techcrunch.com/2023/12/04/mastercard-launches-shopping-muse-an-ai-powered-shopping-assistant/)
 - [A Y Combinator-backed startup called Velt wants to make more apps collaborative](https://techcrunch.com/2023/12/04/a-y-combinator-backed-startup-called-velt-wants-to-make-more-apps-collaborative/)
-- [James Webb Space Telescope gazes into &#39;The Brick,&#39; a dark nebula near the Milky Way&#39;s heart](https://www.space.com/james-webb-space-telescope-investigates-the-brick-dark-nebula)
-- [Atomic Industries closes $17M seed to exascale America’s industrial base](https://techcrunch.com/2023/12/04/atomic-industries-closes-17m-seed-to-exascale-americas-industrial-base/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
