@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The elusive origins of long gamma-ray bursts may finally be revealed](https://www.space.com/black-holes-cosmic-collisions-neutron-star-mergers-long-gamma-rays)
-- [Strava gets in-app messaging to help you bypass WhatsApp](https://techcrunch.com/2023/12/04/strava-whatsapp-messaging/)
-- [Space mysteries: Why are there no gas moons?](https://www.space.com/space-mysteries-why-no-gas-moons)
-- [ArmorCode raises $40M to consolidate security data in one place](https://techcrunch.com/2023/12/04/armorcode-raises-40m-to-consolidate-security-data-in-one-place/)
-- [The best kitchen gifts for techy chefs in 2023](https://techcrunch.com/2023/12/04/the-best-kitchen-gifts-for-techy-chefs-in-2023/)
+- [Mighty morphin&#39; Centaur rings — a distant icy object&#39;s rings are transforming](https://www.space.com/comet-chiron-centaur-icy-rings-structure-transformation)
+- [Threads downloads return to growth as X adds Walmart to its advertiser exodus](https://techcrunch.com/2023/12/04/threads-downloads-return-to-growth-as-x-adds-walmart-to-its-advertiser-exodus/)
+- [Negotiating cross-border investments: Insights from a seasoned investor](https://techcrunch.com/2023/12/04/negotiating-cross-border-investments-insights-from-a-seasoned-investor/)
+- [Bitcoin is on the move, Spotify cuts staff, and more money floods AI](https://techcrunch.com/2023/12/04/bitcoin-is-on-the-move-spotify-cuts-staff-and-more-money-floods-ai/)
+- [Up Catalyst draws €4M seed round to make battery graphite from carbon dioxide](https://techcrunch.com/2023/12/04/up-catalyst-seed-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
