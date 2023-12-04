@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Near-Earth asteroids: Hunting and tracking upcoming encounters](https://www.space.com/near-earth-asteroids-approaching-encounters-tracking)
+- [Doubtnut, once offered a $150M deal by Byju’s, sells for $10M](https://techcrunch.com/2023/12/04/doubtnut-once-offered-a-150m-deal-from-byjus-sells-for-10m/)
 - [Bending Spoons lays off entire staff of Flimic](https://techcrunch.com/2023/12/04/bending-spoons-lays-off-entire-staff-of-flimic/)
 - [Spotify cuts 17% jobs amid rising capital costs](https://techcrunch.com/2023/12/03/spotify-cuts-17-jobs-amid-rising-capital-costs/)
 - [India’s MoveinSync eyes $50–60M in fresh funding](https://techcrunch.com/2023/12/03/moveinsync-funding/)
-- [More layoffs come for micromobility, Cruise cuts loom, and what the Cybertruck signals for Elon](https://techcrunch.com/2023/12/03/more-layoffs-come-for-micromobility-cruise-cuts-loom-and-what-the-cybertruck-signals-for-elon/)
-- [Gravel gets funding from NEA to support Indonesia’s booming construction industry](https://techcrunch.com/2023/12/03/gravel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
