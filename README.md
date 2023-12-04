@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stratolaunch&#39;s huge Roc plane flies with fueled-up hypersonic vehicle for 1st time &lpar;photos&rpar;](https://www.space.com/stratolaunch-roc-fueled-hypersonic-vehicle-test-flight)
+- [How Perseverance rover captured its youngest samples from Mars&#39; Dream Lake &lpar;video&rpar;](https://www.space.com/perseverance-mars-rover-youngest-material-yet-video)
 - [‘Animate Anyone’ heralds the approach of full-motion deepfakes](https://techcrunch.com/2023/12/04/animate-anyone-heralds-the-approach-of-full-motion-deepfakes/)
 - [X-ray telescope catches &#39;spider pulsars&#39; devouring stars like cosmic black widows &lpar;image&rpar;](https://www.space.com/nasa-telescope-spider-pulsars-devouring-stars-black-widows)
 - [SpaceX buys parachute manufacturer Pioneer Aerospace](https://www.space.com/spacex-buys-parachute-manufacturer-pioneer-aerospace)
-- [Mastercard launches Shopping Muse, an AI-powered shopping assistant](https://techcrunch.com/2023/12/04/mastercard-launches-shopping-muse-an-ai-powered-shopping-assistant/)
-- [A Y Combinator-backed startup called Velt wants to make more apps collaborative](https://techcrunch.com/2023/12/04/a-y-combinator-backed-startup-called-velt-wants-to-make-more-apps-collaborative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
