@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bending Spoons lays off entire staff of Flimic](https://techcrunch.com/2023/12/04/bending-spoons-lays-off-entire-staff-of-flimic/)
 - [Spotify cuts 17% jobs amid rising capital costs](https://techcrunch.com/2023/12/03/spotify-cuts-17-jobs-amid-rising-capital-costs/)
 - [India’s MoveinSync eyes $50–60M in fresh funding](https://techcrunch.com/2023/12/03/moveinsync-funding/)
 - [More layoffs come for micromobility, Cruise cuts loom, and what the Cybertruck signals for Elon](https://techcrunch.com/2023/12/03/more-layoffs-come-for-micromobility-cruise-cuts-loom-and-what-the-cybertruck-signals-for-elon/)
 - [Gravel gets funding from NEA to support Indonesia’s booming construction industry](https://techcrunch.com/2023/12/03/gravel/)
-- [VC Office Hours: Unlocking the Farmers’ Market with Black Farmer Fund](https://techcrunch.com/2023/12/03/black-farmers-fund-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
