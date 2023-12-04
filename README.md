@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The elusive origins of long gamma-ray bursts may finally be revealed](https://www.space.com/black-holes-cosmic-collisions-neutron-star-mergers-long-gamma-rays)
 - [Strava gets in-app messaging to help you bypass WhatsApp](https://techcrunch.com/2023/12/04/strava-whatsapp-messaging/)
 - [Space mysteries: Why are there no gas moons?](https://www.space.com/space-mysteries-why-no-gas-moons)
 - [ArmorCode raises $40M to consolidate security data in one place](https://techcrunch.com/2023/12/04/armorcode-raises-40m-to-consolidate-security-data-in-one-place/)
 - [The best kitchen gifts for techy chefs in 2023](https://techcrunch.com/2023/12/04/the-best-kitchen-gifts-for-techy-chefs-in-2023/)
-- [NASA to train Indian astronauts for a week-long trip to ISS in 2024](https://www.space.com/indian-astronauts-nasa-week-long-trip-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
