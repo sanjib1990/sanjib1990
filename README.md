@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope gazes into &#39;The Brick,&#39; a dark nebula near the Milky Way&#39;s heart](https://www.space.com/james-webb-space-telescope-investigates-the-brick-dark-nebula)
+- [Atomic Industries closes $17M seed to exascale America’s industrial base](https://techcrunch.com/2023/12/04/atomic-industries-closes-17m-seed-to-exascale-americas-industrial-base/)
+- [AI invades ‘word of the year’ lists at Oxford, Cambridge and Merriam-Webster](https://techcrunch.com/2023/12/04/ai-invades-word-of-the-year-lists-at-oxford-cambridge-and-merriam-webster/)
 - [Historic magnetic storms help scientists learn what to expect when one hits](https://www.space.com/magnetic-storm-historic-earth-solar-flares-power-grid)
 - [The makers of pro photography app Halide venture into video with Kino, due this February](https://techcrunch.com/2023/12/04/the-makers-of-pro-photography-app-halide-venture-into-video-with-kino-due-this-february/)
-- [The Predator returns in Marvel Comics&#39; &#39;The Last Hunt&#39; miniseries](https://www.space.com/predator-last-hunt-marvel-comics-miniseries)
-- [23andMe confirms hackers stole ancestry data on 6.9 million users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/12/04/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
