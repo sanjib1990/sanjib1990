@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Historic magnetic storms help scientists learn what to expect when one hits](https://www.space.com/magnetic-storm-historic-earth-solar-flares-power-grid)
+- [The makers of pro photography app Halide venture into video with Kino, due this February](https://techcrunch.com/2023/12/04/the-makers-of-pro-photography-app-halide-venture-into-video-with-kino-due-this-february/)
 - [The Predator returns in Marvel Comics&#39; &#39;The Last Hunt&#39; miniseries](https://www.space.com/predator-last-hunt-marvel-comics-miniseries)
 - [23andMe confirms hackers stole ancestry data on 6.9 million users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
 - [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/12/04/tech-layoffs-2023-list/)
-- [AssemblyAI lands $50M to build and serve AI speech models](https://techcrunch.com/2023/12/04/assemblyai-nabs-50m-to-build-and-serve-ai-speech-models/)
-- [Vera C. Rubin Observatory will track orphan stars to reveal a cosmic &#39;fossil record&#39;](https://www.space.com/vera-rubin-observatory-orphan-stars-universe-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
