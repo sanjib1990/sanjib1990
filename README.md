@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mighty morphin&#39; Centaur rings — a distant icy object&#39;s rings are transforming](https://www.space.com/comet-chiron-centaur-icy-rings-structure-transformation)
-- [Threads downloads return to growth as X adds Walmart to its advertiser exodus](https://techcrunch.com/2023/12/04/threads-downloads-return-to-growth-as-x-adds-walmart-to-its-advertiser-exodus/)
-- [Negotiating cross-border investments: Insights from a seasoned investor](https://techcrunch.com/2023/12/04/negotiating-cross-border-investments-insights-from-a-seasoned-investor/)
-- [Bitcoin is on the move, Spotify cuts staff, and more money floods AI](https://techcrunch.com/2023/12/04/bitcoin-is-on-the-move-spotify-cuts-staff-and-more-money-floods-ai/)
-- [Up Catalyst draws €4M seed round to make battery graphite from carbon dioxide](https://techcrunch.com/2023/12/04/up-catalyst-seed-round/)
+- [AssemblyAI lands $50M to build and serve AI speech models](https://techcrunch.com/2023/12/04/assemblyai-nabs-50m-to-build-and-serve-ai-speech-models/)
+- [Vera C. Rubin Observatory will track orphan stars to reveal a cosmic &#39;fossil record&#39;](https://www.space.com/vera-rubin-observatory-orphan-stars-universe-evolution)
+- [Spotify’s layoffs make sense when you consider its margins and market](https://techcrunch.com/2023/12/04/spotifys-layoffs-analysis/)
+- [Tesla’s cheapest vehicle is losing half its tax credit next year](https://techcrunch.com/2023/12/04/teslas-cheapest-vehicle-is-losing-half-its-tax-credit-next-year/)
+- [Twilio lays off another 5% of employees following activist pressure](https://techcrunch.com/2023/12/04/twilio-lays-off-another-5-of-employees-following-activist-pressure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
