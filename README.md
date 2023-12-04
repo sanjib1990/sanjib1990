@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Predator returns in Marvel Comics&#39; &#39;The Last Hunt&#39; miniseries](https://www.space.com/predator-last-hunt-marvel-comics-miniseries)
+- [23andMe confirms hackers stole ancestry data on 6.9 million users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/12/04/tech-layoffs-2023-list/)
 - [AssemblyAI lands $50M to build and serve AI speech models](https://techcrunch.com/2023/12/04/assemblyai-nabs-50m-to-build-and-serve-ai-speech-models/)
 - [Vera C. Rubin Observatory will track orphan stars to reveal a cosmic &#39;fossil record&#39;](https://www.space.com/vera-rubin-observatory-orphan-stars-universe-evolution)
-- [Spotify’s layoffs make sense when you consider its margins and market](https://techcrunch.com/2023/12/04/spotifys-layoffs-analysis/)
-- [Tesla’s cheapest vehicle is losing half its tax credit next year](https://techcrunch.com/2023/12/04/teslas-cheapest-vehicle-is-losing-half-its-tax-credit-next-year/)
-- [Twilio lays off another 5% of employees following activist pressure](https://techcrunch.com/2023/12/04/twilio-lays-off-another-5-of-employees-following-activist-pressure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
