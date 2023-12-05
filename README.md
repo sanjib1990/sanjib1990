@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pluto&#39;s &#39;almost twin&#39; dwarf planet Eris is surprisingly squishy](https://www.space.com/pluto-twin-dwarf-planet-eris-squishy)
+- [Kodiak’s military prototype AV is a Ford F-150 pickup](https://techcrunch.com/2023/12/04/kodiaks-military-prototype-av-is-a-ford-f-150-pickup/)
 - [UK age assurance guidance for porn sites gives thumbs up to AI age checks, digital ID wallets and more](https://techcrunch.com/2023/12/04/ofcom-porn-sites-age-assurance-guidance/)
 - [How Perseverance rover captured its youngest samples from Mars&#39; Dream Lake &lpar;video&rpar;](https://www.space.com/perseverance-mars-rover-youngest-material-yet-video)
 - [Stratolaunch&#39;s huge Roc plane flies with fueled-up hypersonic vehicle for 1st time &lpar;photos&rpar;](https://www.space.com/stratolaunch-roc-fueled-hypersonic-vehicle-test-flight)
-- [Max Q: A Starlink terminal and a Kuiper terminal walk into a bar](https://techcrunch.com/2023/12/04/max-q-a-starlink-terminal-and-a-kuiper-terminal-walk-into-a-bar/)
-- [‘Animate Anyone’ heralds the approach of full-motion deepfakes](https://techcrunch.com/2023/12/04/animate-anyone-heralds-the-approach-of-full-motion-deepfakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
