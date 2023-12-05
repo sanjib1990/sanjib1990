@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Star Wars Holiday Special&#39; was a disaster. This new film examines why](https://www.space.com/star-wars-holiday-special-documentary-book)
-- [Used by only a few nerds, Facebook kills PGP-encrypted emails](https://techcrunch.com/2023/12/05/used-by-only-a-few-nerds-facebook-kills-pgp-encrypted-emails/)
-- [Meta set to discontinue cross-messaging between Instagram and Facebook](https://techcrunch.com/2023/12/05/meta-set-to-discontinue-cross-messaging-between-instagram-and-facebook/)
-- [Omniful, a supply chain and e-commerce enablement startup, emerges from stealth with $5.85M](https://techcrunch.com/2023/12/05/omniful-a-supply-chain-and-e-commerce-enablement-startup-emerges-from-stealth-with-5-85m/)
-- [Carbon Maps, an environmental accounting startup for the food industry, gets new backers](https://techcrunch.com/2023/12/05/carbon-maps-a-carbon-accounting-startup-for-the-food-industry-gets-new-backers/)
+- [EnCharge raises $22.6M to commercialize its AI-accerating chips](https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/)
+- [Vancouver’s Fantuan raises $40M to deliver real Chinese food at your doorstep](https://techcrunch.com/2023/12/05/vancouver-fantuan-raises-40m-deliver-chinese-food/)
+- [Astronaut Mike Massimino shares advice from NASA career in new book &#39;Moonshot&#39;](https://www.space.com/astronaut-mike-massimino-moonshot-book-interview)
+- [Interstellar astronauts would face years-long communication delays due to time dilation](https://www.space.com/time-dilation-interstellar-communication-delays)
+- [Foretellix raises $85M to build and test scenarios for self-driving systems](https://techcrunch.com/2023/12/05/foretellix-raises-85m-to-build-and-test-scenarios-for-self-driving-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
