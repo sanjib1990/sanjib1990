@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite map of North America&#39;s largest glacier shows &#39;hidden lagoon&#39; and other secrets](https://www.space.com/largest-glacier-hidden-lagoon-nasa-discoveries)
+- [Another blow for self-driving trucks as former industry leader abandons the U.S.](https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/)
+- [Analytics can solve generative AI apps’ product problem](https://techcrunch.com/2023/12/05/analytics-can-solve-generative-ai-apps-product-problem/)
 - [Today’s AI funding rush reminds me of the fintech investing hype of 2021](https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/)
-- [Beeper reversed engineered iMessage to bring blue bubble texts to Android users](https://techcrunch.com/2023/12/05/beeper-reversed-engineered-imessage-to-bring-blue-bubble-texts-to-android-users/)
-- [What are radio galaxies?](https://www.space.com/what-are-radio-galaxies)
-- [Respell wants to help non-technical end users spin up AI-powered workflows](https://techcrunch.com/2023/12/05/respell-wants-to-help-non-technical-end-users-spin-up-ai-powered-workflows/)
-- [Git platform AllSpice now curries favor with enterprises](https://techcrunch.com/2023/12/05/git-allspice-enterprise-6m/)
+- [Visual Electric launches an AI-powered image generator with a designer workflow focus](https://techcrunch.com/2023/12/05/visual-electric-launches-an-ai-powered-image-generator-with-a-designer-workflow-focus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
