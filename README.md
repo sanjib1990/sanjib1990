@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the explosive new trailer for astronaut action film &#39;ISS&#39; &lpar;video&rpar;](https://www.space.com/iss-film-trailer-international-space-station)
+- [Did you attend Google’s K&amp;I Black Summit this summer?](https://techcrunch.com/2023/12/05/did-you-attend-googles-ki-black-summit-this-summer/)
+- [NASA&#39;s Psyche spacecraft finds its &#39;first light&#39; while zooming to a metal asteroid &lpar;image&rpar;](https://www.space.com/nasa-psyche-first-light-metal-asteroid-image-mosaic)
 - [Japan targeting Jan. 19 for nation&#39;s 1st-ever moon landing](https://www.space.com/japan-slim-moon-landing-try-january-2024)
 - [Elon Musk is looking to raise $1 billion for xAI](https://techcrunch.com/2023/12/05/elon-musk-raise-1-billion-xai/)
-- [Expense management startup Navan cuts staff to find profitability ahead of delayed IPO](https://techcrunch.com/2023/12/05/expense-management-startup-navan-layoffs/)
-- [China launches remote-sensing satellite for Egypt &lpar;video&rpar;](https://www.space.com/china-launches-remote-sensing-satellite-for-egypt-video)
-- [Grand Theft Auto VI trailer breaks MrBeast’s record for most YouTube views in 24 hours](https://techcrunch.com/2023/12/05/grand-theft-auto-vi-trailer-breaks-mrbeasts-record-for-most-youtube-views-in-24-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
