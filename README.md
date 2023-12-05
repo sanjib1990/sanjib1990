@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope pierces through dust to find an ancient ghostly galaxy](https://www.space.com/james-webb-space-telescope-ghostly-galaxy-early-universe)
+- [Gigantic &#39;hole&#39; in the sun wider than 60 Earths is spewing superfast solar wind right at us](https://www.space.com/sun-coronal-hole-earth-auroras-dec-2023)
+- [X is now licensed for payment processing in a dozen US states](https://techcrunch.com/2023/12/05/x-is-now-licensed-for-payment-processing-in-a-dozen-u-s-states/)
 - [TC+ Roundup: Amazon is not the AI leader](https://techcrunch.com/2023/12/05/tc-roundup-amazon-is-not-the-ai-leader/)
 - [&#39;Space Rescue Service&#39; needed for coming space tourism era, report argues](https://www.space.com/rand-space-rescue-service-astronaut-tourist-help)
-- [Do we live in a giant void? It could solve the puzzle of the universe&#39;s expansion](https://www.space.com/do-we-live-in-a-void-could-solve-universe-expansion)
-- [Twilio might actually deserve activist investor attention](https://techcrunch.com/2023/12/05/twilio-layoffs-activist-investors/)
-- [Why does MasterClass work? with David Rogier from MasterClass](https://techcrunch.com/2023/12/05/why-does-masterclass-work-with-david-rogier-from-masterclass/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
