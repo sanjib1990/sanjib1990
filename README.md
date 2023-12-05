@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Veteran life sciences firm RA Capital spins up ‘planetary health’ team to ride climate tech wave](https://techcrunch.com/2023/12/05/ra-capital-planetary-health-profile/)
-- [Kyron Learning secures $14.6M to expand its conversational AI technology](https://techcrunch.com/2023/12/05/kyron-learning-14-6-million-funding-conversational-ai-technology/)
-- [DARPA-funded &#39;Inchworm&#39; robots could help us build moon bases. Here&#39;s how](https://www.space.com/darpa-luna-10-study-selects-gitai-inchworm-robot)
-- [Meta and IBM form an AI Alliance, but to what end?](https://techcrunch.com/2023/12/05/meta-and-ibm-form-an-ai-alliance-but-to-what-end/)
-- [EnCharge raises $22.6M to commercialize its AI-accerating chips](https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/)
+- [Today’s AI funding rush reminds me of the fintech investing hype of 2021](https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/)
+- [Beeper reversed engineered iMessage to bring blue bubble texts to Android users](https://techcrunch.com/2023/12/05/beeper-reversed-engineered-imessage-to-bring-blue-bubble-texts-to-android-users/)
+- [What are radio galaxies?](https://www.space.com/what-are-radio-galaxies)
+- [Respell wants to help non-technical end users spin up AI-powered workflows](https://techcrunch.com/2023/12/05/respell-wants-to-help-non-technical-end-users-spin-up-ai-powered-workflows/)
+- [Git platform AllSpice now curries favor with enterprises](https://techcrunch.com/2023/12/05/git-allspice-enterprise-6m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
