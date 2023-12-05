@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egypt’s Mtor nabs $2.8M pre-seed for its online auto parts marketplace](https://techcrunch.com/2023/12/04/egypts-mtor-nabs-2-8m-pre-seed-for-its-online-auto-parts-marketplace/)
+- [Fortnite is expanding its horizons with a Lego building game and a Rock Band successor](https://techcrunch.com/2023/12/04/lego-fortnite-rock-band-fortnite-festival-rocket-racing/)
 - [For $200, George Santos will gossip with you on Cameo](https://techcrunch.com/2023/12/04/for-200-george-santos-will-gossip-with-you-on-cameo/)
 - [Cruise faces fines in California for withholding key details in robotaxi accident](https://techcrunch.com/2023/12/04/cruise-faces-fines-in-california-for-withholding-key-details-in-robotaxi-accident/)
 - [Pluto&#39;s &#39;almost twin&#39; dwarf planet Eris is surprisingly squishy](https://www.space.com/pluto-twin-dwarf-planet-eris-squishy)
-- [Kodiak’s military prototype AV is a Ford F-150 pickup](https://techcrunch.com/2023/12/04/kodiaks-military-prototype-av-is-a-ford-f-150-pickup/)
-- [UK age assurance guidance for porn sites gives thumbs up to AI age checks, digital ID wallets and more](https://techcrunch.com/2023/12/04/ofcom-porn-sites-age-assurance-guidance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
