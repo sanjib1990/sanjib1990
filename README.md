@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China could use a foldable helicopter to collect samples on Mars](https://www.space.com/china-mars-helicopter-sample-collection)
+- [Fiat’s new EV looks like the anti-Cybertruck](https://techcrunch.com/2023/12/05/fiats-new-ev-looks-like-the-anti-cybertruck/)
+- [Canadian astronaut assignments reflect growth of Canada&#39;s &#39;Space Force&#39;](https://www.space.com/canada-space-force-military-astronauts-defense-activities)
 - [James Webb Space Telescope pierces through dust to find an ancient ghostly galaxy](https://www.space.com/james-webb-space-telescope-ghostly-galaxy-early-universe)
 - [Gigantic &#39;hole&#39; in the sun wider than 60 Earths is spewing superfast solar wind right at us](https://www.space.com/sun-coronal-hole-earth-auroras-dec-2023)
-- [X is now licensed for payment processing in a dozen US states](https://techcrunch.com/2023/12/05/x-is-now-licensed-for-payment-processing-in-a-dozen-u-s-states/)
-- [TC+ Roundup: Amazon is not the AI leader](https://techcrunch.com/2023/12/05/tc-roundup-amazon-is-not-the-ai-leader/)
-- [&#39;Space Rescue Service&#39; needed for coming space tourism era, report argues](https://www.space.com/rand-space-rescue-service-astronaut-tourist-help)
 <!-- BLOG-POST-LIST:END -->
 
 ---
