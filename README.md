@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Mars robots back in action after &#39;solar conjunction&#39;](https://www.space.com/nasa-mars-robots-solar-conjunction-over-2023)
-- [Goldman Sachs-backed ZestMoney, once valued at $450M, to shut down](https://techcrunch.com/2023/12/05/goldman-sachs-backed-zestmoney-once-valued-at-450m-to-shut-down/)
-- [Metrics that matter: 3 practical observations on valuation from an Index Ventures partner](https://techcrunch.com/2023/12/05/metrics-that-matter-3-practical-observations-on-valuation/)
-- [Satellite map of North America&#39;s largest glacier shows &#39;hidden lagoon&#39; and other secrets](https://www.space.com/largest-glacier-hidden-lagoon-nasa-discoveries)
-- [Another blow for self-driving trucks as former industry leader abandons the US](https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/)
+- [Do we live in a giant void? It could solve the puzzle of the universe&#39;s expansion](https://www.space.com/do-we-live-in-a-void-could-solve-universe-expansion)
+- [Twilio might actually deserve activist investor attention](https://techcrunch.com/2023/12/05/twilio-layoffs-activist-investors/)
+- [Why does MasterClass work? with David Rogier from MasterClass](https://techcrunch.com/2023/12/05/why-does-masterclass-work-with-david-rogier-from-masterclass/)
+- [With iMessage thanks to Beeper Mini, the OnePlus Open is my new favorite phone](https://techcrunch.com/2023/12/05/imessage-on-android-oneplus-open/)
+- [Bing’s new ‘Deep Search’ feature offers more comprehensive answers to complex search queries](https://techcrunch.com/2023/12/05/microsoft-bings-deep-search-offers-more-comprehensive-answers-complex-search-queries-gpt-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
