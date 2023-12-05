@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Veteran life sciences firm RA Capital spins up ‘planetary health’ team to ride climate tech wave](https://techcrunch.com/2023/12/05/ra-capital-planetary-health-profile/)
+- [Kyron Learning secures $14.6M to expand its conversational AI technology](https://techcrunch.com/2023/12/05/kyron-learning-14-6-million-funding-conversational-ai-technology/)
+- [DARPA-funded &#39;Inchworm&#39; robots could help us build moon bases. Here&#39;s how](https://www.space.com/darpa-luna-10-study-selects-gitai-inchworm-robot)
+- [Meta and IBM form an AI Alliance, but to what end?](https://techcrunch.com/2023/12/05/meta-and-ibm-form-an-ai-alliance-but-to-what-end/)
 - [EnCharge raises $22.6M to commercialize its AI-accerating chips](https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/)
-- [Vancouver’s Fantuan raises $40M to deliver real Chinese food at your doorstep](https://techcrunch.com/2023/12/05/vancouver-fantuan-raises-40m-deliver-chinese-food/)
-- [Astronaut Mike Massimino shares advice from NASA career in new book &#39;Moonshot&#39;](https://www.space.com/astronaut-mike-massimino-moonshot-book-interview)
-- [Interstellar astronauts would face years-long communication delays due to time dilation](https://www.space.com/time-dilation-interstellar-communication-delays)
-- [Foretellix raises $85M to build and test scenarios for self-driving systems](https://techcrunch.com/2023/12/05/foretellix-raises-85m-to-build-and-test-scenarios-for-self-driving-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
