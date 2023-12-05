@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Carbon Maps, a carbon accounting startup for the food industry, gets new backers](https://techcrunch.com/2023/12/05/carbon-maps-a-carbon-accounting-startup-for-the-food-industry-gets-new-backers/)
+- [SoftBank Corp takes 51% of Cubic Telecom for $513M to drive into the connected car world](https://techcrunch.com/2023/12/04/softbank-corp-cubic-telecom/)
 - [Egypt’s Mtor nabs $2.8M pre-seed for its online auto parts marketplace](https://techcrunch.com/2023/12/04/egypts-mtor-nabs-2-8m-pre-seed-for-its-online-auto-parts-marketplace/)
 - [Fortnite is expanding its horizons with a Lego building game and a Rock Band successor](https://techcrunch.com/2023/12/04/lego-fortnite-rock-band-fortnite-festival-rocket-racing/)
 - [For $200, George Santos will gossip with you on Cameo](https://techcrunch.com/2023/12/04/for-200-george-santos-will-gossip-with-you-on-cameo/)
-- [Cruise faces fines in California for withholding key details in robotaxi accident](https://techcrunch.com/2023/12/04/cruise-faces-fines-in-california-for-withholding-key-details-in-robotaxi-accident/)
-- [Pluto&#39;s &#39;almost twin&#39; dwarf planet Eris is surprisingly squishy](https://www.space.com/pluto-twin-dwarf-planet-eris-squishy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
