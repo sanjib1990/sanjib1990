@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For $200, George Santos will gossip with you on Cameo](https://techcrunch.com/2023/12/04/for-200-george-santos-will-gossip-with-you-on-cameo/)
 - [Cruise faces fines in California for withholding key details in robotaxi accident](https://techcrunch.com/2023/12/04/cruise-faces-fines-in-california-for-withholding-key-details-in-robotaxi-accident/)
 - [Pluto&#39;s &#39;almost twin&#39; dwarf planet Eris is surprisingly squishy](https://www.space.com/pluto-twin-dwarf-planet-eris-squishy)
 - [Kodiak’s military prototype AV is a Ford F-150 pickup](https://techcrunch.com/2023/12/04/kodiaks-military-prototype-av-is-a-ford-f-150-pickup/)
 - [UK age assurance guidance for porn sites gives thumbs up to AI age checks, digital ID wallets and more](https://techcrunch.com/2023/12/04/ofcom-porn-sites-age-assurance-guidance/)
-- [How Perseverance rover captured its youngest samples from Mars&#39; Dream Lake &lpar;video&rpar;](https://www.space.com/perseverance-mars-rover-youngest-material-yet-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
