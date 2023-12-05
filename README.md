@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Omniful, a supply chain and e-commerce enablement startup, emerges from stealth with $5.85M](https://techcrunch.com/2023/12/05/omniful-a-supply-chain-and-e-commerce-enablement-startup-emerges-from-stealth-with-5-85m/)
-- [Carbon Maps, a carbon accounting startup for the food industry, gets new backers](https://techcrunch.com/2023/12/05/carbon-maps-a-carbon-accounting-startup-for-the-food-industry-gets-new-backers/)
+- [Carbon Maps, an environmental accounting startup for the food industry, gets new backers](https://techcrunch.com/2023/12/05/carbon-maps-a-carbon-accounting-startup-for-the-food-industry-gets-new-backers/)
 - [SoftBank Corp takes 51% of Cubic Telecom for $513M to drive into the connected car world](https://techcrunch.com/2023/12/04/softbank-corp-cubic-telecom/)
 - [Egypt’s Mtor nabs $2.8M pre-seed for its online auto parts marketplace](https://techcrunch.com/2023/12/04/egypts-mtor-nabs-2-8m-pre-seed-for-its-online-auto-parts-marketplace/)
 - [Fortnite is expanding its horizons with a Lego building game and a Rock Band successor](https://techcrunch.com/2023/12/04/lego-fortnite-rock-band-fortnite-festival-rocket-racing/)
