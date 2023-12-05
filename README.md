@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China could use a foldable helicopter to collect samples on Mars](https://www.space.com/china-mars-helicopter-sample-collection)
-- [Fiat’s new EV looks like the anti-Cybertruck](https://techcrunch.com/2023/12/05/fiats-new-ev-looks-like-the-anti-cybertruck/)
-- [Canadian astronaut assignments reflect growth of Canada&#39;s &#39;Space Force&#39;](https://www.space.com/canada-space-force-military-astronauts-defense-activities)
-- [James Webb Space Telescope pierces through dust to find an ancient ghostly galaxy](https://www.space.com/james-webb-space-telescope-ghostly-galaxy-early-universe)
-- [Gigantic &#39;hole&#39; in the sun wider than 60 Earths is spewing superfast solar wind right at us](https://www.space.com/sun-coronal-hole-earth-auroras-dec-2023)
+- [Japan targeting Jan. 19 for nation&#39;s 1st-ever moon landing](https://www.space.com/japan-slim-moon-landing-try-january-2024)
+- [Elon Musk is looking to raise $1 billion for xAI](https://techcrunch.com/2023/12/05/elon-musk-raise-1-billion-xai/)
+- [Expense management startup Navan cuts staff to find profitability ahead of delayed IPO](https://techcrunch.com/2023/12/05/expense-management-startup-navan-layoffs/)
+- [China launches remote-sensing satellite for Egypt &lpar;video&rpar;](https://www.space.com/china-launches-remote-sensing-satellite-for-egypt-video)
+- [Grand Theft Auto VI trailer breaks MrBeast’s record for most YouTube views in 24 hours](https://techcrunch.com/2023/12/05/grand-theft-auto-vi-trailer-breaks-mrbeasts-record-for-most-youtube-views-in-24-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
