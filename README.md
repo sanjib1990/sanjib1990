@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Mars robots back in action after &#39;solar conjunction&#39;](https://www.space.com/nasa-mars-robots-solar-conjunction-over-2023)
+- [Goldman Sachs-backed ZestMoney, once valued at $450M, to shut down](https://techcrunch.com/2023/12/05/goldman-sachs-backed-zestmoney-once-valued-at-450m-to-shut-down/)
+- [Metrics that matter: 3 practical observations on valuation from an Index Ventures partner](https://techcrunch.com/2023/12/05/metrics-that-matter-3-practical-observations-on-valuation/)
 - [Satellite map of North America&#39;s largest glacier shows &#39;hidden lagoon&#39; and other secrets](https://www.space.com/largest-glacier-hidden-lagoon-nasa-discoveries)
-- [Another blow for self-driving trucks as former industry leader abandons the U.S.](https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/)
-- [Analytics can solve generative AI apps’ product problem](https://techcrunch.com/2023/12/05/analytics-can-solve-generative-ai-apps-product-problem/)
-- [Today’s AI funding rush reminds me of the fintech investing hype of 2021](https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/)
-- [Visual Electric launches an AI-powered image generator with a designer workflow focus](https://techcrunch.com/2023/12/05/visual-electric-launches-an-ai-powered-image-generator-with-a-designer-workflow-focus/)
+- [Another blow for self-driving trucks as former industry leader abandons the US](https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
