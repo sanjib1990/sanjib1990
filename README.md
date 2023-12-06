@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CISA says US government agency was hacked thanks to ‘end of life’ software](https://techcrunch.com/2023/12/06/cisa-says-us-government-agency-was-hacked-thanks-to-end-of-life-software/)
-- [Measuring the Distances to Galaxies With Space Telescopes](https://blogs.nasa.gov/webb/2023/12/06/measuring-the-distances-to-galaxies-with-space-telescopes/)
-- [Solid rocket boosters for shuttle Endeavour exhibit capped with nose cones](https://www.space.com/space-shuttle-endeavour-exhibit-srbs-stacked)
-- [Seed founders should consider these factors before partnering with multistage funds](https://techcrunch.com/2023/12/06/seed-founders-should-consider-these-factors-before-partnering-with-multistage-funds/)
-- [Summer’s secondary surge didn’t last, but 2024 should be strong](https://techcrunch.com/2023/12/06/summers-secondary-surge-didnt-last-but-2024-should-be-strong/)
+- [Meta AI adds Reels support and ‘reimagine,’ a way to generate new AI images in group chats, and more](https://techcrunch.com/2023/12/06/meta-ai-adds-reels-support-and-reimagine-a-way-to-generate-new-ai-images-in-group-chats/)
+- [Meta’s AI characters are now live across its U.S. apps, with support for Bing Search and better memory](https://techcrunch.com/2023/12/06/metas-ai-characters-are-now-live-across-its-u-s-apps-with-support-for-bing-search-and-better-memory/)
+- [Meta launches a standalone AI-powered image generator](https://techcrunch.com/2023/12/06/meta-launches-a-standalone-ai-powered-image-generator/)
+- [Over 100 galaxies seen spewing powerful winds that can halt star formation](https://www.space.com/galactic-winds-normal-galaxies-star-formation-radiation)
+- [US senator warns governments are spying on Apple and Google users via push notifications](https://techcrunch.com/2023/12/06/us-senator-warns-governments-spying-apple-google-smartphone-users-via-push-notifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
