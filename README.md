@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Five Factorizations of a Matrix](https://www.youtube.com/watch?v=nTwRjQ4xqUc)
 - [5 crazy new AWS services just launched](https://www.youtube.com/watch?v=ekPbZqPvCRA)
 - [Lecture 5 Part 1: Derivative of Matrix Determinant and Inverse](https://www.youtube.com/watch?v=66Hc7vnDQ8o)
 - [Lecture 5 Part 2: Forward Automatic Differentiation via Dual Numbers](https://www.youtube.com/watch?v=5F6roh4pmJU)
 - [Lecture 5 Part 3: Differentiation on Computational Graphs](https://www.youtube.com/watch?v=r9_5dxtDTOk)
-- [Bug in Binary Search - Computerphile](https://www.youtube.com/watch?v=_eS-nNnkKfI)
 <!-- YOUTUBE:END -->
 
 ---
