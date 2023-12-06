@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch to shut down in Korea over ‘prohibitively expensive’ network fees](https://techcrunch.com/2023/12/05/twitch-to-shut-down-in-korea-over-prohibitively-expensive-network-fees/)
+- [Avenir seeks to raise $800M for new fund](https://techcrunch.com/2023/12/05/avenir-seeks-to-raise-800m-for-new-fund/)
 - [Discord reimagines its mobile app to showcase its best social features](https://techcrunch.com/2023/12/05/discord-app-redesign-mobile/)
 - [Gravitational waves rippling from black hole merger could help test general relativity](https://www.space.com/black-hole-ligo-merger-general-relativity-gravitational-waves)
 - [Watch the explosive new trailer for astronaut action film &#39;ISS&#39; &lpar;video&rpar;](https://www.space.com/iss-film-trailer-international-space-station)
-- [Google gives out offensive notebooks to Black summit attendees](https://techcrunch.com/2023/12/05/did-you-attend-googles-ki-black-summit-this-summer/)
-- [NASA&#39;s Psyche spacecraft finds its &#39;first light&#39; while zooming to a metal asteroid &lpar;image&rpar;](https://www.space.com/nasa-psyche-first-light-metal-asteroid-image-mosaic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
