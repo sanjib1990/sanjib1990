@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X now lets users broadcast community posts to all followers](https://techcrunch.com/2023/12/06/x-now-lets-users-broadcast-community-posts-to-all-followers/)
-- [Watch live as astronauts on the ISS celebrate the station&#39;s 25th anniversary today &lpar;video&rpar;](https://www.space.com/international-space-station-25th-anniversary-astronauts-webcast)
-- [‘Mega-deals’ could be inflating overall AI funding figures](https://techcrunch.com/2023/12/05/mega-deals-ai-funding-q3/)
-- [Twitch to shut down in Korea over ‘prohibitively expensive’ network fees](https://techcrunch.com/2023/12/05/twitch-to-shut-down-in-korea-over-prohibitively-expensive-network-fees/)
-- [Avenir seeks to raise $800M for new fund](https://techcrunch.com/2023/12/05/avenir-seeks-to-raise-800m-for-new-fund/)
+- [iMessage will reportedly get a reprieve from EU’s interoperability regulation](https://techcrunch.com/2023/12/06/imessage-will-reportedly-get-a-reprieve-from-eus-interoperability-regulation/)
+- [Sydney-based generative AI art platform Leonardo.Ai raises $31M](https://techcrunch.com/2023/12/06/leonardo-ai/)
+- [&#39;Wavy space-time&#39; may explain why gravity won&#39;t play by quantum rules](https://www.space.com/wavy-space-time-theory-quantum-mechanics-general-relativity)
+- [Titan AI leverages generative AI to streamline mobile game development](https://techcrunch.com/2023/12/06/titan-ai-leverages-generative-ai-to-streamline-mobile-game-development/)
+- [How exotic alien life could thrive in the giant molecular clouds of deep space](https://www.space.com/alien-life-could-thrive-in-deep-space-molecular-clouds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
