@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Poppy says ‘I do’ to new capital for digital booking, fulfillment of wedding flowers](https://techcrunch.com/2023/12/06/poppy-digital-booking-wedding-flowers/)
-- [Nuclear power on the moon: Rolls-Royce unveils reactor mockup](https://www.space.com/moon-rolls-royce-nuclear-reactor-concept-unveiled)
-- [Spade digs into credit card fraud detection intelligence following new capital raise](https://techcrunch.com/2023/12/06/spade-credit-card-fraud-detection/)
-- [iMessage will reportedly get a reprieve from EU’s interoperability regulation](https://techcrunch.com/2023/12/06/imessage-will-reportedly-get-a-reprieve-from-eus-interoperability-regulation/)
-- [Sydney-based generative AI art platform Leonardo.Ai raises $31M](https://techcrunch.com/2023/12/06/leonardo-ai/)
+- [Millions of patient scans and health records spilling online thanks to decades-old protocol bug](https://techcrunch.com/2023/12/06/medical-scans-health-records-dicom-pacs-security/)
+- [Google’s AI chatbot Bard gets a big upgrade with Gemini, Google’s next-gen AI model](https://techcrunch.com/2023/12/06/googles-ai-chatbot-bard-gets-a-big-upgrade-with-gemini-googles-next-gen-ai-model/)
+- [Google’s Gemini isn’t the generative AI model we expected](https://techcrunch.com/2023/12/06/googles-gemini-isnt-the-generative-ai-model-we-expected/)
+- [Google announces the Cloud TPU v5p, its most powerful AI accelerator yet](https://techcrunch.com/2023/12/06/google-announces-the-cloud-tpu-v5p-its-most-powerful-ai-accelerator-yet/)
+- [Pixel 8 Pro becomes the first smartphone powered by Google’s new AI model, Gemini](https://techcrunch.com/2023/12/06/pixel-8-pro-becomes-the-first-smartphone-powered-by-googles-new-ai-model-gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
