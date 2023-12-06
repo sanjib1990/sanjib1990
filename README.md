@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Poppy says ‘I do’ to new capital for digital booking, fulfillment of wedding flowers](https://techcrunch.com/2023/12/06/poppy-digital-booking-wedding-flowers/)
+- [Nuclear power on the moon: Rolls-Royce unveils reactor mockup](https://www.space.com/moon-rolls-royce-nuclear-reactor-concept-unveiled)
+- [Spade digs into credit card fraud detection intelligence following new capital raise](https://techcrunch.com/2023/12/06/spade-credit-card-fraud-detection/)
 - [iMessage will reportedly get a reprieve from EU’s interoperability regulation](https://techcrunch.com/2023/12/06/imessage-will-reportedly-get-a-reprieve-from-eus-interoperability-regulation/)
 - [Sydney-based generative AI art platform Leonardo.Ai raises $31M](https://techcrunch.com/2023/12/06/leonardo-ai/)
-- [&#39;Wavy space-time&#39; may explain why gravity won&#39;t play by quantum rules](https://www.space.com/wavy-space-time-theory-quantum-mechanics-general-relativity)
-- [Titan AI leverages generative AI to streamline mobile game development](https://techcrunch.com/2023/12/06/titan-ai-leverages-generative-ai-to-streamline-mobile-game-development/)
-- [How exotic alien life could thrive in the giant molecular clouds of deep space](https://www.space.com/alien-life-could-thrive-in-deep-space-molecular-clouds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
