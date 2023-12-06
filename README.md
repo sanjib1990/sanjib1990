@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX set to launch its 90th orbital mission of the year tonight](https://www.space.com/spacex-starlink-launch-group-6-33)
+- [Your mobile password manager might be exposing your credentials](https://techcrunch.com/2023/12/06/your-mobile-password-manager-might-be-exposing-your-credentials/)
+- [Australia votes to name its 1st moon rover &#39;Roo-ver&#39;](https://www.space.com/australia-names-first-lunar-rover-roo-ver)
 - [Ask Sophie: Does the H-1B visa require founders to give up equity and control?](https://techcrunch.com/2023/12/06/ask-sophie-does-the-h-1b-visa-require-founders-to-give-up-equity-and-control/)
 - [James Webb Space Telescope bites cosmic burger to create 1st ice map of planet-forming disk](https://www.space.com/james-webb-space-telescope-planet-forming-disk-ice-map-burger)
-- [Tune in for the TechCrunch Early Stage Call for Content AMA](https://techcrunch.com/2023/12/06/tune-in-for-the-techcrunch-early-stage-call-for-content-ama/)
-- [Iran launches &#39;bio-space capsule&#39; protoype, aims to fly astronauts by 2030](https://www.space.com/iran-bio-capsule-rocket-launch)
-- [Vast Data lands $118M to grow its data storage platform for AI workloads](https://techcrunch.com/2023/12/06/vast-data-lands-118m-to-grow-its-data-storage-platform-for-ai-workloads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
