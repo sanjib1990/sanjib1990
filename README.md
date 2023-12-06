@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X now lets users broadcast community posts to all followers](https://techcrunch.com/2023/12/06/x-now-lets-users-broadcast-community-posts-to-all-followers/)
 - [Watch live as astronauts on the ISS celebrate the station&#39;s 25th anniversary today &lpar;video&rpar;](https://www.space.com/international-space-station-25th-anniversary-astronauts-webcast)
 - [‘Mega-deals’ could be inflating overall AI funding figures](https://techcrunch.com/2023/12/05/mega-deals-ai-funding-q3/)
 - [Twitch to shut down in Korea over ‘prohibitively expensive’ network fees](https://techcrunch.com/2023/12/05/twitch-to-shut-down-in-korea-over-prohibitively-expensive-network-fees/)
 - [Avenir seeks to raise $800M for new fund](https://techcrunch.com/2023/12/05/avenir-seeks-to-raise-800m-for-new-fund/)
-- [Discord reimagines its mobile app to showcase its best social features](https://techcrunch.com/2023/12/05/discord-app-redesign-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
