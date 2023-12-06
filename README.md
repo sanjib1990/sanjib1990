@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA marks 25th anniversary of ISS with call to crew on space station](https://www.space.com/international-space-station-25-years-cabana-expedition-70)
+- [Satellites watch as Japan&#39;s new volcanic island continues to grow &lpar;image&rpar;](https://www.space.com/satellites-japan-new-island-still-growing)
 - [Commercial companies to collaborate for DARPA’s new lunar economy study](https://techcrunch.com/2023/12/06/commercial-companies-to-collaborate-for-darpas-new-lunar-economy-study/)
 - [As Bitcoin reaches the $44,000 threshold, why the surge and what’s next?](https://techcrunch.com/2023/12/06/bitcoin-surging-44000-threshold/)
 - [SpaceX&#39;s next Starship launch could feature key refueling test](https://www.space.com/spacex-starship-refueling-test-flight)
-- [Our universe&#39;s most extreme stars sometimes &#39;glitch&#39; — we may now know why](https://www.space.com/neutron-star-glitches-quantum-simulations-matter-lab)
-- [ISS astronauts find tomato that was lost in space for 8 months &lpar;video&rpar;](https://www.space.com/international-space-station-lost-tomato-frank-rubio-found)
 <!-- BLOG-POST-LIST:END -->
 
 ---
