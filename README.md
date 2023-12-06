@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: Does the H-1B visa require founders to give up equity and control?](https://techcrunch.com/2023/12/06/ask-sophie-does-the-h-1b-visa-require-founders-to-give-up-equity-and-control/)
+- [James Webb Space Telescope bites cosmic burger to create 1st ice map of planet-forming disk](https://www.space.com/james-webb-space-telescope-planet-forming-disk-ice-map-burger)
+- [Tune in for the TechCrunch Early Stage Call for Content AMA](https://techcrunch.com/2023/12/06/tune-in-for-the-techcrunch-early-stage-call-for-content-ama/)
+- [Iran launches &#39;bio-space capsule&#39; protoype, aims to fly astronauts by 2030](https://www.space.com/iran-bio-capsule-rocket-launch)
 - [Vast Data lands $118M to grow its data storage platform for AI workloads](https://techcrunch.com/2023/12/06/vast-data-lands-118m-to-grow-its-data-storage-platform-for-ai-workloads/)
-- [OSIRIS-APEX prepares for 1st close solar encounter on way to asteroid Apophis](https://www.space.com/osiris-rex-apex-probe-sun-close-approach-asteroid)
-- [Regulatory approval for this subscription solar UK startup could mean more are to come](https://techcrunch.com/2023/12/06/uk-solar/)
-- [Respeecher’s ethics-first approach to AI voice cloning locks in new funding](https://techcrunch.com/2023/12/06/respeechers-ethics-first-approach-to-ai-voice-cloning-locks-in-new-funding/)
-- [Meta AI adds Reels support and ‘reimagine,’ a way to generate new AI images in group chats, and more](https://techcrunch.com/2023/12/06/meta-ai-adds-reels-support-and-reimagine-a-way-to-generate-new-ai-images-in-group-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
