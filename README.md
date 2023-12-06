@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our universe&#39;s most extreme stars sometimes &#39;glitch&#39; — we may now know why](https://www.space.com/neutron-star-glitches-quantum-simulations-matter-lab)
+- [ISS astronauts find tomato that was lost in space for 8 months &lpar;video&rpar;](https://www.space.com/international-space-station-lost-tomato-frank-rubio-found)
 - [SpaceX set to launch its 90th orbital mission of the year tonight](https://www.space.com/spacex-starlink-launch-group-6-33)
 - [Your mobile password manager might be exposing your credentials](https://techcrunch.com/2023/12/06/your-mobile-password-manager-might-be-exposing-your-credentials/)
 - [Australia votes to name its 1st moon rover &#39;Roo-ver&#39;](https://www.space.com/australia-names-first-lunar-rover-roo-ver)
-- [Ask Sophie: Does the H-1B visa require founders to give up equity and control?](https://techcrunch.com/2023/12/06/ask-sophie-does-the-h-1b-visa-require-founders-to-give-up-equity-and-control/)
-- [James Webb Space Telescope bites cosmic burger to create 1st ice map of planet-forming disk](https://www.space.com/james-webb-space-telescope-planet-forming-disk-ice-map-burger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
