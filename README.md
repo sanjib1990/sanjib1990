@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Millions of patient scans and health records spilling online thanks to decades-old protocol bug](https://techcrunch.com/2023/12/06/medical-scans-health-records-dicom-pacs-security/)
-- [Google’s AI chatbot Bard gets a big upgrade with Gemini, Google’s next-gen AI model](https://techcrunch.com/2023/12/06/googles-ai-chatbot-bard-gets-a-big-upgrade-with-gemini-googles-next-gen-ai-model/)
-- [Google’s Gemini isn’t the generative AI model we expected](https://techcrunch.com/2023/12/06/googles-gemini-isnt-the-generative-ai-model-we-expected/)
-- [Google announces the Cloud TPU v5p, its most powerful AI accelerator yet](https://techcrunch.com/2023/12/06/google-announces-the-cloud-tpu-v5p-its-most-powerful-ai-accelerator-yet/)
-- [Pixel 8 Pro becomes the first smartphone powered by Google’s new AI model, Gemini](https://techcrunch.com/2023/12/06/pixel-8-pro-becomes-the-first-smartphone-powered-by-googles-new-ai-model-gemini/)
+- [CISA says US government agency was hacked thanks to ‘end of life’ software](https://techcrunch.com/2023/12/06/cisa-says-us-government-agency-was-hacked-thanks-to-end-of-life-software/)
+- [Measuring the Distances to Galaxies With Space Telescopes](https://blogs.nasa.gov/webb/2023/12/06/measuring-the-distances-to-galaxies-with-space-telescopes/)
+- [Solid rocket boosters for shuttle Endeavour exhibit capped with nose cones](https://www.space.com/space-shuttle-endeavour-exhibit-srbs-stacked)
+- [Seed founders should consider these factors before partnering with multistage funds](https://techcrunch.com/2023/12/06/seed-founders-should-consider-these-factors-before-partnering-with-multistage-funds/)
+- [Summer’s secondary surge didn’t last, but 2024 should be strong](https://techcrunch.com/2023/12/06/summers-secondary-surge-didnt-last-but-2024-should-be-strong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
