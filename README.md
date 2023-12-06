@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vast Data lands $118M to grow its data storage platform for AI workloads](https://techcrunch.com/2023/12/06/vast-data-lands-118m-to-grow-its-data-storage-platform-for-ai-workloads/)
+- [OSIRIS-APEX prepares for 1st close solar encounter on way to asteroid Apophis](https://www.space.com/osiris-rex-apex-probe-sun-close-approach-asteroid)
+- [Regulatory approval for this subscription solar UK startup could mean more are to come](https://techcrunch.com/2023/12/06/uk-solar/)
+- [Respeecher’s ethics-first approach to AI voice cloning locks in new funding](https://techcrunch.com/2023/12/06/respeechers-ethics-first-approach-to-ai-voice-cloning-locks-in-new-funding/)
 - [Meta AI adds Reels support and ‘reimagine,’ a way to generate new AI images in group chats, and more](https://techcrunch.com/2023/12/06/meta-ai-adds-reels-support-and-reimagine-a-way-to-generate-new-ai-images-in-group-chats/)
-- [Meta’s AI characters are now live across its U.S. apps, with support for Bing Search and better memory](https://techcrunch.com/2023/12/06/metas-ai-characters-are-now-live-across-its-u-s-apps-with-support-for-bing-search-and-better-memory/)
-- [Meta launches a standalone AI-powered image generator](https://techcrunch.com/2023/12/06/meta-launches-a-standalone-ai-powered-image-generator/)
-- [Over 100 galaxies seen spewing powerful winds that can halt star formation](https://www.space.com/galactic-winds-normal-galaxies-star-formation-radiation)
-- [US senator warns governments are spying on Apple and Google users via push notifications](https://techcrunch.com/2023/12/06/us-senator-warns-governments-spying-apple-google-smartphone-users-via-push-notifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
