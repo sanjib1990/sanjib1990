@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Commercial companies to collaborate for DARPA’s new lunar economy study](https://techcrunch.com/2023/12/06/commercial-companies-to-collaborate-for-darpas-new-lunar-economy-study/)
+- [As Bitcoin reaches the $44,000 threshold, why the surge and what’s next?](https://techcrunch.com/2023/12/06/bitcoin-surging-44000-threshold/)
+- [SpaceX&#39;s next Starship launch could feature key refueling test](https://www.space.com/spacex-starship-refueling-test-flight)
 - [Our universe&#39;s most extreme stars sometimes &#39;glitch&#39; — we may now know why](https://www.space.com/neutron-star-glitches-quantum-simulations-matter-lab)
 - [ISS astronauts find tomato that was lost in space for 8 months &lpar;video&rpar;](https://www.space.com/international-space-station-lost-tomato-frank-rubio-found)
-- [SpaceX set to launch its 90th orbital mission of the year tonight](https://www.space.com/spacex-starlink-launch-group-6-33)
-- [Your mobile password manager might be exposing your credentials](https://techcrunch.com/2023/12/06/your-mobile-password-manager-might-be-exposing-your-credentials/)
-- [Australia votes to name its 1st moon rover &#39;Roo-ver&#39;](https://www.space.com/australia-names-first-lunar-rover-roo-ver)
 <!-- BLOG-POST-LIST:END -->
 
 ---
