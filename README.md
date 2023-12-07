@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Early impressions of Google’s Gemini aren’t great](https://techcrunch.com/2023/12/07/early-impressions-of-googles-gemini-arent-great/)
-- [Google launches migration tool ahead of Google Podcasts’ 2024 shutdown](https://techcrunch.com/2023/12/07/google-launches-migration-tool-ahead-of-google-podcasts-2024-shutdown/)
-- [Apple says it is not aware anyone using Lockdown Mode got hacked](https://techcrunch.com/2023/12/07/apple-says-it-is-not-aware-anyone-using-lockdown-mode-got-hacked/)
-- [Startups must master operations](https://techcrunch.com/2023/12/07/startups-must-master-operations/)
-- [Rhythms launches out of stealth to make successful team habits replicable](https://techcrunch.com/2023/12/07/rhythms-launches-out-of-stealth-to-make-successful-team-habits-replicable/)
+- [Zelda Ventures’ new pre-seed fund backs serial entrepreneurs](https://techcrunch.com/2023/12/07/zelda-ventures-pre-seed-fund/)
+- [NOAA&#39;s older Earth-watching satellites get new &#39;extended life&#39;](https://www.space.com/old-noaa-earth-satellites-find-new-life)
+- [DataCebo launches enterprise version of popular open source synthetic data library](https://techcrunch.com/2023/12/07/datacebo-launches-commercial-version-of-popular-open-source-synthetic-data-library/)
+- [As a new AI-driven coding assistant is launched, the battle for AI-mindshare moves to developers](https://techcrunch.com/2023/12/07/as-a-new-ai-driven-coding-assistant-is-launched-the-battle-for-ai-mindshare-moves-to-developers/)
+- [Avail rolls out its AI summarization tool to help Hollywood execs keep up with script coverage](https://techcrunch.com/2023/12/07/avail-rolls-out-its-ai-summarization-tool-to-help-hollywood-execs-keep-up-with-script-coverage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
