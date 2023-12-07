@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zelda Ventures’ new pre-seed fund backs serial entrepreneurs](https://techcrunch.com/2023/12/07/zelda-ventures-pre-seed-fund/)
-- [NOAA&#39;s older Earth-watching satellites get new &#39;extended life&#39;](https://www.space.com/old-noaa-earth-satellites-find-new-life)
-- [DataCebo launches enterprise version of popular open source synthetic data library](https://techcrunch.com/2023/12/07/datacebo-launches-commercial-version-of-popular-open-source-synthetic-data-library/)
-- [As a new AI-driven coding assistant is launched, the battle for AI-mindshare moves to developers](https://techcrunch.com/2023/12/07/as-a-new-ai-driven-coding-assistant-is-launched-the-battle-for-ai-mindshare-moves-to-developers/)
-- [Avail rolls out its AI summarization tool to help Hollywood execs keep up with script coverage](https://techcrunch.com/2023/12/07/avail-rolls-out-its-ai-summarization-tool-to-help-hollywood-execs-keep-up-with-script-coverage/)
+- [US indicts alleged Russian hackers for years-long cyber espionage campaign against Western countries](https://techcrunch.com/2023/12/07/us-indicts-alleged-russian-hackers-for-years-long-cyber-espionage-campaign-against-western-countries/)
+- [Ethereal halo of light around full moon spotted during recent SpaceX rocket launch](https://www.space.com/spacex-rocket-hole-clouds-full-moon-halo)
+- [Amazon will no longer accept Venmo as a payment option starting next month](https://techcrunch.com/2023/12/07/amazon-will-no-longer-accept-venmo-as-a-payment-option-starting-next-month/)
+- [Seattle biotech hub pursues ‘DNA typewriter’ tech with $75M from tech billionaires](https://techcrunch.com/2023/12/07/seattle-biotech-hub-pursues-dna-typewriter-tech-with-75m-from-tech-billionaires/)
+- [WhatsApp adds support for disappearing voice messages](https://techcrunch.com/2023/12/07/whatsapp-adds-support-for-disappearing-voice-messages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
