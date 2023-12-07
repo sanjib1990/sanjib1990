@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After e-signatures, Tomorro believes e-contracts will be the next thing](https://techcrunch.com/2023/12/06/after-e-signatures-tomorro-believes-e-contracts-will-be-the-next-thing/)
+- [After e-signatures, Tomorro believes e-contracts will be the next big thing](https://techcrunch.com/2023/12/06/after-e-signatures-tomorro-believes-e-contracts-will-be-the-next-thing/)
 - [Five-month-old Indian AI startup Sarvam scores $41 million funding](https://techcrunch.com/2023/12/06/indias-sarvam-ai-raises-41-million-from-lightspeed-khosla-peak-xv/)
 - [Meta finally starts rolling out default end-to-end encryption for Messenger](https://techcrunch.com/2023/12/06/meta-finally-starts-rolling-out-default-end-to-end-encryption-for-messenger/)
 - [India’s Paytm slides 20% on curbing low-value personal loans](https://techcrunch.com/2023/12/06/indias-paytm-curbing-low-value-personal-loans-spells-bad-news-for-the-industry/)
