@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC-backed fintech Bujeti raises $2M for its corporate cards and spend management platform](https://techcrunch.com/2023/12/07/yc-backed-fintech-bujeti-raises-2m-for-its-corporate-cards-and-spend-management-platform/)
+- [European neobroker Scalable Capital raises $65M on a flat $1.4B valuation](https://techcrunch.com/2023/12/06/european-neobroker-scalable-capital-raises-65m-on-a-flat-1-4b-valuation/)
 - [After e-signatures, Tomorro believes e-contracts will be the next big thing](https://techcrunch.com/2023/12/06/after-e-signatures-tomorro-believes-e-contracts-will-be-the-next-thing/)
 - [Five-month-old Indian AI startup Sarvam scores $41 million funding](https://techcrunch.com/2023/12/06/indias-sarvam-ai-raises-41-million-from-lightspeed-khosla-peak-xv/)
 - [Meta finally starts rolling out default end-to-end encryption for Messenger](https://techcrunch.com/2023/12/06/meta-finally-starts-rolling-out-default-end-to-end-encryption-for-messenger/)
-- [India’s Paytm slides 20% on curbing low-value personal loans](https://techcrunch.com/2023/12/06/indias-paytm-curbing-low-value-personal-loans-spells-bad-news-for-the-industry/)
-- [India returns Chandrayaan-3 moon mission&#39;s propulsion module to Earth orbit](https://www.space.com/india-chandrayaan-3-moon-module-returns-earth-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
