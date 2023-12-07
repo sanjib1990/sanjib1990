@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Paytm curbing low-value personal loans spells bad news for the industry](https://techcrunch.com/2023/12/06/indias-paytm-curbing-low-value-personal-loans-spells-bad-news-for-the-industry/)
+- [India returns Chandrayaan-3 moon mission&#39;s propulsion module to Earth orbit](https://www.space.com/india-chandrayaan-3-moon-module-returns-earth-orbit)
 - [NASA marks 25th anniversary of ISS with call to crew on space station](https://www.space.com/international-space-station-25-years-cabana-expedition-70)
 - [Satellites watch as Japan&#39;s new volcanic island continues to grow &lpar;image&rpar;](https://www.space.com/satellites-japan-new-island-still-growing)
 - [Commercial companies to collaborate for DARPA’s new lunar economy study](https://techcrunch.com/2023/12/06/commercial-companies-to-collaborate-for-darpas-new-lunar-economy-study/)
-- [As Bitcoin reaches the $44,000 threshold, why the surge and what’s next?](https://techcrunch.com/2023/12/06/bitcoin-surging-44000-threshold/)
-- [SpaceX&#39;s next Starship launch could feature key refueling test](https://www.space.com/spacex-starship-refueling-test-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
