@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US indicts alleged Russian hackers for years-long cyber espionage campaign against Western countries](https://techcrunch.com/2023/12/07/us-indicts-alleged-russian-hackers-for-years-long-cyber-espionage-campaign-against-western-countries/)
-- [Ethereal halo of light around full moon spotted during recent SpaceX rocket launch](https://www.space.com/spacex-rocket-hole-clouds-full-moon-halo)
-- [Amazon will no longer accept Venmo as a payment option starting next month](https://techcrunch.com/2023/12/07/amazon-will-no-longer-accept-venmo-as-a-payment-option-starting-next-month/)
-- [Seattle biotech hub pursues ‘DNA typewriter’ tech with $75M from tech billionaires](https://techcrunch.com/2023/12/07/seattle-biotech-hub-pursues-dna-typewriter-tech-with-75m-from-tech-billionaires/)
-- [WhatsApp adds support for disappearing voice messages](https://techcrunch.com/2023/12/07/whatsapp-adds-support-for-disappearing-voice-messages/)
+- [The venture landscape may be on the ‘cusp’ of explosive growth after years of macro strain](https://techcrunch.com/2023/12/07/crypto-venture-landscape-cusp-explosive-growth/)
+- [Private cargo spacecraft named for shuttle-era astronaut who died of plane crash injuries](https://www.space.com/northrop-grumman-ng20-patricia-robertson)
+- [Tumblr tests ‘Communities,’ semi-private groups with their own moderators and feeds](https://techcrunch.com/2023/12/07/tumblr-tests-communities-semi-private-groups-with-their-own-moderators-and-feeds/)
+- [Everything you know about the podcast industry is a lie](https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/)
+- [Credit scoring firms face curbs after landmark EU data protection ruling](https://techcrunch.com/2023/12/07/cjeu-credit-scoring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
