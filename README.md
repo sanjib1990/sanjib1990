@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keep your business model simple](https://techcrunch.com/2023/12/07/keep-your-business-model-simple/)
 - [Google’s best Gemini demo was faked](https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/)
 - [Battery swapping is great for EV fleets, but can it work for consumers?](https://techcrunch.com/2023/12/07/ample-stellantis-partnership/)
 - [Chinese startup Galactic Energy bounces back with successful satellite launch](https://www.space.com/galactic-energy-return-to-flight-launch-success)
 - [SpaceX, US Space Force set to launch secretive X-37B space plane on Dec. 10](https://www.space.com/spacex-x-37b-falcon-heavy-launch-final-preparations)
-- [Amazon is piloting a new $9.99 monthly grocery subscription for Prime members in three cities](https://techcrunch.com/2023/12/07/amazon-piloting-9-99-grocery-subscription-offering-prime-members-three-cities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
