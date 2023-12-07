@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India sets sights on a moon base by 2047](https://www.space.com/india-moon-base-2047)
+- [Simply Homes nabs $22M, leverages AI to tackle affordable housing crisis](https://techcrunch.com/2023/12/07/simply-homes-nabs-22m-leverages-ai-to-tackle-affordable-housing-crisis/)
+- [Block releases Bitkey hardware wallet to 95 countries… kinda](https://techcrunch.com/2023/12/07/block-releases-bitkey-hardware-wallet-to-95-countries-kinda/)
 - [Ex-Google, Coursera employees start Lutra AI to make AI workflows easier to build](https://techcrunch.com/2023/12/07/google-coursera-lutra-ai-workflows/)
 - [NASA astronaut will celebrate Hanukkah in space with felt menorah](https://www.space.com/nasa-astronaut-hanukkah-felt-menorah-international-space-station)
-- [The ISS just turned 25, and NASA is getting ready for the end &lpar;video&rpar;](https://www.space.com/international-space-station-25th-anniversary-nasa-planning-end)
-- [EU ‘final’ talks to fix AI rules to run into second day — but deal on foundational models is on the table](https://techcrunch.com/2023/12/07/gpai-eu-ai-act-preliminary-deal/)
-- [Why Congruent turned down over $300M from LPs for its third climate tech fund](https://techcrunch.com/2023/12/07/congruent-fund-3-close/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
