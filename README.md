@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google&#39;s Gemini just made GPT-4 look like a baby’s toy](https://www.youtube.com/watch?v=q5qAVmXSecQ)
 - [Optimising Code - Computerphile](https://www.youtube.com/watch?v=K62EMzueWwA)
 - [DevSecOps Tutorial for Beginners | with GitHub Actions and Docker Scout](https://www.youtube.com/watch?v=gLJdrXPn0ns)
 - [You probably won’t survive 2024... Top 10 Tech Trends](https://www.youtube.com/watch?v=vyQv563Y-fk)
 - [Five Factorizations of a Matrix](https://www.youtube.com/watch?v=nTwRjQ4xqUc)
-- [5 crazy new AWS services just launched](https://www.youtube.com/watch?v=ekPbZqPvCRA)
 <!-- YOUTUBE:END -->
 
 ---
