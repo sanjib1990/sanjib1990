@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Optimising Code - Computerphile](https://www.youtube.com/watch?v=K62EMzueWwA)
 - [DevSecOps Tutorial for Beginners | with GitHub Actions and Docker Scout](https://www.youtube.com/watch?v=gLJdrXPn0ns)
 - [You probably won’t survive 2024... Top 10 Tech Trends](https://www.youtube.com/watch?v=vyQv563Y-fk)
 - [Five Factorizations of a Matrix](https://www.youtube.com/watch?v=nTwRjQ4xqUc)
 - [5 crazy new AWS services just launched](https://www.youtube.com/watch?v=ekPbZqPvCRA)
-- [Lecture 5 Part 1: Derivative of Matrix Determinant and Inverse](https://www.youtube.com/watch?v=66Hc7vnDQ8o)
 <!-- YOUTUBE:END -->
 
 ---
