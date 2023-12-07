@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India sets sights on a moon base by 2047](https://www.space.com/india-moon-base-2047)
-- [Simply Homes nabs $22M, leverages AI to tackle affordable housing crisis](https://techcrunch.com/2023/12/07/simply-homes-nabs-22m-leverages-ai-to-tackle-affordable-housing-crisis/)
-- [Block releases Bitkey hardware wallet to 95 countries… kinda](https://techcrunch.com/2023/12/07/block-releases-bitkey-hardware-wallet-to-95-countries-kinda/)
-- [Ex-Google, Coursera employees start Lutra AI to make AI workflows easier to build](https://techcrunch.com/2023/12/07/google-coursera-lutra-ai-workflows/)
-- [NASA astronaut will celebrate Hanukkah in space with felt menorah](https://www.space.com/nasa-astronaut-hanukkah-felt-menorah-international-space-station)
+- [Early impressions of Google’s Gemini aren’t great](https://techcrunch.com/2023/12/07/early-impressions-of-googles-gemini-arent-great/)
+- [Google launches migration tool ahead of Google Podcasts’ 2024 shutdown](https://techcrunch.com/2023/12/07/google-launches-migration-tool-ahead-of-google-podcasts-2024-shutdown/)
+- [Apple says it is not aware anyone using Lockdown Mode got hacked](https://techcrunch.com/2023/12/07/apple-says-it-is-not-aware-anyone-using-lockdown-mode-got-hacked/)
+- [Startups must master operations](https://techcrunch.com/2023/12/07/startups-must-master-operations/)
+- [Rhythms launches out of stealth to make successful team habits replicable](https://techcrunch.com/2023/12/07/rhythms-launches-out-of-stealth-to-make-successful-team-habits-replicable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
