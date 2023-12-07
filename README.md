@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX, US Space Force set to launch secretive X-37B space plane on Dec. 10](https://www.space.com/spacex-x-37b-falcon-heavy-launch-final-preparations)
+- [Amazon is piloting a new $9.99 monthly grocery subscription for Prime members in three cities](https://techcrunch.com/2023/12/07/amazon-piloting-9-99-grocery-subscription-offering-prime-members-three-cities/)
+- [YouTube now lets you pause comments on videos](https://techcrunch.com/2023/12/07/youtube-now-lets-you-pause-comments-on-videos/)
+- [ContactMonkey lands $55M investment to grow its email software for internal comms](https://techcrunch.com/2023/12/07/contactmonkey-lands-55m-investment-to-grow-its-email-software-for-internal-comms/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Bitcoin continues climbing, Block releases hardware wallet, Robinhood expands to EU and VCs may see some relief soon](https://techcrunch.com/2023/12/07/bitcoin-continues-climbing-block-releases-hardware-wallet-robinhood-expands-to-eu-and-vcs-may-see-some-relief-soon/)
-- [Scientists study violent &#39;superflares&#39; on stars thousands of times brighter than the sun](https://www.space.com/superflares-stars-thousands-times-brighter-than-sun-solar-flares)
-- [5 secondaries investors tell us what’s hot and what’s not heading into 2024](https://techcrunch.com/2023/12/07/secondaries-investor-survey-2023/)
-- [Hubble Space Telescope will turn back on after gyroscope problem, NASA confirms](https://www.space.com/hubble-safe-mode-to-resume-operations-gyroscope-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
