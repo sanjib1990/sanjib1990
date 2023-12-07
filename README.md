@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The venture landscape may be on the ‘cusp’ of explosive growth after years of macro strain](https://techcrunch.com/2023/12/07/crypto-venture-landscape-cusp-explosive-growth/)
-- [Private cargo spacecraft named for shuttle-era astronaut who died of plane crash injuries](https://www.space.com/northrop-grumman-ng20-patricia-robertson)
-- [Tumblr tests ‘Communities,’ semi-private groups with their own moderators and feeds](https://techcrunch.com/2023/12/07/tumblr-tests-communities-semi-private-groups-with-their-own-moderators-and-feeds/)
-- [Everything you know about the podcast industry is a lie](https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/)
-- [Credit scoring firms face curbs after landmark EU data protection ruling](https://techcrunch.com/2023/12/07/cjeu-credit-scoring/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Bitcoin continues climbing, Block releases hardware wallet, Robinhood expands to EU and VCs may see some relief soon](https://techcrunch.com/2023/12/07/bitcoin-continues-climbing-block-releases-hardware-wallet-robinhood-expands-to-eu-and-vcs-may-see-some-relief-soon/)
+- [Scientists study violent &#39;superflares&#39; on stars thousands of times brighter than the sun](https://www.space.com/superflares-stars-thousands-times-brighter-than-sun-solar-flares)
+- [5 secondaries investors tell us what’s hot and what’s not heading into 2024](https://techcrunch.com/2023/12/07/secondaries-investor-survey-2023/)
+- [Hubble Space Telescope will turn back on after gyroscope problem, NASA confirms](https://www.space.com/hubble-safe-mode-to-resume-operations-gyroscope-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
