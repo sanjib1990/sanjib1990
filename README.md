@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta finally starts rolling out default end-to-end encryption for Messenger](https://techcrunch.com/2023/12/06/meta-finally-starts-rolling-out-default-end-to-end-encryption-for-messenger/)
 - [India’s Paytm curbing low-value personal loans spells bad news for the industry](https://techcrunch.com/2023/12/06/indias-paytm-curbing-low-value-personal-loans-spells-bad-news-for-the-industry/)
 - [India returns Chandrayaan-3 moon mission&#39;s propulsion module to Earth orbit](https://www.space.com/india-chandrayaan-3-moon-module-returns-earth-orbit)
 - [NASA marks 25th anniversary of ISS with call to crew on space station](https://www.space.com/international-space-station-25-years-cabana-expedition-70)
 - [Satellites watch as Japan&#39;s new volcanic island continues to grow &lpar;image&rpar;](https://www.space.com/satellites-japan-new-island-still-growing)
-- [Commercial companies to collaborate for DARPA’s new lunar economy study](https://techcrunch.com/2023/12/06/commercial-companies-to-collaborate-for-darpas-new-lunar-economy-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
