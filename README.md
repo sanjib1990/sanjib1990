@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Following UK expansion, Robinhood brings crypto trading to EU](https://techcrunch.com/2023/12/07/robinhood-eu-crypto-expansion/)
+- [Pimento turns creative briefs into visual mood boards using generative AI](https://techcrunch.com/2023/12/07/pimento-turns-creative-briefs-into-visual-mood-boards-using-generative-ai/)
 - [YC-backed fintech Bujeti raises $2M for its corporate cards and spend management platform](https://techcrunch.com/2023/12/07/yc-backed-fintech-bujeti-raises-2m-for-its-corporate-cards-and-spend-management-platform/)
 - [European neobroker Scalable Capital raises $65M on a flat $1.4B valuation](https://techcrunch.com/2023/12/06/european-neobroker-scalable-capital-raises-65m-on-a-flat-1-4b-valuation/)
 - [After e-signatures, Tomorro believes e-contracts will be the next big thing](https://techcrunch.com/2023/12/06/after-e-signatures-tomorro-believes-e-contracts-will-be-the-next-thing/)
-- [Five-month-old Indian AI startup Sarvam scores $41 million funding](https://techcrunch.com/2023/12/06/indias-sarvam-ai-raises-41-million-from-lightspeed-khosla-peak-xv/)
-- [Meta finally starts rolling out default end-to-end encryption for Messenger](https://techcrunch.com/2023/12/06/meta-finally-starts-rolling-out-default-end-to-end-encryption-for-messenger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
