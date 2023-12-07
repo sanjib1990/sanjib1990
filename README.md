@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Congruent turned down over $300M from LPs for its third climate tech fund](https://techcrunch.com/2023/12/07/congruent-fund-3-close/)
 - [Opal Security, which helps companies manage access and identities, raises $22M](https://techcrunch.com/2023/12/07/opal-security-which-helps-companies-manage-access-and-identities-raises-22m/)
+- [An &#39;extragalactic&#39; intruder may lurk among stars orbiting the Milky Way&#39;s black hole](https://www.space.com/milky-way-black-hole-extragalactic-intruder-star-hidden)
 - [Following UK expansion, Robinhood brings crypto trading to EU](https://techcrunch.com/2023/12/07/robinhood-eu-crypto-expansion/)
 - [Pimento turns creative briefs into visual mood boards using generative AI](https://techcrunch.com/2023/12/07/pimento-turns-creative-briefs-into-visual-mood-boards-using-generative-ai/)
-- [YC-backed fintech Bujeti raises $2M for its corporate cards and spend management platform](https://techcrunch.com/2023/12/07/yc-backed-fintech-bujeti-raises-2m-for-its-corporate-cards-and-spend-management-platform/)
-- [European neobroker Scalable Capital raises $65M on a flat $1.4B valuation](https://techcrunch.com/2023/12/06/european-neobroker-scalable-capital-raises-65m-on-a-flat-1-4b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
