@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Secondaries summer’ is over, but 2024 looks promising](https://techcrunch.com/2023/12/08/secondaries-market-2024-outlook/)
-- [All black holes feast chaotically, no matter how hungry they are](https://www.space.com/black-holes-eat-same-way-accretion-disks-agn)
-- [OpenAI taps former Twitter India head to kickstart in the country](https://techcrunch.com/2023/12/08/openai-india-rishi-jaitly-hiring/)
-- [Google’s AI-assisted NotebookLM note-taking app is now open to users in the US](https://techcrunch.com/2023/12/08/googles-ai-assisted-notebooklm-note-taking-app-now-open-users-us/)
-- [X’s AI chatbot Grok now ‘rolled out to all’ US Premium+ subscribers, English language users are next](https://techcrunch.com/2023/12/08/xs-ai-chatbot-grok-now-rolled-out-to-all-u-s-premium-subscribers-english-language-users-are-next/)
+- [Will December bring startup winter?](https://techcrunch.com/2023/12/08/will-december-bring-startup-winter/)
+- [&#39;Dark force&#39; theory could solve 2 open cosmic mysteries](https://www.space.com/ai-models-dark-force-dark-matter-universe-theory)
+- [Travelsist hopes its air travel concierge will take off from Atlanta](https://techcrunch.com/2023/12/08/atlanta-travelsist-airport-travel/)
+- [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
+- [Fundraising trends for 2024: Get to the point, explain ‘why now’](https://techcrunch.com/2023/12/08/fundraising-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
