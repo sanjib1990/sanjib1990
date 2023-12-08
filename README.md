@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backed by Cresta founders, Trove’s AI wants to make surveys fun again](https://techcrunch.com/2023/12/07/backed-by-cresta-founders-troves-ai-wants-to-make-surveys-fun-again/)
 - [SpaceX to launch 22 Starlink satellites from California early Dec. 8](https://www.space.com/spacex-starlink-launch-group-7-8)
 - [Crossed wires caused parachute problem during OSIRIS-REx asteroid sample delivery, NASA says](https://www.space.com/crossed-wires-osiris-rex-asteroid-mission-parachute-problem)
 - [Anthropic’s latest tactic to stop racist AI: Asking it ‘really really really really’ nicely](https://techcrunch.com/2023/12/07/anthropics-latest-tactic-to-stop-racist-ai-asking-it-really-really-really-really-nicely/)
 - [X begins rolling out Grok, its ‘rebellious’ chatbot, to subscribers](https://techcrunch.com/2023/12/07/x-begins-rolling-out-grok-its-rebellious-chatbot-to-subscribers/)
-- [Play Our 2023 TechCrunch Pub Quiz!](https://techcrunch.com/2023/12/07/play-our-2023-techcrunch-pub-quiz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
