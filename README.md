@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Halley&#39;s Comet begins its 38-year journey back toward Earth tonight](https://www.space.com/halleys-comet-return)
-- [Startups are doing fine, but scale-ups and unicorns are in deep water](https://techcrunch.com/2023/12/08/startups-early-vs-late/)
-- [Colliding space junk makes &#39;noise&#39; that could be heard from Earth](https://www.space.com/colliding-space-junk-emits-detectable-signal)
-- [Deep tech startups must use these 4 techniques when fundraising](https://techcrunch.com/2023/12/08/deep-tech-startups-must-use-these-4-techniques-when-fundraising/)
-- [Snapchat+ keeps growing as net revenue tops $20M for first time](https://techcrunch.com/2023/12/08/snapchat-keeps-growing-as-net-revenue-tops-20m-for-first-time/)
+- [‘Secondaries summer’ is over, but 2024 looks promising](https://techcrunch.com/2023/12/08/secondaries-market-2024-outlook/)
+- [All black holes feast chaotically, no matter how hungry they are](https://www.space.com/black-holes-eat-same-way-accretion-disks-agn)
+- [OpenAI taps former Twitter India head to kickstart in the country](https://techcrunch.com/2023/12/08/openai-india-rishi-jaitly-hiring/)
+- [Google’s AI-assisted NotebookLM note-taking app is now open to users in the US](https://techcrunch.com/2023/12/08/googles-ai-assisted-notebooklm-note-taking-app-now-open-users-us/)
+- [X’s AI chatbot Grok now ‘rolled out to all’ US Premium+ subscribers, English language users are next](https://techcrunch.com/2023/12/08/xs-ai-chatbot-grok-now-rolled-out-to-all-u-s-premium-subscribers-english-language-users-are-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
