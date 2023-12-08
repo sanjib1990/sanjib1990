@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The animated VTuber Ironmouse won Content Creator of the Year at the Game Awards](https://techcrunch.com/2023/12/08/ironmouse-vtuber-content-creator-of-the-year/)
+- [Navigating 2024: The impact of interest rate plateau on financial startups](https://techcrunch.com/2023/12/08/brex-president-warns-of-the-impact-interest-rate-plateau-can-have-on-fintech-startups/)
+- [&#39;For All Mankind&#39; season 4 episode 5 review: A new asteroid heading for Mars puts a rocket under the season](https://www.space.com/for-all-mankind-season-4-episode-5-review)
 - [Ex-Uber CSO Joe Sullivan on why he ‘had to get over’ shock data breach conviction](https://techcrunch.com/2023/12/08/ex-uber-cso-joe-sullivan-on-why-he-had-to-get-over-shock-data-breach-conviction/)
 - [SaaS goes to space as some software startups are in a race to survive](https://techcrunch.com/2023/12/08/saas-in-space/)
-- [Ex-NASA scientist dishes on space food in new memoir &#39;Space Bites&#39;](https://www.space.com/space-bites-nasa-food-scientist-vickie-kloeris)
-- [Everything we know about &#39;Rebel Moon — Part One:  A Child of Fire&#39;](https://www.space.com/everything-we-know-about-rebel-moon-part-one)
-- [US Space Force plans space radar to &#39;identify emerging threats&#39; in distant Earth orbit](https://www.space.com/space-force-deep-space-radar-capability-emerging-threats)
 <!-- BLOG-POST-LIST:END -->
 
 ---
