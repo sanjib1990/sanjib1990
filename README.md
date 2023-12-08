@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crossed wires caused parachute problem during OSIRIS-REx asteroid sample delivery, NASA says](https://www.space.com/crossed-wires-osiris-rex-asteroid-mission-parachute-problem)
 - [Anthropic’s latest tactic to stop racist AI: Asking it ‘really really really really’ nicely](https://techcrunch.com/2023/12/07/anthropics-latest-tactic-to-stop-racist-ai-asking-it-really-really-really-really-nicely/)
 - [X begins rolling out Grok, its ‘rebellious’ chatbot, to subscribers](https://techcrunch.com/2023/12/07/x-begins-rolling-out-grok-its-rebellious-chatbot-to-subscribers/)
 - [Play Our 2023 TechCrunch Pub Quiz!](https://techcrunch.com/2023/12/07/play-our-2023-techcrunch-pub-quiz/)
 - [Keep your business model simple](https://techcrunch.com/2023/12/07/keep-your-business-model-simple/)
-- [Google’s best Gemini demo was faked](https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
