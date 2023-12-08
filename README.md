@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s latest tactic to stop racist AI: Asking it ‘really really really really’ nicely](https://techcrunch.com/2023/12/07/anthropics-latest-tactic-to-stop-racist-ai-asking-it-really-really-really-really-nicely/)
+- [X begins rolling out Grok, its ‘rebellious’ chatbot, to subscribers](https://techcrunch.com/2023/12/07/x-begins-rolling-out-grok-its-rebellious-chatbot-to-subscribers/)
+- [Play Our 2023 TechCrunch Pub Quiz!](https://techcrunch.com/2023/12/07/play-our-2023-techcrunch-pub-quiz/)
 - [Keep your business model simple](https://techcrunch.com/2023/12/07/keep-your-business-model-simple/)
 - [Google’s best Gemini demo was faked](https://techcrunch.com/2023/12/07/googles-best-gemini-demo-was-faked/)
-- [Battery swapping is great for EV fleets, but can it work for consumers?](https://techcrunch.com/2023/12/07/ample-stellantis-partnership/)
-- [Chinese startup Galactic Energy bounces back with successful satellite launch](https://www.space.com/galactic-energy-return-to-flight-launch-success)
-- [SpaceX, US Space Force set to launch secretive X-37B space plane on Dec. 10](https://www.space.com/spacex-x-37b-falcon-heavy-launch-final-preparations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
