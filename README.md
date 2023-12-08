@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [That’s no moon! Scientists doubt proposed detection of the 1st exomoons](https://www.space.com/exomoon-detection-doubt-kepler-telescope-data-star-transits)
 - [Will December bring startup winter?](https://techcrunch.com/2023/12/08/will-december-bring-startup-winter/)
 - [&#39;Dark force&#39; theory could solve 2 open cosmic mysteries](https://www.space.com/ai-models-dark-force-dark-matter-universe-theory)
 - [Travelsist hopes its air travel concierge will take off from Atlanta](https://techcrunch.com/2023/12/08/atlanta-travelsist-airport-travel/)
 - [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
-- [Fundraising trends for 2024: Get to the point, explain ‘why now’](https://techcrunch.com/2023/12/08/fundraising-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
