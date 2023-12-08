@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With its second app, Amo wants to make photo-sharing as simple taking a photo](https://techcrunch.com/2023/12/08/with-its-second-app-amo-wants-to-make-photo-sharing-as-simple-taking-a-photo/)
+- [Microsoft and OpenAI tie-up faces ‘relevant merger’ scrutiny by UK regulator CMA](https://techcrunch.com/2023/12/08/uks-cma-is-looking-at-whether-microsoft-and-openai-tie-up-is-a-relevant-merger/)
 - [Why is there so much military interest in the moon?](https://www.space.com/military-moves-on-the-moon)
 - [Threads is rolling out its hashtags without the hash symbol globally](https://techcrunch.com/2023/12/08/threads-is-rolling-out-its-hashtags-without-the-hash-symbol-globally/)
 - [India’s top VCs face fresh obstacles as startup investment plummets](https://techcrunch.com/2023/12/08/indias-top-vcs-face-fresh-obstacles-as-startup-investment-plummets/)
-- [Backed by Cresta founders, Trove’s AI wants to make surveys fun again](https://techcrunch.com/2023/12/07/backed-by-cresta-founders-troves-ai-wants-to-make-surveys-fun-again/)
-- [SpaceX launches 22 Starlink satellites from California](https://www.space.com/spacex-starlink-launch-group-7-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
