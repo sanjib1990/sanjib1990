@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The animated VTuber Ironmouse won Content Creator of the Year at the Game Awards](https://techcrunch.com/2023/12/08/ironmouse-vtuber-content-creator-of-the-year/)
-- [Navigating 2024: The impact of interest rate plateau on financial startups](https://techcrunch.com/2023/12/08/brex-president-warns-of-the-impact-interest-rate-plateau-can-have-on-fintech-startups/)
-- [&#39;For All Mankind&#39; season 4 episode 5 review: A new asteroid heading for Mars puts a rocket under the season](https://www.space.com/for-all-mankind-season-4-episode-5-review)
-- [Ex-Uber CSO Joe Sullivan on why he ‘had to get over’ shock data breach conviction](https://techcrunch.com/2023/12/08/ex-uber-cso-joe-sullivan-on-why-he-had-to-get-over-shock-data-breach-conviction/)
-- [SaaS goes to space as some software startups are in a race to survive](https://techcrunch.com/2023/12/08/saas-in-space/)
+- [Startups are doing fine, but scale-ups and unicorns are in deep water](https://techcrunch.com/2023/12/08/startups-early-vs-late/)
+- [Colliding space junk makes &#39;noise&#39; that could be heard from Earth](https://www.space.com/colliding-space-junk-emits-detectable-signal)
+- [Deep tech startups must use these 4 techniques when fundraising](https://techcrunch.com/2023/12/08/deep-tech-startups-must-use-these-4-techniques-when-fundraising/)
+- [Snapchat+ keeps growing as net revenue tops $20M for first time](https://techcrunch.com/2023/12/08/snapchat-keeps-growing-as-net-revenue-tops-20m-for-first-time/)
+- [DARPA moon tech study selects 14 companies to develop a lunar economy](https://www.space.com/darpa-moon-tech-study-future-lunar-economy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
