@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about &#39;Rebel Moon — Part One:  A Child of Fire&#39;](https://www.space.com/everything-we-know-about-rebel-moon-part-one)
 - [US Space Force plans space radar to &#39;identify emerging threats&#39; in distant Earth orbit](https://www.space.com/space-force-deep-space-radar-capability-emerging-threats)
 - [Strange underground polygons on Mars hint at Red Planet&#39;s wet past](https://www.space.com/mars-underground-polygons-evidence-ancient-water-red-planet)
 - [With its second app, Amo wants to make photo-sharing as simple taking a photo](https://techcrunch.com/2023/12/08/with-its-second-app-amo-wants-to-make-photo-sharing-as-simple-taking-a-photo/)
 - [Microsoft and OpenAI tie-up faces ‘relevant merger’ scrutiny by UK regulator CMA](https://techcrunch.com/2023/12/08/uks-cma-is-looking-at-whether-microsoft-and-openai-tie-up-is-a-relevant-merger/)
-- [Why is there so much military interest in the moon?](https://www.space.com/military-moves-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
