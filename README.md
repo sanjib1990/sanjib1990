@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Ingenuity Mars helicopter gearing up for longest flight ever this weekend](https://www.space.com/mars-helicopter-ingenuity-longest-flight-december-2023)
+- [Apple cuts off Beeper Mini’s access after launch of service that brought iMessage to Android](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 - [That’s no moon! Scientists doubt proposed detection of the 1st exomoons](https://www.space.com/exomoon-detection-doubt-kepler-telescope-data-star-transits)
 - [Will December bring startup winter?](https://techcrunch.com/2023/12/08/will-december-bring-startup-winter/)
 - [&#39;Dark force&#39; theory could solve 2 open cosmic mysteries](https://www.space.com/ai-models-dark-force-dark-matter-universe-theory)
-- [Travelsist hopes its air travel concierge will take off from Atlanta](https://techcrunch.com/2023/12/08/atlanta-travelsist-airport-travel/)
-- [DNA companies should receive the death penalty for getting hacked](https://techcrunch.com/2023/12/08/protect-or-perish/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
