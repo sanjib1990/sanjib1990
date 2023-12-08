@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Halley&#39;s Comet begins its 38-year journey back toward Earth tonight](https://www.space.com/halleys-comet-return)
 - [Startups are doing fine, but scale-ups and unicorns are in deep water](https://techcrunch.com/2023/12/08/startups-early-vs-late/)
 - [Colliding space junk makes &#39;noise&#39; that could be heard from Earth](https://www.space.com/colliding-space-junk-emits-detectable-signal)
 - [Deep tech startups must use these 4 techniques when fundraising](https://techcrunch.com/2023/12/08/deep-tech-startups-must-use-these-4-techniques-when-fundraising/)
 - [Snapchat+ keeps growing as net revenue tops $20M for first time](https://techcrunch.com/2023/12/08/snapchat-keeps-growing-as-net-revenue-tops-20m-for-first-time/)
-- [DARPA moon tech study selects 14 companies to develop a lunar economy](https://www.space.com/darpa-moon-tech-study-future-lunar-economy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
