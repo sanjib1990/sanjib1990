@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This week in AI: Mistral and the EU’s fight for AI sovereignty](https://techcrunch.com/2023/12/09/this-week-in-ai-mistral-and-the-eus-fight-for-ai-sovereignty/)
+- [How can we restore public trust in science? &lpar;op-ed&rpar;](https://www.space.com/how-can-we-restore-public-trust-in-science)
 - [&#39;Foundation&#39; fuels up for a thrilling 3rd season on Apple TV Plus](https://www.space.com/foundation-third-season-apple-tv-plus-preview)
 - [SpaceX Falcon Heavy rocket set to launch secretive X-37B space plane  on Dec. 10](https://www.space.com/spacex-space-force-x-37b-ot7-launch-webcast)
 - [Gag City is a viral win for Nicki Minaj](https://techcrunch.com/2023/12/08/gag-city-barbz-nicki-minaj-stans-meme-brand-accounts/)
-- [EU lawmakers bag late night deal on ‘global first’ AI rules](https://techcrunch.com/2023/12/08/eu-ai-act-political-deal/)
-- [An asteroid will eclipse the puzzling red star Betelgeuse on Dec. 11](https://www.space.com/asteroid-eclipse-betelgeuse-december-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
