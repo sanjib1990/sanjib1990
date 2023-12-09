@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon Heavy rocket set to launch secretive X-37B space plane  on Dec. 10](https://www.space.com/spacex-space-force-x-37b-ot7-launch-webcast)
 - [Gag City is a viral win for Nicki Minaj](https://techcrunch.com/2023/12/08/gag-city-barbz-nicki-minaj-stans-meme-brand-accounts/)
 - [EU lawmakers bag late night deal on ‘global first’ AI rules](https://techcrunch.com/2023/12/08/eu-ai-act-political-deal/)
 - [An asteroid will eclipse the puzzling red star Betelgeuse on Dec. 11](https://www.space.com/asteroid-eclipse-betelgeuse-december-2023)
 - [Report: FAA should improve investigation process after a rocket launch goes awry](https://techcrunch.com/2023/12/08/report-faa-should-improve-investigation-process-after-a-rocket-launch-goes-awry/)
-- [India&#39;s Aditya-L1 solar observatory captures 1st gorgeous views of the sun &lpar;images&rpar;](https://www.space.com/india-aditya-l1-observatory-images-of-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
