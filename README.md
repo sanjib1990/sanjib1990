@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan may delay its Mars moon sampling mission MMX due to rocket problems](https://www.space.com/japan-may-delay-mars-moon-sampling-mission-mmx)
+- [System of intelligence — generative AI at the app layer](https://techcrunch.com/2023/12/09/system-of-intelligence-generative-ai-at-the-app-layer/)
 - [This week in AI: Mistral and the EU’s fight for AI sovereignty](https://techcrunch.com/2023/12/09/this-week-in-ai-mistral-and-the-eus-fight-for-ai-sovereignty/)
 - [How can we restore public trust in science? &lpar;op-ed&rpar;](https://www.space.com/how-can-we-restore-public-trust-in-science)
 - [&#39;Foundation&#39; fuels up for a thrilling 3rd season on Apple TV Plus](https://www.space.com/foundation-third-season-apple-tv-plus-preview)
-- [SpaceX Falcon Heavy rocket set to launch secretive X-37B space plane  on Dec. 10](https://www.space.com/spacex-space-force-x-37b-ot7-launch-webcast)
-- [Gag City is a viral win for Nicki Minaj](https://techcrunch.com/2023/12/08/gag-city-barbz-nicki-minaj-stans-meme-brand-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
