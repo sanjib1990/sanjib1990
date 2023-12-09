@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google fakes an AI demo, Grand Theft Auto VI goes viral and Spotify cuts jobs](https://techcrunch.com/2023/12/09/google-fakes-an-ai-demo-grand-theft-auto-vi-goes-viral-and-spotify-cuts-jobs/)
 - [Do you believe in job after job?](https://techcrunch.com/2023/12/09/academia-layoffs-backstage-kyutai/)
 - [Robotics Q&amp;A with Boston Dynamics’ Aaron Saunders](https://techcrunch.com/2023/12/09/qa-with-boston-dynamics-aaron-saunders/)
 - [This Week In Space podcast: Episode 90 — The Wizard of Griffith Observatory](https://www.space.com/this-week-in-space-episode-90-wizard-of-griffth-observatory)
 - [Japan may delay its Mars moon sampling mission MMX due to rocket problems](https://www.space.com/japan-may-delay-mars-moon-sampling-mission-mmx)
-- [System of intelligence — generative AI at the app layer](https://techcrunch.com/2023/12/09/system-of-intelligence-generative-ai-at-the-app-layer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
