@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An asteroid will eclipse the puzzling red star Betelgeuse on Dec. 11](https://www.space.com/asteroid-eclipse-betelgeuse-december-2023)
 - [Report: FAA should improve investigation process after a rocket launch goes awry](https://techcrunch.com/2023/12/08/report-faa-should-improve-investigation-process-after-a-rocket-launch-goes-awry/)
 - [India&#39;s Aditya-L1 solar observatory captures 1st gorgeous views of the sun &lpar;images&rpar;](https://www.space.com/india-aditya-l1-observatory-images-of-sun)
 - [How to watch &#39;Doctor Who&#39; anniversary specials: Stream &#39;The Giggle&#39; from anywhere](https://www.space.com/doctor-who-anniversary-special-the-giggle-viewing-guide)
 - [NASA&#39;s Ingenuity Mars helicopter gearing up for longest flight ever this weekend](https://www.space.com/mars-helicopter-ingenuity-longest-flight-december-2023)
-- [Apple cuts off Beeper Mini’s access after launch of service that brought iMessage to Android](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
