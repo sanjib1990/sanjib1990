@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Elon’s &quot;based&quot; Grok AI has entered the chat…](https://www.youtube.com/watch?v=CgruI1RjH_c)
 - [The Gemini Lie](https://www.youtube.com/watch?v=90CYYfl9ntM)
 - [Google&#39;s Gemini just made GPT-4 look like a baby’s toy?](https://www.youtube.com/watch?v=q5qAVmXSecQ)
 - [Optimising Code - Computerphile](https://www.youtube.com/watch?v=K62EMzueWwA)
 - [DevSecOps Tutorial for Beginners | with GitHub Actions and Docker Scout](https://www.youtube.com/watch?v=gLJdrXPn0ns)
-- [You probably won’t survive 2024... Top 10 Tech Trends](https://www.youtube.com/watch?v=vyQv563Y-fk)
 <!-- YOUTUBE:END -->
 
 ---
