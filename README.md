@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debris from a near-Earth comet could create an new meteor shower this week](https://www.space.com/comet-new-meteor-shower-dec-2023)
 - [Watch ISS astronaut speak with Nobel Prize winners on Dec. 11](https://www.space.com/international-space-station-astronaut-nobel-prize-winners-2023-webcast)
 - [Google fakes an AI demo, Grand Theft Auto VI goes viral and Spotify cuts jobs](https://techcrunch.com/2023/12/09/google-fakes-an-ai-demo-grand-theft-auto-vi-goes-viral-and-spotify-cuts-jobs/)
 - [Do you believe in job after job?](https://techcrunch.com/2023/12/09/academia-layoffs-backstage-kyutai/)
 - [Robotics Q&amp;A with Boston Dynamics’ Aaron Saunders](https://techcrunch.com/2023/12/09/qa-with-boston-dynamics-aaron-saunders/)
-- [This Week In Space podcast: Episode 90 — The Wizard of Griffith Observatory](https://www.space.com/this-week-in-space-episode-90-wizard-of-griffth-observatory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
