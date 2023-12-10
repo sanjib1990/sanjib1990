@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch ISS astronaut speak with Nobel Prize winners on Dec. 11](https://www.space.com/international-space-station-astronaut-nobel-prize-winners-2023-webcast)
 - [Google fakes an AI demo, Grand Theft Auto VI goes viral and Spotify cuts jobs](https://techcrunch.com/2023/12/09/google-fakes-an-ai-demo-grand-theft-auto-vi-goes-viral-and-spotify-cuts-jobs/)
 - [Do you believe in job after job?](https://techcrunch.com/2023/12/09/academia-layoffs-backstage-kyutai/)
 - [Robotics Q&amp;A with Boston Dynamics’ Aaron Saunders](https://techcrunch.com/2023/12/09/qa-with-boston-dynamics-aaron-saunders/)
 - [This Week In Space podcast: Episode 90 — The Wizard of Griffith Observatory](https://www.space.com/this-week-in-space-episode-90-wizard-of-griffth-observatory)
-- [Japan may delay its Mars moon sampling mission MMX due to rocket problems](https://www.space.com/japan-may-delay-mars-moon-sampling-mission-mmx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
