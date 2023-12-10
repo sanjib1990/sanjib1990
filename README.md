@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Senator Warren calls out Apple for shutting down Beeper’s ‘iMessage to Android’ solution](https://techcrunch.com/2023/12/10/senator-warren-calls-out-apple-for-shutting-down-beepers-imessage-to-android-solution/)
 - [Deal Dive: Making the clean energy transition, well, cleaner](https://techcrunch.com/2023/12/10/deal-dive-clean-energy-transition/)
 - [The possibility of regulation hangs on the horizon over generative AI](https://techcrunch.com/2023/12/10/regulation-generative-ai/)
 - [Here are the newly minted fintech unicorns](https://techcrunch.com/2023/12/10/fintech-unicorns/)
 - [Life might have been possible just seconds after the Big Bang](https://www.space.com/life-possible-seconds-after-big-bang)
-- [How to push PaaS usage beyond 12-factor apps](https://techcrunch.com/2023/12/10/how-to-push-paas-usage-beyond-12-factor-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
