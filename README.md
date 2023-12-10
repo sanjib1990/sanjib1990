@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: Making the clean energy transition, well, cleaner](https://techcrunch.com/2023/12/10/deal-dive-clean-energy-transition/)
+- [The possibility of regulation hangs on the horizon over generative AI](https://techcrunch.com/2023/12/10/regulation-generative-ai/)
 - [Here are the newly minted fintech unicorns](https://techcrunch.com/2023/12/10/fintech-unicorns/)
 - [Life might have been possible just seconds after the Big Bang](https://www.space.com/life-possible-seconds-after-big-bang)
 - [How to push PaaS usage beyond 12-factor apps](https://techcrunch.com/2023/12/10/how-to-push-paas-usage-beyond-12-factor-apps/)
-- [Debris from a near-Earth comet could create an new meteor shower this week](https://www.space.com/comet-new-meteor-shower-dec-2023)
-- [Watch ISS astronaut speak with Nobel Prize winners on Dec. 11](https://www.space.com/international-space-station-astronaut-nobel-prize-winners-2023-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
