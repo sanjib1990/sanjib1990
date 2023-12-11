@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With regulation looming, Citrusx helps ensure AI models are in compliance](https://techcrunch.com/2023/12/11/with-regulation-looming-citrusx-helps-ensure-ai-models-are-in-compliance/)
+- [Performing evasive maneuvers increases satellites&#39; collision risk down the road](https://www.space.com/satellites-collision-avoidance-maneuvers-increase-collision-risk)
+- [After year-long search, Strava appoints YouTube exec Michael Martin as new CEO](https://techcrunch.com/2023/12/11/strava-ceo-google-youtube-michael-hogarth-martin/)
 - [The Geminid meteor shower peaks this week. Don&#39;t miss the best &#39;shooting stars&#39; of 2023](https://www.space.com/geminid-meteor-shower-peak-2023)
 - [PwC is acquiring Surfaceink, the hardware designer that was once a close partner of Apple’s](https://techcrunch.com/2023/12/11/pwc-is-acquiring-surfaceink-the-hardware-designer-that-was-once-a-close-partner-of-apples/)
-- [Mistral AI, a Paris-based OpenAI rival, closed its $415 million funding round](https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/)
-- [After Hubble: This Canadian telescope could fill coming &#39;ultraviolet gap&#39;](https://www.space.com/hubble-space-telescope-ultraviolet-gap-canada-castor-telescope)
-- [TikTok to invest $1.5B in GoTo’s Indonesia e-commerce business Tokopedia](https://techcrunch.com/2023/12/11/tiktok-to-invest-1-5b-in-gotos-indonesia-e-commerce-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
