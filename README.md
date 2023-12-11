@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [23andMe changes to terms of service are ‘cynical’ and ‘self-serving,’ lawyers say](https://techcrunch.com/2023/12/11/23andme-changes-to-terms-of-service-are-cynical-and-self-serving-lawyers-say/)
-- [&#39;Star Trek: Insurrection&#39; at 25: When Picard and the Enterprise crew found the Fountain of Youth](https://www.space.com/star-trek-insurrection-film-25th-anniversary)
-- [Asteroid mining startup AstroForge faces setbacks – and successes – on demonstration mission](https://techcrunch.com/2023/12/11/asteroid-mining-startup-astroforge-faces-setbacks-and-successes-on-demonstration-mission/)
-- [SpaceX to launch 23 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-34)
-- [Experts are certain 2023 will be &#39;the warmest year in recorded history&#39;](https://www.space.com/2023-warmest-year-in-history)
+- [Max Q: Our sky](https://techcrunch.com/2023/12/11/max-q-our-sky/)
+- [Helicity Space raises $5M to unlock fusion propulsion – and fast travel in deep space](https://techcrunch.com/2023/12/11/helicity-space-raises-5m-to-unlock-fusion-propulsion-and-fast-travel-in-deep-space/)
+- [Relevance AI’s low-code platform enables businesses to build AI teams](https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/)
+- [Lucid CFO bounces after Gravity SUV debut](https://techcrunch.com/2023/12/11/lucid-cfo-bounces-after-gravity-suv-debut/)
+- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/12/11/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
