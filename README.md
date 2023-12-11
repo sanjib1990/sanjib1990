@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SumUp taps €285M more in growth funding to weather the fintech storm](https://techcrunch.com/2023/12/10/sumup-taps-e285m-more-in-growth-funding-to-weather-the-fintech-storm/)
+- [Cruise faces fines, TuSimple exits the U.S. and a new reporter joins the TC transpo team](https://techcrunch.com/2023/12/10/cruise-faces-fines-tusimple-exits-the-u-s-and-a-new-reporter-joins-the-tc-transpo-team/)
 - [Senator Warren calls out Apple for shutting down Beeper’s ‘iMessage to Android’ solution](https://techcrunch.com/2023/12/10/senator-warren-calls-out-apple-for-shutting-down-beepers-imessage-to-android-solution/)
 - [Deal Dive: Making the clean energy transition, well, cleaner](https://techcrunch.com/2023/12/10/deal-dive-clean-energy-transition/)
 - [The possibility of regulation hangs on the horizon over generative AI](https://techcrunch.com/2023/12/10/regulation-generative-ai/)
-- [Here are the newly minted fintech unicorns](https://techcrunch.com/2023/12/10/fintech-unicorns/)
-- [Life might have been possible just seconds after the Big Bang](https://www.space.com/life-possible-seconds-after-big-bang)
 <!-- BLOG-POST-LIST:END -->
 
 ---
