@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok becomes first non-game app to reach $10B in consumer spending](https://techcrunch.com/2023/12/11/tiktok-becomes-first-non-game-app-to-reach-10b-in-consumer-spending/)
-- [Food tech roundup: VC funding declines again in Q3 amid fewer deals](https://techcrunch.com/2023/12/11/food-tech-roundup-vc-funding-declines-again/)
-- [US healthcare giant Norton says hackers stole millions of patients’ data during ransomware attack](https://techcrunch.com/2023/12/11/norton-cyberattack-ransomware-hacker-millions/)
-- [With regulation looming, Citrusx helps ensure AI models are in compliance](https://techcrunch.com/2023/12/11/with-regulation-looming-citrusx-helps-ensure-ai-models-are-in-compliance/)
-- [Performing evasive maneuvers increases satellites&#39; collision risk down the road](https://www.space.com/satellites-collision-avoidance-maneuvers-increase-collision-risk)
+- [Docker acquires AtomicJar, a testing startup that raised $25M in January](https://techcrunch.com/2023/12/11/docker-acquires-atomicjar-a-testing-startup-that-raised-25m-in-january/)
+- [The moon has been altered by human activity. Are we in a &#39;Lunar Anthropocene?&#39;](https://www.space.com/lunar-anthropocene-epoch-human-activity-on-moon)
+- [Strange yellow glass found in Libyan desert may have formed from lost meteor impact](https://www.space.com/strange-yellow-glass-libya-meteor-impact)
+- [Elon Musk says X is bringing video to Spaces soon](https://techcrunch.com/2023/12/11/elon-musk-says-x-is-bringing-video-to-spaces-soon/)
+- [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
