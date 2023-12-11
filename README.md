@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s $50,000 threat to Cybertruck resellers may be back after all](https://techcrunch.com/2023/12/11/teslas-50000-threat-to-cybertruck-resellers-may-be-back-after-all/)
+- [SpaceX private Polaris Dawn space mission delayed to April 2024](https://www.space.com/spacex-polaris-dawn-mission-delay-april-2024)
+- [ULA Vulcan Centaur rocket&#39;s 1st launch delayed to January 2024](https://www.space.com/ula-vulcan-centaur-1st-launch-delay-january-2024)
+- [Tumblr’s ‘fediverse’ integration is still being worked on, says owner and Automattic CEO Matt Mullenweg](https://techcrunch.com/2023/12/11/tumblrs-fediverse-integration-is-still-being-worked-on-says-owner-and-automattic-ceo-matt-mullenweg/)
 - [Docker acquires AtomicJar, a testing startup that raised $25M in January](https://techcrunch.com/2023/12/11/docker-acquires-atomicjar-a-testing-startup-that-raised-25m-in-january/)
-- [The moon has been altered by human activity. Are we in a &#39;Lunar Anthropocene?&#39;](https://www.space.com/lunar-anthropocene-epoch-human-activity-on-moon)
-- [Strange yellow glass found in Libyan desert may have formed from lost meteor impact](https://www.space.com/strange-yellow-glass-libya-meteor-impact)
-- [Elon Musk says X is bringing video to Spaces soon](https://techcrunch.com/2023/12/11/elon-musk-says-x-is-bringing-video-to-spaces-soon/)
-- [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
