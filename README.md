@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [23andMe changes to terms of service are ‘cynical’ and ‘self-serving,’ lawyers say](https://techcrunch.com/2023/12/11/23andme-changes-to-terms-of-service-are-cynical-and-self-serving-lawyers-say/)
+- [&#39;Star Trek: Insurrection&#39; at 25: When Picard and the Enterprise crew found the Fountain of Youth](https://www.space.com/star-trek-insurrection-film-25th-anniversary)
+- [Asteroid mining startup AstroForge faces setbacks – and successes – on demonstration mission](https://techcrunch.com/2023/12/11/asteroid-mining-startup-astroforge-faces-setbacks-and-successes-on-demonstration-mission/)
+- [SpaceX to launch 23 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-34)
 - [Experts are certain 2023 will be &#39;the warmest year in recorded history&#39;](https://www.space.com/2023-warmest-year-in-history)
-- [Apple releases spatial video recording on iPhone 15 Pro](https://techcrunch.com/2023/12/11/apple-releases-spatial-video-recording-on-iphone-15-pro/)
-- [James Webb Space Telescope&#39;s &#39;Cosmic Christmas Bauble&#39; earns spot in White House Advent Calendar &lpar;photo, video&rpar;](https://www.space.com/james-webb-space-telescope-jill-biden-cassiopeia-a)
-- [NASA&#39;s new &#39;Greenhouse Gas Center&#39; tracks humanity&#39;s contribution to climate change](https://www.space.com/humanity-greenhouse-gas-center-nasa-climate-change-global-warming)
-- [New &#39;Halo&#39; Season 2 trailer doubles down on more explosive Covenant combat](https://www.space.com/halo-season-2-trailer-release-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
