@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beeper Mini is back in operation after Apple’s attempt to shut it down](https://techcrunch.com/2023/12/11/beeper-mini-is-back-in-operation-after-apples-attempt-to-shut-it-down/)
+- [Cosmic nuclear fission seen for 1st time in &#39;incredibly profound&#39; discovery](https://www.space.com/nuclear-fission-neutron-stars-heavy-elements-gold)
+- [EU says incoming rules for general purpose AIs can evolve over time](https://techcrunch.com/2023/12/11/eu-ai-act-gpai-rules-evolve/)
+- [EV sales are thriving. Here’s how the US can stay in the race](https://techcrunch.com/2023/12/11/ev-sales-are-thriving-heres-how-the-us-can-stay-in-the-race/)
 - [Tesla’s $50,000 threat to Cybertruck resellers may be back after all](https://techcrunch.com/2023/12/11/teslas-50000-threat-to-cybertruck-resellers-may-be-back-after-all/)
-- [SpaceX private Polaris Dawn space mission delayed to April 2024](https://www.space.com/spacex-polaris-dawn-mission-delay-april-2024)
-- [ULA Vulcan Centaur rocket&#39;s 1st launch delayed to January 2024](https://www.space.com/ula-vulcan-centaur-1st-launch-delay-january-2024)
-- [Tumblr’s ‘fediverse’ integration is still being worked on, says owner and Automattic CEO Matt Mullenweg](https://techcrunch.com/2023/12/11/tumblrs-fediverse-integration-is-still-being-worked-on-says-owner-and-automattic-ceo-matt-mullenweg/)
-- [Docker acquires AtomicJar, a testing startup that raised $25M in January](https://techcrunch.com/2023/12/11/docker-acquires-atomicjar-a-testing-startup-that-raised-25m-in-january/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
