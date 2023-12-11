@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s new &#39;Greenhouse Gas Center&#39; tracks humanity&#39;s contribution to climate change](https://www.space.com/humanity-greenhouse-gas-center-nasa-climate-change-global-warming)
+- [New &#39;Halo&#39; Season 2 trailer doubles down on more explosive Covenant combat](https://www.space.com/halo-season-2-trailer-release-date)
+- [Sila inks supply deal with Panasonic for its breakthrough battery material](https://techcrunch.com/2023/12/11/sila-panasonic-deal/)
+- [Apple’s new Journal app is now available with the release of iOS 17.2](https://techcrunch.com/2023/12/11/apples-new-journal-app-is-now-available-with-the-release-of-ios-17-2/)
 - [We should all be paying more attention to the PDD-Alibaba rivalry](https://techcrunch.com/2023/12/11/pdd-alibaba-rivalry/)
-- [Crafting unforgettable startup names that resonate, inspire thought, and make competitors wince](https://techcrunch.com/2023/12/11/crafting-unforgettable-startup-names-that-resonate-inspire-thought-and-make-competitors-wince/)
-- [NASA astronaut spins the dreidel for Hanukkah aboard International Space Station &lpar;video&rpar;](https://www.space.com/astronaut-jasmin-moghbeli-iss-dreidel-hanukkah-video)
-- [Beeper Mini is back in operation after Apple’s attempt to shut it down](https://techcrunch.com/2023/12/11/beeper-mini-is-back-in-operation-after-apples-attempt-to-shut-it-down/)
-- [Cosmic nuclear fission seen for 1st time in &#39;incredibly profound&#39; discovery](https://www.space.com/nuclear-fission-neutron-stars-heavy-elements-gold)
 <!-- BLOG-POST-LIST:END -->
 
 ---
