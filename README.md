@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We should all be paying more attention to the PDD-Alibaba rivalry](https://techcrunch.com/2023/12/11/pdd-alibaba-rivalry/)
+- [Crafting unforgettable startup names that resonate, inspire thought, and make competitors wince](https://techcrunch.com/2023/12/11/crafting-unforgettable-startup-names-that-resonate-inspire-thought-and-make-competitors-wince/)
+- [NASA astronaut spins the dreidel for Hanukkah aboard International Space Station &lpar;video&rpar;](https://www.space.com/astronaut-jasmin-moghbeli-iss-dreidel-hanukkah-video)
 - [Beeper Mini is back in operation after Apple’s attempt to shut it down](https://techcrunch.com/2023/12/11/beeper-mini-is-back-in-operation-after-apples-attempt-to-shut-it-down/)
 - [Cosmic nuclear fission seen for 1st time in &#39;incredibly profound&#39; discovery](https://www.space.com/nuclear-fission-neutron-stars-heavy-elements-gold)
-- [EU says incoming rules for general purpose AIs can evolve over time](https://techcrunch.com/2023/12/11/eu-ai-act-gpai-rules-evolve/)
-- [EV sales are thriving. Here’s how the US can stay in the race](https://techcrunch.com/2023/12/11/ev-sales-are-thriving-heres-how-the-us-can-stay-in-the-race/)
-- [Tesla’s $50,000 threat to Cybertruck resellers may be back after all](https://techcrunch.com/2023/12/11/teslas-50000-threat-to-cybertruck-resellers-may-be-back-after-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
