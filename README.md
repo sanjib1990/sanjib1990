@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Experts are certain 2023 will be &#39;the warmest year in recorded history&#39;](https://www.space.com/2023-warmest-year-in-history)
+- [Apple releases spatial video recording on iPhone 15 Pro](https://techcrunch.com/2023/12/11/apple-releases-spatial-video-recording-on-iphone-15-pro/)
+- [James Webb Space Telescope&#39;s &#39;Cosmic Christmas Bauble&#39; earns spot in White House Advent Calendar &lpar;photo, video&rpar;](https://www.space.com/james-webb-space-telescope-jill-biden-cassiopeia-a)
 - [NASA&#39;s new &#39;Greenhouse Gas Center&#39; tracks humanity&#39;s contribution to climate change](https://www.space.com/humanity-greenhouse-gas-center-nasa-climate-change-global-warming)
 - [New &#39;Halo&#39; Season 2 trailer doubles down on more explosive Covenant combat](https://www.space.com/halo-season-2-trailer-release-date)
-- [Sila inks supply deal with Panasonic for its breakthrough battery material](https://techcrunch.com/2023/12/11/sila-panasonic-deal/)
-- [Apple’s new Journal app is now available with the release of iOS 17.2](https://techcrunch.com/2023/12/11/apples-new-journal-app-is-now-available-with-the-release-of-ios-17-2/)
-- [We should all be paying more attention to the PDD-Alibaba rivalry](https://techcrunch.com/2023/12/11/pdd-alibaba-rivalry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
