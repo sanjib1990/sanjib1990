@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok to invest $1.5B in GoTo’s Indonesia e-commerce business](https://techcrunch.com/2023/12/11/tiktok-to-invest-1-5b-in-gotos-indonesia-e-commerce-business/)
+- [TikTok to invest $1.5B in GoTo’s Indonesia e-commerce business Tokopedia](https://techcrunch.com/2023/12/11/tiktok-to-invest-1-5b-in-gotos-indonesia-e-commerce-business/)
 - [Amazon loses second AWS India and South Asia top exec in less than a year](https://techcrunch.com/2023/12/10/amazon-loses-second-aws-india-and-south-asia-top-exec-in-less-than-a-year/)
 - [US-China tech war escalates over EV battery dominance](https://techcrunch.com/2023/12/10/us-china-tech-war-escalates-over-ev-battery-dominance/)
 - [Elon Musk brings Alex Jones and Infowars back on X after user poll](https://techcrunch.com/2023/12/10/elon-musk-brings-alex-jones-and-infowars-back-on-x-after-user-poll/)
