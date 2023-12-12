@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s WeRide tests autonomous buses in Singapore, accelerates global ambition](https://techcrunch.com/2023/12/12/weride-singapore/)
 - [Lego Fortnite’s debut builds momentum with 2.4M people playing at once](https://techcrunch.com/2023/12/11/lego-fortnites-debut-builds-momentum-with-2-4m-people-playing-at-once/)
 - [Omidyar Network to pull out of India market](https://techcrunch.com/2023/12/11/omidyar-network-to-pull-out-of-india-market/)
-- [A spectral device using Generative AI could detect bad microbes in food factories in real time](https://techcrunch.com/2023/12/11/a-spectral-device-using-generative-ai-could-detect-bad-microbes-in-food-factories-in-real-time/)
 - [Tribe Capital eyes leading $75M-plus funding in India’s Shiprocket](https://techcrunch.com/2023/12/11/tribe-capital-eyes-leading-75m-plus-funding-in-india-shiprocket/)
 - [Fortnite maker Epic Games wins its antitrust fight against Google](https://techcrunch.com/2023/12/11/epic-games-google-antitrust-win/)
 <!-- BLOG-POST-LIST:END -->
