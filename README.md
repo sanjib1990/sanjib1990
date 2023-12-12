@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin will return to flight with uncrewed mission on Dec. 18](https://www.space.com/blue-origin-return-to-flight-mission-december-2023)
-- [Geothermal startup Quaise is raising $25M as it gears up for drilling](https://techcrunch.com/2023/12/12/quaise-fundraising/)
-- [Cats and dogs in space! Pets crash onto an alien planet in &#39;Man&#39;s Best&#39; miniseries &lpar;exclusive&rpar;](https://www.space.com/cats-dogs-space-mans-best-comic-first-look)
-- [Bitcoin ATM company Coin Cloud got hacked. Even its new owners don’t know how](https://techcrunch.com/2023/12/12/bitcoin-atm-company-coin-cloud-got-hacked/)
-- [Google Maps gets new updates to give users more control over their information](https://techcrunch.com/2023/12/12/google-maps-gets-new-updates-to-give-users-more-control-over-their-information/)
+- [Take the time to brush up those pitch decks](https://techcrunch.com/2023/12/12/take-the-time-to-brush-up-those-pitch-decks/)
+- [China lofts Yaogan spy satellites on 500th Long March rocket launch &lpar;video&rpar;](https://www.space.com/china-yaogan-spy-satellite-500th-long-march-rocket-launch)
+- [The regulation is coming from inside the house!](https://techcrunch.com/2023/12/12/the-regulation-is-coming-from-inside-the-house/)
+- [December&#39;s new moon allows the Geminid meteor shower to shine tonight](https://www.space.com/new-moon-december-2023)
+- [Deadmau5-founded startup Korus taps into AI for music creation](https://techcrunch.com/2023/12/12/deadmau5-founded-startup-korus-taps-into-ai-for-music-creation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
