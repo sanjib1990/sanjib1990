@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comun channels local banking approach to serve Latino immigrants](https://techcrunch.com/2023/12/12/comun-local-banking-latino-immigrants-fintech/)
+- [What 8,000 hours flying military jets taught 2 Canadian astronauts](https://www.space.com/canadian-space-agency-military-astronauts-pilot-experience)
 - [BeReal adds private groups and Live Photo-like features; Pew estimates 13% of US teens use app](https://techcrunch.com/2023/12/12/bereal-adds-private-groups-and-live-photo-like-features-pew-estimates-13-of-us-teens-use-app/)
 - [Watch SpaceX&#39;s Starship go boom twice in this epic test-flight highlight video](https://www.space.com/spacex-starship-second-flight-two-explosions-video)
-- [China’s WeRide tests autonomous buses in Singapore, accelerates global ambition](https://techcrunch.com/2023/12/12/weride-singapore/)
-- [Lego Fortnite’s debut builds momentum with 2.4M people playing at once](https://techcrunch.com/2023/12/11/lego-fortnites-debut-builds-momentum-with-2-4m-people-playing-at-once/)
-- [Omidyar Network to pull out of India market](https://techcrunch.com/2023/12/11/omidyar-network-to-pull-out-of-india-market/)
+- [Three breakthroughs that earned Fourth Power its $19M Series A](https://techcrunch.com/2023/12/12/fourth-power-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
