@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuzzy Door’s Viewscreen on-set AR puts CG characters and locations in the viewfinder](https://techcrunch.com/2023/12/12/fuzzy-doors-viewscreen-on-set-ar-puts-cg-characters-and-locations-in-the-viewfinder/)
+- [Intergalactic &#39;stream of stars&#39; 10 times longer than the Milky Way is the 1st of its kind ever spotted](https://www.space.com/intergalactic-stream-of-stars-10-times-longer-than-milky-way)
+- [Machine learning is set to speed up the detection of contamination in food factories](https://techcrunch.com/2023/12/12/machine-learning-detection-of-contamination/)
 - [SETI is searching for alien life at previously unexplored frequencies](https://www.space.com/seti-searching-alien-life-unexplored-frequencies)
-- [Durable cements $14M to build bots and other AI tools for small businesses in service industries](https://techcrunch.com/2023/12/12/durable-cements-14m-to-build-ai-powered-tools-for-small-businesses-in-service-industries/)
-- [CES 2024: TechCrunch wants to meet your startup](https://techcrunch.com/2023/12/12/ces-2024-startup-submissions/)
-- [Comun channels local banking approach to serve Latino immigrants](https://techcrunch.com/2023/12/12/comun-local-banking-latino-immigrants-fintech/)
-- [What 8,000 hours flying military jets taught 2 Canadian astronauts](https://www.space.com/canadian-space-agency-military-astronauts-pilot-experience)
+- [Snapchat’s end-of-year ‘Recap’ will roll out globally starting on December 13](https://techcrunch.com/2023/12/12/snapchats-end-of-year-recap-will-roll-out-globally-starting-on-december-13/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
