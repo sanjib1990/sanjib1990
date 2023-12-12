@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SETI is searching for alien life at previously unexplored frequencies](https://www.space.com/seti-searching-alien-life-unexplored-frequencies)
+- [Durable cements $14M to build bots and other AI tools for small businesses in service industries](https://techcrunch.com/2023/12/12/durable-cements-14m-to-build-ai-powered-tools-for-small-businesses-in-service-industries/)
+- [CES 2024: TechCrunch wants to meet your startup](https://techcrunch.com/2023/12/12/ces-2024-startup-submissions/)
 - [Comun channels local banking approach to serve Latino immigrants](https://techcrunch.com/2023/12/12/comun-local-banking-latino-immigrants-fintech/)
 - [What 8,000 hours flying military jets taught 2 Canadian astronauts](https://www.space.com/canadian-space-agency-military-astronauts-pilot-experience)
-- [BeReal adds private groups and Live Photo-like features; Pew estimates 13% of US teens use app](https://techcrunch.com/2023/12/12/bereal-adds-private-groups-and-live-photo-like-features-pew-estimates-13-of-us-teens-use-app/)
-- [Watch SpaceX&#39;s Starship go boom twice in this epic test-flight highlight video](https://www.space.com/spacex-starship-second-flight-two-explosions-video)
-- [Three breakthroughs that earned Fourth Power its $19M Series A](https://techcrunch.com/2023/12/12/fourth-power-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
