@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fuzzy Door’s Viewscreen on-set AR puts CG characters and locations in the viewfinder](https://techcrunch.com/2023/12/12/fuzzy-doors-viewscreen-on-set-ar-puts-cg-characters-and-locations-in-the-viewfinder/)
-- [Intergalactic &#39;stream of stars&#39; 10 times longer than the Milky Way is the 1st of its kind ever spotted](https://www.space.com/intergalactic-stream-of-stars-10-times-longer-than-milky-way)
-- [Machine learning is set to speed up the detection of contamination in food factories](https://techcrunch.com/2023/12/12/machine-learning-detection-of-contamination/)
-- [SETI is searching for alien life at previously unexplored frequencies](https://www.space.com/seti-searching-alien-life-unexplored-frequencies)
-- [Snapchat’s end-of-year ‘Recap’ will roll out globally starting on December 13](https://techcrunch.com/2023/12/12/snapchats-end-of-year-recap-will-roll-out-globally-starting-on-december-13/)
+- [How GenAI can turn an autobiography into an interactive Black history lesson](https://techcrunch.com/2023/12/12/how-genai-can-turn-an-autobiography-into-an-interactive-black-history-lesson/)
+- [&#39;Star Trek: Discovery&#39; Season 5 snippet shows Burnham battling giant, invisible bugs](https://www.space.com/star-trek-discovery-season-5-clip-release)
+- [Taiwan’s Gogoro kicks off entry into India with battery swapping and electric two wheelers](https://techcrunch.com/2023/12/12/gogoro-battery-swapping-network-electric-two-wheelers-in-india/)
+- [Snapchat+ subscribers can now create and send AI-generated images](https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/)
+- [Instagram finstas may turn into a new product called ‘flipside,’ meant only for close friends](https://techcrunch.com/2023/12/12/instagram-finstas-may-turn-into-a-new-product-called-flipside-meant-only-for-close-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
