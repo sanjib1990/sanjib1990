@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin will return to flight with uncrewed mission on Dec. 18](https://www.space.com/blue-origin-return-to-flight-mission-december-2023)
+- [Geothermal startup Quaise is raising $25M as it gears up for drilling](https://techcrunch.com/2023/12/12/quaise-fundraising/)
+- [Cats and dogs in space! Pets crash onto an alien planet in &#39;Man&#39;s Best&#39; miniseries &lpar;exclusive&rpar;](https://www.space.com/cats-dogs-space-mans-best-comic-first-look)
+- [Bitcoin ATM company Coin Cloud got hacked. Even its new owners don’t know how](https://techcrunch.com/2023/12/12/bitcoin-atm-company-coin-cloud-got-hacked/)
 - [Google Maps gets new updates to give users more control over their information](https://techcrunch.com/2023/12/12/google-maps-gets-new-updates-to-give-users-more-control-over-their-information/)
-- [Ukraine’s largest mobile operator Kyivstar downed by ‘powerful’ cyberattack](https://techcrunch.com/2023/12/12/ukraine-largest-mobile-operator-kyivstar-downed-by-powerful-cyberattack/)
-- [Microsoft’s climate fund backs sustainable jet fuel company Dimensional Energy](https://techcrunch.com/2023/12/12/microsofts-climate-fund-backs-sustainable-jet-fuel-company-dimensional-energy/)
-- [How &#39;Avatar: Frontiers of Pandora&#39; expands the exotic alien world of the movies](https://www.space.com/five-ways-in-which-avatar-frontiers-of-pandora-expands-the-world-of-the-movies)
-- [Google Classroom now lets teachers add interactive questions to YouTube videos](https://techcrunch.com/2023/12/12/google-classroom-now-lets-teachers-add-interactive-questions-to-youtube-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
