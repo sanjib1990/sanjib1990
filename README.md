@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up and use a CRM to run your VC fundraising process](https://techcrunch.com/2023/12/12/coffee-is-for-closers/)
+- [Relive Artemis 1 Orion&#39;s fiery return from the moon in this amazing video](https://www.space.com/artemis-1-orion-earth-reentry-video)
+- [Bezos’ Blue Origin aiming to make long-awaited return to launch next week](https://techcrunch.com/2023/12/12/bezos-blue-origin-aiming-to-make-long-awaited-return-to-launch-next-week/)
+- [Crowdfunding a cleaner power solution for mobile businesses](https://techcrunch.com/2023/12/12/crowdfunding-a-cleaner-power-solution-for-mobile-businesses/)
 - [Take the time to brush up those pitch decks](https://techcrunch.com/2023/12/12/take-the-time-to-brush-up-those-pitch-decks/)
-- [China lofts Yaogan spy satellites on 500th Long March rocket launch &lpar;video&rpar;](https://www.space.com/china-yaogan-spy-satellite-500th-long-march-rocket-launch)
-- [The regulation is coming from inside the house!](https://techcrunch.com/2023/12/12/the-regulation-is-coming-from-inside-the-house/)
-- [December&#39;s new moon allows the Geminid meteor shower to shine tonight](https://www.space.com/new-moon-december-2023)
-- [Deadmau5-founded startup Korus taps into AI for music creation](https://techcrunch.com/2023/12/12/deadmau5-founded-startup-korus-taps-into-ai-for-music-creation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
