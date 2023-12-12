@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX scrubs Falcon Heavy&#39;s X-37B space plane launch due to ground issue](https://www.space.com/spacex-falcon-heavy-x-37b-space-force-launch-scrub)
+- [Terran Orbital CEO tells staff it is not looking for a buyer](https://techcrunch.com/2023/12/11/terran-orbital-ceo-tells-staff-it-is-not-looking-for-a-buyer/)
+- [Astronaut shows off vintage Nobel Prize in space — and talks &#39;quantum dots&#39; ISS experiment &lpar;video&rpar;](https://www.space.com/international-space-station-nobel-prize-experiment)
 - [Hasbro to cut 1,100 jobs despite Dungeons &amp; Dragons thriving](https://techcrunch.com/2023/12/11/hasbro-layoffs-dungeons-dragons-wizards/)
 - [Ford slashes production target for all-electric F-150 Lightning to match demand](https://techcrunch.com/2023/12/11/ford-slashes-production-target-for-all-electric-f-150-lightning-to-match-demand/)
-- [Max Q: Our sky](https://techcrunch.com/2023/12/11/max-q-our-sky/)
-- [Helicity Space raises $5M to unlock fusion propulsion – and fast travel in deep space](https://techcrunch.com/2023/12/11/helicity-space-raises-5m-to-unlock-fusion-propulsion-and-fast-travel-in-deep-space/)
-- [Relevance AI’s low-code platform enables businesses to build AI teams](https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
