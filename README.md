@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hasbro to cut 1,100 jobs despite Dungeons &amp; Dragons thriving](https://techcrunch.com/2023/12/11/hasbro-layoffs-dungeons-dragons-wizards/)
+- [Ford slashes production target for all-electric F-150 Lightning to match demand](https://techcrunch.com/2023/12/11/ford-slashes-production-target-for-all-electric-f-150-lightning-to-match-demand/)
 - [Max Q: Our sky](https://techcrunch.com/2023/12/11/max-q-our-sky/)
 - [Helicity Space raises $5M to unlock fusion propulsion – and fast travel in deep space](https://techcrunch.com/2023/12/11/helicity-space-raises-5m-to-unlock-fusion-propulsion-and-fast-travel-in-deep-space/)
 - [Relevance AI’s low-code platform enables businesses to build AI teams](https://techcrunch.com/2023/12/11/relevance-ais-low-code-platform-enables-businesses-to-build-ai-teams/)
-- [Lucid CFO bounces after Gravity SUV debut](https://techcrunch.com/2023/12/11/lucid-cfo-bounces-after-gravity-suv-debut/)
-- [A comprehensive list of 2023 tech layoffs](https://techcrunch.com/2023/12/11/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
