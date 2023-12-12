@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How GenAI can turn an autobiography into an interactive Black history lesson](https://techcrunch.com/2023/12/12/how-genai-can-turn-an-autobiography-into-an-interactive-black-history-lesson/)
-- [&#39;Star Trek: Discovery&#39; Season 5 snippet shows Burnham battling giant, invisible bugs](https://www.space.com/star-trek-discovery-season-5-clip-release)
-- [Taiwan’s Gogoro kicks off entry into India with battery swapping and electric two wheelers](https://techcrunch.com/2023/12/12/gogoro-battery-swapping-network-electric-two-wheelers-in-india/)
-- [Snapchat+ subscribers can now create and send AI-generated images](https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/)
-- [Instagram finstas may turn into a new product called ‘flipside,’ meant only for close friends](https://techcrunch.com/2023/12/12/instagram-finstas-may-turn-into-a-new-product-called-flipside-meant-only-for-close-friends/)
+- [Google Maps gets new updates to give users more control over their information](https://techcrunch.com/2023/12/12/google-maps-gets-new-updates-to-give-users-more-control-over-their-information/)
+- [Ukraine’s largest mobile operator Kyivstar downed by ‘powerful’ cyberattack](https://techcrunch.com/2023/12/12/ukraine-largest-mobile-operator-kyivstar-downed-by-powerful-cyberattack/)
+- [Microsoft’s climate fund backs sustainable jet fuel company Dimensional Energy](https://techcrunch.com/2023/12/12/microsofts-climate-fund-backs-sustainable-jet-fuel-company-dimensional-energy/)
+- [How &#39;Avatar: Frontiers of Pandora&#39; expands the exotic alien world of the movies](https://www.space.com/five-ways-in-which-avatar-frontiers-of-pandora-expands-the-world-of-the-movies)
+- [Google Classroom now lets teachers add interactive questions to YouTube videos](https://techcrunch.com/2023/12/12/google-classroom-now-lets-teachers-add-interactive-questions-to-youtube-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
