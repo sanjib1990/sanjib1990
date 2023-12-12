@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [True Anomaly raises $100M to scale space security tech](https://techcrunch.com/2023/12/12/true-anomaly-raises-100m-to-scale-space-security-tech/)
 - [NASA&#39;s Voyager 1 probe in interstellar space can&#39;t phone home &lpar;again&rpar; due to glitch](https://www.space.com/voyager-1-flight-data-system-glitch)
 - [How to set up and use a CRM to run your VC fundraising process](https://techcrunch.com/2023/12/12/coffee-is-for-closers/)
 - [Relive Artemis 1 Orion&#39;s fiery return from the moon in this amazing video](https://www.space.com/artemis-1-orion-earth-reentry-video)
 - [Bezos’ Blue Origin aiming to make long-awaited return to launch next week](https://techcrunch.com/2023/12/12/bezos-blue-origin-aiming-to-make-long-awaited-return-to-launch-next-week/)
-- [Crowdfunding a cleaner power solution for mobile businesses](https://techcrunch.com/2023/12/12/crowdfunding-a-cleaner-power-solution-for-mobile-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
