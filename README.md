@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Underwater volcano riding a sinking tectonic plate may have unleashed major earthquakes in Japan](https://www.space.com/underwater-volcano-sinking-tectonic-plate-japan-earthquakes)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/12/13/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [SpaceX to launch 3rd private astronaut mission to the ISS for Axiom Space on Jan. 9](https://www.space.com/spacex-axiom-space-ax-3-international-space-station-launch-date)
 - [Ask Sophie: How do we transfer H-1Bs? Can we transfer green cards too?](https://techcrunch.com/2023/12/13/ask-sophie-how-do-we-transfer-h-1bs-can-we-transfer-green-cards-too/)
 - [Orkes forks Conductor as Netflix abandons the open-source project](https://techcrunch.com/2023/12/13/orkes-forks-conductor-as-netflix-abandons-the-open-source-project/)
-- [OpenAI launches second Converge startup cohort](https://techcrunch.com/2023/12/13/openai-launches-second-converge-startup-cohort/)
-- [Xbox Cloud Gaming now available on Meta Quest 2, 3 and Pro](https://techcrunch.com/2023/12/13/xbox-cloud-gaming-now-available-on-meta-quest-2-3-and-pro/)
-- [OpenAI inks deal with Axel Springer on licensing news for model training](https://techcrunch.com/2023/12/13/openai-inks-deal-with-axel-springer-on-licensing-news-for-model-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
