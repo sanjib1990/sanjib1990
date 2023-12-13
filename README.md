@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup studio Hexa wants to partner with startups growing too slowly](https://techcrunch.com/2023/12/12/startup-studio-hexa-wants-to-partner-with-startups-growing-too-slowly/)
+- [British International Investment backs India’s Aye Finance in $37M funding](https://techcrunch.com/2023/12/12/british-international-investment-aye-finance-funding/)
 - [FCC issues final denial of $885M Starlink subsidy](https://techcrunch.com/2023/12/12/fcc-issues-final-denial-of-885m-starlink-subsidy/)
 - [Solar storms could affect train safety by glitching railroad signals](https://www.space.com/solar-storms-railroad-signal-train-safety)
 - [Feds want anti-drunk-driving tech in cars — here’s what stands in the way](https://techcrunch.com/2023/12/12/feds-want-anti-drunk-driving-tech-in-cars-heres-what-stands-in-the-way/)
-- [True Anomaly raises $100M to scale space security tech](https://techcrunch.com/2023/12/12/true-anomaly-raises-100m-to-scale-space-security-tech/)
-- [NASA&#39;s Voyager 1 probe in interstellar space can&#39;t phone home &lpar;again&rpar; due to glitch](https://www.space.com/voyager-1-flight-data-system-glitch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
