@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Metafuels lands $8 million bet on greener skies ahead](https://techcrunch.com/2023/12/12/metafuels-8m/)
+- [Procurement software startup Pivot raises $21.6 million just a few months after its creation](https://techcrunch.com/2023/12/12/procurement-software-startup-pivot-raises-216-million-just-a-few-months-after-its-creation/)
+- [Meta aims to brings its fact-checking program to Threads next year](https://techcrunch.com/2023/12/12/meta-aims-to-brings-its-fact-checking-program-to-threads-next-year/)
 - [Startup studio Hexa wants to partner with startups growing too slowly](https://techcrunch.com/2023/12/12/startup-studio-hexa-wants-to-partner-with-startups-growing-too-slowly/)
 - [British International Investment backs India’s Aye Finance in $37M funding](https://techcrunch.com/2023/12/12/british-international-investment-aye-finance-funding/)
-- [FCC issues final denial of $885M Starlink subsidy](https://techcrunch.com/2023/12/12/fcc-issues-final-denial-of-885m-starlink-subsidy/)
-- [Solar storms could affect train safety by glitching railroad signals](https://www.space.com/solar-storms-railroad-signal-train-safety)
-- [Feds want anti-drunk-driving tech in cars — here’s what stands in the way](https://techcrunch.com/2023/12/12/feds-want-anti-drunk-driving-tech-in-cars-heres-what-stands-in-the-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
