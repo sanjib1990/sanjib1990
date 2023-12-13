@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [At COP28, the world finally acknowledged the obvious](https://techcrunch.com/2023/12/13/cop28-analysis/)
-- [Earth may have had all the elements needed for life all along − contrary to meteorite origin theories](https://www.space.com/earth-may-have-had-all-elements-for-life-all-along)
-- [Here’s where founders screw up their pitch decks most often](https://techcrunch.com/2023/12/13/fix-your-pitch-deck/)
-- [Graysky, a third-party client for X rival Bluesky, gets Trending Topics and a ‘Pro’ subscription](https://techcrunch.com/2023/12/13/graysky-a-third-party-client-for-x-rival-bluesky-gets-trending-topics-and-a-pro-subscription/)
-- [Receive the gift of growth at TechCrunch Early Stage 2024](https://techcrunch.com/2023/12/13/receive-the-gift-of-growth-at-techcrunch-early-stage-2024/)
+- [Ask Sophie: How do we transfer H-1Bs? Can we transfer green cards too?](https://techcrunch.com/2023/12/13/ask-sophie-how-do-we-transfer-h-1bs-can-we-transfer-green-cards-too/)
+- [Orkes forks Conductor as Netflix abandons the open-source project](https://techcrunch.com/2023/12/13/orkes-forks-conductor-as-netflix-abandons-the-open-source-project/)
+- [OpenAI launches second Converge startup cohort](https://techcrunch.com/2023/12/13/openai-launches-second-converge-startup-cohort/)
+- [Xbox Cloud Gaming now available on Meta Quest 2, 3 and Pro](https://techcrunch.com/2023/12/13/xbox-cloud-gaming-now-available-on-meta-quest-2-3-and-pro/)
+- [OpenAI inks deal with Axel Springer on licensing news for model training](https://techcrunch.com/2023/12/13/openai-inks-deal-with-axel-springer-on-licensing-news-for-model-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
