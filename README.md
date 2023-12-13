@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Metaswitch CEO John Lazar joins Copia’s board as the Kenyan e-commerce outfit rakes in $20M to push toward profitability](https://techcrunch.com/2023/12/13/ex-metaswitch-ceo-john-lazar-joins-copias-board-as-the-kenyan-e-commerce-outfit-rakes-in-20m-to-push-toward-profitability/)
 - [South African e-commerce startup TUNL gets funding to accelerate growth of its exports platform](https://techcrunch.com/2023/12/13/south-african-e-commerce-startup-tunl-gets-funding-to-accelerate-growth-of-its-exports-platform/)
 - [Hyperplane wants to bring AI to banks](https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/)
 - [Metafuels lands $8 million bet on greener skies ahead](https://techcrunch.com/2023/12/12/metafuels-8m/)
 - [Procurement software startup Pivot raises $21.6 million just a few months after its creation](https://techcrunch.com/2023/12/12/procurement-software-startup-pivot-raises-216-million-just-a-few-months-after-its-creation/)
-- [Meta aims to brings its fact-checking program to Threads next year](https://techcrunch.com/2023/12/12/meta-aims-to-brings-its-fact-checking-program-to-threads-next-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
