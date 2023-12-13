@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram’s status feature now lets you post short video updates](https://techcrunch.com/2023/12/13/instagrams-status-feature-now-lets-you-post-short-video-updates/)
-- [Globetrotter’s new app is a ‘Spotify Wrapped’ for your travel memories](https://techcrunch.com/2023/12/13/globetrotters-new-app-is-a-spotify-wrapped-for-your-travel-memories/)
+- [Watch SpaceX Dragon undock from the ISS on Dec. 15 after delay](https://www.space.com/spacex-dragon-crs-29-international-space-station-undocking-webcast)
+- [The Geminid meteor shower of 2023 peaks tonight. Here&#39;s how to watch live online.](https://www.space.com/geminid-meteor-shower-webcasts-dec-2023)
 - [The best places in Canada to see the 2024 total solar eclipse](https://www.space.com/solar-eclipse-2024-best-canada-viewing-locations)
 - [What X needs most now is for Snap to post a solid Q4](https://techcrunch.com/2023/12/13/what-x-needs-most-now-is-for-snap-to-post-a-solid-q4/)
 - [With AI Studio, Google launches an easy-to-use tool for developing apps and chatbots based on its Gemini model](https://techcrunch.com/2023/12/13/with-ai-studio-google-launches-an-easy-to-use-tool-for-developing-apps-and-chatbots-based-on-its-gemini-model/)
