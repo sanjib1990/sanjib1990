@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Worldcoin adds integrations with Minecraft, Reddit, Telegram, Shopify and Mercado Libre](https://techcrunch.com/2023/12/13/worldcoin-integration-reddit-telegram-shopify/)
-- [Watch Japanese startup test engine that will run on cow-dung methane &lpar;video&rpar;](https://www.space.com/japanese-startup-biomethane-rocket-engine-test-video)
-- [European Union lawmakers agree deal to bolster gig worker rights](https://techcrunch.com/2023/12/13/eu-platform-worker-directive-political-deal/)
+- [With AI Studio, Google launches an easy-to-use tool for developing apps and chatbots based on its Gemini model](https://techcrunch.com/2023/12/13/with-ai-studio-google-launches-an-easy-to-use-tool-for-developing-apps-and-chatbots-based-on-its-gemini-model/)
+- [Why Automattic spent $50M on Texts.com](https://techcrunch.com/2023/12/13/why-automattic-spent-50m-on-texts-com/)
+- [What’s next for Texts.com under new owner Automattic, as Apple cracks down on rival Beeper](https://techcrunch.com/2023/12/13/whats-next-for-texts-com-under-new-owner-automattic-as-apple-cracks-down-on-rival-beeper/)
+- [Andalusia Labs raises $48M Series A to improve digital asset risk infrastructure](https://techcrunch.com/2023/12/13/andalusia-labs-series-a-fundraise/)
+- [Duet AI for Developers, Google’s GitHub Copilot competitor, is now generally available and will soon use the Gemini model](https://techcrunch.com/2023/12/13/duet-ai-for-developers-googles-github-copilot-competitor-is-now-generally-available-and-will-soon-use-the-gemini-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
