@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Verve Motion raises $20M to grow its exosuit business](https://techcrunch.com/2023/12/13/verve-motion-raises-20m-to-grow-its-exosuit-business/)
-- [NASA building giant Artemis 2 moon rocket ahead of 2024 launch](https://www.space.com/artemis-2-moon-mission-rockets-2024-launch)
-- [Zuper dons field service management cape for small business, enterprise customers](https://techcrunch.com/2023/12/13/zuper-field-service-management-small-business-enterprise/)
-- [Massive &#39;lighthouses&#39; on the moon could light the way for future lunar astronauts](https://www.space.com/moon-lighthouse-technology-honeybee-robotics)
-- [Guardz collects $18M to expand its AI-based security platform for SMBs](https://techcrunch.com/2023/12/13/guardz-collects-18m-to-expand-its-ai-based-security-platform-for-smbs/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Worldcoin adds integrations with Minecraft, Reddit, Telegram, Shopify and Mercado Libre](https://techcrunch.com/2023/12/13/worldcoin-integration-reddit-telegram-shopify/)
+- [Watch Japanese startup test engine that will run on cow-dung methane &lpar;video&rpar;](https://www.space.com/japanese-startup-biomethane-rocket-engine-test-video)
+- [European Union lawmakers agree deal to bolster gig worker rights](https://techcrunch.com/2023/12/13/eu-platform-worker-directive-political-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
