@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise leaders booted following initial safety probe](https://techcrunch.com/2023/12/13/cruise-leaders-booted-following-initial-safety-probe/)
+- [Mars&#39; atmosphere swelled like a balloon when solar wind stopped blowing. Scientists are thrilled](https://www.space.com/mars-atmosphere-unexpected-solar-wind-disappearance)
 - [TikTok car confessionals are the new YouTube bedroom vlogs](https://techcrunch.com/2023/12/13/tiktok-car-confessionals-are-the-new-youtube-bedroom-vlogs/)
 - [Eirsat-1, Ireland&#39;s 1st satellite, makes space history](https://www.space.com/ireland-first-satellite-eirsat-1)
 - [Epic Games won its antitrust battle with Google. But what comes next?](https://techcrunch.com/2023/12/13/epic-games-won-its-antitrust-battle-with-google-but-what-comes-next/)
-- [Underwater volcano riding a sinking tectonic plate may have unleashed major earthquakes in Japan](https://www.space.com/underwater-volcano-sinking-tectonic-plate-japan-earthquakes)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2023/12/13/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
