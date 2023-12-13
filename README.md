@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Christmas camera deal: $900 off Canon EOS R5 in lowest ever price!](https://www.space.com/canon-eos-r5-christmas-camera-deal-holiday-savings-900-off)
+- [Kakao names Shina Chung, previously its VC lead, as new CEO amid ongoing crisis](https://techcrunch.com/2023/12/13/kakao-names-shina-chung-previously-its-vc-lead-as-its-new-ceo-amid-ongoing-crisis/)
+- [Star projectors Christmas gift guide 2023: Bring space home](https://www.space.com/star-projector-home-planetarium-christmas-gift-guide)
 - [The Geminid meteor shower peaks tonight. Here&#39;s what weather you can expect in the US](https://www.space.com/geminid-meteor-shower-weather-forecast-2023)
 - [China’s autonomous vehicle regulation requires safety operators, in-car recordings](https://techcrunch.com/2023/12/13/chinas-autonomous-vehicle-regulation-requires-safety-operators-in-car-recordings/)
-- [Ex-Metaswitch CEO John Lazar joins Copia’s board as the Kenyan e-commerce outfit rakes in $20M to push toward profitability](https://techcrunch.com/2023/12/13/ex-metaswitch-ceo-john-lazar-joins-copias-board-as-the-kenyan-e-commerce-outfit-rakes-in-20m-to-push-toward-profitability/)
-- [South African e-commerce startup TUNL gets funding to accelerate growth of its exports platform](https://techcrunch.com/2023/12/13/south-african-e-commerce-startup-tunl-gets-funding-to-accelerate-growth-of-its-exports-platform/)
-- [Hyperplane wants to bring AI to banks](https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
