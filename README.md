@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Christmas camera deal: $900 off Canon EOS R5 in lowest ever price!](https://www.space.com/canon-eos-r5-christmas-camera-deal-holiday-savings-900-off)
-- [Kakao names Shina Chung, previously its VC lead, as new CEO amid ongoing crisis](https://techcrunch.com/2023/12/13/kakao-names-shina-chung-previously-its-vc-lead-as-its-new-ceo-amid-ongoing-crisis/)
-- [Star projectors Christmas gift guide 2023: Bring space home](https://www.space.com/star-projector-home-planetarium-christmas-gift-guide)
-- [The Geminid meteor shower peaks tonight. Here&#39;s what weather you can expect in the US](https://www.space.com/geminid-meteor-shower-weather-forecast-2023)
-- [China’s autonomous vehicle regulation requires safety operators, in-car recordings](https://techcrunch.com/2023/12/13/chinas-autonomous-vehicle-regulation-requires-safety-operators-in-car-recordings/)
+- [Verve Motion raises $20M to grow its exosuit business](https://techcrunch.com/2023/12/13/verve-motion-raises-20m-to-grow-its-exosuit-business/)
+- [NASA building giant Artemis 2 moon rocket ahead of 2024 launch](https://www.space.com/artemis-2-moon-mission-rockets-2024-launch)
+- [Zuper dons field service management cape for small business, enterprise customers](https://techcrunch.com/2023/12/13/zuper-field-service-management-small-business-enterprise/)
+- [Massive &#39;lighthouses&#39; on the moon could light the way for future lunar astronauts](https://www.space.com/moon-lighthouse-technology-honeybee-robotics)
+- [Guardz collects $18M to expand its AI-based security platform for SMBs](https://techcrunch.com/2023/12/13/guardz-collects-18m-to-expand-its-ai-based-security-platform-for-smbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
