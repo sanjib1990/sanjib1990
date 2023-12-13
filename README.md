@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Defining Regular Expressions &lpar;RegEx&rpar; - Computerphile](https://www.youtube.com/watch?v=Qn_vjKYfwak)
 - [The shocking result of Epic Games vs Google](https://www.youtube.com/watch?v=gVzHNGyA_a4)
 - [Elon’s &quot;based&quot; Grok AI has entered the chat…](https://www.youtube.com/watch?v=CgruI1RjH_c)
 - [The Gemini Lie](https://www.youtube.com/watch?v=90CYYfl9ntM)
 - [Google&#39;s Gemini just made GPT-4 look like a baby’s toy?](https://www.youtube.com/watch?v=q5qAVmXSecQ)
-- [Optimising Code - Computerphile](https://www.youtube.com/watch?v=K62EMzueWwA)
 <!-- YOUTUBE:END -->
 
 ---
