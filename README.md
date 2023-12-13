@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Geminid meteor shower peaks tonight. Here&#39;s what weather you can expect in the US](https://www.space.com/geminid-meteor-shower-weather-forecast-2023)
+- [China’s autonomous vehicle regulation requires safety operators, in-car recordings](https://techcrunch.com/2023/12/13/chinas-autonomous-vehicle-regulation-requires-safety-operators-in-car-recordings/)
 - [Ex-Metaswitch CEO John Lazar joins Copia’s board as the Kenyan e-commerce outfit rakes in $20M to push toward profitability](https://techcrunch.com/2023/12/13/ex-metaswitch-ceo-john-lazar-joins-copias-board-as-the-kenyan-e-commerce-outfit-rakes-in-20m-to-push-toward-profitability/)
 - [South African e-commerce startup TUNL gets funding to accelerate growth of its exports platform](https://techcrunch.com/2023/12/13/south-african-e-commerce-startup-tunl-gets-funding-to-accelerate-growth-of-its-exports-platform/)
 - [Hyperplane wants to bring AI to banks](https://techcrunch.com/2023/12/13/hyperplane-wants-to-bring-ai-to-banks/)
-- [Metafuels lands $8 million bet on greener skies ahead](https://techcrunch.com/2023/12/12/metafuels-8m/)
-- [Procurement software startup Pivot raises $21.6 million just a few months after its creation](https://techcrunch.com/2023/12/12/procurement-software-startup-pivot-raises-216-million-just-a-few-months-after-its-creation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
