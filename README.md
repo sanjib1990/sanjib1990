@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kapital secures $165M in equity, debt to provide financial visibility to LatAm SMBs](https://techcrunch.com/2023/12/14/kapital-165m-fintech-latin-america-small-business/)
-- [Lolli raises $8M Series B to expand its bitcoin and cashback rewards to enterprises](https://techcrunch.com/2023/12/14/lolli-raises-8m-series-b-to-expand-its-bitcoin-and-cashback-rewards-to-enterprises/)
-- [Linktree acquires link-in-bio platform Koji in its second investment of the year](https://techcrunch.com/2023/12/14/linktree-acquires-link-in-bio-platform-koji-in-its-second-investment-of-the-year/)
-- [Watch Rocket Lab return to flight with satellite launch tonight](https://www.space.com/rocket-lab-return-to-flight-moon-god-awakens-launch)
-- [Distributional wants to develop software to reduce AI risk](https://techcrunch.com/2023/12/14/distributional-wants-to-develop-software-to-reduce-ai-risk/)
+- [Supply chain attack targeting Ledger crypto wallet leaves users hacked](https://techcrunch.com/2023/12/14/supply-chain-attack-targeting-ledger-crypto-wallet-leaves-users-hacked/)
+- [Prevu hopes cash-back rebates will help sell homes online](https://techcrunch.com/2023/12/14/prevu-hopes-cash-back-rebates-will-help-sell-homes-online/)
+- [Space weather is chaotic and hard to predict. This new model could change that](https://www.space.com/mage-space-weather-model-improve-solar-storm-forecast)
+- [Amazon’s Project Kuiper confirms its super-fast satellite communication tech works in space](https://techcrunch.com/2023/12/14/amazons-project-kuiper-confirms-its-super-fast-satellite-communication-tech-works-in-space/)
+- [Apple again targets iMessage-on-Android app Beeper, but company claims it has a fix](https://techcrunch.com/2023/12/14/apple-again-targets-imessage-on-android-app-beeper-but-company-claims-it-has-a-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
