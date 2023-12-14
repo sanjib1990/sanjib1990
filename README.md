@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getaround’s Q3 earnings delight investors, but the company isn’t out of the woods yet](https://techcrunch.com/2023/12/14/getarounds-q3-earnings-delight-investors-but-the-company-isnt-out-of-the-woods-yet/)
+- [See the Geminid meteor shower 2023 light up the sky in these amazing photos](https://www.space.com/geminid-meteor-shower-amazing-photos-december-2023)
+- [MrBeast’s analytics platform ViewStats is out in beta](https://techcrunch.com/2023/12/14/mrbeasts-analytics-platform-viewstats-is-out-in-beta/)
 - [Sun unleashes monster X-class solar flare, most powerful since 2017 &lpar;video&rpar;](https://www.space.com/sun-x-flare-december-2023-most-powerful-since-2017)
 - [Waymo launches curbside robotaxi pickup at Phoenix airport](https://techcrunch.com/2023/12/14/waymo-launches-curbside-robotaxi-pickup-at-phoenix-airport/)
-- [Aurora-like &#39;Steve&#39; phenomenon and glowing &#39;picket fences&#39; point to unknown exotic physics](https://www.space.com/aurora-steve-picket-fence-phenomena-exotic-physics-earth-atmosphere)
-- [7 stellar photography gifts that won’t break the bank in 2023](https://techcrunch.com/2023/12/14/7-stellar-photography-gifts-that-wont-break-the-bank-in-2023/)
-- [Crypto hacks and chaos aren’t halting this holiday season](https://techcrunch.com/2023/12/14/crypto-hacks-and-chaos-arent-halting-this-holiday-season/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
