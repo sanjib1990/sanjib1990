@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy complaint takes aim at Musk’s X over EU ads targeted on sensitive data](https://techcrunch.com/2023/12/13/noyb-gdpr-complaint-x/)
+- [LineNext secures $140M funding for its web3 platform](https://techcrunch.com/2023/12/13/linenext-secures-140m-funding-for-its-web3-service/)
 - [Berlin climate startup ecoworks is using a high tech blend to decarbonize buildings](https://techcrunch.com/2023/12/13/ecoworks-series-a/)
 - [Twitch’s new nudity policy allows illustrated nipples, but not human underboob](https://techcrunch.com/2023/12/13/twitchs-new-nudity-policy-allows-illustrated-nipples-but-not-human-underboob-sexual-content-update/)
 - [Your robotaxi ride in China is monitored – with video and audio recordings](https://techcrunch.com/2023/12/13/china-autonomous-vehicle-driving-regulation/)
-- [The 2024 Chevy Blazer EV RS first drive: A worthy but pricey all-electric SUV](https://techcrunch.com/2023/12/13/the-2024-chevy-blazer-ev-rs-first-drive-worthy-but-pricey-all-electric-suv/)
-- [Cruise leaders booted following initial safety probe into robotaxi incident](https://techcrunch.com/2023/12/13/cruise-leaders-booted-following-initial-safety-probe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
