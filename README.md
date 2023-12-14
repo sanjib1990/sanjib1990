@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Nest Renew and OhmConnect merge into “Renew Home” with a $100M boost from Sidewalk Infrastructure Partners](https://techcrunch.com/2023/12/14/google-nest-renew-and-ohmconnect-merge-into-renew-home-with-a-100m-boost-from-sidewalk-infrastructure-partners/)
-- [Datalogz raises $5M to deal with your business intelligence sprawl](https://techcrunch.com/2023/12/14/datalogz-raises-5-million-to-cut-business-intelligence-costs-for-large-corporations/)
-- [Paris-based VC firm Singular raises $435 million for its second fund](https://techcrunch.com/2023/12/14/paris-based-vc-firm-singular-raises-435-million-for-its-second-fund/)
-- [Threads is finally available to users in the EU](https://techcrunch.com/2023/12/14/threads-is-finally-available-to-users-in-the-eu/)
-- [Encrypted email service Proton Mail gets its own desktop app](https://techcrunch.com/2023/12/14/proton-mail-email-desktop-calendar/)
+- [New &#39;For All Mankind&#39; patches feature 4th season Mars base and asteroid missions](https://www.space.com/icon-heroes-for-all-mankind-season-4-patches)
+- [ISS astronaut snaps amazing photos of icebergs from space](https://www.space.com/iss-astronaut-icebergs-south-atlantic-photos)
+- [Microsoft disrupts cybercrime operation selling fraudulent accounts to notorious hacking gang](https://techcrunch.com/2023/12/14/microsoft-disrupts-cybercrime-operation-selling-fraudulent-accounts-to-notorious-hacking-gang/)
+- [Playground Global closes Fund III with $410M for early-stage deep tech investments](https://techcrunch.com/2023/12/14/playground-global-fund-iii-410m-early-stage-deep-tech-venture-capital/)
+- [Google Nest Renew and OhmConnect merge into “Renew Home” with a $100M boost from SIP](https://techcrunch.com/2023/12/14/google-nest-renew-and-ohmconnect-merge-into-renew-home-with-a-100m-boost-from-sidewalk-infrastructure-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
