@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sun unleashes monster X-class solar flare, most powerful since 2017 &lpar;video&rpar;](https://www.space.com/sun-x-flare-december-2023-most-powerful-since-2017)
+- [Waymo launches curbside robotaxi pickup at Phoenix airport](https://techcrunch.com/2023/12/14/waymo-launches-curbside-robotaxi-pickup-at-phoenix-airport/)
+- [Aurora-like &#39;Steve&#39; phenomenon and glowing &#39;picket fences&#39; point to unknown exotic physics](https://www.space.com/aurora-steve-picket-fence-phenomena-exotic-physics-earth-atmosphere)
+- [7 stellar photography gifts that won’t break the bank in 2023](https://techcrunch.com/2023/12/14/7-stellar-photography-gifts-that-wont-break-the-bank-in-2023/)
 - [Crypto hacks and chaos aren’t halting this holiday season](https://techcrunch.com/2023/12/14/crypto-hacks-and-chaos-arent-halting-this-holiday-season/)
-- [Tiny 14-inch satellite studies &#39;hot Jupiter&#39; exoplanets evaporating into space](https://www.space.com/tiny-cute-satellite-hot-jupiter-evaporating-space)
-- [A16Z will give literally any politician money if they help deregulate tech](https://techcrunch.com/2023/12/14/a16z-will-give-literally-any-politician-money-if-they-help-deregulate-tech/)
-- [Agility is using large language models to communicate with its humanoid robots](https://techcrunch.com/2023/12/14/agility-is-using-large-language-models-to-communicate-with-its-humanoid-robots/)
-- [Three years after its revamp, Firefox’s Android browser adds 450+ new extensions](https://techcrunch.com/2023/12/14/three-years-after-its-revamp-firefoxs-android-browser-adds-450-new-extensions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
