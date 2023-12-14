@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Twitch’s new nudity policy allows illustrated nipples, but not human underboob](https://techcrunch.com/2023/12/13/twitchs-new-nudity-policy-allows-illustrated-nipples-but-not-human-underboob-sexual-content-update/)
+- [Your robotaxi ride in China is monitored – with video and audio recordings](https://techcrunch.com/2023/12/13/china-autonomous-vehicle-driving-regulation/)
 - [The 2024 Chevy Blazer EV RS first drive: A worthy but pricey all-electric SUV](https://techcrunch.com/2023/12/13/the-2024-chevy-blazer-ev-rs-first-drive-worthy-but-pricey-all-electric-suv/)
 - [Cruise leaders booted following initial safety probe into robotaxi incident](https://techcrunch.com/2023/12/13/cruise-leaders-booted-following-initial-safety-probe/)
 - [Mars&#39; atmosphere swelled like a balloon when solar wind stopped blowing. Scientists are thrilled](https://www.space.com/mars-atmosphere-unexpected-solar-wind-disappearance)
-- [TikTok car confessionals are the new YouTube bedroom vlogs](https://techcrunch.com/2023/12/13/tiktok-car-confessionals-are-the-new-youtube-bedroom-vlogs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
