@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New &#39;For All Mankind&#39; patches feature 4th season Mars base and asteroid missions](https://www.space.com/icon-heroes-for-all-mankind-season-4-patches)
-- [ISS astronaut snaps amazing photos of icebergs from space](https://www.space.com/iss-astronaut-icebergs-south-atlantic-photos)
-- [Microsoft disrupts cybercrime operation selling fraudulent accounts to notorious hacking gang](https://techcrunch.com/2023/12/14/microsoft-disrupts-cybercrime-operation-selling-fraudulent-accounts-to-notorious-hacking-gang/)
-- [Playground Global closes Fund III with $410M for early-stage deep tech investments](https://techcrunch.com/2023/12/14/playground-global-fund-iii-410m-early-stage-deep-tech-venture-capital/)
-- [Google Nest Renew and OhmConnect merge into “Renew Home” with a $100M boost from SIP](https://techcrunch.com/2023/12/14/google-nest-renew-and-ohmconnect-merge-into-renew-home-with-a-100m-boost-from-sidewalk-infrastructure-partners/)
+- [Kapital secures $165M in equity, debt to provide financial visibility to LatAm SMBs](https://techcrunch.com/2023/12/14/kapital-165m-fintech-latin-america-small-business/)
+- [Lolli raises $8M Series B to expand its bitcoin and cashback rewards to enterprises](https://techcrunch.com/2023/12/14/lolli-raises-8m-series-b-to-expand-its-bitcoin-and-cashback-rewards-to-enterprises/)
+- [Linktree acquires link-in-bio platform Koji in its second investment of the year](https://techcrunch.com/2023/12/14/linktree-acquires-link-in-bio-platform-koji-in-its-second-investment-of-the-year/)
+- [Watch Rocket Lab return to flight with satellite launch tonight](https://www.space.com/rocket-lab-return-to-flight-moon-god-awakens-launch)
+- [Distributional wants to develop software to reduce AI risk](https://techcrunch.com/2023/12/14/distributional-wants-to-develop-software-to-reduce-ai-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
