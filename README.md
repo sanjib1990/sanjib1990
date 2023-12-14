@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads is finally available to users in the EU](https://techcrunch.com/2023/12/14/threads-is-finally-available-to-users-in-the-eu/)
+- [Encrypted email service Proton Mail gets its own desktop app](https://techcrunch.com/2023/12/14/proton-mail-email-desktop-calendar/)
+- [Could we defend Earth against a &#39;rubble pile&#39; asteroid?](https://www.space.com/asteroids-rubble-piles-earth-planetary-defense)
+- [Save 33% on this Christmas beginner telescope deal](https://www.space.com/celestron-astromaster-70-az-christmas-holiday-season-telescope-deal-2023-deal)
 - [Instagram introduces gen-AI powered background editing tool](https://techcrunch.com/2023/12/14/instagram-introduces-gen-ai-powered-background-editing-tool/)
-- [Camera photos &amp; videos Christmas gift guide 2023: Capture the cosmos](https://www.space.com/camera-photography-videography-christmas-gift-guide)
-- [Qogita — a wholesale marketplace for retailers — raises $86M Series B to compete with Ankorstore in Europe](https://techcrunch.com/2023/12/14/qogita-raises-86m-series-b-to-compete-with-ankorstore-in-europe/)
-- [India’s Udaan scores $340 million in new funding](https://techcrunch.com/2023/12/14/india-udaan-scores-340-million-in-new-funding/)
-- [Jumia discontinues food delivery across seven markets, shifts focus to expanding physical goods business](https://techcrunch.com/2023/12/14/jumia-discontinues-food-delivery-across-seven-markets-shifts-focus-to-expanding-physical-goods-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
