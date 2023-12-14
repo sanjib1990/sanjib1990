@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One-click checkout company Bolt confirms another round of layoffs](https://techcrunch.com/2023/12/14/one-click-checkout-bolt-another-round-of-layoffs/)
+- [Credit Karma co-founder Nichole Mustard stepping down after more than 16 years](https://techcrunch.com/2023/12/14/credit-karma-co-founder-nichole-mustard-stepping-down-after-more-than-16-years/)
 - [Getaround’s Q3 earnings delight investors, but the company isn’t out of the woods yet](https://techcrunch.com/2023/12/14/getarounds-q3-earnings-delight-investors-but-the-company-isnt-out-of-the-woods-yet/)
 - [See the Geminid meteor shower 2023 light up the sky in these amazing photos](https://www.space.com/geminid-meteor-shower-amazing-photos-december-2023)
 - [MrBeast’s analytics platform ViewStats is out in beta](https://techcrunch.com/2023/12/14/mrbeasts-analytics-platform-viewstats-is-out-in-beta/)
-- [Sun unleashes monster X-class solar flare, most powerful since 2017 &lpar;video&rpar;](https://www.space.com/sun-x-flare-december-2023-most-powerful-since-2017)
-- [Waymo launches curbside robotaxi pickup at Phoenix airport](https://techcrunch.com/2023/12/14/waymo-launches-curbside-robotaxi-pickup-at-phoenix-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
