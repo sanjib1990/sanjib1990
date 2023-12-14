@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Social commerce platform Maka raises $2.65M to simplify buying fashion and beauty products in Africa](https://techcrunch.com/2023/12/13/social-commerce-platform-maka-raises-2-65m-to-simplify-buying-fashion-and-beauty-products-in-africa/)
 - [Privacy complaint takes aim at Musk’s X over EU ads targeted on sensitive data](https://techcrunch.com/2023/12/13/noyb-gdpr-complaint-x/)
 - [LineNext secures $140M funding for its web3 platform](https://techcrunch.com/2023/12/13/linenext-secures-140m-funding-for-its-web3-service/)
 - [Berlin climate startup ecoworks is using a high tech blend to decarbonize buildings](https://techcrunch.com/2023/12/13/ecoworks-series-a/)
 - [Twitch’s new nudity policy allows illustrated nipples, but not human underboob](https://techcrunch.com/2023/12/13/twitchs-new-nudity-policy-allows-illustrated-nipples-but-not-human-underboob-sexual-content-update/)
-- [Your robotaxi ride in China is monitored – with video and audio recordings](https://techcrunch.com/2023/12/13/china-autonomous-vehicle-driving-regulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
