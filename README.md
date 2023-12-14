@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA&#39;s launch mishap investigations need a rethink, government report finds](https://www.space.com/faa-rethink-space-launch-mishap-investigations)
+- [China launches secret space plane on 3rd-ever mission](https://www.space.com/china-space-plane-launch-x-37b-delay)
 - [SETI&#39;s 1st &#39;conversation&#39; with a humpback whale offers insight on how to talk to E.T.](https://www.space.com/seti-whale-conversation-extraterrestrial-communication)
 - [Humans could use black holes as batteries, physics paper claims. Here&#39;s how.](https://www.space.com/humans-use-black-holes-as-batteries-physics-paper)
 - [Climactic launches first fund as its partners eye looming M&amp;A boom in climate tech](https://techcrunch.com/2023/12/14/climactic-inaugural-fund/)
-- [OpenAI thinks superhuman AI is coming — and wants to build tools to control it](https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/)
-- [Temu’s latest lawsuit against Shein is wild](https://techcrunch.com/2023/12/14/temus-lawsuit-shein/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
