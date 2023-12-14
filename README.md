@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Nest Renew and OhmConnect merge into “Renew Home” with a $100M boost from Sidewalk Infrastructure Partners](https://techcrunch.com/2023/12/14/google-nest-renew-and-ohmconnect-merge-into-renew-home-with-a-100m-boost-from-sidewalk-infrastructure-partners/)
+- [Datalogz raises $5M to deal with your business intelligence sprawl](https://techcrunch.com/2023/12/14/datalogz-raises-5-million-to-cut-business-intelligence-costs-for-large-corporations/)
+- [Paris-based VC firm Singular raises $435 million for its second fund](https://techcrunch.com/2023/12/14/paris-based-vc-firm-singular-raises-435-million-for-its-second-fund/)
 - [Threads is finally available to users in the EU](https://techcrunch.com/2023/12/14/threads-is-finally-available-to-users-in-the-eu/)
 - [Encrypted email service Proton Mail gets its own desktop app](https://techcrunch.com/2023/12/14/proton-mail-email-desktop-calendar/)
-- [Could we defend Earth against a &#39;rubble pile&#39; asteroid?](https://www.space.com/asteroids-rubble-piles-earth-planetary-defense)
-- [Save 33% on this Christmas beginner telescope deal](https://www.space.com/celestron-astromaster-70-az-christmas-holiday-season-telescope-deal-2023-deal)
-- [Instagram introduces gen-AI powered background editing tool](https://techcrunch.com/2023/12/14/instagram-introduces-gen-ai-powered-background-editing-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
