@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The mission to discover the mystery origin of Mars’ moons](https://www.space.com/mission-to-mars-moons-origin)
-- [Boston Dynamics joins forces with firm behind ‘Avatar,’ ‘Jurassic Park’ animatronics](https://techcrunch.com/2023/12/14/boston-dynamics-joins-forces-with-firm-behind-avatar-jurassic-park-animatronics/)
-- [Cruise slashes 24% of self-driving car workforce in sweeping layoffs](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/)
-- [Mastodon founder touts Threads’ federation, saying it makes his X rival ‘a far more attractive option’](https://techcrunch.com/2023/12/14/mastodon-founder-touts-threads-federation-saying-it-makes-his-x-rival-a-far-more-attractive-option/)
-- [Supply chain attack targeting Ledger crypto wallet leaves users hacked](https://techcrunch.com/2023/12/14/supply-chain-attack-targeting-ledger-crypto-wallet-leaves-users-hacked/)
+- [Humans could use black holes as batteries, physics paper claims. Here&#39;s how.](https://www.space.com/humans-use-black-holes-as-batteries-physics-paper)
+- [Climactic launches first fund as its partners eye looming M&amp;A boom in climate tech](https://techcrunch.com/2023/12/14/climactic-inaugural-fund/)
+- [OpenAI thinks superhuman AI is coming — and wants to build tools to control it](https://techcrunch.com/2023/12/14/openai-thinks-superhuman-ai-is-coming-and-wants-to-build-tools-to-control-it/)
+- [Temu’s latest lawsuit against Shein is wild](https://techcrunch.com/2023/12/14/temus-lawsuit-shein/)
+- [Spotify confirms test of prompt-based AI playlists feature](https://techcrunch.com/2023/12/14/spotify-confirms-test-of-prompt-based-ai-playlists-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
