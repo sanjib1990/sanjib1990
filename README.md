@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The mission to discover the mystery origin of Mars’ moons](https://www.space.com/mission-to-mars-moons-origin)
+- [Boston Dynamics joins forces with firm behind ‘Avatar,’ ‘Jurassic Park’ animatronics](https://techcrunch.com/2023/12/14/boston-dynamics-joins-forces-with-firm-behind-avatar-jurassic-park-animatronics/)
+- [Cruise slashes 24% of self-driving car workforce in sweeping layoffs](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/)
+- [Mastodon founder touts Threads’ federation, saying it makes his X rival ‘a far more attractive option’](https://techcrunch.com/2023/12/14/mastodon-founder-touts-threads-federation-saying-it-makes-his-x-rival-a-far-more-attractive-option/)
 - [Supply chain attack targeting Ledger crypto wallet leaves users hacked](https://techcrunch.com/2023/12/14/supply-chain-attack-targeting-ledger-crypto-wallet-leaves-users-hacked/)
-- [Prevu hopes cash-back rebates will help sell homes online](https://techcrunch.com/2023/12/14/prevu-hopes-cash-back-rebates-will-help-sell-homes-online/)
-- [Space weather is chaotic and hard to predict. This new model could change that](https://www.space.com/mage-space-weather-model-improve-solar-storm-forecast)
-- [Amazon’s Project Kuiper confirms its super-fast satellite communication tech works in space](https://techcrunch.com/2023/12/14/amazons-project-kuiper-confirms-its-super-fast-satellite-communication-tech-works-in-space/)
-- [Apple again targets iMessage-on-Android app Beeper, but company claims it has a fix](https://techcrunch.com/2023/12/14/apple-again-targets-imessage-on-android-app-beeper-but-company-claims-it-has-a-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
