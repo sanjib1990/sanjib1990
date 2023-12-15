@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The cloud stock rally could help inch open the IPO window in 2024](https://techcrunch.com/2023/12/15/cloud-stock-rally-ipo-2024/)
+- [US government agencies join together to improve space weather forecasting](https://www.space.com/space-weather-forecasting-us-government-interagency-agreement)
+- [Instagram launches customizable ‘Add Yours’ templates](https://techcrunch.com/2023/12/15/instagram-add-yours-template-story-sticker/)
+- [Pitch Deck Teardown: Metafuels’ $8M climate tech seed deck](https://techcrunch.com/2023/12/15/sample-seed-pitch-deck-metafuels/)
 - [Opendoor co-founder Eric Wu is stepping down to return to his startup roots](https://techcrunch.com/2023/12/15/opendoor-co-founder-eric-wu-is-stepping-down-to-return-to-his-startup-roots/)
-- [&#39;What is that material?&#39;: Potentially hazardous asteroid Bennu stumps scientists with its odd makeup](https://www.space.com/potentially-hazardous-asteroid-bennu-samples-stump-scientists)
-- [Startups must embrace sustainable scaling strategies](https://techcrunch.com/2023/12/15/startups-must-embrace-sustainable-scaling-strategies/)
-- [Cruise layoffs, exosuits, and why French startups are bubbling up](https://techcrunch.com/2023/12/15/cruise-layoffs-exosuits-and-why-french-startups-are-bubbling-up/)
-- [NASA reveals what 2 tomatoes look like after being lost in space for 8 months &lpar;video&rpar;](https://www.space.com/nasa-international-space-station-lost-tomatoes-photo-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
