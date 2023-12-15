@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In the fight against Methane, a key GHG, Valley investors have hit upon an unusual target: Cow burps](https://techcrunch.com/2023/12/15/in-the-fight-against-methane-a-key-ghg-valley-investors-have-hit-upon-an-unusual-target-cow-burps/)
+- [Saturn V moon rocket art revealed for 2024 American Innovation $1 coin](https://www.space.com/saturn-v-moon-rocket-alabama-innovation-2024-coin-design)
 - [Is humanity prepared for contact with intelligent aliens?](https://www.space.com/contact-intelligent-aliens-is-humanity-prepared)
 - [SpaceX to launch 1st batch of &#39;direct to cell&#39; Starlink satellites early Dec. 15](https://www.space.com/spacex-starlink-launch-group-7-9)
 - [What is happening with all these new venture funds?](https://techcrunch.com/2023/12/14/what-is-happening-with-all-these-new-venture-funds/)
-- [One-click checkout company Bolt confirms another round of layoffs](https://techcrunch.com/2023/12/14/one-click-checkout-bolt-another-round-of-layoffs/)
-- [Credit Karma co-founder Nichole Mustard stepping down after more than 16 years](https://techcrunch.com/2023/12/14/credit-karma-co-founder-nichole-mustard-stepping-down-after-more-than-16-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
