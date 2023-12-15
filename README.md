@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is humanity prepared for contact with intelligent aliens?](https://www.space.com/contact-intelligent-aliens-is-humanity-prepared)
 - [SpaceX to launch 1st batch of &#39;direct to cell&#39; Starlink satellites early Dec. 15](https://www.space.com/spacex-starlink-launch-group-7-9)
 - [What is happening with all these new venture funds?](https://techcrunch.com/2023/12/14/what-is-happening-with-all-these-new-venture-funds/)
 - [One-click checkout company Bolt confirms another round of layoffs](https://techcrunch.com/2023/12/14/one-click-checkout-bolt-another-round-of-layoffs/)
 - [Credit Karma co-founder Nichole Mustard stepping down after more than 16 years](https://techcrunch.com/2023/12/14/credit-karma-co-founder-nichole-mustard-stepping-down-after-more-than-16-years/)
-- [Getaround’s Q3 earnings delight investors, but the company isn’t out of the woods yet](https://techcrunch.com/2023/12/14/getarounds-q3-earnings-delight-investors-but-the-company-isnt-out-of-the-woods-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
