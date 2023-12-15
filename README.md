@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance Mars rover to climb crater rim next spring in bonus mission](https://www.space.com/mars-rover-perseverance-climb-jezero-crater-rim-spring-2024)
+- [News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line](https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/)
 - [The cloud stock rally could help inch open the IPO window in 2024](https://techcrunch.com/2023/12/15/cloud-stock-rally-ipo-2024/)
 - [US government agencies join together to improve space weather forecasting](https://www.space.com/space-weather-forecasting-us-government-interagency-agreement)
 - [Instagram launches customizable ‘Add Yours’ templates](https://techcrunch.com/2023/12/15/instagram-add-yours-template-story-sticker/)
-- [Pitch Deck Teardown: Metafuels’ $8M climate tech seed deck](https://techcrunch.com/2023/12/15/sample-seed-pitch-deck-metafuels/)
-- [Opendoor co-founder Eric Wu is stepping down to return to his startup roots](https://techcrunch.com/2023/12/15/opendoor-co-founder-eric-wu-is-stepping-down-to-return-to-his-startup-roots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
