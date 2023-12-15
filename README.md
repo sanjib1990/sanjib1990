@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best funding options for late-stage startups](https://techcrunch.com/2023/12/15/the-best-funding-options-for-late-stage-startups/)
+- [This ISS mission could &#39;open some eyes&#39; about climate science](https://www.space.com/nasa-emit-mission-climate-science-big-picture-mineral-map-iss)
+- [When it comes to generative AI in the enterprise, CIOs are taking it slow](https://techcrunch.com/2023/12/15/when-it-comes-to-generative-ai-in-the-enterprise-cios-are-taking-it-slow/)
 - [Perseverance Mars rover to climb crater rim next spring in bonus mission](https://www.space.com/mars-rover-perseverance-climb-jezero-crater-rim-spring-2024)
 - [News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line](https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/)
-- [The cloud stock rally could help inch open the IPO window in 2024](https://techcrunch.com/2023/12/15/cloud-stock-rally-ipo-2024/)
-- [US government agencies join together to improve space weather forecasting](https://www.space.com/space-weather-forecasting-us-government-interagency-agreement)
-- [Instagram launches customizable ‘Add Yours’ templates](https://techcrunch.com/2023/12/15/instagram-add-yours-template-story-sticker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
