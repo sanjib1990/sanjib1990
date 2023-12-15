@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn moon Enceladus harbors key ingredient for life](https://www.space.com/moon-enceladus-harbors-key-ingredient-for-life)
+- [Apple agrees to pay out $25 million to settle lawsuit over Family Sharing](https://techcrunch.com/2023/12/15/apple-agrees-to-pay-out-25-million-to-settle-lawsuit-over-family-sharing/)
+- [&#39;For All Mankind&#39; season 4 episode 6 review: Culmination of a storyline decades in the making](https://www.space.com/for-all-mankind-season-4-episode-6-review)
 - [Investment in India is in free fall](https://techcrunch.com/2023/12/15/startups-weekly-investment-in-india-is-in-free-fall/)
 - [Robinhood is on a quest to dive deeper into crypto](https://techcrunch.com/2023/12/15/robinhood-is-on-a-quest-to-dive-deeper-into-crypto/)
-- [Ubiquiti fixes glitch that exposed private video streams to other customers](https://techcrunch.com/2023/12/15/ubiquiti-glitch-exposed-private-video-streams-other-customers/)
-- [NASA identifies 17 exoplanets with possible subsurface oceans](https://www.space.com/nasa-17-exoplanets-liquid-oceans-beneath-surface)
-- [Twitch cracks down on boobs again by rolling back its ‘artistic nudity’ policy](https://techcrunch.com/2023/12/15/twitch-rolls-back-artistic-nudity-sexual-content-policy-ai-nudes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
