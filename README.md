@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts meet President Biden to talk America&#39;s next trip to the moon](https://www.space.com/artemis-2-moon-astronauts-president-joe-biden-mission-plans)
 - [Saturn moon Enceladus harbors key ingredient for life](https://www.space.com/moon-enceladus-harbors-key-ingredient-for-life)
 - [Apple agrees to pay out $25 million to settle lawsuit over Family Sharing](https://techcrunch.com/2023/12/15/apple-agrees-to-pay-out-25-million-to-settle-lawsuit-over-family-sharing/)
 - [&#39;For All Mankind&#39; season 4 episode 6 review: Culmination of a storyline decades in the making](https://www.space.com/for-all-mankind-season-4-episode-6-review)
 - [Investment in India is in free fall](https://techcrunch.com/2023/12/15/startups-weekly-investment-in-india-is-in-free-fall/)
-- [Robinhood is on a quest to dive deeper into crypto](https://techcrunch.com/2023/12/15/robinhood-is-on-a-quest-to-dive-deeper-into-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
