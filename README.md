@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opendoor co-founder Eric Wu is stepping down to return to his startup roots](https://techcrunch.com/2023/12/15/opendoor-co-founder-eric-wu-is-stepping-down-to-return-to-his-startup-roots/)
+- [&#39;What is that material?&#39;: Potentially hazardous asteroid Bennu stumps scientists with its odd makeup](https://www.space.com/potentially-hazardous-asteroid-bennu-samples-stump-scientists)
+- [Startups must embrace sustainable scaling strategies](https://techcrunch.com/2023/12/15/startups-must-embrace-sustainable-scaling-strategies/)
 - [Cruise layoffs, exosuits, and why French startups are bubbling up](https://techcrunch.com/2023/12/15/cruise-layoffs-exosuits-and-why-french-startups-are-bubbling-up/)
 - [NASA reveals what 2 tomatoes look like after being lost in space for 8 months &lpar;video&rpar;](https://www.space.com/nasa-international-space-station-lost-tomatoes-photo-video)
-- [In Orbit Aerospace wants to be the third party logistics provider for science and industry](https://techcrunch.com/2023/12/15/in-orbit-aerospace-wants-to-unlock-mass-manufacturing-in-space-but-they-wont-be-doing-the-manufacturing/)
-- [Astronaut Chris Hadfield would love to fly SpaceX&#39;s Starship around the moon &lpar;exclusive&rpar;](https://www.space.com/astronaut-chris-hadfield-spacex-starship)
-- [Jagat, a location-based social network that focuses on real-life connections, surpasses 10M users](https://techcrunch.com/2023/12/15/jagat-location-based-social-network-focuses-on-real-life-connections-surpasses-10m-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
