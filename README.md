@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise layoffs, exosuits, and why French startups are bubbling up](https://techcrunch.com/2023/12/15/cruise-layoffs-exosuits-and-why-french-startups-are-bubbling-up/)
+- [NASA reveals what 2 tomatoes look like after being lost in space for 8 months &lpar;video&rpar;](https://www.space.com/nasa-international-space-station-lost-tomatoes-photo-video)
+- [In Orbit Aerospace wants to be the third party logistics provider for science and industry](https://techcrunch.com/2023/12/15/in-orbit-aerospace-wants-to-unlock-mass-manufacturing-in-space-but-they-wont-be-doing-the-manufacturing/)
 - [Astronaut Chris Hadfield would love to fly SpaceX&#39;s Starship around the moon &lpar;exclusive&rpar;](https://www.space.com/astronaut-chris-hadfield-spacex-starship)
 - [Jagat, a location-based social network that focuses on real-life connections, surpasses 10M users](https://techcrunch.com/2023/12/15/jagat-location-based-social-network-focuses-on-real-life-connections-surpasses-10m-users/)
-- [Why these 30 web3 founders are optimistic about 2024](https://techcrunch.com/2023/12/15/web3-founders-2024-expectations/)
-- [In the fight against Methane, a key GHG, Valley investors have hit upon an unusual target: Cow burps](https://techcrunch.com/2023/12/15/in-the-fight-against-methane-a-key-ghg-valley-investors-have-hit-upon-an-unusual-target-cow-burps/)
-- [Saturn V moon rocket art revealed for 2024 American Innovation $1 coin](https://www.space.com/saturn-v-moon-rocket-alabama-innovation-2024-coin-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
