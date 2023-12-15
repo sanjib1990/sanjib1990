@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best funding options for late-stage startups](https://techcrunch.com/2023/12/15/the-best-funding-options-for-late-stage-startups/)
-- [This ISS mission could &#39;open some eyes&#39; about climate science](https://www.space.com/nasa-emit-mission-climate-science-big-picture-mineral-map-iss)
-- [When it comes to generative AI in the enterprise, CIOs are taking it slow](https://techcrunch.com/2023/12/15/when-it-comes-to-generative-ai-in-the-enterprise-cios-are-taking-it-slow/)
-- [Perseverance Mars rover to climb crater rim next spring in bonus mission](https://www.space.com/mars-rover-perseverance-climb-jezero-crater-rim-spring-2024)
-- [News publisher files class action antitrust suit against Google, citing AI’s harms to their bottom line](https://techcrunch.com/2023/12/15/news-publisher-files-class-action-antitrust-suit-against-google-citing-ais-harms-to-their-bottom-line/)
+- [Investment in India is in free fall](https://techcrunch.com/2023/12/15/startups-weekly-investment-in-india-is-in-free-fall/)
+- [Robinhood is on a quest to dive deeper into crypto](https://techcrunch.com/2023/12/15/robinhood-is-on-a-quest-to-dive-deeper-into-crypto/)
+- [Ubiquiti fixes glitch that exposed private video streams to other customers](https://techcrunch.com/2023/12/15/ubiquiti-glitch-exposed-private-video-streams-other-customers/)
+- [NASA identifies 17 exoplanets with possible subsurface oceans](https://www.space.com/nasa-17-exoplanets-liquid-oceans-beneath-surface)
+- [Twitch cracks down on boobs again by rolling back its ‘artistic nudity’ policy](https://techcrunch.com/2023/12/15/twitch-rolls-back-artistic-nudity-sexual-content-policy-ai-nudes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
