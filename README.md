@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: Training the workforce for the clean energy transition](https://techcrunch.com/2023/12/16/deal-dive-training-the-workforce-for-the-clean-energy-transition/)
+- [This Week In Space podcast: Episode 91 — 2023 Holiday Special!](https://www.space.com/this-week-in-space-episode-91-year-in-review)
 - [Startups and physicians must unite to empower women’s health](https://techcrunch.com/2023/12/16/startups-and-physicians-must-unite-to-empower-womens-health/)
 - [Mace Windu honors Qui-Gon&#39;s final mission in upcoming &#39;Star Wars: The Glass Abyss&#39; novel](https://www.space.com/star-wars-novel-mace-windu-glass-abyss-preview)
 - [Robotics Q&amp;A with Nvidia’s Deepu Talla](https://techcrunch.com/2023/12/16/robotics-qa-with-nvidias-deepu-talla/)
-- [Some UFO records must be released, US Congress says](https://www.space.com/us-congress-ufo-records-declassified)
-- [Nikon Z8 vs Sony A7R V vs Canon EOS R5: Which camera is better?](https://www.space.com/nikon-z8-vs-sony-a7r-v-vs-canon-eos-r5-cameras)
 <!-- BLOG-POST-LIST:END -->
 
 ---
