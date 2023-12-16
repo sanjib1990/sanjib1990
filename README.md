@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Democracies are fragile, and hardware is hard](https://techcrunch.com/2023/12/16/agentic-tech-democracy-defense/)
 - [Google moves to end geofence warrants, a surveillance problem it largely created](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/)
 - [Robotics Q&amp;A with UC Berkeley’s Ken Goldberg](https://techcrunch.com/2023/12/16/robotics-qa-with-with-uc-berkeleys-ken-goldberg/)
 - [Deal Dive: Training the workforce for the clean energy transition](https://techcrunch.com/2023/12/16/deal-dive-training-the-workforce-for-the-clean-energy-transition/)
 - [This Week In Space podcast: Episode 91 — 2023 Holiday Special!](https://www.space.com/this-week-in-space-episode-91-year-in-review)
-- [Startups and physicians must unite to empower women’s health](https://techcrunch.com/2023/12/16/startups-and-physicians-must-unite-to-empower-womens-health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
