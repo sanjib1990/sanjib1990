@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some UFO records must be released, US Congress says](https://www.space.com/us-congress-ufo-records-declassified)
+- [Nikon Z8 vs Sony A7R V vs Canon EOS R5: Which camera is better?](https://www.space.com/nikon-z8-vs-sony-a7r-v-vs-canon-eos-r5-cameras)
 - [NASA donates Ingenuity Mars Helicopter prototype to Smithsonian](https://www.space.com/ingenuity-prototype-mars-helicopter-smithsonian-donation)
 - [SpaceX Falcon Heavy launch of X-37B space plane now targeted for Dec. 28](https://www.space.com/falcon-heavy-x-37b-launch-date-december-2023)
 - [How the songs of stars can help perfect Gaia&#39;s sweeping map of our galaxy](https://www.space.com/gaia-satellite-stars-music-distance-measurements-asteroseismology)
-- [AI plushie Grok, voiced by Grimes, was trademarked before Elon Musk’s Grok](https://techcrunch.com/2023/12/15/grimes-launches-ai-toy-brand-curio-grok/)
-- [World&#39;s best space-based thermometer dead 2 months after 1st image release](https://www.space.com/satellite-satvu-hotsat-dead-after-six-months)
 <!-- BLOG-POST-LIST:END -->
 
 ---
