@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mace Windu honors Qui-Gon&#39;s final mission in upcoming &#39;Star Wars: The Glass Abyss&#39; novel](https://www.space.com/star-wars-novel-mace-windu-glass-abyss-preview)
+- [Robotics Q&amp;A with Nvidia’s Deepu Talla](https://techcrunch.com/2023/12/16/robotics-qa-with-nvidias-deepu-talla/)
 - [Some UFO records must be released, US Congress says](https://www.space.com/us-congress-ufo-records-declassified)
 - [Nikon Z8 vs Sony A7R V vs Canon EOS R5: Which camera is better?](https://www.space.com/nikon-z8-vs-sony-a7r-v-vs-canon-eos-r5-cameras)
 - [NASA donates Ingenuity Mars Helicopter prototype to Smithsonian](https://www.space.com/ingenuity-prototype-mars-helicopter-smithsonian-donation)
-- [SpaceX Falcon Heavy launch of X-37B space plane now targeted for Dec. 28](https://www.space.com/falcon-heavy-x-37b-launch-date-december-2023)
-- [How the songs of stars can help perfect Gaia&#39;s sweeping map of our galaxy](https://www.space.com/gaia-satellite-stars-music-distance-measurements-asteroseismology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
