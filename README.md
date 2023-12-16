@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the songs of stars can help perfect Gaia&#39;s sweeping map of our galaxy](https://www.space.com/gaia-satellite-stars-music-distance-measurements-asteroseismology)
 - [AI plushie Grok, voiced by Grimes, was trademarked before Elon Musk’s Grok](https://techcrunch.com/2023/12/15/grimes-launches-ai-toy-brand-curio-grok/)
 - [World&#39;s best space-based thermometer dead 2 months after 1st image release](https://www.space.com/satellite-satvu-hotsat-dead-after-six-months)
 - [Startup True Anomaly snags $100 million for space security work](https://www.space.com/true-anomaly-space-surveillance-100-million-funding)
 - [Artemis 2 astronauts meet President Biden to talk America&#39;s next trip to the moon](https://www.space.com/artemis-2-moon-astronauts-president-joe-biden-mission-plans)
-- [Saturn moon Enceladus harbors key ingredient for life](https://www.space.com/moon-enceladus-harbors-key-ingredient-for-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
