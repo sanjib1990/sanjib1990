@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IT budgets should increase in 2024, but it still could be tough going for startups](https://techcrunch.com/2023/12/17/it-budgets-2024-predictions/)
 - [Fintech’s wild ride in 2023](https://techcrunch.com/2023/12/17/it-was-a-wild-ride-in-fintech-in-2023/)
 - [How many times has Earth orbited the sun?](https://www.space.com/how-many-times-has-earth-orbited-the-sun)
 - [The Rule of X and how cloud leaders should think about growth versus profit](https://techcrunch.com/2023/12/17/the-rule-of-x-and-how-cloud-leaders-should-think-about-growth-versus-profit/)
 - [A star exploded 10,000 years ago and left us with the gorgeous Veil Nebula &lpar;photo&rpar;](https://www.space.com/veil-nebula-photo)
-- [See the 5-day-old crescent moon have a holiday meet-up with Saturn tonight](https://www.space.com/moon-saturn-holiday-meet-up-dec-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
