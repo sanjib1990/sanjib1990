@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How many times has Earth orbited the sun?](https://www.space.com/how-many-times-has-earth-orbited-the-sun)
+- [The Rule of X and how cloud leaders should think about growth versus profit](https://techcrunch.com/2023/12/17/the-rule-of-x-and-how-cloud-leaders-should-think-about-growth-versus-profit/)
 - [A star exploded 10,000 years ago and left us with the gorgeous Veil Nebula &lpar;photo&rpar;](https://www.space.com/veil-nebula-photo)
 - [See the 5-day-old crescent moon have a holiday meet-up with Saturn tonight](https://www.space.com/moon-saturn-holiday-meet-up-dec-2023)
 - [Google’s Gemini comes to more apps, Cruise slashes its workforce and Tesla issues a recall](https://techcrunch.com/2023/12/16/googles-gemini-comes-to-more-apps-cruise-slashes-its-workforce-and-tesla-issues-a-recall/)
-- [Democracies are fragile, and hardware is hard](https://techcrunch.com/2023/12/16/agentic-tech-democracy-defense/)
-- [Google moves to end geofence warrants, a surveillance problem it largely created](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
