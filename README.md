@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the 5-day-old crescent moon have a holiday meet-up with Saturn tonight](https://www.space.com/moon-saturn-holiday-meet-up-dec-2023)
 - [Google’s Gemini comes to more apps, Cruise slashes its workforce and Tesla issues a recall](https://techcrunch.com/2023/12/16/googles-gemini-comes-to-more-apps-cruise-slashes-its-workforce-and-tesla-issues-a-recall/)
 - [Democracies are fragile, and hardware is hard](https://techcrunch.com/2023/12/16/agentic-tech-democracy-defense/)
 - [Google moves to end geofence warrants, a surveillance problem it largely created](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/)
 - [Robotics Q&amp;A with UC Berkeley’s Ken Goldberg](https://techcrunch.com/2023/12/16/robotics-qa-with-with-uc-berkeleys-ken-goldberg/)
-- [Deal Dive: Training the workforce for the clean energy transition](https://techcrunch.com/2023/12/16/deal-dive-training-the-workforce-for-the-clean-energy-transition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
