@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise cuts a quarter of its self-driving workforce, another e-scooter startup folds and a special year-end message](https://techcrunch.com/2023/12/17/cruise-cuts-a-quarter-of-its-self-driving-workforce-another-e-scooter-startup-folds-and-a-special-year-end-message/)
 - [IT budgets should increase in 2024, but it still could be tough going for startups](https://techcrunch.com/2023/12/17/it-budgets-2024-predictions/)
 - [Fintech’s wild ride in 2023](https://techcrunch.com/2023/12/17/it-was-a-wild-ride-in-fintech-in-2023/)
 - [How many times has Earth orbited the sun?](https://www.space.com/how-many-times-has-earth-orbited-the-sun)
 - [The Rule of X and how cloud leaders should think about growth versus profit](https://techcrunch.com/2023/12/17/the-rule-of-x-and-how-cloud-leaders-should-think-about-growth-versus-profit/)
-- [A star exploded 10,000 years ago and left us with the gorgeous Veil Nebula &lpar;photo&rpar;](https://www.space.com/veil-nebula-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
