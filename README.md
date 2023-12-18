@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX gearing up for 3rd Starship flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-third-flight-testing-photos)
+- [China&#39;s space plane apparently deployed 6 &#39;mysterious wingmen&#39; in orbit](https://www.space.com/china-space-plane-depoyed-mystery-objects)
+- [Nikola founder Trevor Milton sentenced to 4 years for securities fraud](https://techcrunch.com/2023/12/18/nikola-founder-trevor-milton-sentenced-to-4-years-for-securities-fraud/)
+- [Western Europe&#39;s 1st vertical spaceport cleared for launch, hopes to see rockets fly in 2024](https://www.space.com/saxavord-spaceport-uk-receives-license)
 - [Vans, Supreme owner VF Corp. says personal data stolen and orders impacted in suspected ransomware attack](https://techcrunch.com/2023/12/18/vans-supreme-vf-corporation-personal-data-stolen-orders-impacted-ransomware/)
-- [Why extortion is the new ransomware threat](https://techcrunch.com/2023/12/18/why-extortion-is-the-new-ransomware-threat/)
-- [Everything we know about Star Wars Eclipse](https://www.space.com/everything-we-know-about-star-wars-eclipse)
-- [Best external hard drives 2023: Top HDD and SSD models](https://www.space.com/best-external-hard-drives)
-- [TechCrunch Early Stage 2024 agenda first look: Engine Accelerator, Y Combinator, Glasswing Ventures and more will join us in Boston](https://techcrunch.com/2023/12/18/techcrunch-early-stage-2024-agenda-first-look-engine-accelerator-y-combinator-glasswing-ventures-and-more-will-join-us-in-boston/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
