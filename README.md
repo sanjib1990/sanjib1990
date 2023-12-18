@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saudi shopping and BNPL platform Tamara tops $1B valuation in $340M Series C funding](https://techcrunch.com/2023/12/18/saudi-shopping-and-bnpl-platform-tamara-tops-1b-valuation-in-340m-series-c-funding/)
 - [Watch Blue Origin launch 1st mission in 15 months today](https://www.space.com/blue-origin-return-to-flight-mission-ns-24)
 - [Cruise cuts a quarter of its self-driving workforce, another e-scooter startup folds and a special year-end message](https://techcrunch.com/2023/12/17/cruise-cuts-a-quarter-of-its-self-driving-workforce-another-e-scooter-startup-folds-and-a-special-year-end-message/)
 - [IT budgets should increase in 2024, but it still could be tough going for startups](https://techcrunch.com/2023/12/17/it-budgets-2024-predictions/)
 - [Fintech’s wild ride in 2023](https://techcrunch.com/2023/12/17/it-was-a-wild-ride-in-fintech-in-2023/)
-- [How many times has Earth orbited the sun?](https://www.space.com/how-many-times-has-earth-orbited-the-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
