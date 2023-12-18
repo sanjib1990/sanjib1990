@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This new AI is powerful and uncensored… Let’s run it](https://www.youtube.com/watch?v=GyllRd2E6fg)
 - [AI coding assistants just leveled up, again…](https://www.youtube.com/watch?v=7h732qLxtAk)
 - [Defining Regular Expressions &lpar;RegEx&rpar; - Computerphile](https://www.youtube.com/watch?v=Qn_vjKYfwak)
 - [The shocking result of Epic Games vs Google](https://www.youtube.com/watch?v=gVzHNGyA_a4)
 - [Elon’s &quot;based&quot; Grok AI has entered the chat…](https://www.youtube.com/watch?v=CgruI1RjH_c)
-- [The Gemini Lie](https://www.youtube.com/watch?v=90CYYfl9ntM)
 <!-- YOUTUBE:END -->
 
 ---
