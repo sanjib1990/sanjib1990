@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space weather will drag NASA&#39;s NEOWISE asteroid-hunting probe back to Earth in 2025](https://www.space.com/nasa-neowise-asteroid-mission-end-solar-activity)
 - [The rings of Uranus look positively festive in epic James Webb Space Telescope holiday photo](https://www.space.com/uranus-rings-james-webb-space-telescope-holiday-photo)
 - [OpenAI buffs safety team and gives board veto power on risky AI](https://techcrunch.com/2023/12/18/openai-buffs-safety-team-and-gives-board-veto-power-on-risky-ai/)
 - [Adobe has a big hole to fill after the $20B Figma deal falls through](https://techcrunch.com/2023/12/18/adobe-has-a-big-hole-to-fill-after-the-20b-figma-deal-falls-through/)
 - [Snowflake goes all in on data clean rooms with Samooha acquisition](https://techcrunch.com/2023/12/18/snowflake-goes-all-in-on-data-clean-rooms-with-samooha-acquisition/)
-- [The Adobe-Figma breakup isn’t a signal of what’s to come for startup M&amp;A](https://techcrunch.com/2023/12/18/the-adobe-figma-breakup-isnt-a-signal-of-whats-to-come-for-startup-ma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
