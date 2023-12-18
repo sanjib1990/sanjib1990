@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Solar Orbiter is decoding the sun&#39;s mysterious miniflares: &#39;What we see is just the tip of the iceberg&#39;](https://www.space.com/solar-orbiter-understand-sun-flare-mysteries)
+- [Meltwater, the media monitoring startup, gets a $65M investment from Verdane](https://techcrunch.com/2023/12/18/meltwater-verdine-fountain-venture/)
+- [IBM to acquire StreamSets and WebMethods from Software AG for $2.3B](https://techcrunch.com/2023/12/18/ibm-to-acquire-streamsets-and-webmethods-from-software-ag/)
 - [May Mobility’s driverless microtransit might beat robotaxis to profitability](https://techcrunch.com/2023/12/18/may-mobilitys-driverless-microtransit-might-beat-robotaxis-to-profitability/)
 - [Saudi shopping and BNPL platform Tamara tops $1B valuation in $340M Series C funding](https://techcrunch.com/2023/12/18/saudi-shopping-and-bnpl-platform-tamara-tops-1b-valuation-in-340m-series-c-funding/)
-- [Watch Blue Origin launch 1st mission in 15 months today](https://www.space.com/blue-origin-return-to-flight-mission-ns-24)
-- [Cruise cuts a quarter of its self-driving workforce, another e-scooter startup folds and a special year-end message](https://techcrunch.com/2023/12/17/cruise-cuts-a-quarter-of-its-self-driving-workforce-another-e-scooter-startup-folds-and-a-special-year-end-message/)
-- [IT budgets should increase in 2024, but it still could be tough going for startups](https://techcrunch.com/2023/12/17/it-budgets-2024-predictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
