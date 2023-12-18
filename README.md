@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe has a big hole to fill after the $20B Figma deal falls through](https://techcrunch.com/2023/12/18/adobe-has-a-big-hole-to-fill-after-the-20b-figma-deal-falls-through/)
+- [Snowflake goes all in on data clean rooms with Samooha acquisition](https://techcrunch.com/2023/12/18/snowflake-goes-all-in-on-data-clean-rooms-with-samooha-acquisition/)
+- [The Adobe-Figma breakup isn’t a signal of what’s to come for startup M&amp;A](https://techcrunch.com/2023/12/18/the-adobe-figma-breakup-isnt-a-signal-of-whats-to-come-for-startup-ma/)
+- [TikTok rolls out an enhanced app experience for tablets and foldables](https://techcrunch.com/2023/12/18/tiktok-rolls-out-an-enhanced-app-experience-for-tablets-and-foldables/)
 - [SpaceX gearing up for 3rd Starship flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-third-flight-testing-photos)
-- [China&#39;s space plane apparently deployed 6 &#39;mysterious wingmen&#39; in orbit](https://www.space.com/china-space-plane-depoyed-mystery-objects)
-- [Nikola founder Trevor Milton sentenced to 4 years for securities fraud](https://techcrunch.com/2023/12/18/nikola-founder-trevor-milton-sentenced-to-4-years-for-securities-fraud/)
-- [Western Europe&#39;s 1st vertical spaceport cleared for launch, hopes to see rockets fly in 2024](https://www.space.com/saxavord-spaceport-uk-receives-license)
-- [Vans, Supreme owner VF Corp. says personal data stolen and orders impacted in suspected ransomware attack](https://techcrunch.com/2023/12/18/vans-supreme-vf-corporation-personal-data-stolen-orders-impacted-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
