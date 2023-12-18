@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Watch Series 9 sales to be halted over patent dispute](https://techcrunch.com/2023/12/18/apple-watch-series-9-sales-to-be-halted-over-patent-dispute/)
-- [ServiceNow dives deeper into task mining with latest acquisition](https://techcrunch.com/2023/12/18/servicenow-dives-deeper-into-task-mining-with-latest-acquisition/)
-- [&#39;Apollo 13&#39; moon disaster movie hits a new high for film fans](https://www.space.com/apollo-13-moon-disaster-movie-library-of-congress-preserve)
-- [MongoDB investigating security incident that exposed data about customer accounts](https://techcrunch.com/2023/12/18/mongodb-security-incident-customer-account-metadata/)
-- [Adobe and Figma end $20B acquisition plans after regulatory headwinds in Europe](https://techcrunch.com/2023/12/18/adobe-figma-europe-regulation-acquisition/)
+- [Blue Origin calls off 1st New Shepard rocket launch since 2022 failure due to &#39;ground system issue&#39;](https://www.space.com/blue-origin-return-to-flight-mission-ns-24-scrub-december-18)
+- [VC Office Hours: Unlocking LPs in a bear market](https://techcrunch.com/2023/12/18/unlocking-lps-in-a-bear-market/)
+- [Flipboard becomes a federated app with support for ActivityPub](https://techcrunch.com/2023/12/18/flipboard-becomes-a-federated-app-with-support-for-activitypub/)
+- [U.S. lawmakers call for DoJ to investigate Apple for blocking Beeper’s iMessage app](https://techcrunch.com/2023/12/18/u-s-lawmakers-call-for-doj-to-investigate-apple-for-blocking-beepers-imessage-app/)
+- [A quick guide to ethical and responsible AI governance](https://techcrunch.com/2023/12/18/a-quick-guide-to-ethical-and-responsible-ai-governance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
