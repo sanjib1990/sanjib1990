@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why extortion is the new ransomware threat](https://techcrunch.com/2023/12/18/why-extortion-is-the-new-ransomware-threat/)
+- [Everything we know about Star Wars Eclipse](https://www.space.com/everything-we-know-about-star-wars-eclipse)
+- [Best external hard drives 2023: Top HDD and SSD models](https://www.space.com/best-external-hard-drives)
+- [TechCrunch Early Stage 2024 agenda first look: Engine Accelerator, Y Combinator, Glasswing Ventures and more will join us in Boston](https://techcrunch.com/2023/12/18/techcrunch-early-stage-2024-agenda-first-look-engine-accelerator-y-combinator-glasswing-ventures-and-more-will-join-us-in-boston/)
 - [Blue Origin calls off 1st New Shepard rocket launch since 2022 failure due to &#39;ground system issue&#39;](https://www.space.com/blue-origin-return-to-flight-mission-ns-24-scrub-december-18)
-- [VC Office Hours: Unlocking LPs in a bear market](https://techcrunch.com/2023/12/18/unlocking-lps-in-a-bear-market/)
-- [Flipboard becomes a federated app with support for ActivityPub](https://techcrunch.com/2023/12/18/flipboard-becomes-a-federated-app-with-support-for-activitypub/)
-- [U.S. lawmakers call for DoJ to investigate Apple for blocking Beeper’s iMessage app](https://techcrunch.com/2023/12/18/u-s-lawmakers-call-for-doj-to-investigate-apple-for-blocking-beepers-imessage-app/)
-- [A quick guide to ethical and responsible AI governance](https://techcrunch.com/2023/12/18/a-quick-guide-to-ethical-and-responsible-ai-governance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
