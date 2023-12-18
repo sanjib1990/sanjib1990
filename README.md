@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Solar Orbiter is decoding the sun&#39;s mysterious miniflares: &#39;What we see is just the tip of the iceberg&#39;](https://www.space.com/solar-orbiter-understand-sun-flare-mysteries)
-- [Meltwater, the media monitoring startup, gets a $65M investment from Verdane](https://techcrunch.com/2023/12/18/meltwater-verdine-fountain-venture/)
-- [IBM to acquire StreamSets and WebMethods from Software AG for $2.3B](https://techcrunch.com/2023/12/18/ibm-to-acquire-streamsets-and-webmethods-from-software-ag/)
-- [May Mobility’s driverless microtransit might beat robotaxis to profitability](https://techcrunch.com/2023/12/18/may-mobilitys-driverless-microtransit-might-beat-robotaxis-to-profitability/)
-- [Saudi shopping and BNPL platform Tamara tops $1B valuation in $340M Series C funding](https://techcrunch.com/2023/12/18/saudi-shopping-and-bnpl-platform-tamara-tops-1b-valuation-in-340m-series-c-funding/)
+- [Apple experiments to let developers offer discount bundles on subscriptions](https://techcrunch.com/2023/12/18/apple-discount-bundles-subscriptions/)
+- [As the SEC’s new data breach disclosure rules take effect, here’s what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
+- [Elon Musk’s X faces first DSA probe in EU over illegal content risks, moderation, transparency and deceptive UX design](https://techcrunch.com/2023/12/18/x-dsa-probe/)
+- [Barringer Crater may have been formed by a cosmic &#39;curveball,&#39; asteroid simulations show](https://www.space.com/barringer-crater-formation-cosmic-curveball-asteroid)
+- [Scientists find record-breaking collection of molecules in 2 extremely ancient galaxies](https://www.space.com/deep-space-molecules-massive-star-formation-distant-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
