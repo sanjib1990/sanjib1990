@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple experiments to let developers offer discount bundles on subscriptions](https://techcrunch.com/2023/12/18/apple-discount-bundles-subscriptions/)
-- [As the SEC’s new data breach disclosure rules take effect, here’s what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
-- [Elon Musk’s X faces first DSA probe in EU over illegal content risks, moderation, transparency and deceptive UX design](https://techcrunch.com/2023/12/18/x-dsa-probe/)
-- [Barringer Crater may have been formed by a cosmic &#39;curveball,&#39; asteroid simulations show](https://www.space.com/barringer-crater-formation-cosmic-curveball-asteroid)
-- [Scientists find record-breaking collection of molecules in 2 extremely ancient galaxies](https://www.space.com/deep-space-molecules-massive-star-formation-distant-galaxies)
+- [ServiceNow dives deeper into task mining with latest acquisition](https://techcrunch.com/2023/12/18/servicenow-dives-deeper-into-task-mining-with-latest-acquisition/)
+- [&#39;Apollo 13&#39; moon disaster movie hits a new high for film fans](https://www.space.com/apollo-13-moon-disaster-movie-library-of-congress-preserve)
+- [MongoDB investigating security incident that exposed data about customer accounts](https://techcrunch.com/2023/12/18/mongodb-security-incident-customer-account-metadata/)
+- [Adobe and Figma end $20B acquisition plans after regulatory headwinds in Europe](https://techcrunch.com/2023/12/18/adobe-figma-europe-regulation-acquisition/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
