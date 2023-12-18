@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Watch Series 9 sales to be halted over patent dispute](https://techcrunch.com/2023/12/18/apple-watch-series-9-sales-to-be-halted-over-patent-dispute/)
 - [ServiceNow dives deeper into task mining with latest acquisition](https://techcrunch.com/2023/12/18/servicenow-dives-deeper-into-task-mining-with-latest-acquisition/)
 - [&#39;Apollo 13&#39; moon disaster movie hits a new high for film fans](https://www.space.com/apollo-13-moon-disaster-movie-library-of-congress-preserve)
 - [MongoDB investigating security incident that exposed data about customer accounts](https://techcrunch.com/2023/12/18/mongodb-security-incident-customer-account-metadata/)
 - [Adobe and Figma end $20B acquisition plans after regulatory headwinds in Europe](https://techcrunch.com/2023/12/18/adobe-figma-europe-regulation-acquisition/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
