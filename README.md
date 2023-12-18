@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vans, Supreme owner VF Corp. says personal data stolen and orders impacted in suspected ransomware attack](https://techcrunch.com/2023/12/18/vans-supreme-vf-corporation-personal-data-stolen-orders-impacted-ransomware/)
 - [Why extortion is the new ransomware threat](https://techcrunch.com/2023/12/18/why-extortion-is-the-new-ransomware-threat/)
 - [Everything we know about Star Wars Eclipse](https://www.space.com/everything-we-know-about-star-wars-eclipse)
 - [Best external hard drives 2023: Top HDD and SSD models](https://www.space.com/best-external-hard-drives)
 - [TechCrunch Early Stage 2024 agenda first look: Engine Accelerator, Y Combinator, Glasswing Ventures and more will join us in Boston](https://techcrunch.com/2023/12/18/techcrunch-early-stage-2024-agenda-first-look-engine-accelerator-y-combinator-glasswing-ventures-and-more-will-join-us-in-boston/)
-- [Blue Origin calls off 1st New Shepard rocket launch since 2022 failure due to &#39;ground system issue&#39;](https://www.space.com/blue-origin-return-to-flight-mission-ns-24-scrub-december-18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
