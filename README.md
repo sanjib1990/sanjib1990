@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about &#39;Alien: Romulus&#39;](https://www.space.com/everything-we-know-about-alien-romulus)
+- [All the changes coming to Google Play and sideloading following $700M settlement](https://techcrunch.com/2023/12/19/all-the-changes-coming-to-google-play-and-sideloading-following-700m-settlement/)
+- [ScaleOps looks to cut cloud bills by automating Kubernetes configurations](https://techcrunch.com/2023/12/19/scaleops-looks-to-cut-cloud-bills-by-automating-kubernetes-configurations/)
 - [The small and affordable EVs we lost in 2023](https://techcrunch.com/2023/12/19/the-small-and-affordable-evs-we-lost-in-2023/)
 - [Startup Shutdowns and AI Showdowns: the 2023 chronicles](https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/)
-- [James Webb Space Telescope may have found the oldest black hole in the universe](https://www.space.com/james-webb-telescope-discovers-possible-oldest-black-hole-in-the-universe)
-- [Softbank sells Open Opportunity Fund to Black and Latino executives](https://techcrunch.com/2023/12/19/softbank-sells-open-opportunity-fund-to-black-and-latino-executives/)
-- [Why videos of $500 beauty advent calendars are flooding TikTok](https://techcrunch.com/2023/12/19/why-videos-of-500-beauty-advent-calendars-are-flooding-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
