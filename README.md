@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Authorities claim seizure of notorious ALPHV ransomware gang’s dark web leak site](https://techcrunch.com/2023/12/19/alphv-blackcat-ransomware-seizure/)
-- [Watch Artemis 2 moon crew takes a slide for NASA training &lpar;video&rpar;](https://www.space.com/artemis-2-moon-crew-nasa-training-orion-spacecraft-recovery-slide)
-- [See the last half moon of 2023 swim with the fish of Pisces tonight](https://www.space.com/first-quarter-moon-december-2023)
-- [Comcast says hackers stole data of close to 36 million Xfinity customers](https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/)
-- [These scientists want to put a massive &#39;sunshade&#39; in orbit to help fight climate change](https://www.space.com/sunshade-earth-orbit-climate-change)
+- [Y Combinator-backed Guac trains algorithms to predict grocery demand](https://techcrunch.com/2023/12/19/y-combinator-backed-guac-trains-algorithms-to-predict-grocery-demand/)
+- [This alien planetary system has a Jupiter world 99 times wider than Earth](https://www.space.com/planetary-systems-with-sun-like-stars-discovered)
+- [Anti-ransomware startup Halcyon lands fresh $40M tranche](https://techcrunch.com/2023/12/19/anti-ransomware-startup-halcyon-lands-fresh-40m-tranche/)
+- [Dog cancer treatment ImpriMed aims to expand its AI technology into human oncology](https://techcrunch.com/2023/12/19/dog-cancer-treatment-imprimed-aims-to-expand-its-ai-technology-into-human-oncology/)
+- [SimSpace raises $45M to simulate tech stacks for cyber training](https://techcrunch.com/2023/12/19/simspace-raises-45m-to-simulate-tech-stacks-for-cyber-training/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
