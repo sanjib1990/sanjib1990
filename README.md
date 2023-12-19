@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Telescope captures a galaxy&#39;s &#39;forbidden&#39; light in stunning new image](https://www.space.com/hubble-captures-forbidden-light-galaxy-photo)
-- [Blue Origin launches New Shepard rocket, aces landing in 1st return to flight since 2022 failure &lpar;video&rpar;](https://www.space.com/blue-origin-return-to-flight-mission-ns-24)
-- [8 predictions for AI in 2024](https://techcrunch.com/2023/12/19/8-predictions-for-ai-in-2024/)
-- [Everything we know about &#39;Alien: Romulus&#39;](https://www.space.com/everything-we-know-about-alien-romulus)
-- [All the changes coming to Google Play and sideloading following $700M settlement](https://techcrunch.com/2023/12/19/all-the-changes-coming-to-google-play-and-sideloading-following-700m-settlement/)
+- [EU to expand support for AI startups to tap its supercomputers for model training](https://techcrunch.com/2023/12/19/eu-supercomputers-for-ai-training-support/)
+- [Music marketing startup Breakr raises more capital, pays $3.5M to creators](https://techcrunch.com/2023/12/19/music-marketing-startup-breakr-raises-more-capital-pays-3-5m-to-creators/)
+- [Pew! Pew! Pew! NASA&#39;s 1st successful two-way laser experiment is a giant leap for moon and Mars communications](https://www.space.com/nasa-laser-communication-1st-two-way-link-iss)
+- [Microsoft Copilot gets a music creation feature via Suno integration](https://techcrunch.com/2023/12/19/microsoft-copilot-gets-a-music-creation-feature-via-suno-integration/)
+- [My Pocket Lawyer aims to make justice more accessible](https://techcrunch.com/2023/12/19/my-pocket-lawyer-aims-to-make-justice-more-accessible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
