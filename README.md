@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the runaway greenhouse gas effect can destroy a planet&#39;s habitability — including Earth&#39;s](https://www.space.com/planets-earth-venus-greenhouse-gases-climate-change)
+- [Beeper’s upcoming fix requires users to have access to a Mac](https://techcrunch.com/2023/12/19/beepers-upcoming-fix-requires-users-to-have-access-to-a-mac/)
 - [EthSign brings DocuSign-like features to Line, Telegram with a web3 twist](https://techcrunch.com/2023/12/19/ethsign-line-telegram-blockchain-esignature/)
 - [Blue Origin’s New Shepard makes triumphant return flight](https://techcrunch.com/2023/12/19/blue-origins-new-shepard-makes-triumphant-return-flight/)
 - [The outlook for startups in 2024 is hazy](https://techcrunch.com/2023/12/19/the-outlook-for-startups-in-2024-is-hazy/)
-- [NASA laser-beams adorable cat video to Earth from 19 million miles away &lpar;video&rpar;](https://www.space.com/nasa-laser-taters-cat-video-19-million-miles-away)
-- [Okta snatches up security firm Spera, reportedly for over $100M](https://techcrunch.com/2023/12/19/okta-snatches-up-security-firm-spera-reportedly-for-over-100m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
