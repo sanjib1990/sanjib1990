@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The outlook for startups in 2024 is hazy](https://techcrunch.com/2023/12/19/the-outlook-for-startups-in-2024-is-hazy/)
+- [NASA laser-beams adorable cat video to Earth from 19 million miles away &lpar;video&rpar;](https://www.space.com/nasa-laser-taters-cat-video-19-million-miles-away)
+- [Okta snatches up security firm Spera, reportedly for over $100M](https://techcrunch.com/2023/12/19/okta-snatches-up-security-firm-spera-reportedly-for-over-100m/)
 - [EU to expand support for AI startups to tap its supercomputers for model training](https://techcrunch.com/2023/12/19/eu-supercomputers-for-ai-training-support/)
 - [Music marketing startup Breakr raises more capital, pays $3.5M to creators](https://techcrunch.com/2023/12/19/music-marketing-startup-breakr-raises-more-capital-pays-3-5m-to-creators/)
-- [Pew! Pew! Pew! NASA&#39;s 1st successful two-way laser experiment is a giant leap for moon and Mars communications](https://www.space.com/nasa-laser-communication-1st-two-way-link-iss)
-- [Microsoft Copilot gets a music creation feature via Suno integration](https://techcrunch.com/2023/12/19/microsoft-copilot-gets-a-music-creation-feature-via-suno-integration/)
-- [My Pocket Lawyer aims to make justice more accessible](https://techcrunch.com/2023/12/19/my-pocket-lawyer-aims-to-make-justice-more-accessible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
