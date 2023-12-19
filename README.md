@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Micromobility.com gets delisted from the Nasdaq](https://techcrunch.com/2023/12/19/micromobility-com-gets-delisted-from-the-nasdaq/)
+- [Tesla requests pause in federal racial bias lawsuit as it wraps up other cases](https://techcrunch.com/2023/12/19/tesla-requests-pause-in-federal-racial-bias-lawsuit-as-it-wraps-up-other-cases/)
 - [Secondaries investors say some valuations are still too high](https://techcrunch.com/2023/12/19/secondaries-investors-valuations-high/)
 - [Watch Chinese astronauts get haircuts aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-haircuts-tiangong-space-station-video)
 - [Volkswagen, Porsche, Audi to adopt Tesla’s charging standard](https://techcrunch.com/2023/12/19/volkswagen-porsche-audi-to-adopt-teslas-charging-standard/)
-- [Astrobotic ready to launch Peregrine lunar lander in early January](https://techcrunch.com/2023/12/19/astrobotic-ready-to-launch-peregrine-lunar-lander-in-early-january/)
-- [How the runaway greenhouse gas effect can destroy a planet&#39;s habitability — including Earth&#39;s](https://www.space.com/planets-earth-venus-greenhouse-gases-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
