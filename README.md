@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Gogoro picked India as its new go-to market](https://techcrunch.com/2023/12/18/gogoro-india/)
 - [Clearlake and Insight reach $4.4B deal to take software maker Alteryx private](https://techcrunch.com/2023/12/18/clearlake-and-insight-reach-4-4b-deal-to-take-software-maker-alteryx-private/)
 - [Max Q: See you next year](https://techcrunch.com/2023/12/18/max-q-see-you-next-year/)
 - [Lingrove’s carbon-negative wood alternative branches out with $10M round](https://techcrunch.com/2023/12/18/lingroves-carbon-negative-wood-alternative-branches-out-with-10m-round/)
 - [Space weather will drag NASA&#39;s NEOWISE asteroid-hunting probe back to Earth in 2025](https://www.space.com/nasa-neowise-asteroid-mission-end-solar-activity)
-- [The rings of Uranus look positively festive in epic James Webb Space Telescope holiday photo](https://www.space.com/uranus-rings-james-webb-space-telescope-holiday-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
