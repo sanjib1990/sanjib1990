@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope captures a galaxy&#39;s &#39;forbidden&#39; light in stunning new image](https://www.space.com/hubble-captures-forbidden-light-galaxy-photo)
+- [Blue Origin launches New Shepard rocket, aces landing in 1st return to flight since 2022 failure &lpar;video&rpar;](https://www.space.com/blue-origin-return-to-flight-mission-ns-24)
+- [8 predictions for AI in 2024](https://techcrunch.com/2023/12/19/8-predictions-for-ai-in-2024/)
 - [Everything we know about &#39;Alien: Romulus&#39;](https://www.space.com/everything-we-know-about-alien-romulus)
 - [All the changes coming to Google Play and sideloading following $700M settlement](https://techcrunch.com/2023/12/19/all-the-changes-coming-to-google-play-and-sideloading-following-700m-settlement/)
-- [ScaleOps looks to cut cloud bills by automating Kubernetes configurations](https://techcrunch.com/2023/12/19/scaleops-looks-to-cut-cloud-bills-by-automating-kubernetes-configurations/)
-- [The small and affordable EVs we lost in 2023](https://techcrunch.com/2023/12/19/the-small-and-affordable-evs-we-lost-in-2023/)
-- [Startup Shutdowns and AI Showdowns: the 2023 chronicles](https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
