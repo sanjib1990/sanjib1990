@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These scientists want to put a massive &#39;sunshade&#39; in orbit to help fight climate change](https://www.space.com/sunshade-earth-orbit-climate-change)
+- [Google Maps pushes updates to enhance user experience in India](https://techcrunch.com/2023/12/19/google-maps-india-updates-live-street-view-navigation/)
+- [Salesforce acquires automated commission management platform Spiff](https://techcrunch.com/2023/12/19/salesforce-spiff-commission/)
 - [WazirX volumes fall off a cliff amid India’s crypto scrutiny](https://techcrunch.com/2023/12/19/wazirx-volumes-fall-off-a-cliff-amid-india-crypto-scrutiny/)
 - [Black British founders are down but not out](https://techcrunch.com/2023/12/18/black-british-founders-are-down-but-not-out/)
-- [Activision Blizzard will pay $54 million to settle California workplace discrimination suit](https://techcrunch.com/2023/12/18/activision-blizzard-will-pay-54-million-to-settle-california-workplace-discrimination-suit/)
-- [Google says it will pay $700M as a part of Play Store dispute settlement](https://techcrunch.com/2023/12/18/google-says-it-will-pay-700m-as-a-part-of-play-store-dispute-settlement/)
-- [Why Gogoro picked India as its new go-to market](https://techcrunch.com/2023/12/18/gogoro-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
