@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Y Combinator-backed Guac trains algorithms to predict grocery demand](https://techcrunch.com/2023/12/19/y-combinator-backed-guac-trains-algorithms-to-predict-grocery-demand/)
-- [This alien planetary system has a Jupiter world 99 times wider than Earth](https://www.space.com/planetary-systems-with-sun-like-stars-discovered)
-- [Anti-ransomware startup Halcyon lands fresh $40M tranche](https://techcrunch.com/2023/12/19/anti-ransomware-startup-halcyon-lands-fresh-40m-tranche/)
-- [Dog cancer treatment ImpriMed aims to expand its AI technology into human oncology](https://techcrunch.com/2023/12/19/dog-cancer-treatment-imprimed-aims-to-expand-its-ai-technology-into-human-oncology/)
-- [SimSpace raises $45M to simulate tech stacks for cyber training](https://techcrunch.com/2023/12/19/simspace-raises-45m-to-simulate-tech-stacks-for-cyber-training/)
+- [The small and affordable EVs we lost in 2023](https://techcrunch.com/2023/12/19/the-small-and-affordable-evs-we-lost-in-2023/)
+- [Startup Shutdowns and AI Showdowns: the 2023 chronicles](https://techcrunch.com/2023/12/19/startup-shutdowns-and-ai-showdowns-the-2023-chronicles/)
+- [James Webb Space Telescope may have found the oldest black hole in the universe](https://www.space.com/james-webb-telescope-discovers-possible-oldest-black-hole-in-the-universe)
+- [Softbank sells Open Opportunity Fund to Black and Latino executives](https://techcrunch.com/2023/12/19/softbank-sells-open-opportunity-fund-to-black-and-latino-executives/)
+- [Why videos of $500 beauty advent calendars are flooding TikTok](https://techcrunch.com/2023/12/19/why-videos-of-500-beauty-advent-calendars-are-flooding-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
