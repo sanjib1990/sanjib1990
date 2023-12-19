@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Authorities claim seizure of notorious ALPHV ransomware gang’s dark web leak site](https://techcrunch.com/2023/12/19/alphv-blackcat-ransomware-seizure/)
+- [Watch Artemis 2 moon crew takes a slide for NASA training &lpar;video&rpar;](https://www.space.com/artemis-2-moon-crew-nasa-training-orion-spacecraft-recovery-slide)
+- [See the last half moon of 2023 swim with the fish of Pisces tonight](https://www.space.com/first-quarter-moon-december-2023)
+- [Comcast says hackers stole data of close to 36 million Xfinity customers](https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/)
 - [These scientists want to put a massive &#39;sunshade&#39; in orbit to help fight climate change](https://www.space.com/sunshade-earth-orbit-climate-change)
-- [Google Maps pushes updates to enhance user experience in India](https://techcrunch.com/2023/12/19/google-maps-india-updates-live-street-view-navigation/)
-- [Salesforce acquires automated commission management platform Spiff](https://techcrunch.com/2023/12/19/salesforce-spiff-commission/)
-- [WazirX volumes fall off a cliff amid India’s crypto scrutiny](https://techcrunch.com/2023/12/19/wazirx-volumes-fall-off-a-cliff-amid-india-crypto-scrutiny/)
-- [Black British founders are down but not out](https://techcrunch.com/2023/12/18/black-british-founders-are-down-but-not-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
