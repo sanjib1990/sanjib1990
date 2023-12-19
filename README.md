@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EthSign brings DocuSign-like features to Line, Telegram with a web3 twist](https://techcrunch.com/2023/12/19/ethsign-line-telegram-blockchain-esignature/)
+- [Blue Origin’s New Shepard makes triumphant return flight](https://techcrunch.com/2023/12/19/blue-origins-new-shepard-makes-triumphant-return-flight/)
 - [The outlook for startups in 2024 is hazy](https://techcrunch.com/2023/12/19/the-outlook-for-startups-in-2024-is-hazy/)
 - [NASA laser-beams adorable cat video to Earth from 19 million miles away &lpar;video&rpar;](https://www.space.com/nasa-laser-taters-cat-video-19-million-miles-away)
 - [Okta snatches up security firm Spera, reportedly for over $100M](https://techcrunch.com/2023/12/19/okta-snatches-up-security-firm-spera-reportedly-for-over-100m/)
-- [EU to expand support for AI startups to tap its supercomputers for model training](https://techcrunch.com/2023/12/19/eu-supercomputers-for-ai-training-support/)
-- [Music marketing startup Breakr raises more capital, pays $3.5M to creators](https://techcrunch.com/2023/12/19/music-marketing-startup-breakr-raises-more-capital-pays-3-5m-to-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
