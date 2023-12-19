@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Activision Blizzard will pay $54 million to settle California workplace discrimination suit](https://techcrunch.com/2023/12/18/activision-blizzard-will-pay-54-million-to-settle-california-workplace-discrimination-suit/)
+- [Google says it will pay $700M as a part of Play Store dispute settlement](https://techcrunch.com/2023/12/18/google-says-it-will-pay-700m-as-a-part-of-play-store-dispute-settlement/)
 - [Why Gogoro picked India as its new go-to market](https://techcrunch.com/2023/12/18/gogoro-india/)
 - [Clearlake and Insight reach $4.4B deal to take software maker Alteryx private](https://techcrunch.com/2023/12/18/clearlake-and-insight-reach-4-4b-deal-to-take-software-maker-alteryx-private/)
 - [Max Q: See you next year](https://techcrunch.com/2023/12/18/max-q-see-you-next-year/)
-- [Lingrove’s carbon-negative wood alternative branches out with $10M round](https://techcrunch.com/2023/12/18/lingroves-carbon-negative-wood-alternative-branches-out-with-10m-round/)
-- [Space weather will drag NASA&#39;s NEOWISE asteroid-hunting probe back to Earth in 2025](https://www.space.com/nasa-neowise-asteroid-mission-end-solar-activity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
