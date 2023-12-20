@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fulfillment is still hot, as GreyOrange closes $135M round](https://techcrunch.com/2023/12/20/fulfillment-is-still-hot-as-greyorange-closes-135m-round/)
-- [PaintJet is building big industrial robots for big industrial paint jobs](https://techcrunch.com/2023/12/20/paintjet-is-building-big-industrial-robots-for-big-industrial-paint-jobs/)
-- [Commercial Chinese rocket launches small returnable spacecraft to orbit &lpar;video&rpar;](https://www.space.com/commercial-chinese-rocket-ispace-launches-returnable-spacecraft)
-- [A blueprint for founders navigating economic uncertainty](https://techcrunch.com/2023/12/20/a-blueprint-for-founders-navigating-economic-uncertainty/)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [&#39;Kerbal Space Program 2&#39; update delivers new Exploration Mode, &#39;For Science!&#39;](https://www.space.com/kerbal-space-program-2-update-for-science)
+- [6 work from home gifts for remote workers in 2023](https://techcrunch.com/2023/12/20/6-work-from-home-gifts-for-remote-workers-in-2023/)
+- [Telescopes Christmas gift guide 2023: Best for all budgets](https://www.space.com/telescope-christmas-holiday-gift-guide)
+- [Tech gifts you shouldn’t buy your family and friends for the holidays](https://techcrunch.com/2023/12/20/tech-to-avoid-holidays-security-privacy/)
+- [Fulfillment is still hot, as GreyOrange raises $135M](https://techcrunch.com/2023/12/20/fulfillment-is-still-hot-as-greyorange-closes-135m-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
