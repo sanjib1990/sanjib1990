@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fulfillment is still hot, as GreyOrange closes $135M round](https://techcrunch.com/2023/12/20/fulfillment-is-still-hot-as-greyorange-closes-135m-round/)
+- [PaintJet is building big industrial robots for big industrial paint jobs](https://techcrunch.com/2023/12/20/paintjet-is-building-big-industrial-robots-for-big-industrial-paint-jobs/)
 - [Commercial Chinese rocket launches small returnable spacecraft to orbit &lpar;video&rpar;](https://www.space.com/commercial-chinese-rocket-ispace-launches-returnable-spacecraft)
 - [A blueprint for founders navigating economic uncertainty](https://techcrunch.com/2023/12/20/a-blueprint-for-founders-navigating-economic-uncertainty/)
 - [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Microbes in Atacama desert&#39;s lost lagoons may mirror early life on Mars](https://www.space.com/lost-world-of-lagoons-atacama-desert-mars)
-- [Claim, a social network that lets users earn and trade rewards with friends, raises $4M](https://techcrunch.com/2023/12/20/claim-a-social-network-that-lets-users-earn-and-trade-rewards-with-friends-raises-4m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
