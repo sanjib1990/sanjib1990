@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Kerbal Space Program 2&#39; update delivers new Exploration Mode, &#39;For Science!&#39;](https://www.space.com/kerbal-space-program-2-update-for-science)
-- [6 work from home gifts for remote workers in 2023](https://techcrunch.com/2023/12/20/6-work-from-home-gifts-for-remote-workers-in-2023/)
-- [Telescopes Christmas gift guide 2023: Best for all budgets](https://www.space.com/telescope-christmas-holiday-gift-guide)
-- [Tech gifts you shouldn’t buy your family and friends for the holidays](https://techcrunch.com/2023/12/20/tech-to-avoid-holidays-security-privacy/)
-- [Fulfillment is still hot, as GreyOrange raises $135M](https://techcrunch.com/2023/12/20/fulfillment-is-still-hot-as-greyorange-closes-135m-round/)
+- [Ask Sophie: Is it easier yet for AI founders to get green cards?](https://techcrunch.com/2023/12/20/ask-sophie-is-it-easier-yet-for-ai-founders-to-get-green-cards/)
+- [Consumer Reports says Tesla’s Autopilot recall fix is ‘insufficient’](https://techcrunch.com/2023/12/20/tesla-autopilot-recall-consumer-reports/)
+- [Mars Express orbiter offers evidence of ancient microbial life, water and volcanism on Red Planet](https://www.space.com/mars-express-orbiter-water-red-planet-volcano-life)
+- [Artemis 2 moon astronauts discuss 21st-century &#39;moonshots&#39; with President Biden](https://www.space.com/artemis-2-moon-crew-space-policy-president-biden-meeting)
+- [Crypto valuations ‘came back to earth’ in 2023, but VCs expect them to rise again in 2024](https://techcrunch.com/2023/12/20/crypto-valuations-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
