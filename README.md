@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU names three porn sites subject to its strictest online content rules](https://techcrunch.com/2023/12/20/pornhub-stripchat-xvideos-eu-vlops/)
 - [Firefly Aerospace launching 4th-ever mission today: Watch live](https://www.space.com/firefly-aerospace-launch-fly-the-lightning)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Rite Aid banned from using facial recognition software after falsely identifying shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
 - [Al Mada Ventures, the $110M fund for Africans by Africans](https://techcrunch.com/2023/12/20/al-mada-ventures-the-110m-fund-for-africans-by-africans/)
-- [Electric scooter company Bird files for bankruptcy](https://techcrunch.com/2023/12/20/bird-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
