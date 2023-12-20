@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microbes in Atacama desert&#39;s lost lagoons may mirror early life on Mars](https://www.space.com/lost-world-of-lagoons-atacama-desert-mars)
+- [Claim, a social network that lets users earn and trade rewards with friends, raises $4M](https://techcrunch.com/2023/12/20/claim-a-social-network-that-lets-users-earn-and-trade-rewards-with-friends-raises-4m/)
+- [Spill is now in open beta on iOS and Android](https://techcrunch.com/2023/12/20/spill-open-beta/)
+- [AR platform Really launches ‘Fandime’ NFTs to reward users with exclusive movie-related content](https://techcrunch.com/2023/12/20/ar-platform-really-launches-fandime-nfts-avalanche-blockchain/)
 - [VP Kamala Harris lead National Space Council meeting today &lpar;Dec. 20&rpar;](https://www.space.com/kamala-harris-national-space-council-meeting-december-2023-preview)
-- [What&#39;s it like to buzz an Artemis SLS moon rocket with a supersonic jet? NASA&#39;s Artemis 2 commander tells all](https://www.space.com/nasa-artemis-2-moon-astronaut-flyby-artemis-1)
-- [Drones accessories Christmas gift guide](https://www.space.com/drones-accessories-christmas-holiday-gift-guide)
-- [Firefly Aerospace launching 4th-ever mission today: Watch live](https://www.space.com/firefly-aerospace-launch-fly-the-lightning)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
