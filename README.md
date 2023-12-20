@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strange &#39;slide whistle&#39; fast radio burst picked up by alien-hunting telescope defies explanation](https://www.space.com/slide-whistle-fast-radio-burst-defies-explanation)
 - [Micromobility.com gets delisted from the Nasdaq](https://techcrunch.com/2023/12/19/micromobility-com-gets-delisted-from-the-nasdaq/)
 - [Tesla requests pause in federal racial bias lawsuit as it wraps up other cases](https://techcrunch.com/2023/12/19/tesla-requests-pause-in-federal-racial-bias-lawsuit-as-it-wraps-up-other-cases/)
 - [Secondaries investors say some valuations are still too high](https://techcrunch.com/2023/12/19/secondaries-investors-valuations-high/)
 - [Watch Chinese astronauts get haircuts aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-haircuts-tiangong-space-station-video)
-- [Volkswagen, Porsche, Audi to adopt Tesla’s charging standard](https://techcrunch.com/2023/12/19/volkswagen-porsche-audi-to-adopt-teslas-charging-standard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
