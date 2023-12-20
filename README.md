@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Commercial Chinese rocket launches small returnable spacecraft to orbit &lpar;video&rpar;](https://www.space.com/commercial-chinese-rocket-ispace-launches-returnable-spacecraft)
+- [A blueprint for founders navigating economic uncertainty](https://techcrunch.com/2023/12/20/a-blueprint-for-founders-navigating-economic-uncertainty/)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 - [Microbes in Atacama desert&#39;s lost lagoons may mirror early life on Mars](https://www.space.com/lost-world-of-lagoons-atacama-desert-mars)
 - [Claim, a social network that lets users earn and trade rewards with friends, raises $4M](https://techcrunch.com/2023/12/20/claim-a-social-network-that-lets-users-earn-and-trade-rewards-with-friends-raises-4m/)
-- [Spill is now in open beta on iOS and Android](https://techcrunch.com/2023/12/20/spill-open-beta/)
-- [AR platform Really launches ‘Fandime’ NFTs to reward users with exclusive movie-related content](https://techcrunch.com/2023/12/20/ar-platform-really-launches-fandime-nfts-avalanche-blockchain/)
-- [VP Kamala Harris lead National Space Council meeting today &lpar;Dec. 20&rpar;](https://www.space.com/kamala-harris-national-space-council-meeting-december-2023-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
