@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about the Alien TV series: Release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-the-alien-tv-series)
 - [In the quest to find alien life, scientists are searching for extrasolar Earth-Jupiter duos](https://www.space.com/earth-planets-jupiter-worlds-search-for-life)
 - [Big Tech’s divisive ‘personalization’ attracts fresh call for profiling-based content feeds to be off by default in EU](https://techcrunch.com/2023/12/20/dsa-recommender-systems/)
 - [Ask Sophie: Is it easier yet for AI founders to get green cards?](https://techcrunch.com/2023/12/20/ask-sophie-is-it-easier-yet-for-ai-founders-to-get-green-cards/)
 - [Consumer Reports says Tesla’s Autopilot recall fix is ‘insufficient’](https://techcrunch.com/2023/12/20/tesla-autopilot-recall-consumer-reports/)
-- [Mars Express orbiter suggests evidence of ancient microbial life, water and volcanism on Red Planet](https://www.space.com/mars-express-orbiter-water-red-planet-volcano-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
