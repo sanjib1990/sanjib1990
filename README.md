@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Al Mada Ventures, the $110M fund for Africans by Africans](https://techcrunch.com/2023/12/20/al-mada-ventures-the-110m-fund-for-africans-by-africans/)
 - [Electric scooter company Bird files for bankruptcy](https://techcrunch.com/2023/12/20/bird-bankruptcy/)
 - [ShareChat faces large valuation cut in new funding](https://techcrunch.com/2023/12/19/sharechat-faces-large-valuation-cut-in-new-funding/)
 - [Strange &#39;slide whistle&#39; fast radio burst picked up by alien-hunting telescope defies explanation](https://www.space.com/slide-whistle-fast-radio-burst-defies-explanation)
 - [Micromobility.com gets delisted from the Nasdaq](https://techcrunch.com/2023/12/19/micromobility-com-gets-delisted-from-the-nasdaq/)
-- [Tesla requests pause in federal racial bias lawsuit as it wraps up other cases](https://techcrunch.com/2023/12/19/tesla-requests-pause-in-federal-racial-bias-lawsuit-as-it-wraps-up-other-cases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
