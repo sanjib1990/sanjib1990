@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OurCrowd makes the first 8 investments from its Israel Resilience Fund](https://techcrunch.com/2023/12/20/ourcrowd-makes-the-first-8-investments-from-its-israel-resilience-fund/)
+- [What&#39;s it like to buzz an Artemis SLS moon rocket with a supersonic jet? NASA&#39;s Artemis 2 commander tells all](https://www.space.com/nasa-artemis-2-moon-astronaut-flyby-artemis-1)
+- [Re-commerce marketplace Soum gets $18M backing to scale in MENA](https://techcrunch.com/2023/12/20/soum-18m-series-a-funding/)
+- [Drones accessories Christmas gift guide](https://www.space.com/drones-accessories-christmas-holiday-gift-guide)
 - [EU names three porn sites subject to its strictest online content rules](https://techcrunch.com/2023/12/20/pornhub-stripchat-xvideos-eu-vlops/)
-- [Firefly Aerospace launching 4th-ever mission today: Watch live](https://www.space.com/firefly-aerospace-launch-fly-the-lightning)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Rite Aid banned from using facial recognition software after falsely identifying shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
-- [Al Mada Ventures, the $110M fund for Africans by Africans](https://techcrunch.com/2023/12/20/al-mada-ventures-the-110m-fund-for-africans-by-africans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
