@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding life on Saturn&#39;s moon Enceladus might be easier than we thought](https://www.space.com/life-saturn-moon-enceladus-easier-than-expected-ice-plumes)
+- [Artemis program will land international astronaut on the moon by end of 2020s, VP Harris says](https://www.space.com/nasa-artemis-international-astronaut-moon-landing-2020s)
 - [Everything we know about the Alien TV series: Release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-the-alien-tv-series)
 - [In the quest to find alien life, scientists are searching for extrasolar Earth-Jupiter duos](https://www.space.com/earth-planets-jupiter-worlds-search-for-life)
 - [Big Tech’s divisive ‘personalization’ attracts fresh call for profiling-based content feeds to be off by default in EU](https://techcrunch.com/2023/12/20/dsa-recommender-systems/)
-- [Ask Sophie: Is it easier yet for AI founders to get green cards?](https://techcrunch.com/2023/12/20/ask-sophie-is-it-easier-yet-for-ai-founders-to-get-green-cards/)
-- [Consumer Reports says Tesla’s Autopilot recall fix is ‘insufficient’](https://techcrunch.com/2023/12/20/tesla-autopilot-recall-consumer-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
