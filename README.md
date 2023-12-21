@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires up giant Starship rocket ahead of 3rd test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-static-fire-december-2023)
 - [The first annual VTuber Awards was a win for VR](https://techcrunch.com/2023/12/20/vtuber-awards-vr-twitch-weplay-filian/)
 - [Finding life on Saturn&#39;s moon Enceladus might be easier than we thought](https://www.space.com/life-saturn-moon-enceladus-easier-than-expected-ice-plumes)
 - [Artemis program will land international astronaut on the moon by end of 2020s, VP Harris says](https://www.space.com/nasa-artemis-international-astronaut-moon-landing-2020s)
 - [Everything we know about the Alien TV series: Release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-the-alien-tv-series)
-- [In the quest to find alien life, scientists are searching for extrasolar Earth-Jupiter duos](https://www.space.com/earth-planets-jupiter-worlds-search-for-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
