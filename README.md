@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why tokenization of assets can be a key driver of growth in crypto](https://techcrunch.com/2023/12/21/crypto-tokenization-of-assets/)
-- [Astronomers discover strangely missing stars in galaxies near Milky Way](https://www.space.com/astronomers-missing-star-population-dwarf-galaxies)
-- [Propelled by ‘science for humanity,’ this Chinese AI startup sets sight on US](https://techcrunch.com/2023/12/21/ai-for-science-dp-technology/)
-- [Beeper says it’s done trying to bring iMessage to Android after month-long ‘cat and mouse’ game with Apple](https://techcrunch.com/2023/12/21/beeper-done-trying-bring-imessage-android-after-month-long-cat-mouse-game-apple/)
-- [Private moon lander&#39;s SpaceX launch delayed a month, to February](https://www.space.com/spacex-launch-intuitive-machines-private-moon-lander-delay-february)
+- [Dog-themed memecoins are pawing their way back into investors’ hearts](https://techcrunch.com/2023/12/21/dog-themed-memecoins-are-pawing-their-way-back-into-investors-hearts/)
+- [Even without Adobe, things don’t look too bad for Figma](https://techcrunch.com/2023/12/21/figma-valuation-after-adobe/)
+- [Hubble Telescope gifts us a dazzling starry &#39;snow globe&#39; just in time for the holidays](https://www.space.com/hubble-christmas-snow-globe-image)
+- [SpaceX launch of Axiom Space&#39;s 3rd private astronaut mission delayed to Jan. 17](https://www.space.com/spacex-ax-3-astronaut-mission-launch-delay-january-17)
+- [Intuitive Machines, SpaceX push lunar lander launch date to February](https://techcrunch.com/2023/12/21/intuitive-machines-spacex-push-lunar-lander-launch-date-to-february/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
