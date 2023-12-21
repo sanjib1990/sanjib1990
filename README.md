@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Binoculars Christmas gift guide 2023](https://www.space.com/binoculars-christmas-holiday-gift-guide)
+- [Winter solstice 2023 is here, bringing the longest night of the year to Northern Hemisphere](https://www.space.com/winter-solstice-2023-longest-night-northern-hemisphere)
+- [Backed by Schmidt Futures, Cloudline raises $6M to take aerial autonomy green and mainstream](https://techcrunch.com/2023/12/21/backed-by-schmidt-futures-cloudline-raises-6m-to-take-aerial-autonomy-green-and-mainstream/)
 - [Podimo raises €44M to turn up the volume on its Netflix-style podcasting platform](https://techcrunch.com/2023/12/21/podimo-raises-e44m-to-turn-up-the-volume-on-its-netflix-style-podcasting-platform/)
 - [India passes telecom law paving the way for Musk’s Starlink amid privacy concerns](https://techcrunch.com/2023/12/21/india-telecom-bill-starlink-privacy-concerns/)
-- [Worldcoin is no longer offering Orb-verification in India, Brazil and France](https://techcrunch.com/2023/12/20/worldcoin-is-no-longer-offering-orb-verification-in-india-brazil-and-france/)
-- [Vestwell raises $125M to help businesses power workplace savings programs](https://techcrunch.com/2023/12/20/vestwell-raises-125m-in-preempted-round-of-funding-to-help-businesses-power-workplace-savings-programs/)
-- [Elon Musk’s X suffered yet another global outage](https://techcrunch.com/2023/12/20/x-twitter-down-for-users-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
