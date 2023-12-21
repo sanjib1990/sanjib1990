@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Distant nebula looks like fleeing turkey in festive new Very Large Telescope photo](https://www.space.com/running-chicken-nebula-vlt-photo)
+- [Apple has halted Watch Series 9 and Ultra 2 online sales](https://techcrunch.com/2023/12/21/apple-has-halted-watch-series-9-and-ultra-2-online-sales/)
+- [Hyperloop One is reportedly shutting down](https://techcrunch.com/2023/12/21/hyperloop-one-shutting-down/)
+- [What we’re looking forward to seeing from the space industry in 2024](https://techcrunch.com/2023/12/21/what-were-looking-forward-to-seeing-from-the-space-industry-in-2024/)
 - [Adam Sandler ventures deep into the cosmos in new teaser for &#39;Spaceman&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/adam-sandler-ventures-deep-into-the-cosmos-in-new-teaser-for-spaceman-video)
-- [Chinese startup LandSpace poised to begin reusable rocket landing tests](https://www.space.com/china-landspace-ready-for-reusable-rocket-test)
-- [Tech’s DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
-- [National Lab simulates Armageddon-style nuclear asteroid deflection](https://techcrunch.com/2023/12/21/national-lab-simulates-armageddon-style-nuclear-asteroid-deflection/)
-- [Dog-themed memecoins are pawing their way back into investors’ hearts](https://techcrunch.com/2023/12/21/dog-themed-memecoins-are-pawing-their-way-back-into-investors-hearts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
