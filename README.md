@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Wozniak&#39;s start-up Privateer develops ride-sharing spacecraft to reduce orbital clutter](https://www.space.com/space-exploration/satellites/steve-wozniaks-start-up-privateer-develops-ride-sharing-spacecraft-to-reduce-orbital-clutter)
-- [Seed to Series A: Strategic insights for tech founders in the 2024 venture landscape](https://techcrunch.com/2023/12/21/seed-to-series-a-strategic-insights-for-tech-founders-in-the-2024-venture-landscape/)
-- [Supernova Encore: NASA’s Webb Spots a Second Lensed Supernova in a Distant Galaxy](https://blogs.nasa.gov/webb/2023/12/21/supernova-encore-nasas-webb-spots-a-second-lensed-supernova-in-a-distant-galaxy/)
-- [Massachusetts lawmakers mull ‘killer robot’ bill](https://techcrunch.com/2023/12/21/massachusetts-lawmakers-mull-killer-robot-bill/)
-- [Y Combinator-backed Intrinsic is building infrastructure for trust and safety teams](https://techcrunch.com/2023/12/21/y-combinator-backed-intrinsic-is-building-infrastructure-for-trust-and-safety-teams/)
+- [Spectacular &#39;rainbow clouds&#39; light up northern skies in a rare skywatching treat &lpar;photos&rpar;](https://www.space.com/rare-rainbow-nacreous-clouds-northern-skies-photos-december-2023)
+- [Startups aren’t doing as badly as you might think](https://techcrunch.com/2023/12/21/doom-and-bloom/)
+- [Electric vehicle charging startup EVCS is raising $20M](https://techcrunch.com/2023/12/21/evcs-ev-charging-fundraising/)
+- [A provocative role for technologists in product innovation](https://techcrunch.com/2023/12/21/a-provocative-role-for-technologists-in-product-innovation/)
+- [Cisco to acquire cloud-native networking and security startup Isovalent](https://techcrunch.com/2023/12/21/cisco-to-acquire-cloud-native-networking-and-security-startup-isovalent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
