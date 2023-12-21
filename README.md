@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adam Sandler ventures deep into the cosmos in new teaser for &#39;Spaceman&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/adam-sandler-ventures-deep-into-the-cosmos-in-new-teaser-for-spaceman-video)
+- [Chinese startup LandSpace poised to begin reusable rocket landing tests](https://www.space.com/china-landspace-ready-for-reusable-rocket-test)
+- [Tech’s DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
+- [National Lab simulates Armageddon-style nuclear asteroid deflection](https://techcrunch.com/2023/12/21/national-lab-simulates-armageddon-style-nuclear-asteroid-deflection/)
 - [Dog-themed memecoins are pawing their way back into investors’ hearts](https://techcrunch.com/2023/12/21/dog-themed-memecoins-are-pawing-their-way-back-into-investors-hearts/)
-- [Even without Adobe, things don’t look too bad for Figma](https://techcrunch.com/2023/12/21/figma-valuation-after-adobe/)
-- [Hubble Telescope gifts us a dazzling starry &#39;snow globe&#39; just in time for the holidays](https://www.space.com/hubble-christmas-snow-globe-image)
-- [SpaceX launch of Axiom Space&#39;s 3rd private astronaut mission delayed to Jan. 17](https://www.space.com/spacex-ax-3-astronaut-mission-launch-delay-january-17)
-- [Intuitive Machines, SpaceX push lunar lander launch date to February](https://techcrunch.com/2023/12/21/intuitive-machines-spacex-push-lunar-lander-launch-date-to-february/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
