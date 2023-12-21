@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Medallion, a platform for artists to connect directly with fans, raises $13.7M](https://techcrunch.com/2023/12/21/medallion-a-platform-for-artists-to-connect-directly-with-fans-raises-13-7m/)
+- [Can stars form around black holes?](https://www.space.com/can-stars-form-around-black-holes)
+- [Watch the &#39;Christmas Tree Cluster&#39; twinkle in X-rays &lpar;video&rpar;](https://www.space.com/christmas-tree-cluster-twinkling-lights-chandra-x-ray-observatory)
+- [Meet Kosmik, a visual canvas with an in-built PDF reader and a web browser](https://techcrunch.com/2023/12/21/meet-kosmik-a-visual-canvas-with-an-in-built-pdf-reader-and-a-web-browser/)
 - [Binoculars Christmas gift guide 2023](https://www.space.com/binoculars-christmas-holiday-gift-guide)
-- [Winter solstice 2023 is here, bringing the longest night of the year to Northern Hemisphere](https://www.space.com/winter-solstice-2023-longest-night-northern-hemisphere)
-- [Backed by Schmidt Futures, Cloudline raises $6M to take aerial autonomy green and mainstream](https://techcrunch.com/2023/12/21/backed-by-schmidt-futures-cloudline-raises-6m-to-take-aerial-autonomy-green-and-mainstream/)
-- [Podimo raises €44M to turn up the volume on its Netflix-style podcasting platform](https://techcrunch.com/2023/12/21/podimo-raises-e44m-to-turn-up-the-volume-on-its-netflix-style-podcasting-platform/)
-- [India passes telecom law paving the way for Musk’s Starlink amid privacy concerns](https://techcrunch.com/2023/12/21/india-telecom-bill-starlink-privacy-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
