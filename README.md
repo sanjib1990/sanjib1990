@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator-backed Intrinsic is building infrastructure for trust and safety teams](https://techcrunch.com/2023/12/21/y-combinator-backed-intrinsic-is-building-infrastructure-for-trust-and-safety-teams/)
+- [The new American Dream is to get MrBeast to pay off your debt](https://techcrunch.com/2023/12/21/mrbeast-american-dream-suzie-taylor/)
 - [Medallion, a platform for artists to connect directly with fans, raises $13.7M](https://techcrunch.com/2023/12/21/medallion-a-platform-for-artists-to-connect-directly-with-fans-raises-13-7m/)
 - [Can stars form around black holes?](https://www.space.com/can-stars-form-around-black-holes)
 - [Watch the &#39;Christmas Tree Cluster&#39; twinkle in X-rays &lpar;video&rpar;](https://www.space.com/christmas-tree-cluster-twinkling-lights-chandra-x-ray-observatory)
-- [Meet Kosmik, a visual canvas with an in-built PDF reader and a web browser](https://techcrunch.com/2023/12/21/meet-kosmik-a-visual-canvas-with-an-in-built-pdf-reader-and-a-web-browser/)
-- [Binoculars Christmas gift guide 2023](https://www.space.com/binoculars-christmas-holiday-gift-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
