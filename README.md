@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Buy your TechCrunch Early Stage 2024 pass before January 2 and save an extra 20%](https://techcrunch.com/2023/12/21/buy-your-techcrunch-early-stage-2024-pass-before-january-2-and-save-an-extra-20/)
+- [Google updates Chrome on desktop with proactive Safety Check](https://techcrunch.com/2023/12/21/google-updates-chrome-on-desktop-with-proactive-safety-check/)
+- [Against Pseudanthropy](https://techcrunch.com/2023/12/21/against-pseudanthropy/)
+- [5 pet tech gifts for your fur babies in 2023](https://techcrunch.com/2023/12/21/5-pet-tech-gifts-for-your-fur-babies/)
 - [Spectacular &#39;rainbow clouds&#39; light up northern skies in a rare skywatching treat &lpar;photos&rpar;](https://www.space.com/rare-rainbow-nacreous-clouds-northern-skies-photos-december-2023)
-- [Startups aren’t doing as badly as you might think](https://techcrunch.com/2023/12/21/doom-and-bloom/)
-- [Electric vehicle charging startup EVCS is raising $20M](https://techcrunch.com/2023/12/21/evcs-ev-charging-fundraising/)
-- [A provocative role for technologists in product innovation](https://techcrunch.com/2023/12/21/a-provocative-role-for-technologists-in-product-innovation/)
-- [Cisco to acquire cloud-native networking and security startup Isovalent](https://techcrunch.com/2023/12/21/cisco-to-acquire-cloud-native-networking-and-security-startup-isovalent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
