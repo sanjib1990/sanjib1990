@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NERFs &lpar;No, not that kind&rpar; - Computerphile](https://www.youtube.com/watch?v=wKsoGiENBHU)
+- [10 weird algorithms](https://www.youtube.com/watch?v=SmyPTnlqhlk)
 - [the untold history of web development](https://www.youtube.com/watch?v=aXcuz6fn8_w)
 - [This new AI is powerful and uncensored… Let’s run it](https://www.youtube.com/watch?v=GyllRd2E6fg)
 - [AI coding assistants just leveled up, again…](https://www.youtube.com/watch?v=7h732qLxtAk)
-- [Defining Regular Expressions &lpar;RegEx&rpar; - Computerphile](https://www.youtube.com/watch?v=Qn_vjKYfwak)
-- [The shocking result of Epic Games vs Google](https://www.youtube.com/watch?v=gVzHNGyA_a4)
 <!-- YOUTUBE:END -->
 
 ---
