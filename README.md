@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Worldcoin is no longer offering Orb-verification in India, Brazil and France](https://techcrunch.com/2023/12/20/worldcoin-is-no-longer-offering-orb-verification-in-india-brazil-and-france/)
 - [Vestwell raises $125M to help businesses power workplace savings programs](https://techcrunch.com/2023/12/20/vestwell-raises-125m-in-preempted-round-of-funding-to-help-businesses-power-workplace-savings-programs/)
 - [Elon Musk’s X suffered yet another global outage](https://techcrunch.com/2023/12/20/x-twitter-down-for-users-outage/)
 - [Virgin Galactic to launch 6th commercial spaceflight on Jan. 26](https://www.space.com/virgin-galactic-6th-commercial-spaceflight-january-2024)
 - [SpaceX fires up giant Starship rocket ahead of 3rd test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-static-fire-december-2023)
-- [The first annual VTuber Awards was a win for VR](https://techcrunch.com/2023/12/20/vtuber-awards-vr-twitch-weplay-filian/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
