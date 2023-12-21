@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supernova Encore: NASA’s Webb Spots a Second Lensed Supernova in a Distant Galaxy](https://blogs.nasa.gov/webb/2023/12/21/supernova-encore-nasas-webb-spots-a-second-lensed-supernova-in-a-distant-galaxy/)
+- [Massachusetts lawmakers mull ‘killer robot’ bill](https://techcrunch.com/2023/12/21/massachusetts-lawmakers-mull-killer-robot-bill/)
 - [Y Combinator-backed Intrinsic is building infrastructure for trust and safety teams](https://techcrunch.com/2023/12/21/y-combinator-backed-intrinsic-is-building-infrastructure-for-trust-and-safety-teams/)
 - [The new American Dream is to get MrBeast to pay off your debt](https://techcrunch.com/2023/12/21/mrbeast-american-dream-suzie-taylor/)
 - [Medallion, a platform for artists to connect directly with fans, raises $13.7M](https://techcrunch.com/2023/12/21/medallion-a-platform-for-artists-to-connect-directly-with-fans-raises-13-7m/)
-- [Can stars form around black holes?](https://www.space.com/can-stars-form-around-black-holes)
-- [Watch the &#39;Christmas Tree Cluster&#39; twinkle in X-rays &lpar;video&rpar;](https://www.space.com/christmas-tree-cluster-twinkling-lights-chandra-x-ray-observatory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
