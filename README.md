@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warped supernova spotted by James Webb Space Telescope could settle a longstanding debate](https://www.space.com/james-webb-space-telescope-second-lensed-supernova-hubble-tension)
+- [SpaceX Falcon 9 rocket to launch on record-breaking 19th mission tonight](https://www.space.com/spacex-starlink-launch-group-6-32)
+- [Firefly’s Alpha rocket reaches orbit for the fourth time](https://techcrunch.com/2023/12/22/fireflys-alpha-rocket-reaches-orbit-for-the-fourth-time/)
 - [Proposed new rule: All AI output must rhyme](https://techcrunch.com/2023/12/22/proposed-new-rule-all-ai-output-must-rhyme/)
 - [Nuking an incoming asteroid will spew out X-rays. This new model shows what happens](https://www.space.com/asteroid-nuclear-defense-model-x-rays-study)
-- [&#39;For All Mankind&#39; season 4 episode 7 review: Teases a spectacular end of season run](https://www.space.com/for-all-mankind-season-4-episode-7-review)
-- [Once again, Etsy’s layoffs come as no surprise](https://techcrunch.com/2023/12/22/etsy-layoffs-no-surprise/)
-- [Hyperloop’s loss is high-speed rail’s gain](https://techcrunch.com/2023/12/22/hyperloop-one-elon-musk-high-speed-rail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
