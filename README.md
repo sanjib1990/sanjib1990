@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Akron Energy raises $110M to grow U.S. bitcoin mining capacity, launch AI cloud service in Norway](https://techcrunch.com/2023/12/22/akron-energy-bitcoin-mining/)
-- [Cygnus cargo craft departs the ISS Dec. 22 for fiery re-entry in new year](https://www.space.com/northrop-grumman-cygnus-ng-19-iss-departure)
-- [See the moon and Jupiter enjoy their final meet-up of 2023 in the night sky tonight](https://www.space.com/moon-jupiter-dec-22-2023)
-- [Google makes bid to resolve competition concerns in Germany over its automotive services bundling](https://techcrunch.com/2023/12/22/google-automotive-services-offer-to-fco/)
-- [These are the cybersecurity stories we were jealous of in 2023](https://techcrunch.com/2023/12/22/techcrunch-security-desk-jealousy-list/)
+- [SVB, SBF and &lpar;more&rpar; OpenAI: The 2023 chronicles, pt. 2](https://techcrunch.com/2023/12/22/2023-big-moments-svb-sbf-and-more-openai/)
+- [A dual-use ‘Slack+location+payments’ startup raises Seed to serve humanitarian, military scenarios](https://techcrunch.com/2023/12/22/labrys/)
+- [Black senators voice concerns over impact of tech layoffs on minority workers](https://techcrunch.com/2023/12/22/black-senators-voice-concerns-over-impact-of-tech-layoffs-on-minority-workers/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Arkon Energy raises $110M to grow U.S. bitcoin mining capacity, launch AI cloud service in Norway](https://techcrunch.com/2023/12/22/arkon-energy-bitcoin-mining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
