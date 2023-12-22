@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 12 patches of Christmas: &#39;KSC Artist&#39; shares his favorite spaceflight designs of 2023](https://www.space.com/12-space-patches-christmas)
+- [EU’s provisional deal on gig worker rights fails to get enough backing from Member States](https://techcrunch.com/2023/12/22/eu-platform-worker-directive-no-coreper-deal/)
+- [Arduino exploring India manufacturing to limit counterfeit sales](https://techcrunch.com/2023/12/22/arduino-india-manufacturing/)
 - [Was it a good idea for humanity to go to space?](https://www.space.com/was-it-a-good-idea-for-humanity-to-go-to-space)
 - [It’s critical to regulate AI within the multi-trillion-dollar API economy](https://techcrunch.com/2023/12/22/its-critical-to-regulate-ai-within-the-multi-trillion-api-economy/)
-- [Fintech’s biggest hits and misses of 2023](https://techcrunch.com/2023/12/22/fintechs-biggest-hits-and-misses-of-2023/)
-- [Pitch Deck Teardown: HomeCooks’ $3.2M seed deck](https://techcrunch.com/2023/12/22/sample-seed-pitch-deck-homecooks/)
-- [Spotify starts ‘disinvesting’ in France in response to new music-streaming tax](https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
