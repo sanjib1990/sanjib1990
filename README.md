@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How simplifying the production of customized merchandise led this Lisbon startup to raise $19M](https://techcrunch.com/2023/12/22/how-simplifying-the-production-of-customized-merchandise-led-this-lisbon-startup-to-raise-19m/)
 - [Watch live as private Cygnus cargo craft leaves the ISS on Dec. 22](https://www.space.com/northrop-grumman-cygnus-ng-19-iss-departure)
 - [Distant nebula looks like fleeing turkey in festive new Very Large Telescope photo](https://www.space.com/running-chicken-nebula-vlt-photo)
 - [Apple has halted Watch Series 9 and Ultra 2 online sales](https://techcrunch.com/2023/12/21/apple-has-halted-watch-series-9-and-ultra-2-online-sales/)
 - [Hyperloop One is reportedly shutting down](https://techcrunch.com/2023/12/21/hyperloop-one-shutting-down/)
-- [What we’re looking forward to seeing from the space industry in 2024](https://techcrunch.com/2023/12/21/what-were-looking-forward-to-seeing-from-the-space-industry-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
