@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A strong foundation can help raise early-stage capital](https://techcrunch.com/2023/12/22/a-strong-foundation-can-help-raise-early-stage-capital/)
-- [Upcoming Einstein Probe will use its &#39;lobster eye&#39; to hunt for extreme black holes and star explosions](https://www.space.com/einstein-probe-lobster-eye-neutron-stars-black-holes-star-explosions)
-- [The EV tax credit is about to get better, and also harder to find](https://techcrunch.com/2023/12/22/federal-ev-tax-credit-changes-tesla-ford/)
-- [Johannes Kepler: Everything you need to know](https://www.space.com/15787-johannes-kepler.html)
-- [Pornhub owner pays US government $1.8M to resolve sex trafficking probe](https://techcrunch.com/2023/12/22/pornhub-owner-pays-u-s-government-1-8m-to-resolve-sex-trafficking-probe/)
+- [Proposed new rule: All AI output must rhyme](https://techcrunch.com/2023/12/22/proposed-new-rule-all-ai-output-must-rhyme/)
+- [Nuking an incoming asteroid will spew out X-rays. This new model shows what happens](https://www.space.com/asteroid-nuclear-defense-model-x-rays-study)
+- [&#39;For All Mankind&#39; season 4 episode 7 review: Teases a spectacular end of season run](https://www.space.com/for-all-mankind-season-4-episode-7-review)
+- [Once again, Etsy’s layoffs come as no surprise](https://techcrunch.com/2023/12/22/etsy-layoffs-no-surprise/)
+- [Hyperloop’s loss is high-speed rail’s gain](https://techcrunch.com/2023/12/22/hyperloop-one-elon-musk-high-speed-rail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
