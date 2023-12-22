@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A strong foundation can help raise early-stage capital](https://techcrunch.com/2023/12/22/a-strong-foundation-can-help-raise-early-stage-capital/)
+- [Upcoming Einstein Probe will use its &#39;lobster eye&#39; to hunt for extreme black holes and star explosions](https://www.space.com/einstein-probe-lobster-eye-neutron-stars-black-holes-star-explosions)
+- [The EV tax credit is about to get better, and also harder to find](https://techcrunch.com/2023/12/22/federal-ev-tax-credit-changes-tesla-ford/)
 - [Johannes Kepler: Everything you need to know](https://www.space.com/15787-johannes-kepler.html)
 - [Pornhub owner pays US government $1.8M to resolve sex trafficking probe](https://techcrunch.com/2023/12/22/pornhub-owner-pays-u-s-government-1-8m-to-resolve-sex-trafficking-probe/)
-- [Top robotics names discuss humanoids, generative AI and more](https://techcrunch.com/2023/12/22/top-robotics-names-discuss-humanoids-generative-ai-and-more/)
-- [The 12 patches of Christmas: &#39;KSC Artist&#39; shares his favorite spaceflight designs of 2023](https://www.space.com/12-space-patches-christmas)
-- [EU’s provisional deal on gig worker rights fails to get enough backing from Member States](https://techcrunch.com/2023/12/22/eu-platform-worker-directive-no-coreper-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
