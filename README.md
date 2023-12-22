@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon and Jupiter enjoy their final meet-up of 2023 in the night sky tonight](https://www.space.com/moon-jupiter-dec-22-2023)
 - [Google makes bid to resolve competition concerns in Germany over its automotive services bundling](https://techcrunch.com/2023/12/22/google-automotive-services-offer-to-fco/)
 - [These are the cybersecurity stories we were jealous of in 2023](https://techcrunch.com/2023/12/22/techcrunch-security-desk-jealousy-list/)
 - [The Ursids peak tonight, offering the last meteor shower of 2023 tonight](https://www.space.com/ursid-meteor-shower-dec-2023)
 - [Two of Africa’s largest B2B e-commerce platforms MaxAB and Wasoko in merger talks](https://techcrunch.com/2023/12/22/maxab-and-wasoko-in-merger-talks/)
-- [How simplifying the production of customized merchandise led this Lisbon startup to raise $19M](https://techcrunch.com/2023/12/22/how-simplifying-the-production-of-customized-merchandise-led-this-lisbon-startup-to-raise-19m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
