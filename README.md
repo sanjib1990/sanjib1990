@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Hubble Telescope image shows mysterious spokes on Saturn&#39;s rings](https://www.space.com/hubble-image-mysterious-saturn-ring-spokes)
 - [Warped supernova spotted by James Webb Space Telescope could settle a longstanding debate](https://www.space.com/james-webb-space-telescope-second-lensed-supernova-hubble-tension)
 - [SpaceX Falcon 9 rocket to launch on record-breaking 19th mission tonight](https://www.space.com/spacex-starlink-launch-group-6-32)
 - [Firefly’s Alpha rocket reaches orbit for the fourth time](https://techcrunch.com/2023/12/22/fireflys-alpha-rocket-reaches-orbit-for-the-fourth-time/)
 - [Proposed new rule: All AI output must rhyme](https://techcrunch.com/2023/12/22/proposed-new-rule-all-ai-output-must-rhyme/)
-- [Nuking an incoming asteroid will spew out X-rays. This new model shows what happens](https://www.space.com/asteroid-nuclear-defense-model-x-rays-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
