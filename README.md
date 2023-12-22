@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SVB, SBF and &lpar;more&rpar; OpenAI: The 2023 chronicles, pt. 2](https://techcrunch.com/2023/12/22/2023-big-moments-svb-sbf-and-more-openai/)
-- [A dual-use ‘Slack+location+payments’ startup raises Seed to serve humanitarian, military scenarios](https://techcrunch.com/2023/12/22/labrys/)
-- [Black senators voice concerns over impact of tech layoffs on minority workers](https://techcrunch.com/2023/12/22/black-senators-voice-concerns-over-impact-of-tech-layoffs-on-minority-workers/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Arkon Energy raises $110M to grow U.S. bitcoin mining capacity, launch AI cloud service in Norway](https://techcrunch.com/2023/12/22/arkon-energy-bitcoin-mining/)
+- [Was it a good idea for humanity to go to space?](https://www.space.com/was-it-a-good-idea-for-humanity-to-go-to-space)
+- [It’s critical to regulate AI within the multi-trillion-dollar API economy](https://techcrunch.com/2023/12/22/its-critical-to-regulate-ai-within-the-multi-trillion-api-economy/)
+- [Fintech’s biggest hits and misses of 2023](https://techcrunch.com/2023/12/22/fintechs-biggest-hits-and-misses-of-2023/)
+- [Pitch Deck Teardown: HomeCooks’ $3.2M seed deck](https://techcrunch.com/2023/12/22/sample-seed-pitch-deck-homecooks/)
+- [Spotify starts ‘disinvesting’ in France in response to new music-streaming tax](https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
