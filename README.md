@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Johannes Kepler: Everything you need to know](https://www.space.com/15787-johannes-kepler.html)
+- [Pornhub owner pays US government $1.8M to resolve sex trafficking probe](https://techcrunch.com/2023/12/22/pornhub-owner-pays-u-s-government-1-8m-to-resolve-sex-trafficking-probe/)
+- [Top robotics names discuss humanoids, generative AI and more](https://techcrunch.com/2023/12/22/top-robotics-names-discuss-humanoids-generative-ai-and-more/)
 - [The 12 patches of Christmas: &#39;KSC Artist&#39; shares his favorite spaceflight designs of 2023](https://www.space.com/12-space-patches-christmas)
 - [EU’s provisional deal on gig worker rights fails to get enough backing from Member States](https://techcrunch.com/2023/12/22/eu-platform-worker-directive-no-coreper-deal/)
-- [Arduino exploring India manufacturing to limit counterfeit sales](https://techcrunch.com/2023/12/22/arduino-india-manufacturing/)
-- [Was it a good idea for humanity to go to space?](https://www.space.com/was-it-a-good-idea-for-humanity-to-go-to-space)
-- [It’s critical to regulate AI within the multi-trillion-dollar API economy](https://techcrunch.com/2023/12/22/its-critical-to-regulate-ai-within-the-multi-trillion-api-economy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
