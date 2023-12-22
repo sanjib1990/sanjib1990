@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Akron Energy raises $110M to grow U.S. bitcoin mining capacity, launch AI cloud service in Norway](https://techcrunch.com/2023/12/22/akron-energy-bitcoin-mining/)
+- [Cygnus cargo craft departs the ISS Dec. 22 for fiery re-entry in new year](https://www.space.com/northrop-grumman-cygnus-ng-19-iss-departure)
 - [See the moon and Jupiter enjoy their final meet-up of 2023 in the night sky tonight](https://www.space.com/moon-jupiter-dec-22-2023)
 - [Google makes bid to resolve competition concerns in Germany over its automotive services bundling](https://techcrunch.com/2023/12/22/google-automotive-services-offer-to-fco/)
 - [These are the cybersecurity stories we were jealous of in 2023](https://techcrunch.com/2023/12/22/techcrunch-security-desk-jealousy-list/)
-- [The Ursids peak tonight, offering the last meteor shower of 2023 tonight](https://www.space.com/ursid-meteor-shower-dec-2023)
-- [Two of Africa’s largest B2B e-commerce platforms MaxAB and Wasoko in merger talks](https://techcrunch.com/2023/12/22/maxab-and-wasoko-in-merger-talks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
