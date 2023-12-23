@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket to launch 2 German military satellites early Dec. 23](https://www.space.com/spacex-german-military-satellites-launch-december-2023)
 - [A first look at nine new IndieBio NY companies that will present to VCs next month](https://techcrunch.com/2023/12/22/a-first-look-at-nine-new-indiebio-ny-companies-that-will-present-to-vcs-next-month/)
 - [Life beyond Earth may form in the coldest depths of space, Ryugu asteroid samples reveal](https://www.space.com/asteroid-ryugu-samples-origins-life-cold)
 - [New Hubble Telescope image shows mysterious spokes on Saturn&#39;s rings](https://www.space.com/hubble-image-mysterious-saturn-ring-spokes)
 - [Warped supernova spotted by James Webb Space Telescope could settle a longstanding debate](https://www.space.com/james-webb-space-telescope-second-lensed-supernova-hubble-tension)
-- [SpaceX Falcon 9 rocket to launch on record-breaking 19th mission tonight](https://www.space.com/spacex-starlink-launch-group-6-32)
 <!-- BLOG-POST-LIST:END -->
 
 ---
