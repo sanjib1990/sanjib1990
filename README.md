@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch giant loop of plasma dance above the sun in stunning video](https://www.space.com/solar-prominence-video-miguel-claro)
+- [Defy the odds, create a unique niche, and succeed beyond the hype](https://techcrunch.com/2023/12/23/defy-the-odds-create-a-unique-niche-and-succeed-beyond-the-hype/)
 - [GM stops Chevy Blazer EV sales after early software problems](https://techcrunch.com/2023/12/23/gm-chevy-blazer-ev-stop-sale/)
 - [Alexander Skarsgård to star in Apple TV+ sci-fi &#39;Murderbot&#39; series](https://www.space.com/murderbot-sci-fi-series-apple-tv-plus)
 - [10 times the night sky amazed us in 2023](https://www.space.com/ten-amazing-night-sky-photos-2023)
-- [12 James Webb Space Telescope findings that changed our understanding of the universe in 2023](https://www.space.com/james-webb-space-telescope-2023-discoveries)
-- [Bluesky finally lets users look at posts without logging in](https://techcrunch.com/2023/12/22/bluesky-finally-lets-users-look-at-posts-without-logging-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
