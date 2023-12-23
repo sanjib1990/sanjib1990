@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: Thank god a startup is solving the bed bug problem](https://techcrunch.com/2023/12/23/deal-dive-f-u-bed-bugs/)
 - [This week in AI: AI ethics keeps falling by the wayside](https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/)
 - [Home &lpar;Alone&rpar; on Mars: Actor Daniel Stern on leading NASA in &#39;For All Mankind&#39;](https://www.space.com/home-alone-mars-daniel-stern-for-all-mankind-interview)
 - [Watch giant loop of plasma dance above the sun in stunning video](https://www.space.com/solar-prominence-video-miguel-claro)
 - [Defy the odds, create a unique niche, and succeed beyond the hype](https://techcrunch.com/2023/12/23/defy-the-odds-create-a-unique-niche-and-succeed-beyond-the-hype/)
-- [GM stops Chevy Blazer EV sales after early software problems](https://techcrunch.com/2023/12/23/gm-chevy-blazer-ev-stop-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
