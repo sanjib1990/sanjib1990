@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 moon crew invited to visit SpaceX to talk Starship &lpar;exclusive&rpar;](https://www.space.com/nasa-artemis-2-moon-crew-spacex-starship-invitation)
 - [12 of the most exciting black hole developments from 2023](https://www.space.com/12-biggest-black-hole-discoveries-2023)
 - [13 record-breaking space discoveries of 2023](https://www.space.com/record-breaking-space-discoveries-2023)
 - [55 years after Apollo 8&#39;s Christmas at the moon, a new Artemis crew readies for launch &lpar;exclusive&rpar;](https://www.space.com/apollo-8-moon-mission-55th-anniversary-artemis-2-astronaut-exclusive)
 - [Adobe gives up on Figma, Apple Watch sales halted and hackers access millions of accounts](https://techcrunch.com/2023/12/23/adobe-gives-up-on-figma-apple-watch-sales-halted-and-hackers-access-millions-of-accounts/)
-- [Amazon’s new Echo Frames can’t touch the Ray-Ban Meta](https://techcrunch.com/2023/12/23/amazons-new-echo-frames-cant-touch-the-ray-ban-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
