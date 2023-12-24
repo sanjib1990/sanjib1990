@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [55 years after Apollo 8&#39;s Christmas at the moon, a new Artemis crew readies for launch &lpar;exclusive&rpar;](https://www.space.com/apollo-8-moon-mission-55th-anniversary-artemis-2-astronaut-exclusive)
 - [Adobe gives up on Figma, Apple Watch sales halted and hackers access millions of accounts](https://techcrunch.com/2023/12/23/adobe-gives-up-on-figma-apple-watch-sales-halted-and-hackers-access-millions-of-accounts/)
 - [Amazon’s new Echo Frames can’t touch the Ray-Ban Meta](https://techcrunch.com/2023/12/23/amazons-new-echo-frames-cant-touch-the-ray-ban-meta/)
 - [Deal Dive: Thank god a startup is solving the bed bug problem](https://techcrunch.com/2023/12/23/deal-dive-f-u-bed-bugs/)
 - [This week in AI: AI ethics keeps falling by the wayside](https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/)
-- [Home &lpar;Alone&rpar; on Mars: Actor Daniel Stern on leading NASA in &#39;For All Mankind&#39;](https://www.space.com/home-alone-mars-daniel-stern-for-all-mankind-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
