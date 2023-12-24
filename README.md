@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [12 out-of-this-world exoplanet discoveries in 2023](https://www.space.com/biggest-exoplanet-discoveries-2023)
 - [Salesforce escaped from the jaws of activists to find stability in 2023](https://techcrunch.com/2023/12/24/salesforce-lookback-2023/)
 - [This light-bending tech will let scientists see the sun like never before](https://www.space.com/photon-sieve-light-bending-technology-solar-physics-sun-observatories)
 - [Artemis 2 moon crew invited to visit SpaceX to talk Starship &lpar;exclusive&rpar;](https://www.space.com/nasa-artemis-2-moon-crew-spacex-starship-invitation)
 - [12 of the most exciting black hole developments from 2023](https://www.space.com/12-biggest-black-hole-discoveries-2023)
-- [13 record-breaking space discoveries of 2023](https://www.space.com/record-breaking-space-discoveries-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
