@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch &#39;Doctor Who&#39; Christmas special: Stream &#39;The Church on Ruby Road&#39; from anywhere](https://www.space.com/doctor-who-christmas-special-the-church-on-ruby-road-streaming)
+- [Astronauts in space beam holiday wishes to Earth for Christmas &lpar;video&rpar;](https://www.space.com/astronanuts-send-christmas-holiday-wishes-2023-video)
 - [Hubble Telescope sees a bright &#39;snowball&#39; of stars in the Milky Way&#39;s neighbor &lpar;image&rpar;](https://www.space.com/hubble-telescope-cosmic-snowball-bound-stars-milky-way)
 - [30 years ago, astronauts saved the Hubble Space Telescope](https://www.space.com/hubble-space-telescope-nasa-astronaut-servicing-missions-30-years)
 - [12 out-of-this-world exoplanet discoveries in 2023](https://www.space.com/biggest-exoplanet-discoveries-2023)
-- [Salesforce escaped from the jaws of activists to find stability in 2023](https://techcrunch.com/2023/12/24/salesforce-lookback-2023/)
-- [This light-bending tech will let scientists see the sun like never before](https://www.space.com/photon-sieve-light-bending-technology-solar-physics-sun-observatories)
 <!-- BLOG-POST-LIST:END -->
 
 ---
