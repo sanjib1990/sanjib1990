@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovery of &#39;calendar&#39; rock carvings from Ancestral Pueblo in US Southwest surpasses &#39;wildest expectations&#39;](https://www.space.com/calendar-rock-carvings-ancestral-pueblo)
 - [EV fast-charging networks face a challenging 2024](https://techcrunch.com/2023/12/26/ev-fast-charging-networks-2024/)
 - [Project Kuiper: Amazon&#39;s answer to SpaceX&#39;s Starlink passes &#39;crucial&#39; test](https://www.space.com/project-kuiper-passes-crucial-test)
 - [CBS, Paramount owner National Amusements says it was hacked](https://techcrunch.com/2023/12/26/cbs-paramount-owner-national-amusements-hacked/)
 - [The internet moments that defined 2023](https://techcrunch.com/2023/12/26/the-internet-moments-that-defined-2023/)
-- [Apple Watch US ban upheld](https://techcrunch.com/2023/12/26/apple-watch-us-ban-upheld/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
