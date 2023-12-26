@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nonprofit Code.org sues Byju’s unit WhiteHat Jr over payment dues](https://techcrunch.com/2023/12/26/nonprofit-code-org-sues-byjus-unit-whitehat-jr-over-payment-dues/)
 - [Will Artemis 2 launch to the moon in 2024? NASA has a lot of work ahead](https://www.space.com/artemis-2-moon-mission-countdown-astronaut-ground-team-safety)
 - [In a slow year for enterprise tech M&amp;A, there were few standout deals](https://techcrunch.com/2023/12/25/tech-mergers-acquisitions-2023/)
 - [Japan&#39;s SLIM &#39;moon sniper&#39; lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
 - [How to watch &#39;Doctor Who&#39; Christmas special: Stream &#39;The Church on Ruby Road&#39; from anywhere](https://www.space.com/doctor-who-christmas-special-the-church-on-ruby-road-streaming)
-- [Astronauts in space beam holiday wishes to Earth for Christmas &lpar;video&rpar;](https://www.space.com/astronanuts-send-christmas-holiday-wishes-2023-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
