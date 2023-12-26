@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VCs are entering 2024 with ‘healthy paranoia’](https://techcrunch.com/2023/12/26/vcs-are-entering-2024-with-healthy-paranoia/)
-- [How NASA&#39;s VIPER rover could revolutionize moon exploration with AI mission](https://www.space.com/nasa-viper-moon-exploration-artificial-intelligence)
-- [What VCs are looking for in the next wave of cybersecurity startups](https://techcrunch.com/2023/12/26/what-vcs-are-looking-for-in-the-next-wave-of-cybersecurity-startups/)
-- [Hackers stole $2 billion in crypto in 2023, data shows](https://techcrunch.com/2023/12/26/hackers-stole-2-billion-in-crypto-in-2023-data-shows/)
-- [NASA hails historic space milestones of 2023 in inspiring new video](https://www.space.com/nasa-shares-2023-milestones-video)
+- [EV fast-charging networks face a challenging 2024](https://techcrunch.com/2023/12/26/ev-fast-charging-networks-2024/)
+- [Project Kuiper: Amazon&#39;s answer to SpaceX&#39;s Starlink passes &#39;crucial&#39; test](https://www.space.com/project-kuiper-passes-crucial-test)
+- [CBS, Paramount owner National Amusements says it was hacked](https://techcrunch.com/2023/12/26/cbs-paramount-owner-national-amusements-hacked/)
+- [The internet moments that defined 2023](https://techcrunch.com/2023/12/26/the-internet-moments-that-defined-2023/)
+- [Apple Watch US ban upheld](https://techcrunch.com/2023/12/26/apple-watch-us-ban-upheld/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
