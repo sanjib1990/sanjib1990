@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gold mine of kilonova explosions forged by neutron stars crashing together](https://www.space.com/neutron-stars-collision-kilonovas-explode)
+- [Apple Vision Pro tipped for late Jan/early Feb release](https://techcrunch.com/2023/12/26/apple-vision-pro-tipped-for-late-jan-early-feb-release/)
+- [Bluesky rolls out an in-app video and music player and a new ‘hide post’ feature](https://techcrunch.com/2023/12/26/bluesky-rolls-out-in-app-video-and-music-player-for-links-and-a-new-hide-post-feature/)
 - [Mold-A-Rama and the space shuttle over Earth: A space age toy story](https://www.space.com/mold-a-rama-space-shuttle-toy-model)
 - [International Space Station astronauts hang stockings and light a menorah for the holidays &lpar;images, video&rpar;](https://www.space.com/international-space-station-astronauts-stockings-menorah-holidays)
-- [Hubble Space Telescope spots a festive gathering of spiral galaxies &lpar;image&rpar;](https://www.space.com/hubble-space-telescope-spiral-galaxies-festive-gathering)
-- [Discovery of &#39;calendar&#39; rock carvings from Ancestral Pueblo in US Southwest surpasses &#39;wildest expectations&#39;](https://www.space.com/calendar-rock-carvings-ancestral-pueblo)
-- [EV fast-charging networks face a challenging 2024](https://techcrunch.com/2023/12/26/ev-fast-charging-networks-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
