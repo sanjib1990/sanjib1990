@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The eternal struggle between open source and proprietary software](https://techcrunch.com/2023/12/26/the-eternal-struggle-between-open-source-and-proprietary-software/)
+- [The Full Cold Moon of December comes late for Christmas tonight](https://www.space.com/full-cold-moon-tonight-dec-26-2023)
 - [Nonprofit Code.org sues Byju’s unit WhiteHat Jr over payment dues](https://techcrunch.com/2023/12/26/nonprofit-code-org-sues-byjus-unit-whitehat-jr-over-payment-dues/)
 - [Will Artemis 2 launch to the moon in 2024? NASA has a lot of work ahead](https://www.space.com/artemis-2-moon-mission-countdown-astronaut-ground-team-safety)
 - [In a slow year for enterprise tech M&amp;A, there were few standout deals](https://techcrunch.com/2023/12/25/tech-mergers-acquisitions-2023/)
-- [Japan&#39;s SLIM &#39;moon sniper&#39; lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
-- [How to watch &#39;Doctor Who&#39; Christmas special: Stream &#39;The Church on Ruby Road&#39; from anywhere](https://www.space.com/doctor-who-christmas-special-the-church-on-ruby-road-streaming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
