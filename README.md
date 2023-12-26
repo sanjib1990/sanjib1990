@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs are entering 2024 with ‘healthy paranoia’](https://techcrunch.com/2023/12/26/vcs-are-entering-2024-with-healthy-paranoia/)
+- [How NASA&#39;s VIPER rover could revolutionize moon exploration with AI mission](https://www.space.com/nasa-viper-moon-exploration-artificial-intelligence)
+- [What VCs are looking for in the next wave of cybersecurity startups](https://techcrunch.com/2023/12/26/what-vcs-are-looking-for-in-the-next-wave-of-cybersecurity-startups/)
 - [Hackers stole $2 billion in crypto in 2023, data shows](https://techcrunch.com/2023/12/26/hackers-stole-2-billion-in-crypto-in-2023-data-shows/)
 - [NASA hails historic space milestones of 2023 in inspiring new video](https://www.space.com/nasa-shares-2023-milestones-video)
-- [The eternal struggle between open source and proprietary software](https://techcrunch.com/2023/12/26/the-eternal-struggle-between-open-source-and-proprietary-software/)
-- [The Full Cold Moon of December comes late for Christmas tonight](https://www.space.com/full-cold-moon-tonight-dec-26-2023)
-- [Nonprofit Code.org sues Byju’s unit WhiteHat Jr over payment dues](https://techcrunch.com/2023/12/26/nonprofit-code-org-sues-byjus-unit-whitehat-jr-over-payment-dues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
