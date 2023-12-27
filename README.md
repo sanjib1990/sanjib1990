@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BotBuilt wants to lower the cost of homebuilding with robots](https://techcrunch.com/2023/12/27/botbuilt-wants-to-lower-the-cost-of-homebuilding-with-robots/)
+- [12 space medicine findings from 2023 that could help astronauts reach Mars one day](https://www.space.com/2023-space-medicine-discoveries-moon-mars-astronauts)
 - [2023: The year UFOs descended on Washington, DC &lpar;but not like you&#39;d expect&rpar;](https://www.space.com/ufos-in-2023-washington-dc)
 - [MOVEit, Capita, CitrixBleed and more: The biggest data breaches of 2023](https://techcrunch.com/2023/12/27/moveit-capita-citrixbleed-biggest-data-breaches-2023/)
 - [Dream Chaser enters final testing ahead of 2024 debut space flight](https://www.space.com/dream-chaser-spacecraft-2024-debut-flight-tenacity)
-- [Gold mine of kilonova explosions forged by neutron stars crashing together](https://www.space.com/neutron-stars-collision-kilonovas-explode)
-- [Apple Vision Pro tipped for late Jan/early Feb release](https://techcrunch.com/2023/12/26/apple-vision-pro-tipped-for-late-jan-early-feb-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
