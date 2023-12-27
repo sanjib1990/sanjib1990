@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equity Down Under: How Australian startups can crack the US market](https://techcrunch.com/2023/12/27/equity-down-under-inside-the-maturation-of-australias-startup-scene/)
 - [NASA outlines plan to deploy burrowing &#39;cryobots&#39; on icy moons of Saturn and Jupiter](https://www.space.com/cryobots-ocean-worlds-subsurface-seas-nasa)
 - [Beware AI’s hidden costs before they bankrupt innovation](https://techcrunch.com/2023/12/27/beware-ais-hidden-costs-before-they-bankrupt-innovation/)
 - [BotBuilt wants to lower the cost of homebuilding with robots](https://techcrunch.com/2023/12/27/botbuilt-wants-to-lower-the-cost-of-homebuilding-with-robots/)
 - [12 space medicine findings from 2023 that could help astronauts reach Mars one day](https://www.space.com/2023-space-medicine-discoveries-moon-mars-astronauts)
-- [2023: The year UFOs descended on Washington, DC &lpar;but not like you&#39;d expect&rpar;](https://www.space.com/ufos-in-2023-washington-dc)
 <!-- BLOG-POST-LIST:END -->
 
 ---
