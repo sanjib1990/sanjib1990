@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2023: The year UFOs descended on Washington, DC &lpar;but not like you&#39;d expect&rpar;](https://www.space.com/ufos-in-2023-washington-dc)
 - [MOVEit, Capita, CitrixBleed and more: The biggest data breaches of 2023](https://techcrunch.com/2023/12/27/moveit-capita-citrixbleed-biggest-data-breaches-2023/)
 - [Dream Chaser enters final testing ahead of 2024 debut space flight](https://www.space.com/dream-chaser-spacecraft-2024-debut-flight-tenacity)
 - [Gold mine of kilonova explosions forged by neutron stars crashing together](https://www.space.com/neutron-stars-collision-kilonovas-explode)
 - [Apple Vision Pro tipped for late Jan/early Feb release](https://techcrunch.com/2023/12/26/apple-vision-pro-tipped-for-late-jan-early-feb-release/)
-- [Bluesky rolls out an in-app video and music player and a new ‘hide post’ feature](https://techcrunch.com/2023/12/26/bluesky-rolls-out-in-app-video-and-music-player-for-links-and-a-new-hide-post-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
