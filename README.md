@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA outlines plan to deploy burrowing &#39;cryobots&#39; on icy moons of Saturn and Jupiter](https://www.space.com/cryobots-ocean-worlds-subsurface-seas-nasa)
+- [Beware AI’s hidden costs before they bankrupt innovation](https://techcrunch.com/2023/12/27/beware-ais-hidden-costs-before-they-bankrupt-innovation/)
 - [BotBuilt wants to lower the cost of homebuilding with robots](https://techcrunch.com/2023/12/27/botbuilt-wants-to-lower-the-cost-of-homebuilding-with-robots/)
 - [12 space medicine findings from 2023 that could help astronauts reach Mars one day](https://www.space.com/2023-space-medicine-discoveries-moon-mars-astronauts)
 - [2023: The year UFOs descended on Washington, DC &lpar;but not like you&#39;d expect&rpar;](https://www.space.com/ufos-in-2023-washington-dc)
-- [MOVEit, Capita, CitrixBleed and more: The biggest data breaches of 2023](https://techcrunch.com/2023/12/27/moveit-capita-citrixbleed-biggest-data-breaches-2023/)
-- [Dream Chaser enters final testing ahead of 2024 debut space flight](https://www.space.com/dream-chaser-spacecraft-2024-debut-flight-tenacity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
