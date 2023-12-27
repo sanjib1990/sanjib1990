@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch’s favorite apps of 2023](https://techcrunch.com/2023/12/27/techcrunchs-favorite-apps-of-2023/)
+- [See December&#39;s Full Cold Moon shine in the sky like a Christmas ornament &lpar;photos&rpar;](https://www.space.com/full-cold-moon-december-2023-photos)
+- [Love ’em or hate ’em, NFTs can survive thanks to the communities that drive them](https://techcrunch.com/2023/12/27/nfts-will-survive/)
 - [Iron oxide baked into Mesopotamian bricks confirms ancient magnetic field anomaly](https://www.space.com/iron-oxide-mesopotamian-bricks-ancient-magnetic-field-anomaly)
 - [Equity Down Under: How Australian startups can crack the US market](https://techcrunch.com/2023/12/27/equity-down-under-inside-the-maturation-of-australias-startup-scene/)
-- [NASA outlines plan to deploy burrowing &#39;cryobots&#39; on icy moons of Saturn and Jupiter](https://www.space.com/cryobots-ocean-worlds-subsurface-seas-nasa)
-- [Beware AI’s hidden costs before they bankrupt innovation](https://techcrunch.com/2023/12/27/beware-ais-hidden-costs-before-they-bankrupt-innovation/)
-- [BotBuilt wants to lower the cost of homebuilding with robots](https://techcrunch.com/2023/12/27/botbuilt-wants-to-lower-the-cost-of-homebuilding-with-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
