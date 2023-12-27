@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After 2 years in space, the James Webb Space Telescope has broken cosmology. Can it be fixed?](https://www.space.com/james-webb-space-telescope-cosmology-broken)
+- [Apple Watch import ban paused](https://techcrunch.com/2023/12/27/apple-watch-ban-import-paused/)
 - [Ask Sophie: Whatever happened to International Entrepreneur Parole?](https://techcrunch.com/2023/12/27/ask-sophie-whatever-happened-to-international-entrepreneur-parole/)
 - [History-making SpaceX Falcon 9 booster mostly destroyed in post-flight topple](https://www.space.com/spacex-falcon-9-first-stage-1058-lost-recovery)
 - [The New York Times wants OpenAI and Microsoft to pay for training data](https://techcrunch.com/2023/12/27/the-new-york-times-wants-openai-and-microsoft-to-pay-for-training-data/)
-- [TechCrunch’s favorite apps of 2023](https://techcrunch.com/2023/12/27/techcrunchs-favorite-apps-of-2023/)
-- [See December&#39;s Full Cold Moon shine in the sky like a Christmas ornament &lpar;photos&rpar;](https://www.space.com/full-cold-moon-december-2023-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
