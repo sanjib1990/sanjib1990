@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: Whatever happened to International Entrepreneur Parole?](https://techcrunch.com/2023/12/27/ask-sophie-whatever-happened-to-international-entrepreneur-parole/)
+- [History-making SpaceX Falcon 9 booster mostly destroyed in post-flight topple](https://www.space.com/spacex-falcon-9-first-stage-1058-lost-recovery)
+- [The New York Times wants OpenAI and Microsoft to pay for training data](https://techcrunch.com/2023/12/27/the-new-york-times-wants-openai-and-microsoft-to-pay-for-training-data/)
 - [TechCrunch’s favorite apps of 2023](https://techcrunch.com/2023/12/27/techcrunchs-favorite-apps-of-2023/)
 - [See December&#39;s Full Cold Moon shine in the sky like a Christmas ornament &lpar;photos&rpar;](https://www.space.com/full-cold-moon-december-2023-photos)
-- [Love ’em or hate ’em, NFTs can survive thanks to the communities that drive them](https://techcrunch.com/2023/12/27/nfts-will-survive/)
-- [Iron oxide baked into Mesopotamian bricks confirms ancient magnetic field anomaly](https://www.space.com/iron-oxide-mesopotamian-bricks-ancient-magnetic-field-anomaly)
-- [Equity Down Under: How Australian startups can crack the US market](https://techcrunch.com/2023/12/27/equity-down-under-inside-the-maturation-of-australias-startup-scene/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
