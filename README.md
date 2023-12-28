@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 dramatic discoveries about Earth from 2023](https://www.space.com/planet-earth-from-space-in-2023)
 - [Meet the cyber-criminals of 2023](https://techcrunch.com/2023/12/28/cyber-criminals-2023/)
 - [The convicts of Silicon Valley, 2023 edition](https://techcrunch.com/2023/12/28/convicts-silicon-valley-2023/)
 - [Weird particle physics stories that blew our minds in 2023](https://www.space.com/mindblowing-particle-physics-stories-2023)
 - [SoftBank-backed FirstCry seeks to raise nearly $220 million in India IPO](https://techcrunch.com/2023/12/27/softbank-backed-firstcry-seeks-to-raise-nearly-220-million-in-india-ipo/)
-- [Amnesty confirms Apple warning: Indian journalists’ iPhones infected with Pegasus spyware](https://techcrunch.com/2023/12/27/india-pressed-apple-on-state-sponsored-warnings-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
