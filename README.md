@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s H3 rocket will launch a 2nd time in February 2024 after explosive failure](https://www.space.com/japan-h3-rocket-2nd-launch-after-failure-february-2024)
 - [Unexpected cosmic clumping could disprove our best understanding of the universe](https://www.space.com/universe-cosmic-clumping-understanding-standard-model-cosmology)
 - [Giga ML wants to help companies deploy LLMs offline](https://techcrunch.com/2023/12/28/giga-ml-wants-to-help-companies-deploy-llms-offline/)
 - [NASA astronauts test SpaceX Starship elevator for future moon landings](https://www.space.com/nasa-astronauts-spacex-starship-elevator-test)
 - [CES 2024: What we’re expecting](https://techcrunch.com/2023/12/28/ces-2024-what-were-expecting/)
-- [How Tesla, BMW, Ford, GM and Mercedes driver assist systems compare](https://techcrunch.com/2023/12/28/how-tesla-bmw-ford-gm-and-mercedes-driver-assist-systems-compare/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
