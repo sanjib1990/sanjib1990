@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronauts test SpaceX Starship elevator for future moon landings](https://www.space.com/nasa-astronauts-spacex-starship-elevator-test)
+- [CES 2024: What we’re expecting](https://techcrunch.com/2023/12/28/ces-2024-what-were-expecting/)
+- [How Tesla, BMW, Ford, GM and Mercedes driver-assist systems compare](https://techcrunch.com/2023/12/28/how-tesla-bmw-ford-gm-and-mercedes-driver-assist-systems-compare/)
+- [More than 40 investors share their top predictions for 2024](https://techcrunch.com/2023/12/28/40-investor-predictions-for-2024/)
 - [SpaceX is launching Starlink satellites today and you can watch live for free](https://www.space.com/spacex-starlink-6-36-satellites-launch-webcast)
-- [India to block crypto exchanges Binance, Kraken websites](https://techcrunch.com/2023/12/28/india-government-agency-seeks-to-block-binance-and-kraken/)
-- [3 years after BLM, here’s who stuck to their diversity commitments](https://techcrunch.com/2023/12/28/blm-investors-diversity-commitments/)
-- [What the demise of Superpedestrian means for the e-scooter industry](https://techcrunch.com/2023/12/28/what-the-demise-of-superpedestrian-means-for-the-e-scooter-industry/)
-- [The best places in the US to experience totality during the April 2024 solar eclipse](https://www.space.com/best-places-US-states-to-see-total-solar-eclipse-april-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
