@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India pressed Apple on state-sponsored warnings, report says](https://techcrunch.com/2023/12/27/india-pressed-apple-on-state-sponsored-warnings-report-says/)
 - [Japan&#39;s SLIM lander beams moon images home before Jan. 19 landing &lpar;photos&rpar;](https://www.space.com/japan-slim-lander-moon-images-beam-home)
 - [Terran Orbital’s biggest customer is close to securing funding for multibillion-dollar constellation](https://techcrunch.com/2023/12/27/terran-orbitals-biggest-customer-is-close-to-securing-funding-for-multi-billion-dollar-constellation/)
 - [The New York Times wants OpenAI and Microsoft to pay for training data](https://techcrunch.com/2023/12/27/the-new-york-times-wants-openai-and-microsoft-to-pay-for-training-data/)
 - [Private Peregrine moon lander is stacked on ULA Vulcan rocket ahead of Jan. 8 launch](https://www.space.com/peregrine-moon-lander-stacked-ula-vulcan-rocket)
-- [After 2 years in space, the James Webb Space Telescope has broken cosmology. Can it be fixed?](https://www.space.com/james-webb-space-telescope-cosmology-broken)
 <!-- BLOG-POST-LIST:END -->
 
 ---
