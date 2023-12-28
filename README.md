@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 exhilarating spaceflight missions to watch in 2024](https://www.space.com/spaceflight-missions-to-watch-2024)
-- [Three steps to take your company out of the one-product mold](https://techcrunch.com/2023/12/28/three-steps-to-take-your-company-out-of-the-one-product-mold/)
-- [10 dramatic discoveries about Earth from 2023](https://www.space.com/planet-earth-from-space-in-2023)
-- [Meet the cyber-criminals of 2023](https://techcrunch.com/2023/12/28/cyber-criminals-2023/)
-- [The convicts of Silicon Valley, 2023 edition](https://techcrunch.com/2023/12/28/convicts-silicon-valley-2023/)
+- [3 years after BLM, here’s who stuck to their diversity commitments](https://techcrunch.com/2023/12/28/blm-investors-diversity-commitments/)
+- [What the demise of Superpedestrian means for the e-scooter industry](https://techcrunch.com/2023/12/28/what-the-demise-of-superpedestrian-means-for-the-e-scooter-industry/)
+- [The best places in the US to experience totality during the April 2024 solar eclipse](https://www.space.com/best-places-US-states-to-see-total-solar-eclipse-april-2024)
+- [Xiaomi’s first EV is the freshest take on a ‘smartphone on wheels’](https://techcrunch.com/2023/12/28/xiaomi-su7-ev-smartphone-software/)
+- [Why Australia is ripe for VC](https://techcrunch.com/2023/12/28/why-australia-is-ripe-for-vc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
