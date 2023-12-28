@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX is launching Starlink satellites today and you can watch live for free](https://www.space.com/spacex-starlink-6-36-satellites-launch-webcast)
+- [India to block crypto exchanges Binance, Kraken websites](https://techcrunch.com/2023/12/28/india-government-agency-seeks-to-block-binance-and-kraken/)
 - [3 years after BLM, here’s who stuck to their diversity commitments](https://techcrunch.com/2023/12/28/blm-investors-diversity-commitments/)
 - [What the demise of Superpedestrian means for the e-scooter industry](https://techcrunch.com/2023/12/28/what-the-demise-of-superpedestrian-means-for-the-e-scooter-industry/)
 - [The best places in the US to experience totality during the April 2024 solar eclipse](https://www.space.com/best-places-US-states-to-see-total-solar-eclipse-april-2024)
-- [Xiaomi’s first EV is the freshest take on a ‘smartphone on wheels’](https://techcrunch.com/2023/12/28/xiaomi-su7-ev-smartphone-software/)
-- [Why Australia is ripe for VC](https://techcrunch.com/2023/12/28/why-australia-is-ripe-for-vc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
