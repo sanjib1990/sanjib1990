@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What Was Your First Computer Game? &lpar;Soundcheck Question 2023&rpar; - Computerphile](https://www.youtube.com/watch?v=GdzZFV8jfjg)
 - [the most secure OS in the world.....I hate it](https://www.youtube.com/watch?v=i3sRSS6fN0g)
 - [NERFs &lpar;No, not that kind&rpar; - Computerphile](https://www.youtube.com/watch?v=wKsoGiENBHU)
 - [10 weird algorithms](https://www.youtube.com/watch?v=SmyPTnlqhlk)
 - [the untold history of web development](https://www.youtube.com/watch?v=aXcuz6fn8_w)
-- [This new AI is powerful and uncensored… Let’s run it](https://www.youtube.com/watch?v=GyllRd2E6fg)
 <!-- YOUTUBE:END -->
 
 ---
