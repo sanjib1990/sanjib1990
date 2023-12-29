@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA can&#39;t wait for its OSIRIS-APEX spacecraft to meet &#39;God of Chaos&#39; asteroid Apophis in 2029](https://www.space.com/nasa-osiris-apex-asteroid-apophis-god-of-chaos)
 - [Facing roadblocks, China’s robotaxi darlings apply the brakes](https://techcrunch.com/2023/12/29/china-robotaxi-apply-the-brakes/)
 - [NASA&#39;s Juno spacecraft will get its closest look yet at Jupiter&#39;s moon Io on Dec. 30](https://www.space.com/nasa-juno-spacecraft-io-moon-closest-flyby-20-years)
 - [Should auld acquaintance be robot](https://techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/)
 - [Chinese rocket booster falls from space, crashes near house, after satellite launch: report](https://www.space.com/chinese-rocket-booster-space-crash-report)
-- [GitHub makes Copilot Chat generally available, letting devs ask questions about code](https://techcrunch.com/2023/12/29/github-makes-copilot-chat-generally-available-letting-devs-ask-questions-about-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
