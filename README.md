@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese rocket booster falls from space, crashes near house, after satellite launch: report](https://www.space.com/chinese-rocket-booster-space-crash-report)
+- [GitHub makes Copilot Chat generally available, letting devs ask questions about code](https://techcrunch.com/2023/12/29/github-makes-copilot-chat-generally-available-letting-devs-ask-questions-about-code/)
 - [SpaceX wows with a double header of final 2023 rocket launches &lpar;photos, video&rpar;](https://www.space.com/spacex-final-rocket-launches-2023-photos-video)
 - [With hopes for greener grass in Germany vanishing, consolidation is in the cards for cannabis companies](https://techcrunch.com/2023/12/29/legal-cannabis-market-germany/)
 - [The TechCrunch+ surveys you need to read ahead of 2024](https://techcrunch.com/2023/12/29/the-techcrunch-surveys-you-need-to-read-ahead-of-2024/)
-- [6 great audiobook apps that aren’t Audible](https://techcrunch.com/2023/12/29/6-great-audiobook-apps-that-arent-audible/)
-- [The Equity crew predicts we’ll see fewer VCs in 2024](https://techcrunch.com/2023/12/29/equity-predictions-startups-ai-vc-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
