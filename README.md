@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tonga volcano eruption was fueled by 2 merging chambers that are still brimming with magma](https://www.space.com/tonga-volcano-still-burning-magma)
 - [Shield AI expands massive Series F with another $300M in equity, debt, scaling valuation to $2.8B](https://techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-2-8b/)
 - [12 times scientists penetrated the secrets of asteroids in 2023](https://www.space.com/best-2023-asteroid-studies-osiris-rex-psyche)
 - [Here we go again: 2023’s badly handled data breaches](https://techcrunch.com/2023/12/29/badly-handled-data-breaches-2023/)
 - [A guide to the solar system&#39;s planets in 2024](https://www.space.com/planet-guide-solar-system-2024)
-- [SpaceX Falcon Heavy rocket launches mysterious X-37B space plane for US Space Force after delays](https://www.space.com/spacex-falcon-heavy-x-37b-space-plane-launch-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
