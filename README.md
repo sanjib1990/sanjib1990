@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Yearly: The biggest startup stories from 2023](https://techcrunch.com/2023/12/29/startups-yearly-the-biggest-startup-stories-from-2023/)
+- [Goodbye mysterious military space plane, and good luck – wherever you’re going](https://techcrunch.com/2023/12/29/goodbye-mysterious-military-space-plane-and-good-luck-wherever-youre-going/)
+- [Best budgeting apps for individuals, startups and small businesses](https://techcrunch.com/2023/12/29/best-budgeting-apps-for-individuals-startups-and-small-businesses/)
+- [The overlooked tech that kept cities moving in 2023](https://techcrunch.com/2023/12/29/the-overlooked-tech-that-kept-cities-moving-in-2023/)
 - [NASA can&#39;t wait for its OSIRIS-APEX spacecraft to meet &#39;God of Chaos&#39; asteroid Apophis in 2029](https://www.space.com/nasa-osiris-apex-asteroid-apophis-god-of-chaos)
-- [Facing roadblocks, China’s robotaxi darlings apply the brakes](https://techcrunch.com/2023/12/29/china-robotaxi-apply-the-brakes/)
-- [NASA&#39;s Juno spacecraft will get its closest look yet at Jupiter&#39;s moon Io on Dec. 30](https://www.space.com/nasa-juno-spacecraft-io-moon-closest-flyby-20-years)
-- [Should auld acquaintance be robot](https://techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/)
-- [Chinese rocket booster falls from space, crashes near house, after satellite launch: report](https://www.space.com/chinese-rocket-booster-space-crash-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
