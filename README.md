@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX wows with a double header of final 2023 rocket launches &lpar;photos, video&rpar;](https://www.space.com/spacex-final-rocket-launches-2023-photos-video)
+- [With hopes for greener grass in Germany vanishing, consolidation is in the cards for cannabis companies](https://techcrunch.com/2023/12/29/legal-cannabis-market-germany/)
+- [The TechCrunch+ surveys you need to read ahead of 2024](https://techcrunch.com/2023/12/29/the-techcrunch-surveys-you-need-to-read-ahead-of-2024/)
+- [6 great audiobook apps that aren’t Audible](https://techcrunch.com/2023/12/29/6-great-audiobook-apps-that-arent-audible/)
 - [The Equity crew predicts we’ll see fewer VCs in 2024](https://techcrunch.com/2023/12/29/equity-predictions-startups-ai-vc-2024/)
-- [Quantum batteries could charge faster by scrambling the rules of cause and effect](https://www.space.com/quantum-batteries-charge-faster)
-- [Play Our 2023 TechCrunch Pub Quiz! &lpar;Round 2&rpar;](https://techcrunch.com/2023/12/29/play-our-2023-techcrunch-pub-quiz-round-2/)
-- [Tonga volcano eruption was fueled by 2 merging chambers that are still brimming with magma](https://www.space.com/tonga-volcano-still-burning-magma)
-- [Shield AI expands massive Series F with another $300M in equity, debt, scaling valuation to $2.8B](https://techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-2-8b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
