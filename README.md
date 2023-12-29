@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to the solar system&#39;s planets in 2024](https://www.space.com/planet-guide-solar-system-2024)
 - [SpaceX Falcon Heavy rocket launches mysterious X-37B space plane for US Space Force after delays](https://www.space.com/spacex-falcon-heavy-x-37b-space-plane-launch-success)
 - [Sanna Marin, the popular former prime minister of Finland, on Putin, powerful women and legislating in the age of AI](https://techcrunch.com/2023/12/28/sanna-marin-the-popular-former-prime-minister-of-finland-on-putin-powerful-women-and-legislating-in-the-age-of-ai/)
 - [Japan&#39;s H3 rocket will launch a 2nd time in February 2024 after explosive failure](https://www.space.com/japan-h3-rocket-2nd-launch-after-failure-february-2024)
 - [Unexpected cosmic clumping could disprove our best understanding of the universe](https://www.space.com/universe-cosmic-clumping-understanding-standard-model-cosmology)
-- [Giga ML wants to help companies deploy LLMs offline](https://techcrunch.com/2023/12/28/giga-ml-wants-to-help-companies-deploy-llms-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
