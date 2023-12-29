@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Equity crew predicts we’ll see fewer VCs in 2024](https://techcrunch.com/2023/12/29/equity-predictions-startups-ai-vc-2024/)
+- [Quantum batteries could charge faster by scrambling the rules of cause and effect](https://www.space.com/quantum-batteries-charge-faster)
+- [Play Our 2023 TechCrunch Pub Quiz! &lpar;Round 2&rpar;](https://techcrunch.com/2023/12/29/play-our-2023-techcrunch-pub-quiz-round-2/)
 - [Tonga volcano eruption was fueled by 2 merging chambers that are still brimming with magma](https://www.space.com/tonga-volcano-still-burning-magma)
 - [Shield AI expands massive Series F with another $300M in equity, debt, scaling valuation to $2.8B](https://techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-2-8b/)
-- [12 times scientists penetrated the secrets of asteroids in 2023](https://www.space.com/best-2023-asteroid-studies-osiris-rex-psyche)
-- [Here we go again: 2023’s badly handled data breaches](https://techcrunch.com/2023/12/29/badly-handled-data-breaches-2023/)
-- [A guide to the solar system&#39;s planets in 2024](https://www.space.com/planet-guide-solar-system-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
