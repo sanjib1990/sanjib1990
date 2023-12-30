@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;For All Mankind&#39; season 4 episode 8 review: Mars prepares for the heist of the millennium](https://www.space.com/for-all-mankind-season-4-episode-8-review)
 - [Remembering the startups we lost in 2023](https://techcrunch.com/2023/12/30/remembering-the-startups-we-lost-in-2023/)
 - [Company executives can ensure generative AI is ethical with these steps](https://techcrunch.com/2023/12/30/company-executives-can-ensure-generative-ai-is-ethical-with-these-steps/)
 - [NASA&#39;s Curiosity rover films from dawn to dusk on Mars during downtime &lpar;video&rpar;](https://www.space.com/nasa-curiosity-rover-mars-dawn-dusk-downtime)
 - [It’s not all doom and gloom: When cybersecurity gave us hope in 2023](https://techcrunch.com/2023/12/30/when-cybersecurity-gave-us-hope-2023/)
-- [2023 showed cybersecurity isn’t immune from brutal layoffs](https://techcrunch.com/2023/12/30/cybersecurity-not-immune-brutal-layoffs-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
