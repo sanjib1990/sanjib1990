@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s not all doom and gloom: When cybersecurity gave us hope in 2023](https://techcrunch.com/2023/12/30/when-cybersecurity-gave-us-hope-2023/)
+- [2023 showed cybersecurity isn’t immune from brutal layoffs](https://techcrunch.com/2023/12/30/cybersecurity-not-immune-brutal-layoffs-2023/)
+- [Japan&#39;s ispace shows off a tiny moon lander for its 2nd moon mission in 2024](https://www.space.com/japan-ispace-moon-lander-2nd-mission)
 - [Zoom through a &#39;spectacular&#39; chain of ancient underwater volcanoes on Antarctic ocean floor](https://www.space.com/antarctic-volcanoes-underwater-chain-ocean-floor)
 - [No, spiders don’t want to mate with your viral body butter](https://techcrunch.com/2023/12/29/no-spiders-dont-want-to-mate-with-your-viral-body-butter-sol-de-janeiro-sephora/)
-- [How India will navigate EVs in 2024](https://techcrunch.com/2023/12/29/india-ev-market-2024/)
-- [Startups Yearly: The biggest startup stories from 2023](https://techcrunch.com/2023/12/29/startups-yearly-the-biggest-startup-stories-from-2023/)
-- [Goodbye mysterious military space plane, and good luck – wherever you’re going](https://techcrunch.com/2023/12/29/goodbye-mysterious-military-space-plane-and-good-luck-wherever-youre-going/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
