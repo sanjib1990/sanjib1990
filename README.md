@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How India will navigate EVs in 2024](https://techcrunch.com/2023/12/29/india-ev-market-2024/)
 - [Startups Yearly: The biggest startup stories from 2023](https://techcrunch.com/2023/12/29/startups-yearly-the-biggest-startup-stories-from-2023/)
 - [Goodbye mysterious military space plane, and good luck – wherever you’re going](https://techcrunch.com/2023/12/29/goodbye-mysterious-military-space-plane-and-good-luck-wherever-youre-going/)
 - [Best budgeting apps for individuals, startups and small businesses](https://techcrunch.com/2023/12/29/best-budgeting-apps-for-individuals-startups-and-small-businesses/)
 - [The overlooked tech that kept cities moving in 2023](https://techcrunch.com/2023/12/29/the-overlooked-tech-that-kept-cities-moving-in-2023/)
-- [NASA can&#39;t wait for its OSIRIS-APEX spacecraft to meet &#39;God of Chaos&#39; asteroid Apophis in 2029](https://www.space.com/nasa-osiris-apex-asteroid-apophis-god-of-chaos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
