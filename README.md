@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon Echo Frames review, MrBeast jumps the shark and the Apple Watch gets un-banned](https://techcrunch.com/2023/12/30/amazon-echo-frames-review-mrbeast-jumps-the-shark-and-the-apple-watch-gets-un-banned/)
-- [SpaceX test fires giant Starship booster  — and spaceship  —  for 3rd test flight](https://www.space.com/spacex-starship-super-heavy-flight-3-engine-tests-video)
+- [SpaceX test fires giant Starship booster  — and spaceship  —  for 3rd test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-flight-3-engine-tests-video)
 - [&#39;For All Mankind&#39; season 4 episode 8 review: Mars prepares for the heist of the millennium](https://www.space.com/for-all-mankind-season-4-episode-8-review)
 - [Remembering the startups we lost in 2023](https://techcrunch.com/2023/12/30/remembering-the-startups-we-lost-in-2023/)
 - [Company executives can ensure generative AI is ethical with these steps](https://techcrunch.com/2023/12/30/company-executives-can-ensure-generative-ai-is-ethical-with-these-steps/)
