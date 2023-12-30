@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [you need to learn tmux RIGHT NOW!!](https://www.youtube.com/watch?v=nTqu6w2wc68)
 - [What Was Your First Computer Game? &lpar;Soundcheck Question 2023&rpar; - Computerphile](https://www.youtube.com/watch?v=GdzZFV8jfjg)
 - [the most secure OS in the world.....I hate it](https://www.youtube.com/watch?v=i3sRSS6fN0g)
 - [NERFs &lpar;No, not that kind&rpar; - Computerphile](https://www.youtube.com/watch?v=wKsoGiENBHU)
 - [10 weird algorithms](https://www.youtube.com/watch?v=SmyPTnlqhlk)
-- [the untold history of web development](https://www.youtube.com/watch?v=aXcuz6fn8_w)
 <!-- YOUTUBE:END -->
 
 ---
