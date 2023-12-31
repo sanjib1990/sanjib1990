@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sea of methane sealed beneath Arctic permafrost could trigger climate feedback loop if it escapes](https://www.space.com/methane-beneath-arctic-permafrost-climate-feedback-loop)
 - [These eclipse-themed places will experience totality on April 8, 2024](https://www.space.com/eclipse-themed-places-on-path-totality-april-2024)
 - [I guess I’m a projector person now?](https://techcrunch.com/2023/12/30/i-guess-im-a-projector-person-now/)
 - [Amazon Echo Frames review, MrBeast jumps the shark and the Apple Watch gets un-banned](https://techcrunch.com/2023/12/30/amazon-echo-frames-review-mrbeast-jumps-the-shark-and-the-apple-watch-gets-un-banned/)
 - [SpaceX test fires giant Starship booster  — and spaceship  —  for 3rd test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-flight-3-engine-tests-video)
-- [&#39;For All Mankind&#39; season 4 episode 8 review: Mars prepares for the heist of the millennium](https://www.space.com/for-all-mankind-season-4-episode-8-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
