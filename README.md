@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse April 2024: 10 of the biggest cities within in the path of totality](https://www.space.com/total-solar-eclipse10-of-biggest-cities-in-path-of-totality-april-8-2024)
 - [What a long, strange year it’s been in enterprise tech news](https://techcrunch.com/2023/12/31/enterprise-tech-generative-ai-2023/)
 - [End of year, end of exhibit: Space shuttle Endeavour goes off view for a few years](https://www.space.com/space-shuttle-endeavour-exhibit-closing-california-science-center)
 - [Sea of methane sealed beneath Arctic permafrost could trigger climate feedback loop if it escapes](https://www.space.com/methane-beneath-arctic-permafrost-climate-feedback-loop)
 - [These eclipse-themed places will experience totality on April 8, 2024](https://www.space.com/eclipse-themed-places-on-path-totality-april-2024)
-- [I guess I’m a projector person now?](https://techcrunch.com/2023/12/30/i-guess-im-a-projector-person-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
