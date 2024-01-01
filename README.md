@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quadrantid meteor shower 2024: The year&#39;s 1st meteor shower blazes over North America on Jan. 3](https://www.space.com/quadrantid-meteor-shower-2024-comes-this-week)
+- [Climate tech might be the hot job market in 2024](https://techcrunch.com/2024/01/01/climate-tech-job-market-2024/)
 - [Artemis 2 moon astronaut says his 1st space launch will feel epic](https://www.space.com/artemis-2-moon-astronaut-1st-launch-epic)
 - [Earth&#39;s intense gravity may rip space rocks apart, reducing the risk of &#39;planet killer&#39; asteroids](https://www.space.com/earth-gravity-asteroid-planet-killer-reduce)
 - [Total solar eclipse April 2024: 10 of the biggest cities within in the path of totality](https://www.space.com/total-solar-eclipse10-of-biggest-cities-in-path-of-totality-april-8-2024)
-- [What a long, strange year it’s been in enterprise tech news](https://techcrunch.com/2023/12/31/enterprise-tech-generative-ai-2023/)
-- [End of year, end of exhibit: Space shuttle Endeavour goes off view for a few years](https://www.space.com/space-shuttle-endeavour-exhibit-closing-california-science-center)
 <!-- BLOG-POST-LIST:END -->
 
 ---
