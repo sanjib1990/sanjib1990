@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 moon astronaut says his 1st space launch will feel epic](https://www.space.com/artemis-2-moon-astronaut-1st-launch-epic)
 - [Earth&#39;s intense gravity may rip space rocks apart, reducing the risk of &#39;planet killer&#39; asteroids](https://www.space.com/earth-gravity-asteroid-planet-killer-reduce)
 - [Total solar eclipse April 2024: 10 of the biggest cities within in the path of totality](https://www.space.com/total-solar-eclipse10-of-biggest-cities-in-path-of-totality-april-8-2024)
 - [What a long, strange year it’s been in enterprise tech news](https://techcrunch.com/2023/12/31/enterprise-tech-generative-ai-2023/)
 - [End of year, end of exhibit: Space shuttle Endeavour goes off view for a few years](https://www.space.com/space-shuttle-endeavour-exhibit-closing-california-science-center)
-- [Sea of methane sealed beneath Arctic permafrost could trigger climate feedback loop if it escapes](https://www.space.com/methane-beneath-arctic-permafrost-climate-feedback-loop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
