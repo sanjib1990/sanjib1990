@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the 5 EVs that qualify for the full federal tax credit in 2024](https://techcrunch.com/2024/01/02/ev-tax-credit-eligibility-tesla-ford-chevy/)
+- [Debunking the myth that crowdfunding is only good for cash](https://techcrunch.com/2024/01/02/crowdfunding-is-actually-good/)
+- [AI versus copyright, and why you shouldn’t count your NFT chickens before they hatch](https://techcrunch.com/2024/01/02/ai-versus-copyright-and-why-you-shouldnt-count-your-nft-chickens-before-they-hatch/)
 - [Rivian deliveries slip 10% in Q4, raising demand questions](https://techcrunch.com/2024/01/02/rivian-deliveries-slip-10-in-q4-raising-demand-questions/)
 - [Generative AI: Transforming education into a personalized, addictive learning experience](https://techcrunch.com/2024/01/02/generative-ai-transforming-education-into-a-personalized-addictive-learning-experience/)
-- [Tesla’s cheapest cars helped it notch another record year](https://techcrunch.com/2024/01/02/tesla-2023-sales-figures-price-cuts/)
-- [OpenAI moves to shrink regulatory risk in EU around data privacy](https://techcrunch.com/2024/01/02/openai-dublin-data-controller/)
-- [A bizarre speed-demon star has winds powering a cloud of gas called &#39;Potaroo&#39;](https://www.space.com/star-speed-demon-winds-cloud-gas-potaroo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
