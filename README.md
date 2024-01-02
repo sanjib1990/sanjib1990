@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Puma is sticking to its web3 bets as crypto shakes off a long-held winter](https://techcrunch.com/2024/01/02/why-puma-is-sticking-to-its-web3-bets-as-crypto-shakes-off-a-long-held-winter/)
 - [Lego announces new space-themed kits for 2024 including Mars base, rockets and rovers](https://www.space.com/lego-new-space-sets-branding-2024)
 - [Great, now we have to become digital copyright experts](https://techcrunch.com/2024/01/02/great-now-we-have-to-become-digital-copyright-experts/)
 - [Public domain Mickey Mouse is the first meme of 2024](https://techcrunch.com/2024/01/02/steamboat-willie-mickey-mouse-public-domain/)
-- [NASA Juno spacecraft reveals Jupiter&#39;s moon Io like never before &lpar;images&rpar;](https://www.space.com/nasa-juno-spacecraft-jupiter-moon-io-photos)
-- [Telegram’s latest update brings a redesigned call interface that uses less of your phone’s battery](https://techcrunch.com/2024/01/02/telegrams-latest-update-brings-a-redesigned-call-interface-that-uses-less-of-your-phones-battery/)
+- [NASA Juno spacecraft reveals Jupiter&#39;s moon Io like never before in spectacular new images](https://www.space.com/nasa-juno-spacecraft-jupiter-moon-io-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
