@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian deliveries slip 10% in Q4, raising demand questions](https://techcrunch.com/2024/01/02/rivian-deliveries-slip-10-in-q4-raising-demand-questions/)
+- [Generative AI: Transforming education into a personalized, addictive learning experience](https://techcrunch.com/2024/01/02/generative-ai-transforming-education-into-a-personalized-addictive-learning-experience/)
+- [Tesla’s cheapest cars helped it notch another record year](https://techcrunch.com/2024/01/02/tesla-2023-sales-figures-price-cuts/)
+- [OpenAI moves to shrink regulatory risk in EU around data privacy](https://techcrunch.com/2024/01/02/openai-dublin-data-controller/)
 - [A bizarre speed-demon star has winds powering a cloud of gas called &#39;Potaroo&#39;](https://www.space.com/star-speed-demon-winds-cloud-gas-potaroo)
-- [A spacecraft at Mars watched a dust storm lift tons of grains in a short time](https://www.space.com/mars-spacecraft-dust-storm-tons-of-grains)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [NASA and Russia will keep launching each other&#39;s astronauts to ISS until 2025: report](https://www.space.com/nasa-russia-astronaut-launches-iss-2025)
-- [Fidelity marks down X valuation by 71.5%](https://techcrunch.com/2024/01/02/fidelity-marks-down-x-to-almost-a-third-of-the-investment-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
