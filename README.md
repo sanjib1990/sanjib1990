@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Juno spacecraft reveals Jupiter&#39;s moon Io like never before &lpar;images&rpar;](https://www.space.com/nasa-juno-spacecraft-jupiter-moon-io-photos)
+- [Telegram’s latest update brings a redesigned call interface that uses less of your phone’s battery](https://techcrunch.com/2024/01/02/telegrams-latest-update-brings-a-redesigned-call-interface-that-uses-less-of-your-phones-battery/)
+- [Coronal mass ejection from colossal New Year&#39;s Eve solar flare will strike Earth today](https://www.space.com/sun-solar-flare-new-years-eve-coronal-mass-eruption)
 - [Where will the most crowded places be for the total solar eclipse on April 8, 2024?](https://www.space.com/most-crowded-places-for-total-solar-eclipse-april-2024)
 - [MIT scientists are working on a vibrating obesity pill](https://techcrunch.com/2024/01/02/mit-scientists-are-working-on-a-vibrating-obesity-pill/)
-- [Early-stage hard tech firm Countdown Capital shutting down](https://techcrunch.com/2024/01/02/early-stage-hard-tech-firm-countdown-capital-shutting-down/)
-- [Here are the 5 EVs that qualify for the full federal tax credit in 2024](https://techcrunch.com/2024/01/02/ev-tax-credit-eligibility-tesla-ford-chevy/)
-- [Debunking the myth that crowdfunding is only good for cash](https://techcrunch.com/2024/01/02/crowdfunding-is-actually-good/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
