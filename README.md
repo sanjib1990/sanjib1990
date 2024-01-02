@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A spacecraft at Mars watched a dust storm lift tons of grains in a short time](https://www.space.com/mars-spacecraft-dust-storm-tons-of-grains)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [NASA and Russia will keep launching each other&#39;s astronauts to ISS until 2025: report](https://www.space.com/nasa-russia-astronaut-launches-iss-2025)
 - [Fidelity marks down X valuation by 71.5%](https://techcrunch.com/2024/01/02/fidelity-marks-down-x-to-almost-a-third-of-the-investment-price/)
 - [Meta cuts prices for the Quest 2 headset and accessories](https://techcrunch.com/2024/01/01/meta-cuts-prices-for-quest-2-headset-and-accessories/)
-- [Try these apps to reach your New Year’s resolutions in 2024](https://techcrunch.com/2024/01/01/apps-to-reach-your-new-years-resolutions-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
