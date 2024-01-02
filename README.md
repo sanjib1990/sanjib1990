@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta cuts prices for Quest 2 headset and accessories](https://techcrunch.com/2024/01/01/meta-cuts-prices-for-quest-2-headset-and-accessories/)
 - [Try these apps to reach your New Year’s resolutions in 2024](https://techcrunch.com/2024/01/01/apps-to-reach-your-new-years-resolutions-in-2024/)
 - [Quadrantid meteor shower 2024: The year&#39;s 1st meteor shower blazes over North America on Jan. 3](https://www.space.com/quadrantid-meteor-shower-2024-comes-this-week)
 - [Climate tech might be the hot job market in 2024](https://techcrunch.com/2024/01/01/climate-tech-job-market-2024/)
 - [Artemis 2 moon astronaut says his 1st space launch will feel epic](https://www.space.com/artemis-2-moon-astronaut-1st-launch-epic)
-- [Earth&#39;s intense gravity may rip space rocks apart, reducing the risk of &#39;planet killer&#39; asteroids](https://www.space.com/earth-gravity-asteroid-planet-killer-reduce)
 <!-- BLOG-POST-LIST:END -->
 
 ---
