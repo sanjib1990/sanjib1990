@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Great, now we have to become digital copyright experts](https://techcrunch.com/2024/01/02/great-now-we-have-to-become-digital-copyright-experts/)
+- [Public domain Mickey Mouse is the first meme of 2024](https://techcrunch.com/2024/01/02/steamboat-willie-mickey-mouse-public-domain/)
 - [NASA Juno spacecraft reveals Jupiter&#39;s moon Io like never before &lpar;images&rpar;](https://www.space.com/nasa-juno-spacecraft-jupiter-moon-io-photos)
 - [Telegram’s latest update brings a redesigned call interface that uses less of your phone’s battery](https://techcrunch.com/2024/01/02/telegrams-latest-update-brings-a-redesigned-call-interface-that-uses-less-of-your-phones-battery/)
 - [Coronal mass ejection from colossal New Year&#39;s Eve solar flare will strike Earth today](https://www.space.com/sun-solar-flare-new-years-eve-coronal-mass-eruption)
-- [Where will the most crowded places be for the total solar eclipse on April 8, 2024?](https://www.space.com/most-crowded-places-for-total-solar-eclipse-april-2024)
-- [MIT scientists are working on a vibrating obesity pill](https://techcrunch.com/2024/01/02/mit-scientists-are-working-on-a-vibrating-obesity-pill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
