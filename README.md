@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung’s Galaxy S24 lineup set for January 17 debut](https://techcrunch.com/2024/01/02/samsungs-galaxy-s24-line-set-for-january-17-debut/)
+- [The top 10 spaceflight stories of 2023](https://www.space.com/top-10-spaceflight-stories-2023)
 - [Tech for Palestine launches to provide tools to help support Palestinians](https://techcrunch.com/2024/01/02/tech-for-palestine-launches-to-provide-tools-and-projects-to-help-advocate-for-palestinians/)
 - [Terran Orbital receives key payment from Rivada Space, adjusts year-end cash balance](https://techcrunch.com/2024/01/02/terran-orbital-receives-key-payment-from-rivada-space-adjusts-year-end-cash-balance/)
 - [Why Puma is sticking to its web3 bets as crypto shakes off a long-held winter](https://techcrunch.com/2024/01/02/why-puma-is-sticking-to-its-web3-bets-as-crypto-shakes-off-a-long-held-winter/)
-- [Lego announces new space-themed kits for 2024 including Mars base, rockets and rovers](https://www.space.com/lego-new-space-sets-branding-2024)
-- [Great, now we have to become digital copyright experts](https://techcrunch.com/2024/01/02/great-now-we-have-to-become-digital-copyright-experts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
