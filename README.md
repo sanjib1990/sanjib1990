@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where will the most crowded places be for the total solar eclipse on April 8, 2024?](https://www.space.com/most-crowded-places-for-total-solar-eclipse-april-2024)
+- [MIT scientists are working on a vibrating obesity pill](https://techcrunch.com/2024/01/02/mit-scientists-are-working-on-a-vibrating-obesity-pill/)
+- [Early-stage hard tech firm Countdown Capital shutting down](https://techcrunch.com/2024/01/02/early-stage-hard-tech-firm-countdown-capital-shutting-down/)
 - [Here are the 5 EVs that qualify for the full federal tax credit in 2024](https://techcrunch.com/2024/01/02/ev-tax-credit-eligibility-tesla-ford-chevy/)
 - [Debunking the myth that crowdfunding is only good for cash](https://techcrunch.com/2024/01/02/crowdfunding-is-actually-good/)
-- [AI versus copyright, and why you shouldn’t count your NFT chickens before they hatch](https://techcrunch.com/2024/01/02/ai-versus-copyright-and-why-you-shouldnt-count-your-nft-chickens-before-they-hatch/)
-- [Rivian deliveries slip 10% in Q4, raising demand questions](https://techcrunch.com/2024/01/02/rivian-deliveries-slip-10-in-q4-raising-demand-questions/)
-- [Generative AI: Transforming education into a personalized, addictive learning experience](https://techcrunch.com/2024/01/02/generative-ai-transforming-education-into-a-personalized-addictive-learning-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
