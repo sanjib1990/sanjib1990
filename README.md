@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope could look for &#39;carbon-lite&#39; exoplanet atmospheres in search for alien life](https://www.space.com/james-webb-space-telescope-exoplanets-signs-of-life)
+- [I broke my wrist: Meta Quest 3 and Supernatural helped me through](https://techcrunch.com/2024/01/03/i-broke-my-wrist-meta-quest-3-and-supernatural-helped-me-through/)
+- [Roku announces new lineup of high-end TVs to launch this spring](https://techcrunch.com/2024/01/03/roku-announces-new-lineup-of-high-end-tvs-to-launch-this-spring/)
+- [What’s next for Mozilla?](https://techcrunch.com/2024/01/03/whats-next-for-mozilla/)
 - [Why I’m modestly crypto-bullish in 2024](https://techcrunch.com/2024/01/03/modestly-crypto-bullish-in-2024/)
-- [Vulcan rocket to launch private Peregrine moon lander on debut liftoff Jan. 8. How to watch live.](https://www.space.com/peregrine-moon-lander-launch-watch-live)
-- [23andMe tells victims it’s their fault that their data was breached](https://techcrunch.com/2024/01/03/23andme-tells-victims-its-their-fault-that-their-data-was-breached/)
-- [Cloud-native cybersecurity startup Aqua Security raises $60M and remains a unicorn](https://techcrunch.com/2024/01/03/cloud-native-cybersecurity-startup-aqua-security-raises-60m-and-remains-a-unicorn/)
-- [SpaceX to launch Swedish internet satellite tonight: Watch it live](https://www.space.com/spacex-launch-swedish-satellite-ovzon-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
