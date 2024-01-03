@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: What changes are in store for PERM?](https://techcrunch.com/2024/01/03/ask-sophie-what-changes-are-in-store-for-perm/)
+- [The inside of a dead star might look like a gigantic atomic nucleus](https://www.space.com/neutron-stars-dead-cores-atomic-nucleus)
+- [Urbanista integrates Powerfoyle tech with solar-powered headphones](https://techcrunch.com/2024/01/03/urbanista-integrates-powerfoyle-tech-with-solar-powered-headphones/)
+- [Building a strong startup developer culture requires constant adjustment](https://techcrunch.com/2024/01/03/building-strong-developer-culture/)
 - [James Webb Space Telescope could look for &#39;carbon-lite&#39; exoplanet atmospheres in search for alien life](https://www.space.com/james-webb-space-telescope-exoplanets-signs-of-life)
-- [I broke my wrist: Meta Quest 3 and Supernatural helped me through](https://techcrunch.com/2024/01/03/i-broke-my-wrist-meta-quest-3-and-supernatural-helped-me-through/)
-- [Roku announces new lineup of high-end TVs to launch this spring](https://techcrunch.com/2024/01/03/roku-announces-new-lineup-of-high-end-tvs-to-launch-this-spring/)
-- [What’s next for Mozilla?](https://techcrunch.com/2024/01/03/whats-next-for-mozilla/)
-- [Why I’m modestly crypto-bullish in 2024](https://techcrunch.com/2024/01/03/modestly-crypto-bullish-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
