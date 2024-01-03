@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch Swedish internet satellite tonight: Watch it live](https://www.space.com/spacex-launch-swedish-satellite-ovzon-3)
+- [Microsoft Copilot is now available on iOS and Android](https://techcrunch.com/2024/01/03/microsoft-copilot-is-now-available-on-ios-and-android/)
 - [How Duly is shaking up the Indian sexual wellness market](https://techcrunch.com/2024/01/03/how-duly-is-shaking-up-the-indian-sexual-wellness-market/)
 - [Moonwalker robotic shoes get lighter and smarter](https://techcrunch.com/2024/01/03/moonwalker-robotic-shoes-get-lighter-and-smarter/)
 - [NASA&#39;s Ingenuity Mars helicopter sets new distance record on the Red Planet](https://www.space.com/mars-helicopter-ingenuity-distance-record-december-2023)
-- [X briefly brought back headlines to link previews — but they’re gone again](https://techcrunch.com/2024/01/03/x-briefly-brought-back-headlines-to-link-previews-but-theyre-gone-again/)
-- [Two ex-Wall Streeters want to solve one of VC’s biggest problems: Warm introductions](https://techcrunch.com/2024/01/03/diadem-capital-venture-capital-warm-introductions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
