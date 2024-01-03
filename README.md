@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I’m modestly crypto-bullish in 2024](https://techcrunch.com/2024/01/03/modestly-crypto-bullish-in-2024/)
+- [Vulcan rocket to launch private Peregrine moon lander on debut liftoff Jan. 8. How to watch live.](https://www.space.com/peregrine-moon-lander-launch-watch-live)
+- [23andMe tells victims it’s their fault that their data was breached](https://techcrunch.com/2024/01/03/23andme-tells-victims-its-their-fault-that-their-data-was-breached/)
+- [Cloud-native cybersecurity startup Aqua Security raises $60M and remains a unicorn](https://techcrunch.com/2024/01/03/cloud-native-cybersecurity-startup-aqua-security-raises-60m-and-remains-a-unicorn/)
 - [SpaceX to launch Swedish internet satellite tonight: Watch it live](https://www.space.com/spacex-launch-swedish-satellite-ovzon-3)
-- [Microsoft Copilot is now available on iOS and Android](https://techcrunch.com/2024/01/03/microsoft-copilot-is-now-available-on-ios-and-android/)
-- [How Duly is shaking up the Indian sexual wellness market](https://techcrunch.com/2024/01/03/how-duly-is-shaking-up-the-indian-sexual-wellness-market/)
-- [Moonwalker robotic shoes get lighter and smarter](https://techcrunch.com/2024/01/03/moonwalker-robotic-shoes-get-lighter-and-smarter/)
-- [NASA&#39;s Ingenuity Mars helicopter sets new distance record on the Red Planet](https://www.space.com/mars-helicopter-ingenuity-distance-record-december-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ---
