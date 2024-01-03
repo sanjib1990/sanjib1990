@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Up next for Endeavour LA exhibit: Tank lift and shuttle shrink wrap](https://www.space.com/space-shuttle-endeavour-shrink-wrap-external-tank-lift)
 - [Ask Sophie: What changes are in store for PERM?](https://techcrunch.com/2024/01/03/ask-sophie-what-changes-are-in-store-for-perm/)
 - [The inside of a dead star might look like a gigantic atomic nucleus](https://www.space.com/neutron-stars-dead-cores-atomic-nucleus)
 - [Urbanista integrates Powerfoyle tech with solar-powered headphones](https://techcrunch.com/2024/01/03/urbanista-integrates-powerfoyle-tech-with-solar-powered-headphones/)
 - [Building a strong startup developer culture requires constant adjustment](https://techcrunch.com/2024/01/03/building-strong-developer-culture/)
-- [James Webb Space Telescope could look for &#39;carbon-lite&#39; exoplanet atmospheres in search for alien life](https://www.space.com/james-webb-space-telescope-exoplanets-signs-of-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
