@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Cooling glass&#39; could fight climate change by reflecting solar radiation back into space](https://www.space.com/climate-change-cooling-glass-heat-space)
+- [Twitch attire policy update shuts down the viral topless meta](https://techcrunch.com/2024/01/03/twitch-shuts-down-topless-meta-with-attire-policy-update/)
 - [Ripples in the oldest known spiral galaxy may shed light on the origins of our Milky Way](https://www.space.com/ripples-oldest-known-spiral-galaxy-milky-way-origins)
 - [Crypto losses declined over 50% in 2023](https://techcrunch.com/2024/01/03/crypto-losses-declined-50-percent-2023/)
 - [SpaceX wrongly fired eight activist employees, US labor board alleges](https://techcrunch.com/2024/01/03/spacex-wrongly-fired-eight-activist-employee-us-labor-board-alleges/)
-- [Up next for Endeavour LA exhibit: Tank lift and shuttle shrink wrap](https://www.space.com/space-shuttle-endeavour-shrink-wrap-external-tank-lift)
-- [Ask Sophie: What changes are in store for PERM?](https://techcrunch.com/2024/01/03/ask-sophie-what-changes-are-in-store-for-perm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
