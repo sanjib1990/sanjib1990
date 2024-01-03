@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starship, Starlink and more: SpaceX poised for huge 2024](https://www.space.com/spacex-2024-starship-starlink-launches)
+- [1st private mission to Venus will search for alien life in clouds of sulfuric acid](https://www.space.com/venus-private-mission-alien-life-sulfuric-acid)
+- [YL Ventures details the challenges facing Israeli cybersecurity startups](https://techcrunch.com/2024/01/03/yl-ventures-details-the-challenges-and-opportunities-facing-israeli-cybersecurity-startups/)
 - [India widens regulatory grip over tech firms](https://techcrunch.com/2024/01/03/india-tech-regulation/)
 - [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Why Fortnite is getting into cozy gaming](https://techcrunch.com/2024/01/02/lego-fortnite-interview-saxs-persson/)
-- [Review: Zack Snyder&#39;s &#39;Rebel Moon&#39; is a joyless jumble of rehashed sci-fi fare](https://www.space.com/netflix-rebel-moon-part-one-zack-snyder-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
