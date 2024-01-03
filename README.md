@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Two ex-Wall Streeters want to solve one of VC’s biggest problems: Warm introductions](https://techcrunch.com/2024/01/03/diadem-capital-venture-capital-warm-introductions/)
+- [Spacetime ripples detected in 2023 continue to puzzle astronomers. Could they be from the dawn of the universe?](https://www.space.com/gravitational-wave-background-dawn-of-universe)
 - [Starship, Starlink and more: SpaceX poised for huge 2024](https://www.space.com/spacex-2024-starship-starlink-launches)
 - [1st private mission to Venus will search for alien life in clouds of sulfuric acid](https://www.space.com/venus-private-mission-alien-life-sulfuric-acid)
 - [YL Ventures details the challenges facing Israeli cybersecurity startups](https://techcrunch.com/2024/01/03/yl-ventures-details-the-challenges-and-opportunities-facing-israeli-cybersecurity-startups/)
-- [India widens regulatory grip over tech firms](https://techcrunch.com/2024/01/03/india-tech-regulation/)
-- [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
