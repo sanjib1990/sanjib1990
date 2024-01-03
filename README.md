@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Why Fortnite is getting into cozy gaming](https://techcrunch.com/2024/01/02/lego-fortnite-interview-saxs-persson/)
 - [Review: Zack Snyder&#39;s &#39;Rebel Moon&#39; is a joyless jumble of rehashed sci-fi fare](https://www.space.com/netflix-rebel-moon-part-one-zack-snyder-review)
 - [Short-term rental provider Frontdesk lays off entire staff, on the verge of shutting down](https://techcrunch.com/2024/01/02/short-term-rental-provider-frontdesk-lays-off-entire-staff-on-the-verge-of-shutting-down/)
-- [Former Anthemis partner soft-launches new fintech-focused venture firm](https://techcrunch.com/2024/01/02/former-anthemis-partner-soft-launches-new-fintech-focused-venture-firm/)
-- [Samsung’s Galaxy S24 lineup set for January 17 debut](https://techcrunch.com/2024/01/02/samsungs-galaxy-s24-line-set-for-january-17-debut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
