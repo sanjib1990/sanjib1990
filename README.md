@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Duly is shaking up the Indian sexual wellness market](https://techcrunch.com/2024/01/03/how-duly-is-shaking-up-the-indian-sexual-wellness-market/)
+- [Moonwalker robotic shoes get lighter and smarter](https://techcrunch.com/2024/01/03/moonwalker-robotic-shoes-get-lighter-and-smarter/)
+- [NASA&#39;s Ingenuity Mars helicopter sets new distance record on the Red Planet](https://www.space.com/mars-helicopter-ingenuity-distance-record-december-2023)
+- [X briefly brought back headlines to link previews — but they’re gone again](https://techcrunch.com/2024/01/03/x-briefly-brought-back-headlines-to-link-previews-but-theyre-gone-again/)
 - [Two ex-Wall Streeters want to solve one of VC’s biggest problems: Warm introductions](https://techcrunch.com/2024/01/03/diadem-capital-venture-capital-warm-introductions/)
-- [Spacetime ripples detected in 2023 continue to puzzle astronomers. Could they be from the dawn of the universe?](https://www.space.com/gravitational-wave-background-dawn-of-universe)
-- [Starship, Starlink and more: SpaceX poised for huge 2024](https://www.space.com/spacex-2024-starship-starlink-launches)
-- [1st private mission to Venus will search for alien life in clouds of sulfuric acid](https://www.space.com/venus-private-mission-alien-life-sulfuric-acid)
-- [YL Ventures details the challenges facing Israeli cybersecurity startups](https://techcrunch.com/2024/01/03/yl-ventures-details-the-challenges-and-opportunities-facing-israeli-cybersecurity-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
