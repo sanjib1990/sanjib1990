@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto optimism in the age of the doomer](https://techcrunch.com/2024/01/04/crypto-optimism-in-the-age-of-the-doomer/)
+- [For Astrobotic, big risk &lpar;and bigger reward&rpar; ride on private Peregrine moon lander&#39;s Jan. 8 launch](https://www.space.com/astrobotic-peregrine-private-moon-lander-risks-reward)
+- [DARPA&#39;s wild X-65 CRANE aircraft aims for 1st flight in summer 2025](https://www.space.com/darpa-crane-x-65-aircraft-aurora-flight-sciences)
 - [AI-powered search engine Perplexity AI, now valued at $520M, raises $70M](https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m/)
 - [Australia celebrates space history on world&#39;s 1st coin minted in 2024](https://www.space.com/royal-australian-mint-out-of-this-world-2024-coin)
-- [Autonomous delivery startup Nuro taps simulation company Foretellix to cut R&amp;D costs](https://techcrunch.com/2024/01/04/nuro-av-safety-simulation-foretellix-deal/)
-- [Microsoft wants to add a Copilot key to your PC keyboard](https://techcrunch.com/2024/01/04/a-copilot-key-is-coming-to-a-pc-keyboard-near-you/)
-- [Superpedestrian to auction 20,000 e-scooters after shutting down](https://techcrunch.com/2024/01/03/superpedestrian-scooter-auction-shutting-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
