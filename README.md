@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Male astronauts headed to Mars could thrive on this vegetarian salad](https://www.space.com/space-food-perfect-meal-male-astronauts-mars-mission)
+- [Qualcomm next-gen XR chip promises up to 4.3k resolution per eye](https://techcrunch.com/2024/01/04/qualcomm-next-gen-xr-chip-promises-up-to-4-3k-resolution-per-eye/)
+- [Software supply chain security remains a challenge for most enterprises](https://techcrunch.com/2024/01/04/software-supply-chain-security-remains-a-challenge-for-most-enterprises/)
 - [Crypto optimism in the age of the doomer](https://techcrunch.com/2024/01/04/crypto-optimism-in-the-age-of-the-doomer/)
 - [For Astrobotic, big risk &lpar;and bigger reward&rpar; ride on private Peregrine moon lander&#39;s Jan. 8 launch](https://www.space.com/astrobotic-peregrine-private-moon-lander-risks-reward)
-- [DARPA&#39;s wild X-65 CRANE aircraft aims for 1st flight in summer 2025](https://www.space.com/darpa-crane-x-65-aircraft-aurora-flight-sciences)
-- [AI-powered search engine Perplexity AI, now valued at $520M, raises $70M](https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m/)
-- [Australia celebrates space history on world&#39;s 1st coin minted in 2024](https://www.space.com/royal-australian-mint-out-of-this-world-2024-coin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
