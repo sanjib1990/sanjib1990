@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Intel spins out a new enterprise-focused gen AI software company](https://techcrunch.com/2024/01/03/intel-spins-out-a-new-enterprise-focused-gen-ai-software-company/)
-- [Big offshore wind farms are now transmitting sweet, sweet battery juice to the U.S. grid](https://techcrunch.com/2024/01/03/big-offshore-wind-farms-are-now-transmitting-sweet-sweet-battery-juice-to-the-u-s-grid/)
+- [Big offshore wind farms are now transmitting sweet, sweet battery juice to the US grid](https://techcrunch.com/2024/01/03/big-offshore-wind-farms-are-now-transmitting-sweet-sweet-battery-juice-to-the-u-s-grid/)
 - [Satellite imagery analysis shows immense scale of dark fishing industry](https://techcrunch.com/2024/01/03/satellite-imagery-analysis-shows-immense-scale-of-dark-fishing-industry/)
 - [SpaceX launches first batch of direct-to-cell Starlink satellites for testing this year](https://techcrunch.com/2024/01/03/spacex-launches-first-batch-of-direct-to-cell-starlink-satellites-for-testing-this-year/)
 - [&#39;Cooling glass&#39; could fight climate change by reflecting solar radiation back into space](https://www.space.com/climate-change-cooling-glass-heat-space)
