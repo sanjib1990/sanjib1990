@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA responds to Navajo Nation&#39;s request to delay private mission placing human remains on the moon](https://www.space.com/nasa-responds-navajo-nation-objection-human-remains-moon)
+- [Is the latest near-room-temperature superconductor legit? Don’t count on it](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
+- [Talks of bitcoin spot ETF approval circulate as India blocks exchange sites and crypto is seeing more optimism](https://techcrunch.com/2024/01/04/talks-of-bitcoin-spot-etf-approval-india-blocks-exchange-sites-and-crypto-is-seeing-more-optimism/)
 - [Concerning satellite observations show major cities on US East Coast are sinking](https://www.space.com/concerning-us-east-coast-sinking-new-york-city-climate-change)
-- [India launches X-ray satellite to study black holes, supernovas and more &lpar;video&rpar;](https://www.space.com/india-launches-xposat-satellite-black-holes-video)
-- [Navajo Nation objects to private moon mission placing human remains on the lunar surface](https://www.space.com/moon-navajo-nation-objection-human-remains-ula-vulcan-centaur-celestis-elysium-space)
-- [For just $139, this startup turns your iPhone into a BlackBerry-era relic](https://techcrunch.com/2024/01/04/clicky-please-no/)
-- [Japan delays MMX Mars moon sample-return mission to 2026](https://www.space.com/japan-delays-mmx-mars-mission-rocket-problems)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/01/04/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
