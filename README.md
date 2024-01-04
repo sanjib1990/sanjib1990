@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Concerning satellite observations show major cities on US East Coast are sinking](https://www.space.com/concerning-us-east-coast-sinking-new-york-city-climate-change)
 - [India launches X-ray satellite to study black holes, supernovas and more &lpar;video&rpar;](https://www.space.com/india-launches-xposat-satellite-black-holes-video)
-- [This startup is bringing a ‘voice frequency absorber’ to CES 2024](https://techcrunch.com/2024/01/04/this-startup-is-bringing-a-voice-frequency-absorber-to-ces-2024/)
 - [Navajo Nation objects to private moon mission placing human remains on the lunar surface](https://www.space.com/moon-navajo-nation-objection-human-remains-ula-vulcan-centaur-celestis-elysium-space)
 - [For just $139, this startup turns your iPhone into a BlackBerry-era relic](https://techcrunch.com/2024/01/04/clicky-please-no/)
 - [Japan delays MMX Mars moon sample-return mission to 2026](https://www.space.com/japan-delays-mmx-mars-mission-rocket-problems)
