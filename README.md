@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope sees wild weather raging on distant hot Jupiter world](https://www.space.com/hubble-space-telescope-hot-jupiter-exoplanet-storm)
 - [One of the closest galaxies to the Milky Way is hiding a second galaxy behind it, new research reveals](https://www.space.com/galaxies-closest-milky-way-hiding-second-galaxy-behind-it)
 - [EV startup Fisker struggling to meet internal sales goals, documents show](https://techcrunch.com/2024/01/04/ev-startup-fisker-sales-goals-dealerships/)
 - [NASA responds to Navajo Nation&#39;s request to delay private mission placing human remains on the moon](https://www.space.com/nasa-responds-navajo-nation-objection-human-remains-moon)
 - [Is the latest near-room-temperature superconductor legit? Don’t count on it](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
-- [Talks of bitcoin spot ETF approval circulate as India blocks exchange sites and crypto is seeing more optimism](https://techcrunch.com/2024/01/04/talks-of-bitcoin-spot-etf-approval-india-blocks-exchange-sites-and-crypto-is-seeing-more-optimism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
