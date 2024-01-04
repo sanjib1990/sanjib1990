@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel spins out a new enterprise-focused gen AI software company](https://techcrunch.com/2024/01/03/intel-spins-out-a-new-enterprise-focused-gen-ai-software-company/)
+- [Big offshore wind farms are now transmitting sweet, sweet battery juice to the U.S. grid](https://techcrunch.com/2024/01/03/big-offshore-wind-farms-are-now-transmitting-sweet-sweet-battery-juice-to-the-u-s-grid/)
+- [Satellite imagery analysis shows immense scale of dark fishing industry](https://techcrunch.com/2024/01/03/satellite-imagery-analysis-shows-immense-scale-of-dark-fishing-industry/)
+- [SpaceX launches first batch of direct-to-cell Starlink satellites for testing this year](https://techcrunch.com/2024/01/03/spacex-launches-first-batch-of-direct-to-cell-starlink-satellites-for-testing-this-year/)
 - [&#39;Cooling glass&#39; could fight climate change by reflecting solar radiation back into space](https://www.space.com/climate-change-cooling-glass-heat-space)
-- [Twitch attire policy update shuts down the viral topless meta](https://techcrunch.com/2024/01/03/twitch-shuts-down-topless-meta-with-attire-policy-update/)
-- [Ripples in the oldest known spiral galaxy may shed light on the origins of our Milky Way](https://www.space.com/ripples-oldest-known-spiral-galaxy-milky-way-origins)
-- [Crypto losses declined over 50% in 2023](https://techcrunch.com/2024/01/03/crypto-losses-declined-50-percent-2023/)
-- [SpaceX wrongly fired eight activist employees, US labor board alleges](https://techcrunch.com/2024/01/03/spacex-wrongly-fired-eight-activist-employee-us-labor-board-alleges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
