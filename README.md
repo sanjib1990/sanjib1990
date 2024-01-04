@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India launches X-ray satellite to study black holes, supernovas and more &lpar;video&rpar;](https://www.space.com/india-launches-xposat-satellite-black-holes-video)
+- [This startup is bringing a ‘voice frequency absorber’ to CES 2024](https://techcrunch.com/2024/01/04/this-startup-is-bringing-a-voice-frequency-absorber-to-ces-2024/)
+- [Navajo Nation objects to private moon mission placing human remains on the lunar surface](https://www.space.com/moon-navajo-nation-objection-human-remains-ula-vulcan-centaur-celestis-elysium-space)
 - [For just $139, this startup turns your iPhone into a BlackBerry-era relic](https://techcrunch.com/2024/01/04/clicky-please-no/)
 - [Japan delays MMX Mars moon sample-return mission to 2026](https://www.space.com/japan-delays-mmx-mars-mission-rocket-problems)
-- [Here’s how HSBC’s international payments app Zing compares to Wise and Revolut](https://techcrunch.com/2024/01/04/heres-how-hsbcs-new-international-payments-app-zing-compares-to-wise-and-revolut/)
-- [Law firm that handles data breaches was hit by data breach](https://techcrunch.com/2024/01/04/orrick-law-firm-data-breach/)
-- [Apple Fitness+ introduces sound meditation, a workout program for golfers and more](https://techcrunch.com/2024/01/04/apple-fitness-introduces-sound-meditation-a-workout-program-for-golfers-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
