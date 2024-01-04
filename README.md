@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien technosignatures more likely to be found on oxygen-rich exoplanets. Here&#39;s why](https://www.space.com/aliens-oxygen-technology-exoplanets-technosignatures)
-- [Theory Venture’s Tomasz Tunguz unveils 2024 predictions: AI dominance, resurging Web3, and the new normal of tech investments](https://techcrunch.com/2024/01/04/theory-ventures-tomasz-tunguz-unveils-2024-predictions-ai-dominance-resurging-web3-and-the-new-normal-of-tech-investments/)
-- [TikTok aims to grow its TikTok Shop US business tenfold to $17.5B in 2024, report claims](https://techcrunch.com/2024/01/04/tiktok-aims-grow-tiktok-shop-u-s-business-tenfold-17-5b-2024/)
-- [Exponent Founders Capital, led by Plaid and Robinhood alums, raises $75M to invest in early-stage startups](https://techcrunch.com/2024/01/04/exponent-founders-capital-led-by-plaid-and-robinhood-alums-raises-75m-to-invest-in-early-stage-startups/)
-- [China launches 2 sets of commercial weather satellites in 3-day span &lpar;video&rpar;](https://www.space.com/china-two-commercial-weather-satellite-launches-december-2023-video)
+- [For just $139, this startup turns your iPhone into a BlackBerry-era relic](https://techcrunch.com/2024/01/04/clicky-please-no/)
+- [Japan delays MMX Mars moon sample-return mission to 2026](https://www.space.com/japan-delays-mmx-mars-mission-rocket-problems)
+- [Here’s how HSBC’s international payments app Zing compares to Wise and Revolut](https://techcrunch.com/2024/01/04/heres-how-hsbcs-new-international-payments-app-zing-compares-to-wise-and-revolut/)
+- [Law firm that handles data breaches was hit by data breach](https://techcrunch.com/2024/01/04/orrick-law-firm-data-breach/)
+- [Apple Fitness+ introduces sound meditation, a workout program for golfers and more](https://techcrunch.com/2024/01/04/apple-fitness-introduces-sound-meditation-a-workout-program-for-golfers-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
