@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exoplanet-hunting instrument measures Jupiter&#39;s wild wind speeds](https://www.space.com/eso-vlt-exoplanet-instrument-jupiter-wind-speeds)
+- [One week left to apply to speak at TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/04/one-week-left-to-apply-to-speak-at-techcrunch-early-stage-2024/)
 - [Male astronauts headed to Mars could thrive on this vegetarian salad](https://www.space.com/space-food-perfect-meal-male-astronauts-mars-mission)
 - [Qualcomm next-gen XR chip promises up to 4.3k resolution per eye](https://techcrunch.com/2024/01/04/qualcomm-next-gen-xr-chip-promises-up-to-4-3k-resolution-per-eye/)
 - [Software supply chain security remains a challenge for most enterprises](https://techcrunch.com/2024/01/04/software-supply-chain-security-remains-a-challenge-for-most-enterprises/)
-- [Crypto optimism in the age of the doomer](https://techcrunch.com/2024/01/04/crypto-optimism-in-the-age-of-the-doomer/)
-- [For Astrobotic, big risk &lpar;and bigger reward&rpar; ride on private Peregrine moon lander&#39;s Jan. 8 launch](https://www.space.com/astrobotic-peregrine-private-moon-lander-risks-reward)
 <!-- BLOG-POST-LIST:END -->
 
 ---
