@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exponent Founders Capital, led by Plaid and Robinhood alums, raises $75M to invest in early-stage startups](https://techcrunch.com/2024/01/04/exponent-founders-capital-led-by-plaid-and-robinhood-alums-raises-75m-to-invest-in-early-stage-startups/)
+- [China launches 2 sets of commercial weather satellites in 3-day span &lpar;video&rpar;](https://www.space.com/china-two-commercial-weather-satellite-launches-december-2023-video)
+- [VCs anticipate more exits in 2024 but have no consensus on when or how](https://techcrunch.com/2024/01/04/vcs-predict-more-exits-in-2024/)
+- [Big, costly seed deals were the exception in 2023’s lackluster venture capital market](https://techcrunch.com/2024/01/04/seed-deals-2023-outliers/)
 - [Exoplanet-hunting instrument measures Jupiter&#39;s wild wind speeds](https://www.space.com/eso-vlt-exoplanet-instrument-jupiter-wind-speeds)
-- [One week left to apply to speak at TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/04/one-week-left-to-apply-to-speak-at-techcrunch-early-stage-2024/)
-- [Male astronauts headed to Mars could thrive on this vegetarian salad](https://www.space.com/space-food-perfect-meal-male-astronauts-mars-mission)
-- [Qualcomm next-gen XR chip promises up to 4.3k resolution per eye](https://techcrunch.com/2024/01/04/qualcomm-next-gen-xr-chip-promises-up-to-4-3k-resolution-per-eye/)
-- [Software supply chain security remains a challenge for most enterprises](https://techcrunch.com/2024/01/04/software-supply-chain-security-remains-a-challenge-for-most-enterprises/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
