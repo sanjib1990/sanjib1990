@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered search engine Perplexity AI, now valued at $520M, raises $70M](https://techcrunch.com/2024/01/04/ai-powered-search-engine-perplexity-ai-now-valued-at-520m-raises-70m/)
 - [Australia celebrates space history on world&#39;s 1st coin minted in 2024](https://www.space.com/royal-australian-mint-out-of-this-world-2024-coin)
 - [Autonomous delivery startup Nuro taps simulation company Foretellix to cut R&amp;D costs](https://techcrunch.com/2024/01/04/nuro-av-safety-simulation-foretellix-deal/)
 - [Microsoft wants to add a Copilot key to your PC keyboard](https://techcrunch.com/2024/01/04/a-copilot-key-is-coming-to-a-pc-keyboard-near-you/)
 - [Superpedestrian to auction 20,000 e-scooters after shutting down](https://techcrunch.com/2024/01/03/superpedestrian-scooter-auction-shutting-down/)
-- [Intel spins out a new enterprise-focused GenAI software company](https://techcrunch.com/2024/01/03/intel-spins-out-a-new-enterprise-focused-gen-ai-software-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
