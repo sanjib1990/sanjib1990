@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Space Telescope sees wild weather raging on distant hot Jupiter world](https://www.space.com/hubble-space-telescope-hot-jupiter-exoplanet-storm)
-- [One of the closest galaxies to the Milky Way is hiding a second galaxy behind it, new research reveals](https://www.space.com/galaxies-closest-milky-way-hiding-second-galaxy-behind-it)
-- [EV startup Fisker struggling to meet internal sales goals, documents show](https://techcrunch.com/2024/01/04/ev-startup-fisker-sales-goals-dealerships/)
-- [NASA responds to Navajo Nation&#39;s request to delay private mission placing human remains on the moon](https://www.space.com/nasa-responds-navajo-nation-objection-human-remains-moon)
-- [Is the latest near-room-temperature superconductor legit? Don’t count on it](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
+- [Logan Paul promises CryptoZoo refunds, as long as you don’t sue him](https://techcrunch.com/2024/01/04/logan-paul-cryptozoo-nft-buy-back-class-action-lawsuit/)
+- [Lawsuit against Snap over fentanyl deaths can proceed, judge rules](https://techcrunch.com/2024/01/04/snapchat-snap-fentanyl-section-230/)
+- [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/04/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
+- [Uranus and Neptune are actually similar blues, &#39;true&#39; color images reveal](https://www.space.com/uranus-neptune-similar-shades-of-blue-voyager-2-images)
+- [The goal of a startup is to cease existing](https://techcrunch.com/2024/01/04/longevity-is-the-wrong-goal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
