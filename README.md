@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien life could thrive in Venus&#39; acidic clouds, new study hints](https://www.space.com/alien-life-venus-clouds-amino-acids-stable-sulfuric-acid)
+- [Nabla raises another $24 million for its AI assistant for doctors that automatically writes clinical notes](https://techcrunch.com/2024/01/05/nabla-raises-another-24-million-for-its-ai-assistant-for-doctors/)
 - [Are megafunds squeezing out small VCs and distorting the seed market?](https://techcrunch.com/2024/01/05/are-megafunds-squeezing-out-small-vcs-and-distorting-the-seed-market/)
 - [Pitch Deck Teardown: Pepper Bio’s $6.5M seed deck](https://techcrunch.com/2024/01/05/sample-seed-pitch-deck-pepper-bio/)
 - [Watch red supergiant star Antares pass behind the moon early on Jan. 8](https://www.space.com/moon-antares-occultation-jan-2024)
-- [5 steps to ensure startups successfully deploy LLMs](https://techcrunch.com/2024/01/05/5-steps-to-ensure-startups-successfully-deploy-llms/)
-- [Aurora and Continental pass first major hurdle in commercial self-driving trucks deal](https://techcrunch.com/2024/01/05/aurora-and-continental-pass-first-major-hurdle-in-commercial-self-driving-trucks-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
