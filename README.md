@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last year was a tough period for African growth stage startups and 2024 presents mixed bag](https://techcrunch.com/2024/01/05/african-startup-ecosystem-outlook/)
 - [Peak XV-backed MobiKwik seeks to raise $84 million in India IPO](https://techcrunch.com/2024/01/04/mobikwik-ipo/)
 - [NASA&#39;s Perseverance rover captures 360-degree view of Mars&#39; Jezero Crater &lpar;video&rpar;](https://www.space.com/perseverance-rover-360-view-jezero-crater)
 - [Logan Paul promises CryptoZoo refunds, as long as you don’t sue him](https://techcrunch.com/2024/01/04/logan-paul-cryptozoo-nft-buy-back-class-action-lawsuit/)
 - [Lawsuit against Snap over fentanyl deaths can proceed, judge rules](https://techcrunch.com/2024/01/04/snapchat-snap-fentanyl-section-230/)
-- [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/04/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
