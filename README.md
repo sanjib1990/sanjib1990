@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;Super Bowl of Astronomy&#39; begins next week in New Orleans](https://www.space.com/super-bowl-astronomy-american-astronomical-society-243-meeting-new-orleans)
+- [This app lets cafes and coffee shops charge to use the bathroom](https://techcrunch.com/2024/01/05/this-app-lets-cafes-and-coffee-shops-charge-to-use-the-bathroom/)
+- [Netflix considers adding in-app purchases and ads to games, report says](https://techcrunch.com/2024/01/05/netflix-considers-adding-in-app-purchases-and-ads-to-games-report-says/)
 - [Rest in peace, 2023 startups — Here’s to 2024](https://techcrunch.com/2024/01/05/rest-in-peace-2023-startups-heres-to-2024/)
 - [CES 2024: Follow along with TechCrunch’s coverage from Las Vegas](https://techcrunch.com/2024/01/05/ces-2024-follow-along-with-techcrunch-coverage-from-las-vegas/)
-- [Aftermath of 2 star explosions captured in breathtaking new NASA image](https://www.space.com/30-dor-b-double-supernova-image)
-- [Investors are optimistic about 2024](https://techcrunch.com/2024/01/05/investors-are-optimistic-about-2024/)
-- [Amazon reveals new animated comedy &#39;The Second Best Hospital in the Galaxy&#39;](https://www.space.com/second-best-hospital-in-the-galaxy-amazon-prime-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
