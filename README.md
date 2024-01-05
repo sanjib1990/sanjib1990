@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors are optimistic about 2024](https://techcrunch.com/2024/01/05/investors-are-optimistic-about-2024/)
+- [Amazon reveals new animated comedy &#39;The Second Best Hospital in the Galaxy&#39;](https://www.space.com/second-best-hospital-in-the-galaxy-amazon-prime-video)
 - [VCs are optimistic that AI investing will move beyond the hype in 2024](https://techcrunch.com/2024/01/05/ai-investing-2024-predictions/)
 - [Vulcan Centaur rocket arrives at pad ahead of debut launch &lpar;photos&rpar;](https://www.space.com/vulcan-centaur-arrives-launch-pad-photos)
 - [Send your name to the moon aboard NASA&#39;s ice-hunting VIPER rover](https://www.space.com/send-your-name-to-moon-nasa-viper-rover)
-- [Uber testing flexible pricing service in over a dozen Indian cities](https://techcrunch.com/2024/01/05/uber-flex-india/)
-- [The global venture capital market is not done retreating yet](https://techcrunch.com/2024/01/05/global-venture-capital-is-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
