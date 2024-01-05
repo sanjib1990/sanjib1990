@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Perseverance rover captures 360-degree view of Mars&#39; Jezero Crater &lpar;video&rpar;](https://www.space.com/perseverance-rover-360-view-jezero-crater)
 - [Logan Paul promises CryptoZoo refunds, as long as you don’t sue him](https://techcrunch.com/2024/01/04/logan-paul-cryptozoo-nft-buy-back-class-action-lawsuit/)
 - [Lawsuit against Snap over fentanyl deaths can proceed, judge rules](https://techcrunch.com/2024/01/04/snapchat-snap-fentanyl-section-230/)
 - [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/04/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
 - [Uranus and Neptune are actually similar blues, &#39;true&#39; color images reveal](https://www.space.com/uranus-neptune-similar-shades-of-blue-voyager-2-images)
-- [The goal of a startup is to cease existing](https://techcrunch.com/2024/01/04/longevity-is-the-wrong-goal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
