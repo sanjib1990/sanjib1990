@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Humane touch: More MVNOs are being minted than ever](https://techcrunch.com/2024/01/05/the-humane-touch-more-mvnos-are-being-minted-than-ever/)
 - [NASA to unveil new X-59 &#39;quiet&#39; supersonic jet on Jan. 12](https://www.space.com/nasa-x-59-quiet-supersonic-jet-rollout-livestream)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Last year was a tough period for African growth stage startups and 2024 presents mixed bag](https://techcrunch.com/2024/01/05/african-startup-ecosystem-outlook/)
 - [Peak XV-backed MobiKwik seeks to raise $84 million in India IPO](https://techcrunch.com/2024/01/04/mobikwik-ipo/)
-- [NASA&#39;s Perseverance rover captures 360-degree view of Mars&#39; Jezero Crater &lpar;video&rpar;](https://www.space.com/perseverance-rover-360-view-jezero-crater)
 <!-- BLOG-POST-LIST:END -->
 
 ---
