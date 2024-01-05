@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the ChatGPT store is about to launch… let’s get rich](https://www.youtube.com/watch?v=9T_wv6D8PYo)
 - [Pascal in 100 Seconds](https://www.youtube.com/watch?v=K9mzg8ueiYA)
 - [I keep seeing &quot;Boson&quot; everywhere](https://www.youtube.com/watch?v=1hjYhafdqcY)
 - [Machine Code Explained - Computerphile](https://www.youtube.com/watch?v=8VsiYWW9r48)
 - [you need to learn tmux RIGHT NOW!!](https://www.youtube.com/watch?v=nTqu6w2wc68)
-- [What Was Your First Computer Game? &lpar;Soundcheck Question 2023&rpar; - Computerphile](https://www.youtube.com/watch?v=GdzZFV8jfjg)
 <!-- YOUTUBE:END -->
 
 ---
