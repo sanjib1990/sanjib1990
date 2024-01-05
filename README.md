@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch red supergiant star Antares pass behind the moon early on Jan. 8](https://www.space.com/moon-antares-occultation-jan-2024)
+- [5 steps to ensure startups successfully deploy LLMs](https://techcrunch.com/2024/01/05/5-steps-to-ensure-startups-successfully-deploy-llms/)
+- [Aurora and Continental pass first major hurdle in commercial self-driving trucks deal](https://techcrunch.com/2024/01/05/aurora-and-continental-pass-first-major-hurdle-in-commercial-self-driving-trucks-deal/)
 - [Rod Roddenberry on joining his legendary &#39;Star Trek&#39; parents on Jan. 8 memorial rocket launch &lpar;exclusive&rpar;](https://www.space.com/rod-roddenberry-interview-celestis-memorial-rocket-flight)
 - [Is a black hole stuck inside the sun? No, but here&#39;s why scientists are asking](https://www.space.com/black-hole-stuck-inside-sun)
-- [The Humane touch: More MVNOs are being minted than ever](https://techcrunch.com/2024/01/05/the-humane-touch-more-mvnos-are-being-minted-than-ever/)
-- [NASA to unveil new X-59 &#39;quiet&#39; supersonic jet on Jan. 12](https://www.space.com/nasa-x-59-quiet-supersonic-jet-rollout-livestream)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
