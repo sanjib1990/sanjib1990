@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard’s robotic exoskeleton can improve walking, decrease falls in people with Parkinson’s](https://techcrunch.com/2024/01/06/harvards-robotic-exoskeleton-can-improve-walking-decrease-falls-in-people-with-parkinsons/)
 - [A CES 2024 preview, 23andMe victim blaming and MIT’s obesity-fighting pill](https://techcrunch.com/2024/01/06/a-ces-2024-preview-23andme-victim-blaming-and-mits-obesity-fighting-pill/)
 - [What if the metaverse had legs?](https://techcrunch.com/2024/01/06/metaverse-mixed-reality/)
 - [Deal Dive: A Stripe secondary deal worth paying attention to](https://techcrunch.com/2024/01/06/stripe-secondary-deal-ipo/)
 - [Crystal-studded space rock found in the Sahara may rewrite the history of the early solar system](https://www.space.com/space-rock-crystal-sahara-earl-solar-system)
-- [This week in AI: Microsoft’s sticks an AI ad on keyboards](https://techcrunch.com/2024/01/06/this-week-in-ai-microsofts-sticks-an-ai-ad-on-keyboards/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
