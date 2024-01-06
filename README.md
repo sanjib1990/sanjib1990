@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: A Stripe secondary deal worth paying attention to](https://techcrunch.com/2024/01/06/stripe-secondary-deal-ipo/)
+- [USE ROB&#39;s STORY AND REPLACE IN SAME SHELL -- Crystal-studded space rock found in the Sahara may rewrite the history of the early solar system](https://www.space.com/space-rock-crystal-sahara-earl-solar-system)
 - [This week in AI: Microsoft’s sticks an AI ad on keyboards](https://techcrunch.com/2024/01/06/this-week-in-ai-microsofts-sticks-an-ai-ad-on-keyboards/)
 - [Earth&#39;s core wobbles every 8.5 years, new study suggests](https://www.space.com/earth-core-wobbles-every-85-years)
 - [This Week In Space podcast: Episode 92 — The Saga of the Seven Sisters](https://www.space.com/this-week-in-space-episode-92-saga-seven-sisters)
-- [Mexico&#39;s 1st moon mission will send 5 tiny robots aloft on Peregrine lunar lander Jan. 8](https://www.space.com/peregrine-lunar-lander-mexico-colmena-micro-robots)
-- [Data ownership is leading the next tech megacycle](https://techcrunch.com/2024/01/06/data-ownership-is-leading-the-next-tech-megacycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
