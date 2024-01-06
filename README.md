@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [United Launch Alliance, Astrobotic ready for early Monday liftoff to the moon](https://techcrunch.com/2024/01/05/united-launch-alliance-astrobotic-ready-for-early-monday-liftoff-to-the-moon/)
 - [&#39;For All Mankind&#39; season 4 episode 9 review: The race for Goldilocks is well and truly on](https://www.space.com/for-all-mankind-season-4-episode-9-review)
 - [The cosmic dark ages: Everything you need to know](https://www.space.com/what-are-the-cosmic-dark-ages)
 - [A timeline of Sam Altman’s firing from OpenAI — and the fallout](https://techcrunch.com/2024/01/05/a-timeline-of-sam-altmans-firing-from-openai-and-the-fallout/)
 - [Vulcan Centaur rocket is &#39;go&#39; for historic Jan. 8 launch of private Peregrine moon lander](https://www.space.com/vulcan-centaur-peregrine-moon-lander-cleared-for-launch)
-- [Korean micromobility startup Gbike may buy up the competition before its 2025 IPO](https://techcrunch.com/2024/01/05/korean-micromobility-startup-gbike-may-buy-up-the-competition-before-its-2025-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
