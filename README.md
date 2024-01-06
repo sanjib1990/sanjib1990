@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ULA&#39;s 1st Vulcan Centaur rocket is ready to fly. Will it live long and prosper?](https://www.space.com/ula-vulcan-centaur-debut-launch-long-term-prospects)
+- [Vietnam EV maker VinFast plans $2 billion investment in India](https://techcrunch.com/2024/01/06/vinfast-india/)
 - [What time is ULA&#39;s 1st Vulcan rocket launch with Astrobotic&#39;s private moon lander on Jan. 8?](https://www.space.com/vulcan-rocket-first-launch-private-moon-lander-what-time)
 - [10 rookie mistakes first-time eclipse-chasers make &lpar;and how to avoid them&rpar;](https://www.space.com/eclipse-chaser-rookie-mistakes-how-to-avoid-them)
 - [United Launch Alliance, Astrobotic ready for early Monday liftoff to the moon](https://techcrunch.com/2024/01/05/united-launch-alliance-astrobotic-ready-for-early-monday-liftoff-to-the-moon/)
-- [&#39;For All Mankind&#39; season 4 episode 9 review: The race for Goldilocks is well and truly on](https://www.space.com/for-all-mankind-season-4-episode-9-review)
-- [The cosmic dark ages: Everything you need to know](https://www.space.com/what-are-the-cosmic-dark-ages)
 <!-- BLOG-POST-LIST:END -->
 
 ---
