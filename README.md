@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/01/07/what-is-google-gemini-ai/)
+- [Carta, the cap table management outfit, is accused of unethical tactics by a prominent startup](https://techcrunch.com/2024/01/07/carta-the-cap-table-management-outfit-is-accused-of-unethical-tactics-by-a-customer-after-it-tries-broker-a-deal-for-a-startups-shares-without-consent/)
 - [Isomorphic inks deals with Eli Lilly and Novartis for drug discovery](https://techcrunch.com/2024/01/07/isomorphic-inks-deals-with-eli-lilly-and-novartis-for-drug-discovery/)
 - [CES 2024: Samsung’s bigger, foldier, more rollable displays](https://techcrunch.com/2024/01/07/ces-2024-samsungs-bigger-foldier-more-rollable-displays/)
 - [Tulsa’s tech scene remains resilient amid state’s anti-DEI efforts](https://techcrunch.com/2024/01/07/tulsa-tech-dei-efforts/)
-- [SpaceX launching 23 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-6-35)
-- [Building a viable pricing model for generative AI features could be challenging](https://techcrunch.com/2024/01/07/generative-ai-pricing-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
