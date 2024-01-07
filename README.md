@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Isomorphic inks deals with Eli Lilly and Novartis for drug discovery](https://techcrunch.com/2024/01/07/isomorphic-inks-deals-with-eli-lilly-and-novartis-for-drug-discovery/)
+- [CES 2024: Samsung’s bigger, foldier, more rollable displays](https://techcrunch.com/2024/01/07/ces-2024-samsungs-bigger-foldier-more-rollable-displays/)
 - [Tulsa’s tech scene remains resilient amid state’s anti-DEI efforts](https://techcrunch.com/2024/01/07/tulsa-tech-dei-efforts/)
 - [SpaceX launching 23 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-6-35)
 - [Building a viable pricing model for generative AI features could be challenging](https://techcrunch.com/2024/01/07/generative-ai-pricing-model/)
-- [Early-stage fintech startups just got more funding sources](https://techcrunch.com/2024/01/07/more-funding-sources-for-early-stage-fintech-startups/)
-- [2,000-year-old &#39;celestial calendar&#39; discovered in ancient Chinese tomb](https://www.space.com/2000-year-old-celestial-calendar-discovered-in-ancient-chinese-tomb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
