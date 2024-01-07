@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tulsa’s tech scene remains resilient amid state’s anti-DEI efforts](https://techcrunch.com/2024/01/07/tulsa-tech-dei-efforts/)
 - [SpaceX launching 23 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-6-35)
 - [Building a viable pricing model for generative AI features could be challenging](https://techcrunch.com/2024/01/07/generative-ai-pricing-model/)
 - [Early-stage fintech startups just got more funding sources](https://techcrunch.com/2024/01/07/more-funding-sources-for-early-stage-fintech-startups/)
 - [2,000-year-old &#39;celestial calendar&#39; discovered in ancient Chinese tomb](https://www.space.com/2000-year-old-celestial-calendar-discovered-in-ancient-chinese-tomb)
-- [Aurora hunting: What it&#39;s like to chase the northern lights along Norway&#39;s dramatic coastline](https://www.space.com/see-northern-lights-norway-hurtigruten-coastal-express-astronomy-voyage-what-to-expect)
 <!-- BLOG-POST-LIST:END -->
 
 ---
