@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora hunting: What it&#39;s like to chase the northern lights along Norway&#39;s dramatic coastline](https://www.space.com/see-northern-lights-norway-hurtigruten-coastal-express-astronomy-voyage-what-to-expect)
+- [As AI becomes standard, watch for these 4 DevSecOps trends](https://techcrunch.com/2024/01/07/as-ai-becomes-standard-watch-for-these-4-devsecops-trends/)
 - [Invoxia has a new smart collar suitable for both cats and dogs](https://techcrunch.com/2024/01/07/invoxia-has-a-new-smart-collar-suitable-for-both-cats-and-dogs/)
 - [Watch Vulcan rocket launch private Peregrine moon lander on debut mission early Jan. 8](https://www.space.com/vulcan-centaur-launch-peregrine-moon-lander-webcast)
 - [Harvard’s robotic exoskeleton can improve walking, decrease falls in people with Parkinson’s](https://techcrunch.com/2024/01/06/harvards-robotic-exoskeleton-can-improve-walking-decrease-falls-in-people-with-parkinsons/)
-- [A CES 2024 preview, 23andMe victim blaming and MIT’s obesity-fighting pill](https://techcrunch.com/2024/01/06/a-ces-2024-preview-23andme-victim-blaming-and-mits-obesity-fighting-pill/)
-- [What if the metaverse had legs?](https://techcrunch.com/2024/01/06/metaverse-mixed-reality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
