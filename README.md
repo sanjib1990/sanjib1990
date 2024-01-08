@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DHL delivering Everest rock, &#39;meme&#39; coin to the moon on Astrobotic lander](https://www.space.com/dhl-moonbox-everest-rock-dogecoin-mementos-astrobotic-moon)
+- [Floating &#39;magic islands&#39; on Saturn&#39;s moon Titan may be honeycomb-shaped snow](https://www.space.com/floating-magic-islands-saturn-moon-titan-swiss-cheese-snow)
 - [Astrobotic lander on its way to the moon with ULA’s historic flight](https://techcrunch.com/2024/01/08/astrobotic-lander-on-its-way-to-the-moon-with-ulas-historic-flight/)
 - [ULA&#39;s 1st Vulcan Centaur rocket launch looks spectacular in these photos and videos](https://www.space.com/ula-vulcan-centaur-rocket-launch-debut-photos)
 - [Europe&#39;s Proba-3 mission will create an &#39;artificial eclipse&#39; to the study sun&#39;s corona](https://www.space.com/proba-3-europe-artificial-eclipse-launch-satellites-india-sun)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [YC-backed African fintech Cleva, founded by Stripe and AWS alums, raises $1.5M pre-seed](https://techcrunch.com/2024/01/08/yc-backed-african-fintech-cleva-founded-by-stripe-and-aws-alums-raises-1-5m-pre-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
