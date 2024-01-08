@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin ETFs, Carta’s latest mess, and let’s go to the Moon](https://techcrunch.com/2024/01/08/bitcoin-etfs-cartas-latest-mess-and-lets-go-to-the-moon/)
-- [Turbulent 1st moments of a black hole&#39;s life captured in new simulations](https://www.space.com/black-hole-first-moments-simulation)
-- [EV sales remained strong in Q4. They could have been stronger](https://techcrunch.com/2024/01/08/q4-ev-sales-analysis/)
-- [RIP? Third-party podcast app Castro appears to be dead, company goes quiet](https://techcrunch.com/2024/01/08/castro-podcasts-app-dead-website-down/)
-- [How to partner with a venture investor who values technology innovators](https://techcrunch.com/2024/01/08/how-to-partner-with-a-venture-investor-who-values-technology-innovators/)
+- [Waymo will start testing robotaxis on Phoenix highways](https://techcrunch.com/2024/01/08/waymo-driverless-avs-phoenix-az-test/)
+- [Volkswagen is bringing ChatGPT into its cars and SUVs](https://techcrunch.com/2024/01/08/volkswagen-is-bringing-chatgpt-into-its-cars-and-suvs/)
+- [Amazon’s new initiative aims to help people discover digital health benefits to manage chronic conditions](https://techcrunch.com/2024/01/08/amazons-new-initiative-aims-help-people-discover-digital-health-benefits-manage-chronic-conditions/)
+- [Will Apple’s Vision Pro launch be a Groundhog Day for immersive computing?](https://techcrunch.com/2024/01/08/will-apples-vision-pro-launch-be-a-groundhog-day-for-immersive-computing/)
+- [Amazon turns to AI to help customers find clothes that fit when shopping online](https://techcrunch.com/2024/01/08/amazon-turns-to-ai-to-help-customers-find-clothes-that-fit-when-shopping-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
