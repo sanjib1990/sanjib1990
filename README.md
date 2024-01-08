@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Health in Her HUE closes $3 million seed round](https://techcrunch.com/2024/01/08/health-in-her-hue-closes-3-million-seed-round/)
-- [See the moon meet up with Mercury, Venus and Mars in the early morning sky on Jan. 9](https://www.space.com/moon-three-planets-three-nights-jan-2024)
-- [DHL delivering Everest rock, &#39;meme&#39; coin to the moon on Astrobotic lander](https://www.space.com/dhl-moonbox-everest-rock-dogecoin-mementos-astrobotic-moon)
-- [Floating &#39;magic islands&#39; on Saturn&#39;s moon Titan may be honeycomb-shaped snow](https://www.space.com/floating-magic-islands-saturn-moon-titan-swiss-cheese-snow)
-- [Astrobotic lander on its way to the moon with ULA’s historic flight](https://techcrunch.com/2024/01/08/astrobotic-lander-on-its-way-to-the-moon-with-ulas-historic-flight/)
+- [Bitcoin ETFs, Carta’s latest mess, and let’s go to the Moon](https://techcrunch.com/2024/01/08/bitcoin-etfs-cartas-latest-mess-and-lets-go-to-the-moon/)
+- [Turbulent 1st moments of a black hole&#39;s life captured in new simulations](https://www.space.com/black-hole-first-moments-simulation)
+- [EV sales remained strong in Q4. They could have been stronger](https://techcrunch.com/2024/01/08/q4-ev-sales-analysis/)
+- [RIP? Third-party podcast app Castro appears to be dead, company goes quiet](https://techcrunch.com/2024/01/08/castro-podcasts-app-dead-website-down/)
+- [How to partner with a venture investor who values technology innovators](https://techcrunch.com/2024/01/08/how-to-partner-with-a-venture-investor-who-values-technology-innovators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
