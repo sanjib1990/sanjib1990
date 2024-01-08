@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Health in Her HUE closes $3 million seed round](https://techcrunch.com/2024/01/08/health-in-her-hue-closes-3-million-seed-round/)
+- [See the moon meet up with Mercury, Venus and Mars in the early morning sky on Jan. 9](https://www.space.com/moon-three-planets-three-nights-jan-2024)
 - [DHL delivering Everest rock, &#39;meme&#39; coin to the moon on Astrobotic lander](https://www.space.com/dhl-moonbox-everest-rock-dogecoin-mementos-astrobotic-moon)
 - [Floating &#39;magic islands&#39; on Saturn&#39;s moon Titan may be honeycomb-shaped snow](https://www.space.com/floating-magic-islands-saturn-moon-titan-swiss-cheese-snow)
 - [Astrobotic lander on its way to the moon with ULA’s historic flight](https://techcrunch.com/2024/01/08/astrobotic-lander-on-its-way-to-the-moon-with-ulas-historic-flight/)
-- [ULA&#39;s 1st Vulcan Centaur rocket launch looks spectacular in these photos and videos](https://www.space.com/ula-vulcan-centaur-rocket-launch-debut-photos)
-- [Europe&#39;s Proba-3 mission will create an &#39;artificial eclipse&#39; to the study sun&#39;s corona](https://www.space.com/proba-3-europe-artificial-eclipse-launch-satellites-india-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
