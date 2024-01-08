@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrobotic lander on its way to the moon with ULA’s historic flight](https://techcrunch.com/2024/01/08/astrobotic-lander-on-its-way-to-the-moon-with-ulas-historic-flight/)
 - [ULA&#39;s 1st Vulcan Centaur rocket launch looks spectacular in these photos and videos](https://www.space.com/ula-vulcan-centaur-rocket-launch-debut-photos)
 - [Europe&#39;s Proba-3 mission will create an &#39;artificial eclipse&#39; to the study sun&#39;s corona](https://www.space.com/proba-3-europe-artificial-eclipse-launch-satellites-india-sun)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [YC-backed African fintech Cleva, founded by Stripe and AWS alums, raises $1.5M pre-seed](https://techcrunch.com/2024/01/08/yc-backed-african-fintech-cleva-founded-by-stripe-and-aws-alums-raises-1-5m-pre-seed/)
-- [ULA&#39;s Vulcan rocket launches private US moon lander, 1st since Apollo, and human remains in debut flight](https://www.space.com/ula-vulcan-centaur-first-launch-peregrine-celestis-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
