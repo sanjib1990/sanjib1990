@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ULA&#39;s Vulcan rocket launches private US moon lander, 1st since Apollo, and human remains in debut flight](https://www.space.com/ula-vulcan-centaur-first-launch-peregrine-celestis-moon-mission)
 - [Hey is feuding with Apple again — this time over a calendar app](https://techcrunch.com/2024/01/07/hey-is-feuding-with-apple-again-this-time-over-a-calendar-app/)
 - [SentinelOne acquires Peak XV-backed PingSafe for over $100 million](https://techcrunch.com/2024/01/07/sentinelone-acquires-peak-xv-backed-pingsafe-for-over-100-million/)
 - [Withings’ new multiscope device checks vitals for telehealth visits](https://techcrunch.com/2024/01/07/withings-new-multiscope-device-checks-vitals-for-telehealth-visits/)
 - [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/07/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
-- [CES 2024 or bust, Superpedestrian e-scooters hit the auction block and Fisker struggles to meet sales goals](https://techcrunch.com/2024/01/07/ces-2024-or-bust-superpedestrian-e-scooters-hit-the-auction-block-and-fisker-struggles-to-meet-sales-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
