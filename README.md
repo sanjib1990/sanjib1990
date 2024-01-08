@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As Twitter/X rivals explode, news aggregator SmartNews struggles to retain users](https://techcrunch.com/2024/01/08/as-twitter-x-rivals-explode-news-aggregator-smartnews-struggles-to-retain-users/)
-- [Volkswagen is bringing ChatGPT into its cars and SUVs](https://techcrunch.com/2024/01/08/volkswagen-is-bringing-chatgpt-into-its-cars-and-suvs/)
-- [An original App Store innovator, Clear relaunches its ‘swipeable’ to do list app with in-app perks](https://techcrunch.com/2024/01/08/an-original-app-store-innovator-clear-relaunches-its-swipeable-to-do-list-app-with-in-app-perks/)
-- [CES 2024: How to watch live as Sony, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/08/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
-- [Private Peregrine moon lander suffers &#39;critical&#39; fuel loss after launch, mission at risk](https://www.space.com/astrobotic-peregrine-moon-lander-propulsion-failure)
+- [1st photo from crippled private Peregrine moon lander holds clue to anomaly](https://www.space.com/astrobotic-peregrine-moon-lander-first-photo-anomaly-clue)
+- [Satellites reveal 75% of world&#39;s industrial fishing vessels are &#39;hidden&#39;](https://www.space.com/satellites-industrial-fishing-vessels-hidden)
+- [Another proptech startup crashes and burns, citing ‘current interest rate environment’](https://techcrunch.com/2024/01/08/another-proptech-startup-crashes-and-burns-citing-current-interest-rate-environment/)
+- [Astrobotic’s Peregrine lander suffers propulsion issue, making moon landing unlikely](https://techcrunch.com/2024/01/08/astrobotics-peregrine-lander-suffers-propulsion-issue-making-moon-landing-unlikely/)
+- [YouTube cracks down on AI content that ‘realistically simulates’ deceased children or victims of crimes](https://techcrunch.com/2024/01/08/youtube-cracks-down-ai-generated-content-realistically-simulates-deceased-children-or-victims-of-crimes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
