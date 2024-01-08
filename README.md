@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [This is How Your WiFi Gets Hacked](https://www.youtube.com/watch?v=dZwbb42pdtg)
+- [3 Levels of WiFi Hacking](https://www.youtube.com/watch?v=dZwbb42pdtg)
 - [the ChatGPT store is about to launch… let’s get rich](https://www.youtube.com/watch?v=9T_wv6D8PYo)
 - [Pascal in 100 Seconds](https://www.youtube.com/watch?v=K9mzg8ueiYA)
 - [I keep seeing &quot;Boson&quot; everywhere](https://www.youtube.com/watch?v=1hjYhafdqcY)
