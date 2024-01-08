@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SentinelOne acquires Peak XV-backed PingSafe for over $100 million](https://techcrunch.com/2024/01/07/sentinelone-acquires-peak-xv-backed-pingsafe-for-over-100-million/)
 - [Withings’ new multiscope device checks vitals for telehealth visits](https://techcrunch.com/2024/01/07/withings-new-multiscope-device-checks-vitals-for-telehealth-visits/)
 - [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/07/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
 - [CES 2024 or bust, Superpedestrian e-scooters hit the auction block and Fisker struggles to meet sales goals](https://techcrunch.com/2024/01/07/ces-2024-or-bust-superpedestrian-e-scooters-hit-the-auction-block-and-fisker-struggles-to-meet-sales-goals/)
 - [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/01/07/what-is-google-gemini-ai/)
-- [Carta, the cap table management outfit, is accused of unethical tactics by a prominent startup](https://techcrunch.com/2024/01/07/carta-the-cap-table-management-outfit-is-accused-of-unethical-tactics-by-a-customer-after-it-tries-broker-a-deal-for-a-startups-shares-without-consent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
