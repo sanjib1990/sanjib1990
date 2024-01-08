@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo will start testing robotaxis on Phoenix highways](https://techcrunch.com/2024/01/08/waymo-driverless-avs-phoenix-az-test/)
-- [Volkswagen is bringing ChatGPT into its cars and SUVs](https://techcrunch.com/2024/01/08/volkswagen-is-bringing-chatgpt-into-its-cars-and-suvs/)
-- [Amazon’s new initiative aims to help people discover digital health benefits to manage chronic conditions](https://techcrunch.com/2024/01/08/amazons-new-initiative-aims-help-people-discover-digital-health-benefits-manage-chronic-conditions/)
-- [Will Apple’s Vision Pro launch be a Groundhog Day for immersive computing?](https://techcrunch.com/2024/01/08/will-apples-vision-pro-launch-be-a-groundhog-day-for-immersive-computing/)
-- [Amazon turns to AI to help customers find clothes that fit when shopping online](https://techcrunch.com/2024/01/08/amazon-turns-to-ai-to-help-customers-find-clothes-that-fit-when-shopping-online/)
+- [CES brings us another wave of overpriced ‘smart’ cookware](https://techcrunch.com/2024/01/08/smart-cookware/)
+- [How to easily add music to Instagram posts](https://techcrunch.com/2024/01/08/how-to-easily-add-music-to-instagram-posts/)
+- [Bosch thinks in-car eye-tracking can be used for more than safety](https://techcrunch.com/2024/01/08/ces-2024-bosch-eye-tracking-espresso-poi/)
+- [Despite free access to GPT-4, Microsoft’s Copilot app hasn’t impacted ChatGPT installs or revenue](https://techcrunch.com/2024/01/08/despite-free-access-to-gpt-4-microsofts-copilot-app-hasnt-impacted-chatgpt-installs-or-revenue/)
+- [German startup Pitch switches CEO and lays off two-thirds of its workforce](https://techcrunch.com/2024/01/08/pitch-christian-reber-venture-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
