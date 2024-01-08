@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [1st photo from crippled private Peregrine moon lander holds clue to anomaly](https://www.space.com/astrobotic-peregrine-moon-lander-first-photo-anomaly-clue)
-- [Satellites reveal 75% of world&#39;s industrial fishing vessels are &#39;hidden&#39;](https://www.space.com/satellites-industrial-fishing-vessels-hidden)
-- [Another proptech startup crashes and burns, citing ‘current interest rate environment’](https://techcrunch.com/2024/01/08/another-proptech-startup-crashes-and-burns-citing-current-interest-rate-environment/)
-- [Astrobotic’s Peregrine lander suffers propulsion issue, making moon landing unlikely](https://techcrunch.com/2024/01/08/astrobotics-peregrine-lander-suffers-propulsion-issue-making-moon-landing-unlikely/)
-- [YouTube cracks down on AI content that ‘realistically simulates’ deceased children or victims of crimes](https://techcrunch.com/2024/01/08/youtube-cracks-down-ai-generated-content-realistically-simulates-deceased-children-or-victims-of-crimes/)
+- [Kia reveals new commercial EV van lineup at CES 2024](https://techcrunch.com/2024/01/08/ces-2024-kia-ev-van-lineup/)
+- [United Launch Alliance and Astrobotic launches, Countdown Capital shutdown](https://techcrunch.com/2024/01/08/united-launch-alliance-and-astrobotic-launches-countdown-capital-shutdown/)
+- [Regulatory filing reveals ABL Space Systems targeting $100M in new funding](https://techcrunch.com/2024/01/08/regulatory-filing-reveals-abl-space-systems-targeting-100m-in-new-funding/)
+- [CES 2024: Everything revealed so far, from Nvidia and AI to Samsung to foldable screens](https://techcrunch.com/2024/01/08/ces-2024-everything-you-need-to-know/)
+- [Samsung renews its green cred at CES](https://techcrunch.com/2024/01/08/new-year-greener-samsung/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
