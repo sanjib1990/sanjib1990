@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [YC-backed African fintech Cleva, founded by Stripe and AWS alums, raises $1.5M pre-seed](https://techcrunch.com/2024/01/08/yc-backed-african-fintech-cleva-founded-by-stripe-and-aws-alums-raises-1-5m-pre-seed/)
 - [ULA&#39;s Vulcan rocket launches private US moon lander, 1st since Apollo, and human remains in debut flight](https://www.space.com/ula-vulcan-centaur-first-launch-peregrine-celestis-moon-mission)
 - [Hey is feuding with Apple again — this time over a calendar app](https://techcrunch.com/2024/01/07/hey-is-feuding-with-apple-again-this-time-over-a-calendar-app/)
 - [SentinelOne acquires Peak XV-backed PingSafe for over $100 million](https://techcrunch.com/2024/01/07/sentinelone-acquires-peak-xv-backed-pingsafe-for-over-100-million/)
-- [Withings’ new multiscope device checks vitals for telehealth visits](https://techcrunch.com/2024/01/07/withings-new-multiscope-device-checks-vitals-for-telehealth-visits/)
-- [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/07/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
