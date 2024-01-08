@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LoanDepot hit by suspected ransomware attack](https://techcrunch.com/2024/01/08/loandepot-outage-suspected-ransomware-attack/)
+- [Private Peregrine lander launches to the moon: What science could it do?](https://www.space.com/peregrine-moon-lander-science-experiments)
+- [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/08/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
+- [CES 2024: Everything revealed so far, from NVIDIA and AI to Samsung to foldable screens](https://techcrunch.com/2024/01/08/ces-2024-everything-you-need-to-know/)
 - [CES brings us another wave of overpriced ‘smart’ cookware](https://techcrunch.com/2024/01/08/smart-cookware/)
-- [How to easily add music to Instagram posts](https://techcrunch.com/2024/01/08/how-to-easily-add-music-to-instagram-posts/)
-- [Bosch thinks in-car eye-tracking can be used for more than safety](https://techcrunch.com/2024/01/08/ces-2024-bosch-eye-tracking-espresso-poi/)
-- [Despite free access to GPT-4, Microsoft’s Copilot app hasn’t impacted ChatGPT installs or revenue](https://techcrunch.com/2024/01/08/despite-free-access-to-gpt-4-microsofts-copilot-app-hasnt-impacted-chatgpt-installs-or-revenue/)
-- [German startup Pitch switches CEO and lays off two-thirds of its workforce](https://techcrunch.com/2024/01/08/pitch-christian-reber-venture-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
