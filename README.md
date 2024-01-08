@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/07/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
 - [CES 2024 or bust, Superpedestrian e-scooters hit the auction block and Fisker struggles to meet sales goals](https://techcrunch.com/2024/01/07/ces-2024-or-bust-superpedestrian-e-scooters-hit-the-auction-block-and-fisker-struggles-to-meet-sales-goals/)
 - [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/01/07/what-is-google-gemini-ai/)
 - [Carta, the cap table management outfit, is accused of unethical tactics by a prominent startup](https://techcrunch.com/2024/01/07/carta-the-cap-table-management-outfit-is-accused-of-unethical-tactics-by-a-customer-after-it-tries-broker-a-deal-for-a-startups-shares-without-consent/)
 - [Isomorphic inks deals with Eli Lilly and Novartis for drug discovery](https://techcrunch.com/2024/01/07/isomorphic-inks-deals-with-eli-lilly-and-novartis-for-drug-discovery/)
-- [CES 2024: Samsung’s bigger, foldier, more rollable displays](https://techcrunch.com/2024/01/07/ces-2024-samsungs-bigger-foldier-more-rollable-displays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
