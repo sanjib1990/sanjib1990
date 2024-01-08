@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LoanDepot hit by suspected ransomware attack](https://techcrunch.com/2024/01/08/loandepot-outage-suspected-ransomware-attack/)
-- [Private Peregrine lander launches to the moon: What science could it do?](https://www.space.com/peregrine-moon-lander-science-experiments)
-- [CES 2024: How to watch as Nvidia, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/08/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
-- [CES 2024: Everything revealed so far, from NVIDIA and AI to Samsung to foldable screens](https://techcrunch.com/2024/01/08/ces-2024-everything-you-need-to-know/)
-- [CES brings us another wave of overpriced ‘smart’ cookware](https://techcrunch.com/2024/01/08/smart-cookware/)
+- [What does space smell like?](https://www.space.com/what-does-space-smell-like)
+- [Gen AI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
+- [OpenAI claims NY Times copyright lawsuit is without merit](https://techcrunch.com/2024/01/08/openai-claims-ny-times-copyright-lawsuit-is-without-merit/)
+- [Jeff Lawson’s legacy at Twilio is about more than a few rough quarters](https://techcrunch.com/2024/01/08/jeff-lawsons-legacy-at-twilio-is-about-more-than-a-few-rough-quarters/)
+- [Timekettle’s $699 translation hardware handles multiple languages at once](https://techcrunch.com/2024/01/08/timekettles-699-translation-hardware-handles-multiple-languages-at-once/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
