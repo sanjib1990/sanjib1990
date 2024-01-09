@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kia reveals new commercial EV van lineup at CES 2024](https://techcrunch.com/2024/01/08/ces-2024-kia-ev-van-lineup/)
+- [Samsung’s new smart home features include household maps with ‘AI characters’](https://techcrunch.com/2024/01/08/samsungs-new-smart-home-features-include-household-maps-with-ai-characters/)
+- [Kia reveals new commercial EV lineup at CES 2024](https://techcrunch.com/2024/01/08/ces-2024-kia-ev-van-lineup/)
 - [United Launch Alliance and Astrobotic launches, Countdown Capital shutdown](https://techcrunch.com/2024/01/08/united-launch-alliance-and-astrobotic-launches-countdown-capital-shutdown/)
 - [Regulatory filing reveals ABL Space Systems targeting $100M in new funding](https://techcrunch.com/2024/01/08/regulatory-filing-reveals-abl-space-systems-targeting-100m-in-new-funding/)
-- [CES 2024: Everything revealed so far, from Nvidia and AI to Samsung to foldable screens](https://techcrunch.com/2024/01/08/ces-2024-everything-you-need-to-know/)
-- [Samsung renews its green cred at CES](https://techcrunch.com/2024/01/08/new-year-greener-samsung/)
+- [CES 2024: Everything revealed so far, from Nvidia and AI to Samsung’s Ballie robot](https://techcrunch.com/2024/01/08/ces-2024-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
