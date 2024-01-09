@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CES 2024: Everything revealed so far, from Nvidia to rabbit’s pocket AI to Kodiak’s autonomous semi truck](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
+- [Sources: PhotoRoom, the AI photo editing app, is raising $50M-$60M at a $500M-$600M valuation](https://techcrunch.com/2024/01/09/sources-photoroom-the-ai-photo-editing-app-is-raising-50m-60m-at-a-500m-600m-valuation/)
 - [Walmart debuts generative AI search and AI replenishment features at CES](https://techcrunch.com/2024/01/09/walmart-debuts-generative-ai-search-and-ai-replenishment-features-at-ces/)
 - [OneCourt’s haptic mini-field lets blind fans follow the game by touch](https://techcrunch.com/2024/01/09/onecourts-haptic-mini-field-lets-blind-fans-follow-the-game-by-touch/)
 - [Fidelity National Financial says hackers stole data on 1.3 million customers](https://techcrunch.com/2024/01/09/fidelity-national-financial-data-breach/)
-- [&#39;Star Wars&#39; returns to theaters in 2025 with &#39;The Mandalorian &amp; Grogu&#39;](https://www.space.com/star-wars-the-mandalorian-and-grogu-film-2025)
-- [SEC’s X account hacked, sharing ‘unauthorized tweet’ regarding spot bitcoin ETF](https://techcrunch.com/2024/01/09/sec-account-hacked-sharing-unauthorized-tweet-regarding-bitcoin-spot-etf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
