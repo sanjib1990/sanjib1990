@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conta Simples grabs another $41.5M for its expense management approach in Brazil](https://techcrunch.com/2024/01/09/conta-simples-41-5m-expense-management-brazil/)
+- [The Burro Grande finds the agtech robotics firm going big](https://techcrunch.com/2024/01/09/the-burro-grande-finds-the-ag-tech-robotics-firm-going-big/)
 - [GiGi, Axiom&#39;s spacesuit-clad Build-A-Bear zero-g indicator, returning to orbit on Ax-3](https://www.space.com/build-a-bear-gigi-axiom-space-ax3-zero-g-indicator)
 - [Deco.cx grabs $2.2M to bring simplicity back to brand website creation](https://techcrunch.com/2024/01/09/deco-cx-2-2m-brand-website-e-commerce/)
 - [BofA gives Ambani’s Jio Platforms a $100 billion-plus valuation](https://techcrunch.com/2024/01/09/bofa-gives-ambanis-jio-platforms-a-100-billion-plus-valuation/)
-- [Anecdotes lands $25M to expand its governance, risk management and compliance business](https://techcrunch.com/2024/01/09/anecdotes-lands-25m-to-expand-its-governance-risk-management-and-compliance-business/)
-- [Threads accidentally rolls out the feature to view latest search results](https://techcrunch.com/2024/01/08/threads-accidentally-rolls-out-the-feature-to-view-latest-search-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
