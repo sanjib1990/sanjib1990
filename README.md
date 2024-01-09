@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Got an UTI? Vivoo brings the answer to that question closer to home](https://techcrunch.com/2024/01/09/vivoo-uti-testing/)
-- [Mayo on a mission: Sir Kensington&#39;s aims to bring taste to space with its condiments](https://www.space.com/sir-kensingtons-bring-taste-to-space-mayonnaise)
-- [Serenity takes a full-home radar approach to fall detection](https://techcrunch.com/2024/01/09/cherish-health-serenity/)
-- [Want to build a startup off OpenAI? Start here](https://techcrunch.com/2024/01/09/how-to-build-a-startup-off-openai/)
-- [This startup bets that looking like Bane is the future of gaming](https://techcrunch.com/2024/01/09/skyted-voice/)
+- [Google Maps will now give EV drivers real-time battery range info, starting with Ford](https://techcrunch.com/2024/01/09/google-maps-will-now-give-ev-drivers-real-time-battery-range-info-starting-with-ford/)
+- [Astronomers solve mystery of &#39;Green Monster&#39; in famous supernova remnant &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-green-monster-supernova-remnant)
+- [Google and Samsung are merging Nearby Share and Quick Share into a singular cross-Android solution](https://techcrunch.com/2024/01/09/google-and-samsung-are-merging-nearby-share-and-quick-share-into-a-single-sharing-solution/)
+- [Leap AI wants to help businesses build and integrate AI workflows](https://techcrunch.com/2024/01/09/leap-ai-wants-to-help-businesses-build-and-integrate-ai-workflows/)
+- [What Babbel co-founder has learned over 20 years in the language learning industry](https://techcrunch.com/2024/01/09/what-babbel-co-founder-has-learned-over-20-years-in-the-language-learning-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
