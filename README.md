@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BofA gives Ambani’s Jio Platforms a $100 billion-plus valuation](https://techcrunch.com/2024/01/09/bofa-gives-ambanis-jio-platforms-a-100-billion-plus-valuation/)
 - [Anecdotes lands $25M to expand its governance, risk management and compliance business](https://techcrunch.com/2024/01/09/anecdotes-lands-25m-to-expand-its-governance-risk-management-and-compliance-business/)
 - [Threads accidentally rolls out the feature to view latest search results](https://techcrunch.com/2024/01/08/threads-accidentally-rolls-out-the-feature-to-view-latest-search-results/)
 - [Carta exits secondary trading following credibility hit](https://techcrunch.com/2024/01/08/after-taking-credibility-hit-carta-announces-it-is-exiting-the-secondaries-business-we-have-decided-to-prioritize-trust/)
 - [Pivotal kicks off US sales of its lightweight electric personal Helix aircraft](https://techcrunch.com/2024/01/08/pivotal-kicks-off-u-s-sales-of-its-lightweight-electric-personal-aircraft/)
-- [Will.i.am’s new startup Sound Drive wants you to reboot the music industry in your car](https://techcrunch.com/2024/01/08/will-i-ams-new-startup-sound-drive-wants-you-to-reboot-the-music-industry-in-your-car/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
