@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Maps will now give EV drivers real-time battery range info, starting with Ford](https://techcrunch.com/2024/01/09/google-maps-will-now-give-ev-drivers-real-time-battery-range-info-starting-with-ford/)
-- [Astronomers solve mystery of &#39;Green Monster&#39; in famous supernova remnant &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-green-monster-supernova-remnant)
-- [Google and Samsung are merging Nearby Share and Quick Share into a singular cross-Android solution](https://techcrunch.com/2024/01/09/google-and-samsung-are-merging-nearby-share-and-quick-share-into-a-single-sharing-solution/)
-- [Leap AI wants to help businesses build and integrate AI workflows](https://techcrunch.com/2024/01/09/leap-ai-wants-to-help-businesses-build-and-integrate-ai-workflows/)
-- [What Babbel co-founder has learned over 20 years in the language learning industry](https://techcrunch.com/2024/01/09/what-babbel-co-founder-has-learned-over-20-years-in-the-language-learning-industry/)
+- [How to find the right venture investor](https://techcrunch.com/2024/01/09/how-to-find-the-right-venture-investor/)
+- [Honda bets its electric future on ‘thin, light’ 0 series EVs at CES 2024](https://techcrunch.com/2024/01/09/honda-bets-its-electric-future-on-thin-light-0-series-evs-at-ces-2024/)
+- [Can a striking design set rabbit’s r1 pocket AI apart from a gaggle of virtual assistants?](https://techcrunch.com/2024/01/09/can-a-striking-design-set-rabbits-r1-pocket-ai-apart-from-a-gaggle-of-virtual-assistants/)
+- [AI aides nation-state hackers but also helps US spies to find them, says NSA cyber director](https://techcrunch.com/2024/01/09/ai-china-nation-state-hackers-nsa-cyber-director/)
+- [FTC bans X-Mode from selling phone location data, and orders firm to delete collected data](https://techcrunch.com/2024/01/09/ftc-x-mode-ban-delete-location-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
