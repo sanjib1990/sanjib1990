@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Parallel gets new funding for its teletherapy platform for kids with special needs](https://techcrunch.com/2024/01/09/parallel-gets-new-funding-for-its-teletherapy-platform-for-kids-with-special-needs/)
+- [JAXA, NASA reveal 1st images from XRISM X-ray space telescope](https://www.space.com/japan-nasa-xrism-x-ray-telescope-first-images)
 - [The age of the private moon mission has begun](https://www.space.com/moon-age-of-private-missions-has-begun)
-- [Smart ring maker Ultrahuman announces tracker for home ‘health’](https://techcrunch.com/2024/01/09/ultrahuman-home/)
-- [AppDirect raises $100M to expand its financing program for tech businesses](https://techcrunch.com/2024/01/09/appdirect-raises-100m-to-expand-its-financing-program-for-tech-businesses/)
-- [Unity to lay off another 1,800 employees, representing 25% of its workforce](https://techcrunch.com/2024/01/09/unity-to-lay-off-another-1800-employees-representing-25-of-its-workforce/)
+- [Neutron stars could be the ultimate dark matter detectors](https://www.space.com/dark-matter-detector-neutron-stars)
+- [NASA funds Venus sample-return, interstellar probes and other far-out space tech](https://www.space.com/nasa-niac-funding-2024-venus-sample-return)
+- [GiGi, Axiom&#39;s spacesuit-clad Build-A-Bear zero-g indicator, returning to orbit on Ax-3](https://www.space.com/build-a-bear-gigi-axiom-space-ax3-zero-g-indicator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
