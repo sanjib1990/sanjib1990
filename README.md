@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anecdotes lands $25M to expand its governance, risk management and compliance business](https://techcrunch.com/2024/01/09/anecdotes-lands-25m-to-expand-its-governance-risk-management-and-compliance-business/)
+- [Threads accidentally rolls out the feature to view latest search results](https://techcrunch.com/2024/01/08/threads-accidentally-rolls-out-the-feature-to-view-latest-search-results/)
 - [Carta exits secondary trading following credibility hit](https://techcrunch.com/2024/01/08/after-taking-credibility-hit-carta-announces-it-is-exiting-the-secondaries-business-we-have-decided-to-prioritize-trust/)
 - [Pivotal kicks off US sales of its lightweight electric personal Helix aircraft](https://techcrunch.com/2024/01/08/pivotal-kicks-off-u-s-sales-of-its-lightweight-electric-personal-aircraft/)
 - [Will.i.am’s new startup Sound Drive wants you to reboot the music industry in your car](https://techcrunch.com/2024/01/08/will-i-ams-new-startup-sound-drive-wants-you-to-reboot-the-music-industry-in-your-car/)
-- [CES 2024: How to watch live as Sony, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/08/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
-- [Sony’s new ‘digital birth certificate’ for imaging tech smells a lot like NFTs](https://techcrunch.com/2024/01/08/sony-digital-birth-certificate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
