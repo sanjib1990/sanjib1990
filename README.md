@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This OS doesn&#39;t care if you get hacked...](https://www.youtube.com/watch?v=_-6grju3KQU)
 - [3 Levels of WiFi Hacking](https://www.youtube.com/watch?v=dZwbb42pdtg)
 - [the ChatGPT store is about to launch… let’s get rich](https://www.youtube.com/watch?v=9T_wv6D8PYo)
 - [Pascal in 100 Seconds](https://www.youtube.com/watch?v=K9mzg8ueiYA)
 - [I keep seeing &quot;Boson&quot; everywhere](https://www.youtube.com/watch?v=1hjYhafdqcY)
-- [Machine Code Explained - Computerphile](https://www.youtube.com/watch?v=8VsiYWW9r48)
 <!-- YOUTUBE:END -->
 
 ---
