@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to find the right venture investor](https://techcrunch.com/2024/01/09/how-to-find-the-right-venture-investor/)
-- [Honda bets its electric future on ‘thin, light’ 0 series EVs at CES 2024](https://techcrunch.com/2024/01/09/honda-bets-its-electric-future-on-thin-light-0-series-evs-at-ces-2024/)
-- [Can a striking design set rabbit’s r1 pocket AI apart from a gaggle of virtual assistants?](https://techcrunch.com/2024/01/09/can-a-striking-design-set-rabbits-r1-pocket-ai-apart-from-a-gaggle-of-virtual-assistants/)
-- [AI aides nation-state hackers but also helps US spies to find them, says NSA cyber director](https://techcrunch.com/2024/01/09/ai-china-nation-state-hackers-nsa-cyber-director/)
-- [FTC bans X-Mode from selling phone location data, and orders firm to delete collected data](https://techcrunch.com/2024/01/09/ftc-x-mode-ban-delete-location-data/)
+- [Alphabet quantum spin-out Sandbox AQ acquires Good Chemistry](https://techcrunch.com/2024/01/09/alphabet-quantum-spin-out-sandbox-aq-acquires-good-chemistry/)
+- [Valkyrie co-founder expects $10B inflows for spot bitcoin ETFs by end of year](https://techcrunch.com/2024/01/09/10b-inflows-spot-bitcoin-etf/)
+- [Astronauts won&#39;t walk on the moon until 2026 after NASA delays next 2 Artemis missions](https://www.space.com/nasa-artemis-2-moon-mission-delay-september-2025)
+- [EV startup VinFast adds an electric pickup truck to the long list of things it hopes to build](https://techcrunch.com/2024/01/09/ces-2024-vinfast-vf-wild-truck-vf3/)
+- [CES 2024: Everything revealed so far, from Nvidia to rabbit’s pocket AI to Kodiak’s autonomous semi truck](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
