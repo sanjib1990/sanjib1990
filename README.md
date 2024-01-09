@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conta Simples grabs another $41.5M for its expense management approach in Brazil](https://techcrunch.com/2024/01/09/conta-simples-41-5m-expense-management-brazil/)
-- [The Burro Grande finds the agtech robotics firm going big](https://techcrunch.com/2024/01/09/the-burro-grande-finds-the-ag-tech-robotics-firm-going-big/)
-- [GiGi, Axiom&#39;s spacesuit-clad Build-A-Bear zero-g indicator, returning to orbit on Ax-3](https://www.space.com/build-a-bear-gigi-axiom-space-ax3-zero-g-indicator)
-- [Deco.cx grabs $2.2M to bring simplicity back to brand website creation](https://techcrunch.com/2024/01/09/deco-cx-2-2m-brand-website-e-commerce/)
-- [BofA gives Ambani’s Jio Platforms a $100 billion-plus valuation](https://techcrunch.com/2024/01/09/bofa-gives-ambanis-jio-platforms-a-100-billion-plus-valuation/)
+- [Parallel gets new funding for its teletherapy platform for kids with special needs](https://techcrunch.com/2024/01/09/parallel-gets-new-funding-for-its-teletherapy-platform-for-kids-with-special-needs/)
+- [The age of the private moon mission has begun](https://www.space.com/moon-age-of-private-missions-has-begun)
+- [Smart ring maker Ultrahuman announces tracker for home ‘health’](https://techcrunch.com/2024/01/09/ultrahuman-home/)
+- [AppDirect raises $100M to expand its financing program for tech businesses](https://techcrunch.com/2024/01/09/appdirect-raises-100m-to-expand-its-financing-program-for-tech-businesses/)
+- [Unity to lay off another 1,800 employees, representing 25% of its workforce](https://techcrunch.com/2024/01/09/unity-to-lay-off-another-1800-employees-representing-25-of-its-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
