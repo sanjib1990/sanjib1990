@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will.i.am’s new startup Sound Drive wants you to reboot the music industry in your car](https://techcrunch.com/2024/01/08/will-i-ams-new-startup-sound-drive-wants-you-to-reboot-the-music-industry-in-your-car/)
+- [CES 2024: How to watch live as Sony, Samsung and more reveal hardware, AI updates](https://techcrunch.com/2024/01/08/ces-2024-how-to-watch-as-nvidia-samsung-and-more-reveal-hardware-ai-updates/)
 - [Sony’s new ‘digital birth certificate’ for imaging tech smells a lot like NFTs](https://techcrunch.com/2024/01/08/sony-digital-birth-certificate/)
 - [Samsung’s new smart home features include household maps with ‘AI characters’](https://techcrunch.com/2024/01/08/samsungs-new-smart-home-features-include-household-maps-with-ai-characters/)
 - [Kia reveals new commercial EV lineup at CES 2024](https://techcrunch.com/2024/01/08/ces-2024-kia-ev-van-lineup/)
-- [United Launch Alliance and Astrobotic launches, Countdown Capital shutdown](https://techcrunch.com/2024/01/08/united-launch-alliance-and-astrobotic-launches-countdown-capital-shutdown/)
-- [Regulatory filing reveals ABL Space Systems targeting $100M in new funding](https://techcrunch.com/2024/01/08/regulatory-filing-reveals-abl-space-systems-targeting-100m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
