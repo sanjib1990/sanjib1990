@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s Alexa gets new generative AI-powered experiences](https://techcrunch.com/2024/01/09/amazons-alexa-gets-new-generative-ai-powered-experiences/)
-- [The ElliQ eldercare robot gets a hardware upgrade, generative AI for improved conversations](https://techcrunch.com/2024/01/09/elliq-ces/)
-- [SpaceX to launch 22 Starlink satellites from California early Jan. 10](https://www.space.com/spacex-starlink-launch-group-7-10)
-- [Microsoft puts Azure Quantum Elements to work](https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/)
-- [CES 2024: Everything revealed so far, from Nvidia and AI to Samsung’s Ballie robot](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
+- [Got an UTI? Vivoo brings the answer to that question closer to home](https://techcrunch.com/2024/01/09/vivoo-uti-testing/)
+- [Mayo on a mission: Sir Kensington&#39;s aims to bring taste to space with its condiments](https://www.space.com/sir-kensingtons-bring-taste-to-space-mayonnaise)
+- [Serenity takes a full-home radar approach to fall detection](https://techcrunch.com/2024/01/09/cherish-health-serenity/)
+- [Want to build a startup off OpenAI? Start here](https://techcrunch.com/2024/01/09/how-to-build-a-startup-off-openai/)
+- [This startup bets that looking like Bane is the future of gaming](https://techcrunch.com/2024/01/09/skyted-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
