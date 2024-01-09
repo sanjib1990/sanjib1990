@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JAXA, NASA reveal 1st images from XRISM X-ray space telescope](https://www.space.com/japan-nasa-xrism-x-ray-telescope-first-images)
-- [The age of the private moon mission has begun](https://www.space.com/moon-age-of-private-missions-has-begun)
-- [Neutron stars could be the ultimate dark matter detectors](https://www.space.com/dark-matter-detector-neutron-stars)
-- [NASA funds Venus sample-return, interstellar probes and other far-out space tech](https://www.space.com/nasa-niac-funding-2024-venus-sample-return)
-- [GiGi, Axiom&#39;s spacesuit-clad Build-A-Bear zero-g indicator, returning to orbit on Ax-3](https://www.space.com/build-a-bear-gigi-axiom-space-ax3-zero-g-indicator)
+- [Amazon’s Alexa gets new generative AI-powered experiences](https://techcrunch.com/2024/01/09/amazons-alexa-gets-new-generative-ai-powered-experiences/)
+- [The ElliQ eldercare robot gets a hardware upgrade, generative AI for improved conversations](https://techcrunch.com/2024/01/09/elliq-ces/)
+- [SpaceX to launch 22 Starlink satellites from California early Jan. 10](https://www.space.com/spacex-starlink-launch-group-7-10)
+- [Microsoft puts Azure Quantum Elements to work](https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/)
+- [CES 2024: Everything revealed so far, from Nvidia and AI to Samsung’s Ballie robot](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
