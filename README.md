@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GiGi, Axiom&#39;s spacesuit-clad Build-A-Bear zero-g indicator, returning to orbit on Ax-3](https://www.space.com/build-a-bear-gigi-axiom-space-ax3-zero-g-indicator)
+- [Deco.cx grabs $2.2M to bring simplicity back to brand website creation](https://techcrunch.com/2024/01/09/deco-cx-2-2m-brand-website-e-commerce/)
 - [BofA gives Ambani’s Jio Platforms a $100 billion-plus valuation](https://techcrunch.com/2024/01/09/bofa-gives-ambanis-jio-platforms-a-100-billion-plus-valuation/)
 - [Anecdotes lands $25M to expand its governance, risk management and compliance business](https://techcrunch.com/2024/01/09/anecdotes-lands-25m-to-expand-its-governance-risk-management-and-compliance-business/)
 - [Threads accidentally rolls out the feature to view latest search results](https://techcrunch.com/2024/01/08/threads-accidentally-rolls-out-the-feature-to-view-latest-search-results/)
-- [Carta exits secondary trading following credibility hit](https://techcrunch.com/2024/01/08/after-taking-credibility-hit-carta-announces-it-is-exiting-the-secondaries-business-we-have-decided-to-prioritize-trust/)
-- [Pivotal kicks off US sales of its lightweight electric personal Helix aircraft](https://techcrunch.com/2024/01/08/pivotal-kicks-off-u-s-sales-of-its-lightweight-electric-personal-aircraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
