@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CES 2024: The weirdest tech, gadgets and AI claims from Las Vegas](https://techcrunch.com/2024/01/10/ces-2024-the-weirdest-tech-gadgets-and-ai-claims-from-in-las-vegas/)
+- [My Memo adds some pill-zazz to automatic medicine dispensers](https://techcrunch.com/2024/01/10/my-memo-pill-dispenser/)
 - [UAE to provide airlock for NASA&#39;s moon-orbiting Gateway space station](https://www.space.com/uae-airlock-nasa-gateway-moon-station-artemis)
 - [Hubble Telescope finds surprising source of brightest fast radio burst ever](https://www.space.com/hubble-telescope-finds-source-brightest-fast-radio-burst)
-- [Grayscale CEO sees spot bitcoin ETF as first step towards ‘normalizing’ crypto](https://techcrunch.com/2024/01/10/grayscale-ceo-spot-bitcoin-etf/)
-- [SpaceX targeting February for Starship&#39;s 3rd flight test](https://www.space.com/spacex-starship-third-test-flight-february-2024)
-- [Smart molluscs – yes, smart molluscs – could watch our waterways 24/7 for pollution](https://techcrunch.com/2024/01/10/molluscan-smart-molluscs-water-pollution/)
+- [Grayscale CEO sees spot bitcoin ETF as first step toward ‘normalizing’ crypto](https://techcrunch.com/2024/01/10/grayscale-ceo-spot-bitcoin-etf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
