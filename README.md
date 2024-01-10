@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas-based care provider HMG Healthcare says hackers stole unencrypted patient data](https://techcrunch.com/2024/01/10/hmg-healthcare-unencrypted-patient-data-breach/)
-- [Amazon Prime Video and MGM Studios laid off hundreds of employees](https://techcrunch.com/2024/01/10/amazon-prime-video-and-mgm-studios-laid-off-hundreds-of-employees/)
-- [Remastered &#39;Space-Mullet&#39; webcomic collection coming this summer](https://www.space.com/space-mullet-webcomic-coming-summer-2024)
-- [The IPO window is reopening — here’s what startups need to know](https://techcrunch.com/2024/01/10/the-ipo-window-is-reopening-heres-what-startups-need-to-know/)
-- [AI hardware, fintech woes and venture capital’s shedding phase](https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/)
+- [Mystery solved! 1st close-up images of giant star explain its bizarre dimming](https://www.space.com/star-dimming-brightening-rw-cephei-chara-array)
+- [OpenAI debuts ChatGPT subscription aimed at small teams](https://techcrunch.com/2024/01/10/openai-launches-chatgpt-subscription-aimed-at-small-teams/)
+- [OpenAI launches a store for custom AI-powered chatbots](https://techcrunch.com/2024/01/10/openai-launches-a-store-for-custom-ai-powered-chatbots/)
+- [Why you don&#39;t need to get to the centerline for April&#39;s total solar eclipse — and what will happen at the edge](https://www.space.com/april-2024-total-solar-eclipse-why-to-avoid-the-centerline-of-totality)
+- [Quora’s AI platform could likely come to dictate the company’s future](https://techcrunch.com/2024/01/10/quora-ai-poe-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
