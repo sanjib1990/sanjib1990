@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto apps Binance, Kraken, KuCoin disappear from Apple’s App Store in India](https://techcrunch.com/2024/01/09/apple-crypto-apps-binance-india/)
 - [Keith Rabois dishes on his  surprising return to Khosla Ventures, after leaving the firm in 2019 for Founders Fund](https://techcrunch.com/2024/01/09/keith-rabois-dishes-on-his-surprising-return-to-khosla-ventures-after-leaving-the-firm-in-2019-for-founders-fund/)
 - [What happens to Carta now?](https://techcrunch.com/2024/01/09/what-happens-to-carta-now/)
 - [CES 2024: Everything revealed so far, from Nvidia to rabbit’s pocket AI to Kodiak’s autonomous semi truck](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
 - [Twitch is laying off another 500 employees](https://techcrunch.com/2024/01/09/twitch-layoff-500-employees/)
-- [Treasure Financial lays off staff just months after reporting ‘explosive growth’](https://techcrunch.com/2024/01/09/treasure-financial-lays-off-staff-just-months-after-reporting-explosive-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
