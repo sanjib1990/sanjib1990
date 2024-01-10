@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch self-eating rocket prototype engine consume itself then explode &lpar;video&rpar;](https://www.space.com/watch-self-eating-rocket-test-video)
-- [Explained in 5 charts: Venture capital in 2023](https://techcrunch.com/2024/01/10/venture-capital-2023-analysis/)
-- [EU lawmakers under pressure to fully disclose dealings with child safety tech maker, Thorn](https://techcrunch.com/2024/01/10/eu-ombudsman-csam-thorn/)
-- [Ask Sophie: Do I qualify for the stateside visa stamping program?](https://techcrunch.com/2024/01/10/ask-sophie-do-i-qualify-for-the-stateside-visa-stamping-program/)
-- [Peregrine lander&#39;s failure won&#39;t stop NASA&#39;s ambitious commercial moon program](https://www.space.com/lunar-radio-astronomy-peregrine-clps-nasa-rolses-lucee-aas)
+- [US approves first spot bitcoin ETF applications for 11 issuers](https://techcrunch.com/2024/01/10/sec-approves-spot-bitcoin-etf/)
+- [Brave Search can now deliver results for programming queries](https://techcrunch.com/2024/01/10/brave-search-can-now-deliver-results-for-programming-queries/)
+- [China&#39;s 1st launch of 2024 puts 4 small weather satellites into orbit &lpar;video&rpar;](https://www.space.com/china-first-launch-2024-tianmu-1-weather-satellites)
+- [Nowatch adds watch faces to a fitness tracker that vows not to interrupt you](https://techcrunch.com/2024/01/10/no-watch-gets-watch/)
+- [Accesibility startup Augmental is working on head tracking and ‘silent speech’](https://techcrunch.com/2024/01/10/augmental-head-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
