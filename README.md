@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CES 2024: Everything revealed so far, from Nvidia to rabbit’s pocket AI to Kodiak’s autonomous semi truck](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
-- [Sources: PhotoRoom, the AI photo editing app, is raising $50M-$60M at a $500M-$600M valuation](https://techcrunch.com/2024/01/09/sources-photoroom-the-ai-photo-editing-app-is-raising-50m-60m-at-a-500m-600m-valuation/)
-- [Walmart debuts generative AI search and AI replenishment features at CES](https://techcrunch.com/2024/01/09/walmart-debuts-generative-ai-search-and-ai-replenishment-features-at-ces/)
-- [OneCourt’s haptic mini-field lets blind fans follow the game by touch](https://techcrunch.com/2024/01/09/onecourts-haptic-mini-field-lets-blind-fans-follow-the-game-by-touch/)
-- [Fidelity National Financial says hackers stole data on 1.3 million customers](https://techcrunch.com/2024/01/09/fidelity-national-financial-data-breach/)
+- [Stairs are no obstacle for this delivery bot’s squishy wheels](https://techcrunch.com/2024/01/09/stairs-are-no-obstacle-for-this-delivery-bots-squishy-wheels/)
+- [Quora raised $75M from a16z to grow Poe, its AI chat bot platform](https://techcrunch.com/2024/01/09/quora-75m-funding-a16z-poe-ai-chat/)
+- [Substack won’t commit to proactively removing Nazi content, ensuring further fallout](https://techcrunch.com/2024/01/09/substack-nazi-content-policies-controversy/)
+- [Hyundai says its electric air taxi business will take flight in 2028](https://techcrunch.com/2024/01/09/hyundai-says-its-electric-air-taxi-business-will-take-flight-in-2028/)
+- [NASA delays Artemis moon missions to give SpaceX, others more time to develop tech](https://techcrunch.com/2024/01/09/nasa-delays-artemis-moon-missions-to-give-spacex-others-more-time-to-develop-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
