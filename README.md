@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [App economy recovered in 2023, with $171B in consumer spending, but downloads were flat](https://techcrunch.com/2024/01/10/app-economy-recovered-in-2023-with-171b-in-consumer-spending-but-downloads-were-flat/)
+- [Seedstars Africa Ventures gets $30M backing from EIB Global to invest in early-stage startups](https://techcrunch.com/2024/01/09/eib-global-invests-30m-in-seedstars-africa-ventures-i/)
 - [Match Group promotes Faye Iosotaluno to Tinder CEO](https://techcrunch.com/2024/01/09/match-group-promotes-faye-iosotaluno-to-tinder-ceo/)
-- [Apple pulls crypto apps Binance, Kraken in India](https://techcrunch.com/2024/01/09/apple-crypto-apps-binance-india/)
+- [Apple pulls Binance, Kraken, other crypto apps from India App Store](https://techcrunch.com/2024/01/09/apple-crypto-apps-binance-india/)
 - [Why Keith Rabois just left Founders Fund for Khosla Ventures](https://techcrunch.com/2024/01/09/keith-rabois-dishes-on-his-surprising-return-to-khosla-ventures-after-leaving-the-firm-in-2019-for-founders-fund/)
-- [What happens to Carta now?](https://techcrunch.com/2024/01/09/what-happens-to-carta-now/)
-- [CES 2024: Everything revealed so far, from Nvidia to rabbit’s pocket AI to Kodiak’s autonomous semi truck](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
