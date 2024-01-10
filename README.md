@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch self-eating rocket prototype engine consume itself then explode &lpar;video&rpar;](https://www.space.com/watch-self-eating-rocket-test-video)
+- [Explained in 5 charts: Venture capital in 2023](https://techcrunch.com/2024/01/10/venture-capital-2023-analysis/)
+- [EU lawmakers under pressure to fully disclose dealings with child safety tech maker, Thorn](https://techcrunch.com/2024/01/10/eu-ombudsman-csam-thorn/)
 - [Ask Sophie: Do I qualify for the stateside visa stamping program?](https://techcrunch.com/2024/01/10/ask-sophie-do-i-qualify-for-the-stateside-visa-stamping-program/)
 - [Peregrine lander&#39;s failure won&#39;t stop NASA&#39;s ambitious commercial moon program](https://www.space.com/lunar-radio-astronomy-peregrine-clps-nasa-rolses-lucee-aas)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/01/10/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [It sure looks like X &lpar;Twitter&rpar; has a Verified bot problem](https://techcrunch.com/2024/01/10/it-sure-looks-like-x-twitter-has-a-verified-bot-problem/)
-- [China launches &#39;lobster eye&#39; Einstein Probe to study black holes, neutron stars and more &lpar;video&rpar;](https://www.space.com/china-launches-einstein-probe-black-holes-x-ray)
 <!-- BLOG-POST-LIST:END -->
 
 ---
