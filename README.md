@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fujitsu, facing heat over UK Post Office scandal, continues to rake in billions from government deals](https://techcrunch.com/2024/01/10/fujitsu-post-office-scandal-government/)
+- [Tesla starts selling refreshed Model 3 in the U.S.](https://techcrunch.com/2024/01/10/tesla-refreshed-model-3-highland-us-sales/)
 - [Shimmer, a platform for 1:1 personalized ADHD coaching, raises $2.2M](https://techcrunch.com/2024/01/10/shimmer-a-platform-for-11-personalized-adhd-coaching-raises-2-2m/)
 - [How giant impacts shaped the formation of the solar system&#39;s planets](https://www.space.com/giant-impacts-shaped-solar-system-planets)
 - [Humane announces 10 layoffs as CTO ‘transitions’ into advisor role](https://techcrunch.com/2024/01/10/humane-layoffs-ai-pin-hardware/)
-- [X removes support for NFT profile pictures](https://techcrunch.com/2024/01/10/x-removes-support-for-nft-profile-pictures/)
-- [1st &#39;interstellar tourism campaign&#39; urges aliens to visit Lexington, Kentucky](https://www.space.com/seti-scientists-alien-message-first-interstellar-tourism-campaign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
