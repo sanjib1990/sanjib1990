@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X removes support for NFT profile pictures](https://techcrunch.com/2024/01/10/x-removes-support-for-nft-profile-pictures/)
 - [1st &#39;interstellar tourism campaign&#39; urges aliens to visit Lexington, Kentucky](https://www.space.com/seti-scientists-alien-message-first-interstellar-tourism-campaign)
 - [Meistrari didn’t see a good solution for prompt engineering, so it’s building one](https://techcrunch.com/2024/01/10/meistrari-ai-prompt-engineering/)
 - [Micromobility startups Tier and Dott plan to merge to find a path to profitability](https://techcrunch.com/2024/01/10/micromobility-startups-tier-and-dott-plan-to-merge-to-find-a-path-to-profitability/)
 - [App economy recovered in 2023, with $171B in consumer spending, but downloads were flat](https://techcrunch.com/2024/01/10/app-economy-recovered-in-2023-with-171b-in-consumer-spending-but-downloads-were-flat/)
-- [Seedstars Africa Ventures gets $30M backing from EIB Global to invest in early-stage startups](https://techcrunch.com/2024/01/09/eib-global-invests-30m-in-seedstars-africa-ventures-i/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
