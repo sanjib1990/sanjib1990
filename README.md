@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Star Wars Venator-Class Republic Attack Cruiser review](https://www.space.com/lego-star-wars-venator-class-republic-attack-cruiser-75367-review)
-- [Terraform fork OpenTofu is now ready for prime time](https://techcrunch.com/2024/01/10/terraform-fork-opentofu-is-now-ready-for-prime-time/)
-- [How to build the foundation for a profitable AI startup](https://techcrunch.com/2024/01/10/how-to-build-the-foundation-for-a-profitable-ai-startup/)
-- [Fujitsu, facing heat over UK Post Office scandal, continues to rake in billions from government deals](https://techcrunch.com/2024/01/10/fujitsu-post-office-scandal-government/)
-- [Tesla starts selling refreshed Model 3 in the U.S.](https://techcrunch.com/2024/01/10/tesla-refreshed-model-3-highland-us-sales/)
+- [Texas-based care provider HMG Healthcare says hackers stole unencrypted patient data](https://techcrunch.com/2024/01/10/hmg-healthcare-unencrypted-patient-data-breach/)
+- [Amazon Prime Video and MGM Studios laid off hundreds of employees](https://techcrunch.com/2024/01/10/amazon-prime-video-and-mgm-studios-laid-off-hundreds-of-employees/)
+- [Remastered &#39;Space-Mullet&#39; webcomic collection coming this summer](https://www.space.com/space-mullet-webcomic-coming-summer-2024)
+- [The IPO window is reopening — here’s what startups need to know](https://techcrunch.com/2024/01/10/the-ipo-window-is-reopening-heres-what-startups-need-to-know/)
+- [AI hardware, fintech woes and venture capital’s shedding phase](https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
