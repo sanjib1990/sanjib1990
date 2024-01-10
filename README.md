@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens to Carta now?](https://techcrunch.com/2024/01/09/what-happens-to-carta-now/)
+- [CES 2024: Everything revealed so far, from Nvidia to rabbit’s pocket AI to Kodiak’s autonomous semi truck](https://techcrunch.com/2024/01/09/ces-2024-everything-you-need-to-know/)
+- [Twitch is laying off another 500 employees](https://techcrunch.com/2024/01/09/twitch-layoff-500-employees/)
+- [Treasure Financial lays off staff just months after reporting ‘explosive growth’](https://techcrunch.com/2024/01/09/treasure-financial-lays-off-staff-just-months-after-reporting-explosive-growth/)
 - [Stairs are no obstacle for this delivery bot’s squishy wheels](https://techcrunch.com/2024/01/09/stairs-are-no-obstacle-for-this-delivery-bots-squishy-wheels/)
-- [Quora raised $75M from a16z to grow Poe, its AI chat bot platform](https://techcrunch.com/2024/01/09/quora-75m-funding-a16z-poe-ai-chat/)
-- [Substack won’t commit to proactively removing Nazi content, ensuring further fallout](https://techcrunch.com/2024/01/09/substack-nazi-content-policies-controversy/)
-- [Hyundai says its electric air taxi business will take flight in 2028](https://techcrunch.com/2024/01/09/hyundai-says-its-electric-air-taxi-business-will-take-flight-in-2028/)
-- [NASA delays Artemis moon missions to give SpaceX, others more time to develop tech](https://techcrunch.com/2024/01/09/nasa-delays-artemis-moon-missions-to-give-spacex-others-more-time-to-develop-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
