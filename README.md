@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1st &#39;interstellar tourism campaign&#39; urges aliens to visit Lexington, Kentucky](https://www.space.com/seti-scientists-alien-message-first-interstellar-tourism-campaign)
+- [Meistrari didn’t see a good solution for prompt engineering, so it’s building one](https://techcrunch.com/2024/01/10/meistrari-ai-prompt-engineering/)
+- [Micromobility startups Tier and Dott plan to merge to find a path to profitability](https://techcrunch.com/2024/01/10/micromobility-startups-tier-and-dott-plan-to-merge-to-find-a-path-to-profitability/)
 - [App economy recovered in 2023, with $171B in consumer spending, but downloads were flat](https://techcrunch.com/2024/01/10/app-economy-recovered-in-2023-with-171b-in-consumer-spending-but-downloads-were-flat/)
 - [Seedstars Africa Ventures gets $30M backing from EIB Global to invest in early-stage startups](https://techcrunch.com/2024/01/09/eib-global-invests-30m-in-seedstars-africa-ventures-i/)
-- [Match Group promotes Faye Iosotaluno to Tinder CEO](https://techcrunch.com/2024/01/09/match-group-promotes-faye-iosotaluno-to-tinder-ceo/)
-- [Apple pulls Binance, Kraken, other crypto apps from India App Store](https://techcrunch.com/2024/01/09/apple-crypto-apps-binance-india/)
-- [Why Keith Rabois just left Founders Fund for Khosla Ventures](https://techcrunch.com/2024/01/09/keith-rabois-dishes-on-his-surprising-return-to-khosla-ventures-after-leaving-the-firm-in-2019-for-founders-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
