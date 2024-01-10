@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shimmer, a platform for 1:1 personalized ADHD coaching, raises $2.2M](https://techcrunch.com/2024/01/10/shimmer-a-platform-for-11-personalized-adhd-coaching-raises-2-2m/)
+- [How giant impacts shaped the formation of the solar system&#39;s planets](https://www.space.com/giant-impacts-shaped-solar-system-planets)
+- [Humane announces 10 layoffs as CTO ‘transitions’ into advisor role](https://techcrunch.com/2024/01/10/humane-layoffs-ai-pin-hardware/)
 - [X removes support for NFT profile pictures](https://techcrunch.com/2024/01/10/x-removes-support-for-nft-profile-pictures/)
 - [1st &#39;interstellar tourism campaign&#39; urges aliens to visit Lexington, Kentucky](https://www.space.com/seti-scientists-alien-message-first-interstellar-tourism-campaign)
-- [Meistrari didn’t see a good solution for prompt engineering, so it’s building one](https://techcrunch.com/2024/01/10/meistrari-ai-prompt-engineering/)
-- [Micromobility startups Tier and Dott plan to merge to find a path to profitability](https://techcrunch.com/2024/01/10/micromobility-startups-tier-and-dott-plan-to-merge-to-find-a-path-to-profitability/)
-- [App economy recovered in 2023, with $171B in consumer spending, but downloads were flat](https://techcrunch.com/2024/01/10/app-economy-recovered-in-2023-with-171b-in-consumer-spending-but-downloads-were-flat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
