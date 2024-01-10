@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US approves first spot bitcoin ETF applications for 11 issuers](https://techcrunch.com/2024/01/10/sec-approves-spot-bitcoin-etf/)
-- [Brave Search can now deliver results for programming queries](https://techcrunch.com/2024/01/10/brave-search-can-now-deliver-results-for-programming-queries/)
-- [China&#39;s 1st launch of 2024 puts 4 small weather satellites into orbit &lpar;video&rpar;](https://www.space.com/china-first-launch-2024-tianmu-1-weather-satellites)
-- [Nowatch adds watch faces to a fitness tracker that vows not to interrupt you](https://techcrunch.com/2024/01/10/no-watch-gets-watch/)
-- [Accesibility startup Augmental is working on head tracking and ‘silent speech’](https://techcrunch.com/2024/01/10/augmental-head-tracking/)
+- [UAE to provide airlock for NASA&#39;s moon-orbiting Gateway space station](https://www.space.com/uae-airlock-nasa-gateway-moon-station-artemis)
+- [Hubble Telescope finds surprising source of brightest fast radio burst ever](https://www.space.com/hubble-telescope-finds-source-brightest-fast-radio-burst)
+- [Grayscale CEO sees spot bitcoin ETF as first step towards ‘normalizing’ crypto](https://techcrunch.com/2024/01/10/grayscale-ceo-spot-bitcoin-etf/)
+- [SpaceX targeting February for Starship&#39;s 3rd flight test](https://www.space.com/spacex-starship-third-test-flight-february-2024)
+- [Smart molluscs – yes, smart molluscs – could watch our waterways 24/7 for pollution](https://techcrunch.com/2024/01/10/molluscan-smart-molluscs-water-pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
