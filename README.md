@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mirantis’ new CEO is once again its old CEO](https://techcrunch.com/2024/01/10/mirantis-new-ceo-is-once-again-its-old-ceo/)
+- [The mystery of vast &#39;cosmic ORCs&#39; — odd radio circles that encompass entire galaxies — may be solved](https://www.space.com/odd-radio-circles-cosmic-orcs-mystery-solved)
+- [Female-founded startup Diem wants to be the go-to social search engine for women and non-binary folks](https://techcrunch.com/2024/01/10/female-founded-startup-diem-wants-to-be-the-go-to-social-search-engine-for-women-and-non-binary-folks/)
 - [Mystery solved! 1st close-up images of giant star explain its bizarre dimming](https://www.space.com/star-dimming-brightening-rw-cephei-chara-array)
 - [OpenAI debuts ChatGPT subscription aimed at small teams](https://techcrunch.com/2024/01/10/openai-launches-chatgpt-subscription-aimed-at-small-teams/)
-- [OpenAI launches a store for custom AI-powered chatbots](https://techcrunch.com/2024/01/10/openai-launches-a-store-for-custom-ai-powered-chatbots/)
-- [Why you don&#39;t need to get to the centerline for April&#39;s total solar eclipse — and what will happen at the edge](https://www.space.com/april-2024-total-solar-eclipse-why-to-avoid-the-centerline-of-totality)
-- [Quora’s AI platform could likely come to dictate the company’s future](https://techcrunch.com/2024/01/10/quora-ai-poe-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
