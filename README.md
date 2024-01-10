@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mirantis’ new CEO is once again its old CEO](https://techcrunch.com/2024/01/10/mirantis-new-ceo-is-once-again-its-old-ceo/)
-- [The mystery of vast &#39;cosmic ORCs&#39; — odd radio circles that encompass entire galaxies — may be solved](https://www.space.com/odd-radio-circles-cosmic-orcs-mystery-solved)
-- [Female-founded startup Diem wants to be the go-to social search engine for women and non-binary folks](https://techcrunch.com/2024/01/10/female-founded-startup-diem-wants-to-be-the-go-to-social-search-engine-for-women-and-non-binary-folks/)
-- [Mystery solved! 1st close-up images of giant star explain its bizarre dimming](https://www.space.com/star-dimming-brightening-rw-cephei-chara-array)
-- [OpenAI debuts ChatGPT subscription aimed at small teams](https://techcrunch.com/2024/01/10/openai-launches-chatgpt-subscription-aimed-at-small-teams/)
+- [Ask Sophie: Do I qualify for the stateside visa stamping program?](https://techcrunch.com/2024/01/10/ask-sophie-do-i-qualify-for-the-stateside-visa-stamping-program/)
+- [Peregrine lander&#39;s failure won&#39;t stop NASA&#39;s ambitious commercial moon program](https://www.space.com/lunar-radio-astronomy-peregrine-clps-nasa-rolses-lucee-aas)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/01/10/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [It sure looks like X &lpar;Twitter&rpar; has a Verified bot problem](https://techcrunch.com/2024/01/10/it-sure-looks-like-x-twitter-has-a-verified-bot-problem/)
+- [China launches &#39;lobster eye&#39; Einstein Probe to study black holes, neutron stars and more &lpar;video&rpar;](https://www.space.com/china-launches-einstein-probe-black-holes-x-ray)
 <!-- BLOG-POST-LIST:END -->
 
 ---
