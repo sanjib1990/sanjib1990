@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Funding for female founders remained consistent in 2023](https://techcrunch.com/2024/01/10/funding-for-female-founders-remained-consistent-in-2023/)
 - [WTF is a ‘software-defined vehicle?’](https://techcrunch.com/2024/01/10/wtf-is-a-software-defined-vehicle/)
 - [This startup is trying to bring T9-like text input to your TV](https://techcrunch.com/2024/01/10/direction-9/)
 - [CES 2024: The biggest transportation news, from Honda’s EVs to Hyundai’s air taxi ambitions](https://techcrunch.com/2024/01/10/ces-2024-the-biggest-transportation-news-from-hondas-evs-to-hyundais-air-taxi-ambitions/)
 - [Nwm’s open-air headphones are literally not there](https://techcrunch.com/2024/01/10/nwms-open-air-headphones-are-literally-not-there/)
-- [Zoe Care uses existing Wi-Fi signals to detect falls in care homes](https://techcrunch.com/2024/01/10/zoe-care-zoe-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
