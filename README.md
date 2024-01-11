@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Massive Mars dust storm spotted by China&#39;s Tianwen-1 probe &lpar;photos&rpar;](https://www.space.com/china-tianwen-1-mars-dust-storm-olympus-mons)
-- [China won&#39;t beat US Artemis astronauts to the moon, NASA chief says](https://www.space.com/us-beat-china-to-moon-artemis-nasa-bill-nelson)
-- [ByteDance is shutting down its music streaming service Resso in India](https://techcrunch.com/2024/01/11/bytedance-is-shutting-down-its-music-streaming-service-resso-in-india/)
-- [Google Cloud rolls out new gen AI products for retailers](https://techcrunch.com/2024/01/11/google-cloud-rolls-out-new-gen-ai-products-for-retailers/)
-- [Axiom astronaut Peggy Whitson hangs up her flight suit — on public display](https://www.space.com/astronaut-peggy-whitson-axiom-flight-suit-display)
+- [Returnmates, now Sway, bags $19.5M Series A to manage e-commerce returns](https://techcrunch.com/2024/01/11/returnmates-sway-19-5m-e-commerce-returns/)
+- [&#39;Missing link&#39; supernova connects star&#39;s death to birth of black hole or neutron star](https://www.space.com/supernova-missing-link-neutron-star-black-hole-birth)
+- [Harness acquires the assets of continuous deployment service Armory](https://techcrunch.com/2024/01/11/harness-acquires-the-assets-of-continuous-deployment-service-armory/)
+- [UK insurtech Hyperexponential raises $73M and eyes US expansion](https://techcrunch.com/2024/01/11/hyperexponential-a16z-insurance/)
+- [Microsoft expands EU data localization efforts to cover system logs](https://techcrunch.com/2024/01/11/microsoft-eu-data-boundary-phase-2-complete/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
