@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SETI scientists begin huge new hunt for intelligent aliens](https://www.space.com/cosmic-seti-alien-life-search-underway)
-- [Hestiia wants you to mine for crypto to heat your house](https://techcrunch.com/2024/01/11/hestiia-bitcoin-radiator/)
-- [Amazon’s ‘Just Walk Out’ tech now works with employee badges](https://techcrunch.com/2024/01/11/amazons-just-walk-out-tech-now-works-with-employee-badges/)
-- [Hertz is selling 20,000 EVs and replacing them with gas cars](https://techcrunch.com/2024/01/11/hertz-sell-evs-tesla-fleet-gm-polestar-gas/)
-- [Pier banks $2.4M to launch ‘Stripe for credit’](https://techcrunch.com/2024/01/11/pier-2-4m-stripe-for-credit-fintech/)
+- [A geofence warrant typo cast a location dragnet spanning two miles over San Francisco](https://techcrunch.com/2024/01/11/geofence-warrant-dragnet-error/)
+- [Hyundai’s hydrogen Hail Mary](https://techcrunch.com/2024/01/11/hyundai-hydrogen-ces/)
+- [Nearby exoplanet may be rich in life-giving water, study finds](https://www.space.com/exoplanet-lhs-1140b-habitable-zone-water)
+- [The World Cruise on TikTok is an unintentional online reality show](https://techcrunch.com/2024/01/11/world-cruise-tiktok-nine-month/)
+- [Whispp brings electronic larynx voice boxes into this millennium](https://techcrunch.com/2024/01/11/whispp-voice-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
