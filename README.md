@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finn raises $109M on a $658M valuation, taking its car subscription platform up another gear](https://techcrunch.com/2024/01/11/finn-raises-109m-on-a-658m-valuation-taking-its-car-subscription-platform-up-another-gear/)
+- [Is India done with crypto?](https://techcrunch.com/2024/01/10/is-india-done-with-crypto/)
+- [Google cuts hundreds of jobs in its voice assistance, hardware teams as Fitbit founders leave](https://techcrunch.com/2024/01/10/google-cuts-hundreds-of-jobs-in-its-voice-assistance-hardware-teams-as-fitbit-founders-leave/)
 - [Meta faces another EU privacy challenge over ‘pay for privacy’ consent choice](https://techcrunch.com/2024/01/10/meta-pay-or-okay-noyb-complaint-2/)
 - [Funding for female founders remained consistent in 2023](https://techcrunch.com/2024/01/10/funding-for-female-founders-remained-consistent-in-2023/)
-- [WTF is a ‘software-defined vehicle?’](https://techcrunch.com/2024/01/10/wtf-is-a-software-defined-vehicle/)
-- [This startup is trying to bring T9-like text input to your TV](https://techcrunch.com/2024/01/10/direction-9/)
-- [CES 2024: The biggest transportation news, from Honda’s EVs to Hyundai’s air taxi ambitions](https://techcrunch.com/2024/01/10/ces-2024-the-biggest-transportation-news-from-hondas-evs-to-hyundais-air-taxi-ambitions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
