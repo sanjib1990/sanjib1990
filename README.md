@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DWARFLAB Dwarf II smart telescope review](https://www.space.com/dwarflab-dwarf-ii-smart-telescope-review)
 - [Finn raises $109M on a $658M valuation, taking its car subscription platform up another gear](https://techcrunch.com/2024/01/11/finn-raises-109m-on-a-658m-valuation-taking-its-car-subscription-platform-up-another-gear/)
 - [Is India done with crypto?](https://techcrunch.com/2024/01/10/is-india-done-with-crypto/)
 - [Google cuts hundreds of jobs in its voice assistance, hardware teams as Fitbit founders leave](https://techcrunch.com/2024/01/10/google-cuts-hundreds-of-jobs-in-its-voice-assistance-hardware-teams-as-fitbit-founders-leave/)
 - [Meta faces another EU privacy challenge over ‘pay for privacy’ consent choice](https://techcrunch.com/2024/01/10/meta-pay-or-okay-noyb-complaint-2/)
-- [Funding for female founders remained consistent in 2023](https://techcrunch.com/2024/01/10/funding-for-female-founders-remained-consistent-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
