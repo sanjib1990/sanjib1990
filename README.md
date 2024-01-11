@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Returnmates, now Sway, bags $19.5M Series A to manage e-commerce returns](https://techcrunch.com/2024/01/11/returnmates-sway-19-5m-e-commerce-returns/)
-- [&#39;Missing link&#39; supernova connects star&#39;s death to birth of black hole or neutron star](https://www.space.com/supernova-missing-link-neutron-star-black-hole-birth)
-- [Harness acquires the assets of continuous deployment service Armory](https://techcrunch.com/2024/01/11/harness-acquires-the-assets-of-continuous-deployment-service-armory/)
-- [UK insurtech Hyperexponential raises $73M and eyes US expansion](https://techcrunch.com/2024/01/11/hyperexponential-a16z-insurance/)
-- [Microsoft expands EU data localization efforts to cover system logs](https://techcrunch.com/2024/01/11/microsoft-eu-data-boundary-phase-2-complete/)
+- [SETI scientists begin huge new hunt for intelligent aliens](https://www.space.com/cosmic-seti-alien-life-search-underway)
+- [Hestiia wants you to mine for crypto to heat your house](https://techcrunch.com/2024/01/11/hestiia-bitcoin-radiator/)
+- [Amazon’s ‘Just Walk Out’ tech now works with employee badges](https://techcrunch.com/2024/01/11/amazons-just-walk-out-tech-now-works-with-employee-badges/)
+- [Hertz is selling 20,000 EVs and replacing them with gas cars](https://techcrunch.com/2024/01/11/hertz-sell-evs-tesla-fleet-gm-polestar-gas/)
+- [Pier banks $2.4M to launch ‘Stripe for credit’](https://techcrunch.com/2024/01/11/pier-2-4m-stripe-for-credit-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
