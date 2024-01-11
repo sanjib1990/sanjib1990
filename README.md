@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the mind-bending new trailer for sci-fi epic &#39;3 Body Problem&#39; &lpar;video&rpar;](https://www.space.com/three-body-problem-netflix-trailer)
+- [As Disney pushes towards streaming profitability, Pixar to undergo layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
+- [Japanese earthquake on Jan. 1 shifted coastline over 800 feet, satellite photos show](https://www.space.com/japan-earthquake-january-2024-shifted-coastline-photos)
 - [eBay to pay $3M over cyberstalking campaign that involved sending fetal pig, live insects to couple](https://techcrunch.com/2024/01/11/ebay-to-pay-3m-over-cyberstalking-campaign-that-involved-sending-fetal-pig-live-insects-and-more-to-couple/)
 - [Google pens letter in support of Oregon right to repair legislation](https://techcrunch.com/2024/01/11/google-pens-letter-in-support-of-oregon-right-to-repair-legislation/)
-- [CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI](https://techcrunch.com/2024/01/11/ces-2024-everything-you-need-to-know/)
-- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/01/11/tech-layoffs-2023-list/)
-- [Discord lays off 170 people, blames growing too quickly](https://techcrunch.com/2024/01/11/discord-lays-off-170-people-blames-growing-too-quickly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
