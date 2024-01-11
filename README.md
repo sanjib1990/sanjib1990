@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MMGuardian enters a crowded kid-safe-phone market](https://techcrunch.com/2024/01/11/mmguardian-kid-safe-phone-ces/)
+- [Hydrogen is back. At least, CES 2024 suggests it is](https://techcrunch.com/2024/01/11/hydrogen-is-back-at-least-ces-2024-suggests-it-is/)
+- [China&#39;s record-breaking Gravity-1 rocket aces amazing debut launch from ship at sea &lpar;video&rpar;](https://www.space.com/china-orienspace-gravity-1-rocket-launch-success-video)
+- [Polestar CEO promises to keep Apple CarPlay and Android Auto around](https://techcrunch.com/2024/01/11/polestar-ceo-promises-to-keep-apple-carplay-and-android-auto-around/)
 - [US spot bitcoin ETFs begin trading, Circle files for IPO and India continues crypto pullback](https://techcrunch.com/2024/01/11/us-spot-bitcoin-etfs-begin-trading-circle-files-for-ipo-and-india-continues-crypto-pullback/)
-- [SpaceX&#39;s new direct-to-cell Starlink satellites relay their 1st text messages](https://www.space.com/spacex-starlink-satellites-direct-to-cell-first-text-messages)
-- [EyeQ takes a fresh look at video call eye contact](https://techcrunch.com/2024/01/11/eyeq-eye-contact-ces/)
-- [See the elusive planet Mercury at its best and brightest on Friday](https://www.space.com/mercury-greatest-elongation-january-2024)
-- [FlutterFlow attracts cash for its low-code mobile app dev platform](https://techcrunch.com/2024/01/11/flutterflow-attracts-cash-for-its-low-code-mobile-app-dev-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
