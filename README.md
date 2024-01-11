@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom astronaut Peggy Whitson hangs up her flight suit — on public display](https://www.space.com/astronaut-peggy-whitson-axiom-flight-suit-display)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [D-Orbit raises $110M to reach new heights in space logistics services](https://techcrunch.com/2024/01/11/d-orbit-raises-110m-to-reach-new-heights-in-space-logistics-services/)
 - [DWARFLAB Dwarf II smart telescope review](https://www.space.com/dwarflab-dwarf-ii-smart-telescope-review)
 - [Finn raises $109M on a $658M valuation, taking its car subscription platform up another gear](https://techcrunch.com/2024/01/11/finn-raises-109m-on-a-658m-valuation-taking-its-car-subscription-platform-up-another-gear/)
-- [Is India done with crypto?](https://techcrunch.com/2024/01/10/is-india-done-with-crypto/)
-- [Google cuts hundreds of jobs in its voice assistance, hardware teams as Fitbit founders leave](https://techcrunch.com/2024/01/10/google-cuts-hundreds-of-jobs-in-its-voice-assistance-hardware-teams-as-fitbit-founders-leave/)
-- [Meta faces another EU privacy challenge over ‘pay for privacy’ consent choice](https://techcrunch.com/2024/01/10/meta-pay-or-okay-noyb-complaint-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
