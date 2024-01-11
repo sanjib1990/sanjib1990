@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A geofence warrant typo cast a location dragnet spanning two miles over San Francisco](https://techcrunch.com/2024/01/11/geofence-warrant-dragnet-error/)
-- [Hyundai’s hydrogen Hail Mary](https://techcrunch.com/2024/01/11/hyundai-hydrogen-ces/)
-- [Nearby exoplanet may be rich in life-giving water, study finds](https://www.space.com/exoplanet-lhs-1140b-habitable-zone-water)
-- [The World Cruise on TikTok is an unintentional online reality show](https://techcrunch.com/2024/01/11/world-cruise-tiktok-nine-month/)
-- [Whispp brings electronic larynx voice boxes into this millennium](https://techcrunch.com/2024/01/11/whispp-voice-app/)
+- [Google says it’ll stop charging fees to transfer data out of Google Cloud](https://techcrunch.com/2024/01/11/google-says-itll-stop-charging-fees-to-transfer-data-out-of-google-cloud/)
+- [January&#39;s new moon welcomes Mercury as a &#39;morning star&#39;](https://www.space.com/new-moon-january-2024-mercury)
+- [Moustrap wants to bring some loving luxury to your mousing about](https://techcrunch.com/2024/01/11/moustrap-at-ces/)
+- [CES 2024: Everything revealed so far, from Nvidia and Sony to rabbit’s pocket AI and the weirdest reveals](https://techcrunch.com/2024/01/11/ces-2024-everything-you-need-to-know/)
+- [Siri needs to get a lot smarter, and quickly](https://techcrunch.com/2024/01/11/get-smarter-siri/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
