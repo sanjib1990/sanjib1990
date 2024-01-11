@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US spot bitcoin ETFs begin trading, Circle files for IPO and India continues crypto pullback](https://techcrunch.com/2024/01/11/us-spot-bitcoin-etfs-begin-trading-circle-files-for-ipo-and-india-continues-crypto-pullback/)
+- [SpaceX&#39;s new direct-to-cell Starlink satellites relay their 1st text messages](https://www.space.com/spacex-starlink-satellites-direct-to-cell-first-text-messages)
 - [EyeQ takes a fresh look at video call eye contact](https://techcrunch.com/2024/01/11/eyeq-eye-contact-ces/)
 - [See the elusive planet Mercury at its best and brightest on Friday](https://www.space.com/mercury-greatest-elongation-january-2024)
 - [FlutterFlow attracts cash for its low-code mobile app dev platform](https://techcrunch.com/2024/01/11/flutterflow-attracts-cash-for-its-low-code-mobile-app-dev-platform/)
-- [CNDO is a new ‘challenge-based’ social networking for creators and fans](https://techcrunch.com/2024/01/11/cndo-social-networking-app-for-content-creators/)
-- [BlackRock cuts Byju’s valuation by 95% to $1 billion](https://techcrunch.com/2024/01/11/blackrock-cuts-byjus-valuation-by-95-to-1-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
