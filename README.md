@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta faces another EU privacy challenge over ‘pay for privacy’ consent choice](https://techcrunch.com/2024/01/10/meta-pay-or-okay-noyb-complaint-2/)
 - [Funding for female founders remained consistent in 2023](https://techcrunch.com/2024/01/10/funding-for-female-founders-remained-consistent-in-2023/)
 - [WTF is a ‘software-defined vehicle?’](https://techcrunch.com/2024/01/10/wtf-is-a-software-defined-vehicle/)
 - [This startup is trying to bring T9-like text input to your TV](https://techcrunch.com/2024/01/10/direction-9/)
 - [CES 2024: The biggest transportation news, from Honda’s EVs to Hyundai’s air taxi ambitions](https://techcrunch.com/2024/01/10/ces-2024-the-biggest-transportation-news-from-hondas-evs-to-hyundais-air-taxi-ambitions/)
-- [Nwm’s open-air headphones are literally not there](https://techcrunch.com/2024/01/10/nwms-open-air-headphones-are-literally-not-there/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
