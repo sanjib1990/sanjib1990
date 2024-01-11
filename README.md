@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google to help build the first subsea cable directly connecting South America with Asia-Pacific](https://techcrunch.com/2024/01/11/humboldt-google-set-to-build-the-first-subsea-cable-directly-connecting-south-america-with-asia-pacific/)
-- [Generative AI isn’t a home run in the enterprise](https://techcrunch.com/2024/01/11/generative-ai-enterprise-not-home-run/)
-- [Alaska Airlines Flight 1282: How could iPhones survive a 16,000-foot drop?](https://techcrunch.com/2024/01/11/alaska-flight-boeing-iphone/)
-- [ChefPaw makes it easy to cook healthy food for your fluffy friend](https://techcrunch.com/2024/01/11/chefpaw-dog-food-maker-ces/)
-- [UK’s digital markets regulator gives flavor of rebooted rules coming for Big Tech](https://techcrunch.com/2024/01/11/cma-ex-ante-digital-reform-overview/)
+- [EyeQ takes a fresh look at video call eye contact](https://techcrunch.com/2024/01/11/eyeq-eye-contact-ces/)
+- [See the elusive planet Mercury at its best and brightest on Friday](https://www.space.com/mercury-greatest-elongation-january-2024)
+- [FlutterFlow attracts cash for its low-code mobile app dev platform](https://techcrunch.com/2024/01/11/flutterflow-attracts-cash-for-its-low-code-mobile-app-dev-platform/)
+- [CNDO is a new ‘challenge-based’ social networking for creators and fans](https://techcrunch.com/2024/01/11/cndo-social-networking-app-for-content-creators/)
+- [BlackRock cuts Byju’s valuation by 95% to $1 billion](https://techcrunch.com/2024/01/11/blackrock-cuts-byjus-valuation-by-95-to-1-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
