@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive Mars dust storm spotted by China&#39;s Tianwen-1 probe &lpar;photos&rpar;](https://www.space.com/china-tianwen-1-mars-dust-storm-olympus-mons)
+- [China won&#39;t beat US Artemis astronauts to the moon, NASA chief says](https://www.space.com/us-beat-china-to-moon-artemis-nasa-bill-nelson)
+- [ByteDance is shutting down its music streaming service Resso in India](https://techcrunch.com/2024/01/11/bytedance-is-shutting-down-its-music-streaming-service-resso-in-india/)
 - [Google Cloud rolls out new gen AI products for retailers](https://techcrunch.com/2024/01/11/google-cloud-rolls-out-new-gen-ai-products-for-retailers/)
 - [Axiom astronaut Peggy Whitson hangs up her flight suit — on public display](https://www.space.com/astronaut-peggy-whitson-axiom-flight-suit-display)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [D-Orbit raises $110M to reach new heights in space logistics services](https://techcrunch.com/2024/01/11/d-orbit-raises-110m-to-reach-new-heights-in-space-logistics-services/)
-- [DWARFLAB Dwarf II smart telescope review](https://www.space.com/dwarflab-dwarf-ii-smart-telescope-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
