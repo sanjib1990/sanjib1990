@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google says it’ll stop charging fees to transfer data out of Google Cloud](https://techcrunch.com/2024/01/11/google-says-itll-stop-charging-fees-to-transfer-data-out-of-google-cloud/)
-- [January&#39;s new moon welcomes Mercury as a &#39;morning star&#39;](https://www.space.com/new-moon-january-2024-mercury)
-- [Moustrap wants to bring some loving luxury to your mousing about](https://techcrunch.com/2024/01/11/moustrap-at-ces/)
-- [CES 2024: Everything revealed so far, from Nvidia and Sony to rabbit’s pocket AI and the weirdest reveals](https://techcrunch.com/2024/01/11/ces-2024-everything-you-need-to-know/)
-- [Siri needs to get a lot smarter, and quickly](https://techcrunch.com/2024/01/11/get-smarter-siri/)
+- [Google to help build the first subsea cable directly connecting South America with Asia-Pacific](https://techcrunch.com/2024/01/11/humboldt-google-set-to-build-the-first-subsea-cable-directly-connecting-south-america-with-asia-pacific/)
+- [Generative AI isn’t a home run in the enterprise](https://techcrunch.com/2024/01/11/generative-ai-enterprise-not-home-run/)
+- [Alaska Airlines Flight 1282: How could iPhones survive a 16,000-foot drop?](https://techcrunch.com/2024/01/11/alaska-flight-boeing-iphone/)
+- [ChefPaw makes it easy to cook healthy food for your fluffy friend](https://techcrunch.com/2024/01/11/chefpaw-dog-food-maker-ces/)
+- [UK’s digital markets regulator gives flavor of rebooted rules coming for Big Tech](https://techcrunch.com/2024/01/11/cma-ex-ante-digital-reform-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
