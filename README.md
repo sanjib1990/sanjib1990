@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MMGuardian enters a crowded kid-safe-phone market](https://techcrunch.com/2024/01/11/mmguardian-kid-safe-phone-ces/)
-- [Hydrogen is back. At least, CES 2024 suggests it is](https://techcrunch.com/2024/01/11/hydrogen-is-back-at-least-ces-2024-suggests-it-is/)
-- [China&#39;s record-breaking Gravity-1 rocket aces amazing debut launch from ship at sea &lpar;video&rpar;](https://www.space.com/china-orienspace-gravity-1-rocket-launch-success-video)
-- [Polestar CEO promises to keep Apple CarPlay and Android Auto around](https://techcrunch.com/2024/01/11/polestar-ceo-promises-to-keep-apple-carplay-and-android-auto-around/)
-- [US spot bitcoin ETFs begin trading, Circle files for IPO and India continues crypto pullback](https://techcrunch.com/2024/01/11/us-spot-bitcoin-etfs-begin-trading-circle-files-for-ipo-and-india-continues-crypto-pullback/)
+- [eBay to pay $3M over cyberstalking campaign that involved sending fetal pig, live insects to couple](https://techcrunch.com/2024/01/11/ebay-to-pay-3m-over-cyberstalking-campaign-that-involved-sending-fetal-pig-live-insects-and-more-to-couple/)
+- [Google pens letter in support of Oregon right to repair legislation](https://techcrunch.com/2024/01/11/google-pens-letter-in-support-of-oregon-right-to-repair-legislation/)
+- [CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI](https://techcrunch.com/2024/01/11/ces-2024-everything-you-need-to-know/)
+- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/01/11/tech-layoffs-2023-list/)
+- [Discord lays off 170 people, blames growing too quickly](https://techcrunch.com/2024/01/11/discord-lays-off-170-people-blames-growing-too-quickly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
