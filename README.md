@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Dragon capsule arrives at pad for Ax-3 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-dragon-arrives-launch-site-ax-3-photos)
+- [TuSimple’s self-driving trucks up for auction following U.S. exit](https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/)
+- [CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI](https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/)
+- [‘Cooking with Lynja’ star and ‘the internet’s grandma’ Lynn Yamada Davis has died](https://techcrunch.com/2024/01/12/lynn-yamada-davis-cooking-with-lynja-internet-grandma-tiktok-star-died/)
 - [A postcard from Las Vegas and CES](https://techcrunch.com/2024/01/12/a-postcard-from-las-vegas-and-ces/)
-- [New &#39;Star Trek&#39; film will explore early years of Starfleet, Paramount reveals](https://www.space.com/new-star-trek-film-early-starfleet-revealed)
-- [How low can bitcoin ETF fees drop before it hurts a business?](https://techcrunch.com/2024/01/12/how-low-can-bitcoin-etf-fees-drop-before-it-hurts-a-business/)
-- [Why valves are a spacecraft engineer’s worst nightmare](https://techcrunch.com/2024/01/12/why-valves-are-a-spacecraft-engineers-worst-nightmare/)
-- [How to build a solid — and profitable! — AI startup](https://techcrunch.com/2024/01/12/how-to-build-a-solid-and-profitable-ai-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
