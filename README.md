@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newfound Earth-size exoplanet has a scorching-hot lava side](https://www.space.com/newfound-exoplanet-hd-63433d-lava-hemisphere-tess)
+- [Framework says hackers accessed customer data after phishing attack on accounting partner](https://techcrunch.com/2024/01/12/framework-customer-data-stolen-phishing-keating-accounting/)
+- [How to pick a name for your AI startup](https://techcrunch.com/2024/01/12/how-to-pick-a-name-for-your-ai-startup/)
 - [Astronomers accidentally discover &#39;dark&#39; primordial galaxy with no visible stars](https://www.space.com/dark-primordial-galaxy-no-stars-green-bank-observatory)
 - [This huge exoplanet&#39;s comet-like tail is 350,000 miles long and scientists are thrilled](https://www.space.com/huge-exoplanet-comet-like-tail-350000-miles-long)
-- [Hyundai Motor India fixes bug that exposed customers’ personal data](https://techcrunch.com/2024/01/11/hyundai-motor-india-data-exposed/)
-- [Google will allow more real-money games on the Play Store](https://techcrunch.com/2024/01/11/google-will-allow-more-real-money-games-on-the-play-store/)
-- [Smart pepper spray startup 444 is back at CES with a major partnership deal](https://techcrunch.com/2024/01/11/444-mace-ces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
