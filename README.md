@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dextrous Robotics closes up shop](https://techcrunch.com/2024/01/11/dextrous-robotics-closes-up-shop/)
+- [OpenAI-backed 1X raises another $100M for the race to humanoid robots](https://techcrunch.com/2024/01/11/openai-backed-1x-raises-another-100m-for-the-race-to-humanoid-robots/)
 - [CES 2024: The biggest transportation news, from Honda’s EVs to Hyundai’s air taxi ambitions](https://techcrunch.com/2024/01/11/ces-2024-the-biggest-transportation-news-from-hondas-evs-to-hyundais-air-taxi-ambitions/)
 - [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/01/11/tech-layoffs-2023-list/)
 - [Watch the mind-bending new trailer for sci-fi epic &#39;3 Body Problem&#39; &lpar;video&rpar;](https://www.space.com/three-body-problem-netflix-trailer)
-- [As Disney pushes towards streaming profitability, Pixar to undergo layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
-- [Japanese earthquake on Jan. 1 shifted coastline over 800 feet, satellite photos show](https://www.space.com/japan-earthquake-january-2024-shifted-coastline-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
