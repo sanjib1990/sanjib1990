@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CES 2024: The weirdest tech, gadgets and AI claims from Las Vegas](https://techcrunch.com/2024/01/12/ces-2024-the-weirdest-tech-gadgets-and-ai-claims-from-in-las-vegas/)
+- [Makera is releasing a baby sibling of its Carvera desktop 4-axis mill](https://techcrunch.com/2024/01/12/makera-air-ces-kickstarter/)
+- [X-59 ‘Quiet supersonic’ jet from NASA and Lockheed finally rolls out](https://techcrunch.com/2024/01/12/x-59-quiet-supersonic-jet-from-nasa-and-lockheed-finally-rolls-out/)
+- [Instagram co-founders’ news aggregation startup Artifact to shut down](https://techcrunch.com/2024/01/12/instagram-co-founders-news-aggregation-startup-artifact-to-shut-down/)
 - [Pitch Deck Teardown: Qortex’s $10M Seed deck](https://techcrunch.com/2024/01/12/sample-seed-pitch-deck-qortex/)
-- [NASA unveils the revolutionary X-59 Quesst &#39;quiet&#39; supersonic jet](https://www.space.com/nasa-x-59-quesst-supersonic-jet-unveiled)
-- [Surprise gamma-ray discovery could shed light on cosmic mystery](https://www.space.com/surprise-gamma-ray-discovery-fermi-telescope)
-- [OpenAI changes policy to allow military applications](https://techcrunch.com/2024/01/12/openai-changes-policy-to-allow-military-applications/)
-- [SpaceX Dragon capsule arrives at pad for Ax-3 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-dragon-arrives-launch-site-ax-3-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
