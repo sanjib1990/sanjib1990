@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A postcard from Las Vegas and CES](https://techcrunch.com/2024/01/12/a-postcard-from-las-vegas-and-ces/)
+- [New &#39;Star Trek&#39; film will explore early years of Starfleet, Paramount reveals](https://www.space.com/new-star-trek-film-early-starfleet-revealed)
+- [How low can bitcoin ETF fees drop before it hurts a business?](https://techcrunch.com/2024/01/12/how-low-can-bitcoin-etf-fees-drop-before-it-hurts-a-business/)
+- [Why valves are a spacecraft engineer’s worst nightmare](https://techcrunch.com/2024/01/12/why-valves-are-a-spacecraft-engineers-worst-nightmare/)
 - [How to build a solid — and profitable! — AI startup](https://techcrunch.com/2024/01/12/how-to-build-a-solid-and-profitable-ai-startup/)
-- [Private Peregrine moon lander&#39;s fuel leak continues to slow](https://www.space.com/astrobotic-peregrine-moon-lander-fuel-leak-slows)
-- [Hertz is selling its EVs because it botched the rollout for ride-share drivers](https://techcrunch.com/2024/01/12/reason-is-hertz-selling-evs/)
-- [&#39;For All Mankind&#39; season 4 episode 10 review: A season finale that saves the best for last](https://www.space.com/for-all-mankind-season-4-episode-10-review)
-- [Coast Runner launching a $2,400 CNC mill soon](https://techcrunch.com/2024/01/12/coast-runner-cnc-ces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
