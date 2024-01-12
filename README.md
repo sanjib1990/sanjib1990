@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyundai Motor India fixes bug that exposed customers’ personal data](https://techcrunch.com/2024/01/11/hyundai-motor-india-data-exposed/)
 - [Google will allow more real-money games on the Play Store](https://techcrunch.com/2024/01/11/google-will-allow-more-real-money-games-on-the-play-store/)
 - [Smart pepper spray startup 444 is back at CES with a major partnership deal](https://techcrunch.com/2024/01/11/444-mace-ces/)
 - [Dextrous Robotics closes up shop](https://techcrunch.com/2024/01/11/dextrous-robotics-closes-up-shop/)
 - [OpenAI-backed 1X raises another $100M for the race to humanoid robots](https://techcrunch.com/2024/01/11/openai-backed-1x-raises-another-100m-for-the-race-to-humanoid-robots/)
-- [CES 2024: The biggest transportation news, from Honda’s EVs to Hyundai’s air taxi ambitions](https://techcrunch.com/2024/01/11/ces-2024-the-biggest-transportation-news-from-hondas-evs-to-hyundais-air-taxi-ambitions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
