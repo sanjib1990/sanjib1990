@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Newfound Earth-size exoplanet has a scorching-hot lava side](https://www.space.com/newfound-exoplanet-hd-63433d-lava-hemisphere-tess)
-- [Framework says hackers accessed customer data after phishing attack on accounting partner](https://techcrunch.com/2024/01/12/framework-customer-data-stolen-phishing-keating-accounting/)
-- [How to pick a name for your AI startup](https://techcrunch.com/2024/01/12/how-to-pick-a-name-for-your-ai-startup/)
-- [Astronomers accidentally discover &#39;dark&#39; primordial galaxy with no visible stars](https://www.space.com/dark-primordial-galaxy-no-stars-green-bank-observatory)
-- [This huge exoplanet&#39;s comet-like tail is 350,000 miles long and scientists are thrilled](https://www.space.com/huge-exoplanet-comet-like-tail-350000-miles-long)
+- [Prometeo raises $13M from PayPal, Samsung, and more to bring open banking to Latin America](https://techcrunch.com/2024/01/12/prometeo-raises-13m-from-paypal-samsung-and-more-to-bring-open-banking-to-latin-america/)
+- [James Webb Space Telescope catches young planetary system by its dusty &#39;cat&#39;s tail&#39; &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-beta-pictoris-planetary-system-photo)
+- [Threads will allow you to follow Mastodon users by year-end, according to Meta meeting details](https://techcrunch.com/2024/01/12/threads-will-allow-you-to-follow-mastodon-users-by-year-end-according-to-meta-meeting-details/)
+- [Will 2024 &lpar;finally&rpar; be the year of the autonomous vehicle?](https://techcrunch.com/2024/01/12/will-2024-finally-be-the-year-of-the-autonomous-vehicle/)
+- [The best DJI drones for all budgets 2024](https://www.space.com/best-dji-drones-for-all-budgets-christmas-gift-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
