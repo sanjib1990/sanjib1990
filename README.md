@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Qortex’s $10M Seed deck](https://techcrunch.com/2024/01/12/sample-seed-pitch-deck-qortex/)
+- [NASA unveils the revolutionary X-59 Quesst &#39;quiet&#39; supersonic jet](https://www.space.com/nasa-x-59-quesst-supersonic-jet-unveiled)
+- [Surprise gamma-ray discovery could shed light on cosmic mystery](https://www.space.com/surprise-gamma-ray-discovery-fermi-telescope)
+- [OpenAI changes policy to allow military applications](https://techcrunch.com/2024/01/12/openai-changes-policy-to-allow-military-applications/)
 - [SpaceX Dragon capsule arrives at pad for Ax-3 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-dragon-arrives-launch-site-ax-3-photos)
-- [TuSimple’s self-driving trucks up for auction following U.S. exit](https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/)
-- [CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI](https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/)
-- [‘Cooking with Lynja’ star and ‘the internet’s grandma’ Lynn Yamada Davis has died](https://techcrunch.com/2024/01/12/lynn-yamada-davis-cooking-with-lynja-internet-grandma-tiktok-star-died/)
-- [A postcard from Las Vegas and CES](https://techcrunch.com/2024/01/12/a-postcard-from-las-vegas-and-ces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
