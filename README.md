@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [At last! NASA finally frees lid of asteroid Bennu sample capsule after battling stuck fasteners](https://www.space.com/nasa-removes-stuck-fasteners-osiris-rex-asteroid-samples)
-- [Road trip! See April&#39;s total solar eclipse from one of these awesome North American routes](https://www.space.com/total-solar-eclipse-april-8-2024-6-road-trip-ideas)
-- [New, tried-and-true ways to network at TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/12/new-tried-and-true-ways-to-network-at-techcrunch-early-stage-2024/)
-- [Japan&#39;s 1st launch of 2024 sends spy satellite to orbit &lpar;photos&rpar;](https://www.space.com/japan-spy-satellite-launch-success-igs-optical-8)
-- [Prometeo raises $13M from PayPal, Samsung and more to bring open banking to Latin America](https://techcrunch.com/2024/01/12/prometeo-raises-13m-from-paypal-samsung-and-more-to-bring-open-banking-to-latin-america/)
+- [Coast Runner launching a $2,400 CNC mill soon](https://techcrunch.com/2024/01/12/coast-runner-cnc-ces/)
+- [Wispy ice clouds may form above Venus&#39; hellish surface](https://www.space.com/wispy-ice-clouds-may-form-above-venus-hellish-surface)
+- [Nasdaq CEO’s comments about IPOs portend sunny skies ahead for the tech industry](https://techcrunch.com/2024/01/12/tech-ipos-filings-nasdaq/)
+- [2023 was the hottest year on record, NASA and NOAA say](https://www.space.com/nasa-noaa-2023-hottest-year-on-record)
+- [The search for better unit economics prompts consumer tech investors to shift focus](https://techcrunch.com/2024/01/12/cpg-consumer-tech-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
