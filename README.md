@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Regular Expressions - Computerphile](https://www.youtube.com/watch?v=DqabogrIVNk)
 - [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8)
 - [Tmux is a LINUX SUPERPOWER](https://www.youtube.com/watch?v=ONNYnv2DGFo)
 - [This OS doesn&#39;t care if you get hacked...](https://www.youtube.com/watch?v=_-6grju3KQU)
 - [3 Levels of WiFi Hacking](https://www.youtube.com/watch?v=dZwbb42pdtg)
-- [the ChatGPT store is about to launch… let’s get rich](https://www.youtube.com/watch?v=9T_wv6D8PYo)
 <!-- YOUTUBE:END -->
 
 ---
