@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prometeo raises $13M from PayPal, Samsung, and more to bring open banking to Latin America](https://techcrunch.com/2024/01/12/prometeo-raises-13m-from-paypal-samsung-and-more-to-bring-open-banking-to-latin-america/)
-- [James Webb Space Telescope catches young planetary system by its dusty &#39;cat&#39;s tail&#39; &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-beta-pictoris-planetary-system-photo)
-- [Threads will allow you to follow Mastodon users by year-end, according to Meta meeting details](https://techcrunch.com/2024/01/12/threads-will-allow-you-to-follow-mastodon-users-by-year-end-according-to-meta-meeting-details/)
-- [Will 2024 &lpar;finally&rpar; be the year of the autonomous vehicle?](https://techcrunch.com/2024/01/12/will-2024-finally-be-the-year-of-the-autonomous-vehicle/)
-- [The best DJI drones for all budgets 2024](https://www.space.com/best-dji-drones-for-all-budgets-christmas-gift-guide)
+- [At last! NASA finally frees lid of asteroid Bennu sample capsule after battling stuck fasteners](https://www.space.com/nasa-removes-stuck-fasteners-osiris-rex-asteroid-samples)
+- [Road trip! See April&#39;s total solar eclipse from one of these awesome North American routes](https://www.space.com/total-solar-eclipse-april-8-2024-6-road-trip-ideas)
+- [New, tried-and-true ways to network at TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/12/new-tried-and-true-ways-to-network-at-techcrunch-early-stage-2024/)
+- [Japan&#39;s 1st launch of 2024 sends spy satellite to orbit &lpar;photos&rpar;](https://www.space.com/japan-spy-satellite-launch-success-igs-optical-8)
+- [Prometeo raises $13M from PayPal, Samsung and more to bring open banking to Latin America](https://techcrunch.com/2024/01/12/prometeo-raises-13m-from-paypal-samsung-and-more-to-bring-open-banking-to-latin-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
