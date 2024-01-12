@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a solid — and profitable! — AI startup](https://techcrunch.com/2024/01/12/how-to-build-a-solid-and-profitable-ai-startup/)
+- [Private Peregrine moon lander&#39;s fuel leak continues to slow](https://www.space.com/astrobotic-peregrine-moon-lander-fuel-leak-slows)
+- [Hertz is selling its EVs because it botched the rollout for ride-share drivers](https://techcrunch.com/2024/01/12/reason-is-hertz-selling-evs/)
+- [&#39;For All Mankind&#39; season 4 episode 10 review: A season finale that saves the best for last](https://www.space.com/for-all-mankind-season-4-episode-10-review)
 - [Coast Runner launching a $2,400 CNC mill soon](https://techcrunch.com/2024/01/12/coast-runner-cnc-ces/)
-- [Wispy ice clouds may form above Venus&#39; hellish surface](https://www.space.com/wispy-ice-clouds-may-form-above-venus-hellish-surface)
-- [Nasdaq CEO’s comments about IPOs portend sunny skies ahead for the tech industry](https://techcrunch.com/2024/01/12/tech-ipos-filings-nasdaq/)
-- [2023 was the hottest year on record, NASA and NOAA say](https://www.space.com/nasa-noaa-2023-hottest-year-on-record)
-- [The search for better unit economics prompts consumer tech investors to shift focus](https://techcrunch.com/2024/01/12/cpg-consumer-tech-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
