@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What CES 2024 told us about the home robot](https://techcrunch.com/2024/01/12/what-ces-2024-told-us-about-the-home-robot/)
 - [CES 2024: The weirdest tech, gadgets and AI claims from Las Vegas](https://techcrunch.com/2024/01/12/ces-2024-the-weirdest-tech-gadgets-and-ai-claims-from-in-las-vegas/)
 - [Makera is releasing a baby sibling of its Carvera desktop 4-axis mill](https://techcrunch.com/2024/01/12/makera-air-ces-kickstarter/)
 - [X-59 ‘Quiet supersonic’ jet from NASA and Lockheed finally rolls out](https://techcrunch.com/2024/01/12/x-59-quiet-supersonic-jet-from-nasa-and-lockheed-finally-rolls-out/)
 - [Instagram co-founders’ news aggregation startup Artifact to shut down](https://techcrunch.com/2024/01/12/instagram-co-founders-news-aggregation-startup-artifact-to-shut-down/)
-- [Pitch Deck Teardown: Qortex’s $10M Seed deck](https://techcrunch.com/2024/01/12/sample-seed-pitch-deck-qortex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
