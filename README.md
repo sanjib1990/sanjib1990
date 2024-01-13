@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [All the future of transportation tech that stood out at CES 2024](https://techcrunch.com/2024/01/13/all-the-future-of-transportation-tech-that-stood-out-at-ces-2024/)
+- [Carta takes heat, Samsung unveils an upgraded Ballie, and Volkswagen brings ChatGPT to cars](https://techcrunch.com/2024/01/13/carta-takes-heat-samsung-unveils-an-upgraded-ballie-and-volkswagen-brings-chatgpt-to-cars/)
 - [SpaceX to launch 23 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-37)
 - [Age tech at CES was much more than gadgets](https://techcrunch.com/2024/01/13/age-tech-startups-ces/)
 - [The creator economy is ready for a workers’ movement](https://techcrunch.com/2024/01/13/the-creator-economy-is-ready-for-a-workers-movement/)
-- [Deal Dive: Tier and Dott’s merger is not a sign of what’s to come in M&amp;A this year](https://techcrunch.com/2024/01/13/tier-dott-merger-acquisitions-2024/)
-- [Anthropic researchers find that AI models can be trained to deceive](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
