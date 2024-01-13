@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Age tech at CES was much more than gadgets](https://techcrunch.com/2024/01/13/age-tech-startups-ces/)
 - [The creator economy is ready for a workers’ movement](https://techcrunch.com/2024/01/13/the-creator-economy-is-ready-for-a-workers-movement/)
 - [Deal Dive: Tier and Dott’s merger is not a sign of what’s to come in M&amp;A this year](https://techcrunch.com/2024/01/13/tier-dott-merger-acquisitions-2024/)
 - [Anthropic researchers find that AI models can be trained to deceive](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive/)
 - [This Week In Space podcast: Episode 93 — Does America really want to go back to the moon?](https://www.space.com/this-week-in-space-episode-93-america-and-the-moon)
-- [Google pulls Binance, other global crypto apps from India store](https://techcrunch.com/2024/01/13/google-pulls-binance-other-global-crypto-apps-from-india-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
