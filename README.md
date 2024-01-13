@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When it comes to startups’ flight to quality, have we swung too far in the other direction?](https://techcrunch.com/2024/01/13/when-it-comes-to-startups-flight-to-quality-have-we-swung-too-far-in-the-other-direction/)
+- [Startups should use this co-selling technique for successful partnerships with cloud hyperscalers](https://techcrunch.com/2024/01/13/startups-should-use-this-co-selling-technique-for-successful-partnerships-with-cloud-hyperscalers/)
 - [NASA&#39;s Lunar Retroreflector Network could make landing on the moon much easier](https://www.space.com/the-universe/moon/nasas-lunar-retroreflector-network-could-make-landing-on-the-moon-much-easier)
 - [TechCrunch’s newsletters are changing; here’s what you need to know](https://techcrunch.com/2024/01/13/techcrunchs-newsletters-are-changing-heres-what-you-need-to-know/)
 - [Zupyak’s unique startup journey — Building companies without a fixed idea](https://techcrunch.com/2024/01/13/zupyaks-unique-startup-journey-building-companies-without-a-fixed-idea/)
-- [What CES 2024 told us about the home robot](https://techcrunch.com/2024/01/12/what-ces-2024-told-us-about-the-home-robot/)
-- [CES 2024: The weirdest tech, gadgets and AI claims from Las Vegas](https://techcrunch.com/2024/01/12/ces-2024-the-weirdest-tech-gadgets-and-ai-claims-from-in-las-vegas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
