@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The creator economy is ready for a workers’ movement](https://techcrunch.com/2024/01/13/the-creator-economy-is-ready-for-a-workers-movement/)
+- [Deal Dive: Tier and Dott’s merger is not a sign of what’s to come in M&amp;A this year](https://techcrunch.com/2024/01/13/tier-dott-merger-acquisitions-2024/)
+- [Anthropic researchers find that AI models can be trained to deceive](https://techcrunch.com/2024/01/13/anthropic-researchers-find-that-ai-models-can-be-trained-to-deceive/)
+- [This Week In Space podcast: Episode 93 — Does America really want to go back to the moon?](https://www.space.com/this-week-in-space-episode-93-america-and-the-moon)
 - [Google pulls Binance, other global crypto apps from India store](https://techcrunch.com/2024/01/13/google-pulls-binance-other-global-crypto-apps-from-india-store/)
-- [Hobbled Peregrine moon lander limps to lunar distance as Astrobotic fights to keep it alive](https://www.space.com/astrobotic-peregrine-moon-lander-lunar-distance)
-- [When it comes to startups’ flight to quality, have we swung too far in the other direction?](https://techcrunch.com/2024/01/13/when-it-comes-to-startups-flight-to-quality-have-we-swung-too-far-in-the-other-direction/)
-- [Startups should use this co-selling technique for successful partnerships with cloud hyperscalers](https://techcrunch.com/2024/01/13/startups-should-use-this-co-selling-technique-for-successful-partnerships-with-cloud-hyperscalers/)
-- [NASA&#39;s Lunar Retroreflector Network could make landing on the moon much easier](https://www.space.com/the-universe/moon/nasas-lunar-retroreflector-network-could-make-landing-on-the-moon-much-easier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
