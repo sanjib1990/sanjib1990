@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ailing Peregrine moon lander on path to crash into Earth, Astrobotic says](https://www.space.com/astrobotic-peregrine-moon-lander-headed-to-earth)
 - [Countdown Capital winding down is not a bad omen for micro funds](https://techcrunch.com/2024/01/14/countdown-capital-micro-funds-analysis/)
 - [Carta’s missteps and real estate fintech’s up-and-down week](https://techcrunch.com/2024/01/14/cartas-missteps-and-real-estate-fintechs-up-and-down-week/)
 - [The strange story of the grave of Copernicus](https://www.space.com/copernicus-astronomy-grave-story)
 - [As more than $1 trillion flows into climate tech, incentive-tracking apps find firm footing](https://techcrunch.com/2024/01/14/climate-tech-incentives/)
-- [New &#39;Star Trek&#39; movie featuring Picard is on the way, Patrick Stewart says](https://www.space.com/star-trek-new-picard-movie-patrick-stewart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
