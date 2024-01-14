@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Countdown Capital winding down is not a bad omen for micro funds](https://techcrunch.com/2024/01/14/countdown-capital-micro-funds-analysis/)
+- [Carta’s missteps and real estate fintech’s up-and-down week](https://techcrunch.com/2024/01/14/cartas-missteps-and-real-estate-fintechs-up-and-down-week/)
 - [The strange story of the grave of Copernicus](https://www.space.com/copernicus-astronomy-grave-story)
 - [As more than $1 trillion flows into climate tech, incentive-tracking apps find firm footing](https://techcrunch.com/2024/01/14/climate-tech-incentives/)
 - [New &#39;Star Trek&#39; movie featuring Picard is on the way, Patrick Stewart says](https://www.space.com/star-trek-new-picard-movie-patrick-stewart)
-- [Look at your startup’s CAC to decide if you should launch another product](https://techcrunch.com/2024/01/14/look-at-your-startups-cac-to-decide-if-you-should-launch-another-product/)
-- [See a thin crescent moon meet up with Saturn tonight](https://www.space.com/moon-saturn-conjunction-january-14-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
