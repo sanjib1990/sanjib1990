@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [All the future of transportation tech that stood out at CES 2024](https://techcrunch.com/2024/01/13/all-the-future-of-transportation-tech-that-stood-out-at-ces-2024/)
 - [Carta takes heat, Samsung unveils an upgraded Ballie, and Volkswagen brings ChatGPT to cars](https://techcrunch.com/2024/01/13/carta-takes-heat-samsung-unveils-an-upgraded-ballie-and-volkswagen-brings-chatgpt-to-cars/)
-- [SpaceX to launch 23 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-37)
+- [SpaceX to launch 23 Starlink satellites from Florida on Jan. 14 after delay](https://www.space.com/spacex-starlink-launch-group-6-37)
 - [Age tech at CES was much more than gadgets](https://techcrunch.com/2024/01/13/age-tech-startups-ces/)
 - [The creator economy is ready for a workers’ movement](https://techcrunch.com/2024/01/13/the-creator-economy-is-ready-for-a-workers-movement/)
 <!-- BLOG-POST-LIST:END -->
