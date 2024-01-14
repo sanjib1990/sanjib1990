@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Star Trek&#39; movie featuring Picard is on the way, Patrick Stewart says](https://www.space.com/star-trek-new-picard-movie-patrick-stewart)
+- [Look at your startup’s CAC to decide if you should launch another product](https://techcrunch.com/2024/01/14/look-at-your-startups-cac-to-decide-if-you-should-launch-another-product/)
 - [See a thin crescent moon meet up with Saturn tonight](https://www.space.com/moon-saturn-conjunction-january-14-2024)
 - [We&#39;ve been &#39;close&#39; to achieving fusion power for 50 years. When will it actually happen?](https://www.space.com/when-will-we-achieve-fusion-power)
 - [All the future of transportation tech that stood out at CES 2024](https://techcrunch.com/2024/01/13/all-the-future-of-transportation-tech-that-stood-out-at-ces-2024/)
-- [Carta takes heat, Samsung unveils an upgraded Ballie, and Volkswagen brings ChatGPT to cars](https://techcrunch.com/2024/01/13/carta-takes-heat-samsung-unveils-an-upgraded-ballie-and-volkswagen-brings-chatgpt-to-cars/)
-- [SpaceX to launch 23 Starlink satellites from Florida on Jan. 14 after delay](https://www.space.com/spacex-starlink-launch-group-6-37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
