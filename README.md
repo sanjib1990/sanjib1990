@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See a thin crescent moon meet up with Saturn tonight](https://www.space.com/moon-saturn-conjunction-january-14-2024)
 - [We&#39;ve been &#39;close&#39; to achieving fusion power for 50 years. When will it actually happen?](https://www.space.com/when-will-we-achieve-fusion-power)
 - [All the future of transportation tech that stood out at CES 2024](https://techcrunch.com/2024/01/13/all-the-future-of-transportation-tech-that-stood-out-at-ces-2024/)
 - [Carta takes heat, Samsung unveils an upgraded Ballie, and Volkswagen brings ChatGPT to cars](https://techcrunch.com/2024/01/13/carta-takes-heat-samsung-unveils-an-upgraded-ballie-and-volkswagen-brings-chatgpt-to-cars/)
 - [SpaceX to launch 23 Starlink satellites from Florida on Jan. 14 after delay](https://www.space.com/spacex-starlink-launch-group-6-37)
-- [Age tech at CES was much more than gadgets](https://techcrunch.com/2024/01/13/age-tech-startups-ces/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
