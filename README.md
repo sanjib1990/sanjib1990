@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planets can form much faster than thought, new ALMA telescope photos suggest](https://www.space.com/planets-form-faster-than-thought-alma-protoplanetary-disk-photos)
+- [Will startup valuations start to recover in 2024? Investors aren’t so sure](https://techcrunch.com/2024/01/15/startup-valuations-predictions-2024/)
+- [How to mobilize generalist VCs for a moonshot idea](https://techcrunch.com/2024/01/15/how-to-mobilize-generalist-vcs-for-a-moonshot-technical-idea/)
+- [The year of ‘does this serve us’ and the rejection of reification](https://techcrunch.com/2024/01/15/the-year-of-does-this-serve-us-and-the-rejection-of-reification/)
 - [No alien life needed: Dark streaks in Venus&#39; atmosphere can be explained by iron minerals](https://www.space.com/dark-streaks-venus-atmosphere-iron-minerals-not-microbes)
-- [How resilient SaaS startups continue to build and scale in an era of efficiency](https://techcrunch.com/2024/01/15/how-resilient-saas-startups-continue-to-build-and-scale-in-an-era-of-efficiency/)
-- [Spot Technologies, now with $2M, will see AI security tech go into Mexico Walmarts](https://techcrunch.com/2024/01/15/spot-technologies-2m-retail-ai-security-tech-walmart/)
-- [Starlink close encounters decrease despite ever-growing number of satellites](https://www.space.com/spacex-starlink-collision-avoidance-maneuver-growth-stalls)
-- [How do we know what the Milky Way looks like?](https://www.space.com/how-do-we-know-what-milky-way-looks-like)
 <!-- BLOG-POST-LIST:END -->
 
 ---
