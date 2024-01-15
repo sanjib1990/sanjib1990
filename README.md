@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft launches a Pro plan for Copilot](https://techcrunch.com/2024/01/15/microsoft-launches-a-pro-plan-for-copilot/)
 - [Decade-long Dark Energy Survey offers new insights into the expansion of the universe](https://www.space.com/supernova-survey-suggests-dark-energy-may-change-over-time)
 - [Elon’s Tesla robot is sort of ‘ok’ at folding laundry in pre-scripted demo](https://techcrunch.com/2024/01/15/elons-tesla-robot-is-sort-of-ok-at-folding-laundry-in-pre-scripted-demo/)
 - [Total solar eclipse 2024: How and where to watch online for free](https://www.space.com/watch-total-solar-eclipse-april-8-online-free-livestreams)
-- [Apple’s fix for the Apple Watch Series 9 and Ultra 2 sales ban is disabling a useless feature](https://techcrunch.com/2024/01/15/apples-fix-for-the-apple-watch-series-9-and-ultra-2-sales-ban-is-disabling-a-useless-feature/)
-- [NASA&#39;s troubled Mars sample-return mission has scientists seeing red](https://www.space.com/nasa-troubled-mars-sample-return-mission-scientists-upset)
+- [Apple’s fix for the Apple Watch Series 9 and Ultra 2 sales ban could be disabling a useless feature](https://techcrunch.com/2024/01/15/apples-fix-for-the-apple-watch-series-9-and-ultra-2-sales-ban-is-disabling-a-useless-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
