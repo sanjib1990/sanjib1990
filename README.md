@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse 2024: How and where to watch online for free](https://www.space.com/watch-total-solar-eclipse-april-8-online-free-livestreams)
+- [Apple’s fix for the Apple Watch Series 9 and Ultra 2 sales ban is disabling a useless feature](https://techcrunch.com/2024/01/15/apples-fix-for-the-apple-watch-series-9-and-ultra-2-sales-ban-is-disabling-a-useless-feature/)
 - [NASA&#39;s troubled Mars sample-return mission has scientists seeing red](https://www.space.com/nasa-troubled-mars-sample-return-mission-scientists-upset)
 - [Nikon Zf review](https://www.space.com/nikon-zf-review)
 - [Meet the 4 astronauts of SpaceX&#39;s Ax-3 launch for Axiom Space](https://www.space.com/axiom-space-ax-3-meet-the-crew)
-- [Celestron&#39;s new telescope is a step away from their current line-up](https://www.space.com/celestron-origin-intelligent-home-observatory-telescope-launch-2024)
-- [Planets can form much faster than thought, new ALMA telescope photos suggest](https://www.space.com/planets-form-faster-than-thought-alma-protoplanetary-disk-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
