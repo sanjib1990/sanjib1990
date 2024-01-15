@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FedEx announces its own commerce platform for merchants](https://techcrunch.com/2024/01/15/fedex-announces-its-own-commerce-platform-for-merchants/)
 - [What would happen if Earth stopped spinning?](https://www.space.com/what-would-happen-if-earth-stopped-spinning)
 - [LG opens its first US EV charging factory in Texas](https://techcrunch.com/2024/01/14/lg-opens-its-first-us-ev-charging-factory-in-texas/)
 - [CES has almost fully succeeded in chasing sex-tech off its show floors](https://techcrunch.com/2024/01/14/ces-sex-tech/)
 - [Ailing Peregrine moon lander on path to crash into Earth, Astrobotic says](https://www.space.com/astrobotic-peregrine-moon-lander-headed-to-earth)
-- [Countdown Capital winding down is not a bad omen for micro funds](https://techcrunch.com/2024/01/14/countdown-capital-micro-funds-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
