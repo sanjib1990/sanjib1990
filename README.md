@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Decade-long Dark Energy Survey offers new insights into the expansion of the universe](https://www.space.com/supernova-survey-suggests-dark-energy-may-change-over-time)
+- [Elon’s Tesla robot is sort of ‘ok’ at folding laundry in pre-scripted demo](https://techcrunch.com/2024/01/15/elons-tesla-robot-is-sort-of-ok-at-folding-laundry-in-pre-scripted-demo/)
 - [Total solar eclipse 2024: How and where to watch online for free](https://www.space.com/watch-total-solar-eclipse-april-8-online-free-livestreams)
 - [Apple’s fix for the Apple Watch Series 9 and Ultra 2 sales ban is disabling a useless feature](https://techcrunch.com/2024/01/15/apples-fix-for-the-apple-watch-series-9-and-ultra-2-sales-ban-is-disabling-a-useless-feature/)
 - [NASA&#39;s troubled Mars sample-return mission has scientists seeing red](https://www.space.com/nasa-troubled-mars-sample-return-mission-scientists-upset)
-- [Nikon Zf review](https://www.space.com/nikon-zf-review)
-- [Meet the 4 astronauts of SpaceX&#39;s Ax-3 launch for Axiom Space](https://www.space.com/axiom-space-ax-3-meet-the-crew)
 <!-- BLOG-POST-LIST:END -->
 
 ---
