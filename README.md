@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CES 2024… a glimpse into our dystopian future](https://www.youtube.com/watch?v=eHzoTLwx01E)
+- [CES 2024… a glimpse into our AI-powered future](https://www.youtube.com/watch?v=eHzoTLwx01E)
 - [Python Regular Expressions - Computerphile](https://www.youtube.com/watch?v=DqabogrIVNk)
 - [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8)
 - [Tmux is a LINUX SUPERPOWER](https://www.youtube.com/watch?v=ONNYnv2DGFo)
