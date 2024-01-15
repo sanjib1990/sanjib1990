@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s troubled Mars sample-return mission has scientists seeing red](https://www.space.com/nasa-troubled-mars-sample-return-mission-scientists-upset)
+- [Nikon Zf review](https://www.space.com/nikon-zf-review)
 - [Meet the 4 astronauts of SpaceX&#39;s Ax-3 launch for Axiom Space](https://www.space.com/axiom-space-ax-3-meet-the-crew)
 - [Celestron&#39;s new telescope is a step away from their current line-up](https://www.space.com/celestron-origin-intelligent-home-observatory-telescope-launch-2024)
 - [Planets can form much faster than thought, new ALMA telescope photos suggest](https://www.space.com/planets-form-faster-than-thought-alma-protoplanetary-disk-photos)
-- [Will startup valuations start to recover in 2024? Investors aren’t so sure](https://techcrunch.com/2024/01/15/startup-valuations-predictions-2024/)
-- [How to mobilize generalist VCs for a moonshot idea](https://techcrunch.com/2024/01/15/how-to-mobilize-generalist-vcs-for-a-moonshot-technical-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
