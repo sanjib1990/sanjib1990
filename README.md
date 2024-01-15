@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spot Technologies, now with $2M, will see AI security tech go into Mexico Walmarts](https://techcrunch.com/2024/01/15/spot-technologies-2m-retail-ai-security-tech-walmart/)
+- [Starlink close encounters decrease despite ever-growing number of satellites](https://www.space.com/spacex-starlink-collision-avoidance-maneuver-growth-stalls)
 - [How do we know what the Milky Way looks like?](https://www.space.com/how-do-we-know-what-milky-way-looks-like)
 - [FedEx announces its own commerce platform for merchants](https://techcrunch.com/2024/01/15/fedex-announces-its-own-commerce-platform-for-merchants/)
 - [What would happen if Earth stopped spinning?](https://www.space.com/what-would-happen-if-earth-stopped-spinning)
-- [LG opens its first US EV charging factory in Texas](https://techcrunch.com/2024/01/14/lg-opens-its-first-us-ev-charging-factory-in-texas/)
-- [CES has almost fully succeeded in chasing sex-tech off its show floors](https://techcrunch.com/2024/01/14/ces-sex-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
