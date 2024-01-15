@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No alien life needed: Dark streaks in Venus&#39; atmosphere can be explained by iron minerals](https://www.space.com/dark-streaks-venus-atmosphere-iron-minerals-not-microbes)
+- [How resilient SaaS startups continue to build and scale in an era of efficiency](https://techcrunch.com/2024/01/15/how-resilient-saas-startups-continue-to-build-and-scale-in-an-era-of-efficiency/)
 - [Spot Technologies, now with $2M, will see AI security tech go into Mexico Walmarts](https://techcrunch.com/2024/01/15/spot-technologies-2m-retail-ai-security-tech-walmart/)
 - [Starlink close encounters decrease despite ever-growing number of satellites](https://www.space.com/spacex-starlink-collision-avoidance-maneuver-growth-stalls)
 - [How do we know what the Milky Way looks like?](https://www.space.com/how-do-we-know-what-milky-way-looks-like)
-- [FedEx announces its own commerce platform for merchants](https://techcrunch.com/2024/01/15/fedex-announces-its-own-commerce-platform-for-merchants/)
-- [What would happen if Earth stopped spinning?](https://www.space.com/what-would-happen-if-earth-stopped-spinning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
