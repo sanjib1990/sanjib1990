@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [African neobank Kuda raised $20M at flat valuation last year, missed user milestone projection by 3M](https://techcrunch.com/2024/01/16/african-neobank-kuda-raised-20m-at-flat-valuation-last-year-missed-user-milestone-projection-by-3m/)
-- [Goodnotes acquires a AI-powered video summary startup as it looks beyond education](https://techcrunch.com/2024/01/16/goodnotes-acquires-a-ai-powered-video-summary-startup-as-it-looks-beyond-education/)
-- [Singapore’s Locofy launches its one-click design-to-code tool](https://techcrunch.com/2024/01/15/locofy-lightning/)
-- [Fisker’s electric Ocean SUV under investigation over braking loss complaints](https://techcrunch.com/2024/01/15/fisker-ocean-suv-nhtsa-investiagtion-brakes/)
-- [Microsoft launches a Pro plan for Copilot](https://techcrunch.com/2024/01/15/microsoft-launches-a-pro-plan-for-copilot/)
+- [Thomvest Ventures closes $250M fund to invest across fintech, cybersecurity, AI](https://techcrunch.com/2024/01/16/thomvest-ventures-250m-fund-venture-capital-fintech-cybersecurity-ai/)
+- [Curious Kids: Why are some black holes bigger than others?](https://www.space.com/why-are-some-black-holes-bigger-than-others)
+- [Pinecone’s vector database gets a new serverless architecture](https://techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/)
+- [Welcome to the next step in smart telescope astronomy: Unistellar Odyssey](https://www.space.com/unistellar-odyssey-pro-smart-telescope-launch-ces-2024)
+- [African neobank Kuda raised $20M at flat valuation in 2023, missed user milestone projection by 3M](https://techcrunch.com/2024/01/16/african-neobank-kuda-raised-20m-at-flat-valuation-last-year-missed-user-milestone-projection-by-3m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
