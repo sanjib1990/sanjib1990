@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk reveals cause of Starship explosion, discusses giant rocket&#39;s future &lpar;video&rpar;](https://www.space.com/spacex-starship-second-flight-explosion-cause)
+- [What time is the SpaceX Ax-3 astronaut launch for Axiom Space? How to watch it live on Jan. 17.](https://www.space.com/spacex-ax-3-astronaut-launch-what-time)
 - [&#39;Star Trek: The Mission and Other Stories&#39; offers fans a stellar new anthology](https://www.space.com/star-trek-the-mission-other-stories-anthology)
 - [&#39;Star Trek&#39; on Mars? Curiosity rover spots Starfleet symbol on Red Planet](https://www.space.com/curiosity-mars-rover-star-trek-symbol-rock)
 - [Fancy founder returns with $1000-per-month luxury shopping startup, Long Story Short](https://techcrunch.com/2024/01/16/fancy-founder-returns-with-1000-per-month-luxury-shopping-startup-long-story-short/)
-- [How Magic Spoon CEO knew it was time to transition from DTC to in-store retail](https://techcrunch.com/2024/01/16/how-magic-spoon-ceo-knew-it-was-time-to-transition-from-dtc-to-in-store-retail/)
-- [Moon rock revelations could solve lingering lunar geology puzzle](https://www.space.com/moon-rock-revelations-could-solve-lingering-lunar-geology-puzzle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
