@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ask Me Anything](https://www.youtube.com/watch?v=Obuvkt_3flM)
 - [CES 2024… a glimpse into our AI-powered future](https://www.youtube.com/watch?v=eHzoTLwx01E)
 - [Python Regular Expressions - Computerphile](https://www.youtube.com/watch?v=DqabogrIVNk)
 - [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8)
 - [Tmux is a LINUX SUPERPOWER](https://www.youtube.com/watch?v=ONNYnv2DGFo)
-- [This OS doesn&#39;t care if you get hacked...](https://www.youtube.com/watch?v=_-6grju3KQU)
 <!-- YOUTUBE:END -->
 
 ---
