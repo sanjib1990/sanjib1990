@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last built-for-flight external tank lifted into place for space shuttle Endeavour exhibit](https://www.space.com/shuttle-endeavour-exhibit-external-tank-lift)
-- [Snyk acquires Helios to bolster its AppSec platform](https://techcrunch.com/2024/01/16/snyk-acquires-helios-to-bolster-its-appsec-platform/)
-- [Hackers begin mass exploiting Ivanti VPN zero-day flaws](https://techcrunch.com/2024/01/16/hackers-ivanti-vpn-mass-exploitation/)
-- [EV charging startup Electra secures $330 million](https://techcrunch.com/2024/01/16/ev-charging-startup-electra-secures-330-million/)
-- [Supreme Court declines to hear Apple-Epic antitrust case, meaning app makers can now point customers to the web](https://techcrunch.com/2024/01/16/supreme-court-declines-to-hear-apple-epic-antitrust-case-meaning-developers-can-point-customers-to-the-web/)
+- [Infield wants to make open-source dependency management trivial](https://techcrunch.com/2024/01/16/infield-wants-to-make-open-source-dependency-management-trivial/)
+- [Hubble Telescope reveals galaxy that hosted a supernova 2.5 billion times brighter than the sun &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-image-galaxy-UGC5189A-supernova-eruption-highly-luminous)
+- [Doomed Peregrine moon lander will burn up in Earth&#39;s atmosphere — but we don&#39;t yet know where](https://www.space.com/astrobotic-peregrine-moon-lander-leak-practically-stopped-Earth-collision)
+- [Connect with FYELABS, Skillcloud Consulting Group and Wiggin and Dana LLP at TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/16/connect-with-fyelabs-skillcloud-consulting-group-and-wiggin-and-dana-llp-at-techcrunch-early-stage-2024/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/01/16/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
