@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Vision Pro to launch with 150 3D movies, immersive films and series, Disney+, Max and more](https://techcrunch.com/2024/01/16/apple-vision-pro-to-launch-with-150-3d-movies-immersive-films-and-series-disney-max-and-more/)
-- [Beeper users say Apple is now blocking their Macs from using iMessage entirely](https://techcrunch.com/2024/01/16/beeper-users-say-apple-is-now-blocking-their-macs-from-using-imessage-entirely/)
-- [How web3 can have a 2024 comeback](https://techcrunch.com/2024/01/16/how-web3-can-have-a-2024-comeback/)
-- [Tired and tested: Onera raises $32M to help clinicians conduct sleep studies in patients’ homes](https://techcrunch.com/2024/01/16/polysomnography-onera-sleep-studies/)
-- [Axiom Space Ax-3 private spaceflight with SpaceX: Mission updates](https://www.space.com/news/live/axiom-space-missions-updates)
+- [Last built-for-flight external tank lifted into place for space shuttle Endeavour exhibit](https://www.space.com/shuttle-endeavour-exhibit-external-tank-lift)
+- [Snyk acquires Helios to bolster its AppSec platform](https://techcrunch.com/2024/01/16/snyk-acquires-helios-to-bolster-its-appsec-platform/)
+- [Hackers begin mass exploiting Ivanti VPN zero-day flaws](https://techcrunch.com/2024/01/16/hackers-ivanti-vpn-mass-exploitation/)
+- [EV charging startup Electra secures $330 million](https://techcrunch.com/2024/01/16/ev-charging-startup-electra-secures-330-million/)
+- [Supreme Court declines to hear Apple-Epic antitrust case, meaning app makers can now point customers to the web](https://techcrunch.com/2024/01/16/supreme-court-declines-to-hear-apple-epic-antitrust-case-meaning-developers-can-point-customers-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
