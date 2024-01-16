@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon rock revelations could solve lingering lunar geology puzzle](https://www.space.com/moon-rock-revelations-could-solve-lingering-lunar-geology-puzzle)
+- [The mobile regulatory landscape is changing at an inconvenient time for Apple](https://techcrunch.com/2024/01/16/apple-app-store-revenue/)
+- [SpaceX rolls rocket to pad for Ax-3 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-falcon-9-rocket-ax-3-photos)
 - [Infield wants to make open-source dependency management trivial](https://techcrunch.com/2024/01/16/infield-wants-to-make-open-source-dependency-management-trivial/)
 - [Hubble Telescope reveals galaxy that hosted a supernova 2.5 billion times brighter than the sun &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-image-galaxy-UGC5189A-supernova-eruption-highly-luminous)
-- [Doomed Peregrine moon lander will burn up in Earth&#39;s atmosphere — but we don&#39;t yet know where](https://www.space.com/astrobotic-peregrine-moon-lander-leak-practically-stopped-Earth-collision)
-- [Connect with FYELABS, Skillcloud Consulting Group and Wiggin and Dana LLP at TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/16/connect-with-fyelabs-skillcloud-consulting-group-and-wiggin-and-dana-llp-at-techcrunch-early-stage-2024/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/01/16/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
