@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodnotes acquires a AI-powered video summary startup as it looks beyond education](https://techcrunch.com/2024/01/16/goodnotes-acquires-a-ai-powered-video-summary-startup-as-it-looks-beyond-education/)
 - [Singapore’s Locofy launches its one-click design-to-code tool](https://techcrunch.com/2024/01/15/locofy-lightning/)
 - [Fisker’s electric Ocean SUV under investigation over braking loss complaints](https://techcrunch.com/2024/01/15/fisker-ocean-suv-nhtsa-investiagtion-brakes/)
 - [Microsoft launches a Pro plan for Copilot](https://techcrunch.com/2024/01/15/microsoft-launches-a-pro-plan-for-copilot/)
 - [Decade-long Dark Energy Survey offers new insights into the expansion of the universe](https://www.space.com/supernova-survey-suggests-dark-energy-may-change-over-time)
-- [Elon’s Tesla robot is sort of ‘ok’ at folding laundry in pre-scripted demo](https://techcrunch.com/2024/01/15/elons-tesla-robot-is-sort-of-ok-at-folding-laundry-in-pre-scripted-demo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
