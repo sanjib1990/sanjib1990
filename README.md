@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists discover cosmic fossil created by erupting supermassive black hole](https://www.space.com/cosmic-fossil-created-by-erupting-supermassive-black-hole)
-- [Uber is closing alcohol delivery service Drizly three years after acquistion](https://techcrunch.com/2024/01/16/uber-is-closing-alcohol-delivery-service-drizly-three-years-after-acquistion/)
-- [OpenAI announces team to build ‘crowdsourced’ governance ideas into its models](https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/)
-- [Why most GTM slides suck — and how to fix them](https://techcrunch.com/2024/01/16/why-most-gtm-slides-suck-and-how-to-fix-them/)
-- [Xyte stirs up $30M to enable any hardware maker to build subscription products](https://techcrunch.com/2024/01/16/xyte-stirs-up-30m-to-enable-any-hardware-maker-to-build-subscription-products/)
+- [Apple Vision Pro to launch with 150 3D movies, immersive films and series, Disney+, Max and more](https://techcrunch.com/2024/01/16/apple-vision-pro-to-launch-with-150-3d-movies-immersive-films-and-series-disney-max-and-more/)
+- [Beeper users say Apple is now blocking their Macs from using iMessage entirely](https://techcrunch.com/2024/01/16/beeper-users-say-apple-is-now-blocking-their-macs-from-using-imessage-entirely/)
+- [How web3 can have a 2024 comeback](https://techcrunch.com/2024/01/16/how-web3-can-have-a-2024-comeback/)
+- [Tired and tested: Onera raises $32M to help clinicians conduct sleep studies in patients’ homes](https://techcrunch.com/2024/01/16/polysomnography-onera-sleep-studies/)
+- [Axiom Space Ax-3 private spaceflight with SpaceX: Mission updates](https://www.space.com/news/live/axiom-space-missions-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
