@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fancy founder returns with $1000-per-month luxury shopping startup, Long Story Short](https://techcrunch.com/2024/01/16/fancy-founder-returns-with-1000-per-month-luxury-shopping-startup-long-story-short/)
+- [How Magic Spoon CEO knew it was time to transition from DTC to in-store retail](https://techcrunch.com/2024/01/16/how-magic-spoon-ceo-knew-it-was-time-to-transition-from-dtc-to-in-store-retail/)
 - [Moon rock revelations could solve lingering lunar geology puzzle](https://www.space.com/moon-rock-revelations-could-solve-lingering-lunar-geology-puzzle)
 - [The mobile regulatory landscape is changing at an inconvenient time for Apple](https://techcrunch.com/2024/01/16/apple-app-store-revenue/)
 - [SpaceX rolls rocket to pad for Ax-3 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-falcon-9-rocket-ax-3-photos)
-- [Infield wants to make open-source dependency management trivial](https://techcrunch.com/2024/01/16/infield-wants-to-make-open-source-dependency-management-trivial/)
-- [Hubble Telescope reveals galaxy that hosted a supernova 2.5 billion times brighter than the sun &lpar;photo&rpar;](https://www.space.com/hubble-space-telescope-image-galaxy-UGC5189A-supernova-eruption-highly-luminous)
 <!-- BLOG-POST-LIST:END -->
 
 ---
