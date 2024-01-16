@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thomvest Ventures closes $250M fund to invest across fintech, cybersecurity, AI](https://techcrunch.com/2024/01/16/thomvest-ventures-250m-fund-venture-capital-fintech-cybersecurity-ai/)
-- [Curious Kids: Why are some black holes bigger than others?](https://www.space.com/why-are-some-black-holes-bigger-than-others)
-- [Pinecone’s vector database gets a new serverless architecture](https://techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/)
-- [Welcome to the next step in smart telescope astronomy: Unistellar Odyssey](https://www.space.com/unistellar-odyssey-pro-smart-telescope-launch-ces-2024)
-- [African neobank Kuda raised $20M at flat valuation in 2023, missed user milestone projection by 3M](https://techcrunch.com/2024/01/16/african-neobank-kuda-raised-20m-at-flat-valuation-last-year-missed-user-milestone-projection-by-3m/)
+- [Scientists discover cosmic fossil created by erupting supermassive black hole](https://www.space.com/cosmic-fossil-created-by-erupting-supermassive-black-hole)
+- [Uber is closing alcohol delivery service Drizly three years after acquistion](https://techcrunch.com/2024/01/16/uber-is-closing-alcohol-delivery-service-drizly-three-years-after-acquistion/)
+- [OpenAI announces team to build ‘crowdsourced’ governance ideas into its models](https://techcrunch.com/2024/01/16/openai-announces-team-to-build-crowdsourced-governance-ideas-into-its-models/)
+- [Why most GTM slides suck — and how to fix them](https://techcrunch.com/2024/01/16/why-most-gtm-slides-suck-and-how-to-fix-them/)
+- [Xyte stirs up $30M to enable any hardware maker to build subscription products](https://techcrunch.com/2024/01/16/xyte-stirs-up-30m-to-enable-any-hardware-maker-to-build-subscription-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
