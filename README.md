@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Rocket Boy, a game studio from former Grand Theft Auto developer, raises $110M](https://techcrunch.com/2024/01/17/build-a-rocket-boy-grand-theft-auto-everywhere/)
-- [Apple iPhone 15 Pro Max review](https://www.space.com/apple-iphone-15-pro-max-review)
-- [Vertice raises $25M for AI-based tools to help companies tackle software spend](https://techcrunch.com/2024/01/17/vertice-raises-25m-for-ai-based-tools-to-help-companies-tackle-software-spend/)
-- [Will we ever be able to communicate with aliens?](https://www.space.com/meti-could-we-communicate-with-intelligent-aliens)
-- [Apple allows devs to promote subscriptions on the web with a 27% cut](https://techcrunch.com/2024/01/17/apple-allows-devs-to-promote-subscriptions-on-the-web-with-a-27-cut/)
+- [Axiom Space Ax-3 private spaceflight with SpaceX: Mission updates](https://www.space.com/news/live/axiom-space-missions-updates)
+- [As hacks worsen, SEC turns up the heat on CISOs](https://techcrunch.com/2024/01/17/security-leadership-ciso-heat-risk/)
+- [Space is now &#39;most essential&#39; domain for US military, Pentagon says](https://www.space.com/space-command-conflict-in-space-deterrence-kathleen-hicks)
+- [Getting it right on the moon: Let&#39;s not trash Tranquility &lpar;op-ed&rpar;](https://www.space.com/humanity-return-to-moon-act-responsibly)
+- [DJI’s wireless lapel mic system gets a facelift](https://techcrunch.com/2024/01/17/djis-wireless-lapel-mic-system-gets-a-facelift/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
