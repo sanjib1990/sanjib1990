@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung’s Galaxy S24 line arrives with camera improvements and generative AI tricks](https://techcrunch.com/2024/01/17/samsungs-galaxy-s24-line-arrives-with-camera-improvements-and-generative-ai-tricks/)
-- [Navier partners with Stripe to offer electric boat commute to far-flung employees](https://techcrunch.com/2024/01/17/navier-partners-with-stripe-to-offer-electric-boat-commute-to-far-flung-employees/)
-- [Google introduces ‘Circle to Search, a new way to search from anywhere on Android using gestures](https://techcrunch.com/2024/01/17/google-introduces-circle-to-search-a-new-way-to-search-from-anywhere-on-android-using-gestures/)
-- [Google adds AI-powered overviews for multisearch in Lens](https://techcrunch.com/2024/01/17/google-adds-ai-powered-overviews-for-multisearch-in-lens/)
-- [Number of monthly active crypto devs fell 25% in 2023](https://techcrunch.com/2024/01/17/monthly-active-crypto-devs-fell-25-percent-2023/)
+- [Ask Sophie: What visas could work to come to Silicon Valley for customer discovery?](https://techcrunch.com/2024/01/17/ask-sophie-what-visas-could-work-to-come-to-silicon-valley-for-customer-discovery/)
+- [Apple tops Samsung in worldwide smartphone shipments for the first time](https://techcrunch.com/2024/01/17/apple-tops-samsung-in-worldwide-smartphone-shipments-for-the-first-time/)
+- [NASA’s robotic, self-assembling structures could be the next phase of space construction](https://techcrunch.com/2024/01/17/nasas-robotic-self-assembling-structures-could-be-the-next-phase-of-space-construction/)
+- [Funding to Black founders was down in 2023 for the third year in a row](https://techcrunch.com/2024/01/17/funding-black-founders-down-in-2023/)
+- [Watch new trailer for Netflix&#39;s sci-fi film &#39;Spaceman&#39; starring Adam Sandler &lpar;video&rpar;](https://www.space.com/spaceman-netflix-adam-sandler-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
