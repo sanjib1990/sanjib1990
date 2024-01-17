@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aleph Farms’ cultivated beef process receives blessing from Israeli government](https://techcrunch.com/2024/01/17/aleph-farms-cultivated-beef-process-regulatory-approval-israel/)
+- [N26 launches stock and ETF trading to complement its banking offering](https://techcrunch.com/2024/01/17/n26-launches-stock-and-etf-trading-to-complement-its-banking-offering/)
 - [India puts tech firms on notice over deepfakes inaction](https://techcrunch.com/2024/01/16/india-puts-tech-firms-on-notice-over-deepfakes-inaction/)
 - [SpaceX on track to launch private Ax-3 astronaut mission on Jan. 17](https://www.space.com/spacex-ax-3-astronaut-mission-go-for-launch)
 - [Sierra Space joins defense primes in landing massive military satellite contract](https://techcrunch.com/2024/01/16/sierra-space-joins-defense-primes-in-landing-massive-military-satellite-contract/)
-- [Samsung’s Galaxy S24 unveil: How to watch and what to expect](https://techcrunch.com/2024/01/16/samsungs-galaxy-s24-unveil-how-to-watch-and-what-to-expect/)
-- [Elon Musk reveals cause of Starship explosion, discusses giant rocket&#39;s future &lpar;video&rpar;](https://www.space.com/spacex-starship-second-flight-explosion-cause)
 <!-- BLOG-POST-LIST:END -->
 
 ---
