@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI versus SaaS, EV charging, and a new $250M fund](https://techcrunch.com/2024/01/17/ai-versus-saas-ev-charging-and-a-new-250m-fund/)
-- [WhatsApp launches voice updates and polls for Channels](https://techcrunch.com/2024/01/17/whatsapp-launches-voice-updates-and-polls-for-channels/)
-- [Vicarius lands $30M for its AI-powered vulnerability detection tools](https://techcrunch.com/2024/01/17/vicarius-lands-30m-for-its-ai-powered-vulnerability-detection-tools/)
-- [Alphabet’s Wing supersizes delivery drones to tow big orders](https://techcrunch.com/2024/01/17/alphabets-wing-supersizes-delivery-drones-to-streamline-big-orders/)
-- [PSA: Anyone can tell if you are using WhatsApp on your computer](https://techcrunch.com/2024/01/17/psa-whatsapp-number-desktop-computer/)
+- [James Webb Space Telescope discovers oldest and most distant black hole ever seen](https://www.space.com/james-webb-space-telescope-oldest-black-hole)
+- [DeepMind’s latest AI can solve geometry problems](https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/)
+- [A startup pitch is not a presentation and founders must understand the differences](https://techcrunch.com/2024/01/17/a-startup-pitch-is-not-a-presentation-and-founders-must-understand-the-differences/)
+- [Amazon eyes AI, autonomous vehicles and Asia as $1B innovation fund evolves](https://techcrunch.com/2024/01/17/amazon-eyes-ai-autonomous-vehicles-and-asia-as-1b-innovation-fund-evolves/)
+- [TuSimple is leaving the Nasdaq as it exits the US](https://techcrunch.com/2024/01/17/tusimple-nasdaq-delisting-date-us-exit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
