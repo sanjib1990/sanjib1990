@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alphabet’s Wing supersizes delivery drones to ‘streamline’ big orders](https://techcrunch.com/2024/01/17/alphabets-wing-supersizes-delivery-drones-to-streamline-big-orders/)
+- [AI versus SaaS, EV charging, and a new $250M fund](https://techcrunch.com/2024/01/17/ai-versus-saas-ev-charging-and-a-new-250m-fund/)
+- [WhatsApp launches voice updates and polls for Channels](https://techcrunch.com/2024/01/17/whatsapp-launches-voice-updates-and-polls-for-channels/)
+- [Vicarius lands $30M for its AI-powered vulnerability detection tools](https://techcrunch.com/2024/01/17/vicarius-lands-30m-for-its-ai-powered-vulnerability-detection-tools/)
+- [Alphabet’s Wing supersizes delivery drones to tow big orders](https://techcrunch.com/2024/01/17/alphabets-wing-supersizes-delivery-drones-to-streamline-big-orders/)
 - [PSA: Anyone can tell if you are using WhatsApp on your computer](https://techcrunch.com/2024/01/17/psa-whatsapp-number-desktop-computer/)
-- [Tandem gives ‘modern couples’ app to manage finances together and separately](https://techcrunch.com/2024/01/17/tandem-modern-couples-app-fintech/)
-- [Top Tier Capital lands $1.05B to invest in funds and startups](https://techcrunch.com/2024/01/17/top-tier-capital-lands-1-05b-to-invest-in-funds-and-startups/)
-- [Impulse Space wants to open up far away orbits with Helios kick stage](https://techcrunch.com/2024/01/17/impulse-space-wants-to-open-up-far-away-orbits-with-helios-kick-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
