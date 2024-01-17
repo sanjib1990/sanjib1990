@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Axiom Space Ax-3 private spaceflight with SpaceX: Mission updates](https://www.space.com/news/live/axiom-space-missions-updates)
-- [As hacks worsen, SEC turns up the heat on CISOs](https://techcrunch.com/2024/01/17/security-leadership-ciso-heat-risk/)
-- [Space is now &#39;most essential&#39; domain for US military, Pentagon says](https://www.space.com/space-command-conflict-in-space-deterrence-kathleen-hicks)
-- [Getting it right on the moon: Let&#39;s not trash Tranquility &lpar;op-ed&rpar;](https://www.space.com/humanity-return-to-moon-act-responsibly)
-- [DJI’s wireless lapel mic system gets a facelift](https://techcrunch.com/2024/01/17/djis-wireless-lapel-mic-system-gets-a-facelift/)
+- [Alphabet’s Wing supersizes delivery drones to ‘streamline’ big orders](https://techcrunch.com/2024/01/17/alphabets-wing-supersizes-delivery-drones-to-streamline-big-orders/)
+- [PSA: Anyone can tell if you are using WhatsApp on your computer](https://techcrunch.com/2024/01/17/psa-whatsapp-number-desktop-computer/)
+- [Tandem gives ‘modern couples’ app to manage finances together and separately](https://techcrunch.com/2024/01/17/tandem-modern-couples-app-fintech/)
+- [Top Tier Capital lands $1.05B to invest in funds and startups](https://techcrunch.com/2024/01/17/top-tier-capital-lands-1-05b-to-invest-in-funds-and-startups/)
+- [Impulse Space wants to open up far away orbits with Helios kick stage](https://techcrunch.com/2024/01/17/impulse-space-wants-to-open-up-far-away-orbits-with-helios-kick-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
