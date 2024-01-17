@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sierra Space joins defense primes in landing massive military satellite contract](https://techcrunch.com/2024/01/16/sierra-space-joins-defense-primes-in-landing-massive-military-satellite-contract/)
 - [Samsung’s Galaxy S24 unveil: How to watch and what to expect](https://techcrunch.com/2024/01/16/samsungs-galaxy-s24-unveil-how-to-watch-and-what-to-expect/)
 - [Elon Musk reveals cause of Starship explosion, discusses giant rocket&#39;s future &lpar;video&rpar;](https://www.space.com/spacex-starship-second-flight-explosion-cause)
 - [What time is the SpaceX Ax-3 astronaut launch for Axiom Space? How to watch it live on Jan. 17.](https://www.space.com/spacex-ax-3-astronaut-launch-what-time)
 - [&#39;Star Trek: The Mission and Other Stories&#39; offers fans a stellar new anthology](https://www.space.com/star-trek-the-mission-other-stories-anthology)
-- [&#39;Star Trek&#39; on Mars? Curiosity rover spots Starfleet symbol on Red Planet](https://www.space.com/curiosity-mars-rover-star-trek-symbol-rock)
 <!-- BLOG-POST-LIST:END -->
 
 ---
