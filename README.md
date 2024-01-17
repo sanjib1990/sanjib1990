@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase argues for motion to dismiss SEC’s ‘securities violation’ allegations](https://techcrunch.com/2024/01/17/coinbase-sec-lawsuit-requests-dismissal/)
+- [Apple Watch Series 9 and Ultra 2 sales ban to resume January 18](https://techcrunch.com/2024/01/17/apple-watch-series-9-and-ultra-2-sales-ban-to-resume-january-18/)
+- [YouTube to eliminate 100 employees as layoffs at Google continue](https://techcrunch.com/2024/01/17/youtube-to-eliminate-100-employees-as-layoffs-at-google-continue/)
 - [EU calls for laws to force greater algorithmic transparency from music-streaming platforms](https://techcrunch.com/2024/01/17/europe-spotify-ai-algorithms/)
 - [Prismatic lands $22M to connect disparate B2B SaaS apps](https://techcrunch.com/2024/01/17/prismatic-lands-22m-to-connect-disparate-b2b-saas-apps/)
-- [Samsung is taking on Oura with the Galaxy Ring](https://techcrunch.com/2024/01/17/samsung-is-taking-on-oura-with-the-galaxy-ring/)
-- [Ask Sophie: What visas could work to come to Silicon Valley for customer discovery?](https://techcrunch.com/2024/01/17/ask-sophie-what-visas-could-work-to-come-to-silicon-valley-for-customer-discovery/)
-- [Apple tops Samsung in worldwide smartphone shipments for the first time](https://techcrunch.com/2024/01/17/apple-tops-samsung-in-worldwide-smartphone-shipments-for-the-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
