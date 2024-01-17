@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pomelo stacks $40M to scale its payments infra business in LatAm](https://techcrunch.com/2024/01/17/pomelo-stacks-40m-to-scale-its-payments-infra-business-in-latam/)
-- [Notion launches a stand-alone calendar app](https://techcrunch.com/2024/01/17/notion-launches-a-calendar-app/)
-- [Chinese Kuaizhou-1A rocket launches 4th mission in 18 days &lpar;video&rpar;](https://www.space.com/china-kuaizhou-1a-rocket-fourth-launch-18-days)
-- [LinkedIn rolls out new job search features to make it easier to find relevant opportunities](https://techcrunch.com/2024/01/17/linkedin-rolls-out-new-job-search-features-to-make-it-easier-to-find-relevant-opportunities/)
-- [James Webb Space Telescope discovers oldest and most distant black hole ever seen](https://www.space.com/james-webb-space-telescope-oldest-black-hole)
+- [Samsung’s Galaxy S24 line arrives with camera improvements and generative AI tricks](https://techcrunch.com/2024/01/17/samsungs-galaxy-s24-line-arrives-with-camera-improvements-and-generative-ai-tricks/)
+- [Navier partners with Stripe to offer electric boat commute to far-flung employees](https://techcrunch.com/2024/01/17/navier-partners-with-stripe-to-offer-electric-boat-commute-to-far-flung-employees/)
+- [Google introduces ‘Circle to Search, a new way to search from anywhere on Android using gestures](https://techcrunch.com/2024/01/17/google-introduces-circle-to-search-a-new-way-to-search-from-anywhere-on-android-using-gestures/)
+- [Google adds AI-powered overviews for multisearch in Lens](https://techcrunch.com/2024/01/17/google-adds-ai-powered-overviews-for-multisearch-in-lens/)
+- [Number of monthly active crypto devs fell 25% in 2023](https://techcrunch.com/2024/01/17/monthly-active-crypto-devs-fell-25-percent-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
