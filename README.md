@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pomelo stacks $40M to scale its payments infra business in LatAm](https://techcrunch.com/2024/01/17/pomelo-stacks-40m-to-scale-its-payments-infra-business-in-latam/)
+- [Notion launches a stand-alone calendar app](https://techcrunch.com/2024/01/17/notion-launches-a-calendar-app/)
+- [Chinese Kuaizhou-1A rocket launches 4th mission in 18 days &lpar;video&rpar;](https://www.space.com/china-kuaizhou-1a-rocket-fourth-launch-18-days)
+- [LinkedIn rolls out new job search features to make it easier to find relevant opportunities](https://techcrunch.com/2024/01/17/linkedin-rolls-out-new-job-search-features-to-make-it-easier-to-find-relevant-opportunities/)
 - [James Webb Space Telescope discovers oldest and most distant black hole ever seen](https://www.space.com/james-webb-space-telescope-oldest-black-hole)
-- [DeepMind’s latest AI can solve geometry problems](https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/)
-- [A startup pitch is not a presentation and founders must understand the differences](https://techcrunch.com/2024/01/17/a-startup-pitch-is-not-a-presentation-and-founders-must-understand-the-differences/)
-- [Amazon eyes AI, autonomous vehicles and Asia as $1B innovation fund evolves](https://techcrunch.com/2024/01/17/amazon-eyes-ai-autonomous-vehicles-and-asia-as-1b-innovation-fund-evolves/)
-- [TuSimple is leaving the Nasdaq as it exits the US](https://techcrunch.com/2024/01/17/tusimple-nasdaq-delisting-date-us-exit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
