@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vertice raises $25M for AI-based tools to help companies tackle software spend](https://techcrunch.com/2024/01/17/vertice-raises-25m-for-ai-based-tools-to-help-companies-tackle-software-spend/)
+- [Will we ever be able to communicate with aliens?](https://www.space.com/meti-could-we-communicate-with-intelligent-aliens)
+- [Apple allows devs to promote subscriptions on the web with a 27% cut](https://techcrunch.com/2024/01/17/apple-allows-devs-to-promote-subscriptions-on-the-web-with-a-27-cut/)
 - [Aleph Farms’ cultivated beef process receives blessing from Israeli government](https://techcrunch.com/2024/01/17/aleph-farms-cultivated-beef-process-regulatory-approval-israel/)
 - [N26 launches stock and ETF trading to complement its banking offering](https://techcrunch.com/2024/01/17/n26-launches-stock-and-etf-trading-to-complement-its-banking-offering/)
-- [India puts tech firms on notice over deepfakes inaction](https://techcrunch.com/2024/01/16/india-puts-tech-firms-on-notice-over-deepfakes-inaction/)
-- [SpaceX on track to launch private Ax-3 astronaut mission on Jan. 17](https://www.space.com/spacex-ax-3-astronaut-mission-go-for-launch)
-- [Sierra Space joins defense primes in landing massive military satellite contract](https://techcrunch.com/2024/01/16/sierra-space-joins-defense-primes-in-landing-massive-military-satellite-contract/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
