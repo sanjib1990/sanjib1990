@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU calls for laws to force greater algorithmic transparency from music-streaming platforms](https://techcrunch.com/2024/01/17/europe-spotify-ai-algorithms/)
+- [Prismatic lands $22M to connect disparate B2B SaaS apps](https://techcrunch.com/2024/01/17/prismatic-lands-22m-to-connect-disparate-b2b-saas-apps/)
+- [Samsung is taking on Oura with the Galaxy Ring](https://techcrunch.com/2024/01/17/samsung-is-taking-on-oura-with-the-galaxy-ring/)
 - [Ask Sophie: What visas could work to come to Silicon Valley for customer discovery?](https://techcrunch.com/2024/01/17/ask-sophie-what-visas-could-work-to-come-to-silicon-valley-for-customer-discovery/)
 - [Apple tops Samsung in worldwide smartphone shipments for the first time](https://techcrunch.com/2024/01/17/apple-tops-samsung-in-worldwide-smartphone-shipments-for-the-first-time/)
-- [NASA’s robotic, self-assembling structures could be the next phase of space construction](https://techcrunch.com/2024/01/17/nasas-robotic-self-assembling-structures-could-be-the-next-phase-of-space-construction/)
-- [Funding to Black founders was down in 2023 for the third year in a row](https://techcrunch.com/2024/01/17/funding-black-founders-down-in-2023/)
-- [Watch new trailer for Netflix&#39;s sci-fi film &#39;Spaceman&#39; starring Adam Sandler &lpar;video&rpar;](https://www.space.com/spaceman-netflix-adam-sandler-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
