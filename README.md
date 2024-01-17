@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a Rocket Boy, a game studio from former Grand Theft Auto developer, raises $110M](https://techcrunch.com/2024/01/17/build-a-rocket-boy-grand-theft-auto-everywhere/)
+- [Apple iPhone 15 Pro Max review](https://www.space.com/apple-iphone-15-pro-max-review)
 - [Vertice raises $25M for AI-based tools to help companies tackle software spend](https://techcrunch.com/2024/01/17/vertice-raises-25m-for-ai-based-tools-to-help-companies-tackle-software-spend/)
 - [Will we ever be able to communicate with aliens?](https://www.space.com/meti-could-we-communicate-with-intelligent-aliens)
 - [Apple allows devs to promote subscriptions on the web with a 27% cut](https://techcrunch.com/2024/01/17/apple-allows-devs-to-promote-subscriptions-on-the-web-with-a-27-cut/)
-- [Aleph Farms’ cultivated beef process receives blessing from Israeli government](https://techcrunch.com/2024/01/17/aleph-farms-cultivated-beef-process-regulatory-approval-israel/)
-- [N26 launches stock and ETF trading to complement its banking offering](https://techcrunch.com/2024/01/17/n26-launches-stock-and-etf-trading-to-complement-its-banking-offering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
