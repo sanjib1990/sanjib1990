@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India puts tech firms on notice over deepfakes inaction](https://techcrunch.com/2024/01/16/india-puts-tech-firms-on-notice-over-deepfakes-inaction/)
 - [SpaceX on track to launch private Ax-3 astronaut mission on Jan. 17](https://www.space.com/spacex-ax-3-astronaut-mission-go-for-launch)
 - [Sierra Space joins defense primes in landing massive military satellite contract](https://techcrunch.com/2024/01/16/sierra-space-joins-defense-primes-in-landing-massive-military-satellite-contract/)
 - [Samsung’s Galaxy S24 unveil: How to watch and what to expect](https://techcrunch.com/2024/01/16/samsungs-galaxy-s24-unveil-how-to-watch-and-what-to-expect/)
 - [Elon Musk reveals cause of Starship explosion, discusses giant rocket&#39;s future &lpar;video&rpar;](https://www.space.com/spacex-starship-second-flight-explosion-cause)
-- [What time is the SpaceX Ax-3 astronaut launch for Axiom Space? How to watch it live on Jan. 17.](https://www.space.com/spacex-ax-3-astronaut-launch-what-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
