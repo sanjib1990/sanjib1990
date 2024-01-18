@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Insurtech Getsafe acquires a student loan platform to meet its future clients upstream](https://techcrunch.com/2024/01/17/getsafe-buys-deinestudienfinanzierung/)
 - [Crippled Peregrine moon lander expected to crash to Earth today carrying human remains](https://www.space.com/peregrine-moon-lander-crash-earth-preview)
 - [Sundar Pichai warns Google staff more layoffs are coming](https://techcrunch.com/2024/01/17/sundar-pichai-warns-google-staff-more-layoffs-are-coming/)
 - [Astrobotic’s lunar lander will burn up in Earth’s atmosphere tomorrow](https://techcrunch.com/2024/01/17/astrobotics-lunar-lander-will-burn-up-in-earths-atmosphere-tomorrow/)
 - [Astroscale takes the wraps off its $25M orbital refueling craft for Space Force](https://techcrunch.com/2024/01/17/astroscale-takes-the-wraps-off-its-25m-orbital-refueling-craft-for-space-force/)
-- [Unredacted Meta documents reveal ‘historical reluctance’ to protect children](https://techcrunch.com/2024/01/17/unredacted-meta-documents-reveal-historical-reluctance-to-protect-children-new-mexico-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
