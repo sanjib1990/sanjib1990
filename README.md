@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kashable banks $25.6M to offer employment-based lending](https://techcrunch.com/2024/01/18/kashable-25-6m-employment-based-lending-fintech/)
+- [There&#39;s lots of water on the moon for astronauts. But is it safe to drink?](https://www.space.com/moon-water-astronauts-aqualunar-drinking-safety-contest)
+- [Welcome back to the Unicorn Club, 10 years later](https://techcrunch.com/2024/01/18/welcome-back-to-the-unicorn-club-10-years-later/)
 - [Digital Onboarding grabs $58M to help banks with profitable customer engagement](https://techcrunch.com/2024/01/18/digital-onboarding-58m-banks-customer-engagement-fintech/)
 - [IP analysis platform PatSnap launches CoPilot, its new AI assistant](https://techcrunch.com/2024/01/18/patsnap-copilot/)
-- [Google says Russian espionage crew behind new malware campaign](https://techcrunch.com/2024/01/18/google-cold-river-russia-espionage-malware/)
-- [Water ice buried at Mars&#39; equator is over 2 miles thick](https://www.space.com/mars-water-ice-equator-frozen-ocean)
-- [See a bright half moon meet up with Jupiter in the night sky tonight](https://www.space.com/moon-jupiter-january-2024-skywatching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
