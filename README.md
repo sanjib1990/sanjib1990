@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kashable banks $25.6M to offer employment-based lending](https://techcrunch.com/2024/01/18/kashable-25-6m-employment-based-lending-fintech/)
-- [There&#39;s lots of water on the moon for astronauts. But is it safe to drink?](https://www.space.com/moon-water-astronauts-aqualunar-drinking-safety-contest)
-- [Welcome back to the Unicorn Club, 10 years later](https://techcrunch.com/2024/01/18/welcome-back-to-the-unicorn-club-10-years-later/)
-- [Digital Onboarding grabs $58M to help banks with profitable customer engagement](https://techcrunch.com/2024/01/18/digital-onboarding-58m-banks-customer-engagement-fintech/)
-- [IP analysis platform PatSnap launches CoPilot, its new AI assistant](https://techcrunch.com/2024/01/18/patsnap-copilot/)
+- [What happened to Artifact?](https://techcrunch.com/2024/01/18/why-artifact-from-instagrams-founders-failed-shut-down/)
+- [Watch Japan attempt to ace its 1st-ever moon landing on Jan. 19](https://www.space.com/japan-first-moon-landing-slim-webcast)
+- [YC’s Tom Blomfield will speak at TechCrunch Early Stage 2024 about raising money with no regrets](https://techcrunch.com/2024/01/18/ycs-tom-blomfield-will-speak-at-techcrunch-early-stage-2024-about-raising-money-with-no-regrets/)
+- [4 startup fundamentals to help avoid epic product fails](https://techcrunch.com/2024/01/18/four-startup-fundamentals-to-help-avoid-epic-product-fails/)
+- [Briq, a startup that uses AI to automate finances in construction, brings in $8M extension at a $150M valuation](https://techcrunch.com/2024/01/18/briq-a-startup-that-uses-ai-to-automate-finances-in-construction-raises-8m-extension-at-a-150m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
