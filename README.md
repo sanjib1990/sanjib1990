@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Buying frenzy for Solana Mobile’s second phone drives preorders sky high](https://techcrunch.com/2024/01/18/solana-mobiles-second-phone-announcement-drives-buying-frenzy/)
+- [EU dials up attention on larger platforms over data access for risk research](https://techcrunch.com/2024/01/18/eu-dsa-rfis-data-access/)
 - [What happened to Artifact?](https://techcrunch.com/2024/01/18/why-artifact-from-instagrams-founders-failed-shut-down/)
-- [Watch Japan attempt to ace its 1st-ever moon landing on Jan. 19](https://www.space.com/japan-first-moon-landing-slim-webcast)
+- [Watch Japan attempt to ace its 1st-ever moon landing on Jan. 19 with this free livestream &lpar;video&rpar;](https://www.space.com/japan-first-moon-landing-slim-webcast)
 - [YC’s Tom Blomfield will speak at TechCrunch Early Stage 2024 about raising money with no regrets](https://techcrunch.com/2024/01/18/ycs-tom-blomfield-will-speak-at-techcrunch-early-stage-2024-about-raising-money-with-no-regrets/)
-- [4 startup fundamentals to help avoid epic product fails](https://techcrunch.com/2024/01/18/four-startup-fundamentals-to-help-avoid-epic-product-fails/)
-- [Briq, a startup that uses AI to automate finances in construction, brings in $8M extension at a $150M valuation](https://techcrunch.com/2024/01/18/briq-a-startup-that-uses-ai-to-automate-finances-in-construction-raises-8m-extension-at-a-150m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
