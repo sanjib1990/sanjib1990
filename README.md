@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrobotic’s lunar lander will burn up in Earth’s atmosphere tomorrow](https://techcrunch.com/2024/01/17/astrobotics-lunar-lander-will-burn-up-in-earths-atmosphere-tomorrow/)
 - [Astroscale takes the wraps off its $25M orbital refueling craft for Space Force](https://techcrunch.com/2024/01/17/astroscale-takes-the-wraps-off-its-25m-orbital-refueling-craft-for-space-force/)
 - [Unredacted Meta documents reveal ‘historical reluctance’ to protect children](https://techcrunch.com/2024/01/17/unredacted-meta-documents-reveal-historical-reluctance-to-protect-children-new-mexico-lawsuit/)
 - [International Battery Company powers up with $35M funding to bridge EV gap in India](https://techcrunch.com/2024/01/17/international-battery-company-funding-ev-india/)
 - [I spent the morning with the Apple Vision Pro](https://techcrunch.com/2024/01/17/i-spent-the-morning-with-the-apple-vision-pro/)
-- [Can Recraft’s foundational model for graphic design swerve the AI controversy?](https://techcrunch.com/2024/01/17/can-recrafts-foundational-model-for-graphic-design-swerve-the-ai-controversy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
