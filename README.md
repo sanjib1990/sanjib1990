@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Onboarding grabs $58M to help banks with profitable customer engagement](https://techcrunch.com/2024/01/18/digital-onboarding-58m-banks-customer-engagement-fintech/)
+- [IP analysis platform PatSnap launches CoPilot, its new AI assistant](https://techcrunch.com/2024/01/18/patsnap-copilot/)
+- [Google says Russian espionage crew behind new malware campaign](https://techcrunch.com/2024/01/18/google-cold-river-russia-espionage-malware/)
+- [Water ice buried at Mars&#39; equator is over 2 miles thick](https://www.space.com/mars-water-ice-equator-frozen-ocean)
 - [See a bright half moon meet up with Jupiter in the night sky tonight](https://www.space.com/moon-jupiter-january-2024-skywatching)
-- [Chinese company targets 2025 for 1st launch of powerful new rocket](https://www.space.com/cas-space-2025-debut-rocket-kinetica-2)
-- [Staking technology provider Kiln raises $17 million in rare crypto funding round](https://techcrunch.com/2024/01/18/staking-technology-provider-kiln-raises-17-million-in-rare-crypto-funding-round/)
-- [Acefast Fast Charge Power Bank M1 review](https://www.space.com/acefast-fast-charge-power-bank-m1-review)
-- [Farm-ng makes modular robots for a broad range of agricultural work](https://techcrunch.com/2024/01/18/2653700/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
