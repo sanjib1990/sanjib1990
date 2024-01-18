@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin spot ETF volume rose, Coinbase went to court, Solana Mobile announces new device and Google cuts crypto apps in India](https://techcrunch.com/2024/01/18/bitcoin-spot-etf-volume-rose-coinbase-went-to-court-solana-mobile-announces-new-device-and-google-cuts-crypto-apps-in-india/)
+- [New mystery object could be lightest black hole ever seen](https://www.space.com/mystery-object-lightest-black-hole-heaviest-neutron-star)
+- [Counting down to the Reddit IPO &lpar;again&rpar;](https://techcrunch.com/2024/01/18/counting-down-to-the-reddit-ipo-again/)
+- [Early galaxies were shaped like surfboards and pool noodles, James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-early-galaxies-pool-noodles-surfboards)
 - [Six rules to get the most out of fitness &amp; wellness tracking](https://techcrunch.com/2024/01/18/six-rules-to-get-the-most-out-of-fitness-wellness-tracking/)
-- [Consumer tech is bound for a comeback among unicorns, but maybe not just yet](https://techcrunch.com/2024/01/18/unicorn-shift-enterprise-consumer/)
-- [Apple excludes video and news partners from new App Store rules around external payments](https://techcrunch.com/2024/01/18/apple-excludes-video-and-news-partners-from-new-app-store-rules-around-external-payments/)
-- [Reddit plans to launch IPO in March, report says](https://techcrunch.com/2024/01/18/reddit-plans-to-launch-ipo-in-march-report-says/)
-- [Microsoft makes its AI-powered reading tutor free](https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
