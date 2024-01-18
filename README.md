@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Buying frenzy for Solana Mobile’s second phone drives preorders sky high](https://techcrunch.com/2024/01/18/solana-mobiles-second-phone-announcement-drives-buying-frenzy/)
-- [EU dials up attention on larger platforms over data access for risk research](https://techcrunch.com/2024/01/18/eu-dsa-rfis-data-access/)
-- [What happened to Artifact?](https://techcrunch.com/2024/01/18/why-artifact-from-instagrams-founders-failed-shut-down/)
-- [Watch Japan attempt to ace its 1st-ever moon landing on Jan. 19 with this free livestream &lpar;video&rpar;](https://www.space.com/japan-first-moon-landing-slim-webcast)
-- [YC’s Tom Blomfield will speak at TechCrunch Early Stage 2024 about raising money with no regrets](https://techcrunch.com/2024/01/18/ycs-tom-blomfield-will-speak-at-techcrunch-early-stage-2024-about-raising-money-with-no-regrets/)
+- [Reddit plans to launch IPO in March, report says](https://techcrunch.com/2024/01/18/reddit-plans-to-launch-ipo-in-march-report-says/)
+- [Microsoft makes its AI-powered reading tutor free](https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/)
+- [BMW’s future growth depends on EVs, and it’s finally going all in](https://techcrunch.com/2024/01/18/bmws-evs-commitment/)
+- [Web monitors say Gaza week-long internet outage is longest yet](https://techcrunch.com/2024/01/18/web-monitors-say-gaza-week-long-internet-outage-is-longest-yet/)
+- [The moon once had way more water than we ever imagined, lunar meteorite reveals](https://www.space.com/moon-meteorite-lunar-water-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
