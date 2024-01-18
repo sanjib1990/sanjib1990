@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See a bright half moon meet up with Jupiter in the night sky tonight](https://www.space.com/moon-jupiter-january-2024-skywatching)
+- [Chinese company targets 2025 for 1st launch of powerful new rocket](https://www.space.com/cas-space-2025-debut-rocket-kinetica-2)
 - [Staking technology provider Kiln raises $17 million in rare crypto funding round](https://techcrunch.com/2024/01/18/staking-technology-provider-kiln-raises-17-million-in-rare-crypto-funding-round/)
 - [Acefast Fast Charge Power Bank M1 review](https://www.space.com/acefast-fast-charge-power-bank-m1-review)
 - [Farm-ng makes modular robots for a broad range of agricultural work](https://techcrunch.com/2024/01/18/2653700/)
-- [Omega adds Saturn V seconds hand to new Speedmaster Dark Side of the Moon watch](https://www.space.com/omega-dark-side-moon-apollo-8-watch)
-- [BMW will deploy Figure’s humanoid robot at South Carolina plant](https://techcrunch.com/2024/01/18/bmw-will-deploy-figures-humanoid-robot-at-south-carolina-plant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
