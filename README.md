@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Back in the Unicorn Club with Cowboy Ventures’ Aileen Lee](https://techcrunch.com/2024/01/18/back-in-the-unicorn-club-with-cowboy-ventures-aileen-lee/)
+- [Netflix confirms it won’t have a dedicated app for the Apple Vision Pro](https://techcrunch.com/2024/01/18/netflix-confirms-it-wont-have-a-dedicated-app-for-the-apple-vision-pro/)
+- [Postmates’ founder’s new app TipTop offers instant cash for your stuff](https://techcrunch.com/2024/01/18/postmates-founders-new-app-tiptop-offers-instant-cash-for-your-stuff/)
 - [NASA moon orbiter beams laser off Indian lander in historic 1st](https://www.space.com/laser-communications-moon-lro-india-vikram-chandrayaan-3-lander)
 - [Amazon Prime Video is discontinuing support for local originals in Africa and Middle East](https://techcrunch.com/2024/01/18/amazon-prime-video-is-discontinuing-support-for-african-and-middle-east-originals/)
-- [Axiom Space Ax-3 private spaceflight with SpaceX: Mission updates](https://www.space.com/news/live/axiom-space-missions-updates)
-- [Bitcoin spot ETF volume rose, Coinbase went to court, Solana Mobile announces new device and Google cuts crypto apps in India](https://techcrunch.com/2024/01/18/bitcoin-spot-etf-volume-rose-coinbase-went-to-court-solana-mobile-announces-new-device-and-google-cuts-crypto-apps-in-india/)
-- [New mystery object could be lightest black hole ever seen](https://www.space.com/mystery-object-lightest-black-hole-heaviest-neutron-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
