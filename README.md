@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Six rules to get the most out of fitness &amp; wellness tracking](https://techcrunch.com/2024/01/18/six-rules-to-get-the-most-out-of-fitness-wellness-tracking/)
+- [Consumer tech is bound for a comeback among unicorns, but maybe not just yet](https://techcrunch.com/2024/01/18/unicorn-shift-enterprise-consumer/)
+- [Apple excludes video and news partners from new App Store rules around external payments](https://techcrunch.com/2024/01/18/apple-excludes-video-and-news-partners-from-new-app-store-rules-around-external-payments/)
 - [Reddit plans to launch IPO in March, report says](https://techcrunch.com/2024/01/18/reddit-plans-to-launch-ipo-in-march-report-says/)
 - [Microsoft makes its AI-powered reading tutor free](https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/)
-- [BMW’s future growth depends on EVs, and it’s finally going all in](https://techcrunch.com/2024/01/18/bmws-evs-commitment/)
-- [Web monitors say Gaza week-long internet outage is longest yet](https://techcrunch.com/2024/01/18/web-monitors-say-gaza-week-long-internet-outage-is-longest-yet/)
-- [The moon once had way more water than we ever imagined, lunar meteorite reveals](https://www.space.com/moon-meteorite-lunar-water-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
