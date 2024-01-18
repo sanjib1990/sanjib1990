@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites watch Iceland volcano spew lava towards fishing village &lpar;photo&rpar;](https://www.space.com/iceland-volcano-lava-flow-space-visible)
+- [Spotify’s astrology-like Daylists go viral, but its micro-genre mastermind was let go last month](https://techcrunch.com/2024/01/18/spotifys-astrology-like-daylists-go-viral-but-its-micro-genre-mastermind-was-let-go-last-month/)
+- [Vans, Supreme owner VF Corp says hackers stole 35 million customers’ personal data](https://techcrunch.com/2024/01/18/vf-corporation-vans-supreme-owner-data-breach-millions/)
+- [SpaceX launches private Ax-3 mission to ISS, 1st Turkish astronaut on board](https://www.space.com/spacex-ax-3-private-astronaut-mission-launch-success)
 - [Back in the Unicorn Club with Cowboy Ventures’ Aileen Lee](https://techcrunch.com/2024/01/18/back-in-the-unicorn-club-with-cowboy-ventures-aileen-lee/)
-- [Netflix confirms it won’t have a dedicated app for the Apple Vision Pro](https://techcrunch.com/2024/01/18/netflix-confirms-it-wont-have-a-dedicated-app-for-the-apple-vision-pro/)
-- [Postmates’ founder’s new app TipTop offers instant cash for your stuff](https://techcrunch.com/2024/01/18/postmates-founders-new-app-tiptop-offers-instant-cash-for-your-stuff/)
-- [NASA moon orbiter beams laser off Indian lander in historic 1st](https://www.space.com/laser-communications-moon-lro-india-vikram-chandrayaan-3-lander)
-- [Amazon Prime Video is discontinuing support for local originals in Africa and Middle East](https://techcrunch.com/2024/01/18/amazon-prime-video-is-discontinuing-support-for-african-and-middle-east-originals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
