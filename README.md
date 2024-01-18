@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA moon orbiter beams laser off Indian lander in historic 1st](https://www.space.com/laser-communications-moon-lro-india-vikram-chandrayaan-3-lander)
+- [Amazon Prime Video is discontinuing support for local originals in Africa and Middle East](https://techcrunch.com/2024/01/18/amazon-prime-video-is-discontinuing-support-for-african-and-middle-east-originals/)
+- [Axiom Space Ax-3 private spaceflight with SpaceX: Mission updates](https://www.space.com/news/live/axiom-space-missions-updates)
 - [Bitcoin spot ETF volume rose, Coinbase went to court, Solana Mobile announces new device and Google cuts crypto apps in India](https://techcrunch.com/2024/01/18/bitcoin-spot-etf-volume-rose-coinbase-went-to-court-solana-mobile-announces-new-device-and-google-cuts-crypto-apps-in-india/)
 - [New mystery object could be lightest black hole ever seen](https://www.space.com/mystery-object-lightest-black-hole-heaviest-neutron-star)
-- [Counting down to the Reddit IPO &lpar;again&rpar;](https://techcrunch.com/2024/01/18/counting-down-to-the-reddit-ipo-again/)
-- [Early galaxies were shaped like surfboards and pool noodles, James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-early-galaxies-pool-noodles-surfboards)
-- [Six rules to get the most out of fitness &amp; wellness tracking](https://techcrunch.com/2024/01/18/six-rules-to-get-the-most-out-of-fitness-wellness-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
