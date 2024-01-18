@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Staking technology provider Kiln raises $17 million in rare crypto funding round](https://techcrunch.com/2024/01/18/staking-technology-provider-kiln-raises-17-million-in-rare-crypto-funding-round/)
+- [Acefast Fast Charge Power Bank M1 review](https://www.space.com/acefast-fast-charge-power-bank-m1-review)
+- [Farm-ng makes modular robots for a broad range of agricultural work](https://techcrunch.com/2024/01/18/2653700/)
 - [Omega adds Saturn V seconds hand to new Speedmaster Dark Side of the Moon watch](https://www.space.com/omega-dark-side-moon-apollo-8-watch)
 - [BMW will deploy Figure’s humanoid robot at South Carolina plant](https://techcrunch.com/2024/01/18/bmw-will-deploy-figures-humanoid-robot-at-south-carolina-plant/)
-- [Insurtech Getsafe acquires a student loan platform to meet its future clients upstream](https://techcrunch.com/2024/01/17/getsafe-buys-deinestudienfinanzierung/)
-- [Crippled Peregrine moon lander expected to crash to Earth today carrying human remains](https://www.space.com/peregrine-moon-lander-crash-earth-preview)
-- [Sundar Pichai warns Google staff more layoffs are coming](https://techcrunch.com/2024/01/17/sundar-pichai-warns-google-staff-more-layoffs-are-coming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
