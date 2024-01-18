@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unredacted Meta documents reveal ‘historical reluctance’ to protect children](https://techcrunch.com/2024/01/17/unredacted-meta-documents-reveal-historical-reluctance-to-protect-children-new-mexico-lawsuit/)
+- [International Battery Company powers up with $35M funding to bridge EV gap in India](https://techcrunch.com/2024/01/17/international-battery-company-funding-ev-india/)
+- [I spent the morning with the Apple Vision Pro](https://techcrunch.com/2024/01/17/i-spent-the-morning-with-the-apple-vision-pro/)
+- [Can Recraft’s foundational model for graphic design swerve the AI controversy?](https://techcrunch.com/2024/01/17/can-recrafts-foundational-model-for-graphic-design-swerve-the-ai-controversy/)
 - [Reencle teases a hungrier, quieter home composter — for a price](https://techcrunch.com/2024/01/17/reencle-teases-a-hungrier-quieter-home-composter-for-a-price/)
-- [US must beat China back to the moon, Congress tells NASA](https://www.space.com/us-win-moon-race-china-congress-artemis-hearing)
-- [Land Moto accelerates its electric bike battery play with $3M infusion](https://techcrunch.com/2024/01/17/land-moto-accelerates-its-electric-bike-battery-play-with-3m-infusion/)
-- [I’m sorry but you owe me 27% because I said so](https://techcrunch.com/2024/01/17/im-sorry-but-you-owe-me-27-because-i-said-so/)
-- [Coinbase argues for motion to dismiss SEC’s ‘securities violation’ allegations](https://techcrunch.com/2024/01/17/coinbase-sec-lawsuit-requests-dismissal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
