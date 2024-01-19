@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are gaps in the Andromeda galaxy filled with dark matter? This NASA telescope could find out](https://www.space.com/gaps-andromeda-galaxy-dark-matter-nasa-roman-telescope)
+- [Lordstown Motors founder launches new EV startup with trucks we’ve seen before](https://techcrunch.com/2024/01/19/lordstown-motors-steve-burns-landx-motors-endurance-pickup/)
+- [NASA satellite sees an aurora in infrared light &lpar;image&rpar;](https://www.space.com/nasa-satellite-aurora-infrared-light-photo)
+- [After Netflix says no, other app makers debate a Vision Pro launch](https://techcrunch.com/2024/01/19/youtube-and-other-apps-missing-from-apple-vision-pro-launch/)
 - [As crippled Peregrine moon lander burns up in Earth&#39;s atmosphere, Astrobotic &#39;excited for the next adventure&#39;](https://www.space.com/astrobotic-peregrine-moon-lander-mission-conclusion)
-- [A new dawn for maker tech startups](https://techcrunch.com/2024/01/19/a-new-dawn-for-maker-tech-startups/)
-- [US Space Force satellite data shines light on mystery of Arctic warming](https://www.space.com/space-force-satellite-data-arctic-warming)
-- [TikTok usage is starting to slow — is TikTok Shop to blame?](https://techcrunch.com/2024/01/19/tiktok-usage-is-starting-to-slow-is-tiktok-shop-to-blame/)
-- [I spent the morning with the Apple Vision Pro](https://techcrunch.com/2024/01/19/i-spent-the-morning-with-the-apple-vision-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
