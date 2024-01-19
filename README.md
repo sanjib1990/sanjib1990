@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon confirms more layoffs, impacting its Buy with Prime unit](https://techcrunch.com/2024/01/19/amazon-confirms-more-layoffs-impacting-its-buy-with-prime-unit/)
+- [Japan&#39;s &#39;Moon Sniper&#39; probe attempts historic soft-landing on lunar surface. But did it make it?](https://www.space.com/japan-moon-landing-success-slim-spacecraft)
+- [Cyberattack targeting UK councils causes online disruption](https://techcrunch.com/2024/01/19/cyberattack-targeting-uk-councils-causes-online-disruption/)
+- [TikTok is experimenting with a feature that uses AI to create songs based on prompts](https://techcrunch.com/2024/01/19/tiktok-is-experimenting-with-a-feature-that-uses-ai-to-create-songs-based-on-prompts/)
 - [Plex confirms plan to launch TV and movie rentals next month](https://techcrunch.com/2024/01/19/plex-confirms-plan-to-launch-tv-and-movie-rentals-next-month/)
-- [The other side of AI hype](https://techcrunch.com/2024/01/19/the-other-side-of-ai-hype/)
-- [How FYPM used Instagram Stories and thirst traps to raise $275K](https://techcrunch.com/2024/01/19/how-fypm-used-instagram-stories-and-thirst-traps-to-raise-275k/)
-- [Should I buy a cheap beginner drone to build my flight skills?](https://www.space.com/should-i-buy-a-cheap-beginner-drone)
-- [It’s critical to protect equity investments in minority businesses from activist organizations](https://techcrunch.com/2024/01/19/its-critical-to-protect-equity-investments-in-minority-businesses-from-activist-organizations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
