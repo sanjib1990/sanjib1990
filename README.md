@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch NASA test revolutionary new rotating detonation rocket engine &lpar;video&rpar;](https://www.space.com/venus-aerospace-hotfire-hypersonic-engine)
-- [LoanDepot outage drags into second week after ransomware attack](https://techcrunch.com/2024/01/19/loandepot-outage-drags-into-second-week-after-ransomware-attack/)
-- [The rabbit r1 will use Perplexity AI’s tech to answer your queries](https://techcrunch.com/2024/01/19/the-rabbit-r1-will-use-perplexity-ais-tech-to-answer-your-queries/)
-- [OpenAI signs up its first higher education customer, Arizona State](https://techcrunch.com/2024/01/19/openai-signs-up-its-first-higher-education-customer-arizona-state/)
-- [FTC bans another data broker from selling consumers’ location data](https://techcrunch.com/2024/01/19/ftc-ban-inmarket-location-sale-sharing/)
+- [Plex confirms plan to launch TV and movie rentals next month](https://techcrunch.com/2024/01/19/plex-confirms-plan-to-launch-tv-and-movie-rentals-next-month/)
+- [The other side of AI hype](https://techcrunch.com/2024/01/19/the-other-side-of-ai-hype/)
+- [How FYPM used Instagram Stories and thirst traps to raise $275K](https://techcrunch.com/2024/01/19/how-fypm-used-instagram-stories-and-thirst-traps-to-raise-275k/)
+- [Should I buy a cheap beginner drone to build my flight skills?](https://www.space.com/should-i-buy-a-cheap-beginner-drone)
+- [It’s critical to protect equity investments in minority businesses from activist organizations](https://techcrunch.com/2024/01/19/its-critical-to-protect-equity-investments-in-minority-businesses-from-activist-organizations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
