@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In a new lawsuit, Iowa accuses TikTok of lying about content available to kids](https://techcrunch.com/2024/01/18/tiktok-sued-iowa-attorney-general-children-safety/)
 - [SpaceX to launch 22 Starlink satellites tonight on 2nd mission of doubleheader](https://www.space.com/spacex-starlink-launch-group-7-11)
 - [Korea’s Myrealtrip cashes in on travel rebound with $56M in new funding](https://techcrunch.com/2024/01/18/koreas-myrealtrip-cashes-in-on-travel-rebound-with-56m-in-new-funding/)
 - [Satellites watch Iceland volcano spew lava towards fishing village &lpar;photo&rpar;](https://www.space.com/iceland-volcano-lava-flow-space-visible)
 - [Spotify’s astrology-like Daylists go viral, but its micro-genre mastermind was let go last month](https://techcrunch.com/2024/01/18/spotifys-astrology-like-daylists-go-viral-but-its-micro-genre-mastermind-was-let-go-last-month/)
-- [Vans, Supreme owner VF Corp says hackers stole 35 million customers’ personal data](https://techcrunch.com/2024/01/18/vf-corporation-vans-supreme-owner-data-breach-millions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
