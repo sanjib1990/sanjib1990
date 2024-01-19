@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Tianzhou 6 cargo spacecraft burns up in Earth&#39;s atmosphere](https://www.space.com/china-tianzhou-6-cargo-spacecraft-reenters-earth-atmosphere)
+- [1 week left to save $300 on passes to TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/19/1-week-left-to-save-300-on-passes-to-techcrunch-early-stage-2024/)
+- [Pitch Deck Teardown: Rypplzz’ $3M seed deck](https://techcrunch.com/2024/01/19/sample-seed-pitch-deck-rypplzz/)
 - [Amazon confirms more layoffs, impacting its Buy with Prime unit](https://techcrunch.com/2024/01/19/amazon-confirms-more-layoffs-impacting-its-buy-with-prime-unit/)
 - [Japan&#39;s &#39;Moon Sniper&#39; probe attempts historic soft-landing on lunar surface. But did it make it?](https://www.space.com/japan-moon-landing-success-slim-spacecraft)
-- [Cyberattack targeting UK councils causes online disruption](https://techcrunch.com/2024/01/19/cyberattack-targeting-uk-councils-causes-online-disruption/)
-- [TikTok is experimenting with a feature that uses AI to create songs based on prompts](https://techcrunch.com/2024/01/19/tiktok-is-experimenting-with-a-feature-that-uses-ai-to-create-songs-based-on-prompts/)
-- [Plex confirms plan to launch TV and movie rentals next month](https://techcrunch.com/2024/01/19/plex-confirms-plan-to-launch-tv-and-movie-rentals-next-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
