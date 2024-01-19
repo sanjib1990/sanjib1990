@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use the moon to find Uranus in the night sky tonight](https://www.space.com/moon-uranus-night-sky-january-2024)
+- [&#39;I.S.S.&#39; filmmakers ground suspense thriller in realistic surroundings](https://www.space.com/iss-movie-recreates-international-space-station)
+- [Apple offers EU set of pledges aimed at settling Apple Pay antitrust probe](https://techcrunch.com/2024/01/19/apple-pay-eu-commitments/)
 - [2nd image of 1st black hole ever pictured confirms Einstein&#39;s general relativity &lpar;photo&rpar;](https://www.space.com/1st-black-hole-pictured-new-image-1-year-later)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [X is rolling out audio and video calls to Android](https://techcrunch.com/2024/01/19/x-is-rolling-out-audio-and-video-calls-to-android/)
-- [Taiwan’s president-elect faces growing challenges with its chip industry](https://techcrunch.com/2024/01/18/lai-ching-te-chips/)
-- [Astrobotic loses contact with hobbled Peregrine moon lander](https://www.space.com/astrobotic-loses-contact-peregrine-moon-lander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
