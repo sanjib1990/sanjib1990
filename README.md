@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As crippled Peregrine moon lander burns up in Earth&#39;s atmosphere, Astrobotic &#39;excited for the next adventure&#39;](https://www.space.com/astrobotic-peregrine-moon-lander-mission-conclusion)
+- [A new dawn for maker tech startups](https://techcrunch.com/2024/01/19/a-new-dawn-for-maker-tech-startups/)
 - [US Space Force satellite data shines light on mystery of Arctic warming](https://www.space.com/space-force-satellite-data-arctic-warming)
-- [Scientists simulate black hole spaghettifying star from start to finish](https://www.space.com/black-hole-tidal-disruption-event-light)
-- [Half of Apple’s India smartphone shipments are now iPhone 15](https://techcrunch.com/2024/01/19/iphone-15-apple-shipments-india/)
-- [Meta’s content moderator subcontractor model faces legal squeeze in Spain](https://techcrunch.com/2024/01/19/meta-subcontractor-ruling-barcelona/)
-- [China&#39;s Tianzhou 6 cargo spacecraft burns up in Earth&#39;s atmosphere](https://www.space.com/china-tianzhou-6-cargo-spacecraft-reenters-earth-atmosphere)
+- [TikTok usage is starting to slow — is TikTok Shop to blame?](https://techcrunch.com/2024/01/19/tiktok-usage-is-starting-to-slow-is-tiktok-shop-to-blame/)
+- [I spent the morning with the Apple Vision Pro](https://techcrunch.com/2024/01/19/i-spent-the-morning-with-the-apple-vision-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
