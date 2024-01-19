@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Use the moon to find Uranus in the night sky tonight](https://www.space.com/moon-uranus-night-sky-january-2024)
-- [&#39;I.S.S.&#39; filmmakers ground suspense thriller in realistic surroundings](https://www.space.com/iss-movie-recreates-international-space-station)
-- [Apple offers EU set of pledges aimed at settling Apple Pay antitrust probe](https://techcrunch.com/2024/01/19/apple-pay-eu-commitments/)
-- [2nd image of 1st black hole ever pictured confirms Einstein&#39;s general relativity &lpar;photo&rpar;](https://www.space.com/1st-black-hole-pictured-new-image-1-year-later)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Watch NASA test revolutionary new rotating detonation rocket engine &lpar;video&rpar;](https://www.space.com/venus-aerospace-hotfire-hypersonic-engine)
+- [LoanDepot outage drags into second week after ransomware attack](https://techcrunch.com/2024/01/19/loandepot-outage-drags-into-second-week-after-ransomware-attack/)
+- [The rabbit r1 will use Perplexity AI’s tech to answer your queries](https://techcrunch.com/2024/01/19/the-rabbit-r1-will-use-perplexity-ais-tech-to-answer-your-queries/)
+- [OpenAI signs up its first higher education customer, Arizona State](https://techcrunch.com/2024/01/19/openai-signs-up-its-first-higher-education-customer-arizona-state/)
+- [FTC bans another data broker from selling consumers’ location data](https://techcrunch.com/2024/01/19/ftc-ban-inmarket-location-sale-sharing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
