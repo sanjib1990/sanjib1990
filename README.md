@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [X is rolling out audio and video calls to Android](https://techcrunch.com/2024/01/19/x-is-rolling-out-audio-and-video-calls-to-android/)
 - [Taiwan’s president-elect faces growing challenges with its chip industry](https://techcrunch.com/2024/01/18/lai-ching-te-chips/)
 - [Astrobotic loses contact with hobbled Peregrine moon lander](https://www.space.com/astrobotic-loses-contact-peregrine-moon-lander)
 - [General Catalyst eyes VC deal in India push](https://techcrunch.com/2024/01/18/general-catalyst-india/)
-- [In a new lawsuit, Iowa accuses TikTok of lying about content available to kids](https://techcrunch.com/2024/01/18/tiktok-sued-iowa-attorney-general-children-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
