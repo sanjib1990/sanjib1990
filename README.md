@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon’s iRobot deal could be blocked by European Union](https://techcrunch.com/2024/01/19/amazons-irobot-deal-could-be-blocked-by-european-union/)
+- [Private equity could be the last resort for startups struggling to exit](https://techcrunch.com/2024/01/19/startup-exits-private-equity/)
+- [Half of Apple’s India smartphone shipments are now iPhone 15](https://techcrunch.com/2024/01/19/iphone-15-apple-shipments-india/)
+- [Meta’s content moderator subcontractor model faces legal squeeze in Spain](https://techcrunch.com/2024/01/19/meta-subcontractor-ruling-barcelona/)
 - [China&#39;s Tianzhou 6 cargo spacecraft burns up in Earth&#39;s atmosphere](https://www.space.com/china-tianzhou-6-cargo-spacecraft-reenters-earth-atmosphere)
-- [1 week left to save $300 on passes to TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/19/1-week-left-to-save-300-on-passes-to-techcrunch-early-stage-2024/)
-- [Pitch Deck Teardown: Rypplzz’ $3M seed deck](https://techcrunch.com/2024/01/19/sample-seed-pitch-deck-rypplzz/)
-- [Amazon confirms more layoffs, impacting its Buy with Prime unit](https://techcrunch.com/2024/01/19/amazon-confirms-more-layoffs-impacting-its-buy-with-prime-unit/)
-- [Japan&#39;s &#39;Moon Sniper&#39; probe attempts historic soft-landing on lunar surface. But did it make it?](https://www.space.com/japan-moon-landing-success-slim-spacecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
