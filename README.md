@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The unicorns among us](https://techcrunch.com/2024/01/19/the-unicorns-among-us/)
+- [Scientists simulate black hole spaghettifying star from start to finish](https://www.space.com/black-hole-tidal-disruption-event-light)
+- [Forget Apple Vision Pro – rabbit r1 is 2024’s most exciting launch yet](https://techcrunch.com/2024/01/19/forget-apple-vision-pro-rabbit-r1-is-2024s-most-exciting-launch-yet/)
 - [Amazon’s iRobot deal could be blocked by European Union](https://techcrunch.com/2024/01/19/amazons-irobot-deal-could-be-blocked-by-european-union/)
 - [Private equity could be the last resort for startups struggling to exit](https://techcrunch.com/2024/01/19/startup-exits-private-equity/)
-- [Half of Apple’s India smartphone shipments are now iPhone 15](https://techcrunch.com/2024/01/19/iphone-15-apple-shipments-india/)
-- [Meta’s content moderator subcontractor model faces legal squeeze in Spain](https://techcrunch.com/2024/01/19/meta-subcontractor-ruling-barcelona/)
-- [China&#39;s Tianzhou 6 cargo spacecraft burns up in Earth&#39;s atmosphere](https://www.space.com/china-tianzhou-6-cargo-spacecraft-reenters-earth-atmosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
