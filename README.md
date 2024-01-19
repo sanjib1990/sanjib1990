@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 22 Starlink satellites tonight on 2nd mission of doubleheader](https://www.space.com/spacex-starlink-launch-group-7-11)
+- [Korea’s Myrealtrip cashes in on travel rebound with $56M in new funding](https://techcrunch.com/2024/01/18/koreas-myrealtrip-cashes-in-on-travel-rebound-with-56m-in-new-funding/)
 - [Satellites watch Iceland volcano spew lava towards fishing village &lpar;photo&rpar;](https://www.space.com/iceland-volcano-lava-flow-space-visible)
 - [Spotify’s astrology-like Daylists go viral, but its micro-genre mastermind was let go last month](https://techcrunch.com/2024/01/18/spotifys-astrology-like-daylists-go-viral-but-its-micro-genre-mastermind-was-let-go-last-month/)
 - [Vans, Supreme owner VF Corp says hackers stole 35 million customers’ personal data](https://techcrunch.com/2024/01/18/vf-corporation-vans-supreme-owner-data-breach-millions/)
-- [SpaceX launches private Ax-3 mission to ISS, 1st Turkish astronaut on board](https://www.space.com/spacex-ax-3-private-astronaut-mission-launch-success)
-- [Back in the Unicorn Club with Cowboy Ventures’ Aileen Lee](https://techcrunch.com/2024/01/18/back-in-the-unicorn-club-with-cowboy-ventures-aileen-lee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
