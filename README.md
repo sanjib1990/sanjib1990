@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: OpenAI finds a partner in higher ed](https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/)
+- [World-renowned spaceflight museum set for renovation at Cosmosphere](https://www.space.com/cosmosphere-museum-hall-of-space-renovations)
 - [Fire! NASA kicks off Artemis moon program&#39;s 2024 with big engine test &lpar;video&rpar;](https://www.space.com/nasa-artemis-moon-program-rs-25-engine-test-january-2024)
 - [Goodbye sun: What it&#39;s like to experience the polar night along Norway&#39;s rugged coastline](https://www.space.com/what-it-is-like-to-experience-polar-night-aboard-hurtigruten-norwegian-coastal-express-astronomy-voyage)
 - [NASA loses contact with Ingenuity Mars helicopter](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
-- [Selkie founder defends use of AI in new dress collection amid backlash](https://techcrunch.com/2024/01/19/selkie-founder-defends-ai-collection-kimberley-gordon-valentines-day/)
-- [Hackers breached Microsoft to find out what Microsoft knows about them](https://techcrunch.com/2024/01/19/hackers-breached-microsoft-to-find-out-what-microsoft-knows-about-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
