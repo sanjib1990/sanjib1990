@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Selkie founder defends use of AI in new dress collection amid backlash](https://techcrunch.com/2024/01/19/selkie-founder-defends-ai-collection-kimberley-gordon-valentines-day/)
 - [Hackers breached Microsoft to find out what Microsoft knows about them](https://techcrunch.com/2024/01/19/hackers-breached-microsoft-to-find-out-what-microsoft-knows-about-them/)
 - [Watch SpaceX&#39;s Ax-3 astronaut mission arrive at ISS early Jan. 20](https://www.space.com/spacex-crew-dragon-ax-3-iss-docking)
 - [Are gaps in the Andromeda galaxy filled with dark matter? This NASA telescope could find out](https://www.space.com/gaps-andromeda-galaxy-dark-matter-nasa-roman-telescope)
 - [Lordstown Motors founder launches new EV startup with trucks we’ve seen before](https://techcrunch.com/2024/01/19/lordstown-motors-steve-burns-landx-motors-endurance-pickup/)
-- [NASA satellite sees an aurora in infrared light &lpar;image&rpar;](https://www.space.com/nasa-satellite-aurora-infrared-light-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
