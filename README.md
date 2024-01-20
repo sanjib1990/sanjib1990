@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new supersonic jet, Notion launches a calendar app, and CES chases off sex tech](https://techcrunch.com/2024/01/20/a-new-supersonic-jet-notion-launches-a-calendar-app-and-ces-chases-off-sex-tech/)
 - [The two faces of AI](https://techcrunch.com/2024/01/20/ai-mistakes-bossware/)
 - [How to activate auto scroll on TikTok](https://techcrunch.com/2024/01/20/how-to-activate-auto-scroll-on-tiktok/)
 - [This Week In Space podcast: Episode 94 — Space in 2024](https://www.space.com/this-week-in-space-episode-94-space-in-2024)
 - [This Week in AI: OpenAI finds a partner in higher ed](https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/)
-- [World-renowned spaceflight museum set for renovation at Cosmosphere](https://www.space.com/cosmosphere-museum-hall-of-space-renovations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
