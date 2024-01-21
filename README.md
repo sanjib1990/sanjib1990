@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn the history and heroics of &#39;Star Wars&#39; Mandalorians in new souvenir hardcover](https://www.space.com/star-wars-mandalorian-collection-book)
+- [Lamborghini licenses MIT’s new high-capacity, fast-charging organic battery tech](https://techcrunch.com/2024/01/21/lamborghini-mit-organic-battery/)
+- [It’s fun watching fintech startups grow](https://techcrunch.com/2024/01/21/its-fun-watching-fintech-startups-grow/)
 - [This &#39;Star Wars: Skeleton Crew&#39; fan trailer has us excited for the real thing](https://www.space.com/star-wars-skeleton-crew-fan-trailer)
 - [Wild Mars plane concept could seek water from high in the Red Planet&#39;s atmosphere](https://www.space.com/mars-flying-plane-water-atmosphere-search)
-- [&#39;Barbenheimer Star&#39; that blew up 13 billion years ago defies explanation, baffling scientists](https://www.space.com/barbenheimer-star-defies-explanation)
-- [Earth&#39;s water might have come from ancient space rocks, meteorite discovery suggests](https://www.space.com/water-on-earth-planetesimals-planetary-formation-elements-crucial-for-life)
-- [If life exists on Mars, don&#39;t count on sample-return missions to find it, scientists say](https://www.space.com/mars-search-for-life-sample-return-tension)
 <!-- BLOG-POST-LIST:END -->
 
 ---
