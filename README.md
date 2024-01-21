@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After 12 years, Ripple’s president sees its payment and enterprise businesses evolving further](https://techcrunch.com/2024/01/21/ripple-payment-business-evolving/)
 - [Learn the history and heroics of &#39;Star Wars&#39; Mandalorians in new souvenir hardcover](https://www.space.com/star-wars-mandalorian-collection-book)
 - [Lamborghini licenses MIT’s new high-capacity, fast-charging organic battery tech](https://techcrunch.com/2024/01/21/lamborghini-mit-organic-battery/)
 - [It’s fun watching fintech startups grow](https://techcrunch.com/2024/01/21/its-fun-watching-fintech-startups-grow/)
 - [This &#39;Star Wars: Skeleton Crew&#39; fan trailer has us excited for the real thing](https://www.space.com/star-wars-skeleton-crew-fan-trailer)
-- [Wild Mars plane concept could seek water from high in the Red Planet&#39;s atmosphere](https://www.space.com/mars-flying-plane-water-atmosphere-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
