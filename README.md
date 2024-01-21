@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth&#39;s water might have come from ancient space rocks, meteorite discovery suggests](https://www.space.com/water-on-earth-planetesimals-planetary-formation-elements-crucial-for-life)
 - [If life exists on Mars, don&#39;t count on sample-return missions to find it, scientists say](https://www.space.com/mars-search-for-life-sample-return-tension)
 - [A new supersonic jet, Notion launches a calendar app, and CES chases off sex tech](https://techcrunch.com/2024/01/20/a-new-supersonic-jet-notion-launches-a-calendar-app-and-ces-chases-off-sex-tech/)
 - [The two faces of AI](https://techcrunch.com/2024/01/20/ai-mistakes-bossware/)
 - [How to activate auto scroll on TikTok](https://techcrunch.com/2024/01/20/how-to-activate-auto-scroll-on-tiktok/)
-- [This Week In Space podcast: Episode 94 — Space in 2024](https://www.space.com/this-week-in-space-episode-94-space-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
