@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wild Mars plane concept could seek water from high in the Red Planet&#39;s atmosphere](https://www.space.com/mars-flying-plane-water-atmosphere-search)
+- [&#39;Barbenheimer Star&#39; that blew up 13 billion years ago defies explanation, baffling scientists](https://www.space.com/barbenheimer-star-defies-explanation)
 - [Earth&#39;s water might have come from ancient space rocks, meteorite discovery suggests](https://www.space.com/water-on-earth-planetesimals-planetary-formation-elements-crucial-for-life)
 - [If life exists on Mars, don&#39;t count on sample-return missions to find it, scientists say](https://www.space.com/mars-search-for-life-sample-return-tension)
 - [A new supersonic jet, Notion launches a calendar app, and CES chases off sex tech](https://techcrunch.com/2024/01/20/a-new-supersonic-jet-notion-launches-a-calendar-app-and-ces-chases-off-sex-tech/)
-- [The two faces of AI](https://techcrunch.com/2024/01/20/ai-mistakes-bossware/)
-- [How to activate auto scroll on TikTok](https://techcrunch.com/2024/01/20/how-to-activate-auto-scroll-on-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
