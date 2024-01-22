@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX wants to expand Starship launch site with a Texas land swap](https://www.space.com/spacex-starship-launch-activities-texas-land-swap)
 - [Disney offers an elegant solution to VR’s movement problem](https://techcrunch.com/2024/01/22/disney-holotile/)
 - [Japanese lunar lander touches down and Axiom space launches its third mission with SpaceX](https://techcrunch.com/2024/01/22/japanese-lunar-lander-touches-down-and-axiom-space-launches-its-third-mission-with-spacex/)
 - [It&#39;s been a &#39;wild&#39; ride for the comet sampled by NASA&#39;s Stardust mission](https://www.space.com/nasa-wild-comet-dust-solar-system-formation-discoveries)
 - [Japan’s SLIM lander powers down on the moon as it awaits the sun’s rays](https://techcrunch.com/2024/01/22/japans-slim-lander-powers-down-on-the-moon-as-it-awaits-the-suns-rays/)
-- [It’s a good time to invest in early-stage edtech, investors say](https://techcrunch.com/2024/01/22/edtech-investor-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
