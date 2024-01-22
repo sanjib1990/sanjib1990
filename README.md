@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenyan agtech Shamba Pride raises $3.7M to grow its merchant network](https://techcrunch.com/2024/01/21/shamba-pride-raises-3-7m-funding/)
 - [Flexport taps Shopify for cash, behind the wheel of the Kia EV9 and where Amazon wants to invest](https://techcrunch.com/2024/01/21/flexport-taps-shopify-for-cash-behind-the-wheel-of-the-kia-ev9-and-where-amazon-wants-to-invest/)
 - [After 12 years, Ripple’s president sees its payment and enterprise businesses evolving further](https://techcrunch.com/2024/01/21/ripple-payment-business-evolving/)
 - [Learn the history and heroics of &#39;Star Wars&#39; Mandalorians in new souvenir hardcover](https://www.space.com/star-wars-mandalorian-collection-book)
 - [Lamborghini licenses MIT’s new high-capacity, fast-charging organic battery tech](https://techcrunch.com/2024/01/21/lamborghini-mit-organic-battery/)
-- [It’s fun watching fintech startups grow](https://techcrunch.com/2024/01/21/its-fun-watching-fintech-startups-grow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
