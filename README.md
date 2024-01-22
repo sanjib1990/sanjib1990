@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch balloon-like space station module explode &lpar;on purpose&rpar; during 1st full-scale burst test](https://www.space.com/sierra-space-orbital-module-balloon-burst-test-iss)
+- [Successful failure: Sierra Space’s inflatable habitat blows up as planned](https://techcrunch.com/2024/01/22/successful-failure-sierra-spaces-inflatable-habitat-blows-up-as-planned/)
+- [MrBeast made $263K from a video on X, but calls the payout ‘a bit of a facade’](https://techcrunch.com/2024/01/22/mrbeast-made-263k-from-a-video-on-x-but-calls-the-payout-a-bit-of-a-facade/)
 - [NASA&#39;s IMAP probe will launch in 2025 to capture interstellar dust](https://www.space.com/nasa-imap-interstellar-dust-2025-launch)
 - [Gamers flock to Palworld’s ‘Pokémon with guns’ despite copyright qualms](https://techcrunch.com/2024/01/22/gamers-flock-to-palworlds-pokemon-with-guns-despite-copyright-qualms/)
-- [Apple Music now lets you create collaborative playlists](https://techcrunch.com/2024/01/22/apple-music-now-lets-you-create-collaborative-playlists/)
-- [Giant geomagnetic storm to slam into Earth, fueling auroras across northern US](https://www.space.com/giant-geomagnetic-storm-set-to-slam-into-earth-january-2024-fueling-auroras-across-northern-us)
-- [Scientists discover near-Earth asteroid hours before it exploded over Berlin](https://www.space.com/scientists-discover-near-earth-asteroid-hours-before-it-exploded-over-berlin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
