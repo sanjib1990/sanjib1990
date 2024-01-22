@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New MIT CSAIL study suggests that AI won’t steal as many jobs expected](https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/)
+- [LoanDepot says 16.6 million customers had ‘sensitive personal’ information stolen in cyberattack](https://techcrunch.com/2024/01/22/loandepot-millions-sensitive-personal-data-ransomware/)
 - [Meta to let EU users deny cross-site tracking as Digital Markets Act bites](https://techcrunch.com/2024/01/22/meta-dma-choices/)
 - [Mysterious radio source in heart of ancient star cluster might be a rare black hole](https://www.space.com/radio-measurements-47-Tucanae-cluster-mysterious-signal)
 - [Chronosphere acquires Calyptia to extend its observability platform](https://techcrunch.com/2024/01/22/chronosphere-acquires-calyptia-to-extend-its-observability-platform/)
-- [Space rescue! Watch a satellite being saved from a wire snag &lpar;video&rpar;](https://www.space.com/space-rescue-satellite-saved-wire-snag-dolce)
-- [Voice cloning startup ElevenLabs lands $80M, achieves unicorn status](https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
