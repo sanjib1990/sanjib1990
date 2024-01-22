@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Voice cloning startup ElevenLabs lands $80M, achieves unicorn status](https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/)
+- [Sony tells Zee it’s terminating the $10 billion India merger](https://techcrunch.com/2024/01/21/sony-tells-zee-its-terminating-the-10-billion-india-merger/)
 - [India’s Captain Fresh in talks to raise $50 million in new funding](https://techcrunch.com/2024/01/21/captain-fresh-in-talks-to-raise-50-million-in-new-funding/)
 - [Terraform Labs files for Chapter 11 bankruptcy](https://techcrunch.com/2024/01/21/terraform-labs-files-for-chapter-11-bankruptcy/)
 - [Kenyan agtech Shamba Pride raises $3.7M to grow its merchant network](https://techcrunch.com/2024/01/21/shamba-pride-raises-3-7m-funding/)
-- [Flexport taps Shopify for cash, behind the wheel of the Kia EV9 and where Amazon wants to invest](https://techcrunch.com/2024/01/21/flexport-taps-shopify-for-cash-behind-the-wheel-of-the-kia-ev9-and-where-amazon-wants-to-invest/)
-- [After 12 years, Ripple’s president sees its payment and enterprise businesses evolving further](https://techcrunch.com/2024/01/21/ripple-payment-business-evolving/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
