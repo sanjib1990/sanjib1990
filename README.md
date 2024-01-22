@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An impossibly huge ring of galaxies might lead us to new physics. Here&#39;s how](https://www.space.com/big-ring-galactic-superstructure-celestial-anomaly)
-- [No impact without revenue? That’s ArcTern’s climate tech thesis](https://techcrunch.com/2024/01/22/no-impact-without-revenue-thats-arcterns-climate-tech-thesis/)
-- [Can crypto’s recent wins resurrect venture interest?](https://techcrunch.com/2024/01/22/crypto-venture-interest-2024/)
-- [Only 150+ apps have been designed specifically for Apple’s Vision Pro, so far](https://techcrunch.com/2024/01/22/only-150-apps-have-been-designed-specifically-for-apples-vision-pro-so-far/)
-- [Not dead yet: Japan prepares for possible recovery of SLIM moon lander](https://www.space.com/japan-preparing-recovery-slim-moon-lander)
+- [Disney offers an elegant solution to VR’s movement problem](https://techcrunch.com/2024/01/22/disney-holotile/)
+- [Japanese lunar lander touches down and Axiom space launches its third mission with SpaceX](https://techcrunch.com/2024/01/22/japanese-lunar-lander-touches-down-and-axiom-space-launches-its-third-mission-with-spacex/)
+- [It&#39;s been a &#39;wild&#39; ride for the comet sampled by NASA&#39;s Stardust mission](https://www.space.com/nasa-wild-comet-dust-solar-system-formation-discoveries)
+- [Japan’s SLIM lander powers down on the moon as it awaits the sun’s rays](https://techcrunch.com/2024/01/22/japans-slim-lander-powers-down-on-the-moon-as-it-awaits-the-suns-rays/)
+- [It’s a good time to invest in early-stage edtech, investors say](https://techcrunch.com/2024/01/22/edtech-investor-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
