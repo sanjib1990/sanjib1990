@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta to let EU users deny cross-site tracking as Digital Markets Act bites](https://techcrunch.com/2024/01/22/meta-dma-choices/)
+- [Mysterious radio source in heart of ancient star cluster might be a rare black hole](https://www.space.com/radio-measurements-47-Tucanae-cluster-mysterious-signal)
 - [Chronosphere acquires Calyptia to extend its observability platform](https://techcrunch.com/2024/01/22/chronosphere-acquires-calyptia-to-extend-its-observability-platform/)
 - [Space rescue! Watch a satellite being saved from a wire snag &lpar;video&rpar;](https://www.space.com/space-rescue-satellite-saved-wire-snag-dolce)
 - [Voice cloning startup ElevenLabs lands $80M, achieves unicorn status](https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/)
-- [‘Sign from the lord’: Sony tells Zee it’s terminating the $10 billion India merger](https://techcrunch.com/2024/01/21/sony-tells-zee-its-terminating-the-10-billion-india-merger/)
-- [India’s Captain Fresh in talks to raise $50 million in new funding](https://techcrunch.com/2024/01/21/captain-fresh-in-talks-to-raise-50-million-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
