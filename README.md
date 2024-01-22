@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US Priority Mail stamps now feature James Webb Space Telescope images](https://www.space.com/usps-james-webb-space-telescope-priority-stamps)
-- [Day One gets more social with a new collaborative ‘Shared Journals’ feature](https://techcrunch.com/2024/01/22/day-one-gets-social-collaborative-shared-journals-feature/)
-- [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)
-- [NASA restores contact with Mars helicopter Ingenuity after communications dropout on latest flight](https://www.space.com/ingenuity-mars-helicopter-nasa-communications-regained-perserverance)
-- [X says a bug caused numerous posts to be labeled as ‘Sensitive Media’](https://techcrunch.com/2024/01/22/x-says-a-bug-caused-numerous-posts-to-be-labeled-as-sensitive-media/)
+- [An impossibly huge ring of galaxies might lead us to new physics. Here&#39;s how](https://www.space.com/big-ring-galactic-superstructure-celestial-anomaly)
+- [No impact without revenue? That’s ArcTern’s climate tech thesis](https://techcrunch.com/2024/01/22/no-impact-without-revenue-thats-arcterns-climate-tech-thesis/)
+- [Can crypto’s recent wins resurrect venture interest?](https://techcrunch.com/2024/01/22/crypto-venture-interest-2024/)
+- [Only 150+ apps have been designed specifically for Apple’s Vision Pro, so far](https://techcrunch.com/2024/01/22/only-150-apps-have-been-designed-specifically-for-apples-vision-pro-so-far/)
+- [Not dead yet: Japan prepares for possible recovery of SLIM moon lander](https://www.space.com/japan-preparing-recovery-slim-moon-lander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
