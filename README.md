@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space mysteries: Why do Earth&#39;s magnetic poles flip?](https://www.space.com/space-mysteries-why-do-earths-magnetic-poles-flip)
+- [Turn headwinds into opportunity in 2024](https://techcrunch.com/2024/01/22/turn-headwinds-into-opportunity-in-2024/)
+- [&#39;Constellation&#39; trailer teases new &#39;action-packed space adventure&#39; on Apple TV+](https://www.space.com/apple-tv-constellation-trailer)
 - [New MIT CSAIL study suggests that AI won’t steal as many jobs expected](https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/)
 - [LoanDepot says 16.6 million customers had ‘sensitive personal’ information stolen in cyberattack](https://techcrunch.com/2024/01/22/loandepot-millions-sensitive-personal-data-ransomware/)
-- [Meta to let EU users deny cross-site tracking as Digital Markets Act bites](https://techcrunch.com/2024/01/22/meta-dma-choices/)
-- [Mysterious radio source in heart of ancient star cluster might be a rare black hole](https://www.space.com/radio-measurements-47-Tucanae-cluster-mysterious-signal)
-- [Chronosphere acquires Calyptia to extend its observability platform](https://techcrunch.com/2024/01/22/chronosphere-acquires-calyptia-to-extend-its-observability-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
