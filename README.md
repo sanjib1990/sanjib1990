@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Priority Mail stamps now feature James Webb Space Telescope images](https://www.space.com/usps-james-webb-space-telescope-priority-stamps)
+- [Day One gets more social with a new collaborative ‘Shared Journals’ feature](https://techcrunch.com/2024/01/22/day-one-gets-social-collaborative-shared-journals-feature/)
+- [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)
 - [NASA restores contact with Mars helicopter Ingenuity after communications dropout on latest flight](https://www.space.com/ingenuity-mars-helicopter-nasa-communications-regained-perserverance)
 - [X says a bug caused numerous posts to be labeled as ‘Sensitive Media’](https://techcrunch.com/2024/01/22/x-says-a-bug-caused-numerous-posts-to-be-labeled-as-sensitive-media/)
-- [It’s 2021 for AI while the rest of the startup market is stuck in 2024](https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/)
-- [Space mysteries: Why do Earth&#39;s magnetic poles flip?](https://www.space.com/space-mysteries-why-do-earths-magnetic-poles-flip)
-- [Turn headwinds into opportunity in 2024](https://techcrunch.com/2024/01/22/turn-headwinds-into-opportunity-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
