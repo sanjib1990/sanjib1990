@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open source vector database startup Qdrant raises $28M](https://techcrunch.com/2024/01/23/qdrant-open-source-vector-database/)
 - [Byju’s seeks new funding at less than $2 billion valuation, a 90% drop](https://techcrunch.com/2024/01/23/byjus-seeks-new-funding-at-less-than-2-billion-valuation-a-90-drop/)
 - [Telegram is rolling out ‘view-once’ voice and video messages](https://techcrunch.com/2024/01/23/telegram-is-rolling-out-view-once-voice-and-video-messages/)
 - [Germany’s Instagrid, which uses software to supercharge portable batteries, raises $95M](https://techcrunch.com/2024/01/22/germanys-instagrid-which-uses-software-to-supercharge-portable-batteries-raises-95m/)
 - [Business travel management platform TravelPerk raises $104M](https://techcrunch.com/2024/01/22/travelperk-softbank-business-travel-105-million/)
-- [Apple will pay artists more to have a spatial audio version on Apple Music](https://techcrunch.com/2024/01/22/apple-will-pay-artists-more-to-have-a-spatial-audio-version-on-apple-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
