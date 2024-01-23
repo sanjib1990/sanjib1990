@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dusty introduces a new version of its construction layout robot](https://techcrunch.com/2024/01/23/dusty-introduces-a-new-version-of-its-construction-layout-robot/)
+- [Artemis moon spacesuits prepped for tests ahead of delayed 2026 lunar landing](https://www.space.com/artemis-moon-spacesuit-axiom-space-milestone-aim)
+- [Google’s search tweaks draw fire as EU self-preferencing ban looms](https://techcrunch.com/2024/01/23/google-dma-search-changes-edreams/)
+- [Samsung’s self-repair program now covers 50 devices, including foldables](https://techcrunch.com/2024/01/23/samsungs-self-repair-program-now-covers-50-devices-including-foldables/)
 - [Now is the time to invest in edtech](https://techcrunch.com/2024/01/23/its-a-good-time-to-invest-in-edtech/)
-- [Artisse AI raises $6.7M for its ‘more realistic’ AI photography app](https://techcrunch.com/2024/01/23/artisse-ai-raises-6-7m-for-its-more-realistic-ai-photography-app/)
-- [Review: &#39;I.S.S.&#39; is an old-fashioned thriller that fails to achieve a stable orbit](https://www.space.com/movie-review-iss-gabriela-cowperthwaite)
-- [OnePlus launches the OnePlus 12 series in global markets](https://techcrunch.com/2024/01/23/oneplus-launches-the-oneplus-12-series-in-global-markets/)
-- [Google’s new Gemini-powered conversational tool helps advertisers quickly build Search campaigns](https://techcrunch.com/2024/01/23/googles-new-gemini-powered-conversational-tool-helps-advertisers-quickly-build-search-campaigns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
