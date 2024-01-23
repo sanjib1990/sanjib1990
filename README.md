@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How African startups raised funding in 2023](https://techcrunch.com/2024/01/23/2023-vc-funding-in-africa/)
 - [Sequoia backs Coana to help companies prioritise vulnerabilities using ‘code aware’ software analysi](https://techcrunch.com/2024/01/23/sequoia-backs-danish-startup-coana-to-detect-and-prioritise-open-source-vulnerabilities/)
 - [Blue Origin joins 2 stages of New Glenn rocket for the 1st time &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-mated-photo)
 - [Open source vector database startup Qdrant raises $28M](https://techcrunch.com/2024/01/23/qdrant-open-source-vector-database/)
 - [Byju’s seeks new funding at less than $2 billion valuation, a 90% drop](https://techcrunch.com/2024/01/23/byjus-seeks-new-funding-at-less-than-2-billion-valuation-a-90-drop/)
-- [Telegram is rolling out ‘view-once’ voice and video messages](https://techcrunch.com/2024/01/23/telegram-is-rolling-out-view-once-voice-and-video-messages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
