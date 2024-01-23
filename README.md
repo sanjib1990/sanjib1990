@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic may launch 6th commercial spaceflight this week](https://www.space.com/virgin-galactic-sixth-commercial-spaceflight-january-2024)
+- [Clerk, the authentication startup, lands $30M and inks a strategic deal with Stripe](https://techcrunch.com/2024/01/23/clerk-the-authentication-startup-lands-30m-and-inks-a-strategic-deal-with-stripe/)
+- [Cybersecurity automation firm Torq lands $42M in expanded Series B](https://techcrunch.com/2024/01/23/cybersecurity-automation-firm-torq-lands-42m-in-expanded-series-b/)
 - [OnePlus 12 will deliver flagship specs at premium price](https://techcrunch.com/2024/01/23/oneplus-12-will-deliver-flagship-specs-at-premium-price/)
 - [NASA finally opens OSIRIS-REx asteroid sample canister after stuck lid issue](https://www.space.com/nasa-osiris-rex-asteroid-sample-canister-open)
-- [Navigate the GenAI era with this startup map](https://techcrunch.com/2024/01/23/navigate-the-genai-era-with-this-startup-map/)
-- [iPhone users should turn on Apple’s stolen device protection feature](https://techcrunch.com/2024/01/23/iphone-users-should-turn-on-apples-stolen-device-protection-feature/)
-- [ModernFi secures $18.7M to help banks grow their deposit base](https://techcrunch.com/2024/01/23/modernfi-18-7m-fintech-banking-deposit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
