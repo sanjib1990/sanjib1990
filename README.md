@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Limited edition Oreo Space Dunk cookies liftoff with chance to fly to &#39;edge of space&#39;](https://www.space.com/oreo-space-dunk-cookies-win-lift-off)
+- [X adds support for passkeys on iOS after removing SMS 2FA support last year](https://techcrunch.com/2024/01/23/x-adds-support-for-passkeys-on-ios-after-removing-sms-2fa-support-last-year/)
+- [Stunning night sky time-lapse shows how colorful the stars really are &lpar;photo&rpar;](https://www.space.com/stars-colorful-night-sky-miguel-claro)
+- [Riot Games cuts 530 jobs, shuts down publishing arm Riot Forge](https://techcrunch.com/2024/01/23/riot-games-cuts-530-jobs-shuts-down-publishing-arm-riot-forge/)
 - [Dusty introduces a new version of its construction layout robot](https://techcrunch.com/2024/01/23/dusty-introduces-a-new-version-of-its-construction-layout-robot/)
-- [Artemis moon spacesuits prepped for tests ahead of delayed 2026 lunar landing](https://www.space.com/artemis-moon-spacesuit-axiom-space-milestone-aim)
-- [Google’s search tweaks draw fire as EU self-preferencing ban looms](https://techcrunch.com/2024/01/23/google-dma-search-changes-edreams/)
-- [Samsung’s self-repair program now covers 50 devices, including foldables](https://techcrunch.com/2024/01/23/samsungs-self-repair-program-now-covers-50-devices-including-foldables/)
-- [Now is the time to invest in edtech](https://techcrunch.com/2024/01/23/its-a-good-time-to-invest-in-edtech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
