@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VR needs to build for its best use cases – not for all-around computing](https://techcrunch.com/2024/01/23/vr-needs-to-build-for-its-best-use-cases-not-for-all-around-computing/)
-- [Brex cuts 20% of staff amidst reports of stalled growth, high burn](https://techcrunch.com/2024/01/23/brex-layoffs-fintech/)
-- [Learn how WebAssembly can benefit your startup](https://techcrunch.com/2024/01/23/learn-how-webassembly-can-benefit-your-startup/)
-- [Kin.art launches free tool to prevent GenAI models from training on artwork](https://techcrunch.com/2024/01/23/kin-art-launches-free-tool-to-prevent-genai-models-from-training-on-artwork/)
-- [Hubble Space Telescope sees colliding galaxies aglow with stars](https://www.space.com/interacting-galaxies-aglow-star-formation-hubble-photo)
+- [Now is the time to invest in edtech](https://techcrunch.com/2024/01/23/its-a-good-time-to-invest-in-edtech/)
+- [Artisse AI raises $6.7M for its ‘more realistic’ AI photography app](https://techcrunch.com/2024/01/23/artisse-ai-raises-6-7m-for-its-more-realistic-ai-photography-app/)
+- [Review: &#39;I.S.S.&#39; is an old-fashioned thriller that fails to achieve a stable orbit](https://www.space.com/movie-review-iss-gabriela-cowperthwaite)
+- [OnePlus launches the OnePlus 12 series in global markets](https://techcrunch.com/2024/01/23/oneplus-launches-the-oneplus-12-series-in-global-markets/)
+- [Google’s new Gemini-powered conversational tool helps advertisers quickly build Search campaigns](https://techcrunch.com/2024/01/23/googles-new-gemini-powered-conversational-tool-helps-advertisers-quickly-build-search-campaigns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
