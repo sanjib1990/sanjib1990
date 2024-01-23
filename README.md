@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How African startups raised funding in 2023](https://techcrunch.com/2024/01/23/2023-vc-funding-in-africa/)
-- [Sequoia backs Coana to help companies prioritise vulnerabilities using ‘code aware’ software analysi](https://techcrunch.com/2024/01/23/sequoia-backs-danish-startup-coana-to-detect-and-prioritise-open-source-vulnerabilities/)
-- [Blue Origin joins 2 stages of New Glenn rocket for the 1st time &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-mated-photo)
-- [Open source vector database startup Qdrant raises $28M](https://techcrunch.com/2024/01/23/qdrant-open-source-vector-database/)
-- [Byju’s seeks new funding at less than $2 billion valuation, a 90% drop](https://techcrunch.com/2024/01/23/byjus-seeks-new-funding-at-less-than-2-billion-valuation-a-90-drop/)
+- [Silverfort now valued at $1B after raising $116M for its holistic approach to identity security](https://techcrunch.com/2024/01/23/silverfort-now-valued-at-1b-after-raising-116m-for-its-holistic-approach-to-identity-security/)
+- [Futuristic vertical-takeoff air taxi could fly by 2028](https://www.space.com/hyundai-supernal-sa2-120-mph-vertical-takeoff-air-taxi-2028-rollout)
+- [‘De-Googled’ smartphone company Murena launches own-brand mobile network](https://techcrunch.com/2024/01/23/murena-android-google-mvno-mobile-plans/)
+- [French regulator fines Amazon $35 million over its surveillance system of warehouse workers](https://techcrunch.com/2024/01/23/french-regulator-fines-amazon-35-million-over-its-surveillance-system-of-warehouse-workers/)
+- [Bluewhite rakes in $39M for robots-as-a-service that can be retrofitted to drive any tractor](https://techcrunch.com/2024/01/23/bluewhite-rakes-in-39m-for-robots-as-a-service-that-can-be-retrofitted-to-drive-any-tractor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
