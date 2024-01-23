@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how i make videos](https://www.youtube.com/watch?v=m1j7RUEb3Z0)
 - [How CPUs Do Math&lpar;s&rpar; - Computerphile](https://www.youtube.com/watch?v=nhXevKMm3JI)
 - [Progress Bars - Computerphile](https://www.youtube.com/watch?v=uHh0qpc1BR4)
 - [Ask Me Anything](https://www.youtube.com/watch?v=Obuvkt_3flM)
 - [CES 2024… a glimpse into our AI-powered future](https://www.youtube.com/watch?v=eHzoTLwx01E)
-- [Python Regular Expressions - Computerphile](https://www.youtube.com/watch?v=DqabogrIVNk)
 <!-- YOUTUBE:END -->
 
 ---
