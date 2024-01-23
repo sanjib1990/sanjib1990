@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OnePlus 12 will deliver flagship specs at premium price](https://techcrunch.com/2024/01/23/oneplus-12-will-deliver-flagship-specs-at-premium-price/)
+- [NASA finally opens OSIRIS-REx asteroid sample canister after stuck lid issue](https://www.space.com/nasa-osiris-rex-asteroid-sample-canister-open)
+- [Navigate the GenAI era with this startup map](https://techcrunch.com/2024/01/23/navigate-the-genai-era-with-this-startup-map/)
+- [iPhone users should turn on Apple’s stolen device protection feature](https://techcrunch.com/2024/01/23/iphone-users-should-turn-on-apples-stolen-device-protection-feature/)
 - [ModernFi secures $18.7M to help banks grow their deposit base](https://techcrunch.com/2024/01/23/modernfi-18-7m-fintech-banking-deposit/)
-- [Bulk Exchange raises $4.5M to help construction companies source bulk materials](https://techcrunch.com/2024/01/23/bulk-exchange-construction-tech/)
-- [Docker’s Build Cloud lets developers build their containers in the cloud](https://techcrunch.com/2024/01/23/dockers-build-cloud-lets-developers-build-their-containers-in-the-cloud/)
-- [Albedo closes $35M at boosted valuation to build satellites that orbit very, very close to Earth](https://techcrunch.com/2024/01/23/albedo-closes-35m-at-boosted-valuation-to-build-satellites-that-orbit-very-very-close-to-earth/)
-- [Blueshift, a marketing automation startup, raises $40M in debt](https://techcrunch.com/2024/01/23/blueshift-a-marketing-automation-startup-raises-40m-in-debt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
