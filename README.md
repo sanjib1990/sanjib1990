@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Business travel management platform TravelPerk raises $105M](https://techcrunch.com/2024/01/22/travelperk-softbank-business-travel-105-million/)
+- [Telegram is rolling out ‘view-once’ voice and video messages](https://techcrunch.com/2024/01/23/telegram-is-rolling-out-view-once-voice-and-video-messages/)
+- [Germany’s Instagrid, which uses software to supercharge portable batteries, raises $95M](https://techcrunch.com/2024/01/22/germanys-instagrid-which-uses-software-to-supercharge-portable-batteries-raises-95m/)
+- [Business travel management platform TravelPerk raises $104M](https://techcrunch.com/2024/01/22/travelperk-softbank-business-travel-105-million/)
 - [Apple will pay artists more to have a spatial audio version on Apple Music](https://techcrunch.com/2024/01/22/apple-will-pay-artists-more-to-have-a-spatial-audio-version-on-apple-music/)
 - [China quietly pulls draft gaming rules from website](https://techcrunch.com/2024/01/22/china-quietly-pulls-draft-gaming-rules-from-website/)
-- [AC Ventures closes its new $210M Indonesia-focused fund](https://techcrunch.com/2024/01/22/ac-ventures-fund-v/)
-- [Plural, the VC led by founders, pulls together a new $432M fund to back European startups](https://techcrunch.com/2024/01/22/plural-the-vc-led-by-founders-pulls-together-a-new-432m-fund-to-back-european-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
