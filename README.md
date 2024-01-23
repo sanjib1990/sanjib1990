@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Business travel management platform TravelPerk raises $105M](https://techcrunch.com/2024/01/22/travelperk-softbank-business-travel-105-million/)
+- [Apple will pay artists more to have a spatial audio version on Apple Music](https://techcrunch.com/2024/01/22/apple-will-pay-artists-more-to-have-a-spatial-audio-version-on-apple-music/)
 - [China quietly pulls draft gaming rules from website](https://techcrunch.com/2024/01/22/china-quietly-pulls-draft-gaming-rules-from-website/)
 - [AC Ventures closes its new $210M Indonesia-focused fund](https://techcrunch.com/2024/01/22/ac-ventures-fund-v/)
 - [Plural, the VC led by founders, pulls together a new $432M fund to back European startups](https://techcrunch.com/2024/01/22/plural-the-vc-led-by-founders-pulls-together-a-new-432m-fund-to-back-european-startups/)
-- [Watch balloon-like space station module explode &lpar;on purpose&rpar; during 1st full-scale burst test](https://www.space.com/sierra-space-orbital-module-balloon-burst-test-iss)
-- [Successful failure: Sierra Space’s inflatable habitat blows up as planned](https://techcrunch.com/2024/01/22/successful-failure-sierra-spaces-inflatable-habitat-blows-up-as-planned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
