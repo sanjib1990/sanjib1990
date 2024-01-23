@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese astronauts check out newly delivered space station supplies &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-tiangong-supplies-video)
+- [Forta raises $55M to help parents look after their kids with autism](https://techcrunch.com/2024/01/23/forta-55m-series-a/)
+- [Lego Fortnite’s first big update squashes bugs and adds a launch pad](https://techcrunch.com/2024/01/23/lego-fortnites-first-big-update-squashes-bugs-and-adds-a-launch-pad/)
 - [Limited edition Oreo Space Dunk cookies liftoff with chance to fly to &#39;edge of space&#39;](https://www.space.com/oreo-space-dunk-cookies-win-lift-off)
 - [X adds support for passkeys on iOS after removing SMS 2FA support last year](https://techcrunch.com/2024/01/23/x-adds-support-for-passkeys-on-ios-after-removing-sms-2fa-support-last-year/)
-- [Stunning night sky time-lapse shows how colorful the stars really are &lpar;photo&rpar;](https://www.space.com/stars-colorful-night-sky-miguel-claro)
-- [Riot Games cuts 530 jobs, shuts down publishing arm Riot Forge](https://techcrunch.com/2024/01/23/riot-games-cuts-530-jobs-shuts-down-publishing-arm-riot-forge/)
-- [Dusty introduces a new version of its construction layout robot](https://techcrunch.com/2024/01/23/dusty-introduces-a-new-version-of-its-construction-layout-robot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
