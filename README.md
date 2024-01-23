@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Silverfort now valued at $1B after raising $116M for its holistic approach to identity security](https://techcrunch.com/2024/01/23/silverfort-now-valued-at-1b-after-raising-116m-for-its-holistic-approach-to-identity-security/)
-- [Futuristic vertical-takeoff air taxi could fly by 2028](https://www.space.com/hyundai-supernal-sa2-120-mph-vertical-takeoff-air-taxi-2028-rollout)
-- [‘De-Googled’ smartphone company Murena launches own-brand mobile network](https://techcrunch.com/2024/01/23/murena-android-google-mvno-mobile-plans/)
-- [French regulator fines Amazon $35 million over its surveillance system of warehouse workers](https://techcrunch.com/2024/01/23/french-regulator-fines-amazon-35-million-over-its-surveillance-system-of-warehouse-workers/)
-- [Bluewhite rakes in $39M for robots-as-a-service that can be retrofitted to drive any tractor](https://techcrunch.com/2024/01/23/bluewhite-rakes-in-39m-for-robots-as-a-service-that-can-be-retrofitted-to-drive-any-tractor/)
+- [ModernFi secures $18.7M to help banks grow their deposit base](https://techcrunch.com/2024/01/23/modernfi-18-7m-fintech-banking-deposit/)
+- [Bulk Exchange raises $4.5M to help construction companies source bulk materials](https://techcrunch.com/2024/01/23/bulk-exchange-construction-tech/)
+- [Docker’s Build Cloud lets developers build their containers in the cloud](https://techcrunch.com/2024/01/23/dockers-build-cloud-lets-developers-build-their-containers-in-the-cloud/)
+- [Albedo closes $35M at boosted valuation to build satellites that orbit very, very close to Earth](https://techcrunch.com/2024/01/23/albedo-closes-35m-at-boosted-valuation-to-build-satellites-that-orbit-very-very-close-to-earth/)
+- [Blueshift, a marketing automation startup, raises $40M in debt](https://techcrunch.com/2024/01/23/blueshift-a-marketing-automation-startup-raises-40m-in-debt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
