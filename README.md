@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aniai bringing burger cooking robot to restaurants with $12M](https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/)
+- [Pentagon moves to declassify some secret space programs and technologies](https://www.space.com/pentagon-us-military-declassify-secret-space-programs)
+- [French small launch startup Latitude closes $30M Series B](https://techcrunch.com/2024/01/23/french-small-launch-startup-latitude-closes-30m-series-b/)
+- [Samsung’s EX1 wearable robot is designed to improve mobility in older adults](https://techcrunch.com/2024/01/23/samsungs-ex1-wearable-robot-is-designed-to-improve-mobility-in-older-adults/)
 - [Chinese astronauts check out newly delivered space station supplies &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-tiangong-supplies-video)
-- [Forta raises $55M to help parents look after their kids with autism](https://techcrunch.com/2024/01/23/forta-55m-series-a/)
-- [Lego Fortnite’s first big update squashes bugs and adds a launch pad](https://techcrunch.com/2024/01/23/lego-fortnites-first-big-update-squashes-bugs-and-adds-a-launch-pad/)
-- [Limited edition Oreo Space Dunk cookies liftoff with chance to fly to &#39;edge of space&#39;](https://www.space.com/oreo-space-dunk-cookies-win-lift-off)
-- [X adds support for passkeys on iOS after removing SMS 2FA support last year](https://techcrunch.com/2024/01/23/x-adds-support-for-passkeys-on-ios-after-removing-sms-2fa-support-last-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
