@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AC Ventures closes its new $210M Indonesia-focused fund](https://techcrunch.com/2024/01/22/ac-ventures-fund-v/)
 - [Plural, the VC led by founders, pulls together a new $432M fund to back European startups](https://techcrunch.com/2024/01/22/plural-the-vc-led-by-founders-pulls-together-a-new-432m-fund-to-back-european-startups/)
 - [Watch balloon-like space station module explode &lpar;on purpose&rpar; during 1st full-scale burst test](https://www.space.com/sierra-space-orbital-module-balloon-burst-test-iss)
 - [Successful failure: Sierra Space’s inflatable habitat blows up as planned](https://techcrunch.com/2024/01/22/successful-failure-sierra-spaces-inflatable-habitat-blows-up-as-planned/)
 - [MrBeast made $263K from a video on X, but calls the payout ‘a bit of a facade’](https://techcrunch.com/2024/01/22/mrbeast-made-263k-from-a-video-on-x-but-calls-the-payout-a-bit-of-a-facade/)
-- [NASA&#39;s IMAP probe will launch in 2025 to capture interstellar dust](https://www.space.com/nasa-imap-interstellar-dust-2025-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
