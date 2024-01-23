@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Virgin Galactic may launch 6th commercial spaceflight this week](https://www.space.com/virgin-galactic-sixth-commercial-spaceflight-january-2024)
-- [Clerk, the authentication startup, lands $30M and inks a strategic deal with Stripe](https://techcrunch.com/2024/01/23/clerk-the-authentication-startup-lands-30m-and-inks-a-strategic-deal-with-stripe/)
-- [Cybersecurity automation firm Torq lands $42M in expanded Series B](https://techcrunch.com/2024/01/23/cybersecurity-automation-firm-torq-lands-42m-in-expanded-series-b/)
-- [OnePlus 12 will deliver flagship specs at premium price](https://techcrunch.com/2024/01/23/oneplus-12-will-deliver-flagship-specs-at-premium-price/)
-- [NASA finally opens OSIRIS-REx asteroid sample canister after stuck lid issue](https://www.space.com/nasa-osiris-rex-asteroid-sample-canister-open)
+- [US sanctions Russian citizen accused of playing key role in Medibank ransomware attack](https://techcrunch.com/2024/01/23/us-sanctions-russian-citizen-accused-of-playing-key-role-in-medibank-ransomware-attack/)
+- [Google Chrome gains AI features including a writing helper, theme creator, and tab organizer](https://techcrunch.com/2024/01/23/google-chrome-gains-ai-features-including-a-writing-helper-theme-creator-and-tab-organizer/)
+- [U.S. Government awards NOAA millions for wildfire response research](https://www.space.com/noaa-fire-weather-research-grant-awarded)
+- [1Roundtable bets on ‘long-term, less volatile’ strategy with new growth-stage crypto fund](https://techcrunch.com/2024/01/23/1roundtable-800m-growth-crypto-fund/)
+- [TikTok lays off 60 employees](https://techcrunch.com/2024/01/23/tiktok-lays-off-60-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
