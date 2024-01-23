@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US sanctions Russian citizen accused of playing key role in Medibank ransomware attack](https://techcrunch.com/2024/01/23/us-sanctions-russian-citizen-accused-of-playing-key-role-in-medibank-ransomware-attack/)
-- [Google Chrome gains AI features including a writing helper, theme creator, and tab organizer](https://techcrunch.com/2024/01/23/google-chrome-gains-ai-features-including-a-writing-helper-theme-creator-and-tab-organizer/)
-- [U.S. Government awards NOAA millions for wildfire response research](https://www.space.com/noaa-fire-weather-research-grant-awarded)
-- [1Roundtable bets on ‘long-term, less volatile’ strategy with new growth-stage crypto fund](https://techcrunch.com/2024/01/23/1roundtable-800m-growth-crypto-fund/)
-- [TikTok lays off 60 employees](https://techcrunch.com/2024/01/23/tiktok-lays-off-60-employees/)
+- [VR needs to build for its best use cases – not for all-around computing](https://techcrunch.com/2024/01/23/vr-needs-to-build-for-its-best-use-cases-not-for-all-around-computing/)
+- [Brex cuts 20% of staff amidst reports of stalled growth, high burn](https://techcrunch.com/2024/01/23/brex-layoffs-fintech/)
+- [Learn how WebAssembly can benefit your startup](https://techcrunch.com/2024/01/23/learn-how-webassembly-can-benefit-your-startup/)
+- [Kin.art launches free tool to prevent GenAI models from training on artwork](https://techcrunch.com/2024/01/23/kin-art-launches-free-tool-to-prevent-genai-models-from-training-on-artwork/)
+- [Hubble Space Telescope sees colliding galaxies aglow with stars](https://www.space.com/interacting-galaxies-aglow-star-formation-hubble-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
