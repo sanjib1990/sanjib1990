@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Huge stars are born as twins, triplets and more, new images confirm](https://www.space.com/massive-stars-multiple-births-alma-images)
+- [VCs are not done betting on fintech](https://techcrunch.com/2024/01/24/vcs-fintech-50-trends/)
+- [Gen Z investing app Alinea raises $3.4M, plans to launch an ‘AI copilot’](https://techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/)
 - [Could space salad jeopardize a mission to Mars?](https://www.space.com/space-salad-microgravity-mars-moon-missions-pathogens-iss)
 - [NASA stresses Artemis 2 moon crew safety as agency remembers fallen astronauts](https://www.space.com/artemis-2-moon-astronaut-safety-nasa-day-of-remembrance)
-- [Ask Sophie: As an immigrant, how can I work in space tech?](https://techcrunch.com/2024/01/24/ask-sophie-as-an-immigrant-how-can-i-work-in-space-tech/)
-- [A shallow lake in Canada could reveal how life on Earth began](https://www.space.com/life-on-earth-shallow-soda-lakes-darwin)
-- [Where gut health meets hypergrowth with Ben Goodwin from Olipop](https://techcrunch.com/2024/01/24/where-gut-health-meets-hypergrowth-with-ben-goodwin-from-olipop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
