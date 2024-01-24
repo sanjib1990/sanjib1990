@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fantuan acquires Chowbus’ food delivery business](https://techcrunch.com/2024/01/24/fantuan-acquires-chowbus-food-delivery/)
-- [TextQL aims to add AI-powered intelligence on top of business data](https://techcrunch.com/2024/01/24/textql-aims-to-add-ai-powered-intelligence-on-top-of-business-data/)
-- [Arcee is a secure, enterprise-focused platform for building GenAI](https://techcrunch.com/2024/01/24/arcee-is-a-secure-enterprise-focused-platform-for-building-genai/)
-- [Elo Life Systems grabs another $20.5M to get its monk fruit sweetener to market](https://techcrunch.com/2024/01/24/elo-life-systems-20-5m-monk-fruit-sweetener-food-tech/)
-- [Google announces new AI-powered features for education](https://techcrunch.com/2024/01/24/google-announces-new-ai-powered-features-for-education/)
+- [Anomalo’s machine learning approach to data quality is growing like gangbusters](https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/)
+- [Prompt Security wants to make GenAI safe for the enterprise](https://techcrunch.com/2024/01/24/prompt-security-wants-to-make-genai-safe-for-the-enterprise/)
+- [There’s an AI ‘brain drain’ in academia](https://techcrunch.com/2024/01/24/theres-an-ai-brain-drain-in-academia/)
+- [Bulova adds limited edition meteorite dial to Apollo 15-inspired Lunar Pilot watch](https://www.space.com/bulova-apollo-15-meteorite-lunar-pilot-watch)
+- [How to plan for general partner succession](https://techcrunch.com/2024/01/24/how-to-plan-for-general-partner-succession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
