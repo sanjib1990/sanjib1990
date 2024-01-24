@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BeReal, which now has 23M DAUs, is onboarding brands and celebs](https://techcrunch.com/2024/01/24/bereal-which-now-has-23m-daus-is-onboarding-brands-and-celebs/)
+- [Etsy launches ‘Gift Mode,’ a new AI-powered feature that generates 200+ gift guides](https://techcrunch.com/2024/01/24/etsy-launches-gift-mode-a-new-ai-powered-feature-that-generates-200-gift-guides/)
+- [Krafton plans to extend PUBG supremacy with franchise growth, graphics revamp](https://techcrunch.com/2024/01/24/krafton-plans-incremental-updates-to-pubg-including-graphics-revamp-goldman-says/)
 - [Happy 20th, Spirit and Opportunity! How the Mars rovers expanded our horizons](https://www.space.com/mars-rovers-spirit-opportunity-20th-anniversary)
 - [General Catalyst leads $200M investment into Bilt Rewards, doubling its valuation to $3.1B](https://techcrunch.com/2024/01/24/bilt-rewards-brings-in-200m-led-by-general-catalyst-doubles-valuation-to-3-1b/)
-- [Google’s Gradient backs Send AI to help enterprises extract data from complex documents](https://techcrunch.com/2024/01/24/googles-gradient-backs-send-ai-to-help-enterprises-extract-data-from-complex-documents/)
-- [The demands of regulated industries helped this startup raise $8M for its conversational AI approach](https://techcrunch.com/2024/01/24/the-demands-of-regulated-industries-helped-this-startup-raise-8m-for-its-conversational-ai-approach/)
-- [An increasing consumer appetite for sustainable packaging is powering a new wave of startups](https://techcrunch.com/2024/01/24/an-increasing-consumer-appetite-for-sustainable-packaging-is-powering-a-new-wave-of-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
