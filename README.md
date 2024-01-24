@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s what to know to raise a Series A right now](https://techcrunch.com/2024/01/24/raising-series-a-tips/)
-- [Watch Chinese startup Landspace launch and land reusable rocket prototype for 1st time &lpar;video&rpar;](https://www.space.com/chinese-startup-landspace-reusable-rocket-test-video)
-- [Near-simultaneous solar flares explode from opposite sides of the sun in extremely rare event](https://www.space.com/simultaneous-solar-flares-explode-opposite-sides-of-sun)
-- [Soon you’ll be able to play Dungeons &amp; Dragons in VR… if you want](https://techcrunch.com/2024/01/24/soon-youll-be-able-to-play-dungeons-dragons-in-vr-if-you-want/)
-- [MLCommons wants to create AI benchmarks for laptops, desktops and workstations](https://techcrunch.com/2024/01/24/mlcommons-wants-to-create-ai-benchmarks-for-laptops-desktops-and-workstations/)
+- [Ask Sophie: As an immigrant, how can I work in space tech?](https://techcrunch.com/2024/01/24/ask-sophie-as-an-immigrant-how-can-i-work-in-space-tech/)
+- [A shallow lake in Canada could reveal how life on Earth began](https://www.space.com/life-on-earth-shallow-soda-lakes-darwin)
+- [Where gut health meets hypergrowth with Ben Goodwin from Olipop](https://techcrunch.com/2024/01/24/where-gut-health-meets-hypergrowth-with-ben-goodwin-from-olipop/)
+- [Amazon reverses course, revokes police access to Ring footage via Neighbors app](https://techcrunch.com/2024/01/24/amazon-reverses-course-revokes-police-access-to-ring-footage-via-neighbors-app/)
+- [Twitch announces 60/40 revenue split in expanded Plus Program](https://techcrunch.com/2024/01/24/twitch-announces-60-40-revenue-split-in-expanded-plus-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
