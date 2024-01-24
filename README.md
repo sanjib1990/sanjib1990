@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kittl raises another $36 million for its browser-based design tool](https://techcrunch.com/2024/01/23/kittl-raises-another-36-million-for-its-browser-based-design-tool/)
 - [Aniai is bringing a burger-cooking robot to restaurants with $12M](https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/)
 - [Pentagon moves to declassify some secret space programs and technologies](https://www.space.com/pentagon-us-military-declassify-secret-space-programs)
 - [French small launch startup Latitude closes $30M Series B](https://techcrunch.com/2024/01/23/french-small-launch-startup-latitude-closes-30m-series-b/)
 - [Samsung’s EX1 wearable robot is designed to improve mobility in older adults](https://techcrunch.com/2024/01/23/samsungs-ex1-wearable-robot-is-designed-to-improve-mobility-in-older-adults/)
-- [Chinese astronauts check out newly delivered space station supplies &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-tiangong-supplies-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
