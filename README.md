@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Gradient backs Send AI to help enterprises extract data from complex documents](https://techcrunch.com/2024/01/24/googles-gradient-backs-send-ai-to-help-enterprises-extract-data-from-complex-documents/)
 - [The demands of regulated industries helped this startup raise $8M for its conversational AI approach](https://techcrunch.com/2024/01/24/the-demands-of-regulated-industries-helped-this-startup-raise-8m-for-its-conversational-ai-approach/)
 - [An increasing consumer appetite for sustainable packaging is powering a new wave of startups](https://techcrunch.com/2024/01/24/an-increasing-consumer-appetite-for-sustainable-packaging-is-powering-a-new-wave-of-startups/)
 - [eBay plans to cut 1,000 jobs because it couldn’t grow enough](https://techcrunch.com/2024/01/23/ebay-plans-to-cut-1000-jobs-because-it-couldnt-grow-enough/)
 - [Kittl raises another $36 million for its browser-based design tool](https://techcrunch.com/2024/01/23/kittl-raises-another-36-million-for-its-browser-based-design-tool/)
-- [Aniai is bringing a burger-cooking robot to restaurants with $12M](https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
