@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anomalo’s machine learning approach to data quality is growing like gangbusters](https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/)
-- [Prompt Security wants to make GenAI safe for the enterprise](https://techcrunch.com/2024/01/24/prompt-security-wants-to-make-genai-safe-for-the-enterprise/)
-- [There’s an AI ‘brain drain’ in academia](https://techcrunch.com/2024/01/24/theres-an-ai-brain-drain-in-academia/)
-- [Bulova adds limited edition meteorite dial to Apollo 15-inspired Lunar Pilot watch](https://www.space.com/bulova-apollo-15-meteorite-lunar-pilot-watch)
-- [How to plan for general partner succession](https://techcrunch.com/2024/01/24/how-to-plan-for-general-partner-succession/)
+- [Feds kick off National AI Research Resource with pilot program live today](https://techcrunch.com/2024/01/24/feds-kick-off-national-ai-research-resource-with-pilot-program-live-today/)
+- [This Hubble Telescope photo of a spiral galaxy will take your breath away](https://www.space.com/hubble-telescope-photo-spiral-galaxy-ic-438)
+- [Court rules in favor of a web scraper, Bright Data, which Meta had used and then sued](https://techcrunch.com/2024/01/24/court-rules-in-favor-of-a-web-scraper-bright-data-which-meta-had-used-and-then-sued/)
+- [Klarna introduces $7.99 ‘Klarna Plus’ subscription plan as it approaches an IPO](https://techcrunch.com/2024/01/24/klarna-introduces-7-99-klarna-plus-subscription-plan-as-it-approaches-an-ipo/)
+- [Who knew M&amp;A would be the thing we couldn’t shut up about?](https://techcrunch.com/2024/01/24/who-knew-ma-would-be-the-thing-we-couldnt-shut-up-about/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
