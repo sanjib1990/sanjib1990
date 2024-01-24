@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could space salad jeopardize a mission to Mars?](https://www.space.com/space-salad-microgravity-mars-moon-missions-pathogens-iss)
+- [NASA stresses Artemis 2 moon crew safety as agency remembers fallen astronauts](https://www.space.com/artemis-2-moon-astronaut-safety-nasa-day-of-remembrance)
 - [Ask Sophie: As an immigrant, how can I work in space tech?](https://techcrunch.com/2024/01/24/ask-sophie-as-an-immigrant-how-can-i-work-in-space-tech/)
 - [A shallow lake in Canada could reveal how life on Earth began](https://www.space.com/life-on-earth-shallow-soda-lakes-darwin)
 - [Where gut health meets hypergrowth with Ben Goodwin from Olipop](https://techcrunch.com/2024/01/24/where-gut-health-meets-hypergrowth-with-ben-goodwin-from-olipop/)
-- [Amazon reverses course, revokes police access to Ring footage via Neighbors app](https://techcrunch.com/2024/01/24/amazon-reverses-course-revokes-police-access-to-ring-footage-via-neighbors-app/)
-- [Twitch announces 60/40 revenue split in expanded Plus Program](https://techcrunch.com/2024/01/24/twitch-announces-60-40-revenue-split-in-expanded-plus-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
