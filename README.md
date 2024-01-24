@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Huge stars are born as twins, triplets and more, new images confirm](https://www.space.com/massive-stars-multiple-births-alma-images)
-- [VCs are not done betting on fintech](https://techcrunch.com/2024/01/24/vcs-fintech-50-trends/)
-- [Gen Z investing app Alinea raises $3.4M, plans to launch an ‘AI copilot’](https://techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/)
-- [Could space salad jeopardize a mission to Mars?](https://www.space.com/space-salad-microgravity-mars-moon-missions-pathogens-iss)
-- [NASA stresses Artemis 2 moon crew safety as agency remembers fallen astronauts](https://www.space.com/artemis-2-moon-astronaut-safety-nasa-day-of-remembrance)
+- [Bluesky CEO confronts content moderation in the fediverse](https://techcrunch.com/2024/01/24/bluesky-ceo-confronts-content-moderation-in-the-fediverse/)
+- [Tesla’s solar installs drop, but battery business is booming](https://techcrunch.com/2024/01/24/teslas-solar-installs-drop-but-battery-business-is-booming/)
+- [As the Mac turns 40, a tip of the hat to Mr. Macintosh](https://techcrunch.com/2024/01/24/apple-mac-man/)
+- [How NASA predicted the Jan. 21 asteroid crash over Germany](https://www.space.com/how-nasa-predicted-asteroid-2024-bx1-strike)
+- [Tesla says EV sales growth may be “notably lower” in 2024](https://techcrunch.com/2024/01/24/tesla-says-ev-sales-growth-may-be-notably-lower-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
