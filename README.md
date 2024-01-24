@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo 17 astronauts saw strange flashes on the moon. Will Artemis crews see them too?](https://www.space.com/artemis-astronauts-see-flashes-on-the-moon-apollo-17)
-- [Reflectors in space could make solar farms on Earth work for longer every day](https://www.space.com/reflectors-in-space-increase-solar-farm-capacity)
-- [Spotify teases in-app purchases for EU iPhone users ahead of incoming DMA regulation](https://techcrunch.com/2024/01/24/spotify-teases-in-app-purchases-for-eu-iphone-users-ahead-of-incoming-dma-regulation/)
-- [BeReal, which now has 23M DAUs, is onboarding brands and celebs](https://techcrunch.com/2024/01/24/bereal-which-now-has-23m-daus-is-onboarding-brands-and-celebs/)
-- [Etsy launches ‘Gift Mode,’ a new AI-powered feature that generates 200+ gift guides](https://techcrunch.com/2024/01/24/etsy-launches-gift-mode-a-new-ai-powered-feature-that-generates-200-gift-guides/)
+- [Fantuan acquires Chowbus’ food delivery business](https://techcrunch.com/2024/01/24/fantuan-acquires-chowbus-food-delivery/)
+- [TextQL aims to add AI-powered intelligence on top of business data](https://techcrunch.com/2024/01/24/textql-aims-to-add-ai-powered-intelligence-on-top-of-business-data/)
+- [Arcee is a secure, enterprise-focused platform for building GenAI](https://techcrunch.com/2024/01/24/arcee-is-a-secure-enterprise-focused-platform-for-building-genai/)
+- [Elo Life Systems grabs another $20.5M to get its monk fruit sweetener to market](https://techcrunch.com/2024/01/24/elo-life-systems-20-5m-monk-fruit-sweetener-food-tech/)
+- [Google announces new AI-powered features for education](https://techcrunch.com/2024/01/24/google-announces-new-ai-powered-features-for-education/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
