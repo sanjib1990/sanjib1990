@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Feds kick off National AI Research Resource with pilot program live today](https://techcrunch.com/2024/01/24/feds-kick-off-national-ai-research-resource-with-pilot-program-live-today/)
-- [This Hubble Telescope photo of a spiral galaxy will take your breath away](https://www.space.com/hubble-telescope-photo-spiral-galaxy-ic-438)
-- [Court rules in favor of a web scraper, Bright Data, which Meta had used and then sued](https://techcrunch.com/2024/01/24/court-rules-in-favor-of-a-web-scraper-bright-data-which-meta-had-used-and-then-sued/)
-- [Klarna introduces $7.99 ‘Klarna Plus’ subscription plan as it approaches an IPO](https://techcrunch.com/2024/01/24/klarna-introduces-7-99-klarna-plus-subscription-plan-as-it-approaches-an-ipo/)
-- [Who knew M&amp;A would be the thing we couldn’t shut up about?](https://techcrunch.com/2024/01/24/who-knew-ma-would-be-the-thing-we-couldnt-shut-up-about/)
+- [Web Summit CEO jumps ship to head up NPR after just three months](https://techcrunch.com/2024/01/24/in-shock-move-web-summit-ceo-katherine-maher-jumps-web-summits-ship-to-head-up-npr/)
+- [Amie brings your email inbox to its calendar app](https://techcrunch.com/2024/01/24/amie-brings-your-email-inbox-to-its-calendar-app/)
+- [Watch NASA honor fallen astronauts with &#39;Day of Remembrance&#39; ceremony on Jan. 25](https://www.space.com/nasa-day-of-remembrance-2024-webcast)
+- [Apple weighs taking commissions on sideloaded apps in EU, report says](https://techcrunch.com/2024/01/24/apple-weighs-taking-commissions-on-sideloaded-apps-in-eu-report-says/)
+- [Join StrictlyVC in Los Angeles the night of February 29](https://techcrunch.com/2024/01/24/join-strictlyvc-in-los-angeles-the-night-of-february-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
