@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Summit CEO jumps ship to head up NPR after just three months](https://techcrunch.com/2024/01/24/in-shock-move-web-summit-ceo-katherine-maher-jumps-web-summits-ship-to-head-up-npr/)
-- [Amie brings your email inbox to its calendar app](https://techcrunch.com/2024/01/24/amie-brings-your-email-inbox-to-its-calendar-app/)
-- [Watch NASA honor fallen astronauts with &#39;Day of Remembrance&#39; ceremony on Jan. 25](https://www.space.com/nasa-day-of-remembrance-2024-webcast)
-- [Apple weighs taking commissions on sideloaded apps in EU, report says](https://techcrunch.com/2024/01/24/apple-weighs-taking-commissions-on-sideloaded-apps-in-eu-report-says/)
-- [Join StrictlyVC in Los Angeles the night of February 29](https://techcrunch.com/2024/01/24/join-strictlyvc-in-los-angeles-the-night-of-february-29/)
+- [Here’s what to know to raise a Series A right now](https://techcrunch.com/2024/01/24/raising-series-a-tips/)
+- [Watch Chinese startup Landspace launch and land reusable rocket prototype for 1st time &lpar;video&rpar;](https://www.space.com/chinese-startup-landspace-reusable-rocket-test-video)
+- [Near-simultaneous solar flares explode from opposite sides of the sun in extremely rare event](https://www.space.com/simultaneous-solar-flares-explode-opposite-sides-of-sun)
+- [Soon you’ll be able to play Dungeons &amp; Dragons in VR… if you want](https://techcrunch.com/2024/01/24/soon-youll-be-able-to-play-dungeons-dragons-in-vr-if-you-want/)
+- [MLCommons wants to create AI benchmarks for laptops, desktops and workstations](https://techcrunch.com/2024/01/24/mlcommons-wants-to-create-ai-benchmarks-for-laptops-desktops-and-workstations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
