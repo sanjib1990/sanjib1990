@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese company launches 5 remote-sensing satellites to orbit &lpar;video&rpar;](https://www.space.com/china-rocket-launch-cas-space-kinetica-1-january-2024)
+- [Hubble spots water around tiny hot and steamy exoplanet in &#39;exciting discovery&#39;](https://www.space.com/hubble-telescope-water-tiny-hot-steamy-exoplanet)
+- [As one raises $11.2M to hit the US, carbon startups pin hopes on future regulation to boost their fortunes](https://techcrunch.com/2024/01/25/as-one-raises-11-2m-to-hit-the-us-carbon-startups-pin-hopes-on-future-regulation-to-boost-their-fortunes/)
+- [Kusari is building a supply chain security platform on top of open source](https://techcrunch.com/2024/01/25/kusari-is-building-a-supply-chain-security-platform-on-top-of-open-source/)
 - [Pixel 8 Pro users can now use the Thermometer app to measure body temperature](https://techcrunch.com/2024/01/25/pixel-8-pro-users-can-use-thermometer-app-measure-body-temperature/)
-- [On China&#39;s space station, scientists will study some of Earth&#39;s earliest organisms](https://www.space.com/chinese-spacecraft-early-earth-life-methane-tianzhou-7-cargo)
-- [Innovation Endeavors closes $630M for Fund V to invest at intersection of science, tech](https://techcrunch.com/2024/01/25/innovation-endeavors-630m-fund-science-technology/)
-- [Observability platform Better Stack secures $10M cash infusion](https://techcrunch.com/2024/01/25/observability-platform-better-stack-secures-10m-cash-infusion/)
-- [What the search for alien &#39;megastructures&#39; taught us about seeking life beyond Earth](https://www.space.com/alien-megastructure-search-life-beyond-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
