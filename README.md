@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s SLIM moon lander photographed on the lunar surface &lpar;image&rpar;](https://www.space.com/japan-slim-moon-lander-photo-lunar-surface)
+- [Thankful Registry continues its emphasis on thoughtful gift giving](https://techcrunch.com/2024/01/24/thankful-registry-continues-its-emphasis-on-thoughtful-gift-giving/)
 - [Worldcoin to launch new Orb to make its eyeball scanning device look “more friendly”](https://techcrunch.com/2024/01/24/worldcoin-to-launch-new-orb-to-make-its-eyeball-scanning-device-look-more-friendly/)
 - [Pokemon Company says it intends to investigate Palworld](https://techcrunch.com/2024/01/24/pokemon-company-says-it-intends-to-investigate-palworld/)
 - [A $58M round for this European Mycelium startup shows the tech is on the cusp of big things](https://techcrunch.com/2024/01/24/mycelium/)
-- [NASA fires up powerful Artemis moon rocket engine in key test &lpar;video&rpar;](https://www.space.com/moon-engine-rocket-test-rs-25-artemis-mission-january-2024)
-- [Self-driving vehicle company Aurora cuts 3% of its workforce](https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
