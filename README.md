@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC orders AI companies to dish on investments, partnerships and meetings](https://techcrunch.com/2024/01/25/ftc-orders-ai-companies-to-dish-on-investments-partnerships-and-meetings/)
-- [Vampire black hole is a &#39;cosmic particle accelerator&#39; that may solve a longstanding astronomy mystery](https://www.space.com/vampire-black-hole-cosmic-ray-microquasar-mystery)
-- [Belgium signs Artemis Accords for responsible moon exploration](https://www.space.com/belgium-signs-artemis-accords-moon-exploration)
-- [Apple reveals big App Store and iOS changes incoming in EU on DMA day](https://techcrunch.com/2024/01/25/apple-dma-changes/)
-- [Google extends its Project IDX development environment with built-in iOS and Android emulators](https://techcrunch.com/2024/01/25/google-extends-its-project-idx-development-environment-with-built-in-ios-and-android-emulators/)
+- [Epic Games CEO calls out Apple’s DMA rules as ‘malicious compliance’ and full of ‘junk fees’](https://techcrunch.com/2024/01/25/epic-games-ceo-calls-out-apples-dma-rules-as-malicious-compliance-and-full-of-junk-fees/)
+- [Rest in Peace: NASA’s Ingenuity helicopter took its last flight on Mars](https://techcrunch.com/2024/01/25/rest-in-peace-nasas-ingenuity-helicopter-took-its-last-flight-on-mars/)
+- [Bitcoin and Ethereum decline on the week, Worldcoin to launch a new Orb and Terraform Labs files for bankruptcy](https://techcrunch.com/2024/01/25/bitcoin-and-ethereum-decline-on-the-week-worldcoin-to-launch-a-new-orb-and-terraform-labs-files-for-bankruptcy/)
+- [SpaceX&#39;s Crew-8 astronaut launch date in late February hinges on private moon shot](https://www.space.com/spacex-crew-8-astronaut-launch-date-february-2024-moon-mission)
+- [OpenAI drops prices and fixes ‘lazy’ GPT-4 that refused to work](https://techcrunch.com/2024/01/25/openai-drops-prices-and-fixes-lazy-gpt-4-that-refused-to-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
