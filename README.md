@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers showcase a speedy new approach to printing metal](https://techcrunch.com/2024/01/25/researchers-showcase-a-speedy-new-approach-to-printing-metal/)
+- [PayPal to pilot new AI-powered updates, including a cash back feature and ‘Smart Receipts’](https://techcrunch.com/2024/01/25/paypal-pilot-ai-powered-features-including-cash-back-tool-smart-receipts/)
+- [Kids spent 60% more time on TikTok than YouTube last year,  20% tried OpenAI’s ChatGPT](https://techcrunch.com/2024/01/25/kids-spent-60-more-time-on-tiktok-than-youtube-last-year-20-tried-openais-chatgpt/)
 - [Weather Up puts a fully interactive weather app into an iOS widget](https://techcrunch.com/2024/01/25/weather-up-puts-a-fully-interactive-weather-app-into-an-ios-widget/)
 - [Digs raises $7M for its collaboration platform for home builders](https://techcrunch.com/2024/01/25/digs-raises-7m-for-its-collaboration-platform-for-home-builders/)
-- [mmm.page could make you enjoy the internet again](https://techcrunch.com/2024/01/25/mmm-page-could-make-you-enjoy-the-internet-again/)
-- [&#39;Star Wars: The Bad Batch&#39; season 3 trailer signals the end of a spirited series](https://www.space.com/star-wars-bad-batch-season-3-trailer)
-- [Chunk Foods secures funding, Latin America deal for plant-based whole cuts](https://techcrunch.com/2024/01/25/chunk-foods-funding-latin-america-plant-based-whole-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
