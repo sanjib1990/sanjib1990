@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [General purpose humanoid robots? Bill Gates is a believer](https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/)
+- [Solana Mobile still has a long way to go until it hits breakeven](https://techcrunch.com/2024/01/25/solana-mobile-anatoly-yakovenko-interview/)
+- [Swift retaliation: Fans strike back after explicit deepfakes flood X](https://techcrunch.com/2024/01/25/taylor-swift-ai-deepfake-fan-response/)
+- [Japan’s SLIM spacecraft sticks moon landing – upside-down](https://techcrunch.com/2024/01/25/japans-slim-spacecraft-sticks-moon-landing-upside-down/)
 - [Startup brewing waste to replace palm oil gets Gates Foundation cash](https://techcrunch.com/2024/01/25/startup-brewing-waste-to-replace-palm-oil-gets-gates-foundation-cash/)
-- [NASA&#39;s Mars helicopter Ingenuity has flown its last flight after suffering rotor damage](https://www.space.com/nasa-ingenuity-mars-helicopter-mission-ends)
-- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/01/25/tech-layoffs-2023-list/)
-- [Cruise reveals DOJ, SEC probes as it releases internal report on pedestrian crash](https://techcrunch.com/2024/01/25/cruise-reveals-doj-sec-probes-as-it-releases-internal-report-on-pedestrian-crash/)
-- [23andMe admits it didn’t detect cyberattacks for months](https://techcrunch.com/2024/01/25/23andme-admits-it-didnt-detect-cyberattacks-for-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
