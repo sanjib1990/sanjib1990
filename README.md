@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic Games CEO calls out Apple’s DMA rules as ‘malicious compliance’ and full of ‘junk fees’](https://techcrunch.com/2024/01/25/epic-games-ceo-calls-out-apples-dma-rules-as-malicious-compliance-and-full-of-junk-fees/)
-- [Rest in Peace: NASA’s Ingenuity helicopter took its last flight on Mars](https://techcrunch.com/2024/01/25/rest-in-peace-nasas-ingenuity-helicopter-took-its-last-flight-on-mars/)
-- [Bitcoin and Ethereum decline on the week, Worldcoin to launch a new Orb and Terraform Labs files for bankruptcy](https://techcrunch.com/2024/01/25/bitcoin-and-ethereum-decline-on-the-week-worldcoin-to-launch-a-new-orb-and-terraform-labs-files-for-bankruptcy/)
-- [SpaceX&#39;s Crew-8 astronaut launch date in late February hinges on private moon shot](https://www.space.com/spacex-crew-8-astronaut-launch-date-february-2024-moon-mission)
-- [OpenAI drops prices and fixes ‘lazy’ GPT-4 that refused to work](https://techcrunch.com/2024/01/25/openai-drops-prices-and-fixes-lazy-gpt-4-that-refused-to-work/)
+- [Startup brewing waste to replace palm oil gets Gates Foundation cash](https://techcrunch.com/2024/01/25/startup-brewing-waste-to-replace-palm-oil-gets-gates-foundation-cash/)
+- [NASA&#39;s Mars helicopter Ingenuity has flown its last flight after suffering rotor damage](https://www.space.com/nasa-ingenuity-mars-helicopter-mission-ends)
+- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/01/25/tech-layoffs-2023-list/)
+- [Cruise reveals DOJ, SEC probes as it releases internal report on pedestrian crash](https://techcrunch.com/2024/01/25/cruise-reveals-doj-sec-probes-as-it-releases-internal-report-on-pedestrian-crash/)
+- [23andMe admits it didn’t detect cyberattacks for months](https://techcrunch.com/2024/01/25/23andme-admits-it-didnt-detect-cyberattacks-for-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
