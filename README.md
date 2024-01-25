@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Luko’s acquisition won’t make everyone happy, but the insurtech will live on](https://techcrunch.com/2024/01/25/luko-insurtech-allianz-direct/)
+- [Fortnite and the Epic Games Store are coming to iOS in Europe](https://techcrunch.com/2024/01/25/fortnite-is-coming-back-to-ios-this-year-but-only-in-europe/)
+- [OpenAI responds to Congressional Black Caucus about lack of diversity on its board](https://techcrunch.com/2024/01/25/openai-responds-to-congressional-black-caucus-about-lack-of-diversity-on-its-board/)
+- [Our shrinking moon could cause moonquakes near Artemis astronauts&#39; landing site, scientists warn](https://www.space.com/shrinking-moon-artemis-astronauts-landing-site)
 - [General purpose humanoid robots? Bill Gates is a believer](https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/)
-- [Solana Mobile still has a long way to go until it hits breakeven](https://techcrunch.com/2024/01/25/solana-mobile-anatoly-yakovenko-interview/)
-- [Swift retaliation: Fans strike back after explicit deepfakes flood X](https://techcrunch.com/2024/01/25/taylor-swift-ai-deepfake-fan-response/)
-- [Japan’s SLIM spacecraft sticks moon landing – upside-down](https://techcrunch.com/2024/01/25/japans-slim-spacecraft-sticks-moon-landing-upside-down/)
-- [Startup brewing waste to replace palm oil gets Gates Foundation cash](https://techcrunch.com/2024/01/25/startup-brewing-waste-to-replace-palm-oil-gets-gates-foundation-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
