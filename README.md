@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DXwand raises $4M to scale its conversational AI platform for enterprises in MENA](https://techcrunch.com/2024/01/25/dxwand-raises-4m-to-scale-its-conversational-ai-platform-for-enterprises-in-mena/)
 - [Japan&#39;s SLIM moon lander photographed on the lunar surface &lpar;image&rpar;](https://www.space.com/japan-slim-moon-lander-photo-lunar-surface)
 - [Thankful Registry continues its emphasis on thoughtful gift giving](https://techcrunch.com/2024/01/24/thankful-registry-continues-its-emphasis-on-thoughtful-gift-giving/)
 - [Worldcoin to launch new Orb to make its eyeball scanning device look “more friendly”](https://techcrunch.com/2024/01/24/worldcoin-to-launch-new-orb-to-make-its-eyeball-scanning-device-look-more-friendly/)
 - [Pokemon Company says it intends to investigate Palworld](https://techcrunch.com/2024/01/24/pokemon-company-says-it-intends-to-investigate-palworld/)
-- [A $58M round for this European Mycelium startup shows the tech is on the cusp of big things](https://techcrunch.com/2024/01/24/mycelium/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
