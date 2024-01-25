@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers showcase a speedy new approach to printing metal](https://techcrunch.com/2024/01/25/researchers-showcase-a-speedy-new-approach-to-printing-metal/)
-- [PayPal to pilot new AI-powered updates, including a cash back feature and ‘Smart Receipts’](https://techcrunch.com/2024/01/25/paypal-pilot-ai-powered-features-including-cash-back-tool-smart-receipts/)
-- [Kids spent 60% more time on TikTok than YouTube last year,  20% tried OpenAI’s ChatGPT](https://techcrunch.com/2024/01/25/kids-spent-60-more-time-on-tiktok-than-youtube-last-year-20-tried-openais-chatgpt/)
-- [Weather Up puts a fully interactive weather app into an iOS widget](https://techcrunch.com/2024/01/25/weather-up-puts-a-fully-interactive-weather-app-into-an-ios-widget/)
-- [Digs raises $7M for its collaboration platform for home builders](https://techcrunch.com/2024/01/25/digs-raises-7m-for-its-collaboration-platform-for-home-builders/)
+- [FTC orders AI companies to dish on investments, partnerships and meetings](https://techcrunch.com/2024/01/25/ftc-orders-ai-companies-to-dish-on-investments-partnerships-and-meetings/)
+- [Vampire black hole is a &#39;cosmic particle accelerator&#39; that may solve a longstanding astronomy mystery](https://www.space.com/vampire-black-hole-cosmic-ray-microquasar-mystery)
+- [Belgium signs Artemis Accords for responsible moon exploration](https://www.space.com/belgium-signs-artemis-accords-moon-exploration)
+- [Apple reveals big App Store and iOS changes incoming in EU on DMA day](https://techcrunch.com/2024/01/25/apple-dma-changes/)
+- [Google extends its Project IDX development environment with built-in iOS and Android emulators](https://techcrunch.com/2024/01/25/google-extends-its-project-idx-development-environment-with-built-in-ios-and-android-emulators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
