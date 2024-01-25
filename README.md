@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pixel 8 Pro users can now use the Thermometer app to measure body temperature](https://techcrunch.com/2024/01/25/pixel-8-pro-users-can-use-thermometer-app-measure-body-temperature/)
+- [On China&#39;s space station, scientists will study some of Earth&#39;s earliest organisms](https://www.space.com/chinese-spacecraft-early-earth-life-methane-tianzhou-7-cargo)
+- [Innovation Endeavors closes $630M for Fund V to invest at intersection of science, tech](https://techcrunch.com/2024/01/25/innovation-endeavors-630m-fund-science-technology/)
+- [Observability platform Better Stack secures $10M cash infusion](https://techcrunch.com/2024/01/25/observability-platform-better-stack-secures-10m-cash-infusion/)
 - [What the search for alien &#39;megastructures&#39; taught us about seeking life beyond Earth](https://www.space.com/alien-megastructure-search-life-beyond-earth)
-- [The 1st full moon of 2024 rises tonight with January&#39;s Full Wolf Moon](https://www.space.com/full-wolf-moon-january-2024)
-- [India’s Swiggy to cut another 400 jobs amid IPO push](https://techcrunch.com/2024/01/25/swiggy-to-cut-another-400-jobs-ahead-of-ipo-later-this-year/)
-- [The universe might be younger than we think, galaxies&#39; motion suggests](https://www.space.com/universe-younger-than-thought-galaxy-motion)
-- [Meta is rolling out tighter teen messaging limitations and parental controls](https://techcrunch.com/2024/01/25/meta-is-rolling-out-tighter-teen-messaging-limitations-and-parental-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
