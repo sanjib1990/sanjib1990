@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Worldcoin to launch new Orb to make its eyeball scanning device look “more friendly”](https://techcrunch.com/2024/01/24/worldcoin-to-launch-new-orb-to-make-its-eyeball-scanning-device-look-more-friendly/)
 - [Pokemon Company says it intends to investigate Palworld](https://techcrunch.com/2024/01/24/pokemon-company-says-it-intends-to-investigate-palworld/)
 - [A $58M round for this European Mycelium startup shows the tech is on the cusp of big things](https://techcrunch.com/2024/01/24/mycelium/)
 - [NASA fires up powerful Artemis moon rocket engine in key test &lpar;video&rpar;](https://www.space.com/moon-engine-rocket-test-rs-25-artemis-mission-january-2024)
 - [Self-driving vehicle company Aurora cuts 3% of its workforce](https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/)
-- [Bluesky CEO confronts content moderation in the fediverse](https://techcrunch.com/2024/01/24/bluesky-ceo-confronts-content-moderation-in-the-fediverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
