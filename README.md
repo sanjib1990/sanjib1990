@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The universe might be younger than we think, galaxies&#39; motion suggests](https://www.space.com/universe-younger-than-thought-galaxy-motion)
+- [Meta is rolling out tighter teen messaging limitations and parental controls](https://techcrunch.com/2024/01/25/meta-is-rolling-out-tighter-teen-messaging-limitations-and-parental-controls/)
 - [HPE says it was hacked by Russian group behind Microsoft email breach](https://techcrunch.com/2024/01/25/hpe-says-it-was-hacked-by-russian-group-behind-microsoft-email-breach/)
 - [DXwand raises $4M to scale its conversational AI platform serving enterprises in MENA](https://techcrunch.com/2024/01/25/dxwand-raises-4m-to-scale-its-conversational-ai-platform-for-enterprises-in-mena/)
 - [Japan&#39;s SLIM moon lander photographed on the lunar surface &lpar;image&rpar;](https://www.space.com/japan-slim-moon-lander-photo-lunar-surface)
-- [Thankful Registry continues its emphasis on thoughtful gift giving](https://techcrunch.com/2024/01/24/thankful-registry-continues-its-emphasis-on-thoughtful-gift-giving/)
-- [Worldcoin to launch new Orb to make its eyeball scanning device look “more friendly”](https://techcrunch.com/2024/01/24/worldcoin-to-launch-new-orb-to-make-its-eyeball-scanning-device-look-more-friendly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
