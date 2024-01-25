@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chinese company launches 5 remote-sensing satellites to orbit &lpar;video&rpar;](https://www.space.com/china-rocket-launch-cas-space-kinetica-1-january-2024)
-- [Hubble spots water around tiny hot and steamy exoplanet in &#39;exciting discovery&#39;](https://www.space.com/hubble-telescope-water-tiny-hot-steamy-exoplanet)
-- [As one raises $11.2M to hit the US, carbon startups pin hopes on future regulation to boost their fortunes](https://techcrunch.com/2024/01/25/as-one-raises-11-2m-to-hit-the-us-carbon-startups-pin-hopes-on-future-regulation-to-boost-their-fortunes/)
-- [Kusari is building a supply chain security platform on top of open source](https://techcrunch.com/2024/01/25/kusari-is-building-a-supply-chain-security-platform-on-top-of-open-source/)
-- [Pixel 8 Pro users can now use the Thermometer app to measure body temperature](https://techcrunch.com/2024/01/25/pixel-8-pro-users-can-use-thermometer-app-measure-body-temperature/)
+- [&#39;Star Wars: The Bad Batch&#39; season 3 trailer signals the end of a spirited series](https://www.space.com/star-wars-bad-batch-season-3-trailer)
+- [Chunk Foods secures funding, Latin America deal for plant-based whole cuts](https://techcrunch.com/2024/01/25/chunk-foods-funding-latin-america-plant-based-whole-cuts/)
+- [Microsoft lays off 1,900 employees in Activision Blizzard and Xbox divisions](https://techcrunch.com/2024/01/25/microsoft-lays-off-1900-employees-in-activision-blizzard-and-xbox-divisions/)
+- [&#39;We proved that you can land wherever you want.&#39; Japan&#39;s SLIM moon probe nailed precise lunar landing, JAXA says](https://www.space.com/japan-slim-moon-precise-landing)
+- [The Porsche Macan EV is a bet that buyers still want pricey electric vehicles](https://techcrunch.com/2024/01/25/the-porsche-macan-ev-is-a-bet-that-buyers-still-want-pricey-electric-vehicles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
