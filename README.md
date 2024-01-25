@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why aren’t you using TMUX??](https://www.youtube.com/watch?v=BKuRaWqpkJw)
 - [real HTML programmers debug in 3D](https://www.youtube.com/watch?v=gGWQfV1FCis)
 - [how i make videos](https://www.youtube.com/watch?v=m1j7RUEb3Z0)
 - [How CPUs Do Math&lpar;s&rpar; - Computerphile](https://www.youtube.com/watch?v=nhXevKMm3JI)
 - [Progress Bars - Computerphile](https://www.youtube.com/watch?v=uHh0qpc1BR4)
-- [Ask Me Anything](https://www.youtube.com/watch?v=Obuvkt_3flM)
 <!-- YOUTUBE:END -->
 
 ---
