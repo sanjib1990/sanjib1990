@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Swiggy to cut another 400 jobs ahead of IPO later this year](https://techcrunch.com/2024/01/25/swiggy-to-cut-another-400-jobs-ahead-of-ipo-later-this-year/)
 - [The universe might be younger than we think, galaxies&#39; motion suggests](https://www.space.com/universe-younger-than-thought-galaxy-motion)
 - [Meta is rolling out tighter teen messaging limitations and parental controls](https://techcrunch.com/2024/01/25/meta-is-rolling-out-tighter-teen-messaging-limitations-and-parental-controls/)
 - [HPE says it was hacked by Russian group behind Microsoft email breach](https://techcrunch.com/2024/01/25/hpe-says-it-was-hacked-by-russian-group-behind-microsoft-email-breach/)
 - [DXwand raises $4M to scale its conversational AI platform serving enterprises in MENA](https://techcrunch.com/2024/01/25/dxwand-raises-4m-to-scale-its-conversational-ai-platform-for-enterprises-in-mena/)
-- [Japan&#39;s SLIM moon lander photographed on the lunar surface &lpar;image&rpar;](https://www.space.com/japan-slim-moon-lander-photo-lunar-surface)
 <!-- BLOG-POST-LIST:END -->
 
 ---
