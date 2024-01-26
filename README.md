@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delivery startup Veho makes corporate job cuts](https://techcrunch.com/2024/01/25/delivery-startup-veho-makes-corporate-job-cuts/)
 - [&#39;It&#39;s sort of been invincible until this moment:&#39; Mars helicopter Ingenuity pilot says &#39;bland&#39; terrain may have doomed NASA chopper](https://www.space.com/ingenuity-mars-helicopter-doomed-bland-terrain)
 - [Luko’s acquisition won’t make everyone happy, but the insurtech will live on](https://techcrunch.com/2024/01/25/luko-insurtech-allianz-direct/)
 - [Fortnite and the Epic Games Store are coming to iOS in Europe](https://techcrunch.com/2024/01/25/fortnite-is-coming-back-to-ios-this-year-but-only-in-europe/)
 - [OpenAI responds to Congressional Black Caucus about lack of diversity on its board](https://techcrunch.com/2024/01/25/openai-responds-to-congressional-black-caucus-about-lack-of-diversity-on-its-board/)
-- [Our shrinking moon could cause moonquakes near Artemis astronauts&#39; landing site, scientists warn](https://www.space.com/shrinking-moon-artemis-astronauts-landing-site)
 <!-- BLOG-POST-LIST:END -->
 
 ---
