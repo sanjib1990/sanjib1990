@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Total solar eclipse April 8, 2024: The longest and most visible for the US in 100 years](https://www.space.com/total-solar-eclipse-april-8-2024-finest-for-united-states)
-- [China sends human bone cells to Tiangong space station &lpar;video&rpar;](https://www.space.com/china-human-bone-cells-tiangong-space-station)
-- [Messenger comets might be why Earth has life, asteroid Ryugu samples suggest](https://www.space.com/life-earth-messenger-comets-asteroid-samples-ryugu-hayabusa2)
-- [UK launches antitrust probe into planned $19B Vodafone / Three merger](https://techcrunch.com/2024/01/26/vodafone-three-merger-uk-cma-antitrust/)
-- [Virgin Galactic&#39;s to launch 1st Ukrainian woman to space  —  and 3 others  —  on Galactic 06 suborbital flight today](https://www.space.com/virgin-galactic-06-suborbital-spaceflight-mission)
+- [How a mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
+- [Brex and the curse of having too much money](https://techcrunch.com/2024/01/26/brex-and-the-curse-of-having-too-much-money/)
+- [Everything we know about &#39;Constellation&#39;: Release date, plot, cast, &amp; more](https://www.space.com/everything-we-know-about-constellation)
+- [Startups should create a digital sales room to increase interaction with buyers](https://techcrunch.com/2024/01/26/startups-should-create-a-digital-sales-rooms-to-increase-interaction-with-buyers/)
+- [A closer look at Apple’s browser-related changes to iOS in EU](https://techcrunch.com/2024/01/26/apple-dma-webkit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
