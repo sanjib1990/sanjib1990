@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope&#39;s view of a galactic collision gets turned into beautiful song](https://www.space.com/hubble-space-telescope-data-sonification-galaxy-collision)
+- [Apple’s reluctant, punitive compliance with regulators will burn its political and developer goodwill](https://techcrunch.com/2024/01/26/apples-reluctant-punitive-compliance-with-regulators-will-burn-its-political-and-developer-goodwill/)
+- [Was HPE’s $14B Juniper acquisition a wise move?](https://techcrunch.com/2024/01/26/hpe-juniper-acquisition/)
 - [Wait, wasn’t layoff season meant to be over?](https://techcrunch.com/2024/01/26/wait-wasnt-layoff-season-meant-to-be-over/)
 - [Opera to launch new AI-powered browser for iOS in Europe following Apple’s DMA changes](https://techcrunch.com/2024/01/26/opera-to-launch-new-ai-powered-browser-for-ios-in-europe-following-apples-dma-changes/)
-- [Hidden star discovery reveals &#39;old smokers&#39; and &#39;screaming&#39; newborns](https://www.space.com/milky-way-hidden-stars-old-smokers-erupting-protostars)
-- [Deck.blue brings a TweetDeck experience to Bluesky users](https://techcrunch.com/2024/01/26/deck-blue-brings-a-tweetdeck-experience-to-bluesky-users/)
-- [Taking the long view on crypto](https://techcrunch.com/2024/01/26/its-a-good-time-to-invest-in-edtech-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
