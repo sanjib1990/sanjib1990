@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nightshade, the tool that ‘poisons’ data, gives artists a fighting chance against AI](https://techcrunch.com/2024/01/26/nightshade-the-tool-that-poisons-data-gives-artists-a-fighting-chance-against-ai/)
+- [NASA orbiter spies Japan&#39;s struggling SLIM moon lander on lunar surface &lpar;photo&rpar;](https://www.space.com/nasa-lunar-reconnaissance-orbiter-jaxa-slim-lander-image)
 - [Hubble Space Telescope&#39;s view of a galactic collision gets turned into beautiful song](https://www.space.com/hubble-space-telescope-data-sonification-galaxy-collision)
 - [Apple’s reluctant, punitive compliance with regulators will burn its political and developer goodwill](https://techcrunch.com/2024/01/26/apples-reluctant-punitive-compliance-with-regulators-will-burn-its-political-and-developer-goodwill/)
 - [Was HPE’s $14B Juniper acquisition a wise move?](https://techcrunch.com/2024/01/26/hpe-juniper-acquisition/)
-- [Wait, wasn’t layoff season meant to be over?](https://techcrunch.com/2024/01/26/wait-wasnt-layoff-season-meant-to-be-over/)
-- [Opera to launch new AI-powered browser for iOS in Europe following Apple’s DMA changes](https://techcrunch.com/2024/01/26/opera-to-launch-new-ai-powered-browser-for-ios-in-europe-following-apples-dma-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
