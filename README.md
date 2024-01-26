@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA honors its fallen astronauts on annual Day of Remembrance](https://www.space.com/nasa-day-of-remembrance-space-mirror-january-2024)
+- [Yes, the tech layoff surge you are feeling is real](https://techcrunch.com/2024/01/26/tech-layoff-surge/)
+- [Looking to retain App Store developers ahead of the DMA, Apple begins ‘contingent pricing’ pilot tests](https://techcrunch.com/2024/01/26/looking-to-retain-app-store-developers-ahead-of-the-dma-apple-begins-contingent-pricing-pilot-tests/)
 - [Shazam now lets you identify music in apps while wearing headphones](https://techcrunch.com/2024/01/26/shazam-now-lets-you-identify-music-in-apps-while-wearing-headphones/)
 - [Microsoft says Russian hackers also targeted other organizations](https://techcrunch.com/2024/01/26/microsoft-says-russian-hackers-also-targeted-other-organizations/)
-- [Space mysteries: Does the sun move in the solar system?](https://www.space.com/space-mysteries-does-the-sun-move-in-the-solar-system)
-- [Apple Podcasts to get auto-generated transcripts in iOS 17.4](https://techcrunch.com/2024/01/26/apple-podcasts-auto-generated-transcripts-ios-17-4/)
-- [January&#39;s Full Wolf Moon looks stunning in 1st full moon photos of 2024 &lpar;photos&rpar;](https://www.space.com/full-moon-january-2024-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
