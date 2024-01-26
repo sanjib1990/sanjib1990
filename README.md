@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How a mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
-- [Brex and the curse of having too much money](https://techcrunch.com/2024/01/26/brex-and-the-curse-of-having-too-much-money/)
-- [Everything we know about &#39;Constellation&#39;: Release date, plot, cast, &amp; more](https://www.space.com/everything-we-know-about-constellation)
-- [Startups should create a digital sales room to increase interaction with buyers](https://techcrunch.com/2024/01/26/startups-should-create-a-digital-sales-rooms-to-increase-interaction-with-buyers/)
-- [A closer look at Apple’s browser-related changes to iOS in EU](https://techcrunch.com/2024/01/26/apple-dma-webkit/)
+- [Shazam now lets you identify music in apps while wearing headphones](https://techcrunch.com/2024/01/26/shazam-now-lets-you-identify-music-in-apps-while-wearing-headphones/)
+- [Microsoft says Russian hackers also targeted other organizations](https://techcrunch.com/2024/01/26/microsoft-says-russian-hackers-also-targeted-other-organizations/)
+- [Space mysteries: Does the sun move in the solar system?](https://www.space.com/space-mysteries-does-the-sun-move-in-the-solar-system)
+- [Apple Podcasts to get auto-generated transcripts in iOS 17.4](https://techcrunch.com/2024/01/26/apple-podcasts-auto-generated-transcripts-ios-17-4/)
+- [January&#39;s Full Wolf Moon looks stunning in 1st full moon photos of 2024 &lpar;photos&rpar;](https://www.space.com/full-moon-january-2024-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
