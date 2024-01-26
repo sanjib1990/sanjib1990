@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK launches antitrust probe into planned $19B Vodafone / Three merger](https://techcrunch.com/2024/01/26/vodafone-three-merger-uk-cma-antitrust/)
 - [Virgin Galactic&#39;s to launch 1st Ukrainian woman to space  —  and 3 others  —  on Galactic 06 suborbital flight today](https://www.space.com/virgin-galactic-06-suborbital-spaceflight-mission)
 - [Kost Capital raising inaugural fund to invest in European food tech startups](https://techcrunch.com/2024/01/26/kost-capital-europe-food-tech-startups/)
 - [Ola founder’s Krutrim becomes India’s first AI unicorn](https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/)
 - [Delivery startup Veho makes corporate job cuts](https://techcrunch.com/2024/01/25/delivery-startup-veho-makes-corporate-job-cuts/)
-- [&#39;It&#39;s sort of been invincible until this moment:&#39; Mars helicopter Ingenuity pilot says &#39;bland&#39; terrain may have doomed NASA chopper](https://www.space.com/ingenuity-mars-helicopter-doomed-bland-terrain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
