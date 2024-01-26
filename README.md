@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking the long view on crypto](https://techcrunch.com/2024/01/26/its-a-good-time-to-invest-in-edtech-2/)
+- [NASA&#39;s Perseverance rover confirms presence of ancient lake on Mars and it may hold clues to past life](https://www.space.com/mars-perseverance-rover-radar-imager-ancient-lake)
+- [&#39;There&#39;s nothing magical that happens in 2030&#39;: NASA eyes possible ISS extension for astronaut missions](https://www.space.com/nasa-eyes-possible-iss-extension-beyond-2030)
 - [Watch live: Newly discovered asteroid to fly between Earth and moon on Saturday](https://www.space.com/asteroid-close-encounter-earth-january-27-2024-watch-live)
 - [Beat the clock to save $300 on passes to TechCrunch Early Stage 2024](https://techcrunch.com/2024/01/26/beat-the-clock-to-save-300-on-passes-to-techcrunch-early-stage-2024/)
-- [NSA is buying Americans’ internet browsing records without a warrant](https://techcrunch.com/2024/01/26/national-security-agency-americans-internet-browsing-records-warrantless/)
-- [Pitch Deck Teardown: Doola’s $1M strategic investment deck](https://techcrunch.com/2024/01/26/sample-series-a-extension-pitch-deck-doola/)
-- [ICO confirms data breach probe as UK councils remain downed by cyberattack](https://techcrunch.com/2024/01/26/ico-confirms-data-breach-probe-as-uk-councils-remain-downed-by-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
