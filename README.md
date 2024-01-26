@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A robot surgeon is headed to the ISS to dissect simulated astronaut tissue](https://www.space.com/international-space-station-robot-surgeon-cygnus-ng-20-spacex-resupply)
+- [Spotify calls Apple’s DMA compliance plan ‘extortion’ and a ‘complete and total farce’](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
+- [Flexport may lay off workers yet again](https://techcrunch.com/2024/01/26/flexport-may-lay-off-workers-yet-again/)
+- [Tesla to spend $500M to bring its Dojo supercomputer project to Buffalo factory](https://techcrunch.com/2024/01/26/tesla-dojo-supercomputer-buffalo-factory-500-million/)
 - [Nightshade, the tool that ‘poisons’ data, gives artists a fighting chance against AI](https://techcrunch.com/2024/01/26/nightshade-the-tool-that-poisons-data-gives-artists-a-fighting-chance-against-ai/)
-- [NASA orbiter spies Japan&#39;s struggling SLIM moon lander on lunar surface &lpar;photo&rpar;](https://www.space.com/nasa-lunar-reconnaissance-orbiter-jaxa-slim-lander-image)
-- [Hubble Space Telescope&#39;s view of a galactic collision gets turned into beautiful song](https://www.space.com/hubble-space-telescope-data-sonification-galaxy-collision)
-- [Apple’s reluctant, punitive compliance with regulators will burn its political and developer goodwill](https://techcrunch.com/2024/01/26/apples-reluctant-punitive-compliance-with-regulators-will-burn-its-political-and-developer-goodwill/)
-- [Was HPE’s $14B Juniper acquisition a wise move?](https://techcrunch.com/2024/01/26/hpe-juniper-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
