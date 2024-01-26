@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kost Capital raising inaugural fund to invest in European food tech startups](https://techcrunch.com/2024/01/26/kost-capital-europe-food-tech-startups/)
+- [Ola founder’s AI startup becomes unicorn in $50M funding](https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/)
 - [Delivery startup Veho makes corporate job cuts](https://techcrunch.com/2024/01/25/delivery-startup-veho-makes-corporate-job-cuts/)
 - [&#39;It&#39;s sort of been invincible until this moment:&#39; Mars helicopter Ingenuity pilot says &#39;bland&#39; terrain may have doomed NASA chopper](https://www.space.com/ingenuity-mars-helicopter-doomed-bland-terrain)
 - [Luko’s acquisition won’t make everyone happy, but the insurtech will live on](https://techcrunch.com/2024/01/25/luko-insurtech-allianz-direct/)
-- [Fortnite and the Epic Games Store are coming to iOS in Europe](https://techcrunch.com/2024/01/25/fortnite-is-coming-back-to-ios-this-year-but-only-in-europe/)
-- [OpenAI responds to Congressional Black Caucus about lack of diversity on its board](https://techcrunch.com/2024/01/25/openai-responds-to-congressional-black-caucus-about-lack-of-diversity-on-its-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
