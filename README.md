@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China sends human bone cells to Tiangong space station &lpar;video&rpar;](https://www.space.com/china-human-bone-cells-tiangong-space-station)
+- [Messenger comets might be why Earth has life, asteroid Ryugu samples suggest](https://www.space.com/life-earth-messenger-comets-asteroid-samples-ryugu-hayabusa2)
 - [UK launches antitrust probe into planned $19B Vodafone / Three merger](https://techcrunch.com/2024/01/26/vodafone-three-merger-uk-cma-antitrust/)
 - [Virgin Galactic&#39;s to launch 1st Ukrainian woman to space  —  and 3 others  —  on Galactic 06 suborbital flight today](https://www.space.com/virgin-galactic-06-suborbital-spaceflight-mission)
 - [Kost Capital raising inaugural fund to invest in European food tech startups](https://techcrunch.com/2024/01/26/kost-capital-europe-food-tech-startups/)
-- [Ola founder’s Krutrim becomes India’s first AI unicorn](https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/)
-- [Delivery startup Veho makes corporate job cuts](https://techcrunch.com/2024/01/25/delivery-startup-veho-makes-corporate-job-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
