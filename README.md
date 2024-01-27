@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney’s VR treadmill, OpenAI fixes ‘lazy’ GPT-4, and Apple rolls out stolen device protection](https://techcrunch.com/2024/01/27/disneys-vr-treadmill-openai-fixes-lazy-gpt-4-and-apple-rolls-out-stolen-device-protection/)
 - [Can AI do ugly?](https://techcrunch.com/2024/01/27/ai-versus-reality/)
 - [Deal Dive: Can AI fix lost and found?](https://techcrunch.com/2024/01/27/can-ai-fix-lost-and-found/)
 - [How can venture capital survive a three-year liquidity drop?](https://techcrunch.com/2024/01/27/how-can-venture-capital-survive-a-three-year-liquidity-drop/)
 - [This Week In Space podcast: Episode 95 — Clean Energy From Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-95-clean-energy-from-space)
-- [Watch Rocket Lab launch 4 private satellites, recover booster early Jan. 28](https://www.space.com/rocket-lab-four-of-a-kind-booster-recovery-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
