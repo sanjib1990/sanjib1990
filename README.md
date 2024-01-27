@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can AI do ugly?](https://techcrunch.com/2024/01/27/ai-versus-reality/)
 - [Deal Dive: Can AI fix lost and found?](https://techcrunch.com/2024/01/27/can-ai-fix-lost-and-found/)
 - [How can venture capital survive a three-year liquidity drop?](https://techcrunch.com/2024/01/27/how-can-venture-capital-survive-a-three-year-liquidity-drop/)
 - [This Week In Space podcast: Episode 95 — Clean Energy From Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-95-clean-energy-from-space)
 - [Watch Rocket Lab launch 4 private satellites, recover booster early Jan. 28](https://www.space.com/rocket-lab-four-of-a-kind-booster-recovery-mission)
-- [Critical 2024 AI policy blueprint: Unlocking potential and safeguarding against workplace risks](https://techcrunch.com/2024/01/27/critical-2024-ai-policy-blueprint-unlocking-potential-and-safeguarding-against-workplace-risks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
