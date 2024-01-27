@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 95 — Clean Energy From Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-95-clean-energy-from-space)
 - [Watch Rocket Lab launch 4 private satellites, recover booster early Jan. 28](https://www.space.com/rocket-lab-four-of-a-kind-booster-recovery-mission)
 - [Critical 2024 AI policy blueprint: Unlocking potential and safeguarding against workplace risks](https://techcrunch.com/2024/01/27/critical-2024-ai-policy-blueprint-unlocking-potential-and-safeguarding-against-workplace-risks/)
 - [The moon could be perfect for cutting-edge telescopes — but not if we don&#39;t protect it](https://www.space.com/moon-perfect-for-lunar-astronomy-protection)
 - [&#39;Trainwreck&#39; galaxy reflects the aftermath of a violent galactic collision &lpar;image&rpar;](https://www.space.com/twisted-trainwreck-galaxy-violent-galactic-collision)
-- [SpaceX Falcon 9 rocket modified for Northrop Grumman Cygnus cargo launch on Jan. 30](https://www.space.com/spacex-1st-launch-northrop-grumman-cygnus-cargo-ship)
 <!-- BLOG-POST-LIST:END -->
 
 ---
