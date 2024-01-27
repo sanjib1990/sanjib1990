@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch 4 private satellites, recover booster early Jan. 28](https://www.space.com/rocket-lab-four-of-a-kind-booster-recovery-mission)
+- [Critical 2024 AI policy blueprint: Unlocking potential and safeguarding against workplace risks](https://techcrunch.com/2024/01/27/critical-2024-ai-policy-blueprint-unlocking-potential-and-safeguarding-against-workplace-risks/)
 - [The moon could be perfect for cutting-edge telescopes — but not if we don&#39;t protect it](https://www.space.com/moon-perfect-for-lunar-astronomy-protection)
 - [&#39;Trainwreck&#39; galaxy reflects the aftermath of a violent galactic collision &lpar;image&rpar;](https://www.space.com/twisted-trainwreck-galaxy-violent-galactic-collision)
 - [SpaceX Falcon 9 rocket modified for Northrop Grumman Cygnus cargo launch on Jan. 30](https://www.space.com/spacex-1st-launch-northrop-grumman-cygnus-cargo-ship)
-- [Flipkart co-founder Binny Bansal leaves board](https://techcrunch.com/2024/01/26/flipkart-co-founder-binny-bansal-leaves-board/)
-- [A robot surgeon is headed to the ISS to dissect simulated astronaut tissue](https://www.space.com/international-space-station-robot-surgeon-cygnus-ng-20-spacex-resupply)
 <!-- BLOG-POST-LIST:END -->
 
 ---
