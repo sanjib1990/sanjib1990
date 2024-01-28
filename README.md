@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What went wrong at Cruise, a pivot at Vroom and a home for Tesla’s Dojo supercomputer](https://techcrunch.com/2024/01/28/what-went-wrong-at-cruise-a-pivot-at-vroom-and-a-home-for-teslas-dojo-supercomputer/)
 - [Latest room-temperature claims met with heaps of skepticism](https://techcrunch.com/2024/01/28/terra-quantum-superconductor-skepticism/)
 - [SpaceX to launch 2 rockets 3 hours apart today in Starlink doubleheader](https://www.space.com/spacex-starlink-launch-doubleheader-january-2024)
 - [Inside Brex’s efforts to burn less cash](https://techcrunch.com/2024/01/28/inside-brexs-efforts-to-burn-less-cash/)
 - [New &#39;Alien: Romulus&#39; fan trailer reveals a monstrous multi-limbed xenomorph](https://www.space.com/alien-romulus-fan-trailer)
-- [Startups must strategize and budget for AI-assisted software development in 2024](https://techcrunch.com/2024/01/28/startups-must-strategize-and-budget-for-ai-assisted-software-development-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
