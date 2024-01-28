@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the sun spew out a giant eruption of plasma in incredible footage &lpar;video&rpar;](https://www.space.com/sun-solar-prominence-photo)
 - [Mystery of Siberia&#39;s giant exploding craters may finally be solved](https://www.space.com/mystery-of-siberias-giant-exploding-craters-may-finally-be-solved)
 - [Disney’s VR treadmill, OpenAI fixes ‘lazy’ GPT-4, and Apple rolls out stolen device protection](https://techcrunch.com/2024/01/27/disneys-vr-treadmill-openai-fixes-lazy-gpt-4-and-apple-rolls-out-stolen-device-protection/)
 - [Can AI do ugly?](https://techcrunch.com/2024/01/27/ai-versus-reality/)
 - [Deal Dive: Can AI fix lost and found?](https://techcrunch.com/2024/01/27/can-ai-fix-lost-and-found/)
-- [How can venture capital survive a three-year liquidity drop?](https://techcrunch.com/2024/01/27/how-can-venture-capital-survive-a-three-year-liquidity-drop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
