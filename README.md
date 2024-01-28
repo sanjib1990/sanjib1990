@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 2 rockets 3 hours apart today in Starlink doubleheader](https://www.space.com/spacex-starlink-launch-doubleheader-january-2024)
+- [Inside Brex’s efforts to burn less cash](https://techcrunch.com/2024/01/28/inside-brexs-efforts-to-burn-less-cash/)
 - [New &#39;Alien: Romulus&#39; fan trailer reveals a monstrous multi-limbed xenomorph](https://www.space.com/alien-romulus-fan-trailer)
 - [Startups must strategize and budget for AI-assisted software development in 2024](https://techcrunch.com/2024/01/28/startups-must-strategize-and-budget-for-ai-assisted-software-development-in-2024/)
 - [Watch the sun spew out a giant eruption of plasma in incredible footage &lpar;video&rpar;](https://www.space.com/sun-solar-prominence-photo)
-- [Mystery of Siberia&#39;s giant exploding craters may finally be solved](https://www.space.com/mystery-of-siberias-giant-exploding-craters-may-finally-be-solved)
-- [Disney’s VR treadmill, OpenAI fixes ‘lazy’ GPT-4, and Apple rolls out stolen device protection](https://techcrunch.com/2024/01/27/disneys-vr-treadmill-openai-fixes-lazy-gpt-4-and-apple-rolls-out-stolen-device-protection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
