@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shortwave email client will show AI-powered summaries automatically](https://techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/)
-- [Meta will share data with researchers studying online well-being](https://techcrunch.com/2024/01/29/meta-will-share-data-with-researchers-studying-online-well-being/)
-- [Instagram head confirms test of ‘Flipside,’ a feature that turns ‘finstas’ into an official product](https://techcrunch.com/2024/01/29/instagram-head-confirms-test-of-flipside-a-feature-that-turns-finstas-into-an-official-product/)
-- [1st gravitational wave detector in space &#39;LISA&#39; will hunt for ripples in spacetime](https://www.space.com/gravitational-wave-detector-space-lisa-ripples-spacetime-esa-nasa)
-- [How a browser startup is taking on Google search](https://techcrunch.com/2024/01/29/how-a-browser-startup-is-taking-on-google-search/)
+- [Any growth is good, but sustainable growth is the key to success](https://techcrunch.com/2024/01/29/sustainable-growth-is-the-key-to-success/)
+- [Visible wants to track your illness, more than your fitness](https://techcrunch.com/2024/01/29/visible-illness-trackers/)
+- [Cap VC wants to be the AI-powered ‘operating system’ for VCs](https://techcrunch.com/2024/01/29/cap-vc-ai-os-for-vc/)
+- [Japan&#39;s upside-down SLIM moon lander wakes up on lunar surface and snaps new photos](https://www.space.com/japan-slim-moon-lander-awake-after-hibernation)
+- [As layoffs deepen, AI’s role in the cuts is murky – but it definitely has one](https://techcrunch.com/2024/01/29/as-layoffs-deepen-ais-role-in-the-cuts-is-murky-but-it-definitely-has-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
