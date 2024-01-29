@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a browser startup is taking on Google search](https://techcrunch.com/2024/01/29/how-a-browser-startup-is-taking-on-google-search/)
+- [Ahead of congressional hearing on child safety, X announces plans to hire 100 moderators in Austin](https://techcrunch.com/2024/01/29/ahead-of-congressional-hearing-on-child-safety-x-announces-plans-to-hire-100-moderators-in-austin/)
 - [Photographer snaps extremely rare &#39;green flash&#39; coming from Venus](https://www.space.com/photographer-green-flash-from-venus)
 - [Amazon’s $1.4B iRobot deal is dead. Now what?](https://techcrunch.com/2024/01/29/amazons-1-4b-irobot-deal-is-dead-now-what/)
 - [Developer experience is more important than developer productivity](https://techcrunch.com/2024/01/29/developer-experience-is-more-important-than-developer-productivity/)
-- [iRobot and Amazon call it quits, terminate acquisition agreement](https://techcrunch.com/2024/01/29/irobot-and-amazon-call-it-quits-terminate-acquisition-agreement/)
-- [Compa grabs more capital amid customer quest for real-time compensation data](https://techcrunch.com/2024/01/29/compa-real-time-compensation-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
