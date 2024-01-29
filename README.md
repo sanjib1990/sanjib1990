@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Compa grabs more capital amid customer quest for real-time compensation data](https://techcrunch.com/2024/01/29/compa-real-time-compensation-data/)
+- [Linktree launches features to schedule and archive links](https://techcrunch.com/2024/01/29/linktree-launches-features-to-schedule-and-archive-links/)
+- [Best AI movies of all time](https://www.space.com/best-ai-movies)
+- [Refact aims to make code-generating AI more appealing to enterprises](https://techcrunch.com/2024/01/29/refact-launches-to-make-code-generating-ai-more-appealing-to-enterprises/)
 - [Yume’s platform helps manufacturers turn potential food waste into money](https://techcrunch.com/2024/01/29/yume/)
-- [Substack introduces new payment methods for international markets](https://techcrunch.com/2024/01/29/substack-introduces-new-payment-methods-for-international-markets/)
-- [How blockchain technology could help reveal the origins of life](https://www.space.com/the-universe/earth/how-blockchain-technology-could-help-reveal-the-origins-of-life)
-- [ISS astronaut controls Bert the dog-like robot on Earth during simulated Mars mission](https://www.space.com/iss-robot-experiment-bert-robot-dog)
-- [ChatGPT is violating Europe’s privacy laws, Italian DPA tells OpenAI](https://techcrunch.com/2024/01/29/chatgpt-italy-gdpr-notification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
