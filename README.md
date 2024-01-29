@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shortwave email client will show AI-powered summaries automatically](https://techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/)
+- [Meta will share data with researchers studying online well-being](https://techcrunch.com/2024/01/29/meta-will-share-data-with-researchers-studying-online-well-being/)
+- [Instagram head confirms test of ‘Flipside,’ a feature that turns ‘finstas’ into an official product](https://techcrunch.com/2024/01/29/instagram-head-confirms-test-of-flipside-a-feature-that-turns-finstas-into-an-official-product/)
+- [1st gravitational wave detector in space &#39;LISA&#39; will hunt for ripples in spacetime](https://www.space.com/gravitational-wave-detector-space-lisa-ripples-spacetime-esa-nasa)
 - [How a browser startup is taking on Google search](https://techcrunch.com/2024/01/29/how-a-browser-startup-is-taking-on-google-search/)
-- [Ahead of congressional hearing on child safety, X announces plans to hire 100 moderators in Austin](https://techcrunch.com/2024/01/29/ahead-of-congressional-hearing-on-child-safety-x-announces-plans-to-hire-100-moderators-in-austin/)
-- [Photographer snaps extremely rare &#39;green flash&#39; coming from Venus](https://www.space.com/photographer-green-flash-from-venus)
-- [Amazon’s $1.4B iRobot deal is dead. Now what?](https://techcrunch.com/2024/01/29/amazons-1-4b-irobot-deal-is-dead-now-what/)
-- [Developer experience is more important than developer productivity](https://techcrunch.com/2024/01/29/developer-experience-is-more-important-than-developer-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
