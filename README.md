@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arc’s new iPhone browser wants to be your search companion](https://techcrunch.com/2024/01/28/arcs-new-iphone-browser-wants-to-be-your-search-companion/)
 - [Y Combinator President Garry Tan publishes a menacing tweet before deleting it, apologizing: “Die slow motherf*ckers”](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
 - [India’s Uber-rival BluSmart pumps up EV charging with $25M investment](https://techcrunch.com/2024/01/28/blusmart-ev-charging-funding/)
 - [Indian state government fixes website bugs that exposed residents’ sensitive documents](https://techcrunch.com/2024/01/28/india-rajasthan-government-jan-aadhaar-bug-fix/)
 - [What went wrong at Cruise, a pivot at Vroom and a home for Tesla’s Dojo supercomputer](https://techcrunch.com/2024/01/28/what-went-wrong-at-cruise-a-pivot-at-vroom-and-a-home-for-teslas-dojo-supercomputer/)
-- [Latest room-temperature claims met with heaps of skepticism](https://techcrunch.com/2024/01/28/terra-quantum-superconductor-skepticism/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
