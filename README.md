@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Photographer snaps extremely rare &#39;green flash&#39; coming from Venus](https://www.space.com/photographer-green-flash-from-venus)
+- [Amazon’s $1.4B iRobot deal is dead. Now what?](https://techcrunch.com/2024/01/29/amazons-1-4b-irobot-deal-is-dead-now-what/)
+- [Developer experience is more important than developer productivity](https://techcrunch.com/2024/01/29/developer-experience-is-more-important-than-developer-productivity/)
+- [iRobot and Amazon call it quits, terminate acquisition agreement](https://techcrunch.com/2024/01/29/irobot-and-amazon-call-it-quits-terminate-acquisition-agreement/)
 - [Compa grabs more capital amid customer quest for real-time compensation data](https://techcrunch.com/2024/01/29/compa-real-time-compensation-data/)
-- [Linktree launches features to schedule and archive links](https://techcrunch.com/2024/01/29/linktree-launches-features-to-schedule-and-archive-links/)
-- [Best AI movies of all time](https://www.space.com/best-ai-movies)
-- [Refact aims to make code-generating AI more appealing to enterprises](https://techcrunch.com/2024/01/29/refact-launches-to-make-code-generating-ai-more-appealing-to-enterprises/)
-- [Yume’s platform helps manufacturers turn potential food waste into money](https://techcrunch.com/2024/01/29/yume/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
