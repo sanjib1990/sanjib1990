@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tomorrow.io’s radar satellites use machine learning to punch well above their weight](https://techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/)
 - [Hubble Telescope spies massive &#39;bridge of stars&#39; connecting 2 galaxies on collision course &lpar;image&rpar;](https://www.space.com/hubble-telescope-bridge-of-stars-between-galaxies)
 - [James Webb Space Telescope observes 19 intricate galaxy structures in stunning detail &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-spiral-galaxy-structures-19-stunning-detail)
 - [Reddit at $5B seems eminently reasonable](https://techcrunch.com/2024/01/29/reddit-5b-valuation-ipo/)
 - [Any growth is good, but sustainable growth is the key to success](https://techcrunch.com/2024/01/29/sustainable-growth-is-the-key-to-success/)
-- [Visible wants to track your illness, more than your fitness](https://techcrunch.com/2024/01/29/visible-illness-trackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
