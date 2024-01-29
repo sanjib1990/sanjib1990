@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ax-3 astronaut snaps dizzying photo of ISS&#39;s jam-packed interior](https://www.space.com/ax-3-mission-astronaut-perspective-iss-dizzying-photo)
+- [Iran launches 3 satellites on Simorgh rocket&#39;s 1st successful orbital launch](https://www.space.com/iran-satellite-launches-middle-east-conflicts-january-2024)
 - [Something &#39;fishy&#39; is happening with the Milky Way&#39;s dark matter halo](https://www.space.com/milky-way-dark-matter-halo-missing-pieces)
 - [Saying goodbye to the little helicopter that could](https://techcrunch.com/2024/01/29/saying-goodbye-to-the-little-helicopter-that-could/)
 - [OpenAI partners with Common Sense Media to collaborate on AI guidelines](https://techcrunch.com/2024/01/29/openai-partners-with-common-sense-media-to-collaborate-on-ai-guidelines/)
-- [Streaming media company Plex raises new funds as it nears profitability](https://techcrunch.com/2024/01/29/streaming-media-company-plex-raises-new-funds-as-it-nears-profitability/)
-- [Tomorrow.io’s radar satellites use machine learning to punch well above their weight](https://techcrunch.com/2024/01/29/tomorrow-ios-radar-satellites-use-machine-learning-to-punch-well-above-their-weight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
