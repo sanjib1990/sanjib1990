@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why aren’t you using TMUX??](https://www.youtube.com/watch?v=BKuRaWqpkJw)
 - [real HTML programmers debug in 3D](https://www.youtube.com/watch?v=gGWQfV1FCis)
-- [CES 2024… a glimpse into our AI-powered future](https://www.youtube.com/watch?v=eHzoTLwx01E)
-- [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8)
-- [the ChatGPT store is about to launch… let’s get rich](https://www.youtube.com/watch?v=9T_wv6D8PYo)
-- [Pascal in 100 Seconds](https://www.youtube.com/watch?v=K9mzg8ueiYA)
+- [how i make videos](https://www.youtube.com/watch?v=m1j7RUEb3Z0)
+- [How CPUs Do Math&lpar;s&rpar; - Computerphile](https://www.youtube.com/watch?v=nhXevKMm3JI)
+- [Progress Bars - Computerphile](https://www.youtube.com/watch?v=uHh0qpc1BR4)
 <!-- YOUTUBE:END -->
 
 ---
