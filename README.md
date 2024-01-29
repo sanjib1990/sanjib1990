@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch private cargo spacecraft to the ISS on Jan. 30](https://www.space.com/spacex-cygnus-cargo-spacecraft-ng-20-launch)
+- [Byju’s cuts valuation ask to $250M in rights issue amid cash crunch](https://techcrunch.com/2024/01/29/byjus-seeks-to-raise-200-million-in-rights-issue/)
 - [Arc’s new iPhone browser wants to be your search companion](https://techcrunch.com/2024/01/28/arcs-new-iphone-browser-wants-to-be-your-search-companion/)
 - [Y Combinator President Garry Tan publishes a menacing tweet before deleting it, apologizing: “Die slow motherf*ckers”](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
 - [India’s Uber-rival BluSmart pumps up EV charging with $25M investment](https://techcrunch.com/2024/01/28/blusmart-ev-charging-funding/)
-- [Indian state government fixes website bugs that exposed residents’ sensitive documents](https://techcrunch.com/2024/01/28/india-rajasthan-government-jan-aadhaar-bug-fix/)
-- [What went wrong at Cruise, a pivot at Vroom and a home for Tesla’s Dojo supercomputer](https://techcrunch.com/2024/01/28/what-went-wrong-at-cruise-a-pivot-at-vroom-and-a-home-for-teslas-dojo-supercomputer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
