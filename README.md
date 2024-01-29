@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch private cargo spacecraft to the ISS on Jan. 30](https://www.space.com/spacex-cygnus-cargo-spacecraft-ng-20-launch)
-- [Byju’s cuts valuation ask by 99% in rights issue amid cash crunch](https://techcrunch.com/2024/01/29/byjus-seeks-to-raise-200-million-in-rights-issue/)
-- [Arc’s new iPhone browser wants to be your search companion](https://techcrunch.com/2024/01/28/arcs-new-iphone-browser-wants-to-be-your-search-companion/)
-- [Y Combinator President Garry Tan publishes a menacing tweet before deleting it, apologizing: “Die slow motherf*ckers”](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
-- [India’s Uber-rival BluSmart pumps up EV charging with $25M investment](https://techcrunch.com/2024/01/28/blusmart-ev-charging-funding/)
+- [Yume’s platform helps manufacturers turn potential food waste into money](https://techcrunch.com/2024/01/29/yume/)
+- [Substack introduces new payment methods for international markets](https://techcrunch.com/2024/01/29/substack-introduces-new-payment-methods-for-international-markets/)
+- [How blockchain technology could help reveal the origins of life](https://www.space.com/the-universe/earth/how-blockchain-technology-could-help-reveal-the-origins-of-life)
+- [ISS astronaut controls Bert the dog-like robot on Earth during simulated Mars mission](https://www.space.com/iss-robot-experiment-bert-robot-dog)
+- [ChatGPT is violating Europe’s privacy laws, Italian DPA tells OpenAI](https://techcrunch.com/2024/01/29/chatgpt-italy-gdpr-notification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
