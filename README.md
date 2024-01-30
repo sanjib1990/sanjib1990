@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Team, timing, and execution — the trilogy of success](https://techcrunch.com/2024/01/30/team-timing-and-execution-the-trilogy-of-success/)
 - [Drone couriers and virtual faces among Alchemist Accelerator’s demo day highlights](https://techcrunch.com/2024/01/30/drone-couriers-and-virtual-faces-among-alchemist-accelerators-demo-day-highlights/)
 - [Are they exomoons or not? Scientists debate existence of 1st moons seen beyond our solar system](https://www.space.com/exomoon-discovery-scientists-debate-kepler-hubble-study)
 - [Watch SpaceX launch a Northrop Grumman resupply mission to the ISS](https://techcrunch.com/2024/01/30/watch-spacex-launch-a-northrop-grumman-resupply-mission-to-the-iss/)
 - [What if Christensen was wrong about disruption?](https://techcrunch.com/2024/01/30/what-if-christensen-was-wrong-about-disruption/)
-- [Studio’s new online school for musicians uses AI to create custom curriculums](https://techcrunch.com/2024/01/30/studios-new-online-school-for-musicians-uses-ai-to-create-custom-curriculums/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
