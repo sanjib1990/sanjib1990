@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Taylor Swift deepfake debacle was frustratingly preventable](https://techcrunch.com/2024/01/30/the-taylor-swift-deepfake-debacle-was-frustratingly-preventable/)
+- [Navigating media’s ups and downs with theSkimm co-founders](https://techcrunch.com/2024/01/30/navigating-medias-ups-and-downs-with-theskimm-co-founders/)
 - [Twitterrific’s team is back with Tapestry, an app for tracking social media, news, RSS, and more](https://techcrunch.com/2024/01/30/twitterrifics-team-is-back-with-tapestry-an-app-for-tracking-social-media-news-rss-and-more/)
 - [Iconic streamer Pokimane is leaving Twitch](https://techcrunch.com/2024/01/30/iconic-streamer-pokimane-is-leaving-twitch/)
 - [Block becomes the latest fintech to lay off workers](https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/)
-- [CEOs from Meta, TikTok, Snap, X and Discord head to Congress for kids’ online safety hearing](https://techcrunch.com/2024/01/30/childrens-safety-hearing-discord-meta-snap-x-tiktok-january-2024/)
-- [ChatGPT users can now invoke GPTs directly in chats](https://techcrunch.com/2024/01/30/chatgpt-users-can-now-invoke-gpts-directly-in-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
