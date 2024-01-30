@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Semron wants to replace chip transistors with ‘memcapacitors’](https://techcrunch.com/2024/01/30/semron-wants-to-replace-chip-transistors-with-memcapacitors/)
 - [Fidelity cuts Meta-backed Meesho valuation to $3.5 billion](https://techcrunch.com/2024/01/29/fidelity-cuts-india-meesho-valuation-to-3-5-billion/)
 - [Startup studio Hexa hires former Doctolib exec to launch its health vertical](https://techcrunch.com/2024/01/29/startup-studio-hexa-hires-former-doctolib-exec-to-launch-its-health-vertical/)
 - [Watch a crane lift space shuttle Endeavour into place for museum exhibit early Jan. 30 &lpar;video&rpar;](https://www.space.com/space-shuttle-endeavour-museum-exhibit-stacking-webcast)
 - [Rebellions lands $124M to develop its new AI Rebel chip with Samsung](https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/)
-- [Ax-3 astronaut snaps dizzying photo of ISS&#39;s jam-packed interior](https://www.space.com/ax-3-mission-astronaut-perspective-iss-dizzying-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
