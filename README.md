@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Lucy asteroid probe to fire main engines in space for 1st time this week](https://www.space.com/nasa-lucy-mission-spacecraft-trip-trojan-asteroids-solar-system)
+- [Fintech Ramp acquires another AI-powered startup](https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/01/30/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Why there’s no clear winning pricing strategy in B2B SaaS](https://techcrunch.com/2024/01/30/b2b-saas-growth-pricing/)
 - [NASA&#39;s TESS telescope spots 6 exoplanets around &#39;misbehaving&#39; toddler star](https://www.space.com/nasa-tess-telescope-exoplanets-solar-system-toddler-star)
-- [PayPal begins more layoffs](https://techcrunch.com/2024/01/30/paypal-begins-more-layoffs/)
-- [Some IRS employees still access TikTok despite ban on government devices](https://techcrunch.com/2024/01/30/some-irs-employees-still-access-tiktok-despite-ban-on-government-devices/)
-- [Building AI guardrails should be part of the process](https://techcrunch.com/2024/01/30/building-ai-guardrails-should-be-part-of-the-process/)
-- [Space travel taxes astronauts&#39; brains. But microbes on the menu could help in unexpected ways](https://www.space.com/space-travel-taxex-astronaut-brains-microbes-in-food-could-help)
 <!-- BLOG-POST-LIST:END -->
 
 ---
