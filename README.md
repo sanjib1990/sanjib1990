@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nile raises $11.6M in seed funding to build a Postgres-powered data layer for SaaS applications](https://techcrunch.com/2024/01/30/nile-raises-11-6m-in-seed-funding-to-build-a-postgres-powered-data-layer-for-saas-applications/)
+- [TikTok tests a feature that would bring TikTok Shop links to more videos](https://techcrunch.com/2024/01/30/tiktok-tests-a-feature-that-would-bring-tiktok-shop-links-to-more-videos/)
 - [Reading the fine print of Apple’s DMA rules: 25 things app developers need to know](https://techcrunch.com/2024/01/30/reading-the-fine-print-of-apples-dma-rules-25-things-app-developers-need-to-know/)
 - [Inngest raises $6.1M as it expands its workflow engine](https://techcrunch.com/2024/01/30/inngest-raises-6-1m-as-it-expands-its-workflow-engine/)
 - [&#39;Starfield&#39; spacesuit contest: ESA and Xbox will build the winner their own custom design &lpar;video&rpar;](https://www.space.com/starfield-spacesuit-contest-esa)
-- [Endeavour lifted onto space shuttle stack for California Science Center exhibit](https://www.space.com/space-shuttle-endeavour-stack-ca-science-center)
-- [Aurora Solar lays off 20% of employees after reportedly missing growth targets](https://techcrunch.com/2024/01/30/aurora-solar-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
