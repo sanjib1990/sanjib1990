@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building AI guardrails should be part of the process](https://techcrunch.com/2024/01/30/building-ai-guardrails-should-be-part-of-the-process/)
+- [Space travel taxes astronauts&#39; brains. But microbes on the menu could help in unexpected ways](https://www.space.com/space-travel-taxex-astronaut-brains-microbes-in-food-could-help)
+- [Apple Card users earned more than $1 billion in Daily Cash in 2023](https://techcrunch.com/2024/01/30/apple-card-users-earned-more-than-1-billion-in-daily-cash-in-2023/)
+- [Heart failure monitoring startup, Acorai, turns heads with oversubscribed seed](https://techcrunch.com/2024/01/30/acorai-seed/)
 - [Nile raises $11.6M in seed funding to build a Postgres-powered data layer for SaaS applications](https://techcrunch.com/2024/01/30/nile-raises-11-6m-in-seed-funding-to-build-a-postgres-powered-data-layer-for-saas-applications/)
-- [TikTok tests a feature that would bring TikTok Shop links to more videos](https://techcrunch.com/2024/01/30/tiktok-tests-a-feature-that-would-bring-tiktok-shop-links-to-more-videos/)
-- [Reading the fine print of Apple’s DMA rules: 25 things app developers need to know](https://techcrunch.com/2024/01/30/reading-the-fine-print-of-apples-dma-rules-25-things-app-developers-need-to-know/)
-- [Inngest raises $6.1M as it expands its workflow engine](https://techcrunch.com/2024/01/30/inngest-raises-6-1m-as-it-expands-its-workflow-engine/)
-- [&#39;Starfield&#39; spacesuit contest: ESA and Xbox will build the winner their own custom design &lpar;video&rpar;](https://www.space.com/starfield-spacesuit-contest-esa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
