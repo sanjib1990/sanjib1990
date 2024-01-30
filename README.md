@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s TESS telescope spots 6 exoplanets around &#39;misbehaving&#39; toddler star](https://www.space.com/nasa-tess-telescope-exoplanets-solar-system-toddler-star)
+- [PayPal begins more layoffs](https://techcrunch.com/2024/01/30/paypal-begins-more-layoffs/)
+- [Some IRS employees still access TikTok despite ban on government devices](https://techcrunch.com/2024/01/30/some-irs-employees-still-access-tiktok-despite-ban-on-government-devices/)
 - [Building AI guardrails should be part of the process](https://techcrunch.com/2024/01/30/building-ai-guardrails-should-be-part-of-the-process/)
 - [Space travel taxes astronauts&#39; brains. But microbes on the menu could help in unexpected ways](https://www.space.com/space-travel-taxex-astronaut-brains-microbes-in-food-could-help)
-- [Apple Card users earned more than $1 billion in Daily Cash in 2023](https://techcrunch.com/2024/01/30/apple-card-users-earned-more-than-1-billion-in-daily-cash-in-2023/)
-- [Heart failure monitoring startup, Acorai, turns heads with oversubscribed seed](https://techcrunch.com/2024/01/30/acorai-seed/)
-- [Nile raises $11.6M in seed funding to build a Postgres-powered data layer for SaaS applications](https://techcrunch.com/2024/01/30/nile-raises-11-6m-in-seed-funding-to-build-a-postgres-powered-data-layer-for-saas-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
