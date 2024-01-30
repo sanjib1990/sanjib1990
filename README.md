@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Team, timing, and execution — the trilogy of success](https://techcrunch.com/2024/01/30/team-timing-and-execution-the-trilogy-of-success/)
-- [Drone couriers and virtual faces among Alchemist Accelerator’s demo day highlights](https://techcrunch.com/2024/01/30/drone-couriers-and-virtual-faces-among-alchemist-accelerators-demo-day-highlights/)
-- [Are they exomoons or not? Scientists debate existence of 1st moons seen beyond our solar system](https://www.space.com/exomoon-discovery-scientists-debate-kepler-hubble-study)
-- [Watch SpaceX launch a Northrop Grumman resupply mission to the ISS](https://techcrunch.com/2024/01/30/watch-spacex-launch-a-northrop-grumman-resupply-mission-to-the-iss/)
-- [What if Christensen was wrong about disruption?](https://techcrunch.com/2024/01/30/what-if-christensen-was-wrong-about-disruption/)
+- [Reading the fine print of Apple’s DMA rules: 25 things app developers need to know](https://techcrunch.com/2024/01/30/reading-the-fine-print-of-apples-dma-rules-25-things-app-developers-need-to-know/)
+- [Inngest raises $6.1M as it expands its workflow engine](https://techcrunch.com/2024/01/30/inngest-raises-6-1m-as-it-expands-its-workflow-engine/)
+- [&#39;Starfield&#39; spacesuit contest: ESA and Xbox will build the winner their own custom design &lpar;video&rpar;](https://www.space.com/starfield-spacesuit-contest-esa)
+- [Endeavour lifted onto space shuttle stack for California Science Center exhibit](https://www.space.com/space-shuttle-endeavour-stack-ca-science-center)
+- [Aurora Solar lays off 20% of employees after reportedly missing growth targets](https://techcrunch.com/2024/01/30/aurora-solar-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
