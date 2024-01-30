@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch crane lift space shuttle Endeavour into place for museum exhibit early Jan. 30](https://www.space.com/space-shuttle-endeavour-museum-exhibit-stacking-webcast)
 - [Rebellions lands $124M to develop its new AI Rebel chip with Samsung](https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/)
 - [Ax-3 astronaut snaps dizzying photo of ISS&#39;s jam-packed interior](https://www.space.com/ax-3-mission-astronaut-perspective-iss-dizzying-photo)
 - [Iran launches 3 satellites on Simorgh rocket&#39;s 1st successful orbital launch](https://www.space.com/iran-satellite-launches-middle-east-conflicts-january-2024)
 - [Something &#39;fishy&#39; is happening with the Milky Way&#39;s dark matter halo](https://www.space.com/milky-way-dark-matter-halo-missing-pieces)
-- [Saying goodbye to the little helicopter that could](https://techcrunch.com/2024/01/29/saying-goodbye-to-the-little-helicopter-that-could/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
