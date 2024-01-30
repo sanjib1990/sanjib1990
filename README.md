@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram Threads triples downloads in December, reaching the top 10; X falls to No. 36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
-- [SMOK VC’s second fund is another signal that Poland’s tech scene is hitting its stride](https://techcrunch.com/2024/01/30/smok-vcs-second-fund-is-another-signal-that-polands-tech-scene-is-hitting-its-stride/)
-- [Now with $5M, Leal invests in AI-driven customer engagement for LatAm merchants](https://techcrunch.com/2024/01/30/now-with-5m-leal-invests-in-ai-driven-customer-engagement-for-latam-merchants/)
-- [PadSplit, a marketplace for affordable shared housing, surpasses 10K+ units](https://techcrunch.com/2024/01/30/padsplit-a-marketplace-for-affordable-shared-housing-surpasses-10k-units/)
-- [Airfocus bags $7.5M for its take on project management software](https://techcrunch.com/2024/01/30/airfocus-bags-7-5m-for-its-take-on-project-management-software/)
+- [Drone couriers and virtual faces among Alchemist Accelerator’s demo day highlights](https://techcrunch.com/2024/01/30/drone-couriers-and-virtual-faces-among-alchemist-accelerators-demo-day-highlights/)
+- [Are they exomoons or not? Scientists debate existence of 1st moons seen beyond our solar system](https://www.space.com/exomoon-discovery-scientists-debate-kepler-hubble-study)
+- [Watch SpaceX launch a Northrop Grumman resupply mission to the ISS](https://techcrunch.com/2024/01/30/watch-spacex-launch-a-northrop-grumman-resupply-mission-to-the-iss/)
+- [What if Christensen was wrong about disruption?](https://techcrunch.com/2024/01/30/what-if-christensen-was-wrong-about-disruption/)
+- [Studio’s new online school for musicians uses AI to create custom curriculums](https://techcrunch.com/2024/01/30/studios-new-online-school-for-musicians-uses-ai-to-create-custom-curriculums/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
