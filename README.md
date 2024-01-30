@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kore.ai, a startup building conversational AI for enterprises, raises $150M](https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/)
+- [Yelp launches revamped feed with AI-powered business summaries](https://techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/)
+- [p0 uses LLMs to save enterprises from code catastrophes](https://techcrunch.com/2024/01/30/p0/)
 - [NASA wants to fly another 1-year astronaut mission. But when will it happen?](https://www.space.com/nasa-one-year-astronaut-mission-timeline)
 - [BlueLayer is building the operating system for carbon project developers](https://techcrunch.com/2024/01/30/bluelayer-is-building-the-operating-system-for-carbon-project-developers/)
-- [Productivity platform ClickUp acquires calendar startup Hypercal](https://techcrunch.com/2024/01/30/productivity-platform-clickup-acquires-calendar-startup-hypercal/)
-- [Semron wants to replace chip transistors with ‘memcapacitors’](https://techcrunch.com/2024/01/30/semron-wants-to-replace-chip-transistors-with-memcapacitors/)
-- [Fidelity cuts Meta-backed Meesho valuation to $3.5 billion](https://techcrunch.com/2024/01/29/fidelity-cuts-india-meesho-valuation-to-3-5-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
