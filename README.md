@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Lucy asteroid probe to fire main engines in space for 1st time this week](https://www.space.com/nasa-lucy-mission-spacecraft-trip-trojan-asteroids-solar-system)
-- [Fintech Ramp acquires another AI-powered startup](https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/01/30/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Why there’s no clear winning pricing strategy in B2B SaaS](https://techcrunch.com/2024/01/30/b2b-saas-growth-pricing/)
-- [NASA&#39;s TESS telescope spots 6 exoplanets around &#39;misbehaving&#39; toddler star](https://www.space.com/nasa-tess-telescope-exoplanets-solar-system-toddler-star)
+- [Twitterrific’s team is back with Tapestry, an app for tracking social media, news, RSS, and more](https://techcrunch.com/2024/01/30/twitterrifics-team-is-back-with-tapestry-an-app-for-tracking-social-media-news-rss-and-more/)
+- [Iconic streamer Pokimane is leaving Twitch](https://techcrunch.com/2024/01/30/iconic-streamer-pokimane-is-leaving-twitch/)
+- [Block becomes the latest fintech to lay off workers](https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/)
+- [CEOs from Meta, TikTok, Snap, X and Discord head to Congress for kids’ online safety hearing](https://techcrunch.com/2024/01/30/childrens-safety-hearing-discord-meta-snap-x-tiktok-january-2024/)
+- [ChatGPT users can now invoke GPTs directly in chats](https://techcrunch.com/2024/01/30/chatgpt-users-can-now-invoke-gpts-directly-in-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
