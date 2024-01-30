@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing&#39;s Starliner capsule still on track for mid-April astronaut launch to ISS](https://www.space.com/boeing-starliner-on-track-launch-april-2024)
-- [Haven Energy lands $7M Series A 9 months after its seed round](https://techcrunch.com/2024/01/30/haven-energy-home-battery-series-a/)
-- [Total solar eclipse April 8, 2024: What you&#39;ll see if you&#39;re outside the path of totality](https://www.space.com/total-solar-eclipse-april-8-2024-local-conditions)
-- [Kore.ai, a startup building conversational AI for enterprises, raises $150M](https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/)
-- [Yelp launches revamped feed with AI-powered business summaries](https://techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/)
+- [Instagram Threads triples downloads in December, reaching the top 10; X falls to No. 36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
+- [SMOK VC’s second fund is another signal that Poland’s tech scene is hitting its stride](https://techcrunch.com/2024/01/30/smok-vcs-second-fund-is-another-signal-that-polands-tech-scene-is-hitting-its-stride/)
+- [Now with $5M, Leal invests in AI-driven customer engagement for LatAm merchants](https://techcrunch.com/2024/01/30/now-with-5m-leal-invests-in-ai-driven-customer-engagement-for-latam-merchants/)
+- [PadSplit, a marketplace for affordable shared housing, surpasses 10K+ units](https://techcrunch.com/2024/01/30/padsplit-a-marketplace-for-affordable-shared-housing-surpasses-10k-units/)
+- [Airfocus bags $7.5M for its take on project management software](https://techcrunch.com/2024/01/30/airfocus-bags-7-5m-for-its-take-on-project-management-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
