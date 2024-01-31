@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg says Apple and Google should manage parental consent for apps, not Meta](https://techcrunch.com/2024/01/31/mark-zuckerberg-says-apple-and-google-should-manage-parental-consent-for-apps-not-meta/)
-- [Twin Labs automates repetitive tasks by letting AI take over your mouse cursor](https://techcrunch.com/2024/01/31/twin-labs-automates-repetitive-tasks-by-letting-ai-take-over-your-mouse-cursor/)
-- [Google’s ‘Circle to Search’ feature is now available on the Pixel 8, Pixel 8 Pro and Samsung Galaxy S20 series](https://techcrunch.com/2024/01/31/googles-circle-to-search-feature-available-pixel-8-pixel-8-pro-samsung-galaxy-s20-series/)
-- [Watch private Cygnus cargo ship arrive at the ISS early Feb. 1 &lpar;video&rpar;](https://www.space.com/northrop-grumman-cygnus-ng-20-iss-arrival)
-- [Shopify is rolling out an AI-powered image editor for products](https://techcrunch.com/2024/01/31/shopify-is-rolling-out-an-ai-powered-image-editor-for-products/)
+- [1,000 days in space! Core module of China&#39;s Tiangong space station hits milestone](https://www.space.com/china-tiangong-space-station-core-module-tianhe-1000-days)
+- [US disrupts China-backed hacking operation amid warning of threat to American infrastructure](https://techcrunch.com/2024/01/31/fbi-cisa-volt-typhoon-cyberattack-american-infastructure/)
+- [Mark Zuckerberg defends teenage creators’ right to public Instagram accounts](https://techcrunch.com/2024/01/31/mark-zuckerberg-defends-teenage-creators-right-to-public-instagram-accounts/)
+- [Microsoft, X throw their weight behind KOSA, the controversial kids’ online safety bill](https://techcrunch.com/2024/01/31/x-microsoft-kosa-kids-online-safety-bill/)
+- [Metronome’s usage-based billing software finds hit in AI as the startup raises $43M in fresh capital](https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
