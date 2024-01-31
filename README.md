@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX gearing up to launch private moon lander in February](https://www.space.com/spacex-intuitive-machines-nova-c-moon-lander-launch-preparations)
+- [NASA&#39;S Europa Clipper gets science gear to probe ocean moon of Jupiter](https://www.space.com/nasa-europa-clipper-spacecraft-jupiter-icy-moon-instruments)
+- [Europcar says someone likely used ChatGPT to promote a fake data breach](https://techcrunch.com/2024/01/31/europcar-says-someone-likely-used-chatgpt-to-promote-a-fake-data-breach/)
+- [Pew report shows TikTok’s rise and YouTube’s ubiquity](https://techcrunch.com/2024/01/31/pew-social-media-report-2023/)
 - [Tech layoffs scale to three-quarter high](https://techcrunch.com/2024/01/31/tech-layoffs-scale-to-three-quarter-high/)
-- [FCC moves to outlaw AI-generated robocalls](https://techcrunch.com/2024/01/31/fcc-moves-to-outlaw-ai-generated-robocalls/)
-- [X CEO Linda Yaccarino claims company has 90M U.S. users, less than 1% are teens](https://techcrunch.com/2024/01/31/x-ceo-linda-yaccarino-claims-company-has-90m-u-s-users-less-than-1-are-teens/)
-- [Snap CEO says 20 million U.S. teens use Snapchat, but only 200,000 parents use its Family Center controls](https://techcrunch.com/2024/01/31/snap-ceo-says-20-million-u-s-teens-use-snapchat-but-only-200000-parents-use-its-family-center-controls/)
-- [Apple fixes zero-day bug in Apple Vision Pro that ‘may have been exploited’](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
