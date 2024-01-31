@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s central bank punishes Paytm Payments Bank with new curbs](https://techcrunch.com/2024/01/31/rbi-paytm-payments-bank-penalty/)
-- [&#39;It&#39;s getting closer and closer for sure.&#39; How SETI is expanding its search for alien intelligence &lpar;exclusive&rpar;](https://www.space.com/seti-expanding-search-for-alien-intelligence)
-- [Sundar Pichai says Google One cloud storage service has nearly 100M subscribers](https://techcrunch.com/2024/01/30/sundar-pichai-says-google-one-cloud-storage-service-has-nearly-100m-subscribers/)
-- [Accel eyes new India fashion e-commerce bet with Newme](https://techcrunch.com/2024/01/30/accel-newme-fashion-ecommerce-india/)
-- [Wattpad, a storytelling platform, conducts another layoff round](https://techcrunch.com/2024/01/30/wattpad-a-storytelling-platform-conducts-another-layoff-round/)
+- [See Earth&#39;s atmosphere glow gold in gorgeous photo taken from the ISS](https://www.space.com/earth-atmosphere-glows-gold-iss-photo)
+- [Astronomers witness 18 ravenous black holes ripping up and devouring stars](https://www.space.com/black-holes-tidal-disruption-events-spaghettifying-stars)
+- [Despite glimmers of profit, most African neobanks remain in the red](https://techcrunch.com/2024/01/31/despite-glimmers-of-profit-most-african-neobanks-remain-in-the-red/)
+- [Speedinvest closes fourth fund at $380 million to back early-stage startups in Europe](https://techcrunch.com/2024/01/31/speedinvest-closes-fourth-early-stage-fund/)
+- [India’s central bank slaps major curbs on Paytm Payments Bank over supervisory concerns](https://techcrunch.com/2024/01/31/rbi-paytm-payments-bank-penalty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
