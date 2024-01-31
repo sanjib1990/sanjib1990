@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It&#39;s getting closer and closer for sure.&#39; How SETI is expanding its search for alien intelligence &lpar;exclusive&rpar;](https://www.space.com/seti-expanding-search-for-alien-intelligence)
 - [Sundar Pichai says Google One cloud storage service has nearly 100M subscribers](https://techcrunch.com/2024/01/30/sundar-pichai-says-google-one-cloud-storage-service-has-nearly-100m-subscribers/)
 - [Accel eyes new India fashion e-commerce bet with Newme](https://techcrunch.com/2024/01/30/accel-newme-fashion-ecommerce-india/)
 - [Wattpad, a storytelling platform, conducts another layoff round](https://techcrunch.com/2024/01/30/wattpad-a-storytelling-platform-conducts-another-layoff-round/)
 - [Elon Musk’s $56B Tesla pay deal is unfair, judge rules](https://techcrunch.com/2024/01/30/elon-musks-56b-tesla-pay-deal-is-unfair-judge-rules/)
-- [Ofcom report finds 1 in 5 harmful content search results were ‘one-click gateways’ to more toxicity](https://techcrunch.com/2024/01/30/ofcom-report-finds-1-in-5-harmful-content-search-results-were-one-click-gateways-to-more-toxicity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
