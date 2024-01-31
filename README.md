@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech layoffs scale to three-quarter high](https://techcrunch.com/2024/01/31/tech-layoffs-scale-to-three-quarter-high/)
+- [FCC moves to outlaw AI-generated robocalls](https://techcrunch.com/2024/01/31/fcc-moves-to-outlaw-ai-generated-robocalls/)
+- [X CEO Linda Yaccarino claims company has 90M U.S. users, less than 1% are teens](https://techcrunch.com/2024/01/31/x-ceo-linda-yaccarino-claims-company-has-90m-u-s-users-less-than-1-are-teens/)
 - [Snap CEO says 20 million U.S. teens use Snapchat, but only 200,000 parents use its Family Center controls](https://techcrunch.com/2024/01/31/snap-ceo-says-20-million-u-s-teens-use-snapchat-but-only-200000-parents-use-its-family-center-controls/)
 - [Apple fixes zero-day bug in Apple Vision Pro that ‘may have been exploited’](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
-- [Aim Security raises $10M for its GenAI security platform](https://techcrunch.com/2024/01/31/aim-security-raises-10m-for-its-genai-security-platform/)
-- [Justice hits eBay for $59M for selling obviously illegal pill-counterfeiting gear](https://techcrunch.com/2024/01/31/justice-hits-ebay-for-59-million-for-selling-obviously-illegal-pill-counterfeiting-gear/)
-- [Apple Vision Pro’s secret weapon? Mindfulness](https://techcrunch.com/2024/01/31/apple-vision-pros-secret-weapon-mindfulness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
