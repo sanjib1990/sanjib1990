@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel eyes new India fashion e-commerce bet with Newme](https://techcrunch.com/2024/01/30/accel-newme-fashion-ecommerce-india/)
+- [Wattpad, a storytelling platform, conducts another layoff round](https://techcrunch.com/2024/01/30/wattpad-a-storytelling-platform-conducts-another-layoff-round/)
 - [Elon Musk’s $56B Tesla pay deal is unfair, judge rules](https://techcrunch.com/2024/01/30/elon-musks-56b-tesla-pay-deal-is-unfair-judge-rules/)
 - [Ofcom report finds 1 in 5 harmful content search results were ‘one-click gateways’ to more toxicity](https://techcrunch.com/2024/01/30/ofcom-report-finds-1-in-5-harmful-content-search-results-were-one-click-gateways-to-more-toxicity/)
 - [Universal Music Group plans to pull song catalog from TikTok](https://techcrunch.com/2024/01/30/universal-music-group-plans-to-pull-song-catalog-from-tiktok/)
-- [Amid a fairly flat European market, Giant Ventures raises $250M to invest transatlantically](https://techcrunch.com/2024/01/30/giant/)
-- [The Taylor Swift deepfake debacle was frustratingly preventable](https://techcrunch.com/2024/01/30/the-taylor-swift-deepfake-debacle-was-frustratingly-preventable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
