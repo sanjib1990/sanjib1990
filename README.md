@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finvest app will have you invested in US Treasury Bills in minutes](https://techcrunch.com/2024/01/31/finvest-app-treasury-bills-fintech/)
+- [Ethereum developer interest hit new all-time highs in 2023 despite a bear market](https://techcrunch.com/2024/01/31/ethereum-developer-interest-hit-new-all-time-highs-in-2023/)
+- [Match Group says it hasn’t yet decided if it will opt into Apple’s new DMA rules](https://techcrunch.com/2024/01/31/match-group-says-it-hasnt-yet-decided-if-it-will-opt-into-apples-new-dma-rules/)
+- [Google’s first Africa cloud region now operational](https://techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/)
 - [Meet the startup taking on Nvidia](https://techcrunch.com/2024/01/31/meet-the-startup-taking-on-nvidia/)
-- [Spotify’s new Snapchat Lens lets you capture yourself or your surroundings when sharing a song](https://techcrunch.com/2024/01/31/spotifys-new-snapchat-lens-lets-you-capture-yourself-or-your-surroundings-when-sharing-a-song/)
-- [Pitch competitions help level the playing field for underrepresented founders, but it isn’t enough](https://techcrunch.com/2024/01/31/pitch-competitions-level-playing-field/)
-- [Everything we know about &#39;The Mandalorian &amp; Grogu&#39;](https://www.space.com/everything-we-know-about-the-mandalorian-and-grogu)
-- [Ivanti patches two zero-days under attack, but finds another](https://techcrunch.com/2024/01/31/ivanti-patches-two-zero-days-under-attack-but-finds-another/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
