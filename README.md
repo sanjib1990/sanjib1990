@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: What are the USCIS H-1B lottery and filing fee updates?](https://techcrunch.com/2024/01/31/ask-sophie-what-are-speedy-visa-and-green-card-options-and-their-uscis-filing-fees-for-founders/)
+- [US military eyes SpaceX Starship for &#39;sensitive and potentially dangerous missions&#39;: report](https://www.space.com/spacex-starship-pentagon-military-missions)
+- [Threads is working on surfacing Trends, says Instagram head Adam Mosseri](https://techcrunch.com/2024/01/31/threads-is-working-on-surfacing-trends-says-instagram-head-adam-mosseri/)
 - [1,000 days in space! Core module of China&#39;s Tiangong space station hits milestone](https://www.space.com/china-tiangong-space-station-core-module-tianhe-1000-days)
 - [US disrupts China-backed hacking operation amid warning of threat to American infrastructure](https://techcrunch.com/2024/01/31/fbi-cisa-volt-typhoon-cyberattack-american-infastructure/)
-- [Mark Zuckerberg defends teenage creators’ right to public Instagram accounts](https://techcrunch.com/2024/01/31/mark-zuckerberg-defends-teenage-creators-right-to-public-instagram-accounts/)
-- [Microsoft, X throw their weight behind KOSA, the controversial kids’ online safety bill](https://techcrunch.com/2024/01/31/x-microsoft-kosa-kids-online-safety-bill/)
-- [Metronome’s usage-based billing software finds hit in AI as the startup raises $43M in fresh capital](https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
