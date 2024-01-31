@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX gearing up to launch private moon lander in February](https://www.space.com/spacex-intuitive-machines-nova-c-moon-lander-launch-preparations)
-- [NASA&#39;S Europa Clipper gets science gear to probe ocean moon of Jupiter](https://www.space.com/nasa-europa-clipper-spacecraft-jupiter-icy-moon-instruments)
-- [Europcar says someone likely used ChatGPT to promote a fake data breach](https://techcrunch.com/2024/01/31/europcar-says-someone-likely-used-chatgpt-to-promote-a-fake-data-breach/)
-- [Pew report shows TikTok’s rise and YouTube’s ubiquity](https://techcrunch.com/2024/01/31/pew-social-media-report-2023/)
-- [Tech layoffs scale to three-quarter high](https://techcrunch.com/2024/01/31/tech-layoffs-scale-to-three-quarter-high/)
+- [Media startup The Messenger disintegrates, leaving staff nothing](https://techcrunch.com/2024/01/31/media-startup-the-messenger-disintegrates-leaving-staff-nothing/)
+- [Meteorites from Asteroid 2024 Bx1, which just hit Earth, may be super-rare space rocks](https://www.space.com/asteroid-2024-bx1-rare-space-rock-germany-earth-impact)
+- [Autonomous vehicle company Motional is about to lose a key backer](https://techcrunch.com/2024/01/31/autonomous-vehicle-company-motional-is-about-to-lose-a-key-backer/)
+- [Apple Vision Pro: Day One](https://techcrunch.com/2024/01/31/apple-vision-pro-day-one/)
+- [Senate hearing with five social media CEOs was a missed opportunity](https://techcrunch.com/2024/01/31/senate-hearing-with-five-social-media-ceos-was-a-missed-opportunity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
