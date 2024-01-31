@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s $56B Tesla pay deal is unfair, judge rules](https://techcrunch.com/2024/01/30/elon-musks-56b-tesla-pay-deal-is-unfair-judge-rules/)
 - [Ofcom report finds 1 in 5 harmful content search results were ‘one-click gateways’ to more toxicity](https://techcrunch.com/2024/01/30/ofcom-report-finds-1-in-5-harmful-content-search-results-were-one-click-gateways-to-more-toxicity/)
 - [Universal Music Group plans to pull song catalog from TikTok](https://techcrunch.com/2024/01/30/universal-music-group-plans-to-pull-song-catalog-from-tiktok/)
 - [Amid a fairly flat European market, Giant Ventures raises $250M to invest transatlantically](https://techcrunch.com/2024/01/30/giant/)
 - [The Taylor Swift deepfake debacle was frustratingly preventable](https://techcrunch.com/2024/01/30/the-taylor-swift-deepfake-debacle-was-frustratingly-preventable/)
-- [Navigating media’s ups and downs with theSkimm co-founders](https://techcrunch.com/2024/01/30/navigating-medias-ups-and-downs-with-theskimm-co-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
