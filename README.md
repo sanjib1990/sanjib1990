@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ask Sophie: What are the USCIS H-1B lottery and filing fee updates?](https://techcrunch.com/2024/01/31/ask-sophie-what-are-speedy-visa-and-green-card-options-and-their-uscis-filing-fees-for-founders/)
-- [US military eyes SpaceX Starship for &#39;sensitive and potentially dangerous missions&#39;: report](https://www.space.com/spacex-starship-pentagon-military-missions)
-- [Threads is working on surfacing Trends, says Instagram head Adam Mosseri](https://techcrunch.com/2024/01/31/threads-is-working-on-surfacing-trends-says-instagram-head-adam-mosseri/)
-- [1,000 days in space! Core module of China&#39;s Tiangong space station hits milestone](https://www.space.com/china-tiangong-space-station-core-module-tianhe-1000-days)
-- [US disrupts China-backed hacking operation amid warning of threat to American infrastructure](https://techcrunch.com/2024/01/31/fbi-cisa-volt-typhoon-cyberattack-american-infastructure/)
+- [Snap CEO says 20 million U.S. teens use Snapchat, but only 200,000 parents use its Family Center controls](https://techcrunch.com/2024/01/31/snap-ceo-says-20-million-u-s-teens-use-snapchat-but-only-200000-parents-use-its-family-center-controls/)
+- [Apple fixes zero-day bug in Apple Vision Pro that ‘may have been exploited’](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
+- [Aim Security raises $10M for its GenAI security platform](https://techcrunch.com/2024/01/31/aim-security-raises-10m-for-its-genai-security-platform/)
+- [Justice hits eBay for $59M for selling obviously illegal pill-counterfeiting gear](https://techcrunch.com/2024/01/31/justice-hits-ebay-for-59-million-for-selling-obviously-illegal-pill-counterfeiting-gear/)
+- [Apple Vision Pro’s secret weapon? Mindfulness](https://techcrunch.com/2024/01/31/apple-vision-pros-secret-weapon-mindfulness/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
