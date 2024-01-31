@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Universal Music Group plans to pull song catalog from TikTok](https://techcrunch.com/2024/01/30/universal-music-group-plans-to-pull-song-catalog-from-tiktok/)
+- [Amid a fairly flat European market, Giant Ventures raises $250M to invest transatlantically](https://techcrunch.com/2024/01/30/giant/)
 - [The Taylor Swift deepfake debacle was frustratingly preventable](https://techcrunch.com/2024/01/30/the-taylor-swift-deepfake-debacle-was-frustratingly-preventable/)
 - [Navigating media’s ups and downs with theSkimm co-founders](https://techcrunch.com/2024/01/30/navigating-medias-ups-and-downs-with-theskimm-co-founders/)
-- [Twitterrific’s team is back with Tapestry, an app for tracking social media, news, RSS, and more](https://techcrunch.com/2024/01/30/twitterrifics-team-is-back-with-tapestry-an-app-for-tracking-social-media-news-rss-and-more/)
-- [Iconic streamer Pokimane is leaving Twitch](https://techcrunch.com/2024/01/30/iconic-streamer-pokimane-is-leaving-twitch/)
-- [Block becomes the latest fintech to lay off workers](https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/)
+- [Twitterrific’s team is back with Tapestry, an app for tracking social media, news, RSS and more](https://techcrunch.com/2024/01/30/twitterrifics-team-is-back-with-tapestry-an-app-for-tracking-social-media-news-rss-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
