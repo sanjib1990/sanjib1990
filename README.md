@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Finvest app will have you invested in US Treasury Bills in minutes](https://techcrunch.com/2024/01/31/finvest-app-treasury-bills-fintech/)
-- [Ethereum developer interest hit new all-time highs in 2023 despite a bear market](https://techcrunch.com/2024/01/31/ethereum-developer-interest-hit-new-all-time-highs-in-2023/)
-- [Match Group says it hasn’t yet decided if it will opt into Apple’s new DMA rules](https://techcrunch.com/2024/01/31/match-group-says-it-hasnt-yet-decided-if-it-will-opt-into-apples-new-dma-rules/)
-- [Google’s first Africa cloud region now operational](https://techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/)
-- [Meet the startup taking on Nvidia](https://techcrunch.com/2024/01/31/meet-the-startup-taking-on-nvidia/)
+- [Mark Zuckerberg says Apple and Google should manage parental consent for apps, not Meta](https://techcrunch.com/2024/01/31/mark-zuckerberg-says-apple-and-google-should-manage-parental-consent-for-apps-not-meta/)
+- [Twin Labs automates repetitive tasks by letting AI take over your mouse cursor](https://techcrunch.com/2024/01/31/twin-labs-automates-repetitive-tasks-by-letting-ai-take-over-your-mouse-cursor/)
+- [Google’s ‘Circle to Search’ feature is now available on the Pixel 8, Pixel 8 Pro and Samsung Galaxy S20 series](https://techcrunch.com/2024/01/31/googles-circle-to-search-feature-available-pixel-8-pixel-8-pro-samsung-galaxy-s20-series/)
+- [Watch private Cygnus cargo ship arrive at the ISS early Feb. 1 &lpar;video&rpar;](https://www.space.com/northrop-grumman-cygnus-ng-20-iss-arrival)
+- [Shopify is rolling out an AI-powered image editor for products](https://techcrunch.com/2024/01/31/shopify-is-rolling-out-an-ai-powered-image-editor-for-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
