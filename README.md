@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s Starship to launch &#39;Starlab&#39; private space station in late 2020s](https://www.space.com/spacex-starship-launch-starlab-private-space-station)
-- [StreamAlive picks up $1.58M to build engagement tools for livestreams](https://techcrunch.com/2024/01/31/streamalive-picks-up-1-58m-to-build-engagement-tools-for-virtual-meetings-and-livestreams/)
-- [SpaceX will launch the Starlab private space station using Starship](https://techcrunch.com/2024/01/31/voyager-and-airbus-to-launch-commercial-space-station-on-a-spacex-starship-rocket/)
-- [Neurelo is building a simpler way for developers to connect a database to an application](https://techcrunch.com/2024/01/31/neurelo-is-building-a-simpler-way-for-developers-to-connect-the-database-to-the-application/)
-- [Oura launches a new feature to mesure your resilience against stress](https://techcrunch.com/2024/01/31/oura-launches-a-new-feature-to-mesure-your-resilience-against-stress/)
+- [Meet the startup taking on Nvidia](https://techcrunch.com/2024/01/31/meet-the-startup-taking-on-nvidia/)
+- [Spotify’s new Snapchat Lens lets you capture yourself or your surroundings when sharing a song](https://techcrunch.com/2024/01/31/spotifys-new-snapchat-lens-lets-you-capture-yourself-or-your-surroundings-when-sharing-a-song/)
+- [Pitch competitions help level the playing field for underrepresented founders, but it isn’t enough](https://techcrunch.com/2024/01/31/pitch-competitions-level-playing-field/)
+- [Everything we know about &#39;The Mandalorian &amp; Grogu&#39;](https://www.space.com/everything-we-know-about-the-mandalorian-and-grogu)
+- [Ivanti patches two zero-days under attack, but finds another](https://techcrunch.com/2024/01/31/ivanti-patches-two-zero-days-under-attack-but-finds-another/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
