@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MessageBird rebrands as Bird, and slashes prices by 90% on SMS to take on Twilio](https://techcrunch.com/2024/02/01/messagebird-rebrands-as-bird-and-slashes-prices-by-90-on-sms-to-take-on-twilio/)
+- [SpaceX, NASA targeting Feb. 22 for launch of Crew-8 astronaut mission](https://www.space.com/spacex-nasa-crew-8-launch-february-22)
+- [NASA to &#39;wiggle&#39; broken Ingenuity Mars helicopter&#39;s blades to analyze damage](https://www.space.com/nasa-mars-helicopter-ingenuity-tribute)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [AI and blockchains might need one another to evolve, according to new report](https://techcrunch.com/2024/02/01/ai-and-blockchains-might-need-one-another-to-evolve/)
-- [Signalling more consolidation may come, smart-bus startup Zeelo acquires Kura, a smaller player](https://techcrunch.com/2024/02/01/zeelo/)
-- [Byju’s investors seek to remove edtech group’s founder](https://techcrunch.com/2024/02/01/byjus-investors-call-for-egm-to-remove-founder-following-rights-issue/)
-- [NASA&#39;s Artemis 1 moon capsule to land in renovated Smithsonian gallery in 2026](https://www.space.com/artemis-1-orion-capsule-smithsonian-air-space-museum-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
