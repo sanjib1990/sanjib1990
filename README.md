@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Three San Francisco supervisors receive threats following YC President Garry Tan’s tweet](https://techcrunch.com/2024/01/31/san-francisco-supervisors-threats-yc-garry-tans-tweet/)
-- [India’s central bank discusses more penalties on Paytm Payments Bank, including revoking license](https://techcrunch.com/2024/01/31/indias-central-bank-discusses-more-penalties-on-paytm-payments-bank-including-revoking-license/)
+- [India’s central bank weighs revoking Paytm’s payments bank licence](https://techcrunch.com/2024/01/31/indias-central-bank-discusses-more-penalties-on-paytm-payments-bank-including-revoking-license/)
 - [Reliance-backed Viacom18 agrees to buy 60% of Disney’s India unit, report says](https://techcrunch.com/2024/01/31/reliance-backed-viacom18-agrees-to-buy-60-of-disney-india-unit-report-says/)
 - [Paytm to terminate business with Paytm Payments Bank after central bank’s clampdown](https://techcrunch.com/2024/01/31/paytm-to-terminate-business-with-paytm-payments-bank-after-central-bank-clampdown/)
 - [NASA names astronauts for SpaceX&#39;s Crew-9 mission to the ISS](https://www.space.com/nasa-names-astronauts-spacex-crew-9-mission)
