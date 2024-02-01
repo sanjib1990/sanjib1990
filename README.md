@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Antitrust enforcers admit they’re in a race to understand how to tackle AI](https://techcrunch.com/2024/02/01/eu-antitrust-new-world-order/)
+- [X-ray image of universe reveals almost 1 million high-energy objects: &#39;These are mind-blowing numbers&#39;](https://www.space.com/x-ray-astronomy-erosita-half-the-universe-high-energy-objects-black-holes)
+- [Snap recalls discontinued Pixy drone over fire risk](https://techcrunch.com/2024/02/01/snap-pixy-drone-recall-information-fire/)
 - [Arc is building an AI agent that browses on your behalf](https://techcrunch.com/2024/02/01/arc-is-building-an-ai-agent-that-browses-on-your-behalf/)
 - [Meta Quest adds support for Apple’s Spatial Video ahead of Vision Pro launch](https://techcrunch.com/2024/02/01/meta-quest-adds-support-for-apples-spatial-video-ahead-of-vision-pro-launch/)
-- [Watch next-generation lightweight spacesuit tested on Zero-G flight &lpar;photos, video&rpar;](https://www.space.com/collins-aerospace-iss-future-spacesuit-testing)
-- [US gives federal agencies 48 hours to disconnect flawed Ivanti VPN tech](https://techcrunch.com/2024/02/01/cisa-federal-agencies-disconnect-ivanti-vpn/)
-- [Here is Apple’s official ‘jailbroken’ iPhone for security researchers](https://techcrunch.com/2024/02/01/here-is-apples-official-jailbroken-iphone-for-security-researchers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
