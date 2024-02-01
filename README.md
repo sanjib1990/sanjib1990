@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro: Day Two](https://techcrunch.com/2024/02/01/apple-vision-pro-day-two/)
+- [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://techcrunch.com/2024/02/01/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
 - [Orbital Composites and Virtus Solis team up for space-based solar power mission](https://techcrunch.com/2024/02/01/orbital-composites-and-virtus-solis-team-up-for-space-based-solar-power-mission/)
-- [Threads now reaches more 130 million monthly users, says Meta, up 30M from Q3](https://techcrunch.com/2024/02/01/threads-now-reaches-more-130-million-monthly-users-says-meta-up-30m-from-q3/)
+- [Threads now reaches more than 130 million monthly users, says Meta, up 30M from Q3](https://techcrunch.com/2024/02/01/threads-now-reaches-more-130-million-monthly-users-says-meta-up-30m-from-q3/)
 - [Japan&#39;s SLIM moon lander snaps final photos before going dormant during lunar night](https://www.space.com/japan-slim-moon-lander-dormant-final-photos)
-- [Amazon debuts ‘Rufus,’ an AI shopping assistant in its mobile app](https://techcrunch.com/2024/02/01/amazon-debuts-rufus-an-ai-shopping-assistant-in-its-mobile-app/)
-- [Google Maps experiments with generative AI to improve discovery](https://techcrunch.com/2024/02/01/google-maps-experiments-with-generative-ai-to-improve-discovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
