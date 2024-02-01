@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [AI and blockchains might need one another to evolve, according to new report](https://techcrunch.com/2024/02/01/ai-and-blockchains-might-need-one-another-to-evolve/)
+- [Signalling more consolidation may come, smart-bus startup Zeelo acquires Kura, a smaller player](https://techcrunch.com/2024/02/01/zeelo/)
+- [Byju’s investors seek to remove edtech group’s founder](https://techcrunch.com/2024/02/01/byjus-investors-call-for-egm-to-remove-founder-following-rights-issue/)
 - [NASA&#39;s Artemis 1 moon capsule to land in renovated Smithsonian gallery in 2026](https://www.space.com/artemis-1-orion-capsule-smithsonian-air-space-museum-2026)
-- [CARPL guides healthcare providers through the growing market of radiology AI apps](https://techcrunch.com/2024/02/01/carpl/)
-- [Planet A Foods whips up more capital to take its cocoa-free chocolate global](https://techcrunch.com/2024/02/01/planet-a-foods-cocoa-free-chocolate/)
-- [Three San Francisco supervisors receive threats following YC President Garry Tan’s tweet](https://techcrunch.com/2024/01/31/san-francisco-supervisors-threats-yc-garry-tans-tweet/)
-- [India weighs more penalties on Paytm, including revoking payments bank license](https://techcrunch.com/2024/01/31/indias-central-bank-discusses-more-penalties-on-paytm-payments-bank-including-revoking-license/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
