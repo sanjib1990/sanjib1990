@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cast your votes for TC Early Stage Audience Choice Roundtables](https://techcrunch.com/2024/02/01/cast-your-votes-for-tc-early-stage-audience-choice-roundtables/)
+- [Dark energy is forcing the universe to expand. This new observatory may show us how](https://www.space.com/rubin-observatory-legacy-survey-space-time-dark-energy-expansion)
 - [MessageBird rebrands as Bird, and slashes prices by 90% on SMS to take on Twilio](https://techcrunch.com/2024/02/01/messagebird-rebrands-as-bird-and-slashes-prices-by-90-on-sms-to-take-on-twilio/)
 - [SpaceX, NASA targeting Feb. 22 for launch of Crew-8 astronaut mission](https://www.space.com/spacex-nasa-crew-8-launch-february-22)
 - [NASA to &#39;wiggle&#39; broken Ingenuity Mars helicopter&#39;s blades to analyze damage](https://www.space.com/nasa-mars-helicopter-ingenuity-tribute)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [AI and blockchains might need one another to evolve, according to new report](https://techcrunch.com/2024/02/01/ai-and-blockchains-might-need-one-another-to-evolve/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
