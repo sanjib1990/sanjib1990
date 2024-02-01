@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA names astronauts for SpaceX&#39;s Crew-9 mission to the ISS](https://www.space.com/nasa-names-astronauts-spacex-crew-9-mission)
+- [Tesla sued for allegedly mishandling hazardous waste in California for years](https://techcrunch.com/2024/01/31/tesla-hazardous-waste-lawsuit-california-counties/)
 - [Media startup The Messenger disintegrates, leaving staff nothing](https://techcrunch.com/2024/01/31/media-startup-the-messenger-disintegrates-leaving-staff-nothing/)
 - [Meteorites from Asteroid 2024 Bx1, which just hit Earth, may be super-rare space rocks](https://www.space.com/asteroid-2024-bx1-rare-space-rock-germany-earth-impact)
 - [Autonomous vehicle company Motional is about to lose a key backer](https://techcrunch.com/2024/01/31/autonomous-vehicle-company-motional-is-about-to-lose-a-key-backer/)
-- [Apple Vision Pro: Day One](https://techcrunch.com/2024/01/31/apple-vision-pro-day-one/)
-- [Senate hearing with five social media CEOs was a missed opportunity](https://techcrunch.com/2024/01/31/senate-hearing-with-five-social-media-ceos-was-a-missed-opportunity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
