@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do galaxies grow while ensnared in the universe&#39;s cosmic web?](https://www.space.com/galaxies-ensnared-cosmic-web-galactic-evolution)
+- [Probabl is a new AI company built around popular library scikit-learn](https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/)
 - [Marvel Comics celebrates Black History Month with &#39;Star Wars&#39; comics covers](https://www.space.com/star-wars-black-history-month-comic-covers-2024)
 - [Apple Vision Pro to launch with over 600 apps and games optimized for the new headset](https://techcrunch.com/2024/02/01/apple-vision-pro-to-launch-with-over-600-apps-and-games-optimized-for-the-new-headset/)
 - [Why one founder thinks the Apple Vision Pro is going to make it](https://techcrunch.com/2024/02/01/apple-vision-pro-and-the-innovators-dilemma/)
-- [Izote Biosciences takes in $2.6M to develop a fermentation process sans oxygen](https://techcrunch.com/2024/02/01/izote-biosciences-2-6m-fermentation/)
-- [Google releases GenAI tools for music creation](https://techcrunch.com/2024/02/01/google-releases-genai-tools-for-music-creation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
