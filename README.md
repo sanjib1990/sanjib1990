@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 1 moon capsule to land in renovated Smithsonian gallery in 2026](https://www.space.com/artemis-1-orion-capsule-smithsonian-air-space-museum-2026)
+- [CARPL guides healthcare providers through the growing market of radiology AI apps](https://techcrunch.com/2024/02/01/carpl/)
 - [Planet A Foods whips up more capital to take its cocoa-free chocolate global](https://techcrunch.com/2024/02/01/planet-a-foods-cocoa-free-chocolate/)
 - [Three San Francisco supervisors receive threats following YC President Garry Tan’s tweet](https://techcrunch.com/2024/01/31/san-francisco-supervisors-threats-yc-garry-tans-tweet/)
 - [India weighs more penalties on Paytm, including revoking payments bank license](https://techcrunch.com/2024/01/31/indias-central-bank-discusses-more-penalties-on-paytm-payments-bank-including-revoking-license/)
-- [Reliance-backed Viacom18 agrees to buy 60% of Disney’s India unit, report says](https://techcrunch.com/2024/01/31/reliance-backed-viacom18-agrees-to-buy-60-of-disney-india-unit-report-says/)
-- [Paytm to terminate business with Paytm Payments Bank after central bank’s clampdown](https://techcrunch.com/2024/01/31/paytm-to-terminate-business-with-paytm-payments-bank-after-central-bank-clampdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
