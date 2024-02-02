@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lava from Iceland volcano spied from space &lpar;satellite photo&rpar;](https://www.space.com/lava-iceland-volcano-copernicus-satellite-photo)
 - [Byju’s says investors don’t have voting right to remove founder from edtech group](https://techcrunch.com/2024/02/02/byjus-says-investors-dont-have-voting-right-to-remove-founder-from-edtech-group/)
 - [YouTube is not building a Vision Pro app, so Apollo for Reddit dev made one](https://techcrunch.com/2024/02/01/youtube-is-not-building-a-vision-pro-app-so-apollo-for-reddit-dev-made-one/)
 - [VCs Elad Gil and Sarah Guo on the risks and rewards of funding AI: “The biggest threat to us in the short run is other people”](https://techcrunch.com/2024/02/01/renowned-investors-elad-gil-and-sarah-guo-on-the-risks-and-rewards-of-funding-ai-tech-the-biggest-threat-to-us-in-the-short-run-is-other-people/)
 - [Apple says EU represents 7% of global App Store revenue](https://techcrunch.com/2024/02/01/apple-says-eu-represents-7-of-global-app-store-revenue/)
-- [Indian central bank’s clampdown wipes $2.1 billion off Paytm](https://techcrunch.com/2024/02/01/indian-central-banks-clampdown-wipes-2-1-billion-off-paytm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
