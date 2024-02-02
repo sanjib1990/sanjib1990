@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Ax-3 astronauts leave ISS in SpaceX Dragon capsule early Feb. 3](https://www.space.com/spacex-ax-3-mission-international-space-station-departure)
 - [Maybe count to 10 before you tweet](https://techcrunch.com/2024/02/02/maybe-count-to-10-before-you-tweet/)
 - [Nuclear power on the moon: NASA wraps up 1st phase of ambitious reactor project](https://www.space.com/nasa-moon-nuclear-reactor-project-first-phase-complete)
 - [Boutique e-motorcycle startup Cake files for bankruptcy](https://techcrunch.com/2024/02/02/cake-electric-motorcycle-bankruptcy/)
 - [SpaceX will reap the benefits of new Dragon research opportunity](https://techcrunch.com/2024/02/02/spacex-will-reap-the-benefits-of-new-dragon-research-opportunity/)
-- [Apple Vision Pro: Here are the first apps you should download](https://techcrunch.com/2024/02/02/apple-vision-pro-here-are-the-first-apps-you-should-download/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
