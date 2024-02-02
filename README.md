@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tuck and roll! Watch ISS astronauts have fun during orbit-raising thruster fire &lpar;video&rpar;](https://www.space.com/international-space-station-astronauts-amusement-ride)
+- [Secretive moon startup led by ex-Blue Origin leaders raises new tranche of funding](https://techcrunch.com/2024/02/02/secretive-moon-startup-led-by-ex-blue-origin-leaders-raises-new-tranche-of-funding/)
 - [Watch Ax-3 astronauts leave ISS in SpaceX Dragon capsule early Feb. 3](https://www.space.com/spacex-ax-3-mission-international-space-station-departure)
 - [Maybe count to 10 before you tweet](https://techcrunch.com/2024/02/02/maybe-count-to-10-before-you-tweet/)
 - [Nuclear power on the moon: NASA wraps up 1st phase of ambitious reactor project](https://www.space.com/nasa-moon-nuclear-reactor-project-first-phase-complete)
-- [Boutique e-motorcycle startup Cake files for bankruptcy](https://techcrunch.com/2024/02/02/cake-electric-motorcycle-bankruptcy/)
-- [SpaceX will reap the benefits of new Dragon research opportunity](https://techcrunch.com/2024/02/02/spacex-will-reap-the-benefits-of-new-dragon-research-opportunity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
