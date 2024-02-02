@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 moon astronauts dive into giant NASA pool for splashdown training &lpar;photos&rpar;](https://www.space.com/artemis-2-moon-astronauts-nasa-pool-splashdown)
+- [A monster black hole is throwing a galaxy-size tantrum](https://www.space.com/supermassive-black-hole-galaxy-size-tantrum)
+- [As Podcastle raises $13.5M, its founder credits AI-driven growth in Armenia’s ‘Mini-Silicon Valley’](https://techcrunch.com/2024/02/02/as-podcastle-raises-13-5m-its-founder-credits-ai-driven-growth-in-armenias-mini-silicon-valley/)
 - [Apple says it’ll show its GenAI efforts ‘later this year’](https://techcrunch.com/2024/02/02/apple-genai-on-way/)
 - [Lava from Iceland volcano spied from space &lpar;satellite photo&rpar;](https://www.space.com/lava-iceland-volcano-copernicus-satellite-photo)
-- [Byju’s says investors don’t have voting right to remove founder from edtech group](https://techcrunch.com/2024/02/02/byjus-says-investors-dont-have-voting-right-to-remove-founder-from-edtech-group/)
-- [YouTube is not building a Vision Pro app, so Apollo for Reddit dev made one](https://techcrunch.com/2024/02/01/youtube-is-not-building-a-vision-pro-app-so-apollo-for-reddit-dev-made-one/)
-- [VCs Elad Gil and Sarah Guo on the risks and rewards of funding AI: “The biggest threat to us in the short run is other people”](https://techcrunch.com/2024/02/01/renowned-investors-elad-gil-and-sarah-guo-on-the-risks-and-rewards-of-funding-ai-tech-the-biggest-threat-to-us-in-the-short-run-is-other-people/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
