@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian central bank’s clampdown wipes $2.1 billion off Paytm](https://techcrunch.com/2024/02/01/indian-central-banks-clampdown-wipes-2-1-billion-off-paytm/)
 - [China’s Xpeng is bringing its Tesla FSD equivalent to overseas owners](https://techcrunch.com/2024/02/01/chinas-xpeng-is-bringing-its-tesla-fsd-equivalent-to-overseas-owners/)
 - [Tesla settles California hazardous waste lawsuit with a $1.5M fine](https://techcrunch.com/2024/02/01/tesla-settles-california-hazardous-waste-lawsuit-with-a-1-5-million-fine/)
 - [UK government urged to adopt more positive outlook for LLMs to avoid missing ‘AI goldrush’](https://techcrunch.com/2024/02/01/uk-ai-llms-house-of-lords-report/)
 - [Apple Vision Pro: Day Two](https://techcrunch.com/2024/02/01/apple-vision-pro-day-two/)
-- [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://techcrunch.com/2024/02/01/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
