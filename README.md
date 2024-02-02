@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla settles California hazardous waste lawsuit with a $1.5 million fine](https://techcrunch.com/2024/02/01/tesla-settles-california-hazardous-waste-lawsuit-with-a-1-5-million-fine/)
+- [UK government urged to adopt more positive outlook for LLMs to avoid missing ‘AI goldrush’](https://techcrunch.com/2024/02/01/uk-ai-llms-house-of-lords-report/)
 - [Apple Vision Pro: Day Two](https://techcrunch.com/2024/02/01/apple-vision-pro-day-two/)
 - [Mark Zuckerberg calls Apple’s DMA rules ‘so onerous’ he doubts any developer will opt in](https://techcrunch.com/2024/02/01/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
 - [Orbital Composites and Virtus Solis team up for space-based solar power mission](https://techcrunch.com/2024/02/01/orbital-composites-and-virtus-solis-team-up-for-space-based-solar-power-mission/)
-- [Threads now reaches more than 130 million monthly users, says Meta, up 30M from Q3](https://techcrunch.com/2024/02/01/threads-now-reaches-more-130-million-monthly-users-says-meta-up-30m-from-q3/)
-- [Japan&#39;s SLIM moon lander snaps final photos before going dormant during lunar night](https://www.space.com/japan-slim-moon-lander-dormant-final-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
