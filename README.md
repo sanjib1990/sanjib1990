@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The feast and famine cycle of tech](https://techcrunch.com/2024/02/02/the-feast-and-famine-cycle-of-tech/)
+- [Get a 1st look at debut issue of &#39;Star Trek: Sons of Star Trek&#39; miniseries &lpar;exclusive&rpar;](https://www.space.com/sons-of-star-trek-idw-miniseries-exclusive-sneak-peek)
+- [Hire mindset over skill set](https://techcrunch.com/2024/02/02/hire-mindset-over-skill-set/)
+- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
 - [Chinese company&#39;s reusable rocket prototype aces launch-and-landing test &lpar;photos&rpar;](https://www.space.com/chinese-company-expace-reusable-rocket-test)
-- [Niremia Collective closes inaugural fund with $22.5M focused on well-being technology](https://techcrunch.com/2024/02/02/niremia-collective-22-5m-fund-well-being-tech/)
-- [FTC orders Blackbaud to overhaul ‘reckless’ security practices in wake of 2020 breach](https://techcrunch.com/2024/02/02/ftc-blackbaud-reckless-security-practices/)
-- [Artemis 2 moon astronauts dive into giant NASA pool for splashdown training &lpar;photos&rpar;](https://www.space.com/artemis-2-moon-astronauts-nasa-pool-splashdown)
-- [A monster black hole is throwing a galaxy-size tantrum](https://www.space.com/supermassive-black-hole-galaxy-size-tantrum)
 <!-- BLOG-POST-LIST:END -->
 
 ---
