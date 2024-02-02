@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The feast and famine cycle of tech](https://techcrunch.com/2024/02/02/the-feast-and-famine-cycle-of-tech/)
-- [Get a 1st look at debut issue of &#39;Star Trek: Sons of Star Trek&#39; miniseries &lpar;exclusive&rpar;](https://www.space.com/sons-of-star-trek-idw-miniseries-exclusive-sneak-peek)
-- [Hire mindset over skill set](https://techcrunch.com/2024/02/02/hire-mindset-over-skill-set/)
-- [Space pictures! See our image of the day](https://www.space.com/34-image-day.html)
-- [Chinese company&#39;s reusable rocket prototype aces launch-and-landing test &lpar;photos&rpar;](https://www.space.com/chinese-company-expace-reusable-rocket-test)
+- [Which telescope will be 1st to find alien life? Scientists have some ideas](https://www.space.com/telescope-alien-biosignatures-extraterrestrial-life-elt)
+- [These 30 robotics companies are hiring](https://techcrunch.com/2024/02/02/these-30-robotics-companies-are-hiring/)
+- [Huge stadium-sized asteroid will make its closest approach to Earth for centuries today &lpar;Feb. 2&rpar;](https://www.space.com/stadium-size-asteroid-2008-OS7-earth-flyby-february-2024)
+- [Pitch Deck Teardown: PhageLab’s $11M Series A deck](https://techcrunch.com/2024/02/02/sample-series-a-pitch-deck-phagelab/)
+- [Cloud infrastructure saw its biggest revenue growth ever in Q4](https://techcrunch.com/2024/02/02/ai-pushes-quarterly-cloud-infrastructure-revenue-to-74b-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
