@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Renowned investors Elad Gil and Sarah Guo on the risks and rewards of funding AI tech: “The biggest threat to us in the short run is other people”](https://techcrunch.com/2024/02/01/renowned-investors-elad-gil-and-sarah-guo-on-the-risks-and-rewards-of-funding-ai-tech-the-biggest-threat-to-us-in-the-short-run-is-other-people/)
 - [Apple says EU represents 7% of global App Store revenue](https://techcrunch.com/2024/02/01/apple-says-eu-represents-7-of-global-app-store-revenue/)
 - [Indian central bank’s clampdown wipes $2.1 billion off Paytm](https://techcrunch.com/2024/02/01/indian-central-banks-clampdown-wipes-2-1-billion-off-paytm/)
 - [China’s Xpeng is bringing its Tesla FSD equivalent to overseas owners](https://techcrunch.com/2024/02/01/chinas-xpeng-is-bringing-its-tesla-fsd-equivalent-to-overseas-owners/)
 - [Tesla settles California hazardous waste lawsuit with a $1.5M fine](https://techcrunch.com/2024/02/01/tesla-settles-california-hazardous-waste-lawsuit-with-a-1-5-million-fine/)
-- [UK government urged to adopt more positive outlook for LLMs to avoid missing ‘AI goldrush’](https://techcrunch.com/2024/02/01/uk-ai-llms-house-of-lords-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
