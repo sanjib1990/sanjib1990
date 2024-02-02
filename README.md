@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z’s Chris Dixon thinks it’s time to focus on blockchains’ use cases, not speculation](https://techcrunch.com/2024/02/02/a16z-chris-dixon-chain-reaction-interview/)
 - [Sierra Space unveils Dream Chaser space plane ahead of 1st flight to ISS &lpar;photos&rpar;](https://www.space.com/sierra-space-unveils-dream-chaser-space-plane-photos)
 - [EU’s AI Act passes last big hurdle on the way to adoption](https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/)
 - [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/02/02/independent-vision-os-apps-for-the-apple-vision-pro/)
 - [Which telescope will be 1st to find alien life? Scientists have some ideas](https://www.space.com/telescope-alien-biosignatures-extraterrestrial-life-elt)
-- [These 30 robotics companies are hiring](https://techcrunch.com/2024/02/02/these-30-robotics-companies-are-hiring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
