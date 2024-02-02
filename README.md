@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sierra Space unveils Dream Chaser space plane ahead of 1st flight to ISS &lpar;photos&rpar;](https://www.space.com/sierra-space-unveils-dream-chaser-space-plane-photos)
+- [EU’s AI Act passes last big hurdle on the way to adoption](https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/)
+- [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/02/02/independent-vision-os-apps-for-the-apple-vision-pro/)
 - [Which telescope will be 1st to find alien life? Scientists have some ideas](https://www.space.com/telescope-alien-biosignatures-extraterrestrial-life-elt)
 - [These 30 robotics companies are hiring](https://techcrunch.com/2024/02/02/these-30-robotics-companies-are-hiring/)
-- [Huge stadium-sized asteroid will make its closest approach to Earth for centuries today &lpar;Feb. 2&rpar;](https://www.space.com/stadium-size-asteroid-2008-OS7-earth-flyby-february-2024)
-- [Pitch Deck Teardown: PhageLab’s $11M Series A deck](https://techcrunch.com/2024/02/02/sample-series-a-pitch-deck-phagelab/)
-- [Cloud infrastructure saw its biggest revenue growth ever in Q4](https://techcrunch.com/2024/02/02/ai-pushes-quarterly-cloud-infrastructure-revenue-to-74b-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
