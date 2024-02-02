@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese company&#39;s reusable rocket prototype aces launch-and-landing test &lpar;photos&rpar;](https://www.space.com/chinese-company-expace-reusable-rocket-test)
+- [Niremia Collective closes inaugural fund with $22.5M focused on well-being technology](https://techcrunch.com/2024/02/02/niremia-collective-22-5m-fund-well-being-tech/)
+- [FTC orders Blackbaud to overhaul ‘reckless’ security practices in wake of 2020 breach](https://techcrunch.com/2024/02/02/ftc-blackbaud-reckless-security-practices/)
 - [Artemis 2 moon astronauts dive into giant NASA pool for splashdown training &lpar;photos&rpar;](https://www.space.com/artemis-2-moon-astronauts-nasa-pool-splashdown)
 - [A monster black hole is throwing a galaxy-size tantrum](https://www.space.com/supermassive-black-hole-galaxy-size-tantrum)
-- [As Podcastle raises $13.5M, its founder credits AI-driven growth in Armenia’s ‘Mini-Silicon Valley’](https://techcrunch.com/2024/02/02/as-podcastle-raises-13-5m-its-founder-credits-ai-driven-growth-in-armenias-mini-silicon-valley/)
-- [Apple says it’ll show its GenAI efforts ‘later this year’](https://techcrunch.com/2024/02/02/apple-genai-on-way/)
-- [Lava from Iceland volcano spied from space &lpar;satellite photo&rpar;](https://www.space.com/lava-iceland-volcano-copernicus-satellite-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
