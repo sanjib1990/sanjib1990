@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro: Here are the first apps you should download](https://techcrunch.com/2024/02/02/apple-vision-pro-here-are-the-first-apps-you-should-download/)
+- [Spotify’s podcast exclusive days are over as Joe Rogan’s show expands to other platforms](https://techcrunch.com/2024/02/02/spotifys-podcast-exclusive-days-are-over-as-joe-rogans-show-expands-to-other-platforms/)
+- [Stomp Rocket &#39;targets&#39; NASA history with new space toy collection](https://www.space.com/stomp-rocket-nasa-space-collection)
 - [a16z’s Chris Dixon thinks it’s time to focus on blockchains’ use cases, not speculation](https://techcrunch.com/2024/02/02/a16z-chris-dixon-chain-reaction-interview/)
-- [Sierra Space unveils Dream Chaser space plane ahead of 1st flight to ISS &lpar;photos&rpar;](https://www.space.com/sierra-space-unveils-dream-chaser-space-plane-photos)
-- [EU’s AI Act passes last big hurdle on the way to adoption](https://techcrunch.com/2024/02/02/eu-ai-act-coreper-vote/)
-- [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/02/02/independent-vision-os-apps-for-the-apple-vision-pro/)
-- [Which telescope will be 1st to find alien life? Scientists have some ideas](https://www.space.com/telescope-alien-biosignatures-extraterrestrial-life-elt)
+- [Sierra Space unveils Dream Chaser space plane ahead of 1st flight to ISS &lpar;video&rpar;](https://www.space.com/sierra-space-unveils-dream-chaser-space-plane-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
