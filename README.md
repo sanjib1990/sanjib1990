@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: Do shoppers actually want Amazon’s GenAI?](https://techcrunch.com/2024/02/03/this-week-in-ai-do-shoppers-actually-want-amazons-genai/)
+- [Watch Amazon&#39;s new trailer for cosmic comedy &#39;The Second Best Hospital in the Galaxy&#39; &lpar;video&rpar;](https://www.space.com/second-best-hospital-galaxy-new-trailer)
+- [To benefit all, diverse voices must take part in leading the growth and regulation of AI](https://techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/)
 - [Event Horizon Telescope spies jets erupting from nearby supermassive black hole](https://www.space.com/supermassive-black-hole-eruption-gravity-battles-magnetism)
 - [Apple Vision Pro review: the infinite desktop](https://techcrunch.com/2024/02/03/apple-vision-pro-review-the-infinite-desktop/)
-- [James Webb Space Telescope makes rare detection of 2 exoplanets orbiting dead stars](https://www.space.com/james-webb-space-telescope-exoplanets-dead-stars)
-- [&#39;Predator&#39; and &#39;The Mandalorian&#39; star Carl Weathers passes away at 76](https://www.space.com/carl-weathers-predator-mandalorian-passes-away-at-76)
-- [SpaceX shows off Super Heavy boosters &#39;for the next 3&#39; Starship flights &lpar;photos&rpar;](https://www.space.com/space-starship-super-heavy-next-three-flights-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
