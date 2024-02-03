@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: It’s time for VCs to break up with fast fashion](https://techcrunch.com/2024/02/03/deal-dive-vcs-break-up-with-fast-fashion/)
+- [This Week In Space podcast: Episode 96 — It&#39;s Space TV!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-96-its-space-tv)
+- [Ghostly plasma loops linger on the sun after massive solar explosion &lpar;photos&rpar;](https://www.space.com/ghostly-plasma-loops-on-sun-amazing-photos)
 - [This Week in AI: Do shoppers actually want Amazon’s GenAI?](https://techcrunch.com/2024/02/03/this-week-in-ai-do-shoppers-actually-want-amazons-genai/)
 - [Watch Amazon&#39;s new trailer for cosmic comedy &#39;The Second Best Hospital in the Galaxy&#39; &lpar;video&rpar;](https://www.space.com/second-best-hospital-galaxy-new-trailer)
-- [To benefit all, diverse voices must take part in leading the growth and regulation of AI](https://techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/)
-- [Event Horizon Telescope spies jets erupting from nearby supermassive black hole](https://www.space.com/supermassive-black-hole-eruption-gravity-battles-magnetism)
-- [Apple Vision Pro review: the infinite desktop](https://techcrunch.com/2024/02/03/apple-vision-pro-review-the-infinite-desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
