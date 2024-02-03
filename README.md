@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Event Horizon Telescope spies jets erupting from nearby supermassive black hole](https://www.space.com/supermassive-black-hole-eruption-gravity-battles-magnetism)
+- [Apple Vision Pro review: the infinite desktop](https://techcrunch.com/2024/02/03/apple-vision-pro-review-the-infinite-desktop/)
 - [James Webb Space Telescope makes rare detection of 2 exoplanets orbiting dead stars](https://www.space.com/james-webb-space-telescope-exoplanets-dead-stars)
 - [&#39;Predator&#39; and &#39;The Mandalorian&#39; star Carl Weathers passes away at 76](https://www.space.com/carl-weathers-predator-mandalorian-passes-away-at-76)
 - [SpaceX shows off Super Heavy boosters &#39;for the next 3&#39; Starship flights &lpar;photos&rpar;](https://www.space.com/space-starship-super-heavy-next-three-flights-photos)
-- [Stalkerware apps PhoneSpector and Highster appear shut down](https://techcrunch.com/2024/02/02/phonespector-highster-stalkerware-shut-down/)
-- [Tuck and roll! Watch ISS astronauts have fun during orbit-raising thruster fire &lpar;video&rpar;](https://www.space.com/international-space-station-astronauts-amusement-ride)
 <!-- BLOG-POST-LIST:END -->
 
 ---
