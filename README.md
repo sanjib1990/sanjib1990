@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Predator&#39; and &#39;The Mandalorian&#39; star Carl Weathers passes away at 76](https://www.space.com/carl-weathers-predator-mandalorian-passes-away-at-76)
 - [SpaceX shows off Super Heavy boosters &#39;for the next 3&#39; Starship flights &lpar;photos&rpar;](https://www.space.com/space-starship-super-heavy-next-three-flights-photos)
 - [Stalkerware apps PhoneSpector and Highster appear to shut down](https://techcrunch.com/2024/02/02/phonespector-highster-stalkerware-shut-down/)
 - [Tuck and roll! Watch ISS astronauts have fun during orbit-raising thruster fire &lpar;video&rpar;](https://www.space.com/international-space-station-astronauts-amusement-ride)
 - [Secretive moon startup led by ex-Blue Origin leaders raises new tranche of funding](https://techcrunch.com/2024/02/02/secretive-moon-startup-led-by-ex-blue-origin-leaders-raises-new-tranche-of-funding/)
-- [Watch Ax-3 astronauts leave ISS in SpaceX Dragon capsule early Feb. 3](https://www.space.com/spacex-ax-3-mission-international-space-station-departure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
