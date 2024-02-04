@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SLIM lander&#39;s precise &#39;moon sniper&#39; tech will lend itself to future lunar missions](https://www.space.com/slim-lunar-lander-technology-technology-future-missions)
 - [SpaceX to launch NASA&#39;s PACE ocean-monitoring satellite this week](https://www.space.com/spacex-launch-nasa-pace-ocean-satellite-this-week)
 - [Mamoon Hamid and Ilya Fushman of Kleiner Perkins: “More than 80%” of pitches now involve AI](https://techcrunch.com/2024/02/03/mamoon-hamid-and-ilya-fushman-of-kleiner-perkins-more-than-80-of-pitches-now-involve-ai/)
 - [Apple launches the Vision Pro, Taylor Swift fans strike back and Palworld comes under fire](https://techcrunch.com/2024/02/03/apple-launches-the-vision-pro-taylor-swift-fans-strike-back-and-palworld-comes-under-fire/)
 - [Deal Dive: It’s time for VCs to break up with fast fashion](https://techcrunch.com/2024/02/03/deal-dive-vcs-break-up-with-fast-fashion/)
-- [This Week In Space podcast: Episode 96 — It&#39;s Space TV!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-96-its-space-tv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
