@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung chief Jay Y. Lee acquitted in 2015 merger case](https://techcrunch.com/2024/02/05/samsung-chief-jay-y-lee-acquitted-in-2015-merger-case/)
 - [How VCs can assess and attract winners in a landscape that’s now crowded with AI startups](https://techcrunch.com/2024/02/04/how-vcs-can-assess-and-attract-winners-in-a-landscape-thats-now-crowded-with-ai-startups/)
 - [Naboo provides an Aibnb-like experience for company seminars](https://techcrunch.com/2024/02/04/naboo-provides-an-aibnb-like-experience-for-company-seminars/)
 - [India’s Paytm is in flux](https://techcrunch.com/2024/02/04/paytm-is-in-flux/)
 - [Motional loses a backer, another micromobility bankruptcy and a mobility startup unicorn is born](https://techcrunch.com/2024/02/04/motional-loses-a-backer-another-micromobility-bankruptcy-and-a-mobility-startup-unicorn-is-born/)
-- [Perhaps this is why the bitcoin spot ETFs are yet to send crypto prices to the moon](https://techcrunch.com/2024/02/04/bitcoin-etfs-crypto-prices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
