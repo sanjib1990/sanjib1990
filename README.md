@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists find black hole powering a molecular gas fountain in the ancient universe](https://www.space.com/molecular-gas-fountain-ancient-universe-black-hole)
-- [Thoma Bravo takes critical event management software company Everbridge private in $1.5B deal](https://techcrunch.com/2024/02/05/thoma-bravo-takes-critical-event-management-software-company-everbridge-private-in-1-5b-deal/)
-- [Pre-seed investor Wonder Ventures secures $102M, including new later-stage fund](https://techcrunch.com/2024/02/05/pre-seed-investor-wonder-ventures-102m/)
-- [Despite global frenzy, investor enthusiasm in China’s AI startups wanes](https://techcrunch.com/2024/02/05/china-ai-investment-decline/)
-- [Hubble Space Telescope spots a cosmic &#39;tug of war&#39; between galaxies that could lead to a collision &lpar;image&rpar;](https://www.space.com/hubble-telescope-cosmic-tug-of-war-galaxies-collision)
+- [&#39;Halo&#39; Season 2 charges back onto Paramount Plus this week with plenty to prove](https://www.space.com/halo-series-paramount-plus-season-2-preview)
+- [Snapchat’s parent lays off 10% of workforce in order to ‘reduce hierarchy,’ says company](https://techcrunch.com/2024/02/05/snapchats-parent-lays-off-10-of-workforce-in-order-to-reduce-hierarchy-says-company/)
+- [Rivian will reveal its smaller, cheaper R2 SUV on March 7](https://techcrunch.com/2024/02/05/rivian-r2-launch-march-7/)
+- [Jua raises $16M to build a foundational AI model for the natural world, starting with the weather](https://techcrunch.com/2024/02/05/jua-raises-16m-to-build-a-foundational-ai-model-for-the-natural-world-starting-with-the-weather/)
+- [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
