@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HopSkipDrive says personal data of 155,000 drivers stolen in data breach](https://techcrunch.com/2024/02/05/hopskipdrive-says-personal-data-of-155000-drivers-stolen-in-data-breach/)
+- [Earth isn&#39;t the only planet with seasons, but they can look wildly different on other worlds](https://www.space.com/earth-isnt-only-planet-with-seasons-wildly-different-on-other-worlds)
 - [&#39;Halo&#39; Season 2 charges back onto Paramount Plus this week with plenty to prove](https://www.space.com/halo-series-paramount-plus-season-2-preview)
 - [Snapchat’s parent lays off 10% of workforce in order to ‘reduce hierarchy,’ says company](https://techcrunch.com/2024/02/05/snapchats-parent-lays-off-10-of-workforce-in-order-to-reduce-hierarchy-says-company/)
 - [Rivian will reveal its smaller, cheaper R2 SUV on March 7](https://techcrunch.com/2024/02/05/rivian-r2-launch-march-7/)
-- [Jua raises $16M to build a foundational AI model for the natural world, starting with the weather](https://techcrunch.com/2024/02/05/jua-raises-16m-to-build-a-foundational-ai-model-for-the-natural-world-starting-with-the-weather/)
-- [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
