@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud native container management platform Weaveworks shuts its doors](https://techcrunch.com/2024/02/05/cloud-native-container-management-platform-weaveworks-shuts-its-doors/)
+- [SpaceX rolls out Falcon 9 rocket to launch NASA&#39;s ocean-studying PACE satellite on Feb. 6 &lpar;photos&rpar;](https://www.space.com/nasa-pace-spacex-falcon-9-mission-launch)
 - [Solar maximum is coming, but we won&#39;t know it happened until 7 months after it&#39;s over](https://www.space.com/solar-maximum-in-sight-but-scientists-will-have-to-wait-seven-months-after-it-occurs-to-officially-declare-it)
 - [NASA Ingenuity Mars helicopter, broken and alone, spotted by Perseverance rover on Martian dune &lpar;photo, video&rpar;](https://www.space.com/mars-ingenuity-helicopter-perseverance-rover-photo-red-planet-surface)
 - [Jio Financial says not in talks to acquire Paytm’s wallet business](https://techcrunch.com/2024/02/05/jio-financial-services-says-not-in-talks-to-acquire-paytm-wallet-business/)
-- [Yandex takes a big hit to get rid of Russian assets](https://techcrunch.com/2024/02/05/yandex-takes-a-big-hit-to-get-rid-of-russian-assets/)
-- [Dexa aims to get more out of podcasts with AI-powered search](https://techcrunch.com/2024/02/05/dexa-aims-to-get-more-out-of-podcasts-with-ai-powered-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
