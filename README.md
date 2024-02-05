@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HopSkipDrive says personal data of 155,000 drivers stolen in data breach](https://techcrunch.com/2024/02/05/hopskipdrive-says-personal-data-of-155000-drivers-stolen-in-data-breach/)
-- [Earth isn&#39;t the only planet with seasons, but they can look wildly different on other worlds](https://www.space.com/earth-isnt-only-planet-with-seasons-wildly-different-on-other-worlds)
-- [&#39;Halo&#39; Season 2 charges back onto Paramount Plus this week with plenty to prove](https://www.space.com/halo-series-paramount-plus-season-2-preview)
-- [Snapchat’s parent lays off 10% of workforce in order to ‘reduce hierarchy,’ says company](https://techcrunch.com/2024/02/05/snapchats-parent-lays-off-10-of-workforce-in-order-to-reduce-hierarchy-says-company/)
-- [Rivian will reveal its smaller, cheaper R2 SUV on March 7](https://techcrunch.com/2024/02/05/rivian-r2-launch-march-7/)
+- [Dexa aims to get more out of podcasts with AI-powered search](https://techcrunch.com/2024/02/05/dexa-aims-to-get-more-out-of-podcasts-with-ai-powered-search/)
+- [Dexory’s massive shelf-scanning robot comes to North America](https://techcrunch.com/2024/02/05/dexorys-massive-shelf-scanning-robot-comes-to-north-america/)
+- [Tinder’s new warnings inform users when they’re potentially being inappropriate](https://techcrunch.com/2024/02/05/tinders-new-user-warnings-inform-members-when-theyre-potentially-being-inappropriate/)
+- [B2B vs. B2C is not about who’s buying, but how you’re selling](https://techcrunch.com/2024/02/05/b2b-vs-b2c-is-about-how-youre-selling/)
+- [Bumble’s new AI tool identifies and blocks scam accounts, fake profiles](https://techcrunch.com/2024/02/05/bumbles-new-ai-tool-identifies-and-blocks-scam-accounts-and-fake-profiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
