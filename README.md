@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Paytm is in flux](https://techcrunch.com/2024/02/04/paytm-is-in-flux/)
 - [Motional loses a backer, another micromobility bankruptcy and a mobility startup unicorn is born](https://techcrunch.com/2024/02/04/motional-loses-a-backer-another-micromobility-bankruptcy-and-a-mobility-startup-unicorn-is-born/)
 - [Perhaps this is why the bitcoin spot ETFs are yet to send crypto prices to the moon](https://techcrunch.com/2024/02/04/bitcoin-etfs-crypto-prices/)
 - [Major &#39;magnetic anomaly&#39; discovered deep below New Zealand&#39;s Lake Rotorua](https://www.space.com/bizarre-magnetic-anomaly-discovered-deep-below-new-zealands-lake-rotorua)
 - [SLIM lander&#39;s precise &#39;moon sniper&#39; tech will lend itself to future lunar missions](https://www.space.com/slim-lunar-lander-technology-technology-future-missions)
-- [SpaceX to launch NASA&#39;s PACE ocean-monitoring satellite this week](https://www.space.com/spacex-launch-nasa-pace-ocean-satellite-this-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
