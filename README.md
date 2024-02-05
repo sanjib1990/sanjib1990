@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope spots a cosmic &#39;tug of war&#39; between galaxies that could lead to a collision &lpar;image&rpar;](https://www.space.com/hubble-telescope-cosmic-tug-of-war-galaxies-collision)
+- [ProducePay raises $38M to tackle produce supply chain waste](https://techcrunch.com/2024/02/05/producepay-raises-38m-to-tackle-produce-supply-chain-waste/)
 - [Oversight Board calls on Meta to rewrite ‘incoherent’ rules against faked videos](https://techcrunch.com/2024/02/05/meta-facebook-oversight-board-biden-video-cheapfake/)
 - [NASA&#39;s PACE satellite will study Earth&#39;s tiniest mysteries from space: Watch it launch live Feb. 6](https://www.space.com/pace-mission-watch-live-launch-spacex-falcon-9)
 - [Yandex to sell its remaining Russian businesses for $5.2B — half its market value](https://techcrunch.com/2024/02/05/yandex-to-sell-its-remaining-russian-businesses-for-5-2b-half-its-market-value/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Samsung chief Jay Y. Lee acquitted in 2015 merger case](https://techcrunch.com/2024/02/05/samsung-chief-jay-y-lee-acquitted-in-2015-merger-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
