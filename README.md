@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Blue Origin leaders want to mine the moon](https://techcrunch.com/2024/02/05/ex-blue-origin-leaders-want-to-mine-the-moon/)
+- [Where do cosmic rays come from?](https://www.space.com/where-do-cosmic-rays-come-from)
 - [New NASA Collection by Stomp Rocket takes off for kid-powered flight](https://www.space.com/stomp-rocket-nasa-collection-out-now)
 - [879 days! Russian cosmonaut breaks record for total time spent in space](https://www.space.com/cosmonaut-oleg-kononenko-breaks-record-time-in-space)
 - [EV startup Arrival looks to sell off assets, intellectual property of UK division](https://techcrunch.com/2024/02/05/arrival-uk-administration-sale-assets/)
-- [Meta cuts off third-party access to Facebook Groups, leaving developers and customers in disarray](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
-- [Cloud native container management platform Weaveworks shuts its doors](https://techcrunch.com/2024/02/05/cloud-native-container-management-platform-weaveworks-shuts-its-doors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
