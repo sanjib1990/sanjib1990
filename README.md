@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [879 days! Russian cosmonaut breaks record for total time spent in space](https://www.space.com/cosmonaut-oleg-kononenko-breaks-record-time-in-space)
+- [EV startup Arrival looks to sell off assets, intellectual property of UK division](https://techcrunch.com/2024/02/05/arrival-uk-administration-sale-assets/)
+- [Meta cuts off third-party access to Facebook Groups, leaving developers and customers in disarray](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
 - [Cloud native container management platform Weaveworks shuts its doors](https://techcrunch.com/2024/02/05/cloud-native-container-management-platform-weaveworks-shuts-its-doors/)
 - [SpaceX rolls out Falcon 9 rocket to launch NASA&#39;s ocean-studying PACE satellite on Feb. 6 &lpar;photos&rpar;](https://www.space.com/nasa-pace-spacex-falcon-9-mission-launch)
-- [Solar maximum is coming, but we won&#39;t know it happened until 7 months after it&#39;s over](https://www.space.com/solar-maximum-in-sight-but-scientists-will-have-to-wait-seven-months-after-it-occurs-to-officially-declare-it)
-- [NASA Ingenuity Mars helicopter, broken and alone, spotted by Perseverance rover on Martian dune &lpar;photo, video&rpar;](https://www.space.com/mars-ingenuity-helicopter-perseverance-rover-photo-red-planet-surface)
-- [Jio Financial says not in talks to acquire Paytm’s wallet business](https://techcrunch.com/2024/02/05/jio-financial-services-says-not-in-talks-to-acquire-paytm-wallet-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
