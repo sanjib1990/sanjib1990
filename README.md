@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify crosses the 600M monthly active users mark](https://techcrunch.com/2024/02/06/spotify-crosses-the-600m-monthly-active-users-mark/)
 - [James Webb Space Telescope could target tiny bright galaxies to shine light on dark matter](https://www.space.com/james-webb-space-telescope-tiny-bright-galaxies-dark-matter)
 - [Ambience Healthcare raises $70M for its AI assistant led by OpenAI and Kleiner Perkins](https://techcrunch.com/2024/02/06/ambience-healthcare-raises-70m-for-its-ai-assistant-led-by-openai-and-kleiner-perkins/)
 - [Techstars-backed Nigerian edtech Klas raises $1M for global scaling of online teaching platform](https://techcrunch.com/2024/02/06/techstars-backed-nigerian-edtech-klas-raises-1m-for-global-scaling-of-online-teaching-platform/)
 - [CRED to acquire mutual fund startup Kuvera in wealth management push](https://techcrunch.com/2024/02/06/cred-acquires-mutual-fund-startup-kuvera-in-wealth-management-push/)
-- [Open Source ‘headless commerce’ builder Saleor closes $8M round led by Target Global and Zalando](https://techcrunch.com/2024/02/06/open-source-headless-commerce-builder-saleor-pulls-in-8m-round-led-by-target-global-and-zalando/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
