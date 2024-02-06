@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CRED acquires mutual fund startup Kuvera in wealth management push](https://techcrunch.com/2024/02/06/cred-acquires-mutual-fund-startup-kuvera-in-wealth-management-push/)
 - [Open Source ‘headless commerce’ builder Saleor closes $8M round led by Target Global and Zalando](https://techcrunch.com/2024/02/06/open-source-headless-commerce-builder-saleor-pulls-in-8m-round-led-by-target-global-and-zalando/)
 - [Colossyan uses GenAI to create corporate training videos](https://techcrunch.com/2024/02/06/colossyan-uses-genai-to-create-corporate-training-videos/)
 - [China’s generative video race heats up](https://techcrunch.com/2024/02/05/chinas-generative-video-race-heats-up/)
 - [Yamaha Motor fuels River’s ambitious electric SUV two-wheeler rollout in India](https://techcrunch.com/2024/02/05/river-funding-yamaha-motor-investment/)
-- [Early-stage UK VC Episode 1 closes $95M third fund](https://techcrunch.com/2024/02/05/episode-1-fund-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
