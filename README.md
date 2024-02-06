@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source ‘headless commerce’ builder Saleor closes $8M round led by Target Global and Zalando](https://techcrunch.com/2024/02/06/open-source-headless-commerce-builder-saleor-pulls-in-8m-round-led-by-target-global-and-zalando/)
+- [Colossyan uses GenAI to create corporate training videos](https://techcrunch.com/2024/02/06/colossyan-uses-genai-to-create-corporate-training-videos/)
+- [China’s generative video race heats up](https://techcrunch.com/2024/02/05/chinas-generative-video-race-heats-up/)
 - [Yamaha Motor fuels River’s ambitious electric SUV two-wheeler rollout in India](https://techcrunch.com/2024/02/05/river-funding-yamaha-motor-investment/)
 - [Early-stage UK VC Episode 1 closes $95M third fund](https://techcrunch.com/2024/02/05/episode-1-fund-3/)
-- [Lynk forges ahead with public market debut despite SPAC’s dwindling reserves](https://techcrunch.com/2024/02/05/lynk-forges-ahead-with-public-market-debut-despite-spacs-dwindling-reserves/)
-- [Starship Technologies raises $90M as its sidewalk robots pass 6M deliveries](https://techcrunch.com/2024/02/05/starship-technologies-raises-90m-as-its-sidewalk-robots-pass-6m-deliveries/)
-- [UK gov’t touts $100M+ plan to fire up ‘responsible’ AI R&amp;D](https://techcrunch.com/2024/02/05/uk-govt-touts-100m-plan-to-fire-up-responsible-ai-rd/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
