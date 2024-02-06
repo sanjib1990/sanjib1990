@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jam’s out to revitalize and enhance internal bug reporting](https://techcrunch.com/2024/02/06/jams-out-to-revitalize-and-enhance-internal-bug-reporting/)
+- [Zoozve — the strange &#39;moon&#39; of Venus that earned its name by accident](https://www.space.com/venus-quasi-moon-zoozve-radiolab-nasa)
+- [Best budget binoculars 2024: Cheap but high-quality models](https://www.space.com/best-budget-binoculars)
+- [Is building an ecosystem the way forward for construction tech startups in LatAm?](https://techcrunch.com/2024/02/06/construction-tech-foundamental-nuqlea/)
 - [Stellar Sleep app gets initial funding to awaken root cause of chronic insomnia in users](https://techcrunch.com/2024/02/06/stellar-sleep-app-chronic-insomnia/)
-- [Invite-only dating app Blush launches with $7M in seed funding](https://techcrunch.com/2024/02/06/invite-only-dating-app-blush-launches-with-7m-in-funding/)
-- [Mogul wants to help musicians track unclaimed royalties](https://techcrunch.com/2024/02/06/mogul-raises-1-9-million-to-help-musician-track-unclaimed-royalties/)
-- [Bluesky is now open for anyone to join](https://techcrunch.com/2024/02/06/bluesky-is-now-open-for-anyone-to-join/)
-- [Finally, now with $10M, adds AI for better insight into small business accounting](https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
