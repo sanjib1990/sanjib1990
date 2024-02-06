@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yamaha Motor fuels River’s ambitious electric SUV two-wheeler rollout in India](https://techcrunch.com/2024/02/05/river-funding-yamaha-motor-investment/)
+- [Early-stage UK VC Episode 1 closes $95M third fund](https://techcrunch.com/2024/02/05/episode-1-fund-3/)
 - [Lynk forges ahead with public market debut despite SPAC’s dwindling reserves](https://techcrunch.com/2024/02/05/lynk-forges-ahead-with-public-market-debut-despite-spacs-dwindling-reserves/)
 - [Starship Technologies raises $90M as its sidewalk robots pass 6M deliveries](https://techcrunch.com/2024/02/05/starship-technologies-raises-90m-as-its-sidewalk-robots-pass-6m-deliveries/)
 - [UK gov’t touts $100M+ plan to fire up ‘responsible’ AI R&amp;D](https://techcrunch.com/2024/02/05/uk-govt-touts-100m-plan-to-fire-up-responsible-ai-rd/)
-- [Happy Valentine’s Day, space fans: Intuitive Machines, SpaceX target moon mission lift off on Feb 14](https://techcrunch.com/2024/02/05/happy-valentines-day-space-fans-intuitive-machines-spacex-target-moon-mission-lift-off-on-feb-14/)
-- [Ex-Blue Origin leaders want to mine the moon](https://techcrunch.com/2024/02/05/ex-blue-origin-leaders-want-to-mine-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
