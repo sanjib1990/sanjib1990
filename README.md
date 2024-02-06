@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India&#39;s Chandrayaan-2 moon orbiter catalogs tons of mysterious solar flares](https://www.space.com/india-chandrayaan-2-moon-orbiter-mysterious-slow-building-solar-flares)
-- [As Bluesky opens to the public, CEO Jay Graber faces her biggest challenge yet](https://techcrunch.com/2024/02/06/as-bluesky-opens-to-the-public-ceo-jay-graber-faces-her-biggest-challenge-yet/)
-- [Asteroid 2024 BX1 fragments confirmed to be rare meteorites as old as the solar system itself](https://www.space.com/asteroid-2024-bx1-confirmed-rare-aubrite-meteorite)
-- [EU proposes criminalizing AI-generated child sexual abuse and deepfakes](https://techcrunch.com/2024/02/06/eu-csa-deepfakes/)
-- [NASA&#39;s Juno probe snaps outstanding photos of Jupiter&#39;s volcanic moon Io during close flyby](https://www.space.com/juno-io-new-images-volcanic-moon-jupiter)
+- [SpaceX targeting Feb. 14 for launch of IM-1 private moon mission](https://www.space.com/intuitive-machines-spacex-im-1-moon-launch-february-14)
+- [Decentralized social network Farcaster is trying to reach mass adoption through Web 2.0 techniques](https://techcrunch.com/2024/02/06/farcaster-decentralized-social-network-mass-adoption/)
+- [Actually, it’s good for Spotify that Joe Rogan’s podcast is no longer exclusive](https://techcrunch.com/2024/02/06/actually-its-good-for-spotify-that-joe-rogans-podcast-is-no-longer-exclusive/)
+- [Angry Miao only goes slightly over the top with the Relic 80 TKL keyboard](https://techcrunch.com/2024/02/06/angry-miao-only-goes-slightly-over-the-top-with-the-relic-80-tkl-keyboard/)
+- [NASA&#39;s asteroid-hopping Lucy probe heads back toward Earth after acing crucial engine burn](https://www.space.com/lucy-asteroid-probe-engine-burn-return-to-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
