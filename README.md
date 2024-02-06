@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jam’s out to revitalize and enhance internal bug reporting](https://techcrunch.com/2024/02/06/jams-out-to-revitalize-and-enhance-internal-bug-reporting/)
-- [Zoozve — the strange &#39;moon&#39; of Venus that earned its name by accident](https://www.space.com/venus-quasi-moon-zoozve-radiolab-nasa)
-- [Best budget binoculars 2024: Cheap but high-quality models](https://www.space.com/best-budget-binoculars)
-- [Is building an ecosystem the way forward for construction tech startups in LatAm?](https://techcrunch.com/2024/02/06/construction-tech-foundamental-nuqlea/)
-- [Stellar Sleep app gets initial funding to awaken root cause of chronic insomnia in users](https://techcrunch.com/2024/02/06/stellar-sleep-app-chronic-insomnia/)
+- [Watch the sun spit out colossal plasma plume during powerful solar flare eruption &lpar;video&rpar;](https://www.space.com/solar-flare-eruption-feb-5-plasma-plume-video)
+- [LinkedIn’s new feature nudges users to reach out to people in their network](https://techcrunch.com/2024/02/06/linkedins-new-feature-nudges-users-to-reach-out-to-people-in-their-network/)
+- [SUMA Wealth grabs $2.2M as its financial platforms reach 1M users](https://techcrunch.com/2024/02/06/suma-wealth-2-2m-financial-app-latinos/)
+- [5 steps board members and startup leaders can take to prepare for a future shaped by GenAI](https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/)
+- [Meta announces new updates to help teens on its platforms combat sextortion](https://techcrunch.com/2024/02/06/meta-announces-new-updates-to-help-teens-on-its-platforms-combat-sextortion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
