@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic mothership loses alignment pin during space plane launch, FAA investigating](https://www.space.com/virgin-galactic-glitch-sixth-commercial-suborbital-spaceflight)
+- [Toyota adds $1.3B to US factory to produce three-row all-electric SUV](https://techcrunch.com/2024/02/06/toyota-adds-1-3b-to-us-factory-to-produce-three-row-all-electric-suv/)
+- [Spotify CEO Daniel Ek tells investors Apple’s DMA rules are a ‘farce,’ but says there are ‘future upsides’ too](https://techcrunch.com/2024/02/06/spotify-ceo-daniel-ek-tells-investors-apples-dma-rules-are-a-farce-but-says-there-are-future-upsides-too/)
+- [Why Latin American SaaS startups are different from their U.S. peers](https://techcrunch.com/2024/02/06/saas-latam-comparison/)
 - [AI-generated Biden calls came through shady telecom and Texan front ‘Life Corporation’](https://techcrunch.com/2024/02/06/ai-generated-biden-calls-came-through-shady-telecom-and-texan-front-life-corporation/)
-- [Medium news, startups: If you start generating cash, you can sell for 4x ARR](https://techcrunch.com/2024/02/06/cash-isnt-that-valuable/)
-- [NASA exoplanet telescope discovers &#39;super-Earth&#39; in its star&#39;s Goldilocks zone](https://www.space.com/exoplanet-super-earth-habitable-zone-tess)
-- [Spotify now the No. 2 audiobook provider, behind Audible, hints at Daylist inspired-suggestions to come](https://techcrunch.com/2024/02/06/spotify-now-the-no-2-audiobook-provider-behind-audible-hints-at-daylist-inspired-suggestions-to-come/)
-- [Watch the sun spit out colossal plasma plume during powerful solar flare eruption &lpar;video&rpar;](https://www.space.com/solar-flare-eruption-feb-5-plasma-plume-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
