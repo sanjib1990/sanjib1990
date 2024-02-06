@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX targeting Feb. 14 for launch of IM-1 private moon mission](https://www.space.com/intuitive-machines-spacex-im-1-moon-launch-february-14)
-- [Decentralized social network Farcaster is trying to reach mass adoption through Web 2.0 techniques](https://techcrunch.com/2024/02/06/farcaster-decentralized-social-network-mass-adoption/)
-- [Actually, it’s good for Spotify that Joe Rogan’s podcast is no longer exclusive](https://techcrunch.com/2024/02/06/actually-its-good-for-spotify-that-joe-rogans-podcast-is-no-longer-exclusive/)
-- [Angry Miao only goes slightly over the top with the Relic 80 TKL keyboard](https://techcrunch.com/2024/02/06/angry-miao-only-goes-slightly-over-the-top-with-the-relic-80-tkl-keyboard/)
-- [NASA&#39;s asteroid-hopping Lucy probe heads back toward Earth after acing crucial engine burn](https://www.space.com/lucy-asteroid-probe-engine-burn-return-to-earth)
+- [Following this week’s layoffs, Snap’s stock tanks 30% on Q4 earnings](https://techcrunch.com/2024/02/06/following-this-weeks-layoffs-snaps-stock-tanks-30-on-q4-earnings/)
+- [How scientists are using artificial intelligence to predict wildfires](https://www.space.com/how-scientists-are-using-artificial-intelligence-to-predict-wildfires)
+- [Adam Neumann is trying to buy back WeWork](https://techcrunch.com/2024/02/06/adam-neumann-is-trying-to-buy-back-wework/)
+- [These VCs think the Vision Pro has a shot in the enterprise](https://techcrunch.com/2024/02/06/these-vcs-think-the-vision-pro-has-a-shot-in-the-enterprise/)
+- [Virgin Galactic investigating anomaly discovered after last crewed suborbital mission](https://techcrunch.com/2024/02/06/virgin-galactic-investigating-anomaly-discovered-after-last-crewed-suborbital-mission/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
