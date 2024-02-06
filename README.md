@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-generated Biden calls came through shady telecom and Texan front ‘Life Corporation’](https://techcrunch.com/2024/02/06/ai-generated-biden-calls-came-through-shady-telecom-and-texan-front-life-corporation/)
+- [Medium news, startups: If you start generating cash, you can sell for 4x ARR](https://techcrunch.com/2024/02/06/cash-isnt-that-valuable/)
+- [NASA exoplanet telescope discovers &#39;super-Earth&#39; in its star&#39;s Goldilocks zone](https://www.space.com/exoplanet-super-earth-habitable-zone-tess)
+- [Spotify now the No. 2 audiobook provider, behind Audible, hints at Daylist inspired-suggestions to come](https://techcrunch.com/2024/02/06/spotify-now-the-no-2-audiobook-provider-behind-audible-hints-at-daylist-inspired-suggestions-to-come/)
 - [Watch the sun spit out colossal plasma plume during powerful solar flare eruption &lpar;video&rpar;](https://www.space.com/solar-flare-eruption-feb-5-plasma-plume-video)
-- [LinkedIn’s new feature nudges users to reach out to people in their network](https://techcrunch.com/2024/02/06/linkedins-new-feature-nudges-users-to-reach-out-to-people-in-their-network/)
-- [SUMA Wealth grabs $2.2M as its financial platforms reach 1M users](https://techcrunch.com/2024/02/06/suma-wealth-2-2m-financial-app-latinos/)
-- [5 steps board members and startup leaders can take to prepare for a future shaped by GenAI](https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/)
-- [Meta announces new updates to help teens on its platforms combat sextortion](https://techcrunch.com/2024/02/06/meta-announces-new-updates-to-help-teens-on-its-platforms-combat-sextortion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
