@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Attack surface management platform Ionix adds another $15M to its $27M Series A round](https://techcrunch.com/2024/02/06/attack-surface-management-platform-ionix-adds-another-15m-to-its-27m-series-a-round/)
-- [Meta to expand labelling of AI generated imagery in election-packed year](https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/)
-- [Synthetaic claims synthetic data is as good as the real thing when it comes to AI](https://techcrunch.com/2024/02/06/synthetaic-claims-synthetic-data-is-as-good-as-the-real-thing-when-it-comes-to-ai/)
-- [1st look at asteroid Bennu samples suggests space rock may even be &#39;a fragment of an ancient ocean world&#39;](https://www.space.com/asteroid-bennu-osiris-rex-samples-1st-look-surprises)
-- [How will the 2024 total solar eclipse differ from the 2017 total solar eclipse?](https://www.space.com/how-total-solar-eclipse-2024-will-differ-from-2017-solar-eclips)
+- [Stellar Sleep app gets initial funding to awaken root cause of chronic insomnia in users](https://techcrunch.com/2024/02/06/stellar-sleep-app-chronic-insomnia/)
+- [Invite-only dating app Blush launches with $7M in seed funding](https://techcrunch.com/2024/02/06/invite-only-dating-app-blush-launches-with-7m-in-funding/)
+- [Mogul wants to help musicians track unclaimed royalties](https://techcrunch.com/2024/02/06/mogul-raises-1-9-million-to-help-musician-track-unclaimed-royalties/)
+- [Bluesky is now open for anyone to join](https://techcrunch.com/2024/02/06/bluesky-is-now-open-for-anyone-to-join/)
+- [Finally, now with $10M, adds AI for better insight into small business accounting](https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
