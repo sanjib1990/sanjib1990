@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s Chandrayaan-2 moon orbiter catalogs tons of mysterious solar flares](https://www.space.com/india-chandrayaan-2-moon-orbiter-mysterious-slow-building-solar-flares)
+- [As Bluesky opens to the public, CEO Jay Graber faces her biggest challenge yet](https://techcrunch.com/2024/02/06/as-bluesky-opens-to-the-public-ceo-jay-graber-faces-her-biggest-challenge-yet/)
 - [Asteroid 2024 BX1 fragments confirmed to be rare meteorites as old as the solar system itself](https://www.space.com/asteroid-2024-bx1-confirmed-rare-aubrite-meteorite)
 - [EU proposes criminalizing AI-generated child sexual abuse and deepfakes](https://techcrunch.com/2024/02/06/eu-csa-deepfakes/)
 - [NASA&#39;s Juno probe snaps outstanding photos of Jupiter&#39;s volcanic moon Io during close flyby](https://www.space.com/juno-io-new-images-volcanic-moon-jupiter)
-- [Apple brings enterprise device management to the Vision Pro](https://techcrunch.com/2024/02/06/apple-brings-enterprise-device-management-to-the-vision-pro/)
-- [Virgin Galactic mothership loses alignment pin during space plane launch, FAA investigating](https://www.space.com/virgin-galactic-glitch-sixth-commercial-suborbital-spaceflight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
