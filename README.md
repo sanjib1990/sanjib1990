@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut Hall of Fame to add shuttle vets David Hilmers and Marsha Ivins in June](https://www.space.com/astronaut-hall-fame-2024-hilmers-ivins)
-- [Goodshuffle dances into 2024 with $5M for event rental management software](https://techcrunch.com/2024/02/07/goodshuffle-5m-event-rental-management-software/)
-- [Humans on Mars could conduct far better science than any machine](https://www.space.com/humans-on-mars-better-science-machine)
-- [WhatsApp is preparing to roll out third-party chat support](https://techcrunch.com/2024/02/07/whatsapp-is-preparing-to-roll-out-third-party-chat-support/)
-- [What&#39;s the forecast for Neptune-like exoplanets: Cloudy or clear?](https://www.space.com/milky-way-mini-neptune-forecast-cloudy-clear)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [3D scanning app Polycam gets backing from YouTube co-founder](https://techcrunch.com/2024/02/07/3d-scanning-app-polycam-gets-backing-from-youtube-co-founder/)
+- [Big, dead European satellite will crash back to Earth this month](https://www.space.com/european-space-agency-ers-2-satellite-reentry-preview)
+- [Endpoint security startup NinjaOne lands $231.5M at $1.9B valuation](https://techcrunch.com/2024/02/07/endpoint-security-startup-ninjaone-lands-231-5m-at-1-9b-valuation/)
+- [Beamer buys Userflow to build a consolidated user experience platform](https://techcrunch.com/2024/02/07/beamer-buys-userflow-to-build-a-consolidated-user-experience-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
