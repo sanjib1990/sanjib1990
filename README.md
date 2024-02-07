@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplify looks to AI to help with job searches and applications](https://techcrunch.com/2024/02/07/simplify-looks-to-ai-to-help-with-job-searches-and-applications/)
+- [Streamer Plex launches its long-promised movie rentals store](https://techcrunch.com/2024/02/07/streamer-plex-launches-its-long-promised-movie-rentals-store/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [3D scanning app Polycam gets backing from YouTube co-founder](https://techcrunch.com/2024/02/07/3d-scanning-app-polycam-gets-backing-from-youtube-co-founder/)
 - [Big, dead European satellite will crash back to Earth this month](https://www.space.com/european-space-agency-ers-2-satellite-reentry-preview)
-- [Endpoint security startup NinjaOne lands $231.5M at $1.9B valuation](https://techcrunch.com/2024/02/07/endpoint-security-startup-ninjaone-lands-231-5m-at-1-9b-valuation/)
-- [Beamer buys Userflow to build a consolidated user experience platform](https://techcrunch.com/2024/02/07/beamer-buys-userflow-to-build-a-consolidated-user-experience-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
