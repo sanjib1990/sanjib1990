@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp is preparing to roll out third-party chat support](https://techcrunch.com/2024/02/07/whatsapp-is-preparing-to-roll-out-third-party-chat-support/)
 - [What&#39;s the forecast for Neptune-like exoplanets: Cloudy or clear?](https://www.space.com/milky-way-mini-neptune-forecast-cloudy-clear)
 - [Best smart telescopes in 2024: Observe and image the cosmos](https://www.space.com/best-smart-telescopes)
 - [Meesho taps micro-entrepreneurs to plug gaps in India’s supply chain network](https://techcrunch.com/2024/02/07/meesho-taps-micro-entrepreneurs-to-plug-gaps-in-indias-supply-chain-network/)
 - [Snap is looking to unify user experience across Spotlight and Stories](https://techcrunch.com/2024/02/07/snap-is-looking-to-unify-user-experience-across-spotlight-and-stories/)
-- [UK AI startup Greyparrot bags strategic tie-up with recycling giant Bollegraaf](https://techcrunch.com/2024/02/07/greyparrot-bollegraaf/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
