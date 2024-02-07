@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How crowdfunding actually works in 2024, and whether you should use it to raise money](https://techcrunch.com/2024/02/06/how-crowdfunding-works/)
+- [SpaceX launching 22 Starlink satellites to orbit from California early Feb. 7](https://www.space.com/spacex-starlink-launch-group-7-13)
 - [Ex-Tesla exec leading Ford skunkworks project to develop low-cost EV](https://techcrunch.com/2024/02/06/ex-tesla-exec-leading-ford-skunkworks-project-to-develop-low-cost-ev/)
 - [NASA&#39;s Jet Propulsion Lab laying off 8% of its workforce](https://www.space.com/nasa-jpl-layoffs-february-2024-mars-sample-return)
 - [Immersive gaming and fitness apps are the key to Vision Pro’s consumer appeal](https://techcrunch.com/2024/02/06/immersive-gaming-and-fitness-apps-are-the-key-to-vision-pros-consumer-appeal/)
-- [Lunar astronauts could potentially make hummus with moon-grown chickpeas](https://www.space.com/the-universe/moon/lunar-astronauts-could-potentially-make-hummus-with-moon-grown-chickpeas)
-- [Cake sought deals with Harley-Davidson, automakers before bankruptcy](https://techcrunch.com/2024/02/06/cake-ceo-interview-bankruptcy-harley-davidson/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
