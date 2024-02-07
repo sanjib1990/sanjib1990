@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Despite outages, Bluesky gets nearly 800K new users in its first day open to the public](https://techcrunch.com/2024/02/07/despite-outages-bluesky-gets-nearly-800k-new-users-in-its-first-day-open-to-the-public/)
+- [Here&#39;s what it&#39;s like taking a VR spacewalk with the Canadian Space Agency](https://www.space.com/vr-simulation-moon-astronauts-gateway-canadarm3)
+- [Microsoft brings new design-focused features to Copilot](https://techcrunch.com/2024/02/07/microsoft-brings-new-design-focused-features-to-copilot/)
+- [X, formerly Twitter, becomes No. 1 app on U.S. App Store on news of Tucker Carlson-Putin interview](https://techcrunch.com/2024/02/07/x-formerly-twitter-becomes-no-1-app-on-u-s-app-store-on-news-of-tucker-carlson-putin-interview/)
+- [Bluesky gets nearly 800K new users in its first day open to the public, despite outages](https://techcrunch.com/2024/02/07/despite-outages-bluesky-gets-nearly-800k-new-users-in-its-first-day-open-to-the-public/)
 - [Varsity is a new early stage VC fund based in Paris](https://techcrunch.com/2024/02/07/varsity-is-a-new-early-stage-vc-fund-based-in-paris/)
-- [Dark matter could be gently wobbling space-time around us — and scientists may finally know how to detect it](https://www.space.com/dark-matter-gently-wobbling-space-time-scientists-may-finally-detect-it)
-- [Todoist adds team workspaces to its task manager](https://techcrunch.com/2024/02/07/todoist-adds-team-workspaces-to-its-task-manager/)
-- [Fintech, edtech and SaaS are not dead yet](https://techcrunch.com/2024/02/07/fintech-edtech-and-saas-are-not-dead-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
