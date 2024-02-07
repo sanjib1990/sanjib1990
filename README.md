@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Using Mock Exams as an Opportunity to Model Thought Processes](https://www.youtube.com/watch?v=jvpGLVK0tR0)
 - [Discussing Digital Twins - Computerphile](https://www.youtube.com/watch?v=2ryz9IPIQes)
 - [Python Hash Sets Explained &amp; Demonstrated - Computerphile](https://www.youtube.com/watch?v=9oKpRTBfNXo)
 - [Top 10 Study Habits 2024](https://www.youtube.com/watch?v=LCPZygnoyLo)
 - [Why aren’t you using TMUX??](https://www.youtube.com/watch?v=BKuRaWqpkJw)
-- [real HTML programmers debug in 3D](https://www.youtube.com/watch?v=gGWQfV1FCis)
 <!-- YOUTUBE:END -->
 
 ---
