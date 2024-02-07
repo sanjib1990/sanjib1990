@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Tesla exec leading Ford skunkworks project to develop low-cost EV](https://techcrunch.com/2024/02/06/ex-tesla-exec-leading-ford-skunkworks-project-to-develop-low-cost-ev/)
 - [NASA&#39;s Jet Propulsion Lab laying off 8% of its workforce](https://www.space.com/nasa-jpl-layoffs-february-2024-mars-sample-return)
 - [Immersive gaming and fitness apps are the key to Vision Pro’s consumer appeal](https://techcrunch.com/2024/02/06/immersive-gaming-and-fitness-apps-are-the-key-to-vision-pros-consumer-appeal/)
 - [Lunar astronauts could potentially make hummus with moon-grown chickpeas](https://www.space.com/the-universe/moon/lunar-astronauts-could-potentially-make-hummus-with-moon-grown-chickpeas)
 - [Cake sought deals with Harley-Davidson, automakers before bankruptcy](https://techcrunch.com/2024/02/06/cake-ceo-interview-bankruptcy-harley-davidson/)
-- [Confirmed: Entrust is buying AI-based ID verification startup Onfido, sources say for more than $400M](https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
