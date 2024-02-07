@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask Sophie: What are the latest H-1B lottery updates?](https://techcrunch.com/2024/02/07/ask-sophie-what-are-the-latest-h-1b-lottery-updates/)
+- [New film &#39;Spacewoman&#39; to celebrate NASA&#39;s Eileen Collins, 1st woman space commander and pilot](https://www.space.com/nasa-astronaut-eileen-collins-spacewoman-documentary)
 - [Here&#39;s what it&#39;s like taking a VR spacewalk with the Canadian Space Agency](https://www.space.com/vr-simulation-moon-astronauts-gateway-canadarm3)
 - [Microsoft brings new design-focused features to Copilot](https://techcrunch.com/2024/02/07/microsoft-brings-new-design-focused-features-to-copilot/)
 - [X, formerly Twitter, becomes No. 1 app on U.S. App Store on news of Tucker Carlson-Putin interview](https://techcrunch.com/2024/02/07/x-formerly-twitter-becomes-no-1-app-on-u-s-app-store-on-news-of-tucker-carlson-putin-interview/)
-- [Bluesky gets nearly 800K new users in its first day open to the public, despite outages](https://techcrunch.com/2024/02/07/despite-outages-bluesky-gets-nearly-800k-new-users-in-its-first-day-open-to-the-public/)
-- [Varsity is a new early stage VC fund based in Paris](https://techcrunch.com/2024/02/07/varsity-is-a-new-early-stage-vc-fund-based-in-paris/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
