@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meesho taps micro-entrepreneurs to plug gaps in India’s supply chain network](https://techcrunch.com/2024/02/07/meesho-taps-micro-entrepreneurs-to-plug-gaps-in-indias-supply-chain-network/)
+- [Snap is looking to unify user experience across Spotlight and Stories](https://techcrunch.com/2024/02/07/snap-is-looking-to-unify-user-experience-across-spotlight-and-stories/)
 - [UK AI startup Greyparrot bags strategic tie-up with recycling giant Bollegraaf](https://techcrunch.com/2024/02/07/greyparrot-bollegraaf/)
 - [Microsoft CEO Nadella on AI LLM race: ‘We are waiting for competition to arrive’](https://techcrunch.com/2024/02/06/microsoft-ceo-nadella-on-ai-llm-race-we-are-waiting-for-competition-to-arrive/)
 - [Guided Energy helps EV fleet managers optimize battery charging](https://techcrunch.com/2024/02/06/guided-energy-helps-ev-fleet-managers-optimize-battery-charging/)
-- [How crowdfunding actually works in 2024, and whether you should use it to raise money](https://techcrunch.com/2024/02/06/how-crowdfunding-works/)
-- [SpaceX launching 22 Starlink satellites to orbit from California tonight &lpar;Feb. 7&rpar;](https://www.space.com/spacex-starlink-launch-group-7-13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
