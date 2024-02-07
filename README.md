@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK AI startup Greyparrot bags strategic tie-up with recycling giant Bollegraaf](https://techcrunch.com/2024/02/07/greyparrot-bollegraaf/)
+- [Microsoft CEO Nadella on AI LLM race: ‘We are waiting for competition to arrive’](https://techcrunch.com/2024/02/06/microsoft-ceo-nadella-on-ai-llm-race-we-are-waiting-for-competition-to-arrive/)
 - [Guided Energy helps EV fleet managers optimize battery charging](https://techcrunch.com/2024/02/06/guided-energy-helps-ev-fleet-managers-optimize-battery-charging/)
 - [How crowdfunding actually works in 2024, and whether you should use it to raise money](https://techcrunch.com/2024/02/06/how-crowdfunding-works/)
 - [SpaceX launching 22 Starlink satellites to orbit from California tonight &lpar;Feb. 7&rpar;](https://www.space.com/spacex-starlink-launch-group-7-13)
-- [Ex-Tesla exec leading Ford skunkworks project to develop low-cost EV](https://techcrunch.com/2024/02/06/ex-tesla-exec-leading-ford-skunkworks-project-to-develop-low-cost-ev/)
-- [NASA&#39;s Jet Propulsion Lab laying off 8% of its workforce](https://www.space.com/nasa-jpl-layoffs-february-2024-mars-sample-return)
 <!-- BLOG-POST-LIST:END -->
 
 ---
