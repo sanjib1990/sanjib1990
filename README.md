@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney takes a $1.5 billion stake in Epic Games to build a Fortnite ‘entertainment universe’](https://techcrunch.com/2024/02/07/epic-fortnite-disney-entertainment-universe/)
 - [How Twitter’s descent into chaos is paving the way for a new web](https://techcrunch.com/2024/02/07/how-twitters-descent-into-chaos-is-paving-the-way-for-a-new-web/)
 - [1st look: Mace Windu protects a galactic secret in Marvel Comics&#39; new solo &#39;Star Wars&#39; series](https://www.space.com/star-wars-mace-windu-marvel-comics)
 - [Ex-Blue Origin leaders’ secretive lunar startup Interlune has moonshot mining plans](https://techcrunch.com/2024/02/07/ex-blue-origin-leaders-secretive-lunar-startup-interlune-has-moonshot-mining-plans/)
 - [Upcoming solar maximum may help solve the sun&#39;s gamma-ray puzzle](https://www.space.com/solar-maximum-sun-gamma-ray-puzzle)
-- [China-backed Volt Typhoon hackers have lurked inside US critical infrastructure for ‘at least five years’](https://techcrunch.com/2024/02/07/china-backed-volt-typhoon-hackers-have-lurked-inside-us-critical-infrastructure-for-at-least-five-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
