@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Todoist adds team workspaces to its task manager](https://techcrunch.com/2024/02/07/todoist-adds-team-workspaces-to-its-task-manager/)
+- [Fintech, edtech and SaaS are not dead yet](https://techcrunch.com/2024/02/07/fintech-edtech-and-saas-are-not-dead-yet/)
+- [Saturn&#39;s &#39;Death Star&#39; moon Mimas may have an ocean scientists never believed could exist](https://www.space.com/saturn-death-star-moon-mimas-liquid-subsurface-ocean)
+- [Amperesand raises $12.5M seed round to remake the humble 140-year-old transformer](https://techcrunch.com/2024/02/07/amperesand-transformer-seed-round/)
 - [Simplify looks to AI to help with job searches and applications](https://techcrunch.com/2024/02/07/simplify-looks-to-ai-to-help-with-job-searches-and-applications/)
-- [Streamer Plex launches its long-promised movie rentals store](https://techcrunch.com/2024/02/07/streamer-plex-launches-its-long-promised-movie-rentals-store/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [3D scanning app Polycam gets backing from YouTube co-founder](https://techcrunch.com/2024/02/07/3d-scanning-app-polycam-gets-backing-from-youtube-co-founder/)
-- [Big, dead European satellite will crash back to Earth this month](https://www.space.com/european-space-agency-ers-2-satellite-reentry-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
