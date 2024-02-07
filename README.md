@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Surprise! Baby exoplanets might look like Smarties candies rather than spheres](https://www.space.com/infant-exoplanets-shape-smarties-candies)
+- [SEC’s Hester Peirce still plans to push for a token ‘safe harbor’ plan](https://techcrunch.com/2024/02/07/sec-hester-peirce-crypto-token/)
+- [Apple eyes a foldable iPhone following Vision Pro launch](https://techcrunch.com/2024/02/07/apple-eyes-a-foldable-iphone-following-vision-pro-launch/)
+- [Threads tests the ability to save posts as it continues to compete with X](https://techcrunch.com/2024/02/07/instagram-threads-tests-the-ability-to-save-posts/)
 - [Ask Sophie: What are the latest H-1B lottery updates?](https://techcrunch.com/2024/02/07/ask-sophie-what-are-the-latest-h-1b-lottery-updates/)
-- [New film &#39;Spacewoman&#39; to celebrate NASA&#39;s Eileen Collins, 1st woman space commander and pilot](https://www.space.com/nasa-astronaut-eileen-collins-spacewoman-documentary)
-- [Here&#39;s what it&#39;s like taking a VR spacewalk with the Canadian Space Agency](https://www.space.com/vr-simulation-moon-astronauts-gateway-canadarm3)
-- [Microsoft brings new design-focused features to Copilot](https://techcrunch.com/2024/02/07/microsoft-brings-new-design-focused-features-to-copilot/)
-- [X, formerly Twitter, becomes No. 1 app on U.S. App Store on news of Tucker Carlson-Putin interview](https://techcrunch.com/2024/02/07/x-formerly-twitter-becomes-no-1-app-on-u-s-app-store-on-news-of-tucker-carlson-putin-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
