@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut Hall of Fame to add shuttle vets David Hilmers and Marsha Ivins in June](https://www.space.com/astronaut-hall-fame-2024-hilmers-ivins)
+- [Goodshuffle dances into 2024 with $5M for event rental management software](https://techcrunch.com/2024/02/07/goodshuffle-5m-event-rental-management-software/)
+- [Humans on Mars could conduct far better science than any machine](https://www.space.com/humans-on-mars-better-science-machine)
 - [WhatsApp is preparing to roll out third-party chat support](https://techcrunch.com/2024/02/07/whatsapp-is-preparing-to-roll-out-third-party-chat-support/)
 - [What&#39;s the forecast for Neptune-like exoplanets: Cloudy or clear?](https://www.space.com/milky-way-mini-neptune-forecast-cloudy-clear)
-- [Best smart telescopes in 2024: Observe and image the cosmos](https://www.space.com/best-smart-telescopes)
-- [Meesho taps micro-entrepreneurs to plug gaps in India’s supply chain network](https://techcrunch.com/2024/02/07/meesho-taps-micro-entrepreneurs-to-plug-gaps-in-indias-supply-chain-network/)
-- [Snap is looking to unify user experience across Spotlight and Stories](https://techcrunch.com/2024/02/07/snap-is-looking-to-unify-user-experience-across-spotlight-and-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
