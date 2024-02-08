@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s Chang&#39;e-5 moon samples contain &#39;perplexing combination&#39; of minerals](https://www.space.com/china-change-5-moon-samples-perplexing-minerals)
-- [Google goes all in on its Gemini model, launches $20 paid tier for Gemini Ultra](https://techcrunch.com/2024/02/08/google-goes-all-in-on-gemini-and-launches-20-paid-tier-for-gemini-ultra/)
-- [Google Assistant is now powered by Gemini — sort of](https://techcrunch.com/2024/02/08/google-assistant-is-now-powered-by-gemini-sort-of/)
-- [Tiny, unseen moon could be holding bizarre space rock Chariklo&#39;s rings in place](https://www.space.com/chariklo-centaur-rings-shaped-by-tiny-moon)
-- [Thea Energy raises $20M Series A for pixel-inspired fusion power plants](https://techcrunch.com/2024/02/08/thea-energy-series-a/)
+- [AR glasses with multimodal AI nets funding from Pokémon Go creator](https://techcrunch.com/2024/02/08/ar-glasses-with-multimodal-ai-attracts-funding-from-pokemon-go-founder/)
+- [Departing Ax-3 crew leaves behind peanut butter as parting gift for ISS astronauts](https://www.space.com/spacex-ax-3-astronauts-peanut-butter-iss)
+- [Crux is building GenAI-powered business intelligence tools](https://techcrunch.com/2024/02/08/crux-is-building-genai-powered-business-intelligence-tools/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Closinglock, now with $12M, wants to prevent the 1 in 10 real estate transactions targeted for fraud](https://techcrunch.com/2024/02/08/closinglock-12m-real-estate-transaction-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
