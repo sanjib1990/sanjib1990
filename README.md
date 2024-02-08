@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Car-sharing company Getaround cuts one-third of US workforce](https://techcrunch.com/2024/02/08/car-sharing-company-getaround-cuts-one-third-of-u-s-workforce/)
+- [Did monster black holes or galaxies come first? The James Webb Space Telescope may have a surprise answer](https://www.space.com/james-webb-space-telescope-black-holes-galaxies-first)
 - [Farcaster hype grows, Bluesky opens to the public and SEC’s Hester Peirce is open to new token proposals](https://techcrunch.com/2024/02/08/farcaster-hype-grows-bluesky-opens-to-the-public-and-secs-hester-peirce-is-open-to-new-token-proposals/)
 - [Researchers say attackers are mass-exploiting new Ivanti VPN flaw](https://techcrunch.com/2024/02/08/researchers-say-attackers-are-mass-exploiting-new-ivanti-vpn-flaw/)
 - [&#39;It takes courage to make the right decision:&#39; Artemis 2 astronaut explains why moon mission was delayed to 2025 &lpar;exclusive&rpar;](https://www.space.com/artemis-2-moon-astronaut-delay-support)
-- [FCC officially declares AI-voiced robocalls illegal](https://techcrunch.com/2024/02/08/fcc-officially-declares-ai-voiced-robocalls-illegal/)
-- [NASA&#39;s Juno probe sees active volcanic eruptions on Jupiter&#39;s volcanic moon Io &lpar;images&rpar;](https://www.space.com/io-jupiter-moon-nasa-juno-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
