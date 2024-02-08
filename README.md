@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney takes a $1.5 billion stake in Epic Games to build a Fortnite ‘entertainment universe’](https://techcrunch.com/2024/02/07/epic-fortnite-disney-entertainment-universe/)
+- [OpenAI forms a new team to study child safety](https://techcrunch.com/2024/02/07/openai-forms-a-new-team-to-study-child-safety/)
+- [Disney takes a $1.5 billion stake in Epic Games to build an ‘entertainment universe’ with Fortnite](https://techcrunch.com/2024/02/07/epic-fortnite-disney-entertainment-universe/)
 - [How Twitter’s descent into chaos is paving the way for a new web](https://techcrunch.com/2024/02/07/how-twitters-descent-into-chaos-is-paving-the-way-for-a-new-web/)
 - [1st look: Mace Windu protects a galactic secret in Marvel Comics&#39; new solo &#39;Star Wars&#39; series](https://www.space.com/star-wars-mace-windu-marvel-comics)
 - [Ex-Blue Origin leaders’ secretive lunar startup Interlune has moonshot mining plans](https://techcrunch.com/2024/02/07/ex-blue-origin-leaders-secretive-lunar-startup-interlune-has-moonshot-mining-plans/)
-- [Upcoming solar maximum may help solve the sun&#39;s gamma-ray puzzle](https://www.space.com/solar-maximum-sun-gamma-ray-puzzle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
