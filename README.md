@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Geminid meteors may be 10 times older than thought, simulations of oddball asteroid Phaethon suggest](https://www.space.com/geminid-meteors-10-times-older-phaethon-simulations)
-- [GM hires ex-Tesla battery guru Kurt Kelty to help with its Ultium problems](https://techcrunch.com/2024/02/08/gm-hire-kurt-kelty-tesla-ultium-sila/)
-- [AR glasses with multimodal AI nets funding from Pokémon Go creator](https://techcrunch.com/2024/02/08/ar-glasses-with-multimodal-ai-attracts-funding-from-pokemon-go-founder/)
-- [Ax-3 astronauts leave precious parting gift behind for ISS crew: peanut butter](https://www.space.com/spacex-ax-3-astronauts-peanut-butter-iss)
-- [Crux is building GenAI-powered business intelligence tools](https://techcrunch.com/2024/02/08/crux-is-building-genai-powered-business-intelligence-tools/)
+- [Podcasters can now upload their RSS feed to YouTube](https://techcrunch.com/2024/02/08/podcasters-can-now-upload-their-rss-feed-to-youtube/)
+- [Glass supercharges smartphone cameras with AI — minus the hallucinations](https://techcrunch.com/2024/02/08/glass-supercharges-smartphone-cameras-with-ai-minus-the-hallucinations/)
+- [Watch terrifying aliens invade Earth in new trailer for &#39;A Quiet Place: Day One&#39; &lpar;video&rpar;](https://www.space.com/a-quiet-place-day-one-trailer)
+- [Plaid’s new president hails from Cloudflare, has IPO experience](https://techcrunch.com/2024/02/08/plaids-new-president-hails-from-cloudflare-has-ipo-experience/)
+- [Security flaw in a popular smart helmet allowed silent location tracking](https://techcrunch.com/2024/02/08/livall-smart-helmet-flaw-location-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
