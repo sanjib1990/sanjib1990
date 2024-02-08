@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EU’s draft election security guidelines for tech giants take aim at political deepfakes](https://techcrunch.com/2024/02/08/eu-dsa-election-security-guideslines/)
-- [Google saves your conversations with Gemini for years by default](https://techcrunch.com/2024/02/08/google-saves-your-conversations-with-gemini-for-years-by-default/)
-- [Cowboy owners in Europe can now book on-demand e-bike repairs and tune-ups](https://techcrunch.com/2024/02/08/cowboy-owners-in-europe-can-now-book-on-demand-e-bike-repairs-and-tune-ups/)
-- [AI is going to save software companies’ dreams of growth](https://techcrunch.com/2024/02/08/ai-is-going-to-save-software-companies-dreams-of-growth/)
-- [This colossal &#39;Martian sunspot&#39; is so big it was seen from Mars. Now it&#39;s facing Earth &lpar;photo &amp; video&rpar;](https://www.space.com/enormous-martian-sunspot-turns-to-face-earth-high-chance-solar-flares)
+- [FCC officially declares AI-voiced robocalls illegal](https://techcrunch.com/2024/02/08/fcc-officially-declares-ai-voiced-robocalls-illegal/)
+- [NASA&#39;s Juno probe sees active volcanic eruptions on Jupiter&#39;s volcanic moon Io &lpar;images&rpar;](https://www.space.com/io-jupiter-moon-nasa-juno-photos)
+- [A fake app masquerading as password manager LastPass just got pulled from the App Store](https://techcrunch.com/2024/02/08/a-fake-app-masquerading-as-password-manager-lastpass-just-got-pulled-from-the-app-store/)
+- [OpenSea takes the long view by focusing on its UX even as NFT sales remain low](https://techcrunch.com/2024/02/08/opensea-david-finzer-interview/)
+- [How the Large Hadron Collider&#39;s successor will hunt for the dark universe](https://www.space.com/dark-energy-dark-matter-large-hadron-collider-successor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
