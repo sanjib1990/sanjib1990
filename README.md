@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Geminid meteors may be 10 times older than thought, simulations of oddball asteroid Phaethon suggest](https://www.space.com/geminid-meteors-10-times-older-phaethon-simulations)
+- [GM hires ex-Tesla battery guru Kurt Kelty to help with its Ultium problems](https://techcrunch.com/2024/02/08/gm-hire-kurt-kelty-tesla-ultium-sila/)
 - [AR glasses with multimodal AI nets funding from Pokémon Go creator](https://techcrunch.com/2024/02/08/ar-glasses-with-multimodal-ai-attracts-funding-from-pokemon-go-founder/)
-- [Departing Ax-3 crew leaves behind peanut butter as parting gift for ISS astronauts](https://www.space.com/spacex-ax-3-astronauts-peanut-butter-iss)
+- [Ax-3 astronauts leave precious parting gift behind for ISS crew: peanut butter](https://www.space.com/spacex-ax-3-astronauts-peanut-butter-iss)
 - [Crux is building GenAI-powered business intelligence tools](https://techcrunch.com/2024/02/08/crux-is-building-genai-powered-business-intelligence-tools/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Closinglock, now with $12M, wants to prevent the 1 in 10 real estate transactions targeted for fraud](https://techcrunch.com/2024/02/08/closinglock-12m-real-estate-transaction-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
