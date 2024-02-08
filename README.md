@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This colossal &#39;Martian sunspot&#39; is so big it was seen from Mars. Now it&#39;s facing Earth &lpar;photo &amp; video&rpar;](https://www.space.com/enormous-martian-sunspot-turns-to-face-earth-high-chance-solar-flares)
+- [PayPal suggests it will be ready to offer ‘offline’ payments when DMA goes into effect](https://techcrunch.com/2024/02/08/paypal-suggests-it-will-be-ready-to-offer-offline-payments-when-dma-goes-into-effect/)
+- [Upstash’s serverless data platform hits ARR of $1M just two years after seed funding](https://techcrunch.com/2024/02/08/upstashs-serverless-data-platform-hits-arr-of-1m-just-two-years-after-seed-funding/)
 - [Podcasters can now upload their RSS feed to YouTube](https://techcrunch.com/2024/02/08/podcasters-can-now-upload-their-rss-feed-to-youtube/)
 - [Glass supercharges smartphone cameras with AI — minus the hallucinations](https://techcrunch.com/2024/02/08/glass-supercharges-smartphone-cameras-with-ai-minus-the-hallucinations/)
-- [Watch terrifying aliens invade Earth in new trailer for &#39;A Quiet Place: Day One&#39; &lpar;video&rpar;](https://www.space.com/a-quiet-place-day-one-trailer)
-- [Plaid’s new president hails from Cloudflare, has IPO experience](https://techcrunch.com/2024/02/08/plaids-new-president-hails-from-cloudflare-has-ipo-experience/)
-- [Security flaw in a popular smart helmet allowed silent location tracking](https://techcrunch.com/2024/02/08/livall-smart-helmet-flaw-location-tracking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
