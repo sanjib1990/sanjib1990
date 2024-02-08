@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google starts blocking users from sideloading certain apps in Singapore](https://techcrunch.com/2024/02/07/google-starts-blocking-users-from-sideloading-certain-apps-in-singapore/)
 - [Brita snaps up smart water bottle startup, Larq](https://techcrunch.com/2024/02/07/brita-snaps-up-smart-water-bottle-startup-larq/)
 - [Accounting software startup Pennylane becomes France’s latest unicorn](https://techcrunch.com/2024/02/07/accounting-software-startup-pennylane-becomes-frances-latest-unicorn/)
-- [Pakistan suspends phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
+- [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
 - [Attentive.ai snags $7M to boost automation in landscaping, construction services](https://techcrunch.com/2024/02/07/attentive-ai-funding-landscaping-construction/)
-- [OpenAI forms a new team to study child safety](https://techcrunch.com/2024/02/07/openai-forms-a-new-team-to-study-child-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
