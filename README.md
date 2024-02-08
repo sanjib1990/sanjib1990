@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU’s draft election security guidelines for tech giants take aim at political deepfakes](https://techcrunch.com/2024/02/08/eu-dsa-election-security-guideslines/)
+- [Google saves your conversations with Gemini for years by default](https://techcrunch.com/2024/02/08/google-saves-your-conversations-with-gemini-for-years-by-default/)
+- [Cowboy owners in Europe can now book on-demand e-bike repairs and tune-ups](https://techcrunch.com/2024/02/08/cowboy-owners-in-europe-can-now-book-on-demand-e-bike-repairs-and-tune-ups/)
+- [AI is going to save software companies’ dreams of growth](https://techcrunch.com/2024/02/08/ai-is-going-to-save-software-companies-dreams-of-growth/)
 - [This colossal &#39;Martian sunspot&#39; is so big it was seen from Mars. Now it&#39;s facing Earth &lpar;photo &amp; video&rpar;](https://www.space.com/enormous-martian-sunspot-turns-to-face-earth-high-chance-solar-flares)
-- [PayPal suggests it will be ready to offer ‘offline’ payments when DMA goes into effect](https://techcrunch.com/2024/02/08/paypal-suggests-it-will-be-ready-to-offer-offline-payments-when-dma-goes-into-effect/)
-- [Upstash’s serverless data platform hits ARR of $1M just two years after seed funding](https://techcrunch.com/2024/02/08/upstashs-serverless-data-platform-hits-arr-of-1m-just-two-years-after-seed-funding/)
-- [Podcasters can now upload their RSS feed to YouTube](https://techcrunch.com/2024/02/08/podcasters-can-now-upload-their-rss-feed-to-youtube/)
-- [Glass supercharges smartphone cameras with AI — minus the hallucinations](https://techcrunch.com/2024/02/08/glass-supercharges-smartphone-cameras-with-ai-minus-the-hallucinations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
