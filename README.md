@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta challenges EU’s Digital Services Act supervisory fee as unfair](https://techcrunch.com/2024/02/08/meta-challenge-dsa-fee/)
-- [Watch private Ax-3 astronauts return to Earth in SpaceX capsule on Feb. 9 &lpar;video&rpar;](https://www.space.com/spacex-ax-3-astronaut-mission-splashdown)
-- [Californian regulator looking into Waymo’s collision with a cylist](https://techcrunch.com/2024/02/08/californian-regulator-looking-into-waymos-collision-with-a-cylist/)
-- [Rally Cap VC, a fintech investor for emerging markets, spins out $5M climate fund](https://techcrunch.com/2024/02/08/rally-cap-vc-a-fintech-investor-for-emerging-markets-spins-out-5m-climate-fund/)
-- [Daedalus, which is building precision-manufacturing factories powered by AI, raises $21M](https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/)
+- [China&#39;s Chang&#39;e-5 moon samples contain &#39;perplexing combination&#39; of minerals](https://www.space.com/china-change-5-moon-samples-perplexing-minerals)
+- [Google goes all in on its Gemini model, launches $20 paid tier for Gemini Ultra](https://techcrunch.com/2024/02/08/google-goes-all-in-on-gemini-and-launches-20-paid-tier-for-gemini-ultra/)
+- [Google Assistant is now powered by Gemini — sort of](https://techcrunch.com/2024/02/08/google-assistant-is-now-powered-by-gemini-sort-of/)
+- [Tiny, unseen moon could be holding bizarre space rock Chariklo&#39;s rings in place](https://www.space.com/chariklo-centaur-rings-shaped-by-tiny-moon)
+- [Thea Energy raises $20M Series A for pixel-inspired fusion power plants](https://techcrunch.com/2024/02/08/thea-energy-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
