@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch private Ax-3 astronauts return to Earth in SpaceX capsule on Feb. 9 &lpar;video&rpar;](https://www.space.com/spacex-ax-3-astronaut-mission-splashdown)
+- [Californian regulator looking into Waymo’s collision with a cylist](https://techcrunch.com/2024/02/08/californian-regulator-looking-into-waymos-collision-with-a-cylist/)
+- [Rally Cap VC, a fintech investor for emerging markets, spins out $5M climate fund](https://techcrunch.com/2024/02/08/rally-cap-vc-a-fintech-investor-for-emerging-markets-spins-out-5m-climate-fund/)
 - [Daedalus, which is building precision-manufacturing factories powered by AI, raises $21M](https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/)
 - [Indian central bank defends ‘proportionate’ action on Paytm](https://techcrunch.com/2024/02/07/indian-central-bank-defends-proportionate-action-on-paytm/)
-- [SpaceX launches NASA&#39;s PACE satellite to study Earth&#39;s oceans, air and climate](https://www.space.com/spacex-launches-nasa-pace-climate-ocean-satellite)
-- [Google starts blocking users from sideloading certain apps in Singapore](https://techcrunch.com/2024/02/07/google-starts-blocking-users-from-sideloading-certain-apps-in-singapore/)
-- [Brita snaps up smart water bottle startup, Larq](https://techcrunch.com/2024/02/07/brita-snaps-up-smart-water-bottle-startup-larq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
