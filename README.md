@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian central bank defends ‘proportionate’ action on Paytm](https://techcrunch.com/2024/02/07/indian-central-bank-defends-proportionate-action-on-paytm/)
 - [SpaceX launches NASA&#39;s PACE satellite to study Earth&#39;s oceans, air and climate](https://www.space.com/spacex-launches-nasa-pace-climate-ocean-satellite)
 - [Google starts blocking users from sideloading certain apps in Singapore](https://techcrunch.com/2024/02/07/google-starts-blocking-users-from-sideloading-certain-apps-in-singapore/)
 - [Brita snaps up smart water bottle startup, Larq](https://techcrunch.com/2024/02/07/brita-snaps-up-smart-water-bottle-startup-larq/)
 - [Accounting software startup Pennylane becomes France’s latest unicorn](https://techcrunch.com/2024/02/07/accounting-software-startup-pennylane-becomes-frances-latest-unicorn/)
-- [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
