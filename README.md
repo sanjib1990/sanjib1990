@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta challenges EU’s Digital Services Act supervisory fee as unfair](https://techcrunch.com/2024/02/08/meta-challenge-dsa-fee/)
 - [Watch private Ax-3 astronauts return to Earth in SpaceX capsule on Feb. 9 &lpar;video&rpar;](https://www.space.com/spacex-ax-3-astronaut-mission-splashdown)
 - [Californian regulator looking into Waymo’s collision with a cylist](https://techcrunch.com/2024/02/08/californian-regulator-looking-into-waymos-collision-with-a-cylist/)
 - [Rally Cap VC, a fintech investor for emerging markets, spins out $5M climate fund](https://techcrunch.com/2024/02/08/rally-cap-vc-a-fintech-investor-for-emerging-markets-spins-out-5m-climate-fund/)
 - [Daedalus, which is building precision-manufacturing factories powered by AI, raises $21M](https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/)
-- [Indian central bank defends ‘proportionate’ action on Paytm](https://techcrunch.com/2024/02/07/indian-central-bank-defends-proportionate-action-on-paytm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
