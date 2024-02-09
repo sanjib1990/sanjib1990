@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The era of face-wearable computers](https://techcrunch.com/2024/02/09/the-era-of-face-wearable-computers/)
 - [How Earth&#39;s new Rubin Observatory will usher in the next era of asteroid space missions](https://www.space.com/rubin-observatory-next-era-space-missions-asteroids)
 - [Why a B2B startup is placing a bet on a $7M Super Bowl ad](https://techcrunch.com/2024/02/09/why-a-b2b-startup-is-placing-a-bet-on-a-7-million-super-bowl-ad/)
 - [See SpaceX&#39;s breathtaking launch of NASA&#39;s PACE satellite &lpar;photos&rpar;](https://www.space.com/spacex-pace-satellite-falcon-9-launch-photos)
 - [What’s next for STIRR, the free streaming service Thinking Media just acquired](https://techcrunch.com/2024/02/09/whats-next-for-stirr-the-free-streaming-service-thinking-media-just-acquired/)
-- [Apple eyes business as a prime market for the Apple Vision Pro](https://techcrunch.com/2024/02/09/apple-eyes-business-as-a-prime-market-for-the-apple-vision-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
