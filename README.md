@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope tells a starry &#39;tail&#39; of 12 mingling galaxies](https://www.space.com/hubble-space-telescope-star-formation-tidal-tail-galaxy-cluster)
+- [Celestron AstroMaster LT 70AZ beginner telescope is now under $60](https://www.space.com/celestron-astromaster-telescope-deal-save-over-70-dollars-february-2024)
+- [Social networks are getting stingy with their data, leaving third-party developers in the lurch](https://techcrunch.com/2024/02/09/social-network-api-apps-twitter-reddit-threads-mastodon-bluesky/)
 - [Pitch Deck Teardown: Xyte’s $30M  Series A deck](https://techcrunch.com/2024/02/09/sample-series-a-pitch-deck-xyte/)
 - [Samsung gets FDA nod for smartwatch sleep apnea detection](https://techcrunch.com/2024/02/09/samsung-gets-fda-nod-for-smartwatch-sleep-apnea-detection/)
-- [20PRODUCT grabs $5M to put the best product experts in your cap table](https://techcrunch.com/2024/02/09/20product-5m-20vc-product-experts-venture-capital/)
-- [Watch 1st X-class solar flare of 2024 erupt from the sun in explosive fashion &lpar;video&rpar;](https://www.space.com/first-x-class-solar-flare-of-2024-seen-erupting-from-sun-video)
-- [As Iran-backed groups attack Red Sea ships, investors are backing startups assisting global cargo](https://techcrunch.com/2024/02/09/as-iran-backed-groups-attack-red-sea-ships-investors-are-backing-startups-assisting-global-cargo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
