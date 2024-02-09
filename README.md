@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bootstrapped for 8 years, Xensam has now snapped up $40M for AI that manages software assets](https://techcrunch.com/2024/02/08/bootstrapped-for-8-years-xensam-has-now-snapped-up-40m-for-ai-that-manages-software-assets/)
 - [Indian parliamentary panel red-flags PhonePe and Google Pay cornering 83% of India’s UPI payments](https://techcrunch.com/2024/02/08/indian-parliamentary-panel-red-flags-phonepe-and-google-pay-cornering-83-of-india-upi-payments/)
 - [Here are the fintech startups that could go public in 2024](https://techcrunch.com/2024/02/08/here-are-the-fintech-startups-that-could-go-public-in-2024/)
 - [CodeSignal launches a learning platform with an AI-powered guide](https://techcrunch.com/2024/02/08/codesignal-launches-a-learning-platform-with-an-ai-powered-guide/)
 - [Arm’s gains are SoftBank’s gains](https://techcrunch.com/2024/02/08/arms-gains-are-softbanks-gains/)
-- [Here are my favorite Vision Pro apps &lpar;so far&rpar;](https://techcrunch.com/2024/02/08/here-are-my-favorite-vision-pro-apps-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
