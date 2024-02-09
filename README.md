@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s private Polaris Dawn orbital mission delayed to summer 2024](https://www.space.com/spacex-polaris-dawn-mission-delay-summer-2024)
+- [February&#39;s &#39;super&#39; new moon leaves the night sky nice and dark tonight](https://www.space.com/february-new-moon-2024-perigee)
+- [Functional beverage startup Odyssey grabs $6M to accelerate energy drink growth](https://techcrunch.com/2024/02/09/functional-beverage-odyssey-6m-energy-drink-food/)
+- [Africa-focused funds find their feet amid a downturn](https://techcrunch.com/2024/02/09/funds-for-african-tech-ventures/)
 - [20 people in space! Humanity quietly tied a record last month](https://www.space.com/human-spaceflight-record-20-people-in-space-2024)
-- [Pinterest announces a new ad deal with Google as it approaches 500M MAUs](https://techcrunch.com/2024/02/09/pinterest-announces-a-new-ad-deal-with-google-as-it-approaches-500m-maus/)
-- [Bootstrapped for 8 years, Xensam now has snapped up $40M for AI that manages software assets](https://techcrunch.com/2024/02/08/bootstrapped-for-8-years-xensam-has-now-snapped-up-40m-for-ai-that-manages-software-assets/)
-- [Indian parliamentary panel red-flags PhonePe and Google Pay cornering 83% of India’s UPI payments](https://techcrunch.com/2024/02/08/indian-parliamentary-panel-red-flags-phonepe-and-google-pay-cornering-83-of-india-upi-payments/)
-- [Here are the fintech startups that could go public in 2024](https://techcrunch.com/2024/02/08/here-are-the-fintech-startups-that-could-go-public-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
