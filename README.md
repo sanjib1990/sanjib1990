@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force wants satellite &#39;jetpacks&#39; to keep old spacecraft alive in orbit](https://www.space.com/us-space-force-satellite-jetpacks-on-orbit-mobility)
 - [SpaceX&#39;s private Polaris Dawn orbital mission delayed to summer 2024](https://www.space.com/spacex-polaris-dawn-mission-delay-summer-2024)
 - [February&#39;s &#39;super&#39; new moon leaves the night sky nice and dark tonight](https://www.space.com/february-new-moon-2024-perigee)
 - [Functional beverage startup Odyssey grabs $6M to accelerate energy drink growth](https://techcrunch.com/2024/02/09/functional-beverage-odyssey-6m-energy-drink-food/)
 - [Africa-focused funds find their feet amid a downturn](https://techcrunch.com/2024/02/09/funds-for-african-tech-ventures/)
-- [20 people in space! Humanity quietly tied a record last month](https://www.space.com/human-spaceflight-record-20-people-in-space-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
