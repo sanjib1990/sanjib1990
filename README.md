@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adam Neumann’s bid for WeWork’s scraps](https://techcrunch.com/2024/02/09/adam-neumanns-bid-for-weworks-scraps/)
-- [Nuclear fusion lab sets record for most energy created with single reaction](https://www.space.com/nuclear-fusion-lab-record-energy-single-reaction)
-- [US Space Force wants satellite &#39;jetpacks&#39; to keep old spacecraft alive in orbit](https://www.space.com/us-space-force-satellite-jetpacks-on-orbit-mobility)
-- [SpaceX&#39;s private Polaris Dawn orbital mission delayed to summer 2024](https://www.space.com/spacex-polaris-dawn-mission-delay-summer-2024)
-- [February&#39;s &#39;super&#39; new moon leaves the night sky nice and dark tonight](https://www.space.com/february-new-moon-2024-perigee)
+- [Pitch Deck Teardown: Xyte’s $30M  Series A deck](https://techcrunch.com/2024/02/09/sample-series-a-pitch-deck-xyte/)
+- [Samsung gets FDA nod for smartwatch sleep apnea detection](https://techcrunch.com/2024/02/09/samsung-gets-fda-nod-for-smartwatch-sleep-apnea-detection/)
+- [20PRODUCT grabs $5M to put the best product experts in your cap table](https://techcrunch.com/2024/02/09/20product-5m-20vc-product-experts-venture-capital/)
+- [Watch 1st X-class solar flare of 2024 erupt from the sun in explosive fashion &lpar;video&rpar;](https://www.space.com/first-x-class-solar-flare-of-2024-seen-erupting-from-sun-video)
+- [As Iran-backed groups attack Red Sea ships, investors are backing startups assisting global cargo](https://techcrunch.com/2024/02/09/as-iran-backed-groups-attack-red-sea-ships-investors-are-backing-startups-assisting-global-cargo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
