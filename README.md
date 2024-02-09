@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Earth&#39;s new Rubin Observatory will usher in the next era of asteroid space missions](https://www.space.com/rubin-observatory-next-era-space-missions-asteroids)
+- [Why a B2B startup is placing a bet on a $7M Super Bowl ad](https://techcrunch.com/2024/02/09/why-a-b2b-startup-is-placing-a-bet-on-a-7-million-super-bowl-ad/)
+- [See SpaceX&#39;s breathtaking launch of NASA&#39;s PACE satellite &lpar;photos&rpar;](https://www.space.com/spacex-pace-satellite-falcon-9-launch-photos)
 - [What’s next for STIRR, the free streaming service Thinking Media just acquired](https://techcrunch.com/2024/02/09/whats-next-for-stirr-the-free-streaming-service-thinking-media-just-acquired/)
 - [Apple eyes business as a prime market for the Apple Vision Pro](https://techcrunch.com/2024/02/09/apple-eyes-business-as-a-prime-market-for-the-apple-vision-pro/)
-- [Fisker Ocean owners flagged sudden power loss and brake problems for months, internal documents show](https://techcrunch.com/2024/02/09/fisker-ocean-braking-power-loss-problems-investigation/)
-- [Instagram and Threads will no longer ‘proactively’ recommend political content](https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content/)
-- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/02/09/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
