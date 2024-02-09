@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian parliamentary panel red-flags PhonePe and Google Pay cornering 83% of India’s UPI payments](https://techcrunch.com/2024/02/08/indian-parliamentary-panel-red-flags-phonepe-and-google-pay-cornering-83-of-india-upi-payments/)
 - [Here are the fintech startups that could go public in 2024](https://techcrunch.com/2024/02/08/here-are-the-fintech-startups-that-could-go-public-in-2024/)
 - [CodeSignal launches a learning platform with an AI-powered guide](https://techcrunch.com/2024/02/08/codesignal-launches-a-learning-platform-with-an-ai-powered-guide/)
 - [Arm’s gains are SoftBank’s gains](https://techcrunch.com/2024/02/08/arms-gains-are-softbanks-gains/)
 - [Here are my favorite Vision Pro apps &lpar;so far&rpar;](https://techcrunch.com/2024/02/08/here-are-my-favorite-vision-pro-apps-so-far/)
-- [Relive SpaceX Starship&#39;s epic 2nd test flight in newly released NASA footage &lpar;video&rpar;](https://www.space.com/spacex-starship-second-flight-test-nasa-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
