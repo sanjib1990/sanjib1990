@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With Disney’s magic, Fortnite is poised to win the metaverse](https://techcrunch.com/2024/02/09/epic-games-disney-fortnite-metaverse/)
+- [How to fake a robotics demo for fun and profit](https://techcrunch.com/2024/02/09/how-to-fake-a-robotics-demo-for-fun-and-profit/)
 - [Meet Goody-2, the AI too ethical to discuss literally anything](https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/)
 - [‘World’s biggest casino’ app exposed customers’ personal data](https://techcrunch.com/2024/02/09/winstar-hotel-casino-app-exposed-customer-personal-data/)
 - [Mars helicopter Ingenuity&#39;s final resting place named after &#39;Undying Lands&#39; in &#39;Lord of the Rings&#39;](https://www.space.com/ingenuity-mars-helicopter-final-resting-place-lord-of-the-rings-tolkein)
-- [Apple defends parts pairing as Oregon mulls right-to-repair bill](https://techcrunch.com/2024/02/09/apple-defends-parts-pairing-as-oregon-mulls-right-to-repair-bill/)
-- [Twitter alternative Bluesky shows off custom Super Bowl feeds &lpar;both with and without Taylor Swift&rpar;](https://techcrunch.com/2024/02/09/twitter-alternative-bluesky-shows-off-custom-super-bowl-feeds-both-with-and-without-taylor-swift/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
