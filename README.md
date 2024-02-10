@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notion acquires privacy-focused productivity platform Skiff](https://techcrunch.com/2024/02/09/notion-acquires-privacy-focused-productivity-platform-skiff/)
 - [With Disney’s magic, Fortnite is poised to win the metaverse](https://techcrunch.com/2024/02/09/epic-games-disney-fortnite-metaverse/)
 - [How to fake a robotics demo for fun and profit](https://techcrunch.com/2024/02/09/how-to-fake-a-robotics-demo-for-fun-and-profit/)
 - [Meet Goody-2, the AI too ethical to discuss literally anything](https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/)
 - [‘World’s biggest casino’ app exposed customers’ personal data](https://techcrunch.com/2024/02/09/winstar-hotel-casino-app-exposed-customer-personal-data/)
-- [Mars helicopter Ingenuity&#39;s final resting place named after &#39;Undying Lands&#39; in &#39;Lord of the Rings&#39;](https://www.space.com/ingenuity-mars-helicopter-final-resting-place-lord-of-the-rings-tolkein)
 <!-- BLOG-POST-LIST:END -->
 
 ---
