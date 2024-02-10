@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy Lunar New Year 2024! Chinese astronauts welcome Year of the Dragon in space](https://www.space.com/lunar-new-year-2024-year-of-the-dragon-astronauts-tiangong)
 - [Notion acquires privacy-focused productivity platform Skiff](https://techcrunch.com/2024/02/09/notion-acquires-privacy-focused-productivity-platform-skiff/)
 - [With Disney’s magic, Fortnite is poised to win the metaverse](https://techcrunch.com/2024/02/09/epic-games-disney-fortnite-metaverse/)
 - [How to fake a robotics demo for fun and profit](https://techcrunch.com/2024/02/09/how-to-fake-a-robotics-demo-for-fun-and-profit/)
 - [Meet Goody-2, the AI too ethical to discuss literally anything](https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/)
-- [‘World’s biggest casino’ app exposed customers’ personal data](https://techcrunch.com/2024/02/09/winstar-hotel-casino-app-exposed-customer-personal-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
