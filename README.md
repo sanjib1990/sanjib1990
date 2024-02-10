@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [something is slowing down AI....](https://www.youtube.com/watch?v=fb69FyW2KLk)
+- [AI Networking is CRAZY!! &lpar;but is it fast enough?&rpar;](https://www.youtube.com/watch?v=fb69FyW2KLk)
 - [Google actually beat GPT-4 this time? Gemini Ultra released](https://www.youtube.com/watch?v=ucd63nIZZ60)
 - [1 MILLION Special - Ask me Anything](https://www.youtube.com/watch?v=xbmOByVN5CY)
 - [Using Mock Exams as an Opportunity to Model Thought Processes](https://www.youtube.com/watch?v=jvpGLVK0tR0)
