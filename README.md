@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Judas&#39; game trailer teases a dystopian sci-fi romp in outer space](https://www.space.com/judas-video-game-ghost-story-games-trailer)
 - [NASA is &#39;learning to listen to the X-59&#39; by simulating sonic thumps with fighter jets &lpar;photos&rpar;](https://www.space.com/nasa-x-59-sonic-boom-f-18-recording)
 - [This Week In Space podcast: Episode 97 — Attempt No Landing There](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-97-attempt-no-landing-there)
 - [Meet the maestro behind &#39;The Galilean Suite&#39; — an epic space symphony dedicated to Jupiter&#39;s largest moons](https://www.space.com/galilean-suite-composer-dave-dexter-interview)
 - [Happy Lunar New Year 2024! Chinese astronauts welcome Year of the Dragon in space](https://www.space.com/lunar-new-year-2024-year-of-the-dragon-astronauts-tiangong)
-- [Notion acquires privacy-focused productivity platform Skiff](https://techcrunch.com/2024/02/09/notion-acquires-privacy-focused-productivity-platform-skiff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
