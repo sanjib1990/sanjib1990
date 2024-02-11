@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber hits a profit milestone, Ford builds an EV skunksworks and Fisker fumbles](https://techcrunch.com/2024/02/11/uber-hits-a-profit-milestone-ford-builds-an-ev-skunksworks-and-fisker-fumbles/)
 - [Seed funding: Everything founders should know about fundraising, seed rounds and more for 2024](https://techcrunch.com/2024/02/11/seed-funding-everything-to-know-2024/)
 - [How to watch SpaceX launch the private Intuitive Machines moon lander IM-1 on Feb. 14 live online](https://www.space.com/spacex-intuitive-machines-im-1-moon-lander-launch-livestreams)
 - [Maybe we’ll finally see a fintech IPO in 2024](https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/)
 - [It&#39;s good! Space station astronauts toss football in zero-g for Super Bowl 2024 &lpar;video&rpar;](https://www.space.com/super-bowl-2024-astronauts-toss-football-nasa-video)
-- [World&#39;s 1st fault-tolerant quantum computer launching this year ahead of a 10,000-qubit machine in 2026](https://www.space.com/fault-tolerant-quantum-computer-10000-qubit-machine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
