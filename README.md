@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maybe we’ll finally see a fintech IPO in 2024](https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/)
+- [It&#39;s good! Space station astronauts toss football in orbit for Super Bowl 2024 &lpar;video&rpar;](https://www.space.com/super-bowl-2024-astronauts-toss-football-nasa-video)
 - [World&#39;s 1st fault-tolerant quantum computer launching this year ahead of a 10,000-qubit machine in 2026](https://www.space.com/fault-tolerant-quantum-computer-10000-qubit-machine)
 - [Intuitive Machines moon lander to carry tiny NASA cameras to study lunar surface &lpar;video&rpar;](https://www.space.com/intuitive-machines-nova-c-moon-lander-tiny-nasa-cameras-scalpss)
 - [Cosmic Super Bowl? The Milky Way&#39;s black hole is shaping spacetime into a football](https://www.space.com/milky-way-black-hole-shaping-spacetime-football-super-bowl)
-- [Bluesky opens to everyone, Rivian reveals its new SUV, and governments exploit iPhones](https://techcrunch.com/2024/02/10/bluesky-opens-to-everyone-rivian-reveals-its-new-suv-and-governments-exploit-iphones/)
-- [Safety by design](https://techcrunch.com/2024/02/10/safety-by-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
