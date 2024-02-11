@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuitive Machines moon lander to carry tiny NASA cameras to study lunar surface &lpar;video&rpar;](https://www.space.com/intuitive-machines-nova-c-moon-lander-tiny-nasa-cameras-scalpss)
 - [The Milky Way&#39;s black hole is shaping spacetime into a football](https://www.space.com/milky-way-black-hole-shaping-spacetime-football-super-bowl)
 - [Bluesky opens to everyone, Rivian reveals its new SUV, and governments exploit iPhones](https://techcrunch.com/2024/02/10/bluesky-opens-to-everyone-rivian-reveals-its-new-suv-and-governments-exploit-iphones/)
 - [Safety by design](https://techcrunch.com/2024/02/10/safety-by-design/)
 - [Deal Dive: VCs are no longer gunshy about firearm startups](https://techcrunch.com/2024/02/10/vcs-are-no-longer-gunshy-about-firearm-startups/)
-- [New &#39;Judas&#39; game trailer teases a dystopian sci-fi romp in outer space](https://www.space.com/judas-video-game-ghost-story-games-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
