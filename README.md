@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Milky Way&#39;s black hole is shaping spacetime into a football](https://www.space.com/milky-way-black-hole-shaping-spacetime-football-super-bowl)
 - [Bluesky opens to everyone, Rivian reveals its new SUV, and governments exploit iPhones](https://techcrunch.com/2024/02/10/bluesky-opens-to-everyone-rivian-reveals-its-new-suv-and-governments-exploit-iphones/)
 - [Safety by design](https://techcrunch.com/2024/02/10/safety-by-design/)
 - [Deal Dive: VCs are no longer gunshy about firearm startups](https://techcrunch.com/2024/02/10/vcs-are-no-longer-gunshy-about-firearm-startups/)
 - [New &#39;Judas&#39; game trailer teases a dystopian sci-fi romp in outer space](https://www.space.com/judas-video-game-ghost-story-games-trailer)
-- [NASA is &#39;learning to listen to the X-59&#39; by simulating sonic thumps with fighter jets &lpar;photos&rpar;](https://www.space.com/nasa-x-59-sonic-boom-f-18-recording)
 <!-- BLOG-POST-LIST:END -->
 
 ---
