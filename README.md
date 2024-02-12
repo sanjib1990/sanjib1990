@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch China launch Smart Dragon-3 rocket from the sea &lpar;video&rpar;](https://www.space.com/china-sea-launch-smart-dragon-3-rocket-video)
+- [US Patent Office: AI is all well and good, but only humans can patent things](https://techcrunch.com/2024/02/12/us-patent-office-ai-is-all-well-and-good-but-only-humans-can-patent-things/)
+- [Greece signs Artemis Accords for responsible moon exploration](https://www.space.com/greece-signs-artemis-accords-nasa-moon-exploration)
 - [See new trailer for NatGeo&#39;s &#39;The Space Race&#39; documentary saluting Black astronauts &lpar;video&rpar;](https://www.space.com/natgeo-the-space-race-documentary-black-astronauts-trailer)
 - [Homebrew targets $50M for new fund](https://techcrunch.com/2024/02/12/homebrew-targets-50m-for-new-fund/)
-- [Cruise names first chief safety officer following crash and controversy](https://techcrunch.com/2024/02/12/cruise-chief-safety-officer-steve-kenner/)
-- [If you’re going to market, your GTM slide needs to be awesome](https://techcrunch.com/2024/02/12/if-youre-going-to-market-your-gtm-slide-needs-to-be-awesome/)
-- [Canadian astronaut reveals Indigenous art patch for Artemis 2 moon mission](https://www.space.com/hansen-canadian-artemis-2-mission-patch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
