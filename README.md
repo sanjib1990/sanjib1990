@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See new trailer for NatGeo&#39;s &#39;The Space Race&#39; documentary saluting Black astronauts &lpar;video&rpar;](https://www.space.com/natgeo-the-space-race-documentary-black-astronauts-trailer)
+- [Homebrew targets $50M for new fund](https://techcrunch.com/2024/02/12/homebrew-targets-50m-for-new-fund/)
+- [Cruise names first chief safety officer following crash and controversy](https://techcrunch.com/2024/02/12/cruise-chief-safety-officer-steve-kenner/)
+- [If you’re going to market, your GTM slide needs to be awesome](https://techcrunch.com/2024/02/12/if-youre-going-to-market-your-gtm-slide-needs-to-be-awesome/)
 - [Canadian astronaut reveals Indigenous art patch for Artemis 2 moon mission](https://www.space.com/hansen-canadian-artemis-2-mission-patch)
-- [Orbital resonance — the striking gravitational dance done by planets with aligning orbits](https://www.space.com/orbital-resonance-gravity-dance)
-- [In battle with X, Threads gets trending topics where politics will be allowed](https://techcrunch.com/2024/02/12/in-battle-with-x-threads-gets-trending-topics-where-politics-will-be-allowed/)
-- [Motif Analytics brings sequence analytics to growth teams](https://techcrunch.com/2024/02/12/motif-analytics-brings-sequence-analytics-to-growth-teams/)
-- [Switzerland’s Wingman Ventures rebrands to Founderful, aims for a $120M fund](https://techcrunch.com/2024/02/12/founderful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
