@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rippling opens Asia-Pacific HQ as its international expansion gears up](https://techcrunch.com/2024/02/12/rippling-2/)
+- [Travel startup Layla acquires AI itinerary building bot Roam Around](https://techcrunch.com/2024/02/12/travel-startup-layla-acquires-flyr-backed-ai-itinerary-building-bot/)
+- [A star&#39;s extreme outburst could be tormenting baby planets](https://www.space.com/star-extreme-outburst-baby-planet-tormented)
 - [James Webb Space Telescope tracks a galaxy&#39;s history back to just after the Big Bang](https://www.space.com/james-webb-space-telescope-wold-lundmark-melotte-galaxy-mapping)
 - [Bugcrowd snaps up $102M for a ‘bug bounty’ security platform that taps 500K+ hackers](https://techcrunch.com/2024/02/12/bugcrowd-snaps-up-102m-for-a-bug-bounty-security-platform-that-taps-500k-hackers/)
-- [Kenya’s Ilara Health gets $4.2M backing to expand clinic-support services](https://techcrunch.com/2024/02/12/ilara-health-gets-4-2m-funding/)
-- [Peak XV takes startups on a Silicon Valley trip in AI push](https://techcrunch.com/2024/02/11/peak-xv-takes-startups-on-a-silicon-valley-trip-in-ai-push/)
-- [Google’s and Microsoft’s chatbots are making up Super Bowl stats](https://techcrunch.com/2024/02/11/googles-and-microsofts-chatbots-are-making-up-super-bowl-stats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
