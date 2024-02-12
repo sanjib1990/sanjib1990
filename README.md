@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [this is why you&#39;re addicted to cloud computing](https://www.youtube.com/watch?v=4Wa5DivljOM)
 - [Lecture 18: Discrete Symmetries](https://www.youtube.com/watch?v=pRmAa-UyVg8)
 - [Lecture 9: Path Integral Formalism for QFT; Computation of Time-Ordered Correlation Functions](https://www.youtube.com/watch?v=GZQ-8pg7bgk)
 - [Lecture 11: Computation of Correlation Functions in Perturbation Theory and Feynman Diagrams](https://www.youtube.com/watch?v=pWHUGzxzPNk)
 - [Lecture 13: Introducing the Dirac Equation](https://www.youtube.com/watch?v=dTrZaojMiy4)
-- [Lecture 24: Elementary Processes in QED &lpar;I&rpar;](https://www.youtube.com/watch?v=tkglOK3ZEsI)
 <!-- YOUTUBE:END -->
 
 ---
