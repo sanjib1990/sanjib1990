@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The mystery of the missing super-Earths and mini-Neptunes may finally be solved](https://www.space.com/mystery-missing-super-earths-mini-neptunes-solved)
 - [LeoLabs lands new capital to help the U.S. keep track of space junk and adversarial satellite launches](https://techcrunch.com/2024/02/12/leolabs-closes-new-capital-to-keep-an-even-closer-eye-on-orbit/)
 - [What would happen if you moved at the speed of light?](https://www.space.com/what-would-happen-if-you-moved-at-speed-of-light)
 - [Rippling opens Asia-Pacific HQ as its international expansion gears up](https://techcrunch.com/2024/02/12/rippling-2/)
 - [Travel startup Layla acquires AI itinerary building bot Roam Around](https://techcrunch.com/2024/02/12/travel-startup-layla-acquires-flyr-backed-ai-itinerary-building-bot/)
-- [A star&#39;s extreme outburst could be tormenting baby planets](https://www.space.com/star-extreme-outburst-baby-planet-tormented)
 <!-- BLOG-POST-LIST:END -->
 
 ---
