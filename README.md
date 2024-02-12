@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The mystery of the missing super-Earths and mini-Neptunes may finally be solved](https://www.space.com/mystery-missing-super-earths-mini-neptunes-solved)
-- [LeoLabs lands new capital to help the U.S. keep track of space junk and adversarial satellite launches](https://techcrunch.com/2024/02/12/leolabs-closes-new-capital-to-keep-an-even-closer-eye-on-orbit/)
-- [What would happen if you moved at the speed of light?](https://www.space.com/what-would-happen-if-you-moved-at-speed-of-light)
-- [Rippling opens Asia-Pacific HQ as its international expansion gears up](https://techcrunch.com/2024/02/12/rippling-2/)
-- [Travel startup Layla acquires AI itinerary building bot Roam Around](https://techcrunch.com/2024/02/12/travel-startup-layla-acquires-flyr-backed-ai-itinerary-building-bot/)
+- [Young Mars had active volcanoes near a mile-deep lake. Could life have thrived there?](https://www.space.com/mars-volcanically-active-4-billion-years-search-for-life)
+- [Early Stage 2024 Audience Choice voting ends Feb 15](https://techcrunch.com/2024/02/12/early-stage-2024-audience-choice-voting-ends-feb-15/)
+- [Over half of Vision Pro-only apps are paid downloads, far more than wider iOS App Store](https://techcrunch.com/2024/02/12/over-half-of-vision-pro-only-apps-are-paid-downloads-far-more-than-wider-app-store/)
+- [Jeep-maker Stellantis to adopt Tesla’s charging port](https://techcrunch.com/2024/02/12/stellantis-tesla-nacs-standard-jeep-evs/)
+- [AI field trips and why we should stop setting self-driving cars on fire](https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
