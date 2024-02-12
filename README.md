@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadian astronaut reveals Indigenous art patch for Artemis 2 moon mission](https://www.space.com/hansen-canadian-artemis-2-mission-patch)
+- [Orbital resonance — the striking gravitational dance done by planets with aligning orbits](https://www.space.com/orbital-resonance-gravity-dance)
+- [In battle with X, Threads gets trending topics where politics will be allowed](https://techcrunch.com/2024/02/12/in-battle-with-x-threads-gets-trending-topics-where-politics-will-be-allowed/)
+- [Motif Analytics brings sequence analytics to growth teams](https://techcrunch.com/2024/02/12/motif-analytics-brings-sequence-analytics-to-growth-teams/)
 - [Switzerland’s Wingman Ventures rebrands to Founderful, aims for a $120M fund](https://techcrunch.com/2024/02/12/founderful/)
-- [Everything we know about Warhammer 40K: Space Marine 2](https://www.space.com/warhammer-40k-space-marine-2-everything-we-know)
-- [A Waymo robotaxi was vandalized and burned in San Francisco](https://techcrunch.com/2024/02/12/a-waymo-robotaxi-was-vandalized-and-burned-in-san-francisco/)
-- [North American robot orders dropped 30% last year](https://techcrunch.com/2024/02/12/north-american-robot-orders-dropped-30-last-year/)
-- [Feds probing Lucid’s software fix for defroster recall](https://techcrunch.com/2024/02/12/nhtsa-investigation-lucid-motors-air-defroster-recall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
