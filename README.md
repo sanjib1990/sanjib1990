@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Switzerland’s Wingman Ventures rebrands to Founderful, aims for a $120M fund](https://techcrunch.com/2024/02/12/founderful/)
+- [Everything we know about Warhammer 40K: Space Marine 2](https://www.space.com/warhammer-40k-space-marine-2-everything-we-know)
+- [A Waymo robotaxi was vandalized and burned in San Francisco](https://techcrunch.com/2024/02/12/a-waymo-robotaxi-was-vandalized-and-burned-in-san-francisco/)
 - [North American robot orders dropped 30% last year](https://techcrunch.com/2024/02/12/north-american-robot-orders-dropped-30-last-year/)
 - [Feds probing Lucid’s software fix for defroster recall](https://techcrunch.com/2024/02/12/nhtsa-investigation-lucid-motors-air-defroster-recall/)
-- [Solar eclipse on Mars! Perseverance rover sees Martian moon Phobos cross the sun in epic video](https://www.space.com/mars-solar-eclipse-phobos-sun-perseverance-video)
-- [Spotify for Podcasters adds new integration with Riverside, sunsets some legacy podcasting tools](https://techcrunch.com/2024/02/12/spotify-for-podcasters-adds-new-integration-with-riverside-sunsets-some-legacy-podcasting-tools/)
-- [Young Mars had active volcanoes near a mile-deep lake. Could life have thrived there?](https://www.space.com/mars-volcanically-active-4-billion-years-search-for-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
