@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope tracks a galaxy&#39;s history back to just after the Big Bang](https://www.space.com/james-webb-space-telescope-wold-lundmark-melotte-galaxy-mapping)
+- [Bugcrowd snaps up $102M for a ‘bug bounty’ security platform that taps 500K+ hackers](https://techcrunch.com/2024/02/12/bugcrowd-snaps-up-102m-for-a-bug-bounty-security-platform-that-taps-500k-hackers/)
 - [Kenya’s Ilara Health gets $4.2M backing to expand clinic-support services](https://techcrunch.com/2024/02/12/ilara-health-gets-4-2m-funding/)
 - [Peak XV takes startups on a Silicon Valley trip in AI push](https://techcrunch.com/2024/02/11/peak-xv-takes-startups-on-a-silicon-valley-trip-in-ai-push/)
 - [Google’s and Microsoft’s chatbots are making up Super Bowl stats](https://techcrunch.com/2024/02/11/googles-and-microsofts-chatbots-are-making-up-super-bowl-stats/)
-- [Uber hits a profit milestone, Ford builds an EV skunksworks and Fisker fumbles](https://techcrunch.com/2024/02/11/uber-hits-a-profit-milestone-ford-builds-an-ev-skunksworks-and-fisker-fumbles/)
-- [Seed funding: Everything founders should know about fundraising, seed rounds and more for 2024](https://techcrunch.com/2024/02/11/seed-funding-everything-to-know-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
