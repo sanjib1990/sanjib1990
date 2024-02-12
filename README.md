@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Why is this OS so secure??](https://www.youtube.com/watch?v=wAb3TMEN5P0)
-- [AI Networking is CRAZY!! &lpar;but is it fast enough?&rpar;](https://www.youtube.com/watch?v=fb69FyW2KLk)
-- [Google actually beat GPT-4 this time? Gemini Ultra released](https://www.youtube.com/watch?v=ucd63nIZZ60)
-- [1 MILLION Special - Ask me Anything](https://www.youtube.com/watch?v=xbmOByVN5CY)
-- [Using Mock Exams as an Opportunity to Model Thought Processes](https://www.youtube.com/watch?v=jvpGLVK0tR0)
+- [Lecture 18: Discrete Symmetries](https://www.youtube.com/watch?v=pRmAa-UyVg8)
+- [Lecture 9: Path Integral Formalism for QFT; Computation of Time-Ordered Correlation Functions](https://www.youtube.com/watch?v=GZQ-8pg7bgk)
+- [Lecture 11: Computation of Correlation Functions in Perturbation Theory and Feynman Diagrams](https://www.youtube.com/watch?v=pWHUGzxzPNk)
+- [Lecture 13: Introducing the Dirac Equation](https://www.youtube.com/watch?v=dTrZaojMiy4)
+- [Lecture 24: Elementary Processes in QED &lpar;I&rpar;](https://www.youtube.com/watch?v=tkglOK3ZEsI)
 <!-- YOUTUBE:END -->
 
 ---
