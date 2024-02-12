@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [North American robot orders dropped 30% last year](https://techcrunch.com/2024/02/12/north-american-robot-orders-dropped-30-last-year/)
+- [Feds probing Lucid’s software fix for defroster recall](https://techcrunch.com/2024/02/12/nhtsa-investigation-lucid-motors-air-defroster-recall/)
+- [Solar eclipse on Mars! Perseverance rover sees Martian moon Phobos cross the sun in epic video](https://www.space.com/mars-solar-eclipse-phobos-sun-perseverance-video)
+- [Spotify for Podcasters adds new integration with Riverside, sunsets some legacy podcasting tools](https://techcrunch.com/2024/02/12/spotify-for-podcasters-adds-new-integration-with-riverside-sunsets-some-legacy-podcasting-tools/)
 - [Young Mars had active volcanoes near a mile-deep lake. Could life have thrived there?](https://www.space.com/mars-volcanically-active-4-billion-years-search-for-life)
-- [Early Stage 2024 Audience Choice voting ends Feb 15](https://techcrunch.com/2024/02/12/early-stage-2024-audience-choice-voting-ends-feb-15/)
-- [Over half of Vision Pro-only apps are paid downloads, far more than wider iOS App Store](https://techcrunch.com/2024/02/12/over-half-of-vision-pro-only-apps-are-paid-downloads-far-more-than-wider-app-store/)
-- [Jeep-maker Stellantis to adopt Tesla’s charging port](https://techcrunch.com/2024/02/12/stellantis-tesla-nacs-standard-jeep-evs/)
-- [AI field trips and why we should stop setting self-driving cars on fire](https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
