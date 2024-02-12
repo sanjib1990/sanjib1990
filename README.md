@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The not-so-secret-anymore lunar mining startup](https://techcrunch.com/2024/02/12/the-not-so-secret-anymore-lunar-mining-startup/)
+- [SpaceX rolls giant Starship rocket to launch pad ahead of 3rd test flight &lpar;photos&rpar;](https://www.space.com/spacex-rolls-starship-pad-third-test-flight-photos)
 - [Hackers uncover new TheTruthSpy stalkerware victims: Is your Android device compromised?](https://techcrunch.com/2024/02/12/new-thetruthspy-stalkerware-victims-is-your-android-device-compromised/)
 - [That anti-Tesla Super Bowl ad just got the wrong kind of attention from the NTSB](https://techcrunch.com/2024/02/12/dawn-project-tesla-ad-fsd-ntsb/)
 - [Spotify’s layoffs put an end to a musical encyclopedia, and fans are pissed](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
-- [As spot bitcoin ETF volumes continue to rise, Bitwise Asset Management predicts a high ceiling for growth](https://techcrunch.com/2024/02/12/spot-bitcoin-etf-volumes-rising/)
-- [How NASA&#39;s moon landing with Intuitive Machines will help pave the way for Artemis astronaut missions](https://www.space.com/intuitive-machines-nasa-moon-landing-artemis-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
