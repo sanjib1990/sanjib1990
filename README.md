@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch China launch Smart Dragon-3 rocket from the sea &lpar;video&rpar;](https://www.space.com/china-sea-launch-smart-dragon-3-rocket-video)
-- [US Patent Office: AI is all well and good, but only humans can patent things](https://techcrunch.com/2024/02/12/us-patent-office-ai-is-all-well-and-good-but-only-humans-can-patent-things/)
-- [Greece signs Artemis Accords for responsible moon exploration](https://www.space.com/greece-signs-artemis-accords-nasa-moon-exploration)
-- [See new trailer for NatGeo&#39;s &#39;The Space Race&#39; documentary saluting Black astronauts &lpar;video&rpar;](https://www.space.com/natgeo-the-space-race-documentary-black-astronauts-trailer)
-- [Homebrew targets $50M for new fund](https://techcrunch.com/2024/02/12/homebrew-targets-50m-for-new-fund/)
+- [Hackers uncover new TheTruthSpy stalkerware victims: Is your Android device compromised?](https://techcrunch.com/2024/02/12/new-thetruthspy-stalkerware-victims-is-your-android-device-compromised/)
+- [That anti-Tesla Super Bowl ad just got the wrong kind of attention from the NTSB](https://techcrunch.com/2024/02/12/dawn-project-tesla-ad-fsd-ntsb/)
+- [Spotify’s layoffs put an end to a musical encyclopedia, and fans are pissed](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
+- [As spot bitcoin ETF volumes continue to rise, Bitwise Asset Management predicts a high ceiling for growth](https://techcrunch.com/2024/02/12/spot-bitcoin-etf-volumes-rising/)
+- [How NASA&#39;s moon landing with Intuitive Machines will help pave the way for Artemis astronaut missions](https://www.space.com/intuitive-machines-nasa-moon-landing-artemis-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
