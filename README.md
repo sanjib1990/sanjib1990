@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts may accidentally threaten Mars missions with their gut bacteria, scientists warn](https://www.space.com/human-bacteria-can-survive-mars-threatening-crewed-missions-astronauts)
+- [SpaceX to launch Starship again &#39;in about 3 weeks,&#39; Elon Musk says](https://www.space.com/space-starship-third-test-flight-three-weeks-elon-musk)
 - [Otter brings GenAI to your meetings with AI summaries, AI chat and more](https://techcrunch.com/2024/02/13/otter-brings-genai-to-your-meetings-with-ai-summaries-ai-chat-and-more/)
 - [SpaceX delays Crew-8 astronaut launch for NASA to Feb. 28 to make way for private moon mission](https://www.space.com/nasa-spacex-crew-8-international-space-station-launch-delay)
 - [Nvidia’s new tool lets you run GenAI models on a PC](https://techcrunch.com/2024/02/13/nvidias-new-tool-lets-you-run-genai-models-on-a-pc/)
-- [Pearl Jam&#39;s cosmically charged rock journey continues with new album &#39;Dark Matter&#39; — Listen to the 1st single](https://www.space.com/pearl-jam-dark-matter-new-single)
-- [Memorizer is a movie and book tracking app that also helps you find inspiration](https://techcrunch.com/2024/02/13/memorizer-is-a-movie-and-book-tracking-app-that-also-helps-you-find-inspiration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
