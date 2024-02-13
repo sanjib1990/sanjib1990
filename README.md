@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark matter detected dangling from the cosmic web for 1st time](https://www.space.com/dark-matter-detected-cosmic-web-filaments-universe-evolution-subaru-telescope)
+- [TikTok’s AI-powered Creative Assistant is now available directly in Adobe Express](https://techcrunch.com/2024/02/13/tiktoks-ai-powered-creative-assistant-is-now-available-directly-in-adobe-express/)
+- [Apple won’t be forced to open iMessage to rivals, EU decides, as it also lets three Microsoft services off DMA hook](https://techcrunch.com/2024/02/13/apple-wont-be-forced-to-open-imessage-to-rivals-eu-decides-as-it-also-lets-three-microsoft-services-off-dma-hook/)
 - [What time is SpaceX&#39;s IM-1 private moon lander launch for Intuitive Machines on Feb. 14?](https://www.space.com/spacex-intuitive-machines-im-1-moon-lander-launch-what-time)
 - [AI-powered Estonian QA startup Klaus acquired by Zendesk](https://techcrunch.com/2024/02/13/ai-powered-estonian-qa-startup-klaus-acquired-by-zendesk/)
-- [EU AI Act secures committees’ backing ahead of full parliament vote](https://techcrunch.com/2024/02/13/eu-ai-act-libe-imco-votes/)
-- [African product, global market: Expensya employees cashed out $10M from 2023 acquisition](https://techcrunch.com/2024/02/13/african-product-global-market-expensya-employees-cashed-out-10m-from-2023-acquisition/)
-- [Finom, a European challenger bank for SMEs, raises $54M](https://techcrunch.com/2024/02/13/finom-a-european-challenger-bank-for-smes-raises-54m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
