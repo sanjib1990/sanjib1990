@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [African product, global market: Expensya employees cashed out $10M from 2023 acquisition](https://techcrunch.com/2024/02/13/african-product-global-market-expensya-employees-cashed-out-10m-from-2023-acquisition/)
+- [Finom, a European challenger bank for SMEs, raises $54M](https://techcrunch.com/2024/02/13/finom-a-european-challenger-bank-for-smes-raises-54m/)
 - [FCC commissioner pushes to investigate Apple’s decision to block Beeper Mini](https://techcrunch.com/2024/02/12/fcc-commissioner-pushes-to-investigate-apples-decision-to-block-beeper-mini/)
 - [India stumped on how to cut PhonePe and Google dominance in payments](https://techcrunch.com/2024/02/12/india-stumped-on-how-to-cut-phonepe-google-dominance-in-upi-payments/)
 - [Bob W,  a European short-stay apartment rental marketplace, raises $43M](https://techcrunch.com/2024/02/12/bob-w-airbnb-like-raises-40-million-euros-premium-accommodation/)
-- [Macquarie cuts Paytm target on ‘serious risk of exodus of customers’](https://techcrunch.com/2024/02/12/paytm-target-slashed-by-macquarie-on-regulatory-woes/)
-- [President Biden has a meme strategy, and it’s leaning on Dark Brandon](https://techcrunch.com/2024/02/12/biden-dark-brandon-meme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
