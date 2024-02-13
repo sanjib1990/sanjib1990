@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The not-so-secret-anymore lunar mining startup](https://techcrunch.com/2024/02/12/the-not-so-secret-anymore-lunar-mining-startup/)
-- [SpaceX rolls giant Starship rocket to launch pad ahead of 3rd test flight &lpar;photos&rpar;](https://www.space.com/spacex-rolls-starship-pad-third-test-flight-photos)
-- [Hackers uncover new TheTruthSpy stalkerware victims: Is your Android device compromised?](https://techcrunch.com/2024/02/12/new-thetruthspy-stalkerware-victims-is-your-android-device-compromised/)
-- [That anti-Tesla Super Bowl ad just got the wrong kind of attention from the NTSB](https://techcrunch.com/2024/02/12/dawn-project-tesla-ad-fsd-ntsb/)
-- [Spotify’s layoffs put an end to a musical encyclopedia, and fans are pissed](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
+- [FCC commissioner pushes to investigate Apple’s decision to block Beeper Mini](https://techcrunch.com/2024/02/12/fcc-commissioner-pushes-to-investigate-apples-decision-to-block-beeper-mini/)
+- [India stumped on how to cut PhonePe and Google dominance in payments](https://techcrunch.com/2024/02/12/india-stumped-on-how-to-cut-phonepe-google-dominance-in-upi-payments/)
+- [Bob W,  a European short-stay apartment rental marketplace, raises $43M](https://techcrunch.com/2024/02/12/bob-w-airbnb-like-raises-40-million-euros-premium-accommodation/)
+- [Macquarie cuts Paytm target on ‘serious risk of exodus of customers’](https://techcrunch.com/2024/02/12/paytm-target-slashed-by-macquarie-on-regulatory-woes/)
+- [President Biden has a meme strategy, and it’s leaning on Dark Brandon](https://techcrunch.com/2024/02/12/biden-dark-brandon-meme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
