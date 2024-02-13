@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flash into the future with new &#39;Kingdom of the Planet of the Apes&#39; trailer &lpar;video&rpar;](https://www.space.com/kingdom-of-the-planet-of-the-apes-super-bowl-trailer)
+- [Airbnb plans to use AI, including its GamePlanner acquisition, to create the ‘ultimate concierge’](https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/)
+- [Apes ponder their place in the universe in &#39;Kingdom of the Planet of the Apes&#39; trailer &lpar;video&rpar;](https://www.space.com/kingdom-of-the-planet-of-the-apes-super-bowl-trailer)
 - [Waymo recalls and updates robotaxi software after two cars crashed into the same towed truck](https://techcrunch.com/2024/02/13/waymo-recall-crash-software-self-driving-cars/)
 - [Airbnb is making progress to get rid of those hated cleaning fees](https://techcrunch.com/2024/02/13/airbnb-is-making-progress-to-get-rid-of-those-hated-cleaning-fees/)
 - [Instacart lays off 250 employees, or 7% of its workforce, to ‘reshape’ company](https://techcrunch.com/2024/02/13/instacart-lays-off-250-employees-or-7-of-its-workforce-to-reshape-company/)
-- [SpaceX stacks giant Starship rocket ahead of 3rd test flight &lpar;video, photos&rpar;](https://www.space.com/spacex-stacks-starship-third-test-flight-video-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
