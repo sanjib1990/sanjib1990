@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fertility tracker Glow fixes bug that exposed users’ personal data](https://techcrunch.com/2024/02/13/fertility-tracker-glow-fixes-bugs-that-exposed-users-personal-data/)
-- [Mindy gets backing from Sequoia to build an email based AI assistant](https://techcrunch.com/2024/02/13/mindy-get-backing-from-sequoia-to-build-an-email-based-ai-assistant/)
-- [Bret Taylor’s new AI company aims to help customers get answers and complete tasks automatically](https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/)
-- [FlowFi takes in first funding to give founders insight into financials](https://techcrunch.com/2024/02/13/flowfi-accounting-fintech-startups/)
-- [Seal Security wants to make open-source vulnerability remediation easy](https://techcrunch.com/2024/02/13/seal-security-wants-to-make-open-source-vulnerability-remediation-easy/)
+- [Nvidia’s new tool lets you run GenAI models on a PC](https://techcrunch.com/2024/02/13/nvidias-new-tool-lets-you-run-genai-models-on-a-pc/)
+- [Pearl Jam&#39;s cosmically charged rock journey continues with new album &#39;Dark Matter&#39; — Listen to the 1st single](https://www.space.com/pearl-jam-dark-matter-new-single)
+- [Memorizer is a movie and book tracking app that also helps you find inspiration](https://techcrunch.com/2024/02/13/memorizer-is-a-movie-and-book-tracking-app-that-also-helps-you-find-inspiration/)
+- [YC-backed Cambio puts AI bots on the phone to negotiate debt, talk to a bank’s customers](https://techcrunch.com/2024/02/13/yc-backed-cambio-puts-ai-bots-on-the-phone-to-negotiate-debt-talk-to-a-banks-customers/)
+- [The Celestron Inspire 100AZ is now $80 off on Amazon](https://www.space.com/celestron-inspire-100az-deal-save-80-dollars-february-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
