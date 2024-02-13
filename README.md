@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is SpaceX&#39;s IM-1 private moon lander launch for Intuitive Machines on Feb. 14?](https://www.space.com/spacex-intuitive-machines-im-1-moon-lander-launch-what-time)
+- [AI-powered Estonian QA startup Klaus acquired by Zendesk](https://techcrunch.com/2024/02/13/ai-powered-estonian-qa-startup-klaus-acquired-by-zendesk/)
+- [EU AI Act secures committees’ backing ahead of full parliament vote](https://techcrunch.com/2024/02/13/eu-ai-act-libe-imco-votes/)
 - [African product, global market: Expensya employees cashed out $10M from 2023 acquisition](https://techcrunch.com/2024/02/13/african-product-global-market-expensya-employees-cashed-out-10m-from-2023-acquisition/)
 - [Finom, a European challenger bank for SMEs, raises $54M](https://techcrunch.com/2024/02/13/finom-a-european-challenger-bank-for-smes-raises-54m/)
-- [FCC commissioner pushes to investigate Apple’s decision to block Beeper Mini](https://techcrunch.com/2024/02/12/fcc-commissioner-pushes-to-investigate-apples-decision-to-block-beeper-mini/)
-- [India stumped on how to cut PhonePe and Google dominance in payments](https://techcrunch.com/2024/02/12/india-stumped-on-how-to-cut-phonepe-google-dominance-in-upi-payments/)
-- [Bob W,  a European short-stay apartment rental marketplace, raises $43M](https://techcrunch.com/2024/02/12/bob-w-airbnb-like-raises-40-million-euros-premium-accommodation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
