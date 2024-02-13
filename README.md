@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [President Biden has a meme strategy, and it’s leaning on Dark Brandon](https://techcrunch.com/2024/02/12/biden-dark-brandon-meme/)
 - [The not-so-secret-anymore lunar mining startup](https://techcrunch.com/2024/02/12/the-not-so-secret-anymore-lunar-mining-startup/)
 - [SpaceX rolls giant Starship rocket to launch pad ahead of 3rd test flight &lpar;photos&rpar;](https://www.space.com/spacex-rolls-starship-pad-third-test-flight-photos)
 - [Hackers uncover new TheTruthSpy stalkerware victims: Is your Android device compromised?](https://techcrunch.com/2024/02/12/new-thetruthspy-stalkerware-victims-is-your-android-device-compromised/)
 - [That anti-Tesla Super Bowl ad just got the wrong kind of attention from the NTSB](https://techcrunch.com/2024/02/12/dawn-project-tesla-ad-fsd-ntsb/)
-- [Spotify’s layoffs put an end to a musical encyclopedia, and fans are pissed](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
