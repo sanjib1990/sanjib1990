@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fertility tracker Glow fixes bug that exposed users’ personal data](https://techcrunch.com/2024/02/13/fertility-tracker-glow-fixes-bugs-that-exposed-users-personal-data/)
+- [Mindy gets backing from Sequoia to build an email based AI assistant](https://techcrunch.com/2024/02/13/mindy-get-backing-from-sequoia-to-build-an-email-based-ai-assistant/)
+- [Bret Taylor’s new AI company aims to help customers get answers and complete tasks automatically](https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/)
 - [FlowFi takes in first funding to give founders insight into financials](https://techcrunch.com/2024/02/13/flowfi-accounting-fintech-startups/)
 - [Seal Security wants to make open-source vulnerability remediation easy](https://techcrunch.com/2024/02/13/seal-security-wants-to-make-open-source-vulnerability-remediation-easy/)
-- [TechCrunch Early Stage 2024 updated agenda with Sequoia, YC, Lightspeed, Felicis, FTX and more!](https://techcrunch.com/2024/02/13/techcrunch-early-stage-2024-updated-agenda-with-sequoia-yc-lightspeed-felicis-ftx-and-more/)
-- [How will Artemis 2 astronauts exercise on the way to the moon?](https://www.space.com/artemis-2-moon-astronaut-exercise-device)
-- [Dark matter detected dangling from the cosmic web for 1st time](https://www.space.com/dark-matter-detected-cosmic-web-filaments-universe-evolution-subaru-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
