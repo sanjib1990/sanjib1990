@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Otter brings GenAI to your meetings with AI summaries, AI chat and more](https://techcrunch.com/2024/02/13/otter-brings-genai-to-your-meetings-with-ai-summaries-ai-chat-and-more/)
+- [SpaceX delays Crew-8 astronaut launch for NASA to Feb. 28 to make way for private moon mission](https://www.space.com/nasa-spacex-crew-8-international-space-station-launch-delay)
 - [Nvidia’s new tool lets you run GenAI models on a PC](https://techcrunch.com/2024/02/13/nvidias-new-tool-lets-you-run-genai-models-on-a-pc/)
 - [Pearl Jam&#39;s cosmically charged rock journey continues with new album &#39;Dark Matter&#39; — Listen to the 1st single](https://www.space.com/pearl-jam-dark-matter-new-single)
 - [Memorizer is a movie and book tracking app that also helps you find inspiration](https://techcrunch.com/2024/02/13/memorizer-is-a-movie-and-book-tracking-app-that-also-helps-you-find-inspiration/)
-- [YC-backed Cambio puts AI bots on the phone to negotiate debt, talk to a bank’s customers](https://techcrunch.com/2024/02/13/yc-backed-cambio-puts-ai-bots-on-the-phone-to-negotiate-debt-talk-to-a-banks-customers/)
-- [The Celestron Inspire 100AZ is now $80 off on Amazon](https://www.space.com/celestron-inspire-100az-deal-save-80-dollars-february-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
