@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solana-based DeFi, airdrops propel crypto wallet Phantom’s user base to new heights](https://techcrunch.com/2024/02/13/solana-crypto-wallet-phantom-userbase/)
+- [SpaceX to launch Intuitive Machines lander Feb. 14 on 2nd try for NASA&#39;s commercial moon program](https://www.space.com/intuitive-machines-lunar-lander-odysseus-spacex-launch-february-14-2024)
+- [ChatGPT will now remember — and forget — things you tell it to](https://techcrunch.com/2024/02/13/chatgpt-will-now-remember-and-forget-things-you-tell-it-to/)
+- [Flipboard just brought over 1,000 of its social magazines to Mastodon and the fediverse](https://techcrunch.com/2024/02/13/flipboard-just-brought-over-1000-of-its-social-magazines-to-mastodon-and-the-fediverse/)
 - [Astronauts may accidentally threaten Mars missions with their gut bacteria, scientists warn](https://www.space.com/human-bacteria-can-survive-mars-threatening-crewed-missions-astronauts)
-- [SpaceX to launch Starship again &#39;in about 3 weeks,&#39; Elon Musk says](https://www.space.com/space-starship-third-test-flight-three-weeks-elon-musk)
-- [Otter brings GenAI to your meetings with AI summaries, AI chat and more](https://techcrunch.com/2024/02/13/otter-brings-genai-to-your-meetings-with-ai-summaries-ai-chat-and-more/)
-- [SpaceX delays Crew-8 astronaut launch for NASA to Feb. 28 to make way for private moon mission](https://www.space.com/nasa-spacex-crew-8-international-space-station-launch-delay)
-- [Nvidia’s new tool lets you run GenAI models on a PC](https://techcrunch.com/2024/02/13/nvidias-new-tool-lets-you-run-genai-models-on-a-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
