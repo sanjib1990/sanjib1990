@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Paytm target slashed by Macquarie on regulatory woes](https://techcrunch.com/2024/02/12/paytm-target-slashed-by-macquarie-on-regulatory-woes/)
+- [Macquarie cuts Paytm target on ‘serious risk of exodus of customers’](https://techcrunch.com/2024/02/12/paytm-target-slashed-by-macquarie-on-regulatory-woes/)
 - [President Biden has a meme strategy, and it’s leaning on Dark Brandon](https://techcrunch.com/2024/02/12/biden-dark-brandon-meme/)
 - [The not-so-secret-anymore lunar mining startup](https://techcrunch.com/2024/02/12/the-not-so-secret-anymore-lunar-mining-startup/)
 - [SpaceX rolls giant Starship rocket to launch pad ahead of 3rd test flight &lpar;photos&rpar;](https://www.space.com/spacex-rolls-starship-pad-third-test-flight-photos)
