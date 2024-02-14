@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SETI searches for alien signals synchronized with supernova 1987A](https://www.space.com/seti-alien-signals-supernova-1987a-ellipsoid)
+- [TechCrunch is heading to MWC. We want to hear about your startup](https://techcrunch.com/2024/02/14/techcrunch-is-heading-to-mwc-we-want-to-hear-about-your-startup/)
+- [As Threads deprioritizes politics, Bluesky’s CEO touts custom feeds and user choice in social media](https://techcrunch.com/2024/02/14/as-threads-deprioritizes-politics-blueskys-ceo-touts-custom-feeds-and-user-choice-in-social-media/)
 - [Watch NASA unfurl basketball-court-sized solar sail for deep space propulsion &lpar;video&rpar;](https://www.space.com/nasa-redwire-space-solar-sail-test-video)
 - [These founders want a more ethical company structure for startups](https://techcrunch.com/2024/02/14/these-founders-want-a-more-ethical-company-structure-for-startups/)
-- [Singularities are a pain in the neck for robot arms — Jacobi Robotics is trying to solve them](https://techcrunch.com/2024/02/14/singularities-are-a-pain-in-the-neck-for-robot-arms-berkeley-based-jacobi-robotics-aims-to-fix-them/)
-- [Neil deGrasse Tyson&#39;s new StarTalk TV streaming channel launches on Pluto TV](https://www.space.com/neil-degrasse-tyson-startalk-tv-streaming-channel)
-- [Happy Valentine’s Day, dating app downloads are slowing down](https://techcrunch.com/2024/02/14/happy-valentines-day-dating-app-downloads-are-slowing-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
