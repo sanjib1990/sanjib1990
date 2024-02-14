@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack adds AI-fueled search and summarization to the platform](https://techcrunch.com/2024/02/14/slack-brings-ai-fueled-search-and-summarization-to-the-platform/)
-- [SpaceX launching 22 Starlink satellites from California tonight](https://www.space.com/spacex-starlink-launch-group-7-14)
-- [US military notifies 20,000 of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
-- [Best solar viewing kit 2024: Observe the April 8 solar eclipse](https://www.space.com/best-solar-viewing-kit)
-- [iOS design startup Play lets devs share app prototypes easily via App Clips](https://techcrunch.com/2024/02/14/ios-design-startup-play-lets-devs-share-app-prototypes-easily-via-app-clips/)
+- [OpenAI board member Bret Taylor has a new AI startup](https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/)
+- [HopSkipDrive beats new California ridesharing emissions targets](https://techcrunch.com/2024/02/14/hopskipdrive-beats-new-california-ridesharing-emissions-targets/)
+- [Artie helps companies put data to work faster with real time syncing](https://techcrunch.com/2024/02/14/artie-helps-companies-put-data-to-work-faster-with-real-time-syncing/)
+- [Fire but no brimstone: Where is the universe&#39;s missing sulfur?](https://www.space.com/mystery-dead-star-death-shrouds-sulfur-missing)
+- [Y Combinator puts out a new call for startups in areas like AI, spatial computing, climate tech and more](https://techcrunch.com/2024/02/14/y-combinator-puts-out-a-new-call-for-startups-in-areas-like-ai-spatial-computing-climate-tech-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
