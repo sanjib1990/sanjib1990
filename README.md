@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KTrust launches an automated red team for Kubernetes security](https://techcrunch.com/2024/02/14/ktrust-launches-an-automated-red-team-for-kubernetes-security/)
+- [SpaceX launching secret national security mission for US Space Force today](https://www.space.com/spacex-space-force-ussf-124-mission-launch)
+- [SpaceX deorbiting 100 older Starlink satellites to &#39;keep space safe and sustainable&#39;](https://www.space.com/spacex-starlink-satellites-deorbit-space-sustainability)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Spacegoods shakes up functional beverage industry with mushroom-based powders](https://techcrunch.com/2024/02/14/spacegoods-functional-beverage-mushroom/)
-- [Earlybird Health closes twice-larger second fund, will write bigger checks](https://techcrunch.com/2024/02/14/earlybird-health-fund-two/)
-- [Roam raises $24M to scale electric vehicle production in Kenya](https://techcrunch.com/2024/02/14/roam-raises-24m-series-a-funding/)
-- [Surprise! Mark Zuckerberg thinks Quest 3 is better than Vision Pro](https://techcrunch.com/2024/02/13/surprise-mark-zuckerberg-thinks-quest-3-is-better-than-vision-pro/)
-- [SpaceX delays launch of private Intuitive Machines moon lander due to methane fuel issue](https://www.space.com/spacex-delays-intuitive-machines-im-1-moon-lander-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
