@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Andrej Karpathy is leaving OpenAI again — but he says there was no drama](https://techcrunch.com/2024/02/13/andrej-karpathy-is-leaving-openai-again-but-he-says-there-was-no-drama/)
 - [Valentine&#39;s Day 2024 means 3 rocket launches, a SpaceX doubleheader and a moon probe for space lovers](https://www.space.com/valentines-day-2024-rocket-launches)
 - [Foundry Group is shutting down and won’t raise another fund](https://techcrunch.com/2024/02/13/foundry-group-is-shutting-down-and-wont-raise-another-fund/)
 - [Intuitive Machines to take its shot at reaching the moon with first private lunar lander](https://techcrunch.com/2024/02/13/intuitive-machines-to-take-its-shot-at-reaching-the-moon-with-first-private-lunar-lander/)
 - [Airbnb plans to use AI, including its GamePlanner acquisition, to create the ‘ultimate concierge’](https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/)
-- [Apes ponder their place in the universe in &#39;Kingdom of the Planet of the Apes&#39; trailer &lpar;video&rpar;](https://www.space.com/kingdom-of-the-planet-of-the-apes-super-bowl-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
