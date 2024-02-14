@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This astronaut took 5 spacewalks. Now, he&#39;s helping make spacesuits for future ISS crews &lpar;exclusive&rpar;](https://www.space.com/collins-aerospace-nasa-astronaut-spacesuits-exclusive)
+- [Equity: Bret Taylor has a brand new AI startup](https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/)
 - [How robotics and AI helped Hippo Harvest land $21M to grow lettuce](https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/)
 - [These 32 robotics companies are hiring](https://techcrunch.com/2024/02/14/these-32-robotics-companies-are-hiring/)
 - [Apple’s Vision Pro now has over 1,000 apps specifically designed for the new device](https://techcrunch.com/2024/02/14/apples-vision-pro-now-has-over-1000-apps-specifically-designed-for-the-new-device/)
-- [DuckDuckGo adds cross-device password and bookmark syncing](https://techcrunch.com/2024/02/14/duckduckgo-adds-cross-device-password-and-bookmark-syncing/)
-- [UK utility giant Southern Water says hackers stole personal data of hundreds of thousands of customers](https://techcrunch.com/2024/02/14/uk-utility-giant-southern-water-says-hackers-stole-personal-data-of-hundreds-of-thousands-of-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
