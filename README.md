@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spacegoods shakes up functional beverage industry with mushroom-based powders](https://techcrunch.com/2024/02/14/spacegoods-functional-beverage-mushroom/)
 - [Earlybird Health closes twice-larger second fund, will write bigger checks](https://techcrunch.com/2024/02/14/earlybird-health-fund-two/)
 - [Roam raises $24M to scale electric vehicle production in Kenya](https://techcrunch.com/2024/02/14/roam-raises-24m-series-a-funding/)
 - [Surprise! Mark Zuckerberg thinks Quest 3 is better than Vision Pro](https://techcrunch.com/2024/02/13/surprise-mark-zuckerberg-thinks-quest-3-is-better-than-vision-pro/)
 - [SpaceX delays launch of private Intuitive Machines moon lander due to methane fuel issue](https://www.space.com/spacex-delays-intuitive-machines-im-1-moon-lander-launch)
-- [Andrej Karpathy is leaving OpenAI again — but he says there was no drama](https://techcrunch.com/2024/02/13/andrej-karpathy-is-leaving-openai-again-but-he-says-there-was-no-drama/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
