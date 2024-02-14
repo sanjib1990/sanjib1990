@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The moon and Jupiter go on a Valentine&#39;s Day date in the night sky tonight](https://www.space.com/moon-jupiter-valentines-day-2024)
-- [This gaming startup tries to show ‘AI + crypto’ is not a fad](https://techcrunch.com/2024/02/14/this-gaming-startup-tries-to-show-ai-crypto-is-not-a-fad/)
-- [TikTok to open in-app Election Centers for EU users to tackle disinformation risks](https://techcrunch.com/2024/02/14/tiktok-eu-election-centers/)
-- [How a French health insurance unicorn plans to leverage AI to reach profitability](https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/)
-- [General Atlantic leads $50M Series C into Bold to grow digital payments in Colombia](https://techcrunch.com/2024/02/14/general-atlantic-50m-bold-digital-payments-colombia/)
+- [Slack adds AI-fueled search and summarization to the platform](https://techcrunch.com/2024/02/14/slack-brings-ai-fueled-search-and-summarization-to-the-platform/)
+- [SpaceX launching 22 Starlink satellites from California tonight](https://www.space.com/spacex-starlink-launch-group-7-14)
+- [US military notifies 20,000 of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
+- [Best solar viewing kit 2024: Observe the April 8 solar eclipse](https://www.space.com/best-solar-viewing-kit)
+- [iOS design startup Play lets devs share app prototypes easily via App Clips](https://techcrunch.com/2024/02/14/ios-design-startup-play-lets-devs-share-app-prototypes-easily-via-app-clips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
