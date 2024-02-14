@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Surprise! Mark Zuckerberg thinks Quest 3 is better than Vision Pro](https://techcrunch.com/2024/02/13/surprise-mark-zuckerberg-thinks-quest-3-is-better-than-vision-pro/)
 - [SpaceX delays launch of private Intuitive Machines moon lander due to methane fuel issue](https://www.space.com/spacex-delays-intuitive-machines-im-1-moon-lander-launch)
 - [Andrej Karpathy is leaving OpenAI again — but he says there was no drama](https://techcrunch.com/2024/02/13/andrej-karpathy-is-leaving-openai-again-but-he-says-there-was-no-drama/)
 - [Valentine&#39;s Day 2024 means 3 rocket launches, a SpaceX doubleheader and a moon probe for space lovers](https://www.space.com/valentines-day-2024-rocket-launches)
 - [Foundry Group is shutting down and won’t raise another fund](https://techcrunch.com/2024/02/13/foundry-group-is-shutting-down-and-wont-raise-another-fund/)
-- [Intuitive Machines to take its shot at reaching the moon with first private lunar lander](https://techcrunch.com/2024/02/13/intuitive-machines-to-take-its-shot-at-reaching-the-moon-with-first-private-lunar-lander/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
