@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI board member Bret Taylor has a new AI startup](https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/)
-- [HopSkipDrive beats new California ridesharing emissions targets](https://techcrunch.com/2024/02/14/hopskipdrive-beats-new-california-ridesharing-emissions-targets/)
-- [Artie helps companies put data to work faster with real time syncing](https://techcrunch.com/2024/02/14/artie-helps-companies-put-data-to-work-faster-with-real-time-syncing/)
-- [Fire but no brimstone: Where is the universe&#39;s missing sulfur?](https://www.space.com/mystery-dead-star-death-shrouds-sulfur-missing)
-- [Y Combinator puts out a new call for startups in areas like AI, spatial computing, climate tech and more](https://techcrunch.com/2024/02/14/y-combinator-puts-out-a-new-call-for-startups-in-areas-like-ai-spatial-computing-climate-tech-and-more/)
+- [How robotics and AI helped Hippo Harvest land $21M to grow lettuce](https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/)
+- [These 32 robotics companies are hiring](https://techcrunch.com/2024/02/14/these-32-robotics-companies-are-hiring/)
+- [Apple’s Vision Pro now has over 1,000 apps specifically designed for the new device](https://techcrunch.com/2024/02/14/apples-vision-pro-now-has-over-1000-apps-specifically-designed-for-the-new-device/)
+- [DuckDuckGo adds cross-device password and bookmark syncing](https://techcrunch.com/2024/02/14/duckduckgo-adds-cross-device-password-and-bookmark-syncing/)
+- [UK utility giant Southern Water says hackers stole personal data of hundreds of thousands of customers](https://techcrunch.com/2024/02/14/uk-utility-giant-southern-water-says-hackers-stole-personal-data-of-hundreds-of-thousands-of-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
