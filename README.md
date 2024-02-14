@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX will deorbit 100 Starlink satellites with unidentified flaw](https://techcrunch.com/2024/02/14/spacex-will-deorbit-100-starlink-satellites-with-unidentified-flaw/)
+- [BMW security lapse exposed sensitive company information, researcher finds](https://techcrunch.com/2024/02/14/bmw-security-lapse-exposed-sensitive-company-information-researcher-finds/)
+- [Rasa, an enterprise-focused dev platform for conversational GenAI, raises $30M](https://techcrunch.com/2024/02/14/rasa-an-enterprise-focused-dev-platform-for-conversational-genai-raises-30m/)
+- [Watch Russia launch a Valentine&#39;s Day Progress supply ship to the ISS tonight with this free livestream](https://www.space.com/russia-progress-87-cargo-launch-international-space-station)
 - [This astronaut took 5 spacewalks. Now, he&#39;s helping make spacesuits for future ISS crews &lpar;exclusive&rpar;](https://www.space.com/collins-aerospace-nasa-astronaut-spacesuits-exclusive)
-- [Equity: Bret Taylor has a brand new AI startup](https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/)
-- [How robotics and AI helped Hippo Harvest land $21M to grow lettuce](https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/)
-- [These 32 robotics companies are hiring](https://techcrunch.com/2024/02/14/these-32-robotics-companies-are-hiring/)
-- [Apple’s Vision Pro now has over 1,000 apps specifically designed for the new device](https://techcrunch.com/2024/02/14/apples-vision-pro-now-has-over-1000-apps-specifically-designed-for-the-new-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
