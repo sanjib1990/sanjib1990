@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a French health insurance unicorn plans to leverage AI to reach profitability](https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/)
+- [General Atlantic leads $50M Series C into Bold to grow digital payments in Colombia](https://techcrunch.com/2024/02/14/general-atlantic-50m-bold-digital-payments-colombia/)
 - [KTrust launches an automated red team for Kubernetes security](https://techcrunch.com/2024/02/14/ktrust-launches-an-automated-red-team-for-kubernetes-security/)
 - [SpaceX launching secret national security mission for US Space Force today](https://www.space.com/spacex-space-force-ussf-124-mission-launch)
 - [SpaceX deorbiting 100 older Starlink satellites to &#39;keep space safe and sustainable&#39;](https://www.space.com/spacex-starlink-satellites-deorbit-space-sustainability)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Spacegoods shakes up functional beverage industry with mushroom-based powders](https://techcrunch.com/2024/02/14/spacegoods-functional-beverage-mushroom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
