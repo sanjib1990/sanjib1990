@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch NASA unfurl basketball-court-sized solar sail for deep space propulsion &lpar;video&rpar;](https://www.space.com/nasa-redwire-space-solar-sail-test-video)
+- [These founders want a more ethical company structure for startups](https://techcrunch.com/2024/02/14/these-founders-want-a-more-ethical-company-structure-for-startups/)
+- [Singularities are a pain in the neck for robot arms — Jacobi Robotics is trying to solve them](https://techcrunch.com/2024/02/14/singularities-are-a-pain-in-the-neck-for-robot-arms-berkeley-based-jacobi-robotics-aims-to-fix-them/)
 - [Neil deGrasse Tyson&#39;s new StarTalk TV streaming channel launches on Pluto TV](https://www.space.com/neil-degrasse-tyson-startalk-tv-streaming-channel)
 - [Happy Valentine’s Day, dating app downloads are slowing down](https://techcrunch.com/2024/02/14/happy-valentines-day-dating-app-downloads-are-slowing-down/)
-- [&#39;Odd couple&#39; kissing stars created by unromantic cannibalistic feeding dance](https://www.space.com/odd-couple-valentines-stars-stellar-evolution-feeding-dance-cosmic-cannibalism)
-- [How to watch &#39;The Shuttle That Fell to Earth&#39; online – from anywhere](https://www.space.com/entertainment/space-movies-shows/watch-the-shuttle-that-fell-to-earth-online-from-anywhere)
-- [SpaceX will de-orbit 100 Starlink satellites with unidentified flaw](https://techcrunch.com/2024/02/14/spacex-will-deorbit-100-starlink-satellites-with-unidentified-flaw/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
