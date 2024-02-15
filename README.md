@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google makes more Gemini models available to developers](https://techcrunch.com/2024/02/15/google-makes-more-gemini-models-available-to-developers-but-needs-to-work-on-its-branding/)
-- [Google’s new Gemini model can analyze an hour-long video — but few people can use it](https://techcrunch.com/2024/02/15/googles-new-gemini-model-can-analyze-an-hour-long-video-but-few-people-can-use-it/)
-- [Why Sequoia is funding open source developers via a new equity-free fellowship](https://techcrunch.com/2024/02/15/sequoia-open-source-fellowship-developer-funding/)
-- [Scribe raises $25M Series B to automate internal knowledge capture](https://techcrunch.com/2024/02/15/scribe-raises-25m-series-b-to-automate-internal-knowledge-capture/)
-- [TikTok launches a ‘reimagined’ app for the Apple Vision Pro](https://techcrunch.com/2024/02/15/tiktok-launches-a-reimagined-app-for-the-apple-vision-pro/)
+- [Tigran Sloyan from CodeSignal talks closing the talent gap and mitigating bias in hiring](https://techcrunch.com/2024/02/15/tigran-sloyan-from-codesignal-talks-closing-the-talent-gap-and-mitigating-bias-in-hiring/)
+- [Arch has a plan to help HVAC contractors install more heat pumps](https://techcrunch.com/2024/02/15/arch-heat-pump-seed-round/)
+- [NASA&#39;s interstellar Voyager 1 spacecraft isn&#39;t doing so well — here&#39;s what we know](https://www.space.com/nasa-voyager-spacecraft-mission-deep-space-update)
+- [Bulletin is a new AI-powered news reader that tackles clickbait and summaries stories](https://techcrunch.com/2024/02/15/bulletin-is-a-new-ai-powered-news-reader-that-tackles-clickbait-and-summaries-stories/)
+- [LockBit claims cyberattack on Indian broker Motilal Oswal](https://techcrunch.com/2024/02/15/lockbit-ransomware-cyberattack-india-brokerage-firm-motilal-oswal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
