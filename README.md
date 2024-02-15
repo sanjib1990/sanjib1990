@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about &#39;Spaceman&#39;](https://www.space.com/everything-we-know-about-spaceman)
+- [Private &#39;Odysseus&#39; lander heads for the moon after SpaceX launch](https://www.space.com/intuitive-machines-odysseus-lander-on-way-to-moon)
+- [Jumia reduces losses by over 90% amid focus on restoring order and GMV growth](https://techcrunch.com/2024/02/15/jumia-reduces-losses-by-over-90-amid-focus-on-restoring-order-and-gmv-growth/)
+- [Cash App takes on Apple with a 4.5% APY for Savings Accounts &lpar;with direct deposit&rpar;](https://techcrunch.com/2024/02/15/cash-app-takes-on-apple-with-a-4-5-apy-for-savings-accounts-with-direct-deposit/)
 - [Hello is building a platform toward more home robots](https://techcrunch.com/2024/02/15/hello-robotics/)
-- [China wants to send plants, microbes and lunar resource experiments to the moon in 2028](https://www.space.com/china-microbes-plants-lunar-resource-experiments-moon-2028)
-- [Knock takes the pain out of building notification workflows](https://techcrunch.com/2024/02/15/knock-takes-the-pain-out-of-building-notification-workflows/)
-- [Google’s new AI hub in Paris proves that Google feels insecure about AI](https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/)
-- [Guardrails AI wants to crowdsource fixes for GenAI model problems](https://techcrunch.com/2024/02/15/guardrails-ai-builds-hub-for-genai-model-mitigations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
