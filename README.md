@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba faces reckoning with once-vaunted ‘new retail’ strategy](https://techcrunch.com/2024/02/15/alibabas-reckoning-with-new-retail/)
 - [SpaceX launches private &#39;Odysseus&#39; lander on pioneering moon mission &lpar;video&rpar;](https://www.space.com/spacex-launch-im-1-private-moon-landing-mission)
 - [Crypto exits remain low but investors remain unfazed](https://techcrunch.com/2024/02/14/crypto-exits-remain-low-but-investors-remain-unphased/)
 - [GM is expanding its hands-free driving system to rural highways](https://techcrunch.com/2024/02/14/gm-is-expanding-its-hands-free-driving-system-to-rural-highways/)
 - [Bluesky and Mastodon users are having a fight that could shape the next generation of social media](https://techcrunch.com/2024/02/14/bluesky-and-mastodon-users-are-having-a-fight-that-could-shape-the-next-generation-of-social-media/)
-- [Varda Space Industries finally gets approval to bring its drug manufacturing spacecraft back to Earth](https://techcrunch.com/2024/02/14/varda-space-industries-finally-gets-approval-to-bring-its-drug-manufacturing-spacecraft-back-to-earth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
