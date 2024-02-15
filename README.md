@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lunar lining: Columbia coat tech insulates Intuitive Machines&#39; newly launched moon lander](https://www.space.com/intuitive-machines-im-1-moon-lander-columbia-sportswear-insulation)
+- [Evernote and Meetup owner Bending Spoons raises $155M in equity financing](https://techcrunch.com/2024/02/15/evernote-and-meetup-owner-bending-spoons-raises-155m-in-equity-financing/)
 - [Alibaba faces reckoning with once-vaunted ‘new retail’ strategy](https://techcrunch.com/2024/02/15/alibabas-reckoning-with-new-retail/)
 - [SpaceX launches private &#39;Odysseus&#39; lander on pioneering moon mission &lpar;video&rpar;](https://www.space.com/spacex-launch-im-1-private-moon-landing-mission)
 - [Crypto exits remain low but investors remain unfazed](https://techcrunch.com/2024/02/14/crypto-exits-remain-low-but-investors-remain-unphased/)
-- [GM is expanding its hands-free driving system to rural highways](https://techcrunch.com/2024/02/14/gm-is-expanding-its-hands-free-driving-system-to-rural-highways/)
-- [Bluesky and Mastodon users are having a fight that could shape the next generation of social media](https://techcrunch.com/2024/02/14/bluesky-and-mastodon-users-are-having-a-fight-that-could-shape-the-next-generation-of-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
