@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I read comics on Apple’s Vision Pro . . . It was fine](https://techcrunch.com/2024/02/15/i-read-comics-on-apples-vision-pro-it-was-fine/)
+- [This German nonprofit is building an open voice assistant that anyone can use](https://techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/)
 - [No ‘GPT’ trademark for OpenAI](https://techcrunch.com/2024/02/15/no-gpt-trademark-for-openai/)
 - [Saturn&#39;s ocean moon Titan may not be able to support life after all](https://www.space.com/titan-ocean-saturn-moon-inhospitable-life-earth-study)
 - [Lawmakers revise Kids Online Safety Act to address LGBTQ advocates’ concerns](https://techcrunch.com/2024/02/15/lawmakers-revise-kids-online-safety-act-to-address-lgbtq-advocates-concerns/)
-- [Spyware startup Variston is losing staff, some say it’s closing](https://techcrunch.com/2024/02/15/variston-spyware-losing-staff-some-say-closing/)
-- [Crypto VC exits were low in Q4 2023, Phantom MAU’s reach new highs and spot bitcoin ETF volumes are still rising](https://techcrunch.com/2024/02/15/crypto-vc-exits-were-low-q4-2023-phantom-maus-reach-new-highs-and-spot-bitcoin-etf-volumes-are-still-rising/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
