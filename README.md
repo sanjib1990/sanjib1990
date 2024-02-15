@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky and Mastodon users are having a fight that could shape the next generation of social media](https://techcrunch.com/2024/02/14/bluesky-and-mastodon-users-are-having-a-fight-that-could-shape-the-next-generation-of-social-media/)
-- [Varda Space Industries finally gets approval to bring its drug manufacturing spacecraft back to Earth](https://techcrunch.com/2024/02/14/varda-space-industries-finally-gets-approval-to-bring-its-drug-manufacturing-spacecraft-back-to-earth/)
-- [Largest text-to-speech AI model yet shows ’emergent abilities’](https://techcrunch.com/2024/02/14/largest-text-to-speech-ai-model-yet-shows-emergent-abilities/)
 - [Water found on the surface of an asteroid for the 1st time ever](https://www.space.com/water-detected-asteroid-surface-first-time-sofia)
 - [SETI searches for alien signals synchronized with supernova 1987A](https://www.space.com/seti-alien-signals-supernova-1987a-ellipsoid)
+- [Watch NASA unfurl basketball-court-sized solar sail for deep space propulsion &lpar;video&rpar;](https://www.space.com/nasa-redwire-space-solar-sail-test-video)
+- [Neil deGrasse Tyson&#39;s new StarTalk TV streaming channel launches on Pluto TV](https://www.space.com/neil-degrasse-tyson-startalk-tv-streaming-channel)
+- [&#39;Odd couple&#39; kissing stars created by unromantic cannibalistic feeding dance](https://www.space.com/odd-couple-valentines-stars-stellar-evolution-feeding-dance-cosmic-cannibalism)
 <!-- BLOG-POST-LIST:END -->
 
 ---
