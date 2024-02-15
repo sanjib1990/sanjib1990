@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US space science could fall behind China if private successors to ISS are delayed, Congress warns](https://www.space.com/international-space-station-replacement-china-congress)
 - [Arnergy, which provides solar power systems to homes and businesses in Nigeria, raises $3M](https://techcrunch.com/2024/02/15/arnergy-which-provides-solar-power-systems-to-homes-and-businesses-in-nigeria-raises-3m/)
 - [Lunar lining: Columbia coat tech insulates Intuitive Machines&#39; newly launched moon lander](https://www.space.com/intuitive-machines-im-1-moon-lander-columbia-sportswear-insulation)
 - [Evernote and Meetup owner Bending Spoons raises $155M in equity financing](https://techcrunch.com/2024/02/15/evernote-and-meetup-owner-bending-spoons-raises-155m-in-equity-financing/)
 - [Alibaba faces reckoning with once-vaunted ‘new retail’ strategy](https://techcrunch.com/2024/02/15/alibabas-reckoning-with-new-retail/)
-- [SpaceX launches private &#39;Odysseus&#39; lander on pioneering moon mission &lpar;video&rpar;](https://www.space.com/spacex-launch-im-1-private-moon-landing-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
