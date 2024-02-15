@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello is building a platform toward more home robots](https://techcrunch.com/2024/02/15/hello-robotics/)
+- [China wants to send plants, microbes and lunar resource experiments to the moon in 2028](https://www.space.com/china-microbes-plants-lunar-resource-experiments-moon-2028)
+- [Knock takes the pain out of building notification workflows](https://techcrunch.com/2024/02/15/knock-takes-the-pain-out-of-building-notification-workflows/)
+- [Google’s new AI hub in Paris proves that Google feels insecure about AI](https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/)
 - [Guardrails AI wants to crowdsource fixes for GenAI model problems](https://techcrunch.com/2024/02/15/guardrails-ai-builds-hub-for-genai-model-mitigations/)
-- [1st look: Marvel Comics to adapt &#39;Ahsoka&#39; into summer &#39;Star Wars&#39; miniseries](https://www.space.com/disney-plus-star-wars-ahsoka-comic-book-miniseries)
-- [SocialCrowd raises $1.6M pre-seed as venture interest in work software remains high](https://techcrunch.com/2024/02/15/socialcrowd-raises-1-6m-pre-seed-as-venture-interest-in-work-software-remains-high/)
-- [VR sickness happens. Here’s how to avoid and treat it.](https://techcrunch.com/2024/02/15/vr-sickness-happens-heres-how-to-avoid-and-treat-it/)
-- [Meta says it will pass on the Apple tax to advertisers paying to boost posts on Facebook and Instagram](https://techcrunch.com/2024/02/15/meta-says-it-will-pass-on-the-apple-tax-to-advertisers-paying-to-boost-posts-on-facebook-and-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
