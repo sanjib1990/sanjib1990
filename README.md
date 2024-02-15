@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No ‘GPT’ trademark for OpenAI](https://techcrunch.com/2024/02/15/no-gpt-trademark-for-openai/)
+- [Saturn&#39;s ocean moon Titan may not be able to support life after all](https://www.space.com/titan-ocean-saturn-moon-inhospitable-life-earth-study)
+- [Lawmakers revise Kids Online Safety Act to address LGBTQ advocates’ concerns](https://techcrunch.com/2024/02/15/lawmakers-revise-kids-online-safety-act-to-address-lgbtq-advocates-concerns/)
 - [Spyware startup Variston is losing staff, some say it’s closing](https://techcrunch.com/2024/02/15/variston-spyware-losing-staff-some-say-closing/)
 - [Crypto VC exits were low in Q4 2023, Phantom MAU’s reach new highs and spot bitcoin ETF volumes are still rising](https://techcrunch.com/2024/02/15/crypto-vc-exits-were-low-q4-2023-phantom-maus-reach-new-highs-and-spot-bitcoin-etf-volumes-are-still-rising/)
-- [China eyes May 2024 launch for 1st-ever lunar sample-return mission to moon&#39;s far side](https://www.space.com/china-moon-mission-change-6-may-2024-launch)
-- [OpenAI’s newest model Sora can generate videos — and they look decent](https://techcrunch.com/2024/02/15/openais-newest-model-can-generate-videos-and-they-look-decent/)
-- [Apple confirms it’s breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
