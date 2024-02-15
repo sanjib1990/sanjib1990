@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tigran Sloyan from CodeSignal talks closing the talent gap and mitigating bias in hiring](https://techcrunch.com/2024/02/15/tigran-sloyan-from-codesignal-talks-closing-the-talent-gap-and-mitigating-bias-in-hiring/)
-- [Arch has a plan to help HVAC contractors install more heat pumps](https://techcrunch.com/2024/02/15/arch-heat-pump-seed-round/)
-- [NASA&#39;s interstellar Voyager 1 spacecraft isn&#39;t doing so well — here&#39;s what we know](https://www.space.com/nasa-voyager-spacecraft-mission-deep-space-update)
-- [Bulletin is a new AI-powered news reader that tackles clickbait and summaries stories](https://techcrunch.com/2024/02/15/bulletin-is-a-new-ai-powered-news-reader-that-tackles-clickbait-and-summaries-stories/)
-- [LockBit claims cyberattack on Indian broker Motilal Oswal](https://techcrunch.com/2024/02/15/lockbit-ransomware-cyberattack-india-brokerage-firm-motilal-oswal/)
+- [Guardrails AI wants to crowdsource fixes for GenAI model problems](https://techcrunch.com/2024/02/15/guardrails-ai-builds-hub-for-genai-model-mitigations/)
+- [1st look: Marvel Comics to adapt &#39;Ahsoka&#39; into summer &#39;Star Wars&#39; miniseries](https://www.space.com/disney-plus-star-wars-ahsoka-comic-book-miniseries)
+- [SocialCrowd raises $1.6M pre-seed as venture interest in work software remains high](https://techcrunch.com/2024/02/15/socialcrowd-raises-1-6m-pre-seed-as-venture-interest-in-work-software-remains-high/)
+- [VR sickness happens. Here’s how to avoid and treat it.](https://techcrunch.com/2024/02/15/vr-sickness-happens-heres-how-to-avoid-and-treat-it/)
+- [Meta says it will pass on the Apple tax to advertisers paying to boost posts on Facebook and Instagram](https://techcrunch.com/2024/02/15/meta-says-it-will-pass-on-the-apple-tax-to-advertisers-paying-to-boost-posts-on-facebook-and-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
