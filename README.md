@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Video game startups could be a bright spot for VC in 2024](https://techcrunch.com/2024/02/16/video-game-startups-venture-capital-2024/)
+- [Yes, Threads is running a fact-checking program, but the system isn’t fully rolled out](https://techcrunch.com/2024/02/16/yes-threads-is-running-a-fact-checking-program-but-the-system-isnt-fully-rolled-out/)
+- [What we expect from MWC 2024](https://techcrunch.com/2024/02/16/what-we-expect-from-mwc-2024/)
 - [Poor people need not apply for this dating app](https://techcrunch.com/2024/02/16/poor-people-need-not-apply-for-this-dating-app/)
 - [Watch Russian Progress cargo ship arrive at the ISS early Feb. 17](https://www.space.com/russia-progress-87-cargo-ship-iss-docking)
-- [Tech giants sign voluntary pledge to fight election-related deepfakes](https://techcrunch.com/2024/02/16/tech-giants-sign-voluntary-pledge-to-fight-election-related-deepfakes/)
-- [Foundry is shutting down in slow motion](https://techcrunch.com/2024/02/16/foundry-shutting-down/)
-- [The hard tech renaissance accelerates as YC spotlights space, manufacturing and defense](https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
