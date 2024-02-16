@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I ditched my Raspberry Pi for this](https://www.youtube.com/watch?v=5FhDrux0kCc)
 - [Zuck’s brutal takedown of Apple Vision Pro](https://www.youtube.com/watch?v=DuqLkG75BE8)
 - [Chill Stream + AMA](https://www.youtube.com/watch?v=dZ4l-pUG7jo)
 - [how god programmed birds probably](https://www.youtube.com/watch?v=X8LglXSG53A)
 - [this is why you&#39;re addicted to cloud computing](https://www.youtube.com/watch?v=4Wa5DivljOM)
-- [Lecture 18: Discrete Symmetries](https://www.youtube.com/watch?v=pRmAa-UyVg8)
 <!-- YOUTUBE:END -->
 
 ---
