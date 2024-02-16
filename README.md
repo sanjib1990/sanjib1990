@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [$13M and 3 years later, Superlist hopes to become a Decacorn. But will it?](https://techcrunch.com/2024/02/16/superlist/)
+- [Get ready for the 2024 total solar eclipse with Space.com&#39;s &#39;Eclipses&#39; bookazine](https://www.space.com/all-about-space-2024-solar-eclipse-edition)
+- [Pitch Deck Teardown: Equals’ $16M Series A deck](https://techcrunch.com/2024/02/16/sample-series-a-pitch-deck-equals/)
+- [Feds open second probe into Fisker’s Ocean SUV after rollaway complaints](https://techcrunch.com/2024/02/16/fisker-ocean-rollaway-nhtsa-investigation/)
+- [$13M and 3 years later, Superlist hopes to become a decacorn. But will it?](https://techcrunch.com/2024/02/16/superlist/)
 - [Amateur astronomers can make breathtaking discoveries. This new photobook on Kickstarter shows how](https://www.space.com/first-photobook-amateur-astronomers-route-de-la-belle-etoile)
-- [Epic Games CEO suggests Apple broke iPhone web apps in the EU for anticompetitive reasons](https://techcrunch.com/2024/02/16/epic-games-ceo-suggests-apple-broke-iphone-web-apps-in-the-eu-for-anticompetitive-reasons/)
-- [Atlas helps companies offer contractor benefits no matter where they are located](https://techcrunch.com/2024/02/16/atlas-contractor-benefits/)
-- [Foundry is shutting down in slow motion](https://techcrunch.com/2024/02/16/foundry-shutting-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
