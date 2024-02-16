@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ISS astronauts show what it&#39;s like to capture a spacecraft with a robotic arm &lpar;video&rpar;](https://www.space.com/iss-astronauts-spacecraft-canadarm2-robot-arm-capture)
-- [San Francisco Giants replace Cruise self-driving car uniform patch with another GM brand](https://techcrunch.com/2024/02/16/san-francisco-giants-replace-cruise-self-driving-car-uniform-patch-with-another-gm-brand/)
-- [Faraday Future is danger of losing LA headquarters for failing to pay rent](https://techcrunch.com/2024/02/16/faraday-future-headquarters-rent/)
-- [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/)
-- [Fortnite will return to iOS in Europe thanks to DMA](https://techcrunch.com/2024/02/16/fortnite-will-return-to-ios-in-europe-thanks-to-dma/)
+- [Poor people need not apply for this dating app](https://techcrunch.com/2024/02/16/poor-people-need-not-apply-for-this-dating-app/)
+- [Watch Russian Progress cargo ship arrive at the ISS early Feb. 17](https://www.space.com/russia-progress-87-cargo-ship-iss-docking)
+- [Tech giants sign voluntary pledge to fight election-related deepfakes](https://techcrunch.com/2024/02/16/tech-giants-sign-voluntary-pledge-to-fight-election-related-deepfakes/)
+- [Foundry is shutting down in slow motion](https://techcrunch.com/2024/02/16/foundry-shutting-down/)
+- [The hard tech renaissance accelerates as YC spotlights space, manufacturing and defense](https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
