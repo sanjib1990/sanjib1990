@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Japan launch its H3 rocket on return-to-flight mission tonight](https://www.space.com/japan-h3-rocket-launch-return-to-flight-webcast)
 - [Pacifico Biolabs emerges from stealth with fermentation process for alternative seafood](https://techcrunch.com/2024/02/16/pacifico-biolabs-fermentation-alternative-seafood/)
 - [India may block Proton Mail](https://techcrunch.com/2024/02/16/india-may-block-proton-mail/)
 - [European digital rights group say the future of online privacy is on a knife edge](https://techcrunch.com/2024/02/15/no-consent-or-pay-pls/)
 - [How Neara uses AI to protect utilities from extreme weather](https://techcrunch.com/2024/02/15/neara-ai/)
-- [After rockets and spacecraft, Rocket Lab’s next frontier could be applications](https://techcrunch.com/2024/02/15/after-rockets-and-spacecraft-rocket-labs-next-frontier-could-be-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
