@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX and NASA say Crew-8 astronauts won&#39;t launch to ISS until March 1 after private moonshot](https://www.space.com/spacex-nasa-crew-8-astronaut-launch-march-2024-delay)
-- [How to photograph a solar eclipse with a smartphone 2024 — 8 tips from an expert](https://www.space.com/how-to-photograph-a-solar-eclipse-with-a-smartphone)
-- [See the moon meet up with the Seven Sisters of the Pleiades tonight](https://www.space.com/moon-pleiades-lunar-x-v-february-2024)
-- [Could the solar system be teeming with interstellar objects? We&#39;ll soon find out &lpar;op-ed&rpar;](https://www.space.com/solar-system-interstellar-object-search-lsst-jwst)
-- [Indian regulator extends Paytm Payments Bank restrictions deadline](https://techcrunch.com/2024/02/16/india-central-bank-extends-some-paytm-payments-bank-restrictions-deadline-to-march-15/)
+- [$13M and 3 years later, Superlist hopes to become a Decacorn. But will it?](https://techcrunch.com/2024/02/16/superlist/)
+- [Amateur astronomers can make breathtaking discoveries. This new photobook on Kickstarter shows how](https://www.space.com/first-photobook-amateur-astronomers-route-de-la-belle-etoile)
+- [Epic Games CEO suggests Apple broke iPhone web apps in the EU for anticompetitive reasons](https://techcrunch.com/2024/02/16/epic-games-ceo-suggests-apple-broke-iphone-web-apps-in-the-eu-for-anticompetitive-reasons/)
+- [Atlas helps companies offer contractor benefits no matter where they are located](https://techcrunch.com/2024/02/16/atlas-contractor-benefits/)
+- [Foundry is shutting down in slow motion](https://techcrunch.com/2024/02/16/foundry-shutting-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
