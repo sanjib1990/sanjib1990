@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India may block Proton Mail](https://techcrunch.com/2024/02/16/india-may-block-proton-mail/)
 - [European digital rights group say the future of online privacy is on a knife edge](https://techcrunch.com/2024/02/15/no-consent-or-pay-pls/)
 - [How Neara uses AI to protect utilities from extreme weather](https://techcrunch.com/2024/02/15/neara-ai/)
 - [After rockets and spacecraft, Rocket Lab’s next frontier could be applications](https://techcrunch.com/2024/02/15/after-rockets-and-spacecraft-rocket-labs-next-frontier-could-be-applications/)
 - [OpenAI’s Sora video-generating model can render video games, too](https://techcrunch.com/2024/02/15/openais-sora-video-generating-model-can-render-video-games-too/)
-- [Save 30% on the absolutely massive Lego Marvel Hulkbuster](https://www.space.com/lego-marvel-hulkbuster-30-percent-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
