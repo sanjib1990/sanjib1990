@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon meet up with the Seven Sisters of the Pleiades tonight](https://www.space.com/moon-pleiades-lunar-x-v-february-2024)
 - [Could the solar system be teeming with interstellar objects? We&#39;ll soon find out &lpar;op-ed&rpar;](https://www.space.com/solar-system-interstellar-object-search-lsst-jwst)
-- [India’s central bank extends Paytm Payments Bank restrictions deadline](https://techcrunch.com/2024/02/16/india-central-bank-extends-some-paytm-payments-bank-restrictions-deadline-to-march-15/)
+- [Indian regulator extends Paytm Payments Bank restrictions deadline](https://techcrunch.com/2024/02/16/india-central-bank-extends-some-paytm-payments-bank-restrictions-deadline-to-march-15/)
 - [Clubhouse’s new feature turns your texts into custom voice messages](https://techcrunch.com/2024/02/16/clubhouses-new-feature-turns-your-texts-into-custom-voice-messages/)
 - [Anthropic takes steps to prevent election misinformation](https://techcrunch.com/2024/02/16/anthropic-takes-steps-to-prevent-election-misinformation/)
-- [Watch Japan launch its H3 rocket on return-to-flight mission tonight](https://www.space.com/japan-h3-rocket-launch-return-to-flight-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
