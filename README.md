@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s central bank extends some Paytm Payments Bank restrictions deadline to March 15](https://techcrunch.com/2024/02/16/india-central-bank-extends-some-paytm-payments-bank-restrictions-deadline-to-march-15/)
+- [Clubhouse’s new feature turns your texts into custom voice messages](https://techcrunch.com/2024/02/16/clubhouses-new-feature-turns-your-texts-into-custom-voice-messages/)
+- [Anthropic takes steps to prevent election misinformation](https://techcrunch.com/2024/02/16/anthropic-takes-steps-to-prevent-election-misinformation/)
 - [Watch Japan launch its H3 rocket on return-to-flight mission tonight](https://www.space.com/japan-h3-rocket-launch-return-to-flight-webcast)
 - [Pacifico Biolabs emerges from stealth with fermentation process for alternative seafood](https://techcrunch.com/2024/02/16/pacifico-biolabs-fermentation-alternative-seafood/)
-- [India may block Proton Mail](https://techcrunch.com/2024/02/16/india-may-block-proton-mail/)
-- [European digital rights group say the future of online privacy is on a knife edge](https://techcrunch.com/2024/02/15/no-consent-or-pay-pls/)
-- [How Neara uses AI to protect utilities from extreme weather](https://techcrunch.com/2024/02/15/neara-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
