@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After rockets and spacecraft, Rocket Lab’s next frontier could be applications](https://techcrunch.com/2024/02/15/after-rockets-and-spacecraft-rocket-labs-next-frontier-could-be-applications/)
+- [OpenAI’s Sora video-generating model can render video games, too](https://techcrunch.com/2024/02/15/openais-sora-video-generating-model-can-render-video-games-too/)
+- [Save 30% on the absolutely massive Lego Marvel Hulkbuster](https://www.space.com/lego-marvel-hulkbuster-30-percent-off)
 - [FTC seeks to modify rule to combat deepfakes](https://techcrunch.com/2024/02/15/ftc-seeks-to-modify-rule-to-combat-deepfakes/)
 - [Coinbase cites stablecoins, Base as key 2024 priorities after crushing Q4 estimates](https://techcrunch.com/2024/02/15/coinbase-cites-stablecoins-base-as-key-2024-priorities-after-crushing-q4-estimates/)
-- [I read comics on Apple’s Vision Pro . . . It was fine](https://techcrunch.com/2024/02/15/i-read-comics-on-apples-vision-pro-it-was-fine/)
-- [This German nonprofit is building an open voice assistant that anyone can use](https://techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/)
-- [No ‘GPT’ trademark for OpenAI](https://techcrunch.com/2024/02/15/no-gpt-trademark-for-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
