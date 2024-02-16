@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch India launch powerful weather satellite to orbit on Feb. 17](https://www.space.com/india-insat-3ds-weather-satellite-launch)
-- [Google tests a feature that calls businesses on your behalf and holds until an agent is available](https://techcrunch.com/2024/02/16/google-tests-a-feature-that-calls-businesses-on-your-behalf-and-holds-until-an-agent-is-available/)
-- [Russia&#39;s nuclear anti-satellite weapon poses &#39;no immediate threat&#39; to Earth, White House says](https://www.space.com/russia-nuclear-anti-satellite-weapon-no-threat-to-earth)
-- [Animoca Brands’ Yat Siu sees NFTs as a way to protect ownership in the age of AI](https://techcrunch.com/2024/02/16/animoca-brands-yat-siu-sees-nfts-as-a-way-to-protect-ownership-in-the-age-of-ai/)
-- [Europe’s Digital Services Act applies in full from tomorrow — here’s what you need to know](https://techcrunch.com/2024/02/16/eu-dsa-psa/)
+- [ISS astronauts show what it&#39;s like to capture a spacecraft with a robotic arm &lpar;video&rpar;](https://www.space.com/iss-astronauts-spacecraft-canadarm2-robot-arm-capture)
+- [San Francisco Giants replace Cruise self-driving car uniform patch with another GM brand](https://techcrunch.com/2024/02/16/san-francisco-giants-replace-cruise-self-driving-car-uniform-patch-with-another-gm-brand/)
+- [Faraday Future is danger of losing LA headquarters for failing to pay rent](https://techcrunch.com/2024/02/16/faraday-future-headquarters-rent/)
+- [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/)
+- [Fortnite will return to iOS in Europe thanks to DMA](https://techcrunch.com/2024/02/16/fortnite-will-return-to-ios-in-europe-thanks-to-dma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
