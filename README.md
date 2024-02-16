@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Get ready for the 2024 total solar eclipse with Space.com&#39;s &#39;Eclipses&#39; bookazine](https://www.space.com/all-about-space-2024-solar-eclipse-edition)
-- [Pitch Deck Teardown: Equals’ $16M Series A deck](https://techcrunch.com/2024/02/16/sample-series-a-pitch-deck-equals/)
-- [Feds open second probe into Fisker’s Ocean SUV after rollaway complaints](https://techcrunch.com/2024/02/16/fisker-ocean-rollaway-nhtsa-investigation/)
-- [$13M and 3 years later, Superlist hopes to become a decacorn. But will it?](https://techcrunch.com/2024/02/16/superlist/)
-- [Amateur astronomers can make breathtaking discoveries. This new photobook on Kickstarter shows how](https://www.space.com/first-photobook-amateur-astronomers-route-de-la-belle-etoile)
+- [Watch India launch powerful weather satellite to orbit on Feb. 17](https://www.space.com/india-insat-3ds-weather-satellite-launch)
+- [Google tests a feature that calls businesses on your behalf and holds until an agent is available](https://techcrunch.com/2024/02/16/google-tests-a-feature-that-calls-businesses-on-your-behalf-and-holds-until-an-agent-is-available/)
+- [Russia&#39;s nuclear anti-satellite weapon poses &#39;no immediate threat&#39; to Earth, White House says](https://www.space.com/russia-nuclear-anti-satellite-weapon-no-threat-to-earth)
+- [Animoca Brands’ Yat Siu sees NFTs as a way to protect ownership in the age of AI](https://techcrunch.com/2024/02/16/animoca-brands-yat-siu-sees-nfts-as-a-way-to-protect-ownership-in-the-age-of-ai/)
+- [Europe’s Digital Services Act applies in full from tomorrow — here’s what you need to know](https://techcrunch.com/2024/02/16/eu-dsa-psa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
