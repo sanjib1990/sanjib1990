@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI releases Sora, a credit score–based dating app launches and an anti-Tesla ad comes under fire](https://techcrunch.com/2024/02/17/openai-releases-sora-a-credit-score-based-dating-app-launches-and-an-anti-tesla-ad-comes-under-fire/)
 - [Private Odysseus moon lander beams home 1st photos from space](https://www.space.com/intuitive-machines-odysseus-moon-lander-first-photos)
 - [Y Combinator wants 100 times more MRI scans](https://techcrunch.com/2024/02/17/y-combinator-mri-cancer/)
 - [Groover connects artists with tastemakers to help them find their audience](https://techcrunch.com/2024/02/17/groover-independent-artists-song-discovery/)
 - [Women In AI: Irene Solaiman, head of global policy at Hugging Face](https://techcrunch.com/2024/02/17/women-in-ai-irene-solaiman-head-of-global-policy-at-hugging-face/)
-- [The women in AI making a difference](https://techcrunch.com/2024/02/17/the-women-in-ai-making-a-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
