@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get a sneak peek inside the Artemis 2 spacecraft that will fly astronauts to the moon for the 1st time in 50 years &lpar;photos&rpar;](https://www.space.com/artemis-2-orion-spacecraft-look-inside-photos)
+- [Blue Origin&#39;s New Glenn rocket simulator seen on launchpad from space &lpar;photos&rpar;](https://www.space.com/blue-origin-new-glenn-launchpad-satellite-photos)
+- [Why are ransomware gangs making so much money?](https://techcrunch.com/2024/02/17/why-ransomware-makes-so-much-money/)
+- [NASA&#39;s Voyager 1 glitch has scientists sad yet hopeful: &#39;Voyager 2 is still going strong&#39;](https://www.space.com/nasa-voyager1-spacecraft-interstellar-engineers-mission-glitch)
 - [Solar eclipse jam: How to avoid getting stuck in traffic on April 8, 2024](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse)
-- [A peek inside Alphabet’s $7 billion growth-stage investing arm, CapitalG](https://techcrunch.com/2024/02/16/a-peek-at-how-things-work-today-inside-alphabets-7-billion-growth-stage-investing-arm-capitalg/)
-- [Japan&#39;s new H3 rocket reaches orbit for 1st time &lpar;video&rpar;](https://www.space.com/japan-h3-rocket-reaches-orbit-first-time)
-- [Last chance! Grab the Lego Marvel Black Panther bust for 40% off](https://www.space.com/lego-black-panther-40-percent-off)
-- [Amazon and SpaceX are quietly trying to demolish national labor law](https://techcrunch.com/2024/02/16/amazon-and-spacex-are-quietly-trying-to-demolish-national-labor-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
