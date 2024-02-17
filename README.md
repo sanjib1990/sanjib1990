@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uruguay signs Artemis Accords for responsible space exploration](https://www.space.com/nasa-artemis-accords-uruguay-moon-exploration)
 - [Get a sneak peek inside the Artemis 2 spacecraft that will fly astronauts to the moon for the 1st time in 50 years &lpar;photos&rpar;](https://www.space.com/artemis-2-orion-spacecraft-look-inside-photos)
 - [Blue Origin&#39;s New Glenn rocket simulator seen on launchpad from space &lpar;photos&rpar;](https://www.space.com/blue-origin-new-glenn-launchpad-satellite-photos)
 - [Why are ransomware gangs making so much money?](https://techcrunch.com/2024/02/17/why-ransomware-makes-so-much-money/)
 - [NASA&#39;s Voyager 1 glitch has scientists sad yet hopeful: &#39;Voyager 2 is still going strong&#39;](https://www.space.com/nasa-voyager1-spacecraft-interstellar-engineers-mission-glitch)
-- [Solar eclipse jam: How to avoid getting stuck in traffic on April 8, 2024](https://www.space.com/how-to-avoid-traffic-2024-total-solar-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
