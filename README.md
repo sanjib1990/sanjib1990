@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s new H3 rocket reaches orbit for 1st time &lpar;video&rpar;](https://www.space.com/japan-h3-rocket-reaches-orbit-first-time)
+- [Last chance! Grab the Lego Marvel Black Panther bust for 40% off](https://www.space.com/lego-black-panther-40-percent-off)
 - [Amazon and SpaceX are quietly trying to demolish national labor law](https://techcrunch.com/2024/02/16/amazon-and-spacex-are-quietly-trying-to-demolish-national-labor-law/)
 - [Can’t decide between Bluesky, Mastodon and Nostr? Nootti’s new app lets you post to all three.](https://techcrunch.com/2024/02/16/cant-decide-between-bluesky-mastodon-and-nostr-noottis-new-app-lets-you-post-to-all-three/)
 - [NASA has more than twice the asteroid Bennu samples it could have hoped for from OSIRIS-REx probe](https://www.space.com/nasa-osiris-rex-asteroid-sample-total-weight)
-- [Video game startups could be a bright spot for VC in 2024](https://techcrunch.com/2024/02/16/video-game-startups-venture-capital-2024/)
-- [Yes, Threads is running a fact-checking program, but the system isn’t fully rolled out](https://techcrunch.com/2024/02/16/yes-threads-is-running-a-fact-checking-program-but-the-system-isnt-fully-rolled-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
