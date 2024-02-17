@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deal Dive: Groover bridges the promotion gap for independent artists](https://techcrunch.com/2024/02/17/groover-independent-artists-song-discovery/)
+- [Y Combinator wants 100 times more MRI scans](https://techcrunch.com/2024/02/17/y-combinator-mri-cancer/)
+- [Groover connects artists with tastemakers to help them find their audience](https://techcrunch.com/2024/02/17/groover-independent-artists-song-discovery/)
 - [Women In AI: Irene Solaiman, head of global policy at Hugging Face](https://techcrunch.com/2024/02/17/women-in-ai-irene-solaiman-head-of-global-policy-at-hugging-face/)
 - [The women in AI making a difference](https://techcrunch.com/2024/02/17/the-women-in-ai-making-a-difference/)
 - [This Week In Space podcast: Episode 98 — Inside NASA with Pam Melroy](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-98-inside-nasa-pam-melroy)
-- [Uruguay signs Artemis Accords for responsible space exploration](https://www.space.com/nasa-artemis-accords-uruguay-moon-exploration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
