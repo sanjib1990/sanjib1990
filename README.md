@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal Ventures’ first AI investment, a credit-based dating app and Robinhood’s good week](https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/)
 - [Our universe is merging with &#39;baby universes&#39;, causing it to expand, new theoretical study suggests](https://www.space.com/universe-merging-with-baby-universes-causing-expansion)
 - [Watch trailer for &#39;Space: The Longest Goodbye,&#39; new film exploring astronaut mental health &lpar;video&rpar;](https://www.space.com/space-longest-goodbye-documentary-astronaut-mental-health)
 - [I put Abisko&#39;s &#39;cloud-busting weapon&#39; to the test during a Sweden northern lights adventure and was not disappointed](https://www.space.com/northern-lights-abisko-sweden-blue-hole)
-- [Watch Rocket Lab launch bold space-junk inspection mission today](https://www.space.com/rocket-lab-launch-astroscale-space-junk-inspection-mission)
-- [Dutch startup Monumental is using robots to lay bricks](https://techcrunch.com/2024/02/17/dutch-startup-monumental-is-using-robots-to-lay-bricks/)
+- [Rocket Lab launches ADRAS-J space junk inspection satellite for Astroscale &lpar;video&rpar;](https://www.space.com/rocket-lab-launch-astroscale-space-junk-inspection-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
