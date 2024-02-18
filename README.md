@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch trailer for &#39;Space: The Longest Goodbye,&#39; new film exploring astronaut mental health &lpar;video&rpar;](https://www.space.com/space-longest-goodbye-documentary-astronaut-mental-health)
 - [I put Abisko&#39;s &#39;cloud-busting weapon&#39; to the test during a Sweden northern lights adventure and was not disappointed](https://www.space.com/northern-lights-abisko-sweden-blue-hole)
 - [Watch Rocket Lab launch bold space-junk inspection mission today](https://www.space.com/rocket-lab-launch-astroscale-space-junk-inspection-mission)
 - [Dutch startup Monumental is using robots to lay bricks](https://techcrunch.com/2024/02/17/dutch-startup-monumental-is-using-robots-to-lay-bricks/)
 - [OpenAI releases Sora, a credit score–based dating app launches and an anti-Tesla ad comes under fire](https://techcrunch.com/2024/02/17/openai-releases-sora-a-credit-score-based-dating-app-launches-and-an-anti-tesla-ad-comes-under-fire/)
-- [Private Odysseus moon lander beams home 1st photos from space](https://www.space.com/intuitive-machines-odysseus-moon-lander-first-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
