@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own moon base and explore the lunar surface in &#39;Moonshot&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/build-your-own-moon-base-and-explore-the-lunar-surface-in-moonshot-video)
 - [Dili wants to automate due diligence with AI](https://techcrunch.com/2024/02/19/dili-wants-to-automate-due-diligence-with-ai/)
 - [NASA&#39;s twin spacecraft will go to the ends of the Earth to combat climate change](https://www.space.com/nasa-twin-spacecraft-earth-ends-climate-change)
 - [SoftBank’s Masayoshi Son is reportedly seeking $100B to build a new AI chip venture](https://techcrunch.com/2024/02/19/softbanks-masayoshi-son-is-reportedly-seeking-100b-to-build-a-new-ai-chip-venture/)
 - [Varda&#39;s 1st in-space manufacturing capsule to land in Utah this week](https://www.space.com/varda-first-in-space-manufacturing-capsule-landing-preview)
-- [EU opens formal probe of TikTok under Digital Services Act, citing child safety, risk management and other concerns](https://techcrunch.com/2024/02/19/tiktok-dsa-probe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
