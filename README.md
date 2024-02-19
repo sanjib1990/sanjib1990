@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Partech closes its second Africa fund at $300M+ to invest from seed to Series C](https://techcrunch.com/2024/02/19/partech-closes-its-second-africa-fund-at-300m-to-invest-from-seed-to-series-c/)
+- [State of venture investments in India, according to Lightspeed](https://techcrunch.com/2024/02/19/state-of-venture-investments-in-india-according-to-lightspeed/)
 - [Ford preps for its next big fight, Waymo recalls its self-driving car software and layoffs come for another AV startup](https://techcrunch.com/2024/02/18/ford-preps-for-its-next-big-fight-waymo-recalls-its-self-driving-car-software-and-layoffs-come-for-another-av-startup/)
 - [Family tragedy for former YouTube CEO Susan Wojcicki](https://techcrunch.com/2024/02/18/family-tragedy-for-former-youtube-ceo-susan-wojcicki/)
 - [Miruku grabs more capital as its plant-based dairy tech reaches proof of concept](https://techcrunch.com/2024/02/18/miruku-plant-dairy-food-tech/)
-- [With Twilio under activist pressure, Segment could be put up for sale](https://techcrunch.com/2024/02/18/twilio-activist-pressure-segment-sale/)
-- [Women In AI: Eva Maydell, member of European Parliament and EU AI Act advisor](https://techcrunch.com/2024/02/18/women-in-ai-eva-maydell-member-of-european-parliament-and-eu-ai-act-advisor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
