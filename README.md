@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dili wants to automate due diligence with AI](https://techcrunch.com/2024/02/19/dili-wants-to-automate-due-diligence-with-ai/)
+- [NASA&#39;s twin spacecraft will go to the ends of the Earth to combat climate change](https://www.space.com/nasa-twin-spacecraft-earth-ends-climate-change)
 - [SoftBank’s Masayoshi Son is reportedly seeking $100B to build a new AI chip venture](https://techcrunch.com/2024/02/19/softbanks-masayoshi-son-is-reportedly-seeking-100b-to-build-a-new-ai-chip-venture/)
 - [Varda&#39;s 1st in-space manufacturing capsule to land in Utah this week](https://www.space.com/varda-first-in-space-manufacturing-capsule-landing-preview)
 - [EU opens formal probe of TikTok under Digital Services Act, citing child safety, risk management and other concerns](https://techcrunch.com/2024/02/19/tiktok-dsa-probe/)
-- [Big, doomed satellite seen from space as it tumbles towards a fiery reentry on Feb. 21 &lpar;photos&rpar;](https://www.space.com/satelitte-ers-2-esa-heo-robotics-commercial-imaging-photos)
-- [Partech closes its second Africa fund at $300M+ to invest from seed to Series C](https://techcrunch.com/2024/02/19/partech-closes-its-second-africa-fund-at-300m-to-invest-from-seed-to-series-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
