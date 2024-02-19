@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For this dead star, 72 Earth years is a single day](https://www.space.com/dead-white-dwarf-star-system-binary-72-years-one-day)
+- [The women in AI making a difference](https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/)
+- [Women In AI: Lee Tiedrich, AI expert at the Global Partnership on AI](https://techcrunch.com/2024/02/19/women-in-ai-lee-tiedrich-ai-expert-at-the-global-partnership-on-ai/)
 - [Star Trek&#39;s Seven of Nine returns in new novel &#39;Picard: Firewall&#39; &lpar;exclusive&rpar;](https://www.space.com/star-trek-picard-firewall-novel-seven-of-nine)
 - [How Bret Taylor’s new company is rethinking customer experience in the age of AI](https://techcrunch.com/2024/02/19/sierra-ai-agents-customer-service/)
-- [Struggling database company MariaDB could be taken private in $37M deal](https://techcrunch.com/2024/02/19/struggling-database-company-mariadb-could-be-taken-private-in-a-37m-deal/)
-- [Building a startup is like building a house](https://techcrunch.com/2024/02/19/building-a-startup-is-like-building-a-house/)
-- [Brightest quasar ever seen is powered by black hole that eats a &#39;sun a day&#39;](https://www.space.com/brightest-quasar-ever-powered-black-hole-solar-mass-accretion-disk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
