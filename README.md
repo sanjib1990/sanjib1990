@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Big, doomed satellite seen from space as it tumbles towards a fiery reentry on Feb. 21 &lpar;photos&rpar;](https://www.space.com/satelitte-ers-2-esa-heo-robotics-commercial-imaging-photos)
 - [Partech closes its second Africa fund at $300M+ to invest from seed to Series C](https://techcrunch.com/2024/02/19/partech-closes-its-second-africa-fund-at-300m-to-invest-from-seed-to-series-c/)
 - [State of venture investments in India, according to Lightspeed](https://techcrunch.com/2024/02/19/state-of-venture-investments-in-india-according-to-lightspeed/)
 - [Ford preps for its next big fight, Waymo recalls its self-driving car software and layoffs come for another AV startup](https://techcrunch.com/2024/02/18/ford-preps-for-its-next-big-fight-waymo-recalls-its-self-driving-car-software-and-layoffs-come-for-another-av-startup/)
 - [Family tragedy for former YouTube CEO Susan Wojcicki](https://techcrunch.com/2024/02/18/family-tragedy-for-former-youtube-ceo-susan-wojcicki/)
-- [Miruku grabs more capital as its plant-based dairy tech reaches proof of concept](https://techcrunch.com/2024/02/18/miruku-plant-dairy-food-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
