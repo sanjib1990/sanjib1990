@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star Trek&#39;s Seven of Nine returns in new novel &#39;Picard: Firewall&#39; &lpar;exclusive&rpar;](https://www.space.com/star-trek-picard-firewall-novel-seven-of-nine)
+- [How Bret Taylor’s new company is rethinking customer experience in the age of AI](https://techcrunch.com/2024/02/19/sierra-ai-agents-customer-service/)
+- [Struggling database company MariaDB could be taken private in $37M deal](https://techcrunch.com/2024/02/19/struggling-database-company-mariadb-could-be-taken-private-in-a-37m-deal/)
 - [Building a startup is like building a house](https://techcrunch.com/2024/02/19/building-a-startup-is-like-building-a-house/)
 - [Brightest quasar ever seen is powered by black hole that eats a &#39;sun a day&#39;](https://www.space.com/brightest-quasar-ever-powered-black-hole-solar-mass-accretion-disk)
-- [Build your own moon base and explore the lunar surface in &#39;Moonshot&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/build-your-own-moon-base-and-explore-the-lunar-surface-in-moonshot-video)
-- [Dili wants to automate due diligence with AI](https://techcrunch.com/2024/02/19/dili-wants-to-automate-due-diligence-with-ai/)
-- [NASA&#39;s twin spacecraft will go to the ends of the Earth to combat climate change](https://www.space.com/nasa-twin-spacecraft-earth-ends-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
