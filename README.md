@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Australia seeks public help to design its 1st moon rover, Roo-ver](https://www.space.com/australia-seeks-public-insight-moon-rover-design)
 - [South Pole Telescope has a &#39;treasure map&#39; to the secrets of dark matter](https://www.space.com/south-pole-telescope-cosmic-treasure-map-dark-matter)
 - [Major X-ray sky survey could relieve crisis surrounding the universe&#39;s &#39;lumpiness&#39;](https://www.space.com/universe-x-ray-sky-survey-could-relieve-crisis-surrounding-universe-lumpiness)
 - [For this dead star, 72 years is a single Earth day](https://www.space.com/dead-white-dwarf-star-system-binary-72-years-one-day)
 - [The women in AI making a difference](https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/)
-- [Women In AI: Lee Tiedrich, AI expert at the Global Partnership on AI](https://techcrunch.com/2024/02/19/women-in-ai-lee-tiedrich-ai-expert-at-the-global-partnership-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
