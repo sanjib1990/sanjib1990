@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford preps for its next big fight, Waymo recalls its self-driving car software and layoffs come for another AV startup](https://techcrunch.com/2024/02/18/ford-preps-for-its-next-big-fight-waymo-recalls-its-self-driving-car-software-and-layoffs-come-for-another-av-startup/)
 - [Family tragedy for former YouTube CEO Susan Wojcicki](https://techcrunch.com/2024/02/18/family-tragedy-for-former-youtube-ceo-susan-wojcicki/)
 - [Miruku grabs more capital as its plant-based dairy tech reaches proof of concept](https://techcrunch.com/2024/02/18/miruku-plant-dairy-food-tech/)
 - [With Twilio under activist pressure, Segment could be put up for sale](https://techcrunch.com/2024/02/18/twilio-activist-pressure-segment-sale/)
 - [Women In AI: Eva Maydell, member of European Parliament and EU AI Act advisor](https://techcrunch.com/2024/02/18/women-in-ai-eva-maydell-member-of-european-parliament-and-eu-ai-act-advisor/)
-- [PayPal Ventures’ first AI investment, a credit-based dating app and Robinhood’s good week](https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
