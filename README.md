@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Studying lake deposits in Idaho could give scientists insight into ancient traces of life on Mars](https://www.space.com/idaho-lake-deposits-study-ancient-life-traces)
+- [Bioptimus raises $35 million seed round to develop AI foundational model focused on biology](https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/)
+- [Spam attack on Twitter/X rival Mastodon highlights ‘Fediverse’ vulnerabilities](https://techcrunch.com/2024/02/20/spam-attack-on-twitter-x-rival-mastodon-highlights-fediverse-vulnerabilities/)
 - [Disrupt is back! 2-for-1 passes now on sale](https://techcrunch.com/2024/02/20/disrupt-is-back-2-for-1-passes-now-on-sale/)
 - [These supernovas are whipping up a storm, contributing to cosmic life and death](https://www.space.com/cosmic-dust-type-1a-supernova-star-formation)
-- [US sanctions LockBit members after ransomware takedown](https://techcrunch.com/2024/02/20/lockbit-sanctions-ransomware-takedown/)
-- [Uber testing prepaid-item pickup from local stores in India](https://techcrunch.com/2024/02/20/uber-store-pickup-india/)
-- [The regulatory clock is ticking for TikTok](https://techcrunch.com/2024/02/20/the-regulatory-clock-is-ticking-for-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
