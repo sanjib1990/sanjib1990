@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mechanizing Mathematical Proofs - Computerphile](https://www.youtube.com/watch?v=UuQrHJrNbZU)
 - [OpenAI shocks the world yet again… Sora first look](https://www.youtube.com/watch?v=tWP6z0hvw1M)
 - [I ditched my Raspberry Pi for this](https://www.youtube.com/watch?v=5FhDrux0kCc)
 - [Zuck’s brutal takedown of Apple Vision Pro](https://www.youtube.com/watch?v=DuqLkG75BE8)
 - [Chill Stream + AMA](https://www.youtube.com/watch?v=dZ4l-pUG7jo)
-- [how god programmed birds probably](https://www.youtube.com/watch?v=X8LglXSG53A)
 <!-- YOUTUBE:END -->
 
 ---
