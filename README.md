@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [1Password expands its endpoint security offerings with Kolide acquisition](https://techcrunch.com/2024/02/20/1password-expands-its-endpoint-security-offerings-with-kolide-acquisition/)
-- [Geospatial technology startup Nuview acquires Astraea to accelerate plans “years faster” than imagined](https://techcrunch.com/2024/02/20/geospatial-technology-startup-nuview-acquires-astraea-to-accelerate-plans-years-faster-than-imagined/)
-- [Text-to-speech app Speechify launches Gmail integration and voice cloning](https://techcrunch.com/2024/02/20/text-to-speech-app-speechify-launches-gmail-integration-and-voice-cloning/)
-- [Forget rockets – Space Perspective wants to take you to ultra-high-altitudes using balloons](https://techcrunch.com/2024/02/20/forget-rockets-space-perspective-wants-to-take-you-to-ultra-high-altitudes-using-balloons/)
-- [SpaceX to launch Indonesian communications satellite today](https://www.space.com/spacex-telkomsat-merah-putih-2-satellite-launch)
+- [Sproxxy is making it easier to measure conference spending ROI](https://techcrunch.com/2024/02/20/sproxxy-is-making-it-easier-to-measure-conference-spending-roi/)
+- [&#39;We are approaching the tipping point&#39;: Marker for the collapse of key Atlantic current discovered](https://www.space.com/ocean-tipping-point-atlantic-current-collapse)
+- [Tinder is expanding ID verification to the US, UK, Brazil and Mexico](https://techcrunch.com/2024/02/20/tinder-is-expanding-id-verification-to-the-us-uk-brazil-and-mexico/)
+- [Meati Foods puts CFO Phil Graves at the helm as it cuts 13% of its workforce](https://techcrunch.com/2024/02/20/meati-foods-cuts-workforce-amid-ceo-shift/)
+- [Big Tech AI infrastructure tie-ups set for deeper scrutiny, says EU antitrust chief](https://techcrunch.com/2024/02/20/eu-merger-control-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
