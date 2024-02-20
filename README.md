@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black hole-like &#39;gravastars&#39; could be stacked like Russian tea dolls](https://www.space.com/the-universe/stars/black-hole-like-gravastars-could-be-stacked-like-russian-tea-dolls)
-- [Tencent’s gaming cash cow Honor of Kings sets sights on MENA](https://techcrunch.com/2024/02/20/tencents-gaming-cash-cow-honor-of-kings-sets-sights-on-mena/)
-- [Very Large Telescope snaps gorgeous shot of Milky Way&#39;s star-studded core &lpar;photo&rpar;](https://www.space.com/eso-vlt-starry-landscape-milky-way-core)
-- [PhonePe aims to be a top Google Play alternative in India — but it has a challenging road ahead](https://techcrunch.com/2024/02/20/phonepe-aims-to-be-a-top-google-play-alternative-in-india-but-it-has-a-challenging-road-ahead/)
-- [Nigerian digital bank FairMoney in talks to buy Umba in $20M all-stock deal, sources say](https://techcrunch.com/2024/02/20/nigerian-digital-bank-fairmoney-in-talks-to-buy-umba-in-20m-all-stock-deal-sources-say/)
+- [1Password expands its endpoint security offerings with Kolide acquisition](https://techcrunch.com/2024/02/20/1password-expands-its-endpoint-security-offerings-with-kolide-acquisition/)
+- [Geospatial technology startup Nuview acquires Astraea to accelerate plans “years faster” than imagined](https://techcrunch.com/2024/02/20/geospatial-technology-startup-nuview-acquires-astraea-to-accelerate-plans-years-faster-than-imagined/)
+- [Text-to-speech app Speechify launches Gmail integration and voice cloning](https://techcrunch.com/2024/02/20/text-to-speech-app-speechify-launches-gmail-integration-and-voice-cloning/)
+- [Forget rockets – Space Perspective wants to take you to ultra-high-altitudes using balloons](https://techcrunch.com/2024/02/20/forget-rockets-space-perspective-wants-to-take-you-to-ultra-high-altitudes-using-balloons/)
+- [SpaceX to launch Indonesian communications satellite today](https://www.space.com/spacex-telkomsat-merah-putih-2-satellite-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
