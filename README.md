@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Very Large Telescope snaps gorgeous shot of Milky Way&#39;s star-studded core &lpar;photo&rpar;](https://www.space.com/eso-vlt-starry-landscape-milky-way-core)
+- [PhonePe aims to be a top Google Play alternative in India — but it has a challenging road ahead](https://techcrunch.com/2024/02/20/phonepe-aims-to-be-a-top-google-play-alternative-in-india-but-it-has-a-challenging-road-ahead/)
 - [Nigerian digital bank FairMoney in talks to buy Umba in $20M all-stock deal, sources say](https://techcrunch.com/2024/02/20/nigerian-digital-bank-fairmoney-in-talks-to-buy-umba-in-20m-all-stock-deal-sources-say/)
-- [US, UK authorities claim seizure of LockBit ransomware gang’s dark web leak site](https://techcrunch.com/2024/02/20/us-uk-authorities-claim-seizure-of-lockbit-ransomware-gangs-dark-web-leak-site/)
+- [Authorities seize dark web leak site from LockBit ransomware gang](https://techcrunch.com/2024/02/20/us-uk-authorities-claim-seizure-of-lockbit-ransomware-gangs-dark-web-leak-site/)
 - [Planity raises $48 million because even hair salons need their own SaaS product](https://techcrunch.com/2024/02/19/planity-raises-48-million-because-even-hair-salons-need-their-own-saas-product/)
-- [Singapore-based fintech Xalts acquires digital trade platform Contour Network](https://techcrunch.com/2024/02/19/xalts-contour/)
-- [Techtaka raises $9.5M for its e-commerce fulfillment service](https://techcrunch.com/2024/02/19/techtaka-raises-9-5m-for-its-e-commerce-fulfillment-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
