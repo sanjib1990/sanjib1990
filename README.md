@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sproxxy is making it easier to measure conference spending ROI](https://techcrunch.com/2024/02/20/sproxxy-is-making-it-easier-to-measure-conference-spending-roi/)
-- [&#39;We are approaching the tipping point&#39;: Marker for the collapse of key Atlantic current discovered](https://www.space.com/ocean-tipping-point-atlantic-current-collapse)
-- [Tinder is expanding ID verification to the US, UK, Brazil and Mexico](https://techcrunch.com/2024/02/20/tinder-is-expanding-id-verification-to-the-us-uk-brazil-and-mexico/)
-- [Meati Foods puts CFO Phil Graves at the helm as it cuts 13% of its workforce](https://techcrunch.com/2024/02/20/meati-foods-cuts-workforce-amid-ceo-shift/)
-- [Big Tech AI infrastructure tie-ups set for deeper scrutiny, says EU antitrust chief](https://techcrunch.com/2024/02/20/eu-merger-control-ai/)
+- [Disrupt is back! 2-for-1 passes now on sale](https://techcrunch.com/2024/02/20/disrupt-is-back-2-for-1-passes-now-on-sale/)
+- [These supernovas are whipping up a storm, contributing to cosmic life and death](https://www.space.com/cosmic-dust-type-1a-supernova-star-formation)
+- [US sanctions LockBit members after ransomware takedown](https://techcrunch.com/2024/02/20/lockbit-sanctions-ransomware-takedown/)
+- [Uber testing prepaid-item pickup from local stores in India](https://techcrunch.com/2024/02/20/uber-store-pickup-india/)
+- [The regulatory clock is ticking for TikTok](https://techcrunch.com/2024/02/20/the-regulatory-clock-is-ticking-for-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
