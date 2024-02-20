@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planity raises $48 million because even hair salons need their own SaaS product](https://techcrunch.com/2024/02/19/planity-raises-48-million-because-even-hair-salons-need-their-own-saas-product/)
 - [Singapore-based fintech Xalts acquires digital trade platform Contour Network](https://techcrunch.com/2024/02/19/xalts-contour/)
-- [TechTaka raises $9.5M for its e-commerce fulfillment service](https://techcrunch.com/2024/02/19/techtaka-raises-9-5m-for-its-e-commerce-fulfillment-service/)
+- [Techtaka raises $9.5M for its e-commerce fulfillment service](https://techcrunch.com/2024/02/19/techtaka-raises-9-5m-for-its-e-commerce-fulfillment-service/)
 - [Massive underground laboratory in China joins the quest to find dark matter](https://www.space.com/china-renovated-underground-laboratory-hunt-dark-matter)
 - [Australia seeks public help to design its 1st moon rover, Roo-ver](https://www.space.com/australia-seeks-public-insight-moon-rover-design)
-- [South Pole Telescope has a &#39;treasure map&#39; to the secrets of dark matter](https://www.space.com/south-pole-telescope-cosmic-treasure-map-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
