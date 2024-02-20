@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Mechanizing Mathematical Proofs - Computerphile](https://www.youtube.com/watch?v=UuQrHJrNbZU)
-- [OpenAI shocks the world yet again… Sora first look](https://www.youtube.com/watch?v=tWP6z0hvw1M)
-- [I ditched my Raspberry Pi for this](https://www.youtube.com/watch?v=5FhDrux0kCc)
-- [Zuck’s brutal takedown of Apple Vision Pro](https://www.youtube.com/watch?v=DuqLkG75BE8)
-- [Chill Stream + AMA](https://www.youtube.com/watch?v=dZ4l-pUG7jo)
+- [Lecture 23: Visualizing Data](https://www.youtube.com/watch?v=C5JjMP8m-4E)
+- [Lecture 16: &lpar;More&rpar; Explanatory Data Analysis: Nonparametric Comparisons and Regressions](https://www.youtube.com/watch?v=ebKtv-S2S38)
+- [Lecture 12: Assessing and Deriving Estimators](https://www.youtube.com/watch?v=1eXWDepLpNU)
+- [Lecture 11: Special Distributions, continued. The Sample Mean, Central Limit Theorem, and Estimation](https://www.youtube.com/watch?v=m2gRXPmtU0Q)
+- [Lecture 14: Causality](https://www.youtube.com/watch?v=lWPNhP7ih-M)
 <!-- YOUTUBE:END -->
 
 ---
