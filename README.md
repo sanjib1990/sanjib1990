@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists say 2 solar system dwarf planets may harbor underground oceans](https://www.space.com/dwarf-planets-solar-system-eris-makemake-water-methane)
+- [House punts on AI with directionless new task force](https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/)
+- [Zola wants to bring the wedding industry into the 21st century](https://techcrunch.com/2024/02/20/zola-wants-to-bring-the-wedding-industry-into-the-21st-century/)
 - [Firefly Aerospace&#39;s Alpha rocket put a satellite in the wrong orbit in December. Now we know why.](https://www.space.com/firefly-aerospace-december-2023-launch-problem-software-issue)
 - [Sian Proctor on her legacy of being the 1st Black woman to pilot a spacecraft](https://www.space.com/sian-proctor-interview-1st-black-woman-pilot-spacecraft)
-- [Florida man buys Cake’s remaining US inventory of electric motorbikes](https://techcrunch.com/2024/02/20/cake-bankruptcy-osa-makka-inventory-emoto/)
-- [Signal now lets you keep your phone number private with the launch of usernames](https://techcrunch.com/2024/02/20/signal-now-lets-you-keep-your-phone-number-private-with-the-launch-of-usernames/)
-- [Everything we know about &#39;3 Body Problem&#39;](https://www.space.com/everything-we-know-about-3-body-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
