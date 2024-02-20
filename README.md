@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefly Aerospace&#39;s Alpha rocket put a satellite in the wrong orbit in December. Now we know why.](https://www.space.com/firefly-aerospace-december-2023-launch-problem-software-issue)
+- [Sian Proctor on her legacy of being the 1st Black woman to pilot a spacecraft](https://www.space.com/sian-proctor-interview-1st-black-woman-pilot-spacecraft)
 - [Florida man buys Cake’s remaining US inventory of electric motorbikes](https://techcrunch.com/2024/02/20/cake-bankruptcy-osa-makka-inventory-emoto/)
 - [Signal now lets you keep your phone number private with the launch of usernames](https://techcrunch.com/2024/02/20/signal-now-lets-you-keep-your-phone-number-private-with-the-launch-of-usernames/)
 - [Everything we know about &#39;3 Body Problem&#39;](https://www.space.com/everything-we-know-about-3-body-problem)
-- [MariaDB’s potential take-private deal is an indictment of 2021’s SPAC mania](https://techcrunch.com/2024/02/20/mariadbs-potential-take-private-deal-is-an-indictment-of-2021s-spac-mania/)
-- [Former Disney TV star Bridgit Mendler co-founds satellite &#39;data highway&#39; startup](https://www.space.com/bridgit-mendler-northwood-space-ceo-disney-channel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
