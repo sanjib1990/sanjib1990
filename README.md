@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about &#39;3 Body Problem&#39;](https://www.space.com/everything-we-know-about-3-body-problem)
+- [MariaDB’s potential take-private deal is an indictment of 2021’s SPAC mania](https://techcrunch.com/2024/02/20/mariadbs-potential-take-private-deal-is-an-indictment-of-2021s-spac-mania/)
+- [Former Disney TV star Bridgit Mendler co-founds satellite &#39;data highway&#39; startup](https://www.space.com/bridgit-mendler-northwood-space-ceo-disney-channel)
 - [Intuitive Machines moon lander on track for Feb. 22 landing after engine burns](https://www.space.com/intuitive-machines-moon-lander-engine-burns-on-track)
 - [Ford cuts prices on electric Mustang as demand softens for premium EVs](https://techcrunch.com/2024/02/20/ford-cuts-prices-on-electric-mustang-as-demand-softens-for-premium-evs/)
-- [YouTube rolls out new channel pages for creators on its TV app](https://techcrunch.com/2024/02/20/youtube-rolls-out-new-channel-pages-for-creators-on-its-tv-app/)
-- [YouTube dominates TV streaming in U.S., per Nielsen’s latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
-- [Studying lake deposits in Idaho could give scientists insight into ancient traces of life on Mars](https://www.space.com/idaho-lake-deposits-study-ancient-life-traces)
 <!-- BLOG-POST-LIST:END -->
 
 ---
