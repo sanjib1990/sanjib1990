@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore-based fintech Xalts acquires digital trade platform Contour Network](https://techcrunch.com/2024/02/19/xalts-contour/)
 - [TechTaka raises $9.5M for its e-commerce fulfillment service](https://techcrunch.com/2024/02/19/techtaka-raises-9-5m-for-its-e-commerce-fulfillment-service/)
 - [Massive underground laboratory in China joins the quest to find dark matter](https://www.space.com/china-renovated-underground-laboratory-hunt-dark-matter)
 - [Australia seeks public help to design its 1st moon rover, Roo-ver](https://www.space.com/australia-seeks-public-insight-moon-rover-design)
 - [South Pole Telescope has a &#39;treasure map&#39; to the secrets of dark matter](https://www.space.com/south-pole-telescope-cosmic-treasure-map-dark-matter)
-- [Major X-ray sky survey could relieve crisis surrounding the universe&#39;s &#39;lumpiness&#39;](https://www.space.com/universe-x-ray-sky-survey-could-relieve-crisis-surrounding-universe-lumpiness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
