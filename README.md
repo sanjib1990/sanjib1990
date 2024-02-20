@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuitive Machines moon lander on track for Feb. 22 landing after engine burns](https://www.space.com/intuitive-machines-moon-lander-engine-burns-on-track)
+- [Ford cuts prices on electric Mustang as demand softens for premium EVs](https://techcrunch.com/2024/02/20/ford-cuts-prices-on-electric-mustang-as-demand-softens-for-premium-evs/)
+- [YouTube rolls out new channel pages for creators on its TV app](https://techcrunch.com/2024/02/20/youtube-rolls-out-new-channel-pages-for-creators-on-its-tv-app/)
+- [YouTube dominates TV streaming in U.S., per Nielsen’s latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
 - [Studying lake deposits in Idaho could give scientists insight into ancient traces of life on Mars](https://www.space.com/idaho-lake-deposits-study-ancient-life-traces)
-- [Bioptimus raises $35 million seed round to develop AI foundational model focused on biology](https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/)
-- [Spam attack on Twitter/X rival Mastodon highlights ‘Fediverse’ vulnerabilities](https://techcrunch.com/2024/02/20/spam-attack-on-twitter-x-rival-mastodon-highlights-fediverse-vulnerabilities/)
-- [Disrupt is back! 2-for-1 passes now on sale](https://techcrunch.com/2024/02/20/disrupt-is-back-2-for-1-passes-now-on-sale/)
-- [These supernovas are whipping up a storm, contributing to cosmic life and death](https://www.space.com/cosmic-dust-type-1a-supernova-star-formation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
