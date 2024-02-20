@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US, UK authorities claim seizure of LockBit ransomware gang’s dark web leak site](https://techcrunch.com/2024/02/20/us-uk-authorities-claim-seizure-of-lockbit-ransomware-gangs-dark-web-leak-site/)
 - [Planity raises $48 million because even hair salons need their own SaaS product](https://techcrunch.com/2024/02/19/planity-raises-48-million-because-even-hair-salons-need-their-own-saas-product/)
 - [Singapore-based fintech Xalts acquires digital trade platform Contour Network](https://techcrunch.com/2024/02/19/xalts-contour/)
 - [Techtaka raises $9.5M for its e-commerce fulfillment service](https://techcrunch.com/2024/02/19/techtaka-raises-9-5m-for-its-e-commerce-fulfillment-service/)
 - [Massive underground laboratory in China joins the quest to find dark matter](https://www.space.com/china-renovated-underground-laboratory-hunt-dark-matter)
-- [Australia seeks public help to design its 1st moon rover, Roo-ver](https://www.space.com/australia-seeks-public-insight-moon-rover-design)
 <!-- BLOG-POST-LIST:END -->
 
 ---
