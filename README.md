@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan](https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/)
+- [Amazon to launch ‘special store’ for value fashion in India](https://techcrunch.com/2024/02/20/amazon-bazaar-store-india-low-cost-unbranded-fashion/)
 - [Byju’s says $200 million rights issue that cuts valuation by 99% fully subscribed](https://techcrunch.com/2024/02/20/byjus-says-200-million-rights-issue-that-cuts-valuation-by-99-fully-subscribed/)
 - [OnePlus took a three-year ‘reflective pause’ before increasing its smartwatch battery](https://techcrunch.com/2024/02/20/oneplus-took-a-three-year-reflective-pause-before-increasing-its-smartwatch-battery/)
 - [Scientists say 2 solar system dwarf planets may harbor underground oceans](https://www.space.com/dwarf-planets-solar-system-eris-makemake-water-methane)
-- [House punts on AI with directionless new task force](https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/)
-- [Zola wants to bring the wedding industry into the 21st century](https://techcrunch.com/2024/02/20/zola-wants-to-bring-the-wedding-industry-into-the-21st-century/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
