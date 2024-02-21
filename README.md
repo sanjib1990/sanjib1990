@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In a reversal, Apple is now demanding 30% of the donations to meditation app Insight Timer’s teachers](https://techcrunch.com/2024/02/21/in-a-reversal-apple-is-now-demanding-30-of-the-donations-to-meditation-app-insight-timers-teachers/)
-- [Scientists create 5 new isotopes to learn how neutron star collisions forge gold](https://www.space.com/new-isotopes-neutron-star-collisions-gold-heavy-elements)
-- [Varaha helps Indian farmers reduce climate-harming practices like burning crop residue and flooding rice fields](https://techcrunch.com/2024/02/21/varaha-india-carbon-credits-farmers/)
-- [NodeShift wants to challenge the hyperscalers with its decentralized cloud](https://techcrunch.com/2024/02/21/nodeshift-wants-to-challenge-the-hyperscalers-with-its-decentralized-cloud/)
-- [Intuitive Machines&#39; Odysseus lander is aiming for a crater near the moon&#39;s south pole. Here&#39;s why](https://www.space.com/intuitive-machines-odysseus-lander-moon-south-pole-site)
+- [Are you Blacker than ChatGPT? Take this quiz to find out](https://techcrunch.com/2024/02/21/are-you-blacker-than-chatgpt-take-this-quiz-to-find-out/)
+- [India spurs space sector investment with raised limits on foreign funding](https://techcrunch.com/2024/02/21/india-space-foreign-direct-investment/)
+- [Bus-sized European satellite crashes to Earth over Pacific Ocean](https://www.space.com/satellite-ers-2-esa-reentry-earth-atmosphere)
+- [Hundreds of AI luminaries sign letter calling for anti-deepfake legislation](https://techcrunch.com/2024/02/21/hundreds-of-ai-luminaries-sign-letter-calling-for-anti-deepfake-legislation/)
+- [In a reversal, Apple is demanding 30% of the donations to meditation app Insight Timer’s teachers](https://techcrunch.com/2024/02/21/in-a-reversal-apple-is-now-demanding-30-of-the-donations-to-meditation-app-insight-timers-teachers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
