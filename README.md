@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists create 5 new isotopes to learn if neutron star collisions really forge gold](https://www.space.com/new-isotopes-neutron-star-collisions-gold-heavy-elements)
+- [In a reversal, Apple is now demanding 30% of the donations to meditation app Insight Timer’s teachers](https://techcrunch.com/2024/02/21/in-a-reversal-apple-is-now-demanding-30-of-the-donations-to-meditation-app-insight-timers-teachers/)
+- [Scientists create 5 new isotopes to learn how neutron star collisions forge gold](https://www.space.com/new-isotopes-neutron-star-collisions-gold-heavy-elements)
 - [Varaha helps Indian farmers reduce climate-harming practices like burning crop residue and flooding rice fields](https://techcrunch.com/2024/02/21/varaha-india-carbon-credits-farmers/)
 - [NodeShift wants to challenge the hyperscalers with its decentralized cloud](https://techcrunch.com/2024/02/21/nodeshift-wants-to-challenge-the-hyperscalers-with-its-decentralized-cloud/)
 - [Intuitive Machines&#39; Odysseus lander is aiming for a crater near the moon&#39;s south pole. Here&#39;s why](https://www.space.com/intuitive-machines-odysseus-lander-moon-south-pole-site)
-- [Waymo’s application to expand California robotaxi operations paused by regulators](https://techcrunch.com/2024/02/21/waymos-application-to-expand-california-robotaxi-operations-paused-by-regulators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
