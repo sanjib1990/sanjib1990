@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA brings back retro &#39;worm&#39; logo for upcoming Artemis 2 moon mission](https://www.space.com/artemis-2-moon-mission-nasa-worm-logo)
-- [Google launches two new open LLMs](https://techcrunch.com/2024/02/21/google-launches-two-new-open-llms/)
-- [India’s PhonePe launches Android app store with Amazon, Meta and Microsoft apps](https://techcrunch.com/2024/02/21/phonepe-launches-android-app-store-with-amazon-meta-and-microsoft-apps/)
-- [Loora wants to leverage AI to teach English](https://techcrunch.com/2024/02/21/loora-wants-to-leverage-ai-to-teach-english/)
-- [An asteroid will hit Earth at some point. What can we do about it?](https://www.space.com/asteroid-hit-earth-what-can-we-do-about-it)
+- [Goldman Sachs bets on Simetrik’s payments infrastructure tech](https://techcrunch.com/2024/02/21/goldman-sachs-simetrik-payment-infrastructure-fintech/)
+- [Clumio raises $75M to automate cloud data backup and recovery](https://techcrunch.com/2024/02/21/clumio-data-backups-series-d-raise-75-million/)
+- [This startup is using AI to discover new materials](https://techcrunch.com/2024/02/21/this-startup-is-using-ai-to-discover-new-materials/)
+- [Conservation Labs uses sound to diagnose plumbing issues](https://techcrunch.com/2024/02/21/conservation-labs-uses-sound-to-diagnose-plumbing-issues/)
+- [Carbon capture startup takes ‘good enough’ approach to slash costs](https://techcrunch.com/2024/02/21/clairity-carbon-capture-seed-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
