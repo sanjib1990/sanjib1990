@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta tests cross-posting from Facebook to its Twitter/X competitor, Threads](https://techcrunch.com/2024/02/21/meta-tests-cross-posting-from-facebook-to-its-twitter-x-competitor-threads/)
-- [NASA&#39;s new UVEX mission will explore the ultraviolet universe](https://www.space.com/nasa-uvex-mission-ultraviolet-universe-2030-launch)
-- [Intuitive Machines&#39; private Odysseus probe snaps 1st moon photo, enters lunar orbit ahead of historic landing attempt](https://www.space.com/intuitive-machines-odysseus-moon-lander-lunar-orbit)
-- [Match Group inks deal with OpenAI, says press release written by ChatGPT](https://techcrunch.com/2024/02/21/match-group-inks-deal-with-openai-says-press-release-written-by-chatgpt/)
-- [James Webb Space Telescope helps scientists find freshly forged gold in the cosmos: &#39;It was thrilling&#39;](https://www.space.com/james-webb-space-telescope-fresh-gold-cosmos-kilonova-grb)
+- [NodeShift wants to challenge the hyperscalers with its decentralized cloud](https://techcrunch.com/2024/02/21/nodeshift-wants-to-challenge-the-hyperscalers-with-its-decentralized-cloud/)
+- [Intuitive Machines&#39; Odysseus lander is aiming for a crater near the moon&#39;s south pole. Here&#39;s why](https://www.space.com/intuitive-machines-odysseus-lander-moon-south-pole-site)
+- [Waymo’s application to expand California robotaxi operations paused by regulators](https://techcrunch.com/2024/02/21/waymos-application-to-expand-california-robotaxi-operations-paused-by-regulators/)
+- [Empowerly secures $15M for its college counseling services](https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/)
+- [Researchers warn high-risk ConnectWise flaw under attack is ’embarrassingly easy’ to exploit](https://techcrunch.com/2024/02/21/researchers-warn-high-risk-connectwise-flaw-under-attack-is-embarrassingly-easy-to-exploit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
