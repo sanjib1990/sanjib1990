@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Byju’s says $200 million rights issue that cuts valuation by 99% fully subscribed](https://techcrunch.com/2024/02/20/byjus-says-200-million-rights-issue-that-cuts-valuation-by-99-fully-subscribed/)
 - [OnePlus took a three-year ‘reflective pause’ before increasing its smartwatch battery](https://techcrunch.com/2024/02/20/oneplus-took-a-three-year-reflective-pause-before-increasing-its-smartwatch-battery/)
 - [Scientists say 2 solar system dwarf planets may harbor underground oceans](https://www.space.com/dwarf-planets-solar-system-eris-makemake-water-methane)
 - [House punts on AI with directionless new task force](https://techcrunch.com/2024/02/20/house-punts-on-ai-with-directionless-new-task-force/)
 - [Zola wants to bring the wedding industry into the 21st century](https://techcrunch.com/2024/02/20/zola-wants-to-bring-the-wedding-industry-into-the-21st-century/)
-- [Firefly Aerospace&#39;s Alpha rocket put a satellite in the wrong orbit in December. Now we know why.](https://www.space.com/firefly-aerospace-december-2023-launch-problem-software-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
