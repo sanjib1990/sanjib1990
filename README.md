@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Goldman Sachs bets on Simetrik’s payments infrastructure tech](https://techcrunch.com/2024/02/21/goldman-sachs-simetrik-payment-infrastructure-fintech/)
-- [Clumio raises $75M to automate cloud data backup and recovery](https://techcrunch.com/2024/02/21/clumio-data-backups-series-d-raise-75-million/)
-- [This startup is using AI to discover new materials](https://techcrunch.com/2024/02/21/this-startup-is-using-ai-to-discover-new-materials/)
-- [Conservation Labs uses sound to diagnose plumbing issues](https://techcrunch.com/2024/02/21/conservation-labs-uses-sound-to-diagnose-plumbing-issues/)
-- [Carbon capture startup takes ‘good enough’ approach to slash costs](https://techcrunch.com/2024/02/21/clairity-carbon-capture-seed-funding/)
+- [Faddom raises $12M to help companies map IT infrastructure wherever it lives](https://techcrunch.com/2024/02/21/faddom-raises-12m-to-help-companies-map-it-infrastructure-wherever-it-lives/)
+- [Google DeepMind forms a new org focused on AI safety](https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/)
+- [Microservices orchestration platform Orkes raises $20M Series A](https://techcrunch.com/2024/02/21/orkes-raises-20m-series-a/)
+- [WhatsApp adds formatting support for lists, block quotes, and inline code](https://techcrunch.com/2024/02/21/whatsapp-adds-formatting-support-for-lists-block-quotes-and-inline-code/)
+- [China’s Moonshot AI zooms to $2.5B valuation, raising $1B for an LLM focused on long context](https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
