@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Loora wants to leverage AI to teach English](https://techcrunch.com/2024/02/21/loora-wants-to-leverage-ai-to-teach-english/)
 - [An asteroid will hit Earth at some point. What can we do about it?](https://www.space.com/asteroid-hit-earth-what-can-we-do-about-it)
 - [Six things we learned from the LockBit takedown](https://techcrunch.com/2024/02/21/six-things-we-learned-lockbit-takedown/)
 - [Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan](https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/)
 - [Amazon to launch ‘special store’ for value fashion in India](https://techcrunch.com/2024/02/20/amazon-bazaar-store-india-low-cost-unbranded-fashion/)
-- [Byju’s says $200 million rights issue that cuts valuation by 99% fully subscribed](https://techcrunch.com/2024/02/20/byjus-says-200-million-rights-issue-that-cuts-valuation-by-99-fully-subscribed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
