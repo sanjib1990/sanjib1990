@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you Blacker than ChatGPT? Take this quiz to find out](https://techcrunch.com/2024/02/21/are-you-blacker-than-chatgpt-take-this-quiz-to-find-out/)
-- [India spurs space sector investment with raised limits on foreign funding](https://techcrunch.com/2024/02/21/india-space-foreign-direct-investment/)
-- [Bus-sized European satellite crashes to Earth over Pacific Ocean](https://www.space.com/satellite-ers-2-esa-reentry-earth-atmosphere)
-- [Hundreds of AI luminaries sign letter calling for anti-deepfake legislation](https://techcrunch.com/2024/02/21/hundreds-of-ai-luminaries-sign-letter-calling-for-anti-deepfake-legislation/)
-- [In a reversal, Apple is demanding 30% of the donations to meditation app Insight Timer’s teachers](https://techcrunch.com/2024/02/21/in-a-reversal-apple-is-now-demanding-30-of-the-donations-to-meditation-app-insight-timers-teachers/)
+- [Varda Space, Rocket Lab nail first-of-its-kind spacecraft landing in Utah](https://techcrunch.com/2024/02/21/varda-space-rocket-lab-nail-first-of-its-kind-spacecraft-landing-in-utah/)
+- [Lucid Motors will only build 9,000 EVs in 2024 after once predicting it would ship 90,000](https://techcrunch.com/2024/02/21/lucid-motors-2024-guidance-2023-results-gravity-suv/)
+- [Delta Air Lines wants to fly you through the 2024 total solar eclipse from 30,000 feet in the sky](https://www.space.com/total-solar-eclipse-april-8-delta-path-of-totality-flight-30000-feet)
+- [Private capsule comes back to Earth with space-grown antiviral drug aboard](https://www.space.com/varda-in-space-manufacturing-capsule-landing-success)
+- [Discord took no action against server that coordinated costly Mastodon spam attacks](https://techcrunch.com/2024/02/21/discord-took-no-action-against-server-that-coordinated-costly-mastodon-spam-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
