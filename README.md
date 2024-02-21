@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Match Group inks deal with OpenAI, says press release written by ChatGPT](https://techcrunch.com/2024/02/21/match-group-inks-deal-with-openai-says-press-release-written-by-chatgpt/)
+- [James Webb Space Telescope helps scientists find freshly forged gold in the cosmos: &#39;It was thrilling&#39;](https://www.space.com/james-webb-space-telescope-fresh-gold-cosmos-kilonova-grb)
+- [Reddit’s upcoming IPO could reward its power users](https://techcrunch.com/2024/02/21/reddit-ipo-could-reward-power-users/)
+- [This YC alum just raised $31M to build the ‘TurboTax for construction permitting’](https://techcrunch.com/2024/02/21/this-yc-alum-just-raised-31m-to-build-the-turbotax-for-construction-permitting/)
 - [Faddom raises $12M to help companies map IT infrastructure wherever it lives](https://techcrunch.com/2024/02/21/faddom-raises-12m-to-help-companies-map-it-infrastructure-wherever-it-lives/)
-- [Google DeepMind forms a new org focused on AI safety](https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/)
-- [Microservices orchestration platform Orkes raises $20M Series A](https://techcrunch.com/2024/02/21/orkes-raises-20m-series-a/)
-- [WhatsApp adds formatting support for lists, block quotes, and inline code](https://techcrunch.com/2024/02/21/whatsapp-adds-formatting-support-for-lists-block-quotes-and-inline-code/)
-- [China’s Moonshot AI zooms to $2.5B valuation, raising $1B for an LLM focused on long context](https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
