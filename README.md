@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reesa Teesa’s ‘who tf did I marry’ TikToks are like an audiobook](https://techcrunch.com/2024/02/21/reesa-teesas-who-tf-did-i-marry-tiktoks-are-like-an-audiobook/)
+- [An asteroid the size of a bus will fly near Earth on Feb. 22 — but don&#39;t worry &lpar;video&rpar;](https://www.space.com/bus-size-asteroid-earth-close-flyby-february-2024)
+- [US health tech giant Change Healthcare hit by cyberattack](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/)
+- [What time will Intuitive Machines&#39; private Odysseus probe land on the moon on Feb. 22? How to watch live](https://www.space.com/intuitive-machines-odysseus-moon-landing-what-time-livestream)
 - [Varda Space, Rocket Lab nail first-of-its-kind spacecraft landing in Utah](https://techcrunch.com/2024/02/21/varda-space-rocket-lab-nail-first-of-its-kind-spacecraft-landing-in-utah/)
-- [Lucid Motors will only build 9,000 EVs in 2024 after once predicting it would ship 90,000](https://techcrunch.com/2024/02/21/lucid-motors-2024-guidance-2023-results-gravity-suv/)
-- [Delta Air Lines wants to fly you through the 2024 total solar eclipse from 30,000 feet in the sky](https://www.space.com/total-solar-eclipse-april-8-delta-path-of-totality-flight-30000-feet)
-- [Private capsule comes back to Earth with space-grown antiviral drug aboard](https://www.space.com/varda-in-space-manufacturing-capsule-landing-success)
-- [Discord took no action against server that coordinated costly Mastodon spam attacks](https://techcrunch.com/2024/02/21/discord-took-no-action-against-server-that-coordinated-costly-mastodon-spam-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
