@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA brings back retro &#39;worm&#39; logo for upcoming Artemis 2 moon mission](https://www.space.com/artemis-2-moon-mission-nasa-worm-logo)
+- [Google launches two new open LLMs](https://techcrunch.com/2024/02/21/google-launches-two-new-open-llms/)
+- [India’s PhonePe launches Android app store with Amazon, Meta and Microsoft apps](https://techcrunch.com/2024/02/21/phonepe-launches-android-app-store-with-amazon-meta-and-microsoft-apps/)
 - [Loora wants to leverage AI to teach English](https://techcrunch.com/2024/02/21/loora-wants-to-leverage-ai-to-teach-english/)
 - [An asteroid will hit Earth at some point. What can we do about it?](https://www.space.com/asteroid-hit-earth-what-can-we-do-about-it)
-- [Six things we learned from the LockBit takedown](https://techcrunch.com/2024/02/21/six-things-we-learned-lockbit-takedown/)
-- [Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan](https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/)
-- [Amazon to launch ‘special store’ for value fashion in India](https://techcrunch.com/2024/02/20/amazon-bazaar-store-india-low-cost-unbranded-fashion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
