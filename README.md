@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta tests cross-posting from Facebook to its Twitter/X competitor, Threads](https://techcrunch.com/2024/02/21/meta-tests-cross-posting-from-facebook-to-its-twitter-x-competitor-threads/)
+- [NASA&#39;s new UVEX mission will explore the ultraviolet universe](https://www.space.com/nasa-uvex-mission-ultraviolet-universe-2030-launch)
+- [Intuitive Machines&#39; private Odysseus probe snaps 1st moon photo, enters lunar orbit ahead of historic landing attempt](https://www.space.com/intuitive-machines-odysseus-moon-lander-lunar-orbit)
 - [Match Group inks deal with OpenAI, says press release written by ChatGPT](https://techcrunch.com/2024/02/21/match-group-inks-deal-with-openai-says-press-release-written-by-chatgpt/)
 - [James Webb Space Telescope helps scientists find freshly forged gold in the cosmos: &#39;It was thrilling&#39;](https://www.space.com/james-webb-space-telescope-fresh-gold-cosmos-kilonova-grb)
-- [Reddit’s upcoming IPO could reward its power users](https://techcrunch.com/2024/02/21/reddit-ipo-could-reward-power-users/)
-- [This YC alum just raised $31M to build the ‘TurboTax for construction permitting’](https://techcrunch.com/2024/02/21/this-yc-alum-just-raised-31m-to-build-the-turbotax-for-construction-permitting/)
-- [Faddom raises $12M to help companies map IT infrastructure wherever it lives](https://techcrunch.com/2024/02/21/faddom-raises-12m-to-help-companies-map-it-infrastructure-wherever-it-lives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
