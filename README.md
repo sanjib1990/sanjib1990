@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As VCs slow gaming investments, Frost Giant turns to community for fresh capital](https://techcrunch.com/2024/02/22/frost-giant-kickstarter-campaign/)
-- [Almost half of adults on TikTok have never posted a video, research shows](https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/)
-- [Chrome gets a built-in AI writing tool powered by Gemini](https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/)
-- [Rabbit’s Jesse Lyu hops into StrictlyVC LA on February 29](https://techcrunch.com/2024/02/22/rabbits-jesse-lyu-hops-into-strictlyvc-la-on-feb-29/)
-- [New &#39;Lunarcraft&#39; game lets you build your own moon base in the Minecraft world](https://www.space.com/jaxa-lunarcraft-minecraft-game-moon-base)
+- [Radio signals from Orion nebula reveal new data about strange celestial objects: &#39;JuMBOS&#39;](https://www.space.com/jumbos-jupiter-stars-planets-james-webb-space-telescope-orion-radio-signals)
+- [Substack now lets writers curate a ‘network’ of recommended publications for their subscribers](https://techcrunch.com/2024/02/22/substack-now-lets-writers-curate-a-network-of-recommended-publications-for-their-subscribers/)
+- [SpaceX Falcon 9 rocket launching for record-tying 19th time tonight](https://www.space.com/spacex-starlink-launch-group-7-15)
+- [Google Pay takes its QR sound-box to small merchants in India after trial run](https://techcrunch.com/2024/02/22/google-pay-takes-its-qr-sound-box-to-small-merchants-in-india-after-trial-run/)
+- [Starbucks Odyssey’s community lead sees NFTs as the best way to build brand loyalty](https://techcrunch.com/2024/02/22/starbucks-odysseys-nfts-brand-loyalty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
