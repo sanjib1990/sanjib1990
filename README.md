@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber says firm to explore integration with India’s ONDC](https://techcrunch.com/2024/02/21/uber-ceo-says-firm-to-explore-integration-with-india-open-ondc/)
+- [Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech](https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/)
 - [Instagram launches its marketplace to connect brands and creators in 8 new countries](https://techcrunch.com/2024/02/21/instagram-launches-its-marketplace-to-connect-brands-and-creators-in-8-new-countries/)
 - [Antler’s founder on its vertical AI bet in Southeast Asia](https://techcrunch.com/2024/02/21/antler-ai/)
 - [X says withholding accounts, tweets in India to obey orders](https://techcrunch.com/2024/02/21/elon-musk-x-to-withhold-specific-accounts-and-tweets-in-india-to-comply-with-executive-orders/)
-- [Samsung is bringing Galaxy AI features to more devices](https://techcrunch.com/2024/02/21/samsung-is-bringing-galaxy-ai-features-to-more-devices/)
-- [Reesa Teesa’s ‘Who TF did I marry?’ TikToks are like an audiobook](https://techcrunch.com/2024/02/21/reesa-teesas-who-tf-did-i-marry-tiktoks-are-like-an-audiobook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
