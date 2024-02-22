@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC bans antivirus giant Avast from selling its users’ browsing data to advertisers](https://techcrunch.com/2024/02/22/ftc-bans-avast-selling-customers-sensitive-browsing-data/)
+- [Sony’s PS VR2 is getting compatibility, possibly by end of year](https://techcrunch.com/2024/02/22/sonys-ps-vr2-is-getting-compatibility-possibly-by-end-of-year/)
+- [Stable Diffusion 3 arrives to solidify early lead in AI imagery against Sora and Gemini](https://techcrunch.com/2024/02/22/stable-diffusion-3-arrives-to-solidify-early-lead-in-ai-imagery-against-sora-and-gemini/)
+- [Bluesky opens up federation, letting anyone run their own server](https://techcrunch.com/2024/02/22/bluesky-opens-up-federation-letting-anyone-run-their-own-server/)
 - [James Webb Space Telescope spots neutron star hiding in supernova wreckage](https://www.space.com/james-webb-space-telescope-supernova-wreckage-neutron-star)
-- [Yorba’s service is like Mint for uncluttering your entire digital life](https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/)
-- [Nikola sells abandoned electric Badger pickup truck program to friend of disgraced founder Trevor Milton](https://techcrunch.com/2024/02/22/nikola-badger-diesel-brothers-trevor-milton-embr/)
-- [Radio signals from Orion nebula reveal new data about strange celestial objects: &#39;JuMBOS&#39;](https://www.space.com/jumbos-jupiter-stars-planets-james-webb-space-telescope-orion-radio-signals)
-- [Substack now lets writers curate a ‘network’ of recommended publications for their subscribers](https://techcrunch.com/2024/02/22/substack-now-lets-writers-curate-a-network-of-recommended-publications-for-their-subscribers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
