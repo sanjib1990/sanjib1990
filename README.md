@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reesa Teesa’s ‘who tf did I marry’ TikToks are like an audiobook](https://techcrunch.com/2024/02/21/reesa-teesas-who-tf-did-i-marry-tiktoks-are-like-an-audiobook/)
+- [Reesa Teesa’s ‘Who TF did I marry?’ TikToks are like an audiobook](https://techcrunch.com/2024/02/21/reesa-teesas-who-tf-did-i-marry-tiktoks-are-like-an-audiobook/)
 - [An asteroid the size of a bus will fly near Earth on Feb. 22 — but don&#39;t worry &lpar;video&rpar;](https://www.space.com/bus-size-asteroid-earth-close-flyby-february-2024)
 - [US health tech giant Change Healthcare hit by cyberattack](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/)
 - [What time will Intuitive Machines&#39; private Odysseus probe land on the moon on Feb. 22? How to watch live](https://www.space.com/intuitive-machines-odysseus-moon-landing-what-time-livestream)
