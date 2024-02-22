@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple reveals new details about Spotify’s business as possible EU fine nears](https://techcrunch.com/2024/02/22/as-possible-ec-fine-nears-apple-claims-spotify-is-trying-to-get-limitless-access-to-its-tools-without-paying/)
+- [Reddit says it’s made $203M so far licensing its data](https://techcrunch.com/2024/02/22/reddit-says-its-made-203m-so-far-licensing-its-data/)
 - [Reddit files to go public — at last](https://techcrunch.com/2024/02/22/reddit-files-to-go-public-at-last/)
 - [NASA Eclipse Soundscapes Project will record how 2024&#39;s total solar eclipse impacts nature](https://www.space.com/nasa-eclipse-soundscapes-project-2024-total-solar-eclipse)
 - [Ahead of testing, Blue Origin raises New Glenn on the launch pad for first time](https://techcrunch.com/2024/02/22/ahead-of-testing-blue-origin-raises-new-glenn-on-the-launch-pad-for-first-time/)
-- [FTC bans antivirus giant Avast from selling its users’ browsing data to advertisers](https://techcrunch.com/2024/02/22/ftc-bans-avast-selling-customers-sensitive-browsing-data/)
-- [Sony’s PS VR2 is getting compatibility, possibly by end of year](https://techcrunch.com/2024/02/22/sonys-ps-vr2-is-getting-compatibility-possibly-by-end-of-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
