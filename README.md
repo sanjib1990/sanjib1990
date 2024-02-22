@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope spots neutron star hiding in supernova wreckage](https://www.space.com/james-webb-space-telescope-supernova-wreckage-neutron-star)
+- [Yorba’s service is like Mint for uncluttering your entire digital life](https://techcrunch.com/2024/02/22/yorbas-service-is-like-mint-for-uncluttering-your-entire-digital-life/)
+- [Nikola sells abandoned electric Badger pickup truck program to friend of disgraced founder Trevor Milton](https://techcrunch.com/2024/02/22/nikola-badger-diesel-brothers-trevor-milton-embr/)
 - [Radio signals from Orion nebula reveal new data about strange celestial objects: &#39;JuMBOS&#39;](https://www.space.com/jumbos-jupiter-stars-planets-james-webb-space-telescope-orion-radio-signals)
 - [Substack now lets writers curate a ‘network’ of recommended publications for their subscribers](https://techcrunch.com/2024/02/22/substack-now-lets-writers-curate-a-network-of-recommended-publications-for-their-subscribers/)
-- [SpaceX Falcon 9 rocket launching for record-tying 19th time tonight](https://www.space.com/spacex-starlink-launch-group-7-15)
-- [Google Pay takes its QR sound-box to small merchants in India after trial run](https://techcrunch.com/2024/02/22/google-pay-takes-its-qr-sound-box-to-small-merchants-in-india-after-trial-run/)
-- [Starbucks Odyssey’s community lead sees NFTs as the best way to build brand loyalty](https://techcrunch.com/2024/02/22/starbucks-odysseys-nfts-brand-loyalty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
