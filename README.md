@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronauts celebrate success of 1st surgery robot on ISS: &#39;It&#39;s a real game-changer&#39;](https://www.space.com/iss-robot-surgery-astronaut-celebrate-science)
-- [Hellohive is tackling hiring discrimination as more equitable hiring companies emerge](https://techcrunch.com/2024/02/22/hellohive-equitable-hiring-diversity/)
-- [Golden Ventures secures another $100M to invest in Canada’s tech ecosystem](https://techcrunch.com/2024/02/22/golden-ventures-100m-canada-tech-venture-capital/)
-- [TikTok launches its ‘Add to Music app’ feature available in over 160 countries](https://techcrunch.com/2024/02/22/tiktok-launches-its-add-to-music-app-feature-available-in-over-160-countries/)
-- [DatologyAI is building tech to automatically curate AI training data sets](https://techcrunch.com/2024/02/22/datologyai-is-building-tech-to-automatically-curate-ai-training-data-sets/)
+- [&#39;Intruder&#39; stars have changed Earth&#39;s climate over the eons. Here&#39;s how.](https://www.space.com/intruder-stars-change-earth-orbit-climate)
+- [Powerful twin solar flares erupt from sun as cell phone outages spike across US &lpar;video&rpar;](https://www.space.com/sun-2-solar-flares-february-22-2024-cell-phone-outages)
+- [Spotify follows Meta, YouTube and others by offering AUX, a service to connect brands and creators](https://techcrunch.com/2024/02/22/spotify-follows-meta-youtube-and-others-by-offering-aux-a-service-to-connect-brands-and-creators/)
+- [Women in AI: Krystal Kauffman, research fellow at the Distributed AI Research Institute](https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/)
+- [The women in AI making a difference](https://techcrunch.com/2024/02/22/the-women-in-ai-making-a-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
