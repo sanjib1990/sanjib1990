@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Intruder&#39; stars have changed Earth&#39;s climate over the eons. Here&#39;s how.](https://www.space.com/intruder-stars-change-earth-orbit-climate)
-- [Powerful twin solar flares erupt from sun as cell phone outages spike across US &lpar;video&rpar;](https://www.space.com/sun-2-solar-flares-february-22-2024-cell-phone-outages)
-- [Spotify follows Meta, YouTube and others by offering AUX, a service to connect brands and creators](https://techcrunch.com/2024/02/22/spotify-follows-meta-youtube-and-others-by-offering-aux-a-service-to-connect-brands-and-creators/)
-- [Women in AI: Krystal Kauffman, research fellow at the Distributed AI Research Institute](https://techcrunch.com/2024/02/22/women-in-ai-krystal-kauffman-research-fellow-at-the-distributed-ai-research-institute/)
-- [The women in AI making a difference](https://techcrunch.com/2024/02/22/the-women-in-ai-making-a-difference/)
+- [As VCs slow gaming investments, Frost Giant turns to community for fresh capital](https://techcrunch.com/2024/02/22/frost-giant-kickstarter-campaign/)
+- [Almost half of adults on TikTok have never posted a video, research shows](https://techcrunch.com/2024/02/22/almost-half-of-adults-on-tiktok-have-never-posted-a-video-research-shows/)
+- [Chrome gets a built-in AI writing tool powered by Gemini](https://techcrunch.com/2024/02/22/help-me-write-chrome-gets-a-built-in-ai-writing-tool-powered-by-gemini/)
+- [Rabbit’s Jesse Lyu hops into StrictlyVC LA on February 29](https://techcrunch.com/2024/02/22/rabbits-jesse-lyu-hops-into-strictlyvc-la-on-feb-29/)
+- [New &#39;Lunarcraft&#39; game lets you build your own moon base in the Minecraft world](https://www.space.com/jaxa-lunarcraft-minecraft-game-moon-base)
 <!-- BLOG-POST-LIST:END -->
 
 ---
