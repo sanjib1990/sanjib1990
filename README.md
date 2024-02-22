@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Intuitive Machines&#39; private Odysseus lander attempt historic moon landing today](https://www.space.com/intuitive-machines-im-1-private-moon-landing-webcast)
+- [Consolidation continues in micromobility as Cooltra snaps up Cityscoot](https://techcrunch.com/2024/02/22/consolidation-continues-in-micromobility-as-cooltra-snaps-up-cityscoot/)
 - [Hohm Energy to scale adoption of rooftop solar across South Africa, backed by $8M seed](https://techcrunch.com/2024/02/22/hohm-energy-to-scale-adoption-of-rooftop-solar-across-south-africa-backed-by-8m-seed/)
 - [Uber says firm to explore integration with India’s ONDC](https://techcrunch.com/2024/02/21/uber-ceo-says-firm-to-explore-integration-with-india-open-ondc/)
 - [Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech](https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/)
-- [Instagram launches its marketplace to connect brands and creators in 8 new countries](https://techcrunch.com/2024/02/21/instagram-launches-its-marketplace-to-connect-brands-and-creators-in-8-new-countries/)
-- [Antler’s founder on its vertical AI bet in Southeast Asia](https://techcrunch.com/2024/02/21/antler-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
