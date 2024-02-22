@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Antler’s founder on its vertical AI bet in Southeast Asia](https://techcrunch.com/2024/02/21/antler-ai/)
 - [Musk’s X withholds accounts, tweets in India to obey orders](https://techcrunch.com/2024/02/21/elon-musk-x-to-withhold-specific-accounts-and-tweets-in-india-to-comply-with-executive-orders/)
 - [Samsung is bringing Galaxy AI features to more devices](https://techcrunch.com/2024/02/21/samsung-is-bringing-galaxy-ai-features-to-more-devices/)
 - [Reesa Teesa’s ‘Who TF did I marry?’ TikToks are like an audiobook](https://techcrunch.com/2024/02/21/reesa-teesas-who-tf-did-i-marry-tiktoks-are-like-an-audiobook/)
 - [An asteroid the size of a bus will fly near Earth on Feb. 22 — but don&#39;t worry &lpar;video&rpar;](https://www.space.com/bus-size-asteroid-earth-close-flyby-february-2024)
-- [US health tech giant Change Healthcare hit by cyberattack](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
