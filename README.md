@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Expo in 100 Seconds](https://www.youtube.com/watch?v=vFW_TxKLyrE)
 - [Coding a Web Server in 25 Lines - Computerphile](https://www.youtube.com/watch?v=7GBlCinu9yg)
 - [There’s a fast new code editor in town](https://www.youtube.com/watch?v=JGz7Ou0Nwo8)
 - [Lecture 23: Visualizing Data](https://www.youtube.com/watch?v=C5JjMP8m-4E)
 - [Lecture 16: &lpar;More&rpar; Explanatory Data Analysis: Nonparametric Comparisons and Regressions](https://www.youtube.com/watch?v=ebKtv-S2S38)
-- [Lecture 12: Assessing and Deriving Estimators](https://www.youtube.com/watch?v=1eXWDepLpNU)
 <!-- YOUTUBE:END -->
 
 ---
