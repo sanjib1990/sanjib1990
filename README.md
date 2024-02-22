@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts celebrate success of 1st surgery robot on ISS: &#39;It&#39;s a real game-changer&#39;](https://www.space.com/iss-robot-surgery-astronaut-celebrate-science)
+- [Hellohive is tackling hiring discrimination as more equitable hiring companies emerge](https://techcrunch.com/2024/02/22/hellohive-equitable-hiring-diversity/)
 - [Golden Ventures secures another $100M to invest in Canada’s tech ecosystem](https://techcrunch.com/2024/02/22/golden-ventures-100m-canada-tech-venture-capital/)
 - [TikTok launches its ‘Add to Music app’ feature available in over 160 countries](https://techcrunch.com/2024/02/22/tiktok-launches-its-add-to-music-app-feature-available-in-over-160-countries/)
 - [DatologyAI is building tech to automatically curate AI training data sets](https://techcrunch.com/2024/02/22/datologyai-is-building-tech-to-automatically-curate-ai-training-data-sets/)
-- [&#39;Constellation&#39; episodes 1-3 review: A well-made thriller that may be revealing its cards too soon](https://www.space.com/constellation-season-1-episode-1-2-and-3-review)
-- [AddGlow takes on Reddit, Facebook with community-building software for brands](https://techcrunch.com/2024/02/22/addglow-reddit-community-brands-e-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
