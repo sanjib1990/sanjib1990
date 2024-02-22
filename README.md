@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s Oversight Board extends its scope to Threads](https://techcrunch.com/2024/02/22/the-oversight-board-extends-its-scope-to-metas-threads-app/)
-- [Here&#39;s what&#39;s landing on the moon today aboard Intuitive Machines&#39; Odysseus lander](https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads)
-- [Zūm Rails takes in first capital to launch new banking-as-a-service, FedNow offerings](https://techcrunch.com/2024/02/22/zum-rails-banking-as-a-service-fednow-fintech/)
-- [Watch Intuitive Machines&#39; private Odysseus lander attempt historic moon landing today](https://www.space.com/intuitive-machines-im-1-private-moon-landing-webcast)
-- [Consolidation continues in micromobility as Cooltra snaps up Cityscoot](https://techcrunch.com/2024/02/22/consolidation-continues-in-micromobility-as-cooltra-snaps-up-cityscoot/)
+- [Golden Ventures secures another $100M to invest in Canada’s tech ecosystem](https://techcrunch.com/2024/02/22/golden-ventures-100m-canada-tech-venture-capital/)
+- [TikTok launches its ‘Add to Music app’ feature available in over 160 countries](https://techcrunch.com/2024/02/22/tiktok-launches-its-add-to-music-app-feature-available-in-over-160-countries/)
+- [DatologyAI is building tech to automatically curate AI training data sets](https://techcrunch.com/2024/02/22/datologyai-is-building-tech-to-automatically-curate-ai-training-data-sets/)
+- [&#39;Constellation&#39; episodes 1-3 review: A well-made thriller that may be revealing its cards too soon](https://www.space.com/constellation-season-1-episode-1-2-and-3-review)
+- [AddGlow takes on Reddit, Facebook with community-building software for brands](https://techcrunch.com/2024/02/22/addglow-reddit-community-brands-e-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
