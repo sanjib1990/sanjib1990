@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s Oversight Board extends its scope to Threads](https://techcrunch.com/2024/02/22/the-oversight-board-extends-its-scope-to-metas-threads-app/)
+- [Here&#39;s what&#39;s landing on the moon today aboard Intuitive Machines&#39; Odysseus lander](https://www.space.com/intuitive-machines-odysseus-moon-lander-payloads)
 - [Zūm Rails takes in first capital to launch new banking-as-a-service, FedNow offerings](https://techcrunch.com/2024/02/22/zum-rails-banking-as-a-service-fednow-fintech/)
 - [Watch Intuitive Machines&#39; private Odysseus lander attempt historic moon landing today](https://www.space.com/intuitive-machines-im-1-private-moon-landing-webcast)
 - [Consolidation continues in micromobility as Cooltra snaps up Cityscoot](https://techcrunch.com/2024/02/22/consolidation-continues-in-micromobility-as-cooltra-snaps-up-cityscoot/)
-- [Hohm Energy to scale adoption of rooftop solar across South Africa, backed by $8M seed](https://techcrunch.com/2024/02/22/hohm-energy-to-scale-adoption-of-rooftop-solar-across-south-africa-backed-by-8m-seed/)
-- [Uber says firm to explore integration with India’s ONDC](https://techcrunch.com/2024/02/21/uber-ceo-says-firm-to-explore-integration-with-india-open-ondc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
