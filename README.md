@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Search startups DuckDuckGo and Neeva had a tough time competing with Google, court filing shows](https://techcrunch.com/2024/02/23/search-startups-duckduckgo-and-neeva-had-a-tough-time-competing-with-google-court-filing-shows/)
+- [Kerbal Space Program, ULA announce winners of Vulcan rocket challenge &lpar;exclusive&rpar;](https://www.space.com/kerbal-space-program-2-ula-vulcan-rocket-recreation-challenge)
+- [As Techstars retools, some former staffers say it lost focus on what made it successful](https://techcrunch.com/2024/02/23/as-techstars-retools-some-former-staffers-say-it-lost-focus-on-what-made-it-successful/)
+- [Techstars CEO defends changes, says physical presence in a city is not necessary for investment](https://techcrunch.com/2024/02/23/techstars-ceo-defends-changes-says-physical-presence-in-a-city-is-not-necessary-for-investment/)
+- [Google court filing reveals new business details of DuckDuckGo and Neeva](https://techcrunch.com/2024/02/23/search-startups-duckduckgo-and-neeva-had-a-tough-time-competing-with-google-court-filing-shows/)
 - [‘Embarrassing and wrong’: Google admits it lost control of image-generating AI](https://techcrunch.com/2024/02/23/embarrassing-and-wrong-google-admits-it-lost-control-of-image-generating-ai/)
-- [Virtual Staging AI helps Realtors digitally furnish rooms within seconds](https://techcrunch.com/2024/02/23/virtual-staging-ai-helps-realtors-digitally-furnish-rooms-within-seconds/)
-- [A bumpy road for EV manufacturers](https://techcrunch.com/2024/02/23/a-bumpy-road-for-ev-manufacturers/)
-- [Blue Origin&#39;s New Glenn rocket rises on launch pad ahead of debut liftoff &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-launch-pad-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
