@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Match Group’s deal with OpenAI is just business with AI glitter on top](https://techcrunch.com/2024/02/23/match-groups-deal-with-openai-is-just-business-with-ai-glitter-on-top/)
+- [Why a VR headset on the ISS &#39;really makes a difference&#39; for astronaut exercise](https://www.space.com/iss-vr-headset-astronaut-mental-health-exercise)
 - [See private in-space manufacturing capsule&#39;s historic return to Earth &lpar;photos&rpar;](https://www.space.com/varda-in-space-manufacturing-capsule-reentry-photos)
 - [Winning wireless with American strengths](https://techcrunch.com/2024/02/23/winning-wireless-with-american-strengths/)
 - [Two years since Russia’s invasion, Ukraine’s startups soldier on](https://techcrunch.com/2024/02/23/two-years-since-russias-invasion-ukraines-startups-soldier-on/)
-- [Our solar system map may need an update — the Kuiper belt could be way bigger](https://www.space.com/solar-system-map-kuiper-belt-extended-new-horizons-nasa)
-- [Byju’s investors vote to remove founder](https://techcrunch.com/2024/02/23/byjus-investors-unanimously-vote-to-remove-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
