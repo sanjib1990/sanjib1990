@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s iPhone business outpaces individual EU countries for Apple, Morgan Stanley says](https://techcrunch.com/2024/02/23/india-iphone-business-outpaces-individual-eu-countries-for-apple-morgan-stanley-says/)
+- [Hackers are exploiting ConnectWise flaws to deploy LockBit ransomware, security experts warn](https://techcrunch.com/2024/02/23/hackers-are-exploiting-connectwise-flaws-to-deploy-lockbit-ransomware-security-experts-warn/)
+- [Apple’s India iPhone business outpaces individual EU countries, Morgan Stanley says](https://techcrunch.com/2024/02/23/india-iphone-business-outpaces-individual-eu-countries-for-apple-morgan-stanley-says/)
 - [Armenia’s 10web brings AI website-building to WordPress](https://techcrunch.com/2024/02/22/10web-armenia/)
 - [Threads starts testing in-app camera shortcut and drafts](https://techcrunch.com/2024/02/22/threads-starts-testing-in-app-camera-and-drafts/)
 - [UnitedHealth says Change Healthcare hacked by nation state, as pharmacy outages drag on](https://techcrunch.com/2024/02/22/unitedhealth-change-healthcare-hacked-nation-state-outage/)
-- [Tumblr CEO publicly spars with trans user over account ban, revealing private account names in the process](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
