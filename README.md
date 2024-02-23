@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Embarrassing and wrong’: Google admits it lost control of image-generating AI](https://techcrunch.com/2024/02/23/embarrassing-and-wrong-google-admits-it-lost-control-of-image-generating-ai/)
+- [Virtual Staging AI helps Realtors digitally furnish rooms within seconds](https://techcrunch.com/2024/02/23/virtual-staging-ai-helps-realtors-digitally-furnish-rooms-within-seconds/)
 - [A bumpy road for EV manufacturers](https://techcrunch.com/2024/02/23/a-bumpy-road-for-ev-manufacturers/)
 - [Blue Origin&#39;s New Glenn rocket rises on launch pad ahead of debut liftoff &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-launch-pad-photo)
 - [3 tiny new moons found around Uranus and Neptune — and one is exceptionally tiny](https://www.space.com/new-moons-discovered-uranus-neptune)
-- [Treating a chatbot nicely might boost its performance — here’s why](https://techcrunch.com/2024/02/23/treating-a-chatbot-nicely-might-boost-its-performance-heres-why/)
-- [Intuitive Machines&#39; Odysseus moon lander didn&#39;t deploy camera during historic descent](https://www.space.com/intuitive-machines-odysseus-moon-lander-no-landing-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
