@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuitive Machines&#39; Odysseus lander is alive and well on the moon](https://www.space.com/intuitive-machines-odysseus-lander-alive-well-update-one)
+- [For Redditors who treat trading like trolling, Reddit’s IPO could be the ultimate meme](https://techcrunch.com/2024/02/23/reddit-wallstreetbets-risk-factor-ipo/)
 - [Mutale Nkonde’s nonprofit is working to make AI less biased](https://techcrunch.com/2024/02/23/mutale-nkondes-nonprofit-is-working-to-make-ai-less-biased/)
 - [Last call — Disrupt 2-for-1 sale ends today](https://techcrunch.com/2024/02/23/last-call-disrupt-2-for-1-sale-ends-today/)
 - [Sun erupts with most powerful solar flare since 2017 amid explosive week &lpar;video&rpar;](https://www.space.com/sun-solar-flare-most-powerful-since-2017-february-23-2024)
-- [Spyware leak offers ‘first-of-its-kind’ look inside Chinese government hacking efforts](https://techcrunch.com/2024/02/23/isoon-china-government-hacking-spyware-leak/)
-- [&#39;Spaceman&#39; sees Adam Sandler shine as a cosmonaut in crisis in Netflix&#39;s somber new sci-fi &lpar;review&rpar;](https://www.space.com/spaceman-netflix-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
