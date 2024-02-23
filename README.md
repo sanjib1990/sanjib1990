@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Search startups DuckDuckGo and Neeva had a tough time competing with Google, court filing shows](https://techcrunch.com/2024/02/23/search-startups-duckduckgo-and-neeva-had-a-tough-time-competing-with-google-court-filing-shows/)
 - [‘Embarrassing and wrong’: Google admits it lost control of image-generating AI](https://techcrunch.com/2024/02/23/embarrassing-and-wrong-google-admits-it-lost-control-of-image-generating-ai/)
 - [Virtual Staging AI helps Realtors digitally furnish rooms within seconds](https://techcrunch.com/2024/02/23/virtual-staging-ai-helps-realtors-digitally-furnish-rooms-within-seconds/)
 - [A bumpy road for EV manufacturers](https://techcrunch.com/2024/02/23/a-bumpy-road-for-ev-manufacturers/)
 - [Blue Origin&#39;s New Glenn rocket rises on launch pad ahead of debut liftoff &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-launch-pad-photo)
-- [3 tiny new moons found around Uranus and Neptune — and one is exceptionally tiny](https://www.space.com/new-moons-discovered-uranus-neptune)
 <!-- BLOG-POST-LIST:END -->
 
 ---
