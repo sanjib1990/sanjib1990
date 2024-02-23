@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mutale Nkonde’s nonprofit is working to make AI less biased](https://techcrunch.com/2024/02/23/mutale-nkondes-nonprofit-is-working-to-make-ai-less-biased/)
+- [Last call — Disrupt 2-for-1 sale ends today](https://techcrunch.com/2024/02/23/last-call-disrupt-2-for-1-sale-ends-today/)
+- [Sun erupts with most powerful solar flare since 2017 amid explosive week &lpar;video&rpar;](https://www.space.com/sun-solar-flare-most-powerful-since-2017-february-23-2024)
 - [Spyware leak offers ‘first-of-its-kind’ look inside Chinese government hacking efforts](https://techcrunch.com/2024/02/23/isoon-china-government-hacking-spyware-leak/)
 - [&#39;Spaceman&#39; sees Adam Sandler shine as a cosmonaut in crisis in Netflix&#39;s somber new sci-fi &lpar;review&rpar;](https://www.space.com/spaceman-netflix-review)
-- [Google is sunsetting the Google Pay app in the US later this year](https://techcrunch.com/2024/02/23/google-is-sunsetting-the-google-pay-app-in-the-us-later-this-year/)
-- [Match Group’s deal with OpenAI is just business with AI glitter on top](https://techcrunch.com/2024/02/23/match-groups-deal-with-openai-is-just-business-with-ai-glitter-on-top/)
-- [Why a VR headset on the ISS &#39;really makes a difference&#39; for astronaut exercise](https://www.space.com/iss-vr-headset-astronaut-mental-health-exercise)
 <!-- BLOG-POST-LIST:END -->
 
 ---
