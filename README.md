@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Quantum gravity&#39; could help unite quantum mechanics with general relativity at last](https://www.space.com/gravity-quantum-theory-cosmic-mysteries)
-- [Arc browser’s new AI-powered ‘pinch-to-summarize’ feature is clever, but often miss the mark](https://techcrunch.com/2024/02/23/arc-browsers-new-ai-powered-pinch-to-summarize-feature-is-clever-but-often-miss-the-mark/)
-- [Reddit downplays risks of developer backlash, decentralized social media in its IPO filing](https://techcrunch.com/2024/02/23/reddit-downplays-risks-of-developer-backlash-decentralized-social-media-in-its-ipo-filing/)
-- [Intuitive Machines&#39; Odysseus lander is alive and well on the moon](https://www.space.com/intuitive-machines-odysseus-lander-alive-well-update-one)
-- [Reddit cites r/WallStreetBets as a risk factor in its IPO filing](https://techcrunch.com/2024/02/23/reddit-wallstreetbets-risk-factor-ipo/)
+- [A bumpy road for EV manufacturers](https://techcrunch.com/2024/02/23/a-bumpy-road-for-ev-manufacturers/)
+- [Blue Origin&#39;s New Glenn rocket rises on launch pad ahead of debut liftoff &lpar;photo&rpar;](https://www.space.com/blue-origin-new-glenn-rocket-launch-pad-photo)
+- [3 tiny new moons found around Uranus and Neptune — and one is exceptionally tiny](https://www.space.com/new-moons-discovered-uranus-neptune)
+- [Treating a chatbot nicely might boost its performance — here’s why](https://techcrunch.com/2024/02/23/treating-a-chatbot-nicely-might-boost-its-performance-heres-why/)
+- [Intuitive Machines&#39; Odysseus moon lander didn&#39;t deploy camera during historic descent](https://www.space.com/intuitive-machines-odysseus-moon-lander-no-landing-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
