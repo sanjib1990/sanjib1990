@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See private in-space manufacturing capsule&#39;s historic return to Earth &lpar;photos&rpar;](https://www.space.com/varda-in-space-manufacturing-capsule-reentry-photos)
+- [Winning wireless with American strengths](https://techcrunch.com/2024/02/23/winning-wireless-with-american-strengths/)
+- [Two years since Russia’s invasion, Ukraine’s startups soldier on](https://techcrunch.com/2024/02/23/two-years-since-russias-invasion-ukraines-startups-soldier-on/)
 - [Our solar system map may need an update — the Kuiper belt could be way bigger](https://www.space.com/solar-system-map-kuiper-belt-extended-new-horizons-nasa)
-- [Byju’s investors unanimously vote to remove founder](https://techcrunch.com/2024/02/23/byjus-investors-unanimously-vote-to-remove-founder/)
-- [Space Perspective is nearly ready to fly tourists on luxury balloon rides near the edge of space &lpar;exclusive&rpar;](https://www.space.com/space-perspective-spaceship-neptune-reveal-jane-poynter-interview)
-- [Hackers are exploiting ConnectWise flaws to deploy LockBit ransomware, security experts warn](https://techcrunch.com/2024/02/23/hackers-are-exploiting-connectwise-flaws-to-deploy-lockbit-ransomware-security-experts-warn/)
-- [Apple’s India iPhone business outpaces individual EU countries, Morgan Stanley says](https://techcrunch.com/2024/02/23/india-iphone-business-outpaces-individual-eu-countries-for-apple-morgan-stanley-says/)
+- [Byju’s investors vote to remove founder](https://techcrunch.com/2024/02/23/byjus-investors-unanimously-vote-to-remove-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
