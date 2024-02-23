@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Perspective is nearly ready to fly tourists on luxury balloon rides near the edge of space &lpar;exclusive&rpar;](https://www.space.com/space-perspective-spaceship-neptune-reveal-jane-poynter-interview)
 - [Hackers are exploiting ConnectWise flaws to deploy LockBit ransomware, security experts warn](https://techcrunch.com/2024/02/23/hackers-are-exploiting-connectwise-flaws-to-deploy-lockbit-ransomware-security-experts-warn/)
 - [Apple’s India iPhone business outpaces individual EU countries, Morgan Stanley says](https://techcrunch.com/2024/02/23/india-iphone-business-outpaces-individual-eu-countries-for-apple-morgan-stanley-says/)
 - [Armenia’s 10web brings AI website-building to WordPress](https://techcrunch.com/2024/02/22/10web-armenia/)
 - [Threads starts testing in-app camera shortcut and drafts](https://techcrunch.com/2024/02/22/threads-starts-testing-in-app-camera-and-drafts/)
-- [UnitedHealth says Change Healthcare hacked by nation state, as pharmacy outages drag on](https://techcrunch.com/2024/02/22/unitedhealth-change-healthcare-hacked-nation-state-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
