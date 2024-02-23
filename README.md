@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UnitedHealth says Change Healthcare hacked by nation state, as pharmacy outages drag on](https://techcrunch.com/2024/02/22/unitedhealth-change-healthcare-hacked-nation-state-outage/)
 - [Tumblr CEO publicly spars with trans user over account ban, revealing private account names in the process](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/)
 - [Crypto users in Nigeria briefly lose access to Binance, Kraken and Coinbase](https://techcrunch.com/2024/02/22/crypto-users-in-nigeria-briefly-lose-access-to-binance-kraken-and-coinbase/)
 - [Intuitive Machines lands on moon in nail-biting descent of private Odysseus lander, a 1st for US since 1972](https://www.space.com/intuitive-machines-odysseus-private-moon-landing-success)
 - [Intuitive Machines makes history by landing the first commercial spacecraft on the moon](https://techcrunch.com/2024/02/22/intuitive-machines-makes-history-by-landing-the-first-commercial-spacecraft-on-the-moon/)
-- [Apple reveals new details about Spotify’s business as possible EU fine nears](https://techcrunch.com/2024/02/22/as-possible-ec-fine-nears-apple-claims-spotify-is-trying-to-get-limitless-access-to-its-tools-without-paying/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
