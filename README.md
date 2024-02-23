@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Quantum gravity&#39; could help unite quantum mechanics with general relativity at last](https://www.space.com/gravity-quantum-theory-cosmic-mysteries)
+- [Arc browser’s new AI-powered ‘pinch-to-summarize’ feature is clever, but often miss the mark](https://techcrunch.com/2024/02/23/arc-browsers-new-ai-powered-pinch-to-summarize-feature-is-clever-but-often-miss-the-mark/)
+- [Reddit downplays risks of developer backlash, decentralized social media in its IPO filing](https://techcrunch.com/2024/02/23/reddit-downplays-risks-of-developer-backlash-decentralized-social-media-in-its-ipo-filing/)
 - [Intuitive Machines&#39; Odysseus lander is alive and well on the moon](https://www.space.com/intuitive-machines-odysseus-lander-alive-well-update-one)
-- [For Redditors who treat trading like trolling, Reddit’s IPO could be the ultimate meme](https://techcrunch.com/2024/02/23/reddit-wallstreetbets-risk-factor-ipo/)
-- [Mutale Nkonde’s nonprofit is working to make AI less biased](https://techcrunch.com/2024/02/23/mutale-nkondes-nonprofit-is-working-to-make-ai-less-biased/)
-- [Last call — Disrupt 2-for-1 sale ends today](https://techcrunch.com/2024/02/23/last-call-disrupt-2-for-1-sale-ends-today/)
-- [Sun erupts with most powerful solar flare since 2017 amid explosive week &lpar;video&rpar;](https://www.space.com/sun-solar-flare-most-powerful-since-2017-february-23-2024)
+- [Reddit cites r/WallStreetBets as a risk factor in its IPO filing](https://techcrunch.com/2024/02/23/reddit-wallstreetbets-risk-factor-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
