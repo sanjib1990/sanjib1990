@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you want to spend a year inside a mock Mars base for science? If so, NASA wants you.](https://www.space.com/nasa-seeks-applicants-mock-mars-mission-chapea-2)
+- [This Week in AI: Addressing racism in AI image generators](https://techcrunch.com/2024/02/24/this-week-in-ai-addressing-racism-in-ai-image-generators/)
 - [India plans to include a helicopter on its next Mars mission](https://www.space.com/india-mars-helicopter-mangalyaan-mission)
 - [This Week In Space podcast: Episode 99 — Moonshots, Falling Satellites &amp; Starships!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-99-moonshots-falling-satellites-starships)
 - [Miranda Bogen is creating solutions to help govern AI](https://techcrunch.com/2024/02/24/miranda-bogen-is-creating-solutions-to-help-govern-ai/)
-- [Byju’s founder, ousted by shareholders, says rumors of his firing ‘greatly exaggerated’](https://techcrunch.com/2024/02/24/byjus-founder-ousted-by-shareholders-says-rumors-of-his-firing-greatly-exaggerated/)
-- [February&#39;s Full Snow Moon rises tonight, the smallest full moon of 2024](https://www.space.com/full-moon-rises-tonight-february-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
