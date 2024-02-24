@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is it time for moon laws? 1st private lunar landing emphasizes the need for new policy](https://www.space.com/lunar-policy-ethics-intuitive-machines-telescopes-moon-odysseus-lander)
 - [Intuitive Machines&#39; Odysseus lander tipped over on the moon during &#39;spicy&#39; lunar landing](https://www.space.com/intuitive-machines-odysseus-moon-lander-tipped-over)
 - [Quick thinking and a stroke of luck averted a moon lander disaster for Intuitive Machines](https://techcrunch.com/2024/02/23/quick-thinking-and-a-stroke-of-luck-averted-a-moon-lander-disaster-for-intuitive-machines/)
 - [Kerbal Space Program, ULA announce winners of Vulcan rocket challenge &lpar;exclusive&rpar;](https://www.space.com/kerbal-space-program-2-ula-vulcan-rocket-recreation-challenge)
 - [As Techstars retools, some former staffers say it lost focus on what made it successful](https://techcrunch.com/2024/02/23/as-techstars-retools-some-former-staffers-say-it-lost-focus-on-what-made-it-successful/)
-- [Techstars CEO defends changes, says physical presence in a city is not necessary for investment](https://techcrunch.com/2024/02/23/techstars-ceo-defends-changes-says-physical-presence-in-a-city-is-not-necessary-for-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
