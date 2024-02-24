@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick thinking and a stroke of luck averted a Moon lander disaster for Intuitive Machines](https://techcrunch.com/2024/02/23/quick-thinking-and-a-stroke-of-luck-averted-a-moon-lander-disaster-for-intuitive-machines/)
+- [Intuitive Machines&#39; Odysseus lander tipped over on the moon during &#39;spicy&#39; lunar landing](https://www.space.com/intuitive-machines-odysseus-moon-lander-tipped-over)
+- [Quick thinking and a stroke of luck averted a moon lander disaster for Intuitive Machines](https://techcrunch.com/2024/02/23/quick-thinking-and-a-stroke-of-luck-averted-a-moon-lander-disaster-for-intuitive-machines/)
 - [Kerbal Space Program, ULA announce winners of Vulcan rocket challenge &lpar;exclusive&rpar;](https://www.space.com/kerbal-space-program-2-ula-vulcan-rocket-recreation-challenge)
 - [As Techstars retools, some former staffers say it lost focus on what made it successful](https://techcrunch.com/2024/02/23/as-techstars-retools-some-former-staffers-say-it-lost-focus-on-what-made-it-successful/)
 - [Techstars CEO defends changes, says physical presence in a city is not necessary for investment](https://techcrunch.com/2024/02/23/techstars-ceo-defends-changes-says-physical-presence-in-a-city-is-not-necessary-for-investment/)
-- [Google court filing reveals new business details of DuckDuckGo and Neeva](https://techcrunch.com/2024/02/23/search-startups-duckduckgo-and-neeva-had-a-tough-time-competing-with-google-court-filing-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
