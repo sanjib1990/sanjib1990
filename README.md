@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [February&#39;s Full Snow Moon rises tonight, the smallest full moon of 2024](https://www.space.com/full-moon-rises-tonight-february-2024)
 - [Is it time for moon laws? 1st private lunar landing emphasizes the need for new policy](https://www.space.com/lunar-policy-ethics-intuitive-machines-telescopes-moon-odysseus-lander)
 - [Intuitive Machines&#39; Odysseus lander tipped over on the moon during &#39;spicy&#39; lunar landing](https://www.space.com/intuitive-machines-odysseus-moon-lander-tipped-over)
 - [Quick thinking and a stroke of luck averted a moon lander disaster for Intuitive Machines](https://techcrunch.com/2024/02/23/quick-thinking-and-a-stroke-of-luck-averted-a-moon-lander-disaster-for-intuitive-machines/)
 - [Kerbal Space Program, ULA announce winners of Vulcan rocket challenge &lpar;exclusive&rpar;](https://www.space.com/kerbal-space-program-2-ula-vulcan-rocket-recreation-challenge)
-- [As Techstars retools, some former staffers say it lost focus on what made it successful](https://techcrunch.com/2024/02/23/as-techstars-retools-some-former-staffers-say-it-lost-focus-on-what-made-it-successful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
