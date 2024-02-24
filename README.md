@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With liquidity rare, VCs may get creative to return investor cash](https://techcrunch.com/2024/02/24/with-liquidity-rare-vcs-may-get-creative-to-return-investor-cash/)
+- [Equity Shot: All about the Reddit IPO!](https://techcrunch.com/2024/02/24/equity-shot-all-about-the-reddit-ipo/)
 - [Stellantis CEO says there’s still life in Waymo deal for self-driving delivery vans](https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/)
 - [Do you want to spend a year inside a mock Mars base for science? If so, NASA wants you.](https://www.space.com/nasa-seeks-applicants-mock-mars-mission-chapea-2)
 - [This Week in AI: Addressing racism in AI image generators](https://techcrunch.com/2024/02/24/this-week-in-ai-addressing-racism-in-ai-image-generators/)
-- [India plans to include a helicopter on its next Mars mission](https://www.space.com/india-mars-helicopter-mangalyaan-mission)
-- [This Week In Space podcast: Episode 99 — Moonshots, Falling Satellites &amp; Starships!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-99-moonshots-falling-satellites-starships)
 <!-- BLOG-POST-LIST:END -->
 
 ---
