@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India plans to include a helicopter on its next Mars mission](https://www.space.com/india-mars-helicopter-mangalyaan-mission)
+- [This Week In Space podcast: Episode 99 — Moonshots, Falling Satellites &amp; Starships!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-99-moonshots-falling-satellites-starships)
+- [Miranda Bogen is creating solutions to help govern AI](https://techcrunch.com/2024/02/24/miranda-bogen-is-creating-solutions-to-help-govern-ai/)
+- [Byju’s founder, ousted by shareholders, says rumors of his firing ‘greatly exaggerated’](https://techcrunch.com/2024/02/24/byjus-founder-ousted-by-shareholders-says-rumors-of-his-firing-greatly-exaggerated/)
 - [February&#39;s Full Snow Moon rises tonight, the smallest full moon of 2024](https://www.space.com/full-moon-rises-tonight-february-2024)
-- [Is it time for moon laws? 1st private lunar landing emphasizes the need for new policy](https://www.space.com/lunar-policy-ethics-intuitive-machines-telescopes-moon-odysseus-lander)
-- [Intuitive Machines&#39; Odysseus lander tipped over on the moon during &#39;spicy&#39; lunar landing](https://www.space.com/intuitive-machines-odysseus-moon-lander-tipped-over)
-- [Quick thinking and a stroke of luck averted a moon lander disaster for Intuitive Machines](https://techcrunch.com/2024/02/23/quick-thinking-and-a-stroke-of-luck-averted-a-moon-lander-disaster-for-intuitive-machines/)
-- [Kerbal Space Program, ULA announce winners of Vulcan rocket challenge &lpar;exclusive&rpar;](https://www.space.com/kerbal-space-program-2-ula-vulcan-rocket-recreation-challenge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
