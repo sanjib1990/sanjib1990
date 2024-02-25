@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 moon astronauts will enjoy maple cream cookies and smoked salmon thanks to Canada](https://www.space.com/canada-artemis-2-moon-astronaut-food-menu)
 - [Google releases new open LLMs, Rivian lays off staff and Signal rolls out usernames](https://techcrunch.com/2024/02/24/google-releases-new-open-ai-models-layoffs-at-rivian-and-signal-rolls-out-usernames/)
 - [SpaceX to launch 24 Starlink satellites from Florida on Sunday](https://www.space.com/spacex-starlink-launch-group-6-39)
 - [With liquidity rare, VCs may get creative to return investor cash](https://techcrunch.com/2024/02/24/with-liquidity-rare-vcs-may-get-creative-to-return-investor-cash/)
 - [Equity Shot: All about the Reddit IPO!](https://techcrunch.com/2024/02/24/equity-shot-all-about-the-reddit-ipo/)
-- [Stellantis CEO says there’s still life in Waymo deal for self-driving delivery vans](https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
