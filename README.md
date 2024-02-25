@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe remains hard to crack for North American GPs](https://techcrunch.com/2024/02/25/europe-remains-hard-to-crack-for-north-american-gps/)
 - [ISS astronauts witness &#39;spectacular&#39; auroras from space &lpar;photos&rpar;](https://www.space.com/iss-aurora-solar-maximum-astronaut-surprise)
 - [Amba Kak creates policy recommendations to address AI concerns](https://techcrunch.com/2024/02/25/amba-kak-creates-policy-recommendations-to-address-ai-concerns/)
 - [James Webb telescope finds ancient galaxy larger than our Milky Way, and it&#39;s threatening to upend cosmology](https://www.space.com/ancient-galaxy-upending-cosmology)
 - [&#39;A wonderful spectacle&#39;: Photographer snaps rare solar eruption as &#39;magnetic noose&#39; strangles the sun&#39;s south pole](https://www.space.com/sun-rare-solar-eruption-magnetic-noose)
-- [Artemis 2 moon astronauts will enjoy maple cream cookies and smoked salmon thanks to Canada](https://www.space.com/canada-artemis-2-moon-astronaut-food-menu)
 <!-- BLOG-POST-LIST:END -->
 
 ---
