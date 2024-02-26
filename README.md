@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google announces new accessibility and productivity features at MWC](https://techcrunch.com/2024/02/26/google-announces-new-accessibility-and-productivity-features-at-mwc/)
-- [Truecaller brings call recording and transcription to India](https://techcrunch.com/2024/02/25/truecaller-brings-call-recording-and-transcription-to-india/)
-- [SpaceX, NASA &#39;go&#39; to launch Crew-8 astronaut mission to ISS on March 1](https://www.space.com/spacex-crew-8-astronaut-mission-go-for-march-2024-launch)
-- [Stellantis CEO dishes on Waymo, Rivian cuts staff and the great EV softening continues](https://techcrunch.com/2024/02/25/stellantis-ceo-dishes-on-waymo-rivian-cuts-staff-and-the-great-ev-softening-continues/)
-- [These desktop lamps beam near-infrared light, in a bid to improve your mood](https://techcrunch.com/2024/02/25/these-desktop-lamps-beam-near-infrared-light-in-a-bid-to-improve-your-mood/)
+- [Interview Kickstart attracts maiden investment for tackling tech talent crunch](https://techcrunch.com/2024/02/26/interview-kickstart-attracts-maiden-investment-for-tackling-tech-talent-crunch/)
+- [What is the big rip, and can we stop it?](https://www.space.com/universe-the-big-rip-can-we-stop-it)
+- [Lenovo’s laptop concept is fully transparent, but the point isn’t entirely clear](https://techcrunch.com/2024/02/26/lenovos-laptop-concept-is-fully-transparent-but-the-point-isnt-entirely-clear/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Google gives Android the AI treatment at MWC](https://techcrunch.com/2024/02/26/google-announces-new-accessibility-and-productivity-features-at-mwc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
