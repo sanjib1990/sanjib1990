@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Milky Way&#39;s enormous, star-studded &#39;Radcliffe Wave&#39; is literally waving](https://www.space.com/radcliffe-wave-waving-milky-way)
-- [Ingrediome believes it can solve the lab grown protein taste problem](https://techcrunch.com/2024/02/26/ingrediome-israeli-startup-lab-protein-taste-food-tech/)
-- [Interview Kickstart, a profitable startup, raises maiden funding to tackle tech talent crunch](https://techcrunch.com/2024/02/26/interview-kickstart-attracts-maiden-investment-for-tackling-tech-talent-crunch/)
-- [What is the big rip, and can we stop it?](https://www.space.com/universe-the-big-rip-can-we-stop-it)
-- [Lenovo’s laptop concept is fully transparent, but the point isn’t entirely clear](https://techcrunch.com/2024/02/26/lenovos-laptop-concept-is-fully-transparent-but-the-point-isnt-entirely-clear/)
+- [Darwin AI gives small LatAm companies AI-powered sales assistant](https://techcrunch.com/2024/02/26/darwin-ai-latam-ai-sales-assistant/)
+- [FlowGPT is the wild west of GenAI apps](https://techcrunch.com/2024/02/26/flowgpt-is-the-wild-west-of-genai-apps/)
+- [Meet BeScene, a Tinder-style networking app for the film industry](https://techcrunch.com/2024/02/26/bescene-tinder-style-networking-app-for-filmmakers/)
+- [NASA&#39;s OSIRIS-APEX asteroid probe wakes up after surviving close pass by the sun](https://www.space.com/osiris-apex-online-close-approach-sun)
+- [LoanDepot says about 17 million customers had personal data and Social Security numbers stolen during cyberattack](https://techcrunch.com/2024/02/26/loandepot-millions-sensitive-personal-data-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
