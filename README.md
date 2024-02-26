@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Twitter engineers are building Particle, an AI-powered news reader](https://techcrunch.com/2024/02/26/former-twitter-engineers-are-building-particle-an-ai-powered-news-reader/)
+- [Ransomware attack blamed for Change Healthcare outage stalling US prescriptions](https://techcrunch.com/2024/02/26/ransomware-attack-change-healthcare-prescription-pharmacy-outages/)
+- [Instagram is working on a ‘Friend Map’ feature that would let you track friends’ locations](https://techcrunch.com/2024/02/26/instagram-confirms-developing-snap-map-like-friend-map-feature/)
+- [Ingenuity Mars helicopter snapped rotor blade during hard landing last month &lpar;video, photo&rpar;](https://www.space.com/ingenuity-mars-helicopter-broken-blade-perseverance-rover)
 - [Threads adds a bookmarking feature for saving favorite posts](https://techcrunch.com/2024/02/26/threads-adds-a-bookmarking-feature-for-saving-favorite-posts/)
-- [Geothermal startup Fervo Energy is tapping fresh $221M round, filing reveals](https://techcrunch.com/2024/02/26/fervo-energy-fundraising/)
-- [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/02/26/independent-vision-os-apps-for-the-apple-vision-pro/)
-- [It&#39;s alive! JAXA&#39;s SLIM moon lander sends home new photos after surviving frigid lunar night](https://www.space.com/japan-slim-moon-lander-wakeup-lunar-night)
-- [Doublepoint launches its WowMouse gesture-touch control app for Pixel Watch 2](https://techcrunch.com/2024/02/26/doublepoint-launches-its-wowmouse-gesture-touch-control-app-for-pixel-watch-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
