@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [They made React great again?](https://www.youtube.com/watch?v=4k6Xgjqkad4)
 - [Let’s play… Does your code suck? JavaScript Variables Edition](https://www.youtube.com/watch?v=ZRjmGq1gAEQ)
 - [Google has the best AI now, but there&#39;s a problem...](https://www.youtube.com/watch?v=xPA0LFzUDiE)
 - [Expo in 100 Seconds](https://www.youtube.com/watch?v=vFW_TxKLyrE)
 - [Coding a Web Server in 25 Lines - Computerphile](https://www.youtube.com/watch?v=7GBlCinu9yg)
-- [There’s a fast new code editor in town](https://www.youtube.com/watch?v=JGz7Ou0Nwo8)
 <!-- YOUTUBE:END -->
 
 ---
