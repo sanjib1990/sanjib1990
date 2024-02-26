@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stellantis CEO dishes on Waymo, Rivian cuts staff and the great EV softening continues](https://techcrunch.com/2024/02/25/stellantis-ceo-dishes-on-waymo-rivian-cuts-staff-and-the-great-ev-softening-continues/)
 - [These desktop lamps beam near-infrared light, in a bid to improve your mood](https://techcrunch.com/2024/02/25/these-desktop-lamps-beam-near-infrared-light-in-a-bid-to-improve-your-mood/)
 - [Heck, might as well put the back of your phone to work](https://techcrunch.com/2024/02/25/heck-might-as-well-put-the-back-of-your-phone-to-work/)
 - [Europe remains hard to crack for North American GPs](https://techcrunch.com/2024/02/25/europe-remains-hard-to-crack-for-north-american-gps/)
 - [ISS astronauts witness &#39;spectacular&#39; auroras from space &lpar;photos&rpar;](https://www.space.com/iss-aurora-solar-maximum-astronaut-surprise)
-- [Amba Kak creates policy recommendations to address AI concerns](https://techcrunch.com/2024/02/25/amba-kak-creates-policy-recommendations-to-address-ai-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
