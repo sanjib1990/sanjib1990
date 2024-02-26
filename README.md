@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Historic spacecraft landing double-header from Varda, Intuitive Machines](https://techcrunch.com/2024/02/26/historic-spacecraft-landing-double-header-from-varda-intuitive-machines/)
+- [FAA closes investigation into explosive 2nd flight of SpaceX&#39;s Starship megarocket](https://www.space.com/faa-closes-investigation-second-spacex-starship-flight)
 - [Reddit users wonder if the next big meme stock is Reddit itself](https://techcrunch.com/2024/02/26/reddit-users-wonder-if-the-next-big-meme-stock-is-reddit-itself/)
 - [Intuitive Machines&#39; historic moon landing builds momentum for Artemis, astronaut Tracy C. Dyson says &lpar;exclusive&rpar;](https://www.space.com/intuitive-machines-moon-landing-artemis-tracy-dyson)
 - [MWC 2024: Everything announced so far, including a Samsung smart ring, Google AI features](https://techcrunch.com/2024/02/26/mwc-2024-everything-you-need-to-know/)
-- [President Biden congratulates Intuitive Machines on historic moon landing](https://www.space.com/white-house-congratulates-intuitive-machines-moon-landing)
-- [QIA to invest $1 billion in international and regional venture capital funds](https://techcrunch.com/2024/02/26/qia-to-invest-1-billion-in-international-and-regional-venture-capital-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
