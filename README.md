@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OnePlus’ Watch 2 gets 100 hours of battery thanks to a pair of chips and Wear OS tweaks](https://techcrunch.com/2024/02/26/oneplus-watch-2/)
-- [The mathematically perfect exoplanet system — a perfect place to search for alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
-- [Why OnePlus waited three years to release a new smartwatch](https://techcrunch.com/2024/02/26/why-oneplus-waited-three-years-to-release-a-new-smartwatch/)
-- [This is Xiaomi’s first electric car, the SU7](https://techcrunch.com/2024/02/26/this-is-xiaomis-first-electric-car-the-su7/)
-- [Vijay Shekhar Sharma steps down from Paytm Payments Bank board](https://techcrunch.com/2024/02/26/vijay-shekhar-sharma-steps-down-from-paytm-payments-bank-board/)
+- [Researchers say easy-to-exploit security bugs in ConnectWise remote access software now under mass-attack](https://techcrunch.com/2024/02/26/researchers-say-easy-to-exploit-security-bugs-in-connectwise-remote-access-software-now-under-mass-attack/)
+- [Meta drops lawsuit against web scraping firm Bright Data that sold millions of Instagram records](https://techcrunch.com/2024/02/26/meta-drops-lawsuit-against-web-scraping-firm-bright-data-that-sold-millions-of-instagram-records/)
+- [Brash new &#39;Borderlands&#39; trailer takes fans to the abandoned planet of Pandora](https://www.space.com/borderlands-trailer-planet-pandora)
+- [Whoopi Goldberg-backed BLKFAM launches with 1,000+ hours of kids’ programming](https://techcrunch.com/2024/02/26/whoopi-goldberg-backed-blkfam-launches-free-family-streaming-service/)
+- [Google hopeful of fix for Gemini’s historical image diversity issue within weeks](https://techcrunch.com/2024/02/26/google-hopeful-of-fix-for-geminis-historical-image-diversity-issue-within-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
