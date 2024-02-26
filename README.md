@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Darwin AI gives small LatAm companies AI-powered sales assistant](https://techcrunch.com/2024/02/26/darwin-ai-latam-ai-sales-assistant/)
-- [FlowGPT is the wild west of GenAI apps](https://techcrunch.com/2024/02/26/flowgpt-is-the-wild-west-of-genai-apps/)
-- [Meet BeScene, a Tinder-style networking app for the film industry](https://techcrunch.com/2024/02/26/bescene-tinder-style-networking-app-for-filmmakers/)
-- [NASA&#39;s OSIRIS-APEX asteroid probe wakes up after surviving close pass by the sun](https://www.space.com/osiris-apex-online-close-approach-sun)
-- [LoanDepot says about 17 million customers had personal data and Social Security numbers stolen during cyberattack](https://techcrunch.com/2024/02/26/loandepot-millions-sensitive-personal-data-ransomware/)
+- [OnePlus’ Watch 2 gets 100 hours of battery thanks to a pair of chips and Wear OS tweaks](https://techcrunch.com/2024/02/26/oneplus-watch-2/)
+- [The mathematically perfect exoplanet system — a perfect place to search for alien tech](https://www.space.com/alien-technosignatures-exoplanet-mathematically-perfect-orbits)
+- [Why OnePlus waited three years to release a new smartwatch](https://techcrunch.com/2024/02/26/why-oneplus-waited-three-years-to-release-a-new-smartwatch/)
+- [This is Xiaomi’s first electric car, the SU7](https://techcrunch.com/2024/02/26/this-is-xiaomis-first-electric-car-the-su7/)
+- [Vijay Shekhar Sharma steps down from Paytm Payments Bank board](https://techcrunch.com/2024/02/26/vijay-shekhar-sharma-steps-down-from-paytm-payments-bank-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
