@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads adds a bookmarking feature for saving favorite posts](https://techcrunch.com/2024/02/26/threads-adds-a-bookmarking-feature-for-saving-favorite-posts/)
+- [Geothermal startup Fervo Energy is tapping fresh $221M round, filing reveals](https://techcrunch.com/2024/02/26/fervo-energy-fundraising/)
 - [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/02/26/independent-vision-os-apps-for-the-apple-vision-pro/)
 - [It&#39;s alive! JAXA&#39;s SLIM moon lander sends home new photos after surviving frigid lunar night](https://www.space.com/japan-slim-moon-lander-wakeup-lunar-night)
 - [Doublepoint launches its WowMouse gesture-touch control app for Pixel Watch 2](https://techcrunch.com/2024/02/26/doublepoint-launches-its-wowmouse-gesture-touch-control-app-for-pixel-watch-2/)
-- [UiPath finds firmer financial footing with pivot to general automation and AI](https://techcrunch.com/2024/02/26/uipath-stock-turnaround-general-automation-ai/)
-- [Zombie star earns metal scar while chewing its own planets: &#39;Nothing like this has been seen before&#39;](https://www.space.com/zombie-star-devouring-planets-metal-scar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
