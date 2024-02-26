@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers say easy-to-exploit security bugs in ConnectWise remote access software now under mass-attack](https://techcrunch.com/2024/02/26/researchers-say-easy-to-exploit-security-bugs-in-connectwise-remote-access-software-now-under-mass-attack/)
-- [Meta drops lawsuit against web scraping firm Bright Data that sold millions of Instagram records](https://techcrunch.com/2024/02/26/meta-drops-lawsuit-against-web-scraping-firm-bright-data-that-sold-millions-of-instagram-records/)
-- [Brash new &#39;Borderlands&#39; trailer takes fans to the abandoned planet of Pandora](https://www.space.com/borderlands-trailer-planet-pandora)
-- [Whoopi Goldberg-backed BLKFAM launches with 1,000+ hours of kids’ programming](https://techcrunch.com/2024/02/26/whoopi-goldberg-backed-blkfam-launches-free-family-streaming-service/)
-- [Google hopeful of fix for Gemini’s historical image diversity issue within weeks](https://techcrunch.com/2024/02/26/google-hopeful-of-fix-for-geminis-historical-image-diversity-issue-within-weeks/)
+- [Gravitational anomalies reveal seamount 3 times the height of world&#39;s tallest building](https://www.space.com/seamount-discovered-via-gravitational-anomalies)
+- [Samsung centers sleep with its first smart ring](https://techcrunch.com/2024/02/26/samsung-centers-sleep-with-its-first-smart-ring/)
+- [MWC 2024: Everything announced so far](https://techcrunch.com/2024/02/26/mwc-2024-everything-you-need-to-know/)
+- [Intuitive Machines&#39; Odysseus moon lander beams home 1st photos from lunar surface](https://www.space.com/intuitive-machines-odysseus-lander-images-update-lro)
+- [NASA&#39;s asteroid-impacting DART mission completely changed the shape of its target](https://www.space.com/nasa-dart-mission-dimorphos-didymos-asteroid-impact-reshaping)
 <!-- BLOG-POST-LIST:END -->
 
 ---
