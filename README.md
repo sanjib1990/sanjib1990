@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [President Biden congratulates Intuitive Machines on historic moon landing](https://www.space.com/white-house-congratulates-intuitive-machines-moon-landing)
+- [QIA to invest $1 billion in international and regional venture capital funds](https://techcrunch.com/2024/02/26/qia-to-invest-1-billion-in-international-and-regional-venture-capital-funds/)
+- [Feds hack LockBit, LockBit springs back. Now what?](https://techcrunch.com/2024/02/26/lockbit-ransomware-takedown-now-what/)
 - [Former Twitter engineers are building Particle, an AI-powered news reader](https://techcrunch.com/2024/02/26/former-twitter-engineers-are-building-particle-an-ai-powered-news-reader/)
 - [Ransomware attack blamed for Change Healthcare outage stalling US prescriptions](https://techcrunch.com/2024/02/26/ransomware-attack-change-healthcare-prescription-pharmacy-outages/)
-- [Instagram is working on a ‘Friend Map’ feature that would let you track friends’ locations](https://techcrunch.com/2024/02/26/instagram-confirms-developing-snap-map-like-friend-map-feature/)
-- [Ingenuity Mars helicopter snapped rotor blade during hard landing last month &lpar;video, photo&rpar;](https://www.space.com/ingenuity-mars-helicopter-broken-blade-perseverance-rover)
-- [Threads adds a bookmarking feature for saving favorite posts](https://techcrunch.com/2024/02/26/threads-adds-a-bookmarking-feature-for-saving-favorite-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
