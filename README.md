@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Interview Kickstart attracts maiden investment for tackling tech talent crunch](https://techcrunch.com/2024/02/26/interview-kickstart-attracts-maiden-investment-for-tackling-tech-talent-crunch/)
+- [Interview Kickstart, a profitable startup, raises maiden funding to tackle tech talent crunch](https://techcrunch.com/2024/02/26/interview-kickstart-attracts-maiden-investment-for-tackling-tech-talent-crunch/)
 - [What is the big rip, and can we stop it?](https://www.space.com/universe-the-big-rip-can-we-stop-it)
 - [Lenovo’s laptop concept is fully transparent, but the point isn’t entirely clear](https://techcrunch.com/2024/02/26/lenovos-laptop-concept-is-fully-transparent-but-the-point-isnt-entirely-clear/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
