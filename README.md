@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gravitational anomalies reveal seamount 3 times the height of world&#39;s tallest building](https://www.space.com/seamount-discovered-via-gravitational-anomalies)
-- [Samsung centers sleep with its first smart ring](https://techcrunch.com/2024/02/26/samsung-centers-sleep-with-its-first-smart-ring/)
-- [MWC 2024: Everything announced so far](https://techcrunch.com/2024/02/26/mwc-2024-everything-you-need-to-know/)
-- [Intuitive Machines&#39; Odysseus moon lander beams home 1st photos from lunar surface](https://www.space.com/intuitive-machines-odysseus-lander-images-update-lro)
-- [NASA&#39;s asteroid-impacting DART mission completely changed the shape of its target](https://www.space.com/nasa-dart-mission-dimorphos-didymos-asteroid-impact-reshaping)
+- [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/02/26/independent-vision-os-apps-for-the-apple-vision-pro/)
+- [It&#39;s alive! JAXA&#39;s SLIM moon lander sends home new photos after surviving frigid lunar night](https://www.space.com/japan-slim-moon-lander-wakeup-lunar-night)
+- [Doublepoint launches its WowMouse gesture-touch control app for Pixel Watch 2](https://techcrunch.com/2024/02/26/doublepoint-launches-its-wowmouse-gesture-touch-control-app-for-pixel-watch-2/)
+- [UiPath finds firmer financial footing with pivot to general automation and AI](https://techcrunch.com/2024/02/26/uipath-stock-turnaround-general-automation-ai/)
+- [Zombie star earns metal scar while chewing its own planets: &#39;Nothing like this has been seen before&#39;](https://www.space.com/zombie-star-devouring-planets-metal-scar)
 <!-- BLOG-POST-LIST:END -->
 
 ---
