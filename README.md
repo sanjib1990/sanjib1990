@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zacua Ventures has launched a new $56 million fund dedicated to construction tech](https://techcrunch.com/2024/02/27/zacua-ventures-construction-tech/)
-- [SpaceX Crew-8 astronauts eager for launch to ISS on March 1: &#39;Things surprise you, but we&#39;re ready&#39;](https://www.space.com/spacex-crew-8-iss-astronauts-ready-for-launch)
-- [Asymmetric Financial has a plan to unlock Bitcoin’s trillion-dollar potential with dedicated DeFi fund](https://techcrunch.com/2024/02/27/asymmetrical-financial-is-betting-big-on-the-bitcoin-defi-space-with-new-dedicated-fund/)
-- [Glean wants to beat ChatGPT at its own game — in the enterprise](https://techcrunch.com/2024/02/27/glean-wants-to-beat-chatgpt-at-its-own-game-in-the-enterprise/)
-- [The Displace wireless TV, that sticks to walls, plans new models and new AI features](https://techcrunch.com/2024/02/27/the-displace-wireless-tv-that-sticks-to-walls-plans-new-models-and-new-ai-features/)
+- [Writer’s latest models can generate text from images including charts and graphs](https://techcrunch.com/2024/02/27/writers-latest-models-can-generate-text-from-images-including-charts-and-graphs/)
+- [Text-to-speech app Speechify launches Gmail integration and voice cloning](https://techcrunch.com/2024/02/27/text-to-speech-app-speechify-launches-gmail-integration-and-voice-cloning/)
+- [SpaceX rolls out rocket, capsule for Crew-8 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-rocket-capsule-crew-8-launch-photos)
+- [Mobile OS maker Jolla is back and building an AI device](https://techcrunch.com/2024/02/27/jolla-mind2/)
+- [Volunteer at TechCrunch Early Stage in Boston](https://techcrunch.com/2024/02/27/volunteer-at-techcrunch-early-stage-in-boston/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
