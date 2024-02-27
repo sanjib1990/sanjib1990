@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA completes investigation into SpaceX’s second fiery Starship test](https://techcrunch.com/2024/02/26/faa-completes-investigation-into-spacexs-second-fiery-starship-test/)
+- [The Ring Car Cam appears to be finished, doomed by an unclear target market](https://techcrunch.com/2024/02/26/for-whom-the-ring-tolls/)
 - [Historic spacecraft landing double-header from Varda, Intuitive Machines](https://techcrunch.com/2024/02/26/historic-spacecraft-landing-double-header-from-varda-intuitive-machines/)
 - [FAA closes investigation into explosive 2nd flight of SpaceX&#39;s Starship megarocket](https://www.space.com/faa-closes-investigation-second-spacex-starship-flight)
-- [Reddit users wonder if the next big meme stock is Reddit itself](https://techcrunch.com/2024/02/26/reddit-users-wonder-if-the-next-big-meme-stock-is-reddit-itself/)
-- [Intuitive Machines&#39; historic moon landing builds momentum for Artemis, astronaut Tracy C. Dyson says &lpar;exclusive&rpar;](https://www.space.com/intuitive-machines-moon-landing-artemis-tracy-dyson)
-- [MWC 2024: Everything announced so far, including a Samsung smart ring, Google AI features](https://techcrunch.com/2024/02/26/mwc-2024-everything-you-need-to-know/)
+- [Reddit IPO could usher in the next big meme stock, users speculate](https://techcrunch.com/2024/02/26/reddit-users-wonder-if-the-next-big-meme-stock-is-reddit-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
