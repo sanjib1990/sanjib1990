@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Superhuman launches AI-powered instant replies](https://techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/)
+- [Humane reveals first international market for the Ai Pin, partnering with South Korea’s SK Telecom](https://techcrunch.com/2024/02/27/humane-announces-first-international-market-for-its-ai-pin-partnering-with-south-koreas-sk-telecom/)
+- [Microsoft made a $16 million investment in Mistral AI](https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/)
 - [Cooperation on the moon: Are the Artemis Accords enough?](https://www.space.com/artemis-accords-moon-cooperation-pros-cons-signing)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [MWC 2024: Motorola’s Rollable Concept phone laughs at your silly foldable](https://techcrunch.com/2024/02/27/mwc-2024-motorolas-rollable-concept-phone-laughs-at-your-silly-foldable/)
-- [Subsets helps subscription businesses reduce churn with ‘retention experiments’ and explainable AI](https://techcrunch.com/2024/02/27/subsets-uses-explainable-ai-to-help-subscription-media-companies-reduce-customer-churn/)
-- [Alibaba staffer offers a glimpse into building LLMs in China](https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
