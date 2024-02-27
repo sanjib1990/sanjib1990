@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope finds &#39;extremely red&#39; supermassive black hole growing in the early universe](https://www.space.com/james-webb-space-telescope-extremely-red-supermassive-black-hole)
-- [SynFlora is working on bioengineering a skincare revolution](https://techcrunch.com/2024/02/27/synflora/)
-- [India completes critical test for Gaganyaan flight crewed by humanoid robot later this year](https://www.space.com/india-isro-gaganyaan-flight-testing-humanoid-robot)
-- [Splitscreen brings a multi-monitor setup to Apple’s Vision Pro](https://techcrunch.com/2024/02/27/splitscreen-brings-a-multi-monitor-setup-to-apples-vision-pro/)
-- [Lizcore’s sport tracking system is minimalist enough for indoor climbers to actually use](https://techcrunch.com/2024/02/27/lizcore/)
+- [NASA&#39;s Dana Weigel will be the 1st female ISS program manager](https://www.space.com/iss-nasa-1st-female-program-manager-dana-weigel)
+- [Intuitive Machines&#39; Odysseus probe beams home more photos from historic moon landing](https://www.space.com/intuitive-machines-odysseus-moon-landing-photos)
+- [Apple cancels its autonomous electric car project and is laying off some workers](https://techcrunch.com/2024/02/27/apple-cancels-electric-car-project-titan/)
+- [TikTok loses even more songs over its dispute with Universal Music Group](https://techcrunch.com/2024/02/27/tiktok-loses-even-more-songs-over-its-dispute-with-universal-music-group/)
+- [MWC: Ethiopian fintech eQub digitizes peer-to-peer credit](https://techcrunch.com/2024/02/27/mwc-ethiopian-fintech-equb-digitizes-peer-to-peer-credit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
