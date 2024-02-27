@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MWC 2024: Everything announced so far, including a ‘rollable’ Motorola concept phone](https://techcrunch.com/2024/02/27/mwc-2024-everything-you-need-to-know/)
-- [Initia raises $7.5M seed round to simplify blockchain development](https://techcrunch.com/2024/02/27/initia-raises-7-5m-seed-money-to-ease-blockchain-development/)
-- [Radar could help scientists find potentially threatening asteroids. Here&#39;s how](https://www.space.com/radar-asteroid-detection-planetary-defense-dart-nasa)
-- [Confirmed: Photoroom, the AI image editor, raised $43M at a $500M valuation](https://techcrunch.com/2024/02/27/confirmed-photoroom-the-ai-image-editor-raised-43m-at-a-500m-valuation/)
-- [Sony is laying off 900 employees from its PlayStation unit](https://techcrunch.com/2024/02/27/sony-is-laying-off-900-employees-from-its-playstation-unit/)
+- [GitHub’s Copilot Enterprise hits general availability](https://techcrunch.com/2024/02/27/githubs-copilot-enterprise-hits-general-availability/)
+- [As data takes center stage, Codified wants to bring flexibility to governance](https://techcrunch.com/2024/02/27/as-data-takes-center-stage-codified-wants-to-bring-more-automation-to-governance/)
+- [Black hole&#39;s powerful eruption creates a string of stellar jewelry](https://www.space.com/black-hole-powerful-eruption-string-star-cluster-jewelry)
+- [Radar images reveal damage on Europe&#39;s doomed ERS-2 satellite during final orbits](https://www.space.com/radar-images-damage-europe-doomed-ers-2-satellite)
+- [SeatGeek’s new tools help fans resell tickets at the best price](https://techcrunch.com/2024/02/27/seatgeeks-new-tools-help-fans-resell-tickets-at-the-best-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
