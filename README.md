@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadowfax speeds ahead with $100M funding as instant delivery boom fuels growth](https://techcrunch.com/2024/02/27/shadowfax-speeds-ahead-with-100m-funding-as-instant-delivery-boom-fuels-growth/)
-- [COTU Ventures launches $54M fund for pre-seed and seed startups in MENA](https://techcrunch.com/2024/02/26/cotu-ventures-launches-54m-fund-for-pre-seed-and-seed-startups-in-mena/)
-- [The Supreme Court could decide the future of content moderation — or it could punt](https://techcrunch.com/2024/02/26/supreme-court-social-media-moderation-texas-florida/)
-- [Inkitt, the self-publishing platform using AI to develop bestsellers, nabs $37M](https://techcrunch.com/2024/02/26/inkitt-ai-publishing-37-million/)
-- [FAA completes investigation into SpaceX’s second fiery Starship test](https://techcrunch.com/2024/02/26/faa-completes-investigation-into-spacexs-second-fiery-starship-test/)
+- [Cooperation on the moon: Are the Artemis Accords enough?](https://www.space.com/artemis-accords-moon-cooperation-pros-cons-signing)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [MWC 2024: Motorola’s Rollable Concept phone laughs at your silly foldable](https://techcrunch.com/2024/02/27/mwc-2024-motorolas-rollable-concept-phone-laughs-at-your-silly-foldable/)
+- [Subsets helps subscription businesses reduce churn with ‘retention experiments’ and explainable AI](https://techcrunch.com/2024/02/27/subsets-uses-explainable-ai-to-help-subscription-media-companies-reduce-customer-churn/)
+- [Alibaba staffer offers a glimpse into building LLMs in China](https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
