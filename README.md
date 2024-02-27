@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apollo astronaut&#39;s granddaughter opens immersive moonwalk experience in Dallas](https://www.space.com/lunar-light-discovery-vr-moon-experience-apollo-astronaut-granddaughter)
+- [MWC 2024: Everything announced so far, including HTC’s VR headset, ‘rollable’ Motorola concept phone](https://techcrunch.com/2024/02/27/mwc-2024-everything-you-need-to-know/)
+- [Put on your eclipse glasses and look up to see the biggest sunspot in years before it disappears from view](https://www.space.com/sunspot-visible-eclipse-glasses-february-2024)
+- [HTC Vive became an enterprise product while you weren’t looking](https://techcrunch.com/2024/02/27/htc-vive-became-an-enterprise-product-while-you-werent-looking/)
 - [NASA&#39;s Dana Weigel will be the 1st female ISS program manager](https://www.space.com/iss-nasa-1st-female-program-manager-dana-weigel)
-- [Intuitive Machines&#39; Odysseus probe beams home more photos from historic moon landing](https://www.space.com/intuitive-machines-odysseus-moon-landing-photos)
-- [Apple cancels its autonomous electric car project and is laying off some workers](https://techcrunch.com/2024/02/27/apple-cancels-electric-car-project-titan/)
-- [TikTok loses even more songs over its dispute with Universal Music Group](https://techcrunch.com/2024/02/27/tiktok-loses-even-more-songs-over-its-dispute-with-universal-music-group/)
-- [MWC: Ethiopian fintech eQub digitizes peer-to-peer credit](https://techcrunch.com/2024/02/27/mwc-ethiopian-fintech-equb-digitizes-peer-to-peer-credit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
