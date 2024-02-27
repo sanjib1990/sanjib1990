@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope finds &#39;extremely red&#39; supermassive black hole growing in the early universe](https://www.space.com/james-webb-space-telescope-extremely-red-supermassive-black-hole)
+- [SynFlora is working on bioengineering a skincare revolution](https://techcrunch.com/2024/02/27/synflora/)
 - [India completes critical test for Gaganyaan flight crewed by humanoid robot later this year](https://www.space.com/india-isro-gaganyaan-flight-testing-humanoid-robot)
 - [Splitscreen brings a multi-monitor setup to Apple’s Vision Pro](https://techcrunch.com/2024/02/27/splitscreen-brings-a-multi-monitor-setup-to-apples-vision-pro/)
 - [Lizcore’s sport tracking system is minimalist enough for indoor climbers to actually use](https://techcrunch.com/2024/02/27/lizcore/)
-- [Computer-simulated moon dust may help lunar robots pass a major hurdle](https://www.space.com/moon-computer-model-simulates-lunar-dust)
-- [Threads widens the gap with X, with triple the daily downloads on iOS](https://techcrunch.com/2024/02/27/threads-widens-the-gap-with-x-with-triple-the-daily-downloads-on-ios/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
