@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer-simulated moon dust may help lunar robots pass a major hurdle](https://www.space.com/moon-computer-model-simulates-lunar-dust)
+- [Threads widens the gap with X, with triple the daily downloads on iOS](https://techcrunch.com/2024/02/27/threads-widens-the-gap-with-x-with-triple-the-daily-downloads-on-ios/)
 - [GitHub’s Copilot Enterprise hits general availability](https://techcrunch.com/2024/02/27/githubs-copilot-enterprise-hits-general-availability/)
 - [As data takes center stage, Codified wants to bring flexibility to governance](https://techcrunch.com/2024/02/27/as-data-takes-center-stage-codified-wants-to-bring-more-automation-to-governance/)
 - [Black hole&#39;s powerful eruption creates a string of stellar jewelry](https://www.space.com/black-hole-powerful-eruption-string-star-cluster-jewelry)
-- [Radar images reveal damage on Europe&#39;s doomed ERS-2 satellite during final orbits](https://www.space.com/radar-images-damage-europe-doomed-ers-2-satellite)
-- [SeatGeek’s new tools help fans resell tickets at the best price](https://techcrunch.com/2024/02/27/seatgeeks-new-tools-help-fans-resell-tickets-at-the-best-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
