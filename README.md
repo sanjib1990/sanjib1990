@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apollo astronaut&#39;s granddaughter opens immersive moonwalk experience in Dallas](https://www.space.com/lunar-light-discovery-vr-moon-experience-apollo-astronaut-granddaughter)
-- [MWC 2024: Everything announced so far, including HTC’s VR headset, ‘rollable’ Motorola concept phone](https://techcrunch.com/2024/02/27/mwc-2024-everything-you-need-to-know/)
-- [Put on your eclipse glasses and look up to see the biggest sunspot in years before it disappears from view](https://www.space.com/sunspot-visible-eclipse-glasses-february-2024)
-- [HTC Vive became an enterprise product while you weren’t looking](https://techcrunch.com/2024/02/27/htc-vive-became-an-enterprise-product-while-you-werent-looking/)
-- [NASA&#39;s Dana Weigel will be the 1st female ISS program manager](https://www.space.com/iss-nasa-1st-female-program-manager-dana-weigel)
+- [NASA radar images show stadium-sized asteroid tumbling by Earth during flyby &lpar;photos&rpar;](https://www.space.com/asteroid-2008-os7-earth-flyby-nasa-radar-images)
+- [Why VCs are investing in startups that help other startups shut down](https://techcrunch.com/2024/02/27/vcs-back-wind-down-failed-startups/)
+- [Intuitive Machines faces early end to moon mission after lander tips over](https://techcrunch.com/2024/02/27/intuitive-machines-faces-early-end-to-moon-mission-after-lander-tips-over/)
+- [Newsmast brings curated ‘communities’ to the open source Twitter/X alternative Mastodon](https://techcrunch.com/2024/02/27/newsmast-brings-curated-communities-to-the-open-source-twitter-x-alternative-mastodon/)
+- [Apollo astronaut&#39;s granddaughter opens immersive &#39;Lunar Light&#39; moonwalk experience in Dallas](https://www.space.com/lunar-light-discovery-vr-moon-experience-apollo-astronaut-granddaughter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
