@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [COTU Ventures launches $54M fund for pre-seed and seed startups in MENA](https://techcrunch.com/2024/02/26/cotu-ventures-launches-54m-fund-for-pre-seed-and-seed-startups-in-mena/)
 - [The Supreme Court could decide the future of content moderation — or it could punt](https://techcrunch.com/2024/02/26/supreme-court-social-media-moderation-texas-florida/)
-- [Inkitt, a self-publishing platform using AI to develop bestsellers, books $37M led by Khosla](https://techcrunch.com/2024/02/26/inkitt-ai-publishing-37-million/)
+- [Inkitt, a self-publishing platform using AI to develop bestsellers, closes $37M led by Khosla](https://techcrunch.com/2024/02/26/inkitt-ai-publishing-37-million/)
 - [FAA completes investigation into SpaceX’s second fiery Starship test](https://techcrunch.com/2024/02/26/faa-completes-investigation-into-spacexs-second-fiery-starship-test/)
 - [The Ring Car Cam appears to be finished, doomed by an unclear target market](https://techcrunch.com/2024/02/26/for-whom-the-ring-tolls/)
 <!-- BLOG-POST-LIST:END -->
