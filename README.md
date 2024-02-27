@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Writer’s latest models can generate text from images including charts and graphs](https://techcrunch.com/2024/02/27/writers-latest-models-can-generate-text-from-images-including-charts-and-graphs/)
-- [Text-to-speech app Speechify launches Gmail integration and voice cloning](https://techcrunch.com/2024/02/27/text-to-speech-app-speechify-launches-gmail-integration-and-voice-cloning/)
-- [SpaceX rolls out rocket, capsule for Crew-8 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-rocket-capsule-crew-8-launch-photos)
-- [Mobile OS maker Jolla is back and building an AI device](https://techcrunch.com/2024/02/27/jolla-mind2/)
-- [Volunteer at TechCrunch Early Stage in Boston](https://techcrunch.com/2024/02/27/volunteer-at-techcrunch-early-stage-in-boston/)
+- [MWC 2024: Everything announced so far, including a ‘rollable’ Motorola concept phone](https://techcrunch.com/2024/02/27/mwc-2024-everything-you-need-to-know/)
+- [Initia raises $7.5M seed round to simplify blockchain development](https://techcrunch.com/2024/02/27/initia-raises-7-5m-seed-money-to-ease-blockchain-development/)
+- [Radar could help scientists find potentially threatening asteroids. Here&#39;s how](https://www.space.com/radar-asteroid-detection-planetary-defense-dart-nasa)
+- [Confirmed: Photoroom, the AI image editor, raised $43M at a $500M valuation](https://techcrunch.com/2024/02/27/confirmed-photoroom-the-ai-image-editor-raised-43m-at-a-500m-valuation/)
+- [Sony is laying off 900 employees from its PlayStation unit](https://techcrunch.com/2024/02/27/sony-is-laying-off-900-employees-from-its-playstation-unit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
