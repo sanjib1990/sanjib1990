@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India completes critical test for Gaganyaan flight crewed by humanoid robot later this year](https://www.space.com/india-isro-gaganyaan-flight-testing-humanoid-robot)
+- [Splitscreen brings a multi-monitor setup to Apple’s Vision Pro](https://techcrunch.com/2024/02/27/splitscreen-brings-a-multi-monitor-setup-to-apples-vision-pro/)
+- [Lizcore’s sport tracking system is minimalist enough for indoor climbers to actually use](https://techcrunch.com/2024/02/27/lizcore/)
 - [Computer-simulated moon dust may help lunar robots pass a major hurdle](https://www.space.com/moon-computer-model-simulates-lunar-dust)
 - [Threads widens the gap with X, with triple the daily downloads on iOS](https://techcrunch.com/2024/02/27/threads-widens-the-gap-with-x-with-triple-the-daily-downloads-on-ios/)
-- [GitHub’s Copilot Enterprise hits general availability](https://techcrunch.com/2024/02/27/githubs-copilot-enterprise-hits-general-availability/)
-- [As data takes center stage, Codified wants to bring flexibility to governance](https://techcrunch.com/2024/02/27/as-data-takes-center-stage-codified-wants-to-bring-more-automation-to-governance/)
-- [Black hole&#39;s powerful eruption creates a string of stellar jewelry](https://www.space.com/black-hole-powerful-eruption-string-star-cluster-jewelry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
