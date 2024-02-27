@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Superhuman launches AI-powered instant replies](https://techcrunch.com/2024/02/27/superhuman-launches-an-ai-powered-instant-replies-feature/)
-- [Humane reveals first international market for the Ai Pin, partnering with South Korea’s SK Telecom](https://techcrunch.com/2024/02/27/humane-announces-first-international-market-for-its-ai-pin-partnering-with-south-koreas-sk-telecom/)
-- [Microsoft made a $16 million investment in Mistral AI](https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/)
-- [Cooperation on the moon: Are the Artemis Accords enough?](https://www.space.com/artemis-accords-moon-cooperation-pros-cons-signing)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Zacua Ventures has launched a new $56 million fund dedicated to construction tech](https://techcrunch.com/2024/02/27/zacua-ventures-construction-tech/)
+- [SpaceX Crew-8 astronauts eager for launch to ISS on March 1: &#39;Things surprise you, but we&#39;re ready&#39;](https://www.space.com/spacex-crew-8-iss-astronauts-ready-for-launch)
+- [Asymmetric Financial has a plan to unlock Bitcoin’s trillion-dollar potential with dedicated DeFi fund](https://techcrunch.com/2024/02/27/asymmetrical-financial-is-betting-big-on-the-bitcoin-defi-space-with-new-dedicated-fund/)
+- [Glean wants to beat ChatGPT at its own game — in the enterprise](https://techcrunch.com/2024/02/27/glean-wants-to-beat-chatgpt-at-its-own-game-in-the-enterprise/)
+- [The Displace wireless TV, that sticks to walls, plans new models and new AI features](https://techcrunch.com/2024/02/27/the-displace-wireless-tv-that-sticks-to-walls-plans-new-models-and-new-ai-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
