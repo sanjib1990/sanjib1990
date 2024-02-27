@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Supreme Court could decide the future of content moderation — or it could punt](https://techcrunch.com/2024/02/26/supreme-court-social-media-moderation-texas-florida/)
+- [Inkitt, a self-publishing platform using AI to develop bestsellers, books $37M led by Khosla](https://techcrunch.com/2024/02/26/inkitt-ai-publishing-37-million/)
 - [FAA completes investigation into SpaceX’s second fiery Starship test](https://techcrunch.com/2024/02/26/faa-completes-investigation-into-spacexs-second-fiery-starship-test/)
 - [The Ring Car Cam appears to be finished, doomed by an unclear target market](https://techcrunch.com/2024/02/26/for-whom-the-ring-tolls/)
 - [Historic spacecraft landing double-header from Varda, Intuitive Machines](https://techcrunch.com/2024/02/26/historic-spacecraft-landing-double-header-from-varda-intuitive-machines/)
-- [FAA closes investigation into explosive 2nd flight of SpaceX&#39;s Starship megarocket](https://www.space.com/faa-closes-investigation-second-spacex-starship-flight)
-- [Reddit IPO could usher in the next big meme stock, users speculate](https://techcrunch.com/2024/02/26/reddit-users-wonder-if-the-next-big-meme-stock-is-reddit-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
