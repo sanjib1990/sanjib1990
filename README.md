@@ -94,13 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India lays foundations for a new spaceport dedicated to smaller launches](https://techcrunch.com/2024/02/28/india-isro-new-spaceport-small-rocket-launches/)
+- [Can you capture the comet&#39;s tail? Scientists need help from astrophotographers](https://www.space.com/photograph-comet-detached-tail-astrophotography)
+- [YouTube’s Create app, a competitor to TikTok’s creative tools, expands to 13 more markets](https://techcrunch.com/2024/02/28/youtubes-create-app-a-competitor-to-tiktoks-creative-tools-expands-to-13-more-markets/)
+- [How to fly a drone: Three simple practice maneuvers to improve your flight skills](https://www.space.com/how-to-fly-a-drone-improve-your-flight-skills)
 - [Telegram is launching ad revenue sharing next month using toncoin](https://techcrunch.com/2024/02/28/telegram-is-launching-ad-revenue-sharing-next-month-using-toncoin/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Embargoed: Wednesday 28 February 2024 | 11:00 &lpar;EST&rpar;
-
-James Webb Space Telescope finds dwarf galaxies packed enough punch to reshape the entire early universe](https://www.space.com/james-webb-space-telescope-dwarf-galaxies-cosmic-evolution)
-- [Sweanty’s wearable patch for athletes tracks salt loss to help them hydrate](https://techcrunch.com/2024/02/28/sweanty/)
-- [Fintech giant Stripe’s valuation spikes to $65B in employee stock-sale deal](https://techcrunch.com/2024/02/28/fintech-giant-stripe-valuation-spikes-65b-employee-stock-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
