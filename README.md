@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India lays foundations for a new spaceport dedicated to smaller launches](https://techcrunch.com/2024/02/28/india-isro-new-spaceport-small-rocket-launches/)
-- [Can you capture the comet&#39;s tail? Scientists need help from astrophotographers](https://www.space.com/photograph-comet-detached-tail-astrophotography)
-- [YouTube’s Create app, a competitor to TikTok’s creative tools, expands to 13 more markets](https://techcrunch.com/2024/02/28/youtubes-create-app-a-competitor-to-tiktoks-creative-tools-expands-to-13-more-markets/)
-- [How to fly a drone: Three simple practice maneuvers to improve your flight skills](https://www.space.com/how-to-fly-a-drone-improve-your-flight-skills)
-- [Telegram is launching ad revenue sharing next month using toncoin](https://techcrunch.com/2024/02/28/telegram-is-launching-ad-revenue-sharing-next-month-using-toncoin/)
+- [Following the Bitcoin surge, Coinbase’s app is showing users a zero balance](https://techcrunch.com/2024/02/28/following-the-bitcoin-surge-coinbases-app-is-showing-users-a-zero-balance/)
+- [Substack gets more social with the launch of DMs](https://techcrunch.com/2024/02/28/substack-gets-more-social-with-the-launch-of-dms/)
+- [Morph Studio lets you make flims using Stability AI-generated clips](https://techcrunch.com/2024/02/28/morph-studio-lets-you-make-flims-using-stability-ai-generated-clips/)
+- [Former Snap design lead debuts Shader, an AR creation tool that uses AI to generate custom effects](https://techcrunch.com/2024/02/28/former-snap-design-lead-debuts-shader-an-ar-creation-tool-that-uses-ai-to-generate-custom-effects/)
+- [Hyundai-backed autonomous company Motional cuts 5% of workforce](https://techcrunch.com/2024/02/28/hyundai-backed-autonomous-company-motional-cuts-5-of-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
