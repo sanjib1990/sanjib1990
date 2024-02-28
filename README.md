@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Get a free solar filter worth $249 with the purchase of any Unistellar telescope](https://www.space.com/free-unistellar-solar-filter-deal-with-telescope-purchase)
-- [Black Tech Nation Ventures’ diversity thesis undeterred by growing DEI backlash](https://techcrunch.com/2024/02/28/black-tech-nation-ventures-diversity-thesis-undeterred-by-growing-dei-backlash/)
-- [Apply to pitch at TechCrunch Early Stage 2024 in Boston](https://techcrunch.com/2024/02/28/apply-to-pitch-at-techcrunch-early-stage-2024-in-boston/)
-- [SpaceX fires up rocket ahead of March 1 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-falcon-9-crew-8-static-fire-photos)
-- [Lightricks announces AI-powered filmmaking studio to help creators visualize stories](https://techcrunch.com/2024/02/28/lightricks-announces-ai-powered-filmmaking-studio-to-help-creators-visualize-stories/)
+- [Turns out you can use kombucha to make eco-friendly thread](https://techcrunch.com/2024/02/28/biocel/)
+- [StarCoder 2 is a code-generating AI that runs on most GPUs](https://techcrunch.com/2024/02/28/starcoder-2-is-a-code-generating-ai-that-runs-on-most-gpus/)
+- [SambaNova now offers a bundle of generative AI models](https://techcrunch.com/2024/02/28/sambanova-now-offers-a-bundle-of-generative-ai-models/)
+- [Noomi Rapace and Jonathan Banks on making Apple TV+&#39;s twisty space thriller, &#39;Constellation&#39; &lpar;exclusive&rpar;](https://www.space.com/apple-tv-constellation-noomi-rapace-jonathan-banks-interview)
+- [Yolk is a social app where users swap custom live stickers — no text allowed](https://techcrunch.com/2024/02/28/yolk-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
