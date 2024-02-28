@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Following the Bitcoin surge, Coinbase’s app is showing users a zero balance](https://techcrunch.com/2024/02/28/following-the-bitcoin-surge-coinbases-app-is-showing-users-a-zero-balance/)
-- [Substack gets more social with the launch of DMs](https://techcrunch.com/2024/02/28/substack-gets-more-social-with-the-launch-of-dms/)
-- [Morph Studio lets you make flims using Stability AI-generated clips](https://techcrunch.com/2024/02/28/morph-studio-lets-you-make-flims-using-stability-ai-generated-clips/)
-- [Former Snap design lead debuts Shader, an AR creation tool that uses AI to generate custom effects](https://techcrunch.com/2024/02/28/former-snap-design-lead-debuts-shader-an-ar-creation-tool-that-uses-ai-to-generate-custom-effects/)
-- [Hyundai-backed autonomous company Motional cuts 5% of workforce](https://techcrunch.com/2024/02/28/hyundai-backed-autonomous-company-motional-cuts-5-of-workforce/)
+- [Bluesky hires former Twitter Trust &amp; Safety co-lead, Aaron Rodericks](https://techcrunch.com/2024/02/28/bluesky-hires-former-twitter-trust-safety-co-lead-aaron-rodericks/)
+- [India unveils astronauts for 1st human spaceflight mission in 2025](https://www.space.com/india-reveals-astronauts-first-human-spaceflight-gaganyaan)
+- [Meet the SpaceX Crew-8 astronauts launching to the ISS on March 1](https://www.space.com/meet-spacex-crew-8-astronauts-iss-mission)
+- [Anycubic users say their 3D printers were hacked to warn of a security flaw](https://techcrunch.com/2024/02/28/anycubic-users-3d-printers-hacked-warning/)
+- [MWC 2024: Everything announced so far, including Nothing Phone &lpar;2a&rpar;, 4FYN winner](https://techcrunch.com/2024/02/28/mwc-2024-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
