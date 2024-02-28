@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deel, the $12B HR startup, acquires Zavvy to step up consolidation play](https://techcrunch.com/2024/02/28/deel-the-12b-hr-startup-acquires-zavvy-to-step-up-consolidation-play/)
-- [Possibly habitable Trappist-1 exoplanet caught destroying its own atmosphere](https://www.space.com/trappist-1-exoplanet-habitability-atmospheric-stripping)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [MWC 2024: Nothing enters the budget range with Phone &lpar;2a&rpar;](https://techcrunch.com/2024/02/28/mwc-2024-nothing-enters-the-budget-range-with-phone-2a/)
-- [Thrasio, once king of e-commerce aggregation, files for Ch.11](https://techcrunch.com/2024/02/28/thrasio-once-the-king-of-e-commerce-aggregation-files-for-ch-11-with-90m-to-dig-itself-out/)
+- [Get a free solar filter worth $249 with the purchase of any Unistellar telescope](https://www.space.com/free-unistellar-solar-filter-deal-with-telescope-purchase)
+- [Black Tech Nation Ventures’ diversity thesis undeterred by growing DEI backlash](https://techcrunch.com/2024/02/28/black-tech-nation-ventures-diversity-thesis-undeterred-by-growing-dei-backlash/)
+- [Apply to pitch at TechCrunch Early Stage 2024 in Boston](https://techcrunch.com/2024/02/28/apply-to-pitch-at-techcrunch-early-stage-2024-in-boston/)
+- [SpaceX fires up rocket ahead of March 1 astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-falcon-9-crew-8-static-fire-photos)
+- [Lightricks announces AI-powered filmmaking studio to help creators visualize stories](https://techcrunch.com/2024/02/28/lightricks-announces-ai-powered-filmmaking-studio-to-help-creators-visualize-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
