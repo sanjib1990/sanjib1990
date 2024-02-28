@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky snags former Twitter/X Trust &amp; Safety exec cut by Musk](https://techcrunch.com/2024/02/28/bluesky-hires-former-twitter-trust-safety-co-lead-aaron-rodericks/)
-- [India unveils astronauts for 1st human spaceflight mission in 2025](https://www.space.com/india-reveals-astronauts-first-human-spaceflight-gaganyaan)
-- [Meet the SpaceX Crew-8 astronauts launching to the ISS on March 1](https://www.space.com/meet-spacex-crew-8-astronauts-iss-mission)
-- [Anycubic users say their 3D printers were hacked to warn of a security flaw](https://techcrunch.com/2024/02/28/anycubic-users-3d-printers-hacked-warning/)
-- [MWC 2024: Everything announced so far, including Nothing Phone &lpar;2a&rpar;, 4FYN winner](https://techcrunch.com/2024/02/28/mwc-2024-everything-you-need-to-know/)
+- [Toyota wants hydrogen to succeed so bad it’s paying people to buy the Mirai](https://techcrunch.com/2024/02/28/hydrogens-real-markets/)
+- [Leaked documents show Techstars lost $7 million in 2023 but still had plenty of cash](https://techcrunch.com/2024/02/28/leaked-documents-techstars-lost-7-million-2023-layoffs-enough-cash/)
+- [&#39;Constellation&#39; season 1 episode 4 review: Compelling drama makes up for a thin mystery](https://www.space.com/constellation-season-1-episode-4-review)
+- [Tim Cook says Apple will ‘break new ground’ in GenAI this year](https://techcrunch.com/2024/02/28/tim-cook-says-apple-will-break-new-ground-in-genai-this-year/)
+- [Near miss! NASA satellite, dead Russian spacecraft zoom past each other in orbit](https://www.space.com/near-collision-nasa-timed-satellite-russian-space-junk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
