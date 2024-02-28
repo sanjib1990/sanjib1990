@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deel, the $12B HR startup, acquires Zavvy to step up consolidation play](https://techcrunch.com/2024/02/28/deel-the-12b-hr-startup-acquires-zavvy-to-step-up-consolidation-play/)
 - [Possibly habitable Trappist-1 exoplanet caught destroying its own atmosphere](https://www.space.com/trappist-1-exoplanet-habitability-atmospheric-stripping)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [MWC 2024: Nothing enters the budget range with Phone &lpar;2a&rpar;](https://techcrunch.com/2024/02/28/mwc-2024-nothing-enters-the-budget-range-with-phone-2a/)
 - [Thrasio, once king of e-commerce aggregation, files for Ch.11](https://techcrunch.com/2024/02/28/thrasio-once-the-king-of-e-commerce-aggregation-files-for-ch-11-with-90m-to-dig-itself-out/)
-- [Dailyhunt in talks to acquire social network startup Koo](https://techcrunch.com/2024/02/27/dailyhunt-koo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
