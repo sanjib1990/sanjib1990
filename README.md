@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the bittersweet trailer for &#39;Star Trek: Discovery&#39;s final season &lpar;video&rpar;](https://www.space.com/star-trek-discovery-final-season-trailer)
+- [Private Odysseus moon lander broke a leg during historic touchdown. &#39;He&#39;s a scrappy little dude.&#39; &lpar;new photos&rpar;](https://www.space.com/intuitive-machines-odysseus-moon-lander-broken-leg)
+- [The Apple Car that never was: A timeline](https://techcrunch.com/2024/02/28/the-apple-car-that-never-was-a-timeline/)
 - [Snowflake CEO Frank Slootman stepping down — and Wall St hates it](https://techcrunch.com/2024/02/28/snowflake-ceo-frank-slootman-stepping-down-and-wall-st-hates-it/)
 - [SpaceX to launch Crew-8 astronauts to the space station March 1: Watch live](https://www.space.com/spacex-crew-8-astronaut-launch-watch-live)
-- [James Webb Space Telescope sees the infrared skeleton of a galaxy &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-infrared-skeleton-galaxy)
-- [Toyota wants hydrogen to succeed so bad it’s paying people to buy the Mirai](https://techcrunch.com/2024/02/28/hydrogens-real-markets/)
-- [Leaked documents show Techstars lost $7 million in 2023 but still had plenty of cash](https://techcrunch.com/2024/02/28/leaked-documents-techstars-lost-7-million-2023-layoffs-enough-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
