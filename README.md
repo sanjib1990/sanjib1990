@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MWC 2024: Nothing enters the budget range with Phone &lpar;2a&rpar;](https://techcrunch.com/2024/02/28/mwc-2024-nothing-enters-the-budget-range-with-phone-2a/)
 - [Thrasio, once king of e-commerce aggregation, files for Ch.11](https://techcrunch.com/2024/02/28/thrasio-once-the-king-of-e-commerce-aggregation-files-for-ch-11-with-90m-to-dig-itself-out/)
 - [Dailyhunt in talks to acquire social network startup Koo](https://techcrunch.com/2024/02/27/dailyhunt-koo/)
 - [Bumble cuts ~350 employees as dating apps face a reckoning](https://techcrunch.com/2024/02/27/bumble-cuts-350-employees-as-dating-apps-face-a-reckoning/)
 - [AIs serve up ‘garbage’ to questions about voting and elections](https://techcrunch.com/2024/02/27/ais-serve-up-garbage-to-questions-about-voting-and-elections/)
-- [NASA radar images show stadium-sized asteroid tumbling by Earth during flyby &lpar;photos&rpar;](https://www.space.com/asteroid-2008-os7-earth-flyby-nasa-radar-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
