@@ -94,11 +94,13 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Totango and Catalyst are merging to build a customer success powerhouse](https://techcrunch.com/2024/02/28/totango-catalyst-merger-customer-success/)
-- [Coverdash gathers insurance’s biggest carriers so SMBs can get coverage in minutes](https://techcrunch.com/2024/02/28/coverdash-business-insurance/)
-- [SpaceX&#39;s longest-ever astronaut cruise was a smooth ride, Ax-3 crewmembers say](https://www.space.com/spacex-crew-dragon-ax-3-longest-astronaut-cruise)
-- [MWC 2024: Everything announced so far, including Nothing Phone &lpar;2a&rpar;, 4FYN pitch finalists](https://techcrunch.com/2024/02/28/mwc-2024-everything-you-need-to-know/)
-- [The five finalists to emerge from the Four Years From Now 2024 pitch competition](https://techcrunch.com/2024/02/28/4yfn/)
+- [Telegram is launching ad revenue sharing next month using toncoin](https://techcrunch.com/2024/02/28/telegram-is-launching-ad-revenue-sharing-next-month-using-toncoin/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Embargoed: Wednesday 28 February 2024 | 11:00 &lpar;EST&rpar;
+
+James Webb Space Telescope finds dwarf galaxies packed enough punch to reshape the entire early universe](https://www.space.com/james-webb-space-telescope-dwarf-galaxies-cosmic-evolution)
+- [Sweanty’s wearable patch for athletes tracks salt loss to help them hydrate](https://techcrunch.com/2024/02/28/sweanty/)
+- [Fintech giant Stripe’s valuation spikes to $65B in employee stock-sale deal](https://techcrunch.com/2024/02/28/fintech-giant-stripe-valuation-spikes-65b-employee-stock-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
