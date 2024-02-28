@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dailyhunt in talks to acquire social network startup Koo](https://techcrunch.com/2024/02/27/dailyhunt-koo/)
 - [Bumble cuts ~350 employees as dating apps face a reckoning](https://techcrunch.com/2024/02/27/bumble-cuts-350-employees-as-dating-apps-face-a-reckoning/)
 - [AIs serve up ‘garbage’ to questions about voting and elections](https://techcrunch.com/2024/02/27/ais-serve-up-garbage-to-questions-about-voting-and-elections/)
 - [NASA radar images show stadium-sized asteroid tumbling by Earth during flyby &lpar;photos&rpar;](https://www.space.com/asteroid-2008-os7-earth-flyby-nasa-radar-images)
 - [Why VCs are investing in startups that help other startups shut down](https://techcrunch.com/2024/02/27/vcs-back-wind-down-failed-startups/)
-- [Intuitive Machines faces early end to moon mission after lander tips over](https://techcrunch.com/2024/02/27/intuitive-machines-faces-early-end-to-moon-mission-after-lander-tips-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
