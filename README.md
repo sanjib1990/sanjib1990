@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [JavaScript Tutorial for Beginners [JS Crash Course 2024]](https://www.youtube.com/watch?v=FtaQSdrl7YA)
 - [Navigating Open Licensing: Strategies for Access and Reuse](https://www.youtube.com/watch?v=xL1OwgVHOww)
 - [They made React great again?](https://www.youtube.com/watch?v=4k6Xgjqkad4)
 - [Let’s play… Does your code suck? JavaScript Variables Edition](https://www.youtube.com/watch?v=ZRjmGq1gAEQ)
 - [Google has the best AI now, but there&#39;s a problem...](https://www.youtube.com/watch?v=xPA0LFzUDiE)
-- [Expo in 100 Seconds](https://www.youtube.com/watch?v=vFW_TxKLyrE)
 <!-- YOUTUBE:END -->
 
 ---
