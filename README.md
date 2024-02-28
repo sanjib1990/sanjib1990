@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake CEO Frank Slootman stepping down — and Wall St hates it](https://techcrunch.com/2024/02/28/snowflake-ceo-frank-slootman-stepping-down-and-wall-st-hates-it/)
+- [SpaceX to launch Crew-8 astronauts to the space station March 1: Watch live](https://www.space.com/spacex-crew-8-astronaut-launch-watch-live)
+- [James Webb Space Telescope sees the infrared skeleton of a galaxy &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-infrared-skeleton-galaxy)
 - [Toyota wants hydrogen to succeed so bad it’s paying people to buy the Mirai](https://techcrunch.com/2024/02/28/hydrogens-real-markets/)
 - [Leaked documents show Techstars lost $7 million in 2023 but still had plenty of cash](https://techcrunch.com/2024/02/28/leaked-documents-techstars-lost-7-million-2023-layoffs-enough-cash/)
-- [&#39;Constellation&#39; season 1 episode 4 review: Compelling drama makes up for a thin mystery](https://www.space.com/constellation-season-1-episode-4-review)
-- [Tim Cook says Apple will ‘break new ground’ in GenAI this year](https://techcrunch.com/2024/02/28/tim-cook-says-apple-will-break-new-ground-in-genai-this-year/)
-- [Near miss! NASA satellite, dead Russian spacecraft zoom past each other in orbit](https://www.space.com/near-collision-nasa-timed-satellite-russian-space-junk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
