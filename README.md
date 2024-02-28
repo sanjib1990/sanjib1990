@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Turns out you can use kombucha to make eco-friendly thread](https://techcrunch.com/2024/02/28/biocel/)
-- [StarCoder 2 is a code-generating AI that runs on most GPUs](https://techcrunch.com/2024/02/28/starcoder-2-is-a-code-generating-ai-that-runs-on-most-gpus/)
-- [SambaNova now offers a bundle of generative AI models](https://techcrunch.com/2024/02/28/sambanova-now-offers-a-bundle-of-generative-ai-models/)
-- [Noomi Rapace and Jonathan Banks on making Apple TV+&#39;s twisty space thriller, &#39;Constellation&#39; &lpar;exclusive&rpar;](https://www.space.com/apple-tv-constellation-noomi-rapace-jonathan-banks-interview)
-- [Yolk is a social app where users swap custom live stickers — no text allowed](https://techcrunch.com/2024/02/28/yolk-app/)
+- [Totango and Catalyst are merging to build a customer success powerhouse](https://techcrunch.com/2024/02/28/totango-catalyst-merger-customer-success/)
+- [Coverdash gathers insurance’s biggest carriers so SMBs can get coverage in minutes](https://techcrunch.com/2024/02/28/coverdash-business-insurance/)
+- [SpaceX&#39;s longest-ever astronaut cruise was a smooth ride, Ax-3 crewmembers say](https://www.space.com/spacex-crew-dragon-ax-3-longest-astronaut-cruise)
+- [MWC 2024: Everything announced so far, including Nothing Phone &lpar;2a&rpar;, 4FYN pitch finalists](https://techcrunch.com/2024/02/28/mwc-2024-everything-you-need-to-know/)
+- [The five finalists to emerge from the Four Years From Now 2024 pitch competition](https://techcrunch.com/2024/02/28/4yfn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
