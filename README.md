@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky hires former Twitter Trust &amp; Safety co-lead, Aaron Rodericks](https://techcrunch.com/2024/02/28/bluesky-hires-former-twitter-trust-safety-co-lead-aaron-rodericks/)
+- [Bluesky snags former Twitter/X Trust &amp; Safety exec cut by Musk](https://techcrunch.com/2024/02/28/bluesky-hires-former-twitter-trust-safety-co-lead-aaron-rodericks/)
 - [India unveils astronauts for 1st human spaceflight mission in 2025](https://www.space.com/india-reveals-astronauts-first-human-spaceflight-gaganyaan)
 - [Meet the SpaceX Crew-8 astronauts launching to the ISS on March 1](https://www.space.com/meet-spacex-crew-8-astronauts-iss-mission)
 - [Anycubic users say their 3D printers were hacked to warn of a security flaw](https://techcrunch.com/2024/02/28/anycubic-users-3d-printers-hacked-warning/)
