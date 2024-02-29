@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave’s Leo AI assistant is now available to Android users](https://techcrunch.com/2024/02/29/braves-leo-ai-assistant-is-now-available-to-android-users/)
+- [UnitedHealth confirms ransomware gang behind Change Healthcare hack amid ongoing pharmacy outages](https://techcrunch.com/2024/02/29/unitedhealth-change-healthcare-ransomware-alphv-blackcat-pharmacy-outages/)
+- [SpaceX to launch 23 Starlink satellites from Florida today after Crew-8 astronaut flight delay](https://www.space.com/spacex-starlink-6-40-internet-satellites-launch)
 - [Magic secrets on the moon: Q&amp;A with David Copperfield &lpar;exclusive&rpar;](https://www.space.com/intuitive-machines-moon-mission-david-copperfield-interview)
 - [&#39;Axion stars&#39; that went boom after the Big Bang could shed light on dark matter](https://www.space.com/axion-stars-big-bang-dark-matter)
-- [Don’t ignore Asia tech](https://techcrunch.com/2024/02/29/dont-ignore-asia-tech/)
-- [Google brings Stack Overflow’s knowledge base to Gemini for Google Cloud](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/)
-- [Venus Williams brings her interior design skills to Palazzo, a new generative AI-powered platform](https://techcrunch.com/2024/02/29/venus-williams-launches-palazzo-ai-powered-interior-design-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
