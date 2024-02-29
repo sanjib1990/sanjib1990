@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t ignore Asia tech](https://techcrunch.com/2024/02/29/dont-ignore-asia-tech/)
+- [Google brings Stack Overflow’s knowledge base to Gemini for Google Cloud](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/)
+- [Venus Williams brings her interior design skills to Palazzo, a new generative AI-powered platform](https://techcrunch.com/2024/02/29/venus-williams-launches-palazzo-ai-powered-interior-design-platform/)
+- [Vibe helps small companies buy video ads on streaming services](https://techcrunch.com/2024/02/29/vibe-helps-small-companies-buy-video-ads-on-streaming-services/)
 - [Inspired Capital secures $330M fund to take venture capital ‘back to the studs’](https://techcrunch.com/2024/02/29/inspired-capital-330m-venture-capital/)
-- [Figure rides the humanoid robot hype wave to $2.6B valuation and OpenAI/Microsoft partnerships](https://techcrunch.com/2024/02/29/figure-rides-the-humanoid-robot-hype-wave-to-2-6b-valuation-and-openai-collab/)
-- [Host a tailored Side Event at Early Stage 2024 in Boston](https://techcrunch.com/2024/02/29/host-a-tailored-side-event-at-early-stage-2024-in-boston/)
-- [Ford’s adventure with Tesla superchargers officially begins](https://techcrunch.com/2024/02/29/ford-tesla-supercharger-network-access-info/)
-- [Air is leaking from a Russian ISS module, but &#39;no impact to crew,&#39; NASA says](https://www.space.com/international-space-station-russian-module-leak-february-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
