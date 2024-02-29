@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is the SpaceX Crew-8 astronaut launch for NASA on March 2?](https://www.space.com/spacex-crew-8-astronaut-launch-what-time)
+- [Mastodon users can now share their profile via QR code on Android](https://techcrunch.com/2024/02/28/mastodon-users-can-now-share-their-profile-via-qr-code-on-android/)
+- [Meta’s ‘consent or pay’ data grab in EU faces fresh charges of privacy coercion](https://techcrunch.com/2024/02/28/meta-consent-or-pay-consumer-gdpr-complaints/)
+- [Reliance-Disney India media merger to control 85% of streaming, half of TV audience](https://techcrunch.com/2024/02/28/reliance-disney-india-media-merger-to-control-85-of-streaming-half-of-tv-audience/)
 - [OpenCTI maker Filigran raises $16 million for its cybersecurity threat management suite](https://techcrunch.com/2024/02/28/opencti-maker-filigran-raises-16-million-for-its-cybersecurity-threat-management-suite/)
-- [Ambani’s Reliance and Disney merge India media assets to form $8.5B joint venture](https://techcrunch.com/2024/02/28/reliance-buys-majority-stake-in-disney-india-business/)
-- [‘Taiwan needs to find its own groove’: what startups want from the next president](https://techcrunch.com/2024/02/28/taiwan-startups-new-president/)
-- [X goes to court in Elon Musk’s war against an anti-hate research org](https://techcrunch.com/2024/02/28/elon-musk-ccdh-court-date/)
-- [Rocket Lab has ‘misrepresented’ Neutron launch readiness, congressional memo says](https://techcrunch.com/2024/02/28/rocket-lab-has-misrepresented-neutron-launch-readiness-congressional-memo-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
