@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Million Subscribers – An OCW Odyssey](https://www.youtube.com/watch?v=iMDKTNDBSxE)
 - [Digital Plants &lpar;L-Systems&rpar; - Computerphile](https://www.youtube.com/watch?v=puwhf-404Xc)
 - [Nintendo just picked a fight with open-source project Yuzu](https://www.youtube.com/watch?v=A5s4uMI2Ri4)
 - [JavaScript Tutorial for Beginners [JS Crash Course 2024]](https://www.youtube.com/watch?v=FtaQSdrl7YA)
 - [Navigating Open Licensing: Strategies for Access and Reuse](https://www.youtube.com/watch?v=xL1OwgVHOww)
-- [They made React great again?](https://www.youtube.com/watch?v=4k6Xgjqkad4)
 <!-- YOUTUBE:END -->
 
 ---
