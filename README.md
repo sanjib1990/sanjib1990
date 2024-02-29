@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker is laying off 15% of staff and says it needs more cash ahead of a “difficult year”](https://techcrunch.com/2024/02/29/fisker-layoffs-cash-going-concern-dealerships/)
+- [A leaky database spilled 2FA codes for the world’s tech giants](https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/)
 - [Ariel Kaye built a brand that’s outlasted the DTC Boom](https://techcrunch.com/2024/02/29/ariel-kaye-built-a-brand-thats-outlasted-the-dtc-boom/)
 - [China names the spacecraft that will put its astronauts on the moon &lpar;video&rpar;](https://www.space.com/china-names-spacecraft-astronaut-moon-missions)
 - [How much are Nvidia’s rivals investing in startups? We investigated](https://techcrunch.com/2024/02/29/how-much-are-nvidias-rivals-investing-in-startups-we-investigated/)
-- [Reddit should go public at $5B, according to secondary data](https://techcrunch.com/2024/02/29/reddit-ipo-valuation-secondary-data/)
-- [MacPaw’s Setapp becomes one of the first to agree to Apple’s controversial DMA rules](https://techcrunch.com/2024/02/29/macpaws-setapp-becomes-one-of-the-first-to-agree-to-apples-controversial-dma-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
