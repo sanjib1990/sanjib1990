@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oukitel BP2000 power station review](https://www.space.com/oukitel-bp2000-power-station-review)
+- [Lordstown Motors charged with misleading investors about the sales potential of its EV pickup](https://techcrunch.com/2024/02/29/lordstown-motors-sec-charged-misleading-investors/)
+- [A minor league baseball team trolls Disney with its ‘Steamboat Willie’ jerseys](https://techcrunch.com/2024/02/29/minor-league-steamboat-willie-jerseys/)
 - [Fisker is laying off 15% of staff and says it needs more cash ahead of a “difficult year”](https://techcrunch.com/2024/02/29/fisker-layoffs-cash-going-concern-dealerships/)
 - [A leaky database spilled 2FA codes for the world’s tech giants](https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/)
-- [Ariel Kaye built a brand that’s outlasted the DTC Boom](https://techcrunch.com/2024/02/29/ariel-kaye-built-a-brand-thats-outlasted-the-dtc-boom/)
-- [China names the spacecraft that will put its astronauts on the moon &lpar;video&rpar;](https://www.space.com/china-names-spacecraft-astronaut-moon-missions)
-- [How much are Nvidia’s rivals investing in startups? We investigated](https://techcrunch.com/2024/02/29/how-much-are-nvidias-rivals-investing-in-startups-we-investigated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
