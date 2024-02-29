@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India approves $15B in semiconductor plant investments](https://techcrunch.com/2024/02/29/india-semiconductor-investments-fab-facility/)
+- [Twodos is a simple to-do app that doesn’t remind you of your tasks](https://techcrunch.com/2024/02/29/twodos-is-a-simple-to-do-app-that-doesnt-remind-you-of-your-tasks/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Popular video doorbells can be easily hijacked, researchers find](https://techcrunch.com/2024/02/29/popular-video-doorbells-eken-tuck-hijacked-researchers/)
 - [Why NASA astronaut Jeanette Epps waited an extra 6 years for her ISS space mission](https://www.space.com/nasa-astronaut-jeanette-epps-iss-6-year-wait-spacex-crew-8)
-- [A baby star&#39;s planet-forming disk has 3 times more water than all of Earth&#39;s oceans](https://www.space.com/planet-birthing-disk-infant-star-water-earth-ocean)
-- [Meta’s Zuckerberg woos big tech in Asia to double down on AI chips](https://techcrunch.com/2024/02/29/metas-zuckerberg-woos-big-tech-in-asia-to-double-down-on-ai-chips/)
-- [Ex-Meta employees’ Aptos tests Hong Kong’s crypto appetite](https://techcrunch.com/2024/02/29/ex-meta-employees-aptos-tests-hong-kongs-crypto-appetite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
