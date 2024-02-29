@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India approves $15B in semiconductor plant investments](https://techcrunch.com/2024/02/29/india-semiconductor-investments-fab-facility/)
-- [Twodos is a simple to-do app that doesn’t remind you of your tasks](https://techcrunch.com/2024/02/29/twodos-is-a-simple-to-do-app-that-doesnt-remind-you-of-your-tasks/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Popular video doorbells can be easily hijacked, researchers find](https://techcrunch.com/2024/02/29/popular-video-doorbells-eken-tuck-hijacked-researchers/)
-- [Why NASA astronaut Jeanette Epps waited an extra 6 years for her ISS space mission](https://www.space.com/nasa-astronaut-jeanette-epps-iss-6-year-wait-spacex-crew-8)
+- [Inspired Capital secures $330M fund to take venture capital ‘back to the studs’](https://techcrunch.com/2024/02/29/inspired-capital-330m-venture-capital/)
+- [Figure rides the humanoid robot hype wave to $2.6B valuation and OpenAI/Microsoft partnerships](https://techcrunch.com/2024/02/29/figure-rides-the-humanoid-robot-hype-wave-to-2-6b-valuation-and-openai-collab/)
+- [Host a tailored Side Event at Early Stage 2024 in Boston](https://techcrunch.com/2024/02/29/host-a-tailored-side-event-at-early-stage-2024-in-boston/)
+- [Ford’s adventure with Tesla superchargers officially begins](https://techcrunch.com/2024/02/29/ford-tesla-supercharger-network-access-info/)
+- [Air is leaking from a Russian ISS module, but &#39;no impact to crew,&#39; NASA says](https://www.space.com/international-space-station-russian-module-leak-february-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
