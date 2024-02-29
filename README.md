@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin jumped and Coinbase’s app crashed, while Aptos eyes Hong Kong and Telegram rolls out rewards with TON](https://techcrunch.com/2024/02/29/bitcoin-jumped-and-coinbases-app-crashed-while-aptos-eyes-hong-kong-and-telegram-rolls-out-rewards-with-ton/)
+- [SpaceX Starship docking system readies for moon missions in tests with NASA](https://www.space.com/spacex-starship-docking-system-tests-nasa-moon-missions)
 - [Richard Truly, space shuttle astronaut and NASA administrator, dies at 86](https://www.space.com/astronaut-richard-truly-nasa-adminstrator-obituary)
 - [James Webb Space Telescope reveals how stellar blasts of radiation stunt planet birth](https://www.space.com/james-webb-space-telescope-planet-birth-star-radiation)
 - [MWC 2024: Everything announced so far, including Nothing Phone &lpar;2a&rpar;, 4FYN winner](https://techcrunch.com/2024/02/29/mwc-2024-everything-you-need-to-know/)
-- [A government watchdog hacked a US federal agency to stress-test its cloud security](https://techcrunch.com/2024/02/29/department-interior-watchdog-hack-cloud-data/)
-- [Microsoft’s Windows 11 Copilot gets smarter with new plugins and skills](https://techcrunch.com/2024/02/29/microsofts-windows-11-copilot-gets-smarter-with-new-plugins-and-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
