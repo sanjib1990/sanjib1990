@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Magic secrets on the moon: Q&amp;A with David Copperfield &lpar;exclusive&rpar;](https://www.space.com/intuitive-machines-moon-mission-david-copperfield-interview)
+- [&#39;Axion stars&#39; that went boom after the Big Bang could shed light on dark matter](https://www.space.com/axion-stars-big-bang-dark-matter)
 - [Don’t ignore Asia tech](https://techcrunch.com/2024/02/29/dont-ignore-asia-tech/)
 - [Google brings Stack Overflow’s knowledge base to Gemini for Google Cloud](https://techcrunch.com/2024/02/29/google-brings-stack-overflows-knowledge-base-to-gemini/)
 - [Venus Williams brings her interior design skills to Palazzo, a new generative AI-powered platform](https://techcrunch.com/2024/02/29/venus-williams-launches-palazzo-ai-powered-interior-design-platform/)
-- [Vibe helps small companies buy video ads on streaming services](https://techcrunch.com/2024/02/29/vibe-helps-small-companies-buy-video-ads-on-streaming-services/)
-- [Inspired Capital secures $330M fund to take venture capital ‘back to the studs’](https://techcrunch.com/2024/02/29/inspired-capital-330m-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
