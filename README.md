@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EQ Tickets combines cheaper sports and event tickets with a social network](https://techcrunch.com/2024/02/29/eq-tickets-combines-cheaper-sports-and-event-tickets-with-a-social-network/)
+- [Google is making search suggestions in Chrome more helpful](https://techcrunch.com/2024/02/29/google-is-making-search-suggestions-in-chrome-more-helpful/)
+- [With Brain.ai, generative AI is the OS](https://techcrunch.com/2024/02/29/with-brain-ai-generative-ai-is-the-os/)
+- [Former Twitter engineers are building Particle, an AI-powered news reader, backed by $4.4M](https://techcrunch.com/2024/02/29/former-twitter-engineers-are-building-particle-an-ai-powered-news-reader/)
 - [Brave’s Leo AI assistant is now available to Android users](https://techcrunch.com/2024/02/29/braves-leo-ai-assistant-is-now-available-to-android-users/)
-- [UnitedHealth confirms ransomware gang behind Change Healthcare hack amid ongoing pharmacy outages](https://techcrunch.com/2024/02/29/unitedhealth-change-healthcare-ransomware-alphv-blackcat-pharmacy-outages/)
-- [SpaceX to launch 23 Starlink satellites from Florida today after Crew-8 astronaut flight delay](https://www.space.com/spacex-starlink-6-40-internet-satellites-launch)
-- [Magic secrets on the moon: Q&amp;A with David Copperfield &lpar;exclusive&rpar;](https://www.space.com/intuitive-machines-moon-mission-david-copperfield-interview)
-- [&#39;Axion stars&#39; that went boom after the Big Bang could shed light on dark matter](https://www.space.com/axion-stars-big-bang-dark-matter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
