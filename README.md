@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bfree, a Nigerian startup enabling lenders recover debt ethically, gets $3M backing](https://techcrunch.com/2024/02/28/bfree-gets-fresh-backing/)
+- [SpaceX delays Crew-8 astronaut launch for NASA to March 2 due to bad weather](https://www.space.com/spacex-crew-8-astronaut-launch-delay-march-2-2024)
 - [What time is the SpaceX Crew-8 astronaut launch for NASA on March 2?](https://www.space.com/spacex-crew-8-astronaut-launch-what-time)
 - [Mastodon users can now share their profile via QR code on Android](https://techcrunch.com/2024/02/28/mastodon-users-can-now-share-their-profile-via-qr-code-on-android/)
 - [Meta’s ‘consent or pay’ data grab in EU faces fresh charges of privacy coercion](https://techcrunch.com/2024/02/28/meta-consent-or-pay-consumer-gdpr-complaints/)
-- [Reliance-Disney India media merger to control 85% of streaming, half of TV audience](https://techcrunch.com/2024/02/28/reliance-disney-india-media-merger-to-control-85-of-streaming-half-of-tv-audience/)
-- [OpenCTI maker Filigran raises $16 million for its cybersecurity threat management suite](https://techcrunch.com/2024/02/28/opencti-maker-filigran-raises-16-million-for-its-cybersecurity-threat-management-suite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
