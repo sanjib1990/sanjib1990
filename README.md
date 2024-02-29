@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A baby star&#39;s planet-forming disk has 3 times more water than all of Earth](https://www.space.com/planet-birthing-disk-infant-star-water-earth-ocean)
+- [Popular video doorbells can be easily hijacked, researchers find](https://techcrunch.com/2024/02/29/popular-video-doorbells-eken-tuck-hijacked-researchers/)
+- [Why NASA astronaut Jeanette Epps waited an extra 6 years for her ISS space mission](https://www.space.com/nasa-astronaut-jeanette-epps-iss-6-year-wait-spacex-crew-8)
+- [A baby star&#39;s planet-forming disk has 3 times more water than all of Earth&#39;s oceans](https://www.space.com/planet-birthing-disk-infant-star-water-earth-ocean)
 - [Meta’s Zuckerberg woos big tech in Asia to double down on AI chips](https://techcrunch.com/2024/02/29/metas-zuckerberg-woos-big-tech-in-asia-to-double-down-on-ai-chips/)
 - [Ex-Meta employees’ Aptos tests Hong Kong’s crypto appetite](https://techcrunch.com/2024/02/29/ex-meta-employees-aptos-tests-hong-kongs-crypto-appetite/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Silence Laboratories, a cryptographic security startup, secures funding](https://techcrunch.com/2024/02/29/silence-laboratories-a-cryptographic-security-startup-secures-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
