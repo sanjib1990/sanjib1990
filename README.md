@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EQ Tickets combines cheaper sports and event tickets with a social network](https://techcrunch.com/2024/02/29/eq-tickets-combines-cheaper-sports-and-event-tickets-with-a-social-network/)
-- [Google is making search suggestions in Chrome more helpful](https://techcrunch.com/2024/02/29/google-is-making-search-suggestions-in-chrome-more-helpful/)
-- [With Brain.ai, generative AI is the OS](https://techcrunch.com/2024/02/29/with-brain-ai-generative-ai-is-the-os/)
-- [Former Twitter engineers are building Particle, an AI-powered news reader, backed by $4.4M](https://techcrunch.com/2024/02/29/former-twitter-engineers-are-building-particle-an-ai-powered-news-reader/)
-- [Brave’s Leo AI assistant is now available to Android users](https://techcrunch.com/2024/02/29/braves-leo-ai-assistant-is-now-available-to-android-users/)
+- [A government watchdog hacked a US federal agency to stress-test its cloud security](https://techcrunch.com/2024/02/29/department-interior-watchdog-hack-cloud-data/)
+- [Microsoft’s Windows 11 Copilot gets smarter with new plugins and skills](https://techcrunch.com/2024/02/29/microsofts-windows-11-copilot-gets-smarter-with-new-plugins-and-skills/)
+- [Everything we know about Dune: Awakening](https://www.space.com/everything-we-know-about-dune-awakening)
+- [Mill’s updated bin will turn your food waste into chicken feed before breakfast](https://techcrunch.com/2024/02/29/mill-food-waste-bin-version-2/)
+- [Spotify’s new ‘Song Psychic’ is like a Magic 8-Ball that answers your questions with music](https://techcrunch.com/2024/02/29/spotifys-new-song-psychic-is-like-a-magic-8-ball-that-answers-your-questions-with-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
