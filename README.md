@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X goes to court in Elon Musk’s war against an anti-hate research org](https://techcrunch.com/2024/02/28/elon-musk-ccdh-court-date/)
 - [Rocket Lab has ‘misrepresented’ Neutron launch readiness, congressional memo says](https://techcrunch.com/2024/02/28/rocket-lab-has-misrepresented-neutron-launch-readiness-congressional-memo-says/)
 - [Gemini on Android can’t ID songs, and it’s frustrating](https://techcrunch.com/2024/02/28/gemini-on-android-cant-id-songs-and-its-frustrating/)
 - [Watch the bittersweet trailer for &#39;Star Trek: Discovery&#39;s final season &lpar;video&rpar;](https://www.space.com/star-trek-discovery-final-season-trailer)
 - [Private Odysseus moon lander broke a leg during historic touchdown. &#39;He&#39;s a scrappy little dude.&#39; &lpar;new photos&rpar;](https://www.space.com/intuitive-machines-odysseus-moon-lander-broken-leg)
-- [The Apple Car that never was: A timeline](https://techcrunch.com/2024/02/28/the-apple-car-that-never-was-a-timeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
