@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenCTI maker Filigran raises $16 million for its cybersecurity threat management suite](https://techcrunch.com/2024/02/28/opencti-maker-filigran-raises-16-million-for-its-cybersecurity-threat-management-suite/)
 - [Ambani’s Reliance and Disney merge India media assets to form $8.5B joint venture](https://techcrunch.com/2024/02/28/reliance-buys-majority-stake-in-disney-india-business/)
 - [‘Taiwan needs to find its own groove’: what startups want from the next president](https://techcrunch.com/2024/02/28/taiwan-startups-new-president/)
 - [X goes to court in Elon Musk’s war against an anti-hate research org](https://techcrunch.com/2024/02/28/elon-musk-ccdh-court-date/)
 - [Rocket Lab has ‘misrepresented’ Neutron launch readiness, congressional memo says](https://techcrunch.com/2024/02/28/rocket-lab-has-misrepresented-neutron-launch-readiness-congressional-memo-says/)
-- [Gemini on Android can’t ID songs, and it’s frustrating](https://techcrunch.com/2024/02/28/gemini-on-android-cant-id-songs-and-its-frustrating/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
