@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin jumped and Coinbase’s app crashed, while Aptos eyes Hong Kong and Telegram rolls out rewards with TON](https://techcrunch.com/2024/02/29/bitcoin-jumped-and-coinbases-app-crashed-while-aptos-eyes-hong-kong-and-telegram-rolls-out-rewards-with-ton/)
-- [SpaceX Starship docking system readies for moon missions in tests with NASA](https://www.space.com/spacex-starship-docking-system-tests-nasa-moon-missions)
-- [Richard Truly, space shuttle astronaut and NASA administrator, dies at 86](https://www.space.com/astronaut-richard-truly-nasa-adminstrator-obituary)
-- [James Webb Space Telescope reveals how stellar blasts of radiation stunt planet birth](https://www.space.com/james-webb-space-telescope-planet-birth-star-radiation)
-- [MWC 2024: Everything announced so far, including Nothing Phone &lpar;2a&rpar;, 4FYN winner](https://techcrunch.com/2024/02/29/mwc-2024-everything-you-need-to-know/)
+- [Ariel Kaye built a brand that’s outlasted the DTC Boom](https://techcrunch.com/2024/02/29/ariel-kaye-built-a-brand-thats-outlasted-the-dtc-boom/)
+- [China names the spacecraft that will put its astronauts on the moon &lpar;video&rpar;](https://www.space.com/china-names-spacecraft-astronaut-moon-missions)
+- [How much are Nvidia’s rivals investing in startups? We investigated](https://techcrunch.com/2024/02/29/how-much-are-nvidias-rivals-investing-in-startups-we-investigated/)
+- [Reddit should go public at $5B, according to secondary data](https://techcrunch.com/2024/02/29/reddit-ipo-valuation-secondary-data/)
+- [MacPaw’s Setapp becomes one of the first to agree to Apple’s controversial DMA rules](https://techcrunch.com/2024/02/29/macpaws-setapp-becomes-one-of-the-first-to-agree-to-apples-controversial-dma-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
