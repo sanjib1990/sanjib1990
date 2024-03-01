@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance rover spots Ingenuity helicopter&#39;s snapped-off rotor blade on Mars &lpar;photos&rpar;](https://www.space.com/mars-ingenuity-helicopter-blade-mars-perseverance-photo)
+- [Elon Musk sues OpenAI and Sam Altman over ‘betrayal’ of non-profit AI mission](https://techcrunch.com/2024/03/01/elon-musk-openai-sam-altman-court/)
 - [Facebook plans to shut down its news tab in the U.S. and Australia](https://techcrunch.com/2024/02/29/facebook-plans-to-shut-down-its-news-tab-in-the-u-s-and-australia/)
 - [Google pulls popular Indian matrimony apps from store over fees violation](https://techcrunch.com/2024/02/29/google-calls-out-10-indian-companies-for-evading-play-store-fees-warns-of-app-removal/)
 - [Goodnight, Odysseus. Intuitive Machines&#39; private moon lander goes offline — but could it rise again?](https://www.space.com/intuitive-machines-odysseus-moon-lander-shuts-down)
-- [Intuitive Machines’ first moon lander also broke ground with safer, cheaper rocket-style propulsion](https://techcrunch.com/2024/02/29/intuitive-machines-first-moon-lander-also-broke-ground-with-safer-cheaper-rocket-style-propulsion/)
-- [Oukitel BP2000 power station review](https://www.space.com/oukitel-bp2000-power-station-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
