@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AgZen’s RealCoverage wants to keep pesticides only where they are needed](https://techcrunch.com/2024/03/01/agzen-realcoverage/)
-- [MyHeritage launches OldNews.com, a website with access to millions of historical newspaper pages](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
-- [&#39;Wiggles&#39; of energy waves over Earth could hold the universe&#39;s history](https://www.space.com/the-universe/wiggles-of-energy-waves-over-earth-could-hold-the-universes-history)
-- [Fohm rebrands to Saintly, for a heavenly clean bottom](https://techcrunch.com/2024/03/01/fohm-to-saintly/)
-- [AI chip startup Groq forms new business unit, acquires Definitive Intelligence](https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/)
+- [Rants, AI and other notes from Upfront Summit](https://techcrunch.com/2024/03/01/upfront-summit-summary/)
+- [Why March is the best month to see the northern lights](https://www.space.com/march-best-month-to-see-northern-lights-aurora-hunting)
+- [Threads says it will make its API broadly available by June](https://techcrunch.com/2024/03/01/threads-says-it-will-make-its-api-broadly-available-by-june/)
+- [Japan&#39;s SLIM moon lander powers down as long lunar night falls &lpar;again&rpar;](https://www.space.com/japan-slim-moon-lander-dormant-march-1)
+- [Compete or cooperate? Five deep tech investors opt for shared gain over sharp elbows](https://techcrunch.com/2024/03/01/venx-collaborative-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
