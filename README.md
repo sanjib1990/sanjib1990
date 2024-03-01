@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MWC: Swayy app lets you share your future location with close friends, or groups you curate](https://techcrunch.com/2024/03/01/swayy/)
-- [Apple reverses decision about blocking web apps on iPhones in the EU](https://techcrunch.com/2024/03/01/apple-reverses-decision-about-blocking-web-apps-on-iphones-in-the-eu/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Now the EU is asking questions about Meta’s ‘pay or be tracked’ consent model](https://techcrunch.com/2024/03/01/meta-rfi-dsa-ad-free-subscription/)
-- [NSA says it’s tracking Ivanti cyberattacks as hackers hit US defense sector](https://techcrunch.com/2024/03/01/nsa-says-its-tracking-ivanti-cyberattacks-as-hackers-hit-us-defense-sector/)
+- [AgZen’s RealCoverage wants to keep pesticides only where they are needed](https://techcrunch.com/2024/03/01/agzen-realcoverage/)
+- [MyHeritage launches OldNews.com, a website with access to millions of historical newspaper pages](https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/)
+- [&#39;Wiggles&#39; of energy waves over Earth could hold the universe&#39;s history](https://www.space.com/the-universe/wiggles-of-energy-waves-over-earth-could-hold-the-universes-history)
+- [Fohm rebrands to Saintly, for a heavenly clean bottom](https://techcrunch.com/2024/03/01/fohm-to-saintly/)
+- [AI chip startup Groq forms new business unit, acquires Definitive Intelligence](https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
