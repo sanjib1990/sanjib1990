@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodnight, Odysseus. Intuitive Machines&#39; private moon lander goes offline — but could it rise again?](https://www.space.com/intuitive-machines-odysseus-moon-lander-shuts-down)
+- [Intuitive Machines’ first moon lander also broke ground with safer, cheaper rocket-style propulsion](https://techcrunch.com/2024/02/29/intuitive-machines-first-moon-lander-also-broke-ground-with-safer-cheaper-rocket-style-propulsion/)
 - [Oukitel BP2000 power station review](https://www.space.com/oukitel-bp2000-power-station-review)
 - [Lordstown Motors charged with misleading investors about the sales potential of its EV pickup](https://techcrunch.com/2024/02/29/lordstown-motors-sec-charged-misleading-investors/)
 - [A minor league baseball team trolls Disney with its ‘Steamboat Willie’ jerseys](https://techcrunch.com/2024/02/29/minor-league-steamboat-willie-jerseys/)
-- [Fisker is laying off 15% of staff and says it needs more cash ahead of a “difficult year”](https://techcrunch.com/2024/02/29/fisker-layoffs-cash-going-concern-dealerships/)
-- [A leaky database spilled 2FA codes for the world’s tech giants](https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
