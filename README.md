@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/)
+- [Stay up-to-date on the amount of venture dollars going to underrepresented founders](https://techcrunch.com/2024/03/01/stay-up-to-date-on-the-amount-of-venture-dollars-going-to-underrepresented-founders/)
 - [Will NASA be able to return Mars samples to Earth? New audit raises doubts](https://www.space.com/nasa-mars-sample-return-obstacles-oig-report-february-2024)
 - [MWC 2024: Everything announced so far, including Swayy’s app to tell friends where you’ll be next](https://techcrunch.com/2024/03/01/mwc-2024-everything-you-need-to-know/)
 - [Is there anything AI can’t do?](https://techcrunch.com/2024/03/01/is-there-anything-ai-cant-do/)
-- [Adam Sandler&#39;s &#39;Spaceman&#39; used NASA artifacts to create sci-fi film&#39;s spaceship](https://www.space.com/spaceman-sandler-space-artifact-props)
-- [Ultraleap is bringing haptic touch to cars and VR headsets](https://techcrunch.com/2024/03/01/ultraleap-is-bringing-haptic-touch-to-cars-and-vr-headsets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
