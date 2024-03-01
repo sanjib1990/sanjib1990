@@ -84,9 +84,9 @@
 <!-- YOUTUBE:START -->
 - [you NEED a website in 2024](https://www.youtube.com/watch?v=sTjgUQkmxuU)
 - [Drizzle ORM in 100 Seconds](https://www.youtube.com/watch?v=i_mAHOhpBSA)
-- [The World&#39;s FIRST Wi-Fi Network](https://www.youtube.com/watch?v=idvbywX5GBI)
 - [5 Million Subscribers – An OCW Odyssey](https://www.youtube.com/watch?v=iMDKTNDBSxE)
 - [Digital Plants &lpar;L-Systems&rpar; - Computerphile](https://www.youtube.com/watch?v=puwhf-404Xc)
+- [Nintendo just picked a fight with open-source project Yuzu](https://www.youtube.com/watch?v=A5s4uMI2Ri4)
 <!-- YOUTUBE:END -->
 
 ---
