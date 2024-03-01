@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [NASA &#39;worm&#39; logo crawls onto Artemis 2 moon rockets &lpar;video&rpar;](https://www.space.com/nasa-worm-logo-artemis-2-moon-rockets-astronauts-video)
-- [Karma3 Labs raises $4.5M to improve trust in web3 with ratings and recommendations](https://techcrunch.com/2024/03/01/karma3-labs-openrank-web3-ranking/)
-- [China to debut new Long March rockets in 2024](https://www.space.com/china-new-long-march-rockets-2024)
-- [NFX’s James Currier will break down MVPs at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/01/nfxs-james-currier-will-break-down-mvps-at-techcrunch-early-stage-2024/)
+- [Will we reach AGI before Stripe goes public?](https://techcrunch.com/2024/03/01/will-we-reach-agi-before-stripe-goes-public/)
+- [Syrenna’s WaterDrone is the ocean-monitoring ‘underwater weather station’ of the future](https://techcrunch.com/2024/03/01/syrennas-waterdrone-is-the-ocean-monitoring-underwater-weather-station-of-the-future/)
+- [Rec emerges from stealth to modernize Parks &amp; Rec management and booking](https://techcrunch.com/2024/03/01/rec-emerges-from-stealth-to-modernize-parks-rec-management-and-booking/)
+- [Why ISS astronauts won&#39;t know where to look for next total solar eclipse for a while](https://www.space.com/iss-astronaut-total-solar-eclipse-2024-viewing-unclear)
+- [Spotify launches a $9.99/mo standalone audiobooks service for its free users](https://techcrunch.com/2024/03/01/spotify-launches-a-9-99-mo-standalone-audiobooks-service-for-its-free-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
