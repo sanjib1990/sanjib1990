@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Will we reach AGI before Stripe goes public?](https://techcrunch.com/2024/03/01/will-we-reach-agi-before-stripe-goes-public/)
-- [Syrenna’s WaterDrone is the ocean-monitoring ‘underwater weather station’ of the future](https://techcrunch.com/2024/03/01/syrennas-waterdrone-is-the-ocean-monitoring-underwater-weather-station-of-the-future/)
-- [Rec emerges from stealth to modernize Parks &amp; Rec management and booking](https://techcrunch.com/2024/03/01/rec-emerges-from-stealth-to-modernize-parks-rec-management-and-booking/)
-- [Why ISS astronauts won&#39;t know where to look for next total solar eclipse for a while](https://www.space.com/iss-astronaut-total-solar-eclipse-2024-viewing-unclear)
-- [Spotify launches a $9.99/mo standalone audiobooks service for its free users](https://techcrunch.com/2024/03/01/spotify-launches-a-9-99-mo-standalone-audiobooks-service-for-its-free-users/)
+- [NSA says it’s tracking Ivanti cyberattacks as hackers hit US defense sector](https://techcrunch.com/2024/03/01/nsa-says-its-tracking-ivanti-cyberattacks-as-hackers-hit-us-defense-sector/)
+- [Pitch Deck Teardown: CommandBar’s $4.8M seed deck](https://techcrunch.com/2024/03/01/commandbar-seed-deck-teardown/)
+- [Astronaut Scott Kelly on advising Apple&#39;s new space thriller &#39;Constellation&#39;](https://www.space.com/constellation-apple-tv-scott-kelly-astronaut-advisor)
+- [Backed by $10M Series A, TravelJoy is riding the post-COVID demand for expert travel planning](https://techcrunch.com/2024/03/01/backed-by-10m-series-a-traveljoy-is-riding-the-post-covid-demand-for-expert-travel-planning/)
+- [Thoma Bravo takes critical event management software company Everbridge private in $1.8B deal](https://techcrunch.com/2024/03/01/thoma-bravo-takes-critical-event-management-software-company-everbridge-private-in-1-5b-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
