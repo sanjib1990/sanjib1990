@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will NASA be able to return Mars samples to Earth? New audit raises doubts](https://www.space.com/nasa-mars-sample-return-obstacles-oig-report-february-2024)
+- [MWC 2024: Everything announced so far, including Swayy’s app to tell friends where you’ll be next](https://techcrunch.com/2024/03/01/mwc-2024-everything-you-need-to-know/)
 - [Is there anything AI can’t do?](https://techcrunch.com/2024/03/01/is-there-anything-ai-cant-do/)
 - [Adam Sandler&#39;s &#39;Spaceman&#39; used NASA artifacts to create sci-fi film&#39;s spaceship](https://www.space.com/spaceman-sandler-space-artifact-props)
 - [Ultraleap is bringing haptic touch to cars and VR headsets](https://techcrunch.com/2024/03/01/ultraleap-is-bringing-haptic-touch-to-cars-and-vr-headsets/)
-- [Rants, AI and other notes from Upfront Summit](https://techcrunch.com/2024/03/01/upfront-summit-summary/)
-- [Why March is the best month to see the northern lights](https://www.space.com/march-best-month-to-see-northern-lights-aurora-hunting)
 <!-- BLOG-POST-LIST:END -->
 
 ---
