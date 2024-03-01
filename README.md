@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MWC: Swayy app lets you share your future location with close friends, or groups you curate](https://techcrunch.com/2024/03/01/swayy/)
+- [Apple reverses decision about blocking web apps on iPhones in the EU](https://techcrunch.com/2024/03/01/apple-reverses-decision-about-blocking-web-apps-on-iphones-in-the-eu/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Now the EU is asking questions about Meta’s ‘pay or be tracked’ consent model](https://techcrunch.com/2024/03/01/meta-rfi-dsa-ad-free-subscription/)
 - [NSA says it’s tracking Ivanti cyberattacks as hackers hit US defense sector](https://techcrunch.com/2024/03/01/nsa-says-its-tracking-ivanti-cyberattacks-as-hackers-hit-us-defense-sector/)
-- [Pitch Deck Teardown: CommandBar’s $4.8M seed deck](https://techcrunch.com/2024/03/01/commandbar-seed-deck-teardown/)
-- [Astronaut Scott Kelly on advising Apple&#39;s new space thriller &#39;Constellation&#39;](https://www.space.com/constellation-apple-tv-scott-kelly-astronaut-advisor)
-- [Backed by $10M Series A, TravelJoy is riding the post-COVID demand for expert travel planning](https://techcrunch.com/2024/03/01/backed-by-10m-series-a-traveljoy-is-riding-the-post-covid-demand-for-expert-travel-planning/)
-- [Thoma Bravo takes critical event management software company Everbridge private in $1.8B deal](https://techcrunch.com/2024/03/01/thoma-bravo-takes-critical-event-management-software-company-everbridge-private-in-1-5b-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
