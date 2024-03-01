@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there anything AI can’t do?](https://techcrunch.com/2024/03/01/is-there-anything-ai-cant-do/)
+- [Adam Sandler&#39;s &#39;Spaceman&#39; used NASA artifacts to create sci-fi film&#39;s spaceship](https://www.space.com/spaceman-sandler-space-artifact-props)
+- [Ultraleap is bringing haptic touch to cars and VR headsets](https://techcrunch.com/2024/03/01/ultraleap-is-bringing-haptic-touch-to-cars-and-vr-headsets/)
 - [Rants, AI and other notes from Upfront Summit](https://techcrunch.com/2024/03/01/upfront-summit-summary/)
 - [Why March is the best month to see the northern lights](https://www.space.com/march-best-month-to-see-northern-lights-aurora-hunting)
-- [Threads says it will make its API broadly available by June](https://techcrunch.com/2024/03/01/threads-says-it-will-make-its-api-broadly-available-by-june/)
-- [Japan&#39;s SLIM moon lander powers down as long lunar night falls &lpar;again&rpar;](https://www.space.com/japan-slim-moon-lander-dormant-march-1)
-- [Compete or cooperate? Five deep tech investors opt for shared gain over sharp elbows](https://techcrunch.com/2024/03/01/venx-collaborative-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
