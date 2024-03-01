@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [NASA &#39;worm&#39; logo crawls onto Artemis 2 moon rockets &lpar;video&rpar;](https://www.space.com/nasa-worm-logo-artemis-2-moon-rockets-astronauts-video)
+- [Karma3 Labs raises $4.5M to improve trust in web3 with ratings and recommendations](https://techcrunch.com/2024/03/01/karma3-labs-openrank-web3-ranking/)
 - [China to debut new Long March rockets in 2024](https://www.space.com/china-new-long-march-rockets-2024)
 - [NFX’s James Currier will break down MVPs at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/01/nfxs-james-currier-will-break-down-mvps-at-techcrunch-early-stage-2024/)
-- [Perseverance rover spots Ingenuity helicopter&#39;s snapped-off rotor blade on Mars &lpar;photos&rpar;](https://www.space.com/mars-ingenuity-helicopter-blade-mars-perseverance-photo)
-- [Elon Musk sues OpenAI and Sam Altman over ‘betrayal’ of non-profit AI mission](https://techcrunch.com/2024/03/01/elon-musk-openai-sam-altman-court/)
-- [Facebook plans to shut down its news tab in the U.S. and Australia](https://techcrunch.com/2024/02/29/facebook-plans-to-shut-down-its-news-tab-in-the-u-s-and-australia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
