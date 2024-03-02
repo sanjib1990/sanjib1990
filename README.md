@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 100 — Riding to Space on Virgin Galactic](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-100-riding-space-virgin-galactic)
 - [Taiko raises $37M to build web3 infrastructure for a censorship-free internet](https://techcrunch.com/2024/03/02/taiko-raises-37m-to-build-web3-infrastructure-for-a-censorship-free-internet/)
 - [Immerse yourself in the total eclipse 2024 with &#39;The Eclipse App&#39; from The Eclipse Company](https://www.space.com/the-eclipse-app-total-eclipse-2024)
 - [Apple abandons its car: Here are other projects the company has killed](https://techcrunch.com/2024/03/02/apple-abandons-its-car-here-are-other-projects-the-company-has-killed/)
 - [Nubank CEO dishes on the neobank’s profit surge and how tourist VCs in LatAm have gone home](https://techcrunch.com/2024/03/02/the-tourist-vcs-in-latam-have-gone-home/)
-- [Could tardigrades have colonized the moon?](https://www.space.com/could-tardigrads-colonize-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
