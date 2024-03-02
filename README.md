@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Karine Perset helps governments understand AI](https://techcrunch.com/2024/03/02/karine-perset-helps-governments-understand-ai/)
+- [What are nacreous clouds?](https://www.space.com/what-are-nacreous-clouds-how-do-they-form)
 - [Connect with HomeHQ.ai, SOSV, Prepare 4 VC, Latham &amp; Watkins and more at TC Early Stage 2024](https://techcrunch.com/2024/03/02/connect-with-homehq-ai-sosv-prepare-4-vc-latham-watkins-and-more-at-tc-early-stage-2024/)
 - [Rare OSIRIS-REx asteroid sample debuts at Space Center Houston](https://www.space.com/space-center-houston-osiris-rex-bennu-asteroid-display)
 - [Watch private space capsule&#39;s blistering return to Earth in amazing onboard video](https://www.space.com/varda-in-space-manufacturing-capsule-earth-return-video)
-- [Holy Stone HS720R drone review](https://www.space.com/holy-stone-hs720r-drone-review)
-- [VC Trae Stephens says he has a bunker &lpar;and much more&rpar; in talk about Founders Fund and Anduril](https://techcrunch.com/2024/03/02/vc-trae-stephens-says-he-has-a-bunker-and-much-more-in-talk-about-founders-fund-and-anduril/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
