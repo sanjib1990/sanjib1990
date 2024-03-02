@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taiko raises $37M to build web3 infrastructure for a censorship-free internet](https://techcrunch.com/2024/03/02/taiko-raises-37m-to-build-web3-infrastructure-for-a-censorship-free-internet/)
+- [Immerse yourself in the total eclipse 2024 with &#39;The Eclipse App&#39; from The Eclipse Company](https://www.space.com/the-eclipse-app-total-eclipse-2024)
+- [Apple abandons its car: Here are other projects the company has killed](https://techcrunch.com/2024/03/02/apple-abandons-its-car-here-are-other-projects-the-company-has-killed/)
 - [Nubank CEO dishes on the neobank’s profit surge and how tourist VCs in LatAm have gone home](https://techcrunch.com/2024/03/02/the-tourist-vcs-in-latam-have-gone-home/)
 - [Could tardigrades have colonized the moon?](https://www.space.com/could-tardigrads-colonize-the-moon)
-- [Karine Perset helps governments understand AI](https://techcrunch.com/2024/03/02/karine-perset-helps-governments-understand-ai/)
-- [What are nacreous clouds?](https://www.space.com/what-are-nacreous-clouds-how-do-they-form)
-- [Connect with HomeHQ.ai, SOSV, Prepare 4 VC, Latham &amp; Watkins and more at TC Early Stage 2024](https://techcrunch.com/2024/03/02/connect-with-homehq-ai-sosv-prepare-4-vc-latham-watkins-and-more-at-tc-early-stage-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
