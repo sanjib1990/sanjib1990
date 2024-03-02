@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch private space capsule&#39;s blistering return to Earth in amazing onboard video](https://www.space.com/varda-in-space-manufacturing-capsule-earth-return-video)
+- [Holy Stone HS720R drone review](https://www.space.com/holy-stone-hs720r-drone-review)
 - [VC Trae Stephens says he has a bunker &lpar;and much more&rpar; in talk about Founders Fund and Anduril](https://techcrunch.com/2024/03/02/vc-trae-stephens-says-he-has-a-bunker-and-much-more-in-talk-about-founders-fund-and-anduril/)
 - [Waymo can now charge for robotaxi rides in LA and on San Francisco freeways](https://techcrunch.com/2024/03/01/waymo-can-now-charge-for-robotaxi-rides-in-la-and-on-san-francisco-freeways/)
 - [Heaviest pair of black holes ever seen weighs 28 billion times more than the sun](https://www.space.com/supermassive-black-holes-pair-heaviest-stalled-merger)
-- [Rabbit’s Jesse Lyu on the nature of startups: ‘Grow faster, or die faster,’ just don’t give up](https://techcrunch.com/2024/03/01/rabbits-jesse-lyu-on-the-nature-of-startups-grow-faster-or-die-faster-just-dont-give-up/)
-- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
