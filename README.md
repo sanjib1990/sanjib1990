@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nubank CEO dishes on the neobank’s profit surge and how tourist VCs in LatAm have gone home](https://techcrunch.com/2024/03/02/the-tourist-vcs-in-latam-have-gone-home/)
+- [Could tardigrades have colonized the moon?](https://www.space.com/could-tardigrads-colonize-the-moon)
 - [Karine Perset helps governments understand AI](https://techcrunch.com/2024/03/02/karine-perset-helps-governments-understand-ai/)
 - [What are nacreous clouds?](https://www.space.com/what-are-nacreous-clouds-how-do-they-form)
 - [Connect with HomeHQ.ai, SOSV, Prepare 4 VC, Latham &amp; Watkins and more at TC Early Stage 2024](https://techcrunch.com/2024/03/02/connect-with-homehq-ai-sosv-prepare-4-vc-latham-watkins-and-more-at-tc-early-stage-2024/)
-- [Rare OSIRIS-REx asteroid sample debuts at Space Center Houston](https://www.space.com/space-center-houston-osiris-rex-bennu-asteroid-display)
-- [Watch private space capsule&#39;s blistering return to Earth in amazing onboard video](https://www.space.com/varda-in-space-manufacturing-capsule-earth-return-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
