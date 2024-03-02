@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo can now charge for robotaxi rides in LA and on San Francisco freeways](https://techcrunch.com/2024/03/01/waymo-can-now-charge-for-robotaxi-rides-in-la-and-on-san-francisco-freeways/)
 - [Heaviest pair of black holes ever seen weighs 28 billion times more than the sun](https://www.space.com/supermassive-black-holes-pair-heaviest-stalled-merger)
 - [Rabbit’s Jesse Lyu on the nature of startups: ‘Grow faster, or die faster,’ just don’t give up](https://techcrunch.com/2024/03/01/rabbits-jesse-lyu-on-the-nature-of-startups-grow-faster-or-die-faster-just-dont-give-up/)
 - [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/)
 - [Stay up-to-date on the amount of venture dollars going to underrepresented founders](https://techcrunch.com/2024/03/01/stay-up-to-date-on-the-amount-of-venture-dollars-going-to-underrepresented-founders/)
-- [Will NASA be able to return Mars samples to Earth? New audit raises doubts](https://www.space.com/nasa-mars-sample-return-obstacles-oig-report-february-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
