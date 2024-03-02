@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Elon&#39;s bombshell lawsuit against OpenAI](https://www.youtube.com/watch?v=KbzGy3whpy0)
 - [you NEED a website in 2024](https://www.youtube.com/watch?v=sTjgUQkmxuU)
 - [Drizzle ORM in 100 Seconds](https://www.youtube.com/watch?v=i_mAHOhpBSA)
 - [5 Million Subscribers – An OCW Odyssey](https://www.youtube.com/watch?v=iMDKTNDBSxE)
 - [Digital Plants &lpar;L-Systems&rpar; - Computerphile](https://www.youtube.com/watch?v=puwhf-404Xc)
-- [Nintendo just picked a fight with open-source project Yuzu](https://www.youtube.com/watch?v=A5s4uMI2Ri4)
 <!-- YOUTUBE:END -->
 
 ---
