@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX delays Crew-8 astronaut launch for NASA due to high winds, next try on March 3](https://www.space.com/spacex-crew-8-astronaut-launch-weather-scrub)
 - [Apple cancels its car, Google’s AI goes awry and Bumble stumbles](https://techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/)
 - [This Week In Space podcast: Episode 100 — Riding to Space on Virgin Galactic](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-100-riding-space-virgin-galactic)
 - [Taiko raises $37M to build web3 infrastructure for a censorship-free internet](https://techcrunch.com/2024/03/02/taiko-raises-37m-to-build-web3-infrastructure-for-a-censorship-free-internet/)
 - [Immerse yourself in the total eclipse 2024 with &#39;The Eclipse App&#39; from The Eclipse Company](https://www.space.com/the-eclipse-app-total-eclipse-2024)
-- [Apple abandons its car: Here are other projects the company has killed](https://techcrunch.com/2024/03/02/apple-abandons-its-car-here-are-other-projects-the-company-has-killed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
