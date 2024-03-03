@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s ice-hunting VIPER moon rover getting ready to slither to the launch pad](https://www.space.com/nasa-viper-moon-rover-flight-instruments-installed)
+- [Francine Bennett uses data science to make AI more responsible](https://techcrunch.com/2024/03/03/francine-bennett-uses-data-science-to-make-ai-more-responsible/)
 - [Bwine F7GB2 drone review](https://www.space.com/bwine-f7gb2-drone-review)
 - [Can Antarctica serve as a model for international cooperation on the moon?](https://www.space.com/moon-base-antarctica-international-cooperation)
 - [SpaceX delays Crew-8 astronaut launch for NASA due to high winds, next try on March 3](https://www.space.com/spacex-crew-8-astronaut-launch-weather-scrub)
-- [Apple cancels its car, Google’s AI goes awry and Bumble stumbles](https://techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/)
-- [This Week In Space podcast: Episode 100 — Riding to Space on Virgin Galactic](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-100-riding-space-virgin-galactic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
