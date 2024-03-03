@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This iPhone app can find the Milky Way&#39;s monster black hole from anywhere](https://www.space.com/the-universe/black-holes/this-iphone-app-can-find-the-milky-ways-monster-black-hole-from-anywhere)
 - [NASA&#39;s ice-hunting VIPER moon rover getting ready to slither to the launch pad](https://www.space.com/nasa-viper-moon-rover-flight-instruments-installed)
 - [Francine Bennett uses data science to make AI more responsible](https://techcrunch.com/2024/03/03/francine-bennett-uses-data-science-to-make-ai-more-responsible/)
 - [Bwine F7GB2 drone review](https://www.space.com/bwine-f7gb2-drone-review)
 - [Can Antarctica serve as a model for international cooperation on the moon?](https://www.space.com/moon-base-antarctica-international-cooperation)
-- [SpaceX delays Crew-8 astronaut launch for NASA due to high winds, next try on March 3](https://www.space.com/spacex-crew-8-astronaut-launch-weather-scrub)
 <!-- BLOG-POST-LIST:END -->
 
 ---
