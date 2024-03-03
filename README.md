@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Camshaft says Byju’s unit beneficial owner of $533 million funds](https://techcrunch.com/2024/03/03/camshaft-says-byjus-unit-beneficial-owner-of-533-million-funds/)
 - [Photographing the northern lights with the Sony A7R V](https://www.space.com/sony-a7r-v-northern-lights-photography-review)
 - [Plug In South LA helps build diverse startups in a traditionally underserved area](https://techcrunch.com/2024/03/03/plug-in-south-la-diverse-startup-incubator/)
 - [When startups fail, these startups clean up](https://techcrunch.com/2024/03/03/when-startups-fail-these-startups-clean-up/)
 - [This iPhone app can find the Milky Way&#39;s monster black hole from anywhere](https://www.space.com/the-universe/black-holes/this-iphone-app-can-find-the-milky-ways-monster-black-hole-from-anywhere)
-- [NASA&#39;s ice-hunting VIPER moon rover getting ready to slither to the launch pad](https://www.space.com/nasa-viper-moon-rover-flight-instruments-installed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
