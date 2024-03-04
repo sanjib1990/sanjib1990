@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indonesia fintech Wagely makes bank while helping the unbanked](https://techcrunch.com/2024/03/03/wagely-funding-indonesia-earned-wage-access/)
 - [SpaceX launches Crew-8 astronaut mission to International Space Station for NASA &lpar;video&rpar;](https://www.space.com/crew-8-mission-launches-spacex-nasa-space-station)
 - [India reverses AI stance, requires government approval for model launches](https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/)
 - [Waymo scores a critical robotaxi permit, Fisker cuts more workers and Apple car fades away](https://techcrunch.com/2024/03/03/waymo-scores-a-critical-robotaxi-permit-fisker-cuts-more-workers-and-apple-car-fades-away/)
 - [Camshaft says Byju’s unit beneficial owner of $533 million funds](https://techcrunch.com/2024/03/03/camshaft-says-byjus-unit-beneficial-owner-of-533-million-funds/)
-- [Photographing the northern lights with the Sony A7R V](https://www.space.com/sony-a7r-v-northern-lights-photography-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
