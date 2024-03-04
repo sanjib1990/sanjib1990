@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites are burning up in the upper atmosphere – and we still don’t know what impact this will have on the Earth’s climate](https://www.space.com/deorbiting-impact-on-earth-atmosphere-climate)
+- [Watch SpaceX launch 53 satellites on Transporter-10 rideshare mission today &lpar;video&rpar;](https://www.space.com/spacex-transporter-10-launch-satellites)
+- [Instagram now lets you edit DMs up to 15 mins after sending them](https://techcrunch.com/2024/03/04/instagram-now-lets-you-edit-dms-up-to-15-mins-after-sending-them/)
+- [Anthropic claims its new models beat GPT-4](https://techcrunch.com/2024/03/04/anthropic-claims-its-new-models-beat-gpt-4/)
 - [Warby Parker will give you free solar eclipse glasses for the big day on April 8](https://www.space.com/warby-parker-total-solar-eclipse-glasses-april-8)
-- [Disrupt 2024 call for speakers now open](https://techcrunch.com/2024/03/04/disrupt-2024-call-for-speakers-now-open/)
-- [Epic Games’ Tim Sweeney calls out Apple’s ‘bitter griping’ after its EU fine over anticompetitive practices](https://techcrunch.com/2024/03/04/epic-games-tim-sweeney-calls-out-apples-bitter-griping-after-its-eu-fine-over-anticompetitive-practices/)
-- [Razor and Perch merge, raise $100M on a $1.7B valuation as more roll-ups consolidate](https://techcrunch.com/2024/03/04/razor-and-perch-merge-raise-100m-on-a-1-7b-valuation-as-more-roll-ups-consolidate/)
-- [Airbnb has a new label to denote its top &lpar;and worst&rpar; listings](https://techcrunch.com/2024/03/04/airbnb-has-another-label-to-tell-you-about-a-propertys-quality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
