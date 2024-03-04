@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic claims its new AI chatbot models beat OpenAI’s GPT-4](https://techcrunch.com/2024/03/04/anthropic-claims-its-new-models-beat-gpt-4/)
 - [Google’s latest Pixel Drop will let users post high-quality photos, videos on Instagram](https://techcrunch.com/2024/03/04/googles-latest-pixel-drop-brings-support-for-high-quality-photos-and-videos-on-instagram/)
-- [&#39;Dune: Part Two&#39; tries to find its pulse in a plodding sci-fi spectacle &lpar;review&rpar;](https://www.space.com/entertainment/space-movies-shows/dune-part-two-tries-to-find-its-pulse-in-a-plodding-sci-fi-spectacle-review)
+- [&#39;Dune: Part Two&#39; tries to find its pulse in a plodding sci-fi spectacle &lpar;review&rpar;](https://www.space.com/dune-part-two-review)
 - [Satellites are burning up in the upper atmosphere – and we still don’t know what impact this will have on the Earth’s climate](https://www.space.com/deorbiting-impact-on-earth-atmosphere-climate)
 - [Watch SpaceX launch 53 satellites on Transporter-10 rideshare mission today &lpar;video&rpar;](https://www.space.com/spacex-transporter-10-launch-satellites)
-- [Instagram now lets you edit DMs up to 15 mins after sending them](https://techcrunch.com/2024/03/04/instagram-now-lets-you-edit-dms-up-to-15-mins-after-sending-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
