@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mews, the hotel SaaS startup, books $110M at a $1.2B valuation](https://techcrunch.com/2024/03/04/mews-the-hotel-saas-startup-books-110m-at-a-1-2b-valuation/)
-- [If aliens had our life-hunting equipment, could they find us?](https://www.space.com/scientists-test-exoplanet-life-mission-earth)
-- [TikTok launches data portability API ahead of Europe’s DMA regulatory deadline](https://techcrunch.com/2024/03/04/tiktok-rolls-out-data-portability-api-ahead-of-europes-dma-regulatory-deadline/)
-- [Topsort helps e-commerce create ads without being ‘creepy’](https://techcrunch.com/2024/03/04/topsort-150m-e-commerce-ads/)
-- [How do astronauts use the bathroom in space?](https://www.space.com/how-do-astronauts-go-to-bathroom-in-space-toilet-guide)
+- [Airbnb has a new label to denote its top &lpar;and worst&rpar; listings](https://techcrunch.com/2024/03/04/airbnb-has-another-label-to-tell-you-about-a-propertys-quality/)
+- [Should we ban ransom payments?](https://techcrunch.com/2024/03/04/should-we-ban-ransom-payments/)
+- [Punkt rocks its minimalist roots with ‘privacy-first’ MC02 smartphone](https://techcrunch.com/2024/03/04/punkt-rocks-its-minimalist-roots-with-the-mc02-privacy-first-android-based-smartphone/)
+- [Watch SpaceX&#39;s Crew-8 astronaut mission arrive at the ISS early March 5 &lpar;free livestream&rpar;](https://www.space.com/spacex-crew-8-iss-docking)
+- [Crew-8&#39;s adorable &#39;family dog&#39; plushie is SpaceX&#39;s latest zero-g indicator](https://www.space.com/spacex-crew-8-zero-g-indicator-family-dog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
