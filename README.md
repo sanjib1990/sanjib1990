@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 23 Starlink satellites tonight during 3rd launch in under 24 hours](https://www.space.com/spacex-starlink-6-41-internet-satellites-launch)
+- [Streamer Deezer cheers Apple antitrust fine but calls tech giant’s DMA response ‘deceptive’](https://techcrunch.com/2024/03/04/streamer-deezer-cheers-apple-antitrust-fine-but-calls-tech-giants-dma-response-deceptive/)
+- [SpaceX fuels up massive Starship megarocket in test for 3rd launch &lpar;photos&rpar;](https://www.space.com/spacex-fuels-starship-megarocket-ahead--of-3rd-test-launch)
 - [Australian space startup Esper wants to build hyperspectral sats for cheap](https://techcrunch.com/2024/03/04/espers-first-hyperspectral-demonstrator-satellite-lifts-off-on-spacex-rocket/)
 - [Signal’s Meredith Whittaker scorns anti-encryption efforts as ‘parochial, magical thinking’](https://techcrunch.com/2024/03/04/signals-meredith-whittaker-scorns-anti-encryption-efforts-as-parochial-magical-thinking/)
-- [Ex-Brex exec Sam Blond is already leaving Founders Fund just 18 months after he joined](https://techcrunch.com/2024/03/04/brex-sam-blond-leaves-founders-fund/)
-- [Why Signal ‘turned our architecture inside out’ for its latest privacy feature](https://techcrunch.com/2024/03/04/why-signal-turned-our-architecture-inside-out-for-its-latest-privacy-feature/)
-- [Anthropic claims its new AI chatbot models beat OpenAI’s GPT-4](https://techcrunch.com/2024/03/04/anthropic-claims-its-new-models-beat-gpt-4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
