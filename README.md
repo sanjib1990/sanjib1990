@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Topsort helps e-commerce create ads without being ‘creepy’](https://techcrunch.com/2024/03/04/topsort-150m-e-commerce-ads/)
+- [How do astronauts use the bathroom in space?](https://www.space.com/how-do-astronauts-go-to-bathroom-in-space-toilet-guide)
+- [Spotify calls Apple’s €1.84B antitrust fine a ‘powerful message,’ but cautions that the next steps matter](https://techcrunch.com/2024/03/04/spotify-calls-apples-e1-84b-antitrust-fine-a-powerful-message-but-cautions-that-the-next-steps-matter/)
 - [Apple announces new 13-inch and 15-inch MacBook Air models with M3 chip](https://techcrunch.com/2024/03/04/apple-announces-new-13-inch-and-15-inch-macbook-air-models-with-m3-chip/)
 - [Help name the asteroid that Japan&#39;s Hayabusa2 probe will fly by in 2026](https://www.space.com/jaxa-public-naming-campaign-asteroid-2001-cc21-hayabusa2)
-- [Rippling sand dunes, icy cliffs spied near Mars&#39; north pole &lpar;photos&rpar;](https://www.space.com/mars-express-north-pole-sand-dunes-ice-photo)
-- [Qatar reportedly has a $100M fund for startups](https://techcrunch.com/2024/03/04/qatar-reportedly-has-a-100m-fund-for-startups/)
-- [Apple fined $1.84BN in EU over anti-steering on iOS music streaming market](https://techcrunch.com/2024/03/04/apple-fined-1-84bn-in-eu-over-anti-steering-on-ios-music-streaming-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
