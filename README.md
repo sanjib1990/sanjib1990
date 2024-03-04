@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple fined $1.84BN in EU over anti-steering on iOS music streaming market](https://techcrunch.com/2024/03/04/apple-fined-1-84bn-in-eu-over-anti-steering-on-ios-music-streaming-market/)
 - [The James Webb Space Telescope&#39;s targets over the next year include black holes, exomoons, dark energy — and more](https://www.space.com/james-webb-space-telescope-cycle-3-exomoons-black-holes-galaxies)
 - [When your cap table makes your startup uninvestable](https://techcrunch.com/2024/03/04/poison-pill-cap-table/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Indonesia fintech Wagely makes bank while helping the unbanked](https://techcrunch.com/2024/03/03/wagely-funding-indonesia-earned-wage-access/)
-- [SpaceX launches Crew-8 astronaut mission to International Space Station for NASA &lpar;video&rpar;](https://www.space.com/crew-8-mission-launches-spacex-nasa-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
