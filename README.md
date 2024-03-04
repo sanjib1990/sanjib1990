@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian space startup Esper wants to build hyperspectral sats for cheap](https://techcrunch.com/2024/03/04/espers-first-hyperspectral-demonstrator-satellite-lifts-off-on-spacex-rocket/)
+- [Signal’s Meredith Whittaker scorns anti-encryption efforts as ‘parochial, magical thinking’](https://techcrunch.com/2024/03/04/signals-meredith-whittaker-scorns-anti-encryption-efforts-as-parochial-magical-thinking/)
+- [Ex-Brex exec Sam Blond is already leaving Founders Fund just 18 months after he joined](https://techcrunch.com/2024/03/04/brex-sam-blond-leaves-founders-fund/)
+- [Why Signal ‘turned our architecture inside out’ for its latest privacy feature](https://techcrunch.com/2024/03/04/why-signal-turned-our-architecture-inside-out-for-its-latest-privacy-feature/)
 - [Anthropic claims its new AI chatbot models beat OpenAI’s GPT-4](https://techcrunch.com/2024/03/04/anthropic-claims-its-new-models-beat-gpt-4/)
-- [Google’s latest Pixel Drop will let users post high-quality photos, videos on Instagram](https://techcrunch.com/2024/03/04/googles-latest-pixel-drop-brings-support-for-high-quality-photos-and-videos-on-instagram/)
-- [&#39;Dune: Part Two&#39; tries to find its pulse in a plodding sci-fi spectacle &lpar;review&rpar;](https://www.space.com/dune-part-two-review)
-- [Satellites are burning up in the upper atmosphere – and we still don’t know what impact this will have on the Earth’s climate](https://www.space.com/deorbiting-impact-on-earth-atmosphere-climate)
-- [Watch SpaceX launch 53 satellites on Transporter-10 rideshare mission today &lpar;video&rpar;](https://www.space.com/spacex-transporter-10-launch-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
