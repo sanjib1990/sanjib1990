@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple announces new 13-inch and 15-inch MacBook Air models with M3 chip](https://techcrunch.com/2024/03/04/apple-announces-new-13-inch-and-15-inch-macbook-air-models-with-m3-chip/)
+- [Help name the asteroid that Japan&#39;s Hayabusa2 probe will fly by in 2026](https://www.space.com/jaxa-public-naming-campaign-asteroid-2001-cc21-hayabusa2)
+- [Rippling sand dunes, icy cliffs spied near Mars&#39; north pole &lpar;photos&rpar;](https://www.space.com/mars-express-north-pole-sand-dunes-ice-photo)
+- [Qatar reportedly has a $100M fund for startups](https://techcrunch.com/2024/03/04/qatar-reportedly-has-a-100m-fund-for-startups/)
 - [Apple fined $1.84BN in EU over anti-steering on iOS music streaming market](https://techcrunch.com/2024/03/04/apple-fined-1-84bn-in-eu-over-anti-steering-on-ios-music-streaming-market/)
-- [The James Webb Space Telescope&#39;s targets over the next year include black holes, exomoons, dark energy — and more](https://www.space.com/james-webb-space-telescope-cycle-3-exomoons-black-holes-galaxies)
-- [When your cap table makes your startup uninvestable](https://techcrunch.com/2024/03/04/poison-pill-cap-table/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Indonesia fintech Wagely makes bank while helping the unbanked](https://techcrunch.com/2024/03/03/wagely-funding-indonesia-earned-wage-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
