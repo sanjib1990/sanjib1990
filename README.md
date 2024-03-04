@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: Good night, Odysseus](https://techcrunch.com/2024/03/04/techcrunch-space-good-night-odysseus/)
+- [&#39;Star Wars Battlefront Classic Collection&#39; blasts its way into our galaxy on March 14](https://www.space.com/star-wars-battlefront-remastered-march-14)
 - [SpaceX to launch 23 Starlink satellites tonight during 3rd launch in under 24 hours](https://www.space.com/spacex-starlink-6-41-internet-satellites-launch)
 - [Streamer Deezer cheers Apple antitrust fine but calls tech giant’s DMA response ‘deceptive’](https://techcrunch.com/2024/03/04/streamer-deezer-cheers-apple-antitrust-fine-but-calls-tech-giants-dma-response-deceptive/)
 - [SpaceX fuels up massive Starship megarocket in test for 3rd launch &lpar;photos&rpar;](https://www.space.com/spacex-fuels-starship-megarocket-ahead--of-3rd-test-launch)
-- [Australian space startup Esper wants to build hyperspectral sats for cheap](https://techcrunch.com/2024/03/04/espers-first-hyperspectral-demonstrator-satellite-lifts-off-on-spacex-rocket/)
-- [Signal’s Meredith Whittaker scorns anti-encryption efforts as ‘parochial, magical thinking’](https://techcrunch.com/2024/03/04/signals-meredith-whittaker-scorns-anti-encryption-efforts-as-parochial-magical-thinking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
