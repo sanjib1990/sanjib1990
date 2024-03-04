@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warby Parker will give you free solar eclipse glasses for the big day on April 8](https://www.space.com/warby-parker-total-solar-eclipse-glasses-april-8)
+- [Disrupt 2024 call for speakers now open](https://techcrunch.com/2024/03/04/disrupt-2024-call-for-speakers-now-open/)
+- [Epic Games’ Tim Sweeney calls out Apple’s ‘bitter griping’ after its EU fine over anticompetitive practices](https://techcrunch.com/2024/03/04/epic-games-tim-sweeney-calls-out-apples-bitter-griping-after-its-eu-fine-over-anticompetitive-practices/)
+- [Razor and Perch merge, raise $100M on a $1.7B valuation as more roll-ups consolidate](https://techcrunch.com/2024/03/04/razor-and-perch-merge-raise-100m-on-a-1-7b-valuation-as-more-roll-ups-consolidate/)
 - [Airbnb has a new label to denote its top &lpar;and worst&rpar; listings](https://techcrunch.com/2024/03/04/airbnb-has-another-label-to-tell-you-about-a-propertys-quality/)
-- [Should we ban ransom payments?](https://techcrunch.com/2024/03/04/should-we-ban-ransom-payments/)
-- [Punkt rocks its minimalist roots with ‘privacy-first’ MC02 smartphone](https://techcrunch.com/2024/03/04/punkt-rocks-its-minimalist-roots-with-the-mc02-privacy-first-android-based-smartphone/)
-- [Watch SpaceX&#39;s Crew-8 astronaut mission arrive at the ISS early March 5 &lpar;free livestream&rpar;](https://www.space.com/spacex-crew-8-iss-docking)
-- [Crew-8&#39;s adorable &#39;family dog&#39; plushie is SpaceX&#39;s latest zero-g indicator](https://www.space.com/spacex-crew-8-zero-g-indicator-family-dog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
