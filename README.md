@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google takes aim at SEO-optimized junk pages and spam with new search update](https://techcrunch.com/2024/03/05/google-takes-aim-at-seo-optimized-junk-pages-and-spam-with-new-search-update/)
+- [NASA&#39;s tiny CAPSTONE probe celebrates 450 days in orbit around the moon](https://www.space.com/capstone-cubesat-450-days-moon-orbit-gateway)
+- [OpenSea’s partnership with Coachella is a sign that NFTs can be more than profile pictures](https://techcrunch.com/2024/03/05/openseas-partnership-with-coachella-is-a-sign-that-nfts-can-be-more-than-profile-pictures/)
+- [Numbers Station lets business users chat with their data](https://techcrunch.com/2024/03/05/numbers-station-lets-business-users-chat-with-their-data/)
 - [YouTube is experiencing outages, too, site confirms](https://techcrunch.com/2024/03/05/youtube-down/)
-- [Disney Plus UK streaming deal: £1.99 for the first three months](https://www.space.com/disney-plus-uk-only-streaming-deal-march-2023)
-- [Discord comes back online after widespread outage](https://techcrunch.com/2024/03/05/discord-is-down-for-some-users/)
-- [Tesla’s Berlin factory to shut down for days after suspected arson attack cuts power](https://techcrunch.com/2024/03/05/tesla-berlin-germany-factory-fire-arson/)
-- [New geospatial data startup streamlines satellite imagery visualization](https://techcrunch.com/2024/03/05/new-geospatial-data-startup-streamlines-satellite-imagery-visualization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
