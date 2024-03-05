@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2-year-old LatAm fintech Yuno reaches $150M valuation with backing from DST, Tiger, a16z](https://techcrunch.com/2024/03/05/yunos-payments-orchestration-valuation-fintech/)
-- [MacPaw’s new app helps you remove redundant photos from your iPhone](https://techcrunch.com/2024/03/05/macpaws-new-app-helps-you-remove-redundant-photos-from-your-iphone/)
-- [Cycode acquires Bearer to accelerate its move into AI-enhanced security remediation](https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/)
-- [Our solar system&#39;s ocean moon may be habitable — and their icy shells could hold proof](https://www.space.com/solar-system-ocean-moon-habitable-ice-shell)
-- [Axonius, a specialist in cyber asset managment, secures $200M at a flat $2.6B valuation](https://techcrunch.com/2024/03/05/axonius-a-specialist-in-cyber-asset-managment-secures-200m-at-a-flat-2-6b-valuation/)
+- [Ubicloud wants to build an open source alternative to AWS](https://techcrunch.com/2024/03/05/ubicloud-wants-to-build-an-open-source-alternative-to-aws/)
+- [VR could help astronauts avoid seasickness during splashdown and recovery](https://www.space.com/astronaut-seasickness-vr-splashdown-recovery)
+- [Ema, a ‘Universal AI employee’, emerges from stealth with $25M](https://techcrunch.com/2024/03/05/ema-a-universal-ai-employee-emerges-from-stealth-with-25m/)
+- [Binance to halt naira services amid ongoing regulatory probe in Nigeria](https://techcrunch.com/2024/03/05/binance-to-halt-naira-services-amid-ongoing-regulatory-probe-in-nigeria/)
+- [Competition in AI video generation heats up as Deepmind alums unveil Haiper](https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
