@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With $16M in fresh funds, Whistleblower Software rebrands and expands into compliance](https://techcrunch.com/2024/03/04/with-16m-in-fresh-funds-whistleblower-software-rebrands-and-expands-into-compliance/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [SpaceX Crew-8 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Multiverse raises $27M for quantum software targeting LLM leviathans](https://techcrunch.com/2024/03/04/multiverse-computing/)
+- [Whistleblower Software rebrands, expands into compliance with $16M](https://techcrunch.com/2024/03/04/with-16m-in-fresh-funds-whistleblower-software-rebrands-and-expands-into-compliance/)
 - [Catalog is building the B2B commerce platform for small companies](https://techcrunch.com/2024/03/04/catalog-is-building-the-b2b-commerce-platform-for-small-companies/)
-- [Indian firms begrudgingly comply with Google Play rules while seeking regulatory intervention](https://techcrunch.com/2024/03/04/indian-firms-begrudgingly-comply-with-google-play-rules-while-seeking-regulatory-intervention/)
-- [NASA&#39;s next astronaut class graduates March 5, and you can watch it live &lpar;video&rpar;](https://www.space.com/nasa-astronaut-candidates-uae-livestream)
-- [Elon Musk switched on X calling by default: Here’s how to switch it off](https://techcrunch.com/2024/03/04/elon-musk-x-twitter-calling-privacy-switch-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
