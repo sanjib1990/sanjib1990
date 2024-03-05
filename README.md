@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX rocket launches pioneering methane-tracking satellite to orbit](https://www.space.com/methane-tracking-satellite-launch-spacex-transporter-10)
-- [Miles Grimshaw leaves Benchmark to re-join Kushner’s Thrive Capital](https://techcrunch.com/2024/03/05/miles-grimshaw-leaves-benchmark-to-re-join-kushners-thrive-capital/)
-- [NASA graduates new astronaut class as it begins recruiting for more](https://www.space.com/nasa-astronaut-class-flies-graduation)
-- [The 2024 all-electric Dodge Charger debuts with muscle car donuts, drifts and even a Hellcat rumble](https://techcrunch.com/2024/03/05/the-2024-all-electric-dodge-charger-debuts-with-muscle-car-donuts-drifts-and-even-a-hellcat-rumble/)
-- [Watch Chinese astronauts fix Tiangong space station solar wing in 8-hour spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-spacewalk-solar-array-repair)
+- [Harness Wealth wants to bring sophisticated tax planning to the masses](https://techcrunch.com/2024/03/05/harness-wealth-wants-to-bring-sophisticated-tax-planning-to-the-masses/)
+- [Asteroid Apophis will swing past Earth in 2029 — could a space rock collision make it hit us?](https://www.space.com/asteroid-apophis-earth-flyby-2029-space-rock-collision)
+- [Underscore’s Lily Lyman will break down venture relationships at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/05/underscores-lily-lyman-will-break-down-venture-relationships-at-techcrunch-early-stage-2024/)
+- [Agility Robotics’ new CEO is ‘focused on the here and now’](https://techcrunch.com/2024/03/05/agility-robotics-new-ceo-is-focused-on-the-here-and-now/)
+- [How a new class of climate startups could get a boost from the SEC](https://techcrunch.com/2024/03/05/sec-climate-rule-startup-benefits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
