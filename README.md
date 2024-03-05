@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RemotePass, which helps companies onboard, manage, pay and retain remote workers, raises $5.5M](https://techcrunch.com/2024/03/05/remotepass-which-helps-companies-onboard-manage-pay-and-retain-remote-workers-raises-5-5m/)
+- [Deel acquires Africa’s PaySpace, says it’s crossed $500M in ARR](https://techcrunch.com/2024/03/05/deel-acquires-payspace-500m-arr/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [SpaceX Crew-8 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [Multiverse raises $27M for quantum software targeting LLM leviathans](https://techcrunch.com/2024/03/04/multiverse-computing/)
-- [Whistleblower Software rebrands, expands into compliance with $16M](https://techcrunch.com/2024/03/04/with-16m-in-fresh-funds-whistleblower-software-rebrands-and-expands-into-compliance/)
-- [Catalog is building the B2B commerce platform for small companies](https://techcrunch.com/2024/03/04/catalog-is-building-the-b2b-commerce-platform-for-small-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
