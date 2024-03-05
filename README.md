@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is experiencing outages, too, site confirms](https://techcrunch.com/2024/03/05/youtube-down/)
+- [Disney Plus UK streaming deal: £1.99 for the first three months](https://www.space.com/disney-plus-uk-only-streaming-deal-march-2023)
+- [Discord comes back online after widespread outage](https://techcrunch.com/2024/03/05/discord-is-down-for-some-users/)
 - [Tesla’s Berlin factory to shut down for days after suspected arson attack cuts power](https://techcrunch.com/2024/03/05/tesla-berlin-germany-factory-fire-arson/)
 - [New geospatial data startup streamlines satellite imagery visualization](https://techcrunch.com/2024/03/05/new-geospatial-data-startup-streamlines-satellite-imagery-visualization/)
-- [Facebook, Instagram and Threads are all down in massive Meta outage on Super Tuesday](https://techcrunch.com/2024/03/05/facebook-instagram-and-threads-are-all-down-in-massive-meta-outage-on-super-tuesday/)
-- [The James Webb Space Telescope may have found some of the very 1st stars](https://www.space.com/james-webb-space-telescope-universe-first-stars-black-hole-population-3)
-- [US sanctions founder of spyware maker Intellexa for targeting Americans](https://techcrunch.com/2024/03/05/us-sanctions-founder-of-spyware-maker-intellexa-for-targeting-americans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
