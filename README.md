@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Monzo, the UK challenger bank with 9 million customers, raises $430 million](https://techcrunch.com/2024/03/05/monzo-the-uk-challenger-bank-with-9-million-customers-raises-430-million/)
-- [This little rover will ride shotgun on Japan&#39;s ambitious Mars moon sample-return mission](https://www.space.com/space-exploration/missions/this-little-rover-will-ride-shotgun-on-japans-ambitious-mars-moon-sample-return-mission)
-- [Waze now helps you navigate roundabouts, alerts you about speed limit changes and more](https://techcrunch.com/2024/03/05/waze-now-helps-you-navigate-roundabouts-alerts-you-about-speed-limit-changes-and-more/)
-- [Ubicloud wants to build an open source alternative to AWS](https://techcrunch.com/2024/03/05/ubicloud-wants-to-build-an-open-source-alternative-to-aws/)
-- [VR could help astronauts avoid seasickness during splashdown and recovery](https://www.space.com/astronaut-seasickness-vr-splashdown-recovery)
+- [Tesla’s Berlin factory to shut down for days after suspected arson attack cuts power](https://techcrunch.com/2024/03/05/tesla-berlin-germany-factory-fire-arson/)
+- [New geospatial data startup streamlines satellite imagery visualization](https://techcrunch.com/2024/03/05/new-geospatial-data-startup-streamlines-satellite-imagery-visualization/)
+- [Facebook, Instagram and Threads are all down in massive Meta outage on Super Tuesday](https://techcrunch.com/2024/03/05/facebook-instagram-and-threads-are-all-down-in-massive-meta-outage-on-super-tuesday/)
+- [The James Webb Space Telescope may have found some of the very 1st stars](https://www.space.com/james-webb-space-telescope-universe-first-stars-black-hole-population-3)
+- [US sanctions founder of spyware maker Intellexa for targeting Americans](https://techcrunch.com/2024/03/05/us-sanctions-founder-of-spyware-maker-intellexa-for-targeting-americans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
