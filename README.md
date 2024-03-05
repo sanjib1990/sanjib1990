@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s next astronaut class graduates March 5, and you can watch it live &lpar;video&rpar;](https://www.space.com/nasa-astronaut-candidates-uae-livestream)
 - [Elon Musk switched on X calling by default: Here’s how to switch it off](https://techcrunch.com/2024/03/04/elon-musk-x-twitter-calling-privacy-switch-off/)
 - [Former Twitter CEO sues Elon Musk](https://techcrunch.com/2024/03/04/former-twitter-ceo-sues-elon-musk/)
 - [Shure enters the wireless lav mic business](https://techcrunch.com/2024/03/04/shure-enters-the-wireless-lav-mic-business/)
 - [TechCrunch Space: Good night, Odysseus](https://techcrunch.com/2024/03/04/techcrunch-space-good-night-odysseus/)
-- [&#39;Star Wars Battlefront Classic Collection&#39; blasts its way into our galaxy on March 14](https://www.space.com/star-wars-battlefront-remastered-march-14)
 <!-- BLOG-POST-LIST:END -->
 
 ---
