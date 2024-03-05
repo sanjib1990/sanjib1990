@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok says its revamped creator fund has increased total creator revenue by over 250%](https://techcrunch.com/2024/03/05/tiktok-says-its-revamped-creator-fund-has-increased-total-creator-revenue-by-over-250/)
+- [Accenture to acquire Udacity to build a learning platform focused on AI](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
+- [Amazon’s new Rufus chatbot isn’t bad — but it isn’t great, either](https://techcrunch.com/2024/03/05/amazons-new-rufus-chatbot-isnt-bad-but-it-isnt-great-either/)
 - [Waymo launches driverless rides for employees in Austin](https://techcrunch.com/2024/03/05/waymo-launches-driverless-rides-austin/)
 - [Harness Wealth wants to bring sophisticated tax planning to the masses](https://techcrunch.com/2024/03/05/harness-wealth-wants-to-bring-sophisticated-tax-planning-to-the-masses/)
-- [Asteroid Apophis will swing past Earth in 2029 — could a space rock collision make it hit us?](https://www.space.com/asteroid-apophis-earth-flyby-2029-space-rock-collision)
-- [Underscore’s Lily Lyman will break down venture relationships at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/05/underscores-lily-lyman-will-break-down-venture-relationships-at-techcrunch-early-stage-2024/)
-- [Agility Robotics’ new CEO is ‘focused on the here and now’](https://techcrunch.com/2024/03/05/agility-robotics-new-ceo-is-focused-on-the-here-and-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
