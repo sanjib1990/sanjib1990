@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Chinese astronauts fix Tiangong space station solar wing in 8-hour spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-spacewalk-solar-array-repair)
+- [Jupiter&#39;s ocean moon Europa may have less oxygen than we thought](https://www.space.com/jupiter-ocean-moon-europa-oxygen-measurement)
+- [Target to launch its own version of Amazon Prime, starting at $49/year](https://techcrunch.com/2024/03/05/target-to-launch-target-circle-360-next-month-its-prime-competitor/)
 - [Google takes aim at SEO-optimized junk pages and spam with new search update](https://techcrunch.com/2024/03/05/google-takes-aim-at-seo-optimized-junk-pages-and-spam-with-new-search-update/)
 - [NASA&#39;s tiny CAPSTONE probe celebrates 450 days in orbit around the moon](https://www.space.com/capstone-cubesat-450-days-moon-orbit-gateway)
-- [OpenSea’s partnership with Coachella is a sign that NFTs can be more than profile pictures](https://techcrunch.com/2024/03/05/openseas-partnership-with-coachella-is-a-sign-that-nfts-can-be-more-than-profile-pictures/)
-- [Numbers Station lets business users chat with their data](https://techcrunch.com/2024/03/05/numbers-station-lets-business-users-chat-with-their-data/)
-- [YouTube is experiencing outages, too, site confirms](https://techcrunch.com/2024/03/05/youtube-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
