@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rocket launches pioneering methane-tracking satellite to orbit](https://www.space.com/methane-tracking-satellite-launch-spacex-transporter-10)
+- [Miles Grimshaw leaves Benchmark to re-join Kushner’s Thrive Capital](https://techcrunch.com/2024/03/05/miles-grimshaw-leaves-benchmark-to-re-join-kushners-thrive-capital/)
+- [NASA graduates new astronaut class as it begins recruiting for more](https://www.space.com/nasa-astronaut-class-flies-graduation)
+- [The 2024 all-electric Dodge Charger debuts with muscle car donuts, drifts and even a Hellcat rumble](https://techcrunch.com/2024/03/05/the-2024-all-electric-dodge-charger-debuts-with-muscle-car-donuts-drifts-and-even-a-hellcat-rumble/)
 - [Watch Chinese astronauts fix Tiangong space station solar wing in 8-hour spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-spacewalk-solar-array-repair)
-- [Jupiter&#39;s ocean moon Europa may have less oxygen than we thought](https://www.space.com/jupiter-ocean-moon-europa-oxygen-measurement)
-- [Target to launch its own version of Amazon Prime, starting at $49/year](https://techcrunch.com/2024/03/05/target-to-launch-target-circle-360-next-month-its-prime-competitor/)
-- [Google takes aim at SEO-optimized junk pages and spam with new search update](https://techcrunch.com/2024/03/05/google-takes-aim-at-seo-optimized-junk-pages-and-spam-with-new-search-update/)
-- [NASA&#39;s tiny CAPSTONE probe celebrates 450 days in orbit around the moon](https://www.space.com/capstone-cubesat-450-days-moon-orbit-gateway)
 <!-- BLOG-POST-LIST:END -->
 
 ---
