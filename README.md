@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With $16M in fresh funds, Whistleblower Software rebrands and expands into compliance](https://techcrunch.com/2024/03/04/with-16m-in-fresh-funds-whistleblower-software-rebrands-and-expands-into-compliance/)
 - [Catalog is building the B2B commerce platform for small companies](https://techcrunch.com/2024/03/04/catalog-is-building-the-b2b-commerce-platform-for-small-companies/)
 - [Indian firms begrudgingly comply with Google Play rules while seeking regulatory intervention](https://techcrunch.com/2024/03/04/indian-firms-begrudgingly-comply-with-google-play-rules-while-seeking-regulatory-intervention/)
 - [NASA&#39;s next astronaut class graduates March 5, and you can watch it live &lpar;video&rpar;](https://www.space.com/nasa-astronaut-candidates-uae-livestream)
 - [Elon Musk switched on X calling by default: Here’s how to switch it off](https://techcrunch.com/2024/03/04/elon-musk-x-twitter-calling-privacy-switch-off/)
-- [Former Twitter CEO sues Elon Musk](https://techcrunch.com/2024/03/04/former-twitter-ceo-sues-elon-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
