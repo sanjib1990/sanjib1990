@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 phenomena to see and photograph during April&#39;s total solar eclipse](https://www.space.com/10-phenomena-to-see-and-photograph-april-total-solar-eclipse-2024)
-- [OpenAI fires back at Musk, and Monzo raises a megaround](https://techcrunch.com/2024/03/06/openai-fires-back-at-musk-and-monzo-raises-a-megaround/)
-- [Babylon Micro-Farms is bringing vertical farming to K-12 classes](https://techcrunch.com/2024/03/06/babylon-micro-farms-is-bringing-vertical-farming-to-k-12-classes/)
-- [Stunning images from Very Large Telescope capture unique views of planet formation](https://www.space.com/very-large-telescope-planet-formation-images)
-- [Sony FE 16-35mm f/2.8 GM II lens review](https://www.space.com/sony-fe-16-35-f28-gm-ii-lens-review)
+- [Apple terminates Epic Games developer account calling it a ‘threat’ to the iOS ecosystem](https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/)
+- [Applications are open for the TechCrunch Startup Battlefield 200](https://techcrunch.com/2024/03/06/applications-are-open-for-the-techcrunch-startup-battlefield-200/)
+- [NASA, SpaceX looking to extend lifespan of Crew Dragon spacecraft to 15 flights](https://www.space.com/spacex-nasa-crew-dragon-spacecraft-15-flights)
+- [NASA cancels multibillion-dollar on-orbit satellite servicing mission](https://www.space.com/nasa-cancels-osam-1-satellite-servicing-mission)
+- [To comply with DMA, WhatsApp and Messenger will become interoperable via Signal](https://techcrunch.com/2024/03/06/to-comply-with-dma-whatsapp-and-messenger-will-become-interoperable-via-signal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
