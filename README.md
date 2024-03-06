@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI could be the solution for bureaucracy with Emilie Poteat from Advocate](https://techcrunch.com/2024/03/05/ai-could-be-the-solution-for-bureaucracy-with-emilie-poteat-from-advocate/)
+- [Roku disables TVs and streaming devices until users consent to new terms](https://techcrunch.com/2024/03/05/roku-disables-tvs-and-streaming-devices-until-users-consent-to-forced-arbitration/)
+- [AI could be the solution for bureaucracy, with Emilie Poteat from Advocate](https://techcrunch.com/2024/03/05/ai-could-be-the-solution-for-bureaucracy-with-emilie-poteat-from-advocate/)
 - [Windows 11 to lose official support for Android apps](https://techcrunch.com/2024/03/05/windows-11-to-lose-official-support-for-android-apps/)
 - [TikTok says its revamped creator fund has increased total creator revenue by over 250%](https://techcrunch.com/2024/03/05/tiktok-says-its-revamped-creator-fund-has-increased-total-creator-revenue-by-over-250/)
 - [Accenture to acquire Udacity to build a learning platform focused on AI](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
-- [Amazon’s new Rufus chatbot isn’t bad — but it isn’t great, either](https://techcrunch.com/2024/03/05/amazons-new-rufus-chatbot-isnt-bad-but-it-isnt-great-either/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
