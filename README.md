@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saildrone’s first aluminum Surveyor autonomous vessel splashes down for Navy testing](https://techcrunch.com/2024/03/06/saildrones-first-aluminum-surveyor-autonomous-vessel-splashes-down-for-navy-testing/)
 - [SpaceX eyes March 14 for next Starship test flight](https://techcrunch.com/2024/03/06/spacex-eyes-march-14-for-next-starship-test-flight/)
 - [NASA taps Nikon cameras to help Artemis astronauts photograph the moon](https://www.space.com/nasa-nikon-artemis-astronauts-photograph-moon)
 - [&#39;Constellation&#39; season 1 episode 5 review: Less paranoia, more reveals](https://www.space.com/constellation-season-1-episode-5-review)
 - [As mega-rounds become rarer, energy startups are powering up](https://techcrunch.com/2024/03/06/as-megarounds-become-rarer-energy-startups-are-powering-up/)
-- [April 8 total solar eclipse boosts ticket sales for United Airlines](https://www.space.com/united-airlines-total-solar-eclipse-april-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
