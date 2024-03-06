@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon teams with recycling robot firm to track package waste](https://techcrunch.com/2024/03/06/amazon-teams-with-recycling-robot-firm-to-track-package-waste/)
+- [&#39;Constellation&#39; creators on ghostly voices and piecing together a satisfying sci-fi puzzle &lpar;exclusive&rpar;](https://www.space.com/constellation-apple-tv-harness-maclaren-interview)
+- [Remofirst raises $25M to take on Deel and Rippling in the global HR tech space](https://techcrunch.com/2024/03/06/remofirst-hr-tech-series-a/)
 - [Political deepfakes are spreading like wildfire thanks to GenAI](https://techcrunch.com/2024/03/06/political-deepfakes-are-spreading-like-wildfire-thanks-to-genai/)
 - [Is it time for a new Outer Space Treaty? Reports of Russian nuclear space weapon raise questions](https://www.space.com/new-outer-space-treaty-russia-nuclear-space-weapon)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Apple releases a new API to fetch transactions from Apple Card and Apple Cash](https://techcrunch.com/2024/03/06/apple-releases-a-new-api-to-fetch-transactions-from-apple-card-and-apple-cash/)
-- [LLMs are poised to make lumbering business intelligence tools easier and faster to use](https://techcrunch.com/2024/03/06/fluent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
