@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cultivated Biosciences poised to take its plant-based cream to market in 2025](https://techcrunch.com/2024/03/05/cultivated-biosciences-plant-based-cream/)
 - [Spotify submits an update to show pricing information to iOS users in EU](https://techcrunch.com/2024/03/05/spotify-submits-an-update-to-show-pricing-information-to-ios-users-in-eu/)
 - [BRKZ, a construction-tech startup eyeing MENA, emerges from stealth with $8M](https://techcrunch.com/2024/03/05/brkz-emerges-from-stealth-with-8m/)
 - [OpenAI says Musk only ever contributed $45 million, wanted to merge with Tesla or take control](https://techcrunch.com/2024/03/05/openai-response-elon-musk-lawsuit/)
 - [Roku disables TVs and streaming devices until users consent to new terms](https://techcrunch.com/2024/03/05/roku-disables-tvs-and-streaming-devices-until-users-consent-to-forced-arbitration/)
-- [AI could be the solution for bureaucracy, with Emilie Poteat from Advocate](https://techcrunch.com/2024/03/05/ai-could-be-the-solution-for-bureaucracy-with-emilie-poteat-from-advocate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
