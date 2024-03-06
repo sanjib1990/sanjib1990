@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stunning images from Very Large Telescope capture unique views of planet formation](https://www.space.com/very-large-telescope-planet-formation-images)
+- [Sony FE 16-35mm f/2.8 GM II lens review](https://www.space.com/sony-fe-16-35-f28-gm-ii-lens-review)
+- [k-ID launches a solution that helps game developers comply with ever-changing child safety regulations](https://techcrunch.com/2024/03/06/k-id-launches-a-solution-that-helps-game-developers-comply-with-ever-changing-child-safety-regulations/)
 - [Rare 11th-century star chart reveals complex history of Islamic, Jewish and Christian astronomy](https://www.space.com/astrolabe-islamic-jewish-christian-astronomy-history)
 - [Binance made crypto perfume in a baffling attempt to woo women](https://techcrunch.com/2024/03/06/binance-crypto-perfume/)
-- [This Korean startup wants to take on Carta in cap table management](https://techcrunch.com/2024/03/06/korean-startup-carta-cap-table-management/)
-- [Amazon teams with recycling robot firm to track package waste](https://techcrunch.com/2024/03/06/amazon-teams-with-recycling-robot-firm-to-track-package-waste/)
-- [&#39;Constellation&#39; creators on ghostly voices and piecing together a satisfying sci-fi puzzle &lpar;exclusive&rpar;](https://www.space.com/constellation-apple-tv-harness-maclaren-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
