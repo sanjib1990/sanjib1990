@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NFT fantasy sports startup Sorare lays off 13% of staff, as web3 gaming continues to sputter](https://techcrunch.com/2024/03/06/nft-fantasy-sports-startup-sorare-layoffs-web3-gaming/)
-- [SEC adopts climate disclosure rules, giving carbon accounting startups firm footing](https://techcrunch.com/2024/03/06/sec-climate-rule-vote/)
-- [Fly me to the moon: NASA accepting astronaut applications &lpar;video&rpar;](https://www.space.com/nasa-astronaut-recruitment-moon-mars-2024)
-- [Google adds new developer fees as part of the Play Store’s DMA compliance plan](https://techcrunch.com/2024/03/06/google-announces-the-new-fees-that-come-with-its-play-stores-dma-compliance-plan/)
-- [Sling TV now lets customers play free arcade games while watching live TV content](https://techcrunch.com/2024/03/06/sling-tv-now-lets-customers-play-free-arcade-games-while-watching-live-tv-content/)
+- [As megarounds become rarer, energy startups are powering up](https://techcrunch.com/2024/03/06/as-megarounds-become-rarer-energy-startups-are-powering-up/)
+- [April 8 total solar eclipse boosts ticket sales for United Airlines](https://www.space.com/united-airlines-total-solar-eclipse-april-2024)
+- [Twitch is looking at life beyond the livestream](https://techcrunch.com/2024/03/06/twitch-is-looking-at-life-beyond-the-livestream/)
+- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/03/06/tech-layoffs-2023-list/)
+- [NFT fantasy sports startup Sorare lays off 13% of staff as web3 gaming continues to sputter](https://techcrunch.com/2024/03/06/nft-fantasy-sports-startup-sorare-layoffs-web3-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
