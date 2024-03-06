@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA taps Nikon cameras to help Artemis astronauts photograph the moon](https://www.space.com/nasa-nikon-artemis-astronauts-photograph-moon)
+- [&#39;Constellation&#39; season 1 episode 5 review: Less paranoia, more reveals](https://www.space.com/constellation-season-1-episode-5-review)
 - [As megarounds become rarer, energy startups are powering up](https://techcrunch.com/2024/03/06/as-megarounds-become-rarer-energy-startups-are-powering-up/)
 - [April 8 total solar eclipse boosts ticket sales for United Airlines](https://www.space.com/united-airlines-total-solar-eclipse-april-2024)
 - [Twitch is looking at life beyond the livestream](https://techcrunch.com/2024/03/06/twitch-is-looking-at-life-beyond-the-livestream/)
-- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/03/06/tech-layoffs-2023-list/)
-- [NFT fantasy sports startup Sorare lays off 13% of staff as web3 gaming continues to sputter](https://techcrunch.com/2024/03/06/nft-fantasy-sports-startup-sorare-layoffs-web3-gaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
