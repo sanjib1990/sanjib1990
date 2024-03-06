@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI says Musk only ever contributed $45 million, wanted to merge with Tesla or take control](https://techcrunch.com/2024/03/05/openai-response-elon-musk-lawsuit/)
 - [Roku disables TVs and streaming devices until users consent to new terms](https://techcrunch.com/2024/03/05/roku-disables-tvs-and-streaming-devices-until-users-consent-to-forced-arbitration/)
 - [AI could be the solution for bureaucracy, with Emilie Poteat from Advocate](https://techcrunch.com/2024/03/05/ai-could-be-the-solution-for-bureaucracy-with-emilie-poteat-from-advocate/)
 - [Windows 11 to lose official support for Android apps](https://techcrunch.com/2024/03/05/windows-11-to-lose-official-support-for-android-apps/)
 - [TikTok says its revamped creator fund has increased total creator revenue by over 250%](https://techcrunch.com/2024/03/05/tiktok-says-its-revamped-creator-fund-has-increased-total-creator-revenue-by-over-250/)
-- [Accenture to acquire Udacity to build a learning platform focused on AI](https://techcrunch.com/2024/03/05/accenture-to-acquire-udacity-to-build-a-learning-platform-focused-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
