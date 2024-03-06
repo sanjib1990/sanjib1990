@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 phenomena to see and photograph during April&#39;s total solar eclipse](https://www.space.com/10-phenomena-to-see-and-photograph-april-total-solar-eclipse-2024)
+- [OpenAI fires back at Musk, and Monzo raises a megaround](https://techcrunch.com/2024/03/06/openai-fires-back-at-musk-and-monzo-raises-a-megaround/)
+- [Babylon Micro-Farms is bringing vertical farming to K-12 classes](https://techcrunch.com/2024/03/06/babylon-micro-farms-is-bringing-vertical-farming-to-k-12-classes/)
 - [Stunning images from Very Large Telescope capture unique views of planet formation](https://www.space.com/very-large-telescope-planet-formation-images)
 - [Sony FE 16-35mm f/2.8 GM II lens review](https://www.space.com/sony-fe-16-35-f28-gm-ii-lens-review)
-- [k-ID launches a solution that helps game developers comply with ever-changing child safety regulations](https://techcrunch.com/2024/03/06/k-id-launches-a-solution-that-helps-game-developers-comply-with-ever-changing-child-safety-regulations/)
-- [Rare 11th-century star chart reveals complex history of Islamic, Jewish and Christian astronomy](https://www.space.com/astrolabe-islamic-jewish-christian-astronomy-history)
-- [Binance made crypto perfume in a baffling attempt to woo women](https://techcrunch.com/2024/03/06/binance-crypto-perfume/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
