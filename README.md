@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NFT fantasy sports startup Sorare lays off 13% of staff, as web3 gaming continues to sputter](https://techcrunch.com/2024/03/06/nft-fantasy-sports-startup-sorare-layoffs-web3-gaming/)
+- [SEC adopts climate disclosure rules, giving carbon accounting startups firm footing](https://techcrunch.com/2024/03/06/sec-climate-rule-vote/)
 - [Fly me to the moon: NASA accepting astronaut applications &lpar;video&rpar;](https://www.space.com/nasa-astronaut-recruitment-moon-mars-2024)
 - [Google adds new developer fees as part of the Play Store’s DMA compliance plan](https://techcrunch.com/2024/03/06/google-announces-the-new-fees-that-come-with-its-play-stores-dma-compliance-plan/)
 - [Sling TV now lets customers play free arcade games while watching live TV content](https://techcrunch.com/2024/03/06/sling-tv-now-lets-customers-play-free-arcade-games-while-watching-live-tv-content/)
-- [Showee, a smart shower startup, shines a light on accessibility](https://techcrunch.com/2024/03/06/mwc-showee-accessible-shower/)
-- [SpaceX eyes March 14 for 3rd Starship test flight](https://www.space.com/spacex-starship-3rd-test-flight-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
