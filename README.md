@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rare 11th-century star chart reveals complex history of Islamic, Jewish and Christian astronomy](https://www.space.com/astrolabe-islamic-jewish-christian-astronomy-history)
+- [Binance made crypto perfume in a baffling attempt to woo women](https://techcrunch.com/2024/03/06/binance-crypto-perfume/)
+- [This Korean startup wants to take on Carta in cap table management](https://techcrunch.com/2024/03/06/korean-startup-carta-cap-table-management/)
 - [Amazon teams with recycling robot firm to track package waste](https://techcrunch.com/2024/03/06/amazon-teams-with-recycling-robot-firm-to-track-package-waste/)
 - [&#39;Constellation&#39; creators on ghostly voices and piecing together a satisfying sci-fi puzzle &lpar;exclusive&rpar;](https://www.space.com/constellation-apple-tv-harness-maclaren-interview)
-- [Remofirst raises $25M to take on Deel and Rippling in the global HR tech space](https://techcrunch.com/2024/03/06/remofirst-hr-tech-series-a/)
-- [Political deepfakes are spreading like wildfire thanks to GenAI](https://techcrunch.com/2024/03/06/political-deepfakes-are-spreading-like-wildfire-thanks-to-genai/)
-- [Is it time for a new Outer Space Treaty? Reports of Russian nuclear space weapon raise questions](https://www.space.com/new-outer-space-treaty-russia-nuclear-space-weapon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
