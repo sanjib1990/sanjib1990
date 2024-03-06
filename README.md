@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple terminates Epic Games developer account calling it a ‘threat’ to the iOS ecosystem](https://techcrunch.com/2024/03/06/apple-terminates-epic-games-developer-account-calling-it-a-threat-to-the-ios-ecosystem/)
-- [Applications are open for the TechCrunch Startup Battlefield 200](https://techcrunch.com/2024/03/06/applications-are-open-for-the-techcrunch-startup-battlefield-200/)
-- [NASA, SpaceX looking to extend lifespan of Crew Dragon spacecraft to 15 flights](https://www.space.com/spacex-nasa-crew-dragon-spacecraft-15-flights)
-- [NASA cancels multibillion-dollar on-orbit satellite servicing mission](https://www.space.com/nasa-cancels-osam-1-satellite-servicing-mission)
-- [To comply with DMA, WhatsApp and Messenger will become interoperable via Signal](https://techcrunch.com/2024/03/06/to-comply-with-dma-whatsapp-and-messenger-will-become-interoperable-via-signal/)
+- [Fly me to the moon: NASA accepting astronaut applications &lpar;video&rpar;](https://www.space.com/nasa-astronaut-recruitment-moon-mars-2024)
+- [Google adds new developer fees as part of the Play Store’s DMA compliance plan](https://techcrunch.com/2024/03/06/google-announces-the-new-fees-that-come-with-its-play-stores-dma-compliance-plan/)
+- [Sling TV now lets customers play free arcade games while watching live TV content](https://techcrunch.com/2024/03/06/sling-tv-now-lets-customers-play-free-arcade-games-while-watching-live-tv-content/)
+- [Showee, a smart shower startup, shines a light on accessibility](https://techcrunch.com/2024/03/06/mwc-showee-accessible-shower/)
+- [SpaceX eyes March 14 for 3rd Starship test flight](https://www.space.com/spacex-starship-3rd-test-flight-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
