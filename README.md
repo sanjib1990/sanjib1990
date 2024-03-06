@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MDaaS raises $3M to improve healthcare access and expand network across Nigeria](https://techcrunch.com/2024/03/06/mdaas-raises-3m-to-improve-healthcare-access-and-expand-network-across-nigeria/)
-- [Cultivated Biosciences poised to take its plant-based cream to market in 2025](https://techcrunch.com/2024/03/05/cultivated-biosciences-plant-based-cream/)
-- [Spotify submits an update to show pricing information to iOS users in EU](https://techcrunch.com/2024/03/05/spotify-submits-an-update-to-show-pricing-information-to-ios-users-in-eu/)
-- [BRKZ, a construction-tech startup eyeing MENA, emerges from stealth with $8M](https://techcrunch.com/2024/03/05/brkz-emerges-from-stealth-with-8m/)
-- [OpenAI says Musk only ever contributed $45 million, wanted to merge with Tesla or take control](https://techcrunch.com/2024/03/05/openai-response-elon-musk-lawsuit/)
+- [Political deepfakes are spreading like wildfire thanks to GenAI](https://techcrunch.com/2024/03/06/political-deepfakes-are-spreading-like-wildfire-thanks-to-genai/)
+- [Is it time for a new Outer Space Treaty? Reports of Russian nuclear space weapon raise questions](https://www.space.com/new-outer-space-treaty-russia-nuclear-space-weapon)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Apple releases a new API to fetch transactions from Apple Card and Apple Cash](https://techcrunch.com/2024/03/06/apple-releases-a-new-api-to-fetch-transactions-from-apple-card-and-apple-cash/)
+- [LLMs are poised to make lumbering business intelligence tools easier and faster to use](https://techcrunch.com/2024/03/06/fluent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
