@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nvidia CUDA in 100 Seconds](https://www.youtube.com/watch?v=pPStdjuYzSI)
+- [my phone is always doing WHAT?!?!](https://www.youtube.com/watch?v=pmVr_9tBloE)
 - [Claude 3 just destroyed GPT-4 and Gemini... AGI is near?](https://www.youtube.com/watch?v=m_xoN8KlP3w)
 - [A special day to support MIT OpenCourseWare #PiDay](https://www.youtube.com/watch?v=F24U_HBOcqQ)
 - [ChatGPT has a BIG problem...](https://www.youtube.com/watch?v=adCiAMpwUC8)
-- [Elon&#39;s bombshell lawsuit against OpenAI](https://www.youtube.com/watch?v=KbzGy3whpy0)
-- [you NEED a website in 2024](https://www.youtube.com/watch?v=sTjgUQkmxuU)
 <!-- YOUTUBE:END -->
 
 ---
