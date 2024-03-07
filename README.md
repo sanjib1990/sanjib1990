@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: Dark Forces Remaster&#39; updates a &#39;90s classic from the galaxy far, far away](https://www.space.com/entertainment/space-games-toys/relive-90s-gaming-with-new-star-wars-dark-forces-remaster)
+- [Icy asteroids help the James Webb Space Telescope uncover Neptune&#39;s history](https://www.space.com/james-webb-space-telescope-neptune-kuiper-belt-objects)
+- [Here’s why most AI benchmarks tell us so little](https://techcrunch.com/2024/03/07/heres-why-most-ai-benchmarks-tell-us-so-little/)
 - [Astra is the space industry’s first SPAC bust of 2024](https://techcrunch.com/2024/03/07/astra-is-the-space-industrys-first-spac-bust-of-2024/)
 - [NFT platform Zora is offering a novel way for AI model makers to earn money](https://techcrunch.com/2024/03/07/nft-platform-zora-is-offering-a-novel-way-for-ai-model-makers-to-earn-money/)
-- [Lensrentals acquires BorrowLenses](https://techcrunch.com/2024/03/07/lensrentals-acquires-borrowlenses/)
-- [Bitcoin hits highs, Binance launches a crypto perfume and Coachella partners with OpenSea](https://techcrunch.com/2024/03/07/bitcoin-highs-and-dog-focused-memecoins-spike-while-binance-launches-a-crypto-perfume-and-coachella-partners-with-opensea/)
-- [Paul Dano on his &#39;Spaceman&#39; role voicing an ancient alien spider &lpar;exclusive&rpar;](https://www.space.com/spaceman-netflix-paul-dano-alien-spider)
 <!-- BLOG-POST-LIST:END -->
 
 ---
