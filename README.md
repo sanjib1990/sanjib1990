@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to push the envelope on 3rd Starship test flight](https://www.space.com/spacex-starship-third-test-flight-objectives)
+- [Best solar binoculars 2024: Ideal for the April 8 solar eclipse](https://www.space.com/best-solar-binoculars)
+- [EU looking into Apple’s decision to kill Epic Games’ developer account](https://techcrunch.com/2024/03/07/apple-epic-dev-account-dma/)
 - [How do some black holes get so big? The James Webb Space Telescope may have an answer](https://www.space.com/supermassive-black-hole-growth-mystery-james-webb-space-telescope)
 - [Spotify to increase subscription price in France to counter new music-streaming tax](https://techcrunch.com/2024/03/07/spotify-to-increase-subscription-price-in-france-to-counter-new-music-streaming-tax/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Telegram now lets users to convert personal accounts to business accounts](https://techcrunch.com/2024/03/06/telegram-now-lets-users-to-convert-personal-accounts-to-business-accounts/)
-- [India’s Flipkart readies quick-commerce play](https://techcrunch.com/2024/03/06/india-flipkart-readies-quick-commerce-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
