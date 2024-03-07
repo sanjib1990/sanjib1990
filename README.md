@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram now lets users to convert personal accounts to business accounts](https://techcrunch.com/2024/03/06/telegram-now-lets-users-to-convert-personal-accounts-to-business-accounts/)
 - [India’s Flipkart readies quick-commerce play](https://techcrunch.com/2024/03/06/india-flipkart-readies-quick-commerce-play/)
 - [Flush with cash, French fintech unicorn Qonto acquires Regate](https://techcrunch.com/2024/03/06/flush-with-cash-french-fintech-unicorn-qonto-acquires-regate/)
 - [Saildrone’s first aluminum Surveyor autonomous vessel splashes down for Navy testing](https://techcrunch.com/2024/03/06/saildrones-first-aluminum-surveyor-autonomous-vessel-splashes-down-for-navy-testing/)
 - [SpaceX eyes March 14 for next Starship test flight](https://techcrunch.com/2024/03/06/spacex-eyes-march-14-for-next-starship-test-flight/)
-- [NASA taps Nikon cameras to help Artemis astronauts photograph the moon](https://www.space.com/nasa-nikon-artemis-astronauts-photograph-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
