@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do some black holes get so big? The James Webb Space Telescope may have an answer](https://www.space.com/supermassive-black-hole-growth-mystery-james-webb-space-telescope)
+- [Spotify to increase subscription price in France to counter new music-streaming tax](https://techcrunch.com/2024/03/07/spotify-to-increase-subscription-price-in-france-to-counter-new-music-streaming-tax/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Telegram now lets users to convert personal accounts to business accounts](https://techcrunch.com/2024/03/06/telegram-now-lets-users-to-convert-personal-accounts-to-business-accounts/)
 - [India’s Flipkart readies quick-commerce play](https://techcrunch.com/2024/03/06/india-flipkart-readies-quick-commerce-play/)
-- [Flush with cash, French fintech unicorn Qonto acquires Regate](https://techcrunch.com/2024/03/06/flush-with-cash-french-fintech-unicorn-qonto-acquires-regate/)
-- [Saildrone’s first aluminum Surveyor autonomous vessel splashes down for Navy testing](https://techcrunch.com/2024/03/06/saildrones-first-aluminum-surveyor-autonomous-vessel-splashes-down-for-navy-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
