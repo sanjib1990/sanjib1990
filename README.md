@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oura starts selling its products on Amazon](https://techcrunch.com/2024/03/07/oura-starts-selling-its-products-on-amazon/)
+- [Uber Eats’ new live location sharing feature helps couriers deliver food to users in hard-to-find locations](https://techcrunch.com/2024/03/07/uber-eats-new-live-location-sharing-feature-helps-couriers-deliver-food-to-users-in-hard-to-find-locations/)
+- [PayPal launches Tap to Pay on iPhone for businesses using Venmo and Zettle in the US](https://techcrunch.com/2024/03/07/paypal-launches-tap-to-pay-iphone-businesses-using-venmo-zettle/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [Turnitin laid off staff earlier this year, after CEO forecast AI would allow it to cut headcount](https://techcrunch.com/2024/03/07/turnitin-laid-off-staff-earlier-this-year-after-ceo-forecast-ai-would-allow-it-to-cut-headcount/)
-- [Big, dead satellite&#39;s crash was a space-junk wakeup call, experts say](https://www.space.com/ers-2-satellite-crash-space-junk-wakeup-call)
-- [Nikon buys film camera maker RED](https://techcrunch.com/2024/03/07/nikon-buys-film-camera-maker-red/)
-- [We tested Anthropic’s new chatbot — and came away a bit disappointed](https://techcrunch.com/2024/03/07/we-tested-anthropics-new-chatbot-and-came-away-a-bit-disappointed/)
-- [Anonymous social apps face another reckoning as UNC System to ban Yik Yik, Fizz, Sidechat &amp; Whisper](https://techcrunch.com/2024/03/07/anonymous-social-apps-face-another-reckoning-as-unc-system-to-ban-yik-yik-fizz-sidechat-whisper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
