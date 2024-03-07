@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reach Security taps a company’s existing tools to fight cyber threats](https://techcrunch.com/2024/03/07/reach-security-taps-a-companys-existing-tools-to-fight-cyber-threats/)
+- [Satellite snaps eerily circular holes in the clouds above Florida. What caused them?](https://www.space.com/satellite-snaps-eerily-circular-holes-in-the-clouds-above-florida-what-caused-them)
+- [Bored? Go play this hidden game in your Instagram DMs](https://techcrunch.com/2024/03/07/bored-go-play-this-hidden-game-in-your-instagram-dms/)
 - [Europe’s DMA rules for Big Tech explained](https://techcrunch.com/2024/03/07/europes-dma-rules-for-big-tech-explained/)
 - [Apple M3 MacBook Air review: Still the best Mac for most](https://techcrunch.com/2024/03/07/apple-macbook-air-m3-review/)
-- [Adobe is making it easier to create social content on mobile](https://techcrunch.com/2024/03/07/adobe-is-making-it-easier-to-create-social-content-on-mobile/)
-- [6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years)
-- [Sequoia’s Jess Lee will demystify product-market fit at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/07/sequoias-jess-lee-will-demystify-product-market-fit-at-techcrunch-early-stage-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
