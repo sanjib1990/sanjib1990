@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia’s Jess Lee will demystify product-market fit at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/07/sequoias-jess-lee-will-demystify-product-market-fit-at-techcrunch-early-stage-2024/)
+- [NYT Games debuts redesigned app to boost discovery and simplify navigation](https://techcrunch.com/2024/03/07/nyt-games-redesigned-app-boost-discovery-simplify-navigation/)
+- [NASA launches its 1st official tabletop roleplaying game campaign](https://www.space.com/nasa-roleplaying-game-the-lost-universe)
+- [Zama’s homomorphic encryption tech lands it $73M on a valuation of nearly $400M](https://techcrunch.com/2024/03/07/zamas-homomorphic-encryption-tech-lands-it-73m-on-a-valuation-of-nearly-400m/)
 - [SpaceX to push the envelope on 3rd Starship test flight](https://www.space.com/spacex-starship-third-test-flight-objectives)
-- [Best solar binoculars 2024: Ideal for the April 8 solar eclipse](https://www.space.com/best-solar-binoculars)
-- [EU looking into Apple’s decision to kill Epic Games’ developer account](https://techcrunch.com/2024/03/07/apple-epic-dev-account-dma/)
-- [How do some black holes get so big? The James Webb Space Telescope may have an answer](https://www.space.com/supermassive-black-hole-growth-mystery-james-webb-space-telescope)
-- [Spotify to increase subscription price in France to counter new music-streaming tax](https://techcrunch.com/2024/03/07/spotify-to-increase-subscription-price-in-france-to-counter-new-music-streaming-tax/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
