@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Binance launches a crypto perfume and Coachella partners with OpenSea](https://techcrunch.com/2024/03/07/bitcoin-highs-and-dog-focused-memecoins-spike-while-binance-launches-a-crypto-perfume-and-coachella-partners-with-opensea/)
+- [Paul Dano on his &#39;Spaceman&#39; role voicing an ancient alien spider &lpar;exclusive&rpar;](https://www.space.com/spaceman-netflix-paul-dano-alien-spider)
+- [Apple will make it easier to move to Android by fall 2025](https://techcrunch.com/2024/03/07/apple-will-make-it-easier-to-move-to-android-by-fall-2025/)
+- [AI2 Incubator scores $200M in compute to feed needy AI startups](https://techcrunch.com/2024/03/07/ai2-incubator-scores-200m-in-compute-to-feed-needy-ai-startups/)
 - [NASA high-altitude balloon breaks agency flight record](https://www.space.com/nasa-gusto-high-altitude-balloon-breaks-flight-record)
-- [Rivian takes the wraps off $45,000 R2 SUV, its biggest bet yet](https://techcrunch.com/2024/03/07/rivian-takes-the-wraps-off-45000-r2-suv-its-biggest-bet-yet/)
-- [TikTok hijacks the For You page with call to action on ban](https://techcrunch.com/2024/03/07/tiktok-ban-congress/)
-- [Rivian surprise announces the R3 hatchback, and it’s cute as hell](https://techcrunch.com/2024/03/07/rivian-r3-hatchback-ev-specs-preorder-info/)
-- [Databricks keeps marching forward with $1.6B in revenue](https://techcrunch.com/2024/03/07/databricks-revenue-numbers-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
