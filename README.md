@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe’s DMA rules for Big Tech explained](https://techcrunch.com/2024/03/07/europes-dma-rules-for-big-tech-explained/)
+- [Apple M3 MacBook Air review: Still the best Mac for most](https://techcrunch.com/2024/03/07/apple-macbook-air-m3-review/)
+- [Adobe is making it easier to create social content on mobile](https://techcrunch.com/2024/03/07/adobe-is-making-it-easier-to-create-social-content-on-mobile/)
+- [6 reasons why the 2024 total solar eclipse could be the best eclipse for hundreds of years](https://www.space.com/6-reasons-why-total-solar-eclipse-2024-could-be-the-best-eclipse-for-hundreds-of-years)
 - [Sequoia’s Jess Lee will demystify product-market fit at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/07/sequoias-jess-lee-will-demystify-product-market-fit-at-techcrunch-early-stage-2024/)
-- [NYT Games debuts redesigned app to boost discovery and simplify navigation](https://techcrunch.com/2024/03/07/nyt-games-redesigned-app-boost-discovery-simplify-navigation/)
-- [NASA launches its 1st official tabletop roleplaying game campaign](https://www.space.com/nasa-roleplaying-game-the-lost-universe)
-- [Zama’s homomorphic encryption tech lands it $73M on a valuation of nearly $400M](https://techcrunch.com/2024/03/07/zamas-homomorphic-encryption-tech-lands-it-73m-on-a-valuation-of-nearly-400m/)
-- [SpaceX to push the envelope on 3rd Starship test flight](https://www.space.com/spacex-starship-third-test-flight-objectives)
 <!-- BLOG-POST-LIST:END -->
 
 ---
