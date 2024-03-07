@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reach Security taps a company’s existing tools to fight cyber threats](https://techcrunch.com/2024/03/07/reach-security-taps-a-companys-existing-tools-to-fight-cyber-threats/)
-- [Satellite snaps eerily circular holes in the clouds above Florida. What caused them?](https://www.space.com/satellite-snaps-eerily-circular-holes-in-the-clouds-above-florida-what-caused-them)
-- [Bored? Go play this hidden game in your Instagram DMs](https://techcrunch.com/2024/03/07/bored-go-play-this-hidden-game-in-your-instagram-dms/)
-- [Europe’s DMA rules for Big Tech explained](https://techcrunch.com/2024/03/07/europes-dma-rules-for-big-tech-explained/)
-- [Apple M3 MacBook Air review: Still the best Mac for most](https://techcrunch.com/2024/03/07/apple-macbook-air-m3-review/)
+- [Turnitin laid off staff earlier this year, after CEO forecast AI would allow it to cut headcount](https://techcrunch.com/2024/03/07/turnitin-laid-off-staff-earlier-this-year-after-ceo-forecast-ai-would-allow-it-to-cut-headcount/)
+- [Big, dead satellite&#39;s crash was a space-junk wakeup call, experts say](https://www.space.com/ers-2-satellite-crash-space-junk-wakeup-call)
+- [Nikon buys film camera maker RED](https://techcrunch.com/2024/03/07/nikon-buys-film-camera-maker-red/)
+- [We tested Anthropic’s new chatbot — and came away a bit disappointed](https://techcrunch.com/2024/03/07/we-tested-anthropics-new-chatbot-and-came-away-a-bit-disappointed/)
+- [Anonymous social apps face another reckoning as UNC System to ban Yik Yik, Fizz, Sidechat &amp; Whisper](https://techcrunch.com/2024/03/07/anonymous-social-apps-face-another-reckoning-as-unc-system-to-ban-yik-yik-fizz-sidechat-whisper/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
