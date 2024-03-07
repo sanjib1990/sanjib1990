@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads now lets all users save drafts and take photos within the app](https://techcrunch.com/2024/03/07/threads-save-drafts-take-photos-within-app/)
+- [Tracking ads industry faces another body blow in the EU](https://techcrunch.com/2024/03/07/iab-tcf-cjeu/)
+- [Brevian is a no-code enterprise platform for building AI agents](https://techcrunch.com/2024/03/07/brevian-is-a-no-code-enterprise-platform-for-building-ai-agents/)
 - [Oura starts selling its products on Amazon](https://techcrunch.com/2024/03/07/oura-starts-selling-its-products-on-amazon/)
 - [Uber Eats’ new live location sharing feature helps couriers deliver food to users in hard-to-find locations](https://techcrunch.com/2024/03/07/uber-eats-new-live-location-sharing-feature-helps-couriers-deliver-food-to-users-in-hard-to-find-locations/)
-- [PayPal launches Tap to Pay on iPhone for businesses using Venmo and Zettle in the US](https://techcrunch.com/2024/03/07/paypal-launches-tap-to-pay-iphone-businesses-using-venmo-zettle/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Turnitin laid off staff earlier this year, after CEO forecast AI would allow it to cut headcount](https://techcrunch.com/2024/03/07/turnitin-laid-off-staff-earlier-this-year-after-ceo-forecast-ai-would-allow-it-to-cut-headcount/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
