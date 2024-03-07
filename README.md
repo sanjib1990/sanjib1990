@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads now lets all users save drafts and take photos within the app](https://techcrunch.com/2024/03/07/threads-save-drafts-take-photos-within-app/)
-- [Tracking ads industry faces another body blow in the EU](https://techcrunch.com/2024/03/07/iab-tcf-cjeu/)
-- [Brevian is a no-code enterprise platform for building AI agents](https://techcrunch.com/2024/03/07/brevian-is-a-no-code-enterprise-platform-for-building-ai-agents/)
-- [Oura starts selling its products on Amazon](https://techcrunch.com/2024/03/07/oura-starts-selling-its-products-on-amazon/)
-- [Uber Eats’ new live location sharing feature helps couriers deliver food to users in hard-to-find locations](https://techcrunch.com/2024/03/07/uber-eats-new-live-location-sharing-feature-helps-couriers-deliver-food-to-users-in-hard-to-find-locations/)
+- [NASA high-altitude balloon breaks agency flight record](https://www.space.com/nasa-gusto-high-altitude-balloon-breaks-flight-record)
+- [Rivian takes the wraps off $45,000 R2 SUV, its biggest bet yet](https://techcrunch.com/2024/03/07/rivian-takes-the-wraps-off-45000-r2-suv-its-biggest-bet-yet/)
+- [TikTok hijacks the For You page with call to action on ban](https://techcrunch.com/2024/03/07/tiktok-ban-congress/)
+- [Rivian surprise announces the R3 hatchback, and it’s cute as hell](https://techcrunch.com/2024/03/07/rivian-r3-hatchback-ev-specs-preorder-info/)
+- [Databricks keeps marching forward with $1.6B in revenue](https://techcrunch.com/2024/03/07/databricks-revenue-numbers-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
