@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What’s the Deel with Remofirst, and why are VCs playing musical chairs?](https://techcrunch.com/2024/03/08/whats-the-deel-with-remofirst-and-why-are-vcs-playing-musical-chairs/)
-- [Strangely fluctuating jet deepens mystery of Jupiter&#39;s Great Blue Spot](https://www.space.com/jupiter-great-blue-spot-time-changing-jet-why)
-- [Oldest &#39;dead&#39; galaxy ever seen defies current models of the ancient universe](https://www.space.com/oldest-known-dead-galaxy-discovered-james-webb-space-telescope)
-- [SpaceX employee sues company for alleged sexual discrimination, retaliation](https://www.space.com/spacex-employee-lawsuit-sex-discrimination-retaliation)
-- [Faraday Future survives long enough to issue its first recall](https://techcrunch.com/2024/03/08/faraday-future-recall-ff91-airbags-cash/)
+- [Reddit launches a suite of free growth tools for businesses](https://techcrunch.com/2024/03/08/reddit-launches-a-suite-of-free-growth-tools-for-businesses/)
+- [Profitable car rental service Turo is still ready for an IPO, but its growth cratered in 2023](https://techcrunch.com/2024/03/08/turo-car-rental-ipo-profitable-growth/)
+- [Creator wishlist startup Throne is doing so well that it returned investor money](https://techcrunch.com/2024/03/08/creator-wishlist-startup-throne-is-doing-so-well-that-it-returned-investor-money/)
+- [NASA astronaut Tracy C. Dyson &#39;super-pumped&#39; for 3rd space mission &lpar;exclusive video&rpar;](https://www.space.com/nasa-iss-astronaut-tracy-c-dyson-3rd-spaceflight-interview)
+- [The Rivian R2 SUV racks up 68,000 reservations a day after reveal](https://techcrunch.com/2024/03/08/the-rivian-r2-suv-racks-up-68000-reservations-a-day-after-reveal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
