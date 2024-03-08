@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Worldcoin says it’s filing legal challenge to Spain’s temporary ban](https://techcrunch.com/2024/03/08/worldcoin-says-its-filing-legal-challenge-to-spains-temporary-ban/)
+- [Baron values Swiggy at $12.16B, above prior private market valuation](https://techcrunch.com/2024/03/08/baron-values-swiggy-at-12-16b-above-prior-private-market-valuation/)
 - [1 month to go until the total solar eclipse 2024: Here&#39;s what you need to know](https://www.space.com/one-month-until-total-solar-eclipse-2024)
 - [Astronauts celebrate mentorships and milestones on International Women&#39;s Day &lpar;exclusive&rpar;](https://www.space.com/international-womens-day-female-astronauts-nasa-2024)
-- [X allows Premium+ users and organizations to publish articles](https://techcrunch.com/2024/03/08/x-allows-premium-users-and-organizations-to-publish-articles/)
-- [Apple is rolling out VisionOS 1.1. with improved personas](https://techcrunch.com/2024/03/07/apple-launches-visionos-1-1-with-improved-personas/)
-- [Free Fire India relaunch in limbo six months on](https://techcrunch.com/2024/03/07/free-fire-india-launch/)
+- [X now allows Premium+ users and organizations to publish articles](https://techcrunch.com/2024/03/08/x-allows-premium-users-and-organizations-to-publish-articles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
