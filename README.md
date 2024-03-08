@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI announces new board members, reinstates CEO Sam Altman](https://techcrunch.com/2024/03/08/openai-announces-new-board-members-reinstates-sam-altman/)
+- [Techstars’ $80M partnership with J.P. Morgan is on the rocks, employees say](https://techcrunch.com/2024/03/08/techstars-80-million-partnership-with-j-p-morgan-is-on-the-rocks-employees-say/)
+- [Bumble lost a third of its Texas workforce after state passed restrictive ‘Heartbeat Act’ abortion bill](https://techcrunch.com/2024/03/08/bumble-lost-a-third-of-its-texas-workforce-after-state-passed-restrictive-heartbeat-act-abortion-bill/)
 - [&#39;Star Wars&#39; salutes Women&#39;s History Month with Ahsoka Tano, Mon Mothma and more](https://www.space.com/star-wars-womens-history-month-comic-covers)
 - [Two former CloudKitchens execs are tackling Mexico’s solar power lag](https://techcrunch.com/2024/03/08/niko-seed-fundraise/)
-- [&#39;3 Body Problem:&#39; Watch final trailer for Netflix&#39;s alien invasion saga &lpar;video&rpar;](https://www.space.com/netflix-3-body-problem-alien-invasion-series-final-tralier)
-- [Save 33% on ISO-certified solar glasses ahead of April 8 total solar eclipse](https://www.space.com/soluna-glasses-deal-33-percent-total-solar-eclipse-april-2024)
-- [Dark energy remains a mystery. Maybe AI can help crack the code](https://www.space.com/ai-dark-energy-precision-universe-simulation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
