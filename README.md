@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Potensic A20 Mini drone review](https://www.space.com/potensic-a20-mini-drone-review)
 - [Widespread solar storm struck spacecraft near the sun, Earth and even Mars](https://www.space.com/spacecraft-solar-storm-multiple-locations)
 - [Inside the weird and quirky world of building a startup behind a wall of tariffs](https://techcrunch.com/2024/03/07/getmobil-raises-funding/)
 - [AALTO seeks to democratize high-speed internet access through solar-powered drones](https://techcrunch.com/2024/03/07/aalto-seeks-to-democratize-high-speed-internet-access-through-solar-powered-drones/)
 - [&#39;Star Wars: Dark Forces Remaster&#39; updates a &#39;90s classic from the galaxy far, far away](https://www.space.com/entertainment/space-games-toys/relive-90s-gaming-with-new-star-wars-dark-forces-remaster)
-- [Icy asteroids help the James Webb Space Telescope uncover Neptune&#39;s history](https://www.space.com/james-webb-space-telescope-neptune-kuiper-belt-objects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
