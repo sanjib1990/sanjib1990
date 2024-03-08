@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX employee sues company for alleged sexual discrimination, retaliation](https://www.space.com/spacex-employee-lawsuit-sex-discrimination-retaliation)
 - [Faraday Future survives long enough to issue its first recall](https://techcrunch.com/2024/03/08/faraday-future-recall-ff91-airbags-cash/)
 - [Artemis Fund has a fresh $36 million to back diverse founders solving ‘big, hairy problems’](https://techcrunch.com/2024/03/08/the-artemis-fund-fund-ii-venture-capital/)
 - [5,800 pounds of batteries tossed off the ISS in 2021 will fall to Earth today](https://www.space.com/old-batteries-re-enter-atmosphere)
-- [Worldcoin says it’s filing legal challenge to Spain’s temporary ban](https://techcrunch.com/2024/03/08/worldcoin-says-its-filing-legal-challenge-to-spains-temporary-ban/)
-- [Baron values Swiggy at $12.16B, above prior private market valuation](https://techcrunch.com/2024/03/08/baron-values-swiggy-at-12-16b-above-prior-private-market-valuation/)
+- [Worldcoin says it’s paused services in Spain, after filing legal challenge to temporary ban](https://techcrunch.com/2024/03/08/worldcoin-says-its-filing-legal-challenge-to-spains-temporary-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
