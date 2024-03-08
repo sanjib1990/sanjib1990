@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortnite is coming back to iOS in Europe &lpar;for real this time&rpar;](https://techcrunch.com/2024/03/08/fortnite-europe-ios-apple-epic/)
 - [Pentagon UFO office finds &#39;no empirical evidence&#39; for alien technology in new report](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)
 - [Despite distancing itself from politics, the topic is dominating Threads’ trends](https://techcrunch.com/2024/03/08/despite-distancing-itself-from-politics-the-topic-is-dominating-threads-trends/)
 - [Pitch Deck Teardown: Astek Diagnostics’s $2M seed deck](https://techcrunch.com/2024/03/08/sample-seed-pitch-deck-astek-diagnostics/)
 - [These Lego Ideas SLS rocket, Kerbal Space Program and &#39;The Martian&#39; concepts are incredible, and we hope they get made](https://www.space.com/lego-ideas-space-sets-martian-sls-kerbal)
-- [Here&#39;s how to see &#39;horned&#39; comet 12P/Pons-Brooks in the night sky this month &lpar;video&rpar;](https://www.space.com/comet-12p-pons-brooks-march-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
