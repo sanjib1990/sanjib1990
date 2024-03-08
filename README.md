@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s the Deel with Remofirst, and why are VCs playing musical chairs?](https://techcrunch.com/2024/03/08/whats-the-deel-with-remofirst-and-why-are-vcs-playing-musical-chairs/)
+- [Strangely fluctuating jet deepens mystery of Jupiter&#39;s Great Blue Spot](https://www.space.com/jupiter-great-blue-spot-time-changing-jet-why)
+- [Oldest &#39;dead&#39; galaxy ever seen defies current models of the ancient universe](https://www.space.com/oldest-known-dead-galaxy-discovered-james-webb-space-telescope)
 - [SpaceX employee sues company for alleged sexual discrimination, retaliation](https://www.space.com/spacex-employee-lawsuit-sex-discrimination-retaliation)
 - [Faraday Future survives long enough to issue its first recall](https://techcrunch.com/2024/03/08/faraday-future-recall-ff91-airbags-cash/)
-- [Artemis Fund has a fresh $36 million to back diverse founders solving ‘big, hairy problems’](https://techcrunch.com/2024/03/08/the-artemis-fund-fund-ii-venture-capital/)
-- [5,800 pounds of batteries tossed off the ISS in 2021 will fall to Earth today](https://www.space.com/old-batteries-re-enter-atmosphere)
-- [Worldcoin says it’s paused services in Spain, after filing legal challenge to temporary ban](https://techcrunch.com/2024/03/08/worldcoin-says-its-filing-legal-challenge-to-spains-temporary-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
