@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fortnite is coming back to iOS in Europe &lpar;for real this time&rpar;](https://techcrunch.com/2024/03/08/fortnite-europe-ios-apple-epic/)
-- [Pentagon UFO office finds &#39;no empirical evidence&#39; for alien technology in new report](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)
-- [Despite distancing itself from politics, the topic is dominating Threads’ trends](https://techcrunch.com/2024/03/08/despite-distancing-itself-from-politics-the-topic-is-dominating-threads-trends/)
-- [Pitch Deck Teardown: Astek Diagnostics’s $2M seed deck](https://techcrunch.com/2024/03/08/sample-seed-pitch-deck-astek-diagnostics/)
-- [These Lego Ideas SLS rocket, Kerbal Space Program and &#39;The Martian&#39; concepts are incredible, and we hope they get made](https://www.space.com/lego-ideas-space-sets-martian-sls-kerbal)
+- [Hey, it’s me, Brian’s less creepy Apple Vision Pro Persona](https://techcrunch.com/2024/03/08/hey-its-me-brians-less-creepy-apple-vision-pro-persona/)
+- [The incumbents go shopping for startups](https://techcrunch.com/2024/03/08/the-incumbents-go-shopping-for-startups/)
+- [Rivian’s new ‘treehouse’ rooftop tent comes with a movie projector](https://techcrunch.com/2024/03/08/rivians-new-treehouse-rooftop-tent-comes-with-a-movie-projector/)
+- [Only 7 days left to save $1,000 on Disrupt passes](https://techcrunch.com/2024/03/08/only-7-days-left-to-save-1000-on-disrupt-passes/)
+- [Women in AI: Sarah Kreps, professor of government at Cornell](https://techcrunch.com/2024/03/08/women-in-ai-sarah-kreps-professor-of-government-at-cornell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
