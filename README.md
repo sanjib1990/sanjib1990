@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars&#39; salutes Women&#39;s History Month with Ahsoka Tano, Mon Mothma and more](https://www.space.com/star-wars-womens-history-month-comic-covers)
+- [Two former CloudKitchens execs are tackling Mexico’s solar power lag](https://techcrunch.com/2024/03/08/niko-seed-fundraise/)
 - [&#39;3 Body Problem:&#39; Watch final trailer for Netflix&#39;s alien invasion saga &lpar;video&rpar;](https://www.space.com/netflix-3-body-problem-alien-invasion-series-final-tralier)
 - [Save 33% on ISO-certified solar glasses ahead of April 8 total solar eclipse](https://www.space.com/soluna-glasses-deal-33-percent-total-solar-eclipse-april-2024)
 - [Dark energy remains a mystery. Maybe AI can help crack the code](https://www.space.com/ai-dark-energy-precision-universe-simulation)
-- [Hey, it’s me, Brian’s less creepy Apple Vision Pro Persona](https://techcrunch.com/2024/03/08/hey-its-me-brians-less-creepy-apple-vision-pro-persona/)
-- [The incumbents go shopping for startups](https://techcrunch.com/2024/03/08/the-incumbents-go-shopping-for-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
