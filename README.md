@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s smartwatch market in flux as unknown brands challenge heavyweights](https://techcrunch.com/2024/03/07/india-worlds-biggest-smartwatch-market-change/)
 - [India’s Election Commission fixes privacy flaws that exposed citizens’ information-seeking data](https://techcrunch.com/2024/03/07/india-election-commission-rti-privacy-flaws-fixed/)
 - [Potensic A20 Mini drone review](https://www.space.com/potensic-a20-mini-drone-review)
 - [Widespread solar storm struck spacecraft near the sun, Earth and even Mars](https://www.space.com/spacecraft-solar-storm-multiple-locations)
 - [Inside the weird and quirky world of building a startup behind a wall of tariffs](https://techcrunch.com/2024/03/07/getmobil-raises-funding/)
-- [AALTO seeks to democratize high-speed internet access through solar-powered drones](https://techcrunch.com/2024/03/07/aalto-seeks-to-democratize-high-speed-internet-access-through-solar-powered-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
