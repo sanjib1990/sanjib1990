@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit launches a suite of free growth tools for businesses](https://techcrunch.com/2024/03/08/reddit-launches-a-suite-of-free-growth-tools-for-businesses/)
-- [Profitable car rental service Turo is still ready for an IPO, but its growth cratered in 2023](https://techcrunch.com/2024/03/08/turo-car-rental-ipo-profitable-growth/)
-- [Creator wishlist startup Throne is doing so well that it returned investor money](https://techcrunch.com/2024/03/08/creator-wishlist-startup-throne-is-doing-so-well-that-it-returned-investor-money/)
-- [NASA astronaut Tracy C. Dyson &#39;super-pumped&#39; for 3rd space mission &lpar;exclusive video&rpar;](https://www.space.com/nasa-iss-astronaut-tracy-c-dyson-3rd-spaceflight-interview)
-- [The Rivian R2 SUV racks up 68,000 reservations a day after reveal](https://techcrunch.com/2024/03/08/the-rivian-r2-suv-racks-up-68000-reservations-a-day-after-reveal/)
+- [Pitch Deck Teardown: Astek Diagnostics’s $2M seed deck](https://techcrunch.com/2024/03/08/sample-seed-pitch-deck-astek-diagnostics/)
+- [These Lego Ideas SLS rocket, Kerbal Space Program and &#39;The Martian&#39; concepts are incredible, and we hope they get made](https://www.space.com/lego-ideas-space-sets-martian-sls-kerbal)
+- [Here&#39;s how to see &#39;horned&#39; comet 12P/Pons-Brooks in the night sky this month &lpar;video&rpar;](https://www.space.com/comet-12p-pons-brooks-march-2024)
+- [GM resumes Chevy Blazer EV sales with new software and lower prices](https://techcrunch.com/2024/03/08/gm-chevy-blazer-ev-sales-fixed/)
+- [Reddit launches free tools to help businesses grow their presence on the site ahead of IPO](https://techcrunch.com/2024/03/08/reddit-launches-a-suite-of-free-growth-tools-for-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
