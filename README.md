@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faraday Future survives long enough to issue its first recall](https://techcrunch.com/2024/03/08/faraday-future-recall-ff91-airbags-cash/)
+- [Artemis Fund has a fresh $36 million to back diverse founders solving ‘big, hairy problems’](https://techcrunch.com/2024/03/08/the-artemis-fund-fund-ii-venture-capital/)
+- [5,800 pounds of batteries tossed off the ISS in 2021 will fall to Earth today](https://www.space.com/old-batteries-re-enter-atmosphere)
 - [Worldcoin says it’s filing legal challenge to Spain’s temporary ban](https://techcrunch.com/2024/03/08/worldcoin-says-its-filing-legal-challenge-to-spains-temporary-ban/)
 - [Baron values Swiggy at $12.16B, above prior private market valuation](https://techcrunch.com/2024/03/08/baron-values-swiggy-at-12-16b-above-prior-private-market-valuation/)
-- [1 month to go until the total solar eclipse 2024: Here&#39;s what you need to know](https://www.space.com/one-month-until-total-solar-eclipse-2024)
-- [Astronauts celebrate mentorships and milestones on International Women&#39;s Day &lpar;exclusive&rpar;](https://www.space.com/international-womens-day-female-astronauts-nasa-2024)
-- [X now allows Premium+ users and organizations to publish articles](https://techcrunch.com/2024/03/08/x-allows-premium-users-and-organizations-to-publish-articles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
