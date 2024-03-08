@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1 month to go until the total solar eclipse 2024: Here&#39;s what you need to know](https://www.space.com/one-month-until-total-solar-eclipse-2024)
+- [Astronauts celebrate mentorships and milestones on International Women&#39;s Day &lpar;exclusive&rpar;](https://www.space.com/international-womens-day-female-astronauts-nasa-2024)
+- [X allows Premium+ users and organizations to publish articles](https://techcrunch.com/2024/03/08/x-allows-premium-users-and-organizations-to-publish-articles/)
 - [Apple is rolling out VisionOS 1.1. with improved personas](https://techcrunch.com/2024/03/07/apple-launches-visionos-1-1-with-improved-personas/)
 - [Free Fire India relaunch in limbo six months on](https://techcrunch.com/2024/03/07/free-fire-india-launch/)
-- [India’s smartwatch market in flux as unknown brands challenge heavyweights](https://techcrunch.com/2024/03/07/india-worlds-biggest-smartwatch-market-change/)
-- [India’s Election Commission fixes privacy flaws that exposed citizens’ information-seeking data](https://techcrunch.com/2024/03/07/india-election-commission-rti-privacy-flaws-fixed/)
-- [Potensic A20 Mini drone review](https://www.space.com/potensic-a20-mini-drone-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
