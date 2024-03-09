@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pentagon UFO office developing &#39;Gremlin&#39; sensors to help identify anomalies in orbit](https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit)
 - [As the Change Healthcare outage drags on, fears grow that patient data could spill online](https://techcrunch.com/2024/03/09/change-healthcare-fears-data-breach-ransomware/)
 - [OpenAI announces new board members, reinstates CEO Sam Altman](https://techcrunch.com/2024/03/08/openai-announces-new-board-members-reinstates-sam-altman/)
 - [Techstars’ $80M partnership with J.P. Morgan is on the rocks, employees say](https://techcrunch.com/2024/03/08/techstars-80-million-partnership-with-j-p-morgan-is-on-the-rocks-employees-say/)
 - [Bumble lost a third of its Texas workforce after state passed restrictive ‘Heartbeat Act’ abortion bill](https://techcrunch.com/2024/03/08/bumble-lost-a-third-of-its-texas-workforce-after-state-passed-restrictive-heartbeat-act-abortion-bill/)
-- [&#39;Star Wars&#39; salutes Women&#39;s History Month with Ahsoka Tano, Mon Mothma and more](https://www.space.com/star-wars-womens-history-month-comic-covers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
