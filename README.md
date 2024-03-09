@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The next chapter of lunar exploration could forever change the moon — and our relationship to it &lpar;op-ed&rpar;](https://www.space.com/moon-occupation-nearest-neighbor)
+- [This Week In Space podcast: Episode 101 — Nukes in Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-101-nukes-in-space)
+- [Women in AI: Sandra Watcher, professor of data ethics at Oxford](https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/)
 - [NASA, Boeing delay Starliner capsule&#39;s 1st astronaut launch to early May](https://www.space.com/nasa-boeing-starliner-crew-flight-test-delay-may-2024)
 - [Benro Tortoise 24C tripod and GX30 head review](https://www.space.com/benro-tortoise-24c-tripod-review)
-- [Pentagon UFO office developing &#39;Gremlin&#39; sensors to help identify anomalies in orbit](https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit)
-- [As the Change Healthcare outage drags on, fears grow that patient data could spill online](https://techcrunch.com/2024/03/09/change-healthcare-fears-data-breach-ransomware/)
-- [OpenAI announces new board members, reinstates CEO Sam Altman](https://techcrunch.com/2024/03/08/openai-announces-new-board-members-reinstates-sam-altman/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
