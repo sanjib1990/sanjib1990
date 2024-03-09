@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Claire Leibowicz, AI and media integrity expert at PAI](https://techcrunch.com/2024/03/09/women-in-ai-claire-leibowicz-ai-and-media-integrity-expert-at-pai/)
+- [Apple terminates Epic’s account, Meta platforms get knocked offline and former Twitter execs sue Elon Musk](https://techcrunch.com/2024/03/09/apple-terminates-epics-account-meta-platforms-get-knocked-offline-and-former-twitter-execs-sue-elon-musk/)
 - [The women in AI making a difference](https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/)
 - [Slack’s new CEO looks to bring stability after a turbulent period](https://techcrunch.com/2024/03/09/slack-ceo-looks-to-bring-stability-after-a-turbulent-period/)
 - [How many startups shut down last year compared to the year before? A lot.](https://techcrunch.com/2024/03/09/how-many-startups-shut-down-last-year-compared-to-the-year-before-a-lot/)
-- [10 things you probably didn&#39;t know about the 2024 total solar eclipse](https://www.space.com/10-things-you-probably-did-not-know-about-the-2024-total-solar-eclipse)
-- [The next chapter of lunar exploration could forever change the moon — and our relationship to it &lpar;op-ed&rpar;](https://www.space.com/moon-occupation-nearest-neighbor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
