@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, Boeing delay Starliner capsule&#39;s 1st astronaut launch to early May](https://www.space.com/nasa-boeing-starliner-crew-flight-test-delay-may-2024)
+- [Benro Tortoise 24C tripod and GX30 head review](https://www.space.com/benro-tortoise-24c-tripod-review)
 - [Pentagon UFO office developing &#39;Gremlin&#39; sensors to help identify anomalies in orbit](https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit)
 - [As the Change Healthcare outage drags on, fears grow that patient data could spill online](https://techcrunch.com/2024/03/09/change-healthcare-fears-data-breach-ransomware/)
 - [OpenAI announces new board members, reinstates CEO Sam Altman](https://techcrunch.com/2024/03/08/openai-announces-new-board-members-reinstates-sam-altman/)
-- [Techstars’ $80M partnership with J.P. Morgan is on the rocks, employees say](https://techcrunch.com/2024/03/08/techstars-80-million-partnership-with-j-p-morgan-is-on-the-rocks-employees-say/)
-- [Bumble lost a third of its Texas workforce after state passed restrictive ‘Heartbeat Act’ abortion bill](https://techcrunch.com/2024/03/08/bumble-lost-a-third-of-its-texas-workforce-after-state-passed-restrictive-heartbeat-act-abortion-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
