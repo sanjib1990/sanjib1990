@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How many startups shut down last year compared to the year before? A lot.](https://techcrunch.com/2024/03/09/how-many-startups-shut-down-last-year-compared-to-the-year-before-a-lot/)
+- [10 things you probably didn&#39;t know about the 2024 total solar eclipse](https://www.space.com/10-things-you-probably-did-not-know-about-the-2024-total-solar-eclipse)
 - [The next chapter of lunar exploration could forever change the moon — and our relationship to it &lpar;op-ed&rpar;](https://www.space.com/moon-occupation-nearest-neighbor)
 - [This Week In Space podcast: Episode 101 — Nukes in Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-101-nukes-in-space)
 - [Women in AI: Sandra Watcher, professor of data ethics at Oxford](https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/)
-- [NASA, Boeing delay Starliner capsule&#39;s 1st astronaut launch to early May](https://www.space.com/nasa-boeing-starliner-crew-flight-test-delay-may-2024)
-- [Benro Tortoise 24C tripod and GX30 head review](https://www.space.com/benro-tortoise-24c-tripod-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
