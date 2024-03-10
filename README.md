@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don’t forget! Submit your Side Event at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/10/dont-forget-submit-your-side-event-at-techcrunch-early-stage-2024/)
+- [The new moon lets the winter constellations shine tonight](https://www.space.com/new-moon-march-2024)
 - [Why astronomers are worried about 2 major telescopes right now](https://www.space.com/giant-telescope-projects-drama-tmt-gmt)
 - [A chronology of the April 8 total solar eclipse](https://www.space.com/total-solar-eclipse-chronology-april-8-2024)
 - [The women in AI making a difference](https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/)
-- [What’s going on with the new bill that could ban TikTok?](https://techcrunch.com/2024/03/09/will-congress-ban-tiktok/)
-- [Women in AI: Claire Leibowicz, AI and media integrity expert at PAI](https://techcrunch.com/2024/03/09/women-in-ai-claire-leibowicz-ai-and-media-integrity-expert-at-pai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
