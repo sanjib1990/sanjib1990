@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benro Rhino 24C Two Series travel tripod and VX25 head review](https://www.space.com/benro-rhino-24c-two-series-travel-tripod-review)
 - [The women in AI making a difference](https://techcrunch.com/2024/03/10/the-women-in-ai-making-a-difference/)
 - [Best laptops for astronomers 2024: Link up telescopes and edit astrophotographs](https://www.space.com/best-laptops-for-astronomers)
 - [Why does every startup want to help you get paid?](https://techcrunch.com/2024/03/10/global-payroll-gets-more-competitive/)
 - [New UAE astronauts prepare for Ramadan and family reunions: report](https://www.space.com/uae-astronauts-new-ramadan-family-2024)
-- [Women in AI: Heidy Khlaaf, safety engineering director at Trail of Bits](https://techcrunch.com/2024/03/10/women-in-ai-heidy-khlaaf-safety-engineering-director-at-trail-of-bits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
