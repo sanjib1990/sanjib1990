@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why astronomers are worried about 2 major telescopes right now](https://www.space.com/giant-telescope-projects-drama-tmt-gmt)
+- [A chronology of the April 8 total solar eclipse](https://www.space.com/total-solar-eclipse-chronology-april-8-2024)
 - [The women in AI making a difference](https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/)
 - [What’s going on with the new bill that could ban TikTok?](https://techcrunch.com/2024/03/09/will-congress-ban-tiktok/)
 - [Women in AI: Claire Leibowicz, AI and media integrity expert at PAI](https://techcrunch.com/2024/03/09/women-in-ai-claire-leibowicz-ai-and-media-integrity-expert-at-pai/)
-- [Apple terminates Epic’s account, Meta platforms get knocked offline and former Twitter execs sue Elon Musk](https://techcrunch.com/2024/03/09/apple-terminates-epics-account-meta-platforms-get-knocked-offline-and-former-twitter-execs-sue-elon-musk/)
-- [Slack’s new CEO looks to bring stability after a turbulent period](https://techcrunch.com/2024/03/09/slack-ceo-looks-to-bring-stability-after-a-turbulent-period/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
