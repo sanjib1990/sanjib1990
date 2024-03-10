@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New UAE astronauts prepare for Ramadan and family reunions: report](https://www.space.com/uae-astronauts-new-ramadan-family-2024)
+- [Women in AI: Heidy Khlaaf, safety engineering director at Trail of Bits](https://techcrunch.com/2024/03/10/women-in-ai-heidy-khlaaf-safety-engineering-director-at-trail-of-bits/)
 - [Don’t forget! Submit your Side Event at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/10/dont-forget-submit-your-side-event-at-techcrunch-early-stage-2024/)
 - [The new moon lets the winter constellations shine tonight](https://www.space.com/new-moon-march-2024)
 - [Why astronomers are worried about 2 major telescopes right now](https://www.space.com/giant-telescope-projects-drama-tmt-gmt)
-- [A chronology of the April 8 total solar eclipse](https://www.space.com/total-solar-eclipse-chronology-april-8-2024)
-- [The women in AI making a difference](https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
