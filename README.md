@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 23 Starlink satellites from California tonight in 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-7-17)
+- [SpaceX launching 23 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-43)
 - [Benro Rhino 24C Two Series travel tripod and VX25 head review](https://www.space.com/benro-rhino-24c-two-series-travel-tripod-review)
 - [The women in AI making a difference](https://techcrunch.com/2024/03/10/the-women-in-ai-making-a-difference/)
 - [Best laptops for astronomers 2024: Link up telescopes and edit astrophotographs](https://www.space.com/best-laptops-for-astronomers)
-- [Why does every startup want to help you get paid?](https://techcrunch.com/2024/03/10/global-payroll-gets-more-competitive/)
-- [New UAE astronauts prepare for Ramadan and family reunions: report](https://www.space.com/uae-astronauts-new-ramadan-family-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
