@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: RIP $ASTR](https://techcrunch.com/2024/03/11/techcrunch-space-rip-astr/)
+- [Watch SpaceX&#39;s Crew-7 astronaut mission for NASA return to Earth March 12 in this free livestream](https://www.space.com/nasa-spacex-crew-7-astronauts-return-to-earth)
+- [NASA gets $25.4 billion in White House&#39;s 2025 budget request](https://www.space.com/nasa-white-house-2025-budget-request)
 - [Should artists be paid for training data? OpenAI VP wouldn’t say](https://techcrunch.com/2024/03/11/should-artists-be-paid-for-training-data-openai-vp-wouldnt-say/)
 - [Lucid Motors is stuck in a fight over the name of its Gravity SUV](https://techcrunch.com/2024/03/11/lucid-motors-trademark-gravity-suv-charging/)
-- [Kate Middleton’s photo editing controversy is an omen of what’s to come](https://techcrunch.com/2024/03/11/kate-middletons-photo-editing-controversy-is-an-omen-of-whats-to-come/)
-- [Wander into the wasteland for Prime Video&#39;s live-action &#39;Fallout&#39; series &lpar;trailer&rpar;](https://www.space.com/fallout-tv-series-full-trailer-video)
-- [NASA chief Bill Nelson promises a &#39;fight&#39; for agency&#39;s 2025 budget request](https://www.space.com/nasa-administrator-bill-nelson-2025-budget-request)
 <!-- BLOG-POST-LIST:END -->
 
 ---
