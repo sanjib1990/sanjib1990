@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some &#39;dead&#39; stars hide celestial fountains of youth beneath their surfaces](https://www.space.com/white-dwarf-fountain-of-youth-cooling-process)
+- [Feeeed is a reader app that goes beyond tracking RSS feeds](https://techcrunch.com/2024/03/11/feeeed-is-a-reader-app-that-goes-beyond-tracking-rss-feeds/)
 - [What is the smallest known planet?](https://www.space.com/smallest-known-planet)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Elon Musk says xAI will open-source Grok this week](https://techcrunch.com/2024/03/11/elon-musk-says-xai-will-open-source-grok-this-week/)
-- [‘Banking-as-a-Service’ startup Griffin raises $24M as it attains full banking license](https://techcrunch.com/2024/03/10/banking-as-a-service-startup-griffin-riases-24m-and-attains-full-banking-licence/)
-- [Rivian’s big bet, Waymo goes driverless in Austin and the Chevy Blazer EV returns](https://techcrunch.com/2024/03/10/rivians-big-bet-waymo-goes-driverless-in-austin-and-the-chevy-blazer-ev-returns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
