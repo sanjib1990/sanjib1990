@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The James Webb Space Telescope hones in on star-forming region in the Triangulum Galaxy &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-ngc-604-image-star-forming-region)
 - [Ready Player One creator debuts ‘Open,’ a metaverse battle royale experience](https://techcrunch.com/2024/03/11/ready-player-one-creator-debuts-open-a-metaverse-battle-royale-experience-readyverse/)
 - [Worldcoin fails to get injunction against Spain’s privacy suspension](https://techcrunch.com/2024/03/11/worldcoin-fails-to-get-injunction-against-spains-privacy-suspension/)
 - [Bitcoin hits new all-time high of $72,700 but one index warns we’re in ‘extreme greed’ territory](https://techcrunch.com/2024/03/11/bitcoins-newest-all-time-high-of-72700-doesnt-mean-high-prices-are-here-to-stay/)
 - [What will it be like to experience the total solar eclipse 2024?](https://www.space.com/what-to-look-for-during-total-solar-eclipse-2024-greatest-show-on-earth)
-- [TechCrunch Minute: Elon Musk, Sam Altman, and the rest of the billionaires are fighting over the future of AI](https://techcrunch.com/2024/03/11/watch-elon-musk-sam-atlman-and-the-rest-of-the-billionaires-are-fighting-over-the-future-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
