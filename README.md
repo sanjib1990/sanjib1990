@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Banking as a Service’ startup Griffin riases $24M and attains full banking licence](https://techcrunch.com/2024/03/10/banking-as-a-service-startup-griffin-riases-24m-and-attains-full-banking-licence/)
 - [Rivian’s big bet, Waymo goes driverless in Austin and the Chevy Blazer EV returns](https://techcrunch.com/2024/03/10/rivians-big-bet-waymo-goes-driverless-in-austin-and-the-chevy-blazer-ev-returns/)
-- [SpaceX to launch 23 Starlink satellites from California tonight in 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-7-17)
+- [SpaceX launches 23 Starlink satellites from California in 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-7-17)
 - [SpaceX launches 23 Starlink satellites from Florida](https://www.space.com/spacex-starlink-launch-group-6-43)
 - [Benro Rhino 24C Two Series travel tripod and VX25 head review](https://www.space.com/benro-rhino-24c-two-series-travel-tripod-review)
-- [The women in AI making a difference](https://techcrunch.com/2024/03/10/the-women-in-ai-making-a-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
