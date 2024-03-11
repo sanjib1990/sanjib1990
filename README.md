@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Some &#39;dead&#39; stars hide celestial fountains of youth beneath their surfaces](https://www.space.com/white-dwarf-fountain-of-youth-cooling-process)
-- [Feeeed is a reader app that goes beyond tracking RSS feeds](https://techcrunch.com/2024/03/11/feeeed-is-a-reader-app-that-goes-beyond-tracking-rss-feeds/)
-- [What is the smallest known planet?](https://www.space.com/smallest-known-planet)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Elon Musk says xAI will open-source Grok this week](https://techcrunch.com/2024/03/11/elon-musk-says-xai-will-open-source-grok-this-week/)
+- [Telegram founder says the company will become profitable next year](https://techcrunch.com/2024/03/11/telegram-founder-says-the-company-will-become-profitable-next-year/)
+- [Covariant is building ChatGPT for robots](https://techcrunch.com/2024/03/11/covariant-is-building-chatgpt-for-robots/)
+- [&#39;Interstellar meteor&#39; vibrations actually caused by a truck, study suggests](https://www.space.com/interstellar-meteor-sound-signal-claim-truck)
+- [EU’s use of Microsoft 365 found to breach data protection rules](https://techcrunch.com/2024/03/11/edps-microsoft-365/)
+- [SuperAGI snags funding from Jan Koum’s Newlands VC to fuel its full-stack AGI ambitions](https://techcrunch.com/2024/03/11/jan-koum-newlands-vc-superagi-funding-agi-agent-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
