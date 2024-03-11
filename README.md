@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter’s former head of Trust &amp; Safety, Yoel Roth, joins Tinder owner Match Group](https://techcrunch.com/2024/03/11/twitters-former-head-trust-safety-joins-match-group-protect-millions-users-dating-apps/)
-- [Stell helps engineers focus on building, not paperwork](https://techcrunch.com/2024/03/11/stell-raises-new-tranche-of-funding-to-keep-engineers-building-not-filling-out-paperwork/)
-- [China will launch giant, reusable rockets next year to prep for human missions to the moon](https://www.space.com/china-reusable-rockets-human-moon-missions)
-- [Alphabet spin-off SIP launches Verrus, a data center concept built around battery ‘microgrids’](https://techcrunch.com/2024/03/11/sip-verrus-data-center/)
-- [Powerful solar flare eruption from &#39;sneaky&#39; sunspot triggers widespread radio blackouts &lpar;video&rpar;](https://www.space.com/sneaky-sunspot-unleashes-powerful-solar-flare-video)
+- [Watch: Elon Musk, Sam Altman and the rest of the billionaires are fighting over the future of AI](https://techcrunch.com/2024/03/11/watch-elon-musk-sam-atlman-and-the-rest-of-the-billionaires-are-fighting-over-the-future-of-ai/)
+- [$1,000 Disrupt pass savings end Friday](https://techcrunch.com/2024/03/11/1000-disrupt-pass-savings-end-friday/)
+- [Airbnb is banning indoor security cameras inside its listings](https://techcrunch.com/2024/03/11/airbnb-is-banning-indoor-security-cameras-inside-its-listings/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [SpaceX Crew-7 astronauts undock from the ISS for March 12 return to Earth](https://www.space.com/spacex-crew-7-iss-undocking-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
