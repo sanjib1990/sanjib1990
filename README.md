@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wander into the wasteland for Prime Video&#39;s live-action &#39;Fallout&#39; series &lpar;trailer&rpar;](https://www.space.com/fallout-tv-series-full-trailer-video)
+- [NASA chief Bill Nelson promises a &#39;fight&#39; for agency&#39;s 2025 budget request](https://www.space.com/nasa-administrator-bill-nelson-2025-budget-request)
 - [Reddit’s planned IPO share price seems high, unless you look at its AI revenue](https://techcrunch.com/2024/03/11/reddit-ipo-share-price-plans/)
 - [After losing access to Twitter’s API, Block Party pivots to privacy](https://techcrunch.com/2024/03/11/after-losing-access-to-twitters-api-block-party-pivots-to-privacy/)
 - [The James Webb Space Telescope hones in on star-forming region in the Triangulum Galaxy &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-ngc-604-image-star-forming-region)
-- [Ready Player One creator debuts ‘Open,’ a metaverse battle royale experience](https://techcrunch.com/2024/03/11/ready-player-one-creator-debuts-open-a-metaverse-battle-royale-experience-readyverse/)
-- [Worldcoin fails to get injunction against Spain’s privacy suspension](https://techcrunch.com/2024/03/11/worldcoin-fails-to-get-injunction-against-spains-privacy-suspension/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
