@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Rise and Fall of the Galactic Empire&#39; examines Star Wars&#39; sinister Imperial reign](https://www.space.com/rise-fall-galactic-empire-star-wars-book)
+- [Watch live as SpaceX Crew-7 astronauts undock from the ISS today](https://www.space.com/spacex-crew-7-iss-undocking-webcast)
+- [Meta Quest 3 vs Meta Quest Pro: Which VR headset should you buy?](https://www.space.com/meta-quest-3-vs-meta-quest-pro)
 - [Telegram founder says the company will become profitable next year](https://techcrunch.com/2024/03/11/telegram-founder-says-the-company-will-become-profitable-next-year/)
 - [Covariant is building ChatGPT for robots](https://techcrunch.com/2024/03/11/covariant-is-building-chatgpt-for-robots/)
-- [&#39;Interstellar meteor&#39; vibrations actually caused by a truck, study suggests](https://www.space.com/interstellar-meteor-sound-signal-claim-truck)
-- [EU’s use of Microsoft 365 found to breach data protection rules](https://techcrunch.com/2024/03/11/edps-microsoft-365/)
-- [SuperAGI snags funding from Jan Koum’s Newlands VC to fuel its full-stack AGI ambitions](https://techcrunch.com/2024/03/11/jan-koum-newlands-vc-superagi-funding-agi-agent-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
