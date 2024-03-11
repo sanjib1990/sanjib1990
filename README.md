@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch: Elon Musk, Sam Altman and the rest of the billionaires are fighting over the future of AI](https://techcrunch.com/2024/03/11/watch-elon-musk-sam-atlman-and-the-rest-of-the-billionaires-are-fighting-over-the-future-of-ai/)
-- [$1,000 Disrupt pass savings end Friday](https://techcrunch.com/2024/03/11/1000-disrupt-pass-savings-end-friday/)
-- [Airbnb is banning indoor security cameras inside its listings](https://techcrunch.com/2024/03/11/airbnb-is-banning-indoor-security-cameras-inside-its-listings/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [SpaceX Crew-7 astronauts undock from the ISS for March 12 return to Earth](https://www.space.com/spacex-crew-7-iss-undocking-webcast)
+- [Ready Player One creator debuts ‘Open,’ a metaverse battle royale experience](https://techcrunch.com/2024/03/11/ready-player-one-creator-debuts-open-a-metaverse-battle-royale-experience-readyverse/)
+- [Worldcoin fails to get injunction against Spain’s privacy suspension](https://techcrunch.com/2024/03/11/worldcoin-fails-to-get-injunction-against-spains-privacy-suspension/)
+- [Bitcoin hits new all-time high of $72,700 but one index warns we’re in ‘extreme greed’ territory](https://techcrunch.com/2024/03/11/bitcoins-newest-all-time-high-of-72700-doesnt-mean-high-prices-are-here-to-stay/)
+- [What will it be like to experience the total solar eclipse 2024?](https://www.space.com/what-to-look-for-during-total-solar-eclipse-2024-greatest-show-on-earth)
+- [TechCrunch Minute: Elon Musk, Sam Altman, and the rest of the billionaires are fighting over the future of AI](https://techcrunch.com/2024/03/11/watch-elon-musk-sam-atlman-and-the-rest-of-the-billionaires-are-fighting-over-the-future-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
