@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The loneliness of the robotic humanoid](https://techcrunch.com/2024/03/11/the-loneliness-of-the-robotic-humanoid/)
+- [Four things we learned when US spy chiefs testified to Congress](https://techcrunch.com/2024/03/11/four-things-we-learned-when-us-spy-chiefs-testified-to-congress/)
+- [Moonbird’s relaxation device takes flight internationally](https://techcrunch.com/2024/03/11/moonbird-us-launch/)
 - [TechCrunch Space: RIP $ASTR](https://techcrunch.com/2024/03/11/techcrunch-space-rip-astr/)
 - [Watch SpaceX&#39;s Crew-7 astronaut mission for NASA return to Earth March 12 in this free livestream](https://www.space.com/nasa-spacex-crew-7-astronauts-return-to-earth)
-- [NASA gets $25.4 billion in White House&#39;s 2025 budget request](https://www.space.com/nasa-white-house-2025-budget-request)
-- [Should artists be paid for training data? OpenAI VP wouldn’t say](https://techcrunch.com/2024/03/11/should-artists-be-paid-for-training-data-openai-vp-wouldnt-say/)
-- [Lucid Motors is stuck in a fight over the name of its Gravity SUV](https://techcrunch.com/2024/03/11/lucid-motors-trademark-gravity-suv-charging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
