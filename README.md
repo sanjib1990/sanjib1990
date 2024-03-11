@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;The Rise and Fall of the Galactic Empire&#39; examines Star Wars&#39; sinister Imperial reign](https://www.space.com/rise-fall-galactic-empire-star-wars-book)
-- [Watch live as SpaceX Crew-7 astronauts undock from the ISS today](https://www.space.com/spacex-crew-7-iss-undocking-webcast)
-- [Meta Quest 3 vs Meta Quest Pro: Which VR headset should you buy?](https://www.space.com/meta-quest-3-vs-meta-quest-pro)
-- [Telegram founder says the company will become profitable next year](https://techcrunch.com/2024/03/11/telegram-founder-says-the-company-will-become-profitable-next-year/)
-- [Covariant is building ChatGPT for robots](https://techcrunch.com/2024/03/11/covariant-is-building-chatgpt-for-robots/)
+- [Twitter’s former head of Trust &amp; Safety, Yoel Roth, joins Tinder owner Match Group](https://techcrunch.com/2024/03/11/twitters-former-head-trust-safety-joins-match-group-protect-millions-users-dating-apps/)
+- [Stell helps engineers focus on building, not paperwork](https://techcrunch.com/2024/03/11/stell-raises-new-tranche-of-funding-to-keep-engineers-building-not-filling-out-paperwork/)
+- [China will launch giant, reusable rockets next year to prep for human missions to the moon](https://www.space.com/china-reusable-rockets-human-moon-missions)
+- [Alphabet spin-off SIP launches Verrus, a data center concept built around battery ‘microgrids’](https://techcrunch.com/2024/03/11/sip-verrus-data-center/)
+- [Powerful solar flare eruption from &#39;sneaky&#39; sunspot triggers widespread radio blackouts &lpar;video&rpar;](https://www.space.com/sneaky-sunspot-unleashes-powerful-solar-flare-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
