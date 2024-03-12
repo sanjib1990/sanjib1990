@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Peak XV to launch perpetual fund backed by own partners, other leaders](https://techcrunch.com/2024/03/12/peak-xv-to-launch-perpetual-fund-backed-by-own-partners-other-leaders/)
-- [The boiling surface of giant star Betelgeuse may be creating an illusion](https://www.space.com/betelgeuse-red-supergiant-star-surface-spin-illusion)
-- [Bear Robotics, a robot waiter startup, just picked up $60M from LG](https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Applied Intuition lands $6 billion valuation for AI-powered autonomous vehicle software](https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/)
+- [New startup from Postgres creator puts the database at heart of software stack](https://techcrunch.com/2024/03/12/new-startup-from-postgres-creator-puts-the-database-at-heart-of-software-stack/)
+- [Nanonets gets Accel India’s backing to improve AI-based workflow automation](https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/)
+- [Felicis, Quotient AI and Cellino will dish on TAM at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/12/felicis-quotient-ai-and-cellino-will-dish-on-tam-at-techcrunch-early-stage-2024/)
+- [Pienso builds no-code tools for training AI models](https://techcrunch.com/2024/03/12/pienso-is-building-no-code-tools-for-training-ai-models/)
+- [Generative AI video startup Tavus raises $18M to bring face and voice cloning to any app](https://techcrunch.com/2024/03/12/generative-ai-video-startup-tavus-raises-18m-to-bring-face-and-voice-cloning-to-any-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
