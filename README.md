@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia and China announce plan to build shared nuclear reactor on the moon by 2035, &#39;without humans&#39;](https://www.space.com/russia-china-shared-nuclear-reactor-2035-moon)
+- [Verve Motion’s robot backpack helps workers lighten their load](https://techcrunch.com/2024/03/12/verve-motions-robot-backpack-helps-workers-lighten-their-load/)
+- [OpenMeter makes it easier for companies to track usage-based billing](https://techcrunch.com/2024/03/12/openmeter-makes-it-easier-for-companies-to-track-usage-based-billing/)
 - [Remote driving startup Phantom Auto is shutting down](https://techcrunch.com/2024/03/12/remote-driving-startup-phantom-auto-is-shutting-down/)
 - [Mars attracts: How the Red Planet influences Earth&#39;s climate and seas](https://www.space.com/mars-gravity-influences-earth-climate-seas)
-- [Locus Robotics’ success is a tale of focusing on what works](https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/)
-- [You could win a chance to watch 2024&#39;s total solar eclipse from a jet. Here&#39;s how](https://www.space.com/2024-total-solar-eclipse-jet-jsx-flight)
-- [Watch &#39;horned&#39; comet 12P/Pons-Brooks zoom past the Andromeda Galaxy live today &lpar;video&rpar;](https://www.space.com/watch-comet-12p-pons-brooks-zoom-past-andromeda-galaxy-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
