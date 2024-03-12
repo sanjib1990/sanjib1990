@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New startup from Postgres creator puts the database at heart of software stack](https://techcrunch.com/2024/03/12/new-startup-from-postgres-creator-puts-the-database-at-heart-of-software-stack/)
-- [Nanonets gets Accel India’s backing to improve AI-based workflow automation](https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/)
-- [Felicis, Quotient AI and Cellino will dish on TAM at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/12/felicis-quotient-ai-and-cellino-will-dish-on-tam-at-techcrunch-early-stage-2024/)
-- [Pienso builds no-code tools for training AI models](https://techcrunch.com/2024/03/12/pienso-is-building-no-code-tools-for-training-ai-models/)
-- [Generative AI video startup Tavus raises $18M to bring face and voice cloning to any app](https://techcrunch.com/2024/03/12/generative-ai-video-startup-tavus-raises-18m-to-bring-face-and-voice-cloning-to-any-app/)
+- [Axion Ray’s AI attempts to detect product flaws to prevent recalls](https://techcrunch.com/2024/03/12/axion-rays-ai-attempts-to-detect-product-flaws-to-prevent-recalls/)
+- [Stratolaunch launches 1st rocket-powered flight of hypersonic prototype from world&#39;s largest airplane](https://www.space.com/stratolaunch-first-rocket-powered-hypsersonic-talon-a1-test-flight)
+- [Tierra Biosciences nabs $11 million to create new AI-guided proteins](https://techcrunch.com/2024/03/12/protein-tierra-biosciences-11-4m/)
+- [DoorDash’s new AI-powered ‘SafeChat+’ tool automatically detects verbal abuse](https://techcrunch.com/2024/03/12/doordashs-new-ai-powered-safechat-tool-automatically-detects-verbal-abuse/)
+- [Google confirms it’s restricting Gemini election queries globally](https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
