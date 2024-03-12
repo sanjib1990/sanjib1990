@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [100+ Docker Concepts you Need to Know](https://www.youtube.com/watch?v=rIrNIzy6U_g)
 - [Run your own AI &lpar;but private&rpar;](https://www.youtube.com/watch?v=WxYC9-hBM_g)
 - [Apple drops ban hammer on Epic Games over mean tweet](https://www.youtube.com/watch?v=wbQwD3QS19I)
 - [Nvidia CUDA in 100 Seconds](https://www.youtube.com/watch?v=pPStdjuYzSI)
 - [my phone is always doing WHAT?!?!](https://www.youtube.com/watch?v=pmVr_9tBloE)
-- [Claude 3 just destroyed GPT-4 and Gemini... AGI is near?](https://www.youtube.com/watch?v=m_xoN8KlP3w)
 <!-- YOUTUBE:END -->
 
 ---
