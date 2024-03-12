@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepgram’s Aura gives AI agents a voice](https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/)
-- [James Webb Space Telescope complicates expanding universe paradox by checking Hubble&#39;s work](https://www.space.com/james-webb-space-telescope-hubble-tension-universe-expansion-study)
-- [Polar Signals wants to help companies cut cloud costs with more efficient code](https://techcrunch.com/2024/03/12/polar-signals-wants-to-help-companies-cut-cloud-costs-with-more-efficient-code/)
-- [Bluesky scoops up the developer of popular third-party app, Graysky](https://techcrunch.com/2024/03/12/bluesky-scoops-up-the-developer-of-popular-third-party-app-graysky/)
-- [Solar eclipse viewing through history: A roundup of some of the best photos](https://www.space.com/solar-eclipses-viewing-through-history-photo-gallery)
+- [Chirp alert! 4 days left to save $1,000 on Disrupt super early-bird tickets](https://techcrunch.com/2024/03/12/chirp-alert-4-days-left-to-save-1000-on-disrupt-super-early-bird-tickets/)
+- [Google Play will show AI-powered FAQs and recent YouTube videos for games](https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/)
+- [TechCrunch Minute: Reddit’s IPO success may hinge on AI boom](https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/)
+- [Watch an exclusive clip from the gorgeous new 4K release of &#39;The Abyss&#39; &lpar;video&rpar;](https://www.space.com/the-abyss-4k-remaster-exclusive-clip)
+- [Most subscription mobile apps don’t make money, new report shows](https://techcrunch.com/2024/03/12/most-subscription-mobile-apps-dont-make-money-new-report-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
