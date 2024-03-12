@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepgram’s Aura gives AI agents a voice](https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/)
+- [James Webb Space Telescope complicates expanding universe paradox by checking Hubble&#39;s work](https://www.space.com/james-webb-space-telescope-hubble-tension-universe-expansion-study)
+- [Polar Signals wants to help companies cut cloud costs with more efficient code](https://techcrunch.com/2024/03/12/polar-signals-wants-to-help-companies-cut-cloud-costs-with-more-efficient-code/)
+- [Bluesky scoops up the developer of popular third-party app, Graysky](https://techcrunch.com/2024/03/12/bluesky-scoops-up-the-developer-of-popular-third-party-app-graysky/)
 - [Solar eclipse viewing through history: A roundup of some of the best photos](https://www.space.com/solar-eclipses-viewing-through-history-photo-gallery)
-- [Apple to allow web distribution for iOS apps in latest DMA tweaks](https://techcrunch.com/2024/03/12/apple-to-allow-web-distribution-for-ios-apps-in-latest-dma-tweaks/)
-- [Empathy closes $47M for AI to help with the practical and emotional bereavement process](https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/)
-- [Code suggests that TikTok could be building an app for photos](https://techcrunch.com/2024/03/12/code-suggests-that-tiktok-could-be-building-an-app-for-photos/)
-- [Axion Ray’s AI attempts to detect product flaws to prevent recalls](https://techcrunch.com/2024/03/12/axion-rays-ai-attempts-to-detect-product-flaws-to-prevent-recalls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
