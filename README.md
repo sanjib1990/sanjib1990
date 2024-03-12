@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chirp alert! 4 days left to save $1,000 on Disrupt super early-bird tickets](https://techcrunch.com/2024/03/12/chirp-alert-4-days-left-to-save-1000-on-disrupt-super-early-bird-tickets/)
-- [Google Play will show AI-powered FAQs and recent YouTube videos for games](https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/)
-- [TechCrunch Minute: Reddit’s IPO success may hinge on AI boom](https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/)
-- [Watch an exclusive clip from the gorgeous new 4K release of &#39;The Abyss&#39; &lpar;video&rpar;](https://www.space.com/the-abyss-4k-remaster-exclusive-clip)
-- [Most subscription mobile apps don’t make money, new report shows](https://techcrunch.com/2024/03/12/most-subscription-mobile-apps-dont-make-money-new-report-shows/)
+- [CNN explores NASA&#39;s Columbia shuttle tragedy in riveting docuseries &lpar;trailer&rpar;](https://www.space.com/entertainment/cnn-explores-nasas-columbia-shuttle-tragedy-in-riveting-docuseries-trailer)
+- [TikTok is now letting creators in more countries earn money for their effects](https://techcrunch.com/2024/03/12/tiktok-letting-creators-more-countries-get-rewarded-effects/)
+- [These ISO-certified solar eclipse glasses are currently 40% off](https://www.space.com/solar-eclipse-glasses-40-percent-off-march-2024)
+- [Uber CEO outlines plans for increasing driver EV access, reducing emissions at SXSW](https://techcrunch.com/2024/03/12/uber-ceo-khosrowshahi-reveals-the-three-goals-at-the-top-of-his-to-do-list/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
