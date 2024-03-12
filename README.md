@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar eclipse viewing through history: A roundup of some of the best photos](https://www.space.com/solar-eclipses-viewing-through-history-photo-gallery)
+- [Apple to allow web distribution for iOS apps in latest DMA tweaks](https://techcrunch.com/2024/03/12/apple-to-allow-web-distribution-for-ios-apps-in-latest-dma-tweaks/)
+- [Empathy closes $47M for AI to help with the practical and emotional bereavement process](https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/)
+- [Code suggests that TikTok could be building an app for photos](https://techcrunch.com/2024/03/12/code-suggests-that-tiktok-could-be-building-an-app-for-photos/)
 - [Axion Ray’s AI attempts to detect product flaws to prevent recalls](https://techcrunch.com/2024/03/12/axion-rays-ai-attempts-to-detect-product-flaws-to-prevent-recalls/)
-- [Stratolaunch launches 1st rocket-powered flight of hypersonic prototype from world&#39;s largest airplane](https://www.space.com/stratolaunch-first-rocket-powered-hypsersonic-talon-a1-test-flight)
-- [Tierra Biosciences nabs $11 million to create new AI-guided proteins](https://techcrunch.com/2024/03/12/protein-tierra-biosciences-11-4m/)
-- [DoorDash’s new AI-powered ‘SafeChat+’ tool automatically detects verbal abuse](https://techcrunch.com/2024/03/12/doordashs-new-ai-powered-safechat-tool-automatically-detects-verbal-abuse/)
-- [Google confirms it’s restricting Gemini election queries globally](https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
