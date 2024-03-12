@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia and China announce plan to build shared nuclear reactor on the moon by 2035, &#39;without humans&#39;](https://www.space.com/russia-china-shared-nuclear-reactor-2035-moon)
-- [Verve Motion’s robot backpack helps workers lighten their load](https://techcrunch.com/2024/03/12/verve-motions-robot-backpack-helps-workers-lighten-their-load/)
-- [OpenMeter makes it easier for companies to track usage-based billing](https://techcrunch.com/2024/03/12/openmeter-makes-it-easier-for-companies-to-track-usage-based-billing/)
-- [Remote driving startup Phantom Auto is shutting down](https://techcrunch.com/2024/03/12/remote-driving-startup-phantom-auto-is-shutting-down/)
-- [Mars attracts: How the Red Planet influences Earth&#39;s climate and seas](https://www.space.com/mars-gravity-influences-earth-climate-seas)
+- [Anti-AI sentiment gets big applause at SXSW 2024 as storytellers dub AI cheerleading as ‘terrifying bullsh**’](https://techcrunch.com/2024/03/12/anti-ai-sentiment-gets-big-applause-at-sxsw-2024-as-storytellers-dub-ai-cheerleading-as-terrifying-bullsh/)
+- [A rare nova ignites a &#39;new star&#39; in the sky this year. Here&#39;s how to see it](https://www.space.com/new-star-night-sky-nova-explosion-rare)
+- [Glacier is training AI-powered recycling robots](https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/)
+- [Enterprise SaaS investment makes a comeback — but not where you’d expect](https://techcrunch.com/2024/03/12/enterprise-saas-investment-comeback/)
+- [Nigeria demands Binance disclose top users, executives remain detained](https://techcrunch.com/2024/03/12/nigeria-demands-binance-disclose-top-users-executives-remain-detained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
