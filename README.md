@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [French startup Nijta hopes to protect voice privacy in AI use cases](https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/)
+- [Inclusivity-focused VC Ada Ventures pulls in $80M for second fund](https://techcrunch.com/2024/03/11/inclusivity-focused-vc-ada-ventures-pulls-in-80m-for-second-fund/)
 - [Backed by Leonardo DiCaprio, YC alum SolarMente wants to help democratize solar power in Spain](https://techcrunch.com/2024/03/11/solarmente-solar-energy-spain-dicaprio/)
 - [Zomato’s Blinkit sprints to quick commerce dominance in India](https://techcrunch.com/2024/03/11/zomato-blinkit-sprints-to-quick-commerce-dominance-in-india/)
 - [Watch Rocket Lab launch a commercial radar-imaging satellite on March 12](https://www.space.com/rocket-lab-electron-owl-night-long-launch-march-2024)
-- [The loneliness of the robotic humanoid](https://techcrunch.com/2024/03/11/the-loneliness-of-the-robotic-humanoid/)
-- [Four things we learned when US spy chiefs testified to Congress](https://techcrunch.com/2024/03/11/four-things-we-learned-when-us-spy-chiefs-testified-to-congress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
