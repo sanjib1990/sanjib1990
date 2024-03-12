@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CNN explores NASA&#39;s Columbia shuttle tragedy in riveting docuseries &lpar;trailer&rpar;](https://www.space.com/entertainment/cnn-explores-nasas-columbia-shuttle-tragedy-in-riveting-docuseries-trailer)
-- [TikTok is now letting creators in more countries earn money for their effects](https://techcrunch.com/2024/03/12/tiktok-letting-creators-more-countries-get-rewarded-effects/)
-- [These ISO-certified solar eclipse glasses are currently 40% off](https://www.space.com/solar-eclipse-glasses-40-percent-off-march-2024)
-- [Uber CEO outlines plans for increasing driver EV access, reducing emissions at SXSW](https://techcrunch.com/2024/03/12/uber-ceo-khosrowshahi-reveals-the-three-goals-at-the-top-of-his-to-do-list/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Remote driving startup Phantom Auto is shutting down](https://techcrunch.com/2024/03/12/remote-driving-startup-phantom-auto-is-shutting-down/)
+- [Mars attracts: How the Red Planet influences Earth&#39;s climate and seas](https://www.space.com/mars-gravity-influences-earth-climate-seas)
+- [Locus Robotics’ success is a tale of focusing on what works](https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/)
+- [You could win a chance to watch 2024&#39;s total solar eclipse from a jet. Here&#39;s how](https://www.space.com/2024-total-solar-eclipse-jet-jsx-flight)
+- [Watch &#39;horned&#39; comet 12P/Pons-Brooks zoom past the Andromeda Galaxy live today &lpar;video&rpar;](https://www.space.com/watch-comet-12p-pons-brooks-zoom-past-andromeda-galaxy-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
