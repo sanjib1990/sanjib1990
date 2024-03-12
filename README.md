@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch a commercial radar-imaging satellite on March 12](https://www.space.com/rocket-lab-electron-owl-night-long-launch-march-2024)
 - [The loneliness of the robotic humanoid](https://techcrunch.com/2024/03/11/the-loneliness-of-the-robotic-humanoid/)
 - [Four things we learned when US spy chiefs testified to Congress](https://techcrunch.com/2024/03/11/four-things-we-learned-when-us-spy-chiefs-testified-to-congress/)
 - [Moonbird’s relaxation device takes flight internationally](https://techcrunch.com/2024/03/11/moonbird-us-launch/)
 - [TechCrunch Space: RIP $ASTR](https://techcrunch.com/2024/03/11/techcrunch-space-rip-astr/)
-- [Watch SpaceX&#39;s Crew-7 astronaut mission for NASA return to Earth March 12 in this free livestream](https://www.space.com/nasa-spacex-crew-7-astronauts-return-to-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
