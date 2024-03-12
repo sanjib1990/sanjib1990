@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The boiling surface of giant star Betelgeuse may be creating an illusion](https://www.space.com/betelgeuse-red-supergiant-star-surface-spin-illusion)
+- [Bear Robotics, a robot waiter startup, just picked up $60M from LG](https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Applied Intuition lands $6 billion valuation for AI-powered autonomous vehicle software](https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/)
 - [French startup Nijta hopes to protect voice privacy in AI use cases](https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/)
-- [Inclusivity-focused VC Ada Ventures pulls in $80M for second fund](https://techcrunch.com/2024/03/11/inclusivity-focused-vc-ada-ventures-pulls-in-80m-for-second-fund/)
-- [Backed by Leonardo DiCaprio, YC alum SolarMente wants to help democratize solar power in Spain](https://techcrunch.com/2024/03/11/solarmente-solar-energy-spain-dicaprio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
