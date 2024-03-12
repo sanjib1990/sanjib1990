@@ -97,7 +97,7 @@
 - [Water-themed plaque to fly on Europa Clipper to Jupiter&#39;s icy ocean moon](https://www.space.com/europa-clipper-vault-plate-water-jupiter-moon)
 - [Bluesky launches Ozone, a tool that lets users create and run their own independent moderation services](https://techcrunch.com/2024/03/12/bluesky-launches-ozone-a-tool-that-lets-users-create-and-run-their-own-independent-moderation-services/)
 - [SpaceX stacks Starship ahead of 3rd test flight &lpar;photos&rpar;](https://www.space.com/spacex-stacks-starship-third-test-flight-photos)
-- [Anti-AI sentiment gets big applause at SXSW 2024 as storytellers dub AI cheerleading as ‘terrifying bullsh**’](https://techcrunch.com/2024/03/12/anti-ai-sentiment-gets-big-applause-at-sxsw-2024-as-storytellers-dub-ai-cheerleading-as-terrifying-bullsh/)
+- [Anti-AI sentiment gets big applause at SXSW 2024 as moviemaker dubs AI cheerleading as ‘terrifying bullsh**’](https://techcrunch.com/2024/03/12/anti-ai-sentiment-gets-big-applause-at-sxsw-2024-as-storytellers-dub-ai-cheerleading-as-terrifying-bullsh/)
 - [A rare nova ignites a &#39;new star&#39; in the sky this year. Here&#39;s how to see it](https://www.space.com/new-star-night-sky-nova-explosion-rare)
 <!-- BLOG-POST-LIST:END -->
 
