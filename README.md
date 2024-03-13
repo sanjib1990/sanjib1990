@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Deepmind trains a video game-playing AI to be your co-op companion](https://techcrunch.com/2024/03/13/google-deepmind-trains-a-video-game-playing-ai-to-be-your-co-op-companion/)
-- [How to organize an eclipse event for kids: 7 things to do before, during and after the total solar eclipse 2024](https://www.space.com/solar-eclipse-event-ideas-for-kids)
-- [TikTok ban: What’s going on with the proposed bill in Congress](https://techcrunch.com/2024/03/13/will-congress-ban-tiktok/)
-- [Furno bets that super-efficient, modular kilns will turn the cement industry upside down](https://techcrunch.com/2024/03/13/furno-seed-round/)
-- [Blockchain startup Sei Labs creates an interesting solution to make Ethereum faster](https://techcrunch.com/2024/03/13/blockchain-startup-sei-labs-creates-an-interesting-solution-to-make-ethereum-faster/)
+- [UK chips in $44M for a piece of Europe’s $1.4B pot for semiconductors](https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/)
+- [Zendesk adds flexible AI agent capabilities with Ultimate acquisition](https://techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/)
+- [After a successful moon voyage, NASA&#39;s Artemis 1 Orion spacecraft helps prepares for the next &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-moon-testing-astronauts)
+- [The bill that could ban TikTok passes in the House](https://techcrunch.com/2024/03/13/tiktok-ban-passes-in-house/)
+- [Startups are hiring fewer workers, and paying out less in equity comp](https://techcrunch.com/2024/03/13/startups-are-hiring-fewer-workers-and-paying-out-less-in-equity-comp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
