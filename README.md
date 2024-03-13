@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Paramount Global to sell stake in India’s Viacom18 to Reliance for over $500M](https://techcrunch.com/2024/03/13/paramount-global-viacom18-reliance-over-500-million/)
-- [Reflex Robotics’ wheeled humanoid is here to grab you a snack](https://techcrunch.com/2024/03/13/reflex-robotics-wheeled-humanoid-is-here-to-grab-you-a-snack/)
-- [Solana’s price rises to $160, highest level since January 2022 as memecoin mania rises](https://techcrunch.com/2024/03/13/solanas-price-rises-to-160-highest-level-since-january-2022-as-memecoin-mania-rises/)
-- [What is Elon Musk’s Grok chatbot and how does it work?](https://techcrunch.com/2024/03/13/what-is-elon-musks-grok-chatbot-and-how-does-it-work/)
-- [Dark Energy Camera captures record-breaking image of a dead star&#39;s scattered remains](https://www.space.com/dark-energy-camera-largest-image-vela-supernova-remnant)
+- [Creators are frustrated but energized as TikTok ban gains momentum](https://techcrunch.com/2024/03/13/creators-are-frustrated-but-energized-as-tiktok-ban-gains-momentum/)
+- [FAA grants license for SpaceX&#39;s March 14 Starship launch](https://www.space.com/spacex-starship-third-launch-faa-license)
+- [SpaceX aiming to launch massive Starship for the third time early Thursday](https://techcrunch.com/2024/03/13/spacex-aiming-to-launch-massive-starship-for-the-third-time-early-thursday/)
+- [Cypher’s inventory drone launches from an autonomous mobile robot base](https://techcrunch.com/2024/03/13/cyphers-inventory-drone-launches-from-an-autonomous-mobile-robot-base/)
+- [Canon EOS R8 vs Sony A7C II: Which should you buy?](https://www.space.com/canon-eos-r8-vs-sony-a7c-ii-comparison)
 <!-- BLOG-POST-LIST:END -->
 
 ---
