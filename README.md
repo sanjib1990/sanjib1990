@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain startup Sei Labs creates an interesting solution to make Ethereum faster](https://techcrunch.com/2024/03/13/blockchain-startup-sei-labs-creates-an-interesting-solution-to-make-ethereum-faster/)
+- [See the crescent moon and Jupiter meet up in the night sky March 13](https://www.space.com/jupiter-moon-earthshine-march-2024)
+- [Volley’s AI-enabled ball machine for racquet sports can simulate gameplay](https://techcrunch.com/2024/03/13/volley-ai-powered-tennis-training-machine/)
 - [Journey acquires mental health startup Felt to enhance its employee assistance program](https://techcrunch.com/2024/03/13/journey-acquires-mental-health-startup-felt-to-enhance-its-employee-assistance-program/)
 - [Deal on EU AI Act gets thumbs up from European Parliament](https://techcrunch.com/2024/03/13/deal-on-eu-ai-act-gets-thumbs-up-from-european-parliament/)
-- [Spotify’s Audiobooks will get their own ‘Countdown Pages’ to tease upcoming new releases](https://techcrunch.com/2024/03/13/spotifys-audiobooks-will-get-their-own-countdown-pages-to-tease-upcoming-new-releases/)
-- [As scientists find real exoplanets, sci-fi writers change their vision of alien worlds](https://www.space.com/science-fiction-exoplanets-reflect-real-discoveries)
-- [Pint-size pickup startup Telo Trucks finds unexpected niche in fleet customers](https://techcrunch.com/2024/03/13/telo-trucks-fundraise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
