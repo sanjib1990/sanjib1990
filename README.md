@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Elon Musk’s Grok chatbot and how does it work?](https://techcrunch.com/2024/03/13/what-is-elon-musks-grok-chatbot-and-how-does-it-work/)
 - [Dark Energy Camera captures record-breaking image of a dead star&#39;s scattered remains](https://www.space.com/dark-energy-camera-largest-image-vela-supernova-remnant)
 - [With cycle tracking, Withings considers taking half of the population seriously](https://techcrunch.com/2024/03/13/withings-cycle-tracking/)
 - [Stripe’s growth continues to impress as total payment volume tops $1T](https://techcrunch.com/2024/03/13/stripes-growth-payment-1t-fintech/)
 - [Sky-Watcher 200P EQ5 telescope review](https://www.space.com/sky-watcher-200p-eq5-telescope-review)
-- [Scientists find black hole spaghettifying star remarkably close to Earth](https://www.space.com/black-hole-star-spaghettification-nearest-evidence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
