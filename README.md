@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Journey acquires mental health startup Felt to enhance its employee assistance program](https://techcrunch.com/2024/03/13/journey-acquires-mental-health-startup-felt-to-enhance-its-employee-assistance-program/)
+- [Deal on EU AI Act gets thumbs up from European Parliament](https://techcrunch.com/2024/03/13/deal-on-eu-ai-act-gets-thumbs-up-from-european-parliament/)
+- [Spotify’s Audiobooks will get their own ‘Countdown Pages’ to tease upcoming new releases](https://techcrunch.com/2024/03/13/spotifys-audiobooks-will-get-their-own-countdown-pages-to-tease-upcoming-new-releases/)
+- [As scientists find real exoplanets, sci-fi writers change their vision of alien worlds](https://www.space.com/science-fiction-exoplanets-reflect-real-discoveries)
 - [Pint-size pickup startup Telo Trucks finds unexpected niche in fleet customers](https://techcrunch.com/2024/03/13/telo-trucks-fundraise/)
-- [Luminary Cloud’s simulator taps GPUs to help speed up product design](https://techcrunch.com/2024/03/13/luminary-clouds-simulator-taps-gpus-to-help-speed-up-product-design/)
-- [Dev-focused note-taking startup Stashpad launches Google Docs alternative you can use without any login](https://techcrunch.com/2024/03/13/dev-focused-note-taking-startup-stashpad-launches-google-docs-alternative-you-can-use-without-any-login/)
-- [What time is SpaceX&#39;s 3rd Starship launch test on March 14?](https://www.space.com/spacex-starship-flight-3-launch-what-time)
-- [Splashdown practice for Artemis 2 moon mission &#39;an incredible experience,&#39; new NASA astronaut says &lpar;exclusive&rpar;](https://www.space.com/artemis-2-moon-mission-splashdown-practice-christina-birch-astronaut-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
