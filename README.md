@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paramount Global to sell stake in India’s Viacom18 to Reliance for over $500M](https://techcrunch.com/2024/03/13/paramount-global-viacom18-reliance-over-500-million/)
+- [Reflex Robotics’ wheeled humanoid is here to grab you a snack](https://techcrunch.com/2024/03/13/reflex-robotics-wheeled-humanoid-is-here-to-grab-you-a-snack/)
+- [Solana’s price rises to $160, highest level since January 2022 as memecoin mania rises](https://techcrunch.com/2024/03/13/solanas-price-rises-to-160-highest-level-since-january-2022-as-memecoin-mania-rises/)
 - [What is Elon Musk’s Grok chatbot and how does it work?](https://techcrunch.com/2024/03/13/what-is-elon-musks-grok-chatbot-and-how-does-it-work/)
 - [Dark Energy Camera captures record-breaking image of a dead star&#39;s scattered remains](https://www.space.com/dark-energy-camera-largest-image-vela-supernova-remnant)
-- [With cycle tracking, Withings considers taking half of the population seriously](https://techcrunch.com/2024/03/13/withings-cycle-tracking/)
-- [Stripe’s growth continues to impress as total payment volume tops $1T](https://techcrunch.com/2024/03/13/stripes-growth-payment-1t-fintech/)
-- [Sky-Watcher 200P EQ5 telescope review](https://www.space.com/sky-watcher-200p-eq5-telescope-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
