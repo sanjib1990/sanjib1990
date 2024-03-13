@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK chips in $44M for a piece of Europe’s $1.4B pot for semiconductors](https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/)
-- [Zendesk adds flexible AI agent capabilities with Ultimate acquisition](https://techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/)
-- [After a successful moon voyage, NASA&#39;s Artemis 1 Orion spacecraft helps prepares for the next &lpar;video&rpar;](https://www.space.com/artemis-1-orion-spacecraft-moon-testing-astronauts)
-- [The bill that could ban TikTok passes in the House](https://techcrunch.com/2024/03/13/tiktok-ban-passes-in-house/)
-- [Startups are hiring fewer workers, and paying out less in equity comp](https://techcrunch.com/2024/03/13/startups-are-hiring-fewer-workers-and-paying-out-less-in-equity-comp/)
+- [TechCrunch Minute: The TikTok ban, or at least the effort to force its sale, is gaining steam](https://techcrunch.com/2024/03/13/techcrunch-minute-the-tiktok-ban-or-at-least-the-effort-to-force-its-sale-is-gaining-steam/)
+- [IO River lets you mix and match CDNs without the hassle](https://techcrunch.com/2024/03/13/io-river-lets-you-mix-and-match-cdns-without-the-hassle/)
+- [Hurry! Only 72 hours left to pocket $1,000 in savings for Disrupt 2024](https://techcrunch.com/2024/03/13/hurry-up-only-72-hours-left-to-pocket-1000-in-savings-for-disrupt-2024/)
+- [Deep-space astronomy sensor peers into the heart of an atom](https://www.space.com/space-exploration/tech/deep-space-astronomy-sensor-peers-into-the-heart-of-an-atom)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
