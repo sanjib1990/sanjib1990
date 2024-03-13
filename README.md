@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find black hole spaghettifying star remarkably close to Earth](https://www.space.com/black-hole-star-spaghettification-nearest-evidence)
+- [Giant Mars volcano discovered &#39;hiding&#39; in plain sight](https://www.space.com/mars-giant-volcano-hiding-plain-sight)
+- [Don Lemon says Elon Musk has canceled his deal for a show on X](https://techcrunch.com/2024/03/13/don-lemon-says-elon-musk-has-canceled-his-show-on-x/)
 - [Orbio Earth finds methane leaks that could cost oil companies $9 billion this year](https://techcrunch.com/2024/03/13/orbio-earth-seed-round/)
-- [See Mercury at its best in the night sky this month](https://www.space.com/mercury-at-its-best-march-2024)
-- [SpaceX Falcon 9 rocket to launch Starlink satellites on record-tying 19th mission tonight](https://www.space.com/spacex-starlink-launch-group-6-44)
-- [&#39;Constellation&#39; season 1 episode 6 review: Haunted houses and new perspectives](https://www.space.com/constellation-season-1-episode-6-review)
-- [TechCrunch Minute: The TikTok ban, or at least the effort to force its sale, is gaining steam](https://techcrunch.com/2024/03/13/techcrunch-minute-the-tiktok-ban-or-at-least-the-effort-to-force-its-sale-is-gaining-steam/)
+- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
