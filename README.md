@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify adds music videos in some countries](https://techcrunch.com/2024/03/13/spotify-adds-music-videos-in-some-countries/)
 - [Ontario Teachers mints new unicorn in Indian fintech Perfios](https://techcrunch.com/2024/03/12/ontario-teachers-mints-new-unicorn-in-indian-fintech-perfios/)
 - [Kolet makes travel eSIM cards easier to navigate](https://techcrunch.com/2024/03/12/kolet-makes-travel-esim-cards-easier-to-navigate/)
 - [Water-themed plaque to fly on Europa Clipper to Jupiter&#39;s icy ocean moon](https://www.space.com/europa-clipper-vault-plate-water-jupiter-moon)
 - [Bluesky launches Ozone, a tool that lets users create and run their own independent moderation services](https://techcrunch.com/2024/03/12/bluesky-launches-ozone-a-tool-that-lets-users-create-and-run-their-own-independent-moderation-services/)
-- [SpaceX stacks Starship ahead of 3rd test flight &lpar;photos&rpar;](https://www.space.com/spacex-stacks-starship-third-test-flight-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
