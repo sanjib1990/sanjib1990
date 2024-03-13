@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pint-size pickup startup Telo Trucks finds unexpected niche in fleet customers](https://techcrunch.com/2024/03/13/telo-trucks-fundraise/)
+- [Luminary Cloud’s simulator taps GPUs to help speed up product design](https://techcrunch.com/2024/03/13/luminary-clouds-simulator-taps-gpus-to-help-speed-up-product-design/)
+- [Dev-focused note-taking startup Stashpad launches Google Docs alternative you can use without any login](https://techcrunch.com/2024/03/13/dev-focused-note-taking-startup-stashpad-launches-google-docs-alternative-you-can-use-without-any-login/)
 - [What time is SpaceX&#39;s 3rd Starship launch test on March 14?](https://www.space.com/spacex-starship-flight-3-launch-what-time)
 - [Splashdown practice for Artemis 2 moon mission &#39;an incredible experience,&#39; new NASA astronaut says &lpar;exclusive&rpar;](https://www.space.com/artemis-2-moon-mission-splashdown-practice-christina-birch-astronaut-interview)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Spotify adds music videos in some countries](https://techcrunch.com/2024/03/13/spotify-adds-music-videos-in-some-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
