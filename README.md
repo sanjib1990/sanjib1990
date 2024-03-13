@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Deepmind trains a video game-playing AI to be your co-op companion](https://techcrunch.com/2024/03/13/google-deepmind-trains-a-video-game-playing-ai-to-be-your-co-op-companion/)
+- [How to organize an eclipse event for kids: 7 things to do before, during and after the total solar eclipse 2024](https://www.space.com/solar-eclipse-event-ideas-for-kids)
+- [TikTok ban: What’s going on with the proposed bill in Congress](https://techcrunch.com/2024/03/13/will-congress-ban-tiktok/)
+- [Furno bets that super-efficient, modular kilns will turn the cement industry upside down](https://techcrunch.com/2024/03/13/furno-seed-round/)
 - [Blockchain startup Sei Labs creates an interesting solution to make Ethereum faster](https://techcrunch.com/2024/03/13/blockchain-startup-sei-labs-creates-an-interesting-solution-to-make-ethereum-faster/)
-- [See the crescent moon and Jupiter meet up in the night sky March 13](https://www.space.com/jupiter-moon-earthshine-march-2024)
-- [Volley’s AI-enabled ball machine for racquet sports can simulate gameplay](https://techcrunch.com/2024/03/13/volley-ai-powered-tennis-training-machine/)
-- [Journey acquires mental health startup Felt to enhance its employee assistance program](https://techcrunch.com/2024/03/13/journey-acquires-mental-health-startup-felt-to-enhance-its-employee-assistance-program/)
-- [Deal on EU AI Act gets thumbs up from European Parliament](https://techcrunch.com/2024/03/13/deal-on-eu-ai-act-gets-thumbs-up-from-european-parliament/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
