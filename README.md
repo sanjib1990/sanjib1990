@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aethero wants to become the space industry’s Intel or Nvidia](https://techcrunch.com/2024/03/14/aethero-wants-to-become-the-space-industrys-intel-or-nvidia/)
+- [The moon visits the Seven Sisters of the Pleiades tonight](https://www.space.com/moon-pleiades-march-14-2024)
+- [Former web3 gaming founders raise $2.5M for their NFT marketplace to retain users even when there ‘isn’t money to be made’](https://techcrunch.com/2024/03/14/even-with-nft-sales-down-pallet-exchange-raised-2-5m-with-a-plan-to-make-trading-more-social/)
+- [New Lego Technic Mars Crew Exploration Rover is sci-fi but built with NASA&#39;s help](https://www.space.com/lego-technic-mars-crew-exploration-rover-nasa-advice)
 - [If there&#39;s life on Europa, solar sails could help us find it](https://www.space.com/solar-sails-hunt-alien-life-europa-enceladus)
-- [Lightspeed’s Alex Kayyal will talk Series A pitfalls at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/14/lightspeeds-alex-kayyal-will-talk-series-a-pitfalls-at-techcrunch-early-stage-2024/)
-- [AliExpress is first online marketplace to face DSA investigation by EU](https://techcrunch.com/2024/03/14/aliexpress-dsa-probe/)
-- [Proton Mail desktop app officially launches, but remains for premium subscribers only](https://techcrunch.com/2024/03/14/proton-mail-desktop-mac-windows-linux-premium-paying-users/)
-- [Can you solve NASA&#39;s Pi Day 2024 challenge?](https://www.space.com/nasa-pi-day-challenge-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
