@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proton Mail desktop app officially launches, but remains for premium subscribers only](https://techcrunch.com/2024/03/14/proton-mail-desktop-mac-windows-linux-premium-paying-users/)
 - [Can you solve NASA&#39;s Pi Day challenge?](https://www.space.com/nasa-pi-day-challenge-2024)
 - [Lago, a Paris-based open source billing platform, banks $22M](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
 - [What African B2B e-commerce startups can learn from OmniRetail’s profitable run](https://techcrunch.com/2024/03/14/what-african-b2b-e-commerce-startups-can-learn-from-omniretails-profitable-run/)
 - [Nigeria’s Youverify raises $2.5M to enhance anti-money laundering compliance](https://techcrunch.com/2024/03/13/nigerias-youverify-raises-2-5m-to-enhance-anti-money-laundering-compliance/)
-- [Amazon now lets sellers create listings through a URL by using AI](https://techcrunch.com/2024/03/13/amazon-now-lets-sellers-create-listings-through-a-url-by-using-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
