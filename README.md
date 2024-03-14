@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Behold, TruckBot](https://techcrunch.com/2024/03/13/behold-truckbot/)
 - [OpenAI’s deals with publishers could spell trouble for rivals](https://techcrunch.com/2024/03/13/are-openais-deals-with-publishers-edging-out-the-competition/)
 - [Creators are frustrated but energized as TikTok ban gains momentum](https://techcrunch.com/2024/03/13/creators-are-frustrated-but-energized-as-tiktok-ban-gains-momentum/)
 - [FAA grants license for SpaceX&#39;s March 14 Starship launch](https://www.space.com/spacex-starship-third-launch-faa-license)
 - [SpaceX aiming to launch massive Starship for the third time early Thursday](https://techcrunch.com/2024/03/13/spacex-aiming-to-launch-massive-starship-for-the-third-time-early-thursday/)
-- [Cypher’s inventory drone launches from an autonomous mobile robot base](https://techcrunch.com/2024/03/13/cyphers-inventory-drone-launches-from-an-autonomous-mobile-robot-base/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
