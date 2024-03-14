@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aethero wants to become the space industry’s Intel or Nvidia](https://techcrunch.com/2024/03/14/aethero-wants-to-become-the-space-industrys-intel-or-nvidia/)
-- [The moon visits the Seven Sisters of the Pleiades tonight](https://www.space.com/moon-pleiades-march-14-2024)
-- [Former web3 gaming founders raise $2.5M for their NFT marketplace to retain users even when there ‘isn’t money to be made’](https://techcrunch.com/2024/03/14/even-with-nft-sales-down-pallet-exchange-raised-2-5m-with-a-plan-to-make-trading-more-social/)
-- [New Lego Technic Mars Crew Exploration Rover is sci-fi but built with NASA&#39;s help](https://www.space.com/lego-technic-mars-crew-exploration-rover-nasa-advice)
-- [If there&#39;s life on Europa, solar sails could help us find it](https://www.space.com/solar-sails-hunt-alien-life-europa-enceladus)
+- [&#39;Like planning a giant wedding:&#39; How NASA astronaut Anil Menon helped SpaceX with 1st U.S. splashdown in 45 years &lpar;exclusive&rpar;](https://www.space.com/spacex-dragon-1st-us-splashdown-50-years-nasa-astronaut-anil-menon)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [SpaceX launches giant Starship rocket into space on epic 3rd test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-third-test-flight-launch)
+- [NASA finds clue while solving Voyager 1&#39;s communication breakdown case](https://www.space.com/voyager-1-communications-update-fds-memory-issue)
+- [India’s Paytm secures third-party app license ahead of bank unit curb](https://techcrunch.com/2024/03/14/india-payments-authority-grants-third-party-app-license-to-paytm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
