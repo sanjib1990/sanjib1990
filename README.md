@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bitcoin hits new high, Solana price jumps as memecoins mania rises and Worldcoin faces heat in Spain](https://techcrunch.com/2024/03/14/bitcoin-hits-new-high-solana-price-jumps-as-memecoins-mania-rises-and-worldcoin-faces-heat-in-spain/)
-- [James Webb Space Telescope spots the icy building blocks of life swirling around infant stars](https://www.space.com/james-webb-space-telescope-building-blocks-life-icy-molecules-infant-stars)
-- [Get ready: The Starships are coming](https://www.space.com/spacex-starship-launch-plans-2024)
-- [Humanoid robots face continued skepticism at Modex](https://techcrunch.com/2024/03/14/humanoid-robots-face-continued-skepticism-at-modex/)
-- [Microbiome startups respond as industry is accused of ‘questionable practices’](https://techcrunch.com/2024/03/14/microbiome-startups-respond-as-industry-is-accused-of-questionable-practices/)
+- [IceCube might&#39;ve caught 7 exotic &#39;ghost particles&#39; as they pierced through Earth](https://www.space.com/icecube-neutrinos-south-pole-cosmic-messengers)
+- [‘AI-powered’ ad ignites creator controversy on Instagram](https://techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/)
+- [Blockchain tech could be the answer to uncovering deepfakes and validating content](https://techcrunch.com/2024/03/14/blockchain-tech-could-be-the-answer-to-uncovering-deepfakes-and-validating-content/)
+- [The controversial bill that could ban TikTok faces a rocky road in the Senate](https://techcrunch.com/2024/03/14/tiktok-ban-senate/)
+- [Relive SpaceX Starship&#39;s 3rd flight test in breathtaking photos](https://www.space.com/spacex-starship-test-flight-3-photos-march-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
