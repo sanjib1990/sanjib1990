@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IceCube might&#39;ve caught 7 exotic &#39;ghost particles&#39; as they pierced through Earth](https://www.space.com/icecube-neutrinos-south-pole-cosmic-messengers)
+- [Watch SpaceX&#39;s Starship reenter Earth&#39;s atmosphere in this fiery video](https://www.space.com/spacex-starship-third-test-flight-reentry-video)
+- [Google I/O set for May 14, 15](https://techcrunch.com/2024/03/14/google-i-o-set-for-may-14-15/)
+- [TikTok ban: How Congress could force ByteDance to sell or push the app out of the U.S.](https://techcrunch.com/2024/03/14/will-congress-ban-tiktok/)
+- [Scientists may have just caught 7 exotic &#39;ghost particles&#39; as they pierced through Earth](https://www.space.com/icecube-neutrinos-south-pole-cosmic-messengers)
 - [‘AI-powered’ ad ignites creator controversy on Instagram](https://techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/)
-- [Blockchain tech could be the answer to uncovering deepfakes and validating content](https://techcrunch.com/2024/03/14/blockchain-tech-could-be-the-answer-to-uncovering-deepfakes-and-validating-content/)
-- [The controversial bill that could ban TikTok faces a rocky road in the Senate](https://techcrunch.com/2024/03/14/tiktok-ban-senate/)
-- [Relive SpaceX Starship&#39;s 3rd flight test in breathtaking photos](https://www.space.com/spacex-starship-test-flight-3-photos-march-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
