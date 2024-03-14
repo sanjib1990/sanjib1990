@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Like planning a giant wedding:&#39; How NASA astronaut Anil Menon helped SpaceX with 1st U.S. splashdown in 45 years &lpar;exclusive&rpar;](https://www.space.com/spacex-dragon-1st-us-splashdown-50-years-nasa-astronaut-anil-menon)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [SpaceX launches giant Starship rocket into space on epic 3rd test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-third-test-flight-launch)
-- [NASA finds clue while solving Voyager 1&#39;s communication breakdown case](https://www.space.com/voyager-1-communications-update-fds-memory-issue)
-- [India’s Paytm secures third-party app license ahead of bank unit curb](https://techcrunch.com/2024/03/14/india-payments-authority-grants-third-party-app-license-to-paytm/)
+- [ShopMy lands $18.5M to help influencers earn more money from promoting products](https://techcrunch.com/2024/03/14/shopmy-influencer-marketing-platform-lands-18-5-million-funding-round/)
+- [Fluent Metal takes a stab at the metal 3D printing market](https://techcrunch.com/2024/03/14/fluent-metal-takes-a-stab-at-the-metal-3d-printing-market/)
+- [Ted Schlein’s 2-year-old Ballistic Ventures has already raised a second $360 million fund](https://techcrunch.com/2024/03/14/ted-schlein-ballistic-ventures-venture-capital-fundraising/)
+- [NASA enlists citizen scientists to help solve solar mysteries during the total solar eclipse 2024](https://www.space.com/eclipse-megamovie-2024-nasa-project-citizen-science-solve-solar-mysteries-during-solar-eclipse-2024)
+- [WarpStream is building a cheaper, cloud-native data streaming service](https://techcrunch.com/2024/03/14/warpstream-is-building-a-cheaper-cloud-native-streaming-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
