@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-docking spacecraft could be built with AI system similar to ChatGPT](https://www.space.com/self-driving-docking-chatgpt-artificial-intelligence)
-- [After AWS and Google, Microsoft says it’s removing Azure ‘egress’ data transfer fees — but with caveats](https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/)
-- [VCs will get liquidity in 2024 from the secondary market, not IPOs](https://techcrunch.com/2024/03/14/vcs-liquidity-secondary-markets-ipos/)
-- [TikTok fined in Italy after ‘French scar’ challenge led to consumer safety probe](https://techcrunch.com/2024/03/14/tiktok-italy-french-scar-fine/)
-- [This battery startup says it’s found a way to make cheap LFP batteries without sacrificing range](https://techcrunch.com/2024/03/14/coreshell-metallurgical-silicon/)
+- [Bitcoin hits new high, Solana price jumps as memecoins mania rises and Worldcoin faces heat in Spain](https://techcrunch.com/2024/03/14/bitcoin-hits-new-high-solana-price-jumps-as-memecoins-mania-rises-and-worldcoin-faces-heat-in-spain/)
+- [James Webb Space Telescope spots the icy building blocks of life swirling around infant stars](https://www.space.com/james-webb-space-telescope-building-blocks-life-icy-molecules-infant-stars)
+- [Get ready: The Starships are coming](https://www.space.com/spacex-starship-launch-plans-2024)
+- [Humanoid robots face continued skepticism at Modex](https://techcrunch.com/2024/03/14/humanoid-robots-face-continued-skepticism-at-modex/)
+- [Microbiome startups respond as industry is accused of ‘questionable practices’](https://techcrunch.com/2024/03/14/microbiome-startups-respond-as-industry-is-accused-of-questionable-practices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
