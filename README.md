@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you solve NASA&#39;s Pi Day challenge?](https://www.space.com/nasa-pi-day-challenge-2024)
+- [Lago, a Paris-based open source billing platform, banks $22M](https://techcrunch.com/2024/03/14/lago-a-paris-based-open-source-billing-platform-banks-22m/)
+- [What African B2B e-commerce startups can learn from OmniRetail’s profitable run](https://techcrunch.com/2024/03/14/what-african-b2b-e-commerce-startups-can-learn-from-omniretails-profitable-run/)
 - [Nigeria’s Youverify raises $2.5M to enhance anti-money laundering compliance](https://techcrunch.com/2024/03/13/nigerias-youverify-raises-2-5m-to-enhance-anti-money-laundering-compliance/)
 - [Amazon now lets sellers create listings through a URL by using AI](https://techcrunch.com/2024/03/13/amazon-now-lets-sellers-create-listings-through-a-url-by-using-ai/)
-- [As European dynamism gathers momentum, Elaia and partners double down with new deep tech fund](https://techcrunch.com/2024/03/13/elaia-deep-tech-european-dynamism/)
-- [A bug in an Irish government website that exposed COVID-19 vaccination records took two years to publicly disclose](https://techcrunch.com/2024/03/13/security-flaw-irish-government-hse-covid-19/)
-- [Behold, TruckBot](https://techcrunch.com/2024/03/13/behold-truckbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
