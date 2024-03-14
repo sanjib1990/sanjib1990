@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-docking spacecraft could be built with AI system similar to ChatGPT](https://www.space.com/self-driving-docking-chatgpt-artificial-intelligence)
+- [After AWS and Google, Microsoft says it’s removing Azure ‘egress’ data transfer fees — but with caveats](https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/)
+- [VCs will get liquidity in 2024 from the secondary market, not IPOs](https://techcrunch.com/2024/03/14/vcs-liquidity-secondary-markets-ipos/)
 - [TikTok fined in Italy after ‘French scar’ challenge led to consumer safety probe](https://techcrunch.com/2024/03/14/tiktok-italy-french-scar-fine/)
 - [This battery startup says it’s found a way to make cheap LFP batteries without sacrificing range](https://techcrunch.com/2024/03/14/coreshell-metallurgical-silicon/)
-- [Google’s Safe Browsing protection in Chrome goes real-time](https://techcrunch.com/2024/03/14/googles-safe-browsing-protection-in-chrome-goes-real-time/)
-- [Trio of mini moon rovers pass key tests ahead of upcoming lunar launch &lpar;photos&rpar;](https://www.space.com/mini-moon-rovers-cadre-pass-tests-intuitive-machines-mission)
-- [48-hour dash: Race against the clock to save $1,000 on Disrupt 2024](https://techcrunch.com/2024/03/14/48-hour-dash-race-against-the-clock-to-save-1000-on-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
