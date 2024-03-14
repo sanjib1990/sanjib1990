@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ShopMy lands $18.5M to help influencers earn more money from promoting products](https://techcrunch.com/2024/03/14/shopmy-influencer-marketing-platform-lands-18-5-million-funding-round/)
-- [Fluent Metal takes a stab at the metal 3D printing market](https://techcrunch.com/2024/03/14/fluent-metal-takes-a-stab-at-the-metal-3d-printing-market/)
-- [Ted Schlein’s 2-year-old Ballistic Ventures has already raised a second $360 million fund](https://techcrunch.com/2024/03/14/ted-schlein-ballistic-ventures-venture-capital-fundraising/)
-- [NASA enlists citizen scientists to help solve solar mysteries during the total solar eclipse 2024](https://www.space.com/eclipse-megamovie-2024-nasa-project-citizen-science-solve-solar-mysteries-during-solar-eclipse-2024)
-- [WarpStream is building a cheaper, cloud-native data streaming service](https://techcrunch.com/2024/03/14/warpstream-is-building-a-cheaper-cloud-native-streaming-service/)
+- [Google’s Safe Browsing protection in Chrome goes real-time](https://techcrunch.com/2024/03/14/googles-safe-browsing-protection-in-chrome-goes-real-time/)
+- [Trio of mini moon rovers pass key tests ahead of upcoming lunar launch &lpar;photos&rpar;](https://www.space.com/mini-moon-rovers-cadre-pass-tests-intuitive-machines-mission)
+- [48-hour dash: Race against the clock to save $1,000 on Disrupt 2024](https://techcrunch.com/2024/03/14/48-hour-dash-race-against-the-clock-to-save-1000-on-disrupt-2024/)
+- [TechCrunch Minute: Why little EVs from Rivian and Telo could thaw the EV winter](https://techcrunch.com/2024/03/14/techcrunch-minute-why-little-evs-from-rivian-and-telo-could-thaw-the-ev-winter/)
+- [Reddit introduces a new ad format that looks similar to posts made by users](https://techcrunch.com/2024/03/14/reddit-introduces-a-new-ad-format-that-looks-similar-to-posts-made-by-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
