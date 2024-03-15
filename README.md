@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: A TikTok ban is looking more and more like impending reality](https://techcrunch.com/2024/03/15/techcrunch-minute-a-tiktok-ban-is-looking-more-and-more-like-impending-reality/)
+- [Pitch Deck Teardown: SuperScale’s $5.4M Series A deck](https://techcrunch.com/2024/03/15/sample-series-a-pitch-deck-superscale/)
+- [Today! Final hours to save on Disrupt 2024 passes](https://techcrunch.com/2024/03/15/today-final-hours-to-save-on-disrupt-2024-passes/)
+- [Watch Jennifer Lopez pilot a space mech in 1st teaser for Netflix sci-fi film &#39;Atlas&#39; &lpar;video&rpar;](https://www.space.com/netflix-atlas-sci-fi-film-jennifer-lopez-trailer)
 - [TipTop, the new app from Postmates’ founder and CEO, now lets you buy devices with trade-ins and cash](https://techcrunch.com/2024/03/15/tiptop-shop-device-trade-in/)
-- [NASA beefing up SLS moon rocket for its  Artemis program](https://www.space.com/nasa-space-launch-system-rocket-upgrade-engines-storage)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [How to avoid all the IPO work without annoying investors](https://techcrunch.com/2024/03/15/how-to-avoid-ipo-work-without-annoying-investors/)
-- [April 8&#39;s total solar eclipse will make baseball history. Here&#39;s how](https://www.space.com/total-solar-eclipse-2024-mlb-baseball-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
