@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The New World on Mars&#39; offers a Red Planet settlement guide &lpar;exclusive&rpar;](https://www.space.com/new-world-on-mars-robert-zubrin-interview)
+- [India orders antitrust probe into Google’s app store billing practices](https://techcrunch.com/2024/03/15/india-orders-antitrust-probe-into-google-app-store-practices/)
+- [These 61 robotics companies are hiring](https://techcrunch.com/2024/03/15/these-61-robotics-companies-are-hiring/)
 - [Colliding neutron stars hint at new physics that could explain dark matter](https://www.space.com/neutron-stars-collision-dark-matter-standard-model)
 - [Scrap coercive ‘privacy fee’, MEPs urge Meta’s Nick Clegg in open letter](https://techcrunch.com/2024/03/15/meps-letter-pay-or-okay/)
-- [Speck of light glimpsed by Hubble is truly an enormous old galaxy, James Webb Space Telescope reveals](https://www.space.com/james-webb-space-telescope-hubble-speck-light-gz9p3)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Mercedes begins piloting Apptronik humanoid robots](https://techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
