@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pornhub says, ‘Bad Texas! No smut for you!’](https://techcrunch.com/2024/03/15/pornhub-says-bad-texas-no-smut-for-you/)
+- [Debris from burning satellites could be affecting Earth&#39;s magnetic field](https://www.space.com/satellites-re-entering-magnetosphere-effects-study)
+- [Scientists reveal never-before-seen map of the Milky Way&#39;s central engine &lpar;image&rpar;](https://www.space.com/milky-way-heart-central-engine-stunning-map)
 - [Lordstown Motors comes out of bankruptcy with a new name to fight Foxconn](https://techcrunch.com/2024/03/15/lordstown-motors-nu-ride-chapter-11-foxconn/)
 - [Hyundai-backed Motional buys time with a bridge loan](https://techcrunch.com/2024/03/15/hyundai-backed-motional-buys-time-with-a-bridge-loan/)
-- [How to verify a data breach](https://techcrunch.com/2024/03/15/how-to-verify-a-data-breach/)
-- [NASA celebrates SpaceX Starship&#39;s 3rd test flight, but more work needed ahead of Artemis moon missions](https://www.space.com/nasa-spacex-starship-milestone-spaceflight-fuel-transfer-artemis-moon-missions)
-- [TechCrunch Minute: A TikTok ban is looking more and more like impending reality](https://techcrunch.com/2024/03/15/techcrunch-minute-a-tiktok-ban-is-looking-more-and-more-like-impending-reality/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
