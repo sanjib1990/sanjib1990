@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speck of light glimpsed by Hubble is truly an enormous old galaxy, James Webb Space Telescope reveals](https://www.space.com/james-webb-space-telescope-hubble-speck-light-gz9p3)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Mercedes begins piloting Apptronik humanoid robots](https://techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/)
+- [India cuts import taxes on EVs in win for Tesla’s entry plans](https://techcrunch.com/2024/03/15/india-cuts-import-taxes-on-evs-in-win-for-tesla-entry-plans/)
 - [Abu Dhabi’s ADIA explores investment in India’s Pocket FM, sources say](https://techcrunch.com/2024/03/15/abu-dhabi-adia-explores-investment-in-india-pocket-fm-sources-say/)
-- [Apple acquires AI startup specializing in overlooking manufacturing components](https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/)
-- [Paytm secures license it needed to survive](https://techcrunch.com/2024/03/14/india-payments-authority-grants-third-party-app-license-to-paytm/)
-- [Pornhub disables access in Texas due to age verification law](https://techcrunch.com/2024/03/14/pornhub-disables-access-in-texas-due-to-age-verification-law/)
-- [Zscaler buys Avalor to bring more AI into its security tools](https://techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
