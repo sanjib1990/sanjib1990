@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [April 8&#39;s solar eclipse will make baseball history. Here&#39;s how](https://www.space.com/total-solar-eclipse-2024-mlb-baseball-games)
-- [&#39;The New World on Mars&#39; offers a Red Planet settlement guide &lpar;exclusive&rpar;](https://www.space.com/new-world-on-mars-robert-zubrin-interview)
-- [India orders antitrust probe into Google’s app store billing practices](https://techcrunch.com/2024/03/15/india-orders-antitrust-probe-into-google-app-store-practices/)
-- [These 61 robotics companies are hiring](https://techcrunch.com/2024/03/15/these-61-robotics-companies-are-hiring/)
-- [Colliding neutron stars hint at new physics that could explain dark matter](https://www.space.com/neutron-stars-collision-dark-matter-standard-model)
+- [TipTop, the new app from Postmates’ founder and CEO, now lets you buy devices with trade-ins and cash](https://techcrunch.com/2024/03/15/tiptop-shop-device-trade-in/)
+- [NASA beefing up SLS moon rocket for its  Artemis program](https://www.space.com/nasa-space-launch-system-rocket-upgrade-engines-storage)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [How to avoid all the IPO work without annoying investors](https://techcrunch.com/2024/03/15/how-to-avoid-ipo-work-without-annoying-investors/)
+- [April 8&#39;s total solar eclipse will make baseball history. Here&#39;s how](https://www.space.com/total-solar-eclipse-2024-mlb-baseball-games)
 <!-- BLOG-POST-LIST:END -->
 
 ---
