@@ -84,9 +84,9 @@
 <!-- YOUTUBE:START -->
 - [Robots are rising up faster than expected… Figure 01 to enter labor force](https://www.youtube.com/watch?v=2hlD7dWp09M)
 - [3D Gaussian Splatting! - Computerphile](https://www.youtube.com/watch?v=VkIJbpdTujE)
-- [The #MIT24 Hour Challenge is happening now!](https://www.youtube.com/watch?v=2YIvM1FQ8Gs)
 - [AI just officially took our jobs… I hate you Devin](https://www.youtube.com/watch?v=AgyJv2Qelwk)
 - [100+ Docker Concepts you Need to Know](https://www.youtube.com/watch?v=rIrNIzy6U_g)
+- [Run your own AI &lpar;but private&rpar;](https://www.youtube.com/watch?v=WxYC9-hBM_g)
 <!-- YOUTUBE:END -->
 
 ---
