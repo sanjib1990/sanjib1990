@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA celebrates SpaceX Starship&#39;s 3rd test flight, but more work needed ahead of Artemis moon missions](https://www.space.com/nasa-spacex-starship-milestone-spaceflight-fuel-transfer-artemis-moon-missions)
 - [TechCrunch Minute: A TikTok ban is looking more and more like impending reality](https://techcrunch.com/2024/03/15/techcrunch-minute-a-tiktok-ban-is-looking-more-and-more-like-impending-reality/)
 - [Pitch Deck Teardown: SuperScale’s $5.4M Series A deck](https://techcrunch.com/2024/03/15/sample-series-a-pitch-deck-superscale/)
 - [Today! Final hours to save on Disrupt 2024 passes](https://techcrunch.com/2024/03/15/today-final-hours-to-save-on-disrupt-2024-passes/)
 - [Watch Jennifer Lopez pilot a space mech in 1st teaser for Netflix sci-fi film &#39;Atlas&#39; &lpar;video&rpar;](https://www.space.com/netflix-atlas-sci-fi-film-jennifer-lopez-trailer)
-- [TipTop, the new app from Postmates’ founder and CEO, now lets you buy devices with trade-ins and cash](https://techcrunch.com/2024/03/15/tiptop-shop-device-trade-in/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
