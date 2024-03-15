@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [April 8&#39;s solar eclipse will make baseball history. Here&#39;s how](https://www.space.com/total-solar-eclipse-2024-mlb-baseball-games)
 - [&#39;The New World on Mars&#39; offers a Red Planet settlement guide &lpar;exclusive&rpar;](https://www.space.com/new-world-on-mars-robert-zubrin-interview)
 - [India orders antitrust probe into Google’s app store billing practices](https://techcrunch.com/2024/03/15/india-orders-antitrust-probe-into-google-app-store-practices/)
 - [These 61 robotics companies are hiring](https://techcrunch.com/2024/03/15/these-61-robotics-companies-are-hiring/)
 - [Colliding neutron stars hint at new physics that could explain dark matter](https://www.space.com/neutron-stars-collision-dark-matter-standard-model)
-- [Scrap coercive ‘privacy fee’, MEPs urge Meta’s Nick Clegg in open letter](https://techcrunch.com/2024/03/15/meps-letter-pay-or-okay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
