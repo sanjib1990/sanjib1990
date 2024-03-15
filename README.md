@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope spies stormy weather and a shrinking Great Red Spot on Jupiter &lpar;video&rpar;](https://www.space.com/jupiter-hubble-storms-great-red-spot-shrinking)
 - [Artemis 2 moon astronauts celebrate engine test for future lunar missions &lpar;video&rpar;](https://www.space.com/artemis-2-moon-astronauts-rs-25-engine-test-nasa)
 - [India drops plan to require approval for AI model launches](https://techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/)
 - [FAA to oversee investigation of SpaceX Starship&#39;s 3rd test flight](https://www.space.com/spacex-starship-third-test-flight-faa-investigation)
 - [Leaked SpaceX documents show company forbids employees to sell stock if it deems they’ve misbehaved](https://techcrunch.com/2024/03/15/spacex-employee-stock-sales-forbidden/)
-- [Pornhub says, ‘Bad Texas! No smut for you!’](https://techcrunch.com/2024/03/15/pornhub-says-bad-texas-no-smut-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
