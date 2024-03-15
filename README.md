@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gumroad no longer allows most NSFW art, leaving its adult creators panicked](https://techcrunch.com/2024/03/15/gumroad-no-longer-allows-most-nsfw-art-leaving-its-adult-creators-panicked/)
 - [Hubble Telescope spies stormy weather and a shrinking Great Red Spot on Jupiter &lpar;video&rpar;](https://www.space.com/jupiter-hubble-storms-great-red-spot-shrinking)
 - [Starbucks ditches its Odyssey NFT program](https://techcrunch.com/2024/03/15/starbucks-odysseys-nfts-brand-loyalty/)
 - [Artemis 2 moon astronauts celebrate engine test for future lunar missions &lpar;video&rpar;](https://www.space.com/artemis-2-moon-astronauts-rs-25-engine-test-nasa)
 - [India drops plan to require approval for AI model launches](https://techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/)
-- [FAA to oversee investigation of SpaceX Starship&#39;s 3rd test flight](https://www.space.com/spacex-starship-third-test-flight-faa-investigation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
