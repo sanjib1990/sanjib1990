@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 moon astronauts celebrate engine test for future lunar missions &lpar;video&rpar;](https://www.space.com/artemis-2-moon-astronauts-rs-25-engine-test-nasa)
+- [India drops plan to require approval for AI model launches](https://techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/)
+- [FAA to oversee investigation of SpaceX Starship&#39;s 3rd test flight](https://www.space.com/spacex-starship-third-test-flight-faa-investigation)
+- [Leaked SpaceX documents show company forbids employees to sell stock if it deems they’ve misbehaved](https://techcrunch.com/2024/03/15/spacex-employee-stock-sales-forbidden/)
 - [Pornhub says, ‘Bad Texas! No smut for you!’](https://techcrunch.com/2024/03/15/pornhub-says-bad-texas-no-smut-for-you/)
-- [Debris from burning satellites could be affecting Earth&#39;s magnetic field](https://www.space.com/satellites-re-entering-magnetosphere-effects-study)
-- [Scientists reveal never-before-seen map of the Milky Way&#39;s central engine &lpar;image&rpar;](https://www.space.com/milky-way-heart-central-engine-stunning-map)
-- [Lordstown Motors comes out of bankruptcy with a new name to fight Foxconn](https://techcrunch.com/2024/03/15/lordstown-motors-nu-ride-chapter-11-foxconn/)
-- [Hyundai-backed Motional buys time with a bridge loan](https://techcrunch.com/2024/03/15/hyundai-backed-motional-buys-time-with-a-bridge-loan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
