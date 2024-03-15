@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paytm secures license it needed to survive](https://techcrunch.com/2024/03/14/india-payments-authority-grants-third-party-app-license-to-paytm/)
 - [Pornhub disables access in Texas due to age verification law](https://techcrunch.com/2024/03/14/pornhub-disables-access-in-texas-due-to-age-verification-law/)
 - [Zscaler buys Avalor to bring more AI into its security tools](https://techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/)
 - [Watch SpaceX&#39;s Starship reenter Earth&#39;s atmosphere in this fiery video](https://www.space.com/spacex-starship-third-test-flight-reentry-video)
 - [Google I/O set for May 14, 15](https://techcrunch.com/2024/03/14/google-i-o-set-for-may-14-15/)
-- [TikTok ban: How Congress could force ByteDance to sell or push the app out of the US](https://techcrunch.com/2024/03/14/will-congress-ban-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
