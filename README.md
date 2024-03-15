@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lordstown Motors comes out of bankruptcy with a new name to fight Foxconn](https://techcrunch.com/2024/03/15/lordstown-motors-nu-ride-chapter-11-foxconn/)
+- [Hyundai-backed Motional buys time with a bridge loan](https://techcrunch.com/2024/03/15/hyundai-backed-motional-buys-time-with-a-bridge-loan/)
+- [How to verify a data breach](https://techcrunch.com/2024/03/15/how-to-verify-a-data-breach/)
 - [NASA celebrates SpaceX Starship&#39;s 3rd test flight, but more work needed ahead of Artemis moon missions](https://www.space.com/nasa-spacex-starship-milestone-spaceflight-fuel-transfer-artemis-moon-missions)
 - [TechCrunch Minute: A TikTok ban is looking more and more like impending reality](https://techcrunch.com/2024/03/15/techcrunch-minute-a-tiktok-ban-is-looking-more-and-more-like-impending-reality/)
-- [Pitch Deck Teardown: SuperScale’s $5.4M Series A deck](https://techcrunch.com/2024/03/15/sample-series-a-pitch-deck-superscale/)
-- [Today! Final hours to save on Disrupt 2024 passes](https://techcrunch.com/2024/03/15/today-final-hours-to-save-on-disrupt-2024-passes/)
-- [Watch Jennifer Lopez pilot a space mech in 1st teaser for Netflix sci-fi film &#39;Atlas&#39; &lpar;video&rpar;](https://www.space.com/netflix-atlas-sci-fi-film-jennifer-lopez-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
