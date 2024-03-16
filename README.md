@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar eclipse 2024 weather prospects: Q&amp;A with an expert](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a)
 - [New NASA astronauts celebrate moon missions, private space stations as they get ready for liftoff &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-class-23-artemis-moon-commercial-space-stations)
 - [Gumroad no longer allows most NSFW art, leaving its adult creators panicked](https://techcrunch.com/2024/03/15/gumroad-no-longer-allows-most-nsfw-art-leaving-its-adult-creators-panicked/)
 - [Hubble Telescope spies stormy weather and a shrinking Great Red Spot on Jupiter &lpar;video&rpar;](https://www.space.com/jupiter-hubble-storms-great-red-spot-shrinking)
 - [Starbucks ditches its Odyssey NFT program](https://techcrunch.com/2024/03/15/starbucks-odysseys-nfts-brand-loyalty/)
-- [Artemis 2 moon astronauts celebrate engine test for future lunar missions &lpar;video&rpar;](https://www.space.com/artemis-2-moon-astronauts-rs-25-engine-test-nasa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
