@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn plans to add gaming to its platform](https://techcrunch.com/2024/03/16/linkedin-wants-to-add-gaming-to-its-platform/)
 - [Aaron Levie leads Box into its third era focused on workflow automation and AI](https://techcrunch.com/2024/03/16/aaron-levie-box-workflow-automation-ai/)
 - [Mercury slammed by gargantuan eruption from the sun&#39;s hidden far side, possibly triggering &#39;X-ray auroras&#39;](https://www.space.com/mercury-slammed-by-gargantuan-eruption-from-the-suns-hidden-far-side-possibly-triggering-x-ray-auroras)
 - [This Week In Space podcast: Episode 102 — A New Volcano on Mars!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-102-new-volcano-on-mars)
 - [AI is keeping GitHub chief legal officer Shelley McKinley busy](https://techcrunch.com/2024/03/16/ai-is-keeping-github-chief-legal-officer-shelley-mckinley-busy/)
-- [This Week in AI: Midjourney bets it can beat the copyright police](https://techcrunch.com/2024/03/16/this-week-in-ai-midjourney-bets-it-can-beat-the-copyright-police/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
