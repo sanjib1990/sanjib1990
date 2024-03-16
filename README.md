@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI is keeping GitHub chief legal officer Shelley McKinley busy](https://techcrunch.com/2024/03/16/ai-is-keeping-github-chief-legal-officer-shelley-mckinley-busy/)
+- [This Week in AI: Midjourney bets it can beat the copyright police](https://techcrunch.com/2024/03/16/this-week-in-ai-midjourney-bets-it-can-beat-the-copyright-police/)
+- [&#39;3 Body Problem:&#39; How Netflix&#39;s sci-fi saga employs the famous Wow! SETI signal](https://www.space.com/3-body-problem-seti-wow-signal)
 - [Solar eclipse 2024 weather prospects: Q&amp;A with an expert](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a)
 - [New NASA astronauts celebrate moon missions, private space stations as they get ready for liftoff &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-class-23-artemis-moon-commercial-space-stations)
-- [Gumroad no longer allows most NSFW art, leaving its adult creators panicked](https://techcrunch.com/2024/03/15/gumroad-no-longer-allows-most-nsfw-art-leaving-its-adult-creators-panicked/)
-- [Hubble Telescope spies stormy weather and a shrinking Great Red Spot on Jupiter &lpar;video&rpar;](https://www.space.com/jupiter-hubble-storms-great-red-spot-shrinking)
-- [Starbucks ditches its Odyssey NFT program](https://techcrunch.com/2024/03/15/starbucks-odysseys-nfts-brand-loyalty/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
