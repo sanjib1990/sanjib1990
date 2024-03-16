@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mercury slammed by gargantuan eruption from the sun&#39;s hidden far side, possibly triggering &#39;X-ray auroras&#39;](https://www.space.com/mercury-slammed-by-gargantuan-eruption-from-the-suns-hidden-far-side-possibly-triggering-x-ray-auroras)
+- [This Week In Space podcast: Episode 102 — A New Volcano on Mars!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-102-new-volcano-on-mars)
 - [AI is keeping GitHub chief legal officer Shelley McKinley busy](https://techcrunch.com/2024/03/16/ai-is-keeping-github-chief-legal-officer-shelley-mckinley-busy/)
 - [This Week in AI: Midjourney bets it can beat the copyright police](https://techcrunch.com/2024/03/16/this-week-in-ai-midjourney-bets-it-can-beat-the-copyright-police/)
 - [&#39;3 Body Problem:&#39; How Netflix&#39;s sci-fi saga employs the famous Wow! SETI signal](https://www.space.com/3-body-problem-seti-wow-signal)
-- [Solar eclipse 2024 weather prospects: Q&amp;A with an expert](https://www.space.com/total-solar-eclipse-weather-prospects-how-experts-make-predictions-q-and-a)
-- [New NASA astronauts celebrate moon missions, private space stations as they get ready for liftoff &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-class-23-artemis-moon-commercial-space-stations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
