@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VC Arjun Sethi talks a big game about selling his company-picking strategies to other investors; he says they’re buying it](https://techcrunch.com/2024/03/17/vc-arjun-sethi-talks-a-big-game-about-selling-his-company-picking-strategies-to-other-investors-he-says-theyre-buying-it/)
 - [Sony FE 16-35mm f/2.8 GM II vs Canon RF 15-35mm f/2.8 L IS USM](https://www.space.com/sony-fe-16-35mm-f28-gm-ii-vs-canon-rf-15-35mm-f28-l-is-usm-lens-comparison)
 - [Griffin Bank has a license to thrill](https://techcrunch.com/2024/03/17/2679969/)
 - [Sleeping subduction zone could awaken and form a new &#39;Ring of Fire&#39; that swallows the Atlantic Ocean](https://www.space.com/earth-sleeping-subduction-zone-new-ring-of-fire-atlantic-ocean)
 - [Lego Creator 3-in-1 Space Astronaut review](https://www.space.com/lego-creator-astronaut-31152-review)
-- [Who are the Witches of Dathomir in &#39;Star Wars&#39;?](https://www.space.com/star-wars-who-are-the-witches-of-dathomir)
 <!-- BLOG-POST-LIST:END -->
 
 ---
