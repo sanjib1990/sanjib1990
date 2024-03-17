@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s &#39;Snap It!&#39; computer game teaches kids about solar eclipses](https://www.space.com/nasa-computer-game-snap-it-teaches-kids-about-solar-eclipses)
 - [SpaceX doc leaks, TikTok ban gains steam, and Grok to go open-source](https://techcrunch.com/2024/03/16/rivian-debuts-a-treehouse-phantom-auto-shuts-down-and-deepfakes-go-royal/)
 - [LinkedIn plans to add gaming to its platform](https://techcrunch.com/2024/03/16/linkedin-wants-to-add-gaming-to-its-platform/)
 - [Aaron Levie leads Box into its third era focused on workflow automation and AI](https://techcrunch.com/2024/03/16/aaron-levie-box-workflow-automation-ai/)
 - [Mercury slammed by gargantuan eruption from the sun&#39;s hidden far side, possibly triggering &#39;X-ray auroras&#39;](https://www.space.com/mercury-slammed-by-gargantuan-eruption-from-the-suns-hidden-far-side-possibly-triggering-x-ray-auroras)
-- [This Week In Space podcast: Episode 102 — A New Volcano on Mars!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-102-new-volcano-on-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
