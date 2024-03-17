@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Griffin Bank has a license to thrill](https://techcrunch.com/2024/03/17/2679969/)
 - [Sleeping subduction zone could awaken and form a new &#39;Ring of Fire&#39; that swallows the Atlantic Ocean](https://www.space.com/earth-sleeping-subduction-zone-new-ring-of-fire-atlantic-ocean)
 - [Lego Creator 3-in-1 Space Astronaut review](https://www.space.com/lego-creator-astronaut-31152-review)
 - [Who are the Witches of Dathomir in &#39;Star Wars&#39;?](https://www.space.com/star-wars-who-are-the-witches-of-dathomir)
 - [NASA&#39;s &#39;Snap It!&#39; computer game teaches kids about solar eclipses](https://www.space.com/nasa-computer-game-snap-it-teaches-kids-about-solar-eclipses)
-- [SpaceX doc leaks, TikTok ban gains steam, and Grok to go open-source](https://techcrunch.com/2024/03/16/rivian-debuts-a-treehouse-phantom-auto-shuts-down-and-deepfakes-go-royal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
