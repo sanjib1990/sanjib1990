@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube now requires creators to disclose when realistic content was made with AI](https://techcrunch.com/2024/03/18/youtube-requires-creatorsdisclose-realistic-content-made-ai/)
-- [SpaceX to launch 30th cargo mission to the ISS for NASA this week](https://www.space.com/spacex-dragon-cargo-mission-crs-30-this-week)
-- [App analytics firm Sensor Tower acquires rival Data.ai](https://techcrunch.com/2024/03/18/app-analytics-firm-sensor-tower-acquires-rival-data-ai/)
-- [Late-stage VCs may be preventing their startups from going public in 2024](https://techcrunch.com/2024/03/18/startup-founders-vcs-preferred-rigths-blocking-ipo/)
-- [LinkedIn wants a piece of Wordle’s success](https://techcrunch.com/2024/03/18/linkedin-wants-a-piece-of-wordles-success/)
+- [TechCrunch Minute: Why the AI world is gathering at Nvidia’s GTC 2024 event this week](https://techcrunch.com/2024/03/18/techcrunch-minute-why-the-ai-world-is-gathering-at-nvidias-gtc-2024-event-this-week/)
+- [Mysterious &#39;unparticles&#39; may be pushing the universe apart, new theoretical study suggests](https://www.space.com/universe-unparticles-matter-expansion)
+- [Roblox’s new AI features reduce the time it takes to create avatars and 3D models](https://techcrunch.com/2024/03/18/robloxs-ai-features-create-avatars-3d-models/)
+- [Call for speakers: Present at TechCrunch Disrupt 2024](https://techcrunch.com/2024/03/18/call-for-speakers-present-at-techcrunch-disrupt-2024/)
+- [MrBeast and Prime Video announce ‘largest game show in history’](https://techcrunch.com/2024/03/18/mrbeast-and-prime-video-announce-largest-game-show-in-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
