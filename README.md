@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian starts offering adapters to access Tesla’s Supercharger network](https://techcrunch.com/2024/03/18/rivian-nacs-access-tesla-supercharger-adapter/)
+- [Thomas Stafford, NASA astronaut who led Apollo-Soyuz joint mission, dies at 93](https://www.space.com/nasa-astronaut-thomas-stafford-obituary)
 - [TechCrunch Minute: Why the AI world is gathering at Nvidia’s GTC 2024 event this week](https://techcrunch.com/2024/03/18/techcrunch-minute-why-the-ai-world-is-gathering-at-nvidias-gtc-2024-event-this-week/)
 - [Mysterious &#39;unparticles&#39; may be pushing the universe apart, new theoretical study suggests](https://www.space.com/universe-unparticles-matter-expansion)
 - [Roblox’s new AI features reduce the time it takes to create avatars and 3D models](https://techcrunch.com/2024/03/18/robloxs-ai-features-create-avatars-3d-models/)
-- [Call for speakers: Present at TechCrunch Disrupt 2024](https://techcrunch.com/2024/03/18/call-for-speakers-present-at-techcrunch-disrupt-2024/)
-- [MrBeast and Prime Video announce ‘largest game show in history’](https://techcrunch.com/2024/03/18/mrbeast-and-prime-video-announce-largest-game-show-in-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
