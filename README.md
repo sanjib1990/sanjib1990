@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quilt is building AI assistants for solutions teams](https://techcrunch.com/2024/03/18/quilt-is-building-ai-assistants-for-solutions-teams/)
+- [Why I&#39;m going to Rochester NY to see my first-ever total solar eclipse](https://www.space.com/visit-rochester-roc-the-eclipse-festival-total-solar-eclipse-2024)
+- [Fisker pauses production with just $121 million in the bank](https://techcrunch.com/2024/03/18/fisker-production-pause-going-concern-cash-raise/)
 - [How long would it take to walk around Mars?](https://www.space.com/how-long-would-it-take-to-walk-around-mars)
 - [Tech giant Fujitsu says it was hacked, warns of data breach](https://techcrunch.com/2024/03/18/fujitsu-tech-giant-hacked-customer-data-breach/)
-- [Rebecca Whiting will break down SAFEs, notes, and series seed financing at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/18/rebecca-whiting-will-break-down-safes-notes-and-series-seed-financing-at-techcrunch-early-stage-2024/)
-- [India&#39;s Chandrayaan-3 lunar lander barely kicked up any moon dust. Here&#39;s why that matters](https://www.space.com/india-chandrayaan-3-lunar-lander-moon-dust)
-- [Want to see an NHS doctor? Prepare to cough up your data first.](https://techcrunch.com/2024/03/18/want-to-see-an-nhs-doctor-prepare-to-cough-up-your-data-first/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
