@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC-backed digital bank Onyx Private tells customers it’s closing their accounts](https://techcrunch.com/2024/03/18/y-combinator-digital-bank-onyx-private-shuts-customer-accounts/)
+- [Scientists may finally know why this infamous supernova wears a &#39;string of pearls&#39;](https://www.space.com/supernova-1987a-airplane-string-hydrogen-pearls)
+- [SpaceX&#39;s Starship will go interstellar someday, Elon Musk says](https://www.space.com/spacex-starship-go-interstellar-elon-musk-says)
 - [Rivian starts offering adapters to access Tesla’s Supercharger network](https://techcrunch.com/2024/03/18/rivian-nacs-access-tesla-supercharger-adapter/)
-- [Thomas Stafford, NASA astronaut who led Apollo-Soyuz joint mission, dies at 93](https://www.space.com/nasa-astronaut-thomas-stafford-obituary)
-- [TechCrunch Minute: Why the AI world is gathering at Nvidia’s GTC 2024 event this week](https://techcrunch.com/2024/03/18/techcrunch-minute-why-the-ai-world-is-gathering-at-nvidias-gtc-2024-event-this-week/)
-- [Mysterious &#39;unparticles&#39; may be pushing the universe apart, new theoretical study suggests](https://www.space.com/universe-unparticles-matter-expansion)
-- [Roblox’s new AI features reduce the time it takes to create avatars and 3D models](https://techcrunch.com/2024/03/18/robloxs-ai-features-create-avatars-3d-models/)
+- [App analytics firm Sensor Tower acquires rival Data.ai](https://techcrunch.com/2024/03/18/app-analytics-firm-sensor-tower-acquires-rival-data-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
