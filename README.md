@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech giant Fujitsu says it was hacked, warns of data breach](https://techcrunch.com/2024/03/18/fujitsu-tech-giant-hacked-customer-data-breach/)
+- [Rebecca Whiting will break down SAFEs, notes, and series seed financing at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/18/rebecca-whiting-will-break-down-safes-notes-and-series-seed-financing-at-techcrunch-early-stage-2024/)
+- [India&#39;s Chandrayaan-3 lunar lander barely kicked up any moon dust. Here&#39;s why that matters](https://www.space.com/india-chandrayaan-3-lunar-lander-moon-dust)
+- [Want to see an NHS doctor? Prepare to cough up your data first.](https://techcrunch.com/2024/03/18/want-to-see-an-nhs-doctor-prepare-to-cough-up-your-data-first/)
 - [The James Webb Space Telescope is digging deep into the mysteries of gas planets](https://www.space.com/james-webb-space-telescope-mind-bending-mysteries-gas-planets)
-- [Nigerian fintech Zone raises $8.5M seed to scale its decentralized payment infrastructure](https://techcrunch.com/2024/03/18/nigerian-fintech-zone-raises-8-5m-to-scale-its-decentralized-payment-infrastructure/)
-- [Apple is reportedly exploring a partnership with Google for Gemini-powered feature on iPhones](https://techcrunch.com/2024/03/17/apple-is-reportedly-exploring-a-partnership-with-google-for-gemini-powered-feature-on-iphones/)
-- [Poseidona is removing invasive algae from oceans and turning it into food](https://techcrunch.com/2024/03/17/poseidona-seaweed-protein-food/)
-- [xAI open-sources base model of Grok, but without any training code](https://techcrunch.com/2024/03/17/xai-open-sources-base-model-of-grok-but-without-any-training-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
