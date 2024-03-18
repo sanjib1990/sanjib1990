@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quilt is building AI assistants for solutions teams](https://techcrunch.com/2024/03/18/quilt-is-building-ai-assistants-for-solutions-teams/)
-- [Why I&#39;m going to Rochester NY to see my first-ever total solar eclipse](https://www.space.com/visit-rochester-roc-the-eclipse-festival-total-solar-eclipse-2024)
-- [Fisker pauses production with just $121 million in the bank](https://techcrunch.com/2024/03/18/fisker-production-pause-going-concern-cash-raise/)
-- [How long would it take to walk around Mars?](https://www.space.com/how-long-would-it-take-to-walk-around-mars)
-- [Tech giant Fujitsu says it was hacked, warns of data breach](https://techcrunch.com/2024/03/18/fujitsu-tech-giant-hacked-customer-data-breach/)
+- [YouTube now requires creators to disclose when realistic content was made with AI](https://techcrunch.com/2024/03/18/youtube-requires-creatorsdisclose-realistic-content-made-ai/)
+- [SpaceX to launch 30th cargo mission to the ISS for NASA this week](https://www.space.com/spacex-dragon-cargo-mission-crs-30-this-week)
+- [App analytics firm Sensor Tower acquires rival Data.ai](https://techcrunch.com/2024/03/18/app-analytics-firm-sensor-tower-acquires-rival-data-ai/)
+- [Late-stage VCs may be preventing their startups from going public in 2024](https://techcrunch.com/2024/03/18/startup-founders-vcs-preferred-rigths-blocking-ipo/)
+- [LinkedIn wants a piece of Wordle’s success](https://techcrunch.com/2024/03/18/linkedin-wants-a-piece-of-wordles-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
