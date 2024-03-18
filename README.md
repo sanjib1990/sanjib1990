@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Poseidona is removing invasive algae from oceans and turning it into food](https://techcrunch.com/2024/03/17/poseidona-seaweed-protein-food/)
 - [xAI open-sources base model of Grok, but without any training code](https://techcrunch.com/2024/03/17/xai-open-sources-base-model-of-grok-but-without-any-training-code/)
 - [Another autonomous vehicle startup shutters, Zoox expands driverless testing and investor fervor for AI escalates](https://techcrunch.com/2024/03/17/another-autonomous-vehicle-startup-shutters-zoox-expands-driverless-testing-and-investor-fervor-for-ai-escalates/)
 - [VC Arjun Sethi talks a big game about selling his company-picking strategies to other investors; he says they’re buying it](https://techcrunch.com/2024/03/17/vc-arjun-sethi-talks-a-big-game-about-selling-his-company-picking-strategies-to-other-investors-he-says-theyre-buying-it/)
 - [Sony FE 16-35mm f/2.8 GM II vs Canon RF 15-35mm f/2.8 L IS USM](https://www.space.com/sony-fe-16-35mm-f28-gm-ii-vs-canon-rf-15-35mm-f28-l-is-usm-lens-comparison)
-- [Griffin Bank has a license to thrill](https://techcrunch.com/2024/03/17/2679969/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
