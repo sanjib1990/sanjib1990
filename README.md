@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Elon Musk’s AI company ‘open-sourcing’ Grok matters – and why it doesn’t](https://techcrunch.com/2024/03/18/why-elon-musks-ai-company-open-sourcing-grok-matters-and-why-it-doesnt/)
+- [Bad news for life on Mars? Red Planet&#39;s wet epoch may have been shorter than we thought](https://www.space.com/mars-wet-epoch-possibly-shorter-than-thought)
+- [Why Elon Musk’s AI company ‘open-sourcing’ Grok matters — and why it doesn’t](https://techcrunch.com/2024/03/18/why-elon-musks-ai-company-open-sourcing-grok-matters-and-why-it-doesnt/)
 - [New NASA astronauts &#39;thrilled&#39; to see 1st Boeing Starliner crew launch in May &lpar;exclusive&rpar;](https://www.space.com/boeing-starliner-first-crewed-mission-nasa-astronauts-thrilled)
 - [Telegram raises $330M fresh capital through bond sales](https://techcrunch.com/2024/03/18/telegram-raises-330-million-fresh-capital-through-bond-sales/)
 - [YC-backed digital bank Onyx Private tells customers it’s closing their accounts](https://techcrunch.com/2024/03/18/y-combinator-digital-bank-onyx-private-shuts-customer-accounts/)
-- [Scientists may finally know why this infamous supernova wears a &#39;string of pearls&#39;](https://www.space.com/supernova-1987a-airplane-string-hydrogen-pearls)
 <!-- BLOG-POST-LIST:END -->
 
 ---
