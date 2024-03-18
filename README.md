@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mintlify says customer GitHub tokens exposed in data breach](https://techcrunch.com/2024/03/18/mintlify-customer-github-tokens-data-breach/)
+- [Marvel Comics&#39; new series celebrates Boba Fett&#39;s Mandalorian dad](https://www.space.com/star-wars-jango-fett-marvel-comics-series)
 - [Nvidia launches a set of microservices for optimized inferencing](https://techcrunch.com/2024/03/18/nvidia-launches-a-set-of-microservices-for-optimized-inferencing/)
 - [Nvidia enlists humanoid robotics’ biggest names for new AI platform, GR00T](https://techcrunch.com/2024/03/18/nvidia-enlists-humanoid-robotics-biggest-names-for-new-ai-platform-gr00t/)
 - [TechCrunch Space: $paceX](https://techcrunch.com/2024/03/18/techcrunch-space-pacex/)
-- [Track the April 8 total solar eclipse with SkySafari, now 80% off](https://www.space.com/skysafari-basic-app-sale-solar-eclipse-2024)
-- [X users are still complaining about arbitrary shadowbanning](https://techcrunch.com/2024/03/18/x-shadowban-complaints/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
