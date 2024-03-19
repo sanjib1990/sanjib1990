@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia’s keynote at GTC held some surprises](https://techcrunch.com/2024/03/18/nvidia-keynote-gtc-2024/)
 - [SpaceX launching 22 Starlink satellites from California tonight](https://www.space.com/spacex-starlink-launch-group-7-16)
 - [LACERA decreases venture capital allocation range, but experts say it doesn’t signal a trend](https://techcrunch.com/2024/03/18/lacera-decreases-venture-capital-allocation-range-but-experts-say-it-doesnt-signal-a-trend/)
 - [Mintlify says customer GitHub tokens exposed in data breach](https://techcrunch.com/2024/03/18/mintlify-customer-github-tokens-data-breach/)
 - [Marvel Comics&#39; new series celebrates Boba Fett&#39;s Mandalorian dad](https://www.space.com/star-wars-jango-fett-marvel-comics-series)
-- [Nvidia launches NIM to make it smoother to deploy AI models into production](https://techcrunch.com/2024/03/18/nvidia-launches-a-set-of-microservices-for-optimized-inferencing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
