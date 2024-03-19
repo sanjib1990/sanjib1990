@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrobotic readies next lunar lander following failed Peregrine moon mission](https://www.space.com/astrobotic-next-lunar-lander-failed-peregrine-mission)
 - [Linktree is now allowing users to highlight links better with featured layout function](https://techcrunch.com/2024/03/19/linktree-is-now-allowing-users-to-highlight-links-better-with-featured-layout-function/)
 - [How Honda hedged its bet on the hydrogen fuel cell-powered CR-V e:FCEV](https://techcrunch.com/2024/03/19/how-honda-hedged-its-bet-on-the-hydrogen-fuel-cell-powered-cr-v-efcev/)
 - [What is emergent gravity, and will it rewrite physics?](https://www.space.com/what-is-emergent-gravity)
 - [Ethos Fund closes first fund to invest in founders bridging U.S. and Vietnamese tech ecosystems](https://techcrunch.com/2024/03/19/ethos-fund-vietnam-us-tech/)
-- [TigerEye founders build on prior startup experience to create business simulation tool](https://techcrunch.com/2024/03/19/tigereye-founders-build-on-prior-startup-experience-to-create-business-simulation-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
