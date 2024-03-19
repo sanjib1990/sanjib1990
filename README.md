@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After raising $1.3B, Inflection got eaten alive by its biggest investor, Microsoft](https://techcrunch.com/2024/03/19/after-raising-1-3b-inflection-got-eaten-alive-by-its-biggest-investor-microsoft/)
+- [Citizen scientists and AI take a cosmic cruise to discover 430,000 new galaxies](https://www.space.com/citizen-scientists-artificial-intelligence-galaxy-discovery)
+- [Nvidia and Qualcomm join Open Source Robotics Alliance to support ROS development](https://techcrunch.com/2024/03/19/nvidia-and-qualcomm-join-open-source-robotics-alliance-to-support-ros-development/)
 - [Gitai’s autonomous robot installs panel outside the ISS, showing orbital repairs in action](https://techcrunch.com/2024/03/19/gitais-autonomous-robot-installs-panel-outside-the-iss-showing-orbital-repairs-in-action/)
 - [Microsoft hires Inflection founders to run new consumer AI division](https://techcrunch.com/2024/03/19/microsoft-hires-inflection-founders-to-run-new-consumer-ai-division/)
-- [3D map of over 1 million black holes traces where the universe&#39;s dark matter lies](https://www.space.com/quasar-3d-map-dark-matter-distribution)
-- [The dark side of the Force rises in 1st &#39;Star Wars: The Acolyte&#39; trailer &lpar;video&rpar;](https://www.space.com/star-wars-the-acolyte-1st-trailer)
-- [How crypto exchange Backpack climbed its way to success after its major investor FTX died](https://techcrunch.com/2024/03/19/how-crypto-exchange-backpack-climbed-its-way-to-success-after-its-major-investor-ftx-died/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
