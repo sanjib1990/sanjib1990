@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nala set out to offer remittance services, it’s building a B2B payment platform too](https://techcrunch.com/2024/03/19/nala-builds-a-b2b-payment-platform-too/)
-- [Condor Array Telescope confirms Chinese astrology records of &#39;new star&#39; spotted in 77 BCE](https://www.space.com/condor-array-telescope-new-star-ancient-china)
-- [Astrobotic readies next lunar lander following failed Peregrine moon mission](https://www.space.com/astrobotic-next-lunar-lander-failed-peregrine-mission)
-- [Linktree is now allowing users to highlight links better with featured layout function](https://techcrunch.com/2024/03/19/linktree-is-now-allowing-users-to-highlight-links-better-with-featured-layout-function/)
-- [How Honda hedged its bet on the hydrogen fuel cell-powered CR-V e:FCEV](https://techcrunch.com/2024/03/19/how-honda-hedged-its-bet-on-the-hydrogen-fuel-cell-powered-cr-v-efcev/)
+- [TechCrunch Minute: EV makers are struggling, and Fisker’s in a particularly precarious position](https://techcrunch.com/2024/03/19/techcrunch-minute-ev-makers-are-struggling-and-fiskers-in-a-particularly-precarious-position/)
+- [Ramp CEO says the fintech startup is just scratching the surface](https://techcrunch.com/2024/03/19/ramp-ceo-says-the-fintech-startup-is-just-scratching-the-surface/)
+- [How to view solar eclipse 2024 with items from around the home](https://www.space.com/view-total-solar-eclipse-2024-items-around-the-home)
+- [Save 10% off all Unistellar products: Ideal savings ahead of the solar eclipse](https://www.space.com/unistellar-site-wide-10-percent-discount-march-2024)
+- [Facebook is trying to make ‘poking’ cool again](https://techcrunch.com/2024/03/19/facebook-make-poking-cool-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
