@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nala set out to offer remittance services, it’s building a B2B payment platform too](https://techcrunch.com/2024/03/19/nala-builds-a-b2b-payment-platform-too/)
+- [Condor Array Telescope confirms Chinese astrology records of &#39;new star&#39; spotted in 77 BCE](https://www.space.com/condor-array-telescope-new-star-ancient-china)
 - [Astrobotic readies next lunar lander following failed Peregrine moon mission](https://www.space.com/astrobotic-next-lunar-lander-failed-peregrine-mission)
 - [Linktree is now allowing users to highlight links better with featured layout function](https://techcrunch.com/2024/03/19/linktree-is-now-allowing-users-to-highlight-links-better-with-featured-layout-function/)
 - [How Honda hedged its bet on the hydrogen fuel cell-powered CR-V e:FCEV](https://techcrunch.com/2024/03/19/how-honda-hedged-its-bet-on-the-hydrogen-fuel-cell-powered-cr-v-efcev/)
-- [What is emergent gravity, and will it rewrite physics?](https://www.space.com/what-is-emergent-gravity)
-- [Ethos Fund closes first fund to invest in founders bridging U.S. and Vietnamese tech ecosystems](https://techcrunch.com/2024/03/19/ethos-fund-vietnam-us-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
