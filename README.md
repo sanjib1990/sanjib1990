@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Minute: EV makers are struggling, and Fisker’s in a particularly precarious position](https://techcrunch.com/2024/03/19/techcrunch-minute-ev-makers-are-struggling-and-fiskers-in-a-particularly-precarious-position/)
-- [Ramp CEO says the fintech startup is just scratching the surface](https://techcrunch.com/2024/03/19/ramp-ceo-says-the-fintech-startup-is-just-scratching-the-surface/)
-- [How to view solar eclipse 2024 with items from around the home](https://www.space.com/view-total-solar-eclipse-2024-items-around-the-home)
-- [Save 10% off all Unistellar products: Ideal savings ahead of the solar eclipse](https://www.space.com/unistellar-site-wide-10-percent-discount-march-2024)
-- [Facebook is trying to make ‘poking’ cool again](https://techcrunch.com/2024/03/19/facebook-make-poking-cool-again/)
+- [Gitai’s autonomous robot installs panel outside the ISS, showing orbital repairs in action](https://techcrunch.com/2024/03/19/gitais-autonomous-robot-installs-panel-outside-the-iss-showing-orbital-repairs-in-action/)
+- [Microsoft hires Inflection founders to run new consumer AI division](https://techcrunch.com/2024/03/19/microsoft-hires-inflection-founders-to-run-new-consumer-ai-division/)
+- [3D map of over 1 million black holes traces where the universe&#39;s dark matter lies](https://www.space.com/quasar-3d-map-dark-matter-distribution)
+- [The dark side of the Force rises in 1st &#39;Star Wars: The Acolyte&#39; trailer &lpar;video&rpar;](https://www.space.com/star-wars-the-acolyte-1st-trailer)
+- [How crypto exchange Backpack climbed its way to success after its major investor FTX died](https://techcrunch.com/2024/03/19/how-crypto-exchange-backpack-climbed-its-way-to-success-after-its-major-investor-ftx-died/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
