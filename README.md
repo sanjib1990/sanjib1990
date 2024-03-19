@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linktree is now allowing users to highlight links better with featured layout function](https://techcrunch.com/2024/03/19/linktree-is-now-allowing-users-to-highlight-links-better-with-featured-layout-function/)
+- [How Honda hedged its bet on the hydrogen fuel cell-powered CR-V e:FCEV](https://techcrunch.com/2024/03/19/how-honda-hedged-its-bet-on-the-hydrogen-fuel-cell-powered-cr-v-efcev/)
+- [What is emergent gravity, and will it rewrite physics?](https://www.space.com/what-is-emergent-gravity)
+- [Ethos Fund closes first fund to invest in founders bridging U.S. and Vietnamese tech ecosystems](https://techcrunch.com/2024/03/19/ethos-fund-vietnam-us-tech/)
 - [TigerEye founders build on prior startup experience to create business simulation tool](https://techcrunch.com/2024/03/19/tigereye-founders-build-on-prior-startup-experience-to-create-business-simulation-tool/)
-- [Final chance to host your own Side Event at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/19/final-chance-to-host-your-own-side-event-at-techcrunch-early-stage-2024/)
-- [Boeing begins fueling Starliner capsule ahead of 1st astronaut launch](https://www.space.com/boeing-begins-fueling-starliner-first-astronaut-launch)
-- [Vernal equinox 2024 brings spring to the Northern Hemisphere today](https://www.space.com/vernal-equinox-2024-spring-northern-hemisphere)
-- [Meta offers lower cost for EU ad-free subscription under privacy review](https://techcrunch.com/2024/03/19/meta-ad-free-subscription-price-cut-offer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
