@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch rockin&#39; new trailer for Zack Snyder&#39;s &#39;Rebel Moon Part Two: The Scargiver&#39; &lpar;video&rpar;](https://www.space.com/rebel-moon-part-two-the-scargiver-trailer)
+- [Nvidia CEO wants enterprise to think ‘AI factory,’ not data center](https://techcrunch.com/2024/03/19/nvidia-ai-factory-gtc-2024/)
 - [After raising $1.3B, Inflection got eaten alive by its biggest investor, Microsoft](https://techcrunch.com/2024/03/19/after-raising-1-3b-inflection-got-eaten-alive-by-its-biggest-investor-microsoft/)
 - [Citizen scientists and AI take a cosmic cruise to discover 430,000 new galaxies](https://www.space.com/citizen-scientists-artificial-intelligence-galaxy-discovery)
 - [Nvidia and Qualcomm join Open Source Robotics Alliance to support ROS development](https://techcrunch.com/2024/03/19/nvidia-and-qualcomm-join-open-source-robotics-alliance-to-support-ros-development/)
-- [Gitai’s autonomous robot installs panel outside the ISS, showing orbital repairs in action](https://techcrunch.com/2024/03/19/gitais-autonomous-robot-installs-panel-outside-the-iss-showing-orbital-repairs-in-action/)
-- [Microsoft hires Inflection founders to run new consumer AI division](https://techcrunch.com/2024/03/19/microsoft-hires-inflection-founders-to-run-new-consumer-ai-division/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
