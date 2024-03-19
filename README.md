@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new ultrablack coating for telescopes could bring more stars into focus](https://www.space.com/ultrablack-coating-advanced-telescopes)
+- [Astera Labs IPO will reveal how much investors want in on AI](https://techcrunch.com/2024/03/19/will-astera-labs-ipo-attract-ai-investors/)
+- [Threads is rolling out trending topics to all users in the US](https://techcrunch.com/2024/03/19/threads-trending-topics-all-users-us/)
+- [SpaceX&#39;s evening Starlink launch wows West Coast skywatchers &lpar;photos&rpar;](https://www.space.com/spacex-starlink-launch-jellyfish-skywatcher-photos-march-2024)
 - [Watch rockin&#39; new trailer for Zack Snyder&#39;s &#39;Rebel Moon Part Two: The Scargiver&#39; &lpar;video&rpar;](https://www.space.com/rebel-moon-part-two-the-scargiver-trailer)
-- [Nvidia CEO wants enterprise to think ‘AI factory,’ not data center](https://techcrunch.com/2024/03/19/nvidia-ai-factory-gtc-2024/)
-- [After raising $1.3B, Inflection got eaten alive by its biggest investor, Microsoft](https://techcrunch.com/2024/03/19/after-raising-1-3b-inflection-got-eaten-alive-by-its-biggest-investor-microsoft/)
-- [Citizen scientists and AI take a cosmic cruise to discover 430,000 new galaxies](https://www.space.com/citizen-scientists-artificial-intelligence-galaxy-discovery)
-- [Nvidia and Qualcomm join Open Source Robotics Alliance to support ROS development](https://techcrunch.com/2024/03/19/nvidia-and-qualcomm-join-open-source-robotics-alliance-to-support-ros-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
