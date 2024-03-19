@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber leads $100M investment in African mobility fintech Moove as valuation hits $750M](https://techcrunch.com/2024/03/19/uber-leads-100m-investment-in-african-mobility-fintech-moove-as-valuation-hits-750m/)
 - [Truecaller adds a new AI feature to detect and block more spam calls](https://techcrunch.com/2024/03/18/truecaller-automatically-reject-all-spam-calls-android-update/)
 - [Nvidia’s keynote at GTC held some surprises](https://techcrunch.com/2024/03/18/nvidia-keynote-gtc-2024/)
 - [SpaceX launches 22 Starlink satellites from California in dusky evening liftoff](https://www.space.com/spacex-starlink-launch-group-7-16)
 - [LACERA decreases venture capital allocation range, but experts say it doesn’t signal a trend](https://techcrunch.com/2024/03/18/lacera-decreases-venture-capital-allocation-range-but-experts-say-it-doesnt-signal-a-trend/)
-- [Mintlify says customer GitHub tokens exposed in data breach](https://techcrunch.com/2024/03/18/mintlify-customer-github-tokens-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
