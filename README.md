@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Euclid &#39;dark universe&#39; telescope gets de-iced from a million miles away](https://www.space.com/euclid-dark-universe-telescope-de-icing-process-mirrors-esa)
-- [Ingrid receives $23M to expand an e-commerce delivery platform that snubs ‘free shipping’](https://techcrunch.com/2024/03/19/ingrid-receives-23m-to-expand-an-e-commerce-delivery-platform-that-snubs-free-shipping/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [Uber leads $100M investment in African mobility fintech Moove as valuation hits $750M](https://techcrunch.com/2024/03/19/uber-leads-100m-investment-in-african-mobility-fintech-moove-as-valuation-hits-750m/)
-- [Truecaller adds a new AI feature to detect and block more spam calls](https://techcrunch.com/2024/03/18/truecaller-automatically-reject-all-spam-calls-android-update/)
+- [TigerEye founders build on prior startup experience to create business simulation tool](https://techcrunch.com/2024/03/19/tigereye-founders-build-on-prior-startup-experience-to-create-business-simulation-tool/)
+- [Final chance to host your own Side Event at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/19/final-chance-to-host-your-own-side-event-at-techcrunch-early-stage-2024/)
+- [Boeing begins fueling Starliner capsule ahead of 1st astronaut launch](https://www.space.com/boeing-begins-fueling-starliner-first-astronaut-launch)
+- [Vernal equinox 2024 brings spring to the Northern Hemisphere today](https://www.space.com/vernal-equinox-2024-spring-northern-hemisphere)
+- [Meta offers lower cost for EU ad-free subscription under privacy review](https://techcrunch.com/2024/03/19/meta-ad-free-subscription-price-cut-offer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
