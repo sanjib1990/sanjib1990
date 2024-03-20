@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Carevoice raises $10M Series B, bucking the funding slowdown in health tech](https://techcrunch.com/2024/03/19/the-carevoice-raises-10m-series-b-bucking-funding-slowdown-in-health-tech/)
 - [Cowboy launches all-road electric bike to attract riders beyond European city centers](https://techcrunch.com/2024/03/19/cowboy-launches-all-road-electric-bike/)
 - [DARPA picks Northrop Grumman to develop &#39;lunar raiload&#39; concept](https://www.space.com/darpa-northrop-grumman-moon-railroad)
 - [Pokémon resets some users’ passwords after hacking attempts](https://techcrunch.com/2024/03/19/pokemon-resets-some-users-passwords-after-hacking-attempts/)
 - [Nvidia’s Jensen Huang says AI hallucinations are solvable, artificial general intelligence is 5 years away](https://techcrunch.com/2024/03/19/agi-and-hallucinations/)
-- [Full Worm Moon brings 1st lunar eclipse of 2024 next week. Here&#39;s how to see it](https://www.space.com/lunar-eclipse-2024-full-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
