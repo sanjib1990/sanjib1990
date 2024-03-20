@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [White House proposes up to $8.5B to fund Intel’s domestic chip manufacturing](https://techcrunch.com/2024/03/20/white-house-proposes-up-to-8-5b-to-fund-intels-domestic-chip-manufacturing/)
 - [Audio platform Pocket FM bags $103M in funding as it eyes global expansion](https://techcrunch.com/2024/03/20/pocket-fm-bags-103m-in-funding-as-it-eyes-global-expansion/)
 - [Arrokoth the &#39;space snowman&#39; and other Kuiper Belt objects may be packed with ancient ice](https://www.space.com/arrokoth-space-snowman-kuiper-belt-ice-objects)
 - [Smart ring maker Ultrahuman has its eye on Oura’s crown](https://techcrunch.com/2024/03/20/ultrahuman-series-b/)
 - [PocketHealth eases doctor-patient communications with easy image exchange](https://techcrunch.com/2024/03/20/pockethealth-transforms-medical-image-exchange-experience-with-33m-series-b-funding/)
-- [India’s electric two-wheeler startups surge to over 150 as government revs up EV push](https://techcrunch.com/2024/03/19/india-electric-two-wheeler-startups-surge-to-over-150-players-as-government-revs-up-ev-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
