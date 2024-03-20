@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mermaid Chart, a Markdown-like tool for creating diagrams, raises $5.5M](https://techcrunch.com/2024/03/20/mermaid-chart-a-markdown-like-tool-for-creating-diagrams-raises-5-5m/)
+- [Watch Rocket Lab launch mysterious US spy satellites early on March 21](https://www.space.com/rocket-lab-launch-nrol-123-live-and-let-fly)
+- [Celestron AstroMaster 102AZ telescope review](https://www.space.com/celestron-astromaster-102az-telescope-review)
+- [&#39;Constellation&#39; season 1 episode 7 review: Fumbling around in the dark](https://www.space.com/constellation-season-1-episode-7-review)
 - [Helping build instrument for Japanese Mars mission &#39;a favorite time&#39; for new NASA astronaut &lpar;exclusive&rpar;](https://www.space.com/mmx-mars-moon-mission-nasa-astronaut-instrument)
-- [GitHub’s latest AI tool that can automatically fix code vulnerabilities](https://techcrunch.com/2024/03/20/githubs-latest-ai-tool-that-can-automatically-fix-code-vulnerabilities/)
-- [TechCrunch Minute: Solana is ushering in a new round of memecoin mania](https://techcrunch.com/2024/03/20/techcrunch-minute-solana-is-ushering-in-a-new-round-of-memecoin-mania/)
-- [Apex Legends hacker said he hacked tournament games ‘for fun’](https://techcrunch.com/2024/03/20/apex-legends-hacker-said-he-hacked-tournament-games-for-fun/)
+- [Scientists find galaxy supercluster as massive as 26 quadrillion suns](https://www.space.com/einasto-supercluster-galaxy-26-quadrillion-suns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
