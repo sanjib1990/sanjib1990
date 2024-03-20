@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches satellite to support future moon missions &lpar;video&rpar;](https://www.space.com/china-moon-relay-satellite-launches)
+- [Candela’s electric ferries multiply as the startup lines up $25M in new funding](https://techcrunch.com/2024/03/20/candelas-electric-ferries-multiply-as-the-startup-lines-up-25m-in-new-funding/)
+- [1 in 12 stars might have swallowed a planet](https://www.space.com/one-in-dozen-stars-eats-planet-study)
 - [Whee! Zip down from the launch tower in SpaceX&#39;s new emergency-escape slide &lpar;video&rpar;](https://www.space.com/spacex-astronaut-emergency-escape-system-video)
 - [NBCUniversal’s Peacock will let you watch four live streams at once for 2024 Paris Olympics](https://techcrunch.com/2024/03/20/peacock-takes-on-youtube-tv-and-apple-with-its-new-multiview-feature/)
-- [Wage interplanetary war in upcoming space strategy game &#39;Falling Frontier&#39; &lpar;video&rpar;](https://www.space.com/falling-frontier-game-trailer)
-- [EU signals doubts over legality of Meta’s privacy fee](https://techcrunch.com/2024/03/20/meta-privacy-fee-eu-assessment/)
-- [7 things to buy to safely watch and photograph the total solar eclipse](https://www.space.com/stargazing/eclipses/7-things-to-buy-to-safely-watch-and-photograph-the-total-solar-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
