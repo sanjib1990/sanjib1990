@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists find galaxy supercluster as massive as 26 quadrillion suns](https://www.space.com/einasto-supercluster-galaxy-26-quadrillion-suns)
-- [Watch Russian Soyuz rocket launch 3 spaceflyers to the ISS on March 21](https://www.space.com/russia-soyuz-ms-25-astronaut-launch-webcast)
-- [AirMyne taps geothermal energy to scale direct air carbon capture](https://techcrunch.com/2024/03/20/airmyne-seed-round/)
-- [Astera Labs goes public, and the Inflection-Microsoft AI saga continues](https://techcrunch.com/2024/03/20/astera-labs-goes-public-and-the-inflection-microsoft-ai-saga-continues/)
-- [Doomed egg-shaped exoplanet is death-spiraling into its star](https://www.space.com/wasp-12b-doomed-jupiter-exoplanet-star-crash)
+- [Mermaid Chart, a Markdown-like tool for creating diagrams, raises $5.5M](https://techcrunch.com/2024/03/20/mermaid-chart-a-markdown-like-tool-for-creating-diagrams-raises-5-5m/)
+- [Helping build instrument for Japanese Mars mission &#39;a favorite time&#39; for new NASA astronaut &lpar;exclusive&rpar;](https://www.space.com/mmx-mars-moon-mission-nasa-astronaut-instrument)
+- [GitHub’s latest AI tool that can automatically fix code vulnerabilities](https://techcrunch.com/2024/03/20/githubs-latest-ai-tool-that-can-automatically-fix-code-vulnerabilities/)
+- [TechCrunch Minute: Solana is ushering in a new round of memecoin mania](https://techcrunch.com/2024/03/20/techcrunch-minute-solana-is-ushering-in-a-new-round-of-memecoin-mania/)
+- [Apex Legends hacker said he hacked tournament games ‘for fun’](https://techcrunch.com/2024/03/20/apex-legends-hacker-said-he-hacked-tournament-games-for-fun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
