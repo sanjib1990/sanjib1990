@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NBCUniversal’s Peacock will let you watch four live streams at once for 2024 Paris Olympics](https://techcrunch.com/2024/03/20/peacock-takes-on-youtube-tv-and-apple-with-its-new-multiview-feature/)
+- [Wage interplanetary war in upcoming space strategy game &#39;Falling Frontier&#39; &lpar;video&rpar;](https://www.space.com/falling-frontier-game-trailer)
+- [EU signals doubts over legality of Meta’s privacy fee](https://techcrunch.com/2024/03/20/meta-privacy-fee-eu-assessment/)
 - [7 things to buy to safely watch and photograph the total solar eclipse](https://www.space.com/stargazing/eclipses/7-things-to-buy-to-safely-watch-and-photograph-the-total-solar-eclipse)
-- [Astera Labs’ IPO pops 54%, showing that investor demand for tech with an AI-twist is high](https://techcrunch.com/2024/03/20/astera-labs-ipo-pops-54-showing-that-investor-demand-for-tech-with-an-ai-twist-is-high/)
-- [Watch Rocket Lab launch mysterious US spy satellites early on March 21](https://www.space.com/rocket-lab-launch-nrol-123-live-and-let-fly)
-- [Celestron AstroMaster 102AZ telescope review](https://www.space.com/celestron-astromaster-102az-telescope-review)
-- [&#39;Constellation&#39; season 1 episode 7 review: Fumbling around in the dark](https://www.space.com/constellation-season-1-episode-7-review)
+- [Astera Labs’ IPO pops 54%, showing that investor demand for tech with an AI twist is high](https://techcrunch.com/2024/03/20/astera-labs-ipo-pops-54-showing-that-investor-demand-for-tech-with-an-ai-twist-is-high/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
