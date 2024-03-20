@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find galaxy supercluster as massive as 26 quadrillion suns](https://www.space.com/einasto-supercluster-galaxy-26-quadrillion-suns)
+- [Watch Russian Soyuz rocket launch 3 spaceflyers to the ISS on March 21](https://www.space.com/russia-soyuz-ms-25-astronaut-launch-webcast)
+- [AirMyne taps geothermal energy to scale direct air carbon capture](https://techcrunch.com/2024/03/20/airmyne-seed-round/)
 - [Astera Labs goes public, and the Inflection-Microsoft AI saga continues](https://techcrunch.com/2024/03/20/astera-labs-goes-public-and-the-inflection-microsoft-ai-saga-continues/)
 - [Doomed egg-shaped exoplanet is death-spiraling into its star](https://www.space.com/wasp-12b-doomed-jupiter-exoplanet-star-crash)
-- [India will fact-check online posts about government matters](https://techcrunch.com/2024/03/20/india-grants-govt-agency-power-to-fact-check-govt-matters/)
-- [ServiceNow is developing AI through mix of building, buying and partnering](https://techcrunch.com/2024/03/20/servicenow-is-developing-ai-through-mix-of-building-buying-and-partnering/)
-- [Watchworthy will now tell you which streaming services to cancel and which to keep](https://techcrunch.com/2024/03/20/watchworthy-will-now-tell-you-which-streaming-services-to-cancel-and-which-to-keep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
