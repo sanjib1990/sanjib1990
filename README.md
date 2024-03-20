@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With backing from NATO Innovation Fund, OTB Ventures will invest $185 million into European deep tech](https://techcrunch.com/2024/03/20/otb-ventures-deep-tech/)
 - [SpaceX&#39;s Starship could fly again as soon as early May](https://www.space.com/spacex-starship-fourth-test-flight-possible-may-2024)
 - [SpaceX looks to scale astronaut launch capacity with second Florida pad](https://techcrunch.com/2024/03/20/spacex-looks-to-scale-astronaut-launch-capacity-with-second-florida-pad/)
 - [Users say Glassdoor added real names to user profiles without their consent](https://techcrunch.com/2024/03/20/glassdoor-added-real-names-profiles-without-consent/)
 - [China launches satellite to support future moon missions &lpar;video&rpar;](https://www.space.com/china-moon-relay-satellite-launches)
-- [Candela’s electric ferries multiply as the startup lines up $25M in new funding](https://techcrunch.com/2024/03/20/candelas-electric-ferries-multiply-as-the-startup-lines-up-25m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
