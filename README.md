@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astera Labs goes public, and the Inflection-Microsoft AI saga continues](https://techcrunch.com/2024/03/20/astera-labs-goes-public-and-the-inflection-microsoft-ai-saga-continues/)
+- [Doomed egg-shaped exoplanet is death-spiraling into its star](https://www.space.com/wasp-12b-doomed-jupiter-exoplanet-star-crash)
+- [India will fact-check online posts about government matters](https://techcrunch.com/2024/03/20/india-grants-govt-agency-power-to-fact-check-govt-matters/)
 - [ServiceNow is developing AI through mix of building, buying and partnering](https://techcrunch.com/2024/03/20/servicenow-is-developing-ai-through-mix-of-building-buying-and-partnering/)
 - [Watchworthy will now tell you which streaming services to cancel and which to keep](https://techcrunch.com/2024/03/20/watchworthy-will-now-tell-you-which-streaming-services-to-cancel-and-which-to-keep/)
-- [Sentry’s AI-powered Autofix helps developers quickly debug and fix their production code](https://techcrunch.com/2024/03/20/sentrys-ai-powered-autofix-helps-developers-quickly-debug-and-fix-their-production-code/)
-- [Google hit with $270M fine in France as authority finds news publishers’ data was used for Gemini](https://techcrunch.com/2024/03/20/google-hit-with-270m-fine-in-france-as-authority-finds-news-publishers-data-was-used-for-gemini/)
-- [OpenAI’s chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
