@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s electric two-wheeler startups surge to over 150 players as government revs up EV push](https://techcrunch.com/2024/03/19/india-electric-two-wheeler-startups-surge-to-over-150-players-as-government-revs-up-ev-push/)
+- [Cure51 raises a €15M Seed round aiming to crack the code on cancer survival](https://techcrunch.com/2024/03/19/cure51-raises-a-e15m-seed-round-aiming-to-crack-the-code-on-cancer-survival/)
 - [The Carevoice raises $10M Series B, bucking the funding slowdown in health tech](https://techcrunch.com/2024/03/19/the-carevoice-raises-10m-series-b-bucking-funding-slowdown-in-health-tech/)
 - [Cowboy launches all-road electric bike to attract riders beyond European city centers](https://techcrunch.com/2024/03/19/cowboy-launches-all-road-electric-bike/)
 - [DARPA picks Northrop Grumman to develop &#39;lunar raiload&#39; concept](https://www.space.com/darpa-northrop-grumman-moon-railroad)
-- [Pokémon resets some users’ passwords after hacking attempts](https://techcrunch.com/2024/03/19/pokemon-resets-some-users-passwords-after-hacking-attempts/)
-- [Nvidia’s Jensen Huang says AI hallucinations are solvable, artificial general intelligence is 5 years away](https://techcrunch.com/2024/03/19/agi-and-hallucinations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
