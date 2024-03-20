@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Audio platform Pocket FM bags $103M in funding as it eyes global expansion](https://techcrunch.com/2024/03/20/pocket-fm-bags-103m-in-funding-as-it-eyes-global-expansion/)
+- [Arrokoth the &#39;space snowman&#39; and other Kuiper Belt objects may be packed with ancient ice](https://www.space.com/arrokoth-space-snowman-kuiper-belt-ice-objects)
+- [Smart ring maker Ultrahuman has its eye on Oura’s crown](https://techcrunch.com/2024/03/20/ultrahuman-series-b/)
+- [PocketHealth eases doctor-patient communications with easy image exchange](https://techcrunch.com/2024/03/20/pockethealth-transforms-medical-image-exchange-experience-with-33m-series-b-funding/)
 - [India’s electric two-wheeler startups surge to over 150 as government revs up EV push](https://techcrunch.com/2024/03/19/india-electric-two-wheeler-startups-surge-to-over-150-players-as-government-revs-up-ev-push/)
-- [Cure51 raises a €15M Seed round aiming to crack the code on cancer survival](https://techcrunch.com/2024/03/19/cure51-raises-a-e15m-seed-round-aiming-to-crack-the-code-on-cancer-survival/)
-- [The Carevoice raises $10M Series B, bucking the funding slowdown in health tech](https://techcrunch.com/2024/03/19/the-carevoice-raises-10m-series-b-bucking-funding-slowdown-in-health-tech/)
-- [Cowboy launches all-road electric bike to attract riders beyond European city centers](https://techcrunch.com/2024/03/19/cowboy-launches-all-road-electric-bike/)
-- [DARPA picks Northrop Grumman to develop &#39;lunar raiload&#39; concept](https://www.space.com/darpa-northrop-grumman-moon-railroad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
