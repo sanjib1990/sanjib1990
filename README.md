@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Whee! Zip down from the launch tower in SpaceX&#39;s new emergency-escape slide &lpar;video&rpar;](https://www.space.com/spacex-astronaut-emergency-escape-system-video)
 - [NBCUniversal’s Peacock will let you watch four live streams at once for 2024 Paris Olympics](https://techcrunch.com/2024/03/20/peacock-takes-on-youtube-tv-and-apple-with-its-new-multiview-feature/)
 - [Wage interplanetary war in upcoming space strategy game &#39;Falling Frontier&#39; &lpar;video&rpar;](https://www.space.com/falling-frontier-game-trailer)
 - [EU signals doubts over legality of Meta’s privacy fee](https://techcrunch.com/2024/03/20/meta-privacy-fee-eu-assessment/)
 - [7 things to buy to safely watch and photograph the total solar eclipse](https://www.space.com/stargazing/eclipses/7-things-to-buy-to-safely-watch-and-photograph-the-total-solar-eclipse)
-- [Astera Labs’ IPO pops 54%, showing that investor demand for tech with an AI twist is high](https://techcrunch.com/2024/03/20/astera-labs-ipo-pops-54-showing-that-investor-demand-for-tech-with-an-ai-twist-is-high/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
