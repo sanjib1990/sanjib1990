@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silence is an early stage climate tech VC fund with $35 million](https://techcrunch.com/2024/03/21/silence-is-an-early-stage-climate-tech-vc-fund-with-35-million/)
+- [Nexus’ star partner Sameer Brij Verma set to leave and launch own fund](https://techcrunch.com/2024/03/21/nexus-star-partner-sameer-brij-verma-set-to-leave-and-launch-own-fund/)
 - [Pelikan Mobility is building a software-enabled commercial EV leasing solution](https://techcrunch.com/2024/03/21/pelikan-mobility-is-building-a-software-enabled-commercial-ev-leasing-solution/)
 - [Farm to Feed is cutting food loss and creating data platform to better farming outcomes](https://techcrunch.com/2024/03/21/farm-to-feed-cutting-food-loss/)
 - [X launches top up packs for its developer API](https://techcrunch.com/2024/03/20/x-launches-top-up-packs-for-its-developer-api/)
-- [Greenly lands $52M to help smaller companies track CO2 emissions](https://techcrunch.com/2024/03/20/greenly-series-b/)
-- [Reddit prices IPO at $34 per share, the top of the range](https://techcrunch.com/2024/03/20/reddit-prices-ipo-at-34-per-share-the-top-of-the-range/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
