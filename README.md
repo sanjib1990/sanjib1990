@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Minute: All about Microsoft’s mega AI push after it hired Inflection AI’s co-founders](https://techcrunch.com/2024/03/21/techcrunch-minute-all-about-microsofts-mega-ai-push-after-it-hired-inflection-ais-co-founders/)
-- [Copilot gets its own key on Microsoft’s new Surface devices](https://techcrunch.com/2024/03/21/copilot-gets-its-own-key-on-microsofts-new-surface-devices/)
-- [Microsoft really wants to talk about Copilot](https://techcrunch.com/2024/03/21/microsoft-really-wants-to-talk-about-copilot/)
-- [Microsoft’s new Adaptive accessibility accessories include an Atari-style joystick](https://techcrunch.com/2024/03/21/microsofts-new-adaptive-accessibility-accessories-include-an-atari-style-joystick/)
-- [Former Grindr exec and a married couple launch Rails with $6.2M round, for its decentralized FTX alternative](https://techcrunch.com/2024/03/21/former-grindr-exec-and-a-married-couple-launch-rails-with-6-2m-round-for-its-decentralized-ftx-alternative/)
+- [Apple’s iPhone is not a monopoly like Windows was a monopoly](https://techcrunch.com/2024/03/21/apples-iphone-is-not-a-monopoly-like-windows-was-a-monopoly/)
+- [Is the Apple antitrust suit a silver lining for Epic Games?](https://techcrunch.com/2024/03/21/apple-antitrust-epic-games/)
+- [Budgeting app Copilot is booming now that Mint is dead, leading to $6M Series A](https://techcrunch.com/2024/03/21/budgeting-app-copilot-mint-6m-series-a/)
+- [James Webb Space Telescope to investigate the stunning light shows of Saturn and Uranus](https://www.space.com/uranus-saturn-auroras-james-webb-space-telescope)
+- [Life after Ingenuity: How scientists hope to reach the skies of Mars once more](https://www.space.com/life-after-ingenuity-how-scientists-hope-to-fly-on-mars-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
