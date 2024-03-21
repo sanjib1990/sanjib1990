@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers call for radio silence on the far side of the moon](https://www.space.com/the-moon-far-side-radio-silence)
+- [A new web3 network is being built right now that wants to end Big Tech’s control of your data](https://techcrunch.com/2024/03/21/a-new-web3-network-is-being-built-right-now-that-wants-to-end-big-techs-control-of-your-data/)
 - [Solana memecoin hype continues, Backpack’s beta phase was a success and Starbucks axes its NFT program](https://techcrunch.com/2024/03/21/okx-halts-services-in-india-solana-memecoin-hype-continues-backpacks-beta-phase-was-a-success-and-starbucks-axes-its-nft-program/)
 - [Dying SpaceX rocket creates glowing, galaxy-like spiral in the middle of the Northern Lights](https://www.space.com/spacex-rocket-creates-galaxy-like-spiral-in-northern-lights)
 - [Why is AI so bad at spelling?](https://techcrunch.com/2024/03/21/why-is-ai-so-bad-at-spelling/)
-- [Apple slams DOJ case as misguided attempt to turn iPhone into Android](https://techcrunch.com/2024/03/21/apple-slams-doj-case-as-misguided-attempt-to-turn-iphone-into-android/)
-- [DOJ says Apple’s ‘complete control’ over tap-to-pay transactions stops innovation, cements its monopoly](https://techcrunch.com/2024/03/21/apple-pay-doj-iphone-monopoly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
