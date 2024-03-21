@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch its 30th Dragon cargo mission to the ISS today](https://www.space.com/spacex-nasa-crs-30-iss-cargo-launch)
+- [&#39;Singing&#39; red giant stars could offer another way to measure the universe&#39;s expansion](https://www.space.com/singing-red-stars-universe-expansion-measurements)
+- [These ISO and CE certified solar eclipse glasses are currently 50% off on Amazon](https://www.space.com/50-percent-off-medoptics-iso-and-ce-certified-solar-eclipse-glasses-amazon-march-2024)
 - [Crypto exchange OKX ceases services in India](https://techcrunch.com/2024/03/21/crypto-exchange-okx-ceases-services-in-india/)
 - [What is the most distant thing we can see?](https://www.space.com/what-is-the-most-distant-thing-we-can-see)
-- [Frontline Ventures raises $200M to help B2B companies in Europe and US straddle the Atlantic](https://techcrunch.com/2024/03/21/frontline-ventures-seed-growth/)
-- [Silence is an early stage climate tech VC fund with $35 million](https://techcrunch.com/2024/03/21/silence-is-an-early-stage-climate-tech-vc-fund-with-35-million/)
-- [Nexus star partner Sameer Brij Verma set to leave and launch own fund](https://techcrunch.com/2024/03/21/nexus-star-partner-sameer-brij-verma-set-to-leave-and-launch-own-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
