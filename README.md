@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Redis switches licenses, acquires Speedb to go beyond its core in-memory database](https://techcrunch.com/2024/03/21/redis-switches-licenses-acquires-speedb-to-go-beyond-its-core-in-memory-database/)
+- [Netflix&#39;s &#39;3 Body Problem&#39; is an engrossing tale of a hostile alien invasion &lpar;review&rpar;](https://www.space.com/3-body-problem-netflix-review)
 - [Watch SpaceX launch its 30th Dragon cargo mission to the ISS today](https://www.space.com/spacex-nasa-crs-30-iss-cargo-launch)
 - [&#39;Singing&#39; red giant stars could offer another way to measure the universe&#39;s expansion](https://www.space.com/singing-red-stars-universe-expansion-measurements)
 - [These ISO and CE certified solar eclipse glasses are currently 50% off on Amazon](https://www.space.com/50-percent-off-medoptics-iso-and-ce-certified-solar-eclipse-glasses-amazon-march-2024)
-- [Crypto exchange OKX ceases services in India](https://techcrunch.com/2024/03/21/crypto-exchange-okx-ceases-services-in-india/)
-- [What is the most distant thing we can see?](https://www.space.com/what-is-the-most-distant-thing-we-can-see)
 <!-- BLOG-POST-LIST:END -->
 
 ---
