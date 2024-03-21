@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Redis switches licenses, acquires Speedb to go beyond its core in-memory database](https://techcrunch.com/2024/03/21/redis-switches-licenses-acquires-speedb-to-go-beyond-its-core-in-memory-database/)
-- [Netflix&#39;s &#39;3 Body Problem&#39; is an engrossing tale of a hostile alien invasion &lpar;review&rpar;](https://www.space.com/3-body-problem-netflix-review)
-- [Watch SpaceX launch its 30th Dragon cargo mission to the ISS today](https://www.space.com/spacex-nasa-crs-30-iss-cargo-launch)
-- [&#39;Singing&#39; red giant stars could offer another way to measure the universe&#39;s expansion](https://www.space.com/singing-red-stars-universe-expansion-measurements)
-- [These ISO and CE certified solar eclipse glasses are currently 50% off on Amazon](https://www.space.com/50-percent-off-medoptics-iso-and-ce-certified-solar-eclipse-glasses-amazon-march-2024)
+- [Russian Soyuz rocket suffers rare last-minute abort during launch of 3 astronauts to ISS &lpar;video&rpar;](https://www.space.com/soyuz-rocket-launch-abort-expedition71-astronauts)
+- [How environmentally friendly is SpaceX&#39;s Starship?](https://www.space.com/spacex-starship-rocket-launches-environmental-impact)
+- [DoorDash begins piloting drone deliveries in the US](https://techcrunch.com/2024/03/21/doordash-is-bringing-its-drone-delivery-pilot-to-the-u-s/)
+- [DOT to investigate data security and privacy practices of top US airlines](https://techcrunch.com/2024/03/21/department-transportation-us-top-airlines-data-security-privacy/)
+- [Meet Cherry, an AI shopping assistant that helps you discover products using screenshots or images](https://techcrunch.com/2024/03/21/meet-cherry-an-ai-shopping-assistant-that-helps-you-discover-products-using-screenshots-or-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
