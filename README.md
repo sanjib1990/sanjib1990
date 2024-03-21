@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s iPhone is not a monopoly like Windows was a monopoly](https://techcrunch.com/2024/03/21/apples-iphone-is-not-a-monopoly-like-windows-was-a-monopoly/)
-- [Is the Apple antitrust suit a silver lining for Epic Games?](https://techcrunch.com/2024/03/21/apple-antitrust-epic-games/)
-- [Budgeting app Copilot is booming now that Mint is dead, leading to $6M Series A](https://techcrunch.com/2024/03/21/budgeting-app-copilot-mint-6m-series-a/)
-- [James Webb Space Telescope to investigate the stunning light shows of Saturn and Uranus](https://www.space.com/uranus-saturn-auroras-james-webb-space-telescope)
-- [Life after Ingenuity: How scientists hope to reach the skies of Mars once more](https://www.space.com/life-after-ingenuity-how-scientists-hope-to-fly-on-mars-again)
+- [Here’s what the DOJ suit could mean for Apple Watch](https://techcrunch.com/2024/03/21/heres-what-the-doj-suit-could-mean-for-apple-watch/)
+- [Historical incidents of viewing total eclipses near the edge of totality](https://www.space.com/historic-incidents-of-viewing-eclipse-edge-of-totality)
+- [Coalition including Epic, Spotify, Deezer, Match Group and others applaud DOJ’s Apple suit in statement](https://techcrunch.com/2024/03/21/coalition-including-epic-spotify-deezer-match-group-and-others-applaud-dojs-apple-suit-in-statement/)
+- [Reddit’s IPO has begun with shares soaring 60% within minutes](https://techcrunch.com/2024/03/21/reddits-ipo-shares-soaring/)
+- [DOJ claims green bubbles are an issue in iPhone monopoly suit](https://techcrunch.com/2024/03/21/doj-claims-green-bubbles-are-an-issue-in-iphone-monopoly-suit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
