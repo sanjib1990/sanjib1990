@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Farm to Feed is cutting food loss and creating data platform to better farm outcomes](https://techcrunch.com/2024/03/21/farm-to-feed-cutting-food-loss/)
+- [Pelikan Mobility is building a software-enabled commercial EV leasing solution](https://techcrunch.com/2024/03/21/pelikan-mobility-is-building-a-software-enabled-commercial-ev-leasing-solution/)
+- [Farm to Feed is cutting food loss and creating data platform to better farming outcomes](https://techcrunch.com/2024/03/21/farm-to-feed-cutting-food-loss/)
 - [X launches top up packs for its developer API](https://techcrunch.com/2024/03/20/x-launches-top-up-packs-for-its-developer-api/)
 - [Greenly lands $52M to help smaller companies track CO2 emissions](https://techcrunch.com/2024/03/20/greenly-series-b/)
 - [Reddit prices IPO at $34 per share, the top of the range](https://techcrunch.com/2024/03/20/reddit-prices-ipo-at-34-per-share-the-top-of-the-range/)
-- [Astera Labs’ IPO pops 72% on first day, showing that investor demand for tech with an AI twist is high](https://techcrunch.com/2024/03/20/astera-labs-ipo-pops-54-showing-that-investor-demand-for-tech-with-an-ai-twist-is-high/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
