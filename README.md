@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the most distant thing we can see?](https://www.space.com/what-is-the-most-distant-thing-we-can-see)
+- [Frontline Ventures raises $200M to help B2B companies in Europe and US straddle the Atlantic](https://techcrunch.com/2024/03/21/frontline-ventures-seed-growth/)
 - [Silence is an early stage climate tech VC fund with $35 million](https://techcrunch.com/2024/03/21/silence-is-an-early-stage-climate-tech-vc-fund-with-35-million/)
 - [Nexus’ star partner Sameer Brij Verma set to leave and launch own fund](https://techcrunch.com/2024/03/21/nexus-star-partner-sameer-brij-verma-set-to-leave-and-launch-own-fund/)
 - [Pelikan Mobility is building a software-enabled commercial EV leasing solution](https://techcrunch.com/2024/03/21/pelikan-mobility-is-building-a-software-enabled-commercial-ev-leasing-solution/)
-- [Farm to Feed is cutting food loss and creating data platform to better farming outcomes](https://techcrunch.com/2024/03/21/farm-to-feed-cutting-food-loss/)
-- [X launches top up packs for its developer API](https://techcrunch.com/2024/03/20/x-launches-top-up-packs-for-its-developer-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
