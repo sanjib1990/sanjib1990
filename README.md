@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s DART mission hammered its target asteroid into a new shape. Here&#39;s how](https://www.space.com/nasa-dart-asteroid-mission-dimorphos-shape-change)
-- [Apple sued by DOJ over iPhone monopoly claims](https://techcrunch.com/2024/03/21/apple-sued-by-doj-over-iphone-monopoly-claims/)
-- [VCs double down on fintech Coast, which aims to be the Brex for ‘real-world’ industries](https://techcrunch.com/2024/03/21/fintech-coast-raises-vc-investment-expense-management-brex/)
-- [The Browser Company raises $50 million at $550 million valuation](https://techcrunch.com/2024/03/21/the-browser-company-raises-50-million-at-550-million-valuation/)
-- [How to build an environmental monitor to track air purity](https://www.space.com/stem-guardian-challenge-one-space-force)
+- [TechCrunch Minute: All about Microsoft’s mega AI push after it hired Inflection AI’s co-founders](https://techcrunch.com/2024/03/21/techcrunch-minute-all-about-microsofts-mega-ai-push-after-it-hired-inflection-ais-co-founders/)
+- [Copilot gets its own key on Microsoft’s new Surface devices](https://techcrunch.com/2024/03/21/copilot-gets-its-own-key-on-microsofts-new-surface-devices/)
+- [Microsoft really wants to talk about Copilot](https://techcrunch.com/2024/03/21/microsoft-really-wants-to-talk-about-copilot/)
+- [Microsoft’s new Adaptive accessibility accessories include an Atari-style joystick](https://techcrunch.com/2024/03/21/microsofts-new-adaptive-accessibility-accessories-include-an-atari-style-joystick/)
+- [Former Grindr exec and a married couple launch Rails with $6.2M round, for its decentralized FTX alternative](https://techcrunch.com/2024/03/21/former-grindr-exec-and-a-married-couple-launch-rails-with-6-2m-round-for-its-decentralized-ftx-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
