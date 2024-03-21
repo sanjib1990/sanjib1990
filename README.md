@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intuitive Machines second moon mission on track for 2024](https://techcrunch.com/2024/03/21/intuitive-machines-second-moon-mission-on-track-for-2024/)
+- [DOJ’s Apple antitrust case neatly aligns with EU on one key point: NFC and mobile payments](https://techcrunch.com/2024/03/21/despite-apples-mounting-eu-antitrust-battles-the-dojs-complaint-mentions-europe-just-once/)
+- [Intuitive Machines’ second moon mission on track for 2024](https://techcrunch.com/2024/03/21/intuitive-machines-second-moon-mission-on-track-for-2024/)
 - [Reddit stock closes up nearly 48% on its first day of trading](https://techcrunch.com/2024/03/21/reddits-ipo-shares-soaring/)
 - [Astronomers call for radio silence on the far side of the moon](https://www.space.com/the-moon-far-side-radio-silence)
 - [A new web3 network is being built right now that wants to end Big Tech’s control of your data](https://techcrunch.com/2024/03/21/a-new-web3-network-is-being-built-right-now-that-wants-to-end-big-techs-control-of-your-data/)
-- [Solana memecoin hype continues, Backpack’s beta phase was a success and Starbucks axes its NFT program](https://techcrunch.com/2024/03/21/okx-halts-services-in-india-solana-memecoin-hype-continues-backpacks-beta-phase-was-a-success-and-starbucks-axes-its-nft-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
