@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian Soyuz rocket suffers rare last-minute abort during launch of 3 astronauts to ISS &lpar;video&rpar;](https://www.space.com/soyuz-rocket-launch-abort-expedition71-astronauts)
-- [How environmentally friendly is SpaceX&#39;s Starship?](https://www.space.com/spacex-starship-rocket-launches-environmental-impact)
-- [DoorDash begins piloting drone deliveries in the US](https://techcrunch.com/2024/03/21/doordash-is-bringing-its-drone-delivery-pilot-to-the-u-s/)
-- [DOT to investigate data security and privacy practices of top US airlines](https://techcrunch.com/2024/03/21/department-transportation-us-top-airlines-data-security-privacy/)
-- [Meet Cherry, an AI shopping assistant that helps you discover products using screenshots or images](https://techcrunch.com/2024/03/21/meet-cherry-an-ai-shopping-assistant-that-helps-you-discover-products-using-screenshots-or-images/)
+- [NASA&#39;s DART mission hammered its target asteroid into a new shape. Here&#39;s how](https://www.space.com/nasa-dart-asteroid-mission-dimorphos-shape-change)
+- [Apple sued by DOJ over iPhone monopoly claims](https://techcrunch.com/2024/03/21/apple-sued-by-doj-over-iphone-monopoly-claims/)
+- [VCs double down on fintech Coast, which aims to be the Brex for ‘real-world’ industries](https://techcrunch.com/2024/03/21/fintech-coast-raises-vc-investment-expense-management-brex/)
+- [The Browser Company raises $50 million at $550 million valuation](https://techcrunch.com/2024/03/21/the-browser-company-raises-50-million-at-550-million-valuation/)
+- [How to build an environmental monitor to track air purity](https://www.space.com/stem-guardian-challenge-one-space-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
