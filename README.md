@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s what the DOJ suit could mean for Apple Watch](https://techcrunch.com/2024/03/21/heres-what-the-doj-suit-could-mean-for-apple-watch/)
-- [Historical incidents of viewing total eclipses near the edge of totality](https://www.space.com/historic-incidents-of-viewing-eclipse-edge-of-totality)
-- [Coalition including Epic, Spotify, Deezer, Match Group and others applaud DOJ’s Apple suit in statement](https://techcrunch.com/2024/03/21/coalition-including-epic-spotify-deezer-match-group-and-others-applaud-dojs-apple-suit-in-statement/)
-- [Reddit’s IPO has begun with shares soaring 60% within minutes](https://techcrunch.com/2024/03/21/reddits-ipo-shares-soaring/)
-- [DOJ claims green bubbles are an issue in iPhone monopoly suit](https://techcrunch.com/2024/03/21/doj-claims-green-bubbles-are-an-issue-in-iphone-monopoly-suit/)
+- [Solana memecoin hype continues, Backpack’s beta phase was a success and Starbucks axes its NFT program](https://techcrunch.com/2024/03/21/okx-halts-services-in-india-solana-memecoin-hype-continues-backpacks-beta-phase-was-a-success-and-starbucks-axes-its-nft-program/)
+- [Dying SpaceX rocket creates glowing, galaxy-like spiral in the middle of the Northern Lights](https://www.space.com/spacex-rocket-creates-galaxy-like-spiral-in-northern-lights)
+- [Why is AI so bad at spelling?](https://techcrunch.com/2024/03/21/why-is-ai-so-bad-at-spelling/)
+- [Apple slams DOJ case as misguided attempt to turn iPhone into Android](https://techcrunch.com/2024/03/21/apple-slams-doj-case-as-misguided-attempt-to-turn-iphone-into-android/)
+- [DOJ says Apple’s ‘complete control’ over tap-to-pay transactions stops innovation, cements its monopoly](https://techcrunch.com/2024/03/21/apple-pay-doj-iphone-monopoly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
