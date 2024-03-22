@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: What goes up must come down](https://techcrunch.com/2024/03/22/startups-weekly-what-goes-up/)
+- [&#39;Space headaches&#39; are a literal pain for astronauts. Why do they happen?](https://www.space.com/space-headaches-pain-for-astronauts)
+- [AT&amp;T won’t say how its customers’ data spilled online](https://techcrunch.com/2024/03/22/att-customers-data-leak-online/)
 - [1991 Ventures in London joins the growing list of VCs aimed at Ukrainian startups](https://techcrunch.com/2024/03/22/1991-ventures-in-london-joins-the-growing-list-of-vcs-aimed-at-ukrainian-startups/)
 - [The Europa Clipper may only need 1 ice grain to detect life on Jupiter&#39;s ocean moon](https://www.space.com/europa-clipper-ice-grain-jupiter-ocean-moon)
-- [Threads is adding live scores for sports games, starting with the NBA](https://techcrunch.com/2024/03/22/threads-live-scores-sports-games/)
-- [Save nearly $50 on these highly-rated astronomy binoculars](https://www.space.com/celestron-skymaster-25x100-deal-save-47-dollars-march-2024)
-- [Russian rocket launch of 3 astronauts to ISS targeted for March 23 after abort](https://www.space.com/soyuz-ms-25-iss-astronaut-launch-target-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
