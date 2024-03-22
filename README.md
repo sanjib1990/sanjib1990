@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Falcon 9 rocket to tie reuse record with 19th launch tonight](https://www.space.com/spacex-starlink-launch-group-6-42)
-- [&#39;Quantum tornado&#39; allows scientists to mimic a black hole on Earth](https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero)
-- [&#39;Shiva and Shakti&#39;: The ancient star streams that helped weave the Milky Way](https://www.space.com/milky-way-galaxy-shiva-shakti-ancient-stellar-streams)
-- [Boeing&#39;s 1st Starliner astronaut flight test for NASA could launch as soon as May 1](https://www.space.com/boeing-starliner-historic-1st-astronaut-mission-ready-launch)
-- [TechCrunch Minute: Breaking down the Apple iPhone antitrust lawsuit from the DOJ](https://techcrunch.com/2024/03/22/techcrunch-minute-breaking-down-the-apple-iphone-antitrust-lawsuit-from-the-doj/)
+- [1991 Ventures in London joins the growing list of VCs aimed at Ukrainian startups](https://techcrunch.com/2024/03/22/1991-ventures-in-london-joins-the-growing-list-of-vcs-aimed-at-ukrainian-startups/)
+- [The Europa Clipper may only need 1 ice grain to detect life on Jupiter&#39;s ocean moon](https://www.space.com/europa-clipper-ice-grain-jupiter-ocean-moon)
+- [Threads is adding live scores for sports games, starting with the NBA](https://techcrunch.com/2024/03/22/threads-live-scores-sports-games/)
+- [Save nearly $50 on these highly-rated astronomy binoculars](https://www.space.com/celestron-skymaster-25x100-deal-save-47-dollars-march-2024)
+- [Russian rocket launch of 3 astronauts to ISS targeted for March 23 after abort](https://www.space.com/soyuz-ms-25-iss-astronaut-launch-target-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
