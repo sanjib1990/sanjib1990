@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atomos Space’s first mission on orbit is a trial by fire](https://techcrunch.com/2024/03/22/atomos-spaces-first-mission-on-orbit-is-a-trial-by-fire/)
 - [Lordstown Motors’ ousted CEO settles with SEC for misleading investors](https://techcrunch.com/2024/03/22/lordstown-motors-ousted-ceo-settles-with-sec-for-misleading-investors/)
-- [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/03/22/independent-vision-os-apps-for-the-apple-vision-pro/)
+- [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/03/22/apple-vision-pro-apps/)
 - [Watch shock waves ripple from SpaceX&#39;s giant Starship rocket during 3rd test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-shock-waves-video-third-test-flight)
 - [Texas Eclipse Festival offers a &#39;choose your own adventure experience&#39; for April total solar eclipse](https://www.space.com/texas-eclipse-festival-2024)
-- [Pitch Deck Teardown: Protecto’s $4M seed deck](https://techcrunch.com/2024/03/22/sample-seed-pitch-deck-protecto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
