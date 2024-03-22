@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calmara suggests it can detect STIs with photos of genitals — a dangerous idea](https://techcrunch.com/2024/03/22/calmara-suggests-it-can-detect-stis-with-a-photo-of-a-mans-genitals-a-dangerous-idea/)
+- [NASA suspends Swift gamma-ray space telescope operations](https://www.space.com/nasa-swift-observatory-suspends-operations)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [A $700M SAFE, IPOs are back, and how one venture fund is transcending borders](https://techcrunch.com/2024/03/22/a-700m-safe-ipos-are-back-and-how-one-venture-fund-is-transcending-borders/)
 - [See the 1st teaser for August sci-fi scarefest &#39;Alien: Romulus&#39; &lpar;video&rpar;](https://www.space.com/alien-romulus-film-first-teaser)
-- [Investors’ pledge to fight spyware undercut by past investments in US malware maker](https://techcrunch.com/2024/03/22/us-cyber-investors-pledge-spyware-is-off-limits-with-a-catch/)
-- [Amazing photos of &#39;horned&#39; comet 12P/Pons-Brooks from around the world](https://www.space.com/horned-comet-12p-pons-brooks-photos)
-- [&#39;All eyes to the sky&#39;: National Geographic and ABC to chronicle epic solar spectacle on April 8 &lpar;exclusive video&rpar;](https://www.space.com/national-geographic-eclipse-across-america)
-- [Last call for pitch submissions at TechCrunch Early Stage 2024!](https://techcrunch.com/2024/03/22/last-call-for-pitch-submissions-at-techcrunch-early-stage-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
