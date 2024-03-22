@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/03/22/independent-vision-os-apps-for-the-apple-vision-pro/)
+- [Watch shock waves ripple from SpaceX&#39;s giant Starship rocket during 3rd test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-shock-waves-video-third-test-flight)
 - [Texas Eclipse Festival offers a &#39;choose your own adventure experience&#39; for April total solar eclipse](https://www.space.com/texas-eclipse-festival-2024)
 - [Pitch Deck Teardown: Protecto’s $4M seed deck](https://techcrunch.com/2024/03/22/sample-seed-pitch-deck-protecto/)
 - [Truth Social SPAC could pay Trump’s astronomical legal bills – if board OKs it](https://techcrunch.com/2024/03/22/truth-social-spac-could-pay-trumps-astronomical-legal-bills-if-board-oks-it/)
-- [Apple’s iPhone antitrust lawsuit: Everything we know so far on the DOJ’s case](https://techcrunch.com/2024/03/22/apples-iphone-antitrust-lawsuit-everything-we-know-so-far-on-the-dojs-case/)
-- [Startups Weekly: What goes up must come down](https://techcrunch.com/2024/03/22/startups-weekly-what-goes-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
