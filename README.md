@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas Eclipse Festival offers a &#39;choose your own adventure experience&#39; for April total solar eclipse](https://www.space.com/texas-eclipse-festival-2024)
+- [Pitch Deck Teardown: Protecto’s $4M seed deck](https://techcrunch.com/2024/03/22/sample-seed-pitch-deck-protecto/)
+- [Truth Social SPAC could pay Trump’s astronomical legal bills – if board OKs it](https://techcrunch.com/2024/03/22/truth-social-spac-could-pay-trumps-astronomical-legal-bills-if-board-oks-it/)
+- [Apple’s iPhone antitrust lawsuit: Everything we know so far on the DOJ’s case](https://techcrunch.com/2024/03/22/apples-iphone-antitrust-lawsuit-everything-we-know-so-far-on-the-dojs-case/)
 - [Startups Weekly: What goes up must come down](https://techcrunch.com/2024/03/22/startups-weekly-what-goes-up/)
-- [&#39;Space headaches&#39; are a literal pain for astronauts. Why do they happen?](https://www.space.com/space-headaches-pain-for-astronauts)
-- [AT&amp;T won’t say how its customers’ data spilled online](https://techcrunch.com/2024/03/22/att-customers-data-leak-online/)
-- [1991 Ventures in London joins the growing list of VCs aimed at Ukrainian startups](https://techcrunch.com/2024/03/22/1991-ventures-in-london-joins-the-growing-list-of-vcs-aimed-at-ukrainian-startups/)
-- [The Europa Clipper may only need 1 ice grain to detect life on Jupiter&#39;s ocean moon](https://www.space.com/europa-clipper-ice-grain-jupiter-ocean-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
