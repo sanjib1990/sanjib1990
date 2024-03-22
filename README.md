@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nsave gets $4M to enable people from unstable economies open offshore accounts](https://techcrunch.com/2024/03/22/nsave-gets-4m-seed-funding/)
 - [DOJ calls Apple’s privacy justifications an ‘elastic shield’ for financial gains](https://techcrunch.com/2024/03/21/doj-calls-apples-privacy-justifications-an-elastic-shield-for-financial-gains/)
 - [WhatsApp now lets you pin up to three messages](https://techcrunch.com/2024/03/21/whatsapp-now-lets-you-pin-up-to-three-messages/)
 - [World Fund closes first €300M climate tech fund, seeking to follow on and back hardware](https://techcrunch.com/2024/03/21/worldfund/)
 - [Here’s how Microsoft is providing a ‘good outcome’ for Inflection AI VCs, as Reid Hoffman promised](https://techcrunch.com/2024/03/21/microsoft-inflection-ai-investors-reid-hoffman-bill-gates/)
-- [Wing Venture’s Sara Choi will dig into pitching VCs at TechCrunch Early Stage 2024](https://techcrunch.com/2024/03/21/wing-ventures-sara-choi-will-dig-into-pitching-vcs-at-techcrunch-early-stage-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
