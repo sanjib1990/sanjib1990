@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket to tie reuse record with 19th launch tonight](https://www.space.com/spacex-starlink-launch-group-6-42)
+- [&#39;Quantum tornado&#39; allows scientists to mimic a black hole on Earth](https://www.space.com/quantum-tornado-black-hole-physics-simulation-absolute-zero)
+- [&#39;Shiva and Shakti&#39;: The ancient star streams that helped weave the Milky Way](https://www.space.com/milky-way-galaxy-shiva-shakti-ancient-stellar-streams)
+- [Boeing&#39;s 1st Starliner astronaut flight test for NASA could launch as soon as May 1](https://www.space.com/boeing-starliner-historic-1st-astronaut-mission-ready-launch)
 - [TechCrunch Minute: Breaking down the Apple iPhone antitrust lawsuit from the DOJ](https://techcrunch.com/2024/03/22/techcrunch-minute-breaking-down-the-apple-iphone-antitrust-lawsuit-from-the-doj/)
-- [NASA&#39;s latest &#39;Curious Universe&#39; podcast showcases our life-giving star](https://www.space.com/nasa-curious-universe-podcast-the-sun-our-star)
-- [Calmara suggests it can detect STIs with photos of genitals — a dangerous idea](https://techcrunch.com/2024/03/22/calmara-suggests-it-can-detect-stis-with-a-photo-of-a-mans-genitals-a-dangerous-idea/)
-- [NASA suspends Swift gamma-ray space telescope operations](https://www.space.com/nasa-swift-observatory-suspends-operations)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
