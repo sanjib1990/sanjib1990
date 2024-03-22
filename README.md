@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: Breaking down the Apple iPhone antitrust lawsuit from the DOJ](https://techcrunch.com/2024/03/22/techcrunch-minute-breaking-down-the-apple-iphone-antitrust-lawsuit-from-the-doj/)
+- [NASA&#39;s latest &#39;Curious Universe&#39; podcast showcases our life-giving star](https://www.space.com/nasa-curious-universe-podcast-the-sun-our-star)
 - [Calmara suggests it can detect STIs with photos of genitals — a dangerous idea](https://techcrunch.com/2024/03/22/calmara-suggests-it-can-detect-stis-with-a-photo-of-a-mans-genitals-a-dangerous-idea/)
 - [NASA suspends Swift gamma-ray space telescope operations](https://www.space.com/nasa-swift-observatory-suspends-operations)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [A $700M SAFE, IPOs are back, and how one venture fund is transcending borders](https://techcrunch.com/2024/03/22/a-700m-safe-ipos-are-back-and-how-one-venture-fund-is-transcending-borders/)
-- [See the 1st teaser for August sci-fi scarefest &#39;Alien: Romulus&#39; &lpar;video&rpar;](https://www.space.com/alien-romulus-film-first-teaser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
