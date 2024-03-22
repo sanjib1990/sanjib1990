@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Neuralink full send... Elon&#39;s brain chips actually work on humans](https://www.youtube.com/watch?v=8BrLNgKLWzs)
 - [DON&#39;T be like &quot;Steve&quot;...](https://www.youtube.com/watch?v=exsA7UdC6Lg)
-- [Erlang in 100 Seconds](https://www.youtube.com/watch?v=M7uo5jmFDUw)
-- [Robots are rising up faster than expected… Figure 01 to enter labor force](https://www.youtube.com/watch?v=2hlD7dWp09M)
 - [3D Gaussian Splatting! - Computerphile](https://www.youtube.com/watch?v=VkIJbpdTujE)
+- [Run your own AI &lpar;but private&rpar;](https://www.youtube.com/watch?v=WxYC9-hBM_g)
+- [my phone is always doing WHAT?!?!](https://www.youtube.com/watch?v=pmVr_9tBloE)
+- [ChatGPT has a BIG problem...](https://www.youtube.com/watch?v=adCiAMpwUC8)
 <!-- YOUTUBE:END -->
 
 ---
