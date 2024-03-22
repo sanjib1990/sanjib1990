@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazing photos of &#39;horned&#39; comet 12P/Pons-Brooks from around the world](https://www.space.com/horned-comet-12p-pons-brooks-photos)
+- [&#39;All eyes to the sky&#39;: National Geographic to chronicle epic solar spectacle on April 8 &lpar;exclusive video&rpar;](https://www.space.com/national-geographic-eclipse-across-america)
 - [Last call for pitch submissions at TechCrunch Early Stage 2024!](https://techcrunch.com/2024/03/22/last-call-for-pitch-submissions-at-techcrunch-early-stage-2024/)
 - [A &#39;snowball fight&#39; may help scientists find life on Jupiter&#39;s moon Europa](https://www.space.com/snowball-fight-jupiter-moon-europa-ice-shell-thickness)
 - [Hubble Space Telescope discovers &#39;failed stars&#39; are bad at relationships too](https://www.space.com/hubble-space-telescope-brown-dwarf-failed-star-binary)
-- [DOJ lawsuit against Apple is headline grabber but poses limited near-term impact](https://techcrunch.com/2024/03/22/doj-lawsuit-against-apple-is-headline-grabber-with-limited-near-term-impact/)
-- [UK confirms in-depth antitrust probe into Three and Vodafone’s planned $19B merger](https://techcrunch.com/2024/03/22/uk-confirms-in-depth-antitrust-probe-into-three-and-vodafones-planned-19b-merger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
