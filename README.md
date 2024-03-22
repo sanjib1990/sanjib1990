@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the 1st teaser for August sci-fi scarefest &#39;Alien: Romulus&#39; &lpar;video&rpar;](https://www.space.com/alien-romulus-film-first-teaser)
+- [Investors’ pledge to fight spyware undercut by past investments in US malware maker](https://techcrunch.com/2024/03/22/us-cyber-investors-pledge-spyware-is-off-limits-with-a-catch/)
 - [Amazing photos of &#39;horned&#39; comet 12P/Pons-Brooks from around the world](https://www.space.com/horned-comet-12p-pons-brooks-photos)
-- [&#39;All eyes to the sky&#39;: National Geographic to chronicle epic solar spectacle on April 8 &lpar;exclusive video&rpar;](https://www.space.com/national-geographic-eclipse-across-america)
+- [&#39;All eyes to the sky&#39;: National Geographic and ABC to chronicle epic solar spectacle on April 8 &lpar;exclusive video&rpar;](https://www.space.com/national-geographic-eclipse-across-america)
 - [Last call for pitch submissions at TechCrunch Early Stage 2024!](https://techcrunch.com/2024/03/22/last-call-for-pitch-submissions-at-techcrunch-early-stage-2024/)
-- [A &#39;snowball fight&#39; may help scientists find life on Jupiter&#39;s moon Europa](https://www.space.com/snowball-fight-jupiter-moon-europa-ice-shell-thickness)
-- [Hubble Space Telescope discovers &#39;failed stars&#39; are bad at relationships too](https://www.space.com/hubble-space-telescope-brown-dwarf-failed-star-binary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
