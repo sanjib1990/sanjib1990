@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deal Dive: Building the Airbnb for guided hunting and fishing](https://techcrunch.com/2024/03/23/deal-dive-building-the-airbnb-for-guided-hunting-and-fishing/)
 - [Liquid Death is just one of many VC-backed beverage startups ready to disrupt Coke and Pepsi](https://techcrunch.com/2024/03/23/liquid-death-vc-beverage-startup-coke-pepsi/)
 - [Massive explosions may be visible on the sun during the April 8 total solar eclipse](https://www.space.com/massive-eruptions-visible-sun-during-total-eclipse-2024-what-to-look-for)
 - [Why it’s impossible to review AIs, and why TechCrunch is doing it anyway](https://techcrunch.com/2024/03/23/why-its-impossible-to-review-ais-and-why-techcrunch-is-doing-it-anyway/)
 - [Satellites watch Iceland volcano spew gigantic plume of toxic gas across Europe](https://www.space.com/satellites-iceland-volcano-toxic-gas-europe)
-- [Flight attendant becomes 1st Belarusian in space on ISS-bound Soyuz launch](https://www.space.com/soyuz-ms-25-launch-international-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
