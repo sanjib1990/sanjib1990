@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to give yourself the best chance of clear skies for April 8&#39;s solar eclipse](https://www.space.com/give-yourself-best-chance-clear-skies-weather-total-solar-eclipse-2024)
+- [SpaceX&#39;s Dragon capsule docks at ISS on 30th cargo mission for NASA](https://www.space.com/spacex-dragon-crs-30-cargo-mission-iss-docking)
 - [SpaceX moves next Starship to pad for testing ahead of 4th flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-fourth-test-flight-static-fire-move-photos)
 - [Stability AI CEO resigns because you’re ‘not going to beat centralized AI with more centralized AI’](https://techcrunch.com/2024/03/22/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai/)
 - [Atomos Space’s first mission on orbit is a trial by fire](https://techcrunch.com/2024/03/22/atomos-spaces-first-mission-on-orbit-is-a-trial-by-fire/)
-- [Lordstown Motors’ ousted CEO settles with SEC for misleading investors](https://techcrunch.com/2024/03/22/lordstown-motors-ousted-ceo-settles-with-sec-for-misleading-investors/)
-- [Apple’s Vision Pro is here: These are some of the most exciting indie apps and games](https://techcrunch.com/2024/03/22/apple-vision-pro-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
