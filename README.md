@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive explosions may be visible on the sun during the April 8 total solar eclipse](https://www.space.com/massive-eruptions-visible-sun-during-total-eclipse-2024-what-to-look-for)
 - [Why it’s impossible to review AIs, and why TechCrunch is doing it anyway](https://techcrunch.com/2024/03/23/why-its-impossible-to-review-ais-and-why-techcrunch-is-doing-it-anyway/)
 - [Satellites watch Iceland volcano spew gigantic plume of toxic gas across Europe](https://www.space.com/satellites-iceland-volcano-toxic-gas-europe)
 - [Flight attendant becomes 1st Belarusian in space on ISS-bound Soyuz launch](https://www.space.com/soyuz-ms-25-launch-international-space-station)
 - [This Week In Space podcast: Episode 103 — Starship&#39;s Orbital Feat](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-103-starship-orbital-feat)
-- [How to give yourself the best chance of clear skies for April 8&#39;s solar eclipse](https://www.space.com/give-yourself-best-chance-clear-skies-weather-total-solar-eclipse-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
