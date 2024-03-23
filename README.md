@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why it’s impossible to review AIs, and why TechCrunch is doing it anyway](https://techcrunch.com/2024/03/23/why-its-impossible-to-review-ais-and-why-techcrunch-is-doing-it-anyway/)
+- [Satellites watch Iceland volcano spew gigantic plume of toxic gas across Europe](https://www.space.com/satellites-iceland-volcano-toxic-gas-europe)
+- [Flight attendant becomes 1st Belarusian in space on ISS-bound Soyuz launch](https://www.space.com/soyuz-ms-25-launch-international-space-station)
+- [This Week In Space podcast: Episode 103 — Starship&#39;s Orbital Feat](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-103-starship-orbital-feat)
 - [How to give yourself the best chance of clear skies for April 8&#39;s solar eclipse](https://www.space.com/give-yourself-best-chance-clear-skies-weather-total-solar-eclipse-2024)
-- [SpaceX&#39;s Dragon capsule docks at ISS on 30th cargo mission for NASA](https://www.space.com/spacex-dragon-crs-30-cargo-mission-iss-docking)
-- [SpaceX moves next Starship to pad for testing ahead of 4th flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-fourth-test-flight-static-fire-move-photos)
-- [Stability AI CEO resigns because you’re ‘not going to beat centralized AI with more centralized AI’](https://techcrunch.com/2024/03/22/stability-ai-ceo-resigns-because-youre-not-going-to-beat-centralized-ai-with-more-centralized-ai/)
-- [Atomos Space’s first mission on orbit is a trial by fire](https://techcrunch.com/2024/03/22/atomos-spaces-first-mission-on-orbit-is-a-trial-by-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
