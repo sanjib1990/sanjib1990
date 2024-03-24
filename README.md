@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts&#39; mementos packed on Boeing Starliner for crew flight test](https://www.space.com/boeing-cft-starliner-calypso-memorabilia)
 - [&#39;Spaceman&#39; director Johan Renck on making a romantic sci-fi fable &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/spaceman-director-johan-renck-on-making-a-romantic-sci-fi-fable-exclusive)
 - [Eclipse seasons: Why the lunar eclipse on March 25 occurs 2 weeks before the total solar eclipse on April 8](https://www.space.com/what-are-eclipse-seasons-moon-sun-earth-alignment)
 - [How to stay safe during the April 8 solar eclipse](https://www.space.com/6-safety-tips-total-solar-eclipse-april-2024)
 - [Apple sued, Microsoft’s AI ambitions and Nvidia’s surprises](https://techcrunch.com/2024/03/23/apple-sued-microsofts-ai-ambitions-and-nvidia-surprises/)
-- [Mallard Bay is the Airbnb for guided hunting and fishing](https://techcrunch.com/2024/03/23/mallard-bay-airbnb-for-guided-hunting-and-fishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
