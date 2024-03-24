@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: The wheels are starting to come off the Fisker EV bus](https://techcrunch.com/2024/03/24/techcrunch-mobility-the-wheels-are-starting-to-come-off-the-fisker-ev-bus/)
 - [Nvidia could be primed to be the next AWS](https://techcrunch.com/2024/03/24/nvidia-could-be-primed-to-be-the-next-aws/)
 - [Drilling for water ice on Mars: How close are we to making it happen?](https://www.space.com/mars-water-ice-drill-honeybee-robotics)
 - [Non-sexy industries can appeal to investors too](https://techcrunch.com/2024/03/24/non-sexy-industries-can-appeal-to-investors-too/)
 - [Astronauts&#39; mementos packed on Boeing Starliner for crew flight test](https://www.space.com/boeing-cft-starliner-calypso-memorabilia)
-- [&#39;Spaceman&#39; director Johan Renck on making a romantic sci-fi fable &lpar;exclusive&rpar;](https://www.space.com/entertainment/space-movies-shows/spaceman-director-johan-renck-on-making-a-romantic-sci-fi-fable-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
