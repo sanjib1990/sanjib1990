@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to stay safe during the April 8 solar eclipse](https://www.space.com/6-safety-tips-total-solar-eclipse-april-2024)
 - [Apple sued, Microsoft’s AI ambitions and Nvidia’s surprises](https://techcrunch.com/2024/03/23/apple-sued-microsofts-ai-ambitions-and-nvidia-surprises/)
 - [Mallard Bay is the Airbnb for guided hunting and fishing](https://techcrunch.com/2024/03/23/mallard-bay-airbnb-for-guided-hunting-and-fishing/)
 - [Liquid Death is just one of many VC-backed beverage startups ready to disrupt Coke and Pepsi](https://techcrunch.com/2024/03/23/liquid-death-vc-beverage-startup-coke-pepsi/)
 - [Massive explosions may be visible on the sun during the April 8 total solar eclipse](https://www.space.com/massive-eruptions-visible-sun-during-total-eclipse-2024-what-to-look-for)
-- [Why it’s impossible to review AIs, and why TechCrunch is doing it anyway](https://techcrunch.com/2024/03/23/why-its-impossible-to-review-ais-and-why-techcrunch-is-doing-it-anyway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
