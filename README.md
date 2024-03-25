@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Opposites attract? Not in new experiment that finds loophole in fundamental rule of physics](https://www.space.com/particle-physics-like-charged-objects-attract-new-study)
-- [Lucid Motors raises another $1 billion from Saudi Arabia as it searches for luxury EV buyers](https://techcrunch.com/2024/03/25/lucid-motors-1-billion-saudi-arabia-gravity-suv/)
-- [March&#39;s Full Worm Moon wriggles its way through a subtle lunar eclipse in stunning photos](https://www.space.com/march-full-moon-lunar-eclipse-2024-photos)
-- [Spotify throws its hat in the edtech ring](https://techcrunch.com/2024/03/25/spotify-throws-its-hat-in-the-edtech-ring/)
-- [Match appoints two board directors after talks with activist investor Elliott Management](https://techcrunch.com/2024/03/25/match-board-directors-after-talks-activist-investor-elliott-management/)
+- [&#39;Star Wars&#39; fan-favorite Sith returns in &#39;Darth Maul: Black, White &amp; Red&#39;](https://www.space.com/star-wars-darth-maul-black-white-red-comic-anthology)
+- [Boston Side Events line up at Early Stage with Techstars, Women in Tech, Harvard and more](https://techcrunch.com/2024/03/25/boston-side-events-lineup-at-early-stage-with-techstars-women-in-tech-harvard-more/)
+- [TechCrunch Minute: Why the company behind Trump’s Truth Social joined the growing IPO trend](https://techcrunch.com/2024/03/25/techcrunch-minute-why-the-company-behind-trumps-truth-social-joined-the-growing-ipo-trend/)
+- [UK blames China for massive breach of voter data](https://techcrunch.com/2024/03/25/uk-government-electoral-breach-voter-data-china/)
+- [3 spaceflyers arrive at the ISS aboard Russian Soyuz spacecraft](https://www.space.com/russian-soyuz-ms-25-astronaut-mission-arrives-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
