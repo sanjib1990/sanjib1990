@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuitive Machines&#39; historic private moon moon mission comes to an end](https://www.space.com/intuitive-machines-im-1-moon-mission-ends)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Fake solar eclipse glasses are everywhere ahead of the total solar eclipse. Here&#39;s how to check yours are safe](https://www.space.com/aas-warns-of-fake-solar-glasses-total-eclipse-2024)
 - [&#39;Star Wars&#39; fan-favorite Sith returns in &#39;Darth Maul: Black, White &amp; Red&#39;](https://www.space.com/star-wars-darth-maul-black-white-red-comic-anthology)
 - [Boston Side Events line up at Early Stage with Techstars, Women in Tech, Harvard and more](https://techcrunch.com/2024/03/25/boston-side-events-lineup-at-early-stage-with-techstars-women-in-tech-harvard-more/)
-- [TechCrunch Minute: Why the company behind Trump’s Truth Social joined the growing IPO trend](https://techcrunch.com/2024/03/25/techcrunch-minute-why-the-company-behind-trumps-truth-social-joined-the-growing-ipo-trend/)
-- [UK blames China for massive breach of voter data](https://techcrunch.com/2024/03/25/uk-government-electoral-breach-voter-data-china/)
-- [3 spaceflyers arrive at the ISS aboard Russian Soyuz spacecraft](https://www.space.com/russian-soyuz-ms-25-astronaut-mission-arrives-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
