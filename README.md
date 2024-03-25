@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Profluent, spurred by Salesforce research and backed by Jeff Dean, uses AI to discover medicines](https://techcrunch.com/2024/03/25/profluent-spurred-by-salesforce-research-and-backed-by-jeff-dean-uses-ai-to-discover-medicines/)
+- [TechCrunch Space: Returning to the moon](https://techcrunch.com/2024/03/25/techcrunch-space-returning-to-the-moon/)
+- [Keep the lines of communication open by building your own infrared transmitter](https://www.space.com/stem-guardian-challenge-two-space-force)
+- [Maju Kuruvilla is out as CEO of one-click checkout company Bolt](https://techcrunch.com/2024/03/25/maju-kuruvilla-is-out-as-ceo-of-one-click-checkout-company-bolt/)
 - [Fisker trading suspended by NYSE](https://techcrunch.com/2024/03/25/fisker-trading-suspended-by-nyse/)
-- [A judge just killed Elon Musk’s lawsuit against an anti-hate research org](https://techcrunch.com/2024/03/25/elon-musk-x-ccdh-california-lawsuit-dismissed/)
-- [Large language models can help home robots recover from errors without human help](https://techcrunch.com/2024/03/25/large-language-models-can-help-home-robots-recover-from-errors-without-human-help/)
-- [NASA is holding a total eclipse 2024 briefing tomorrow. Here&#39;s how to watch it live](https://www.space.com/nasa-total-eclipse-briefing-watch-online-free)
-- [SpaceX launching 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-46)
 <!-- BLOG-POST-LIST:END -->
 
 ---
