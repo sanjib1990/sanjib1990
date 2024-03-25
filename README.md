@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens if it&#39;s cloudy for the April 8 solar eclipse?](https://www.space.com/what-if-it-is-cloudy-for-total-solar-eclipse-april-8-2024)
+- [Fisker loses potential Nissan deal, putting rescue funds at risk](https://techcrunch.com/2024/03/25/fisker-nissan-deal-dead-funding-bankruptcy/)
+- [Strongest solar storm since 2017 hits Earth but leaves aurora chasers in the dark](https://www.space.com/strongest-solar-storm-since-2017-hits-earth-march-24)
 - [Ticktock: 5 days left to nest your early-bird savings for TC Early Stage](https://techcrunch.com/2024/03/25/ticktock-5-days-left-to-nest-your-early-bird-savings-for-tc-early-stage/)
 - [Boeing CEO to leave company by year-end, after a wave of safety incidents](https://techcrunch.com/2024/03/25/boeing-ceo-to-leave-company-by-year-end-after-a-wave-of-safety-incidents/)
-- [Apple, Google and Meta face first formal investigations under EU’s DMA](https://techcrunch.com/2024/03/25/dma-first-formal-probes/)
-- [How fast will April&#39;s total solar eclipse travel?](https://www.space.com/how-fast-will-total-solar-eclipse-2024-travel)
-- [We’re working out how to solve crimes in space – the final frontier of forensic science](https://www.space.com/how-to-solve-crimes-in-space-forensic-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
