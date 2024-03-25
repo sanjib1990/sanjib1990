@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Large language models can help home robots recover from errors without human help](https://techcrunch.com/2024/03/25/large-language-models-can-help-home-robots-recover-from-errors-without-human-help/)
+- [NASA is holding a total eclipse 2024 briefing tomorrow. Here&#39;s how to watch it live](https://www.space.com/nasa-total-eclipse-briefing-watch-online-free)
+- [SpaceX launching 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-46)
 - [Can you hear me now? AI-coustics to fight noisy audio with generative AI](https://techcrunch.com/2024/03/25/can-you-hear-me-now-ai-coustics-to-fight-noisy-audio-with-generative-ai/)
 - [London regtech GSS raises $47M to help banks screen for global sanctions](https://techcrunch.com/2024/03/25/london-regtech-gss-raises-47m-to-help-banks-screen-for-global-sanctions/)
-- [Intuitive Machines&#39; historic private moon moon mission comes to an end](https://www.space.com/intuitive-machines-im-1-moon-mission-ends)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Fake solar eclipse glasses are everywhere ahead of the total solar eclipse. Here&#39;s how to check yours are safe](https://www.space.com/aas-warns-of-fake-solar-glasses-total-eclipse-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
