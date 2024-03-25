@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires up Starship rocket ahead of 4th test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-static-fire-fourth-test-flight)
+- [Bankrupt EV startup Arrival sold its assets to Canoo](https://techcrunch.com/2024/03/25/bankrupt-ev-startup-arrival-sold-its-assets-to-canoo/)
 - [Profluent, spurred by Salesforce research and backed by Jeff Dean, uses AI to discover medicines](https://techcrunch.com/2024/03/25/profluent-spurred-by-salesforce-research-and-backed-by-jeff-dean-uses-ai-to-discover-medicines/)
 - [TechCrunch Space: Returning to the moon](https://techcrunch.com/2024/03/25/techcrunch-space-returning-to-the-moon/)
 - [Keep the lines of communication open by building your own infrared transmitter](https://www.space.com/stem-guardian-challenge-two-space-force)
-- [Maju Kuruvilla is out as CEO of one-click checkout company Bolt](https://techcrunch.com/2024/03/25/maju-kuruvilla-is-out-as-ceo-of-one-click-checkout-company-bolt/)
-- [Fisker trading suspended by NYSE](https://techcrunch.com/2024/03/25/fisker-trading-suspended-by-nyse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
