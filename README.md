@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you hear me now? AI-coustics to fight noisy audio with generative AI](https://techcrunch.com/2024/03/25/can-you-hear-me-now-ai-coustics-to-fight-noisy-audio-with-generative-ai/)
+- [London regtech GSS raises $47M to help banks screen for global sanctions](https://techcrunch.com/2024/03/25/london-regtech-gss-raises-47m-to-help-banks-screen-for-global-sanctions/)
 - [Intuitive Machines&#39; historic private moon moon mission comes to an end](https://www.space.com/intuitive-machines-im-1-moon-mission-ends)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Fake solar eclipse glasses are everywhere ahead of the total solar eclipse. Here&#39;s how to check yours are safe](https://www.space.com/aas-warns-of-fake-solar-glasses-total-eclipse-2024)
-- [&#39;Star Wars&#39; fan-favorite Sith returns in &#39;Darth Maul: Black, White &amp; Red&#39;](https://www.space.com/star-wars-darth-maul-black-white-red-comic-anthology)
-- [Boston Side Events line up at Early Stage with Techstars, Women in Tech, Harvard and more](https://techcrunch.com/2024/03/25/boston-side-events-lineup-at-early-stage-with-techstars-women-in-tech-harvard-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
