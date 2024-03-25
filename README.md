@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tutoring platform GoStudent reaches profitability amid tradeoffs](https://techcrunch.com/2024/03/25/gostudent-tutoring-profitability/)
 - [The Chandra X-ray spacecraft may soon go dark, threatening a great deal of astronomy](https://www.space.com/chandra-x-ray-observatory-nasa-fy2025-budget)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Spotify tests video courses to teach everything from music production to excel](https://techcrunch.com/2024/03/25/spotify-courses-learning/)
+- [Spotify tests video courses to teach everything from music production to Excel](https://techcrunch.com/2024/03/25/spotify-courses-learning/)
 - [TechCrunch Mobility: The wheels are starting to come off the Fisker EV bus](https://techcrunch.com/2024/03/24/techcrunch-mobility-the-wheels-are-starting-to-come-off-the-fisker-ev-bus/)
-- [Nvidia could be primed to be the next AWS](https://techcrunch.com/2024/03/24/nvidia-could-be-primed-to-be-the-next-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
