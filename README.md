@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify tests video courses to teach everything from music production to excel](https://techcrunch.com/2024/03/25/spotify-courses-learning/)
 - [TechCrunch Mobility: The wheels are starting to come off the Fisker EV bus](https://techcrunch.com/2024/03/24/techcrunch-mobility-the-wheels-are-starting-to-come-off-the-fisker-ev-bus/)
 - [Nvidia could be primed to be the next AWS](https://techcrunch.com/2024/03/24/nvidia-could-be-primed-to-be-the-next-aws/)
 - [Drilling for water ice on Mars: How close are we to making it happen?](https://www.space.com/mars-water-ice-drill-honeybee-robotics)
 - [Non-sexy industries can appeal to investors too](https://techcrunch.com/2024/03/24/non-sexy-industries-can-appeal-to-investors-too/)
-- [Astronauts&#39; mementos packed on Boeing Starliner for crew flight test](https://www.space.com/boeing-cft-starliner-calypso-memorabilia)
 <!-- BLOG-POST-LIST:END -->
 
 ---
