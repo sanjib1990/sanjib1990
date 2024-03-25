@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ticktock: 5 days left to nest your early-bird savings for TC Early Stage](https://techcrunch.com/2024/03/25/ticktock-5-days-left-to-nest-your-early-bird-savings-for-tc-early-stage/)
+- [Boeing CEO to leave company by year-end, after a wave of safety incidents](https://techcrunch.com/2024/03/25/boeing-ceo-to-leave-company-by-year-end-after-a-wave-of-safety-incidents/)
 - [Apple, Google and Meta face first formal investigations under EU’s DMA](https://techcrunch.com/2024/03/25/dma-first-formal-probes/)
 - [How fast will April&#39;s total solar eclipse travel?](https://www.space.com/how-fast-will-total-solar-eclipse-2024-travel)
 - [We’re working out how to solve crimes in space – the final frontier of forensic science](https://www.space.com/how-to-solve-crimes-in-space-forensic-science)
-- [GoStudent, the online learning platform, says it’s now profitable](https://techcrunch.com/2024/03/25/gostudent-tutoring-profitability/)
-- [The Chandra X-ray spacecraft may soon go dark, threatening a great deal of astronomy](https://www.space.com/chandra-x-ray-observatory-nasa-fy2025-budget)
 <!-- BLOG-POST-LIST:END -->
 
 ---
