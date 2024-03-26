@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Facebook snooped on users’ Snapchat traffic in secret project, documents reveal](https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/)
+- [Euclid &#39;dark universe&#39; telescope&#39;s vision restored by deicing campaign](https://www.space.com/euclid-dark-matter-telescope-vision-restored)
+- [NASA’s snake robot is designed to search out life in the icy oceans of a Saturn moon](https://techcrunch.com/2024/03/26/nasas-snake-robot-is-designed-to-search-out-life-in-the-icy-oceans-of-a-saturn-moon/)
+- [Vibrant Planet uses AI for land mapping and improving climate resiliency](https://techcrunch.com/2024/03/26/vibrant-planet-uses-ai-for-land-mapping-and-improving-climate-resiliency/)
 - [April 8 total solar eclipse could bring uptick in fatal car crashes, scientists caution](https://www.space.com/total-solar-eclipse-april-8-uptick-in-fatal-car-crashes-scientists-caution)
-- [Synctera is the latest banking-as-a-service startup to lay off staff](https://techcrunch.com/2024/03/26/baas-startup-synctera-layoffs-fintech/)
-- [Watch &#39;Doctor Who&#39; visit the Victorian Era and the age of dinosaurs in new Season 14 trailer &lpar;video&rpar;](https://www.space.com/doctor-who-season-14-trailer-disney-plus)
-- [&#39;Apollo: When We Went the Moon&#39; exhibit lands at NYC&#39;s Intrepid Museum](https://www.space.com/intrepid-apollo-when-we-went-moon-exhibit)
-- [Apple WWDC 2024, set for June 10-14, promises to be ‘A&lpar;bsolutely&rpar; I&lpar;ncredible&rpar;’](https://techcrunch.com/2024/03/26/apple-wwdc-2024-set-for-june-10-14-promises-to-be-absolutely-incredible/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
