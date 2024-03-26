@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Uzbekistan’s first unicorn: e-commerce startup Uzum](https://techcrunch.com/2024/03/25/uzbekistan-unicorn-uzum-series-a-funding/)
+- [900.care sells waterless personal care products and lets you add tap water at home](https://techcrunch.com/2024/03/25/900care-raises-23-million-for-its-waterless-personal-care-products/)
 - [SpaceX fires up Starship rocket ahead of 4th test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-static-fire-fourth-test-flight)
 - [Bankrupt EV startup Arrival sold its assets to Canoo](https://techcrunch.com/2024/03/25/bankrupt-ev-startup-arrival-sold-its-assets-to-canoo/)
 - [Profluent, spurred by Salesforce research and backed by Jeff Dean, uses AI to discover medicines](https://techcrunch.com/2024/03/25/profluent-spurred-by-salesforce-research-and-backed-by-jeff-dean-uses-ai-to-discover-medicines/)
-- [TechCrunch Space: Returning to the moon](https://techcrunch.com/2024/03/25/techcrunch-space-returning-to-the-moon/)
-- [Keep the lines of communication open by building your own infrared transmitter](https://www.space.com/stem-guardian-challenge-two-space-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
