@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope witnesses a new star being born in a stunning cosmic light show &lpar;image&rpar;](https://www.space.com/hubble-telescope-new-star-fs-tau-b)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Metyos is building a biowearable to monitor chronic kidney disease](https://techcrunch.com/2024/03/26/metyos-pre-seed/)
 - [Watch India&#39;s prototype space plane ace a landing test &lpar;video&rpar;](https://www.space.com/india-second-landing-test-space-planet-video-march-2024)
-- [AI is a data problem. Now Cyera is raising up to $300M on a $1.5B valuation, to secure it](https://techcrunch.com/2024/03/26/ai-security-cyera-startup-coatue/)
-- [AI and data infrastructure drives demand for open source startups](https://techcrunch.com/2024/03/26/ai-and-data-infrastructure-drives-demand-for-open-source-startups/)
-- [How Ember is building an all-electric intercity bus network in the UK](https://techcrunch.com/2024/03/26/ember-is-building-an-all-electric-intercity-bus-network-in-the-uk/)
+- [AI is a data problem. Now Cyera is raising up to $300M on a $1.5B valuation to secure it](https://techcrunch.com/2024/03/26/ai-security-cyera-startup-coatue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
