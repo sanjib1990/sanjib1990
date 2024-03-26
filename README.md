@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch India&#39;s prototype space plane ace a landing test &lpar;video&rpar;](https://www.space.com/india-second-landing-test-space-planet-video-march-2024)
+- [AI is a data problem. Now Cyera is raising up to $300M on a $1.5B valuation, to secure it](https://techcrunch.com/2024/03/26/ai-security-cyera-startup-coatue/)
 - [AI and data infrastructure drives demand for open source startups](https://techcrunch.com/2024/03/26/ai-and-data-infrastructure-drives-demand-for-open-source-startups/)
 - [How Ember is building an all-electric intercity bus network in the UK](https://techcrunch.com/2024/03/26/ember-is-building-an-all-electric-intercity-bus-network-in-the-uk/)
 - [Telegram’s peer-to-peer SMS login service is a privacy nightmare](https://techcrunch.com/2024/03/25/telegrams-peer-to-peer-sms-login-service-is-a-privacy-nightmare/)
-- [Meet Uzbekistan’s first unicorn: e-commerce startup Uzum](https://techcrunch.com/2024/03/25/uzbekistan-unicorn-uzum-series-a-funding/)
-- [900.care sells waterless personal care products and lets you add tap water at home](https://techcrunch.com/2024/03/25/900care-raises-23-million-for-its-waterless-personal-care-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
