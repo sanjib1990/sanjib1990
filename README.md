@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Nextdoor exec raises $25 million for PipeDreams, a startup rolling up HVAC companies](https://techcrunch.com/2024/03/26/former-nextdoor-exec-raises-25-million-for-pipedreams-a-startup-rolling-up-hvac-companies/)
-- [SpaceX Crew-7 astronauts share the good and bad of spending 6 months in space](https://www.space.com/spacex-crew-7-astronauts-post-flight-press-conference)
-- [Ionobell’s is turning to recycled silicon to boost EV range](https://techcrunch.com/2024/03/26/ionobell-fundraise-exclusive/)
-- [Fireworks.ai open source API puts generative AI in reach of any developer](https://techcrunch.com/2024/03/26/fireworks-ai-open-source-api-puts-generative-ai-in-reach-of-any-developer/)
-- [How long will April&#39;s total solar eclipse last?](https://www.space.com/how-long-will-total-solar-eclipse-last-april-8)
+- [Adobe’s GenStudio brings brand-safe generative AI to marketers](https://techcrunch.com/2024/03/26/adobes-genstudio-brings-brand-safe-generative-ai-to-marketers/)
+- [TechCrunch Minute: What Stability AI’s CEO departure means for other AI startups](https://techcrunch.com/2024/03/26/techcrunch-minute-what-stability-ais-ceo-departure-means-for-other-ai-startups/)
+- [Netflix&#39;s &#39;The Signal&#39; is a lyrical sci-fi miniseries with clever twists and turns &lpar;review&rpar;](https://www.space.com/netflix-the-signal-review)
+- [YC-backed SigmaOS browser turns to AI-powered features for monetization](https://techcrunch.com/2024/03/26/yc-backed-sigmaos-browser-turns-to-ai-powered-features-for-monetization/)
+- [Confetti, a team-building platform used by Apple, Google and Microsoft, raises $16M](https://techcrunch.com/2024/03/26/confetti-a-team-building-platform-used-by-apple-google-and-microsoft-raises-16m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
