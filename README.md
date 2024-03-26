@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Telescope witnesses a new star being born in a stunning cosmic light show &lpar;image&rpar;](https://www.space.com/hubble-telescope-new-star-fs-tau-b)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Metyos is building a biowearable to monitor chronic kidney disease](https://techcrunch.com/2024/03/26/metyos-pre-seed/)
-- [Watch India&#39;s prototype space plane ace a landing test &lpar;video&rpar;](https://www.space.com/india-second-landing-test-space-planet-video-march-2024)
-- [AI is a data problem. Now Cyera is raising up to $300M on a $1.5B valuation to secure it](https://techcrunch.com/2024/03/26/ai-security-cyera-startup-coatue/)
+- [Just 4 days left to cash in on early-bird savings to TC Early Stage 2024](https://techcrunch.com/2024/03/26/just-4-days-left-to-cash-in-on-early-bird-savings-to-tc-early-stage-2024/)
+- [0G Labs launches with whopping $35M pre-seed to build a modular AI blockchain](https://techcrunch.com/2024/03/26/0g-labs-launches-with-whopping-35m-pre-seed-to-build-a-modular-ai-blockchain/)
+- [Viam looks beyond robotics with its no-code automation platform](https://techcrunch.com/2024/03/26/viam-looks-beyond-robotics-with-its-no-code-automation-platform/)
+- [Thoras.ai automates resource allocation for Kubernertes workloads](https://techcrunch.com/2024/03/26/thoras-ai-created-a-kubernetes-optimization-tool-to-automate-resource-allocation/)
+- [What are the true colors of images from the James Webb Space Telescope?](https://www.space.com/what-are-true-colors-image-james-webb-space-telescope-jwst)
 <!-- BLOG-POST-LIST:END -->
 
 ---
