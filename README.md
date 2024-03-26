@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explosive, green &#39;devil comet&#39; has hidden spiral swirling around its icy heart, photo trickery reveals](https://www.space.com/devil-comet-hidden-spiral-icy-heart)
+- [With Affinity acquisition, Canva should be able to compete better with Adobe’s creative tools](https://techcrunch.com/2024/03/26/with-affinity-acquisition-canva-should-be-able-to-compete-better-with-adobes-creative-tools/)
+- [Evari turns to rocket science to solve problems with heat pumps](https://techcrunch.com/2024/03/26/evari-seed-round/)
+- [Instagram co-founders’ AI-powered news app Artifact may not be shutting down after all](https://techcrunch.com/2024/03/26/instagram-co-founders-ai-powered-news-app-artifact-may-not-be-shutting-down-after-all/)
 - [Adobe’s GenStudio brings brand-safe generative AI to marketers](https://techcrunch.com/2024/03/26/adobes-genstudio-brings-brand-safe-generative-ai-to-marketers/)
-- [TechCrunch Minute: What Stability AI’s CEO departure means for other AI startups](https://techcrunch.com/2024/03/26/techcrunch-minute-what-stability-ais-ceo-departure-means-for-other-ai-startups/)
-- [Netflix&#39;s &#39;The Signal&#39; is a lyrical sci-fi miniseries with clever twists and turns &lpar;review&rpar;](https://www.space.com/netflix-the-signal-review)
-- [YC-backed SigmaOS browser turns to AI-powered features for monetization](https://techcrunch.com/2024/03/26/yc-backed-sigmaos-browser-turns-to-ai-powered-features-for-monetization/)
-- [Confetti, a team-building platform used by Apple, Google and Microsoft, raises $16M](https://techcrunch.com/2024/03/26/confetti-a-team-building-platform-used-by-apple-google-and-microsoft-raises-16m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
