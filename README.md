@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch &#39;Doctor Who&#39; visit the Victorian Era and the age of dinosaurs in new Season 14 trailer &lpar;video&rpar;](https://www.space.com/doctor-who-season-14-trailer-disney-plus)
 - [&#39;Apollo: When We Went the Moon&#39; exhibit lands at NYC&#39;s Intrepid Museum](https://www.space.com/intrepid-apollo-when-we-went-moon-exhibit)
-- [Apple WWDC 2024 set for June 10-14, promises to be ‘A&lpar;bsolutely&rpar; I&lpar;ncredible&rpar;’](https://techcrunch.com/2024/03/26/apple-wwdc-2024-set-for-june-10-14-promises-to-be-absolutely-incredible/)
+- [Apple WWDC 2024, set for June 10-14, promises to be ‘A&lpar;bsolutely&rpar; I&lpar;ncredible&rpar;’](https://techcrunch.com/2024/03/26/apple-wwdc-2024-set-for-june-10-14-promises-to-be-absolutely-incredible/)
 - [EU publishes election security guidance for social media giants and others in scope of DSA](https://techcrunch.com/2024/03/26/eu-election-security-guidance-for-vlops/)
 - [Adobe’s Firefly Services makes over 20 new generative and creative APIs available to developers](https://techcrunch.com/2024/03/26/adobes-firefly-services-makes-over-20-new-generative-and-creative-apis-available-to-developers/)
-- [Explosive, green &#39;devil comet&#39; has hidden spiral swirling around its icy heart, photo trickery reveals](https://www.space.com/devil-comet-hidden-spiral-icy-heart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
