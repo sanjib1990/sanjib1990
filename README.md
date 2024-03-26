@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robinhood’s new credit card goes after Apple Card with ability to invest cash-back perks](https://techcrunch.com/2024/03/26/robinhood-goes-after-apple-card-with-a-new-credit-card-loaded-with-impressive-features/)
+- [Elon Musk says all Premium subscribers on X will gain access to AI chatbot Grok this week](https://techcrunch.com/2024/03/26/elon-musk-says-all-premium-subscribers-on-x-will-gain-access-to-ai-chatbot-grok-this-week/)
 - [How are extreme &quot;blue supergiant&quot; stars born? Astronomers may finally know](https://www.space.com/blue-supergiant-stars-origin-mystery-solved)
 - [In the Gundo, Discipulus Ventures is bringing together a cohort of founders to accelerate America](https://techcrunch.com/2024/03/26/in-the-gundo-discipulus-ventures-is-bringing-together-a-cohort-of-founders-to-accelerate-america/)
 - [How to turn off Instagram’s political content filter](https://techcrunch.com/2024/03/26/how-to-turn-off-instagrams-political-content-filter/)
-- [Facebook snooped on users’ Snapchat traffic in secret project, documents reveal](https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/)
-- [Euclid &#39;dark universe&#39; telescope&#39;s vision restored by deicing campaign](https://www.space.com/euclid-dark-matter-telescope-vision-restored)
 <!-- BLOG-POST-LIST:END -->
 
 ---
