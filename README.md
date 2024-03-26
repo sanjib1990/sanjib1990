@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How are extreme &quot;blue supergiant&quot; stars born? Astronomers may finally know](https://www.space.com/blue-supergiant-stars-origin-mystery-solved)
+- [In the Gundo, Discipulus Ventures is bringing together a cohort of founders to accelerate America](https://techcrunch.com/2024/03/26/in-the-gundo-discipulus-ventures-is-bringing-together-a-cohort-of-founders-to-accelerate-america/)
+- [How to turn off Instagram’s political content filter](https://techcrunch.com/2024/03/26/how-to-turn-off-instagrams-political-content-filter/)
 - [Facebook snooped on users’ Snapchat traffic in secret project, documents reveal](https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/)
 - [Euclid &#39;dark universe&#39; telescope&#39;s vision restored by deicing campaign](https://www.space.com/euclid-dark-matter-telescope-vision-restored)
-- [NASA’s snake robot is designed to search out life in the icy oceans of a Saturn moon](https://techcrunch.com/2024/03/26/nasas-snake-robot-is-designed-to-search-out-life-in-the-icy-oceans-of-a-saturn-moon/)
-- [Vibrant Planet uses AI for land mapping and improving climate resiliency](https://techcrunch.com/2024/03/26/vibrant-planet-uses-ai-for-land-mapping-and-improving-climate-resiliency/)
-- [April 8 total solar eclipse could bring uptick in fatal car crashes, scientists caution](https://www.space.com/total-solar-eclipse-april-8-uptick-in-fatal-car-crashes-scientists-caution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
