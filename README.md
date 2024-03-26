@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Nextdoor exec raises $25 million for PipeDreams, a startup rolling up HVAC companies](https://techcrunch.com/2024/03/26/former-nextdoor-exec-raises-25-million-for-pipedreams-a-startup-rolling-up-hvac-companies/)
+- [SpaceX Crew-7 astronauts share the good and bad of spending 6 months in space](https://www.space.com/spacex-crew-7-astronauts-post-flight-press-conference)
+- [Ionobell’s is turning to recycled silicon to boost EV range](https://techcrunch.com/2024/03/26/ionobell-fundraise-exclusive/)
 - [Fireworks.ai open source API puts generative AI in reach of any developer](https://techcrunch.com/2024/03/26/fireworks-ai-open-source-api-puts-generative-ai-in-reach-of-any-developer/)
 - [How long will April&#39;s total solar eclipse last?](https://www.space.com/how-long-will-total-solar-eclipse-last-april-8)
-- [Evoloh bets hydrogen won’t happen without better manufacturing](https://techcrunch.com/2024/03/26/evoloh-series-a-funding/)
-- [Food-as-medicine startup Chiyo helps postpartum moms with nutrition after raising $3 million](https://techcrunch.com/2024/03/26/chiyo-startup-helps-new-moms-postpartum-nutrition/)
-- [Just 4 days left to cash in on early-bird savings to TC Early Stage 2024](https://techcrunch.com/2024/03/26/just-4-days-left-to-cash-in-on-early-bird-savings-to-tc-early-stage-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
