@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fireworks.ai open source API puts generative AI in reach of any developer](https://techcrunch.com/2024/03/26/fireworks-ai-open-source-api-puts-generative-ai-in-reach-of-any-developer/)
+- [How long will April&#39;s total solar eclipse last?](https://www.space.com/how-long-will-total-solar-eclipse-last-april-8)
+- [Evoloh bets hydrogen won’t happen without better manufacturing](https://techcrunch.com/2024/03/26/evoloh-series-a-funding/)
+- [Food-as-medicine startup Chiyo helps postpartum moms with nutrition after raising $3 million](https://techcrunch.com/2024/03/26/chiyo-startup-helps-new-moms-postpartum-nutrition/)
 - [Just 4 days left to cash in on early-bird savings to TC Early Stage 2024](https://techcrunch.com/2024/03/26/just-4-days-left-to-cash-in-on-early-bird-savings-to-tc-early-stage-2024/)
-- [0G Labs launches with whopping $35M pre-seed to build a modular AI blockchain](https://techcrunch.com/2024/03/26/0g-labs-launches-with-whopping-35m-pre-seed-to-build-a-modular-ai-blockchain/)
-- [Viam looks beyond robotics with its no-code automation platform](https://techcrunch.com/2024/03/26/viam-looks-beyond-robotics-with-its-no-code-automation-platform/)
-- [Thoras.ai automates resource allocation for Kubernertes workloads](https://techcrunch.com/2024/03/26/thoras-ai-created-a-kubernetes-optimization-tool-to-automate-resource-allocation/)
-- [What are the true colors of images from the James Webb Space Telescope?](https://www.space.com/what-are-true-colors-image-james-webb-space-telescope-jwst)
 <!-- BLOG-POST-LIST:END -->
 
 ---
