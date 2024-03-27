@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding humanoid robots](https://techcrunch.com/2024/03/27/understanding-humanoid-robots/)
+- [Amazon doubles down on Anthropic, completing its planned $4B investment](https://techcrunch.com/2024/03/27/amazon-doubles-down-on-anthropic-completing-its-planned-4b-investment/)
 - [Oregon signs right to repair into law](https://techcrunch.com/2024/03/27/oregon-signs-right-to-repair-into-law/)
 - [LinkedIn is experimenting with a TikTok-like video feed in its app](https://techcrunch.com/2024/03/27/linkedin-is-experimenting-with-a-tiktok-like-video-feed-in-its-app/)
 - [The UK threw a splashy event in New York this week to woo more American VCs](https://techcrunch.com/2024/03/27/uk-unicorn-new-york-hologram-venture-capital/)
-- [Overlooked Apollo data from the 1970s reveals huge record of &#39;hidden&#39; moonquakes](https://www.space.com/apollo-data-reveals-hidden-moonquakes)
-- [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
