@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyvl.ai is bringing data-driven solutions to transportation infrastructure](https://techcrunch.com/2024/03/27/cyvl-ai-is-bringing-data-driven-solutions-to-transportation-infrastructure/)
-- [Cosmic gold rush! Astronomers find 49 new galaxies in just 3 hours](https://www.space.com/meerkat-discovers-49-galaxies-3-hours)
-- [Orchard vision system turns farm equipment into AI-powered data collectors](https://techcrunch.com/2024/03/27/orchard-robotics-ai-powered-camera-system-turns-existing-farm-equipment-into-apple-growing-data-collectors/)
-- [I toured NASA&#39;s Mission Control ahead of Boeing&#39;s 1st Starliner astronaut flight. Here&#39;s what it was like &lpar;exclusive&rpar;](https://www.space.com/spacex-mission-control-launch-starliner-safety)
-- [Observe, the data observability platform, raises $115M with Snowflake investing](https://techcrunch.com/2024/03/27/observe-snowflake-data-observability/)
+- [NewRetirement wants to simplify financial planning for retirement](https://techcrunch.com/2024/03/27/newretirement-wants-to-simplify-financial-planning-for-retirement/)
+- [Google wants to use generative AI to build travel itineraries for your vacations](https://techcrunch.com/2024/03/27/google-generate-travel-itineraries-for-your-vacations/)
+- [Google will let you swipe right or left on clothes to get better fashion recommendations](https://techcrunch.com/2024/03/27/google-swipe-clothes-better-fashion-recommendations/)
+- [TechCrunch Minute: Robinhood’s credit card has arrived to take on Apple and any upcoming challengers](https://techcrunch.com/2024/03/27/techcrunch-minute-robinhoods-credit-card-has-arrived-to-take-on-apple-and-any-upcoming-challengers/)
+- [Climate change and polar ice melting could be impacting the length of Earth&#39;s day](https://www.space.com/climate-change-and-polar-ice-melting-could-be-impacting-the-length-of-earths-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
