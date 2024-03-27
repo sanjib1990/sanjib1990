@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA is super stoked for the 2024 total solar eclipse and hopes you are, too.](https://www.space.com/nasa-total-solar-eclipse-briefing)
 - [NewRetirement wants to simplify financial planning for retirement](https://techcrunch.com/2024/03/27/newretirement-wants-to-simplify-financial-planning-for-retirement/)
 - [Google wants to use generative AI to build travel itineraries for your vacations](https://techcrunch.com/2024/03/27/google-generate-travel-itineraries-for-your-vacations/)
 - [Google will let you swipe right or left on clothes to get better fashion recommendations](https://techcrunch.com/2024/03/27/google-swipe-clothes-better-fashion-recommendations/)
 - [TechCrunch Minute: Robinhood’s credit card has arrived to take on Apple and any upcoming challengers](https://techcrunch.com/2024/03/27/techcrunch-minute-robinhoods-credit-card-has-arrived-to-take-on-apple-and-any-upcoming-challengers/)
-- [Climate change and polar ice melting could be impacting the length of Earth&#39;s day](https://www.space.com/climate-change-and-polar-ice-melting-could-be-impacting-the-length-of-earths-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
