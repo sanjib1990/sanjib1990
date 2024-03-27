@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I toured NASA&#39;s Mission Control ahead of Boeing&#39;s coming astronaut flight. Here&#39;s what it was like &lpar;exclusive&rpar;](https://www.space.com/spacex-mission-control-launch-starliner-safety)
+- [Cyvl.ai is bringing data-driven solutions to transportation infrastructure](https://techcrunch.com/2024/03/27/cyvl-ai-is-bringing-data-driven-solutions-to-transportation-infrastructure/)
+- [Cosmic gold rush! Astronomers find 49 new galaxies in just 3 hours](https://www.space.com/meerkat-discovers-49-galaxies-3-hours)
+- [Orchard vision system turns farm equipment into AI-powered data collectors](https://techcrunch.com/2024/03/27/orchard-robotics-ai-powered-camera-system-turns-existing-farm-equipment-into-apple-growing-data-collectors/)
+- [I toured NASA&#39;s Mission Control ahead of Boeing&#39;s 1st Starliner astronaut flight. Here&#39;s what it was like &lpar;exclusive&rpar;](https://www.space.com/spacex-mission-control-launch-starliner-safety)
 - [Observe, the data observability platform, raises $115M with Snowflake investing](https://techcrunch.com/2024/03/27/observe-snowflake-data-observability/)
-- [Century Health, now with $2M, taps AI to give pharma access to good patient data](https://techcrunch.com/2024/03/27/century-health-2m-ai-pharma-patient-data/)
-- [Act fast — just 3 days remain to grab your TechCrunch Early Stage 2024 tickets](https://techcrunch.com/2024/03/27/act-fast-just-3-days-remain-to-grab-your-techcrunch-early-stage-2024-tickets/)
-- [New Summit is raising a new $100 million fund to back climate tech and underrepresented fund managers](https://techcrunch.com/2024/03/27/new-summit-is-raising-a-new-100-million-fund-to-back-climate-tech-and-underrepresented-fund-managers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
