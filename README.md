@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [African B2B e-commerce giant Wasoko marked down to $260M after VC halves stake](https://techcrunch.com/2024/03/27/african-b2b-e-commerce-giant-wasoko-marked-down-to-260m-after-vc-halves-stake/)
+- [Rabbit partners with ElevenLabs to power voice commands on its device](https://techcrunch.com/2024/03/27/rabbit-partners-with-elevenlabs-to-power-voice-commands-on-its-device/)
+- [Marissa Mayer’s startup just rolled out photo sharing and event planning apps, and the internet isn’t sure what to think](https://techcrunch.com/2024/03/27/marissa-mayers-startup-just-rolled-out-apps-for-group-photo-sharing-and-event-planning-and-the-internet-isnt-sure-what-to-think/)
 - [PayPal backs Indonesian insurance startup Qoala in $47M funding](https://techcrunch.com/2024/03/26/paypal-backs-indonesia-insurance-startup-qoala-in-47m-funding/)
 - [Elon Musk says all Premium subscribers on X will gain access to AI chatbot Grok this week](https://techcrunch.com/2024/03/26/elon-musk-says-all-premium-subscribers-on-x-will-gain-access-to-ai-chatbot-grok-this-week/)
-- [How are extreme &quot;blue supergiant&quot; stars born? Astronomers may finally know](https://www.space.com/blue-supergiant-stars-origin-mystery-solved)
-- [Discipulus Ventures mentors young founders to revive a Norman Rockwell vision of America](https://techcrunch.com/2024/03/26/discipluus-ventures-mentors-founders-norman-rockwell-america/)
-- [How to turn off Instagram’s political content filter](https://techcrunch.com/2024/03/26/how-to-turn-off-instagrams-political-content-filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
