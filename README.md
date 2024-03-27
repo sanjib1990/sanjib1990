@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Databricks spent $10M on new DBRX generative AI model, but it can’t beat GPT-4](https://techcrunch.com/2024/03/27/databricks-spent-10m-on-a-generative-ai-model-that-still-cant-beat-gpt-4/)
-- [Artemis astronauts will carry plants to the moon in 2026](https://www.space.com/nasa-artemis-3-plant-growth-experiment-moon)
-- [Amazon fined in Poland for dark pattern design tricks](https://techcrunch.com/2024/03/27/amazon-dark-pattern-design-fine/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [New study of unicorn founders finds most are ‘underdogs,’ and female founders are rising](https://techcrunch.com/2024/03/27/unicorn-founders/)
+- [Century Health, now with $2M, taps AI to give pharma access to good patient data](https://techcrunch.com/2024/03/27/century-health-2m-ai-pharma-patient-data/)
+- [Act fast — just 3 days remain to grab your TechCrunch Early Stage 2024 tickets](https://techcrunch.com/2024/03/27/act-fast-just-3-days-remain-to-grab-your-techcrunch-early-stage-2024-tickets/)
+- [New Summit is raising a new $100 million fund to back climate tech and underrepresented fund managers](https://techcrunch.com/2024/03/27/new-summit-is-raising-a-new-100-million-fund-to-back-climate-tech-and-underrepresented-fund-managers/)
+- [New view of the supermassive black hole at the heart of the Milky Way hints at an exciting hidden feature &lpar;image&rpar;](https://www.space.com/black-hole-milky-way-new-image-hidden-feature)
+- [Amazon will have to publish an ads library in EU after all](https://techcrunch.com/2024/03/27/amazon-dsa-ads-library-cjeu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
