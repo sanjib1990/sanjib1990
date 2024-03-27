@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker lost track of millions of dollars in customer payments for months](https://techcrunch.com/2024/03/27/fisker-misplaced-payments-internal-audit-bankruptcy/)
 - [Supermassive black hole’s mysterious hiccups&#39; likely caused by neighboring black hole&#39;s &#39;punches&#39;](https://www.space.com/black-hole-punching-supermassive-neighbor-hiccup)
 - [&#39;Vampire&#39; neutron star blasts are related to jets traveling at near-light speeds](https://www.space.com/neutron-star-jet-launching-measurement-binary-system)
 - [Tragic Baltimore bridge collapse aftermath seen from space &lpar;satellite photos&rpar;](https://www.space.com/satellites-baltimore-bridge-francis-scott-key)
 - [NASA is super stoked for the 2024 total solar eclipse and hopes you are, too.](https://www.space.com/nasa-total-solar-eclipse-briefing)
-- [NewRetirement wants to simplify financial planning for retirement](https://techcrunch.com/2024/03/27/newretirement-wants-to-simplify-financial-planning-for-retirement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
