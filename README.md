@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal backs Indonesian insurance startup Qoala in $47M funding](https://techcrunch.com/2024/03/26/paypal-backs-indonesia-insurance-startup-qoala-in-47m-funding/)
 - [Robinhood’s new credit card goes after Apple Card with ability to invest cash-back perks](https://techcrunch.com/2024/03/26/robinhood-goes-after-apple-card-with-a-new-credit-card-loaded-with-impressive-features/)
 - [Elon Musk says all Premium subscribers on X will gain access to AI chatbot Grok this week](https://techcrunch.com/2024/03/26/elon-musk-says-all-premium-subscribers-on-x-will-gain-access-to-ai-chatbot-grok-this-week/)
 - [How are extreme &quot;blue supergiant&quot; stars born? Astronomers may finally know](https://www.space.com/blue-supergiant-stars-origin-mystery-solved)
 - [Discipulus Ventures mentors young founders to revive a Norman Rockwell vision of America](https://techcrunch.com/2024/03/26/discipluus-ventures-mentors-founders-norman-rockwell-america/)
-- [How to turn off Instagram’s political content filter](https://techcrunch.com/2024/03/26/how-to-turn-off-instagrams-political-content-filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
