@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [New study of unicorn founders finds most are ‘underdogs,’ and female founders are rising](https://techcrunch.com/2024/03/27/unicorn-founders/)
 - [Will the total solar eclipse on April 8 be the most watched ever?](https://www.space.com/will-the-april-total-solar-eclipse-2024-be-the-most-watched-eclipse-ever)
 - [Wase zaps microbes to squeeze more biogas from wastewater sludge](https://techcrunch.com/2024/03/27/wase-seed-fundraise/)
 - [African B2B e-commerce giant Wasoko marked down to $260M after VC halves stake](https://techcrunch.com/2024/03/27/african-b2b-e-commerce-giant-wasoko-marked-down-to-260m-after-vc-halves-stake/)
-- [Rabbit partners with ElevenLabs to power voice commands on its device](https://techcrunch.com/2024/03/27/rabbit-partners-with-elevenlabs-to-power-voice-commands-on-its-device/)
-- [Marissa Mayer’s startup just rolled out photo sharing and event planning apps, and the internet isn’t sure what to think](https://techcrunch.com/2024/03/27/marissa-mayers-startup-just-rolled-out-apps-for-group-photo-sharing-and-event-planning-and-the-internet-isnt-sure-what-to-think/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
