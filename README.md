@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChowNow snaps up YC-backed POS platform Cuboh and is laying off staff](https://techcrunch.com/2024/03/28/chownow-acquires-yc-backed-point-of-sale-platform-cuboh-and-is-laying-off-staff/)
-- [Don’t miss out on savings! Only 48 hours left to claim your early bird ticket](https://techcrunch.com/2024/03/28/dont-miss-out-on-savings-only-48-hours-left-to-claim-your-early-bird-ticket/)
-- [NASA&#39;s new astronauts are excited for April&#39;s total eclipse: &#39;I&#39;m going to be that little kid all over again&#39; &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-sun-science-solar-eclipse-2024)
-- [YC-backed Pelago, a virtual clinic for addiction treatment, raises $58M Series C](https://techcrunch.com/2024/03/28/yc-backed-pelago-a-virtual-clinic-for-addiction-treatment-raises-58m-series-c/)
-- [Metaview’s tool records interview notes so that hiring managers don’t have to](https://techcrunch.com/2024/03/28/metaviews-tool-records-interview-notes-so-that-hiring-managers-dont-have-to/)
+- [Why a16z-backed Wonderschool is acquiring EarlyDay](https://techcrunch.com/2024/03/28/why-a16z-backed-wonderschool-is-acquiring-earlyday/)
+- [Google.org launches $20M generative AI accelerator program](https://techcrunch.com/2024/03/28/google-org-launches-20m-generative-ai-accelerator-program/)
+- [Matter Venture Partners raises $300M first fund to invest in ‘hard tech’](https://techcrunch.com/2024/03/28/wen-hsieh-matter-venture-partners-300m-fund/)
+- [AI21 Labs’ new AI model can handle more context than most](https://techcrunch.com/2024/03/28/ai21-labs-new-text-generating-ai-model-is-more-efficient-than-most/)
+- [Google will soon roll out on-device AI-powered features on Pixel 8](https://techcrunch.com/2024/03/28/google-gemini-nano-features-pixel-8-roll-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
