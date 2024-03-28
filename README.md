@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [French deep tech spinout Diamfab crystallizes hopes for diamond semiconductors to support green transition](https://techcrunch.com/2024/03/28/diamfab-spinout-diamond-semiconductors/)
 - [Future Mars plane could help solve Red Planet methane mystery &lpar;exclusive&rpar;](https://www.space.com/mars-plane-maggie-methane-mystery)
 - [Furnished rental startup Blueground defies proptech woes with $560M in revenue, a new $45M raise](https://techcrunch.com/2024/03/28/furnished-rental-blueground-raises-45m/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Coro, building cybersecurity for SMBs, locks down $100M at a $750M valuation](https://techcrunch.com/2024/03/28/coro-smb-security-series-d/)
-- [This startup believes mobile apps for businesses should work more like consumer apps](https://techcrunch.com/2024/03/28/a-team-of-startup-veterans-is-building-a-suite-of-mobile-apps-for-businesses-that-work-like-consumer-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
