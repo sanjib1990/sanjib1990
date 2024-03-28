@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Metaview’s tool records interview notes so that hiring managers don’t have to](https://techcrunch.com/2024/03/28/metaviews-tool-records-interview-notes-so-that-hiring-managers-dont-have-to/)
+- [Boutique startup studio super{set} gets another $90 million to co-found data and AI companies](https://techcrunch.com/2024/03/28/superset-startup-studio-fundraise/)
+- [United Launch Alliance to launch final Delta Heavy IV rocket today. Here&#39;s how to watch live](https://www.space.com/ula-delta-iv-heavy-nrol-70-livestream)
 - [French deep tech spinout Diamfab crystallizes hopes for diamond semiconductors to support green transition](https://techcrunch.com/2024/03/28/diamfab-spinout-diamond-semiconductors/)
 - [Future Mars plane could help solve Red Planet methane mystery &lpar;exclusive&rpar;](https://www.space.com/mars-plane-maggie-methane-mystery)
-- [Furnished rental startup Blueground defies proptech woes with $560M in revenue, a new $45M raise](https://techcrunch.com/2024/03/28/furnished-rental-blueground-raises-45m/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Coro, building cybersecurity for SMBs, locks down $100M at a $750M valuation](https://techcrunch.com/2024/03/28/coro-smb-security-series-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
