@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Future Mars plane could help solve Red Planet methane mystery &lpar;exclusive&rpar;](https://www.space.com/mars-plane-maggie-methane-mystery)
+- [Furnished rental startup Blueground defies proptech woes with $560M in revenue, a new $45M raise](https://techcrunch.com/2024/03/28/furnished-rental-blueground-raises-45m/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Coro, building cybersecurity for SMBs, locks down $100M at a $750M valuation](https://techcrunch.com/2024/03/28/coro-smb-security-series-d/)
 - [This startup believes mobile apps for businesses should work more like consumer apps](https://techcrunch.com/2024/03/28/a-team-of-startup-veterans-is-building-a-suite-of-mobile-apps-for-businesses-that-work-like-consumer-apps/)
-- [India’s tribunal court allows Byju’s to proceed with key EGM](https://techcrunch.com/2024/03/28/indias-tribunal-court-allows-byjus-to-proceed-with-crucial-egm/)
-- [Climate tech VC Satgana closes first fund that targets early-stage startups in Africa, Europe](https://techcrunch.com/2024/03/28/satgana-closes-first-fund/)
-- [StealthMole raises $7M Series A for its AI-powered dark web intelligence platform](https://techcrunch.com/2024/03/27/stealthmole-raises-7m-series-a-for-its-ai-powered-dark-web-intelligence-platform/)
-- [Accel rethinks early-stage startup investing in India](https://techcrunch.com/2024/03/27/accel-earnestly-rethinks-early-stage-startup-investing-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
