@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [StealthMole raises $7M Series A for its AI-powered dark web intelligence platform](https://techcrunch.com/2024/03/27/stealthmole-raises-7m-series-a-for-its-ai-powered-dark-web-intelligence-platform/)
-- [Accel earnestly rethinks early-stage startup investing in India](https://techcrunch.com/2024/03/27/accel-earnestly-rethinks-early-stage-startup-investing-in-india/)
+- [Accel rethinks early-stage startup investing in India](https://techcrunch.com/2024/03/27/accel-earnestly-rethinks-early-stage-startup-investing-in-india/)
 - [Stardust particle locked in meteorite holds secrets of a star&#39;s explosive death](https://www.space.com/grain-star-dust-meteorite-supernova)
 - [Understanding humanoid robots](https://techcrunch.com/2024/03/27/understanding-humanoid-robots/)
 - [Amazon doubles down on Anthropic, completing its planned $4B investment](https://techcrunch.com/2024/03/27/amazon-doubles-down-on-anthropic-completing-its-planned-4b-investment/)
