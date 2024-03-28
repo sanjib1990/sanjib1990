@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SBF sentenced, Worldcoin hit with another ban order and big web3 pre-seed rounds are back](https://techcrunch.com/2024/03/28/sbf-sentenced-worldcoin-hit-with-another-ban-order-and-big-web3-pre-seed-rounds-are-back/)
-- [Giant Mars asteroid impact creates vast field of destruction with 2 billion craters](https://www.space.com/mars-asteroid-impact-billion-craters-ejecta)
-- [YouTube now lets creators share exclusive Shorts with their paying subscribers](https://techcrunch.com/2024/03/28/youtube-exclusive-shorts-paying-subscribers/)
-- [Skyflow raises $30M more as AI spikes demand for its privacy business](https://techcrunch.com/2024/03/28/skyflow-raises-30m-ai-spikes-privacy-business/)
-- [365 days of satellite images show Earth&#39;s seasons changing from space &lpar;video&rpar;](https://www.space.com/satellite-images-seasons-changing-from-space)
+- [Life as we know it could exist on Venus, new experiment reveals](https://www.space.com/building-blocks-life-venus-experiment)
+- [Final launch of Delta IV Heavy rocket scrubbed late in countdown](https://www.space.com/ula-delta-iv-heavy-final-launch-scrub)
+- [X is testing NSFW adult communities, according to screenshots](https://techcrunch.com/2024/03/28/x-is-testing-nsfw-adult-communities-according-to-screenshots/)
+- [Buy-now-pay-later on a Porsche? Zaver now has $30 million to make it a reality](https://techcrunch.com/2024/03/28/zaver-bnpl-porsche-200000-euro-limit/)
+- [Sam Bankman-Fried gets 25 years in prison for fraud and money-laundering at FTX, ordered to pay $11B in forfeiture](https://techcrunch.com/2024/03/28/sam-bankman-fried-gets-25-years-in-prison-for-fraud-and-money-laundering-at-ftx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
