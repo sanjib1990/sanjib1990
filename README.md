@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kids’ clothing and gear is more expensive than ever. Kidsy has a sustainable solution for discounts](https://techcrunch.com/2024/03/28/kidsy-is-a-startup-selling-liquidated-childrens-clothing-and-gear-like-a-tj-maxx-for-kids/)
+- [Lego Education Eclipse Collection teaches students about April 8 total solar eclipse](https://www.space.com/lego-education-solar-eclipse-collection-april-8)
+- [SpaceX to launch 22 Starlink satellites from California tonight](https://www.space.com/spacex-starlink-launch-group-7-18)
+- [Ibotta’s expansion into enterprise should set it up for a successful IPO](https://techcrunch.com/2024/03/28/ibottas-expansion-into-enterprise-should-set-it-up-for-a-successful-ipo/)
 - [TechCrunch Minute: You’re likely seeing less news and politics on Instagram. Here’s why](https://techcrunch.com/2024/03/28/techcrunch-minute-youre-likely-seeing-less-news-and-politics-on-instagram-heres-why/)
-- [Lego NASA Mars Rover Perseverance review](https://www.space.com/lego-nasa-mars-rover-perseverance-review-42158)
-- [Sam Bankman-Fried gets 25 years in prison for fraud and money-laundering at FTX](https://techcrunch.com/2024/03/28/sam-bankman-fried-gets-25-years-in-prison-for-fraud-and-money-laundering-at-ftx/)
-- [LinkedIn targets users caught between TikTok and what used to be Twitter](https://techcrunch.com/2024/03/28/linkedin-targets-users-caught-between-tiktok-and-twitter-world-games-videos/)
-- [SunChips will sell exclusive total solar eclipse flavors only during totality on April 8](https://www.space.com/total-solar-eclipse-sun-chips-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
