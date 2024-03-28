@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s tribunal court allows Byju’s to proceed with crucial EGM](https://techcrunch.com/2024/03/28/indias-tribunal-court-allows-byjus-to-proceed-with-crucial-egm/)
+- [Climate tech VC Satgana closes first fund that targets early-stage startups in Africa, Europe](https://techcrunch.com/2024/03/28/satgana-closes-first-fund/)
 - [StealthMole raises $7M Series A for its AI-powered dark web intelligence platform](https://techcrunch.com/2024/03/27/stealthmole-raises-7m-series-a-for-its-ai-powered-dark-web-intelligence-platform/)
 - [Accel rethinks early-stage startup investing in India](https://techcrunch.com/2024/03/27/accel-earnestly-rethinks-early-stage-startup-investing-in-india/)
 - [Stardust particle locked in meteorite holds secrets of a star&#39;s explosive death](https://www.space.com/grain-star-dust-meteorite-supernova)
-- [Understanding humanoid robots](https://techcrunch.com/2024/03/27/understanding-humanoid-robots/)
-- [Amazon doubles down on Anthropic, completing its planned $4B investment](https://techcrunch.com/2024/03/27/amazon-doubles-down-on-anthropic-completing-its-planned-4b-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
