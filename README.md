@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn targets users caught between TikTok and what used to be Twitter](https://techcrunch.com/2024/03/28/linkedin-targets-users-caught-between-tiktok-and-twitter-world-games-videos/)
+- [SunChips will sell exclusive total solar eclipse flavors only during totality on April 8](https://www.space.com/total-solar-eclipse-sun-chips-exclusive)
+- [After spat with TikTok, UMG expands Spotify partnership to include music videos and more](https://techcrunch.com/2024/03/28/after-spat-with-tiktok-umg-expands-spotify-partnership-to-include-music-videos-and-more/)
 - [Why a16z-backed Wonderschool is acquiring EarlyDay](https://techcrunch.com/2024/03/28/why-a16z-backed-wonderschool-is-acquiring-earlyday/)
 - [Google.org launches $20M generative AI accelerator program](https://techcrunch.com/2024/03/28/google-org-launches-20m-generative-ai-accelerator-program/)
-- [Matter Venture Partners raises $300M first fund to invest in ‘hard tech’](https://techcrunch.com/2024/03/28/wen-hsieh-matter-venture-partners-300m-fund/)
-- [AI21 Labs’ new AI model can handle more context than most](https://techcrunch.com/2024/03/28/ai21-labs-new-text-generating-ai-model-is-more-efficient-than-most/)
-- [Google will soon roll out on-device AI-powered features on Pixel 8](https://techcrunch.com/2024/03/28/google-gemini-nano-features-pixel-8-roll-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
