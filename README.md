@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s tribunal court allows Byju’s to proceed with crucial EGM](https://techcrunch.com/2024/03/28/indias-tribunal-court-allows-byjus-to-proceed-with-crucial-egm/)
+- [This startup believes mobile apps for businesses should work more like consumer apps](https://techcrunch.com/2024/03/28/a-team-of-startup-veterans-is-building-a-suite-of-mobile-apps-for-businesses-that-work-like-consumer-apps/)
+- [India’s tribunal court allows Byju’s to proceed with key EGM](https://techcrunch.com/2024/03/28/indias-tribunal-court-allows-byjus-to-proceed-with-crucial-egm/)
 - [Climate tech VC Satgana closes first fund that targets early-stage startups in Africa, Europe](https://techcrunch.com/2024/03/28/satgana-closes-first-fund/)
 - [StealthMole raises $7M Series A for its AI-powered dark web intelligence platform](https://techcrunch.com/2024/03/27/stealthmole-raises-7m-series-a-for-its-ai-powered-dark-web-intelligence-platform/)
 - [Accel rethinks early-stage startup investing in India](https://techcrunch.com/2024/03/27/accel-earnestly-rethinks-early-stage-startup-investing-in-india/)
-- [Stardust particle locked in meteorite holds secrets of a star&#39;s explosive death](https://www.space.com/grain-star-dust-meteorite-supernova)
 <!-- BLOG-POST-LIST:END -->
 
 ---
