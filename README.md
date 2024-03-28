@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SBF sentenced, Worldcoin hit with another ban order and big web3 pre-seed rounds are back](https://techcrunch.com/2024/03/28/sbf-sentenced-worldcoin-hit-with-another-ban-order-and-big-web3-pre-seed-rounds-are-back/)
+- [Giant Mars asteroid impact creates vast field of destruction with 2 billion craters](https://www.space.com/mars-asteroid-impact-billion-craters-ejecta)
+- [YouTube now lets creators share exclusive Shorts with their paying subscribers](https://techcrunch.com/2024/03/28/youtube-exclusive-shorts-paying-subscribers/)
 - [Skyflow raises $30M more as AI spikes demand for its privacy business](https://techcrunch.com/2024/03/28/skyflow-raises-30m-ai-spikes-privacy-business/)
 - [365 days of satellite images show Earth&#39;s seasons changing from space &lpar;video&rpar;](https://www.space.com/satellite-images-seasons-changing-from-space)
-- [US offers $10M to help catch Change Healthcare hackers](https://techcrunch.com/2024/03/28/state-department-10-million-change-healthcare-hackers/)
-- [Still alive! Japan&#39;s SLIM moon lander survives its 2nd lunar night &lpar;photo&rpar;](https://www.space.com/japan-slim-moon-lander-survives-second-lunar-night)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
