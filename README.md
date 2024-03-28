@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stardust particle locked in meteorite holds secrets of a star&#39;s explosive death](https://www.space.com/grain-star-dust-meteorite-supernova)
 - [Understanding humanoid robots](https://techcrunch.com/2024/03/27/understanding-humanoid-robots/)
 - [Amazon doubles down on Anthropic, completing its planned $4B investment](https://techcrunch.com/2024/03/27/amazon-doubles-down-on-anthropic-completing-its-planned-4b-investment/)
 - [Oregon signs right to repair into law](https://techcrunch.com/2024/03/27/oregon-signs-right-to-repair-into-law/)
 - [LinkedIn is experimenting with a TikTok-like video feed in its app](https://techcrunch.com/2024/03/27/linkedin-is-experimenting-with-a-tiktok-like-video-feed-in-its-app/)
-- [The UK threw a splashy event in New York this week to woo more American VCs](https://techcrunch.com/2024/03/27/uk-unicorn-new-york-hologram-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
