@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChowNow snaps up YC-backed POS platform Cuboh and is laying off staff](https://techcrunch.com/2024/03/28/chownow-acquires-yc-backed-point-of-sale-platform-cuboh-and-is-laying-off-staff/)
+- [Don’t miss out on savings! Only 48 hours left to claim your early bird ticket](https://techcrunch.com/2024/03/28/dont-miss-out-on-savings-only-48-hours-left-to-claim-your-early-bird-ticket/)
+- [NASA&#39;s new astronauts are excited for April&#39;s total eclipse: &#39;I&#39;m going to be that little kid all over again&#39; &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-sun-science-solar-eclipse-2024)
+- [YC-backed Pelago, a virtual clinic for addiction treatment, raises $58M Series C](https://techcrunch.com/2024/03/28/yc-backed-pelago-a-virtual-clinic-for-addiction-treatment-raises-58m-series-c/)
 - [Metaview’s tool records interview notes so that hiring managers don’t have to](https://techcrunch.com/2024/03/28/metaviews-tool-records-interview-notes-so-that-hiring-managers-dont-have-to/)
-- [Boutique startup studio super{set} gets another $90 million to co-found data and AI companies](https://techcrunch.com/2024/03/28/superset-startup-studio-fundraise/)
-- [United Launch Alliance to launch final Delta Heavy IV rocket today. Here&#39;s how to watch live](https://www.space.com/ula-delta-iv-heavy-nrol-70-livestream)
-- [French deep tech spinout Diamfab crystallizes hopes for diamond semiconductors to support green transition](https://techcrunch.com/2024/03/28/diamfab-spinout-diamond-semiconductors/)
-- [Future Mars plane could help solve Red Planet methane mystery &lpar;exclusive&rpar;](https://www.space.com/mars-plane-maggie-methane-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
