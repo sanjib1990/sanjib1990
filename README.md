@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: You’re likely seeing less news and politics on Instagram. Here’s why](https://techcrunch.com/2024/03/28/techcrunch-minute-youre-likely-seeing-less-news-and-politics-on-instagram-heres-why/)
+- [Lego NASA Mars Rover Perseverance review](https://www.space.com/lego-nasa-mars-rover-perseverance-review-42158)
+- [Sam Bankman-Fried gets 25 years in prison for fraud and money-laundering at FTX](https://techcrunch.com/2024/03/28/sam-bankman-fried-gets-25-years-in-prison-for-fraud-and-money-laundering-at-ftx/)
 - [LinkedIn targets users caught between TikTok and what used to be Twitter](https://techcrunch.com/2024/03/28/linkedin-targets-users-caught-between-tiktok-and-twitter-world-games-videos/)
 - [SunChips will sell exclusive total solar eclipse flavors only during totality on April 8](https://www.space.com/total-solar-eclipse-sun-chips-exclusive)
-- [After spat with TikTok, UMG expands Spotify partnership to include music videos and more](https://techcrunch.com/2024/03/28/after-spat-with-tiktok-umg-expands-spotify-partnership-to-include-music-videos-and-more/)
-- [Why a16z-backed Wonderschool is acquiring EarlyDay](https://techcrunch.com/2024/03/28/why-a16z-backed-wonderschool-is-acquiring-earlyday/)
-- [Google.org launches $20M generative AI accelerator program](https://techcrunch.com/2024/03/28/google-org-launches-20m-generative-ai-accelerator-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
