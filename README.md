@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Activision investigating password-stealing malware targeting game players](https://techcrunch.com/2024/03/28/activision-says-its-investigating-password-stealing-malware-targeting-game-players/)
 - [Life as we know it could exist on Venus, new experiment reveals](https://www.space.com/building-blocks-life-venus-experiment)
+- [Elon Musk’s Twitter a year later: Everything you need to know](https://techcrunch.com/2024/03/28/elon-musk-twitter-everything-you-need-to-know/)
 - [Final launch of Delta IV Heavy rocket scrubbed late in countdown](https://www.space.com/ula-delta-iv-heavy-final-launch-scrub)
 - [X is testing NSFW adult communities, according to screenshots](https://techcrunch.com/2024/03/28/x-is-testing-nsfw-adult-communities-according-to-screenshots/)
-- [Buy-now-pay-later on a Porsche? Zaver now has $30 million to make it a reality](https://techcrunch.com/2024/03/28/zaver-bnpl-porsche-200000-euro-limit/)
-- [Sam Bankman-Fried gets 25 years in prison for fraud and money-laundering at FTX, ordered to pay $11B in forfeiture](https://techcrunch.com/2024/03/28/sam-bankman-fried-gets-25-years-in-prison-for-fraud-and-money-laundering-at-ftx/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
