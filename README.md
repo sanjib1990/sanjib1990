@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The final countdown: Early Stage 2024 ticket savings end tonight](https://techcrunch.com/2024/03/29/the-final-countdown-early-stage-2024-ticket-savings-end-tonight/)
+- [Europe&#39;s upcoming Mars rover now has a detailed map to aid its search for ancient Red Planet life &lpar;video&rpar;](https://www.space.com/mars-detailed-map-esa-rosalind-franklin-rover-landing-site)
+- [Palmsy is a device-only “social network” to satisfy your posting itch](https://techcrunch.com/2024/03/29/palmsy-is-a-device-only-social-network-to-satisfy-your-posting-itch/)
 - [NASA&#39;s Lucy asteroid-hopping spacecraft pins down ages of 1st asteroid targets](https://www.space.com/nasa-lucy-lpsc-dinkinesh-selam-asteroids)
 - [Google hints that Apple is set to support RCS by this fall](https://techcrunch.com/2024/03/28/google-hints-that-apple-is-set-to-support-rcs-by-this-fall/)
-- [Byju’s founder floats share offer to make peace with estranged investors](https://techcrunch.com/2024/03/28/byjus-founder-floats-share-offer-to-make-peace-with-estranged-investors/)
-- [X’s Grok chatbot will soon get an upgraded model, Grok-1.5](https://techcrunch.com/2024/03/28/xs-grok-chatbot-will-soon-get-an-upgraded-model-grok-1-5/)
-- [Bumble’s new CEO talks about her critical mission: to spice things up at the company](https://techcrunch.com/2024/03/28/bumbles-new-ceo-talks-about-her-critical-mission-to-spice-things-up-at-the-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
