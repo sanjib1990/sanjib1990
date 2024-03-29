@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego Star Wars Executor Super Star Destroyer review](https://www.space.com/lego-star-wars-executor-super-star-destroyer-review)
-- [Instagram is developing ‘Blend,’ recommended Reels for you and a friend](https://techcrunch.com/2024/03/29/instagram-is-developing-blend-recommended-reels-for-you-and-a-friend/)
-- [OpenAI built a voice cloning tool, but you can’t use it… yet](https://techcrunch.com/2024/03/29/openai-custom-voice-engine-preview/)
-- [The AI world needs more data transparency and web3 startup Space and Time says it can help](https://techcrunch.com/2024/03/29/the-ai-world-needs-more-data-transparency-and-web3-startup-space-and-time-says-it-can-help/)
-- [Gorgeous James Webb Space Telescope image captures sparkling stars, old and new](https://www.space.com/james-webb-space-telescope-galaxy-zwicky-18)
+- [Startups Weekly: Big shake-ups at the AI heavyweights](https://techcrunch.com/2024/03/29/startups-weekly-ai-shakeups/)
+- [Solar spacecraft &#39;SOHO&#39; discovers its 5,000th comet](https://www.space.com/soho-sun-observatory-5000-comet-discovery)
+- [Orbit Fab unveils $30K port to refuel satellites](https://techcrunch.com/2024/03/29/orbit-fab-unveils-30k-port-to-refuel-satellites/)
+- [Nine crypto VCs on why Q1 investments were so hot and how it compares to previous bull market](https://techcrunch.com/2024/03/29/nine-crypto-vcs-weigh-in-on-why-q1-investments-were-so-hot-and-how-it-compares-to-the-previous-bull-market/)
+- [Google DeepMind CEO Demis Hassabis gets UK knighthood for ‘services to artificial intelligence’](https://techcrunch.com/2024/03/29/google-deepmind-ceo-demis-hassabis-gets-uk-knighthood-for-services-to-artificial-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
