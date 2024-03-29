@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Elon Musk’s Grok chatbot and how does it work?](https://techcrunch.com/2024/03/29/what-is-elon-musks-grok-chatbot-and-how-does-it-work/)
+- [NASA&#39;s 1st female chief engineer at Kennedy Space Center wants to put a space station around the moon &lpar;exclusive&rpar;](https://www.space.com/nasa-1st-female-chief-engineer-gateway-moon)
 - [The final countdown: Early Stage 2024 ticket savings end tonight](https://techcrunch.com/2024/03/29/the-final-countdown-early-stage-2024-ticket-savings-end-tonight/)
 - [Europe&#39;s upcoming Mars rover now has a detailed map to aid its search for ancient Red Planet life &lpar;video&rpar;](https://www.space.com/mars-detailed-map-esa-rosalind-franklin-rover-landing-site)
 - [Palmsy is a device-only “social network” to satisfy your posting itch](https://techcrunch.com/2024/03/29/palmsy-is-a-device-only-social-network-to-satisfy-your-posting-itch/)
-- [NASA&#39;s Lucy asteroid-hopping spacecraft pins down ages of 1st asteroid targets](https://www.space.com/nasa-lucy-lpsc-dinkinesh-selam-asteroids)
-- [Google hints that Apple is set to support RCS by this fall](https://techcrunch.com/2024/03/28/google-hints-that-apple-is-set-to-support-rcs-by-this-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
