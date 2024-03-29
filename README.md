@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Byju’s founder floats share offer to make peace with estranged investors](https://techcrunch.com/2024/03/28/byjus-founder-floats-share-offer-to-make-peace-with-estranged-investors/)
+- [X’s Grok chatbot will soon get an upgraded model, Grok-1.5](https://techcrunch.com/2024/03/28/xs-grok-chatbot-will-soon-get-an-upgraded-model-grok-1-5/)
 - [Bumble’s new CEO talks about her critical mission: to spice things up at the company](https://techcrunch.com/2024/03/28/bumbles-new-ceo-talks-about-her-critical-mission-to-spice-things-up-at-the-company/)
 - [SBF’s prison sentence marks the end of the crypto grift era — so what’s next?](https://techcrunch.com/2024/03/28/sbfs-prison-sentence-marks-the-end-of-the-crypto-grift-era-so-whats-next/)
 - [Apple dismisses Microsoft monopoly comparisons](https://techcrunch.com/2024/03/28/apple-dismisses-microsoft-monopoly-comparisons/)
-- [Uber Eats courier’s fight against AI bias shows justice under UK law is hard won](https://techcrunch.com/2024/03/28/uber-eats-ai-bias-settlement/)
-- [Activision investigating password-stealing malware targeting game players](https://techcrunch.com/2024/03/28/activision-says-its-investigating-password-stealing-malware-targeting-game-players/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
