@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Varda Space made an HIV drug in Earth orbit. Here&#39;s why that&#39;s a big deal](https://www.space.com/varda-space-microgravity-pharmaceutical-production-success)
+- [&#39;Them space drugs cooked real good:&#39; Varda Space just made an HIV medicine in Earth orbit](https://www.space.com/varda-space-microgravity-pharmaceutical-production-success)
 - [Polar vortex is &#39;spinning backwards&#39; above Arctic after major reversal event](https://www.space.com/earth-polar-vortex-spinning-backwards-above-arctic-reversal-event)
 - [Google Podcasts is shutting down soon, users urged to move to YouTube Music](https://techcrunch.com/2024/03/29/google-pushes-podcasts-users-in-u-s-to-move-to-youtube-music-by-april-2/)
 - [Startups Weekly: Big shake-ups at the AI heavyweights](https://techcrunch.com/2024/03/29/startups-weekly-ai-shakeups/)
