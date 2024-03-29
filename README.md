@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Databricks’ GPT rival and who’s investing in “underdog” founders](https://techcrunch.com/2024/03/29/databricks-gpt-rival-and-whos-investing-in-underdog-founders/)
-- [How to earn a &#39;black belt&#39; in solar eclipse chasing](https://www.space.com/how-to-earn-black-belt-eclipse-chasing-saros)
-- [How a tiny 4-person startup, Supaglue, caught Stripe’s eye](https://techcrunch.com/2024/03/29/supaglue-stripe-acquire-acquisition/)
-- [What is Elon Musk’s Grok chatbot and how does it work?](https://techcrunch.com/2024/03/29/what-is-elon-musks-grok-chatbot-and-how-does-it-work/)
-- [NASA&#39;s 1st female chief engineer at Kennedy Space Center wants to put a space station around the moon &lpar;exclusive&rpar;](https://www.space.com/nasa-1st-female-chief-engineer-gateway-moon)
+- [X confirms plans for NSFW Communities](https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/)
+- [Pitch Deck Teardown: Plantee Innovations’ $1.4M seed deck](https://techcrunch.com/2024/03/29/sample-seed-pitch-deck-plantee-innovations/)
+- [TechCrunch Minute: Sam Bankman-Fried’s sentencing marks an end to the FTX saga](https://techcrunch.com/2024/03/29/techcrunch-minute-sam-bankman-frieds-sentencing-marks-an-end-to-the-ftx-saga/)
+- [Most quasars are a ferocious force of nature, but not this one](https://www.space.com/quasars-black-holes-chandra-x-ray-observatory)
+- [Databricks’ GPT rival and who’s investing in ‘underdog’ founders](https://techcrunch.com/2024/03/29/databricks-gpt-rival-and-whos-investing-in-underdog-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
