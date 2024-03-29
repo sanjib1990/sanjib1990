@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [7 Tech Bros who went to Prison](https://www.youtube.com/watch?v=CWeSzhJpJ9U)
 - [Wearable Tech Discussed - Computerphile](https://www.youtube.com/watch?v=Pw21Y0ffUZU)
 - [GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?](https://www.youtube.com/watch?v=9JGONx_X4ho)
 - [Garbled Circuits - Computerphile](https://www.youtube.com/watch?v=FMZ-HARN0gI)
 - [Neuralink full send... Elon&#39;s brain chips actually work on humans](https://www.youtube.com/watch?v=8BrLNgKLWzs)
-- [DON&#39;T be like &quot;Steve&quot;...](https://www.youtube.com/watch?v=exsA7UdC6Lg)
 <!-- YOUTUBE:END -->
 
 ---
