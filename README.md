@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Star Wars Executor Super Star Destroyer review](https://www.space.com/lego-star-wars-executor-super-star-destroyer-review)
+- [Instagram is developing ‘Blend,’ recommended Reels for you and a friend](https://techcrunch.com/2024/03/29/instagram-is-developing-blend-recommended-reels-for-you-and-a-friend/)
 - [OpenAI built a voice cloning tool, but you can’t use it… yet](https://techcrunch.com/2024/03/29/openai-custom-voice-engine-preview/)
 - [The AI world needs more data transparency and web3 startup Space and Time says it can help](https://techcrunch.com/2024/03/29/the-ai-world-needs-more-data-transparency-and-web3-startup-space-and-time-says-it-can-help/)
 - [Gorgeous James Webb Space Telescope image captures sparkling stars, old and new](https://www.space.com/james-webb-space-telescope-galaxy-zwicky-18)
-- [X confirms plans for NSFW Communities](https://techcrunch.com/2024/03/29/x-confirms-plans-for-nsfw-communities/)
-- [Pitch Deck Teardown: Plantee Innovations’ $1.4M seed deck](https://techcrunch.com/2024/03/29/sample-seed-pitch-deck-plantee-innovations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
