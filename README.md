@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Powerful X-class solar flare slams Earth, triggering radio blackout over the Pacific Ocean](https://www.space.com/powerful-x-class-solar-flare-slams-earth-triggering-radio-blackout-over-the-pacific-ocean)
+- [Why low-level clouds vanish during a solar eclipse](https://www.space.com/total-solar-eclipse-low-level-clouds-vanish)
 - [&#39;Them space drugs cooked real good:&#39; Varda Space just made an HIV medicine in Earth orbit](https://www.space.com/varda-space-microgravity-pharmaceutical-production-success)
 - [Polar vortex is &#39;spinning backwards&#39; above Arctic after major reversal event](https://www.space.com/earth-polar-vortex-spinning-backwards-above-arctic-reversal-event)
 - [Google Podcasts is shutting down soon, users urged to move to YouTube Music](https://techcrunch.com/2024/03/29/google-pushes-podcasts-users-in-u-s-to-move-to-youtube-music-by-april-2/)
-- [Startups Weekly: Big shake-ups at the AI heavyweights](https://techcrunch.com/2024/03/29/startups-weekly-ai-shakeups/)
-- [Solar spacecraft &#39;SOHO&#39; discovers its 5,000th comet](https://www.space.com/soho-sun-observatory-5000-comet-discovery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
