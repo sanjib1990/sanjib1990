@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?](https://www.youtube.com/watch?v=9JGONx_X4ho)
 - [Garbled Circuits - Computerphile](https://www.youtube.com/watch?v=FMZ-HARN0gI)
-- [Neuralink full send... Elon&#39;s brain chips actually work on humans](https://www.youtube.com/watch?v=8BrLNgKLWzs)
-- [DON&#39;T be like &quot;Steve&quot;...](https://www.youtube.com/watch?v=exsA7UdC6Lg)
-- [Erlang in 100 Seconds](https://www.youtube.com/watch?v=M7uo5jmFDUw)
+- [3D Gaussian Splatting! - Computerphile](https://www.youtube.com/watch?v=VkIJbpdTujE)
+- [L Systems : Creating Plants from Simple Rules - Computerphile](https://www.youtube.com/watch?v=puwhf-404Xc)
+- [Coding a Web Server in 25 Lines - Computerphile](https://www.youtube.com/watch?v=7GBlCinu9yg)
+- [Mechanising &lpar;Graphical&rpar; Mathematical Proofs - Computerphile](https://www.youtube.com/watch?v=UuQrHJrNbZU)
 <!-- YOUTUBE:END -->
 
 ---
