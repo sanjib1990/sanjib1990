@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT tool shows climate change could cost Texans a month and a half of outdoor time by 2080](https://techcrunch.com/2024/03/30/mit-outdoor-days/)
 - [TikTok ban could harm Amazon sellers looking for alternatives](https://techcrunch.com/2024/03/30/tiktok-ban-implication-amazon/)
 - [Deal Dive: Iron Sheepdog is fixing short-haul trucking from the bottom up](https://techcrunch.com/2024/03/30/iron-sheepdog-is-fixing-short-haul-trucking-from-the-bottom-up/)
 - [Women in AI: Kate Devlin of King’s College is researching AI and intimacy](https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/)
 - [Dune: What the climate of Arrakis can tell us about the hunt for habitable exoplanets](https://www.space.com/dune-climate-arrakis-hunt-for-exoplanets)
-- [This Week In Space podcast: Episode 104 — The Artemis Accords, Ecuador, and You](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-104-artemis-accords-ecuador-you)
 <!-- BLOG-POST-LIST:END -->
 
 ---
