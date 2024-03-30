@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok ban could harm Amazon sellers looking for alternatives](https://techcrunch.com/2024/03/30/tiktok-ban-implication-amazon/)
 - [Deal Dive: Iron Sheepdog is fixing short-haul trucking from the bottom up](https://techcrunch.com/2024/03/30/iron-sheepdog-is-fixing-short-haul-trucking-from-the-bottom-up/)
 - [Women in AI: Kate Devlin of King’s College is researching AI and intimacy](https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/)
 - [Dune: What the climate of Arrakis can tell us about the hunt for habitable exoplanets](https://www.space.com/dune-climate-arrakis-hunt-for-exoplanets)
 - [This Week In Space podcast: Episode 104 — The Artemis Accords, Ecuador, and You](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-104-artemis-accords-ecuador-you)
-- [AT&amp;T resets account passcodes after millions of customer records leak online](https://techcrunch.com/2024/03/30/att-reset-account-passcodes-customer-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
