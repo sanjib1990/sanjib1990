@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why are some supermassive black hole jets so short? Astronomers may have cracked the case](https://www.space.com/sleeping-black-holes-awake-feed-stars)
 - [1st Boeing Starliner astronauts are ready to launch to the ISS for NASA &lpar;exclusive&rpar;](https://www.space.com/1st-boeing-starliner-astronauts-crew-flight-test-iss-launch-ready)
 - [Powerful X-class solar flare slams Earth, triggering radio blackout over the Pacific Ocean](https://www.space.com/powerful-x-class-solar-flare-slams-earth-triggering-radio-blackout-over-the-pacific-ocean)
 - [Why low-level clouds vanish during a solar eclipse](https://www.space.com/total-solar-eclipse-low-level-clouds-vanish)
 - [&#39;Them space drugs cooked real good:&#39; Varda Space just made an HIV medicine in Earth orbit](https://www.space.com/varda-space-microgravity-pharmaceutical-production-success)
-- [Polar vortex is &#39;spinning backwards&#39; above Arctic after major reversal event](https://www.space.com/earth-polar-vortex-spinning-backwards-above-arctic-reversal-event)
 <!-- BLOG-POST-LIST:END -->
 
 ---
