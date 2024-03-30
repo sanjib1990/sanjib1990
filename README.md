@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: Let us not forget the humble data annotator](https://techcrunch.com/2024/03/30/this-week-in-ai-let-us-not-forget-the-humble-data-annotator/)
+- [April 8 total solar eclipse: Why this eclipse repeats itself every 54 years](https://www.space.com/april-8-total-solar-eclipse-why-this-eclipse-repeats-itself-every-54-years)
+- [Spaceflight tripleheader! SpaceX planning 3 launches in 5-hour span today](https://www.space.com/spacex-launch-tripleheader-march-2024)
 - [Why are some supermassive black hole jets so short? Astronomers may have cracked the case](https://www.space.com/sleeping-black-holes-awake-feed-stars)
 - [1st Boeing Starliner astronauts are ready to launch to the ISS for NASA &lpar;exclusive&rpar;](https://www.space.com/1st-boeing-starliner-astronauts-crew-flight-test-iss-launch-ready)
-- [Powerful X-class solar flare slams Earth, triggering radio blackout over the Pacific Ocean](https://www.space.com/powerful-x-class-solar-flare-slams-earth-triggering-radio-blackout-over-the-pacific-ocean)
-- [Why low-level clouds vanish during a solar eclipse](https://www.space.com/total-solar-eclipse-low-level-clouds-vanish)
-- [&#39;Them space drugs cooked real good:&#39; Varda Space just made an HIV medicine in Earth orbit](https://www.space.com/varda-space-microgravity-pharmaceutical-production-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
