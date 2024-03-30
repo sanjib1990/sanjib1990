@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Kate Devlin of King’s College is researching AI and intimacy](https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/)
+- [Dune: What the climate of Arrakis can tell us about the hunt for habitable exoplanets](https://www.space.com/dune-climate-arrakis-hunt-for-exoplanets)
+- [This Week In Space podcast: Episode 104 — The Artemis Accords, Ecuador, and You](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-104-artemis-accords-ecuador-you)
+- [AT&amp;T resets account passcodes after millions of customer records leak online](https://techcrunch.com/2024/03/30/att-reset-account-passcodes-customer-data/)
 - [This Week in AI: Let us not forget the humble data annotator](https://techcrunch.com/2024/03/30/this-week-in-ai-let-us-not-forget-the-humble-data-annotator/)
-- [April 8 total solar eclipse: Why this eclipse repeats itself every 54 years](https://www.space.com/april-8-total-solar-eclipse-why-this-eclipse-repeats-itself-every-54-years)
-- [Spaceflight tripleheader! SpaceX planning 3 launches in 5-hour span today](https://www.space.com/spacex-launch-tripleheader-march-2024)
-- [Why are some supermassive black hole jets so short? Astronomers may have cracked the case](https://www.space.com/sleeping-black-holes-awake-feed-stars)
-- [1st Boeing Starliner astronauts are ready to launch to the ISS for NASA &lpar;exclusive&rpar;](https://www.space.com/1st-boeing-starliner-astronauts-crew-flight-test-iss-launch-ready)
 <!-- BLOG-POST-LIST:END -->
 
 ---
