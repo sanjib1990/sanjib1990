@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The market is forcing cloud vendors to relax data egress fees](https://techcrunch.com/2024/03/31/the-market-is-forcing-cloud-vendors-to-relax-data-egress-fees/)
 - [Women in AI: Brandie Nonnecke of UC Berkeley says investors should insist on responsible AI practices](https://techcrunch.com/2024/03/31/women-in-ai-brandie-nonnecke-of-uc-berkeley-says-investors-should-insist-on-responsible-ai-practices/)
 - [Pluto TV will rally to make Pluto a planet again on April 1 &lpar;it&#39;s no joke&rpar;](https://www.space.com/pluto-planet-status-rally-pluto-tv)
 - [Robinhood’s new Gold Card, BaaS challenges and the tiny startup that caught Stripe’s eye](https://techcrunch.com/2024/03/31/robinhoods-new-gold-card-baas-challenges-and-the-tiny-startup-that-caught-stripes-eye/)
 - [Hubble Space Telescope finds bucket of cosmic Easter eggs — 500 blue and red stars](https://www.space.com/hubble-telescope-cosmic-easter-eggs-star-survey)
-- [&#39;Everything is interrelated.&#39; For the Navajo Nation, the April 8 solar eclipse is a spiritual experience](https://www.space.com/total-solar-eclipse-2024-navajo-nation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
