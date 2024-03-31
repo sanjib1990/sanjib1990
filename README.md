@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope finds bucket of cosmic Easter eggs — 500 blue and red stars](https://www.space.com/hubble-telescope-cosmic-easter-eggs-star-survey)
 - [&#39;Everything is interrelated.&#39; For the Navajo Nation, the April 8 solar eclipse is a spiritual experience](https://www.space.com/total-solar-eclipse-2024-navajo-nation)
 - [NASA&#39;s mini moon rovers go for a test drive ahead of 2025 private lunar launch &lpar;photos&rpar;](https://www.space.com/nasa-tests-cadre-mini-moon-rovers-photos)
 - [Life on Enceladus? Europe eyes astrobiology mission to Saturn ocean moon](https://www.space.com/saturn-moon-enceladus-top-target-europe-astrobiology-mission)
 - [We asked over 50 women space leaders for words of inspiration. Here&#39;s what they told us](https://www.space.com/women-in-space-quotes-inspirational-science-history-month)
-- [Fisker loses customers’ money, Robinhood launches a credit card, and Google generates travel itineraries](https://techcrunch.com/2024/03/30/fisker-loses-customers-money-robinhood-launches-a-credit-card-and-google-generates-travel-itineraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
