@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Fisker enters into dumpster fire territory and Tesla chases FSD revenue](https://techcrunch.com/2024/03/31/techcrunch-mobility-03-31-24/)
 - [Ember’s journey from hot coffee to medication transport](https://techcrunch.com/2024/03/31/ember-ceo-interview/)
 - [Why AWS, Google and Oracle are backing the Valkey Redis fork](https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/)
 - [The market is forcing cloud vendors to relax data egress fees](https://techcrunch.com/2024/03/31/the-market-is-forcing-cloud-vendors-to-relax-data-egress-fees/)
 - [Women in AI: Brandie Nonnecke of UC Berkeley says investors should insist on responsible AI practices](https://techcrunch.com/2024/03/31/women-in-ai-brandie-nonnecke-of-uc-berkeley-says-investors-should-insist-on-responsible-ai-practices/)
-- [Pluto TV will rally to make Pluto a planet again on April 1 &lpar;it&#39;s no joke&rpar;](https://www.space.com/pluto-planet-status-rally-pluto-tv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
