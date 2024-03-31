@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Mobility: Fisker enters into dumpster fire territory and Tesla chases FSD revenue](https://techcrunch.com/2024/03/31/techcrunch-mobility-03-31-24/)
+- [Fisker enters into dumpster fire territory and Tesla chases FSD revenue](https://techcrunch.com/2024/03/31/techcrunch-mobility-03-31-24/)
 - [Ember’s journey from hot coffee to medication transport](https://techcrunch.com/2024/03/31/ember-ceo-interview/)
 - [Why AWS, Google and Oracle are backing the Valkey Redis fork](https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/)
 - [The market is forcing cloud vendors to relax data egress fees](https://techcrunch.com/2024/03/31/the-market-is-forcing-cloud-vendors-to-relax-data-egress-fees/)
