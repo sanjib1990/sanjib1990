@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We asked over 50 women space leaders for words of inspiration. Here&#39;s what they told us](https://www.space.com/women-in-space-quotes-inspirational-science-history-month)
 - [Fisker loses customers’ money, Robinhood launches a credit card, and Google generates travel itineraries](https://techcrunch.com/2024/03/30/fisker-loses-customers-money-robinhood-launches-a-credit-card-and-google-generates-travel-itineraries/)
 - [MIT tool shows climate change could cost Texans a month and a half of outdoor time by 2080](https://techcrunch.com/2024/03/30/mit-outdoor-days/)
 - [TikTok ban could harm Amazon sellers looking for alternatives](https://techcrunch.com/2024/03/30/tiktok-ban-implication-amazon/)
 - [Deal Dive: Iron Sheepdog is fixing short-haul trucking from the bottom up](https://techcrunch.com/2024/03/30/iron-sheepdog-is-fixing-short-haul-trucking-from-the-bottom-up/)
-- [Women in AI: Kate Devlin of King’s College is researching AI and intimacy](https://techcrunch.com/2024/03/30/women-in-ai-kate-devlin-of-kings-college-is-researching-ai-and-intimacy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
