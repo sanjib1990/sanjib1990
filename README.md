@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: Amazon bets $4B on Anthropic’s success](https://techcrunch.com/2024/04/01/techcrunch-minute-amazon-bets-4b-in-anthropics-success/)
+- [Jedi Masters battle space pirates in new &#39;Star Wars&#39; novel &#39;The Living Force&#39; &lpar;exclusive excerpt&rpar;](https://www.space.com/star-wars-novel-the-living-force-excerpt)
 - [Women in AI: Urvashi Aneja is researching the social impact of AI in India](https://techcrunch.com/2024/04/01/women-in-ai-urvashi-aneja-is-researching-the-social-impact-of-ai-in-india/)
-- [Ads on Discord, AT&amp;T passcode resets, and podcast changes for Android users](https://techcrunch.com/2024/04/01/ads-on-discord-att-passcode-resets-and-podcast-changes-for-android-users/)
+- [Ads on Discord, AT&amp;T passcode resets and podcast changes for Android users](https://techcrunch.com/2024/04/01/ads-on-discord-att-passcode-resets-and-podcast-changes-for-android-users/)
 - [James Webb Space Telescope joins the hunt for newborn exoplanets](https://www.space.com/james-webb-space-telescope-newborn-exoplanet-hunt)
-- [Microsoft to unbundle Office and Teams globally following years-long criticism](https://techcrunch.com/2024/04/01/microsoft-to-unbundle-office-and-teams-globally-following-years-long-criticism/)
-- [The 2024 total solar eclipse is 1 week away. Here&#39;s what you need to know.](https://www.space.com/total-solar-eclipse-2024-one-week-away-what-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
