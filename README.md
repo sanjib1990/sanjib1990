@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Linux got wrecked by non-consensual backdoor attack](https://www.youtube.com/watch?v=bS9em7Bg0iU)
+- [Linux got wrecked by backdoor attack](https://www.youtube.com/watch?v=bS9em7Bg0iU)
 - [7 tech leaders who ended up in prison](https://www.youtube.com/watch?v=CWeSzhJpJ9U)
 - [Wearable Tech Discussed - Computerphile](https://www.youtube.com/watch?v=Pw21Y0ffUZU)
 - [GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?](https://www.youtube.com/watch?v=9JGONx_X4ho)
