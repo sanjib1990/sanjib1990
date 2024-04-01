@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Star Wars: Unlimited — Spark of Rebellion&#39; trading card game strikes our galaxy](https://www.space.com/star-wars-spark-of-rebellion-trading-card-game)
+- [There&#39;s an April Fool&#39;s Day prank about the 2024 solar eclipse — don&#39;t fall for it](https://www.space.com/2024-total-solar-eclipse-april-fools-day-joke)
+- [Why Trump’s digital media company is different from other money-losing startups](https://techcrunch.com/2024/04/01/why-trumps-digital-media-company-is-different-from-other-money-losing-startups/)
 - [April 8 solar eclipse: 6 zoos on the path of totality — and why animals react strangely to &#39;nighttime during the day&#39;](https://www.space.com/six-zoos-in-path-of-totality-why-animals-react)
 - [Chat app Telegram challenges Meta with the launch of new ‘Business’ features and revenue-sharing](https://techcrunch.com/2024/04/01/chat-app-telegram-challenges-meta-with-the-launch-of-new-business-features-and-revenue-sharing/)
-- [How photos of the April 8 solar eclipse will help us understand of the sun&#39;s atmosphere](https://www.space.com/solar-eclipse-images-reveal-hidden-parts-sun)
-- [Learn startup best practices with Fidelity and others at Early Stage 2024](https://techcrunch.com/2024/04/01/learn-startup-best-practices-with-fidelity-and-others-at-early-stage-2024/)
-- [ChatGPT no longer requires an account — but there’s a catch](https://techcrunch.com/2024/04/01/chatgpt-no-longer-requires-an-account-but-theres-a-catch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
