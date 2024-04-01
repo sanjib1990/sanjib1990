@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Industries converts electricity and air into synthetic natural gas for the first time](https://techcrunch.com/2024/04/01/terraform-industries-converted-electricity-and-air-into-synthetic-natural-gas/)
+- [SpaceX Falcon Heavy rocket photobombs the moon in incredible award-winning shot](https://www.space.com/falcon-heavy-moon-transit-world-photography-award)
+- [The AltStore, an alternative app store coming to the EU, will offer Patreon-backed apps](https://techcrunch.com/2024/04/01/the-altstore-an-alternative-app-store-coming-to-eu-will-offer-patreon-backed-apps/)
 - [TechCrunch Minute: Amazon bets $4B on Anthropic’s success](https://techcrunch.com/2024/04/01/techcrunch-minute-amazon-bets-4b-in-anthropics-success/)
 - [Jedi Masters battle space pirates in new &#39;Star Wars&#39; novel &#39;The Living Force&#39; &lpar;exclusive excerpt&rpar;](https://www.space.com/star-wars-novel-the-living-force-excerpt)
-- [Women in AI: Urvashi Aneja is researching the social impact of AI in India](https://techcrunch.com/2024/04/01/women-in-ai-urvashi-aneja-is-researching-the-social-impact-of-ai-in-india/)
-- [Ads on Discord, AT&amp;T passcode resets and podcast changes for Android users](https://techcrunch.com/2024/04/01/ads-on-discord-att-passcode-resets-and-podcast-changes-for-android-users/)
-- [James Webb Space Telescope joins the hunt for newborn exoplanets](https://www.space.com/james-webb-space-telescope-newborn-exoplanet-hunt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
