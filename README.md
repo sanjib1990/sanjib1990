@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to unbundle Office and Teams globally following years-long criticism](https://techcrunch.com/2024/04/01/microsoft-to-unbundle-office-and-teams-globally-following-years-long-criticism/)
+- [The 2024 total solar eclipse is 1 week away. Here&#39;s what you need to know.](https://www.space.com/total-solar-eclipse-2024-one-week-away-what-you-need-to-know)
 - [GGV Capital is no more, as partners announce two separate brands](https://techcrunch.com/2024/03/31/ggv-capital-is-no-more-as-partners-announce-two-separate-brands/)
 - [Fisker enters into dumpster fire territory and Tesla chases FSD revenue](https://techcrunch.com/2024/03/31/techcrunch-mobility-03-31-24/)
 - [Ember’s journey from hot coffee to medication transport](https://techcrunch.com/2024/03/31/ember-ceo-interview/)
-- [Why AWS, Google and Oracle are backing the Valkey Redis fork](https://techcrunch.com/2024/03/31/why-aws-google-and-oracle-are-backing-the-valkey-redis-fork/)
-- [The market is forcing cloud vendors to relax data egress fees](https://techcrunch.com/2024/03/31/the-market-is-forcing-cloud-vendors-to-relax-data-egress-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
