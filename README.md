@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How photos of the April 8 solar eclipse will help us understand of the sun&#39;s atmosphere](https://www.space.com/solar-eclipse-images-reveal-hidden-parts-sun)
+- [Learn startup best practices with Fidelity and others at Early Stage 2024](https://techcrunch.com/2024/04/01/learn-startup-best-practices-with-fidelity-and-others-at-early-stage-2024/)
+- [ChatGPT no longer requires an account — but there’s a catch](https://techcrunch.com/2024/04/01/chatgpt-no-longer-requires-an-account-but-theres-a-catch/)
 - [Terraform Industries converts electricity and air into synthetic natural gas for the first time](https://techcrunch.com/2024/04/01/terraform-industries-converted-electricity-and-air-into-synthetic-natural-gas/)
 - [SpaceX Falcon Heavy rocket photobombs the moon in incredible award-winning shot](https://www.space.com/falcon-heavy-moon-transit-world-photography-award)
-- [The AltStore, an alternative app store coming to the EU, will offer Patreon-backed apps](https://techcrunch.com/2024/04/01/the-altstore-an-alternative-app-store-coming-to-eu-will-offer-patreon-backed-apps/)
-- [TechCrunch Minute: Amazon bets $4B on Anthropic’s success](https://techcrunch.com/2024/04/01/techcrunch-minute-amazon-bets-4b-in-anthropics-success/)
-- [Jedi Masters battle space pirates in new &#39;Star Wars&#39; novel &#39;The Living Force&#39; &lpar;exclusive excerpt&rpar;](https://www.space.com/star-wars-novel-the-living-force-excerpt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
