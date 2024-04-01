@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok is bringing its dedicated STEM feed to Europe](https://techcrunch.com/2024/04/01/tiktok-is-bringing-its-dedicated-stem-feed-to-europe/)
+- [Beyoncé’s new album ‘Cowboy Carter’ is a statement against AI music](https://techcrunch.com/2024/04/01/beyonce-cowboy-carter-is-a-statement-against-ai-music/)
 - [TechCrunch Space: Reusable rockets, reusable satellites](https://techcrunch.com/2024/04/01/techcrunch-space-reusable-rockets-reusable-satellites/)
 - [Why I&#39;m going to Missouri near the centerline for the solar eclipse on April 8](https://www.space.com/total-solar-eclipse-april-8-missouri-centerline)
 - [As Microsoft unbundles Teams, it might not have the impact on Slack you think](https://techcrunch.com/2024/04/01/as-microsoft-unbundles-teams-it-might-not-have-the-impact-on-slack-you-think/)
-- [Footage from 2020 shows Astra rocket exploding during prelaunch testing](https://techcrunch.com/2024/04/01/astra-rocket-explodes-2020-launch-failure-video-footage/)
-- [Sam Altman gives up control of OpenAI Startup Fund, resolving unusual corporate venture structure](https://techcrunch.com/2024/04/01/sam-altman-gives-up-control-of-openai-startup-fund-resolving-unusual-corporate-venture-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
