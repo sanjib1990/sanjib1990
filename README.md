@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indeed announces AI-powered work experience writer and support for multiple resumes](https://techcrunch.com/2024/04/02/indeeds-announces-ai-powered-work-experience-writer-and-support-for-multiple-resumes/)
+- [Stars, planets and more will be visible during the total solar eclipse on April 8. Here&#39;s where to look](https://www.space.com/sky-during-totality-what-to-look-for-april-8-total-solar-eclipse)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Animal-free egg protein startup Onego Bio is one step closer to cracking the traditional egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
 - [Canoo spent double its annual revenue on the CEO’s private jet in 2023](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
-- [TikTok is bringing its dedicated STEM feed to Europe](https://techcrunch.com/2024/04/01/tiktok-is-bringing-its-dedicated-stem-feed-to-europe/)
-- [Beyoncé’s new album ‘Cowboy Carter’ is a statement against AI music](https://techcrunch.com/2024/04/01/beyonce-cowboy-carter-is-a-statement-against-ai-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
