@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Parker Solar Probe peers into a coronal mass ejection for the 1st time](https://www.space.com/parker-solar-probe-coronal-mass-ejection-image)
+- [Yahoo is acquiring Instagram co-founders’ AI-powered news startup Artifact](https://techcrunch.com/2024/04/02/yahoo-acquiring-instagram-co-founders-ai-powered-news-artifact/)
+- [Tesla blames sales drop on Houthi attacks and arson in Germany](https://techcrunch.com/2024/04/02/tesla-sales-drop-first-quarter-estimates-deliveries/)
 - [Modal raises $25M to train corporate workers on data and AI](https://techcrunch.com/2024/04/02/modal-raises-25m-to-make-corporate-upskilling-more-effective/)
 - [JAXA and Toyota&#39;s &#39;Lunar Cruiser&#39; moon rover is now a Transformers toy](https://www.space.com/takara-tomy-transformers-lunar-cruiser-optimus-prime)
-- [Quadratic is reimagining the spreadsheet with a focus on data](https://techcrunch.com/2024/04/02/quadratic-is-reimagining-the-spreadsheet-with-a-focus-on-data/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Odd Ball, the ball-shaped music instrument, is adding new gestures so you can become a house DJ](https://techcrunch.com/2024/04/02/odd-ball-the-ball-shaped-music-instrument-is-adding-new-gestures-so-you-can-become-a-house-dj/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
