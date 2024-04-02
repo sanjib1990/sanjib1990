@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Seso is building software to fix farm workforces and solve agriculture’s HR woes](https://techcrunch.com/2024/04/02/seso-is-building-software-to-fix-farm-workforces-and-solve-agricultures-hr-woes/)
-- [I&#39;m taking the train to see the solar eclipse in Canada. Here&#39;s why I&#39;m riding the rails](https://www.space.com/solar-eclipse-2024-canada-train-journey-local)
-- [TechCrunch Early Stage 2024 Women’s Breakfast: Exploring AI’s impact on founders](https://techcrunch.com/2024/04/02/techcrunch-early-stage-2024-womens-breakfast-exploring-ais-impact-on-founders/)
-- [Your cut out &amp; keep guide to Big Tech talking points in a new age of antitrust](https://techcrunch.com/2024/04/02/big-tech-talking-points-translated/)
-- [Autism Impact Fund closes $60 million first fund and broadens its scope](https://techcrunch.com/2024/04/02/autism-impact-fund/)
+- [Modal raises $25M to train corporate workers on data and AI](https://techcrunch.com/2024/04/02/modal-raises-25m-to-make-corporate-upskilling-more-effective/)
+- [JAXA and Toyota&#39;s &#39;Lunar Cruiser&#39; moon rover is now a Transformers toy](https://www.space.com/takara-tomy-transformers-lunar-cruiser-optimus-prime)
+- [Quadratic is reimagining the spreadsheet with a focus on data](https://techcrunch.com/2024/04/02/quadratic-is-reimagining-the-spreadsheet-with-a-focus-on-data/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Odd Ball, the ball-shaped music instrument, is adding new gestures so you can become a house DJ](https://techcrunch.com/2024/04/02/odd-ball-the-ball-shaped-music-instrument-is-adding-new-gestures-so-you-can-become-a-house-dj/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
