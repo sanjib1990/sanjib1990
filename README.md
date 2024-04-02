@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canoo spent double its annual revenue on the CEO’s private jet in 2023](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
 - [TikTok is bringing its dedicated STEM feed to Europe](https://techcrunch.com/2024/04/01/tiktok-is-bringing-its-dedicated-stem-feed-to-europe/)
 - [Beyoncé’s new album ‘Cowboy Carter’ is a statement against AI music](https://techcrunch.com/2024/04/01/beyonce-cowboy-carter-is-a-statement-against-ai-music/)
 - [TechCrunch Space: Reusable rockets, reusable satellites](https://techcrunch.com/2024/04/01/techcrunch-space-reusable-rockets-reusable-satellites/)
 - [Why I&#39;m going to Missouri near the centerline for the solar eclipse on April 8](https://www.space.com/total-solar-eclipse-april-8-missouri-centerline)
-- [As Microsoft unbundles Teams, it might not have the impact on Slack you think](https://techcrunch.com/2024/04/01/as-microsoft-unbundles-teams-it-might-not-have-the-impact-on-slack-you-think/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
