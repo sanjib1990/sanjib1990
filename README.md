@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Parker Solar Probe peers into a coronal mass ejection for the 1st time](https://www.space.com/parker-solar-probe-coronal-mass-ejection-image)
-- [Yahoo is acquiring Instagram co-founders’ AI-powered news startup Artifact](https://techcrunch.com/2024/04/02/yahoo-acquiring-instagram-co-founders-ai-powered-news-artifact/)
-- [Tesla blames sales drop on Houthi attacks and arson in Germany](https://techcrunch.com/2024/04/02/tesla-sales-drop-first-quarter-estimates-deliveries/)
-- [Modal raises $25M to train corporate workers on data and AI](https://techcrunch.com/2024/04/02/modal-raises-25m-to-make-corporate-upskilling-more-effective/)
-- [JAXA and Toyota&#39;s &#39;Lunar Cruiser&#39; moon rover is now a Transformers toy](https://www.space.com/takara-tomy-transformers-lunar-cruiser-optimus-prime)
+- [‘Reverse’ searches: The sneaky ways that police tap tech companies for your private data](https://techcrunch.com/2024/04/02/reverse-searches-police-tap-tech-companies-private-data/)
+- [Women in AI: Kristine Gloria of the Aspen Institute tells women to enter the field and ‘follow your curiosity’](https://techcrunch.com/2024/04/02/women-in-ai-kristine-gloria-of-the-aspen-institute-tells-women-to-enter-the-field-and-follow-your-curiosity/)
+- [The faintest star system orbiting our Milky Way may be dominated by dark matter](https://www.space.com/dwarf-galaxy-milky-way-satellite-dark-matter)
+- [Rivian started a tough year on a flat foot](https://techcrunch.com/2024/04/02/rivian-started-a-tough-year-on-a-flat-foot/)
+- [Read AI expands its AI-powered summaries from meetings to messages and emails](https://techcrunch.com/2024/04/02/read-ai-expands-its-ai-powered-summaries-from-meetings-to-messages-and-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
