@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Animal-free egg protein startup Onego Bio is one step closer to cracking the traditional egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
 - [Canoo spent double its annual revenue on the CEO’s private jet in 2023](https://techcrunch.com/2024/04/01/canoo-spent-double-its-annual-revenue-on-the-ceos-private-jet-in-2023/)
 - [TikTok is bringing its dedicated STEM feed to Europe](https://techcrunch.com/2024/04/01/tiktok-is-bringing-its-dedicated-stem-feed-to-europe/)
 - [Beyoncé’s new album ‘Cowboy Carter’ is a statement against AI music](https://techcrunch.com/2024/04/01/beyonce-cowboy-carter-is-a-statement-against-ai-music/)
-- [TechCrunch Space: Reusable rockets, reusable satellites](https://techcrunch.com/2024/04/01/techcrunch-space-reusable-rockets-reusable-satellites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
