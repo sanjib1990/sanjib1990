@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronauts ready to watch the solar eclipse from space on April 8](https://www.space.com/iss-astronauts-satellites-solar-eclipse-april-8)
+- [Thrive Market’s Nick Green talks building a billion-dollar grocery company](https://techcrunch.com/2024/04/02/thrive-markets-nick-green-talks-building-a-billion-dollar-grocery-company/)
+- [Meta &lpar;again&rpar; denies that Netflix read users’ private Facebook messages](https://techcrunch.com/2024/04/02/meta-again-denies-that-netflix-read-users-private-facebook-messages/)
 - [Get a sneak peak at Universal Epic Universe&#39;s Celestial Park, coming in 2025 &lpar;images&rpar;](https://www.space.com/celestial-park-universal-epic-universe-2025)
 - [Open source foundations unite on common standards for EU’s Cybersecurity Resilience Act](https://techcrunch.com/2024/04/02/open-source-foundations-unite-on-common-standards-for-eus-cybersecurity-resilience-act/)
-- [Nicki Minaj, Billie Eilish, Katy Perry and other musicians sign letter against irresponsible AI](https://techcrunch.com/2024/04/02/nicki-minaj-billie-eilish-katy-perry-and-other-musicians-sign-letter-against-irresponsible-ai/)
-- [Apple Vision Pro’s Persona feature gets collaborative](https://techcrunch.com/2024/04/02/apple-vision-pros-persona-feature-gets-collaborative/)
-- [An eclipse for everyone – how visually impaired students can ‘get a feel for’ eclipses](https://www.space.com/visually-impaired-students-can-feel-solar-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
