@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get a sneak peak at Universal Epic Universe&#39;s Celestial Park, coming in 2025 &lpar;images&rpar;](https://www.space.com/celestial-park-universal-epic-universe-2025)
+- [Open source foundations unite on common standards for EU’s Cybersecurity Resilience Act](https://techcrunch.com/2024/04/02/open-source-foundations-unite-on-common-standards-for-eus-cybersecurity-resilience-act/)
+- [Nicki Minaj, Billie Eilish, Katy Perry and other musicians sign letter against irresponsible AI](https://techcrunch.com/2024/04/02/nicki-minaj-billie-eilish-katy-perry-and-other-musicians-sign-letter-against-irresponsible-ai/)
+- [Apple Vision Pro’s Persona feature gets collaborative](https://techcrunch.com/2024/04/02/apple-vision-pros-persona-feature-gets-collaborative/)
 - [An eclipse for everyone – how visually impaired students can ‘get a feel for’ eclipses](https://www.space.com/visually-impaired-students-can-feel-solar-eclipse)
-- [AWS unveils new service for cloud-based rendering projects](https://techcrunch.com/2024/04/02/aws-unveils-new-service-for-cloud-based-rendering-projects/)
-- [Y Combinator’s Garry Tan chastises a San Francisco lawmaker again; this time about an email bill](https://techcrunch.com/2024/04/02/y-combinator-garry-tan-san-francisco-lawmaker-email-bill/)
-- [A &#39;horned&#39; comet may be visible during the 2024 total solar eclipse](https://www.space.com/horned-comet-visible-total-solar-eclipse)
-- [A new games-focused VC in Turkey shows the industry there continues to gain steam](https://techcrunch.com/2024/04/02/a-new-games-focused-vc-in-turkey-shows-the-industry-there-continues-to-gain-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
