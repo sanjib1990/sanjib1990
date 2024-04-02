@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seso is building software to fix farm workforces and solve agriculture’s HR woes](https://techcrunch.com/2024/04/02/seso-is-building-software-to-fix-farm-workforces-and-solve-agricultures-hr-woes/)
+- [I&#39;m taking the train to see the solar eclipse in Canada. Here&#39;s why I&#39;m riding the rails](https://www.space.com/solar-eclipse-2024-canada-train-journey-local)
+- [TechCrunch Early Stage 2024 Women’s Breakfast: Exploring AI’s impact on founders](https://techcrunch.com/2024/04/02/techcrunch-early-stage-2024-womens-breakfast-exploring-ais-impact-on-founders/)
+- [Your cut out &amp; keep guide to Big Tech talking points in a new age of antitrust](https://techcrunch.com/2024/04/02/big-tech-talking-points-translated/)
 - [Autism Impact Fund closes $60 million first fund and broadens its scope](https://techcrunch.com/2024/04/02/autism-impact-fund/)
-- [Indeed announces AI-powered work experience writer and support for multiple resumes](https://techcrunch.com/2024/04/02/indeeds-announces-ai-powered-work-experience-writer-and-support-for-multiple-resumes/)
-- [Stars, planets and more will be visible during the total solar eclipse on April 8. Here&#39;s where to look](https://www.space.com/sky-during-totality-what-to-look-for-april-8-total-solar-eclipse)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Animal-free egg protein startup Onego Bio is one step closer to cracking the traditional egg market](https://techcrunch.com/2024/04/01/animal-free-egg-protein-onego-bio-40m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
