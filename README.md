@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ISS astronauts ready to watch the solar eclipse from space on April 8](https://www.space.com/iss-astronauts-satellites-solar-eclipse-april-8)
-- [Thrive Market’s Nick Green talks building a billion-dollar grocery company](https://techcrunch.com/2024/04/02/thrive-markets-nick-green-talks-building-a-billion-dollar-grocery-company/)
-- [Meta &lpar;again&rpar; denies that Netflix read users’ private Facebook messages](https://techcrunch.com/2024/04/02/meta-again-denies-that-netflix-read-users-private-facebook-messages/)
-- [Get a sneak peak at Universal Epic Universe&#39;s Celestial Park, coming in 2025 &lpar;images&rpar;](https://www.space.com/celestial-park-universal-epic-universe-2025)
-- [Open source foundations unite on common standards for EU’s Cybersecurity Resilience Act](https://techcrunch.com/2024/04/02/open-source-foundations-unite-on-common-standards-for-eus-cybersecurity-resilience-act/)
+- [Solar eclipse sights might vary on the edge of totality: report](https://www.space.com/solar-eclipse-sights-variable-shadow-edge-report)
+- [@Potus just joined the fediverse via Instagram Threads](https://techcrunch.com/2024/04/02/potus-just-joined-the-fediverse-via-instagram-threads/)
+- [Anthropic researchers wear down AI ethics with repeated questions](https://techcrunch.com/2024/04/02/anthropic-researchers-wear-down-ai-ethics-with-repeated-questions/)
+- [Chinese space junk falls to Earth over Southern California, creating spectacular fireball &lpar;photos, video&rpar;](https://www.space.com/chinese-space-junk-fall-fireball-shenzhou-15)
+- [Rubrik’s IPO filing hints at thawing public markets for tech companies](https://techcrunch.com/2024/04/02/rubriks-ipo-filing-hints-at-thawing-public-markets-for-tech-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
