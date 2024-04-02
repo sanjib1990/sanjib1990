@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A &#39;horned&#39; comet may be visible during the 2024 total solar eclipse](https://www.space.com/horned-comet-visible-total-solar-eclipse)
+- [A new games-focused VC in Turkey shows the industry there continues to gain steam](https://techcrunch.com/2024/04/02/a-new-games-focused-vc-in-turkey-shows-the-industry-there-continues-to-gain-steam/)
+- [Spotify brings its free audiobooks perk for Premium users to Canada, Ireland and New Zealand](https://techcrunch.com/2024/04/02/spotify-free-audiobooks-perk-for-premium-canada-ireland-new-zealand/)
 - [OctoAI wants to makes private AI model deployments easier with OctoStack](https://techcrunch.com/2024/04/02/octoai-wants-to-makes-private-ai-model-deployments-easier-with-octostack/)
 - [TechCrunch Minute: AT&amp;T data breach prompts millions of passcodes to be reset](https://techcrunch.com/2024/04/02/techcrunch-minute-att-data-breach-prompts-millions-of-passcodes-to-be-reset/)
-- [&#39;Zeus made night from mid-day:&#39; Terror and wonder in ancient accounts of solar eclipses](https://www.space.com/ancient-accounts-of-solar-eclipses)
-- [Meta now requires users to verify their age to use its Quest VR headsets](https://techcrunch.com/2024/04/02/meta-quest-age-verification/)
-- [‘Reverse’ searches: The sneaky ways that police tap tech companies for your private data](https://techcrunch.com/2024/04/02/reverse-searches-police-tap-tech-companies-private-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
