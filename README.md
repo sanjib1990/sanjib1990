@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The world&#39;s largest digital camera is ready to investigate the dark universe](https://www.space.com/dark-matter-lsst-camera-rubin-observatory)
+- [Mysterious object that crashed through Florida home was likely space junk from the International Space Station](https://www.space.com/space-junk-hits-florida-home-from-international-space-station)
 - [HAX at TechCrunch Early Stage 2024: Empowering hard tech founders](https://techcrunch.com/2024/04/03/hax-at-techcrunch-early-stage-2024-empowering-hard-tech-founders/)
 - [Thousands of strange white rocks found on Mars. Will they ever be brought to Earth?](https://www.space.com/thousands-mysterious-rocks-mars-sample-return)
 - [Facebook takes on TikTok with a new, vertical-first video player](https://techcrunch.com/2024/04/03/facebook-takes-on-tiktok-with-a-new-vertical-first-video-player/)
-- [Last minute solar eclipse deal: Celestron solar telescope now $30 off](https://www.space.com/last-minute-celestron-eclipsmart-solar-scope-deal-save-30-dollars)
-- [TechCrunch Minute: Yahoo buys Artifact news app from Instagram’s co-founders](https://techcrunch.com/2024/04/03/techcrunch-minute-yahoo-buys-artifact-news-app-from-instagrams-co-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
