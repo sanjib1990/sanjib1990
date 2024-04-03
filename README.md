@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Full Glass Wine raises $14M to continue acquiring DTC wine marketplaces, buys Bright Cellars](https://techcrunch.com/2024/04/03/full-glass-wine-raises-14m-to-continue-acquiring-dtc-wine-marketplaces-buys-bright-cellars/)
+- [Opera allows users to download and use LLMs locally](https://techcrunch.com/2024/04/03/opera-will-now-allow-users-download-and-use-llms-locally/)
+- [Alsym wants to ‘light up homes for a billion people’ with its new battery](https://techcrunch.com/2024/04/03/alsym-series-c/)
+- [Full Glass Wine raises $14M to continue DTC marketplaces spree, buys Bright Cellars](https://techcrunch.com/2024/04/03/full-glass-wine-raises-14m-to-continue-acquiring-dtc-wine-marketplaces-buys-bright-cellars/)
 - [Boeing&#39;s 1st Starliner astronaut launch delayed again, to May 6](https://www.space.com/boeing-starliner-cft-astronaut-launch-delay-may-6)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [After reaching profitability, carpooling platform BlaBlaCar secures $108 million debt line](https://techcrunch.com/2024/04/02/after-reaching-profitability-carpooling-platform-blablacar-secures-108-million-debt-line/)
-- [Indian government’s cloud spilled citizens’ personal data online for years](https://techcrunch.com/2024/04/02/indian-government-cloud-spilled-citizens-personal-data-online-for-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
