@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HAX at TechCrunch Early Stage 2024: Empowering hard tech founders](https://techcrunch.com/2024/04/03/hax-at-techcrunch-early-stage-2024-empowering-hard-tech-founders/)
+- [Thousands of strange white rocks found on Mars. Will they ever be brought to Earth?](https://www.space.com/thousands-mysterious-rocks-mars-sample-return)
+- [Facebook takes on TikTok with a new, vertical-first video player](https://techcrunch.com/2024/04/03/facebook-takes-on-tiktok-with-a-new-vertical-first-video-player/)
+- [Last minute solar eclipse deal: Celestron solar telescope now $30 off](https://www.space.com/last-minute-celestron-eclipsmart-solar-scope-deal-save-30-dollars)
 - [TechCrunch Minute: Yahoo buys Artifact news app from Instagram’s co-founders](https://techcrunch.com/2024/04/03/techcrunch-minute-yahoo-buys-artifact-news-app-from-instagrams-co-founders/)
-- [‘A Brief History of the Future’ offers a hopeful antidote to cynical tech takes](https://techcrunch.com/2024/04/03/a-brief-history-of-the-future-offers-a-hopeful-antidote-to-cynical-tech-takes/)
-- [Zip wants to modernize enterprise procurement](https://techcrunch.com/2024/04/03/zip-wants-to-modernize-enterprise-procurement/)
-- [Why I’m staying home for the April 8 solar eclipse](https://www.space.com/why-stay-home-total-solar-eclipse-april-2024)
-- [EU and US set to announce joint working on AI safety, standards &amp; R&amp;D](https://techcrunch.com/2024/04/03/eu-us-ai-ttc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
