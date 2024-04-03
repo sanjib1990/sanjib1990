@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Kathi Vidal at the USPTO has been working on AI since the early 1990s](https://techcrunch.com/2024/04/03/women-in-ai-kathi-vidal-at-the-uspto-has-been-working-on-ai-since-the-early-1990s/)
+- [James Webb Space Telescope spots hints of exomoons forming in infant star system](https://www.space.com/james-webb-space-telescope-third-planet-forming-infant-star)
+- [Storiaverse launches a short-form storytelling app that combines video and written content](https://techcrunch.com/2024/04/03/storiaverse-launches-a-short-form-storytelling-app-that-combines-video-and-written-content/)
+- [Nvidia might be clouding the funding climate for AI chip startups, but Hailo is still fighting](https://techcrunch.com/2024/04/03/nvidia-might-be-clouding-the-funding-climate-for-ai-chip-startups-but-hailo-is-still-fighting/)
 - [China plans to catch its reusable rockets with constricting wires &lpar;video&rpar;](https://www.space.com/china-catch-reusable-rockets-wires-video)
-- [Fisker’s Ocean SUV investigated for doors that won’t open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
-- [Team management app Homebase welcomes $60M Series D to give SMBs ‘superpowers’](https://techcrunch.com/2024/04/03/team-management-app-homebase-60m-series-d-smb/)
-- [Microsoft and Quantinuum say they’ve ushered in the next era of quantum computing](https://techcrunch.com/2024/04/03/microsoft-and-quantinuum-say-theyve-ushered-in-the-next-era-of-quantum-computing/)
-- [Oura launches a new Labs section to test out new features](https://techcrunch.com/2024/04/03/oura-launches-a-new-labs-section-to-test-out-new-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
