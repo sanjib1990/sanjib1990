@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Women in AI: Kathi Vidal at the USPTO has been working on AI since the early 1990s](https://techcrunch.com/2024/04/03/women-in-ai-kathi-vidal-at-the-uspto-has-been-working-on-ai-since-the-early-1990s/)
-- [James Webb Space Telescope spots hints of exomoons forming in infant star system](https://www.space.com/james-webb-space-telescope-third-planet-forming-infant-star)
-- [Storiaverse launches a short-form storytelling app that combines video and written content](https://techcrunch.com/2024/04/03/storiaverse-launches-a-short-form-storytelling-app-that-combines-video-and-written-content/)
-- [Nvidia might be clouding the funding climate for AI chip startups, but Hailo is still fighting](https://techcrunch.com/2024/04/03/nvidia-might-be-clouding-the-funding-climate-for-ai-chip-startups-but-hailo-is-still-fighting/)
-- [China plans to catch its reusable rockets with constricting wires &lpar;video&rpar;](https://www.space.com/china-catch-reusable-rockets-wires-video)
+- [TechCrunch Minute: Yahoo buys Artifact news app from Instagram’s co-founders](https://techcrunch.com/2024/04/03/techcrunch-minute-yahoo-buys-artifact-news-app-from-instagrams-co-founders/)
+- [‘A Brief History of the Future’ offers a hopeful antidote to cynical tech takes](https://techcrunch.com/2024/04/03/a-brief-history-of-the-future-offers-a-hopeful-antidote-to-cynical-tech-takes/)
+- [Zip wants to modernize enterprise procurement](https://techcrunch.com/2024/04/03/zip-wants-to-modernize-enterprise-procurement/)
+- [Why I’m staying home for the April 8 solar eclipse](https://www.space.com/why-stay-home-total-solar-eclipse-april-2024)
+- [EU and US set to announce joint working on AI safety, standards &amp; R&amp;D](https://techcrunch.com/2024/04/03/eu-us-ai-ttc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
