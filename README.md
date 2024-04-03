@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China plans to catch its reusable rockets with constricting wires &lpar;video&rpar;](https://www.space.com/china-catch-reusable-rockets-wires-video)
 - [Fisker’s Ocean SUV investigated for doors that won’t open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
 - [Team management app Homebase welcomes $60M Series D to give SMBs ‘superpowers’](https://techcrunch.com/2024/04/03/team-management-app-homebase-60m-series-d-smb/)
 - [Microsoft and Quantinuum say they’ve ushered in the next era of quantum computing](https://techcrunch.com/2024/04/03/microsoft-and-quantinuum-say-theyve-ushered-in-the-next-era-of-quantum-computing/)
 - [Oura launches a new Labs section to test out new features](https://techcrunch.com/2024/04/03/oura-launches-a-new-labs-section-to-test-out-new-features/)
-- [Agile Space Industries fires up Animas test stand to meet soaring demand](https://techcrunch.com/2024/04/03/agile-space-fires-up-animas-test-stand-to-meet-soaring-demand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
