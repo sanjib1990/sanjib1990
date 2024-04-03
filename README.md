@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agile Space Industries fires up Animas test stand to meet soaring demand](https://techcrunch.com/2024/04/03/agile-space-fires-up-animas-test-stand-to-meet-soaring-demand/)
+- [New moon phase on April 8 will bring on the 2024 total solar eclipse](https://www.space.com/new-moon-april-2024-observing-guide-solar-eclipse)
+- [GV invests in Home From College, a career platform for Gen Z](https://techcrunch.com/2024/04/03/gv-invests-in-home-from-college-a-career-platform-for-gen-z/)
+- [NASA to pick new moon car for Artemis astronauts today: Watch it live](https://www.space.com/nasa-artemis-moon-rover-selection-webcast)
 - [Opera allows users to download and use LLMs locally](https://techcrunch.com/2024/04/03/opera-will-now-allow-users-download-and-use-llms-locally/)
-- [Alsym wants to ‘light up homes for a billion people’ with its new battery](https://techcrunch.com/2024/04/03/alsym-series-c/)
-- [Full Glass Wine raises $14M to continue DTC marketplaces spree, buys Bright Cellars](https://techcrunch.com/2024/04/03/full-glass-wine-raises-14m-to-continue-acquiring-dtc-wine-marketplaces-buys-bright-cellars/)
-- [Boeing&#39;s 1st Starliner astronaut launch delayed again, to May 6](https://www.space.com/boeing-starliner-cft-astronaut-launch-delay-may-6)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
