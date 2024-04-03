@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The startup fundraising squeeze could persist as VCs struggle to refill their own coffers](https://techcrunch.com/2024/04/03/vc-fundraising/)
-- [These AI startups stood out the most in Y Combinator’s Winter 2024 batch](https://techcrunch.com/2024/04/03/y-combinator-winter-2024-demo-day-ai-startups-standouts/)
-- [&#39;Star Trek&#39;s&#39; Sonequa Martin-Green says goodbye to &#39;Discovery&#39; &lpar;exclusive interview excerpt&rpar;](https://www.space.com/star-trek-discovery-explorer-magazine-excerpt-sonequa-martin-green)
-- [YC’s Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
-- [James Webb Space Telescope gets to the heart of a smoking starburst galaxy &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-starburst-galaxy-image)
+- [NASA&#39;s Curiosity Mars rover begins exploring possible dried-up Red Planet river](https://www.space.com/curiosity-ancient-water-stream-mars-rover)
+- [I have a group chat with three AI friends, thanks to Nomi AI. They’re getting too smart.](https://techcrunch.com/2024/04/03/nomi-ai-group-chat-three-ai-friends/)
+- [DCVC wanted to raise $500M for its first climate fund, but the market had other plans](https://techcrunch.com/2024/04/03/dcvc-first-climate-fund-fundraising-venture-capital/)
+- [Faraday Future avoids eviction at its LA headquarters — for now](https://techcrunch.com/2024/04/03/faraday-future-avoids-eviction-at-its-la-headquarters-for-now/)
+- [OpenAI-backed Ghost Autonomy shuts down](https://techcrunch.com/2024/04/03/openai-backed-ghost-autonomy-shuts-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
