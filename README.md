@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The startup fundraising squeeze could persist as VCs struggle to refill their own coffers](https://techcrunch.com/2024/04/03/vc-fundraising/)
 - [These AI startups stood out the most in Y Combinator’s Winter 2024 batch](https://techcrunch.com/2024/04/03/y-combinator-winter-2024-demo-day-ai-startups-standouts/)
 - [&#39;Star Trek&#39;s&#39; Sonequa Martin-Green says goodbye to &#39;Discovery&#39; &lpar;exclusive interview excerpt&rpar;](https://www.space.com/star-trek-discovery-explorer-magazine-excerpt-sonequa-martin-green)
 - [YC’s Winter 2024 Demo Day confirms that we are indeed in an AI bubble](https://techcrunch.com/2024/04/03/ycs-winter-2024-demo-day-confirms-that-we-are-indeed-in-an-ai-bubble/)
 - [James Webb Space Telescope gets to the heart of a smoking starburst galaxy &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-starburst-galaxy-image)
-- [WhatsApp goes down in Meta’s second big outage this year](https://techcrunch.com/2024/04/03/whatsapp-goes-down-in-metas-second-big-outage-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
