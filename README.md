@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker’s Ocean SUV investigated for doors that won’t open](https://techcrunch.com/2024/04/03/fisker-ocean-suv-federal-investigation-safety-doors/)
+- [Team management app Homebase welcomes $60M Series D to give SMBs ‘superpowers’](https://techcrunch.com/2024/04/03/team-management-app-homebase-60m-series-d-smb/)
+- [Microsoft and Quantinuum say they’ve ushered in the next era of quantum computing](https://techcrunch.com/2024/04/03/microsoft-and-quantinuum-say-theyve-ushered-in-the-next-era-of-quantum-computing/)
+- [Oura launches a new Labs section to test out new features](https://techcrunch.com/2024/04/03/oura-launches-a-new-labs-section-to-test-out-new-features/)
 - [Agile Space Industries fires up Animas test stand to meet soaring demand](https://techcrunch.com/2024/04/03/agile-space-fires-up-animas-test-stand-to-meet-soaring-demand/)
-- [New moon phase on April 8 will bring on the 2024 total solar eclipse](https://www.space.com/new-moon-april-2024-observing-guide-solar-eclipse)
-- [GV invests in Home From College, a career platform for Gen Z](https://techcrunch.com/2024/04/03/gv-invests-in-home-from-college-a-career-platform-for-gen-z/)
-- [NASA to pick new moon car for Artemis astronauts today: Watch it live](https://www.space.com/nasa-artemis-moon-rover-selection-webcast)
-- [Opera allows users to download and use LLMs locally](https://techcrunch.com/2024/04/03/opera-will-now-allow-users-download-and-use-llms-locally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
