@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian government’s cloud spilled citizens’ personal data online for years](https://techcrunch.com/2024/04/02/indian-government-cloud-spilled-citizens-personal-data-online-for-years/)
+- [HD raises $5.6M to build a Sierra AI for healthcare in Southeast Asia](https://techcrunch.com/2024/04/02/hd-mall-southeast-asia-ai-healthcare/)
 - [Photoncycle targets low-cost energy storage with a clever hydrogen solution](https://techcrunch.com/2024/04/02/photoncycle-solar-energy-storage-solid-hydrogen/)
 - [Solar eclipse sights might vary on the edge of totality: report](https://www.space.com/solar-eclipse-sights-variable-shadow-edge-report)
 - [@Potus just joined the fediverse via Instagram Threads](https://techcrunch.com/2024/04/02/potus-just-joined-the-fediverse-via-instagram-threads/)
-- [Anthropic researchers wear down AI ethics with repeated questions](https://techcrunch.com/2024/04/02/anthropic-researchers-wear-down-ai-ethics-with-repeated-questions/)
-- [Chinese space junk falls to Earth over Southern California, creating spectacular fireball &lpar;photos, video&rpar;](https://www.space.com/chinese-space-junk-fall-fireball-shenzhou-15)
 <!-- BLOG-POST-LIST:END -->
 
 ---
