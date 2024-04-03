@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Full Glass Wine raises $14M to continue acquiring DTC wine marketplaces, buys Bright Cellars](https://techcrunch.com/2024/04/03/full-glass-wine-raises-14m-to-continue-acquiring-dtc-wine-marketplaces-buys-bright-cellars/)
+- [Boeing&#39;s 1st Starliner astronaut launch delayed again, to May 6](https://www.space.com/boeing-starliner-cft-astronaut-launch-delay-may-6)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [After reaching profitability, carpooling platform BlaBlaCar secures $108 million debt line](https://techcrunch.com/2024/04/02/after-reaching-profitability-carpooling-platform-blablacar-secures-108-million-debt-line/)
 - [Indian government’s cloud spilled citizens’ personal data online for years](https://techcrunch.com/2024/04/02/indian-government-cloud-spilled-citizens-personal-data-online-for-years/)
-- [HD raises $5.6M to build a Sierra AI for healthcare in Southeast Asia](https://techcrunch.com/2024/04/02/hd-mall-southeast-asia-ai-healthcare/)
-- [Photoncycle targets low-cost energy storage with a clever hydrogen solution](https://techcrunch.com/2024/04/02/photoncycle-solar-energy-storage-solid-hydrogen/)
-- [Solar eclipse sights might vary on the edge of totality: report](https://www.space.com/solar-eclipse-sights-variable-shadow-edge-report)
 <!-- BLOG-POST-LIST:END -->
 
 ---
