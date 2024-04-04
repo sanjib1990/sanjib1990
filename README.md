@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambitious new dark matter-hunting experiment delivers 1st results](https://www.space.com/bread-experiment-first-results-dark-matter-search)
+- [YC’s latest Demo Day shows fascinating wagers on healthcare, chip design, AI and more](https://techcrunch.com/2024/04/04/ycs-latest-demo-day-shows-fascinating-wagers-on-healthcare-chip-design-ai-and-more/)
+- [Largest 3D map of our universe could hint that dark energy evolves with time](https://www.space.com/desi-3d-map-universe-dark-energy-evolution)
 - [Meet the startup pitch finalists at TC Early Stage 2024: ChargeBay, GovGPT, Ti¢ker](https://techcrunch.com/2024/04/04/meet-the-startup-pitch-finalists-at-tc-early-stage-2024-chargebay-govgpt-ti%c2%a2ker/)
 - [China putting finishing touches on seaside spaceport for commercial launches &lpar;video&rpar;](https://www.space.com/china-finishing-commercial-spaceport-hainan-video)
-- [X warns that you might lose followers as it does another bot sweep](https://techcrunch.com/2024/04/04/x-formerly-twitter-warns-you-might-lose-followers-as-it-does-another-bot-sweep/)
-- [OpenStack improves support for AI workloads](https://techcrunch.com/2024/04/04/openstack-improves-support-for-ai-workloads/)
-- [Net neutrality won’t survive a Trump presidency](https://techcrunch.com/2024/04/04/net-neutrality-wont-survive-a-trump-presidency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
