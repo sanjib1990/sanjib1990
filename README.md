@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coalesce raises more cash to transform data for Snowflake customers](https://techcrunch.com/2024/04/04/coalesce-raises-more-cash-to-transform-data-for-snowflake-customers/)
-- [ChromeOS brings customization for keyboard shortcuts](https://techcrunch.com/2024/04/04/chromeos-brings-customization-for-keyboard-shortcuts/)
-- [DJI Mini 4 Pro review](https://www.space.com/dji-mini-4-pro-review)
-- [These breweries will toast to the sun on April 8 with special solar eclipse beers](https://www.space.com/total-solar-eclipse-april-8-breweries-beer-path-totality)
-- [Business planning startup Pigment raises $145M in rare French tech megaround](https://techcrunch.com/2024/04/04/business-planning-startup-pigment-raises-145-million-round-in-rare-french-tech-megaround/)
+- [SiMa.ai secures $70M funding to introduce a multimodal GenAI chip](https://techcrunch.com/2024/04/04/sima-ai-70m-funding-multimodal-genai-chip/)
+- [Decode GTM strategies with Index Ventures’ Paris Heymann at TC Early Stage 2024](https://techcrunch.com/2024/04/04/decode-gtm-strategies-with-index-ventures-paris-heymann-at-tc-early-stage-2024/)
+- [Western US residents report the most UFO sightings — what are they actually seeing?](https://www.space.com/ufo-sightings-western-united-states)
+- [India, grappling with election misinfo, weighs up labels and its own AI safety coalition](https://techcrunch.com/2024/04/04/india-ai-safety/)
+- [Big tech companies form new consortium to allay fears of AI job takeovers](https://techcrunch.com/2024/04/04/big-tech-companies-form-new-consortium-to-allay-fears-of-ai-job-takeovers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
