@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin will launch Ed Dwight, the 1st-ever Black astronaut candidate, to space on next New Shepard rocket flight](https://www.space.com/blue-origin-seventh-human-spaceflight-crew-announced)
+- [NASA will launch rockets into the total solar eclipse on April 8](https://www.space.com/nasa-sounding-rockets-april-8-solar-eclipse)
+- [Fintech funding slows to the lowest level since 2017](https://techcrunch.com/2024/04/04/fintech-funding-slows-to-the-lowest-level-since-2017/)
 - [Agility Robotics lays off some staff amid commercialization focus](https://techcrunch.com/2024/04/04/agility-robotics-lays-off-some-staff-amid-commercialization-focus/)
 - [I screwed up and missed the solar eclipse in 2017. I won&#39;t make that same mistake next week.](https://www.space.com/missed-2017-solar-eclipse-not-making-same-mistake-2024)
-- [Hoping to stall a ban, TikTok says it generated $14.7B for US small businesses last year](https://techcrunch.com/2024/04/04/hoping-to-stall-a-ban-tiktok-says-it-generated-14-7b-for-us-small-businesses-last-year/)
-- [TechCrunch Minute: How Anthropic found a trick to get AI to give you answers it’s not supposed to](https://techcrunch.com/2024/04/04/techcrunch-minute-how-anthropic-found-a-trick-to-get-ai-to-give-you-answers-its-not-supposed-to/)
-- [Colors will look different during the April 8 solar eclipse. Here&#39;s why](https://www.space.com/colors-will-look-different-during-april-8-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
