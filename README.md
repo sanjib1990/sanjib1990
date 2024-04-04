@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As deal rumors fly, Alphabet and HubSpot would be a strange pairing](https://techcrunch.com/2024/04/04/as-deal-rumors-fly-alphabet-and-hubspot-would-be-a-strange-pairing/)
 - [SpaceX moves Super Heavy booster to pad ahead of 4th Starship flight &lpar;photos&rpar;](https://www.space.com/spacex-moves-starship-super-heavy-pad-testing-fourth-flight-photos)
-- [Facebook’s Oculus acquisition turns 10](https://techcrunch.com/2024/04/04/facebooks-oculus-acquisition-turns-10/)
+- [Ten years later, Facebook’s Oculus acquisition hasn’t changed the world as expected](https://techcrunch.com/2024/04/04/facebooks-oculus-acquisition-turns-10/)
 - [Against games industry doldrums, Bitkraft Ventures raises $275M to back studios and platforms](https://techcrunch.com/2024/04/04/bitkraft-raises-275m-for-games-production/)
 - [Ford delays new EVs once more, showing why legacy automakers need to adopt a startup mentality](https://techcrunch.com/2024/04/04/ford-delays-new-evs-once-more-showing-why-legacy-automakers-need-to-adopt-a-startup-mentality/)
-- [Ambitious new dark matter-hunting experiment delivers 1st results](https://www.space.com/bread-experiment-first-results-dark-matter-search)
 <!-- BLOG-POST-LIST:END -->
 
 ---
