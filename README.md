@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is the total solar eclipse on April 8?](https://www.space.com/what-time-total-solar-eclipse-april-8)
 - [DataStax acquires the startup behind low-code AI builder Langflow](https://techcrunch.com/2024/04/04/datastax-acquires-logspace-the-startup-behind-the-langflow-low-code-tool-for-building-rag-based-chatbots/)
 - [Rooms, a 3D design app and ‘cozy game,’ gets a major update as users jump to 250K](https://techcrunch.com/2024/04/04/rooms-the-fun-3d-design-app-gets-a-major-update-as-users-jump-to-250k/)
 - [Jobs for the Future’s new $50M fund looks to invest in underrepresented founders](https://techcrunch.com/2024/04/04/jobs-for-the-futures-new-50m-fund-looks-to-invest-in-underrepresented-founders/)
 - [Retro, an actually good photo-sharing app for BFFs, launches collaborative journals](https://techcrunch.com/2024/04/04/retro-an-actually-good-photo-sharing-app-for-bffs-launches-collaborative-journals/)
-- [SiMa.ai secures $70M funding to introduce a multimodal GenAI chip](https://techcrunch.com/2024/04/04/sima-ai-70m-funding-multimodal-genai-chip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
