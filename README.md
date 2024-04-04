@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Robot delivery firm Kiwibot buys Taipei chipmaker, citing US/China tensions](https://techcrunch.com/2024/04/04/robot-delivery-firm-kiwi-buys-taipei-chipmaker-citing-us-china-tensions/)
-- [Women in AI: Emilia Gómez at the EU started her AI career with music](https://techcrunch.com/2024/04/04/women-in-ai-emilia-gomez-at-the-eu-started-her-ai-career-with-music/)
-- [The James Webb Space Telescope has solved a lot of puzzles, and created a few more](https://www.space.com/space-exploration/james-webb-space-telescope/the-james-webb-space-telescope-has-solved-a-lot-of-puzzles-and-created-a-few-more)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [What time is the total solar eclipse on April 8?](https://www.space.com/what-time-total-solar-eclipse-april-8)
+- [TechCrunch Minute: How Anthropic found a trick to get AI to give you answers it’s not supposed to](https://techcrunch.com/2024/04/04/techcrunch-minute-how-anthropic-found-a-trick-to-get-ai-to-give-you-answers-its-not-supposed-to/)
+- [Colors will look different during the April 8 solar eclipse. Here&#39;s why](https://www.space.com/colors-will-look-different-during-april-8-eclipse)
+- [&#39;Star Trek: Discovery&#39; season 5 episode 2 sows the seeds of seasonal plot threads &lpar;Under the Twin Moons recap&rpar;](https://www.space.com/star-trek-discovery-season-5-episode-2-recap)
+- [OpenAI expands its custom model training program](https://techcrunch.com/2024/04/04/openai-expands-its-custom-model-training-program/)
+- [&#39;Star Trek: Discovery&#39; opens its 5th and final season in unremarkable fashion &lpar;Red Directive recap&rpar;](https://www.space.com/star-trek-discovery-season-5-episode-1-recap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
