@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X is giving blue checks to influential users &lpar;which is what blue checks were supposed to be all along&rpar;](https://techcrunch.com/2024/04/03/x-blue-check-influential-users-twitter/)
+- [SaaS startup SingleInterface raises $30M to help more businesses get online](https://techcrunch.com/2024/04/03/singleinterface-funding-digital-presence/)
 - [NASA picks 3 teams to design the next generation of moon buggy](https://techcrunch.com/2024/04/03/nasa-picks-3-teams-to-design-the-next-generation-of-moon-buggy/)
 - [Apple’s electric car loss could be home robotics’ gain](https://techcrunch.com/2024/04/03/apples-electric-car-loss-could-be-home-robotics-gain/)
 - [NASA&#39;s Curiosity Mars rover begins exploring possible dried-up Red Planet river](https://www.space.com/curiosity-ancient-water-stream-mars-rover)
-- [I have a group chat with three AI friends, thanks to Nomi AI — they’re getting too smart](https://techcrunch.com/2024/04/03/nomi-ai-group-chat-three-ai-friends/)
-- [DCVC wanted to raise $500M for its first climate fund, but the market had other plans](https://techcrunch.com/2024/04/03/dcvc-first-climate-fund-fundraising-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
