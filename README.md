@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robot delivery firm Kiwibot buys Taipei chipmaker, citing US/China tensions](https://techcrunch.com/2024/04/04/robot-delivery-firm-kiwi-buys-taipei-chipmaker-citing-us-china-tensions/)
+- [Women in AI: Emilia Gómez at the EU started her AI career with music](https://techcrunch.com/2024/04/04/women-in-ai-emilia-gomez-at-the-eu-started-her-ai-career-with-music/)
+- [The James Webb Space Telescope has solved a lot of puzzles, and created a few more](https://www.space.com/space-exploration/james-webb-space-telescope/the-james-webb-space-telescope-has-solved-a-lot-of-puzzles-and-created-a-few-more)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 - [What time is the total solar eclipse on April 8?](https://www.space.com/what-time-total-solar-eclipse-april-8)
-- [DataStax acquires the startup behind low-code AI builder Langflow](https://techcrunch.com/2024/04/04/datastax-acquires-logspace-the-startup-behind-the-langflow-low-code-tool-for-building-rag-based-chatbots/)
-- [Rooms, a 3D design app and ‘cozy game,’ gets a major update as users jump to 250K](https://techcrunch.com/2024/04/04/rooms-the-fun-3d-design-app-gets-a-major-update-as-users-jump-to-250k/)
-- [Jobs for the Future’s new $50M fund looks to invest in underrepresented founders](https://techcrunch.com/2024/04/04/jobs-for-the-futures-new-50m-fund-looks-to-invest-in-underrepresented-founders/)
-- [Retro, an actually good photo-sharing app for BFFs, launches collaborative journals](https://techcrunch.com/2024/04/04/retro-an-actually-good-photo-sharing-app-for-bffs-launches-collaborative-journals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
