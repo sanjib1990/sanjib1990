@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI Mini 4 Pro review](https://www.space.com/dji-mini-4-pro-review)
+- [These breweries will toast to the sun on April 8 with special solar eclipse beers](https://www.space.com/total-solar-eclipse-april-8-breweries-beer-path-totality)
+- [Business planning startup Pigment raises $145M in rare French tech megaround](https://techcrunch.com/2024/04/04/business-planning-startup-pigment-raises-145-million-round-in-rare-french-tech-megaround/)
 - [Aerospike raises $100M for its real-time database platform to capitalize on the AI boom](https://techcrunch.com/2024/04/04/aerospike-raises-100m-for-its-real-time-database-platform-to-capitalize-on-the-ai-boom/)
 - [Sachin Bansal’s fintech Navi seeks $2B valuation in its first major external fundraise](https://techcrunch.com/2024/04/03/sachin-bansal-fintech-navi-seeks-2b-valuation-in-its-first-major-external-fundraise/)
-- [X rolls out support for posting Community Notes in India ahead of elections](https://techcrunch.com/2024/04/03/x-rolls-out-support-for-posting-community-notes-in-india-ahead-of-elections/)
-- [X is giving blue checks to influential users &lpar;which is what blue checks were supposed to be all along&rpar;](https://techcrunch.com/2024/04/03/x-blue-check-influential-users-twitter/)
-- [SaaS startup SingleInterface raises $30M to help more businesses get online](https://techcrunch.com/2024/04/03/singleinterface-funding-digital-presence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
