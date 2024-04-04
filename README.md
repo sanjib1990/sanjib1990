@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agility Robotics lays off some staff amid commercialization focus](https://techcrunch.com/2024/04/04/agility-robotics-lays-off-some-staff-amid-commercialization-focus/)
+- [I screwed up and missed the solar eclipse in 2017. I won&#39;t make that same mistake next week.](https://www.space.com/missed-2017-solar-eclipse-not-making-same-mistake-2024)
+- [Hoping to stall a ban, TikTok says it generated $14.7B for US small businesses last year](https://techcrunch.com/2024/04/04/hoping-to-stall-a-ban-tiktok-says-it-generated-14-7b-for-us-small-businesses-last-year/)
 - [TechCrunch Minute: How Anthropic found a trick to get AI to give you answers it’s not supposed to](https://techcrunch.com/2024/04/04/techcrunch-minute-how-anthropic-found-a-trick-to-get-ai-to-give-you-answers-its-not-supposed-to/)
 - [Colors will look different during the April 8 solar eclipse. Here&#39;s why](https://www.space.com/colors-will-look-different-during-april-8-eclipse)
-- [&#39;Star Trek: Discovery&#39; season 5 episode 2 sows the seeds of seasonal plot threads &lpar;Under the Twin Moons recap&rpar;](https://www.space.com/star-trek-discovery-season-5-episode-2-recap)
-- [OpenAI expands its custom model training program](https://techcrunch.com/2024/04/04/openai-expands-its-custom-model-training-program/)
-- [&#39;Star Trek: Discovery&#39; opens its 5th and final season in unremarkable fashion &lpar;Red Directive recap&rpar;](https://www.space.com/star-trek-discovery-season-5-episode-1-recap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
