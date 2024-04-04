@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford delays new EVs once more, showing why legacy automakers need to adopt a startup mentality](https://techcrunch.com/2024/04/04/ford-delays-new-evs-once-more-showing-why-legacy-automakers-need-to-adopt-a-startup-mentality/)
 - [Ambitious new dark matter-hunting experiment delivers 1st results](https://www.space.com/bread-experiment-first-results-dark-matter-search)
 - [YC’s latest Demo Day shows fascinating wagers on healthcare, chip design, AI and more](https://techcrunch.com/2024/04/04/ycs-latest-demo-day-shows-fascinating-wagers-on-healthcare-chip-design-ai-and-more/)
 - [Largest 3D map of our universe could hint that dark energy evolves with time](https://www.space.com/desi-3d-map-universe-dark-energy-evolution)
 - [Meet the startup pitch finalists at TC Early Stage 2024: ChargeBay, GovGPT, Ti¢ker](https://techcrunch.com/2024/04/04/meet-the-startup-pitch-finalists-at-tc-early-stage-2024-chargebay-govgpt-ti%c2%a2ker/)
-- [China putting finishing touches on seaside spaceport for commercial launches &lpar;video&rpar;](https://www.space.com/china-finishing-commercial-spaceport-hainan-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
