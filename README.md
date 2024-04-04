@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DataStax acquires the startup behind low-code AI builder Langflow](https://techcrunch.com/2024/04/04/datastax-acquires-logspace-the-startup-behind-the-langflow-low-code-tool-for-building-rag-based-chatbots/)
+- [Rooms, a 3D design app and ‘cozy game,’ gets a major update as users jump to 250K](https://techcrunch.com/2024/04/04/rooms-the-fun-3d-design-app-gets-a-major-update-as-users-jump-to-250k/)
+- [Jobs for the Future’s new $50M fund looks to invest in underrepresented founders](https://techcrunch.com/2024/04/04/jobs-for-the-futures-new-50m-fund-looks-to-invest-in-underrepresented-founders/)
+- [Retro, an actually good photo-sharing app for BFFs, launches collaborative journals](https://techcrunch.com/2024/04/04/retro-an-actually-good-photo-sharing-app-for-bffs-launches-collaborative-journals/)
 - [SiMa.ai secures $70M funding to introduce a multimodal GenAI chip](https://techcrunch.com/2024/04/04/sima-ai-70m-funding-multimodal-genai-chip/)
-- [Decode GTM strategies with Index Ventures’ Paris Heymann at TC Early Stage 2024](https://techcrunch.com/2024/04/04/decode-gtm-strategies-with-index-ventures-paris-heymann-at-tc-early-stage-2024/)
-- [Western US residents report the most UFO sightings — what are they actually seeing?](https://www.space.com/ufo-sightings-western-united-states)
-- [India, grappling with election misinfo, weighs up labels and its own AI safety coalition](https://techcrunch.com/2024/04/04/india-ai-safety/)
-- [Big tech companies form new consortium to allay fears of AI job takeovers](https://techcrunch.com/2024/04/04/big-tech-companies-form-new-consortium-to-allay-fears-of-ai-job-takeovers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
