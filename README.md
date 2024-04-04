@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX moves Super Heavy booster to pad ahead of 4th Starship flight &lpar;photos&rpar;](https://www.space.com/spacex-moves-starship-super-heavy-pad-testing-fourth-flight-photos)
+- [Facebook’s Oculus acquisition turns 10](https://techcrunch.com/2024/04/04/facebooks-oculus-acquisition-turns-10/)
+- [Against games industry doldrums, Bitkraft Ventures raises $275M to back studios and platforms](https://techcrunch.com/2024/04/04/bitkraft-raises-275m-for-games-production/)
 - [Ford delays new EVs once more, showing why legacy automakers need to adopt a startup mentality](https://techcrunch.com/2024/04/04/ford-delays-new-evs-once-more-showing-why-legacy-automakers-need-to-adopt-a-startup-mentality/)
 - [Ambitious new dark matter-hunting experiment delivers 1st results](https://www.space.com/bread-experiment-first-results-dark-matter-search)
-- [YC’s latest Demo Day shows fascinating wagers on healthcare, chip design, AI and more](https://techcrunch.com/2024/04/04/ycs-latest-demo-day-shows-fascinating-wagers-on-healthcare-chip-design-ai-and-more/)
-- [Largest 3D map of our universe could hint that dark energy evolves with time](https://www.space.com/desi-3d-map-universe-dark-energy-evolution)
-- [Meet the startup pitch finalists at TC Early Stage 2024: ChargeBay, GovGPT, Ti¢ker](https://techcrunch.com/2024/04/04/meet-the-startup-pitch-finalists-at-tc-early-stage-2024-chargebay-govgpt-ti%c2%a2ker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
