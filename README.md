@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin will launch Ed Dwight, the 1st-ever Black astronaut candidate, to space on next New Shepard rocket flight](https://www.space.com/blue-origin-seventh-human-spaceflight-crew-announced)
-- [NASA will launch rockets into the total solar eclipse on April 8](https://www.space.com/nasa-sounding-rockets-april-8-solar-eclipse)
-- [Fintech funding slows to the lowest level since 2017](https://techcrunch.com/2024/04/04/fintech-funding-slows-to-the-lowest-level-since-2017/)
-- [Agility Robotics lays off some staff amid commercialization focus](https://techcrunch.com/2024/04/04/agility-robotics-lays-off-some-staff-amid-commercialization-focus/)
-- [I screwed up and missed the solar eclipse in 2017. I won&#39;t make that same mistake next week.](https://www.space.com/missed-2017-solar-eclipse-not-making-same-mistake-2024)
+- [Meet the startup pitch finalists at TC Early Stage 2024: ChargeBay, GovGPT, Ti¢ker](https://techcrunch.com/2024/04/04/meet-the-startup-pitch-finalists-at-tc-early-stage-2024-chargebay-govgpt-ti%c2%a2ker/)
+- [China putting finishing touches on seaside spaceport for commercial launches &lpar;video&rpar;](https://www.space.com/china-finishing-commercial-spaceport-hainan-video)
+- [X warns that you might lose followers as it does another bot sweep](https://techcrunch.com/2024/04/04/x-formerly-twitter-warns-you-might-lose-followers-as-it-does-another-bot-sweep/)
+- [OpenStack improves support for AI workloads](https://techcrunch.com/2024/04/04/openstack-improves-support-for-ai-workloads/)
+- [Net neutrality won’t survive a Trump presidency](https://techcrunch.com/2024/04/04/net-neutrality-wont-survive-a-trump-presidency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
