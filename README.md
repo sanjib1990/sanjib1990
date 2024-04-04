@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sachin Bansal’s fintech Navi seeks $2B valuation in its first major external fundraise](https://techcrunch.com/2024/04/03/sachin-bansal-fintech-navi-seeks-2b-valuation-in-its-first-major-external-fundraise/)
 - [X rolls out support for posting Community Notes in India ahead of elections](https://techcrunch.com/2024/04/03/x-rolls-out-support-for-posting-community-notes-in-india-ahead-of-elections/)
 - [X is giving blue checks to influential users &lpar;which is what blue checks were supposed to be all along&rpar;](https://techcrunch.com/2024/04/03/x-blue-check-influential-users-twitter/)
 - [SaaS startup SingleInterface raises $30M to help more businesses get online](https://techcrunch.com/2024/04/03/singleinterface-funding-digital-presence/)
 - [NASA picks 3 teams to design the next generation of moon buggy](https://techcrunch.com/2024/04/03/nasa-picks-3-teams-to-design-the-next-generation-of-moon-buggy/)
-- [Apple’s electric car loss could be home robotics’ gain](https://techcrunch.com/2024/04/03/apples-electric-car-loss-could-be-home-robotics-gain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
