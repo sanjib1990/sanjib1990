@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sundar Pichai on the challenge of innovating in a huge company and what he’s excited about this year](https://techcrunch.com/2024/04/05/sundar-pichai-on-the-challenge-of-innovating-in-a-huge-company-and-what-hes-excited-about-this-year/)
-- [Meta’s new AI deepfake playbook: More labels, fewer takedowns](https://techcrunch.com/2024/04/05/meta-deepfake-labels/)
-- [Peer inside remnants of an 800-year-old supernova and see a &#39;zombie&#39; star](https://www.space.com/chandra-supernova-snr-1181)
-- [Spotify reuses its live audio tech through Listening Party feature](https://techcrunch.com/2024/04/05/spotify-reuses-its-live-audio-tech-through-listening-party-feature/)
-- [Tesla reportedly drops plan to build $25,000 EV](https://techcrunch.com/2024/04/05/tesla-abandons-low-cost-ev-robotaxi/)
+- [Startups Weekly: Let’s see what those Y Combinator kids have been up to this time](https://techcrunch.com/2024/04/05/startups-weekly-yc/)
+- [Discover future-ready strategies for staff and tech evolution with Sand Technologies](https://techcrunch.com/2024/04/05/techcrunch-early-stage-2024-future-ready-strategies-for-tech-and-staff-evolution/)
+- [This solar eclipse simulator on SkySafari will guide you through the eclipse on April 8](https://www.space.com/skysafari-solar-eclipse-simulator-april-8)
+- [Amazon quietly launches Bazaar to sell fast-fashion and lifestyle products in India](https://techcrunch.com/2024/04/05/amazon-bazaar-india-low-cost-fashion-and-lifestyle-store/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
