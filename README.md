@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US and EU commit to links aimed at boosting AI safety and risk research](https://techcrunch.com/2024/04/05/eu-us-ttc-joint-statement-ai/)
+- [Top 5 items I recommend to safely observe the sun: Get total solar eclipse ready](https://www.space.com/top-5-items-i-recmomend-to-savely-observe-the-sun)
 - [How the supersonic Concorde jet broke the record for the longest total solar eclipse in history](https://www.space.com/how-concorde-broke-record-for-longest-total-solar-eclipse-in-history)
 - [SpaceX launching 23 Starlink satellites from Florida this morning](https://www.space.com/spacex-starlink-launch-group-6-47)
 - [Cannibal stars at the heart of the Milky Way stay young in a gruesome way](https://www.space.com/cannibal-star-youthful-appearance-zombie)
-- [As deal rumors fly, Alphabet and HubSpot would be a strange pairing](https://techcrunch.com/2024/04/04/as-deal-rumors-fly-alphabet-and-hubspot-would-be-a-strange-pairing/)
-- [SpaceX moves Super Heavy booster to pad ahead of 4th Starship flight &lpar;photos&rpar;](https://www.space.com/spacex-moves-starship-super-heavy-pad-testing-fourth-flight-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
