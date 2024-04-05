@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cross-border fintech stands out in Y Combinator’s Winter 2024 cohort](https://techcrunch.com/2024/04/05/cross-border-fintech-y-combinator-demo-day/)
+- [In space and on Earth, where astronauts will view the April 8 solar eclipse](https://www.space.com/total-solar-eclipse-astronauts-space-station-events)
+- [Belgian computer vision startup Robovision eyes U.S. expansion to address labor shortages](https://techcrunch.com/2024/04/05/robovision-computer-vision-belgium/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Meet the powerhouse pitch judges at TechCrunch Early Stage 2024](https://techcrunch.com/2024/04/05/meet-the-powerhouse-pitch-judges-at-techcrunch-early-stage-2024/)
-- [Last-minute solar eclipse glasses deals: Save up to 50%](https://www.space.com/solar-eclipse-glasses-deals-last-chance-april-2024)
-- [US and EU commit to links aimed at boosting AI safety and risk research](https://techcrunch.com/2024/04/05/eu-us-ttc-joint-statement-ai/)
-- [Top 5 items I recommend to safely observe the sun: Get total solar eclipse ready](https://www.space.com/top-5-items-i-recmomend-to-savely-observe-the-sun)
-- [How the supersonic Concorde jet broke the record for the longest total solar eclipse in history](https://www.space.com/how-concorde-broke-record-for-longest-total-solar-eclipse-in-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
