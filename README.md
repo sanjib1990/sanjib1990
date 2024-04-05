@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sundar Pichai on the challenge of innovating in a huge company and what he’s excited about this year](https://techcrunch.com/2024/04/05/sundar-pichai-on-the-challenge-of-innovating-in-a-huge-company-and-what-hes-excited-about-this-year/)
+- [Meta’s new AI deepfake playbook: More labels, fewer takedowns](https://techcrunch.com/2024/04/05/meta-deepfake-labels/)
 - [Peer inside remnants of an 800-year-old supernova and see a &#39;zombie&#39; star](https://www.space.com/chandra-supernova-snr-1181)
 - [Spotify reuses its live audio tech through Listening Party feature](https://techcrunch.com/2024/04/05/spotify-reuses-its-live-audio-tech-through-listening-party-feature/)
 - [Tesla reportedly drops plan to build $25,000 EV](https://techcrunch.com/2024/04/05/tesla-abandons-low-cost-ev-robotaxi/)
-- [Pitch Deck Teardown: Queerie’s $300K pre-seed deck](https://techcrunch.com/2024/04/05/sample-pre-seed-pitch-deck-queerie/)
-- [Watch live as 3 spaceflyers, including 1st female Belarusian in space, depart the ISS tonight](https://www.space.com/iss-soyuz-ms-24-spacecraft-undocking-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
