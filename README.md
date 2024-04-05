@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dying SpaceX rocket creates eerie &#39;dashed&#39; line in new photos. What&#39;s going on?](https://www.space.com/spacex-rocket-creates-dashed-line-new-photos)
+- [Apple lays off over 600 employees in California after abandoning electric car project](https://techcrunch.com/2024/04/05/apple-lays-off-over-600-employees-in-california-after-abandoning-electric-car-plans/)
+- [Tesla slashes Model Y inventory prices by as much as $7,000](https://techcrunch.com/2024/04/05/tesla-slashes-model-y-inventory-prices-cut/)
 - [From YC to IPO: Winter 2024 Demo Day, Rubrik and Ibotta](https://techcrunch.com/2024/04/05/from-yc-to-ipo-winter-2024-demo-day-rubrik-and-ibotta/)
 - [Varda Space’s orbital drug factory success fuels $90M in new funding](https://techcrunch.com/2024/04/05/varda-space-closes-90m-to-scale-on-orbit-pharma-manufacturing/)
-- [Like the 90s, binary stars are back in style](https://www.space.com/binary-star-resurgence-gaia-space-telescope)
-- [Rubrik’s IPO filing reveals an AI governance committee. Get used to it.](https://techcrunch.com/2024/04/05/rubrik-ai-governance-committee/)
-- [Why NASA jets will chase the April 8 total solar eclipse &lpar;video&rpar;](https://www.space.com/nasa-jets-study-sun-solar-eclipse-april-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
