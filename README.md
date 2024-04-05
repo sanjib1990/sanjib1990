@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-border fintech stands out in Y Combinator’s Winter 2024 cohort](https://techcrunch.com/2024/04/05/cross-border-fintech-y-combinator-demo-day/)
-- [In space and on Earth, where astronauts will view the April 8 solar eclipse](https://www.space.com/total-solar-eclipse-astronauts-space-station-events)
-- [Belgian computer vision startup Robovision eyes U.S. expansion to address labor shortages](https://techcrunch.com/2024/04/05/robovision-computer-vision-belgium/)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Meet the powerhouse pitch judges at TechCrunch Early Stage 2024](https://techcrunch.com/2024/04/05/meet-the-powerhouse-pitch-judges-at-techcrunch-early-stage-2024/)
+- [From YC to IPO: Winter 2024 Demo Day, Rubrik and Ibotta](https://techcrunch.com/2024/04/05/from-yc-to-ipo-winter-2024-demo-day-rubrik-and-ibotta/)
+- [Varda Space’s orbital drug factory success fuels $90M in new funding](https://techcrunch.com/2024/04/05/varda-space-closes-90m-to-scale-on-orbit-pharma-manufacturing/)
+- [Like the 90s, binary stars are back in style](https://www.space.com/binary-star-resurgence-gaia-space-telescope)
+- [Rubrik’s IPO filing reveals an AI governance committee. Get used to it.](https://techcrunch.com/2024/04/05/rubrik-ai-governance-committee/)
+- [Why NASA jets will chase the April 8 total solar eclipse &lpar;video&rpar;](https://www.space.com/nasa-jets-study-sun-solar-eclipse-april-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
