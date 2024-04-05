@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dying SpaceX rocket creates eerie &#39;dashed&#39; line in new photos. What&#39;s going on?](https://www.space.com/spacex-rocket-creates-dashed-line-new-photos)
-- [Apple lays off over 600 employees in California after abandoning electric car project](https://techcrunch.com/2024/04/05/apple-lays-off-over-600-employees-in-california-after-abandoning-electric-car-plans/)
-- [Tesla slashes Model Y inventory prices by as much as $7,000](https://techcrunch.com/2024/04/05/tesla-slashes-model-y-inventory-prices-cut/)
-- [From YC to IPO: Winter 2024 Demo Day, Rubrik and Ibotta](https://techcrunch.com/2024/04/05/from-yc-to-ipo-winter-2024-demo-day-rubrik-and-ibotta/)
-- [Varda Space’s orbital drug factory success fuels $90M in new funding](https://techcrunch.com/2024/04/05/varda-space-closes-90m-to-scale-on-orbit-pharma-manufacturing/)
+- [Pitch Deck Teardown: Queerie’s $300K pre-seed deck](https://techcrunch.com/2024/04/05/sample-pre-seed-pitch-deck-queerie/)
+- [Watch live as 3 spaceflyers, including 1st female Belarusian in space, depart the ISS tonight](https://www.space.com/iss-soyuz-ms-24-spacecraft-undocking-webcast)
+- [TechCrunch Minute: YC’s Demo Day highlights our AI startup bubble](https://techcrunch.com/2024/04/05/techcrunch-minute-ycs-demo-day-highlights-our-ai-startup-bubble/)
+- [Disrupt 2024 Call For Speaker Closes In 3 Weeks](https://techcrunch.com/2024/04/05/disrupt-2024-call-for-speaker-closes-in-3-weeks/)
+- [Is it just me, or was that an earthquake?](https://techcrunch.com/2024/04/05/was-that-an-earthquake-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
