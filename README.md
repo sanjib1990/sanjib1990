@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Southern Illinois will get its 2nd solar eclipse in a decade this year](https://www.space.com/illinois-rare-double-eclipse-path-of-totality)
+- [New U.S. ‘green bank’ aims to steer over $160B in capital into climate tech](https://techcrunch.com/2024/04/05/us-greenhouse-gas-reduction-fund/)
 - [This hellish exoplanet&#39;s skies rain iron and create a rainbow-like effect](https://www.space.com/hellish-exoplanet-rainbow-glory-effect-cheops)
 - [Threads missed its earthquake moment as the term didn’t trend until the afternoon](https://techcrunch.com/2024/04/05/threads-missed-its-earthquake-moment-as-the-term-didnt-trend-until-the-afternoon/)
 - [Startups Weekly: Let’s see what those Y Combinator kids have been up to this time](https://techcrunch.com/2024/04/05/startups-weekly-yc/)
-- [Discover future-ready strategies for staff and tech evolution with Sand Technologies](https://techcrunch.com/2024/04/05/techcrunch-early-stage-2024-future-ready-strategies-for-tech-and-staff-evolution/)
-- [This solar eclipse simulator on SkySafari will guide you through the eclipse on April 8](https://www.space.com/skysafari-solar-eclipse-simulator-april-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
