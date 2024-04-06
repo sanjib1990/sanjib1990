@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The April 8 solar eclipse will bring weird sights, sounds and feelings](https://www.space.com/solar-eclipse-april-2024-strange-phenomena)
 - [Holy Stone HS360S drone review](https://www.space.com/holy-stone-hs360s-drone-review)
 - [Soyuz capsule with crew of 3, including 1st female astronaut from Belarus, lands safely to end ISS mission](https://www.space.com/soyuz-ms-24-iss-landing-kazakhstan)
 - [Apple changes App Store rules to allow retro game emulators globally](https://techcrunch.com/2024/04/05/apple-changes-app-store-rules-to-allow-retro-game-emulators-globally/)
 - [X makes Grok chatbot available to premium subscribers](https://techcrunch.com/2024/04/05/x-makes-grok-chatbot-available-to-premium-subscribers/)
-- [IVP’s Eric Liaw talks Klarna controversy, sticky successions, and why the great valuation reset doesn’t really matter](https://techcrunch.com/2024/04/05/ivps-eric-liaw-on-the-firms-giant-new-fund-that-klarna-kerfuffle-and-why-looks-can-be-deceiving-when-it-comes-to-firm-succession/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
