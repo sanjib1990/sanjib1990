@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X makes Grok chatbot available to premium subscribers](https://techcrunch.com/2024/04/05/x-makes-grok-chatbot-available-to-premium-subscribers/)
 - [IVP’s Eric Liaw talks Klarna controversy, sticky successions, and why the great valuation reset doesn’t really matter](https://techcrunch.com/2024/04/05/ivps-eric-liaw-on-the-firms-giant-new-fund-that-klarna-kerfuffle-and-why-looks-can-be-deceiving-when-it-comes-to-firm-succession/)
 - [Snapchat turns off controversial ‘Solar System’ feature by default after bad press](https://techcrunch.com/2024/04/05/snapchat-turns-off-controversial-solar-system-feature-by-default-after-bad-press/)
 - [Elon Musk says he’ll unveil a Tesla robotaxi on August 8](https://techcrunch.com/2024/04/05/elon-musk-says-hell-unveil-a-tesla-robotaxi-on-august-8/)
 - [Southern Illinois will get its 2nd solar eclipse in a decade this year](https://www.space.com/illinois-rare-double-eclipse-path-of-totality)
-- [New U.S. ‘green bank’ aims to steer over $160B in capital into climate tech](https://techcrunch.com/2024/04/05/us-greenhouse-gas-reduction-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
