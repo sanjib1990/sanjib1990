@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fires up huge Super Heavy booster ahead of 4th Starship test flight &lpar;photos, video&rpar;](https://www.space.com/spacex-super-heavy-static-fire-starship-fourth-test-flight)
+- [I&#39;m headed to Indiana to prove myself wrong about solar eclipses on April 8](https://www.space.com/total-solar-eclipse-april-8-indiana-path-totality)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [The April 8 solar eclipse will bring weird sights, sounds and feelings](https://www.space.com/solar-eclipse-april-2024-strange-phenomena)
 - [Holy Stone HS360S drone review](https://www.space.com/holy-stone-hs360s-drone-review)
-- [Soyuz capsule with crew of 3, including 1st female astronaut from Belarus, lands safely to end ISS mission](https://www.space.com/soyuz-ms-24-iss-landing-kazakhstan)
-- [Apple changes App Store rules to allow retro game emulators globally](https://techcrunch.com/2024/04/05/apple-changes-app-store-rules-to-allow-retro-game-emulators-globally/)
-- [X makes Grok chatbot available to premium subscribers](https://techcrunch.com/2024/04/05/x-makes-grok-chatbot-available-to-premium-subscribers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
