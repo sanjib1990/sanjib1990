@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IVP’s Eric Liaw on the firm’s giant new fund, that Klarna kerfuffle, and why looks can be deceiving when it comes to firm succession](https://techcrunch.com/2024/04/05/ivps-eric-liaw-on-the-firms-giant-new-fund-that-klarna-kerfuffle-and-why-looks-can-be-deceiving-when-it-comes-to-firm-succession/)
+- [IVP’s Eric Liaw talks Klarna controversy, sticky successions, and why the great valuation reset doesn’t really matter](https://techcrunch.com/2024/04/05/ivps-eric-liaw-on-the-firms-giant-new-fund-that-klarna-kerfuffle-and-why-looks-can-be-deceiving-when-it-comes-to-firm-succession/)
 - [Snapchat turns off controversial ‘Solar System’ feature by default after bad press](https://techcrunch.com/2024/04/05/snapchat-turns-off-controversial-solar-system-feature-by-default-after-bad-press/)
 - [Elon Musk says he’ll unveil a Tesla robotaxi on August 8](https://techcrunch.com/2024/04/05/elon-musk-says-hell-unveil-a-tesla-robotaxi-on-august-8/)
 - [Southern Illinois will get its 2nd solar eclipse in a decade this year](https://www.space.com/illinois-rare-double-eclipse-path-of-totality)
