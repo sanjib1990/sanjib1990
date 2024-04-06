@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canoo reveals it paid for CEO’s jet, AT&amp;T leaks records and X announces NSFW plans](https://techcrunch.com/2024/04/06/canoo-reveals-it-paid-for-ceos-jet-att-leaks-records-and-x-announces-nsfw-plans/)
 - [When it comes to building startups in Boston, success begets success](https://techcrunch.com/2024/04/06/when-it-comes-to-building-startups-in-boston-success-begets-success/)
 - [Deal Dive: EarliTec Diagnostics raises $21.5M to help diagnose autism earlier](https://techcrunch.com/2024/04/06/deal-dive-earlitec-diagnostics-raises-21-5m-to-help-diagnose-autism-earlier/)
 - [Price of zero-day exploits rises as companies harden products against hackers](https://techcrunch.com/2024/04/06/price-of-zero-day-exploits-rises-as-companies-harden-products-against-hackers/)
 - [I&#39;m driving 6 hours through New York&#39;s Adirondacks to see the 2024 total solar eclipse from Potsdam. Here&#39;s why.](https://www.space.com/2024-total-solar-eclipse-suny-potsdam-new-york-family-trip)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
