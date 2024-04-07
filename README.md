@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Mobility: Apple layoffs, an EV price reckoning and another Tesla robotaxi promise](https://techcrunch.com/2024/04/07/techcrunch-mobility-an-ev-price-reckoning-av-startup-ghost-autonomy-ghosts-and/)
 - [Magnets are switching up the keyboard game](https://techcrunch.com/2024/04/07/magnets-are-switching-up-the-keyboard-game/)
 - [Working from home isn’t going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
 - [Coding the cosmos:  Building an app for the total solar eclipse 2024 &lpar;op-ed&rpar;](https://www.space.com/solar-eclipse-2024-skysafari-app-op-ed)
 - [SpaceX launching 11-satellite Bandwagon rideshare mission tonight &lpar;April 7&rpar;](https://www.space.com/spacex-bandwagon-1-rideshare-mission-launch)
-- [My dogs and I watched the 2017 total solar eclipse, but we won&#39;t travel for this one](https://www.space.com/2017-total-solar-eclipse-dogs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
