@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [White House directs NASA to create a new time zone for the moon](https://www.space.com/white-house-nasa-time-zone-moon)
 - [&#39;Beacon 23&#39; series returns to MGM+ on April 7 with glowing blue rocks and alien artifacts](https://www.space.com/beacon-23-season-2-launches-april-7-mgm-plus-amazon-prime)
 - [Which places on Earth witness the most solar eclipses?](https://www.space.com/which-places-earth-see-most-solar-eclipses)
 - [The 5 stages of the 2024 total solar eclipse explained for April 8](https://www.space.com/stages-of-total-solar-eclipse-2024-explained)
 - [Mahbod Moghadam, who rose to fame as the co-founder of Genius, has died](https://techcrunch.com/2024/04/06/mahbod-moghadam-who-rose-to-fame-as-the-cofounder-of-genius-has-died/)
-- [Canoo reveals it paid for CEO’s jet, AT&amp;T leaks records and X announces NSFW plans](https://techcrunch.com/2024/04/06/canoo-reveals-it-paid-for-ceos-jet-att-leaks-records-and-x-announces-nsfw-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
