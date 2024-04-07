@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 5 stages of the 2024 total solar eclipse explained for April 8](https://www.space.com/stages-of-total-solar-eclipse-2024-explained)
 - [Mahbod Moghadam, who rose to fame as the co-founder of Genius, has died](https://techcrunch.com/2024/04/06/mahbod-moghadam-who-rose-to-fame-as-the-cofounder-of-genius-has-died/)
 - [Canoo reveals it paid for CEO’s jet, AT&amp;T leaks records and X announces NSFW plans](https://techcrunch.com/2024/04/06/canoo-reveals-it-paid-for-ceos-jet-att-leaks-records-and-x-announces-nsfw-plans/)
 - [When it comes to building startups in Boston, success begets success](https://techcrunch.com/2024/04/06/when-it-comes-to-building-startups-in-boston-success-begets-success/)
 - [Deal Dive: EarliTec Diagnostics raises $21.5M to help diagnose autism earlier](https://techcrunch.com/2024/04/06/deal-dive-earlitec-diagnostics-raises-21-5m-to-help-diagnose-autism-earlier/)
-- [Price of zero-day exploits rises as companies harden products against hackers](https://techcrunch.com/2024/04/06/price-of-zero-day-exploits-rises-as-companies-harden-products-against-hackers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
