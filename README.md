@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [White House directs NASA to create a new time zone for the moon](https://www.space.com/white-house-nasa-time-zone-moon)
-- [&#39;Beacon 23&#39; series returns to MGM+ on April 7 with glowing blue rocks and alien artifacts](https://www.space.com/beacon-23-season-2-launches-april-7-mgm-plus-amazon-prime)
-- [Which places on Earth witness the most solar eclipses?](https://www.space.com/which-places-earth-see-most-solar-eclipses)
-- [The 5 stages of the 2024 total solar eclipse explained for April 8](https://www.space.com/stages-of-total-solar-eclipse-2024-explained)
-- [Mahbod Moghadam, who rose to fame as the co-founder of Genius, has died](https://techcrunch.com/2024/04/06/mahbod-moghadam-who-rose-to-fame-as-the-cofounder-of-genius-has-died/)
+- [Working from home isn’t going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
+- [Coding the cosmos:  Building an app for the total solar eclipse 2024 &lpar;op-ed&rpar;](https://www.space.com/solar-eclipse-2024-skysafari-app-op-ed)
+- [My dogs and I watched the 2017 total solar eclipse, but we won&#39;t travel for this one](https://www.space.com/2017-total-solar-eclipse-dogs)
+- [SpaceX launching 11-satellite Bandwagon rideshare mission tonight &lpar;April 7&rpar;](https://www.space.com/spacex-bandwagon-1-rideshare-mission-launch)
+- [Fintech representation in YC’s Demo Days is definitely shrinking](https://techcrunch.com/2024/04/07/fintech-representation-in-y-combinators-demo-days-is-definitely-shrinking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
