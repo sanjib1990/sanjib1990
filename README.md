@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avendus, top India venture advisor, seeks $300 million for new PE fund](https://techcrunch.com/2024/04/08/avendus-top-india-venture-advisor-seeks-300-million-for-new-pe-fund/)
 - [The total solar eclipse 2024 is happening today! Here&#39;s what you need to know](https://www.space.com/total-solar-eclipse-2024-occurs-today)
 - [Spotify launches personalized AI playlists that you can build using prompts](https://techcrunch.com/2024/04/07/spotify-launches-personalized-ai-playlists-you-can-build-using-prompts/)
 - [Maya nobility performed bloodletting sacrifices to strengthen a &#39;dying&#39; sun god during solar eclipses](https://www.space.com/maya-nobility-bloodletting-sacrifices-during-solar-eclipse)
 - [TechCrunch Mobility: Apple layoffs, an EV price reckoning and another Tesla robotaxi promise](https://techcrunch.com/2024/04/07/techcrunch-mobility-an-ev-price-reckoning-av-startup-ghost-autonomy-ghosts-and/)
-- [Magnets are switching up the keyboard game](https://techcrunch.com/2024/04/07/magnets-are-switching-up-the-keyboard-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
