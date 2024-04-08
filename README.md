@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s X competitor Threads invites developers to sign up for API access, publishes docs](https://techcrunch.com/2024/04/08/metas-x-competitor-threads-invites-developers-to-sign-up-for-api-access-publishes-docs/)
+- [Targus says cyberattack causing operational outage](https://techcrunch.com/2024/04/08/targus-says-cyberattack-causing-operational-outage/)
+- [TechCrunch Space: Happy eclipse day!](https://techcrunch.com/2024/04/08/techcrunch-space-happy-eclipse-day/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [TikTok’s Instagram competitor likely to be named TikTok Notes](https://techcrunch.com/2024/04/08/tiktoks-instagram-competitor-likely-to-be-named-tiktok-notes/)
-- [Total solar eclipse 2024 has begun and here are the first views!](https://www.space.com/total-solar-eclipse-2024-has-begun)
-- [Now at the top of the App Store, The Eclipse App is a great companion for Monday’s solar eclipse](https://techcrunch.com/2024/04/08/now-at-the-top-of-the-app-store-the-eclipse-app-is-a-great-companion-for-mondays-solar-eclipse/)
+- [Total solar eclipse 2024 thrills millions across North America &lpar;video, photos&rpar;](https://www.space.com/total-solar-eclipse-2024-thrills-millions-across-north-america)
+- [Meta’s X competitor Threads invites developers to sign up for API access, publishes docs](https://techcrunch.com/2024/04/08/metas-x-competitor-threads-invites-developers-to-sign-up-for-api-access-publishes-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
