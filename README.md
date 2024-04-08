@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US to award TSMC $6.6B in grants, $5B in loans to step up chip manufacturing in Arizona](https://techcrunch.com/2024/04/08/us-to-award-tsmc-6-6b-in-grants-5b-in-loans-to-step-up-chip-manufacturing-in-arizona/)
+- [Vista Equity Partners to take revenue optimization platform Model N private in $1.25B deal](https://techcrunch.com/2024/04/08/vista-equity-partners-to-take-revenue-optimization-platform-model-n-private-in-1-25b-deal/)
+- [Uber Eats launches a TikTok-like video feed to boost discovery](https://techcrunch.com/2024/04/08/uber-eats-launches-tiktok-like-video-feed/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Chasing the 2024 solar eclipse means dorm life for some New York spectators &lpar;including me&rpar;](https://www.space.com/solar-eclipse-2024-dorm-life-suny-potsdam-new-york)
-- [Microsoft AI gets a new London hub fronted by former Inflection and Deepmind scientist Jordan Hoffmann](https://techcrunch.com/2024/04/08/microsoft-ai-gets-a-new-london-hub-headed-up-by-former-inflection-and-deepmind-scientist-jordan-hoffmann/)
-- [Paddy Cosgrave returns as Web Summit CEO after resigning over Israel/Gaza controversy](https://techcrunch.com/2024/04/08/paddy-cosgrave-returns-as-web-summit-ceo-after-resigning-over-israel-gaza-controversy/)
-- [Avendus, top India venture advisor, seeks $300 million for new PE fund](https://techcrunch.com/2024/04/08/avendus-top-india-venture-advisor-seeks-300-million-for-new-pe-fund/)
+- [In Indiana, the best spot to see the 2024 solar eclipse is wherever you are](https://www.space.com/2024-solar-eclipse-vantage-point-indiana)
 <!-- BLOG-POST-LIST:END -->
 
 ---
