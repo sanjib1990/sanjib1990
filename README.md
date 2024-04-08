@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Total solar eclipse 2024: pictures from around the web](https://www.space.com/total-solar-eclipse-2024-photos-from-the-web)
+- [Now at the top of the App Store, The Eclipse App is a great companion for Monday’s solar eclipse](https://techcrunch.com/2024/04/08/now-at-the-top-of-the-app-store-the-eclipse-app-is-a-great-companion-for-mondays-solar-eclipse/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [China tensions underline US investment in TSMC](https://techcrunch.com/2024/04/08/china-tensions-underline-us-investment-in-tsmc/)
+- [Total solar eclipse 2024: pictures from around the web](https://www.space.com/total-solar-eclipse-2024-photos-from-the-web)
 - [Neurotech startup Neurovalens gets FDA clearance for noninvasive anxiety treatment](https://techcrunch.com/2024/04/08/neurovalens-anxiety-fda/)
-- [Google rolls out Gemini in Android Studio for coding assistance](https://techcrunch.com/2024/04/08/google-rolls-out-gemini-in-android-studio-for-coding-assistance/)
-- [Hackers stole 340,000 Social Security numbers from government consulting firm](https://techcrunch.com/2024/04/08/hackers-stole-340000-social-security-numbers-from-government-consulting-firm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
