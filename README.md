@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Now at the top of the App Store, The Eclipse App is a great companion for Monday’s solar eclipse](https://techcrunch.com/2024/04/08/now-at-the-top-of-the-app-store-the-eclipse-app-is-a-great-companion-for-mondays-solar-eclipse/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [TikTok’s Instagram competitor likely to be named TikTok Notes](https://techcrunch.com/2024/04/08/tiktoks-instagram-competitor-likely-to-be-named-tiktok-notes/)
+- [Total solar eclipse 2024 has begun and here are the first views!](https://www.space.com/total-solar-eclipse-2024-has-begun)
+- [Now at the top of the App Store, The Eclipse App is a great companion for Monday’s solar eclipse](https://techcrunch.com/2024/04/08/now-at-the-top-of-the-app-store-the-eclipse-app-is-a-great-companion-for-mondays-solar-eclipse/)
 - [China tensions underline US investment in TSMC](https://techcrunch.com/2024/04/08/china-tensions-underline-us-investment-in-tsmc/)
-- [Total solar eclipse 2024: pictures from around the web](https://www.space.com/total-solar-eclipse-2024-photos-from-the-web)
-- [Neurotech startup Neurovalens gets FDA clearance for noninvasive anxiety treatment](https://techcrunch.com/2024/04/08/neurovalens-anxiety-fda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
