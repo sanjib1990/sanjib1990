@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify launches personalized AI playlists that you can build using prompts](https://techcrunch.com/2024/04/07/spotify-launches-personalized-ai-playlists-you-can-build-using-prompts/)
 - [Maya nobility performed bloodletting sacrifices to strengthen a &#39;dying&#39; sun god during solar eclipses](https://www.space.com/maya-nobility-bloodletting-sacrifices-during-solar-eclipse)
 - [TechCrunch Mobility: Apple layoffs, an EV price reckoning and another Tesla robotaxi promise](https://techcrunch.com/2024/04/07/techcrunch-mobility-an-ev-price-reckoning-av-startup-ghost-autonomy-ghosts-and/)
 - [Magnets are switching up the keyboard game](https://techcrunch.com/2024/04/07/magnets-are-switching-up-the-keyboard-game/)
 - [Working from home isn’t going away, even if some CEOs wish it would](https://techcrunch.com/2024/04/07/working-from-home-isnt-going-away-even-if-some-ceos-wish-it-would/)
-- [Coding the cosmos:  Building an app for the total solar eclipse 2024 &lpar;op-ed&rpar;](https://www.space.com/solar-eclipse-2024-skysafari-app-op-ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
