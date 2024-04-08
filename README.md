@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ready to join Startup Battlefield 200 at Disrupt 2024?](https://techcrunch.com/2024/04/08/ready-to-join-startup-battlefield-200-at-disrupt-2024/)
-- [TechCrunch Minute: Quantum computing’s next era could be led by Microsoft and Quantinuum](https://techcrunch.com/2024/04/08/techcrunch-minute-quantum-computings-next-era-could-be-led-by-microsoft-and-quantinuum/)
+- [Google rolls out Gemini in Android Studio for coding assistance](https://techcrunch.com/2024/04/08/google-rolls-out-gemini-in-android-studio-for-coding-assistance/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Indian audio giant BoAt says it’s investigating suspected customer data breach](https://techcrunch.com/2024/04/08/indian-audio-giant-boat-data-breach-investigation/)
-- [Could Congress actually pass a data privacy law?](https://techcrunch.com/2024/04/08/could-congress-actually-pass-a-data-privacy-law/)
+- [Hackers stole 340,000 Social Security numbers from government consulting firm](https://techcrunch.com/2024/04/08/hackers-stole-340000-social-security-numbers-from-government-consulting-firm/)
+- [Google launches its upgraded Find My Device network in the US and Canada](https://techcrunch.com/2024/04/08/google-launches-find-my-device-network-us-canada/)
+- [Ready to join Startup Battlefield 200 at Disrupt 2024?](https://techcrunch.com/2024/04/08/ready-to-join-startup-battlefield-200-at-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
