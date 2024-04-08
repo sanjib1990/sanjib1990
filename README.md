@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google rolls out Gemini in Android Studio for coding assistance](https://techcrunch.com/2024/04/08/google-rolls-out-gemini-in-android-studio-for-coding-assistance/)
+- [Total solar eclipse 2024: pictures from around the web](https://www.space.com/total-solar-eclipse-2024-photos-from-the-web)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Neurotech startup Neurovalens gets FDA clearance for noninvasive anxiety treatment](https://techcrunch.com/2024/04/08/neurovalens-anxiety-fda/)
+- [Google rolls out Gemini in Android Studio for coding assistance](https://techcrunch.com/2024/04/08/google-rolls-out-gemini-in-android-studio-for-coding-assistance/)
 - [Hackers stole 340,000 Social Security numbers from government consulting firm](https://techcrunch.com/2024/04/08/hackers-stole-340000-social-security-numbers-from-government-consulting-firm/)
-- [Google launches its upgraded Find My Device network in the US and Canada](https://techcrunch.com/2024/04/08/google-launches-find-my-device-network-us-canada/)
-- [Ready to join Startup Battlefield 200 at Disrupt 2024?](https://techcrunch.com/2024/04/08/ready-to-join-startup-battlefield-200-at-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
