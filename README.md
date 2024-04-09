@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Targus says cyberattack causing operational outage](https://techcrunch.com/2024/04/08/targus-says-cyberattack-causing-operational-outage/)
+- [Multiverse, the apprenticeship unicorn, acquires Searchlight to put a focus on AI](https://techcrunch.com/2024/04/08/multiverse-the-apprenticeship-unicorn-acquires-searchlight-to-put-a-focus-on-ai/)
+- [Targus says cyberattack is causing operational outage](https://techcrunch.com/2024/04/08/targus-says-cyberattack-causing-operational-outage/)
 - [TechCrunch Space: Happy eclipse day!](https://techcrunch.com/2024/04/08/techcrunch-space-happy-eclipse-day/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Total solar eclipse 2024 thrills millions across North America &lpar;video, photos&rpar;](https://www.space.com/total-solar-eclipse-2024-thrills-millions-across-north-america)
-- [Meta’s X competitor Threads invites developers to sign up for API access, publishes docs](https://techcrunch.com/2024/04/08/metas-x-competitor-threads-invites-developers-to-sign-up-for-api-access-publishes-docs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
