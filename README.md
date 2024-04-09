@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fairphone launches easy-to-repair earbuds](https://techcrunch.com/2024/04/09/fairphone-launches-easy-to-repair-earbuds/)
+- [Cruise robotaxis are back in Phoenix — but people are driving them](https://techcrunch.com/2024/04/09/cruise-robotaxis-are-back-sort-of/)
+- [Google Cloud Next 2024: Everything announced so far](https://techcrunch.com/2024/04/09/google-cloud-next-2024-everything-you-need-to-know/)
+- [Astrobotic to launch mini rover along with NASA&#39;s ice-hunting VIPER on next moon mission](https://www.space.com/astrobotic-griffin-1-moon-mission-viper-cuberover)
 - [eBay adds an AI-powered ‘shop the look’ feature to its iOS app](https://techcrunch.com/2024/04/09/ebay-adds-an-ai-powered-shop-the-look-feature-to-its-ios-app/)
-- [Cruise robotaxis are back – sort of](https://techcrunch.com/2024/04/09/cruise-robotaxis-are-back-sort-of/)
-- [TechCrunch Minute: Spotify rolls out an AI-powered playlist feature](https://techcrunch.com/2024/04/09/techcrunch-minute-spotify-rolls-out-an-ai-powered-playlist-feature/)
-- [YouTube launches new Shopping features to help creators market products and grow their earnings](https://techcrunch.com/2024/04/09/youtube-launches-new-shopping-features-to-help-creators-market-products-and-grow-their-earnings/)
-- [As AI accelerates, Europe’s flagship privacy principles are under attack, warns EDPS](https://techcrunch.com/2024/04/09/edps-gdpr-principles-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
