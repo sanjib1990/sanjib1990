@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta confirms that its Llama 3 open-source LLM is coming in the next month](https://techcrunch.com/2024/04/09/meta-confirms-that-its-llama-3-open-source-llm-is-coming-in-the-next-month/)
+- [WordPress.com owner Automattic acquires multi-service messaging app Beeper for $125M](https://techcrunch.com/2024/04/09/wordpress-com-owner-automattic-acquires-multi-service-messaging-app-beeper-for-125m/)
+- [X adds support for passkeys globally on iOS](https://techcrunch.com/2024/04/09/x-adds-support-for-passkeys-globally-on-ios/)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Future quantum computers will be no match for &#39;space encryption&#39; that uses light to beam data around — with the 1st satellite launching in 2025](https://www.space.com/quantum-computers-space-encryption-light-beam-satellite)
-- [Pan-African VC Verod-Kepple closes its first fund at $60M](https://techcrunch.com/2024/04/09/verod-kepple-closes-first-fund-at-60m/)
-- [Ransomware gang’s new extortion trick? Calling the front desk](https://techcrunch.com/2024/04/09/ransomware-gang-fail-calling-front-desk-extortion/)
-- [Metalab goes from quietly building the internet to investing in it](https://techcrunch.com/2024/04/09/product-design-ua-metalab-seed-venture-fund/)
-- [Shure MV7+: The best USB podcast mic gets better](https://techcrunch.com/2024/04/09/shure-mv7-the-best-usb-podcast-mic-gets-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
