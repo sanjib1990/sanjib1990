@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Poe introduces a price-per-message revenue model for AI bot creators](https://techcrunch.com/2024/04/09/poe-introduces-a-price-per-message-revenue-model-for-ai-bot-creators/)
+- [Faraday Future faked early sales, lawsuits claim](https://techcrunch.com/2024/04/09/faraday-lawsuit-fake-sales-whistleblowers-retaliation/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Tesla risks losing its lead without an inexpensive EV](https://techcrunch.com/2024/04/09/tesla-musk-25k-ev-decision/)
 - [Messenger now lets you create shared albums, send HD photos and share larger files](https://techcrunch.com/2024/04/09/messenger-create-shared-albums-send-hd-photos-share-larger-files/)
-- [Check out the complete roundtable lineup at TC Early Stage 2024](https://techcrunch.com/2024/04/09/check-out-the-complete-roundtable-lineup-at-tc-early-stage-2024/)
-- [Dyson’s new AR feature shows where you have &lpar;and haven’t&rpar; vacuumed](https://techcrunch.com/2024/04/09/dysons-new-ar-feature-shows-where-you-have-and-havent-vacuumed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
