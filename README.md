@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Life360 launches flight landing notifications to alert friends and family](https://techcrunch.com/2024/04/09/life360-launches-landing-notifications-to-alert-friends-and-family/)
-- [Total solar eclipse: When is the next one in the US?](https://www.space.com/when-next-total-solar-eclipse-us)
-- [Sprinto raises $20M to bring automation to security compliance management](https://techcrunch.com/2024/04/09/sprinto-funding-security-compliance-management/)
-- [TransferGo raises $10M to expand its remittance business in Asia, doubling valuation](https://techcrunch.com/2024/04/09/transfergo-raises/)
-- [Indian ride-hailing giant Ola quits UK, Australia and NZ in international pullback](https://techcrunch.com/2024/04/09/india-ola-retreats-from-international-markets-exiting-uk-australia-and-new-zealand/)
+- [Watch the Google Cloud Next Keynote live right here](https://techcrunch.com/2024/04/09/watch-the-google-cloud-next-keynote-live-right-here/)
+- [The solar eclipse is over! Here&#39;s what to do with your eclipse glasses](https://www.space.com/how-to-recycle-solar-eclipse-glasses)
+- [Kiki World, a beauty brand that uses web3 for customer co-creation and ownership, raises $7M from a16z](https://techcrunch.com/2024/04/09/kiki-world-a-beauty-brand-that-uses-web3-for-customer-co-creation-and-ownership-raises-7m-from-a16z/)
+- [Google announces Axion, its first custom Arm-based data center processor](https://techcrunch.com/2024/04/09/google-announces-axion-its-first-custom-arm-based-data-center-processor/)
+- [Google open-sources tools to support AI model development](https://techcrunch.com/2024/04/09/google-open-sources-tools-to-support-ai-model-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
