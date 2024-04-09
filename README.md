@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cambium is building a recycled wood supply chain](https://techcrunch.com/2024/04/09/cambium-is-building-a-recycled-wood-supply-chain/)
+- [True Anomaly CEO finds the silver lining in the startup’s anomalous first mission](https://techcrunch.com/2024/04/09/true-anomaly-ceo-finds-the-silver-lining-in-the-startups-anomalous-first-mission/)
 - [Poe introduces a price-per-message revenue model for AI bot creators](https://techcrunch.com/2024/04/09/poe-introduces-a-price-per-message-revenue-model-for-ai-bot-creators/)
 - [Faraday Future faked early sales, lawsuits claim](https://techcrunch.com/2024/04/09/faraday-lawsuit-fake-sales-whistleblowers-retaliation/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Tesla risks losing its lead without an inexpensive EV](https://techcrunch.com/2024/04/09/tesla-musk-25k-ev-decision/)
-- [Messenger now lets you create shared albums, send HD photos and share larger files](https://techcrunch.com/2024/04/09/messenger-create-shared-albums-send-hd-photos-share-larger-files/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
