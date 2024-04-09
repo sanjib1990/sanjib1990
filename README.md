@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Life360 launches flight landing notifications to alert friends and family](https://techcrunch.com/2024/04/09/life360-launches-landing-notifications-to-alert-friends-and-family/)
 - [Total solar eclipse: When is the next one in the US?](https://www.space.com/when-next-total-solar-eclipse-us)
 - [Sprinto raises $20M to bring automation to security compliance management](https://techcrunch.com/2024/04/09/sprinto-funding-security-compliance-management/)
 - [TransferGo raises $10M to expand its remittance business in Asia, doubling valuation](https://techcrunch.com/2024/04/09/transfergo-raises/)
 - [Indian ride-hailing giant Ola quits UK, Australia and NZ in international pullback](https://techcrunch.com/2024/04/09/india-ola-retreats-from-international-markets-exiting-uk-australia-and-new-zealand/)
-- [Multiverse, the apprenticeship unicorn, acquires Searchlight to put a focus on AI](https://techcrunch.com/2024/04/08/multiverse-the-apprenticeship-unicorn-acquires-searchlight-to-put-a-focus-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
