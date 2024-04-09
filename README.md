@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ChatGPT Jailbreak - Computerphile](https://www.youtube.com/watch?v=zn2ukSnDqSg)
 - [A Day in the Life of a CCNA Student](https://www.youtube.com/watch?v=O19FbT5r8iI)
 - [60 Hacking Commands You NEED to Know](https://www.youtube.com/watch?v=gL4j-a-g9pA)
 - [AES GCM &lpar;Advanced Encryption Standard in Galois Counter Mode&rpar; - Computerphile](https://www.youtube.com/watch?v=-fpVv_T4xwA)
 - [Linux got wrecked by backdoor attack](https://www.youtube.com/watch?v=bS9em7Bg0iU)
-- [7 tech leaders who ended up in prison](https://www.youtube.com/watch?v=CWeSzhJpJ9U)
 <!-- YOUTUBE:END -->
 
 ---
