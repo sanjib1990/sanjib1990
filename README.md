@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian ride-hailing giant Ola quits UK, Australia and NZ in international pullback](https://techcrunch.com/2024/04/09/india-ola-retreats-from-international-markets-exiting-uk-australia-and-new-zealand/)
 - [Multiverse, the apprenticeship unicorn, acquires Searchlight to put a focus on AI](https://techcrunch.com/2024/04/08/multiverse-the-apprenticeship-unicorn-acquires-searchlight-to-put-a-focus-on-ai/)
 - [Targus says cyberattack is causing operational outage](https://techcrunch.com/2024/04/08/targus-says-cyberattack-causing-operational-outage/)
 - [TechCrunch Space: Happy eclipse day!](https://techcrunch.com/2024/04/08/techcrunch-space-happy-eclipse-day/)
 - [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Total solar eclipse 2024 thrills millions across North America &lpar;video, photos&rpar;](https://www.space.com/total-solar-eclipse-2024-thrills-millions-across-north-america)
 <!-- BLOG-POST-LIST:END -->
 
 ---
