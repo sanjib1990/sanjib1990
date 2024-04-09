@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fairphone launches easy-to-repair earbuds](https://techcrunch.com/2024/04/09/fairphone-launches-easy-to-repair-earbuds/)
+- [These solar eclipse 2024 photos from our readers are absolutely amazing &lpar;images, video&rpar;](https://www.space.com/total-solar-eclipse-2024-space-reader-photos-video)
 - [Cruise robotaxis are back in Phoenix — but people are driving them](https://techcrunch.com/2024/04/09/cruise-robotaxis-are-back-sort-of/)
-- [Google Cloud Next 2024: Everything announced so far](https://techcrunch.com/2024/04/09/google-cloud-next-2024-everything-you-need-to-know/)
-- [Astrobotic to launch mini rover along with NASA&#39;s ice-hunting VIPER on next moon mission](https://www.space.com/astrobotic-griffin-1-moon-mission-viper-cuberover)
-- [eBay adds an AI-powered ‘shop the look’ feature to its iOS app](https://techcrunch.com/2024/04/09/ebay-adds-an-ai-powered-shop-the-look-feature-to-its-ios-app/)
+- [I just proposed to my fiancée under the diamond ring of the 2024 total solar eclipse. &lpar;She said &#39;Yes!&#39;&rpar;](https://www.space.com/total-solar-eclipse-2024-marriage-proposal)
+- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [&#39;Heavy&#39; history: ULA launches final Delta rocket after 64 years &lpar;video, photos&rpar;](https://www.space.com/final-delta-4-heavy-rocket-launch-nrol-70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
