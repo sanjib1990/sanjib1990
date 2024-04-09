@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Check out the complete roundtable lineup at TC Early Stage 2024](https://techcrunch.com/2024/04/09/check-out-the-complete-roundtable-lineup-at-tc-early-stage-2024/)
+- [Dyson’s new AR feature shows where you have &lpar;and haven’t&rpar; vacuumed](https://techcrunch.com/2024/04/09/dysons-new-ar-feature-shows-where-you-have-and-havent-vacuumed/)
+- [GM’s Cruise robotaxis are back in Phoenix — but people are driving them](https://techcrunch.com/2024/04/09/cruise-robotaxis-are-back-sort-of/)
+- [Microsoft employees exposed internal passwords in security lapse](https://techcrunch.com/2024/04/09/microsoft-employees-exposed-internal-passwords-security-lapse/)
 - [These solar eclipse 2024 photos from our readers are absolutely amazing &lpar;images, video&rpar;](https://www.space.com/total-solar-eclipse-2024-space-reader-photos-video)
-- [Cruise robotaxis are back in Phoenix — but people are driving them](https://techcrunch.com/2024/04/09/cruise-robotaxis-are-back-sort-of/)
-- [I just proposed to my fiancée under the diamond ring of the 2024 total solar eclipse. &lpar;She said &#39;Yes!&#39;&rpar;](https://www.space.com/total-solar-eclipse-2024-marriage-proposal)
-- [Total solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [&#39;Heavy&#39; history: ULA launches final Delta rocket after 64 years &lpar;video, photos&rpar;](https://www.space.com/final-delta-4-heavy-rocket-launch-nrol-70)
 <!-- BLOG-POST-LIST:END -->
 
 ---
