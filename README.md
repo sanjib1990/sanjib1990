@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Future quantum computers will be no match for &#39;space encryption&#39; that uses light to beam data around — with the 1st satellite launching in 2025](https://www.space.com/quantum-computers-space-encryption-light-beam-satellite)
+- [Pan-African VC Verod-Kepple closes its first fund at $60M](https://techcrunch.com/2024/04/09/verod-kepple-closes-first-fund-at-60m/)
+- [Ransomware gang’s new extortion trick? Calling the front desk](https://techcrunch.com/2024/04/09/ransomware-gang-fail-calling-front-desk-extortion/)
 - [Metalab goes from quietly building the internet to investing in it](https://techcrunch.com/2024/04/09/product-design-ua-metalab-seed-venture-fund/)
 - [Shure MV7+: The best USB podcast mic gets better](https://techcrunch.com/2024/04/09/shure-mv7-the-best-usb-podcast-mic-gets-better/)
-- [Lucid Motors ekes out a new delivery record as it searches for more EV buyers](https://techcrunch.com/2024/04/09/lucid-motors-first-quarter-deliveries-production/)
-- [Symbolica hopes to head off the AI arms race by betting on symbolic models](https://techcrunch.com/2024/04/09/symbolica-hopes-to-head-off-the-ai-arms-race-by-betting-on-symbolic-models/)
-- [Google Cloud Next 2024: Everything announced so far](https://techcrunch.com/2024/04/09/google-cloud-next-2024-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
