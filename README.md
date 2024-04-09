@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the Google Cloud Next Keynote live right here](https://techcrunch.com/2024/04/09/watch-the-google-cloud-next-keynote-live-right-here/)
-- [The solar eclipse is over! Here&#39;s what to do with your eclipse glasses](https://www.space.com/how-to-recycle-solar-eclipse-glasses)
-- [Kiki World, a beauty brand that uses web3 for customer co-creation and ownership, raises $7M from a16z](https://techcrunch.com/2024/04/09/kiki-world-a-beauty-brand-that-uses-web3-for-customer-co-creation-and-ownership-raises-7m-from-a16z/)
-- [Google announces Axion, its first custom Arm-based data center processor](https://techcrunch.com/2024/04/09/google-announces-axion-its-first-custom-arm-based-data-center-processor/)
-- [Google open-sources tools to support AI model development](https://techcrunch.com/2024/04/09/google-open-sources-tools-to-support-ai-model-development/)
+- [Metalab goes from quietly building the internet to investing in it](https://techcrunch.com/2024/04/09/product-design-ua-metalab-seed-venture-fund/)
+- [Shure MV7+: The best USB podcast mic gets better](https://techcrunch.com/2024/04/09/shure-mv7-the-best-usb-podcast-mic-gets-better/)
+- [Lucid Motors ekes out a new delivery record as it searches for more EV buyers](https://techcrunch.com/2024/04/09/lucid-motors-first-quarter-deliveries-production/)
+- [Symbolica hopes to head off the AI arms race by betting on symbolic models](https://techcrunch.com/2024/04/09/symbolica-hopes-to-head-off-the-ai-arms-race-by-betting-on-symbolic-models/)
+- [Google Cloud Next 2024: Everything announced so far](https://techcrunch.com/2024/04/09/google-cloud-next-2024-everything-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
