@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prime Video&#39;s &#39;Fallout&#39; launches into the post-apocalyptic TV frontier &lpar;video&rpar;](https://www.space.com/fallout-tv-show-launches-amazon-prime-video)
-- [Y Combinator’s latest cohort had only one LatAm startup in large part because of AI](https://techcrunch.com/2024/04/10/y-combinator-latam-ai/)
-- [TechCrunch Minute: Google’s Gemini Code Assist wants to use AI to help developers](https://techcrunch.com/2024/04/10/techcrunch-minute-googles-gemini-code-assist-wants-to-use-ai-to-help-developers/)
-- [Google brings AI-powered editing tools, like Magic Editor, to all Google Photos users for free](https://techcrunch.com/2024/04/10/google-brings-ai-powered-editing-tools-like-magic-editor-to-all-google-photos-users-for-free/)
-- [AT&amp;T notifies regulators after customer data breach](https://techcrunch.com/2024/04/10/att-notifies-regulators-after-customer-data-breach/)
+- [US needs new space tech or it &#39;will lose,&#39; Space Force chief says](https://www.space.com/space-force-general-chance-saltzman-new-tech-great-power-competition-symposium)
+- [Space diversity initiative builds steam with new leadership and K-12 focused National Space Day](https://techcrunch.com/2024/04/10/space-diversity-initiative-builds-steam-with-new-leadership-and-k-12-focused-national-space-day/)
+- [What it was like to chase totality in South Texas](https://www.space.com/chasing-totality-in-south-texas)
+- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/04/10/tech-layoffs-2023-list/)
+- [YouTube is turning off kids’ ability to write comments &lpar;in supervised experiences&rpar;](https://techcrunch.com/2024/04/10/youtube-is-turning-off-kids-ability-to-write-comments-in-supervised-experiences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
