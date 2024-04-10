@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yoshi Mobility has come a long way since gassing up cars on the side of the road](https://techcrunch.com/2024/04/10/yoshi-mobility-cars-26m-series-c-gm-bridgestone/)
+- [Proton picks up Standard Notes to deepen its pro-privacy portfolio](https://techcrunch.com/2024/04/10/proton-standard-notes/)
+- [Eclipse 2026: The next total solar eclipse will be Europe&#39;s 1st in 27 years](https://www.space.com/total-solar-eclipse-2026-a-complete-guide)
 - [SpaceX launches 23 Starlink satellites in nighttime liftoff &lpar;photos&rpar;](https://www.space.com/spacex-starlink-launch-group-6-48)
 - [Truecaller launches a web client for its Android users](https://techcrunch.com/2024/04/09/truecaller-launches-a-web-client-for-its-android-users/)
-- [Proxima Fusion raises $21M to build on its ‘stellarator’ approach to nuclear fusion](https://techcrunch.com/2024/04/09/proxima-fusion-raises-21m-to-build-on-its-stellarator-approach-to-nuclear-fusion/)
-- [Satellite views of solar eclipse 2024: See the moon&#39;s shadow race across North America &lpar;video, photos&rpar;](https://www.space.com/solar-eclipse-2024-satellite-moon-shadow-video-photos)
-- [Cambium is building a recycled wood supply chain](https://techcrunch.com/2024/04/09/cambium-is-building-a-recycled-wood-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
