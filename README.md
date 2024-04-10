@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Peter Higgs leaves a massive legacy in the field of physics](https://www.space.com/peter-higgs-passing-standard-model-lhc)
+- [Alternative browsers report uplift after EU’s DMA choice screen mandate](https://techcrunch.com/2024/04/10/eu-dma-browser-choice-screen-early-impact/)
 - [Astranis unveils Omega ‘MicroGEO’ satellites for beaming dedicated broadband down from high orbit](https://techcrunch.com/2024/04/10/astranis-unveils-omega-microgeo-satellites-for-beaming-dedicated-broadband-down-from-high-orbit/)
 - [See Jupiter close to a crescent moon &lpar;Mars near Saturn, too&rpar; in the &#39;View a Planet Day&#39; night sky](https://www.space.com/jupiter-crescent-moon-mars-saturn-night-sky-april-10-2024)
 - [Apple News is testing a game that kind of looks like NYT Connections](https://techcrunch.com/2024/04/10/apple-news-is-testing-a-game-that-kind-of-looks-like-nyt-connections/)
-- [Hundreds of creators sign letter slamming Meta’s limit on political content](https://techcrunch.com/2024/04/10/hundreds-of-creators-sign-letter-slamming-metas-limit-on-political-content/)
-- [What happened when the moon &#39;turned itself inside out&#39; billions of years ago?](https://www.space.com/moon-inside-out-billions-years-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
