@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happened when the moon &#39;turned itself inside out&#39; billions of years ago?](https://www.space.com/moon-inside-out-billions-years-ago)
 - [Could these big expandable habitats help humanity settle the moon and Mars?](https://www.space.com/max-space-expandable-habitats-moon-mars)
 - [US needs new space tech or it &#39;will lose,&#39; Space Force chief says](https://www.space.com/space-force-general-chance-saltzman-new-tech-great-power-competition-symposium)
 - [Space diversity initiative builds steam with new leadership and K-12 focused National Space Day](https://techcrunch.com/2024/04/10/space-diversity-initiative-builds-steam-with-new-leadership-and-k-12-focused-national-space-day/)
 - [What it was like to chase totality in South Texas](https://www.space.com/chasing-totality-in-south-texas)
-- [A comprehensive list of 2023 &amp; 2024 tech layoffs](https://techcrunch.com/2024/04/10/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
