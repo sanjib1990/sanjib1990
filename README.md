@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Thousands of hidden meteorites could be lost forever as they sink in Antarctic ice, taking their cosmic secrets with them](https://www.space.com/thousands-of-hidden-meteorites-sinking-in-antarctica)
-- [Muscle tissue harvested from mice cells move ‘biohybrid’ robots](https://techcrunch.com/2024/04/10/muscle-tissue-harvested-from-mice-cells-move-biohybrid-robots/)
-- [We finally know why NASA&#39;s Voyager 1 spacecraft stopped communicating — scientists are working on a fix](https://www.space.com/nasa-voyager-1-communications-breakdown-solved)
-- [Collaborative Robotics is prioritizing ‘human problem solving’ over humanoid forms](https://techcrunch.com/2024/04/10/collaborative-robotics-is-prioritizing-human-problem-solving-over-humanoid-forms/)
-- [Buffet’s new app tackles the loneliness epidemic by connecting people in the real world](https://techcrunch.com/2024/04/10/buffet-is-tackling-the-loneliness-epidemic-by-connecting-people-in-the-real-world/)
+- [Meta unveils its newest custom AI chip as it races to catch up](https://techcrunch.com/2024/04/10/meta-unveils-its-newest-custom-ai-chip/)
+- [Astronauts&#39; photos capture April 8 solar eclipse from Earth orbit](https://www.space.com/2024-solar-eclipse-astronaut-photos-space-station)
+- [eBay enters trading card commercial agreement with Collectors, acquires Goldin](https://techcrunch.com/2024/04/10/ebay-enters-trading-card-commercial-agreement-with-collectors-acquires-goldin/)
+- [A $60M venture fund with a twist, and more startup-on-startup acquisitions](https://techcrunch.com/2024/04/10/a-60m-venture-fund-with-a-twist-and-more-startup-on-startup-acquisitions/)
+- [Turkish startup ikas attracts $20M for its e-commerce platform designed for small businesses](https://techcrunch.com/2024/04/10/turkey-ikas-20m-fundraise/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
