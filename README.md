@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Collaborative Robotics is prioritizing ‘human problem solving’ over humanoid forms](https://techcrunch.com/2024/04/10/collaborative-robotics-is-prioritizing-human-problem-solving-over-humanoid-forms/)
+- [Buffet is tackling the loneliness epidemic by connecting people in the real world](https://techcrunch.com/2024/04/10/buffet-is-tackling-the-loneliness-epidemic-by-connecting-people-in-the-real-world/)
+- [Roku’s high-end $899+ Pro Series TVs are now available](https://techcrunch.com/2024/04/10/roku-launches-its-899-pro-series-tvs/)
 - [HomeHQ.ai founders illuminate the path from idea to success at TC Early Stage 2024](https://techcrunch.com/2024/04/10/homehq-ai-founders-illuminate-the-path-from-idea-to-success-at-tc-early-stage-2024/)
 - [Totality was a total bust for me — but not for the reason you may think](https://www.space.com/total-solar-eclipse-2024-totality-bust-first-person-account)
-- [Guesty snaps up $130M at $900M valuation to help property managers list on Airbnb and beyond](https://techcrunch.com/2024/04/10/guesty-snaps-up-130m-at-900m-valuation-to-help-property-managers-list-on-airbnb-and-beyond/)
-- [Yoshi Mobility has come a long way since gassing up cars on the side of the road](https://techcrunch.com/2024/04/10/yoshi-mobility-cars-26m-series-c-gm-bridgestone/)
-- [Proton picks up Standard Notes to deepen its pro-privacy portfolio](https://techcrunch.com/2024/04/10/proton-standard-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
