@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta unveils its newest custom AI chip as it races to catch up](https://techcrunch.com/2024/04/10/meta-unveils-its-newest-custom-ai-chip/)
-- [Astronauts&#39; photos capture April 8 solar eclipse from Earth orbit](https://www.space.com/2024-solar-eclipse-astronaut-photos-space-station)
-- [eBay enters trading card commercial agreement with Collectors, acquires Goldin](https://techcrunch.com/2024/04/10/ebay-enters-trading-card-commercial-agreement-with-collectors-acquires-goldin/)
-- [A $60M venture fund with a twist, and more startup-on-startup acquisitions](https://techcrunch.com/2024/04/10/a-60m-venture-fund-with-a-twist-and-more-startup-on-startup-acquisitions/)
-- [Turkish startup ikas attracts $20M for its e-commerce platform designed for small businesses](https://techcrunch.com/2024/04/10/turkey-ikas-20m-fundraise/)
+- [Y Combinator’s latest cohort had only one LatAm startup in large part because of AI](https://techcrunch.com/2024/04/10/y-combinator-latam-ai/)
+- [TechCrunch Minute: Google’s Gemini Code Assist wants to use AI to help developers](https://techcrunch.com/2024/04/10/techcrunch-minute-googles-gemini-code-assist-wants-to-use-ai-to-help-developers/)
+- [Google brings AI-powered editing tools, like Magic Editor, to all Google Photos users for free](https://techcrunch.com/2024/04/10/google-brings-ai-powered-editing-tools-like-magic-editor-to-all-google-photos-users-for-free/)
+- [AT&amp;T notifies regulators after customer data breach](https://techcrunch.com/2024/04/10/att-notifies-regulators-after-customer-data-breach/)
+- [China moving at &#39;breathtaking speed&#39; in final frontier, Space Force says](https://www.space.com/china-space-progress-breathtaking-speed-space-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
