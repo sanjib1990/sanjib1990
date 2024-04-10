@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thousands of hidden meteorites could be lost forever as they sink in Antarctic ice, taking their cosmic secrets with them](https://www.space.com/thousands-of-hidden-meteorites-sinking-in-antarctica)
+- [Muscle tissue harvested from mice cells move ‘biohybrid’ robots](https://techcrunch.com/2024/04/10/muscle-tissue-harvested-from-mice-cells-move-biohybrid-robots/)
+- [We finally know why NASA&#39;s Voyager 1 spacecraft stopped communicating — scientists are working on a fix](https://www.space.com/nasa-voyager-1-communications-breakdown-solved)
 - [Collaborative Robotics is prioritizing ‘human problem solving’ over humanoid forms](https://techcrunch.com/2024/04/10/collaborative-robotics-is-prioritizing-human-problem-solving-over-humanoid-forms/)
-- [Buffet is tackling the loneliness epidemic by connecting people in the real world](https://techcrunch.com/2024/04/10/buffet-is-tackling-the-loneliness-epidemic-by-connecting-people-in-the-real-world/)
-- [Roku’s high-end $899+ Pro Series TVs are now available](https://techcrunch.com/2024/04/10/roku-launches-its-899-pro-series-tvs/)
-- [HomeHQ.ai founders illuminate the path from idea to success at TC Early Stage 2024](https://techcrunch.com/2024/04/10/homehq-ai-founders-illuminate-the-path-from-idea-to-success-at-tc-early-stage-2024/)
-- [Totality was a total bust for me — but not for the reason you may think](https://www.space.com/total-solar-eclipse-2024-totality-bust-first-person-account)
+- [Buffet’s new app tackles the loneliness epidemic by connecting people in the real world](https://techcrunch.com/2024/04/10/buffet-is-tackling-the-loneliness-epidemic-by-connecting-people-in-the-real-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
