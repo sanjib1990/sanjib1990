@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 23 Starlink satellites in nighttime liftoff &lpar;photos&rpar;](https://www.space.com/spacex-starlink-launch-group-6-48)
+- [Truecaller launches a web client for its Android users](https://techcrunch.com/2024/04/09/truecaller-launches-a-web-client-for-its-android-users/)
 - [Proxima Fusion raises $21M to build on its ‘stellarator’ approach to nuclear fusion](https://techcrunch.com/2024/04/09/proxima-fusion-raises-21m-to-build-on-its-stellarator-approach-to-nuclear-fusion/)
 - [Satellite views of solar eclipse 2024: See the moon&#39;s shadow race across North America &lpar;video, photos&rpar;](https://www.space.com/solar-eclipse-2024-satellite-moon-shadow-video-photos)
 - [Cambium is building a recycled wood supply chain](https://techcrunch.com/2024/04/09/cambium-is-building-a-recycled-wood-supply-chain/)
-- [True Anomaly CEO finds the silver lining in the startup’s anomalous first mission](https://techcrunch.com/2024/04/09/true-anomaly-ceo-finds-the-silver-lining-in-the-startups-anomalous-first-mission/)
-- [Poe introduces a price-per-message revenue model for AI bot creators](https://techcrunch.com/2024/04/09/poe-introduces-a-price-per-message-revenue-model-for-ai-bot-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
