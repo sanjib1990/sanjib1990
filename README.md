@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prime Video&#39;s &#39;Fallout&#39; launches into the post-apocalyptic TV frontier &lpar;video&rpar;](https://www.space.com/fallout-tv-show-launches-amazon-prime-video)
 - [Y Combinator’s latest cohort had only one LatAm startup in large part because of AI](https://techcrunch.com/2024/04/10/y-combinator-latam-ai/)
 - [TechCrunch Minute: Google’s Gemini Code Assist wants to use AI to help developers](https://techcrunch.com/2024/04/10/techcrunch-minute-googles-gemini-code-assist-wants-to-use-ai-to-help-developers/)
 - [Google brings AI-powered editing tools, like Magic Editor, to all Google Photos users for free](https://techcrunch.com/2024/04/10/google-brings-ai-powered-editing-tools-like-magic-editor-to-all-google-photos-users-for-free/)
 - [AT&amp;T notifies regulators after customer data breach](https://techcrunch.com/2024/04/10/att-notifies-regulators-after-customer-data-breach/)
-- [China moving at &#39;breathtaking speed&#39; in final frontier, Space Force says](https://www.space.com/china-space-progress-breathtaking-speed-space-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
