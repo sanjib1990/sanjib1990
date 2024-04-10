@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HomeHQ.ai founders illuminate the path from idea to success at TC Early Stage 2024](https://techcrunch.com/2024/04/10/homehq-ai-founders-illuminate-the-path-from-idea-to-success-at-tc-early-stage-2024/)
+- [Totality was a total bust for me — but not for the reason you may think](https://www.space.com/total-solar-eclipse-2024-totality-bust-first-person-account)
 - [Guesty snaps up $130M at $900M valuation to help property managers list on Airbnb and beyond](https://techcrunch.com/2024/04/10/guesty-snaps-up-130m-at-900m-valuation-to-help-property-managers-list-on-airbnb-and-beyond/)
 - [Yoshi Mobility has come a long way since gassing up cars on the side of the road](https://techcrunch.com/2024/04/10/yoshi-mobility-cars-26m-series-c-gm-bridgestone/)
 - [Proton picks up Standard Notes to deepen its pro-privacy portfolio](https://techcrunch.com/2024/04/10/proton-standard-notes/)
-- [Eclipse 2026: The next total solar eclipse will be Europe&#39;s 1st in 27 years](https://www.space.com/total-solar-eclipse-2026-a-complete-guide)
-- [SpaceX launches 23 Starlink satellites in nighttime liftoff &lpar;photos&rpar;](https://www.space.com/spacex-starlink-launch-group-6-48)
 <!-- BLOG-POST-LIST:END -->
 
 ---
