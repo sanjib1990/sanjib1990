@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The complete TC Early Stage 2024 agenda is here!](https://techcrunch.com/2024/04/11/the-complete-tc-early-stage-2024-agenda-is-here/)
+- [Apple opens access to used iPhone components for repair](https://techcrunch.com/2024/04/11/apple-opens-access-to-used-iphone-components-for-repair/)
+- [Google’s Gradient backs Patlytics to help companies protect their intellectual property](https://techcrunch.com/2024/04/11/googles-gradient-backs-patytics-to-help-companies-protect-their-intellectual-property/)
+- [Stars make a bigger mess in old galaxies, and scientists just figured out why](https://www.space.com/why-stars-make-bigger-messes-old-galaxies)
 - [Top total solar eclipses to look out for over the next decade](https://www.space.com/next-10-years-solar-eclipses-2026-to-2034)
-- [Humane’s Ai Pin considers life beyond the smartphone](https://techcrunch.com/2024/04/11/humanes-ai-pin-considers-life-beyond-the-smartphone/)
-- [SpaceX to launch advanced weather satellite for US Space Force today](https://www.space.com/spacex-space-force-mission-launch-ussf-62)
-- [Simbian brings AI to existing security tools](https://techcrunch.com/2024/04/11/simbian-brings-ai-to-existing-security-tools/)
-- [Voltpost wants to bring curbside charging to a lamppost near you](https://techcrunch.com/2024/04/11/voltpost-charger-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
