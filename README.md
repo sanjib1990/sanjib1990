@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flipboard deepens its ties to the open source social web &lpar;aka the fediverse&rpar;](https://techcrunch.com/2024/04/11/flipboard-deepens-its-ties-to-the-open-source-social-web-aka-the-fediverse/)
-- [Substack now allows podcasters to sync and distribute their episodes to Spotify](https://techcrunch.com/2024/04/11/substack-podcasters-sync-distribute-episodes-spotify/)
-- [Humane’s $699 AI Pin is now available](https://techcrunch.com/2024/04/11/humanes-699-ai-pin-is-now-available/)
-- [How PayJoy built a $300M business by letting the underserved use their smartphones as collateral for loans](https://techcrunch.com/2024/04/11/how-fintech-payjoy-built-a-300m-business-by-letting-the-underserved-use-their-smartphones-as-collateral-for-loans/)
-- [Arc browser launches Live Folders to auto-update tabs for you](https://techcrunch.com/2024/04/11/arc-browsers-live-folders-will-auto-update-tabs-for-you/)
+- [TechCrunch Minute: TikTok and Meta’s latest moves signal a more commodified internet](https://techcrunch.com/2024/04/11/techcrunch-minute-tiktok-and-metas-latest-moves-signal-a-more-commodified-internet/)
+- [Cendana, Kline Hill have a fresh $105M to buy stakes in seed VC funds from LPs looking to sell](https://techcrunch.com/2024/04/11/cendana-kline-hill-secondary-seed-venture-capital-funds-lps-liquidity/)
+- [Trains, planes and a total solar eclipse! Watching the moon block the sun was a transportation adventure &lpar;exclusive&rpar;](https://www.space.com/solar-eclipse-2024-montreal-train-station-family)
+- [Soviet-era cosmonaut Vladimir Aksyonov, who flew into space twice, dies at 89](https://www.space.com/cosmonaut-vladimir-aksyonov-obituary)
+- [Lyrak to take on X by combining the best of Twitter with fediverse integration](https://techcrunch.com/2024/04/11/lyrak-to-take-on-x-by-combining-the-best-of-twitter-with-fediverse-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
