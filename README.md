@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: Tales of the Empire&#39; sets surprise May the 4th debut on Disney Plus &lpar;video&rpar;](https://www.space.com/star-wars-tales-of-the-empire-trailer-release)
+- [Gravitational waves reveal black hole and neutron star merging for 1st time](https://www.space.com/gravitational-waves-reveal-black-hole-neutron-star-merging)
 - [TechCrunch Minute: TikTok and Meta’s latest moves signal a more commodified internet](https://techcrunch.com/2024/04/11/techcrunch-minute-tiktok-and-metas-latest-moves-signal-a-more-commodified-internet/)
 - [Cendana, Kline Hill have a fresh $105M to buy stakes in seed VC funds from LPs looking to sell](https://techcrunch.com/2024/04/11/cendana-kline-hill-secondary-seed-venture-capital-funds-lps-liquidity/)
 - [Trains, planes and a total solar eclipse! Watching the moon block the sun was a transportation adventure &lpar;exclusive&rpar;](https://www.space.com/solar-eclipse-2024-montreal-train-station-family)
-- [Soviet-era cosmonaut Vladimir Aksyonov, who flew into space twice, dies at 89](https://www.space.com/cosmonaut-vladimir-aksyonov-obituary)
-- [Lyrak to take on X by combining the best of Twitter with fediverse integration](https://techcrunch.com/2024/04/11/lyrak-to-take-on-x-by-combining-the-best-of-twitter-with-fediverse-integration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
