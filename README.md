@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ChatGPT Jailbreak - Computerphile](https://www.youtube.com/watch?v=zn2ukSnDqSg)
-- [A Day in the Life of a CCNA Student](https://www.youtube.com/watch?v=O19FbT5r8iI)
-- [60 Hacking Commands You NEED to Know](https://www.youtube.com/watch?v=gL4j-a-g9pA)
-- [AES GCM &lpar;Advanced Encryption Standard in Galois Counter Mode&rpar; - Computerphile](https://www.youtube.com/watch?v=-fpVv_T4xwA)
-- [Linux got wrecked by backdoor attack](https://www.youtube.com/watch?v=bS9em7Bg0iU)
+- [Lecture 14: Dictionaries](https://www.youtube.com/watch?v=lTgLOuaQsvk)
+- [Lecture 3: Iteration](https://www.youtube.com/watch?v=lzYrMcI92kw)
+- [Lecture 16: Recursion on Non-numerics](https://www.youtube.com/watch?v=2XxGplWqXVQ)
+- [Lecture 21: Timing Programs and Counting Operations](https://www.youtube.com/watch?v=lvp4NfED6K4)
+- [Lecture 25: Plotting](https://www.youtube.com/watch?v=Jov7G7IpuLo)
 <!-- YOUTUBE:END -->
 
 ---
