@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japanese astronauts will join NASA moon landings in return for lunar rover](https://www.space.com/japan-astronauts-moon-rover-artemis-agreement)
 - [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
 - [Why Peter Higgs leaves a massive legacy in the field of physics](https://www.space.com/peter-higgs-passing-standard-model-lhc)
 - [Alternative browsers report uplift after EU’s DMA choice screen mandate](https://techcrunch.com/2024/04/10/eu-dma-browser-choice-screen-early-impact/)
 - [Astranis unveils Omega ‘MicroGEO’ satellites for beaming dedicated broadband down from high orbit](https://techcrunch.com/2024/04/10/astranis-unveils-omega-microgeo-satellites-for-beaming-dedicated-broadband-down-from-high-orbit/)
-- [See Jupiter close to a crescent moon &lpar;Mars near Saturn, too&rpar; in the &#39;View a Planet Day&#39; night sky](https://www.space.com/jupiter-crescent-moon-mars-saturn-night-sky-april-10-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
