@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple alerts users in 92 nations to mercenary attacks in new warning](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
+- [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
 - [Why Peter Higgs leaves a massive legacy in the field of physics](https://www.space.com/peter-higgs-passing-standard-model-lhc)
 - [Alternative browsers report uplift after EU’s DMA choice screen mandate](https://techcrunch.com/2024/04/10/eu-dma-browser-choice-screen-early-impact/)
 - [Astranis unveils Omega ‘MicroGEO’ satellites for beaming dedicated broadband down from high orbit](https://techcrunch.com/2024/04/10/astranis-unveils-omega-microgeo-satellites-for-beaming-dedicated-broadband-down-from-high-orbit/)
