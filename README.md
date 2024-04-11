@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDuckGo launches a new subscription to bundle VPN and identity theft protection](https://techcrunch.com/2024/04/11/duckduckgo-launches-a-new-subscription-to-bundle-vpn-and-identity-theft-protection/)
-- [Space weather can make it hard to predict satellite trajectories. Here&#39;s why that&#39;s a problem](https://www.space.com/space-weather-unreliable-satellite-trajectory-predictions)
-- [European car manufacturer will pilot Sanctuary AI’s humanoid robot](https://techcrunch.com/2024/04/11/european-car-manufacturer-will-pilot-sanctuary-ais-humanoid-robot/)
-- [Meta will auto-blur nudity in Instagram DMs in latest teen safety step](https://techcrunch.com/2024/04/11/meta-will-auto-blur-nudity-in-instagram-dms-in-latest-teen-safety-step/)
-- [US government urges Sisense customers to reset credentials after hack](https://techcrunch.com/2024/04/11/cisa-government-sisense-reset-credentials-cyberattack/)
+- [Flipboard deepens its ties to the open source social web &lpar;aka the fediverse&rpar;](https://techcrunch.com/2024/04/11/flipboard-deepens-its-ties-to-the-open-source-social-web-aka-the-fediverse/)
+- [Substack now allows podcasters to sync and distribute their episodes to Spotify](https://techcrunch.com/2024/04/11/substack-podcasters-sync-distribute-episodes-spotify/)
+- [Humane’s $699 AI Pin is now available](https://techcrunch.com/2024/04/11/humanes-699-ai-pin-is-now-available/)
+- [How PayJoy built a $300M business by letting the underserved use their smartphones as collateral for loans](https://techcrunch.com/2024/04/11/how-fintech-payjoy-built-a-300m-business-by-letting-the-underserved-use-their-smartphones-as-collateral-for-loans/)
+- [Arc browser launches Live Folders to auto-update tabs for you](https://techcrunch.com/2024/04/11/arc-browsers-live-folders-will-auto-update-tabs-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
