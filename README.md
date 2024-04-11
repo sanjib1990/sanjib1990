@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force tees up new ‘responsive space’ mission from Rocket Lab and True Anomaly](https://techcrunch.com/2024/04/11/space-force-tees-up-new-responsive-space-mission-from-rocket-lab-and-true-anomaly/)
 - [My formal 2024 solar eclipse apology](https://www.space.com/2024-solar-eclipse-apology-letter-totality-was-excellent)
 - [Ford’s hands-free BlueCruise system was active before fatal Texas crash](https://techcrunch.com/2024/04/11/ford-bluecruise-fatal-crash-investigation-stationary-suv/)
 - [Achoo! Baby star &#39;sneezes&#39; tell astronomers a lot about their development](https://www.space.com/baby-star-sneeze-energy-magnetic-field)
 - [Internal pre-Starlink SpaceX financials show big spending on moonshot bets](https://techcrunch.com/2024/04/11/internal-pre-starlink-spacex-financials-show-big-spending-on-moonshot-bets/)
-- [Walmart will deploy robotic forklifts in its distribution centers](https://techcrunch.com/2024/04/11/walmart-will-deploy-robotic-forklifts-in-its-distribution-centers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
