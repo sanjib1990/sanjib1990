@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk accused of profiting from tragedy as study finds X rewards hate targeting Israel-Gaza war](https://techcrunch.com/2024/04/11/ccdh-hate-influencer-study/)
-- [Japanese astronauts will join NASA moon landings in return for lunar rover](https://www.space.com/japan-astronauts-moon-rover-artemis-agreement)
-- [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/)
-- [Why Peter Higgs leaves a massive legacy in the field of physics](https://www.space.com/peter-higgs-passing-standard-model-lhc)
-- [Alternative browsers report uplift after EU’s DMA choice screen mandate](https://techcrunch.com/2024/04/10/eu-dma-browser-choice-screen-early-impact/)
+- [Top total solar eclipses to look out for over the next decade](https://www.space.com/next-10-years-solar-eclipses-2026-to-2034)
+- [Humane’s Ai Pin considers life beyond the smartphone](https://techcrunch.com/2024/04/11/humanes-ai-pin-considers-life-beyond-the-smartphone/)
+- [SpaceX to launch advanced weather satellite for US Space Force today](https://www.space.com/spacex-space-force-mission-launch-ussf-62)
+- [Simbian brings AI to existing security tools](https://techcrunch.com/2024/04/11/simbian-brings-ai-to-existing-security-tools/)
+- [Voltpost wants to bring curbside charging to a lamppost near you](https://techcrunch.com/2024/04/11/voltpost-charger-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
