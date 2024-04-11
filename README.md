@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US says Russian hackers stole federal government emails during Microsoft cyberattack](https://techcrunch.com/2024/04/11/us-cisa-russia-apt-29-government-email-theft-microsoft/)
+- [Introducing the ScaleUp Startups Program at Disrupt 2024 for Series A to B startups](https://techcrunch.com/2024/04/11/introducing-the-scaleup-startups-program-at-disrupt-2024-for-series-a-to-b-startups/)
+- [A NASA spacecraft spotted something weird orbiting the moon. It was just a lunar neighbor &lpar;photos&rpar;](https://www.space.com/nasa-photographs-lunar-probe-encounter)
+- [Monster star gains magnetic personality following stellar merger](https://www.space.com/monster-star-magnetic-stellar-merger)
 - [Taylor Swift’s music is back on TikTok, despite platform’s ongoing UMG dispute](https://techcrunch.com/2024/04/11/taylor-swifts-music-is-back-on-tiktok-despite-platforms-ongoing-umg-dispute/)
-- [Quibi redux? Short drama apps saw record revenue in Q1 2024](https://techcrunch.com/2024/04/11/quibi-redux-short-drama-apps-saw-record-revenue-in-q1-2024/)
-- [Megan Thee Stallion’s favorite app is Pinterest, obviously](https://techcrunch.com/2024/04/11/megan-thee-stallions-favorite-app-is-pinterest-obviously/)
-- [Car-sized asteroid is giving Earth a really, really close shave. But don&#39;t worry.](https://www.space.com/car-sized-asteroid-earth-flyby-2024)
-- [UK’s antitrust enforcer sounds the alarm over Big Tech’s grip on GenAI](https://techcrunch.com/2024/04/11/cma-genai-gamma-warning/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
