@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The complete TC Early Stage 2024 agenda is here!](https://techcrunch.com/2024/04/11/the-complete-tc-early-stage-2024-agenda-is-here/)
-- [Apple opens access to used iPhone components for repair](https://techcrunch.com/2024/04/11/apple-opens-access-to-used-iphone-components-for-repair/)
-- [Google’s Gradient backs Patlytics to help companies protect their intellectual property](https://techcrunch.com/2024/04/11/googles-gradient-backs-patytics-to-help-companies-protect-their-intellectual-property/)
-- [Stars make a bigger mess in old galaxies, and scientists just figured out why](https://www.space.com/why-stars-make-bigger-messes-old-galaxies)
-- [Top total solar eclipses to look out for over the next decade](https://www.space.com/next-10-years-solar-eclipses-2026-to-2034)
+- [DuckDuckGo launches a new subscription to bundle VPN and identity theft protection](https://techcrunch.com/2024/04/11/duckduckgo-launches-a-new-subscription-to-bundle-vpn-and-identity-theft-protection/)
+- [Space weather can make it hard to predict satellite trajectories. Here&#39;s why that&#39;s a problem](https://www.space.com/space-weather-unreliable-satellite-trajectory-predictions)
+- [European car manufacturer will pilot Sanctuary AI’s humanoid robot](https://techcrunch.com/2024/04/11/european-car-manufacturer-will-pilot-sanctuary-ais-humanoid-robot/)
+- [Meta will auto-blur nudity in Instagram DMs in latest teen safety step](https://techcrunch.com/2024/04/11/meta-will-auto-blur-nudity-in-instagram-dms-in-latest-teen-safety-step/)
+- [US government urges Sisense customers to reset credentials after hack](https://techcrunch.com/2024/04/11/cisa-government-sisense-reset-credentials-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
