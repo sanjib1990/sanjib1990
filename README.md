@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ford’s hands-free BlueCruise system was active before fatal Texas crash](https://techcrunch.com/2024/04/11/ford-bluecruise-fatal-crash-investigation-stationary-suv/)
+- [Achoo! Baby star &#39;sneezes&#39; tell astronomers a lot about their development](https://www.space.com/baby-star-sneeze-energy-magnetic-field)
 - [Internal pre-Starlink SpaceX financials show big spending on moonshot bets](https://techcrunch.com/2024/04/11/internal-pre-starlink-spacex-financials-show-big-spending-on-moonshot-bets/)
 - [Walmart will deploy robotic forklifts in its distribution centers](https://techcrunch.com/2024/04/11/walmart-will-deploy-robotic-forklifts-in-its-distribution-centers/)
 - [US says Russian hackers stole federal government emails during Microsoft cyberattack](https://techcrunch.com/2024/04/11/us-cisa-russia-apt-29-government-email-theft-microsoft/)
-- [Introducing the ScaleUp Startups Program at Disrupt 2024 for Series A to B startups](https://techcrunch.com/2024/04/11/introducing-the-scaleup-startups-program-at-disrupt-2024-for-series-a-to-b-startups/)
-- [A NASA spacecraft spotted something weird orbiting the moon. It was just a lunar neighbor &lpar;photos&rpar;](https://www.space.com/nasa-photographs-lunar-probe-encounter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
