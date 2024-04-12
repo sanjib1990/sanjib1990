@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 reasons to attend TC Early Stage 2024](https://techcrunch.com/2024/04/12/5-reasons-to-attend-tc-early-stage-2024/)
+- [Fallout and the Space Age: The franchise&#39;s connections and nods to the final frontier](https://www.space.com/fallout-and-the-space-age-connections)
+- [US think tank Heritage Foundation hit by cyberattack](https://techcrunch.com/2024/04/12/heritage-foundation-cyberattack/)
 - [Sierra Space wants to drop cargo from orbit to anywhere on Earth in 90 minutes](https://www.space.com/sierra-space-ghost-cargo-from-orbit-90-minutes)
 - [DJI Avata 2 drone review](https://www.space.com/dji-avata-2-drone-review)
-- [Scientists identify origin of the &#39;BOAT&#39; —  the brightest cosmic blast of all time](https://www.space.com/boat-brightest-cosmic-blast-of-all-time-source-massive-star-death)
-- [India’s Exponent Energy brings 15-minute charging to passenger three-wheelers](https://techcrunch.com/2024/04/12/india-exponent-energy-brings-15-minute-rapid-charging-to-passenger-three-wheelers/)
-- [Meta trials its AI chatbot across WhatsApp, Instagram and Messenger in India and Africa](https://techcrunch.com/2024/04/11/whatsapp-trials-meta-ai-chatbot-in-india-more-markets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
