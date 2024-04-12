@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: So are we all working from home now?](https://techcrunch.com/2024/04/12/startups-weekly-so-are-we-all-working-from-home-now/)
+- [Watch an exclusive clip from the CNN&#39;  &#39;Space Shuttle Columbia: The Final Flight&#39; finale &lpar;video&rpar;](https://www.space.com/space-shuttle-columbia-the-final-flight-cnn-exclusive-clip)
+- [Spotify is developing tools that would let users remix songs, screenshots show](https://techcrunch.com/2024/04/12/spotify-is-developing-tools-that-would-let-users-remix-songs-screenshots-show/)
 - [&#39;Fly Me to the Moon&#39; trailer mixes real-life Apollo history with moon landing hoax](https://www.space.com/fly-me-to-the-moon-trailer-johansson-tatum)
 - [Meta is testing an AI-powered search bar in Instagram](https://techcrunch.com/2024/04/12/meta-is-testing-an-ai-powered-search-bar-in-instagram/)
-- [HALO Space unveils capsule design for stratospheric space &#39;glamping&#39;](https://www.space.com/halo-space-stratospheric-balloon-capsule-space-tourism)
-- [A Dungeons &amp; Dragons actual play show is going to sell out Madison Square Garden](https://techcrunch.com/2024/04/12/a-dungeons-dragons-actual-play-show-is-going-to-sell-out-madison-square-garden/)
-- [Pitch Deck Teardown: Xpanceo’s $40M seed deck](https://techcrunch.com/2024/04/12/sample-seed-pitch-deck-xpanceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
