@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sierra Space wants to drop cargo from orbit to anywhere on Earth in 90 minutes](https://www.space.com/sierra-space-ghost-cargo-from-orbit-90-minutes)
 - [DJI Avata 2 drone review](https://www.space.com/dji-avata-2-drone-review)
 - [Scientists identify origin of the &#39;BOAT&#39; —  the brightest cosmic blast of all time](https://www.space.com/boat-brightest-cosmic-blast-of-all-time-source-massive-star-death)
 - [India’s Exponent Energy brings 15-minute charging to passenger three-wheelers](https://techcrunch.com/2024/04/12/india-exponent-energy-brings-15-minute-rapid-charging-to-passenger-three-wheelers/)
 - [Meta trials its AI chatbot across WhatsApp, Instagram and Messenger in India and Africa](https://techcrunch.com/2024/04/11/whatsapp-trials-meta-ai-chatbot-in-india-more-markets/)
-- [X is removing the ability to hide checkmarks for premium users](https://techcrunch.com/2024/04/11/x-is-removing-ability-to-hide-checkmarks-for-premium-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
