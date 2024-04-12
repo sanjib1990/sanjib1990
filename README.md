@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Roku says 576,000 user accounts hacked after second security incident](https://techcrunch.com/2024/04/12/roku-second-user-accounts-hacked/)
+- [One of the universe&#39;s most &#39;extreme&#39; dead stars just sprang back to life unexpectedly](https://www.space.com/the-universe/stars/one-of-the-universes-most-extreme-dead-stars-just-sprang-back-to-life-unexpectedly)
+- [TechCrunch Minute: Apple’s stance on right to repair changes with new iPhone policy](https://techcrunch.com/2024/04/12/techcrunch-minute-apples-stance-on-right-to-repair-changes-with-new-iphone-policy/)
+- [&#39;Space Shuttle Columbia: The Final Flight&#39; documentary set to conclude on CNN](https://www.space.com/space-shuttle-columbia-final-flight-cnn-documentary)
 - [SpaceX to launch a Falcon 9 rocket first stage for a record 20th time tonight](https://www.space.com/spacex-falcon-9-20th-launch-starlink-group-6-49)
-- [How Ukraine’s cyber police fights back against Russia’s hackers](https://techcrunch.com/2024/04/12/how-ukraines-cyber-police-fights-back-against-russias-hackers/)
-- [CleanFiber wants to turn millions of tons of cardboard boxes into insulation](https://techcrunch.com/2024/04/12/cleanfiber-series-b-fundraise/)
-- [Fellow steps away from its usual grind with $365 Aiden coffee machine](https://techcrunch.com/2024/04/12/home-coffee-brewing-aiden-machine-fellow/)
-- [Beeper acquired by Automattic, fintech’s decline and YC’s lack of LatAm founders](https://techcrunch.com/2024/04/12/beeper-acquired-by-automattic-fintechs-decline-and-ycs-lack-of-latam-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
