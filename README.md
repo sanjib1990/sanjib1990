@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API startup Noname Security nears $500M deal to sell itself to Akamai](https://techcrunch.com/2024/04/12/akamai-acquisition-talks-noname-security/)
 - [Tesla drops FSD price to $99 per month in US](https://techcrunch.com/2024/04/12/tesla-drops-fsd-price-to-99-per-month-in-us/)
 - [ULA chronicles the rise of Vulcan rocket in new employee-drawn comic book](https://www.space.com/ula-vulcan-rocket-ignition-comic-book)
 - [Startups Weekly: So are we all working from home now?](https://techcrunch.com/2024/04/12/startups-weekly-so-are-we-all-working-from-home-now/)
 - [Watch an exclusive clip from the CNN&#39;  &#39;Space Shuttle Columbia: The Final Flight&#39; finale &lpar;video&rpar;](https://www.space.com/space-shuttle-columbia-the-final-flight-cnn-exclusive-clip)
-- [Spotify is developing tools that would let users remix songs, screenshots show](https://techcrunch.com/2024/04/12/spotify-is-developing-tools-that-would-let-users-remix-songs-screenshots-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
