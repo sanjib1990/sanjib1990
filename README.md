@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Fly Me to the Moon&#39; trailer mixes real-life Apollo history with moon landing hoax](https://www.space.com/fly-me-to-the-moon-trailer-johansson-tatum)
+- [Meta is testing an AI-powered search bar in Instagram](https://techcrunch.com/2024/04/12/meta-is-testing-an-ai-powered-search-bar-in-instagram/)
+- [HALO Space unveils capsule design for stratospheric space &#39;glamping&#39;](https://www.space.com/halo-space-stratospheric-balloon-capsule-space-tourism)
+- [A Dungeons &amp; Dragons actual play show is going to sell out Madison Square Garden](https://techcrunch.com/2024/04/12/a-dungeons-dragons-actual-play-show-is-going-to-sell-out-madison-square-garden/)
 - [Pitch Deck Teardown: Xpanceo’s $40M seed deck](https://techcrunch.com/2024/04/12/sample-seed-pitch-deck-xpanceo/)
-- [Security engineer jailed for 3 years for $12M crypto hacks](https://techcrunch.com/2024/04/12/security-engineer-jailed-for-3-years-for-12m-crypto-hacks/)
-- [These 74 robotics companies are hiring](https://techcrunch.com/2024/04/12/these-75-robotics-companies-are-hiring/)
-- [Roku says 576,000 user accounts hacked after second security incident](https://techcrunch.com/2024/04/12/roku-second-user-accounts-hacked/)
-- [One of the universe&#39;s most &#39;extreme&#39; dead stars just sprang back to life unexpectedly](https://www.space.com/the-universe/stars/one-of-the-universes-most-extreme-dead-stars-just-sprang-back-to-life-unexpectedly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
