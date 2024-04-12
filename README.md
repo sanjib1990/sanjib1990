@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X is removing ability to hide checkmarks for premium users](https://techcrunch.com/2024/04/11/x-is-removing-ability-to-hide-checkmarks-for-premium-users/)
 - [OpenAI makes ChatGPT ‘more direct, less verbose’](https://techcrunch.com/2024/04/11/openai-makes-chatgpt-more-direct-less-verbose/)
 - [Virtual physical therapist Hinge Health lays off 10% of its workforce](https://techcrunch.com/2024/04/11/virtual-physical-therapist-hinge-health-lays-off-10-of-its-workforce/)
 - [Space Force tees up new ‘responsive space’ mission from Rocket Lab and True Anomaly](https://techcrunch.com/2024/04/11/space-force-tees-up-new-responsive-space-mission-from-rocket-lab-and-true-anomaly/)
 - [My formal 2024 solar eclipse apology](https://www.space.com/2024-solar-eclipse-apology-letter-totality-was-excellent)
-- [Ford’s hands-free BlueCruise system was active before fatal Texas crash](https://techcrunch.com/2024/04/11/ford-bluecruise-fatal-crash-investigation-stationary-suv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
