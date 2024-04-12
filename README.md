@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitch Deck Teardown: Xpanceo’s $40M seed deck](https://techcrunch.com/2024/04/12/sample-seed-pitch-deck-xpanceo/)
+- [Security engineer jailed for 3 years for $12M crypto hacks](https://techcrunch.com/2024/04/12/security-engineer-jailed-for-3-years-for-12m-crypto-hacks/)
+- [These 74 robotics companies are hiring](https://techcrunch.com/2024/04/12/these-75-robotics-companies-are-hiring/)
 - [Roku says 576,000 user accounts hacked after second security incident](https://techcrunch.com/2024/04/12/roku-second-user-accounts-hacked/)
 - [One of the universe&#39;s most &#39;extreme&#39; dead stars just sprang back to life unexpectedly](https://www.space.com/the-universe/stars/one-of-the-universes-most-extreme-dead-stars-just-sprang-back-to-life-unexpectedly)
-- [TechCrunch Minute: Apple’s stance on right to repair changes with new iPhone policy](https://techcrunch.com/2024/04/12/techcrunch-minute-apples-stance-on-right-to-repair-changes-with-new-iphone-policy/)
-- [&#39;Space Shuttle Columbia: The Final Flight&#39; documentary set to conclude on CNN](https://www.space.com/space-shuttle-columbia-final-flight-cnn-documentary)
-- [SpaceX to launch a Falcon 9 rocket first stage for a record 20th time tonight](https://www.space.com/spacex-falcon-9-20th-launch-starlink-group-6-49)
 <!-- BLOG-POST-LIST:END -->
 
 ---
