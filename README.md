@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beeper acquired by Automattic, fintech’s decline and YC’s lack of LatAm founders](https://techcrunch.com/2024/04/12/beeper-acquired-by-automattic-fintechs-decline-and-ycs-lack-of-latam-founders/)
+- [No, you didn&#39;t see a solar flare during the total eclipse — but you may have seen something just as special](https://www.space.com/no-you-didnt-see-a-solar-flare-during-the-total-eclipse-but-you-may-have-seen-something-just-as-special)
 - [5 reasons to attend TC Early Stage 2024](https://techcrunch.com/2024/04/12/5-reasons-to-attend-tc-early-stage-2024/)
 - [Fallout and the Space Age: The franchise&#39;s connections and nods to the final frontier](https://www.space.com/fallout-and-the-space-age-connections)
 - [US think tank Heritage Foundation hit by cyberattack](https://techcrunch.com/2024/04/12/heritage-foundation-cyberattack/)
-- [Sierra Space wants to drop cargo from orbit to anywhere on Earth in 90 minutes](https://www.space.com/sierra-space-ghost-cargo-from-orbit-90-minutes)
-- [DJI Avata 2 drone review](https://www.space.com/dji-avata-2-drone-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
