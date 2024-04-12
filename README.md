@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists identify origin of the &#39;BOAT&#39; —  the brightest cosmic blast of all time](https://www.space.com/boat-brightest-cosmic-blast-of-all-time-source-massive-star-death)
+- [India’s Exponent Energy brings 15-minute charging to passenger three-wheelers](https://techcrunch.com/2024/04/12/india-exponent-energy-brings-15-minute-rapid-charging-to-passenger-three-wheelers/)
 - [WhatsApp trials Meta AI chatbot in India, more markets](https://techcrunch.com/2024/04/11/whatsapp-trials-meta-ai-chatbot-in-india-more-markets/)
-- [X is removing ability to hide checkmarks for premium users](https://techcrunch.com/2024/04/11/x-is-removing-ability-to-hide-checkmarks-for-premium-users/)
+- [X is removing the ability to hide checkmarks for premium users](https://techcrunch.com/2024/04/11/x-is-removing-ability-to-hide-checkmarks-for-premium-users/)
 - [OpenAI makes ChatGPT ‘more direct, less verbose’](https://techcrunch.com/2024/04/11/openai-makes-chatgpt-more-direct-less-verbose/)
-- [Virtual physical therapist Hinge Health lays off 10% of its workforce](https://techcrunch.com/2024/04/11/virtual-physical-therapist-hinge-health-lays-off-10-of-its-workforce/)
-- [Space Force tees up new ‘responsive space’ mission from Rocket Lab and True Anomaly](https://techcrunch.com/2024/04/11/space-force-tees-up-new-responsive-space-mission-from-rocket-lab-and-true-anomaly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
