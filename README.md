@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Starship will be 500 feet tall to prepare for Mars missions, Elon Musk says &lpar;video&rpar;](https://www.space.com/spacex-starship-500-feet-tall-mars-missions-elon-musk)
 - [API startup Noname Security nears $500M deal to sell itself to Akamai](https://techcrunch.com/2024/04/12/akamai-acquisition-talks-noname-security/)
 - [Tesla drops FSD price to $99 per month in US](https://techcrunch.com/2024/04/12/tesla-drops-fsd-price-to-99-per-month-in-us/)
 - [ULA chronicles the rise of Vulcan rocket in new employee-drawn comic book](https://www.space.com/ula-vulcan-rocket-ignition-comic-book)
 - [Startups Weekly: So are we all working from home now?](https://techcrunch.com/2024/04/12/startups-weekly-so-are-we-all-working-from-home-now/)
-- [Watch an exclusive clip from the CNN&#39;  &#39;Space Shuttle Columbia: The Final Flight&#39; finale &lpar;video&rpar;](https://www.space.com/space-shuttle-columbia-the-final-flight-cnn-exclusive-clip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
