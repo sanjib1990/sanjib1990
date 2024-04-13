@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google goes all in on generative AI at Google Cloud Next](https://techcrunch.com/2024/04/13/google-goes-all-in-on-generative-ai-at-google-cloud-next/)
+- [This Week In Space podcast: Episode 106 — Space Potpourri!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-106-space-potpourri)
 - [Tiny black holes left over from the Big Bang may be prime dark matter suspects](https://www.space.com/tiny-black-holes-big-bang-prime-dark-matter-suspects)
 - [Government spyware is another reason to use an ad blocker](https://techcrunch.com/2024/04/13/government-spyware-use-ad-blocker/)
 - [&#39;You could feel the energy and wonder&#39;: Despite clouds, totality wows crowds during solar eclipse in Syracuse](https://www.space.com/totality-wows-crowds-in-syracuse)
-- [In a virtual reality universe, upcoming &#39;JUICE&#39; mission flies by Jupiter&#39;s moon Callisto](https://www.space.com/jupiter-virtual-reality-callisto-flyby-simulation)
-- [Artemis 2 Orion spacecraft starts testing ahead of moon mission with astronauts in 2025 &lpar;video&rpar;](https://www.space.com/artemis-2-orion-spacecraft-moon-astronaut-testing-nasa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
