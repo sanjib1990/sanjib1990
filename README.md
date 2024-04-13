@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In a virtual reality universe, upcoming &#39;JUICE&#39; mission flies by Jupiter&#39;s moon Callisto](https://www.space.com/jupiter-virtual-reality-callisto-flyby-simulation)
+- [Artemis 2 Orion spacecraft starts testing ahead of moon mission with astronauts in 2025 &lpar;video&rpar;](https://www.space.com/artemis-2-orion-spacecraft-moon-astronaut-testing-nasa)
 - [SpaceX Starship will be 500 feet tall to prepare for Mars missions, Elon Musk says &lpar;video&rpar;](https://www.space.com/spacex-starship-500-feet-tall-mars-missions-elon-musk)
-- [API startup Noname Security nears $500M deal to sell itself to Akamai](https://techcrunch.com/2024/04/12/akamai-acquisition-talks-noname-security/)
-- [Tesla drops FSD price to $99 per month in US](https://techcrunch.com/2024/04/12/tesla-drops-fsd-price-to-99-per-month-in-us/)
 - [ULA chronicles the rise of Vulcan rocket in new employee-drawn comic book](https://www.space.com/ula-vulcan-rocket-ignition-comic-book)
-- [Startups Weekly: So are we all working from home now?](https://techcrunch.com/2024/04/12/startups-weekly-so-are-we-all-working-from-home-now/)
+- [Watch an exclusive clip from the CNN&#39;  &#39;Space Shuttle Columbia: The Final Flight&#39; finale &lpar;video&rpar;](https://www.space.com/space-shuttle-columbia-the-final-flight-cnn-exclusive-clip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
