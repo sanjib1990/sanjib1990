@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Naval Ravikant’s Airchat is a social app built around talk, not text](https://techcrunch.com/2024/04/13/airchat-launch/)
 - [Vana plans to let users rent out their Reddit data to train AI](https://techcrunch.com/2024/04/13/vana-plans-to-let-users-rent-out-their-reddit-data-to-train-ai/)
 - [Deal Dive: Not all climate startups are focused on carbon](https://techcrunch.com/2024/04/13/deal-dive-not-all-climate-startups-are-focused-on-carbon/)
 - [Google goes all in on generative AI at Google Cloud Next](https://techcrunch.com/2024/04/13/google-goes-all-in-on-generative-ai-at-google-cloud-next/)
 - [This Week In Space podcast: Episode 106 — Space Potpourri!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-106-space-potpourri)
-- [Tiny black holes left over from the Big Bang may be prime dark matter suspects](https://www.space.com/tiny-black-holes-big-bang-prime-dark-matter-suspects)
 <!-- BLOG-POST-LIST:END -->
 
 ---
