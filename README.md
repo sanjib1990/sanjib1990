@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI is coming for healthcare, and not everyone’s thrilled](https://techcrunch.com/2024/04/14/generative-ai-is-coming-for-healthcare-and-not-everyones-thrilled/)
-- [This little robot can hop in zero-gravity to explore asteroids](https://www.space.com/spacehopper-robot-explore-asteroids-zero-gravity)
-- [Tesla drops prices, Meta confirms Llama 3 release, and Apple allows emulators in the App Store](https://techcrunch.com/2024/04/13/tesla-drops-prices-meta-confirms-llama-3-release-and-apple-allows-emulators-in-the-app-store/)
-- [Naval Ravikant’s Airchat is a social app built around talk, not text](https://techcrunch.com/2024/04/13/airchat-launch/)
-- [Vana plans to let users rent out their Reddit data to train AI](https://techcrunch.com/2024/04/13/vana-plans-to-let-users-rent-out-their-reddit-data-to-train-ai/)
+- [TechCrunch Mobility: Cruise robotaxis return and Ford’s BlueCruise comes under scrutiny](https://techcrunch.com/2024/04/14/techcrunch-mobility-04-14-24/)
+- [How Neural Concept’s aerodynamic AI is shaping Formula 1](https://techcrunch.com/2024/04/14/how-neural-concepts-aerodynamic-ai-is-shaping-formula-one/)
+- [Nuclear fusion reactor in South Korea runs at 100 million degrees C for a record-breaking 48 seconds](https://www.space.com/nuclear-fusion-reactor-south-korea-runs-48-seconds)
+- [1st female ISS program manager looks ahead to new spaceships, space stations &lpar;exclusive&rpar;](https://www.space.com/1st-female-iss-program-manager-spaceships-space-stations)
+- [TechCrunch Fintech: Meet PayJoy, a fintech operating at the intersection of doing good and making money](https://techcrunch.com/2024/04/14/when-doing-good-and-making-money-collide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
