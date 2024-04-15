@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta to close Threads in Turkey to comply with injunction prohibiting data-sharing with Instagram](https://techcrunch.com/2024/04/15/meta-to-close-threads-in-turkey-to-comply-with-injunction-prohibiting-data-sharing-with-instagram/)
-- [Why I watched the solar eclipse with my kids, a goose and 2,000 trees](https://www.space.com/solar-eclipse-view-with-kids-goose-trees)
-- [Tesla is laying off more than 10% of its global workforce](https://techcrunch.com/2024/04/15/tesla-layoffs-workers-sales-cybertruck-cuts/)
-- [Lawhive raises $12M to expand its legaltech AI platform for small firms](https://techcrunch.com/2024/04/15/lawhive-raises-12m-to-expand-its-legaltech-ai-platform-for-small-firms/)
-- [Celestron SkyMaster Pro 20x80 review](https://www.space.com/celestron-skymaster-pro-20x80-review)
+- [Paraform raises $3.6M seed round to connect startups with recruiter networks](https://techcrunch.com/2024/04/15/paraform-a-recruiting-platform-that-connects-recruiters-and-startups-raises-funding/)
+- [Adobe’s working on generative video, too](https://techcrunch.com/2024/04/15/adobes-working-on-generative-video-too/)
+- [Draftboard lets companies list referral bonuses for anyone](https://techcrunch.com/2024/04/15/draftboard-lets-companies-list-referral-bonuses-for-anyone/)
+- [Superfast drone fitted with new &#39;rotating detonation rocket engine&#39; approaches the speed of sound](https://www.space.com/hypersonic-drone-test-flight-rotating-detonation-rocket-engine)
+- [Meta’s ‘consent or pay’ tactic must not prevail over privacy, EU rights groups warn](https://techcrunch.com/2024/04/15/consent-or-pay-open-letter-edpb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
