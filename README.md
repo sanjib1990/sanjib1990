@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: Where the Apple Vision Pro stands now the launch day hype has dropped off](https://techcrunch.com/2024/04/15/techcrunch-minute-where-the-apple-vision-pro-stands-now-the-launch-day-hype-has-dropped-off/)
+- [Do black holes hide the secrets of their ancestors?](https://www.space.com/black-holes-ancestors-secrets-space-mysteries)
 - [Investors are growing increasingly wary of AI](https://techcrunch.com/2024/04/15/investors-are-growing-increasingly-wary-of-ai/)
 - [&#39;Star Trek: Discovery&#39; season 5 episode 3 &#39;Jinaal&#39; is a slow but steady affair](https://www.space.com/star-trek-discovery-season-5-episode-3-recap)
 - [Tesla execs Drew Baglino and Rohan Patel leave as company lays off 10%](https://techcrunch.com/2024/04/15/tesla-layoffs-workers-sales-cybertruck-cuts/)
-- [OpenAI plans new Tokyo office, Tesla lays offs thousands](https://techcrunch.com/2024/04/15/openai-plans-new-tokyo-office-tesla-lays-offs-thousands/)
-- [Jio Financial, BlackRock form JV for wealth management and broking in India](https://techcrunch.com/2024/04/15/jio-financial-blackrock-form-jv-for-wealth-management-and-broking-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
