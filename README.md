@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Mars sample return plan is getting a major overhaul: &#39;The bottom line is $11 billion is too expensive&#39;](https://www.space.com/nasa-revamp-mars-sample-return-plan)
+- [Meta thinks it’s a good idea for students to wear Quest headsets in class](https://techcrunch.com/2024/04/15/meta-quest-educational-product-for-schools-students/)
+- [A ransomware gang is leaking Change Healthcare’s stolen patient data](https://techcrunch.com/2024/04/15/ransomhub-change-healthcare-stolen-patient-data/)
+- [Open-source Substack rival Ghost may join the fediverse](https://techcrunch.com/2024/04/15/open-source-substack-rival-ghost-may-join-the-fediverse/)
 - [Elon Musk plans to charge new X users to enable posting](https://techcrunch.com/2024/04/15/elon-musk-plans-to-charge-new-x-users-to-enable-posting/)
-- [NASA astronaut Loral O&#39;Hara missed the total solar eclipse, but saw Earth &#39;moving&#39; below her during spacewalk &lpar;photos&rpar;](https://www.space.com/nasa-astronaut-loral-o-hara-solar-eclipse-spacewalk)
-- [PVML combines an AI-centric data access and analysis platform with differential privacy](https://techcrunch.com/2024/04/15/pvml-combines-an-ai-centric-data-access-and-analysis-platform-with-differential-privacy/)
-- [These 3 stars are losing weight fast — thanks to stellar winds way stronger than the sun&#39;s](https://www.space.com/sun-like-stars-solar-wind-stellar-mass-loss)
-- [Apple pulls a Game Boy emulator for App Store violations, but says game emulators are allowed](https://techcrunch.com/2024/04/15/apple-pulls-a-game-boy-emulator-for-app-store-violations-but-says-game-emulators-are-allowed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
