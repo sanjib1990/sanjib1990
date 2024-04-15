@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pula raises $20M Series B to provide agricultural insurance to farmers in Africa, Asia and LatAm](https://techcrunch.com/2024/04/14/pula-raises-20m-series-b/)
 - [TechCrunch Mobility: Cruise robotaxis return and Ford’s BlueCruise comes under scrutiny](https://techcrunch.com/2024/04/14/techcrunch-mobility-04-14-24/)
 - [How Neural Concept’s aerodynamic AI is shaping Formula 1](https://techcrunch.com/2024/04/14/how-neural-concepts-aerodynamic-ai-is-shaping-formula-one/)
 - [Nuclear fusion reactor in South Korea runs at 100 million degrees C for a record-breaking 48 seconds](https://www.space.com/nuclear-fusion-reactor-south-korea-runs-48-seconds)
 - [1st female ISS program manager looks ahead to new spaceships, space stations &lpar;exclusive&rpar;](https://www.space.com/1st-female-iss-program-manager-spaceships-space-stations)
-- [TechCrunch Fintech: Meet PayJoy, a fintech operating at the intersection of doing good and making money](https://techcrunch.com/2024/04/14/when-doing-good-and-making-money-collide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
