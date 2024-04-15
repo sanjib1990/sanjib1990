@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kode Labs makes a bid to become the Salesforce of commercial building automation](https://techcrunch.com/2024/04/15/kode-labs-series-b-exclusive/)
-- [Tesla exec Drew Baglino reportedly out as company lays off 10%](https://techcrunch.com/2024/04/15/tesla-layoffs-workers-sales-cybertruck-cuts/)
-- [Paraform raises $3.6M seed round to connect startups with recruiter networks](https://techcrunch.com/2024/04/15/paraform-a-recruiting-platform-that-connects-recruiters-and-startups-raises-funding/)
-- [Adobe’s working on generative video, too](https://techcrunch.com/2024/04/15/adobes-working-on-generative-video-too/)
-- [Draftboard lets companies list referral bonuses for anyone](https://techcrunch.com/2024/04/15/draftboard-lets-companies-list-referral-bonuses-for-anyone/)
+- [Investors are growing increasingly wary of AI](https://techcrunch.com/2024/04/15/investors-are-growing-increasingly-wary-of-ai/)
+- [&#39;Star Trek: Discovery&#39; season 5 episode 3 &#39;Jinaal&#39; is a slow but steady affair](https://www.space.com/star-trek-discovery-season-5-episode-3-recap)
+- [Tesla execs Drew Baglino and Rohan Patel leave as company lays off 10%](https://techcrunch.com/2024/04/15/tesla-layoffs-workers-sales-cybertruck-cuts/)
+- [OpenAI plans new Tokyo office, Tesla lays offs thousands](https://techcrunch.com/2024/04/15/openai-plans-new-tokyo-office-tesla-lays-offs-thousands/)
+- [Jio Financial, BlackRock form JV for wealth management and broking in India](https://techcrunch.com/2024/04/15/jio-financial-blackrock-form-jv-for-wealth-management-and-broking-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
