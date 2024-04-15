@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kode Labs makes a bid to become the Salesforce of commercial building automation](https://techcrunch.com/2024/04/15/kode-labs-series-b-exclusive/)
+- [Tesla exec Drew Baglino reportedly out as company lays off 10%](https://techcrunch.com/2024/04/15/tesla-layoffs-workers-sales-cybertruck-cuts/)
 - [Paraform raises $3.6M seed round to connect startups with recruiter networks](https://techcrunch.com/2024/04/15/paraform-a-recruiting-platform-that-connects-recruiters-and-startups-raises-funding/)
 - [Adobe’s working on generative video, too](https://techcrunch.com/2024/04/15/adobes-working-on-generative-video-too/)
 - [Draftboard lets companies list referral bonuses for anyone](https://techcrunch.com/2024/04/15/draftboard-lets-companies-list-referral-bonuses-for-anyone/)
-- [Superfast drone fitted with new &#39;rotating detonation rocket engine&#39; approaches the speed of sound](https://www.space.com/hypersonic-drone-test-flight-rotating-detonation-rocket-engine)
-- [Meta’s ‘consent or pay’ tactic must not prevail over privacy, EU rights groups warn](https://techcrunch.com/2024/04/15/consent-or-pay-open-letter-edpb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
