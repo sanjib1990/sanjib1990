@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venus is leaking carbon and oxygen, a fleeting visit by BepiColombo reveals](https://www.space.com/bepicolombo-carbon-oxygen-venus-space-mission)
+- [I flew Boeing&#39;s Starliner spacecraft in 4 different simulators. Here&#39;s what I learned &lpar;video, photos&rpar;](https://www.space.com/boeing-starliner-simulators-nasa-lessons-learned)
 - [NASA&#39;s Mars sample return plan is getting a major overhaul: &#39;The bottom line is $11 billion is too expensive&#39;](https://www.space.com/nasa-revamp-mars-sample-return-plan)
 - [Meta thinks it’s a good idea for students to wear Quest headsets in class](https://techcrunch.com/2024/04/15/meta-quest-educational-product-for-schools-students/)
-- [A ransomware gang is leaking Change Healthcare’s stolen patient data](https://techcrunch.com/2024/04/15/ransomhub-change-healthcare-stolen-patient-data/)
-- [Open-source Substack rival Ghost may join the fediverse](https://techcrunch.com/2024/04/15/open-source-substack-rival-ghost-may-join-the-fediverse/)
-- [Elon Musk plans to charge new X users to enable posting](https://techcrunch.com/2024/04/15/elon-musk-plans-to-charge-new-x-users-to-enable-posting/)
+- [Change Healthcare stolen patient data leaked by ransomware gang](https://techcrunch.com/2024/04/15/change-healthcare-stolen-patient-data-ransomhub-leak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
