@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta to close Threads in Turkey to comply with injunction prohibiting data-sharing with Instagram](https://techcrunch.com/2024/04/15/meta-to-close-threads-in-turkey-to-comply-with-injunction-prohibiting-data-sharing-with-instagram/)
+- [Why I watched the solar eclipse with my kids, a goose and 2,000 trees](https://www.space.com/solar-eclipse-view-with-kids-goose-trees)
+- [Tesla is laying off more than 10% of its global workforce](https://techcrunch.com/2024/04/15/tesla-layoffs-workers-sales-cybertruck-cuts/)
 - [Lawhive raises $12M to expand its legaltech AI platform for small firms](https://techcrunch.com/2024/04/15/lawhive-raises-12m-to-expand-its-legaltech-ai-platform-for-small-firms/)
 - [Celestron SkyMaster Pro 20x80 review](https://www.space.com/celestron-skymaster-pro-20x80-review)
-- [Rocket Lab to launch NASA&#39;s new solar sail technology no earlier than April 24](https://www.space.com/rocket-lab-nasa-solar-sail-technology-launch)
-- [Bluesky now allows heads of states to sign up for the social network](https://techcrunch.com/2024/04/15/bluesky-now-allows-heads-of-states-to-sign-up-for-the-social-network/)
-- [OpenAI opens Tokyo hub, adds GPT-4 model optimized for Japanese](https://techcrunch.com/2024/04/15/openai-announces-tokyo-office-and-gpt-4-model-optimized-for-the-japanese-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
