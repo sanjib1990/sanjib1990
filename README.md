@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Object that slammed into Florida home was indeed space junk from ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
+- [TechCrunch Space: True Anomaly and Rocket Lab will make big moves on orbit &lpar;literally&rpar;](https://techcrunch.com/2024/04/15/techcrunch-space-true-anomaly-and-rocket-lab-will-make-big-moves-on-orbit-literally/)
 - [Venus is leaking carbon and oxygen, a fleeting visit by BepiColombo reveals](https://www.space.com/bepicolombo-carbon-oxygen-venus-space-mission)
 - [I flew Boeing&#39;s Starliner spacecraft in 4 different simulators. Here&#39;s what I learned &lpar;video, photos&rpar;](https://www.space.com/boeing-starliner-simulators-nasa-lessons-learned)
 - [NASA&#39;s Mars sample return plan is getting a major overhaul: &#39;The bottom line is $11 billion is too expensive&#39;](https://www.space.com/nasa-revamp-mars-sample-return-plan)
-- [Meta thinks it’s a good idea for students to wear Quest headsets in class](https://techcrunch.com/2024/04/15/meta-quest-educational-product-for-schools-students/)
-- [Change Healthcare stolen patient data leaked by ransomware gang](https://techcrunch.com/2024/04/15/change-healthcare-stolen-patient-data-ransomhub-leak/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
