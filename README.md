@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk plans to charge new X users to enable posting](https://techcrunch.com/2024/04/15/elon-musk-plans-to-charge-new-x-users-to-enable-posting/)
+- [NASA astronaut Loral O&#39;Hara missed the total solar eclipse, but saw Earth &#39;moving&#39; below her during spacewalk &lpar;photos&rpar;](https://www.space.com/nasa-astronaut-loral-o-hara-solar-eclipse-spacewalk)
+- [PVML combines an AI-centric data access and analysis platform with differential privacy](https://techcrunch.com/2024/04/15/pvml-combines-an-ai-centric-data-access-and-analysis-platform-with-differential-privacy/)
 - [These 3 stars are losing weight fast — thanks to stellar winds way stronger than the sun&#39;s](https://www.space.com/sun-like-stars-solar-wind-stellar-mass-loss)
 - [Apple pulls a Game Boy emulator for App Store violations, but says game emulators are allowed](https://techcrunch.com/2024/04/15/apple-pulls-a-game-boy-emulator-for-app-store-violations-but-says-game-emulators-are-allowed/)
-- [Space-based solar power may be one step closer to reality, thanks to this key test &lpar;video&rpar;](https://www.space.com/space-based-solar-power-technology-demonstration)
-- [TechCrunch Minute: Where the Apple Vision Pro stands now the launch day hype has dropped off](https://techcrunch.com/2024/04/15/techcrunch-minute-where-the-apple-vision-pro-stands-now-the-launch-day-hype-has-dropped-off/)
-- [Do black holes hide the secrets of their ancestors?](https://www.space.com/black-holes-ancestors-secrets-space-mysteries)
 <!-- BLOG-POST-LIST:END -->
 
 ---
