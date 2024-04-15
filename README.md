@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab to launch NASA&#39;s new solar sail technology no earlier than April 24](https://www.space.com/rocket-lab-nasa-solar-sail-technology-launch)
+- [Bluesky now allows heads of states to sign up for the social network](https://techcrunch.com/2024/04/15/bluesky-now-allows-heads-of-states-to-sign-up-for-the-social-network/)
+- [OpenAI opens Tokyo hub, adds GPT-4 model optimized for Japanese](https://techcrunch.com/2024/04/15/openai-announces-tokyo-office-and-gpt-4-model-optimized-for-the-japanese-language/)
 - [ShareChat’s valuation drops below $2 billion in new funding](https://techcrunch.com/2024/04/14/sharechats-valuation-drops-below-2-billion-in-new-funding/)
 - [Pula raises $20M Series B to provide agricultural insurance to farmers in Africa, Asia and LatAm](https://techcrunch.com/2024/04/14/pula-raises-20m-series-b/)
-- [TechCrunch Mobility: Cruise robotaxis return and Ford’s BlueCruise comes under scrutiny](https://techcrunch.com/2024/04/14/techcrunch-mobility-04-14-24/)
-- [How Neural Concept’s aerodynamic AI is shaping Formula 1](https://techcrunch.com/2024/04/14/how-neural-concepts-aerodynamic-ai-is-shaping-formula-one/)
-- [Nuclear fusion reactor in South Korea runs at 100 million degrees C for a record-breaking 48 seconds](https://www.space.com/nuclear-fusion-reactor-south-korea-runs-48-seconds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
