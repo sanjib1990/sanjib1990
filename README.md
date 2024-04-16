@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors and founders can meet their match with Cherub, the ‘Raya of angel investing’](https://techcrunch.com/2024/04/16/cherub-the-raya-of-angel-investing-is-reinventing-angel-rounds-with-a-950-subscription/)
+- [Consumer tech investing is still hot for Maven Ventures, securing $60M for Fund IV](https://techcrunch.com/2024/04/16/consumer-tech-investing-maven-ventures-60m-fund-iv/)
+- [TechCrunch Minute: Why Tesla’s big layoffs happened, and what comes next](https://techcrunch.com/2024/04/16/techcrunch-minute-why-teslas-big-layoffs-happened-and-what-comes-next/)
+- [Silicon Valley prankster Danielle Baskin launches Moonlight, an online tarot platform](https://techcrunch.com/2024/04/16/silicon-valley-prankster-danielle-baskin-launches-moonlight-an-online-tarot-platform/)
 - [Substack’s Notes feature is getting more Twitter-like capabilities](https://techcrunch.com/2024/04/16/substacks-notes-feature-is-getting-more-twitter-like-capabilities/)
-- [WhatsApp is adding filters to easily find messages](https://techcrunch.com/2024/04/16/whatsapp-is-adding-filters-to-easily-find-messages/)
-- [Will the constellations ever change?](https://www.space.com/will-the-constellations-ever-change-space-mysteries)
-- [Loft Labs brings power of virtualization to Kubernetes clusters](https://techcrunch.com/2024/04/16/loft-labs-brings-power-of-virtualization-to-kubernetes-clusters/)
-- [Omni Hotels says customers’ personal data stolen in ransomware attack](https://techcrunch.com/2024/04/16/omni-hotels-customer-data-stolen-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
