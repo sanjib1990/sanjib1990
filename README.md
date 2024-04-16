@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Chairs raises $72M Series C in equity and debt to scale its therapist network](https://techcrunch.com/2024/04/16/two-chairs-raises-72m-series-c-in-equity-and-debt-to-scale-its-therapist-network/)
 - [Meta’s Oversight Board probes explicit AI-generated images posted on Instagram and Facebook](https://techcrunch.com/2024/04/16/metas-oversight-board-probes-explicit-ai-generated-images-posted-on-instagram-and-facebook/)
+- [Apple lawsuit behind it, chip startup Rivos plots its next moves](https://techcrunch.com/2024/04/16/apple-lawsuit-behind-it-chip-startup-rivos-plots-its-next-moves/)
 - [Record breaker! Milky Way&#39;s most monstrous stellar-mass black hole is sleeping giant lurking close to Earth](https://www.space.com/milky-way-biggest-stellar-mass-black-hole-gaia)
 - [Quilt rides heat pump heat wave with hefty $33M Series A](https://techcrunch.com/2024/04/16/quilt-heat-pump-series-a/)
-- [Google Wallet appears in India, with local integrations, but Pay will stay](https://techcrunch.com/2024/04/16/google-wallet-india-launch/)
-- [Microsoft’s $1.5B funding for G42 signals growing US-China rift](https://techcrunch.com/2024/04/16/microsofts-1-5b-check-for-g42-shows-growing-us-china-rift/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
