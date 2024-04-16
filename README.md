@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dark energy could be getting weaker, suggesting the universe will end in a &#39;Big Crunch&#39;](https://www.space.com/desi-cosmological-constant-dark-energy-history)
-- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Two Chairs raises $72M Series C in equity and debt to scale its therapist network](https://techcrunch.com/2024/04/16/two-chairs-raises-72m-series-c-in-equity-and-debt-to-scale-its-therapist-network/)
-- [Meta’s Oversight Board probes explicit AI-generated images posted on Instagram and Facebook](https://techcrunch.com/2024/04/16/metas-oversight-board-probes-explicit-ai-generated-images-posted-on-instagram-and-facebook/)
-- [Apple lawsuit behind it, chip startup Rivos plots its next moves](https://techcrunch.com/2024/04/16/apple-lawsuit-behind-it-chip-startup-rivos-plots-its-next-moves/)
+- [James Webb Space Telescope full-size model to be displayed by Space Foundation](https://www.space.com/james-webb-space-telescope-full-scale-model-space-foundation)
+- [SOSV founder says climate investing is a ‘war effort’ as firm closes $306M fund](https://techcrunch.com/2024/04/16/sosv-new-deep-tech-fund/)
+- [GovDash aims to help businesses use AI to land government contracts](https://techcrunch.com/2024/04/16/govdash-aims-to-help-businesses-use-ai-to-land-government-contracts/)
+- [Indaband’s new app lets you create music with people around the world](https://techcrunch.com/2024/04/16/indabands-new-app-lets-you-create-music-with-people-around-the-world/)
+- [Learn how to master cap table management with Fidelity Private Shares](https://techcrunch.com/2024/04/16/mastering-cap-table-management-essential-insights-for-fundraising-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
