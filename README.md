@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Starliner spacecraft rolls out to Atlas V rocket ahead of 1st astronaut launch &lpar;photos&rpar;](https://www.space.com/boeing-starliner-spacecraft-rollout-integration-rocket-astronaut-spaceflight)
+- [A crypto wallet maker’s warning about an iMessage bug sounds like a false alarm](https://techcrunch.com/2024/04/16/a-crypto-wallet-makers-warning-about-an-imessage-bug-sounds-like-a-false-alarm/)
 - [&#39;Star Trek: Lower Decks&#39; Season 4 blasts onto Blu-ray and DVD on April 16](https://www.space.com/entertainment/star-trek-lower-decks-season-4-blasts-onto-blu-ray-and-dvd-on-april-16)
 - [Trump’s Truth Social plans to launch a live TV streaming platform](https://techcrunch.com/2024/04/16/trumps-truth-social-plans-to-launch-a-live-tv-streaming-platform/)
 - [Betaworks bets on AI agents in latest ‘Camp’ cohort](https://techcrunch.com/2024/04/16/betaworks-bets-on-ai-agents-in-latest-camp-cohort/)
-- [Apple will now let users in the EU download apps through web sites, not just the App Store](https://techcrunch.com/2024/04/16/apple-web-distribution-ios/)
-- [Monster black hole seen feeding on nearby matter just 1 billion years after Big Bang &lpar;photos&rpar;](https://www.space.com/supermassive-black-hole-quasar-record-breaking-observation-virtual-telescope-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
