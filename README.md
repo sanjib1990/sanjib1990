@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kickstarter launches pre-orders for completed campaigns](https://techcrunch.com/2024/04/16/kickstarter-late-pledges/)
+- [Exotic &#39;Einstein ring&#39; suggests that mysterious dark matter interacts with itself](https://www.space.com/dark-matter-interactions-distant-einstein-ring-jwst)
+- [Intel and others commit to building open generative AI tools for the enterprise](https://techcrunch.com/2024/04/16/intel-and-others-commit-to-building-open-generative-ai-tools-for-the-enterprise/)
 - [Boeing Starliner spacecraft rolls out to Atlas V rocket ahead of 1st astronaut launch &lpar;photos&rpar;](https://www.space.com/boeing-starliner-spacecraft-rollout-integration-rocket-astronaut-spaceflight)
 - [A crypto wallet maker’s warning about an iMessage bug sounds like a false alarm](https://techcrunch.com/2024/04/16/a-crypto-wallet-makers-warning-about-an-imessage-bug-sounds-like-a-false-alarm/)
-- [&#39;Star Trek: Lower Decks&#39; Season 4 blasts onto Blu-ray and DVD on April 16](https://www.space.com/entertainment/star-trek-lower-decks-season-4-blasts-onto-blu-ray-and-dvd-on-april-16)
-- [Trump’s Truth Social plans to launch a live TV streaming platform](https://techcrunch.com/2024/04/16/trumps-truth-social-plans-to-launch-a-live-tv-streaming-platform/)
-- [Betaworks bets on AI agents in latest ‘Camp’ cohort](https://techcrunch.com/2024/04/16/betaworks-bets-on-ai-agents-in-latest-camp-cohort/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
