@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlas shrugged: Boston Dynamics retires its hydraulic humanoid robot](https://techcrunch.com/2024/04/16/atlas-shrugged-boston-dynamics-retires-its-humanoid-robot/)
+- [Switzerland signs Artemis Accords to join NASA in moon exploration](https://www.space.com/nasa-artemis-accords-switzerland-signing)
+- [Amazon Music follows Spotify with an AI playlist generator of its own, Maestro](https://techcrunch.com/2024/04/16/amazon-music-follows-spotify-with-an-ai-playlist-generator-of-its-own-maestro/)
 - [James Webb Space Telescope full-size model to be displayed by Space Foundation](https://www.space.com/james-webb-space-telescope-full-scale-model-space-foundation)
 - [SOSV founder says climate investing is a ‘war effort’ as firm closes $306M fund](https://techcrunch.com/2024/04/16/sosv-new-deep-tech-fund/)
-- [GovDash aims to help businesses use AI to land government contracts](https://techcrunch.com/2024/04/16/govdash-aims-to-help-businesses-use-ai-to-land-government-contracts/)
-- [Indaband’s new app lets you create music with people around the world](https://techcrunch.com/2024/04/16/indabands-new-app-lets-you-create-music-with-people-around-the-world/)
-- [Learn how to master cap table management with Fidelity Private Shares](https://techcrunch.com/2024/04/16/mastering-cap-table-management-essential-insights-for-fundraising-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
