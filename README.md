@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Investors and founders can meet their match with Cherub, the ‘Raya of angel investing’](https://techcrunch.com/2024/04/16/cherub-the-raya-of-angel-investing-is-reinventing-angel-rounds-with-a-950-subscription/)
-- [Consumer tech investing is still hot for Maven Ventures, securing $60M for Fund IV](https://techcrunch.com/2024/04/16/consumer-tech-investing-maven-ventures-60m-fund-iv/)
-- [TechCrunch Minute: Why Tesla’s big layoffs happened, and what comes next](https://techcrunch.com/2024/04/16/techcrunch-minute-why-teslas-big-layoffs-happened-and-what-comes-next/)
-- [Silicon Valley prankster Danielle Baskin launches Moonlight, an online tarot platform](https://techcrunch.com/2024/04/16/silicon-valley-prankster-danielle-baskin-launches-moonlight-an-online-tarot-platform/)
-- [Substack’s Notes feature is getting more Twitter-like capabilities](https://techcrunch.com/2024/04/16/substacks-notes-feature-is-getting-more-twitter-like-capabilities/)
+- [Betaworks bets on AI agents in latest ‘Camp’ cohort](https://techcrunch.com/2024/04/16/betaworks-bets-on-ai-agents-in-latest-camp-cohort/)
+- [Apple opens web distribution option for iOS devs targeting EU](https://techcrunch.com/2024/04/16/apple-web-distribution-ios/)
+- [Monster black hole seen feeding on nearby matter just 1 billion years after Big Bang &lpar;photos&rpar;](https://www.space.com/supermassive-black-hole-quasar-record-breaking-observation-virtual-telescope-project)
+- [Bay Bridge Ventures is raising $200M for a new climate fund, filings show](https://techcrunch.com/2024/04/16/bay-bridge-ventures-climate-fund/)
+- [Evolution Equity Partners raises $1.1B for new cybersecurity and AI fund](https://techcrunch.com/2024/04/16/evolution-equity-partners-raises-1-1b-for-new-cybersecurity-and-ai-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
