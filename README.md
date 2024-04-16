@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft’s $1.5B check for G42 shows growing US-China rift](https://techcrunch.com/2024/04/16/microsofts-1-5b-check-for-g42-shows-growing-us-china-rift/)
-- [Finmid raises $24.7M to help SMBs access loans through platforms like Wolt](https://techcrunch.com/2024/04/15/finmid-wolt-smbs-loans/)
-- [Big Tech’s ad transparency tools are still woeful, Mozilla research report finds](https://techcrunch.com/2024/04/15/mozilla-checkfirst-ads-transparency-report/)
-- [Threads is finally testing a recent filter for search results](https://techcrunch.com/2024/04/15/threads-is-finally-testing-a-recent-filter-for-search-results/)
-- [The 2024 solar eclipse was a teachable moment in more ways than one](https://www.space.com/total-solar-eclipse-2024-teachable-moment-suny-potsdam-university)
+- [Meta’s Oversight Board probes explicit AI-generated images posted on Instagram and Facebook](https://techcrunch.com/2024/04/16/metas-oversight-board-probes-explicit-ai-generated-images-posted-on-instagram-and-facebook/)
+- [Record breaker! Milky Way&#39;s most monstrous stellar-mass black hole is sleeping giant lurking close to Earth](https://www.space.com/milky-way-biggest-stellar-mass-black-hole-gaia)
+- [Quilt rides heat pump heat wave with hefty $33M Series A](https://techcrunch.com/2024/04/16/quilt-heat-pump-series-a/)
+- [Google Wallet appears in India, with local integrations, but Pay will stay](https://techcrunch.com/2024/04/16/google-wallet-india-launch/)
+- [Microsoft’s $1.5B funding for G42 signals growing US-China rift](https://techcrunch.com/2024/04/16/microsofts-1-5b-check-for-g42-shows-growing-us-china-rift/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
