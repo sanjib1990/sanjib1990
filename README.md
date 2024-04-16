@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former top SpaceX exec Tom Ochinero sets up new VC firm, filings reveal](https://techcrunch.com/2024/04/16/former-top-spacex-exec-tom-ochinero-sets-up-new-vc-firm-filings-reveal/)
+- [FLO is improving EV charging infrastructure](https://techcrunch.com/2024/04/16/flo-is-improving-ev-charging-infrastructure/)
+- [What&#39;s left of the 2024 solar eclipse lives in our hearts](https://www.space.com/total-solar-eclipse-2024-indiana-memories)
+- [Waymo begins robotaxi testing in Atlanta](https://techcrunch.com/2024/04/16/waymo-begins-robotaxi-testing-in-atlanta/)
 - [Uranus and Neptune aren&#39;t made of what we thought, new study hints](https://www.space.com/uranus-neptune-less-water-more-frozen-methane-formation-mystery)
-- [Tesla ditches EV inventory discounts to ‘streamline’ sales and delivery](https://techcrunch.com/2024/04/16/tesla-ditches-ev-inventory-discounts-to-streamline-sales-and-delivery/)
-- [HR startup Rippling is in discussions to raise at a $13.4B valuation, up from $11.25B](https://techcrunch.com/2024/04/16/hr-startup-rippling-is-in-discussions-to-raise-at-a-13-4b-valuation-up-from-11-25b/)
-- [Space startups are licking their lips after NASA converts $11B Mars mission into a free-for-all](https://techcrunch.com/2024/04/16/space-startups-licking-their-lips-after-nasa-converts-11b-mars-mission-into-a-free-for-all/)
-- [Kickstarter launches pre-orders for completed campaigns](https://techcrunch.com/2024/04/16/kickstarter-late-pledges/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
