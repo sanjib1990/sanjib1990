@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2024 solar eclipse was a teachable moment in more ways than one](https://www.space.com/total-solar-eclipse-2024-teachable-moment-suny-potsdam-university)
+- [Iconic British meteorite &#39;Winchcombe&#39; found to have a smashing past](https://www.space.com/winchcombe-meteorite-asteroid-water-smashed-apart)
 - [Tesla layoffs hit high performers, some departments slashed, sources say](https://techcrunch.com/2024/04/15/tesla-layoffs-hit-high-performers-slashes-some-departments-sources-say/)
 - [Object that slammed into Florida home was indeed space junk from ISS, NASA confirms](https://www.space.com/object-crash-florida-home-iss-space-junk-nasa-confirms)
 - [TechCrunch Space: True Anomaly and Rocket Lab will make big moves on orbit &lpar;literally&rpar;](https://techcrunch.com/2024/04/15/techcrunch-space-true-anomaly-and-rocket-lab-will-make-big-moves-on-orbit-literally/)
-- [Venus is leaking carbon and oxygen, a fleeting visit by BepiColombo reveals](https://www.space.com/bepicolombo-carbon-oxygen-venus-space-mission)
-- [I flew Boeing&#39;s Starliner spacecraft in 4 different simulators. Here&#39;s what I learned &lpar;video, photos&rpar;](https://www.space.com/boeing-starliner-simulators-nasa-lessons-learned)
 <!-- BLOG-POST-LIST:END -->
 
 ---
