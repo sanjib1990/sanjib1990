@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uranus and Neptune aren&#39;t made of what we thought, new study hints](https://www.space.com/uranus-neptune-less-water-more-frozen-methane-formation-mystery)
+- [Tesla ditches EV inventory discounts to ‘streamline’ sales and delivery](https://techcrunch.com/2024/04/16/tesla-ditches-ev-inventory-discounts-to-streamline-sales-and-delivery/)
+- [HR startup Rippling is in discussions to raise at a $13.4B valuation, up from $11.25B](https://techcrunch.com/2024/04/16/hr-startup-rippling-is-in-discussions-to-raise-at-a-13-4b-valuation-up-from-11-25b/)
+- [Space startups are licking their lips after NASA converts $11B Mars mission into a free-for-all](https://techcrunch.com/2024/04/16/space-startups-licking-their-lips-after-nasa-converts-11b-mars-mission-into-a-free-for-all/)
 - [Kickstarter launches pre-orders for completed campaigns](https://techcrunch.com/2024/04/16/kickstarter-late-pledges/)
-- [Exotic &#39;Einstein ring&#39; suggests that mysterious dark matter interacts with itself](https://www.space.com/dark-matter-interactions-distant-einstein-ring-jwst)
-- [Intel and others commit to building open generative AI tools for the enterprise](https://techcrunch.com/2024/04/16/intel-and-others-commit-to-building-open-generative-ai-tools-for-the-enterprise/)
-- [Boeing Starliner spacecraft rolls out to Atlas V rocket ahead of 1st astronaut launch &lpar;photos&rpar;](https://www.space.com/boeing-starliner-spacecraft-rollout-integration-rocket-astronaut-spaceflight)
-- [A crypto wallet maker’s warning about an iMessage bug sounds like a false alarm](https://techcrunch.com/2024/04/16/a-crypto-wallet-makers-warning-about-an-imessage-bug-sounds-like-a-false-alarm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
