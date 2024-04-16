@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlas shrugged: Boston Dynamics retires its hydraulic humanoid robot](https://techcrunch.com/2024/04/16/atlas-shrugged-boston-dynamics-retires-its-humanoid-robot/)
-- [Switzerland signs Artemis Accords to join NASA in moon exploration](https://www.space.com/nasa-artemis-accords-switzerland-signing)
-- [Amazon Music follows Spotify with an AI playlist generator of its own, Maestro](https://techcrunch.com/2024/04/16/amazon-music-follows-spotify-with-an-ai-playlist-generator-of-its-own-maestro/)
-- [James Webb Space Telescope full-size model to be displayed by Space Foundation](https://www.space.com/james-webb-space-telescope-full-scale-model-space-foundation)
-- [SOSV founder says climate investing is a ‘war effort’ as firm closes $306M fund](https://techcrunch.com/2024/04/16/sosv-new-deep-tech-fund/)
+- [Substack’s Notes feature is getting more Twitter-like capabilities](https://techcrunch.com/2024/04/16/substacks-notes-feature-is-getting-more-twitter-like-capabilities/)
+- [WhatsApp is adding filters to easily find messages](https://techcrunch.com/2024/04/16/whatsapp-is-adding-filters-to-easily-find-messages/)
+- [Will the constellations ever change?](https://www.space.com/will-the-constellations-ever-change-space-mysteries)
+- [Loft Labs brings power of virtualization to Kubernetes clusters](https://techcrunch.com/2024/04/16/loft-labs-brings-power-of-virtualization-to-kubernetes-clusters/)
+- [Omni Hotels says customers’ personal data stolen in ransomware attack](https://techcrunch.com/2024/04/16/omni-hotels-customer-data-stolen-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
