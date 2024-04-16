@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’s $1.5B check for G42 shows growing US-China rift](https://techcrunch.com/2024/04/16/microsofts-1-5b-check-for-g42-shows-growing-us-china-rift/)
 - [Finmid raises $24.7M to help SMBs access loans through platforms like Wolt](https://techcrunch.com/2024/04/15/finmid-wolt-smbs-loans/)
 - [Big Tech’s ad transparency tools are still woeful, Mozilla research report finds](https://techcrunch.com/2024/04/15/mozilla-checkfirst-ads-transparency-report/)
 - [Threads is finally testing a recent filter for search results](https://techcrunch.com/2024/04/15/threads-is-finally-testing-a-recent-filter-for-search-results/)
 - [The 2024 solar eclipse was a teachable moment in more ways than one](https://www.space.com/total-solar-eclipse-2024-teachable-moment-suny-potsdam-university)
-- [Iconic British meteorite &#39;Winchcombe&#39; found to have a smashing past](https://www.space.com/winchcombe-meteorite-asteroid-water-smashed-apart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
