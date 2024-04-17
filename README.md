@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A humanoid robot is on its way from Mobileye founder](https://techcrunch.com/2024/04/17/a-humanoid-robot-is-on-its-way-from-mobileye-founder/)
 - [SpaceX launching 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-51)
 - [Vorlon is trying to stop the next big API breach](https://techcrunch.com/2024/04/17/cybersecurity-startup-vorlon-funding-api-breach/)
 - [Snap plans to add watermarks to images created with its AI-powered tools](https://techcrunch.com/2024/04/17/snap-plans-to-add-watermarks-to-images-created-with-its-ai-powered-tools/)
 - [India scrambles to curb PhonePe and Google’s dominance in mobile payments](https://techcrunch.com/2024/04/16/india-scrambles-to-curb-phonepe-and-google-dominance-in-mobile-payments/)
-- [Flatpay rings up $47M to target smaller merchants with simple payment solutions](https://techcrunch.com/2024/04/16/flatpay-rings-up-47m-to-target-smaller-merchants-with-simple-payment-solutions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
