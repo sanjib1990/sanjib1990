@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OCW Learning Journeys: Maria&#39;s Story #MIT #Calculus #STEM #Brazil #OpenEducation #MedicalSchool](https://www.youtube.com/watch?v=Q1VLfDNreJg)
 - [Lecture 14: Dictionaries](https://www.youtube.com/watch?v=lTgLOuaQsvk)
 - [Lecture 3: Iteration](https://www.youtube.com/watch?v=lzYrMcI92kw)
 - [Lecture 16: Recursion on Non-numerics](https://www.youtube.com/watch?v=2XxGplWqXVQ)
 - [Lecture 21: Timing Programs and Counting Operations](https://www.youtube.com/watch?v=lvp4NfED6K4)
-- [Lecture 25: Plotting](https://www.youtube.com/watch?v=Jov7G7IpuLo)
 <!-- YOUTUBE:END -->
 
 ---
