@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SETI chief says US has no evidence for alien technology. &#39;And we never have&#39;](https://www.space.com/seti-chief-bill-diamond-ufos-alien-visitation)
-- [LinkedIn tests Premium Company Pages, with AI and marketing tools to grow audiences](https://techcrunch.com/2024/04/17/linkedin-premium-company-page-visit-visibility-update/)
-- [Tesla has spent $200,000 advertising on Elon Musk’s X so far](https://techcrunch.com/2024/04/17/tesla-x-advertising-musk-stock-package-delware-texas/)
-- [Inside LemFi’s play to be fintech to the Global South diaspora](https://techcrunch.com/2024/04/17/inside-lemfis-play-to-be-fintech-to-the-global-south-diaspora/)
-- [A humanoid robot is on its way from Mobileye founder](https://techcrunch.com/2024/04/17/a-humanoid-robot-is-on-its-way-from-mobileye-founder/)
+- [Boston Dynamics’ Atlas humanoid robot goes electric](https://techcrunch.com/2024/04/17/boston-dynamics-atlas-humanoid-robot-goes-electric/)
+- [Fintech startup Mercury, which is under regulatory scrutiny, expands into consumer banking](https://techcrunch.com/2024/04/17/fintech-banking-startup-mercury-is-expanding-into-consumer-banking/)
+- [How Found Energy went from ‘self-cannibalizing robots’ to cleaning up heavy industry](https://techcrunch.com/2024/04/17/found-energy-seed-round-exclusive/)
+- [EU privacy body adopts view on Meta’s controversial ‘consent or pay’ tactic](https://techcrunch.com/2024/04/17/consent-or-pay-decision-report/)
+- [Lina Khan, Steve Case &amp; more join StrictlyVC in Washington, D.C.](https://techcrunch.com/2024/04/17/lina-khan-steve-case-more-join-strictlyvc-in-washington-d-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
