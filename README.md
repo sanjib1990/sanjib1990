@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet X’s Bellwether harnesses AI to help predict natural disasters](https://techcrunch.com/2024/04/17/alphabet-xs-bellwether-harnesses-ai-to-help-predict-natural-disasters/)
+- [Ingenuity team says goodbye to pioneering Mars helicopter](https://www.space.com/mars-helicopter-ingenuity-team-says-goodbye)
 - [Boom&#39;s XB-1 test plane gets FAA green light for supersonic flight](https://www.space.com/boom-xb-1-faa-approval-supersonic-test-flight)
 - [Don’t blame MKBHD for the fate of Humane AI and Fisker](https://techcrunch.com/2024/04/17/mkbhd-humane-ai-review-fisker/)
 - [Dark Space is building a rocket-powered boxing glove to push debris out of orbit](https://techcrunch.com/2024/04/17/dark-space-is-building-a-rocket-powered-boxing-glove-to-push-debris-out-of-orbit/)
-- [AirChat, the buzzy new social app, could be great – or, it could succumb to the same fate as Clubhouse](https://techcrunch.com/2024/04/17/airchat-the-buzzy-new-social-app-could-be-great-or-it-could-succumb-to-the-same-fate-as-clubhouse/)
-- [Mastering finance essentials with Mercury’s VP of finance, Dan Kang, at TechCrunch Early Stage](https://techcrunch.com/2024/04/17/mastering-finance-essentials-with-mercurys-vp-of-finance-dan-kang-at-techcrunch-early-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
