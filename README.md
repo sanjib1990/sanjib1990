@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inversion Space will test its space-based delivery tech in October](https://techcrunch.com/2024/04/17/inversion-space-will-test-its-cargo-reentry-capabilities-for-the-first-time-in-october/)
+- [&#39;I really like these suits.&#39; Boeing&#39;s snazzy &lpar;and flexible&rpar; Starliner spacesuits have astronauts buzzing &lpar;exclusive&rpar;](https://www.space.com/boeing-starliner-astronaut-spacesuit-fashion-safety)
 - [Boston Dynamics’ Atlas humanoid robot goes electric](https://techcrunch.com/2024/04/17/boston-dynamics-atlas-humanoid-robot-goes-electric/)
 - [Fintech startup Mercury, which is under regulatory scrutiny, expands into consumer banking](https://techcrunch.com/2024/04/17/fintech-banking-startup-mercury-is-expanding-into-consumer-banking/)
 - [How Found Energy went from ‘self-cannibalizing robots’ to cleaning up heavy industry](https://techcrunch.com/2024/04/17/found-energy-seed-round-exclusive/)
-- [EU privacy body adopts view on Meta’s controversial ‘consent or pay’ tactic](https://techcrunch.com/2024/04/17/consent-or-pay-decision-report/)
-- [Lina Khan, Steve Case &amp; more join StrictlyVC in Washington, D.C.](https://techcrunch.com/2024/04/17/lina-khan-steve-case-more-join-strictlyvc-in-washington-d-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
