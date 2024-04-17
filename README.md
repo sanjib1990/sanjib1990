@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India scrambles to curb PhonePe and Google’s dominance in mobile payments](https://techcrunch.com/2024/04/16/india-scrambles-to-curb-phonepe-and-google-dominance-in-mobile-payments/)
 - [Flatpay rings up $47M to target smaller merchants with simple payment solutions](https://techcrunch.com/2024/04/16/flatpay-rings-up-47m-to-target-smaller-merchants-with-simple-payment-solutions/)
 - [Former top SpaceX exec Tom Ochinero sets up new VC firm, filings reveal](https://techcrunch.com/2024/04/16/former-top-spacex-exec-tom-ochinero-sets-up-new-vc-firm-filings-reveal/)
 - [FLO is improving EV charging infrastructure](https://techcrunch.com/2024/04/16/flo-is-improving-ev-charging-infrastructure/)
 - [What&#39;s left of the 2024 solar eclipse lives in our hearts](https://www.space.com/total-solar-eclipse-2024-indiana-memories)
-- [Waymo begins robotaxi testing in Atlanta](https://techcrunch.com/2024/04/16/waymo-begins-robotaxi-testing-in-atlanta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
