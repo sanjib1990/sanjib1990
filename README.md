@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit CPO talks new features: better translations, moderation and dev tools](https://techcrunch.com/2024/04/17/reddit-cpo-talks-new-features-better-translations-moderation-and-dev-tools/)
+- [TikTok starts testing its Instagram competitor TikTok Notes in Canada and Australia](https://techcrunch.com/2024/04/17/tiktok-starts-testing-its-instagram-competitor-tiktok-notes-in-canada-and-australia/)
+- [Live selling startup CommentSold uses AI to generate shoppable, social-ready clips](https://techcrunch.com/2024/04/17/live-selling-startup-commentsold-uses-ai-to-generate-shoppable-social-ready-clips/)
 - [Palo Alto Networks’ firewall bug under attack brings fresh havoc to thousands of companies](https://techcrunch.com/2024/04/17/palo-alto-networks-firewall-bug-under-attack-brings-fresh-havoc-to-thousands-of-companies/)
 - [TechCrunch Minute: New Atlas robot stuns experts in first reveal from Boston Dynamics](https://techcrunch.com/2024/04/17/techcrunch-minute-new-atlas-robot-stuns-experts-in-first-reveal-from-boston-dynamics/)
-- [Brave Search is adopting AI to answer your queries](https://techcrunch.com/2024/04/17/brave-search-is-adopting-ai-to-answer-your-queries/)
-- [Cherub, an angel investing community inspired by dating apps, entices investors and founders to pair up](https://techcrunch.com/2024/04/17/cherub-the-raya-of-angel-investing-is-reinventing-angel-rounds-with-a-950-subscription/)
-- [a16z-backed Rewind pivots to build AI-powered pendant to record your conversations](https://techcrunch.com/2024/04/17/a16z-backed-rewind-pivots-to-build-ai-powered-pendant-to-record-your-conversations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
