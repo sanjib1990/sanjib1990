@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SETI chief says US has no evidence for alien technology. &#39;And we never have&#39;](https://www.space.com/seti-chief-bill-diamond-ufos-alien-visitation)
+- [LinkedIn tests Premium Company Pages, with AI and marketing tools to grow audiences](https://techcrunch.com/2024/04/17/linkedin-premium-company-page-visit-visibility-update/)
+- [Tesla has spent $200,000 advertising on Elon Musk’s X so far](https://techcrunch.com/2024/04/17/tesla-x-advertising-musk-stock-package-delware-texas/)
+- [Inside LemFi’s play to be fintech to the Global South diaspora](https://techcrunch.com/2024/04/17/inside-lemfis-play-to-be-fintech-to-the-global-south-diaspora/)
 - [A humanoid robot is on its way from Mobileye founder](https://techcrunch.com/2024/04/17/a-humanoid-robot-is-on-its-way-from-mobileye-founder/)
-- [SpaceX launching 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-51)
-- [Vorlon is trying to stop the next big API breach](https://techcrunch.com/2024/04/17/cybersecurity-startup-vorlon-funding-api-breach/)
-- [Snap plans to add watermarks to images created with its AI-powered tools](https://techcrunch.com/2024/04/17/snap-plans-to-add-watermarks-to-images-created-with-its-ai-powered-tools/)
-- [India scrambles to curb PhonePe and Google’s dominance in mobile payments](https://techcrunch.com/2024/04/16/india-scrambles-to-curb-phonepe-and-google-dominance-in-mobile-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
