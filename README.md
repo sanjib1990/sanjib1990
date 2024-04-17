@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering finance essentials with Mercury’s VP of finance, Dan Kang, at TechCrunch Early Stage](https://techcrunch.com/2024/04/17/mastering-finance-essentials-with-mercurys-vp-of-finance-dan-kang-at-techcrunch-early-stage/)
+- [Saturn&#39;s &#39;Death Star&#39; moon Mimas may have gotten huge buried ocean from ringed planet&#39;s powerful pull](https://www.space.com/saturn-moon-mimas-buried-ocean-changing-orbit)
 - [Adtech giants like Meta must give EU users real privacy choice, says EDPB](https://techcrunch.com/2024/04/17/edpb-consent-or-pay-opinion/)
 - [Mysterious dark matter may leave clues in &#39;strings of pearls&#39; trailing our galaxy](https://www.space.com/rubin-observatory-dark-matter-strings-pearls-milky-way-galaxy)
-- [LinkedIn testing paid Premium Company Page with AI-assisted content creation](https://techcrunch.com/2024/04/17/linkedin-premium-company-page-visit-visibility-update/)
-- [Reddit CPO talks new features: better translations, moderation and dev tools](https://techcrunch.com/2024/04/17/reddit-cpo-talks-new-features-better-translations-moderation-and-dev-tools/)
-- [TikTok starts testing its Instagram competitor TikTok Notes in Canada and Australia](https://techcrunch.com/2024/04/17/tiktok-starts-testing-its-instagram-competitor-tiktok-notes-in-canada-and-australia/)
+- [LinkedIn testing Premium Company Page subscription with AI-assisted content creation](https://techcrunch.com/2024/04/17/linkedin-premium-company-page-visit-visibility-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
