@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope&#39;s &#39;shocking&#39; discovery may hint at hidden exomoon around &#39;failed star&#39;](https://www.space.com/james-webb-space-telescope-brown-dwarf-aurora-exomoon)
+- [NeuBird is building a generative AI solution for complex cloud native environments](https://techcrunch.com/2024/04/17/neubird-generative-ai-solution-for-complex-cloud-environments-raises-22-million/)
+- [Andreessen Horowitz’s $7.2B new funds for a ‘new era’](https://techcrunch.com/2024/04/17/andreessen-horowitzs-7-2b-new-funds-for-a-new-era/)
 - [Inversion Space will test its space-based delivery tech in October](https://techcrunch.com/2024/04/17/inversion-space-will-test-its-cargo-reentry-capabilities-for-the-first-time-in-october/)
 - [&#39;I really like these suits.&#39; Boeing&#39;s snazzy &lpar;and flexible&rpar; Starliner spacesuits have astronauts buzzing &lpar;exclusive&rpar;](https://www.space.com/boeing-starliner-astronaut-spacesuit-fashion-safety)
-- [Boston Dynamics’ Atlas humanoid robot goes electric](https://techcrunch.com/2024/04/17/boston-dynamics-atlas-humanoid-robot-goes-electric/)
-- [Fintech startup Mercury, which is under regulatory scrutiny, expands into consumer banking](https://techcrunch.com/2024/04/17/fintech-banking-startup-mercury-is-expanding-into-consumer-banking/)
-- [How Found Energy went from ‘self-cannibalizing robots’ to cleaning up heavy industry](https://techcrunch.com/2024/04/17/found-energy-seed-round-exclusive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
