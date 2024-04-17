@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sweden becomes 38th country to sign NASA&#39;s Artemis Accords for moon exploration](https://www.space.com/nasa-sweden-signs-artemis-accords)
 - [Alphabet X’s Bellwether harnesses AI to help predict natural disasters](https://techcrunch.com/2024/04/17/alphabet-xs-bellwether-harnesses-ai-to-help-predict-natural-disasters/)
 - [Ingenuity team says goodbye to pioneering Mars helicopter](https://www.space.com/mars-helicopter-ingenuity-team-says-goodbye)
 - [Boom&#39;s XB-1 test plane gets FAA green light for supersonic flight](https://www.space.com/boom-xb-1-faa-approval-supersonic-test-flight)
 - [Don’t blame MKBHD for the fate of Humane AI and Fisker](https://techcrunch.com/2024/04/17/mkbhd-humane-ai-review-fisker/)
-- [Dark Space is building a rocket-powered boxing glove to push debris out of orbit](https://techcrunch.com/2024/04/17/dark-space-is-building-a-rocket-powered-boxing-glove-to-push-debris-out-of-orbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
