@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dailyhunt-parent acquires Apple News+ rival Magzter](https://techcrunch.com/2024/04/17/dailyhunt-parent-acquires-newsstand-app-magzter/)
+- [India’s VerSe acquires Apple News+ rival Magzter](https://techcrunch.com/2024/04/17/dailyhunt-parent-acquires-newsstand-app-magzter/)
 - [Consumer Financial Protection Bureau fines BloomTech for false claims](https://techcrunch.com/2024/04/17/consumer-financial-protection-bureau-fines-bloomtech-for-false-claims/)
 - [7 Waymo robotaxis block traffic to San Francisco freeway on-ramp](https://techcrunch.com/2024/04/17/seven-waymo-robotaxis-block-traffic-to-san-francisco-freeway-on-ramp/)
 - [Ramp raises another $150M co-led by Khosla and Founders Fund at a $7.65B valuation](https://techcrunch.com/2024/04/17/ramp-raises-another-150-million-co-led-by-khosla-founders-fund-at-a-7-65b-valuation/)
