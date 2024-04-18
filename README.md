@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers are threatening to publish a huge stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
+- [How to play Pokémon and other Game Boy games on your iPhone](https://techcrunch.com/2024/04/18/how-to-play-pokemon-and-other-game-boy-games-on-your-iphone/)
+- [Cape dials up $61M from A16Z + more for mobile service that doesn’t use personal data](https://techcrunch.com/2024/04/18/cape-dials-up-61m-from-a16z-more-for-mobile-service-that-doesnt-use-personal-data/)
+- [Tesla Semi charging corridor project is still alive despite Biden admin funding snub](https://techcrunch.com/2024/04/18/tesla-semi-big-rig-charging-corridor-biden-funding/)
 - [Sorry, little green men: Alien life might actually be purple](https://www.space.com/alien-purple-bacteria-new-catalog-expands-search-for-life)
-- [Zack Snyder on sticking the landing for the 2nd half of Netflix&#39;s &#39;Rebel Moon&#39; &lpar;exclusive&rpar;](https://www.space.com/zack-snyder-netflix-rebel-moon-interview)
-- [Meta releases Llama 3, claims it’s among the best open models available](https://techcrunch.com/2024/04/18/meta-releases-llama-3-claims-its-among-the-best-open-models-available/)
-- [Meta adds its AI chatbot, powered by Llama 3, to the search bar across its apps](https://techcrunch.com/2024/04/18/meta-adds-its-ai-chatbot-powered-by-llama-3-to-the-search-bar-across-its-apps/)
-- [TechCrunch Minute: NASA needs your help to bring rocks back from Mars](https://techcrunch.com/2024/04/18/techcrunch-minute-nasa-needs-your-help-to-bring-rocks-back-from-mars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
