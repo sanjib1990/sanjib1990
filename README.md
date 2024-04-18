@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China rolls out rocket for next astronaut mission to Tiangong space station &lpar;photos&rpar;](https://www.space.com/china-shenzhou-18-crew-launch-tiangong-space-station)
+- [Robots can make jobs less meaningful for human colleagues](https://techcrunch.com/2024/04/18/robots-can-make-jobs-less-meaningful-for-human-colleagues/)
+- [Ibotta’s IPO opens sharply higher, hinting at warming public-market interest in tech shares](https://techcrunch.com/2024/04/18/ibottas-ipo-opens-sharply-higher-hinting-at-warming-public-market-interest-in-tech-shares/)
 - [SpaceX launching Starlink satellites today on company&#39;s 40th mission of 2024](https://www.space.com/spacex-starlink-launch-group-6-52)
-- [Wiz is in talks to buy Lacework for $150-200M; security firm was last valued at $8.3B](https://techcrunch.com/2024/04/18/wiz-is-in-talks-to-buy-lacework-for-150-200m-security-firm-was-last-valued-at-8-3b/)
-- [Hackers are threatening to publish a huge stolen sanctions and financial crimes watchlist](https://techcrunch.com/2024/04/18/world-check-database-leaked-sanctions-financial-crimes-watchlist/)
-- [How to play Pokémon and other Game Boy games on your iPhone](https://techcrunch.com/2024/04/18/how-to-play-pokemon-and-other-game-boy-games-on-your-iphone/)
-- [Cape dials up $61M from a16z and more for mobile service that doesn’t use personal data](https://techcrunch.com/2024/04/18/cape-dials-up-61m-from-a16z-more-for-mobile-service-that-doesnt-use-personal-data/)
+- [Lacework, last valued at $8.3B, is in talks to sell for just $150M to $300M, say sources](https://techcrunch.com/2024/04/18/wiz-is-in-talks-to-buy-lacework-for-150-200m-security-firm-was-last-valued-at-8-3b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
