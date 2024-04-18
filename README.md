@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alt-space history series &#39;For All Mankind&#39; gets 5th season, new &#39;Star City&#39; spinoff](https://www.space.com/apple-tv-for-all-mankind-renewed-star-city-spinoff)
-- [Screen Skinz raises $1.5 million seed to create custom screen protectors](https://techcrunch.com/2024/04/18/screen-skinz-raises-1-5-million-seed-to-create-custom-screen-protectors/)
-- [NASA greenlights 2028 launch for epic Dragonfly mission to Saturn&#39;s huge moon Titan](https://www.space.com/nasa-dragonfly-mission-launch-2028-saturn-moon-titan)
-- [Trellis Climate aims to bridge the ‘commercial valley of death’ for climate tech](https://techcrunch.com/2024/04/18/trellis-climate-missing-middle/)
-- [ChatGPT is a squeeze away with Nothing’s upgraded earbuds](https://techcrunch.com/2024/04/18/chatgpt-is-a-squeeze-away-with-nothings-upgraded-earbuds/)
+- [Building owners are often in the dark about their carbon pollution. A new algorithm could shed light on it](https://techcrunch.com/2024/04/18/nzero-grid-carbon-intensity-tool/)
+- [Magnus Metal wants to revamp the 4,000-year-old way metal parts are made](https://techcrunch.com/2024/04/18/magnus-metal-series-b-exclusive/)
+- [Jupiter&#39;s violent moon Io has been the solar system&#39;s most volcanic body for around 4.5 billion years](https://www.space.com/jupiter-moon-io-most-volcanic-body-solar-system-4-5-billion-years)
+- [Apex Legends hacker says game developers patched exploit used on streamers](https://techcrunch.com/2024/04/18/apex-legends-hacker-says-game-developers-patched-exploit-used-on-streamers/)
+- [For Dataplor’s data intelligence tool, it’s all about location, location, location](https://techcrunch.com/2024/04/18/dataplor-data-intelligence-location/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
