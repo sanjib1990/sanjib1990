@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Discovery&#39; season 5 episode 4 uses time travel to remember the past 5 seasons](https://www.space.com/star-trek-discovery-season-5-episode-4-review)
+- [NASA’s Webb Makes the Distant Universe Dream Come True](https://blogs.nasa.gov/webb/2024/04/18/nasas-webb-makes-the-distant-universe-dream-come-true/)
 - [Building owners are often in the dark about their carbon pollution. A new algorithm could shed light on it](https://techcrunch.com/2024/04/18/nzero-grid-carbon-intensity-tool/)
 - [Magnus Metal wants to revamp the 4,000-year-old way metal parts are made](https://techcrunch.com/2024/04/18/magnus-metal-series-b-exclusive/)
 - [Jupiter&#39;s violent moon Io has been the solar system&#39;s most volcanic body for around 4.5 billion years](https://www.space.com/jupiter-moon-io-most-volcanic-body-solar-system-4-5-billion-years)
-- [Apex Legends hacker says game developers patched exploit used on streamers](https://techcrunch.com/2024/04/18/apex-legends-hacker-says-game-developers-patched-exploit-used-on-streamers/)
-- [For Dataplor’s data intelligence tool, it’s all about location, location, location](https://techcrunch.com/2024/04/18/dataplor-data-intelligence-location/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
