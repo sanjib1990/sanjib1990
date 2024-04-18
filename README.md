@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Russia launches new Angara A5 heavy-lift rocket on 4th orbital test mission &lpar;photos&rpar;](https://www.space.com/russia-1st-post-soviet-rocket-angara-a5-fourth-test-launch)
+- [Will &#39;Devil Comet&#39; 12P/Pons-Brooks survive its close encounter with the sun?](https://www.space.com/will-devil-comet-12p-pons-brooks-survive-close-encounter-sun)
+- [Uber, Nvidia-backed Serve Robotics hits public markets with $40M splash](https://techcrunch.com/2024/04/18/uber-nvidia-backed-serve-robotics-hits-public-markets-with-40m-splash/)
 - [&#39;Star Trek: Discovery&#39; season 5 episode 4 uses time travel to remember the past 5 seasons](https://www.space.com/star-trek-discovery-season-5-episode-4-review)
 - [NASA’s Webb Makes the Distant Universe Dream Come True](https://blogs.nasa.gov/webb/2024/04/18/nasas-webb-makes-the-distant-universe-dream-come-true/)
-- [Building owners are often in the dark about their carbon pollution. A new algorithm could shed light on it](https://techcrunch.com/2024/04/18/nzero-grid-carbon-intensity-tool/)
-- [Magnus Metal wants to revamp the 4,000-year-old way metal parts are made](https://techcrunch.com/2024/04/18/magnus-metal-series-b-exclusive/)
-- [Jupiter&#39;s violent moon Io has been the solar system&#39;s most volcanic body for around 4.5 billion years](https://www.space.com/jupiter-moon-io-most-volcanic-body-solar-system-4-5-billion-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
