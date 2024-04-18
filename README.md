@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trellis Climate aims to bridge the ‘commercial valley of death’ for climate tech](https://techcrunch.com/2024/04/18/trellis-climate-missing-middle/)
+- [ChatGPT is a squeeze away with Nothing’s upgraded earbuds](https://techcrunch.com/2024/04/18/chatgpt-is-a-squeeze-away-with-nothings-upgraded-earbuds/)
+- [Google fires 28 employees after sit-in protest over controversial Project Nimbus contract with Israel](https://techcrunch.com/2024/04/18/google-fires-28-employees-after-sit-in-protest-over-controversial-project-nimbus-contract-with-israe/)
 - [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [NASA still investigating Orion heat shield issues from Artemis 1 moon mission](https://www.space.com/nasa-investigate-orion-heat-shield-artemis-1-mission)
-- [Orbex’s new funding may accelerate its Prime microlauncher into orbit](https://techcrunch.com/2024/04/18/orbexs-new-funding-may-accelerate-its-prime-microlauncher-into-orbit/)
-- [India’s VerSe acquires Apple News+ rival Magzter](https://techcrunch.com/2024/04/17/dailyhunt-parent-acquires-newsstand-app-magzter/)
-- [Consumer Financial Protection Bureau fines BloomTech for false claims](https://techcrunch.com/2024/04/17/consumer-financial-protection-bureau-fines-bloomtech-for-false-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
