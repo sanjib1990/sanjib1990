@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia launches new Angara A5 heavy-lift rocket on 4th orbital test mission &lpar;photos&rpar;](https://www.space.com/russia-1st-post-soviet-rocket-angara-a5-fourth-test-launch)
-- [Will &#39;Devil Comet&#39; 12P/Pons-Brooks survive its close encounter with the sun?](https://www.space.com/will-devil-comet-12p-pons-brooks-survive-close-encounter-sun)
-- [Uber, Nvidia-backed Serve Robotics hits public markets with $40M splash](https://techcrunch.com/2024/04/18/uber-nvidia-backed-serve-robotics-hits-public-markets-with-40m-splash/)
-- [&#39;Star Trek: Discovery&#39; season 5 episode 4 uses time travel to remember the past 5 seasons](https://www.space.com/star-trek-discovery-season-5-episode-4-review)
-- [NASA’s Webb Makes the Distant Universe Dream Come True](https://blogs.nasa.gov/webb/2024/04/18/nasas-webb-makes-the-distant-universe-dream-come-true/)
+- [Sorry, little green men: Alien life might actually be purple](https://www.space.com/alien-purple-bacteria-new-catalog-expands-search-for-life)
+- [Zack Snyder on sticking the landing for the 2nd half of Netflix&#39;s &#39;Rebel Moon&#39; &lpar;exclusive&rpar;](https://www.space.com/zack-snyder-netflix-rebel-moon-interview)
+- [Meta releases Llama 3, claims it’s among the best open models available](https://techcrunch.com/2024/04/18/meta-releases-llama-3-claims-its-among-the-best-open-models-available/)
+- [Meta adds its AI chatbot, powered by Llama 3, to the search bar across its apps](https://techcrunch.com/2024/04/18/meta-adds-its-ai-chatbot-powered-by-llama-3-to-the-search-bar-across-its-apps/)
+- [TechCrunch Minute: NASA needs your help to bring rocks back from Mars](https://techcrunch.com/2024/04/18/techcrunch-minute-nasa-needs-your-help-to-bring-rocks-back-from-mars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
