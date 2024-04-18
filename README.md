@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers One&#39;s first trailer unveils Optimus Prime and Megatron&#39;s shared history &lpar;video&rpar;](https://www.space.com/transformers-ones-first-trailer)
+- [Rocket Lab gearing up to refly Electron booster for 1st time](https://www.space.com/rocket-lab-recovered-electron-production-line-reflight)
+- [Tesla still plans to build 1,800-mile charging corridor for semi trucks despite Biden funding snub](https://techcrunch.com/2024/04/18/tesla-semi-big-rig-charging-corridor-biden-funding/)
+- [&#39;Transformers One&#39; 1st trailer unveils Optimus Prime and Megatron&#39;s shared history &lpar;video&rpar;](https://www.space.com/transformers-ones-first-trailer)
 - [China rolls out rocket for next astronaut mission to Tiangong space station &lpar;photos&rpar;](https://www.space.com/china-shenzhou-18-crew-launch-tiangong-space-station)
 - [Robots can make jobs less meaningful for human colleagues](https://techcrunch.com/2024/04/18/robots-can-make-jobs-less-meaningful-for-human-colleagues/)
-- [Ibotta’s IPO opens sharply higher, hinting at warming public-market interest in tech shares](https://techcrunch.com/2024/04/18/ibottas-ipo-opens-sharply-higher-hinting-at-warming-public-market-interest-in-tech-shares/)
-- [SpaceX launching Starlink satellites today on company&#39;s 40th mission of 2024](https://www.space.com/spacex-starlink-launch-group-6-52)
 <!-- BLOG-POST-LIST:END -->
 
 ---
