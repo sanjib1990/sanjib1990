@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alt-space history series &#39;For All Mankind&#39; gets 5th season, new &#39;Star City&#39; spinoff](https://www.space.com/apple-tv-for-all-mankind-renewed-star-city-spinoff)
+- [Screen Skinz raises $1.5 million seed to create custom screen protectors](https://techcrunch.com/2024/04/18/screen-skinz-raises-1-5-million-seed-to-create-custom-screen-protectors/)
+- [NASA greenlights 2028 launch for epic Dragonfly mission to Saturn&#39;s huge moon Titan](https://www.space.com/nasa-dragonfly-mission-launch-2028-saturn-moon-titan)
 - [Trellis Climate aims to bridge the ‘commercial valley of death’ for climate tech](https://techcrunch.com/2024/04/18/trellis-climate-missing-middle/)
 - [ChatGPT is a squeeze away with Nothing’s upgraded earbuds](https://techcrunch.com/2024/04/18/chatgpt-is-a-squeeze-away-with-nothings-upgraded-earbuds/)
-- [Google fires 28 employees after sit-in protest over controversial Project Nimbus contract with Israel](https://techcrunch.com/2024/04/18/google-fires-28-employees-after-sit-in-protest-over-controversial-project-nimbus-contract-with-israe/)
-- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [NASA still investigating Orion heat shield issues from Artemis 1 moon mission](https://www.space.com/nasa-investigate-orion-heat-shield-artemis-1-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
