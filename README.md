@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla recalls the Cybertruck for faulty accelerator pedals that can get stuck](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
 - [The Lyrid meteor shower peaks this weekend, but don&#39;t expect much this year](https://www.space.com/lyrid-meteor-shower-2024)
 - [Fintech CRED secures in-principle approval for payment aggregator license](https://techcrunch.com/2024/04/19/fintech-cred-secures-in-principle-approval-for-payment-aggregator-license/)
 - [Internet users are getting younger; now the UK is weighing up if AI can help protect them](https://techcrunch.com/2024/04/18/internet-users-are-getting-younger-now-the-uk-is-weighing-up-if-ai-can-help-protect-them/)
 - [Hugging Face releases a benchmark for testing generative AI on health tasks](https://techcrunch.com/2024/04/18/hugging-face-releases-a-benchmark-for-testing-generative-ai-on-health-tasks/)
-- [Rocket Lab gearing up to refly Electron booster for 1st time](https://www.space.com/rocket-lab-recovered-electron-production-line-reflight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
