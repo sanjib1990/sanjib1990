@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s experimental moon satellites beam back lunar imagery &lpar;video, photo&rpar;](https://www.space.com/china-experimental-moon-satellites-tiandu-imagery)
 - [Tesla’s newsy week, and is fintech having a moment?](https://techcrunch.com/2024/04/19/teslas-newsy-week-and-is-fintech-having-a-moment/)
 - [Are we prepared for Chinese preeminence on the moon and Mars? &lpar;op-ed&rpar;](https://www.space.com/chinese-preeminence-moon-mars-op-ed)
 - [&#39;Rebel Moon — Part Two: The Scargiver&#39; is a knockout punch of pure sci-fi cinema &lpar;review&rpar;](https://www.space.com/rebel-moon-part-two-scargiver-netflix-review)
 - [Webflow acquires Intellimize to add AI-powered webpage personalization](https://techcrunch.com/2024/04/19/webflow-intellimize-acquisition-web-development-ai/)
-- [A16z promotes Jennifer Li to help lead the new $1.25B Infrastructure fund](https://techcrunch.com/2024/04/19/andreessen-horowitz-jennifer-li-125-billion-dollar-infrastructure-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
