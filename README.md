@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech CRED secures in-principle approval for payment aggregator license](https://techcrunch.com/2024/04/19/fintech-cred-secures-in-principle-approval-for-payment-aggregator-license/)
 - [Internet users are getting younger; now the UK is weighing up if AI can help protect them](https://techcrunch.com/2024/04/18/internet-users-are-getting-younger-now-the-uk-is-weighing-up-if-ai-can-help-protect-them/)
 - [Hugging Face releases a benchmark for testing generative AI on health tasks](https://techcrunch.com/2024/04/18/hugging-face-releases-a-benchmark-for-testing-generative-ai-on-health-tasks/)
 - [Rocket Lab gearing up to refly Electron booster for 1st time](https://www.space.com/rocket-lab-recovered-electron-production-line-reflight)
 - [Tesla still plans to build 1,800-mile charging corridor for semi trucks despite Biden funding snub](https://techcrunch.com/2024/04/18/tesla-semi-big-rig-charging-corridor-biden-funding/)
-- [&#39;Transformers One&#39; 1st trailer unveils Optimus Prime and Megatron&#39;s shared history &lpar;video&rpar;](https://www.space.com/transformers-ones-first-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
