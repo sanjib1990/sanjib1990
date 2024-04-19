@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Juno probe captures amazing views of Jupiter&#39;s volcanic moon Io &lpar;video&rpar;](https://www.space.com/jupiter-moon-io-juno-flyover-video-2024)
+- [Harvard’s startup whisperer, Peter Gladstone, reveals secrets to validating consumer demand at TechCrunch Early Stage](https://techcrunch.com/2024/04/19/harvards-startup-whisperer-peter-gladstone-reveals-secrets-to-validating-consumer-demand-at-techcrunch-early-stage/)
 - [NASA&#39;s Artemis 3 astronauts will put a moonquake detector on lunar surface](https://www.space.com/moonquake-detector-nasa-artemis-3-mission)
 - [Post News, the a16z-funded Twitter alternative, is shutting down](https://techcrunch.com/2024/04/19/post-news-the-a16z-funded-twitter-alternative-is-shutting-down/)
 - [Startups Weekly: Is the wind going out of the AI sails?](https://techcrunch.com/2024/04/19/startups-weekly-are-we-over-ai/)
-- [MarketForce winds down its B2B e-commerce arm](https://techcrunch.com/2024/04/19/marketforce-winds-down-its-b2b-e-commerce-arm/)
-- [Ingenuity&#39;s travels: New NASA video tracks Mars helicopter&#39;s 72 flights](https://www.space.com/ingenuity-mars-helicopter-flight-map-video-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
