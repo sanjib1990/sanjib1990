@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Artemis 3 astronauts will put a moonquake detector on lunar surface](https://www.space.com/moonquake-detector-nasa-artemis-3-mission)
+- [Post News, the a16z-funded Twitter alternative, is shutting down](https://techcrunch.com/2024/04/19/post-news-the-a16z-funded-twitter-alternative-is-shutting-down/)
 - [Startups Weekly: Is the wind going out of the AI sails?](https://techcrunch.com/2024/04/19/startups-weekly-are-we-over-ai/)
 - [MarketForce winds down its B2B e-commerce arm](https://techcrunch.com/2024/04/19/marketforce-winds-down-its-b2b-e-commerce-arm/)
 - [Ingenuity&#39;s travels: New NASA video tracks Mars helicopter&#39;s 72 flights](https://www.space.com/ingenuity-mars-helicopter-flight-map-video-2024)
-- [Wall Street doesn’t seem too keen on a potential Salesforce-Informatica pairing](https://techcrunch.com/2024/04/19/wall-street-doesnt-seem-too-keen-on-a-potential-salesforce-informatica-pairing/)
-- [Equities platform Midas raises $45M Series A as fintech retains its sparkle in Turkey](https://techcrunch.com/2024/04/19/equities-platform-midas-raises-45m-series-a-as-fintech-retains-its-sparkle-in-turkey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
