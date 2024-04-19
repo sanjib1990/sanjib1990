@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Is the wind going out of the AI sails?](https://techcrunch.com/2024/04/19/startups-weekly-are-we-over-ai/)
+- [MarketForce winds down its B2B e-commerce arm](https://techcrunch.com/2024/04/19/marketforce-winds-down-its-b2b-e-commerce-arm/)
 - [Ingenuity&#39;s travels: New NASA video tracks Mars helicopter&#39;s 72 flights](https://www.space.com/ingenuity-mars-helicopter-flight-map-video-2024)
 - [Wall Street doesn’t seem too keen on a potential Salesforce-Informatica pairing](https://techcrunch.com/2024/04/19/wall-street-doesnt-seem-too-keen-on-a-potential-salesforce-informatica-pairing/)
 - [Equities platform Midas raises $45M Series A as fintech retains its sparkle in Turkey](https://techcrunch.com/2024/04/19/equities-platform-midas-raises-45m-series-a-as-fintech-retains-its-sparkle-in-turkey/)
-- [Pitch Deck Teardown: Geodesic.Life’s $500K pre-seed deck](https://techcrunch.com/2024/04/19/sample-pre-seed-pitch-deck-geodesic-life/)
-- [Private space-junk probe to conduct up-close inspection of spent rocket stage](https://www.space.com/astroscale-satellite-space-junk-inspection-rendezous-proximity-operation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
