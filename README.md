@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CesiumAstro claims former exec spilled trade secrets to upstart competitor AnySignal](https://techcrunch.com/2024/04/19/cesiumastro-claims-former-exec-spilled-trade-secrets-to-upstart-competitor-anysignal/)
+- [Your Android phone could have stalkerware — here’s how to remove it](https://techcrunch.com/2024/04/19/remove-android-spyware/)
+- [Too many models](https://techcrunch.com/2024/04/19/too-many-models/)
 - [NASA&#39;s Juno probe captures amazing views of Jupiter&#39;s volcanic moon Io &lpar;video&rpar;](https://www.space.com/jupiter-moon-io-juno-flyover-video-2024)
 - [Harvard’s startup whisperer, Peter Gladstone, reveals secrets to validating consumer demand at TechCrunch Early Stage](https://techcrunch.com/2024/04/19/harvards-startup-whisperer-peter-gladstone-reveals-secrets-to-validating-consumer-demand-at-techcrunch-early-stage/)
-- [NASA&#39;s Artemis 3 astronauts will put a moonquake detector on lunar surface](https://www.space.com/moonquake-detector-nasa-artemis-3-mission)
-- [Post News, the a16z-funded Twitter alternative, is shutting down](https://techcrunch.com/2024/04/19/post-news-the-a16z-funded-twitter-alternative-is-shutting-down/)
-- [Startups Weekly: Is the wind going out of the AI sails?](https://techcrunch.com/2024/04/19/startups-weekly-are-we-over-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
