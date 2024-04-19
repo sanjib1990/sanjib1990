@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Langdock raises $3M with General Catalyst to help companies avoid vendor lock-in with LLMs](https://techcrunch.com/2024/04/19/langdock/)
+- [&#39;Astrobiodefense:&#39; Thinktank calls for defending Earth from space bugs](https://www.space.com/mars-sample-return-op-ed-astrobiodefense)
+- [Meta AI is restricting election-related responses in India](https://techcrunch.com/2024/04/19/meta-ai-is-restricting-election-related-responses-in-india/)
+- [Apple pulls WhatsApp, Threads from China App Store following state order](https://techcrunch.com/2024/04/19/threads-whatsapp-removed-from-china-app-store/)
 - [Tesla recalls the Cybertruck for faulty accelerator pedals that can get stuck](https://techcrunch.com/2024/04/19/tesla-cybertruck-throttle-accelerator-pedal-stuck/)
-- [The Lyrid meteor shower peaks this weekend, but don&#39;t expect much this year](https://www.space.com/lyrid-meteor-shower-2024)
-- [Fintech CRED secures in-principle approval for payment aggregator license](https://techcrunch.com/2024/04/19/fintech-cred-secures-in-principle-approval-for-payment-aggregator-license/)
-- [Internet users are getting younger; now the UK is weighing up if AI can help protect them](https://techcrunch.com/2024/04/18/internet-users-are-getting-younger-now-the-uk-is-weighing-up-if-ai-can-help-protect-them/)
-- [Hugging Face releases a benchmark for testing generative AI on health tasks](https://techcrunch.com/2024/04/18/hugging-face-releases-a-benchmark-for-testing-generative-ai-on-health-tasks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
