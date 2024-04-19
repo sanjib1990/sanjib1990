@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s newsy week, and is fintech having a moment?](https://techcrunch.com/2024/04/19/teslas-newsy-week-and-is-fintech-having-a-moment/)
+- [Are we prepared for Chinese preeminence on the moon and Mars? &lpar;op-ed&rpar;](https://www.space.com/chinese-preeminence-moon-mars-op-ed)
 - [&#39;Rebel Moon — Part Two: The Scargiver&#39; is a knockout punch of pure sci-fi cinema &lpar;review&rpar;](https://www.space.com/rebel-moon-part-two-scargiver-netflix-review)
 - [Webflow acquires Intellimize to add AI-powered webpage personalization](https://techcrunch.com/2024/04/19/webflow-intellimize-acquisition-web-development-ai/)
 - [A16z promotes Jennifer Li to help lead the new $1.25B Infrastructure fund](https://techcrunch.com/2024/04/19/andreessen-horowitz-jennifer-li-125-billion-dollar-infrastructure-fund/)
-- [Langdock raises $3M with General Catalyst to help companies avoid vendor lock-in with LLMs](https://techcrunch.com/2024/04/19/langdock/)
-- [&#39;Astrobiodefense:&#39; Thinktank calls for defending Earth from space bugs](https://www.space.com/mars-sample-return-op-ed-astrobiodefense)
 <!-- BLOG-POST-LIST:END -->
 
 ---
