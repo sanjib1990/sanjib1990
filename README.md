@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Equities platform Midas raises $45M Series A as fintech retains its sparkle in Turkey](https://techcrunch.com/2024/04/19/equities-platform-midas-raises-45m-series-a-as-fintech-retains-its-sparkle-in-turkey/)
+- [Pitch Deck Teardown: Geodesic.Life’s $500K pre-seed deck](https://techcrunch.com/2024/04/19/sample-pre-seed-pitch-deck-geodesic-life/)
+- [Private space-junk probe to conduct up-close inspection of spent rocket stage](https://www.space.com/astroscale-satellite-space-junk-inspection-rendezous-proximity-operation)
+- [Watch &#39;Devil Comet&#39; approach the sun during explosive coronal mass ejection &lpar;video&rpar;](https://www.space.com/watch-devil-comet-12p-pons-brooks-approach-sun-during-explosive-cme-eruption)
 - [TechCrunch Minute: Meta’s new Llama 3 models give open-source AI a boost](https://techcrunch.com/2024/04/19/techcrunch-minute-metas-new-llama-3-models-give-open-source-ai-a-boost/)
-- [Japanese satellite will beam solar power to Earth in 2025](https://www.space.com/japan-space-based-solar-power-demonstration-2025)
-- [China&#39;s experimental moon satellites beam back lunar imagery &lpar;video, photo&rpar;](https://www.space.com/china-experimental-moon-satellites-tiandu-imagery)
-- [Tesla’s newsy week, and is fintech having a moment?](https://techcrunch.com/2024/04/19/teslas-newsy-week-and-is-fintech-having-a-moment/)
-- [Are we prepared for Chinese preeminence on the moon and Mars? &lpar;op-ed&rpar;](https://www.space.com/chinese-preeminence-moon-mars-op-ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
