@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Ewa Luger explores how AI affects culture — and vice versa](https://techcrunch.com/2024/04/20/women-in-ai-ewa-luger-studies-how-ai-impacts-culture-and-vice-versa/)
 - [U.S. House passes revised bill to ban TikTok or force sale](https://techcrunch.com/2024/04/20/house-passes-tiktok-ban-again/)
 - [Cosmonaut Muhammed Faris, first Syrian in space, dies at 72](https://www.space.com/syrian-cosmonaut-muhammed-faris-obituary)
 - [Why vector databases are having a moment as the AI hype cycle peaks](https://techcrunch.com/2024/04/20/why-vector-databases-are-having-a-moment-as-the-ai-hype-cycle-peaks/)
 - [Notable Capital’s Hans Tung on the state of VC and the upside to down rounds](https://techcrunch.com/2024/04/20/notable-capitals-hans-tung-on-the-state-of-vc-and-the-upside-to-down-rounds/)
-- [This Week In Space podcast: Episode 107 — Mars Sample Return Blues](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-107-mars-sample-return-blues)
 <!-- BLOG-POST-LIST:END -->
 
 ---
