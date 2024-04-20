@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Star Wars Millennium Falcon &lpar;2024&rpar; review](https://www.space.com/lego-millennium-falcon-2024-review)
+- [This Week in AI: When ‘open source’ isn’t so open](https://techcrunch.com/2024/04/20/this-week-in-ai-when-open-source-isnt-so-open/)
 - [Lawmakers vote to reauthorize US spying law that critics say expands government surveillance](https://techcrunch.com/2024/04/20/fisa-nsa-fbi-government-surveillance/)
 - [Those magic minutes during April 8&#39;s solar eclipse brought me to tears](https://www.space.com/total-solar-eclipse-2024-brought-me-to-tears)
 - [Women in AI: Allison Cohen on building responsible AI projects](https://techcrunch.com/2024/04/20/women-in-ai-allison-cohen-on-building-responsible-ai-projects/)
-- [India’s election overshadowed by the rise of online misinformation](https://techcrunch.com/2024/04/20/india-election-tough-fight-against-online-misinformation/)
-- [Everything we know about &#39;The Fantastic Four&#39;](https://www.space.com/fantastic-four-everything-we-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
