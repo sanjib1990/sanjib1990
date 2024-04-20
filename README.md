@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmonaut Muhammed Faris, first Syrian in space, dies at 72](https://www.space.com/syrian-cosmonaut-muhammed-faris-obituary)
+- [Why vector databases are having a moment as the AI hype cycle peaks](https://techcrunch.com/2024/04/20/why-vector-databases-are-having-a-moment-as-the-ai-hype-cycle-peaks/)
+- [Notable Capital’s Hans Tung on the state of VC and the upside to down rounds](https://techcrunch.com/2024/04/20/notable-capitals-hans-tung-on-the-state-of-vc-and-the-upside-to-down-rounds/)
+- [This Week In Space podcast: Episode 107 — Mars Sample Return Blues](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-107-mars-sample-return-blues)
 - [Lego Star Wars Millennium Falcon &lpar;2024&rpar; review](https://www.space.com/lego-millennium-falcon-2024-review)
-- [This Week in AI: When ‘open source’ isn’t so open](https://techcrunch.com/2024/04/20/this-week-in-ai-when-open-source-isnt-so-open/)
-- [Lawmakers vote to reauthorize US spying law that critics say expands government surveillance](https://techcrunch.com/2024/04/20/fisa-nsa-fbi-government-surveillance/)
-- [Those magic minutes during April 8&#39;s solar eclipse brought me to tears](https://www.space.com/total-solar-eclipse-2024-brought-me-to-tears)
-- [Women in AI: Allison Cohen on building responsible AI projects](https://techcrunch.com/2024/04/20/women-in-ai-allison-cohen-on-building-responsible-ai-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
