@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s election overshadowed by the rise of online misinformation](https://techcrunch.com/2024/04/20/india-election-tough-fight-against-online-misinformation/)
+- [Everything we know about &#39;The Fantastic Four&#39;](https://www.space.com/fantastic-four-everything-we-know)
 - [NASA satellite&#39;s &#39;shocking&#39; space junk near-miss was even closer than thought](https://www.space.com/nasa-timed-satellite-russian-space-junk-near-miss-february-2024)
 - [CesiumAstro claims former exec spilled trade secrets to upstart competitor AnySignal](https://techcrunch.com/2024/04/19/cesiumastro-claims-former-exec-spilled-trade-secrets-to-upstart-competitor-anysignal/)
 - [Your Android phone could have stalkerware — here’s how to remove it](https://techcrunch.com/2024/04/19/remove-android-spyware/)
-- [Too many models](https://techcrunch.com/2024/04/19/too-many-models/)
-- [NASA&#39;s Juno probe captures amazing views of Jupiter&#39;s volcanic moon Io &lpar;video&rpar;](https://www.space.com/jupiter-moon-io-juno-flyover-video-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
