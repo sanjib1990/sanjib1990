@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lawmakers vote to reauthorize US spying law that critics say expands government surveillance](https://techcrunch.com/2024/04/20/fisa-nsa-fbi-government-surveillance/)
+- [Those magic minutes during April 8&#39;s solar eclipse brought me to tears](https://www.space.com/total-solar-eclipse-2024-brought-me-to-tears)
+- [Women in AI: Allison Cohen on building responsible AI projects](https://techcrunch.com/2024/04/20/women-in-ai-allison-cohen-on-building-responsible-ai-projects/)
 - [India’s election overshadowed by the rise of online misinformation](https://techcrunch.com/2024/04/20/india-election-tough-fight-against-online-misinformation/)
 - [Everything we know about &#39;The Fantastic Four&#39;](https://www.space.com/fantastic-four-everything-we-know)
-- [NASA satellite&#39;s &#39;shocking&#39; space junk near-miss was even closer than thought](https://www.space.com/nasa-timed-satellite-russian-space-junk-near-miss-february-2024)
-- [CesiumAstro claims former exec spilled trade secrets to upstart competitor AnySignal](https://techcrunch.com/2024/04/19/cesiumastro-claims-former-exec-spilled-trade-secrets-to-upstart-competitor-anysignal/)
-- [Your Android phone could have stalkerware — here’s how to remove it](https://techcrunch.com/2024/04/19/remove-android-spyware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
