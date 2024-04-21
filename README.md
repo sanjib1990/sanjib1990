@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok Shop expands its secondhand luxury fashion offering to the UK](https://techcrunch.com/2024/04/21/tiktok-shop-expands-its-secondhand-luxury-fashion-offering-to-the-uk/)
 - [Tesla layoffs, Cybertruck recalls and Serve Robotics goes public](https://techcrunch.com/2024/04/21/tesla-layoffs-cybertruck-recalls-and-serves-ipo/)
 - [Women in AI: Anna Korhonen studies the intersection between linguistics and AI](https://techcrunch.com/2024/04/21/women-in-ai-anna-korhonen-studies-the-intersection-between-linguistics-and-ai/)
 - [How United Airlines uses AI to make flying the friendly skies a bit easier](https://techcrunch.com/2024/04/21/how-united-airlines-uses-ai-to-make-flying-the-friendly-skies-a-bit-easier/)
 - [Fintech startup Ramp sees 32% bump in valuation, Mercury expands into consumer banking](https://techcrunch.com/2024/04/21/techcrunch-fintech-ramp-sees-32-bump-in-valuation-mercury-expands-into-consumer-banking/)
-- [Saturn&#39;s ocean moon Enceladus is able to support life − my research team is working out how to detect extraterrestrial cells there](https://www.space.com/enceladus-detecting-extraterrestrial-cells)
 <!-- BLOG-POST-LIST:END -->
 
 ---
