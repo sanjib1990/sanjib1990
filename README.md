@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn&#39;s ocean moon Enceladus is able to support life − my research team is working out how to detect extraterrestrial cells there](https://www.space.com/enceladus-detecting-extraterrestrial-cells)
 - [Why is it so hard to send humans back to the moon?](https://www.space.com/why-is-getting-to-the-moon-so-hard)
 - [Eclipse expert Jamie Carter wins media award for extensive solar eclipse coverage](https://www.space.com/eclipse-expert-jamie-carter-wins-solar-physics-division-popular-media-award)
 - [&#39;Devil Comet&#39; 12P/Pons-Brooks reaches peak brightness tonight. Here&#39;s how to see it](https://www.space.com/devil-comet-pons-brooks-reaches-perihelion)
 - [This camera trades pictures for AI poetry](https://techcrunch.com/2024/04/20/poetry-camera/)
-- [Boston Dynamics unveils a new robot, controversy over MKBHD, and layoffs at Tesla](https://techcrunch.com/2024/04/20/boston-dynamics-unveils-a-new-robot-controversy-over-mkbhd-and-layoffs-at-tesla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
