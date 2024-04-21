@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Devil Comet&#39; 12P/Pons-Brooks reaches peak brightness tonight. Here&#39;s how to see it](https://www.space.com/devil-comet-pons-brooks-reaches-perihelion)
 - [This camera trades pictures for AI poetry](https://techcrunch.com/2024/04/20/poetry-camera/)
 - [Boston Dynamics unveils a new robot, controversy over MKBHD, and layoffs at Tesla](https://techcrunch.com/2024/04/20/boston-dynamics-unveils-a-new-robot-controversy-over-mkbhd-and-layoffs-at-tesla/)
 - [Women in AI: Ewa Luger explores how AI affects culture — and vice versa](https://techcrunch.com/2024/04/20/women-in-ai-ewa-luger-studies-how-ai-impacts-culture-and-vice-versa/)
 - [U.S. House passes revised bill to ban TikTok or force sale](https://techcrunch.com/2024/04/20/house-passes-tiktok-ban-again/)
-- [Cosmonaut Muhammed Faris, first Syrian in space, dies at 72](https://www.space.com/syrian-cosmonaut-muhammed-faris-obituary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
