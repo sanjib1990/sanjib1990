@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla earnings week spotlights price cuts, Elon’s ‘balls to the wall’ autonomy push](https://techcrunch.com/2024/04/22/tesla-earnings-week-spotlights-price-cuts-elons-balls-to-the-wall-autonomy-push/)
-- [‘Send now, pay later’ startup Pomelo lands $35M Series A from secretive Vy Capital, Founders Fund](https://techcrunch.com/2024/04/22/pomelo-lands-35m-series-a-for-credit-focused-international-money-transfer-business/)
-- [NASA&#39;s Voyager 1 spacecraft finally phones home after 5 months of no contact](https://www.space.com/voyager-1-communications-update-april-2024)
-- [Meta opens Quest OS to third-party headset makers, taps Lenovo and Xbox as partners](https://techcrunch.com/2024/04/22/meta-opens-quest-os-to-third-party-headset-makers-taps-lenovo-and-xbox-as-partners/)
-- [Satellites watch as 4th global coral bleaching event unfolds &lpar;image&rpar;](https://www.space.com/fourth-global-coral-bleaching-event-satellite-imagery)
+- [US government says security flaw in Chirp Systems’ app lets anyone remotely control smart home locks](https://techcrunch.com/2024/04/22/cisa-chirp-systems-remotely-unlock-smart-locks/)
+- [Scientists use AI to reconstruct energetic flare blasted from Milky Way&#39;s supermassive black hole](https://www.space.com/artificial-intelligence-black-hole-milky-way-3d-video)
+- [Substack rival Ghost confirms it will join the fediverse in 2024](https://techcrunch.com/2024/04/22/substack-rival-ghost-confirms-it-will-join-the-fediverse-in-2024/)
+- [Earth Day 2024: Witness our changing planet in 12 incredible satellite images](https://www.space.com/earth-day-2024-noaa-satellite-12-images-changing-planet)
+- [Amazon ends California drone deliveries](https://techcrunch.com/2024/04/22/amazon-ends-california-drone-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
