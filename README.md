@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Peak XV’s Piyush Gupta leaves firm to start own secondary-focused VC fund](https://techcrunch.com/2024/04/21/peak-xv-piyush-gupta-leaves-to-start-own-secondary-focused-vc-fund/)
+- [Seraphim Space launches second VC fund with nine investments already under its belt](https://techcrunch.com/2024/04/21/seraphim-space-new-fund/)
+- [Peak XV’s Piyush Gupta is leaving firm to start own secondary-focused VC fund](https://techcrunch.com/2024/04/21/peak-xv-piyush-gupta-leaves-to-start-own-secondary-focused-vc-fund/)
 - [Tinder gets a ‘Share My Date’ feature for users to send date plans to their curious friends](https://techcrunch.com/2024/04/21/tinder-gets-a-share-my-date-feature-for-users-to-send-date-plans-to-their-curious-friends/)
 - [TikTok Shop expands its secondhand luxury fashion offering to the UK](https://techcrunch.com/2024/04/21/tiktok-shop-expands-its-secondhand-luxury-fashion-offering-to-the-uk/)
 - [Tesla layoffs, Cybertruck recalls and Serve Robotics goes public](https://techcrunch.com/2024/04/21/tesla-layoffs-cybertruck-recalls-and-serves-ipo/)
-- [Women in AI: Anna Korhonen studies the intersection between linguistics and AI](https://techcrunch.com/2024/04/21/women-in-ai-anna-korhonen-studies-the-intersection-between-linguistics-and-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
