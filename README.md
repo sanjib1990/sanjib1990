@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla earnings week spotlights price cuts, Elon’s ‘balls to the wall’ autonomy push](https://techcrunch.com/2024/04/22/tesla-earnings-week-spotlights-price-cuts-elons-balls-to-the-wall-autonomy-push/)
+- [‘Send now, pay later’ startup Pomelo lands $35M Series A from secretive Vy Capital, Founders Fund](https://techcrunch.com/2024/04/22/pomelo-lands-35m-series-a-for-credit-focused-international-money-transfer-business/)
+- [NASA&#39;s Voyager 1 spacecraft finally phones home after 5 months of no contact](https://www.space.com/voyager-1-communications-update-april-2024)
+- [Meta opens Quest OS to third-party headset makers, taps Lenovo and Xbox as partners](https://techcrunch.com/2024/04/22/meta-opens-quest-os-to-third-party-headset-makers-taps-lenovo-and-xbox-as-partners/)
 - [Satellites watch as 4th global coral bleaching event unfolds &lpar;image&rpar;](https://www.space.com/fourth-global-coral-bleaching-event-satellite-imagery)
-- [Rippling’s Parker Conrad on the company’s new round, new SF lease, and also, its newest critic](https://techcrunch.com/2024/04/22/ripplings-parker-conrad-on-the-companys-brand-new-round-its-brand-new-sf-lease-and-also-its-brand-new-critic/)
-- [TechCrunch Minute: Tesla’s Cybertruck recall, layoffs set the stage for its Q1 earnings](https://techcrunch.com/2024/04/22/techcrunch-minute-teslas-cybertruck-recall-layoffs-set-the-stage-for-its-q1-earnings/)
-- [General Galactic emerges from stealth to make methane from carbon dioxide](https://techcrunch.com/2024/04/22/general-galactic-exclusive/)
-- [New trailer for &#39;Star Wars Outlaws&#39; video game proclaims a golden age for the underworld &lpar;video&rpar;](https://www.space.com/star-wars-outlaws-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
