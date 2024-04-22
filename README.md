@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mood.camera is an iOS app that feels like using a retro analog camera](https://techcrunch.com/2024/04/22/mood-camera-is-an-ios-app-that-feels-like-using-a-retro-analog-camera/)
+- [European police chiefs target E2EE in latest demand for ‘lawful access’](https://techcrunch.com/2024/04/22/e2ee-police-chiefs-lawful-access/)
+- [How could life survive on tidally locked planets?](https://www.space.com/how-can-life-surive-on-tidally-locked-worlds)
 - [12 of the best total solar eclipse 2024 photos from our readers](https://www.space.com/best-total-solar-eclipse-2024-photos)
 - [TLcom Capital closes second fund at $154M to back early-stage startups across Africa](https://techcrunch.com/2024/04/22/tlcom-capital-closes-second-fund-at-154m-to-back-early-stage-startups-across-africa/)
-- [Green search engine Ecosia launches a cross-platform browser](https://techcrunch.com/2024/04/22/ecosia-launches-a-cross-platform-browser-starts-an-affiliate-link-program/)
-- [Seraphim Space launches second VC fund with nine investments already under its belt](https://techcrunch.com/2024/04/21/seraphim-space-new-fund/)
-- [Peak XV’s Piyush Gupta is leaving firm to start own secondary-focused VC fund](https://techcrunch.com/2024/04/21/peak-xv-piyush-gupta-leaves-to-start-own-secondary-focused-vc-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
