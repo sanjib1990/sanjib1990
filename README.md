@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s new reusable rocket aces key engine tests](https://www.space.com/china-reusable-rocket-aces-key-engine-tests)
-- [Disrupt 2024 call for speakers closes Friday](https://techcrunch.com/2024/04/22/disrupt-2024-call-for-speakers-closes-friday/)
-- [Salesforce’s silly deal dies, Rubrik’s IPO, and venture capital in space](https://techcrunch.com/2024/04/22/salesforces-silly-deal-dies-rubriks-ipo-and-venture-capital-in-space/)
-- [James Webb Space Telescope documentary returns to IMAX theaters this week for Earth Day. Watch exclusive clips here &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-imax-documentary-earth-day)
-- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Rippling’s Parker Conrad on the company’s new round, new SF lease, and also, its newest critic](https://techcrunch.com/2024/04/22/ripplings-parker-conrad-on-the-companys-brand-new-round-its-brand-new-sf-lease-and-also-its-brand-new-critic/)
+- [TechCrunch Minute: Tesla’s Cybertruck recall, layoffs set the stage for its Q1 earnings](https://techcrunch.com/2024/04/22/techcrunch-minute-teslas-cybertruck-recall-layoffs-set-the-stage-for-its-q1-earnings/)
+- [General Galactic emerges from stealth to make methane from carbon dioxide](https://techcrunch.com/2024/04/22/general-galactic-exclusive/)
+- [New trailer for &#39;Star Wars Outlaws&#39; video game proclaims a golden age for the underworld &lpar;video&rpar;](https://www.space.com/star-wars-outlaws-trailer)
+- [Clarity Pediatrics raises $10M for treating ADHD and other chronic childhood conditions](https://techcrunch.com/2024/04/22/clarity-pediatrics-raises-10m-adhd-chronic-childhood-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
