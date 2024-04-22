@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope documentary returns to IMAX theaters this week for Earth Day. Watch exclusive clips here &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-imax-documentary-earth-day)
+- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Happy Earth Day 2024! NASA picks 6 new airborne missions to study our changing planet](https://www.space.com/nasa-six-new-airborne-earth-observing-missions)
 - [Mood.camera is an iOS app that feels like using a retro analog camera](https://techcrunch.com/2024/04/22/mood-camera-is-an-ios-app-that-feels-like-using-a-retro-analog-camera/)
 - [European police chiefs target E2EE in latest demand for ‘lawful access’](https://techcrunch.com/2024/04/22/e2ee-police-chiefs-lawful-access/)
-- [How could life survive on tidally locked planets?](https://www.space.com/how-can-life-surive-on-tidally-locked-worlds)
-- [12 of the best total solar eclipse 2024 photos from our readers](https://www.space.com/best-total-solar-eclipse-2024-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
