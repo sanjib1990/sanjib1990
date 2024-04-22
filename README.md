@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TLcom Capital closes second fund at $154M to back early-stage startups across Africa](https://techcrunch.com/2024/04/22/tlcom-capital-closes-second-fund-at-154m-to-back-early-stage-startups-across-africa/)
 - [Ecosia launches a cross-platform browser, starts an affiliate link program](https://techcrunch.com/2024/04/22/ecosia-launches-a-cross-platform-browser-starts-an-affiliate-link-program/)
 - [Seraphim Space launches second VC fund with nine investments already under its belt](https://techcrunch.com/2024/04/21/seraphim-space-new-fund/)
 - [Peak XV’s Piyush Gupta is leaving firm to start own secondary-focused VC fund](https://techcrunch.com/2024/04/21/peak-xv-piyush-gupta-leaves-to-start-own-secondary-focused-vc-fund/)
 - [Tinder gets a ‘Share My Date’ feature for users to send date plans to their curious friends](https://techcrunch.com/2024/04/21/tinder-gets-a-share-my-date-feature-for-users-to-send-date-plans-to-their-curious-friends/)
-- [TikTok Shop expands its secondhand luxury fashion offering to the UK](https://techcrunch.com/2024/04/21/tiktok-shop-expands-its-secondhand-luxury-fashion-offering-to-the-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
