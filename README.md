@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [12 of the best total solar eclipse 2024 photos from our readers](https://www.space.com/best-total-solar-eclipse-2024-photos)
 - [TLcom Capital closes second fund at $154M to back early-stage startups across Africa](https://techcrunch.com/2024/04/22/tlcom-capital-closes-second-fund-at-154m-to-back-early-stage-startups-across-africa/)
-- [Ecosia launches a cross-platform browser, starts an affiliate link program](https://techcrunch.com/2024/04/22/ecosia-launches-a-cross-platform-browser-starts-an-affiliate-link-program/)
+- [Green search engine Ecosia launches a cross-platform browser](https://techcrunch.com/2024/04/22/ecosia-launches-a-cross-platform-browser-starts-an-affiliate-link-program/)
 - [Seraphim Space launches second VC fund with nine investments already under its belt](https://techcrunch.com/2024/04/21/seraphim-space-new-fund/)
 - [Peak XV’s Piyush Gupta is leaving firm to start own secondary-focused VC fund](https://techcrunch.com/2024/04/21/peak-xv-piyush-gupta-leaves-to-start-own-secondary-focused-vc-fund/)
-- [Tinder gets a ‘Share My Date’ feature for users to send date plans to their curious friends](https://techcrunch.com/2024/04/21/tinder-gets-a-share-my-date-feature-for-users-to-send-date-plans-to-their-curious-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
