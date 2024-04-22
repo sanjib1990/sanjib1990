@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India aims to achieve &#39;debris-free&#39; space missions by 2030](https://www.space.com/india-debris-free-space-missions-2030)
 - [US government says security flaw in Chirp Systems’ app lets anyone remotely control smart home locks](https://techcrunch.com/2024/04/22/cisa-chirp-systems-remotely-unlock-smart-locks/)
 - [Scientists use AI to reconstruct energetic flare blasted from Milky Way&#39;s supermassive black hole](https://www.space.com/artificial-intelligence-black-hole-milky-way-3d-video)
 - [Substack rival Ghost confirms it will join the fediverse in 2024](https://techcrunch.com/2024/04/22/substack-rival-ghost-confirms-it-will-join-the-fediverse-in-2024/)
 - [Earth Day 2024: Witness our changing planet in 12 incredible satellite images](https://www.space.com/earth-day-2024-noaa-satellite-12-images-changing-planet)
-- [Amazon ends California drone deliveries](https://techcrunch.com/2024/04/22/amazon-ends-california-drone-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
