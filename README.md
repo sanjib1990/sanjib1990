@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch the Full Pink Moon 2024 bloom in the night sky tonight](https://www.space.com/april-full-moon-pink-2024)
-- [Texture makes a bid to become the world’s go-to platform of the energy transition](https://techcrunch.com/2024/04/23/texture-seed-round/)
-- [With Easel, ex-Snap researchers are building the next-generation Bitmoji thanks to AI](https://techcrunch.com/2024/04/23/with-easel-ex-snap-researchers-are-building-the-next-generation-bitmoji-thanks-to-ai/)
-- [Two widow founders launch DayNew, a social platform for people dealing with grief and trauma](https://techcrunch.com/2024/04/23/two-widow-founders-launch-daynew-a-social-platform-dedicated-to-people-dealing-with-grief-and-trauma/)
-- [Watch Rocket Lab launch new NASA solar sail tech to orbit today](https://www.space.com/rocket-lab-nasa-solar-sail-tech-launch-april-2024)
+- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Campus, a community college startup, receives $23M Series A extension led by Founders Fund](https://techcrunch.com/2024/04/23/campus-a-community-college-startup-receives-23m-series-a-extension-led-by-founders-fund/)
+- [ESA graduates the &#39;Hoppers&#39;: Europeans, Australian pass astronaut basic training](https://www.space.com/esa-astronauts-2022-class-hoppers-graduation)
+- [Framework’s repairability philosophy is set to expand beyond the laptop](https://techcrunch.com/2024/04/23/frameworks-repairability-philosophy-is-set-to-expand-beyond-the-laptop/)
+- [Y Combinator alum Matterport is being bought by real estate juggernaut Costar at a 212% premium](https://techcrunch.com/2024/04/23/matterport-costar-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
