@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon launches a new grocery delivery subscription in the US](https://techcrunch.com/2024/04/23/amazon-launches-a-new-grocery-delivery-subscription-in-the-u-s/)
-- [Pluto&#39;s heart-shaped scar may offer clues to the frozen world&#39;s history](https://www.space.com/pluto-heart-shaped-scar-history-frozen-world)
-- [Mozilla finds that most dating apps are not great guardians of user data](https://techcrunch.com/2024/04/23/mozilla-finds-that-most-dating-apps-are-not-great-guardians-of-user-data/)
-- [Adobe claims its new image generation model is its best yet](https://techcrunch.com/2024/04/23/adobe-claims-its-new-image-generation-model-is-its-best-yet/)
-- [Rivian targets gas-powered Ford and Toyota trucks and SUVs with $5,000 ‘electric upgrade’ discount](https://techcrunch.com/2024/04/22/rivian-targets-gas-powered-ford-and-toyota-trucks-and-suvs-with-5000-electric-upgrade-discount/)
+- [Two widow founders launch DayNew, a social platform for people dealing with grief and trauma](https://techcrunch.com/2024/04/23/two-widow-founders-launch-daynew-a-social-platform-dedicated-to-people-dealing-with-grief-and-trauma/)
+- [Watch Rocket Lab launch new NASA solar sail tech to orbit today](https://www.space.com/rocket-lab-nasa-solar-sail-tech-launch-april-2024)
+- [Amazon wants to host companies’ custom generative AI models](https://techcrunch.com/2024/04/23/amazon-wants-to-host-companies-custom-generative-ai-models/)
+- [SpaceX launching 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-53)
+- [Bump raises $3 million seed to help creators manage finances](https://techcrunch.com/2024/04/23/bump-raises-3-million-seed-to-help-creators-manage-finances/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
