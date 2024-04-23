@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon launches a new grocery delivery subscription in the US](https://techcrunch.com/2024/04/23/amazon-launches-a-new-grocery-delivery-subscription-in-the-u-s/)
 - [Pluto&#39;s heart-shaped scar may offer clues to the frozen world&#39;s history](https://www.space.com/pluto-heart-shaped-scar-history-frozen-world)
 - [Mozilla finds that most dating apps are not great guardians of user data](https://techcrunch.com/2024/04/23/mozilla-finds-that-most-dating-apps-are-not-great-guardians-of-user-data/)
 - [Adobe claims its new image generation model is its best yet](https://techcrunch.com/2024/04/23/adobe-claims-its-new-image-generation-model-is-its-best-yet/)
 - [Rivian targets gas-powered Ford and Toyota trucks and SUVs with $5,000 ‘electric upgrade’ discount](https://techcrunch.com/2024/04/22/rivian-targets-gas-powered-ford-and-toyota-trucks-and-suvs-with-5000-electric-upgrade-discount/)
-- [UnitedHealth says Change hackers stole health data on ‘substantial proportion of people in America’](https://techcrunch.com/2024/04/22/unitedhealth-change-healthcare-hackers-substantial-proportion-americans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
