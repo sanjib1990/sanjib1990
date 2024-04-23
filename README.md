@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortnite launches to the moon in new &#39;Lunar Horizons&#39; simulation game](https://www.space.com/fortnite-moon-lunar-horizons-game)
 - [NASA astronauts enter quarantine for 1st crewed Boeing Starliner launch on May 6](https://www.space.com/boeing-starliner-1st-astronauts-enter-quarantine-nasa-iss-mission-launch)
 - [Building rockets and looking for life on Venus: Q&amp;A with Rocket Lab&#39;s Peter Beck](https://www.space.com/rocket-lab-peter-beck-interview-april-2024)
 - [Tesla launches new Model 3 Performance variant to rev up demand](https://techcrunch.com/2024/04/23/tesla-model-3-performance-highland-price/)
 - [Tesla earnings week spotlights EV price cuts, ‘balls to the wall’ autonomy push](https://techcrunch.com/2024/04/23/tesla-earnings-week-spotlights-price-cuts-elons-balls-to-the-wall-autonomy-push/)
-- [X is launching a TV app for videos ‘soon’](https://techcrunch.com/2024/04/23/x-is-launching-a-tv-app-for-videos-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
