@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian targets gas-powered Ford and Toyota trucks and SUVs with $5,000 ‘electric upgrade’ discount](https://techcrunch.com/2024/04/22/rivian-targets-gas-powered-ford-and-toyota-trucks-and-suvs-with-5000-electric-upgrade-discount/)
 - [UnitedHealth says Change hackers stole health data on ‘substantial proportion of people in America’](https://techcrunch.com/2024/04/22/unitedhealth-change-healthcare-hackers-substantial-proportion-americans/)
 - [TechCrunch Space: Engineering the future](https://techcrunch.com/2024/04/22/techcrunch-space-engineering-the-future/)
 - [Here are the 30+ startups showcasing at HAX’s May 1 Demo Day](https://techcrunch.com/2024/04/22/here-are-the-30-startups-showcasing-at-haxs-may-1-demo-day/)
 - [Here’s a lab-grown diamond startup that’s attracted a16z’s attention](https://techcrunch.com/2024/04/22/a16z-pascal-lab-grown-diamond/)
-- [Cosmic fountain is polluting intergalactic space with 50 million suns&#39; worth of material](https://www.space.com/gas-outflow-galaxy-space-pollution-cosmic-fountain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
