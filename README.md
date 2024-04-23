@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity is raising $250M+ at a $2.5-$3B valuation for its AI search platform, sources say](https://techcrunch.com/2024/04/23/perplexity-is-raising-250m-at-2-point-5-3b-valuation-ai-search-sources-say/)
+- [Fisker plans more layoffs as cash dwindles and bankruptcy looms](https://techcrunch.com/2024/04/23/fisker-more-layoffs-bankruptcy-ocean-suv/)
+- [Apple’s next iPad event is May 7](https://techcrunch.com/2024/04/23/apples-next-ipad-event-is-may-7/)
+- [Slovenia signs NASA&#39;s Artemis Accords for cooperative space exploration](https://www.space.com/nasa-artemis-accords-slovenia-signing)
 - [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Campus, a community college startup, receives $23M Series A extension led by Founders Fund](https://techcrunch.com/2024/04/23/campus-a-community-college-startup-receives-23m-series-a-extension-led-by-founders-fund/)
-- [ESA graduates the &#39;Hoppers&#39;: Europeans, Australian pass astronaut basic training](https://www.space.com/esa-astronauts-2022-class-hoppers-graduation)
-- [Framework’s repairability philosophy is set to expand beyond the laptop](https://techcrunch.com/2024/04/23/frameworks-repairability-philosophy-is-set-to-expand-beyond-the-laptop/)
-- [Y Combinator alum Matterport is being bought by real estate juggernaut Costar at a 212% premium](https://techcrunch.com/2024/04/23/matterport-costar-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
