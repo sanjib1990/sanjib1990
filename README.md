@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the Full Pink Moon 2024 bloom in the night sky tonight](https://www.space.com/april-full-moon-pink-2024)
+- [Texture makes a bid to become the world’s go-to platform of the energy transition](https://techcrunch.com/2024/04/23/texture-seed-round/)
+- [With Easel, ex-Snap researchers are building the next-generation Bitmoji thanks to AI](https://techcrunch.com/2024/04/23/with-easel-ex-snap-researchers-are-building-the-next-generation-bitmoji-thanks-to-ai/)
 - [Two widow founders launch DayNew, a social platform for people dealing with grief and trauma](https://techcrunch.com/2024/04/23/two-widow-founders-launch-daynew-a-social-platform-dedicated-to-people-dealing-with-grief-and-trauma/)
 - [Watch Rocket Lab launch new NASA solar sail tech to orbit today](https://www.space.com/rocket-lab-nasa-solar-sail-tech-launch-april-2024)
-- [Amazon wants to host companies’ custom generative AI models](https://techcrunch.com/2024/04/23/amazon-wants-to-host-companies-custom-generative-ai-models/)
-- [SpaceX launching 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-53)
-- [Bump raises $3 million seed to help creators manage finances](https://techcrunch.com/2024/04/23/bump-raises-3-million-seed-to-help-creators-manage-finances/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
