@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Minute: How Headspin’s founder fraudster almost get away with lying to investors](https://techcrunch.com/2024/04/23/techcrunch-minute-how-headspins-founder-fraudster-almost-get-away-with-lying-to-investors/)
-- [Bringing down sky scrapers’ sky-high carbon footprint with Joselyn Lai from Bedrock](https://techcrunch.com/2024/04/23/bringing-down-sky-scrapers-sky-high-carbon-footprint-with-joselyn-lai-from-bedrock/)
-- [Watch 4 solar flares erupt from the sun at nearly the same time in extremely rare event &lpar;video&rpar;](https://www.space.com/4-solar-flares-erupt-from-sun-same-time-rare-event-video)
-- [Perplexity is raising $250M+ at a $2.5-$3B valuation for its AI search platform, sources say](https://techcrunch.com/2024/04/23/perplexity-is-raising-250m-at-2-point-5-3b-valuation-ai-search-sources-say/)
-- [Fisker plans more layoffs as cash dwindles and bankruptcy looms](https://techcrunch.com/2024/04/23/fisker-more-layoffs-bankruptcy-ocean-suv/)
+- [Building rockets and looking for life on Venus: Q&amp;A with Rocket Lab&#39;s Peter Beck](https://www.space.com/rocket-lab-peter-beck-interview-april-2024)
+- [Tesla launches new Model 3 Performance variant to rev up demand](https://techcrunch.com/2024/04/23/tesla-model-3-performance-highland-price/)
+- [Tesla earnings week spotlights EV price cuts, ‘balls to the wall’ autonomy push](https://techcrunch.com/2024/04/23/tesla-earnings-week-spotlights-price-cuts-elons-balls-to-the-wall-autonomy-push/)
+- [X is launching a TV app for videos ‘soon’](https://techcrunch.com/2024/04/23/x-is-launching-a-tv-app-for-videos-soon/)
+- [TechCrunch Minute: How Headspin’s founder fraudster almost got away with lying to investors](https://techcrunch.com/2024/04/23/techcrunch-minute-how-headspins-founder-fraudster-almost-get-away-with-lying-to-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
