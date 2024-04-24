@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google-backed Glance pilots Android lockscreen platform in US](https://techcrunch.com/2024/04/23/india-glance-pilots-android-lockscreen-platform-in-us/)
 - [Senate passes a bill forcing TikTok to face a ban if ByteDance doesn’t sell it](https://techcrunch.com/2024/04/23/senate-passes-a-bill-forcing-tiktok-to-face-a-ban-if-bytedance-doesnt-sell-it/)
 - [The all-electric Mercedes G-Class ratchets up the tech and off-road capability](https://techcrunch.com/2024/04/23/the-all-electric-mercedes-g-class-suv-ratchets-up-the-tech-and-off-road-capability/)
 - [Tesla’s new growth plan is centered around mysterious cheaper models](https://techcrunch.com/2024/04/23/teslas-new-growth-plan-is-centered-around-mysterious-cheaper-models/)
 - [Tesla profits drop 55%, company says EV sales ‘under pressure’ from hybrids](https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/)
-- [NASA ends CloudSat Earth-observing mission after 18 years](https://www.space.com/nasa-ends-cloudsat-earth-observing-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
