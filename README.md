@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fintech gaming startup Sanlo’s webshop tool could help developers avoid costly app store fees](https://techcrunch.com/2024/04/24/fintech-gaming-startup-sanlos-webshop-tool-could-help-developers-avoid-costly-app-store-fees/)
-- [Private moon mission to carry NASA electric moon dust shield in 2024](https://www.space.com/nasa-moon-dust-guard-protect-astronauts-spacecraft)
-- [Anon is building an automated authentication layer for the gen AI age](https://techcrunch.com/2024/04/24/anon-is-building-an-automated-authentication-layer-for-the-gen-ai-age/)
-- [The TikTok ban clears key hurdle while Perplexity AI continues to shake up search](https://techcrunch.com/2024/04/24/the-tiktok-ban-clears-key-hurdle-while-perplexity-ai-continues-to-shake-up-search/)
-- [Pre-Star Wars Day Lego deal: 20% off the Emperor&#39;s Throne Room](https://www.space.com/star-wars-day-lego-deal-emperor-throne-room-save-20-percent)
+- [Dripos raises $11M Series A to replace Square, Toast and 8 other pieces of software](https://techcrunch.com/2024/04/24/coffee-shop-software-dripos-square-toast/)
+- [TechCrunch Minute: Perplexity AI could be worth up to $3B. Here’s why](https://techcrunch.com/2024/04/24/techcrunch-minute-perplexity-ai-could-be-worth-up-to-3b-heres-why/)
+- [Seed-stage firm Eniac Ventures raises $220M across two funds](https://techcrunch.com/2024/04/24/seed-stage-firm-eniac-ventures-raises-220m-across-two-funds/)
+- [April full moon has us tickled pink in these gorgeous photos](https://www.space.com/full-pink-moon-april-2024-photos)
+- [Stainless is helping OpenAI, Anthropic and others build SDKs for their APIs](https://techcrunch.com/2024/04/24/stainless-is-helping-openai-anthropic-and-others-build-sdks-for-their-apis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
