@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia acquires AI workload management startup Run:ai](https://techcrunch.com/2024/04/24/nvidia-acquires-ai-workload-management-startup-runai/)
-- [Security bugs in a popular phone-tracking app exposed users’ precise locations](https://techcrunch.com/2024/04/24/security-flaws-isharing-tracking-app-exposed-millions-precise-locations/)
-- [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
-- [Diddo’s new funding will bring its shoppable TV API to streaming platforms](https://techcrunch.com/2024/04/24/diddos-new-funding-will-bring-its-shoppable-tv-api-to-streaming-platforms/)
-- [Citizen scientists spot more than 1,000 new asteroids in old Hubble Telescope photos](https://www.space.com/citizen-scientists-discover-one-thousand-asteroids-hubble-telescope-photos)
+- [Fintech gaming startup Sanlo’s webshop tool could help developers avoid costly app store fees](https://techcrunch.com/2024/04/24/fintech-gaming-startup-sanlos-webshop-tool-could-help-developers-avoid-costly-app-store-fees/)
+- [Private moon mission to carry NASA electric moon dust shield in 2024](https://www.space.com/nasa-moon-dust-guard-protect-astronauts-spacecraft)
+- [Anon is building an automated authentication layer for the gen AI age](https://techcrunch.com/2024/04/24/anon-is-building-an-automated-authentication-layer-for-the-gen-ai-age/)
+- [The TikTok ban clears key hurdle while Perplexity AI continues to shake up search](https://techcrunch.com/2024/04/24/the-tiktok-ban-clears-key-hurdle-while-perplexity-ai-continues-to-shake-up-search/)
+- [Pre-Star Wars Day Lego deal: 20% off the Emperor&#39;s Throne Room](https://www.space.com/star-wars-day-lego-deal-emperor-throne-room-save-20-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
