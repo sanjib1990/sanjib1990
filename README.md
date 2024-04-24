@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Snowflake releases a flagship generative AI model of its own](https://techcrunch.com/2024/04/24/snowflake-releases-a-flagship-generative-ai-model-of-its-own/)
-- [Giant gamma-ray flare from &#39;recently deceased&#39; magnetar lights up Cigar Galaxy](https://www.space.com/gamma-ray-flare-cigar-galaxy-magnetar)
-- [Tomorrow, TechCrunch Early Stage 2024 takes over Boston](https://techcrunch.com/2024/04/24/tomorrow-techcrunch-early-stage-2024-takes-over-boston/)
-- [UK probes Amazon and Microsoft over AI partnerships with Mistral, Anthropic, and Inflection](https://techcrunch.com/2024/04/24/uk-probes-amazon-and-microsoft-over-ai-partnerships-with-mistral-anthropic-and-inflection/)
-- [Tines taps $50M to expand its workflow automation beyond security teams](https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/)
+- [Nvidia acquires AI workload management startup Run:ai](https://techcrunch.com/2024/04/24/nvidia-acquires-ai-workload-management-startup-runai/)
+- [Security bugs in a popular phone-tracking app exposed users’ precise locations](https://techcrunch.com/2024/04/24/security-flaws-isharing-tracking-app-exposed-millions-precise-locations/)
+- [Block lets Square merchants convert a part of their daily sales to bitcoin](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
+- [Diddo’s new funding will bring its shoppable TV API to streaming platforms](https://techcrunch.com/2024/04/24/diddos-new-funding-will-bring-its-shoppable-tv-api-to-streaming-platforms/)
+- [Citizen scientists spot more than 1,000 new asteroids in old Hubble Telescope photos](https://www.space.com/citizen-scientists-discover-one-thousand-asteroids-hubble-telescope-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
