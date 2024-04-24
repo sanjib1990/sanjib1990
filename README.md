@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit is making it easier to navigate conversations on its mobile apps](https://techcrunch.com/2024/04/24/reddit-is-making-it-easier-to-navigate-conversations-on-its-mobile-apps/)
-- [Japan&#39;s SLIM moon lander defies death to survive 3rd frigid lunar night &lpar;image&rpar;](https://www.space.com/japan-slim-moon-lander-survives-3rd-lunar-night)
-- [Dripos raises $11M Series A to replace Square, Toast and 8 other pieces of software](https://techcrunch.com/2024/04/24/coffee-shop-software-dripos-square-toast/)
-- [TechCrunch Minute: Perplexity AI could be worth up to $3B. Here’s why](https://techcrunch.com/2024/04/24/techcrunch-minute-perplexity-ai-could-be-worth-up-to-3b-heres-why/)
-- [Seed-stage firm Eniac Ventures raises $220M across two funds](https://techcrunch.com/2024/04/24/seed-stage-firm-eniac-ventures-raises-220m-across-two-funds/)
+- [Why code-testing startup Nova AI uses open source LLMs more than OpenAI](https://techcrunch.com/2024/04/24/why-code-testing-startup-nova-ai-uses-open-source-llms-more-than-openai/)
+- [China&#39;s Tiangong space station damaged by debris strike: report](https://www.space.com/china-tiangong-space-station-space-debris-measures)
+- [Space Force tests small satellite jammer to protect against &#39;space-enabled&#39; attacks](https://www.space.com/space-force-ground-based-jammer-electronic-warfare)
+- [WhatsApp adds global support for passkeys on iOS](https://techcrunch.com/2024/04/24/whatsapp-adds-global-support-for-passkeys-on-ios/)
+- [Biden signs bill that would ban TikTok if ByteDance fails to sell the app](https://techcrunch.com/2024/04/24/biden-signs-bill-that-would-ban-tiktok-if-bytedance-fails-to-sell-the-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
