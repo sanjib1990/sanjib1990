@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit is making it easier to navigate conversations on its mobile apps](https://techcrunch.com/2024/04/24/reddit-is-making-it-easier-to-navigate-conversations-on-its-mobile-apps/)
+- [Japan&#39;s SLIM moon lander defies death to survive 3rd frigid lunar night &lpar;image&rpar;](https://www.space.com/japan-slim-moon-lander-survives-3rd-lunar-night)
 - [Dripos raises $11M Series A to replace Square, Toast and 8 other pieces of software](https://techcrunch.com/2024/04/24/coffee-shop-software-dripos-square-toast/)
 - [TechCrunch Minute: Perplexity AI could be worth up to $3B. Here’s why](https://techcrunch.com/2024/04/24/techcrunch-minute-perplexity-ai-could-be-worth-up-to-3b-heres-why/)
 - [Seed-stage firm Eniac Ventures raises $220M across two funds](https://techcrunch.com/2024/04/24/seed-stage-firm-eniac-ventures-raises-220m-across-two-funds/)
-- [April full moon has us tickled pink in these gorgeous photos](https://www.space.com/full-pink-moon-april-2024-photos)
-- [Stainless is helping OpenAI, Anthropic and others build SDKs for their APIs](https://techcrunch.com/2024/04/24/stainless-is-helping-openai-anthropic-and-others-build-sdks-for-their-apis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
