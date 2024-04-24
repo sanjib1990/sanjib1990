@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble telescope celebrates 34th anniversary with an iridescent Dumbbell Nebula &lpar;image&rpar;](https://www.space.com/hubble-34-anniversary-dumbbell-nebula)
+- [Radical thinks the time has come for solar-powered, high-altitude autonomous aircraft](https://techcrunch.com/2024/04/24/radical-thinks-the-time-has-come-for-solar-powered-high-altitude-autonomous-aircraft/)
+- [Stripe, doubling down on embedded finance, de-couples payments from the rest of its stack](https://techcrunch.com/2024/04/24/stripe-doubling-down-on-embedded-finance-de-couples-payments-from-the-rest-of-its-stack/)
+- [The mystery of how strange cosmic objects called &#39;JuMBOs&#39; went rogue](https://www.space.com/jumbos-rogue-orion-nebula-star-systems)
 - [Why code-testing startup Nova AI uses open source LLMs more than OpenAI](https://techcrunch.com/2024/04/24/why-code-testing-startup-nova-ai-uses-open-source-llms-more-than-openai/)
-- [China&#39;s Tiangong space station damaged by debris strike: report](https://www.space.com/china-tiangong-space-station-space-debris-measures)
-- [Space Force tests small satellite jammer to protect against &#39;space-enabled&#39; attacks](https://www.space.com/space-force-ground-based-jammer-electronic-warfare)
-- [WhatsApp adds global support for passkeys on iOS](https://techcrunch.com/2024/04/24/whatsapp-adds-global-support-for-passkeys-on-ios/)
-- [Biden signs bill that would ban TikTok if ByteDance fails to sell the app](https://techcrunch.com/2024/04/24/biden-signs-bill-that-would-ban-tiktok-if-bytedance-fails-to-sell-the-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
