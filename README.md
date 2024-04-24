@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA ends CloudSat Earth-observing mission after 18 years](https://www.space.com/nasa-ends-cloudsat-earth-observing-mission)
+- [Tesla’s new growth plan is centered around mysterious cheaper models](https://techcrunch.com/2024/04/23/teslas-new-growth-plan-is-centered-around-mysterious-cheaper-models/)
 - [Tesla profits drop 55%, company says EV sales ‘under pressure’ from hybrids](https://techcrunch.com/2024/04/23/tesla-profits-drop-55-company-says-ev-sales-under-pressure-from-hybrids/)
+- [NASA ends CloudSat Earth-observing mission after 18 years](https://www.space.com/nasa-ends-cloudsat-earth-observing-mission)
 - [Earth&#39;s weird &#39;quasi-moon&#39; Kamo&#39;oalewa is a fragment blasted out of big moon crater](https://www.space.com/quasi-moon-kamooalewa-giant-lunar-impact)
 - [Fortnite launches to the moon in new &#39;Lunar Horizons&#39; simulation game](https://www.space.com/fortnite-moon-lunar-horizons-game)
-- [NASA astronauts enter quarantine for 1st crewed Boeing Starliner launch on May 6](https://www.space.com/boeing-starliner-1st-astronauts-enter-quarantine-nasa-iss-mission-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
