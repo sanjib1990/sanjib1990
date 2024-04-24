@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parloa, a conversational AI platform for customer service, raises $66M](https://techcrunch.com/2024/04/24/parloa-a-conversational-ai-platform-for-customer-service-raises-66m/)
+- [Mirrors in space could boost solar power production on Earth. Here&#39;s how.](https://www.space.com/orbiting-mirror-boost-solar-power-production)
 - [Madica, a program by Flourish Ventures, steps up pre-seed investing in Africa](https://techcrunch.com/2024/04/24/madica-pre-seed-program/)
 - [French startup FlexAI exits stealth with $30M to ease access to AI compute](https://techcrunch.com/2024/04/23/french-startup-flexai-exits-stealth-with-30m-to-ease-access-to-ai-compute/)
 - [Google-backed Glance pilots Android lockscreen platform in US](https://techcrunch.com/2024/04/23/india-glance-pilots-android-lockscreen-platform-in-us/)
-- [Senate passes a bill that would ban TikTok if ByteDance doesn’t sell it](https://techcrunch.com/2024/04/23/senate-passes-a-bill-forcing-tiktok-to-face-a-ban-if-bytedance-doesnt-sell-it/)
-- [The all-electric Mercedes G-Class ratchets up the tech and off-road capability](https://techcrunch.com/2024/04/23/the-all-electric-mercedes-g-class-suv-ratchets-up-the-tech-and-off-road-capability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
