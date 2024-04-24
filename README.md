@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake releases a flagship generative AI model of its own](https://techcrunch.com/2024/04/24/snowflake-releases-a-flagship-generative-ai-model-of-its-own/)
+- [Giant gamma-ray flare from &#39;recently deceased&#39; magnetar lights up Cigar Galaxy](https://www.space.com/gamma-ray-flare-cigar-galaxy-magnetar)
+- [Tomorrow, TechCrunch Early Stage 2024 takes over Boston](https://techcrunch.com/2024/04/24/tomorrow-techcrunch-early-stage-2024-takes-over-boston/)
 - [UK probes Amazon and Microsoft over AI partnerships with Mistral, Anthropic, and Inflection](https://techcrunch.com/2024/04/24/uk-probes-amazon-and-microsoft-over-ai-partnerships-with-mistral-anthropic-and-inflection/)
 - [Tines taps $50M to expand its workflow automation beyond security teams](https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/)
-- [Former Magic Leapers launch a platform for AR experiences](https://techcrunch.com/2024/04/24/former-magic-leapers-launch-a-platform-for-ar-experiences/)
-- [Hinge adds a way to mute requests containing words you specify](https://techcrunch.com/2024/04/24/hinge-adds-a-filter-for-words-and-phrases-you-want-to-avoid-while-getting-matches/)
-- [Earth got hammered by cosmic rays 41,000 years ago due to a weak magnetic field](https://www.space.com/earth-hammered-cosmic-rays-weak-magnetic-field)
 <!-- BLOG-POST-LIST:END -->
 
 ---
