@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lecture 6: Bisection Search &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=PJ_5VNvJGtA)
+- [Lecture 10: Lists and Mutability &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=Z4bm7xzYpKM)
+- [Lecture 12: List Comprehension, Functions as Objects, Testing, and Debugging &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=XdeIfMpvlxo)
 - [CPU Pipeline - Computerphile](https://www.youtube.com/watch?v=BVNx3wtJ9vs)
 - [OCW Learning Journeys: Maria&#39;s Story #MIT #Calculus #STEM #Brazil #OpenEducation #MedicalSchool](https://www.youtube.com/watch?v=Q1VLfDNreJg)
-- [Lecture 14: Dictionaries](https://www.youtube.com/watch?v=lTgLOuaQsvk)
-- [Lecture 3: Iteration](https://www.youtube.com/watch?v=lzYrMcI92kw)
-- [Lecture 16: Recursion on Non-numerics](https://www.youtube.com/watch?v=2XxGplWqXVQ)
 <!-- YOUTUBE:END -->
 
 ---
