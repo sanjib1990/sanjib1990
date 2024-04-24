@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix releases official trailer for Jennifer Lopez mech combat sci-fi film &#39;Atlas&#39; &lpar;video&rpar;](https://www.space.com/atlas-netflix-official-trailer)
+- [IBM moves deeper into hybrid cloud management with $6.4B HashiCorp acquisition](https://techcrunch.com/2024/04/24/ibm-moves-deeper-into-hybrid-cloud-management-with-6-4b-hashicorp-acquisition/)
 - [Rabbit’s R1 is a little AI gadget that grows on you](https://techcrunch.com/2024/04/24/rabbits-r1-is-a-little-ai-gadget-that-grows-on-you/)
 - [Ancient rocks hold proof of Earth&#39;s magnetic field. Here&#39;s why that&#39;s puzzling](https://www.space.com/earth-ancient-magnetic-field-puzzle-isua)
 - [JioCinema, the Indian streaming service, launches 35-cent tier to box out Netflix and Prime Video](https://techcrunch.com/2024/04/24/jiocinema-launches-35-cent-premium-tier-stepping-up-rivalry-with-netflix-and-prime-video/)
-- [Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth with $252M](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
-- [Hubble telescope celebrates 34th anniversary with an iridescent Dumbbell Nebula &lpar;image&rpar;](https://www.space.com/hubble-34-anniversary-dumbbell-nebula)
 <!-- BLOG-POST-LIST:END -->
 
 ---
