@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Parloa, a conversational AI platform for customer service, raises $66M](https://techcrunch.com/2024/04/24/parloa-a-conversational-ai-platform-for-customer-service-raises-66m/)
-- [Mirrors in space could boost solar power production on Earth. Here&#39;s how.](https://www.space.com/orbiting-mirror-boost-solar-power-production)
-- [Madica, a program by Flourish Ventures, steps up pre-seed investing in Africa](https://techcrunch.com/2024/04/24/madica-pre-seed-program/)
-- [French startup FlexAI exits stealth with $30M to ease access to AI compute](https://techcrunch.com/2024/04/23/french-startup-flexai-exits-stealth-with-30m-to-ease-access-to-ai-compute/)
-- [Google-backed Glance pilots Android lockscreen platform in US](https://techcrunch.com/2024/04/23/india-glance-pilots-android-lockscreen-platform-in-us/)
+- [UK probes Amazon and Microsoft over AI partnerships with Mistral, Anthropic, and Inflection](https://techcrunch.com/2024/04/24/uk-probes-amazon-and-microsoft-over-ai-partnerships-with-mistral-anthropic-and-inflection/)
+- [Tines taps $50M to expand its workflow automation beyond security teams](https://techcrunch.com/2024/04/24/tines-taps-50m-to-expand-its-workflow-automation-beyond-security-teams/)
+- [Former Magic Leapers launch a platform for AR experiences](https://techcrunch.com/2024/04/24/former-magic-leapers-launch-a-platform-for-ar-experiences/)
+- [Hinge adds a way to mute requests containing words you specify](https://techcrunch.com/2024/04/24/hinge-adds-a-filter-for-words-and-phrases-you-want-to-avoid-while-getting-matches/)
+- [Earth got hammered by cosmic rays 41,000 years ago due to a weak magnetic field](https://www.space.com/earth-hammered-cosmic-rays-weak-magnetic-field)
 <!-- BLOG-POST-LIST:END -->
 
 ---
