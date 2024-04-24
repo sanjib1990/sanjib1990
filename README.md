@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Kitchen Cloud Chamber with Prof. Anne White](https://www.youtube.com/watch?v=S35LQ2NqB1Q)
 - [Lecture 6: Bisection Search &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=PJ_5VNvJGtA)
 - [Lecture 10: Lists and Mutability &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=Z4bm7xzYpKM)
 - [Lecture 12: List Comprehension, Functions as Objects, Testing, and Debugging &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=XdeIfMpvlxo)
 - [CPU Pipeline - Computerphile](https://www.youtube.com/watch?v=BVNx3wtJ9vs)
-- [OCW Learning Journeys: Maria&#39;s Story #MIT #Calculus #STEM #Brazil #OpenEducation #MedicalSchool](https://www.youtube.com/watch?v=Q1VLfDNreJg)
 <!-- YOUTUBE:END -->
 
 ---
