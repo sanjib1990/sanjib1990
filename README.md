@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rabbit’s R1 is a little AI gadget that grows on you](https://techcrunch.com/2024/04/24/rabbits-r1-is-a-little-ai-gadget-that-grows-on-you/)
+- [Ancient rocks hold proof of Earth&#39;s magnetic field. Here&#39;s why that&#39;s puzzling](https://www.space.com/earth-ancient-magnetic-field-puzzle-isua)
+- [JioCinema, the Indian streaming service, launches 35-cent tier to box out Netflix and Prime Video](https://techcrunch.com/2024/04/24/jiocinema-launches-35-cent-premium-tier-stepping-up-rivalry-with-netflix-and-prime-video/)
+- [Eric Schmidt-backed Augment, a GitHub Copilot rival, launches out of stealth with $252M](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
 - [Hubble telescope celebrates 34th anniversary with an iridescent Dumbbell Nebula &lpar;image&rpar;](https://www.space.com/hubble-34-anniversary-dumbbell-nebula)
-- [Radical thinks the time has come for solar-powered, high-altitude autonomous aircraft](https://techcrunch.com/2024/04/24/radical-thinks-the-time-has-come-for-solar-powered-high-altitude-autonomous-aircraft/)
-- [Stripe, doubling down on embedded finance, de-couples payments from the rest of its stack](https://techcrunch.com/2024/04/24/stripe-doubling-down-on-embedded-finance-de-couples-payments-from-the-rest-of-its-stack/)
-- [The mystery of how strange cosmic objects called &#39;JuMBOs&#39; went rogue](https://www.space.com/jumbos-rogue-orion-nebula-star-systems)
-- [Why code-testing startup Nova AI uses open source LLMs more than OpenAI](https://techcrunch.com/2024/04/24/why-code-testing-startup-nova-ai-uses-open-source-llms-more-than-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
