@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Across the universe, dark matter annihilation could be warming up dead stars](https://www.space.com/dark-matter-annihilation-neutron-stars)
+- [Petlibro’s new smart refrigerated wet food feeder is what your cat deserves](https://techcrunch.com/2024/04/25/petlibros-new-smart-refrigerated-wet-food-feeder-is-what-your-cat-deserves/)
+- [Carv raises $10M Series A to help gamers monetize their data](https://techcrunch.com/2024/04/25/carv-raises-10m-series-a-to-help-gaming-and-ai-firms-monetize-data/)
 - [Ex-NSA hacker and ex-Apple researcher launch startup to protect Apple devices](https://techcrunch.com/2024/04/25/ex-nsa-ex-apple-researcher-doubleyou/)
 - [During the solar system&#39;s chaotic era, Jupiter may have helped form Earth&#39;s moon](https://www.space.com/jupiter-earth-moon-great-instability-chondrites)
-- [India’s ICICI Bank exposed thousands of credit cards to ‘wrong’ users](https://techcrunch.com/2024/04/25/india-icici-bank-exposed-credit-cards/)
-- [Watch it and weep &lpar;or smile&rpar;: Synthesia’s AI video avatars now feature emotions](https://techcrunch.com/2024/04/25/watch-it-and-weep-or-smile-synthesias-ai-video-avatars-now-feature-emotions/)
-- [Meta could face further squeeze on surveillance ads model in EU](https://techcrunch.com/2024/04/25/meta-ads-data-retention-ag-opinion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
