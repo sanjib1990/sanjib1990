@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing’s Starliner set to fly astronauts for the first time on May 6](https://techcrunch.com/2024/04/25/boeings-starliner-set-to-fly-astronauts-for-the-first-time-on-may-6/)
+- [Boeing&#39;s Starliner spacecraft is &#39;go&#39; for May 6 astronaut launch](https://www.space.com/boeing-starliner-cleared-launch-crew-flight-test)
 - [Snap says total watch time on its TikTok competitor increased more than 125%](https://techcrunch.com/2024/04/25/snap-total-watch-time-on-tiktok-competitor-increased-125/)
 - [It’s a sunny day for Google Cloud](https://techcrunch.com/2024/04/25/its-a-sunny-day-for-google-cloud/)
 - [Rubrik’s shares end trading up almost 16% on the company’s public debut](https://techcrunch.com/2024/04/25/rubriks-shares-climb-20-in-its-public-debut/)
-- [Why Meta is looking to the fediverse as the future for social media](https://techcrunch.com/2024/04/25/why-meta-is-looking-to-the-fediverse-as-the-future-for-social-media/)
-- [Russian cosmonauts make quick work of space station spacewalk](https://www.space.com/russian-spacewalk-radar-deploy-april-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
