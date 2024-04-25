@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Minute: FTC bans noncompetes, court challenge incoming](https://techcrunch.com/2024/04/25/techcrunch-minute-ftc-bans-noncompetes-court-challenge-incoming/)
-- [NASA&#39;s Fermi space telescope finds a strange supernova with missing gamma rays](https://www.space.com/supernova-fermi-nasa-space-telescope-gamma-ray)
-- [RevenueCat raises $12M Series C as it expands its subscription management to the web](https://techcrunch.com/2024/04/25/revenuecat-raises-12m-series-c-as-it-expands-its-subscription-management-to-the-web/)
-- [Stellar detectives find suspect for incredibly powerful &#39;superflares&#39;](https://www.space.com/superflare-star-system-more-powerful-than-solar-flares)
-- [&#39;Star Trek: Discovery&#39; S05, E05 is a quality installment, but it&#39;s weighed down by another anchor of nostalgia](https://www.space.com/star-trek-discovery-season-5-episode-5-review)
+- [Bluesky backs a project that would let Mastodon apps, like Ivory,  work with its network](https://techcrunch.com/2024/04/25/bluesky-backs-a-project-that-would-let-mastodon-apps-like-ivory-work-with-its-network/)
+- [&#39;Rocket cam&#39; takes you aboard final launch of ULA&#39;s Delta IV Heavy &lpar;video&rpar;](https://www.space.com/ula-delta-iv-heavy-final-launch-video)
+- [Threads launches custom mute filters, teases controls for quote posts](https://techcrunch.com/2024/04/25/threads-launches-a-mute-feature-for-words-teases-controls-for-quote-posts/)
+- [After 6-year hiatus, Stripe to start taking crypto payments, starting with USDC stablecoin](https://techcrunch.com/2024/04/25/after-6-year-hiatus-stripe-to-start-taking-crypto-payments-starting-with-usdc-stablecoin/)
+- [Watch live today as NASA astronauts fly to launch site for 1st crewed Boeing Starliner mission to ISS](https://www.space.com/boeing-starliner-nasa-astronaut-arrival-launch-site-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
