@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Discovery&#39; S05, E05 is a quality installment, but it&#39;s weighed down by another anchor of nostalgia](https://www.space.com/star-trek-discovery-season-5-episode-5-review)
+- [Paystand acquires Teampay to be DeFi version of ‘Venmo for B2B payments’](https://techcrunch.com/2024/04/25/paystand-teampay-defi-venmo-b2b-payments/)
+- [The impact of TikTok’s ban in other countries could signal what’s ahead for the U.S.](https://techcrunch.com/2024/04/25/the-impact-of-tiktoks-ban-in-other-countries-could-signal-whats-ahead-for-the-u-s/)
+- [China launches 3 astronauts to Tiangong space station on Shenzhou 18 mission &lpar;video&rpar;](https://www.space.com/china-launches-shenzhou-18-astronaut-mission-tiangong-space-station)
 - [Across the universe, dark matter annihilation could be warming up dead stars](https://www.space.com/dark-matter-annihilation-neutron-stars)
-- [Petlibro’s new smart refrigerated wet food feeder is what your cat deserves](https://techcrunch.com/2024/04/25/petlibros-new-smart-refrigerated-wet-food-feeder-is-what-your-cat-deserves/)
-- [Carv raises $10M Series A to help gamers monetize their data](https://techcrunch.com/2024/04/25/carv-raises-10m-series-a-to-help-gaming-and-ai-firms-monetize-data/)
-- [Ex-NSA hacker and ex-Apple researcher launch startup to protect Apple devices](https://techcrunch.com/2024/04/25/ex-nsa-ex-apple-researcher-doubleyou/)
-- [During the solar system&#39;s chaotic era, Jupiter may have helped form Earth&#39;s moon](https://www.space.com/jupiter-earth-moon-great-instability-chondrites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
