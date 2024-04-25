@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch 2 cosmonauts conduct spacewalk outside the ISS today](https://www.space.com/cosmonauts-spacewalk-iss-april-2024-webcast)
-- [TikTok pulls feature from Lite app in EU over addiction concerns](https://techcrunch.com/2024/04/25/tiktok-lite-rewards-feature-suspended-eu/)
-- [Playruo lets you try game demos from your web browser](https://techcrunch.com/2024/04/25/playruo-lets-you-try-game-demos-from-your-web-browser/)
-- [Edonia grabs €2M to turn microalgae into less bitter-tasting ground meat alternative](https://techcrunch.com/2024/04/24/edonia-2m-microalgae-ground-meat-alternative/)
-- [Swiggy, the Indian food delivery giant, seeks $1.25 billion in IPO after receiving shareholder approval](https://techcrunch.com/2024/04/24/india-swiggy-secures-shareholder-approval-for-1-2-billion-ipo/)
+- [Ex-NSA hacker and ex-Apple researcher launch startup to protect Apple devices](https://techcrunch.com/2024/04/25/ex-nsa-ex-apple-researcher-doubleyou/)
+- [During the solar system&#39;s chaotic era, Jupiter may have helped form Earth&#39;s moon](https://www.space.com/jupiter-earth-moon-great-instability-chondrites)
+- [India’s ICICI Bank exposed thousands of credit cards to ‘wrong’ users](https://techcrunch.com/2024/04/25/india-icici-bank-exposed-credit-cards/)
+- [Watch it and weep &lpar;or smile&rpar;: Synthesia’s AI video avatars now feature emotions](https://techcrunch.com/2024/04/25/watch-it-and-weep-or-smile-synthesias-ai-video-avatars-now-feature-emotions/)
+- [Meta could face further squeeze on surveillance ads model in EU](https://techcrunch.com/2024/04/25/meta-ads-data-retention-ag-opinion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
