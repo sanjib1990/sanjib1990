@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is TikTok getting banned? Not yet, but that doesn’t mean you shouldn’t explore alternatives](https://techcrunch.com/2024/04/25/is-tiktok-getting-banned-not-yet-but-that-doesnt-mean-you-shouldnt-explore-alternatives/)
-- [Lego reveals NASA Artemis rocket, Milky Way galaxy sets coming in May](https://www.space.com/lego-artemis-space-launch-system-milky-way-announce)
-- [Speaker applications close tomorrow for TechCrunch Disrupt 2024](https://techcrunch.com/2024/04/25/speaker-applications-close-tomorrow-for-techcrunch-disrupt-2024/)
-- [Breaking down TikTok’s legal arguments around free speech, national security claims](https://techcrunch.com/2024/04/25/breaking-down-tiktoks-legal-arguments-around-free-speech-national-security-claims/)
-- [Gen Z is losing its political voice on social media](https://techcrunch.com/2024/04/25/gen-z-tiktok-ban-politics-instagram/)
+- [Curiosity rover may be &#39;burping&#39; methane out of Mars&#39; subsurface](https://www.space.com/mars-methane-mystery-salt-crust-curiosity-rover)
+- [Health insurance giant Kaiser notifies millions of a data breach](https://techcrunch.com/2024/04/25/kaiser-permanente-health-plan-millions-data-breach/)
+- [Sanctuary’s new humanoid robot learns faster and costs less](https://techcrunch.com/2024/04/25/sanctuarys-new-humanoid-robot-learns-faster-and-costs-less/)
+- [Gravitics to develop ‘tactically responsive’ orbital platforms for the Space Force](https://techcrunch.com/2024/04/25/gravitics-to-develop-tactically-responsive-orbital-platforms-for-the-space-force/)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
