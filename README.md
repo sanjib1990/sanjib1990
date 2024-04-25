@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ice-penetrating radar will help JUICE and other spacecraft find water beyond Earth](https://www.space.com/esa-jupiter-moons-juice-spacecraft-ice-penetrating-radar)
+- [FCC officially votes to reinstate net neutrality](https://techcrunch.com/2024/04/25/fcc-officially-votes-to-reinstate-net-neutrality/)
+- [Rubrik’s shares climb 20% in its public debut](https://techcrunch.com/2024/04/25/rubriks-shares-climb-20-in-its-public-debut/)
 - [Bluesky backs a project that would let Mastodon apps, like Ivory,  work with its network](https://techcrunch.com/2024/04/25/bluesky-backs-a-project-that-would-let-mastodon-apps-like-ivory-work-with-its-network/)
 - [&#39;Rocket cam&#39; takes you aboard final launch of ULA&#39;s Delta IV Heavy &lpar;video&rpar;](https://www.space.com/ula-delta-iv-heavy-final-launch-video)
-- [Threads launches custom mute filters, teases controls for quote posts](https://techcrunch.com/2024/04/25/threads-launches-a-mute-feature-for-words-teases-controls-for-quote-posts/)
-- [After 6-year hiatus, Stripe to start taking crypto payments, starting with USDC stablecoin](https://techcrunch.com/2024/04/25/after-6-year-hiatus-stripe-to-start-taking-crypto-payments-starting-with-usdc-stablecoin/)
-- [Watch live today as NASA astronauts fly to launch site for 1st crewed Boeing Starliner mission to ISS](https://www.space.com/boeing-starliner-nasa-astronaut-arrival-launch-site-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
