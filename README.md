@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Zuckerberg says Threads has 150 million monthly active users](https://techcrunch.com/2024/04/24/mark-zuckerberg-says-threads-has-150-million-monthly-active-users/)
+- [Watch China launch 3 astronauts to Tiangong space station today](https://www.space.com/china-shenzhou-18-astronaut-launch-webcast)
 - [Xaira, an AI drug discovery startup, launches with a massive $1B, says it’s ‘ready’ to start developing drugs](https://techcrunch.com/2024/04/24/xaira-an-ai-drug-discovery-startup-launches-with-a-massive-1b-says-its-ready-to-start-developing-drugs/)
 - [Anduril moves ahead in Pentagon program to develop unmanned fighter jets](https://techcrunch.com/2024/04/24/anduril-moves-ahead-in-pentagon-program-to-develop-unmanned-fighter-jets/)
 - [Buried in the Cat&#39;s Paw Nebula lies one of the largest space molecules ever seen](https://www.space.com/cats-paw-nebula-space-molecule-chemistry)
-- [Netflix releases official trailer for Jennifer Lopez mech combat sci-fi film &#39;Atlas&#39; &lpar;video&rpar;](https://www.space.com/atlas-netflix-official-trailer)
-- [IBM moves deeper into hybrid cloud management with $6.4B HashiCorp acquisition](https://techcrunch.com/2024/04/24/ibm-moves-deeper-into-hybrid-cloud-management-with-6-4b-hashicorp-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
