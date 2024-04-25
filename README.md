@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Xaira, an AI drug discovery startup, launches with a massive $1B, says it’s ‘ready’ to start developing drugs](https://techcrunch.com/2024/04/24/xaira-an-ai-drug-discovery-startup-launches-with-a-massive-1b-says-its-ready-to-start-developing-drugs/)
+- [Anduril moves ahead in Pentagon program to develop unmanned fighter jets](https://techcrunch.com/2024/04/24/anduril-moves-ahead-in-pentagon-program-to-develop-unmanned-fighter-jets/)
 - [Buried in the Cat&#39;s Paw Nebula lies one of the largest space molecules ever seen](https://www.space.com/cats-paw-nebula-space-molecule-chemistry)
 - [Netflix releases official trailer for Jennifer Lopez mech combat sci-fi film &#39;Atlas&#39; &lpar;video&rpar;](https://www.space.com/atlas-netflix-official-trailer)
 - [IBM moves deeper into hybrid cloud management with $6.4B HashiCorp acquisition](https://techcrunch.com/2024/04/24/ibm-moves-deeper-into-hybrid-cloud-management-with-6-4b-hashicorp-acquisition/)
-- [Rabbit’s R1 is a little AI gadget that grows on you](https://techcrunch.com/2024/04/24/rabbits-r1-is-a-little-ai-gadget-that-grows-on-you/)
-- [Ancient rocks hold proof of Earth&#39;s magnetic field. Here&#39;s why that&#39;s puzzling](https://www.space.com/earth-ancient-magnetic-field-puzzle-isua)
 <!-- BLOG-POST-LIST:END -->
 
 ---
