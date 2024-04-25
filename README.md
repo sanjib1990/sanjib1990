@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch 2 cosmonauts conduct spacewalk outside the ISS today](https://www.space.com/cosmonauts-spacewalk-iss-april-2024-webcast)
 - [TikTok pulls feature from Lite app in EU over addiction concerns](https://techcrunch.com/2024/04/25/tiktok-lite-rewards-feature-suspended-eu/)
 - [Playruo lets you try game demos from your web browser](https://techcrunch.com/2024/04/25/playruo-lets-you-try-game-demos-from-your-web-browser/)
 - [Edonia grabs €2M to turn microalgae into less bitter-tasting ground meat alternative](https://techcrunch.com/2024/04/24/edonia-2m-microalgae-ground-meat-alternative/)
 - [Swiggy, the Indian food delivery giant, seeks $1.25 billion in IPO after receiving shareholder approval](https://techcrunch.com/2024/04/24/india-swiggy-secures-shareholder-approval-for-1-2-billion-ipo/)
-- [Mark Zuckerberg says Threads has 150 million monthly active users](https://techcrunch.com/2024/04/24/mark-zuckerberg-says-threads-has-150-million-monthly-active-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
