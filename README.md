@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How AI &#39;Understands&#39; Images &lpar;CLIP&rpar; - Computerphile](https://www.youtube.com/watch?v=KcSXcpluDe4)
-- [Lecture 12: List Comprehension, Functions as Objects, Testing, and Debugging &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=AZBxs3OvFrY)
-- [The Kitchen Cloud Chamber with Prof. Anne White](https://www.youtube.com/watch?v=S35LQ2NqB1Q)
-- [Lecture 6: Bisection Search &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=PJ_5VNvJGtA)
-- [Lecture 10: Lists and Mutability &lpar;FIXED&rpar;](https://www.youtube.com/watch?v=Z4bm7xzYpKM)
+- [Introduction to GIS, Part I: Key Concepts](https://www.youtube.com/watch?v=kEoJ-teErzM)
+- [Introduction to R, Part III: Linear and Mixed Models in R](https://www.youtube.com/watch?v=IvJvmufB1oA)
+- [Introduction to R, Part I: Interface and Data Structures](https://www.youtube.com/watch?v=7fYgr1qUdnU)
+- [Introduction to GIS, Part V: Extract Information from Maps using Spatial Data Points](https://www.youtube.com/watch?v=G_vxgoj1YNU)
+- [Introduction to R, Part IV: Loops and Functions](https://www.youtube.com/watch?v=31kRLTxDaAw)
 <!-- YOUTUBE:END -->
 
 ---
