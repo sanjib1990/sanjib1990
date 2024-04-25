@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Curiosity rover may be &#39;burping&#39; methane out of Mars&#39; subsurface](https://www.space.com/mars-methane-mystery-salt-crust-curiosity-rover)
-- [Health insurance giant Kaiser notifies millions of a data breach](https://techcrunch.com/2024/04/25/kaiser-permanente-health-plan-millions-data-breach/)
-- [Sanctuary’s new humanoid robot learns faster and costs less](https://techcrunch.com/2024/04/25/sanctuarys-new-humanoid-robot-learns-faster-and-costs-less/)
-- [Gravitics to develop ‘tactically responsive’ orbital platforms for the Space Force](https://techcrunch.com/2024/04/25/gravitics-to-develop-tactically-responsive-orbital-platforms-for-the-space-force/)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [Snap says total watch time on its TikTok competitor increased more than 125%](https://techcrunch.com/2024/04/25/snap-total-watch-time-on-tiktok-competitor-increased-125/)
+- [It’s a sunny day for Google Cloud](https://techcrunch.com/2024/04/25/its-a-sunny-day-for-google-cloud/)
+- [Rubrik’s shares end trading up almost 16% on the company’s public debut](https://techcrunch.com/2024/04/25/rubriks-shares-climb-20-in-its-public-debut/)
+- [Why Meta is looking to the fediverse as the future for social media](https://techcrunch.com/2024/04/25/why-meta-is-looking-to-the-fediverse-as-the-future-for-social-media/)
+- [Russian cosmonauts make quick work of space station spacewalk](https://www.space.com/russian-spacewalk-radar-deploy-april-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
