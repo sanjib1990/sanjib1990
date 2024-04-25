@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ice-penetrating radar will help JUICE and other spacecraft find water beyond Earth](https://www.space.com/esa-jupiter-moons-juice-spacecraft-ice-penetrating-radar)
-- [FCC officially votes to reinstate net neutrality](https://techcrunch.com/2024/04/25/fcc-officially-votes-to-reinstate-net-neutrality/)
-- [Rubrik’s shares climb 20% in its public debut](https://techcrunch.com/2024/04/25/rubriks-shares-climb-20-in-its-public-debut/)
-- [Bluesky backs a project that would let Mastodon apps, like Ivory,  work with its network](https://techcrunch.com/2024/04/25/bluesky-backs-a-project-that-would-let-mastodon-apps-like-ivory-work-with-its-network/)
-- [&#39;Rocket cam&#39; takes you aboard final launch of ULA&#39;s Delta IV Heavy &lpar;video&rpar;](https://www.space.com/ula-delta-iv-heavy-final-launch-video)
+- [Is TikTok getting banned? Not yet, but that doesn’t mean you shouldn’t explore alternatives](https://techcrunch.com/2024/04/25/is-tiktok-getting-banned-not-yet-but-that-doesnt-mean-you-shouldnt-explore-alternatives/)
+- [Lego reveals NASA Artemis rocket, Milky Way galaxy sets coming in May](https://www.space.com/lego-artemis-space-launch-system-milky-way-announce)
+- [Speaker applications close tomorrow for TechCrunch Disrupt 2024](https://techcrunch.com/2024/04/25/speaker-applications-close-tomorrow-for-techcrunch-disrupt-2024/)
+- [Breaking down TikTok’s legal arguments around free speech, national security claims](https://techcrunch.com/2024/04/25/breaking-down-tiktoks-legal-arguments-around-free-speech-national-security-claims/)
+- [Gen Z is losing its political voice on social media](https://techcrunch.com/2024/04/25/gen-z-tiktok-ban-politics-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
