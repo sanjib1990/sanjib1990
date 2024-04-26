@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta AI tested: Doesn’t quite justify its own existence, but free is free](https://techcrunch.com/2024/04/26/meta-ai-tested-doesnt-quite-justify-its-own-existence-but-free-is-free/)
+- [Watch 2 gorgeous supernova remnants evolve over 20 years &lpar;timelapse video&rpar;](https://www.space.com/chandra-timelapse-crab-nebula-cassiopeia-a)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 - [So are we banning TikTok or what? Also: Can an influencer really tank an $800M company?](https://techcrunch.com/2024/04/26/ixnay-on-the-tiktok-and-the-power-of-influencers/)
 - [US Space Force picks Rocket Lab for 2025 Victus Haze space domain awareness mission](https://www.space.com/space-exploration/satellites/us-space-force-picks-rocket-lab-for-2025-victus-haze-space-domain-awareness-mission)
-- [Exploding stars send out powerful bursts of energy − I&#39;m leading a citizen scientist project to classify and learn about these bright flashes](https://www.space.com/classifying-super-nova-energy-bursts)
-- [The IBM-HashiCorp coupling could be more complicated than it seems](https://techcrunch.com/2024/04/26/the-ibm-hashicorp-coupling-could-be-more-complicated-than-it-seems/)
-- [Curio raises funds for Rio, an ‘AI news anchor’ in an app](https://techcrunch.com/2024/04/26/curio-raises-funds-for-rio-an-ai-news-anchor-in-an-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
