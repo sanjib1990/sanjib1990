@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Photo-sharing community EyeEm will license users photos to train AI if they don’t delete them](https://techcrunch.com/2024/04/26/photo-sharing-community-eyeem-will-license-users-photos-to-train-ai-if-they-dont-delete-them/)
 - [Meta AI tested: Doesn’t quite justify its own existence, but free is free](https://techcrunch.com/2024/04/26/meta-ai-tested-doesnt-quite-justify-its-own-existence-but-free-is-free/)
 - [Watch 2 gorgeous supernova remnants evolve over 20 years &lpar;timelapse video&rpar;](https://www.space.com/chandra-timelapse-crab-nebula-cassiopeia-a)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 - [So are we banning TikTok or what? Also: Can an influencer really tank an $800M company?](https://techcrunch.com/2024/04/26/ixnay-on-the-tiktok-and-the-power-of-influencers/)
-- [US Space Force picks Rocket Lab for 2025 Victus Haze space domain awareness mission](https://www.space.com/space-exploration/satellites/us-space-force-picks-rocket-lab-for-2025-victus-haze-space-domain-awareness-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
