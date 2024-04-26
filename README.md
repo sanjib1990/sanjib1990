@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 sci-fi movies that weren&#39;t great but still deserve a sequel](https://www.space.com/five-sci-fi-movies-deserve-sequel)
-- [Google’s new ‘Speaking practice’ feature uses AI to help users improve their English skills](https://techcrunch.com/2024/04/26/google-improve-english-new-speaking-practice-feature/)
-- [NASA begins delivering 1st Artemis Moon Trees to be planted across United States](https://www.space.com/artemis-moon-tree-first-recipients)
-- [Area man, Twilio co-founder Jeff Lawson, buys The Onion](https://techcrunch.com/2024/04/26/area-man-twilio-co-founder-jeff-lawson-buys-the-onion/)
-- [Despite complaints, Apple hasn’t yet removed an obviously fake app pretending to be RockAuto](https://techcrunch.com/2024/04/26/despite-complaints-apple-hasnt-yet-removed-an-obviously-fake-app-pretending-to-be-rockauto/)
+- [TechCrunch Minute: Rabbit’s R1 vs Humane’s Ai Pin, which had the best launch?](https://techcrunch.com/2024/04/26/techcrunch-minute-rabbits-r1-vs-humanes-ai-pin-which-had-the-best-launch/)
+- [Disrupt 2024 speaker applications close at midnight](https://techcrunch.com/2024/04/26/disrupt-2024-speaker-applications-close-at-midnight/)
+- [Pitch Deck Teardown: NOQX’s $200K pre-seed deck](https://techcrunch.com/2024/04/26/sample-pre-seed-pitch-deck-noqx/)
+- [Satellites spot clusters of &#39;spiders&#39; sprawled across Mars&#39; Inca City &lpar;photo&rpar;](https://www.space.com/spiders-mars-inca-city-satellite-photo)
+- [OpenAI Startup Fund quietly raises $15M](https://techcrunch.com/2024/04/26/openai-startup-fund-quietly-raises-15m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
