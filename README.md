@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope discovers some early universe galaxies grew up surprisingly fast](https://www.space.com/james-webb-space-telescope-discovers-some-early-universe-galaxies-grew-up)
 - [Thoma Bravo to take UK cybersecurity company Darktrace private in $5B deal](https://techcrunch.com/2024/04/26/thoma-bravo-to-take-uk-cybersecurity-company-darktrace-private-in-5b-deal/)
 - [Alien Day 2024: &#39;Alien&#39; bursts back into theaters today](https://www.space.com/alien-day-2024-return-to-theaters)
 - [Tesla Autopilot investigation closed after feds find 13 fatal crashes related to misuse](https://techcrunch.com/2024/04/26/tesla-nhtsa-autopilot-investigation-closed-fatal-crashes/)
 - [Shein to face EU’s strictest rules for online marketplaces](https://techcrunch.com/2024/04/26/shein-dsa-vlop/)
-- [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017)
 <!-- BLOG-POST-LIST:END -->
 
 ---
