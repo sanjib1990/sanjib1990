@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Laser on NASA&#39;s Psyche asteroid probe beams data from 140 million miles away](https://www.space.com/nasa-psyche-laser-communications-dsoc-april-8-data-return)
 - [TechCrunch Minute: Rabbit’s R1 vs Humane’s Ai Pin, which had the best launch?](https://techcrunch.com/2024/04/26/techcrunch-minute-rabbits-r1-vs-humanes-ai-pin-which-had-the-best-launch/)
 - [Disrupt 2024 speaker applications close at midnight](https://techcrunch.com/2024/04/26/disrupt-2024-speaker-applications-close-at-midnight/)
 - [Pitch Deck Teardown: NOQX’s $200K pre-seed deck](https://techcrunch.com/2024/04/26/sample-pre-seed-pitch-deck-noqx/)
 - [Satellites spot clusters of &#39;spiders&#39; sprawled across Mars&#39; Inca City &lpar;photo&rpar;](https://www.space.com/spiders-mars-inca-city-satellite-photo)
-- [OpenAI Startup Fund quietly raises $15M](https://techcrunch.com/2024/04/26/openai-startup-fund-quietly-raises-15m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
