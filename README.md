@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoma Bravo to take UK cybersecurity company Darktrace private in $5B deal](https://techcrunch.com/2024/04/26/thoma-bravo-to-take-uk-cybersecurity-company-darktrace-private-in-5b-deal/)
+- [Alien Day 2024: &#39;Alien&#39; bursts back into theaters today](https://www.space.com/alien-day-2024-return-to-theaters)
+- [Tesla Autopilot investigation closed after feds find 13 fatal crashes related to misuse](https://techcrunch.com/2024/04/26/tesla-nhtsa-autopilot-investigation-closed-fatal-crashes/)
+- [Shein to face EU’s strictest rules for online marketplaces](https://techcrunch.com/2024/04/26/shein-dsa-vlop/)
 - [Satellite images overlay 2024 and 2017 total solar eclipses sweeping across US](https://www.space.com/satellite-images-total-solar-eclipse-2024-2017)
-- [Global Founders Capital will deploy Rocket Internet’s cash instead of raising a new fund](https://techcrunch.com/2024/04/26/global-founders-capital-becomes-rocket-internets-venture-arm/)
-- [xAI, Elon Musk’s OpenAI rival, is closing on $6B in funding and X, his social network, is already one of its shareholders](https://techcrunch.com/2024/04/25/xai-elon-musks-openai-rival-is-closing-on-6b-in-funding-and-x-his-social-network-is-already-one-of-its-shareholders/)
-- [Zomato’s quick commerce unit Blinkit eclipses core food business in value, says Goldman Sachs](https://techcrunch.com/2024/04/25/zomato-quick-commerce-blinkit-eclipses-core-food-business-in-value-says-goldman-sachs/)
-- [The FTC’s ban on noncompete clauses could be good for startups. But it also might be struck down.](https://techcrunch.com/2024/04/25/the-ftcs-ban-on-noncompete-clauses-could-be-good-for-startups-but-it-also-might-be-struck-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
