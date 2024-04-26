@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [So are we banning TikTok or what? Also: Can an influencer really tank an $800M company?](https://techcrunch.com/2024/04/26/ixnay-on-the-tiktok-and-the-power-of-influencers/)
+- [US Space Force picks Rocket Lab for 2025 Victus Haze space domain awareness mission](https://www.space.com/space-exploration/satellites/us-space-force-picks-rocket-lab-for-2025-victus-haze-space-domain-awareness-mission)
 - [Exploding stars send out powerful bursts of energy − I&#39;m leading a citizen scientist project to classify and learn about these bright flashes](https://www.space.com/classifying-super-nova-energy-bursts)
 - [The IBM-HashiCorp coupling could be more complicated than it seems](https://techcrunch.com/2024/04/26/the-ibm-hashicorp-coupling-could-be-more-complicated-than-it-seems/)
 - [Curio raises funds for Rio, an ‘AI news anchor’ in an app](https://techcrunch.com/2024/04/26/curio-raises-funds-for-rio-an-ai-news-anchor-in-an-app/)
-- [Wow! Private space-junk probe snaps historic photo of discarded rocket in orbit](https://www.space.com/astroscale-adras-j-space-junk-rendezvous-mission-photo)
-- [Laser on NASA&#39;s Psyche asteroid probe beams data from 140 million miles away](https://www.space.com/nasa-psyche-laser-communications-dsoc-april-8-data-return)
 <!-- BLOG-POST-LIST:END -->
 
 ---
