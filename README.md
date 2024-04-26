@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zomato’s quick commerce unit Blinkit eclipses core food business in value, says Goldman Sachs](https://techcrunch.com/2024/04/25/zomato-quick-commerce-blinkit-eclipses-core-food-business-in-value-says-goldman-sachs/)
+- [The FTC’s ban on noncompete clauses could be good for startups. But it also might be struck down.](https://techcrunch.com/2024/04/25/the-ftcs-ban-on-noncompete-clauses-could-be-good-for-startups-but-it-also-might-be-struck-down/)
 - [Norwest Venture Partners raises $3B for 17th vehicle, maintaining fund size despite market downturn](https://techcrunch.com/2024/04/25/norwest-venture-partners-raises-3b-for-17th-vehicle-maintaining-fund-size-despite-market-downturn/)
 - [Defense startup True Anomaly lays off around 25%, cancels summer internship](https://techcrunch.com/2024/04/25/defense-space-startup-true-anomaly-layoffs-cancels-internship/)
 - [Boeing’s Starliner set to fly astronauts for the first time on May 6](https://techcrunch.com/2024/04/25/boeings-starliner-set-to-fly-astronauts-for-the-first-time-on-may-6/)
-- [Boeing&#39;s Starliner spacecraft is &#39;go&#39; for May 6 astronaut launch](https://www.space.com/boeing-starliner-cleared-launch-crew-flight-test)
-- [Snap says total watch time on its TikTok competitor increased more than 125%](https://techcrunch.com/2024/04/25/snap-total-watch-time-on-tiktok-competitor-increased-125/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
