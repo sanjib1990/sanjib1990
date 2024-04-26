@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Superheroes fight acid-spewing xenomorphs in Marvel Comics&#39; &#39;Aliens vs. Avengers&#39;](https://www.space.com/marvel-comics-aliens-vs-avengers-preview)
 - [James Webb Space Telescope discovers some early universe galaxies grew up surprisingly fast](https://www.space.com/james-webb-space-telescope-discovers-some-early-universe-galaxies-grew-up)
 - [Thoma Bravo to take UK cybersecurity company Darktrace private in $5B deal](https://techcrunch.com/2024/04/26/thoma-bravo-to-take-uk-cybersecurity-company-darktrace-private-in-5b-deal/)
 - [Alien Day 2024: &#39;Alien&#39; bursts back into theaters today](https://www.space.com/alien-day-2024-return-to-theaters)
 - [Tesla Autopilot investigation closed after feds find 13 fatal crashes related to misuse](https://techcrunch.com/2024/04/26/tesla-nhtsa-autopilot-investigation-closed-fatal-crashes/)
-- [Shein to face EU’s strictest rules for online marketplaces](https://techcrunch.com/2024/04/26/shein-dsa-vlop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
