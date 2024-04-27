@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [build a website in 5 seconds](https://www.youtube.com/watch?v=EXfFBEuCAr0)
+- [you STILL need a website RIGHT NOW!! &lpar;yes, even in 2024&rpar;](https://www.youtube.com/watch?v=EXfFBEuCAr0)
 - [Introduction to GIS, Part I: Key Concepts](https://www.youtube.com/watch?v=kEoJ-teErzM)
 - [Introduction to R, Part III: Linear and Mixed Models in R](https://www.youtube.com/watch?v=IvJvmufB1oA)
 - [Introduction to R, Part I: Interface and Data Structures](https://www.youtube.com/watch?v=7fYgr1qUdnU)
