@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok faces a ban in the US, Tesla profits drop and healthcare data leaks](https://techcrunch.com/2024/04/27/tiktok-faces-a-ban-in-the-us-tesla-profits-drop-and-healthcare-data-leaks/)
+- [Will a TikTok ban impact creator economy startups? Not really, founders say](https://techcrunch.com/2024/04/27/will-a-tiktok-ban-impact-creator-economy-startups-not-really-founders-say/)
 - [Investors won’t give you the real reason they are passing on your startup](https://techcrunch.com/2024/04/27/your-team-sucks/)
 - [Deal Dive: Givebutter is turning a profit making tech for nonprofits](https://techcrunch.com/2024/04/27/deal-dive-givebutter-is-turning-a-profit-making-tech-for-nonprofits/)
 - [The ‘valley of death’ for climate lies between early-stage funding and scaling up](https://techcrunch.com/2024/04/27/climate-startup-valley-of-death/)
-- [Russia vetoes UN resolution against nuclear weapons in space](https://www.space.com/russia-nuclear-weapons-space-veto-un-resolution)
-- [Beavers are helping fight climate change, satellite data shows](https://www.space.com/beaver-dam-nasa-satellite-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
