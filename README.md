@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers just discovered a comet that could be brighter than most stars when we see it next year. Or will it?](https://www.space.com/comet-c-2023-a3-tsuchinshan-atlas-brighter-stars-2025)
+- [A wrestling match over who should control robotaxis is playing out in California](https://techcrunch.com/2024/04/27/a-wrestling-match-over-who-should-control-robotaxis-is-playing-out-in-california/)
+- [Creators of Sora-powered short explain AI-generated video’s strengths and limitations](https://techcrunch.com/2024/04/27/creators-of-sora-powered-short-explain-ai-generated-videos-strengths-and-limitations/)
+- [This Week In Space podcast: Episode 108 — Starliner: Better Late Than Never?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-108-starliner-better-late-than-never)
 - [Boeing&#39;s Starliner spacecraft will not fly private missions yet, officials say](https://www.space.com/boeing-starliner-spacecraft-private-astronaut-nasa-focus)
-- [SpaceX launching Falcon 9 rocket on record-tying 20th mission today](https://www.space.com/spacex-galileo-l12-falcon-9-launch)
-- [How Rubrik’s IPO paid off big for Greylock VC Asheem Chandna](https://techcrunch.com/2024/04/26/rubrik-ipo-paid-off-greylock-vc-asheem-chandna/)
-- [Photo-sharing community EyeEm will license users’ photos to train AI if they don’t delete them](https://techcrunch.com/2024/04/26/photo-sharing-community-eyeem-will-license-users-photos-to-train-ai-if-they-dont-delete-them/)
-- [Meta AI tested: Doesn’t quite justify its own existence, but free is free](https://techcrunch.com/2024/04/26/meta-ai-tested-doesnt-quite-justify-its-own-existence-but-free-is-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
