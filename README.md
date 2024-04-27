@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s Starliner spacecraft will not fly private missions yet, officials say](https://www.space.com/boeing-starliner-spacecraft-private-astronaut-nasa-focus)
 - [SpaceX launching Falcon 9 rocket on record-tying 20th mission today](https://www.space.com/spacex-galileo-l12-falcon-9-launch)
 - [How Rubrik’s IPO paid off big for Greylock VC Asheem Chandna](https://techcrunch.com/2024/04/26/rubrik-ipo-paid-off-greylock-vc-asheem-chandna/)
 - [Photo-sharing community EyeEm will license users’ photos to train AI if they don’t delete them](https://techcrunch.com/2024/04/26/photo-sharing-community-eyeem-will-license-users-photos-to-train-ai-if-they-dont-delete-them/)
 - [Meta AI tested: Doesn’t quite justify its own existence, but free is free](https://techcrunch.com/2024/04/26/meta-ai-tested-doesnt-quite-justify-its-own-existence-but-free-is-free/)
-- [Watch 2 gorgeous supernova remnants evolve over 20 years &lpar;timelapse video&rpar;](https://www.space.com/chandra-timelapse-crab-nebula-cassiopeia-a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
