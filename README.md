@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sneak peek: Browncoats grab victory in Boom! Studios&#39; upcoming &#39;Firefly: &#39;Verses&#39; comic &lpar;exclusive&rpar;](https://www.space.com/firefly-verses-browncoats-sneak-peek)
 - [SpaceX launching 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-54)
 - [NASA&#39;s mission to an ice-covered moon will contain a message between water worlds](https://www.space.com/ice-covered-moon-mission-contain-message-between-water-worlds)
 - [London’s first defense tech hackathon brings Ukraine war closer to the city’s startups](https://techcrunch.com/2024/04/28/londons-first-defense-tech-hackathon-brings-ukraine-war-closer-to-the-citys-startups/)
 - [Watch SpaceX Dragon cargo capsule depart the ISS today](https://www.space.com/spacex-dragon-cargo-mission-crs-30-iss-departure)
-- [TikTok faces a ban in the US, Tesla profits drop and healthcare data leaks](https://techcrunch.com/2024/04/27/tiktok-faces-a-ban-in-the-us-tesla-profits-drop-and-healthcare-data-leaks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
