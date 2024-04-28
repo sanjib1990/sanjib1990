@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla profits tumble, Fisker flatlines, and California cities battle for control of AVs](https://techcrunch.com/2024/04/28/tesla/)
 - [Mars exploration, new rockets and more: Interview with ESA chief Josef Aschbacher](https://www.space.com/esa-josef-aschbacher-interview-exomars-ariane-6)
 - [MongoDB CEO Dev Ittycheria talks AI hype and the database evolution as he crosses 10-year mark](https://techcrunch.com/2024/04/28/mongodb-ceo-dev-ittycheria-interview-ai-hype-database-evolution/)
 - [Stripe’s big changes, Brazil’s newest fintech unicorn and the tale of a startup shutdown](https://techcrunch.com/2024/04/28/stripes-big-changes-brazils-newest-fintech-unicorn-and-the-tale-of-a-startup-shutdown/)
 - [Everything we know about James Gunn&#39;s Superman](https://www.space.com/everything-we-know-about-james-gunns-superman)
-- [How RPA vendors aim to remain relevant in a world of AI agents](https://techcrunch.com/2024/04/28/how-rpa-vendors-aim-to-remain-relevant-in-a-world-of-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
