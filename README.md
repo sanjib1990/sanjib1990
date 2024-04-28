@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [London’s first defense tech hackathon brings Ukraine war closer to the city’s startups](https://techcrunch.com/2024/04/28/londons-first-defense-tech-hackathon-brings-ukraine-war-closer-to-the-citys-startups/)
 - [Watch SpaceX Dragon cargo capsule depart the ISS today](https://www.space.com/spacex-dragon-cargo-mission-crs-30-iss-departure)
 - [TikTok faces a ban in the US, Tesla profits drop and healthcare data leaks](https://techcrunch.com/2024/04/27/tiktok-faces-a-ban-in-the-us-tesla-profits-drop-and-healthcare-data-leaks/)
 - [Will a TikTok ban impact creator economy startups? Not really, founders say](https://techcrunch.com/2024/04/27/will-a-tiktok-ban-impact-creator-economy-startups-not-really-founders-say/)
 - [Investors won’t give you the real reason they are passing on your startup](https://techcrunch.com/2024/04/27/your-team-sucks/)
-- [Deal Dive: Givebutter is turning a profit making tech for nonprofits](https://techcrunch.com/2024/04/27/deal-dive-givebutter-is-turning-a-profit-making-tech-for-nonprofits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
