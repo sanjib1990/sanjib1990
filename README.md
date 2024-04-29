@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: Rapidly responsive… space stations!?](https://techcrunch.com/2024/04/29/techcrunch-space-rapidly-responsive-space-stations/)
+- [NASA crew announced for simulated Mars mission next month](https://www.space.com/nasa-mars-mission-simulations-crew-announced)
+- [NIST launches a new platform to assess generative AI](https://techcrunch.com/2024/04/29/nist-launches-a-new-platform-to-assess-generative-ai/)
 - [NASA&#39;s Viper moon rover gets its &#39;neck&#39; and &#39;head&#39; installed for mission later this year](https://www.space.com/viper-moon-rover-head-neck-mast-installed)
 - [Apple iPad event 2024: Watch Apple unveil new iPads right here](https://techcrunch.com/2024/04/29/apple-ipad-event-2024-watch-apple-unveil-new-ipads-right-here/)
-- [Inside the ‘cold war’ at Techstars as CEO Mäelle Gavet hires, fires, fights to force change](https://techcrunch.com/2024/04/29/inside-the-cold-war-at-techstars-as-ceo-maelle-gavet-hires-fires-fights-to-force-change/)
-- [China releases world&#39;s most detailed moon atlas &lpar;video&rpar;](https://www.space.com/china-hi-def-geologic-moon-atlas-video)
-- [What would happen if the moon disappeared?](https://www.space.com/what-would-happen-if-the-moon-disappeared)
 <!-- BLOG-POST-LIST:END -->
 
 ---
