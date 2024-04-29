@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic Games says it will bring Fortnite to iPad after EU dubs iPadOS a ‘gatekeeper’ under DMA](https://techcrunch.com/2024/04/29/epic-games-says-it-will-bring-fortnite-to-ipad-after-eu-dubs-ipados-a-gatekeeper-under-dma/)
+- [Boeing Starliner astronauts conduct dress rehearsal ahead of May 6 launch &lpar;photos, video&rpar;](https://www.space.com/boeing-starliner-1-week-before-launch-dress-rehearsal-astronauts)
+- [Meet the crew launching on Boeing&#39;s 1st Starliner astronaut flight](https://www.space.com/boeing-starliner-1st-astronaut-flight-meet-crew)
+- [Meta confirms launch of a bonus program for creators on Threads](https://techcrunch.com/2024/04/29/meta-confirms-launch-of-a-bonus-program-for-creators-on-threads/)
 - [Copilot Workspace is GitHub’s take on AI-powered software engineering](https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/)
-- [TechCrunch Minute: Elon Musk’s big plans for xAI include raising $6 billion](https://techcrunch.com/2024/04/29/techcrunch-minute-elon-musks-big-plans-for-xai-include-raising-6-billion/)
-- [&#39;Flash Gordon&#39; returns to escape from a prison planet in new comic series](https://www.space.com/flash-gordon-returns-new-comic-series)
-- [&#39;Tiger stripes&#39; on Saturn&#39;s moon Enceladus could reveal if its oceans are habitable](https://www.space.com/enceladus-saturn-moon-tiger-stripes-habitability)
-- [Astronomers finally know why stars born from the same cloud aren&#39;t identical twins](https://www.space.com/binary-star-gas-cloud-chemical-composition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
