@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethiopian plastic upcycling startup Kubik gets fresh funding, plans to license out its tech](https://techcrunch.com/2024/04/28/kubik-seed-extension/)
 - [ChatGPT’s ‘hallucination’ problem hit with another privacy complaint in EU](https://techcrunch.com/2024/04/28/chatgpt-gdpr-complaint-noyb/)
 - [Humanoid robots are learning to fall well](https://techcrunch.com/2024/04/28/humanoid-robots-are-learning-to-fall-well/)
 - [Tesla profits tumble, Fisker flatlines, and California cities battle for control of AVs](https://techcrunch.com/2024/04/28/tesla/)
 - [Mars exploration, new rockets and more: Interview with ESA chief Josef Aschbacher](https://www.space.com/esa-josef-aschbacher-interview-exomars-ariane-6)
-- [MongoDB CEO Dev Ittycheria talks AI hype and the database evolution as he crosses 10-year mark](https://techcrunch.com/2024/04/28/mongodb-ceo-dev-ittycheria-interview-ai-hype-database-evolution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
