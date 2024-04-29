@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside the ‘cold war’ at Techstars as CEO Mäelle Gavet hires, fires, fights to force change](https://techcrunch.com/2024/04/29/inside-the-cold-war-at-techstars-as-ceo-maelle-gavet-hires-fires-fights-to-force-change/)
+- [China releases world&#39;s most detailed moon atlas &lpar;video&rpar;](https://www.space.com/china-hi-def-geologic-moon-atlas-video)
 - [What would happen if the moon disappeared?](https://www.space.com/what-would-happen-if-the-moon-disappeared)
-- [Google lays off staff from Flutter, Dart and Python weeks before its developer conference](https://techcrunch.com/2024/04/29/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
+- [Google lays off staff from Flutter, Dart and Python teams weeks before its developer conference](https://techcrunch.com/2024/04/29/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [Fisker starts new round of layoffs to ‘preserve cash’](https://techcrunch.com/2024/04/29/fisker-layoffs-staff-email-cuts-bankruptcy-sale/)
-- [Horsehead Nebula rears its head in gorgeous new James Webb Space Telescope images &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-horsehead-nebula)
 <!-- BLOG-POST-LIST:END -->
 
 ---
