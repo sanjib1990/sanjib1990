@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter co-founder Biz Stone joins Mastodon’s new U.S. non-profit’s board](https://techcrunch.com/2024/04/29/twitter-co-founder-biz-stone-joins-mastodons-new-u-s-non-profits-board/)
+- [Astronomers finally know why stars born from the same cloud aren&#39;t identical twins](https://www.space.com/binary-star-gas-cloud-chemical-composition)
+- [Backflip raises $15 million to help real estate investors flip houses](https://techcrunch.com/2024/04/29/backflip-raises-15-million-to-help-real-estate-investors-flip-houses/)
+- [Musk’s xAI shows there’s more money on the sidelines for AI startups](https://techcrunch.com/2024/04/29/musks-xai-shows-theres-more-money-on-the-sidelines-for-ai-startups/)
+- [Twitter co-founder Biz Stone joins board of Mastodon’s new U.S. non-profit](https://techcrunch.com/2024/04/29/twitter-co-founder-biz-stone-joins-mastodons-new-u-s-non-profits-board/)
 - [Private moon lander will carry Nokia&#39;s 4G cell network to the lunar surface this year](https://www.space.com/nokia-4g-cell-network-on-the-moon)
-- [Hubble Space Telescope pauses science due to gyroscope issue](https://www.space.com/hubble-space-telescope-gyroscope-april-2024)
-- [Getir pulls out of US, UK, Europe to focus on Turkey; 6,000+ jobs impacted](https://techcrunch.com/2024/04/29/getir-getout-instant-delivery/)
-- [&#39;Traffic jams&#39; in the hearts of galaxies can force black holes to collide](https://www.space.com/black-hole-cosmic-traffic-jam-galactic-heart)
 <!-- BLOG-POST-LIST:END -->
 
 ---
