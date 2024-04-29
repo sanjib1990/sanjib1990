@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Highly precise atomic clocks could soon get even better. Here&#39;s how](https://www.space.com/neils-bohr-atomic-clock-precision-superradiant-light)
 - [OpenAI inks strategic tie-up with UK’s Financial Times, including content use](https://techcrunch.com/2024/04/29/openai-inks-strategic-tie-up-with-uks-financial-times-including-content-use/)
 - [Ethiopian plastic upcycling startup Kubik gets fresh funding, plans to license out its tech](https://techcrunch.com/2024/04/28/kubik-seed-extension/)
 - [ChatGPT’s ‘hallucination’ problem hit with another privacy complaint in EU](https://techcrunch.com/2024/04/28/chatgpt-gdpr-complaint-noyb/)
 - [Humanoid robots are learning to fall well](https://techcrunch.com/2024/04/28/humanoid-robots-are-learning-to-fall-well/)
-- [Tesla profits tumble, Fisker flatlines, and California cities battle for control of AVs](https://techcrunch.com/2024/04/28/tesla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
