@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI inks strategic tie-up with UK’s Financial Times, including content use](https://techcrunch.com/2024/04/29/openai-inks-strategic-tie-up-with-uks-financial-times-including-content-use/)
 - [Ethiopian plastic upcycling startup Kubik gets fresh funding, plans to license out its tech](https://techcrunch.com/2024/04/28/kubik-seed-extension/)
 - [ChatGPT’s ‘hallucination’ problem hit with another privacy complaint in EU](https://techcrunch.com/2024/04/28/chatgpt-gdpr-complaint-noyb/)
 - [Humanoid robots are learning to fall well](https://techcrunch.com/2024/04/28/humanoid-robots-are-learning-to-fall-well/)
 - [Tesla profits tumble, Fisker flatlines, and California cities battle for control of AVs](https://techcrunch.com/2024/04/28/tesla/)
-- [Mars exploration, new rockets and more: Interview with ESA chief Josef Aschbacher](https://www.space.com/esa-josef-aschbacher-interview-exomars-ariane-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
