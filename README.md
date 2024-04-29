@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot Workspace is GitHub’s take on AI-powered software engineering](https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/)
+- [TechCrunch Minute: Elon Musk’s big plans for xAI include raising $6 billion](https://techcrunch.com/2024/04/29/techcrunch-minute-elon-musks-big-plans-for-xai-include-raising-6-billion/)
+- [&#39;Flash Gordon&#39; returns to escape from a prison planet in new comic series](https://www.space.com/flash-gordon-returns-new-comic-series)
+- [&#39;Tiger stripes&#39; on Saturn&#39;s moon Enceladus could reveal if its oceans are habitable](https://www.space.com/enceladus-saturn-moon-tiger-stripes-habitability)
 - [Astronomers finally know why stars born from the same cloud aren&#39;t identical twins](https://www.space.com/binary-star-gas-cloud-chemical-composition)
-- [Backflip raises $15 million to help real estate investors flip houses](https://techcrunch.com/2024/04/29/backflip-raises-15-million-to-help-real-estate-investors-flip-houses/)
-- [Musk’s xAI shows there’s more money on the sidelines for AI startups](https://techcrunch.com/2024/04/29/musks-xai-shows-theres-more-money-on-the-sidelines-for-ai-startups/)
-- [Twitter co-founder Biz Stone joins board of Mastodon’s new U.S. non-profit](https://techcrunch.com/2024/04/29/twitter-co-founder-biz-stone-joins-mastodons-new-u-s-non-profits-board/)
-- [Private moon lander will carry Nokia&#39;s 4G cell network to the lunar surface this year](https://www.space.com/nokia-4g-cell-network-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
