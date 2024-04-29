@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter co-founder Biz Stone joins Mastodon’s new U.S. non-profit’s board](https://techcrunch.com/2024/04/29/twitter-co-founder-biz-stone-joins-mastodons-new-u-s-non-profits-board/)
+- [Private moon lander will carry Nokia&#39;s 4G cell network to the lunar surface this year](https://www.space.com/nokia-4g-cell-network-on-the-moon)
+- [Hubble Space Telescope pauses science due to gyroscope issue](https://www.space.com/hubble-space-telescope-gyroscope-april-2024)
+- [Getir pulls out of US, UK, Europe to focus on Turkey; 6,000+ jobs impacted](https://techcrunch.com/2024/04/29/getir-getout-instant-delivery/)
 - [&#39;Traffic jams&#39; in the hearts of galaxies can force black holes to collide](https://www.space.com/black-hole-cosmic-traffic-jam-galactic-heart)
-- [Indian ride-hailing giant Ola cuts 180 jobs in profitability push](https://techcrunch.com/2024/04/29/indian-ride-hailing-giant-ola-cuts-180-jobs-in-profitability-push/)
-- [&#39;Cat nights&#39; are here as Leo, Leo minor, and Lynx constellations prowl the evening sky](https://www.space.com/cat-nights-leo-constellation-spring-2024)
-- [Ford’s BlueCruise hands-free system under investigation after fatal crashes](https://techcrunch.com/2024/04/29/ford-bluecruise-investigation-nhtsa-fatal-crashes/)
-- [Apple’s iPadOS will have to comply with EU’s Digital Markets Act too](https://techcrunch.com/2024/04/29/ipados-dma/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
