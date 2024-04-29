@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What would happen if the moon disappeared?](https://www.space.com/what-would-happen-if-the-moon-disappeared)
+- [Google lays off staff from Flutter, Dart and Python weeks before its developer conference](https://techcrunch.com/2024/04/29/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 - [Fisker starts new round of layoffs to ‘preserve cash’](https://techcrunch.com/2024/04/29/fisker-layoffs-staff-email-cuts-bankruptcy-sale/)
 - [Horsehead Nebula rears its head in gorgeous new James Webb Space Telescope images &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-horsehead-nebula)
-- [China to launch sample-return mission to the moon&#39;s far side on May 3](https://www.space.com/china-preparing-launch-change-6-moon-sample-return-mission)
-- [Epic Games says it will bring Fortnite to iPad after EU dubs iPadOS a ‘gatekeeper’ under DMA](https://techcrunch.com/2024/04/29/epic-games-says-it-will-bring-fortnite-to-ipad-after-eu-dubs-ipados-a-gatekeeper-under-dma/)
-- [Boeing Starliner astronauts conduct dress rehearsal ahead of May 6 launch &lpar;photos, video&rpar;](https://www.space.com/boeing-starliner-1-week-before-launch-dress-rehearsal-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
