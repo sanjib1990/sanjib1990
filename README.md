@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker starts new round of layoffs to ‘preserve cash’](https://techcrunch.com/2024/04/29/fisker-layoffs-staff-email-cuts-bankruptcy-sale/)
+- [Horsehead Nebula rears its head in gorgeous new James Webb Space Telescope images &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-horsehead-nebula)
+- [China to launch sample-return mission to the moon&#39;s far side on May 3](https://www.space.com/china-preparing-launch-change-6-moon-sample-return-mission)
 - [Epic Games says it will bring Fortnite to iPad after EU dubs iPadOS a ‘gatekeeper’ under DMA](https://techcrunch.com/2024/04/29/epic-games-says-it-will-bring-fortnite-to-ipad-after-eu-dubs-ipados-a-gatekeeper-under-dma/)
 - [Boeing Starliner astronauts conduct dress rehearsal ahead of May 6 launch &lpar;photos, video&rpar;](https://www.space.com/boeing-starliner-1-week-before-launch-dress-rehearsal-astronauts)
-- [Meet the crew launching on Boeing&#39;s 1st Starliner astronaut flight](https://www.space.com/boeing-starliner-1st-astronaut-flight-meet-crew)
-- [Meta confirms launch of a bonus program for creators on Threads](https://techcrunch.com/2024/04/29/meta-confirms-launch-of-a-bonus-program-for-creators-on-threads/)
-- [Copilot Workspace is GitHub’s take on AI-powered software engineering](https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
