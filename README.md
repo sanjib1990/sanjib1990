@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Traffic jams&#39; in the hearts of galaxies can force black holes to collide](https://www.space.com/black-hole-cosmic-traffic-jam-galactic-heart)
+- [Indian ride-hailing giant Ola cuts 180 jobs in profitability push](https://techcrunch.com/2024/04/29/indian-ride-hailing-giant-ola-cuts-180-jobs-in-profitability-push/)
 - [&#39;Cat nights&#39; are here as Leo, Leo minor, and Lynx constellations prowl the evening sky](https://www.space.com/cat-nights-leo-constellation-spring-2024)
 - [Ford’s BlueCruise hands-free system under investigation after fatal crashes](https://techcrunch.com/2024/04/29/ford-bluecruise-investigation-nhtsa-fatal-crashes/)
 - [Apple’s iPadOS will have to comply with EU’s Digital Markets Act too](https://techcrunch.com/2024/04/29/ipados-dma/)
-- [Highly precise atomic clocks could soon get even better. Here&#39;s how](https://www.space.com/neils-bohr-atomic-clock-precision-superradiant-light)
-- [OpenAI inks strategic tie-up with UK’s Financial Times, including content use](https://techcrunch.com/2024/04/29/openai-inks-strategic-tie-up-with-uks-financial-times-including-content-use/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
