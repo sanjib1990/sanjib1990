@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite operator SES acquiring Intelsat in $3.1 billion deal](https://www.space.com/ses-acquiring-intelsat-satellite-internet-deal)
 - [Einstein Probe X-ray telescope releases 1st images taken with &#39;lobster vision&#39;](https://www.space.com/einstein-probe-x-ray-first-light)
-- [Relive NASA&#39;s historic Artemis 1 moon mission in this mini-doc &lpar;video&rpar;](https://www.space.com/nasa-artemis-1-moon-mission-success-and-preparation-video)
+- [&#39;We are ready:&#39; New NASA documentary looks ahead to Artemis 2 moon mission &lpar;video&rpar;](https://www.space.com/nasa-artemis-1-moon-mission-success-and-preparation-video)
 - [Midi is building a digital platform for an oft-overlooked area of women’s health](https://techcrunch.com/2024/04/30/midi-is-building-a-digital-platform-for-an-oft-overlooked-area-of-womens-health/)
 - [Razer hit with $1.1M FTC fine over glowing ‘N95’ mask COVID claims](https://techcrunch.com/2024/04/30/razer-hit-with-1-1m-ftc-fine-over-glowing-n95-mask-covid-claims/)
-- [Scientists reveal Southern Ring Nebula&#39;s unexpected structure: &#39;We were amazed&#39;](https://www.space.com/southern-nebula-exoskeleton-double-ring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
