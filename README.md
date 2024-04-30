@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Star Wars: Obi-Wan Kenobi&#39; and &#39;Andor&#39; blast onto 4K Ultra HD and Blu-ray today](https://www.space.com/andor-obi-wan-kenobi-blu-ray-4k-video)
-- [Notable Capital’s Hans Tung on why founders need to play the long game](https://techcrunch.com/2024/04/30/notable-capitals-hans-tung-on-why-he-thinks-founders-need-to-play-the-long-game/)
-- [The Browser Company releases Arc for Windows](https://techcrunch.com/2024/04/30/the-browser-company-releases-arc-for-windows/)
-- [Spotify’s getting serious about its enterprise and dev tools business play](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
-- [Space threats, NORAD upgrade may spur new private defense spending in Canada](https://www.space.com/norad-space-threats-canada-private-defense-spending)
+- [Samsung’s operating profit soars 930% as AI tailwinds drive demand for memory chips](https://techcrunch.com/2024/04/30/samsungs-operating-profit-soars-930-as-ai-tailwinds-drive-demand-for-memory-chips/)
+- [TechCrunch Minute: OpenAI’s media deal rush continues with FT deal](https://techcrunch.com/2024/04/30/techcrunch-minute-openais-media-deal-rush-continues-with-ft-deal/)
+- [This spacecraft is headed to NASA&#39;s asteroid-crash aftermath — but first, it&#39;ll stop by Mars](https://www.space.com/esa-hera-mars-moon-side-trip)
+- [China&#39;s Shenzhou 17 astronauts return to Earth after 6 months in space &lpar;video&rpar;](https://www.space.com/china-shenzhou-17-astronauts-return-earth)
+- [Productive solar technologies draw investors as global off-grid solar sector funding slumps](https://techcrunch.com/2024/04/30/global-off-grid-solar-sector/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
