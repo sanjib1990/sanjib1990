@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Carbonfact is a carbon management platform designed specifically for the fashion industry](https://techcrunch.com/2024/04/29/carbonfact-is-a-carbon-management-platform-designed-specifically-for-the-fashion-industry/)
 - [Evidence for Planet 9 found in icy bodies sneaking past Neptune](https://www.space.com/planet-9-cometary-bodies-neptune-solar-system)
 - [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/04/29/what-is-google-gemini-ai/)
 - [Social media companies have too much political power, 78% of Americans say in Pew survey](https://techcrunch.com/2024/04/29/social-media-companies-political-power-pew-survey/)
 - [TechCrunch Space: Rapidly responsive… space stations!?](https://techcrunch.com/2024/04/29/techcrunch-space-rapidly-responsive-space-stations/)
-- [NASA crew announced for simulated Mars mission next month](https://www.space.com/nasa-mars-mission-simulations-crew-announced)
 <!-- BLOG-POST-LIST:END -->
 
 ---
