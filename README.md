@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: Obi-Wan Kenobi&#39; and &#39;Andor&#39; blast onto 4K Ultra HD and Blu-ray today](https://www.space.com/andor-obi-wan-kenobi-blu-ray-4k-video)
+- [Notable Capital’s Hans Tung on why founders need to play the long game](https://techcrunch.com/2024/04/30/notable-capitals-hans-tung-on-why-he-thinks-founders-need-to-play-the-long-game/)
+- [The Browser Company releases Arc for Windows](https://techcrunch.com/2024/04/30/the-browser-company-releases-arc-for-windows/)
 - [Spotify’s getting serious about its enterprise and dev tools business play](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
 - [Space threats, NORAD upgrade may spur new private defense spending in Canada](https://www.space.com/norad-space-threats-canada-private-defense-spending)
-- [A pair of Airbnb alums is bringing intelligence and automation to data protection](https://techcrunch.com/2024/04/30/a-pair-of-airbnb-alums-is-bringing-intelligence-and-automation-to-data-protection/)
-- [SpaceX vet&#39;s startup Portal Space Systems comes out of stealth mode](https://www.space.com/portal-space-systems-startup-out-of-stealth-mode)
-- [Instagram is updating its algorithm to surface more content from smaller, original creators](https://techcrunch.com/2024/04/30/instagram-is-updating-its-ranking-systems-to-surface-more-content-from-smaller-original-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
