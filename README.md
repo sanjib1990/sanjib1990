@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The first-ever race between four self-driving cars and a Formula 1 driver just happened in Abu Dhabi](https://techcrunch.com/2024/04/30/the-first-ever-race-between-four-self-driving-cars-and-a-formula-1-driver-just-happened-in-abu-dhabi/)
-- [Bumble’s “Opening Move” feature takes the pressure off women to come up with a new message every time](https://techcrunch.com/2024/04/30/bumbles-opening-move-feature-takes-the-pressure-off-women-to-come-up-with-a-new-message-every-time/)
-- [Scientists unravel mysteries of gamma-ray bursts — the universe&#39;s most powerful explosions](https://www.space.com/gamma-ray-burst-mystery-universe-powerful-explosions)
-- [Change Healthcare hackers broke in using stolen credentials — and no MFA, says UHG CEO](https://techcrunch.com/2024/04/30/uhg-change-healthcare-ransomware-compromised-credentials-mfa/)
-- [Yelp is launching a new AI assistant to help you connect with businesses](https://techcrunch.com/2024/04/30/yelp-is-launching-a-new-ai-assistant-to-help-you-connect-better-with-businesses/)
+- [SpaceX vet&#39;s startup Portal Space Systems comes out of stealth mode](https://www.space.com/portal-space-systems-startup-out-of-stealth-mode)
+- [Instagram is updating its ranking systems to surface more content from smaller, original creators](https://techcrunch.com/2024/04/30/instagram-is-updating-its-ranking-systems-to-surface-more-content-from-smaller-original-creators/)
+- [Portal Space Systems unveils Supernova, an ultra-mobile spacecraft](https://techcrunch.com/2024/04/30/portal-space-systems-unveils-supernova-an-ultra-mobile-spacecraft/)
+- [‘Wallet-as-a-service’ startup Ansa raises $14 million with female investors leading the way](https://techcrunch.com/2024/04/30/wallet-as-a-service-startup-ansa-raises-14m-with-female-investors-leading-the-way/)
+- [SafeBase taps AI to automate software security reviews](https://techcrunch.com/2024/04/30/safebase-taps-ai-to-automate-software-security-reviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
