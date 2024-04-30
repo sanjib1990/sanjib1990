@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The first-ever race between four self-driving cars and a Formula 1 driver just happened in Abu Dhabi](https://techcrunch.com/2024/04/30/the-first-ever-race-between-four-self-driving-cars-and-a-formula-1-driver-just-happened-in-abu-dhabi/)
+- [Bumble’s “Opening Move” feature takes the pressure off women to come up with a new message every time](https://techcrunch.com/2024/04/30/bumbles-opening-move-feature-takes-the-pressure-off-women-to-come-up-with-a-new-message-every-time/)
+- [Scientists unravel mysteries of gamma-ray bursts — the universe&#39;s most powerful explosions](https://www.space.com/gamma-ray-burst-mystery-universe-powerful-explosions)
+- [Change Healthcare hackers broke in using stolen credentials — and no MFA, says UHG CEO](https://techcrunch.com/2024/04/30/uhg-change-healthcare-ransomware-compromised-credentials-mfa/)
 - [Yelp is launching a new AI assistant to help you connect with businesses](https://techcrunch.com/2024/04/30/yelp-is-launching-a-new-ai-assistant-to-help-you-connect-better-with-businesses/)
-- [Meta’s approach to election security in the frame as EU probes Fb, Instagram](https://techcrunch.com/2024/04/30/meta-first-dsa-probes/)
-- [SpaceX&#39;s Starship could help this start-up beam clean energy from space. Here&#39;s how &lpar;video&rpar;](https://www.space.com/spacex-starship-solar-power-beaming-virtus-solis)
-- [Devastated by his image being posted to a porn site, this founder hit on an AI startup idea](https://techcrunch.com/2024/04/30/devastated-by-his-image-being-posted-to-a-porn-site-this-founder-hit-on-an-ai-startup-idea/)
-- [Nigeria’s YC-backed Chowdeck hopes to scale food delivery, a notoriously tough market, with $2.5M funding](https://techcrunch.com/2024/04/30/chowdeck-hopes-to-scale-notoriously-tough-food-delivery-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
