@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify’s getting serious about its enterprise and dev tools business play](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
+- [Space threats, NORAD upgrade may spur new private defense spending in Canada](https://www.space.com/norad-space-threats-canada-private-defense-spending)
+- [A pair of Airbnb alums is bringing intelligence and automation to data protection](https://techcrunch.com/2024/04/30/a-pair-of-airbnb-alums-is-bringing-intelligence-and-automation-to-data-protection/)
 - [SpaceX vet&#39;s startup Portal Space Systems comes out of stealth mode](https://www.space.com/portal-space-systems-startup-out-of-stealth-mode)
-- [Instagram is updating its ranking systems to surface more content from smaller, original creators](https://techcrunch.com/2024/04/30/instagram-is-updating-its-ranking-systems-to-surface-more-content-from-smaller-original-creators/)
-- [Portal Space Systems unveils Supernova, an ultra-mobile spacecraft](https://techcrunch.com/2024/04/30/portal-space-systems-unveils-supernova-an-ultra-mobile-spacecraft/)
-- [‘Wallet-as-a-service’ startup Ansa raises $14 million with female investors leading the way](https://techcrunch.com/2024/04/30/wallet-as-a-service-startup-ansa-raises-14m-with-female-investors-leading-the-way/)
-- [SafeBase taps AI to automate software security reviews](https://techcrunch.com/2024/04/30/safebase-taps-ai-to-automate-software-security-reviews/)
+- [Instagram is updating its algorithm to surface more content from smaller, original creators](https://techcrunch.com/2024/04/30/instagram-is-updating-its-ranking-systems-to-surface-more-content-from-smaller-original-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
