@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China unveils video of its moon base plans, which weirdly includes a NASA space shuttle](https://www.space.com/china-moon-base-international-lunar-research-station-video)
+- [EU watchdog questions secrecy around lawmakers’ encryption-breaking CSAM scanning proposal](https://techcrunch.com/2024/04/30/casm-scanning-ombudsman-preliminary-finding/)
 - [How European disability tech startups are leveraging AI](https://techcrunch.com/2024/04/30/how-european-disability-tech-startups-are-leveraging-ai/)
 - [NASA&#39;s TESS exoplanet hunter may have spotted its 1st rogue planet](https://www.space.com/nasa-tess-rogue-planet-candidate-first-time)
 - [Elon Musk guts Tesla’s charging team after winning over major automakers](https://techcrunch.com/2024/04/30/elon-musk-tesla-charging-policy-layoffs-cuts/)
-- [Bill to strengthen national tipline for missing and exploited children heads to Biden’s desk](https://techcrunch.com/2024/04/30/a-bill-strengthening-ncmecs-cybertipline-heads-to-the-presidents-desk/)
-- [Ring the alarm bells, the iPhone alarm isn’t working](https://techcrunch.com/2024/04/30/ring-the-alarm-bells-the-iphone-alarm-isnt-working/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
