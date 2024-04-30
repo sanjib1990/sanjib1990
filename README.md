@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starship could help this start-up beam clean energy from space. Here&#39;s how &lpar;video&rpar;](https://www.space.com/spacex-starship-solar-power-beaming-virtus-solis)
+- [Devastated by his image being posted to a porn site, this founder hit on an AI startup idea](https://techcrunch.com/2024/04/30/devastated-by-his-image-being-posted-to-a-porn-site-this-founder-hit-on-an-ai-startup-idea/)
 - [Nigeria’s YC-backed Chowdeck hopes to scale food delivery, a notoriously tough market, with $2.5M funding](https://techcrunch.com/2024/04/30/chowdeck-hopes-to-scale-notoriously-tough-food-delivery-market/)
 - [neuroClues wants to put high speed eye tracking tech in the doctor’s office](https://techcrunch.com/2024/04/30/neuroclues/)
 - [As VC firms invest more in B2B startups, Intuition is a new VC fund focusing on consumer tech](https://techcrunch.com/2024/04/29/as-vc-firms-invest-more-in-b2b-startups-intuition-is-a-new-vc-fund-focusing-on-consumer-tech/)
-- [Solo GP fund Andrena Ventures hopes to carry startup talent onto its next challenges](https://techcrunch.com/2024/04/29/andrena-ventures-solo-gp/)
-- [Carbonfact is a carbon management platform designed specifically for the fashion industry](https://techcrunch.com/2024/04/29/carbonfact-is-a-carbon-management-platform-designed-specifically-for-the-fashion-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
