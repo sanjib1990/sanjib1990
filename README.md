@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch’s TikTok-like discovery feed is rolling out to all users](https://techcrunch.com/2024/04/30/twitchs-tiktok-like-discovery-feed-is-rolling-out-to-all-users/)
+- [Astrophotographer captures the Running Chicken Nebula in impeccable detail](https://www.space.com/running-chicken-nebula-ic2944-photo-rod-prazeres-astrophoto)
+- [Amazon CodeWhisperer is now called Q Developer and is expanding its functions](https://techcrunch.com/2024/04/30/amazon-codewhisperer-is-now-called-q-developer-and-is-expanding-its-functions/)
 - [China unveils video of its moon base plans, which weirdly includes a NASA space shuttle](https://www.space.com/china-moon-base-international-lunar-research-station-video)
 - [EU watchdog questions secrecy around lawmakers’ encryption-breaking CSAM scanning proposal](https://techcrunch.com/2024/04/30/casm-scanning-ombudsman-preliminary-finding/)
-- [How European disability tech startups are leveraging AI](https://techcrunch.com/2024/04/30/how-european-disability-tech-startups-are-leveraging-ai/)
-- [NASA&#39;s TESS exoplanet hunter may have spotted its 1st rogue planet](https://www.space.com/nasa-tess-rogue-planet-candidate-first-time)
-- [Elon Musk guts Tesla’s charging team after winning over major automakers](https://techcrunch.com/2024/04/30/elon-musk-tesla-charging-policy-layoffs-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
