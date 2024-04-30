@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [neuroClues wants to put high speed eye tracking tech in the doctor’s office](https://techcrunch.com/2024/04/30/neuroclues/)
+- [As VC firms invest more in B2B startups, Intuition is a new VC fund focusing on consumer tech](https://techcrunch.com/2024/04/29/as-vc-firms-invest-more-in-b2b-startups-intuition-is-a-new-vc-fund-focusing-on-consumer-tech/)
 - [Solo GP fund Andrena Ventures hopes to carry startup talent onto its next challenges](https://techcrunch.com/2024/04/29/andrena-ventures-solo-gp/)
 - [Carbonfact is a carbon management platform designed specifically for the fashion industry](https://techcrunch.com/2024/04/29/carbonfact-is-a-carbon-management-platform-designed-specifically-for-the-fashion-industry/)
 - [Evidence for Planet 9 found in icy bodies sneaking past Neptune](https://www.space.com/planet-9-cometary-bodies-neptune-solar-system)
-- [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/04/29/what-is-google-gemini-ai/)
-- [Social media companies have too much political power, 78% of Americans say in Pew survey](https://techcrunch.com/2024/04/29/social-media-companies-political-power-pew-survey/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
