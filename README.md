@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GitHub Copilot just got promoted to Captain](https://www.youtube.com/watch?v=S_RorY_FRvo)
+- [White House says NO DEGREE!!](https://www.youtube.com/watch?v=aEuMRZzqFH8)
 - [Reimagining Cities with Prof. David Hsu](https://www.youtube.com/watch?v=R9ye_QZeWEU)
 - [Amazon Q - Build on AWS like a Pro using Amazon&#39;s new AI coding assistant](https://www.youtube.com/watch?v=cA8KrHFm4So)
 - [OCW Learning Journeys: Emmanuel&#39;s Story #ArtificialIIntelligence #AI #Psychology #AnimalBehavior](https://www.youtube.com/watch?v=kLuUwJs_VKA)
-- [you STILL need a website RIGHT NOW!! &lpar;yes, even in 2024&rpar;](https://www.youtube.com/watch?v=EXfFBEuCAr0)
-- [Introduction to GIS, Part I: Key Concepts](https://www.youtube.com/watch?v=kEoJ-teErzM)
 <!-- YOUTUBE:END -->
 
 ---
