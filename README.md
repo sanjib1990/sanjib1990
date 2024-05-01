@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn is the Twitter/X rival no one is talking about](https://techcrunch.com/2024/05/01/linkedin-is-the-twitter-x-rival-no-one-is-talking-about/)
-- [Anthropic launches a new premium plan aimed at businesses](https://techcrunch.com/2024/05/01/anthropic-launches-a-new-premium-plan-aimed-at-businesses/)
-- [Under $100 Expo+ passes to TechCrunch Disrupt are now available](https://techcrunch.com/2024/05/01/under-100-expo-passes-to-techcrunch-disrupt-are-now-available/)
-- [Astronomers close in on the mystery of the erupting Orion star system &lpar;video&rpar;](https://www.space.com/orion-erupting-star-system-mystery-alma)
-- [Star Wars: Hunters launches in June for Nintendo Switch and mobile &lpar;video&rpar;](https://www.space.com/star-wars-hunters-launch-date-reveal-trailer)
+- [Microsoft taps Sanctuary AI for general-purpose robot research](https://techcrunch.com/2024/05/01/microsoft-taps-sanctuary-ai-for-general-purpose-robot-research/)
+- [Substack now lets writers paywall their ‘Chat’ discussion spaces](https://techcrunch.com/2024/05/01/substack-now-lets-writers-paywall-their-chat-discussion-spaces/)
+- [Yellowstone Lake&#39;s weird resistance to climate change could be about to crack](https://www.space.com/yellowstone-lake-resistance-to-climate-change-about-to-crack)
+- [Atlassian launches Rovo, its new AI teammate](https://techcrunch.com/2024/05/01/atlassian-launches-rovo-its-new-ai-teammate/)
+- [TechCrunch Minute: Razer’s Zephyr mask lands them in regulatory hot water](https://techcrunch.com/2024/05/01/techcrunch-minute-razers-zephyr-mask-lands-them-in-regulatory-hot-water/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
