@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google lays off staff from Flutter, Dart and Python teams weeks before its developer conference](https://techcrunch.com/2024/05/01/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
-- [A Switzerland-size hole opened in Antarctica&#39;s sea ice in 2016-17. Now we know why](https://www.space.com/antarctica-sea-ice-hole-2016-2017-explained)
-- [Lego Marvel The Amazing Spider-Man review](https://www.space.com/lego-marvel-the-amazing-spider-man-review)
-- [Solar maximum: What is it and when will it occur?](https://www.space.com/what-is-solar-maximum-and-when-will-it-happen)
-- [Microsoft taps Sanctuary AI for general-purpose robot research](https://techcrunch.com/2024/05/01/microsoft-taps-sanctuary-ai-for-general-purpose-robot-research/)
+- [Pinterest says its AI-powered collages are now more engaging than Pins](https://techcrunch.com/2024/05/01/pinterest-says-its-ai-powered-collages-are-now-more-engaging-than-pins/)
+- [NASA prepares for intense sun storms on Mars during &#39;solar maximum&#39;](https://www.space.com/nasa-mars-solar-maximum-storms-maven-curiosity-rover)
+- [Tiger Global-backed Innovaccer in talks to raise $250 million in new funding, sources say](https://techcrunch.com/2024/05/01/tiger-global-backed-innovaccer-in-talks-to-raise-250-million-in-new-funding-sources-say/)
+- [Airbnb releases group booking features as it taps into AI for customer service](https://techcrunch.com/2024/05/01/airbnb-releases-group-booking-features-as-it-taps-into-ai-for-customer-service/)
+- [James Webb Space Telescope forecasts clouds of melted rock on this blisteringly hot exoplanet](https://www.space.com/james-webb-space-telescope-wasp-43b-weather)
 <!-- BLOG-POST-LIST:END -->
 
 ---
