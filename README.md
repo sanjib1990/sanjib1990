@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CMU is developing low-flying drones to map wildfires](https://techcrunch.com/2024/05/01/cmu-is-developing-low-flying-drones-to-map-wildfires/)
-- [Lego releases 7 new Star Wars sets today ahead of &#39;Star Wars Day&#39; on May 4](https://www.space.com/star-wars-day-seven-new-lego-sets-2024)
-- [Belgium’s Aikido lands $17M Series A for its ‘no BS’ security platform aimed at developers](https://techcrunch.com/2024/05/01/belgiums-aikido-lands-17m-series-a-for-its-no-bs-security-platform-aimed-at-developers/)
-- [LinkedIn launches gaming: 3 logic puzzles aimed at extending time spent on its networking platform](https://techcrunch.com/2024/05/01/linkedin-launches-gaming-three-logic-puzzles-aiming-to-extend-time-spent-on-its-networking-platform/)
-- [OnlyFans hits UK regulator’s radar for age-verification failures around porn access](https://techcrunch.com/2024/05/01/uk-regulator-investigates-onlyfans-for-age-verification-failures-around-porn-access/)
+- [LinkedIn is the Twitter/X rival no one is talking about](https://techcrunch.com/2024/05/01/linkedin-is-the-twitter-x-rival-no-one-is-talking-about/)
+- [Anthropic launches a new premium plan aimed at businesses](https://techcrunch.com/2024/05/01/anthropic-launches-a-new-premium-plan-aimed-at-businesses/)
+- [Under $100 Expo+ passes to TechCrunch Disrupt are now available](https://techcrunch.com/2024/05/01/under-100-expo-passes-to-techcrunch-disrupt-are-now-available/)
+- [Astronomers close in on the mystery of the erupting Orion star system &lpar;video&rpar;](https://www.space.com/orion-erupting-star-system-mystery-alma)
+- [Star Wars: Hunters launches in June for Nintendo Switch and mobile &lpar;video&rpar;](https://www.space.com/star-wars-hunters-launch-date-reveal-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
