@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Calendly revamps its browser extension as it seeks to do more than schedule meetings](https://techcrunch.com/2024/05/01/calendly-revamps-its-browser-extension-as-it-looks-beyond-scheduling/)
-- [Asteroid Ryugu holds secrets of our solar system&#39;s past, present and future](https://www.space.com/the-universe/asteroids/asteroid-ryugu-holds-secrets-of-our-solar-systems-past-present-and-future)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [2 astronaut taxis: Why NASA wants both Boeing&#39;s Starliner and SpaceX&#39;s Dragon](https://www.space.com/nasa-boeing-starliner-spacex-dragon-iss-astronaut-mission-redundancy)
-- [Citigroup’s VC arm invests in API security startup Traceable](https://techcrunch.com/2024/05/01/citigroups-vc-arm-invests-in-api-security-startup-traceable/)
+- [CMU is developing low-flying drones to map wildfires](https://techcrunch.com/2024/05/01/cmu-is-developing-low-flying-drones-to-map-wildfires/)
+- [Lego releases 7 new Star Wars sets today ahead of &#39;Star Wars Day&#39; on May 4](https://www.space.com/star-wars-day-seven-new-lego-sets-2024)
+- [Belgium’s Aikido lands $17M Series A for its ‘no BS’ security platform aimed at developers](https://techcrunch.com/2024/05/01/belgiums-aikido-lands-17m-series-a-for-its-no-bs-security-platform-aimed-at-developers/)
+- [LinkedIn launches gaming: 3 logic puzzles aimed at extending time spent on its networking platform](https://techcrunch.com/2024/05/01/linkedin-launches-gaming-three-logic-puzzles-aiming-to-extend-time-spent-on-its-networking-platform/)
+- [OnlyFans hits UK regulator’s radar for age-verification failures around porn access](https://techcrunch.com/2024/05/01/uk-regulator-investigates-onlyfans-for-age-verification-failures-around-porn-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
