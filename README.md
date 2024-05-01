@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Crew-8 astronauts move their Dragon at the ISS May 2 to make way for Boeing&#39;s Starliner](https://www.space.com/spacex-crew-8-dragon-relocation-iss)
+- [From Connie Chan to Ethan Kurzweil venture capitalists continue to play musical chairs](https://techcrunch.com/2024/05/01/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/)
+- [Anthropic launches new iPhone app, premium plan for businesses](https://techcrunch.com/2024/05/01/anthropic-launches-a-new-premium-plan-aimed-at-businesses/)
 - [NASA orders studies from private space companies on Mars mission support roles](https://techcrunch.com/2024/05/01/nasa-orders-studies-from-private-space-companies-on-mars-mission-support-roles/)
 - [&#39;It almost feels unreal&#39;: NASA astronauts excited for 1st crewed Boeing Starliner launch May 6](https://www.space.com/boeing-starliner-nasa-astronaut-crew-flight-test-launch-press-conference)
-- [UnitedHealthcare CEO says ‘maybe a third’ of US citizens were affected by recent hack](https://techcrunch.com/2024/05/01/united-healthcare-ceo-says-maybe-a-third-of-u-s-citizens-were-affected-by-recent-hack/)
-- [Pinterest says its AI-powered collages are now more engaging than Pins](https://techcrunch.com/2024/05/01/pinterest-says-its-ai-powered-collages-are-now-more-engaging-than-pins/)
-- [NASA prepares for intense sun storms on Mars during &#39;solar maximum&#39;](https://www.space.com/nasa-mars-solar-maximum-storms-maven-curiosity-rover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
