@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 astronaut taxis: Why NASA wants both Boeing&#39;s Starliner and SpaceX&#39;s Dragon](https://www.space.com/nasa-boeing-starliner-spacex-dragon-iss-astronaut-mission-redundancy)
+- [Citigroup’s VC arm invests in API security startup Traceable](https://techcrunch.com/2024/05/01/citigroups-vc-arm-invests-in-api-security-startup-traceable/)
 - [Chicago-based Hyde Park Venture Partners closes $98M Fund IV with two investments made so far](https://techcrunch.com/2024/05/01/hyde-park-venture-partners-98m/)
 - [How to watch Boeing&#39;s 1st Starliner astronaut launch webcasts live online](https://www.space.com/boeing-starliner-cft-launch-webcasts)
 - [The highest observatory on Earth sits atop Chile&#39;s Andes Mountains — and it&#39;s finally open](https://www.space.com/worlds-highest-observatory-tao-university-of-tokyo-atacama-opens)
-- [Satellite operator SES acquiring Intelsat in $3.1 billion deal](https://www.space.com/ses-acquiring-intelsat-satellite-internet-deal)
-- [Einstein Probe X-ray telescope releases 1st images taken with &#39;lobster vision&#39;](https://www.space.com/einstein-probe-x-ray-first-light)
 <!-- BLOG-POST-LIST:END -->
 
 ---
