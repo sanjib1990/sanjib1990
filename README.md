@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch Boeing&#39;s 1st Starliner astronaut launch webcasts live online](https://www.space.com/boeing-starliner-cft-launch-webcasts)
 - [The highest observatory on Earth sits atop Chile&#39;s Andes Mountains — and it&#39;s finally open](https://www.space.com/worlds-highest-observatory-tao-university-of-tokyo-atacama-opens)
 - [Satellite operator SES acquiring Intelsat in $3.1 billion deal](https://www.space.com/ses-acquiring-intelsat-satellite-internet-deal)
 - [Einstein Probe X-ray telescope releases 1st images taken with &#39;lobster vision&#39;](https://www.space.com/einstein-probe-x-ray-first-light)
 - [&#39;We are ready:&#39; New NASA documentary looks ahead to Artemis 2 moon mission &lpar;video&rpar;](https://www.space.com/nasa-artemis-1-moon-mission-success-and-preparation-video)
-- [Midi is building a digital platform for an oft-overlooked area of women’s health](https://techcrunch.com/2024/04/30/midi-is-building-a-digital-platform-for-an-oft-overlooked-area-of-womens-health/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
