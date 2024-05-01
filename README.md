@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google lays off staff from Flutter, Dart and Python teams weeks before its developer conference](https://techcrunch.com/2024/05/01/google-lays-off-staff-from-flutter-dart-python-weeks-before-its-developer-conference/)
+- [A Switzerland-size hole opened in Antarctica&#39;s sea ice in 2016-17. Now we know why](https://www.space.com/antarctica-sea-ice-hole-2016-2017-explained)
+- [Lego Marvel The Amazing Spider-Man review](https://www.space.com/lego-marvel-the-amazing-spider-man-review)
 - [Solar maximum: What is it and when will it occur?](https://www.space.com/what-is-solar-maximum-and-when-will-it-happen)
 - [Microsoft taps Sanctuary AI for general-purpose robot research](https://techcrunch.com/2024/05/01/microsoft-taps-sanctuary-ai-for-general-purpose-robot-research/)
-- [Substack now lets writers paywall their ‘Chat’ discussion spaces](https://techcrunch.com/2024/05/01/substack-now-lets-writers-paywall-their-chat-discussion-spaces/)
-- [Yellowstone Lake&#39;s weird resistance to climate change could be about to crack](https://www.space.com/yellowstone-lake-resistance-to-climate-change-about-to-crack)
-- [Atlassian launches Rovo, its new AI teammate](https://techcrunch.com/2024/05/01/atlassian-launches-rovo-its-new-ai-teammate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
