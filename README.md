@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It almost feels unreal&#39;: NASA astronauts excited for 1st crewed Boeing Starliner launch May 6](https://www.space.com/boeing-starliner-nasa-astronaut-crew-flight-test-launch-press-conference)
+- [United HealthCare CEO says ‘maybe a third’ of U.S. citizens were affected by recent hack](https://techcrunch.com/2024/05/01/united-healthcare-ceo-says-maybe-a-third-of-u-s-citizens-were-affected-by-recent-hack/)
 - [Pinterest says its AI-powered collages are now more engaging than Pins](https://techcrunch.com/2024/05/01/pinterest-says-its-ai-powered-collages-are-now-more-engaging-than-pins/)
 - [NASA prepares for intense sun storms on Mars during &#39;solar maximum&#39;](https://www.space.com/nasa-mars-solar-maximum-storms-maven-curiosity-rover)
-- [Tiger Global-backed Innovaccer in talks to raise $250 million in new funding, sources say](https://techcrunch.com/2024/05/01/tiger-global-backed-innovaccer-in-talks-to-raise-250-million-in-new-funding-sources-say/)
-- [Airbnb releases group booking features as it taps into AI for customer service](https://techcrunch.com/2024/05/01/airbnb-releases-group-booking-features-as-it-taps-into-ai-for-customer-service/)
-- [James Webb Space Telescope forecasts clouds of melted rock on this blisteringly hot exoplanet](https://www.space.com/james-webb-space-telescope-wasp-43b-weather)
+- [Tiger Global-backed Innovaccer in talks to raise $250M in new funding, sources say](https://techcrunch.com/2024/05/01/tiger-global-backed-innovaccer-in-talks-to-raise-250-million-in-new-funding-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
