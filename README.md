@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The highest observatory on Earth sits atop Chile&#39;s Andes Mountains — and it&#39;s finally open](https://www.space.com/worlds-highest-observatory-tao-university-of-tokyo-atacama-opens)
 - [Satellite operator SES acquiring Intelsat in $3.1 billion deal](https://www.space.com/ses-acquiring-intelsat-satellite-internet-deal)
 - [Einstein Probe X-ray telescope releases 1st images taken with &#39;lobster vision&#39;](https://www.space.com/einstein-probe-x-ray-first-light)
 - [&#39;We are ready:&#39; New NASA documentary looks ahead to Artemis 2 moon mission &lpar;video&rpar;](https://www.space.com/nasa-artemis-1-moon-mission-success-and-preparation-video)
 - [Midi is building a digital platform for an oft-overlooked area of women’s health](https://techcrunch.com/2024/04/30/midi-is-building-a-digital-platform-for-an-oft-overlooked-area-of-womens-health/)
-- [Razer hit with $1.1M FTC fine over glowing ‘N95’ mask COVID claims](https://techcrunch.com/2024/04/30/razer-hit-with-1-1m-ftc-fine-over-glowing-n95-mask-covid-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
