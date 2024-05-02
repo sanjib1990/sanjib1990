@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rivian wins $827 million from Illinois to expand its factory for R2 lineup](https://techcrunch.com/2024/05/02/rivian-827-million-incentives-r2-illinois/)
-- [Watch live: China launching Chang&#39;e 6 mission to far side of the moon early May 3 &lpar;video&rpar;](https://www.space.com/china-chang-e-6-lunar-sample-return-launch-watch-live)
-- [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
-- [EU plan to force messaging apps to scan for CSAM risks millions of false positives, experts warn](https://techcrunch.com/2024/05/02/eu-csam-scanning-council-proposal-flaws/)
-- [They thought they were joining an accelerator — instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
+- [Hubble Network makes Bluetooth connection with a satellite for the first time](https://techcrunch.com/2024/05/02/hubble-network-connects-a-bluetooth-chip-to-a-satellite-for-the-first-time/)
+- [Curious asteroid Selam, spotted by NASA&#39;s Lucy spacecraft, is a cosmic toddler](https://www.space.com/selam-asteroid-age-dinkinesh-lucy-spacecraft)
+- [Alliance DAO is attracting more Asia founders amid US crypto crackdown](https://techcrunch.com/2024/05/02/alliance-dao-batch-12/)
+- [Astronauts on the moon could stay fit by running in a Wheel of Death](https://www.space.com/wheel-of-lunar-death-astronauts-running)
+- [Rivian wins $827M incentive package to expand Illinois factory for R2 production](https://techcrunch.com/2024/05/02/rivian-827-million-incentives-r2-illinois/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
