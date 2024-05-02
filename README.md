@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Renda, which provides order fulfillment for businesses in Africa, takes in $1.9M](https://techcrunch.com/2024/05/02/renda-which-provides-order-fulfillment-for-businesses-in-africa-takes-in-1-9m/)
+- [Digital fraud detection startup BioCatch hits $1.3B valuation as Permira buys majority stake](https://techcrunch.com/2024/05/02/permira-to-acquire-digital-fraud-detection-company-biocatch-in-1-3b-deal/)
 - [ButcherBox acquires ‘Shark Tank’-featured startup Truffle Shuffle](https://techcrunch.com/2024/05/02/butcherbox-acquires-truffle-shuffle/)
 - [Here&#39;s what to expect during Boeing Starliner&#39;s 1st astronaut test flight on May 6](https://www.space.com/boeing-starliner-nasa-astronaut-1st-mission-milestones)
 - [Freshworks acquires Device42 for $230M, appoints Dennis Woodside new CEO](https://techcrunch.com/2024/05/02/freshworks-acquires-device42-for-230m-appoints-dennis-woodside-new-ceo/)
-- [TikTok gets Tay and Billie back with new UMG content licensing deal](https://techcrunch.com/2024/05/02/tiktok-gets-tay-and-billie-back-with-new-umg-content-licensing-deal/)
-- [Haun Ventures is riding the bitcoin high](https://techcrunch.com/2024/05/01/haun-ventures-investments-accelarating-agora/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
