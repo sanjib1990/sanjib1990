@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Falcon 9 rocket launching 2 satellites on record-tying 20th flight today](https://www.space.com/spacex-maxar-worldview-legion-launch-may-2024)
-- [16 best places to see the annular &#39;ring of fire&#39; solar eclipse 2024](https://www.space.com/16-best-places-to-see-annular-ring-of-fire-solar-eclipse-october-2-2024)
-- [Peloton announces 400 layoffs, 15% of the workforce, as CEO Barry McCarthy departs](https://techcrunch.com/2024/05/02/peloton-announces-400-layoffs-15-of-the-workforce-as-ceo-barry-mccarthy-departs/)
-- [Somehow, Star Wars has returned to Fortnite for May the 4th &lpar;video&rpar;](https://www.space.com/star-wars-fortnite-event-may-4th-2024)
-- [Renda, which provides order fulfillment for businesses in Africa, takes in $1.9M](https://techcrunch.com/2024/05/02/renda-which-provides-order-fulfillment-for-businesses-in-africa-takes-in-1-9m/)
+- [AI discovers over 27,000 overlooked asteroids in old telescope images](https://www.space.com/google-cloud-ai-tool-asteroid-telescope-archive)
+- [Danti’s natural language search engine for Earth data soars with $5M in new funding](https://techcrunch.com/2024/05/02/dantis-natural-language-search-engine-for-earth-data-soars-with-5m-in-new-funding/)
+- [Acura’s new all-electric SUV proves the most expensive model isn’t always the best](https://techcrunch.com/2024/05/02/acura-zdx-type-s-new-electric-suv-proves-the-most-expensive-model-isnt-always-the-best/)
+- [&#39;Star Trek: Discovery&#39; season 5 episode 6 goes old school and benefits because of it](https://www.space.com/star-trek-discovery-season-5-episode-6-review)
+- [May the deals be with you in the Lego Star Wars Day 2024 sale](https://www.space.com/lego-star-wars-day-2024-sale)
 <!-- BLOG-POST-LIST:END -->
 
 ---
