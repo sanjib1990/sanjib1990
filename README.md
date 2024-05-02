@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dropbox, Figma CEOs back Lamini, a startup building a generative AI platform for enterprises](https://techcrunch.com/2024/05/02/dropbox-figma-ceos-back-lamini-a-startup-building-a-generative-ai-platform-for-enterprises/)
+- [NASA picks 9 companies to develop Mars &#39;commercial services&#39; ideas](https://www.space.com/nasa-picks-nine-companies-mars-mission-ideas)
+- [Walmart heir Lukas Walton’s Builders Vision puts S2G on a path to independence](https://techcrunch.com/2024/05/02/walmart-heir-lukas-waltons-builders-vision-puts-s2g-on-a-path-to-independence/)
 - [AI discovers over 27,000 overlooked asteroids in old telescope images](https://www.space.com/google-cloud-ai-tool-asteroid-telescope-archive)
-- [Danti’s natural language search engine for Earth data soars with $5M in new funding](https://techcrunch.com/2024/05/02/dantis-natural-language-search-engine-for-earth-data-soars-with-5m-in-new-funding/)
-- [Acura’s new all-electric SUV proves the most expensive model isn’t always the best](https://techcrunch.com/2024/05/02/acura-zdx-type-s-new-electric-suv-proves-the-most-expensive-model-isnt-always-the-best/)
-- [&#39;Star Trek: Discovery&#39; season 5 episode 6 goes old school and benefits because of it](https://www.space.com/star-trek-discovery-season-5-episode-6-review)
-- [May the deals be with you in the Lego Star Wars Day 2024 sale](https://www.space.com/lego-star-wars-day-2024-sale)
+- [SoundCloud takes on Spotify’s Discover Weekly feature with new ‘Buzzing Playlists’](https://techcrunch.com/2024/05/02/soundcloud-takes-on-spotifys-discover-weekly-feature-with-new-buzzing-playlists/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
