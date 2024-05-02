@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google brings passkey support to its Advanced Protection Program ahead of the US presidential election](https://techcrunch.com/2024/05/02/google-brings-passkey-support-to-its-advanced-protection-program-ahead-of-the-us-presidential-election/)
-- [TikTok expands its premium ad slots despite potential U.S. ban](https://techcrunch.com/2024/05/02/tiktok-expands-its-premium-ad-slots-despite-potential-u-s-ban/)
-- [Apple adds more carve-outs to its EU core tech fee after criticism from devs](https://techcrunch.com/2024/05/02/apple-adds-more-carve-outs-to-its-eu-core-tech-fee-after-criticism-from-devs/)
-- [Online course platform Kajabi allows creators to build their own branded apps](https://techcrunch.com/2024/05/02/online-course-platform-kajabi-allows-creators-to-build-their-own-branded-apps/)
-- [Some planets &#39;death spiral&#39; into their stars and scientists may now know why](https://www.space.com/hot-jupiter-star-death-spiral)
+- [TechCrunch Minute: Where CZ’s sentencing leaves the state of crypto](https://techcrunch.com/2024/05/02/techcrunch-minute-where-czs-sentencing-leaves-the-state-of-crypto/)
+- [NASA selects Rocket Lab for back-to-back climate change research launches](https://www.space.com/rocket-lab-back-to-back-nasa-climate-change-launches-prefire)
+- [Google will now show labels in Play Store to denote official government apps](https://techcrunch.com/2024/05/02/google-will-now-show-labels-in-play-store-to-denote-official-government-apps/)
+- [1 month left to submit nominations for Startup Battlefield 200](https://techcrunch.com/2024/05/02/1-month-left-to-submit-nominations-for-startup-battlefield-200-2/)
+- [Spotify quietly moves lyrics behind a paywall](https://techcrunch.com/2024/05/02/spotify-is-quietly-moves-lyrics-behind-a-paywall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
