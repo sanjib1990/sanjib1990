@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch ULA assemble Atlas V rocket ahead of Boeing Starliner astronaut test flight &lpar;video&rpar;](https://www.space.com/ula-starliner-cft-atlas-v-stacking-video)
+- [Hyundai is spending close to $1 billion to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
+- [NASA&#39;s Hubble Telescope is back in action — but its TESS exoplanet hunter may now be in trouble](https://www.space.com/hubble-space-telescope-tess-exoplanet-hunter-safe-mode)
 - [TechCrunch Minute: Where CZ’s sentencing leaves the state of crypto](https://techcrunch.com/2024/05/02/techcrunch-minute-where-czs-sentencing-leaves-the-state-of-crypto/)
 - [NASA selects Rocket Lab for back-to-back climate change research launches](https://www.space.com/rocket-lab-back-to-back-nasa-climate-change-launches-prefire)
-- [Google will now show labels in Play Store to denote official government apps](https://techcrunch.com/2024/05/02/google-will-now-show-labels-in-play-store-to-denote-official-government-apps/)
-- [1 month left to submit nominations for Startup Battlefield 200](https://techcrunch.com/2024/05/02/1-month-left-to-submit-nominations-for-startup-battlefield-200-2/)
-- [Spotify quietly moves lyrics behind a paywall](https://techcrunch.com/2024/05/02/spotify-is-quietly-moves-lyrics-behind-a-paywall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
