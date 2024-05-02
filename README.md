@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Haun Ventures is riding the bitcoin high](https://techcrunch.com/2024/05/01/haun-ventures-investments-accelarating-agora/)
+- [Snapchat launches new AR and ML tools for brands and advertisers](https://techcrunch.com/2024/05/01/snapchat-launches-new-ar-and-ml-tools-for-brands-and-advertisers/)
 - [Watch SpaceX&#39;s Crew-8 astronauts move their Dragon at the ISS May 2 to make way for Boeing&#39;s Starliner](https://www.space.com/spacex-crew-8-dragon-relocation-iss)
 - [From Connie Chan to Ethan Kurzweil, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/05/01/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/)
-- [Anthropic launches new iPhone app, premium plan for businesses](https://techcrunch.com/2024/05/01/anthropic-launches-a-new-premium-plan-aimed-at-businesses/)
-- [NASA orders studies from private space companies on Mars mission support roles](https://techcrunch.com/2024/05/01/nasa-orders-studies-from-private-space-companies-on-mars-mission-support-roles/)
-- [&#39;It almost feels unreal&#39;: NASA astronauts excited for 1st crewed Boeing Starliner launch May 6](https://www.space.com/boeing-starliner-nasa-astronaut-crew-flight-test-launch-press-conference)
+- [Anthropic launches new iPhone app and premium plan for businesses](https://techcrunch.com/2024/05/01/anthropic-launches-a-new-premium-plan-aimed-at-businesses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
