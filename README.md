@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ButcherBox acquires ‘Shark Tank’-featured startup Truffle Shuffle](https://techcrunch.com/2024/05/02/butcherbox-acquires-truffle-shuffle/)
+- [Here&#39;s what to expect during Boeing Starliner&#39;s 1st astronaut test flight on May 6](https://www.space.com/boeing-starliner-nasa-astronaut-1st-mission-milestones)
 - [Freshworks acquires Device42 for $230M, appoints Dennis Woodside new CEO](https://techcrunch.com/2024/05/02/freshworks-acquires-device42-for-230m-appoints-dennis-woodside-new-ceo/)
 - [TikTok gets Tay and Billie back with new UMG content licensing deal](https://techcrunch.com/2024/05/02/tiktok-gets-tay-and-billie-back-with-new-umg-content-licensing-deal/)
 - [Haun Ventures is riding the bitcoin high](https://techcrunch.com/2024/05/01/haun-ventures-investments-accelarating-agora/)
-- [Snapchat launches new AR and ML tools for brands and advertisers](https://techcrunch.com/2024/05/01/snapchat-launches-new-ar-and-ml-tools-for-brands-and-advertisers/)
-- [Watch SpaceX&#39;s Crew-8 astronauts move their Dragon at the ISS May 2 to make way for Boeing&#39;s Starliner](https://www.space.com/spacex-crew-8-dragon-relocation-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
