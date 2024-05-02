@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian wins $827 million from Illinois to expand its factory for R2 lineup](https://techcrunch.com/2024/05/02/rivian-827-million-incentives-r2-illinois/)
+- [Watch live: China launching Chang&#39;e 6 mission to far side of the moon early May 3 &lpar;video&rpar;](https://www.space.com/china-chang-e-6-lunar-sample-return-launch-watch-live)
+- [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
 - [EU plan to force messaging apps to scan for CSAM risks millions of false positives, experts warn](https://techcrunch.com/2024/05/02/eu-csam-scanning-council-proposal-flaws/)
 - [They thought they were joining an accelerator — instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
-- [Your AI-native startup ain’t the same as a typical SaaS company](https://techcrunch.com/2024/05/02/your-ai-native-startup-aint-the-same-as-a-typical-saas-company/)
-- [Watch ULA assemble Atlas V rocket ahead of Boeing Starliner astronaut test flight &lpar;video&rpar;](https://www.space.com/ula-starliner-cft-atlas-v-stacking-video)
-- [Hyundai is spending close to $1 billion to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
