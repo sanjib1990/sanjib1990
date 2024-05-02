@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launching 2 satellites on record-tying 20th flight today](https://www.space.com/spacex-maxar-worldview-legion-launch-may-2024)
+- [16 best places to see the annular &#39;ring of fire&#39; solar eclipse 2024](https://www.space.com/16-best-places-to-see-annular-ring-of-fire-solar-eclipse-october-2-2024)
+- [Peloton announces 400 layoffs, 15% of the workforce, as CEO Barry McCarthy departs](https://techcrunch.com/2024/05/02/peloton-announces-400-layoffs-15-of-the-workforce-as-ceo-barry-mccarthy-departs/)
+- [Somehow, Star Wars has returned to Fortnite for May the 4th &lpar;video&rpar;](https://www.space.com/star-wars-fortnite-event-may-4th-2024)
 - [Renda, which provides order fulfillment for businesses in Africa, takes in $1.9M](https://techcrunch.com/2024/05/02/renda-which-provides-order-fulfillment-for-businesses-in-africa-takes-in-1-9m/)
-- [Digital fraud detection startup BioCatch hits $1.3B valuation as Permira buys majority stake](https://techcrunch.com/2024/05/02/permira-to-acquire-digital-fraud-detection-company-biocatch-in-1-3b-deal/)
-- [ButcherBox acquires ‘Shark Tank’-featured startup Truffle Shuffle](https://techcrunch.com/2024/05/02/butcherbox-acquires-truffle-shuffle/)
-- [Here&#39;s what to expect during Boeing Starliner&#39;s 1st astronaut test flight on May 6](https://www.space.com/boeing-starliner-nasa-astronaut-1st-mission-milestones)
-- [Freshworks acquires Device42 for $230M, appoints Dennis Woodside new CEO](https://techcrunch.com/2024/05/02/freshworks-acquires-device42-for-230m-appoints-dennis-woodside-new-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
