@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dropbox, Figma CEOs back Lamini, a startup building a generative AI platform for enterprises](https://techcrunch.com/2024/05/02/dropbox-figma-ceos-back-lamini-a-startup-building-a-generative-ai-platform-for-enterprises/)
-- [NASA picks 9 companies to develop Mars &#39;commercial services&#39; ideas](https://www.space.com/nasa-picks-nine-companies-mars-mission-ideas)
-- [Walmart heir Lukas Walton’s Builders Vision puts S2G on a path to independence](https://techcrunch.com/2024/05/02/walmart-heir-lukas-waltons-builders-vision-puts-s2g-on-a-path-to-independence/)
-- [AI discovers over 27,000 overlooked asteroids in old telescope images](https://www.space.com/google-cloud-ai-tool-asteroid-telescope-archive)
-- [SoundCloud takes on Spotify’s Discover Weekly feature with new ‘Buzzing Playlists’](https://techcrunch.com/2024/05/02/soundcloud-takes-on-spotifys-discover-weekly-feature-with-new-buzzing-playlists/)
+- [Google brings passkey support to its Advanced Protection Program ahead of the US presidential election](https://techcrunch.com/2024/05/02/google-brings-passkey-support-to-its-advanced-protection-program-ahead-of-the-us-presidential-election/)
+- [TikTok expands its premium ad slots despite potential U.S. ban](https://techcrunch.com/2024/05/02/tiktok-expands-its-premium-ad-slots-despite-potential-u-s-ban/)
+- [Apple adds more carve-outs to its EU core tech fee after criticism from devs](https://techcrunch.com/2024/05/02/apple-adds-more-carve-outs-to-its-eu-core-tech-fee-after-criticism-from-devs/)
+- [Online course platform Kajabi allows creators to build their own branded apps](https://techcrunch.com/2024/05/02/online-course-platform-kajabi-allows-creators-to-build-their-own-branded-apps/)
+- [Some planets &#39;death spiral&#39; into their stars and scientists may now know why](https://www.space.com/hot-jupiter-star-death-spiral)
 <!-- BLOG-POST-LIST:END -->
 
 ---
