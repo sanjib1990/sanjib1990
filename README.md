@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft bans U.S. police departments from using enterprise AI tool for facial recognition](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-azure-openai-facial-recognition/)
-- [Apple earnings see 10% iPhone sales drop](https://techcrunch.com/2024/05/02/apple-earnings-see-10-iphones-sales-drop/)
+- [Microsoft bans US police departments from using enterprise AI tool for facial recognition](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-azure-openai-facial-recognition/)
+- [Apple earnings see 10% iPhone sales drop, massive buyback fuels stock jump](https://techcrunch.com/2024/05/02/apple-earnings-see-10-iphones-sales-drop/)
 - [Hubble Network makes Bluetooth connection with a satellite for the first time](https://techcrunch.com/2024/05/02/hubble-network-connects-a-bluetooth-chip-to-a-satellite-for-the-first-time/)
 - [Curious asteroid Selam, spotted by NASA&#39;s Lucy spacecraft, is a cosmic toddler](https://www.space.com/selam-asteroid-age-dinkinesh-lucy-spacecraft)
-- [Alliance DAO is attracting more Asia founders amid US crypto crackdown](https://techcrunch.com/2024/05/02/alliance-dao-batch-12/)
+- [Alliance DAO is attracting fewer US founders amid crypto crackdown](https://techcrunch.com/2024/05/02/alliance-dao-batch-12/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
