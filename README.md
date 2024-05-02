@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU plan to force messaging apps to scan for CSAM risks millions of false positives, experts warn](https://techcrunch.com/2024/05/02/eu-csam-scanning-council-proposal-flaws/)
+- [They thought they were joining an accelerator — instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
+- [Your AI-native startup ain’t the same as a typical SaaS company](https://techcrunch.com/2024/05/02/your-ai-native-startup-aint-the-same-as-a-typical-saas-company/)
 - [Watch ULA assemble Atlas V rocket ahead of Boeing Starliner astronaut test flight &lpar;video&rpar;](https://www.space.com/ula-starliner-cft-atlas-v-stacking-video)
 - [Hyundai is spending close to $1 billion to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
-- [NASA&#39;s Hubble Telescope is back in action — but its TESS exoplanet hunter may now be in trouble](https://www.space.com/hubble-space-telescope-tess-exoplanet-hunter-safe-mode)
-- [TechCrunch Minute: Where CZ’s sentencing leaves the state of crypto](https://techcrunch.com/2024/05/02/techcrunch-minute-where-czs-sentencing-leaves-the-state-of-crypto/)
-- [NASA selects Rocket Lab for back-to-back climate change research launches](https://www.space.com/rocket-lab-back-to-back-nasa-climate-change-launches-prefire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
