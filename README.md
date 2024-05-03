@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2024 Humans to Mars Summit is happening next week](https://www.space.com/humans-to-mars-summit-2024)
+- [Did the James Webb Space Telescope really find life beyond Earth? Scientists aren&#39;t so sure](https://www.space.com/james-webb-space-telescope-life-earth-exoplanet-study)
 - [Eta Aquarid meteor shower peak could spawn over 100 &#39;shooting stars&#39; per hour this weekend](https://www.space.com/eta-aquarid-meteor-shower-2024-peak-halleys-comet)
 - [TechCrunch Minute: Spotify’s move to paywall lyrics is putting pressure on free users](https://techcrunch.com/2024/05/03/techcrunch-minute-spotify-move-to-paywall-lyrics-putting-pressure-on-free-users/)
 - [UnitedHealth data breach should be a wakeup call for the UK and NHS](https://techcrunch.com/2024/05/03/unitedhealth-data-privacy-drama-should-be-a-wakeup-call-for-the-uk-and-nhs/)
-- [NASA is expanding its Wallops Island facility to support three times as many launches](https://techcrunch.com/2024/05/03/nasa-is-expanding-its-wallops-island-facility-to-support-three-times-as-many-launches/)
-- [When a startup is better off saying no to revenue](https://techcrunch.com/2024/05/03/when-a-startup-is-better-off-saying-no-to-revenue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
