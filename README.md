@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing drone dressed as &#39;Star Wars&#39; X-wing lands at Smithsonian Air and Space Museum](https://www.space.com/boeing-cv2-drone-smithsonian-star-wars-x-wing)
 - [Boeing&#39;s Starliner is ready to fly astronauts after years of delay. Here&#39;s what took so long.](https://www.space.com/boeing-starliner-delays-not-frustrating-1st-iss-launch)
 - [Google dubs Epic’s demands from its antitrust win ‘unnecessary’ and ‘far beyond the scope’ of the verdict](https://techcrunch.com/2024/05/03/google-dubs-epics-demands-from-its-antitrust-win-unnecessary-and-far-beyond-the-scope-of-verdict/)
 - [Apple: pay attention to emerging markets, not falling China sales](https://techcrunch.com/2024/05/02/apple-cfo-tells-investors-to-pay-attention-to-emerging-markets-not-falling-china-sales/)
 - [Apple iPad event: What to expect](https://techcrunch.com/2024/05/02/apple-ipad-event-what-to-expect/)
-- [Microsoft bans US police departments from using enterprise AI tool for facial recognition](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-azure-openai-facial-recognition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
