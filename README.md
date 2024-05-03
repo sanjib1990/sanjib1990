@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [host ALL your AI locally](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)
 - [How Branch Prediction Works in CPUs - Computerphile](https://www.youtube.com/watch?v=nczJ58WvtYo)
 - [GitHub Copilot just got promoted to Captain](https://www.youtube.com/watch?v=S_RorY_FRvo)
 - [White House says NO DEGREE!!](https://www.youtube.com/watch?v=aEuMRZzqFH8)
 - [Reimagining Cities with Prof. David Hsu](https://www.youtube.com/watch?v=R9ye_QZeWEU)
-- [Amazon Q - Build on AWS like a Pro using Amazon&#39;s new AI coding assistant](https://www.youtube.com/watch?v=cA8KrHFm4So)
 <!-- YOUTUBE:END -->
 
 ---
