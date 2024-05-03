@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Citizen scientists find remarkable exoplanet, name it after Harry Potter character](https://www.space.com/citizen-scientists-find-exoplanet-harry-potter-inspired)
+- [China launches Chang&#39;e 6 sample-return mission to moon&#39;s far side &lpar;video&rpar;](https://www.space.com/china-change-6-moon-sample-return-mission-launch)
+- [2 colossal solar flares explode from the sun and Earth is in the firing line &lpar;video&rpar;](https://www.space.com/two-solar-flares-erupt-within-six-hours-may-2024-video)
 - [Happy National Space Day 2024! Here&#39;s how 8 lucky kids can win a trip to Florida&#39;s Space Coast](https://www.space.com/national-space-day-2024-space-kids-global)
 - [The history of the Sith Order in Star Wars](https://www.space.com/history-of-the-sith-order-in-star-wars)
-- [How the XRISM spacecraft can study the X-ray universe with only 36 pixels](https://www.space.com/xrism-x-ray-36-pixels-resolve-instrument)
-- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Boeing drone dressed as &#39;Star Wars&#39; X-wing lands at Smithsonian Air and Space Museum](https://www.space.com/boeing-cv2-drone-smithsonian-star-wars-x-wing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
