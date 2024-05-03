@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic to launch 7th commercial spaceflight on June 8](https://www.space.com/virgin-galactic-seventh-commercial-spaceflight-june-8)
+- [X launches Stories, delivering news summarized by Grok AI](https://techcrunch.com/2024/05/03/x-launches-stories-on-x-delivering-news-summarized-by-grok-ai/)
 - [Does a cosmic &#39;glitch&#39; in gravity challenge Albert Einstein&#39;s greatest theory?](https://www.space.com/cosmic-glitch-gravity-challenges-general-relativity-einstein)
 - [Match-owned Archer hits over half a million installs amid dating app slump](https://techcrunch.com/2024/05/03/match-owned-archer-hits-over-half-a-million-installs-amid-dating-app-slump/)
 - [Musk raises $6B for AI startup. Also, is TikTok dodging Apple’s commissions?](https://techcrunch.com/2024/05/03/xai-billions-and-apple-vs-tiktok-startups-weekly/)
-- [Three things we learned about Apple’s AI plans from its earnings](https://techcrunch.com/2024/05/03/three-things-we-learned-about-apples-ai-plans-from-its-earnings/)
-- [Fisker stiffed the engineering firm developing its low-cost EV and pickup truck, lawsuit claims](https://techcrunch.com/2024/05/03/fisker-pear-alaska-lawsuit-engineering-class-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
