@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy National Space Day 2024! Here&#39;s how 8 lucky kids can win a trip to Florida&#39;s Space Coast](https://www.space.com/national-space-day-2024-space-kids-global)
+- [The history of the Sith Order in Star Wars](https://www.space.com/history-of-the-sith-order-in-star-wars)
 - [How the XRISM spacecraft can study the X-ray universe with only 36 pixels](https://www.space.com/xrism-x-ray-36-pixels-resolve-instrument)
 - [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Boeing drone dressed as &#39;Star Wars&#39; X-wing lands at Smithsonian Air and Space Museum](https://www.space.com/boeing-cv2-drone-smithsonian-star-wars-x-wing)
-- [Boeing&#39;s Starliner is ready to fly astronauts after years of delay. Here&#39;s what took so long.](https://www.space.com/boeing-starliner-delays-not-frustrating-1st-iss-launch)
-- [Google dubs Epic’s demands from its antitrust win ‘unnecessary’ and ‘far beyond the scope’ of the verdict](https://techcrunch.com/2024/05/03/google-dubs-epics-demands-from-its-antitrust-win-unnecessary-and-far-beyond-the-scope-of-verdict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
