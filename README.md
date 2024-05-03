@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does a cosmic &#39;glitch&#39; in gravity challenge Albert Einstein&#39;s greatest theory?](https://www.space.com/cosmic-glitch-gravity-challenges-general-relativity-einstein)
+- [Match-owned Archer hits over half a million installs amid dating app slump](https://techcrunch.com/2024/05/03/match-owned-archer-hits-over-half-a-million-installs-amid-dating-app-slump/)
 - [Musk raises $6B for AI startup. Also, is TikTok dodging Apple’s commissions?](https://techcrunch.com/2024/05/03/xai-billions-and-apple-vs-tiktok-startups-weekly/)
 - [Three things we learned about Apple’s AI plans from its earnings](https://techcrunch.com/2024/05/03/three-things-we-learned-about-apples-ai-plans-from-its-earnings/)
 - [Fisker stiffed the engineering firm developing its low-cost EV and pickup truck, lawsuit claims](https://techcrunch.com/2024/05/03/fisker-pear-alaska-lawsuit-engineering-class-action/)
-- [Instagram now lets you post a secret Story that viewers can uncover with a DM](https://techcrunch.com/2024/05/03/instagram-now-lets-you-post-a-secret-story-that-viewers-can-uncover-with-a-dm/)
-- [Boeing Starliner spacecraft &#39;go&#39; for 1st astronaut launch on May 6, NASA says](https://www.space.com/boeing-starliner-crew-flight-test-prelaunch-press-conference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
