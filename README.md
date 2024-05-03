@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Despite recent successes, IPO market still won’t fully open until 2025](https://techcrunch.com/2024/05/03/despite-recent-successes-ipo-market-still-wont-fully-open-until-2025/)
-- [Long ago, a lake on Mars might have been sprawling with microbes](https://www.space.com/lake-mars-microbes-ancient-red-planet-curiosity-rover)
-- [EQT snaps up API and identity management software company WSO2 for more than $600M](https://techcrunch.com/2024/05/03/eqt-snaps-up-enterprise-software-company-wso2-for-more-than-600m/)
-- [How to play Pokémon and other Game Boy games on your iPhone](https://techcrunch.com/2024/05/03/how-to-play-pokemon-and-other-game-boy-games-on-your-iphone/)
-- [10 years in the making, retro game emulator Delta is now #1 on the iOS charts](https://techcrunch.com/2024/05/03/retro-game-emulator-delta-app-store-ios/)
+- [Musk raises $6B for AI startup. Also, is TikTok dodging Apple’s commissions?](https://techcrunch.com/2024/05/03/xai-billions-and-apple-vs-tiktok-startups-weekly/)
+- [Three things we learned about Apple’s AI plans from its earnings](https://techcrunch.com/2024/05/03/three-things-we-learned-about-apples-ai-plans-from-its-earnings/)
+- [Fisker stiffed the engineering firm developing its low-cost EV and pickup truck, lawsuit claims](https://techcrunch.com/2024/05/03/fisker-pear-alaska-lawsuit-engineering-class-action/)
+- [Instagram now lets you post a secret Story that viewers can uncover with a DM](https://techcrunch.com/2024/05/03/instagram-now-lets-you-post-a-secret-story-that-viewers-can-uncover-with-a-dm/)
+- [Boeing Starliner spacecraft &#39;go&#39; for 1st astronaut launch on May 6, NASA says](https://www.space.com/boeing-starliner-crew-flight-test-prelaunch-press-conference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
