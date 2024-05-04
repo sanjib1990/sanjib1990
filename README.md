@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Human composting and timber marketplaces: talking “industrial” VC with investor Dayna Grayson](https://techcrunch.com/2024/05/04/human-composting-and-timber-marketplaces-talking-industrial-vc-with-investor-dayna-grayson/)
 - [Boeing Starliner rolls out to launch pad for 1st astronaut flight on May 6 &lpar;photos&rpar;](https://www.space.com/boeing-starliner-crew-flight-test-launch-pad-rollout)
 - [Women in AI: Tara Chklovski is teaching the next generation of AI innovators](https://techcrunch.com/2024/05/04/women-in-ai-tara-chklovski-is-teaching-the-next-generation-of-ai-innovators/)
 - [Farewell, dunks? Threads launches quote controls for all users](https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/)
 - [Deal Dive: Amae Health is building an in-person approach to mental healthcare in an increasingly digital space](https://techcrunch.com/2024/05/04/deal-dive-amae-health-is-building-an-in-person-approach-to-mental-healthcare-in-an-increasingly-digital-space/)
-- [The history of the Jedi Order in &#39;Star Wars&#39;](https://www.space.com/history-of-the-jedi-order-in-star-wars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
