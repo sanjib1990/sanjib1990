@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Starliner rolls out to launch pad for 1st astronaut flight on May 6 &lpar;photos&rpar;](https://www.space.com/boeing-starliner-crew-flight-test-launch-pad-rollout)
 - [Women in AI: Tara Chklovski is teaching the next generation of AI innovators](https://techcrunch.com/2024/05/04/women-in-ai-tara-chklovski-is-teaching-the-next-generation-of-ai-innovators/)
 - [Farewell, dunks? Threads launches quote controls for all users](https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/)
 - [Deal Dive: Amae Health is building an in-person approach to mental healthcare in an increasingly digital space](https://techcrunch.com/2024/05/04/deal-dive-amae-health-is-building-an-in-person-approach-to-mental-healthcare-in-an-increasingly-digital-space/)
 - [The history of the Jedi Order in &#39;Star Wars&#39;](https://www.space.com/history-of-the-jedi-order-in-star-wars)
-- [Why RAG won’t solve generative AI’s hallucination problem](https://techcrunch.com/2024/05/04/why-rag-wont-solve-generative-ais-hallucination-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
