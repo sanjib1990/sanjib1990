@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The history of the Jedi Order in &#39;Star Wars&#39;](https://www.space.com/history-of-the-jedi-order-in-star-wars)
 - [Why RAG won’t solve generative AI’s hallucination problem](https://techcrunch.com/2024/05/04/why-rag-wont-solve-generative-ais-hallucination-problem/)
 - [Star Wars Day 2024: &#39;Star Wars: Tales of the Empire&#39; premieres today on Disney+](https://www.space.com/star-wars-day-2024-tales-of-the-empire-premiere)
 - [This Week in AI: Generative AI and the problem of compensating creators](https://techcrunch.com/2024/05/04/this-week-in-ai-generative-ai-and-the-problem-of-compensating-creators/)
 - [Free Comic Book Day 2024: Get Marvel Comics &#39;Star Wars #1&#39; for free](https://www.space.com/star-wars-free-comic-book-day-2024)
-- [This Week In Space podcast: Episode 109 — Music of the Spheres](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-109-music-spheres)
 <!-- BLOG-POST-LIST:END -->
 
 ---
