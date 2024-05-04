@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Their other vehicle is the Starliner: Boeing&#39;s 1st crew to ride Astrovan II to the launch pad](https://www.space.com/boeing-starliner-cft-astrovan-astronaut-transport)
 - [ICONIQ Growth raises $5.75B seventh flagship fund](https://techcrunch.com/2024/05/03/iconiq-raises-5-15b-toward-seventh-flagship-fund/)
 - [Luminar cuts 20% of staff and outsources lidar production](https://techcrunch.com/2024/05/03/luminar-layoffs-reduction-restructuring-lidar/)
 - [Virgin Galactic to launch 7th commercial spaceflight on June 8](https://www.space.com/virgin-galactic-seventh-commercial-spaceflight-june-8)
 - [X launches Stories, delivering news summarized by Grok AI](https://techcrunch.com/2024/05/03/x-launches-stories-on-x-delivering-news-summarized-by-grok-ai/)
-- [Does a cosmic &#39;glitch&#39; in gravity challenge Albert Einstein&#39;s greatest theory?](https://www.space.com/cosmic-glitch-gravity-challenges-general-relativity-einstein)
 <!-- BLOG-POST-LIST:END -->
 
 ---
