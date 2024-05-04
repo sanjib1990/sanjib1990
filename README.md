@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Tara Chklovski is teaching the next generation of AI innovators](https://techcrunch.com/2024/05/04/women-in-ai-tara-chklovski-is-teaching-the-next-generation-of-ai-innovators/)
+- [Farewell, dunks? Threads launches quote controls for all users](https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/)
 - [Deal Dive: Amae Health is building an in-person approach to mental healthcare in an increasingly digital space](https://techcrunch.com/2024/05/04/deal-dive-amae-health-is-building-an-in-person-approach-to-mental-healthcare-in-an-increasingly-digital-space/)
 - [The history of the Jedi Order in &#39;Star Wars&#39;](https://www.space.com/history-of-the-jedi-order-in-star-wars)
 - [Why RAG won’t solve generative AI’s hallucination problem](https://techcrunch.com/2024/05/04/why-rag-wont-solve-generative-ais-hallucination-problem/)
-- [Star Wars Day 2024: &#39;Star Wars: Tales of the Empire&#39; premieres today on Disney+](https://www.space.com/star-wars-day-2024-tales-of-the-empire-premiere)
-- [This Week in AI: Generative AI and the problem of compensating creators](https://techcrunch.com/2024/05/04/this-week-in-ai-generative-ai-and-the-problem-of-compensating-creators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
