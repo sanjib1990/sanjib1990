@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s next for Boeing Starliner after its 1st crew flight test?](https://www.space.com/crew-flight-test-starliner-1-operational-2025)
 - [What time is Boeing&#39;s 1st Starliner astronaut launch for NASA on May 6?](https://www.space.com/boeing-starliner-1st-astronaut-launch-what-time)
 - [Their other vehicle is the Starliner: Boeing&#39;s 1st crew to ride Astrovan II to the launch pad](https://www.space.com/boeing-starliner-cft-astrovan-astronaut-transport)
 - [ICONIQ Growth raises $5.75B seventh flagship fund](https://techcrunch.com/2024/05/03/iconiq-raises-5-15b-toward-seventh-flagship-fund/)
 - [Luminar cuts 20% of staff and outsources lidar production](https://techcrunch.com/2024/05/03/luminar-layoffs-reduction-restructuring-lidar/)
-- [Virgin Galactic to launch 7th commercial spaceflight on June 8](https://www.space.com/virgin-galactic-seventh-commercial-spaceflight-june-8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
