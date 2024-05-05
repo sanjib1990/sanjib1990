@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Catherine Breslin helps companies develop AI strategies](https://techcrunch.com/2024/05/05/women-in-ai-catherine-breslin-helps-companies-develop-ai-strategies/)
 - [Why NASA is betting on a 36-pixel camera](https://techcrunch.com/2024/05/05/say-hello-to-nasas-new-36-pixel-camera/)
 - [NASA astronaut and director Ellen Ochoa awarded Presidential Medal of Freedom](https://www.space.com/nasa-astronaut-ellen-ochoa-presidential-medal-freedom)
 - [Alternative clouds are booming as companies seek cheaper access to GPUs](https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/)
 - [Happy National Astronaut Day 2024! Holiday&#39;s founder talks importance of honoring America&#39;s spaceflyers &lpar;exclusive&rpar;](https://www.space.com/national-astronaut-day-2024-uniphi-good)
-- [After an &#39;emotional rollercoaster,&#39; NASA astronauts are ready to fly on Boeing Starliner](https://www.space.com/boeing-starliner-nasa-astronauts-delay-emotional-rollercoaster-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
