@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alternative clouds are booming as companies seek cheaper access to GPUs](https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/)
+- [Happy National Astronaut Day 2024! Holiday&#39;s founder talks importance of honoring America&#39;s spaceflyers &lpar;exclusive&rpar;](https://www.space.com/national-astronaut-day-2024-uniphi-good)
 - [After an &#39;emotional rollercoaster,&#39; NASA astronauts are ready to fly on Boeing Starliner](https://www.space.com/boeing-starliner-nasa-astronauts-delay-emotional-rollercoaster-launch)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 - [The Rabbit r1 shipped half-baked, but that’s kind of the point](https://techcrunch.com/2024/05/05/the-rabbit-r1-shipped-half-baked-but-thats-kind-of-the-point/)
-- [X-ray spacecraft reveals odd &#39;Cloverleaf&#39; radio circle in new light &lpar;image&rpar;](https://www.space.com/xmm-newton-x-ray-odd-radio-circle-cloverleaf)
-- [Where will the annular solar eclipse on Oct. 2, 2024 be visible?](https://www.space.com/where-is-annular-solar-eclipse-2024-visible-maps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
