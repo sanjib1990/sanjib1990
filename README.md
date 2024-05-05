@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After an &#39;emotional rollercoaster,&#39; NASA astronauts are ready to fly on Boeing Starliner](https://www.space.com/boeing-starliner-nasa-astronauts-delay-emotional-rollercoaster-launch)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 - [The Rabbit r1 shipped half-baked, but that’s kind of the point](https://techcrunch.com/2024/05/05/the-rabbit-r1-shipped-half-baked-but-thats-kind-of-the-point/)
 - [X-ray spacecraft reveals odd &#39;Cloverleaf&#39; radio circle in new light &lpar;image&rpar;](https://www.space.com/xmm-newton-x-ray-odd-radio-circle-cloverleaf)
 - [Where will the annular solar eclipse on Oct. 2, 2024 be visible?](https://www.space.com/where-is-annular-solar-eclipse-2024-visible-maps)
-- [Google lays off workers, Tesla cans its Supercharger team and UnitedHealthcare reveals security lapses](https://techcrunch.com/2024/05/04/google-lays-off-workers-tesla-cans-its-supercharger-team-and-unitedhealthcare-reveals-security-lapses/)
-- [Human composting and timber marketplaces: talking “industrial” VC with investor Dayna Grayson](https://techcrunch.com/2024/05/04/human-composting-and-timber-marketplaces-talking-industrial-vc-with-investor-dayna-grayson/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
