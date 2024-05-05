@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where will the annular solar eclipse on Oct. 2, 2024 be visible?](https://www.space.com/where-is-annular-solar-eclipse-2024-visible-maps)
 - [Google lays off workers, Tesla cans its Supercharger team and UnitedHealthcare reveals security lapses](https://techcrunch.com/2024/05/04/google-lays-off-workers-tesla-cans-its-supercharger-team-and-unitedhealthcare-reveals-security-lapses/)
 - [Human composting and timber marketplaces: talking “industrial” VC with investor Dayna Grayson](https://techcrunch.com/2024/05/04/human-composting-and-timber-marketplaces-talking-industrial-vc-with-investor-dayna-grayson/)
 - [Boeing Starliner rolls out to launch pad for 1st astronaut flight on May 6 &lpar;photos&rpar;](https://www.space.com/boeing-starliner-crew-flight-test-launch-pad-rollout)
 - [Women in AI: Tara Chklovski is teaching the next generation of AI innovators](https://techcrunch.com/2024/05/04/women-in-ai-tara-chklovski-is-teaching-the-next-generation-of-ai-innovators/)
-- [Farewell, dunks? Threads launches quote controls for all users](https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
