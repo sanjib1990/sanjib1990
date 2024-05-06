@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX reveals new EVA suit for upcoming Polaris Dawn private spaceflight &lpar;video&rpar;](https://www.space.com/spacex-polaris-dawn-eva-spacesuit-reveal-video)
+- [SpaceX launches 23 Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/spacex-starlink-launch-group-6-57)
 - [Boeing&#39;s Starliner launch will be the 1st astronaut flight on an Atlas V rocket. How did NASA and ULA get it ready for crews? &lpar;exclusive&rpar;](https://www.space.com/atlas-v-starliner-astronauts-rocket-build)
 - [Sun unleashes X-class solar flare, radio blackouts reported &lpar;video&rpar;](https://www.space.com/sun-x-class-solar-flare-may-6-2024-radio-blackouts)
 - [The ISS may be more visible in the night sky throughout May. Here&#39;s how to see it](https://www.space.com/may-2024-international-space-station-more-visible-how-to-see)
-- [Opera’s AI assistant can now summarize web pages on Android](https://techcrunch.com/2024/05/06/operas-ai-assistant-can-now-summarize-web-pages-on-android/)
-- [1st woman to command a US spacecraft Eileen Collins &#39;signs&#39; patch to inspire girls](https://www.space.com/astronaut-eileen-collins-signature-edition-patch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
