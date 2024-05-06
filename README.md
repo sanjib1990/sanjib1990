@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet-owned Intrinsic incorporates Nvidia tech into robotics platform](https://techcrunch.com/2024/05/06/alphabet-owned-intrinsic-incorporates-nvidia-tech-into-robotics-platform/)
+- [How &#39;Earth&#39;s twin&#39; Venus lost its water and became a hellish planet](https://www.space.com/venus-water-loss-earth-twin-molecule)
+- [Stack Overflow signs deal with OpenAI to supply data to its models](https://techcrunch.com/2024/05/06/stack-overflow-signs-deal-with-openai-to-supply-data-to-its-models/)
 - [Euclid telescope: A scientist tells us of his quest to understand the nature of dark matter and dark energy](https://www.space.com/the-universe/euclid-telescope-a-scientist-tells-us-of-his-quest-to-understand-the-nature-of-dark-matter-and-dark-energy)
 - [Boeing&#39;s Starliner to join exclusive spacecraft club with 1st astronaut launch today](https://www.space.com/boeing-starliner-first-astronaut-launch-cft-historic)
-- [&#39;Lost&#39; satellite found after orbiting undetected for 25 years](https://www.space.com/lost-satellite-found-us-space-force-data)
-- [Biden administration plans $285M in CHIPS Act funding for digital twins](https://techcrunch.com/2024/05/06/biden-administration-plans-285m-in-chips-act-funding-for-digital-twins/)
-- [Boeing&#39;s Starliner is a &#39;big piece of America&#39;s overall strategy for access to low Earth orbit,&#39; astronaut says](https://www.space.com/boeing-starliner-america-space-strategy-josh-kutryk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
