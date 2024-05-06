@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alphabet-owned Intrinsic incorporates Nvidia tech into robotics platform](https://techcrunch.com/2024/05/06/alphabet-owned-intrinsic-incorporates-nvidia-tech-into-robotics-platform/)
-- [How &#39;Earth&#39;s twin&#39; Venus lost its water and became a hellish planet](https://www.space.com/venus-water-loss-earth-twin-molecule)
-- [Stack Overflow signs deal with OpenAI to supply data to its models](https://techcrunch.com/2024/05/06/stack-overflow-signs-deal-with-openai-to-supply-data-to-its-models/)
-- [Euclid telescope: A scientist tells us of his quest to understand the nature of dark matter and dark energy](https://www.space.com/the-universe/euclid-telescope-a-scientist-tells-us-of-his-quest-to-understand-the-nature-of-dark-matter-and-dark-energy)
-- [Boeing&#39;s Starliner to join exclusive spacecraft club with 1st astronaut launch today](https://www.space.com/boeing-starliner-first-astronaut-launch-cft-historic)
+- [TechCrunch Minute: Newchip, Techstars, and what happens when startup accelerators fail](https://techcrunch.com/2024/05/06/techcrunch-minute-newchip-techstars-and-what-happens-when-startup-accelerators-fail/)
+- [Boeing Starliner brings astronaut launches back to Atlas rocket and Cape Canaveral](https://www.space.com/boeing-starliner-cft-returns-human-spaceflight-atlas-cape)
+- [Police resurrect Lockbit’s site and troll the ransomware gang](https://techcrunch.com/2024/05/06/police-resurrect-lockbits-site-and-troll-the-ransomware-gang/)
+- [How to choose a deep tech startup program](https://techcrunch.com/2024/05/06/how-to-choose-a-deep-tech-startup-program/)
+- [Dorsey leaves Bluesky, tech giants do more with less, and the next IPO](https://techcrunch.com/2024/05/06/dorsey-leaves-bluesky-tech-giants-do-more-with-less-and-the-next-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
