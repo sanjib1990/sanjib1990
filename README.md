@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starliner&#39;s Mission Control team &quot;very excited&quot; for capsule’s 1st-ever astronaut launch &lpar;exclusive&rpar;](https://www.space.com/starliner-mission-support-safety-1st-astronaut-launch)
-- [SpaceX reveals new EVA suit for upcoming Polaris Dawn private spaceflight &lpar;video&rpar;](https://www.space.com/spacex-polaris-dawn-eva-spacesuit-reveal-video)
-- [SpaceX launches 23 Starlink satellites from Florida &lpar;video&rpar;](https://www.space.com/spacex-starlink-launch-group-6-57)
-- [Boeing&#39;s Starliner launch will be the 1st astronaut flight on an Atlas V rocket. How did NASA and ULA get it ready for crews? &lpar;exclusive&rpar;](https://www.space.com/atlas-v-starliner-astronauts-rocket-build)
-- [Sun unleashes X-class solar flare, radio blackouts reported &lpar;video&rpar;](https://www.space.com/sun-x-class-solar-flare-may-6-2024-radio-blackouts)
+- [Lucid loses longtime Apple and Intel exec who steered software division](https://techcrunch.com/2024/05/06/lucid-motors-mike-bell-resigns-software-digital-q1-earnings/)
+- [Watch 2 bus-size asteroids make close flybys of Earth this week &lpar;video&rpar;](https://www.space.com/asteroid-flybys-may-6-7-watch-live)
+- [Global crypto firms turn to Hong Kong for refuge — and opportunity](https://techcrunch.com/2024/05/06/hong-kongs-crypto-ambition-starts-garnering-global-attention/)
+- [DocuSign acquires AI-powered contract management firm Lexion](https://techcrunch.com/2024/05/06/docusign-acquires-ai-powered-contract-management-firm-lexion/)
+- [Spacecraft captures absolutely incredible video of plasma swirling on the sun](https://www.space.com/sun-fluffy-solar-corona-video-orbiter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
