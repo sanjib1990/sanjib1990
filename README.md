@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s Starliner launch will be the 1st astronaut flight on an Atlas V rocket. How did NASA and ULA get it ready for crews? &lpar;exclusive&rpar;](https://www.space.com/atlas-v-starliner-astronauts-rocket-build)
+- [Sun unleashes X-class solar flare, radio blackouts reported &lpar;video&rpar;](https://www.space.com/sun-x-class-solar-flare-may-6-2024-radio-blackouts)
+- [The ISS may be more visible in the night sky throughout May. Here&#39;s how to see it](https://www.space.com/may-2024-international-space-station-more-visible-how-to-see)
 - [Opera’s AI assistant can now summarize web pages on Android](https://techcrunch.com/2024/05/06/operas-ai-assistant-can-now-summarize-web-pages-on-android/)
 - [1st woman to command a US spacecraft Eileen Collins &#39;signs&#39; patch to inspire girls](https://www.space.com/astronaut-eileen-collins-signature-edition-patch)
-- [TechCrunch Minute: Newchip, Techstars, and what happens when startup accelerators fail](https://techcrunch.com/2024/05/06/techcrunch-minute-newchip-techstars-and-what-happens-when-startup-accelerators-fail/)
-- [Boeing Starliner brings astronaut launches back to Atlas rocket and Cape Canaveral](https://www.space.com/boeing-starliner-cft-returns-human-spaceflight-atlas-cape)
-- [Police resurrect Lockbit’s site and troll the ransomware gang](https://techcrunch.com/2024/05/06/police-resurrect-lockbits-site-and-troll-the-ransomware-gang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
