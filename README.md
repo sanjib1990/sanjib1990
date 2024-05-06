@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wayve raises $1 billion to take its Tesla-like technology for self-driving to many carmakers](https://techcrunch.com/2024/05/06/wayve-raises-1-billion-led-by-softbank-to-take-self-driving-to-cars-and-robots/)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [The Kendrick-Drake feud shows how technology is changing rap battles](https://techcrunch.com/2024/05/06/the-kendrick-drake-feud-shows-how-technology-is-changing-rap-battles/)
 - [TechCrunch Space: Launch pad decongestion](https://techcrunch.com/2024/05/06/techcrunch-space-launch-pad-decongestion/)
 - [The Net Gala hosts its first event for the stylish and chronically online](https://techcrunch.com/2024/05/06/the-net-gala-hosts-its-first-event-for-the-stylish-and-chronically-online/)
-- [Lucid loses longtime Apple and Intel exec who steered software division](https://techcrunch.com/2024/05/06/lucid-motors-mike-bell-resigns-software-digital-q1-earnings/)
-- [Watch 2 bus-size asteroids make close flybys of Earth this week &lpar;video&rpar;](https://www.space.com/asteroid-flybys-may-6-7-watch-live)
-- [Global crypto firms turn to Hong Kong for refuge — and opportunity](https://techcrunch.com/2024/05/06/hong-kongs-crypto-ambition-starts-garnering-global-attention/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
