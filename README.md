@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: Launch pad decongestion](https://techcrunch.com/2024/05/06/techcrunch-space-launch-pad-decongestion/)
+- [The Net Gala hosts its first event for the stylish and chronically online](https://techcrunch.com/2024/05/06/the-net-gala-hosts-its-first-event-for-the-stylish-and-chronically-online/)
 - [Lucid loses longtime Apple and Intel exec who steered software division](https://techcrunch.com/2024/05/06/lucid-motors-mike-bell-resigns-software-digital-q1-earnings/)
 - [Watch 2 bus-size asteroids make close flybys of Earth this week &lpar;video&rpar;](https://www.space.com/asteroid-flybys-may-6-7-watch-live)
 - [Global crypto firms turn to Hong Kong for refuge — and opportunity](https://techcrunch.com/2024/05/06/hong-kongs-crypto-ambition-starts-garnering-global-attention/)
-- [DocuSign acquires AI-powered contract management firm Lexion](https://techcrunch.com/2024/05/06/docusign-acquires-ai-powered-contract-management-firm-lexion/)
-- [Spacecraft captures absolutely incredible video of plasma swirling on the sun](https://www.space.com/sun-fluffy-solar-corona-video-orbiter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
