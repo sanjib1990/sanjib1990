@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Biden administration plans $285M in CHIPS Act funding for digital twins](https://techcrunch.com/2024/05/06/biden-administration-plans-285m-in-chips-act-funding-for-digital-twins/)
+- [Boeing&#39;s Starliner is a &#39;big piece of America&#39;s overall strategy for access to low Earth orbit,&#39; astronaut says](https://www.space.com/boeing-starliner-cft-launch-tomorrow)
+- [Quora CEO Adam D’Angelo talks about AI, chatbot platform Poe, and why OpenAI is not a competitor](https://techcrunch.com/2024/05/06/adam-dangelo-quora-poe-open-ai/)
+- [Handle Mars with care: Guidelines needed for responsible Red Planet exploration, experts say](https://www.space.com/mars-exploration-geoconservation-alien-life)
 - [Sequoia’s Jess Lee explains how early-stage startups can identify product-market fit](https://techcrunch.com/2024/05/06/sequoias-jess-lee-explains-how-early-stage-startups-can-identify-product-market-fit/)
-- [Jack Dorsey departs Bluesky board](https://techcrunch.com/2024/05/05/jack-dorsey-says-hes-no-longer-on-the-bluesky-board/)
-- [Hyundai antes up $1B for AV startup Motional and Elon unplugs the Tesla Supercharger team](https://techcrunch.com/2024/05/05/hyundai/)
-- [Women in AI: Catherine Breslin helps companies develop AI strategies](https://techcrunch.com/2024/05/05/women-in-ai-catherine-breslin-helps-companies-develop-ai-strategies/)
-- [Why NASA is betting on a 36-pixel camera](https://techcrunch.com/2024/05/05/say-hello-to-nasas-new-36-pixel-camera/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
