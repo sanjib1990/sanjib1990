@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia’s Jess Lee explains how early-stage startups can identify product-market fit](https://techcrunch.com/2024/05/06/sequoias-jess-lee-explains-how-early-stage-startups-can-identify-product-market-fit/)
 - [Jack Dorsey departs Bluesky board](https://techcrunch.com/2024/05/05/jack-dorsey-says-hes-no-longer-on-the-bluesky-board/)
 - [Hyundai antes up $1B for AV startup Motional and Elon unplugs the Tesla Supercharger team](https://techcrunch.com/2024/05/05/hyundai/)
 - [Women in AI: Catherine Breslin helps companies develop AI strategies](https://techcrunch.com/2024/05/05/women-in-ai-catherine-breslin-helps-companies-develop-ai-strategies/)
 - [Why NASA is betting on a 36-pixel camera](https://techcrunch.com/2024/05/05/say-hello-to-nasas-new-36-pixel-camera/)
-- [NASA astronaut and director Ellen Ochoa awarded Presidential Medal of Freedom](https://www.space.com/nasa-astronaut-ellen-ochoa-presidential-medal-freedom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
