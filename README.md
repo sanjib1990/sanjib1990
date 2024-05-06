@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s Starliner to join exclusive spacecraft club with 1st astronaut launch today](https://www.space.com/boeing-starliner-first-astronaut-launch-cft-historic)
 - [&#39;Lost&#39; satellite found after orbiting undetected for 25 years](https://www.space.com/lost-satellite-found-us-space-force-data)
 - [Biden administration plans $285M in CHIPS Act funding for digital twins](https://techcrunch.com/2024/05/06/biden-administration-plans-285m-in-chips-act-funding-for-digital-twins/)
-- [Boeing&#39;s Starliner is a &#39;big piece of America&#39;s overall strategy for access to low Earth orbit,&#39; astronaut says](https://www.space.com/boeing-starliner-cft-launch-tomorrow)
+- [Boeing&#39;s Starliner is a &#39;big piece of America&#39;s overall strategy for access to low Earth orbit,&#39; astronaut says](https://www.space.com/boeing-starliner-america-space-strategy-josh-kutryk)
 - [Quora CEO Adam D’Angelo talks about AI, chatbot platform Poe, and why OpenAI is not a competitor](https://techcrunch.com/2024/05/06/adam-dangelo-quora-poe-open-ai/)
-- [Handle Mars with care: Guidelines needed for responsible Red Planet exploration, experts say](https://www.space.com/mars-exploration-geoconservation-alien-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
