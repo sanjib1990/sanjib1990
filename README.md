@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera’s AI assistant can now summarize web pages on Android](https://techcrunch.com/2024/05/06/operas-ai-assistant-can-now-summarize-web-pages-on-android/)
+- [1st woman to command a US spacecraft Eileen Collins &#39;signs&#39; patch to inspire girls](https://www.space.com/astronaut-eileen-collins-signature-edition-patch)
 - [TechCrunch Minute: Newchip, Techstars, and what happens when startup accelerators fail](https://techcrunch.com/2024/05/06/techcrunch-minute-newchip-techstars-and-what-happens-when-startup-accelerators-fail/)
 - [Boeing Starliner brings astronaut launches back to Atlas rocket and Cape Canaveral](https://www.space.com/boeing-starliner-cft-returns-human-spaceflight-atlas-cape)
 - [Police resurrect Lockbit’s site and troll the ransomware gang](https://techcrunch.com/2024/05/06/police-resurrect-lockbits-site-and-troll-the-ransomware-gang/)
-- [How to choose a deep tech startup program](https://techcrunch.com/2024/05/06/how-to-choose-a-deep-tech-startup-program/)
-- [Dorsey leaves Bluesky, tech giants do more with less, and the next IPO](https://techcrunch.com/2024/05/06/dorsey-leaves-bluesky-tech-giants-do-more-with-less-and-the-next-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
