@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel leads $4M investment in Egyptian corporate cards platform Swypex](https://techcrunch.com/2024/05/07/accel-leads-4m-investment-in-egyptian-corporate-cards-platform-swypex/)
+- [India urges political parties to avoid using deepfakes in election campaigns](https://techcrunch.com/2024/05/07/india-elections-deepfakes/)
 - [Electricity Maps calculates the carbon intensity of electricity consumption to optimize usage at scale](https://techcrunch.com/2024/05/06/electricity-maps-calculates-the-carbon-intensity-of-electricity-consumption-to-optimize-usage-at-scale/)
 - [This year’s Met Gala theme is AI deepfakes](https://techcrunch.com/2024/05/06/met-gala-ai-deepfakes/)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [Boeing Starliner&#39;s historic 1st astronaut launch delayed by Atlas V rocket issue](https://www.space.com/boeing-starliner-1st-launch-attempt-scrub)
-- [Boeing Starliner’s first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
