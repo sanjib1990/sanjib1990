@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NYT Games launches a Wordle archive with access to more than 1,000 past puzzles](https://techcrunch.com/2024/05/07/nyt-games-wordle-archive-access-1000-past-puzzles/)
-- [Could alien life be hiding in the rings of Saturn or Jupiter?](https://www.space.com/can-alien-life-exist-planet-rings)
-- [Crypto? AI? Internet co-creator Robert Kahn already did it… decades ago](https://techcrunch.com/2024/05/07/crypto-ai-internet-co-creator-robert-kahn-already-did-it-decades-ago/)
-- [Bedrock Studio is Amazon’s attempt to simplify generative AI app development](https://techcrunch.com/2024/05/07/bedrock-studio-is-amazons-attempt-to-simplify-generative-ai-app-development/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/07/tech-layoffs-2023-list/)
+- [Meta’s AI tools for advertisers can now create full new images, not just new backgrounds](https://techcrunch.com/2024/05/07/metas-ai-tools-for-advertisers-can-now-create-new-images-not-just-new-backgrounds/)
+- [Biden signs bill to protect children from online sexual abuse and exploitation](https://techcrunch.com/2024/05/07/biden-signs-bill-to-protect-children-from-online-sexual-abuse-and-exploitation/)
+- [Bloom is reinventing how e-bikes are made in the US](https://techcrunch.com/2024/05/07/bloom-is-reinventing-how-e-bikes-are-made-in-the-us/)
+- [Apple unveils a new Magic Keyboard at iPad event](https://techcrunch.com/2024/05/07/apple-unveils-a-new-magic-keyboard/)
+- [Apple highlights AI features, including M4 neural engine, at iPad event](https://techcrunch.com/2024/05/07/apple-teased-ai-improvements-including-the-m4s-neural-engine-at-its-ipad-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
