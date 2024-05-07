@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope suggests supermassive black holes grew from heavy cosmic &#39;seeds&#39;](https://www.space.com/james-webb-space-telescope-heavy-cosmic-seeds-early-universe)
-- [India’s Oyo, once valued at $10 billion, seeks new funding at 70% discount](https://techcrunch.com/2024/05/07/india-oyo-once-valued-at-10b-seeks-new-funding-at-3b-valuation/)
-- [What we learned from the indictment of LockBit’s mastermind](https://techcrunch.com/2024/05/07/what-we-learned-from-the-indictment-of-lockbits-mastermind/)
-- [Jumia is back, growing total sales and orders in Q1 2024](https://techcrunch.com/2024/05/07/jumia-is-back-growing-total-sales-and-orders-in-q1-2024/)
-- [Inside Mercury’s competitive push into software and Ramp’s potential M&amp;A targets](https://techcrunch.com/2024/05/07/fintech-5-7-24/)
+- [NYT Games launches a Wordle archive with access to more than 1,000 past puzzles](https://techcrunch.com/2024/05/07/nyt-games-wordle-archive-access-1000-past-puzzles/)
+- [Could alien life be hiding in the rings of Saturn or Jupiter?](https://www.space.com/can-alien-life-exist-planet-rings)
+- [Crypto? AI? Internet co-creator Robert Kahn already did it… decades ago](https://techcrunch.com/2024/05/07/crypto-ai-internet-co-creator-robert-kahn-already-did-it-decades-ago/)
+- [Bedrock Studio is Amazon’s attempt to simplify generative AI app development](https://techcrunch.com/2024/05/07/bedrock-studio-is-amazons-attempt-to-simplify-generative-ai-app-development/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/07/tech-layoffs-2023-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
