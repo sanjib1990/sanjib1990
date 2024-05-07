@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This year’s Met Gala theme is AI deepfakes](https://techcrunch.com/2024/05/06/met-gala-ai-deepfakes/)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 - [Boeing Starliner team delays 1st historic astronaut launch due to rocket issue](https://www.space.com/boeing-starliner-1st-launch-attempt-scrub)
 - [Boeing Starliner’s first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
 - [&#39;Sparkly&#39; narwhal toy trades sea for space as Boeing Starliner zero-g indicator](https://www.space.com/boeing-starliner-cft-calypso-narwhal-zero-g-indicator)
-- [Wayve raises $1B to take its Tesla-like technology for self-driving to many carmakers](https://techcrunch.com/2024/05/06/wayve-raises-1-billion-led-by-softbank-to-take-self-driving-to-cars-and-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
