@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
-- [TechCrunch Minute: Audible deploys AI-narrated audiobooks. Can it replace the human touch?](https://techcrunch.com/2024/05/07/techcrunch-minute-audible-deploys-ai-narrated-audiobooks/)
-- [Google’s budget Pixel 8a delivers updated silicon, Gemini access for $499](https://techcrunch.com/2024/05/07/googles-budget-pixel-8a-delivers-update-silicon-gemini-access-for-499/)
-- [Google’s Pixel Tablet is now available without the thing that makes it interesting](https://techcrunch.com/2024/05/07/googles-pixel-tablet-is-now-available-without-the-thing-that-made-it-interesting/)
-- [The Force is strong with new &#39;Star Wars: The Acolyte&#39; trailer &lpar;video&rpar;](https://www.space.com/entertainment/new-star-wars-the-acolyte-trailer-amps-up-jedi-mysticism-and-magic)
+- [Inside Mercury’s competitive push into software and Ramp’s potential M&amp;A targets](https://techcrunch.com/2024/05/07/fintech-5-7-24/)
+- [&#39;God&#39;s Hand&#39; interstellar cloud reaches for the stars in new Dark Energy Camera image &lpar;video&rpar;](https://www.space.com/gods-hand-interstellar-cloud-dark-energy-camera-image-video)
+- [Here’s everything Apple just announced at its Let Loose event, including new iPad Pro with M4 chip, iPad Air, Apple Pencil and more](https://techcrunch.com/2024/05/07/heres-everything-just-announced-apple-ipad-event-2024/)
+- [TikTok sues the US government over law that could ban the app](https://techcrunch.com/2024/05/07/tiktok-sues-the-us-government-over-law-seeking-to-ban-app/)
+- [Threads is testing cross-posting from Instagram globally](https://techcrunch.com/2024/05/07/threads-is-testing-cross-posting-from-instagram-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
