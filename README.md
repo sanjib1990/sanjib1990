@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope suggests supermassive black holes grew from heavy cosmic &#39;seeds&#39;](https://www.space.com/james-webb-space-telescope-heavy-cosmic-seeds-early-universe)
+- [India’s Oyo, once valued at $10 billion, seeks new funding at 70% discount](https://techcrunch.com/2024/05/07/india-oyo-once-valued-at-10b-seeks-new-funding-at-3b-valuation/)
+- [What we learned from the indictment of LockBit’s mastermind](https://techcrunch.com/2024/05/07/what-we-learned-from-the-indictment-of-lockbits-mastermind/)
+- [Jumia is back, growing total sales and orders in Q1 2024](https://techcrunch.com/2024/05/07/jumia-is-back-growing-total-sales-and-orders-in-q1-2024/)
 - [Inside Mercury’s competitive push into software and Ramp’s potential M&amp;A targets](https://techcrunch.com/2024/05/07/fintech-5-7-24/)
-- [&#39;God&#39;s Hand&#39; interstellar cloud reaches for the stars in new Dark Energy Camera image &lpar;video&rpar;](https://www.space.com/gods-hand-interstellar-cloud-dark-energy-camera-image-video)
-- [Here’s everything Apple just announced at its Let Loose event, including new iPad Pro with M4 chip, iPad Air, Apple Pencil and more](https://techcrunch.com/2024/05/07/heres-everything-just-announced-apple-ipad-event-2024/)
-- [TikTok sues the US government over law that could ban the app](https://techcrunch.com/2024/05/07/tiktok-sues-the-us-government-over-law-seeking-to-ban-app/)
-- [Threads is testing cross-posting from Instagram globally](https://techcrunch.com/2024/05/07/threads-is-testing-cross-posting-from-instagram-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
