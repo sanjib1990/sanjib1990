@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon finally puts down e-commerce roots in Africa](https://techcrunch.com/2024/05/07/amazon-finally-puts-down-e-commerce-roots-in-africa/)
-- [Rocket issue pushes 1st astronaut launch of Boeing&#39;s Starliner capsule to May 10](https://www.space.com/starliner-crew-flight-test-launch-delay-may-10)
-- [Accel leads $4M investment in Egyptian corporate cards platform Swypex](https://techcrunch.com/2024/05/07/accel-leads-4m-investment-in-egyptian-corporate-cards-platform-swypex/)
-- [India urges political parties to avoid using deepfakes in election campaigns](https://techcrunch.com/2024/05/07/india-elections-deepfakes/)
-- [Electricity Maps calculates the carbon intensity of electricity consumption to optimize usage at scale](https://techcrunch.com/2024/05/06/electricity-maps-calculates-the-carbon-intensity-of-electricity-consumption-to-optimize-usage-at-scale/)
+- [Meta AI is obsessed with turbans when generating images of Indian men](https://techcrunch.com/2024/05/07/meta-ai-is-obsessed-with-turbans-when-generating-images-of-indian-men/)
+- [Daloopa trains AI to automate financial analysts’ workflows](https://techcrunch.com/2024/05/07/daloopa-trains-ai-to-automate-financial-analysts-workflows/)
+- [Should we seal DNA samples of Earth&#39;s endangered species in a moon crater?](https://www.space.com/coral-reefs-moon-climate-change)
+- [Microsoft and OpenAI launch $2M fund to counter election deepfakes](https://techcrunch.com/2024/05/07/microsoft-and-openai-launch-2m-fund-to-counter-election-deepfakes/)
+- [Honeycomb Insurance grabs $36M Series B from solo VC-led Zeev Ventures](https://techcrunch.com/2024/05/07/honeycomb-insurance-36m-series-b-from-solo-vc-zeev-ventures/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
