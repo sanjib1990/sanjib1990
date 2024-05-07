@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla is Luminar’s largest lidar customer](https://techcrunch.com/2024/05/07/tesla-is-luminars-largest-lidar-customer/)
 - [Brandywine Realty Trust says data stolen in ransomware attack](https://techcrunch.com/2024/05/07/brandywine-realty-trust-cyberattack/)
 - [Next-gen satellites will paint a clearer picture of a changing Earth](https://www.space.com/noaa-satellites-earth-observations-geoxo)
 - [Rivian loses $1.45 billion as cost-cutting measures continue](https://techcrunch.com/2024/05/07/rivian-q1-2024-earnings-results-profit/)
 - [Meta’s AI tools for advertisers can now create full new images, not just new backgrounds](https://techcrunch.com/2024/05/07/metas-ai-tools-for-advertisers-can-now-create-new-images-not-just-new-backgrounds/)
-- [Biden signs bill to protect children from online sexual abuse and exploitation](https://techcrunch.com/2024/05/07/biden-signs-bill-to-protect-children-from-online-sexual-abuse-and-exploitation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
