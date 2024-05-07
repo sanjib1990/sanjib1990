@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Motional delays commercial robotaxi plans amid restructuring](https://techcrunch.com/2024/05/07/motional-delays-commercial-robotaxi-plans-amid-restructuring/)
-- [Wiz raises $1B at a $12B valuation to expand its cloud security platform through acquisitions](https://techcrunch.com/2024/05/07/wiz-raises-1b-at-12b-valuation-expanding-through-acquisitions/)
-- [Starfish Space and D-Orbit complete orbital rendezvous, bringing Otter Pup mission to a close](https://techcrunch.com/2024/05/07/starfish-space-and-d-orbit-complete-orbital-rendezvous-bringing-otter-pup-mission-to-a-close/)
-- [Black hole collision &#39;alerts&#39; could notify astronomers within 30 seconds of detection](https://www.space.com/gravitational-wave-black-hole-collision-software)
-- [Legion’s founder aims to close the gap between what employers and workers need](https://techcrunch.com/2024/05/07/legion-taps-ai-to-match-workers-with-available-hours/)
+- [Kevin Eisenfrats is developing the ‘male IUD’](https://techcrunch.com/2024/05/07/kevin-eisenfrats-is-developing-the-male-iud/)
+- [Sperm whale ‘alphabet’ discovered, thanks to machine learning](https://techcrunch.com/2024/05/07/machine-learning-aids-in-discovery-of-sperm-whale-alphabet/)
+- [Photo editing app VSCO launches marketplace to connect photographers with brands](https://techcrunch.com/2024/05/07/vsco-launches-a-new-hub-to-connect-creators-and-brands/)
+- [See the sun&#39;s corona revealed in all its glory during 2024 total solar eclipse &lpar;photo&rpar;](https://www.space.com/solar-corona-revealed-in-2024-totality-photograph)
+- [Exclusive: Wayve co-founder Alex Kendall on the autonomous future for cars and robots](https://techcrunch.com/2024/05/07/exclusive-wayve/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
