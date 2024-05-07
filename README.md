@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wayve raises $1 billion to take its Tesla-like technology for self-driving to many carmakers](https://techcrunch.com/2024/05/06/wayve-raises-1-billion-led-by-softbank-to-take-self-driving-to-cars-and-robots/)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [&#39;Sparkly&#39; narwhal toy trades sea for space as Boeing Starliner zero-g indicator](https://www.space.com/boeing-starliner-cft-calypso-narwhal-zero-g-indicator)
+- [Wayve raises $1B to take its Tesla-like technology for self-driving to many carmakers](https://techcrunch.com/2024/05/06/wayve-raises-1-billion-led-by-softbank-to-take-self-driving-to-cars-and-robots/)
 - [The Kendrick-Drake feud shows how technology is changing rap battles](https://techcrunch.com/2024/05/06/the-kendrick-drake-feud-shows-how-technology-is-changing-rap-battles/)
 - [TechCrunch Space: Launch pad decongestion](https://techcrunch.com/2024/05/06/techcrunch-space-launch-pad-decongestion/)
-- [The Net Gala hosts its first event for the stylish and chronically online](https://techcrunch.com/2024/05/06/the-net-gala-hosts-its-first-event-for-the-stylish-and-chronically-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
