@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta AI is obsessed with turbans when generating images of Indian men](https://techcrunch.com/2024/05/07/meta-ai-is-obsessed-with-turbans-when-generating-images-of-indian-men/)
-- [Daloopa trains AI to automate financial analysts’ workflows](https://techcrunch.com/2024/05/07/daloopa-trains-ai-to-automate-financial-analysts-workflows/)
-- [Should we seal DNA samples of Earth&#39;s endangered species in a moon crater?](https://www.space.com/coral-reefs-moon-climate-change)
-- [Microsoft and OpenAI launch $2M fund to counter election deepfakes](https://techcrunch.com/2024/05/07/microsoft-and-openai-launch-2m-fund-to-counter-election-deepfakes/)
-- [Honeycomb Insurance grabs $36M Series B from solo VC-led Zeev Ventures](https://techcrunch.com/2024/05/07/honeycomb-insurance-36m-series-b-from-solo-vc-zeev-ventures/)
+- [Legion’s founder aims to close the gap between what employers and workers need](https://techcrunch.com/2024/05/07/legion-taps-ai-to-match-workers-with-available-hours/)
+- [Tubi calls on indie filmmakers and their fans to help beef up original content library](https://techcrunch.com/2024/05/07/tubi-stubios-for-aspiring-filmmakers-and-fans/)
+- [Rad AI, a startup that helps radiologists save time on report generation, raises $50M Series B from Khosla Ventures](https://techcrunch.com/2024/05/07/rad-ai-a-startup-that-helps-radiologists-save-time-on-report-generation-raises-50m-series-b-from-khosla-ventures/)
+- [Startup neobank Mercury is taking on Brex and Ramp with new bill pay, spend management software](https://techcrunch.com/2024/05/07/startup-neobank-mercury-is-taking-on-brex-and-ramp-with-new-bill-pay-spend-management-software/)
+- [New moon of May 2024 tonight welcomes the stars of summer](https://www.space.com/may-new-moon-2024-stars-of-summer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
