@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Motional delays commercial robotaxi plans amid restructuring](https://techcrunch.com/2024/05/07/motional-delays-commercial-robotaxi-plans-amid-restructuring/)
+- [Wiz raises $1B at a $12B valuation to expand its cloud security platform through acquisitions](https://techcrunch.com/2024/05/07/wiz-raises-1b-at-12b-valuation-expanding-through-acquisitions/)
+- [Starfish Space and D-Orbit complete orbital rendezvous, bringing Otter Pup mission to a close](https://techcrunch.com/2024/05/07/starfish-space-and-d-orbit-complete-orbital-rendezvous-bringing-otter-pup-mission-to-a-close/)
+- [Black hole collision &#39;alerts&#39; could notify astronomers within 30 seconds of detection](https://www.space.com/gravitational-wave-black-hole-collision-software)
 - [Legion’s founder aims to close the gap between what employers and workers need](https://techcrunch.com/2024/05/07/legion-taps-ai-to-match-workers-with-available-hours/)
-- [Tubi calls on indie filmmakers and their fans to help beef up original content library](https://techcrunch.com/2024/05/07/tubi-stubios-for-aspiring-filmmakers-and-fans/)
-- [Rad AI, a startup that helps radiologists save time on report generation, raises $50M Series B from Khosla Ventures](https://techcrunch.com/2024/05/07/rad-ai-a-startup-that-helps-radiologists-save-time-on-report-generation-raises-50m-series-b-from-khosla-ventures/)
-- [Startup neobank Mercury is taking on Brex and Ramp with new bill pay, spend management software](https://techcrunch.com/2024/05/07/startup-neobank-mercury-is-taking-on-brex-and-ramp-with-new-bill-pay-spend-management-software/)
-- [New moon of May 2024 tonight welcomes the stars of summer](https://www.space.com/may-new-moon-2024-stars-of-summer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
