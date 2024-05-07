@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon finally puts down e-commerce roots in Africa](https://techcrunch.com/2024/05/07/amazon-finally-puts-down-e-commerce-roots-in-africa/)
 - [Rocket issue pushes 1st astronaut launch of Boeing&#39;s Starliner capsule to May 10](https://www.space.com/starliner-crew-flight-test-launch-delay-may-10)
 - [Accel leads $4M investment in Egyptian corporate cards platform Swypex](https://techcrunch.com/2024/05/07/accel-leads-4m-investment-in-egyptian-corporate-cards-platform-swypex/)
 - [India urges political parties to avoid using deepfakes in election campaigns](https://techcrunch.com/2024/05/07/india-elections-deepfakes/)
 - [Electricity Maps calculates the carbon intensity of electricity consumption to optimize usage at scale](https://techcrunch.com/2024/05/06/electricity-maps-calculates-the-carbon-intensity-of-electricity-consumption-to-optimize-usage-at-scale/)
-- [This year’s Met Gala theme is AI deepfakes](https://techcrunch.com/2024/05/06/met-gala-ai-deepfakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
