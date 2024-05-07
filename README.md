@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kevin Eisenfrats is developing the ‘male IUD’](https://techcrunch.com/2024/05/07/kevin-eisenfrats-is-developing-the-male-iud/)
-- [Sperm whale ‘alphabet’ discovered, thanks to machine learning](https://techcrunch.com/2024/05/07/machine-learning-aids-in-discovery-of-sperm-whale-alphabet/)
-- [Photo editing app VSCO launches marketplace to connect photographers with brands](https://techcrunch.com/2024/05/07/vsco-launches-a-new-hub-to-connect-creators-and-brands/)
-- [See the sun&#39;s corona revealed in all its glory during 2024 total solar eclipse &lpar;photo&rpar;](https://www.space.com/solar-corona-revealed-in-2024-totality-photograph)
-- [Exclusive: Wayve co-founder Alex Kendall on the autonomous future for cars and robots](https://techcrunch.com/2024/05/07/exclusive-wayve/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [TechCrunch Minute: Audible deploys AI-narrated audiobooks. Can it replace the human touch?](https://techcrunch.com/2024/05/07/techcrunch-minute-audible-deploys-ai-narrated-audiobooks/)
+- [Google’s budget Pixel 8a delivers updated silicon, Gemini access for $499](https://techcrunch.com/2024/05/07/googles-budget-pixel-8a-delivers-update-silicon-gemini-access-for-499/)
+- [Google’s Pixel Tablet is now available without the thing that makes it interesting](https://techcrunch.com/2024/05/07/googles-pixel-tablet-is-now-available-without-the-thing-that-made-it-interesting/)
+- [The Force is strong with new &#39;Star Wars: The Acolyte&#39; trailer &lpar;video&rpar;](https://www.space.com/entertainment/new-star-wars-the-acolyte-trailer-amps-up-jedi-mysticism-and-magic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
