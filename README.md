@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brandywine Realty Trust says data stolen in ransomware attack](https://techcrunch.com/2024/05/07/brandywine-realty-trust-cyberattack/)
+- [Next-gen satellites will paint a clearer picture of a changing Earth](https://www.space.com/noaa-satellites-earth-observations-geoxo)
+- [Rivian loses $1.45 billion as cost-cutting measures continue](https://techcrunch.com/2024/05/07/rivian-q1-2024-earnings-results-profit/)
 - [Meta’s AI tools for advertisers can now create full new images, not just new backgrounds](https://techcrunch.com/2024/05/07/metas-ai-tools-for-advertisers-can-now-create-new-images-not-just-new-backgrounds/)
 - [Biden signs bill to protect children from online sexual abuse and exploitation](https://techcrunch.com/2024/05/07/biden-signs-bill-to-protect-children-from-online-sexual-abuse-and-exploitation/)
-- [Bloom is reinventing how e-bikes are made in the US](https://techcrunch.com/2024/05/07/bloom-is-reinventing-how-e-bikes-are-made-in-the-us/)
-- [Apple unveils a new Magic Keyboard at iPad event](https://techcrunch.com/2024/05/07/apple-unveils-a-new-magic-keyboard/)
-- [Apple highlights AI features, including M4 neural engine, at iPad event](https://techcrunch.com/2024/05/07/apple-teased-ai-improvements-including-the-m4s-neural-engine-at-its-ipad-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
