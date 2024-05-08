@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s TESS spacecraft resumes exoplanet hunt after recovering from glitch](https://www.space.com/nasa-tess-exoplanet-hunter-back-to-science)
+- [Google brings a variation on ‘Circle to Search’ to iPhone users](https://techcrunch.com/2024/05/08/google-brings-a-variation-on-circle-to-search-to-iphone-users/)
+- [Always-on video portal lets people in NYC and Dublin interact in real time](https://techcrunch.com/2024/05/08/always-on-video-portal-lets-people-in-nyc-and-dublin-interact-in-real-time/)
 - [Axiom Space eyes the moon while continuing to dream big in Earth orbit](https://www.space.com/axiom-space-iss-artemis-spacesuit-moon-rover)
 - [TechCrunch Minute: When did iPads get as expensive as MacBooks?](https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/)
-- [Bye-bye bots: Altera’s game-playing AI agents get backing from Eric Schmidt](https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/)
-- [$450M for Noname, two billion-dollar rounds, and good news for crypto startups](https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/)
-- [Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app](https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
