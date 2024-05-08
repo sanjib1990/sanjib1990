@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A failed star and an ammonia trail could reveal how some giant exoplanets form](https://www.space.com/james-webb-space-telescope-ammonia-molecules-planetary-formation)
 - [World&#39;s largest visible light telescope spies a galaxy cluster warping spacetime](https://www.space.com/vst-images-galactic-history-galaxy-clusters)
 - [OpenAI offers a peek behind the curtain of its AI’s secret instructions](https://techcrunch.com/2024/05/08/openai-offers-a-peek-behind-the-curtain-of-its-ais-secret-instructions/)
 - [US Patent and Trademark Office confirms another leak of filers’ address data](https://techcrunch.com/2024/05/08/us-patent-and-trademark-office-confirms-another-leak-of-filers-address-data/)
 - [Encrypted services Apple, Proton and Wire helped Spanish police identify activist](https://techcrunch.com/2024/05/08/encrypted-services-apple-proton-and-wire-helped-spanish-police-identify-activist/)
-- [SpaceX launching 20 satellites from California tonight on 2nd leg of Starlink doubleheader](https://www.space.com/spacex-starlink-launch-group-8-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
