@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Wars makes Darth Jar Jar official in &#39;Lego Star Wars: Rebuild the Galaxy&#39; mini-series &lpar;video&rpar;](https://www.space.com/star-wars-makes-darth-jar-jar-official-in-lego-star-wars-rebuild-the-galaxy-mini-series)
-- [Gratitude Plus makes social networking positive, private and personal](https://techcrunch.com/2024/05/08/gratitude-plus-makes-social-networking-positive-private-and-personal/)
-- [Can AI help founders fundraise more quickly and easily?](https://techcrunch.com/2024/05/08/can-ai-help-founders-fundraise-more-quickly-and-easily/)
-- [NASA&#39;s TESS spacecraft resumes exoplanet hunt after recovering from glitch](https://www.space.com/nasa-tess-exoplanet-hunter-back-to-science)
-- [Google brings a variation on ‘Circle to Search’ to iPhone users](https://techcrunch.com/2024/05/08/google-brings-a-variation-on-circle-to-search-to-iphone-users/)
+- [World&#39;s largest visible light telescope spies a galaxy cluster warping spacetime](https://www.space.com/vst-images-galactic-history-galaxy-clusters)
+- [OpenAI offers a peek behind the curtain of its AI’s secret instructions](https://techcrunch.com/2024/05/08/openai-offers-a-peek-behind-the-curtain-of-its-ais-secret-instructions/)
+- [US Patent and Trademark Office confirms another leak of filers’ address data](https://techcrunch.com/2024/05/08/us-patent-and-trademark-office-confirms-another-leak-of-filers-address-data/)
+- [Encrypted services Apple, Proton and Wire helped Spanish police identify activist](https://techcrunch.com/2024/05/08/encrypted-services-apple-proton-and-wire-helped-spanish-police-identify-activist/)
+- [SpaceX launching 20 satellites from California tonight on 2nd leg of Starlink doubleheader](https://www.space.com/spacex-starlink-launch-group-8-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
