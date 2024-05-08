@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1st astronaut launch of Boeing&#39;s Starliner delayed to May 17 to replace &#39;buzzing&#39; rocket valve](https://www.space.com/starliner-first-astronaut-launch-delay-may-17-replace-valve)
+- [FTX crypto fraud victims to get their money back — plus interest](https://techcrunch.com/2024/05/08/ftx-crypto-fraud-victims-to-get-their-money-back-plus-interest/)
 - [Google Wallet is now available in India](https://techcrunch.com/2024/05/08/google-wallet-india/)
 - [Bluesky to add DMs, video support and in-app custom feed curation](https://techcrunch.com/2024/05/08/bluesky-to-add-dms-video-support-and-in-app-custom-feed-curation/)
 - [Samsung Medison to acquire French AI ultrasound startup Sonio for $92.7M](https://techcrunch.com/2024/05/07/samsung-medison-to-aqcuire-french-ai-ultrasound-startup-sonio-for-92-7m/)
-- [NBA champion Kyle Kuzma looks to bring his team mentality to Scrum Ventures](https://techcrunch.com/2024/05/07/nba-champion-kyle-kuzma-looks-to-bring-his-team-mentality-to-scrum-ventures/)
-- [Ofcom to push for better age verification, filters and 40 other checks in new online child safety code](https://techcrunch.com/2024/05/07/ofcom-draft-childrens-safety-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
