@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space eyes the moon while continuing to dream big in Earth orbit](https://www.space.com/axiom-space-iss-artemis-spacesuit-moon-rover)
+- [TechCrunch Minute: When did iPads get as expensive as MacBooks?](https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/)
+- [Bye-bye bots: Altera’s game-playing AI agents get backing from Eric Schmidt](https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/)
 - [$450M for Noname, two billion-dollar rounds, and good news for crypto startups](https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/)
 - [Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app](https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/)
-- [This diamond exoplanet lost its atmosphere — then it grew another](https://www.space.com/james-webb-space-telescope-diamond-super-earth-exoplanet-atmosphere)
-- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Uber promises member exclusives as Uber One passes $1B run-rate](https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
