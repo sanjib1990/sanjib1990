@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NBA champion Kyle Kuzma looks to bring his team mentality to Scrum Ventures](https://techcrunch.com/2024/05/07/nba-champion-kyle-kuzma-looks-to-bring-his-team-mentality-to-scrum-ventures/)
 - [After a $20M Series A funding, Germany’s Insempra plans eco-friendly lipid production](https://techcrunch.com/2024/05/07/after-a-20m-series-a-funding-germanys-insempra-plans-eco-friendly-lipid-production/)
 - [Tesla is Luminar’s largest lidar customer](https://techcrunch.com/2024/05/07/tesla-is-luminars-largest-lidar-customer/)
 - [Brandywine Realty Trust says data stolen in ransomware attack](https://techcrunch.com/2024/05/07/brandywine-realty-trust-cyberattack/)
 - [Next-gen satellites will paint a clearer picture of a changing Earth](https://www.space.com/noaa-satellites-earth-observations-geoxo)
-- [Rivian loses $1.45 billion as cost-cutting measures continue](https://techcrunch.com/2024/05/07/rivian-q1-2024-earnings-results-profit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
