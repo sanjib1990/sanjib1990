@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Chang&#39;e 6 mission to moon&#39;s far side enters lunar orbit](https://www.space.com/china-change-6-moon-sample-return-mission-enters-lunar-orbit)
 - [Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits](https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/)
 - [Controversial drone company Xtend leans into defense with new $40M round](https://techcrunch.com/2024/05/08/controversial-drone-company-xtend-leans-into-defense/)
 - [Mycocycle uses mushrooms to upcycle old tires and construction waste](https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/)
 - [Private lunar lander to carry &#39;memory disk&#39; of 275 human languages to the moon in 2024](https://www.space.com/moon-lander-ispace-hakuto-r-memory-disk-human-languages-unesco)
-- [UK challenger bank Monzo nabs another $190M as US expansion beckons](https://techcrunch.com/2024/05/08/uk-challenger-bank-monzo-nabs-another-190m-at-5-2b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
