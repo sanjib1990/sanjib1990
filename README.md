@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky to add DMs, video support and in-app custom feed curation](https://techcrunch.com/2024/05/08/bluesky-to-add-dms-video-support-and-in-app-custom-feed-curation/)
 - [Samsung Medison to acquire French AI ultrasound startup Sonio for $92.7M](https://techcrunch.com/2024/05/07/samsung-medison-to-aqcuire-french-ai-ultrasound-startup-sonio-for-92-7m/)
 - [NBA champion Kyle Kuzma looks to bring his team mentality to Scrum Ventures](https://techcrunch.com/2024/05/07/nba-champion-kyle-kuzma-looks-to-bring-his-team-mentality-to-scrum-ventures/)
 - [Ofcom to push for better age verification, filters and 40 other checks in new online child safety code](https://techcrunch.com/2024/05/07/ofcom-draft-childrens-safety-code/)
 - [After a $20M Series A funding, Germany’s Insempra plans eco-friendly lipid production](https://techcrunch.com/2024/05/07/after-a-20m-series-a-funding-germanys-insempra-plans-eco-friendly-lipid-production/)
-- [Tesla is Luminar’s largest lidar customer](https://techcrunch.com/2024/05/07/tesla-is-luminars-largest-lidar-customer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
