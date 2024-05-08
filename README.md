@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Xona Space Systems closes $19M Series A to build out ultra-accurate GPS alternative](https://techcrunch.com/2024/05/08/xona-space-systems-closes-19m-series-a-to-build-out-ultra-accurate-gps-alternative/)
-- [1st astronaut launch of Boeing&#39;s Starliner delayed to May 17 to replace &#39;buzzing&#39; rocket valve](https://www.space.com/starliner-first-astronaut-launch-delay-may-17-replace-valve)
-- [FTX crypto fraud victims to get their money back — plus interest](https://techcrunch.com/2024/05/08/ftx-crypto-fraud-victims-to-get-their-money-back-plus-interest/)
-- [Google Wallet is now available in India](https://techcrunch.com/2024/05/08/google-wallet-india/)
-- [Bluesky to add DMs, video support and in-app custom feed curation](https://techcrunch.com/2024/05/08/bluesky-to-add-dms-video-support-and-in-app-custom-feed-curation/)
+- [Reddit tests automatic, whole-site translation into French using LLM-based AI](https://techcrunch.com/2024/05/08/reddit-tests-automatic-whole-site-translation-into-french-using-llm-based-ai/)
+- [Meati Foods bites into another $100M amid growth to 7,000 retail locations](https://techcrunch.com/2024/05/08/meati-foods-100m-mushroom-foodtech/)
+- [Lucid Bots secures $9M for drones to clean more than your windows](https://techcrunch.com/2024/05/08/lucid-bots-9m-drones-clean-windows/)
+- [SpaceX launching 23 satellites from Florida today on 1st leg of Starlink doubleheader](https://www.space.com/spacex-starlink-launch-group-6-56)
+- [Israeli startup Panax raises a $10M Series A for its AI-driven cash flow management platform](https://techcrunch.com/2024/05/08/israeli-startup-panax-raises-a-10-million-series-a-for-its-ai-driven-cash-flow-management-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
