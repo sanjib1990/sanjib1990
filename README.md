@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The ARM chip race is getting wild… Apple M4 unveiled](https://www.youtube.com/watch?v=TsKHjFeonRE)
 - [The Lumpy Universe with Prof. David Kaiser](https://www.youtube.com/watch?v=asINud1eAx4)
 - [10 regrets of experienced programmers](https://www.youtube.com/watch?v=ehTIhQpj9ys)
 - [host ALL your AI locally](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)
 - [How Branch Prediction Works in CPUs - Computerphile](https://www.youtube.com/watch?v=nczJ58WvtYo)
-- [GitHub Copilot just got promoted to Captain](https://www.youtube.com/watch?v=S_RorY_FRvo)
 <!-- YOUTUBE:END -->
 
 ---
