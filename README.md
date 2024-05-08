@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [China&#39;s Chang&#39;e 6 mission to moon&#39;s far side enters lunar orbit](https://www.space.com/china-change-6-moon-sample-return-mission-enters-lunar-orbit)
-- [Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits](https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/)
-- [Controversial drone company Xtend leans into defense with new $40M round](https://techcrunch.com/2024/05/08/controversial-drone-company-xtend-leans-into-defense/)
-- [Mycocycle uses mushrooms to upcycle old tires and construction waste](https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/)
-- [Private lunar lander to carry &#39;memory disk&#39; of 275 human languages to the moon in 2024](https://www.space.com/moon-lander-ispace-hakuto-r-memory-disk-human-languages-unesco)
+- [$450M for Noname, two billion-dollar rounds, and good news for crypto startups](https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/)
+- [Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app](https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/)
+- [This diamond exoplanet lost its atmosphere — then it grew another](https://www.space.com/james-webb-space-telescope-diamond-super-earth-exoplanet-atmosphere)
+- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
+- [Uber promises member exclusives as Uber One passes $1B run-rate](https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
