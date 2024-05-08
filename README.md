@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit tests automatic, whole-site translation into French using LLM-based AI](https://techcrunch.com/2024/05/08/reddit-tests-automatic-whole-site-translation-into-french-using-llm-based-ai/)
-- [Meati Foods bites into another $100M amid growth to 7,000 retail locations](https://techcrunch.com/2024/05/08/meati-foods-100m-mushroom-foodtech/)
-- [Lucid Bots secures $9M for drones to clean more than your windows](https://techcrunch.com/2024/05/08/lucid-bots-9m-drones-clean-windows/)
-- [SpaceX launching 23 satellites from Florida today on 1st leg of Starlink doubleheader](https://www.space.com/spacex-starlink-launch-group-6-56)
-- [Israeli startup Panax raises a $10M Series A for its AI-driven cash flow management platform](https://techcrunch.com/2024/05/08/israeli-startup-panax-raises-a-10-million-series-a-for-its-ai-driven-cash-flow-management-platform/)
+- [Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits](https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/)
+- [Controversial drone company Xtend leans into defense with new $40M round](https://techcrunch.com/2024/05/08/controversial-drone-company-xtend-leans-into-defense/)
+- [Mycocycle uses mushrooms to upcycle old tires and construction waste](https://techcrunch.com/2024/05/08/mycocycle-uses-mushrooms-to-upcycle-old-tires-and-construction-waste/)
+- [Private lunar lander to carry &#39;memory disk&#39; of 275 human languages to the moon in 2024](https://www.space.com/moon-lander-ispace-hakuto-r-memory-disk-human-languages-unesco)
+- [UK challenger bank Monzo nabs another $190M as US expansion beckons](https://techcrunch.com/2024/05/08/uk-challenger-bank-monzo-nabs-another-190m-at-5-2b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
