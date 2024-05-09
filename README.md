@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sierra Space&#39;s 1st Dream Chaser space plane aces key tests. Next stop: Florida launch site.](https://www.space.com/dream-chaser-space-plane-ready-ship-florida-photos)
 - [NASA&#39;s Nancy Grace Roman Telescope will hunt for tiny black holes left over from the Big Bang](https://www.space.com/nancy-grace-roman-primordial-black-hole-detection)
 - [&#39;Star Wars: Tales of the Empire&#39; review: A gorgeous but ultimately uneven set of stories](https://www.space.com/star-wars-tales-of-the-empire-review)
 - [WhatsApp’s latest update streamlines navigation and adds a ‘darker dark mode’](https://techcrunch.com/2024/05/09/whatsapp-streamlining-navigation-darker-dark-mode/)
 - [Plinky is an app for you to collect and organize links easily](https://techcrunch.com/2024/05/09/plinky-is-an-app-for-you-to-collect-links/)
-- [Google I/O 2024: How to watch](https://techcrunch.com/2024/05/09/google-i-o-2024-how-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
