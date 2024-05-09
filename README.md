@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok will automatically label AI-generated content created on platforms like DALL·E 3](https://techcrunch.com/2024/05/09/tiktok-automatically-label-ai-generated-content-created-other-platforms/)
+- [SpaceX fires up Starship rocket for upcoming 5th test flight &lpar;photos, video&rpar;](https://www.space.com/spacex-starship-static-fire-flight-five)
+- [Ruko Veeniix V11 drone review](https://www.space.com/ruko-veenix-v11-drone-review)
 - [India weighs delaying caps on UPI market share in win for PhonePe, Google Pay](https://techcrunch.com/2024/05/09/india-weighs-delaying-caps-on-upi-market-share-in-win-for-phonepe-google-pay/)
 - [Blinded by the light: How bad are satellite megaconstellations for astronomy?](https://www.space.com/satellite-megaconstellations-spacex-starlink-interference-astronomy)
-- [Thai food delivery app Line Man Wongnai weighs IPO in Thailand, US in 2025](https://techcrunch.com/2024/05/08/thai-food-delivery-app-line-man-wongnai-weighs-ipo-in-thailand-us-in-2025/)
-- [Boeing&#39;s Starliner rolled off launch pad to replace &#39;buzzing&#39; rocket valve &lpar;photo&rpar;](https://www.space.com/starliner-rolled-off-launch-pad-replace-rocket-valve)
-- [Apple’s ‘Crush’ ad is disgusting](https://techcrunch.com/2024/05/08/apples-crush-ad-is-disgusting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
