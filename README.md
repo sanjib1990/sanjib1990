@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dell discloses data breach of customers’ physical addresses](https://techcrunch.com/2024/05/09/dell-discloses-data-breach-of-customers-physical-addresses/)
-- [Fairgen ‘boosts’ survey results using synthetic data and AI-generated responses](https://techcrunch.com/2024/05/09/fairgen-boosts-survey-results-using-synthetic-data-and-ai-generated-responses/)
-- [Rowing startup Hydrow acquires a majority stake in Speede Fitness as their CEO steps down](https://techcrunch.com/2024/05/09/rowing-company-hydrow-majority-stake-speede-fitness-ceo-steps-down/)
-- [China launches 4 satellites on 1st flight of new Long March 6C rocket &lpar;video&rpar;](https://www.space.com/china-launches-long-march-6c-rocket-first-flight)
-- [&#39;Star Trek: Discovery&#39; season 5 episode 7 &#39;Eirgah&#39; is the best yet of this final season](https://www.space.com/star-trek-discovery-season-5-episode-7-review)
+- [Sources: Mistral AI raising at a $6B valuation, SoftBank ‘not in’ but DST is](https://techcrunch.com/2024/05/09/sources-mistral-ai-raising-at-a-6b-valuation-softbank-not-in-but-dst-is/)
+- [Google I/O 2024: What to expect](https://techcrunch.com/2024/05/09/google-i-o-2024-what-to-expect/)
+- [Bumble says it’s looking to M&amp;A to drive growth](https://techcrunch.com/2024/05/09/bumble-says-its-looking-to-ma-to-drive-growth/)
+- [Historic space-baked cookie lands in the Smithsonian](https://www.space.com/hilton-doubletree-cookie-first-baked-space-smithsonian)
+- [Blackboard founder transforms Zoom add-on designed for teachers into business tool](https://techcrunch.com/2024/05/09/blackboard-founder-transforms-zoom-add-on-designed-for-teachers-into-business-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
