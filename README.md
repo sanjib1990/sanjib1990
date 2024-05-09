@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 large incoming solar bursts could supercharge the auroras this weekend](https://www.space.com/solar-storm-coronal-mass-ejections-mothers-day-weekend-storm-watch)
 - [Infighting among fintech players has caused TabaPay to ‘pull out’ from buying bankrupt Synapse](https://techcrunch.com/2024/05/09/tabapay-ends-plans-synapse-mercury-evolve/)
 - [Apple’s ‘Crush’ ad is disgusting](https://techcrunch.com/2024/05/09/apples-crush-ad-is-disgusting/)
 - [Google built some of the first social apps for Android, including Twitter and others](https://techcrunch.com/2024/05/09/google-built-some-of-the-first-social-apps-for-android-including-twitter-and-others/)
 - [Sierra Space&#39;s 1st Dream Chaser space plane aces key tests. Next stop: Florida launch site.](https://www.space.com/dream-chaser-space-plane-ready-ship-florida-photos)
-- [NASA&#39;s Nancy Grace Roman Telescope will hunt for tiny black holes left over from the Big Bang](https://www.space.com/nancy-grace-roman-primordial-black-hole-detection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
