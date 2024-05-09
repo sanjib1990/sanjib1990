@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India weighs delaying caps on UPI market share in win for PhonePe, Google Pay](https://techcrunch.com/2024/05/09/india-weighs-delaying-caps-on-upi-market-share-in-win-for-phonepe-google-pay/)
 - [Blinded by the light: How bad are satellite megaconstellations for astronomy?](https://www.space.com/satellite-megaconstellations-spacex-starlink-interference-astronomy)
 - [Thai food delivery app Line Man Wongnai weighs IPO in Thailand, US in 2025](https://techcrunch.com/2024/05/08/thai-food-delivery-app-line-man-wongnai-weighs-ipo-in-thailand-us-in-2025/)
 - [Boeing&#39;s Starliner rolled off launch pad to replace &#39;buzzing&#39; rocket valve &lpar;photo&rpar;](https://www.space.com/starliner-rolled-off-launch-pad-replace-rocket-valve)
 - [Apple’s ‘Crush’ ad is disgusting](https://techcrunch.com/2024/05/08/apples-crush-ad-is-disgusting/)
-- [A failed star and an ammonia trail could reveal how some giant exoplanets form](https://www.space.com/james-webb-space-telescope-ammonia-molecules-planetary-formation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
