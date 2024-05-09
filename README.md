@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI chip startup DEEPX secures $80M Series C at a $529M valuation](https://techcrunch.com/2024/05/09/ai-chip-startup-deepx-secures-80-5m-series-c-at-a-529m-valuation/)
 - [4 large incoming solar bursts could supercharge the auroras this weekend](https://www.space.com/solar-storm-coronal-mass-ejections-mothers-day-weekend-storm-watch)
 - [Infighting among fintech players has caused TabaPay to ‘pull out’ from buying bankrupt Synapse](https://techcrunch.com/2024/05/09/tabapay-ends-plans-synapse-mercury-evolve/)
 - [Apple’s ‘Crush’ ad is disgusting](https://techcrunch.com/2024/05/09/apples-crush-ad-is-disgusting/)
 - [Google built some of the first social apps for Android, including Twitter and others](https://techcrunch.com/2024/05/09/google-built-some-of-the-first-social-apps-for-android-including-twitter-and-others/)
-- [Sierra Space&#39;s 1st Dream Chaser space plane aces key tests. Next stop: Florida launch site.](https://www.space.com/dream-chaser-space-plane-ready-ship-florida-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
