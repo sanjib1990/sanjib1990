@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope chief scientist Jane Rigby receives highest US civilian award](https://www.space.com/white-house-medal-of-freedom-james-webb-space-telescope)
+- [Gargantuan sunspot 15-Earths wide erupts with another colossal X-class solar flare &lpar;video&rpar;](https://www.space.com/carrington-rival-sunspot-ar3664-x-flare-eruption-video)
 - [Sources: Mistral AI raising at a $6B valuation, SoftBank ‘not in’ but DST is](https://techcrunch.com/2024/05/09/sources-mistral-ai-raising-at-a-6b-valuation-softbank-not-in-but-dst-is/)
 - [Google I/O 2024: What to expect](https://techcrunch.com/2024/05/09/google-i-o-2024-what-to-expect/)
 - [Bumble says it’s looking to M&amp;A to drive growth](https://techcrunch.com/2024/05/09/bumble-says-its-looking-to-ma-to-drive-growth/)
-- [Historic space-baked cookie lands in the Smithsonian](https://www.space.com/hilton-doubletree-cookie-first-baked-space-smithsonian)
-- [Blackboard founder transforms Zoom add-on designed for teachers into business tool](https://techcrunch.com/2024/05/09/blackboard-founder-transforms-zoom-add-on-designed-for-teachers-into-business-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
