@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [White dwarfs are &#39;heavy metal&#39; zombie stars endlessly cannibalizing their dead planetary systems](https://www.space.com/white-dwarf-stars-cannibalize-dead-planetary-systems)
 - [TikTok will automatically label AI-generated content created on platforms like DALL·E 3](https://techcrunch.com/2024/05/09/tiktok-automatically-label-ai-generated-content-created-other-platforms/)
 - [SpaceX fires up Starship rocket for upcoming 5th test flight &lpar;photos, video&rpar;](https://www.space.com/spacex-starship-static-fire-flight-five)
 - [Ruko Veeniix V11 drone review](https://www.space.com/ruko-veenix-v11-drone-review)
 - [India weighs delaying caps on UPI market share in win for PhonePe, Google Pay](https://techcrunch.com/2024/05/09/india-weighs-delaying-caps-on-upi-market-share-in-win-for-phonepe-google-pay/)
-- [Blinded by the light: How bad are satellite megaconstellations for astronomy?](https://www.space.com/satellite-megaconstellations-spacex-starlink-interference-astronomy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
