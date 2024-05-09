@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Major lunar standstill&#39; may reveal if Stonehenge is aligned with the moon](https://www.space.com/moon-lunar-standstill-stonehenge-alignment)
-- [&#39;I don&#39;t see any evidence of aliens.&#39; SpaceX&#39;s Elon Musk says Starlink satellites have never dodged UFOs](https://www.space.com/elon-musk-ufos-aliens-no-evidence-starlink)
-- [Retell AI lets companies build ‘voice agents’ to answer phone calls](https://techcrunch.com/2024/05/09/retell-ai-lets-companies-build-agents-to-answer-their-calls/)
-- [White dwarfs are &#39;heavy metal&#39; zombie stars endlessly cannibalizing their dead planetary systems](https://www.space.com/white-dwarf-stars-cannibalize-dead-planetary-systems)
-- [TikTok will automatically label AI-generated content created on platforms like DALL·E 3](https://techcrunch.com/2024/05/09/tiktok-automatically-label-ai-generated-content-created-other-platforms/)
+- [Dell discloses data breach of customers’ physical addresses](https://techcrunch.com/2024/05/09/dell-discloses-data-breach-of-customers-physical-addresses/)
+- [Fairgen ‘boosts’ survey results using synthetic data and AI-generated responses](https://techcrunch.com/2024/05/09/fairgen-boosts-survey-results-using-synthetic-data-and-ai-generated-responses/)
+- [Rowing startup Hydrow acquires a majority stake in Speede Fitness as their CEO steps down](https://techcrunch.com/2024/05/09/rowing-company-hydrow-majority-stake-speede-fitness-ceo-steps-down/)
+- [China launches 4 satellites on 1st flight of new Long March 6C rocket &lpar;video&rpar;](https://www.space.com/china-launches-long-march-6c-rocket-first-flight)
+- [&#39;Star Trek: Discovery&#39; season 5 episode 7 &#39;Eirgah&#39; is the best yet of this final season](https://www.space.com/star-trek-discovery-season-5-episode-7-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
