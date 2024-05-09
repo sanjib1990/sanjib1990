@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Major lunar standstill&#39; may reveal if Stonehenge is aligned with the moon](https://www.space.com/moon-lunar-standstill-stonehenge-alignment)
+- [&#39;I don&#39;t see any evidence of aliens.&#39; SpaceX&#39;s Elon Musk says Starlink satellites have never dodged UFOs](https://www.space.com/elon-musk-ufos-aliens-no-evidence-starlink)
+- [Retell AI lets companies build ‘voice agents’ to answer phone calls](https://techcrunch.com/2024/05/09/retell-ai-lets-companies-build-agents-to-answer-their-calls/)
 - [White dwarfs are &#39;heavy metal&#39; zombie stars endlessly cannibalizing their dead planetary systems](https://www.space.com/white-dwarf-stars-cannibalize-dead-planetary-systems)
 - [TikTok will automatically label AI-generated content created on platforms like DALL·E 3](https://techcrunch.com/2024/05/09/tiktok-automatically-label-ai-generated-content-created-other-platforms/)
-- [SpaceX fires up Starship rocket for upcoming 5th test flight &lpar;photos, video&rpar;](https://www.space.com/spacex-starship-static-fire-flight-five)
-- [Ruko Veeniix V11 drone review](https://www.space.com/ruko-veenix-v11-drone-review)
-- [India weighs delaying caps on UPI market share in win for PhonePe, Google Pay](https://techcrunch.com/2024/05/09/india-weighs-delaying-caps-on-upi-market-share-in-win-for-phonepe-google-pay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
