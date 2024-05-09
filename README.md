@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope chief scientist Jane Rigby receives highest US civilian award](https://www.space.com/white-house-medal-of-freedom-james-webb-space-telescope)
-- [Gargantuan sunspot 15-Earths wide erupts with another colossal X-class solar flare &lpar;video&rpar;](https://www.space.com/carrington-rival-sunspot-ar3664-x-flare-eruption-video)
-- [Sources: Mistral AI raising at a $6B valuation, SoftBank ‘not in’ but DST is](https://techcrunch.com/2024/05/09/sources-mistral-ai-raising-at-a-6b-valuation-softbank-not-in-but-dst-is/)
-- [Google I/O 2024: What to expect](https://techcrunch.com/2024/05/09/google-i-o-2024-what-to-expect/)
-- [Bumble says it’s looking to M&amp;A to drive growth](https://techcrunch.com/2024/05/09/bumble-says-its-looking-to-ma-to-drive-growth/)
+- [NASA&#39;s Nancy Grace Roman Telescope will hunt for tiny black holes left over from the Big Bang](https://www.space.com/nancy-grace-roman-primordial-black-hole-detection)
+- [&#39;Star Wars: Tales of the Empire&#39; review: A gorgeous but ultimately uneven set of stories](https://www.space.com/star-wars-tales-of-the-empire-review)
+- [WhatsApp’s latest update streamlines navigation and adds a ‘darker dark mode’](https://techcrunch.com/2024/05/09/whatsapp-streamlining-navigation-darker-dark-mode/)
+- [Plinky is an app for you to collect and organize links easily](https://techcrunch.com/2024/05/09/plinky-is-an-app-for-you-to-collect-links/)
+- [Google I/O 2024: How to watch](https://techcrunch.com/2024/05/09/google-i-o-2024-how-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
