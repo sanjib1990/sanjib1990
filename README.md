@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists use XRISM spacecraft to predict fate of matter around monster supermassive black hole](https://www.space.com/xrism-supermassive-black-hole-matter-fate-study)
+- [CoreWeave, a $19B AI compute provider, opens European HQ in London with plans for 2 UK data centers](https://techcrunch.com/2024/05/10/coreweave-a-19b-ai-compute-provider-opens-european-hq-in-london-with-plans-for-2-uk-data-centers/)
 - [China&#39;s Chang&#39;e 6 probe to the moon&#39;s far side has a big lunar mystery to solve](https://www.space.com/china-chang-e-6-lunar-probe-moon-far-side-mystery)
 - [AI chip startup DEEPX secures $80M Series C at a $529M valuation](https://techcrunch.com/2024/05/09/ai-chip-startup-deepx-secures-80-5m-series-c-at-a-529m-valuation/)
 - [4 large incoming solar bursts could supercharge the auroras this weekend](https://www.space.com/solar-storm-coronal-mass-ejections-mothers-day-weekend-storm-watch)
-- [Infighting among fintech players has caused TabaPay to ‘pull out’ from buying bankrupt Synapse](https://techcrunch.com/2024/05/09/tabapay-ends-plans-synapse-mercury-evolve/)
-- [Apple’s ‘Crush’ ad is disgusting](https://techcrunch.com/2024/05/09/apples-crush-ad-is-disgusting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
