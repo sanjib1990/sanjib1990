@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threat actor says he scraped 49M Dell customer addresses before the company found out](https://techcrunch.com/2024/05/10/threat-actor-scraped-49m-dell-customer-addresses-before-the-company-found-out/)
+- [Science and music festival Starmus VII is about to rock Bratislava with a stellar lineup](https://www.space.com/starmus-music-science-festival-2024-preview)
+- [Bluesky now lets you personalize its main Discover feed using new controls](https://techcrunch.com/2024/05/10/bluesky-now-lets-you-personalize-its-main-discover-feed-using-new-controls/)
 - [Lego Star Wars Tantive IV review](https://www.space.com/lego-star-wars-tantive-iv-75376-review)
 - [Microsoft is launching its mobile game store in July](https://techcrunch.com/2024/05/10/microsoft-is-launching-its-mobile-game-store-in-july/)
-- [Oura launches two new heart health features](https://techcrunch.com/2024/05/10/oura-new-heart-health-features/)
-- [Behemoth sunspot AR3664 unleashes its biggest solar flare yet, sparking radio blackouts on Earth &lpar;video&rpar;](https://www.space.com/powerful-solar-flare-x-class-eruption-from-giant-sunspot-ar3664-may-10-video)
-- [This Week in AI: OpenAI considers allowing AI porn](https://techcrunch.com/2024/05/10/this-week-in-ai-openai-considers-allowing-ai-porn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
