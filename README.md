@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;God of Destruction&#39; asteroid Apophis will come to Earth in 2029 — and it could meet some tiny spacecraft](https://www.space.com/asteroid-apophis-satellite-spacecraft-mission-2029)
 - [Asteroid that exploded over Berlin was fastest-spinning space rock ever recorded](https://www.space.com/explosion-over-berlin-fastest-spinning-asteroid-recorded)
 - [FAA to conduct new environmental review for SpaceX&#39;s Starship operations in Florida](https://www.space.com/faa-environmental-impact-statement-spacex-starship-ksc)
 - [Threat actor says he scraped 49M Dell customer addresses before the company found out](https://techcrunch.com/2024/05/10/threat-actor-scraped-49m-dell-customer-addresses-before-the-company-found-out/)
 - [Science and music festival Starmus VII is about to rock Bratislava with a stellar lineup](https://www.space.com/starmus-music-science-festival-2024-preview)
-- [Bluesky now lets you personalize main Discover feed using new controls](https://techcrunch.com/2024/05/10/bluesky-now-lets-you-personalize-its-main-discover-feed-using-new-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
