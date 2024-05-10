@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Star Wars Tantive IV review](https://www.space.com/lego-star-wars-tantive-iv-75376-review)
+- [Microsoft is launching its mobile game store in July](https://techcrunch.com/2024/05/10/microsoft-is-launching-its-mobile-game-store-in-july/)
 - [Oura launches two new heart health features](https://techcrunch.com/2024/05/10/oura-new-heart-health-features/)
 - [Behemoth sunspot AR3664 unleashes its biggest solar flare yet, sparking radio blackouts on Earth &lpar;video&rpar;](https://www.space.com/powerful-solar-flare-x-class-eruption-from-giant-sunspot-ar3664-may-10-video)
 - [This Week in AI: OpenAI considers allowing AI porn](https://techcrunch.com/2024/05/10/this-week-in-ai-openai-considers-allowing-ai-porn/)
-- [Garena is quietly making India-themed games even as Free Fire’s relaunch remains doubtful](https://techcrunch.com/2024/05/10/garena-india-themed-games-free-fire-launch/)
-- [Fisker Ocean faces fourth federal safety probe](https://techcrunch.com/2024/05/10/fisker-ocean-nhtsa-investigation-automatic-emergency-braking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
