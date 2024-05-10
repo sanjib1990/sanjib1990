@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch monster flare-spewing sunspot grow to be 15 times wider than Earth &lpar;video&rpar;](https://www.space.com/giant-sunspot-region-ar-3664-video)
 - [Cracking! Some binary black holes may roll around each other in egg-shaped orbits](https://www.space.com/binary-black-holes-egg-shaped-orbits-gravitational-waves)
 - [Pitch Deck Teardown: Cloudsmith’s $15M Series A deck](https://techcrunch.com/2024/05/10/sample-series-a-pitch-deck-cloudsmith/)
 - [OpenAI’s ChatGPT announcement: What we know so far](https://techcrunch.com/2024/05/10/openais-chatgpt-announcement-what-we-know-so-far/)
 - [NASA&#39;s Roman Space Telescope will hunt for the universe&#39;s 1st stars — or their shredded corpses, anyway](https://www.space.com/roman-space-telescope-first-stars-destroyed-black-holes)
-- [Our neighboring galaxy&#39;s supermassive black hole would probably be a polite dinner guest](https://www.space.com/light-years-long-dust-streams-supermassive-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
