@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Best OS for programming? Mac vs Windows vs Linux debate settled](https://www.youtube.com/watch?v=AdygBbbEnco)
 - [OCW Learning Journeys: Jae-Min&#39;s Story #Chemistry #Thermodynamics #Physics #Science #MIT](https://www.youtube.com/watch?v=dhut6387a4I)
 - [Has Generative AI Already Peaked? - Computerphile](https://www.youtube.com/watch?v=dDUC-LqVrPU)
 - [The ARM chip race is getting wild… Apple M4 unveiled](https://www.youtube.com/watch?v=TsKHjFeonRE)
 - [The Lumpy Universe with Prof. David Kaiser](https://www.youtube.com/watch?v=asINud1eAx4)
-- [10 regrets of experienced programmers](https://www.youtube.com/watch?v=ehTIhQpj9ys)
 <!-- YOUTUBE:END -->
 
 ---
