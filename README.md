@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Roman Space Telescope will hunt for the universe&#39;s 1st stars — or their shredded corpses, anyway](https://www.space.com/roman-space-telescope-first-stars-destroyed-black-holes)
+- [Our neighboring galaxy&#39;s supermassive black hole would probably be a polite dinner guest](https://www.space.com/light-years-long-dust-streams-supermassive-black-holes)
+- [How to watch new &#39;Doctor Who&#39;: Stream Ncuti Gatwa episodes from anywhere](https://www.space.com/entertainment/space-movies-shows/watch-new-doctor-who-online-ncuti-gatwa)
+- [Anthropic’s Claude sees tepid reception on iOS compared with ChatGPT’s debut](https://techcrunch.com/2024/05/10/anthropics-claude-sees-tepid-reception-on-ios-compared-with-chatgpts-debut/)
 - [Startups Weekly: Trouble in EV land and Peloton is circling the drain](https://techcrunch.com/2024/05/10/startups-weekly-trouble-in-ev-land-and-peloton-is-circling-the-drain/)
-- [Founders Fund leads financing of composites startup Layup Parts](https://techcrunch.com/2024/05/10/founders-fund-leads-financing-of-composites-startup-layup-parts/)
-- [Anthropic now lets kids use its AI tech — within limits](https://techcrunch.com/2024/05/10/anthropic-now-lets-kids-use-its-ai-tech-within-limits/)
-- [The buzziest EV IPO of the year is a Chinese automaker](https://techcrunch.com/2024/05/10/the-buzziest-ev-ipo-of-the-year-is-a-chinese-automaker/)
-- [VC fund performance is down sharply — but it may have already hit its lowest point](https://techcrunch.com/2024/05/10/vc-fund-performance-is-down-sharply-but-it-may-have-already-hit-its-lowest-point/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
