@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SAP’s chief sustainability officer isn’t interested in getting your company to do the right thing](https://techcrunch.com/2024/05/11/saps-chief-sustainability-officer-isnt-interested-in-getting-your-company-to-do-the-right-thing/)
 - [Tesla’s profitable Supercharger network is in limbo after Musk axed the entire team](https://techcrunch.com/2024/05/11/teslas-profitable-supercharger-network-in-limbo-after-musk-axed-entire-team/)
 - [Houston, we have an encore: ISS virtual reality experience &#39;The Infinite&#39; returns](https://www.space.com/space-explorers-infinite-station-artemis-vr-houston-return)
 - [Total solar eclipse 2027: A complete guide to the &#39;eclipse of the century&#39;](https://www.space.com/total-solar-eclipse-2027-complete-guide-where-when-how-to-see-it)
 - [This Week In Space podcast: Episode 110 —Voyager 1&#39;s Brush with Silence](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-110-voyager-1-brush-science)
-- [DARPA&#39;s autonomous &#39;Manta Ray&#39; drone can glide through ocean depths undetected](https://www.space.com/darpa-autonomous-manta-ray-underwater-drone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
