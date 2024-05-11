@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The stormy sun erupts with its biggest solar flare yet from a massive sunspot — and it&#39;s still crackling &lpar;video&rpar;](https://www.space.com/sun-fires-off-massive-x-class-solar-flares-may-11-2024)
 - [At the AI Film Festival, humanity triumphed over tech](https://techcrunch.com/2024/05/11/at-the-ai-film-festival-humanity-triumphed-over-tech/)
 - [Women in AI: Rachel Coldicutt researches how technology impacts society](https://techcrunch.com/2024/05/11/women-in-ai-rachel-coldicutt-researches-how-technology-impacts-society/)
 - [SAP’s chief sustainability officer isn’t interested in getting your company to do the right thing](https://techcrunch.com/2024/05/11/saps-chief-sustainability-officer-isnt-interested-in-getting-your-company-to-do-the-right-thing/)
 - [Tesla’s profitable Supercharger network is in limbo after Musk axed the entire team](https://techcrunch.com/2024/05/11/teslas-profitable-supercharger-network-in-limbo-after-musk-axed-entire-team/)
-- [Houston, we have an encore: ISS virtual reality experience &#39;The Infinite&#39; returns](https://www.space.com/space-explorers-infinite-station-artemis-vr-houston-return)
 <!-- BLOG-POST-LIST:END -->
 
 ---
