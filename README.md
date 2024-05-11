@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meesho, an Indian social commerce with 150M transacting users, secures $275M in new funding](https://techcrunch.com/2024/05/10/meesho-an-indian-social-commerce-with-150m-transacting-users-secures-275m-in-new-funding/)
 - [Scammers found planting online betting ads on Indian government websites](https://techcrunch.com/2024/05/10/scammers-found-planting-online-betting-ads-on-indian-government-websites/)
 - [Motional cut about 550 employees, around 40%, in recent restructuring, sources say](https://techcrunch.com/2024/05/10/motional-cut-about-550-employees-around-40-in-recent-restructuring-sources-say/)
 - [Watch monster flare-spewing sunspot grow to be 15 times wider than Earth &lpar;video&rpar;](https://www.space.com/giant-sunspot-region-ar-3664-video)
 - [Cracking! Some binary black holes may roll around each other in egg-shaped orbits](https://www.space.com/binary-black-holes-egg-shaped-orbits-gravitational-waves)
-- [Pitch Deck Teardown: Cloudsmith’s $15M Series A deck](https://techcrunch.com/2024/05/10/sample-series-a-pitch-deck-cloudsmith/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
