@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Chandra spacecraft spots supermassive black hole erupting in the Milky Way&#39;s heart](https://www.space.com/the-universe/black-holes/nasas-chandra-spacecraft-spots-supermassive-black-hole-erupting-in-the-milky-ways-heart)
 - [StrictlyVC London welcomes Phoenix Court and WEX](https://techcrunch.com/2024/05/11/strictlyvc-london-welcomes-phoenix-court-and-wex/)
 - [Meesho, an Indian social commerce platform with 150M transacting users, raises $275M](https://techcrunch.com/2024/05/10/meesho-an-indian-social-commerce-with-150m-transacting-users-secures-275m-in-new-funding/)
 - [Scammers found planting online betting ads on Indian government websites](https://techcrunch.com/2024/05/10/scammers-found-planting-online-betting-ads-on-indian-government-websites/)
 - [Motional cut about 550 employees, around 40%, in recent restructuring, sources say](https://techcrunch.com/2024/05/10/motional-cut-about-550-employees-around-40-in-recent-restructuring-sources-say/)
-- [Watch monster flare-spewing sunspot grow to be 15 times wider than Earth &lpar;video&rpar;](https://www.space.com/giant-sunspot-region-ar-3664-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
