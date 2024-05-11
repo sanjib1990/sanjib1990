@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DARPA&#39;s autonomous &#39;Manta Ray&#39; drone can glide through ocean depths undetected](https://www.space.com/darpa-autonomous-manta-ray-underwater-drone)
+- [&#39;World&#39;s purest silicon&#39; could lead to 1st million-qubit quantum computing chips](https://www.space.com/purest-silicon-could-lead-to-first-million-qubit-quantum-computing-chips)
+- [Jaw-dropping northern lights from massive solar flares amaze skywatchers around the world. &#39;We have a very rare event on our hands.&#39; &lpar;photos&rpar;](https://www.space.com/spectacular-northern-lights-rare-solar-flares-may-2024)
 - [NASA&#39;s Chandra spacecraft spots supermassive black hole erupting in the Milky Way&#39;s heart](https://www.space.com/the-universe/black-holes/nasas-chandra-spacecraft-spots-supermassive-black-hole-erupting-in-the-milky-ways-heart)
 - [StrictlyVC London welcomes Phoenix Court and WEX](https://techcrunch.com/2024/05/11/strictlyvc-london-welcomes-phoenix-court-and-wex/)
-- [Meesho, an Indian social commerce platform with 150M transacting users, raises $275M](https://techcrunch.com/2024/05/10/meesho-an-indian-social-commerce-with-150m-transacting-users-secures-275m-in-new-funding/)
-- [Scammers found planting online betting ads on Indian government websites](https://techcrunch.com/2024/05/10/scammers-found-planting-online-betting-ads-on-indian-government-websites/)
-- [Motional cut about 550 employees, around 40%, in recent restructuring, sources say](https://techcrunch.com/2024/05/10/motional-cut-about-550-employees-around-40-in-recent-restructuring-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
