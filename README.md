@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Houston, we have an encore: ISS virtual reality experience &#39;The Infinite&#39; returns](https://www.space.com/space-explorers-infinite-station-artemis-vr-houston-return)
+- [Total solar eclipse 2027: A complete guide to the &#39;eclipse of the century&#39;](https://www.space.com/total-solar-eclipse-2027-complete-guide-where-when-how-to-see-it)
+- [This Week In Space podcast: Episode 110 —Voyager 1&#39;s Brush with Silence](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-110-voyager-1-brush-science)
 - [DARPA&#39;s autonomous &#39;Manta Ray&#39; drone can glide through ocean depths undetected](https://www.space.com/darpa-autonomous-manta-ray-underwater-drone)
 - [&#39;World&#39;s purest silicon&#39; could lead to 1st million-qubit quantum computing chips](https://www.space.com/purest-silicon-could-lead-to-first-million-qubit-quantum-computing-chips)
-- [Jaw-dropping northern lights from massive solar flares amaze skywatchers around the world. &#39;We have a very rare event on our hands.&#39; &lpar;photos&rpar;](https://www.space.com/spectacular-northern-lights-rare-solar-flares-may-2024)
-- [NASA&#39;s Chandra spacecraft spots supermassive black hole erupting in the Milky Way&#39;s heart](https://www.space.com/the-universe/black-holes/nasas-chandra-spacecraft-spots-supermassive-black-hole-erupting-in-the-milky-ways-heart)
-- [StrictlyVC London welcomes Phoenix Court and WEX](https://techcrunch.com/2024/05/11/strictlyvc-london-welcomes-phoenix-court-and-wex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
