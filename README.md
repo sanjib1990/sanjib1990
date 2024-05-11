@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Apple’s ‘Crush’ ad is so misguided](https://techcrunch.com/2024/05/11/why-apples-crush-ad-is-so-misguided/)
+- [U.K. agency releases tools to test AI model safety](https://techcrunch.com/2024/05/11/u-k-agency-releases-tools-to-test-ai-model-safety/)
 - [The stormy sun erupts with its biggest solar flare yet from a massive sunspot — and it&#39;s still crackling &lpar;video&rpar;](https://www.space.com/sun-fires-off-massive-x-class-solar-flares-may-11-2024)
 - [At the AI Film Festival, humanity triumphed over tech](https://techcrunch.com/2024/05/11/at-the-ai-film-festival-humanity-triumphed-over-tech/)
 - [Women in AI: Rachel Coldicutt researches how technology impacts society](https://techcrunch.com/2024/05/11/women-in-ai-rachel-coldicutt-researches-how-technology-impacts-society/)
-- [SAP’s chief sustainability officer isn’t interested in getting your company to do the right thing](https://techcrunch.com/2024/05/11/saps-chief-sustainability-officer-isnt-interested-in-getting-your-company-to-do-the-right-thing/)
-- [Tesla’s profitable Supercharger network is in limbo after Musk axed the entire team](https://techcrunch.com/2024/05/11/teslas-profitable-supercharger-network-in-limbo-after-musk-axed-entire-team/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
