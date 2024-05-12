@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Powerful sun storms could give us a great aurora show for Mother&#39;s Day](https://www.space.com/sun-storms-aurora-show-mothers-day-2024)
 - [Why Apple’s ‘Crush’ ad is so misguided](https://techcrunch.com/2024/05/11/why-apples-crush-ad-is-so-misguided/)
 - [U.K. agency releases tools to test AI model safety](https://techcrunch.com/2024/05/11/u-k-agency-releases-tools-to-test-ai-model-safety/)
 - [The stormy sun erupts with its biggest solar flare yet from a massive sunspot — and it&#39;s still crackling &lpar;video&rpar;](https://www.space.com/sun-fires-off-massive-x-class-solar-flares-may-11-2024)
 - [At the AI Film Festival, humanity triumphed over tech](https://techcrunch.com/2024/05/11/at-the-ai-film-festival-humanity-triumphed-over-tech/)
-- [Women in AI: Rachel Coldicutt researches how technology impacts society](https://techcrunch.com/2024/05/11/women-in-ai-rachel-coldicutt-researches-how-technology-impacts-society/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
