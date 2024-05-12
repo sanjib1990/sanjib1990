@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A reckoning is coming for emerging venture funds, and that, VCs say, is a good thing](https://techcrunch.com/2024/05/12/emerging-fund-venture-capital/)
+- [Workers at a Maryland Apple store authorize strike](https://techcrunch.com/2024/05/12/workers-at-a-maryland-apple-store-authorize-strike/)
 - [Alora Baby aims to push baby gear away from the ‘landfill economy’](https://techcrunch.com/2024/05/12/alora-baby-rethinks-what-new-even-means/)
 - [Go on, let bots date other bots](https://techcrunch.com/2024/05/12/go-on-let-bots-date-other-bots/)
 - [Scientists could make blazing-fast 6G using curving light rays](https://www.space.com/scientists-could-make-6g-using-curving-lilght-rays)
-- [&#39;Extreme&#39; solar storms cook up sweet Mother&#39;s Day auroras for Moms everywhere](https://www.space.com/sun-storms-aurora-show-mothers-day-2024)
-- [Why Apple’s ‘Crush’ ad is so misguided](https://techcrunch.com/2024/05/11/why-apples-crush-ad-is-so-misguided/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
