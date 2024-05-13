@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego rolls out details about Apollo lunar rover model coming in August](https://www.space.com/lego-technic-nasa-apollo-lunar-roving-vehicle-lrv)
+- [Aplazo is using buy-now-pay-later as a stepping stone to financial ubiquity in Mexico](https://techcrunch.com/2024/05/13/aplazo/)
 - [New algorithm slashes time to run most sophisticated climate models by 10-fold](https://www.space.com/new-algorithm-expediates-climate-model-calculations)
 - [Vote for your Disrupt 2024 Audience Choice favs](https://techcrunch.com/2024/05/13/vote-for-your-disrupt-2024-audience-choice-favs/)
 - [Healthy growth helps B2B food e-commerce startup Pepper nab $30 million led by ICONIQ Growth](https://techcrunch.com/2024/05/13/pepper-iconiq-startup-foodservice-ecommerce-30m/)
-- [Booking latest to fall under EU market power rules](https://techcrunch.com/2024/05/13/booking-latest-to-fall-under-eu-market-power-rules/)
-- [‘Got that boomer!’: How cyber-criminals steal one-time passcodes for SIM swap attacks and raiding bank accounts](https://techcrunch.com/2024/05/13/cyber-criminals-stealing-one-time-passcodes-sim-swap-raiding-bank-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
