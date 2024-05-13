@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA appoints 1st AI chief to keep agency on &#39;the cutting edge&#39;](https://www.space.com/nasa-appoints-first-artificial-intelligence-chief)
+- [Apple and Google agree on standard to alert people when unknown Bluetooth devices may be tracking them](https://techcrunch.com/2024/05/13/apple-and-google-agree-on-standard-to-alert-people-when-unknown-bluetooth-devices-may-be-tracking-them/)
 - [OpenAI’s ChatGPT announcement: Watch here](https://techcrunch.com/2024/05/13/openais-chatgpt-announcement-what-we-know-so-far/)
 - [GM’s Cruise ramps up robotaxi testing in Phoenix](https://techcrunch.com/2024/05/13/gms-cruise-ramps-up-robotaxi-testing-in-phoenix/)
 - [SpaceX Starlink satellites doing just fine after weekend solar storm, company says](https://www.space.com/spacex-starlink-solar-storm-healthy-satellites)
-- [OpenAI’s newest model is GPT-4o](https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/)
-- [The women in AI making a difference](https://techcrunch.com/2024/05/13/the-women-in-ai-making-a-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
