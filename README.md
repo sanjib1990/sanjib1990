@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI may be to blame for our failure to make contact with alien civilizations](https://www.space.com/ai-may-be-to-blame-failure-to-contact-alien-civilizations)
+- [Apple iPad Pro M4 vs. iPad Air M2: Reviewing which is right for most](https://techcrunch.com/2024/05/13/apple-ipad-pro-m4-vs-ipad-air-m2-which-is-right-for-most/)
+- [Space Force aims to launch 1st &#39;Foo Fighter&#39; satellites in 2027 to track hypersonic threats](https://www.space.com/space-force-foo-fighter-satellite-hypersonic-missle-tracking)
 - [GV’s youngest partner has launched her own firm](https://techcrunch.com/2024/05/13/gvs-youngest-partner-has-launched-her-own-firm/)
 - [ChatGPT’s new face is a black hole](https://techcrunch.com/2024/05/13/chatgpts-new-face-is-a-black-hole/)
-- [NASA appoints 1st AI chief to keep agency on &#39;the cutting edge&#39;](https://www.space.com/nasa-appoints-first-artificial-intelligence-chief)
-- [Apple and Google agree on standard to alert people when unknown Bluetooth devices may be tracking them](https://techcrunch.com/2024/05/13/apple-and-google-agree-on-standard-to-alert-people-when-unknown-bluetooth-devices-may-be-tracking-them/)
-- [OpenAI’s ChatGPT announcement: Watch here](https://techcrunch.com/2024/05/13/openais-chatgpt-announcement-what-we-know-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
