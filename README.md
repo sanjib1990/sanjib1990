@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Miles Grimshaw to Eva Ho, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/05/13/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/)
+- [Anthropic is expanding to Europe and raising more money](https://techcrunch.com/2024/05/13/anthropic-is-expanding-to-europe-and-raising-more-money/)
+- [&#39;Kingdom of the Planet of the Apes&#39; reinvigorates an aging &#39;Apes&#39; franchise &lpar;review&rpar;](https://www.space.com/kingdom-of-the-planet-of-the-apes-review)
 - [SpaceX Starship&#39;s next launch &#39;probably 3 to 5 weeks&#39; away, Elon Musk says](https://www.space.com/spacex-starship-fourth-test-flight-june-2024-elon-musk)
 - [TechCrunch Space: You rock&lpar;et&rpar; my world, moms](https://techcrunch.com/2024/05/13/techcrunch-space-you-rocket-my-world-moms/)
-- [AI may be to blame for our failure to make contact with alien civilizations](https://www.space.com/ai-may-be-to-blame-failure-to-contact-alien-civilizations)
-- [Apple iPad Pro M4 vs. iPad Air M2: Reviewing which is right for most](https://techcrunch.com/2024/05/13/apple-ipad-pro-m4-vs-ipad-air-m2-which-is-right-for-most/)
-- [Space Force aims to launch 1st &#39;Foo Fighter&#39; satellites in 2027 to track hypersonic threats](https://www.space.com/space-force-foo-fighter-satellite-hypersonic-missle-tracking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
