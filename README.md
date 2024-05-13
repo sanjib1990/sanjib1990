@@ -86,7 +86,7 @@
 - [Lecture 4: Heat Engines and Energy Conversion Efficiency](https://www.youtube.com/watch?v=tfY40mAOzn8)
 - [Lecture 9: Case Studies - Specific Heats and Phase Transformations](https://www.youtube.com/watch?v=TYW02eTlc-8)
 - [Lecture 12: Case Studies - Saturation Vapor Pressure](https://www.youtube.com/watch?v=Csf5TGuEnPs)
-- [Lecture 20: Introduction to Binary Phase Diagrams](https://www.youtube.com/watch?v=DDUudxi9VVo)
+- [Lecture 23: Building Binary Phase Diagrams, Part I](https://www.youtube.com/watch?v=Pv-fEkhscqo)
 <!-- YOUTUBE:END -->
 
 ---
