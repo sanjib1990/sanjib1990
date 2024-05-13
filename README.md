@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s 3D video conferencing platform, Project Starline, is coming in 2025 with help from HP](https://techcrunch.com/2024/05/13/googles-3d-video-conferencing-platform-project-starline-is-coming-in-2025-with-help-from-hp/)
+- [OpenAI’s ChatGPT announcement: Watch live here](https://techcrunch.com/2024/05/13/openais-chatgpt-announcement-what-we-know-so-far/)
 - [Instagram expands its creator marketplace to 10 new countries](https://techcrunch.com/2024/05/13/instagram-expands-its-creator-marketplace-to-10-new-countries/)
 - [Lego rolls out details about Apollo lunar rover model coming in August](https://www.space.com/lego-technic-nasa-apollo-lunar-roving-vehicle-lrv)
 - [Aplazo is using buy-now-pay-later as a stepping stone to financial ubiquity in Mexico](https://techcrunch.com/2024/05/13/aplazo/)
-- [New algorithm slashes time to run most sophisticated climate models by 10-fold](https://www.space.com/new-algorithm-expediates-climate-model-calculations)
-- [Vote for your Disrupt 2024 Audience Choice favs](https://techcrunch.com/2024/05/13/vote-for-your-disrupt-2024-audience-choice-favs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
