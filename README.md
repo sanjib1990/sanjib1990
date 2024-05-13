@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GV’s youngest partner has launched her own firm](https://techcrunch.com/2024/05/13/gvs-youngest-partner-has-launched-her-own-firm/)
+- [ChatGPT’s new face is a black hole](https://techcrunch.com/2024/05/13/chatgpts-new-face-is-a-black-hole/)
 - [NASA appoints 1st AI chief to keep agency on &#39;the cutting edge&#39;](https://www.space.com/nasa-appoints-first-artificial-intelligence-chief)
 - [Apple and Google agree on standard to alert people when unknown Bluetooth devices may be tracking them](https://techcrunch.com/2024/05/13/apple-and-google-agree-on-standard-to-alert-people-when-unknown-bluetooth-devices-may-be-tracking-them/)
 - [OpenAI’s ChatGPT announcement: Watch here](https://techcrunch.com/2024/05/13/openais-chatgpt-announcement-what-we-know-so-far/)
-- [GM’s Cruise ramps up robotaxi testing in Phoenix](https://techcrunch.com/2024/05/13/gms-cruise-ramps-up-robotaxi-testing-in-phoenix/)
-- [SpaceX Starlink satellites doing just fine after weekend solar storm, company says](https://www.space.com/spacex-starlink-solar-storm-healthy-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
