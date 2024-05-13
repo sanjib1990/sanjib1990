@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram expands its creator marketplace to 10 new countries](https://techcrunch.com/2024/05/13/instagram-expands-its-creator-marketplace-to-10-new-countries/)
 - [Lego rolls out details about Apollo lunar rover model coming in August](https://www.space.com/lego-technic-nasa-apollo-lunar-roving-vehicle-lrv)
 - [Aplazo is using buy-now-pay-later as a stepping stone to financial ubiquity in Mexico](https://techcrunch.com/2024/05/13/aplazo/)
 - [New algorithm slashes time to run most sophisticated climate models by 10-fold](https://www.space.com/new-algorithm-expediates-climate-model-calculations)
 - [Vote for your Disrupt 2024 Audience Choice favs](https://techcrunch.com/2024/05/13/vote-for-your-disrupt-2024-audience-choice-favs/)
-- [Healthy growth helps B2B food e-commerce startup Pepper nab $30 million led by ICONIQ Growth](https://techcrunch.com/2024/05/13/pepper-iconiq-startup-foodservice-ecommerce-30m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
