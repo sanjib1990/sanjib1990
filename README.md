@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s newest model is GPT-4o](https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/)
+- [The women in AI making a difference](https://techcrunch.com/2024/05/13/the-women-in-ai-making-a-difference/)
+- [White House proposes up to $120 million to help fund Polar Semiconductor’s chip facility expansion](https://techcrunch.com/2024/05/13/white-house-proposes-120-million-fund-polar-semiconductors-chip-facility-expansion/)
+- [&#39;A Quiet Place: Day One&#39; trailer reveals why Earth went silent after alien invasion &lpar;video&rpar;](https://www.space.com/a-quiet-place-day-one-alien-invasion-trailer-paramount)
 - [Google’s 3D video conferencing platform, Project Starline, is coming in 2025 with help from HP](https://techcrunch.com/2024/05/13/googles-3d-video-conferencing-platform-project-starline-is-coming-in-2025-with-help-from-hp/)
-- [OpenAI’s ChatGPT announcement: Watch live here](https://techcrunch.com/2024/05/13/openais-chatgpt-announcement-what-we-know-so-far/)
-- [Instagram expands its creator marketplace to 10 new countries](https://techcrunch.com/2024/05/13/instagram-expands-its-creator-marketplace-to-10-new-countries/)
-- [Lego rolls out details about Apollo lunar rover model coming in August](https://www.space.com/lego-technic-nasa-apollo-lunar-roving-vehicle-lrv)
-- [Aplazo is using buy-now-pay-later as a stepping stone to financial ubiquity in Mexico](https://techcrunch.com/2024/05/13/aplazo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
