@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX to launch 23 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-58)
+- [SpaceX launches 23 Starlink satellites from Florida](https://www.space.com/spacex-starlink-launch-group-6-58)
 - [Women in AI: Rep. Dar’shun Kendrick wants to pass more AI legislation](https://techcrunch.com/2024/05/12/women-in-ai-rep-darshun-kendrick-wants-to-pass-more-ai-legislation/)
 - [A reckoning is coming for emerging venture funds, and that, VCs say, is a good thing](https://techcrunch.com/2024/05/12/emerging-fund-venture-capital/)
 - [Workers at a Maryland Apple store authorize strike](https://techcrunch.com/2024/05/12/workers-at-a-maryland-apple-store-authorize-strike/)
