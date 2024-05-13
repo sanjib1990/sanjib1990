@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Buymeacoffee’s founder has built an AI-powered voice note app](https://techcrunch.com/2024/05/13/buymeacoffees-founder-has-built-an-ai-powered-voice-note-app/)
+- [Google partners with Airtel to offer cloud and genAI products to Indian businesses](https://techcrunch.com/2024/05/13/google-partners-with-airtel-to-offer-cloud-and-genai-products-to-indian-businesses/)
 - [SpaceX launches 23 Starlink satellites from Florida](https://www.space.com/spacex-starlink-launch-group-6-58)
 - [Women in AI: Rep. Dar’shun Kendrick wants to pass more AI legislation](https://techcrunch.com/2024/05/12/women-in-ai-rep-darshun-kendrick-wants-to-pass-more-ai-legislation/)
 - [A reckoning is coming for emerging venture funds, and that, VCs say, is a good thing](https://techcrunch.com/2024/05/12/emerging-fund-venture-capital/)
-- [Workers at a Maryland Apple store authorize strike](https://techcrunch.com/2024/05/12/workers-at-a-maryland-apple-store-authorize-strike/)
-- [Alora Baby aims to push baby gear away from the ‘landfill economy’](https://techcrunch.com/2024/05/12/alora-baby-rethinks-what-new-even-means/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
