@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s ChatGPT announcement: Watch here](https://techcrunch.com/2024/05/13/openais-chatgpt-announcement-what-we-know-so-far/)
+- [GM’s Cruise ramps up robotaxi testing in Phoenix](https://techcrunch.com/2024/05/13/gms-cruise-ramps-up-robotaxi-testing-in-phoenix/)
+- [SpaceX Starlink satellites doing just fine after weekend solar storm, company says](https://www.space.com/spacex-starlink-solar-storm-healthy-satellites)
 - [OpenAI’s newest model is GPT-4o](https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/)
 - [The women in AI making a difference](https://techcrunch.com/2024/05/13/the-women-in-ai-making-a-difference/)
-- [White House proposes up to $120 million to help fund Polar Semiconductor’s chip facility expansion](https://techcrunch.com/2024/05/13/white-house-proposes-120-million-fund-polar-semiconductors-chip-facility-expansion/)
-- [&#39;A Quiet Place: Day One&#39; trailer reveals why Earth went silent after alien invasion &lpar;video&rpar;](https://www.space.com/a-quiet-place-day-one-alien-invasion-trailer-paramount)
-- [Google’s 3D video conferencing platform, Project Starline, is coming in 2025 with help from HP](https://techcrunch.com/2024/05/13/googles-3d-video-conferencing-platform-project-starline-is-coming-in-2025-with-help-from-hp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
