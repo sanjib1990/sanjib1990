@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Starship&#39;s next launch &#39;probably 3 to 5 weeks&#39; away, Elon Musk says](https://www.space.com/spacex-starship-fourth-test-flight-june-2024-elon-musk)
+- [TechCrunch Space: You rock&lpar;et&rpar; my world, moms](https://techcrunch.com/2024/05/13/techcrunch-space-you-rocket-my-world-moms/)
 - [AI may be to blame for our failure to make contact with alien civilizations](https://www.space.com/ai-may-be-to-blame-failure-to-contact-alien-civilizations)
 - [Apple iPad Pro M4 vs. iPad Air M2: Reviewing which is right for most](https://techcrunch.com/2024/05/13/apple-ipad-pro-m4-vs-ipad-air-m2-which-is-right-for-most/)
 - [Space Force aims to launch 1st &#39;Foo Fighter&#39; satellites in 2027 to track hypersonic threats](https://www.space.com/space-force-foo-fighter-satellite-hypersonic-missle-tracking)
-- [GV’s youngest partner has launched her own firm](https://techcrunch.com/2024/05/13/gvs-youngest-partner-has-launched-her-own-firm/)
-- [ChatGPT’s new face is a black hole](https://techcrunch.com/2024/05/13/chatgpts-new-face-is-a-black-hole/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
