@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin to resume crewed New Shepard launches on May 19](https://techcrunch.com/2024/05/14/blue-origin-to-resume-crewed-new-shepard-launches-on-may-19/)
+- [Google is building its Gemini Nano AI model into Chrome on the desktop](https://techcrunch.com/2024/05/14/google-is-building-its-gemini-nano-ai-model-into-chrome-on-the-desktop/)
+- [Satellite images of Rafah illustrate Palestinians fleeing the city](https://www.space.com/satellite-images-rafah-israel-gaza)
 - [Google mentioned ‘AI’ 120+ times during its I/O keynote](https://techcrunch.com/2024/05/14/google-mentioned-ai-120-times-during-its-i-o-keynote/)
 - [Google launches Firebase Genkit, a new open source framework for building AI-powered apps](https://techcrunch.com/2024/05/14/google-launches-firebase-genkit-a-new-open-source-framework-for-building-ai-powered-apps/)
-- [Patreon and Grammarly are already experimenting with Gemini Nano, says Google](https://techcrunch.com/2024/05/14/patreon-and-grammarly-are-already-experimenting-with-gemini-nano-says-google/)
-- [Reddit introduces new tools for ‘Ask Me Anything,’ its Q&amp;A feature](https://techcrunch.com/2024/05/14/reddit-new-ask-me-anything-features/)
-- [Google I/O 2024: Here’s everything Google just announced](https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
