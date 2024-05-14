@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This time, we take it from no one: Why opening the High Frontier of space can be different &lpar;op-ed&rpar;](https://www.space.com/responsible-space-settlement-benefit-humanity)
+- [Sona, a frontline workforce management platform, raises $27.5M with eyes on US expansion](https://techcrunch.com/2024/05/14/sona-a-frontline-workforce-management-platform-raises-27-5m-with-eyes-on-us-expansion/)
+- [Uber to acquire Foodpanda’s Taiwan unit from Delivery Hero for $950M in cash](https://techcrunch.com/2024/05/14/uber-to-acquire-foodpandas-taiwan-unit-from-delivery-hero-for-950m-in-cash/)
 - [Paris-based VC firm Blisce launches climate tech fund with a target of $160M](https://techcrunch.com/2024/05/14/paris-based-vc-firm-blisce-launches-climate-technology-fund/)
 - [Maad raises $3.2M seed amid B2B e-commerce sector turbulence in Africa](https://techcrunch.com/2024/05/13/maad-raises-3-2-seed-fundin/)
-- [OpenAI Startup Fund raises additional $5M](https://techcrunch.com/2024/05/13/openai-startup-fund-raises-additional-5m/)
-- [Accel has a fresh $650M to back European early-stage startups](https://techcrunch.com/2024/05/13/accel-has-a-fresh-650m-to-back-european-early-stage-startups/)
-- [Cruise founder Kyle Vogt is back with a robot startup](https://techcrunch.com/2024/05/13/cruise-founder-kyle-vogt-is-back-with-a-robot-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
