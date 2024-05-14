@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit introduces new tools for ‘Ask Me Anything,’ its Q&amp;A feature](https://techcrunch.com/2024/05/14/reddit-new-ask-me-anything-features/)
+- [Google I/O 2024: Here’s everything Google just announced](https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/)
+- [LearnLM is Google’s new family of AI models for education](https://techcrunch.com/2024/05/14/learnlm-is-googles-new-family-of-ai-models-for-education/)
 - [Big decision! Curiosity rover keeps following possible Mars river remnant](https://www.space.com/mars-rover-curiosity-pinnacle-ridge-decision)
 - [Google is bringing AI-generated quizzes to academic videos on YouTube](https://techcrunch.com/2024/05/14/google-ai-generated-quizzes-academic-videos-youtube/)
-- [Motional cut about 550 employees, around 40%, in recent restructuring, sources say](https://techcrunch.com/2024/05/14/motional-cut-about-550-employees-around-40-in-recent-restructuring-sources-say/)
-- [Google I/O 2024: Watch all of the AI, Android reveals](https://techcrunch.com/2024/05/14/google-i-o-2024-how-to-watch/)
-- [Blue Origin targeting May 19 for 1st crewed spaceflight since 2022](https://www.space.com/blue-origin-ns-25-human-spaceflight-may-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
