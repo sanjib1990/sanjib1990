@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s Oversight Board overturns takedown decision for Pakistan child abuse documentary](https://techcrunch.com/2024/05/14/metas-oversight-board-overturns-takedown-decision-for-pakistan-child-abuse-documentary/)
+- [The summer of 2023 was Earth&#39;s hottest in 2,000 years, scientists find](https://www.space.com/earth-hottest-summer-2023-last-2000-years)
 - [SpaceX launching 50th mission of the year today](https://www.space.com/spacex-starlink-launch-group-8-7)
+- [Google I/O 2024: How to watch](https://techcrunch.com/2024/05/14/google-i-o-2024-how-to-watch/)
 - [AWS CEO Adam Selipsky steps down](https://techcrunch.com/2024/05/14/aws-ceo-adam-selipsky-steps-down/)
-- [New book &#39;Challenger: A True Story of Heroism &amp; Disaster on the Edge of Space&#39; out today](https://www.space.com/challenger-a-true-story-heroism-disaster-edge-of-space-book-release)
-- [How SpaceX&#39;s private Polaris Dawn astronauts will attempt the 1st-ever &#39;all-civilian&#39; spacewalk](https://www.space.com/spacex-polaris-dawn-progressing-toward-ambitious-launch)
-- [David Sacks reveals Glue, the AI company he’s been teasing on his All In podcast](https://techcrunch.com/2024/05/14/david-sacks-glue-ai-slack-microsoft-teams-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
