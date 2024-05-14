@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Play preps a new full-screen app discovery feature and adds more developer tools](https://techcrunch.com/2024/05/14/google-play-preps-a-new-full-screen-app-discovery-feature-and-adds-more-developer-tools/)
-- [Gemini on Android becomes more capable and works with Gmail, Messages, YouTube and more](https://techcrunch.com/2024/05/14/gemini-on-android-becomes-more-capable-and-works-with-gmail-messages-youtube-and-more/)
-- [Google gets serious about AI-generated video at Google I/O 2024](https://techcrunch.com/2024/05/14/google-gets-serious-about-ai-generated-video/)
-- [Gemini comes to Gmail to summarize, draft emails, and more](https://techcrunch.com/2024/05/14/gemini-comes-to-gmail-to-summarize-and-draft-emails/)
-- [Google is bringing Gemini capabilities to Google Maps Platform](https://techcrunch.com/2024/05/14/google-gemini-capabilities-google-maps-platform/)
+- [Blue Origin targeting May 19 for 1st crewed spaceflight since 2022](https://www.space.com/blue-origin-ns-25-human-spaceflight-may-19)
+- [Google mentioned ‘AI’ 120+ times during its I/O keynote](https://techcrunch.com/2024/05/14/google-mentioned-ai-120-times-during-its-i-o-keynote/)
+- [Car-sized asteroid gives Earth a close shave in near-miss flyby &lpar;video, photo&rpar;](https://www.space.com/car-sized-asteroid-2024-jn16-earth-flyby)
+- [Sun unleashes massive X8.7 solar flare, biggest of current cycle, from super-active monster sunspot &lpar;video&rpar;](https://www.space.com/sun-solar-flare-sunspot-ar3664-x88-class-may-14-2024)
+- [Google I/O 2024: Everything announced so far](https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
