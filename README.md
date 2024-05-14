@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Giant &#39;rogue waves&#39; of invisible matter might be disrupting the orbits of stars, new study hints](https://www.space.com/rogue-invisible-matter-waves-might-disrupt-stars-orbits-new-study)
-- [Meta is shutting down Workplace, its enterprise communications business](https://techcrunch.com/2024/05/14/meta-is-shutting-down-workplace-its-enterprise-communications-business/)
-- [Meta’s Oversight Board overturns takedown decision for Pakistan child abuse documentary](https://techcrunch.com/2024/05/14/metas-oversight-board-overturns-takedown-decision-for-pakistan-child-abuse-documentary/)
-- [The summer of 2023 was Earth&#39;s hottest in 2,000 years, scientists find](https://www.space.com/earth-hottest-summer-2023-last-2000-years)
-- [SpaceX launching 50th mission of the year today](https://www.space.com/spacex-starlink-launch-group-8-7)
+- [New York Times best-selling author revisits 1986 space shuttle tragedy in &#39;Challenger&#39; &lpar;interview&rpar;](https://www.space.com/challenger-space-shuttle-tragedy-book-adam-higginbotham-interview)
+- [Apple touts stopping $1.8BN in App Store fraud last year in latest pitch to developers](https://techcrunch.com/2024/05/14/apple-touts-stopping-1-8bn-in-app-store-fraud-last-year-in-latest-pitch-to-devs/)
+- [Expedia starts testing AI-powered features for search and travel planning](https://techcrunch.com/2024/05/14/expedia-starts-testing-ai-powered-features-for-search-and-travel-planning/)
+- [Inside TabaPay’s drama-filled decision to abandon its plans to buy Synapse’s assets](https://techcrunch.com/2024/05/14/inside-tabapays-drama-filled-decision-to-abandon-its-plans-to-buy-synapses-assets/)
+- [Helium leak delays 1st astronaut launch of Boeing&#39;s Starliner to May 21](https://www.space.com/boeing-starliner-cft-launch-delay-helium-leak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
