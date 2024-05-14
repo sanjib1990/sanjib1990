@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New York Times best-selling author revisits 1986 space shuttle tragedy in &#39;Challenger&#39; &lpar;interview&rpar;](https://www.space.com/challenger-space-shuttle-tragedy-book-adam-higginbotham-interview)
-- [Apple touts stopping $1.8BN in App Store fraud last year in latest pitch to developers](https://techcrunch.com/2024/05/14/apple-touts-stopping-1-8bn-in-app-store-fraud-last-year-in-latest-pitch-to-devs/)
-- [Expedia starts testing AI-powered features for search and travel planning](https://techcrunch.com/2024/05/14/expedia-starts-testing-ai-powered-features-for-search-and-travel-planning/)
-- [Inside TabaPay’s drama-filled decision to abandon its plans to buy Synapse’s assets](https://techcrunch.com/2024/05/14/inside-tabapays-drama-filled-decision-to-abandon-its-plans-to-buy-synapses-assets/)
-- [Helium leak delays 1st astronaut launch of Boeing&#39;s Starliner to May 21](https://www.space.com/boeing-starliner-cft-launch-delay-helium-leak)
+- [Google Play preps a new full-screen app discovery feature and adds more developer tools](https://techcrunch.com/2024/05/14/google-play-preps-a-new-full-screen-app-discovery-feature-and-adds-more-developer-tools/)
+- [Gemini on Android becomes more capable and works with Gmail, Messages, YouTube and more](https://techcrunch.com/2024/05/14/gemini-on-android-becomes-more-capable-and-works-with-gmail-messages-youtube-and-more/)
+- [Google gets serious about AI-generated video at Google I/O 2024](https://techcrunch.com/2024/05/14/google-gets-serious-about-ai-generated-video/)
+- [Gemini comes to Gmail to summarize, draft emails, and more](https://techcrunch.com/2024/05/14/gemini-comes-to-gmail-to-summarize-and-draft-emails/)
+- [Google is bringing Gemini capabilities to Google Maps Platform](https://techcrunch.com/2024/05/14/google-gemini-capabilities-google-maps-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
