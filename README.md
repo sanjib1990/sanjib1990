@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Big decision! Curiosity rover keeps following possible Mars river remnant](https://www.space.com/mars-rover-curiosity-pinnacle-ridge-decision)
+- [Google is bringing AI-generated quizzes to academic videos on YouTube](https://techcrunch.com/2024/05/14/google-ai-generated-quizzes-academic-videos-youtube/)
+- [Motional cut about 550 employees, around 40%, in recent restructuring, sources say](https://techcrunch.com/2024/05/14/motional-cut-about-550-employees-around-40-in-recent-restructuring-sources-say/)
+- [Google I/O 2024: Watch all of the AI, Android reveals](https://techcrunch.com/2024/05/14/google-i-o-2024-how-to-watch/)
 - [Blue Origin targeting May 19 for 1st crewed spaceflight since 2022](https://www.space.com/blue-origin-ns-25-human-spaceflight-may-19)
-- [Google mentioned ‘AI’ 120+ times during its I/O keynote](https://techcrunch.com/2024/05/14/google-mentioned-ai-120-times-during-its-i-o-keynote/)
-- [Car-sized asteroid gives Earth a close shave in near-miss flyby &lpar;video, photo&rpar;](https://www.space.com/car-sized-asteroid-2024-jn16-earth-flyby)
-- [Sun unleashes massive X8.7 solar flare, biggest of current cycle, from super-active monster sunspot &lpar;video&rpar;](https://www.space.com/sun-solar-flare-sunspot-ar3664-x88-class-may-14-2024)
-- [Google I/O 2024: Everything announced so far](https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
