@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How SpaceX&#39;s private Polaris Dawn astronauts will attempt the 1st-ever &#39;all-civilian&#39; spacewalk](https://www.space.com/spacex-polaris-dawn-progressing-toward-ambitious-launch)
+- [David Sacks reveals Glue, the AI company he’s been teasing on his All In podcast](https://techcrunch.com/2024/05/14/david-sacks-glue-ai-slack-microsoft-teams-alternative/)
+- [After surpassing $100M in ARR, Harness Labs grabs a $150M line of credit](https://techcrunch.com/2024/05/14/after-surpassing-100m-in-arr-harness-labs-grabs-a-150m-line-of-credit/)
 - [Waymo’s robotaxis under investigation after crashes and traffic mishaps](https://techcrunch.com/2024/05/14/waymo-safety-probe-nhtsa-crashes-traffic-cones-construction/)
 - [This time, we take it from no one: Why opening the High Frontier of space can be different &lpar;op-ed&rpar;](https://www.space.com/responsible-space-settlement-benefit-humanity)
-- [Sona, a frontline workforce management platform, raises $27.5M with eyes on US expansion](https://techcrunch.com/2024/05/14/sona-a-frontline-workforce-management-platform-raises-27-5m-with-eyes-on-us-expansion/)
-- [Uber to acquire Foodpanda’s Taiwan unit from Delivery Hero for $950M in cash](https://techcrunch.com/2024/05/14/uber-to-acquire-foodpandas-taiwan-unit-from-delivery-hero-for-950m-in-cash/)
-- [Paris-based VC firm Blisce launches climate tech fund with a target of $160M](https://techcrunch.com/2024/05/14/paris-based-vc-firm-blisce-launches-climate-technology-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
