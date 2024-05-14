@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maad raises $3.2M seed amid B2B e-commerce sector turbulence in Africa](https://techcrunch.com/2024/05/13/maad-raises-3-2-seed-fundin/)
 - [OpenAI Startup Fund raises additional $5M](https://techcrunch.com/2024/05/13/openai-startup-fund-raises-additional-5m/)
 - [Accel has a fresh $650M to back European early-stage startups](https://techcrunch.com/2024/05/13/accel-has-a-fresh-650m-to-back-european-early-stage-startups/)
 - [Cruise founder Kyle Vogt is back with a robot startup](https://techcrunch.com/2024/05/13/cruise-founder-kyle-vogt-is-back-with-a-robot-startup/)
 - [From Miles Grimshaw to Eva Ho, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/05/13/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/)
-- [Anthropic is expanding to Europe and raising more money](https://techcrunch.com/2024/05/13/anthropic-is-expanding-to-europe-and-raising-more-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
