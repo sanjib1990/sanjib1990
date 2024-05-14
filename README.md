@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Ray Tracing Works - Computerphile](https://www.youtube.com/watch?v=ezXGTRSx1g8)
 - [Lecture 1: Introduction to Thermodynamics](https://www.youtube.com/watch?v=kd_6bwynBj8)
 - [Lecture 4: Heat Engines and Energy Conversion Efficiency](https://www.youtube.com/watch?v=tfY40mAOzn8)
 - [Lecture 9: Case Studies - Specific Heats and Phase Transformations](https://www.youtube.com/watch?v=TYW02eTlc-8)
 - [Lecture 12: Case Studies - Saturation Vapor Pressure](https://www.youtube.com/watch?v=Csf5TGuEnPs)
-- [Lecture 23: Building Binary Phase Diagrams, Part I](https://www.youtube.com/watch?v=Pv-fEkhscqo)
 <!-- YOUTUBE:END -->
 
 ---
