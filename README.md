@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New book &#39;Challenger: A True Story of Heroism &amp; Disaster on the Edge of Space&#39; out today](https://www.space.com/challenger-a-true-story-heroism-disaster-edge-of-space-book-release)
 - [How SpaceX&#39;s private Polaris Dawn astronauts will attempt the 1st-ever &#39;all-civilian&#39; spacewalk](https://www.space.com/spacex-polaris-dawn-progressing-toward-ambitious-launch)
 - [David Sacks reveals Glue, the AI company he’s been teasing on his All In podcast](https://techcrunch.com/2024/05/14/david-sacks-glue-ai-slack-microsoft-teams-alternative/)
 - [After surpassing $100M in ARR, Harness Labs grabs a $150M line of credit](https://techcrunch.com/2024/05/14/after-surpassing-100m-in-arr-harness-labs-grabs-a-150m-line-of-credit/)
 - [Waymo’s robotaxis under investigation after crashes and traffic mishaps](https://techcrunch.com/2024/05/14/waymo-safety-probe-nhtsa-crashes-traffic-cones-construction/)
-- [This time, we take it from no one: Why opening the High Frontier of space can be different &lpar;op-ed&rpar;](https://www.space.com/responsible-space-settlement-benefit-humanity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
