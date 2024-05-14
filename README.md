@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google mentioned ‘AI’ 120+ times during its I/O keynote](https://techcrunch.com/2024/05/14/google-mentioned-ai-120-times-during-its-i-o-keynote/)
+- [Google launches Firebase Genkit, a new open source framework for building AI-powered apps](https://techcrunch.com/2024/05/14/google-launches-firebase-genkit-a-new-open-source-framework-for-building-ai-powered-apps/)
+- [Patreon and Grammarly are already experimenting with Gemini Nano, says Google](https://techcrunch.com/2024/05/14/patreon-and-grammarly-are-already-experimenting-with-gemini-nano-says-google/)
 - [Reddit introduces new tools for ‘Ask Me Anything,’ its Q&amp;A feature](https://techcrunch.com/2024/05/14/reddit-new-ask-me-anything-features/)
 - [Google I/O 2024: Here’s everything Google just announced](https://techcrunch.com/2024/05/14/google-i-o-2024-everything-announced-so-far/)
-- [LearnLM is Google’s new family of AI models for education](https://techcrunch.com/2024/05/14/learnlm-is-googles-new-family-of-ai-models-for-education/)
-- [Big decision! Curiosity rover keeps following possible Mars river remnant](https://www.space.com/mars-rover-curiosity-pinnacle-ridge-decision)
-- [Google is bringing AI-generated quizzes to academic videos on YouTube](https://techcrunch.com/2024/05/14/google-ai-generated-quizzes-academic-videos-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
