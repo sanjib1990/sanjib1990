@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to become an astrobiologist in new issue of NASA&#39;s graphic novel series](https://www.space.com/nasa-astrobiology-graphic-novel)
-- [Apple announces new accessibility features for iPhone and iPad users](https://techcrunch.com/2024/05/15/apple-accessibility-features-2024/)
-- [Milky Way&#39;s halo is filled with &#39;magnetic donuts&#39; as wide as 100,000 light-years](https://www.space.com/milky-way-halo-magnetic-donuts)
-- [Startup Blueprint: TC Disrupt 2024 Builders Stage agenda sneak peek!](https://techcrunch.com/2024/05/15/startup-blueprint-tc-disrupt-2024-builders-stage-agenda-sneak-peek/)
-- [Earth-size planet discovered around cool red dwarf star shares its name with a biscuit](https://www.space.com/earth-size-planet-speculoos-3b)
+- [Uber has a new way to solve the concert traffic problem](https://techcrunch.com/2024/05/15/uber-has-a-new-way-to-solve-the-concert-traffic-problem/)
+- [Cotton candy exoplanet is 2nd lightest planet ever found](https://www.space.com/exoplanet-2nd-lightest-cotton-candy)
+- [Google takes aim at Android malware with an AI-powered live threat detection service](https://techcrunch.com/2024/05/15/google-takes-aim-at-android-malware-with-an-ai-powered-live-threat-detection-service/)
+- [Google Maps is getting geospatial AR content later this year](https://techcrunch.com/2024/05/15/google-maps-is-getting-geospatial-ar-content-later-this-year/)
+- [Google’s new Private Space feature is like Incognito Mode for Android](https://techcrunch.com/2024/05/15/googles-new-private-space-feature-is-like-incognito-mode-for-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
