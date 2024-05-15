@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Matt Garman taking over as CEO with AWS at crossroads](https://techcrunch.com/2024/05/15/matt-garman-taking-over-as-ceo-with-aws-at-crossroads/)
+- [To better predict volcanic eruptions, you have to dig deep — very deep](https://www.space.com/improving-volcanic-eruption-predictions)
+- [Google still hasn’t fixed Gemini’s biased image generator](https://techcrunch.com/2024/05/15/google-still-hasnt-fixed-geminis-biased-image-generator/)
 - [Where did Earth&#39;s water come from? This ancient asteroid family may help us find out](https://www.space.com/ancient-asteroid-family-erigones-earth-water-solar-system)
 - [Wow! Satellite views International Space Station from only 43 miles away &lpar;photo&rpar;](https://www.space.com/international-space-station-satellite-photo-heo-robotics)
-- [Google’s call-scanning AI could dial up censorship by default, privacy experts warn](https://techcrunch.com/2024/05/15/googles-call-scanning-ai-could-dial-up-censorship-by-default-privacy-experts-warn/)
-- [The top AI announcements from Google I/O](https://techcrunch.com/2024/05/15/the-top-ai-announcements-from-google-i-o/)
-- [Uber has a new way to solve the concert traffic problem](https://techcrunch.com/2024/05/15/uber-has-a-new-way-to-solve-the-concert-traffic-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
