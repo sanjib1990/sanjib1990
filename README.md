@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Berlin-based trawa raises €10M to use AI to make buying renewable energy easier for SMEs](https://techcrunch.com/2024/05/15/berlin-based-trawa-raises-e10m-to-use-ai-to-make-buying-renewable-energy-easier-for-smes/)
+- [Lydia, the French payments app with 8 million users, launches mobile banking app Sumeria](https://techcrunch.com/2024/05/15/lydia-the-french-social-payment-app-with-8-million-users-launches-mobile-banking-app-sumeria/)
 - [Shipping logistics startup Harbor Lab raises $16M Series A led by Atomico](https://techcrunch.com/2024/05/15/shipping-logistics-startup-harbor-lab-raises-16m-series-a-led-by-atomico/)
 - [AWS confirms will launch European ‘sovereign cloud’ in Germany by 2025, plans €7.8B investment over 15 years](https://techcrunch.com/2024/05/14/aws-confirms-european-sovereign-cloud-to-launch-in-germany-by-2025-plans-e7-8b-investment-over-15-years/)
 - [Indian insurance startup Go Digit raises $141M from anchor investors ahead of IPO](https://techcrunch.com/2024/05/14/indian-insurance-startup-go-digit-raises-141m-from-anchor-investors-ahead-of-ipo/)
-- [Food VC Peakbridge has new $187M fund to transform future of food, like lab-made cocoa](https://techcrunch.com/2024/05/14/peakbridge-187m-venture-fund-foodtech/)
-- [Accion’s new $152.5M fund will back financial institutions serving small businesses globally](https://techcrunch.com/2024/05/14/accions-new-152-5m-fund-will-back-financial-institutions-serving-small-businesses-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
