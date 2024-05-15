@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accion’s new $152.5M fund will back financial institutions serving small businesses globally](https://techcrunch.com/2024/05/14/accions-new-152-5m-fund-will-back-financial-institutions-serving-small-businesses-globally/)
+- [Threads finally starts its own fact-checking program](https://techcrunch.com/2024/05/14/threads-finally-starts-its-own-fact-checking-program/)
 - [Looking Glass launches new 3D displays](https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/)
 - [Ilya Sutskever, OpenAI co-founder and longtime chief scientist, departs](https://techcrunch.com/2024/05/14/ilya-sutskever-openai-co-founder-and-longtime-chief-scientist-departs/)
 - [Intuitive Machines wants to help NASA return samples from Mars](https://techcrunch.com/2024/05/14/intuitive-machines-wants-to-help-nasa-return-samples-from-mars/)
-- [Google adds ‘Web’ search filter for showing old-school text links as AI rolls out](https://techcrunch.com/2024/05/14/google-adds-web-search-filter-for-showing-old-school-text-links-as-ai-rolls-out/)
-- [Blue Origin to resume crewed New Shepard launches on May 19](https://techcrunch.com/2024/05/14/blue-origin-to-resume-crewed-new-shepard-launches-on-may-19/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
