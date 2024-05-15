@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic hires Instagram co-founder as head of product](https://techcrunch.com/2024/05/15/anthropic-hires-instagram-co-founder-as-head-of-product/)
+- [Venture firms form alliance to standardize data collection](https://techcrunch.com/2024/05/15/venture-firms-form-alliance-to-standardize-data-collection/)
+- [Supernova-filled galaxy dazzles in new Hubble Telescope image](https://www.space.com/supernova-galaxy-hubble-telescope-image)
+- [Alkira connects with $100M for a solution that connects your clouds](https://techcrunch.com/2024/05/15/alkira-connects-with-100m-for-a-solution-that-connects-your-clouds/)
 - [Orange Charger thinks a $750 outlet will solve EV charging for apartment dwellers](https://techcrunch.com/2024/05/15/orange-charger-thinks-a-750-outlet-will-solve-ev-charging-for-apartment-dwellers/)
-- [NASA details plan to build a levitating robot train on the moon](https://www.space.com/nasa-levitating-robotic-moon-train)
-- [Embedded accounting startup Layer secures $2.3M toward goal of replacing Quickbooks](https://techcrunch.com/2024/05/15/embedded-accounting-layer-2-3m-quickbooks/)
-- [Weka raises $140M as the AI boom bolsters data platforms](https://techcrunch.com/2024/05/15/weka-raises-140m-as-the-ai-boom-bolsters-data-platforms/)
-- [How NASA&#39;s Ingenuity helicopter opened the Mars skies to exploration](https://www.space.com/mars-helicopter-ingenuity-opened-red-planet-skies-exploration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
