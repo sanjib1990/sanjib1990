@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet PayHOA, a profitable and once-bootstrapped SaaS startup that just landed a $27.5M Series A](https://techcrunch.com/2024/05/15/meet-payhoa-a-profitable-and-once-bootstrapped-hoa-software-startup-that-just-landed-a-27-5m-series-a/)
+- [Restaurant365 orders in $175M at $1B+ valuation to supersize its food service software stack](https://techcrunch.com/2024/05/15/restaurant365-orders-in-175m-at-a-1b-valuation-to-supersize-its-food-service-software-stack/)
+- [Portuguese VC firm Shilling launches €50M opportunity fund to back growth-stage startups](https://techcrunch.com/2024/05/15/portuguese-vc-firm-shilling-launches-e50m-opportunity-fund-to-back-growth-stage-startups/)
 - [Artemis 2 astronauts simulated a day in the life on their moon mission. Here&#39;s what they learned &lpar;exclusive&rpar;](https://www.space.com/artemis-2-orion-spacecraft-moon-day-in-life)
 - [LanceDB, which counts Midjourney as a customer, is building databases for multimodal AI](https://techcrunch.com/2024/05/15/lancedb-which-counts-midjourney-as-a-customer-is-building-databases-for-multimodal-ai/)
-- [Berlin-based trawa raises €10M to use AI to make buying renewable energy easier for SMEs](https://techcrunch.com/2024/05/15/berlin-based-trawa-raises-e10m-to-use-ai-to-make-buying-renewable-energy-easier-for-smes/)
-- [Lydia, the French payments app with 8 million users, launches mobile banking app Sumeria](https://techcrunch.com/2024/05/15/lydia-the-french-social-payment-app-with-8-million-users-launches-mobile-banking-app-sumeria/)
-- [Shipping logistics startup Harbor Lab raises $16M Series A led by Atomico](https://techcrunch.com/2024/05/15/shipping-logistics-startup-harbor-lab-raises-16m-series-a-led-by-atomico/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
