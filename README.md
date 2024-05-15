@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you forecast a solar storm? Space weather experts explain](https://www.space.com/space-weather-forecasts-noaa-solar-storms)
 - [Senate study proposes ‘at least’ $32B yearly for AI programs](https://techcrunch.com/2024/05/15/senate-study-proposes-at-least-32b-yearly-for-ai-programs/)
 - [Cosmic butterfly or interstellar burger? This planet-forming disk is the largest ever seen](https://www.space.com/cosmic-butterfly-planet-forming-disk-burger)
 - [FBI seizes hacking forum BreachForums — again](https://techcrunch.com/2024/05/15/fbi-seizes-hacking-forum-breachforums-again/)
 - [Netflix to take on Google and Amazon by building its own ad server](https://techcrunch.com/2024/05/15/netflix-in-house-advertising-technology-platform/)
-- [Matt Garman taking over as CEO with AWS at crossroads](https://techcrunch.com/2024/05/15/matt-garman-taking-over-as-ceo-with-aws-at-crossroads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
