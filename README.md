@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where did Earth&#39;s water come from? This ancient asteroid family may help us find out](https://www.space.com/ancient-asteroid-family-erigones-earth-water-solar-system)
+- [Wow! Satellite views International Space Station from only 43 miles away &lpar;photo&rpar;](https://www.space.com/international-space-station-satellite-photo-heo-robotics)
+- [Google’s call-scanning AI could dial up censorship by default, privacy experts warn](https://techcrunch.com/2024/05/15/googles-call-scanning-ai-could-dial-up-censorship-by-default-privacy-experts-warn/)
+- [The top AI announcements from Google I/O](https://techcrunch.com/2024/05/15/the-top-ai-announcements-from-google-i-o/)
 - [Uber has a new way to solve the concert traffic problem](https://techcrunch.com/2024/05/15/uber-has-a-new-way-to-solve-the-concert-traffic-problem/)
-- [Cotton candy exoplanet is 2nd lightest planet ever found](https://www.space.com/exoplanet-2nd-lightest-cotton-candy)
-- [Google takes aim at Android malware with an AI-powered live threat detection service](https://techcrunch.com/2024/05/15/google-takes-aim-at-android-malware-with-an-ai-powered-live-threat-detection-service/)
-- [Google Maps is getting geospatial AR content later this year](https://techcrunch.com/2024/05/15/google-maps-is-getting-geospatial-ar-content-later-this-year/)
-- [Google’s new Private Space feature is like Incognito Mode for Android](https://techcrunch.com/2024/05/15/googles-new-private-space-feature-is-like-incognito-mode-for-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
