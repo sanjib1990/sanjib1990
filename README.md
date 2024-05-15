@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ilya Sutskever, OpenAI co-founder and longtime chief scientist, departs](https://techcrunch.com/2024/05/14/ilya-sutskever-openai-co-founder-and-longtime-chief-scientist-departs/)
+- [Intuitive Machines wants to help NASA return samples from Mars](https://techcrunch.com/2024/05/14/intuitive-machines-wants-to-help-nasa-return-samples-from-mars/)
+- [Google adds ‘Web’ search filter for showing old-school text links as AI rolls out](https://techcrunch.com/2024/05/14/google-adds-web-search-filter-for-showing-old-school-text-links-as-ai-rolls-out/)
 - [Blue Origin to resume crewed New Shepard launches on May 19](https://techcrunch.com/2024/05/14/blue-origin-to-resume-crewed-new-shepard-launches-on-may-19/)
 - [Google is building its Gemini Nano AI model into Chrome on the desktop](https://techcrunch.com/2024/05/14/google-is-building-its-gemini-nano-ai-model-into-chrome-on-the-desktop/)
-- [Satellite images of Rafah illustrate Palestinians fleeing the city](https://www.space.com/satellite-images-rafah-israel-gaza)
-- [Google mentioned ‘AI’ 120+ times during its I/O keynote](https://techcrunch.com/2024/05/14/google-mentioned-ai-120-times-during-its-i-o-keynote/)
-- [Google launches Firebase Genkit, a new open source framework for building AI-powered apps](https://techcrunch.com/2024/05/14/google-launches-firebase-genkit-a-new-open-source-framework-for-building-ai-powered-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
