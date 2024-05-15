@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 astronauts simulated a day in the life on their moon mission. Here&#39;s what they learned &lpar;exclusive&rpar;](https://www.space.com/artemis-2-orion-spacecraft-moon-day-in-life)
+- [LanceDB, which counts Midjourney as a customer, is building databases for multimodal AI](https://techcrunch.com/2024/05/15/lancedb-which-counts-midjourney-as-a-customer-is-building-databases-for-multimodal-ai/)
 - [Berlin-based trawa raises €10M to use AI to make buying renewable energy easier for SMEs](https://techcrunch.com/2024/05/15/berlin-based-trawa-raises-e10m-to-use-ai-to-make-buying-renewable-energy-easier-for-smes/)
 - [Lydia, the French payments app with 8 million users, launches mobile banking app Sumeria](https://techcrunch.com/2024/05/15/lydia-the-french-social-payment-app-with-8-million-users-launches-mobile-banking-app-sumeria/)
 - [Shipping logistics startup Harbor Lab raises $16M Series A led by Atomico](https://techcrunch.com/2024/05/15/shipping-logistics-startup-harbor-lab-raises-16m-series-a-led-by-atomico/)
-- [AWS confirms will launch European ‘sovereign cloud’ in Germany by 2025, plans €7.8B investment over 15 years](https://techcrunch.com/2024/05/14/aws-confirms-european-sovereign-cloud-to-launch-in-germany-by-2025-plans-e7-8b-investment-over-15-years/)
-- [Indian insurance startup Go Digit raises $141M from anchor investors ahead of IPO](https://techcrunch.com/2024/05/14/indian-insurance-startup-go-digit-raises-141m-from-anchor-investors-ahead-of-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
