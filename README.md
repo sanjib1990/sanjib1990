@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian insurance startup Go Digit raises $141M from anchor investors ahead of IPO](https://techcrunch.com/2024/05/14/indian-insurance-startup-go-digit-raises-141m-from-anchor-investors-ahead-of-ipo/)
 - [Food VC Peakbridge has new $187M fund to transform future of food, like lab-made cocoa](https://techcrunch.com/2024/05/14/peakbridge-187m-venture-fund-foodtech/)
 - [Accion’s new $152.5M fund will back financial institutions serving small businesses globally](https://techcrunch.com/2024/05/14/accions-new-152-5m-fund-will-back-financial-institutions-serving-small-businesses-globally/)
 - [Threads finally starts its own fact-checking program](https://techcrunch.com/2024/05/14/threads-finally-starts-its-own-fact-checking-program/)
 - [Looking Glass launches new 3D displays](https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/)
-- [Ilya Sutskever, OpenAI co-founder and longtime chief scientist, departs](https://techcrunch.com/2024/05/14/ilya-sutskever-openai-co-founder-and-longtime-chief-scientist-departs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
