@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to become an astrobiologist in new issue of NASA&#39;s graphic novel series](https://www.space.com/nasa-astrobiology-graphic-novel)
+- [Apple announces new accessibility features for iPhone and iPad users](https://techcrunch.com/2024/05/15/apple-accessibility-features-2024/)
 - [Milky Way&#39;s halo is filled with &#39;magnetic donuts&#39; as wide as 100,000 light-years](https://www.space.com/milky-way-halo-magnetic-donuts)
 - [Startup Blueprint: TC Disrupt 2024 Builders Stage agenda sneak peek!](https://techcrunch.com/2024/05/15/startup-blueprint-tc-disrupt-2024-builders-stage-agenda-sneak-peek/)
 - [Earth-size planet discovered around cool red dwarf star shares its name with a biscuit](https://www.space.com/earth-size-planet-speculoos-3b)
-- [Anthropic hires Instagram co-founder as head of product](https://techcrunch.com/2024/05/15/anthropic-hires-instagram-co-founder-as-head-of-product/)
-- [Venture orgs form alliance to standardize data collection](https://techcrunch.com/2024/05/15/venture-firms-form-alliance-to-standardize-data-collection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
