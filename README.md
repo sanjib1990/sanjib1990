@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Senate study proposes ‘at least’ $32B yearly for AI programs](https://techcrunch.com/2024/05/15/senate-study-proposes-at-least-32b-yearly-for-ai-programs/)
+- [Cosmic butterfly or interstellar burger? This planet-forming disk is the largest ever seen](https://www.space.com/cosmic-butterfly-planet-forming-disk-burger)
+- [FBI seizes hacking forum BreachForums — again](https://techcrunch.com/2024/05/15/fbi-seizes-hacking-forum-breachforums-again/)
+- [Netflix to take on Google and Amazon by building its own ad server](https://techcrunch.com/2024/05/15/netflix-in-house-advertising-technology-platform/)
 - [Matt Garman taking over as CEO with AWS at crossroads](https://techcrunch.com/2024/05/15/matt-garman-taking-over-as-ceo-with-aws-at-crossroads/)
-- [To better predict volcanic eruptions, you have to dig deep — very deep](https://www.space.com/improving-volcanic-eruption-predictions)
-- [Google still hasn’t fixed Gemini’s biased image generator](https://techcrunch.com/2024/05/15/google-still-hasnt-fixed-geminis-biased-image-generator/)
-- [Where did Earth&#39;s water come from? This ancient asteroid family may help us find out](https://www.space.com/ancient-asteroid-family-erigones-earth-water-solar-system)
-- [Wow! Satellite views International Space Station from only 43 miles away &lpar;photo&rpar;](https://www.space.com/international-space-station-satellite-photo-heo-robotics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
