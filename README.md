@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet PayHOA, a profitable and once-bootstrapped SaaS startup that just landed a $27.5M Series A](https://techcrunch.com/2024/05/15/meet-payhoa-a-profitable-and-once-bootstrapped-hoa-software-startup-that-just-landed-a-27-5m-series-a/)
-- [Restaurant365 orders in $175M at $1B+ valuation to supersize its food service software stack](https://techcrunch.com/2024/05/15/restaurant365-orders-in-175m-at-a-1b-valuation-to-supersize-its-food-service-software-stack/)
-- [Portuguese VC firm Shilling launches €50M opportunity fund to back growth-stage startups](https://techcrunch.com/2024/05/15/portuguese-vc-firm-shilling-launches-e50m-opportunity-fund-to-back-growth-stage-startups/)
-- [Artemis 2 astronauts simulated a day in the life on their moon mission. Here&#39;s what they learned &lpar;exclusive&rpar;](https://www.space.com/artemis-2-orion-spacecraft-moon-day-in-life)
-- [LanceDB, which counts Midjourney as a customer, is building databases for multimodal AI](https://techcrunch.com/2024/05/15/lancedb-which-counts-midjourney-as-a-customer-is-building-databases-for-multimodal-ai/)
+- [Orange Charger thinks a $750 outlet will solve EV charging for apartment dwellers](https://techcrunch.com/2024/05/15/orange-charger-thinks-a-750-outlet-will-solve-ev-charging-for-apartment-dwellers/)
+- [NASA details plan to build a levitating robot train on the moon](https://www.space.com/nasa-levitating-robotic-moon-train)
+- [Embedded accounting startup Layer secures $2.3M toward goal of replacing Quickbooks](https://techcrunch.com/2024/05/15/embedded-accounting-layer-2-3m-quickbooks/)
+- [Weka raises $140M as the AI boom bolsters data platforms](https://techcrunch.com/2024/05/15/weka-raises-140m-as-the-ai-boom-bolsters-data-platforms/)
+- [How NASA&#39;s Ingenuity helicopter opened the Mars skies to exploration](https://www.space.com/mars-helicopter-ingenuity-opened-red-planet-skies-exploration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
