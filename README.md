@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Another glorious battle for AI dominance… GPT-4o vs Google I/O](https://www.youtube.com/watch?v=qrvhmo5LSOQ)
 - [Economics and Real World Impact with Dr. Sara Ellison &amp; Prof. Esther Duflo](https://www.youtube.com/watch?v=b87E-wbR-nI)
 - [How Ray Tracing Works - Computerphile](https://www.youtube.com/watch?v=ezXGTRSx1g8)
 - [Lecture 1: Introduction to Thermodynamics](https://www.youtube.com/watch?v=kd_6bwynBj8)
 - [Lecture 4: Heat Engines and Energy Conversion Efficiency](https://www.youtube.com/watch?v=tfY40mAOzn8)
-- [Lecture 9: Case Studies - Specific Heats and Phase Transformations](https://www.youtube.com/watch?v=TYW02eTlc-8)
 <!-- YOUTUBE:END -->
 
 ---
