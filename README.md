@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Milky Way&#39;s halo is filled with &#39;magnetic donuts&#39; as wide as 100,000 light-years](https://www.space.com/milky-way-halo-magnetic-donuts)
+- [Startup Blueprint: TC Disrupt 2024 Builders Stage agenda sneak peek!](https://techcrunch.com/2024/05/15/startup-blueprint-tc-disrupt-2024-builders-stage-agenda-sneak-peek/)
+- [Earth-size planet discovered around cool red dwarf star shares its name with a biscuit](https://www.space.com/earth-size-planet-speculoos-3b)
 - [Anthropic hires Instagram co-founder as head of product](https://techcrunch.com/2024/05/15/anthropic-hires-instagram-co-founder-as-head-of-product/)
-- [Venture firms form alliance to standardize data collection](https://techcrunch.com/2024/05/15/venture-firms-form-alliance-to-standardize-data-collection/)
-- [Supernova-filled galaxy dazzles in new Hubble Telescope image](https://www.space.com/supernova-galaxy-hubble-telescope-image)
-- [Alkira connects with $100M for a solution that connects your clouds](https://techcrunch.com/2024/05/15/alkira-connects-with-100m-for-a-solution-that-connects-your-clouds/)
-- [Orange Charger thinks a $750 outlet will solve EV charging for apartment dwellers](https://techcrunch.com/2024/05/15/orange-charger-thinks-a-750-outlet-will-solve-ev-charging-for-apartment-dwellers/)
+- [Venture orgs form alliance to standardize data collection](https://techcrunch.com/2024/05/15/venture-firms-form-alliance-to-standardize-data-collection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
