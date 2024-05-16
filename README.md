@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI inks deal to train AI on Reddit data](https://techcrunch.com/2024/05/16/openai-inks-deal-to-train-ai-on-reddit-data/)
+- [Blue Origin will launch these 6 passengers May 19, on its 1st crewed mission since 2022](https://www.space.com/blue-origin-ns-25-meet-the-crew)
+- [SpaceX stacks Starship megarocket ahead of 4th test flight &lpar;video, photos&rpar;](https://www.space.com/spacex-stacks-starship-fourth-test-flight-video)
 - [Lithuania becomes 40th nation to sign Artemis Accords for moon exploration](https://www.space.com/lithuania-40th-nation-sign-artemis-accords-moon-exploration)
 - [Doctor Who &#39;Space Babies&#39;: Why is The Doctor alone in the universe?](https://www.space.com/doctor-who-space-babies-last-of-the-time-lords)
-- [Japanese-European spacecraft bound for Mercury weakened by thruster glitch](https://www.space.com/bepicolombo-spacecraft-mercury-thruster-glitch)
-- [Stephen Hawking Medal 2024 winners announced at star-studded Starmus VII festival](https://www.space.com/stephen-hawking-medal-2024-winners-announced)
-- [X pushes more users to Communities](https://techcrunch.com/2024/05/16/x-pushes-more-users-to-communities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
