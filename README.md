@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2024: Here’s everything Google just announced](https://techcrunch.com/2024/05/15/google-i-o-2024-everything-announced-so-far/)
 - [Huge, solar flare-launching sunspot has rotated away from Earth. But will it return?](https://www.space.com/sunspot-ar3664-will-solar-storms-return)
 - [How do you forecast a solar storm? Space weather experts explain](https://www.space.com/space-weather-forecasts-noaa-solar-storms)
 - [Senate study proposes ‘at least’ $32B yearly for AI programs](https://techcrunch.com/2024/05/15/senate-study-proposes-at-least-32b-yearly-for-ai-programs/)
 - [Cosmic butterfly or interstellar burger? This planet-forming disk is the largest ever seen](https://www.space.com/cosmic-butterfly-planet-forming-disk-burger)
-- [FBI seizes hacking forum BreachForums — again](https://techcrunch.com/2024/05/15/fbi-seizes-hacking-forum-breachforums-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
