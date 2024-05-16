@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s expands hands-free and eyes-free interfaces on Android](https://techcrunch.com/2024/05/16/googles-expands-hands-free-and-eyes-free-interfaces-on-android/)
-- [Is dark matter&#39;s main rival theory dead? There&#39;s bad news from the Cassini spacecraft and other recent tests](https://www.space.com/dark-matter-main-rival-theory-dead-cassini)
-- [Hacker claims theft of India’s Samco account data](https://techcrunch.com/2024/05/16/hacker-claims-theft-samco-account-data/)
-- [James Webb Space Telescope spots most distant and oldest black hole collision ever seen &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-oldest-most-distant-black-hole-collision)
-- [Ireland privacy watchdog confirms Dell data breach investigation](https://techcrunch.com/2024/05/16/ireland-privacy-watchdog-confirms-dell-data-breach-investigation/)
+- [Pentagon wants commercial &#39;space reserve&#39; to support military satellites in orbit](https://www.space.com/pentagon-commercial-space-reserve-military-satellites)
+- [Tesla keeps cutting jobs and the feds probe Waymo](https://techcrunch.com/2024/05/16/tesla-keeps-cutting-jobs-and-the-feds-probe-waymo/)
+- [Sony Music warns tech companies over ‘unauthorized’ use of its content to train AI](https://techcrunch.com/2024/05/16/sony-music-warns-tech-companies-over-unauthorized-use-of-its-content-to-train-ai/)
+- [GrubMarket buys Butter to give its food distribution tech an AI boost](https://techcrunch.com/2024/05/16/grubmarket-buys-butter-to-give-its-food-distribution-tech-an-ai-boost/)
+- [Bolt founder Ryan Beslow wants to settle an investor lawsuit by returning $37 million worth of shares](https://techcrunch.com/2024/05/16/bolt-founder-investor-lawsuit-stock-repayment-proposed-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
