@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India makes breakthrough by test-firing new 3D-printed rocket engine &lpar;photo&rpar;](https://www.space.com/india-test-fires-3d-printed-rocket-engine)
+- [Agora raises $34B Series B to keep building the Carta for real estate](https://techcrunch.com/2024/05/16/agora-34b-raises-seriesb-carta-real-estate/)
 - [In the Milky Way, 3 intruder stars are &#39;on the run&#39; — in the wrong direction](https://www.space.com/stars-on-the-run-sass-mit-study-milky-way)
 - [Poshmark’s ‘Promoted Closet’ tool lets sellers boost all their listings at once](https://techcrunch.com/2024/05/16/poshmark-promoted-closet-marketing-tool/)
-- [YC-backed Recall.ai gets $10M Series A to help companies use virtual meeting data](https://techcrunch.com/2024/05/16/yc-backed-recall-ai-gets-10m-series-a-to-help-companies-utilize-virtual-meeting-data/)
-- [Colab’s collaborative tools for engineers line up $21M in new funding](https://techcrunch.com/2024/05/16/colab-is-building-collaborative-tools-for-mechanical-engineers/)
-- [Reddit reintroduces its awards system](https://techcrunch.com/2024/05/16/reddit-reintroduces-its-awards-system/)
+- [Google adds Gemini to its Education suite](https://techcrunch.com/2024/05/16/google-adds-gemini-to-its-education-suite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
