@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stephen Hawking Medal 2024 winners announced at star-studded Starmus VII festival](https://www.space.com/stephen-hawking-medal-2024-winners-announced)
+- [X pushes more users to Communities](https://techcrunch.com/2024/05/16/x-pushes-more-users-to-communities/)
 - [India&#39;s space agency has been carefully watching our sun&#39;s solar tantrums](https://www.space.com/india-space-agency-isro-solar-activity-moon-orbiter-chandrayaan-2-aditya-l1-sun)
 - [Mark Zuckerberg’s makeover: midlife crisis or carefully crafted rebrand?](https://techcrunch.com/2024/05/16/mark-zuckerbergs-makeover-midlife-crisis-or-carefully-crafted-rebrand/)
 - [Watch the 1st trailer for &#39;Dune: Prophecy&#39; prequel series &lpar;video&rpar;](https://www.space.com/dune-prophecy-first-trailer)
-- [A massive, icy Mars crater stares up at a Red Planet orbiter &lpar;image&rpar;](https://www.space.com/massive-mars-crater-exomars-orbiter-photo)
-- [Strava taps AI to weed out leaderboard cheats; unveils ‘family’ plan, dark mode and more](https://techcrunch.com/2024/05/16/strava-taps-ai-to-weed-out-leaderboard-cheats-unveils-family-plan-dark-mode-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
