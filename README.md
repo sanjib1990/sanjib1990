@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A US trustee wants troubled fintech Synapse to be liquidated via Chapter 7 bankruptcy, cites ‘gross mismanagement’](https://techcrunch.com/2024/05/16/a-us-trustee-wants-troubled-fintech-synapse-to-be-liquidated-via-chapter-7-bankruptcy-cites-gross-mismanagement/)
+- [Seraphim’s latest space accelerator welcomes nine companies](https://techcrunch.com/2024/05/16/seraphims-latest-space-accelerator-welcomes-nine-companies/)
 - [OpenAI inks deal to train AI on Reddit data](https://techcrunch.com/2024/05/16/openai-inks-deal-to-train-ai-on-reddit-data/)
 - [Blue Origin will launch these 6 passengers May 19, on its 1st crewed mission since 2022](https://www.space.com/blue-origin-ns-25-meet-the-crew)
 - [SpaceX stacks Starship megarocket ahead of 4th test flight &lpar;video, photos&rpar;](https://www.space.com/spacex-stacks-starship-fourth-test-flight-video)
-- [Lithuania becomes 40th nation to sign Artemis Accords for moon exploration](https://www.space.com/lithuania-40th-nation-sign-artemis-accords-moon-exploration)
-- [Doctor Who &#39;Space Babies&#39;: Why is The Doctor alone in the universe?](https://www.space.com/doctor-who-space-babies-last-of-the-time-lords)
 <!-- BLOG-POST-LIST:END -->
 
 ---
