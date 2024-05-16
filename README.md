@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dusty galaxy looks like a cosmic net in gorgeous new Hubble Telescope photo](https://www.space.com/lenticular-galaxy-ngc-4753-hubble-photo)
 - [Temu accused of breaching EU’s DSA in bundle of consumer complaints](https://techcrunch.com/2024/05/15/temu-accused-of-breaching-eus-dsa-in-bundle-of-consumer-complaints/)
 - [Google I/O 2024: Here’s everything Google just announced](https://techcrunch.com/2024/05/15/google-i-o-2024-everything-announced-so-far/)
 - [Huge, solar flare-launching sunspot has rotated away from Earth. But will it return?](https://www.space.com/sunspot-ar3664-will-solar-storms-return)
 - [How do you forecast a solar storm? Space weather experts explain](https://www.space.com/space-weather-forecasts-noaa-solar-storms)
-- [Senate study proposes ‘at least’ $32B yearly for AI programs](https://techcrunch.com/2024/05/15/senate-study-proposes-at-least-32b-yearly-for-ai-programs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
