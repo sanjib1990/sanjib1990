@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Khosla Ventures, Pear VC triple down on Honey Homes, a smart way to hire a handyman](https://techcrunch.com/2024/05/16/khosla-ventures-pear-vc-triple-down-on-honey-homes-a-smart-way-to-employ-a-handyman/)
+- [TikTok tests 60-minute video uploads as it continues to take on YouTube](https://techcrunch.com/2024/05/16/tiktok-upload-60-minute-videos/)
+- [DxO PhotoLab 7 review](https://www.space.com/dxo-photolab-7-review)
+- [Flock Safety’s solar-powered cameras could make surveilliance more widespread](https://techcrunch.com/2024/05/16/oh-great-i-feel-safer-already/)
 - [India makes breakthrough by test-firing new 3D-printed rocket engine &lpar;photo&rpar;](https://www.space.com/india-test-fires-3d-printed-rocket-engine)
-- [Agora raises $34B Series B to keep building the Carta for real estate](https://techcrunch.com/2024/05/16/agora-34b-raises-seriesb-carta-real-estate/)
-- [In the Milky Way, 3 intruder stars are &#39;on the run&#39; — in the wrong direction](https://www.space.com/stars-on-the-run-sass-mit-study-milky-way)
-- [Poshmark’s ‘Promoted Closet’ tool lets sellers boost all their listings at once](https://techcrunch.com/2024/05/16/poshmark-promoted-closet-marketing-tool/)
-- [Google adds Gemini to its Education suite](https://techcrunch.com/2024/05/16/google-adds-gemini-to-its-education-suite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
