@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cannabis and gaming payments startup Aeropay is now offering an alternative to Mastercard and Visa](https://techcrunch.com/2024/05/16/cannabis-and-gaming-payments-startup-aeropay-is-now-offering-an-alternative-to-mastercard-and-visa/)
+- [EU opens child safety probes of Facebook and Instagram, citing addictive design concerns](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
+- [Forget EVs: Why Bedrock Materials is targeting gas-powered cars for its first sodium-ion batteries](https://techcrunch.com/2024/05/16/forget-evs-why-bedrock-materials-is-targeting-gas-powered-cars-for-its-first-sodium-ion-batteries/)
+- [Thoma Bravo’s LogRhythm merges with Exabeam in more cybersecurity consolidation](https://techcrunch.com/2024/05/16/thoma-bravos-logrhythm-merges-with-exabeam-in-more-cybersecurity-consolidation/)
 - [Dusty galaxy looks like a cosmic net in gorgeous new Hubble Telescope photo](https://www.space.com/lenticular-galaxy-ngc-4753-hubble-photo)
-- [Temu accused of breaching EU’s DSA in bundle of consumer complaints](https://techcrunch.com/2024/05/15/temu-accused-of-breaching-eus-dsa-in-bundle-of-consumer-complaints/)
-- [Google I/O 2024: Here’s everything Google just announced](https://techcrunch.com/2024/05/15/google-i-o-2024-everything-announced-so-far/)
-- [Huge, solar flare-launching sunspot has rotated away from Earth. But will it return?](https://www.space.com/sunspot-ar3664-will-solar-storms-return)
-- [How do you forecast a solar storm? Space weather experts explain](https://www.space.com/space-weather-forecasts-noaa-solar-storms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
