@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU ‘closely’ monitoring X in wake of Fico shooting as DSA disinfo probe rumbles on](https://techcrunch.com/2024/05/16/eu-closely-monitoring-x-in-wake-of-fico-shooting-as-dsa-disinfo-probe-rumbles-on/)
+- [Spoor uses AI to save birds from wind turbines](https://techcrunch.com/2024/05/16/spoor-uses-ai-to-save-birds-from-wind-turbines/)
+- [&#39;Star Trek: Discovery&#39; season 5 episode 8 &#39;Labyrinths&#39; is a fun, format-following installment](https://www.space.com/star-trek-discovery-season-5-episode-8-review)
 - [Cannabis and gaming payments startup Aeropay is now offering an alternative to Mastercard and Visa](https://techcrunch.com/2024/05/16/cannabis-and-gaming-payments-startup-aeropay-is-now-offering-an-alternative-to-mastercard-and-visa/)
 - [EU opens child safety probes of Facebook and Instagram, citing addictive design concerns](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
-- [Forget EVs: Why Bedrock Materials is targeting gas-powered cars for its first sodium-ion batteries](https://techcrunch.com/2024/05/16/forget-evs-why-bedrock-materials-is-targeting-gas-powered-cars-for-its-first-sodium-ion-batteries/)
-- [Thoma Bravo’s LogRhythm merges with Exabeam in more cybersecurity consolidation](https://techcrunch.com/2024/05/16/thoma-bravos-logrhythm-merges-with-exabeam-in-more-cybersecurity-consolidation/)
-- [Dusty galaxy looks like a cosmic net in gorgeous new Hubble Telescope photo](https://www.space.com/lenticular-galaxy-ngc-4753-hubble-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
