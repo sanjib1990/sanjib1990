@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lithuania becomes 40th nation to sign Artemis Accords for moon exploration](https://www.space.com/lithuania-40th-nation-sign-artemis-accords-moon-exploration)
+- [Doctor Who &#39;Space Babies&#39;: Why is The Doctor alone in the universe?](https://www.space.com/doctor-who-space-babies-last-of-the-time-lords)
+- [Japanese-European spacecraft bound for Mercury weakened by thruster glitch](https://www.space.com/bepicolombo-spacecraft-mercury-thruster-glitch)
 - [Stephen Hawking Medal 2024 winners announced at star-studded Starmus VII festival](https://www.space.com/stephen-hawking-medal-2024-winners-announced)
 - [X pushes more users to Communities](https://techcrunch.com/2024/05/16/x-pushes-more-users-to-communities/)
-- [India&#39;s space agency has been carefully watching our sun&#39;s solar tantrums](https://www.space.com/india-space-agency-isro-solar-activity-moon-orbiter-chandrayaan-2-aditya-l1-sun)
-- [Mark Zuckerberg’s makeover: midlife crisis or carefully crafted rebrand?](https://techcrunch.com/2024/05/16/mark-zuckerbergs-makeover-midlife-crisis-or-carefully-crafted-rebrand/)
-- [Watch the 1st trailer for &#39;Dune: Prophecy&#39; prequel series &lpar;video&rpar;](https://www.space.com/dune-prophecy-first-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
