@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A massive, icy Mars crater stares up at a Red Planet orbiter &lpar;image&rpar;](https://www.space.com/massive-mars-crater-exomars-orbiter-photo)
+- [Strava taps AI to weed out leaderboard cheats; unveils ‘family’ plan, dark mode and more](https://techcrunch.com/2024/05/16/strava-taps-ai-to-weed-out-leaderboard-cheats-unveils-family-plan-dark-mode-and-more/)
+- [Astronauts fall over. Robotic limbs can help them back up.](https://techcrunch.com/2024/05/16/astronauts-fall-over-robotic-limbs-can-help-them-back-up/)
+- [Microsoft’s custom Cobalt chips will come to Azure next week](https://techcrunch.com/2024/05/16/microsofts-custom-cobalt-chips-will-come-to-azure-next-week/)
 - [Pentagon wants commercial &#39;space reserve&#39; to support military satellites in orbit](https://www.space.com/pentagon-commercial-space-reserve-military-satellites)
-- [Tesla keeps cutting jobs and the feds probe Waymo](https://techcrunch.com/2024/05/16/tesla-keeps-cutting-jobs-and-the-feds-probe-waymo/)
-- [Sony Music warns tech companies over ‘unauthorized’ use of its content to train AI](https://techcrunch.com/2024/05/16/sony-music-warns-tech-companies-over-unauthorized-use-of-its-content-to-train-ai/)
-- [GrubMarket buys Butter to give its food distribution tech an AI boost](https://techcrunch.com/2024/05/16/grubmarket-buys-butter-to-give-its-food-distribution-tech-an-ai-boost/)
-- [Bolt founder Ryan Beslow wants to settle an investor lawsuit by returning $37 million worth of shares](https://techcrunch.com/2024/05/16/bolt-founder-investor-lawsuit-stock-repayment-proposed-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
