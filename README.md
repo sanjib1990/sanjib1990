@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Khosla Ventures, Pear VC triple down on Honey Homes, a smart way to hire a handyman](https://techcrunch.com/2024/05/16/khosla-ventures-pear-vc-triple-down-on-honey-homes-a-smart-way-to-employ-a-handyman/)
-- [TikTok tests 60-minute video uploads as it continues to take on YouTube](https://techcrunch.com/2024/05/16/tiktok-upload-60-minute-videos/)
-- [DxO PhotoLab 7 review](https://www.space.com/dxo-photolab-7-review)
-- [Flock Safety’s solar-powered cameras could make surveilliance more widespread](https://techcrunch.com/2024/05/16/oh-great-i-feel-safer-already/)
-- [India makes breakthrough by test-firing new 3D-printed rocket engine &lpar;photo&rpar;](https://www.space.com/india-test-fires-3d-printed-rocket-engine)
+- [Google’s expands hands-free and eyes-free interfaces on Android](https://techcrunch.com/2024/05/16/googles-expands-hands-free-and-eyes-free-interfaces-on-android/)
+- [Is dark matter&#39;s main rival theory dead? There&#39;s bad news from the Cassini spacecraft and other recent tests](https://www.space.com/dark-matter-main-rival-theory-dead-cassini)
+- [Hacker claims theft of India’s Samco account data](https://techcrunch.com/2024/05/16/hacker-claims-theft-samco-account-data/)
+- [James Webb Space Telescope spots most distant and oldest black hole collision ever seen &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-oldest-most-distant-black-hole-collision)
+- [Ireland privacy watchdog confirms Dell data breach investigation](https://techcrunch.com/2024/05/16/ireland-privacy-watchdog-confirms-dell-data-breach-investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
