@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force is launching more missions than ever. Lawmakers worry America&#39;s spaceports can&#39;t keep up](https://www.space.com/space-force-spaceports-demand-us-congress)
+- [Startups Weekly: It’s the dawning of the age of AI — plus,  Musk is raging against the machine](https://techcrunch.com/2024/05/17/startups-weekly-its-the-dawning-of-the-age-of-ai-plus-musk-is-raging-against-the-machine/)
+- [IndieBio’s SF incubator lineup is making some wild biotech promises](https://techcrunch.com/2024/05/17/indiebios-sf-incubator-lineup-is-making-some-wild-biotech-promises/)
 - [China launches new mystery Shiyan satellite &lpar;video&rpar;](https://www.space.com/china-shiyan-satellite-launch-may-2024)
 - [Everything we know about Dune: Prophecy — Release date, plot, cast, &amp; more](https://www.space.com/everything-we-know-about-dune-prophecy)
-- [YouTube TV’s ‘multiview’ feature is now available on Android phones and tablets](https://techcrunch.com/2024/05/17/youtube-tvs-multiview-feature-available-android-phones-tablets/)
-- [Two students uncover security bug that could let millions do their laundry for free](https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/)
-- [OpenAI created a team to control ‘superintelligent’ AI — then let it wither, source says](https://techcrunch.com/2024/05/17/openai-created-a-team-to-control-superintelligent-ai-then-let-it-wither-source-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
