@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about Dune: Prophecy — Release date, plot, cast, &amp; more](https://www.space.com/everything-we-know-about-dune-prophecy)
+- [YouTube TV’s ‘multiview’ feature is now available on Android phones and tablets](https://techcrunch.com/2024/05/17/youtube-tvs-multiview-feature-available-android-phones-tablets/)
 - [Two students uncover security bug that could let millions do their laundry for free](https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/)
+- [OpenAI created a team to control ‘superintelligent’ AI —then let it wither, source says](https://techcrunch.com/2024/05/17/openai-created-a-team-to-control-superintelligent-ai-then-let-it-wither-source-says/)
 - [SpaceX Falcon 9 rocket launching Starlink satellites on record 21st flight tonight](https://www.space.com/spacex-starlink-21st-falcon-9-launch-may-2024)
-- [Harness the TechCrunch Effect: Host a Side Event at Disrupt 2024](https://techcrunch.com/2024/05/17/harness-the-techcrunch-effect-host-a-side-event-at-disrupt-2024/)
-- [Pitch Deck Teardown: Goodcarbon’s $5.5M seed deck](https://techcrunch.com/2024/05/17/sample-seed-pitch-deck-goodcarbon/)
-- [Slack under attack over sneaky AI training policy](https://techcrunch.com/2024/05/17/slack-under-attack-over-sneaky-ai-training-policy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
