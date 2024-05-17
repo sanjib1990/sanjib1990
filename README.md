@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack under attack over sneaky AI training policy](https://techcrunch.com/2024/05/17/slack-under-attack-over-sneaky-ai-training-policy/)
+- [NASA, ESA join forces on life-hunting ExoMars rover](https://www.space.com/nasa-esa-join-forces-exomars-rover-rosalind-franklin)
+- [Healthcare company WebTPA discloses breach affecting 2.5 million people](https://techcrunch.com/2024/05/17/healthcare-company-webtpa-discloses-breach-affecting-2-5-million-people/)
+- [Microsoft dodges UK antitrust scrutiny over its Mistral AI stake](https://techcrunch.com/2024/05/17/microsoft-dodges-uk-antitrust-scrutiny-over-its-mistral-ai-stake/)
 - [What time is Blue Origin&#39;s private NS-25 astronaut launch on May 19?](https://www.space.com/blue-origin-ns-25-astronaut-launch-what-time)
-- [Scientists are mapping Earth&#39;s rivers from space before climate change devastates our planet](https://www.space.com/climate-change-earth-mapping-nasa-rivers)
-- [Embedded finance is still trendy as accounting automation startup Ember partners with HSBC UK](https://techcrunch.com/2024/05/17/embedded-finance-is-still-trendy-as-accounting-automation-startup-ember-partners-with-hsbc-uk/)
-- [Junk from a SpaceX Dragon &#39;trunk&#39; may have crashed into a Canadian farmer&#39;s field &lpar;photos&rpar;](https://www.space.com/spacex-crew-dragon-trunk-space-debris-canada)
-- [Kudos lands $10M for an AI smart wallet that picks the best credit card for purchases](https://techcrunch.com/2024/05/17/kudos-ai-smart-wallet-10m-credit-card/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
