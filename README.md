@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is the &#39;Doctor Who&#39; villain Maestro? And what&#39;s their relationship with the Toymaker?](https://www.space.com/who-is-the-doctor-who-villain-maestro)
+- [Adobe comes after indie game emulator Delta for copying its logo](https://techcrunch.com/2024/05/17/adobe-comes-after-indie-game-emulator-delta-for-copying-its-logo/)
+- [Boeing&#39;s 1st Starliner astronaut launch delayed again, to May 25](https://www.space.com/boeing-starliner-first-astronaut-launch-delay-may-25)
 - [India&#39;s ambitious 2nd Mars mission to include a rover, helicopter, sky crane and a supersonic parachute](https://www.space.com/india-mangalyaan-2-mars-mission-rover-helicopter-sky-crane)
-- [Meta’s latest experiment copies BeReal and Snapchat’s core ideas](https://techcrunch.com/2024/05/17/metas-latest-experiment-copies-bereal-and-snapchats-core-ideas/)
-- [Massive sunspot that brought widespread auroras to Earth now targets Mars](https://www.space.com/sunspot-ar3664-mars-perseverance-rover)
-- [Here we go again — new sunspot regions emerge, strong solar flare recorded](https://www.space.com/x-flare-solar-activity-may-16)
-- [US Space Force is launching more missions than ever. Lawmakers worry America&#39;s spaceports can&#39;t keep up](https://www.space.com/space-force-spaceports-demand-us-congress)
+- [Meta’s latest experiment borrows from BeReal’s and Snapchat’s core ideas](https://techcrunch.com/2024/05/17/metas-latest-experiment-copies-bereal-and-snapchats-core-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
