@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I use this everyday &lpar;copy and paste in Terminal&rpar;](https://www.youtube.com/watch?v=aMzdeZ8vGXQ)
 - [mit3_020s21_lecture_25_1080p.mp4](https://www.youtube.com/watch?v=W2l72n_rWtY)
 - [mit3_020s21_lecture_12_1080p.mp4](https://www.youtube.com/watch?v=STbxOEP-MDA)
 - [monitor all your stuff RIGHT NOW!!](https://www.youtube.com/watch?v=-2yzXSIuC8o)
 - [Another glorious battle for AI dominance… GPT-4o vs Google I/O](https://www.youtube.com/watch?v=qrvhmo5LSOQ)
-- [Economics and Real World Impact with Dr. Sara Ellison &amp; Prof. Esther Duflo](https://www.youtube.com/watch?v=b87E-wbR-nI)
 <!-- YOUTUBE:END -->
 
 ---
