@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Junk from a SpaceX Dragon &#39;trunk&#39; may have crashed into a Canadian farmer&#39;s field &lpar;photos&rpar;](https://www.space.com/spacex-crew-dragon-trunk-space-debris-canada)
 - [Kudos lands $10M for an AI smart wallet that picks the best credit card for purchases](https://techcrunch.com/2024/05/17/kudos-ai-smart-wallet-10m-credit-card/)
 - [&#39;That&#39;s part of space exploration&#39;: Artemis 2 astronauts unfazed by moon mission delays &lpar;exclusive&rpar;](https://www.space.com/boeing-starliner-artemis-2-astronaut-launch-delay-part-of-space-exploration)
-- [Microsoft warned it could be fined billions by EU over missing GenAI risk info](https://techcrunch.com/2024/05/17/microsoft-warned-it-could-be-fined-billions-by-eu-over-missing-genai-risk-info/)
+- [EU warns Microsoft it could be fined billions over missing GenAI risk info](https://techcrunch.com/2024/05/17/microsoft-warned-it-could-be-fined-billions-by-eu-over-missing-genai-risk-info/)
 - [Autel EVO Max 4T drone review](https://www.space.com/autel-evo-max-4t-drone-review)
-- [NASA&#39;s Mars sample return mission is in trouble. Could a single SLS megarocket be the answer?](https://www.space.com/nasa-mars-sample-return-single-sls-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
