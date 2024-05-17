@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is Blue Origin&#39;s private NS-25 astronaut launch on May 19?](https://www.space.com/blue-origin-ns-25-astronaut-launch-what-time)
+- [Scientists are mapping Earth&#39;s rivers from space before climate change devastates our planet](https://www.space.com/climate-change-earth-mapping-nasa-rivers)
+- [Embedded finance is still trendy as accounting automation startup Ember partners with HSBC UK](https://techcrunch.com/2024/05/17/embedded-finance-is-still-trendy-as-accounting-automation-startup-ember-partners-with-hsbc-uk/)
 - [Junk from a SpaceX Dragon &#39;trunk&#39; may have crashed into a Canadian farmer&#39;s field &lpar;photos&rpar;](https://www.space.com/spacex-crew-dragon-trunk-space-debris-canada)
 - [Kudos lands $10M for an AI smart wallet that picks the best credit card for purchases](https://techcrunch.com/2024/05/17/kudos-ai-smart-wallet-10m-credit-card/)
-- [&#39;That&#39;s part of space exploration&#39;: Artemis 2 astronauts unfazed by moon mission delays &lpar;exclusive&rpar;](https://www.space.com/boeing-starliner-artemis-2-astronaut-launch-delay-part-of-space-exploration)
-- [EU warns Microsoft it could be fined billions over missing GenAI risk info](https://techcrunch.com/2024/05/17/microsoft-warned-it-could-be-fined-billions-by-eu-over-missing-genai-risk-info/)
-- [Autel EVO Max 4T drone review](https://www.space.com/autel-evo-max-4t-drone-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
