@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kudos lands $10M for an AI smart wallet that picks the best credit card for purchases](https://techcrunch.com/2024/05/17/kudos-ai-smart-wallet-10m-credit-card/)
+- [&#39;That&#39;s part of space exploration&#39;: Artemis 2 astronauts unfazed by moon mission delays &lpar;exclusive&rpar;](https://www.space.com/boeing-starliner-artemis-2-astronaut-launch-delay-part-of-space-exploration)
+- [Microsoft warned it could be fined billions by EU over missing GenAI risk info](https://techcrunch.com/2024/05/17/microsoft-warned-it-could-be-fined-billions-by-eu-over-missing-genai-risk-info/)
 - [Autel EVO Max 4T drone review](https://www.space.com/autel-evo-max-4t-drone-review)
 - [NASA&#39;s Mars sample return mission is in trouble. Could a single SLS megarocket be the answer?](https://www.space.com/nasa-mars-sample-return-single-sls-launch)
-- [NASA&#39;s Juno probe captures fascinating high-resolution images of Jupiter&#39;s icy moon Europa](https://www.space.com/juno-europa-jupiter-moon-plumes-image)
-- [A US Trustee wants troubled fintech Synapse to be liquidated via Chapter 7 bankruptcy, cites ‘gross mismanagement’](https://techcrunch.com/2024/05/16/a-us-trustee-wants-troubled-fintech-synapse-to-be-liquidated-via-chapter-7-bankruptcy-cites-gross-mismanagement/)
-- [Seraphim’s latest space accelerator welcomes nine companies](https://techcrunch.com/2024/05/16/seraphims-latest-space-accelerator-welcomes-nine-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
