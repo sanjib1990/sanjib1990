@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s ambitious 2nd Mars mission to include a rover, helicopter, sky crane and a supersonic parachute](https://www.space.com/india-mangalyaan-2-mars-mission-rover-helicopter-sky-crane)
+- [Meta’s latest experiment copies BeReal and Snapchat’s core ideas](https://techcrunch.com/2024/05/17/metas-latest-experiment-copies-bereal-and-snapchats-core-ideas/)
 - [Massive sunspot that brought widespread auroras to Earth now targets Mars](https://www.space.com/sunspot-ar3664-mars-perseverance-rover)
 - [Here we go again — new sunspot regions emerge, strong solar flare recorded](https://www.space.com/x-flare-solar-activity-may-16)
 - [US Space Force is launching more missions than ever. Lawmakers worry America&#39;s spaceports can&#39;t keep up](https://www.space.com/space-force-spaceports-demand-us-congress)
-- [Startups Weekly: It’s the dawning of the age of AI — plus,  Musk is raging against the machine](https://techcrunch.com/2024/05/17/startups-weekly-its-the-dawning-of-the-age-of-ai-plus-musk-is-raging-against-the-machine/)
-- [IndieBio’s SF incubator lineup is making some wild biotech promises](https://techcrunch.com/2024/05/17/indiebios-sf-incubator-lineup-is-making-some-wild-biotech-promises/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
