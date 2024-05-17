@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches new mystery Shiyan satellite &lpar;video&rpar;](https://www.space.com/china-shiyan-satellite-launch-may-2024)
 - [Everything we know about Dune: Prophecy — Release date, plot, cast, &amp; more](https://www.space.com/everything-we-know-about-dune-prophecy)
 - [YouTube TV’s ‘multiview’ feature is now available on Android phones and tablets](https://techcrunch.com/2024/05/17/youtube-tvs-multiview-feature-available-android-phones-tablets/)
 - [Two students uncover security bug that could let millions do their laundry for free](https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/)
-- [OpenAI created a team to control ‘superintelligent’ AI —then let it wither, source says](https://techcrunch.com/2024/05/17/openai-created-a-team-to-control-superintelligent-ai-then-let-it-wither-source-says/)
-- [SpaceX Falcon 9 rocket launching Starlink satellites on record 21st flight tonight](https://www.space.com/spacex-starlink-21st-falcon-9-launch-may-2024)
+- [OpenAI created a team to control ‘superintelligent’ AI — then let it wither, source says](https://techcrunch.com/2024/05/17/openai-created-a-team-to-control-superintelligent-ai-then-let-it-wither-source-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
