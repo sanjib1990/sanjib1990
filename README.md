@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Two students uncover security bug that could let millions do their laundry for free](https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/)
+- [SpaceX Falcon 9 rocket launching Starlink satellites on record 21st flight tonight](https://www.space.com/spacex-starlink-21st-falcon-9-launch-may-2024)
+- [Harness the TechCrunch Effect: Host a Side Event at Disrupt 2024](https://techcrunch.com/2024/05/17/harness-the-techcrunch-effect-host-a-side-event-at-disrupt-2024/)
+- [Pitch Deck Teardown: Goodcarbon’s $5.5M seed deck](https://techcrunch.com/2024/05/17/sample-seed-pitch-deck-goodcarbon/)
 - [Slack under attack over sneaky AI training policy](https://techcrunch.com/2024/05/17/slack-under-attack-over-sneaky-ai-training-policy/)
-- [NASA, ESA join forces on life-hunting ExoMars rover](https://www.space.com/nasa-esa-join-forces-exomars-rover-rosalind-franklin)
-- [Healthcare company WebTPA discloses breach affecting 2.5 million people](https://techcrunch.com/2024/05/17/healthcare-company-webtpa-discloses-breach-affecting-2-5-million-people/)
-- [Microsoft dodges UK antitrust scrutiny over its Mistral AI stake](https://techcrunch.com/2024/05/17/microsoft-dodges-uk-antitrust-scrutiny-over-its-mistral-ai-stake/)
-- [What time is Blue Origin&#39;s private NS-25 astronaut launch on May 19?](https://www.space.com/blue-origin-ns-25-astronaut-launch-what-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
