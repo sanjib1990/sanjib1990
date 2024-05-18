@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VCs and the military are fueling self-driving startups that don’t need roads](https://techcrunch.com/2024/05/18/vcs-and-the-military-are-fueling-self-driving-startups-that-dont-need-roads/)
+- [Deal Dive: Sagetap looks to bring enterprise software sales into the 21st century](https://techcrunch.com/2024/05/18/deal-dive-sagetap-looks-to-bring-enterprise-software-sales-into-the-21st-century/)
 - [NASA&#39;s PREFIRE mission is ready to unlock the mysteries of Earth&#39;s poles](https://www.space.com/nasa-prefire-polar-climate-cubesats)
 - [This Week In Space podcast: Episode 111 —The Big Glass Wars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-111-big-glass-wars)
 - [This Week in AI: OpenAI moves away from safety](https://techcrunch.com/2024/05/18/this-week-in-ai-openai-moves-away-from-safety/)
-- [Why we&#39;re one step closer to understanding how Earth got its oceans &lpar;op-ed&rpar;](https://www.space.com/earth-oceans-origin-vera-rubin-observatory)
-- [How to watch Blue Origin&#39;s NS-25 private space tourist mission online May 19](https://www.space.com/blue-origin-ns-25-launch-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
