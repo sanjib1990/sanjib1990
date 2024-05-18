@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why we&#39;re one step closer to understanding how Earth got its oceans &lpar;op-ed&rpar;](https://www.space.com/earth-oceans-origin-vera-rubin-observatory)
 - [How to watch Blue Origin&#39;s NS-25 private space tourist mission online May 19](https://www.space.com/blue-origin-ns-25-launch-webcast)
 - [James Webb Space Telescope sees Orion Nebula in a stunning new light &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-orion-nebula-m42-new-light)
 - [NASA astronauts practice &#39;moonwalking&#39; in the Arizona desert &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-artemis-2-moonwalk-arizona-desert)
 - [Who is the &#39;Doctor Who&#39; villain Maestro? And what&#39;s their relationship with the Toymaker?](https://www.space.com/who-is-the-doctor-who-villain-maestro)
-- [Adobe comes after indie game emulator Delta for copying its logo](https://techcrunch.com/2024/05/17/adobe-comes-after-indie-game-emulator-delta-for-copying-its-logo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
