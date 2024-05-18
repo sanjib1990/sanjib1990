@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s PREFIRE mission is ready to unlock the mysteries of Earth&#39;s poles](https://www.space.com/nasa-prefire-polar-climate-cubesats)
+- [This Week In Space podcast: Episode 111 —The Big Glass Wars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-111-big-glass-wars)
+- [This Week in AI: OpenAI moves away from safety](https://techcrunch.com/2024/05/18/this-week-in-ai-openai-moves-away-from-safety/)
 - [Why we&#39;re one step closer to understanding how Earth got its oceans &lpar;op-ed&rpar;](https://www.space.com/earth-oceans-origin-vera-rubin-observatory)
 - [How to watch Blue Origin&#39;s NS-25 private space tourist mission online May 19](https://www.space.com/blue-origin-ns-25-launch-webcast)
-- [James Webb Space Telescope sees Orion Nebula in a stunning new light &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-orion-nebula-m42-new-light)
-- [NASA astronauts practice &#39;moonwalking&#39; in the Arizona desert &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-artemis-2-moonwalk-arizona-desert)
-- [Who is the &#39;Doctor Who&#39; villain Maestro? And what&#39;s their relationship with the Toymaker?](https://www.space.com/who-is-the-doctor-who-villain-maestro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
