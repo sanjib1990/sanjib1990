@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope sees Orion Nebula in a stunning new light &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-orion-nebula-m42-new-light)
 - [NASA astronauts practice &#39;moonwalking&#39; in the Arizona desert &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-artemis-2-moonwalk-arizona-desert)
 - [Who is the &#39;Doctor Who&#39; villain Maestro? And what&#39;s their relationship with the Toymaker?](https://www.space.com/who-is-the-doctor-who-villain-maestro)
 - [Adobe comes after indie game emulator Delta for copying its logo](https://techcrunch.com/2024/05/17/adobe-comes-after-indie-game-emulator-delta-for-copying-its-logo/)
 - [Boeing&#39;s 1st Starliner astronaut launch delayed again, to May 25](https://www.space.com/boeing-starliner-first-astronaut-launch-delay-may-25)
-- [India&#39;s ambitious 2nd Mars mission to include a rover, helicopter, sky crane and a supersonic parachute](https://www.space.com/india-mangalyaan-2-mars-mission-rover-helicopter-sky-crane)
 <!-- BLOG-POST-LIST:END -->
 
 ---
