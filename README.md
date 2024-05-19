@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bright green fireball lights up the skies over Portugal and Spain &lpar;photos&rpar;](https://www.space.com/meteor-green-fireball-spain-portugal-may-19-2024)
+- [Why a giant &#39;cold spot&#39; in the cosmic microwave background has long perplexed astronomers](https://www.space.com/cosmic-microwave-background-cold-spot-perplexed-astronomers)
 - [NASA-funded pulsed plasma rocket concept aims to send astronauts to Mars in 2 months](https://www.space.com/nasa-pulsed-plasma-rocket-mars-2-months-howe-industries)
 - [OpenAI and Google lay out their competing AI visions](https://techcrunch.com/2024/05/18/openai-and-google-lay-out-their-competing-ai-visions/)
 - [Expedia says two execs dismissed after ‘violation of company policy’](https://techcrunch.com/2024/05/18/expedia-says-two-execs-dismissed-after-violation-of-company-policy/)
-- [With AI startups booming, nap pods and Silicon Valley hustle culture are back](https://techcrunch.com/2024/05/18/ai-startups-nap-pods-silicon-valley-hustle-culture/)
-- [OpenAI created a team to control ‘superintelligent’ AI — then let it wither, source says](https://techcrunch.com/2024/05/18/openai-created-a-team-to-control-superintelligent-ai-then-let-it-wither-source-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
