@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin launches 1st crewed spaceflight since August 2022 &lpar;video&rpar;](https://www.space.com/blue-origin-ns-25-space-tourism-mission)
+- [&#39;Star Wars: The Phantom Menace&#39; at 25: Who are the angels on the moons of Iego?](https://www.space.com/star-wars-phantom-menace-25th-anniversary-angels-moons-iego)
+- [Blue Origin successfully launches its first crewed mission since 2022](https://techcrunch.com/2024/05/19/blue-origin-successfully-launches-its-first-crewed-mission-since-2022/)
 - [Hollywood agency CAA aims to help stars manage their own AI likenesses](https://techcrunch.com/2024/05/19/creative-artists-agency-veritone-ai-digital-cloning-actors/)
 - [Everything we know about &#39;A Quiet Place: Day One&#39;](https://www.space.com/everything-we-know-about-a-quiet-place-day-one)
-- [Expedia says two execs dismissed after ‘violation of company policy’](https://techcrunch.com/2024/05/19/expedia-says-two-execs-dismissed-after-violation-of-company-policy/)
-- [Bright green fireball lights up the skies over Portugal and Spain &lpar;photos&rpar;](https://www.space.com/meteor-green-fireball-spain-portugal-may-19-2024)
-- [Why a giant &#39;cold spot&#39; in the cosmic microwave background has long perplexed astronomers](https://www.space.com/cosmic-microwave-background-cold-spot-perplexed-astronomers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
