@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I’m rooting for Melinda French Gates to fix tech’s  broken ‘brilliant jerk’ culture](https://techcrunch.com/2024/05/19/melinda-french-gates-fixing-tech-bro-culture-brilliant-jerk/)
 - [Blue Origin launches 1st crewed spaceflight since August 2022 &lpar;video&rpar;](https://www.space.com/blue-origin-ns-25-space-tourism-mission)
 - [&#39;Star Wars: The Phantom Menace&#39; at 25: Who are the angels on the moons of Iego?](https://www.space.com/star-wars-phantom-menace-25th-anniversary-angels-moons-iego)
 - [Blue Origin successfully launches its first crewed mission since 2022](https://techcrunch.com/2024/05/19/blue-origin-successfully-launches-its-first-crewed-mission-since-2022/)
 - [Hollywood agency CAA aims to help stars manage their own AI likenesses](https://techcrunch.com/2024/05/19/creative-artists-agency-veritone-ai-digital-cloning-actors/)
-- [Everything we know about &#39;A Quiet Place: Day One&#39;](https://www.space.com/everything-we-know-about-a-quiet-place-day-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
