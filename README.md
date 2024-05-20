@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VinFast crash that killed family of four now under federal investigation](https://techcrunch.com/2024/05/20/vinfast-nhtsa-investigation-fatal-crash-family-fire/)
-- [NYC-Dublin real time video portal reopens with some fixes to prevent inappropriate behavior](https://techcrunch.com/2024/05/20/nyc-dublin-real-time-video-portal-reopens-with-some-fixes-to-prevent-inappropriate-behavior/)
-- [We may have just witnessed some of the strongest auroras in 500 years](https://www.space.com/solar-storms-may-2024-strongest-auroras-500-years)
-- [Contour Venture Partners, an early investor in Datadog and Movable Ink, lowers the target for its fifth fund](https://techcrunch.com/2024/05/20/contour-venture-partners-an-early-investor-in-datadog-and-movable-ink-lowers-the-target-for-its-fifth-fund/)
-- [Perseverance rover&#39;s Mars rock sample may contain best evidence of possible ancient life](https://www.space.com/the-universe/mars/perseverance-rovers-mars-rock-sample-may-contain-best-evidence-of-possible-ancient-life)
+- [Microsoft Build 2024: All the AI and hardware products Microsoft announced](https://techcrunch.com/2024/05/20/microsoft-build-2024-here-are-all-the-ai-and-hardware-products-microsoft-announced/)
+- [TechCrunch Space: Star&lpar;side&rpar;liner](https://techcrunch.com/2024/05/20/techcrunch-space-starsideliner/)
+- [These 81 robotics companies are hiring](https://techcrunch.com/2024/05/20/these-81-robotics-companies-are-hiring/)
+- [Something strange is happening with Earth&#39;s magnetic field tail](https://www.space.com/mms-magnetic-substorms)
+- [SpaceX fuels up Starship megarocket ahead of 4th test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-wet-dress-rehearsal-fourth-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
