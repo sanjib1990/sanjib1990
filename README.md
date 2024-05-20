@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance rover&#39;s Mars rock sample may contain best evidence of possible ancient life](https://www.space.com/the-universe/mars/perseverance-rovers-mars-rock-sample-may-contain-best-evidence-of-possible-ancient-life)
+- [&#39;This was a life-changing experience:&#39; 1st Black astronaut candidate exults after suborbital launch &lpar;video&rpar;](https://www.space.com/ed-dwight-blue-origin-space-tourist-launch-reaction-video)
 - [What did Noa see in the telescope in &#39;Kingdom of the Planet of the Apes?&#39;](https://www.space.com/kingdom-of-the-planet-of-the-apes-telescope-mystery)
 - [Meta’s Oversight Board takes its first Threads case](https://techcrunch.com/2024/05/20/metas-oversight-board-takes-its-first-threads-case/)
 - [How to watch bright red star Antares disappear behind the moon on May 23](https://www.space.com/moon-eclipse-antares-may-23)
-- [SeekOut, a recruiting startup last valued at $1.2 billion, lays off 30% of its workforce](https://techcrunch.com/2024/05/20/seekout-layoffs-30percent-talent-search-tigerglobal/)
-- [Solar storm frenzy of May 2024 was strong enough to affect the deep sea](https://www.space.com/solar-storm-effects-reach-deep-sea)
 <!-- BLOG-POST-LIST:END -->
 
 ---
