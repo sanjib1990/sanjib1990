@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI to remove ChatGPT’s Scarlett Johansson-like voice](https://techcrunch.com/2024/05/20/openai-to-remove-chatgpts-scarlett-johansson-like-voice/)
-- [How do &#39;moving rulers shrink&#39;? The strange physics behind special relativity](https://www.space.com/strange-physics-behind-special-relativity)
-- [ChatGPT’s mobile app revenue saw biggest spike yet following GPT-4o launch](https://techcrunch.com/2024/05/20/chatgpts-mobile-app-revenue-saw-biggest-spike-yet-following-gpt-4o-launch/)
-- [The ancient Egyptian goddess of the sky and how I used modern astronomy to explore her link with the Milky Way](https://www.space.com/egyptian-goddess-of-the-sky-astronomy-milky-way)
-- [Bumble buys community building app Geneva to expand further into friendships](https://techcrunch.com/2024/05/20/bumble-buys-community-building-app-geneva-to-expand-further-into-friendships/)
+- [Rollup wants to be the hardware engineer’s workhorse](https://techcrunch.com/2024/05/20/rollup-wants-to-be-the-hardware-engineers-workhorse/)
+- [Disrupt Audience Choice vote closes Friday](https://techcrunch.com/2024/05/20/disrupt-audience-choice-vote-closes-friday/)
+- [From tails to &lpar;umbilical&rpar; arms, the hidden details in Lego&#39;s new Artemis SLS rocket](https://www.space.com/lego-nasa-artemis-space-launch-system-hidden-details)
+- [Google launches a new Android feature to drive users back into their installed apps](https://techcrunch.com/2024/05/20/google-launches-a-new-android-feature-to-drive-users-back-into-their-installed-apps/)
+- [Jolla debuts privacy-focused AI hardware](https://techcrunch.com/2024/05/20/jolla-takes-the-wraps-off-ai-hardware-with-a-privacy-centric-purpose/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
