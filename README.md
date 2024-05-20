@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VinFast crash that killed family of four now under federal investigation](https://techcrunch.com/2024/05/20/vinfast-nhtsa-investigation-fatal-crash-family-fire/)
+- [NYC-Dublin real time video portal reopens with some fixes to prevent inappropriate behavior](https://techcrunch.com/2024/05/20/nyc-dublin-real-time-video-portal-reopens-with-some-fixes-to-prevent-inappropriate-behavior/)
+- [We may have just witnessed some of the strongest auroras in 500 years](https://www.space.com/solar-storms-may-2024-strongest-auroras-500-years)
+- [Contour Venture Partners, an early investor in Datadog and Movable Ink, lowers the target for its fifth fund](https://techcrunch.com/2024/05/20/contour-venture-partners-an-early-investor-in-datadog-and-movable-ink-lowers-the-target-for-its-fifth-fund/)
 - [Perseverance rover&#39;s Mars rock sample may contain best evidence of possible ancient life](https://www.space.com/the-universe/mars/perseverance-rovers-mars-rock-sample-may-contain-best-evidence-of-possible-ancient-life)
-- [&#39;This was a life-changing experience:&#39; 1st Black astronaut candidate exults after suborbital launch &lpar;video&rpar;](https://www.space.com/ed-dwight-blue-origin-space-tourist-launch-reaction-video)
-- [What did Noa see in the telescope in &#39;Kingdom of the Planet of the Apes?&#39;](https://www.space.com/kingdom-of-the-planet-of-the-apes-telescope-mystery)
-- [Meta’s Oversight Board takes its first Threads case](https://techcrunch.com/2024/05/20/metas-oversight-board-takes-its-first-threads-case/)
-- [How to watch bright red star Antares disappear behind the moon on May 23](https://www.space.com/moon-eclipse-antares-may-23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
