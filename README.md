@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OCW Learning Journeys: Michael&#39;s Story](https://www.youtube.com/watch?v=F1NlANAwgok)
 - [Mind-bending new programming language for GPUs just dropped...](https://www.youtube.com/watch?v=HCOQmKTFzYY)
 - [I use this everyday](https://www.youtube.com/watch?v=aMzdeZ8vGXQ)
 - [monitor all your stuff RIGHT NOW!!](https://www.youtube.com/watch?v=-2yzXSIuC8o)
 - [Another glorious battle for AI dominance… GPT-4o vs Google I/O](https://www.youtube.com/watch?v=qrvhmo5LSOQ)
-- [Economics and Real World Impact with Dr. Sara Ellison &amp; Prof. Esther Duflo](https://www.youtube.com/watch?v=b87E-wbR-nI)
 <!-- YOUTUBE:END -->
 
 ---
