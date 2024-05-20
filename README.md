@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar storm frenzy of May 2024 was strong enough to affect the deep sea](https://www.space.com/solar-storm-effects-reach-deep-sea)
+- [UK’s autonomous vehicle legislation becomes law, paving the way for first driverless cars by 2026](https://techcrunch.com/2024/05/20/uks-autonomous-vehicle-legislation-becomes-law-paving-the-way-for-first-driverless-cars-by-2026/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/05/20/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Fintech lender Solo Funds is being sued again by the government over its lending practices](https://techcrunch.com/2024/05/20/solo-funds-lawsuit-cfpb/)
 - [Rollup wants to be the hardware engineer’s workhorse](https://techcrunch.com/2024/05/20/rollup-wants-to-be-the-hardware-engineers-workhorse/)
-- [Disrupt Audience Choice vote closes Friday](https://techcrunch.com/2024/05/20/disrupt-audience-choice-vote-closes-friday/)
-- [From tails to &lpar;umbilical&rpar; arms, the hidden details in Lego&#39;s new Artemis SLS rocket](https://www.space.com/lego-nasa-artemis-space-launch-system-hidden-details)
-- [Google launches a new Android feature to drive users back into their installed apps](https://techcrunch.com/2024/05/20/google-launches-a-new-android-feature-to-drive-users-back-into-their-installed-apps/)
-- [Jolla debuts privacy-focused AI hardware](https://techcrunch.com/2024/05/20/jolla-takes-the-wraps-off-ai-hardware-with-a-privacy-centric-purpose/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
