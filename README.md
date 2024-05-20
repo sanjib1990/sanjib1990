@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pine Labs gets Singapore court approval to shift base to India](https://techcrunch.com/2024/05/19/pine-labs-gets-singapore-court-approval-to-shift-base-to-india/)
 - [UK opens office in San Francisco to tackle AI risk](https://techcrunch.com/2024/05/19/uk-opens-office-in-san-francisco-to-tackle-ai-risk/)
 - [Why companies are turning to internal hackathons](https://techcrunch.com/2024/05/19/why-companies-are-turning-to-internal-hackathons/)
 - [I’m rooting for Melinda French Gates to fix tech’s  broken ‘brilliant jerk’ culture](https://techcrunch.com/2024/05/19/melinda-french-gates-fixing-tech-bro-culture-brilliant-jerk/)
 - [Blue Origin launches 1st crewed spaceflight since August 2022 &lpar;video&rpar;](https://www.space.com/blue-origin-ns-25-space-tourism-mission)
-- [&#39;Star Wars: The Phantom Menace&#39; at 25: Who are the angels on the moons of Iego?](https://www.space.com/star-wars-phantom-menace-25th-anniversary-angels-moons-iego)
 <!-- BLOG-POST-LIST:END -->
 
 ---
