@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bumble buys community building app Geneva to expand further into friendships](https://techcrunch.com/2024/05/20/bumble-buys-community-building-app-geneva-to-expand-further-into-friendships/)
 - [CyberArk snaps up Venafi for $1.54B to ramp up in machine-to-machine security](https://techcrunch.com/2024/05/20/cyberark-snaps-up-venafi-for-1-54b-to-ramp-up-in-machine-to-machine-security/)
 - [Space Trash Signs project creates debris &#39;constellations&#39; to highlight space junk problem &lpar;video&rpar;](https://www.space.com/space-trash-constellations-highlight-space-junk-problem)
 - [Enchanting new Hubble Telescope image reveals an infant star&#39;s sparkle](https://www.space.com/hubble-telescope-infant-star-cloud-image)
 - [OpenseedVC, which backs operators in Africa and Europe starting their companies, reaches first close of $10M fund](https://techcrunch.com/2024/05/20/openseedvc-which-backs-operators-in-africa-and-europe-starting-their-companies-reaches-first-close-of-10m-fund/)
-- [Pine Labs gets Singapore court approval to shift base to India](https://techcrunch.com/2024/05/19/pine-labs-gets-singapore-court-approval-to-shift-base-to-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
