@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch bright red star Antares disappear behind the moon on May 23](https://www.space.com/moon-eclipse-antares-may-23)
+- [SeekOut, a recruiting startup last valued at $1.2 billion, lays off 30% of its workforce](https://techcrunch.com/2024/05/20/seekout-layoffs-30percent-talent-search-tigerglobal/)
 - [Solar storm frenzy of May 2024 was strong enough to affect the deep sea](https://www.space.com/solar-storm-effects-reach-deep-sea)
 - [UK’s autonomous vehicle legislation becomes law, paving the way for first driverless cars by 2026](https://techcrunch.com/2024/05/20/uks-autonomous-vehicle-legislation-becomes-law-paving-the-way-for-first-driverless-cars-by-2026/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/05/20/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Fintech lender Solo Funds is being sued again by the government over its lending practices](https://techcrunch.com/2024/05/20/solo-funds-lawsuit-cfpb/)
-- [Rollup wants to be the hardware engineer’s workhorse](https://techcrunch.com/2024/05/20/rollup-wants-to-be-the-hardware-engineers-workhorse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
