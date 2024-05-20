@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI to remove ChatGPT’s Scarlett Johansson-like voice](https://techcrunch.com/2024/05/20/openai-to-remove-chatgpts-scarlett-johansson-like-voice/)
+- [How do &#39;moving rulers shrink&#39;? The strange physics behind special relativity](https://www.space.com/strange-physics-behind-special-relativity)
+- [ChatGPT’s mobile app revenue saw biggest spike yet following GPT-4o launch](https://techcrunch.com/2024/05/20/chatgpts-mobile-app-revenue-saw-biggest-spike-yet-following-gpt-4o-launch/)
 - [The ancient Egyptian goddess of the sky and how I used modern astronomy to explore her link with the Milky Way](https://www.space.com/egyptian-goddess-of-the-sky-astronomy-milky-way)
 - [Bumble buys community building app Geneva to expand further into friendships](https://techcrunch.com/2024/05/20/bumble-buys-community-building-app-geneva-to-expand-further-into-friendships/)
-- [CyberArk snaps up Venafi for $1.54B to ramp up in machine-to-machine security](https://techcrunch.com/2024/05/20/cyberark-snaps-up-venafi-for-1-54b-to-ramp-up-in-machine-to-machine-security/)
-- [Space Trash Signs project creates debris &#39;constellations&#39; to highlight space junk problem &lpar;video&rpar;](https://www.space.com/space-trash-constellations-highlight-space-junk-problem)
-- [Enchanting new Hubble Telescope image reveals an infant star&#39;s sparkle](https://www.space.com/hubble-telescope-infant-star-cloud-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
