@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is removing ChatGPT’s AI voice that sounds like Scarlett Johansson](https://techcrunch.com/2024/05/20/openai-to-remove-chatgpts-scarlett-johansson-like-voice/)
 - [Microsoft Build 2024: All the AI and hardware products Microsoft announced](https://techcrunch.com/2024/05/20/microsoft-build-2024-here-are-all-the-ai-and-hardware-products-microsoft-announced/)
 - [TechCrunch Space: Star&lpar;side&rpar;liner](https://techcrunch.com/2024/05/20/techcrunch-space-starsideliner/)
 - [These 81 robotics companies are hiring](https://techcrunch.com/2024/05/20/these-81-robotics-companies-are-hiring/)
 - [Something strange is happening with Earth&#39;s magnetic field tail](https://www.space.com/mms-magnetic-substorms)
-- [SpaceX fuels up Starship megarocket ahead of 4th test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-wet-dress-rehearsal-fourth-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
