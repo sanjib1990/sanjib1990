@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenseedVC, which backs operators in Africa and Europe starting their companies, reaches first close of $10M fund](https://techcrunch.com/2024/05/20/openseedvc-which-backs-operators-in-africa-and-europe-starting-their-companies-reaches-first-close-of-10m-fund/)
 - [Pine Labs gets Singapore court approval to shift base to India](https://techcrunch.com/2024/05/19/pine-labs-gets-singapore-court-approval-to-shift-base-to-india/)
 - [UK opens office in San Francisco to tackle AI risk](https://techcrunch.com/2024/05/19/uk-opens-office-in-san-francisco-to-tackle-ai-risk/)
 - [Why companies are turning to internal hackathons](https://techcrunch.com/2024/05/19/why-companies-are-turning-to-internal-hackathons/)
 - [I’m rooting for Melinda French Gates to fix tech’s  broken ‘brilliant jerk’ culture](https://techcrunch.com/2024/05/19/melinda-french-gates-fixing-tech-bro-culture-brilliant-jerk/)
-- [Blue Origin launches 1st crewed spaceflight since August 2022 &lpar;video&rpar;](https://www.space.com/blue-origin-ns-25-space-tourism-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
