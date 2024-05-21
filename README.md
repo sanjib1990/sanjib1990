@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space mysteries: Do all planets have magnetic fields?](https://www.space.com/do-all-planets-have-magnetic-fields)
+- [Porsche invests in battery startup South 8 to boost cold-weather EV performance](https://techcrunch.com/2024/05/21/porsche-invests-in-battery-startup-south-8-to-boost-cold-weather-ev-performance/)
+- [Data-labeling startup Scale AI raises $1B as valuation doubles to $13.8B](https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/)
 - [Meta, Match, Coinbase and others team up to fight online fraud and crypto scams](https://techcrunch.com/2024/05/21/meta-match-coinbase-and-others-team-up-to-fight-online-fraud-and-crypto-scams/)
 - [EU Council gives final nod to set up risk-based regulations for AI](https://techcrunch.com/2024/05/21/eu-council-gives-final-nod-to-set-up-risk-based-regulations-for-ai/)
-- [Right again, Einstein! Scientists find where matter &#39;waterfalls&#39; into black holes](https://www.space.com/einstein-black-hole-waterfall-matter-infall)
-- [Vitesse, a payments and treasury management platform for insurers, raises $93M to fuel US expansion](https://techcrunch.com/2024/05/21/vitesse-a-payments-and-treasury-management-platform-for-insurers-raises-93m-to-fuel-us-expansion/)
-- [Zen Educate raises $37M and acquires Aquinas Education as it tries to address the teacher shortage](https://techcrunch.com/2024/05/20/zen-educate-raises-37m-for-marketplace-that-matches-schools-with-teachers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
