@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify’s ‘Listening Party’ feature falls short of expectations](https://techcrunch.com/2024/05/21/spotify-listening-party-billie-eilish/)
+- [Alchemist’s latest batch puts AI to work as accelerator expands to Tokyo, Doha](https://techcrunch.com/2024/05/21/alchemists-latest-batch-puts-ai-to-work-as-accelerator-expands-to-tokyo-doha/)
+- [Kickstarter now lets you pledge after a campaign closes](https://techcrunch.com/2024/05/21/kickstarter-now-lets-you-pledge-after-a-campaign-closes/)
 - [Young &#39;cotton candy&#39; exoplanet the size of Jupiter may be shrinking into a super-Earth](https://www.space.com/exoplanet-v1298-tau-b-cotton-candy-shrinking)
 - [Stack AI wants to make it easier to build AI-fueled workflows](https://techcrunch.com/2024/05/21/stack-ai-wants-to-make-it-easier-to-build-ai-fueled-workflows/)
-- [Black holes are mysterious, yet also deceptively simple − a new space mission may help physicists answer hairy questions about these astronomical objects](https://www.space.com/the-universe/black-holes/black-holes-are-mysterious-yet-also-deceptively-simple-a-new-space-mission-may-help-physicists-answer-hairy-questions-about-these-astronomical-objects)
-- [Pinecone launches its serverless vector database out of preview](https://techcrunch.com/2024/05/21/pinecone-launches-its-serverless-vector-database-out-of-preview/)
-- [Special mud helps XGS Energy get more power out of geothermal wells](https://techcrunch.com/2024/05/21/special-mud-helps-xgs-energy-get-more-power-out-of-geothermal-wells/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
