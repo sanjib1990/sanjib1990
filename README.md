@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Young &#39;cotton candy&#39; exoplanet the size of Jupiter may be shrinking into a super-Earth](https://www.space.com/exoplanet-v1298-tau-b-cotton-candy-shrinking)
+- [Stack AI wants to make it easier to build AI-fueled workflows](https://techcrunch.com/2024/05/21/stack-ai-wants-to-make-it-easier-to-build-ai-fueled-workflows/)
 - [Black holes are mysterious, yet also deceptively simple − a new space mission may help physicists answer hairy questions about these astronomical objects](https://www.space.com/the-universe/black-holes/black-holes-are-mysterious-yet-also-deceptively-simple-a-new-space-mission-may-help-physicists-answer-hairy-questions-about-these-astronomical-objects)
 - [Pinecone launches its serverless vector database out of preview](https://techcrunch.com/2024/05/21/pinecone-launches-its-serverless-vector-database-out-of-preview/)
 - [Special mud helps XGS Energy get more power out of geothermal wells](https://techcrunch.com/2024/05/21/special-mud-helps-xgs-energy-get-more-power-out-of-geothermal-wells/)
-- [Sonos finally made some headphones](https://techcrunch.com/2024/05/21/sonos-finally-made-some-headphones/)
-- [Adobe brings Firefly AI-powered Generative Remove to Lightroom](https://techcrunch.com/2024/05/21/adobe-brings-firefly-ai-powered-generative-remove-to-lightroom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
