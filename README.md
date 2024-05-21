@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The ‘vote Trump’ spam that hit Bluesky in May came from decentralized rival Nostr](https://techcrunch.com/2024/05/21/the-vote-trump-spam-that-hit-bluesky-in-may-came-from-decentralized-rival-nostr/)
 - [Plants signal NASA satellites with waning  &#39;glow&#39; ahead of flash drought](https://www.space.com/nasa-satellites-plant-glow-flash-drought)
 - [There’s a real appetite for a fintech alternative to QuickBooks](https://techcrunch.com/2024/05/21/theres-a-real-appetite-for-a-fintech-alternative-to-quickbooks/)
 - [Best binoculars for long distance viewing 2024](https://www.space.com/best-binoculars-for-long-distance)
 - [Bill Gates-backed wind startup AirLoom is raising $12M, filings reveal](https://techcrunch.com/2024/05/21/bill-gates-backed-wind-startup-airloom-is-raising-12m-filings-reveal/)
-- [WitnessAI is building guardrails for generative AI models](https://techcrunch.com/2024/05/21/witnessai-is-building-guardrails-for-generative-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
