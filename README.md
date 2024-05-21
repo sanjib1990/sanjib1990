@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space mysteries: Do all planets have magnetic fields?](https://www.space.com/do-all-planets-have-magnetic-fields)
-- [Porsche invests in battery startup South 8 to boost cold-weather EV performance](https://techcrunch.com/2024/05/21/porsche-invests-in-battery-startup-south-8-to-boost-cold-weather-ev-performance/)
-- [Data-labeling startup Scale AI raises $1B as valuation doubles to $13.8B](https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/)
-- [Meta, Match, Coinbase and others team up to fight online fraud and crypto scams](https://techcrunch.com/2024/05/21/meta-match-coinbase-and-others-team-up-to-fight-online-fraud-and-crypto-scams/)
-- [EU Council gives final nod to set up risk-based regulations for AI](https://techcrunch.com/2024/05/21/eu-council-gives-final-nod-to-set-up-risk-based-regulations-for-ai/)
+- [Black holes are mysterious, yet also deceptively simple − a new space mission may help physicists answer hairy questions about these astronomical objects](https://www.space.com/the-universe/black-holes/black-holes-are-mysterious-yet-also-deceptively-simple-a-new-space-mission-may-help-physicists-answer-hairy-questions-about-these-astronomical-objects)
+- [Pinecone launches its serverless vector database out of preview](https://techcrunch.com/2024/05/21/pinecone-launches-its-serverless-vector-database-out-of-preview/)
+- [Special mud helps XGS Energy get more power out of geothermal wells](https://techcrunch.com/2024/05/21/special-mud-helps-xgs-energy-get-more-power-out-of-geothermal-wells/)
+- [Sonos finally made some headphones](https://techcrunch.com/2024/05/21/sonos-finally-made-some-headphones/)
+- [Adobe brings Firefly AI-powered Generative Remove to Lightroom](https://techcrunch.com/2024/05/21/adobe-brings-firefly-ai-powered-generative-remove-to-lightroom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
