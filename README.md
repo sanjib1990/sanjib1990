@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Observe the sun in detail and save 25% on Celestron&#39;s EclipSmart binoculars](https://www.space.com/celestron-eclipsmart-12x50-solar-binoculars-deal-save-25-percent-may-2024)
-- [A comet approaching Earth could become brighter than the stars this fall](https://www.space.com/comet-tsuchinshan-atlas-fall-2024)
-- [SpaceX launching next-gen US spy satellites early May 22](https://www.space.com/spacex-nro-spy-satellites-nrol-146-launch)
-- [The ‘vote Trump’ spam that hit Bluesky in May came from decentralized rival Nostr](https://techcrunch.com/2024/05/21/the-vote-trump-spam-that-hit-bluesky-in-may-came-from-decentralized-rival-nostr/)
-- [Plants signal NASA satellites with waning  &#39;glow&#39; ahead of flash drought](https://www.space.com/nasa-satellites-plant-glow-flash-drought)
+- [Doctor Who &#39;Boom&#39;: Who are the marines fighting on Kastarion 3?](https://www.space.com/doctor-who-boom-who-are-marines-fighting-kastarion-3)
+- [Teen fintech Copper had to emergency discontinue its banking, debit products](https://techcrunch.com/2024/05/21/teen-fintech-copper-had-to-emergency-discontinue-its-banking-debit-products/)
+- [China&#39;s Chang&#39;e 6 mission gearing up for early June landing on moon&#39;s far side](https://www.space.com/china-chang-e-6-preparing-landing-moon-far-side)
+- [Autodesk acquires AI-powered VFX startup Wonder Dynamics](https://techcrunch.com/2024/05/21/autodesk-acquires-ai-powered-vfx-startup-wonder-dynamics/)
+- [Farcaster, a crypto-based social network, raised $150M with just 80K daily users](https://techcrunch.com/2024/05/21/farcaster-a-crypto-based-social-network-raised-150m-with-just-80k-daily-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
