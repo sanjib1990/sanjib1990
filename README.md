@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI is removing ChatGPT’s AI voice that sounds like Scarlett Johansson](https://techcrunch.com/2024/05/20/openai-to-remove-chatgpts-scarlett-johansson-like-voice/)
-- [Microsoft Build 2024: All the AI and hardware products Microsoft announced](https://techcrunch.com/2024/05/20/microsoft-build-2024-here-are-all-the-ai-and-hardware-products-microsoft-announced/)
+- [ETF Partners raises €284M for climate startups that will be effective quickly — not 20 years down the road](https://techcrunch.com/2024/05/20/etf-partners-raises-e284m-for-climate-startups-that-will-be-effective-quickly-not-20-years-down-the-road/)
+- [The James Webb Space Telescope may have solved a puffy planet mystery. Here&#39;s how](https://www.space.com/puffy-planet-nearby-star-jwst)
+- [Microsoft wants to make Windows an AI operating system, launches Copilot+ PCs](https://techcrunch.com/2024/05/20/microsoft-build-2024-windows-ai-operating-system-copilot-plus-pcs/)
+- [Scarlett Johansson says that OpenAI approached her to use her voice](https://techcrunch.com/2024/05/20/scarlett-johansson-says-that-openai-approached-her-to-use-her-voice/)
 - [TechCrunch Space: Star&lpar;side&rpar;liner](https://techcrunch.com/2024/05/20/techcrunch-space-starsideliner/)
-- [These 81 robotics companies are hiring](https://techcrunch.com/2024/05/20/these-81-robotics-companies-are-hiring/)
-- [Something strange is happening with Earth&#39;s magnetic field tail](https://www.space.com/mms-magnetic-substorms)
 <!-- BLOG-POST-LIST:END -->
 
 ---
