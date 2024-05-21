@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zen Educate raises $37M and acquires Aquinas Education as it tries to address the teacher shortage](https://techcrunch.com/2024/05/20/zen-educate-raises-37m-for-marketplace-that-matches-schools-with-teachers/)
 - [Scarlett Johansson says that OpenAI approached her to use her voice](https://techcrunch.com/2024/05/20/scarlett-johansson-says-that-openai-approached-her-to-use-her-voice/)
 - [Aurora and Volvo unveil self-driving truck designed for a driverless future](https://techcrunch.com/2024/05/20/aurora-volvo-unveil-self-driving-truck-driverless-future/)
 - [ETF Partners raises €284M for climate startups that will be effective quickly — not 20 years down the road](https://techcrunch.com/2024/05/20/etf-partners-raises-e284m-for-climate-startups-that-will-be-effective-quickly-not-20-years-down-the-road/)
 - [The James Webb Space Telescope may have solved a puffy planet mystery. Here&#39;s how](https://www.space.com/puffy-planet-nearby-star-jwst)
-- [Microsoft wants to make Windows an AI operating system, launches Copilot+ PCs](https://techcrunch.com/2024/05/20/microsoft-build-2024-windows-ai-operating-system-copilot-plus-pcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
