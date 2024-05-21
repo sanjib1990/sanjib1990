@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force orders &#39;jetpack&#39; to give 2 years of maneuverability to military satellite](https://www.space.com/space-force-starfish-otter-jetpack-satellite-extended-maneuver)
+- [Microsoft wants to make Windows an AI operating system, launches Copilot+ PCs](https://techcrunch.com/2024/05/21/microsoft-build-2024-windows-ai-operating-system-copilot-plus-pcs/)
 - [VCs wanted FarmboxRx to become a meal kit, the company bootstrapped instead](https://techcrunch.com/2024/05/21/vcs-wanted-farmboxrx-to-become-a-meal-kit-the-company-bootstrapped-instead/)
-- [Uber and Lyft’s ride-hailing deal with Minnesota comes with a cost](https://techcrunch.com/2024/05/21/uber-and-lyfts-ride-hailing-deal-with-minnesota-comes-with-a-cost/)
+- [Uber’s and Lyft’s ride-hailing deal with Minnesota comes at a cost](https://techcrunch.com/2024/05/21/uber-and-lyfts-ride-hailing-deal-with-minnesota-comes-with-a-cost/)
 - [Dream Chaser space plane arrives in Florida ahead of 1st launch to ISS &lpar;photo&rpar;](https://www.space.com/dream-chaser-space-plane-arrives-florida)
-- [a16z’s American Dynamism team launches program to introduce technical minds to VC](https://techcrunch.com/2024/05/21/a16zs-american-dynamism-team-launches-program-to-introduce-technical-minds-to-vc/)
-- [Doctor Who &#39;Boom&#39;: Who are the marines fighting on Kastarion 3?](https://www.space.com/doctor-who-boom-who-are-marines-fighting-kastarion-3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
