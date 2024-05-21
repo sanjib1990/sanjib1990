@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify’s ‘Listening Party’ feature falls short of expectations](https://techcrunch.com/2024/05/21/spotify-listening-party-billie-eilish/)
-- [Alchemist’s latest batch puts AI to work as accelerator expands to Tokyo, Doha](https://techcrunch.com/2024/05/21/alchemists-latest-batch-puts-ai-to-work-as-accelerator-expands-to-tokyo-doha/)
-- [Kickstarter now lets you pledge after a campaign closes](https://techcrunch.com/2024/05/21/kickstarter-now-lets-you-pledge-after-a-campaign-closes/)
-- [Young &#39;cotton candy&#39; exoplanet the size of Jupiter may be shrinking into a super-Earth](https://www.space.com/exoplanet-v1298-tau-b-cotton-candy-shrinking)
-- [Stack AI wants to make it easier to build AI-fueled workflows](https://techcrunch.com/2024/05/21/stack-ai-wants-to-make-it-easier-to-build-ai-fueled-workflows/)
+- [French AI startup H raises $220 million seed round](https://techcrunch.com/2024/05/21/french-ai-startup-h-raises-220-million-seed-round/)
+- [Stars give tiny planets a gravitational &#39;squeeze&#39; to strip away their atmospheres](https://www.space.com/stars-planets-atmosphere-habitability-study)
+- [Boost your startup’s growth with a ScaleUp package at TC Disrupt 2024](https://techcrunch.com/2024/05/21/boost-your-startups-growth-with-a-scaleup-package-at-tc-disrupt-2024/)
+- [As a U.S. ban looms, TikTok announces a $1M program for socially driven creators](https://techcrunch.com/2024/05/21/as-a-u-s-ban-looms-tiktok-announces-a-1m-program-for-socially-driven-creators/)
+- [Microsoft’s Power Automate no-code platform adds AI flows](https://techcrunch.com/2024/05/21/microsofts-power-automate-no-code-platform-adds-ai-flows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
