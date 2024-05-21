@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Right again, Einstein! Scientists find where matter &#39;waterfalls&#39; into black holes](https://www.space.com/einstein-black-hole-waterfall-matter-infall)
 - [Vitesse, a payments and treasury management platform for insurers, raises $93M to fuel US expansion](https://techcrunch.com/2024/05/21/vitesse-a-payments-and-treasury-management-platform-for-insurers-raises-93m-to-fuel-us-expansion/)
 - [Zen Educate raises $37M and acquires Aquinas Education as it tries to address the teacher shortage](https://techcrunch.com/2024/05/20/zen-educate-raises-37m-for-marketplace-that-matches-schools-with-teachers/)
 - [Scarlett Johansson says that OpenAI approached her to use her voice](https://techcrunch.com/2024/05/20/scarlett-johansson-says-that-openai-approached-her-to-use-her-voice/)
 - [Aurora and Volvo unveil self-driving truck designed for a driverless future](https://techcrunch.com/2024/05/20/aurora-volvo-unveil-self-driving-truck-driverless-future/)
-- [ETF Partners raises €284M for climate startups that will be effective quickly — not 20 years down the road](https://techcrunch.com/2024/05/20/etf-partners-raises-e284m-for-climate-startups-that-will-be-effective-quickly-not-20-years-down-the-road/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
