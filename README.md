@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [Euclid &#39;dark universe&#39; telescope team will unveil new full-color images on May 23: How to watch live](https://www.space.com/euclid-dark-universe-telescope-data-release-may-23)
 - [Oyo, once valued at $10 billion, shelves IPO plans for second time](https://techcrunch.com/2024/05/22/oyo-once-valued-at-10-billion-shelves-ipo-plans-for-second-time/)
 - [Stellar telescope deal: Save $230 on the Celestron Astro Fi 130](https://www.space.com/celestron-astro-fi-130-save-230-dollars-may-2024)
 - [Ore Energy emerges from stealth to build utility-scale batteries that last days, not hours](https://techcrunch.com/2024/05/22/ore-energy-emerges-from-stealth-to-build-utility-scale-batteries-that-last-days-not-hours/)
-- [Paytm warns of job cuts as losses swell after RBI clampdown](https://techcrunch.com/2024/05/21/paytm-counts-costs-of-regulatory-clampdown-as-losses-swell/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
