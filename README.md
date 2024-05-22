@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Garry Tan has revealed his ‘secret sauce’ for getting into Y Combinator](https://techcrunch.com/2024/05/22/garry-tan-y-combinator-accelerator-insights/)
+- [India’s BluSmart is testing its ride-hailing service in Dubai](https://techcrunch.com/2024/05/22/indias-blusmart-is-testing-its-ride-hailing-service-in-dubai/)
 - [FCC proposes all AI-generated content in political ads must be disclosed](https://techcrunch.com/2024/05/22/fcc-proposes-all-ai-generated-content-in-political-ads-must-be-disclosed/)
 - [Refer a founder to Startup Battlefield 200 at Disrupt 2024](https://techcrunch.com/2024/05/22/refer-a-founder-to-startup-battlefield-200-at-disrupt-2024/)
 - [Bluesky now has DMs](https://techcrunch.com/2024/05/22/bluesky-now-has-dms/)
-- [Peter Thiel-founded Valar Ventures raised a $300 million fund, half the size of its last one](https://techcrunch.com/2024/05/22/peter-thiel-valar-ventures-new-fund-size-performance/)
-- [SpaceX launching 23 Starlink satellites tonight on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-6-62)
 <!-- BLOG-POST-LIST:END -->
 
 ---
