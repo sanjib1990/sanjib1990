@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ore Energy emerges from stealth to build utility-scale batteries that last days, not hours](https://techcrunch.com/2024/05/22/ore-energy-emerges-from-stealth-to-build-utility-scale-batteries-that-last-days-not-hours/)
 - [Paytm warns of job cuts as losses swell after RBI clampdown](https://techcrunch.com/2024/05/21/paytm-counts-costs-of-regulatory-clampdown-as-losses-swell/)
 - [In Seoul summit, heads of states and companies commit to AI safety](https://techcrunch.com/2024/05/21/in-seoul-summit-heads-of-states-and-companies-commit-to-ai-safety/)
 - [Space Force orders &#39;jetpack&#39; to give 2 years of maneuverability to military satellite](https://www.space.com/space-force-starfish-otter-jetpack-satellite-extended-maneuver)
 - [Microsoft wants to make Windows an AI operating system, launches Copilot+ PCs](https://techcrunch.com/2024/05/21/microsoft-build-2024-windows-ai-operating-system-copilot-plus-pcs/)
-- [VCs wanted FarmboxRx to become a meal kit, the company bootstrapped instead](https://techcrunch.com/2024/05/21/vcs-wanted-farmboxrx-to-become-a-meal-kit-the-company-bootstrapped-instead/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
