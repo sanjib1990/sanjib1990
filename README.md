@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta’s new AI council is comprised entirely of white men](https://techcrunch.com/2024/05/22/metas-new-ai-council-is-comprised-entirely-of-white-men/)
+- [The Biden campaign is looking to hire a seasoned meme lord](https://techcrunch.com/2024/05/22/the-biden-campaign-is-looking-to-hire-a-seasoned-meme-lord/)
+- [Meta’s new AI council is composed entirely of white men](https://techcrunch.com/2024/05/22/metas-new-ai-council-is-comprised-entirely-of-white-men/)
 - [Safety first: NASA pledges to use AI carefully and responsibly](https://www.space.com/nasa-artificial-intelligence-safety)
 - [Garry Tan has revealed his ‘secret sauce’ for getting into Y Combinator](https://techcrunch.com/2024/05/22/garry-tan-y-combinator-accelerator-insights/)
 - [India’s BluSmart is testing its ride-hailing service in Dubai](https://techcrunch.com/2024/05/22/indias-blusmart-is-testing-its-ride-hailing-service-in-dubai/)
-- [FCC proposes all AI-generated content in political ads must be disclosed](https://techcrunch.com/2024/05/22/fcc-proposes-all-ai-generated-content-in-political-ads-must-be-disclosed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
