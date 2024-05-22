@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Immigrant banking platform Majority secures $20M following 3x revenue growth](https://techcrunch.com/2024/05/22/majority-immigrant-banking-20m/)
-- [Unify helps developers find the best LLM for the job](https://techcrunch.com/2024/05/22/unify-helps-developers-find-the-best-llm-for-the-job/)
-- [Aerodome is sending drones to the scene of the crime](https://techcrunch.com/2024/05/22/aerodome-is-sending-drones-to-the-scene-of-the-crime/)
-- [Granola debuts an AI notepad for meetings](https://techcrunch.com/2024/05/22/granola-debuts-an-ai-notepad-for-meetings/)
-- [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn)
+- [Space debris could be dealt with more cheaply than previously thought, new NASA report suggests](https://www.space.com/nasa-report-space-debris-mitigation)
+- [TikTok turns to generative AI to boost its ads business](https://techcrunch.com/2024/05/22/tiktok-turns-to-generative-ai-to-boost-its-ads-business/)
+- [Space VC closes $20M Fund II to back frontier tech founders from day zero](https://techcrunch.com/2024/05/22/space-vc-closes-20m-fund-ii-to-back-frontier-tech-founders-from-day-zero/)
+- [Patronus AI is off to a magical start as LLM governance tool gains traction](https://techcrunch.com/2024/05/22/patronus-ai-is-off-to-a-magical-start-as-llm-governance-tool-gains-traction/)
+- [Linktree surpasses 50M users, rolls out its social commerce program to more creators](https://techcrunch.com/2024/05/22/linktree-surpasses-50m-users-rolls-out-beta-social-commerce-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
