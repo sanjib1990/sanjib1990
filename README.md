@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FCC proposes all AI-generated content in political ads must be disclosed](https://techcrunch.com/2024/05/22/fcc-proposes-all-ai-generated-content-in-political-ads-must-be-disclosed/)
+- [Refer a founder to Startup Battlefield 200 at Disrupt 2024](https://techcrunch.com/2024/05/22/refer-a-founder-to-startup-battlefield-200-at-disrupt-2024/)
+- [Bluesky now has DMs](https://techcrunch.com/2024/05/22/bluesky-now-has-dms/)
+- [Peter Thiel-founded Valar Ventures raised a $300 million fund, half the size of its last one](https://techcrunch.com/2024/05/22/peter-thiel-valar-ventures-new-fund-size-performance/)
 - [SpaceX launching 23 Starlink satellites tonight on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-6-62)
-- [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
-- [Sega Toys Homestar Matataki star projector review](https://www.space.com/sega-toys-homestar-matataki-star-projector-review)
-- [Satellites capture smoke pouring from hundreds of wildfires across North America &lpar;photos&rpar;](https://www.space.com/satellite-image-wildfire-north-america)
-- [Techstars CEO Maëlle Gavet is out](https://techcrunch.com/2024/05/22/techstars-ceo-maelle-gavet-is-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
