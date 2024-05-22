@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Spotify is launching its own font, Spotify Mix](https://techcrunch.com/2024/05/22/spotify-launches-own-font-typeface-spotify-mix/)
-- [Churning spacetime and destroyed stars help reveal how fast supermassive black holes spin](https://www.space.com/black-holes-lense-thirring-effect-frame-dragging-spacetime)
-- [Hydrolix seeks to make storing log data faster and cheaper](https://techcrunch.com/2024/05/22/hydrolix-seeks-to-make-storing-log-data-faster-and-cheaper/)
-- [Bolster, creator of the CheckPhish phishing tracker, raises $14M led by Microsoft’s M12](https://techcrunch.com/2024/05/22/bolster-creator-of-the-checkphish-phishing-tracker-raises-14m-led-by-microsofts-m12/)
-- [Boeing, NASA indefinitely delay crewed Starliner launch](https://techcrunch.com/2024/05/22/boeing-nasa-indefinitely-delay-crewed-starliner-launch/)
+- [HoundDog.ai helps developers prevent personal information from leaking](https://techcrunch.com/2024/05/22/hounddog-ai-helps-developers-prevent-personal-information-from-leaking/)
+- [Google Pay will now display card perks, BNPL options and more](https://techcrunch.com/2024/05/22/google-pay-will-now-display-card-perks-bnpl-options-and-more/)
+- [Scientists find weird link between a solar mystery and feeding black holes](https://www.space.com/sun-solar-mystery-feeding-black-holes)
+- [Vinod Khosla is coming to Disrupt to discuss how AI might change the future](https://techcrunch.com/2024/05/22/vinod-khosla-will-discuss-how-ai-will-change-the-future-at-disrupt-2024/)
+- [Truecaller partners with Microsoft to let its AI respond to calls in your own voice](https://techcrunch.com/2024/05/22/truecaller-partners-with-microsoft-to-let-its-ai-respond-to-calls-in-your-own-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
