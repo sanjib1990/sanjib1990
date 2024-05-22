@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Everything Here is Sacred &lpar;Terrascope Radio Replay&rpar;](https://www.youtube.com/watch?v=G46Vpp0jPDg)
+- [The Power of Experience with Dr. Ari Epstein](https://www.youtube.com/watch?v=2pUPQRG0T5Y)
 - [These new computers are getting creepy…  Copilot+ PC first look](https://www.youtube.com/watch?v=hlwcZpEx2IY)
 - [OCW Learning Journeys: Michael&#39;s Story](https://www.youtube.com/watch?v=F1NlANAwgok)
 - [Mind-bending new programming language for GPUs just dropped...](https://www.youtube.com/watch?v=HCOQmKTFzYY)
-- [I use this everyday](https://www.youtube.com/watch?v=aMzdeZ8vGXQ)
-- [monitor all your stuff RIGHT NOW!!](https://www.youtube.com/watch?v=-2yzXSIuC8o)
 <!-- YOUTUBE:END -->
 
 ---
