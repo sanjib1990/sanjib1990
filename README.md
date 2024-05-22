@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 23 Starlink satellites tonight on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-6-62)
 - [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
 - [Sega Toys Homestar Matataki star projector review](https://www.space.com/sega-toys-homestar-matataki-star-projector-review)
 - [Satellites capture smoke pouring from hundreds of wildfires across North America &lpar;photos&rpar;](https://www.space.com/satellite-image-wildfire-north-america)
-- [Techstars CEO Mäelle Gavet is out](https://techcrunch.com/2024/05/22/techstars-ceo-maelle-gavet-is-out/)
-- [Russian space weapon ban shot down by UN Security Council](https://www.space.com/russian-space-weapon-ban-un-security-council)
+- [Techstars CEO Maëlle Gavet is out](https://techcrunch.com/2024/05/22/techstars-ceo-maelle-gavet-is-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
