@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space debris could be dealt with more cheaply than previously thought, new NASA report suggests](https://www.space.com/nasa-report-space-debris-mitigation)
-- [TikTok turns to generative AI to boost its ads business](https://techcrunch.com/2024/05/22/tiktok-turns-to-generative-ai-to-boost-its-ads-business/)
-- [Space VC closes $20M Fund II to back frontier tech founders from day zero](https://techcrunch.com/2024/05/22/space-vc-closes-20m-fund-ii-to-back-frontier-tech-founders-from-day-zero/)
-- [Patronus AI is off to a magical start as LLM governance tool gains traction](https://techcrunch.com/2024/05/22/patronus-ai-is-off-to-a-magical-start-as-llm-governance-tool-gains-traction/)
-- [Linktree surpasses 50M users, rolls out its social commerce program to more creators](https://techcrunch.com/2024/05/22/linktree-surpasses-50m-users-rolls-out-beta-social-commerce-program/)
+- [Why Spotify is launching its own font, Spotify Mix](https://techcrunch.com/2024/05/22/spotify-launches-own-font-typeface-spotify-mix/)
+- [Churning spacetime and destroyed stars help reveal how fast supermassive black holes spin](https://www.space.com/black-holes-lense-thirring-effect-frame-dragging-spacetime)
+- [Hydrolix seeks to make storing log data faster and cheaper](https://techcrunch.com/2024/05/22/hydrolix-seeks-to-make-storing-log-data-faster-and-cheaper/)
+- [Bolster, creator of the CheckPhish phishing tracker, raises $14M led by Microsoft’s M12](https://techcrunch.com/2024/05/22/bolster-creator-of-the-checkphish-phishing-tracker-raises-14m-led-by-microsofts-m12/)
+- [Boeing, NASA indefinitely delay crewed Starliner launch](https://techcrunch.com/2024/05/22/boeing-nasa-indefinitely-delay-crewed-starliner-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
