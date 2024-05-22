@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Connected fitness is adrift post-pandemic](https://techcrunch.com/2024/05/22/connected-fitness-is-adrift-post-pandemic/)
+- [AI finds hidden galactic evolution clues in over 100 galaxies. Here&#39;s how](https://www.space.com/ai-hidden-galaxy-evolution-clues-carbon)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/22/tech-layoffs-2023-list/)
 - [HoundDog.ai helps developers prevent personal information from leaking](https://techcrunch.com/2024/05/22/hounddog-ai-helps-developers-prevent-personal-information-from-leaking/)
 - [Google Pay will now display card perks, BNPL options and more](https://techcrunch.com/2024/05/22/google-pay-will-now-display-card-perks-bnpl-options-and-more/)
-- [Scientists find weird link between a solar mystery and feeding black holes](https://www.space.com/sun-solar-mystery-feeding-black-holes)
-- [Vinod Khosla is coming to Disrupt to discuss how AI might change the future](https://techcrunch.com/2024/05/22/vinod-khosla-will-discuss-how-ai-will-change-the-future-at-disrupt-2024/)
-- [Truecaller partners with Microsoft to let its AI respond to calls in your own voice](https://techcrunch.com/2024/05/22/truecaller-partners-with-microsoft-to-let-its-ai-respond-to-calls-in-your-own-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
