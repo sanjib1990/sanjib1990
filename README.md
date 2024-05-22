@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Connected fitness is adrift post-pandemic](https://techcrunch.com/2024/05/22/connected-fitness-is-adrift-post-pandemic/)
-- [AI finds hidden galactic evolution clues in over 100 galaxies. Here&#39;s how](https://www.space.com/ai-hidden-galaxy-evolution-clues-carbon)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/22/tech-layoffs-2023-list/)
-- [HoundDog.ai helps developers prevent personal information from leaking](https://techcrunch.com/2024/05/22/hounddog-ai-helps-developers-prevent-personal-information-from-leaking/)
-- [Google Pay will now display card perks, BNPL options and more](https://techcrunch.com/2024/05/22/google-pay-will-now-display-card-perks-bnpl-options-and-more/)
+- [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
+- [Sega Toys Homestar Matataki star projector review](https://www.space.com/sega-toys-homestar-matataki-star-projector-review)
+- [Satellites capture smoke pouring from hundreds of wildfires across North America &lpar;photos&rpar;](https://www.space.com/satellite-image-wildfire-north-america)
+- [Techstars CEO Mäelle Gavet is out](https://techcrunch.com/2024/05/22/techstars-ceo-maelle-gavet-is-out/)
+- [Russian space weapon ban shot down by UN Security Council](https://www.space.com/russian-space-weapon-ban-un-security-council)
 <!-- BLOG-POST-LIST:END -->
 
 ---
