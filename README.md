@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Humane, the creator of the $700 Ai Pin, is reportedly seeking a buyer](https://techcrunch.com/2024/05/22/humane-the-creator-of-the-700-ai-pin-is-reportedly-seeking-a-buyer/)
-- [Amateur astronomer finds 5 fascinating new galaxies — and they&#39;re now named after him](https://www.space.com/amateur-astronomer-galaxies-name-donatiello)
-- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [Euclid &#39;dark universe&#39; telescope team will unveil new full-color images on May 23: How to watch live](https://www.space.com/euclid-dark-universe-telescope-data-release-may-23)
-- [Oyo, once valued at $10 billion, shelves IPO plans for second time](https://techcrunch.com/2024/05/22/oyo-once-valued-at-10-billion-shelves-ipo-plans-for-second-time/)
+- [Immigrant banking platform Majority secures $20M following 3x revenue growth](https://techcrunch.com/2024/05/22/majority-immigrant-banking-20m/)
+- [Unify helps developers find the best LLM for the job](https://techcrunch.com/2024/05/22/unify-helps-developers-find-the-best-llm-for-the-job/)
+- [Aerodome is sending drones to the scene of the crime](https://techcrunch.com/2024/05/22/aerodome-is-sending-drones-to-the-scene-of-the-crime/)
+- [Granola debuts an AI notepad for meetings](https://techcrunch.com/2024/05/22/granola-debuts-an-ai-notepad-for-meetings/)
+- [How does spaceflight lead to medical breakthroughs? Veteran astronaut explains](https://www.space.com/spaceflight-medical-advances-sierra-space-tom-marshburn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
