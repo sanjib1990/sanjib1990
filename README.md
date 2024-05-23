@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ZWO SeeStar S50 smart telescope review](https://www.space.com/zwo-seestar-s50-smart-telescope-review)
-- [The Euclid &#39;dark universe detective&#39; telescope has revealed new images of the cosmos — and they are remarkable](https://www.space.com/euclid-space-telescope-new-images-may-23)
-- [The new Kia EV3 will have an AI assistant with ChatGPT DNA](https://techcrunch.com/2024/05/23/the-new-kia-ev3-will-have-an-ai-assistant-with-chatgpt-dna/)
-- [Bing’s API is down, taking Microsoft Copilot, DuckDuckGo and ChatGPT’s web search feature down too](https://techcrunch.com/2024/05/23/bing-is-down-bringing-duckduckgo-and-ecosia-down-too/)
-- [Autonomous shipping startup Orca AI tops up with $23M led by OCV Partners and MizMaa Ventures](https://techcrunch.com/2024/05/23/autonomous-shipping-startup-orca-ai-tops-up-with-23m-led-by-ocv-partners-and-mizmaa-ventures/)
+- [ZeroPoint’s nanosecond-scale memory compression could tame power-hungry AI infrastructure](https://techcrunch.com/2024/05/23/zeropoints-nanosecond-scale-memory-compression-could-tame-power-hungry-ai-infrastructure/)
+- [1st astronaut launch of Boeing&#39;s Starliner capsule now targeted for June 1](https://www.space.com/boeing-starliner-cft-launch-target-june-1)
+- [See May&#39;s Full Flower Moon blossom in the night sky tonight](https://www.space.com/full-flower-moon-may-23-2024)
+- [Finout lands cash to grow its cloud spend management platform](https://techcrunch.com/2024/05/23/finout-lands-cash-to-grow-its-cloud-spend-management-platform/)
+- [Bugcrowd, the crowdsourced white-hat hacker platform, acquires Informer to ramp up its security chops](https://techcrunch.com/2024/05/23/bugcrowd-the-crowdsourced-white-hat-hacker-platform-acquires-informer-to-ramp-up-its-security-chops/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
