@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches test satellite to very low Earth orbit &lpar;video&rpar;](https://www.space.com/china-launches-test-satellite-very-low-earth-orbit-video)
+- [The biggest French startups in 2024 according to the French government](https://techcrunch.com/2024/05/23/the-biggest-french-startups-in-2024-according-to-the-french-government/)
+- [Spotify to shut off Car Thing for good, leading users to demand refunds](https://techcrunch.com/2024/05/23/spotify-to-shut-off-car-thing-for-good-leading-users-to-demand-refunds/)
 - [SpaceX Dragon joins Mercury and Apollo capsules on display in Chicago](https://www.space.com/spacex-dragon-griffin-museum-science-industry-chicago)
-- [X should bring back stars, not hide ‘Likes’](https://techcrunch.com/2024/05/23/x-should-bring-back-stars-not-hide-likes/)
-- [Satellite data reveals Antarctica&#39;s Thwaites Glacier is melting faster than we thought](https://www.space.com/thwaites-glacier-antarctica-melting-faster)
-- [$6M fine for robocaller who used AI to clone Biden’s voice](https://techcrunch.com/2024/05/23/6m-fine-for-robocaller-who-used-ai-to-clone-bidens-voice/)
-- [SpaceX to launch 3rd mission in 2 days this evening](https://www.space.com/spacex-starlink-launch-group-6-63)
+- [X should bring back stars, not hide ‘likes’](https://techcrunch.com/2024/05/23/x-should-bring-back-stars-not-hide-likes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
