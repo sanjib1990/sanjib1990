@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing’s API is down, bringing Microsoft Copilot, DuckDuckGo and ChatGPT’s web search feature down](https://techcrunch.com/2024/05/23/bing-is-down-bringing-duckduckgo-and-ecosia-down-too/)
+- [Autonomous shipping startup Orca AI tops up with $23M led by OCV Partners and MizMaa Ventures](https://techcrunch.com/2024/05/23/autonomous-shipping-startup-orca-ai-tops-up-with-23m-led-by-ocv-partners-and-mizmaa-ventures/)
 - [Meet the Finnish biotech startup bringing a long lost mycoprotein to your plate](https://techcrunch.com/2024/05/22/meet-the-finnish-biotech-startup-bringing-a-long-lost-mycoprotein-to-your-plate/)
 - [Food supply chain software maker Silo lays off ~30% of staff amid M&amp;A discussions](https://techcrunch.com/2024/05/22/food-supply-chain-software-maker-silo-lays-off-30-of-staff-amid-ma-discussions/)
 - [The Biden campaign is looking to hire a seasoned meme lord](https://techcrunch.com/2024/05/22/the-biden-campaign-is-looking-to-hire-a-seasoned-meme-lord/)
-- [Meta’s new AI council is composed entirely of white men](https://techcrunch.com/2024/05/22/metas-new-ai-council-is-comprised-entirely-of-white-men/)
-- [Safety first: NASA pledges to use AI carefully and responsibly](https://www.space.com/nasa-artificial-intelligence-safety)
 <!-- BLOG-POST-LIST:END -->
 
 ---
