@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force wants 7 new telescopes in Hawaii. Local residents say &#39;no&#39;](https://www.space.com/hawaii-residents-oppose-space-force-telescopes)
+- [2 days left to vote for Disrupt Audience Choice](https://techcrunch.com/2024/05/23/2-days-left-to-vote-for-disrupt-audience-choice/)
+- [The U.S. government sues to break up Live Nation-Ticketmaster](https://techcrunch.com/2024/05/23/the-u-s-government-sues-to-break-up-live-nation-ticketmaster/)
+- [‘Pro-competition’ rules for Big Tech make it through UK’s pre-election wash-up](https://techcrunch.com/2024/05/23/pro-competition-rules-for-big-tech-make-it-through-uks-pre-election-wash-up/)
 - [Spotify experiments with an AI DJ that speaks Spanish](https://techcrunch.com/2024/05/23/spotify-experiments-with-an-ai-dj-that-speaks-spanish/)
-- [Where will the 2027 total solar eclipse on Aug. 2 be visible?](https://www.space.com/where-will-total-solar-eclipse-2027-be-visible-maps)
-- [&#39;Star Trek: Discovery&#39; season 5 episode 9 offers a tense but questionable cliffhanger](https://www.space.com/star-trek-discovery-season-5-episode-9-review)
-- [Arc Search’s new Call Arc feature lets you ask questions by ‘making a phone call’](https://techcrunch.com/2024/05/23/arc-searchs-new-call-arc-feature-lets-you-ask-questions-by-making-a-phone-call/)
-- [Paris transit passes now available in iPhone’s Wallet app](https://techcrunch.com/2024/05/23/paris-transit-passes-now-available-in-iphones-wallet-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
