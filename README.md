@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ESA prepares for the post-ISS era, selects The Exploration Company, Thales Alenia to develop cargo spacecraft](https://techcrunch.com/2024/05/23/esa-prepares-for-the-post-iss-era-selects-the-exploration-company-thales-alenia-to-develop-cargo-spacecraft/)
+- [Expressable brings speech therapy into the home](https://techcrunch.com/2024/05/23/expressable-brings-speech-therapy-into-the-home/)
 - [We could float effortlessly in Pluto&#39;s subsurface ocean](https://www.space.com/pluto-ocean-thickness-new-horizons)
 - [International Space Development Conference 2024 beams up Star Trek&#39;s William Shatner and more in Los Angeles](https://www.space.com/star-trek-actors-beaming-to-international-space-development-conference-2024)
 - [China launches test satellite to very low Earth orbit &lpar;video&rpar;](https://www.space.com/china-launches-test-satellite-very-low-earth-orbit-video)
-- [The biggest French startups in 2024 according to the French government](https://techcrunch.com/2024/05/23/the-biggest-french-startups-in-2024-according-to-the-french-government/)
-- [Spotify to shut off Car Thing for good, leading users to demand refunds](https://techcrunch.com/2024/05/23/spotify-to-shut-off-car-thing-for-good-leading-users-to-demand-refunds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
