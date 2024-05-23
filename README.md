@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Discovery&#39; season 5 episode 9 offers a tense but questionable cliffhanger](https://www.space.com/star-trek-discovery-season-5-episode-9-review)
+- [Arc Search’s new Call Arc feature lets you ask questions by ‘making a phone call’](https://techcrunch.com/2024/05/23/arc-searchs-new-call-arc-feature-lets-you-ask-questions-by-making-a-phone-call/)
+- [Paris transit passes now available in iPhone’s Wallet app](https://techcrunch.com/2024/05/23/paris-transit-passes-now-available-in-iphones-wallet-app/)
 - [Redwood Materials is partnering with Ultium Cells to recycle GM’s EV battery scrap](https://techcrunch.com/2024/05/23/redwood-materials-gm-ultium-battery-scrap/)
 - [Things are finally looking up for the Voyager 1 interstellar spacecraft](https://www.space.com/voyager-1-mission-glitch-engineers-weighing-in-lucky-peanuts)
-- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/)
-- [Lumos helps companies manage their employees’ identities — and access](https://techcrunch.com/2024/05/23/lumos-helps-companies-manage-their-employees-identities-and-access/)
-- [Remark puts thousands of human product experts into AI form](https://techcrunch.com/2024/05/23/remark-ecommerce-shopping-decision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
