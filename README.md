@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How CPUs do Out Of Order Operations - Computerphile](https://www.youtube.com/watch?v=jNC9LPc3BI0)
 - [run AI on your laptop....it&#39;s PRIVATE!!](https://www.youtube.com/watch?v=piFDfCaISk8)
 - [Everything Here is Sacred &lpar;Terrascope Radio Replay&rpar;](https://www.youtube.com/watch?v=G46Vpp0jPDg)
 - [The Power of Experience with Dr. Ari Epstein](https://www.youtube.com/watch?v=2pUPQRG0T5Y)
 - [These new computers are getting creepy…  Copilot+ PC first look](https://www.youtube.com/watch?v=hlwcZpEx2IY)
-- [OCW Learning Journeys: Michael&#39;s Story](https://www.youtube.com/watch?v=F1NlANAwgok)
 <!-- YOUTUBE:END -->
 
 ---
