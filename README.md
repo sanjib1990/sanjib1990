@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space Force wants 7 new telescopes in Hawaii. Local residents say &#39;no&#39;](https://www.space.com/hawaii-residents-oppose-space-force-telescopes)
-- [2 days left to vote for Disrupt Audience Choice](https://techcrunch.com/2024/05/23/2-days-left-to-vote-for-disrupt-audience-choice/)
-- [The U.S. government sues to break up Live Nation-Ticketmaster](https://techcrunch.com/2024/05/23/the-u-s-government-sues-to-break-up-live-nation-ticketmaster/)
-- [‘Pro-competition’ rules for Big Tech make it through UK’s pre-election wash-up](https://techcrunch.com/2024/05/23/pro-competition-rules-for-big-tech-make-it-through-uks-pre-election-wash-up/)
-- [Spotify experiments with an AI DJ that speaks Spanish](https://techcrunch.com/2024/05/23/spotify-experiments-with-an-ai-dj-that-speaks-spanish/)
+- [Tesla lobbies for Elon and Kia taps into the GenAI hype](https://techcrunch.com/2024/05/23/tesla-lobbies-for-elon-and-kia-taps-into-the-genai-hype/)
+- [NASA&#39;s TESS exoplanet-hunter finds tantalizingly close Earth-size world with moderate temperature](https://www.space.com/gliese-12-b-tess-exoplanet-hunt-for-life)
+- [&#39;Death Star&#39; black holes caught blasting powerful beams at multiple targets: Watch out Alderaan! &lpar;video&rpar;](https://www.space.com/black-hole-jet-chandra-death-star)
+- [App developer Crowdaa raises €1.2 million and plans a U.S. expansion](https://techcrunch.com/2024/05/23/app-developer-crowdaa-raises-e1-2-million-and-plans-a-u-s-expansion/)
+- [Canva launches a proper enterprise product — and they mean it this time](https://techcrunch.com/2024/05/23/canva-launches-a-proper-enterprise-product-and-they-mean-it-this-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
