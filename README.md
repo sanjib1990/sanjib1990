@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ZeroPoint’s nanosecond-scale memory compression could tame power-hungry AI infrastructure](https://techcrunch.com/2024/05/23/zeropoints-nanosecond-scale-memory-compression-could-tame-power-hungry-ai-infrastructure/)
-- [1st astronaut launch of Boeing&#39;s Starliner capsule now targeted for June 1](https://www.space.com/boeing-starliner-cft-launch-target-june-1)
-- [See May&#39;s Full Flower Moon blossom in the night sky tonight](https://www.space.com/full-flower-moon-may-23-2024)
-- [Finout lands cash to grow its cloud spend management platform](https://techcrunch.com/2024/05/23/finout-lands-cash-to-grow-its-cloud-spend-management-platform/)
-- [Bugcrowd, the crowdsourced white-hat hacker platform, acquires Informer to ramp up its security chops](https://techcrunch.com/2024/05/23/bugcrowd-the-crowdsourced-white-hat-hacker-platform-acquires-informer-to-ramp-up-its-security-chops/)
+- [Redwood Materials is partnering with Ultium Cells to recycle GM’s EV battery scrap](https://techcrunch.com/2024/05/23/redwood-materials-gm-ultium-battery-scrap/)
+- [Things are finally looking up for the Voyager 1 interstellar spacecraft](https://www.space.com/voyager-1-mission-glitch-engineers-weighing-in-lucky-peanuts)
+- [Auggie’s new app helps parents find community and shop](https://techcrunch.com/2024/05/23/auggies-new-app-helps-parents-find-community-and-shop/)
+- [Lumos helps companies manage their employees’ identities — and access](https://techcrunch.com/2024/05/23/lumos-helps-companies-manage-their-employees-identities-and-access/)
+- [Remark puts thousands of human product experts into AI form](https://techcrunch.com/2024/05/23/remark-ecommerce-shopping-decision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
