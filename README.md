@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the Finnish biotech startup bringing a long lost mycoprotein to your plate](https://techcrunch.com/2024/05/22/meet-the-finnish-biotech-startup-bringing-a-long-lost-mycoprotein-to-your-plate/)
 - [Food supply chain software maker Silo lays off ~30% of staff amid M&amp;A discussions](https://techcrunch.com/2024/05/22/food-supply-chain-software-maker-silo-lays-off-30-of-staff-amid-ma-discussions/)
 - [The Biden campaign is looking to hire a seasoned meme lord](https://techcrunch.com/2024/05/22/the-biden-campaign-is-looking-to-hire-a-seasoned-meme-lord/)
 - [Meta’s new AI council is composed entirely of white men](https://techcrunch.com/2024/05/22/metas-new-ai-council-is-comprised-entirely-of-white-men/)
 - [Safety first: NASA pledges to use AI carefully and responsibly](https://www.space.com/nasa-artificial-intelligence-safety)
-- [Garry Tan has revealed his ‘secret sauce’ for getting into Y Combinator](https://techcrunch.com/2024/05/22/garry-tan-y-combinator-accelerator-insights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
