@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [$6M fine for robocaller who used AI to clone Biden’s voice](https://techcrunch.com/2024/05/23/6m-fine-for-robocaller-who-used-ai-to-clone-bidens-voice/)
+- [SpaceX to launch 3rd mission in 2 days this evening](https://www.space.com/spacex-starlink-launch-group-6-63)
 - [Tesla lobbies for Elon and Kia taps into the GenAI hype](https://techcrunch.com/2024/05/23/tesla-lobbies-for-elon-and-kia-taps-into-the-genai-hype/)
 - [NASA&#39;s TESS exoplanet-hunter finds tantalizingly close Earth-size world with moderate temperature](https://www.space.com/gliese-12-b-tess-exoplanet-hunt-for-life)
 - [&#39;Death Star&#39; black holes caught blasting powerful beams at multiple targets: Watch out Alderaan! &lpar;video&rpar;](https://www.space.com/black-hole-jet-chandra-death-star)
-- [App developer Crowdaa raises €1.2 million and plans a U.S. expansion](https://techcrunch.com/2024/05/23/app-developer-crowdaa-raises-e1-2-million-and-plans-a-u-s-expansion/)
-- [Canva launches a proper enterprise product — and they mean it this time](https://techcrunch.com/2024/05/23/canva-launches-a-proper-enterprise-product-and-they-mean-it-this-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
