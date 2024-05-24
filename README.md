@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Safety comes 1st for Artemis moon missions despite &#39;space race&#39; with China, NASA chief says](https://www.space.com/artemis-moon-missions-safety-china-space-race-nasa)
+- [May full moon 2024: See the Flower Moon blossom in gorgeous photos from around the world](https://www.space.com/may-full-moon-photos-2024)
+- [US drug maker Cencora says Americans’ health information stolen in data breach](https://techcrunch.com/2024/05/24/cencora-americans-health-data-stolen-breach-cyberattack/)
 - [Are stars vanishing into their own black holes? A bizarre binary system says &#39;yes&#39;](https://www.space.com/stars-vanishing-black-hole-binary-system)
 - [Last day to vote for TC Disrupt 2024 Audience Choice program](https://techcrunch.com/2024/05/24/last-day-to-vote-for-tc-disrupt-2024-audience-choice-program/)
-- [Signal’s Meredith Whittaker on the Telegram security clash and the “edge lords” at OpenAI](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
-- [Lucid Motors slashes 400 jobs ahead of crucial SUV launch](https://techcrunch.com/2024/05/24/lucid-motors-layoffs-restructuring-gravity-suv/)
-- [How can we protect satellites in Earth-moon space? This new software could help](https://www.space.com/new-algorithms-protect-satellites-earth-moon-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
