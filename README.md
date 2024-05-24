@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jio Financial unit to buy $4.32B of telecom gear from Reliance Retail](https://techcrunch.com/2024/05/23/jio-financial-unit-to-buy-4-32b-of-telecom-gear-from-reliance-retail/)
 - [Foursquare just laid off 105 employees](https://techcrunch.com/2024/05/23/foursquare-just-laid-off-105-employees/)
 - [Using memes, social media users have become red teams for half-baked AI features](https://techcrunch.com/2024/05/23/using-memes-social-media-users-have-become-red-teams-for-half-baked-ai-features/)
 - [Asteroid-bound Psyche spacecraft fires up ion thrusters, starts cruising through space](https://www.space.com/psyche-asteroid-mission-engine-fire-ion-cruise-control)
 - [ESA prepares for the post-ISS era, selects The Exploration Company, Thales Alenia to develop cargo spacecraft](https://techcrunch.com/2024/05/23/esa-prepares-for-the-post-iss-era-selects-the-exploration-company-thales-alenia-to-develop-cargo-spacecraft/)
-- [Expressable brings speech therapy into the home](https://techcrunch.com/2024/05/23/expressable-brings-speech-therapy-into-the-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
