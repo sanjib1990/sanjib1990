@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/)
+- [Disrupt 2024 early-bird tickets fly away next Friday](https://techcrunch.com/2024/05/24/disrupt-2024-early-bird-tickets-fly-away-next-friday/)
+- [The original &#39;Mr. Eclipse:&#39; How a 19th-century astronomer calculated the dates of over 13,000 eclipses](https://www.space.com/eclipses-canon-original-mr-eclipse)
+- [SpaceX targeting June 5 for 4th test flight of Starship megarocket](https://www.space.com/spacex-targeting-june-5-starship-fourth-test-flight)
 - [Big tech companies are plowing money into AI startups, which could help them dodge antitrust concerns](https://techcrunch.com/2024/05/24/big-tech-companies-are-plowing-money-into-ai-startups-which-could-help-them-dodge-antitrust-concerns/)
-- [Lost photos suggest Mars&#39; mysterious moon Phobos may be a trapped comet in disguise](https://www.space.com/moon-phobos-may-be-trapped-comet)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [Harlem Capital is raising a $150 million fund](https://techcrunch.com/2024/05/24/harlem-capital-is-raising-a-150-million-fund/)
-- [Safety comes 1st for Artemis moon missions despite &#39;space race&#39; with China, NASA chief says](https://www.space.com/artemis-moon-missions-safety-china-space-race-nasa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
