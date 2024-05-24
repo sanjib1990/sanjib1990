@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pakistani cubesat snaps images of the moon during China&#39;s lunar far side mission &lpar;photos&rpar;](https://www.space.com/chinese-pakistani-cubesat-lunar-far-side-images)
+- [From Plaid to Figma, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/05/24/from-plaid-to-figma-here-are-the-startups-that-are-likely-or-definitely-not-having-ipos-this-year/)
 - [Feds add nine more incidents to Waymo robotaxi investigation](https://techcrunch.com/2024/05/24/feds-add-nine-more-incidents-to-waymo-robotaxi-investigation/)
 - [Sweden&#39;s Arctic spaceport moves one step closer to orbital launches](https://www.space.com/swedish-space-corporation-perigee-aerospace-partnership-announcement)
 - [Pitch Deck Teardown: Terra One’s $7.5M Seed deck](https://techcrunch.com/2024/05/24/sample-seed-pitch-deck-terra-one/)
-- [Watch Rocket Lab launch a NASA climate change cubesat early on May 25](https://www.space.com/rocket-lab-nasa-prefire-climate-change-mission-launch)
-- [Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
