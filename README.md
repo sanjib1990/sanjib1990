@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are stars vanishing into their own black holes? A bizarre binary system says &#39;yes&#39;](https://www.space.com/stars-vanishing-black-hole-binary-system)
+- [Last day to vote for TC Disrupt 2024 Audience Choice program](https://techcrunch.com/2024/05/24/last-day-to-vote-for-tc-disrupt-2024-audience-choice-program/)
+- [Signal’s Meredith Whittaker on the Telegram security clash and the “edge lords” at OpenAI](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
+- [Lucid Motors slashes 400 jobs ahead of crucial SUV launch](https://techcrunch.com/2024/05/24/lucid-motors-layoffs-restructuring-gravity-suv/)
 - [How can we protect satellites in Earth-moon space? This new software could help](https://www.space.com/new-algorithms-protect-satellites-earth-moon-space)
-- [Google invests $350 million in India’s Flipkart](https://techcrunch.com/2024/05/24/google-invests-350-million-in-indias-flipkart/)
-- [&#39;The first time I read the script ... I sobbed.&#39; &#39;Atlas&#39; stars Jennifer Lopez and Sterling K. Brown on AI paranoia and their film&#39;s emotional core&#39; &lpar;exclusive&rpar;](https://www.space.com/netflix-atlas-jennifer-lopez-sterling-brown-interview)
-- [Jio Financial unit to buy $4.32B of telecom gear from Reliance Retail](https://techcrunch.com/2024/05/23/jio-financial-unit-to-buy-4-32b-of-telecom-gear-from-reliance-retail/)
-- [Foursquare just laid off 105 employees](https://techcrunch.com/2024/05/23/foursquare-just-laid-off-105-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
