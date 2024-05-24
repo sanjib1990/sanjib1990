@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using memes, social media users have become red teams for half-baked AI features](https://techcrunch.com/2024/05/23/using-memes-social-media-users-have-become-red-teams-for-half-baked-ai-features/)
+- [Asteroid-bound Psyche spacecraft fires up ion thrusters, starts cruising through space](https://www.space.com/psyche-asteroid-mission-engine-fire-ion-cruise-control)
 - [ESA prepares for the post-ISS era, selects The Exploration Company, Thales Alenia to develop cargo spacecraft](https://techcrunch.com/2024/05/23/esa-prepares-for-the-post-iss-era-selects-the-exploration-company-thales-alenia-to-develop-cargo-spacecraft/)
 - [Expressable brings speech therapy into the home](https://techcrunch.com/2024/05/23/expressable-brings-speech-therapy-into-the-home/)
 - [We could float effortlessly in Pluto&#39;s subsurface ocean](https://www.space.com/pluto-ocean-thickness-new-horizons)
-- [International Space Development Conference 2024 beams up Star Trek&#39;s William Shatner and more in Los Angeles](https://www.space.com/star-trek-actors-beaming-to-international-space-development-conference-2024)
-- [China launches test satellite to very low Earth orbit &lpar;video&rpar;](https://www.space.com/china-launches-test-satellite-very-low-earth-orbit-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
