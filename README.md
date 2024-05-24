@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Drama at Techstars. Drama in AI. Drama everywhere.](https://techcrunch.com/2024/05/24/startups-weekly-drama-at-techstars-drama-in-ai-drama-everywhere/)
+- [Massive new NASA exoplanet catalog unveils 126 extreme and exotic worlds](https://www.space.com/exoplanet-catalog-126-worlds-solar-system)
 - [Pakistani cubesat snaps images of the moon during China&#39;s lunar far side mission &lpar;photos&rpar;](https://www.space.com/chinese-pakistani-cubesat-lunar-far-side-images)
 - [From Plaid to Figma, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/05/24/from-plaid-to-figma-here-are-the-startups-that-are-likely-or-definitely-not-having-ipos-this-year/)
 - [Feds add nine more incidents to Waymo robotaxi investigation](https://techcrunch.com/2024/05/24/feds-add-nine-more-incidents-to-waymo-robotaxi-investigation/)
-- [Sweden&#39;s Arctic spaceport moves one step closer to orbital launches](https://www.space.com/swedish-space-corporation-perigee-aerospace-partnership-announcement)
-- [Pitch Deck Teardown: Terra One’s $7.5M Seed deck](https://techcrunch.com/2024/05/24/sample-seed-pitch-deck-terra-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
