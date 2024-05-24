@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feds add nine more incidents to Waymo robotaxi investigation](https://techcrunch.com/2024/05/24/feds-add-nine-more-incidents-to-waymo-robotaxi-investigation/)
+- [Sweden&#39;s Arctic spaceport moves one step closer to orbital launches](https://www.space.com/swedish-space-corporation-perigee-aerospace-partnership-announcement)
+- [Pitch Deck Teardown: Terra One’s $7.5M Seed deck](https://techcrunch.com/2024/05/24/sample-seed-pitch-deck-terra-one/)
+- [Watch Rocket Lab launch a NASA climate change cubesat early on May 25](https://www.space.com/rocket-lab-nasa-prefire-climate-change-mission-launch)
 - [Women in AI: Chinasa T. Okolo researches AI’s impact on the Global South](https://techcrunch.com/2024/05/24/women-in-ai-chinasa-t-okolo-researches-ais-impact-on-the-global-south/)
-- [Disrupt 2024 early-bird tickets fly away next Friday](https://techcrunch.com/2024/05/24/disrupt-2024-early-bird-tickets-fly-away-next-friday/)
-- [The original &#39;Mr. Eclipse:&#39; How a 19th-century astronomer calculated the dates of over 13,000 eclipses](https://www.space.com/eclipses-canon-original-mr-eclipse)
-- [SpaceX targeting June 5 for 4th test flight of Starship megarocket](https://www.space.com/spacex-targeting-june-5-starship-fourth-test-flight)
-- [Big tech companies are plowing money into AI startups, which could help them dodge antitrust concerns](https://techcrunch.com/2024/05/24/big-tech-companies-are-plowing-money-into-ai-startups-which-could-help-them-dodge-antitrust-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
