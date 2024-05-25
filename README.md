@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Deal Dive: Can blockchain make weather forecasts better? WeatherXM thinks so](https://techcrunch.com/2024/05/25/deal-dive-can-blockchain-make-weather-forecasts-better-weatherxm-thinks-so/)
 - [Spyware app pcTattletale was hacked and its website defaced](https://techcrunch.com/2024/05/25/spyware-app-pctattletale-was-hacked-and-its-website-defaced/)
-- [With a16z-backed Synapse’s collapse, BaaS fintech is a mess and 10 million consumers could be hurt](https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/)
+- [Synapse, backed by a16z, has collapsed, and 10 million consumers could be hurt](https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/)
 - [Will a &#39;rare&#39; lineup of planets be visible to the naked eye in the night sky on June 3?](https://www.space.com/planet-lineup-visible-june-3-2024)
 - [Women in AI: Sarah Myers West says we should ask, ‘Why build AI at all?’](https://techcrunch.com/2024/05/25/women-in-ai-sarah-myers-west-says-we-should-ask-why-build-ai-at-all/)
 <!-- BLOG-POST-LIST:END -->
