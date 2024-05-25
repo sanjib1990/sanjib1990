@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will a &#39;rare&#39; lineup of planets be visible to the naked eye in the night sky on June 3?](https://www.space.com/planet-lineup-visible-june-3-2024)
+- [Women in AI: Sarah Myers West says we should ask, ‘Why build AI at all?’](https://techcrunch.com/2024/05/25/women-in-ai-sarah-myers-west-says-we-should-ask-why-build-ai-at-all/)
+- [This Week in AI: OpenAI and publishers are partners of convenience](https://techcrunch.com/2024/05/25/this-week-in-ai-openai-and-publishers-are-partners-of-convenience/)
 - [&#39;Alien&#39; heard us all scream 45 years ago today. Here&#39;s what it was like on opening day](https://www.space.com/alien-45th-anniversary-opening-day-1979)
 - [AI tutors are quietly changing how kids in the US study, and the leading apps are from China](https://techcrunch.com/2024/05/25/ai-tutors-are-quietly-changing-how-kids-in-the-us-study-and-the-leading-apps-are-from-china/)
-- [This Week In Space podcast: Episode 112 —Mars on Pause?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-112-mars-on-pause)
-- [Towel Day 2024: What&#39;s the deal with towels in &#39;The Hitchhiker&#39;s Guide to the Galaxy?&#39;](https://www.space.com/towel-day-2024-hitchhikers-guide-to-the-galaxy)
-- [A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen?](https://www.space.com/spacex-polaris-program-hubble-servicing-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
