@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Alien&#39; heard us all scream 45 years ago today. Here&#39;s what it was like on opening day](https://www.space.com/alien-45th-anniversary-opening-day-1979)
+- [AI tutors are quietly changing how kids in the US study, and the leading apps are from China](https://techcrunch.com/2024/05/25/ai-tutors-are-quietly-changing-how-kids-in-the-us-study-and-the-leading-apps-are-from-china/)
+- [This Week In Space podcast: Episode 112 —Mars on Pause?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-112-mars-on-pause)
 - [Towel Day 2024: What&#39;s the deal with towels in &#39;The Hitchhiker&#39;s Guide to the Galaxy?&#39;](https://www.space.com/towel-day-2024-hitchhikers-guide-to-the-galaxy)
 - [A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen?](https://www.space.com/spacex-polaris-program-hubble-servicing-mission)
-- [James Webb Space Telescope spots 3 of our universe&#39;s earliest galaxies](https://www.space.com/james-webb-space-telescope-galaxy-formation)
-- [&#39;It&#39;s so complicated:&#39; Boeing Starliner teams diagnosing helium leak ahead of June 1 astronaut launch](https://www.space.com/boeing-starliner-launch-date-helium-leak)
-- [Startups Weekly: Drama at Techstars. Drama in AI. Drama everywhere.](https://techcrunch.com/2024/05/24/startups-weekly-drama-at-techstars-drama-in-ai-drama-everywhere/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
