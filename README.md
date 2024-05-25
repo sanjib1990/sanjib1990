@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With a16z-backed Synapse’s collapse, BaaS fintech is a mess and 10 million consumers could be hurt](https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/)
 - [Will a &#39;rare&#39; lineup of planets be visible to the naked eye in the night sky on June 3?](https://www.space.com/planet-lineup-visible-june-3-2024)
 - [Women in AI: Sarah Myers West says we should ask, ‘Why build AI at all?’](https://techcrunch.com/2024/05/25/women-in-ai-sarah-myers-west-says-we-should-ask-why-build-ai-at-all/)
 - [This Week in AI: OpenAI and publishers are partners of convenience](https://techcrunch.com/2024/05/25/this-week-in-ai-openai-and-publishers-are-partners-of-convenience/)
 - [&#39;Alien&#39; heard us all scream 45 years ago today. Here&#39;s what it was like on opening day](https://www.space.com/alien-45th-anniversary-opening-day-1979)
-- [AI tutors are quietly changing how kids in the US study, and the leading apps are from China](https://techcrunch.com/2024/05/25/ai-tutors-are-quietly-changing-how-kids-in-the-us-study-and-the-leading-apps-are-from-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
