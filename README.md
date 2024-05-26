@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black hole singularities defy physics. New research could finally do away with them.](https://www.space.com/new-research-does-away-with-singularities-defy-physics)
 - [The ups and downs of investing in Europe, with VCs Saul Klein and Raluca Ragab](https://techcrunch.com/2024/05/25/the-ups-and-downs-of-investing-in-europe-with-vcs-saul-klein-and-raluca-ragab/)
 - [Scarlett Johansson brought receipts to the OpenAI controversy](https://techcrunch.com/2024/05/25/scarlett-johansson-brought-receipts-to-the-openai-controversy/)
 - [Deal Dive: Can blockchain make weather forecasts better? WeatherXM thinks so](https://techcrunch.com/2024/05/25/deal-dive-can-blockchain-make-weather-forecasts-better-weatherxm-thinks-so/)
 - [Spyware app pcTattletale was hacked and its website defaced](https://techcrunch.com/2024/05/25/spyware-app-pctattletale-was-hacked-and-its-website-defaced/)
-- [Synapse, backed by a16z, has collapsed, and 10 million consumers could be hurt](https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
