@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator’s Garry Tan supports some AI regulation but warns against AI monopolies](https://techcrunch.com/2024/05/26/ai-garry-tan-y-combinator/)
+- [&#39;It has an &#39;Aliens&#39;-like vibe:&#39; &#39;Atlas&#39; director Brad Peyton on channeling James Cameron &lpar;exclusive&rpar;](https://www.space.com/netflix-atlas-director-interview)
+- [How Maven’s AI-run ‘serendipity network’ can make social media interesting again](https://techcrunch.com/2024/05/26/how-mavens-ai-run-serendipity-network-can-make-social-media-interesting-again/)
 - [Starmus 2024: Scientists and musicians unite in Bratislava to celebrate planet Earth](https://www.space.com/starmus-festival-2024-bratislava-slovakia-experience)
 - [Women in AI: Miriam Vogel stresses the need for responsible AI](https://techcrunch.com/2024/05/26/women-in-ai-miriam-vogel-stresses-the-need-for-responsible-ai/)
-- [The future is bright for astronomy, and very expensive &lpar;op-ed&rpar;](https://www.space.com/bright-and-expensive-future-of-astronomy)
-- [What are Google’s AI Overviews good for?](https://techcrunch.com/2024/05/26/what-are-googles-ai-overviews-good-for/)
-- [NASA&#39;s &#39;Mohawk Guy&#39; cameo in &#39;3 Body Problem&#39; explained &lpar;exclusive&rpar;](https://www.space.com/3-body-problem-netflix-bobak-ferdowski-cameo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
