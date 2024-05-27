@@ -98,7 +98,7 @@
 - [A new theory of quantum gravity could explain the biggest puzzle in cosmology, study suggests](https://www.space.com/new-quantum-gravity-theory-explains-biggest-cosmology-puzzle)
 - [LatAm startups: Apply to Startup Battlefield 200](https://techcrunch.com/2024/05/27/latam-startups-apply-to-startup-battlefield-200/)
 - [5 days left to get your early-bird Disrupt passes](https://techcrunch.com/2024/05/27/five-days-left-to-get-your-early-bird-disrupt-passes/)
-- [Spanish startups reached €100 billion in aggregated value in 2023, consolidating the country’s position as a midsize European tech ecosystem](https://techcrunch.com/2024/05/27/spanish-startups-reached-e100-billion-in-aggregated-value-in-2023-consolidating-the-countrys-position-as-a-midsize-european-tech-ecosystem/)
+- [Spanish startups reached €100 billion in aggregate value last year](https://techcrunch.com/2024/05/27/spanish-startups-reached-e100-billion-in-aggregated-value-in-2023-consolidating-the-countrys-position-as-a-midsize-european-tech-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
