@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 hurricane season should be busy, NOAA says](https://www.space.com/busy-2024-hurricane-season-noaa)
 - [This telescope can observe stars, satellites and more during the day. But how?](https://www.space.com/multi-lens-telescope-daytime-skywatching)
 - [Elon Musk’s xAI raises $6B from Valor, a16z, and Sequoia](https://techcrunch.com/2024/05/26/elon-musks-xai-raises-6b-from-valor-a16z-and-sequoia/)
 - [Indian EV startup Zypp Electric secures backing to fund expansion to Southeast Asia](https://techcrunch.com/2024/05/26/indian-ev-startup-zypp-electric-secures-eneos-backing-to-fund-expansion-to-southeast-asia/)
 - [A venture capital firm looks back on changing norms, from board seats to backing rival startups](https://techcrunch.com/2024/05/26/a-venture-capital-firm-looks-back-on-changing-industry-norms-from-board-seats-to-backing-rival-startups/)
-- [Families of Uvalde shooting victims sue Activision and Meta](https://techcrunch.com/2024/05/26/families-of-uvalde-shooting-victims-sue-activision-and-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
