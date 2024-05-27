@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Onyx Motorbikes was in trouble — and then its 37-year-old owner died](https://techcrunch.com/2024/05/27/onyx-motorbikes-was-in-trouble-and-then-its-37-year-old-owner-died/)
-- [Alabama high school students win world&#39;s largest rocketry challenge](https://www.space.com/worlds-largest-rocket-challenge-alabama)
-- [Iyo thinks its gen AI earbuds can succeed where Humane and Rabbit stumbled](https://techcrunch.com/2024/05/27/iyo-thinks-its-gen-ai-earbuds-can-succeed-where-humane-and-rabbit-stumbled/)
-- [Watch Jedi battle hand-to-hand in new clip for Disney+&#39;s &#39;The Acolyte&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/watch-jedi-battle-hand-to-hand-in-new-clip-for-disneys-the-acolyte-video)
-- [Women in AI: Arati Prabhakar thinks it’s crucial to get AI ‘right’](https://techcrunch.com/2024/05/27/women-in-ai-arati-prabhakar-thinks-its-crucial-to-get-ai-right/)
+- [EU’s ChatGPT taskforce offers first look at detangling the AI chatbot’s privacy compliance](https://techcrunch.com/2024/05/27/eus-chatgpt-taskforce-offers-first-look-at-detangling-the-ai-chatbots-privacy-compliance/)
+- [A new theory of quantum gravity could explain the biggest puzzle in cosmology, study suggests](https://www.space.com/new-quantum-gravity-theory-explains-biggest-cosmology-puzzle)
+- [LatAm startups: Apply to Startup Battlefield 200](https://techcrunch.com/2024/05/27/latam-startups-apply-to-startup-battlefield-200/)
+- [5 days left to get your early-bird Disrupt passes](https://techcrunch.com/2024/05/27/five-days-left-to-get-your-early-bird-disrupt-passes/)
+- [Spanish startups reached €100 billion in aggregated value in 2023, consolidating the country’s position as a midsize European tech ecosystem](https://techcrunch.com/2024/05/27/spanish-startups-reached-e100-billion-in-aggregated-value-in-2023-consolidating-the-countrys-position-as-a-midsize-european-tech-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
