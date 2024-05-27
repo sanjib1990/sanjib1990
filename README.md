@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Onyx Motorbikes was in trouble — and then its 37-year-old owner died](https://techcrunch.com/2024/05/27/onyx-motorbikes-was-in-trouble-and-then-its-37-year-old-owner-died/)
+- [Alabama high school students win world&#39;s largest rocketry challenge](https://www.space.com/worlds-largest-rocket-challenge-alabama)
+- [Iyo thinks its gen AI earbuds can succeed where Humane and Rabbit stumbled](https://techcrunch.com/2024/05/27/iyo-thinks-its-gen-ai-earbuds-can-succeed-where-humane-and-rabbit-stumbled/)
 - [Watch Jedi battle hand-to-hand in new clip for Disney+&#39;s &#39;The Acolyte&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/watch-jedi-battle-hand-to-hand-in-new-clip-for-disneys-the-acolyte-video)
 - [Women in AI: Arati Prabhakar thinks it’s crucial to get AI ‘right’](https://techcrunch.com/2024/05/27/women-in-ai-arati-prabhakar-thinks-its-crucial-to-get-ai-right/)
-- [US economy to benefit from NASA investment in 3D-printable superalloy](https://www.space.com/us-economy-nasa-3d-printed-superalloy)
-- [Doly lets you generate 3D product videos from your iPhone](https://techcrunch.com/2024/05/27/doly-lets-you-generate-3d-product-videos-from-your-phone/)
-- [SpaceX to launch 23 Starlink satellites from Florida this morning](https://www.space.com/spacex-starlink-launch-group-6-60)
 <!-- BLOG-POST-LIST:END -->
 
 ---
