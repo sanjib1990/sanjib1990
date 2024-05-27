@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s xAI raises $6B from Valor, a16z, and Sequoia](https://techcrunch.com/2024/05/26/elon-musks-xai-raises-6b-from-valor-a16z-and-sequoia/)
 - [Indian EV startup Zypp Electric secures backing to fund expansion to Southeast Asia](https://techcrunch.com/2024/05/26/indian-ev-startup-zypp-electric-secures-eneos-backing-to-fund-expansion-to-southeast-asia/)
 - [A venture capital firm looks back on changing norms, from board seats to backing rival startups](https://techcrunch.com/2024/05/26/a-venture-capital-firm-looks-back-on-changing-industry-norms-from-board-seats-to-backing-rival-startups/)
 - [Families of Uvalde shooting victims sue Activision and Meta](https://techcrunch.com/2024/05/26/families-of-uvalde-shooting-victims-sue-activision-and-meta/)
 - [Y Combinator’s Garry Tan supports some AI regulation but warns against AI monopolies](https://techcrunch.com/2024/05/26/ai-garry-tan-y-combinator/)
-- [&#39;It has an &#39;Aliens&#39;-like vibe:&#39; &#39;Atlas&#39; director Brad Peyton on channeling James Cameron &lpar;exclusive&rpar;](https://www.space.com/netflix-atlas-director-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
