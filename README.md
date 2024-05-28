@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Astronomy has a bullying and harassment issue: &#39;Results presented in this report are bleak&#39;](https://www.space.com/ras-bullying-report-space-sector-astronomy-field)
-- [More neobanks are becoming mobile networks — and Nubank wants a piece of the action](https://techcrunch.com/2024/05/28/more-neobanks-are-becoming-mobile-networks-and-nubank-wants-a-piece-of-the-action/)
-- [MARS doubles down on India’s Infra.Market with new $50M investment](https://techcrunch.com/2024/05/28/mars-doubles-down-on-indias-infra-market-with-new-50m-investment/)
-- [Cloover wants to speed solar adoption by helping installers finance new sales](https://techcrunch.com/2024/05/27/cloover-wants-to-speed-solar-adoption-by-helping-installers-finance-new-sales/)
-- [Adani looks to battle Reliance, Walmart in India’s e-commerce, payments race, report says](https://techcrunch.com/2024/05/27/adani-ecommerce-payments-india/)
+- [A new theory of quantum gravity could explain the biggest puzzle in cosmology, study suggests](https://www.space.com/new-quantum-gravity-theory-explains-biggest-cosmology-puzzle)
+- [Alabama high school students win world&#39;s largest rocketry challenge](https://www.space.com/worlds-largest-rocket-challenge-alabama)
+- [Watch Jedi battle hand-to-hand in new clip for Disney+&#39;s &#39;The Acolyte&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/watch-jedi-battle-hand-to-hand-in-new-clip-for-disneys-the-acolyte-video)
+- [US economy to benefit from NASA investment in 3D-printable superalloy](https://www.space.com/us-economy-nasa-3d-printed-superalloy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
