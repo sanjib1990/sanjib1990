@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomy has a bullying and harassment issue: &#39;Results presented in this report are bleak&#39;](https://www.space.com/ras-bullying-report-space-sector-astronomy-field)
 - [More neobanks are becoming mobile networks — and Nubank wants a piece of the action](https://techcrunch.com/2024/05/28/more-neobanks-are-becoming-mobile-networks-and-nubank-wants-a-piece-of-the-action/)
 - [MARS doubles down on India’s Infra.Market with new $50M investment](https://techcrunch.com/2024/05/28/mars-doubles-down-on-indias-infra-market-with-new-50m-investment/)
 - [Cloover wants to speed solar adoption by helping installers finance new sales](https://techcrunch.com/2024/05/27/cloover-wants-to-speed-solar-adoption-by-helping-installers-finance-new-sales/)
 - [Adani looks to battle Reliance, Walmart in India’s e-commerce, payments race, report says](https://techcrunch.com/2024/05/27/adani-ecommerce-payments-india/)
-- [Ledger starts shipping its high-end hardware crypto wallet](https://techcrunch.com/2024/05/27/ledger-starts-shipping-its-high-end-hardware-crypto-wallet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
