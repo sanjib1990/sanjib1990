@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [More neobanks are becoming mobile networks — and Nubank wants a piece of the action](https://techcrunch.com/2024/05/28/more-neobanks-are-becoming-mobile-networks-and-nubank-wants-a-piece-of-the-action/)
 - [MARS doubles down on India’s Infra.Market with new $50M investment](https://techcrunch.com/2024/05/28/mars-doubles-down-on-indias-infra-market-with-new-50m-investment/)
 - [Cloover wants to speed solar adoption by helping installers finance new sales](https://techcrunch.com/2024/05/27/cloover-wants-to-speed-solar-adoption-by-helping-installers-finance-new-sales/)
 - [Adani looks to battle Reliance, Walmart in India’s e-commerce, payments race, report says](https://techcrunch.com/2024/05/27/adani-ecommerce-payments-india/)
 - [Ledger starts shipping its high-end hardware crypto wallet](https://techcrunch.com/2024/05/27/ledger-starts-shipping-its-high-end-hardware-crypto-wallet/)
-- [EU’s ChatGPT taskforce offers first look at detangling the AI chatbot’s privacy compliance](https://techcrunch.com/2024/05/27/eus-chatgpt-taskforce-offers-first-look-at-detangling-the-ai-chatbots-privacy-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
