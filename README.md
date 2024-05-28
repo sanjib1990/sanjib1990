@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Milky Way&#39;s heart shines over construction site of world&#39;s largest telescope](https://www.space.com/milky-way-shines-worlds-largest-telescope)
-- [Google adds AI-powered features to Chromebook](https://techcrunch.com/2024/05/28/google-adds-ai-powered-features-to-chromebook/)
-- [The Chainsmokers light up Disrupt 2024](https://techcrunch.com/2024/05/28/the-chainsmokers-light-up-disrupt-2024/)
-- [Colossal X-class solar flare suggests return of sunspot group that fueled May&#39;s epic auroras &lpar;video&rpar;](https://www.space.com/x-class-solar-flare-from-historic-may-solar-storms-sunspot-suggests-return)
-- [LumApps, the French ‘intranet superapp,’ sells majority stake to Bridgepoint in a $650M deal](https://techcrunch.com/2024/05/28/lumapps-the-french-intranet-superapp-sells-majority-stake-to-bridgepoint-in-a-650m-deal/)
+- [&#39;Star Trek Online&#39; Season 32 arrives today, starring Denise Crosby as Capt. Sela](https://www.space.com/star-trek-online-season-32-preview)
+- [Faircado raises $3M to nudge people to buy pre-owned goods](https://techcrunch.com/2024/05/28/faircado-raises-3m-to-nudge-people-to-buy-pre-owned-goods/)
+- [US condemns failed North Korean rocket launch as breach of international security: report](https://www.space.com/north-korea-rocket-launch-may-28-security)
+- [Tumblr launches its semi-private Communities in open beta](https://techcrunch.com/2024/05/28/tumblr-launches-its-semi-private-communities-in-open-beta/)
+- [Félix Pago raises $15.5 million to help Latino workers send money home via WhatsApp](https://techcrunch.com/2024/05/28/felix-pago-raises-15-5-million-to-help-latino-workers-send-money-home-via-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
