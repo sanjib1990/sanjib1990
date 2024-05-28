@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adani to battle Reliance, Walmart in India’s e-commerce, payments race, report says](https://techcrunch.com/2024/05/27/adani-ecommerce-payments-india/)
+- [Cloover wants to speed solar adoption by helping installers finance new sales](https://techcrunch.com/2024/05/27/cloover-wants-to-speed-solar-adoption-by-helping-installers-finance-new-sales/)
+- [Adani looks to battle Reliance, Walmart in India’s e-commerce, payments race, report says](https://techcrunch.com/2024/05/27/adani-ecommerce-payments-india/)
 - [Ledger starts shipping its high-end hardware crypto wallet](https://techcrunch.com/2024/05/27/ledger-starts-shipping-its-high-end-hardware-crypto-wallet/)
 - [EU’s ChatGPT taskforce offers first look at detangling the AI chatbot’s privacy compliance](https://techcrunch.com/2024/05/27/eus-chatgpt-taskforce-offers-first-look-at-detangling-the-ai-chatbots-privacy-compliance/)
 - [A new theory of quantum gravity could explain the biggest puzzle in cosmology, study suggests](https://www.space.com/new-quantum-gravity-theory-explains-biggest-cosmology-puzzle)
-- [LatAm startups: Apply to Startup Battlefield 200](https://techcrunch.com/2024/05/27/latam-startups-apply-to-startup-battlefield-200/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
