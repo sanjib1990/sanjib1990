@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does the Milky Way orbit anything?](https://www.space.com/does-the-milky-way-orbit-anything)
+- [Chinese astronauts perform record-breaking spacewalk outside Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-18-record-breaking-spacewalk-may-2024)
+- [Rock band’s hidden hacking-themed website gets hacked](https://techcrunch.com/2024/05/28/rock-bands-hidden-hacking-themed-website-gets-hacked/)
+- [Anthropic hires former OpenAI safety lead to head up new team](https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/)
 - [The demise of BaaS fintech Synapse could derail the funding prospects for other startups in the space](https://techcrunch.com/2024/05/28/the-demise-of-baas-fintech-synapse-could-derail-the-funding-prospects-for-other-startups-in-the-space/)
-- [Zero Debris Charter aims to boost international cooperation on cleaning up Earth&#39;s space junk problem](https://www.space.com/space-junk-zero-debris-charter-esa)
-- [YouTube’s free games catalog ‘Playables’ rolls out to all users](https://techcrunch.com/2024/05/28/youtubes-free-games-catalog-playables-rolls-out-to-all-users/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/28/tech-layoffs-2023-list/)
-- [OpenAI’s new safety committee is made up of all insiders](https://techcrunch.com/2024/05/28/openais-new-safety-committee-is-made-up-of-all-insiders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
