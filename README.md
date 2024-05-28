@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skej’s AI meeting scheduling assistant works like adding an EA to your email](https://techcrunch.com/2024/05/28/skejs-ai-meeting-scheduling-assistant-works-like-adding-an-ea-to-your-email/)
+- [Just keep swimming! Zebrafish doing fine in zero gravity on China&#39;s Tiangong space station &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-zebrafish-healthy)
 - [&#39;Star Trek Online&#39; Season 32 arrives today, starring Denise Crosby as Capt. Sela](https://www.space.com/star-trek-online-season-32-preview)
 - [Faircado raises $3M to nudge people to buy pre-owned goods](https://techcrunch.com/2024/05/28/faircado-raises-3m-to-nudge-people-to-buy-pre-owned-goods/)
 - [US condemns failed North Korean rocket launch as breach of international security: report](https://www.space.com/north-korea-rocket-launch-may-28-security)
-- [Tumblr launches its semi-private Communities in open beta](https://techcrunch.com/2024/05/28/tumblr-launches-its-semi-private-communities-in-open-beta/)
-- [Félix Pago raises $15.5 million to help Latino workers send money home via WhatsApp](https://techcrunch.com/2024/05/28/felix-pago-raises-15-5-million-to-help-latino-workers-send-money-home-via-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
