@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You&#39;ve been using AI Wrong](https://www.youtube.com/watch?v=UbDyjIIGaxQ)
 - [What is SNMP?](https://www.youtube.com/watch?v=_ZdeEQ8BeJk)
 - [How CPUs do Out Of Order Operations - Computerphile](https://www.youtube.com/watch?v=jNC9LPc3BI0)
 - [run AI on your laptop....it&#39;s PRIVATE!!](https://www.youtube.com/watch?v=piFDfCaISk8)
 - [Everything Here is Sacred &lpar;Terrascope Radio Replay&rpar;](https://www.youtube.com/watch?v=G46Vpp0jPDg)
-- [The Power of Experience with Dr. Ari Epstein](https://www.youtube.com/watch?v=2pUPQRG0T5Y)
 <!-- YOUTUBE:END -->
 
 ---
