@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotic Russian cargo ship leaves the ISS, burns up in Earth&#39;s atmosphere &lpar;photo&rpar;](https://www.space.com/russia-progress-86-cargo-spacecraft-iss-depature-photo)
+- [China’s $47B semiconductor fund puts chip sovereignty front and center](https://techcrunch.com/2024/05/28/chinas-47b-semiconductor-fund-puts-chip-sovereignty-front-and-center/)
 - [How scientists shipped astronomy&#39;s largest camera from California to Chile](https://www.space.com/scientists-astronomy-largest-camera-california-chile)
 - [Apple’s Design Awards nominees highlight indies and startups, largely ignore AI &lpar;except for Arc&rpar;](https://techcrunch.com/2024/05/28/apples-design-awards-nominees-highlight-indies-and-startups-largely-ignore-ai-except-for-arc/)
 - [Spyware maker pcTattletale shutters after data breach](https://techcrunch.com/2024/05/28/pctattletale-spyware-shutters-data-breach/)
-- [Volcanoes on Venus might be erupting right now](https://www.space.com/venus-volcanism-magellan-spacecraft-data)
-- [Netflix&#39;s new sci-fi flick &#39;Atlas&#39; charms with old-school heroics and rousing mech fights &lpar;review&rpar;](https://www.space.com/netflix-atlas-science-fiction-film-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
