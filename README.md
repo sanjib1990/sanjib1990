@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix&#39;s new sci-fi flick &#39;Atlas&#39; charms with old-school heroics and rousing mech fights &lpar;review&rpar;](https://www.space.com/netflix-atlas-science-fiction-film-review)
+- [AI models have favorite numbers, because they think they’re people](https://techcrunch.com/2024/05/28/ai-models-have-favorite-numbers-because-they-think-theyre-people/)
 - [Watch SpaceX send Earth-observing satellite to orbit today on 2nd leg of doubleheader](https://www.space.com/spacex-earthcare-satellite-mission-launch)
 - [Scientists pick their favorite Euclid &#39;dark universe&#39; telescope images: &#39;The best is still to come&#39;](https://www.space.com/euclid-space-telescope-images-scientists-favorite-scenes)
 - [Does the Milky Way orbit anything?](https://www.space.com/does-the-milky-way-orbit-anything)
-- [Chinese astronauts perform record-breaking spacewalk outside Tiangong space station &lpar;video&rpar;](https://www.space.com/china-shenzhou-18-record-breaking-spacewalk-may-2024)
-- [Rock band’s hidden hacking-themed website gets hacked](https://techcrunch.com/2024/05/28/rock-bands-hidden-hacking-themed-website-gets-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
