@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The demise of BaaS fintech Synapse could derail the funding prospects for other startups in the space](https://techcrunch.com/2024/05/28/the-demise-of-baas-fintech-synapse-could-derail-the-funding-prospects-for-other-startups-in-the-space/)
+- [Zero Debris Charter aims to boost international cooperation on cleaning up Earth&#39;s space junk problem](https://www.space.com/space-junk-zero-debris-charter-esa)
+- [YouTube’s free games catalog ‘Playables’ rolls out to all users](https://techcrunch.com/2024/05/28/youtubes-free-games-catalog-playables-rolls-out-to-all-users/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/05/28/tech-layoffs-2023-list/)
 - [OpenAI’s new safety committee is made up of all insiders](https://techcrunch.com/2024/05/28/openais-new-safety-committee-is-made-up-of-all-insiders/)
-- [Early bird gets the savings — 4 days left for Disrupt sale](https://techcrunch.com/2024/05/28/early-bird-gets-the-savings-4-days-left-for-disrupt-sale/)
-- [Skej’s AI meeting scheduling assistant works like adding an EA to your email](https://techcrunch.com/2024/05/28/skejs-ai-meeting-scheduling-assistant-works-like-adding-an-ea-to-your-email/)
-- [Just keep swimming! Zebrafish doing fine in zero gravity on China&#39;s Tiangong space station &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-zebrafish-healthy)
-- [&#39;Star Trek Online&#39; Season 32 arrives today, starring Denise Crosby as Capt. Sela](https://www.space.com/star-trek-online-season-32-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
