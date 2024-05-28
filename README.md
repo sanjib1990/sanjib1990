@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomy has a bullying and harassment issue: &#39;Results presented in this report are bleak&#39;](https://www.space.com/ras-bullying-report-space-sector-astronomy-field)
-- [A new theory of quantum gravity could explain the biggest puzzle in cosmology, study suggests](https://www.space.com/new-quantum-gravity-theory-explains-biggest-cosmology-puzzle)
-- [Alabama high school students win world&#39;s largest rocketry challenge](https://www.space.com/worlds-largest-rocket-challenge-alabama)
-- [Watch Jedi battle hand-to-hand in new clip for Disney+&#39;s &#39;The Acolyte&#39; &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/watch-jedi-battle-hand-to-hand-in-new-clip-for-disneys-the-acolyte-video)
-- [US economy to benefit from NASA investment in 3D-printable superalloy](https://www.space.com/us-economy-nasa-3d-printed-superalloy)
+- [The Milky Way&#39;s heart shines over construction site of world&#39;s largest telescope](https://www.space.com/milky-way-shines-worlds-largest-telescope)
+- [Google adds AI-powered features to Chromebook](https://techcrunch.com/2024/05/28/google-adds-ai-powered-features-to-chromebook/)
+- [The Chainsmokers light up Disrupt 2024](https://techcrunch.com/2024/05/28/the-chainsmokers-light-up-disrupt-2024/)
+- [Colossal X-class solar flare suggests return of sunspot group that fueled May&#39;s epic auroras &lpar;video&rpar;](https://www.space.com/x-class-solar-flare-from-historic-may-solar-storms-sunspot-suggests-return)
+- [LumApps, the French ‘intranet superapp,’ sells majority stake to Bridgepoint in a $650M deal](https://techcrunch.com/2024/05/28/lumapps-the-french-intranet-superapp-sells-majority-stake-to-bridgepoint-in-a-650m-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
