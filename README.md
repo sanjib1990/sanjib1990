@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s new safety committee is made up of all insiders](https://techcrunch.com/2024/05/28/openais-new-safety-committee-is-made-up-of-all-insiders/)
+- [Early bird gets the savings — 4 days left for Disrupt sale](https://techcrunch.com/2024/05/28/early-bird-gets-the-savings-4-days-left-for-disrupt-sale/)
 - [Skej’s AI meeting scheduling assistant works like adding an EA to your email](https://techcrunch.com/2024/05/28/skejs-ai-meeting-scheduling-assistant-works-like-adding-an-ea-to-your-email/)
 - [Just keep swimming! Zebrafish doing fine in zero gravity on China&#39;s Tiangong space station &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-zebrafish-healthy)
 - [&#39;Star Trek Online&#39; Season 32 arrives today, starring Denise Crosby as Capt. Sela](https://www.space.com/star-trek-online-season-32-preview)
-- [Faircado raises $3M to nudge people to buy pre-owned goods](https://techcrunch.com/2024/05/28/faircado-raises-3m-to-nudge-people-to-buy-pre-owned-goods/)
-- [US condemns failed North Korean rocket launch as breach of international security: report](https://www.space.com/north-korea-rocket-launch-may-28-security)
 <!-- BLOG-POST-LIST:END -->
 
 ---
