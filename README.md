@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How scientists shipped astronomy&#39;s largest camera from California to Chile](https://www.space.com/scientists-astronomy-largest-camera-california-chile)
+- [Apple’s Design Awards nominees highlight indies and startups, largely ignore AI &lpar;except for Arc&rpar;](https://techcrunch.com/2024/05/28/apples-design-awards-nominees-highlight-indies-and-startups-largely-ignore-ai-except-for-arc/)
+- [Spyware maker pcTattletale shutters after data breach](https://techcrunch.com/2024/05/28/pctattletale-spyware-shutters-data-breach/)
+- [Volcanoes on Venus might be erupting right now](https://www.space.com/venus-volcanism-magellan-spacecraft-data)
 - [Netflix&#39;s new sci-fi flick &#39;Atlas&#39; charms with old-school heroics and rousing mech fights &lpar;review&rpar;](https://www.space.com/netflix-atlas-science-fiction-film-review)
-- [AI models have favorite numbers, because they think they’re people](https://techcrunch.com/2024/05/28/ai-models-have-favorite-numbers-because-they-think-theyre-people/)
-- [Watch SpaceX send Earth-observing satellite to orbit today on 2nd leg of doubleheader](https://www.space.com/spacex-earthcare-satellite-mission-launch)
-- [Scientists pick their favorite Euclid &#39;dark universe&#39; telescope images: &#39;The best is still to come&#39;](https://www.space.com/euclid-space-telescope-images-scientists-favorite-scenes)
-- [Does the Milky Way orbit anything?](https://www.space.com/does-the-milky-way-orbit-anything)
 <!-- BLOG-POST-LIST:END -->
 
 ---
