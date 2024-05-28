@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [15 crazy new JS framework features you don’t know yet](https://www.youtube.com/watch?v=466U-2D86bc)
 - [You&#39;ve been using AI Wrong](https://www.youtube.com/watch?v=UbDyjIIGaxQ)
 - [What is SNMP?](https://www.youtube.com/watch?v=_ZdeEQ8BeJk)
 - [How CPUs do Out Of Order Operations - Computerphile](https://www.youtube.com/watch?v=jNC9LPc3BI0)
 - [run AI on your laptop....it&#39;s PRIVATE!!](https://www.youtube.com/watch?v=piFDfCaISk8)
-- [Everything Here is Sacred &lpar;Terrascope Radio Replay&rpar;](https://www.youtube.com/watch?v=G46Vpp0jPDg)
 <!-- YOUTUBE:END -->
 
 ---
