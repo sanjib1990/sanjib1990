@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What&#39;s Worth Making? with Prof. Hal Abelson](https://www.youtube.com/watch?v=gW7BnC3jsVk)
 - [15 crazy new JS framework features you don’t know yet](https://www.youtube.com/watch?v=466U-2D86bc)
 - [You&#39;ve been using AI Wrong](https://www.youtube.com/watch?v=UbDyjIIGaxQ)
 - [What is SNMP?](https://www.youtube.com/watch?v=_ZdeEQ8BeJk)
 - [How CPUs do Out Of Order Operations - Computerphile](https://www.youtube.com/watch?v=jNC9LPc3BI0)
-- [run AI on your laptop....it&#39;s PRIVATE!!](https://www.youtube.com/watch?v=piFDfCaISk8)
 <!-- YOUTUBE:END -->
 
 ---
