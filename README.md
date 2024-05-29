@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This founder says memetech is the next big thing](https://techcrunch.com/2024/05/29/this-founder-says-memetech-is-the-next-big-thing/)
-- [Kino is a new iPhone app for videographers from the makers of Halide](https://techcrunch.com/2024/05/29/meet-kino-new-iphone-app-for-pro-and-amateur-videographers-from-the-makers-of-halide/)
-- [Harness snags Split.io, as it goes all in on feature flags and experiments](https://techcrunch.com/2024/05/29/harness-snags-split-io-as-it-goes-all-in-on-feature-flags-and-experiments/)
-- [House bill would ban Chinese connected vehicles over security concerns](https://techcrunch.com/2024/05/29/house-bill-would-ban-chinese-connected-vehicles-over-security-concerns/)
-- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
+- [Boeing Starliner astronauts arrive at launch site for 1st flight test on June 1 &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-boeing-starliner-arrive-launch-site-helium-leak)
+- [After co-founder’s murder at the hands of Hamas, cloud startup Firefly raises $23M](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
+- [Mistral releases its first generative AI model for code](https://techcrunch.com/2024/05/29/mistral-releases-its-first-generative-ai-model-for-code/)
+- [Pinterest expands its Creator Fund to allow founders](https://techcrunch.com/2024/05/29/pinterest-expands-its-creator-fund-to-allow-founders/)
+- [Cadillac’s new Optiq EV is designed to hook young hipsters](https://techcrunch.com/2024/05/29/the-cadillac-optiq-is-an-entry-level-luxury-ev-designed-to-hook-young-buyers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
