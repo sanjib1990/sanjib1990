@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI signs on 100K PwC workers to its ChatGPT enterprise tier, as the consultant becomes its first resale partner](https://techcrunch.com/2024/05/29/openai-signs-on-100k-pwc-workers-to-its-chatgpt-enterprise-tier-as-the-consultant-becomes-its-first-resale-partner/)
 - [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/)
 - [Avendus, India’s top venture advisor, confirms it’s looking to raise a $350 million fund](https://techcrunch.com/2024/05/28/avendus-indias-top-venture-advisor-confirms-its-looking-to-raise-a-350-million-fund/)
 - [Robotic Russian cargo ship leaves the ISS, burns up in Earth&#39;s atmosphere &lpar;photo&rpar;](https://www.space.com/russia-progress-86-cargo-spacecraft-iss-depature-photo)
 - [China’s $47B semiconductor fund puts chip sovereignty front and center](https://techcrunch.com/2024/05/28/chinas-47b-semiconductor-fund-puts-chip-sovereignty-front-and-center/)
-- [How scientists shipped astronomy&#39;s largest camera from California to Chile](https://www.space.com/scientists-astronomy-largest-camera-california-chile)
 <!-- BLOG-POST-LIST:END -->
 
 ---
