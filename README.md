@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/)
+- [Watch Chinese company launch 4 satellites to orbit from ship at sea &lpar;video&rpar;](https://www.space.com/galactic-energy-ceres-1-sea-launch-video-may-2024)
+- [The women in AI making a difference](https://techcrunch.com/2024/05/29/the-women-in-ai-making-a-difference/)
 - [Mental health insurance platform ifeel  raises a $20 million Series B](https://techcrunch.com/2024/05/29/mental-health-insurance-platform-ifeel-raises-a-20-million-series-b/)
 - [&#39;Star Trek #500&#39; cover showcases a commanding collection of cosmic captains](https://www.space.com/star-trek-500-captains-comic)
-- [Google Chrome becomes a ‘picture-in-picture’ app](https://techcrunch.com/2024/05/29/google-chrome-becomes-a-picture-in-picture-app/)
-- [Watch 1st &#39;Star Wars: Hunters&#39; gameplay trailer ahead of June 4 launch &lpar;video&rpar;](https://www.space.com/star-wars-hunters-gameplay-trailer)
-- [Creator fintech Slingshot raises $2.2M](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
