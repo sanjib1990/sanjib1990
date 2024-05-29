@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mental health insurance platform ifeel  raises a $20 million Series B](https://techcrunch.com/2024/05/29/mental-health-insurance-platform-ifeel-raises-a-20-million-series-b/)
 - [&#39;Star Trek #500&#39; cover showcases a commanding collection of cosmic captains](https://www.space.com/star-trek-500-captains-comic)
 - [Google Chrome becomes a ‘picture-in-picture’ app](https://techcrunch.com/2024/05/29/google-chrome-becomes-a-picture-in-picture-app/)
 - [Watch 1st &#39;Star Wars: Hunters&#39; gameplay trailer ahead of June 4 launch &lpar;video&rpar;](https://www.space.com/star-wars-hunters-gameplay-trailer)
-- [Creator fintech Slingshot raises $2.2 million](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/)
-- [Massive sunspot responsible for May&#39;s epic auroras unleashes major X-class solar flare &lpar;video&rpar;](https://www.space.com/x-flare-eruption-may-27-returning-sunspot)
+- [Creator fintech Slingshot raises $2.2M](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
