@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starliner capsule&#39;s 1st astronaut mission cleared for June 1 liftoff](https://www.space.com/boeing-starliner-go-june-1-astronaut-launch)
+- [Fisker cuts hundreds of workers in bid to keep EV startup alive](https://techcrunch.com/2024/05/29/fisker-layoffs-workers-restructuring-bankruptcy/)
 - [SpaceX fuels Starship megarocket again to prep for test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-second-fueling-test-may-2024)
-- [Chinese EV makers, and their connected vehicles, targeted by new House bill](https://techcrunch.com/2024/05/29/chinese-evs-and-their-connected-tech-are-the-next-target-of-us-lawmakers/)
+- [Chinese EV makers, and their connected vehicles, targeted by new House bill](https://techcrunch.com/2024/05/29/chinese-ev-makers-and-their-connected-vehicles-targeted-by-new-house-bill/)
 - [Watch Russian cargo ship launch toward the ISS early on May 30](https://www.space.com/russia-progress-88-cargo-spacecraft-iss-launch)
-- [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/)
-- [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
