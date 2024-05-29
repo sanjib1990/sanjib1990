@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Clean Energy Ventures avoided the pandemic bubble and raised a $305M fund](https://techcrunch.com/2024/05/29/how-clean-energy-ventures-avoided-the-pandemic-bubble-and-raised-a-305m-fund/)
-- [Is it time to put a dimmer on the push for space solar power?](https://www.space.com/space-solar-power-beaming-dimmer)
-- [OpenAI signs 100K PwC workers to ChatGPT’s enterprise tier as PwC becomes its first resale partner](https://techcrunch.com/2024/05/29/openai-signs-on-100k-pwc-workers-to-its-chatgpt-enterprise-tier-as-the-consultant-becomes-its-first-resale-partner/)
-- [72 hours left of the Disrupt early-bird sale](https://techcrunch.com/2024/05/29/72-hours-left-disrupt-early-bird-sale/)
-- [Avendus, India’s top venture advisor, confirms it’s looking to raise a $350 million fund](https://techcrunch.com/2024/05/28/avendus-indias-top-venture-advisor-confirms-its-looking-to-raise-a-350-million-fund/)
+- [Spotify hikes subscription price in France by 1.2% to match new music-streaming tax](https://techcrunch.com/2024/05/29/spotify-hikes-subscription-price-in-france-by-1-2-to-match-new-music-streaming-tax/)
+- [With the EU AI Act incoming this summer, the bloc lays out its plan for AI governance](https://techcrunch.com/2024/05/29/with-the-eu-ai-act-incoming-this-summer-the-bloc-lays-out-its-plan-for-ai-governance/)
+- [Bootstrapped for over a decade, this Dallas company just secured $110M to help people pay bills by text](https://techcrunch.com/2024/05/29/bootstrapped-for-over-a-decade-this-dallas-company-just-secured-110m-to-help-people-pay-bills-by-text/)
+- [Relay raises $24 million to help smaller businesses manage their cashflow](https://techcrunch.com/2024/05/29/relay-raises-cash-for-its-smb-focused-money-management-platform/)
+- [Bejeweled galaxy sparkles in new Hubble photo](https://www.space.com/bejeweled-galaxy-sparkles-hubble-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
