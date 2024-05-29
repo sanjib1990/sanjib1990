@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Russian cargo ship launch toward the ISS early on May 30](https://www.space.com/russia-progress-88-cargo-spacecraft-iss-launch)
+- [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/)
 - [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/)
 - [Watch Chinese company launch 4 satellites to orbit from ship at sea &lpar;video&rpar;](https://www.space.com/galactic-energy-ceres-1-sea-launch-video-may-2024)
 - [The women in AI making a difference](https://techcrunch.com/2024/05/29/the-women-in-ai-making-a-difference/)
-- [Mental health insurance platform ifeel  raises a $20 million Series B](https://techcrunch.com/2024/05/29/mental-health-insurance-platform-ifeel-raises-a-20-million-series-b/)
-- [&#39;Star Trek #500&#39; cover showcases a commanding collection of cosmic captains](https://www.space.com/star-trek-500-captains-comic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
