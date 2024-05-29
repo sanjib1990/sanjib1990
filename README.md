@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MoviePass co-founders speak their truth in HBO’s new documentary](https://techcrunch.com/2024/05/29/movie-pass-co-founders-hbo-documentary/)
-- [Asteroid &#39;Dinky,&#39; visited by NASA&#39;s Lucy spacecraft, birthed its own moon](https://www.space.com/dinky-asteroid-selam-lucy-spacecraft-contact-binary-formation)
-- [That giant sunspot that supercharged auroras on Earth? It&#39;s back and may amp up the northern lights with June solar storms.](https://www.space.com/return-aurora-causing-sunspot-june-solar-storm-prospects)
-- [Doctor Who &#39;73 Yards&#39;: Who exactly is that old woman following Ruby Sunday?](https://www.space.com/doctor-who-73-yards-old-woman-following-ruby-explained)
-- [Fitbit’s new kid smartwatch is a little Wiimote, a little Tamagotchi](https://techcrunch.com/2024/05/29/fitbits-new-kid-smartwatch-is-a-little-wiimote-a-little-tamagachi/)
+- [This founder says memetech is the next big thing](https://techcrunch.com/2024/05/29/this-founder-says-memetech-is-the-next-big-thing/)
+- [Kino is a new iPhone app for videographers from the makers of Halide](https://techcrunch.com/2024/05/29/meet-kino-new-iphone-app-for-pro-and-amateur-videographers-from-the-makers-of-halide/)
+- [Harness snags Split.io, as it goes all in on feature flags and experiments](https://techcrunch.com/2024/05/29/harness-snags-split-io-as-it-goes-all-in-on-feature-flags-and-experiments/)
+- [House bill would ban Chinese connected vehicles over security concerns](https://techcrunch.com/2024/05/29/house-bill-would-ban-chinese-connected-vehicles-over-security-concerns/)
+- [NASA&#39;s James Webb Space Telescope mission — Live updates](https://www.space.com/news/live/james-webb-space-telescope-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
