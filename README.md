@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech startup Odyssey goes on journey to help states implement school choice programs](https://techcrunch.com/2024/05/29/odyssey-school-choice-edtech/)
+- [Kinnect’s new app aims to help families record and store generational memories](https://techcrunch.com/2024/05/29/kinnects-new-app-aims-to-help-families-record-and-store-generational-memories/)
+- [Euclid telescope finds 1.5 trillion orphan stars wandering the Perseus cluster &lpar;images&rpar;](https://www.space.com/euclid-telescope-orphan-stars)
 - [Spotify hikes subscription price in France by 1.2% to match new music-streaming tax](https://techcrunch.com/2024/05/29/spotify-hikes-subscription-price-in-france-by-1-2-to-match-new-music-streaming-tax/)
 - [With the EU AI Act incoming this summer, the bloc lays out its plan for AI governance](https://techcrunch.com/2024/05/29/with-the-eu-ai-act-incoming-this-summer-the-bloc-lays-out-its-plan-for-ai-governance/)
-- [Bootstrapped for over a decade, this Dallas company just secured $110M to help people pay bills by text](https://techcrunch.com/2024/05/29/bootstrapped-for-over-a-decade-this-dallas-company-just-secured-110m-to-help-people-pay-bills-by-text/)
-- [Relay raises $24 million to help smaller businesses manage their cashflow](https://techcrunch.com/2024/05/29/relay-raises-cash-for-its-smb-focused-money-management-platform/)
-- [Bejeweled galaxy sparkles in new Hubble photo](https://www.space.com/bejeweled-galaxy-sparkles-hubble-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
