@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX fuels Starship megarocket again to prep for test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-second-fueling-test-may-2024)
+- [Chinese EV makers, and their connected vehicles, targeted by new House bill](https://techcrunch.com/2024/05/29/chinese-evs-and-their-connected-tech-are-the-next-target-of-us-lawmakers/)
 - [Watch Russian cargo ship launch toward the ISS early on May 30](https://www.space.com/russia-progress-88-cargo-spacecraft-iss-launch)
 - [Is Apple planning to ‘sherlock’ Arc?](https://techcrunch.com/2024/05/29/is-apple-planning-to-sherlock-arc/)
 - [Meet Visa, Mercury, Artisan, Golub Capital and more at TC Disrupt 2024](https://techcrunch.com/2024/05/29/meet-visa-mercury-artisan-golub-capital-and-more-at-tc-disrupt-2024/)
-- [Watch Chinese company launch 4 satellites to orbit from ship at sea &lpar;video&rpar;](https://www.space.com/galactic-energy-ceres-1-sea-launch-video-may-2024)
-- [The women in AI making a difference](https://techcrunch.com/2024/05/29/the-women-in-ai-making-a-difference/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
