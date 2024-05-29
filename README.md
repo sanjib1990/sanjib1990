@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing Starliner astronauts arrive at launch site for 1st flight test on June 1 &lpar;photos&rpar;](https://www.space.com/nasa-astronauts-boeing-starliner-arrive-launch-site-helium-leak)
-- [After co-founder’s murder at the hands of Hamas, cloud startup Firefly raises $23M](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
-- [Mistral releases its first generative AI model for code](https://techcrunch.com/2024/05/29/mistral-releases-its-first-generative-ai-model-for-code/)
-- [Pinterest expands its Creator Fund to allow founders](https://techcrunch.com/2024/05/29/pinterest-expands-its-creator-fund-to-allow-founders/)
-- [Cadillac’s new Optiq EV is designed to hook young hipsters](https://techcrunch.com/2024/05/29/the-cadillac-optiq-is-an-entry-level-luxury-ev-designed-to-hook-young-buyers/)
+- [&#39;Star Trek #500&#39; cover showcases a commanding collection of cosmic captains](https://www.space.com/star-trek-500-captains-comic)
+- [Google Chrome becomes a ‘picture-in-picture’ app](https://techcrunch.com/2024/05/29/google-chrome-becomes-a-picture-in-picture-app/)
+- [Watch 1st &#39;Star Wars: Hunters&#39; gameplay trailer ahead of June 4 launch &lpar;video&rpar;](https://www.space.com/star-wars-hunters-gameplay-trailer)
+- [Creator fintech Slingshot raises $2.2 million](https://techcrunch.com/2024/05/29/creator-fintech-slingshot-raises-2-2-million/)
+- [Massive sunspot responsible for May&#39;s epic auroras unleashes major X-class solar flare &lpar;video&rpar;](https://www.space.com/x-flare-eruption-may-27-returning-sunspot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
