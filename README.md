@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MoviePass co-founders speak their truth in HBO’s new documentary](https://techcrunch.com/2024/05/29/movie-pass-co-founders-hbo-documentary/)
+- [Asteroid &#39;Dinky,&#39; visited by NASA&#39;s Lucy spacecraft, birthed its own moon](https://www.space.com/dinky-asteroid-selam-lucy-spacecraft-contact-binary-formation)
 - [That giant sunspot that supercharged auroras on Earth? It&#39;s back and may amp up the northern lights with June solar storms.](https://www.space.com/return-aurora-causing-sunspot-june-solar-storm-prospects)
 - [Doctor Who &#39;73 Yards&#39;: Who exactly is that old woman following Ruby Sunday?](https://www.space.com/doctor-who-73-yards-old-woman-following-ruby-explained)
 - [Fitbit’s new kid smartwatch is a little Wiimote, a little Tamagotchi](https://techcrunch.com/2024/05/29/fitbits-new-kid-smartwatch-is-a-little-wiimote-a-little-tamagachi/)
-- [Discord has become an unlikely center for the generative AI boom](https://techcrunch.com/2024/05/29/from-viggle-to-midjourney-discord-is-an-unlikely-foundation-for-the-genai-boom/)
-- [Germany’s financial regulator ends anti-money laundering cap on N26 signups after $10M fine](https://techcrunch.com/2024/05/29/german-financial-regulator-lifts-restrictions-on-n26-signups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
