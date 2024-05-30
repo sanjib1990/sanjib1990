@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify offers Car Thing refunds as it faces lawsuit over bricking the streaming device](https://techcrunch.com/2024/05/30/spotify-begins-offering-car-thing-refunds-as-it-faces-lawsuit-over-bricking-the-streaming-device/)
+- [Misinformation works, and a handful of social ‘supersharers’ sent 80% of it in 2020](https://techcrunch.com/2024/05/30/misinformation-works-and-a-handful-of-social-supersharers-sent-80-of-it-in-2020/)
+- [Boeing&#39;s Starliner rolls out to pad for June 1 astronaut launch &lpar;photos&rpar;](https://www.space.com/boeing-starliner-rolls-out-launch-pad-second-time-photos)
 - [Tesla shareholder sweepstakes and EV layoffs hit Lucid and Fisker](https://techcrunch.com/2024/05/30/tesla-shareholder-sweepstakes-and-ev-layoffs-hit-lucid-and-fisker/)
 - [Japan loses contact with Akatsuki, humanity&#39;s only active Venus probe](https://www.space.com/jaxa-loses-contact-akatsuki-venus-probe)
-- [Paul Graham claims Sam Altman wasn’t fired from Y Combinator](https://techcrunch.com/2024/05/30/paul-graham-claims-altman-wasnt-fired-from-y-combinator/)
-- [AI manufacturing startup funding is on a tear as Switzerland’s EthonAI raises $16.5M](https://techcrunch.com/2024/05/30/ai-manufacturing-startup-funding-is-on-a-tear-as-switzerlands-ethonai-raises-16-5m/)
-- [Solar Orbiter traces solar wind back to its mysterious source for 1st time](https://www.space.com/solar-orbiter-sun-wind-origin-esa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
