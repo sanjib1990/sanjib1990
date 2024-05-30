@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/)
-- [Astronaut&#39;s diary found among fallen space shuttle debris added to National Library of Israel](https://www.space.com/sts-107-columbia-astronaut-ilan-ramon-diary-israel-library)
-- [Amazon is rolling out AI voice search to Fire TV devices](https://techcrunch.com/2024/05/30/amazon-fire-tv-generative-ai-voice-search/)
-- [Redpanda acquires Benthos to expand its end-to-end streaming data platform](https://techcrunch.com/2024/05/30/redpanda-acquires-benthos-to-expand-its-end-to-end-streaming-data-platform/)
-- [Fintech startup Forward grabs $16M to take on Stripe, lead future of integrated payments](https://techcrunch.com/2024/05/30/forward-16m-payments-fintech/)
+- [NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
+- [Perplexity AI’s new feature will turn your searches into shareable pages](https://techcrunch.com/2024/05/30/perplexity-ais-new-feature-will-turn-your-searches-into-sharable-pages/)
+- [See the moon and Saturn meet in the night sky early on May 31](https://www.space.com/moon-and-saturn-meet-night-sky-may-31)
+- [Cylib wants to own EV battery recycling in Europe](https://techcrunch.com/2024/05/30/cylib-wants-to-own-ev-battery-recycling-in-europe/)
+- [Amazon gets FAA approval to expand US drone deliveries](https://techcrunch.com/2024/05/30/amazon-gets-faa-approval-to-expand-us-drone-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
