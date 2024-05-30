@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;Star Trek: Discovery&#39; series finale is a mixed bag &lpar;review&rpar;](https://www.space.com/star-trek-discovery-season-5-episode-10-review)
+- [Instagram now lets teens limit interactions to their ‘Close Friends’ group to combat harassment](https://techcrunch.com/2024/05/30/instagram-adds-a-teen-protection-tool-to-limit-interaction-to-close-friends/)
+- [Archer, Kakao Mobility partner to bring electric air taxis to South Korea in 2026](https://techcrunch.com/2024/05/30/archer-kakao-mobility-partner-to-bring-evtol-to-south-korea-in-2026/)
 - [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/)
 - [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/)
-- [Romanian startup FintechOS raises $60M to help old banks fight back against neobanks](https://techcrunch.com/2024/05/30/fintechos-raises-60m-to-scale-internationally/)
-- [India’s Agnikul launches 3D-printed rocket in sub-orbital test after initial delays](https://techcrunch.com/2024/05/29/india-agnikul-3d-printed-rocket-launch/)
-- [If the Big Bang created miniature black holes, where are they?](https://www.space.com/black-holes-missing-big-bang-primordial)
 <!-- BLOG-POST-LIST:END -->
 
 ---
