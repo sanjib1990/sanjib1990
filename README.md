@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Basalt plans to hack a defunct satellite to install its space-specific OS](https://techcrunch.com/2024/05/30/basalt-closes-3-5m-to-turn-space-into-a-software-defined-industry/)
-- [Former teen model co-created app Frich to help Gen Z be more realistic about finances](https://techcrunch.com/2024/05/30/meet-frich-an-app-where-gen-z-talks-and-learns-about-money-that-just-raised-2-8m/)
-- [Autobiographer’s app uses AI to help you tell your life story](https://techcrunch.com/2024/05/30/autobiographers-app-uses-ai-to-help-you-tell-your-life-story/)
-- [NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
-- [Perplexity AI’s new feature will turn your searches into shareable pages](https://techcrunch.com/2024/05/30/perplexity-ais-new-feature-will-turn-your-searches-into-sharable-pages/)
+- [AI manufacturing startup funding is on a tear as Switzerland’s EthonAI raises $16.5M](https://techcrunch.com/2024/05/30/ai-manufacturing-startup-funding-is-on-a-tear-as-switzerlands-ethonai-raises-16-5m/)
+- [Solar Orbiter traces solar wind back to its mysterious source for 1st time](https://www.space.com/solar-orbiter-sun-wind-origin-esa)
+- [Ticktock! 48 hours left to nab your early-bird tickets for Disrupt 2024](https://techcrunch.com/2024/05/30/tick-tock-48-hours-left-to-nab-your-early-bird-tickets-for-disrupt-2024/)
+- [Valar Labs debuts AI-powered cancer care prediction tool and secures $22M](https://techcrunch.com/2024/05/30/valar-labs-debuts-ai-powered-cancer-care-prediction-tool-and-secures-22m/)
+- [Space debris from SpaceX Dragon capsule crashed in the North Carolina mountains. I had to go see it &lpar;video&rpar;](https://www.space.com/space-debris-spacex-crew-7-reentry-north-carolina)
 <!-- BLOG-POST-LIST:END -->
 
 ---
