@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Star Trek: Discovery&#39; series finale is a mixed bag &lpar;review&rpar;](https://www.space.com/star-trek-discovery-season-5-episode-10-review)
-- [Instagram now lets teens limit interactions to their ‘Close Friends’ group to combat harassment](https://techcrunch.com/2024/05/30/instagram-adds-a-teen-protection-tool-to-limit-interaction-to-close-friends/)
-- [Archer, Kakao Mobility partner to bring electric air taxis to South Korea in 2026](https://techcrunch.com/2024/05/30/archer-kakao-mobility-partner-to-bring-evtol-to-south-korea-in-2026/)
-- [Iyris makes fresh produce easier to grow in difficult climates, raises $16M](https://techcrunch.com/2024/05/30/iyris-makes-fresh-produce-easier-to-grow-in-difficult-climates-raises-16m/)
-- [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/)
+- [Rhea reaps $10M more led by Thiel](https://techcrunch.com/2024/05/30/rhea-reaps-10m-more-led-by-thiel/)
+- [James Webb Space Telescope finds a dusty skeleton in this starburst galaxy&#39;s closet](https://www.space.com/james-webb-space-telescope-starburst-galaxy-image-ngc4449)
+- [Tech giants form an industry group to help develop next-gen AI chip components](https://techcrunch.com/2024/05/30/tech-giants-form-new-group-in-effort-to-wean-off-of-nvidia-hardware/)
+- [Ambani’s Reliance fires opening salvo in fintech battle, launches JioFinance app](https://techcrunch.com/2024/05/30/ambani-fires-opening-salvo-in-fintech-battle-launches-jiofinance-app/)
+- [Filing shows Salesforce paid $419M to buy Spiff in February](https://techcrunch.com/2024/05/30/filing-salesforce-paid-419m-to-buy-spiff-in-feb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
