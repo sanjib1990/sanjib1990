@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rhea reaps $10M more led by Thiel](https://techcrunch.com/2024/05/30/rhea-reaps-10m-more-led-by-thiel/)
-- [James Webb Space Telescope finds a dusty skeleton in this starburst galaxy&#39;s closet](https://www.space.com/james-webb-space-telescope-starburst-galaxy-image-ngc4449)
-- [Tech giants form an industry group to help develop next-gen AI chip components](https://techcrunch.com/2024/05/30/tech-giants-form-new-group-in-effort-to-wean-off-of-nvidia-hardware/)
-- [Ambani’s Reliance fires opening salvo in fintech battle, launches JioFinance app](https://techcrunch.com/2024/05/30/ambani-fires-opening-salvo-in-fintech-battle-launches-jiofinance-app/)
-- [Filing shows Salesforce paid $419M to buy Spiff in February](https://techcrunch.com/2024/05/30/filing-salesforce-paid-419m-to-buy-spiff-in-feb/)
+- [Former Priceline execs debut Plannin, a booking platform that uses travel influencers to help plan trips](https://techcrunch.com/2024/05/30/plannin-travel-booking-platform-for-creators/)
+- [Astronaut&#39;s diary found among fallen space shuttle debris added to National Library of Israel](https://www.space.com/sts-107-columbia-astronaut-ilan-ramon-diary-israel-library)
+- [Amazon is rolling out AI voice search to Fire TV devices](https://techcrunch.com/2024/05/30/amazon-fire-tv-generative-ai-voice-search/)
+- [Redpanda acquires Benthos to expand its end-to-end streaming data platform](https://techcrunch.com/2024/05/30/redpanda-acquires-benthos-to-expand-its-end-to-end-streaming-data-platform/)
+- [Fintech startup Forward grabs $16M to take on Stripe, lead future of integrated payments](https://techcrunch.com/2024/05/30/forward-16m-payments-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
