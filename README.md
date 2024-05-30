@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Basalt plans to hack a defunct satellite to install its space-specific OS](https://techcrunch.com/2024/05/30/basalt-closes-3-5m-to-turn-space-into-a-software-defined-industry/)
+- [Former teen model co-created app Frich to help Gen Z be more realistic about finances](https://techcrunch.com/2024/05/30/meet-frich-an-app-where-gen-z-talks-and-learns-about-money-that-just-raised-2-8m/)
+- [Autobiographer’s app uses AI to help you tell your life story](https://techcrunch.com/2024/05/30/autobiographers-app-uses-ai-to-help-you-tell-your-life-story/)
 - [NASA’s James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
 - [Perplexity AI’s new feature will turn your searches into shareable pages](https://techcrunch.com/2024/05/30/perplexity-ais-new-feature-will-turn-your-searches-into-sharable-pages/)
-- [See the moon and Saturn meet in the night sky early on May 31](https://www.space.com/moon-and-saturn-meet-night-sky-may-31)
-- [Cylib wants to own EV battery recycling in Europe](https://techcrunch.com/2024/05/30/cylib-wants-to-own-ev-battery-recycling-in-europe/)
-- [Amazon gets FAA approval to expand US drone deliveries](https://techcrunch.com/2024/05/30/amazon-gets-faa-approval-to-expand-us-drone-deliveries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
