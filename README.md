@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exactly.ai secures $4M to help artists use AI to scale up their output](https://techcrunch.com/2024/05/30/exactly-ai-secures-4m-to-help-artists-use-ai-to-scale-up-their-output/)
+- [Romanian startup FintechOS raises $60M to help old banks fight back against neobanks](https://techcrunch.com/2024/05/30/fintechos-raises-60m-to-scale-internationally/)
 - [India’s Agnikul launches 3D-printed rocket in sub-orbital test after initial delays](https://techcrunch.com/2024/05/29/india-agnikul-3d-printed-rocket-launch/)
 - [If the Big Bang created miniature black holes, where are they?](https://www.space.com/black-holes-missing-big-bang-primordial)
 - [Starliner capsule&#39;s 1st astronaut mission cleared for June 1 liftoff](https://www.space.com/boeing-starliner-go-june-1-astronaut-launch)
-- [Fisker cuts hundreds of workers in bid to keep EV startup alive](https://techcrunch.com/2024/05/29/fisker-layoffs-workers-restructuring-bankruptcy/)
-- [SpaceX fuels Starship megarocket again to prep for test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-second-fueling-test-may-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
