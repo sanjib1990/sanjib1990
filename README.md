@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope spots the 2 earliest galaxies ever seen &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-two-oldest-most-distant-galaxies)
+- [Zero-day flaw in Check Point VPNs is ‘extremely easy’ to exploit](https://techcrunch.com/2024/05/30/check-point-vpn-zero-day-extremely-easy-to-exploit/)
 - [Spotify offers Car Thing refunds as it faces lawsuit over bricking the streaming device](https://techcrunch.com/2024/05/30/spotify-begins-offering-car-thing-refunds-as-it-faces-lawsuit-over-bricking-the-streaming-device/)
 - [Misinformation works, and a handful of social ‘supersharers’ sent 80% of it in 2020](https://techcrunch.com/2024/05/30/misinformation-works-and-a-handful-of-social-supersharers-sent-80-of-it-in-2020/)
 - [Boeing&#39;s Starliner rolls out to pad for June 1 astronaut launch &lpar;photos&rpar;](https://www.space.com/boeing-starliner-rolls-out-launch-pad-second-time-photos)
-- [Tesla shareholder sweepstakes and EV layoffs hit Lucid and Fisker](https://techcrunch.com/2024/05/30/tesla-shareholder-sweepstakes-and-ev-layoffs-hit-lucid-and-fisker/)
-- [Japan loses contact with Akatsuki, humanity&#39;s only active Venus probe](https://www.space.com/jaxa-loses-contact-akatsuki-venus-probe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
