@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Degenerative AI… The recent failures of &quot;artificial intelligence&quot; tech](https://www.youtube.com/watch?v=krixaEhLnlA)
 - [The ONLY Continuous Integration &lpar;CI&rpar; Tutorial you need as an Engineer](https://www.youtube.com/watch?v=MIWH2CpVyXs)
 - [What&#39;s Worth Making? with Prof. Hal Abelson](https://www.youtube.com/watch?v=gW7BnC3jsVk)
 - [15 crazy new JS framework features you don’t know yet](https://www.youtube.com/watch?v=466U-2D86bc)
 - [You&#39;ve been using AI Wrong](https://www.youtube.com/watch?v=UbDyjIIGaxQ)
-- [What is SNMP?](https://www.youtube.com/watch?v=_ZdeEQ8BeJk)
 <!-- YOUTUBE:END -->
 
 ---
