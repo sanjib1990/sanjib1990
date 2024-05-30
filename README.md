@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elusive medium-size black holes may form in dense &#39;birthing nests&#39;](https://www.space.com/medium-size-black-holes-dense-birthing-nests)
 - [You’ve spoken! Meet the Disrupt 2024 breakout session audience choice winners](https://techcrunch.com/2024/05/30/youve-spoken-meet-the-5-breakout-session-audience-choice-winners-at-disrupt-2024/)
 - [How NASA&#39;s OSIRIS-APEX asteroid probe survived its 1st close encounter with the sun](https://www.space.com/how-nasa-osiris-apex-asteroid-probe-survived-close-pass-sun)
 - [James Webb Space Telescope spots the 2 earliest galaxies ever seen &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-two-oldest-most-distant-galaxies)
 - [Zero-day flaw in Check Point VPNs is ‘extremely easy’ to exploit](https://techcrunch.com/2024/05/30/check-point-vpn-zero-day-extremely-easy-to-exploit/)
-- [Spotify offers Car Thing refunds as it faces lawsuit over bricking the streaming device](https://techcrunch.com/2024/05/30/spotify-begins-offering-car-thing-refunds-as-it-faces-lawsuit-over-bricking-the-streaming-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
