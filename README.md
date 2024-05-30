@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla shareholder sweepstakes and EV layoffs hit Lucid and Fisker](https://techcrunch.com/2024/05/30/tesla-shareholder-sweepstakes-and-ev-layoffs-hit-lucid-and-fisker/)
+- [Japan loses contact with Akatsuki, humanity&#39;s only active Venus probe](https://www.space.com/jaxa-loses-contact-akatsuki-venus-probe)
+- [Paul Graham claims Sam Altman wasn’t fired from Y Combinator](https://techcrunch.com/2024/05/30/paul-graham-claims-altman-wasnt-fired-from-y-combinator/)
 - [AI manufacturing startup funding is on a tear as Switzerland’s EthonAI raises $16.5M](https://techcrunch.com/2024/05/30/ai-manufacturing-startup-funding-is-on-a-tear-as-switzerlands-ethonai-raises-16-5m/)
 - [Solar Orbiter traces solar wind back to its mysterious source for 1st time](https://www.space.com/solar-orbiter-sun-wind-origin-esa)
-- [Ticktock! 48 hours left to nab your early-bird tickets for Disrupt 2024](https://techcrunch.com/2024/05/30/tick-tock-48-hours-left-to-nab-your-early-bird-tickets-for-disrupt-2024/)
-- [Valar Labs debuts AI-powered cancer care prediction tool and secures $22M](https://techcrunch.com/2024/05/30/valar-labs-debuts-ai-powered-cancer-care-prediction-tool-and-secures-22m/)
-- [Space debris from SpaceX Dragon capsule crashed in the North Carolina mountains. I had to go see it &lpar;video&rpar;](https://www.space.com/space-debris-spacex-crew-7-reentry-north-carolina)
 <!-- BLOG-POST-LIST:END -->
 
 ---
