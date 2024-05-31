@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peru and Slovakia sign the Artemis Accords for peaceful moon exploration](https://www.space.com/peru-slovakia-artemis-accords)
+- [Google admits its AI Overviews need work, but we’re all helping it beta test](https://techcrunch.com/2024/05/31/google-admits-its-ai-overviews-need-work-but-were-all-helping-it-beta-test/)
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/)
 - [Is &#39;Star Wars: The Acolyte&#39; already canceled? Breaking down the rumors](https://www.space.com/star-wars-the-acolyte-cancellation-rumors)
-- [A16z-backed ZeroMark wants to give soldiers guns that don’t miss against drones](https://techcrunch.com/2024/05/31/a16z-backed-zeromark-wants-to-give-soldiers-guns-that-dont-miss-against-drones/)
-- [SpaceX to launch 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-64)
-- [Lego wants you to vote on a new color for its astronaut minifigures](https://www.space.com/lego-astronaut-vote-for-minifigure-color)
+- [a16z-backed ZeroMark wants to give soldiers guns that don’t miss against drones](https://techcrunch.com/2024/05/31/a16z-backed-zeromark-wants-to-give-soldiers-guns-that-dont-miss-against-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
