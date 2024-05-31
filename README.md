@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-64)
+- [Lego wants you to vote on a new color for its astronaut minifigures](https://www.space.com/lego-astronaut-vote-for-minifigure-color)
 - [Moon-mapping could level up for NASA&#39;s upcoming Artemis missions. Here&#39;s how](https://www.space.com/moon-mapping-nasa-artemis-missions-algorithms)
 - [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/)
 - [‘ThreadsDeck’ arrived just in time for the Trump verdict](https://techcrunch.com/2024/05/31/threadsdeck-arrived-just-in-time-for-the-trump-verdict/)
-- [Hackers steal $305 million from DMM Bitcoin crypto exchange](https://techcrunch.com/2024/05/31/hackers-steal-305-million-from-dmm-bitcoin-crypto-exchange/)
-- [1st annual space piracy conference will examine threats of orbital crime and smuggling](https://www.space.com/1st-space-piracy-conference-crime-smuggling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
