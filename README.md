@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inside EV startup Fisker’s collapse: how the company crumbled under its founders’ whims](https://techcrunch.com/2024/05/31/fisker-collapse-investigation-ev-ocean-suv-henrik-geeta/)
+- [Hugging Face says it detected ‘unauthorized access’ to its AI model hosting platform](https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/)
 - [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2024/05/31/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
 - [Mill’s redesigned food waste bin really is faster and quieter than before](https://techcrunch.com/2024/05/31/mills-redesigned-food-waste-bin-really-is-faster-and-quieter-than-before/)
 - [Peru and Slovakia sign the Artemis Accords for peaceful moon exploration](https://www.space.com/peru-slovakia-artemis-accords)
-- [Google admits its AI Overviews need work, but we’re all helping it beta test](https://techcrunch.com/2024/05/31/google-admits-its-ai-overviews-need-work-but-were-all-helping-it-beta-test/)
-- [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
