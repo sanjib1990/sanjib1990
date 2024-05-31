@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Chang&#39;e 6 probe to land on far side of the moon this weekend to return lunar samples to Earth](https://www.space.com/china-change-6-prepare-landing-moon-far-side)
+- [Opticron Oregon 4 PC Oasis 10X42 monocular review](https://www.space.com/opticron-oregon-4-pc-oasis-10x42-monocular-review)
 - [Voice cloning of political figures is still easy as pie](https://techcrunch.com/2024/05/31/voice-cloning-of-political-figures-is-still-easy-as-pie/)
 - [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/)
 - [SpaceX sent Starship to orbit — the next launch will try to bring it back](https://techcrunch.com/2024/05/30/spacex-sent-starship-to-orbit-the-next-launch-will-try-to-bring-it-back/)
-- [Billionaire Groupon founder Eric Lefkofsky is back with another IPO: AI health tech Tempus](https://techcrunch.com/2024/05/30/billionaire-groupon-founder-lefkofsky-is-back-with-another-ipo-ai-healthtech-tempus/)
-- [Elusive medium-size black holes may form in dense &#39;birthing nests&#39;](https://www.space.com/medium-size-black-holes-dense-birthing-nests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
