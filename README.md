@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2024/05/31/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
+- [Mill’s redesigned food waste bin really is faster and quieter than before](https://techcrunch.com/2024/05/31/mills-redesigned-food-waste-bin-really-is-faster-and-quieter-than-before/)
 - [Peru and Slovakia sign the Artemis Accords for peaceful moon exploration](https://www.space.com/peru-slovakia-artemis-accords)
 - [Google admits its AI Overviews need work, but we’re all helping it beta test](https://techcrunch.com/2024/05/31/google-admits-its-ai-overviews-need-work-but-were-all-helping-it-beta-test/)
 - [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/)
-- [Is &#39;Star Wars: The Acolyte&#39; already canceled? Breaking down the rumors](https://www.space.com/star-wars-the-acolyte-cancellation-rumors)
-- [a16z-backed ZeroMark wants to give soldiers guns that don’t miss against drones](https://techcrunch.com/2024/05/31/a16z-backed-zeromark-wants-to-give-soldiers-guns-that-dont-miss-against-drones/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
