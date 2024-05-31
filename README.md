@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Canva’s cringey rap battle was actually a marketing win](https://techcrunch.com/2024/05/31/canvas-cringey-rap-battle-was-actually-a-marketing-win/)
-- [Powerful new NOAA weather satellite set for June launch atop SpaceX Falcon Heavy](https://www.space.com/noaa-goes-u-satellite-launch-june)
-- [ElevenLabs debuts AI-powered tool to generate sound effects](https://techcrunch.com/2024/05/31/elevenlabs-debuts-ai-powered-tool-to-generate-sound-effects/)
-- [The cold lunar night may have finally swallowed Japan&#39;s SLIM moon lander](https://www.space.com/japan-slim-mission-unresponsive-jaxa-signal)
-- [Watch Rocket Lab launch shoebox-sized NASA climate satellite tonight](https://www.space.com/rocket-lab-prefire-and-ice-climate-change-mission-launch)
+- [1st annual space piracy conference will examine threats of orbital crime and smuggling](https://www.space.com/1st-space-piracy-conference-crime-smuggling)
+- [Disrupt 2024 early-bird prices end at midnight](https://techcrunch.com/2024/05/31/disrupt-2024-early-bird-prices-end-at-midnight/)
+- [Instagram tests ‘trial reels’ that don’t display to a creator’s followers](https://techcrunch.com/2024/05/31/instagram-tests-trial-reels-that-dont-display-to-a-creators-followers/)
+- [Feds tell Zoox to send more info about autonomous vehicles suddenly braking](https://techcrunch.com/2024/05/31/feds-tell-zoox-to-send-more-info-about-autonomous-vehicles-suddenly-braking/)
+- [Canva’s rap battle is part of a long legacy of Silicon Valley cringe](https://techcrunch.com/2024/05/31/canvas-cringey-rap-battle-was-actually-a-marketing-win/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
