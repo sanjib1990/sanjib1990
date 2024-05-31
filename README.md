@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canva’s cringey rap battle was actually a marketing win](https://techcrunch.com/2024/05/31/canvas-cringey-rap-battle-was-actually-a-marketing-win/)
+- [Powerful new NOAA weather satellite set for June launch atop SpaceX Falcon Heavy](https://www.space.com/noaa-goes-u-satellite-launch-june)
+- [ElevenLabs debuts AI-powered tool to generate sound effects](https://techcrunch.com/2024/05/31/elevenlabs-debuts-ai-powered-tool-to-generate-sound-effects/)
 - [The cold lunar night may have finally swallowed Japan&#39;s SLIM moon lander](https://www.space.com/japan-slim-mission-unresponsive-jaxa-signal)
 - [Watch Rocket Lab launch shoebox-sized NASA climate satellite tonight](https://www.space.com/rocket-lab-prefire-and-ice-climate-change-mission-launch)
-- [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/)
-- [Massive, magnetic stars beyond the Milky Way detected for the 1st time](https://www.space.com/magnetic-stars-milky-way-magellanic-clouds)
-- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet passes key safety review ahead of 1st test flight](https://www.space.com/nasa-x-59-passes-flight-readiness-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
