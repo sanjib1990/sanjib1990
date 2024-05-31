@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The cold lunar night may have finally swallowed Japan&#39;s SLIM moon lander](https://www.space.com/japan-slim-mission-unresponsive-jaxa-signal)
+- [Watch Rocket Lab launch shoebox-sized NASA climate satellite tonight](https://www.space.com/rocket-lab-prefire-and-ice-climate-change-mission-launch)
+- [VC firm Antler’s CEO says Asia presents ‘biggest opportunity’ in the world for growth](https://techcrunch.com/2024/05/31/vc-firm-antlers-ceo-says-asia-presents-biggest-opportunity-in-the-world-for-growth/)
+- [Massive, magnetic stars beyond the Milky Way detected for the 1st time](https://www.space.com/magnetic-stars-milky-way-magellanic-clouds)
 - [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet passes key safety review ahead of 1st test flight](https://www.space.com/nasa-x-59-passes-flight-readiness-review)
-- [Chinese e-commerce marketplace Temu faces stricter EU rules as a ‘very large online platform’](https://techcrunch.com/2024/05/31/chinese-marketplace-temu-faces-eu-rules-very-large-online-platform/)
-- [Spain bans Meta from launching election features on Facebook, Instagram over privacy fears](https://techcrunch.com/2024/05/31/spain-bans-meta-from-launching-election-features-on-facebook-instagram-over-privacy-fears/)
-- [Stripe curbs its India ambitions over regulatory situation](https://techcrunch.com/2024/05/31/stripe-curbs-india-ambitions-over-regulatory-changes/)
-- [China&#39;s Chang&#39;e 6 probe to land on far side of the moon this weekend to return lunar samples to Earth](https://www.space.com/china-change-6-prepare-landing-moon-far-side)
 <!-- BLOG-POST-LIST:END -->
 
 ---
