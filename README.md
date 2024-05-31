@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spain bans Meta from launching election features on Facebook, Instagram over privacy fears](https://techcrunch.com/2024/05/31/spain-bans-meta-from-launching-election-features-on-facebook-instagram-over-privacy-fears/)
+- [Stripe curbs its India ambitions over regulatory situation](https://techcrunch.com/2024/05/31/stripe-curbs-india-ambitions-over-regulatory-changes/)
 - [China&#39;s Chang&#39;e 6 probe to land on far side of the moon this weekend to return lunar samples to Earth](https://www.space.com/china-change-6-prepare-landing-moon-far-side)
 - [Opticron Oregon 4 PC Oasis 10X42 monocular review](https://www.space.com/opticron-oregon-4-pc-oasis-10x42-monocular-review)
 - [Voice cloning of political figures is still easy as pie](https://techcrunch.com/2024/05/31/voice-cloning-of-political-figures-is-still-easy-as-pie/)
-- [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/)
-- [SpaceX sent Starship to orbit — the next launch will try to bring it back](https://techcrunch.com/2024/05/30/spacex-sent-starship-to-orbit-the-next-launch-will-try-to-bring-it-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
