@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Musk raises $6B for AI and the fintech dominoes are falling](https://techcrunch.com/2024/05/31/musk-raises-6b-for-ai-and-the-fintech-dominoes-are-falling/)
+- [Is &#39;Star Wars: The Acolyte&#39; already canceled? Breaking down the rumors](https://www.space.com/star-wars-the-acolyte-cancellation-rumors)
+- [A16z-backed ZeroMark wants to give soldiers guns that don’t miss against drones](https://techcrunch.com/2024/05/31/a16z-backed-zeromark-wants-to-give-soldiers-guns-that-dont-miss-against-drones/)
 - [SpaceX to launch 23 Starlink satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-6-64)
 - [Lego wants you to vote on a new color for its astronaut minifigures](https://www.space.com/lego-astronaut-vote-for-minifigure-color)
-- [Moon-mapping could level up for NASA&#39;s upcoming Artemis missions. Here&#39;s how](https://www.space.com/moon-mapping-nasa-artemis-missions-algorithms)
-- [Pitch Deck Teardown: RAW Dating App’s $3M angel deck](https://techcrunch.com/2024/05/31/sample-angel-pitch-deck-raw-dating-app/)
-- [‘ThreadsDeck’ arrived just in time for the Trump verdict](https://techcrunch.com/2024/05/31/threadsdeck-arrived-just-in-time-for-the-trump-verdict/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
