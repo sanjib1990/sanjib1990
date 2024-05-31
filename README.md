@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OneScreen.ai brings startup ads to billboards and NYC’s subway](https://techcrunch.com/2024/05/30/onescreen-ai-brings-startup-ads-to-billboards-and-nycs-subway/)
 - [SpaceX sent Starship to orbit — the next launch will try to bring it back](https://techcrunch.com/2024/05/30/spacex-sent-starship-to-orbit-the-next-launch-will-try-to-bring-it-back/)
 - [Billionaire Groupon founder Eric Lefkofsky is back with another IPO: AI health tech Tempus](https://techcrunch.com/2024/05/30/billionaire-groupon-founder-lefkofsky-is-back-with-another-ipo-ai-healthtech-tempus/)
 - [Elusive medium-size black holes may form in dense &#39;birthing nests&#39;](https://www.space.com/medium-size-black-holes-dense-birthing-nests)
 - [You’ve spoken! Meet the Disrupt 2024 breakout session audience choice winners](https://techcrunch.com/2024/05/30/youve-spoken-meet-the-5-breakout-session-audience-choice-winners-at-disrupt-2024/)
-- [How NASA&#39;s OSIRIS-APEX asteroid probe survived its 1st close encounter with the sun](https://www.space.com/how-nasa-osiris-apex-asteroid-probe-survived-close-pass-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
