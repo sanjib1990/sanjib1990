@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [General Catalyst-backed Jasper Health lays off staff](https://techcrunch.com/2024/05/31/general-catalyst-backed-jasper-health-lays-off-staff/)
 - [Live Nation confirms Ticketmaster was hacked, says personal information stolen in data breach](https://techcrunch.com/2024/05/31/live-nation-confirms-ticketmaster-was-hacked-says-personal-information-stolen-in-data-breach/)
 - [Inside EV startup Fisker’s collapse: how the company crumbled under its founders’ whims](https://techcrunch.com/2024/05/31/fisker-collapse-investigation-ev-ocean-suv-henrik-geeta/)
 - [Hugging Face says it detected ‘unauthorized access’ to its AI model hosting platform](https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/)
 - [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2024/05/31/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
-- [Mill’s redesigned food waste bin really is faster and quieter than before](https://techcrunch.com/2024/05/31/mills-redesigned-food-waste-bin-really-is-faster-and-quieter-than-before/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
