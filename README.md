@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WTF is AI?](https://techcrunch.com/2024/06/01/wtf-is-ai/)
+- [President Biden vetoes crypto custody bill](https://techcrunch.com/2024/06/01/president-biden-vetoes-crypto-custody-bill/)
 - [Industries may be ready for humanoid robots, but are the robots ready for them?](https://techcrunch.com/2024/06/01/industries-may-be-ready-for-humanoid-robots-but-are-the-robots-ready-for-them/)
 - [VCs are selling shares of hot AI companies like Anthropic and xAI to small investors in a wild SPV market](https://techcrunch.com/2024/06/01/vcs-are-selling-shares-of-hot-ai-companies-like-anthropic-and-xai-to-small-investors-in-a-wild-spv-market/)
 - [Deal Dive: How &lpar;Re&rpar;vive grew 10x last year by helping retailers recycle and sell returned items](https://techcrunch.com/2024/06/01/deal-dive-how-revive-grew-10x-last-year-by-helping-retailers-recycle-and-sell-returned-items/)
-- [You can no longer use Tumblr’s tipping feature](https://techcrunch.com/2024/06/01/tumblr-shuts-down-tipping-feature/)
-- [AI training data has a price tag that only Big Tech can afford](https://techcrunch.com/2024/06/01/ai-training-data-has-a-price-tag-that-only-big-tech-can-afford/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
