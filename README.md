@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/)
 - [Trump takes off on TikTok](https://techcrunch.com/2024/06/02/trump-takes-off-on-tiktok/)
 - [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/)
 - [Kobo’s new e-readers are a sidegrade most can skip &lpar;with one exception&rpar;](https://techcrunch.com/2024/06/02/kobos-new-e-readers-are-a-sidegrade-most-can-skip-with-one-exception/)
 - [Unity co-founder David Helgason’s next act: Gaming the climate crisis](https://techcrunch.com/2024/06/02/unity-co-founder-david-helgasons-next-act-gaming-the-climate-crisis/)
-- [Fisker collapsed under the weight of its founder’s promises](https://techcrunch.com/2024/06/01/fisker-collapsed-under-the-weight-of-its-founders-promises/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
