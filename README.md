@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kobo’s new e-readers are a sidegrade most can skip &lpar;with one exception&rpar;](https://techcrunch.com/2024/06/02/kobos-new-e-readers-are-a-sidegrade-most-can-skip-with-one-exception/)
 - [Unity co-founder David Helgason’s next act: Gaming the climate crisis](https://techcrunch.com/2024/06/02/unity-co-founder-david-helgasons-next-act-gaming-the-climate-crisis/)
 - [Fisker collapsed under the weight of its founder’s promises](https://techcrunch.com/2024/06/01/fisker-collapsed-under-the-weight-of-its-founders-promises/)
 - [WTF is AI?](https://techcrunch.com/2024/06/01/wtf-is-ai/)
 - [President Biden vetoes crypto custody bill](https://techcrunch.com/2024/06/01/president-biden-vetoes-crypto-custody-bill/)
-- [Industries may be ready for humanoid robots, but are the robots ready for them?](https://techcrunch.com/2024/06/01/industries-may-be-ready-for-humanoid-robots-but-are-the-robots-ready-for-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
