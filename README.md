@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Binit is bringing AI to trash](https://techcrunch.com/2024/06/03/binit-is-bringing-ai-to-trash/)
+- [Temasek, Fidelity buy $200M stake in Lenskart at $5B valuation](https://techcrunch.com/2024/06/03/temasek-and-fidelity-buy-200-million-stake-in-indias-lenskart/)
 - [French startup ten ten finds viral success and controversy in reinventing walkie-talkies](https://techcrunch.com/2024/06/02/french-startup-ten-ten-finds-viral-success-and-controversy-in-reinventing-walkie-talkies/)
 - [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/)
 - [Trump takes off on TikTok](https://techcrunch.com/2024/06/02/trump-takes-off-on-tiktok/)
-- [Iceland’s startup scene is all about making the most of the country’s resources](https://techcrunch.com/2024/06/02/icelands-startup-scene-is-all-about-making-the-most-of-the-countrys-resources/)
-- [Kobo’s new e-readers are a sidegrade most can skip &lpar;with one exception&rpar;](https://techcrunch.com/2024/06/02/kobos-new-e-readers-are-a-sidegrade-most-can-skip-with-one-exception/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
