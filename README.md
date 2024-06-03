@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aptoide launches its alternative iOS game store in EU](https://techcrunch.com/2024/06/03/aptoide-launches-its-alternative-ios-game-store-in-eu/)
+- [Instagram confirms test of ‘unskippable’ ads](https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/)
+- [Shopify acquires Checkout Blocks, a checkout customization app](https://techcrunch.com/2024/06/03/shopify-checkout-blocks-acquisition/)
+- [Rogue planets may originate from &#39;twisted Tatooine&#39; double star systems](https://www.space.com/twisted-tatooine-planets-binary-system-rogue-worlds)
+- [Aptoide launches its alternative iOS game store in the EU](https://techcrunch.com/2024/06/03/aptoide-launches-its-alternative-ios-game-store-in-eu/)
 - [One week left: Apply to TC Disrupt Startup Battlefield 200](https://techcrunch.com/2024/06/03/one-week-left-apply-to-tc-disrupt-startup-battlefield-200/)
-- [China&#39;s Chang&#39;e 6 probe starts collecting 1st lunar far side samples to be brought to Earth](https://www.space.com/china-chang-e-6-far-side-moon-sampling-underway)
-- [Cloudera acquires Verta to bring some AI chops to its data platform](https://techcrunch.com/2024/06/03/cloudera-acquires-verta-to-bring-some-ai-chops-to-its-data-platform/)
-- [China&#39;s space plane releases another mystery object into orbit](https://www.space.com/china-spaceplane-earth-orbit-third-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
