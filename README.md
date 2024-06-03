@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shuttle fliers David Hilmers, Marsha Ivins enter Astronaut Hall of Fame](https://www.space.com/astronaut-hall-fame-induction-hilmers-ivins)
+- [See a Russian inspector satellite get up close and personal with a spacecraft in orbit](https://www.space.com/russian-inspector-satellite-luch-2-close-approach-geostationary-orbit)
 - [Instagram confirms test of ‘unskippable’ ads](https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/)
 - [Shopify acquires Checkout Blocks, a checkout customization app](https://techcrunch.com/2024/06/03/shopify-checkout-blocks-acquisition/)
 - [Rogue planets may originate from &#39;twisted Tatooine&#39; double star systems](https://www.space.com/twisted-tatooine-planets-binary-system-rogue-worlds)
-- [Aptoide launches its alternative iOS game store in the EU](https://techcrunch.com/2024/06/03/aptoide-launches-its-alternative-ios-game-store-in-eu/)
-- [One week left: Apply to TC Disrupt Startup Battlefield 200](https://techcrunch.com/2024/06/03/one-week-left-apply-to-tc-disrupt-startup-battlefield-200/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
