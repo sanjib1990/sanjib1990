@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spend management startup SiFi raises $10M to grow further in Saudi Arabia](https://techcrunch.com/2024/06/03/sifi-raises-10m-seed/)
+- [The secrets of supernovas might be locked in moon dust](https://www.space.com/supernova-secrets-moon-dust)
 - [Swiss startup Neural Concept raises $27M to cut EV design time to 18 months](https://techcrunch.com/2024/06/03/swiss-startup-neural-concept-raises-27m-to-cut-ev-design-time-to-18-months/)
 - [Why NASA&#39;s Europa Clipper mission to Jupiter&#39;s icy moon is such a big deal](https://www.space.com/europa-clipper-mission-explained-nasa)
 - [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/)
-- [X tweaks rules to formally allow adult content](https://techcrunch.com/2024/06/03/x-tweaks-rules-to-formally-allow-adult-content/)
-- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
