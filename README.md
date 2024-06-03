@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Could these black hole &#39;morsels&#39; finally prove Stephen Hawking&#39;s famous theory?](https://www.space.com/black-hole-collisions-morsels-hawking-radiation)
+- [Inside Apple’s efforts to build a better recycling robot](https://techcrunch.com/2024/06/03/inside-apples-efforts-to-build-a-better-recycling-robot/)
 - [Binit is bringing AI to trash](https://techcrunch.com/2024/06/03/binit-is-bringing-ai-to-trash/)
 - [Temasek, Fidelity buy $200M stake in Lenskart at $5B valuation](https://techcrunch.com/2024/06/03/temasek-and-fidelity-buy-200-million-stake-in-indias-lenskart/)
 - [French startup ten ten reinvents the walkie-talkie](https://techcrunch.com/2024/06/02/french-startup-ten-ten-finds-viral-success-and-controversy-in-reinventing-walkie-talkies/)
-- [Unicorn-rich VC Wesley Chan owes his success to a Craigslist job washing lab beakers](https://techcrunch.com/2024/06/02/wesley-chan-venture-capital-unicorn/)
-- [Trump takes off on TikTok](https://techcrunch.com/2024/06/02/trump-takes-off-on-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
