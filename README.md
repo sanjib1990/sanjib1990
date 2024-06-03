@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/)
+- [Spotify to increase premium pricing in the US to $11.99 per month](https://techcrunch.com/2024/06/03/spotify-to-increase-premium-pricing-in-the-us-to-11-99-per-month/)
+- [UK neobank Monzo reports first full &lpar;pre-tax&rpar; profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/)
 - [Could these black hole &#39;morsels&#39; finally prove Stephen Hawking&#39;s famous theory?](https://www.space.com/black-hole-collisions-morsels-hawking-radiation)
 - [Inside Apple’s efforts to build a better recycling robot](https://techcrunch.com/2024/06/03/inside-apples-efforts-to-build-a-better-recycling-robot/)
-- [Binit is bringing AI to trash](https://techcrunch.com/2024/06/03/binit-is-bringing-ai-to-trash/)
-- [Temasek, Fidelity buy $200M stake in Lenskart at $5B valuation](https://techcrunch.com/2024/06/03/temasek-and-fidelity-buy-200-million-stake-in-indias-lenskart/)
-- [French startup ten ten reinvents the walkie-talkie](https://techcrunch.com/2024/06/02/french-startup-ten-ten-finds-viral-success-and-controversy-in-reinventing-walkie-talkies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
