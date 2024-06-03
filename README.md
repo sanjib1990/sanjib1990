@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shuttle fliers David Hilmers, Marsha Ivins enter Astronaut Hall of Fame](https://www.space.com/astronaut-hall-fame-induction-hilmers-ivins)
-- [See a Russian inspector satellite get up close and personal with a spacecraft in orbit](https://www.space.com/russian-inspector-satellite-luch-2-close-approach-geostationary-orbit)
-- [Instagram confirms test of ‘unskippable’ ads](https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/)
-- [Shopify acquires Checkout Blocks, a checkout customization app](https://techcrunch.com/2024/06/03/shopify-checkout-blocks-acquisition/)
-- [Rogue planets may originate from &#39;twisted Tatooine&#39; double star systems](https://www.space.com/twisted-tatooine-planets-binary-system-rogue-worlds)
+- [India launches nation&#39;s 1st 3D-printed rocket engine](https://www.space.com/india-agnikul-3d-printed-rocket-engine)
+- [What to expect from Apple’s AI-powered iOS 18](https://techcrunch.com/2024/06/03/what-to-expect-from-apples-ai-powered-ios-18/)
+- [GM’s Cruise is testing robotaxis in Dallas again](https://techcrunch.com/2024/06/03/gms-cruise-is-testing-robotaxis-in-dallas-again/)
+- [After raising $100M, AI fintech LoanSnap is being sued, fined, evicted](https://techcrunch.com/2024/06/03/ai-fintech-loansnap-sued-fined-evicted-raised-100m/)
+- [Sonos Ace review: A high-priced contender](https://techcrunch.com/2024/06/03/sonos-ace-review-a-high-priced-contender/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
