@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swiss startup Neural Concept raises $27M to cut EV design time to 18 months](https://techcrunch.com/2024/06/03/swiss-startup-neural-concept-raises-27m-to-cut-ev-design-time-to-18-months/)
+- [Why NASA&#39;s Europa Clipper mission to Jupiter&#39;s icy moon is such a big deal](https://www.space.com/europa-clipper-mission-explained-nasa)
+- [Don’t miss StrictlyVC in DC next week](https://techcrunch.com/2024/06/03/dont-miss-strictlyvc-in-dc-next-week/)
+- [X tweaks rules to formally allow adult content](https://techcrunch.com/2024/06/03/x-tweaks-rules-to-formally-allow-adult-content/)
 - [Ashby injects recruiting with a dose of AI](https://techcrunch.com/2024/06/03/ashby-injects-recruiting-with-a-dose-of-ai/)
-- [Spotify to increase premium pricing in the US to $11.99 per month](https://techcrunch.com/2024/06/03/spotify-to-increase-premium-pricing-in-the-us-to-11-99-per-month/)
-- [UK neobank Monzo reports first full &lpar;pre-tax&rpar; profit, prepares for EU expansion with Dublin hub](https://techcrunch.com/2024/06/03/uk-neobank-monzo-reports-first-full-pre-tax-profit-prepares-for-eu-expansion-with-dublin-hub/)
-- [Could these black hole &#39;morsels&#39; finally prove Stephen Hawking&#39;s famous theory?](https://www.space.com/black-hole-collisions-morsels-hawking-radiation)
-- [Inside Apple’s efforts to build a better recycling robot](https://techcrunch.com/2024/06/03/inside-apples-efforts-to-build-a-better-recycling-robot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
