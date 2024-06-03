@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aptoide launches its alternative iOS game store in EU](https://techcrunch.com/2024/06/03/aptoide-launches-its-alternative-ios-game-store-in-eu/)
+- [One week left: Apply to TC Disrupt Startup Battlefield 200](https://techcrunch.com/2024/06/03/one-week-left-apply-to-tc-disrupt-startup-battlefield-200/)
+- [China&#39;s Chang&#39;e 6 probe starts collecting 1st lunar far side samples to be brought to Earth](https://www.space.com/china-chang-e-6-far-side-moon-sampling-underway)
 - [Cloudera acquires Verta to bring some AI chops to its data platform](https://techcrunch.com/2024/06/03/cloudera-acquires-verta-to-bring-some-ai-chops-to-its-data-platform/)
 - [China&#39;s space plane releases another mystery object into orbit](https://www.space.com/china-spaceplane-earth-orbit-third-mission)
-- [Watch China&#39;s Chang&#39;e 6 probe land on far side of the moon in dramatic video](https://www.space.com/china-chang-e-6-lunar-far-side-video)
-- [Spend management startup SiFi raises $10M to grow further in Saudi Arabia](https://techcrunch.com/2024/06/03/sifi-raises-10m-seed/)
-- [The secrets of supernovas might be locked in moon dust](https://www.space.com/supernova-secrets-moon-dust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
