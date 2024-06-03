@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA will give a Hubble Telescope status update on June 4. Should we be worried?](https://www.space.com/hubble-telescope-press-conference-june-4)
+- [Watch Apple kick off WWDC 2024 right here](https://techcrunch.com/2024/06/03/watch-apple-kick-off-wwdc-2024-right-here/)
+- [TechCrunch Space: China’s victory](https://techcrunch.com/2024/06/03/techcrunch-space-chinas-victory/)
+- [An appeals court rules that VC Fearless Fund cannot issue grants to Black women, but the fight continues](https://techcrunch.com/2024/06/03/an-appeals-court-rules-that-vc-fearless-fund-cannot-issue-grants-to-black-women-but-the-fight-continues/)
 - [You can now customize your For You feed on Threads using swipes](https://techcrunch.com/2024/06/03/you-can-now-customize-your-for-you-feed-on-threads-using-swipes/)
-- [SpaceX targeting June 6 for next launch of Starship megarocket &lpar;photos&rpar;](https://www.space.com/spacex-starship-launch-date-june-6)
-- [Japanese billionaire pulls plug on private ‘dearMoon’ lunar Starship mission](https://techcrunch.com/2024/06/03/japanese-billionaire-pulls-plug-on-private-dearmoon-lunar-starship-mission/)
-- [People are using AI music generators to create hateful songs](https://techcrunch.com/2024/06/03/people-are-using-ai-music-generators-to-create-hateful-songs/)
-- [India launches nation&#39;s 1st 3D-printed rocket engine](https://www.space.com/india-agnikul-3d-printed-rocket-engine)
 <!-- BLOG-POST-LIST:END -->
 
 ---
