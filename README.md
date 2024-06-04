@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samara is accelerating the energy transition in Spain one solar panel at a time](https://techcrunch.com/2024/06/04/samara-is-accelerating-the-energy-transition-in-spain-one-solar-panel-at-a-time/)
 - [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/06/03/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/)
 - [NASA will give a Hubble Telescope status update on June 4. Should we be worried?](https://www.space.com/hubble-telescope-press-conference-june-4)
 - [Watch Apple kick off WWDC 2024 right here](https://techcrunch.com/2024/06/03/watch-apple-kick-off-wwdc-2024-right-here/)
 - [TechCrunch Space: China’s victory](https://techcrunch.com/2024/06/03/techcrunch-space-chinas-victory/)
-- [An appeals court rules that VC Fearless Fund cannot issue grants to Black women, but the fight continues](https://techcrunch.com/2024/06/03/an-appeals-court-rules-that-vc-fearless-fund-cannot-issue-grants-to-black-women-but-the-fight-continues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
