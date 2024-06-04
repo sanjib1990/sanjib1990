@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: The Illustrated Oral History: The Original Cast&#39; reveals how William Shatner felt about tribbles &lpar;exclusive&rpar;](https://www.space.com/star-trek-illustrated-oral-history-except-making-of-trouble-with-tribbles)
+- [Engineer brothers found Forge to modernize hardware procurement](https://techcrunch.com/2024/06/04/ex-meta-blue-origin-brother-engineers-raise-2m-to-solve-hardware-procurement/)
+- [Raspberry Pi partners with Hailo for its AI extension kit](https://techcrunch.com/2024/06/04/raspberry-pi-partners-with-hailo-for-its-ai-extension-kit/)
 - [Sun unleashes giant plasma plume and reels it back in apparent &#39;failed eruption&#39; &lpar;video&rpar;](https://www.space.com/sun-eruption-m-class-solar-flare-plasma-plume-june-3-2024)
 - [Stacklet sees demand grow as companies take cloud cost control more seriously](https://techcrunch.com/2024/06/04/stacklet-sees-demand-grow-as-companies-take-cloud-cost-control-more-seriously/)
-- [Fivetran launches a managed data lake service](https://techcrunch.com/2024/06/04/fivetran-launches-a-managed-data-lake-service/)
-- [How a couple of former Pinterest search experts caught Biz Stone’s attention](https://techcrunch.com/2024/06/04/search-biz-stone-e-commerce-vantage-discovery/)
-- [Mars is more prone to devastating asteroid impacts than we thought, new study hints](https://www.space.com/mars-prone-to-devastating-asteroid-impacts-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
