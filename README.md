@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GetWhy, a market research AI platform that extracts insights from video interviews, raises $34.5M](https://techcrunch.com/2024/06/04/getwhy-a-market-research-ai-platform-that-extracts-insights-from-video-interviews-raises-34-5m/)
-- [Sword Health raises $130 million and its valuation soars to $3 billion](https://techcrunch.com/2024/06/04/sword-healths-raises-130m-valuation-3b-ai-physical-therapy/)
-- [WndrCo officially gets into venture capital with fresh $450M across two funds](https://techcrunch.com/2024/06/04/jeffrey-katzenberg-wndrco-450m-fund-venture-capital/)
-- [Storyblok raises $80M to bring more AI into its ‘headless’ CMS aimed at non-technical people](https://techcrunch.com/2024/06/04/storyblok-raises-80m-to-bring-more-ai-into-its-headless-cms-aimed-at-non-technical-people/)
-- [16 best places to see the 2027 total solar eclipse](https://www.space.com/best-places-to-see-2027-total-solar-eclipse)
+- [Sun unleashes giant plasma plume and reels it back in apparent &#39;failed eruption&#39; &lpar;video&rpar;](https://www.space.com/sun-eruption-m-class-solar-flare-plasma-plume-june-3-2024)
+- [Stacklet sees demand grow as companies take cloud cost control more seriously](https://techcrunch.com/2024/06/04/stacklet-sees-demand-grow-as-companies-take-cloud-cost-control-more-seriously/)
+- [Fivetran launches a managed data lake service](https://techcrunch.com/2024/06/04/fivetran-launches-a-managed-data-lake-service/)
+- [How a couple of former Pinterest search experts caught Biz Stone’s attention](https://techcrunch.com/2024/06/04/search-biz-stone-e-commerce-vantage-discovery/)
+- [Mars is more prone to devastating asteroid impacts than we thought, new study hints](https://www.space.com/mars-prone-to-devastating-asteroid-impacts-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
