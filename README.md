@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intricate lava trails on Jupiter’s volcanic moon Io seen from Earth &lpar;image&rpar;](https://www.space.com/jupiter-moon-io-images-sharkvis-camera)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/04/tech-layoffs-2023-list/)
+- [What to expect from WWDC 2024: iOS 18, macOS 15 and so much AI](https://techcrunch.com/2024/06/04/what-to-expect-from-wwdc-2024-ios-18-macos-15-and-so-much-ai/)
 - [This planet-forming disk shaped like a comet is struggling to survive](https://www.space.com/planet-forming-disk-ultraviolet-radiation-orion-nebula)
 - [The votes are in: Meet the Disrupt 2024 audience choice roundtable winners](https://techcrunch.com/2024/06/04/the-votes-are-in-meet-the-disrupt-2024-audience-choice-roundtable-winners/)
-- [&#39;Venom: The Last Dance&#39; gets 1st trailer full of alien symbiote mischief and mayhem &lpar;video&rpar;](https://www.space.com/venom-the-last-dance-trailer)
-- [TikTok acknowledges exploit targeting high-profile accounts](https://techcrunch.com/2024/06/04/tiktok-acknowledges-exploit-targeting-high-profile-accounts/)
-- [Japan to launch world&#39;s 1st wooden satellite in September](https://www.space.com/japan-september-launch-first-wooden-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
