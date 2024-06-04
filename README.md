@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan to launch world&#39;s 1st wooden satellite in September](https://www.space.com/japan-september-launch-first-wooden-satellite)
+- [AI apocalypse? ChatGPT, Claude and Perplexity all went down at the same time](https://techcrunch.com/2024/06/04/ai-apocalypse-chatgpt-claude-and-perplexity-are-all-down-at-the-same-time/)
 - [A look at LoanSnap’s troubles and which neobanks are having a moment](https://techcrunch.com/2024/06/04/a-look-at-loansnaps-troubles-and-which-neobanks-are-having-a-moment/)
 - [Databricks acquires Tabular to build a common data lakehouse standard](https://techcrunch.com/2024/06/04/databricks-acquires-tabular-to-build-a-common-data-lakehouse-standard/)
 - [China&#39;s Chang&#39;e 6 probe launches samples of far side of the moon to lunar orbit. Next stop? Earth &lpar;photos&rpar;](https://www.space.com/chang-e-6-china-lunar-far-side-samples-moon-orbit-images)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/06/04/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Worldcoin faces pivotal EU privacy decision within weeks](https://techcrunch.com/2024/06/04/worldcoin-faces-pivotal-eu-privacy-decision-within-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
