@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA 3D Instagram &#39;experience&#39; brings nebulas into your home](https://www.space.com/nasa-chandra-x-ray-instagram-experience)
+- [Scale AI founder Alexandr Wang is coming to Disrupt 2024](https://techcrunch.com/2024/06/04/scale-ai-founder-alexandr-wang-is-coming-to-disrupt-2024/)
 - [&#39;Star Trek: The Illustrated Oral History: The Original Cast&#39; reveals how William Shatner felt about tribbles &lpar;exclusive&rpar;](https://www.space.com/star-trek-illustrated-oral-history-except-making-of-trouble-with-tribbles)
 - [Engineer brothers found Forge to modernize hardware procurement](https://techcrunch.com/2024/06/04/ex-meta-blue-origin-brother-engineers-raise-2m-to-solve-hardware-procurement/)
 - [Raspberry Pi partners with Hailo for its AI extension kit](https://techcrunch.com/2024/06/04/raspberry-pi-partners-with-hailo-for-its-ai-extension-kit/)
-- [Sun unleashes giant plasma plume and reels it back in apparent &#39;failed eruption&#39; &lpar;video&rpar;](https://www.space.com/sun-eruption-m-class-solar-flare-plasma-plume-june-3-2024)
-- [Stacklet sees demand grow as companies take cloud cost control more seriously](https://techcrunch.com/2024/06/04/stacklet-sees-demand-grow-as-companies-take-cloud-cost-control-more-seriously/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
