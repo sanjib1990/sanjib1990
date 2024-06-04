@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrophotographer captures planetary parade with the moon in stunning photo](https://www.space.com/planetary-parade-planets-moon-night-sky-june-1-photo)
-- [True Fit leverages generative AI to help online shoppers find clothes that fit](https://techcrunch.com/2024/06/04/true-fit-generative-ai-feature-fit-hub/)
-- [Discord and TuneIn partner to bring live radio to the social platform](https://techcrunch.com/2024/06/04/discord-and-tunein-partner-to-bring-live-radio-to-the-social-platform/)
-- [NASA 3D Instagram &#39;experience&#39; brings nebulas into your home](https://www.space.com/nasa-chandra-x-ray-instagram-experience)
-- [Scale AI founder Alexandr Wang is coming to Disrupt 2024](https://techcrunch.com/2024/06/04/scale-ai-founder-alexandr-wang-is-coming-to-disrupt-2024/)
+- [A look at LoanSnap’s troubles and which neobanks are having a moment](https://techcrunch.com/2024/06/04/a-look-at-loansnaps-troubles-and-which-neobanks-are-having-a-moment/)
+- [Databricks acquires Tabular to build a common data lakehouse standard](https://techcrunch.com/2024/06/04/databricks-acquires-tabular-to-build-a-common-data-lakehouse-standard/)
+- [China&#39;s Chang&#39;e 6 probe launches samples of far side of the moon to lunar orbit. Next stop? Earth &lpar;photos&rpar;](https://www.space.com/chang-e-6-china-lunar-far-side-samples-moon-orbit-images)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/06/04/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Worldcoin faces pivotal EU privacy decision within weeks](https://techcrunch.com/2024/06/04/worldcoin-faces-pivotal-eu-privacy-decision-within-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
