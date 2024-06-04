@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Human-caused global warming at all-time high, new report concludes](https://www.space.com/human-driven-global-warming-report)
+- [SpaceX launching 20 Starlink satellites tonight, including 13 direct-to-cell craft](https://www.space.com/spacex-starlink-launch-group-8-5)
+- [The Hubble Space Telescope is old. Here&#39;s NASA&#39;s new plan to keep it alive through 2035](https://www.space.com/hubble-telescope-one-gyroscope-mode)
 - [SpaceX lands FAA license for next Starship megarocket launch on June 6](https://www.space.com/spacex-starship-flight-4-faa-launch-license)
 - [Intricate lava trails on Jupiter’s volcanic moon Io seen from Earth &lpar;image&rpar;](https://www.space.com/jupiter-moon-io-images-sharkvis-camera)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/04/tech-layoffs-2023-list/)
-- [What to expect from WWDC 2024: iOS 18, macOS 15 and so much AI](https://techcrunch.com/2024/06/04/what-to-expect-from-wwdc-2024-ios-18-macos-15-and-so-much-ai/)
-- [This planet-forming disk shaped like a comet is struggling to survive](https://www.space.com/planet-forming-disk-ultraviolet-radiation-orion-nebula)
 <!-- BLOG-POST-LIST:END -->
 
 ---
