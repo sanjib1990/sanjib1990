@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This planet-forming disk shaped like a comet is struggling to survive](https://www.space.com/planet-forming-disk-ultraviolet-radiation-orion-nebula)
+- [The votes are in: Meet the Disrupt 2024 audience choice roundtable winners](https://techcrunch.com/2024/06/04/the-votes-are-in-meet-the-disrupt-2024-audience-choice-roundtable-winners/)
 - [&#39;Venom: The Last Dance&#39; gets 1st trailer full of alien symbiote mischief and mayhem &lpar;video&rpar;](https://www.space.com/venom-the-last-dance-trailer)
 - [TikTok acknowledges exploit targeting high-profile accounts](https://techcrunch.com/2024/06/04/tiktok-acknowledges-exploit-targeting-high-profile-accounts/)
 - [Japan to launch world&#39;s 1st wooden satellite in September](https://www.space.com/japan-september-launch-first-wooden-satellite)
-- [AI apocalypse? ChatGPT, Claude and Perplexity all went down at the same time](https://techcrunch.com/2024/06/04/ai-apocalypse-chatgpt-claude-and-perplexity-are-all-down-at-the-same-time/)
-- [A look at LoanSnap’s troubles and which neobanks are having a moment](https://techcrunch.com/2024/06/04/a-look-at-loansnaps-troubles-and-which-neobanks-are-having-a-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
