@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Samara is accelerating the energy transition in Spain one solar panel at a time](https://techcrunch.com/2024/06/04/samara-is-accelerating-the-energy-transition-in-spain-one-solar-panel-at-a-time/)
-- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/06/03/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/)
-- [NASA will give a Hubble Telescope status update on June 4. Should we be worried?](https://www.space.com/hubble-telescope-press-conference-june-4)
-- [Watch Apple kick off WWDC 2024 right here](https://techcrunch.com/2024/06/03/watch-apple-kick-off-wwdc-2024-right-here/)
-- [TechCrunch Space: China’s victory](https://techcrunch.com/2024/06/03/techcrunch-space-chinas-victory/)
+- [16 best places to see the 2027 total solar eclipse](https://www.space.com/best-places-to-see-2027-total-solar-eclipse)
+- [‘Star Wars’ lasers and waterfalls of molten salt: How Xcimer plans to make fusion power happen](https://techcrunch.com/2024/06/04/star-wars-lasers-and-waterfalls-of-molten-salt-how-xcimer-plans-to-make-fusion-power-happen/)
+- [Travel app Sékr wants to help you plan your next road trip with its new AI tool](https://techcrunch.com/2024/06/04/travel-app-sekr-wants-to-help-you-plan-your-next-road-trip-with-its-new-ai-tool/)
+- [ChatGPT is down for some, OpenAI is working on a fix](https://techcrunch.com/2024/06/04/chatgpt-is-down-for-several-users-openai-is-working-on-a-fix/)
+- [Microsoft hit with EU privacy complaints over schools’ use of 365 Education suite](https://techcrunch.com/2024/06/04/microsoft-hit-with-eu-privacy-complaints-over-schools-use-of-365-education-suite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
