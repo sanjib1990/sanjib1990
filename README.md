@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GetWhy, a market research AI platform that extracts insights from video interviews, raises $34.5M](https://techcrunch.com/2024/06/04/getwhy-a-market-research-ai-platform-that-extracts-insights-from-video-interviews-raises-34-5m/)
+- [Sword Health raises $130 million and its valuation soars to $3 billion](https://techcrunch.com/2024/06/04/sword-healths-raises-130m-valuation-3b-ai-physical-therapy/)
+- [WndrCo officially gets into venture capital with fresh $450M across two funds](https://techcrunch.com/2024/06/04/jeffrey-katzenberg-wndrco-450m-fund-venture-capital/)
+- [Storyblok raises $80M to bring more AI into its ‘headless’ CMS aimed at non-technical people](https://techcrunch.com/2024/06/04/storyblok-raises-80m-to-bring-more-ai-into-its-headless-cms-aimed-at-non-technical-people/)
 - [16 best places to see the 2027 total solar eclipse](https://www.space.com/best-places-to-see-2027-total-solar-eclipse)
-- [‘Star Wars’ lasers and waterfalls of molten salt: How Xcimer plans to make fusion power happen](https://techcrunch.com/2024/06/04/star-wars-lasers-and-waterfalls-of-molten-salt-how-xcimer-plans-to-make-fusion-power-happen/)
-- [Travel app Sékr wants to help you plan your next road trip with its new AI tool](https://techcrunch.com/2024/06/04/travel-app-sekr-wants-to-help-you-plan-your-next-road-trip-with-its-new-ai-tool/)
-- [ChatGPT is down for some, OpenAI is working on a fix](https://techcrunch.com/2024/06/04/chatgpt-is-down-for-several-users-openai-is-working-on-a-fix/)
-- [Microsoft hit with EU privacy complaints over schools’ use of 365 Education suite](https://techcrunch.com/2024/06/04/microsoft-hit-with-eu-privacy-complaints-over-schools-use-of-365-education-suite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
