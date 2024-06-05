@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX congratulates Boeing, ULA on 1st crewed Starliner launch](https://www.space.com/spacex-elon-musk-congratulates-boeing-ula-starliner-launch)
+- [Fearless Fund’s Arian Simone coming to Disrupt 2024](https://techcrunch.com/2024/06/05/fearless-funds-arian-simone-coming-to-disrupt-2024/)
+- [Bluesky and Mastodon users can now talk to each other with Bridgy Fed](https://techcrunch.com/2024/06/05/bluesky-and-mastodon-users-can-now-talk-to-each-other-with-bridgy-fed/)
 - [What time is SpaceX&#39;s Starship Flight 4 launch test on June 6?](https://www.space.com/spacex-starship-flight-4-launch-what-time)
 - [Zoox to test self-driving cars in Austin and Miami](https://techcrunch.com/2024/06/05/zoox-to-test-self-driving-cars-in-austin-and-miami/)
-- [&#39;They&#39;re going to test this thing from izzard to gizzard:&#39; NASA hails success of Boeing&#39;s 1st Starliner astronaut launch](https://www.space.com/nasa-boeing-celebrate-1st-starliner-astronaut-launch)
-- [Stability AI releases a sound generator](https://techcrunch.com/2024/06/05/stability-ai-releases-a-sound-generator/)
-- [SoftBank-backed grocery startup Oda lays off 150, resets focus on Norway and Sweden](https://techcrunch.com/2024/06/05/softbank-backed-grocery-startup-oda-lays-off-150-resets-focus-on-norway-and-sweden/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
