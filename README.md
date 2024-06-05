@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Whizz wants to own the delivery e-bike subscription space, starting with NYC](https://techcrunch.com/2024/06/05/whizz-wants-to-own-the-delivery-e-bike-subscription-space-starting-with-nyc/)
+- [Boeing&#39;s Starliner launches astronauts for 1st time in historic liftoff &lpar;photos, video&rpar;](https://www.space.com/boeing-starliner-crew-flight-test-launch)
+- [Boeing’s Starliner astronaut capsule is en route to the ISS](https://techcrunch.com/2024/06/05/boeings-starliner-astronaut-capsule-en-route-to-the-iss/)
 - [NASA exoplanet hunter finds &#39;weird&#39; world  surviving a star&#39;s relentless bombardment  — it&#39;s named Phoenix](https://www.space.com/phoenix-exoplanet-nasa-star-bombardment)
 - [Three ways founders can shine at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/05/three-ways-founders-can-shine-at-techcrunch-disrupt-2024/)
-- [&#39;Star Wars: The Acolyte&#39; episodes 1 &amp; 2: Who&#39;s really behind the Jedi murder mystery?](https://www.space.com/star-wars-the-acolyte-episodes-1-2-jedi-murder-mystery)
-- [Google’s new startup program focuses on bringing AI to public infrastructure](https://techcrunch.com/2024/06/05/googles-new-startup-program-focuses-on-bringing-ai-to-public-infrastructure/)
-- [Reconnaissance of Potentially Habitable Worlds with NASA’s Webb](https://blogs.nasa.gov/webb/2024/06/05/reconnaissance-of-potentially-habitable-worlds-with-nasas-webb/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
