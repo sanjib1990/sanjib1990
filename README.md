@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alphabet’s new CFO is Eli Lilly’s Anat Ashkenazi](https://techcrunch.com/2024/06/05/alphabets-new-cfo-is-eli-lillys-anat-ashkenazi/)
-- [With $21.8M in funding, Tobiko aims to build a modern data platform](https://techcrunch.com/2024/06/05/with-21-8m-in-funding-tobiko-aims-to-build-a-modern-data-platform/)
-- [Eko Health scores $41M to detect heart disease earlier and more accurately](https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/)
-- [DARPA and Slingshot build system to detect ‘wolf in sheep’s clothing’ adversary satellites](https://techcrunch.com/2024/06/05/darpa-and-slingshot-build-system-to-detect-wolf-in-sheeps-clothing-adversary-satellites/)
-- [Aurora-like STEVE phenomenon has a &#39;secret twin&#39; that appears only before dawn, study finds](https://www.space.com/steve-aurora-phenomenon-secret-twin-before-dawn-study)
+- [Save $400 on Unistellar smart binoculars: Early bird deal](https://www.space.com/unistellar-envision-smart-binoculars-early-bird-deal-save-400-dollars)
+- [Midnight sun: What it is and how to see it](https://www.space.com/midnight-sun-facts-where-and-when-to-see)
+- [Asana introduces ‘AI teammates’ designed to work alongside human employees](https://techcrunch.com/2024/06/05/asana-introduces-ai-teammates-designed-to-work-alongside-human-employees/)
+- [Taloflow puts AI to work on software vendor selection to reduce cost and save time](https://techcrunch.com/2024/06/05/taloflow-reduces-cost-and-time-involved-in-software-vendor-selection/)
+- [SiTration uses silicon wafers to reclaim critical minerals from mining waste](https://techcrunch.com/2024/06/05/sitration-uses-silicon-wafers-to-reclaim-critical-minerals-from-mining-waste/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
