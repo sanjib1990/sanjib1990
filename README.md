@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reconnaissance of Potentially Habitable Worlds with NASA’s Webb](https://blogs.nasa.gov/webb/2024/06/05/reconnaissance-of-potentially-habitable-worlds-with-nasas-webb/)
+- [Terrifying new &#39;Alien: Romulus&#39; trailer unleashes the facehuggers &lpar;video&rpar;](https://www.space.com/alien-romulus-trailer-facehuggers)
+- [eBay debuts AI-powered background tool to enhance product images](https://techcrunch.com/2024/06/05/ebay-ai-powered-background-enhancement-tool/)
+- [Hoop uses AI to automatically manage your to-do list](https://techcrunch.com/2024/06/05/hoop-frees-you-from-managing-your-to-do-list/)
 - [Save $400 on Unistellar smart binoculars: Early bird deal](https://www.space.com/unistellar-envision-smart-binoculars-early-bird-deal-save-400-dollars)
-- [Midnight sun: What it is and how to see it](https://www.space.com/midnight-sun-facts-where-and-when-to-see)
-- [Asana introduces ‘AI teammates’ designed to work alongside human employees](https://techcrunch.com/2024/06/05/asana-introduces-ai-teammates-designed-to-work-alongside-human-employees/)
-- [Taloflow puts AI to work on software vendor selection to reduce cost and save time](https://techcrunch.com/2024/06/05/taloflow-reduces-cost-and-time-involved-in-software-vendor-selection/)
-- [SiTration uses silicon wafers to reclaim critical minerals from mining waste](https://techcrunch.com/2024/06/05/sitration-uses-silicon-wafers-to-reclaim-critical-minerals-from-mining-waste/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
