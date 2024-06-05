@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zoox to test self-driving cars in Austin and Miami](https://techcrunch.com/2024/06/05/zoox-to-test-self-driving-cars-in-austin-and-miami/)
+- [&#39;They&#39;re going to test this thing from izzard to gizzard:&#39; NASA hails success of Boeing&#39;s 1st Starliner astronaut launch](https://www.space.com/nasa-boeing-celebrate-1st-starliner-astronaut-launch)
+- [Stability AI releases a sound generator](https://techcrunch.com/2024/06/05/stability-ai-releases-a-sound-generator/)
+- [SoftBank-backed grocery startup Oda lays off 150, resets focus on Norway and Sweden](https://techcrunch.com/2024/06/05/softbank-backed-grocery-startup-oda-lays-off-150-resets-focus-on-norway-and-sweden/)
 - [Substack brings video to its Chat feature](https://techcrunch.com/2024/06/05/substack-brings-video-to-chat-feature/)
-- [This Week in AI: Ex-OpenAI staff call for safety and transparency](https://techcrunch.com/2024/06/05/this-week-in-ai-ex-openai-staff-call-for-safety-and-transparency/)
-- [Cameo fumbles on Ms. Rachel fundraiser as fans receive credits instead of videos](https://techcrunch.com/2024/06/05/cameo-fumbles-on-ms-rachel-fundraiser-as-fans-receive-credits-instead-of-videos/)
-- [Cartwheel generates 3D animations from scratch to power up creators](https://techcrunch.com/2024/06/05/cartwheel-generates-3d-animations-from-scratch-to-power-up-creators/)
-- [Wix’s new tool taps AI to generate smartphone apps](https://techcrunch.com/2024/06/05/wixs-new-tool-taps-ai-to-generate-smartphone-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
