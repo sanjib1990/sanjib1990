@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet’s new CFO is Eli Lilly’s Anat Ashkenazi](https://techcrunch.com/2024/06/05/alphabets-new-cfo-is-eli-lillys-anat-ashkenazi/)
+- [With $21.8M in funding, Tobiko aims to build a modern data platform](https://techcrunch.com/2024/06/05/with-21-8m-in-funding-tobiko-aims-to-build-a-modern-data-platform/)
 - [Eko Health scores $41M to detect heart disease earlier and more accurately](https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/)
 - [DARPA and Slingshot build system to detect ‘wolf in sheep’s clothing’ adversary satellites](https://techcrunch.com/2024/06/05/darpa-and-slingshot-build-system-to-detect-wolf-in-sheeps-clothing-adversary-satellites/)
 - [Aurora-like STEVE phenomenon has a &#39;secret twin&#39; that appears only before dawn, study finds](https://www.space.com/steve-aurora-phenomenon-secret-twin-before-dawn-study)
-- [Father&#39;s Day telescope deals: Save $400 on Unistellar smart telescopes](https://www.space.com/unistellar-fathers-day-telescope-deals-2024-save-400-dollars)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
