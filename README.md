@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eko Health scores $41M to detect heart disease earlier and more accurately](https://techcrunch.com/2024/06/05/eko-health-scores-41m-to-detect-heart-disease-earlier-and-more-accurately/)
+- [DARPA and Slingshot build system to detect ‘wolf in sheep’s clothing’ adversary satellites](https://techcrunch.com/2024/06/05/darpa-and-slingshot-build-system-to-detect-wolf-in-sheeps-clothing-adversary-satellites/)
 - [Aurora-like STEVE phenomenon has a &#39;secret twin&#39; that appears only before dawn, study finds](https://www.space.com/steve-aurora-phenomenon-secret-twin-before-dawn-study)
 - [Father&#39;s Day telescope deals: Save $400 on Unistellar smart telescopes](https://www.space.com/unistellar-fathers-day-telescope-deals-2024-save-400-dollars)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [SAP to acquire digital adoption platform WalkMe for $1.5B](https://techcrunch.com/2024/06/05/sap-to-acquire-digital-adoption-platform-walkme-for-1-5b/)
-- [Modi-led coalition’s election win signals policy continuity in India – but also spending cuts](https://techcrunch.com/2024/06/04/modis-third-term-signals-policy-continuity-in-india-but-with-spending-cuts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
