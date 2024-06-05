@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora-like STEVE phenomenon has a &#39;secret twin&#39; that appears only before dawn, study finds](https://www.space.com/steve-aurora-phenomenon-secret-twin-before-dawn-study)
+- [Father&#39;s Day telescope deals: Save $400 on Unistellar smart telescopes](https://www.space.com/unistellar-fathers-day-telescope-deals-2024-save-400-dollars)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [SAP to acquire digital adoption platform WalkMe for $1.5B](https://techcrunch.com/2024/06/05/sap-to-acquire-digital-adoption-platform-walkme-for-1-5b/)
 - [Modi-led coalition’s election win signals policy continuity in India – but also spending cuts](https://techcrunch.com/2024/06/04/modis-third-term-signals-policy-continuity-in-india-but-with-spending-cuts/)
-- [Human-caused global warming at all-time high, new report concludes](https://www.space.com/human-driven-global-warming-report)
-- [SpaceX launches 20 Starlink satellites, including 13 direct-to-cell craft](https://www.space.com/spacex-starlink-launch-group-8-5)
-- [The Hubble Space Telescope is old. Here&#39;s NASA&#39;s new plan to keep it alive through 2035](https://www.space.com/hubble-telescope-one-gyroscope-mode)
-- [SpaceX lands FAA license for next Starship megarocket launch on June 6](https://www.space.com/spacex-starship-flight-4-faa-launch-license)
 <!-- BLOG-POST-LIST:END -->
 
 ---
