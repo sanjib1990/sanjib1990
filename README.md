@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Whizz wants to own the delivery e-bike subscription space, starting with NYC](https://techcrunch.com/2024/06/05/whizz-wants-to-own-the-delivery-e-bike-subscription-space-starting-with-nyc/)
-- [Boeing&#39;s Starliner launches astronauts for 1st time in historic liftoff &lpar;photos, video&rpar;](https://www.space.com/boeing-starliner-crew-flight-test-launch)
-- [Boeing’s Starliner astronaut capsule is en route to the ISS](https://techcrunch.com/2024/06/05/boeings-starliner-astronaut-capsule-en-route-to-the-iss/)
-- [NASA exoplanet hunter finds &#39;weird&#39; world  surviving a star&#39;s relentless bombardment  — it&#39;s named Phoenix](https://www.space.com/phoenix-exoplanet-nasa-star-bombardment)
-- [Three ways founders can shine at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/05/three-ways-founders-can-shine-at-techcrunch-disrupt-2024/)
+- [Substack brings video to its Chat feature](https://techcrunch.com/2024/06/05/substack-brings-video-to-chat-feature/)
+- [This Week in AI: Ex-OpenAI staff call for safety and transparency](https://techcrunch.com/2024/06/05/this-week-in-ai-ex-openai-staff-call-for-safety-and-transparency/)
+- [Cameo fumbles on Ms. Rachel fundraiser as fans receive credits instead of videos](https://techcrunch.com/2024/06/05/cameo-fumbles-on-ms-rachel-fundraiser-as-fans-receive-credits-instead-of-videos/)
+- [Cartwheel generates 3D animations from scratch to power up creators](https://techcrunch.com/2024/06/05/cartwheel-generates-3d-animations-from-scratch-to-power-up-creators/)
+- [Wix’s new tool taps AI to generate smartphone apps](https://techcrunch.com/2024/06/05/wixs-new-tool-taps-ai-to-generate-smartphone-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
