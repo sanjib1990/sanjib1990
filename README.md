@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral launches new services, SDK to let customers fine-tune its models](https://techcrunch.com/2024/06/05/mistral-launches-new-services-sdk-to-let-customers-fine-tune-its-models/)
+- [Hundreds of Snowflake customer passwords found online are linked to info-stealing malware](https://techcrunch.com/2024/06/05/snowflake-customer-passwords-found-online-infostealing-malware/)
+- [Google acquires Cameyo to bring Windows apps to ChromeOS](https://techcrunch.com/2024/06/05/google-acquires-cameyo-to-bring-windows-apps-to-chromeos/)
+- [Mistral launches new services and SDK to let customers fine-tune its models](https://techcrunch.com/2024/06/05/mistral-launches-new-services-sdk-to-let-customers-fine-tune-its-models/)
 - [Humane urges customers to stop using charging case, citing battery fire concerns](https://techcrunch.com/2024/06/05/humane-urges-customers-to-stop-using-charging-case-citing-battery-fire-concerns/)
 - [Watch Apple kick off WWDC 2024 right here](https://techcrunch.com/2024/06/05/watch-apple-kick-off-wwdc-2024-right-here/)
-- [What to expect from Apple’s AI-powered iOS 18 at WWDC 2024](https://techcrunch.com/2024/06/05/what-to-expect-from-apples-ai-powered-ios-18-at-wwdc-2024/)
-- [1st telescope removed from controversial astronomy hub on Hawaiian volcano](https://www.space.com/maunakea-hawaii-volcano-telescope-removal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
