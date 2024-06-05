@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is SpaceX&#39;s Starship Flight 4 launch test on June 6?](https://www.space.com/spacex-starship-flight-4-launch-what-time)
 - [Zoox to test self-driving cars in Austin and Miami](https://techcrunch.com/2024/06/05/zoox-to-test-self-driving-cars-in-austin-and-miami/)
 - [&#39;They&#39;re going to test this thing from izzard to gizzard:&#39; NASA hails success of Boeing&#39;s 1st Starliner astronaut launch](https://www.space.com/nasa-boeing-celebrate-1st-starliner-astronaut-launch)
 - [Stability AI releases a sound generator](https://techcrunch.com/2024/06/05/stability-ai-releases-a-sound-generator/)
 - [SoftBank-backed grocery startup Oda lays off 150, resets focus on Norway and Sweden](https://techcrunch.com/2024/06/05/softbank-backed-grocery-startup-oda-lays-off-150-resets-focus-on-norway-and-sweden/)
-- [Substack brings video to its Chat feature](https://techcrunch.com/2024/06/05/substack-brings-video-to-chat-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
