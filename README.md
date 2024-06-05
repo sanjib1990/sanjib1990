@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Modi-led coalition’s election win signals policy continuity in India – but also spending cuts](https://techcrunch.com/2024/06/04/modis-third-term-signals-policy-continuity-in-india-but-with-spending-cuts/)
 - [Human-caused global warming at all-time high, new report concludes](https://www.space.com/human-driven-global-warming-report)
-- [SpaceX launching 20 Starlink satellites tonight, including 13 direct-to-cell craft](https://www.space.com/spacex-starlink-launch-group-8-5)
+- [SpaceX launches 20 Starlink satellites, including 13 direct-to-cell craft](https://www.space.com/spacex-starlink-launch-group-8-5)
 - [The Hubble Space Telescope is old. Here&#39;s NASA&#39;s new plan to keep it alive through 2035](https://www.space.com/hubble-telescope-one-gyroscope-mode)
 - [SpaceX lands FAA license for next Starship megarocket launch on June 6](https://www.space.com/spacex-starship-flight-4-faa-launch-license)
 <!-- BLOG-POST-LIST:END -->
