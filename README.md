@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google looks to AI to help save the coral reefs](https://techcrunch.com/2024/06/06/google-looks-to-ai-to-help-save-the-coral-reefs/)
-- [Everything we know about &#39;Destiny 2: The Final Shape&#39;](https://www.space.com/destiny-2-the-final-shape-everything-we-know)
-- [Tektonic AI raises $10M to build GenAI agents for automating business operations](https://techcrunch.com/2024/06/06/tektonic-ai-raises-10m-to-build-genai-agents-for-automating-business-operations/)
-- [SpaceX launches mammoth Starship rocket and brings it back for the first time](https://techcrunch.com/2024/06/06/spacex-launches-mammoth-starship-rocket-and-brings-it-back-for-the-first-time/)
-- [Sirion, now valued around $1B, acquires Eigen in enterprise AI tooling consolidation play](https://techcrunch.com/2024/06/06/sirion-now-valued-around-1b-acquires-eigen-in-enterprise-ai-tooling-consolidation-play/)
+- [Rivian overhauled the R1S and R1T to entice new buyers ahead of cheaper R2 launch](https://techcrunch.com/2024/06/06/rivian-refresh-r1t-r1s-second-generation-speed-range-apple/)
+- [Twitch DJs will now have to pay music labels to play songs in livestreams](https://techcrunch.com/2024/06/06/twitch-djs-will-now-have-to-pay-music-labels-to-play-songs-in-livestreams/)
+- [Google partners with RapidSOS to enable 911 contact through RCS](https://techcrunch.com/2024/06/06/google-partners-with-rapidsos-to-enable-911-contact-through-rcs/)
+- [New moon of June 2024 tonight lets Saturn, Mars and Jupiter shine](https://www.space.com/new-moon-june-2024)
+- [A social app for creatives, Cara grew from 40k to 650k users in a week because artists are fed up with Meta’s AI policies](https://techcrunch.com/2024/06/06/a-social-app-for-creatives-cara-grew-from-40k-to-650k-users-in-a-week-because-artists-are-fed-up-with-metas-ai-policies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
