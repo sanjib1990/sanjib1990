@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dealt turns retailers into service providers and proves that pivots sometimes work](https://techcrunch.com/2024/06/05/dealt-turns-retailers-into-service-providers-and-proves-that-pivots-sometimes-work/)
 - [Watch SpaceX launch 4th test flight of Starship megarocket today](https://www.space.com/spacex-starship-fourth-test-flight-webcast)
 - [Hundreds of Snowflake customer passwords found online are linked to info-stealing malware](https://techcrunch.com/2024/06/05/snowflake-customer-passwords-found-online-infostealing-malware/)
 - [Google acquires Cameyo to bring Windows apps to ChromeOS](https://techcrunch.com/2024/06/05/google-acquires-cameyo-to-bring-windows-apps-to-chromeos/)
 - [Mistral launches new services and SDK to let customers fine-tune its models](https://techcrunch.com/2024/06/05/mistral-launches-new-services-sdk-to-let-customers-fine-tune-its-models/)
-- [Humane urges customers to stop using charging case, citing battery fire concerns](https://techcrunch.com/2024/06/05/humane-urges-customers-to-stop-using-charging-case-citing-battery-fire-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
