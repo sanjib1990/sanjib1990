@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;hole&#39; on Mars making headlines could be crucial to Red Planet exploration](https://www.space.com/mars-hole-red-planet-exploration-volcanoes-life)
 - [Boeing’s Starliner overcomes leaks and engine trouble to dock with ‘the big city in the sky’](https://techcrunch.com/2024/06/06/boeings-starliner-overcomes-leaks-and-engine-trouble-to-dock-with-the-big-city-in-the-sky/)
 - [Rivian’s path to survival is now remarkably clear](https://techcrunch.com/2024/06/06/rivian-r1-revamp-profit-survival-r2-suv/)
 - [What to expect from WWDC 2024: iOS 18, macOS 15 and so much AI](https://techcrunch.com/2024/06/06/what-to-expect-from-wwdc-2024-ios-18-macos-15-and-so-much-ai/)
 - [HSBC believes that $22 billion Byju’s is now worth zero](https://techcrunch.com/2024/06/06/hsbc-believes-indian-edtech-byjus-currently-worth-zero/)
-- [What to expect from Apple’s AI-powered iOS 18 at WWDC 2024](https://techcrunch.com/2024/06/06/what-to-expect-from-apples-ai-powered-ios-18-at-wwdc-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
