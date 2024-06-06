@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founded in war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/)
+- [Watch Boeing&#39;s Starliner arrive at ISS today on historic 1st astronaut mission](https://www.space.com/boeing-starliner-first-astronaut-mission-docking-iss)
 - [Amazon buys Indian video streaming service MX Player](https://techcrunch.com/2024/06/06/amazon-buys-indian-video-streaming-service-mx-player/)
 - [Dealt turns retailers into service providers and proves that pivots sometimes work](https://techcrunch.com/2024/06/05/dealt-turns-retailers-into-service-providers-and-proves-that-pivots-sometimes-work/)
 - [Watch SpaceX launch 4th test flight of Starship megarocket today](https://www.space.com/spacex-starship-fourth-test-flight-webcast)
-- [Hundreds of Snowflake customer passwords found online are linked to info-stealing malware](https://techcrunch.com/2024/06/05/snowflake-customer-passwords-found-online-infostealing-malware/)
-- [Google acquires Cameyo to bring Windows apps to ChromeOS](https://techcrunch.com/2024/06/05/google-acquires-cameyo-to-bring-windows-apps-to-chromeos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
