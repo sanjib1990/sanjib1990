@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocky, carbon-rich exoplanets more likely around tiny stars, James Webb Space Telescope reveals](https://www.space.com/space-exploration/james-webb-space-telescope/rocky-carbon-rich-exoplanets-more-likely-around-tiny-stars-james-webb-space-telescope-reveals)
+- [Meta rolls out Meta Verified for WhatsApp Business users in Brazil, India, Indonesia and Colombia](https://techcrunch.com/2024/06/06/meta-rolls-out-meta-verified-for-whatsapp-business-users-in-brazil-india-indonesia-and-colombia/)
+- [Meta adds AI-powered features to WhatsApp Business app](https://techcrunch.com/2024/06/06/meta-adds-ai-powered-features-to-whatsapp-business-app/)
+- [TikTok is testing Snapchat-like streaks](https://techcrunch.com/2024/06/06/tiktok-is-testing-snapchat-like-streaks/)
 - [Inside Fisker’s collapse and robotaxis come to more US cities](https://techcrunch.com/2024/06/06/inside-fiskers-collapse-and-part-2-of-the-robotaxi-wars/)
-- [SpaceX Starship 4th flight test looks epic in these stunning photos](https://www.space.com/spacex-starship-4th-flight-test-photos)
-- [Revel to lay off 1,000 staff ride-hail drivers, saying they’d rather be contractors anyway](https://techcrunch.com/2024/06/06/revels-latest-pivot-ditching-all-employee-ride-hail-in-favor-of-gig-worker-model/)
-- [Boeing Starliner astronauts wave off 1st ISS docking attempt amid thruster issues](https://www.space.com/boeing-starliner-misses-first-iss-docking-attempt)
-- [Google Play cracks down on AI apps after circulation of apps for making deepfake nudes](https://techcrunch.com/2024/06/06/google-play-cracks-down-on-ai-apps-after-circulation-of-apps-for-making-deepfake-nudes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
