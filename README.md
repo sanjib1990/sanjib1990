@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unhinged ransomware attack targets hospitals](https://www.youtube.com/watch?v=sQ9o5M9aRZw)
 - [Innovation, Past and Future with Prof Christopher Capozzola](https://www.youtube.com/watch?v=GFoYtA6TmRA)
 - [JAX in 100 Seconds](https://www.youtube.com/watch?v=_0D5lXDjNpw)
 - [Google&#39;s secret algorithm exposed via leak to GitHub…](https://www.youtube.com/watch?v=XNQhDl4a9Ko)
 - [Degenerative AI… The recent failures of &quot;artificial intelligence&quot; tech](https://www.youtube.com/watch?v=krixaEhLnlA)
-- [The ONLY Continuous Integration &lpar;CI&rpar; Tutorial you need as an Engineer](https://www.youtube.com/watch?v=MIWH2CpVyXs)
 <!-- YOUTUBE:END -->
 
 ---
