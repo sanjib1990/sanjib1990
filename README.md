@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rivian overhauled the R1S and R1T to entice new buyers ahead of cheaper R2 launch](https://techcrunch.com/2024/06/06/rivian-refresh-r1t-r1s-second-generation-speed-range-apple/)
-- [Twitch DJs will now have to pay music labels to play songs in livestreams](https://techcrunch.com/2024/06/06/twitch-djs-will-now-have-to-pay-music-labels-to-play-songs-in-livestreams/)
-- [Google partners with RapidSOS to enable 911 contact through RCS](https://techcrunch.com/2024/06/06/google-partners-with-rapidsos-to-enable-911-contact-through-rcs/)
-- [New moon of June 2024 tonight lets Saturn, Mars and Jupiter shine](https://www.space.com/new-moon-june-2024)
-- [A social app for creatives, Cara grew from 40k to 650k users in a week because artists are fed up with Meta’s AI policies](https://techcrunch.com/2024/06/06/a-social-app-for-creatives-cara-grew-from-40k-to-650k-users-in-a-week-because-artists-are-fed-up-with-metas-ai-policies/)
+- [Inside Fisker’s collapse and robotaxis come to more US cities](https://techcrunch.com/2024/06/06/inside-fiskers-collapse-and-part-2-of-the-robotaxi-wars/)
+- [SpaceX Starship 4th flight test looks epic in these stunning photos](https://www.space.com/spacex-starship-4th-flight-test-photos)
+- [Revel to lay off 1,000 staff ride-hail drivers, saying they’d rather be contractors anyway](https://techcrunch.com/2024/06/06/revels-latest-pivot-ditching-all-employee-ride-hail-in-favor-of-gig-worker-model/)
+- [Boeing Starliner astronauts wave off 1st ISS docking attempt amid thruster issues](https://www.space.com/boeing-starliner-misses-first-iss-docking-attempt)
+- [Google Play cracks down on AI apps after circulation of apps for making deepfake nudes](https://techcrunch.com/2024/06/06/google-play-cracks-down-on-ai-apps-after-circulation-of-apps-for-making-deepfake-nudes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
