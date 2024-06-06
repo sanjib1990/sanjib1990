@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Eyebot raised $6M for AI-powered kiosks that provide 90-second eye exams without optometrist](https://techcrunch.com/2024/06/06/eyebot-raised-6m-for-ai-powered-kiosks-that-provide-90-second-eye-exams-without-optometrist/)
-- [&#39;Everything&#39;s a compromise:&#39; How this NASA astronaut put Boeing&#39;s Starliner to the test &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-starliner-test-team-celebrate-launch)
-- [Google’s updated AI-powered NotebookLM expands to India, UK and over 200 other countries](https://techcrunch.com/2024/06/06/googles-ai-powered-notebooklm-expands-to-india-uk-and-over-200-other-countries/)
-- [Starting in war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/)
-- [Watch Boeing&#39;s Starliner arrive at ISS today on historic 1st astronaut mission](https://www.space.com/boeing-starliner-first-astronaut-mission-docking-iss)
+- [Fly over the scarred canyons of Mars in this breathtaking video from European spacecraft](https://www.space.com/mars-nili-fossae-flyover-esa-video)
+- [Greptile raises $4M to build an AI-fueled code base expert](https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/)
+- [Study finds that AI models hold opposing views on controversial topics](https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/)
+- [Cube is building a ‘semantic layer’ for company data](https://techcrunch.com/2024/06/06/cube-is-building-a-semantic-layer-for-company-data/)
+- [Robinhood acquires global crypto exchange Bitstamp for $200M](https://techcrunch.com/2024/06/06/robinhood-acquires-global-crypto-exchange-bitstamp-for-200m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
