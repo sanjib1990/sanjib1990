@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eyebot raised $6M for AI-powered kiosks that provide 90-second eye exams without optometrist](https://techcrunch.com/2024/06/06/eyebot-raised-6m-for-ai-powered-kiosks-that-provide-90-second-eye-exams-without-optometrist/)
+- [&#39;Everything&#39;s a compromise:&#39; How this NASA astronaut put Boeing&#39;s Starliner to the test &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-starliner-test-team-celebrate-launch)
 - [Google’s updated AI-powered NotebookLM expands to India, UK and over 200 other countries](https://techcrunch.com/2024/06/06/googles-ai-powered-notebooklm-expands-to-india-uk-and-over-200-other-countries/)
-- [Once serving war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/)
+- [Starting in war-torn Sudan, YC-backed Elevate now provides fintech to freelancers globally](https://techcrunch.com/2024/06/06/once-serving-war-torn-sudan-elevate-now-services-other-emerging-markets/)
 - [Watch Boeing&#39;s Starliner arrive at ISS today on historic 1st astronaut mission](https://www.space.com/boeing-starliner-first-astronaut-mission-docking-iss)
-- [Amazon buys Indian video streaming service MX Player](https://techcrunch.com/2024/06/06/amazon-buys-indian-video-streaming-service-mx-player/)
-- [Dealt turns retailers into service providers and proves that pivots sometimes work](https://techcrunch.com/2024/06/05/dealt-turns-retailers-into-service-providers-and-proves-that-pivots-sometimes-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
