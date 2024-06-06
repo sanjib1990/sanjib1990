@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Most unique tree here:&#39; Artemis Moon Tree planted at US Capitol](https://www.space.com/artemis-moon-tree-us-capitol-planting)
 - [Rocky, carbon-rich exoplanets more likely around tiny stars, James Webb Space Telescope reveals](https://www.space.com/space-exploration/james-webb-space-telescope/rocky-carbon-rich-exoplanets-more-likely-around-tiny-stars-james-webb-space-telescope-reveals)
 - [Meta rolls out Meta Verified for WhatsApp Business users in Brazil, India, Indonesia and Colombia](https://techcrunch.com/2024/06/06/meta-rolls-out-meta-verified-for-whatsapp-business-users-in-brazil-india-indonesia-and-colombia/)
 - [Meta adds AI-powered features to WhatsApp Business app](https://techcrunch.com/2024/06/06/meta-adds-ai-powered-features-to-whatsapp-business-app/)
 - [TikTok is testing Snapchat-like streaks](https://techcrunch.com/2024/06/06/tiktok-is-testing-snapchat-like-streaks/)
-- [Inside Fisker’s collapse and robotaxis come to more US cities](https://techcrunch.com/2024/06/06/inside-fiskers-collapse-and-part-2-of-the-robotaxi-wars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
