@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [More people Googled &#39;northern lights&#39; in May 2024 than in any other month in history](https://www.space.com/sun-space-weather-search-trends-may-2024-analysis)
-- [How many Earths does your lifestyle require?](https://techcrunch.com/2024/06/06/how-many-earths-does-your-lifestyle-require/)
-- [Prolific Machines, with a $55M Series B, shines ‘light’ on a better way to grow lab proteins for food and medicine](https://techcrunch.com/2024/06/06/light-protein-prolific-machines-manufacturing/)
-- [Chang’e 6 mission’s far-side moon samples enter return-to-Earth module in lunar orbit](https://www.space.com/china-chang-e-6-moon-sample-return-transfer-orbiter)
-- [Punk singer Shira Yevin pushes for fair pay with InPink, a women-only job marketplace for artists](https://techcrunch.com/2024/06/06/gritty-in-pink-founder-job-marketplace/)
+- [Google looks to AI to help save the coral reefs](https://techcrunch.com/2024/06/06/google-looks-to-ai-to-help-save-the-coral-reefs/)
+- [Everything we know about &#39;Destiny 2: The Final Shape&#39;](https://www.space.com/destiny-2-the-final-shape-everything-we-know)
+- [Tektonic AI raises $10M to build GenAI agents for automating business operations](https://techcrunch.com/2024/06/06/tektonic-ai-raises-10m-to-build-genai-agents-for-automating-business-operations/)
+- [SpaceX launches mammoth Starship rocket and brings it back for the first time](https://techcrunch.com/2024/06/06/spacex-launches-mammoth-starship-rocket-and-brings-it-back-for-the-first-time/)
+- [Sirion, now valued around $1B, acquires Eigen in enterprise AI tooling consolidation play](https://techcrunch.com/2024/06/06/sirion-now-valued-around-1b-acquires-eigen-in-enterprise-ai-tooling-consolidation-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
