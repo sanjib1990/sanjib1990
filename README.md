@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fly over the scarred canyons of Mars in this breathtaking video from European spacecraft](https://www.space.com/mars-nili-fossae-flyover-esa-video)
-- [Greptile raises $4M to build an AI-fueled code base expert](https://techcrunch.com/2024/06/06/greptile-raises-4m-to-build-an-ai-code-base-expert/)
-- [Study finds that AI models hold opposing views on controversial topics](https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/)
-- [Cube is building a ‘semantic layer’ for company data](https://techcrunch.com/2024/06/06/cube-is-building-a-semantic-layer-for-company-data/)
-- [Robinhood acquires global crypto exchange Bitstamp for $200M](https://techcrunch.com/2024/06/06/robinhood-acquires-global-crypto-exchange-bitstamp-for-200m/)
+- [More people Googled &#39;northern lights&#39; in May 2024 than in any other month in history](https://www.space.com/sun-space-weather-search-trends-may-2024-analysis)
+- [How many Earths does your lifestyle require?](https://techcrunch.com/2024/06/06/how-many-earths-does-your-lifestyle-require/)
+- [Prolific Machines, with a $55M Series B, shines ‘light’ on a better way to grow lab proteins for food and medicine](https://techcrunch.com/2024/06/06/light-protein-prolific-machines-manufacturing/)
+- [Chang’e 6 mission’s far-side moon samples enter return-to-Earth module in lunar orbit](https://www.space.com/china-chang-e-6-moon-sample-return-transfer-orbiter)
+- [Punk singer Shira Yevin pushes for fair pay with InPink, a women-only job marketplace for artists](https://techcrunch.com/2024/06/06/gritty-in-pink-founder-job-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
