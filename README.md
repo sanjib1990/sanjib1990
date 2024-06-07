@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [when your serverless computing bill goes parabolic...](https://www.youtube.com/watch?v=SCIfWhAheVw)
 - [Lecture 2: Strings, Input/Output, and Branching](https://www.youtube.com/watch?v=UdEX0E9lIQM)
 - [Dump ChatGPT, use Fabric instead](https://www.youtube.com/watch?v=ad-OHmjAU_Y)
 - [Unhinged ransomware attack targets hospitals](https://www.youtube.com/watch?v=sQ9o5M9aRZw)
 - [Innovation, Past and Future with Prof Christopher Capozzola](https://www.youtube.com/watch?v=GFoYtA6TmRA)
-- [JAX in 100 Seconds](https://www.youtube.com/watch?v=_0D5lXDjNpw)
 <!-- YOUTUBE:END -->
 
 ---
