@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Doctor Who &#39;Dot and Bubble&#39;: Why are space slugs eating influencers in Finetime?](https://www.space.com/doctor-who-dot-and-bubble-space-slugs-explained)
+- [Startup Battlefield 200 applications due Monday](https://techcrunch.com/2024/06/07/startup-battlefield-200-applications-due-monday/)
 - [South Korea creates new KASA space agency, sets sights on the moon and Mars](https://www.space.com/south-korea-space-agency-mars-landing-2045)
 - [Novel battery manufacturer EnerVenue is raising $515M, per filing](https://techcrunch.com/2024/06/07/novel-battery-manufacturer-enervenue-is-raising-515m-per-filing/)
 - [Scientists find slowest spinning &#39;radio neutron star&#39; — it breaks all the dead-star rules](https://www.space.com/neutron-star-radio-blasting-white-dwarf)
-- [Meta quietly rolls out Communities on Messenger](https://techcrunch.com/2024/06/07/meta-quietly-rolls-out-communities-on-messenger/)
-- [&#39;Sudden, brief, and unexpected:&#39; dearMoon crew laments cancellation of private SpaceX Starship moon mission](https://www.space.com/spacex-starship-dearmoon-crew-reacts-private-mission-canceled)
 <!-- BLOG-POST-LIST:END -->
 
 ---
