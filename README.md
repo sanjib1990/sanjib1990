@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weird magnetic fields of Uranus and Neptune may come from strange space chemistry](https://www.space.com/uranus-neptune-aquodiium-magnetic-fields)
+- [Apple’s generative AI offering might not work with the standard iPhone 15](https://techcrunch.com/2024/06/07/apples-generative-ai-offering-might-not-work-with-the-standard-iphone-15/)
 - [US military test launches 2 unarmed intercontinental ballistic missiles in 2 days](https://www.space.com/space-debris-north-carolina-more-found)
 - [LinkedIn to limit targeted ads in EU after complaint over sensitive data use](https://techcrunch.com/2024/06/07/linkedin-to-limit-targeted-ads-in-eu-after-complaint-over-sensitive-data-use/)
 - [Doctor Who &#39;Dot and Bubble&#39;: Why are space slugs eating influencers in Finetime?](https://www.space.com/doctor-who-dot-and-bubble-space-slugs-explained)
-- [Startup Battlefield 200 applications due Monday](https://techcrunch.com/2024/06/07/startup-battlefield-200-applications-due-monday/)
-- [South Korea creates new KASA space agency, sets sights on the moon and Mars](https://www.space.com/south-korea-space-agency-mars-landing-2045)
 <!-- BLOG-POST-LIST:END -->
 
 ---
