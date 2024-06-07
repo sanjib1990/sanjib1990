@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lecture 2: Strings, Input/Output, and Branching](https://www.youtube.com/watch?v=UdEX0E9lIQM)
 - [Dump ChatGPT, use Fabric instead](https://www.youtube.com/watch?v=ad-OHmjAU_Y)
 - [Unhinged ransomware attack targets hospitals](https://www.youtube.com/watch?v=sQ9o5M9aRZw)
 - [Innovation, Past and Future with Prof Christopher Capozzola](https://www.youtube.com/watch?v=GFoYtA6TmRA)
 - [JAX in 100 Seconds](https://www.youtube.com/watch?v=_0D5lXDjNpw)
-- [Google&#39;s secret algorithm exposed via leak to GitHub…](https://www.youtube.com/watch?v=XNQhDl4a9Ko)
 <!-- YOUTUBE:END -->
 
 ---
