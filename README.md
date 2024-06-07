@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Sudden, brief, and unexpected:&#39; dearMoon crew laments cancellation of private SpaceX Starship moon mission](https://www.space.com/spacex-starship-dearmoon-crew-reacts-private-mission-canceled)
+- [Siri and Google Assistant look to generative AI for a new lease on life](https://techcrunch.com/2024/06/07/siri-and-google-assistant-look-to-generative-ai-for-a-new-lease-on-life/)
 - [PowerSchool, provider of K-12 education software, to go private in $5.6B deal](https://techcrunch.com/2024/06/07/powerschool-provider-of-k-12-education-software-to-go-private-in-5-6b-deal/)
 - [Massive &#39;El Gordo&#39; galaxy cluster suggests dark matter smashes into itself](https://www.space.com/dark-matter-self-interacting)
 - [Shopify acquires Threads &lpar;no, not that one&rpar;](https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/)
-- [A billionaire wanted to save the Hubble Telescope — here&#39;s why NASA politely declined](https://www.space.com/jared-isaacman-hubble-space-telescope-reboost)
-- [Bangladeshi police agents accused of selling citizens’ personal information on Telegram](https://techcrunch.com/2024/06/06/bangladeshi-police-agents-accused-of-selling-citizens-personal-information-on-telegram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
