@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find slowest spinning &#39;radio neutron star&#39; — it breaks all the dead-star rules](https://www.space.com/neutron-star-radio-blasting-white-dwarf)
+- [Meta quietly rolls out Communities on Messenger](https://techcrunch.com/2024/06/07/meta-quietly-rolls-out-communities-on-messenger/)
 - [&#39;Sudden, brief, and unexpected:&#39; dearMoon crew laments cancellation of private SpaceX Starship moon mission](https://www.space.com/spacex-starship-dearmoon-crew-reacts-private-mission-canceled)
 - [Siri and Google Assistant look to generative AI for a new lease on life](https://techcrunch.com/2024/06/07/siri-and-google-assistant-look-to-generative-ai-for-a-new-lease-on-life/)
-- [PowerSchool, provider of K-12 education software, to go private in $5.6B deal](https://techcrunch.com/2024/06/07/powerschool-provider-of-k-12-education-software-to-go-private-in-5-6b-deal/)
-- [Massive &#39;El Gordo&#39; galaxy cluster suggests dark matter smashes into itself](https://www.space.com/dark-matter-self-interacting)
-- [Shopify acquires Threads &lpar;no, not that one&rpar;](https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/)
+- [Bain to take K-12 education software provider PowerSchool private in $5.6B deal](https://techcrunch.com/2024/06/07/powerschool-provider-of-k-12-education-software-to-go-private-in-5-6b-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
