@@ -97,8 +97,8 @@
 - [Virgin Galactic eyes June 8 for final commercial spaceflight on VSS Unity spaceplane](https://www.space.com/virgin-galactic-07-final-vss-unity-commercial-spaceflight)
 - [SpaceX launching 22 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-10-1)
 - [In 2024, many Y Combinator startups only want tiny seed rounds — but there’s a catch](https://techcrunch.com/2024/06/07/y-combinator-yc-startups-tiny-seed-rounds-vc-investors-not-interested/)
+- [Watch Apple kick off WWDC 2024 right here](https://techcrunch.com/2024/06/07/watch-apple-kick-off-wwdc-2024-right-here/)
 - [Jupiter&#39;s raging gas cyclones may actually mirror Earth&#39;s oceans. Here&#39;s how](https://www.space.com/jupiter-gas-cyclones-earth-oceans)
-- [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
