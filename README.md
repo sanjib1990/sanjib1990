@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [South Korea creates new KASA space agency, sets sights on the moon and Mars](https://www.space.com/south-korea-space-agency-mars-landing-2045)
+- [Novel battery manufacturer EnerVenue is raising $515M, per filing](https://techcrunch.com/2024/06/07/novel-battery-manufacturer-enervenue-is-raising-515m-per-filing/)
 - [Scientists find slowest spinning &#39;radio neutron star&#39; — it breaks all the dead-star rules](https://www.space.com/neutron-star-radio-blasting-white-dwarf)
 - [Meta quietly rolls out Communities on Messenger](https://techcrunch.com/2024/06/07/meta-quietly-rolls-out-communities-on-messenger/)
 - [&#39;Sudden, brief, and unexpected:&#39; dearMoon crew laments cancellation of private SpaceX Starship moon mission](https://www.space.com/spacex-starship-dearmoon-crew-reacts-private-mission-canceled)
-- [Siri and Google Assistant look to generative AI for a new lease on life](https://techcrunch.com/2024/06/07/siri-and-google-assistant-look-to-generative-ai-for-a-new-lease-on-life/)
-- [Bain to take K-12 education software provider PowerSchool private in $5.6B deal](https://techcrunch.com/2024/06/07/powerschool-provider-of-k-12-education-software-to-go-private-in-5-6b-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
