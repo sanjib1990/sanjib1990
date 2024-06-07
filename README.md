@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerSchool, provider of K-12 education software, to go private in $5.6B deal](https://techcrunch.com/2024/06/07/powerschool-provider-of-k-12-education-software-to-go-private-in-5-6b-deal/)
+- [Massive &#39;El Gordo&#39; galaxy cluster suggests dark matter smashes into itself](https://www.space.com/dark-matter-self-interacting)
 - [Shopify acquires Threads &lpar;no, not that one&rpar;](https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/)
 - [A billionaire wanted to save the Hubble Telescope — here&#39;s why NASA politely declined](https://www.space.com/jared-isaacman-hubble-space-telescope-reboost)
 - [Bangladeshi police agents accused of selling citizens’ personal information on Telegram](https://techcrunch.com/2024/06/06/bangladeshi-police-agents-accused-of-selling-citizens-personal-information-on-telegram/)
-- [Carta’s valuation to be cut by $6.5 billion in upcoming secondary sale](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/)
-- [Thruster glitches and helium leaks can&#39;t stop Boeing&#39;s Starliner astronaut test flight — but why are they happening?](https://www.space.com/boeing-starliner-astronaut-test-flight-thrusters-helium-leaks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
