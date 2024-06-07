@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter&#39;s raging gas cyclones may actually mirror Earth&#39;s oceans. Here&#39;s how](https://www.space.com/jupiter-gas-cyclones-earth-oceans)
+- [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/)
 - [Weird magnetic fields of Uranus and Neptune may come from strange space chemistry](https://www.space.com/uranus-neptune-aquodiium-magnetic-fields)
 - [Apple’s generative AI offering might not work with the standard iPhone 15](https://techcrunch.com/2024/06/07/apples-generative-ai-offering-might-not-work-with-the-standard-iphone-15/)
-- [US military test launches 2 unarmed intercontinental ballistic missiles in 2 days](https://www.space.com/space-debris-north-carolina-more-found)
-- [LinkedIn to limit targeted ads in EU after complaint over sensitive data use](https://techcrunch.com/2024/06/07/linkedin-to-limit-targeted-ads-in-eu-after-complaint-over-sensitive-data-use/)
-- [Doctor Who &#39;Dot and Bubble&#39;: Why are space slugs eating influencers in Finetime?](https://www.space.com/doctor-who-dot-and-bubble-space-slugs-explained)
+- [US military test launches 2 unarmed intercontinental ballistic missiles in 2 days](https://www.space.com/us-military-2-intercontinental-ballistic-missile-tests-2-days)
 <!-- BLOG-POST-LIST:END -->
 
 ---
