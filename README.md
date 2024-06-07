@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic eyes June 8 for final commercial spaceflight on VSS Unity spaceplane](https://www.space.com/virgin-galactic-07-final-vss-unity-commercial-spaceflight)
+- [SpaceX launching 22 Starlink satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-10-1)
+- [In 2024, many Y Combinator startups only want tiny seed rounds — but there’s a catch](https://techcrunch.com/2024/06/07/y-combinator-yc-startups-tiny-seed-rounds-vc-investors-not-interested/)
 - [Jupiter&#39;s raging gas cyclones may actually mirror Earth&#39;s oceans. Here&#39;s how](https://www.space.com/jupiter-gas-cyclones-earth-oceans)
 - [Startups Weekly: Ups, downs, and silver linings](https://techcrunch.com/2024/06/07/startups-weekly-ups-downs-and-silver-linings/)
-- [Weird magnetic fields of Uranus and Neptune may come from strange space chemistry](https://www.space.com/uranus-neptune-aquodiium-magnetic-fields)
-- [Apple’s generative AI offering might not work with the standard iPhone 15](https://techcrunch.com/2024/06/07/apples-generative-ai-offering-might-not-work-with-the-standard-iphone-15/)
-- [US military test launches 2 unarmed intercontinental ballistic missiles in 2 days](https://www.space.com/us-military-2-intercontinental-ballistic-missile-tests-2-days)
 <!-- BLOG-POST-LIST:END -->
 
 ---
