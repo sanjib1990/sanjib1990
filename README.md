@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Bangladeshi police agents accused of selling citizens’ personal information on Telegram](https://techcrunch.com/2024/06/06/bangladeshi-police-agents-accused-of-selling-citizens-personal-information-on-telegram/)
-- [Carta’s valuation will be cut by billions in an upcoming secondary sale](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/)
+- [Carta’s valuation to be cut by $6.5 billion in upcoming secondary sale](https://techcrunch.com/2024/06/06/cartas-valuation-to-be-cut-by-billions-in-an-upcoming-secondary-sale/)
 - [Thruster glitches and helium leaks can&#39;t stop Boeing&#39;s Starliner astronaut test flight — but why are they happening?](https://www.space.com/boeing-starliner-astronaut-test-flight-thrusters-helium-leaks)
 - [The &#39;hole&#39; on Mars making headlines could be crucial to Red Planet exploration](https://www.space.com/mars-hole-red-planet-exploration-volcanoes-life)
 - [Boeing’s Starliner overcomes leaks and engine trouble to dock with ‘the big city in the sky’](https://techcrunch.com/2024/06/06/boeings-starliner-overcomes-leaks-and-engine-trouble-to-dock-with-the-big-city-in-the-sky/)
