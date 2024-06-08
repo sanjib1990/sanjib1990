@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/)
 - [What Snowflake isn’t saying about its customer data breaches](https://techcrunch.com/2024/06/07/snowflake-ticketmaster-lendingtree-customer-data-breach/)
 - [Rippling bans former employees who work at competitors like Deel and Workday from its tender offer stock sale](https://techcrunch.com/2024/06/07/rippling-former-employees-competitors-deel-workday-tender-offer-stock-sale/)
 - [NASA puts $10M down on Mars sample return proposals from Blue Origin, SpaceX and others](https://techcrunch.com/2024/06/07/nasa-puts-10m-down-on-mars-sample-return-proposals-from-blue-origin-spacex-and-others/)
 - [NASA wants new ideas for its troubled Mars Sample Return mission](https://www.space.com/nasa-mars-sample-return-alternative-methods)
-- [Virgin Galactic eyes June 8 for final commercial spaceflight on VSS Unity spaceplane](https://www.space.com/virgin-galactic-07-final-vss-unity-commercial-spaceflight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
