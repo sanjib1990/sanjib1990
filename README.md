@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [At long last: Europe&#39;s new Ariane 6 rocket set to debut on July 9](https://www.space.com/esa-ariane-6-rocket-first-launch-july-9)
+- [This Week In Space podcast: Episode 114 —Starliners &amp; Starships](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-114-starliners-starships)
 - [SpaceX wants to build 1 Starship megarocket a day with new Starfactory](https://www.space.com/spacex-starship-one-a-day-starfactory)
 - [Arrokoth the &#39;space snowman&#39; probably tastes like sweet soap](https://www.space.com/arrokoth-space-snowman-red-hue-sugars)
 - [Apollo 8 astronaut Bill Anders, who captured &#39;Earthrise,&#39; killed in plane crash](https://www.space.com/apollo-8-astronaut-bill-anders-plane-crash-obituary)
-- [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/)
-- [What Snowflake isn’t saying about its customer data breaches](https://techcrunch.com/2024/06/07/snowflake-ticketmaster-lendingtree-customer-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
