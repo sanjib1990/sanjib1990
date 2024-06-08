@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arrokoth the &#39;space snowman&#39; probably tastes like sweet soap](https://www.space.com/arrokoth-space-snowman-red-hue-sugars)
 - [Apollo 8 astronaut Bill Anders, who captured &#39;Earthrise,&#39; killed in plane crash](https://www.space.com/apollo-8-astronaut-bill-anders-plane-crash-obituary)
 - [Autonomy’s Mike Lynch acquitted after US fraud trial brought by HP](https://techcrunch.com/2024/06/07/autonomys-mike-lynch-acquitted-after-us-fraud-trial-brought-by-hp/)
 - [What Snowflake isn’t saying about its customer data breaches](https://techcrunch.com/2024/06/07/snowflake-ticketmaster-lendingtree-customer-data-breach/)
 - [Rippling bans former employees who work at competitors like Deel and Workday from its tender offer stock sale](https://techcrunch.com/2024/06/07/rippling-former-employees-competitors-deel-workday-tender-offer-stock-sale/)
-- [NASA puts $10M down on Mars sample return proposals from Blue Origin, SpaceX and others](https://techcrunch.com/2024/06/07/nasa-puts-10m-down-on-mars-sample-return-proposals-from-blue-origin-spacex-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
