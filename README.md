@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the 3-body problem, and is it really unsolvable?](https://www.space.com/3-body-problem-is-it-really-unsolvable)
 - [Astronauts test SpaceX Starship hardware and spacesuits for Artemis 3 moon mission &lpar;photos&rpar;](https://www.space.com/axiom-space-artemis-3-integrated-test)
 - [&#39;Stellar Dreams&#39; project gifting 100 telescopes to 100 families &lpar;exclusive&rpar;](https://www.space.com/stellar-dreams-100-telescopes-project)
 - [Anterior grabs $20M from NEA to expedite health insurance approvals with AI](https://techcrunch.com/2024/06/08/anterior-grabs-20m-from-nea-at-95m-valuation-to-expedite-health-insurance-approvals-with-ai/)
 - [How India’s most valuable startup ended up being worth nothing](https://techcrunch.com/2024/06/08/how-indias-most-valuable-startup-ended-up-being-worth-nothing/)
-- [Bereave wants employers to suck a little less at navigating death](https://techcrunch.com/2024/06/08/bereave-wants-employers-to-suck-a-little-less-at-navigating-death/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
