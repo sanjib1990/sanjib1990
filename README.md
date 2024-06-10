@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Intelligence is the company’s new generative AI offering](https://techcrunch.com/2024/06/10/apple-intelligence-is-the-companys-new-generative-ai-offering/)
-- [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)
-- [Smart Script in iPadOS 18 will clean up your handwriting when using an Apple Pencil](https://techcrunch.com/2024/06/10/smart-script-in-ipados-18-will-clean-up-your-handwriting-when-using-an-apple-pencil/)
-- [Calculator for iPad does the math for you](https://techcrunch.com/2024/06/10/calculator-for-ipad-does-the-math-for-you/)
-- [With macOS Sequoia, you can mirror your iPhone on your Mac](https://techcrunch.com/2024/06/10/with-macos-sequoia-you-can-mirror-your-iphone-on-your-mac/)
+- [Apple brings Apple Intelligence to developers via SiriKit and App Intents](https://techcrunch.com/2024/06/10/apple-brings-apple-intelligence-to-developers-via-sirikit-and-app-intents/)
+- [Take a video tour of Boeing’s Starliner with its 2 NASA astronauts](https://www.space.com/space-exploration/human-spaceflight/take-a-video-tour-of-boeings-starliner-with-its-2-nasa-astronauts)
+- [Apple Intelligence features will be available on iPhone 15 Pro and devices with M1 or newer chips](https://techcrunch.com/2024/06/10/apple-intelligence-features-will-be-avaiable-on-iphone-pro-and-devices-with-m1-mac/)
+- [Apple brings ChatGPT to its apps, including Siri](https://techcrunch.com/2024/06/10/apple-brings-chatgpt-to-its-apps-including-siri/)
+- [Apple debuts AI-generated … Bitmoji](https://techcrunch.com/2024/06/10/apple-debuts-ai-generated-bitmoji/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
