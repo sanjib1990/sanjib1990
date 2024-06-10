@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A &#39;new star&#39; could appear in the sky any night now. Here&#39;s how to see the Blaze Star ignite](https://www.space.com/new-star-2024-T-Coronae-Borealis)
-- [Mandiant says hackers stole a ‘significant volume of data’ from Snowflake customers](https://techcrunch.com/2024/06/10/mandiant-hackers-snowflake-stole-significant-volume-data-customers/)
-- [Astrophotographer gets close-up look at monster sunspot that led to May&#39;s global auroras](https://www.space.com/sun-solar-storm-may-10-timelapse)
-- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/)
-- [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/)
+- [Apple Intelligence is the company’s new generative AI offering](https://techcrunch.com/2024/06/10/apple-intelligence-is-the-companys-new-generative-ai-offering/)
+- [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)
+- [Smart Script in iPadOS 18 will clean up your handwriting when using an Apple Pencil](https://techcrunch.com/2024/06/10/smart-script-in-ipados-18-will-clean-up-your-handwriting-when-using-an-apple-pencil/)
+- [Calculator for iPad does the math for you](https://techcrunch.com/2024/06/10/calculator-for-ipad-does-the-math-for-you/)
+- [With macOS Sequoia, you can mirror your iPhone on your Mac](https://techcrunch.com/2024/06/10/with-macos-sequoia-you-can-mirror-your-iphone-on-your-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
