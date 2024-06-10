@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK and Canada privacy watchdogs investigating 23andMe data breach](https://techcrunch.com/2024/06/10/uk-and-canada-privacy-watchdogs-investigating-23andme-data-breach/)
-- [&#39;We thought it was impossible:&#39; Water frost on Mars discovered near Red Planet&#39;s equator](https://www.space.com/mars-water-frost-equator-exomars-tharsis-olympus-mons)
-- [Youthful galaxy in the early universe was a heavy metal rebel](https://www.space.com/young-galaxy-early-universe-carbon-jwst)
-- [Stake raises $14M to bring its fractional property investment platform to Saudi Arabia, Abu Dhabi](https://techcrunch.com/2024/06/10/stake-raises-14m-to-bring-its-fractional-property-investment-platform-to-saudi-arabia-abu-dhabi/)
-- [The Milky Way&#39;s last major act of galactic cannibalism was surprisingly recent](https://www.space.com/gaia-space-telescope-milky-way-cannibalism)
+- [Mandiant says hackers stole a ‘significant volume of data’ from Snowflake customers](https://techcrunch.com/2024/06/10/mandiant-hackers-snowflake-stole-significant-volume-data-customers/)
+- [Astrophotographer gets close-up look at monster sunspot that led to May&#39;s global auroras](https://www.space.com/sun-solar-storm-may-10-timelapse)
+- [Kelvin wants to help save the planet by applying AI to home energy audits](https://techcrunch.com/2024/06/10/kelvin-wants-to-help-save-the-planet-by-applying-ai-to-home-energy-audits/)
+- [Only hours left to apply to Startup Battlefield 200 at Disrupt](https://techcrunch.com/2024/06/10/only-hours-left-to-apply-to-startup-battlefield-200-at-disrupt/)
+- [Boeing&#39;s 1st Starliner astronaut mission extended through June 18](https://www.space.com/boeing-starliner-first-astronaut-mission-end-june-18)
 <!-- BLOG-POST-LIST:END -->
 
 ---
