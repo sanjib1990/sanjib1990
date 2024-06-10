@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Youthful galaxy in the early universe was a heavy metal rebel](https://www.space.com/young-galaxy-early-universe-carbon-jwst)
+- [Stake raises $14M to bring its fractional property investment platform to Saudi Arabia, Abu Dhabi](https://techcrunch.com/2024/06/10/stake-raises-14m-to-bring-its-fractional-property-investment-platform-to-saudi-arabia-abu-dhabi/)
 - [The Milky Way&#39;s last major act of galactic cannibalism was surprisingly recent](https://www.space.com/gaia-space-telescope-milky-way-cannibalism)
 - [After hits like Reddit and Scopley, Collaborative Fund easily raised a $125M fund to tackle climate, health and food](https://techcrunch.com/2024/06/10/after-hits-like-reddit-and-scopley-collaborative-fund-easily-raised-a-125m-fund-to-tackle-climate-health-and-food/)
 - [&#39;Supercharged rhino&#39; black holes may have formed and died a second after the Big Bang](https://www.space.com/tiny-black-holes-born-die-one-second-after-big-bang)
-- [Sources: Wasoko-MaxAB e-commerce merger faces delays amid headwinds in Africa](https://techcrunch.com/2024/06/10/sources-wasoko-maxab-e-commerce-merger-faces-delays-amid-headwinds-in-africa/)
-- [&#39;Vampire stars&#39; explode after eating too much — AI could help reveal why](https://www.space.com/white-dwarf-type-1a-supernovas-artificial-intelligence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
