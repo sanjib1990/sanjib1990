@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With €50 million to invest, Italian Founders Fund looks for entrepreneurs with global ambitions](https://techcrunch.com/2024/06/09/with-e50-million-to-invest-italian-founders-fund-looks-for-entrepreneurs-with-global-ambitions/)
 - [William Anders, astronaut who took the famous ‘Earthrise’ photo, dies at 90](https://techcrunch.com/2024/06/09/william-anders-astronaut-who-took-the-famous-earthrise-photo-dies-at-90/)
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/)
 - [New York moves to limit kids’ access to ‘addictive feeds’](https://techcrunch.com/2024/06/09/new-york-moves-to-limit-kids-access-to-addictive-feeds/)
 - [Sandworms rise from the sands of Arrakis in exclusive sneak peek at &#39;Dune: The Graphic Novel, Book 3&#39;](https://www.space.com/dune-graphic-novel-book-three-preview)
-- [Cat-sitting startup Meowtel clawed its way to profitability despite trouble raising from dog-focused VCs](https://techcrunch.com/2024/06/09/cat-sitting-startup-meowtel-clawed-its-way-to-profitability-despite-trouble-raising-from-dog-focused-vcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
