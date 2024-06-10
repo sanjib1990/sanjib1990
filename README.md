@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Milky Way&#39;s last major act of galactic cannibalism was surprisingly recent](https://www.space.com/gaia-space-telescope-milky-way-cannibalism)
+- [After hits like Reddit and Scopley, Collaborative Fund easily raised a $125M fund to tackle climate, health and food](https://techcrunch.com/2024/06/10/after-hits-like-reddit-and-scopley-collaborative-fund-easily-raised-a-125m-fund-to-tackle-climate-health-and-food/)
 - [&#39;Supercharged rhino&#39; black holes may have formed and died a second after the Big Bang](https://www.space.com/tiny-black-holes-born-die-one-second-after-big-bang)
 - [Sources: Wasoko-MaxAB e-commerce merger faces delays amid headwinds in Africa](https://techcrunch.com/2024/06/10/sources-wasoko-maxab-e-commerce-merger-faces-delays-amid-headwinds-in-africa/)
 - [&#39;Vampire stars&#39; explode after eating too much — AI could help reveal why](https://www.space.com/white-dwarf-type-1a-supernovas-artificial-intelligence)
-- [With €50 million to invest, Italian Founders Fund looks for entrepreneurs with global ambitions](https://techcrunch.com/2024/06/09/with-e50-million-to-invest-italian-founders-fund-looks-for-entrepreneurs-with-global-ambitions/)
-- [William Anders, astronaut who took the famous ‘Earthrise’ photo, dies at 90](https://techcrunch.com/2024/06/09/william-anders-astronaut-who-took-the-famous-earthrise-photo-dies-at-90/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
