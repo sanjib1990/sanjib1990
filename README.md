@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek V: The Final Frontier&#39; at 35: Did William Shatner direct the cheesiest chapter in the franchise?](https://www.space.com/star-trek-v-the-final-frontier-35th-anniversary)
 - [Is there really a huge subsurface lake near Mars&#39; south pole?](https://www.space.com/mars-subsurface-lake-south-pole-doubts)
 - [Slack CEO Denise Dresser is coming to TechCrunch Disrupt this October](https://techcrunch.com/2024/06/10/slack-ceo-denise-dresser-is-coming-to-techcrunch-disrupt-this-october/)
+- [Apple brings its gen AI ‘Apple Intelligence’ to developers, will let Siri control apps](https://techcrunch.com/2024/06/10/apple-brings-apple-intelligence-to-developers-via-sirikit-and-app-intents/)
 - [Solar flare blasts out strongest radiation storm since 2017](https://www.space.com/solar-storm-june-strongest-radiation-since-2017)
-- [Watch the Apple Intelligence reveal, and the rest of WWDC 2024 right here](https://techcrunch.com/2024/06/10/watch-the-apple-intelligence-reveal-and-the-rest-of-wwdc-2024-right-here/)
-- [Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover](https://techcrunch.com/2024/06/10/everything-apple-announced-wwdc-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
