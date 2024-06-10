@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple brings Apple Intelligence to developers via SiriKit and App Intents](https://techcrunch.com/2024/06/10/apple-brings-apple-intelligence-to-developers-via-sirikit-and-app-intents/)
-- [Take a video tour of Boeing’s Starliner with its 2 NASA astronauts](https://www.space.com/space-exploration/human-spaceflight/take-a-video-tour-of-boeings-starliner-with-its-2-nasa-astronauts)
-- [Apple Intelligence features will be available on iPhone 15 Pro and devices with M1 or newer chips](https://techcrunch.com/2024/06/10/apple-intelligence-features-will-be-avaiable-on-iphone-pro-and-devices-with-m1-mac/)
-- [Apple brings ChatGPT to its apps, including Siri](https://techcrunch.com/2024/06/10/apple-brings-chatgpt-to-its-apps-including-siri/)
-- [Apple debuts AI-generated … Bitmoji](https://techcrunch.com/2024/06/10/apple-debuts-ai-generated-bitmoji/)
+- [Is there really a huge subsurface lake near Mars&#39; south pole?](https://www.space.com/mars-subsurface-lake-south-pole-doubts)
+- [Slack CEO Denise Dresser is coming to TechCrunch Disrupt this October](https://techcrunch.com/2024/06/10/slack-ceo-denise-dresser-is-coming-to-techcrunch-disrupt-this-october/)
+- [Solar flare blasts out strongest radiation storm since 2017](https://www.space.com/solar-storm-june-strongest-radiation-since-2017)
+- [Watch the Apple Intelligence reveal, and the rest of WWDC 2024 right here](https://techcrunch.com/2024/06/10/watch-the-apple-intelligence-reveal-and-the-rest-of-wwdc-2024-right-here/)
+- [Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover](https://techcrunch.com/2024/06/10/everything-apple-announced-wwdc-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
