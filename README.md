@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Supercharged rhino&#39; black holes may have formed and died a second after the Big Bang](https://www.space.com/tiny-black-holes-born-die-one-second-after-big-bang)
+- [Sources: Wasoko-MaxAB e-commerce merger faces delays amid headwinds in Africa](https://techcrunch.com/2024/06/10/sources-wasoko-maxab-e-commerce-merger-faces-delays-amid-headwinds-in-africa/)
 - [&#39;Vampire stars&#39; explode after eating too much — AI could help reveal why](https://www.space.com/white-dwarf-type-1a-supernovas-artificial-intelligence)
 - [With €50 million to invest, Italian Founders Fund looks for entrepreneurs with global ambitions](https://techcrunch.com/2024/06/09/with-e50-million-to-invest-italian-founders-fund-looks-for-entrepreneurs-with-global-ambitions/)
 - [William Anders, astronaut who took the famous ‘Earthrise’ photo, dies at 90](https://techcrunch.com/2024/06/09/william-anders-astronaut-who-took-the-famous-earthrise-photo-dies-at-90/)
-- [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/09/startup-battlefield-200-applications-close-tomorrow/)
-- [New York moves to limit kids’ access to ‘addictive feeds’](https://techcrunch.com/2024/06/09/new-york-moves-to-limit-kids-access-to-addictive-feeds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
