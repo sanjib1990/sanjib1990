@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft, eyes 2026 test flights](https://www.space.com/darpa-ancillary-6-new-designs-2026-test-flights)
+- [Light introduces its latest minimalist phone, now with an OLED screen but still no addictive apps](https://techcrunch.com/2024/06/11/light-introduces-its-latest-minimalist-phone-now-with-an-oled-screen-but-still-no-addictive-apps/)
+- [The mystery of an alleged data broker’s data breach](https://techcrunch.com/2024/06/11/the-mystery-of-an-alleged-data-brokers-data-breach/)
 - [Crunchbase expands its diversity tracking feature to Europe](https://techcrunch.com/2024/06/11/crunchbase-expands-its-diversity-tracking-feature-to-europe/)
 - [Get a sneak peek at new &#39;Alien: Rogue Incursion&#39; survival horror game &lpar;trailer&rpar;](https://www.space.com/alien-rogue-incursion-vr-game-first-trailer)
-- [Watch SpaceX&#39;s Starship Super Heavy booster splash down in this epic video](https://www.space.com/spacex-starship-flight-4-super-heavy-landing-video)
-- [The top AI features Apple announced at WWDC 2024](https://techcrunch.com/2024/06/11/the-top-ai-features-apple-announced-at-wwdc-2024/)
-- [Flow claims it can 100x any CPU’s power with its companion chip and some elbow grease](https://techcrunch.com/2024/06/11/flow-claims-it-can-100x-any-cpus-power-with-its-companion-chip-and-some-elbow-grease/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
