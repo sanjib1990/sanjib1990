@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rippling’s tender offer decision draws mixed — and strong — reactions](https://techcrunch.com/2024/06/11/ripplings-tender-offer-decision-draws-mixed-and-strong-reactions-fintech/)
+- [A missing link in the timeline of Earth&#39;s chemistry may have been found](https://www.space.com/earth-modern-biochemistry-timeline-metabolic-reactions)
+- [SpaceX&#39;s Inspiration4 astronauts got genetically younger in space: study](https://www.space.com/spacex-inspiration4-crew-younger-in-space)
 - [Google’s June Pixel feature drop brings Gemini Nano AI model to Pixel 8 and 8a users](https://techcrunch.com/2024/06/11/googles-june-pixel-drop-brings-gemini-nano-ai-model-to-pixel-8-and-8a-users/)
 - [NASA funds tech development for life-hunting Habitable Worlds Observatory](https://www.space.com/nasa-awards-tech-development-habitable-worlds-observatory)
-- [Apple adds win-back subscription offers and improved search suggestions to the App Store](https://techcrunch.com/2024/06/11/apple-adds-win-back-subscription-offers-and-improved-search-suggestions-to-the-app-store/)
-- [Here are all the devices compatible with iOS 18](https://techcrunch.com/2024/06/11/here-are-all-the-devices-compatible-with-ios-18/)
-- [BeReal is being acquired by mobile apps and games company Voodoo for €500M](https://techcrunch.com/2024/06/11/bereal-is-being-acquired-by-mobile-apps-and-games-company-voodoo-for-e500m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
