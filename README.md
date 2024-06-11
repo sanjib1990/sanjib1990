@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Supernova discovery machine&#39; James Webb Space Telescope finds most distant star explosion on record](https://www.space.com/james-webb-space-telescope-supernova-factory)
+- [Apple’s AI, Apple Intelligence, is boring and practical — that’s why it works](https://techcrunch.com/2024/06/11/apples-ai-apple-intelligence-is-boring-and-practical-thats-why-it-works/)
 - [Solar storm douses Mars in radiation as auroras flicker in the Red Planet sky &lpar;video&rpar;](https://www.space.com/mars-aurora-radiation-solar-storm-curiosity-rover)
 - [Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover](https://techcrunch.com/2024/06/11/everything-apple-announced-wwdc-2024/)
 - [Spawning wants to build more ethical AI training datasets](https://techcrunch.com/2024/06/11/spawning-wants-to-build-more-ethical-ai-training-data-sets/)
-- [India&#39;s Aditya-L1 solar probe snaps shots of our hyperactive sun during May outburst &lpar;photos&rpar;](https://www.space.com/india-aditya-solar-probe-sun-photos-may-2024-outburst)
-- [TikTok comes for Google as it quietly rolls out image search capabilities in TikTok Shop](https://techcrunch.com/2024/06/11/tiktok-comes-for-google-as-it-quietly-rolls-out-image-search-capabilities-in-tiktok-shop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
