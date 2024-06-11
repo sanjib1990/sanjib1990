@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar storm douses Mars in radiation as auroras flicker in the Red Planet sky &lpar;video&rpar;](https://www.space.com/mars-aurora-radiation-solar-storm-curiosity-rover)
+- [Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover](https://techcrunch.com/2024/06/11/everything-apple-announced-wwdc-2024/)
+- [Spawning wants to build more ethical AI training datasets](https://techcrunch.com/2024/06/11/spawning-wants-to-build-more-ethical-ai-training-data-sets/)
 - [India&#39;s Aditya-L1 solar probe snaps shots of our hyperactive sun during May outburst &lpar;photos&rpar;](https://www.space.com/india-aditya-solar-probe-sun-photos-may-2024-outburst)
 - [TikTok comes for Google as it quietly rolls out image search capabilities in TikTok Shop](https://techcrunch.com/2024/06/11/tiktok-comes-for-google-as-it-quietly-rolls-out-image-search-capabilities-in-tiktok-shop/)
-- [GM gives Cruise $850M lifeline as it relaunches robotaxis in Houston](https://techcrunch.com/2024/06/11/gm-gives-cruise-850m-lifeline-as-it-relaunches-robotaxis-in-houston/)
-- [An interstellar cloud may have caused an ice age on Earth. Here&#39;s how](https://www.space.com/earth-dense-interstellar-cloud-solar-protection-lost)
-- [At last, Apple’s Messages app will support RCS and scheduling texts](https://techcrunch.com/2024/06/11/at-last-apples-messages-app-will-support-rcs-and-scheduling-texts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
