@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi is now a public company as its shares pop after IPO pricing](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
 - [China&#39;s Chang&#39;e 6 mission carried a stone flag to the moon&#39;s far side](https://www.space.com/china-change-6-moon-flag-basalt)
 - [Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover](https://techcrunch.com/2024/06/10/everything-apple-announced-wwdc-2024/)
 - [TechCrunch Space: A week that will go down in history](https://techcrunch.com/2024/06/10/techcrunch-space-a-week-that-will-go-down-in-history/)
 - [Elon Musk threatens to ban Apple devices from his companies over Apple’s ChatGPT integrations](https://techcrunch.com/2024/06/10/elon-musk-threatens-to-ban-apple-devices-from-his-companies-over-apples-chatgpt-integrations/)
-- [Apple confirms plans to work with Google’s Gemini ‘in the future’](https://techcrunch.com/2024/06/10/apple-confirms-plans-to-work-with-googles-gemini-in-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
