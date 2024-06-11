@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crunchbase expands its diversity tracking feature to Europe](https://techcrunch.com/2024/06/11/crunchbase-expands-its-diversity-tracking-feature-to-europe/)
+- [Get a sneak peek at new &#39;Alien: Rogue Incursion&#39; survival horror game &lpar;trailer&rpar;](https://www.space.com/alien-rogue-incursion-vr-game-first-trailer)
+- [Watch SpaceX&#39;s Starship Super Heavy booster splash down in this epic video](https://www.space.com/spacex-starship-flight-4-super-heavy-landing-video)
 - [The top AI features Apple announced at WWDC 2024](https://techcrunch.com/2024/06/11/the-top-ai-features-apple-announced-at-wwdc-2024/)
 - [Flow claims it can 100x any CPU’s power with its companion chip and some elbow grease](https://techcrunch.com/2024/06/11/flow-claims-it-can-100x-any-cpus-power-with-its-companion-chip-and-some-elbow-grease/)
-- [James Webb Space Telescope spots asteroid collision in neighboring star system](https://www.space.com/james-webb-space-telescope-asteroid-collision-beta-pictoris)
-- [The VC queen of portfolio PR, Masha Bucher, has raised her largest fund yet: $150M](https://techcrunch.com/2024/06/11/vc-queen-masha-bucher-largest-fund-150m/)
-- [AI news reader Particle adds publishing partners and $10.9M in new funding](https://techcrunch.com/2024/06/11/ai-news-reader-particle-adds-publishing-partners-and-10-9m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
