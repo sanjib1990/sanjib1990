@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [lol Apple Intelligence is dumb...](https://www.youtube.com/watch?v=ek2yOqAIYuU)
 - [RetroPie: A Raspberry Pi Gaming Machine](https://www.youtube.com/watch?v=AaseHnf0k2o)
 - [when your serverless computing bill goes parabolic...](https://www.youtube.com/watch?v=SCIfWhAheVw)
 - [Lecture 2: Strings, Input/Output, and Branching](https://www.youtube.com/watch?v=UdEX0E9lIQM)
 - [Dump ChatGPT, use Fabric instead](https://www.youtube.com/watch?v=ad-OHmjAU_Y)
-- [Unhinged ransomware attack targets hospitals](https://www.youtube.com/watch?v=sQ9o5M9aRZw)
 <!-- YOUTUBE:END -->
 
 ---
