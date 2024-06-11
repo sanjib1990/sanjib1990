@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New space stations exhibit invites public to find &#39;Home Beyond Earth&#39;](https://www.space.com/home-beyond-earth-space-station-exhibit-museum-flight)
-- [Cognigy lands cash to grow its contact center automation business](https://techcrunch.com/2024/06/11/cognigy-lands-cash-to-grow-its-contact-center-automation-business/)
-- [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
-- [China&#39;s Chang&#39;e 6 mission carried a stone flag to the moon&#39;s far side](https://www.space.com/china-change-6-moon-flag-basalt)
-- [Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover](https://techcrunch.com/2024/06/10/everything-apple-announced-wwdc-2024/)
+- [The top AI features Apple announced at WWDC 2024](https://techcrunch.com/2024/06/11/the-top-ai-features-apple-announced-at-wwdc-2024/)
+- [Flow claims it can 100x any CPU’s power with its companion chip and some elbow grease](https://techcrunch.com/2024/06/11/flow-claims-it-can-100x-any-cpus-power-with-its-companion-chip-and-some-elbow-grease/)
+- [James Webb Space Telescope spots asteroid collision in neighboring star system](https://www.space.com/james-webb-space-telescope-asteroid-collision-beta-pictoris)
+- [The VC queen of portfolio PR, Masha Bucher, has raised her largest fund yet: $150M](https://techcrunch.com/2024/06/11/vc-queen-masha-bucher-largest-fund-150m/)
+- [AI news reader Particle adds publishing partners and $10.9M in new funding](https://techcrunch.com/2024/06/11/ai-news-reader-particle-adds-publishing-partners-and-10-9m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
