@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft, eyes 2026 test flights](https://www.space.com/darpa-ancillary-6-new-designs-2026-test-flights)
-- [Light introduces its latest minimalist phone, now with an OLED screen but still no addictive apps](https://techcrunch.com/2024/06/11/light-introduces-its-latest-minimalist-phone-now-with-an-oled-screen-but-still-no-addictive-apps/)
-- [The mystery of an alleged data broker’s data breach](https://techcrunch.com/2024/06/11/the-mystery-of-an-alleged-data-brokers-data-breach/)
-- [Crunchbase expands its diversity tracking feature to Europe](https://techcrunch.com/2024/06/11/crunchbase-expands-its-diversity-tracking-feature-to-europe/)
-- [Get a sneak peek at new &#39;Alien: Rogue Incursion&#39; survival horror game &lpar;trailer&rpar;](https://www.space.com/alien-rogue-incursion-vr-game-first-trailer)
+- [Google’s June Pixel feature drop brings Gemini Nano AI model to Pixel 8 and 8a users](https://techcrunch.com/2024/06/11/googles-june-pixel-drop-brings-gemini-nano-ai-model-to-pixel-8-and-8a-users/)
+- [NASA funds tech development for life-hunting Habitable Worlds Observatory](https://www.space.com/nasa-awards-tech-development-habitable-worlds-observatory)
+- [Apple adds win-back subscription offers and improved search suggestions to the App Store](https://techcrunch.com/2024/06/11/apple-adds-win-back-subscription-offers-and-improved-search-suggestions-to-the-app-store/)
+- [Here are all the devices compatible with iOS 18](https://techcrunch.com/2024/06/11/here-are-all-the-devices-compatible-with-ios-18/)
+- [BeReal is being acquired by mobile apps and games company Voodoo for €500M](https://techcrunch.com/2024/06/11/bereal-is-being-acquired-by-mobile-apps-and-games-company-voodoo-for-e500m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
