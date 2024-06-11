@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Ultimate Retro Gaming Machine on Raspberry Pi](https://www.youtube.com/watch?v=AaseHnf0k2o)
 - [when your serverless computing bill goes parabolic...](https://www.youtube.com/watch?v=SCIfWhAheVw)
 - [Lecture 2: Strings, Input/Output, and Branching](https://www.youtube.com/watch?v=UdEX0E9lIQM)
 - [Dump ChatGPT, use Fabric instead](https://www.youtube.com/watch?v=ad-OHmjAU_Y)
 - [Unhinged ransomware attack targets hospitals](https://www.youtube.com/watch?v=sQ9o5M9aRZw)
-- [Innovation, Past and Future with Prof Christopher Capozzola](https://www.youtube.com/watch?v=GFoYtA6TmRA)
 <!-- YOUTUBE:END -->
 
 ---
