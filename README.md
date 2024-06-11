@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India&#39;s Aditya-L1 solar probe snaps shots of our hyperactive sun during May outburst &lpar;photos&rpar;](https://www.space.com/india-aditya-solar-probe-sun-photos-may-2024-outburst)
+- [TikTok comes for Google as it quietly rolls out image search capabilities in TikTok Shop](https://techcrunch.com/2024/06/11/tiktok-comes-for-google-as-it-quietly-rolls-out-image-search-capabilities-in-tiktok-shop/)
+- [GM gives Cruise $850M lifeline as it relaunches robotaxis in Houston](https://techcrunch.com/2024/06/11/gm-gives-cruise-850m-lifeline-as-it-relaunches-robotaxis-in-houston/)
 - [An interstellar cloud may have caused an ice age on Earth. Here&#39;s how](https://www.space.com/earth-dense-interstellar-cloud-solar-protection-lost)
 - [At last, Apple’s Messages app will support RCS and scheduling texts](https://techcrunch.com/2024/06/11/at-last-apples-messages-app-will-support-rcs-and-scheduling-texts/)
-- [Rippling’s tender offer decision draws mixed — and strong — reactions](https://techcrunch.com/2024/06/11/ripplings-tender-offer-decision-draws-mixed-and-strong-reactions-fintech/)
-- [A missing link in the timeline of Earth&#39;s chemistry may have been found](https://www.space.com/earth-modern-biochemistry-timeline-metabolic-reactions)
-- [SpaceX&#39;s Inspiration4 astronauts got genetically younger in space: study](https://www.space.com/spacex-inspiration4-crew-younger-in-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
