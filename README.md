@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Ultimate Retro Gaming Machine on Raspberry Pi](https://www.youtube.com/watch?v=AaseHnf0k2o)
+- [RetroPie: A Raspberry Pi Gaming Machine](https://www.youtube.com/watch?v=AaseHnf0k2o)
 - [when your serverless computing bill goes parabolic...](https://www.youtube.com/watch?v=SCIfWhAheVw)
 - [Lecture 2: Strings, Input/Output, and Branching](https://www.youtube.com/watch?v=UdEX0E9lIQM)
 - [Dump ChatGPT, use Fabric instead](https://www.youtube.com/watch?v=ad-OHmjAU_Y)
