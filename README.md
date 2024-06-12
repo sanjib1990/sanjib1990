@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Odysseus moon lander reveals which Earth &#39;technosignatures&#39; aliens might see](https://www.space.com/odysseus-moon-lander-alien-technosignatures-earth)
+- [Fintech Brex abandons co-CEO model, talks IPO, cash burn and plans for a secondary sale](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/)
 - [This Week in AI: Apple won’t say how the sausage gets made](https://techcrunch.com/2024/06/12/this-week-in-ai-apple-wont-say-how-the-sausage-gets-made/)
 - [SpaceX launching 22 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-10-2)
 - [India’s 360 One acquires mutual fund app ET Money for $44M](https://techcrunch.com/2024/06/12/indias-360-one-acquires-mutual-fund-app-et-money-for-44m/)
-- [Helen Toner worries ‘not super functional’ Congress will flub AI policy](https://techcrunch.com/2024/06/12/helen-toner-worries-not-super-functional-congress-will-flub-ai-policy/)
-- [Stoke Space test-fires engine for upcoming fully reusable rocket &lpar;photos&rpar;](https://www.space.com/stoke-space-first-hotfire-engine-test-medium-lift-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
