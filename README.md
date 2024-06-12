@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A star that exploded like a nuclear bomb is still raising questions half a century later](https://www.space.com/hubble-binary-hm-sge)
-- [Restate raises $7M for its lightweight workflows-as-code platform](https://techcrunch.com/2024/06/12/restate-raises-7m-for-its-lightweight-workflows-as-code-platform/)
-- [Civic Renewables is rolling up residential solar installers to improve quality and grow the market](https://techcrunch.com/2024/06/12/civic-renewables-is-rolling-up-residential-solar-installers-to-improve-quality-and-grow-the-market/)
-- [NASA weighs potential impacts of helium leaks and more on Boeing&#39;s Starliner astronaut test flight](https://www.space.com/boeing-starliner-helium-leaks-assessment)
-- [Friends &amp; Family Capital, a fund founded by ex-Palantir CFO and son of IVP’s founder, unveils third $118M fund](https://techcrunch.com/2024/06/12/friends-family-capital-a-fund-founded-by-ex-palantir-cfo-and-son-of-ivps-founder-unveils-third-118m-fund/)
+- [VC Sheel Mohnot leads $4.3M seed in automated financial reporting fintech InScope](https://techcrunch.com/2024/06/12/sheel-mohnot-inscope-financial-reporting/)
+- [&#39;Needs more aliens&#39;: Lego designer on kids&#39; view of space as an endless playground &lpar;exclusive&rpar;](https://www.space.com/lego-space-theme-kids-survey-designer-interview)
+- [Foresite Capital raises $900M sixth fund for investing in healthcare and life sciences companies](https://techcrunch.com/2024/06/12/foresite-capital-raises-900m-sixth-fund-for-investing-in-healthcare-companies/)
+- [Databricks expands Mosaic AI to help enterprises build with LLMs](https://techcrunch.com/2024/06/12/databricks-expands-mosaic-ai-to-help-enterprises-build-with-llms/)
+- [YC grad, RetailReady raises $3.3M for an AI warehouse app that hopes to save brands billions](https://techcrunch.com/2024/06/12/yc-retailready-warehouse-shipping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
