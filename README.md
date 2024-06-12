@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alaska&#39;s rivers are turning bright orange and as acidic as vinegar as toxic metal escapes from melting permafrost](https://www.space.com/alaska-rivers-turning-bright-orange-and-acidic-toxic-metal-escapse-permafrost)
+- [Waymo issues second recall after robotaxi hit telephone pole](https://techcrunch.com/2024/06/12/waymo-second-robotaxi-recall-autonomous-vehicle/)
 - [Hubble Telescope shares stunning galactic view despite recent hardware malfunction &lpar;photo&rpar;](https://www.space.com/hubble-telescope-stunning-galaxy-photo-ngc-3059)
 - [Insight Partners backs Canary Technologies’ mission to elevate hotel guest experiences](https://techcrunch.com/2024/06/12/insight-partners-hotel-technology-canary-technologies/)
 - [Ed Stone, who led NASA&#39;s iconic Voyager project for 50 years, dies at 88](https://www.space.com/ed-stone-nasa-voyager-mission-project-scientist-obituary)
-- [Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover](https://techcrunch.com/2024/06/12/everything-apple-announced-wwdc-2024/)
-- [VC Sheel Mohnot leads $4.3M seed in automated financial reporting fintech InScope](https://techcrunch.com/2024/06/12/sheel-mohnot-inscope-financial-reporting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
