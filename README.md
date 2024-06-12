@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Civic Renewables is rolling up residential solar installers to improve quality and grow the market](https://techcrunch.com/2024/06/12/civic-renewables-is-rolling-up-residential-solar-installers-to-improve-quality-and-grow-the-market/)
+- [NASA weighs potential impacts of helium leaks and more on Boeing&#39;s Starliner astronaut test flight](https://www.space.com/boeing-starliner-helium-leaks-assessment)
+- [Friends &amp; Family Capital, a fund founded by ex-Palantir CFO and son of IVP’s founder, unveils third $118M fund](https://techcrunch.com/2024/06/12/friends-family-capital-a-fund-founded-by-ex-palantir-cfo-and-son-of-ivps-founder-unveils-third-118m-fund/)
+- [Fisker’s troubled Ocean SUV gets its first recall](https://techcrunch.com/2024/06/12/fisker-ocean-first-recall-warning-lights-problems/)
 - [&#39;Absolutely gutted&#39;: How a jammed door is locking astronomers out of the X-ray universe](https://www.space.com/xrism-jammed-gate-door-jaxa)
-- [Gorilla, a Belgian startup that helps energy providers crunch big data, raises $25M](https://techcrunch.com/2024/06/12/gorilla-a-belgian-startup-that-helps-energy-providers-crunch-big-data-raises-25m/)
-- [Fabless AI chip makers Rebellions and Sapeon to merge as competition heats up in global AI hardware industry](https://techcrunch.com/2024/06/12/fabless-ai-chip-makers-rebellions-and-sapeon-to-merge-as-competition-heats-up-in-global-ai-hardware-industry/)
-- [The apps that Apple Sherlocked at WWDC 2024](https://techcrunch.com/2024/06/12/the-apps-that-apple-sherlocked-at-wwdc/)
-- [Germany’s Black Semiconductor raises $273M for graphene-based chip connectivity tech](https://techcrunch.com/2024/06/12/germanys-black-semiconductor-raises-273m-for-graphene-based-chip-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
