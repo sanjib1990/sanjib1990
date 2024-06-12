@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stoke Space test-fires engine for upcoming fully reusable rocket &lpar;photos&rpar;](https://www.space.com/stoke-space-first-hotfire-engine-test-medium-lift-rocket)
+- [Layoffs Got You Down? Get a Half-Price Expo+ Pass at Disrupt 2024](https://techcrunch.com/2024/06/12/layoffs-got-you-get-a-half-price-expo-pass-disrupt-2024/)
+- [YouTube creators can now test multiple video thumbnails](https://techcrunch.com/2024/06/12/youtube-creators-can-test-multiple-video-thumbnails/)
 - [Alaska&#39;s rivers are turning bright orange and as acidic as vinegar as toxic metal escapes from melting permafrost](https://www.space.com/alaska-rivers-turning-bright-orange-and-acidic-toxic-metal-escapse-permafrost)
 - [Waymo issues second recall after robotaxi hit telephone pole](https://techcrunch.com/2024/06/12/waymo-second-robotaxi-recall-autonomous-vehicle/)
-- [Hubble Telescope shares stunning galactic view despite recent hardware malfunction &lpar;photo&rpar;](https://www.space.com/hubble-telescope-stunning-galaxy-photo-ngc-3059)
-- [Insight Partners backs Canary Technologies’ mission to elevate hotel guest experiences](https://techcrunch.com/2024/06/12/insight-partners-hotel-technology-canary-technologies/)
-- [Ed Stone, who led NASA&#39;s iconic Voyager project for 50 years, dies at 88](https://www.space.com/ed-stone-nasa-voyager-mission-project-scientist-obituary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
