@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This action-packed &#39;Borderlands&#39; sneak peek is a chaotic blizzard of bullets &lpar;video&rpar;](https://www.space.com/borderlands-eli-roth-movie-clip)
+- [Ahead of Tesla’s big shareholder vote, let’s re-read the judge’s opinion that got us here](https://techcrunch.com/2024/06/12/tesla-shareholder-vote-meeting-compensation-decision/)
 - [iOS 18 cracks down on apps asking for full address book access](https://techcrunch.com/2024/06/12/ios-18-cracks-down-on-apps-asking-for-full-address-book-access/)
 - [&#39;Star Wars: The Acolyte&#39; episode 3: How do the Brendok witches use the Force?](https://www.space.com/star-wars-the-acolyte-episode-3-destiny-brendok-witches-use-the-force)
 - [Generative AI takes robots a step closer to general purpose](https://techcrunch.com/2024/06/12/generative-ai-takes-robots-a-step-closer-to-general-purpose/)
-- [Ford’s secretive low-cost EV team is growing with talent from Rivian, Tesla and Apple](https://techcrunch.com/2024/06/12/fords-secretive-low-cost-ev-team-is-growing-with-talent-from-rivian-tesla-and-apple/)
-- [Tern AI wants to reduce reliance on GPS with low-cost navigation alternative](https://techcrunch.com/2024/06/12/tern-ai-wants-to-reduce-reliance-on-gps-with-low-cost-navigation-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
