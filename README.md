@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Absolutely gutted&#39;: How a jammed door is locking astronomers out of the X-ray universe](https://www.space.com/xrism-jammed-gate-door-jaxa)
+- [Gorilla, a Belgian startup that helps energy providers crunch big data, raises $25M](https://techcrunch.com/2024/06/12/gorilla-a-belgian-startup-that-helps-energy-providers-crunch-big-data-raises-25m/)
+- [Fabless AI chip makers Rebellions and Sapeon to merge as competition heats up in global AI hardware industry](https://techcrunch.com/2024/06/12/fabless-ai-chip-makers-rebellions-and-sapeon-to-merge-as-competition-heats-up-in-global-ai-hardware-industry/)
 - [The apps that Apple Sherlocked at WWDC 2024](https://techcrunch.com/2024/06/12/the-apps-that-apple-sherlocked-at-wwdc/)
 - [Germany’s Black Semiconductor raises $273M for graphene-based chip connectivity tech](https://techcrunch.com/2024/06/12/germanys-black-semiconductor-raises-273m-for-graphene-based-chip-tech/)
-- [Let there be Light! Danish startup exits stealth with $13M seed funding to bring AI to general ledgers](https://techcrunch.com/2024/06/12/let-there-be-light-danish-startup-exits-stealth-with-13m-seed-funding-to-bring-ai-to-general-ledgers/)
-- [Apex’s off-the-shelf satellite bus business attracts $95M in new funding](https://techcrunch.com/2024/06/11/apex-raises-95m-to-scale-satellite-bus-production/)
-- [DC’s political class doesn’t know Y Combinator exists — yet](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
