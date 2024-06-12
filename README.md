@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Apple is taking a small model approach to generative AI](https://techcrunch.com/2024/06/11/why-apple-is-taking-a-small-model-approach-to-generative-ai/)
+- [FTC Chair Lina Khan says the agency is going after the ‘mob bosses’ in Big Tech](https://techcrunch.com/2024/06/11/ftc-chair-lina-khan-says-the-agency-is-going-after-the-mob-bosses-in-big-tech/)
+- [FTC Chair Lina Khan shares how the agency is looking at AI](https://techcrunch.com/2024/06/11/ftc-chair-lina-khan-shares-how-the-agency-is-looking-at-ai/)
+- [Apple Watch is finally adding a feature I’ve been requesting for years](https://techcrunch.com/2024/06/11/apple-watch-is-finally-adding-a-feature-ive-been-requesting-for-years/)
+- [Why Apple is taking a small-model approach to generative AI](https://techcrunch.com/2024/06/11/why-apple-is-taking-a-small-model-approach-to-generative-ai/)
 - [Linq raises $6.6M to use AI to make research easier for financial analysts](https://techcrunch.com/2024/06/11/linq-raises-6-6m-to-use-ai-to-make-research-easier-for-financial-analysts/)
-- [&#39;Starfield&#39; unveils 1st look at &#39;Shattered Space&#39; expansion &lpar;video&rpar;](https://www.space.com/starfield-shattered-space-update)
-- [Chinese moon researchers gearing up for June 25 arrival of far side samples](https://www.space.com/china-scientists-excited-far-side-moon-samples)
-- [Biden administration looks to give Rocket Lab $24M to boost space-grade solar cell production](https://techcrunch.com/2024/06/11/biden-administration-looks-to-give-rocket-lab-24m-to-boost-space-grade-solar-cell-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
