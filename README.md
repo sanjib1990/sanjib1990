@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Private Odysseus moon lander reveals which Earth &#39;technosignatures&#39; aliens might see](https://www.space.com/odysseus-moon-lander-alien-technosignatures-earth)
-- [Fintech Brex abandons co-CEO model, talks IPO, cash burn and plans for a secondary sale](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/)
-- [This Week in AI: Apple won’t say how the sausage gets made](https://techcrunch.com/2024/06/12/this-week-in-ai-apple-wont-say-how-the-sausage-gets-made/)
-- [SpaceX launching 22 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-10-2)
-- [India’s 360 One acquires mutual fund app ET Money for $44M](https://techcrunch.com/2024/06/12/indias-360-one-acquires-mutual-fund-app-et-money-for-44m/)
+- [iOS 18 cracks down on apps asking for full address book access](https://techcrunch.com/2024/06/12/ios-18-cracks-down-on-apps-asking-for-full-address-book-access/)
+- [&#39;Star Wars: The Acolyte&#39; episode 3: How do the Brendok witches use the Force?](https://www.space.com/star-wars-the-acolyte-episode-3-destiny-brendok-witches-use-the-force)
+- [Generative AI takes robots a step closer to general purpose](https://techcrunch.com/2024/06/12/generative-ai-takes-robots-a-step-closer-to-general-purpose/)
+- [Ford’s secretive low-cost EV team is growing with talent from Rivian, Tesla and Apple](https://techcrunch.com/2024/06/12/fords-secretive-low-cost-ev-team-is-growing-with-talent-from-rivian-tesla-and-apple/)
+- [Tern AI wants to reduce reliance on GPS with low-cost navigation alternative](https://techcrunch.com/2024/06/12/tern-ai-wants-to-reduce-reliance-on-gps-with-low-cost-navigation-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
