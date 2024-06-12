@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Doctor Who &#39;Rogue&#39;: Who is the eponymous Rogue?](https://www.space.com/doctor-who-rogue-who-is-rogue)
 - [Watch NASA astronauts collect microbe samples during ISS spacewalk on June 13](https://www.space.com/nasa-astronauts-spacewalk-june-2024-webcast)
 - [This action-packed &#39;Borderlands&#39; sneak peek is a chaotic blizzard of bullets &lpar;video&rpar;](https://www.space.com/borderlands-eli-roth-movie-clip)
 - [Ahead of Tesla’s big shareholder vote, let’s re-read the judge’s opinion that got us here](https://techcrunch.com/2024/06/12/tesla-shareholder-vote-meeting-compensation-decision/)
 - [iOS 18 cracks down on apps asking for full address book access](https://techcrunch.com/2024/06/12/ios-18-cracks-down-on-apps-asking-for-full-address-book-access/)
-- [&#39;Star Wars: The Acolyte&#39; episode 3: How do the Brendok witches use the Force?](https://www.space.com/star-wars-the-acolyte-episode-3-destiny-brendok-witches-use-the-force)
 <!-- BLOG-POST-LIST:END -->
 
 ---
