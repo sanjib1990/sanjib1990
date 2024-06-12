@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany’s Black Semiconductor raises $273M for graphene-based chip tech](https://techcrunch.com/2024/06/12/germanys-black-semiconductor-raises-273m-for-graphene-based-chip-tech/)
+- [Let there be Light! Danish startup exits stealth with $13M seed funding to bring AI to general ledgers](https://techcrunch.com/2024/06/12/let-there-be-light-danish-startup-exits-stealth-with-13m-seed-funding-to-bring-ai-to-general-ledgers/)
 - [Apex’s off-the-shelf satellite bus business attracts $95M in new funding](https://techcrunch.com/2024/06/11/apex-raises-95m-to-scale-satellite-bus-production/)
 - [DC’s political class doesn’t know Y Combinator exists — yet](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/)
 - [FTC Chair Lina Khan tells TechCrunch the agency is pursuing the ‘mob bosses’ in Big Tech](https://techcrunch.com/2024/06/11/ftc-chair-lina-khan-says-the-agency-is-going-after-the-mob-bosses-in-big-tech/)
-- [FTC Chair Lina Khan shares how the agency is looking at AI](https://techcrunch.com/2024/06/11/ftc-chair-lina-khan-shares-how-the-agency-is-looking-at-ai/)
-- [Apple Watch is finally adding a feature I’ve been requesting for years](https://techcrunch.com/2024/06/11/apple-watch-is-finally-adding-a-feature-ive-been-requesting-for-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
