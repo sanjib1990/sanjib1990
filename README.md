@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: Apple won’t say how the sausage gets made](https://techcrunch.com/2024/06/12/this-week-in-ai-apple-wont-say-how-the-sausage-gets-made/)
+- [SpaceX launching 22 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-10-2)
+- [India’s 360 One acquires mutual fund app ET Money for $44M](https://techcrunch.com/2024/06/12/indias-360-one-acquires-mutual-fund-app-et-money-for-44m/)
+- [Helen Toner worries ‘not super functional’ Congress will flub AI policy](https://techcrunch.com/2024/06/12/helen-toner-worries-not-super-functional-congress-will-flub-ai-policy/)
 - [Stoke Space test-fires engine for upcoming fully reusable rocket &lpar;photos&rpar;](https://www.space.com/stoke-space-first-hotfire-engine-test-medium-lift-rocket)
-- [Layoffs Got You Down? Get a Half-Price Expo+ Pass at Disrupt 2024](https://techcrunch.com/2024/06/12/layoffs-got-you-get-a-half-price-expo-pass-disrupt-2024/)
-- [YouTube creators can now test multiple video thumbnails](https://techcrunch.com/2024/06/12/youtube-creators-can-test-multiple-video-thumbnails/)
-- [Alaska&#39;s rivers are turning bright orange and as acidic as vinegar as toxic metal escapes from melting permafrost](https://www.space.com/alaska-rivers-turning-bright-orange-and-acidic-toxic-metal-escapse-permafrost)
-- [Waymo issues second recall after robotaxi hit telephone pole](https://techcrunch.com/2024/06/12/waymo-second-robotaxi-recall-autonomous-vehicle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
