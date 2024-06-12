@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope shares stunning galactic view despite recent hardware malfunction &lpar;photo&rpar;](https://www.space.com/hubble-telescope-stunning-galaxy-photo-ngc-3059)
+- [Insight Partners backs Canary Technologies’ mission to elevate hotel guest experiences](https://techcrunch.com/2024/06/12/insight-partners-hotel-technology-canary-technologies/)
+- [Ed Stone, who led NASA&#39;s iconic Voyager project for 50 years, dies at 88](https://www.space.com/ed-stone-nasa-voyager-mission-project-scientist-obituary)
+- [Here’s everything Apple announced at the WWDC 2024 keynote, including Apple Intelligence, Siri makeover](https://techcrunch.com/2024/06/12/everything-apple-announced-wwdc-2024/)
 - [VC Sheel Mohnot leads $4.3M seed in automated financial reporting fintech InScope](https://techcrunch.com/2024/06/12/sheel-mohnot-inscope-financial-reporting/)
-- [&#39;Needs more aliens&#39;: Lego designer on kids&#39; view of space as an endless playground &lpar;exclusive&rpar;](https://www.space.com/lego-space-theme-kids-survey-designer-interview)
-- [Foresite Capital raises $900M sixth fund for investing in healthcare and life sciences companies](https://techcrunch.com/2024/06/12/foresite-capital-raises-900m-sixth-fund-for-investing-in-healthcare-companies/)
-- [Databricks expands Mosaic AI to help enterprises build with LLMs](https://techcrunch.com/2024/06/12/databricks-expands-mosaic-ai-to-help-enterprises-build-with-llms/)
-- [YC grad, RetailReady raises $3.3M for an AI warehouse app that hopes to save brands billions](https://techcrunch.com/2024/06/12/yc-retailready-warehouse-shipping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
