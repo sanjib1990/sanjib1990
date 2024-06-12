@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DC’s political class doesn’t know Y Combinator exists, but it’s trying to change that](https://techcrunch.com/2024/06/11/dcs-political-class-doesnt-know-y-combinator-exists-but-its-trying-to-change-that/)
 - [FTC Chair Lina Khan says the agency is going after the ‘mob bosses’ in Big Tech](https://techcrunch.com/2024/06/11/ftc-chair-lina-khan-says-the-agency-is-going-after-the-mob-bosses-in-big-tech/)
 - [FTC Chair Lina Khan shares how the agency is looking at AI](https://techcrunch.com/2024/06/11/ftc-chair-lina-khan-shares-how-the-agency-is-looking-at-ai/)
 - [Apple Watch is finally adding a feature I’ve been requesting for years](https://techcrunch.com/2024/06/11/apple-watch-is-finally-adding-a-feature-ive-been-requesting-for-years/)
 - [Why Apple is taking a small-model approach to generative AI](https://techcrunch.com/2024/06/11/why-apple-is-taking-a-small-model-approach-to-generative-ai/)
-- [Linq raises $6.6M to use AI to make research easier for financial analysts](https://techcrunch.com/2024/06/11/linq-raises-6-6m-to-use-ai-to-make-research-easier-for-financial-analysts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
