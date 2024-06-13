@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After the Yahoo News app revamp, Yahoo preps AI summaries on homepage, too](https://techcrunch.com/2024/06/13/after-the-yahoo-news-app-revamp-yahoo-preps-ai-summaries-on-homepage-too/)
+- [Hubble Telescope maps high-speed &#39;burps&#39; from nearby feeding supermassive black hole for 1st time](https://www.space.com/hubble-telescope-supermassive-black-hole-quasar-burps)
+- [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/)
 - [Secrets of radioactive &#39;promethium&#39; — a rare earth element with mysterious applications — uncovered after 80-year search](https://www.space.com/radioactive-promethium-rare-earth-element-uncovered)
 - [LinkedIn leans on AI to do the work of job hunting](https://techcrunch.com/2024/06/13/linkedin-leans-on-ai-to-do-the-work-of-job-hunting/)
-- [NASA calls off spacewalk at International Space Station due to &#39;spacesuit discomfort&#39;](https://www.space.com/nasa-astronauts-spacewalk-june-13-2024-postponed)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
