@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla shareholders vote yes again to approve Elon Musk’s $56B pay plan](https://techcrunch.com/2024/06/13/tesla-approve-elon-musk-compensation-texas/)
 - [NASA telescope spots &#39;cosmic fireworks&#39; and faint echos from the Milky Way&#39;s supermassive black hole](https://www.space.com/milky-way-supermassive-black-hole-flares-echoes)
 - [Apple gives developers a way to nominate their apps for editorial consideration on the App Store](https://techcrunch.com/2024/06/13/apple-gives-developers-a-way-to-nominate-their-apps-for-editorial-consideration-on-the-app-store/)
 - [Billion-dollar disasters have been sweeping across the US this year](https://www.space.com/united-states-severe-weather-events-may)
 - [What StepStone’s $3.3B venture secondaries fund tells us about LPs’ current appetite for venture](https://techcrunch.com/2024/06/13/what-stepstones-3-3b-venture-secondaries-fund-tells-us-about-lps-current-appetite-for-venture/)
-- [Spotify announces an in-house creative agency, tests generative AI voiceover ads](https://techcrunch.com/2024/06/13/spotify-creative-labs-ad-agency-for-advertisers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
