@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla shareholders sue Musk for starting competing AI company](https://techcrunch.com/2024/06/13/tesla-shareholders-sue-musk-for-starting-competing-ai-company/)
+- [&#39;The spacecraft really reacted great:&#39; NASA astronauts praise Boeing Starliner’s performance &lpar;video&rpar;](https://www.space.com/boeing-starliner-astronaut-comments-video)
 - [Bark! Meow! Cluck! NASA uses lasers to beam pictures of pet dogs, cats and chickens to the ISS](https://www.space.com/nasa-lasers-pet-photos-into-space)
 - [Apple’s Spotlight Search gets better at natural language queries in iOS 18](https://techcrunch.com/2024/06/13/apples-spotlight-search-gets-better-at-natural-language-queries-in-ios-18/)
 - [Tesla and its fans waged an unprecedented battle over Elon Musk’s $56B pay package](https://techcrunch.com/2024/06/13/tesla-musk-pay-package-shareholder-vote/)
-- [Tesla shareholders to vote today on $56B pay package](https://techcrunch.com/2024/06/13/tesla-shareholders-to-vote-today-on-56b-pay-package/)
-- [NASA&#39;s Chandra X-ray telescope captures closest super star cluster to Earth &lpar;image&rpar;](https://www.space.com/the-universe/nasas-chandra-x-ray-telescope-captures-closest-super-star-cluster-to-earth-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
