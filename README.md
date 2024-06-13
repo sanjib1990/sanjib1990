@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/)
+- [Cosmic &#39;koi fish&#39; swims through starry sea in stunning telescope photo](https://www.space.com/eso-cosmic-koi-fish-nebula-photo)
 - [Radiation will be a real challenge for Mars colonists, powerful solar storm shows](https://www.space.com/powerful-solar-storm-mars-radiation-astronaut-missions)
 - [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/)
 - [AccountsIQ takes in $65M to boost bookkeeping with AI](https://techcrunch.com/2024/06/12/accountsiq-takes-in-65m-to-boost-its-bookkeeping-tools-with-ai/)
-- [Android’s long-time VP of engineering Dave Burke is stepping down](https://techcrunch.com/2024/06/12/android-engineering-vp-dave-burke-steps-down-as-he-explores-ai-bio-roles-within-the-company/)
-- [&#39;No emergency situation&#39; on International Space Station, NASA says after astronaut medical drill audio causes stir](https://www.space.com/no-emergency-situation-on-space-station-leaked-simulation-audio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
