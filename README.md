@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla shareholders to vote today on $56B pay package](https://techcrunch.com/2024/06/13/tesla-shareholders-to-vote-today-on-56b-pay-package/)
+- [NASA&#39;s Chandra X-ray telescope captures closest super star cluster to Earth &lpar;image&rpar;](https://www.space.com/the-universe/nasas-chandra-x-ray-telescope-captures-closest-super-star-cluster-to-earth-image)
 - [Mars meteorites reveal clues about what lies within the Red Planet](https://www.space.com/martian-meteorites-indicate-mars-internal-structure)
 - [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/)
 - [Here are the best WWDC 2024 features you missed](https://techcrunch.com/2024/06/13/here-are-the-best-wwdc-2024-features-you-missed/)
-- [WhatsApp adds new features to the calling experience, including support for 32-person video calls](https://techcrunch.com/2024/06/13/whatsapp-add-new-features-to-the-calling-experience-including-support-for-32-person-video-calls/)
-- [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
