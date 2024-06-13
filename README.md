@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists find a surprise ingredient in exoplanet cake mix — sulfur dioxide](https://www.space.com/exoplanet-sulfur-dioxide-gj3470b)
-- [Picsart partners with Getty Images to develop a custom AI model](https://techcrunch.com/2024/06/13/picsart-partners-with-getty-images-to-develop-a-custom-ai-model/)
-- [Here are the best WWDC features you missed](https://techcrunch.com/2024/06/13/here-are-the-best-wwdc-features-you-missed/)
-- [After the Yahoo News app revamp, Yahoo preps AI summaries on homepage, too](https://techcrunch.com/2024/06/13/after-the-yahoo-news-app-revamp-yahoo-preps-ai-summaries-on-homepage-too/)
-- [Hubble Telescope maps high-speed &#39;burps&#39; from nearby feeding supermassive black hole for 1st time](https://www.space.com/hubble-telescope-supermassive-black-hole-quasar-burps)
+- [Mars meteorites reveal clues about what lies within the Red Planet](https://www.space.com/martian-meteorites-indicate-mars-internal-structure)
+- [GPTZero’s founders, still in their 20s, have a profitable AI detection startup, millions in the bank and a new $10M Series A](https://techcrunch.com/2024/06/13/gptzero-profitable-ai-detection-startup-10m-series-a/)
+- [Here are the best WWDC 2024 features you missed](https://techcrunch.com/2024/06/13/here-are-the-best-wwdc-2024-features-you-missed/)
+- [WhatsApp adds new features to the calling experience, including support for 32-person video calls](https://techcrunch.com/2024/06/13/whatsapp-add-new-features-to-the-calling-experience-including-support-for-32-person-video-calls/)
+- [Amazon says it’ll spend $230 million on generative AI startups](https://techcrunch.com/2024/06/13/amazon-says-itll-spend-230-million-on-generative-ai-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
