@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Engineering VP Dave Burke steps down, as he explores “AI/bio” roles within the company](https://techcrunch.com/2024/06/12/android-engineering-vp-dave-burke-steps-down-as-he-explores-ai-bio-roles-within-the-company/)
 - [&#39;No emergency situation&#39; on International Space Station, NASA says after astronaut medical drill audio causes stir](https://www.space.com/no-emergency-situation-on-space-station-leaked-simulation-audio)
 - [Why being the last company to launch in a category can pay off](https://techcrunch.com/2024/06/12/why-being-the-last-company-to-launch-in-a-category-can-pay-off/)
 - [This humanoid robot can drive cars — sort of](https://techcrunch.com/2024/06/12/this-humanoid-robot-can-drive-cars-sort-of/)
 - [Doctor Who &#39;Rogue&#39;: Who is the eponymous Rogue?](https://www.space.com/doctor-who-rogue-who-is-rogue)
-- [Watch NASA astronauts collect microbe samples during ISS spacewalk on June 13](https://www.space.com/nasa-astronauts-spacewalk-june-2024-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
