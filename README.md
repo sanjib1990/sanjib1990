@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secrets of radioactive &#39;promethium&#39; — a rare earth element with mysterious applications — uncovered after 80-year search](https://www.space.com/radioactive-promethium-rare-earth-element-uncovered)
+- [LinkedIn leans on AI to do the work of job hunting](https://techcrunch.com/2024/06/13/linkedin-leans-on-ai-to-do-the-work-of-job-hunting/)
+- [NASA calls off spacewalk at International Space Station due to &#39;spacesuit discomfort&#39;](https://www.space.com/nasa-astronauts-spacewalk-june-13-2024-postponed)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Court halts Byju’s second rights issue as $200M fundraise falters](https://techcrunch.com/2024/06/13/court-halts-byjus-second-rights-issue-as-200m-fundraise-falters/)
-- [Cosmic &#39;koi fish&#39; swims through starry sea in stunning telescope photo](https://www.space.com/eso-cosmic-koi-fish-nebula-photo)
-- [Radiation will be a real challenge for Mars colonists, powerful solar storm shows](https://www.space.com/powerful-solar-storm-mars-radiation-astronaut-missions)
-- [Aepnus wants to create a circular economy for key battery manufacturing materials](https://techcrunch.com/2024/06/13/aepnus-wants-to-create-a-circular-economy-for-key-battery-manufacturing-materials/)
-- [AccountsIQ takes in $65M to boost bookkeeping with AI](https://techcrunch.com/2024/06/12/accountsiq-takes-in-65m-to-boost-its-bookkeeping-tools-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
