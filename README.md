@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find a surprise ingredient in exoplanet cake mix — sulfur dioxide](https://www.space.com/exoplanet-sulfur-dioxide-gj3470b)
+- [Picsart partners with Getty Images to develop a custom AI model](https://techcrunch.com/2024/06/13/picsart-partners-with-getty-images-to-develop-a-custom-ai-model/)
+- [Here are the best WWDC features you missed](https://techcrunch.com/2024/06/13/here-are-the-best-wwdc-features-you-missed/)
 - [After the Yahoo News app revamp, Yahoo preps AI summaries on homepage, too](https://techcrunch.com/2024/06/13/after-the-yahoo-news-app-revamp-yahoo-preps-ai-summaries-on-homepage-too/)
 - [Hubble Telescope maps high-speed &#39;burps&#39; from nearby feeding supermassive black hole for 1st time](https://www.space.com/hubble-telescope-supermassive-black-hole-quasar-burps)
-- [Unigrid wants to make batteries cheaper and safer using sodium](https://techcrunch.com/2024/06/13/unigrid-wants-to-make-batteries-cheaper-and-safer-using-sodium/)
-- [Secrets of radioactive &#39;promethium&#39; — a rare earth element with mysterious applications — uncovered after 80-year search](https://www.space.com/radioactive-promethium-rare-earth-element-uncovered)
-- [LinkedIn leans on AI to do the work of job hunting](https://techcrunch.com/2024/06/13/linkedin-leans-on-ai-to-do-the-work-of-job-hunting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
