@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private space-junk-inspection probe spots discarded rocket in orbit up close &lpar;photo&rpar;](https://www.space.com/astroscale-space-junk-probe-photo)
+- [SpaceX Falcon 9 rocket suffers rare last-second abort during Starlink satellite launch &lpar;video&rpar;](https://www.space.com/spacex-rocket-suffers-rare-abort-starlink-10-2-launch-attempt)
+- [Voyager 1 is back online! NASA&#39;s most distant spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 - [What ultimately happened to the USS Discovery in the &#39;Star Trek: Discovery&#39; series finale?](https://www.space.com/star-trek-discovery-what-happened-to-uss-discovery-after-series-finale)
 - [Tempus soars 15% on the first day of trading, demonstrating investor appetite for a health tech with a promise of AI](https://techcrunch.com/2024/06/14/tempus-soars-15-on-the-first-day-of-trading-demonstrating-investor-appetite-for-a-health-tech-with-a-promise-of-ai/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/)
-- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/)
-- [Astronomers get closer to solving the lingering mystery of fast radio bursts](https://www.space.com/fast-radio-burst-mystery-polarized-light)
 <!-- BLOG-POST-LIST:END -->
 
 ---
