@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brave integrates its own search results with its Leo AI assistant](https://techcrunch.com/2024/06/14/brave-integrates-its-own-search-results-with-its-leo-ai-assistant/)
+- [The sun&#39;s magnetic field is about to flip. Here&#39;s what to expect.](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
+- [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/)
+- [The Unistellar eVscope 2 is $1160 off ahead of Prime Day](https://www.space.com/pre-prime-day-unistellar-evscope-2-deal-save-over-1000-dollars-2024)
 - [Former SpaceX employees sue company, Elon Musk for retaliation, sexual harassment](https://www.space.com/former-employees-suing-spacex-elon-musk)
-- [We’re about to learn a whole lot more about how the human body reacts to space](https://techcrunch.com/2024/06/13/were-about-to-learn-a-whole-lot-more-about-how-the-human-body-reacts-to-space/)
-- [Former NSA head joins OpenAI board and safety committee](https://techcrunch.com/2024/06/13/former-nsa-head-joins-openai-board-and-safety-committee/)
-- [Tesla shareholders vote yes again to approve Elon Musk’s $56B pay plan](https://techcrunch.com/2024/06/13/tesla-approve-elon-musk-compensation-texas/)
-- [NASA telescope spots &#39;cosmic fireworks&#39; and faint echos from the Milky Way&#39;s supermassive black hole](https://www.space.com/milky-way-supermassive-black-hole-flares-echoes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
