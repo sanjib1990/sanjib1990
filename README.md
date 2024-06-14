@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s Starliner astronaut taxi spotted at ISS &lpar;satellite photo&rpar;](https://www.space.com/boeing-starliner-iss-maxar-satellite-photo)
+- [China&#39;s Chang&#39;e 6 spacecraft finds long-sought particles on far side of the moon](https://www.space.com/change-negative-ions-moon-surface-detection)
 - [Brave integrates its own search results with its Leo AI assistant](https://techcrunch.com/2024/06/14/brave-integrates-its-own-search-results-with-its-leo-ai-assistant/)
 - [The sun&#39;s magnetic field is about to flip. Here&#39;s what to expect.](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
 - [Enveda raises $55M to combine ancient remedies with AI for drug discovery](https://techcrunch.com/2024/06/14/enveda-raises-55m-to-combine-ancient-remedies-with-ai-for-drug-discovery/)
-- [The Unistellar eVscope 2 is $1160 off ahead of Prime Day](https://www.space.com/pre-prime-day-unistellar-evscope-2-deal-save-over-1000-dollars-2024)
-- [Former SpaceX employees sue company, Elon Musk for retaliation, sexual harassment](https://www.space.com/former-employees-suing-spacex-elon-musk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
