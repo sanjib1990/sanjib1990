@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/)
+- [Astronomers get closer to solving the lingering mystery of fast radio bursts](https://www.space.com/fast-radio-burst-mystery-polarized-light)
 - [12 billion years of black hole history, revealed through X-rays and simulations](https://www.space.com/x-ray-simulations-universe-supermassive-black-holes)
 - [Astronauts could mix moon dust with old satellites to make fuel](https://www.space.com/mixing-moon-dust-satellites-make-fuel)
 - [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/)
-- [To calibrate telescopes on Earth, NASA&#39;s launching an &#39;artificial star&#39; to orbit](https://www.space.com/nasa-satellite-earth-telescopes-lasers)
-- [Arc now features a live calendar button to help you stay punctual for meetings](https://techcrunch.com/2024/06/14/arc-browser-new-live-calendar-button-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
