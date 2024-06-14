@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Soviet-era cosmonaut Vyacheslav Zudov, who survived only Soyuz splashdown, dies](https://www.space.com/cosmonaut-vyacheslav-zudov-obituary)
+- [Boeing&#39;s 1st Starliner astronaut mission return delayed to June 22](https://www.space.com/boeing-starliner-first-astronaut-mission-return-delayed-june-22)
 - [How China&#39;s Chang&#39;e 6 minirover snapped its epic photo on the moon&#39;s far side](https://www.space.com/how-change-6-moon-rover-snapped-lander-photo)
 - [Boeing&#39;s Starliner astronaut taxi spotted at ISS &lpar;satellite photo&rpar;](https://www.space.com/boeing-starliner-iss-maxar-satellite-photo)
 - [China&#39;s Chang&#39;e 6 spacecraft finds long-sought particles on far side of the moon](https://www.space.com/change-negative-ions-moon-surface-detection)
-- [Brave integrates its own search results with its Leo AI assistant](https://techcrunch.com/2024/06/14/brave-integrates-its-own-search-results-with-its-leo-ai-assistant/)
-- [The sun&#39;s magnetic field is about to flip. Here&#39;s what to expect.](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
