@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Albedo takes Earth observation up close and personal from very low Earth orbit](https://techcrunch.com/2024/06/14/albedo-takes-earth-observation-up-close-and-personal-from-very-low-earth-orbit/)
 - [Private space-junk-inspection probe spots discarded rocket in orbit up close &lpar;photo&rpar;](https://www.space.com/astroscale-space-junk-probe-photo)
 - [SpaceX Falcon 9 rocket suffers rare last-second abort during Starlink satellite launch &lpar;video&rpar;](https://www.space.com/spacex-rocket-suffers-rare-abort-starlink-10-2-launch-attempt)
 - [Voyager 1 is back online! NASA&#39;s most distant spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 - [What ultimately happened to the USS Discovery in the &#39;Star Trek: Discovery&#39; series finale?](https://www.space.com/star-trek-discovery-what-happened-to-uss-discovery-after-series-finale)
-- [Tempus soars 15% on the first day of trading, demonstrating investor appetite for a health tech with a promise of AI](https://techcrunch.com/2024/06/14/tempus-soars-15-on-the-first-day-of-trading-demonstrating-investor-appetite-for-a-health-tech-with-a-promise-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
