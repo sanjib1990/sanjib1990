@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To calibrate telescopes on Earth, NASA&#39;s launching an &#39;artificial star&#39; to orbit](https://www.space.com/nasa-satellite-earth-telescopes-lasers)
+- [Arc now features a live calendar button to help you stay punctual for meetings](https://techcrunch.com/2024/06/14/arc-browser-new-live-calendar-button-feature/)
+- [Meta pauses plans to train AI using European users’ data, bowing to regulatory pressure](https://techcrunch.com/2024/06/14/meta-pauses-plans-to-train-ai-using-european-users-data-bowing-to-regulatory-pressure/)
 - [Soviet-era cosmonaut Vyacheslav Zudov, who survived only Soyuz splashdown, dies](https://www.space.com/cosmonaut-vyacheslav-zudov-obituary)
 - [Boeing&#39;s 1st Starliner astronaut mission return delayed to June 22](https://www.space.com/boeing-starliner-first-astronaut-mission-return-delayed-june-22)
-- [How China&#39;s Chang&#39;e 6 minirover snapped its epic photo on the moon&#39;s far side](https://www.space.com/how-change-6-moon-rover-snapped-lander-photo)
-- [Boeing&#39;s Starliner astronaut taxi spotted at ISS &lpar;satellite photo&rpar;](https://www.space.com/boeing-starliner-iss-maxar-satellite-photo)
-- [China&#39;s Chang&#39;e 6 spacecraft finds long-sought particles on far side of the moon](https://www.space.com/change-negative-ions-moon-surface-detection)
 <!-- BLOG-POST-LIST:END -->
 
 ---
