@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts could mix moon dust with old satellites to make fuel](https://www.space.com/mixing-moon-dust-satellites-make-fuel)
+- [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/)
 - [To calibrate telescopes on Earth, NASA&#39;s launching an &#39;artificial star&#39; to orbit](https://www.space.com/nasa-satellite-earth-telescopes-lasers)
 - [Arc now features a live calendar button to help you stay punctual for meetings](https://techcrunch.com/2024/06/14/arc-browser-new-live-calendar-button-feature/)
 - [Meta pauses plans to train AI using European users’ data, bowing to regulatory pressure](https://techcrunch.com/2024/06/14/meta-pauses-plans-to-train-ai-using-european-users-data-bowing-to-regulatory-pressure/)
-- [Soviet-era cosmonaut Vyacheslav Zudov, who survived only Soyuz splashdown, dies](https://www.space.com/cosmonaut-vyacheslav-zudov-obituary)
-- [Boeing&#39;s 1st Starliner astronaut mission return delayed to June 22](https://www.space.com/boeing-starliner-first-astronaut-mission-return-delayed-june-22)
 <!-- BLOG-POST-LIST:END -->
 
 ---
