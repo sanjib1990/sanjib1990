@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tempus soars 15% on the first day of trading, demonstrating investor appetite for a health tech with a promise of AI](https://techcrunch.com/2024/06/14/tempus-soars-15-on-the-first-day-of-trading-demonstrating-investor-appetite-for-a-health-tech-with-a-promise-of-ai/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/14/tech-layoffs-2023-list/)
 - [Startups Weekly: Clash of the AI titans, and Europe is firing on all cylinders](https://techcrunch.com/2024/06/14/startups-weekly-clash-of-the-ai-titans-and-europe-is-firing-on-all-cylinders/)
 - [Astronomers get closer to solving the lingering mystery of fast radio bursts](https://www.space.com/fast-radio-burst-mystery-polarized-light)
 - [12 billion years of black hole history, revealed through X-rays and simulations](https://www.space.com/x-ray-simulations-universe-supermassive-black-holes)
-- [Astronauts could mix moon dust with old satellites to make fuel](https://www.space.com/mixing-moon-dust-satellites-make-fuel)
-- [Pitch Deck Teardown: Kinnect’s $250K angel deck](https://techcrunch.com/2024/06/14/pitch-deck-teardown-kinnects-250k-angel-deck/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
