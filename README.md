@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How much does ChatGPT cost? Everything you need to know about OpenAI’s pricing plans](https://techcrunch.com/2024/06/15/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/)
 - [Could nearby stars have habitable exoplanets? NASA&#39;s Chandra X-ray Observatory hopes to find out](https://www.space.com/nasa-chandra-searching-for-exoplanets)
 - [This Week In Space podcast: Episode 115 —Our Friendly Mr. Sun](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-115-our-friendly-mr-sun)
 - [Space weather forecasting needs an upgrade to protect future Artemis astronauts](https://www.space.com/space-weather-forecasting-needs-upgrade-for-artemis-astronauts)
 - [How the world-famous Griffith Observatory became a huge Hollywood star](https://www.space.com/griffith-observatory-hollywood-star)
-- [How are galaxies destroyed?](https://www.space.com/how-are-galaxies-destroyed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
