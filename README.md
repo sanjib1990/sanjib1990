@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple ushers in a new era with Apple Intelligence](https://techcrunch.com/2024/06/15/apple-ushers-in-a-new-era-with-apple-intelligence/)
 - [Apple joins the race to find an AI icon that makes sense](https://techcrunch.com/2024/06/15/apple-joins-the-race-to-find-an-ai-icon-that-makes-sense/)
 - [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/)
 - [How much does ChatGPT cost? Everything you need to know about OpenAI’s pricing plans](https://techcrunch.com/2024/06/15/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/)
 - [Could nearby stars have habitable exoplanets? NASA&#39;s Chandra X-ray Observatory hopes to find out](https://www.space.com/nasa-chandra-searching-for-exoplanets)
-- [This Week In Space podcast: Episode 115 —Our Friendly Mr. Sun](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-115-our-friendly-mr-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
