@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Subscription vitamin company Care/of is shutting down](https://techcrunch.com/2024/06/15/subscription-vitamin-company-care-of-is-shutting-down/)
 - [Apple ushers in a new era with Apple Intelligence](https://techcrunch.com/2024/06/15/apple-ushers-in-a-new-era-with-apple-intelligence/)
 - [Apple joins the race to find an AI icon that makes sense](https://techcrunch.com/2024/06/15/apple-joins-the-race-to-find-an-ai-icon-that-makes-sense/)
 - [Deal Dive: BeReal got its best-case scenario exit](https://techcrunch.com/2024/06/15/deal-dive-bereal-got-its-best-case-scenario-exit/)
 - [How much does ChatGPT cost? Everything you need to know about OpenAI’s pricing plans](https://techcrunch.com/2024/06/15/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/)
-- [Could nearby stars have habitable exoplanets? NASA&#39;s Chandra X-ray Observatory hopes to find out](https://www.space.com/nasa-chandra-searching-for-exoplanets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
