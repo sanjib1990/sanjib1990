@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space weather forecasting needs an upgrade to protect future Artemis astronauts](https://www.space.com/space-weather-forecasting-needs-upgrade-for-artemis-astronauts)
 - [How the world-famous Griffith Observatory became a huge Hollywood star](https://www.space.com/griffith-observatory-hollywood-star)
 - [How are galaxies destroyed?](https://www.space.com/how-are-galaxies-destroyed)
 - [FTC Chair Lina Khan on startups, scaling, and ”innovations in potential lawbreaking”](https://techcrunch.com/2024/06/15/ftc-chair-lina-khan-on-startups-scaling-and-innovations-in-potential-law-breaking/)
 - [Albedo takes Earth observation up close and personal from very low Earth orbit](https://techcrunch.com/2024/06/14/albedo-takes-earth-observation-up-close-and-personal-from-very-low-earth-orbit/)
-- [Private space-junk-inspection probe spots discarded rocket in orbit up close &lpar;photo&rpar;](https://www.space.com/astroscale-space-junk-probe-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
