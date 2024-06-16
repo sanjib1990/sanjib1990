@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/)
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/)
 - [Hands-on with the BlackBerry-style Clicks keyboard for iPhone](https://techcrunch.com/2024/06/16/hands-on-with-the-blackberry-style-clicks-keyboard-for-iphone/)
 - [YouTube is testing another way to combat ad blockers](https://techcrunch.com/2024/06/16/youtube-is-testing-another-way-to-combat-ad-blockers/)
 - [Who is Dr. Kovich in &#39;Star Trek: Discovery&#39;? The mystery explained](https://www.space.com/who-is-dr-kovich-star-trek-discovery)
-- [10 top tips for planning your 2027 solar eclipse trip](https://www.space.com/top-tips-for-planning-total-eclipse-2027-trip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
