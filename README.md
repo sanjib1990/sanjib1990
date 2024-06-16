@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hands-on with the BlackBerry-style Clicks keyboard for iPhone](https://techcrunch.com/2024/06/16/hands-on-with-the-blackberry-style-clicks-keyboard-for-iphone/)
+- [YouTube is testing another way to combat ad blockers](https://techcrunch.com/2024/06/16/youtube-is-testing-another-way-to-combat-ad-blockers/)
 - [Who is Dr. Kovich in &#39;Star Trek: Discovery&#39;? The mystery explained](https://www.space.com/who-is-dr-kovich-star-trek-discovery)
 - [10 top tips for planning your 2027 solar eclipse trip](https://www.space.com/top-tips-for-planning-total-eclipse-2027-trip)
 - [Where is the center of the universe?](https://www.space.com/where-is-the-center-of-the-universe)
-- [Subscription vitamin company Care/of is shutting down](https://techcrunch.com/2024/06/15/subscription-vitamin-company-care-of-is-shutting-down/)
-- [Apple ushers in a new era with Apple Intelligence](https://techcrunch.com/2024/06/15/apple-ushers-in-a-new-era-with-apple-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
