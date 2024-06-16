@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is Dr. Kovich in &#39;Star Trek: Discovery&#39;? The mystery explained](https://www.space.com/who-is-dr-kovich-star-trek-discovery)
 - [10 top tips for planning your 2027 solar eclipse trip](https://www.space.com/top-tips-for-planning-total-eclipse-2027-trip)
 - [Where is the center of the universe?](https://www.space.com/where-is-the-center-of-the-universe)
 - [Subscription vitamin company Care/of is shutting down](https://techcrunch.com/2024/06/15/subscription-vitamin-company-care-of-is-shutting-down/)
 - [Apple ushers in a new era with Apple Intelligence](https://techcrunch.com/2024/06/15/apple-ushers-in-a-new-era-with-apple-intelligence/)
-- [Apple joins the race to find an AI icon that makes sense](https://techcrunch.com/2024/06/15/apple-joins-the-race-to-find-an-ai-icon-that-makes-sense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
