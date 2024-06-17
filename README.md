@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SoftBank ties up with Perplexity](https://techcrunch.com/2024/06/17/softbank-ties-up-with-perplexity/)
-- [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/)
-- [Something &#39;kicked&#39; this hypervelocity star racing through the Milky Way at 1.3 million miles per hour &lpar;video&rpar;](https://www.space.com/hypervelocity-star-milky-way-black-hole-white-dwarf)
-- [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/)
-- [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/)
+- [This long-studied star is actually a stellar duo: &#39;We were absolutely stunned&#39;](https://www.space.com/star-pair-james-webb-space-telescope-planet-forming-disk)
+- [YouTube is experimenting with Notes, a crowdsourced feature that lets users add context to videos](https://techcrunch.com/2024/06/17/youtube-is-experimenting-with-notes-a-crowdsourced-feature-that-lets-users-add-context-to-videos/)
+- [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/)
+- [TikTok ads and branded content will now include AI avatars of creators and stock actors](https://techcrunch.com/2024/06/17/tiktok-ads-and-branded-content-will-now-include-ai-avatars-of-creators-and-stock-actors/)
+- [Autify launches Zenes, an AI agent for software quality assurance](https://techcrunch.com/2024/06/17/autify-launches-zenes-an-ai-agent-for-software-quality-assurance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
