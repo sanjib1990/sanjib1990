@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US sues Adobe for hiding termination fees and making it difficult to cancel subscriptions](https://techcrunch.com/2024/06/17/us-sues-adobe-for-hiding-termination-fees-and-making-it-difficult-to-cancel-subscriptions/)
+- [Perplexity now displays results for temperature, currency conversion and simple math, so you don’t have to use Google](https://techcrunch.com/2024/06/17/perplexity-now-displays-results-for-temperature-currency-conversion-and-simple-math-so-you-dont-have-to-use-google/)
+- [From sperm freezing to accounting tools: Finaloop’s founder scores $35M to solve e-commerce retailers’ bookkeeping headaches](https://techcrunch.com/2024/06/17/from-sperm-freezing-to-accounting-tools-finaloops-founder-scores-35m-to-solve-e-commerce-retailers-bookkeeping-headaches/)
+- [Runway’s new video-generating AI, Gen-3, offers improved controls](https://techcrunch.com/2024/06/17/runways-new-video-generating-ai-gen-3-offers-improved-controls/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [The universe’s biggest explosions made some of the elements we are composed of. But there’s another mystery source out there](https://www.space.com/biggest-explosions-made-elements-we-are-composed-of-other-mystery-source)
-- [NASA’s asteroid sample mission gave scientists around the world the rare opportunity to study an artificial meteor](https://www.space.com/osiris-rex-samples-gave-scientists-opportunity-to-study-artificial-meteor)
-- [This long-studied star is actually a stellar duo: &#39;We were absolutely stunned&#39;](https://www.space.com/star-pair-james-webb-space-telescope-planet-forming-disk)
-- [YouTube is experimenting with Notes, a crowdsourced feature that lets users add context to videos](https://techcrunch.com/2024/06/17/youtube-is-experimenting-with-notes-a-crowdsourced-feature-that-lets-users-add-context-to-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
