@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/)
 - [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/)
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/)
 - [Hands-on with the BlackBerry-style Clicks keyboard for iPhone](https://techcrunch.com/2024/06/16/hands-on-with-the-blackberry-style-clicks-keyboard-for-iphone/)
 - [YouTube is testing another way to combat ad blockers](https://techcrunch.com/2024/06/16/youtube-is-testing-another-way-to-combat-ad-blockers/)
-- [Who is Dr. Kovich in &#39;Star Trek: Discovery&#39;? The mystery explained](https://www.space.com/who-is-dr-kovich-star-trek-discovery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
