@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can quick commerce leapfrog e-commerce in India?](https://techcrunch.com/2024/06/17/can-quick-commerce-leapfrog-e-commerce-in-india/)
+- [TechCrunch Space: A new era for human spaceflight research](https://techcrunch.com/2024/06/17/techcrunch-space-a-new-era-for-human-spaceflight-research/)
+- [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/06/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [NASA&#39;s Perseverance Mars rover enters new Red Planet territory: &#39;Bright Angel&#39;](https://www.space.com/perseverance-dunes-bright-angel-nasa-mars-rovers)
-- [Apple kills Pay Later feature ahead of Affirm integration](https://techcrunch.com/2024/06/17/apple-kills-pay-later-feature-ahead-of-affirm-integration/)
-- [The unexpected behavior of pulsing stars could help us measure the universe](https://www.space.com/unexpected-behavior-pulsing-stars-study-universe)
-- [Astroscale’s space junk inspection satellite snaps a close-up photo of a discarded rocket stage](https://techcrunch.com/2024/06/17/astroscales-space-junk-inspection-satellite-snaps-a-close-up-photo-of-a-discarded-rocket-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
