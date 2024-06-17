@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The unexpected behavior of pulsing stars could help us measure the universe](https://www.space.com/unexpected-behavior-pulsing-stars-study-universe)
+- [Astroscale’s space junk inspection satellite snaps a close-up photo of a discarded rocket stage](https://techcrunch.com/2024/06/17/astroscales-space-junk-inspection-satellite-snaps-a-close-up-photo-of-a-discarded-rocket-stage/)
+- [Join the FAA&#39;s virtual public meeting about SpaceX&#39;s Starship this evening](https://www.space.com/faa-public-meeting-spacex-starship-florida)
 - [DeepMind’s new AI generates soundtracks and dialogue for videos](https://techcrunch.com/2024/06/17/deepminds-new-ai-generates-soundtracks-and-dialog-for-videos/)
 - [Shine on, Starliner! Aurora glows green as astronauts test spacecraft ahead of return to Earth June 22 &lpar;image, video&rpar;](https://www.space.com/boeing-starliner-international-space-station-aurora)
-- [NASA moon orbiter spots Chinese lander on lunar far side &lpar;photo&rpar;](https://www.space.com/nasa-lro-china-change-6-moon-far-side-photo)
-- [US sues Adobe for hiding termination fees and making it difficult to cancel subscriptions](https://techcrunch.com/2024/06/17/us-sues-adobe-for-hiding-termination-fees-and-making-it-difficult-to-cancel-subscriptions/)
-- [Perplexity now displays results for temperature, currency conversion and simple math, so you don’t have to use Google](https://techcrunch.com/2024/06/17/perplexity-now-displays-results-for-temperature-currency-conversion-and-simple-math-so-you-dont-have-to-use-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
