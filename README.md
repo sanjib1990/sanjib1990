@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA’s asteroid sample mission gave scientists around the world the rare opportunity to study an artificial meteor](https://www.space.com/osiris-rex-samples-gave-scientists-opportunity-to-study-artificial-meteor)
 - [This long-studied star is actually a stellar duo: &#39;We were absolutely stunned&#39;](https://www.space.com/star-pair-james-webb-space-telescope-planet-forming-disk)
 - [YouTube is experimenting with Notes, a crowdsourced feature that lets users add context to videos](https://techcrunch.com/2024/06/17/youtube-is-experimenting-with-notes-a-crowdsourced-feature-that-lets-users-add-context-to-videos/)
 - [Plant-based ‘meat’ startup Tender has already nabbed a fast-food chain contract, and another $11M](https://techcrunch.com/2024/06/17/tender-food-plant-based-alternative-protein/)
-- [TikTok ads and branded content will now include AI avatars of creators and stock actors](https://techcrunch.com/2024/06/17/tiktok-ads-and-branded-content-will-now-include-ai-avatars-of-creators-and-stock-actors/)
-- [Autify launches Zenes, an AI agent for software quality assurance](https://techcrunch.com/2024/06/17/autify-launches-zenes-an-ai-agent-for-software-quality-assurance/)
+- [TikTok ads will now include AI avatars of creators and stock actors](https://techcrunch.com/2024/06/17/tiktok-ads-and-branded-content-will-now-include-ai-avatars-of-creators-and-stock-actors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
