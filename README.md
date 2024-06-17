@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank ties up with Perplexity](https://techcrunch.com/2024/06/17/softbank-ties-up-with-perplexity/)
+- [YC-backed Hona looks to reduce the communication friction between law firms and their consumer clients](https://techcrunch.com/2024/06/17/yc-backed-hona-looks-to-reduce-the-communication-friction-between-law-firms-and-their-consumer-clients/)
+- [Something &#39;kicked&#39; this hypervelocity star racing through the Milky Way at 1.3 million miles per hour &lpar;video&rpar;](https://www.space.com/hypervelocity-star-milky-way-black-hole-white-dwarf)
+- [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/)
 - [Tinybird raises another $30 million to transform data into real-time APIs](https://techcrunch.com/2024/06/17/tinybird-raises-another-30-million-to-transform-data-into-real-time-apis/)
-- [At the heart of this distant galaxy lies not 1, but 2 jet-blasting black holes](https://www.space.com/two-quasars-one-galaxy)
-- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
-- [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/)
-- [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
