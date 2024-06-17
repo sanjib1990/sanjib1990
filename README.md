@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind’s new AI generates soundtracks and dialogue for videos](https://techcrunch.com/2024/06/17/deepminds-new-ai-generates-soundtracks-and-dialog-for-videos/)
+- [Shine on, Starliner! Aurora glows green as astronauts test spacecraft ahead of return to Earth June 22 &lpar;image, video&rpar;](https://www.space.com/boeing-starliner-international-space-station-aurora)
+- [NASA moon orbiter spots Chinese lander on lunar far side &lpar;photo&rpar;](https://www.space.com/nasa-lro-china-change-6-moon-far-side-photo)
 - [US sues Adobe for hiding termination fees and making it difficult to cancel subscriptions](https://techcrunch.com/2024/06/17/us-sues-adobe-for-hiding-termination-fees-and-making-it-difficult-to-cancel-subscriptions/)
 - [Perplexity now displays results for temperature, currency conversion and simple math, so you don’t have to use Google](https://techcrunch.com/2024/06/17/perplexity-now-displays-results-for-temperature-currency-conversion-and-simple-math-so-you-dont-have-to-use-google/)
-- [From sperm freezing to accounting tools: Finaloop’s founder scores $35M to solve e-commerce retailers’ bookkeeping headaches](https://techcrunch.com/2024/06/17/from-sperm-freezing-to-accounting-tools-finaloops-founder-scores-35m-to-solve-e-commerce-retailers-bookkeeping-headaches/)
-- [Runway’s new video-generating AI, Gen-3, offers improved controls](https://techcrunch.com/2024/06/17/runways-new-video-generating-ai-gen-3-offers-improved-controls/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
