@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [At the heart of this distant galaxy lies not 1, but 2 jet-blasting black holes](https://www.space.com/two-quasars-one-galaxy)
+- [Solar eclipse 2024: Live updates](https://www.space.com/news/live/solar-eclipse-live-updates)
 - [India’s Oyo, once valued at $10B, finalizes new funding at $2.5B valuation](https://techcrunch.com/2024/06/16/indias-oyo-once-valued-at-10b-finalizes-new-funding-at-2-5b-valuation/)
 - [Black founders are creating tailored ChatGPTs for a more personalized experience](https://techcrunch.com/2024/06/16/black-founders-are-creating-tailored-chatgpts-for-a-more-personalized-experience/)
 - [Startup Battlefield 200 applications close tomorrow](https://techcrunch.com/2024/06/16/startup-battlefield-200-applications-close-tomorrow-2/)
-- [Hands-on with the BlackBerry-style Clicks keyboard for iPhone](https://techcrunch.com/2024/06/16/hands-on-with-the-blackberry-style-clicks-keyboard-for-iphone/)
-- [YouTube is testing another way to combat ad blockers](https://techcrunch.com/2024/06/16/youtube-is-testing-another-way-to-combat-ad-blockers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
