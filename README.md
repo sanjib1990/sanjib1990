@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/06/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [NASA&#39;s Perseverance Mars rover enters new Red Planet territory: &#39;Bright Angel&#39;](https://www.space.com/perseverance-dunes-bright-angel-nasa-mars-rovers)
 - [Apple kills Pay Later feature ahead of Affirm integration](https://techcrunch.com/2024/06/17/apple-kills-pay-later-feature-ahead-of-affirm-integration/)
 - [The unexpected behavior of pulsing stars could help us measure the universe](https://www.space.com/unexpected-behavior-pulsing-stars-study-universe)
 - [Astroscale’s space junk inspection satellite snaps a close-up photo of a discarded rocket stage](https://techcrunch.com/2024/06/17/astroscales-space-junk-inspection-satellite-snaps-a-close-up-photo-of-a-discarded-rocket-stage/)
-- [Join the FAA&#39;s virtual public meeting about SpaceX&#39;s Starship this evening](https://www.space.com/faa-public-meeting-spacex-starship-florida)
 <!-- BLOG-POST-LIST:END -->
 
 ---
