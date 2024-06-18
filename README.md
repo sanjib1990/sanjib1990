@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waabi’s genAI promises to do so much more than power self-driving trucks](https://techcrunch.com/2024/06/18/waabis-genai-promises-to-do-so-much-more-than-power-self-driving-trucks/)
 - [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/)
 - [Threads finally launches its API for developers](https://techcrunch.com/2024/06/18/threads-finally-launches-its-api-for-developers/)
 - [CuspAI raises $30M to create a Gen-AI-driven search engine for new materials](https://techcrunch.com/2024/06/18/cuspai-raises-30m-to-create-a-gen-ai-driven-search-engine-for-new-materials/)
 - [SUSE wants a piece of the AI cake, too](https://techcrunch.com/2024/06/18/suse-wants-a-piece-of-the-ai-cake-too/)
-- [Google brings Gemini mobile app to India with nine Indian languages support](https://techcrunch.com/2024/06/17/google-brings-gemini-mobile-app-to-india-with-nine-indian-language-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
