@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Snap engineer launches Butterflies, a social network where AIs and humans coexist](https://techcrunch.com/2024/06/18/former-snap-engineer-launches-butterflies-a-social-network-where-ais-and-humans-coexist/)
+- [Genspark is the latest attempt at an AI-powered search engine](https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/)
 - [How 2 quasars at the dawn of time could be a Rosetta stone for the early universe](https://www.space.com/quasars-rosetta-stone-early-universe)
 - [Apple Developer Academy adds AI training for students and alumni](https://techcrunch.com/2024/06/18/apple-developer-academy-adds-ai-training-for-students-and-alumni/)
 - [UK national accused of hacking dozens of US companies arrested in Spain](https://techcrunch.com/2024/06/18/uk-national-accused-of-hacking-dozens-of-us-companies-arrested-in-spain/)
-- [Decagon claims its customers service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/)
-- [If we really want people living on the moon, we need an astronaut health database](https://www.space.com/soma-biobank-astronaut-health-moon-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
