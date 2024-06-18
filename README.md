@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unit and Loop lay off staff and Brex ditches co-CEO model](https://techcrunch.com/2024/06/18/unit-and-loop-lay-off-staff-and-brex-ditches-co-ceo-model/)
+- [Meet Seen, a new app for friends to record reactions to TikToks and other content](https://techcrunch.com/2024/06/18/seen-video-messaging-social-app-reactions/)
+- [Lego Art The Milky Way Galaxy review](https://www.space.com/lego-art-the-milky-way-galaxy-review)
+- [Doctor Who &#39;The Legend of Ruby Sunday&#39;: Who is Susan Triad?](https://www.space.com/doctor-who-legend-of-ruby-sunday-who-is-susan-triad)
 - [Former Snap engineer launches Butterflies, a social network where AIs and humans coexist](https://techcrunch.com/2024/06/18/former-snap-engineer-launches-butterflies-a-social-network-where-ais-and-humans-coexist/)
-- [Genspark is the latest attempt at an AI-powered search engine](https://techcrunch.com/2024/06/18/genspark-is-the-latest-attempt-at-an-ai-powered-search-engine/)
-- [How 2 quasars at the dawn of time could be a Rosetta stone for the early universe](https://www.space.com/quasars-rosetta-stone-early-universe)
-- [Apple Developer Academy adds AI training for students and alumni](https://techcrunch.com/2024/06/18/apple-developer-academy-adds-ai-training-for-students-and-alumni/)
-- [UK national accused of hacking dozens of US companies arrested in Spain](https://techcrunch.com/2024/06/18/uk-national-accused-of-hacking-dozens-of-us-companies-arrested-in-spain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
