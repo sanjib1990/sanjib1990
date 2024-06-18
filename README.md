@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google brings Gemini mobile app to India with nine Indian languages support](https://techcrunch.com/2024/06/17/google-brings-gemini-mobile-app-to-india-with-nine-indian-language-support/)
 - [Finbourne taps $70M for tech that turns financial data dust into AI gold](https://techcrunch.com/2024/06/17/finbourne-taps-70m-for-tech-that-turns-financial-data-dust-into-ai-gold/)
 - [Can quick commerce leapfrog e-commerce in India?](https://techcrunch.com/2024/06/17/can-quick-commerce-leapfrog-e-commerce-in-india/)
 - [TechCrunch Space: A new era for human spaceflight research](https://techcrunch.com/2024/06/17/techcrunch-space-a-new-era-for-human-spaceflight-research/)
 - [After 20 months of trying to raise funds, insurance startup Loop cuts staff](https://techcrunch.com/2024/06/17/insurance-startup-loop-cuts-staff-fundraising-struggles/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/06/17/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
