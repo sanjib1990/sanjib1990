@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The GOES-U satellite will catch a ride to space on SpaceX&#39;s Falcon Heavy rocket](https://www.space.com/noaa-goes-u-satellite-falcon-heavy)
+- [iOS 18 could ‘sherlock’ $400M in app revenue](https://techcrunch.com/2024/06/18/ios-18-could-sherlock-400m-in-app-revenue/)
+- [NASA reschedules ISS spacewalk after astronaut experiences &#39;spacesuit discomfort&#39;](https://www.space.com/nasa-astronauts-spacewalk-rescheduled-after-spacesuit-discomfort)
+- [NASA, Boeing delay Starliner astronaut landing to June 26 amid thruster issues](https://www.space.com/boeing-starliner-earth-return-delay-june-26-thruster-issues)
 - [SpaceX launching European TV satellite today on 1st leg of doubleheader](https://www.space.com/spacex-ses-astra-1p-mission-launch)
-- [Snap previews its real-time image model that can generate AR experiences](https://techcrunch.com/2024/06/18/snap-previews-its-real-time-image-model-that-can-generate-ar-experiences/)
-- [Security bug allows anyone to spoof Microsoft employee emails](https://techcrunch.com/2024/06/18/security-bug-allows-anyone-to-spoof-microsoft-employee-emails/)
-- [Unit and Loop lay off staff and Brex ditches co-CEO model](https://techcrunch.com/2024/06/18/unit-and-loop-lay-off-staff-and-brex-ditches-co-ceo-model/)
-- [Meet Seen, a new app for friends to record reactions to TikToks and other content](https://techcrunch.com/2024/06/18/seen-video-messaging-social-app-reactions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
