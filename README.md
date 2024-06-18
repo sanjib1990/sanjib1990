@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC refers TikTok child privacy case to Justice Department](https://techcrunch.com/2024/06/18/ftc-refers-tiktok-child-privacy-case-to-justice-department/)
+- [The Strawberry Full Moon of 2024 rises near the June solstice with an Antares encounter](https://www.space.com/strawberry-moon-occults-antares)
 - [The GOES-U satellite will catch a ride to space on SpaceX&#39;s Falcon Heavy rocket](https://www.space.com/noaa-goes-u-satellite-falcon-heavy)
 - [iOS 18 could ‘sherlock’ $400M in app revenue](https://techcrunch.com/2024/06/18/ios-18-could-sherlock-400m-in-app-revenue/)
 - [NASA reschedules ISS spacewalk after astronaut experiences &#39;spacesuit discomfort&#39;](https://www.space.com/nasa-astronauts-spacewalk-rescheduled-after-spacesuit-discomfort)
-- [NASA, Boeing delay Starliner astronaut landing to June 26 amid thruster issues](https://www.space.com/boeing-starliner-earth-return-delay-june-26-thruster-issues)
-- [SpaceX launching European TV satellite today on 1st leg of doubleheader](https://www.space.com/spacex-ses-astra-1p-mission-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
