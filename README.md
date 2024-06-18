@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [Iconic Crab Nebula shines in gorgeous James Webb Space Telescope views &lpar;video, photo&rpar;](https://www.space.com/crab-nebula-james-webb-space-telescope-video-photo)
+- [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/)
+- [SewerAI uses AI to spot defects in sewer pipes](https://techcrunch.com/2024/06/18/sewerai-uses-ai-to-spot-defects-in-sewer-pipes/)
 - [NASA and Boeing will discuss Starliner&#39;s delayed ISS departure today, and you can listen live](https://www.space.com/nasa-boeing-starliner-thruster-june-18-webcast-preview)
-- [Waabi’s genAI promises to do so much more than power self-driving trucks](https://techcrunch.com/2024/06/18/waabis-genai-promises-to-do-so-much-more-than-power-self-driving-trucks/)
-- [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/)
-- [Threads finally launches its API for developers](https://techcrunch.com/2024/06/18/threads-finally-launches-its-api-for-developers/)
-- [CuspAI raises $30M to create a Gen-AI-driven search engine for new materials](https://techcrunch.com/2024/06/18/cuspai-raises-30m-to-create-a-gen-ai-driven-search-engine-for-new-materials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
