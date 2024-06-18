@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [Iconic Crab Nebula shines in gorgeous James Webb Space Telescope views &lpar;video, photo&rpar;](https://www.space.com/crab-nebula-james-webb-space-telescope-video-photo)
-- [Dandelion co-founder is back to help you electrify your home for less](https://techcrunch.com/2024/06/18/dandelion-co-founder-is-back-to-help-you-electrify-your-home-for-less/)
-- [SewerAI uses AI to spot defects in sewer pipes](https://techcrunch.com/2024/06/18/sewerai-uses-ai-to-spot-defects-in-sewer-pipes/)
-- [NASA and Boeing will discuss Starliner&#39;s delayed ISS departure today, and you can listen live](https://www.space.com/nasa-boeing-starliner-thruster-june-18-webcast-preview)
+- [Life after stellar death? How life could arise on planets orbiting white dwarfs](https://www.space.com/white-dwarf-habitable-planets-migration)
+- [SurrealDB is helping developers consolidate their databases](https://techcrunch.com/2024/06/18/surrealdb-is-helping-developers-consolidate-their-databases/)
+- [XReal introduces a $200 device that brings Android apps to its AR glasses](https://techcrunch.com/2024/06/18/xreal-introduces-a-200-device-that-brings-android-apps-to-its-ar-glasses/)
+- [Zal Bilimoria just raised a $50M fourth Refactor Capital fund, and still relishes his solo GP status](https://techcrunch.com/2024/06/18/zal-bilimoria-refactor-capital-venture-capital/)
+- [Loop Golf looks to take the stress out of booking a tee time](https://techcrunch.com/2024/06/18/loop-golf-looks-to-take-the-stress-out-of-booking-a-tee-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
