@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/)
+- [Threads finally launches its API for developers](https://techcrunch.com/2024/06/18/threads-finally-launches-its-api-for-developers/)
 - [CuspAI raises $30M to create a Gen-AI-driven search engine for new materials](https://techcrunch.com/2024/06/18/cuspai-raises-30m-to-create-a-gen-ai-driven-search-engine-for-new-materials/)
 - [SUSE wants a piece of the AI cake, too](https://techcrunch.com/2024/06/18/suse-wants-a-piece-of-the-ai-cake-too/)
 - [Google brings Gemini mobile app to India with nine Indian languages support](https://techcrunch.com/2024/06/17/google-brings-gemini-mobile-app-to-india-with-nine-indian-language-support/)
-- [Finbourne taps $70M for tech that turns financial data dust into AI gold](https://techcrunch.com/2024/06/17/finbourne-taps-70m-for-tech-that-turns-financial-data-dust-into-ai-gold/)
-- [Can quick commerce leapfrog e-commerce in India?](https://techcrunch.com/2024/06/17/can-quick-commerce-leapfrog-e-commerce-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
