@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Decagon claims its customers service bots are smarter than average](https://techcrunch.com/2024/06/18/decagon-claims-its-customers-service-bots-are-smarter-than-average/)
+- [If we really want people living on the moon, we need an astronaut health database](https://www.space.com/soma-biobank-astronaut-health-moon-mars)
+- [Series A to B startups scale up at Disrupt 2024](https://techcrunch.com/2024/06/18/series-a-to-b-startups-scale-up-at-disrupt-2024/)
 - [Life after stellar death? How life could arise on planets orbiting white dwarfs](https://www.space.com/white-dwarf-habitable-planets-migration)
 - [SurrealDB is helping developers consolidate their databases](https://techcrunch.com/2024/06/18/surrealdb-is-helping-developers-consolidate-their-databases/)
-- [XReal introduces a $200 device that brings Android apps to its AR glasses](https://techcrunch.com/2024/06/18/xreal-introduces-a-200-device-that-brings-android-apps-to-its-ar-glasses/)
-- [Zal Bilimoria just raised a $50M fourth Refactor Capital fund, and still relishes his solo GP status](https://techcrunch.com/2024/06/18/zal-bilimoria-refactor-capital-venture-capital/)
-- [Loop Golf looks to take the stress out of booking a tee time](https://techcrunch.com/2024/06/18/loop-golf-looks-to-take-the-stress-out-of-booking-a-tee-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
