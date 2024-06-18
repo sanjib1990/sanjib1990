@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching European TV satellite today on 1st leg of doubleheader](https://www.space.com/spacex-ses-astra-1p-mission-launch)
+- [Snap previews its real-time image model that can generate AR experiences](https://techcrunch.com/2024/06/18/snap-previews-its-real-time-image-model-that-can-generate-ar-experiences/)
 - [Security bug allows anyone to spoof Microsoft employee emails](https://techcrunch.com/2024/06/18/security-bug-allows-anyone-to-spoof-microsoft-employee-emails/)
 - [Unit and Loop lay off staff and Brex ditches co-CEO model](https://techcrunch.com/2024/06/18/unit-and-loop-lay-off-staff-and-brex-ditches-co-ceo-model/)
 - [Meet Seen, a new app for friends to record reactions to TikToks and other content](https://techcrunch.com/2024/06/18/seen-video-messaging-social-app-reactions/)
-- [Lego Art The Milky Way Galaxy review](https://www.space.com/lego-art-the-milky-way-galaxy-review)
-- [Doctor Who &#39;The Legend of Ruby Sunday&#39;: Who is Susan Triad?](https://www.space.com/doctor-who-legend-of-ruby-sunday-who-is-susan-triad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
