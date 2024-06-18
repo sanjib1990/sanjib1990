@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker failed because it wasn’t ready to be a car company](https://techcrunch.com/2024/06/18/fisker-bankruptcy-failure-problems/)
+- [Three bright stars mark the beginning of summer. Here&#39;s how to spot the &#39;Summer Triangle&#39; this week.](https://www.space.com/three-bright-stars-mark-beginning-of-summer-spot-summer-triangle)
 - [FTC refers TikTok child privacy case to Justice Department](https://techcrunch.com/2024/06/18/ftc-refers-tiktok-child-privacy-case-to-justice-department/)
 - [The Strawberry Full Moon of 2024 rises near the June solstice with an Antares encounter](https://www.space.com/strawberry-moon-occults-antares)
 - [The GOES-U satellite will catch a ride to space on SpaceX&#39;s Falcon Heavy rocket](https://www.space.com/noaa-goes-u-satellite-falcon-heavy)
-- [iOS 18 could ‘sherlock’ $400M in app revenue](https://techcrunch.com/2024/06/18/ios-18-could-sherlock-400m-in-app-revenue/)
-- [NASA reschedules ISS spacewalk after astronaut experiences &#39;spacesuit discomfort&#39;](https://www.space.com/nasa-astronauts-spacewalk-rescheduled-after-spacesuit-discomfort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
