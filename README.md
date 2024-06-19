@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Robust Science with Prof. Rebecca Saxe](https://www.youtube.com/watch?v=SD-zfFTUzBs)
 - [5 wild new AI tools you can try right now](https://www.youtube.com/watch?v=BY81yNttfpg)
 - [Ruby on Rails in 100 Seconds](https://www.youtube.com/watch?v=2DvrRadXwWY)
 - [lol Apple Intelligence is dumb...](https://www.youtube.com/watch?v=ek2yOqAIYuU)
 - [RetroPie: A Raspberry Pi Gaming Machine](https://www.youtube.com/watch?v=AaseHnf0k2o)
-- [when your serverless computing bill goes parabolic...](https://www.youtube.com/watch?v=SCIfWhAheVw)
 <!-- YOUTUBE:END -->
 
 ---
