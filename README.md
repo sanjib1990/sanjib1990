@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China selects 4th batch of astronaut candidates as part of 2030 moon landing goal](https://www.space.com/china-selects-fourth-batch-astronaut-candidates)
 - [SpaceX launches 20 Starlink satellites from California](https://www.space.com/spacex-starlink-launch-group-9-1)
 - [How Abridge became one of the most talked about healthcare AI startups](https://techcrunch.com/2024/06/18/how-abridge-became-one-of-the-most-talked-about-healthcare-ai-startups/)
 - [Kilimo helps farmers save water and get paid for it](https://techcrunch.com/2024/06/18/kilimo-helps-farmers-save-water-and-get-paid-for-it/)
 - [Fisker failed because it wasn’t ready to be a car company](https://techcrunch.com/2024/06/18/fisker-bankruptcy-failure-problems/)
-- [Three bright stars mark the beginning of summer. Here&#39;s how to spot the &#39;Summer Triangle&#39; this week.](https://www.space.com/three-bright-stars-mark-beginning-of-summer-spot-summer-triangle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
