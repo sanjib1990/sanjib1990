@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ilya Sutskever, OpenAI’s former chief scientist, launches new AI company](https://techcrunch.com/2024/06/19/ilya-sutskever-openais-former-chief-scientist-launches-new-ai-company/)
+- [Best sci-fi TV shows with 90%+ on Rotten Tomatoes](https://www.space.com/best-sci-fi-shows-with-over-90-percent-on-rotten-tomatoes)
 - [Internal SpaceX documents show the sweet stock deals offered to investors like a16z, Gigafund](https://techcrunch.com/2024/06/19/internal-spacex-documents-show-the-sweet-stock-deals-offered-to-investors-like-a16z-gigafund/)
 - [This Week in AI: Generative AI is spamming up academic journals](https://techcrunch.com/2024/06/19/this-week-in-ai-generative-ai-is-spamming-up-academic-journals/)
 - [The speed of sound on Mars is constantly changing, study finds](https://www.space.com/speed-of-sound-constantly-changing)
-- [June solstice 2024 brings changing seasons to Earth on June 20 — What to know](https://www.space.com/june-solstice-2024-changing-seasons)
-- [In spite of hype, many companies are moving cautiously when it comes to generative AI](https://techcrunch.com/2024/06/19/in-spite-of-hype-many-companies-are-moving-cautiously-when-it-comes-to-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
