@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 1st &#39;major lunar standstill&#39; in more than 18 years is about to occur. Here&#39;s how to see it](https://www.space.com/1st-lunar-standstill-in-18-years-about-to-occur-how-to-see-it)
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/)
+- [Rocket Lab’s Peter Beck on reshaping the space economy at Disrupt 2024](https://techcrunch.com/2024/06/19/rocket-labs-peter-beck-on-reshaping-the-space-economy-at-disrupt-2024/)
+- [Société Générale to sell its freelancer challenger bank Shine to Ageras](https://techcrunch.com/2024/06/19/societe-generale-to-sell-its-freelancer-challenger-bank-shine-to-ageras/)
 - [A massive black hole may be &#39;waking up&#39; in a nearby galaxy](https://www.space.com/black-hole-awakening-nearby-galaxy)
-- [&#39;ESA Space Bricks&#39; landing at Lego Stores could help build real Artemis moon base](https://www.space.com/lego-esa-space-bricks-moon-meteorite)
-- [GOES-U satellite launch this month will bring a solar activity monitor to space](https://www.space.com/goes-u-launch-coronagraph-space-weather)
-- [UK probes HPE’s planned $14B Juniper Networks acquisition](https://techcrunch.com/2024/06/19/uk-probes-hpes-planned-14b-juniper-networks-acquisition/)
-- [Meta AI removes block on election-related queries in India while Google still applying limits](https://techcrunch.com/2024/06/19/meta-ai-removes-block-on-election-related-queries-in-india-while-google-still-applying-limits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
