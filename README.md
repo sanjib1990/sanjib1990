@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A massive black hole may be &#39;waking up&#39; in a nearby galaxy](https://www.space.com/black-hole-awakening-nearby-galaxy)
 - [&#39;ESA Space Bricks&#39; landing at Lego Stores could help build real Artemis moon base](https://www.space.com/lego-esa-space-bricks-moon-meteorite)
 - [GOES-U satellite launch this month will bring a solar activity monitor to space](https://www.space.com/goes-u-launch-coronagraph-space-weather)
 - [UK probes HPE’s planned $14B Juniper Networks acquisition](https://techcrunch.com/2024/06/19/uk-probes-hpes-planned-14b-juniper-networks-acquisition/)
 - [Meta AI removes block on election-related queries in India while Google still applying limits](https://techcrunch.com/2024/06/19/meta-ai-removes-block-on-election-related-queries-in-india-while-google-still-applying-limits/)
-- [China selects 4th batch of astronaut candidates as part of 2030 moon landing goal](https://www.space.com/china-selects-fourth-batch-astronaut-candidates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
