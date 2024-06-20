@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/)
-- [Is Jupiter&#39;s Great Red Spot an impostor? Giant storm may not be the original one discovered 350 years ago](https://www.space.com/jupiter-great-red-spot-origin)
-- [YouTube confirms crackdown on VPN users accessing cheaper Premium plans](https://techcrunch.com/2024/06/20/youtube-confirms-crackdown-on-vpn-users-accessing-cheaper-premium-plans/)
-- [Why Fisker failed](https://techcrunch.com/2024/06/20/why-fisker-failed/)
-- [&#39;Star Wars: The Acolyte&#39; episode 4: What&#39;s the goal of Mae&#39;s test?](https://www.space.com/star-wars-the-acolyte-episode-4-day-whats-goal-of-maes-test)
+- [New &#39;Space Cadet&#39; trailer enlists Emma Roberts into NASA&#39;s astronaut program &lpar;video&rpar;](https://www.space.com/space-cadet-trailer-enlists-emma-roberts-into-nasa-astronaut-program)
+- [Rocket Lab launches 5 IoT satellites on landmark 50th mission](https://www.space.com/rocket-lab-50th-mission-launch-kineis-iot-satellites)
+- [Apple releases Final Cut Pro for iPad 2 and Final Cut Camera](https://techcrunch.com/2024/06/20/apple-releases-final-cut-pro-for-ipad-2-and-final-cut-camera/)
+- [Poolside is raising $400M+ at a $2B valuation to build a supercharged coding co-pilot](https://techcrunch.com/2024/06/20/poolside-raising-400m-at-a-2b-valuation-for-supercharged-coding-copilot/)
+- [Gravitics prepares a testing gauntlet for a new generation of giant spacecraft](https://techcrunch.com/2024/06/20/gravitics-prepares-a-testing-gauntlet-for-a-new-generation-of-giant-spacecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
