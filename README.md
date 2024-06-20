@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/)
+- [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/)
 - [General Catalyst merges with Venture Highway in India push](https://techcrunch.com/2024/06/19/general-catalyst-india-venture-highway/)
-- [France leads the pack for Generative AI funding in Europe, London has 3X the number of GenAI startups](https://techcrunch.com/2024/06/19/france-leads-the-pack-for-generative-ai-funding-in-europe-london-has-3x-the-number-of-genai-startups/)
+- [France leads the pack for Generative AI funding in Europe](https://techcrunch.com/2024/06/19/france-leads-the-pack-for-generative-ai-funding-in-europe-london-has-3x-the-number-of-genai-startups/)
 - [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/)
-- [Ilya Sutskever, OpenAI’s former chief scientist, launches new AI company](https://techcrunch.com/2024/06/19/ilya-sutskever-openais-former-chief-scientist-launches-new-ai-company/)
-- [Best sci-fi TV shows with 90%+ on Rotten Tomatoes](https://www.space.com/best-sci-fi-shows-with-over-90-percent-on-rotten-tomatoes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
