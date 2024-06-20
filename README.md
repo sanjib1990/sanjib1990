@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Materia looks to make accountants more efficient with AI](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/)
+- [Watch an awe-inspiring video from final flight of Virgin Galactic&#39;s VSS Unity spaceplane](https://www.space.com/virgin-galactic-vss-unity-final-flight-video)
+- [Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia](https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/)
+- [Semperis, a specialist in Active Directory security now worth more than $1B, raises $125M](https://techcrunch.com/2024/06/20/semperis-a-specialist-in-active-directory-security-now-worth-more-than-1b-raises-125m/)
 - [NASA discussing asteroid-threat exercise today: Watch it live](https://www.space.com/nasa-asteroid-threat-exercise-webcast-preview)
-- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/)
-- [Spotify quietly lets all podcasters upload videos, surpasses 250K shows](https://techcrunch.com/2024/06/20/spotify-surpasses-250000-video-podcast-shows/)
-- [Cadana, an emerging markets payroll services provider for global hiring platforms, banks $7.1M seed](https://techcrunch.com/2024/06/20/cadana-an-emerging-markets-payroll-services-provider-for-global-hiring-platforms-banks-7-1m-seed/)
-- [Amazon extends generative AI-powered product listings to Europe](https://techcrunch.com/2024/06/20/amazon-extends-generative-ai-powered-product-listings-to-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
