@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Surf&#39;s up! Liquid methane waves on Saturn moon Titan may erode shores of alien lakes and rivers](https://www.space.com/saturn-moon-titan-waves-eroding-lakes-rivers)
+- [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/)
+- [US bans sale of Kaspersky software citing security risk from Russia](https://techcrunch.com/2024/06/20/us-bans-kaspersky-software-security-risk-russia/)
 - [Hubble Telescope bounces back with glorious galaxy pic in &#39;1-gyroscope mode&#39;](https://www.space.com/hubble-space-telescope-one-gyroscope-galaxy-photo)
 - [New &#39;Space Cadet&#39; trailer enlists Emma Roberts into NASA&#39;s astronaut program &lpar;video&rpar;](https://www.space.com/space-cadet-trailer-enlists-emma-roberts-into-nasa-astronaut-program)
-- [Rocket Lab launches 5 IoT satellites on landmark 50th mission](https://www.space.com/rocket-lab-50th-mission-launch-kineis-iot-satellites)
-- [Apple releases Final Cut Pro for iPad 2 and Final Cut Camera](https://techcrunch.com/2024/06/20/apple-releases-final-cut-pro-for-ipad-2-and-final-cut-camera/)
-- [Poolside is raising $400M+ at a $2B valuation to build a supercharged coding co-pilot](https://techcrunch.com/2024/06/20/poolside-raising-400m-at-a-2b-valuation-for-supercharged-coding-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
