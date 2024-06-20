@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kenya closes its probe of Worldcoin, opening the door to a relaunch of its orbs after a year-long suspension](https://techcrunch.com/2024/06/20/worldcoin-in-kenya-2/)
 - [Watch Rocket Lab launch its Electron vehicle for the 50th time today](https://www.space.com/rocket-lab-50th-electron-launch-webcast)
 - [Summer solstice 2024 marks the longest day in the Northern Hemisphere](https://www.space.com/summer-solstice-2024-longest-day-of-the-year)
 - [Paris-based VC Breega hits first close of $75M Africa fund to back pre-seed and seed startups](https://techcrunch.com/2024/06/20/paris-based-vc-breega-75m-africa-fund/)
 - [PQShield secures $37M more for ‘quantum resistant’ cryptography](https://techcrunch.com/2024/06/20/pqshield-secures-37m-more-for-quantum-resistant-cryptography/)
-- [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
