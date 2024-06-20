@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DARPA&#39;s military-grade &#39;quantum laser&#39; will use entangled photons to outshine conventional laser beams](https://www.space.com/darpa-quantum-laser-will-use-entangled-photons)
+- [Instagram now lets users livestream exclusively to their Close Friends list](https://techcrunch.com/2024/06/20/instagram-now-lets-users-livestream-exclusively-to-their-close-friends-list/)
+- [Announcing the agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/20/announcing-the-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/)
+- [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/)
 - [4,000-year-old &#39;Seahenge&#39; in UK was built to &#39;extend summer,&#39; archaeologist suggests](https://www.space.com/seahenge-4000-years-old-built-to-extend-summer-archaeology)
-- [Pocket FM partners with ElevenLabs to convert scripts into audio content quickly](https://techcrunch.com/2024/06/20/pocket-fm-partners-with-elevenlabs-to-convert-scripts-into-audio-content-quickly/)
-- [Anthropic claims its latest model is best-in-class](https://techcrunch.com/2024/06/20/anthropic-claims-its-latest-model-is-best-in-class/)
-- [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/)
-- [Materia looks to make accountants more efficient with AI](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
