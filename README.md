@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Influencer shopping app LTK gets an automatic direct message tool](https://techcrunch.com/2024/06/20/influencer-shopping-app-ltk-gets-an-automatic-direct-message-tool/)
+- [Is Jupiter&#39;s Great Red Spot an impostor? Giant storm may not be the original one discovered 350 years ago](https://www.space.com/jupiter-great-red-spot-origin)
+- [YouTube confirms crackdown on VPN users accessing cheaper Premium plans](https://techcrunch.com/2024/06/20/youtube-confirms-crackdown-on-vpn-users-accessing-cheaper-premium-plans/)
 - [Why Fisker failed](https://techcrunch.com/2024/06/20/why-fisker-failed/)
 - [&#39;Star Wars: The Acolyte&#39; episode 4: What&#39;s the goal of Mae&#39;s test?](https://www.space.com/star-wars-the-acolyte-episode-4-day-whats-goal-of-maes-test)
-- [EU Member States remain divided on controversial CSAM-scanning plan — but for how long?](https://techcrunch.com/2024/06/20/eu-member-states-remain-divided-on-controversial-csam-scanning-plan-but-for-how-long/)
-- [Labor shortages are still fueling growth at automation firms like GrayMatter](https://techcrunch.com/2024/06/20/labor-shortages-are-still-fueling-growth-at-automation-firms-like-graymatter/)
-- [New &#39;Exodus Green Worlds&#39; trailer highlights hunt for habitable planets &lpar;video&rpar;](https://www.space.com/exodus-green-worlds-trailer-evil-exoplanets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
