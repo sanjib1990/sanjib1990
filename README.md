@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope bounces back with glorious galaxy pic in &#39;1-gyroscope mode&#39;](https://www.space.com/hubble-space-telescope-one-gyroscope-galaxy-photo)
 - [New &#39;Space Cadet&#39; trailer enlists Emma Roberts into NASA&#39;s astronaut program &lpar;video&rpar;](https://www.space.com/space-cadet-trailer-enlists-emma-roberts-into-nasa-astronaut-program)
 - [Rocket Lab launches 5 IoT satellites on landmark 50th mission](https://www.space.com/rocket-lab-50th-mission-launch-kineis-iot-satellites)
 - [Apple releases Final Cut Pro for iPad 2 and Final Cut Camera](https://techcrunch.com/2024/06/20/apple-releases-final-cut-pro-for-ipad-2-and-final-cut-camera/)
 - [Poolside is raising $400M+ at a $2B valuation to build a supercharged coding co-pilot](https://techcrunch.com/2024/06/20/poolside-raising-400m-at-a-2b-valuation-for-supercharged-coding-copilot/)
-- [Gravitics prepares a testing gauntlet for a new generation of giant spacecraft](https://techcrunch.com/2024/06/20/gravitics-prepares-a-testing-gauntlet-for-a-new-generation-of-giant-spacecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
