@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Exodus Green Worlds&#39; trailer highlights hunt for habitable planets &lpar;video&rpar;](https://www.space.com/exodus-green-worlds-trailer-evil-exoplanets)
+- [Boeing’s Starliner capsule took astronauts to space — now it needs to bring them back](https://techcrunch.com/2024/06/20/boeings-starliner-capsule-took-astronauts-to-space-now-it-needs-to-bring-them-back/)
+- [US car dealerships face ongoing outage after CDK cyberattacks](https://techcrunch.com/2024/06/20/cdk-global-cyberattacks-car-dealerships/)
 - [DARPA&#39;s military-grade &#39;quantum laser&#39; will use entangled photons to outshine conventional laser beams](https://www.space.com/darpa-quantum-laser-will-use-entangled-photons)
 - [Instagram now lets users livestream exclusively to their Close Friends list](https://techcrunch.com/2024/06/20/instagram-now-lets-users-livestream-exclusively-to-their-close-friends-list/)
-- [Announcing the agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/20/announcing-the-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/)
-- [PayPal Ventures leads $20M round into Gynger, which offers companies ‘buy now, pay later’ for technology purchases](https://techcrunch.com/2024/06/20/paypal-ventures-leads-20m-round-into-gynger-which-offers-startups-buy-now-pay-later-for-technology-purchases/)
-- [4,000-year-old &#39;Seahenge&#39; in UK was built to &#39;extend summer,&#39; archaeologist suggests](https://www.space.com/seahenge-4000-years-old-built-to-extend-summer-archaeology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
