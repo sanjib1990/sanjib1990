@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Fisker failed](https://techcrunch.com/2024/06/20/why-fisker-failed/)
+- [&#39;Star Wars: The Acolyte&#39; episode 4: What&#39;s the goal of Mae&#39;s test?](https://www.space.com/star-wars-the-acolyte-episode-4-day-whats-goal-of-maes-test)
+- [EU Member States remain divided on controversial CSAM-scanning plan — but for how long?](https://techcrunch.com/2024/06/20/eu-member-states-remain-divided-on-controversial-csam-scanning-plan-but-for-how-long/)
+- [Labor shortages are still fueling growth at automation firms like GrayMatter](https://techcrunch.com/2024/06/20/labor-shortages-are-still-fueling-growth-at-automation-firms-like-graymatter/)
 - [New &#39;Exodus Green Worlds&#39; trailer highlights hunt for habitable planets &lpar;video&rpar;](https://www.space.com/exodus-green-worlds-trailer-evil-exoplanets)
-- [Boeing’s Starliner capsule took astronauts to space — now it needs to bring them back](https://techcrunch.com/2024/06/20/boeings-starliner-capsule-took-astronauts-to-space-now-it-needs-to-bring-them-back/)
-- [US car dealerships face ongoing outage after CDK cyberattacks](https://techcrunch.com/2024/06/20/cdk-global-cyberattacks-car-dealerships/)
-- [DARPA&#39;s military-grade &#39;quantum laser&#39; will use entangled photons to outshine conventional laser beams](https://www.space.com/darpa-quantum-laser-will-use-entangled-photons)
-- [Instagram now lets users livestream exclusively to their Close Friends list](https://techcrunch.com/2024/06/20/instagram-now-lets-users-livestream-exclusively-to-their-close-friends-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
