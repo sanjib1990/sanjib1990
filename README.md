@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4,000-year-old &#39;Seahenge&#39; in UK was built to &#39;extend summer,&#39; archaeologist suggests](https://www.space.com/seahenge-4000-years-old-built-to-extend-summer-archaeology)
+- [Pocket FM partners with ElevenLabs to convert scripts into audio content quickly](https://techcrunch.com/2024/06/20/pocket-fm-partners-with-elevenlabs-to-convert-scripts-into-audio-content-quickly/)
+- [Anthropic claims its latest model is best-in-class](https://techcrunch.com/2024/06/20/anthropic-claims-its-latest-model-is-best-in-class/)
+- [Roots introduces a screen time app for tracking ‘digital dopamine’](https://techcrunch.com/2024/06/20/roots-introduces-a-screen-time-app-for-tracking-digital-dopamine/)
 - [Materia looks to make accountants more efficient with AI](https://techcrunch.com/2024/06/20/materia-looks-to-make-accountants-more-efficient-with-ai/)
-- [Watch an awe-inspiring video from final flight of Virgin Galactic&#39;s VSS Unity spaceplane](https://www.space.com/virgin-galactic-vss-unity-final-flight-video)
-- [Ex-HubSpot exec builds an AI-powered CRM that learns for you, with $4M seed led by Sequoia](https://techcrunch.com/2024/06/20/ex-hubspot-exec-builds-ai-powered-crm-learns-for-you-with-4m-seed-led-sequoia/)
-- [Semperis, a specialist in Active Directory security now worth more than $1B, raises $125M](https://techcrunch.com/2024/06/20/semperis-a-specialist-in-active-directory-security-now-worth-more-than-1b-raises-125m/)
-- [NASA discussing asteroid-threat exercise today: Watch it live](https://www.space.com/nasa-asteroid-threat-exercise-webcast-preview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
