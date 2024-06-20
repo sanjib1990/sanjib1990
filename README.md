@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kenya closes its probe of Worldcoin, opening the door to a relaunch of its orbs after a year-long suspension](https://techcrunch.com/2024/06/20/worldcoin-in-kenya-2/)
-- [Watch Rocket Lab launch its Electron vehicle for the 50th time today](https://www.space.com/rocket-lab-50th-electron-launch-webcast)
-- [Summer solstice 2024 marks the longest day in the Northern Hemisphere](https://www.space.com/summer-solstice-2024-longest-day-of-the-year)
-- [Paris-based VC Breega hits first close of $75M Africa fund to back pre-seed and seed startups](https://techcrunch.com/2024/06/20/paris-based-vc-breega-75m-africa-fund/)
-- [PQShield secures $37M more for ‘quantum resistant’ cryptography](https://techcrunch.com/2024/06/20/pqshield-secures-37m-more-for-quantum-resistant-cryptography/)
+- [NASA discussing asteroid-threat exercise today: Watch it live](https://www.space.com/nasa-asteroid-threat-exercise-webcast-preview)
+- [Daydream rakes in $50M seed funding to build an AI-powered search engine suited for e-commerce](https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/)
+- [Spotify quietly lets all podcasters upload videos, surpasses 250K shows](https://techcrunch.com/2024/06/20/spotify-surpasses-250000-video-podcast-shows/)
+- [Cadana, an emerging markets payroll services provider for global hiring platforms, banks $7.1M seed](https://techcrunch.com/2024/06/20/cadana-an-emerging-markets-payroll-services-provider-for-global-hiring-platforms-banks-7-1m-seed/)
+- [Amazon extends generative AI-powered product listings to Europe](https://techcrunch.com/2024/06/20/amazon-extends-generative-ai-powered-product-listings-to-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
