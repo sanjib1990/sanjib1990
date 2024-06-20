@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PQShield secures $37M more for ‘quantum resistant’ cryptography](https://techcrunch.com/2024/06/20/pqshield-secures-37m-more-for-quantum-resistant-cryptography/)
 - [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/)
 - [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/)
 - [General Catalyst merges with Venture Highway in India push](https://techcrunch.com/2024/06/19/general-catalyst-india-venture-highway/)
 - [France leads the pack for Generative AI funding in Europe](https://techcrunch.com/2024/06/19/france-leads-the-pack-for-generative-ai-funding-in-europe-london-has-3x-the-number-of-genai-startups/)
-- [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
