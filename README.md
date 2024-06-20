@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Summer solstice 2024 marks the longest day in the Northern Hemisphere](https://www.space.com/summer-solstice-2024-longest-day-of-the-year)
+- [Paris-based VC Breega hits first close of $75M Africa fund to back pre-seed and seed startups](https://techcrunch.com/2024/06/20/paris-based-vc-breega-75m-africa-fund/)
 - [PQShield secures $37M more for ‘quantum resistant’ cryptography](https://techcrunch.com/2024/06/20/pqshield-secures-37m-more-for-quantum-resistant-cryptography/)
 - [Hero wants to save the day for companies facing a working capital crunch](https://techcrunch.com/2024/06/20/hero-wants-to-save-the-day-for-companies-facing-a-working-capital-crunch/)
 - [‘Lawyer-in-the-loop’ startup Wordsmith wants to bring AI paralegals to all employees](https://techcrunch.com/2024/06/20/legal-ease-lawyer-in-the-loop-startup-wordsmith-wants-to-bring-ai-paralegals-to-all-employees/)
-- [General Catalyst merges with Venture Highway in India push](https://techcrunch.com/2024/06/19/general-catalyst-india-venture-highway/)
-- [France leads the pack for Generative AI funding in Europe](https://techcrunch.com/2024/06/19/france-leads-the-pack-for-generative-ai-funding-in-europe-london-has-3x-the-number-of-genai-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
