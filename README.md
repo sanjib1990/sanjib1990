@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [General Catalyst makes India push with Venture Highway merger](https://techcrunch.com/2024/06/19/general-catalyst-india-venture-highway/)
+- [General Catalyst merges with Venture Highway in India push](https://techcrunch.com/2024/06/19/general-catalyst-india-venture-highway/)
 - [France leads the pack for Generative AI funding in Europe, London has 3X the number of GenAI startups](https://techcrunch.com/2024/06/19/france-leads-the-pack-for-generative-ai-funding-in-europe-london-has-3x-the-number-of-genai-startups/)
 - [C12, a French quantum computing startup founded by twin brothers, raises $19.4 million](https://techcrunch.com/2024/06/19/c12-the-french-quantum-computing-startup-founded-by-two-twin-brothers-raises-194-million/)
 - [Ilya Sutskever, OpenAI’s former chief scientist, launches new AI company](https://techcrunch.com/2024/06/19/ilya-sutskever-openais-former-chief-scientist-launches-new-ai-company/)
