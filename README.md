@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Predator lands in Wakanda in new &#39;Predator vs Black Panther&#39; series](https://www.space.com/predator-wakanda-black-panther-marvel-comics)
+- [OpenAI buys Rockset to bolster its enterprise AI](https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/)
+- [U.S. government sanctions Kaspersky executives](https://techcrunch.com/2024/06/21/u-s-government-sanctions-kaspersky-executives/)
+- [When a dangerous asteroid threatens Earth, humanity will have to work together, NASA says](https://www.space.com/dangerous-asteroid-international-cooperation)
 - [Style DNA gets a generative AI chatbot that suggests outfit ideas based on your color type](https://techcrunch.com/2024/06/21/style-dna-generative-ai-fashion-stylist-app/)
-- [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/)
-- [Why smaller planets are better at building large moons](https://www.space.com/smaller-planets-large-moons)
-- [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/)
-- [Spotify launches a new Basic streaming plan in the US](https://techcrunch.com/2024/06/21/spotify-launches-a-new-basic-streaming-plan-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
