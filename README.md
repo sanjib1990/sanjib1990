@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Squarespace sells restaurant reservation system Tock to American Express for $400M](https://techcrunch.com/2024/06/21/squarespace-sells-restaurant-reservation-system-tock-to-american-express-for-400m/)
-- [Space photo of the week: &#39;Earthrise,&#39; the Christmas Eve image that changed the world](https://www.space.com/earthrise-christmas-eve-image-that-changed-the-world)
-- [Change Healthcare confirms ransomware hackers stole medical records on a ‘substantial proportion’ of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/)
-- [Google pauses its experiment that permitted real-money games on the Play Store](https://techcrunch.com/2024/06/21/google-is-pausing-its-experiment-of-allowing-real-money-games-on-the-play-store/)
-- [Strawberry Solstice Moon of June 2024 shines tonight for summer stargazers &lpar;video&rpar;](https://www.space.com/june-full-moon-strawberry-solstice-big-dipper)
+- [Style DNA gets a generative AI chatbot that suggests outfit ideas based on your color type](https://techcrunch.com/2024/06/21/style-dna-generative-ai-fashion-stylist-app/)
+- [Khosla-backed Marble, built by former Headway founders, offers affordable group therapy for teens](https://techcrunch.com/2024/06/21/khosla-backed-marble-built-by-former-headway-founders-offers-affordable-group-therapy-for-teens/)
+- [Why smaller planets are better at building large moons](https://www.space.com/smaller-planets-large-moons)
+- [A new startup from Figure’s founder is licensing NASA tech in a bid to curb school shootings](https://techcrunch.com/2024/06/21/a-new-startup-from-figures-founder-is-licensing-nasa-tech-in-a-bid-to-curb-school-shootings/)
+- [Spotify launches a new Basic streaming plan in the US](https://techcrunch.com/2024/06/21/spotify-launches-a-new-basic-streaming-plan-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
