@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch SpaceX&#39;s Falcon Heavy rocket launch NOAA&#39;s GOES-U satellite on June 25](https://www.space.com/spacex-falcon-heavy-goes-u-noaa-satellite-how-to-watch)
+- [Hacker claims to have 30 million customer records from Australian ticket seller giant TEG](https://techcrunch.com/2024/06/21/hacker-claims-to-have-30-million-customer-records-from-australian-ticket-seller-giant-teg/)
+- [The rotation of Earth&#39;s inner core is slowing down](https://www.space.com/rotation-earth-inner-core-slowing-down)
 - [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/)
 - [Dot’s AI really, really wants to get to know you](https://techcrunch.com/2024/06/21/dots-ai-really-really-wants-to-get-to-know-you/)
-- [E-fuels startup Aether Fuels is raising $34.3 million, per filing](https://techcrunch.com/2024/06/21/e-fuels-startup-aether-fuels-is-raising-34-3-million-per-filing/)
-- [Summer solstice 2024 is here! See celebrations at Stonehenge and beyond &lpar;photos&rpar;](https://www.space.com/summer-solstice-june-2024-photos)
-- [Virgin Galactic announces international crew for flight on new Delta class space plane](https://www.space.com/virgin-galactic-1st-irish-private-astronaut-delta-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
