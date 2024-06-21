@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn&#39;s planet-wide storms driven by seasonal heating, Cassini probe reveals](https://www.space.com/saturn-seasonal-heat-storms-cassini)
+- [Google is making your movie and TV reviews visible under a new profile page](https://techcrunch.com/2024/06/21/google-is-making-your-movie-and-tv-reviews-visible-under-a-new-profile-page/)
 - [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/)
 - [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/)
 - [How neutron stars &#39;playing it cool&#39; could unlock exotic physics](https://www.space.com/neutron-stars-playing-it-cool-unlock-exotic-physics)
-- [SpaceX debuts portable Starlink Mini for $599](https://techcrunch.com/2024/06/20/spacex-debuts-portable-starlink-mini-for-599/)
-- [Surf&#39;s up! Liquid methane waves on Saturn moon Titan may erode shores of alien lakes and rivers](https://www.space.com/saturn-moon-titan-waves-eroding-lakes-rivers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
