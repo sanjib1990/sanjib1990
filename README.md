@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/)
+- [Dot’s AI really, really wants to get to know you](https://techcrunch.com/2024/06/21/dots-ai-really-really-wants-to-get-to-know-you/)
+- [E-fuels startup Aether Fuels is raising $34.3 million, per filing](https://techcrunch.com/2024/06/21/e-fuels-startup-aether-fuels-is-raising-34-3-million-per-filing/)
 - [Summer solstice 2024 is here! See celebrations at Stonehenge and beyond &lpar;photos&rpar;](https://www.space.com/summer-solstice-june-2024-photos)
 - [Virgin Galactic announces international crew for flight on new Delta class space plane](https://www.space.com/virgin-galactic-1st-irish-private-astronaut-delta-flight)
-- [Fisker faced financial distress as early as last August](https://techcrunch.com/2024/06/21/fisker-bankruptcy-filings-distress-assets/)
-- [Cruise clears key hurdle to getting robotaxis back on roads in California](https://techcrunch.com/2024/06/21/cruise-clears-key-hurdle-to-getting-robotaxis-back-on-roads-in-california/)
-- [Pitch Deck Teardown: Feel Therapeutics’ $3.5M seed deck](https://techcrunch.com/2024/06/21/sample-seed-pitch-deck-feel-therapeutics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
