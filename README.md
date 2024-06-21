@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kevin Hartz’s A* raises its second oversubscribed fund in two years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-two-years/)
+- [Pentagon picks SpaceX, Blue Origin and ULA for $5.6 billion launch deal](https://www.space.com/spacex-blue-origin-space-force-launch-contracts-2025-2029)
+- [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-two-years/)
 - [Saturn&#39;s planet-wide storms driven by seasonal heating, Cassini probe reveals](https://www.space.com/saturn-seasonal-heat-storms-cassini)
 - [Google is making your movie and TV reviews visible under a new profile page](https://techcrunch.com/2024/06/21/google-is-making-your-movie-and-tv-reviews-visible-under-a-new-profile-page/)
 - [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/)
-- [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
