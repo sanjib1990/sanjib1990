@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Squarespace sells restaurant reservation system Tock to American Express for $400M](https://techcrunch.com/2024/06/21/squarespace-sells-restaurant-reservation-system-tock-to-american-express-for-400m/)
+- [Space photo of the week: &#39;Earthrise,&#39; the Christmas Eve image that changed the world](https://www.space.com/earthrise-christmas-eve-image-that-changed-the-world)
+- [Change Healthcare confirms ransomware hackers stole medical records on a ‘substantial proportion’ of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/)
+- [Google pauses its experiment that permitted real-money games on the Play Store](https://techcrunch.com/2024/06/21/google-is-pausing-its-experiment-of-allowing-real-money-games-on-the-play-store/)
 - [Strawberry Solstice Moon of June 2024 shines tonight for summer stargazers &lpar;video&rpar;](https://www.space.com/june-full-moon-strawberry-solstice-big-dipper)
-- [Pentagon picks SpaceX, Blue Origin and ULA for $5.6 billion launch deal](https://www.space.com/spacex-blue-origin-space-force-launch-contracts-2025-2029)
-- [Kevin Hartz’s A* raises its second oversubscribed fund in three years](https://techcrunch.com/2024/06/21/kevin-hartzs-a-raises-its-second-oversubscribed-fund-in-two-years/)
-- [Saturn&#39;s planet-wide storms driven by seasonal heating, Cassini probe reveals](https://www.space.com/saturn-seasonal-heat-storms-cassini)
-- [Google is making your movie and TV reviews visible under a new profile page](https://techcrunch.com/2024/06/21/google-is-making-your-movie-and-tv-reviews-visible-under-a-new-profile-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
