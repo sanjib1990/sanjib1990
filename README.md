@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Predator lands in Wakanda in new &#39;Predator vs Black Panther&#39; series](https://www.space.com/predator-wakanda-black-panther-marvel-comics)
-- [OpenAI buys Rockset to bolster its enterprise AI](https://techcrunch.com/2024/06/21/openai-buys-rockset-to-bolster-its-enterprise-ai/)
-- [U.S. government sanctions Kaspersky executives](https://techcrunch.com/2024/06/21/u-s-government-sanctions-kaspersky-executives/)
-- [When a dangerous asteroid threatens Earth, humanity will have to work together, NASA says](https://www.space.com/dangerous-asteroid-international-cooperation)
-- [Style DNA gets a generative AI chatbot that suggests outfit ideas based on your color type](https://techcrunch.com/2024/06/21/style-dna-generative-ai-fashion-stylist-app/)
+- [Summer solstice 2024 is here! See celebrations at Stonehenge and beyond &lpar;photos&rpar;](https://www.space.com/summer-solstice-june-2024-photos)
+- [Virgin Galactic announces international crew for flight on new Delta class space plane](https://www.space.com/virgin-galactic-1st-irish-private-astronaut-delta-flight)
+- [Fisker faced financial distress as early as last August](https://techcrunch.com/2024/06/21/fisker-bankruptcy-filings-distress-assets/)
+- [Cruise clears key hurdle to getting robotaxis back on roads in California](https://techcrunch.com/2024/06/21/cruise-clears-key-hurdle-to-getting-robotaxis-back-on-roads-in-california/)
+- [Pitch Deck Teardown: Feel Therapeutics’ $3.5M seed deck](https://techcrunch.com/2024/06/21/sample-seed-pitch-deck-feel-therapeutics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
