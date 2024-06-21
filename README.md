@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The fight over Fisker’s assets is already heating up](https://techcrunch.com/2024/06/21/fisker-chapter-11-bankruptcy-heights-creditors-fight/)
 - [How to watch SpaceX&#39;s Falcon Heavy rocket launch NOAA&#39;s GOES-U satellite on June 25](https://www.space.com/spacex-falcon-heavy-goes-u-noaa-satellite-how-to-watch)
 - [Hacker claims to have 30 million customer records from Australian ticket seller giant TEG](https://techcrunch.com/2024/06/21/hacker-claims-to-have-30-million-customer-records-from-australian-ticket-seller-giant-teg/)
 - [The rotation of Earth&#39;s inner core is slowing down](https://www.space.com/rotation-earth-inner-core-slowing-down)
 - [Tesla makes Musk best-paid CEO of all time and Fisker bites the dust](https://techcrunch.com/2024/06/21/tesla-makes-musk-best-paid-ceo-of-all-time-and-fisker-bites-the-dust/)
-- [Dot’s AI really, really wants to get to know you](https://techcrunch.com/2024/06/21/dots-ai-really-really-wants-to-get-to-know-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
