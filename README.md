@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ex-OpenAI genius launches new “Super Intelligence” company](https://www.youtube.com/watch?v=hUrrHPVHeLM)
-- [Robust Science with Prof. Rebecca Saxe](https://www.youtube.com/watch?v=SD-zfFTUzBs)
-- [5 wild new AI tools you can try right now](https://www.youtube.com/watch?v=BY81yNttfpg)
-- [Ruby on Rails in 100 Seconds](https://www.youtube.com/watch?v=2DvrRadXwWY)
-- [lol Apple Intelligence is dumb...](https://www.youtube.com/watch?v=ek2yOqAIYuU)
+- [Lesson 9 Part 1](https://www.youtube.com/watch?v=cq1xaqfhQBs)
+- [Lesson 10 Part 2](https://www.youtube.com/watch?v=Vlcmr36tCoE)
+- [Lesson 6 Part 2](https://www.youtube.com/watch?v=686ztUBxG4g)
+- [Lesson 8 Part 1](https://www.youtube.com/watch?v=JiLa3tBXlpY)
+- [Lesson 9 Part 2](https://www.youtube.com/watch?v=jZdsGxZuxCM)
 <!-- YOUTUBE:END -->
 
 ---
