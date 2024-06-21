@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zepto, a 10-minute delivery app, raises $665 million at $3.6 billion valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/)
+- [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/)
 - [How neutron stars &#39;playing it cool&#39; could unlock exotic physics](https://www.space.com/neutron-stars-playing-it-cool-unlock-exotic-physics)
 - [SpaceX debuts portable Starlink Mini for $599](https://techcrunch.com/2024/06/20/spacex-debuts-portable-starlink-mini-for-599/)
 - [Surf&#39;s up! Liquid methane waves on Saturn moon Titan may erode shores of alien lakes and rivers](https://www.space.com/saturn-moon-titan-waves-eroding-lakes-rivers)
-- [Brex’s compliance head has left the fintech startup to join Andreessen Horowitz as a partner](https://techcrunch.com/2024/06/20/brexs-compliance-head-has-left-the-fintech-startup-to-join-andreessen-horowitz-as-a-partner/)
-- [US bans sale of Kaspersky software citing security risk from Russia](https://techcrunch.com/2024/06/20/us-bans-kaspersky-software-security-risk-russia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
