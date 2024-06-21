@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zepto, a 10-minute delivery app, raises $665 million at $3.6 billion valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/)
+- [Zepto, a 10-minute delivery app, raises $665M at $3.6B valuation](https://techcrunch.com/2024/06/20/zepto-a-10-minute-delivery-app-raises-665-million-at-3-6-billion-valuation/)
 - [Language learning app Speak nets $20M, doubles valuation](https://techcrunch.com/2024/06/20/language-learning-app-speak-nets-20m-doubles-valuation/)
 - [How neutron stars &#39;playing it cool&#39; could unlock exotic physics](https://www.space.com/neutron-stars-playing-it-cool-unlock-exotic-physics)
 - [SpaceX debuts portable Starlink Mini for $599](https://techcrunch.com/2024/06/20/spacex-debuts-portable-starlink-mini-for-599/)
