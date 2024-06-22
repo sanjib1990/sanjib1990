@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 116 —Spreading the Good Word](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-116-spreading-good-word)
 - [Sweet Strawberry Moon, first full moon of summer, thrills stargazers around the world &lpar;photos&rpar;](https://www.space.com/marvelous-strawberry-moon-sweetens-skies-photos)
 - [James Webb Space Telescope spies never-before-seen star behavior in distant nebula &lpar;video, photo&rpar;](https://www.space.com/james-webb-space-telescope-serpens-nebula-jets-photo)
 - [How SpaceShipOne&#39;s historic launch 20 years ago paved the way for a new space tourism era](https://www.space.com/spaceshipone-first-private-spaceflight-20-year-anniversary)
 - [NASA, Boeing delay Starliner astronaut landing again, to study helium leaks and thruster issues](https://www.space.com/starliner-astronaut-mission-landing-delay-july-2024)
-- [Magnetic vortices may help feed supermassive black holes. Here&#39;s how](https://www.space.com/magnetic-vortices-supermassive-black-hole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
