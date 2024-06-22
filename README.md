@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, Boeing delay Starliner astronaut landing again, to study helium leaks and thruster issues](https://www.space.com/starliner-astronaut-mission-landing-delay-july-2024)
 - [Magnetic vortices may help feed supermassive black holes. Here&#39;s how](https://www.space.com/magnetic-vortices-supermassive-black-hole)
 - [Is there liquid water on Mars today? Marsquake data could tell us](https://www.space.com/marsquakes-liquid-water-mars-insight-lander)
 - [Gaia space telescope helps astronomers image hidden objects around bright stars](https://www.space.com/gaia-space-telescope-hidden-stellar-companions)
 - [The fight over Fisker’s assets is already heating up](https://techcrunch.com/2024/06/21/fisker-chapter-11-bankruptcy-heights-creditors-fight/)
-- [How to watch SpaceX&#39;s Falcon Heavy rocket launch NOAA&#39;s GOES-U satellite on June 25](https://www.space.com/spacex-falcon-heavy-goes-u-noaa-satellite-how-to-watch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
