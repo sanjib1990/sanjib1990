@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is your brain on Pink Floyd](https://techcrunch.com/2024/06/22/this-is-your-brain-on-pink-floyd/)
 - [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/)
 - [What does ‘open source AI’ mean, anyway?](https://techcrunch.com/2024/06/22/what-does-open-source-ai-mean-anyway/)
 - [This Week In Space podcast: Episode 116 —Spreading the Good Word](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-116-spreading-good-word)
 - [Sweet Strawberry Moon, first full moon of summer, thrills stargazers around the world &lpar;photos&rpar;](https://www.space.com/marvelous-strawberry-moon-sweetens-skies-photos)
-- [James Webb Space Telescope spies never-before-seen star behavior in distant nebula &lpar;video, photo&rpar;](https://www.space.com/james-webb-space-telescope-serpens-nebula-jets-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
