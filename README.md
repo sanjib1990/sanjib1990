@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Charlette N’Guessan is tackling data scarcity on the African continent](https://techcrunch.com/2024/06/22/women-in-ai-charlette-nguessan-is-tackling-data-scarcity-on-the-african-continent/)
+- [‘What’s in it for us?’ journalists ask as publications sign content deals with AI firms](https://techcrunch.com/2024/06/22/whats-in-it-for-us-journalists-ask-as-publications-sign-content-deals-with-openai/)
 - [This is your brain on Pink Floyd](https://techcrunch.com/2024/06/22/this-is-your-brain-on-pink-floyd/)
 - [Deal Dive: Sir Jack A Lot returns with a startup for retail traders](https://techcrunch.com/2024/06/22/deal-dive-sir-jack-a-lot-returns-with-a-startup-for-retail-traders/)
 - [What does ‘open source AI’ mean, anyway?](https://techcrunch.com/2024/06/22/what-does-open-source-ai-mean-anyway/)
-- [This Week In Space podcast: Episode 116 —Spreading the Good Word](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-116-spreading-good-word)
-- [Sweet Strawberry Moon, first full moon of summer, thrills stargazers around the world &lpar;photos&rpar;](https://www.space.com/marvelous-strawberry-moon-sweetens-skies-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
