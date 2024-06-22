@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How SpaceShipOne&#39;s historic launch 20 years ago paved the way for a new space tourism era](https://www.space.com/spaceshipone-first-private-spaceflight-20-year-anniversary)
 - [NASA, Boeing delay Starliner astronaut landing again, to study helium leaks and thruster issues](https://www.space.com/starliner-astronaut-mission-landing-delay-july-2024)
 - [Magnetic vortices may help feed supermassive black holes. Here&#39;s how](https://www.space.com/magnetic-vortices-supermassive-black-hole)
 - [Is there liquid water on Mars today? Marsquake data could tell us](https://www.space.com/marsquakes-liquid-water-mars-insight-lander)
 - [Gaia space telescope helps astronomers image hidden objects around bright stars](https://www.space.com/gaia-space-telescope-hidden-stellar-companions)
-- [The fight over Fisker’s assets is already heating up](https://techcrunch.com/2024/06/21/fisker-chapter-11-bankruptcy-heights-creditors-fight/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
