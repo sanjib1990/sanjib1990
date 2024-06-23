@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Anika Collier Navaroli is working to shift the power imbalance](https://techcrunch.com/2024/06/23/women-in-ai-anika-collier-navaroli-is-working-to-shift-the-power-imbalance/)
 - [The EU Digital Identity Wallet: Everything you need to know about the EU’s plans for a universal digital identity system](https://techcrunch.com/2024/06/23/the-eu-digital-identity-wallet-everything-you-need-to-know-about-the-eus-plans-for-a-universal-digital-identity-system/)
 - [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/)
 - [Apple might partner with Meta on AI](https://techcrunch.com/2024/06/23/apple-might-partner-with-meta-on-ai/)
 - [Planet Nine: Is the search for this elusive world nearly over?](https://www.space.com/planet-nine-is-the-search-nearly-over)
-- [How 2 high school teens raised a $500K seed round for their API startup &lpar;yes, it’s AI&rpar;](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
