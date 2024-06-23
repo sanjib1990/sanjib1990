@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/)
+- [Apple might partner with Meta on AI](https://techcrunch.com/2024/06/23/apple-might-partner-with-meta-on-ai/)
 - [Planet Nine: Is the search for this elusive world nearly over?](https://www.space.com/planet-nine-is-the-search-nearly-over)
 - [How 2 high school teens raised a $500K seed round for their API startup &lpar;yes, it’s AI&rpar;](https://techcrunch.com/2024/06/23/how-2-high-school-teens-raised-500000-dollars-seed-round-apigen-ai-startup/)
 - [New &#39;Star Wars Outlaws&#39; gameplay trailer dives into the galactic underworld &lpar;video&rpar;](https://www.space.com/star-wars-outlaws-extended-gameplay-reveal)
-- [&#39;Star Trek: Prodigy&#39; warps into Season 2 with new Netflix trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-prodigy-zooms-into-season-2-with-new-netflix-trailer-and-bold-key-art)
-- [How the GOES U satellite will change Earth and space weather forecasts forever](https://www.space.com/goes-u-satellite-space-earth-weather-forecasts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
