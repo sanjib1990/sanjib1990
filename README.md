@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance Mars rover digs into intriguing &#39;Bright Angel&#39; rock formation &lpar;photo&rpar;](https://www.space.com/perseverance-mars-rover-bright-angel-science)
 - [Ilya Sutskever isn’t done working on AI safety](https://techcrunch.com/2024/06/22/ilya-sutskever-isnt-done-working-on-ai-safety/)
 - [X still has a Verified bot problem — this time they came for TechCrunch writers](https://techcrunch.com/2024/06/22/x-still-has-a-verified-bot-problem-this-time-they-came-for-techcrunch-writers/)
 - [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/)
 - [Women in AI: Charlette N’Guessan is tackling data scarcity on the African continent](https://techcrunch.com/2024/06/22/women-in-ai-charlette-nguessan-is-tackling-data-scarcity-on-the-african-continent/)
-- [‘What’s in it for us?’ journalists ask as publications sign content deals with AI firms](https://techcrunch.com/2024/06/22/whats-in-it-for-us-journalists-ask-as-publications-sign-content-deals-with-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
