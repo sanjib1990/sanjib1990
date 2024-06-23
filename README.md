@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Prodigy&#39; warps into Season 2 with new Netflix trailer &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/star-trek-prodigy-zooms-into-season-2-with-new-netflix-trailer-and-bold-key-art)
 - [How the GOES U satellite will change Earth and space weather forecasts forever](https://www.space.com/goes-u-satellite-space-earth-weather-forecasts)
 - [Perseverance Mars rover digs into intriguing &#39;Bright Angel&#39; rock formation &lpar;photo&rpar;](https://www.space.com/perseverance-mars-rover-bright-angel-science)
 - [Ilya Sutskever isn’t done working on AI safety](https://techcrunch.com/2024/06/22/ilya-sutskever-isnt-done-working-on-ai-safety/)
 - [X still has a Verified bot problem — this time they came for TechCrunch writers](https://techcrunch.com/2024/06/22/x-still-has-a-verified-bot-problem-this-time-they-came-for-techcrunch-writers/)
-- [OmniAI transforms business data for AI](https://techcrunch.com/2024/06/22/omniai-transforms-business-data-for-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
