@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [Could we launch resources from the moon with electromagnetic railguns?](https://www.space.com/electromagnetic-launch-moon-mass-drive)
 - [Will Boeing Starliner issues delay its 1st long-duration astronaut flight? It’s too soon to tell.](https://www.space.com/crew-flight-test-starliner-1-certification-schedule-question)
 - [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/)
 - [​​What Vinod Khosla Says He’s ‘Worried About the Most’](https://techcrunch.com/2024/06/23/what-vinod-khosla-says-hes-worried-about-the-most/)
-- [Meta makes its AI chatbot available to all users in India](https://techcrunch.com/2024/06/23/meta-makes-its-ai-chatbot-available-to-all-users-in-india/)
-- [Streaming execs think TV’s future looks a lot like its past](https://techcrunch.com/2024/06/23/streaming-execs-think-tvs-future-looks-a-lot-like-its-past/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
