@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Experts say Telegram’s ’30 engineers’ team is a security red flag](https://techcrunch.com/2024/06/24/experts-say-telegrams-30-engineers-team-is-a-security-red-flag/)
+- [Jeff Bezos&#39; Blue Origin could soon launch Nigeria&#39;s 1st-ever space tourist](https://www.space.com/first-nigerian-space-blue-origin-new-shepard)
 - [Supermassive black hole winds blowing at 36 million miles per hour can sculpt entire galaxies](https://www.space.com/supermassive-black-holes-winds-quasars)
-- [NASA sued after space junk from ISS crashes into Florida family&#39;s home](https://www.space.com/space-debris-florida-family-nasa-lawsuit)
+- [Florida family files claim with NASA after ISS space junk crashes into home](https://www.space.com/space-debris-florida-family-nasa-lawsuit)
 - [Air sealed in Perseverance&#39;s Mars sample return tubes is as precious as the rocks themselves](https://www.space.com/air-sealed-perseverance-mars-rover-sample-tubes)
-- [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/)
-- [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
