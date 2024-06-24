@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA cancels ISS spacewalk due to spacesuit coolant leak](https://www.space.com/international-space-station-spacewalk-coolant-leak-postpone)
-- [SpaceX launches Starlink missions in spaceflight doubleheader &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-doubleheader-launch-june-2024)
+- [Car dealership outages drag on after CDK cyberattacks](https://techcrunch.com/2024/06/24/car-dealership-outages-drag-on-after-cdk-cyberattack/)
+- [How long would it take to reach Planet 9, if we ever find it?](https://www.space.com/how-long-would-it-take-to-reach-planet-9)
+- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/)
+- [Google is bringing Gemini access to teens using their school accounts](https://techcrunch.com/2024/06/24/google-is-bringing-gemini-access-to-teens-using-their-school-accounts/)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Apple’s App Store breaches EU’s Digital Markets Act](https://techcrunch.com/2024/06/24/apples-app-store-breaches-eus-digital-markets-act/)
-- [Neutron star collisions could briefly trap a bunch of cosmic ghosts](https://www.space.com/neutron-star-merger-neutrinos-ghost-particles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
