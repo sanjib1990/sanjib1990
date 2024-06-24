@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Air sealed in Perseverance&#39;s Mars sample return tubes is as precious as the rocks themselves](https://www.space.com/air-sealed-perseverance-mars-rover-sample-tubes)
+- [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/)
+- [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/)
 - [Watch Scarlett Johansson fake a moon landing in new &#39;Fly Me To The Moon&#39; trailer &lpar;video&rpar;](https://www.space.com/fly-me-to-the-moon-final-trailer)
 - [Car dealership outages drag on after CDK cyberattacks](https://techcrunch.com/2024/06/24/car-dealership-outages-drag-on-after-cdk-cyberattack/)
-- [How long would it take to reach Planet 9, if we ever find it?](https://www.space.com/how-long-would-it-take-to-reach-planet-9)
-- [Matt Rogers, Nest and Mill co-founder, talks mastering consumer tech at Disrupt 2024](https://techcrunch.com/2024/06/24/matt-rogers-nest-and-mill-co-founder-talks-mastering-consumer-tech-at-disrupt-2024/)
-- [Google is bringing Gemini access to teens using their school accounts](https://techcrunch.com/2024/06/24/google-is-bringing-gemini-access-to-teens-using-their-school-accounts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
