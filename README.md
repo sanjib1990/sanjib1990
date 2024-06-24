@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prosus zeroes out 9.6% Byju’s stake](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/)
+- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/)
 - [​​What Vinod Khosla Says He’s ‘Worried About the Most’](https://techcrunch.com/2024/06/23/what-vinod-khosla-says-hes-worried-about-the-most/)
 - [Meta makes its AI chatbot available to all users in India](https://techcrunch.com/2024/06/23/meta-makes-its-ai-chatbot-available-to-all-users-in-india/)
 - [Streaming execs think TV’s future looks a lot like its past](https://techcrunch.com/2024/06/23/streaming-execs-think-tvs-future-looks-a-lot-like-its-past/)
