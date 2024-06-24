@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [​​What Vinod Khosla Says He’s ‘Worried About the Most’](https://techcrunch.com/2024/06/23/what-vinod-khosla-says-hes-worried-about-the-most/)
 - [Meta makes its AI chatbot available to all users in India](https://techcrunch.com/2024/06/23/meta-makes-its-ai-chatbot-available-to-all-users-in-india/)
 - [Streaming execs think TV’s future looks a lot like its past](https://techcrunch.com/2024/06/23/streaming-execs-think-tvs-future-looks-a-lot-like-its-past/)
 - [Women in AI: Anika Collier Navaroli is working to shift the power imbalance](https://techcrunch.com/2024/06/23/women-in-ai-anika-collier-navaroli-is-working-to-shift-the-power-imbalance/)
 - [The EU Digital Identity Wallet: Everything you need to know about the EU’s plans for a universal digital identity system](https://techcrunch.com/2024/06/23/the-eu-digital-identity-wallet-everything-you-need-to-know-about-the-eus-plans-for-a-universal-digital-identity-system/)
-- [Silicon Valley leaders are once again declaring ‘DEI’ bad and ‘meritocracy’ good — but they’re wrong](https://techcrunch.com/2024/06/23/silicon-valley-leaders-are-once-again-declaring-dei-bad-and-meritocracy-good-but-theyre-wrong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
