@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA cancels ISS spacewalk due to spacesuit coolant leak](https://www.space.com/international-space-station-spacewalk-coolant-leak-postpone)
+- [SpaceX launches Starlink missions in spaceflight doubleheader &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-doubleheader-launch-june-2024)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Apple’s App Store breaches EU’s Digital Markets Act](https://techcrunch.com/2024/06/24/apples-app-store-breaches-eus-digital-markets-act/)
 - [Neutron star collisions could briefly trap a bunch of cosmic ghosts](https://www.space.com/neutron-star-merger-neutrinos-ghost-particles)
-- [Mixhalo’s latest feature uses AI to beam real-time translation to phones at events](https://techcrunch.com/2024/06/24/mixhalos-latest-feature-uses-ai-to-beam-real-time-translation-to-phones-at-events/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
