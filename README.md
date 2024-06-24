@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supermassive black hole winds blowing at 36 million miles per hour can sculpt entire galaxies](https://www.space.com/supermassive-black-holes-winds-quasars)
 - [NASA sued after space junk from ISS crashes into Florida family&#39;s home](https://www.space.com/space-debris-florida-family-nasa-lawsuit)
 - [Air sealed in Perseverance&#39;s Mars sample return tubes is as precious as the rocks themselves](https://www.space.com/air-sealed-perseverance-mars-rover-sample-tubes)
 - [Emergence thinks it can crack the AI agent code](https://techcrunch.com/2024/06/24/emergence-thinks-it-can-crack-the-ai-agent-code/)
 - [OpenAI buys a remote collaboration platform](https://techcrunch.com/2024/06/24/openai-buys-a-remote-collaboration-platform/)
-- [Watch Scarlett Johansson fake a moon landing in new &#39;Fly Me To The Moon&#39; trailer &lpar;video&rpar;](https://www.space.com/fly-me-to-the-moon-final-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
