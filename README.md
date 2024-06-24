@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s App Store breaches EU’s Digital Markets Act](https://techcrunch.com/2024/06/24/apples-app-store-breaches-eus-digital-markets-act/)
+- [Neutron star collisions could briefly trap a bunch of cosmic ghosts](https://www.space.com/neutron-star-merger-neutrinos-ghost-particles)
+- [Mixhalo’s latest feature uses AI to beam real-time translation to phones at events](https://techcrunch.com/2024/06/24/mixhalos-latest-feature-uses-ai-to-beam-real-time-translation-to-phones-at-events/)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [Could we launch resources from the moon with electromagnetic railguns?](https://www.space.com/electromagnetic-launch-moon-mass-drive)
-- [Will Boeing Starliner issues delay its 1st long-duration astronaut flight? It’s too soon to tell.](https://www.space.com/crew-flight-test-starliner-1-certification-schedule-question)
-- [Prosus zeroes out its 9.6% stake in Byju’s](https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/)
-- [​​What Vinod Khosla Says He’s ‘Worried About the Most’](https://techcrunch.com/2024/06/23/what-vinod-khosla-says-hes-worried-about-the-most/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
