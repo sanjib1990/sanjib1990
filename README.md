@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive radio telescope array investigates the birth of planets around twin stars](https://www.space.com/twin-star-system-alma-investigation)
 - [Experts say Telegram’s ’30 engineers’ team is a security red flag](https://techcrunch.com/2024/06/24/experts-say-telegrams-30-engineers-team-is-a-security-red-flag/)
 - [Jeff Bezos&#39; Blue Origin could soon launch Nigeria&#39;s 1st-ever space tourist](https://www.space.com/first-nigerian-space-blue-origin-new-shepard)
 - [Supermassive black hole winds blowing at 36 million miles per hour can sculpt entire galaxies](https://www.space.com/supermassive-black-holes-winds-quasars)
 - [Florida family files claim with NASA after ISS space junk crashes into home](https://www.space.com/space-debris-florida-family-nasa-lawsuit)
-- [Air sealed in Perseverance&#39;s Mars sample return tubes is as precious as the rocks themselves](https://www.space.com/air-sealed-perseverance-mars-rover-sample-tubes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
