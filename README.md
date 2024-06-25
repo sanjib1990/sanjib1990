@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber Freight and self driving trucks startup Aurora partner for the long haul](https://techcrunch.com/2024/06/25/uber-freight-and-self-driving-trucks-startup-aurora-partner-for-the-long-haul/)
+- [EU accuses Microsoft of competition breach over Teams bundling](https://techcrunch.com/2024/06/25/eu-accuses-microsoft-of-competition-breach-over-teams-bundling/)
 - [This impossibly massive black hole wasn&#39;t very hungry during the dawn of time](https://www.space.com/supermassive-black-hole-cosmic-dawn-feeding)
 - [Snapchat introduces new safety features to limit bad actors from contacting users](https://techcrunch.com/2024/06/25/snapchat-introduces-new-safety-features-to-limit-strangers-contacting-users/)
 - [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/)
-- [Yelp updates app with AI-powered alt-text for images and new accessibility identifiers for businesses](https://techcrunch.com/2024/06/25/yelp-updates-app-with-ai-powered-alt-text-for-images-and-new-accessibility-identifiers-for-businesses/)
-- [H Venture Partners launches venture studio focused on microbiome tech](https://techcrunch.com/2024/06/25/h-venture-partners-launch-venture-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
