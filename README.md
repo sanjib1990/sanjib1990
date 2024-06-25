@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SkyCell nabs $59M more for its greener smart pharma transport containers](https://techcrunch.com/2024/06/25/skycell-nabs-59m-more-for-its-greener-smart-pharma-transport-containers/)
 - [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/)
 - [Amazon to hold Prime Day sales on July 16 and 17](https://techcrunch.com/2024/06/24/amazon-to-hold-prime-day-sales-on-july-16-and-17/)
 - [China returns samples from the moon&#39;s far side in historic 1st](https://www.space.com/china-chang-e-6-moon-far-side-samples-landing-earth)
 - [Connect Money scores $8M to enable non-bank businesses to offer embedded finance services](https://techcrunch.com/2024/06/24/connect-money-8-million-see/)
-- [Apple shelved the idea of integrating Meta’s AI models over privacy concerns, report says](https://techcrunch.com/2024/06/24/apple-shelved-the-idea-of-integrating-metas-ai-models-over-privacy-concerns-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
