@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope spots &#39;Cosmic Gems&#39; in the extremely early universe &lpar;video&rpar;](https://www.space.com/cosmic-gems-star-cluster-jwst)
 - [SpaceX Dragon capsule on display ahead of joining space shuttle LA exhibit](https://www.space.com/spacex-dragon-california-science-center-exhibit)
 - [The RIAA’s lawsuit against generative music startups will be the bloodbath AI needs](https://techcrunch.com/2024/06/25/the-riaas-lawsuit-against-generative-music-startups-will-be-the-bloodbath-ai-needs/)
 - [From Brex exec to venture capitalist](https://techcrunch.com/2024/06/25/from-brex-exec-to-venture-capitalist/)
 - [Threads users can now share to the open social web, aka the fediverse](https://techcrunch.com/2024/06/25/all-threads-users-can-now-share-to-the-open-social-web-aka-the-fediverse/)
-- [Do other planets have plate tectonics?](https://www.space.com/planets-exoplanets-plate-tectonics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
