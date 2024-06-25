@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Chang&#39;e 6 probe will soon bring samples of the moon&#39;s far side to Earth — and scientists are getting excited](https://www.space.com/change-6-sample-return-science-investigations-scientists)
+- [India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries](https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/)
 - [TechCrunch Space: Building &lpar;and testing&rpar; for the future](https://techcrunch.com/2024/06/24/techcrunch-space-building-and-testing-for-the-future/)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/)
 - [Massive radio telescope array investigates the birth of planets around twin stars](https://www.space.com/twin-star-system-alma-investigation)
-- [Experts say Telegram’s ’30 engineers’ team is a security red flag](https://techcrunch.com/2024/06/24/experts-say-telegrams-30-engineers-team-is-a-security-red-flag/)
-- [Jeff Bezos&#39; Blue Origin could soon launch Nigeria&#39;s 1st-ever space tourist](https://www.space.com/first-nigerian-space-blue-origin-new-shepard)
 <!-- BLOG-POST-LIST:END -->
 
 ---
