@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the fediverse: Your guide to Mastodon, Threads, Bluesky, and more](https://techcrunch.com/2024/06/25/welcome-to-the-fediverse-your-guide-to-mastodon-threads-bluesky-and-more/)
 - [This smiling robot face made of living skin is absolute nightmare fuel](https://techcrunch.com/2024/06/25/this-smiling-robot-face-made-of-living-skin-is-absolute-nightmare-fuel/)
 - [OpenAI delays ChatGPT’s new Voice Mode](https://techcrunch.com/2024/06/25/openai-delays-chatgpts-new-voice-mode/)
 - [GM’s Cruise taps Xbox video game veteran as next CEO](https://techcrunch.com/2024/06/25/gms-cruise-taps-xbox-video-game-veteran-as-next-ceo/)
 - [Powerful GOES-U weather satellite launches to orbit atop SpaceX Falcon Heavy rocket &lpar;video&rpar;](https://www.space.com/spacex-falcon-heavy-goes-u-weather-satellite-launch)
-- [ISS astronauts conduct &#39;spacewalk review&#39; after spacesuit coolant leak](https://www.space.com/iss-astronauts-spacewalk-review-spacesuit-coolant-leak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
