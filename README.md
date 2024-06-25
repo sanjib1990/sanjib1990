@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This smiling robot face made of living skin is absolute nightmare fuel](https://techcrunch.com/2024/06/25/this-smiling-robot-face-made-of-living-skin-is-absolute-nightmare-fuel/)
+- [OpenAI delays ChatGPT’s new Voice Mode](https://techcrunch.com/2024/06/25/openai-delays-chatgpts-new-voice-mode/)
+- [GM’s Cruise taps Xbox video game veteran as next CEO](https://techcrunch.com/2024/06/25/gms-cruise-taps-xbox-video-game-veteran-as-next-ceo/)
+- [Powerful GOES-U weather satellite launches to orbit atop SpaceX Falcon Heavy rocket &lpar;video&rpar;](https://www.space.com/spacex-falcon-heavy-goes-u-weather-satellite-launch)
 - [ISS astronauts conduct &#39;spacewalk review&#39; after spacesuit coolant leak](https://www.space.com/iss-astronauts-spacewalk-review-spacesuit-coolant-leak)
-- [ChatGPT for Mac is now available to all](https://techcrunch.com/2024/06/25/chatgpt-for-mac-is-now-available-to-all/)
-- [VW to invest up to $5B into Rivian in software deal](https://techcrunch.com/2024/06/25/vw-to-invest-up-to-5b-into-rivian-in-software-deal/)
-- [Europe&#39;s new Ariane 6 rocket on track for long-awaited 1st launch on July 9](https://www.space.com/ariane-6-rehearsal-success-first-launch-july-19)
-- [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
