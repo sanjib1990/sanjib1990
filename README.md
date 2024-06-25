@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Dragon capsule on display ahead of joining space shuttle LA exhibit](https://www.space.com/spacex-dragon-california-science-center-exhibit)
+- [The RIAA’s lawsuit against generative music startups will be the bloodbath AI needs](https://techcrunch.com/2024/06/25/the-riaas-lawsuit-against-generative-music-startups-will-be-the-bloodbath-ai-needs/)
 - [From Brex exec to venture capitalist](https://techcrunch.com/2024/06/25/from-brex-exec-to-venture-capitalist/)
 - [Threads users can now share to the open social web, aka the fediverse](https://techcrunch.com/2024/06/25/all-threads-users-can-now-share-to-the-open-social-web-aka-the-fediverse/)
 - [Do other planets have plate tectonics?](https://www.space.com/planets-exoplanets-plate-tectonics)
-- [Firefox now lets you choose your preferred AI chatbot in its Nightly builds](https://techcrunch.com/2024/06/25/firefox-now-lets-you-choose-your-preferred-ai-chatbot-in-its-nightly-builds/)
-- [Circular will pay competitor Oura royalties to sell its smart ring in the US](https://techcrunch.com/2024/06/25/circular-will-pay-competitor-oura-royalties-to-sell-its-smart-ring-in-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
