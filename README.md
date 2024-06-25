@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo opens up San Francisco robotaxi service to everyone](https://techcrunch.com/2024/06/25/waymo-opens-up-san-francisco-robotaxi-service-to-everyone/)
-- [Marvel superheroes battle bloodthirsty Xenomorphs in new &#39;Alien&#39; variant covers](https://www.space.com/marvel-vs-aliens-variant-comic-covers)
-- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/)
-- [Maximize your deal flow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/25/maximize-your-deal-flow-at-techcrunch-disrupt-2024/)
-- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/)
+- [Circular will pay competitor Oura royalties to sell its smart ring in the US](https://techcrunch.com/2024/06/25/circular-will-pay-competitor-oura-royalties-to-sell-its-smart-ring-in-the-us/)
+- [Sprites from space! Astronaut photographs rare red lightning phenomenon from ISS](https://www.space.com/iss-red-lightning-sprite-thunderstorm-image)
+- [Inspired by Gen Z, Pinterest users can now turn boards into videos for sharing on Instagram and TikTok](https://techcrunch.com/2024/06/25/inspired-by-gen-z-pinterest-users-can-now-turn-boards-into-videos-for-sharing-on-instagram-and-tiktok/)
+- [Stability AI lands a lifeline from Sean Parker, Greycroft](https://techcrunch.com/2024/06/25/stability-ai-lands-a-lifeline-from-sean-parker-greycroft/)
+- [Internet goes dark in Kenya in the wake of major protests over finance bill](https://techcrunch.com/2024/06/25/internet-goes-dark-in-kenya-in-the-wake-of-major-protests-over-finance-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
