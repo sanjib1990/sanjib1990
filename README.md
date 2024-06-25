@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SkyCell nabs $59M more for its greener smart pharma transport containers](https://techcrunch.com/2024/06/25/skycell-nabs-59m-more-for-its-greener-smart-pharma-transport-containers/)
-- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/)
-- [Amazon to hold Prime Day sales on July 16 and 17](https://techcrunch.com/2024/06/24/amazon-to-hold-prime-day-sales-on-july-16-and-17/)
-- [China returns samples from the moon&#39;s far side in historic 1st](https://www.space.com/china-chang-e-6-moon-far-side-samples-landing-earth)
-- [Connect Money scores $8M to enable non-bank businesses to offer embedded finance services](https://techcrunch.com/2024/06/24/connect-money-8-million-see/)
+- [This impossibly massive black hole wasn&#39;t very hungry during the dawn of time](https://www.space.com/supermassive-black-hole-cosmic-dawn-feeding)
+- [Snapchat introduces new safety features to limit bad actors from contacting users](https://techcrunch.com/2024/06/25/snapchat-introduces-new-safety-features-to-limit-strangers-contacting-users/)
+- [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/)
+- [Yelp updates app with AI-powered alt-text for images and new accessibility identifiers for businesses](https://techcrunch.com/2024/06/25/yelp-updates-app-with-ai-powered-alt-text-for-images-and-new-accessibility-identifiers-for-businesses/)
+- [H Venture Partners launches venture studio focused on microbiome tech](https://techcrunch.com/2024/06/25/h-venture-partners-launch-venture-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
