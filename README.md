@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s new Ariane 6 rocket on track for long-awaited 1st launch on July 9](https://www.space.com/ariane-6-rehearsal-success-first-launch-july-19)
+- [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/)
+- [Reddit’s upcoming changes attempt to safeguard the platform against AI crawlers](https://techcrunch.com/2024/06/25/reddits-upcoming-changes-attempt-to-safeguard-the-platform-against-ai-crawlers/)
 - [James Webb Space Telescope spots &#39;Cosmic Gems&#39; in the extremely early universe &lpar;video&rpar;](https://www.space.com/cosmic-gems-star-cluster-jwst)
 - [SpaceX Dragon capsule on display ahead of joining space shuttle LA exhibit](https://www.space.com/spacex-dragon-california-science-center-exhibit)
-- [The RIAA’s lawsuit against generative music startups will be the bloodbath AI needs](https://techcrunch.com/2024/06/25/the-riaas-lawsuit-against-generative-music-startups-will-be-the-bloodbath-ai-needs/)
-- [From Brex exec to venture capitalist](https://techcrunch.com/2024/06/25/from-brex-exec-to-venture-capitalist/)
-- [Threads users can now share to the open social web, aka the fediverse](https://techcrunch.com/2024/06/25/all-threads-users-can-now-share-to-the-open-social-web-aka-the-fediverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
