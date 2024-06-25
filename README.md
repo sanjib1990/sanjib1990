@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/)
+- [It&#39;s back! Aurora-sparking sunspot returns for rare 3rd trip across the sun, firing off explosive solar flare &lpar;video&rpar;](https://www.space.com/sunspot-region-responsible-may-solar-storm-auroras-returns-for-third-time-solar-flare)
+- [&#39;Physics itself disappears&#39;: How theoretical physicist Thomas Hertog helped Stephen Hawking produce his final, most radical theory of everything](https://www.space.com/how-thomas-hertog-helped-stephen-hawking-produce-radical-theory-of-everything)
+- [Smashing, from Goodreads’ co-founder, curates the best of the web using AI and human recommendations](https://techcrunch.com/2024/06/25/smashing-from-goodreads-co-founder-curates-the-best-of-the-web-using-ai-and-human-recommendations/)
 - [NASA confirms space debris in North Carolina was from SpaceX Crew Dragon reentry](https://www.space.com/nasa-confirms-debris-spacex-crew-dragon)
-- [Boeing’s Wisk Aero buys Verocel to boost software safety for self-flying eVTOL](https://techcrunch.com/2024/06/25/boeings-wisk-aero-buys-verocel-to-boost-software-safety-for-self-flying-evtol/)
-- [Backed by David Sacks, Garry Tan and Walter Isaacson, Created by Humans helps people license their creative work to AI models](https://techcrunch.com/2024/06/25/backed-by-david-sacks-garry-tan-and-walter-isaacson-created-by-humans-helps-authors-license-their-creative-work-to-ai-models/)
-- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/)
-- [How Jobright uses AI to help foreign workers navigate the US job market](https://techcrunch.com/2024/06/25/jobright-uses-ai-to-help-foreign-workers-navigate-the-us-job-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
