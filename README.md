@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tengo untangles the messy world of public sector procurement with AI](https://techcrunch.com/2024/06/25/tengo-untangles-the-messy-world-of-public-sector-procurement-with-ai/)
-- [It&#39;s back! Aurora-sparking sunspot returns for rare 3rd trip across the sun, firing off explosive solar flare &lpar;video&rpar;](https://www.space.com/sunspot-region-responsible-may-solar-storm-auroras-returns-for-third-time-solar-flare)
-- [&#39;Physics itself disappears&#39;: How theoretical physicist Thomas Hertog helped Stephen Hawking produce his final, most radical theory of everything](https://www.space.com/how-thomas-hertog-helped-stephen-hawking-produce-radical-theory-of-everything)
-- [Smashing, from Goodreads’ co-founder, curates the best of the web using AI and human recommendations](https://techcrunch.com/2024/06/25/smashing-from-goodreads-co-founder-curates-the-best-of-the-web-using-ai-and-human-recommendations/)
-- [NASA confirms space debris in North Carolina was from SpaceX Crew Dragon reentry](https://www.space.com/nasa-confirms-debris-spacex-crew-dragon)
+- [Waymo opens up San Francisco robotaxi service to everyone](https://techcrunch.com/2024/06/25/waymo-opens-up-san-francisco-robotaxi-service-to-everyone/)
+- [Marvel superheroes battle bloodthirsty Xenomorphs in new &#39;Alien&#39; variant covers](https://www.space.com/marvel-vs-aliens-variant-comic-covers)
+- [Notion Sites takes Notion sites up a level](https://techcrunch.com/2024/06/25/notion-sites/)
+- [Maximize your deal flow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/06/25/maximize-your-deal-flow-at-techcrunch-disrupt-2024/)
+- [Payabli is building payment management tools for software startups](https://techcrunch.com/2024/06/25/payabli-is-building-payment-management-tools-for-software-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
