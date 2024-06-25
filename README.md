@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Uber Freight and self driving trucks startup Aurora partner for the long haul](https://techcrunch.com/2024/06/25/uber-freight-and-self-driving-trucks-startup-aurora-partner-for-the-long-haul/)
-- [EU accuses Microsoft of competition breach over Teams bundling](https://techcrunch.com/2024/06/25/eu-accuses-microsoft-of-competition-breach-over-teams-bundling/)
-- [This impossibly massive black hole wasn&#39;t very hungry during the dawn of time](https://www.space.com/supermassive-black-hole-cosmic-dawn-feeding)
-- [Snapchat introduces new safety features to limit bad actors from contacting users](https://techcrunch.com/2024/06/25/snapchat-introduces-new-safety-features-to-limit-strangers-contacting-users/)
-- [Rocketlane snags $24M to bring AI-led experiences for professional services teams](https://techcrunch.com/2024/06/25/rocketlane-snags-24m-to-bring-ai-led-experiences-for-professional-services-teams/)
+- [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/)
+- [SpaceX rolls Falcon Heavy rocket out to pad for GOES-U weather satellite launch &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-goes-u-rollout-photos)
+- [Etched is building an AI chip that only runs one type of model](https://techcrunch.com/2024/06/25/etched-is-building-an-ai-chip-that-only-runs-transformer-models/)
+- [Sift is building a better platform for analyzing hardware telemetry data](https://techcrunch.com/2024/06/25/sift-is-tktktk/)
+- [Gen Z photos app Swipewipe sells to French publisher MWM in its largest acquisition to date](https://techcrunch.com/2024/06/25/gen-z-photos-app-swipewipe-sells-to-french-publisher-mwm-in-its-largest-acquisition-to-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
