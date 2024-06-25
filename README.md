@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Connect Money scores $8M to enable non-bank businesses to offer embedded finance services](https://techcrunch.com/2024/06/24/connect-money-8-million-see/)
 - [Apple shelved the idea of integrating Meta’s AI models over privacy concerns, report says](https://techcrunch.com/2024/06/24/apple-shelved-the-idea-of-integrating-metas-ai-models-over-privacy-concerns-report-says/)
 - [TechWolf raises $43M to take an AI-sized bite out of the internal recruiting game](https://techcrunch.com/2024/06/24/techwolf-raises-43m-to-take-an-ai-sized-bite-out-of-the-internal-recruiting-game/)
 - [Powerful GOES-U weather satellite cleared for June 25 launch on SpaceX Falcon Heavy rocket](https://www.space.com/goes-u-spacex-falcon-heavy-go-for-launch)
 - [China&#39;s Chang&#39;e 6 probe will soon bring samples of the moon&#39;s far side to Earth — and scientists are getting excited](https://www.space.com/change-6-sample-return-science-investigations-scientists)
-- [India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries](https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
