@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chift lets SaaS companies integrate with dozens of financial tools with a unified API](https://techcrunch.com/2024/06/25/chift-lets-saas-companies-integrate-with-dozens-of-financial-tools-with-a-unified-api/)
+- [Amazon to hold Prime Day sales on July 16 and 17](https://techcrunch.com/2024/06/24/amazon-to-hold-prime-day-sales-on-july-16-and-17/)
+- [China returns samples from the moon&#39;s far side in historic 1st](https://www.space.com/china-chang-e-6-moon-far-side-samples-landing-earth)
 - [Connect Money scores $8M to enable non-bank businesses to offer embedded finance services](https://techcrunch.com/2024/06/24/connect-money-8-million-see/)
 - [Apple shelved the idea of integrating Meta’s AI models over privacy concerns, report says](https://techcrunch.com/2024/06/24/apple-shelved-the-idea-of-integrating-metas-ai-models-over-privacy-concerns-report-says/)
-- [TechWolf raises $43M to take an AI-sized bite out of the internal recruiting game](https://techcrunch.com/2024/06/24/techwolf-raises-43m-to-take-an-ai-sized-bite-out-of-the-internal-recruiting-game/)
-- [Powerful GOES-U weather satellite cleared for June 25 launch on SpaceX Falcon Heavy rocket](https://www.space.com/goes-u-spacex-falcon-heavy-go-for-launch)
-- [China&#39;s Chang&#39;e 6 probe will soon bring samples of the moon&#39;s far side to Earth — and scientists are getting excited](https://www.space.com/change-6-sample-return-science-investigations-scientists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
