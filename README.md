@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronauts conduct &#39;spacewalk review&#39; after spacesuit coolant leak](https://www.space.com/iss-astronauts-spacewalk-review-spacesuit-coolant-leak)
+- [ChatGPT for Mac is now available to all](https://techcrunch.com/2024/06/25/chatgpt-for-mac-is-now-available-to-all/)
+- [VW to invest up to $5B into Rivian in software deal](https://techcrunch.com/2024/06/25/vw-to-invest-up-to-5b-into-rivian-in-software-deal/)
 - [Europe&#39;s new Ariane 6 rocket on track for long-awaited 1st launch on July 9](https://www.space.com/ariane-6-rehearsal-success-first-launch-july-19)
 - [Fearless Fund’s founder has resigned, and it’s a sad reflection on the VC world for Black women](https://techcrunch.com/2024/06/25/fearless-fund-founder-resigned-vc-venture-capital-startups-black-women/)
-- [Reddit’s upcoming changes attempt to safeguard the platform against AI crawlers](https://techcrunch.com/2024/06/25/reddits-upcoming-changes-attempt-to-safeguard-the-platform-against-ai-crawlers/)
-- [James Webb Space Telescope spots &#39;Cosmic Gems&#39; in the extremely early universe &lpar;video&rpar;](https://www.space.com/cosmic-gems-star-cluster-jwst)
-- [SpaceX Dragon capsule on display ahead of joining space shuttle LA exhibit](https://www.space.com/spacex-dragon-california-science-center-exhibit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
