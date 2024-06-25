@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Foray Bioscience is breaking down the barriers of bringing biomanufacturing to plants](https://techcrunch.com/2024/06/25/foray-bioscience-is-breaking-down-the-barriers-of-bringing-biomanufacturing-to-plants/)
-- [SpaceX rolls Falcon Heavy rocket out to pad for GOES-U weather satellite launch &lpar;photos&rpar;](https://www.space.com/spacex-falcon-heavy-goes-u-rollout-photos)
-- [Etched is building an AI chip that only runs one type of model](https://techcrunch.com/2024/06/25/etched-is-building-an-ai-chip-that-only-runs-transformer-models/)
-- [Sift is building a better platform for analyzing hardware telemetry data](https://techcrunch.com/2024/06/25/sift-is-tktktk/)
-- [Gen Z photos app Swipewipe sells to French publisher MWM in its largest acquisition to date](https://techcrunch.com/2024/06/25/gen-z-photos-app-swipewipe-sells-to-french-publisher-mwm-in-its-largest-acquisition-to-date/)
+- [NASA confirms space debris in North Carolina was from SpaceX Crew Dragon reentry](https://www.space.com/nasa-confirms-debris-spacex-crew-dragon)
+- [Boeing’s Wisk Aero buys Verocel to boost software safety for self-flying eVTOL](https://techcrunch.com/2024/06/25/boeings-wisk-aero-buys-verocel-to-boost-software-safety-for-self-flying-evtol/)
+- [Backed by David Sacks, Garry Tan and Walter Isaacson, Created by Humans helps people license their creative work to AI models](https://techcrunch.com/2024/06/25/backed-by-david-sacks-garry-tan-and-walter-isaacson-created-by-humans-helps-authors-license-their-creative-work-to-ai-models/)
+- [Coder nabs new funds to move dev environments to the cloud](https://techcrunch.com/2024/06/25/coder-nabs-new-funds-to-move-dev-environments-to-the-cloud/)
+- [How Jobright uses AI to help foreign workers navigate the US job market](https://techcrunch.com/2024/06/25/jobright-uses-ai-to-help-foreign-workers-navigate-the-us-job-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
