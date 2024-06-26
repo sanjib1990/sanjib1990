@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: The fate of generative AI is in the courts’ hands](https://techcrunch.com/2024/06/26/this-week-in-ai-the-fate-of-generative-ai-is-in-the-courts-hands/)
+- [Take a deep dive into UFO history in &#39;After the Flying Saucers Came&#39; by  Greg Eghigian &lpar;exclusive&rpar;](https://www.space.com/after-the-flying-saucers-came-greg-eghigian)
+- [TikTok’s Instagram rival, Whee, has no traction](https://techcrunch.com/2024/06/26/tiktoks-instagram-rival-whee-has-no-traction/)
 - [What happened to China&#39;s Chang&#39;e 6 lander on the moon&#39;s far side?](https://www.space.com/china-chang-e-6-moon-lander-far-side-fate)
 - [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/)
-- [Unbabel among first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/)
-- [Apple stresses device longevity, extends self-service repair to Europe](https://techcrunch.com/2024/06/26/apple-stresses-device-longevity-extends-self-service-repair-to-europe/)
-- [Watch GOES-U weather satellite float above a brightly shining Earth in stunning video from space](https://www.space.com/goes-u-noaa-weather-satellite-deployment-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
