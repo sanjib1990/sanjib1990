@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See a starburst galaxy, ablaze with explosive star birth, devouring dwarf galaxies &lpar;video&rpar;](https://www.space.com/starburst-galaxy-dwarf-galaxy-star-birth-video)
 - [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/)
 - [James Webb Space Telescope spies strange shapes above Jupiter&#39;s Great Red Spot &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-strange-shapes-above-jupiters-great-red-spot-image)
 - [Dream Chaser spaceplane is off the manifest for ULA’s second Vulcan launch](https://techcrunch.com/2024/06/26/dream-chaser-spaceplane-is-off-the-manifest-for-ulas-second-vulcan-launch/)
 - [Google improves search experience in the Chrome mobile app](https://techcrunch.com/2024/06/26/google-chrome-mobile-app-updates-ios-android/)
-- [Borderlands games ranked, worst to best](https://www.space.com/borderlands-ranked-worst-to-best)
 <!-- BLOG-POST-LIST:END -->
 
 ---
