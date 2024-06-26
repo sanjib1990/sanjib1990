@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s oldest active astronaut Don Pettit to make 4th trip to ISS on Sept. 11](https://www.space.com/nasa-oldest-active-astronaut-don-pettit-iss-soyuz-return)
-- [Creatio raises $200M at a $1.2B valuation for its no-code CRM and workflow platform](https://techcrunch.com/2024/06/26/creatio-raises-200m-at-a-1-2b-valuation-for-its-no-code-crm-and-workflow-platform/)
-- [Fetcherr lands $90M to get airlines on board with dynamic pricing](https://techcrunch.com/2024/06/26/fetcherr-lands-90m-to-get-airlines-on-board-with-dynamic-pricing/)
-- [Strava to shutter 3D mapping platform Fatmap 20 months after acquisition](https://techcrunch.com/2024/06/26/strava-to-shutter-3d-mapping-platform-fatmap-18-months-after-acquisition/)
-- [Flipkart Group launches payments app, Super.money, in fintech push](https://techcrunch.com/2024/06/26/flipkart-launches-payments-app-super-money-in-fintech-push/)
+- [SpaceX unveils new Starlink Mini antenna for internet users on the go](https://www.space.com/spacex-announces-compact-starlink-mini-dish-internet)
+- [Temasek, Main Sequence back enzymatic recycling tech startup Samsara Eco in $65M](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/)
+- [Video editing app Captions releases AI edit feature that automatically adds effects to your video](https://techcrunch.com/2024/06/26/video-editing-app-captions-releases-a-new-ai-edit-feature-that-automatically-adds-effects-to-your-video/)
+- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/)
+- [CData, which helps orgs use data across apps and build AI models, snaps up $350M](https://techcrunch.com/2024/06/26/cdata-which-helps-orgs-use-data-across-apps-and-to-build-ai-models-snaps-up-350m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
