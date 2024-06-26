@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Supreme Court rejects claim that Biden administration pressured social media firms into removing misinformation](https://techcrunch.com/2024/06/26/supreme-court-rejects-claim-that-biden-administration-pressured-social-media-firms-into-removing-misinformation/)
-- [Starfish spacecraft will extend the life of an expensive GEO satellite in 2026 mission](https://techcrunch.com/2024/06/26/starfish-spacecraft-will-boost-an-expensive-geo-satellites-orbit-in-2026-mission/)
-- [How the Kaspersky ban will hit resellers in the US](https://techcrunch.com/2024/06/26/how-the-kaspersky-ban-will-hit-resellers-in-the-us/)
-- [Hacker claims data breach of India’s eMigrate labor portal](https://techcrunch.com/2024/06/26/hacker-claims-data-breach-of-indias-emigrate-labor-portal/)
-- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/)
+- [What happened to China&#39;s Chang&#39;e 6 lander on the moon&#39;s far side?](https://www.space.com/china-chang-e-6-moon-lander-far-side-fate)
+- [Data lakehouse Onehouse nabs $35M to capitalize on GenAI revolution](https://techcrunch.com/2024/06/26/data-lakehouse-onehouse-nabs-35m-to-capitalize-on-genai-revolution/)
+- [Unbabel among first AI startups to win millions of GPU training hours on EU supercomputers](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/)
+- [Apple stresses device longevity, extends self-service repair to Europe](https://techcrunch.com/2024/06/26/apple-stresses-device-longevity-extends-self-service-repair-to-europe/)
+- [Watch GOES-U weather satellite float above a brightly shining Earth in stunning video from space](https://www.space.com/goes-u-noaa-weather-satellite-deployment-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
