@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is mystery object Cygnus X-3 so bright? Astronomers may now have the answer](https://www.space.com/cygnus-x-3-binary-system-brightness-mystery-solved)
 - [Opera’s browser adds AI-powered image generation and better multimedia controls](https://techcrunch.com/2024/06/26/operas-new-version-of-the-browser-gets-better-multimedia-controls-and-ai-powered-image-generation/)
 - [EasyTranslate thinks augmenting LLMs with humans will give it an edge over pure AI translation services](https://techcrunch.com/2024/06/26/easytranslate-thinks-augmenting-llms-with-humans-will-give-it-an-edge-over-pure-ai-translation-services/)
 - [Apple finally adds support for RCS in latest iOS 18 beta](https://techcrunch.com/2024/06/26/apple-finally-adds-support-for-rcs-in-latest-ios-18-beta/)
 - [Climate X’s founders mortgaged their house to stay afloat — now they’ve raised a $18M Series A](https://techcrunch.com/2024/06/26/climate-x-founders-who-mortgaged-their-houses-to-stay-afloat-now-raise-a-18-million-series-a/)
-- [Backed by Deutsche Telekom and SoftBank, DTCP raises $450 million for its growth and early stage funds](https://techcrunch.com/2024/06/26/backed-by-deutsche-telekom-and-softbank-dtcp-raises-450-million-for-its-growth-and-early-stage-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
