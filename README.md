@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sensi.AI grabs $31M Series B from Insight, Zeev to monitor seniors 24/7](https://techcrunch.com/2024/06/26/sensi-ai-grabs-31m-series-b-from-insight-zeev-to-monitor-seniors-24-7/)
-- [Why is mystery object Cygnus X-3 so bright? Astronomers may now have the answer](https://www.space.com/cygnus-x-3-binary-system-brightness-mystery-solved)
-- [Opera’s browser adds AI-powered image generation and better multimedia controls](https://techcrunch.com/2024/06/26/operas-new-version-of-the-browser-gets-better-multimedia-controls-and-ai-powered-image-generation/)
-- [EasyTranslate thinks augmenting LLMs with humans will give it an edge over pure AI translation services](https://techcrunch.com/2024/06/26/easytranslate-thinks-augmenting-llms-with-humans-will-give-it-an-edge-over-pure-ai-translation-services/)
-- [Apple finally adds support for RCS in latest iOS 18 beta](https://techcrunch.com/2024/06/26/apple-finally-adds-support-for-rcs-in-latest-ios-18-beta/)
+- [NASA&#39;s oldest active astronaut Don Pettit to make 4th trip to ISS on Sept. 11](https://www.space.com/nasa-oldest-active-astronaut-don-pettit-iss-soyuz-return)
+- [Creatio raises $200M at a $1.2B valuation for its no-code CRM and workflow platform](https://techcrunch.com/2024/06/26/creatio-raises-200m-at-a-1-2b-valuation-for-its-no-code-crm-and-workflow-platform/)
+- [Fetcherr lands $90M to get airlines on board with dynamic pricing](https://techcrunch.com/2024/06/26/fetcherr-lands-90m-to-get-airlines-on-board-with-dynamic-pricing/)
+- [Strava to shutter 3D mapping platform Fatmap 20 months after acquisition](https://techcrunch.com/2024/06/26/strava-to-shutter-3d-mapping-platform-fatmap-18-months-after-acquisition/)
+- [Flipkart Group launches payments app, Super.money, in fintech push](https://techcrunch.com/2024/06/26/flipkart-launches-payments-app-super-money-in-fintech-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
