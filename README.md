@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [NASA selects SpaceX to build deorbit vehicle for International Space Station](https://www.space.com/nasa-spacex-international-space-station-deorbit-vehicle)
-- [SpaceX scores $843M NASA contract to deorbit ISS in 2030](https://techcrunch.com/2024/06/26/spacex-scores-843m-nasa-contract-to-deorbit-iss-in-2030/)
+- [SpaceX scores $843M NASA contract to de-orbit ISS in 2030](https://techcrunch.com/2024/06/26/spacex-scores-843m-nasa-contract-to-deorbit-iss-in-2030/)
 - [US charges Russian civilian for allegedly helping GRU spies target Ukrainian government systems with data-destroying malware](https://techcrunch.com/2024/06/26/doj-charges-russian-whispergate-ukraine-cyberattacks/)
 - [See a starburst galaxy, ablaze with explosive star birth, devouring dwarf galaxies &lpar;video&rpar;](https://www.space.com/starburst-galaxy-dwarf-galaxy-star-birth-video)
 - [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/)
