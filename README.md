@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sonia’s AI chatbot steps in for therapists](https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/)
+- [James Webb Space Telescope spies strange shapes above Jupiter&#39;s Great Red Spot &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-strange-shapes-above-jupiters-great-red-spot-image)
+- [Dream Chaser spaceplane is off the manifest for ULA’s second Vulcan launch](https://techcrunch.com/2024/06/26/dream-chaser-spaceplane-is-off-the-manifest-for-ulas-second-vulcan-launch/)
+- [Google improves search experience in the Chrome mobile app](https://techcrunch.com/2024/06/26/google-chrome-mobile-app-updates-ios-android/)
 - [Borderlands games ranked, worst to best](https://www.space.com/borderlands-ranked-worst-to-best)
-- [Persona’s founders are certain the world can use another humanoid robot](https://techcrunch.com/2024/06/26/personas-founders-are-certain-the-world-can-use-another-humanoid-robot/)
-- [NASA dips into futuristic AR tech to build powerful Roman Space Telescope](https://www.space.com/space-exploration/tech/nasa-dips-into-futuristic-ar-tech-to-build-powerful-roman-space-telescope)
-- [This Week in AI: The fate of generative AI is in the courts’ hands](https://techcrunch.com/2024/06/26/this-week-in-ai-the-fate-of-generative-ai-is-in-the-courts-hands/)
-- [Take a deep dive into UFO history in &#39;After the Flying Saucers Came&#39; by  Greg Eghigian &lpar;exclusive&rpar;](https://www.space.com/after-the-flying-saucers-came-greg-eghigian)
 <!-- BLOG-POST-LIST:END -->
 
 ---
