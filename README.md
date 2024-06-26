@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [well...this is embarrassing](https://www.youtube.com/watch?v=spoZ2zKnK88)
 - [Living Poetry with Poet Joshua Bennett](https://www.youtube.com/watch?v=BfFhj70G3aM)
 - [5. Wafer Cleaning and Gettering - Contamination Measurement Techniques](https://www.youtube.com/watch?v=hCBoml34QS4)
 - [12. Ion Implantation and Annealing - Analytic Models and Monte Carlo](https://www.youtube.com/watch?v=of4_UZJWcLA)
 - [21. Etching - Poly Gate Etching, Stringers, Modeling of Etching](https://www.youtube.com/watch?v=9T9EMayW-GA)
-- [6. Oxidation and the Si/SiO2 Interface. Deal/Grove Model, Thin Oxide Models](https://www.youtube.com/watch?v=LIDBqUPxNys)
 <!-- YOUTUBE:END -->
 
 ---
