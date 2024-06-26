@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/)
-- [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/)
-- [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/)
-- [SpaceX unveils new Starlink Mini antenna for internet users on the go](https://www.space.com/spacex-announces-compact-starlink-mini-dish-internet)
-- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/)
+- [Supreme Court rejects claim that Biden administration pressured social media firms into removing misinformation](https://techcrunch.com/2024/06/26/supreme-court-rejects-claim-that-biden-administration-pressured-social-media-firms-into-removing-misinformation/)
+- [Starfish spacecraft will extend the life of an expensive GEO satellite in 2026 mission](https://techcrunch.com/2024/06/26/starfish-spacecraft-will-boost-an-expensive-geo-satellites-orbit-in-2026-mission/)
+- [How the Kaspersky ban will hit resellers in the US](https://techcrunch.com/2024/06/26/how-the-kaspersky-ban-will-hit-resellers-in-the-us/)
+- [Hacker claims data breach of India’s eMigrate labor portal](https://techcrunch.com/2024/06/26/hacker-claims-data-breach-of-indias-emigrate-labor-portal/)
+- [Formation Bio raises $372M to boost drug development with AI](https://techcrunch.com/2024/06/26/formation-bio-raises-372m-to-boost-drug-development-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
