@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel turns to rural India in hunt for future unicorns](https://techcrunch.com/2024/06/25/accel-turns-to-rural-india-in-hunt-for-future-unicorns/)
 - [Microsoft’s Mustafa Suleyman says he loves Sam Altman, believes he’s sincere about AI safety](https://techcrunch.com/2024/06/25/microsofts-mustafa-suleyman-says-he-loves-sam-altman-believes-hes-sincere-about-ai-safety/)
 - [10 of the most exciting digital health startups of 2024, according to VCs](https://techcrunch.com/2024/06/25/10-of-the-most-exciting-digital-health-startups-of-2024-according-to-vcs/)
-- [Welcome to the fediverse: Your guide to Mastodon, Threads, Bluesky, and more](https://techcrunch.com/2024/06/25/welcome-to-the-fediverse-your-guide-to-mastodon-threads-bluesky-and-more/)
+- [Welcome to the fediverse: Your guide to Mastodon, Threads, Bluesky and more](https://techcrunch.com/2024/06/25/welcome-to-the-fediverse-your-guide-to-mastodon-threads-bluesky-and-more/)
 - [This smiling robot face made of living skin is absolute nightmare fuel](https://techcrunch.com/2024/06/25/this-smiling-robot-face-made-of-living-skin-is-absolute-nightmare-fuel/)
-- [OpenAI delays ChatGPT’s new Voice Mode](https://techcrunch.com/2024/06/25/openai-delays-chatgpts-new-voice-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
