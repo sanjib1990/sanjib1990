@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dappier is building a marketplace for publishers to sell their content to LLM builders](https://techcrunch.com/2024/06/26/dappier-is-building-a-marketplace-for-publishers-to-sell-their-content-to-llm-builders/)
+- [Nubank acquires AI-for-banks startup Hyperplane](https://techcrunch.com/2024/06/26/nubank-acquires-ai-for-banks-startup-hyperplane/)
+- [Retool expands its low-code platform for creating internal apps to support external apps, too](https://techcrunch.com/2024/06/26/retool-expands-its-low-code-platform-for-creating-internal-apps-to-support-external-apps-too/)
 - [SpaceX unveils new Starlink Mini antenna for internet users on the go](https://www.space.com/spacex-announces-compact-starlink-mini-dish-internet)
-- [Temasek, Main Sequence back enzymatic recycling tech startup Samsara Eco in $65M](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/)
-- [Video editing app Captions releases AI edit feature that automatically adds effects to your video](https://techcrunch.com/2024/06/26/video-editing-app-captions-releases-a-new-ai-edit-feature-that-automatically-adds-effects-to-your-video/)
-- [Rainforest lands $20M to challenge Stripe with embedded payments for SaaS providers](https://techcrunch.com/2024/06/26/rainforest-lands-20m-to-challenge-stripe-with-embedded-payments-for-saas-providers/)
-- [CData, which helps orgs use data across apps and build AI models, snaps up $350M](https://techcrunch.com/2024/06/26/cdata-which-helps-orgs-use-data-across-apps-and-to-build-ai-models-snaps-up-350m/)
+- [Samsara Eco is working to replace plastic packaging with fossil fuel-free alternatives](https://techcrunch.com/2024/06/26/temasek-main-sequence-back-enzymatic-recycling-tech-startup-samsara-eco-in-65m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
