@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate X founders, who mortgaged their houses to stay afloat, now raise a $18 million Series A](https://techcrunch.com/2024/06/26/climate-x-founders-who-mortgaged-their-houses-to-stay-afloat-now-raise-a-18-million-series-a/)
+- [Opera’s browser adds AI-powered image generation and better multimedia controls](https://techcrunch.com/2024/06/26/operas-new-version-of-the-browser-gets-better-multimedia-controls-and-ai-powered-image-generation/)
+- [EasyTranslate thinks augmenting LLMs with humans will give it an edge over pure AI translation services](https://techcrunch.com/2024/06/26/easytranslate-thinks-augmenting-llms-with-humans-will-give-it-an-edge-over-pure-ai-translation-services/)
+- [Apple finally adds support for RCS in latest iOS 18 beta](https://techcrunch.com/2024/06/26/apple-finally-adds-support-for-rcs-in-latest-ios-18-beta/)
+- [Climate X founders mortgaged their houses to stay afloat — now they’ve raised a $18M Series A](https://techcrunch.com/2024/06/26/climate-x-founders-who-mortgaged-their-houses-to-stay-afloat-now-raise-a-18-million-series-a/)
 - [Backed by Deutsche Telekom and SoftBank, DTCP raises $450 million for its growth and early stage funds](https://techcrunch.com/2024/06/26/backed-by-deutsche-telekom-and-softbank-dtcp-raises-450-million-for-its-growth-and-early-stage-funds/)
-- [Accel turns to rural India in hunt for future unicorns](https://techcrunch.com/2024/06/25/accel-turns-to-rural-india-in-hunt-for-future-unicorns/)
-- [Microsoft’s Mustafa Suleyman says he loves Sam Altman, believes he’s sincere about AI safety](https://techcrunch.com/2024/06/25/microsofts-mustafa-suleyman-says-he-loves-sam-altman-believes-hes-sincere-about-ai-safety/)
-- [10 of the most exciting digital health startups of 2024, according to VCs](https://techcrunch.com/2024/06/25/10-of-the-most-exciting-digital-health-startups-of-2024-according-to-vcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
