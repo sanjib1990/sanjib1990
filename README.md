@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China opens Chang&#39;e 6 return capsule containing samples from moon&#39;s far side &lpar;video&rpar;](https://www.space.com/chang-e-6-moon-far-side-return-capsule-opened)
+- [Austin-based Ironspring Ventures raised $100m to invest in industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/)
+- [Bluesky lets you curate accounts and feeds to follow with its “Starter Pack” feature](https://techcrunch.com/2024/06/27/bluesky-lets-you-curate-accounts-and-feeds-to-follow-with-its-starter-pack-feature/)
+- [Dust grabs another $16 million for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/)
 - [Google Translate adds support for 110 languages, representing 614 million speakers](https://techcrunch.com/2024/06/27/google-traslate-adds-support-for-110-languages-representing-614-million-speakers/)
-- [Synthflow picks up $7.4M for no code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/)
-- [Phosphate in NASA&#39;s OSIRIS-REx asteroid sample suggests space rock Bennu hails from an ocean world](https://www.space.com/nasa-osiris-rex-sample-return-phosphate-ocean-world)
-- [NASA selects SpaceX to build deorbit vehicle for International Space Station](https://www.space.com/nasa-spacex-international-space-station-deorbit-vehicle)
-- [SpaceX scores $843M NASA contract to de-orbit ISS in 2030](https://techcrunch.com/2024/06/26/spacex-scores-843m-nasa-contract-to-deorbit-iss-in-2030/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
