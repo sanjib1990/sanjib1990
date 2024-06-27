@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA is flying planes low over the US to make maps of air pollution sources](https://www.space.com/nasa-student-mission-aircraft-climate-change-air-pollution-sources)
 - [Robotics investments are gaining speed after post-pandemic slowdown](https://techcrunch.com/2024/06/27/robotics-investments-are-gaining-speed-after-post-pandemic-slowdown/)
 - [Tour the famous &#39;Pillars of Creation&#39; with gorgeous new 3D views from Hubble and JWST &lpar;video&rpar;](https://www.space.com/pillars-of-creation-3d-tour-hubble-jwst-video)
 - [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/)
 - [Agility’s humanoid robots are going to handle your Spanx](https://techcrunch.com/2024/06/27/agilitys-humanoid-robots-are-set-to-handle-your-spanx/)
-- [Watch 2 tiny satellites deploy from the ISS in dazzling time-lapse video](https://www.space.com/nasa-cubesats-deploy-iss-time-lapse-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
