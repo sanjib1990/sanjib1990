@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [If alien life exists on Europa, we may find it in hydrothermal vents](https://www.space.com/alien-life-europa-enceladus-hydrothermal-vents)
-- [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/)
-- [PortSwigger, the company behind the Burp Suite of security testing tools, swallows $112M](https://techcrunch.com/2024/06/27/portswigger-the-company-behind-the-burp-suite-of-security-testing-tools-swallows-112m/)
-- [DJI Mini 4K drone review](https://www.space.com/dji-mini-4k-drone-review)
-- [Amazon hit with fresh class action-style suit in UK — $3.4BN in competition damages sought for 200,000+ sellers](https://techcrunch.com/2024/06/27/amazon-hit-with-fresh-class-action-style-suit-in-uk-3-4bn-in-competition-damages-sought-for-200000-sellers/)
+- [SoftBank forms AI healthcare JV in Japan with Tempus](https://techcrunch.com/2024/06/27/softbank-forms-ai-healthcare-jv-in-japan-with-tempus/)
+- [As Spain gets its latest VC fund, Southern Europe appears to be on a roll](https://techcrunch.com/2024/06/27/as-spain-gets-its-latest-vc-fund-southern-europe-appears-to-be-on-a-roll/)
+- [Illumex is using GenAI to ease pain of getting good data into LLMs](https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/)
+- [Directo turns a TikTok travel hack into a deal-finding Chrome extension](https://techcrunch.com/2024/06/27/directo-turns-a-tiktok-travel-hack-into-a-deal-finding-chrome-extension/)
+- [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
