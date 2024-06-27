@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If alien life exists on Europa, we may find it in hydrothermal vents](https://www.space.com/alien-life-europa-enceladus-hydrothermal-vents)
+- [Orby is building AI agents for the enterprise](https://techcrunch.com/2024/06/27/orby-is-building-ai-agents-for-the-enterprise/)
+- [PortSwigger, the company behind the Burp Suite of security testing tools, swallows $112M](https://techcrunch.com/2024/06/27/portswigger-the-company-behind-the-burp-suite-of-security-testing-tools-swallows-112m/)
+- [DJI Mini 4K drone review](https://www.space.com/dji-mini-4k-drone-review)
 - [Amazon hit with fresh class action-style suit in UK — $3.4BN in competition damages sought for 200,000+ sellers](https://techcrunch.com/2024/06/27/amazon-hit-with-fresh-class-action-style-suit-in-uk-3-4bn-in-competition-damages-sought-for-200000-sellers/)
-- [Odaseva raises $54M to secure Salesforce users](https://techcrunch.com/2024/06/27/odasevas-founder-once-solved-a-security-gap-for-saleforces-biggest-customer-now-hes-raised-54m-to-secure-all-of-its-users/)
-- [China opens Chang&#39;e 6 return capsule containing samples from moon&#39;s far side &lpar;video&rpar;](https://www.space.com/chang-e-6-moon-far-side-return-capsule-opened)
-- [Austin-based Ironspring Ventures raised $100m to invest in industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/)
-- [Bluesky lets you curate accounts and feeds to follow with its “Starter Pack” feature](https://techcrunch.com/2024/06/27/bluesky-lets-you-curate-accounts-and-feeds-to-follow-with-its-starter-pack-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
