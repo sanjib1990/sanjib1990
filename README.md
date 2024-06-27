@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [well...this is embarrassing](https://www.youtube.com/watch?v=spoZ2zKnK88)
-- [Living Poetry with Poet Joshua Bennett](https://www.youtube.com/watch?v=BfFhj70G3aM)
-- [5. Wafer Cleaning and Gettering - Contamination Measurement Techniques](https://www.youtube.com/watch?v=hCBoml34QS4)
-- [12. Ion Implantation and Annealing - Analytic Models and Monte Carlo](https://www.youtube.com/watch?v=of4_UZJWcLA)
-- [21. Etching - Poly Gate Etching, Stringers, Modeling of Etching](https://www.youtube.com/watch?v=9T9EMayW-GA)
+- [Lecture 10: Quiz 1 Review](https://www.youtube.com/watch?v=XEETOp5jo9w)
+- [Lecture 24: IS-LM and Expectations](https://www.youtube.com/watch?v=bEWpXwflCoY)
+- [Lecture 19: The Goods Market in the Open Economy](https://www.youtube.com/watch?v=f5ExlmDGdro)
+- [Lecture 23: Asset Pricing](https://www.youtube.com/watch?v=dCJEeSD7hKk)
+- [Lecture 9: The Phillips Curve and Inflation](https://www.youtube.com/watch?v=mhqsslG9tyw)
 <!-- YOUTUBE:END -->
 
 ---
