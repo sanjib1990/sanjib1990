@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MagicSchool thinks AI in the classroom is inevitable, so it’s aiming to help teachers and students use it properly](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/)
+- [Zuckerberg disses closed-source AI competitors as trying to ‘create God’](https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/)
+- [Everything we know about the &#39;Borderlands&#39; movie: Release date, plot, cast &amp; more](https://www.space.com/borderlands-movie-release-date-plot-cast)
+- [Andrew Ng plans to raise $120M for next AI Fund](https://techcrunch.com/2024/06/27/andrew-ng-plans-to-raise-120m-for-next-ai-fund/)
 - [VW taps Rivian in $5B EV deal and the fight over Fisker’s assets](https://techcrunch.com/2024/06/27/vw-taps-rivian-in-5b-ev-deal-and-the-fight-over-fiskers-assets/)
-- [The moon on Earth: Astrobotic unveils &#39;proving ground&#39; for future lunar missions](https://www.space.com/astrobotic-lunar-proving-ground-moon-mission-prep)
-- [FCC rule would make carriers unlock all phones after 60 days](https://techcrunch.com/2024/06/27/fcc-rule-would-make-carriers-unlock-all-phones-after-60-days/)
-- [As battery startups fail, Sila snaps up $375M in new funding](https://techcrunch.com/2024/06/27/as-battery-startups-fail-sila-snaps-up-375m-in-new-funding/)
-- [Startups scramble to assess fallout from Evolve Bank data breach](https://techcrunch.com/2024/06/27/startups-scramble-to-assess-fallout-from-evolve-bank-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
