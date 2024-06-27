@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA astronaut gives tips to Baseball Hall of Fame from ISS &lpar;video&rpar;](https://www.space.com/nasa-astronaut-jeanette-epps-iss-baseball-tips)
-- [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/)
-- [Amazon consolidates Amazon Clinic into the One Medical brand](https://techcrunch.com/2024/06/27/amazon-one-medical-amazon-clinic-consolidation/)
-- [Just in time for the debates, Meta fixes bug impacting users’ political content settings on Instagram and Threads](https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads/)
-- [ISS astronauts take shelter in Boeing Starliner and other return spacecraft after June 26 satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
+- [VW taps Rivian in $5B EV deal and the fight over Fisker’s assets](https://techcrunch.com/2024/06/27/vw-taps-rivian-in-5b-ev-deal-and-the-fight-over-fiskers-assets/)
+- [The moon on Earth: Astrobotic unveils &#39;proving ground&#39; for future lunar missions](https://www.space.com/astrobotic-lunar-proving-ground-moon-mission-prep)
+- [FCC rule would make carriers unlock all phones after 60 days](https://techcrunch.com/2024/06/27/fcc-rule-would-make-carriers-unlock-all-phones-after-60-days/)
+- [As battery startups fail, Sila snaps up $375M in new funding](https://techcrunch.com/2024/06/27/as-battery-startups-fail-sila-snaps-up-375m-in-new-funding/)
+- [Startups scramble to assess fallout from Evolve Bank data breach](https://techcrunch.com/2024/06/27/startups-scramble-to-assess-fallout-from-evolve-bank-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
