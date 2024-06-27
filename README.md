@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Premium upgrade adds smart downloads and picture-in-picture mode for Shorts](https://techcrunch.com/2024/06/27/youtube-premium-upgrade-adds-smart-downloads-and-picture-in-picture-mode-for-shorts/)
+- [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/)
+- [Hubble Telescope spies baby stars in their glowing stellar cocoon &lpar;photo&rpar;](https://www.space.com/infant-stars-stellar-cocoon-hubble-telescope-photo)
+- [Character.AI now allows users to talk with AI avatars over calls](https://techcrunch.com/2024/06/27/character-ai-now-allows-users-to-talk-with-avatars-over-calls/)
 - [TikTok to challenge Amazon Prime Day with its own sales event in July](https://techcrunch.com/2024/06/27/tiktok-to-challenge-amazon-prime-day-with-its-own-sales-event-in-july/)
-- [&#39;Star Wars: The Acolyte&#39; episode 5: Who&#39;s the masked Sith villain?](https://www.space.com/star-wars-the-acolyte-episode-5-night-whos-the-masked-sith-villain)
-- [Reliance Jio kicks off Indian telecom price hike](https://techcrunch.com/2024/06/27/reliance-jio-kicks-off-indian-telecom-price-hike/)
-- [SoftBank forms AI healthcare JV in Japan with Tempus](https://techcrunch.com/2024/06/27/softbank-forms-ai-healthcare-jv-in-japan-with-tempus/)
-- [As Spain gets its latest VC fund, Southern Europe appears to be on a roll](https://techcrunch.com/2024/06/27/as-spain-gets-its-latest-vc-fund-southern-europe-appears-to-be-on-a-roll/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
