@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robotics investments are gaining speed after post-pandemic slowdown](https://techcrunch.com/2024/06/27/robotics-investments-are-gaining-speed-after-post-pandemic-slowdown/)
+- [Tour the famous &#39;Pillars of Creation&#39; with gorgeous new 3D views from Hubble and JWST &lpar;video&rpar;](https://www.space.com/pillars-of-creation-3d-tour-hubble-jwst-video)
+- [Hebbia raises nearly $100M Series B for AI-powered document search led by Andreessen Horowitz](https://techcrunch.com/2024/06/27/hebbia-raises-nearly-100m-seriesb-for-ai-powered-document-search-led-by-andreessen-horowitz/)
 - [Agility’s humanoid robots are going to handle your Spanx](https://techcrunch.com/2024/06/27/agilitys-humanoid-robots-are-set-to-handle-your-spanx/)
 - [Watch 2 tiny satellites deploy from the ISS in dazzling time-lapse video](https://www.space.com/nasa-cubesats-deploy-iss-time-lapse-video)
-- [Missing Milky Way black holes are bad news for this dark matter theory](https://www.space.com/missing-black-holes-dark-matter-theory-milky-way)
-- [MagicSchool thinks AI in the classroom is inevitable, so it’s aiming to help teachers and students use it properly](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/)
-- [Zuckerberg disses closed-source AI competitors as trying to ‘create God’](https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
