@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon hit with fresh class action-style suit in UK — $3.4BN in competition damages sought for 200,000+ sellers](https://techcrunch.com/2024/06/27/amazon-hit-with-fresh-class-action-style-suit-in-uk-3-4bn-in-competition-damages-sought-for-200000-sellers/)
+- [Odaseva raises $54M to secure Salesforce users](https://techcrunch.com/2024/06/27/odasevas-founder-once-solved-a-security-gap-for-saleforces-biggest-customer-now-hes-raised-54m-to-secure-all-of-its-users/)
 - [China opens Chang&#39;e 6 return capsule containing samples from moon&#39;s far side &lpar;video&rpar;](https://www.space.com/chang-e-6-moon-far-side-return-capsule-opened)
 - [Austin-based Ironspring Ventures raised $100m to invest in industrial revolution](https://techcrunch.com/2024/06/27/austin-based-ironspring-ventures-raised-100m-to-invest-in-industrial-revolution/)
 - [Bluesky lets you curate accounts and feeds to follow with its “Starter Pack” feature](https://techcrunch.com/2024/06/27/bluesky-lets-you-curate-accounts-and-feeds-to-follow-with-its-starter-pack-feature/)
-- [Dust grabs another $16 million for its enterprise AI assistants connected to internal data](https://techcrunch.com/2024/06/27/dust-grabs-another-16-million-for-its-enterprise-ai-assistants-connected-to-internal-data/)
-- [Google Translate adds support for 110 languages, representing 614 million speakers](https://techcrunch.com/2024/06/27/google-traslate-adds-support-for-110-languages-representing-614-million-speakers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
