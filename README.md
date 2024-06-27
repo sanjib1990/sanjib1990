@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok to challenge Amazon Prime Day with its own sales event in July](https://techcrunch.com/2024/06/27/tiktok-to-challenge-amazon-prime-day-with-its-own-sales-event-in-july/)
+- [&#39;Star Wars: The Acolyte&#39; episode 5: Who&#39;s the masked Sith villain?](https://www.space.com/star-wars-the-acolyte-episode-5-night-whos-the-masked-sith-villain)
+- [Reliance Jio kicks off Indian telecom price hike](https://techcrunch.com/2024/06/27/reliance-jio-kicks-off-indian-telecom-price-hike/)
 - [SoftBank forms AI healthcare JV in Japan with Tempus](https://techcrunch.com/2024/06/27/softbank-forms-ai-healthcare-jv-in-japan-with-tempus/)
 - [As Spain gets its latest VC fund, Southern Europe appears to be on a roll](https://techcrunch.com/2024/06/27/as-spain-gets-its-latest-vc-fund-southern-europe-appears-to-be-on-a-roll/)
-- [Illumex is using GenAI to ease pain of getting good data into LLMs](https://techcrunch.com/2024/06/27/illumex-is-using-genai-to-ease-pain-of-getting-good-data-into-llms/)
-- [Directo turns a TikTok travel hack into a deal-finding Chrome extension](https://techcrunch.com/2024/06/27/directo-turns-a-tiktok-travel-hack-into-a-deal-finding-chrome-extension/)
-- [Axelera lands new funds as the AI chip market heats up](https://techcrunch.com/2024/06/27/axelera-lands-new-funds-as-the-ai-chip-market-heats-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
