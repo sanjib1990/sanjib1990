@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Missing Milky Way black holes are bad news for this dark matter theory](https://www.space.com/missing-black-holes-dark-matter-theory-milky-way)
 - [MagicSchool thinks AI in the classroom is inevitable, so it’s aiming to help teachers and students use it properly](https://techcrunch.com/2024/06/27/magicschool-thinks-ai-in-the-classroom-is-inevitable-so-its-aiming-to-help-teachers-and-students-use-it-properly/)
 - [Zuckerberg disses closed-source AI competitors as trying to ‘create God’](https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/)
 - [Everything we know about the &#39;Borderlands&#39; movie: Release date, plot, cast &amp; more](https://www.space.com/borderlands-movie-release-date-plot-cast)
 - [Andrew Ng plans to raise $120M for next AI Fund](https://techcrunch.com/2024/06/27/andrew-ng-plans-to-raise-120m-for-next-ai-fund/)
-- [VW taps Rivian in $5B EV deal and the fight over Fisker’s assets](https://techcrunch.com/2024/06/27/vw-taps-rivian-in-5b-ev-deal-and-the-fight-over-fiskers-assets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
