@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Premium upgrade adds smart downloads and picture-in-picture mode for Shorts](https://techcrunch.com/2024/06/27/youtube-premium-upgrade-adds-smart-downloads-and-picture-in-picture-mode-for-shorts/)
-- [TechCrunch Disrupt joins forces with Google Cloud for Startup Battlefield 200](https://techcrunch.com/2024/06/27/techcrunch-disrupt-joins-forces-with-google-cloud-forstartup-battlefield-200/)
-- [Hubble Telescope spies baby stars in their glowing stellar cocoon &lpar;photo&rpar;](https://www.space.com/infant-stars-stellar-cocoon-hubble-telescope-photo)
-- [Character.AI now allows users to talk with AI avatars over calls](https://techcrunch.com/2024/06/27/character-ai-now-allows-users-to-talk-with-avatars-over-calls/)
-- [TikTok to challenge Amazon Prime Day with its own sales event in July](https://techcrunch.com/2024/06/27/tiktok-to-challenge-amazon-prime-day-with-its-own-sales-event-in-july/)
+- [NASA astronaut gives tips to Baseball Hall of Fame from ISS &lpar;video&rpar;](https://www.space.com/nasa-astronaut-jeanette-epps-iss-baseball-tips)
+- [Rondo Energy funding shows a new way across the climate startup ‘valley of death’](https://techcrunch.com/2024/06/27/rondo-energy-funding-shows-a-new-way-across-the-climate-startup-valley-of-death/)
+- [Amazon consolidates Amazon Clinic into the One Medical brand](https://techcrunch.com/2024/06/27/amazon-one-medical-amazon-clinic-consolidation/)
+- [Just in time for the debates, Meta fixes bug impacting users’ political content settings on Instagram and Threads](https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads/)
+- [ISS astronauts take shelter in Boeing Starliner and other return spacecraft after June 26 satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
