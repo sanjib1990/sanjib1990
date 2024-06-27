@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Translate adds support for 110 languages, representing 614 million speakers](https://techcrunch.com/2024/06/27/google-traslate-adds-support-for-110-languages-representing-614-million-speakers/)
 - [Synthflow picks up $7.4M for no code voice assistance for SMEs](https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/)
 - [Phosphate in NASA&#39;s OSIRIS-REx asteroid sample suggests space rock Bennu hails from an ocean world](https://www.space.com/nasa-osiris-rex-sample-return-phosphate-ocean-world)
 - [NASA selects SpaceX to build deorbit vehicle for International Space Station](https://www.space.com/nasa-spacex-international-space-station-deorbit-vehicle)
 - [SpaceX scores $843M NASA contract to de-orbit ISS in 2030](https://techcrunch.com/2024/06/26/spacex-scores-843m-nasa-contract-to-deorbit-iss-in-2030/)
-- [US charges Russian civilian for allegedly helping GRU spies target Ukrainian government systems with data-destroying malware](https://techcrunch.com/2024/06/26/doj-charges-russian-whispergate-ukraine-cyberattacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
