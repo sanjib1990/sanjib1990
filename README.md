@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rabbit R1 makes catastrophic rookie programming mistake](https://www.youtube.com/watch?v=lkbV8oP-F44)
 - [Lecture 10: Quiz 1 Review](https://www.youtube.com/watch?v=XEETOp5jo9w)
 - [Lecture 24: IS-LM and Expectations](https://www.youtube.com/watch?v=bEWpXwflCoY)
 - [Lecture 19: The Goods Market in the Open Economy](https://www.youtube.com/watch?v=f5ExlmDGdro)
 - [Lecture 23: Asset Pricing](https://www.youtube.com/watch?v=dCJEeSD7hKk)
-- [Lecture 9: The Phillips Curve and Inflation](https://www.youtube.com/watch?v=mhqsslG9tyw)
 <!-- YOUTUBE:END -->
 
 ---
