@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada begins work on new Canadarm3 robotic arm for upcoming Gateway lunar outpost](https://www.space.com/canadarm3-robotic-arm-nasa-moon-missions-gateway-design-testing-contract)
+- [Remote access giant TeamViewer says Russian spies hacked its corporate network](https://techcrunch.com/2024/06/28/teamviewer-cyberattack-apt29-russia-government-hackers/)
 - [SpaceX to launch 2nd batch of next-gen US spy satellites tonight](https://www.space.com/spacex-nrol-186-spy-satellite-launch)
 - [Here are the hottest product announcements from Apple, Google, Microsoft and others so far in 2024](https://techcrunch.com/2024/06/28/hottest-apple-products-google-microsoft/)
 - [Dark Skys DS-FX star projector review](https://www.space.com/dark-skys-ds-fx-star-projector-review)
-- [‘Immortal stars’ could feast on dark matter in the Milky Way’s heart](https://www.space.com/immortal-stars-dark-matter-milky-way)
-- [Dark matter clue? Mysterious substance may be interacting with itself in nearby galaxy](https://www.space.com/self-interacting-dark-matter-milky-way-neighbor-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
