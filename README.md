@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Skys DS-FX star projector review](https://www.space.com/dark-skys-ds-fx-star-projector-review)
+- [&#39;Immortal&#39; stars may exist in the heart of the Milky Way](https://www.space.com/immortal-stars-dark-matter-milky-way)
 - [Dark matter clue? Mysterious substance may be interacting with itself in nearby galaxy](https://www.space.com/self-interacting-dark-matter-milky-way-neighbor-galaxy)
 - [Feather raises €6 million to go pan-European with its insurance platform for expats](https://techcrunch.com/2024/06/28/feather-raises-e6-million-to-go-pan-european-with-its-insurance-platform-for-expats/)
 - [Rohlik rolls up $170M to expand in European grocery delivery and sell its tech to others](https://techcrunch.com/2024/06/28/rohlik-rolls-up-170m-to-expand-european-grocery-delivery-and-sell-its-tech-to-others/)
-- [NASA is flying planes low over the US to make maps of air pollution sources](https://www.space.com/nasa-student-mission-aircraft-climate-change-air-pollution-sources)
-- [Robotics investments are gaining speed after post-pandemic slowdown](https://techcrunch.com/2024/06/27/robotics-investments-are-gaining-speed-after-post-pandemic-slowdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
