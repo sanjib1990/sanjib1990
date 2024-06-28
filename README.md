@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA delays next ISS spacewalk until end of July due to spacesuit leak issue](https://www.space.com/nasa-iss-spacewalk-delay-july-leak-issue)
+- [NASA and Boeing deny Starliner crew is ‘stranded’: “We’re not in any rush to come home”](https://techcrunch.com/2024/06/28/nasa-and-boeing-deny-starliner-crew-is-stranded-were-not-in-any-rush-to-come-home/)
 - [Watch India&#39;s reusable space plane prototype ace its final landing test &lpar;video&rpar;](https://www.space.com/isro-space-plane-third-landing-test-video)
 - [Forget the debate, the Supreme Court just declared open season on regulators](https://techcrunch.com/2024/06/28/forget-the-debate-the-supreme-court-just-declared-open-season-on-regulators/)
 - [Perseverance Mars rover team revives life-hunting instrument after 6 months of effort](https://www.space.com/perseverance-mars-rover-sherloc-instrument-revived)
-- [Android’s upcoming ‘Collections’ feature will drive users back to their apps](https://techcrunch.com/2024/06/28/androids-upcoming-collections-feature-will-drive-users-back-to-their-apps/)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
