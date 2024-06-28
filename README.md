@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16 best places to see the 2026 total solar eclipse](https://www.space.com/best-places-to-see-total-solar-eclipse-2026)
+- [TechCrunch Minute: Beware the smiling robot with living skin](https://techcrunch.com/video/techcrunch-minute-beware-the-smiling-robot-with-living-skin/)
+- [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/)
 - [Shhh! Watch the chilling final trailer for &#39;A Quiet Place: Day One&#39; &lpar;video&rpar;](https://www.space.com/quiet-place-day-one-final-trailer)
 - [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/)
-- [Canada begins work on new Canadarm3 robotic arm for upcoming Gateway lunar outpost](https://www.space.com/canadarm3-robotic-arm-nasa-moon-missions-gateway-design-testing-contract)
-- [Remote access giant TeamViewer says Russian spies hacked its corporate network](https://techcrunch.com/2024/06/28/teamviewer-cyberattack-apt29-russia-government-hackers/)
-- [SpaceX to launch 2nd batch of next-gen US spy satellites tonight](https://www.space.com/spacex-nrol-186-spy-satellite-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
