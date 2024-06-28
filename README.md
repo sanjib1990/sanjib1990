@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [16 best places to see the 2026 total solar eclipse](https://www.space.com/best-places-to-see-total-solar-eclipse-2026)
-- [TechCrunch Minute: Beware the smiling robot with living skin](https://techcrunch.com/video/techcrunch-minute-beware-the-smiling-robot-with-living-skin/)
-- [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/)
-- [Shhh! Watch the chilling final trailer for &#39;A Quiet Place: Day One&#39; &lpar;video&rpar;](https://www.space.com/quiet-place-day-one-final-trailer)
-- [Elevate your 2025 fundraising strategy at Disrupt 2024](https://techcrunch.com/2024/06/28/elevate-your-2025-fundraising-strategy-at-disrupt-2024/)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [The gorgeous Ring Nebula makes a stunning skywatching sight this week](https://www.space.com/ring-nebula-celestial-smoke-ring-m57)
+- [Listen live today as NASA, Boeing discuss Starliner return, spacewalk issues](https://www.space.com/nasa-boeing-starliner-crew-flight-test-mission-delays-webcast)
+- [Who won the presidential debate: X or Threads?](https://techcrunch.com/2024/06/28/who-won-the-presidential-debate-x-or-threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
