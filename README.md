@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars is an asteroid punching bag, NASA data reveals](https://www.space.com/mars-asteroid-impacts-nasa-insight-data)
-- [Pitch Deck Teardown: MegaMod’s $1.9M seed deck](https://techcrunch.com/2024/06/28/pitch-deck-teardown-megamods-1-9m-seed-deck/)
-- [The White House will host a conference for social media creators](https://techcrunch.com/2024/06/28/the-white-house-will-host-a-conference-for-social-media-creators/)
-- [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/06/28/what-is-google-gemini-ai/)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [DEI? More like ‘common decency’ — and Silicon Valley is saying ‘no thanks’](https://techcrunch.com/2024/06/28/dei-more-like-common-decency-and-silicon-valley-is-saying-no-thanks/)
+- [Collins backs out of ISS spacesuit contract with NASA](https://www.space.com/collins-backs-out-nasa-iss-spacesuit-contract)
+- [HubSpot says it’s investigating customer account hacks](https://techcrunch.com/2024/06/28/hubspot-says-its-investigating-customer-account-hacks/)
+- [Volkswagen’s Silicon Valley software hub is already stacked with Rivian talent](https://techcrunch.com/2024/06/28/volkswagens-silicon-valley-software-hub-is-already-stacked-with-rivian-talent/)
+- [All VCs say they are founder friendly; Detroit’s Ludlow Ventures takes that to another level](https://techcrunch.com/2024/06/28/all-vcs-say-they-are-founder-friendly-detroits-ludlow-ventures-takes-that-to-another-level/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
