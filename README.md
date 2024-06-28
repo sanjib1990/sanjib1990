@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars is an asteroid punching bag, NASA data reveals](https://www.space.com/mars-asteroid-impacts-nasa-insight-data)
+- [Pitch Deck Teardown: MegaMod’s $1.9M seed deck](https://techcrunch.com/2024/06/28/pitch-deck-teardown-megamods-1-9m-seed-deck/)
+- [The White House will host a conference for social media creators](https://techcrunch.com/2024/06/28/the-white-house-will-host-a-conference-for-social-media-creators/)
+- [Google Gemini: Everything you need to know about the new generative AI platform](https://techcrunch.com/2024/06/28/what-is-google-gemini-ai/)
 - [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [The gorgeous Ring Nebula makes a stunning skywatching sight this week](https://www.space.com/ring-nebula-celestial-smoke-ring-m57)
-- [Listen live today as NASA, Boeing discuss Starliner return, spacewalk issues](https://www.space.com/nasa-boeing-starliner-crew-flight-test-mission-delays-webcast)
-- [Who won the presidential debate: X or Threads?](https://techcrunch.com/2024/06/28/who-won-the-presidential-debate-x-or-threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
