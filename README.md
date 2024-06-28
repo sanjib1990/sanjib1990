@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 2nd batch of next-gen US spy satellites tonight](https://www.space.com/spacex-nrol-186-spy-satellite-launch)
+- [Here are the hottest product announcements from Apple, Google, Microsoft and others so far in 2024](https://techcrunch.com/2024/06/28/hottest-apple-products-google-microsoft/)
 - [Dark Skys DS-FX star projector review](https://www.space.com/dark-skys-ds-fx-star-projector-review)
-- [&#39;Immortal&#39; stars may exist in the heart of the Milky Way](https://www.space.com/immortal-stars-dark-matter-milky-way)
+- [‘Immortal stars’ could feast on dark matter in the Milky Way’s heart](https://www.space.com/immortal-stars-dark-matter-milky-way)
 - [Dark matter clue? Mysterious substance may be interacting with itself in nearby galaxy](https://www.space.com/self-interacting-dark-matter-milky-way-neighbor-galaxy)
-- [Feather raises €6 million to go pan-European with its insurance platform for expats](https://techcrunch.com/2024/06/28/feather-raises-e6-million-to-go-pan-european-with-its-insurance-platform-for-expats/)
-- [Rohlik rolls up $170M to expand in European grocery delivery and sell its tech to others](https://techcrunch.com/2024/06/28/rohlik-rolls-up-170m-to-expand-european-grocery-delivery-and-sell-its-tech-to-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
