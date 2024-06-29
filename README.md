@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Plaid, once aimed at fintechs, is growing its enterprise business and now has over 1,000 customers signed on](https://techcrunch.com/2024/06/29/as-plaid-matures-the-fintech-giant-says-enterprise-growth-is-starting-to-outpace-the-rest-of-its-business/)
+- [Detroit Police Department agrees to new rules around facial recognition tech](https://techcrunch.com/2024/06/29/detroit-police-department-agrees-to-new-rules-around-facial-recognition-tech/)
+- [Plaid, once aimed at mostly fintechs, is growing its enterprise business and now has over 1,000 customers signed on](https://techcrunch.com/2024/06/29/as-plaid-matures-the-fintech-giant-says-enterprise-growth-is-starting-to-outpace-the-rest-of-its-business/)
 - [MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating generative AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
 - [What are rogue planets?](https://www.space.com/rogue-planets-guide)
 - [This Week In Space podcast: Episode 117 —A Home on the Moon](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-117-home_on_moon)
-- [Matrix rebrands India, China units for ‘organizational independence’](https://techcrunch.com/2024/06/29/matrix-rebrands-india-china-units-for-organizational-independence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
