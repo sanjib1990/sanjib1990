@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benro Mach3 9X CF Series 3 tripod review](https://www.space.com/benro-mach3-9x-cf-series-3-tripod-review)
 - [NASA&#39;s Juno probe reveals lava lakes across Jupiter&#39;s volcanic moon Io &lpar;image&rpar;](https://www.space.com/nasa-juno-lava-lakes-io-volcanic-moon)
 - [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/)
 - [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/)
 - [NASA delays next ISS spacewalk until end of July due to spacesuit leak issue](https://www.space.com/nasa-iss-spacewalk-delay-july-leak-issue)
-- [NASA and Boeing deny Starliner crew is ‘stranded’: “We’re not in any rush to come home”](https://techcrunch.com/2024/06/28/nasa-and-boeing-deny-starliner-crew-is-stranded-were-not-in-any-rush-to-come-home/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
