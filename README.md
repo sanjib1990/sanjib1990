@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini’s data-analyzing abilities aren’t as good as Google claims](https://techcrunch.com/2024/06/29/geminis-data-analyzing-abilities-arent-as-good-as-google-claims/)
 - [The biggest data breaches in 2024: 1B stolen records and rising](https://techcrunch.com/2024/06/29/2024-in-data-breaches-1-billion-stolen-records-and-rising/)
 - [Apple finally supports RCS in iOS 18 update](https://techcrunch.com/2024/06/29/apple-finally-supports-rcs-in-ios-18-update/)
 - [SAP, and Oracle, and IBM, oh my! ‘Cloud and AI’ drive legacy software firms to record valuations](https://techcrunch.com/2024/06/29/sap-and-oracle-and-ibm-oh-my-cloud-and-ai-drive-legacy-software-firms-to-record-valuations/)
 - [Women in AI: Sarah Bitamazire helps companies implement responsible AI](https://techcrunch.com/2024/06/29/women-in-ai-sarah-bitamazire-helps-companies-implement-responsible-ai/)
-- [IRS finalizes new regulations for crypto tax reporting](https://techcrunch.com/2024/06/29/irs-finalizes-new-regulations-for-taxing-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
