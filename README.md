@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating generative AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
+- [What are rogue planets?](https://www.space.com/rogue-planets-guide)
 - [This Week In Space podcast: Episode 117 —A Home on the Moon](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-117-home_on_moon)
 - [Matrix rebrands India, China units for ‘organizational independence’](https://techcrunch.com/2024/06/29/matrix-rebrands-india-china-units-for-organizational-independence/)
 - [Why do some planets have moons? A physics expert explains why Earth has only one moon while other planets have hundreds](https://www.space.com/why-do-some-planets-have-moons)
-- [&#39;Stellar tanning salon&#39; brings light of alien suns to Earth](https://www.space.com/stellar-tanning-salon-art-project-jonathon-keats)
-- [&#39;A Quiet Place: Day One&#39; is a riveting return to the day Earth went silent &lpar;review&rpar;](https://www.space.com/a-quiet-place-day-one-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
