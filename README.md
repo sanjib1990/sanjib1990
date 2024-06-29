@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;A Quiet Place: Day One&#39; is a riveting return to the day Earth went silent &lpar;review&rpar;](https://www.space.com/a-quiet-place-day-one-review)
 - [Benro Mach3 9X CF Series 3 tripod review](https://www.space.com/benro-mach3-9x-cf-series-3-tripod-review)
 - [NASA&#39;s Juno probe reveals lava lakes across Jupiter&#39;s volcanic moon Io &lpar;image&rpar;](https://www.space.com/nasa-juno-lava-lakes-io-volcanic-moon)
 - [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/)
 - [YC alum Fluently’s AI-powered English coach attracts $2M seed round](https://techcrunch.com/2024/06/28/yc-alum-fluentlys-ai-powered-english-coach-attracts-2m-seed-round/)
-- [NASA delays next ISS spacewalk until end of July due to spacesuit leak issue](https://www.space.com/nasa-iss-spacewalk-delay-july-leak-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
