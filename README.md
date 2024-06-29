@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 117 —A Home on the Moon](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-117-home_on_moon)
+- [Matrix rebrands India, China units for ‘organizational independence’](https://techcrunch.com/2024/06/29/matrix-rebrands-india-china-units-for-organizational-independence/)
+- [Why do some planets have moons? A physics expert explains why Earth has only one moon while other planets have hundreds](https://www.space.com/why-do-some-planets-have-moons)
 - [&#39;Stellar tanning salon&#39; brings light of alien suns to Earth](https://www.space.com/stellar-tanning-salon-art-project-jonathon-keats)
 - [&#39;A Quiet Place: Day One&#39; is a riveting return to the day Earth went silent &lpar;review&rpar;](https://www.space.com/a-quiet-place-day-one-review)
-- [Benro Mach3 9X CF Series 3 tripod review](https://www.space.com/benro-mach3-9x-cf-series-3-tripod-review)
-- [NASA&#39;s Juno probe reveals lava lakes across Jupiter&#39;s volcanic moon Io &lpar;image&rpar;](https://www.space.com/nasa-juno-lava-lakes-io-volcanic-moon)
-- [Amazon hires founders away from AI startup Adept](https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
