@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered scams and what you can do about them](https://techcrunch.com/2024/06/30/ai-powered-scams-and-what-you-can-do-about-them/)
 - [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/)
 - [Robot cats, dogs and birds are being deployed amid an ‘epidemic of loneliness’](https://techcrunch.com/2024/06/30/robot-cats-dogs-and-birds-are-being-deployed-amid-an-epidemic-of-loneliness/)
 - [Apple reportedly working to bring AI to the Vision Pro](https://techcrunch.com/2024/06/30/apple-reportedly-working-to-bring-ai-to-the-vision-pro/)
 - [ServiceNow’s generative AI solutions are taking advantage of the data on its own platform](https://techcrunch.com/2024/06/30/servicenows-generative-ai-solutions-are-taking-advantage-of-the-data-on-its-own-platform/)
-- [Here are India’s biggest AI startups based on how much money they’ve raised](https://techcrunch.com/2024/06/30/here-are-indias-biggest-ai-startups-based-on-how-much-money-theyve-raised/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
