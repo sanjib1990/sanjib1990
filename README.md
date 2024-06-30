@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s International Asteroid Day, and astronomers have much to celebrate](https://www.space.com/international-asteroid-day-astronomers-celebrate)
 - [The new space race: International partnerships &lpar;op-ed&rpar;](https://www.space.com/the-new-space-race-international-partnerships)
 - [Ugreen PowerRoam 2200 power station review](https://www.space.com/ugreen-powerroam-2200-power-station-review)
 - [Gemini’s data-analyzing abilities aren’t as good as Google claims](https://techcrunch.com/2024/06/29/geminis-data-analyzing-abilities-arent-as-good-as-google-claims/)
 - [The biggest data breaches in 2024: 1B stolen records and rising](https://techcrunch.com/2024/06/29/2024-in-data-breaches-1-billion-stolen-records-and-rising/)
-- [Apple finally supports RCS in iOS 18 update](https://techcrunch.com/2024/06/29/apple-finally-supports-rcs-in-ios-18-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
