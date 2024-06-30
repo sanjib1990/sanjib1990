@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude crushed GPT-4o… and 13 other tech stories you missed in June](https://www.youtube.com/watch?v=FhqNN1LykWU)
 - [Rabbit R1 makes catastrophic rookie programming mistake](https://www.youtube.com/watch?v=lkbV8oP-F44)
 - [Lecture 10: Quiz 1 Review](https://www.youtube.com/watch?v=XEETOp5jo9w)
 - [Lecture 24: IS-LM and Expectations](https://www.youtube.com/watch?v=bEWpXwflCoY)
 - [Lecture 19: The Goods Market in the Open Economy](https://www.youtube.com/watch?v=f5ExlmDGdro)
-- [Lecture 23: Asset Pricing](https://www.youtube.com/watch?v=dCJEeSD7hKk)
 <!-- YOUTUBE:END -->
 
 ---
