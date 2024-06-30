@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ServiceNow’s generative AI solutions are taking advantage of the data on its own platform](https://techcrunch.com/2024/06/30/servicenows-generative-ai-solutions-are-taking-advantage-of-the-data-on-its-own-platform/)
 - [Here are India’s biggest AI startups based on how much money they’ve raised](https://techcrunch.com/2024/06/30/here-are-indias-biggest-ai-startups-based-on-how-much-money-theyve-raised/)
 - [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/)
 - [Mars Odyssey celebrates 100,000 orbits, captures epic view of solar system&#39;s largest volcano](https://www.space.com/mars-odyssey-100000-orbits-olympus-mons-image)
 - [It&#39;s International Asteroid Day, and astronomers have much to celebrate](https://www.space.com/international-asteroid-day-astronomers-celebrate)
-- [The new space race: International partnerships &lpar;op-ed&rpar;](https://www.space.com/the-new-space-race-international-partnerships)
 <!-- BLOG-POST-LIST:END -->
 
 ---
