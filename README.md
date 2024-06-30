@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Defense tech and ‘resilience’ get global funding sources: Here are some top funders](https://techcrunch.com/2024/06/30/defense-tech-and-resilience-get-global-funding-sources-here-are-some-top-funders/)
 - [Mars Odyssey celebrates 100,000 orbits, captures epic view of solar system&#39;s largest volcano](https://www.space.com/mars-odyssey-100000-orbits-olympus-mons-image)
 - [It&#39;s International Asteroid Day, and astronomers have much to celebrate](https://www.space.com/international-asteroid-day-astronomers-celebrate)
 - [The new space race: International partnerships &lpar;op-ed&rpar;](https://www.space.com/the-new-space-race-international-partnerships)
 - [Ugreen PowerRoam 2200 power station review](https://www.space.com/ugreen-powerroam-2200-power-station-review)
-- [Gemini’s data-analyzing abilities aren’t as good as Google claims](https://techcrunch.com/2024/06/29/geminis-data-analyzing-abilities-arent-as-good-as-google-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
