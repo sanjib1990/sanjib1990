@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Senators urge Synapse’s owners, partners, and VC backers to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/)
 - [Satellites watch &#39;extremely dangerous&#39; hurricane Beryl batter Carriacou island &lpar;video&rpar;](https://www.space.com/hurricane-beryl-satellites-category-4-storm)
 - [TechCrunch Space: Star spangled](https://techcrunch.com/2024/07/01/techcrunch-space-star-spangled/)
 - [Spotify tests emergency alerts in Sweden](https://techcrunch.com/2024/07/01/spotify-tests-emergency-alerts-in-sweden/)
 - [Not-so-static fire: Private Chinese rocket accidentally launches during test](https://www.space.com/space-pioneer-tianlong-3-rocket-accidental-launch)
-- [Forbidden black holes and ancient stars hide in these &#39;tiny red dots&#39; &lpar;image&rpar;](https://www.space.com/forbidden-black-holes-jwst-tiny-red-dots)
 <!-- BLOG-POST-LIST:END -->
 
 ---
