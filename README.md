@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s ‘pay or consent’ model fails EU competition rules, Commission finds](https://techcrunch.com/2024/07/01/metas-pay-or-consent-model-fails-eu-competition-rules-commission-finds/)
 - [This mysterious ancient computer has a &#39;calendar ring&#39; that followed the lunar year](https://www.space.com/gravitational-waves-lunar-year-cosmic-clock-antikythera-mechanism)
 - [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/)
 - [Japan launches advanced Earth-observing satellite on 3rd flight of H3 rocket](https://www.space.com/japan-alos-4-satellite-launch-h3-rocket)
 - [MIT’s soft robotic system is designed to pack groceries](https://techcrunch.com/2024/06/30/mits-soft-robotic-system-is-designed-to-pack-groceries/)
-- [AI-powered scams and what you can do about them](https://techcrunch.com/2024/06/30/ai-powered-scams-and-what-you-can-do-about-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
