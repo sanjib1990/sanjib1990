@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech company Wise says some customers affected by Evolve Bank data breach](https://techcrunch.com/2024/07/01/fintech-company-wise-says-some-customers-affected-by-evolve-bank-data-breach/)
 - [Watch Firefly Aerospace launch 8 cubesats to orbit tonight](https://www.space.com/firefly-aerospace-noise-of-summer-cubesat-launch)
 - [Supreme Court sends Texas and Florida social media regulation laws back to lower courts](https://techcrunch.com/2024/07/01/supreme-court-sends-texas-and-florida-social-media-moderation-laws-back-to-lower-courts/)
 - [Gifting on-demand startup Afloat goes nationwide](https://techcrunch.com/2024/07/01/gifting-on-demand-delivery-app-afloat/)
 - [Once-in-a-lifetime star explosion, visible from Earth, could happen any day now](https://www.space.com/the-universe/stars/once-in-a-lifetime-star-explosion-visible-from-earth-could-happen-any-day-now)
-- [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
