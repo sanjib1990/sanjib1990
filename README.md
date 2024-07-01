@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Japan launch advanced Earth-observing satellite on new H3 rocket tonight](https://www.space.com/japan-alos-4-satellite-launch-h3-rocket)
+- [Japan launches advanced Earth-observing satellite on 3rd flight of H3 rocket](https://www.space.com/japan-alos-4-satellite-launch-h3-rocket)
 - [MIT’s soft robotic system is designed to pack groceries](https://techcrunch.com/2024/06/30/mits-soft-robotic-system-is-designed-to-pack-groceries/)
 - [AI-powered scams and what you can do about them](https://techcrunch.com/2024/06/30/ai-powered-scams-and-what-you-can-do-about-them/)
 - [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/)
