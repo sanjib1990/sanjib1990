@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta changes its label from ‘Made with AI’ to ‘AI info’ to indicate use of AI in photos](https://techcrunch.com/2024/07/01/meta-changes-its-label-from-made-with-ai-to-ai-info-to-indicate-use-of-ai-in-photos/)
+- [Robinhood snaps up Pluto to add AI tools to its investing app](https://techcrunch.com/2024/07/01/robinhood-snaps-up-pluto-to-add-ai-tools-to-its-investing-app/)
 - [See the sun rage behind the ISS in epic time-lapse photo](https://www.space.com/sun-behind-iss-photo-miguel-claro)
 - [Vaire Computing raises $4.5M for ‘reversible computing’ moonshot which could drastically reduce energy needs](https://techcrunch.com/2024/07/01/vaire-computing-raises-4-5m-for-reversible-computing-moonshot-which-could-drastically-reduce-energy-needs/)
 - [Meta’s ‘pay or consent’ model fails EU competition rules, Commission finds](https://techcrunch.com/2024/07/01/metas-pay-or-consent-model-fails-eu-competition-rules-commission-finds/)
-- [This mysterious ancient computer has a &#39;calendar ring&#39; that followed the lunar year](https://www.space.com/gravitational-waves-lunar-year-cosmic-clock-antikythera-mechanism)
-- [Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M](https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
