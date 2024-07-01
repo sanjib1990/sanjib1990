@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Japan launch advanced Earth-observing satellite on new H3 rocket tonight](https://www.space.com/japan-alos-4-satellite-launch-h3-rocket)
 - [MIT’s soft robotic system is designed to pack groceries](https://techcrunch.com/2024/06/30/mits-soft-robotic-system-is-designed-to-pack-groceries/)
 - [AI-powered scams and what you can do about them](https://techcrunch.com/2024/06/30/ai-powered-scams-and-what-you-can-do-about-them/)
 - [Identity.vc is bringing capital and community to Europe’s LGBTQ+ venture ecosystem](https://techcrunch.com/2024/06/30/identity-vc-is-bringing-capital-and-community-to-europes-lgbtq-venture-ecosystem/)
 - [Robot cats, dogs and birds are being deployed amid an ‘epidemic of loneliness’](https://techcrunch.com/2024/06/30/robot-cats-dogs-and-birds-are-being-deployed-amid-an-epidemic-of-loneliness/)
-- [Apple reportedly working to bring AI to the Vision Pro](https://techcrunch.com/2024/06/30/apple-reportedly-working-to-bring-ai-to-the-vision-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
