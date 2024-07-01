@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Once-in-a-lifetime star explosion, visible from Earth, could happen any day now](https://www.space.com/the-universe/stars/once-in-a-lifetime-star-explosion-visible-from-earth-could-happen-any-day-now)
+- [Drive brand impact with a Side Event at TechCrunch Disrupt](https://techcrunch.com/2024/07/01/drive-brand-impact-with-side-event-at-techcrunch-disrupt/)
 - [Meta changes its label from ‘Made with AI’ to ‘AI info’ to indicate use of AI in photos](https://techcrunch.com/2024/07/01/meta-changes-its-label-from-made-with-ai-to-ai-info-to-indicate-use-of-ai-in-photos/)
 - [Robinhood snaps up Pluto to add AI tools to its investing app](https://techcrunch.com/2024/07/01/robinhood-snaps-up-pluto-to-add-ai-tools-to-its-investing-app/)
 - [See the sun rage behind the ISS in epic time-lapse photo](https://www.space.com/sun-behind-iss-photo-miguel-claro)
-- [Vaire Computing raises $4.5M for ‘reversible computing’ moonshot which could drastically reduce energy needs](https://techcrunch.com/2024/07/01/vaire-computing-raises-4-5m-for-reversible-computing-moonshot-which-could-drastically-reduce-energy-needs/)
-- [Meta’s ‘pay or consent’ model fails EU competition rules, Commission finds](https://techcrunch.com/2024/07/01/metas-pay-or-consent-model-fails-eu-competition-rules-commission-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
