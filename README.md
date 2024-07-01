@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites watch &#39;extremely dangerous&#39; hurricane Beryl batter Carriacou island &lpar;video&rpar;](https://www.space.com/hurricane-beryl-satellites-category-4-storm)
+- [TechCrunch Space: Star spangled](https://techcrunch.com/2024/07/01/techcrunch-space-star-spangled/)
+- [Spotify tests emergency alerts in Sweden](https://techcrunch.com/2024/07/01/spotify-tests-emergency-alerts-in-sweden/)
 - [Not-so-static fire: Private Chinese rocket accidentally launches during test](https://www.space.com/space-pioneer-tianlong-3-rocket-accidental-launch)
 - [Forbidden black holes and ancient stars hide in these &#39;tiny red dots&#39; &lpar;image&rpar;](https://www.space.com/forbidden-black-holes-jwst-tiny-red-dots)
-- [Why puffy exoplanets often dance with perfect rhythm](https://www.space.com/puffy-sub-neptune-exoplanets-resonance)
-- [YouTube now lets you request removal of AI-generated content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/)
-- [Fintech company Wise says some customers affected by Evolve Bank data breach](https://techcrunch.com/2024/07/01/fintech-company-wise-says-some-customers-affected-by-evolve-bank-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
