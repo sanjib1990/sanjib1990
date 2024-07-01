@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Forbidden black holes and ancient stars hide in these &#39;tiny red dots&#39; &lpar;image&rpar;](https://www.space.com/forbidden-black-holes-jwst-tiny-red-dots)
 - [Why puffy exoplanets often dance with perfect rhythm](https://www.space.com/puffy-sub-neptune-exoplanets-resonance)
 - [YouTube now lets you request removal of AI-generated content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/)
 - [Fintech company Wise says some customers affected by Evolve Bank data breach](https://techcrunch.com/2024/07/01/fintech-company-wise-says-some-customers-affected-by-evolve-bank-data-breach/)
 - [Watch Firefly Aerospace launch 8 cubesats to orbit tonight](https://www.space.com/firefly-aerospace-noise-of-summer-cubesat-launch)
-- [Supreme Court sends Texas and Florida social media regulation laws back to lower courts](https://techcrunch.com/2024/07/01/supreme-court-sends-texas-and-florida-social-media-moderation-laws-back-to-lower-courts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
