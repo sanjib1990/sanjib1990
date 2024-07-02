@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Lego-inspired &#39;space bricks&#39; could help scientists design moon habitats. Here&#39;s how](https://www.space.com/esa-lego-bricks-moon-habitats)
+- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/)
 - [If alien terraforming emits greenhouse gases, our telescopes could detect it](https://www.space.com/alien-greenhouse-gases-technosignatures)
 - [Apple adds support for new languages across lock screen, keyboard and search on iOS 18](https://techcrunch.com/2024/07/02/apple-adds-support-for-new-languages-across-lock-screen-keyboard-and-search-on-ios-18/)
-- [Anthropic looks to fund a new, more comprehensive generation of AI benchmarks](https://techcrunch.com/2024/07/01/anthropic-looks-to-fund-a-new-more-comprehensive-generation-of-ai-benchmarks/)
-- [Senators urge owners, partners, and VC backers of fintech Synapse to restore customers’ access to their money](https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/)
-- [Satellites watch &#39;extremely dangerous&#39; Hurricane Beryl batter Carriacou island &lpar;video&rpar;](https://www.space.com/hurricane-beryl-satellites-category-4-storm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
