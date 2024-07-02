@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolve hack fallout continues, fintech M&amp;A heats up and Plaid talks enterprise push](https://techcrunch.com/2024/07/02/evolve-hack-fallout-continues-fintech-ma-heats-up-and-plaid-talks-enterprise-push/)
+- [Former cryptocurrency company plans reality TV competition to pick next Blue Origin spaceflight crew](https://www.space.com/blue-origin-reality-television-spaceflight-crew)
+- [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/)
+- [Snapchat’s latest features help users personalize their accounts](https://techcrunch.com/2024/07/02/snapchats-latest-features-help-users-personalize-their-accounts/)
 - [Meta plans to bring generative AI to metaverse games](https://techcrunch.com/2024/07/02/meta-plans-to-bring-generative-ai-to-metaverse-games/)
-- [Giant river system that existed 40 million years ago discovered deep below Antarctic ice](https://www.space.com/giant-river-40-million-years-old-discovered-below-antarctic-ice)
-- [TechCrunch Minute: A beginner’s guide to the fediverse](https://techcrunch.com/video/techcrunch-minute-a-beginners-guide-to-the-fediverse/)
-- [Watch SpaceX catch Starship Super Heavy booster with &#39;chopsticks&#39; in this animation](https://www.space.com/spacex-starship-super-heavy-catch-chopsticks-animation)
-- [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
