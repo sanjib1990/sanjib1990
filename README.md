@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Lego-inspired &#39;space bricks&#39; could help scientists design moon habitats. Here&#39;s how](https://www.space.com/esa-lego-bricks-moon-habitats)
-- [Indian edtech Unacademy cuts another 250 jobs](https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/)
-- [If alien terraforming emits greenhouse gases, our telescopes could detect it](https://www.space.com/alien-greenhouse-gases-technosignatures)
-- [Apple adds support for new languages across lock screen, keyboard and search on iOS 18](https://techcrunch.com/2024/07/02/apple-adds-support-for-new-languages-across-lock-screen-keyboard-and-search-on-ios-18/)
+- [Find a piece of SpaceX space junk? Call the hotline](https://www.space.com/spacex-dragon-space-junk-hotline)
+- [Sensorita uses digital twins to help waste management companies streamline construction waste](https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/)
+- [As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently](https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/)
+- [Husband-and-wife former Olympians target $50M for new fund to invest in influencer-led consumer brands](https://techcrunch.com/2024/07/02/samyr-laine-freedom-trail-capital-venture-capital/)
+- [Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups](https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
