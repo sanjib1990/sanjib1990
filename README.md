@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evolve Bank sent a cease and desist letter to a newsletter writer covering its data breach](https://techcrunch.com/2024/07/02/evolve-bank-sent-a-cease-and-desist-letter-to-a-newsletter-writer-covering-its-data-breach/)
+- [SpaceX launching 20 Starlink satellites from Florida early on July 3](https://www.space.com/spacex-starlink-launch-group-8-9)
 - [Scientists finally found 2 of the Milky Way&#39;s missing dwarf galaxies. What could this mean for astronomy?](https://www.space.com/milky-way-satellite-dwarf-galaxies-found)
 - [Boeing&#39;s Starliner can stay in space beyond 45-day limit, NASA says](https://www.space.com/nasa-boeing-starliner-crew-flight-test-45-day-limit-extension)
 - [Northrop Grumman names Cygnus cargo craft for fallen Challenger commander](https://www.space.com/northrop-grumman-ng21-francis-dick-scobee-shuttle-challenger)
-- [Twitter/X alternative Mastodon appeals to journalists with new ‘byline’ feature](https://techcrunch.com/2024/07/02/twitter-x-alternative-mastodon-appeals-to-journalists-with-latest-byline-feature/)
-- [X weighs adding a downvote button to replies — but it doesn’t want to emulate Reddit](https://techcrunch.com/2024/07/02/x-weighs-adding-a-downvote-button-to-replies-but-it-doesnt-want-to-emulate-reddit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
