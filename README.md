@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X weighs adding a downvote button to replies — but it doesn’t want to emulate Reddit](https://techcrunch.com/2024/07/02/x-weighs-adding-a-downvote-button-to-replies-but-it-doesnt-want-to-emulate-reddit/)
+- [&#39;Great Food Truck Race&#39; blasts off on 17th season with stop at NASA](https://www.space.com/great-food-truck-race-blast-off-nasa-houston)
+- [Yieldstreet says some of its customers were affected by the Evolve Bank data breach](https://techcrunch.com/2024/07/02/yieldstreet-says-some-of-its-customers-were-affected-by-the-evolve-bank-data-breach/)
 - [Evolve hack fallout continues, fintech M&amp;A heats up and Plaid talks enterprise push](https://techcrunch.com/2024/07/02/evolve-hack-fallout-continues-fintech-ma-heats-up-and-plaid-talks-enterprise-push/)
 - [Former cryptocurrency company plans reality TV competition to pick next Blue Origin spaceflight crew](https://www.space.com/blue-origin-reality-television-spaceflight-crew)
-- [What You Need to Raise a Series A Today at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/)
-- [Snapchat’s latest features help users personalize their accounts](https://techcrunch.com/2024/07/02/snapchats-latest-features-help-users-personalize-their-accounts/)
-- [Meta plans to bring generative AI to metaverse games](https://techcrunch.com/2024/07/02/meta-plans-to-bring-generative-ai-to-metaverse-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
