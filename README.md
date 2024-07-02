@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta plans to bring generative AI to metaverse games](https://techcrunch.com/2024/07/02/meta-plans-to-bring-generative-ai-to-metaverse-games/)
+- [Giant river system that existed 40 million years ago discovered deep below Antarctic ice](https://www.space.com/giant-river-40-million-years-old-discovered-below-antarctic-ice)
+- [TechCrunch Minute: A beginner’s guide to the fediverse](https://techcrunch.com/video/techcrunch-minute-a-beginners-guide-to-the-fediverse/)
 - [Watch SpaceX catch Starship Super Heavy booster with &#39;chopsticks&#39; in this animation](https://www.space.com/spacex-starship-super-heavy-catch-chopsticks-animation)
 - [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/)
-- [Figma disables its AI design feature that appeared to be ripping off Apple’s Weather app](https://techcrunch.com/2024/07/02/figma-disables-its-ai-design-feature-that-appeared-to-be-ripping-off-apples-weather-app/)
-- [Get an up-close look at China&#39;s Chang&#39;e 6 farside moon rover &lpar;video&rpar;](https://www.space.com/china-change-6-moon-far-side-minirover)
-- [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/tktktk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
