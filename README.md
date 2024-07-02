@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX catch Starship Super Heavy booster with &#39;chopsticks&#39; in this animation](https://www.space.com/spacex-starship-super-heavy-catch-chopsticks-animation)
+- [News outlets are accusing Perplexity of plagiarism and unethical web scraping](https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/)
+- [Figma disables its AI design feature that appeared to be ripping off Apple’s Weather app](https://techcrunch.com/2024/07/02/figma-disables-its-ai-design-feature-that-appeared-to-be-ripping-off-apples-weather-app/)
 - [Get an up-close look at China&#39;s Chang&#39;e 6 farside moon rover &lpar;video&rpar;](https://www.space.com/china-change-6-moon-far-side-minirover)
 - [Computing and shielding startups join forces to put AI-capable chips in space](https://techcrunch.com/2024/07/02/tktktk/)
-- [Find a piece of SpaceX space junk? Call the hotline](https://www.space.com/spacex-dragon-space-junk-hotline)
-- [Sensorita uses digital twins to help waste management companies streamline construction waste](https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/)
-- [As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently](https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
