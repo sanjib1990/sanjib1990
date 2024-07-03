@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Under the moon&#39;s surface, magnetized lava may create &#39;lunar swirls&#39;](https://www.space.com/magnetized-lava-lunar-swirls-moon-surface)
+- [Fizz, the anonymous Gen Z social app, adds a marketplace for college students](https://techcrunch.com/2024/07/03/fizz-the-anonymous-gen-z-social-app-adds-a-marketplace-for-college-students/)
+- [Deep tech VC Sidney Scott explains why he’s closing his firm as this area booms](https://techcrunch.com/2024/07/03/deep-tech-venture-capital-sidney-scott/)
 - [SpaceX to launch NASA gamma-ray space telescope in 2027](https://www.space.com/spacex-launch-contract-nasa-cosi-space-telescope)
-- [How to turn off those silly video calls reactions on iPhone and Mac](https://techcrunch.com/2024/07/03/how-to-turn-off-those-silly-video-calls-reactions-on-iphone-and-mac/)
-- [Amazon retires its Astro for Business security robot after only 7 months](https://techcrunch.com/2024/07/03/amazon-discontinues-astro-for-business-security-robot/)
-- [This Week in AI: With Chevron’s demise, AI regulation seems dead in the water](https://techcrunch.com/2024/07/03/this-week-in-ai-with-chevrons-demise-ai-regulation-seems-dead-in-the-water/)
-- [&#39;It&#39;s heart-forward:&#39; Q&amp;A with &#39;Star Trek: Prodigy&#39; creators about Season 2 &lpar;exclusive&rpar;](https://www.space.com/star-trek-prodigy-creators-hageman-interview)
+- [How to turn off those silly video call reactions on iPhone and Mac](https://techcrunch.com/2024/07/03/how-to-turn-off-those-silly-video-calls-reactions-on-iphone-and-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
