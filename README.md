@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches communications satellite on 30th mission of the year &lpar;video&rpar;](https://www.space.com/china-satellite-launch-30th-mission-2024)
 - [CoinDCX acquires BitOasis in international expansion push](https://techcrunch.com/2024/07/03/coindcx-acquires-bitoasis-in-international-expansion-push/)
 - [China&#39;s Shenzhou 18 astronauts prep for 2nd spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-18-astronauts-prepare-2nd-spacewalk-video)
 - [In a major update, Proton adds privacy-safe document collaboration to Drive, its freemium E2EE cloud storage service](https://techcrunch.com/2024/07/03/in-major-update-proton-adds-privacy-safe-document-collaboration-to-drive-its-freemium-e2ee-cloud-storage-service/)
 - [Telegram lets creators share paid content to channels](https://techcrunch.com/2024/07/03/telegram-lets-creators-share-paid-content-to-channels/)
-- [Altrove uses AI models and lab automation to create new materials](https://techcrunch.com/2024/07/03/altrove-uses-ai-models-and-lab-automation-to-create-new-materials/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
