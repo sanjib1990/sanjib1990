@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Streaks in space! ISS astronaut&#39;s incredible timelapse photos highlight ghostly solar panels and lovely star trails](https://www.space.com/nasa-astronaut-photo-timelapse-iss-space)
+- [SpaceX targeting July 31 for launch of historic Polaris Dawn astronaut mission](https://www.space.com/spacex-polaris-dawn-astronaut-launch-july-31)
 - [How &#39;Star Wars: The Acolyte&#39; created a fresh new look for the Jedi &lpar;exclusive interview&rpar;](https://www.space.com/star-wars-the-acolyte-costume-designer-jennifer-bryan-interview)
 - [Roll20, an online tabletop role-playing game platform, discloses data breach](https://techcrunch.com/2024/07/03/roll20-an-online-tabletop-role-playing-game-platform-discloses-data-breach/)
 - [Fisker asks bankruptcy court to sell its EVs at average of $14,000 each](https://techcrunch.com/2024/07/03/fisker-ocean-bankruptcy-sale-approval-assets/)
-- [Under the moon&#39;s surface, magnetized lava may create &#39;lunar swirls&#39;](https://www.space.com/magnetized-lava-lunar-swirls-moon-surface)
-- [Fizz, the anonymous Gen Z social app, adds a marketplace for college students](https://techcrunch.com/2024/07/03/fizz-the-anonymous-gen-z-social-app-adds-a-marketplace-for-college-students/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
