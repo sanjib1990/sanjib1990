@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Altrove uses AI models and lab automation to create new materials](https://techcrunch.com/2024/07/03/altrove-uses-ai-models-and-lab-automation-to-create-new-materials/)
+- [Indian social network Koo to shut down](https://techcrunch.com/2024/07/02/indian-social-network-koo-to-shut-down/)
 - [Europe is still serious about ESG, and Apiday is helping companies comply](https://techcrunch.com/2024/07/02/helped-by-regulatory-tailwinds-apiday-eyes-the-european-esg-reporting-market/)
 - [Google’s environmental report pointedly avoids AI’s actual energy cost](https://techcrunch.com/2024/07/02/googles-environmental-report-pointedly-avoids-ais-actual-energy-cost/)
 - [SpaceX wants to launch up to 120 times a year from Florida — and competitors aren’t happy about it](https://techcrunch.com/2024/07/02/spacex-wants-to-launch-up-to-120-times-a-year-from-florida-and-competitors-arent-happy-about-it/)
-- [Newsletter writer covering Evolve Bank’s data breach says the bank sent him a cease and desist letter](https://techcrunch.com/2024/07/02/evolve-bank-sent-a-cease-and-desist-letter-to-a-newsletter-writer-covering-its-data-breach/)
-- [SpaceX launching 20 Starlink satellites from Florida early on July 3](https://www.space.com/spacex-starlink-launch-group-8-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
