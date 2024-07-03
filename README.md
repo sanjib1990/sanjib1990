@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mystery of dead stars&#39; glitching &#39;heartbeats&#39; could have a twisted solution](https://www.space.com/neutron-stars-glitching-heartbeats-twisted-solution)
-- [China launches communications satellite on 30th mission of the year &lpar;video&rpar;](https://www.space.com/china-satellite-launch-30th-mission-2024)
-- [CoinDCX acquires BitOasis in international expansion push](https://techcrunch.com/2024/07/03/coindcx-acquires-bitoasis-in-international-expansion-push/)
-- [China&#39;s Shenzhou 18 astronauts prep for 2nd spacewalk &lpar;video&rpar;](https://www.space.com/china-shenzhou-18-astronauts-prepare-2nd-spacewalk-video)
-- [In a major update, Proton adds privacy-safe document collaboration to Drive, its freemium E2EE cloud storage service](https://techcrunch.com/2024/07/03/in-major-update-proton-adds-privacy-safe-document-collaboration-to-drive-its-freemium-e2ee-cloud-storage-service/)
+- [We could terraform Mars with desert moss — but does that mean we should?](https://www.space.com/desert-moss-terraforming-mars)
+- [Granza Bio grabs $7M seed from Felicis and YC to advance delivery of cancer treatments](https://techcrunch.com/2024/07/03/granza-bio-grabs-7m-seed-from-felicis-and-yc-to-advance-delivery-of-cancer-treatments/)
+- [From burritos to biotech: How robotics startup Cartken found its AV niche](https://techcrunch.com/2024/07/03/from-burritos-to-biotech-how-robotics-startup-cartken-found-its-av-niche/)
+- [LG acquires smart home platform Athom to bring third-party connectivity to its ThinQ ecosytem](https://techcrunch.com/2024/07/03/lg-acquires-smart-home-platform-athom-to-bring-third-party-connectivity-to-its-thinq-ecosytem/)
+- [Fisker asks bankruptcy court to sell its EVs at average of $14,000 each](https://techcrunch.com/2024/07/03/fisker-ocean-bankruptcy-sale-approval-assets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
