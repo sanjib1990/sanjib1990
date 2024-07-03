@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [We could terraform Mars with desert moss — but does that mean we should?](https://www.space.com/desert-moss-terraforming-mars)
-- [Granza Bio grabs $7M seed from Felicis and YC to advance delivery of cancer treatments](https://techcrunch.com/2024/07/03/granza-bio-grabs-7m-seed-from-felicis-and-yc-to-advance-delivery-of-cancer-treatments/)
-- [From burritos to biotech: How robotics startup Cartken found its AV niche](https://techcrunch.com/2024/07/03/from-burritos-to-biotech-how-robotics-startup-cartken-found-its-av-niche/)
-- [LG acquires smart home platform Athom to bring third-party connectivity to its ThinQ ecosytem](https://techcrunch.com/2024/07/03/lg-acquires-smart-home-platform-athom-to-bring-third-party-connectivity-to-its-thinq-ecosytem/)
-- [Fisker asks bankruptcy court to sell its EVs at average of $14,000 each](https://techcrunch.com/2024/07/03/fisker-ocean-bankruptcy-sale-approval-assets/)
+- [Nano Dimension is buying Desktop Metal](https://techcrunch.com/2024/07/03/nano-dimension-is-buying-desktop-metal/)
+- [Earth&#39;s upper atmosphere could hold a missing piece of the universe, new study hints](https://www.space.com/upper-atmosphere-could-hold-mystery-of-the-universe)
+- [Groups save big at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/03/groups-save-big-at-techcrunch-disrupt-2024/)
+- [Music video-sharing app Popster uses generative AI and lets artists remix videos](https://techcrunch.com/2024/07/03/popster-music-video-sharing-app-generative-ai-artists/)
+- [Threads nears its one-year anniversary with more than 175M monthly active users](https://techcrunch.com/2024/07/03/threads-nears-its-one-year-anniversary-with-more-than-175m-monthly-active-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
