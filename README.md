@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nano Dimension is buying Desktop Metal](https://techcrunch.com/2024/07/03/nano-dimension-is-buying-desktop-metal/)
-- [Earth&#39;s upper atmosphere could hold a missing piece of the universe, new study hints](https://www.space.com/upper-atmosphere-could-hold-mystery-of-the-universe)
-- [Groups save big at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/03/groups-save-big-at-techcrunch-disrupt-2024/)
-- [Music video-sharing app Popster uses generative AI and lets artists remix videos](https://techcrunch.com/2024/07/03/popster-music-video-sharing-app-generative-ai-artists/)
-- [Threads nears its one-year anniversary with more than 175M monthly active users](https://techcrunch.com/2024/07/03/threads-nears-its-one-year-anniversary-with-more-than-175m-monthly-active-users/)
+- [Astronaut ice cream turns 50: freeze-dried treat still popular &lpar;even if it never flew&rpar;](https://www.space.com/astronaut-ice-cream-50-years)
+- [TechCrunch Minute: YouTube makes it easier to report and take down AI deepfakes](https://techcrunch.com/video/techcrunch-minute-youtube-makes-it-easier-to-report-and-take-down-ai-deepfakes/)
+- [NASA announces Artemis 2 moon mission backup astronaut — Andre Douglas will support 2025 lunar liftoff](https://www.space.com/artemis-2-moon-mission-backup-astronaut-andre-douglas)
+- [Cloudflare launches a tool to combat AI bots](https://techcrunch.com/2024/07/03/cloudflare-launches-a-tool-to-combat-ai-bots/)
+- [Twilio says hackers identified cell phone numbers of two-factor app Authy users](https://techcrunch.com/2024/07/03/twilio-says-hackers-identified-cell-phone-numbers-of-two-factor-app-authy-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
