@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Linux on Windows &lpar;WSL Tutorial&rpar;](https://www.youtube.com/watch?v=vxTW22y8zV8)
+- [Linux on Windows......Windows on Linux](https://www.youtube.com/watch?v=vxTW22y8zV8)
 - [Top 4 AI Tools for Engineers that are ACTUALLY useful](https://www.youtube.com/watch?v=boEB2fMUZnU)
 - [Claude crushed GPT-4o… and 13 other tech stories you missed in June](https://www.youtube.com/watch?v=FhqNN1LykWU)
 - [Rabbit R1 makes catastrophic rookie programming mistake](https://www.youtube.com/watch?v=lkbV8oP-F44)
