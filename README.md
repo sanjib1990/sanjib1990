@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronauts send Fourth of July message to Earth from ISS &lpar;video&rpar;](https://www.space.com/nasa-astronauts-iss-july-4-message-2024)
 - [J2 Ventures, focused on military healthcare, grabs $150M for its second fund](https://techcrunch.com/2024/07/04/j2-ventures-focused-on-military-healthcare-grabs-150m-for-its-second-fund/)
 - [Happy 4th of July! Infant star creates red, white and blue fireworks in new JWST image](https://www.space.com/james-webb-space-telescope-july-4-photo)
 - [HealthEquity says data breach is an ‘isolated incident’](https://techcrunch.com/2024/07/03/healthequity-says-data-breach-is-an-isolated-incident/)
 - [Streaks in space! ISS astronaut&#39;s incredible timelapse photos highlight ghostly solar panels and lovely star trails](https://www.space.com/nasa-astronaut-photo-timelapse-iss-space)
-- [SpaceX targeting July 31 for launch of historic Polaris Dawn astronaut mission](https://www.space.com/spacex-polaris-dawn-astronaut-launch-july-31)
 <!-- BLOG-POST-LIST:END -->
 
 ---
