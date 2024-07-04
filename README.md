@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boiling rocks from Earth&#39;s crust tore an ocean into Mongolia 410 million years ago](https://www.space.com/boiling-rocks-from-earth-crust-tore-ocean-into-mongolia-410-million-years-ago)
+- [Spain’s exposure to climate change helps Madrid-based VC, Seaya, close €300M climate-tech fund](https://techcrunch.com/2024/07/04/spains-exposure-to-climate-change-helps-madrid-based-vc-seaya-close-e300m-climate-tech-fund/)
 - [Science and music festival Starmus 2025 will return to the Canary Islands](https://www.space.com/starmus-2025-announcement-la-palma)
 - [Forestay, Europe’s newest $220M growth-stage VC fund, will focus on AI](https://techcrunch.com/2024/07/04/forestay-europes-newest-220m-growth-stage-vc-fund-will-focus-on-ai/)
 - [10 tips for planning your 2026 solar eclipse trip](https://www.space.com/top-tips-planning-total-solar-eclipse-2026-trip)
-- [Save $120 this July 4 on the DJI Mini 3 fly more combo](https://www.space.com/july-4-drone-deal-dji-mini-3-save-120-dollars)
-- [&#39;Space Cadet&#39; applies humor to NASA astronaut selection, says film director &lpar;interview&rpar;](https://www.space.com/space-cadet-movie-director-liz-w-garcia-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
