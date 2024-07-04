@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 tips for planning your 2026 solar eclipse trip](https://www.space.com/top-tips-planning-total-solar-eclipse-2026-trip)
 - [Save $120 this July 4 on the DJI Mini 3 fly more combo](https://www.space.com/july-4-drone-deal-dji-mini-3-save-120-dollars)
 - [&#39;Space Cadet&#39; applies humor to NASA astronaut selection, says film director &lpar;interview&rpar;](https://www.space.com/space-cadet-movie-director-liz-w-garcia-interview)
 - [A year later, what Threads could learn from other social networks](https://techcrunch.com/2024/07/04/a-year-later-what-threads-could-learn-from-other-social-networks/)
 - [NASA astronauts send Fourth of July message to Earth from ISS &lpar;video&rpar;](https://www.space.com/nasa-astronauts-iss-july-4-message-2024)
-- [J2 Ventures, focused on military healthcare, grabs $150M for its second fund](https://techcrunch.com/2024/07/04/j2-ventures-focused-on-military-healthcare-grabs-150m-for-its-second-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
