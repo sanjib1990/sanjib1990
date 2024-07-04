@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save $120 this July 4 on the DJI Mini 3 fly more combo](https://www.space.com/july-4-drone-deal-dji-mini-3-save-120-dollars)
+- [&#39;Space Cadet&#39; applies humor to NASA astronaut selection, says film director &lpar;interview&rpar;](https://www.space.com/space-cadet-movie-director-liz-w-garcia-interview)
+- [A year later, what Threads could learn from other social networks](https://techcrunch.com/2024/07/04/a-year-later-what-threads-could-learn-from-other-social-networks/)
 - [NASA astronauts send Fourth of July message to Earth from ISS &lpar;video&rpar;](https://www.space.com/nasa-astronauts-iss-july-4-message-2024)
 - [J2 Ventures, focused on military healthcare, grabs $150M for its second fund](https://techcrunch.com/2024/07/04/j2-ventures-focused-on-military-healthcare-grabs-150m-for-its-second-fund/)
-- [Happy 4th of July! Infant star creates red, white and blue fireworks in new JWST image](https://www.space.com/james-webb-space-telescope-july-4-photo)
-- [HealthEquity says data breach is an ‘isolated incident’](https://techcrunch.com/2024/07/03/healthequity-says-data-breach-is-an-isolated-incident/)
-- [Streaks in space! ISS astronaut&#39;s incredible timelapse photos highlight ghostly solar panels and lovely star trails](https://www.space.com/nasa-astronaut-photo-timelapse-iss-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
