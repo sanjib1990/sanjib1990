@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Science and music festival Starmus 2025 will return to the Canary Islands](https://www.space.com/starmus-2025-announcement-la-palma)
+- [Forestay, Europe’s newest $220M growth-stage VC fund, will focus on AI](https://techcrunch.com/2024/07/04/forestay-europes-newest-220m-growth-stage-vc-fund-will-focus-on-ai/)
 - [10 tips for planning your 2026 solar eclipse trip](https://www.space.com/top-tips-planning-total-solar-eclipse-2026-trip)
 - [Save $120 this July 4 on the DJI Mini 3 fly more combo](https://www.space.com/july-4-drone-deal-dji-mini-3-save-120-dollars)
 - [&#39;Space Cadet&#39; applies humor to NASA astronaut selection, says film director &lpar;interview&rpar;](https://www.space.com/space-cadet-movie-director-liz-w-garcia-interview)
-- [A year later, what Threads could learn from other social networks](https://techcrunch.com/2024/07/04/a-year-later-what-threads-could-learn-from-other-social-networks/)
-- [NASA astronauts send Fourth of July message to Earth from ISS &lpar;video&rpar;](https://www.space.com/nasa-astronauts-iss-july-4-message-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
