@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX teases catching Super Heavy booster with &#39;chopsticks&#39; on upcoming Starship test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-chopsticks-animation)
+- [Apple approves Epic Games’ marketplace app after initial rejections](https://techcrunch.com/2024/07/05/epic-games-calls-out-apple-for-rejecting-its-games-store-in-the-eu/)
 - [2 asteroids just zipped by Earth, and NASA caught footage of the action](https://www.space.com/nasa-goldstone-radar-system)
 - [Chinese astronauts install space-junk shielding on Tiangong space station &lpar;video&rpar;](https://www.space.com/shenzhou-18-second-spacewalk-tiangong-space-debris-shield)
 - [The early solar system was donut-shaped, meteorite study suggests](https://www.space.com/early-solar-system-donut-shaped-meteorite-study)
-- [OpenAI breach is a reminder that AI companies are treasure troves for hackers](https://techcrunch.com/2024/07/05/openai-breach-is-a-reminder-that-ai-companies-are-treasure-troves-for-hackers/)
-- [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
