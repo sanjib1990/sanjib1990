@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The early solar system was donut-shaped, meteorite study suggests](https://www.space.com/early-solar-system-donut-shaped-meteorite-study)
+- [OpenAI breach is a reminder that AI companies are treasure troves for hackers](https://techcrunch.com/2024/07/05/openai-breach-is-a-reminder-that-ai-companies-are-treasure-troves-for-hackers/)
 - [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/)
 - [&#39;No fireworks on ISS,&#39; so astronauts experiment with &#39;light painting&#39; instead &lpar;photos&rpar;](https://www.space.com/iss-photography-astronaut-independence-day-stars-and-stripes-flag-light-painting)
 - [X plans to more deeply integrate Grok’s AI, app researcher finds](https://techcrunch.com/2024/07/05/x-plans-to-more-deeply-integrate-groks-ai-app-researcher-finds/)
-- [Watch the 1st teaser trailer for new horror game &#39;A Quiet Place: The Road Ahead&#39;](https://www.space.com/a-quiet-place-the-road-ahead-video-game-first-trailer)
-- [New moon of July 2024: Dark skies tonight as Earth is farthest from the sun today](https://www.space.com/new-moon-july-2024-aphelion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
