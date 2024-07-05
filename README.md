@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Airtel dismisses data breach reports amid customer concerns](https://techcrunch.com/2024/07/05/indias-airtel-dismisses-data-breach-reports-amid-customer-concerns/)
 - [Scientists tap into 2 new quantum methods to catch dark matter suspects](https://www.space.com/dark-matter-experiments-axions-quest-dmc-qshs)
 - [Boiling rocks from Earth&#39;s crust tore an ocean into Mongolia 410 million years ago](https://www.space.com/boiling-rocks-from-earth-crust-tore-ocean-into-mongolia-410-million-years-ago)
 - [Spain’s exposure to climate change helps Madrid-based VC Seaya close €300M climate tech fund](https://techcrunch.com/2024/07/04/spains-exposure-to-climate-change-helps-madrid-based-vc-seaya-close-e300m-climate-tech-fund/)
 - [Science and music festival Starmus 2025 will return to the Canary Islands](https://www.space.com/starmus-2025-announcement-la-palma)
-- [Forestay, Europe’s newest $220M growth-stage VC fund, will focus on AI](https://techcrunch.com/2024/07/04/forestay-europes-newest-220m-growth-stage-vc-fund-will-focus-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
