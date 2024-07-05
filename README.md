@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the 1st teaser trailer for new horror game &#39;A Quiet Place: The Road Ahead&#39;](https://www.space.com/a-quiet-place-the-road-ahead-video-game-first-trailer)
 - [New moon of July 2024: Dark skies tonight as Earth is farthest from the sun today](https://www.space.com/new-moon-july-2024-aphelion)
 - [Mars orbiter captures Red Planet scar that&#39;s longer than the Grand Canyon &lpar;image&rpar;](https://www.space.com/esa-mars-express-red-planet-scar-image)
 - [Rare &#39;polar rain&#39; aurora seen from Earth for the first time](https://www.space.com/rare-smooth-aurora-north-pole-explained)
 - [&#39;Star Wars: The Acolyte&#39; episode 6: Who&#39;s the Stranger&#39;s old master?](https://www.space.com/star-wars-the-acolyte-episode-6-whos-the-strangers-old-master)
-- [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
