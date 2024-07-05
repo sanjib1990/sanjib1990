@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extreme wildfires are on the rise globally, powered by the climate crisis](https://www.space.com/extreme-wildfires-powered-by-climate-crisis-on-the-rise)
+- [Amazon faces more EU scrutiny over recommender algorithms and ads transparency](https://techcrunch.com/2024/07/05/amazon-faces-more-eu-scrutiny-over-recommender-algorithms-and-ads-transparency/)
 - [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/)
 - [Rapidly spinning &#39;extreme&#39; neutron star discovered by US Navy research intern](https://www.space.com/pulsar-us-navy-intern-discovery)
 - [NASA&#39;s vision of a moon-orbiting space station comes to life in new 3D video](https://www.space.com/lunar-gateway-view-3D-moon-orbit)
-- [YouTube’s updated eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
-- [India’s Airtel dismisses data breach reports amid customer concerns](https://techcrunch.com/2024/07/05/indias-airtel-dismisses-data-breach-reports-amid-customer-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
