@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 asteroids just zipped by Earth, and NASA caught footage of the action](https://www.space.com/nasa-goldstone-radar-system)
+- [Chinese astronauts install space-junk shielding on Tiangong space station &lpar;video&rpar;](https://www.space.com/shenzhou-18-second-spacewalk-tiangong-space-debris-shield)
 - [The early solar system was donut-shaped, meteorite study suggests](https://www.space.com/early-solar-system-donut-shaped-meteorite-study)
 - [OpenAI breach is a reminder that AI companies are treasure troves for hackers](https://techcrunch.com/2024/07/05/openai-breach-is-a-reminder-that-ai-companies-are-treasure-troves-for-hackers/)
 - [Space for newcomers, biotech going mainstream, and more](https://techcrunch.com/2024/07/05/space-for-newcomers-biotech-going-mainstream-and-more/)
-- [&#39;No fireworks on ISS,&#39; so astronauts experiment with &#39;light painting&#39; instead &lpar;photos&rpar;](https://www.space.com/iss-photography-astronaut-independence-day-stars-and-stripes-flag-light-painting)
-- [X plans to more deeply integrate Grok’s AI, app researcher finds](https://techcrunch.com/2024/07/05/x-plans-to-more-deeply-integrate-groks-ai-app-researcher-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
