@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/)
+- [Rapidly spinning &#39;extreme&#39; neutron star discovered by US Navy research intern](https://www.space.com/pulsar-us-navy-intern-discovery)
 - [NASA&#39;s vision of a moon-orbiting space station comes to life in new 3D video](https://www.space.com/lunar-gateway-view-3D-moon-orbit)
 - [YouTube’s updated eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
 - [India’s Airtel dismisses data breach reports amid customer concerns](https://techcrunch.com/2024/07/05/indias-airtel-dismisses-data-breach-reports-amid-customer-concerns/)
-- [Scientists tap into 2 new quantum methods to catch dark matter suspects](https://www.space.com/dark-matter-experiments-axions-quest-dmc-qshs)
-- [Boiling rocks from Earth&#39;s crust tore an ocean into Mongolia 410 million years ago](https://www.space.com/boiling-rocks-from-earth-crust-tore-ocean-into-mongolia-410-million-years-ago)
 <!-- BLOG-POST-LIST:END -->
 
 ---
