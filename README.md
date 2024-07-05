@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: The Acolyte&#39; episode 6: Who&#39;s the Stranger&#39;s old master?](https://www.space.com/star-wars-the-acolyte-episode-6-whos-the-strangers-old-master)
+- [Meet Brex, Google Cloud, Aerospace and more at Disrupt 2024](https://techcrunch.com/2024/07/05/meet-these-partners-at-disrupt-2024/)
+- [Epic Games calls out Apple for rejecting its Games Store in the EU](https://techcrunch.com/2024/07/05/epic-games-calls-out-apple-for-rejecting-its-games-store-in-the-eu/)
+- [4th of July camera deal still running: Save $800 on the Nikon D850 DSLR](https://www.space.com/july-4-2024-nikon-d850-deal-save-800-dollars)
 - [New teasers for &#39;Warhammer 40K: Space Marine 2&#39; promise death to the Tyranids](https://www.space.com/warhammer-40k-space-marine-2-teaser-trailers)
-- [Extreme wildfires are on the rise globally, powered by the climate crisis](https://www.space.com/extreme-wildfires-powered-by-climate-crisis-on-the-rise)
-- [Amazon faces more EU scrutiny over recommender algorithms and ads transparency](https://techcrunch.com/2024/07/05/amazon-faces-more-eu-scrutiny-over-recommender-algorithms-and-ads-transparency/)
-- [Quantum Rise grabs $15M seed for its AI-driven ‘Consulting 2.0’ startup](https://techcrunch.com/2024/07/05/quantum-rise-grabs-15m-seed-for-its-ai-driven-consulting-2-0-startup/)
-- [Rapidly spinning &#39;extreme&#39; neutron star discovered by US Navy research intern](https://www.space.com/pulsar-us-navy-intern-discovery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
