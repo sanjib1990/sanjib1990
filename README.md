@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth has 7 strange quasi-moons — and you could name one of them](https://www.space.com/earth-quasi-moon-naming-radiolab-iau)
 - [Journey to JAXA: Why I skipped Mount Fuji and went straight to the Japanese space agency](https://www.space.com/jaxa-isas-walkthrough-japan-tourism)
 - [SpaceX teases catching Super Heavy booster with &#39;chopsticks&#39; on upcoming Starship test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-chopsticks-animation)
 - [Apple approves Epic Games’ marketplace app after initial rejections](https://techcrunch.com/2024/07/05/epic-games-calls-out-apple-for-rejecting-its-games-store-in-the-eu/)
 - [2 asteroids just zipped by Earth, and NASA caught footage of the action](https://www.space.com/nasa-goldstone-radar-system)
-- [Chinese astronauts install space-junk shielding on Tiangong space station &lpar;video&rpar;](https://www.space.com/shenzhou-18-second-spacewalk-tiangong-space-debris-shield)
 <!-- BLOG-POST-LIST:END -->
 
 ---
