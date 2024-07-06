@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 118 —Understanding the Darkness](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-118-understanding-darkness)
+- [Watch NASA&#39;s 1st year-long mock Mars mission wrap up today](https://www.space.com/nasa-simulated-mars-mission-chapea-1-end)
+- [&#39;Space Cadet&#39; is a silly sendup of NASA&#39;s serious astronaut training program &lpar;review&rpar;](https://www.space.com/space-cadet-review-amazon-prime)
 - [The great silence: Just 4 in 10,000 galaxies may host intelligent aliens](https://www.space.com/plate-tectonics-intelligent-alien-life-rare)
 - [Earth has 7 strange quasi-moons — and you could name one of them](https://www.space.com/earth-quasi-moon-naming-radiolab-iau)
-- [Journey to JAXA: Why I skipped Mount Fuji and went straight to the Japanese space agency](https://www.space.com/jaxa-isas-walkthrough-japan-tourism)
-- [SpaceX teases catching Super Heavy booster with &#39;chopsticks&#39; on upcoming Starship test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-chopsticks-animation)
-- [Apple approves Epic Games’ marketplace app after initial rejections](https://techcrunch.com/2024/07/05/epic-games-calls-out-apple-for-rejecting-its-games-store-in-the-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
