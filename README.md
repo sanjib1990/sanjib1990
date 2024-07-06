@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Journey to JAXA: Why I skipped Mount Fuji and went straight to the Japanese space agency](https://www.space.com/jaxa-isas-walkthrough-japan-tourism)
 - [SpaceX teases catching Super Heavy booster with &#39;chopsticks&#39; on upcoming Starship test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-chopsticks-animation)
 - [Apple approves Epic Games’ marketplace app after initial rejections](https://techcrunch.com/2024/07/05/epic-games-calls-out-apple-for-rejecting-its-games-store-in-the-eu/)
 - [2 asteroids just zipped by Earth, and NASA caught footage of the action](https://www.space.com/nasa-goldstone-radar-system)
 - [Chinese astronauts install space-junk shielding on Tiangong space station &lpar;video&rpar;](https://www.space.com/shenzhou-18-second-spacewalk-tiangong-space-debris-shield)
-- [The early solar system was donut-shaped, meteorite study suggests](https://www.space.com/early-solar-system-donut-shaped-meteorite-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
