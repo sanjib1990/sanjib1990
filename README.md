@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up parental controls on Facebook, Snapchat, TikTok and more popular sites](https://techcrunch.com/2024/07/06/how-to-set-up-parental-controls-on-facebook-snapchat-tiktok-and-more-popular-sites/)
 - [You could learn a lot from a CIO with a $17B IT budget](https://techcrunch.com/2024/07/06/you-could-learn-a-lot-from-a-cio-with-a-15b-it-budget/)
 - [Tesla makes it onto Chinese government purchase list](https://techcrunch.com/2024/07/06/tesla-makes-it-onto-chinese-government-purchase-list/)
 - [Tokens are a big reason today’s generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
 - [SpaceX&#39;s Starship to fly again &#39;in 4 weeks,&#39; Elon Musk says](https://www.space.com/spacex-starship-flight-five-four-weeks-elon-musk)
-- [This Week In Space podcast: Episode 118 —Understanding the Darkness](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-118-understanding-darkness)
 <!-- BLOG-POST-LIST:END -->
 
 ---
