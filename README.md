@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo robotaxi pulled over by Phoenix police after driving into the wrong lane](https://techcrunch.com/2024/07/06/waymo-robotaxi-pulled-over-by-phoenix-police-after-driving-into-the-wrong-lane/)
+- [Figma pauses its new AI feature after Apple controversy](https://techcrunch.com/2024/07/06/figma-pauses-its-new-ai-feature-after-apple-controversy/)
 - [How to set up parental controls on Facebook, Snapchat, TikTok and more popular sites](https://techcrunch.com/2024/07/06/how-to-set-up-parental-controls-on-facebook-snapchat-tiktok-and-more-popular-sites/)
 - [You could learn a lot from a CIO with a $17B IT budget](https://techcrunch.com/2024/07/06/you-could-learn-a-lot-from-a-cio-with-a-15b-it-budget/)
 - [Tesla makes it onto Chinese government purchase list](https://techcrunch.com/2024/07/06/tesla-makes-it-onto-chinese-government-purchase-list/)
-- [Tokens are a big reason today’s generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
-- [SpaceX&#39;s Starship to fly again &#39;in 4 weeks,&#39; Elon Musk says](https://www.space.com/spacex-starship-flight-five-four-weeks-elon-musk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
