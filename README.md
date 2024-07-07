@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space radiation can damage satellites − my team discovered that a next-generation material could self-heal when exposed to cosmic rays](https://www.space.com/space-radiation-satellite-damage-averted-with-next-generation-self-healing-material)
+- [What happens if you shoot down a delivery drone?](https://techcrunch.com/2024/07/07/what-happens-if-you-shoot-down-a-delivery-drone/)
 - [Astrophotographer captures stunningly detailed photos of our &#39;fuzzy&#39; sun](https://www.space.com/astrophotographer-sun-photos-mark-johnston-fuzzy-surface)
 - [Jumping on an asteroid: How VR is being used to visit worlds we can never reach](https://www.space.com/asteroid-ryugu-virtual-reality-exploration)
 - [Chasing the midnight sun along Norway&#39;s arctic coastline](https://www.space.com/chasing-midnight-sun-along-arctic-coast-norway)
-- [Waymo robotaxi pulled over by Phoenix police after driving into the wrong lane](https://techcrunch.com/2024/07/06/waymo-robotaxi-pulled-over-by-phoenix-police-after-driving-into-the-wrong-lane/)
-- [Figma pauses its new AI feature after Apple controversy](https://techcrunch.com/2024/07/06/figma-pauses-its-new-ai-feature-after-apple-controversy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
