@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube and LinkedIn have games now, and here’s how you can play them](https://techcrunch.com/2024/07/07/youtube-and-linkedin-have-games-now-and-heres-how-you-can-play-them/)
 - [CIOs’ concerns over generative AI echo those of the early days of cloud computing](https://techcrunch.com/2024/07/07/cios-concerns-over-generative-ai-echo-those-of-the-early-days-of-cloud-computing/)
 - [Epic Games CEO promises to ‘fight’ Apple over ‘absurd’ changes](https://techcrunch.com/2024/07/07/epic-games-ceo-promises-to-fight-apple-over-absurd-changes/)
 - [Space radiation can damage satellites − my team discovered that a next-generation material could self-heal when exposed to cosmic rays](https://www.space.com/space-radiation-satellite-damage-averted-with-next-generation-self-healing-material)
 - [What happens if you shoot down a delivery drone?](https://techcrunch.com/2024/07/07/what-happens-if-you-shoot-down-a-delivery-drone/)
-- [Astrophotographer captures stunningly detailed photos of our &#39;fuzzy&#39; sun](https://www.space.com/astrophotographer-sun-photos-mark-johnston-fuzzy-surface)
 <!-- BLOG-POST-LIST:END -->
 
 ---
