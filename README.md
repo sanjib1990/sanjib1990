@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quasars are &#39;cosmic signposts&#39; pointing to rare supermassive black hole pairs](https://www.space.com/quasars-cosmic-signposts-supermassive-black-hole-binaries)
+- [TechCrunch Space: SpaceX’s big plans for Starship in Florida](https://techcrunch.com/2024/07/08/techcrunch-space-spacexs-big-plans-for-starship-in-florida/)
 - [Watch a supermassive black hole trap a &#39;fluffy&#39; disk in this simulation](https://www.space.com/supermassive-black-hole-fluffy-disk-video)
 - [Astronomers measure &#39;warp speed&#39; of Milky Way galaxy](https://www.space.com/milky-way-galaxy-warp-dark-matter-halo)
 - [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over.](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/)
-- [James Webb Space Telescope suggests this exoplanet is our &#39;best bet&#39; at finding an alien ocean](https://www.space.com/james-webb-space-telescope-alien-ocean-lhs-1140b)
-- [Apple removes VPN apps at request of Russian authorities, say app makers](https://techcrunch.com/2024/07/08/apple-removes-vpn-apps-at-request-of-russian-authorities-say-app-makers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
