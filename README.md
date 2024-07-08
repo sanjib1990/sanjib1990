@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Weird physics at the edges of black holes may help resolve lingering &#39;Hubble trouble&#39;](https://www.space.com/black-hole-physics-universe-expansion-hubble-trouble)
+- [Lucid Motors sets new record for EV deliveries as it seeks ‘escape velocity’](https://techcrunch.com/2024/07/08/lucid-motors-q2-deliveries-shipped-air-sedan/)
 - [After 14 years in space, NASA&#39;s prolific NEOWISE asteroid-hunter is about to shut down](https://www.space.com/nasa-neowise-nears-end-mission)
 - [&#39;This is how we get to Mach 3:&#39; Virgin Galactic&#39;s Jameel Janjua on his long journey to space &lpar;exclusive&rpar;](https://www.space.com/virgin-galactic-canadian-astronaut-jameel-janjua-interview-exclusive)
 - [Delivery Hero warns it could face €400M antitrust fine](https://techcrunch.com/2024/07/08/delivery-hero-warns-it-could-face-e400m-antitrust-fine/)
-- [Europe&#39;s new Ariane 6 rocket launching for 1st time ever this week](https://www.space.com/europe-ariane-6-rocket-debut-launch-this-week)
-- [Investors chase wealthtech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
