@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers measure &#39;warp speed&#39; of Milky Way galaxy](https://www.space.com/milky-way-galaxy-warp-dark-matter-halo)
+- [Valuations of startups have quietly rebounded to all-time highs. Some investors say the slump is over.](https://techcrunch.com/2024/07/08/valuations-of-startups-have-quietly-rebounded-to-all-time-highs-some-investors-say-the-slump-is-over/)
+- [James Webb Space Telescope suggests this exoplanet is our &#39;best bet&#39; at finding an alien ocean](https://www.space.com/james-webb-space-telescope-alien-ocean-lhs-1140b)
 - [Apple removes VPN apps at request of Russian authorities, say app makers](https://techcrunch.com/2024/07/08/apple-removes-vpn-apps-at-request-of-russian-authorities-say-app-makers/)
 - [Ariane 6 is the future of European heavy-lift launch — for better or worse](https://techcrunch.com/2024/07/08/ariane-6-is-the-future-of-european-heavy-lift-launch-for-better-or-worse/)
-- [Watch SpaceX launch Turkey&#39;s 1st homegrown communications satellite today](https://www.space.com/spacex-turksat-6a-communications-satellite-launch)
-- [Hurricane Beryl makes landfall as Category 1 hurricane along eastern Texas &lpar;video&rpar;](https://www.space.com/hurricane-beryl-update)
-- [Substack rival Ghost federates its first newsletter](https://techcrunch.com/2024/07/08/substack-rival-ghost-federates-its-first-newsletter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
