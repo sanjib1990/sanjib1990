@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extreme &#39;hot Jupiter&#39; exoplanet stinks like rotten eggs and has raging glass storms](https://www.space.com/james-webb-space-telescope-exoplanet-rotten-eggs)
+- [Mayfield’s Navin Chaddha is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/08/mayfields-navin-chaddha-is-coming-to-techcrunch-disrupt-2024/)
+- [Art therapy app Scribble Journey lets you express emotions through doodles](https://techcrunch.com/2024/07/08/art-therapy-app-scribble-journey/)
+- [Pestle’s app can now save recipes from Reels using on-device AI](https://techcrunch.com/2024/07/08/pestles-app-can-now-save-recipes-from-reels-using-on-device-ai/)
 - [Weird physics at the edges of black holes may help resolve lingering &#39;Hubble trouble&#39;](https://www.space.com/black-hole-physics-universe-expansion-hubble-trouble)
-- [Lucid Motors sets new record for EV deliveries as it seeks ‘escape velocity’](https://techcrunch.com/2024/07/08/lucid-motors-q2-deliveries-shipped-air-sedan/)
-- [After 14 years in space, NASA&#39;s prolific NEOWISE asteroid-hunter is about to shut down](https://www.space.com/nasa-neowise-nears-end-mission)
-- [&#39;This is how we get to Mach 3:&#39; Virgin Galactic&#39;s Jameel Janjua on his long journey to space &lpar;exclusive&rpar;](https://www.space.com/virgin-galactic-canadian-astronaut-jameel-janjua-interview-exclusive)
-- [Delivery Hero warns it could face €400M antitrust fine](https://techcrunch.com/2024/07/08/delivery-hero-warns-it-could-face-e400m-antitrust-fine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
