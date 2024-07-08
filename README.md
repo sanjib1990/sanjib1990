@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurricane Beryl makes landfall as Category 1 hurricane along eastern Texas &lpar;video&rpar;](https://www.space.com/hurricane-beryl-update)
+- [Substack rival Ghost federates its first newsletter](https://techcrunch.com/2024/07/08/substack-rival-ghost-federates-its-first-newsletter/)
+- [Unpacked 2024: What we expect Samsung to announce and how to watch Wednesday’s hardware event](https://techcrunch.com/2024/07/08/unpacked-2024-what-we-expect-samsung-to-announce-and-how-to-watch-wednesdays-hardware-event/)
 - [Amazon revives its Echo Spot with an upgraded look and improved audio](https://techcrunch.com/2024/07/08/amazon-revives-its-echo-spot-with-an-upgraded-look-and-improved-audio/)
 - [&#39;Star Trek&#39; legend Jonathan Frakes to direct new series, &#39;Arthur C. Clarke&#39;s Venus Prime&#39;](https://www.space.com/star-trek-jonathan-frakes-series-arthur-c-clarke-venus-prime)
-- [TechCrunch Minute: How to protect yourself from AI scams](https://techcrunch.com/video/techcrunch-minute-how-to-protect-yourself-from-ai-scams/)
-- [Tembo capitalizes on the database boom and lands new cash to expand](https://techcrunch.com/2024/07/08/database-startup-tembo-lands-new-cash-to-expand/)
-- [Extreme &#39;hot Jupiter&#39; exoplanet stinks like rotten eggs and has raging glass storms](https://www.space.com/james-webb-space-telescope-exoplanet-rotten-eggs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
