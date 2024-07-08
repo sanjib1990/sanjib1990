@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delivery Hero warns it could face €400M antitrust fine](https://techcrunch.com/2024/07/08/delivery-hero-warns-it-could-face-e400m-antitrust-fine/)
 - [Europe&#39;s new Ariane 6 rocket launching for 1st time ever this week](https://www.space.com/europe-ariane-6-rocket-debut-launch-this-week)
 - [Investors chase wealthtech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/)
 - [Seed VCs are turning to new ‘pro rata’ funds that help them compete with the big firms](https://techcrunch.com/2024/07/07/pro-rata-seed-vcs-funds-venture-capital/)
 - [YouTube and LinkedIn have games now, and here’s how you can play them](https://techcrunch.com/2024/07/07/youtube-and-linkedin-have-games-now-and-heres-how-you-can-play-them/)
-- [CIOs’ concerns over generative AI echo those of the early days of cloud computing](https://techcrunch.com/2024/07/07/cios-concerns-over-generative-ai-echo-those-of-the-early-days-of-cloud-computing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
