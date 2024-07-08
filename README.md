@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investors chase wealthtech startups in India as affluent class grows](https://techcrunch.com/2024/07/07/investors-chase-wealthtech-startups-in-india-as-affluent-class-grows/)
 - [Seed VCs are turning to new ‘pro rata’ funds that help them compete with the big firms](https://techcrunch.com/2024/07/07/pro-rata-seed-vcs-funds-venture-capital/)
 - [YouTube and LinkedIn have games now, and here’s how you can play them](https://techcrunch.com/2024/07/07/youtube-and-linkedin-have-games-now-and-heres-how-you-can-play-them/)
 - [CIOs’ concerns over generative AI echo those of the early days of cloud computing](https://techcrunch.com/2024/07/07/cios-concerns-over-generative-ai-echo-those-of-the-early-days-of-cloud-computing/)
 - [Epic Games CEO promises to ‘fight’ Apple over ‘absurd’ changes](https://techcrunch.com/2024/07/07/epic-games-ceo-promises-to-fight-apple-over-absurd-changes/)
-- [Space radiation can damage satellites − my team discovered that a next-generation material could self-heal when exposed to cosmic rays](https://www.space.com/space-radiation-satellite-damage-averted-with-next-generation-self-healing-material)
 <!-- BLOG-POST-LIST:END -->
 
 ---
