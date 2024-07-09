@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bumble users can now report profiles that use AI-generated photos](https://techcrunch.com/2024/07/09/bumble-reporting-option-ai-generated-profiles/)
+- [Talky social app Airchat gets a major overhaul, making it more like an asynchronous Clubhouse](https://techcrunch.com/2024/07/09/talky-social-app-airchat-gets-a-major-overhaul-making-it-more-like-an-asynchronous-clubhouse/)
+- [Lego Marvel Venomized Groot review](https://www.space.com/lego-venomized-groot-review)
+- [The James Webb Space Telescope finds a jeweled ring in the cosmos](https://www.space.com/jeweled-ring-james-webb-space-telescope-image)
 - [&#39;Traffic jams&#39; around Uranus could solve the mystery of its weak radiation belts](https://www.space.com/uranus-traffic-jams-weak-radiation-belts)
-- [Openvibe combines Mastodon, Bluesky and Nostr into one social app](https://techcrunch.com/2024/07/09/openvibe-combines-mastodon-bluesky-and-nostr-into-one-social-app/)
-- [Should venture capitalists be held accountable when startups screw up?](https://techcrunch.com/2024/07/09/should-venture-capitalists-be-held-accountable-when-startups-screw-up/)
-- [New &#39;A Quiet Place: The Road Ahead&#39; story trailer will leave you speechless &lpar;video&rpar;](https://www.space.com/a-quiet-place-the-road-ahead-new-story-trailer)
-- [Henrik Fisker drops salary to $1 to keep Fisker Inc. bankruptcy case alive](https://techcrunch.com/2024/07/09/henrik-fisker-geeta-salary-bankruptcy-ocean/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
