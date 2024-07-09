@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NOAA&#39;s upcoming GeoXO satellites could be &#39;weather-monitoring platform of the future&#39;](https://www.space.com/noaa-geoxo-satellites-could-be-weather-monitoring-platform-of-the-future)
-- [TechCrunch Minute: This is what happens when you shoot down a delivery drone](https://techcrunch.com/video/techcrunch-minute-this-is-what-happens-when-you-shoot-down-a-delivery-drone/)
-- [James Webb Space Telescope sees an ancient black hole dance with colliding galaxies](https://www.space.com/james-webb-space-telescope-supermassive-black-hole-colliding-galaxies)
-- [Jesse Pollak will tell us why Coinbase is launching its own Base blockchain at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/09/jesse-pollak-to-tell-us-why-coinbase-is-launching-its-own-base-blockchain-at-techcrunch-disrupt-2024/)
-- [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/)
+- [Openvibe combines Mastodon, Bluesky and Nostr into one social app](https://techcrunch.com/2024/07/09/openvibe-combines-mastodon-bluesky-and-nostr-into-one-social-app/)
+- [Should venture capitalists be held accountable when startups screw up?](https://techcrunch.com/2024/07/09/should-venture-capitalists-be-held-accountable-when-startups-screw-up/)
+- [New &#39;A Quiet Place: The Road Ahead&#39; story trailer will leave you speechless &lpar;video&rpar;](https://www.space.com/a-quiet-place-the-road-ahead-new-story-trailer)
+- [Henrik Fisker drops salary to $1 to keep Fisker Inc. bankruptcy case alive](https://techcrunch.com/2024/07/09/henrik-fisker-geeta-salary-bankruptcy-ocean/)
+- [Alexa co-creator gives first glimpse of Unlikely AI’s tech strategy](https://techcrunch.com/2024/07/09/alexa-co-creator-gives-first-glimpse-of-unlikely-ais-tech-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
