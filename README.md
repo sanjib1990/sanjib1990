@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI startup Hebbia rased $130M at a $700M valuation on $13 million of profitable revenue](https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/)
 - [&#39;Futurama&#39; Season 12 trailer teases fresh new interplanetary antics &lpar;video&rpar;](https://www.space.com/futurama-season-12-trailer-hulu)
 - [Saharan dust outbreak lingers across some US states this week](https://www.space.com/sahara-dust-us-gulf-states)
 - [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/)
 - [Uber for Teens has reignited an old debate over fingerprinting drivers](https://techcrunch.com/2024/07/09/uber-for-teens-has-reignited-an-old-debate-over-fingerprinting-drivers/)
-- [Whataburger app becomes unlikely power outage map after Houston hurricane](https://techcrunch.com/2024/07/09/whataburger-app-becomes-unlikely-power-outage-map-after-houston-hurricane/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
