@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NOAA&#39;s upcoming GeoXO satellites could be &#39;weather-monitoring platform of the future&#39;](https://www.space.com/noaa-geoxo-satellites-could-be-weather-monitoring-platform-of-the-future)
+- [TechCrunch Minute: This is what happens when you shoot down a delivery drone](https://techcrunch.com/video/techcrunch-minute-this-is-what-happens-when-you-shoot-down-a-delivery-drone/)
 - [James Webb Space Telescope sees an ancient black hole dance with colliding galaxies](https://www.space.com/james-webb-space-telescope-supermassive-black-hole-colliding-galaxies)
 - [Jesse Pollak will tell us why Coinbase is launching its own Base blockchain at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/09/jesse-pollak-to-tell-us-why-coinbase-is-launching-its-own-base-blockchain-at-techcrunch-disrupt-2024/)
 - [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/)
-- [FTC bans NGL from offering its anonymous social app to minors](https://techcrunch.com/2024/07/09/ftc-bans-ngl-from-offering-its-anonymous-social-app-to-minors/)
-- [Google Maps is rolling out speedometer, speed limits on iPhone and CarPlay globally](https://techcrunch.com/2024/07/09/google-maps-is-rolling-out-speedometer-speed-limits-on-iphone-and-carplay-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
