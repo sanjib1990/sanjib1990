@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Startup Fund backs AI healthcare venture with Arianna Huffington](https://techcrunch.com/2024/07/08/openai-startup-fund-backs-ai-healthcare-venture-with-arianna-huffington/)
 - [Data workers detail exploitation by tech industry in DAIR report](https://techcrunch.com/2024/07/08/data-workers-detail-exploitation-by-tech-industry-in-dair-report/)
 - [Quasars are &#39;cosmic signposts&#39; pointing to rare supermassive black hole pairs](https://www.space.com/quasars-cosmic-signposts-supermassive-black-hole-binaries)
 - [TechCrunch Space: SpaceX’s big plans for Starship in Florida](https://techcrunch.com/2024/07/08/techcrunch-space-spacexs-big-plans-for-starship-in-florida/)
 - [Watch a supermassive black hole trap a &#39;fluffy&#39; disk in this simulation](https://www.space.com/supermassive-black-hole-fluffy-disk-video)
-- [Astronomers measure &#39;warp speed&#39; of Milky Way galaxy](https://www.space.com/milky-way-galaxy-warp-dark-matter-halo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
