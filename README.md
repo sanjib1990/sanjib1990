@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Starship landings could contaminate water ice on the moon](https://www.space.com/lunar-ice-versus-rocket-engine-exhaust)
-- [Duolingo acquires Detroit-based design studio Hobbes](https://techcrunch.com/2024/07/09/duolingo-acquires-detroit-based-design-studio-hobbes/)
-- [Facebook keeps asking me to say ‘happy birthday’ to dead people](https://techcrunch.com/2024/07/09/facebook-keeps-asking-me-to-say-happy-birthday-to-dead-people/)
-- [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/)
-- [What are blazars?](https://www.space.com/what-are-blazars-complete-guide)
+- [James Webb Space Telescope sees an ancient black hole dance with colliding galaxies](https://www.space.com/james-webb-space-telescope-supermassive-black-hole-colliding-galaxies)
+- [Jesse Pollak will tell us why Coinbase is launching its own Base blockchain at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/09/jesse-pollak-to-tell-us-why-coinbase-is-launching-its-own-base-blockchain-at-techcrunch-disrupt-2024/)
+- [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/)
+- [FTC bans NGL from offering its anonymous social app to minors](https://techcrunch.com/2024/07/09/ftc-bans-ngl-from-offering-its-anonymous-social-app-to-minors/)
+- [Google Maps is rolling out speedometer, speed limits on iPhone and CarPlay globally](https://techcrunch.com/2024/07/09/google-maps-is-rolling-out-speedometer-speed-limits-on-iphone-and-carplay-globally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
