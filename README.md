@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Etsy adds AI-generated item guidelines in new seller policy](https://techcrunch.com/2024/07/09/etsy-new-seller-policy-2024-generative-ai/)
-- [Seae Ventures acquires Unseen Capital after founder death](https://techcrunch.com/2024/07/09/seae-ventures-acquires-unseen-capital-after-founder-death/)
-- [Are there more solar flares than expected during this solar cycle?](https://www.space.com/solar-flare-numbers-solar-cycle-25-comparison-previous-years)
-- [With the latest iOS 18 developer beta, Apple makes flashlight UI more fun](https://techcrunch.com/2024/07/09/with-the-latest-ios-18-developer-beta-apple-makes-flashlight-ui-more-fun/)
-- [Ex-Googler joins filmmaker to launch DreamFlare, a studio for AI-generated video](https://techcrunch.com/2024/07/09/dreamflare-ai-generated-video-platform/)
+- [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/)
+- [What are blazars?](https://www.space.com/what-are-blazars-complete-guide)
+- [Meet Wayther, an iOS weather forecast app designed specifically for road trips](https://techcrunch.com/2024/07/09/meet-wayther-an-ios-weather-forecast-app-designed-specifically-for-road-trips/)
+- [Chasing YouTube, Spotify adds comments to podcasts](https://techcrunch.com/2024/07/09/chasing-youtube-spotify-adds-comments-to-podcasts/)
+- [Evolve Bank says ransomware gang stole personal data on millions of customers](https://techcrunch.com/2024/07/09/evolve-bank-says-ransomware-gang-stole-personal-data-on-millions-of-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
