@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Etsy adds AI-generated item guidelines in new seller policy](https://techcrunch.com/2024/07/09/etsy-new-seller-policy-2024-generative-ai/)
+- [Seae Ventures acquires Unseen Capital after founder death](https://techcrunch.com/2024/07/09/seae-ventures-acquires-unseen-capital-after-founder-death/)
+- [Are there more solar flares than expected during this solar cycle?](https://www.space.com/solar-flare-numbers-solar-cycle-25-comparison-previous-years)
+- [With the latest iOS 18 developer beta, Apple makes flashlight UI more fun](https://techcrunch.com/2024/07/09/with-the-latest-ios-18-developer-beta-apple-makes-flashlight-ui-more-fun/)
 - [Ex-Googler joins filmmaker to launch DreamFlare, a studio for AI-generated video](https://techcrunch.com/2024/07/09/dreamflare-ai-generated-video-platform/)
-- [How to watch 1st launch of Europe&#39;s new Ariane 6 rocket launch today](https://www.space.com/how-to-watch-ariane-6-launch-live)
-- [Nala to use $40M Series A to build B2B payments platform, scale remittance services](https://techcrunch.com/2024/07/09/nala-series-a/)
-- [Byway is using AI to help travelers slow down and take the scenic route](https://techcrunch.com/2024/07/09/byway-is-using-ai-to-help-travellers-slow-down-and-take-the-scenic-route/)
-- [Vaonis Vespera II smart telescope review](https://www.space.com/vaonis-vespera-ii-smart-telescope-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
