@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Starship landings could contaminate water ice on the moon](https://www.space.com/lunar-ice-versus-rocket-engine-exhaust)
+- [Duolingo acquires Detroit-based design studio Hobbes](https://techcrunch.com/2024/07/09/duolingo-acquires-detroit-based-design-studio-hobbes/)
+- [Facebook keeps asking me to say ‘happy birthday’ to dead people](https://techcrunch.com/2024/07/09/facebook-keeps-asking-me-to-say-happy-birthday-to-dead-people/)
 - [With $6M in seed funding, Enso plans to bring AI agents to SMBs](https://techcrunch.com/2024/07/09/with-6m-in-seed-funding-enso-plans-to-bring-ai-agents-to-smbs/)
 - [What are blazars?](https://www.space.com/what-are-blazars-complete-guide)
-- [Meet Wayther, an iOS weather forecast app designed specifically for road trips](https://techcrunch.com/2024/07/09/meet-wayther-an-ios-weather-forecast-app-designed-specifically-for-road-trips/)
-- [Chasing YouTube, Spotify adds comments to podcasts](https://techcrunch.com/2024/07/09/chasing-youtube-spotify-adds-comments-to-podcasts/)
-- [Evolve Bank says ransomware gang stole personal data on millions of customers](https://techcrunch.com/2024/07/09/evolve-bank-says-ransomware-gang-stole-personal-data-on-millions-of-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
