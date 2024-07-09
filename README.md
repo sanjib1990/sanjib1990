@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Traffic jams&#39; around Uranus could solve the mystery of its weak radiation belts](https://www.space.com/uranus-traffic-jams-weak-radiation-belts)
 - [Openvibe combines Mastodon, Bluesky and Nostr into one social app](https://techcrunch.com/2024/07/09/openvibe-combines-mastodon-bluesky-and-nostr-into-one-social-app/)
 - [Should venture capitalists be held accountable when startups screw up?](https://techcrunch.com/2024/07/09/should-venture-capitalists-be-held-accountable-when-startups-screw-up/)
 - [New &#39;A Quiet Place: The Road Ahead&#39; story trailer will leave you speechless &lpar;video&rpar;](https://www.space.com/a-quiet-place-the-road-ahead-new-story-trailer)
 - [Henrik Fisker drops salary to $1 to keep Fisker Inc. bankruptcy case alive](https://techcrunch.com/2024/07/09/henrik-fisker-geeta-salary-bankruptcy-ocean/)
-- [Alexa co-creator gives first glimpse of Unlikely AI’s tech strategy](https://techcrunch.com/2024/07/09/alexa-co-creator-gives-first-glimpse-of-unlikely-ais-tech-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
