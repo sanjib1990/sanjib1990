@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch 1st launch of Europe&#39;s new Ariane 6 rocket launch today](https://www.space.com/how-to-watch-ariane-6-launch-live)
 - [Nala to use $40M Series A to build B2B payments platform, scale remittance services](https://techcrunch.com/2024/07/09/nala-series-a/)
 - [Byway is using AI to help travelers slow down and take the scenic route](https://techcrunch.com/2024/07/09/byway-is-using-ai-to-help-travellers-slow-down-and-take-the-scenic-route/)
 - [Vaonis Vespera II smart telescope review](https://www.space.com/vaonis-vespera-ii-smart-telescope-review)
 - [Microsoft-owned adtech Xandr accused of EU privacy breaches](https://techcrunch.com/2024/07/08/microsoft-owned-adtech-xandr-accused-of-eu-privacy-breaches/)
-- [Quora’s Poe now lets users create and share web apps](https://techcrunch.com/2024/07/08/quoras-poe-now-lets-users-create-and-share-web-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
