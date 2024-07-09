@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s new Ariane 6 rocket launches on long-awaited debut mission &lpar;video&rpar;](https://www.space.com/europe-ariane-6-rocket-debut-launch)
 - [Bumble users can now report profiles that use AI-generated photos](https://techcrunch.com/2024/07/09/bumble-reporting-option-ai-generated-profiles/)
 - [Talky social app Airchat gets a major overhaul, making it more like an asynchronous Clubhouse](https://techcrunch.com/2024/07/09/talky-social-app-airchat-gets-a-major-overhaul-making-it-more-like-an-asynchronous-clubhouse/)
 - [Lego Marvel Venomized Groot review](https://www.space.com/lego-venomized-groot-review)
 - [The James Webb Space Telescope finds a jeweled ring in the cosmos](https://www.space.com/jeweled-ring-james-webb-space-telescope-image)
-- [&#39;Traffic jams&#39; around Uranus could solve the mystery of its weak radiation belts](https://www.space.com/uranus-traffic-jams-weak-radiation-belts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
