@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nala to use $40M Series A to build B2B payments platform, scale remittance services](https://techcrunch.com/2024/07/09/nala-series-a/)
+- [Byway is using AI to help travelers slow down and take the scenic route](https://techcrunch.com/2024/07/09/byway-is-using-ai-to-help-travellers-slow-down-and-take-the-scenic-route/)
+- [Vaonis Vespera II smart telescope review](https://www.space.com/vaonis-vespera-ii-smart-telescope-review)
 - [Microsoft-owned adtech Xandr accused of EU privacy breaches](https://techcrunch.com/2024/07/08/microsoft-owned-adtech-xandr-accused-of-eu-privacy-breaches/)
 - [Quora’s Poe now lets users create and share web apps](https://techcrunch.com/2024/07/08/quoras-poe-now-lets-users-create-and-share-web-apps/)
-- [Indian game firms want to distance themselves from fantasy sports](https://techcrunch.com/2024/07/08/indian-game-firms-want-to-distance-themselves-from-fantasy-sports/)
-- [OpenAI Startup Fund backs AI healthcare venture with Arianna Huffington](https://techcrunch.com/2024/07/08/openai-startup-fund-backs-ai-healthcare-venture-with-arianna-huffington/)
-- [Data workers detail exploitation by tech industry in DAIR report](https://techcrunch.com/2024/07/08/data-workers-detail-exploitation-by-tech-industry-in-dair-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
