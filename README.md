@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft-owned adtech Xandr accused of EU privacy breaches](https://techcrunch.com/2024/07/08/microsoft-owned-adtech-xandr-accused-of-eu-privacy-breaches/)
+- [Quora’s Poe now lets users create and share web apps](https://techcrunch.com/2024/07/08/quoras-poe-now-lets-users-create-and-share-web-apps/)
 - [Indian game firms want to distance themselves from fantasy sports](https://techcrunch.com/2024/07/08/indian-game-firms-want-to-distance-themselves-from-fantasy-sports/)
 - [OpenAI Startup Fund backs AI healthcare venture with Arianna Huffington](https://techcrunch.com/2024/07/08/openai-startup-fund-backs-ai-healthcare-venture-with-arianna-huffington/)
 - [Data workers detail exploitation by tech industry in DAIR report](https://techcrunch.com/2024/07/08/data-workers-detail-exploitation-by-tech-industry-in-dair-report/)
-- [Quasars are &#39;cosmic signposts&#39; pointing to rare supermassive black hole pairs](https://www.space.com/quasars-cosmic-signposts-supermassive-black-hole-binaries)
-- [TechCrunch Space: SpaceX’s big plans for Starship in Florida](https://techcrunch.com/2024/07/08/techcrunch-space-spacexs-big-plans-for-starship-in-florida/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
