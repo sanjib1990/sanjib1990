@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Index Ventures raises $2.3 billion for new venture and growth funds](https://techcrunch.com/2024/07/09/index-ventures-raises-23-billion-for-new-venture-and-growth-funds/)
 - [Anthropic’s Claude adds a prompt playground to quickly improve your AI apps](https://techcrunch.com/2024/07/09/anthropics-claude-adds-a-prompt-playground-to-quickly-improve-your-ai-apps/)
 - [AI startup Hebbia raised $130M at a $700M valuation on $13 million of profitable revenue](https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/)
 - [&#39;Futurama&#39; Season 12 trailer teases fresh new interplanetary antics &lpar;video&rpar;](https://www.space.com/futurama-season-12-trailer-hulu)
 - [Saharan dust outbreak lingers across some US states this week](https://www.space.com/sahara-dust-us-gulf-states)
-- [NovoNutrients tweaks its bugs to turn CO2 into protein for people and pets](https://techcrunch.com/2024/07/09/novonutrients-tweaks-its-bugs-to-turn-co2-into-protein-for-people-and-pets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
