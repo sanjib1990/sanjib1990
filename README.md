@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Space Telescope finds closest massive black hole to Earth — a cosmic clue frozen in time](https://www.space.com/closest-massive-black-hole-earth-hubble)
-- [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/)
-- [While TikTok chases YouTube, Instagram vows to focus on short-form content](https://techcrunch.com/2024/07/10/while-tiktok-chases-youtube-instagram-vows-to-focus-on-short-form-content/)
-- [Elevate your startup with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/10/elevate-your-startup-with-the-scaleup-program-at-techcrunch-disrupt-2024/)
-- [3D printer successfully makes little space shuttle models in microgravity](https://www.space.com/spacecal-3d-printing-virgin-galactic-07)
+- [University of Maryland wins world&#39;s largest college rocketry competition](https://www.space.com/spaceport-america-rocketry-collegiate-competition-2024)
+- [TechCrunch Minute: The FTC bans anonymous social app NGL from serving minors](https://techcrunch.com/video/techcrunch-minute-the-ftc-bans-anonymous-social-app-ngl-from-serving-minors/)
+- [Microsoft emails that warned customers of Russian hacks criticized for looking like spam and phishing](https://techcrunch.com/2024/07/10/microsoft-emails-that-warned-customers-of-russian-hacks-criticized-for-looking-like-spam-and-phishing/)
+- [Marc Andreessen, Sequoia again back Kearny Jackson, this time in $65M Fund III](https://techcrunch.com/2024/07/10/marc-andreessen-kearny-jackson-fund-venture-capital/)
+- [Spotify is no longer just a streaming app, it’s a social network](https://techcrunch.com/2024/07/10/spotify-is-no-longer-just-a-streaming-app-its-a-social-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
