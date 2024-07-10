@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung unveils Galaxy Buds 3 Pro and Buds 3, available for preorder now and shipping July 24](https://techcrunch.com/2024/07/10/samsung-unveils-galaxy-buds-3-pro-and-buds-3-available-for-preorder-now-and-shipping-july-24/)
-- [Samsung’s Galaxy Ring, its first smart ring, arrives July 24 for $399](https://techcrunch.com/2024/07/10/samsungs-galaxy-ring-its-first-smart-ring-arrives-july-24-for-399/)
-- [Samsung Galaxy Z Fold and Z Flip 6 arrive with Galaxy AI and Google Gemini](https://techcrunch.com/2024/07/10/samsung-galaxy-z-fold-and-z-flip-6-arrive-with-galaxy-ai-and-google-gemini/)
-- [Vimeo joins YouTube and TikTok in launching new AI content labels](https://techcrunch.com/2024/07/10/vimeo-ai-generated-content-labels/)
-- [SpaceX rolls Starship Super Heavy booster to launch pad ahead of 5th test flight &lpar;video, photos&rpar;](https://www.space.com/spacex-starship-super-heavy-rollout-launch-pad-july-2024)
+- [Hubble Space Telescope finds closest massive black hole to Earth — a cosmic clue frozen in time](https://www.space.com/closest-massive-black-hole-earth-hubble)
+- [From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/)
+- [While TikTok chases YouTube, Instagram vows to focus on short-form content](https://techcrunch.com/2024/07/10/while-tiktok-chases-youtube-instagram-vows-to-focus-on-short-form-content/)
+- [Elevate your startup with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/10/elevate-your-startup-with-the-scaleup-program-at-techcrunch-disrupt-2024/)
+- [3D printer successfully makes little space shuttle models in microgravity](https://www.space.com/spacecal-3d-printing-virgin-galactic-07)
 <!-- BLOG-POST-LIST:END -->
 
 ---
