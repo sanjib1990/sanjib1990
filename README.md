@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching direct-to-cell Starlink satellites from California tonight](https://www.space.com/space-starlink-launch-group-9-3)
+- [AWS App Studio promises to generate enterprise apps from a written prompt](https://techcrunch.com/2024/07/10/aws-app-studio-promises-to-generate-enterprise-apps-from-a-written-prompt/)
+- [&#39;Star Wars: The Acolyte&#39; episode 7: What&#39;s a vergence in the Force?](https://www.space.com/star-wars-the-acolyte-episode-7-whats-a-vergence-in-the-force)
 - [University of Maryland wins world&#39;s largest college rocketry competition](https://www.space.com/spaceport-america-rocketry-collegiate-competition-2024)
 - [TechCrunch Minute: The FTC bans anonymous social app NGL from serving minors](https://techcrunch.com/video/techcrunch-minute-the-ftc-bans-anonymous-social-app-ngl-from-serving-minors/)
-- [Microsoft emails that warned customers of Russian hacks criticized for looking like spam and phishing](https://techcrunch.com/2024/07/10/microsoft-emails-that-warned-customers-of-russian-hacks-criticized-for-looking-like-spam-and-phishing/)
-- [Marc Andreessen, Sequoia again back Kearny Jackson, this time in $65M Fund III](https://techcrunch.com/2024/07/10/marc-andreessen-kearny-jackson-fund-venture-capital/)
-- [Spotify is no longer just a streaming app, it’s a social network](https://techcrunch.com/2024/07/10/spotify-is-no-longer-just-a-streaming-app-its-a-social-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
