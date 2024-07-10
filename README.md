@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar maximum is in sight but when will it arrive &lpar;and when will we know&rpar;?](https://www.space.com/when-will-solar-maximum-arrive-and-when-will-we-know-latest-predictions)
+- [Hear the real stories behind the private space race in new documentary &#39;Wild Wild Space&#39; &lpar;video&rpar;](https://www.space.com/wild-wild-space-hbo-documentary-trailer)
+- [Meta will soon let kids aged 10 to 12 interact with others in VR with their parents’ approval](https://techcrunch.com/2024/07/10/meta-will-soon-let-kids-aged-10-to-12-interact-with-others-in-vr-with-their-parents-approval/)
 - [SpaceX launching direct-to-cell Starlink satellites from California tonight](https://www.space.com/space-starlink-launch-group-9-3)
 - [AWS App Studio promises to generate enterprise apps from a written prompt](https://techcrunch.com/2024/07/10/aws-app-studio-promises-to-generate-enterprise-apps-from-a-written-prompt/)
-- [&#39;Star Wars: The Acolyte&#39; episode 7: What&#39;s a vergence in the Force?](https://www.space.com/star-wars-the-acolyte-episode-7-whats-a-vergence-in-the-force)
-- [University of Maryland wins world&#39;s largest college rocketry competition](https://www.space.com/spaceport-america-rocketry-collegiate-competition-2024)
-- [TechCrunch Minute: The FTC bans anonymous social app NGL from serving minors](https://techcrunch.com/video/techcrunch-minute-the-ftc-bans-anonymous-social-app-ngl-from-serving-minors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
