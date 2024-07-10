@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung unveils Galaxy Buds 3 Pro and Buds 3, available for preorder now and shipping July 24](https://techcrunch.com/2024/07/10/samsung-unveils-galaxy-buds-3-pro-and-buds-3-available-for-preorder-now-and-shipping-july-24/)
 - [Samsung’s Galaxy Ring, its first smart ring, arrives July 24 for $399](https://techcrunch.com/2024/07/10/samsungs-galaxy-ring-its-first-smart-ring-arrives-july-24-for-399/)
 - [Samsung Galaxy Z Fold and Z Flip 6 arrive with Galaxy AI and Google Gemini](https://techcrunch.com/2024/07/10/samsung-galaxy-z-fold-and-z-flip-6-arrive-with-galaxy-ai-and-google-gemini/)
 - [Vimeo joins YouTube and TikTok in launching new AI content labels](https://techcrunch.com/2024/07/10/vimeo-ai-generated-content-labels/)
 - [SpaceX rolls Starship Super Heavy booster to launch pad ahead of 5th test flight &lpar;video, photos&rpar;](https://www.space.com/spacex-starship-super-heavy-rollout-launch-pad-july-2024)
-- [Google brings new Gemini features and WearOS 5 to Samsung devices](https://techcrunch.com/2024/07/10/google-brings-new-gemini-features-and-wearos-5-to-samsung-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
