@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New study shows mysterious solar particle blasts can devastate the ozone layer, bathing Earth in radiation for years](https://www.space.com/solar-particle-blasts-can-devastate-earth-ozone-layer)
+- [Elon Musk does not owe ex-Twitter staffers $500 million in severance, court rules](https://techcrunch.com/2024/07/10/elon-musk-does-not-owe-ex-twitter-staffers-500-million-in-severance-court-rules/)
 - [Solar maximum is in sight but when will it arrive &lpar;and when will we know&rpar;?](https://www.space.com/when-will-solar-maximum-arrive-and-when-will-we-know-latest-predictions)
 - [Hear the real stories behind the private space race in new documentary &#39;Wild Wild Space&#39; &lpar;video&rpar;](https://www.space.com/wild-wild-space-hbo-documentary-trailer)
 - [Meta will soon let kids aged 10 to 12 interact with others in VR with their parents’ approval](https://techcrunch.com/2024/07/10/meta-will-soon-let-kids-aged-10-to-12-interact-with-others-in-vr-with-their-parents-approval/)
-- [SpaceX launching direct-to-cell Starlink satellites from California tonight](https://www.space.com/space-starlink-launch-group-9-3)
-- [AWS App Studio promises to generate enterprise apps from a written prompt](https://techcrunch.com/2024/07/10/aws-app-studio-promises-to-generate-enterprise-apps-from-a-written-prompt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
