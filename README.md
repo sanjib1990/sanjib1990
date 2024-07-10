@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/)
+- [Iceland is dodging the VC doldrums as Frumtak Ventures lands $87 million for its fourth fund](https://techcrunch.com/2024/07/09/frumtak-ventures-87-million-fund-confirms-icelands-global-ambitions/)
 - [Index Ventures raises $2.3 billion for new venture and growth funds](https://techcrunch.com/2024/07/09/index-ventures-raises-23-billion-for-new-venture-and-growth-funds/)
 - [Anthropic’s Claude adds a prompt playground to quickly improve your AI apps](https://techcrunch.com/2024/07/09/anthropics-claude-adds-a-prompt-playground-to-quickly-improve-your-ai-apps/)
 - [AI startup Hebbia raised $130M at a $700M valuation on $13 million of profitable revenue](https://techcrunch.com/2024/07/09/ai-startup-hebbia-rased-130m-at-a-700m-valuation-on-13-million-of-profitable-revenue/)
-- [&#39;Futurama&#39; Season 12 trailer teases fresh new interplanetary antics &lpar;video&rpar;](https://www.space.com/futurama-season-12-trailer-hulu)
-- [Saharan dust outbreak lingers across some US states this week](https://www.space.com/sahara-dust-us-gulf-states)
 <!-- BLOG-POST-LIST:END -->
 
 ---
