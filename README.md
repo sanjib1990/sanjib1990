@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe&#39;s Mars sample return orbiter moving ahead despite NASA budget uncertainty](https://www.space.com/esa-earth-return-orbiter-passes-design-review)
-- [XNXX joins handful of adult sites subject to EU’s strictest content moderation rules](https://techcrunch.com/2024/07/10/xnxx-joins-handful-of-adult-sites-subject-to-eus-strictest-content-moderation-rules/)
-- [SpaceX rivals challenge Starship launch license in Florida over environmental, safety concerns](https://www.space.com/spacex-rivals-challenge-starship-launch-license-in-florida)
-- [As Microsoft leaves its observer seat, OpenAI says it won’t have any more observers](https://techcrunch.com/2024/07/10/as-microsoft-leaves-its-observer-seat-openai-says-it-wont-have-any-more-observers/)
-- [Deep tech startups with very technical CEOs raise larger rounds, research finds](https://techcrunch.com/2024/07/09/now-theres-a-deep-tech-hardware-napkin-with-concrete-advice-for-european-founders/)
+- [Samsung’s Galaxy Ring, its first smart ring, arrives July 24 for $399](https://techcrunch.com/2024/07/10/samsungs-galaxy-ring-its-first-smart-ring-arrives-july-24-for-399/)
+- [Samsung Galaxy Z Fold and Z Flip 6 arrive with Galaxy AI and Google Gemini](https://techcrunch.com/2024/07/10/samsung-galaxy-z-fold-and-z-flip-6-arrive-with-galaxy-ai-and-google-gemini/)
+- [Vimeo joins YouTube and TikTok in launching new AI content labels](https://techcrunch.com/2024/07/10/vimeo-ai-generated-content-labels/)
+- [SpaceX rolls Starship Super Heavy booster to launch pad ahead of 5th test flight &lpar;video, photos&rpar;](https://www.space.com/spacex-starship-super-heavy-rollout-launch-pad-july-2024)
+- [Google brings new Gemini features and WearOS 5 to Samsung devices](https://techcrunch.com/2024/07/10/google-brings-new-gemini-features-and-wearos-5-to-samsung-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
