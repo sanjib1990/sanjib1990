@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel Capital backs AI construction startup that could boost Intel’s own manufacturing prospects](https://techcrunch.com/2024/07/11/intel-capital-backs-ai-construction-startup-that-could-boost-intels-own-manufacturing-prospects/)
+- [AI-powered Regard nabs $61M to find missed illness, boost hospital revenue](https://techcrunch.com/2024/07/11/ai-powered-regard-nabs-61m-to-find-missed-illness-boost-hospital-revenue/)
 - [EU ends Apple Pay antitrust probe with binding commitments to open up contactless payments](https://techcrunch.com/2024/07/11/eu-ends-apple-pay-antitrust-probe-with-binding-commitments-to-open-up-contactless-payments/)
 - [When will Starliner come home? Boeing and NASA still don&#39;t know](https://www.space.com/boeing-starliner-no-return-date-from-iss)
 - [Joby Aviation is betting on hydrogen-electric aircraft for regional flight](https://techcrunch.com/2024/07/11/joby-aviation-is-betting-on-hydrogen-electric-aircraft-for-regional-flight/)
-- [Sekai secures Naruto’s license to develop consumer apps for anime fans](https://techcrunch.com/2024/07/11/sekai-secures-narutos-license-to-develop-consumer-apps-for-anime-fans/)
-- [Uzbekistan mobile bank TBC raises $38.2M to expand its financial products](https://techcrunch.com/2024/07/11/uzbekistan-mobile-bank-tbc-raises-38-2m-to-expand-its-financial-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
