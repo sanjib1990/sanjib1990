@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Business is changing its rates for messages as it aims to reduce marketing spam](https://techcrunch.com/2024/07/11/whatsapp-business-is-changing-its-rates-for-messages-as-it-aims-to-reduce-marketing-spam/)
+- [Private space-junk probe gets up-close look at discarded rocket in orbit &lpar;photo&rpar;](https://www.space.com/astrobotic-space-junk-probe-rocket-photo)
+- [Watch a robot navigate the Google DeepMind offices using Gemini](https://techcrunch.com/2024/07/11/watch-a-robot-navigate-the-google-deepmind-offices-using-gemini/)
+- [HerculesAI has been working with large languge models long before it was cool](https://techcrunch.com/2024/07/11/herculesai-has-been-working-with-llms-long-before-it-was-cool/)
 - [Joe Engle, X-15 rocket plane and space shuttle astronaut, dies at 91](https://www.space.com/joe-engle-x15-space-shuttle-nasa-astronaut-obituary)
-- [Formlabs acquires 3D printing startup Micronics mid-Kickstarter campaign](https://techcrunch.com/2024/07/11/formlabs-acquires-3d-printing-startup-micronics-mid-kickstarter-campaign/)
-- [Medal raises $13M as it builds out a contextual AI assistant for desktop](https://techcrunch.com/2024/07/11/medal-raises-13m-as-it-builds-out-a-new-ai-platform-for-desktop/)
-- [China plans to deflect an asteroid by 2030 to showcase Earth protection skills](https://www.space.com/china-planning-planetary-defense-asteroid-mission)
-- [Alpine Space Ventures close first fund to grow the space economy on both sides of the pond](https://techcrunch.com/2024/07/11/alpine-space-ventures-close-first-fund-to-grow-the-space-economy-on-both-sides-of-the-pond/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
