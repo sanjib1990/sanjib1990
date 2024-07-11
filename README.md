@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;A Quiet Place&#39;s&#39; alien monsters explained](https://www.space.com/a-quiet-place-aliens-explained)
+- [Data breach exposes millions of mSpy spyware customers](https://techcrunch.com/2024/07/11/mspy-spyware-millions-customers-data-breach/)
 - [Shark Tank-backed Kudos raises another $3M for healthier, cotton-based disposable diapers](https://techcrunch.com/2024/07/11/shark-tank-kudos-raises-3m-more-healthier-sustainable-disposable-diapers/)
 - [Lego Marvel Rocket and Baby Groot review](https://www.space.com/lego-marvel-rocket-and-baby-groot-review)
 - [Huge earthquake 2,500 years ago rerouted the Ganges River, study suggests](https://www.space.com/earthquake-2500-years-ago-rerouted-ganges-river)
-- [‘Wild Wild Space’ doc captures the risks and rivalries of the new space race](https://techcrunch.com/2024/07/11/wild-wild-space-doc-captures-the-risks-and-rivalries-of-the-new-space-race/)
-- [&#39;Drawn to our planet:&#39; How spaceflight changed SpaceX Inspiration4 astronaut Chris Sembroski](https://www.space.com/spacex-inspiration4-mission-chris-sembroski-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
