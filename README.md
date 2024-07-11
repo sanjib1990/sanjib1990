@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple alerts iPhone users in 98 countries to mercenary spyware attacks](https://techcrunch.com/2024/07/10/apple-alerts-iphone-users-in-98-countries-to-mercenary-spyware-attacks/)
 - [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/)
 - [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/)
 - [FTC study finds ‘dark patterns’ used by a majority of subscription apps and websites](https://techcrunch.com/2024/07/10/ftc-study-finds-dark-patterns-used-by-a-majority-of-subscription-apps-and-websites/)
 - [Elon Musk does not owe ex-Twitter staffers $500 million in severance, court rules](https://techcrunch.com/2024/07/10/elon-musk-does-not-owe-ex-twitter-staffers-500-million-in-severance-court-rules/)
-- [New study shows mysterious solar particle blasts can devastate the ozone layer, bathing Earth in radiation for years](https://www.space.com/solar-particle-blasts-can-devastate-earth-ozone-layer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
