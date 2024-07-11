@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Joe Engle, X-15 rocket plane and space shuttle astronaut, dies at 91](https://www.space.com/joe-engle-x15-space-shuttle-nasa-astronaut-obituary)
+- [Formlabs acquires 3D printing startup Micronics mid-Kickstarter campaign](https://techcrunch.com/2024/07/11/formlabs-acquires-3d-printing-startup-micronics-mid-kickstarter-campaign/)
+- [Medal raises $13M as it builds out a contextual AI assistant for desktop](https://techcrunch.com/2024/07/11/medal-raises-13m-as-it-builds-out-a-new-ai-platform-for-desktop/)
 - [China plans to deflect an asteroid by 2030 to showcase Earth protection skills](https://www.space.com/china-planning-planetary-defense-asteroid-mission)
 - [Alpine Space Ventures close first fund to grow the space economy on both sides of the pond](https://techcrunch.com/2024/07/11/alpine-space-ventures-close-first-fund-to-grow-the-space-economy-on-both-sides-of-the-pond/)
-- [Intel Capital backs AI construction startup that could boost Intel’s own manufacturing prospects](https://techcrunch.com/2024/07/11/intel-capital-backs-ai-construction-startup-that-could-boost-intels-own-manufacturing-prospects/)
-- [AI-powered Regard nabs $61M to find missed illness, boost hospital revenue](https://techcrunch.com/2024/07/11/ai-powered-regard-nabs-61m-to-find-missed-illness-boost-hospital-revenue/)
-- [EU ends Apple Pay antitrust probe with binding commitments to open up contactless payments](https://techcrunch.com/2024/07/11/eu-ends-apple-pay-antitrust-probe-with-binding-commitments-to-open-up-contactless-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
