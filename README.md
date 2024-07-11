@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Drawn to our planet:&#39; How spaceflight changed SpaceX Inspiration4 astronaut Chris Sembroski](https://www.space.com/spacex-inspiration4-mission-chris-sembroski-interview)
+- [Are ‘visual’ AI models actually blind?](https://techcrunch.com/2024/07/11/are-visual-ai-models-actually-blind/)
 - [Lucid revs up sales, Fisker makes a deal and Uber reignites an old fight](https://techcrunch.com/2024/07/11/lucid-revs-up-sales-fisker-makes-a-deal-and-uber-reignites-an-old-fight/)
 - [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/)
 - [Cosmic crime scene reveals ancient supernova aftermath of dead star merger](https://www.space.com/cosmic-crime-scene-aftermath-dead-star-merger)
-- [Tesla reportedly delays ‘robotaxi’ event to October](https://techcrunch.com/2024/07/11/tesla-delay-robotaxi-event-august-october/)
-- [How Apple Intelligence is changing the way you use Siri on your iPhone](https://techcrunch.com/2024/07/11/how-apple-intelligence-is-changing-the-way-you-use-siri-on-your-iphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
