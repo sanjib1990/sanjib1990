@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU ends Apple Pay antitrust probe with binding commitments to open up contactless payments](https://techcrunch.com/2024/07/11/eu-ends-apple-pay-antitrust-probe-with-binding-commitments-to-open-up-contactless-payments/)
+- [When will Starliner come home? Boeing and NASA still don&#39;t know](https://www.space.com/boeing-starliner-no-return-date-from-iss)
+- [Joby Aviation is betting on hydrogen-electric aircraft for regional flight](https://techcrunch.com/2024/07/11/joby-aviation-is-betting-on-hydrogen-electric-aircraft-for-regional-flight/)
+- [Sekai secures Naruto’s license to develop consumer apps for anime fans](https://techcrunch.com/2024/07/11/sekai-secures-narutos-license-to-develop-consumer-apps-for-anime-fans/)
 - [Uzbekistan mobile bank TBC raises $38.2M to expand its financial products](https://techcrunch.com/2024/07/11/uzbekistan-mobile-bank-tbc-raises-38-2m-to-expand-its-financial-products/)
-- [Adfin wants to fix bill payments for sole traders and small companies](https://techcrunch.com/2024/07/10/adfin-wants-to-fix-bill-payments-for-tradespeople-lawyers-and-small-companies/)
-- [Reliance may list Jio at $112 billion valuation next year, Jefferies says](https://techcrunch.com/2024/07/10/reliance-may-list-jio-at-112-billion-valuation-next-year-jefferies-says/)
-- [Apple warns iPhone users in 98 countries of spyware attacks](https://techcrunch.com/2024/07/10/apple-alerts-iphone-users-in-98-countries-to-mercenary-spyware-attacks/)
-- [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
