@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reliance may list Jio at $112 billion valuation next year, Jefferies says](https://techcrunch.com/2024/07/10/reliance-may-list-jio-at-112-billion-valuation-next-year-jefferies-says/)
 - [Apple warns iPhone users in 98 countries of spyware attacks](https://techcrunch.com/2024/07/10/apple-alerts-iphone-users-in-98-countries-to-mercenary-spyware-attacks/)
 - [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/)
 - [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/)
 - [FTC study finds ‘dark patterns’ used by a majority of subscription apps and websites](https://techcrunch.com/2024/07/10/ftc-study-finds-dark-patterns-used-by-a-majority-of-subscription-apps-and-websites/)
-- [Elon Musk does not owe ex-Twitter staffers $500 million in severance, court rules](https://techcrunch.com/2024/07/10/elon-musk-does-not-owe-ex-twitter-staffers-500-million-in-severance-court-rules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
