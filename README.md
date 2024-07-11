@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shark Tank-backed Kudos raises another $3M for healthier, cotton-based disposable diapers](https://techcrunch.com/2024/07/11/shark-tank-kudos-raises-3m-more-healthier-sustainable-disposable-diapers/)
+- [Lego Marvel Rocket and Baby Groot review](https://www.space.com/lego-marvel-rocket-and-baby-groot-review)
+- [Huge earthquake 2,500 years ago rerouted the Ganges River, study suggests](https://www.space.com/earthquake-2500-years-ago-rerouted-ganges-river)
+- [‘Wild Wild Space’ doc captures the risks and rivalries of the new space race](https://techcrunch.com/2024/07/11/wild-wild-space-doc-captures-the-risks-and-rivalries-of-the-new-space-race/)
 - [&#39;Drawn to our planet:&#39; How spaceflight changed SpaceX Inspiration4 astronaut Chris Sembroski](https://www.space.com/spacex-inspiration4-mission-chris-sembroski-interview)
-- [Are ‘visual’ AI models actually blind?](https://techcrunch.com/2024/07/11/are-visual-ai-models-actually-blind/)
-- [Lucid revs up sales, Fisker makes a deal and Uber reignites an old fight](https://techcrunch.com/2024/07/11/lucid-revs-up-sales-fisker-makes-a-deal-and-uber-reignites-an-old-fight/)
-- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/)
-- [Cosmic crime scene reveals ancient supernova aftermath of dead star merger](https://www.space.com/cosmic-crime-scene-aftermath-dead-star-merger)
 <!-- BLOG-POST-LIST:END -->
 
 ---
