@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adfin wants to fix bill payments for sole traders and small companies](https://techcrunch.com/2024/07/10/adfin-wants-to-fix-bill-payments-for-tradespeople-lawyers-and-small-companies/)
 - [Reliance may list Jio at $112 billion valuation next year, Jefferies says](https://techcrunch.com/2024/07/10/reliance-may-list-jio-at-112-billion-valuation-next-year-jefferies-says/)
 - [Apple warns iPhone users in 98 countries of spyware attacks](https://techcrunch.com/2024/07/10/apple-alerts-iphone-users-in-98-countries-to-mercenary-spyware-attacks/)
 - [Beeble AI raises $4.75M to launch a virtual production platform for indie filmmakers](https://techcrunch.com/2024/07/10/beeble-ai-raises-4-75m-to-launch-a-virtual-production-platform-for-indie-filmmakers/)
 - [More ex-military officials are becoming VCs as defense tech investment reached $35B](https://techcrunch.com/2024/07/10/ex-military-officials-becoming-vcs-defense-tech-investment-reached-35-billion/)
-- [FTC study finds ‘dark patterns’ used by a majority of subscription apps and websites](https://techcrunch.com/2024/07/10/ftc-study-finds-dark-patterns-used-by-a-majority-of-subscription-apps-and-websites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
