@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lucid revs up sales, Fisker makes a deal and Uber reignites an old fight](https://techcrunch.com/2024/07/11/lucid-revs-up-sales-fisker-makes-a-deal-and-uber-reignites-an-old-fight/)
+- [Photo-sharing startup Retro spots Google Photos copying its idea and design](https://techcrunch.com/2024/07/11/photo-sharing-startup-retro-spots-google-photos-copying-its-idea-and-design/)
+- [Cosmic crime scene reveals ancient supernova aftermath of dead star merger](https://www.space.com/cosmic-crime-scene-aftermath-dead-star-merger)
 - [Tesla reportedly delays ‘robotaxi’ event to October](https://techcrunch.com/2024/07/11/tesla-delay-robotaxi-event-august-october/)
 - [How Apple Intelligence is changing the way you use Siri on your iPhone](https://techcrunch.com/2024/07/11/how-apple-intelligence-is-changing-the-way-you-use-siri-on-your-iphone/)
-- [Perseid meteor shower returns to our skies this month to kick off summer &#39;shooting star&#39; season](https://www.space.com/perseid-meteor-shower-2024-what-to-expect)
-- [YouTube tempts creators with a half dozen new features for Shorts](https://techcrunch.com/2024/07/11/youtube-tempts-creators-with-a-half-dozen-new-features-for-shorts/)
-- [TechCrunch Minute: Unpacking Samsung Unpacked](https://techcrunch.com/video/techcrunch-minute-unpacking-samsung-unpacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
