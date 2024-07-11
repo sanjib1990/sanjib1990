@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch private Cygnus cargo spacecraft leave the ISS early July 12](https://www.space.com/northrop-grumman-cygnus-iss-departure-july-2024)
 - [How, when and where to see 2024&#39;s second &#39;Manhattanhenge&#39; this week](https://www.space.com/manhattanhenge-july-2024)
 - [&#39;A Quiet Place&#39;s&#39; alien monsters explained](https://www.space.com/a-quiet-place-aliens-explained)
 - [Data breach exposes millions of mSpy spyware customers](https://techcrunch.com/2024/07/11/mspy-spyware-millions-customers-data-breach/)
 - [Shark Tank-backed Kudos raises another $3M for healthier, cotton-based disposable diapers](https://techcrunch.com/2024/07/11/shark-tank-kudos-raises-3m-more-healthier-sustainable-disposable-diapers/)
-- [Lego Marvel Rocket and Baby Groot review](https://www.space.com/lego-marvel-rocket-and-baby-groot-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
