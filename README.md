@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Dark comets&#39; may have given Earth its water long ago](https://www.space.com/earth-water-dark-comets-impacts)
+- [Why Commonwealth Fusion Systems’ superconducting magnet sale is more than it seems](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/)
+- [Boston VCs are pleased that HubSpot will remain an independent company](https://techcrunch.com/2024/07/12/boston-vcs-are-pleased-that-hubspot-will-remain-an-independent-company/)
 - [CapCut will stop offering free cloud storage from August 5](https://techcrunch.com/2024/07/12/capcut-will-stop-offering-free-cloud-storage-from-august-5/)
 - [Europe confirms first clutch of DSA grievances on Elon Musk’s X](https://techcrunch.com/2024/07/12/europe-confirms-first-clutch-of-dsa-grievances-on-elon-musks-x/)
-- [AT&amp;T says criminals stole phone records of ‘nearly all’ customers in new data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
-- [Astronomers could use a synthetic cosmos to unravel dark matter mysteries](https://www.space.com/synthetic-universe-simulation-dark-universe)
-- [EU’s AI Act gets published in bloc’s Official Journal, starting clock on legal deadlines](https://techcrunch.com/2024/07/12/eus-ai-act-gets-published-in-blocs-official-journal-starting-clock-on-legal-deadlines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
