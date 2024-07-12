@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo cameras capture footage of person charged in alleged robotaxi tire slashings](https://techcrunch.com/2024/07/11/waymo-cameras-capture-footage-of-man-charged-in-alleged-robotaxi-tire-slashings/)
 - [SoftBank acquires UK AI chipmaker Graphcore](https://techcrunch.com/2024/07/11/softbank-acquires-uk-ai-chipmaker-graphcore/)
 - [X is building a ‘dislike’ button for downvoting replies](https://techcrunch.com/2024/07/11/x-is-building-a-dislike-button-for-downvoting-replies/)
 - [Watch private Cygnus cargo spacecraft leave the ISS early July 12](https://www.space.com/northrop-grumman-cygnus-iss-departure-july-2024)
 - [How, when and where to see 2024&#39;s second &#39;Manhattanhenge&#39; this week](https://www.space.com/manhattanhenge-july-2024)
-- [&#39;A Quiet Place&#39;s&#39; alien monsters explained](https://www.space.com/a-quiet-place-aliens-explained)
 <!-- BLOG-POST-LIST:END -->
 
 ---
