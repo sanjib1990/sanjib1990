@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Experiment finds AI boosts creativity individually — but lowers it collectively](https://techcrunch.com/2024/07/12/experiment-finds-ai-boosts-creativity-individually-but-lowers-it-collectively/)
+- [HeadSpin, whose founder is in prison for fraud, sold to PE firm for ‘cents on the dollar,’ sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/)
+- [New Senate bill seeks to protect artists’ and journalists’ content from AI use](https://techcrunch.com/2024/07/12/new-senate-bill-seeks-to-protect-artists-and-journalists-content-from-ai-use/)
+- [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/)
 - [FAA investigating SpaceX Falcon 9 rocket anomaly](https://www.space.com/faa-investigation-spacex-falcon-9-failure-starlink-launch)
-- [Galactic penguin honors the 2nd anniversary of James Webb Space Telescope&#39;s 1st images](https://www.space.com/james-webb-space-telescope-second-anniversary)
-- [Archer’s vision of an air taxi network could benefit from Southwest customer data](https://techcrunch.com/2024/07/12/archers-vision-of-an-air-taxi-network-could-benefit-from-southwest-customer-data/)
-- [Space Force launching lasers in 2025 to help pinpoint the center of Earth](https://www.space.com/space-force-lasers-pinpoint-earth-center)
-- [Wikipedia’s mobile website finally gets a dark mode — here’s how to turn it on](https://techcrunch.com/2024/07/12/wikipedias-mobile-website-finally-gets-a-dark-mode-heres-how-to-turn-it-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
