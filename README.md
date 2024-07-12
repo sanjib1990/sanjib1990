@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wikipedia’s mobile website finally gets a dark mode — here’s how to turn it on](https://techcrunch.com/2024/07/12/wikipedias-mobile-website-finally-gets-a-dark-mode-heres-how-to-turn-it-on/)
+- [What the AT&amp;T phone records data breach means for you](https://techcrunch.com/2024/07/12/what-the-att-call-records-data-breach-means-for-you/)
+- [TechCrunch Minute: FTC finds ‘dark patterns’ in subscription apps](https://techcrunch.com/video/techcrunch-minute-ftc-finds-dark-patterns-in-subscription-apps/)
 - [&#39;Fly Me to the Moon&#39; director on faking the real and fake moon landing &lpar;interview&rpar;](https://www.space.com/fly-me-to-the-moon-director-greg-berlanti-interview)
 - [SpaceX Falcon 9 suffers rare failure on orbit during Starlink deployment](https://techcrunch.com/2024/07/12/spacex-falcon-9-suffers-rare-failure-on-orbit-during-starlink-deployment/)
-- [&#39;The last 12 months have broken records like never before&#39;: Earth exceeds 1.5 C warming every month for entire year](https://www.space.com/last-12-months-broke-temperature-records)
-- [Amazon AI chatbot Rufus is now live for all U.S. customers](https://techcrunch.com/2024/07/12/amazon-ai-chatbot-rufus-is-now-live-for-all-u-s-customers/)
-- [More bad news for Elon Musk after X user’s legal challenge to shadowban prevails](https://techcrunch.com/2024/07/12/more-bad-news-for-elon-musk-after-x-users-legal-challenge-to-shadowban-prevails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
