@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The last 12 months have broken records like never before&#39;: Earth exceeds 1.5 C warming every month for entire year](https://www.space.com/last-12-months-broke-temperature-records)
+- [Amazon AI chatbot Rufus is now live for all U.S. customers](https://techcrunch.com/2024/07/12/amazon-ai-chatbot-rufus-is-now-live-for-all-u-s-customers/)
+- [More bad news for Elon Musk after X user’s legal challenge to shadowban prevails](https://techcrunch.com/2024/07/12/more-bad-news-for-elon-musk-after-x-users-legal-challenge-to-shadowban-prevails/)
 - [Watch the moon cover up the blue giant star Spica on July 13](https://www.space.com/moon-hides-spica-lunar-occultation-july-2024)
 - [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/)
-- [&#39;Dark comets&#39; may have given Earth its water long ago](https://www.space.com/earth-water-dark-comets-impacts)
-- [Why Commonwealth Fusion Systems’ superconducting magnet sale is more than it seems](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/)
-- [Boston VCs are pleased that HubSpot will remain an independent company](https://techcrunch.com/2024/07/12/boston-vcs-are-pleased-that-hubspot-will-remain-an-independent-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
