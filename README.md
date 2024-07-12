@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurricane Beryl sets multiple records as 1st major storm of 2024 Atlantic season &lpar;video&rpar;](https://www.space.com/hurricane-beryl-1st-storm-hurricane-season-2024-records)
 - [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/)
 - [Hubble Telescope tracks a dwarf galaxy&#39;s stars to map out dark matter](https://www.space.com/hubble-telescope-dark-matter-dwarf-galaxy)
 - [A VC told Keely Cat-Wells to get a male, non-disabled co-founder — she balked, nabbed a $2M seed round](https://techcrunch.com/2024/07/12/a-vc-told-keely-cat-wells-to-get-a-male-able-bodied-co-founder-she-balked-nabbed-a-2m-seed-round/)
 - [NASA&#39;s $5 billion Europa Clipper mission may not be able to handle Jupiter&#39;s radiation](https://www.space.com/europe-clipper-transistors-vulnerable-radiation)
-- [Experiment finds AI boosts creativity individually — but lowers it collectively](https://techcrunch.com/2024/07/12/experiment-finds-ai-boosts-creativity-individually-but-lowers-it-collectively/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
