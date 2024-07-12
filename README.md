@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CapCut will stop offering free cloud storage from August 5](https://techcrunch.com/2024/07/12/capcut-will-stop-offering-free-cloud-storage-from-august-5/)
+- [Europe confirms first clutch of DSA grievances on Elon Musk’s X](https://techcrunch.com/2024/07/12/europe-confirms-first-clutch-of-dsa-grievances-on-elon-musks-x/)
+- [AT&amp;T says criminals stole phone records of ‘nearly all’ customers in new data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 - [Astronomers could use a synthetic cosmos to unravel dark matter mysteries](https://www.space.com/synthetic-universe-simulation-dark-universe)
 - [EU’s AI Act gets published in bloc’s Official Journal, starting clock on legal deadlines](https://techcrunch.com/2024/07/12/eus-ai-act-gets-published-in-blocs-official-journal-starting-clock-on-legal-deadlines/)
-- [SpaceX Falcon 9 rocket suffers anomaly during Starlink satellite launch](https://www.space.com/spacex-starlink-launch-anomaly-july-2024)
-- [Waymo cameras capture footage of person charged in alleged robotaxi tire slashings](https://techcrunch.com/2024/07/11/waymo-cameras-capture-footage-of-man-charged-in-alleged-robotaxi-tire-slashings/)
-- [SoftBank acquires UK AI chipmaker Graphcore](https://techcrunch.com/2024/07/11/softbank-acquires-uk-ai-chipmaker-graphcore/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
