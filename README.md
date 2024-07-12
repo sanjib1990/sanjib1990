@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU’s AI Act gets published in bloc’s Official Journal, starting clock on legal deadlines](https://techcrunch.com/2024/07/12/eus-ai-act-gets-published-in-blocs-official-journal-starting-clock-on-legal-deadlines/)
 - [SpaceX Falcon 9 rocket suffers anomaly during Starlink satellite launch](https://www.space.com/spacex-starlink-launch-anomaly-july-2024)
 - [Waymo cameras capture footage of person charged in alleged robotaxi tire slashings](https://techcrunch.com/2024/07/11/waymo-cameras-capture-footage-of-man-charged-in-alleged-robotaxi-tire-slashings/)
 - [SoftBank acquires UK AI chipmaker Graphcore](https://techcrunch.com/2024/07/11/softbank-acquires-uk-ai-chipmaker-graphcore/)
 - [X is building a ‘dislike’ button for downvoting replies](https://techcrunch.com/2024/07/11/x-is-building-a-dislike-button-for-downvoting-replies/)
-- [Watch private Cygnus cargo spacecraft leave the ISS today](https://www.space.com/northrop-grumman-cygnus-iss-departure-july-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
