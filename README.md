@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Defending Russia’s EU neighbors](https://techcrunch.com/2024/07/12/defending-russias-eu-neighbors/)
+- [Hubble Telescope tracks a dwarf galaxy&#39;s stars to map out dark matter](https://www.space.com/hubble-telescope-dark-matter-dwarf-galaxy)
+- [A VC told Keely Cat-Wells to get a male, able-bodied co-founder. She balked, nabbed a $2M seed round.](https://techcrunch.com/2024/07/12/a-vc-told-keely-cat-wells-to-get-a-male-able-bodied-co-founder-she-balked-nabbed-a-2m-seed-round/)
+- [NASA&#39;s $5 billion Europa Clipper mission may not be able to handle Jupiter&#39;s radiation](https://www.space.com/europe-clipper-transistors-vulnerable-radiation)
 - [Experiment finds AI boosts creativity individually — but lowers it collectively](https://techcrunch.com/2024/07/12/experiment-finds-ai-boosts-creativity-individually-but-lowers-it-collectively/)
-- [HeadSpin, whose founder is in prison for fraud, sold to PE firm for ‘cents on the dollar,’ sources say](https://techcrunch.com/2024/07/12/headspin-whose-founder-in-prison-for-fraud-sold-to-pe-firm-for-cents-on-the-dollar-sources-say/)
-- [New Senate bill seeks to protect artists’ and journalists’ content from AI use](https://techcrunch.com/2024/07/12/new-senate-bill-seeks-to-protect-artists-and-journalists-content-from-ai-use/)
-- [From Ethan Choi to Spencer Peterson, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/07/12/from-connie-chan-to-ethan-kurzweil-venture-capitalists-continue-to-play-musical-chairs/)
-- [FAA investigating SpaceX Falcon 9 rocket anomaly](https://www.space.com/faa-investigation-spacex-falcon-9-failure-starlink-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
