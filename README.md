@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA investigating SpaceX Falcon 9 rocket anomaly](https://www.space.com/faa-investigation-spacex-falcon-9-failure-starlink-launch)
+- [Galactic penguin honors the 2nd anniversary of James Webb Space Telescope&#39;s 1st images](https://www.space.com/james-webb-space-telescope-second-anniversary)
+- [Archer’s vision of an air taxi network could benefit from Southwest customer data](https://techcrunch.com/2024/07/12/archers-vision-of-an-air-taxi-network-could-benefit-from-southwest-customer-data/)
+- [Space Force launching lasers in 2025 to help pinpoint the center of Earth](https://www.space.com/space-force-lasers-pinpoint-earth-center)
 - [Wikipedia’s mobile website finally gets a dark mode — here’s how to turn it on](https://techcrunch.com/2024/07/12/wikipedias-mobile-website-finally-gets-a-dark-mode-heres-how-to-turn-it-on/)
-- [What the AT&amp;T phone records data breach means for you](https://techcrunch.com/2024/07/12/what-the-att-call-records-data-breach-means-for-you/)
-- [TechCrunch Minute: FTC finds ‘dark patterns’ in subscription apps](https://techcrunch.com/video/techcrunch-minute-ftc-finds-dark-patterns-in-subscription-apps/)
-- [&#39;Fly Me to the Moon&#39; director on faking the real and fake moon landing &lpar;interview&rpar;](https://www.space.com/fly-me-to-the-moon-director-greg-berlanti-interview)
-- [SpaceX Falcon 9 suffers rare failure on orbit during Starlink deployment](https://techcrunch.com/2024/07/12/spacex-falcon-9-suffers-rare-failure-on-orbit-during-starlink-deployment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
