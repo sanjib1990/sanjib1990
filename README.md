@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the moon cover up the blue giant star Spica on July 13](https://www.space.com/moon-hides-spica-lunar-occultation-july-2024)
+- [A startup set out to fight climate change — it did it by helping plumbers](https://techcrunch.com/2024/07/12/a-startup-set-out-to-fight-climate-change-it-did-it-by-helping-plumbers/)
 - [&#39;Dark comets&#39; may have given Earth its water long ago](https://www.space.com/earth-water-dark-comets-impacts)
 - [Why Commonwealth Fusion Systems’ superconducting magnet sale is more than it seems](https://techcrunch.com/2024/07/12/lets-not-kick-down-the-ladder-commonwealth-fusion-systems-shares-its-secret-sauce/)
 - [Boston VCs are pleased that HubSpot will remain an independent company](https://techcrunch.com/2024/07/12/boston-vcs-are-pleased-that-hubspot-will-remain-an-independent-company/)
-- [CapCut will stop offering free cloud storage from August 5](https://techcrunch.com/2024/07/12/capcut-will-stop-offering-free-cloud-storage-from-august-5/)
-- [Europe confirms first clutch of DSA grievances on Elon Musk’s X](https://techcrunch.com/2024/07/12/europe-confirms-first-clutch-of-dsa-grievances-on-elon-musks-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
