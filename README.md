@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the universe still making new galaxies?](https://www.space.com/are-new-galaxies-still-forming)
 - [US military project aims to prevent hackers targeting satellites and recognizes rising threat of cyberattacks in space](https://www.space.com/space-exploration/satellites/us-military-project-aims-to-prevent-hackers-targeting-satellites-and-recognizes-rising-threat-of-cyberattacks-in-space)
 - [Meta removes special restrictions for Trump’s account ahead of 2024 elections](https://techcrunch.com/2024/07/12/meta-is-lifting-trumps-account-restrictions-ahead-of-2024-election/)
 - [Waymo cameras capture footage of person charged in alleged robotaxi tire slashings](https://techcrunch.com/2024/07/12/waymo-cameras-capture-footage-of-man-charged-in-alleged-robotaxi-tire-slashings/)
 - [Join Space.com&#39;s 25th Anniversary Virtual Panel on July 17: The Next 25 Years of Space Exploration - To the Moon, Mars and Beyond](https://www.space.com/25th-anniversary-panel-next-25-years-space-exploration-july-17)
-- [Hurricane Beryl sets multiple records as 1st major storm of 2024 Atlantic season &lpar;video&rpar;](https://www.space.com/hurricane-beryl-1st-storm-hurricane-season-2024-records)
 <!-- BLOG-POST-LIST:END -->
 
 ---
