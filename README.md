@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you’re an AT&amp;T customer, your data has likely been stolen](https://techcrunch.com/2024/07/13/if-youre-an-att-customer-your-data-has-likely-been-stolen/)
 - [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
 - [Whistleblowers accuse OpenAI of ‘illegally restrictive’ NDAs](https://techcrunch.com/2024/07/13/whistleblowers-accuse-openai-of-illegally-restrictive-ndas/)
 - [How to protect your startup from email scams](https://techcrunch.com/2024/07/13/how-to-protect-your-startup-from-email-scams/)
 - [What exactly is an AI agent?](https://techcrunch.com/2024/07/13/what-exactly-is-an-ai-agent/)
-- [&#39;The Last Starfighter&#39; at 40: Director Nick Castle on making his sci-fi fantasy classic &lpar;exclusive&rpar;](https://www.space.com/last-starfighter-40th-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
