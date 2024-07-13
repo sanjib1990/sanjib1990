@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to protect your startup from email scams](https://techcrunch.com/2024/07/13/how-to-protect-your-startup-from-email-scams/)
 - [What exactly is an AI agent?](https://techcrunch.com/2024/07/13/what-exactly-is-an-ai-agent/)
 - [&#39;The Last Starfighter&#39; at 40: Director Nick Castle on making his sci-fi fantasy classic &lpar;exclusive&rpar;](https://www.space.com/last-starfighter-40th-anniversary)
 - [This Week In Space podcast: Episode 119 —Junkyard in Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-119-junkyard-space)
 - [Chinese company iSpace suffers 4th launch failure in 7 tries](https://www.space.com/china-ispace-fourth-launch-failure-hyperbola-1-rocket)
-- [Is the universe still making new galaxies?](https://www.space.com/are-new-galaxies-still-forming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
