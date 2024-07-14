@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything We Know About &#39;Star Trek: Starfleet Academy&#39;](https://www.space.com/star-trek-starfleet-academy-everything-we-know)
 - [The values of family in space &lpar;op-ed&rpar;](https://www.space.com/values-family-space-settlement-op-ed)
 - [India clings to cheap feature phones as brands struggle to tap new smartphone buyers](https://techcrunch.com/2024/07/13/india-clings-to-cheap-feature-phones-as-brands-struggle-to-tap-new-smartphone-buyers/)
 - [Meet the soft robots that can amputate limbs and fuse with other robots](https://techcrunch.com/2024/07/13/meet-the-soft-robots-that-can-amputate-limbs-and-fuse-with-other-robots/)
 - [If you’re an AT&amp;T customer, your data has likely been stolen](https://techcrunch.com/2024/07/13/if-youre-an-att-customer-your-data-has-likely-been-stolen/)
-- [Here’s the full list of 28 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/07/13/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
