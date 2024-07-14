@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stargazing with the naked eye: What you can see this week July 15 - 21](https://www.space.com/naked-eye-night-sky-july-15-21-2024)
 - [Is Earth&#39;s weather getting weirder?](https://www.space.com/earth-weather-getting-weirder-climate-scientist)
 - [Everything We Know About &#39;Star Trek: Starfleet Academy&#39;](https://www.space.com/star-trek-starfleet-academy-everything-we-know)
 - [The values of family in space &lpar;op-ed&rpar;](https://www.space.com/values-family-space-settlement-op-ed)
 - [India clings to cheap feature phones as brands struggle to tap new smartphone buyers](https://techcrunch.com/2024/07/13/india-clings-to-cheap-feature-phones-as-brands-struggle-to-tap-new-smartphone-buyers/)
-- [Meet the soft robots that can amputate limbs and fuse with other robots](https://techcrunch.com/2024/07/13/meet-the-soft-robots-that-can-amputate-limbs-and-fuse-with-other-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
