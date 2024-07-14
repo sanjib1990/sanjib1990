@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists call the region of space influenced by the sun the heliosphere – but without an interstellar probe, they don&#39;t know much about its shape](https://www.space.com/heliosphere-shape-remains-mystery-without-scientific-probe)
+- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/07/14/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/)
+- [Helixx wants to bring fast-food economics and Netflix pricing to EVs](https://techcrunch.com/2024/07/14/helixx-wants-to-bring-fast-food-economics-and-netflix-pricing-to-evs/)
 - [Stargazing with the naked eye: What you can see this week July 15 - 21](https://www.space.com/naked-eye-night-sky-july-15-21-2024)
 - [Is Earth&#39;s weather getting weirder?](https://www.space.com/earth-weather-getting-weirder-climate-scientist)
-- [Everything We Know About &#39;Star Trek: Starfleet Academy&#39;](https://www.space.com/star-trek-starfleet-academy-everything-we-know)
-- [The values of family in space &lpar;op-ed&rpar;](https://www.space.com/values-family-space-settlement-op-ed)
-- [India clings to cheap feature phones as brands struggle to tap new smartphone buyers](https://techcrunch.com/2024/07/13/india-clings-to-cheap-feature-phones-as-brands-struggle-to-tap-new-smartphone-buyers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
