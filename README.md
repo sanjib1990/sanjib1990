@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI financial results paradox](https://techcrunch.com/2024/07/14/the-ai-financial-results-paradox/)
 - [Google reportedly in talks to acquire cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
 - [Hank Green reckons with the power — and the powerlessness — of the creator](https://techcrunch.com/2024/07/14/hank-green-reckons-with-the-power-and-the-powerlessness-of-the-creator/)
 - [Scientists call the region of space influenced by the sun the heliosphere – but without an interstellar probe, they don&#39;t know much about its shape](https://www.space.com/heliosphere-shape-remains-mystery-without-scientific-probe)
 - [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/07/14/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/)
-- [Helixx wants to bring fast-food economics and Netflix pricing to EVs](https://techcrunch.com/2024/07/14/helixx-wants-to-bring-fast-food-economics-and-netflix-pricing-to-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
