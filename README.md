@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The spaceships of the &#39;Star Wars&#39; High Republic era](https://www.space.com/ships-of-star-wars-high-republic-era)
+- [Disrupt Deal Days are here: Prime savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/15/disrupt-deal-days-are-here-prime-savings-for-techcrunch-disrupt-2024/)
+- [Deezer chases Spotify and Amazon Music with its own AI playlist generator](https://techcrunch.com/2024/07/15/deezer-chases-spotify-and-amazon-music-with-its-own-ai-playlist-generator/)
+- [Sun unleashes powerful X-class solar flare triggering radio blackouts over Australia, Southeast Asia and Japan &lpar;video&rpar;](https://www.space.com/x-class-solar-flare-eruption-july-13-14-sun-activity-radio-blackouts)
 - [Can the James Webb Space Telescope see galaxies over the universe&#39;s horizon?](https://www.space.com/james-webb-space-telescope-universe-expansion-photon-horizon)
-- [Save $80 on this Celestron Inspire 100AZ refractor telescope, great for skygazing  beginners](https://www.space.com/save-80-dollars-prime-day-telescope-deal-celestron-inspire-100AZ-beginner-telescope-july-2024)
-- [Adaptive builds automation tools to speed up construction payments](https://techcrunch.com/2024/07/15/adaptive-builds-automation-tools-to-speed-up-construction-payments/)
-- [Caliza lands $8.5 million to bring real-time money transfers to Latin America using USDC](https://techcrunch.com/2024/07/15/caliza-lands-8-5-million-to-bring-real-time-money-transfers-to-latin-america-using-usdc/)
-- [See Mars and Uranus make a close approach in the night sky tonight](https://www.space.com/mars-uranus-close-approach-june-16-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
