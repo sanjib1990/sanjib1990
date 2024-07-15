@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: Space cowboys](https://techcrunch.com/2024/07/15/techcrunch-space-space-cowboys/)
+- [SpaceX Falcon 9 rocket failure forces NASA to evaluate astronaut launch schedule for ISS](https://www.space.com/spacex-rocket-failure-nasa-astronaut-launch-schedule-iss)
+- [Without Apple Intelligence, iOS 18 beta feels like a TV show that’s waiting for the finale](https://techcrunch.com/2024/07/15/without-apple-intelligence-ios-18-beta-feels-like-a-tv-show-thats-waiting-for-the-finale/)
+- [Apple’s public betas for iOS 18 are here to test out](https://techcrunch.com/2024/07/15/apples-public-betas-for-ios-18-are-here-to-test-out/)
 - [&#39;What exactly is a planet?&#39; Astronomers want to amend the definition](https://www.space.com/planet-definition-amendment-exoplanets)
-- [A comet predicted to light up the sky in 2024 may already be doomed](https://www.space.com/comet-c2023-a3-tsuchinshan-atlas-break-up)
-- [Fisker has one major objector to its Ocean SUV firesale](https://techcrunch.com/2024/07/15/fisker-bankruptcy-ocean-ev-firesale-goes-before-the-judge/)
-- [Major Stripe investor Sequoia confirms $70B valuation, offers its investors a payday](https://techcrunch.com/2024/07/15/major-stripe-investor-sequoia-confirms-70b-valuation-offers-its-investors-a-payday/)
-- [Drone racing is helping train AI to autonomously drive spacecraft](https://www.space.com/artificial-intelligence-drone-racing-spacecraft-maneuvers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
