@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;What exactly is a planet?&#39; Astronomers want to amend the definition](https://www.space.com/planet-definition-amendment-exoplanets)
+- [A comet predicted to light up the sky in 2024 may already be doomed](https://www.space.com/comet-c2023-a3-tsuchinshan-atlas-break-up)
 - [Fisker has one major objector to its Ocean SUV firesale](https://techcrunch.com/2024/07/15/fisker-bankruptcy-ocean-ev-firesale-goes-before-the-judge/)
 - [Major Stripe investor Sequoia confirms $70B valuation, offers its investors a payday](https://techcrunch.com/2024/07/15/major-stripe-investor-sequoia-confirms-70b-valuation-offers-its-investors-a-payday/)
 - [Drone racing is helping train AI to autonomously drive spacecraft](https://www.space.com/artificial-intelligence-drone-racing-spacecraft-maneuvers)
-- [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/)
-- [Bird Buddy’s new AI feature lets people name and identify individual birds](https://techcrunch.com/2024/07/15/bird-buddys-new-ai-feature-lets-people-name-and-identify-individual-birds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
