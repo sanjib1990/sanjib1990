@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of my favorite star projectors is almost half price and under $20](https://www.space.com/my-favorite-star-projector-half-price-prime-day-star-projector-deal-july-2024)
+- [25 years of Space.com: Space exploration and astronomy in the 21st century &lpar;special report&rpar;](https://www.space.com/25-years-of-spacedotcom-astronomy-space-exploration-special-report)
+- [Streaming deals: Save money ahead of Amazon Prime Day](https://www.space.com/streaming-deals-ahead-of-prime-day-2024-paramount-amc)
 - [Save over $50 on the Nikon Prostaff P3 10x42 — the lowest price since Black Friday.](https://www.space.com/early-prime-day-binocular-deal-save-50-dollars-nikon-prostaff-p3-july-2024)
 - [SpaceX, the rise of China and more: How spaceflight has changed since 1999](https://www.space.com/evolution-space-travel-past-25-years)
-- [Cosmic curiosity is climbing, thanks to social media](https://www.space.com/social-media-space-25th-anniversary)
-- [Thank you for 25 amazing years of Space.com: A letter from the editor](https://www.space.com/25-years-of-spacedotcom-editor-letter-thank-you)
-- [TechCrunch Minute: A Google robot shows off what Gemini can do](https://techcrunch.com/video/techcrunch-minute-a-google-robot-shows-off-what-gemini-can-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
