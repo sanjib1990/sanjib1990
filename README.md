@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One of my favorite star projectors is almost half price and under $20](https://www.space.com/my-favorite-star-projector-half-price-prime-day-star-projector-deal-july-2024)
-- [25 years of Space.com: Space exploration and astronomy in the 21st century &lpar;special report&rpar;](https://www.space.com/25-years-of-spacedotcom-astronomy-space-exploration-special-report)
-- [Streaming deals: Save money ahead of Amazon Prime Day](https://www.space.com/streaming-deals-ahead-of-prime-day-2024-paramount-amc)
-- [Save over $50 on the Nikon Prostaff P3 10x42 — the lowest price since Black Friday.](https://www.space.com/early-prime-day-binocular-deal-save-50-dollars-nikon-prostaff-p3-july-2024)
-- [SpaceX, the rise of China and more: How spaceflight has changed since 1999](https://www.space.com/evolution-space-travel-past-25-years)
+- [&#39;Meatball&#39; milestone: NASA&#39;s original logo still soars after 65 years](https://www.space.com/nasa-insignia-logo-meatball-65-years)
+- [Save $30 on this magnificent Lego Ideas Tales of the Space Age lo-fi sci-fi set](https://www.space.com/save-30-dollars-tales-of-the-space-age-lego-set-prime-day-lego-deal)
+- [Scarlett Johansson serves up Apollo-era nostalgia in &#39;Fly Me to the Moon&#39; &lpar;review&rpar;](https://www.space.com/fly-me-to-the-moon-review)
+- [Elon Musk confirms Tesla ‘robotaxi’ event delayed due to design change](https://techcrunch.com/2024/07/15/elon-musk-confirms-tesla-robotaxi-event-delayed-design-change/)
+- [Moon cave! Discovery could redirect lunar colony and startup plays](https://techcrunch.com/2024/07/15/moon-cave-discovery-could-redirect-lunar-colony-and-startup-plays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
