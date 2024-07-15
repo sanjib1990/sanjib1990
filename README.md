@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the James Webb Space Telescope really &#39;breaking&#39; cosmology?](https://www.space.com/is-jwst-breaking-cosmology)
 - [How VanMoof’s new owners plan to win over its old customers](https://techcrunch.com/2024/07/15/how-vanmoofs-new-owners-plan-to-win-over-its-old-customers/)
 - [Mitti Labs aims to make rice farming less harmful to the climate, starting in India](https://techcrunch.com/2024/07/14/mitti-labs-aims-to-make-rice-farming-less-harmful-to-the-climate-starting-in-india/)
 - [How to tell if your online accounts have been hacked](https://techcrunch.com/2024/07/14/how-to-tell-if-your-online-accounts-have-been-hacked/)
 - [The AI financial results paradox](https://techcrunch.com/2024/07/14/the-ai-financial-results-paradox/)
-- [Google reportedly in talks to acquire cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
