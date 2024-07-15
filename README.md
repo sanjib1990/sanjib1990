@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The spaceships of the &#39;Star Wars&#39; High Republic era](https://www.space.com/ships-of-star-wars-high-republic-era)
-- [Disrupt Deal Days are here: Prime savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/15/disrupt-deal-days-are-here-prime-savings-for-techcrunch-disrupt-2024/)
-- [Deezer chases Spotify and Amazon Music with its own AI playlist generator](https://techcrunch.com/2024/07/15/deezer-chases-spotify-and-amazon-music-with-its-own-ai-playlist-generator/)
-- [Sun unleashes powerful X-class solar flare triggering radio blackouts over Australia, Southeast Asia and Japan &lpar;video&rpar;](https://www.space.com/x-class-solar-flare-eruption-july-13-14-sun-activity-radio-blackouts)
-- [Can the James Webb Space Telescope see galaxies over the universe&#39;s horizon?](https://www.space.com/james-webb-space-telescope-universe-expansion-photon-horizon)
+- [Save over $50 on the Nikon Prostaff P3 10x42 — the lowest price since Black Friday.](https://www.space.com/early-prime-day-binocular-deal-save-50-dollars-nikon-prostaff-p3-july-2024)
+- [SpaceX, the rise of China and more: How spaceflight has changed since 1999](https://www.space.com/evolution-space-travel-past-25-years)
+- [Cosmic curiosity is climbing, thanks to social media](https://www.space.com/social-media-space-25th-anniversary)
+- [Thank you for 25 amazing years of Space.com: A letter from the editor](https://www.space.com/25-years-of-spacedotcom-editor-letter-thank-you)
+- [TechCrunch Minute: A Google robot shows off what Gemini can do](https://techcrunch.com/video/techcrunch-minute-a-google-robot-shows-off-what-gemini-can-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
