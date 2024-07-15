@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can the James Webb Space Telescope see galaxies over the universe&#39;s horizon?](https://www.space.com/james-webb-space-telescope-universe-expansion-photon-horizon)
 - [Save $80 on this Celestron Inspire 100AZ refractor telescope, great for skygazing  beginners](https://www.space.com/save-80-dollars-prime-day-telescope-deal-celestron-inspire-100AZ-beginner-telescope-july-2024)
 - [Adaptive builds automation tools to speed up construction payments](https://techcrunch.com/2024/07/15/adaptive-builds-automation-tools-to-speed-up-construction-payments/)
 - [Caliza lands $8.5 million to bring real-time money transfers to Latin America using USDC](https://techcrunch.com/2024/07/15/caliza-lands-8-5-million-to-bring-real-time-money-transfers-to-latin-america-using-usdc/)
 - [See Mars and Uranus make a close approach in the night sky tonight](https://www.space.com/mars-uranus-close-approach-june-16-2024)
-- [Soar through the skies with the DJI Mini 3 Fly More Combo camera drone, $94 off in this early Prime Day deal](https://www.space.com/soar-through-the-skies-dji-mini-3-fly-more-combo-camera-drone-94-off-in-this-early-prime-day-drone-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
