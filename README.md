@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Meatball&#39; milestone: NASA&#39;s original logo still soars after 65 years](https://www.space.com/nasa-insignia-logo-meatball-65-years)
-- [Save $30 on this magnificent Lego Ideas Tales of the Space Age lo-fi sci-fi set](https://www.space.com/save-30-dollars-tales-of-the-space-age-lego-set-prime-day-lego-deal)
-- [Scarlett Johansson serves up Apollo-era nostalgia in &#39;Fly Me to the Moon&#39; &lpar;review&rpar;](https://www.space.com/fly-me-to-the-moon-review)
-- [Elon Musk confirms Tesla ‘robotaxi’ event delayed due to design change](https://techcrunch.com/2024/07/15/elon-musk-confirms-tesla-robotaxi-event-delayed-design-change/)
-- [Moon cave! Discovery could redirect lunar colony and startup plays](https://techcrunch.com/2024/07/15/moon-cave-discovery-could-redirect-lunar-colony-and-startup-plays/)
+- [Major Stripe investor Sequoia confirms $70B valuation, offers its investors a payday](https://techcrunch.com/2024/07/15/major-stripe-investor-sequoia-confirms-70b-valuation-offers-its-investors-a-payday/)
+- [Drone racing is helping train AI to autonomously drive spacecraft](https://www.space.com/artificial-intelligence-drone-racing-spacecraft-maneuvers)
+- [Google’s Kurian approached Wiz, $23B deal could take a week to land, source says](https://techcrunch.com/2024/07/15/googles-kurian-approached-wiz-23b-deal-could-take-a-week-to-close-source-says/)
+- [Bird Buddy’s new AI feature lets people name and identify individual birds](https://techcrunch.com/2024/07/15/bird-buddys-new-ai-feature-lets-people-name-and-identify-individual-birds/)
+- [YouTube Music is testing an AI-generated radio feature and adding a song recognition tool](https://techcrunch.com/2024/07/15/youtube-music-is-testing-an-ai-generated-radio-feature-and-adding-a-song-recognition-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
