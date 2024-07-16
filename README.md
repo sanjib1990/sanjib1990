@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp introduces ‘Favorites’ for quick access to contacts and groups that matter most](https://techcrunch.com/2024/07/16/whatsapp-introduces-favorites-for-quick-access-to-contacts-and-groups-that-matter-most/)
-- [Omega, Tang and Fruit of the Loom: The real and fake ads in &#39;Fly Me to the Moon&#39;](https://www.space.com/fly-me-to-the-moon-products-ads-real-fake)
-- [Perplexity’s Aravind Srinivas on accelerating everyday AI at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/16/perplexitys-aravind-srinivas-on-accelerating-everyday-ai-at-techcrunch-disrupt-2024/)
-- [Anti-Amazon? Head to Best Buy for the Unistellar Odyssey for a $700 saving](https://www.space.com/anti-amazon-prime-day-smart-telescope-deal-unistellar-700-dollars-off)
-- [Snap up this Lego Marvel Nano Gauntlet building set, 30% off for Prime Day](https://www.space.com/prime-day-lego-deal-marvel-nano-gauntlet-iron-man-save-30-percent)
+- [Anthropic releases Claude app for Android](https://techcrunch.com/2024/07/16/anthropic-releases-claude-app-for-android/)
+- [Doctor Who &#39;Empire of Death&#39;: Why is Ruby Sunday so important?](https://www.space.com/doctor-who-empire-of-death-why-is-ruby-sunday-so-important)
+- [TechCrunch Minute: Whistleblowers say OpenAI employs ‘illegally restrictive’ NDAs](https://techcrunch.com/video/techcrunch-minute-whistleblowers-say-openai-employs-illegally-restrictive-ndas/)
+- [VC David Sacks delivers a fire-and-brimstone speech at the Republican National Convention](https://techcrunch.com/2024/07/16/vc-david-sacks-delivers-a-fire-and-brimstone-speech-at-the-republican-national-convention/)
+- [iOS 18 could ‘sherlock’ $400M in app revenue](https://techcrunch.com/2024/07/16/ios-18-could-sherlock-400m-in-app-revenue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
