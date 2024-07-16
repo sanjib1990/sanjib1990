@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [At last, Apple’s Messages app will support RCS and scheduling texts](https://techcrunch.com/2024/07/15/at-last-apples-messages-app-will-support-rcs-and-scheduling-texts/)
 - [Here are all the devices compatible with iOS 18](https://techcrunch.com/2024/07/15/here-are-all-the-devices-compatible-with-ios-18/)
 - [TikTok glitch allows Shop to appear to users under 18, despite adults-only policy](https://techcrunch.com/2024/07/15/tiktok-glitch-allows-shop-to-appear-to-users-under-18-despite-adults-only-policy/)
 - [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/)
 - [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/)
-- [TechCrunch Space: Space cowboys](https://techcrunch.com/2024/07/15/techcrunch-space-space-cowboys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
