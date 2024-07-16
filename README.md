@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [25 years of exoplanet hunting hasn&#39;t revealed Earth 2.0 — but is that what we&#39;re looking for?](https://www.space.com/space-25-anniversary-exoplanet-history)
-- [Uber just added a way to search for rides in other cities— here’s how to use it](https://techcrunch.com/2024/07/16/uber-feature-search-for-rides-in-other-cities/)
-- [Toddle wants to ‘change how we build software’ with a collaborative visual web app builder](https://techcrunch.com/2024/07/16/toddle-wants-to-change-how-we-build-software-with-a-collaborative-visual-web-app-builder/)
-- [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/)
-- [Google backs Indian open-source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/)
+- [Save over $100 on these Vortex Crossfire HD 10x50 binoculars](https://www.space.com/save-over-100-dollars-prime-day-binocular-deal-vortex-crossfire-july-2024)
+- [Ultrahuman’s smart ring gets FDA-approved AFib detection](https://techcrunch.com/2024/07/16/ultrahumans-smart-ring-gets-fda-approved-afib-detection/)
+- [SpaceX test-fires Super Heavy Starship booster ahead of 5th flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-test-fire-booster-5th-flight)
+- [This awesome Lego Star Wars Millennium Falcon set is $34 off this Prime Day](https://www.space.com/prime-day-lego-deal-star-wars-millenium-falcon-34-dollars-off)
+- [Byju’s, once valued at $22 billion, faces insolvency proceedings](https://techcrunch.com/2024/07/16/byjus-once-valued-at-22-billion-faces-insolvency-proceedings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
