@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker cleared to sell North American EVs for $46.25 million](https://techcrunch.com/2024/07/16/fisker-bankruptcy-fleet-sale-order-approved/)
+- [Discover the heavens for less: Save $450 on this five-star telescope at Adorama](https://www.space.com/discover-heavens-save-450-dollars-five-star-telescope-anti-prime-day-adorama-deal)
+- [Time might be a mirage created by quantum physics, study suggests](https://www.space.com/time-a-mirage-quantum-physics-suggests)
 - [Prime Day Lego Star Wars deal: 30% off Luke&#39;s X-Wing fighter](https://www.space.com/lego-star-wars-prime-day-2024-deal-xwing-fighter)
 - [The Pococo Galaxy Star Projector has had a 44% Prime Day price drop](https://www.space.com/pococo-galaxy-prime-day-star-projector-deal-44-percent-cheaper)
-- [NASA rolls giant Artemis 2 moon rocket core off the factory floor for astronaut mission &lpar;video&rpar;](https://www.space.com/nasa-artemis-2-sls-booster-stage-michoud-rollout-july-16)
-- [Elon Musk vows to move X, SpaceX headquarters from California to Texas](https://techcrunch.com/2024/07/16/elon-musk-vows-to-move-x-spacex-headquarters-from-california-to-texas/)
-- [The biggest data breaches in 2024: 1 billion stolen records and rising](https://techcrunch.com/2024/07/16/2024-in-data-breaches-1-billion-stolen-records-and-rising/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
