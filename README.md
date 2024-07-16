@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [you can’t build your AI data center like this](https://www.youtube.com/watch?v=PCw2kX_gbHQ)
 - [Intel chips can’t possibly be this bad… 100% crash rate?](https://www.youtube.com/watch?v=H8LrwI-I_fY)
 - [How to self-host and hyperscale AI with Nvidia NIM](https://www.youtube.com/watch?v=ZgGss27IfwA)
 - [100+ Linux Things you Need to Know](https://www.youtube.com/watch?v=LKCVKw9CzFo)
 - [Linux on Windows......Windows on Linux](https://www.youtube.com/watch?v=vxTW22y8zV8)
-- [Top 4 AI Tools for Engineers that are ACTUALLY useful](https://www.youtube.com/watch?v=boEB2fMUZnU)
 <!-- YOUTUBE:END -->
 
 ---
