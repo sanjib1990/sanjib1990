@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Our favorite Lego space sets from the last 25 years](https://www.space.com/lego-space-sets-25-years-25th-anniversary)
-- [YC-backed CrowdVolt shakes up the secondary ticket market with its bid-ask model](https://techcrunch.com/2024/07/16/yc-backed-secondary-ticketing-startup-crowdvolt/)
-- [A company building Wordle for chess raises money from a16z Speedrun, Mark Pincus and Eric Wu](https://techcrunch.com/2024/07/16/a-company-building-wordle-for-chess-raises-money-from-a16z-speedrun-mark-pincus-and-eric-wu/)
-- [Microsoft faces UK antitrust probe after hiring Inflection AI founders and employees](https://techcrunch.com/2024/07/16/microsoft-faces-uk-antitrust-probe-after-hiring-inflection-ai-founders-and-employees/)
-- [Kaspersky to shut down US operations, lay off employees after US government ban](https://techcrunch.com/2024/07/16/kaspersky-to-shut-down-us-operations-lay-off-employees-after-us-government-ban/)
+- [WhatsApp introduces ‘Favorites’ for quick access to contacts and groups that matter most](https://techcrunch.com/2024/07/16/whatsapp-introduces-favorites-for-quick-access-to-contacts-and-groups-that-matter-most/)
+- [Omega, Tang and Fruit of the Loom: The real and fake ads in &#39;Fly Me to the Moon&#39;](https://www.space.com/fly-me-to-the-moon-products-ads-real-fake)
+- [Perplexity’s Aravind Srinivas on accelerating everyday AI at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/16/perplexitys-aravind-srinivas-on-accelerating-everyday-ai-at-techcrunch-disrupt-2024/)
+- [Anti-Amazon? Head to Best Buy for the Unistellar Odyssey for a $700 saving](https://www.space.com/anti-amazon-prime-day-smart-telescope-deal-unistellar-700-dollars-off)
+- [Snap up this Lego Marvel Nano Gauntlet building set, 30% off for Prime Day](https://www.space.com/prime-day-lego-deal-marvel-nano-gauntlet-iron-man-save-30-percent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
