@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prime Day telescope deal: $300 off the Celestron NexStar 8SE](https://www.space.com/celestron-nexstar-8se-prime-day-telescope-deal-300-off)
+- [Female-founded startups have raised $15.5 billion so far this year but that’s not really good news](https://techcrunch.com/2024/07/16/female-led-startups-have-raised-15-5-billion-so-far-this-year-but-thats-not-really-good-news/)
+- [Asteroid Apophis will visit Earth in 2029, and this European satellite will be along for the ride](https://www.space.com/asteroid-apophis-2029-ramses-esa-mission)
 - [Save over $100 on these Vortex Crossfire HD 10x50 binoculars](https://www.space.com/save-over-100-dollars-prime-day-binocular-deal-vortex-crossfire-july-2024)
 - [Ultrahuman’s smart ring gets FDA-approved AFib detection](https://techcrunch.com/2024/07/16/ultrahumans-smart-ring-gets-fda-approved-afib-detection/)
-- [SpaceX test-fires Super Heavy Starship booster ahead of 5th flight &lpar;video&rpar;](https://www.space.com/spacex-starship-super-heavy-test-fire-booster-5th-flight)
-- [This awesome Lego Star Wars Millennium Falcon set is $34 off this Prime Day](https://www.space.com/prime-day-lego-deal-star-wars-millenium-falcon-34-dollars-off)
-- [Byju’s, once valued at $22 billion, faces insolvency proceedings](https://techcrunch.com/2024/07/16/byjus-once-valued-at-22-billion-faces-insolvency-proceedings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
