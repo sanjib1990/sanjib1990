@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are all the devices compatible with iOS 18](https://techcrunch.com/2024/07/15/here-are-all-the-devices-compatible-with-ios-18/)
+- [TikTok glitch allows Shop to appear to users under 18, despite adults-only policy](https://techcrunch.com/2024/07/15/tiktok-glitch-allows-shop-to-appear-to-users-under-18-despite-adults-only-policy/)
+- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/)
+- [Trump’s VP candidate JD Vance has long ties to Silicon Valley, and was a VC himself](https://techcrunch.com/2024/07/15/trumps-vp-candidate-j-d-vance-has-long-ties-to-silicon-valley-and-was-a-vc-himself/)
 - [TechCrunch Space: Space cowboys](https://techcrunch.com/2024/07/15/techcrunch-space-space-cowboys/)
-- [SpaceX Falcon 9 rocket failure forces NASA to evaluate astronaut launch schedule for ISS](https://www.space.com/spacex-rocket-failure-nasa-astronaut-launch-schedule-iss)
-- [Without Apple Intelligence, iOS 18 beta feels like a TV show that’s waiting for the finale](https://techcrunch.com/2024/07/15/without-apple-intelligence-ios-18-beta-feels-like-a-tv-show-thats-waiting-for-the-finale/)
-- [Apple’s public betas for iOS 18 are here to test out](https://techcrunch.com/2024/07/15/apples-public-betas-for-ios-18-are-here-to-test-out/)
-- [&#39;What exactly is a planet?&#39; Astronomers want to amend the definition](https://www.space.com/planet-definition-amendment-exoplanets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
