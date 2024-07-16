@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic releases Claude app for Android](https://techcrunch.com/2024/07/16/anthropic-releases-claude-app-for-android/)
-- [Doctor Who &#39;Empire of Death&#39;: Why is Ruby Sunday so important?](https://www.space.com/doctor-who-empire-of-death-why-is-ruby-sunday-so-important)
-- [TechCrunch Minute: Whistleblowers say OpenAI employs ‘illegally restrictive’ NDAs](https://techcrunch.com/video/techcrunch-minute-whistleblowers-say-openai-employs-illegally-restrictive-ndas/)
-- [VC David Sacks delivers a fire-and-brimstone speech at the Republican National Convention](https://techcrunch.com/2024/07/16/vc-david-sacks-delivers-a-fire-and-brimstone-speech-at-the-republican-national-convention/)
-- [iOS 18 could ‘sherlock’ $400M in app revenue](https://techcrunch.com/2024/07/16/ios-18-could-sherlock-400m-in-app-revenue/)
+- [Sequoia bets big on Stripe, LatAm fintechs clean up and one African startup’s outsized Series A](https://techcrunch.com/2024/07/16/sequoia-bets-big-on-stripe-latam-fintechs-clean-up-and-one-african-startups-outsized-series-a/)
+- [A new, deadly era of space junk is dawning, and no one is ready](https://www.space.com/space-junk-new-deadly-era-no-one-is-ready)
+- [Save $99 on this Holy Stone HS720 drone with every accessory you could need](https://www.space.com/save-99-holy-stone-hs720-prime-day-drone-deal)
+- [Step into VR with this amazing Meta Quest 3 headset, $70 off for Prime Day](https://www.space.com/meta-quest-3-vr-headset-prime-day-deal)
+- [Hurry! Celestron NexStar 6SE is $979.99 for Prime Day](https://www.space.com/hurry-prime-day-telescope-deal-price-drop)
 <!-- BLOG-POST-LIST:END -->
 
 ---
