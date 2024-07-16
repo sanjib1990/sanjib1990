@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [25 years of exoplanet hunting hasn&#39;t revealed Earth 2.0 — but is that what we&#39;re looking for?](https://www.space.com/space-25-anniversary-exoplanet-history)
+- [Uber just added a way to search for rides in other cities— here’s how to use it](https://techcrunch.com/2024/07/16/uber-feature-search-for-rides-in-other-cities/)
+- [Toddle wants to ‘change how we build software’ with a collaborative visual web app builder](https://techcrunch.com/2024/07/16/toddle-wants-to-change-how-we-build-software-with-a-collaborative-visual-web-app-builder/)
 - [Presti is using GenAI to replace costly furniture industry photo shoots](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/)
 - [Google backs Indian open-source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/)
-- [At last, Apple’s Messages app will support RCS and scheduling texts](https://techcrunch.com/2024/07/15/at-last-apples-messages-app-will-support-rcs-and-scheduling-texts/)
-- [Here are all the devices compatible with iOS 18](https://techcrunch.com/2024/07/15/here-are-all-the-devices-compatible-with-ios-18/)
-- [TikTok glitch allows Shop to appear to users under 18, despite adults-only policy](https://techcrunch.com/2024/07/15/tiktok-glitch-allows-shop-to-appear-to-users-under-18-despite-adults-only-policy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
