@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With its latest moon mission success, China&#39;s space program has the US in its sights](https://www.space.com/china-moon-exploration-program-targets-us)
+- [Road trip! Tour the universe with these gorgeous images from NASA&#39;s Chandra X-ray telescope](https://www.space.com/chandra-x-ray-images-universe-road-trip)
 - [With the latest iOS 18 developer beta, Apple makes flashlight UI more fun](https://techcrunch.com/2024/07/16/with-the-latest-ios-18-developer-beta-apple-makes-flashlight-ui-more-fun/)
 - [This nerve-rattling &#39;Alien: Romulus&#39; trailer reminds us that &#39;fear is bigger in IMAX&#39; &lpar;video&rpar;](https://www.space.com/alien-romulus-imax-trailer)
 - [Sun blasts out 2nd X-class flare this week, triggers more radio blackouts &lpar;video&rpar;](https://www.space.com/sun-solar-flare-x-class-2nd-this-week-july-16-2024)
-- [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2024/07/16/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
-- [Sequoia bets big on Stripe, LatAm fintechs clean up and one African startup’s outsized Series A](https://techcrunch.com/2024/07/16/sequoia-bets-big-on-stripe-latam-fintechs-clean-up-and-one-african-startups-outsized-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
