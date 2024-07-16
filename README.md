@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How the last 25 years led to the rise of mega-telescopes](https://www.space.com/25-years-mega-telescopes-space-anniversary)
-- [Astor’s ‘community’ approach to financial advice aims to help women feel more confident about investing](https://techcrunch.com/2024/07/16/investment-app-astor-community/)
-- [Exa raises $17M from Lightspeed, Nvidia, Y Combinator to build a Google for AIs](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/)
-- [Popular podcast player Overcast has been rebuilt from the ground up “for its second decade”](https://techcrunch.com/2024/07/16/overcasts-rebuilt-version-does-away-with-streaming/)
-- [Prime Day telescope deal: $300 off the Celestron NexStar 8SE](https://www.space.com/celestron-nexstar-8se-prime-day-telescope-deal-300-off)
+- [Our favorite Lego space sets from the last 25 years](https://www.space.com/lego-space-sets-25-years-25th-anniversary)
+- [YC-backed CrowdVolt shakes up the secondary ticket market with its bid-ask model](https://techcrunch.com/2024/07/16/yc-backed-secondary-ticketing-startup-crowdvolt/)
+- [A company building Wordle for chess raises money from a16z Speedrun, Mark Pincus and Eric Wu](https://techcrunch.com/2024/07/16/a-company-building-wordle-for-chess-raises-money-from-a16z-speedrun-mark-pincus-and-eric-wu/)
+- [Microsoft faces UK antitrust probe after hiring Inflection AI founders and employees](https://techcrunch.com/2024/07/16/microsoft-faces-uk-antitrust-probe-after-hiring-inflection-ai-founders-and-employees/)
+- [Kaspersky to shut down US operations, lay off employees after US government ban](https://techcrunch.com/2024/07/16/kaspersky-to-shut-down-us-operations-lay-off-employees-after-us-government-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
