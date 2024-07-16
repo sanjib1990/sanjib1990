@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Presti uses generative AI to improve product photography in the furniture industry](https://techcrunch.com/2024/07/15/presti-uses-generative-ai-to-improve-product-photography-in-the-furniture-industry/)
 - [Google backs Indian open-source Uber rival](https://techcrunch.com/2024/07/15/google-backs-indian-open-source-uber-rival-namma-yatri/)
 - [At last, Apple’s Messages app will support RCS and scheduling texts](https://techcrunch.com/2024/07/15/at-last-apples-messages-app-will-support-rcs-and-scheduling-texts/)
 - [Here are all the devices compatible with iOS 18](https://techcrunch.com/2024/07/15/here-are-all-the-devices-compatible-with-ios-18/)
 - [TikTok glitch allows Shop to appear to users under 18, despite adults-only policy](https://techcrunch.com/2024/07/15/tiktok-glitch-allows-shop-to-appear-to-users-under-18-despite-adults-only-policy/)
-- [Lhoopa raises $80M to spur more affordable housing in the Philippines](https://techcrunch.com/2024/07/15/lhoopa-raises-80m-to-shorten-affordable-housing-backlog-in-the-philippines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
