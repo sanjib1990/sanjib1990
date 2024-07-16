@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the last 25 years led to the rise of mega-telescopes](https://www.space.com/25-years-mega-telescopes-space-anniversary)
+- [Astor’s ‘community’ approach to financial advice aims to help women feel more confident about investing](https://techcrunch.com/2024/07/16/investment-app-astor-community/)
+- [Exa raises $17M from Lightspeed, Nvidia, Y Combinator to build a Google for AIs](https://techcrunch.com/2024/07/16/exa-raises-17m-lightspeed-nvidia-ycombinator-google-ai-models/)
+- [Popular podcast player Overcast has been rebuilt from the ground up “for its second decade”](https://techcrunch.com/2024/07/16/overcasts-rebuilt-version-does-away-with-streaming/)
 - [Prime Day telescope deal: $300 off the Celestron NexStar 8SE](https://www.space.com/celestron-nexstar-8se-prime-day-telescope-deal-300-off)
-- [Female-founded startups have raised $15.5 billion so far this year but that’s not really good news](https://techcrunch.com/2024/07/16/female-led-startups-have-raised-15-5-billion-so-far-this-year-but-thats-not-really-good-news/)
-- [Asteroid Apophis will visit Earth in 2029, and this European satellite will be along for the ride](https://www.space.com/asteroid-apophis-2029-ramses-esa-mission)
-- [Save over $100 on these Vortex Crossfire HD 10x50 binoculars](https://www.space.com/save-over-100-dollars-prime-day-binocular-deal-vortex-crossfire-july-2024)
-- [Ultrahuman’s smart ring gets FDA-approved AFib detection](https://techcrunch.com/2024/07/16/ultrahumans-smart-ring-gets-fda-approved-afib-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
