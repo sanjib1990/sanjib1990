@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wittaya Aqua’s data-driven AI helps seafood farmers increase aquaculture production](https://techcrunch.com/2024/07/16/wittaya-aquas-data-driven-ai-helps-seafood-farmers-increase-aquaculture-production/)
 - [Andreessen Horowitz co-founders explain why they’re supporting Trump](https://techcrunch.com/2024/07/16/andreessen-horowitz-co-founders-explain-why-theyre-supporting-trump/)
 - [Fisker cleared to sell North American EVs for $46.25 million](https://techcrunch.com/2024/07/16/fisker-bankruptcy-fleet-sale-order-approved/)
 - [Discover the heavens for less: Save $450 on this five-star telescope at Adorama](https://www.space.com/discover-heavens-save-450-dollars-five-star-telescope-anti-prime-day-adorama-deal)
 - [Time might be a mirage created by quantum physics, study suggests](https://www.space.com/time-a-mirage-quantum-physics-suggests)
-- [Prime Day Lego Star Wars deal: 30% off Luke&#39;s X-Wing fighter](https://www.space.com/lego-star-wars-prime-day-2024-deal-xwing-fighter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
