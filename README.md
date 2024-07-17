@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Exoplanet with weird orbit is transforming into a hot Jupiter before our eyes](https://www.space.com/exoplanet-weird-orbit-hot-jupiter-transformation)
-- [Announcing the agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/17/announcing-the-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/)
-- [Halfway through Disrupt Deal Days: Save big on TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/17/halfway-through-disrupt-deal-days-save-big-on-techcrunch-disrupt-2024/)
-- [These are the top Prime Day telescope deals I wish I was buying today](https://www.space.com/these-are-the-top-prime-day-telescope-deals-i-wish-i-was-buying-today)
-- [On AI, new UK gov’t to work on ‘appropriate’ rules for ‘most powerful’ models and beef up product safety powers](https://techcrunch.com/2024/07/17/on-ai-new-uk-govt-to-work-on-appropriate-rules-for-most-powerful-models-and-beef-up-product-safety-powers/)
+- [Microsoft’s AI-powered Canva-like Designer app lands on iOS and Android](https://techcrunch.com/2024/07/17/microsofts-ai-powered-canva-like-designer-app-lands-on-ios-and-android/)
+- [Tribe AI raised venture capital to keep up with demand after six years of bootstrapping](https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/)
+- [Win a bundle of digital bookazines worth over $100 with our anniversary birthday cake hunt](https://www.space.com/win-bookazine-competition-space-anniversary)
+- [Spotify adds a Spanish-speaking AI DJ, ‘Livi’](https://techcrunch.com/2024/07/17/spotify-adds-a-spanish-speaking-ai-dj-livi/)
+- [TechCrunch Minute: This startup wants to make Wordle for chess](https://techcrunch.com/video/techcrunch-minute-this-startup-wants-to-make-wordle-for-chess/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
