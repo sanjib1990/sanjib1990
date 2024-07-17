@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [On AI, new UK gov’t to work on ‘appropriate’ rules for ‘most powerful’ models and beef up product safety powers](https://techcrunch.com/2024/07/17/on-ai-new-uk-govt-to-work-on-appropriate-rules-for-most-powerful-models-and-beef-up-product-safety-powers/)
+- [Test automation platform Tricentis acquires SeaLights](https://techcrunch.com/2024/07/17/test-automation-platform-tricentis-acquires-sealights/)
+- [Didero is using AI to solve supply chain management at mid-market companies](https://techcrunch.com/2024/07/17/didero-is-using-ai-to-solve-supply-chain-management-at-mid-market-companies/)
+- [SpaceX wants to resume Falcon 9 rocket launches while FAA completes investigation](https://www.space.com/space-exploration/private-spaceflight/spacex-wants-to-resume-falcon-9-rocket-launches-while-faa-completes-investigation)
 - [How the Rubin observatory could detect thousands of &#39;failed stars&#39;](https://www.space.com/failed-stars-brown-dwarfs-rubin-observatory)
-- [The Way app offers a chance to meditate alongside a Zen Master](https://techcrunch.com/2024/07/17/the-way-offers-a-chance-to-meditate-alongside-a-zen-master/)
-- [Explore the skies with the DJI Mini 4K camera drone, up to $90 off for Prime Day](https://www.space.com/best-dji-sub-250-drone-prime-day-deal-90-off-amazon)
-- [Prime Day VR deal: Final day! Save $400 on the HTC VIVE Pro 2](https://www.space.com/prime-day-2024-htc-vive-pro-2-deal-save-400)
-- [In the last 25 years, black hole physicists have uncovered the unimaginable](https://www.space.com/black-hole-25th-anniversary-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
