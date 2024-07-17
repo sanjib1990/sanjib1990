@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exoplanet with weird orbit is transforming into a hot Jupiter before our eyes](https://www.space.com/exoplanet-weird-orbit-hot-jupiter-transformation)
+- [Announcing the agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/17/announcing-the-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/)
+- [Halfway through Disrupt Deal Days: Save big on TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/17/halfway-through-disrupt-deal-days-save-big-on-techcrunch-disrupt-2024/)
+- [These are the top Prime Day telescope deals I wish I was buying today](https://www.space.com/these-are-the-top-prime-day-telescope-deals-i-wish-i-was-buying-today)
 - [On AI, new UK gov’t to work on ‘appropriate’ rules for ‘most powerful’ models and beef up product safety powers](https://techcrunch.com/2024/07/17/on-ai-new-uk-govt-to-work-on-appropriate-rules-for-most-powerful-models-and-beef-up-product-safety-powers/)
-- [Test automation platform Tricentis acquires SeaLights](https://techcrunch.com/2024/07/17/test-automation-platform-tricentis-acquires-sealights/)
-- [Didero is using AI to solve supply chain management at mid-market companies](https://techcrunch.com/2024/07/17/didero-is-using-ai-to-solve-supply-chain-management-at-mid-market-companies/)
-- [SpaceX wants to resume Falcon 9 rocket launches while FAA completes investigation](https://www.space.com/space-exploration/private-spaceflight/spacex-wants-to-resume-falcon-9-rocket-launches-while-faa-completes-investigation)
-- [How the Rubin observatory could detect thousands of &#39;failed stars&#39;](https://www.space.com/failed-stars-brown-dwarfs-rubin-observatory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
