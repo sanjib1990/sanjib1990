@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the Rubin observatory could detect thousands of &#39;failed stars&#39;](https://www.space.com/failed-stars-brown-dwarfs-rubin-observatory)
+- [The Way app offers a chance to meditate alongside a Zen Master](https://techcrunch.com/2024/07/17/the-way-offers-a-chance-to-meditate-alongside-a-zen-master/)
+- [Explore the skies with the DJI Mini 4K camera drone, up to $90 off for Prime Day](https://www.space.com/best-dji-sub-250-drone-prime-day-deal-90-off-amazon)
+- [Prime Day VR deal: Final day! Save $400 on the HTC VIVE Pro 2](https://www.space.com/prime-day-2024-htc-vive-pro-2-deal-save-400)
 - [In the last 25 years, black hole physicists have uncovered the unimaginable](https://www.space.com/black-hole-25th-anniversary-space)
-- [Shaped raises $8M Series A and launches its self-serve recommendations and search service](https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/)
-- [Menlo Ventures and Anthropic team up on a $100M AI fund](https://techcrunch.com/2024/07/17/menlo-ventures-and-anthropic-team-up-on-a-100m-ai-fund/)
-- [One of the best beginner camera drones is discounted by 30% right now](https://www.space.com/best-beginner-camera-drone-30-percent-discount-)
-- [Sleep beneath the stars with 30% off this BlissLights Sky Lite Evolve star projector](https://www.space.com/30-percent-discount-prime-day-star-projector-deal-last-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
