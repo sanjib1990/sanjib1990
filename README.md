@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our reviewer&#39;s favorite camera is $400 less at Adorama this Prime Day](https://www.space.com/our-reviewers-favorite-camera-400-dollars-cheaper-prime-day-camera-deal)
+- [Kandji raises another $100M for Apple device management as valuation rises to $850M](https://techcrunch.com/2024/07/17/kandji-raises-another-100m-for-apple-device-management-as-valuation-rises-to-850m/)
+- [Matera raises $100M from Warburg Pincus to help the US catch up to Brazil in instant payments](https://techcrunch.com/2024/07/17/matera-raises-100m-from-warburn-pincus-to-help-the-u-s-catch-up-to-brazil-in-instant-payments/)
 - [Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning](https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/)
 - [Rare SpaceX rocket failure shows exactly why NASA wants 2 commercial options to fly astronauts to ISS](https://www.space.com/spacex-rocket-failure-two-vehicles-iss-astronaut-missions)
-- [Tinder’s AI Photo Selector automatically picks the best photos for your dating profile](https://techcrunch.com/2024/07/17/tinder-ai-photo-selection-feature-launches/)
-- [Korean prosecutors file warrant to arrest Kakao founder for stock manipulation](https://techcrunch.com/2024/07/17/korean-prosecutors-file-warrant-to-arrest-kakao-founder-for-stock-manipulation/)
-- [Instagram now allows users to add multiple audio tracks to Reels](https://techcrunch.com/2024/07/16/instagram-now-allows-users-to-add-multiple-audio-tracks-to-reels/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
