@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly discovered cave on the moon could house future lunar astronauts](https://www.space.com/moon-cave-lunar-exploration-radar-images)
+- [Rare &#39;daytime fireball&#39; spotted as meteor falls to Earth over New York City &lpar;video&rpar;](https://www.space.com/rare-daytime-fireball-meteor-new-york)
+- [Elon Musk moving SpaceX headquarters to Texas over new California LGBTQ+ law](https://www.space.com/spacex-elon-musk-california-texas-headquarters-lgbtq-legislation)
+- [You won&#39;t find better than these Prime Day drone deals](https://www.space.com/these-are-the-best-prime-day-drone-deals-you-can-buy)
 - [Microsoft’s AI-powered Canva-like Designer app lands on iOS and Android](https://techcrunch.com/2024/07/17/microsofts-ai-powered-canva-like-designer-app-lands-on-ios-and-android/)
-- [Tribe AI raised venture capital to keep up with demand after six years of bootstrapping](https://techcrunch.com/2024/07/17/tribe-ai-raised-venture-capital-to-keep-up-with-demand-after-six-years-of-bootstrapping/)
-- [Win a bundle of digital bookazines worth over $100 with our anniversary birthday cake hunt](https://www.space.com/win-bookazine-competition-space-anniversary)
-- [Spotify adds a Spanish-speaking AI DJ, ‘Livi’](https://techcrunch.com/2024/07/17/spotify-adds-a-spanish-speaking-ai-dj-livi/)
-- [TechCrunch Minute: This startup wants to make Wordle for chess](https://techcrunch.com/video/techcrunch-minute-this-startup-wants-to-make-wordle-for-chess/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
