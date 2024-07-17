@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning](https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/)
+- [Rare SpaceX rocket failure shows exactly why NASA wants 2 commercial options to fly astronauts to ISS](https://www.space.com/spacex-rocket-failure-two-vehicles-iss-astronaut-missions)
+- [Tinder’s AI Photo Selector automatically picks the best photos for your dating profile](https://techcrunch.com/2024/07/17/tinder-ai-photo-selection-feature-launches/)
 - [Korean prosecutors file warrant to arrest Kakao founder for stock manipulation](https://techcrunch.com/2024/07/17/korean-prosecutors-file-warrant-to-arrest-kakao-founder-for-stock-manipulation/)
 - [Instagram now allows users to add multiple audio tracks to Reels](https://techcrunch.com/2024/07/16/instagram-now-allows-users-to-add-multiple-audio-tracks-to-reels/)
-- [Wittaya Aqua’s data-driven AI helps seafood farmers increase aquaculture production](https://techcrunch.com/2024/07/16/wittaya-aquas-data-driven-ai-helps-seafood-farmers-increase-aquaculture-production/)
-- [Andreessen Horowitz co-founders explain why they’re supporting Trump](https://techcrunch.com/2024/07/16/andreessen-horowitz-co-founders-explain-why-theyre-supporting-trump/)
-- [Fisker cleared to sell North American EVs for $46.25 million](https://techcrunch.com/2024/07/16/fisker-bankruptcy-fleet-sale-order-approved/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
