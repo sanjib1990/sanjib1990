@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: The Acolyte&#39; episode 8: How open-ended is the conclusion?](https://www.space.com/star-wars-the-acolyte-episode-8-how-open-ended-is-the-conclusion)
 - [The James Webb Space Telescope is studying an exoplanet&#39;s eternal day — and eternal night](https://www.space.com/james-webb-space-telescope-exoplanet-eternal-day-night)
 - [These durable Celestron Nature DX 12x56 binoculars have dipped below $200 at Amazon](https://www.space.com/celestron-nature-dx-12x56-prime-day-binocular-deal-under-200-dollars)
 - [These are the cheapest binocular deals you can buy on the last day of Prime Day](https://www.space.com/best-prime-day-binocular-deals-we-recommend)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/)
-- [Newly discovered cave on the moon could house future lunar astronauts](https://www.space.com/moon-cave-lunar-exploration-radar-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
