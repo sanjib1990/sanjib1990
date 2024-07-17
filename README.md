@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Our reviewer&#39;s favorite camera is $400 less at Adorama this Prime Day](https://www.space.com/our-reviewers-favorite-camera-400-dollars-cheaper-prime-day-camera-deal)
-- [Kandji raises another $100M for Apple device management as valuation rises to $850M](https://techcrunch.com/2024/07/17/kandji-raises-another-100m-for-apple-device-management-as-valuation-rises-to-850m/)
-- [Matera raises $100M from Warburg Pincus to help the US catch up to Brazil in instant payments](https://techcrunch.com/2024/07/17/matera-raises-100m-from-warburn-pincus-to-help-the-u-s-catch-up-to-brazil-in-instant-payments/)
-- [Local experience discovery startup, Bigfoot, adds GenAI to fast-track weekend planning](https://techcrunch.com/2024/07/17/local-experience-discovery-startup-bigfoot-adds-genai-to-fast-track-weekend-planning/)
-- [Rare SpaceX rocket failure shows exactly why NASA wants 2 commercial options to fly astronauts to ISS](https://www.space.com/spacex-rocket-failure-two-vehicles-iss-astronaut-missions)
+- [In the last 25 years, black hole physicists have uncovered the unimaginable](https://www.space.com/black-hole-25th-anniversary-space)
+- [Shaped raises $8M Series A and launches its self-serve recommendations and search service](https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/)
+- [Menlo Ventures and Anthropic team up on a $100M AI fund](https://techcrunch.com/2024/07/17/menlo-ventures-and-anthropic-team-up-on-a-100m-ai-fund/)
+- [One of the best beginner camera drones is discounted by 30% right now](https://www.space.com/best-beginner-camera-drone-30-percent-discount-)
+- [Sleep beneath the stars with 30% off this BlissLights Sky Lite Evolve star projector](https://www.space.com/30-percent-discount-prime-day-star-projector-deal-last-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
