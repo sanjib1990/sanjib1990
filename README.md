@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [you can’t build your AI data center like this](https://www.youtube.com/watch?v=PCw2kX_gbHQ)
-- [Intel chips can’t possibly be this bad… 100% crash rate?](https://www.youtube.com/watch?v=H8LrwI-I_fY)
-- [How to self-host and hyperscale AI with Nvidia NIM](https://www.youtube.com/watch?v=ZgGss27IfwA)
-- [100+ Linux Things you Need to Know](https://www.youtube.com/watch?v=LKCVKw9CzFo)
-- [Linux on Windows......Windows on Linux](https://www.youtube.com/watch?v=vxTW22y8zV8)
+- [Lecture 23: Three-Phase Inverters](https://www.youtube.com/watch?v=nTq-OKy5kHs)
+- [Lecture 20: Switched-Mode Rectifiers](https://www.youtube.com/watch?v=EFONLmsmVFw)
+- [Lecture 19: Inverters, Part 3](https://www.youtube.com/watch?v=uL8C9wQrk3g)
+- [Lecture 33: Soft Switching, Part 1](https://www.youtube.com/watch?v=4VztgBcVH5Q)
+- [Lecture 36: Resonant Power Conversion, Part 2](https://www.youtube.com/watch?v=teW8gmpKQcI)
 <!-- YOUTUBE:END -->
 
 ---
