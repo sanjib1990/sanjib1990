@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Weber out as CEO of Firefly Aerospace](https://techcrunch.com/2024/07/17/bill-weber-out-as-ceo-of-firefly-aerospace/)
 - [SpaceX’s vehicle to deorbit the International Space Station is a Dragon on steroids](https://techcrunch.com/2024/07/17/spacexs-vehicle-to-deorbit-the-international-space-station-is-a-dragon-on-steroids/)
 - [&#39;The Ark&#39; season 2 is &#39;love letter&#39; to optimistic classic sci-fi, creators say &lpar;exclusive&rpar;](https://www.space.com/the-ark-season-2-creators-interview)
 - [NASA cancels $450 million VIPER moon rover due to budget concerns](https://www.space.com/nasa-cancels-viper-moon-rover-budget)
 - [How a B2B payments startup won Max, Jack and Sam Altman, JP Morgan as investors](https://techcrunch.com/2024/07/17/sam-altman-jp-morgan-slope-65m/)
-- [25 things to admire in the night sky that aren&#39;t just the moon and stars](https://www.space.com/stargazing/25-things-to-admire-in-the-night-sky-that-arent-just-the-moon-and-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
