@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches to ISS under independent NASA review after rare Falcon 9 rocket failure](https://www.space.com/spacex-falcon-9-failure-nasa-independent-investigation)
-- [WazirX halts withdrawals after losing $230 million, nearly half its reserves](https://techcrunch.com/2024/07/18/indias-wazirx-confirms-security-breach-after-230-million-suspicious-transfer/)
-- [Fisker scores a win, an AV startup reboots in Texas, and why Elon pushed the Tesla robotaxi reveal](https://techcrunch.com/2024/07/18/fisker-scores-a-win-an-av-startup-reboots-in-texas-and-why-elon-pushed-the-tesla-robotaxi-reveal/)
-- [Snazzy spacesuit! Artemis 2 moon mission backup astronaut Andre Douglas tries on his lunar duds &lpar;photos&rpar;](https://www.space.com/artemis-2-moon-mission-backup-astronaut-spacesuit)
-- [What is Apple Intelligence, when is coming and who will get it?](https://techcrunch.com/2024/07/18/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/)
+- [NASA wants fresh ideas for recycling garbage on the moon](https://www.space.com/nasa-moon-garbage-recycling-lunarecycle)
+- [Meta puts a halt to training its generative AI tools in Brazil](https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/)
+- [Loneliness is a dish best served in space: Why food may taste weird to astronauts](https://www.space.com/food-space-weird-astronaut-tasting-vr)
+- [SpaceX launches to ISS are under independent NASA review after rare Falcon 9 rocket failure](https://www.space.com/spacex-falcon-9-failure-nasa-independent-investigation)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/07/18/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
