@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Supermassive black holes provide &#39;hearts and lungs&#39; that help galaxies live longer](https://www.space.com/galaxy-heart-lung-supermassive-black-holes)
-- [GM CEO Mary Barra is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/18/gm-ceo-mary-barra-is-coming-to-techcrunch-disrupt-2024/)
-- [Amazon Prime Day 2024 sales hit record $14.2 billion](https://techcrunch.com/2024/07/18/amazon-prime-day-2024-sales-hit-record-14-2-billion/)
-- [NASA cancels $450M Viper moon mission, dashing ice prospecting dreams](https://techcrunch.com/2024/07/18/nasa-cancels-450m-viper-moon-mission-dashing-ice-prospecting-dreams/)
-- [Looking ahead to the next 25 years of private space stations](https://www.space.com/commercial-space-stations-next-25-years)
+- [How astronomers work out the size of our solar system](https://www.space.com/the-universe/solar-system/how-astronomers-work-out-the-size-of-the-solar-system)
+- [TikTok fast-tracks artist account creation for DistroKid members](https://techcrunch.com/2024/07/18/tiktok-fast-tracks-artist-account-creation-for-distrokid-members/)
+- [TechCrunch Minute: Over 100k YouTube videos have been scraped to train AI for Apple, Nvidia](https://techcrunch.com/video/techcrunch-minute-over-100k-youtube-videos-have-been-scraped-to-train-ai-for-apple-nvidia/)
+- [Ford’s EV plans are in flux once again as it invests $3B into its biggest trucks](https://techcrunch.com/2024/07/18/fords-ev-plans-are-in-flux-once-again-as-it-invests-3b-into-its-biggest-trucks/)
+- [OpenAI unveils GPT-4o mini, a small AI model powering ChatGPT](https://techcrunch.com/2024/07/18/openai-unveils-gpt-4o-mini-a-small-ai-model-powering-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
