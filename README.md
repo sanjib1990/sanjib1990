@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/)
 - [Dyson’s new OnTrac headphones don’t purify air](https://techcrunch.com/2024/07/17/dysons-new-ontrac-headphones-dont-purify-air/)
 - [Bill Weber out as CEO of Firefly Aerospace](https://techcrunch.com/2024/07/17/bill-weber-out-as-ceo-of-firefly-aerospace/)
 - [SpaceX’s vehicle to deorbit the International Space Station is a Dragon on steroids](https://techcrunch.com/2024/07/17/spacexs-vehicle-to-deorbit-the-international-space-station-is-a-dragon-on-steroids/)
 - [&#39;The Ark&#39; season 2 is &#39;love letter&#39; to optimistic classic sci-fi, creators say &lpar;exclusive&rpar;](https://www.space.com/the-ark-season-2-creators-interview)
-- [NASA cancels $450 million VIPER moon rover due to budget concerns](https://www.space.com/nasa-cancels-viper-moon-rover-budget)
 <!-- BLOG-POST-LIST:END -->
 
 ---
