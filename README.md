@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How astronomers work out the size of our solar system](https://www.space.com/the-universe/solar-system/how-astronomers-work-out-the-size-of-the-solar-system)
-- [TikTok fast-tracks artist account creation for DistroKid members](https://techcrunch.com/2024/07/18/tiktok-fast-tracks-artist-account-creation-for-distrokid-members/)
-- [TechCrunch Minute: Over 100k YouTube videos have been scraped to train AI for Apple, Nvidia](https://techcrunch.com/video/techcrunch-minute-over-100k-youtube-videos-have-been-scraped-to-train-ai-for-apple-nvidia/)
-- [Ford’s EV plans are in flux once again as it invests $3B into its biggest trucks](https://techcrunch.com/2024/07/18/fords-ev-plans-are-in-flux-once-again-as-it-invests-3b-into-its-biggest-trucks/)
-- [OpenAI unveils GPT-4o mini, a small AI model powering ChatGPT](https://techcrunch.com/2024/07/18/openai-unveils-gpt-4o-mini-a-small-ai-model-powering-chatgpt/)
+- [Fisker scores a win, an AV startup reboots in Texas, and why Elon pushed the Tesla robotaxi reveal](https://techcrunch.com/2024/07/18/fisker-scores-a-win-an-av-startup-reboots-in-texas-and-why-elon-pushed-the-tesla-robotaxi-reveal/)
+- [Snazzy spacesuit! Artemis 2 moon mission backup astronaut Andre Douglas tries on his lunar duds &lpar;photos&rpar;](https://www.space.com/artemis-2-moon-mission-backup-astronaut-spacesuit)
+- [What is Apple Intelligence, when is coming and who will get it?](https://techcrunch.com/2024/07/18/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/)
+- [The EU just re-elected its president for another five years — here’s what that means for tech](https://techcrunch.com/2024/07/18/the-eu-just-re-elected-its-president-for-another-five-years-heres-what-that-means-for-tech/)
+- [Communia bets social media can be good for you](https://techcrunch.com/2024/07/18/communia-bets-social-media-can-be-good-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
