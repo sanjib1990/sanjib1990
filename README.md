@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking ahead to the next 25 years of private space stations](https://www.space.com/commercial-space-stations-next-25-years)
+- [Without this company’s technology, future fusion power plants might never light up](https://techcrunch.com/2024/07/18/without-this-companys-technology-future-fusion-power-plants-might-never-light-up/)
 - [Hackers could create traffic jams thanks to flaw in traffic light controller, researcher says](https://techcrunch.com/2024/07/18/hackers-could-create-traffic-jams-thanks-to-flaw-in-traffic-light-controller-researcher-says/)
 - [Full Buck Moon shines this weekend on Apollo 11 moon landing anniversary](https://www.space.com/see-full-buck-moon-celebrate-apollo-55-anniversary)
 - [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/)
-- [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/)
-- [Google accused of misleading consumers to grab more data for ads](https://techcrunch.com/2024/07/18/google-accused-of-misleading-consumers-to-grab-more-data-for-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
