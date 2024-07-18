@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artificial Agency raises $16M to use AI to make NPCs feel more realistic in video games](https://techcrunch.com/2024/07/18/artificial-agency-raises-video-game-npcs-ai/)
 - [Israel’s startup scene shows reslience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/)
 - [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/)
 - [Dyson’s new OnTrac headphones don’t purify air](https://techcrunch.com/2024/07/17/dysons-new-ontrac-headphones-dont-purify-air/)
 - [Bill Weber out as CEO of Firefly Aerospace](https://techcrunch.com/2024/07/17/bill-weber-out-as-ceo-of-firefly-aerospace/)
-- [SpaceX’s vehicle to deorbit the International Space Station is a Dragon on steroids](https://techcrunch.com/2024/07/17/spacexs-vehicle-to-deorbit-the-international-space-station-is-a-dragon-on-steroids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
