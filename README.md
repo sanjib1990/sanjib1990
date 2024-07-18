@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches to ISS under independent NASA review after rare Falcon 9 rocket failure](https://www.space.com/spacex-falcon-9-failure-nasa-independent-investigation)
+- [WazirX halts withdrawals after losing $230 million, nearly half its reserves](https://techcrunch.com/2024/07/18/indias-wazirx-confirms-security-breach-after-230-million-suspicious-transfer/)
 - [Fisker scores a win, an AV startup reboots in Texas, and why Elon pushed the Tesla robotaxi reveal](https://techcrunch.com/2024/07/18/fisker-scores-a-win-an-av-startup-reboots-in-texas-and-why-elon-pushed-the-tesla-robotaxi-reveal/)
 - [Snazzy spacesuit! Artemis 2 moon mission backup astronaut Andre Douglas tries on his lunar duds &lpar;photos&rpar;](https://www.space.com/artemis-2-moon-mission-backup-astronaut-spacesuit)
 - [What is Apple Intelligence, when is coming and who will get it?](https://techcrunch.com/2024/07/18/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/)
-- [The EU just re-elected its president for another five years — here’s what that means for tech](https://techcrunch.com/2024/07/18/the-eu-just-re-elected-its-president-for-another-five-years-heres-what-that-means-for-tech/)
-- [Communia bets social media can be good for you](https://techcrunch.com/2024/07/18/communia-bets-social-media-can-be-good-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
