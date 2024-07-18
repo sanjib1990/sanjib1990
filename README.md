@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proton launches ‘privacy-first’ AI writing assistant for email that runs on-device](https://techcrunch.com/2024/07/18/proton-launches-privacy-first-ai-writing-assistant-for-email-that-runs-on-device/)
+- [The greatest astronomical discoveries of the past 25 years](https://www.space.com/astronomical-discoveries-25-years-space)
 - [India’s WazirX confirms security breach following a $230M ‘suspicious transfer’](https://techcrunch.com/2024/07/18/indias-wazirx-confirms-security-breach-after-230-million-suspicious-transfer/)
 - [Samsung to acquire UK-based knowledge graph startup Oxford Semantic Technologies](https://techcrunch.com/2024/07/18/samsung-to-acquire-uk-based-knowledge-graph-startup-oxford-semantic-technologies/)
 - [Artificial Agency raises $16M to use AI to make NPCs feel more realistic in video games](https://techcrunch.com/2024/07/18/artificial-agency-raises-video-game-npcs-ai/)
-- [Israel’s startup scene shows reslience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/)
-- [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
