@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Strange &#39;garden sprinkler&#39; jets are erupting from a dead vampire star](https://www.space.com/neutron-star-garden-sprinkler)
-- [Proton launches ‘privacy-first’ AI writing assistant for email that runs on-device](https://techcrunch.com/2024/07/18/proton-launches-privacy-first-ai-writing-assistant-for-email-that-runs-on-device/)
-- [The greatest astronomical discoveries of the past 25 years](https://www.space.com/astronomical-discoveries-25-years-space)
-- [India’s WazirX confirms security breach following a $230M ‘suspicious transfer’](https://techcrunch.com/2024/07/18/indias-wazirx-confirms-security-breach-after-230-million-suspicious-transfer/)
+- [Hackers could create traffic jams thanks to flaw in traffic light controller, researcher says](https://techcrunch.com/2024/07/18/hackers-could-create-traffic-jams-thanks-to-flaw-in-traffic-light-controller-researcher-says/)
+- [Full Buck Moon shines this weekend on Apollo 11 moon landing anniversary](https://www.space.com/see-full-buck-moon-celebrate-apollo-55-anniversary)
+- [Fintech startup Coast lands $40M just 4 months after its last $25M raise](https://techcrunch.com/2024/07/18/fintech-startup-coast-lands-40m-just-4-months-after-its-last-25m-raise/)
+- [WHAM! Nuclear fusion experiment hits new record for magnet strength](https://techcrunch.com/2024/07/18/wham-nuclear-fusion-experiment-hits-new-record-for-magnet-strength/)
+- [Google accused of misleading consumers to grab more data for ads](https://techcrunch.com/2024/07/18/google-accused-of-misleading-consumers-to-grab-more-data-for-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
