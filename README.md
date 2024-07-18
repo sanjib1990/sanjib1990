@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Strange &#39;garden sprinkler&#39; jets are erupting from a dead vampire star](https://www.space.com/neutron-star-garden-sprinkler)
 - [Proton launches ‘privacy-first’ AI writing assistant for email that runs on-device](https://techcrunch.com/2024/07/18/proton-launches-privacy-first-ai-writing-assistant-for-email-that-runs-on-device/)
 - [The greatest astronomical discoveries of the past 25 years](https://www.space.com/astronomical-discoveries-25-years-space)
 - [India’s WazirX confirms security breach following a $230M ‘suspicious transfer’](https://techcrunch.com/2024/07/18/indias-wazirx-confirms-security-breach-after-230-million-suspicious-transfer/)
-- [Samsung to acquire UK-based knowledge graph startup Oxford Semantic Technologies](https://techcrunch.com/2024/07/18/samsung-to-acquire-uk-based-knowledge-graph-startup-oxford-semantic-technologies/)
-- [Artificial Agency raises $16M to use AI to make NPCs feel more realistic in video games](https://techcrunch.com/2024/07/18/artificial-agency-raises-video-game-npcs-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
