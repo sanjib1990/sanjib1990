@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk is now a villain in Joe Biden’s presidential campaign](https://techcrunch.com/2024/07/18/elon-musk-is-now-a-villain-in-joe-bidens-presidential-campaign/)
+- [Waymo wants to bring robotaxis to SFO, emails show](https://techcrunch.com/2024/07/18/waymo-wants-to-bring-robotaxis-to-sfo-emails-show/)
+- [Why it made sense for an online community college to raise venture capital](https://techcrunch.com/2024/07/18/why-it-made-sense-for-an-online-community-college-to-raise-venture-capital/)
+- [PE firm PartnerOne paid $28M for HeadSpin, a fraction of its $1.1B valuation set by ICONIQ and Dell Technologies Capital](https://techcrunch.com/2024/07/18/pe-firm-partnerone-paid-28m-for-headspin-a-fraction-of-its-1-1b-valuation-set-by-iconiq-and-dell-technologies-capital/)
 - [NASA wants fresh ideas for recycling garbage on the moon](https://www.space.com/nasa-moon-garbage-recycling-lunarecycle)
-- [Meta puts a halt to training its generative AI tools in Brazil](https://techcrunch.com/2024/07/18/meta-suspends-generative-ai-tools-in-brazil/)
-- [Loneliness is a dish best served in space: Why food may taste weird to astronauts](https://www.space.com/food-space-weird-astronaut-tasting-vr)
-- [SpaceX launches to ISS are under independent NASA review after rare Falcon 9 rocket failure](https://www.space.com/spacex-falcon-9-failure-nasa-independent-investigation)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/07/18/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
