@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;There&#39;s something in the water!&#39; Shocking final &#39;Alien: Romulus&#39; trailer goes for the gore &lpar;video&rpar;](https://www.space.com/alien-romulus-final-trailer-video)
+- [NASA&#39;s Perseverance Mars rover stumbles upon a dusty little snowman &lpar;photo&rpar;](https://www.space.com/snowman-rock-perserverance-mars-rover)
+- [Apple Vision Pro debuts immersive content featuring NBA players, The Weeknd and more](https://techcrunch.com/2024/07/18/apple-immersive-video-new-content-vision-pro/)
 - [Elon Musk is now a villain in Joe Biden’s presidential campaign](https://techcrunch.com/2024/07/18/elon-musk-is-now-a-villain-in-joe-bidens-presidential-campaign/)
 - [Waymo wants to bring robotaxis to SFO, emails show](https://techcrunch.com/2024/07/18/waymo-wants-to-bring-robotaxis-to-sfo-emails-show/)
-- [Why it made sense for an online community college to raise venture capital](https://techcrunch.com/2024/07/18/why-it-made-sense-for-an-online-community-college-to-raise-venture-capital/)
-- [PE firm PartnerOne paid $28M for HeadSpin, a fraction of its $1.1B valuation set by ICONIQ and Dell Technologies Capital](https://techcrunch.com/2024/07/18/pe-firm-partnerone-paid-28m-for-headspin-a-fraction-of-its-1-1b-valuation-set-by-iconiq-and-dell-technologies-capital/)
-- [NASA wants fresh ideas for recycling garbage on the moon](https://www.space.com/nasa-moon-garbage-recycling-lunarecycle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
