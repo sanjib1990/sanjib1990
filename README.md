@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s WazirX confirms security breach following a $230M ‘suspicious transfer’](https://techcrunch.com/2024/07/18/indias-wazirx-confirms-security-breach-after-230-million-suspicious-transfer/)
+- [Samsung to acquire UK-based knowledge graph startup Oxford Semantic Technologies](https://techcrunch.com/2024/07/18/samsung-to-acquire-uk-based-knowledge-graph-startup-oxford-semantic-technologies/)
 - [Artificial Agency raises $16M to use AI to make NPCs feel more realistic in video games](https://techcrunch.com/2024/07/18/artificial-agency-raises-video-game-npcs-ai/)
 - [Israel’s startup scene shows reslience despite nine months of war](https://techcrunch.com/2024/07/18/israels-startup-scene-shows-reslience-despite-nine-months-of-war/)
 - [Deel acquires Hofy to build its own IT device management service](https://techcrunch.com/2024/07/18/deel-acquires-hofy-to-build-its-own-it-device-management-service/)
-- [Dyson’s new OnTrac headphones don’t purify air](https://techcrunch.com/2024/07/17/dysons-new-ontrac-headphones-dont-purify-air/)
-- [Bill Weber out as CEO of Firefly Aerospace](https://techcrunch.com/2024/07/17/bill-weber-out-as-ceo-of-firefly-aerospace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
