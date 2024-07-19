@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts could ditch diapers on spacewalks thanks to new device that lets them drink their pee](https://www.space.com/astronaut-spacesuit-recycle-urine)
 - [Where will we be in space in 2049? A look at spaceflight over the next 25 years](https://www.space.com/spaceflight-evolution-next-25-years-moon-mars)
-- [CrowdStrike update causes major IT outage, taking out banks, airlines and businesses across the world](https://techcrunch.com/2024/07/19/banks-airlines-brokerage-houses-report-widespread-outages-across-the-globe/)
+- [Faulty CrowdStrike update causes major global IT outage, taking out banks, airlines and businesses globally](https://techcrunch.com/2024/07/19/banks-airlines-brokerage-houses-report-widespread-outages-across-the-globe/)
 - [Paytm loss widens and revenue shrinks as it grapples with regulatory clampdown](https://techcrunch.com/2024/07/18/paytm-loss-widens-and-revenue-shrinks-following-regulatory-clampdown/)
 - [Virgin Galactic completes new Delta space plane manufacturing facility in Arizona](https://www.space.com/virgin-galactic-delta-class-space-plane-factory-arizona)
-- [Scientists say they can now forecast El Niño Southern Oscillation years in advance](https://www.space.com/scientists-can-forecast-strong-el-nino-in-advance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
