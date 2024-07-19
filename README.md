@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make a comet](https://www.space.com/nasa-stem-video-experiments-comets)
-- [Inflatable planetarium — Stories in the sky](https://www.space.com/nasa-stem-video-experiments-planetarium-stars-constellations)
-- [How to recreate a solar eclipse](https://www.space.com/nasa-stem-video-experiments-solar-eclipse)
-- [Learn about Space with these awesome NASA education videos](https://www.space.com/stem-videos-nasa-education-ideas)
-- [All about rockets](https://www.space.com/nasa-stem-video-experiments-rockets)
+- [CrowdStrike outage: How your plane, train and automobile travel may be affected](https://techcrunch.com/2024/07/19/crowdstrike-outage-how-your-plane-train-and-automobile-travel-may-be-affected/)
+- [M&amp;A activity heats up with Wiz, Graphcore, etc.](https://techcrunch.com/2024/07/19/ma-activity-heats-up-with-wiz-graphcore-etc/)
+- [Polaris Dawn crew shows off new SpaceX spacesuits for 1st private spacewalk &lpar;photos&rpar;](https://www.space.com/spacex-polaris-dawn-eva-suit-acceptance-testing-photos)
+- [CrowdStrike’s rivals stand to benefit from its debacle](https://techcrunch.com/2024/07/19/crowdstrikes-rivals-stand-to-benefit-from-its-debacle/)
+- [NASA delays ISS spacewalks indefinitely to investigate spacesuit coolant leak](https://www.space.com/nasa-spacewalk-indefinite-delay-iss-coolant-leak)
 <!-- BLOG-POST-LIST:END -->
 
 ---
