@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In a way, Space.com and the dark universe grew up together](https://www.space.com/space-25-anniversary-dark-universe)
 - [May solar superstorm caused largest &#39;mass migration&#39; of satellites in history](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)
-- [Space.com co-founder and former CNN, Fox host Lou Dobbs has passed at 78](https://www.space.com/lou-dobbs-space-dot-com-co-founder-obituary)
+- [Lou Dobbs, Space.com founder, former CNN and Fox host, dies at 78](https://www.space.com/lou-dobbs-space-dot-com-co-founder-obituary)
 - [Astronauts could ditch diapers on spacewalks thanks to new device that lets them drink their pee](https://www.space.com/astronaut-spacesuit-recycle-urine)
 - [Where will we be in space in 2049? A look at spaceflight over the next 25 years](https://www.space.com/spaceflight-evolution-next-25-years-moon-mars)
-- [Faulty CrowdStrike update causes major global IT outage, taking out banks, airlines and businesses globally](https://techcrunch.com/2024/07/19/banks-airlines-brokerage-houses-report-widespread-outages-across-the-globe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
