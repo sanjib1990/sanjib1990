@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Virgin Galactic completes new Delta space plane manufacturing facility in Arizona](https://www.space.com/virgin-galactic-delta-class-space-plane-factory-arizona)
+- [Scientists say they can now forecast El Niño Southern Oscillation years in advance](https://www.space.com/scientists-can-forecast-strong-el-nino-in-advance)
+- [Fandango founder dies in fall from Manhattan skyscraper](https://techcrunch.com/2024/07/18/fandango-founder-dies-in-fall-from-manhattan-skyscraper/)
+- [New &#39;Terminator Zero&#39; trailer delivers a heroic dose of Skynet scares &lpar;video&rpar;](https://www.space.com/terminator-zero-trailer-netflix-series)
 - [&#39;There&#39;s something in the water!&#39; Shocking final &#39;Alien: Romulus&#39; trailer goes for the gore &lpar;video&rpar;](https://www.space.com/alien-romulus-final-trailer-video)
-- [NASA&#39;s Perseverance Mars rover stumbles upon a dusty little snowman &lpar;photo&rpar;](https://www.space.com/snowman-rock-perserverance-mars-rover)
-- [Apple Vision Pro debuts immersive content featuring NBA players, The Weeknd and more](https://techcrunch.com/2024/07/18/apple-immersive-video-new-content-vision-pro/)
-- [Elon Musk is now a villain in Joe Biden’s presidential campaign](https://techcrunch.com/2024/07/18/elon-musk-is-now-a-villain-in-joe-bidens-presidential-campaign/)
-- [Waymo wants to bring robotaxis to SFO, emails show](https://techcrunch.com/2024/07/18/waymo-wants-to-bring-robotaxis-to-sfo-emails-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
