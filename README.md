@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Helpdesk IT Challenge!! How many can you get right?](https://www.youtube.com/watch?v=mDJtWX2uc-U)
 - [Lecture 23: Three-Phase Inverters](https://www.youtube.com/watch?v=nTq-OKy5kHs)
 - [Lecture 20: Switched-Mode Rectifiers](https://www.youtube.com/watch?v=EFONLmsmVFw)
 - [Lecture 19: Inverters, Part 3](https://www.youtube.com/watch?v=uL8C9wQrk3g)
 - [Lecture 33: Soft Switching, Part 1](https://www.youtube.com/watch?v=4VztgBcVH5Q)
-- [Lecture 36: Resonant Power Conversion, Part 2](https://www.youtube.com/watch?v=teW8gmpKQcI)
 <!-- YOUTUBE:END -->
 
 ---
