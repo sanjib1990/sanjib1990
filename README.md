@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA beamed a Missy Elliott song to Venus](https://www.space.com/nasa-beams-missy-elliott-song-to-venus)
 - [Study finds black holes made from light are impossible — challenging Einstein&#39;s theory of relativity](https://www.space.com/black-holes-made-from-light-are-impossible-challenging-einsteins-theory-of-relativity)
 - [TechCrunch Minute: OpenAI shrinks its flagship model](https://techcrunch.com/video/techcrunch-minute-openai-shrinks-its-flagship-model/)
 - [Faulty CrowdStrike update causes major global IT outage, taking out banks, airlines and businesses globally](https://techcrunch.com/2024/07/19/faulty-crowdstrike-update-causes-major-global-it-outage-taking-out-banks-airlines-and-businesses-globally/)
 - [From the Sphere to false cyberattack claims, misinformation runs rampant amid CrowdStrike outage](https://techcrunch.com/2024/07/19/from-the-sphere-to-false-cyberattack-claims-misinformation-runs-rampant-amid-crowdstrike-outage/)
-- [Here’s how the CrowdStrike outage is affecting planes, trains and automobiles](https://techcrunch.com/2024/07/19/heres-how-the-crowdstrike-outage-is-affecting-planes-trains-and-automobiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
