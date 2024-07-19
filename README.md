@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last chance today: Secure major savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/19/last-chance-today-secure-major-savings-for-techcrunch-disrupt/)
+- [1st stratospheric skydive by a woman delayed to 2026, Hera Rising says](https://www.space.com/hera-rising-1st-stratospheric-skydive-woman-delay-2026)
 - [In a way, Space.com and the dark universe grew up together](https://www.space.com/space-25-anniversary-dark-universe)
 - [May solar superstorm caused largest &#39;mass migration&#39; of satellites in history](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)
 - [Lou Dobbs, Space.com founder, former CNN and Fox host, dies at 78](https://www.space.com/lou-dobbs-space-dot-com-co-founder-obituary)
-- [Astronauts could ditch diapers on spacewalks thanks to new device that lets them drink their pee](https://www.space.com/astronaut-spacesuit-recycle-urine)
-- [Where will we be in space in 2049? A look at spaceflight over the next 25 years](https://www.space.com/spaceflight-evolution-next-25-years-moon-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
