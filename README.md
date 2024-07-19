@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Paytm loss widens and revenue shrinks following regulatory clampdown](https://techcrunch.com/2024/07/18/paytm-loss-widens-and-revenue-shrinks-following-regulatory-clampdown/)
 - [Virgin Galactic completes new Delta space plane manufacturing facility in Arizona](https://www.space.com/virgin-galactic-delta-class-space-plane-factory-arizona)
 - [Scientists say they can now forecast El Niño Southern Oscillation years in advance](https://www.space.com/scientists-can-forecast-strong-el-nino-in-advance)
 - [Fandango founder dies in fall from Manhattan skyscraper](https://techcrunch.com/2024/07/18/fandango-founder-dies-in-fall-from-manhattan-skyscraper/)
 - [New &#39;Terminator Zero&#39; trailer delivers a heroic dose of Skynet scares &lpar;video&rpar;](https://www.space.com/terminator-zero-trailer-netflix-series)
-- [&#39;There&#39;s something in the water!&#39; Shocking final &#39;Alien: Romulus&#39; trailer goes for the gore &lpar;video&rpar;](https://www.space.com/alien-romulus-final-trailer-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
