@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [May solar superstorm caused largest &#39;mass migration&#39; of satellites in history](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)
+- [Space.com co-founder and former CNN, Fox host Lou Dobbs has passed at 78](https://www.space.com/lou-dobbs-space-dot-com-co-founder-obituary)
 - [Astronauts could ditch diapers on spacewalks thanks to new device that lets them drink their pee](https://www.space.com/astronaut-spacesuit-recycle-urine)
 - [Where will we be in space in 2049? A look at spaceflight over the next 25 years](https://www.space.com/spaceflight-evolution-next-25-years-moon-mars)
 - [Faulty CrowdStrike update causes major global IT outage, taking out banks, airlines and businesses globally](https://techcrunch.com/2024/07/19/banks-airlines-brokerage-houses-report-widespread-outages-across-the-globe/)
-- [Paytm loss widens and revenue shrinks as it grapples with regulatory clampdown](https://techcrunch.com/2024/07/18/paytm-loss-widens-and-revenue-shrinks-following-regulatory-clampdown/)
-- [Virgin Galactic completes new Delta space plane manufacturing facility in Arizona](https://www.space.com/virgin-galactic-delta-class-space-plane-factory-arizona)
 <!-- BLOG-POST-LIST:END -->
 
 ---
