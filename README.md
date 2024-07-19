@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Space can unite a troubled country in troubled times&#39;: NASA chief calls for unity 55 years after Apollo 11 moon landing](https://www.space.com/nasa-chief-calls-for-unity-55-years-after-apollo-11-moon-landing)
 - [Twitch reinstates Trump’s account ahead of the 2024 presidential election](https://techcrunch.com/2024/07/19/twitch-reinstates-trumps-account-ahead-of-the-2024-presidential-election/)
 - [The sun&#39;s next solar cycle has begun, &#39;starquakes&#39; suggest](https://www.space.com/sun-next-solar-cycle-beginning)
 - [Faulty CrowdStrike update causes major global IT outage, taking out banks, airlines and businesses globally](https://techcrunch.com/2024/07/19/faulty-crowdstrike-update-causes-major-global-it-outage-taking-out-banks-airlines-and-businesses-globally/)
 - [CrowdStrike outage: How your plane, train and automobile travel may be affected](https://techcrunch.com/2024/07/19/crowdstrike-outage-how-your-plane-train-and-automobile-travel-may-be-affected/)
-- [M&amp;A activity heats up with Wiz, Graphcore, etc.](https://techcrunch.com/2024/07/19/ma-activity-heats-up-with-wiz-graphcore-etc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
