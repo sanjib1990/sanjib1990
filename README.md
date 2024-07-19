@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last chance today: Secure major savings for TechCrunch Disrupt 2024!](https://techcrunch.com/2024/07/19/last-chance-today-secure-major-savings-for-techcrunch-disrupt/)
-- [1st stratospheric skydive by a woman delayed to 2026, Hera Rising says](https://www.space.com/hera-rising-1st-stratospheric-skydive-woman-delay-2026)
-- [In a way, Space.com and the dark universe grew up together](https://www.space.com/space-25-anniversary-dark-universe)
-- [May solar superstorm caused largest &#39;mass migration&#39; of satellites in history](https://www.space.com/may-solar-storm-largest-mass-migration-satellites)
-- [Lou Dobbs, Space.com founder, former CNN and Fox host, dies at 78](https://www.space.com/lou-dobbs-space-dot-com-co-founder-obituary)
+- [Study finds black holes made from light are impossible — challenging Einstein&#39;s theory of relativity](https://www.space.com/black-holes-made-from-light-are-impossible-challenging-einsteins-theory-of-relativity)
+- [TechCrunch Minute: OpenAI shrinks its flagship model](https://techcrunch.com/video/techcrunch-minute-openai-shrinks-its-flagship-model/)
+- [Faulty CrowdStrike update causes major global IT outage, taking out banks, airlines and businesses globally](https://techcrunch.com/2024/07/19/faulty-crowdstrike-update-causes-major-global-it-outage-taking-out-banks-airlines-and-businesses-globally/)
+- [From the Sphere to false cyberattack claims, misinformation runs rampant amid CrowdStrike outage](https://techcrunch.com/2024/07/19/from-the-sphere-to-false-cyberattack-claims-misinformation-runs-rampant-amid-crowdstrike-outage/)
+- [Here’s how the CrowdStrike outage is affecting planes, trains and automobiles](https://techcrunch.com/2024/07/19/heres-how-the-crowdstrike-outage-is-affecting-planes-trains-and-automobiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
