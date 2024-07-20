@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a &#39;true&#39; story behind the fake Apollo moon landing in &#39;Fly Me to the Moon?&#39;](https://www.space.com/fly-me-to-the-moon-fake-moon-landing-true-story)
+- [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/)
+- [Tracking the EV battery factory construction boom across North America](https://techcrunch.com/2024/07/20/tracking-the-ev-battery-factory-construction-boom-across-north-america/)
 - [NASA marks moon landing anniversary by dedicating building to &#39;women of Apollo&#39;](https://www.space.com/johnson-space-center-dorothy-vaughan-women-apollo)
 - [The future of space exploration: How astronomy, space travel and the search for life may change by 2049 &lpar;video&rpar;](https://www.space.com/space-dot-com-virtual-anniversary-panel-next-25-years-space-exploration)
-- [Faulty CrowdStrike update causes major global IT outage, taking out banks, airlines and businesses globally](https://techcrunch.com/2024/07/19/faulty-crowdstrike-update-causes-major-global-it-outage-taking-out-banks-airlines-and-businesses-globally/)
-- [&#39;An oasis in the desert&#39;: NASA&#39;s Curiosity rover finds pure sulfur in Martian rocks](https://www.space.com/nasa-mars-curiosity-sulfur-rocks)
-- [US cyber agency CISA says malicious hackers are ‘taking advantage’ of CrowdStrike outage](https://techcrunch.com/2024/07/19/us-cyber-agency-cisa-says-malicious-hackers-are-taking-advantage-of-crowdstrike-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
