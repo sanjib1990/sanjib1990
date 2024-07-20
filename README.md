@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/)
+- [What became of the flags Apollo astronauts left on the moon?](https://www.space.com/apollo-program-flags-moon)
 - [Is there a &#39;true&#39; story behind the fake Apollo moon landing in &#39;Fly Me to the Moon?&#39;](https://www.space.com/fly-me-to-the-moon-fake-moon-landing-true-story)
 - [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/)
 - [Tracking the EV battery factory construction boom across North America](https://techcrunch.com/2024/07/20/tracking-the-ev-battery-factory-construction-boom-across-north-america/)
-- [NASA marks moon landing anniversary by dedicating building to &#39;women of Apollo&#39;](https://www.space.com/johnson-space-center-dorothy-vaughan-women-apollo)
-- [The future of space exploration: How astronomy, space travel and the search for life may change by 2049 &lpar;video&rpar;](https://www.space.com/space-dot-com-virtual-anniversary-panel-next-25-years-space-exploration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
