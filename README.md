@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/)
 - [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
 - [Some Black startup founders feel betrayed by Ben Horowitz’s support for Trump](https://techcrunch.com/2024/07/20/some-black-startup-founders-feel-betrayed-by-ben-horowitzs-support-for-trump/)
 - [United Nations marks Apollo 11 55th with international moon missions stamps](https://www.space.com/united-nations-international-moon-day-postage-stamps)
 - [This Week In Space podcast: Episode 120 —Remembering Apollo 11 &amp; Looking Ahead](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-120-remembering-apollo-11-looking-ahead)
-- [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
