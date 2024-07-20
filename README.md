@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA marks moon landing anniversary by dedicating building to &#39;women of Apollo&#39;](https://www.space.com/johnson-space-center-dorothy-vaughan-women-apollo)
 - [The future of space exploration: How astronomy, space travel and the search for life may change by 2049 &lpar;video&rpar;](https://www.space.com/space-dot-com-virtual-anniversary-panel-next-25-years-space-exploration)
 - [Faulty CrowdStrike update causes major global IT outage, taking out banks, airlines and businesses globally](https://techcrunch.com/2024/07/19/faulty-crowdstrike-update-causes-major-global-it-outage-taking-out-banks-airlines-and-businesses-globally/)
 - [&#39;An oasis in the desert&#39;: NASA&#39;s Curiosity rover finds pure sulfur in Martian rocks](https://www.space.com/nasa-mars-curiosity-sulfur-rocks)
 - [US cyber agency CISA says malicious hackers are ‘taking advantage’ of CrowdStrike outage](https://techcrunch.com/2024/07/19/us-cyber-agency-cisa-says-malicious-hackers-are-taking-advantage-of-crowdstrike-outage/)
-- [These startups are trying to prevent another CrowdStrike-like outage, according to VCs](https://techcrunch.com/2024/07/19/these-startups-are-trying-to-prevent-another-crowdstrike-like-outage-according-to-vcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
