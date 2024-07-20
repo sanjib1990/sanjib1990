@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some Black startup founders feel betrayed by Ben Horowitz’s support for Trump](https://techcrunch.com/2024/07/20/some-black-startup-founders-feel-betrayed-by-ben-horowitzs-support-for-trump/)
+- [United Nations marks Apollo 11 55th with international moon missions stamps](https://www.space.com/united-nations-international-moon-day-postage-stamps)
+- [This Week In Space podcast: Episode 120 —Remembering Apollo 11 &amp; Looking Ahead](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-120-remembering-apollo-11-looking-ahead)
 - [Strava’s next chapter: New CEO talks AI, inclusivity, and why ‘dark mode’ took so long](https://techcrunch.com/2024/07/20/stravas-next-chapter-new-ceo-talks-ai-inclusivity-and-why-dark-mode-took-so-long/)
 - [What became of the flags Apollo astronauts left on the moon?](https://www.space.com/apollo-program-flags-moon)
-- [Is there a &#39;true&#39; story behind the fake Apollo moon landing in &#39;Fly Me to the Moon?&#39;](https://www.space.com/fly-me-to-the-moon-fake-moon-landing-true-story)
-- [Lavish parties and moral dilemmas: 4 days with Silicon Valley’s MAGA elite at the RNC](https://techcrunch.com/2024/07/20/parties-dilemmas-4-days-with-silicon-valley-maga-tech-elite-rnc/)
-- [Tracking the EV battery factory construction boom across North America](https://techcrunch.com/2024/07/20/tracking-the-ev-battery-factory-construction-boom-across-north-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
