@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signs of life could survive on solar system moons Enceladus and Europa](https://www.space.com/jupiter-saturn-moon-enceladus-europa-life-signs)
 - [New &#39;Star Trek&#39; novel calls back Dr. Gillian Taylor of &#39;Star Trek IV: The Voyage Home&#39;](https://www.space.com/star-trek-novel-voyage-home)
 - [New quantum computer smashes &#39;quantum supremacy&#39; record by a factor of 100 — and it consumes 30,000 times less power](https://www.space.com/new-quantum-computer-smashes-quantum-supremacy-record)
 - [How the CIA &#39;kidnapped&#39; a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
 - [Bethesda Game Studios employees form a ‘wall-to-wall’ union](https://techcrunch.com/2024/07/20/bethesda-game-studios-employees-form-a-wall-to-wall-union/)
-- [CrowdStrike’s update fail causes global outages and travel chaos](https://techcrunch.com/2024/07/20/crowdstrikes-update-fail-causes-global-outages-and-travel-chaos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
