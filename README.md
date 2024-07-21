@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the CIA &#39;kidnapped&#39; a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
 - [Bethesda Game Studios employees form a ‘wall-to-wall’ union](https://techcrunch.com/2024/07/20/bethesda-game-studios-employees-form-a-wall-to-wall-union/)
 - [CrowdStrike’s update fail causes global outages and travel chaos](https://techcrunch.com/2024/07/20/crowdstrikes-update-fail-causes-global-outages-and-travel-chaos/)
 - [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/)
 - [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
-- [Some Black startup founders feel betrayed by Ben Horowitz’s support for Trump](https://techcrunch.com/2024/07/20/some-black-startup-founders-feel-betrayed-by-ben-horowitzs-support-for-trump/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
