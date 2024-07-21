@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Kamala Harris has said about AI, tech regulation, and more](https://techcrunch.com/2024/07/21/what-kamala-harris-has-said-about-ai-tech-regulation-and-more/)
 - [Joe Biden drops out of presidential race](https://techcrunch.com/2024/07/21/joe-biden-drops-out-of-presidential-race/)
 - [Made by Google 2024: Pixel 9, Gemini, a new foldable and other things to expect from the event](https://techcrunch.com/2024/07/21/made-by-google-2024-pixel-9-gemini-a-new-foldable-and-other-things-to-expect-from-the-event/)
 - [WazirX halts trading after $230 million ‘force majeure’ loss](https://techcrunch.com/2024/07/21/wazirx-halts-trading-after-230-million-hit-to-crypto-exchange/)
 - [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/)
-- [Explore an Apollo-era mission gone wrong in sci-fi mystery game &#39;Lifeless Moon&#39; &lpar;video&rpar;](https://www.space.com/lifeless-moon-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
