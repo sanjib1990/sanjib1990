@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader](https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/)
+- [Explore an Apollo-era mission gone wrong in sci-fi mystery game &#39;Lifeless Moon&#39; &lpar;video&rpar;](https://www.space.com/lifeless-moon-trailer)
 - [Signs of life could survive on solar system moons Enceladus and Europa](https://www.space.com/jupiter-saturn-moon-enceladus-europa-life-signs)
 - [New &#39;Star Trek&#39; novel calls back Dr. Gillian Taylor of &#39;Star Trek IV: The Voyage Home&#39;](https://www.space.com/star-trek-novel-voyage-home)
 - [New quantum computer smashes &#39;quantum supremacy&#39; record by a factor of 100 — and it consumes 30,000 times less power](https://www.space.com/new-quantum-computer-smashes-quantum-supremacy-record)
-- [How the CIA &#39;kidnapped&#39; a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
-- [Bethesda Game Studios employees form a ‘wall-to-wall’ union](https://techcrunch.com/2024/07/20/bethesda-game-studios-employees-form-a-wall-to-wall-union/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
