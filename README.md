@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New quantum computer smashes &#39;quantum supremacy&#39; record by a factor of 100 — and it consumes 30,000 times less power](https://www.space.com/new-quantum-computer-smashes-quantum-supremacy-record)
 - [How the CIA &#39;kidnapped&#39; a Soviet moon probe during the space race](https://www.space.com/how-the-cia-kidnapped-a-soviet-moon-probe-during-the-space-race)
 - [Bethesda Game Studios employees form a ‘wall-to-wall’ union](https://techcrunch.com/2024/07/20/bethesda-game-studios-employees-form-a-wall-to-wall-union/)
 - [CrowdStrike’s update fail causes global outages and travel chaos](https://techcrunch.com/2024/07/20/crowdstrikes-update-fail-causes-global-outages-and-travel-chaos/)
 - [Unpacking how Alphabet’s rumored Wiz acquisition could affect VC](https://techcrunch.com/2024/07/20/unpacking-how-alphabets-rumored-wiz-acquisition-could-affect-vc/)
-- [Microsoft says 8.5M Windows devices were affected by CrowdStrike outage](https://techcrunch.com/2024/07/20/microsoft-says-8-5m-windows-devices-were-affected-by-crowdstrike-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
