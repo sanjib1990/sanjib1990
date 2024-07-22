@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe on the moon: ESA targeting 2031 for 1st &#39;Argonaut&#39; lunar lander mission](https://www.space.com/esa-2031-first-argonaut-moon-lander-mission)
+- [&#39;A dark day for lunar science:&#39; Scientists shocked as NASA cancels VIPER moon rover](https://www.space.com/nasa-lunar-rover-scientists-react)
 - [Who are the sisters of the Bene Gesserit in the new &#39;Dune: Prophecy&#39; trailer? &lpar;video&rpar;](https://www.space.com/entertainment/dune-prophecy-reveals-fall-release-and-powerful-new-teaser-video)
 - [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/)
 - [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/)
-- [Rocket Row ribbon cutting marks return of Alabama rocket center&#39;s &#39;spaceline&#39;](https://www.space.com/ussrc-rocket-row-restoration-ribbon-cutting)
-- [Google’s Jigsaw open-sources Altitude to help online platforms weed out extremist content](https://techcrunch.com/2024/07/22/googles-jigsaw-open-sources-altitude-to-help-online-platforms-weed-out-extremist-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
