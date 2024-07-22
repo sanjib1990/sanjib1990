@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monarch Tractor CEO says $133M raise will help it escape ‘quite a challenging time’](https://techcrunch.com/2024/07/22/monarch-tractor-ceo-says-133m-raise-will-help-it-escape-quite-a-challenging-time/)
 - [Watch two plumes of &#39;dark&#39; plasma explode from the sun and send solar storm towards Earth &lpar;video&rpar;](https://www.space.com/sun-dark-plasma-solar-storm-july-21-2024)
 - [TechCrunch Space: SpaceX’s big plans to bring the ISS back to Earth](https://techcrunch.com/2024/07/22/techcrunch-space-spacexs-big-plans-to-bring-the-iss-back-to-earth/)
 - [Solar storm forecasts could soon get a big boost. Here&#39;s how.](https://www.space.com/space-weather-predictions-cme-speed)
 - [How to see Comet 13P/Olbers in the night sky this summer](https://www.space.com/comet-13P-Olbers-approach-close-to-earth-this-summer)
-- [SpaceX has dreamed up a Dragon ship on steroids to drag the ISS out of space](https://www.space.com/spacex-dragon-iss-deorbit-vehicle-design-revealed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
