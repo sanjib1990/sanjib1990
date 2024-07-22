@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Asus ROG Ally X turns PC gaming into a portable console](https://techcrunch.com/2024/07/21/the-asus-rog-ally-x-turns-pc-gaming-into-a-portable-console/)
 - [CIA AI director Lakshmi Raman claims the agency is taking a ‘thoughtful approach’ to AI](https://techcrunch.com/2024/07/21/cia-ai-director-lakshmi-raman-claims-the-agency-is-taking-a-thoughtful-approach-to-ai/)
 - [What Kamala Harris has said about AI, tech regulation, and more](https://techcrunch.com/2024/07/21/what-kamala-harris-has-said-about-ai-tech-regulation-and-more/)
 - [Joe Biden drops out of presidential race](https://techcrunch.com/2024/07/21/joe-biden-drops-out-of-presidential-race/)
 - [Made by Google 2024: Pixel 9, Gemini, a new foldable and other things to expect from the event](https://techcrunch.com/2024/07/21/made-by-google-2024-pixel-9-gemini-a-new-foldable-and-other-things-to-expect-from-the-event/)
-- [WazirX halts trading after $230 million ‘force majeure’ loss](https://techcrunch.com/2024/07/21/wazirx-halts-trading-after-230-million-hit-to-crypto-exchange/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
