@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch two plumes of &#39;dark&#39; plasma explode from the sun and send solar storm towards Earth &lpar;video&rpar;](https://www.space.com/sun-dark-plasma-solar-storm-july-21-2024)
+- [TechCrunch Space: SpaceX’s big plans to bring the ISS back to Earth](https://techcrunch.com/2024/07/22/techcrunch-space-spacexs-big-plans-to-bring-the-iss-back-to-earth/)
 - [Solar storm forecasts could soon get a big boost. Here&#39;s how.](https://www.space.com/space-weather-predictions-cme-speed)
 - [How to see Comet 13P/Olbers in the night sky this summer](https://www.space.com/comet-13P-Olbers-approach-close-to-earth-this-summer)
 - [SpaceX has dreamed up a Dragon ship on steroids to drag the ISS out of space](https://www.space.com/spacex-dragon-iss-deorbit-vehicle-design-revealed)
-- [Europe on the moon: ESA targeting 2031 for 1st &#39;Argonaut&#39; lunar lander mission](https://www.space.com/esa-2031-first-argonaut-moon-lander-mission)
-- [&#39;A dark day for lunar science:&#39; Scientists shocked as NASA cancels VIPER moon rover](https://www.space.com/nasa-lunar-rover-scientists-react)
 <!-- BLOG-POST-LIST:END -->
 
 ---
