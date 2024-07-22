@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar storm forecasts could soon get a big boost. Here&#39;s how.](https://www.space.com/space-weather-predictions-cme-speed)
+- [How to see Comet 13P/Olbers in the night sky this summer](https://www.space.com/comet-13P-Olbers-approach-close-to-earth-this-summer)
 - [SpaceX has dreamed up a Dragon ship on steroids to drag the ISS out of space](https://www.space.com/spacex-dragon-iss-deorbit-vehicle-design-revealed)
 - [Europe on the moon: ESA targeting 2031 for 1st &#39;Argonaut&#39; lunar lander mission](https://www.space.com/esa-2031-first-argonaut-moon-lander-mission)
 - [&#39;A dark day for lunar science:&#39; Scientists shocked as NASA cancels VIPER moon rover](https://www.space.com/nasa-lunar-rover-scientists-react)
-- [Who are the sisters of the Bene Gesserit in the new &#39;Dune: Prophecy&#39; trailer? &lpar;video&rpar;](https://www.space.com/entertainment/dune-prophecy-reveals-fall-release-and-powerful-new-teaser-video)
-- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
