@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA X-ray telescope &#39;weighs&#39; the closest rapidly spinning dead star to Earth](https://www.space.com/x-ray-telescope-weighs-pulsar-nasa-iss)
+- [July full moon 2024: Full Buck Moon puts on dramatic show for skywatchers around the world &lpar;photos&rpar;](https://www.space.com/july-full-buck-moon-2024-photos)
 - [India’s Swiggy turns its Minis service for small businesses into a link-in-bio landing page](https://techcrunch.com/2024/07/22/indias-swiggy-turns-its-minis-service-for-small-businesses-into-a-link-in-bio-landing-page/)
 - [NASA looking at what artifacts to preserve from space station before 2030 demise](https://www.space.com/international-space-station-deorbit-artifact-preservation)
 - [Fintech Fragment eases bank account reconciliation, nabs $9M from Stripe, Jack Altmam, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/)
-- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/)
-- [Look up! See the moon meet Saturn, watch for shooting stars and find the Northern Crown this week](https://www.space.com/what-to-see-with-naked-eyes-this-week-night-sky-july-meteor-showers-planetary-occultations)
 <!-- BLOG-POST-LIST:END -->
 
 ---
