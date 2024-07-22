@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who are the sisters of the Bene Gesserit in the new &#39;Dune: Prophecy&#39; trailer? &lpar;video&rpar;](https://www.space.com/entertainment/dune-prophecy-reveals-fall-release-and-powerful-new-teaser-video)
+- [17-year-old Eric Zhu’s startup was built in a high school bathroom — now it’s raised $2.3M and is emerging from stealth](https://techcrunch.com/2024/07/22/17-year-old-eric-zhus-startup-was-built-in-a-high-school-bathroom-now-its-raised-2-3-million-and-is-emerging-from-stealth/)
+- [The Scene’s new app helps New Yorkers find dining and nightlife spots](https://techcrunch.com/2024/07/22/the-scene-app-matches-new-yorkers-with-restaurants-bars-clubs/)
 - [Rocket Row ribbon cutting marks return of Alabama rocket center&#39;s &#39;spaceline&#39;](https://www.space.com/ussrc-rocket-row-restoration-ribbon-cutting)
 - [Google’s Jigsaw open-sources Altitude to help online platforms weed out extremist content](https://techcrunch.com/2024/07/22/googles-jigsaw-open-sources-altitude-to-help-online-platforms-weed-out-extremist-content/)
-- [Aurora alert: Possible geomagnetic storm could bring northern lights as far south as New York](https://www.space.com/northern-lights-possible-july-24-geomagnetic-storm-warning)
-- [TechCrunch Minute: What caused last week’s major tech outage?](https://techcrunch.com/video/techcrunch-minute-what-caused-last-weeks-major-tech-outage/)
-- [Everything We Know About &#39;Star Trek: Section 31&#39;](https://www.space.com/star-trek-section-31-everything-we-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
