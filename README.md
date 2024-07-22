@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Before plunging to its death, NASA&#39;s Cassini spacecraft saw secrets in the seas of Saturn&#39;s moon Titan](https://www.space.com/cassini-titan-methane-seas)
 - [Pesa unlocks new markets to keep remittances flowing to emerging economies](https://techcrunch.com/2024/07/22/pesa-pursues-global-growth/)
 - [The Asus ROG Ally X turns PC gaming into a portable console](https://techcrunch.com/2024/07/21/the-asus-rog-ally-x-turns-pc-gaming-into-a-portable-console/)
 - [CIA AI director Lakshmi Raman claims the agency is taking a ‘thoughtful approach’ to AI](https://techcrunch.com/2024/07/21/cia-ai-director-lakshmi-raman-claims-the-agency-is-taking-a-thoughtful-approach-to-ai/)
 - [What Kamala Harris has said about AI, tech regulation, and more](https://techcrunch.com/2024/07/21/what-kamala-harris-has-said-about-ai-tech-regulation-and-more/)
-- [Joe Biden drops out of presidential race](https://techcrunch.com/2024/07/21/joe-biden-drops-out-of-presidential-race/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
