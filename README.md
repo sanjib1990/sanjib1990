@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Row ribbon cutting marks return of Alabama rocket center&#39;s &#39;spaceline&#39;](https://www.space.com/ussrc-rocket-row-restoration-ribbon-cutting)
+- [Google’s Jigsaw open-sources Altitude to help online platforms weed out extremist content](https://techcrunch.com/2024/07/22/googles-jigsaw-open-sources-altitude-to-help-online-platforms-weed-out-extremist-content/)
+- [Aurora alert: Possible geomagnetic storm could bring northern lights as far south as New York](https://www.space.com/northern-lights-possible-july-24-geomagnetic-storm-warning)
 - [TechCrunch Minute: What caused last week’s major tech outage?](https://techcrunch.com/video/techcrunch-minute-what-caused-last-weeks-major-tech-outage/)
 - [Everything We Know About &#39;Star Trek: Section 31&#39;](https://www.space.com/star-trek-section-31-everything-we-know)
-- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/)
-- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/)
-- [NASA X-ray telescope &#39;weighs&#39; the closest rapidly spinning dead star to Earth](https://www.space.com/x-ray-telescope-weighs-pulsar-nasa-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
