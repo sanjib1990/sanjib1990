@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything We Know About &#39;Star Trek: Section 31&#39;](https://www.space.com/star-trek-section-31-everything-we-know)
+- [Be a TechCrunch Disrupt 2024 volunteer](https://techcrunch.com/2024/07/22/be-a-techcrunch-disrupt-2024-volunteer/)
+- [Cohere raises $500M to beat back generative AI rivals](https://techcrunch.com/2024/07/22/cohere-raises-500m-to-beat-back-generative-ai-rivals/)
 - [NASA X-ray telescope &#39;weighs&#39; the closest rapidly spinning dead star to Earth](https://www.space.com/x-ray-telescope-weighs-pulsar-nasa-iss)
 - [July full moon 2024: Full Buck Moon puts on dramatic show for skywatchers around the world &lpar;photos&rpar;](https://www.space.com/july-full-buck-moon-2024-photos)
-- [India’s Swiggy turns its Minis service for small businesses into a link-in-bio landing page](https://techcrunch.com/2024/07/22/indias-swiggy-turns-its-minis-service-for-small-businesses-into-a-link-in-bio-landing-page/)
-- [NASA looking at what artifacts to preserve from space station before 2030 demise](https://www.space.com/international-space-station-deorbit-artifact-preservation)
-- [Fintech Fragment eases bank account reconciliation, nabs $9M from Stripe, Jack Altmam, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
