@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Swiggy turns its Minis service for small businesses into a link-in-bio landing page](https://techcrunch.com/2024/07/22/indias-swiggy-turns-its-minis-service-for-small-businesses-into-a-link-in-bio-landing-page/)
+- [NASA looking at what artifacts to preserve from space station before 2030 demise](https://www.space.com/international-space-station-deorbit-artifact-preservation)
+- [Fintech Fragment eases bank account reconciliation, nabs $9M from Stripe, Jack Altmam, others](https://techcrunch.com/2024/07/22/digital-ledger-fragment-9m-banks-balance-sheets/)
+- [Linx emerges from stealth with $33M to lock down the new security perimeter: Identity](https://techcrunch.com/2024/07/22/linx-emerges-from-stealth-with-33m-to-lock-down-the-new-security-perimeter-identity/)
 - [Look up! See the moon meet Saturn, watch for shooting stars and find the Northern Crown this week](https://www.space.com/what-to-see-with-naked-eyes-this-week-night-sky-july-meteor-showers-planetary-occultations)
-- [Before plunging to its death, NASA&#39;s Cassini spacecraft saw secrets in the seas of Saturn&#39;s moon Titan](https://www.space.com/cassini-titan-methane-seas)
-- [Pesa unlocks new markets to keep remittances flowing to emerging economies](https://techcrunch.com/2024/07/22/pesa-pursues-global-growth/)
-- [The Asus ROG Ally X turns PC gaming into a portable console](https://techcrunch.com/2024/07/21/the-asus-rog-ally-x-turns-pc-gaming-into-a-portable-console/)
-- [CIA AI director Lakshmi Raman claims the agency is taking a ‘thoughtful approach’ to AI](https://techcrunch.com/2024/07/21/cia-ai-director-lakshmi-raman-claims-the-agency-is-taking-a-thoughtful-approach-to-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
