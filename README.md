@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX makes Starlink Roam available throughout the US](https://www.space.com/spacex-starlink-mini-available-united-states)
+- [SpaceX wins $113 million contract to launch advanced NOAA climate satellite](https://www.space.com/spacex-launch-contract-noaa-jpss-4-climate-satellite)
 - [OpenAI-backed legaltech startup Harvey raises $100M](https://techcrunch.com/2024/07/23/openai-backed-legaltech-startup-harvey-raises-100m/)
 - [Alien weather report: James Webb Space Telescope detects hot, sandy wind on 2 brown dwarfs](https://www.space.com/brown-dwarf-alien-weather-report-jwst)
 - [Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries](https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/)
-- [The next fintech to go public may not be the one you expected](https://techcrunch.com/2024/07/23/the-next-fintech-to-go-public-may-not-be-the-one-you-expected/)
-- [Scientists waited ages to find a &#39;missing link&#39; black hole — then stumbled upon 2](https://www.space.com/black-hole-intermediate-mass-missing-link-irs-13)
 <!-- BLOG-POST-LIST:END -->
 
 ---
