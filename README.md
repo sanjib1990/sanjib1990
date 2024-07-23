@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Noded AI wants to make your notes the center of your work world](https://techcrunch.com/2024/07/23/noded-ai-wants-to-make-your-notes-the-center-of-your-work-world/)
-- [Disney &#39;Dreams That Soar&#39; drone show lights up sky with Star Wars, Marvel and more sci-fi favorites](https://www.space.com/disney-dreams-that-soar-drone-show-lights-up-the-sky-with-star-wars-marvel-and-more-sci-fi-favorites)
-- [Farmblox puts the control into farmers’ hands with its AI-powered sensor-reading platform](https://techcrunch.com/2024/07/23/farmblox-puts-the-control-into-farmers-hands-with-its-ai-powered-sensor-reading-platform/)
-- [HBO&#39;s &#39;Wild Wild Space&#39; provides an inside look at the private space race &lpar;review&rpar;](https://www.space.com/wild-wild-space-hbo-documentary-review)
-- [Former Tesla humanoid head launches a robotics startup](https://techcrunch.com/2024/07/23/former-tesla-humanoid-head-launches-a-robotics-startup/)
+- [FTC is investigating how companies are using AI to base pricing on consumer behavior](https://techcrunch.com/2024/07/23/ftc-is-investigating-how-companies-are-using-ai-to-base-pricing-on-consumer-behavior/)
+- [SpaceX Starlink satellites made 50,000 collision-avoidance maneuvers in the paast 6 months. What does that mean for space safety?](https://www.space.com/spacex-starlink-50000-collision-avoidance-maneuvers-space-safety)
+- [Andy Dunn talks the importance of founder mental health at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/23/andy-dunn-talks-the-importance-of-founder-mental-health-at-techcrunch-disrupt-2024/)
+- [Meta releases its biggest ‘open’ AI model yet](https://techcrunch.com/2024/07/23/meta-releases-its-biggest-open-ai-model-yet/)
+- [Rosotics wants to manufacture massive orbital shipyards using 3D printing](https://techcrunch.com/2024/07/23/rosotics-wants-to-manufacture-massive-orbital-shipyards-using-3d-printing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
