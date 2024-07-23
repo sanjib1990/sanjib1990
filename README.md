@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Musk sets 2026 Optimus sale date. Here’s where other humanoids stand.](https://techcrunch.com/2024/07/23/musk-sets-2026-optimus-sale-date-heres-where-other-humanoids-stand/)
-- [21 &#39;one-in-a-million&#39; extreme dead stars found hiding around sun-like stars](https://www.space.com/neutron-star-binary-systems-esa-gaia-discovery)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [SpaceX makes Starlink Roam available throughout the US](https://www.space.com/spacex-starlink-mini-available-united-states)
-- [SpaceX wins $113 million contract to launch advanced NOAA climate satellite](https://www.space.com/spacex-launch-contract-noaa-jpss-4-climate-satellite)
+- [June 2024 featured record-breaking heat and billion-dollar weather disasters, NOAA says](https://www.space.com/june-2024-heat-records-climate-weather-disasters)
+- [How to prevent your software update from being the next CrowdStrike](https://techcrunch.com/2024/07/23/how-to-prevent-your-software-update-from-being-the-next-crowdstrike/)
+- [Spotify CEO says company is in ‘early days’ of hi-fi audio plans](https://techcrunch.com/2024/07/23/spotify-ceo-says-company-is-in-early-days-of-hi-fi-audio-plans/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/)
+- [Elon Musk sets 2026 Optimus sale date. Here’s where other humanoid robots stand.](https://techcrunch.com/2024/07/23/elon-musk-sets-2026-optimus-sale-date-heres-where-other-humanoid-robots-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
