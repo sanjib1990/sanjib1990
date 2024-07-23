@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: Where Kamala Harris stands on tech issues](https://techcrunch.com/video/where-kamala-harris-stands-on-tech-issues/)
+- [Cyabra, a startup helping companies and governments detect disinformation, plans to go public via SPAC](https://techcrunch.com/2024/07/23/cyabra-a-startup-helping-companies-and-governments-detect-disinformation-plans-to-go-public-via-spac/)
+- [There’s a lot more to the Kamala Harris memes than you think](https://techcrunch.com/2024/07/23/theres-a-lot-more-to-the-kamala-harris-memes-than-you-think/)
+- [GM’s Cruise abandons Origin robotaxi, takes $583 million charge](https://techcrunch.com/2024/07/23/gms-cruise-abandons-origin-robotaxi-takes-583-million-charge/)
 - [FTC is investigating how companies are using AI to base pricing on consumer behavior](https://techcrunch.com/2024/07/23/ftc-is-investigating-how-companies-are-using-ai-to-base-pricing-on-consumer-behavior/)
-- [SpaceX Starlink satellites made 50,000 collision-avoidance maneuvers in the paast 6 months. What does that mean for space safety?](https://www.space.com/spacex-starlink-50000-collision-avoidance-maneuvers-space-safety)
-- [Andy Dunn talks the importance of founder mental health at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/23/andy-dunn-talks-the-importance-of-founder-mental-health-at-techcrunch-disrupt-2024/)
-- [Meta releases its biggest ‘open’ AI model yet](https://techcrunch.com/2024/07/23/meta-releases-its-biggest-open-ai-model-yet/)
-- [Rosotics wants to manufacture massive orbital shipyards using 3D printing](https://techcrunch.com/2024/07/23/rosotics-wants-to-manufacture-massive-orbital-shipyards-using-3d-printing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
