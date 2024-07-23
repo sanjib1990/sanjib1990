@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Climate Science, Risk and Solutions: The MIT Climate Primer](https://www.youtube.com/watch?v=kbyNYJgwGFA)
 - [I&#39;m going to be a hacker](https://www.youtube.com/watch?v=TTdPDXTg8Ao)
 - [Crowdstruck &lpar;Windows Outage&rpar; - Computerphile](https://www.youtube.com/watch?v=rlaNMJeA1EA)
 - [Real men test in production… The truth about the CrowdStrike disaster](https://www.youtube.com/watch?v=H9RSeDUdkCA)
 - [Some bad code just broke a billion Windows machines](https://www.youtube.com/watch?v=4yDm6xNeYas)
-- [Helpdesk IT Challenge!! How many can you get right?](https://www.youtube.com/watch?v=mDJtWX2uc-U)
 <!-- YOUTUBE:END -->
 
 ---
