@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers shut down heating in Ukrainian city with malware, researchers say](https://techcrunch.com/2024/07/23/hackers-shut-down-heating-in-ukrainian-city-with-malware-researchers-say/)
 - [Telegram’s userbase climbs to 950M, plans to launch app store](https://techcrunch.com/2024/07/23/telegrams-userbase-climbs-to-950m-plans-to-launch-app-store/)
-- [India scraps ‘angel tax’ in boost to startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/)
+- [India scraps ‘angel tax’ in boost for startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/)
 - [Kakao founder issued arrest warrant by Seoul court](https://techcrunch.com/2024/07/22/kakao-founder-arrested-over-alleged-market-manipulation/)
 - [Wiz walks away from Google’s $23B acquisition offer: Read the CEO’s note to employees](https://techcrunch.com/2024/07/22/wiz-walks-away-from-googles-23b-acquisition-offer-read-the-ceos-note-to-employees/)
-- [Russia unveils timeline for building its new space station, starting in 2027](https://www.space.com/russia-space-station-timeline-2027)
 <!-- BLOG-POST-LIST:END -->
 
 ---
