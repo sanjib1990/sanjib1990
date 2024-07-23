@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk sets 2026 Optimus sale date. Here’s where other humanoids stand.](https://techcrunch.com/2024/07/23/musk-sets-2026-optimus-sale-date-heres-where-other-humanoids-stand/)
+- [21 &#39;one-in-a-million&#39; extreme dead stars found hiding around sun-like stars](https://www.space.com/neutron-star-binary-systems-esa-gaia-discovery)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 - [SpaceX makes Starlink Roam available throughout the US](https://www.space.com/spacex-starlink-mini-available-united-states)
 - [SpaceX wins $113 million contract to launch advanced NOAA climate satellite](https://www.space.com/spacex-launch-contract-noaa-jpss-4-climate-satellite)
-- [OpenAI-backed legaltech startup Harvey raises $100M](https://techcrunch.com/2024/07/23/openai-backed-legaltech-startup-harvey-raises-100m/)
-- [Alien weather report: James Webb Space Telescope detects hot, sandy wind on 2 brown dwarfs](https://www.space.com/brown-dwarf-alien-weather-report-jwst)
-- [Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries](https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
