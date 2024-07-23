@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rapidly spinning dead stars could unveil dark matter secrets](https://www.space.com/dead-star-cosmic-lighthouses-dark-matter)
+- [Happy 25th anniversary, Chandra! NASA celebrates with 25 breathtaking images from flagship X-ray observatory](https://www.space.com/chandra-25-anniversary-images)
+- [Elon Musk sets new October 10 date for ‘robotaxi’ reveal and ‘other things’](https://techcrunch.com/2024/07/23/tesla-robotaxi-event-october-10-elon-musk/)
+- [Alphabet to invest another $5B into Waymo](https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/)
 - [June 2024 featured record-breaking heat and billion-dollar weather disasters, NOAA says](https://www.space.com/june-2024-heat-records-climate-weather-disasters)
-- [How to prevent your software update from being the next CrowdStrike](https://techcrunch.com/2024/07/23/how-to-prevent-your-software-update-from-being-the-next-crowdstrike/)
-- [Spotify CEO says company is in ‘early days’ of hi-fi audio plans](https://techcrunch.com/2024/07/23/spotify-ceo-says-company-is-in-early-days-of-hi-fi-audio-plans/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/)
-- [Elon Musk sets 2026 Optimus sale date. Here’s where other humanoid robots stand.](https://techcrunch.com/2024/07/23/elon-musk-sets-2026-optimus-sale-date-heres-where-other-humanoid-robots-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
