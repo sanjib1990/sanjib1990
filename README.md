@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The next fintech to go public may not be the one you expected](https://techcrunch.com/2024/07/23/the-next-fintech-to-go-public-may-not-be-the-one-you-expected/)
+- [Scientists waited ages to find a &#39;missing link&#39; black hole — then stumbled upon 2](https://www.space.com/black-hole-intermediate-mass-missing-link-irs-13)
+- [The Waymo-Zeekr robotaxi has come to San Francisco](https://techcrunch.com/2024/07/23/the-waymo-zeekr-robotaxi-has-come-to-san-francisco/)
+- [How NASA&#39;s Nicole Stott taught &#39;Space Cadet&#39; actors what astronauts &#39;are really all about&#39; &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-nicole-stott-space-cadet)
 - [TechCrunch Minute: Where Kamala Harris stands on tech issues](https://techcrunch.com/video/where-kamala-harris-stands-on-tech-issues/)
-- [Cyabra, a startup helping companies and governments detect disinformation, plans to go public via SPAC](https://techcrunch.com/2024/07/23/cyabra-a-startup-helping-companies-and-governments-detect-disinformation-plans-to-go-public-via-spac/)
-- [There’s a lot more to the Kamala Harris memes than you think](https://techcrunch.com/2024/07/23/theres-a-lot-more-to-the-kamala-harris-memes-than-you-think/)
-- [GM’s Cruise abandons Origin robotaxi, takes $583 million charge](https://techcrunch.com/2024/07/23/gms-cruise-abandons-origin-robotaxi-takes-583-million-charge/)
-- [FTC is investigating how companies are using AI to base pricing on consumer behavior](https://techcrunch.com/2024/07/23/ftc-is-investigating-how-companies-are-using-ai-to-base-pricing-on-consumer-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
