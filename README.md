@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Crowdstruck &lpar;Windows Outage&rpar; - Computerphile](https://www.youtube.com/watch?v=rlaNMJeA1EA)
 - [Real men test in production… The truth about the CrowdStrike disaster](https://www.youtube.com/watch?v=H9RSeDUdkCA)
 - [Some bad code just broke a billion Windows machines](https://www.youtube.com/watch?v=4yDm6xNeYas)
 - [Helpdesk IT Challenge!! How many can you get right?](https://www.youtube.com/watch?v=mDJtWX2uc-U)
 - [Lecture 23: Three-Phase Inverters](https://www.youtube.com/watch?v=nTq-OKy5kHs)
-- [Lecture 20: Switched-Mode Rectifiers](https://www.youtube.com/watch?v=EFONLmsmVFw)
 <!-- YOUTUBE:END -->
 
 ---
