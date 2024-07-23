@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI-backed legaltech startup Harvey raises $100M](https://techcrunch.com/2024/07/23/openai-backed-legaltech-startup-harvey-raises-100m/)
+- [Alien weather report: James Webb Space Telescope detects hot, sandy wind on 2 brown dwarfs](https://www.space.com/brown-dwarf-alien-weather-report-jwst)
+- [Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries](https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/)
 - [The next fintech to go public may not be the one you expected](https://techcrunch.com/2024/07/23/the-next-fintech-to-go-public-may-not-be-the-one-you-expected/)
 - [Scientists waited ages to find a &#39;missing link&#39; black hole — then stumbled upon 2](https://www.space.com/black-hole-intermediate-mass-missing-link-irs-13)
-- [The Waymo-Zeekr robotaxi has come to San Francisco](https://techcrunch.com/2024/07/23/the-waymo-zeekr-robotaxi-has-come-to-san-francisco/)
-- [How NASA&#39;s Nicole Stott taught &#39;Space Cadet&#39; actors what astronauts &#39;are really all about&#39; &lpar;exclusive&rpar;](https://www.space.com/nasa-astronaut-nicole-stott-space-cadet)
-- [TechCrunch Minute: Where Kamala Harris stands on tech issues](https://techcrunch.com/video/where-kamala-harris-stands-on-tech-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
