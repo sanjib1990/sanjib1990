@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU to investigate Delivery Hero and Glovo over food delivery cartel concerns](https://techcrunch.com/2024/07/23/delivery-hero-and-glovo-probed-in-eu-over-food-delivery-cartel-concerns/)
+- [Grab acquires Singapore’s restaurant reservation platform Chope](https://techcrunch.com/2024/07/23/grab-acquires-singapores-restaurant-reservation-platform-chope/)
+- [TigerBeetle is building database software optimized for financial transactions](https://techcrunch.com/2024/07/23/tigerbeetle-is-building-database-software-optimized-for-financial-transactions/)
+- [GM’s Cruise abandons Origin robotaxi, takes $583 million charge](https://techcrunch.com/2024/07/23/gms-cruise-abandons-origin-robotaxi-takes-583-million-charge/)
 - [ABL Space System&#39;s 2nd RS1 rocket destroyed during preflight testing](https://www.space.com/abl-space-systems-rs1-rocket-destroyed-preflight-testing)
-- [Hackers shut down heating in Ukrainian city with malware, researchers say](https://techcrunch.com/2024/07/23/hackers-shut-down-heating-in-ukrainian-city-with-malware-researchers-say/)
-- [Telegram’s userbase climbs to 950M, plans to launch app store](https://techcrunch.com/2024/07/23/telegrams-userbase-climbs-to-950m-plans-to-launch-app-store/)
-- [India scraps ‘angel tax’ in boost for startups](https://techcrunch.com/2024/07/23/india-scraps-angel-tax-in-boost-to-startups/)
-- [Kakao founder issued arrest warrant by Seoul court](https://techcrunch.com/2024/07/22/kakao-founder-arrested-over-alleged-market-manipulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
