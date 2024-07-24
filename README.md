@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter&#39;s surreal clouds swirl in new van Gogh-esque view from NASA&#39;s Juno probe &lpar;photo&rpar;](https://www.space.com/jupiter-clouds-van-gogh-photo-nasa-juno-spacecraft)
 - [Chinese astronauts simulate a debris-strike emergency on the Tiangong space station &lpar;video&rpar;](https://www.space.com/chinese-astronauts-simulate-debris-strike-tiangong-space-station)
 - [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 - [Mercury has a layer of diamond 10 miles thick, NASA spacecraft finds](https://www.space.com/mercury-diamond-layer-10-miles-thick-nasa-messenger)
 - [This Week in AI: How Kamala Harris might regulate AI](https://techcrunch.com/2024/07/24/this-week-in-ai-how-kamala-harris-might-regulate-ai/)
-- [China&#39;s tiny &#39;Golden Toad&#39; rover used AI to take an epic photo on the moon&#39;s far side &lpar;video&rpar;](https://www.space.com/china-change-6-mini-moon-rover-training-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
