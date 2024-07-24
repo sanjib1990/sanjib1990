@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: How Kamala Harris might regulate AI](https://techcrunch.com/2024/07/24/this-week-in-ai-how-kamala-harris-might-regulate-ai/)
+- [China&#39;s tiny &#39;Golden Toad&#39; rover used AI to take an epic photo on the moon&#39;s far side &lpar;video&rpar;](https://www.space.com/china-change-6-mini-moon-rover-training-video)
+- [VCs are still pouring billions into generative AI startups](https://techcrunch.com/2024/07/24/vcs-are-still-pouring-billions-into-generative-ai-startups/)
+- [James Webb Space Telescope directly images its coldest exoplanet target yet](https://www.space.com/super-jupiter-james-webb-space-telescope)
 - [Watch NASA&#39;s massive Artemis 2 rocket core stage arrive in Florida. Next stop: the moon &lpar;video, photos&rpar;](https://www.space.com/nasa-artemis-2-core-stage-kennedy-space-center-arrival)
-- [TechCrunch Minute: A UK school was reprimanded for unlawful use of facial recognition technology](https://techcrunch.com/video/techcrunch-minute-a-uk-school-was-reprimanded-for-unlawful-use-of-facial-recognition-technology/)
-- [Earth-based telescope sees Boeing&#39;s Starliner approach the ISS in broad daylight &lpar;photo&rpar;](https://www.space.com/boeing-starliner-docking-iss-photo-ground-telescope-infrared)
-- [Colin Kaepernick lost control of his story. Now, he wants to help creators own theirs](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/)
-- [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
