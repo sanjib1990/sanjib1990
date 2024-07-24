@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter&#39;s surreal clouds swirl in new van Gogh-esque view from NASA&#39;s Juno probe &lpar;photo&rpar;](https://www.space.com/jupiter-clouds-van-gogh-photo-nasa-juno-spacecraft)
-- [Chinese astronauts simulate a debris-strike emergency on the Tiangong space station &lpar;video&rpar;](https://www.space.com/chinese-astronauts-simulate-debris-strike-tiangong-space-station)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [Mercury has a layer of diamond 10 miles thick, NASA spacecraft finds](https://www.space.com/mercury-diamond-layer-10-miles-thick-nasa-messenger)
-- [This Week in AI: How Kamala Harris might regulate AI](https://techcrunch.com/2024/07/24/this-week-in-ai-how-kamala-harris-might-regulate-ai/)
+- [Yoda returns in new &#39;Star Wars: Young Jedi Adventures&#39; Season 2 trailer &lpar;video&rpar;](https://www.space.com/star-wars-young-jedi-adventures-season-2-trailer)
+- [Researchers are training home robots in simulations based on iPhone scans](https://techcrunch.com/2024/07/24/researchers-are-training-home-robots-in-simulations-based-on-iphone-scans/)
+- [Apple Maps launches on the web to challenge Google Maps](https://techcrunch.com/2024/07/24/apple-maps-launches-on-the-web-to-challenge-google-maps/)
+- [Alternative app store AltStore PAL adds third-party iOS apps in wake of EU Apple ruling](https://techcrunch.com/2024/07/24/alternative-app-store-altstore-pal-adds-third-party-ios-apps-in-wake-of-eu-apple-ruling/)
+- [Bing previews its answer to Google’s AI Overviews](https://techcrunch.com/2024/07/24/bing-previews-its-answer-to-googles-ai-overviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
