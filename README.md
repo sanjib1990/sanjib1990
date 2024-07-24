@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Backed by Microsoft, AWS, and Meta, the Overture Maps Foundation launches first open map datasets](https://techcrunch.com/2024/07/24/backed-by-microsoft-aws-and-meta-the-overture-maps-foundation-launches-first-open-map-datasets/)
-- [Vanta trust management platform raises $150M Series C, now valued at $2.45B](https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/)
-- [&#39;We&#39;re pushing the limits:&#39; Artemis 2 backup astronaut on 2025 round-the-moon mission &lpar;exclusive&rpar;](https://www.space.com/artemis-2-backup-astronaut-development-progress)
-- [Dazz snaps up $50M for AI-based, automated cloud security remediation](https://techcrunch.com/2024/07/24/dazz-snaps-up-50m-for-ai-based-automated-cloud-security-remediation/)
-- [Apple’s App Store hit with antitrust probe in Spain](https://techcrunch.com/2024/07/24/apples-app-store-hit-with-antitrust-probe-in-spain/)
+- [X launches underwhelming Grok-powered ‘More About This Account’ feature](https://techcrunch.com/2024/07/24/x-launches-underwhelming-grok-powered-more-about-this-account-feature/)
+- [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/)
+- [Google Play gets ‘Comics’ feature for manga readers in Japan](https://techcrunch.com/2024/07/24/google-play-launches-curated-spaces-feature-manga-anime/)
+- [Micropep taps tiny proteins to make pesticides safer](https://techcrunch.com/2024/07/24/micropep-taps-tiny-proteins-to-make-pesticides-safer/)
+- [Where do the moon&#39;s weird swirls come from? Scientists are trying to find out](https://www.space.com/lunar-swirls-moon-regolith)
 <!-- BLOG-POST-LIST:END -->
 
 ---
