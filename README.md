@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Proton releases a self-custody bitcoin wallet](https://techcrunch.com/2024/07/24/proton-releases-a-self-custody-bitcoin-wallet/)
-- [Pearl raises $58M to help dentists make better diagnoses using AI](https://techcrunch.com/2024/07/24/pearl-raises-58m-to-help-dentists-make-better-diagnoses-using-ai/)
-- [Where to? Space: Tripadvisor publishes 1st off-Earth travel review](https://www.space.com/tripadvisor-destination-space-tourism-reviews)
-- [Spanish startup Exoticca raises a €60M Series D for its tour packages platform](https://techcrunch.com/2024/07/23/spanish-startup-exoticca-raises-a-e60m-series-d-for-tour-packages-platform/)
-- [Mark Zuckerberg imagines content creators making AI clones of themselves](https://techcrunch.com/2024/07/23/mark-zuckerberg-imagines-content-creators-making-ai-clones-of-themselves/)
+- [Backed by Microsoft, AWS, and Meta, the Overture Maps Foundation launches first open map datasets](https://techcrunch.com/2024/07/24/backed-by-microsoft-aws-and-meta-the-overture-maps-foundation-launches-first-open-map-datasets/)
+- [Vanta trust management platform raises $150M Series C, now valued at $2.45B](https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/)
+- [&#39;We&#39;re pushing the limits:&#39; Artemis 2 backup astronaut on 2025 round-the-moon mission &lpar;exclusive&rpar;](https://www.space.com/artemis-2-backup-astronaut-development-progress)
+- [Dazz snaps up $50M for AI-based, automated cloud security remediation](https://techcrunch.com/2024/07/24/dazz-snaps-up-50m-for-ai-based-automated-cloud-security-remediation/)
+- [Apple’s App Store hit with antitrust probe in Spain](https://techcrunch.com/2024/07/24/apples-app-store-hit-with-antitrust-probe-in-spain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
