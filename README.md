@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proton releases a self-custody bitcoin wallet](https://techcrunch.com/2024/07/24/proton-releases-a-self-custody-bitcoin-wallet/)
+- [Pearl raises $58M to help dentists make better diagnoses using AI](https://techcrunch.com/2024/07/24/pearl-raises-58m-to-help-dentists-make-better-diagnoses-using-ai/)
 - [Where to? Space: Tripadvisor publishes 1st off-Earth travel review](https://www.space.com/tripadvisor-destination-space-tourism-reviews)
 - [Spanish startup Exoticca raises a €60M Series D for its tour packages platform](https://techcrunch.com/2024/07/23/spanish-startup-exoticca-raises-a-e60m-series-d-for-tour-packages-platform/)
 - [Mark Zuckerberg imagines content creators making AI clones of themselves](https://techcrunch.com/2024/07/23/mark-zuckerberg-imagines-content-creators-making-ai-clones-of-themselves/)
-- [Elon Musk sets new date for Tesla robotaxi reveal, calls everything beyond autonomy ‘noise’](https://techcrunch.com/2024/07/23/elon-musk-sets-new-date-for-tesla-robotaxi-reveal-calls-everything-beyond-autonomy-noise/)
-- [Happy 25th anniversary, Chandra! NASA celebrates with 25 breathtaking images from flagship X-ray observatory](https://www.space.com/chandra-25-anniversary-images)
 <!-- BLOG-POST-LIST:END -->
 
 ---
