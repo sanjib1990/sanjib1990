@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new Chinese video-generating model appears to be censoring politically sensitive topics](https://techcrunch.com/2024/07/24/a-new-chinese-video-generating-model-appears-to-be-censoring-politically-sensitive-topics/)
+- [Star Catcher wants to build a space power grid to supercharge orbital industry](https://techcrunch.com/2024/07/24/star-catcher-wants-to-build-a-space-power-grid-to-supercharge-orbital-industry/)
 - [The key to detecting deepfakes may lie within deep space](https://www.space.com/deepfake-galaxy-detection-gini-index)
 - [Mistral’s Large 2 is its answer to Meta and OpenAI’s latest models](https://techcrunch.com/2024/07/24/mistral-releases-large-2-meta-openai-ai-models/)
 - [Yoda returns in new &#39;Star Wars: Young Jedi Adventures&#39; Season 2 trailer &lpar;video&rpar;](https://www.space.com/star-wars-young-jedi-adventures-season-2-trailer)
-- [Researchers are training home robots in simulations based on iPhone scans](https://techcrunch.com/2024/07/24/researchers-are-training-home-robots-in-simulations-based-on-iphone-scans/)
-- [Apple Maps launches on the web to challenge Google Maps](https://techcrunch.com/2024/07/24/apple-maps-launches-on-the-web-to-challenge-google-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
