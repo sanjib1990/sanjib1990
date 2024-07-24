@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Zuckerberg imagines content creators making AI clones of themselves](https://techcrunch.com/2024/07/23/mark-zuckerberg-imagines-content-creators-making-ai-clones-of-themselves/)
 - [Elon Musk sets new date for Tesla robotaxi reveal, calls everything beyond autonomy ‘noise’](https://techcrunch.com/2024/07/23/elon-musk-sets-new-date-for-tesla-robotaxi-reveal-calls-everything-beyond-autonomy-noise/)
 - [Rapidly spinning dead stars could unveil dark matter secrets](https://www.space.com/dead-star-cosmic-lighthouses-dark-matter)
 - [Happy 25th anniversary, Chandra! NASA celebrates with 25 breathtaking images from flagship X-ray observatory](https://www.space.com/chandra-25-anniversary-images)
 - [Alphabet to invest another $5B into Waymo](https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/)
-- [June 2024 featured record-breaking heat and billion-dollar weather disasters, NOAA says](https://www.space.com/june-2024-heat-records-climate-weather-disasters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
