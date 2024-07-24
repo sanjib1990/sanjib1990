@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alien: The Xenomorph life cycle explained](https://www.space.com/alien-xenomorph-lifecycle-explained)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
+- [CityRock launches second fund to back founders from diverse backgrounds](https://techcrunch.com/2024/07/24/cityrock-venture-partners-launches-second-fund-to-back-early-stage-startups/)
 - [X launches underwhelming Grok-powered ‘More About This Account’ feature](https://techcrunch.com/2024/07/24/x-launches-underwhelming-grok-powered-more-about-this-account-feature/)
 - [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/)
-- [Google Play gets ‘Comics’ feature for manga readers in Japan](https://techcrunch.com/2024/07/24/google-play-launches-curated-spaces-feature-manga-anime/)
-- [Micropep taps tiny proteins to make pesticides safer](https://techcrunch.com/2024/07/24/micropep-taps-tiny-proteins-to-make-pesticides-safer/)
-- [Where do the moon&#39;s weird swirls come from? Scientists are trying to find out](https://www.space.com/lunar-swirls-moon-regolith)
 <!-- BLOG-POST-LIST:END -->
 
 ---
