@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘Model collapse’: Scientists warn against letting AI eat its own tail](https://techcrunch.com/2024/07/24/model-collapse-scientists-warn-against-letting-ai-eat-its-own-tail/)
-- [&#39;No Man&#39;s Sky&#39; has refreshed its universe with Worlds Part 1 update &lpar;video&rpar;](https://www.space.com/no-mans-sky-has-refreshed-its-universe-with-worlds-part-1-update-video)
-- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/)
-- [After AgentGPT’s success, Reworkd pivots to web-scraping AI agents](https://techcrunch.com/2024/07/24/reworkd-paul-graham-nat-friedman-daniel-gross-scrape-ai-agents/)
-- [Astranis is set to build Omega constellation after $200M Series D](https://techcrunch.com/2024/07/24/astranis-is-set-to-build-omega-constellation-after-200m-series-d/)
+- [Watch NASA&#39;s massive Artemis 2 rocket core stage arrive in Florida. Next stop: the moon &lpar;video, photos&rpar;](https://www.space.com/nasa-artemis-2-core-stage-kennedy-space-center-arrival)
+- [TechCrunch Minute: A UK school was reprimanded for unlawful use of facial recognition technology](https://techcrunch.com/video/techcrunch-minute-a-uk-school-was-reprimanded-for-unlawful-use-of-facial-recognition-technology/)
+- [Earth-based telescope sees Boeing&#39;s Starliner approach the ISS in broad daylight &lpar;photo&rpar;](https://www.space.com/boeing-starliner-docking-iss-photo-ground-telescope-infrared)
+- [Colin Kaepernick lost control of his story. Now, he wants to help creators own theirs](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/)
+- [CrowdStrike offers a $10 apology gift card to say sorry for outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
