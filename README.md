@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien: The Xenomorph life cycle explained](https://www.space.com/alien-xenomorph-lifecycle-explained)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
-- [CityRock launches second fund to back founders from diverse backgrounds](https://techcrunch.com/2024/07/24/cityrock-venture-partners-launches-second-fund-to-back-early-stage-startups/)
-- [X launches underwhelming Grok-powered ‘More About This Account’ feature](https://techcrunch.com/2024/07/24/x-launches-underwhelming-grok-powered-more-about-this-account-feature/)
-- [Lakera, which protects enterprises from LLM vulnerabilities, raises $20M](https://techcrunch.com/2024/07/24/lakera-which-protects-enterprises-from-llm-vulnerabilities-raises-20m/)
+- [‘Model collapse’: Scientists warn against letting AI eat its own tail](https://techcrunch.com/2024/07/24/model-collapse-scientists-warn-against-letting-ai-eat-its-own-tail/)
+- [&#39;No Man&#39;s Sky&#39; has refreshed its universe with Worlds Part 1 update &lpar;video&rpar;](https://www.space.com/no-mans-sky-has-refreshed-its-universe-with-worlds-part-1-update-video)
+- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/24/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/)
+- [After AgentGPT’s success, Reworkd pivots to web-scraping AI agents](https://techcrunch.com/2024/07/24/reworkd-paul-graham-nat-friedman-daniel-gross-scrape-ai-agents/)
+- [Astranis is set to build Omega constellation after $200M Series D](https://techcrunch.com/2024/07/24/astranis-is-set-to-build-omega-constellation-after-200m-series-d/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
