@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Final &#39;Borderlands&#39; trailer takes us inside the legendary lost vault of Pandora &lpar;video&rpar;](https://www.space.com/borderlands-movie-final-trailer)
-- [&#39;Star Trek: The Illustrated Oral History: The Original Cast&#39; reveals how William Shatner felt about tribbles &lpar;exclusive&rpar;](https://www.space.com/star-trek-illustrated-oral-history-except-making-of-trouble-with-tribbles)
-- [Endeavor CEO says long-term capital needs to be prioritized in emerging ecosystems](https://techcrunch.com/2024/07/25/endeavor-ceo-says-long-term-capital-needs-to-be-prioritized-in-emerging-ecosystems/)
-- [Data breach exposes US spyware maker behind Windows, Mac, Android and Chromebook malware](https://techcrunch.com/2024/07/25/spytech-data-breach-windows-mac-android-chromebook-spyware/)
-- [SpaceX rocket failure highlights need for multiple launch options: &#39;Falcon 9 is not invulnerable&#39;](https://www.space.com/spacex-falcon-9-launch-failure-lessons)
+- [Space is becoming an &#39;unsustainable environment in the long term,&#39; ESA says](https://www.space.com/european-space-agency-space-environment-report)
+- [Disrupt 2024 Career Fair: Your gateway to top tech talent](https://techcrunch.com/2024/07/25/disrupt-2024-career-fair-your-gateway-to-top-tech-talent/)
+- [Substack writers can now draft and publish posts in iOS app](https://techcrunch.com/2024/07/25/substack-writers-can-now-draft-and-publish-posts-in-ios-app/)
+- [ZoomInfo alum raises $15M for startup that builds AI sales engineers](https://techcrunch.com/2024/07/25/zoominfo-alum-raises-15m-for-startup-that-builds-ai-sales-engineers/)
+- [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2024/07/25/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
