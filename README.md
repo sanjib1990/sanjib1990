@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Runaway &#39;failed star&#39; races through the cosmos at 1.2 million mph](https://www.space.com/runaway-brown-dwarf-milky-way-galaxy)
-- [Mark Zuckerberg says WhatsApp has 100 million monthly active users in the U.S.](https://techcrunch.com/2024/07/25/mark-zuckerberg-says-whatsapp-has-100-million-daily-active-users-in-the-u-s/)
+- [X-rays reveal secret gas in huge and distant galaxy cluster](https://www.space.com/x-ray-galaxy-cluster-gas-structure)
+- [With Google in its sights, OpenAI unveils SearchGPT](https://techcrunch.com/2024/07/25/with-google-in-its-sights-openai-unveils-searchgpt/)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 - [Uber, Lyft, DoorDash can continue to classify drivers as contractors in California](https://techcrunch.com/2024/07/25/uber-lyft-doordash-can-continue-to-classify-drivers-as-contractors-in-california/)
-- [50 days after launch to ISS, Boeing&#39;s Starliner still has no landing date](https://www.space.com/boeing-starliner-iss-hot-fire-thruster-troubleshoot)
-- [Alphabet pours $5B into Waymo, Cruise scraps the Origin and Elon’s bet on autonomy](https://techcrunch.com/2024/07/25/alphabet-pours-5b-into-waymo-cruise-scraps-the-origin-and-elons-bet-on-autonomy/)
+- [Runaway &#39;failed star&#39; races through the cosmos at 1.2 million mph](https://www.space.com/runaway-brown-dwarf-milky-way-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
