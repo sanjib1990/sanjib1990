@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Powerful wildfires devastating Canada captured in satellite imagery](https://www.space.com/jasper-wildfire-national-park-satellite-images)
+- [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/)
 - [Discovery of &#39;dark oxygen&#39; from deep-sea metal lumps could trigger rethink of origins of life](https://www.space.com/deep-sea-dark-oxygen-from-metal-lumps-evidence-for-origins-of-life)
 - [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/07/25/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Applied Intuition closes $300M secondary four months after raising $250M](https://techcrunch.com/2024/07/25/applied-intuition-300-million-secondary-fidelity/)
-- [X-rays reveal secret gas in huge and distant galaxy cluster](https://www.space.com/x-ray-galaxy-cluster-gas-structure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
