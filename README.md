@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [bunch raises $15.5M for its platform that simplifies investment management for VCs](https://techcrunch.com/2024/07/25/bunch-raises-15-5m-series-a-for-private-markets-platform-aimed-at-vc-funds/)
+- [Jio partners with Taiwan’s MediaTek to tap into two-wheeler EV market](https://techcrunch.com/2024/07/25/jio-partners-with-taiwans-mediatek-to-tap-into-two-wheeler-ev-market/)
 - [Hacker claims theft of Piramal Group’s employee data](https://techcrunch.com/2024/07/24/hacker-claims-theft-of-piramal-groups-employee-data/)
 - [NASA, Boeing discussing Starliner astronaut mission today: Watch it live](https://www.space.com/nasa-boeing-starliner-press-conference-preview-july-2024)
 - [CRED launches personal finance manager for India’s affluent](https://techcrunch.com/2024/07/24/cred-launches-personal-finance-manager-for-indias-affluent/)
-- [A new Chinese video-generating model appears to be censoring politically sensitive topics](https://techcrunch.com/2024/07/24/a-new-chinese-video-generating-model-appears-to-be-censoring-politically-sensitive-topics/)
-- [Star Catcher wants to build a space power grid to supercharge orbital industry](https://techcrunch.com/2024/07/24/star-catcher-wants-to-build-a-space-power-grid-to-supercharge-orbital-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
