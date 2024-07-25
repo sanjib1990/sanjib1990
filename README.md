@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Florida startup Star Catcher snags $12 million to help develop 1st off-Earth energy grid](https://www.space.com/star-catcher-industries-space-based-power-grid)
+- [Lodestar’s robotic arm will be an orbital ‘first responder’ for satellites in need](https://techcrunch.com/2024/07/25/lodestars-robotic-arm-is-an-orbital-first-responder-for-satellites-in-need/)
 - [Intron Health gets backing for its speech recognition tool that recognizes African accents](https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/)
 - [GM-backed Addionics aims to make lithium-ion batteries cheaper with wavy foil](https://techcrunch.com/2024/07/25/gm-backed-addionics-aims-to-make-lithium-ion-batteries-cheaper-with-wavy-foil/)
 - [Revolut receives long-awaited UK banking license](https://techcrunch.com/2024/07/25/revolut-receives-much-awaited-uk-banking-license/)
-- [ISS scientists make headway in cancer research: &#39;We&#39;re NASA, we do Moonshots&#39;](https://www.space.com/cancer-research-international-space-station-nasa-moonshot)
-- [Oversight Board wants Meta to refine its policies around AI-generated explicit images](https://techcrunch.com/2024/07/25/oversight-board-wants-meta-to-refine-its-policies-around-ai-generated-explicit-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
