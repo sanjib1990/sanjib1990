@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Runaway &#39;failed star&#39; races through the cosmos at 1.2 million mph](https://www.space.com/runaway-brown-dwarf-milky-way-galaxy)
+- [Mark Zuckerberg says WhatsApp has 100 million monthly active users in the U.S.](https://techcrunch.com/2024/07/25/mark-zuckerberg-says-whatsapp-has-100-million-daily-active-users-in-the-u-s/)
+- [Uber, Lyft, DoorDash can continue to classify drivers as contractors in California](https://techcrunch.com/2024/07/25/uber-lyft-doordash-can-continue-to-classify-drivers-as-contractors-in-california/)
+- [50 days after launch to ISS, Boeing&#39;s Starliner still has no landing date](https://www.space.com/boeing-starliner-iss-hot-fire-thruster-troubleshoot)
 - [Alphabet pours $5B into Waymo, Cruise scraps the Origin and Elon’s bet on autonomy](https://techcrunch.com/2024/07/25/alphabet-pours-5b-into-waymo-cruise-scraps-the-origin-and-elons-bet-on-autonomy/)
-- [Marvel&#39;s main &#39;Star Wars&#39; comic book line to progress into the New Republic era this fall](https://www.space.com/marvels-main-star-wars-comic-book-line-to-progress-into-the-new-republic-era-this-fall)
-- [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/)
-- [Next Blue Origin space tourism flight will launch youngest woman above the Kármán line](https://www.space.com/blue-origin-ns-26-space-tourism-crew-youngest-woman)
-- [Watch China test-fire engine for new crewed moon rocket &lpar;video&rpar;](https://www.space.com/china-test-fire-engine-crewed-moon-rocket-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
