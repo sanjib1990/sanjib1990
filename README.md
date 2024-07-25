@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data breach exposes US spyware maker behind Windows, Mac, Android and Chromebook malware](https://techcrunch.com/2024/07/25/spytech-data-breach-windows-mac-android-chromebook-spyware/)
+- [SpaceX rocket failure highlights need for multiple launch options: &#39;Falcon 9 is not invulnerable&#39;](https://www.space.com/spacex-falcon-9-launch-failure-lessons)
+- [Singaporean e-commerce firm Qoo10’s Korean units face probe due to payment delays to merchants](https://techcrunch.com/2024/07/25/singaporean-e-commerce-firm-qoo10s-korean-units-face-probe-due-to-payment-delays-to-merchants/)
+- [Kodiak Robotics is taking self-driving trucks off road to reach profitability faster](https://techcrunch.com/2024/07/25/kodiak-robotics-milestone-driverless/)
 - [Florida startup Star Catcher snags $12 million to help develop 1st off-Earth energy grid](https://www.space.com/star-catcher-industries-space-based-power-grid)
-- [Lodestar’s robotic arm will be an orbital ‘first responder’ for satellites in need](https://techcrunch.com/2024/07/25/lodestars-robotic-arm-is-an-orbital-first-responder-for-satellites-in-need/)
-- [Intron Health gets backing for its speech recognition tool that recognizes African accents](https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/)
-- [GM-backed Addionics aims to make lithium-ion batteries cheaper with wavy foil](https://techcrunch.com/2024/07/25/gm-backed-addionics-aims-to-make-lithium-ion-batteries-cheaper-with-wavy-foil/)
-- [Revolut receives long-awaited UK banking license](https://techcrunch.com/2024/07/25/revolut-receives-much-awaited-uk-banking-license/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
