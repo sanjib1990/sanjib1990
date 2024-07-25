@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intron Health gets backing for its speech recognition tool that recognizes African accents](https://techcrunch.com/2024/07/25/intron-health-raises-1-6m-pre-seed/)
+- [GM-backed Addionics aims to make lithium-ion batteries cheaper with wavy foil](https://techcrunch.com/2024/07/25/gm-backed-addionics-aims-to-make-lithium-ion-batteries-cheaper-with-wavy-foil/)
 - [Revolut receives long-awaited UK banking license](https://techcrunch.com/2024/07/25/revolut-receives-much-awaited-uk-banking-license/)
 - [ISS scientists make headway in cancer research: &#39;We&#39;re NASA, we do Moonshots&#39;](https://www.space.com/cancer-research-international-space-station-nasa-moonshot)
 - [Oversight Board wants Meta to refine its policies around AI-generated explicit images](https://techcrunch.com/2024/07/25/oversight-board-wants-meta-to-refine-its-policies-around-ai-generated-explicit-images/)
-- [Google Maps adds a slew of features to entice Indian drivers, commuters and travelers](https://techcrunch.com/2024/07/25/google-maps-adds-features-to-improve-navigating-flyovers-and-narrow-roads-in-india/)
-- [bunch raises $15.5M for its platform that simplifies investment management for VCs](https://techcrunch.com/2024/07/25/bunch-raises-15-5m-series-a-for-private-markets-platform-aimed-at-vc-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
