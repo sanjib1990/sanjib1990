@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Zuck&#39;s new Llama is a beast](https://www.youtube.com/watch?v=aVvkUuskmLY)
-- [Climate Science, Risk and Solutions: The MIT Climate Primer](https://www.youtube.com/watch?v=kbyNYJgwGFA)
-- [I&#39;m going to be a hacker](https://www.youtube.com/watch?v=TTdPDXTg8Ao)
-- [Crowdstruck &lpar;Windows Outage&rpar; - Computerphile](https://www.youtube.com/watch?v=rlaNMJeA1EA)
-- [Real men test in production… The truth about the CrowdStrike disaster](https://www.youtube.com/watch?v=H9RSeDUdkCA)
+- [11.350 Lecture 5: The Economics of Healthy Buildings](https://www.youtube.com/watch?v=91uxbd_QmUI)
+- [11.350 Lecture 3: The Economics of Green Buildings, Part 2](https://www.youtube.com/watch?v=u3j8Z82I3V4)
+- [11.350 Lecture 14: Financing Sustainable Real Estate at the Portfolio Level](https://www.youtube.com/watch?v=l3G--79qy0U)
+- [11.350 Lecture 11: Policy as a Game Changer for Sustainable Real Estate](https://www.youtube.com/watch?v=84HhjmAn3Tg)
+- [11.350 Lecture 8: Climate Risk and Real Estate Markets](https://www.youtube.com/watch?v=QkyiiMUYH2U)
 <!-- YOUTUBE:END -->
 
 ---
