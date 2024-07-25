@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, Boeing discussing Starliner astronaut mission today: Watch it live](https://www.space.com/nasa-boeing-starliner-press-conference-preview-july-2024)
 - [CRED launches personal finance manager for India’s affluent](https://techcrunch.com/2024/07/24/cred-launches-personal-finance-manager-for-indias-affluent/)
 - [A new Chinese video-generating model appears to be censoring politically sensitive topics](https://techcrunch.com/2024/07/24/a-new-chinese-video-generating-model-appears-to-be-censoring-politically-sensitive-topics/)
 - [Star Catcher wants to build a space power grid to supercharge orbital industry](https://techcrunch.com/2024/07/24/star-catcher-wants-to-build-a-space-power-grid-to-supercharge-orbital-industry/)
 - [The key to detecting deepfakes may lie within deep space](https://www.space.com/deepfake-galaxy-detection-gini-index)
-- [Mistral’s Large 2 is its answer to Meta and OpenAI’s latest models](https://techcrunch.com/2024/07/24/mistral-releases-large-2-meta-openai-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
