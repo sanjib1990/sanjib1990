@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the AI HelpDesk is here!!](https://www.youtube.com/watch?v=c1yNcSXzyB4)
 - [11.350 Lecture 5: The Economics of Healthy Buildings](https://www.youtube.com/watch?v=91uxbd_QmUI)
 - [11.350 Lecture 3: The Economics of Green Buildings, Part 2](https://www.youtube.com/watch?v=u3j8Z82I3V4)
 - [11.350 Lecture 14: Financing Sustainable Real Estate at the Portfolio Level](https://www.youtube.com/watch?v=l3G--79qy0U)
 - [11.350 Lecture 11: Policy as a Game Changer for Sustainable Real Estate](https://www.youtube.com/watch?v=84HhjmAn3Tg)
-- [11.350 Lecture 8: Climate Risk and Real Estate Markets](https://www.youtube.com/watch?v=QkyiiMUYH2U)
 <!-- YOUTUBE:END -->
 
 ---
