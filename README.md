@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alphabet pours $5B into Waymo, Cruise scraps the Origin and Elon’s bet on autonomy](https://techcrunch.com/2024/07/25/alphabet-pours-5b-into-waymo-cruise-scraps-the-origin-and-elons-bet-on-autonomy/)
+- [Marvel&#39;s main &#39;Star Wars&#39; comic book line to progress into the New Republic era this fall](https://www.space.com/marvels-main-star-wars-comic-book-line-to-progress-into-the-new-republic-era-this-fall)
+- [Archera helps customers access deep cloud discounts](https://techcrunch.com/2024/07/25/archera-helps-customers-access-deep-cloud-discounts/)
+- [Next Blue Origin space tourism flight will launch youngest woman above the Kármán line](https://www.space.com/blue-origin-ns-26-space-tourism-crew-youngest-woman)
 - [Watch China test-fire engine for new crewed moon rocket &lpar;video&rpar;](https://www.space.com/china-test-fire-engine-crewed-moon-rocket-video)
-- [Google makes its Gemini chatbot faster and more widely available](https://techcrunch.com/2024/07/25/google-speeds-up-its-gemini-chatbot-and-brings-it-to-more-places/)
-- [TechCrunch Minute: Meta’s new ‘Imagine me’ feature lets you generate AI selfies](https://techcrunch.com/video/techcrunch-minute-metas-new-imagine-me-feature-lets-you-generate-ai-selfies/)
-- [Space is becoming an &#39;unsustainable environment in the long term,&#39; ESA says](https://www.space.com/european-space-agency-space-environment-report)
-- [Disrupt 2024 Career Fair: Your gateway to top tech talent](https://techcrunch.com/2024/07/25/disrupt-2024-career-fair-your-gateway-to-top-tech-talent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
