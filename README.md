@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How stars&#39; magnetic fields could impact the chance for life on orbiting planets](https://www.space.com/exoplanet-star-magnetism-habitability)
+- [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/)
+- [ZeroTier raises $13.5M to help avert CrowdStrike-like network problems](https://techcrunch.com/2024/07/26/zerotier-raises-13-5m-to-help-avert-crowdstrike-like-network-problems/)
 - [Apple cuts iPhone price in India amid China slowdown](https://techcrunch.com/2024/07/26/apple-cuts-iphone-price-in-india-amid-china-slowdown/)
 - [Former astronaut Mark Kelly on shortlist for Harris&#39; VP pick](https://www.space.com/astronaut-mark-kelly-harris-vice-president-candidate)
-- [Egypt’s MNT-Halan banks $157.5M, gobbles up a fintech in Turkey to expand](https://techcrunch.com/2024/07/26/egypts-mnt-halan-banks-157-5m-gobbles-up-a-fintech-in-turkey-to-expand/)
-- [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/)
-- [SpaceX finds cause of Falcon 9 failure, eyes return to flight as soon as July 27](https://www.space.com/spacex-finds-cause-falcon-9-rocket-failure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
