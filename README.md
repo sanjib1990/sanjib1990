@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites are game changers for protecting coral reefs in a warming world](https://www.space.com/coral-reef-monitoring-satellite-images)
 - [How stars&#39; magnetic fields could impact the chance for life on orbiting planets](https://www.space.com/exoplanet-star-magnetism-habitability)
 - [Digital marketing startup Plaiced has acquired Precursor Ventures-backed Clutch](https://techcrunch.com/2024/07/26/digital-marketing-startup-plaiced-has-acquired-precursor-ventures-backed-clutch/)
 - [ZeroTier raises $13.5M to help avert CrowdStrike-like network problems](https://techcrunch.com/2024/07/26/zerotier-raises-13-5m-to-help-avert-crowdstrike-like-network-problems/)
 - [Apple cuts iPhone price in India amid China slowdown](https://techcrunch.com/2024/07/26/apple-cuts-iphone-price-in-india-amid-china-slowdown/)
-- [Former astronaut Mark Kelly on shortlist for Harris&#39; VP pick](https://www.space.com/astronaut-mark-kelly-harris-vice-president-candidate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
