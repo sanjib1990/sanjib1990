@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronauts hold their own Summer Olympics in space &lpar;video&rpar;](https://www.space.com/nasa-astronauts-summer-olympics-2024-iss-video)
 - [SpaceX&#39;s historic Polaris Dawn astronaut mission delayed until mid-August](https://www.space.com/spacex-polaris-dawn-delay-august-2024)
 - [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/)
 - [A moon of Uranus could have a hidden ocean, James Webb Space Telescope finds](https://www.space.com/uranus-moon-ariel-hidden-ocean-james-webb-space-telescope)
 - [Apple reports iCloud Private Relay global outages for some users](https://techcrunch.com/2024/07/26/apples-icloud-private-relay-hit-by-outages-for-some-users/)
-- [Sun blasts out most powerful flare of current solar cycle, sends massive coronal mass ejection into space &lpar;video&rpar;](https://www.space.com/sun-solar-flare-far-side-x14-july-23)
 <!-- BLOG-POST-LIST:END -->
 
 ---
