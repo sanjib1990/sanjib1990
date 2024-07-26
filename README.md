@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX finds cause of Falcon 9 failure, eyes return to flight as soon as July 27](https://www.space.com/spacex-finds-cause-falcon-9-rocket-failure)
 - [NASA&#39;s Perseverance Mars rover finds possible signs of ancient Red Planet life](https://www.space.com/nasa-perseverance-mars-rover-rock-ancient-life)
 - [Powerful wildfires devastating Canada captured in satellite imagery](https://www.space.com/jasper-wildfire-national-park-satellite-images)
 - [Luxury fashion startup The Floorr empowers personal stylists with tools to grow their businesses](https://techcrunch.com/2024/07/25/luxury-fashion-startup-the-floorr-app-personal-stylists/)
 - [Discovery of &#39;dark oxygen&#39; from deep-sea metal lumps could trigger rethink of origins of life](https://www.space.com/deep-sea-dark-oxygen-from-metal-lumps-evidence-for-origins-of-life)
-- [Here’s why David Sacks, Paul Graham and other big Silicon Valley names had a brawl on X over VC behavior](https://techcrunch.com/2024/07/25/david-sacks-paul-graham-silicon-valley-names-brawl-on-x-over-vc-behavior/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
