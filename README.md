@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/)
+- [&#39;Wonderlab&#39; host Emily Calandrelli will fly to suborbital space with Blue Origin](https://www.space.com/emily-calandrelli-wonderlab-blue-origin-suborbital-flight)
+- [SpaceX moving Crew Dragon splashdowns to West Coast after multiple space debris incidents](https://www.space.com/spacex-crew-9-iss-astronaut-space-junk-dragon)
 - [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
 - [Apple signs the White House’s commitment to AI safety](https://techcrunch.com/2024/07/26/apple-signs-the-white-houses-commitment-to-ai-safety/)
-- [Privacy watchdog says it’s ‘surprised’ by Elon Musk opting user data into Grok AI training](https://techcrunch.com/2024/07/26/privacy-watchdog-says-its-surprised-by-elon-musk-opting-user-data-into-grok-ai-training/)
-- [ISS astronaut captures auroras and a meteor in stunning timelapse from space &lpar;video&rpar;](https://www.space.com/international-space-station-stars-auroras-meteor-video)
-- [Europe&#39;s JUICE Jupiter probe flies by Earth on Aug. 20, and it may be visible to some skywatchers](https://www.space.com/esa-juice-jupiter-probe-earth-flyby-august-2024-skywatching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
