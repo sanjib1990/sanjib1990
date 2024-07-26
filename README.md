@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple cuts iPhone price in India amid China slowdown](https://techcrunch.com/2024/07/26/apple-cuts-iphone-price-in-india-amid-china-slowdown/)
 - [Former astronaut Mark Kelly on shortlist for Harris&#39; VP pick](https://www.space.com/astronaut-mark-kelly-harris-vice-president-candidate)
 - [Egypt’s MNT-Halan banks $157.5M, gobbles up a fintech in Turkey to expand](https://techcrunch.com/2024/07/26/egypts-mnt-halan-banks-157-5m-gobbles-up-a-fintech-in-turkey-to-expand/)
 - [Energy tech startup Greenely grabs €8M to reach more households and support Europe’s energy transition](https://techcrunch.com/2024/07/26/energy-tech-startup-greenely-grabs-e8m-to-reach-more-households-and-support-europes-energy-transition/)
 - [SpaceX finds cause of Falcon 9 failure, eyes return to flight as soon as July 27](https://www.space.com/spacex-finds-cause-falcon-9-rocket-failure)
-- [NASA&#39;s Perseverance Mars rover finds possible signs of ancient Red Planet life](https://www.space.com/nasa-perseverance-mars-rover-rock-ancient-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
