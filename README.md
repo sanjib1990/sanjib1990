@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A moon of Uranus could have a hidden ocean, James Webb Space Telescope finds](https://www.space.com/uranus-moon-ariel-hidden-ocean-james-webb-space-telescope)
+- [Apple reports iCloud Private Relay global outages for some users](https://techcrunch.com/2024/07/26/apples-icloud-private-relay-hit-by-outages-for-some-users/)
+- [Sun blasts out most powerful flare of current solar cycle, sends massive coronal mass ejection into space &lpar;video&rpar;](https://www.space.com/sun-solar-flare-far-side-x14-july-23)
 - [Legal tech, VC brawls and saying no to big offers](https://techcrunch.com/2024/07/26/legal-tech-vc-brawls-and-saying-no-to-big-offers/)
 - [&#39;Wonderlab&#39; host Emily Calandrelli will fly to suborbital space with Blue Origin](https://www.space.com/emily-calandrelli-wonderlab-blue-origin-suborbital-flight)
-- [SpaceX moving Crew Dragon splashdowns to West Coast after multiple space debris incidents](https://www.space.com/spacex-crew-9-iss-astronaut-space-junk-dragon)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Apple signs the White House’s commitment to AI safety](https://techcrunch.com/2024/07/26/apple-signs-the-white-houses-commitment-to-ai-safety/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
