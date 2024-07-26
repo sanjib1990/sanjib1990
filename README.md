@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Europe&#39;s JUICE Jupiter probe flys by Earth on Aug. 20, and it may be visible to some skywatchers](https://www.space.com/esa-juice-jupiter-probe-earth-flyby-august-2024-skywatching)
-- [TikTok rolls out a new feature that lets you find songs by singing or humming them](https://techcrunch.com/2024/07/26/tiktok-rolls-out-a-new-feature-that-lets-you-find-songs-by-singing-or-humming-them/)
-- [SpaceX to bounce back from Falcon 9 failure with Starlink launch early on July 27](https://www.space.com/spacex-return-to-flight-falcon-9-launch-starlink)
-- [Alphabet X spinoff Skip partners with Arc’teryx to bring  ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/)
-- [Astroscale&#39;s space debris removal demo mission funded for 2026 launch](https://www.space.com/astroscale-elsa-m-space-debris-removal-funding)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Apple signs the White House’s commitment to AI safety](https://techcrunch.com/2024/07/26/apple-signs-the-white-houses-commitment-to-ai-safety/)
+- [Privacy watchdog says it’s ‘surprised’ by Elon Musk opting user data into Grok AI training](https://techcrunch.com/2024/07/26/privacy-watchdog-says-its-surprised-by-elon-musk-opting-user-data-into-grok-ai-training/)
+- [ISS astronaut captures auroras and a meteor in stunning timelapse from space &lpar;video&rpar;](https://www.space.com/international-space-station-stars-auroras-meteor-video)
+- [Europe&#39;s JUICE Jupiter probe flies by Earth on Aug. 20, and it may be visible to some skywatchers](https://www.space.com/esa-juice-jupiter-probe-earth-flyby-august-2024-skywatching)
 <!-- BLOG-POST-LIST:END -->
 
 ---
