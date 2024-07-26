@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s JUICE Jupiter probe flys by Earth on Aug. 20, and it may be visible to some skywatchers](https://www.space.com/esa-juice-jupiter-probe-earth-flyby-august-2024-skywatching)
+- [TikTok rolls out a new feature that lets you find songs by singing or humming them](https://techcrunch.com/2024/07/26/tiktok-rolls-out-a-new-feature-that-lets-you-find-songs-by-singing-or-humming-them/)
+- [SpaceX to bounce back from Falcon 9 failure with Starlink launch early on July 27](https://www.space.com/spacex-return-to-flight-falcon-9-launch-starlink)
+- [Alphabet X spinoff Skip partners with Arc’teryx to bring  ‘everyday’ exoskeleton to market](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/)
 - [Astroscale&#39;s space debris removal demo mission funded for 2026 launch](https://www.space.com/astroscale-elsa-m-space-debris-removal-funding)
-- [TechCrunch Minute: Microsoft brings more generative AI to Bing](https://techcrunch.com/video/techcrunch-minute-microsoft-brings-more-generative-ai-to-bing/)
-- [Ledger launches Ledger Flex, a mid-range hardware crypto wallet](https://techcrunch.com/2024/07/26/ledger-launches-ledger-flex-a-mid-range-hardware-crypto-wallet/)
-- [How spaceflight’s &#39;parastronaut program&#39; could improve health-care practices here on Earth](https://www.space.com/spaceflight-inclusion-parastronaut-health-care-study)
-- [Here’s how to disable X &lpar;Twitter&rpar; from using your data to train its Grok AI](https://techcrunch.com/2024/07/26/heres-how-to-disable-x-twitter-from-using-your-data-to-train-its-grok-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
