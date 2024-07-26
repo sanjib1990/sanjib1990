@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How spaceflight’s &#39;parastronaut program&#39; could improve health-care practices here on Earth](https://www.space.com/spaceflight-inclusion-parastronaut-health-care-study)
 - [Here’s how to disable X &lpar;Twitter&rpar; from using your data to train its Grok AI](https://techcrunch.com/2024/07/26/heres-how-to-disable-x-twitter-from-using-your-data-to-train-its-grok-ai/)
 - [These 2 US cities are the most vulnerable to solar storms, scientists say](https://www.space.com/us-cities-at-risk-for-solar-storm-damage)
 - [SpaceX cleared to resume Falcon 9 launches while FAA investigation remains open](https://techcrunch.com/2024/07/26/spacex-cleared-to-resume-falcon-9-launches-while-faa-investigation-remains-open/)
 - [Satellites are game changers for protecting coral reefs in a warming world](https://www.space.com/coral-reef-monitoring-satellite-images)
-- [How stars&#39; magnetic fields could impact the chance for life on orbiting planets](https://www.space.com/exoplanet-star-magnetism-habitability)
 <!-- BLOG-POST-LIST:END -->
 
 ---
