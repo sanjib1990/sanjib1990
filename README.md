@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [my new NAS is......weird](https://www.youtube.com/watch?v=jJrnJ9rj6fs)
+- [the FrankeNAS - &lpar;Raspberry Pi, Zima Board, Dell Server, Ugreen&rpar; // a CEPH Tutorial](https://www.youtube.com/watch?v=jJrnJ9rj6fs)
 - [the AI HelpDesk is here!!](https://www.youtube.com/watch?v=c1yNcSXzyB4)
 - [11.350 Lecture 5: The Economics of Healthy Buildings](https://www.youtube.com/watch?v=91uxbd_QmUI)
 - [11.350 Lecture 3: The Economics of Green Buildings, Part 2](https://www.youtube.com/watch?v=u3j8Z82I3V4)
