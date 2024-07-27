@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghostery’s CEO says regulation won’t save us from ad trackers](https://techcrunch.com/2024/07/27/ghosterys-ceo-says-regulation-wont-save-us-from-ad-trackers/)
+- [Apple reaches its first contract agreement with a US retail union](https://techcrunch.com/2024/07/27/apple-reaches-its-first-contract-agreement-with-a-us-retail-union/)
 - [OpenAI comes for Google with SearchGPT](https://techcrunch.com/2024/07/27/openai-comes-for-google-with-searchgpt/)
 - [WazirX to ‘socialize’ $230 million security breach loss among customers](https://techcrunch.com/2024/07/27/wazirx-to-socialize-230-million-security-breach-loss-among-customers/)
 - [Stay up-to-date on the amount of venture dollars going to underrepresented founders](https://techcrunch.com/2024/07/27/stay-up-to-date-on-the-amount-of-venture-dollars-going-to-underrepresented-founders/)
-- [NIST releases a tool for testing AI model risk](https://techcrunch.com/2024/07/27/nist-releases-a-tool-for-testing-ai-model-risk/)
-- [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
