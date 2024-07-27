@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/)
+- [This Week In Space podcast: This Week In Space podcast: Episode 121 —An Exploding Star Near You!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-121-an-exploding-star-near-you)
 - [&#39;Double&#39; meteor shower will light up the skies next week. Here&#39;s how to watch.](https://www.space.com/double-meteor-shower-next-week-how-to-watch)
 - [Lego sets up &#39;space station&#39; at San Diego Comic-Con, offers mission crew patch](https://www.space.com/lego-space-mission-crew-patch-san-diego-comic-con)
 - [Earth is wobbling and days are getting longer — and humans are to blame](https://www.space.com/earth-wobbling-causes-days-to-get-long-because-humans)
-- [World&#39;s largest telescope continues taking shape on Chilean mountain &lpar;photos&rpar;](https://www.space.com/worlds-largest-telescope-elt-construction-photos-june-2024)
-- [NASA astronauts hold their own Summer Olympics in space &lpar;video&rpar;](https://www.space.com/nasa-astronauts-summer-olympics-2024-iss-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
