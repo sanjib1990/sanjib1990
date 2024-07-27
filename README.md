@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth is wobbling and days are getting longer — and humans are to blame](https://www.space.com/earth-wobbling-causes-days-to-get-long-because-humans)
 - [World&#39;s largest telescope continues taking shape on Chilean mountain &lpar;photos&rpar;](https://www.space.com/worlds-largest-telescope-elt-construction-photos-june-2024)
 - [NASA astronauts hold their own Summer Olympics in space &lpar;video&rpar;](https://www.space.com/nasa-astronauts-summer-olympics-2024-iss-video)
 - [SpaceX&#39;s historic Polaris Dawn astronaut mission delayed until mid-August](https://www.space.com/spacex-polaris-dawn-delay-august-2024)
 - [Stripe acquires payment processing startup Lemon Squeezy](https://techcrunch.com/2024/07/26/stripe-acquires-payment-processing-startup-lemon-squeezy/)
-- [A moon of Uranus could have a hidden ocean, James Webb Space Telescope finds](https://www.space.com/uranus-moon-ariel-hidden-ocean-james-webb-space-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
