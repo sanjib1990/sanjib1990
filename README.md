@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stay up-to-date on the amount of venture dollars going to underrepresented founders](https://techcrunch.com/2024/07/27/stay-up-to-date-on-the-amount-of-venture-dollars-going-to-underrepresented-founders/)
+- [NIST releases a tool for testing AI model risk](https://techcrunch.com/2024/07/27/nist-releases-a-tool-for-testing-ai-model-risk/)
 - [Max Space reinvents expandable habitats with a 17th-century twist, launching in 2026](https://techcrunch.com/2024/07/27/max-space-reinvents-expandable-habitats-with-a-17th-century-twist-launching-in-2026/)
 - [This Week In Space podcast: This Week In Space podcast: Episode 121 —An Exploding Star Near You!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-121-an-exploding-star-near-you)
 - [&#39;Double&#39; meteor shower will light up the skies next week. Here&#39;s how to watch.](https://www.space.com/double-meteor-shower-next-week-how-to-watch)
-- [Lego sets up &#39;space station&#39; at San Diego Comic-Con, offers mission crew patch](https://www.space.com/lego-space-mission-crew-patch-san-diego-comic-con)
-- [Earth is wobbling and days are getting longer — and humans are to blame](https://www.space.com/earth-wobbling-causes-days-to-get-long-because-humans)
 <!-- BLOG-POST-LIST:END -->
 
 ---
