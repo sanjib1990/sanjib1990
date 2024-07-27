@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Double&#39; meteor shower will light up the skies next week. Here&#39;s how to watch.](https://www.space.com/double-meteor-shower-next-week-how-to-watch)
 - [Lego sets up &#39;space station&#39; at San Diego Comic-Con, offers mission crew patch](https://www.space.com/lego-space-mission-crew-patch-san-diego-comic-con)
 - [Earth is wobbling and days are getting longer — and humans are to blame](https://www.space.com/earth-wobbling-causes-days-to-get-long-because-humans)
 - [World&#39;s largest telescope continues taking shape on Chilean mountain &lpar;photos&rpar;](https://www.space.com/worlds-largest-telescope-elt-construction-photos-june-2024)
 - [NASA astronauts hold their own Summer Olympics in space &lpar;video&rpar;](https://www.space.com/nasa-astronauts-summer-olympics-2024-iss-video)
-- [SpaceX&#39;s historic Polaris Dawn astronaut mission delayed until mid-August](https://www.space.com/spacex-polaris-dawn-delay-august-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
