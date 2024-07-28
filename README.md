@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A tale of two foldables](https://techcrunch.com/2024/07/28/a-tale-of-two-foldables/)
 - [SpaceX launches back-to-back Starlink satellite missions &lpar;photos, videos&rpar;](https://www.space.com/spacex-starlink-launch-doubleheader-july-2024)
 - [Sierra Space won&#39;t stop blowing up inflatable space station modules &lpar;video&rpar;](https://www.space.com/sierra-space-second-full-scale-burst-test-video)
 - [Earth&#39;s plate tectonics fired up hundreds of millions of years earlier than we thought, ancient crystals reveal](https://www.space.com/plate-tectonics-fired-up-hundreds-of-millions-of-years-earlier-than-thought-ancient-crystals)
 - [What it takes to keep NASA&#39;s flagship Chandra observatory flying for a quarter century](https://www.space.com/chandra-25-years-celebration-nasa)
-- [NASA telescope may have found antimatter annihilating in possibly the biggest explosion since the Big Bang](https://www.space.com/nasa-boat-gamma-ray-burst-antimatter-annihilation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
