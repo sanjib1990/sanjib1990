@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What it takes to keep NASA&#39;s flagship Chandra observatory flying for a quarter century](https://www.space.com/chandra-25-years-celebration-nasa)
+- [Earth&#39;s plate tectonics fired up hundreds of millions of years earlier than we thought, ancient crystals reveal](https://www.space.com/plate-tectonics-fired-up-hundreds-of-millions-of-years-earlier-than-thought-ancient-crystals)
 - [NASA telescope may have found antimatter annihilating in possibly the biggest explosion since the Big Bang](https://www.space.com/nasa-boat-gamma-ray-burst-antimatter-annihilation)
 - [10 weird water worlds in the solar system and beyond](https://www.space.com/weird-water-worlds-solar-system-and-beyond)
 - [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/)
-- [Ghostery’s CEO says regulation won’t save us from ad trackers](https://techcrunch.com/2024/07/27/ghosterys-ceo-says-regulation-wont-save-us-from-ad-trackers/)
-- [Apple reaches its first contract agreement with a US retail union](https://techcrunch.com/2024/07/27/apple-reaches-its-first-contract-agreement-with-a-us-retail-union/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
