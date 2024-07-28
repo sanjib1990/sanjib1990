@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Google, who wants an AI-written fan letter?](https://techcrunch.com/2024/07/28/dear-google-who-wants-an-ai-written-fan-letter/)
 - [MatPat, the first big YouTuber to successfully exit his company, is lobbying for creators on Capitol Hill](https://techcrunch.com/2024/07/28/matpat-the-first-big-youtuber-to-successfully-exit-his-company-is-lobbying-for-creators-on-capitol-hill/)
 - [A tale of two foldables](https://techcrunch.com/2024/07/28/a-tale-of-two-foldables/)
 - [SpaceX launches back-to-back Starlink satellite missions &lpar;photos, videos&rpar;](https://www.space.com/spacex-starlink-launch-doubleheader-july-2024)
 - [Sierra Space won&#39;t stop blowing up inflatable space station modules &lpar;video&rpar;](https://www.space.com/sierra-space-second-full-scale-burst-test-video)
-- [Earth&#39;s plate tectonics fired up hundreds of millions of years earlier than we thought, ancient crystals reveal](https://www.space.com/plate-tectonics-fired-up-hundreds-of-millions-of-years-earlier-than-thought-ancient-crystals)
 <!-- BLOG-POST-LIST:END -->
 
 ---
