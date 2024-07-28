@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA telescope may have found antimatter annihilating in possibly the biggest explosion since the Big Bang](https://www.space.com/nasa-boat-gamma-ray-burst-antimatter-annihilation)
 - [10 weird water worlds in the solar system and beyond](https://www.space.com/weird-water-worlds-solar-system-and-beyond)
 - [Autonomous delivery startup Nuro is gearing up for a comeback](https://techcrunch.com/2024/07/27/autonomous-delivery-startup-nuro-is-gearing-up-for-a-comeback/)
 - [Ghostery’s CEO says regulation won’t save us from ad trackers](https://techcrunch.com/2024/07/27/ghosterys-ceo-says-regulation-wont-save-us-from-ad-trackers/)
 - [Apple reaches its first contract agreement with a US retail union](https://techcrunch.com/2024/07/27/apple-reaches-its-first-contract-agreement-with-a-us-retail-union/)
-- [OpenAI comes for Google with SearchGPT](https://techcrunch.com/2024/07/27/openai-comes-for-google-with-searchgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
