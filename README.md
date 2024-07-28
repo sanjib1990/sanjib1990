@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The first teaser trailer for &#39;Star Trek: Section 31&#39; shows Michelle Yeoh as a &#39;lively&#39; secret agent Emperor Georgiou &lpar;video&rpar;](https://www.space.com/star-trek-section-31-first-teaser-trailer-michelle-yeoh)
 - [Dear Google, who wants an AI-written fan letter?](https://techcrunch.com/2024/07/28/dear-google-who-wants-an-ai-written-fan-letter/)
 - [MatPat, the first big YouTuber to successfully exit his company, is lobbying for creators on Capitol Hill](https://techcrunch.com/2024/07/28/matpat-the-first-big-youtuber-to-successfully-exit-his-company-is-lobbying-for-creators-on-capitol-hill/)
 - [A tale of two foldables](https://techcrunch.com/2024/07/28/a-tale-of-two-foldables/)
 - [SpaceX launches back-to-back Starlink satellite missions &lpar;photos, videos&rpar;](https://www.space.com/spacex-starlink-launch-doubleheader-july-2024)
-- [Sierra Space won&#39;t stop blowing up inflatable space station modules &lpar;video&rpar;](https://www.space.com/sierra-space-second-full-scale-burst-test-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
