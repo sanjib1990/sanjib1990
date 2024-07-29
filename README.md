@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/)
-- [TechCrunch Minute: Doomscrolling probably isn’t great for your mental health](https://techcrunch.com/video/techcrunch-minute-doomscrolling-probably-isnt-great-for-your-mental-health/)
-- [Watch a colossal X-class solar flare erupt from Earth-facing sunspot &lpar;video&rpar;](https://www.space.com/x-flare-eruption-july-radio-blackout-asia-australia)
-- [Dark matter could play &#39;matchmaker&#39; for supermassive black holes](https://www.space.com/dark-matter-final-parsec-problem)
-- [India’s Rapido becomes a unicorn with fresh $120M funding](https://techcrunch.com/2024/07/29/indias-rapido-becomes-unicorn-with-fresh-120-million-funding/)
+- [Satellites watch devastating Park Fire rage from space &lpar;video&rpar;](https://www.space.com/satellites-california-park-fire-july-2024)
+- [Uber now lets users in India book three trips at once](https://techcrunch.com/2024/07/29/uber-now-lets-users-in-india-book-three-trips-at-once/)
+- [SpaceX fires up Starship spacecraft ahead of 5th test flight &lpar;photos, video&rpar;](https://www.space.com/spacex-test-fire-starship-spacecraft-flight-5)
+- [Yes, Americans can opt out of airport facial recognition. Here’s how](https://techcrunch.com/2024/07/29/yes-americans-can-opt-out-of-airport-facial-recognition-heres-how/)
+- [Boeing&#39;s Starliner tests thrusters at ISS as NASA reviews options for astronauts&#39; return to Earth](https://www.space.com/boeing-starliner-iss-hot-fire-reentry-preparation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
