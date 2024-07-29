@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: Doomscrolling probably isn’t great for your mental health](https://techcrunch.com/video/techcrunch-minute-doomscrolling-probably-isnt-great-for-your-mental-health/)
+- [Watch a colossal X-class solar flare erupt from Earth-facing sunspot &lpar;video&rpar;](https://www.space.com/x-flare-eruption-july-radio-blackout-asia-australia)
 - [Dark matter could play &#39;matchmaker&#39; for supermassive black holes](https://www.space.com/dark-matter-final-parsec-problem)
 - [India’s Rapido becomes unicorn with fresh $120 million funding](https://techcrunch.com/2024/07/29/indias-rapido-becomes-unicorn-with-fresh-120-million-funding/)
 - [Dead stars sometimes shine again — and gravity itself may be responsible](https://www.space.com/dead-stars-sometimes-shine-again-gravity-may-be-responsible)
-- [Aurora alert: Strong geomagnetic storm could spark northern lights at mid-latitudes across US and Europe](https://www.space.com/aurora-alert-northern-lights-july-mid-latitudes-us-europe-cannibal-cme)
-- [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
