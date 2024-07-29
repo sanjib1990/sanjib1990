@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon meet Mars, follow the Arc to Arcturus and keep your eyes peeled for meteors and more this week](https://www.space.com/what-to-see-night-sky-this-week-moon-meet-mars-meteors-arcturus)
 - [US border agents must get warrant before cell phone searches, federal court rules](https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/)
 - [&#39;That was a really wild experience&#39;: How brand-new NASA astronaut Andre Douglas joined Artemis 2 moon mission &lpar;exclusive&rpar;](https://www.space.com/artemis-2-nasa-astronaut-backup-andre-douglas-how-he-joined)
 - [UK’s Zapp EV plans to expand globally with an early start in India](https://techcrunch.com/2024/07/28/uks-zapp-ev-plans-to-expand-globally-with-early-start-in-india/)
 - [First teaser trailer for &#39;Star Trek: Section 31&#39; shows Michelle Yeoh as a &#39;lively&#39; secret agent Emperor Georgiou &lpar;video&rpar;](https://www.space.com/star-trek-section-31-first-teaser-trailer-michelle-yeoh)
-- [Dear Google, who wants an AI-written fan letter?](https://techcrunch.com/2024/07/28/dear-google-who-wants-an-ai-written-fan-letter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
