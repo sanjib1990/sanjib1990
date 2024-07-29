@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora alert: Strong geomagnetic storm could spark northern lights at mid-latitudes across US and Europe](https://www.space.com/aurora-alert-northern-lights-july-mid-latitudes-us-europe-cannibal-cme)
+- [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/)
+- [Lego NASA Artemis Space Launch System review](https://www.space.com/lego-nasa-artemis-space-launch-system-review)
 - [See the moon meet Mars, follow the Arc to Arcturus and keep your eyes peeled for meteors and more this week](https://www.space.com/what-to-see-night-sky-this-week-moon-meet-mars-meteors-arcturus)
 - [US border agents must get warrant before cell phone searches, federal court rules](https://techcrunch.com/2024/07/29/us-border-agents-must-get-warrant-before-cell-phone-searches-federal-court-rules/)
-- [&#39;That was a really wild experience&#39;: How brand-new NASA astronaut Andre Douglas joined Artemis 2 moon mission &lpar;exclusive&rpar;](https://www.space.com/artemis-2-nasa-astronaut-backup-andre-douglas-how-he-joined)
-- [UK’s Zapp EV plans to expand globally with an early start in India](https://techcrunch.com/2024/07/28/uks-zapp-ev-plans-to-expand-globally-with-early-start-in-india/)
-- [First teaser trailer for &#39;Star Trek: Section 31&#39; shows Michelle Yeoh as a &#39;lively&#39; secret agent Emperor Georgiou &lpar;video&rpar;](https://www.space.com/star-trek-section-31-first-teaser-trailer-michelle-yeoh)
 <!-- BLOG-POST-LIST:END -->
 
 ---
