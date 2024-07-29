@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [UK’s Zapp EV plans to expand globally with an early start in India](https://techcrunch.com/2024/07/28/uks-zapp-ev-plans-to-expand-globally-with-early-start-in-india/)
-- [The first teaser trailer for &#39;Star Trek: Section 31&#39; shows Michelle Yeoh as a &#39;lively&#39; secret agent Emperor Georgiou &lpar;video&rpar;](https://www.space.com/star-trek-section-31-first-teaser-trailer-michelle-yeoh)
+- [First teaser trailer for &#39;Star Trek: Section 31&#39; shows Michelle Yeoh as a &#39;lively&#39; secret agent Emperor Georgiou &lpar;video&rpar;](https://www.space.com/star-trek-section-31-first-teaser-trailer-michelle-yeoh)
 - [Dear Google, who wants an AI-written fan letter?](https://techcrunch.com/2024/07/28/dear-google-who-wants-an-ai-written-fan-letter/)
 - [MatPat, the first big YouTuber to successfully exit his company, is lobbying for creators on Capitol Hill](https://techcrunch.com/2024/07/28/matpat-the-first-big-youtuber-to-successfully-exit-his-company-is-lobbying-for-creators-on-capitol-hill/)
 - [A tale of two foldables](https://techcrunch.com/2024/07/28/a-tale-of-two-foldables/)
