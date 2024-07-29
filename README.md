@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DEI backlash: Stay up-to-date on the latest legal and corporate challenges](https://techcrunch.com/2024/07/29/dei-backlash-stay-up-to-date-on-the-latest-legal-and-corporate-challenges/)
 - [TechCrunch Minute: Doomscrolling probably isn’t great for your mental health](https://techcrunch.com/video/techcrunch-minute-doomscrolling-probably-isnt-great-for-your-mental-health/)
 - [Watch a colossal X-class solar flare erupt from Earth-facing sunspot &lpar;video&rpar;](https://www.space.com/x-flare-eruption-july-radio-blackout-asia-australia)
 - [Dark matter could play &#39;matchmaker&#39; for supermassive black holes](https://www.space.com/dark-matter-final-parsec-problem)
-- [India’s Rapido becomes unicorn with fresh $120 million funding](https://techcrunch.com/2024/07/29/indias-rapido-becomes-unicorn-with-fresh-120-million-funding/)
-- [Dead stars sometimes shine again — and gravity itself may be responsible](https://www.space.com/dead-stars-sometimes-shine-again-gravity-may-be-responsible)
+- [India’s Rapido becomes a unicorn with fresh $120M funding](https://techcrunch.com/2024/07/29/indias-rapido-becomes-unicorn-with-fresh-120-million-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
