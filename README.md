@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: Catching stars](https://techcrunch.com/2024/07/29/techcrunch-space-catching-stars/)
+- [Here&#39;s what the 2024 Summer Olympics in Paris look like from space &lpar;photos&rpar;](https://www.space.com/2024-summer-olympics-paris-satellite-photo)
+- [The question haunting Fisker’s bankruptcy](https://techcrunch.com/2024/07/29/fisker-bankruptcy-heights-capital-loans-assets-liqudiation/)
 - [&#39;Star Trek: Strange New Worlds&#39;: Pike and crew go full Vulcan in first Season 3 clip &lpar;video&rpar;](https://www.space.com/star-trek-strange-new-worlds-season-3-trailer)
 - [Making AI models ‘forget’ undesirable data hurts their performance](https://techcrunch.com/2024/07/29/making-ai-models-forget-undesirable-data-hurts-their-performance/)
-- [Watch Atlas V rocket launch on its final national security mission early July 30](https://www.space.com/atlas-v-final-national-security-launch-ussf-51-)
-- [&#39;Star Trek: Lower Decks&#39; Season 5 trailer launches the crew on one last wacky mission &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-season-5-trailer)
-- [Park Fire rages across California in stunning satellite video](https://www.space.com/satellites-california-park-fire-july-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
