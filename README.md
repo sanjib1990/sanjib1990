@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellites watch devastating Park Fire rage from space &lpar;video&rpar;](https://www.space.com/satellites-california-park-fire-july-2024)
+- [&#39;Star Trek: Lower Decks&#39; Season 5 trailer launches the crew on one last wacky mission &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-season-5-trailer)
+- [Watch devastating Park Fire rage in stunning satellite video](https://www.space.com/satellites-california-park-fire-july-2024)
 - [Uber now lets users in India book three trips at once](https://techcrunch.com/2024/07/29/uber-now-lets-users-in-india-book-three-trips-at-once/)
 - [SpaceX fires up Starship spacecraft ahead of 5th test flight &lpar;photos, video&rpar;](https://www.space.com/spacex-test-fire-starship-spacecraft-flight-5)
 - [Yes, Americans can opt out of airport facial recognition. Here’s how](https://techcrunch.com/2024/07/29/yes-americans-can-opt-out-of-airport-facial-recognition-heres-how/)
-- [Boeing&#39;s Starliner tests thrusters at ISS as NASA reviews options for astronauts&#39; return to Earth](https://www.space.com/boeing-starliner-iss-hot-fire-reentry-preparation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
