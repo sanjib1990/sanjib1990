@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark matter could play &#39;matchmaker&#39; for supermassive black holes](https://www.space.com/dark-matter-final-parsec-problem)
+- [India’s Rapido becomes unicorn with fresh $120 million funding](https://techcrunch.com/2024/07/29/indias-rapido-becomes-unicorn-with-fresh-120-million-funding/)
 - [Dead stars sometimes shine again — and gravity itself may be responsible](https://www.space.com/dead-stars-sometimes-shine-again-gravity-may-be-responsible)
 - [Aurora alert: Strong geomagnetic storm could spark northern lights at mid-latitudes across US and Europe](https://www.space.com/aurora-alert-northern-lights-july-mid-latitudes-us-europe-cannibal-cme)
 - [GovWell is bringing automation and efficiency to local governments](https://techcrunch.com/2024/07/29/govwell-is-bringing-automation-and-efficiency-to-local-governments/)
-- [Lego NASA Artemis Space Launch System review](https://www.space.com/lego-nasa-artemis-space-launch-system-review)
-- [See the moon meet Mars, follow the Arc to Arcturus and keep your eyes peeled for meteors and more this week](https://www.space.com/what-to-see-night-sky-this-week-moon-meet-mars-meteors-arcturus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
