@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [80% of programmers are NOT happy… why?](https://www.youtube.com/watch?v=-pSf9_MgsZ4)
 - [Am I going to jail for web scraping?](https://www.youtube.com/watch?v=8GhFmQPZAlo)
 - [the FrankeNAS - &lpar;Raspberry Pi, Zima Board, Dell Server, Ugreen&rpar; // a CEPH Tutorial](https://www.youtube.com/watch?v=jJrnJ9rj6fs)
 - [the AI HelpDesk is here!!](https://www.youtube.com/watch?v=c1yNcSXzyB4)
 - [11.350 Lecture 5: The Economics of Healthy Buildings](https://www.youtube.com/watch?v=91uxbd_QmUI)
-- [11.350 Lecture 3: The Economics of Green Buildings, Part 2](https://www.youtube.com/watch?v=u3j8Z82I3V4)
 <!-- YOUTUBE:END -->
 
 ---
