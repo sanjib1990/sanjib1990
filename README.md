@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple says it took a ‘responsible’ approach to training its Apple Intelligence models](https://techcrunch.com/2024/07/29/apple-says-it-took-a-responsible-approach-to-training-its-apple-intelligence-models/)
+- [Huang and Zuckerberg swapped jackets at SIGGRAPH 2024 and things got weird](https://techcrunch.com/2024/07/29/huang-and-zuckerberg-swapped-jackets-at-siggraph-2024-and-things-got-weird/)
+- [Zuckerberg touts Meta’s latest video vision AI with Nvidia CEO Jensen Huang](https://techcrunch.com/2024/07/29/zuckerberg-touts-metas-latest-video-vision-ai-with-nvidia-ceo-jensen-huang/)
+- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/07/29/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/)
 - [&#39;It&#39;s never dumbed-down&#39;: &#39;Futurama&#39; Season 12 stars Billy West and Lauren Tom on the series&#39; lasting appeal &lpar;exclusive&rpar;](https://www.space.com/futurama-season-12-billy-west-lauren-tom-interview)
-- [TechCrunch Space: Catching stars](https://techcrunch.com/2024/07/29/techcrunch-space-catching-stars/)
-- [Here&#39;s what the 2024 Summer Olympics in Paris look like from space &lpar;photos&rpar;](https://www.space.com/2024-summer-olympics-paris-satellite-photo)
-- [The question haunting Fisker’s bankruptcy](https://techcrunch.com/2024/07/29/fisker-bankruptcy-heights-capital-loans-assets-liqudiation/)
-- [&#39;Star Trek: Strange New Worlds&#39;: Pike and crew go full Vulcan in first Season 3 clip &lpar;video&rpar;](https://www.space.com/star-trek-strange-new-worlds-season-3-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
