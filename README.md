@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Packing travel insurance products into an app helped FAYE to a $31M Series B](https://techcrunch.com/2024/07/30/packing-travel-insurance-products-into-an-app-helped-faye-to-a-31m-series-b/)
+- [Watch Rocket Lab launch Earth-observing radar satellite today](https://www.space.com/rocket-lab-owl-for-one-synspective-mission-launch)
 - [The building blocks of life can form rapidly around young stars](https://www.space.com/life-ingredients-form-dust-traps-young-stars)
-- [Sennder buys CH Robinson’s European business](https://techcrunch.com/2024/07/30/sennder-buys-ch-robinsons-european-business/)
-- [Egypt’s Cartona raises $8.1M even as investors pull back from B2B e-commerce in Africa](https://techcrunch.com/2024/07/30/egypts-cartona-raises-8-1m-even-as-investors-pull-back-from-b2b-e-commerce-in-africa/)
-- [Qoo10’s CEO pledges personal assets worth $58M to compensate Korean merchants affected by its liquidity crisis](https://techcrunch.com/2024/07/30/qoo10s-ceo-pledges-personal-assets-worth-58m-to-compensate-korean-merchants-affected-by-its-liquidity-crisis/)
+- [&#39;It&#39;s never dumbed-down&#39;: &#39;Futurama&#39; Season 12 stars Billy West and Lauren Tom on the series&#39; lasting appeal &lpar;exclusive&rpar;](https://www.space.com/futurama-season-12-billy-west-lauren-tom-interview)
+- [Here&#39;s what the 2024 Summer Olympics in Paris look like from space &lpar;photos&rpar;](https://www.space.com/2024-summer-olympics-paris-satellite-photo)
+- [&#39;Star Trek: Strange New Worlds&#39;: Pike and crew go full Vulcan in first Season 3 clip &lpar;video&rpar;](https://www.space.com/star-trek-strange-new-worlds-season-3-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
