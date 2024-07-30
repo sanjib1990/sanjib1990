@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sennder buys CH Robinson’s European business](https://techcrunch.com/2024/07/30/sennder-buys-ch-robinsons-european-business/)
 - [Egypt’s Cartona raises $8.1M even as investors pull back from B2B e-commerce in Africa](https://techcrunch.com/2024/07/30/egypts-cartona-raises-8-1m-even-as-investors-pull-back-from-b2b-e-commerce-in-africa/)
 - [Qoo10’s CEO pledges personal assets worth $58M to compensate Korean merchants affected by its liquidity crisis](https://techcrunch.com/2024/07/30/qoo10s-ceo-pledges-personal-assets-worth-58m-to-compensate-korean-merchants-affected-by-its-liquidity-crisis/)
 - [Qualcomm’s new Snapdragon chip aims to bring 5G to sub-$100 devices](https://techcrunch.com/2024/07/30/qualcomm-launches-snapdragon-4s-gen-2-chip-to-bring-5g-to-the-masses/)
 - [Zoe, a microbiome-focused nutrition company, raises $15 million to expand in the U.S.](https://techcrunch.com/2024/07/30/nutrition-microbiome-zoe/)
-- [Apple brings Apple Intelligence with iOS 18.1 dev beta, but there are a lot of limitations](https://techcrunch.com/2024/07/29/apple-brings-apple-intelligence-with-ios-18-1-dev-beta-but-there-are-a-lot-of-limitations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
