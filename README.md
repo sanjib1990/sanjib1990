@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These inventive ideas could help Artemis astronauts make drinking water on the moon](https://www.space.com/uk-canada-moon-water-purification-aqualunar-challenge)
 - [Google-inspired AI model improves Cape Canaveral space launch weather forecasts by 50%](https://www.space.com/google-ai-weather-models-cape-canaveral-rocket-launches)
 - [Astrophotographer peers into a cosmic &#39;eye&#39; looking out into the universe](https://www.space.com/milky-way-eye-alqueva-portugal-miguel-claro)
 - [The SEC has charged an a16z and Sequoia-backed crypto startup founder with fraud](https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/)
 - [It took some serious nerve for Wiz to walk away from Google’s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/)
-- [Astronaut traveling to Titan loses his grip on reality in 1st &#39;Slingshot&#39; trailer &lpar;video&rpar;](https://www.space.com/slingshot-trailer-laurence-fishburne-casey-affleck)
 <!-- BLOG-POST-LIST:END -->
 
 ---
