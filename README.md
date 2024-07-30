@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographer peers into a cosmic &#39;eye&#39; looking out into the universe](https://www.space.com/milky-way-eye-alqueva-portugal-miguel-claro)
+- [The SEC has charged an a16z and Sequoia-backed crypto startup founder with fraud](https://techcrunch.com/2024/07/30/sec-charged-crypto-founder-bitclout-startup-backed-by-a16z-sequoia/)
+- [It took some serious nerve for Wiz to walk away from Google’s $23B offer](https://techcrunch.com/2024/07/30/it-took-some-serious-nerve-for-wiz-to-walk-away-from-googles-23b-offer/)
 - [Astronaut traveling to Titan loses his grip on reality in 1st &#39;Slingshot&#39; trailer &lpar;video&rpar;](https://www.space.com/slingshot-trailer-laurence-fishburne-casey-affleck)
 - [OpenAI releases ChatGPT’s hyper-realistic voice to some paying users](https://techcrunch.com/2024/07/30/openai-releases-chatgpts-super-realistic-voice-feature/)
-- [Spain’s antitrust watchdog fines Booking.com nearly $450M for unfair terms and restricting rivals](https://techcrunch.com/2024/07/30/spains-antitrust-watchdog-fines-booking-com-nearly-450m-for-unfair-terms-and-restricting-rivals/)
-- [Controversial internet bill KOSA passed by Senate](https://techcrunch.com/2024/07/30/controversial-internet-bill-kosa-passed-by-senate/)
-- [Dark matter ghosts its way through powerful &lpar;and messy&rpar; collision of galaxy clusters](https://www.space.com/dark-matter-ghosts-galaxy-cluster-collisions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
