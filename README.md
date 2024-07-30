@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Alien: Romulus&#39; one-shot comic reveals dark secrets of deadly xenomorphs](https://www.space.com/alien-romulus-comic-xenomorph-secrets)
+- [Real-time database startup ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [EU calls for help with shaping rules for general purpose AIs](https://techcrunch.com/2024/07/30/eu-calls-for-help-with-shaping-rules-for-general-purpose-ais/)
 - [Siddhi Capital grabs $135M for Fund II to invest in consumer packaged goods startups](https://techcrunch.com/2024/07/30/siddhi-capital-fund-2/)
-- [Japan&#39;s ispace will fly a tiny European-built lunar rover to the moon this year &lpar;photo&rpar;](https://www.space.com/ispace-mini-moon-rover-tenacious)
-- [Perplexity details plan to share ad revenue with outlets cited by its AI chatbot](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/)
-- [Fertility tracking app Flo Health raises $200M at a $1B+ valuation](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/)
-- [Meta is rolling out its AI Studio in the U.S. for creators to build AI chatbots](https://techcrunch.com/2024/07/30/meta-is-rolling-out-its-ai-studio-in-the-u-s-for-creators-to-build-ai-chatbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
