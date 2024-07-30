@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Alien: Romulus&#39; one-shot comic reveals dark secrets of deadly xenomorphs](https://www.space.com/alien-romulus-comic-xenomorph-secrets)
-- [Real-time database startup ClickHouse acquires PeerDB to expand its Postgres support](https://techcrunch.com/2024/07/30/real-time-database-startup-clickhouse-acquires-peerdb-to-expand-its-postgres-support/)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [EU calls for help with shaping rules for general purpose AIs](https://techcrunch.com/2024/07/30/eu-calls-for-help-with-shaping-rules-for-general-purpose-ais/)
-- [Siddhi Capital grabs $135M for Fund II to invest in consumer packaged goods startups](https://techcrunch.com/2024/07/30/siddhi-capital-fund-2/)
+- [Disinformation may ‘go nuclear’ rather than ‘go viral,’ researchers say](https://techcrunch.com/2024/07/30/disinformation-may-go-nuclear-rather-than-go-viral-researchers-say/)
+- [Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/30/amplify-your-brand-by-hosting-side-events-at-techcrunch-disrupt-2024/)
+- [FranShares has a new approach to passive income, letting people invest in franchises for as little as $500](https://techcrunch.com/2024/07/30/franshares-has-a-new-approach-to-passive-income-letting-people-invest-in-franchises-for-as-little-as-500/)
+- [Moxxie Ventures, led by ex-Twitter media head, raises $95M third fund](https://techcrunch.com/2024/07/30/moxxie-ventures-led-by-ex-twitter-media-head-raises-95m-third-fund/)
+- [These 17th-century drawings of the sun by Kepler add fire to solar cycle mystery](https://www.space.com/sun-johannes-kepler-sunspots-drawings-solar-cycle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
