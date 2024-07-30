@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech giant Stripe keeps on buying](https://techcrunch.com/2024/07/30/fintech-giant-stripe-keeps-on-buying/)
+- [New &#39;Transformers One&#39; trailer reveals the root of Optimus Prime and Megatron&#39;s rivalry](https://www.space.com/transformers-one-movie-trailer-optimus-prime-megatron)
+- [Meta will pay Texas $1.4B in settlement over facial recognition software](https://techcrunch.com/2024/07/30/meta-will-pay-texas-1-4b-in-settlement-over-facial-recognition-software/)
+- [Airtable acquihires onboarding startup Dopt for AI talent](https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/)
 - [Watch an exclusive clip from the next episode of SYFY&#39;s &#39;The Ark&#39; Season 2 &lpar;video&rpar;](https://www.space.com/syfy-the-ark-episode-203-exclusive-clip)
-- [Friend’s $99 necklace uses AI to help combat loneliness](https://techcrunch.com/2024/07/30/friend-is-an-ai-companion-backed-by-founders-of-solana-perplexity-and-zfellows/)
-- [TechCrunch Minute: Will AI get dumber?](https://techcrunch.com/video/watch-will-ai-get-dumber/)
-- [Hey, there ARE Growth funds in Europe — Kennet raises $287M for its largest fund to date](https://techcrunch.com/2024/07/30/hey-there-are-growth-funds-in-europe-kennet-raises-287m-for-its-largest-fund-to-date/)
-- [NASA&#39;s DART asteroid impact mission revealed ages of twin space rock targets &lpar;images&rpar;](https://www.space.com/dart-asteroid-mission-didymos-dimorphos-age-origins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
