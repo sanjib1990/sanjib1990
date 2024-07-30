@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut traveling to Titan loses his grip on reality in 1st &#39;Slingshot&#39; trailer &lpar;video&rpar;](https://www.space.com/slingshot-trailer-laurence-fishburne-casey-affleck)
+- [OpenAI releases ChatGPT’s hyper-realistic voice to some paying users](https://techcrunch.com/2024/07/30/openai-releases-chatgpts-super-realistic-voice-feature/)
+- [Spain’s antitrust watchdog fines Booking.com nearly $450M for unfair terms and restricting rivals](https://techcrunch.com/2024/07/30/spains-antitrust-watchdog-fines-booking-com-nearly-450m-for-unfair-terms-and-restricting-rivals/)
+- [Controversial internet bill KOSA passed by Senate](https://techcrunch.com/2024/07/30/controversial-internet-bill-kosa-passed-by-senate/)
 - [Dark matter ghosts its way through powerful &lpar;and messy&rpar; collision of galaxy clusters](https://www.space.com/dark-matter-ghosts-galaxy-cluster-collisions)
-- [Spotify expands lyrics access for free users](https://techcrunch.com/2024/07/30/spotify-expands-monthly-limit-lyrics-free-users/)
-- [The moon, Mars and Jupiter form a predawn triangle on July 31. Here&#39;s how to see it](https://www.space.com/moon-mars-jupiter-predawn-triangle-july-31-2024)
-- [Fintech giant Stripe keeps on buying](https://techcrunch.com/2024/07/30/fintech-giant-stripe-keeps-on-buying/)
-- [New &#39;Transformers One&#39; trailer reveals the root of Optimus Prime and Megatron&#39;s rivalry](https://www.space.com/transformers-one-movie-trailer-optimus-prime-megatron)
 <!-- BLOG-POST-LIST:END -->
 
 ---
