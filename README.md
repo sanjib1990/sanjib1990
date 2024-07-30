@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disinformation may ‘go nuclear’ rather than ‘go viral,’ researchers say](https://techcrunch.com/2024/07/30/disinformation-may-go-nuclear-rather-than-go-viral-researchers-say/)
-- [Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/30/amplify-your-brand-by-hosting-side-events-at-techcrunch-disrupt-2024/)
-- [FranShares has a new approach to passive income, letting people invest in franchises for as little as $500](https://techcrunch.com/2024/07/30/franshares-has-a-new-approach-to-passive-income-letting-people-invest-in-franchises-for-as-little-as-500/)
-- [Moxxie Ventures, led by ex-Twitter media head, raises $95M third fund](https://techcrunch.com/2024/07/30/moxxie-ventures-led-by-ex-twitter-media-head-raises-95m-third-fund/)
-- [These 17th-century drawings of the sun by Kepler add fire to solar cycle mystery](https://www.space.com/sun-johannes-kepler-sunspots-drawings-solar-cycle)
+- [Watch an exclusive clip from the next episode of SYFY&#39;s &#39;The Ark&#39; Season 2 &lpar;video&rpar;](https://www.space.com/syfy-the-ark-episode-203-exclusive-clip)
+- [Friend’s $99 necklace uses AI to help combat loneliness](https://techcrunch.com/2024/07/30/friend-is-an-ai-companion-backed-by-founders-of-solana-perplexity-and-zfellows/)
+- [TechCrunch Minute: Will AI get dumber?](https://techcrunch.com/video/watch-will-ai-get-dumber/)
+- [Hey, there ARE Growth funds in Europe — Kennet raises $287M for its largest fund to date](https://techcrunch.com/2024/07/30/hey-there-are-growth-funds-in-europe-kennet-raises-287m-for-its-largest-fund-to-date/)
+- [NASA&#39;s DART asteroid impact mission revealed ages of twin space rock targets &lpar;images&rpar;](https://www.space.com/dart-asteroid-mission-didymos-dimorphos-age-origins)
 <!-- BLOG-POST-LIST:END -->
 
 ---
