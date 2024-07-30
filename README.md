@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple brings Apple Intelligence with iOS 18.1 dev beta, but there are a lot of limitations](https://techcrunch.com/2024/07/29/apple-brings-apple-intelligence-with-ios-18-1-dev-beta-but-there-are-a-lot-of-limitations/)
+- [Canva acquires Leonardo.ai to boost its generative AI efforts](https://techcrunch.com/2024/07/29/canva-acquires-leonardo-ai-to-boost-its-generative-ai-efforts/)
 - [U.S. Commerce Department report endorses ‘open’ AI models](https://techcrunch.com/2024/07/29/u-s-commerce-department-report-endorses-open-ai-models/)
 - [Lime is piloting two new e-bikes to attract more women and older riders](https://techcrunch.com/2024/07/29/lime-is-piloting-two-new-e-bikes-to-attract-more-women-and-older-riders/)
 - [Apple says it took a ‘responsible’ approach to training its Apple Intelligence models](https://techcrunch.com/2024/07/29/apple-says-it-took-a-responsible-approach-to-training-its-apple-intelligence-models/)
-- [Huang and Zuckerberg swapped jackets at SIGGRAPH 2024 and things got weird](https://techcrunch.com/2024/07/29/huang-and-zuckerberg-swapped-jackets-at-siggraph-2024-and-things-got-weird/)
-- [Zuckerberg touts Meta’s latest video vision AI with Nvidia CEO Jensen Huang](https://techcrunch.com/2024/07/29/zuckerberg-touts-metas-latest-video-vision-ai-with-nvidia-ceo-jensen-huang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
