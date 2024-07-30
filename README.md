@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Rocket Lab launch Earth-observing radar satellite today](https://www.space.com/rocket-lab-owl-for-one-synspective-mission-launch)
-- [The building blocks of life can form rapidly around young stars](https://www.space.com/life-ingredients-form-dust-traps-young-stars)
-- [&#39;It&#39;s never dumbed-down&#39;: &#39;Futurama&#39; Season 12 stars Billy West and Lauren Tom on the series&#39; lasting appeal &lpar;exclusive&rpar;](https://www.space.com/futurama-season-12-billy-west-lauren-tom-interview)
-- [Here&#39;s what the 2024 Summer Olympics in Paris look like from space &lpar;photos&rpar;](https://www.space.com/2024-summer-olympics-paris-satellite-photo)
-- [&#39;Star Trek: Strange New Worlds&#39;: Pike and crew go full Vulcan in first Season 3 clip &lpar;video&rpar;](https://www.space.com/star-trek-strange-new-worlds-season-3-trailer)
+- [Siddhi Capital grabs $135M for Fund II to invest in consumer packaged goods startups](https://techcrunch.com/2024/07/30/siddhi-capital-fund-2/)
+- [Japan&#39;s ispace will fly a tiny European-built lunar rover to the moon this year &lpar;photo&rpar;](https://www.space.com/ispace-mini-moon-rover-tenacious)
+- [Perplexity details plan to share ad revenue with outlets cited by its AI chatbot](https://techcrunch.com/2024/07/30/perplexitys-plan-to-share-ad-revenue-with-outlets-cited-by-its-ai-chatbot/)
+- [Fertility tracking app Flo Health raises $200M at a $1B+ valuation](https://techcrunch.com/2024/07/30/fertility-tracking-app-flo-health-raises-200m-at-a-1b-valuation/)
+- [Meta is rolling out its AI Studio in the U.S. for creators to build AI chatbots](https://techcrunch.com/2024/07/30/meta-is-rolling-out-its-ai-studio-in-the-u-s-for-creators-to-build-ai-chatbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
