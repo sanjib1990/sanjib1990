@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark matter ghosts its way through powerful &lpar;and messy&rpar; collision of galaxy clusters](https://www.space.com/dark-matter-ghosts-galaxy-cluster-collisions)
+- [Spotify expands lyrics access for free users](https://techcrunch.com/2024/07/30/spotify-expands-monthly-limit-lyrics-free-users/)
+- [The moon, Mars and Jupiter form a predawn triangle on July 31. Here&#39;s how to see it](https://www.space.com/moon-mars-jupiter-predawn-triangle-july-31-2024)
 - [Fintech giant Stripe keeps on buying](https://techcrunch.com/2024/07/30/fintech-giant-stripe-keeps-on-buying/)
 - [New &#39;Transformers One&#39; trailer reveals the root of Optimus Prime and Megatron&#39;s rivalry](https://www.space.com/transformers-one-movie-trailer-optimus-prime-megatron)
-- [Meta will pay Texas $1.4B in settlement over facial recognition software](https://techcrunch.com/2024/07/30/meta-will-pay-texas-1-4b-in-settlement-over-facial-recognition-software/)
-- [Airtable acquihires onboarding startup Dopt for AI talent](https://techcrunch.com/2024/07/30/no-code-platform-airtable-acquires-onboarding-startup-dopt-to-bring-on-more-ai-talent/)
-- [Watch an exclusive clip from the next episode of SYFY&#39;s &#39;The Ark&#39; Season 2 &lpar;video&rpar;](https://www.space.com/syfy-the-ark-episode-203-exclusive-clip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
