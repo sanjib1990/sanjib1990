@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lightrun launches its AI debugger to help developers fix their production code](https://techcrunch.com/2024/07/31/lightrun-launches-its-ai-debugger-to-help-developers-fix-their-production-code/)
-- [Space-junk scout captures amazing fly-around footage of discarded rocket in orbit &lpar;video&rpar;](https://www.space.com/astroscale-debris-removal-adras-j-video)
-- [Threads now highlights relevant trending topics above posts](https://techcrunch.com/2024/07/31/threads-now-highlights-relevant-trending-topics-above-posts/)
-- [No, Boeing Starliner&#39;s NASA astronauts are not stranded in space. Here&#39;s why.](https://www.space.com/boeing-starliner-nasa-astronauts-not-stranded-space)
-- [Bumble and Hinge allowed stalkers to pinpoint users’ locations down to 2 meters, researchers say](https://techcrunch.com/2024/07/31/bumble-and-hinge-allowed-stalkers-to-pinpoint-users-locations-down-to-2-meters-researchers-say/)
+- [Date Like Goblins, a new dating platform, allows users to virtually date and play video games](https://techcrunch.com/2024/07/31/date-like-goblins-dating-platform-for-gamers/)
+- [Leaf helps farms decipher the troves of data they generate](https://techcrunch.com/2024/07/31/leaf-helps-farms-decipher-the-troves-of-data-they-generate/)
+- [Venus returns to the night sky as an &#39;Evening Star,&#39; and its going to be brilliant](https://www.space.com/here-she-comes-venus-is-back)
+- [Checkly tests software by mimicking the way people use it](https://techcrunch.com/2024/07/31/checkly-tests-software-by-mimicking-the-way-people-use-it/)
+- [Travel startup Mindtrip’s new feature lets you build an itinerary from a screenshot, YouTube or TikTok video](https://techcrunch.com/2024/07/31/travel-startup-mindtrips-new-feature-lets-you-build-an-itinerary-from-a-screenshot-youtube-or-tiktok-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
