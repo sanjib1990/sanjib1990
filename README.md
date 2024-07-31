@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bumble and Hinge allowed stalkers to pinpoint users’ locations down to 2 meters, researchers say](https://techcrunch.com/2024/07/31/bumble-and-hinge-allowed-stalkers-to-pinpoint-users-locations-down-to-2-meters-researchers-say/)
 - [Tiger Global partner Alex Cook to leave firm, sources say](https://techcrunch.com/2024/07/30/tiger-global-partner-alex-cook-to-leave-firm-sources-say/)
 - [OpenAI endorses Senate bills that could shape America’s AI policy](https://techcrunch.com/2024/07/30/openai-endorses-senate-bills-that-could-shape-americas-ai-policy/)
 - [Lineaje raises $20M to help organizations combat software supply chain threats](https://techcrunch.com/2024/07/30/lineaje-raises-20m-to-help-organizations-combat-software-supply-chain-threats/)
 - [These inventive ideas could help Artemis astronauts make drinking water on the moon](https://www.space.com/uk-canada-moon-water-purification-aqualunar-challenge)
-- [Google-inspired AI model improves Cape Canaveral space launch weather forecasts by 50%](https://www.space.com/google-ai-weather-models-cape-canaveral-rocket-launches)
 <!-- BLOG-POST-LIST:END -->
 
 ---
