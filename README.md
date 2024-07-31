@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [You need these skills to become a hacker](https://www.youtube.com/watch?v=pVFq4opI9gM)
 - [Scala in 100 Seconds](https://www.youtube.com/watch?v=I7-hxTbpscU)
 - [80% of programmers are NOT happy… why?](https://www.youtube.com/watch?v=-pSf9_MgsZ4)
 - [Am I going to jail for web scraping?](https://www.youtube.com/watch?v=8GhFmQPZAlo)
 - [the FrankeNAS - &lpar;Raspberry Pi, Zima Board, Dell Server, Ugreen&rpar; // a CEPH Tutorial](https://www.youtube.com/watch?v=jJrnJ9rj6fs)
-- [the AI HelpDesk is here!!](https://www.youtube.com/watch?v=c1yNcSXzyB4)
 <!-- YOUTUBE:END -->
 
 ---
