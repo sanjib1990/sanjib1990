@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps announces new features and somehow none of them are ‘pause navigation’](https://techcrunch.com/2024/07/31/google-maps-navigate-pause-button/)
 - [Hubble spots a stunning spiral galaxy shining in the &#39;Little Lion&#39; &lpar;image&rpar;](https://www.space.com/hubble-classic-spiral-galaxy-ngc3430)
 - [AI startups ramp up federal lobbying efforts](https://techcrunch.com/2024/07/31/ai-startups-ramp-up-federal-lobbying-efforts/)
 - [Magnetic fields on the sun could solve longstanding solar heating mystery](https://www.space.com/sun-magnetism-hot-outer-atmosphere)
 - [Bungie employees say they were caught off-guard by 17% staff reduction](https://techcrunch.com/2024/07/31/bungie-employees-say-they-were-caught-off-guard-by-17-staff-reduction/)
-- [Copyright Office tells Congress: ‘Urgent need’ to outlaw AI-powered impersonation](https://techcrunch.com/2024/07/31/copyright-office-tells-congress-urgent-need-to-outlaw-ai-powered-impersonation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
