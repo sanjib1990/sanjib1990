@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Magnetic fields on the sun could solve longstanding solar heating mystery](https://www.space.com/sun-magnetism-hot-outer-atmosphere)
+- [Bungie employees say they were caught off-guard by 17% staff reduction](https://techcrunch.com/2024/07/31/bungie-employees-say-they-were-caught-off-guard-by-17-staff-reduction/)
+- [Copyright Office tells Congress: ‘Urgent need’ to outlaw AI-powered impersonation](https://techcrunch.com/2024/07/31/copyright-office-tells-congress-urgent-need-to-outlaw-ai-powered-impersonation/)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/07/31/tech-layoffs-2024-list/)
 - [Can the moon help preserve Earth&#39;s endangered species?](https://www.space.com/moon-lunar-biorepository-endangered-species)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/07/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Moon robots could build stone walls to protect lunar bases from rocket exhaust](https://www.space.com/moon-bases-rock-wall-autonomous-excavators)
-- [How to enable Apple Intelligence on your iPhone](https://techcrunch.com/2024/07/31/how-to-enable-apple-intelligence-on-your-iphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
