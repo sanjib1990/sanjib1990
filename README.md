@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [Synctera, Unit, and Treasury Prime execs discuss the future of BaaS at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/)
+- [We used 1,000 historical photos to reconstruct Antarctic glaciers before a dramatic collapse](https://www.space.com/1000-historical-photos-reconstruct-antarctic-glaciers)
 - [Renaissance astronomer Tycho Brahe&#39;s lab is home to a centuries-old chemical mystery](https://www.space.com/astronomer-tycho-brahe-lab-tungsten-mystery)
 - [Tezi is building an AI agent for hiring managers](https://techcrunch.com/2024/07/31/tezi-is-building-an-ai-agent-for-hiring-managers/)
-- [Northern lights delight as &#39;cannibal&#39; solar storm triggers auroras across US and Canada &lpar;photos&rpar;](https://www.space.com/northern-lights-cannibal-solar-storm-us-canada-photos)
-- [Sybill raises $11M for its AI assistant that helps salespeople reduce administrative burden](https://techcrunch.com/2024/07/31/sybill-raises-11m-for-its-ai-assistant-that-helps-salespeople-reduce-administrative-burden/)
-- [Date Like Goblins, a new dating platform, allows users to virtually date and play video games](https://techcrunch.com/2024/07/31/date-like-goblins-dating-platform-for-gamers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
