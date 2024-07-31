@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [Synctera, Unit, and Treasury Prime execs discuss the future of BaaS at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/)
-- [We used 1,000 historical photos to reconstruct Antarctic glaciers before a dramatic collapse](https://www.space.com/1000-historical-photos-reconstruct-antarctic-glaciers)
-- [Renaissance astronomer Tycho Brahe&#39;s lab is home to a centuries-old chemical mystery](https://www.space.com/astronomer-tycho-brahe-lab-tungsten-mystery)
-- [Tezi is building an AI agent for hiring managers](https://techcrunch.com/2024/07/31/tezi-is-building-an-ai-agent-for-hiring-managers/)
+- [&#39;A Quiet Place: Day One&#39; VFX chief on the Death Angels&#39; sensitive side &lpar;exclusive&rpar;](https://www.space.com/entertainment/a-quiet-place-day-one-vfx-chief-on-the-death-angels-sensitive-side-exclusive-interview)
+- [TechCrunch Minute: Investors pour money into non-alcoholic beverages](https://techcrunch.com/video/techcrunch-minute-investors-pour-money-into-non-alcoholic-beverages/)
+- [Match Group cuts 6% of staff as it shifts focus from livestreaming to AI](https://techcrunch.com/2024/07/31/match-group-ends-live-streaming-service-layoffs/)
+- [Neura shows off humanoid robot 4NE-1](https://techcrunch.com/2024/07/31/neura-shows-off-humanoid-robot-4ne-1/)
+- [Bending Spoons acquires file transfer service WeTransfer](https://techcrunch.com/2024/07/31/bending-spoons-acquires-file-transfer-service-wetransfer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
