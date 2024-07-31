@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moon robots could build stone walls to protect lunar bases from rocket exhaust](https://www.space.com/moon-bases-rock-wall-autonomous-excavators)
+- [How to enable Apple Intelligence on your iPhone](https://techcrunch.com/2024/07/31/how-to-enable-apple-intelligence-on-your-iphone/)
 - [This Week in AI: Companies are growing skeptical of AI’s ROI](https://techcrunch.com/2024/07/31/this-week-in-ai-companies-are-growing-skeptical-of-ais-roi/)
 - [Ghostly &#39;zodiacal light&#39; glows above the Very Large Telescope in Chile &lpar;photo&rpar;](https://www.space.com/zodiacal-light-very-large-telescope-photo)
 - [Over 100 VCs pledge support for Kamala Harris](https://techcrunch.com/2024/07/31/over-100-silicon-valley-vcs-pledge-to-vote-for-kamala-harris/)
-- [&#39;A Quiet Place: Day One&#39; VFX chief on the Death Angels&#39; sensitive side &lpar;exclusive&rpar;](https://www.space.com/entertainment/a-quiet-place-day-one-vfx-chief-on-the-death-angels-sensitive-side-exclusive-interview)
-- [TechCrunch Minute: Investors pour money into non-alcoholic beverages](https://techcrunch.com/video/techcrunch-minute-investors-pour-money-into-non-alcoholic-beverages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
