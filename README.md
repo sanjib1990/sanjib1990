@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Renaissance astronomer Tycho Brahe&#39;s lab is home to a centuries-old chemical mystery](https://www.space.com/astronomer-tycho-brahe-lab-tungsten-mystery)
+- [Tezi is building an AI agent for hiring managers](https://techcrunch.com/2024/07/31/tezi-is-building-an-ai-agent-for-hiring-managers/)
+- [Northern lights delight as &#39;cannibal&#39; solar storm triggers auroras across US and Canada &lpar;photos&rpar;](https://www.space.com/northern-lights-cannibal-solar-storm-us-canada-photos)
+- [Sybill raises $11M for its AI assistant that helps salespeople reduce administrative burden](https://techcrunch.com/2024/07/31/sybill-raises-11m-for-its-ai-assistant-that-helps-salespeople-reduce-administrative-burden/)
 - [Date Like Goblins, a new dating platform, allows users to virtually date and play video games](https://techcrunch.com/2024/07/31/date-like-goblins-dating-platform-for-gamers/)
-- [Leaf helps farms decipher the troves of data they generate](https://techcrunch.com/2024/07/31/leaf-helps-farms-decipher-the-troves-of-data-they-generate/)
-- [Venus returns to the night sky as an &#39;Evening Star,&#39; and its going to be brilliant](https://www.space.com/here-she-comes-venus-is-back)
-- [Checkly tests software by mimicking the way people use it](https://techcrunch.com/2024/07/31/checkly-tests-software-by-mimicking-the-way-people-use-it/)
-- [Travel startup Mindtrip’s new feature lets you build an itinerary from a screenshot, YouTube or TikTok video](https://techcrunch.com/2024/07/31/travel-startup-mindtrips-new-feature-lets-you-build-an-itinerary-from-a-screenshot-youtube-or-tiktok-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
