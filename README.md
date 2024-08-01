@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 23 Starlink satellites to orbit early Aug. 2](https://www.space.com/spacex-starlink-launch-group-10-6)
 - [Never played the Borderlands games? Here&#39;s what you need to know ahead of the Borderlands movie](https://www.space.com/what-you-need-to-know-ahead-of-the-borderlands-movie)
 - [How filming a capella concerts and dance recitals led Northzone’s newest parter Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-parter-molly-alter-to-a-career-in-vc/)
 - [Could galaxy cluster collisions be used as dark matter detectors?](https://www.space.com/galaxy-cluster-collisions-dark-matter)
 - [&#39;Cosmic dawn:&#39; NASA&#39;s Roman Space Telescope will get baby pictures of our universe](https://www.space.com/nasa-grace-roman-space-telescope-cosmic-dawn)
-- [Microsoft now lists OpenAI as a competitor in AI and search](https://techcrunch.com/2024/08/01/microsoft-now-lists-openai-as-a-competitor-in-ai-and-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
