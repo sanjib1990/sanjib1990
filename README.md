@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vast plans microgravity lab on its Haven-1 private space station](https://techcrunch.com/2024/08/01/vast-plans-microgravity-lab-on-its-haven-1-private-space-station/)
-- [Open-source startup FOSSA is buying StackShare, a site used by 1.5 million developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/)
-- [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
-- [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/)
-- [The EU’s AI Act is now in force](https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/)
+- [Anthony Levandowski bets on off-road autonomy, Nuro plots a comeback and Applied Intuition gets more investor love](https://techcrunch.com/2024/08/01/anthony-levandowski-bets-on-off-road-autonomy-nuro-plots-a-comeback-and-applied-intuition-gets-more-investor-love/)
+- [What do Yoda and Darth Plagueis cameos mean for the future of &#39;Star Wars: The Acolyte&#39;?](https://www.space.com/yoda-darth-plagueis-cameos-the-acolyte)
+- [Google Cloud expands its database portfolio with new AI capabilities](https://techcrunch.com/2024/08/01/google-cloud-expands-its-database-portfolio-with-new-ai-capabilities/)
+- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/)
+- [Why Anthony Levandowski returned to his off-road autonomous vehicle roots with AV startup Pronto](https://techcrunch.com/2024/08/01/why-anthony-levandowski-pronto-av-startup-offroad/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
