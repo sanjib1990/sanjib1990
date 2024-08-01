@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia-backed Knowde raises Series C at a valuation cut](https://techcrunch.com/2024/08/01/sequoia-backed-knowde-raises-series-c-at-a-valuation-cut/)
+- [This mesmerizing NASA animation shows how carbon dioxide moves through Earth&#39;s atmosphere &lpar;video&rpar;](https://www.space.com/nasa-animation-how-carbon-dioxide-moves-earth-atmosphere)
+- [Self-driving truck startup Aurora Innovation to sell up to $420M in shares ahead of commercial launch](https://techcrunch.com/2024/08/01/self-driving-truck-startup-aurora-innovation-to-sell-up-to-420m-in-shares-ahead-of-commercial-launch/)
+- [Twitter disappears from Mac App Store](https://techcrunch.com/2024/08/01/twitter-app-mac-store-2024/)
 - [On this day in space! August 1, 1774: Oxygen is discovered!](https://www.space.com/39251-on-this-day-in-space.html)
-- [If we want to settle on other planets, we’ll have to use genome editing to alter human DNA](https://www.space.com/settling-other-planets-will-mean-human-genome-editing)
-- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/)
-- [Google brings Gemini-powered search history and Lens to Chrome desktop](https://techcrunch.com/2024/08/01/google-brings-gemini-powered-search-history-and-lens-to-chrome-desktop/)
-- [Saturn threw a comet out of the solar system at 6,700 mph. Here&#39;s how](https://www.space.com/saturn-threw-comet-out-of-solar-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
