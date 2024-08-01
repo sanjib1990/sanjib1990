@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX resumes astronaut launches on Aug. 18 with Crew-9 mission to ISS](https://www.space.com/spacex-nasa-crew-9-launch-date)
+- [AI music startup Suno claims training model on copyrighted music is ‘fair use’](https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/)
+- [iPad sales help bail out Apple amid a continued iPhone slide](https://techcrunch.com/2024/08/01/ipad-sales-help-bail-out-apple-amid-a-continued-iphone-slide/)
 - [SpaceX launching 23 Starlink satellites to orbit early Aug. 2](https://www.space.com/spacex-starlink-launch-group-10-6)
 - [Never played the Borderlands games? Here&#39;s what you need to know ahead of the Borderlands movie](https://www.space.com/what-you-need-to-know-ahead-of-the-borderlands-movie)
-- [How filming a capella concerts and dance recitals led Northzone’s newest parter Molly Alter to a career in VC](https://techcrunch.com/2024/08/01/how-filming-a-capella-concerts-and-dance-recitals-led-northzones-newest-parter-molly-alter-to-a-career-in-vc/)
-- [Could galaxy cluster collisions be used as dark matter detectors?](https://www.space.com/galaxy-cluster-collisions-dark-matter)
-- [&#39;Cosmic dawn:&#39; NASA&#39;s Roman Space Telescope will get baby pictures of our universe](https://www.space.com/nasa-grace-roman-space-telescope-cosmic-dawn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
