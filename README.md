@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vast plans microgravity lab on its Haven-1 private space station](https://techcrunch.com/2024/08/01/vast-plans-microgravity-lab-on-its-haven-1-private-space-station/)
 - [Open-source startup FOSSA is buying StackShare, a site used by 1.5 million developers](https://techcrunch.com/2024/08/01/open-source-startup-fossa-is-buying-stackshare-a-site-used-by-1-5-million-developers/)
 - [Google Cloud now has a dedicated cluster of Nvidia GPUs for Y Combinator startups](https://techcrunch.com/2024/08/01/google-cloud-now-has-a-dedicated-cluster-of-nvidia-gpus-for-y-combinator-startups/)
 - [Indian startups gut valuations ahead of IPO push](https://techcrunch.com/2024/08/01/indian-startups-ola-electric-firstcry-gut-valuations-ahead-of-ipos/)
 - [The EU’s AI Act is now in force](https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/)
-- [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
