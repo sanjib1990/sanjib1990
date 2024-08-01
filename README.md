@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthony Levandowski bets on off-road autonomy, Nuro plots a comeback and Applied Intuition gets more investor love](https://techcrunch.com/2024/08/01/anthony-levandowski-bets-on-off-road-autonomy-nuro-plots-a-comeback-and-applied-intuition-gets-more-investor-love/)
-- [What do Yoda and Darth Plagueis cameos mean for the future of &#39;Star Wars: The Acolyte&#39;?](https://www.space.com/yoda-darth-plagueis-cameos-the-acolyte)
-- [Google Cloud expands its database portfolio with new AI capabilities](https://techcrunch.com/2024/08/01/google-cloud-expands-its-database-portfolio-with-new-ai-capabilities/)
-- [VC darling Rad Power Bikes hit with another round of layoffs](https://techcrunch.com/2024/08/01/rad-power-bikes-layoffs/)
-- [Why Anthony Levandowski returned to his off-road autonomous vehicle roots with AV startup Pronto](https://techcrunch.com/2024/08/01/why-anthony-levandowski-pronto-av-startup-offroad/)
+- [On this day in space! August 1, 1774: Oxygen is discovered!](https://www.space.com/39251-on-this-day-in-space.html)
+- [If we want to settle on other planets, we’ll have to use genome editing to alter human DNA](https://www.space.com/settling-other-planets-will-mean-human-genome-editing)
+- [Heeyo built an AI chatbot to be a billion kids’ interactive tutor and friend](https://techcrunch.com/2024/08/01/heeyo-built-an-ai-chatbot-to-be-a-billion-kids-interactive-tutor-and-friend/)
+- [Google brings Gemini-powered search history and Lens to Chrome desktop](https://techcrunch.com/2024/08/01/google-brings-gemini-powered-search-history-and-lens-to-chrome-desktop/)
+- [Saturn threw a comet out of the solar system at 6,700 mph. Here&#39;s how](https://www.space.com/saturn-threw-comet-out-of-solar-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
