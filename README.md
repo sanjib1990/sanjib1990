@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI pledges to give U.S. AI Safety Institute early access to its next model](https://techcrunch.com/2024/07/31/openai-pledges-to-give-u-s-ai-safety-institute-early-access-to-its-next-model/)
 - [Meta says India is the largest market for Meta AI usage](https://techcrunch.com/2024/07/31/india-is-the-largest-market-for-meta-ai-usage/)
 - [Founder behind social media app IRL charged with fraud](https://techcrunch.com/2024/07/31/founder-behind-social-media-app-irl-charged-with-fraud/)
 - [Fintech Execs from Synctera, Unit, and Treasury Prime discuss the future of BaaS at TechCrunch Disrupt 2024](https://techcrunch.com/2024/07/31/synctera-unit-and-treasury-prime-execs-discuss-the-future-of-baas-at-techcrunch-disrupt-2024/)
 - [Google releases new ‘open’ AI models with a focus on safety](https://techcrunch.com/2024/07/31/google-releases-new-open-ai-models-with-a-focus-on-safety/)
-- [Google Maps announces new features and somehow none of them are ‘pause navigation’](https://techcrunch.com/2024/07/31/google-maps-navigate-pause-button/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
