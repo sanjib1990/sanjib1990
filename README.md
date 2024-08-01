@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The EU’s AI Act is now in force](https://techcrunch.com/2024/08/01/the-eus-ai-act-is-now-in-force/)
 - [Healx, an AI-enabled drug discovery platform for rare diseases, raises $47M](https://techcrunch.com/2024/08/01/healx-an-ai-enabled-drug-discovery-platform-for-rare-diseases-raises-47m/)
 - [EU greenlights HPE’s $14B Juniper Networks acquisition](https://techcrunch.com/2024/08/01/eu-greenlights-hpes-14b-juniper-networks-acquisition/)
 - [After ISS: The private space station era is dawning](https://www.space.com/private-space-stations-commercializing-low-earth-orbit)
 - [Zuckerberg says Meta will need 10x more computing power to train Llama 4 than Llama 3](https://techcrunch.com/2024/08/01/zuckerberg-says-meta-will-need-10x-more-computing-power-to-train-llama-4-than-llama-3/)
-- [Axle Energy’s sprint to decarbonize the grid lights up with $9M seed led by Accel](https://techcrunch.com/2024/08/01/axle-energys-sprint-to-decarbonize-the-grid-lights-up-with-9m-seed-led-by-accel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
