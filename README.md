@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the &#39;unconventional&#39; Blue Moon of August 2024](https://www.space.com/blue-moon-august-2024)
+- [On this day in space! August 2, 1932: The positron is discovered](https://www.space.com/39251-on-this-day-in-space.html)
+- [Pharma giant Cencora is alerting millions about its data breach](https://techcrunch.com/2024/08/02/pharma-giant-cencora-is-alerting-millions-about-its-data-breach/)
+- [Self-driving truck startup Aurora Innovation to sell up to $420M in shares ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-to-sell-up-to-420m-in-shares-ahead-of-commercial-launch/)
 - [New &#39;Star Trek: Lower Decks&#39; comic series coming this fall](https://www.space.com/star-trek-lower-decks-comic-series-fall-preview)
-- [SpaceX Crew-9 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Venus may be able to support life, new atmospheric evidence suggests](https://www.space.com/venus-atmosphere-phosphine-ammonia-possibility-of-life)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
