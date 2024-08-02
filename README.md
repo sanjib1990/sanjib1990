@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud infrastructure revenue approached $80 billion this quarter](https://techcrunch.com/2024/08/02/cloud-infrastructure-revenue-approached-80-billion-this-quarter/)
-- [TechCrunch Minute: Why did Wiz walk away from $23 billion?](https://techcrunch.com/video/techcrunch-minute-why-did-wiz-walk-away-from-23-billion/)
-- [Test your space debris catching skills in new game released by Astroscale](https://www.space.com/astroscale-space-protector-debris-simulation-game)
-- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
-- [Don&#39;t miss the &#39;unconventional&#39; Blue Moon of August 2024](https://www.space.com/blue-moon-august-2024)
+- [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/)
+- [The moon&#39;s thin atmosphere is made by constant meteorite bombardment](https://www.space.com/moon-atmosphere-meteorite-impacts)
+- [Character.AI CEO Noam Shazeer returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
+- [Adept Materials’ dehumidifying paint was inspired by trees and semiconductors](https://techcrunch.com/2024/08/02/adept-materials-dehumidifying-paint-was-inspired-by-trees-and-semiconductors/)
+- [Yelp’s lack of transparency around API charges angers developers](https://techcrunch.com/2024/08/02/yelps-lack-of-transparency-around-api-charges-angers-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
