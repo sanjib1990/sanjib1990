@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 2 exercise device soars in parabolic flight &lpar;photos, video&rpar;](https://www.space.com/artemis-2-flywheel-moon-exercise-device)
-- [NASA reveals astronauts flying on SpaceX&#39;s Crew-10 mission to the ISS](https://www.space.com/nasa-reveals-astronauts-spacex-crew-10-mission)
-- [Rediff, once a pioneer of internet services in India, sells majority stake for $3M](https://techcrunch.com/2024/08/02/rediff-once-a-pioneer-of-internet-services-in-india-sells-majority-stake-for-3m/)
-- [Aurora alert: Moderate geomagnetic storm could spark northern lights as far south as New York this weekend](https://www.space.com/auroras-this-weekend-northern-lights-heightened-geomagnetic-activity)
-- [Possible signs of Mars life: Astrobiologist explains Perseverance rover&#39;s exciting find](https://www.space.com/mars-rover-perseverance-possible-biosignature-astrobiologist-interview)
+- [New &#39;Star Trek: Lower Decks&#39; comic series coming this fall](https://www.space.com/star-trek-lower-decks-comic-series-fall-preview)
+- [SpaceX Crew-9 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Venus may be able to support life, new atmospheric evidence suggests](https://www.space.com/venus-atmosphere-phosphine-ammonia-possibility-of-life)
+- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
