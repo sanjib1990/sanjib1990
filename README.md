@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [this is just sad...  CrowdStrike attacks a clown website](https://www.youtube.com/watch?v=tUjjsqRp3mg)
 - [Google smokes Olympic mathletes, while OpenAI tries to kill Google](https://www.youtube.com/watch?v=l0e9i8zXcIs)
 - [You need these skills to become a hacker](https://www.youtube.com/watch?v=pVFq4opI9gM)
 - [Scala in 100 Seconds](https://www.youtube.com/watch?v=I7-hxTbpscU)
 - [80% of programmers are NOT happy… why?](https://www.youtube.com/watch?v=-pSf9_MgsZ4)
-- [Am I going to jail for web scraping?](https://www.youtube.com/watch?v=8GhFmQPZAlo)
 <!-- YOUTUBE:END -->
 
 ---
