@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Possible signs of Mars life: Astrobiologist explains Perseverance rover&#39;s exciting find](https://www.space.com/mars-rover-perseverance-possible-biosignature-astrobiologist-interview)
 - [Terraform Labs co-founder and crypto fugitive, Do Kwon, set for extradition to South Korea](https://techcrunch.com/2024/08/02/terraform-labs-co-founder-and-crypto-fugitive-do-kwon-set-for-extradition-to-south-korea/)
 - [Meta’s Threads crosses 200 million active users](https://techcrunch.com/2024/08/02/metas-threads-cross-200-million-active-users/)
 - [Connect with Google Cloud, Aerospace, Qualcomm and more at Disrupt 2024](https://techcrunch.com/2024/08/01/connect-with-google-cloud-aerospace-qualcomm-and-more-at-disrupt-2024/)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/)
-- [Intel to lay off 15,000 employees](https://techcrunch.com/2024/08/01/intel-to-lay-off-15000-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
