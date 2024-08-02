@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Artemis 2 exercise device soars in parabolic flight &lpar;photos, video&rpar;](https://www.space.com/artemis-2-flywheel-moon-exercise-device)
 - [NASA reveals astronauts flying on SpaceX&#39;s Crew-10 mission to the ISS](https://www.space.com/nasa-reveals-astronauts-spacex-crew-10-mission)
 - [Rediff, once a pioneer of internet services in India, sells majority stake for $3M](https://techcrunch.com/2024/08/02/rediff-once-a-pioneer-of-internet-services-in-india-sells-majority-stake-for-3m/)
-- [Aurora alert: moderate geomagnetic storm could spark northern lights as far south as New York this weekend](https://www.space.com/auroras-this-weekend-northern-lights-heightened-geomagnetic-activity)
+- [Aurora alert: Moderate geomagnetic storm could spark northern lights as far south as New York this weekend](https://www.space.com/auroras-this-weekend-northern-lights-heightened-geomagnetic-activity)
 - [Possible signs of Mars life: Astrobiologist explains Perseverance rover&#39;s exciting find](https://www.space.com/mars-rover-perseverance-possible-biosignature-astrobiologist-interview)
-- [Terraform Labs co-founder and crypto fugitive Do Kwon set for extradition to South Korea](https://techcrunch.com/2024/08/02/terraform-labs-co-founder-and-crypto-fugitive-do-kwon-set-for-extradition-to-south-korea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
