@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canadarm2 was not designed to catch spacecraft at the ISS. Now it&#39;s about to grab its 50th](https://www.space.com/iss-canadarm2-robot-arm-canada-50th-spacecraft-catch)
 - [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/)
 - [The moon&#39;s thin atmosphere is made by constant meteorite bombardment](https://www.space.com/moon-atmosphere-meteorite-impacts)
 - [Character.AI CEO Noam Shazeer returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
 - [Adept Materials’ dehumidifying paint was inspired by trees and semiconductors](https://techcrunch.com/2024/08/02/adept-materials-dehumidifying-paint-was-inspired-by-trees-and-semiconductors/)
-- [Yelp’s lack of transparency around API charges angers developers](https://techcrunch.com/2024/08/02/yelps-lack-of-transparency-around-api-charges-angers-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
