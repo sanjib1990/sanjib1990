@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Connect with Google Cloud, Aerospace, Qualcomm and more at Disrupt 2024](https://techcrunch.com/2024/08/01/connect-with-google-cloud-aerospace-qualcomm-and-more-at-disrupt-2024/)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/01/tech-layoffs-2024-list/)
 - [Intel to lay off 15,000 employees](https://techcrunch.com/2024/08/01/intel-to-lay-off-15000-employees/)
 - [SpaceX to resume astronaut launches on Aug. 18 with Crew-9 mission to ISS](https://www.space.com/spacex-nasa-crew-9-launch-date)
 - [AI music startup Suno claims training model on copyrighted music is ‘fair use’](https://techcrunch.com/2024/08/01/ai-music-startup-suno-response-riaa-lawsuit/)
-- [iPad sales help bail out Apple amid a continued iPhone slide](https://techcrunch.com/2024/08/01/ipad-sales-help-bail-out-apple-amid-a-continued-iphone-slide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
