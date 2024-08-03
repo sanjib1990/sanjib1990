@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/)
 - [FTC and Justice Department sue TikTok over alleged child privacy violations](https://techcrunch.com/2024/08/02/ftc-and-justice-department-sue-tiktok-over-alleged-child-privacy-violations/)
 - [Canadarm2 was not designed to catch spacecraft at the ISS. Now it&#39;s about to grab its 50th](https://www.space.com/iss-canadarm2-robot-arm-canada-50th-spacecraft-catch)
 - [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/)
 - [The moon&#39;s thin atmosphere is made by constant meteorite bombardment](https://www.space.com/moon-atmosphere-meteorite-impacts)
-- [Character.AI CEO Noam Shazeer returns to Google](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
