@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warren Buffet’s Berkshire Hathaway sells half its Apple stock](https://techcrunch.com/2024/08/03/warren-buffets-berkshire-hathaway-sells-half-its-apple-stock/)
+- [Zuckerberg and Jensen show off their friendship, while an AI necklace covets yours](https://techcrunch.com/2024/08/03/zuckerberg-and-jensen-show-off-their-friendship-while-an-ai-necklace-covets-yours/)
 - [When a big company comes after a hot startup, it’s not a slam dunk decision to sell](https://techcrunch.com/2024/08/03/when-a-big-company-comes-after-a-hot-startup-its-not-a-slam-dunk-decision-to-sell/)
 - [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/)
 - [Tesla Dojo: Elon Musk’s big plan to build an AI supercomputer, explained](https://techcrunch.com/2024/08/03/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/)
-- [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/)
-- [Photographer recreates NASA&#39;s epic Artemis 1 launch with Lego &lpar;video&rpar;](https://www.space.com/lego-photographer-recreates-artemis-sls-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
