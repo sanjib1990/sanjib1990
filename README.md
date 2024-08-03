@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 122 —No City on Mars?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-122-no-city-on-mars)
 - [DSA vs. DMA: How Europe’s twin digital regulations are hitting Big Tech](https://techcrunch.com/2024/08/03/dsa-vs-dma-how-europes-twin-digital-regulations-are-hitting-big-tech/)
 - [Earth from space: Astronauts share photography tips for snapping amazing photos from the ISS](https://www.space.com/photographing-earth-from-iss-nasa-astronauts-explainer)
 - [Watch SpaceX launch private Cygnus cargo craft to ISS today](https://www.space.com/spacex-cygnus-cargo-spacecraft-launch-ng-21)
 - [How the theft of 40M UK voter register records was entirely preventable](https://techcrunch.com/2024/08/02/how-the-theft-of-40-million-uk-voter-register-records-was-entirely-preventable/)
-- [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
