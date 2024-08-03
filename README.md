@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/)
+- [Tesla Dojo: Elon Musks’ big plan to build an AI supercomputer, explained](https://techcrunch.com/2024/08/03/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/)
 - [Meet the founder who built and sold a $600M enterprise software startup from Sri Lanka](https://techcrunch.com/2024/08/03/meet-the-founder-who-built-and-sold-a-600m-enterprise-software-startup-from-sri-lanka/)
 - [Photographer recreates NASA&#39;s epic Artemis 1 launch with Lego &lpar;video&rpar;](https://www.space.com/lego-photographer-recreates-artemis-sls-launch)
 - [Why Bill Gates’ Breakthrough Energy and other investors are scouring universities for founders](https://techcrunch.com/2024/08/03/why-bill-gates-breakthrough-energy-and-other-investors-are-scouring-universities-for-founders/)
-- [This Week In Space podcast: Episode 122 —No City on Mars?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-122-no-city-on-mars)
-- [DSA vs. DMA: How Europe’s twin digital regulations are hitting Big Tech](https://techcrunch.com/2024/08/03/dsa-vs-dma-how-europes-twin-digital-regulations-are-hitting-big-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
