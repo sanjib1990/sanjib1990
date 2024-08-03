@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Photographer recreates NASA&#39;s epic Artemis 1 launch with Lego &lpar;video&rpar;](https://www.space.com/lego-photographer-recreates-artemis-sls-launch)
+- [Why Bill Gates’ Breakthrough Energy and other investors are scouring universities for founders](https://techcrunch.com/2024/08/03/why-bill-gates-breakthrough-energy-and-other-investors-are-scouring-universities-for-founders/)
 - [This Week In Space podcast: Episode 122 —No City on Mars?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-122-no-city-on-mars)
 - [DSA vs. DMA: How Europe’s twin digital regulations are hitting Big Tech](https://techcrunch.com/2024/08/03/dsa-vs-dma-how-europes-twin-digital-regulations-are-hitting-big-tech/)
 - [Earth from space: Astronauts share photography tips for snapping amazing photos from the ISS](https://www.space.com/photographing-earth-from-iss-nasa-astronauts-explainer)
-- [Watch SpaceX launch private Cygnus cargo craft to ISS today](https://www.space.com/spacex-cygnus-cargo-spacecraft-launch-ng-21)
-- [How the theft of 40M UK voter register records was entirely preventable](https://techcrunch.com/2024/08/02/how-the-theft-of-40-million-uk-voter-register-records-was-entirely-preventable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
