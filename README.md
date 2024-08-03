@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX launch private Cygnus cargo craft to ISS today](https://www.space.com/spacex-cygnus-cargo-spacecraft-launch-ng-21)
 - [How the theft of 40M UK voter register records was entirely preventable](https://techcrunch.com/2024/08/02/how-the-theft-of-40-million-uk-voter-register-records-was-entirely-preventable/)
 - [Self-driving truck startup Aurora Innovation raises $483M in share sale ahead of commercial launch](https://techcrunch.com/2024/08/02/self-driving-truck-startup-aurora-innovation-raises-483m-commercial-launch/)
 - [FTC and Justice Department sue TikTok over alleged child privacy violations](https://techcrunch.com/2024/08/02/ftc-and-justice-department-sue-tiktok-over-alleged-child-privacy-violations/)
 - [Canadarm2 was not designed to catch spacecraft at the ISS. Now it&#39;s about to grab its 50th](https://www.space.com/iss-canadarm2-robot-arm-canada-50th-spacecraft-catch)
-- [Acquiring AI talent wholesale](https://techcrunch.com/2024/08/02/acquiring-ai-talent-wholesale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
