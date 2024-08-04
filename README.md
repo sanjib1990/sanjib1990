@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Space Gal&#39; Emily Calandrelli opens up about her coming Blue Origin flight &lpar;interview&rpar;](https://www.space.com/emily-calandrelli-blue-origin-spaceflight-interview)
 - [Warren Buffet’s Berkshire Hathaway sells half its Apple stock](https://techcrunch.com/2024/08/03/warren-buffets-berkshire-hathaway-sells-half-its-apple-stock/)
 - [Zuckerberg and Jensen show off their friendship, while an AI necklace covets yours](https://techcrunch.com/2024/08/03/zuckerberg-and-jensen-show-off-their-friendship-while-an-ai-necklace-covets-yours/)
 - [When a big company comes after a hot startup, it’s not a slam dunk decision to sell](https://techcrunch.com/2024/08/03/when-a-big-company-comes-after-a-hot-startup-its-not-a-slam-dunk-decision-to-sell/)
 - [Trade My Spin is building a business around used Peloton equipment](https://techcrunch.com/2024/08/03/trade-my-spin-is-building-a-business-around-used-peloton-equipment/)
-- [Tesla Dojo: Elon Musk’s big plan to build an AI supercomputer, explained](https://techcrunch.com/2024/08/03/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
