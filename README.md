@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/)
 - [Many safety evaluations for AI models have significant limitations](https://techcrunch.com/2024/08/04/many-safety-evaluations-for-ai-models-have-significant-limitations/)
 - [OpenAI says it’s taking a ‘deliberate approach’ to releasing tools that can detect writing from ChatGPT](https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/)
 - [Yelp’s chief product officer talks AI and authenticity](https://techcrunch.com/2024/08/04/yelps-chief-product-officer-talks-ai-and-authenticity/)
 - [SpaceX launches 23 Starlink satellites to orbit from California &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-launch-group-11-1)
-- [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
