@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yelp’s chief product officer talks AI and authenticity](https://techcrunch.com/2024/08/04/yelps-chief-product-officer-talks-ai-and-authenticity/)
+- [SpaceX launches 23 Starlink satellites to orbit from California &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-launch-group-11-1)
 - [Even after $1.6B in VC money, the lab-grown meat industry is facing ‘massive’ issues](https://techcrunch.com/2024/08/04/even-after-1-6b-in-vc-money-the-lab-grown-meat-industry-is-facing-massive-issues/)
 - [New moon of August 2024: Venus in conjunction](https://www.space.com/new-moon-august-2024)
 - [The moon and Venus join close together in the night sky Aug. 5](https://www.space.com/moon-venus-august-5-2024)
-- [&#39;The Space Gal&#39; Emily Calandrelli opens up about her coming Blue Origin flight &lpar;interview&rpar;](https://www.space.com/emily-calandrelli-blue-origin-spaceflight-interview)
-- [Warren Buffet’s Berkshire Hathaway sells half its Apple stock](https://techcrunch.com/2024/08/03/warren-buffets-berkshire-hathaway-sells-half-its-apple-stock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
