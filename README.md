@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch private Cygnus freighter arrive at the ISS early Aug. 6](https://www.space.com/cygnus-ng-21-arrival-international-space-station)
+- [TechCrunch Space: I’m tired of talking about Starliner, too](https://techcrunch.com/2024/08/05/techcrunch-space-im-tired-of-talking-about-starliner-too/)
 - [How satellite technology made it into 2024 Olympic swimsuits](https://www.space.com/satellite-technology-olympic-swimsuits-2024)
 - [Lucid pumps $1.5B from Saudi wealth fund after CEO warned relying on its ‘bottomless wealth’ was ‘dangerous’](https://techcrunch.com/2024/08/05/lucid-motors-funding-saudi-arabia-q2-earnings/)
 - [Hurricane Debby makes landfall in Florida as satellites watch from space &lpar;video&rpar;](https://www.space.com/hurricane-debby-landfall-satellite-video)
-- [Google loses massive antitrust case over search, will appeal ruling](https://techcrunch.com/2024/08/05/google-loses-massive-antitrust-case-over-search/)
-- [OpenAI tempers expectations with less bombastic, GPT-5-less DevDay this fall](https://techcrunch.com/2024/08/05/openai-tempers-expectations-with-less-bombastic-gpt-5-less-devday-this-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
