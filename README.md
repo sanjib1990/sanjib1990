@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pennies to heaven: NASA launches 2 cents to space station](https://www.space.com/penny-pennies-cents-space-station-stemonstration)
+- [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/)
+- [Apple’s new Safari feature removes distracting items from websites](https://techcrunch.com/2024/08/05/apples-new-safari-feature-removes-distracting-items-from-websites/)
 - [Everything we know about &#39;Transformers One&#39;](https://www.space.com/transformers-one-movie-everything-we-know)
 - [YouTuber files class action suit over OpenAI’s scrape of creators’ transcripts](https://techcrunch.com/2024/08/05/youtuber-files-class-action-suit-over-openais-scrape-of-creators-transcripts/)
-- [TechCrunch Minute: The iPad was the surprising star of Apple’s sales numbers](https://techcrunch.com/video/techcrunch-minute-the-ipad-was-the-surprising-star-of-apples-sales-numbers/)
-- [Astrophotographer captures stunning views of northern lights and STEVE during brief encounter &lpar;photos, video&rpar;](https://www.space.com/astrophotographer-films-steve-northern-lights-aurora-during-solar-substorm)
-- [The sun is a &#39;runaway world collector&#39; that can trap passing rogue planets](https://www.space.com/runaway-world-collector-rogue-planets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
