@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The sun is a &#39;runaway world collector&#39; that can trap passing rogue planets](https://www.space.com/runaway-world-collector-rogue-planets)
+- [Flipkart blitzes into India’s 10-minute quick commerce battle](https://techcrunch.com/2024/08/05/flipkart-blitzes-into-india-10-minute-quick-commerce-battle/)
 - [See brilliant Venus, exquisite Earthshine and the Perseid meteor shower peak this week](https://www.space.com/venus-earthshine-perseid-meteor-shower-peak-night-sky-this-week)
 - [38 startups have become unicorns so far in 2024: Here’s the full list](https://techcrunch.com/2024/08/05/38-startups-have-become-unicorns-so-far-in-2024-heres-the-full-list/)
 - [China&#39;s secretive space plane caught on camera in orbit &lpar;photos&rpar;](https://www.space.com/china-space-plane-caught-on-camera)
-- [AWS launches Mithra to identify and mitigate malicious domains across its massive system](https://techcrunch.com/2024/08/05/aws-launches-mithra-to-identify-and-mitigate-malicious-domains/)
-- [Was life on Earth sparked by cloud-to-ground lightning strikes?](https://www.space.com/the-universe/earth/was-life-on-earth-sparked-by-cloud-to-ground-lightning-strikes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
