@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Terminator Zero&#39; trailer depicts Judgment Day&#39;s nuclear nightmare &lpar;video&rpar;](https://www.space.com/terminator-zero-anime-series-trailer-august-2024)
+- [Perseid meteor shower 2024 peaks this weekend. Here&#39;s how to see summer&#39;s best &#39;shooting stars&#39;](https://www.space.com/perseid-meteor-shower-2024-peak)
+- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/)
 - [Pennies to heaven: NASA launches 2 cents to space station](https://www.space.com/penny-pennies-cents-space-station-stemonstration)
 - [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/)
-- [Apple’s new Safari feature removes distracting items from websites](https://techcrunch.com/2024/08/05/apples-new-safari-feature-removes-distracting-items-from-websites/)
-- [Everything we know about &#39;Transformers One&#39;](https://www.space.com/transformers-one-movie-everything-we-know)
-- [YouTuber files class action suit over OpenAI’s scrape of creators’ transcripts](https://techcrunch.com/2024/08/05/youtuber-files-class-action-suit-over-openais-scrape-of-creators-transcripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
