@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s secretive space plane caught on camera in orbit &lpar;photos&rpar;](https://www.space.com/china-space-plane-caught-on-camera)
+- [AWS launches Mithra to identify and mitigate malicious domains across its massive system](https://techcrunch.com/2024/08/05/aws-launches-mithra-to-identify-and-mitigate-malicious-domains/)
 - [Was life on Earth sparked by Cloud-to-ground lightning strikes?](https://www.space.com/the-universe/earth/was-life-on-earth-sparked-by-cloud-to-ground-lightning-strikes)
 - [TikTok Lite: EU closes addictive design case after TikTok commits to not bring back rewards mechanism](https://techcrunch.com/2024/08/05/tiktok-lite-eu-closes-addictive-design-case-after-tiktok-commits-to-not-bring-back-rewards-mechanism/)
 - [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/)
-- [Do meteor showers threaten satellites and astronauts on the International Space Station?](https://www.space.com/meteor-showers-threat-astronauts-satellites-space-debris)
-- [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
