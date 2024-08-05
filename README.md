@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How satellite technology made it into 2024 Olympic swimsuits](https://www.space.com/satellite-technology-olympic-swimsuits-2024)
+- [Lucid pumps $1.5B from Saudi wealth fund after CEO warned relying on its ‘bottomless wealth’ was ‘dangerous’](https://techcrunch.com/2024/08/05/lucid-motors-funding-saudi-arabia-q2-earnings/)
+- [Hurricane Debby makes landfall in Florida as satellites watch from space &lpar;video&rpar;](https://www.space.com/hurricane-debby-landfall-satellite-video)
+- [Google loses massive antitrust case over search, will appeal ruling](https://techcrunch.com/2024/08/05/google-loses-massive-antitrust-case-over-search/)
 - [OpenAI tempers expectations with less bombastic, GPT-5-less DevDay this fall](https://techcrunch.com/2024/08/05/openai-tempers-expectations-with-less-bombastic-gpt-5-less-devday-this-fall/)
-- [10 new dead star &#39;monsters&#39; discovered at the heart of the Milky Way](https://www.space.com/pulsars-terzan-5-neutron-stars)
-- [Muon Space closes $56M to scale all-in-one satellite platform](https://techcrunch.com/2024/08/05/muon-space-closes-56m-to-scale-all-in-one-satellite-platform/)
-- [The sun fires off 2 powerful X flares in less than 2 hours &lpar;video, photo&rpar;](https://www.space.com/sun-two-x-class-solar-flares-august-5)
-- [Google loses massive antitrust case over search](https://techcrunch.com/2024/08/05/google-loses-massive-antitrust-case-over-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
