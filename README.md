@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See brilliant Venus, exquisite Earthshine and the Perseid meteor shower peak this week](https://www.space.com/venus-earthshine-perseid-meteor-shower-peak-night-sky-this-week)
+- [38 startups have become unicorns so far in 2024: Here’s the full list](https://techcrunch.com/2024/08/05/38-startups-have-become-unicorns-so-far-in-2024-heres-the-full-list/)
 - [China&#39;s secretive space plane caught on camera in orbit &lpar;photos&rpar;](https://www.space.com/china-space-plane-caught-on-camera)
 - [AWS launches Mithra to identify and mitigate malicious domains across its massive system](https://techcrunch.com/2024/08/05/aws-launches-mithra-to-identify-and-mitigate-malicious-domains/)
-- [Was life on Earth sparked by Cloud-to-ground lightning strikes?](https://www.space.com/the-universe/earth/was-life-on-earth-sparked-by-cloud-to-ground-lightning-strikes)
-- [TikTok Lite: EU closes addictive design case after TikTok commits to not bring back rewards mechanism](https://techcrunch.com/2024/08/05/tiktok-lite-eu-closes-addictive-design-case-after-tiktok-commits-to-not-bring-back-rewards-mechanism/)
-- [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/)
+- [Was life on Earth sparked by cloud-to-ground lightning strikes?](https://www.space.com/the-universe/earth/was-life-on-earth-sparked-by-cloud-to-ground-lightning-strikes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
