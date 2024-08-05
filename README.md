@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [New &#39;Terminator Zero&#39; trailer depicts Judgment Day&#39;s nuclear nightmare &lpar;video&rpar;](https://www.space.com/terminator-zero-anime-series-trailer-august-2024)
-- [Perseid meteor shower 2024 peaks this weekend. Here&#39;s how to see summer&#39;s best &#39;shooting stars&#39;](https://www.space.com/perseid-meteor-shower-2024-peak)
-- [Announcing the agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/05/announcing-the-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/)
-- [Pennies to heaven: NASA launches 2 cents to space station](https://www.space.com/penny-pennies-cents-space-station-stemonstration)
-- [Placer.ai boosts valuation to $1.5B after quietly raising another $75M](https://techcrunch.com/2024/08/05/placer-ai-boosts-valuation-to-1-5b-after-quietly-raising-another-75m/)
+- [OpenAI tempers expectations with less bombastic, GPT-5-less DevDay this fall](https://techcrunch.com/2024/08/05/openai-tempers-expectations-with-less-bombastic-gpt-5-less-devday-this-fall/)
+- [10 new dead star &#39;monsters&#39; discovered at the heart of the Milky Way](https://www.space.com/pulsars-terzan-5-neutron-stars)
+- [Muon Space closes $56M to scale all-in-one satellite platform](https://techcrunch.com/2024/08/05/muon-space-closes-56m-to-scale-all-in-one-satellite-platform/)
+- [The sun fires off 2 powerful X flares in less than 2 hours &lpar;video, photo&rpar;](https://www.space.com/sun-two-x-class-solar-flares-august-5)
+- [Google loses massive antitrust case over search](https://techcrunch.com/2024/08/05/google-loses-massive-antitrust-case-over-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
