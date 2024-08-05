@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Was life on Earth sparked by Cloud-to-ground lightning strikes?](https://www.space.com/the-universe/earth/was-life-on-earth-sparked-by-cloud-to-ground-lightning-strikes)
+- [TikTok Lite: EU closes addictive design case after TikTok commits to not bring back rewards mechanism](https://techcrunch.com/2024/08/05/tiktok-lite-eu-closes-addictive-design-case-after-tiktok-commits-to-not-bring-back-rewards-mechanism/)
 - [AI chip startup Groq lands $640M to challenge Nvidia](https://techcrunch.com/2024/08/05/ai-chip-startup-groq-lands-640m-to-challenge-nvidia/)
 - [Do meteor showers threaten satellites and astronauts on the International Space Station?](https://www.space.com/meteor-showers-threat-astronauts-satellites-space-debris)
 - [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/)
-- [Many safety evaluations for AI models have significant limitations](https://techcrunch.com/2024/08/04/many-safety-evaluations-for-ai-models-have-significant-limitations/)
-- [OpenAI says it’s taking a ‘deliberate approach’ to releasing tools that can detect writing from ChatGPT](https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
