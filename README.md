@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do meteor showers threaten satellites and astronauts on the International Space Station?](https://www.space.com/meteor-showers-threat-astronauts-satellites-space-debris)
 - [From golf to hunting, a new crop of startups want to make these experiences even better](https://techcrunch.com/2024/08/04/from-golf-to-hunting-a-new-crop-of-startups-want-to-make-these-experiences-even-better/)
 - [Many safety evaluations for AI models have significant limitations](https://techcrunch.com/2024/08/04/many-safety-evaluations-for-ai-models-have-significant-limitations/)
 - [OpenAI says it’s taking a ‘deliberate approach’ to releasing tools that can detect writing from ChatGPT](https://techcrunch.com/2024/08/04/openai-says-its-taking-a-deliberate-approach-to-releasing-tools-that-can-detect-writing-from-chatgpt/)
 - [Yelp’s chief product officer talks AI and authenticity](https://techcrunch.com/2024/08/04/yelps-chief-product-officer-talks-ai-and-authenticity/)
-- [SpaceX launches 23 Starlink satellites to orbit from California &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-launch-group-11-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
