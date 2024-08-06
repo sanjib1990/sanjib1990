@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK data watchdog fines NHS vendor Advanced for security failures prior to LockBit ransomware attack](https://techcrunch.com/2024/08/06/uk-data-watchdog-fines-nhs-vendor-advanced-for-security-failures-prior-to-lockbit-ransomware-attack/)
+- [Jumia plans to raise more than $100 million in secondary shares to drive stalled user growth](https://techcrunch.com/2024/08/06/jumia-plans-to-raise-more-than-100-million-in-secondary-shares-to-drive-stalled-user-growth/)
+- [Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching ‘experiences’](https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/)
 - [Reddit to test AI-powered search result pages](https://techcrunch.com/2024/08/06/reddit-ai-powered-search-results/)
 - [Rivian lost $1.46B in Q2 as it drives toward a VW-linked future](https://techcrunch.com/2024/08/06/rivian-lost-1-46-billion-in-q2-as-it-drives-towards-a-vw-linked-future/)
-- [Meet the crew for SpaceX&#39;s Ax-4 mission to the ISS](https://www.space.com/spacex-axiom-space-ax-4-meet-the-crew)
-- [Stellar oddball: Nearby star rotates unlike any other](https://www.space.com/oddball-star-rotation-v889-herculis)
-- [SpaceX&#39;s Crew-9 astronaut launch delayed to Sept. 24 due to Boeing Starliner issues](https://www.space.com/spacex-crew-9-launch-delay-september-24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
