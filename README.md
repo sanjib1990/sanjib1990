@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planets of Milky Way&#39;s most common stars are less habitable than thought, dead NASA telescope reveals](https://www.space.com/red-dwarf-stars-uv-radation-harmful-to-life)
+- [Unistellar Odyssey review](https://www.space.com/unistellar-odyssey-review)
+- [Amazon upgrades its AI image generator](https://techcrunch.com/2024/08/06/amazon-upgrades-its-ai-image-generator/)
 - [‘Fantastic Four: First Steps&#39; sounds like it&#39;s dripping in Space Race nostalgia](https://www.space.com/fantastic-four-first-steps-space-race)
 - [X is getting closer to launching its payment service](https://techcrunch.com/2024/08/06/x-twitter-payment-service-update/)
-- [Dawn Aerospace’s rocket-propelled aircraft takes flight](https://techcrunch.com/2024/08/06/dawn-aerospace/)
-- [Made by Google 2024: Pixel 9, Gemini, a new foldable and other things to expect from the event](https://techcrunch.com/2024/08/06/made-by-google-2024-pixel-9-gemini-a-new-foldable-and-other-things-to-expect-from-the-event/)
-- [Waymo expands robotaxi coverage in Los Angeles and San Francisco](https://techcrunch.com/2024/08/06/waymo-expands-robotaxi-coverage-in-los-angeles-and-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
