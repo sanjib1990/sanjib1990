@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s new direct-to-cell Starlink satellites are way brighter than the originals](https://www.space.com/spacex-starlink-direct-to-cell-satellites-light-pollution)
 - [GrubMarket has acquired Good Eggs](https://techcrunch.com/2024/08/06/grubmarket-has-acquired-good-eggs/)
 - [UK’s Riverlane scores $75M to correct quantum errors](https://techcrunch.com/2024/08/05/uks-riverlane-scores-75m-to-correct-quantum-errors/)
 - [India’s EtherealX puts $5M seed toward fully reusable launch vehicles](https://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles/)
 - [OpenAI co-founder Schulman leaves for Anthropic, Brockman takes extended leave](https://techcrunch.com/2024/08/05/openai-co-founder-leaves-for-anthropic/)
-- [Secretaries of state urge X to stop its Grok chatbot from spreading election misinformation](https://techcrunch.com/2024/08/05/secretaries-of-state-urge-x-to-stop-its-grok-chatbot-from-spreading-election-misinformation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
