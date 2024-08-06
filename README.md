@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe’s most valuable fintech, and which startups became unicorns this year](https://techcrunch.com/2024/08/06/europes-most-valuable-fintech-and-which-startups-became-unicorns-this-year/)
+- [Everything we know about Terminator Zero: Release date, plot, cast &amp; more](https://www.space.com/terminator-zero-everything-we-know-release-date-plot)
+- [Bluesky adds Techdirt founder Mike Masnick to its board](https://techcrunch.com/2024/08/06/bluesky-adds-techdirt-founder-mike-masnick-to-its-board/)
+- [Amazon Music’s new AI feature lets you browse podcast episodes by topic](https://techcrunch.com/2024/08/06/amazon-music-ai-feature-podcast-episodes-topics/)
 - [Apple Intelligence’s writing tools stumble on swears and controversial topics](https://techcrunch.com/2024/08/06/apple-intelligences-writing-tools-stumble-on-swears-and-controversial-topics/)
-- [Flighty’s popular flight-tracking app can now predict delays using machine learning](https://techcrunch.com/2024/08/06/flightys-popular-flight-tracking-app-can-now-predict-delays-using-machine-learning/)
-- [TechCrunch Minute: With Venu Sports, streaming gets serious about live sports](https://techcrunch.com/video/techcrunch-minute-with-venu-sports-streaming-gets-serious-about-live-sports/)
-- [1st &#39;hyperspectral&#39; image of aurora borealis reveals true colors of northern lights](https://www.space.com/aurora-borealis-1st-hyperspectral-images)
-- [Chromecast is dead. Meet Google TV Streamer](https://techcrunch.com/2024/08/06/chromecast-is-dead-meet-google-tv-streamer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
