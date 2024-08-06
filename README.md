@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s new direct-to-cell Starlink satellites are way brighter than the originals](https://www.space.com/spacex-starlink-direct-to-cell-satellites-light-pollution)
-- [GrubMarket has acquired Good Eggs](https://techcrunch.com/2024/08/06/grubmarket-has-acquired-good-eggs/)
-- [UK’s Riverlane scores $75M to correct quantum errors](https://techcrunch.com/2024/08/05/uks-riverlane-scores-75m-to-correct-quantum-errors/)
-- [India’s EtherealX puts $5M seed toward fully reusable launch vehicles](https://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles/)
-- [OpenAI co-founder Schulman leaves for Anthropic, Brockman takes extended leave](https://techcrunch.com/2024/08/05/openai-co-founder-leaves-for-anthropic/)
+- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
+- [&#39;Wonder material&#39; found in lunar samples hints at moon&#39;s origins](https://www.space.com/lunar-samples-graphene-moon-origins)
+- [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/)
+- [Figure’s new humanoid robot leverages OpenAI for natural speech conversations](https://techcrunch.com/2024/08/06/figures-new-humanoid-robot-leverages-openai-for-natural-speech-conversations/)
+- [On this day in space! Aug. 6, 2012: NASA&#39;s Curiosity rover lands on Mars](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
