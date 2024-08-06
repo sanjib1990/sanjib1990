@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MuukTest is putting GenAI at the center of software QA testing](https://techcrunch.com/2024/08/06/muuktest-is-putting-genai-at-the-center-of-software-qa-testing/)
+- [Earth&#39;s &#39;evil twin&#39; Venus may have mirrored our planet more than expected](https://www.space.com/venus-earth-tectonic-activity)
+- [After nine years, Google’s Nest Learning Thermostat gets an AI makeover](https://techcrunch.com/2024/08/06/after-nine-years-googles-nest-learning-thermostat-gets-an-ai-makeover/)
 - [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/)
 - [3 sun mysteries we still haven&#39;t cracked](https://www.space.com/3-sun-mysteries-still-have-not-cracked)
-- [Hyperspace is building custom instances to accelerate database searches](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/)
-- [AI-powered water heater could banish cold showers and carbon pollution](https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/)
-- [Perspective Space emerges from stealth with plans to improve space weather predictions](https://techcrunch.com/2024/08/06/perspective-space-emerges-from-stealth-with-plans-to-improve-space-weather-predictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
