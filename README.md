@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s EtherealX puts $5M seed toward fully reusable launch vehicles](https://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles/)
 - [OpenAI co-founder Schulman leaves for Anthropic, Brockman takes extended leave](https://techcrunch.com/2024/08/05/openai-co-founder-leaves-for-anthropic/)
 - [Secretaries of state urge X to stop its Grok chatbot from spreading election misinformation](https://techcrunch.com/2024/08/05/secretaries-of-state-urge-x-to-stop-its-grok-chatbot-from-spreading-election-misinformation/)
 - [Lucid pumps $1.5B from Saudi wealth fund after CEO warned relying on its ‘bottomless wealth’ was ‘dangerous’](https://techcrunch.com/2024/08/05/lucid-motors-funding-saudi-arabia-q2-earnings/)
 - [Watch private Cygnus freighter arrive at the ISS early Aug. 6](https://www.space.com/cygnus-ng-21-arrival-international-space-station)
-- [TechCrunch Space: I’m tired of talking about Starliner, too](https://techcrunch.com/2024/08/05/techcrunch-space-im-tired-of-talking-about-starliner-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
