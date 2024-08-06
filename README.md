@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
-- [&#39;Wonder material&#39; found in lunar samples hints at moon&#39;s origins](https://www.space.com/lunar-samples-graphene-moon-origins)
-- [German computer scientists raise $30 million to help companies make sense of their data](https://techcrunch.com/2024/08/06/knime-lets-users-build-workflows-to-automate-data-analytics-task/)
-- [Figure’s new humanoid robot leverages OpenAI for natural speech conversations](https://techcrunch.com/2024/08/06/figures-new-humanoid-robot-leverages-openai-for-natural-speech-conversations/)
-- [On this day in space! Aug. 6, 2012: NASA&#39;s Curiosity rover lands on Mars](https://www.space.com/39251-on-this-day-in-space.html)
+- [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/)
+- [3 sun mysteries we still haven&#39;t cracked](https://www.space.com/3-sun-mysteries-still-have-not-cracked)
+- [Hyperspace is building custom instances to accelerate database searches](https://techcrunch.com/2024/08/06/hyperspace-is-building-custom-instances-to-accelerate-database-searches/)
+- [AI-powered water heater could banish cold showers and carbon pollution](https://techcrunch.com/2024/08/06/ai-powered-water-heater-could-banish-cold-showers-and-carbon-pollution/)
+- [Perspective Space emerges from stealth with plans to improve space weather predictions](https://techcrunch.com/2024/08/06/perspective-space-emerges-from-stealth-with-plans-to-improve-space-weather-predictions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
