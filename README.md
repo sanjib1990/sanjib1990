@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stellar oddball: Nearby star rotates unlike any other](https://www.space.com/oddball-star-rotation-v889-herculis)
+- [SpaceX&#39;s Crew-9 astronaut launch delayed to Sept. 24 due to Boeing Starliner issues](https://www.space.com/spacex-crew-9-launch-delay-september-24)
+- [Rivian lost $1.46 billion in Q2 as it drives towards a VW-linked future](https://techcrunch.com/2024/08/06/rivian-lost-1-46-billion-in-q2-as-it-drives-towards-a-vw-linked-future/)
+- [Google Assistant lives to automate another day](https://techcrunch.com/2024/08/06/google-assistant-lives-to-automate-another-day/)
 - [Planets of Milky Way&#39;s most common stars are less habitable than thought, dead NASA telescope reveals](https://www.space.com/red-dwarf-stars-uv-radation-harmful-to-life)
-- [Unistellar Odyssey review](https://www.space.com/unistellar-odyssey-review)
-- [Amazon upgrades its AI image generator](https://techcrunch.com/2024/08/06/amazon-upgrades-its-ai-image-generator/)
-- [‘Fantastic Four: First Steps&#39; sounds like it&#39;s dripping in Space Race nostalgia](https://www.space.com/fantastic-four-first-steps-space-race)
-- [X is getting closer to launching its payment service](https://techcrunch.com/2024/08/06/x-twitter-payment-service-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
