@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MuukTest is putting GenAI at the center of software QA testing](https://techcrunch.com/2024/08/06/muuktest-is-putting-genai-at-the-center-of-software-qa-testing/)
-- [Earth&#39;s &#39;evil twin&#39; Venus may have mirrored our planet more than expected](https://www.space.com/venus-earth-tectonic-activity)
-- [After nine years, Google’s Nest Learning Thermostat gets an AI makeover](https://techcrunch.com/2024/08/06/after-nine-years-googles-nest-learning-thermostat-gets-an-ai-makeover/)
-- [Who cut the plant-based cheese? Plonts did with microbes, and it’s stinky](https://techcrunch.com/2024/08/06/who-cut-the-plant-based-cheese-plonts-did-with-microbes-and-its-stinky/)
-- [3 sun mysteries we still haven&#39;t cracked](https://www.space.com/3-sun-mysteries-still-have-not-cracked)
+- [Cyberattack knocks Mobile Guardian MDM offline and wipes thousands of student devices](https://techcrunch.com/2024/08/06/cyberattack-knocks-mobile-guardian-mdm-offline-and-wipes-thousands-of-student-devices/)
+- [How NOAA&#39;s Hurricane Hunter aircraft help satellites build a &#39;full picture of the storm&#39;](https://www.space.com/noaa-hurricane-hunter-aircraft)
+- [Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/)
+- [Uber highlights autonomous vehicle efforts now that Tesla’s in its rearview mirror](https://techcrunch.com/2024/08/06/uber-highlights-autonomous-vehicle-efforts-with-tesla-in-its-rearview-mirror/)
+- [Breaking up Google would offer a chance to remodel the web](https://techcrunch.com/2024/08/06/breaking-up-google-would-offer-a-chance-to-remodel-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
