@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyberattack knocks Mobile Guardian MDM offline and wipes thousands of student devices](https://techcrunch.com/2024/08/06/cyberattack-knocks-mobile-guardian-mdm-offline-and-wipes-thousands-of-student-devices/)
-- [How NOAA&#39;s Hurricane Hunter aircraft help satellites build a &#39;full picture of the storm&#39;](https://www.space.com/noaa-hurricane-hunter-aircraft)
-- [Enhance your startup’s success with the ScaleUp Program at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/06/enhance-your-startups-success-with-the-scaleup-program-at-techcrunch-disrupt-2024/)
-- [Uber highlights autonomous vehicle efforts now that Tesla’s in its rearview mirror](https://techcrunch.com/2024/08/06/uber-highlights-autonomous-vehicle-efforts-with-tesla-in-its-rearview-mirror/)
-- [Breaking up Google would offer a chance to remodel the web](https://techcrunch.com/2024/08/06/breaking-up-google-would-offer-a-chance-to-remodel-the-web/)
+- [Apple Intelligence’s writing tools stumble on swears and controversial topics](https://techcrunch.com/2024/08/06/apple-intelligences-writing-tools-stumble-on-swears-and-controversial-topics/)
+- [Flighty’s popular flight-tracking app can now predict delays using machine learning](https://techcrunch.com/2024/08/06/flightys-popular-flight-tracking-app-can-now-predict-delays-using-machine-learning/)
+- [TechCrunch Minute: With Venu Sports, streaming gets serious about live sports](https://techcrunch.com/video/techcrunch-minute-with-venu-sports-streaming-gets-serious-about-live-sports/)
+- [1st &#39;hyperspectral&#39; image of aurora borealis reveals true colors of northern lights](https://www.space.com/aurora-borealis-1st-hyperspectral-images)
+- [Chromecast is dead. Meet Google TV Streamer](https://techcrunch.com/2024/08/06/chromecast-is-dead-meet-google-tv-streamer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
