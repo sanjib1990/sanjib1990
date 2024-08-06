@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit to test AI-powered search result pages](https://techcrunch.com/2024/08/06/reddit-ai-powered-search-results/)
+- [Rivian lost $1.46B in Q2 as it drives toward a VW-linked future](https://techcrunch.com/2024/08/06/rivian-lost-1-46-billion-in-q2-as-it-drives-towards-a-vw-linked-future/)
+- [Meet the crew for SpaceX&#39;s Ax-4 mission to the ISS](https://www.space.com/spacex-axiom-space-ax-4-meet-the-crew)
 - [Stellar oddball: Nearby star rotates unlike any other](https://www.space.com/oddball-star-rotation-v889-herculis)
 - [SpaceX&#39;s Crew-9 astronaut launch delayed to Sept. 24 due to Boeing Starliner issues](https://www.space.com/spacex-crew-9-launch-delay-september-24)
-- [Rivian lost $1.46 billion in Q2 as it drives towards a VW-linked future](https://techcrunch.com/2024/08/06/rivian-lost-1-46-billion-in-q2-as-it-drives-towards-a-vw-linked-future/)
-- [Google Assistant lives to automate another day](https://techcrunch.com/2024/08/06/google-assistant-lives-to-automate-another-day/)
-- [Planets of Milky Way&#39;s most common stars are less habitable than thought, dead NASA telescope reveals](https://www.space.com/red-dwarf-stars-uv-radation-harmful-to-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
