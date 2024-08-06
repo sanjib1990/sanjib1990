@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Fantastic Four: First Steps&#39; sounds like it&#39;s dripping in Space Race nostalgia](https://www.space.com/fantastic-four-first-steps-space-race)
 - [X is getting closer to launching its payment service](https://techcrunch.com/2024/08/06/x-twitter-payment-service-update/)
 - [Dawn Aerospace’s rocket-propelled aircraft takes flight](https://techcrunch.com/2024/08/06/dawn-aerospace/)
 - [Made by Google 2024: Pixel 9, Gemini, a new foldable and other things to expect from the event](https://techcrunch.com/2024/08/06/made-by-google-2024-pixel-9-gemini-a-new-foldable-and-other-things-to-expect-from-the-event/)
 - [Waymo expands robotaxi coverage in Los Angeles and San Francisco](https://techcrunch.com/2024/08/06/waymo-expands-robotaxi-coverage-in-los-angeles-and-san-francisco/)
-- [Europe’s most valuable fintech, and which startups became unicorns this year](https://techcrunch.com/2024/08/06/europes-most-valuable-fintech-and-which-startups-became-unicorns-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
