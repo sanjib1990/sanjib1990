@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EQT takes a majority stake in cybersecurity firm Acronis at $3.5B+ valuation](https://techcrunch.com/2024/08/07/eqt-takes-a-majority-stake-in-cybersecurity-firm-acronis-at-a-3-5b-valuation/)
 - [UK data watchdog to fine NHS vendor Advanced for security failures prior to LockBit ransomware attack](https://techcrunch.com/2024/08/06/uk-data-watchdog-fines-nhs-vendor-advanced-for-security-failures-prior-to-lockbit-ransomware-attack/)
 - [Jumia plans to raise more than $100 million in secondary shares to drive stalled user growth](https://techcrunch.com/2024/08/06/jumia-plans-to-raise-more-than-100-million-in-secondary-shares-to-drive-stalled-user-growth/)
 - [Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching ‘experiences’](https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/)
 - [Reddit to test AI-powered search result pages](https://techcrunch.com/2024/08/06/reddit-ai-powered-search-results/)
-- [Rivian lost $1.46B in Q2 as it drives toward a VW-linked future](https://techcrunch.com/2024/08/06/rivian-lost-1-46-billion-in-q2-as-it-drives-towards-a-vw-linked-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
