@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Making Challenge Tutorial Video: Plaster Mixing](https://www.youtube.com/watch?v=SdhZaeqIFKo)
+- [Making Challenge Tutorial Video: Molding and Casting](https://www.youtube.com/watch?v=3KG_stlWxGw)
+- [Minibot Motor Functions Video](https://www.youtube.com/watch?v=pCcntgGRQLQ)
 - [I forced EVERYONE to use Linux](https://www.youtube.com/watch?v=qdo5lMR1lX4)
 - [Google takes its biggest L ever... now a convicted monopolist](https://www.youtube.com/watch?v=jx2dDV2eWBM)
-- [NGINX Tutorial - What is Nginx](https://www.youtube.com/watch?v=iInUBOVeBCc)
-- [Hacking Tools](https://www.youtube.com/watch?v=Wq2g3JxaM3k)
-- [this is just sad...  CrowdStrike attacks a clown website](https://www.youtube.com/watch?v=tUjjsqRp3mg)
 <!-- YOUTUBE:END -->
 
 ---
