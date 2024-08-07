@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft to ‘open up a can of whoop ass’ on surge pricing](https://techcrunch.com/2024/08/07/lyft-to-open-up-a-can-of-whoop-ass-on-surge-pricing/)
+- [Watch SpaceX Falcon 9 rocket generate sonic boom during landing &lpar;video&rpar;](https://www.space.com/spacex-falcon-9-landing-sonic-boom-video-ng-21)
+- [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/)
+- [Audible is testing an AI-powered search feature](https://techcrunch.com/2024/08/07/audible-ai-powered-search-feature/)
 - [Life on the moon: Lockheed Martin shares exploration vision for 2044](https://www.space.com/lockheed-martin-moon-base-vision-2044)
-- [Ex-Clubhouse employees take another swing at a social networking startup](https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/)
-- [Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash](https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/)
-- [Elon Musk’s X taken to court in Ireland for grabbing EU user data to train Grok without consent](https://techcrunch.com/2024/08/07/elon-musks-x-taken-to-court-in-ireland-for-grabbing-eu-user-data-to-train-grok-without-consent/)
-- [NASA moon probe plays laser tag with Japanese lunar lander](https://www.space.com/nasa-lro-laser-tag-japan-slim-moon-lander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
