@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Life on the moon: Lockheed Martin shares exploration vision for 2044](https://www.space.com/lockheed-martin-moon-base-vision-2044)
+- [Ex-Clubhouse employees take another swing at a social networking startup](https://techcrunch.com/2024/08/07/ex-clubhouse-employees-take-another-swing-at-a-social-networking-startup/)
+- [Fintech Payoneer is buying 5-year-old global payroll startup Skuad for $61M in cash](https://techcrunch.com/2024/08/07/payoneer-is-buying-5-year-old-global-payroll-startup-skaud-for-61m-cash/)
 - [Elon Musk’s X taken to court in Ireland for grabbing EU user data to train Grok without consent](https://techcrunch.com/2024/08/07/elon-musks-x-taken-to-court-in-ireland-for-grabbing-eu-user-data-to-train-grok-without-consent/)
 - [NASA moon probe plays laser tag with Japanese lunar lander](https://www.space.com/nasa-lro-laser-tag-japan-slim-moon-lander)
-- [Automattic launches AI writing tool that aims to make WordPress blogs more readable and succinct](https://techcrunch.com/2024/08/07/automattic-launches-ai-writing-tool-that-aims-to-make-wordpress-blogs-more-readable-and-succinct/)
-- [EQT takes a majority stake in cybersecurity firm Acronis at $3.5B+ valuation](https://techcrunch.com/2024/08/07/eqt-takes-a-majority-stake-in-cybersecurity-firm-acronis-at-a-3-5b-valuation/)
-- [UK data watchdog to fine NHS vendor Advanced for security failures prior to LockBit ransomware attack](https://techcrunch.com/2024/08/06/uk-data-watchdog-fines-nhs-vendor-advanced-for-security-failures-prior-to-lockbit-ransomware-attack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
