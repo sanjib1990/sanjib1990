@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UK data watchdog fines NHS vendor Advanced for security failures prior to LockBit ransomware attack](https://techcrunch.com/2024/08/06/uk-data-watchdog-fines-nhs-vendor-advanced-for-security-failures-prior-to-lockbit-ransomware-attack/)
+- [UK data watchdog to fine NHS vendor Advanced for security failures prior to LockBit ransomware attack](https://techcrunch.com/2024/08/06/uk-data-watchdog-fines-nhs-vendor-advanced-for-security-failures-prior-to-lockbit-ransomware-attack/)
 - [Jumia plans to raise more than $100 million in secondary shares to drive stalled user growth](https://techcrunch.com/2024/08/06/jumia-plans-to-raise-more-than-100-million-in-secondary-shares-to-drive-stalled-user-growth/)
 - [Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching ‘experiences’](https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/)
 - [Reddit to test AI-powered search result pages](https://techcrunch.com/2024/08/06/reddit-ai-powered-search-results/)
