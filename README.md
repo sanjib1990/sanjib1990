@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Minute: Is AI actually making workers more productive?](https://techcrunch.com/video/techcrunch-minute-is-ai-actually-making-workers-more-productive/)
-- [Group of ancient stars spotted near the sun could rewrite the Milky Way&#39;s history](https://www.space.com/stars-near-sun-milky-way-history-gaia-space-telescope)
-- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
-- [Hackers could spy on cellphone users by abusing 5G baseband flaws, researchers say](https://techcrunch.com/2024/08/07/hackers-could-spy-on-cellphone-users-by-abusing-5g-baseband-flaws-researchers-say/)
-- [Night sky for tonight: Visible planets, stars and more in this evening&#39;s sky](https://www.space.com/news/live/night-sky-for-tonight-what-to-see)
+- [This Week in AI: OpenAI’s talent retention woes](https://techcrunch.com/2024/08/07/this-week-in-ai-openais-talent-retention-woes/)
+- [Nothing’s $399 Phone 2a Plus hits the US through a beta program](https://techcrunch.com/2024/08/07/nothings-399-phone-2a-plus-hits-the-us-through-a-beta-program/)
+- [Over 300 hidden planet-devouring stars within the Milky Way found by AI](https://www.space.com/milky-way-planet-devouring-stars-ai)
+- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/)
+- [Bubble-blowing dead stars could create &#39;most violent phenomena in the universe&#39;](https://www.space.com/fast-radio-burst-radiation-dead-stars-magnetars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
