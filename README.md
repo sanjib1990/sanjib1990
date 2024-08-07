@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Parker Solar Probe finds fresh clues to decades-old mystery surrounding the sun](https://www.space.com/sun-parker-solar-probe-solar-heating-mystery)
 - [Satellite imagery reveals hidden monastery at Buddhist holy site: report](https://www.space.com/buddha-mahabodhi-temple-satellite-imagery-buried-monastery)
 - [After EU approval, UK clears HPE’s $14B Juniper Networks acquisition](https://techcrunch.com/2024/08/07/after-eu-approval-uk-clears-hpes-14b-juniper-networks-acquisition/)
 - [Lyft to ‘open up a can of whoop ass’ on surge pricing](https://techcrunch.com/2024/08/07/lyft-to-open-up-a-can-of-whoop-ass-on-surge-pricing/)
 - [Watch SpaceX Falcon 9 rocket generate sonic boom during landing &lpar;video&rpar;](https://www.space.com/spacex-falcon-9-landing-sonic-boom-video-ng-21)
-- [Database startup Neon nabs a Microsoft investment](https://techcrunch.com/2024/08/07/database-startup-neon-nabs-a-microsoft-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
