@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/)
+- [James Webb Space Telescope finds a shock near supermassive black hole &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-supermassive-black-hole-shock-dust-gas)
 - [Techstars is laying off 17%, ending its J.P. Morgan-backed programs](https://techcrunch.com/2024/08/07/techstars-is-laying-off-17-percent-ending-jp-morgan-backed-programs/)
 - [SpaceX targeting Aug. 26 for historic Polaris Dawn astronaut mission](https://www.space.com/spacex-polaris-dawn-astronaut-mission-launch-august-26)
 - [SpaceX Crew-9 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
-- [NASA considers sending Boeing Starliner astronauts home on SpaceX Dragon](https://www.space.com/boeing-starliner-iss-astronaut-schedule-flux)
 <!-- BLOG-POST-LIST:END -->
 
 ---
