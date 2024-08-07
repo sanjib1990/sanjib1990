@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly launched social network Maven loses its co-founders](https://techcrunch.com/2024/08/07/newly-launched-social-network-maven-loses-its-co-founders/)
+- [ChatGPT’s mobile app just had its biggest month yet](https://techcrunch.com/2024/08/07/chatgpts-mobile-app-just-had-its-biggest-month-yet/)
+- [China launches 1st batch of satellites for planned 14,000-strong megaconstellation &lpar;video&rpar;](https://www.space.com/china-first-launch-internet-satellite-megaconstellation)
+- [UK’s internet regulator warns social media platforms over risks of content inciting violence](https://techcrunch.com/2024/08/07/uks-internet-regulator-warns-social-media-platforms-over-risks-of-content-inciting-violence/)
 - [Keychron’s K2 HE turns magnets and wood into an affordable mechanical keyboard](https://techcrunch.com/2024/08/07/keychrons-k2-he-turns-magnets-and-wood-into-an-affordable-mechanical-keyboard/)
-- [Private launch numbers will double by 2028, FAA says](https://www.space.com/faa-private-launches-double-2028-report)
-- [Facebook creators have a new way to avoid ‘jail’](https://techcrunch.com/2024/08/07/facebook-creators-have-a-new-way-to-avoid-jail/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/07/tech-layoffs-2024-list/)
-- [This Week in AI: OpenAI’s talent retention woes](https://techcrunch.com/2024/08/07/this-week-in-ai-openais-talent-retention-woes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
