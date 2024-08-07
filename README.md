@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-9 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
+- [Boeing Starliner 1st astronaut flight: Live updates](https://www.space.com/news/live/boeing-starliner-live-updates)
+- [NASA considers sending Boeing Starliner astronauts home on SpaceX Dragon](https://www.space.com/boeing-starliner-iss-astronaut-schedule-flux)
+- [Made by Google 2024: How to watch Google unveil the Pixel 9, a new foldable and more](https://techcrunch.com/2024/08/07/made-by-google-2024-how-to-watch-google-unveil-the-pixel-9-a-new-foldable-and-more/)
 - [Newly launched social network Maven loses its co-founders](https://techcrunch.com/2024/08/07/newly-launched-social-network-maven-loses-its-co-founders/)
-- [ChatGPT’s mobile app just had its biggest month yet](https://techcrunch.com/2024/08/07/chatgpts-mobile-app-just-had-its-biggest-month-yet/)
-- [China launches 1st batch of satellites for planned 14,000-strong megaconstellation &lpar;video&rpar;](https://www.space.com/china-first-launch-internet-satellite-megaconstellation)
-- [UK’s internet regulator warns social media platforms over risks of content inciting violence](https://techcrunch.com/2024/08/07/uks-internet-regulator-warns-social-media-platforms-over-risks-of-content-inciting-violence/)
-- [Keychron’s K2 HE turns magnets and wood into an affordable mechanical keyboard](https://techcrunch.com/2024/08/07/keychrons-k2-he-turns-magnets-and-wood-into-an-affordable-mechanical-keyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
