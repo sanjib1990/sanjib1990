@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I forced EVERYONE to use Linux](https://www.youtube.com/watch?v=qdo5lMR1lX4)
 - [Google takes its biggest L ever... now a convicted monopolist](https://www.youtube.com/watch?v=jx2dDV2eWBM)
 - [NGINX Tutorial - What is Nginx](https://www.youtube.com/watch?v=iInUBOVeBCc)
 - [Hacking Tools](https://www.youtube.com/watch?v=Wq2g3JxaM3k)
 - [this is just sad...  CrowdStrike attacks a clown website](https://www.youtube.com/watch?v=tUjjsqRp3mg)
-- [Google smokes Olympic mathletes, while OpenAI tries to kill Google](https://www.youtube.com/watch?v=l0e9i8zXcIs)
 <!-- YOUTUBE:END -->
 
 ---
