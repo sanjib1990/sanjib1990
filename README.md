@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keychron’s K2 HE turns magnets and wood into an affordable mechanical keyboard](https://techcrunch.com/2024/08/07/keychrons-k2-he-turns-magnets-and-wood-into-an-affordable-mechanical-keyboard/)
+- [Private launch numbers will double by 2028, FAA says](https://www.space.com/faa-private-launches-double-2028-report)
+- [Facebook creators have a new way to avoid ‘jail’](https://techcrunch.com/2024/08/07/facebook-creators-have-a-new-way-to-avoid-jail/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/07/tech-layoffs-2024-list/)
 - [This Week in AI: OpenAI’s talent retention woes](https://techcrunch.com/2024/08/07/this-week-in-ai-openais-talent-retention-woes/)
-- [Nothing’s $399 Phone 2a Plus hits the US through a beta program](https://techcrunch.com/2024/08/07/nothings-399-phone-2a-plus-hits-the-us-through-a-beta-program/)
-- [Over 300 hidden planet-devouring stars within the Milky Way found by AI](https://www.space.com/milky-way-planet-devouring-stars-ai)
-- [Mechanical Orchard, led by ex-Pivotal CEO, scores $50M round led by Alphabet’s GV](https://techcrunch.com/2024/08/07/mechanical-orchard-led-by-ex-pivotal-ceo-scores-50-million-round-led-by-alphabets-gv/)
-- [Bubble-blowing dead stars could create &#39;most violent phenomena in the universe&#39;](https://www.space.com/fast-radio-burst-radiation-dead-stars-magnetars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
