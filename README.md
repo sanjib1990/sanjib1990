@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
+- [TikTok, Warner Bros. partner to let users discover theatrical releases and stream TV shows](https://techcrunch.com/2024/08/08/tiktok-spotlight-feature-warner-bros-partnership/)
+- [Cocoon is transforming steel production runoff into a greener cement alternative](https://techcrunch.com/2024/08/08/cocoon-is-making-steel-production-runoff-into-a-greener-cement-alternative/)
+- [SoundHound acquires Amelia AI for $80M after it raised $189M+](https://techcrunch.com/2024/08/08/soundhound-acquires-amelia-ai-for-80m-after-it-raised-189m/)
 - [Astronaut captures gorgeous green aurora shining behind Russian spacecraft docked at ISS &lpar;photo&rpar;](https://www.space.com/aurora-soyuz-spacecraft-iss-astronaut-photo)
-- [Feeling Great’s new therapy app translates its psychologist co-founder’s experience into AI](https://techcrunch.com/2024/08/08/feeling-greats-new-therapy-app-translates-its-psychologist-co-founders-experience-into-ai/)
-- [UK launches formal probe into Amazon’s ties with AI startup Anthropic](https://techcrunch.com/2024/08/08/uk-launches-formal-probe-into-amazons-ties-with-ai-startup-anthropic/)
-- [AI business agent startup Bardeen pulls in strategic investment from Dropbox and Hubspot](https://techcrunch.com/2024/08/08/ai-business-agent-startup-bardeen-pulls-in-strategic-investment-from-dropbox-and-hubspot/)
-- [Newborn moon may have had many mini-siblings in Earth orbit long ago](https://www.space.com/moon-formation-companions-earth-orbit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
