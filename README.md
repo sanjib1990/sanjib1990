@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The spaceships of the Alien movies](https://www.space.com/spaceships-of-the-alien-movies)
+- [Instagram is embracing the ‘photo dump’](https://techcrunch.com/2024/08/08/instagram-is-embracing-the-photo-dump/)
 - [Lyft ‘opens a can of whoop ass’ on surge pricing, Tesla’s Dojo explained and Saudi Arabia pumps $1.5B into Lucid](https://techcrunch.com/2024/08/08/lyft-opens-a-can-of-whoop-ass-on-surge-pricing-teslas-dojo-explained-and-saudi-arabia-pumps-1-5b-into-lucid/)
 - [Over 350 asteroids have hidden moons, Gaia space telescope finds](https://www.space.com/gaia-350-asteroids-hidden-moons)
 - [Elon Musk’s X agrees to pause EU data processing for training Grok](https://techcrunch.com/2024/08/08/elon-musks-x-agrees-to-pause-eu-data-processing-for-training-grok/)
-- [Google DeepMind develops a ‘solidly amateur’ table tennis robot](https://techcrunch.com/2024/08/08/google-deepmind-develops-a-solidly-amateur-table-tennis-robot/)
-- [As X sues advertisers over boycott, the app ditches all ads from its top subscription tier](https://techcrunch.com/2024/08/08/as-x-sues-advertisers-over-boycott-the-app-ditches-all-ads-from-its-top-subscription-tier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
