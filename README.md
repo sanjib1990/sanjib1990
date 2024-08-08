@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut captures gorgeous green aurora shining behind Russian spacecraft docked at ISS &lpar;photo&rpar;](https://www.space.com/aurora-soyuz-spacecraft-iss-astronaut-photo)
+- [Feeling Great’s new therapy app translates its psychologist co-founder’s experience into AI](https://techcrunch.com/2024/08/08/feeling-greats-new-therapy-app-translates-its-psychologist-co-founders-experience-into-ai/)
+- [UK launches formal probe into Amazon’s ties with AI startup Anthropic](https://techcrunch.com/2024/08/08/uk-launches-formal-probe-into-amazons-ties-with-ai-startup-anthropic/)
 - [AI business agent startup Bardeen pulls in strategic investment from Dropbox and Hubspot](https://techcrunch.com/2024/08/08/ai-business-agent-startup-bardeen-pulls-in-strategic-investment-from-dropbox-and-hubspot/)
 - [Newborn moon may have had many mini-siblings in Earth orbit long ago](https://www.space.com/moon-formation-companions-earth-orbit)
-- [Bilingual dictation assistant Silvia understands ‘Spanglish’ and other language mixtures](https://techcrunch.com/2024/08/08/bilingual-dictation-assistant-silvia-understands-spanglish-and-other-language-mixtures/)
-- [Indian conglomerate Reliance slashed over 42,000 jobs last financial year](https://techcrunch.com/2024/08/07/indian-conglomerate-reliance-slashed-over-42000-jobs-last-financial-year/)
-- [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
