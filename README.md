@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch the Perseid meteor shower live online this weekend](https://www.space.com/watch-perseid-meteor-shower-2024-peak-free-livestream)
+- [Looking Glass’ new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
+- [On this day in space! Aug. 8, 1931: Happy birthday to a black hole pioneer!](https://www.space.com/39251-on-this-day-in-space.html)
+- [US Space Force will make history when SpaceX&#39;s Crew-9 mission launches in September](https://www.space.com/space-force-1st-guardian-from-own-launch-pad-spacex-crew-9)
 - [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
-- [TikTok, Warner Bros. partner to let users discover theatrical releases and stream TV shows](https://techcrunch.com/2024/08/08/tiktok-spotlight-feature-warner-bros-partnership/)
-- [Cocoon is transforming steel production runoff into a greener cement alternative](https://techcrunch.com/2024/08/08/cocoon-is-making-steel-production-runoff-into-a-greener-cement-alternative/)
-- [SoundHound acquires Amelia AI for $80M after it raised $189M+](https://techcrunch.com/2024/08/08/soundhound-acquires-amelia-ai-for-80m-after-it-raised-189m/)
-- [Astronaut captures gorgeous green aurora shining behind Russian spacecraft docked at ISS &lpar;photo&rpar;](https://www.space.com/aurora-soyuz-spacecraft-iss-astronaut-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
