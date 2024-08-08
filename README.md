@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As X sues advertisers over boycott, the app ditches all ads from its top subscription tier](https://techcrunch.com/2024/08/08/as-x-sues-advertisers-over-boycott-the-app-ditches-all-ads-from-its-top-subscription-tier/)
+- [Astronaut Jon McBride, early NASA space shuttle pilot, dies at 80](https://www.space.com/nasa-space-shuttle-astronaut-jon-mcbride-obituary)
+- [Apple revises DMA compliance for App Store link-outs, applying fewer restrictions and a new fee structure](https://techcrunch.com/2024/08/08/apple-revises-dma-compliance-for-app-store-link-outs-applying-fewer-restrictions-and-a-new-fee-structure/)
+- [Aurora alert: Possible geomagnetic storm could see northern lights alongside Perseid meteor shower this weekend](https://www.space.com/auroras-northern-lights-perseid-meteor-shower-weekend)
 - [Chime and Dave execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/08/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/)
-- [How to enable Wikipedia’s dark mode](https://techcrunch.com/2024/08/08/how-to-enable-wikipedias-dark-mode/)
-- [Home security giant ADT says it was hacked](https://techcrunch.com/2024/08/08/home-security-giant-adt-says-it-was-hacked/)
-- [How to watch the Perseid meteor shower live online this weekend](https://www.space.com/watch-perseid-meteor-shower-2024-peak-free-livestream)
-- [Looking Glass’ new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
