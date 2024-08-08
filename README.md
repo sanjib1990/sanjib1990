@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [These nearby star systems could be good targets in the search for alien life](https://www.space.com/nasa-chandra-x-ray-telescope-exoplanet-habitability)
-- [OpenAI adds a Carnegie Mellon professor to its board of directors](https://techcrunch.com/2024/08/08/openai-adds-a-carnegie-mellon-professor-to-its-board-of-directors/)
-- [Spotify and Epic Games call Apple’s revised DMA compliance plan ‘confusing,’ ‘illegal’ and ‘unacceptable’](https://techcrunch.com/2024/08/08/spotify-and-epic-games-call-apples-revised-dma-compliance-plan-confusing-illegal-and-unacceptable/)
-- [Thursday, the dating app that you can use only on Thursdays, expands to San Francisco](https://techcrunch.com/2024/08/08/thursday-dating-app-san-francisco-launch/)
-- [Cohere co-founder Nick Frosst thinks everyone needs to be more realistic on what AI can and cannot do](https://techcrunch.com/2024/08/08/cohere-co-founder-nick-frosst-thinks-everyone-needs-to-be-more-realistic-on-what-ai-can-and-cannot-do/)
+- [Archer to set up air taxi network in LA by 2026 ahead of World Cup](https://techcrunch.com/2024/08/08/archer-to-set-up-air-taxi-network-in-la-by-2026-ahead-of-world-cup/)
+- [Mars Express orbiter takes a deep dive into ancient Red Planet lake &lpar;images&rpar;](https://www.space.com/mars-ancient-lake-express-orbiter)
+- [Amazon is fumbling in India](https://techcrunch.com/2024/08/08/amazon-is-fumbling-in-india/)
+- [OpenAI finds that GPT-4o does some truly bizarre stuff sometimes](https://techcrunch.com/2024/08/08/openai-finds-that-gpt-4o-does-some-truly-bizarre-stuff-sometimes/)
+- [Box adds crucial piece to its AI platform with Alphamoon acquisition](https://techcrunch.com/2024/08/08/box-adds-crucial-piece-to-its-ai-platform-with-alphamoon-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
