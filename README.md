@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newborn moon may have had many mini-siblings in Earth orbit long ago](https://www.space.com/moon-formation-companions-earth-orbit)
 - [Bilingual dictation assistant Silvia understands ‘Spanglish’ and other language mixtures](https://techcrunch.com/2024/08/08/bilingual-dictation-assistant-silvia-understands-spanglish-and-other-language-mixtures/)
 - [Indian conglomerate Reliance slashed over 42,000 jobs last financial year](https://techcrunch.com/2024/08/07/indian-conglomerate-reliance-slashed-over-42000-jobs-last-financial-year/)
 - [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/)
 - [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/)
-- [YouTube is testing a feature that lets creators use Google Gemini to brainstorm video ideas](https://techcrunch.com/2024/08/07/youtube-is-testing-a-feature-that-lets-creators-use-google-gemini-to-brainstorm-video-ideas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
