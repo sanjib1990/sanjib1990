@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The spaceships of the Alien movies](https://www.space.com/spaceships-of-the-alien-movies)
-- [Instagram is embracing the ‘photo dump’](https://techcrunch.com/2024/08/08/instagram-is-embracing-the-photo-dump/)
-- [Lyft ‘opens a can of whoop ass’ on surge pricing, Tesla’s Dojo explained and Saudi Arabia pumps $1.5B into Lucid](https://techcrunch.com/2024/08/08/lyft-opens-a-can-of-whoop-ass-on-surge-pricing-teslas-dojo-explained-and-saudi-arabia-pumps-1-5b-into-lucid/)
-- [Over 350 asteroids have hidden moons, Gaia space telescope finds](https://www.space.com/gaia-350-asteroids-hidden-moons)
-- [Elon Musk’s X agrees to pause EU data processing for training Grok](https://techcrunch.com/2024/08/08/elon-musks-x-agrees-to-pause-eu-data-processing-for-training-grok/)
+- [These nearby star systems could be good targets in the search for alien life](https://www.space.com/nasa-chandra-x-ray-telescope-exoplanet-habitability)
+- [OpenAI adds a Carnegie Mellon professor to its board of directors](https://techcrunch.com/2024/08/08/openai-adds-a-carnegie-mellon-professor-to-its-board-of-directors/)
+- [Spotify and Epic Games call Apple’s revised DMA compliance plan ‘confusing,’ ‘illegal’ and ‘unacceptable’](https://techcrunch.com/2024/08/08/spotify-and-epic-games-call-apples-revised-dma-compliance-plan-confusing-illegal-and-unacceptable/)
+- [Thursday, the dating app that you can use only on Thursdays, expands to San Francisco](https://techcrunch.com/2024/08/08/thursday-dating-app-san-francisco-launch/)
+- [Cohere co-founder Nick Frosst thinks everyone needs to be more realistic on what AI can and cannot do](https://techcrunch.com/2024/08/08/cohere-co-founder-nick-frosst-thinks-everyone-needs-to-be-more-realistic-on-what-ai-can-and-cannot-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
