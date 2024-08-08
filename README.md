@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian conglomerate Reliance slashed over 42,000 jobs last financial year](https://techcrunch.com/2024/08/07/indian-conglomerate-reliance-slashed-over-42000-jobs-last-financial-year/)
 - [Anduril raises $1.5B at a $14B valuation](https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/)
 - [UK satellite startup Blue Skies Space wants to sell astronomy data ‘as a service’](https://techcrunch.com/2024/08/07/uk-satellite-startup-blue-skies-space-wants-to-sell-astronomy-data-as-a-service/)
 - [YouTube is testing a feature that lets creators use Google Gemini to brainstorm video ideas](https://techcrunch.com/2024/08/07/youtube-is-testing-a-feature-that-lets-creators-use-google-gemini-to-brainstorm-video-ideas/)
 - [From Skims to Stripe, here are the startups that are likely — or definitely — not having IPOs this year](https://techcrunch.com/2024/08/07/startups-not-likely-to-ipo-2024/)
-- [James Webb Space Telescope finds a shock near supermassive black hole &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-supermassive-black-hole-shock-dust-gas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
