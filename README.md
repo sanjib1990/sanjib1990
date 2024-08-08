@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chime and Dave execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/08/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/)
+- [How to enable Wikipedia’s dark mode](https://techcrunch.com/2024/08/08/how-to-enable-wikipedias-dark-mode/)
+- [Home security giant ADT says it was hacked](https://techcrunch.com/2024/08/08/home-security-giant-adt-says-it-was-hacked/)
 - [How to watch the Perseid meteor shower live online this weekend](https://www.space.com/watch-perseid-meteor-shower-2024-peak-free-livestream)
 - [Looking Glass’ new lineup includes a $300 phone-sized holographic display](https://techcrunch.com/2024/08/08/looking-glass-new-lineup-includes-a-300-phone-sized-holographic-display/)
-- [On this day in space! Aug. 8, 1931: Happy birthday to a black hole pioneer!](https://www.space.com/39251-on-this-day-in-space.html)
-- [US Space Force will make history when SpaceX&#39;s Crew-9 mission launches in September](https://www.space.com/space-force-1st-guardian-from-own-launch-pad-spacex-crew-9)
-- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
