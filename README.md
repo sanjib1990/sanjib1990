@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Big news! &#39;The Orville&#39; is getting a 4th season, actor confirms](https://www.space.com/season-four-the-orville-start-production-2025)
+- [Rabbit’s r1 refines chats and timers, but its app-using ‘action model’ is still MIA](https://techcrunch.com/2024/08/08/rabbits-r1-refines-chats-and-timers-but-its-app-using-action-model-is-still-mia/)
 - [Archer to set up air taxi network in LA by 2026 ahead of World Cup](https://techcrunch.com/2024/08/08/archer-to-set-up-air-taxi-network-in-la-by-2026-ahead-of-world-cup/)
 - [Mars Express orbiter takes a deep dive into ancient Red Planet lake &lpar;images&rpar;](https://www.space.com/mars-ancient-lake-express-orbiter)
 - [Amazon is fumbling in India](https://techcrunch.com/2024/08/08/amazon-is-fumbling-in-india/)
-- [OpenAI finds that GPT-4o does some truly bizarre stuff sometimes](https://techcrunch.com/2024/08/08/openai-finds-that-gpt-4o-does-some-truly-bizarre-stuff-sometimes/)
-- [Box adds crucial piece to its AI platform with Alphamoon acquisition](https://techcrunch.com/2024/08/08/box-adds-crucial-piece-to-its-ai-platform-with-alphamoon-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
