@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft ‘opens a can of whoop ass’ on surge pricing, Tesla’s Dojo explained and Saudi Arabia pumps $1.5B into Lucid](https://techcrunch.com/2024/08/08/lyft-opens-a-can-of-whoop-ass-on-surge-pricing-teslas-dojo-explained-and-saudi-arabia-pumps-1-5b-into-lucid/)
+- [Over 350 asteroids have hidden moons, Gaia space telescope finds](https://www.space.com/gaia-350-asteroids-hidden-moons)
+- [Elon Musk’s X agrees to pause EU data processing for training Grok](https://techcrunch.com/2024/08/08/elon-musks-x-agrees-to-pause-eu-data-processing-for-training-grok/)
+- [Google DeepMind develops a ‘solidly amateur’ table tennis robot](https://techcrunch.com/2024/08/08/google-deepmind-develops-a-solidly-amateur-table-tennis-robot/)
 - [As X sues advertisers over boycott, the app ditches all ads from its top subscription tier](https://techcrunch.com/2024/08/08/as-x-sues-advertisers-over-boycott-the-app-ditches-all-ads-from-its-top-subscription-tier/)
-- [Astronaut Jon McBride, early NASA space shuttle pilot, dies at 80](https://www.space.com/nasa-space-shuttle-astronaut-jon-mcbride-obituary)
-- [Apple revises DMA compliance for App Store link-outs, applying fewer restrictions and a new fee structure](https://techcrunch.com/2024/08/08/apple-revises-dma-compliance-for-app-store-link-outs-applying-fewer-restrictions-and-a-new-fee-structure/)
-- [Aurora alert: Possible geomagnetic storm could see northern lights alongside Perseid meteor shower this weekend](https://www.space.com/auroras-northern-lights-perseid-meteor-shower-weekend)
-- [Chime and Dave execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/08/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
