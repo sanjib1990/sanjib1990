@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How do touchscreens work?](https://www.youtube.com/watch?v=G_99HV69hxg)
 - [Making Challenge Tutorial Video: Plaster Mixing](https://www.youtube.com/watch?v=SdhZaeqIFKo)
 - [Making Challenge Tutorial Video: Molding and Casting](https://www.youtube.com/watch?v=3KG_stlWxGw)
 - [Minibot Motor Functions Video](https://www.youtube.com/watch?v=pCcntgGRQLQ)
 - [I forced EVERYONE to use Linux](https://www.youtube.com/watch?v=qdo5lMR1lX4)
-- [Google takes its biggest L ever... now a convicted monopolist](https://www.youtube.com/watch?v=jx2dDV2eWBM)
 <!-- YOUTUBE:END -->
 
 ---
