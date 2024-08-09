@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch how NASA&#39;s Artemis astronauts could escape their rocket in an emergency &lpar;photos, video&rpar;](https://www.space.com/nasa-artemis-moon-astronauts-emergency-safety)
 - [&#39;Galaxy Zoo&#39; project needs your help classifying tens of thousands of galaxies](https://www.space.com/galaxy-zoo-project-identify-galaxies)
 - [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/)
 - [How to tell the difference between meteor and satellite streaks in photos](https://www.space.com/how-to-tell-difference-between-meteors-shooting-stars-and-satellites-in-photos)
 - [YouTube is testing a sleep timer on its Premium tier](https://techcrunch.com/2024/08/09/youtube-is-testing-a-sleep-timer-on-its-premium-tier/)
-- [On this day in space! Aug. 9, 1973: The USSR launched Mars 7](https://www.space.com/39251-on-this-day-in-space.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
