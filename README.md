@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starship is ready for its 5th test flight, SpaceX says &lpar;photos&rpar;](https://www.space.com/spacex-starship-ready-fifth-test-flight)
 - [&#39;Alien: Romulus&#39; is just 1 week away. Watch 2 new terrifying clips to get ready &lpar;video&rpar;](https://www.space.com/alien-romulus-1-week-away-clips)
 - [How to ask Google to remove deepfake porn results from Google Search](https://techcrunch.com/2024/08/09/how-to-ask-google-to-remove-deepfake-porn-results-from-google-search/)
 - [Ecovacs home robots can be hacked to spy on their owners, researchers say](https://techcrunch.com/2024/08/09/ecovacs-home-robots-can-be-hacked-to-spy-on-their-owners-researchers-say/)
 - [Watch an exclusive clip from Hulu&#39;s &#39;Solar Opposites&#39; Season 5 &lpar;video&rpar;](https://www.space.com/solar-opposites-season-5-exclusive-clip)
-- [The X exodus that wasn’t](https://techcrunch.com/2024/08/09/the-x-exodus-that-wasnt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
