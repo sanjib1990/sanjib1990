@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As unrest fueled by disinformation spreads, the U.K. may seek stronger power to regulate tech platforms](https://techcrunch.com/2024/08/09/as-unrest-fueled-by-disinformation-spreads-the-u-k-may-seek-stronger-power-to-regulate-tech-platforms/)
+- [TechCrunch Minute: Lyft Price Lock could be an affordable alternative to surge pricing](https://techcrunch.com/video/techcrunch-minute-lyft-price-lock-could-be-an-affordable-alternative-to-surge-pricing/)
+- [Gears of War games in order: Chronological and release date](https://www.space.com/gears-of-war-games-in-order)
 - [Space Perspective unveils mothership boat for stratospheric balloon trips](https://www.space.com/space-exploration/tech/space-perspective-unveils-mothership-boat-for-stratospheric-balloon-trips)
 - [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/09/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/)
-- [Watch how NASA&#39;s Artemis astronauts could escape their rocket in an emergency &lpar;photos, video&rpar;](https://www.space.com/nasa-artemis-moon-astronauts-emergency-safety)
-- [&#39;Galaxy Zoo&#39; project needs your help classifying tens of thousands of galaxies](https://www.space.com/galaxy-zoo-project-identify-galaxies)
-- [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
