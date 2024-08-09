@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Galaxy Zoo&#39; project needs your help classifying tens of thousands of galaxies](https://www.space.com/galaxy-zoo-project-identify-galaxies)
+- [Humidity sucks. Transaera has a new way to deal with it](https://techcrunch.com/2024/08/09/humidity-sucks-transaera-has-a-new-way-to-deal-with-it/)
 - [How to tell the difference between meteor and satellite streaks in photos](https://www.space.com/how-to-tell-difference-between-meteors-shooting-stars-and-satellites-in-photos)
 - [YouTube is testing a sleep timer on its Premium tier](https://techcrunch.com/2024/08/09/youtube-is-testing-a-sleep-timer-on-its-premium-tier/)
 - [On this day in space! Aug. 9, 1973: The USSR launched Mars 7](https://www.space.com/39251-on-this-day-in-space.html)
-- [Will SpaceX carry Boeing Starliner crew home? Here’s how Dragon could do it](https://www.space.com/spacex-dragon-changes-astronaut-seats-boeing-starliner)
-- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
