@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will SpaceX carry Boeing Starliner crew home? Here’s how Dragon could do it](https://www.space.com/spacex-dragon-changes-astronaut-seats-boeing-starliner)
+- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
 - [Ola Electric surges in India’s biggest listing in two years](https://techcrunch.com/2024/08/08/ola-electric-surges-in-indias-biggest-listing-in-two-years/)
 - [Rocket Lab’s sunny outlook bodes well for future constellation plans](https://techcrunch.com/2024/08/08/rocket-labs-sunny-outlook-bodes-well-for-future-constellation-plans/)
 - [CloudPay, a payroll services provider, lands $120M in new funding](https://techcrunch.com/2024/08/08/cloudpay-a-payroll-services-provider-lands-120m-in-new-funding/)
-- [Security bugs in ransomware leak sites helped save six companies from paying hefty ransoms](https://techcrunch.com/2024/08/08/security-bugs-in-ransomware-leak-sites-helped-save-six-companies-from-paying-hefty-ransoms/)
-- [Chinese rocket breaks apart after megaconstellation launch, creating cloud of space junk](https://www.space.com/china-megaconstellation-launch-space-junk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
