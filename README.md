@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The X exodus that wasn’t](https://techcrunch.com/2024/08/09/the-x-exodus-that-wasnt/)
+- [NASA shuts down NEOWISE asteroid hunter after almost 15 years in space](https://www.space.com/nasa-shuts-down-neowise-asteroid-hunting-spacecraft)
 - [Get a sneak peek at Virgin Galactic&#39;s new Delta class space plane &lpar;video&rpar;](https://www.space.com/virgin-galactic-delta-space-plane-unveiling-video)
 - [Substack now lets anyone publish posts, even if they don’t have a newsletter](https://techcrunch.com/2024/08/09/substack-now-lets-anyone-publish-posts-even-if-they-dont-have-a-newsletter/)
 - [Sun unleashes X-class solar flare, blasts 3rd coronal mass ejection toward Earth in a week &lpar;video&rpar;](https://www.space.com/sun-3rd-solar-flare-week-geomagnetic-storm-watch-aug-2024)
-- [China’s autonomous vehicle startup WeRide prepares for a US IPO](https://techcrunch.com/2024/08/09/chinas-autonomous-vehicle-startup-weride-prepares-for-a-us-ipo/)
-- [How a cybersecurity researcher befriended, then doxed, the leader of LockBit ransomware gang](https://techcrunch.com/2024/08/09/how-a-cybersecurity-researcher-befriended-then-doxed-the-leader-of-lockbit-ransomware-gang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
