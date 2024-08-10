@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI faces more leadership shake-ups](https://techcrunch.com/2024/08/10/openai-faces-more-leadership-shake-ups/)
+- [Maybe Friend wasn’t crazy for spending $1.8M on a domain after all](https://techcrunch.com/2024/08/10/maybe-friend-wasnt-crazy-for-spending-1-8m-on-a-domain-after-all/)
 - [One man decided to take on Google Maps, 20 years later OpenStreetMap is still going strong](https://techcrunch.com/2024/08/10/one-man-decided-to-take-on-google-maps-20-years-later-openstreetmap-is-still-going-strong/)
 - [SpaceX launches 21 Starlink satellites to orbit from Florida &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-satellite-8-3-mission-launch)
 - [The 10 largest GDPR fines on Big Tech](https://techcrunch.com/2024/08/10/the-10-largest-gdpr-fines-on-big-tech/)
-- [This Week In Space podcast: Episode 123 —The Mighty Perseids](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-123-mighty-perseids)
-- [10 of Futurama&#39;s smartest science references and gags](https://www.space.com/futurama-smartest-science-references-and-gags)
 <!-- BLOG-POST-LIST:END -->
 
 ---
