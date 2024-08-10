@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 of Futurama&#39;s smartest science references and gags](https://www.space.com/futurama-smartest-science-references-and-gags)
 - [CSC ServiceWorks reveals 2023 data breach affecting thousands of people](https://techcrunch.com/2024/08/10/csc-serviceworks-reveals-2023-data-breach-affecting-thousands-of-people/)
 - [Which Autobots and Decepticons will we see in &#39;Transformers One?&#39;](https://www.space.com/which-autobots-decepticons-transformers-one-movie)
 - [After global IT meltdown, CrowdStrike courts hackers with action figures and gratitude](https://techcrunch.com/2024/08/10/after-global-it-meltdown-crowdstrike-courts-hackers-with-action-figures-and-gratitude/)
 - [Archaeology on the ISS? Scientists study how astronauts use and store stuff in space](https://www.space.com/international-space-station-archaeology-project)
-- [How can we build landing and launch pads on the moon?](https://www.space.com/the-moon-building-lunar-landing-launch-sites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
