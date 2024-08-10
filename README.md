@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After global IT meltdown, CrowdStrike courts hackers with action figures and gratitude](https://techcrunch.com/2024/08/10/after-global-it-meltdown-crowdstrike-courts-hackers-with-action-figures-and-gratitude/)
+- [Archaeology on the ISS? Scientists study how astronauts use and store stuff in space](https://www.space.com/international-space-station-archaeology-project)
 - [How can we build landing and launch pads on the moon?](https://www.space.com/the-moon-building-lunar-landing-launch-sites)
 - [Former YouTube CEO Susan Wojcicki has passed away at age 56](https://techcrunch.com/2024/08/09/former-youtube-ceo-susan-wojcicki-has-passed-away-at-age-56/)
 - [Student raised security concerns in Mobile Guardian MDM weeks before cyberattack](https://techcrunch.com/2024/08/09/student-raised-security-concerns-in-mobile-guardian-mdm-weeks-before-cyberattack/)
-- [Smartwatches shipments see sharp decline in India](https://techcrunch.com/2024/08/09/smartwatches-shipments-see-sharp-decline-in-india/)
-- [Anysphere, a GitHub Copilot rival, has raised $60M Series A at  $400M valuation from a16z, Thrive, sources say](https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
