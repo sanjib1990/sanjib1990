@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smartwatches shipments see sharp decline in India](https://techcrunch.com/2024/08/09/smartwatches-shipments-see-sharp-decline-in-india/)
+- [Anysphere, a GitHub Copilot rival, has raised $60M Series A at  $400M valuation from a16z, Thrive, sources say](https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/)
 - [Starship is ready for its 5th test flight, SpaceX says &lpar;photos&rpar;](https://www.space.com/spacex-starship-ready-fifth-test-flight)
 - [&#39;Alien: Romulus&#39; is just 1 week away. Watch 2 new terrifying clips to get ready &lpar;video&rpar;](https://www.space.com/alien-romulus-1-week-away-clips)
 - [How to ask Google to remove deepfake porn results from Google Search](https://techcrunch.com/2024/08/09/how-to-ask-google-to-remove-deepfake-porn-results-from-google-search/)
-- [Ecovacs home robots can be hacked to spy on their owners, researchers say](https://techcrunch.com/2024/08/09/ecovacs-home-robots-can-be-hacked-to-spy-on-their-owners-researchers-say/)
-- [Watch an exclusive clip from Hulu&#39;s &#39;Solar Opposites&#39; Season 5 &lpar;video&rpar;](https://www.space.com/solar-opposites-season-5-exclusive-clip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
