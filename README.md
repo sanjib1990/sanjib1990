@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch sharp-eyed radar satellite to orbit on Aug. 11](https://www.space.com/rocket-lab-capella-space-radar-satellite-launch-august-2024)
+- [SpaceX to launch 23 Starlink satellites from Florida on Aug. 11](https://www.space.com/spacex-starlink-launch-group-10-7)
+- [The tech world mourns Susan Wojcicki](https://techcrunch.com/2024/08/10/the-tech-world-mourns-susan-wojcicki/)
 - [As Alexa turns 10, Amazon looks to generative AI](https://techcrunch.com/2024/08/10/as-alexa-turns-10-amazon-looks-to-generative-ai/)
 - [Redfin CEO promises to ‘drink our own urine’ if mortgage rates don’t fall](https://techcrunch.com/2024/08/10/redfin-ceo-promises-to-drink-our-own-urine-if-mortgage-rates-dont-fall/)
-- [Turkey restores access to Instagram](https://techcrunch.com/2024/08/10/turkey-restores-access-to-instagram/)
-- [Tesla’s Dojo, a timeline](https://techcrunch.com/2024/08/10/teslas-dojo-a-timeline/)
-- [The tech world mourns Susan Wojcicki](https://techcrunch.com/2024/08/10/the-tech-world-mourns-susan-wojcicki/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
