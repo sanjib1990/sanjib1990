@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Alexa turns 10, Amazon looks to generative AI](https://techcrunch.com/2024/08/10/as-alexa-turns-10-amazon-looks-to-generative-ai/)
+- [Redfin CEO promises to ‘drink our own urine’ if mortgage rates don’t fall](https://techcrunch.com/2024/08/10/redfin-ceo-promises-to-drink-our-own-urine-if-mortgage-rates-dont-fall/)
+- [Turkey restores access to Instagram](https://techcrunch.com/2024/08/10/turkey-restores-access-to-instagram/)
 - [Tesla’s Dojo, a timeline](https://techcrunch.com/2024/08/10/teslas-dojo-a-timeline/)
 - [The tech world mourns Susan Wojcicki](https://techcrunch.com/2024/08/10/the-tech-world-mourns-susan-wojcicki/)
-- [OpenAI faces more leadership shake-ups](https://techcrunch.com/2024/08/10/openai-faces-more-leadership-shake-ups/)
-- [Maybe Friend wasn’t crazy for spending $1.8M on a domain after all](https://techcrunch.com/2024/08/10/maybe-friend-wasnt-crazy-for-spending-1-8m-on-a-domain-after-all/)
-- [One man decided to take on Google Maps, 20 years later OpenStreetMap is still going strong](https://techcrunch.com/2024/08/10/one-man-decided-to-take-on-google-maps-20-years-later-openstreetmap-is-still-going-strong/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
