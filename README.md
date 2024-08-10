@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former YouTube CEO Susan Wojcicki has passed away at age 56](https://techcrunch.com/2024/08/09/former-youtube-ceo-susan-wojcicki-has-passed-away-at-age-56/)
 - [Student raised security concerns in Mobile Guardian MDM weeks before cyberattack](https://techcrunch.com/2024/08/09/student-raised-security-concerns-in-mobile-guardian-mdm-weeks-before-cyberattack/)
 - [Smartwatches shipments see sharp decline in India](https://techcrunch.com/2024/08/09/smartwatches-shipments-see-sharp-decline-in-india/)
 - [Anysphere, a GitHub Copilot rival, has raised $60M Series A at  $400M valuation from a16z, Thrive, sources say](https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/)
 - [Starship is ready for its 5th test flight, SpaceX says &lpar;photos&rpar;](https://www.space.com/spacex-starship-ready-fifth-test-flight)
-- [&#39;Alien: Romulus&#39; is just 1 week away. Watch 2 new terrifying clips to get ready &lpar;video&rpar;](https://www.space.com/alien-romulus-1-week-away-clips)
 <!-- BLOG-POST-LIST:END -->
 
 ---
