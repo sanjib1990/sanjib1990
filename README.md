@@ -98,7 +98,7 @@
 - [Oyo valuation crashes over 75% in new funding](https://techcrunch.com/2024/08/11/oyo-valuation-crashes-over-75-in-new-funding/)
 - [Origami-inspired &#39;transformer&#39; robots could help build habitats in space &lpar;photo&rpar;](https://www.space.com/origami-inspired-robot-space-habitats)
 - [Small black holes could play &#39;hide-and-seek&#39; with elusive supermassive black hole pairs](https://www.space.com/black-holes-hide-and-seek-supermassive-binaries)
-- [Watch Rocket Lab launch sharp-eyed radar satellite to orbit on Aug. 11](https://www.space.com/rocket-lab-capella-space-radar-satellite-launch-august-2024)
+- [Rocket Lab launches sharp-eyed private radar satellite to orbit](https://www.space.com/rocket-lab-capella-space-radar-satellite-launch-august-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
