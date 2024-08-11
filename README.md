@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oyo valuation crashes over 75% in new funding](https://techcrunch.com/2024/08/11/oyo-valuation-crashes-over-75-in-new-funding/)
+- [Origami-inspired &#39;transformer&#39; robots could help build habitats in space &lpar;photo&rpar;](https://www.space.com/origami-inspired-robot-space-habitats)
 - [Small black holes could play &#39;hide-and-seek&#39; with elusive supermassive black hole pairs](https://www.space.com/black-holes-hide-and-seek-supermassive-binaries)
 - [Watch Rocket Lab launch sharp-eyed radar satellite to orbit on Aug. 11](https://www.space.com/rocket-lab-capella-space-radar-satellite-launch-august-2024)
 - [SpaceX to launch 23 Starlink satellites from Florida on Aug. 11](https://www.space.com/spacex-starlink-launch-group-10-7)
-- [The tech world mourns Susan Wojcicki](https://techcrunch.com/2024/08/10/the-tech-world-mourns-susan-wojcicki/)
-- [As Alexa turns 10, Amazon looks to generative AI](https://techcrunch.com/2024/08/10/as-alexa-turns-10-amazon-looks-to-generative-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
