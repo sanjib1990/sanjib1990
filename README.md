@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Scott Painter is selling a beach house to start a new vehicle software company](https://techcrunch.com/2024/08/11/scott-painter-autonomy-ads-vehicle-subscription-softwar/)
 - [How CNH’s ‘black belt’ M&amp;A head makes deals](https://techcrunch.com/2024/08/11/how-cnhs-black-belt-ma-head-makes-deals/)
 - [CrowdStrike accepts award for ‘most epic fail’ after global IT outage](https://techcrunch.com/2024/08/11/crowdstrike-accepts-award-for-most-epic-fail-after-global-it-outage/)
 - [Open source tools to boost your productivity](https://techcrunch.com/2024/08/11/a-not-quite-definitive-guide-to-open-source-alternative-software/)
 - [Marvel and &#39;Star Wars&#39; take note. &#39;Star Trek&#39; is now Hollywood&#39;s ultimate shared universe](https://www.space.com/marvel-and-star-wars-take-note-star-trek-is-now-hollywoods-ultimate-shared-universe)
-- [Oyo valuation crashes over 75% in new funding](https://techcrunch.com/2024/08/11/oyo-valuation-crashes-over-75-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
