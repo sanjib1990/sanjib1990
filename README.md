@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Mars terraforming idea: engineered, heat-absorbing dust nanoparticles](https://www.space.com/mars-terraforming-engineered-dust-nanoparticles)
+- [Prediction marketplace Polymarket partners with Perplexity to show news summaries](https://techcrunch.com/2024/08/12/prediction-market-polymarket-partners-with-perplexity-to-show-news-summaries/)
+- [Synopsys’s plans to buy Ansys for $35B falls on UK regulatory radar](https://techcrunch.com/2024/08/12/synopsyss-plans-to-buy-ansys-for-35b-falls-on-uk-regulatory-radar/)
 - [See Mars and Jupiter form &#39;double planet&#39; early Aug. 14](https://www.space.com/jupiter-mars-close-approach-aug-2024)
 - [The best hacks and security research from Black Hat and Def Con 2024](https://techcrunch.com/2024/08/12/best-hacks-security-research-black-hat-def-con-2024/)
-- [Mars orbiter hears the siren song of a salty Red Planet &#39;mermaid&#39;](https://www.space.com/mars-esa-exomars-sea-of-the-sirens)
-- [Conduit’s cross-border payments expand from LatAm into Africa with $6M round](https://techcrunch.com/2024/08/12/conduits-cross-border-payments-expand-from-latam-into-africa-with-6m-round/)
-- [Bharti will become BT’s biggest shareholder after buying a 25%, $4B stake from Altice](https://techcrunch.com/2024/08/12/bharti-will-become-bts-biggest-shareholder-after-buying-a-25-4b-stake-from-altice/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
