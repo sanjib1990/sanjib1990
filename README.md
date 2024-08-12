@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best hacks and security research from Black Hat and Def Con 2024](https://techcrunch.com/2024/08/12/best-hacks-security-research-black-hat-def-con-2024/)
 - [Mars orbiter hears the siren song of a salty Red Planet &#39;mermaid&#39;](https://www.space.com/mars-esa-exomars-sea-of-the-sirens)
 - [Conduit’s cross-border payments expand from LatAm into Africa with $6M round](https://techcrunch.com/2024/08/12/conduits-cross-border-payments-expand-from-latam-into-africa-with-6m-round/)
 - [Bharti will become BT’s biggest shareholder after buying a 25%, $4B stake from Altice](https://techcrunch.com/2024/08/12/bharti-will-become-bts-biggest-shareholder-after-buying-a-25-4b-stake-from-altice/)
 - [Elon Musk’s X targeted with nine privacy complaints after grabbing EU users’ data for training Grok](https://techcrunch.com/2024/08/11/elon-musks-x-targeted-with-eight-privacy-complaints-after-grabbing-eu-users-data-for-training-grok/)
-- [India’s Kazam powers up to roll out EV charging in Southeast Asia](https://techcrunch.com/2024/08/11/indias-kazam-powers-up-to-roll-out-ev-charging-in-southeast-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
