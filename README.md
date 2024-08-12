@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marvel&#39;s Darth Vader and Princess Leia rule the galaxy as father and daughter](https://www.space.com/darth-vader-princess-leia-marvel-comics)
+- [Rare Perseid meteor shower and northern lights display excites stargazers worldwide &lpar;photos, videos&rpar;](https://www.space.com/perseid-meteor-shower-and-northern-lights-auroras-august-2024-photos)
+- [China’s autonomous vehicle startup WeRide seeks US IPO at $5B valuation](https://techcrunch.com/2024/08/12/chinas-autonomous-vehicle-startup-weride-prepares-for-a-us-ipo/)
 - [New Mars terraforming idea: engineered, heat-absorbing dust nanoparticles](https://www.space.com/mars-terraforming-engineered-dust-nanoparticles)
 - [Prediction marketplace Polymarket partners with Perplexity to show news summaries](https://techcrunch.com/2024/08/12/prediction-market-polymarket-partners-with-perplexity-to-show-news-summaries/)
-- [Synopsys’s plans to buy Ansys for $35B falls on UK regulatory radar](https://techcrunch.com/2024/08/12/synopsyss-plans-to-buy-ansys-for-35b-falls-on-uk-regulatory-radar/)
-- [See Mars and Jupiter form &#39;double planet&#39; early Aug. 14](https://www.space.com/jupiter-mars-close-approach-aug-2024)
-- [The best hacks and security research from Black Hat and Def Con 2024](https://techcrunch.com/2024/08/12/best-hacks-security-research-black-hat-def-con-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
