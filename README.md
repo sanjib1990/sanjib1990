@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s X targeted with nine privacy complaints after grabbing EU users’ data for training Grok](https://techcrunch.com/2024/08/11/elon-musks-x-targeted-with-eight-privacy-complaints-after-grabbing-eu-users-data-for-training-grok/)
+- [India’s Kazam powers up to roll out EV charging in Southeast Asia](https://techcrunch.com/2024/08/11/indias-kazam-powers-up-to-roll-out-ev-charging-in-southeast-asia/)
 - [SpaceX Falcon 9 rocket launches for record-tying 22nd time, sending Arctic broadband satellites to orbit](https://www.space.com/spacex-asbm-mission-falcon-9-22nd-launch)
 - [Why Scott Painter is selling a beach house to start a new vehicle software company](https://techcrunch.com/2024/08/11/scott-painter-autonomy-ads-vehicle-subscription-softwar/)
 - [How CNH’s ‘black belt’ M&amp;A head makes deals](https://techcrunch.com/2024/08/11/how-cnhs-black-belt-ma-head-makes-deals/)
-- [CrowdStrike accepts award for ‘most epic fail’ after global IT outage](https://techcrunch.com/2024/08/11/crowdstrike-accepts-award-for-most-epic-fail-after-global-it-outage/)
-- [Open source tools to boost your productivity](https://techcrunch.com/2024/08/11/a-not-quite-definitive-guide-to-open-source-alternative-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
