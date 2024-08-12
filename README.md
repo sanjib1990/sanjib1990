@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive star&#39;s gory &#39;death by black hole&#39; is the biggest and brightest event of its kind](https://www.space.com/black-hole-tde-at2023vto)
+- [Enhance your brand: Host a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/12/enhance-your-brand-host-a-side-event-at-techcrunch-disrupt-2024/)
+- [The Lego UCS Millennium Falcon is now Amazon&#39;s lowest price this year](https://www.space.com/lego-ucs-millennium-falcon-amazon-deal-lowest-price-of-2024)
+- [Meta, Universal Music Group addresses AI music in new licensing agreement](https://techcrunch.com/2024/08/12/meta-universal-music-group-address-ai-generated-content/)
 - [Marvel&#39;s Darth Vader and Princess Leia rule the galaxy as father and daughter](https://www.space.com/darth-vader-princess-leia-marvel-comics)
-- [Rare Perseid meteor shower and northern lights display excites stargazers worldwide &lpar;photos, videos&rpar;](https://www.space.com/perseid-meteor-shower-and-northern-lights-auroras-august-2024-photos)
-- [China’s autonomous vehicle startup WeRide seeks US IPO at $5B valuation](https://techcrunch.com/2024/08/12/chinas-autonomous-vehicle-startup-weride-prepares-for-a-us-ipo/)
-- [New Mars terraforming idea: engineered, heat-absorbing dust nanoparticles](https://www.space.com/mars-terraforming-engineered-dust-nanoparticles)
-- [Prediction marketplace Polymarket partners with Perplexity to show news summaries](https://techcrunch.com/2024/08/12/prediction-market-polymarket-partners-with-perplexity-to-show-news-summaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
