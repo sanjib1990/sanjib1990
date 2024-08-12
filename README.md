@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Euro VCs welcome Balderton’s fresh $1.3B but grumble about Europe’s AI misses](https://techcrunch.com/2024/08/12/euro-vcs-welcome-baldertons-fresh-1-3b-but-grumble-about-europes-ai-misses/)
+- [TikTok comes for messaging apps with the addition of group chats](https://techcrunch.com/2024/08/12/tiktok-comes-for-messaging-apps-with-the-addition-of-group-chats/)
+- [&#39;Borderlands&#39; review: A return to the dark ages of video game adaptations](https://www.space.com/borderlands-movie-review)
+- [What is AI good for anyway? Maybe not summarizing](https://techcrunch.com/2024/08/12/what-is-ai-good-for-anyway-maybe-not-summarizing/)
 - [Waymo to begin testing driverless robotaxis on San Francisco freeways](https://techcrunch.com/2024/08/12/waymo-to-begin-testing-driverless-robotaxis-on-san-francisco-freeways/)
-- [Anduril reaches milestone with major defense hardware contract](https://techcrunch.com/2024/08/12/anduril-reaches-milestone-with-major-defense-hardware-contract/)
-- [Google begins shipping locally made Pixel 8 in India ahead of Pixel 9 launch](https://techcrunch.com/2024/08/12/google-begins-shipping-locally-made-pixel-8-in-india-ahead-of-pixel-9-launch/)
-- [Everything we know about Blade Runner 2099: Release date, plot, cast &amp; more](https://www.space.com/everything-we-know-about-blade-runner-2099)
-- [TechCrunch Minute: Trade My Spin takes the pain out of selling used Pelotons](https://techcrunch.com/video/techcrunch-minute-trade-my-spin-takes-the-pain-out-of-selling-used-pelotons/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
