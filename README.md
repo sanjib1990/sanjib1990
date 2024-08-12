@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z-backed fintech Tally, which raised $172M in funding, is shutting down after running out of cash](https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/)
 - [TechCrunch Space: It’s a bird, it’s a plane — it’s a rocket-powered aircraft!](https://techcrunch.com/2024/08/12/techcrunch-space-its-a-bird-its-a-plane-its-a-rocket-powered-aircraft/)
 - [SEC charges crypto firm NovaTech with fraud](https://techcrunch.com/2024/08/12/sec-charges-crypto-firm-novatech-with-fraud/)
 - [SpaceX to launch 4 people on historic Fram2 mission over Earth&#39;s poles in late 2024](https://www.space.com/spacex-fram2-first-human-spaceflight-earth-poles)
 - [Aurora alert: Geomagnetic storms from solar flares may supercharge northern lights across US, Canada](https://www.space.com/auroras-from-geomagnetic-storm-amps-northern-lights-august-2024)
-- [Axiom Space&#39;s next astronaut mission to the ISS with SpaceX delayed to spring 2025](https://www.space.com/axiom-space-ax-4-delay-spring-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
