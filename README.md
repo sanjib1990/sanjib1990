@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese astronauts celebrate Olympics on Tiangong space station &lpar;video&rpar;](https://www.space.com/china-astronauts-paris-olympics-tiangong-space-station)
 - [Euro VCs welcome Balderton’s fresh $1.3B but grumble about Europe’s AI misses](https://techcrunch.com/2024/08/12/euro-vcs-welcome-baldertons-fresh-1-3b-but-grumble-about-europes-ai-misses/)
 - [TikTok comes for messaging apps with the addition of group chats](https://techcrunch.com/2024/08/12/tiktok-comes-for-messaging-apps-with-the-addition-of-group-chats/)
 - [&#39;Borderlands&#39; review: A return to the dark ages of video game adaptations](https://www.space.com/borderlands-movie-review)
 - [What is AI good for anyway? Maybe not summarizing](https://techcrunch.com/2024/08/12/what-is-ai-good-for-anyway-maybe-not-summarizing/)
-- [Waymo to begin testing driverless robotaxis on San Francisco freeways](https://techcrunch.com/2024/08/12/waymo-to-begin-testing-driverless-robotaxis-on-san-francisco-freeways/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
