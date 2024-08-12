@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space&#39;s next astronaut mission to the ISS with SpaceX delayed to spring 2025](https://www.space.com/axiom-space-ax-4-delay-spring-2025)
+- [FBI takes down ransomware gang that hacked dozens of companies](https://techcrunch.com/2024/08/12/fbi-takes-down-ransomware-gang-that-hacked-dozens-of-companies/)
 - [NASA satellite data adds key pollutant to national environmental justice database](https://www.space.com/national-environmental-justice-database-satellite-tracking)
 - [The biggest data breaches in 2024: 1 billion stolen records and rising](https://techcrunch.com/2024/08/12/2024-in-data-breaches-1-billion-stolen-records-and-rising/)
 - [Chinese astronauts celebrate Olympics on Tiangong space station &lpar;video&rpar;](https://www.space.com/china-astronauts-paris-olympics-tiangong-space-station)
-- [Euro VCs welcome Balderton’s fresh $1.3B but grumble about Europe’s AI misses](https://techcrunch.com/2024/08/12/euro-vcs-welcome-baldertons-fresh-1-3b-but-grumble-about-europes-ai-misses/)
-- [TikTok comes for messaging apps with the addition of group chats](https://techcrunch.com/2024/08/12/tiktok-comes-for-messaging-apps-with-the-addition-of-group-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
