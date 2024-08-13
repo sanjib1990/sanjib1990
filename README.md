@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk and Donald Trump’s X Spaces crashes](https://techcrunch.com/2024/08/12/elon-musk-and-donald-trumps-x-spaces-crashes/)
+- [Elon Musk and Donald Trump’s X Spaces event crashes](https://techcrunch.com/2024/08/12/elon-musk-and-donald-trumps-x-spaces-crashes/)
+- [Antler doubles down on Southeast Asia with $72M second startup fund](https://techcrunch.com/2024/08/12/antler-closes-72m-second-sea-fund-to-ramp-up-startup-investment-in-southeast-asia/)
 - [Scientists hail scientific legacy of comet-chasing Rosetta probe on 10th anniversary](https://www.space.com/rosetta-probe-esa-mission)
 - [Score, the dating app for people with good to excellent credit, quietly shuts down](https://techcrunch.com/2024/08/12/score-the-dating-app-for-people-with-good-to-excellent-credit-quietly-shuts-down/)
 - [Crewed commercial SpaceX mission will traverse the poles like the explorers of old](https://techcrunch.com/2024/08/12/crewed-commercial-spacex-mission-will-traverse-the-poles-like-the-explorers-of-old/)
-- [Artists’ lawsuit against generative AI makers can go forward, judge says](https://techcrunch.com/2024/08/12/artists-lawsuit-against-generative-ai-makers-can-go-forward-judge-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
