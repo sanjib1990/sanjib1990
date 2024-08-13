@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Made by Google 2024: All of Google’s reveals, from the Pixel 9 lineup to Gemini AI’s addition to everything](https://techcrunch.com/2024/08/13/made-by-google-2024-all-of-googles-reveals-from-the-pixel-9-iineup-to-gemini-ais-addition-to-everything/)
-- [Roller coaster tech could help NASA’s Artemis moon astronauts in case of a launch emergency](https://www.space.com/nasa-artemis-emergency-roller-coaster-tech)
-- [Google’s $1,799 Pixel 9 Pro Fold arrives with 8-inch inner display and Gemini](https://techcrunch.com/2024/08/13/googles-1799-pixel-9-pro-fold-arrives-with-8-inch-inner-display-and-gemini/)
-- [Google’s Pixel 9 line offers more size options, better cameras and Gemini by default](https://techcrunch.com/2024/08/13/googles-pixel-9-line-offers-more-size-options-better-cameras-and-gemini-by-default/)
-- [Gemini Live, Google’s answer to ChatGPT’s Advanced Voice Mode, launches](https://techcrunch.com/2024/08/13/gemini-live-googles-answer-to-chatgpts-advanced-voice-mode-launches/)
+- [Highly magnetic dead star launches mysterious blast of energy](https://www.space.com/pulsar-dead-star-magnetar-energy-blast)
+- [Pixel phones get an AI-powered Weather app](https://techcrunch.com/2024/08/13/pixel-phones-get-an-ai-powered-weather-app/)
+- [Threads may offer its own take on Fleets with a disappearing posts feature](https://techcrunch.com/2024/08/13/threads-may-offer-its-own-take-on-fleets-with-a-disappearing-posts-feature/)
+- [The Tesla Diner might actually be happening](https://techcrunch.com/2024/08/13/the-tesla-diner-might-actually-be-happening/)
+- [Google adds new AI-powered features for photo editing and image generation](https://techcrunch.com/2024/08/13/google-adds-new-ai-powered-features-for-photo-editing-and-image-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
