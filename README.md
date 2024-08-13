@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [over 24,000 GPUs!!!](https://www.youtube.com/watch?v=LI7he7KYSLY)
 - [Hackers are looking at your website](https://www.youtube.com/watch?v=TSqGHapvNr8)
 - [We&#39;re on the brink of another world browser war](https://www.youtube.com/watch?v=p572p-irRaU)
 - [TimescaleDB in 100 Seconds](https://www.youtube.com/watch?v=69Tzh_0lHJ8)
 - [How do touchscreens work?](https://www.youtube.com/watch?v=G_99HV69hxg)
-- [Making Challenge Tutorial Video: Plaster Mixing](https://www.youtube.com/watch?v=SdhZaeqIFKo)
 <!-- YOUTUBE:END -->
 
 ---
