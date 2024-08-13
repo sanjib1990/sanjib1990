@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [She grew up a gearhead — now her startup has raised $4.3M to cut CO2 from trucking](https://techcrunch.com/2024/08/13/she-grew-up-a-gearhead-now-her-startup-has-raised-4m-to-cut-co2-from-trucking/)
 - [Opera is releasing its redesigned browser on iOS](https://techcrunch.com/2024/08/13/opera-is-releasing-its-redesigned-browser-on-ios/)
 - [The crypto founder who didn’t save Puerto Rico after all](https://techcrunch.com/2024/08/12/the-crypto-founder-who-didnt-save-puerto-rico-after-all/)
 - [Elon Musk and Donald Trump’s X Spaces event crashes](https://techcrunch.com/2024/08/12/elon-musk-and-donald-trumps-x-spaces-crashes/)
 - [Antler doubles down on Southeast Asia with $72M second startup fund](https://techcrunch.com/2024/08/12/antler-closes-72m-second-sea-fund-to-ramp-up-startup-investment-in-southeast-asia/)
-- [Scientists hail scientific legacy of comet-chasing Rosetta probe on 10th anniversary](https://www.space.com/rosetta-probe-esa-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
