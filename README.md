@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a Perseid fireball light up the skies above Macedonia in this striking video](https://www.space.com/perseid-meteor-shower-fireball-macedonia-video)
+- [UAW files federal labor charges against Trump, Musk for intimidating workers at X Spaces event](https://techcrunch.com/2024/08/13/uaw-files-federal-labor-charges-against-trump-musk-for-intimidating-workers-at-x-spaces-event/)
+- [Pixel Watch 3 adds a life-saving ‘loss of pulse’ detection feature](https://techcrunch.com/2024/08/13/pixel-watch-3-adds-a-life-saving-loss-of-pulse-detection-feature/)
+- [Google’s Made You Look uses Pixar characters to trick kids into smiling for the camera](https://techcrunch.com/2024/08/13/googles-made-you-look-uses-pixar-characters-to-trick-kids-into-smiling-for-the-camera/)
 - [Highly magnetic dead star launches mysterious blast of energy](https://www.space.com/pulsar-dead-star-magnetar-energy-blast)
-- [Pixel phones get an AI-powered Weather app](https://techcrunch.com/2024/08/13/pixel-phones-get-an-ai-powered-weather-app/)
-- [Threads may offer its own take on Fleets with a disappearing posts feature](https://techcrunch.com/2024/08/13/threads-may-offer-its-own-take-on-fleets-with-a-disappearing-posts-feature/)
-- [The Tesla Diner might actually be happening](https://techcrunch.com/2024/08/13/the-tesla-diner-might-actually-be-happening/)
-- [Google adds new AI-powered features for photo editing and image generation](https://techcrunch.com/2024/08/13/google-adds-new-ai-powered-features-for-photo-editing-and-image-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
