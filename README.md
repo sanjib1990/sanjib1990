@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Payoneer scoops up Skuad, Robinhood’s strong Q2, and X is making progress on payments](https://techcrunch.com/2024/08/13/payoneer-scoops-up-skuad-robinhoods-strong-q2-and-x-is-making-progress-on-payments/)
+- [Drugs can partially prevent muscle loss caused by microgravity, experimental study finds](https://www.space.com/space-exploration/human-spaceflight/drugs-can-partially-prevent-muscle-loss-caused-by-microgravity-experimental-study-finds)
+- [Encord lands new cash to grow its data labeling tools for AI](https://techcrunch.com/2024/08/13/encord-lands-new-cash-to-grow-its-data-labeling-tools-for-ai/)
+- [Singaporean investment app Syfe pulls in $27M to hasten growth in Asia Pacific](https://techcrunch.com/2024/08/13/singapores-investment-app-syfe-accelerates-growth-across-asia-pacific-with-27m/)
 - [Twitch rolls out video stories to challenge Instagram](https://techcrunch.com/2024/08/13/twitch-rolls-out-video-stories-to-challenge-instagram/)
-- [Airplane contrails are a tricky, and surprising, contributor to global warming](https://www.space.com/modern-airplane-contrails-impact-global-warming)
-- [California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one](https://techcrunch.com/2024/08/13/california-ai-bill-aims-to-prevent-disasters-silicon-valley/)
-- [Flipboard users can now follow anyone in the fediverse, including those on Threads](https://techcrunch.com/2024/08/13/flipboard-users-can-now-follow-anyone-in-the-fediverse-including-those-on-threads/)
-- [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
