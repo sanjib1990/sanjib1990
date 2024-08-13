@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly found star 30 times the size of the sun has an unexpected chemical composition](https://www.space.com/large-star-discovery-stellar-evolution)
+- [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/)
+- [SoundCloud launches its own merch store, will let artists create their own designs](https://techcrunch.com/2024/08/13/soundcloud-launches-its-own-merch-store-will-let-artists-create-their-own-designs/)
 - [Chinese company CAS Space takes steps toward 1st launch of reusable rocket](https://www.space.com/china-cas-space-reusable-rocket-progress)
 - [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/)
-- [PayZen secures $23M Series B, $200M debt facility to grow its “care now, pay later” product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/)
-- [Recent star death leaves behind highly magnetic stellar corpse](https://www.space.com/star-death-magnetar-corpse)
-- [EU warns X over illegal content risks. Musk replies with Tropic Thunder insult meme](https://techcrunch.com/2024/08/13/eu-warns-x-over-illegal-content-risks-musk-replies-with-tropic-thunder-insult-meme/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
