@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly found star 30 times the size of the sun has an unexpected chemical composition](https://www.space.com/large-star-discovery-stellar-evolution)
-- [Move over SEO, Profound is helping brands with AI search optimization](https://techcrunch.com/2024/08/13/move-over-seo-profound-is-helping-brands-with-ai-search-optimization/)
-- [SoundCloud launches its own merch store, will let artists create their own designs](https://techcrunch.com/2024/08/13/soundcloud-launches-its-own-merch-store-will-let-artists-create-their-own-designs/)
-- [Chinese company CAS Space takes steps toward 1st launch of reusable rocket](https://www.space.com/china-cas-space-reusable-rocket-progress)
-- [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/)
+- [Twitch rolls out video stories to challenge Instagram](https://techcrunch.com/2024/08/13/twitch-rolls-out-video-stories-to-challenge-instagram/)
+- [Airplane contrails are a tricky, and surprising, contributor to global warming](https://www.space.com/modern-airplane-contrails-impact-global-warming)
+- [California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one](https://techcrunch.com/2024/08/13/california-ai-bill-aims-to-prevent-disasters-silicon-valley/)
+- [Flipboard users can now follow anyone in the fediverse, including those on Threads](https://techcrunch.com/2024/08/13/flipboard-users-can-now-follow-anyone-in-the-fediverse-including-those-on-threads/)
+- [ArborXR secures $12M to boost its management platform for AR and VR devices](https://techcrunch.com/2024/08/13/arborxr-secures-12m-to-boost-management-platform-for-ar-and-vr-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
