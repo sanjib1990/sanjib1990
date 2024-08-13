@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Winning a Gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/)
+- [New ISS images showcase auroras, moon and space station in glorious photos &lpar;video&rpar;](https://www.space.com/iss-aurora-moon-imagery-nasa-astronaut)
+- [California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one](https://techcrunch.com/2024/08/13/california-ai-bill-sb-1047-aims-to-prevent-ai-disasters-but-silicon-valley-warns-it-will-cause-one/)
+- [The first post-quantum cryptography standards are here](https://techcrunch.com/2024/08/13/the-first-post-quantum-cryptography-standards-are-here/)
 - [Watch a Perseid fireball light up the skies above Macedonia in this striking video](https://www.space.com/perseid-meteor-shower-fireball-macedonia-video)
-- [UAW files federal labor charges against Trump, Musk for intimidating workers at X Spaces event](https://techcrunch.com/2024/08/13/uaw-files-federal-labor-charges-against-trump-musk-for-intimidating-workers-at-x-spaces-event/)
-- [Pixel Watch 3 adds a life-saving ‘loss of pulse’ detection feature](https://techcrunch.com/2024/08/13/pixel-watch-3-adds-a-life-saving-loss-of-pulse-detection-feature/)
-- [Google’s Made You Look uses Pixar characters to trick kids into smiling for the camera](https://techcrunch.com/2024/08/13/googles-made-you-look-uses-pixar-characters-to-trick-kids-into-smiling-for-the-camera/)
-- [Highly magnetic dead star launches mysterious blast of energy](https://www.space.com/pulsar-dead-star-magnetar-energy-blast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
