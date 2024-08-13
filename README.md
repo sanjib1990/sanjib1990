@@ -98,7 +98,7 @@
 - [Texas sues GM, saying it tricked customers into sharing driving data sold to insurers](https://techcrunch.com/2024/08/13/texas-sues-gm-saying-it-tricked-customers-into-sharing-driving-data-sold-to-insurers/)
 - [Weird, &#39;watermelon shape&#39; asteroids like Dimorphos and Selam may finally have an explanation](https://www.space.com/watermelon-shape-asteroids-like-dimorphos-may-have-explanation)
 - [Chinese robotaxi startup WeRide gets approval to carry passengers in California](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/)
-- [Winning a Gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/)
+- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
