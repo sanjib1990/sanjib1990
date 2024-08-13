@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [a16z-backed fintech Tally, which raised $172M in funding, is shutting down after running out of cash](https://techcrunch.com/2024/08/12/a16z-backed-fintech-tally-which-raised-172m-in-funding-is-shutting-down-after-running-out-of-cash/)
-- [TechCrunch Space: It’s a bird, it’s a plane — it’s a rocket-powered aircraft!](https://techcrunch.com/2024/08/12/techcrunch-space-its-a-bird-its-a-plane-its-a-rocket-powered-aircraft/)
-- [SEC charges crypto firm NovaTech with fraud](https://techcrunch.com/2024/08/12/sec-charges-crypto-firm-novatech-with-fraud/)
-- [SpaceX to launch 4 people on historic Fram2 mission over Earth&#39;s poles in late 2024](https://www.space.com/spacex-fram2-first-human-spaceflight-earth-poles)
-- [Aurora alert: Geomagnetic storms from solar flares may supercharge northern lights across US, Canada](https://www.space.com/auroras-from-geomagnetic-storm-amps-northern-lights-august-2024)
+- [Elon Musk and Donald Trump’s X Spaces crashes](https://techcrunch.com/2024/08/12/elon-musk-and-donald-trumps-x-spaces-crashes/)
+- [Scientists hail scientific legacy of comet-chasing Rosetta probe on 10th anniversary](https://www.space.com/rosetta-probe-esa-mission)
+- [Score, the dating app for people with good to excellent credit, quietly shuts down](https://techcrunch.com/2024/08/12/score-the-dating-app-for-people-with-good-to-excellent-credit-quietly-shuts-down/)
+- [Crewed commercial SpaceX mission will traverse the poles like the explorers of old](https://techcrunch.com/2024/08/12/crewed-commercial-spacex-mission-will-traverse-the-poles-like-the-explorers-of-old/)
+- [Artists’ lawsuit against generative AI makers can go forward, judge says](https://techcrunch.com/2024/08/12/artists-lawsuit-against-generative-ai-makers-can-go-forward-judge-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
