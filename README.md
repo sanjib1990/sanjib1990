@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Recent star death leaves behind highly magnetic stellar corpse](https://www.space.com/star-death-magnetar-corpse)
+- [EU warns X over illegal content risks. Musk replies with Tropic Thunder insult meme](https://techcrunch.com/2024/08/13/eu-warns-x-over-illegal-content-risks-musk-replies-with-tropic-thunder-insult-meme/)
+- [Why this AI startup is betting on voice-enabled bots to scale AI adoption in India](https://techcrunch.com/2024/08/13/why-this-ai-startup-is-betting-on-voice-enabled-bots-to-scale-ai-adoption-in-india/)
 - [Lego Technic planet earth and moon in orbit review](https://www.space.com/lego-technic-planet-earth-and-moon-in-orbit-space-set-review)
 - [Boeing needs to improve quality-control work on SLS moon rocket, NASA Inspector General finds](https://www.space.com/nasa-oig-report-space-launch-system-rocket)
-- [She grew up a gearhead — now her startup has raised $4.3M to cut CO2 from trucking](https://techcrunch.com/2024/08/13/she-grew-up-a-gearhead-now-her-startup-has-raised-4m-to-cut-co2-from-trucking/)
-- [Opera is releasing its redesigned browser on iOS](https://techcrunch.com/2024/08/13/opera-is-releasing-its-redesigned-browser-on-ios/)
-- [The crypto founder who didn’t save Puerto Rico after all](https://techcrunch.com/2024/08/12/the-crypto-founder-who-didnt-save-puerto-rico-after-all/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
