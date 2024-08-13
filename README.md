@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini Live first look: Better than talking to Siri, but worse than I’d like](https://techcrunch.com/2024/08/13/gemini-live-first-look-better-than-talking-to-siri-but-worse-than-id-like/)
+- [Texas sues GM, saying it tricked customers into sharing driving data sold to insurers](https://techcrunch.com/2024/08/13/texas-sues-gm-saying-it-tricked-customers-into-sharing-driving-data-sold-to-insurers/)
 - [Weird, &#39;watermelon shape&#39; asteroids like Dimorphos and Selam may finally have an explanation](https://www.space.com/watermelon-shape-asteroids-like-dimorphos-may-have-explanation)
 - [Chinese robotaxi startup WeRide gets approval to carry passengers in California](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/)
 - [Winning a Gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/)
-- [New ISS images showcase auroras, moon and space station in glorious photos &lpar;video&rpar;](https://www.space.com/iss-aurora-moon-imagery-nasa-astronaut)
-- [California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one](https://techcrunch.com/2024/08/13/california-ai-bill-sb-1047-aims-to-prevent-ai-disasters-but-silicon-valley-warns-it-will-cause-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
