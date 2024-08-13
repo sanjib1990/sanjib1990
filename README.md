@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese company CAS Space takes steps toward 1st launch of reusable rocket](https://www.space.com/china-cas-space-reusable-rocket-progress)
+- [Sage Geosystems wants to solve the data center energy crisis by storing pressurized water deep underground](https://techcrunch.com/2024/08/13/sage-geosystems-wants-to-solve-the-data-center-energy-crisis-by-storing-pressurized-water-deep-underground/)
+- [PayZen secures $23M Series B, $200M debt facility to grow its “care now, pay later” product](https://techcrunch.com/2024/08/13/payzen-secures-23m-series-b-led-by-nea-and-200m-in-debt-to-expand-care-now-pay-later-offering/)
 - [Recent star death leaves behind highly magnetic stellar corpse](https://www.space.com/star-death-magnetar-corpse)
 - [EU warns X over illegal content risks. Musk replies with Tropic Thunder insult meme](https://techcrunch.com/2024/08/13/eu-warns-x-over-illegal-content-risks-musk-replies-with-tropic-thunder-insult-meme/)
-- [Why this AI startup is betting on voice-enabled bots to scale AI adoption in India](https://techcrunch.com/2024/08/13/why-this-ai-startup-is-betting-on-voice-enabled-bots-to-scale-ai-adoption-in-india/)
-- [Lego Technic planet earth and moon in orbit review](https://www.space.com/lego-technic-planet-earth-and-moon-in-orbit-space-set-review)
-- [Boeing needs to improve quality-control work on SLS moon rocket, NASA Inspector General finds](https://www.space.com/nasa-oig-report-space-launch-system-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
