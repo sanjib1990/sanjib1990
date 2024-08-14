@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New ISS research project will benefit cancer patients on Earth](https://www.space.com/cancer-project-international-space-station)
+- [MIT researchers release a repository of AI risks](https://techcrunch.com/2024/08/14/mit-researchers-release-a-repository-of-ai-risks/)
+- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/)
 - [Listen live: NASA providing update about troubled Boeing Starliner astronaut mission today](https://www.space.com/nasa-boeing-starliner-teleconference-preview-august-14)
 - [Kiteworks captures $456M at a $1B+ valuation to help secure sensitive data](https://techcrunch.com/2024/08/14/kiteworks-captures-456m-at-a-1b-valuation-to-help-secure-sensitive-data/)
-- [Apple finally allows Spotify to show pricing info to EU users on iOS](https://techcrunch.com/2024/08/14/apple-finally-allows-spotify-to-show-pricing-info-to-eu-users-on-ios/)
-- [The defense tech acquisition spree has begun: Autonomous factory startup Hadrian acquires Datum Source](https://techcrunch.com/2024/08/14/the-defense-tech-acquisition-spree-has-begun-autonomous-factory-startup-hadrian-acquires-datum-source/)
-- [Get 40% off the Celestron StarSense Explorer LT 80AZ telescope](https://www.space.com/celestron-starsense-explorer-lt-80-az-amazon-lowest-price-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
