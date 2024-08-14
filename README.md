@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas firm says it lost $60M in a bank wire transfer scam](https://techcrunch.com/2024/08/14/texas-firm-says-it-lost-60m-in-a-bank-wire-transfer-scam/)
-- [NASA may use lasers to livestream from the moon one day](https://www.space.com/nasa-tech-livestream-moon-laser-communications)
-- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/)
-- [Colossal X-class solar flare erupts from &#39;rule-breaking&#39; sunspot and Earth is in the firing line &lpar;video&rpar;](https://www.space.com/x-class-solar-flare-eruption-rule-breaking-sunspot-video)
-- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/)
+- [Apple opens up NFC transactions to developers, but says there will be ‘associated fees’](https://techcrunch.com/2024/08/14/apple-opens-up-nfc-transactions-to-developers-but-says-there-will-be-associated-fees/)
+- [How do you measure wind on Mars? These scientists have a plan](https://www.space.com/mars-wind-speed-measurements)
+- [TechCrunch Minute: OpenAI’s latest GPT4-o model gets weird](https://techcrunch.com/video/techcrunch-minute-openais-latest-gpt4-o-model-gets-weird/)
+- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/)
+- [Telegram adds new ways for creators to earn money on its  platform](https://techcrunch.com/2024/08/14/telegram-adds-new-ways-for-creators-to-earn-money-on-its-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
