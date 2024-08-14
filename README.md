@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Made by Google 2024: A few AI features you might’ve missed](https://techcrunch.com/2024/08/13/made-by-google-2024-a-few-ai-features-you-mightve-missed/)
+- [Thiel’s Gawker takedown could be coming to a theater near you](https://techcrunch.com/2024/08/13/thiels-gawker-takedown-could-be-coming-to-a-theater-near-you/)
 - [Gemini Live first look: Better than talking to Siri, but worse than I’d like](https://techcrunch.com/2024/08/13/gemini-live-first-look-better-than-talking-to-siri-but-worse-than-id-like/)
 - [Texas sues GM, saying it tricked customers into sharing driving data sold to insurers](https://techcrunch.com/2024/08/13/texas-sues-gm-saying-it-tricked-customers-into-sharing-driving-data-sold-to-insurers/)
 - [Weird, &#39;watermelon shape&#39; asteroids like Dimorphos and Selam may finally have an explanation](https://www.space.com/watermelon-shape-asteroids-like-dimorphos-may-have-explanation)
-- [Chinese robotaxi startup WeRide gets approval to carry passengers in California](https://techcrunch.com/2024/08/13/chinese-robotaxi-startup-weride-gets-approval-to-carry-passengers-in-california/)
-- [Winning a gold medal is a lot like being a VC, according to Olympic champion Kristen Faulkner](https://techcrunch.com/2024/08/13/winning-a-gold-medal-is-a-lot-like-being-a-vc-according-to-olympic-champion-kristen-faulkner/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
