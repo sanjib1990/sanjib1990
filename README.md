@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wildfires in Greece have burned land twice the size of Manhattan, satellite images reveal](https://www.space.com/wildfires-greece-satellite-imagery)
+- [Biden tells creators they have something traditional media does not: ‘You’re trusted’](https://techcrunch.com/2024/08/14/biden-tells-creators-they-have-something-traditional-media-does-not-youre-trusted/)
+- [NEA led a $100M round into Fei-Fei Li’s new AI startup, now valued at over $1B](https://techcrunch.com/2024/08/14/nea-led-a-100m-round-into-fei-fei-lis-new-ai-startup-now-valued-at-over-1b/)
 - [Darth Jar Jar? This &#39;Lego Star Wars: Rebuild The Galaxy&#39; trailer imagines an odd, twisted universe &lpar;video&rpar;](https://www.space.com/lego-star-wars-rebuild-the-galaxy-trailer-video)
 - [Will Boeing&#39;s Starliner astronauts ride a SpaceX Dragon home in 2025? NASA could decide next week](https://www.space.com/nasa-boeing-starliner-return-date-decision-imminent)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/14/tech-layoffs-2024-list/)
-- [Trump campaign hack-and-leak appears like a rerun of 2016. This time, media outlets are responding differently](https://techcrunch.com/2024/08/14/trump-campaign-hack-and-leak-appears-like-a-rerun-of-2016-this-time-media-outlets-are-responding-differently/)
-- [SpaceX&#39;s Elon Musk endorsed Donald Trump for president. Here&#39;s what it could mean for US space policy &lpar;op-ed&rpar;](https://www.space.com/elon-musk-spacex-endorses-donald-trump-president-us-space-policy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
