@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple opens up NFC transactions to developers, but says there will be ‘associated fees’](https://techcrunch.com/2024/08/14/apple-opens-up-nfc-transactions-to-developers-but-says-there-will-be-associated-fees/)
-- [How do you measure wind on Mars? These scientists have a plan](https://www.space.com/mars-wind-speed-measurements)
-- [TechCrunch Minute: OpenAI’s latest GPT4-o model gets weird](https://techcrunch.com/video/techcrunch-minute-openais-latest-gpt4-o-model-gets-weird/)
-- [Stoke Space’s initial launch plans at Cape Canaveral take shape](https://techcrunch.com/2024/08/14/stoke-spaces-initial-launch-plans-at-cape-canaveral-take-shape/)
-- [Telegram adds new ways for creators to earn money on its  platform](https://techcrunch.com/2024/08/14/telegram-adds-new-ways-for-creators-to-earn-money-on-its-platform/)
+- [This Week in AI: AI isn’t world-ending — but it’s still plenty harmful](https://techcrunch.com/2024/08/14/this-week-in-ai-ai-isnt-world-ending-but-its-still-plenty-harmful/)
+- [James Webb Space Telescope strikes again, delivers new shining galaxy image](https://www.space.com/messier-106-jwst-image)
+- [Camera app Halide’s latest update adds an option for ‘zero-AI’ image processing](https://techcrunch.com/2024/08/14/camera-app-halides-latest-update-adds-an-option-for-zero-ai-image-processing/)
+- [Definity raises $4.5M as it looks to transform data application observability](https://techcrunch.com/2024/08/14/definity-raises-4-5m-as-it-looks-to-transform-data-application-observability/)
+- [Databricks reportedly paid $2 billion in Tabular acquisition](https://techcrunch.com/2024/08/14/databricks-reportedly-paid-2-billion-in-tabular-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
