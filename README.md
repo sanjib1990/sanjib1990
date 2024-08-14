@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump campaign hack-and-leak appears like a rerun of 2016. This time, media outlets are responding differently](https://techcrunch.com/2024/08/14/trump-campaign-hack-and-leak-appears-like-a-rerun-of-2016-this-time-media-outlets-are-responding-differently/)
+- [SpaceX&#39;s Elon Musk endorsed Donald Trump for president. Here&#39;s what it could mean for US space policy &lpar;op-ed&rpar;](https://www.space.com/elon-musk-spacex-endorses-donald-trump-president-us-space-policy)
+- [Sonos CEO Patrick Spence confirms 100-person layoff](https://techcrunch.com/2024/08/14/sonos-ceo-patrick-spence-confirms-100-person-layoff/)
 - [To decode mysteries of Mars, scientists are turning to machine learning](https://www.space.com/machine-learning-offworld-analysis-mars-missions)
 - [SpaceX refutes reports that its Starship launch pad system polluted Texas waters](https://www.space.com/spacex-starship-starbase-water-pollution-response)
-- [Study suggests that even the best AI models hallucinate a bunch](https://techcrunch.com/2024/08/14/study-suggests-that-even-the-best-ai-models-hallucinate-a-bunch/)
-- [FTC finalizes rule banning fake reviews, including those made with AI](https://techcrunch.com/2024/08/14/ftc-finalizes-rule-banning-fake-reviews/)
-- [July 2024 sets new records for global heat and climate disasters](https://www.space.com/july-2024-climate-disaster-records)
 <!-- BLOG-POST-LIST:END -->
 
 ---
