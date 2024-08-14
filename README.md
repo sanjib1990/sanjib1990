@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 1st space-hardened Nvidia AI GPU on upcoming rideshare mission](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)
+- [Check out this $800 rotating VR chair for Meta Quest](https://techcrunch.com/2024/08/14/check-out-this-800-rotating-vr-chair-for-meta-quest/)
 - [New ISS research project will benefit cancer patients on Earth](https://www.space.com/cancer-project-international-space-station)
 - [MIT researchers release a repository of AI risks](https://techcrunch.com/2024/08/14/mit-researchers-release-a-repository-of-ai-risks/)
 - [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/)
-- [Listen live: NASA providing update about troubled Boeing Starliner astronaut mission today](https://www.space.com/nasa-boeing-starliner-teleconference-preview-august-14)
-- [Kiteworks captures $456M at a $1B+ valuation to help secure sensitive data](https://techcrunch.com/2024/08/14/kiteworks-captures-456m-at-a-1b-valuation-to-help-secure-sensitive-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
