@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To decode mysteries of Mars, scientists are turning to machine learning](https://www.space.com/machine-learning-offworld-analysis-mars-missions)
+- [SpaceX refutes reports that its Starship launch pad system polluted Texas waters](https://www.space.com/spacex-starship-starbase-water-pollution-response)
+- [Study suggests that even the best AI models hallucinate a bunch](https://techcrunch.com/2024/08/14/study-suggests-that-even-the-best-ai-models-hallucinate-a-bunch/)
+- [FTC finalizes rule banning fake reviews, including those made with AI](https://techcrunch.com/2024/08/14/ftc-finalizes-rule-banning-fake-reviews/)
 - [July 2024 sets new records for global heat and climate disasters](https://www.space.com/july-2024-climate-disaster-records)
-- [Palo Alto Networks CEO apologizes for happy hour display featuring women with lampshades on their heads](https://techcrunch.com/2024/08/14/palo-alto-networks-ceo-apologies-for-happy-hour-display-featuring-women-with-lampshades-on-their-heads/)
-- [This Week in AI: AI isn’t world-ending — but it’s still plenty harmful](https://techcrunch.com/2024/08/14/this-week-in-ai-ai-isnt-world-ending-but-its-still-plenty-harmful/)
-- [James Webb Space Telescope strikes again, delivers new shining galaxy image](https://www.space.com/messier-106-jwst-image)
-- [Camera app Halide’s latest update adds an option for ‘zero-AI’ image processing](https://techcrunch.com/2024/08/14/camera-app-halides-latest-update-adds-an-option-for-zero-ai-image-processing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
