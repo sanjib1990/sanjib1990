@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/)
 - [xAI releases Grok-2, adds image generation on X](https://techcrunch.com/2024/08/13/xais-grok-can-now-generate-images-on-x/)
 - [Google faces headwinds as it brings Pixel 9 to India](https://techcrunch.com/2024/08/13/google-dives-deeper-into-india-with-pixel-9-family-but-roadblocks-remain/)
 - [Zepto raises $340M at a $5B valuation as India’s quick-commerce market heats up](https://techcrunch.com/2024/08/13/zepto-hits-5b-valuation-as-quick-commerce-heats-up-in-india/)
 - [Made by Google 2024: All of Google’s reveals, from the Pixel 9 lineup to Gemini AI’s addition to everything](https://techcrunch.com/2024/08/13/made-by-google-2024-all-of-googles-reveals-from-the-pixel-9-iineup-to-gemini-ais-addition-to-everything/)
-- [Made by Google 2024: A few AI features you might’ve missed](https://techcrunch.com/2024/08/13/made-by-google-2024-a-few-ai-features-you-mightve-missed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
