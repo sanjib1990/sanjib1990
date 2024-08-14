@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers want to build &#39;streetlights&#39; on the moon — and they&#39;d be taller than the Statue of Liberty](https://www.space.com/researchers-want-to-build-streetlights-on-the-moon)
-- [Virtuix’s VR treadmill is finally launching in September](https://techcrunch.com/2024/08/14/virtuixs-vr-treadmill-is-finally-launching-in-september/)
-- [Watch Russia launch Progress 89 cargo spacecraft to ISS tonight](https://www.space.com/russia-progress-89-iss-cargo-launch)
-- [SpaceX to launch 1st space-hardened Nvidia AI GPU on upcoming rideshare mission](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)
-- [Check out this $800 rotating VR chair for Meta Quest](https://techcrunch.com/2024/08/14/check-out-this-800-rotating-vr-chair-for-meta-quest/)
+- [Texas firm says it lost $60M in a bank wire transfer scam](https://techcrunch.com/2024/08/14/texas-firm-says-it-lost-60m-in-a-bank-wire-transfer-scam/)
+- [NASA may use lasers to livestream from the moon one day](https://www.space.com/nasa-tech-livestream-moon-laser-communications)
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/14/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/)
+- [Colossal X-class solar flare erupts from &#39;rule-breaking&#39; sunspot and Earth is in the firing line &lpar;video&rpar;](https://www.space.com/x-class-solar-flare-eruption-rule-breaking-sunspot-video)
+- [Parker Conrad says founders have been building software wrong for the last 20 years](https://techcrunch.com/2024/08/14/parker-conrad-says-founders-have-been-building-software-wrong-for-the-last-20-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
