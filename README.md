@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Listen live: NASA providing update about troubled Boeing Starliner astronaut mission today](https://www.space.com/nasa-boeing-starliner-teleconference-preview-august-14)
+- [Kiteworks captures $456M at a $1B+ valuation to help secure sensitive data](https://techcrunch.com/2024/08/14/kiteworks-captures-456m-at-a-1b-valuation-to-help-secure-sensitive-data/)
 - [Apple finally allows Spotify to show pricing info to EU users on iOS](https://techcrunch.com/2024/08/14/apple-finally-allows-spotify-to-show-pricing-info-to-eu-users-on-ios/)
 - [The defense tech acquisition spree has begun: Autonomous factory startup Hadrian acquires Datum Source](https://techcrunch.com/2024/08/14/the-defense-tech-acquisition-spree-has-begun-autonomous-factory-startup-hadrian-acquires-datum-source/)
 - [Get 40% off the Celestron StarSense Explorer LT 80AZ telescope](https://www.space.com/celestron-starsense-explorer-lt-80-az-amazon-lowest-price-2024)
-- [India’s top court clears way for Byju’s insolvency proceedings](https://techcrunch.com/2024/08/14/indias-top-court-clears-way-for-byjus-insolvency-proceedings/)
-- [xAI releases Grok-2, adds image generation on X](https://techcrunch.com/2024/08/13/xais-grok-can-now-generate-images-on-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
