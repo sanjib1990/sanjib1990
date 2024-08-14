@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [July 2024 sets new records for global heat and climate disasters](https://www.space.com/july-2024-climate-disaster-records)
+- [Palo Alto Networks CEO apologizes for happy hour display featuring women with lampshades on their heads](https://techcrunch.com/2024/08/14/palo-alto-networks-ceo-apologies-for-happy-hour-display-featuring-women-with-lampshades-on-their-heads/)
 - [This Week in AI: AI isn’t world-ending — but it’s still plenty harmful](https://techcrunch.com/2024/08/14/this-week-in-ai-ai-isnt-world-ending-but-its-still-plenty-harmful/)
 - [James Webb Space Telescope strikes again, delivers new shining galaxy image](https://www.space.com/messier-106-jwst-image)
 - [Camera app Halide’s latest update adds an option for ‘zero-AI’ image processing](https://techcrunch.com/2024/08/14/camera-app-halides-latest-update-adds-an-option-for-zero-ai-image-processing/)
-- [Definity raises $4.5M as it looks to transform data application observability](https://techcrunch.com/2024/08/14/definity-raises-4-5m-as-it-looks-to-transform-data-application-observability/)
-- [Databricks reportedly paid $2 billion in Tabular acquisition](https://techcrunch.com/2024/08/14/databricks-reportedly-paid-2-billion-in-tabular-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
