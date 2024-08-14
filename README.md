@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers want to build &#39;streetlights&#39; on the moon — and they&#39;d be taller than the Statue of Liberty](https://www.space.com/researchers-want-to-build-streetlights-on-the-moon)
+- [Virtuix’s VR treadmill is finally launching in September](https://techcrunch.com/2024/08/14/virtuixs-vr-treadmill-is-finally-launching-in-september/)
+- [Watch Russia launch Progress 89 cargo spacecraft to ISS tonight](https://www.space.com/russia-progress-89-iss-cargo-launch)
 - [SpaceX to launch 1st space-hardened Nvidia AI GPU on upcoming rideshare mission](https://www.space.com/ai-nvidia-gpu-spacex-launch-transporter-11)
 - [Check out this $800 rotating VR chair for Meta Quest](https://techcrunch.com/2024/08/14/check-out-this-800-rotating-vr-chair-for-meta-quest/)
-- [New ISS research project will benefit cancer patients on Earth](https://www.space.com/cancer-project-international-space-station)
-- [MIT researchers release a repository of AI risks](https://techcrunch.com/2024/08/14/mit-researchers-release-a-repository-of-ai-risks/)
-- [EliseAI lands $75M for chatbots that help property managers deal with renters](https://techcrunch.com/2024/08/14/eliseais-chatbots-for-property-owners-nets-it-75m-in-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
