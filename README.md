@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX plans to launch 2 sharp-eyed Earth-imaging satellites to orbit today](https://www.space.com/spacex-maxar-worldview-legion-launch-august-2024)
 - [Video of Eric Schmidt blaming remote work for Google’s woes mysteriously vanishes](https://techcrunch.com/2024/08/14/video-of-eric-schmidt-blaming-remote-work-for-googles-woes-mysteriously-vanishes/)
 - [Meet Black Forest Labs, the startup powering Elon Musk’s unhinged AI image generator](https://techcrunch.com/2024/08/14/meet-black-forest-labs-the-startup-powering-elon-musks-unhinged-ai-image-generator/)
 - [Filmmakers say AI will change the art — perhaps beyond recognition](https://techcrunch.com/2024/08/14/filmmakers-say-ai-will-change-the-art-perhaps-beyond-recognition/)
 - [Wildfires in Greece have burned land twice the size of Manhattan, satellite images reveal](https://www.space.com/wildfires-greece-satellite-imagery)
-- [Biden tells creators they have something traditional media does not: ‘You’re trusted’](https://techcrunch.com/2024/08/14/biden-tells-creators-they-have-something-traditional-media-does-not-youre-trusted/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
