@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Kim Dotcom is in mega big trouble](https://www.youtube.com/watch?v=08g_eJloufs)
 - [How I&#39;m using AI to study Hacking &lpar;7 Ways&rpar;](https://www.youtube.com/watch?v=3D6gaawXwfk)
 - [Big O explained with a deck of cards](https://www.youtube.com/watch?v=WbF2bLbAUik)
 - [over 24,000 GPUs!!!](https://www.youtube.com/watch?v=LI7he7KYSLY)
 - [Hackers are looking at your website](https://www.youtube.com/watch?v=TSqGHapvNr8)
-- [We&#39;re on the brink of another world browser war](https://www.youtube.com/watch?v=p572p-irRaU)
 <!-- YOUTUBE:END -->
 
 ---
