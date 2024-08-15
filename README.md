@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HP Spectre x360 14 &lpar;2024&rpar; laptop review](https://www.space.com/hp-spectre-x360-14-2024-laptop-review)
 - [Meta axed CrowdTangle, a tool for tracking disinformation. Critics claim its replacement has just ‘1% of the features’](https://techcrunch.com/2024/08/15/meta-shut-down-crowdtangle-a-tool-for-tracking-disinformation-heres-how-its-replacement-compares/)
-- [Rivian launches smaller $1,400 camp kitchen, five years after initial demo](https://techcrunch.com/2024/08/15/rivian-launches-smaller-1400-camp-kitchen-five-years-after-initial-demo/)
+- [Rivian launches smaller $1,400 camp kitchen, 5 years after initial demo](https://techcrunch.com/2024/08/15/rivian-launches-smaller-1400-camp-kitchen-five-years-after-initial-demo/)
 - [James Webb Space Telescope adds to the confusing drama of Hubble tension](https://www.space.com/hubble-tension-cepheid-variables-type-1a-supernovas)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/)
-- [3D printing stalwart Formlabs confirms ‘small number’ of layoffs](https://techcrunch.com/2024/08/15/3d-printing-stalwart-formlabs-confirms-small-number-of-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
