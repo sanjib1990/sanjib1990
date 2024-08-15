@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3D printing stalwart Formlabs confirms ‘small number’ of layoffs affecting around 40](https://techcrunch.com/2024/08/15/3d-printing-stalwart-formlabs-confirms-small-number-of-layoffs-affecting-around-40/)
-- [NASA and Rocket Lab aim to prove we can go to Mars for 1/10 the price](https://techcrunch.com/2024/08/15/nasa-and-rocket-lab-aim-to-prove-we-can-go-to-mars-for-1-10-the-price/)
-- [CannonKeys launches a modern take on a classic mechanical keyboard with the Sat75 X](https://techcrunch.com/2024/08/15/cannonkeys-launches-a-modern-take-on-a-classic-mechanical-keyboard-with-the-sat75-x/)
-- [Jeff Bezos’ brother’s firm has launched a debut $100M VC fund called HIPstr](https://techcrunch.com/2024/08/15/jeff-bezos-brothers-firm-has-launched-a-debut-100m-vc-fund-called-hipstr/)
-- [The sun might&#39;ve just had a record-breaking number of visible sunspots](https://www.space.com/sunspots-solar-cycle-25)
+- [Meta axed CrowdTangle, a tool for tracking disinformation. Critics claim its replacement has just ‘1% of the features’](https://techcrunch.com/2024/08/15/meta-shut-down-crowdtangle-a-tool-for-tracking-disinformation-heres-how-its-replacement-compares/)
+- [Rivian launches smaller $1,400 camp kitchen, five years after initial demo](https://techcrunch.com/2024/08/15/rivian-launches-smaller-1400-camp-kitchen-five-years-after-initial-demo/)
+- [James Webb Space Telescope adds to the confusing drama of Hubble tension](https://www.space.com/hubble-tension-cepheid-variables-type-1a-supernovas)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/15/tech-layoffs-2024-list/)
+- [3D printing stalwart Formlabs confirms ‘small number’ of layoffs](https://techcrunch.com/2024/08/15/3d-printing-stalwart-formlabs-confirms-small-number-of-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
