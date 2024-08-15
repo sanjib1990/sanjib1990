@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing judges for the Startup Battlefield at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/announcing-judges-for-the-startup-battlefield-at-techcrunch-disrupt-2024/)
+- [From Lauri Moore to Vic Singh, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/08/15/from-lauri-moore-to-vic-singh-venture-capitalists-continue-to-play-musical-chairs/)
 - [Is asteroid Psyche actually a planetary core? James Webb Space Telescope results cast doubt](https://www.space.com/james-webb-space-telescope-psyche-planet-core-mystery)
 - [Bridgit Mendler will talk about building the data highway between Earth and space at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/bridgit-mendler-joins-techcrunch-disrupt-2024/)
 - [Linktree acquires social media scheduler tool Plann](https://techcrunch.com/2024/08/15/linktree-acquires-plann-social-media-scheduling-tool/)
-- [Corel PaintShop Pro 2023 review](https://www.space.com/corel-paintshop-pro-2023-review)
-- [Epic Games’ ‘MegaGrant’ makes EU alternative app store, AltStore PAL, available for free](https://techcrunch.com/2024/08/15/epic-games-megagrant-makes-eu-alternative-app-store-altstore-pal-available-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
