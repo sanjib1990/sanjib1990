@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Video of Eric Schmidt blaming remote work for Google’s woes mysteriously vanishes](https://techcrunch.com/2024/08/14/video-of-eric-schmidt-blaming-remote-work-for-googles-woes-mysteriously-vanishes/)
+- [Meet Black Forest Labs, the startup powering Elon Musk’s unhinged AI image generator](https://techcrunch.com/2024/08/14/meet-black-forest-labs-the-startup-powering-elon-musks-unhinged-ai-image-generator/)
+- [Filmmakers say AI will change the art — perhaps beyond recognition](https://techcrunch.com/2024/08/14/filmmakers-say-ai-will-change-the-art-perhaps-beyond-recognition/)
 - [Wildfires in Greece have burned land twice the size of Manhattan, satellite images reveal](https://www.space.com/wildfires-greece-satellite-imagery)
 - [Biden tells creators they have something traditional media does not: ‘You’re trusted’](https://techcrunch.com/2024/08/14/biden-tells-creators-they-have-something-traditional-media-does-not-youre-trusted/)
-- [NEA led a $100M round into Fei-Fei Li’s new AI startup, now valued at over $1B](https://techcrunch.com/2024/08/14/nea-led-a-100m-round-into-fei-fei-lis-new-ai-startup-now-valued-at-over-1b/)
-- [Darth Jar Jar? This &#39;Lego Star Wars: Rebuild The Galaxy&#39; trailer imagines an odd, twisted universe &lpar;video&rpar;](https://www.space.com/lego-star-wars-rebuild-the-galaxy-trailer-video)
-- [Will Boeing&#39;s Starliner astronauts ride a SpaceX Dragon home in 2025? NASA could decide next week](https://www.space.com/nasa-boeing-starliner-return-date-decision-imminent)
 <!-- BLOG-POST-LIST:END -->
 
 ---
