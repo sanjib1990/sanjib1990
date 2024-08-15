@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX launches 2 sharp-eyed Earth-imaging satellites to orbit Aug. 15](https://www.space.com/spacex-maxar-worldview-legion-launch-august-2024)
-- [TipRanks, an AI-based stock tip evaluator created after its founder got burned by bad advice, sells for $200M to Prytek](https://techcrunch.com/2024/08/15/tipranks-an-ai-based-stock-tip-evaluator-created-after-its-founder-got-burned-by-bad-advice-sells-for-200m-to-prytek/)
-- [Astronauts on ISS practice moon base cement-mixing tech in microgravity](https://www.space.com/iss-astronaut-moon-base-construction-microgravity)
-- [Meta axed CrowdTangle, a tool for tracking disinformation. Critics claim its replacement has just ‘1% of the features’](https://techcrunch.com/2024/08/15/meta-shut-down-crowdtangle-a-tool-for-tracking-disinformation-heres-how-its-replacement-compares/)
-- [The Higgs particle could break physics throughout the universe. Here&#39;s why it hasn&#39;t.](https://www.space.com/higgs-particle-could-break-physics-throughout-universe-but-has-not)
+- [X begins rolling out support for passkeys on Android](https://techcrunch.com/2024/08/15/x-begins-rolling-out-support-for-passkeys-on-android/)
+- [Lockheed Martin to buy satellite maker Terran Orbital in $450M deal](https://techcrunch.com/2024/08/15/lockheed-martin-to-buy-satellite-maker-terran-orbital-in-450m-deal/)
+- [Waymo to double down on winter testing its robotaxis](https://techcrunch.com/2024/08/15/waymo-to-double-down-on-winter-testing-its-robotaxis/)
+- [Petition calls for halt of megaconstellation launches for environmental review](https://www.space.com/petition-fcc-stop-megaconstellation-launches)
+- [AI social media vetting startup Ferretly secures $2.5M, launches election personnel screening tool](https://techcrunch.com/2024/08/15/ai-social-media-vetting-startup-ferretly-secures-2-5m-launches-election-personnel-screening-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
