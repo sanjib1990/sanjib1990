@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India launching Earth-observing satellite tonight on 3rd mission of new rocket](https://www.space.com/india-eos-08-launch-sslv-d3-mission)
 - [Binance restarts services in India after seven-month regulatory halt](https://techcrunch.com/2024/08/15/binance-restarts-services-in-india-after-seven-month-regulatory-halt/)
 - [SpaceX plans to launch 2 sharp-eyed Earth-imaging satellites to orbit today](https://www.space.com/spacex-maxar-worldview-legion-launch-august-2024)
 - [Video of Eric Schmidt blaming remote work for Google’s woes mysteriously vanishes](https://techcrunch.com/2024/08/14/video-of-eric-schmidt-blaming-remote-work-for-googles-woes-mysteriously-vanishes/)
 - [Meet Black Forest Labs, the startup powering Elon Musk’s unhinged AI image generator](https://techcrunch.com/2024/08/14/meet-black-forest-labs-the-startup-powering-elon-musks-unhinged-ai-image-generator/)
-- [Filmmakers say AI will change the art — perhaps beyond recognition](https://techcrunch.com/2024/08/14/filmmakers-say-ai-will-change-the-art-perhaps-beyond-recognition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
