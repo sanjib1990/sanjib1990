@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 2 sharp-eyed Earth-imaging satellites to orbit Aug. 15](https://www.space.com/spacex-maxar-worldview-legion-launch-august-2024)
+- [TipRanks, an AI-based stock tip evaluator created after its founder got burned by bad advice, sells for $200M to Prytek](https://techcrunch.com/2024/08/15/tipranks-an-ai-based-stock-tip-evaluator-created-after-its-founder-got-burned-by-bad-advice-sells-for-200m-to-prytek/)
+- [Astronauts on ISS practice moon base cement-mixing tech in microgravity](https://www.space.com/iss-astronaut-moon-base-construction-microgravity)
+- [Meta axed CrowdTangle, a tool for tracking disinformation. Critics claim its replacement has just ‘1% of the features’](https://techcrunch.com/2024/08/15/meta-shut-down-crowdtangle-a-tool-for-tracking-disinformation-heres-how-its-replacement-compares/)
 - [The Higgs particle could break physics throughout the universe. Here&#39;s why it hasn&#39;t.](https://www.space.com/higgs-particle-could-break-physics-throughout-universe-but-has-not)
-- [Cockroach Labs shakes up its licensing to force bigger companies to pay](https://techcrunch.com/2024/08/15/cockroach-labs-shakes-up-its-licensing-to-force-bigger-companies-to-pay/)
-- [Klarna takes on banking with new savings, cash-back offerings](https://techcrunch.com/2024/08/15/klarna-takes-on-banking-with-new-savings-cash-back-offerings/)
-- [India launching Earth-observing satellite tonight on 3rd mission of new rocket](https://www.space.com/india-eos-08-launch-sslv-d3-mission)
-- [Binance restarts services in India after seven-month regulatory halt](https://techcrunch.com/2024/08/15/binance-restarts-services-in-india-after-seven-month-regulatory-halt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
