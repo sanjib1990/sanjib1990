@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing judges for the Startup Battlefield at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/announcing-judges-for-the-startup-battlefield-at-techcrunch-disrupt-2024/)
-- [From Lauri Moore to Vic Singh, venture capitalists continue to play musical chairs](https://techcrunch.com/2024/08/15/from-lauri-moore-to-vic-singh-venture-capitalists-continue-to-play-musical-chairs/)
-- [Is asteroid Psyche actually a planetary core? James Webb Space Telescope results cast doubt](https://www.space.com/james-webb-space-telescope-psyche-planet-core-mystery)
-- [Bridgit Mendler will talk about building the data highway between Earth and space at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/bridgit-mendler-joins-techcrunch-disrupt-2024/)
-- [Linktree acquires social media scheduler tool Plann](https://techcrunch.com/2024/08/15/linktree-acquires-plann-social-media-scheduling-tool/)
+- [WeRide preps for an IPO, meet the man who built a startup pipeline at CNH and Waymo’s nightly honk-a-thon](https://techcrunch.com/2024/08/15/weride-preps-for-an-ipo-meet-the-man-who-built-a-startup-pipeline-at-cnh-and-waymos-nightly-honk-a-thon/)
+- [The discovery of a new Earth-like planet could shed further light on what makes a planet habitable](https://www.space.com/new-earth-like-planet-could-shed-light-on-habitability)
+- [Meta’s X rival Threads gains multiple drafts, audience insights and more](https://techcrunch.com/2024/08/15/threads-starts-testing-multiple-drafts-says-posts-scheduling-coming-soon/)
+- [Geekbench releases AI benchmarking app](https://techcrunch.com/2024/08/15/geekbench-releases-ai-benchmarking-app/)
+- [Franki’s app rewards you for posting video reviews of local restaurants](https://techcrunch.com/2024/08/15/franki-video-restaurant-review-app-rewards-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
