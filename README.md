@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X begins rolling out support for passkeys on Android](https://techcrunch.com/2024/08/15/x-begins-rolling-out-support-for-passkeys-on-android/)
-- [Lockheed Martin to buy satellite maker Terran Orbital in $450M deal](https://techcrunch.com/2024/08/15/lockheed-martin-to-buy-satellite-maker-terran-orbital-in-450m-deal/)
-- [Waymo to double down on winter testing its robotaxis](https://techcrunch.com/2024/08/15/waymo-to-double-down-on-winter-testing-its-robotaxis/)
-- [Petition calls for halt of megaconstellation launches for environmental review](https://www.space.com/petition-fcc-stop-megaconstellation-launches)
-- [AI social media vetting startup Ferretly secures $2.5M, launches election personnel screening tool](https://techcrunch.com/2024/08/15/ai-social-media-vetting-startup-ferretly-secures-2-5m-launches-election-personnel-screening-tool/)
+- [Is asteroid Psyche actually a planetary core? James Webb Space Telescope results cast doubt](https://www.space.com/james-webb-space-telescope-psyche-planet-core-mystery)
+- [Bridgit Mendler will talk about building the data highway between Earth and space at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/15/bridgit-mendler-joins-techcrunch-disrupt-2024/)
+- [Linktree acquires social media scheduler tool Plann](https://techcrunch.com/2024/08/15/linktree-acquires-plann-social-media-scheduling-tool/)
+- [Corel PaintShop Pro 2023 review](https://www.space.com/corel-paintshop-pro-2023-review)
+- [Epic Games’ ‘MegaGrant’ makes EU alternative app store, AltStore PAL, available for free](https://techcrunch.com/2024/08/15/epic-games-megagrant-makes-eu-alternative-app-store-altstore-pal-available-for-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
