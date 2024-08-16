@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Boeing Starliner astronauts are doing on ISS as NASA works on their ride home](https://www.space.com/boeing-starliner-astronauts-iss-duties-nasa)
 - [Ben Horowitz Declares War on Michael Moritz](https://techcrunch.com/2024/08/15/ben-horowitz-declares-war-on-michael-moritz/)
 - [California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one](https://techcrunch.com/2024/08/15/california-ai-bill-sb-1047-aims-to-prevent-ai-disasters-but-silicon-valley-warns-it-will-cause-one/)
 - [California weakens bill to prevent AI disasters before final vote, taking advice from Anthropic](https://techcrunch.com/2024/08/15/california-weakens-bill-to-prevent-ai-disasters-before-final-vote-taking-advice-from-anthropic/)
 - [HP Spectre x360 14 &lpar;2024&rpar; laptop review](https://www.space.com/hp-spectre-x360-14-2024-laptop-review)
-- [Meta axed CrowdTangle, a tool for tracking disinformation. Critics claim its replacement has just ‘1% of the features’](https://techcrunch.com/2024/08/15/meta-shut-down-crowdtangle-a-tool-for-tracking-disinformation-heres-how-its-replacement-compares/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
