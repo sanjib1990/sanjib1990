@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a quantum sensor on the ISS could revolutionize space exploration](https://www.space.com/space-exploration/international-space-station/how-a-quantum-sensor-on-the-iss-could-revolutionize-space-exploration)
+- [What is Instagram’s Threads app? All your questions answered](https://techcrunch.com/2024/08/16/what-is-instagrams-threads-app-all-your-questions-answered/)
 - [UK neobank Revolut valued at $45B after secondary market sale](https://techcrunch.com/2024/08/16/uk-neobank-revolut-valued-at-45b-after-secondary-market-sale/)
 - [What Boeing Starliner astronauts are doing on ISS as NASA works on their ride home](https://www.space.com/boeing-starliner-astronauts-iss-duties-nasa)
 - [Ben Horowitz Declares War on Michael Moritz](https://techcrunch.com/2024/08/15/ben-horowitz-declares-war-on-michael-moritz/)
-- [California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one](https://techcrunch.com/2024/08/15/california-ai-bill-sb-1047-aims-to-prevent-ai-disasters-but-silicon-valley-warns-it-will-cause-one/)
-- [California weakens bill to prevent AI disasters before final vote, taking advice from Anthropic](https://techcrunch.com/2024/08/15/california-weakens-bill-to-prevent-ai-disasters-before-final-vote-taking-advice-from-anthropic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
