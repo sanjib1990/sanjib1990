@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Fortnite’ maker Epic Games launches its app store on iOS in the EU, worldwide on Android](https://techcrunch.com/2024/08/16/fortnite-maker-epic-games-launches-its-app-store-on-ios-in-the-eu-worldwide-on-android/)
+- [Google is bringing AI overviews to India, Brazil, Japan, UK, Indonesia and Mexico](https://techcrunch.com/2024/08/16/google-is-bringing-ai-overviews-to-india-brazil-japan-uk-indonesia-and-mexico/)
+- [Watch live as SpaceX Transporter 11 sends new payloads to space today](https://www.space.com/spacex-transporter-11-rocket-launch-webcast)
+- [Lenovo ThinkPad X1 Fold Gen 2 laptop review](https://www.space.com/lenovo-thinkpad-x1-fold-gen-2-laptop-review)
 - [Scientists drill longest-ever piece of Earth&#39;s mantle from underwater mountain near &#39;Lost City&#39;](https://www.space.com/longest-ever-mantle-sample-drilled-from-underwater-mountain-near-lost-city)
-- [Meta draws fresh questions from EU over its CrowdTangle shut-down](https://techcrunch.com/2024/08/16/meta-draws-fresh-questions-from-eu-over-its-crowdtangle-shut-down/)
-- [How a quantum sensor on the ISS could revolutionize space exploration](https://www.space.com/space-exploration/international-space-station/how-a-quantum-sensor-on-the-iss-could-revolutionize-space-exploration)
-- [What is Instagram’s Threads app? All your questions answered](https://techcrunch.com/2024/08/16/what-is-instagrams-threads-app-all-your-questions-answered/)
-- [UK neobank Revolut valued at $45B after secondary market sale](https://techcrunch.com/2024/08/16/uk-neobank-revolut-valued-at-45b-after-secondary-market-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
