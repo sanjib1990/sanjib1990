@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers find black hole&#39;s favorite snack: &#39;The star appears to be living to die another day&#39;](https://www.space.com/black-hole-snack-predictions-doomed-star)
+- [A hellish new AI threat: ‘Undressing’ sites targeted by SF authorities](https://techcrunch.com/2024/08/16/a-hellish-new-ai-threat-undressing-sites-targeted-by-sf-authorities/)
 - [Dark Energy Camera&#39;s new galactic portrait delves into dark-matter central](https://www.space.com/dark-energy-camera-coma-cluster)
 - [TechCrunch Minute: Lockheed Martin rescues satellite manufacturer Terran Orbital](https://techcrunch.com/video/watch-lockheed-martin-rescues-satellite-manufacturer-terran-orbital/)
 - [African e-commerce company Jumia completes sale of secondary shares at $99.6M](https://techcrunch.com/2024/08/16/african-e-commerce-company-jumia-completes-sale-of-secondary-shares-at-99-6m/)
-- [Astrophotographers capture rare Jupiter and Mars encounter &lpar;photos&rpar;](https://www.space.com/jupiter-mars-conjunction-close-encounter-photos-night-sky)
-- [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
