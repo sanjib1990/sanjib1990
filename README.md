@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Transporter 11 sends new payloads to space Aug. 16](https://www.space.com/spacex-transporter-11-rocket-launch-webcast)
+- [Apple reportedly has ‘several hundred’ working on a robot arm with attached iPad](https://techcrunch.com/2024/08/16/apple-reportedly-has-several-hundred-working-on-a-robot-arm-with-attached-ipad/)
+- [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/)
+- [Researchers develop hair-thin battery to power tiny robots](https://techcrunch.com/2024/08/16/researchers-develop-hair-thin-battery-to-power-tiny-robots/)
 - [Angel City Brewery releases Weyland-Yutani&#39;s Aspen Beer from 1979&#39;s &#39;Alien&#39;](https://www.space.com/angel-city-brewery-alien-beer)
-- [Rimac squeezes more power into its new all-electric hypercar Nevera R. And it only starts at $2.5 million](https://techcrunch.com/2024/08/16/rimac-squeezes-more-power-into-its-new-all-electric-hypercar-nevera-r-and-it-only-starts-at-2-5-million/)
-- [Astronomers find black hole&#39;s favorite snack: &#39;The star appears to be living to die another day&#39;](https://www.space.com/black-hole-snack-predictions-doomed-star)
-- [A hellish new AI threat: ‘Undressing’ sites targeted by SF authorities](https://techcrunch.com/2024/08/16/a-hellish-new-ai-threat-undressing-sites-targeted-by-sf-authorities/)
-- [Dark Energy Camera&#39;s new galactic portrait delves into dark-matter central](https://www.space.com/dark-energy-camera-coma-cluster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
