@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Angel City Brewery releases Weyland-Yutani&#39;s Aspen Beer from 1979&#39;s &#39;Alien&#39;](https://www.space.com/angel-city-brewery-alien-beer)
+- [Rimac squeezes more power into its new all-electric hypercar Nevera R. And it only starts at $2.5 million](https://techcrunch.com/2024/08/16/rimac-squeezes-more-power-into-its-new-all-electric-hypercar-nevera-r-and-it-only-starts-at-2-5-million/)
 - [Astronomers find black hole&#39;s favorite snack: &#39;The star appears to be living to die another day&#39;](https://www.space.com/black-hole-snack-predictions-doomed-star)
 - [A hellish new AI threat: ‘Undressing’ sites targeted by SF authorities](https://techcrunch.com/2024/08/16/a-hellish-new-ai-threat-undressing-sites-targeted-by-sf-authorities/)
 - [Dark Energy Camera&#39;s new galactic portrait delves into dark-matter central](https://www.space.com/dark-energy-camera-coma-cluster)
-- [TechCrunch Minute: Lockheed Martin rescues satellite manufacturer Terran Orbital](https://techcrunch.com/video/watch-lockheed-martin-rescues-satellite-manufacturer-terran-orbital/)
-- [African e-commerce company Jumia completes sale of secondary shares at $99.6M](https://techcrunch.com/2024/08/16/african-e-commerce-company-jumia-completes-sale-of-secondary-shares-at-99-6m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
