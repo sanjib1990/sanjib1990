@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographers capture rare Jupiter and Mars encounter &lpar;photos&rpar;](https://www.space.com/jupiter-mars-conjunction-close-encounter-photos-night-sky)
+- [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/)
 - [‘Fortnite’ maker Epic Games launches its app store on iOS in the EU, worldwide on Android](https://techcrunch.com/2024/08/16/fortnite-maker-epic-games-launches-its-app-store-on-ios-in-the-eu-worldwide-on-android/)
 - [Google is bringing AI overviews to India, Brazil, Japan, UK, Indonesia and Mexico](https://techcrunch.com/2024/08/16/google-is-bringing-ai-overviews-to-india-brazil-japan-uk-indonesia-and-mexico/)
 - [Watch live as SpaceX Transporter 11 sends new payloads to space today](https://www.space.com/spacex-transporter-11-rocket-launch-webcast)
-- [Lenovo ThinkPad X1 Fold Gen 2 laptop review](https://www.space.com/lenovo-thinkpad-x1-fold-gen-2-laptop-review)
-- [Scientists drill longest-ever piece of Earth&#39;s mantle from underwater mountain near &#39;Lost City&#39;](https://www.space.com/longest-ever-mantle-sample-drilled-from-underwater-mountain-near-lost-city)
 <!-- BLOG-POST-LIST:END -->
 
 ---
