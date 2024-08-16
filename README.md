@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dark Energy Camera&#39;s new galactic portrait delves into dark-matter central](https://www.space.com/dark-energy-camera-coma-cluster)
+- [TechCrunch Minute: Lockheed Martin rescues satellite manufacturer Terran Orbital](https://techcrunch.com/video/watch-lockheed-martin-rescues-satellite-manufacturer-terran-orbital/)
+- [African e-commerce company Jumia completes sale of secondary shares at $99.6M](https://techcrunch.com/2024/08/16/african-e-commerce-company-jumia-completes-sale-of-secondary-shares-at-99-6m/)
 - [Astrophotographers capture rare Jupiter and Mars encounter &lpar;photos&rpar;](https://www.space.com/jupiter-mars-conjunction-close-encounter-photos-night-sky)
 - [Only 7 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/16/only-7-days-left-to-save-on-disrupt-2024-tickets/)
-- [‘Fortnite’ maker Epic Games launches its app store on iOS in the EU, worldwide on Android](https://techcrunch.com/2024/08/16/fortnite-maker-epic-games-launches-its-app-store-on-ios-in-the-eu-worldwide-on-android/)
-- [Google is bringing AI overviews to India, Brazil, Japan, UK, Indonesia and Mexico](https://techcrunch.com/2024/08/16/google-is-bringing-ai-overviews-to-india-brazil-japan-uk-indonesia-and-mexico/)
-- [Watch live as SpaceX Transporter 11 sends new payloads to space today](https://www.space.com/spacex-transporter-11-rocket-launch-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
