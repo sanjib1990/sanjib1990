@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Transporter 11 sends new payloads to space Aug. 16](https://www.space.com/spacex-transporter-11-rocket-launch-webcast)
+- [OpenAI shuts down election influence operation using ChatGPT](https://techcrunch.com/2024/08/16/openai-shuts-down-election-influence-operation-using-chatgpt/)
+- [&#39;Alien: Romulus&#39; is a visceral return to form for a venerable sci-fi franchise &lpar;review&rpar;](https://www.space.com/alien-romulus--movie-review)
+- [SpaceX launches 116 satellites on epic Transporter 11 rideshare mission, lands rocket &lpar;video&rpar;](https://www.space.com/spacex-transporter-11-rocket-launch-webcast)
 - [Apple reportedly has ‘several hundred’ working on a robot arm with attached iPad](https://techcrunch.com/2024/08/16/apple-reportedly-has-several-hundred-working-on-a-robot-arm-with-attached-ipad/)
 - [Another week in the circle of startup life](https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/)
-- [Researchers develop hair-thin battery to power tiny robots](https://techcrunch.com/2024/08/16/researchers-develop-hair-thin-battery-to-power-tiny-robots/)
-- [Angel City Brewery releases Weyland-Yutani&#39;s Aspen Beer from 1979&#39;s &#39;Alien&#39;](https://www.space.com/angel-city-brewery-alien-beer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
