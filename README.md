@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists drill longest-ever piece of Earth&#39;s mantle from underwater mountain near &#39;Lost City&#39;](https://www.space.com/longest-ever-mantle-sample-drilled-from-underwater-mountain-near-lost-city)
+- [Meta draws fresh questions from EU over its CrowdTangle shut-down](https://techcrunch.com/2024/08/16/meta-draws-fresh-questions-from-eu-over-its-crowdtangle-shut-down/)
 - [How a quantum sensor on the ISS could revolutionize space exploration](https://www.space.com/space-exploration/international-space-station/how-a-quantum-sensor-on-the-iss-could-revolutionize-space-exploration)
 - [What is Instagram’s Threads app? All your questions answered](https://techcrunch.com/2024/08/16/what-is-instagrams-threads-app-all-your-questions-answered/)
 - [UK neobank Revolut valued at $45B after secondary market sale](https://techcrunch.com/2024/08/16/uk-neobank-revolut-valued-at-45b-after-secondary-market-sale/)
-- [What Boeing Starliner astronauts are doing on ISS as NASA works on their ride home](https://www.space.com/boeing-starliner-astronauts-iss-duties-nasa)
-- [Ben Horowitz Declares War on Michael Moritz](https://techcrunch.com/2024/08/15/ben-horowitz-declares-war-on-michael-moritz/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
