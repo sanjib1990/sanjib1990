@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron Outland X 10x50 monocular review](https://www.space.com/celestron-outland-x-10x50-monocular-review)
 - [Gogoro delays India plans due to policy uncertainty, launches bike-taxi pilot with Rapido](https://techcrunch.com/2024/08/16/gogoro-delays-india-plans-due-to-policy-uncertainty-launches-bike-taxi-pilot-with-rapido/)
 - [A16z offers social media tips after its founder’s ‘attack’ tweet goes viral](https://techcrunch.com/2024/08/16/a16z-offers-social-media-tips-after-its-founders-attack-tweet-goes-viral/)
 - [OpenAI shuts down election influence operation that used ChatGPT](https://techcrunch.com/2024/08/16/openai-shuts-down-election-influence-operation-using-chatgpt/)
 - [&#39;Alien: Romulus&#39; is a visceral return to form for a venerable sci-fi franchise &lpar;review&rpar;](https://www.space.com/alien-romulus--movie-review)
-- [SpaceX launches 116 satellites on epic Transporter 11 rideshare mission, lands rocket &lpar;video&rpar;](https://www.space.com/spacex-transporter-11-rocket-launch-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
