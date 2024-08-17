@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google takes on OpenAI with Gemini Live](https://techcrunch.com/2024/08/17/google-takes-on-openai-with-gemini-live/)
+- [OpenAI’s new voice mode let me talk with my phone, not to it](https://techcrunch.com/2024/08/17/openais-new-voice-mode-let-me-talk-with-my-phone-not-to-it/)
+- [X says it’s closing operations in Brazil](https://techcrunch.com/2024/08/17/x-says-its-closing-operations-in-brazil/)
 - [Perseid meteor shower rains &#39;shooting stars&#39; over Stonehenge in glorious astrophotography image](https://www.space.com/perseid-meteor-shower-stonehenge-astrophotography)
 - [Ikea expands its inventory drone fleet](https://techcrunch.com/2024/08/17/ikea-expands-its-inventory-drone-fleet/)
-- [Robotic Russian Progress 89 cargo ship docks at ISS with tons of fresh supplies &lpar;video&rpar;](https://www.space.com/russian-progress-89-cargo-ship-docks-at-space-station)
-- [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/)
-- [This Week In Space podcast: Episode 124 —Space For Everyone](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-124-space-for-everyone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
