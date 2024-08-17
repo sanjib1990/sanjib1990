@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Porsche NA CEO Timo Resch is betting on ‘choice’ to survive the turbulent EV market](https://techcrunch.com/2024/08/17/why-porsche-na-ceo-timo-resch-is-betting-on-choice-to-survive-the-turbulent-ev-market/)
+- [Nancy Pelosi criticizes California AI bill as ‘ill-informed’](https://techcrunch.com/2024/08/17/nancy-pelosi-criticizes-california-ai-bill-as-ill-informed/)
 - [Google takes on OpenAI with Gemini Live](https://techcrunch.com/2024/08/17/google-takes-on-openai-with-gemini-live/)
 - [OpenAI’s new voice mode let me talk with my phone, not to it](https://techcrunch.com/2024/08/17/openais-new-voice-mode-let-me-talk-with-my-phone-not-to-it/)
 - [X says it’s closing operations in Brazil](https://techcrunch.com/2024/08/17/x-says-its-closing-operations-in-brazil/)
-- [Perseid meteor shower rains &#39;shooting stars&#39; over Stonehenge in glorious astrophotography image](https://www.space.com/perseid-meteor-shower-stonehenge-astrophotography)
-- [Ikea expands its inventory drone fleet](https://techcrunch.com/2024/08/17/ikea-expands-its-inventory-drone-fleet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
