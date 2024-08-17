@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseid meteor shower rains &#39;shooting stars&#39; over Stonehenge in glorious astrophotography image](https://www.space.com/perseid-meteor-shower-stonehenge-astrophotography)
+- [Ikea expands its inventory drone fleet](https://techcrunch.com/2024/08/17/ikea-expands-its-inventory-drone-fleet/)
+- [Robotic Russian Progress 89 cargo ship docks at ISS with tons of fresh supplies &lpar;video&rpar;](https://www.space.com/russian-progress-89-cargo-ship-docks-at-space-station)
 - [Keychain aims to unlock a new approach to manufacturing consumer goods](https://techcrunch.com/2024/08/17/keychain-aims-to-unlock-a-new-approach-to-manufacturing-consumer-goods/)
 - [This Week In Space podcast: Episode 124 —Space For Everyone](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-124-space-for-everyone)
-- [&#39;Star Trek: Prodigy&#39; is the &#39;Voyager&#39; spin-off you never knew you wanted — and we love it](https://www.space.com/star-trek-prodigy-is-the-voyager-spin-off-you-never-knew-you-wanted)
-- [Microsoft Copilot: Everything you need to know about Microsoft’s AI](https://techcrunch.com/2024/08/17/microsoft-copilot-everything-you-need-to-know-about-microsofts-ai/)
-- [Why is a &#39;once-in-a-decade&#39; Supermoon Blue Moon happening twice in 2 years?](https://www.space.com/next-supermoon-blue-moon-2024-or-2037-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
