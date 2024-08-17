@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Palantir CEO Alex Karp is ‘not going to apologize’ for military work](https://techcrunch.com/2024/08/17/palantir-ceo-alex-karp-is-not-going-to-apologize-for-military-work/)
 - [Why Porsche NA CEO Timo Resch is betting on ‘choice’ to survive the turbulent EV market](https://techcrunch.com/2024/08/17/why-porsche-na-ceo-timo-resch-is-betting-on-choice-to-survive-the-turbulent-ev-market/)
 - [Nancy Pelosi criticizes California AI bill as ‘ill-informed’](https://techcrunch.com/2024/08/17/nancy-pelosi-criticizes-california-ai-bill-as-ill-informed/)
 - [Google takes on OpenAI with Gemini Live](https://techcrunch.com/2024/08/17/google-takes-on-openai-with-gemini-live/)
 - [OpenAI’s new voice mode let me talk with my phone, not to it](https://techcrunch.com/2024/08/17/openais-new-voice-mode-let-me-talk-with-my-phone-not-to-it/)
-- [X says it’s closing operations in Brazil](https://techcrunch.com/2024/08/17/x-says-its-closing-operations-in-brazil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
