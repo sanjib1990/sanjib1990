@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Para-astronaut John McFall hopes to see an ISS astronaut with a disability fly by 2030 &lpar;exclusive, video&rpar;](https://www.space.com/iss-paraastronaut-2030-john-mcfall-esa-interview-exclusive)
 - [Google Pixel 8a review](https://www.space.com/google-pixel-8a-review)
 - [Nancy Pelosi criticizes California AI bill as ‘ill-informed’](https://techcrunch.com/2024/08/17/nancy-pelosi-criticizes-california-ai-bill-as-ill-informed/)
 - [Palantir CEO Alex Karp is ‘not going to apologize’ for military work](https://techcrunch.com/2024/08/17/palantir-ceo-alex-karp-is-not-going-to-apologize-for-military-work/)
 - [Why Porsche NA CEO Timo Resch is betting on ‘choice’ to survive the turbulent EV market](https://techcrunch.com/2024/08/17/why-porsche-na-ceo-timo-resch-is-betting-on-choice-to-survive-the-turbulent-ev-market/)
-- [Google takes on OpenAI with Gemini Live](https://techcrunch.com/2024/08/17/google-takes-on-openai-with-gemini-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
