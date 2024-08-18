@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digitally resurrecting actors is still a terrible idea](https://techcrunch.com/2024/08/18/digitally-resurrecting-actors-is-still-a-terrible-idea/)
 - [Nikon Trailblazer 8x25 ATB compact binoculars review](https://www.space.com/nikon-trailblazer-8x25-atb-compact-binoculars-review)
 - [With the Polestar 3 now “weeks” away, its CEO looks to make company “self-sustaining”](https://techcrunch.com/2024/08/18/with-the-polestar-3-just-weeks-away-its-ceo-is-now-looking-ahead/)
 - [South Korea’s AI textbook program faces skepticism from parents](https://techcrunch.com/2024/08/18/south-koreas-ai-textbook-program-faces-skepticism-from-parents/)
 - [How VC Pippa Lamb ended up on ‘Industry’ — one of the hottest shows on TV](https://techcrunch.com/2024/08/18/how-vc-pippa-lamb-ended-up-on-industry-one-of-the-hottest-shows-on-tv/)
-- [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
