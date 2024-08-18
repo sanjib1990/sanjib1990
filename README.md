@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Discovery&#39; final season lands on DVD, Blu-ray and limited edition Steelbook](https://www.space.com/star-trek-discovery-the-final-season-dvd-blu-ray)
+- [These  fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/18/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/)
 - [Dinosaur-killing asteroid was a rare rock from beyond Jupiter, new study reveals](https://www.space.com/asteroid-chicxulub-composition-beyond-jupiter)
 - [Rippling’s Parker Conrad says founders should ‘go all the way to the ground’ to run their companies](https://techcrunch.com/2024/08/18/ripplings-parker-conrad-says-founders-should-go-all-the-way-to-the-ground-to-run-their-companies/)
 - [Para-astronaut John McFall hopes to see an ISS astronaut with a disability fly by 2030 &lpar;exclusive, video&rpar;](https://www.space.com/iss-paraastronaut-2030-john-mcfall-esa-interview-exclusive)
-- [Google Pixel 8a review](https://www.space.com/google-pixel-8a-review)
-- [Nancy Pelosi criticizes California AI bill as ‘ill-informed’](https://techcrunch.com/2024/08/17/nancy-pelosi-criticizes-california-ai-bill-as-ill-informed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
