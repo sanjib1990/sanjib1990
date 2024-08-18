@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How VC Pippa Lamb ended up on ‘Industry’ — one of the hottest shows on TV](https://techcrunch.com/2024/08/18/how-vc-pippa-lamb-ended-up-on-industry-one-of-the-hottest-shows-on-tv/)
 - [Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say](https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/)
 - [&#39;Star Trek: Discovery&#39; final season lands on DVD, Blu-ray and limited edition Steelbook](https://www.space.com/star-trek-discovery-the-final-season-dvd-blu-ray)
 - [These  fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/18/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/)
 - [Dinosaur-killing asteroid was a rare rock from beyond Jupiter, new study reveals](https://www.space.com/asteroid-chicxulub-composition-beyond-jupiter)
-- [Rippling’s Parker Conrad says founders should ‘go all the way to the ground’ to run their companies](https://techcrunch.com/2024/08/18/ripplings-parker-conrad-says-founders-should-go-all-the-way-to-the-ground-to-run-their-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
