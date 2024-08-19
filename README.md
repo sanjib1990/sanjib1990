@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Weyland-Yutani? The &#39;Alien&#39; universe megacorporation explained](https://www.space.com/alien-movies-history-of-weyland-yutani-corporation)
+- [Could Trump’s AI-generated Taylor Swift endorsement be illegal?](https://techcrunch.com/2024/08/19/could-trumps-ai-generated-taylor-swift-endorsement-be-illegal/)
+- [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/)
 - [Watch Chinese researchers test out new Mars and moon rover tech &lpar;video&rpar;](https://www.space.com/china-mars-moon-rover-prototypes-tests-video)
 - [Former a16z VC Balaji Srinivasan obtained a private island for his new longevity ‘technocapitalist’ school](https://techcrunch.com/2024/08/19/former-a16z-vc-balaji-srinivasan-obtained-a-private-island-for-his-new-longevity-technocapitalist-school/)
-- [Mars rock samples show signs of water in Jezero Crater — could life have once existed there?](https://www.space.com/mars-rocks-water-jezero-crater-life-signs)
-- [FlightAware warns that some customers’ info has been ‘exposed,’ including Social Security numbers](https://techcrunch.com/2024/08/19/flightaware-warns-that-some-customers-info-has-been-exposed-including-social-security-numbers/)
-- [A surprising number of ‘iPad Kids’ are on X, study finds](https://techcrunch.com/2024/08/19/a-surprising-number-of-ipad-kids-are-on-x-study-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
