@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mike Lynch, recently acquitted in HP-Autonomy case, is missing after yacht capsized off Sicily](https://techcrunch.com/2024/08/19/mike-lynch-recently-acquitted-in-hp-autonomy-case-is-missing-after-yacht-capsized-off-sicily/)
-- [Scottish rocks could hold clues about Earth&#39;s past as a snowball](https://www.space.com/snowball-earth-scottish-rocks)
-- [Superman movies ranked, worst to best](https://www.space.com/superman-movies-ranked)
-- [ElevenLabs’ text-to-speech app Reader is now available globally](https://techcrunch.com/2024/08/19/elevenlabs-reader-app-is-now-available-globally/)
-- [Help scientists find new black holes with this free smartphone app](https://www.space.com/black-hole-finder-smartphone-app)
+- [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/)
+- [Doritos new safe-for-outer-space chips set for blast off: Here&#39;s how to get your own](https://www.space.com/doritos-cool-ranch-zero-gravity-polaris-dawn)
+- [GM cuts 1,000 software jobs as it prioritizes quality and AI](https://techcrunch.com/2024/08/19/gm-cuts-1000-software-jobs-as-it-prioritizes-quality-and-ai/)
+- [Procreate takes a stand against generative AI, vows to never incorporate the tech into its products](https://techcrunch.com/2024/08/19/procreate-takes-a-stand-against-generative-ai-vows-to-never-incorporate-the-tech-into-its-products/)
+- [Mike Lynch, recently acquitted in HP-Autonomy fraud case, is missing after yacht capsized off Sicily](https://techcrunch.com/2024/08/19/mike-lynch-recently-acquitted-in-hp-autonomy-case-is-missing-after-yacht-capsized-off-sicily/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
