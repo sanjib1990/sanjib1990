@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Waymo robotaxi honking problem has been resolved for real this time](https://techcrunch.com/2024/08/19/the-waymo-robotaxi-honking-problem-has-been-resolved-for-real-this-time/)
+- [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/)
+- [SpaceX Polaris Dawn crew lands at launch site ahead of 1st-ever private spacewalk mission &lpar;photos, video&rpar;](https://www.space.com/spacex-polaris-dawn-private-spacewalk)
 - [TechCrunch Space: Spending less](https://techcrunch.com/2024/08/19/techcrunch-space-spending-less/)
 - [Gemini Live could use some more rehearsals](https://techcrunch.com/2024/08/19/gemini-live-could-use-some-more-rehearsals/)
-- [Now a million people can watch you fumble Zoom’s screen-share settings at once](https://techcrunch.com/2024/08/19/now-a-million-people-can-watch-you-fumble-zooms-screen-share-settings-at-once/)
-- [Telescopes capture Jupiter-bound JUICE probe during historic Earth-moon flyby &lpar;photos&rpar;](https://www.space.com/juice-jupiter-probe-earth-flyby-photos)
-- [What is Weyland-Yutani? The &#39;Alien&#39; universe megacorporation explained](https://www.space.com/alien-movies-history-of-weyland-yutani-corporation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
