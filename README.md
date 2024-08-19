@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Now a million people can watch you fumble Zoom’s screen share settings at once](https://techcrunch.com/2024/08/19/now-a-million-people-can-watch-you-fumble-zooms-screen-share-settings-at-once/)
+- [TechCrunch Space: Spending less](https://techcrunch.com/2024/08/19/techcrunch-space-spending-less/)
+- [Gemini Live could use some more rehearsals](https://techcrunch.com/2024/08/19/gemini-live-could-use-some-more-rehearsals/)
+- [Now a million people can watch you fumble Zoom’s screen-share settings at once](https://techcrunch.com/2024/08/19/now-a-million-people-can-watch-you-fumble-zooms-screen-share-settings-at-once/)
 - [Telescopes capture Jupiter-bound JUICE probe during historic Earth-moon flyby &lpar;photos&rpar;](https://www.space.com/juice-jupiter-probe-earth-flyby-photos)
 - [What is Weyland-Yutani? The &#39;Alien&#39; universe megacorporation explained](https://www.space.com/alien-movies-history-of-weyland-yutani-corporation)
-- [Could Trump’s AI-generated Taylor Swift endorsement be illegal?](https://techcrunch.com/2024/08/19/could-trumps-ai-generated-taylor-swift-endorsement-be-illegal/)
-- [Swarmbotics founders grew ‘obsessed with robot swarms’ and now plan to bring them to the battlefield](https://techcrunch.com/2024/08/19/swarmbiotics-founders-grew-obsessed-with-robot-swarms-and-now-plan-to-bring-them-to-the-battlefield/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
