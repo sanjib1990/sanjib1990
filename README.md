@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Chinese researchers test out new Mars and moon rover tech &lpar;video&rpar;](https://www.space.com/china-mars-moon-rover-prototypes-tests-video)
+- [Former a16z VC Balaji Srinivasan obtained a private island for his new longevity ‘technocapitalist’ school](https://techcrunch.com/2024/08/19/former-a16z-vc-balaji-srinivasan-obtained-a-private-island-for-his-new-longevity-technocapitalist-school/)
 - [Mars rock samples show signs of water in Jezero Crater — could life have once existed there?](https://www.space.com/mars-rocks-water-jezero-crater-life-signs)
 - [FlightAware warns that some customers’ info has been ‘exposed,’ including Social Security numbers](https://techcrunch.com/2024/08/19/flightaware-warns-that-some-customers-info-has-been-exposed-including-social-security-numbers/)
 - [A surprising number of ‘iPad Kids’ are on X, study finds](https://techcrunch.com/2024/08/19/a-surprising-number-of-ipad-kids-are-on-x-study-finds/)
-- [Apple Podcasts launches on the web](https://techcrunch.com/2024/08/19/apple-podcasts-on-web-browser/)
-- [From a $2.5 million hyper car to a Spanish track-ready EV, here were the most interesting EVs at Monterey Car Week](https://techcrunch.com/2024/08/19/from-a-2-5-million-hyper-car-to-a-spanish-track-ready-ev-here-were-the-most-interesting-evs-at-monterey-car-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
