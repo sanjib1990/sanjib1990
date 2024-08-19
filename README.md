@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mike Lynch, recently acquitted in HP-Autonomy case, is missing after yacht capsized off Sicily](https://techcrunch.com/2024/08/19/mike-lynch-recently-acquitted-in-hp-autonomy-case-is-missing-after-yacht-capsized-off-sicily/)
+- [Scottish rocks could hold clues about Earth&#39;s past as a snowball](https://www.space.com/snowball-earth-scottish-rocks)
 - [Superman movies ranked, worst to best](https://www.space.com/superman-movies-ranked)
-- [ElevenLabs’ text-to-speech Reader app is now available globally](https://techcrunch.com/2024/08/19/elevenlabs-reader-app-is-now-available-globally/)
+- [ElevenLabs’ text-to-speech app Reader is now available globally](https://techcrunch.com/2024/08/19/elevenlabs-reader-app-is-now-available-globally/)
 - [Help scientists find new black holes with this free smartphone app](https://www.space.com/black-hole-finder-smartphone-app)
-- [AMD to acquire infrastructure player ZT Systems for $4.9B to amp up its AI ecosystem play](https://techcrunch.com/2024/08/19/amd-to-acquire-infrastructure-player-zt-systems-for-4-9b-to-amp-up-its-ai-ecosystem-play/)
-- [How satellites could protect archaeology sites vulnerable to climate change](https://www.space.com/satellites-climate-change-archaeology-protect-vulnerable-sites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
