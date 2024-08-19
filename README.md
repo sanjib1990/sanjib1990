@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon considers moving Amazon Pay into a standalone app in India](https://techcrunch.com/2024/08/19/amazon-considers-moving-amazon-pay-into-a-standalone-app-in-india/)
 - [Waza comes out of stealth with $8M to power global trade for African businesses](https://techcrunch.com/2024/08/19/waza-comes-out-of-stealth-with-8m-to-power-global-trade-for-african-businesses/)
 - [As CO2 emissions from supply chains come into focus, this startup is aiming at farms](https://techcrunch.com/2024/08/19/as-co2-emissions-from-supply-chains-come-into-focus-this-startup-is-aiming-at-farms/)
 - [Watch the Supermoon Blue Moon rise today with this free livestream](https://www.space.com/supermoon-blue-moon-watch-livestream-free-august-2024)
 - [Digitally resurrecting actors is still a terrible idea](https://techcrunch.com/2024/08/18/digitally-resurrecting-actors-is-still-a-terrible-idea/)
-- [Nikon Trailblazer 8x25 ATB compact binoculars review](https://www.space.com/nikon-trailblazer-8x25-atb-compact-binoculars-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
