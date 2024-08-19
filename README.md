@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With space agencies racing to the moon, scientists are making a lunar &#39;time zone&#39;](https://www.space.com/moon-time-zone-lunar-gps)
+- [TechCrunch Minute: Epic Games brings its app store to mobile](https://techcrunch.com/video/techcrunch-minute-epic-games-brings-its-app-store-to-mobile/)
+- [&#39;Once-in-a-lifetime&#39; photo: Perseid meteors, northern lights and rare glowing arc shine over 11th-century castle](https://www.space.com/perseid-meteor-shower-northern-lights-sar-arc-once-in-a-lifetime-photo)
 - [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/)
 - [Doritos new safe-for-outer-space chips set for blast off: Here&#39;s how to get your own](https://www.space.com/doritos-cool-ranch-zero-gravity-polaris-dawn)
-- [GM cuts 1,000 software jobs as it prioritizes quality and AI](https://techcrunch.com/2024/08/19/gm-cuts-1000-software-jobs-as-it-prioritizes-quality-and-ai/)
-- [Procreate takes a stand against generative AI, vows to never incorporate the tech into its products](https://techcrunch.com/2024/08/19/procreate-takes-a-stand-against-generative-ai-vows-to-never-incorporate-the-tech-into-its-products/)
-- [Mike Lynch, recently acquitted in HP-Autonomy fraud case, is missing after yacht capsized off Sicily](https://techcrunch.com/2024/08/19/mike-lynch-recently-acquitted-in-hp-autonomy-case-is-missing-after-yacht-capsized-off-sicily/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
