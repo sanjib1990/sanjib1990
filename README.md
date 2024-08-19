@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD to acquire infrastructure player ZT Systems for $4.9B to amp up its AI ecosystem play](https://techcrunch.com/2024/08/19/amd-to-acquire-infrastructure-player-zt-systems-for-4-9b-to-amp-up-its-ai-ecosystem-play/)
 - [How satellites could protect archaeology sites vulnerable to climate change](https://www.space.com/satellites-climate-change-archaeology-protect-vulnerable-sites)
 - [Amazon considers moving Amazon Pay into a standalone app in India](https://techcrunch.com/2024/08/19/amazon-considers-moving-amazon-pay-into-a-standalone-app-in-india/)
 - [Waza comes out of stealth with $8M to power global trade for African businesses](https://techcrunch.com/2024/08/19/waza-comes-out-of-stealth-with-8m-to-power-global-trade-for-african-businesses/)
 - [As CO2 emissions from supply chains come into focus, this startup is aiming at farms](https://techcrunch.com/2024/08/19/as-co2-emissions-from-supply-chains-come-into-focus-this-startup-is-aiming-at-farms/)
-- [Watch the Supermoon Blue Moon rise today with this free livestream](https://www.space.com/supermoon-blue-moon-watch-livestream-free-august-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
