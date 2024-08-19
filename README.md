@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From a $2.5 million hyper car to a Spanish track-ready EV, here were the most interesting EVs at Monterey Car Week](https://techcrunch.com/2024/08/19/from-a-2-5-million-hyper-car-to-a-spanish-track-ready-ev-here-were-the-most-interesting-evs-at-monterey-car-week/)
+- [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/)
 - [With space agencies racing to the moon, scientists are making a lunar &#39;time zone&#39;](https://www.space.com/moon-time-zone-lunar-gps)
 - [TechCrunch Minute: Epic Games brings its app store to mobile](https://techcrunch.com/video/techcrunch-minute-epic-games-brings-its-app-store-to-mobile/)
 - [&#39;Once-in-a-lifetime&#39; photo: Perseid meteors, northern lights and rare glowing arc shine over 11th-century castle](https://www.space.com/perseid-meteor-shower-northern-lights-sar-arc-once-in-a-lifetime-photo)
-- [5 days left to secure ticket savings for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/19/5-days-left-to-secure-ticket-savings-for-techcrunch-disrupt-2024/)
-- [Doritos new safe-for-outer-space chips set for blast off: Here&#39;s how to get your own](https://www.space.com/doritos-cool-ranch-zero-gravity-polaris-dawn)
 <!-- BLOG-POST-LIST:END -->
 
 ---
