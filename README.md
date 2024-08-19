@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waza comes out of stealth with $8M to power global trade for African businesses](https://techcrunch.com/2024/08/19/waza-comes-out-of-stealth-with-8m-to-power-global-trade-for-african-businesses/)
+- [As CO2 emissions from supply chains come into focus, this startup is aiming at farms](https://techcrunch.com/2024/08/19/as-co2-emissions-from-supply-chains-come-into-focus-this-startup-is-aiming-at-farms/)
+- [Watch the Supermoon Blue Moon rise today with this free livestream](https://www.space.com/supermoon-blue-moon-watch-livestream-free-august-2024)
 - [Digitally resurrecting actors is still a terrible idea](https://techcrunch.com/2024/08/18/digitally-resurrecting-actors-is-still-a-terrible-idea/)
 - [Nikon Trailblazer 8x25 ATB compact binoculars review](https://www.space.com/nikon-trailblazer-8x25-atb-compact-binoculars-review)
-- [With the Polestar 3 now “weeks” away, its CEO looks to make company “self-sustaining”](https://techcrunch.com/2024/08/18/with-the-polestar-3-just-weeks-away-its-ceo-is-now-looking-ahead/)
-- [South Korea’s AI textbook program faces skepticism from parents](https://techcrunch.com/2024/08/18/south-koreas-ai-textbook-program-faces-skepticism-from-parents/)
-- [How VC Pippa Lamb ended up on ‘Industry’ — one of the hottest shows on TV](https://techcrunch.com/2024/08/18/how-vc-pippa-lamb-ended-up-on-industry-one-of-the-hottest-shows-on-tv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
