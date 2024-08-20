@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Saturn disappear behind the moon in free livestream tonight](https://www.space.com/moon-saturn-august-20-2024)
+- [Markforged adds metal printing to its industrial 3D printer amid economic struggles](https://techcrunch.com/2024/08/20/markforged-adds-metal-printing-to-its-industrial-3d-printer-amid-economic-struggles/)
 - [Starpath accelerates moon water mining plans with $12M seed funding](https://techcrunch.com/2024/08/20/starpath-accelerates-moon-water-mining-plans-with-12m-seed-funding/)
 - [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/)
 - [What happens to the wreckage created when extreme dead stars clash?](https://www.space.com/neutron-star-merger-wreckage)
-- [Mike Lynch, recently acquitted in HP-Autonomy fraud case, is missing after yacht capsized off Sicily &lpar;updated&rpar;](https://techcrunch.com/2024/08/20/mike-lynch-recently-acquitted-in-hp-autonomy-case-is-missing-after-yacht-capsized-off-sicily/)
-- [US tech giants fight Indian telcos’ bid to regulate internet services, pay for network usage](https://techcrunch.com/2024/08/20/us-tech-giants-fight-indian-telcos-bid-to-regulate-internet-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
