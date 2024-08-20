@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance Mars rover begins 820-foot climb up &#39;Witch Hazel Hill&#39;](https://www.space.com/mars-perserverance-rover-crater-rim-campaign)
+- [4 days left to save big on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/20/4-days-left-to-save-big-on-techcrunch-disrupt-2024-tickets/)
+- [US government accuses Iran of Trump campaign hack; Iran scoffs](https://techcrunch.com/2024/08/20/us-government-accuses-iran-of-trump-campaign-hack-iran-scoffs/)
 - [Thirty-nine state AGs now support Live Nation-Ticketmaster lawsuit](https://techcrunch.com/2024/08/20/thirty-nine-state-ags-now-support-live-nation-ticketmaster-lawsuit/)
 - [Mental health in space: ISS experiments help keep astronauts happy off Earth](https://www.space.com/iss-astronauts-mental-health-experiments-space)
-- [Sarah Buchner started as a carpenter when she was 12 — now her AI construction startup has raised $20 million](https://techcrunch.com/2024/08/20/trunk-tools-raises-30m-to-help-construction-companies-get-answers-from-documents/)
-- [The Rounds scoops up $24M to bring its ‘household restocking’ delivery service to more markets](https://techcrunch.com/2024/08/20/the-rounds-series-b-funding-round-24-million/)
-- [Supermoon Blue Moon 2024: Top photos from around the world](https://www.space.com/supermoon-blue-moon-2024-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
