@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/)
-- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/)
-- [Microsoft co-founder&#39;s space art, artifacts to be sold by Christie&#39;s](https://www.space.com/paul-allen-space-art-artifacts-christies-auction)
-- [Beyond Math’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/)
-- [Watch Saturn disappear behind the moon in free livestream tonight](https://www.space.com/moon-saturn-august-20-2024)
+- [Thirty-nine state AGs now support Live Nation-Ticketmaster lawsuit](https://techcrunch.com/2024/08/20/thirty-nine-state-ags-now-support-live-nation-ticketmaster-lawsuit/)
+- [Mental health in space: ISS experiments help keep astronauts happy off Earth](https://www.space.com/iss-astronauts-mental-health-experiments-space)
+- [Sarah Buchner started as a carpenter when she was 12 — now her AI construction startup has raised $20 million](https://techcrunch.com/2024/08/20/trunk-tools-raises-30m-to-help-construction-companies-get-answers-from-documents/)
+- [The Rounds scoops up $24M to bring its ‘household restocking’ delivery service to more markets](https://techcrunch.com/2024/08/20/the-rounds-series-b-funding-round-24-million/)
+- [Supermoon Blue Moon 2024: Top photos from around the world](https://www.space.com/supermoon-blue-moon-2024-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
