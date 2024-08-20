@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Perseverance Mars rover begins 820-foot climb up &#39;Witch Hazel Hill&#39;](https://www.space.com/mars-perserverance-rover-crater-rim-campaign)
-- [4 days left to save big on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/20/4-days-left-to-save-big-on-techcrunch-disrupt-2024-tickets/)
-- [US government accuses Iran of Trump campaign hack; Iran scoffs](https://techcrunch.com/2024/08/20/us-government-accuses-iran-of-trump-campaign-hack-iran-scoffs/)
-- [Thirty-nine state AGs now support Live Nation-Ticketmaster lawsuit](https://techcrunch.com/2024/08/20/thirty-nine-state-ags-now-support-live-nation-ticketmaster-lawsuit/)
-- [Mental health in space: ISS experiments help keep astronauts happy off Earth](https://www.space.com/iss-astronauts-mental-health-experiments-space)
+- [Photographer captures rare double &#39;moonbow&#39; ahead of Supermoon Blue Moon. &#39;It was a wonderful sight to behold!&#39;](https://www.space.com/rare-double-moonbow-photo)
+- [Are we alone? Intelligent aliens may be rare, new study suggests](https://www.space.com/intelligent-alien-life-rare-drake-equation-research)
+- [YouTube takes on TikTok Shop with expanded Shopify partnership](https://techcrunch.com/2024/08/20/youtube-takes-on-tiktok-shop-with-expanded-shopify-partnership/)
+- [TechCrunch Minute: Ikea is expanding its fleet of inventory drones](https://techcrunch.com/video/techcrunch-minute-ikea-is-expanding-its-fleet-of-inventory-drones/)
+- [Satellites capture Hurricane Ernesto racing across the Atlantic &lpar;images&rpar;](https://www.space.com/hurricane-ernesto-satellite-imagery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
