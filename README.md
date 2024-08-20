@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Orange you glad there&#39;s fruit in space? These astronauts sure are &lpar;video&rpar;](https://www.space.com/iss-cargo-delivery-fresh-fruit-video)
+- [OpenAI signs deal to train on Condé Nast content, surface stories in ChatGPT](https://techcrunch.com/2024/08/20/openai-signs-deal-to-train-on-conde-nast-content-surface-stories-in-chatgpt/)
+- [European commercial rocket explodes during test fire ahead of planned debut launch](https://www.space.com/rocket-factory-augsburg-explosion-saxavord-spaceport)
+- [Get $240 off the Celestron NexStar 8SE computerized telescope](https://www.space.com/celestron-nexstar-8se-deal-save-240-dollars-august-2024)
 - [PayPal could challenge Apple Wallet in the EU](https://techcrunch.com/2024/08/20/paypal-could-challenge-apple-wallet-in-the-eu/)
-- [SpaceX launches 22 Starlink internet satellites into orbit, lands brand-new rocket &lpar;video&rpar;](https://www.space.com/spacex-rocket-launches-22-starlink-satellites-success)
-- [Fintech shutdowns, Klarna’s move into banking and which companies are hiring](https://techcrunch.com/2024/08/20/fintech-shutdowns-klarnas-move-into-banking-and-which-companies-are-hiring/)
-- [Have astronomers found the &#39;secret recipe&#39; for rapid planet growth?](https://www.space.com/planet-growth-rapid-secret-recipe)
-- [How Fabric plans to make advanced cryptography ubiquitous](https://techcrunch.com/2024/08/20/how-fabric-plans-to-make-advanced-cryptography-ubiquitous/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
