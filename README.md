@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s JUICE Jupiter probe zooms by the moon in historic flyby &lpar;photos&rpar;](https://www.space.com/juice-jupiter-probe-esa-moon-flyby)
 - [Demand for AI is driving data center water consumption sky high](https://techcrunch.com/2024/08/19/demand-for-ai-is-driving-data-center-water-consumption-sky-high/)
 - [The Waymo robotaxi honking problem has been resolved for real this time](https://techcrunch.com/2024/08/19/the-waymo-robotaxi-honking-problem-has-been-resolved-for-real-this-time/)
 - [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/)
 - [SpaceX Polaris Dawn crew lands at launch site ahead of 1st-ever private spacewalk mission &lpar;photos, video&rpar;](https://www.space.com/spacex-polaris-dawn-private-spacewalk)
-- [TechCrunch Space: Spending less](https://techcrunch.com/2024/08/19/techcrunch-space-spending-less/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
