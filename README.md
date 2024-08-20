@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US tech giants fight Indian telcos’ bid to regulate internet services](https://techcrunch.com/2024/08/20/us-tech-giants-fight-indian-telcos-bid-to-regulate-internet-services/)
 - [Pakistan’s PostEx to enter new markets, starting with Saudi Arabia](https://techcrunch.com/2024/08/19/pakistans-postex-to-enter-new-markets-starting-with-saudi-arabia/)
 - [Europe&#39;s JUICE Jupiter probe zooms by the moon in historic flyby &lpar;photos&rpar;](https://www.space.com/juice-jupiter-probe-esa-moon-flyby)
 - [Demand for AI is driving data center water consumption sky high](https://techcrunch.com/2024/08/19/demand-for-ai-is-driving-data-center-water-consumption-sky-high/)
 - [The Waymo robotaxi honking problem has been resolved for real this time](https://techcrunch.com/2024/08/19/the-waymo-robotaxi-honking-problem-has-been-resolved-for-real-this-time/)
-- [What margins? AI’s business model is changing fast, says Cohere founder](https://techcrunch.com/2024/08/19/what-margins-ais-business-model-is-changing-fast-says-cohere-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
