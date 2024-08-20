@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is your company AI-washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/)
+- [SpaceX Polaris Dawn private spacewalk mission: Live updates](https://www.space.com/news/live/polaris-program-spacex-mission-updates)
+- [Move over, Apple: Meet the alternative app stores coming to the EU](https://techcrunch.com/2024/08/20/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/)
 - [&#39;Star Wars: The Acolyte&#39; canceled after just 1 season](https://www.space.com/star-wars-the-acolyte-canceled-1-season)
 - [Google’s Nest Learning Thermostat is still the one to beat](https://techcrunch.com/2024/08/20/googles-nest-learning-thermostat-is-still-the-one-to-beat/)
-- [Watch this robot quickly install roof shingles](https://techcrunch.com/2024/08/20/watch-this-robot-quickly-install-roof-shingles/)
-- [Some rocky exoplanets could have huge amounts of water in their molten cores](https://www.space.com/rocky-exoplanets-water-molten-cores)
-- [Cisco employees face a month of silence ahead of second layoff in 2024](https://techcrunch.com/2024/08/20/cisco-employees-face-a-month-of-silence-ahead-of-second-layoff-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
