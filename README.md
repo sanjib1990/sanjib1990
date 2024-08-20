@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eppo lands new cash to grow its app, website and AI experimentation business](https://techcrunch.com/2024/08/20/eppo-lands-new-cash-to-grow-its-app-website-and-ai-experimentation-business/)
+- [Defcon AI closes $44M seed round to solve a problem of ‘maximum complexity’: Military logistics](https://techcrunch.com/2024/08/20/defcon-ai-raises-44m-seed-to-help-solve-military-logistics/)
+- [Microsoft co-founder&#39;s space art, artifacts to be sold by Christie&#39;s](https://www.space.com/paul-allen-space-art-artifacts-christies-auction)
+- [Beyond Math’s ‘digital wind tunnel’ puts a physics-based AI simulation to work on F1 cars](https://techcrunch.com/2024/08/20/beyond-maths-digital-wind-tunnel-puts-a-physics-based-ai-simulation-to-work-on-f1-cars/)
 - [Watch Saturn disappear behind the moon in free livestream tonight](https://www.space.com/moon-saturn-august-20-2024)
-- [Markforged adds metal printing to its industrial 3D printer amid economic struggles](https://techcrunch.com/2024/08/20/markforged-adds-metal-printing-to-its-industrial-3d-printer-amid-economic-struggles/)
-- [Starpath accelerates moon water mining plans with $12M seed funding](https://techcrunch.com/2024/08/20/starpath-accelerates-moon-water-mining-plans-with-12m-seed-funding/)
-- [Reliant’s paper-scouring AI takes on science’s data drudgery](https://techcrunch.com/2024/08/20/reliant-ai/)
-- [What happens to the wreckage created when extreme dead stars clash?](https://www.space.com/neutron-star-merger-wreckage)
 <!-- BLOG-POST-LIST:END -->
 
 ---
