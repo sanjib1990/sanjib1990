@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Wars: The Acolyte&#39; canceled after just 1 season](https://www.space.com/star-wars-the-acolyte-canceled-1-season)
+- [Google’s Nest Learning Thermostat is still the one to beat](https://techcrunch.com/2024/08/20/googles-nest-learning-thermostat-is-still-the-one-to-beat/)
+- [Watch this robot quickly install roof shingles](https://techcrunch.com/2024/08/20/watch-this-robot-quickly-install-roof-shingles/)
 - [Some rocky exoplanets could have huge amounts of water in their molten cores](https://www.space.com/rocky-exoplanets-water-molten-cores)
 - [Cisco employees face a month of silence ahead of second layoff in 2024](https://techcrunch.com/2024/08/20/cisco-employees-face-a-month-of-silence-ahead-of-second-layoff-in-2024/)
-- [Orange you glad there&#39;s fruit in space? These astronauts sure are &lpar;video&rpar;](https://www.space.com/iss-cargo-delivery-fresh-fruit-video)
-- [OpenAI signs deal to train on Condé Nast content, surface stories in ChatGPT](https://techcrunch.com/2024/08/20/openai-signs-deal-to-train-on-conde-nast-content-surface-stories-in-chatgpt/)
-- [Europe&#39;s 1st commercial rocket by RFA explodes on test stand at Scotland spaceport](https://www.space.com/rocket-factory-augsburg-explosion-saxavord-spaceport)
 <!-- BLOG-POST-LIST:END -->
 
 ---
