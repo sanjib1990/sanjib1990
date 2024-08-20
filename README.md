@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some rocky exoplanets could have huge amounts of water in their molten cores](https://www.space.com/rocky-exoplanets-water-molten-cores)
+- [Cisco employees face a month of silence ahead of second layoff in 2024](https://techcrunch.com/2024/08/20/cisco-employees-face-a-month-of-silence-ahead-of-second-layoff-in-2024/)
 - [Orange you glad there&#39;s fruit in space? These astronauts sure are &lpar;video&rpar;](https://www.space.com/iss-cargo-delivery-fresh-fruit-video)
 - [OpenAI signs deal to train on Condé Nast content, surface stories in ChatGPT](https://techcrunch.com/2024/08/20/openai-signs-deal-to-train-on-conde-nast-content-surface-stories-in-chatgpt/)
-- [European commercial rocket explodes during test fire ahead of planned debut launch](https://www.space.com/rocket-factory-augsburg-explosion-saxavord-spaceport)
-- [Get $240 off the Celestron NexStar 8SE computerized telescope](https://www.space.com/celestron-nexstar-8se-deal-save-240-dollars-august-2024)
-- [PayPal could challenge Apple Wallet in the EU](https://techcrunch.com/2024/08/20/paypal-could-challenge-apple-wallet-in-the-eu/)
+- [Europe&#39;s 1st commercial rocket by RFA explodes on test stand at Scotland spaceport](https://www.space.com/rocket-factory-augsburg-explosion-saxavord-spaceport)
 <!-- BLOG-POST-LIST:END -->
 
 ---
