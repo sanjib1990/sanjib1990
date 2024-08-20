@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech shutdowns, Klarna’s move into banking and which companies are hiring](https://techcrunch.com/2024/08/20/fintech-shutdowns-klarnas-move-into-banking-and-which-companies-are-hiring/)
+- [Have astronomers found the &#39;secret recipe&#39; for rapid planet growth?](https://www.space.com/planet-growth-rapid-secret-recipe)
+- [How Fabric plans to make advanced cryptography ubiquitous](https://techcrunch.com/2024/08/20/how-fabric-plans-to-make-advanced-cryptography-ubiquitous/)
+- [Life-sciences investor BEVC raising $25M climate fund](https://techcrunch.com/2024/08/20/life-sciences-investor-bevc-raising-25m-climate-fund/)
 - [Photographer captures rare double &#39;moonbow&#39; ahead of Supermoon Blue Moon. &#39;It was a wonderful sight to behold!&#39;](https://www.space.com/rare-double-moonbow-photo)
-- [Are we alone? Intelligent aliens may be rare, new study suggests](https://www.space.com/intelligent-alien-life-rare-drake-equation-research)
-- [YouTube takes on TikTok Shop with expanded Shopify partnership](https://techcrunch.com/2024/08/20/youtube-takes-on-tiktok-shop-with-expanded-shopify-partnership/)
-- [TechCrunch Minute: Ikea is expanding its fleet of inventory drones](https://techcrunch.com/video/techcrunch-minute-ikea-is-expanding-its-fleet-of-inventory-drones/)
-- [Satellites capture Hurricane Ernesto racing across the Atlantic &lpar;images&rpar;](https://www.space.com/hurricane-ernesto-satellite-imagery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
