@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal could challenge Apple Wallet in the EU](https://techcrunch.com/2024/08/20/paypal-could-challenge-apple-wallet-in-the-eu/)
+- [SpaceX launches 22 Starlink internet satellites into orbit, lands brand-new rocket &lpar;video&rpar;](https://www.space.com/spacex-rocket-launches-22-starlink-satellites-success)
 - [Fintech shutdowns, Klarna’s move into banking and which companies are hiring](https://techcrunch.com/2024/08/20/fintech-shutdowns-klarnas-move-into-banking-and-which-companies-are-hiring/)
 - [Have astronomers found the &#39;secret recipe&#39; for rapid planet growth?](https://www.space.com/planet-growth-rapid-secret-recipe)
 - [How Fabric plans to make advanced cryptography ubiquitous](https://techcrunch.com/2024/08/20/how-fabric-plans-to-make-advanced-cryptography-ubiquitous/)
-- [Life-sciences investor BEVC raising $25M climate fund](https://techcrunch.com/2024/08/20/life-sciences-investor-bevc-raising-25m-climate-fund/)
-- [Photographer captures rare double &#39;moonbow&#39; ahead of Supermoon Blue Moon. &#39;It was a wonderful sight to behold!&#39;](https://www.space.com/rare-double-moonbow-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
