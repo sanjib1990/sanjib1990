@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Apollo 13: Survival&#39; documentary has &#39;go&#39; for Sep. 5 launch on Netflix](https://www.space.com/netflix-apollo-13-survival-documentary)
+- [Typing these four characters could crash your iPhone](https://techcrunch.com/2024/08/21/typing-these-four-characters-could-crash-your-iphone/)
+- [Anthropic’s Claude surpasses $1M in mobile app revenue](https://techcrunch.com/2024/08/21/anthropics-claude-surpasses-1m-in-mobile-app-revenue/)
 - [This Week in AI: Gen Z has mixed feelings on AI](https://techcrunch.com/2024/08/21/this-week-in-ai-gen-z-has-mixed-feelings-on-ai/)
 - [Volkswagen ID.Buzz electric minivan will cost $59,995 for just 234 miles of range](https://techcrunch.com/2024/08/21/volkswagen-id-buzz-electric-minivan-will-cost-59995-for-just-234-miles-of-range/)
-- [Jupiter-bound JUICE probe slingshots by Earth on way to Venus &lpar;photos&rpar;](https://www.space.com/juice-jupiter-probe-earth-flyby-complete)
-- [Bodies of Autonomy founder Mike Lynch and his daughter recovered from sunken Bayesian yacht](https://techcrunch.com/2024/08/21/bodies-of-autonomy-founder-mike-lynch-and-his-daughter-recovered-from-sunken-bayesian-yacht/)
-- [Take a mind-bending trip to Titan in exclusive &#39;Slingshot&#39; featurette &lpar;video&rpar;](https://www.space.com/slingshot-featurette)
 <!-- BLOG-POST-LIST:END -->
 
 ---
