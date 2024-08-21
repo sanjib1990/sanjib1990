@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens if you throw a star at a black hole? Things get messy &lpar;video&rpar;](https://www.space.com/black-holes-devoured-stars-messy-simulation)
-- [August was Medium’s first profitable month — ever](https://techcrunch.com/2024/08/21/august-was-mediums-first-profitable-month-ever/)
-- [This founder had to train his AI not to Rickroll people](https://techcrunch.com/2024/08/21/this-founder-had-to-train-his-ai-to-not-rickroll-people/)
-- [Apple is bringing audio sharing to Beats Studio Pro via firmware update](https://techcrunch.com/2024/08/21/apple-is-bringing-audio-sharing-to-beats-studio-pro-via-firmware-update/)
-- [Scientists collect high-resolution images of the North Star&#39;s surface for 1st time](https://www.space.com/north-star-polaris-surface-images)
+- [SpaceX shows off Dragon capsules for Polaris Dawn, Crew-9 astronaut missions &lpar;photos&rpar;](https://www.space.com/spacex-polaris-dawn-crew-9-dragon-capsules-photos)
+- [Telecom that enabled Biden deepfake scam will pay FCC $1M](https://techcrunch.com/2024/08/21/telecom-that-enabled-biden-deepfake-scam-will-pay-fcc-1m/)
+- [OpenAI’s opposition to California’s AI law ‘makes no sense,’ says state Senator](https://techcrunch.com/2024/08/21/openais-opposition-to-californias-ai-law-makes-no-sense-says-state-senator/)
+- [Bolt’s wild ultimatum to its VCs will only succeed if they agree, expert says](https://techcrunch.com/2024/08/21/bolts-wild-ultimatum-to-its-vcs-will-only-succeed-if-they-agree-expert-says/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/08/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
