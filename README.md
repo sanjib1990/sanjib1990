@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This new accessible Xbox nunchuck controller has 3D-printable joystick parts](https://techcrunch.com/2024/08/21/this-new-accessible-xbox-nunchuck-controller-has-3d-printable-joystick-parts/)
 - [SpaceX shows off Dragon capsules for Polaris Dawn, Crew-9 astronaut missions &lpar;photos&rpar;](https://www.space.com/spacex-polaris-dawn-crew-9-dragon-capsules-photos)
 - [Telecom that enabled Biden deepfake scam will pay FCC $1M](https://techcrunch.com/2024/08/21/telecom-that-enabled-biden-deepfake-scam-will-pay-fcc-1m/)
-- [OpenAI’s opposition to California’s AI law ‘makes no sense,’ says state Senator](https://techcrunch.com/2024/08/21/openais-opposition-to-californias-ai-law-makes-no-sense-says-state-senator/)
-- [Bolt’s wild ultimatum to its VCs will only succeed if they agree, expert says](https://techcrunch.com/2024/08/21/bolts-wild-ultimatum-to-its-vcs-will-only-succeed-if-they-agree-expert-says/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/08/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [OpenAI’s opposition to California’s AI bill ‘makes no sense,’ says state senator](https://techcrunch.com/2024/08/21/openais-opposition-to-californias-ai-law-makes-no-sense-says-state-senator/)
+- [Bolt’s Breslow faces uphill battle with proposed cramdown](https://techcrunch.com/2024/08/21/bolts-wild-ultimatum-to-its-vcs-will-only-succeed-if-they-agree-expert-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
