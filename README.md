@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Lecture 4: Langmuir Probe](https://www.youtube.com/watch?v=cETSJ6IzqTQ)
-- [Lecture 19: Nuclear Diagnostics](https://www.youtube.com/watch?v=iv30rCakxEY)
-- [Lecture 23: Thomson Scattering: Advanced](https://www.youtube.com/watch?v=-m9khFwO970)
-- [Lecture 1: Introduction to Principles of Plasma Diagnostics](https://www.youtube.com/watch?v=IAf2m_sLWq4)
-- [Lecture 2: Magnetics I](https://www.youtube.com/watch?v=qUO_DcUVwg8)
+- [Wake up babe, a dangerous new open-source AI model is here](https://www.youtube.com/watch?v=QYVucud3ptc)
+- [Introduction to GIS, Part III: Projection](https://www.youtube.com/watch?v=qsjX1_DW81s)
+- [Kim Dotcom is in mega big trouble](https://www.youtube.com/watch?v=08g_eJloufs)
+- [Using AI to become a Hacker](https://www.youtube.com/watch?v=3D6gaawXwfk)
+- [Big O explained with a deck of cards](https://www.youtube.com/watch?v=WbF2bLbAUik)
 <!-- YOUTUBE:END -->
 
 ---
