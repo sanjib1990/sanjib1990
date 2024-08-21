@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: Gen Z has mixed feelings on AI](https://techcrunch.com/2024/08/21/this-week-in-ai-gen-z-has-mixed-feelings-on-ai/)
+- [Volkswagen ID.Buzz electric minivan will cost $59,995 for just 234 miles of range](https://techcrunch.com/2024/08/21/volkswagen-id-buzz-electric-minivan-will-cost-59995-for-just-234-miles-of-range/)
+- [Jupiter-bound JUICE probe slingshots by Earth on way to Venus &lpar;photos&rpar;](https://www.space.com/juice-jupiter-probe-earth-flyby-complete)
+- [Bodies of Autonomy founder Mike Lynch and his daughter recovered from sunken Bayesian yacht](https://techcrunch.com/2024/08/21/bodies-of-autonomy-founder-mike-lynch-and-his-daughter-recovered-from-sunken-bayesian-yacht/)
 - [Take a mind-bending trip to Titan in exclusive &#39;Slingshot&#39; featurette &lpar;video&rpar;](https://www.space.com/slingshot-featurette)
-- [TechCrunch Minute: This startup wants to mine water on the moon](https://techcrunch.com/video/techcrunch-minute-this-startup-wants-to-mine-water-on-the-moon/)
-- [Polaris Dawn mission: Meet the crew taking 1st commercial spacewalk](https://www.space.com/spacex-polaris-dawn-who-is-launching)
-- [Zomato buys Paytm’s entertainment ticket business for $244 million](https://techcrunch.com/2024/08/21/zomato-buys-paytms-entertainment-ticket-business-for-244-million/)
-- [Only 3 days left for massive savings on tickets to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/only-3-days-left-for-massive-savings-on-tickets-to-techcrunch-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
