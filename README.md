@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens if you throw a star at a black hole? Things get messy &lpar;video&rpar;](https://www.space.com/black-holes-devoured-stars-messy-simulation)
+- [August was Medium’s first profitable month — ever](https://techcrunch.com/2024/08/21/august-was-mediums-first-profitable-month-ever/)
+- [This founder had to train his AI not to Rickroll people](https://techcrunch.com/2024/08/21/this-founder-had-to-train-his-ai-to-not-rickroll-people/)
 - [Apple is bringing audio sharing to Beats Studio Pro via firmware update](https://techcrunch.com/2024/08/21/apple-is-bringing-audio-sharing-to-beats-studio-pro-via-firmware-update/)
 - [Scientists collect high-resolution images of the North Star&#39;s surface for 1st time](https://www.space.com/north-star-polaris-surface-images)
-- [Gamified rower startup Aviron branches out into bikes](https://techcrunch.com/2024/08/21/gamified-rower-startup-aviron-branches-out-into-bikes/)
-- [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/)
-- [D-ID launches an AI video translation tool that includes voice cloning and lip sync](https://techcrunch.com/2024/08/21/d-id-launches-an-ai-video-translation-tool-that-includes-voice-cloning-and-lip-sync/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
