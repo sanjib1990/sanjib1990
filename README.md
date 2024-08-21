@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only 3 days left for massive savings on tickets to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/only-3-days-left-for-massive-savings-on-tickets-to-techcrunch-disrupt-2024/)
+- [Two incident management startups join forces as FireHydrant nabs Blameless](https://techcrunch.com/2024/08/21/two-incident-management-startups-join-forces-as-firehydrant-nabs-blameless/)
+- [Space mining startup AstroForge aims to launch historic asteroid-landing mission in 2025](https://www.space.com/asteroid-mining-astroforge-docking-mission-2025)
+- [Ring’s new battery doorbell has head-to-toe video](https://techcrunch.com/2024/08/21/ring-battery-doorbell-new-generation-head-to-toe-video/)
 - [Earth&#39;s days once got 2 hours longer — and that may have triggered one of the biggest evolutionary explosions in history, study suggests](https://www.space.com/earth-day-2-hours-longer-evolutionary-explosion)
-- [Openmart wants to make it easier for enterprises to sell to local businesses](https://techcrunch.com/2024/08/21/openmart-wants-to-make-it-easier-for-enterprises-to-sell-to-local-businesses/)
-- [Astrophotographer captures Saturn vanishing behind the moon in mesmerizing photo](https://www.space.com/saturn-moon-occultation-astrophotographer-photo-august-2024)
-- [Giant exoplanet the size of 2 Jupiters has a hidden companion disturbing its orbit](https://www.space.com/nasa-tess-super-earth-hot-jupiter-wobbly)
-- [The new generation of heavy lift rockets rising to challenge SpaceX](https://techcrunch.com/2024/08/21/the-new-generation-of-heavy-lift-rockets-rising-to-challenge-spacex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
