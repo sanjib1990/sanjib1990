@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Apollo 13: Survival&#39; documentary has &#39;go&#39; for Sep. 5 launch on Netflix](https://www.space.com/netflix-apollo-13-survival-documentary)
-- [Typing these four characters could crash your iPhone](https://techcrunch.com/2024/08/21/typing-these-four-characters-could-crash-your-iphone/)
-- [Anthropic’s Claude surpasses $1M in mobile app revenue](https://techcrunch.com/2024/08/21/anthropics-claude-surpasses-1m-in-mobile-app-revenue/)
-- [This Week in AI: Gen Z has mixed feelings on AI](https://techcrunch.com/2024/08/21/this-week-in-ai-gen-z-has-mixed-feelings-on-ai/)
-- [Volkswagen ID.Buzz electric minivan will cost $59,995 for just 234 miles of range](https://techcrunch.com/2024/08/21/volkswagen-id-buzz-electric-minivan-will-cost-59995-for-just-234-miles-of-range/)
+- [Apple is bringing audio sharing to Beats Studio Pro via firmware update](https://techcrunch.com/2024/08/21/apple-is-bringing-audio-sharing-to-beats-studio-pro-via-firmware-update/)
+- [Scientists collect high-resolution images of the North Star&#39;s surface for 1st time](https://www.space.com/north-star-polaris-surface-images)
+- [Gamified rower startup Aviron branches out into bikes](https://techcrunch.com/2024/08/21/gamified-rower-startup-aviron-branches-out-into-bikes/)
+- [First look at the Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/first-look-at-the-startup-battlefield-judges-at-techcrunch-disrupt-2024/)
+- [D-ID launches an AI video translation tool that includes voice cloning and lip sync](https://techcrunch.com/2024/08/21/d-id-launches-an-ai-video-translation-tool-that-includes-voice-cloning-and-lip-sync/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
