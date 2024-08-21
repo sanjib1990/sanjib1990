@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Story raises $83M at a $2.25B valuation to build a blockchain for the business of content IP in the age of AI](https://techcrunch.com/2024/08/21/story-raises-83m-at-a-2-25b-valuation-to-build-a-blockchain-for-the-business-of-content-ip-in-the-age-of-ai/)
+- [Perseverance rover&#39;s Mars samples must be brought back to Earth, scientists stress](https://www.space.com/perseverance-mars-rover-sample-return)
 - [Skyfire lets AI agents spend your money](https://techcrunch.com/2024/08/21/skyfire-lets-ai-agents-spend-your-money/)
 - [WeTransfer’s expiry dates haven’t gone away, but you can at least extend them](https://techcrunch.com/2024/08/21/wetransfers-expiry-dates-havent-gone-away-but-you-can-at-least-extend-them/)
 - [How do supermassive black holes &#39;starve&#39; their galaxies to halt star formation?](https://www.space.com/supermassive-black-hole-halting-star-formation)
-- [India’s trade minister decries e-commerce growth, Amazon’s ‘predatory’ pricing](https://techcrunch.com/2024/08/21/indias-trade-minister-decries-e-commerce-growth-amazons-predatory-pricing/)
-- [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
