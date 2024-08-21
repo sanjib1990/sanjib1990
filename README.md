@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skyfire lets AI agents spend your money](https://techcrunch.com/2024/08/21/skyfire-lets-ai-agents-spend-your-money/)
+- [WeTransfer’s expiry dates haven’t gone away, but you can at least extend them](https://techcrunch.com/2024/08/21/wetransfers-expiry-dates-havent-gone-away-but-you-can-at-least-extend-them/)
 - [How do supermassive black holes &#39;starve&#39; their galaxies to halt star formation?](https://www.space.com/supermassive-black-hole-halting-star-formation)
 - [India’s trade minister decries e-commerce growth, Amazon’s ‘predatory’ pricing](https://techcrunch.com/2024/08/21/indias-trade-minister-decries-e-commerce-growth-amazons-predatory-pricing/)
 - [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/)
-- [The banks that loaned Musk $13B to buy Twitter might be having regrets](https://techcrunch.com/2024/08/20/the-banks-that-loaned-musk-13b-to-buy-twitter-might-be-having-regrets/)
-- [Is your company AI washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
