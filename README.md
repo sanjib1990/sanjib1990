@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Take a mind-bending trip to Titan in exclusive &#39;Slingshot&#39; featurette &lpar;video&rpar;](https://www.space.com/slingshot-featurette)
+- [TechCrunch Minute: This startup wants to mine water on the moon](https://techcrunch.com/video/techcrunch-minute-this-startup-wants-to-mine-water-on-the-moon/)
+- [Polaris Dawn mission: Meet the crew taking 1st commercial spacewalk](https://www.space.com/spacex-polaris-dawn-who-is-launching)
+- [Zomato buys Paytm’s entertainment ticket business for $244 million](https://techcrunch.com/2024/08/21/zomato-buys-paytms-entertainment-ticket-business-for-244-million/)
 - [Only 3 days left for massive savings on tickets to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/21/only-3-days-left-for-massive-savings-on-tickets-to-techcrunch-disrupt-2024/)
-- [Two incident management startups join forces as FireHydrant nabs Blameless](https://techcrunch.com/2024/08/21/two-incident-management-startups-join-forces-as-firehydrant-nabs-blameless/)
-- [Space mining startup AstroForge aims to launch historic asteroid-landing mission in 2025](https://www.space.com/asteroid-mining-astroforge-docking-mission-2025)
-- [Ring’s new battery doorbell has head-to-toe video](https://techcrunch.com/2024/08/21/ring-battery-doorbell-new-generation-head-to-toe-video/)
-- [Earth&#39;s days once got 2 hours longer — and that may have triggered one of the biggest evolutionary explosions in history, study suggests](https://www.space.com/earth-day-2-hours-longer-evolutionary-explosion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
