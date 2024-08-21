@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Story raises $83M at a $2.25B valuation to build a blockchain for the business of content IP in the age of AI](https://techcrunch.com/2024/08/21/story-raises-83m-at-a-2-25b-valuation-to-build-a-blockchain-for-the-business-of-content-ip-in-the-age-of-ai/)
-- [Perseverance rover&#39;s Mars samples must be brought back to Earth, scientists stress](https://www.space.com/perseverance-mars-rover-sample-return)
-- [Skyfire lets AI agents spend your money](https://techcrunch.com/2024/08/21/skyfire-lets-ai-agents-spend-your-money/)
-- [WeTransfer’s expiry dates haven’t gone away, but you can at least extend them](https://techcrunch.com/2024/08/21/wetransfers-expiry-dates-havent-gone-away-but-you-can-at-least-extend-them/)
-- [How do supermassive black holes &#39;starve&#39; their galaxies to halt star formation?](https://www.space.com/supermassive-black-hole-halting-star-formation)
+- [Giant exoplanet the size of 2 Jupiters has a hidden companion disturbing its orbit](https://www.space.com/nasa-tess-super-earth-hot-jupiter-wobbly)
+- [The new generation of heavy lift rockets rising to challenge SpaceX](https://techcrunch.com/2024/08/21/the-new-generation-of-heavy-lift-rockets-rising-to-challenge-spacex/)
+- [Grafana Labs is now valued at over $6B](https://techcrunch.com/2024/08/21/grafana-labs-is-now-valued-at-6b/)
+- [Ford says a pickup truck will be the first EV built on its low-cost platform](https://techcrunch.com/2024/08/21/ford-ev-low-cost-pickup-skunkworks-team/)
+- [UK’s competition authority ends probes of Apple and Google but will use incoming powers to ‘resolve app store concerns’](https://techcrunch.com/2024/08/21/uks-competition-authority-ends-probes-of-apple-and-google-but-will-use-incoming-powers-to-resolve-app-store-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
