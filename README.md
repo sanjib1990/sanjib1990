@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SleekFlow snaps up $7M to tap the conversational AI opportunity across Asia](https://techcrunch.com/2024/08/20/omnichannel-platform-sleekflow-gets-7m-to-propel-expansion-ai-capabilities/)
 - [The banks that loaned Musk $13B to buy Twitter might be having regrets](https://techcrunch.com/2024/08/20/the-banks-that-loaned-musk-13b-to-buy-twitter-might-be-having-regrets/)
 - [Is your company AI washing? Rippling founder Parker Conrad thinks it might be.](https://techcrunch.com/2024/08/20/is-your-company-ai-washing-rippling-founder-parker-conrad-thinks-it-might-be/)
 - [SpaceX Polaris Dawn private spacewalk mission: Live updates](https://www.space.com/news/live/polaris-program-spacex-mission-updates)
 - [Move over, Apple: Meet the alternative app stores coming to the EU](https://techcrunch.com/2024/08/20/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/)
-- [&#39;Star Wars: The Acolyte&#39; canceled after just 1 season](https://www.space.com/star-wars-the-acolyte-canceled-1-season)
 <!-- BLOG-POST-LIST:END -->
 
 ---
