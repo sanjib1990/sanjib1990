@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth&#39;s days once got 2 hours longer — and that may have triggered one of the biggest evolutionary explosions in history, study suggests](https://www.space.com/earth-day-2-hours-longer-evolutionary-explosion)
+- [Openmart wants to make it easier for enterprises to sell to local businesses](https://techcrunch.com/2024/08/21/openmart-wants-to-make-it-easier-for-enterprises-to-sell-to-local-businesses/)
+- [Astrophotographer captures Saturn vanishing behind the moon in mesmerizing photo](https://www.space.com/saturn-moon-occultation-astrophotographer-photo-august-2024)
 - [Giant exoplanet the size of 2 Jupiters has a hidden companion disturbing its orbit](https://www.space.com/nasa-tess-super-earth-hot-jupiter-wobbly)
 - [The new generation of heavy lift rockets rising to challenge SpaceX](https://techcrunch.com/2024/08/21/the-new-generation-of-heavy-lift-rockets-rising-to-challenge-spacex/)
-- [Grafana Labs is now valued at over $6B](https://techcrunch.com/2024/08/21/grafana-labs-is-now-valued-at-6b/)
-- [Ford says a pickup truck will be the first EV built on its low-cost platform](https://techcrunch.com/2024/08/21/ford-ev-low-cost-pickup-skunkworks-team/)
-- [UK’s competition authority ends probes of Apple and Google but will use incoming powers to ‘resolve app store concerns’](https://techcrunch.com/2024/08/21/uks-competition-authority-ends-probes-of-apple-and-google-but-will-use-incoming-powers-to-resolve-app-store-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
