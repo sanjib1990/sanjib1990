@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save $120 on the Celestron SkyMaster 25x100 binoculars](https://www.space.com/celestron-skymaster-25x100-deal-save-120-dollars-august)
+- [Gimbal Space takes on legacy suppliers with fast-paced component supply chain](https://techcrunch.com/2024/08/22/gimbal-space-takes-on-legacy-suppliers-with-fast-paced-component-supply-chain/)
 - [Waymo wants to chauffeur your kids](https://techcrunch.com/2024/08/22/waymo-wants-to-chauffeur-your-kids/)
 - [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/)
 - [Founder of failed fintech Synapse says he’s raised $11M for new robotics startup](https://techcrunch.com/2024/08/22/founder-of-failed-fintech-synapse-says-hes-raised-11m-for-new-robotics-startup/)
-- [Cruise’s robotaxis are coming to the Uber app in 2025](https://techcrunch.com/2024/08/22/cruises-robotaxis-are-coming-to-the-uber-app-in-2025/)
-- [Will our galaxy really collide with Andromeda? Maybe not](https://www.space.com/andromeda-milky-way-collision-chances)
 <!-- BLOG-POST-LIST:END -->
 
 ---
