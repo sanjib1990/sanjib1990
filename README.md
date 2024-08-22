@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo wants to chauffeur your kids](https://techcrunch.com/2024/08/22/waymo-wants-to-chauffeur-your-kids/)
+- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/)
+- [Founder of failed fintech Synapse says he’s raised $11M for new robotics startup](https://techcrunch.com/2024/08/22/founder-of-failed-fintech-synapse-says-hes-raised-11m-for-new-robotics-startup/)
 - [Cruise’s robotaxis are coming to the Uber app in 2025](https://techcrunch.com/2024/08/22/cruises-robotaxis-are-coming-to-the-uber-app-in-2025/)
 - [Will our galaxy really collide with Andromeda? Maybe not](https://www.space.com/andromeda-milky-way-collision-chances)
-- [Boston Dynamics’ new electric Atlas can do push-ups](https://techcrunch.com/2024/08/22/boston-dynamics-new-electric-atlas-can-do-push-ups/)
-- [SpaceX stacks 2nd Starship launch tower in Texas &lpar;photos&rpar;](https://www.space.com/spacex-starbase-starship-second-launch-tower-photos)
-- [Save 20% on the Lego Star Wars Millennium Falcon](https://www.space.com/lego-millennium-falcon-deal-save-20-percent-august-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
