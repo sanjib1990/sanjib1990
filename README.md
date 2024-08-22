@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/)
+- [Gravitational waves hint at a &#39;supercool&#39; secret about the Big Bang](https://www.space.com/gravitational-waves-big-bang-theory)
 - [An 8,000-ton problem: How to combat space debris](https://www.space.com/space-debris-orbital-prime-guardians-space-force)
 - [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/)
 - [How NASA&#39;s Curiosity rover changed Mars landings forever &lpar;photos&rpar;](https://www.space.com/curiosity-rover-sky-crane-landing-mars-exploration)
-- [Opkey, an AI-based ERP testing platform, raises $47M](https://techcrunch.com/2024/08/22/opkey-an-ai-based-erp-testing-platform-raises-47m/)
-- [Kenyan HR and payroll startup Workpay lands Visa as investor in $5M round](https://techcrunch.com/2024/08/22/kenyan-hr-and-payroll-startup-workpay-lands-visa-as-investor-in-5m-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
