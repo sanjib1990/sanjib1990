@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [VC leading Bolt’s hoped-for $450M deal confirms he’s offering ‘marketing credits’](https://techcrunch.com/2024/08/21/vc-leading-bolts-hoped-for-450m-deal-confirms-hes-offering-marketing-credits/)
+- [Bolt’s Breslow faces uphill battle with proposed cramdown](https://techcrunch.com/2024/08/21/bolts-wild-ultimatum-to-its-vcs-will-only-succeed-if-they-agree-expert-says/)
 - [This new accessible Xbox nunchuk controller has 3D-printable joystick parts](https://techcrunch.com/2024/08/21/this-new-accessible-xbox-nunchuck-controller-has-3d-printable-joystick-parts/)
 - [SpaceX shows off Dragon capsules for Polaris Dawn, Crew-9 astronaut missions &lpar;photos&rpar;](https://www.space.com/spacex-polaris-dawn-crew-9-dragon-capsules-photos)
 - [Telecom that enabled Biden deepfake scam will pay FCC $1M](https://techcrunch.com/2024/08/21/telecom-that-enabled-biden-deepfake-scam-will-pay-fcc-1m/)
-- [OpenAI’s opposition to California’s AI bill ‘makes no sense,’ says state senator](https://techcrunch.com/2024/08/21/openais-opposition-to-californias-ai-law-makes-no-sense-says-state-senator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
