@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind workers sign letter in protest of Google’s defense contracts](https://techcrunch.com/2024/08/22/deepmind-workers-sign-letter-in-protest-of-googles-defense-contracts/)
+- [NASA to decide Saturday whether astronauts will ride Boeing’s Starliner home — or use SpaceX’s Dragon instead](https://techcrunch.com/2024/08/22/nasa-to-decide-saturday-whether-astronauts-will-ride-boeings-starliner-home-or-use-spacexs-dragon-instead/)
 - [Save $120 on the Celestron SkyMaster 25x100 binoculars](https://www.space.com/celestron-skymaster-25x100-deal-save-120-dollars-august)
 - [Gimbal Space takes on legacy suppliers with fast-paced component supply chain](https://techcrunch.com/2024/08/22/gimbal-space-takes-on-legacy-suppliers-with-fast-paced-component-supply-chain/)
 - [Waymo wants to chauffeur your kids](https://techcrunch.com/2024/08/22/waymo-wants-to-chauffeur-your-kids/)
-- [Synapse’s collapse has frozen nearly $160M from fintech users — here’s how it happened](https://techcrunch.com/2024/08/22/synapses-collapse-has-frozen-nearly-160m-from-fintech-users-heres-how-it-happened/)
-- [Founder of failed fintech Synapse says he’s raised $11M for new robotics startup](https://techcrunch.com/2024/08/22/founder-of-failed-fintech-synapse-says-hes-raised-11m-for-new-robotics-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
