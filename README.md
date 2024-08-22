@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tilt raises $18M Series A to build on its live-shopping app’s success](https://techcrunch.com/2024/08/22/tilt-raises-18m-series-a-to-build-on-its-live-shopping-apps-success/)
-- [Watch Leela and Amy tour a robot winery in new &#39;Futurama&#39; Season 12 clip &lpar;video&rpar;](https://www.space.com/futurama-season-12-clip-leela-amy-robot-winery)
-- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/)
-- [Former Expedia VP’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/)
-- [China autonomous vehicle startup WeRide delays US IPO](https://techcrunch.com/2024/08/22/china-autonomous-vehicle-startup-weride-delays-us-ipo/)
+- [Under DMA probe, Apple tweaks design of EU browser choice screens, expands app default settings](https://techcrunch.com/2024/08/22/under-dma-probe-apple-tweaks-design-of-eu-browser-choice-screens-expands-app-default-settings/)
+- [The moon was once covered by an ocean of molten rock, data from India&#39;s space mission suggests](https://www.space.com/moon-ocean-molten-rock-india-space-mission)
+- [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/)
+- [SpaceX delays launch of Polaris Dawn private spacewalk mission to Aug. 27](https://www.space.com/spacex-polaris-dawn-launch-delay-to-august-27)
+- [Threads explores ads, but says ‘no immediate timeline’ toward monetization](https://techcrunch.com/2024/08/22/threads-explores-ads-but-says-no-immediate-timeline-toward-monetization/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
