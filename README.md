@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How NASA&#39;s Curiosity rover changed Mars landings forever &lpar;photos&rpar;](https://www.space.com/curiosity-rover-sky-crane-landing-mars-exploration)
+- [Opkey, an AI-based ERP testing platform, raises $47M](https://techcrunch.com/2024/08/22/opkey-an-ai-based-erp-testing-platform-raises-47m/)
 - [Kenyan HR and payroll startup Workpay lands Visa as investor in $5M round](https://techcrunch.com/2024/08/22/kenyan-hr-and-payroll-startup-workpay-lands-visa-as-investor-in-5m-round/)
 - [VC leading Bolt’s hoped-for $450M deal confirms he’s offering ‘marketing credits’](https://techcrunch.com/2024/08/21/vc-leading-bolts-hoped-for-450m-deal-confirms-hes-offering-marketing-credits/)
 - [Bolt’s Breslow faces uphill battle with proposed cramdown](https://techcrunch.com/2024/08/21/bolts-wild-ultimatum-to-its-vcs-will-only-succeed-if-they-agree-expert-says/)
-- [This new accessible Xbox nunchuk controller has 3D-printable joystick parts](https://techcrunch.com/2024/08/21/this-new-accessible-xbox-nunchuck-controller-has-3d-printable-joystick-parts/)
-- [SpaceX shows off Dragon capsules for Polaris Dawn, Crew-9 astronaut missions &lpar;photos&rpar;](https://www.space.com/spacex-polaris-dawn-crew-9-dragon-capsules-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
