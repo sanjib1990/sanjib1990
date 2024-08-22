@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Under DMA probe, Apple tweaks design of EU browser choice screens, expands app default settings](https://techcrunch.com/2024/08/22/under-dma-probe-apple-tweaks-design-of-eu-browser-choice-screens-expands-app-default-settings/)
-- [The moon was once covered by an ocean of molten rock, data from India&#39;s space mission suggests](https://www.space.com/moon-ocean-molten-rock-india-space-mission)
-- [TechCrunch Minute: AI could help design and test F1 cars faster](https://techcrunch.com/video/techcrunch-minute-ai-could-help-design-and-test-f1-cars-faster/)
-- [SpaceX delays launch of Polaris Dawn private spacewalk mission to Aug. 27](https://www.space.com/spacex-polaris-dawn-launch-delay-to-august-27)
-- [Threads explores ads, but says ‘no immediate timeline’ toward monetization](https://techcrunch.com/2024/08/22/threads-explores-ads-but-says-no-immediate-timeline-toward-monetization/)
+- [Ford pivots on EVs, Waymo doubles its robotaxi ridership and Canoo leaves California](https://techcrunch.com/2024/08/22/ford-pivots-on-evs-waymo-doubles-its-robotaxi-ridership-and-canoo-leaves-california/)
+- [The sun hides its age with magnetic activity](https://www.space.com/sun-age-magnetic-activity)
+- [Ecovacs says it will fix bugs that can be abused to spy on robot owners](https://techcrunch.com/2024/08/22/ecovacs-says-it-will-fix-bugs-that-can-be-abused-to-spy-on-robot-owners/)
+- [Alphabet X’s latest spinout brings computer vision and AI to salmon farms](https://techcrunch.com/2024/08/22/alphabet-xs-latest-spinout-brings-computer-vision-and-ai-to-salmon-farms/)
+- [India’s open commerce network expands into digital lending](https://techcrunch.com/2024/08/22/indias-open-commerce-network-expands-into-digital-lending/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
