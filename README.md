@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cruise’s robotaxis are coming to the Uber app in 2025](https://techcrunch.com/2024/08/22/cruises-robotaxis-are-coming-to-the-uber-app-in-2025/)
+- [Will our galaxy really collide with Andromeda? Maybe not](https://www.space.com/andromeda-milky-way-collision-chances)
+- [Boston Dynamics’ new electric Atlas can do push-ups](https://techcrunch.com/2024/08/22/boston-dynamics-new-electric-atlas-can-do-push-ups/)
 - [SpaceX stacks 2nd Starship launch tower in Texas &lpar;photos&rpar;](https://www.space.com/spacex-starbase-starship-second-launch-tower-photos)
 - [Save 20% on the Lego Star Wars Millennium Falcon](https://www.space.com/lego-millennium-falcon-deal-save-20-percent-august-2024)
-- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/08/22/ai-sdr-startups-are-booming-so-why-are-vcs-wary/)
-- [Former Alphabet X spinout Mineral sells technology to John Deere](https://techcrunch.com/2024/08/22/former-alphabet-x-spinout-mineral-sells-technology-to-john-deere/)
-- [Relive the Myspace days by adding a favorite song to your Instagram profile](https://techcrunch.com/2024/08/22/relive-the-myspace-days-by-adding-a-favorite-song-to-your-instagram-profile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
