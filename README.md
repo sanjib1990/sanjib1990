@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Alphabet X spinout Mineral sells technology to John Deere](https://techcrunch.com/2024/08/22/former-alphabet-x-spinout-mineral-sells-technology-to-john-deere/)
+- [Relive the Myspace days by adding a favorite song to your Instagram profile](https://techcrunch.com/2024/08/22/relive-the-myspace-days-by-adding-a-favorite-song-to-your-instagram-profile/)
 - [Ford pivots on EVs, Waymo doubles its robotaxi ridership and Canoo leaves California](https://techcrunch.com/2024/08/22/ford-pivots-on-evs-waymo-doubles-its-robotaxi-ridership-and-canoo-leaves-california/)
 - [The sun hides its age with magnetic activity](https://www.space.com/sun-age-magnetic-activity)
 - [Ecovacs says it will fix bugs that can be abused to spy on robot owners](https://techcrunch.com/2024/08/22/ecovacs-says-it-will-fix-bugs-that-can-be-abused-to-spy-on-robot-owners/)
-- [Alphabet X’s latest spinout brings computer vision and AI to salmon farms](https://techcrunch.com/2024/08/22/alphabet-xs-latest-spinout-brings-computer-vision-and-ai-to-salmon-farms/)
-- [India’s open commerce network expands into digital lending](https://techcrunch.com/2024/08/22/indias-open-commerce-network-expands-into-digital-lending/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
