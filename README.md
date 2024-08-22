@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How SpaceX modified a Dragon crew capsule for Polaris Dawn&#39;s historic private spacewalk](https://www.space.com/spacex-crew-dragon-modified-polaris-dawn-spacewalk)
-- [&#39;Earth Defense Force 6&#39; unleashes retro alien invasion chaos](https://www.space.com/earth-defense-force-6-playstation-pc-alien-invasion-chaos)
-- [Meta lets you cross-post from Instagram and Facebook to Threads. Here’s how to do it.](https://techcrunch.com/2024/08/22/how-to-cross-post-from-instagram-and-facebook-to-threads/)
-- [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/)
-- [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/)
+- [Tilt raises $18M Series A to build on its live-shopping app’s success](https://techcrunch.com/2024/08/22/tilt-raises-18m-series-a-to-build-on-its-live-shopping-apps-success/)
+- [Watch Leela and Amy tour a robot winery in new &#39;Futurama&#39; Season 12 clip &lpar;video&rpar;](https://www.space.com/futurama-season-12-clip-leela-amy-robot-winery)
+- [Final 48 hours to secure your discounted tickets for TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/22/final-48-hours-to-secure-your-discounted-tickets-for-techcrunch-disrupt-2024/)
+- [Former Expedia VP’s startup uses AI to help smaller companies book travel](https://techcrunch.com/2024/08/22/ex-expedia-execs-startup-using-ai-to-solve-business-travel-gets-backing-from-madrona/)
+- [China autonomous vehicle startup WeRide delays US IPO](https://techcrunch.com/2024/08/22/china-autonomous-vehicle-startup-weride-delays-us-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
