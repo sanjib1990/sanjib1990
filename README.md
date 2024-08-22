@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How SpaceX modified a Dragon crew capsule for Polaris Dawn&#39;s historic private spacewalk](https://www.space.com/spacex-crew-dragon-modified-polaris-dawn-spacewalk)
 - [&#39;Earth Defense Force 6&#39; unleashes retro alien invasion chaos](https://www.space.com/earth-defense-force-6-playstation-pc-alien-invasion-chaos)
 - [Meta lets you cross-post from Instagram and Facebook to Threads. Here’s how to do it.](https://techcrunch.com/2024/08/22/how-to-cross-post-from-instagram-and-facebook-to-threads/)
 - [Harmonyze wants to build AI agents to help franchisors make sense of unstructured data](https://techcrunch.com/2024/08/22/harmonyze-built-ai-agents-that-sit-between-franchisors-and-their-franchisees/)
 - [Lux Capital made its first investment in Brazil, a $4M seed for AI fintech Magie](https://techcrunch.com/2024/08/22/lux-capital-made-its-first-investment-in-brazil-a-4m-seed-for-ai-fintech-magie/)
-- [Gravitational waves hint at a &#39;supercool&#39; secret about the Big Bang](https://www.space.com/gravitational-waves-big-bang-theory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
