@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX stacks 2nd Starship launch tower in Texas &lpar;photos&rpar;](https://www.space.com/spacex-starbase-starship-second-launch-tower-photos)
+- [Save 20% on the Lego Star Wars Millennium Falcon](https://www.space.com/lego-millennium-falcon-deal-save-20-percent-august-2024)
+- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/08/22/ai-sdr-startups-are-booming-so-why-are-vcs-wary/)
 - [Former Alphabet X spinout Mineral sells technology to John Deere](https://techcrunch.com/2024/08/22/former-alphabet-x-spinout-mineral-sells-technology-to-john-deere/)
 - [Relive the Myspace days by adding a favorite song to your Instagram profile](https://techcrunch.com/2024/08/22/relive-the-myspace-days-by-adding-a-favorite-song-to-your-instagram-profile/)
-- [Ford pivots on EVs, Waymo doubles its robotaxi ridership and Canoo leaves California](https://techcrunch.com/2024/08/22/ford-pivots-on-evs-waymo-doubles-its-robotaxi-ridership-and-canoo-leaves-california/)
-- [The sun hides its age with magnetic activity](https://www.space.com/sun-age-magnetic-activity)
-- [Ecovacs says it will fix bugs that can be abused to spy on robot owners](https://techcrunch.com/2024/08/22/ecovacs-says-it-will-fix-bugs-that-can-be-abused-to-spy-on-robot-owners/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
