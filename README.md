@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An 8,000-ton problem: How to combat space debris](https://www.space.com/space-debris-orbital-prime-guardians-space-force)
+- [Dropbox acquires Index Ventures-backed AI scheduling tool Reclaim.ai](https://techcrunch.com/2024/08/22/dropbox-acquires-index-ventures-backed-ai-scheduling-tool-reclaim-ai/)
 - [How NASA&#39;s Curiosity rover changed Mars landings forever &lpar;photos&rpar;](https://www.space.com/curiosity-rover-sky-crane-landing-mars-exploration)
 - [Opkey, an AI-based ERP testing platform, raises $47M](https://techcrunch.com/2024/08/22/opkey-an-ai-based-erp-testing-platform-raises-47m/)
 - [Kenyan HR and payroll startup Workpay lands Visa as investor in $5M round](https://techcrunch.com/2024/08/22/kenyan-hr-and-payroll-startup-workpay-lands-visa-as-investor-in-5m-round/)
-- [VC leading Bolt’s hoped-for $450M deal confirms he’s offering ‘marketing credits’](https://techcrunch.com/2024/08/21/vc-leading-bolts-hoped-for-450m-deal-confirms-hes-offering-marketing-credits/)
-- [Bolt’s Breslow faces uphill battle with proposed cramdown](https://techcrunch.com/2024/08/21/bolts-wild-ultimatum-to-its-vcs-will-only-succeed-if-they-agree-expert-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
