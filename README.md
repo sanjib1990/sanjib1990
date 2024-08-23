@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Justice Department sues RealPage over allegedly helping landlords collude to drive up rents](https://techcrunch.com/2024/08/23/justice-department-sues-realpage-over-allegedly-helping-landlords-collude-to-drive-up-rents/)
+- [Supermassive black holes have masses of more than a million suns – but their growth has slowed as the universe aged](https://www.space.com/supermassive-black-holes-growth-slows-aging-universe)
 - [Colorful Capital will stop trying to raise for a fund](https://techcrunch.com/2024/08/23/colorful-capital-will-stop-trying-to-raise-for-a-fund/)
 - [Japanese company to deorbit big hunk of space junk by 2029](https://www.space.com/astroscale-contract-adras-space-junk-removal)
 - [StarFOX autonomous satellite swarm could level up space exploration](https://www.space.com/star-fox-autonomous-satellite-swarm)
-- [Andrew Ng steps back at Landing AI after announcing new fund](https://techcrunch.com/2024/08/23/andrew-ng-steps-back-at-landing-ai-after-announcing-new-fund/)
-- [Piramidal’s foundation model for brainwaves could supercharge EEGs](https://techcrunch.com/2024/08/23/piramidals-foundation-model-for-brainwaves-could-supercharge-eegs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
