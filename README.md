@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Disappointed but not surprised’: Former employees speak on OpenAI’s opposition to SB 1047](https://techcrunch.com/2024/08/23/disappointed-but-not-surprised-former-employees-speak-on-openais-opposition-to-sb-1047/)
+- [The VC quietly nabbing prized SF property is planning a ‘Y Combinator for restaurants’](https://techcrunch.com/2024/08/23/the-vc-quietly-nabbing-prized-sf-property-is-planning-a-y-combinator-for-restaurants/)
 - [Justice Department sues RealPage over allegedly helping landlords collude to drive up rents](https://techcrunch.com/2024/08/23/justice-department-sues-realpage-over-allegedly-helping-landlords-collude-to-drive-up-rents/)
 - [Supermassive black holes have masses of more than a million suns – but their growth has slowed as the universe aged](https://www.space.com/supermassive-black-holes-growth-slows-aging-universe)
 - [Colorful Capital will stop trying to raise for a fund](https://techcrunch.com/2024/08/23/colorful-capital-will-stop-trying-to-raise-for-a-fund/)
-- [Japanese company to deorbit big hunk of space junk by 2029](https://www.space.com/astroscale-contract-adras-space-junk-removal)
-- [StarFOX autonomous satellite swarm could level up space exploration](https://www.space.com/star-fox-autonomous-satellite-swarm)
 <!-- BLOG-POST-LIST:END -->
 
 ---
