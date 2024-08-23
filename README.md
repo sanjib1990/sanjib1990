@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [360 One lifts its valuation of India’s National Stock Exchange to $29.9B](https://techcrunch.com/2024/08/23/360-one-lifts-its-valuation-of-indias-national-stock-exchange-to-29-9b/)
 - [Get in on the ground floor with Tesla’s humanoid by pretending to be one for pay](https://techcrunch.com/2024/08/22/get-in-on-the-ground-floor-with-teslas-humanoid-by-pretending-to-be-one-for-pay/)
 - [DeepMind workers sign letter in protest of Google’s defense contracts](https://techcrunch.com/2024/08/22/deepmind-workers-sign-letter-in-protest-of-googles-defense-contracts/)
 - [NASA to decide Saturday whether astronauts will ride Boeing’s Starliner home — or use SpaceX’s Dragon instead](https://techcrunch.com/2024/08/22/nasa-to-decide-saturday-whether-astronauts-will-ride-boeings-starliner-home-or-use-spacexs-dragon-instead/)
 - [Save $120 on the Celestron SkyMaster 25x100 binoculars](https://www.space.com/celestron-skymaster-25x100-deal-save-120-dollars-august)
-- [Gimbal Space takes on legacy suppliers with fast-paced component supply chain](https://techcrunch.com/2024/08/22/gimbal-space-takes-on-legacy-suppliers-with-fast-paced-component-supply-chain/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
