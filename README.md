@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [M&amp;A can open up the playing field for the competition](https://techcrunch.com/2024/08/23/ma-can-open-up-the-playing-field-for-the-competition/)
+- [Marc Andreessen’s family plans to build a ‘visionary’ subdivision near the proposed California Forever utopia city](https://techcrunch.com/2024/08/23/marc-andreessens-family-plans-to-build-a-visionary-subdivision-near-the-proposed-california-forever-utopia-city/)
+- [3 decades of satellite images show how cities keep getting higher](https://www.space.com/cities-expanding-up-satellite-data-imagery)
 - [Canoo’s chief technology officer is out amid wider reorg](https://techcrunch.com/2024/08/23/canoo-cto-sohel-merchant-is-out-amid-wider-reorg/)
 - [Halliburton shuts down systems after cyberattack](https://techcrunch.com/2024/08/23/halliburton-shuts-down-systems-after-cyberattack/)
-- [What is the &#39;Offspring&#39; creature in the &#39;Alien: Romulus&#39; finale?](https://www.space.com/alien-romulus-offspring-creature)
-- [200 meteorites on Earth traced to 5 craters on Mars](https://www.space.com/mars-meteorites-5-craters-tharsis-elysium)
-- [‘Disappointed but not surprised’: Former employees speak on OpenAI’s opposition to SB 1047](https://techcrunch.com/2024/08/23/disappointed-but-not-surprised-former-employees-speak-on-openais-opposition-to-sb-1047/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
