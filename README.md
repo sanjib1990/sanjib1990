@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How will the stuck Boeing Starliner astronauts perceive time after 6 months in space?](https://www.space.com/how-will-boeing-starliner-astronauts-perceive-time-after-6-months)
+- [After changing its license, Redis drops its biggest release yet](https://techcrunch.com/2024/08/23/after-changing-its-license-redis-drops-its-biggest-release-yet/)
 - [SpaceX launching private Polaris Dawn astronaut mission Aug. 27: How to watch online](https://www.space.com/spacex-private-polaris-dawn-launch-watch-live)
 - [Emax Tinyhawk III Plus Freestyle RTF drone kit review](https://www.space.com/emax-tinyhawk-iii-plus-freestyle-rtf-drone-kit-review)
 - [360 One lifts its valuation of India’s National Stock Exchange to $29.9B](https://techcrunch.com/2024/08/23/360-one-lifts-its-valuation-of-indias-national-stock-exchange-to-29-9b/)
-- [Get in on the ground floor with Tesla’s humanoid by pretending to be one for pay](https://techcrunch.com/2024/08/22/get-in-on-the-ground-floor-with-teslas-humanoid-by-pretending-to-be-one-for-pay/)
-- [DeepMind workers sign letter in protest of Google’s defense contracts](https://techcrunch.com/2024/08/22/deepmind-workers-sign-letter-in-protest-of-googles-defense-contracts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
