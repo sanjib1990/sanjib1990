@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get a sneak peek at upcoming &#39;Avatar Land&#39; in Disney&#39;s California Adventure Park](https://www.space.com/disneyland-california-adventure-avatar-land)
+- [Tingit is building a marketplace for ‘zero-effort’ repairs, starting with fashion](https://techcrunch.com/2024/08/23/tingit-is-building-a-marketplace-for-zero-effort-repairs-starting-with-fashion/)
 - [The Cassiopeia constellation is surrounded by celestial treasures. Here&#39;s how to see them](https://www.space.com/cassiopeia-queen-of-the-sky)
 - [How will the stuck Boeing Starliner astronauts perceive time after 6 months in space?](https://www.space.com/how-will-boeing-starliner-astronauts-perceive-time-after-6-months)
 - [After changing its license, Redis drops its biggest release yet](https://techcrunch.com/2024/08/23/after-changing-its-license-redis-drops-its-biggest-release-yet/)
-- [SpaceX launching private Polaris Dawn astronaut mission Aug. 27: How to watch online](https://www.space.com/spacex-private-polaris-dawn-launch-watch-live)
-- [Emax Tinyhawk III Plus Freestyle RTF drone kit review](https://www.space.com/emax-tinyhawk-iii-plus-freestyle-rtf-drone-kit-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
