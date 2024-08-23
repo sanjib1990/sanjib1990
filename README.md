@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [200 meteorites on Earth traced to 5 craters on Mars](https://www.space.com/mars-meteorites-5-craters-tharsis-elysium)
+- [‘Disappointed but not surprised’: former employees speak on OpenAI’s opposition to SB 1047](https://techcrunch.com/2024/08/23/disappointed-but-not-surprised-former-employees-speak-on-openais-opposition-to-sb-1047/)
+- [Peloton adds $95 activation fee for used equipment](https://techcrunch.com/2024/08/23/peloton-adds-95-activation-fee-for-used-equipment/)
 - [Last day for massive ticket savings to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/23/last-day-for-massive-ticket-savings-to-techcrunch-disrupt-2024/)
 - [Why the 7 worlds of TRAPPIST-1 waltz in peculiar patterns](https://www.space.com/trappist-1-history-orbital-resonance)
-- [Meta and Spotify CEOs criticize AI regulation in the EU](https://techcrunch.com/2024/08/23/meta-and-spotify-ceos-criticize-ai-regulation-in-the-eu/)
-- [NASA will give a Boeing Starliner update on Aug. 24 and you can watch live](https://www.space.com/nasa-boeing-starliner-astroanut-crew-return-update-webcast)
-- [Get a sneak peek at upcoming &#39;Avatar Land&#39; in Disney&#39;s California Adventure Park](https://www.space.com/disneyland-california-adventure-avatar-land)
 <!-- BLOG-POST-LIST:END -->
 
 ---
