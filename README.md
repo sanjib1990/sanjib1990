@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last day for massive ticket savings to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/23/last-day-for-massive-ticket-savings-to-techcrunch-disrupt-2024/)
+- [Why the 7 worlds of TRAPPIST-1 waltz in peculiar patterns](https://www.space.com/trappist-1-history-orbital-resonance)
+- [Meta and Spotify CEOs criticize AI regulation in the EU](https://techcrunch.com/2024/08/23/meta-and-spotify-ceos-criticize-ai-regulation-in-the-eu/)
+- [NASA will give a Boeing Starliner update on Aug. 24 and you can watch live](https://www.space.com/nasa-boeing-starliner-astroanut-crew-return-update-webcast)
 - [Get a sneak peek at upcoming &#39;Avatar Land&#39; in Disney&#39;s California Adventure Park](https://www.space.com/disneyland-california-adventure-avatar-land)
-- [Tingit is building a marketplace for ‘zero-effort’ repairs, starting with fashion](https://techcrunch.com/2024/08/23/tingit-is-building-a-marketplace-for-zero-effort-repairs-starting-with-fashion/)
-- [The Cassiopeia constellation is surrounded by celestial treasures. Here&#39;s how to see them](https://www.space.com/cassiopeia-queen-of-the-sky)
-- [How will the stuck Boeing Starliner astronauts perceive time after 6 months in space?](https://www.space.com/how-will-boeing-starliner-astronauts-perceive-time-after-6-months)
-- [After changing its license, Redis drops its biggest release yet](https://techcrunch.com/2024/08/23/after-changing-its-license-redis-drops-its-biggest-release-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
