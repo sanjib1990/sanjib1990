@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum data beamed alongside &#39;classical data&#39; in the same fiber-optic connection for the 1st time](https://www.space.com/quantum-data-beamed-with-classical-data-in-a-single-fiber-optic)
+- [The top AI deals in Europe this year](https://techcrunch.com/2024/08/24/the-top-ai-deals-in-europe-this-year/)
 - [SpaceX&#39;s private Polaris Dawn mission will set altitude record for female astronauts](https://www.space.com/polaris-dawn-female-astronaut-altitude-record)
 - [The founder building a wealth-management product her grandmother would have loved](https://techcrunch.com/2024/08/24/the-founder-building-a-wealth-management-product-her-grandmother-would-have-loved/)
 - [This Week In Space podcast: Episode 125 —Back to Space School 2024](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-125-back-to-school-2024)
-- [These 74 robotics companies are hiring](https://techcrunch.com/2024/08/24/these-74-robotics-companies-are-hiring/)
-- [TechCrunch Minute: Tech billionaires want to build a utopian city in California](https://techcrunch.com/video/techcrunch-minute-tech-billionaires-want-to-build-a-utopian-city-in-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
