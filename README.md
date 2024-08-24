@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The fallout after Bolt’s aggressive fundraising attempt has been wild](https://techcrunch.com/2024/08/24/the-fallout-after-bolts-aggressive-fundraising-attempt-has-been-wild/)
+- [Starliner will return to Earth uncrewed, astronauts staying on ISS until February](https://techcrunch.com/2024/08/24/starliner-will-return-to-earth-uncrewed-astronauts-staying-on-iss-until-february/)
 - [Do you know where your children are? Maybe on X](https://techcrunch.com/2024/08/24/do-you-know-where-your-children-are-maybe-on-x/)
 - [Google just made a $250M deal with California to support journalism — here’s what it means](https://techcrunch.com/2024/08/24/google-just-made-a-250m-deal-with-california-to-support-journalism-heres-what-it-means/)
 - [X shareholders as of June 2023 included funds tied to Bill Ackman, Binance, and Sean ‘Diddy’ Combs](https://techcrunch.com/2024/08/24/x-shareholders-as-of-june-2023-included-funds-tied-to-bill-ackman-binance-and-sean-diddy-combs/)
-- [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/)
-- [Quantum data beamed alongside &#39;classical data&#39; in the same fiber-optic connection for the 1st time](https://www.space.com/quantum-data-beamed-with-classical-data-in-a-single-fiber-optic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
