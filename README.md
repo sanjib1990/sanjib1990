@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stuck Boeing Starliner astronauts will return home on a SpaceX Dragon in 2025, NASA says](https://www.space.com/nasa-boeing-starliner-astronauts-will-return-on-spacex-dragon-2025)
+- [Boeing Starliner astronauts will return home on a SpaceX Dragon in 2025, NASA confirms](https://www.space.com/nasa-boeing-starliner-astronauts-will-return-on-spacex-dragon-2025)
 - [The fallout after Bolt’s aggressive fundraising attempt has been wild](https://techcrunch.com/2024/08/24/the-fallout-after-bolts-aggressive-fundraising-attempt-has-been-wild/)
 - [Starliner will return to Earth uncrewed, astronauts staying on ISS until February](https://techcrunch.com/2024/08/24/starliner-will-return-to-earth-uncrewed-astronauts-staying-on-iss-until-february/)
 - [Do you know where your children are? Maybe on X](https://techcrunch.com/2024/08/24/do-you-know-where-your-children-are-maybe-on-x/)
