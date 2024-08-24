@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you know where your children are? Maybe on X](https://techcrunch.com/2024/08/24/do-you-know-where-your-children-are-maybe-on-x/)
+- [Google just made a $250M deal with California to support journalism — here’s what it means](https://techcrunch.com/2024/08/24/google-just-made-a-250m-deal-with-california-to-support-journalism-heres-what-it-means/)
+- [X shareholders as of June 2023 included funds tied to Bill Ackman, Binance, and Sean ‘Diddy’ Combs](https://techcrunch.com/2024/08/24/x-shareholders-as-of-june-2023-included-funds-tied-to-bill-ackman-binance-and-sean-diddy-combs/)
 - [VCs are so eager for AI startups, they’re buying into each others’ SPVs at high prices](https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/)
 - [Quantum data beamed alongside &#39;classical data&#39; in the same fiber-optic connection for the 1st time](https://www.space.com/quantum-data-beamed-with-classical-data-in-a-single-fiber-optic)
-- [The top AI deals in Europe this year](https://techcrunch.com/2024/08/24/the-top-ai-deals-in-europe-this-year/)
-- [SpaceX&#39;s private Polaris Dawn mission will set altitude record for female astronauts](https://www.space.com/polaris-dawn-female-astronaut-altitude-record)
-- [The founder building a wealth-management product her grandmother would have loved](https://techcrunch.com/2024/08/24/the-founder-building-a-wealth-management-product-her-grandmother-would-have-loved/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
