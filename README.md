@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA challenged the public to make &#39;deep space food&#39; — here are the winners](https://www.space.com/nasa-deep-space-food-challenge-winners-2024)
+- [Stephen Wolfram thinks we need philosophers working on big questions around AI](https://techcrunch.com/2024/08/25/stephen-wolfram-thinks-we-need-philosophers-working-on-big-questions-around-ai/)
 - [The 12 biggest take-private PE acquisitions so far this year in tech](https://techcrunch.com/2024/08/25/the-12-biggest-private-equity-acquisitions-of-public-tech-firms-in-2024-so-far/)
 - [How SpaceX&#39;s historic Polaris Dawn private spacewalk will work](https://www.space.com/spacex-polaris-dawn-private-spacewalk-explainer)
 - [Where can I see the total solar eclipse on Aug. 12, 2026?](https://www.space.com/where-to-see-total-solar-eclipse-2026-maps)
-- [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/)
-- [Telegram founder Pavel Durov reportedly arrested in France](https://techcrunch.com/2024/08/24/telegram-founder-pavel-durov-reportedly-arrested-in-france/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
