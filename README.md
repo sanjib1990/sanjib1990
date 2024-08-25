@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/)
 - [Telegram founder Pavel Durov reportedly arrested in France](https://techcrunch.com/2024/08/24/telegram-founder-pavel-durov-reportedly-arrested-in-france/)
 - [Apple reportedly announcing iPhone 16 lineup and more on Sept. 10](https://techcrunch.com/2024/08/24/apple-reportedly-announcing-iphone-16-lineup-and-more-on-sept-10/)
 - [Boeing Starliner astronauts will return home on a SpaceX Dragon in 2025, NASA confirms](https://www.space.com/nasa-boeing-starliner-astronauts-will-return-on-spacex-dragon-2025)
 - [The fallout after Bolt’s aggressive fundraising attempt has been wild](https://techcrunch.com/2024/08/24/the-fallout-after-bolts-aggressive-fundraising-attempt-has-been-wild/)
-- [Starliner will return to Earth uncrewed, astronauts staying on ISS until February](https://techcrunch.com/2024/08/24/starliner-will-return-to-earth-uncrewed-astronauts-staying-on-iss-until-february/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
