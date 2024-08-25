@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/)
 - [Telegram founder Pavel Durov arrested in France](https://techcrunch.com/2024/08/25/telegram-founder-pavel-durov-reportedly-arrested-in-france/)
 - [The Port of Seattle and Sea-Tac Airport say they’ve been hit by ‘possible cyberattack’](https://techcrunch.com/2024/08/25/the-port-of-seattle-and-sea-tac-airport-say-theyve-been-hit-by-possible-cyberattack/)
 - [Physicists find superconductor behavior at temperatures once thought &#39;impossible&#39;](https://www.space.com/physicists-superconductor-behavior-impossible-temperatures)
 - [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/)
-- [NASA challenged the public to make &#39;deep space food&#39; — here are the winners](https://www.space.com/nasa-deep-space-food-challenge-winners-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
