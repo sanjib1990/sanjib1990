@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How SpaceX&#39;s historic Polaris Dawn private spacewalk will work](https://www.space.com/spacex-polaris-dawn-private-spacewalk-explainer)
+- [Where can I see the total solar eclipse on Aug. 12, 2026?](https://www.space.com/where-to-see-total-solar-eclipse-2026-maps)
 - [TPG nears $150M funding in India’s Eruditus at $2.3B valuation](https://techcrunch.com/2024/08/24/tpg-nears-150m-funding-in-indias-eruditus-at-2-3b-valuation/)
 - [Telegram founder Pavel Durov reportedly arrested in France](https://techcrunch.com/2024/08/24/telegram-founder-pavel-durov-reportedly-arrested-in-france/)
 - [Apple reportedly announcing iPhone 16 lineup and more on Sept. 10](https://techcrunch.com/2024/08/24/apple-reportedly-announcing-iphone-16-lineup-and-more-on-sept-10/)
-- [Boeing Starliner astronauts will return home on a SpaceX Dragon in 2025, NASA confirms](https://www.space.com/nasa-boeing-starliner-astronauts-will-return-on-spacex-dragon-2025)
-- [The fallout after Bolt’s aggressive fundraising attempt has been wild](https://techcrunch.com/2024/08/24/the-fallout-after-bolts-aggressive-fundraising-attempt-has-been-wild/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
