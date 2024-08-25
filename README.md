@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Physicists find superconductor behavior at temperatures once thought &#39;impossible&#39;](https://www.space.com/physicists-superconductor-behavior-impossible-temperatures)
+- [Travly lets travelers submit videos for a chance to earn a 5% commission from hotel bookings](https://techcrunch.com/2024/08/25/travly-social-discovery-booking-platform-travel-influencers/)
+- [Telegram founder Pavel Durov reportedly arrested in France](https://techcrunch.com/2024/08/25/telegram-founder-pavel-durov-reportedly-arrested-in-france/)
 - [NASA challenged the public to make &#39;deep space food&#39; — here are the winners](https://www.space.com/nasa-deep-space-food-challenge-winners-2024)
 - [Stephen Wolfram thinks we need philosophers working on big questions around AI](https://techcrunch.com/2024/08/25/stephen-wolfram-thinks-we-need-philosophers-working-on-big-questions-around-ai/)
-- [The 12 biggest take-private PE acquisitions so far this year in tech](https://techcrunch.com/2024/08/25/the-12-biggest-private-equity-acquisitions-of-public-tech-firms-in-2024-so-far/)
-- [How SpaceX&#39;s historic Polaris Dawn private spacewalk will work](https://www.space.com/spacex-polaris-dawn-private-spacewalk-explainer)
-- [Where can I see the total solar eclipse on Aug. 12, 2026?](https://www.space.com/where-to-see-total-solar-eclipse-2026-maps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
