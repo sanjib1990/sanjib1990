@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ancient grains of dust from space can be found on Earth − and provide clues about the life cycle of stars](https://www.space.com/ancient-grains-dust-space-earth-life-cycle-stars)
-- [Final week: ScaleUp your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/final-week-scaleup-your-startup-at-techcrunch-disrupt-2024/)
-- [Cancer survivor launches Oncology Ventures to improve care](https://techcrunch.com/2024/08/26/cancer-survivor-launches-oncology-ventures-to-improve-care/)
-- [Five months after Microsoft hired its founders, Inflection adds usage caps to Pi](https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/)
-- [SpaceX &#39;go&#39; to launch private Polaris Dawn spacewalk mission on farthest human spaceflight since Apollo](https://www.space.com/spacex-polaris-dawn-to-launch-farthest-human-spaceflight-since-apollo)
+- [Apple sets iPhone 16 event for September 9](https://techcrunch.com/2024/08/26/apple-sets-iphone-16-event-for-september-9/)
+- [The biggest trends young NYC investors are bullish on — and why](https://techcrunch.com/2024/08/26/the-biggest-trends-young-nyc-investors-are-bullish-on-and-why/)
+- [Get a sneak peek at the new video game anthology series &#39;Secret Level&#39; &lpar;trailer&rpar;](https://www.space.com/video-game-anthology-series-secret-level-trailer)
+- [Tidal launches royalty tracking features for artists](https://techcrunch.com/2024/08/26/tidal-launches-royalty-tracking-features-for-songwriters-as-it-aims-to-be-more-than-a-streaming-platform/)
+- [TechCrunch Minute: Boston Dynamics’ new Atlas robot shows off its push-up skills](https://techcrunch.com/video/techcrunch-minute-boston-dynamics-new-atlas-robot-shows-off-its-push-up-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
