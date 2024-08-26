@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/)
 - [&#39;Fireflies&#39; help NASA map radiation around Jupiter and its moons](https://www.space.com/fireflies-help-nasa-map-radation-around-jupiter-and-moons)
-- [How can we protect humans on Mars from radiation from solar storms?](https://www.space.com/mars-protect-astronauts-solar-storm-radiation)
+- [How can we protect humans on Mars from dangerous solar storm radiation?](https://www.space.com/mars-protect-astronauts-solar-storm-radiation)
 - [How to tell if your online accounts have been hacked](https://techcrunch.com/2024/08/26/how-to-tell-if-your-online-accounts-have-been-hacked/)
 - [Uber fined $324M over EU drivers’ data transfer breach](https://techcrunch.com/2024/08/26/uber-fined-324m-over-eu-driver-data-transfer-breach/)
-- [What time does SpaceX&#39;s Polaris Dawn private spacewalk mission launch?](https://www.space.com/spacex-polaris-dawn-private-spacewalk-launch-what-time)
 <!-- BLOG-POST-LIST:END -->
 
 ---
