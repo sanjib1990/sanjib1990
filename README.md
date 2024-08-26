@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Viggle makes controllable AI characters for memes and visualizing ideas](https://techcrunch.com/2024/08/26/viggle-makes-controllable-ai-characters-for-memes-and-visualizing-ideas/)
-- [&#39;Fireflies&#39; help NASA map radiation around Jupiter and its moons](https://www.space.com/fireflies-help-nasa-map-radation-around-jupiter-and-moons)
-- [How can we protect humans on Mars from dangerous solar storm radiation?](https://www.space.com/mars-protect-astronauts-solar-storm-radiation)
-- [How to tell if your online accounts have been hacked](https://techcrunch.com/2024/08/26/how-to-tell-if-your-online-accounts-have-been-hacked/)
-- [Uber fined $324M over EU drivers’ data transfer breach](https://techcrunch.com/2024/08/26/uber-fined-324m-over-eu-driver-data-transfer-breach/)
+- [Ancient grains of dust from space can be found on Earth − and provide clues about the life cycle of stars](https://www.space.com/ancient-grains-dust-space-earth-life-cycle-stars)
+- [Final week: ScaleUp your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/26/final-week-scaleup-your-startup-at-techcrunch-disrupt-2024/)
+- [Cancer survivor launches Oncology Ventures to improve care](https://techcrunch.com/2024/08/26/cancer-survivor-launches-oncology-ventures-to-improve-care/)
+- [Five months after Microsoft hired its founders, Inflection adds usage caps to Pi](https://techcrunch.com/2024/08/26/five-months-after-microsoft-hired-its-founders-inflection-adds-usage-caps-to-pi/)
+- [SpaceX &#39;go&#39; to launch private Polaris Dawn spacewalk mission on farthest human spaceflight since Apollo](https://www.space.com/spacex-polaris-dawn-to-launch-farthest-human-spaceflight-since-apollo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
