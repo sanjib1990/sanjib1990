@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Fireflies&#39; help NASA map radiation around Jupiter and its moons](https://www.space.com/fireflies-help-nasa-map-radation-around-jupiter-and-moons)
 - [How can we protect humans on Mars from radiation from solar storms?](https://www.space.com/mars-protect-astronauts-solar-storm-radiation)
 - [How to tell if your online accounts have been hacked](https://techcrunch.com/2024/08/26/how-to-tell-if-your-online-accounts-have-been-hacked/)
-- [Uber fined $324M over EU drivers data transfer breach](https://techcrunch.com/2024/08/26/uber-fined-324m-over-eu-driver-data-transfer-breach/)
+- [Uber fined $324M over EU drivers’ data transfer breach](https://techcrunch.com/2024/08/26/uber-fined-324m-over-eu-driver-data-transfer-breach/)
 - [What time does SpaceX&#39;s Polaris Dawn private spacewalk mission launch?](https://www.space.com/spacex-polaris-dawn-private-spacewalk-launch-what-time)
-- [Rare Milky Way star cluster is packed with red supergiants 1 million times brighter than the sun](https://www.space.com/milky-way-supermassive-stars-open-cluster)
 <!-- BLOG-POST-LIST:END -->
 
 ---
