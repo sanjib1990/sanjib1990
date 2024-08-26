@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time does SpaceX&#39;s Polaris Dawn private spacewalk mission launch?](https://www.space.com/spacex-polaris-dawn-private-spacewalk-launch-what-time)
+- [Rare Milky Way star cluster is packed with red supergiants 1 million times brighter than the sun](https://www.space.com/milky-way-supermassive-stars-open-cluster)
 - [Loft Orbital forms joint venture with UAE-based firm to scale satellite production in the Middle East](https://techcrunch.com/2024/08/25/loft-orbital-forms-joint-venture-with-uae-based-firm-to-scale-satellite-production-in-the-middle-east/)
 - [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/)
 - [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/)
-- [Telegram founder Pavel Durov arrested in France](https://techcrunch.com/2024/08/25/telegram-founder-pavel-durov-reportedly-arrested-in-france/)
-- [The Port of Seattle and Sea-Tac Airport say they’ve been hit by ‘possible cyberattack’](https://techcrunch.com/2024/08/25/the-port-of-seattle-and-sea-tac-airport-say-theyve-been-hit-by-possible-cyberattack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
