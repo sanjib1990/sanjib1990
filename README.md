@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Niantic aims to build a richer 3D map of the world with a new version of Scanniverse app](https://techcrunch.com/2024/08/26/niantic-aims-to-build-a-richer-3d-map-of-the-world-with-a-new-version-of-scanniverse-app/)
-- [Apple iPhone 16 event set for September 9 with ‘Glowtime’ invite](https://techcrunch.com/2024/08/26/apple-iphone-16-event-set-for-september-9-with-glowtime-event/)
-- [Beam Mobility secretly deployed ‘phantom’ e-scooters in Australia and NZ to dodge fees and boost profits](https://techcrunch.com/2024/08/26/beam-mobility-secretly-deployed-phantom-e-scooters-in-australia-and-nz-to-dodge-fees-and-boost-profits/)
-- [These  fintech companies are hiring, despite a rough market in 2024](https://techcrunch.com/2024/08/26/these-fintech-companies-are-hiring-despite-a-rough-market-in-2024/)
-- [The biggest trends young NYC investors are bullish on — and why](https://techcrunch.com/2024/08/26/the-biggest-trends-young-nyc-investors-are-bullish-on-and-why/)
+- [Care.com to pay customers $8.5M in FTC settlement for deceiving caregivers, families](https://techcrunch.com/2024/08/26/care-com-to-pay-customers-8-5m-in-ftc-settlement-for-deceiving-caregivers-families/)
+- [SpaceX fires up Falcon 9 rocket ahead of Polaris Dawn astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-polaris-dawn-static-fire-photos)
+- [Europe&#39;s JUICE probe snaps hi-res pics of Earth and the moon on its way to Jupiter &lpar;photos&rpar;](https://www.space.com/juice-high-resolution-images-earth-moon)
+- [Palico is now the first FINRA-approved company to facilitate online LP-led secondaries deals](https://techcrunch.com/2024/08/26/palico-is-now-the-first-finra-approved-company-to-facilitate-online-lp-led-secondaries-deals/)
+- [Niantic aims to build a richer 3D map of the world with a new version of Scaniverse app](https://techcrunch.com/2024/08/26/niantic-aims-to-build-a-richer-3d-map-of-the-world-with-a-new-version-of-scanniverse-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
