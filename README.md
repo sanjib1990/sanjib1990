@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Durov arrest boosts Telegram app downloads](https://techcrunch.com/2024/08/26/durov-arrest-boosts-telegram-app-downloads/)
+- [Mattel rolling out Matchbox toy of SpaceX&#39;s Tesla astronaut transport](https://www.space.com/spacex-crew-transport-vehicle-tesla-model-x-mattel-matchbox)
 - [Care.com to pay customers $8.5M in FTC settlement for deceiving caregivers, families](https://techcrunch.com/2024/08/26/care-com-to-pay-customers-8-5m-in-ftc-settlement-for-deceiving-caregivers-families/)
 - [SpaceX fires up Falcon 9 rocket ahead of Polaris Dawn astronaut launch &lpar;photos&rpar;](https://www.space.com/spacex-polaris-dawn-static-fire-photos)
 - [Europe&#39;s JUICE probe snaps hi-res pics of Earth and the moon on its way to Jupiter &lpar;photos&rpar;](https://www.space.com/juice-high-resolution-images-earth-moon)
-- [Palico is now the first FINRA-approved company to facilitate online LP-led secondaries deals](https://techcrunch.com/2024/08/26/palico-is-now-the-first-finra-approved-company-to-facilitate-online-lp-led-secondaries-deals/)
-- [Niantic aims to build a richer 3D map of the world with a new version of Scaniverse app](https://techcrunch.com/2024/08/26/niantic-aims-to-build-a-richer-3d-map-of-the-world-with-a-new-version-of-scanniverse-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
