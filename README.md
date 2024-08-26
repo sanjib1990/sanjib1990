@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [TechCrunch Space: The Starliner saga comes to a close — for now](https://techcrunch.com/2024/08/26/techcrunch-space-the-starliner-saga-comes-to-a-close-for-now/)
-- [Polaris Dawn will push the limits of SpaceX’s human spaceflight program – here’s how to watch it launch live](https://techcrunch.com/2024/08/26/polaris-dawn-will-push-the-limits-of-spacexs-human-spaceflight-program-heres-how-to-watch-it-launch-live/)
+- [Polaris Dawn will push the limits of SpaceX’s human spaceflight program — here’s how to watch it launch live](https://techcrunch.com/2024/08/26/polaris-dawn-will-push-the-limits-of-spacexs-human-spaceflight-program-heres-how-to-watch-it-launch-live/)
 - [OpenAI supports California bill requiring watermarks on AI content](https://techcrunch.com/2024/08/26/openai-supports-california-bill-requiring-watermarks-on-ai-content/)
 - [Apple will replace CFO Luca Maestri next year](https://techcrunch.com/2024/08/26/apple-will-replace-cfo-luca-maestri-next-year/)
 - [SpaceX Polaris Dawn astronauts will conduct high-flying research in Earth orbit](https://www.space.com/polaris-dawn-spacex-science-experiments)
