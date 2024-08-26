@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How can we protect humans on Mars from radiation from solar storms?](https://www.space.com/mars-protect-astronauts-solar-storm-radiation)
+- [How to tell if your online accounts have been hacked](https://techcrunch.com/2024/08/26/how-to-tell-if-your-online-accounts-have-been-hacked/)
+- [Uber fined $324M over EU drivers data transfer breach](https://techcrunch.com/2024/08/26/uber-fined-324m-over-eu-driver-data-transfer-breach/)
 - [What time does SpaceX&#39;s Polaris Dawn private spacewalk mission launch?](https://www.space.com/spacex-polaris-dawn-private-spacewalk-launch-what-time)
 - [Rare Milky Way star cluster is packed with red supergiants 1 million times brighter than the sun](https://www.space.com/milky-way-supermassive-stars-open-cluster)
-- [Loft Orbital forms joint venture with UAE-based firm to scale satellite production in the Middle East](https://techcrunch.com/2024/08/25/loft-orbital-forms-joint-venture-with-uae-based-firm-to-scale-satellite-production-in-the-middle-east/)
-- [In 2024, it really is better to run a startup in San Francisco, according to data and founders who’ve relocated](https://techcrunch.com/2024/08/25/in-2024-it-really-is-better-to-run-a-startup-in-san-francisco-according-to-data-and-founders-whove-relocated/)
-- [Y Combinator backs its first defense startup, Ares Industries](https://techcrunch.com/2024/08/25/y-combinator-backs-its-first-defense-startup-ares-industries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
