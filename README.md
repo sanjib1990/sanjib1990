@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Minute: Boeing’s Starliner spacecraft is returning home empty](https://techcrunch.com/video/techcrunch-minute-boeings-starliner-spacecraft-is-returning-home-empty/)
-- [Creators are angered by Meta’s Spark AR shutdown, saying they’ll be out of work with little notice](https://techcrunch.com/2024/08/27/creators-are-angered-by-metas-spark-ar-shutdown-saying-theyll-be-out-of-work-with-little-notice/)
-- [Waymo expands its curbside robotaxi service to Phoenix airport](https://techcrunch.com/2024/08/27/waymo-expands-its-curbside-robotaxi-service-to-phoenix-airport/)
-- [Is open source AI possible, let alone the future? Find out at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/27/is-open-source-ai-even-possible-let-alone-the-future-find-out-at-disrupt-2024/)
-- [How did Wesley Crusher turn into a time-traveling space god on &#39;Star Trek?&#39;](https://www.space.com/star-trek-wesley-crusher-time-travelling-space-god)
+- [The U.S. military’s latest psyop? Advertising on Tinder](https://techcrunch.com/2024/08/27/the-u-s-militarys-latest-psyop-advertising-on-tinder/)
+- [Just how much cash does Stripe have?](https://techcrunch.com/2024/08/27/just-how-much-cash-does-stripe-have/)
+- [The Local Bubble: How our solar system got caught up in a cosmic crime scene](https://www.space.com/what-is-local-bubble-solar-system)
+- [Challenger, Columbia shuttle disasters informed decision to send Starliner home uncrewed, NASA says](https://www.space.com/space-shuttle-challenger-columbia-disasters-nasa-starliner-decision)
+- [Lyft follows in Uber’s footsteps with a rider verification program](https://techcrunch.com/2024/08/27/lyft-rider-verification-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
