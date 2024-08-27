@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find surprising clue about Venus&#39; past in its atmosphere](https://www.space.com/venus-atmosphere-deuterium-water-ratio)
 - [&#39;Star Wars Outlaws&#39; enters our galaxy this week! Watch the new launch trailer &lpar;video&rpar;](https://www.space.com/star-wars-outlaws-launch-trailer)
 - [Meta and Instagram spotted developing a new social music-sharing feature](https://techcrunch.com/2024/08/27/meta-and-instagram-spotted-developing-a-new-social-music-sharing-feature/)
 - [NASA&#39;s DART asteroid crash really messed up its space rock target](https://www.space.com/dart-nasa-asteroid-crash-dimorphos-derailed)
 - [Salsa&#39;s last dance: This European satellite will fall from space soon in a spicy reentry](https://www.space.com/satellite-salsa-reentry-september-8)
-- [How Techstars, Meta helped profitable LatAm startup Mercately raise a $2.6M seed](https://techcrunch.com/2024/08/27/how-techstars-meta-helped-profitable-latam-startup-mercately-raise-a-2-6m-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
