@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Hubble Telescope photo captures peculiar ring-shaped galaxy](https://www.space.com/hubble-space-telescope-peculiar-ring-galaxy)
+- [Markforged adds metal printing to its industrial 3D printer](https://techcrunch.com/2024/08/27/markforged-adds-metal-printing-to-its-industrial-3d-printer-amid-economic-struggles/)
+- [Planera raises $13.5M to help solve the gnarly problem of scheduling for construction contractors](https://techcrunch.com/2024/08/27/planera-raises-13-5m-to-help-solve-the-gnarly-problem-of-scheduling-for-construction-contractors/)
 - [nOps lands $30M to optimize AWS customers’ cloud spend](https://techcrunch.com/2024/08/27/nops-lands-30m-to-optimize-aws-customers-cloud-spend/)
 - [Paris court explains why it’s arrested Telegram founder, Pavel Durov](https://techcrunch.com/2024/08/27/paris-court-explains-why-they-arrested-telegrams-pavel-durov/)
-- [India to launch Gaganyaan crew capsule test flight by end of 2024](https://www.space.com/india-gaganyaan-astronaut-capsule-test-flight-december-2024)
-- [Google’s AI overviews in Hindi need a quality upgrade](https://techcrunch.com/2024/08/27/googles-ai-overviews-in-hindi-need-a-quality-upgrade/)
-- [African B2B e-commerce startups Wasoko and MaxAB complete merger: Interview with co-CEO Daniel Yu](https://techcrunch.com/2024/08/27/wasoko-maxab-complete-merger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
