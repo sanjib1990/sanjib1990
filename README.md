@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese government hackers targeted U.S. internet providers with zero-day exploit, researchers say](https://techcrunch.com/2024/08/27/chinese-government-hackers-targeted-u-s-internet-providers-with-zero-day-exploit-researchers-say/)
+- [Whisper Aero is working with NASA to bring its ultra-quiet tech to outer space](https://techcrunch.com/2024/08/27/whisper-aero-is-working-with-nasa-to-bring-its-ultra-quiet-tech-to-outer-space/)
+- [X is testing a video conferencing tool](https://techcrunch.com/2024/08/27/x-is-testing-a-video-conferencing-tool/)
+- [Airtel teams with Apple for streaming deals in India, closes Wynk Music app](https://techcrunch.com/2024/08/27/indias-airtel-to-shut-down-music-streaming-app-wynk/)
 - [Food delivery is seeing more consolidation: GrubMarket snaps up FreshGoGo](https://techcrunch.com/2024/08/27/food-delivery-is-seeing-more-consolidation-grubmarket-snaps-up-freshgogo/)
-- [Supio brings generative AI to personal injury cases](https://techcrunch.com/2024/08/27/supio-brings-generative-ai-to-personal-injury-cases/)
-- [Mavely’s platform for everyday influencers is taking off](https://techcrunch.com/2024/08/27/mavely-influencer-social-commerce-platform-675m-gmv/)
-- [New Hubble Telescope photo captures peculiar ring-shaped galaxy](https://www.space.com/hubble-space-telescope-peculiar-ring-galaxy)
-- [Markforged adds metal printing to its industrial 3D printer](https://techcrunch.com/2024/08/27/markforged-adds-metal-printing-to-its-industrial-3d-printer-amid-economic-struggles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
