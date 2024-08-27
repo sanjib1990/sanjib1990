@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India to launch Gaganyaan crew capsule test flight by end of 2024](https://www.space.com/india-gaganyaan-astronaut-capsule-test-flight-december-2024)
 - [Google’s AI overviews in Hindi need a quality upgrade](https://techcrunch.com/2024/08/27/googles-ai-overviews-in-hindi-need-a-quality-upgrade/)
 - [African B2B e-commerce startups Wasoko and MaxAB complete merger: Interview with co-CEO Daniel Yu](https://techcrunch.com/2024/08/27/wasoko-maxab-complete-merger/)
 - [Calendar tool Clockwise adds new AI-powered interface called Prism](https://techcrunch.com/2024/08/27/calendar-tool-clockwise-launches-new-ai-powered-interface-called-prism/)
 - [Science-heavy Swiss VC firm Redalpine raises fresh $200M fund for early-stage investments](https://techcrunch.com/2024/08/26/science-heavy-swiss-vc-firm-redalpine-raises-fresh-200m-fund-for-early-stage-investments/)
-- [Wait, what? Pavel Durov says he has fathered more than 100 children](https://techcrunch.com/2024/08/26/wait-what-pavel-durov-says-he-has-fathered-more-than-100-children/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
