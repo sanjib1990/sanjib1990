@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Science-heavy Swiss VC firm Redalpine raises fresh $200M fund for early-stage investments](https://techcrunch.com/2024/08/26/science-heavy-swiss-vc-firm-redalpine-raises-fresh-200m-fund-for-early-stage-investments/)
+- [Wait, what? Pavel Durov says he has fathered more than 100 children](https://techcrunch.com/2024/08/26/wait-what-pavel-durov-says-he-has-fathered-more-than-100-children/)
 - [SpaceX delays Polaris Dawn astronaut launch to Aug. 28 due to helium leak](https://www.space.com/spacex-polaris-dawn-launch-delay-helium-leak)
 - [Elon Musk unexpectedly offers support for California’s AI bill](https://techcrunch.com/2024/08/26/elon-musk-unexpectedly-offers-support-for-californias-ai-bill/)
 - [OpenAI, Adobe and Microsoft support California bill requiring watermarks on AI content](https://techcrunch.com/2024/08/26/openai-adobe-microsoft-support-california-bill-requiring-watermarks-on-ai-content/)
-- [TechCrunch Space: The Starliner saga comes to a close — for now](https://techcrunch.com/2024/08/26/techcrunch-space-the-starliner-saga-comes-to-a-close-for-now/)
-- [Polaris Dawn will push the limits of SpaceX’s human spaceflight program — here’s how to watch it launch live](https://techcrunch.com/2024/08/26/polaris-dawn-will-push-the-limits-of-spacexs-human-spaceflight-program-heres-how-to-watch-it-launch-live/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
