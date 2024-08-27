@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s AI overviews in Hindi need a quality upgrade](https://techcrunch.com/2024/08/27/googles-ai-overviews-in-hindi-need-a-quality-upgrade/)
+- [African B2B e-commerce startups Wasoko and MaxAB complete merger: Interview with co-CEO Daniel Yu](https://techcrunch.com/2024/08/27/wasoko-maxab-complete-merger/)
 - [Calendar tool Clockwise adds new AI-powered interface called Prism](https://techcrunch.com/2024/08/27/calendar-tool-clockwise-launches-new-ai-powered-interface-called-prism/)
 - [Science-heavy Swiss VC firm Redalpine raises fresh $200M fund for early-stage investments](https://techcrunch.com/2024/08/26/science-heavy-swiss-vc-firm-redalpine-raises-fresh-200m-fund-for-early-stage-investments/)
 - [Wait, what? Pavel Durov says he has fathered more than 100 children](https://techcrunch.com/2024/08/26/wait-what-pavel-durov-says-he-has-fathered-more-than-100-children/)
-- [SpaceX delays Polaris Dawn astronaut launch to Aug. 28 due to helium leak](https://www.space.com/spacex-polaris-dawn-launch-delay-helium-leak)
-- [Elon Musk unexpectedly offers support for California’s AI bill](https://techcrunch.com/2024/08/26/elon-musk-unexpectedly-offers-support-for-californias-ai-bill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
