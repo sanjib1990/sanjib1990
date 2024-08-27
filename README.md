@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: Boeing’s Starliner spacecraft is returning home empty](https://techcrunch.com/video/techcrunch-minute-boeings-starliner-spacecraft-is-returning-home-empty/)
+- [Creators are angered by Meta’s Spark AR shutdown, saying they’ll be out of work with little notice](https://techcrunch.com/2024/08/27/creators-are-angered-by-metas-spark-ar-shutdown-saying-theyll-be-out-of-work-with-little-notice/)
+- [Waymo expands its curbside robotaxi service to Phoenix airport](https://techcrunch.com/2024/08/27/waymo-expands-its-curbside-robotaxi-service-to-phoenix-airport/)
+- [Is open source AI possible, let alone the future? Find out at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/27/is-open-source-ai-even-possible-let-alone-the-future-find-out-at-disrupt-2024/)
 - [How did Wesley Crusher turn into a time-traveling space god on &#39;Star Trek?&#39;](https://www.space.com/star-trek-wesley-crusher-time-travelling-space-god)
-- [Students and recent grads: Save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/27/students-and-recent-grads-save-on-techcrunch-disrupt-2024-tickets/)
-- [13 years later, Snapchat finally rolls out native support for iPads](https://techcrunch.com/2024/08/27/13-years-later-snapchat-finally-rolls-out-native-support-for-ipads/)
-- [&#39;Terminator Zero&#39; embraces the horror of time-traveling killer robots in new Netflix series](https://www.space.com/terminator-zero-netflix-series-embraces-killer-robot-horror)
-- [Chinese government hackers targeted U.S. internet providers with zero-day exploit, researchers say](https://techcrunch.com/2024/08/27/chinese-government-hackers-targeted-u-s-internet-providers-with-zero-day-exploit-researchers-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
