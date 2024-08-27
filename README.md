@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Food delivery is seeing more consolidation: GrubMarket snaps up FreshGoGo](https://techcrunch.com/2024/08/27/food-delivery-is-seeing-more-consolidation-grubmarket-snaps-up-freshgogo/)
+- [Supio brings generative AI to personal injury cases](https://techcrunch.com/2024/08/27/supio-brings-generative-ai-to-personal-injury-cases/)
+- [Mavely’s platform for everyday influencers is taking off](https://techcrunch.com/2024/08/27/mavely-influencer-social-commerce-platform-675m-gmv/)
 - [New Hubble Telescope photo captures peculiar ring-shaped galaxy](https://www.space.com/hubble-space-telescope-peculiar-ring-galaxy)
 - [Markforged adds metal printing to its industrial 3D printer](https://techcrunch.com/2024/08/27/markforged-adds-metal-printing-to-its-industrial-3d-printer-amid-economic-struggles/)
-- [Planera raises $13.5M to help solve the gnarly problem of scheduling for construction contractors](https://techcrunch.com/2024/08/27/planera-raises-13-5m-to-help-solve-the-gnarly-problem-of-scheduling-for-construction-contractors/)
-- [nOps lands $30M to optimize AWS customers’ cloud spend](https://techcrunch.com/2024/08/27/nops-lands-30m-to-optimize-aws-customers-cloud-spend/)
-- [Paris court explains why it’s arrested Telegram founder, Pavel Durov](https://techcrunch.com/2024/08/27/paris-court-explains-why-they-arrested-telegrams-pavel-durov/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
