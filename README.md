@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How did Wesley Crusher turn into a time-traveling space god on &#39;Star Trek?&#39;](https://www.space.com/star-trek-wesley-crusher-time-travelling-space-god)
+- [Students and recent grads: Save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/08/27/students-and-recent-grads-save-on-techcrunch-disrupt-2024-tickets/)
+- [13 years later, Snapchat finally rolls out native support for iPads](https://techcrunch.com/2024/08/27/13-years-later-snapchat-finally-rolls-out-native-support-for-ipads/)
+- [&#39;Terminator Zero&#39; embraces the horror of time-traveling killer robots in new Netflix series](https://www.space.com/terminator-zero-netflix-series-embraces-killer-robot-horror)
 - [Chinese government hackers targeted U.S. internet providers with zero-day exploit, researchers say](https://techcrunch.com/2024/08/27/chinese-government-hackers-targeted-u-s-internet-providers-with-zero-day-exploit-researchers-say/)
-- [Whisper Aero is working with NASA to bring its ultra-quiet tech to outer space](https://techcrunch.com/2024/08/27/whisper-aero-is-working-with-nasa-to-bring-its-ultra-quiet-tech-to-outer-space/)
-- [X is testing a video conferencing tool](https://techcrunch.com/2024/08/27/x-is-testing-a-video-conferencing-tool/)
-- [Airtel teams with Apple for streaming deals in India, closes Wynk Music app](https://techcrunch.com/2024/08/27/indias-airtel-to-shut-down-music-streaming-app-wynk/)
-- [Food delivery is seeing more consolidation: GrubMarket snaps up FreshGoGo](https://techcrunch.com/2024/08/27/food-delivery-is-seeing-more-consolidation-grubmarket-snaps-up-freshgogo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
