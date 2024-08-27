@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will HP still demand $4B from Mike Lynch’s estate?](https://techcrunch.com/2024/08/27/will-hp-still-demand-4b-from-mike-lynchs-estate/)
+- [James Webb Space Telescope finds 6 wandering &#39;rogue&#39; planets that formed just like stars](https://www.space.com/james-webb-space-telescope-rogue-planets-star-formation)
+- [Why AI can’t spell ‘strawberry’](https://techcrunch.com/2024/08/27/why-ai-cant-spell-strawberry/)
+- [The SEC just made life a little easier for smaller VCs](https://techcrunch.com/2024/08/27/the-sec-just-made-life-a-little-easier-for-smaller-vcs/)
 - [The U.S. military’s latest psyop? Advertising on Tinder](https://techcrunch.com/2024/08/27/the-u-s-militarys-latest-psyop-advertising-on-tinder/)
-- [Just how much cash does Stripe have?](https://techcrunch.com/2024/08/27/just-how-much-cash-does-stripe-have/)
-- [The Local Bubble: How our solar system got caught up in a cosmic crime scene](https://www.space.com/what-is-local-bubble-solar-system)
-- [Challenger, Columbia shuttle disasters informed decision to send Starliner home uncrewed, NASA says](https://www.space.com/space-shuttle-challenger-columbia-disasters-nasa-starliner-decision)
-- [Lyft follows in Uber’s footsteps with a rider verification program](https://techcrunch.com/2024/08/27/lyft-rider-verification-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
