@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salsa&#39;s last dance: This European satellite will fall from space soon in a spicy reentry](https://www.space.com/satellite-salsa-reentry-september-8)
+- [How Techstars, Meta helped profitable LatAm startup Mercately raise a $2.6M seed](https://techcrunch.com/2024/08/27/how-techstars-meta-helped-profitable-latam-startup-mercately-raise-a-2-6m-seed/)
+- [Why the 1st private lunar lander failed](https://www.space.com/peregrine-lunar-lander-failure-why)
 - [Will HP still demand $4B from Mike Lynch’s estate?](https://techcrunch.com/2024/08/27/will-hp-still-demand-4b-from-mike-lynchs-estate/)
 - [James Webb Space Telescope finds 6 wandering &#39;rogue&#39; planets that formed just like stars](https://www.space.com/james-webb-space-telescope-rogue-planets-star-formation)
-- [Why AI can’t spell ‘strawberry’](https://techcrunch.com/2024/08/27/why-ai-cant-spell-strawberry/)
-- [The SEC just made life a little easier for smaller VCs](https://techcrunch.com/2024/08/27/the-sec-just-made-life-a-little-easier-for-smaller-vcs/)
-- [The U.S. military’s latest psyop? Advertising on Tinder](https://techcrunch.com/2024/08/27/the-u-s-militarys-latest-psyop-advertising-on-tinder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
