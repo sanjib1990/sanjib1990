@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is Blue Origin&#39;s private NS-26 astronaut launch on Aug. 29 &lpar;and how to watch live&rpar;](https://www.space.com/blue-origin-private-astronaut-launch-ns-26-what-time-livestream)
+- [Auroral substorm sparks stunning northern lights visible at mid-latitudes &lpar;photos&rpar;](https://www.space.com/aurora-substorm-northern-lights-aug-2024)
+- [Pylon lands $17M investment to build a full service B2B customer service platform](https://techcrunch.com/2024/08/28/pylon-lands-17m-investment-to-build-a-full-service-b2b-customer-service-platform/)
+- [Polaris Dawn will push the limits of SpaceX’s human spaceflight program — here’s how to watch it launch live](https://techcrunch.com/2024/08/28/polaris-dawn-will-push-the-limits-of-spacexs-human-spaceflight-program-heres-how-to-watch-it-launch-live/)
 - [Astronomers discover new &#39;odd radio circle&#39; near the center of our galaxy](https://www.space.com/odd-radio-circles-meerkat-observatory-star-losing-layers)
-- [Plaud takes a crack at a simpler AI pin](https://techcrunch.com/2024/08/28/plaud-takes-a-crack-at-a-simpler-ai-pin/)
-- [Calm’s new Story-like mindfulness exercises offer an alternative to social media](https://techcrunch.com/2024/08/28/calms-new-story-like-mindfulness-exercises-offer-an-alternative-to-social-media/)
-- [Fast-growing neobank Comun has secured $21.5M in new funding just months after its last raise](https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/)
-- [Pryzm is a new kind of defense tech startup: one that helps others win lucrative contracts](https://techcrunch.com/2024/08/28/pryzm-is-a-new-kind-of-defense-tech-startup-one-that-helps-others-win-lucrative-contracts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
