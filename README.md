@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla’s Supercharging network is still unavailable to non-Tesla EVs](https://techcrunch.com/2024/08/28/teslas-supercharging-network-is-still-unavailable-to-non-tesla-evs/)
-- [Tumblr to move its half a billion blogs to WordPress](https://techcrunch.com/2024/08/28/tumblr-to-move-its-half-a-billion-blogs-to-wordpress/)
-- [Boom Supersonic&#39;s XB-1 prototype aces 2nd test flight &lpar;photos&rpar;](https://www.space.com/boom-supersonic-xb-1-second-test-flight-photos)
-- [Google says it’s fixed Gemini’s people-generating feature](https://techcrunch.com/2024/08/28/google-says-its-fixed-geminis-people-generating-feature/)
-- [TechCrunch Minute: The company behind Pokémon GO wants to build a 3D map of the world](https://techcrunch.com/video/techcrunch-minute-the-company-behind-pokemon-go-wants-to-build-a-3d-map-of-the-world/)
+- [This Week in AI: AI is rapidly being commoditized](https://techcrunch.com/2024/08/28/this-week-in-ai-ai-is-rapidly-being-commoditized/)
+- [SEC takes aim at NFT marketplace OpenSea](https://techcrunch.com/2024/08/28/sec-takes-aim-at-nft-marketplace-opensea/)
+- [Ex-Twitter CISO Lea Kissner appointed as LinkedIn security chief](https://techcrunch.com/2024/08/28/ex-twitter-ciso-lea-kissner-appointed-as-linkedin-security-chief/)
+- [SpaceX rocket catches fire, falls over while landing at sea after record-breaking Starlink launch &lpar;video&rpar;](https://www.space.com/spacex-falcon-9-rocket-23rd-launch-landing-failure)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/08/28/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
