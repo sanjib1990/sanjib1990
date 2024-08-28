@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Chinese astronauts conduct medical tests and grow plants in orbit &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-astronauts-video-august-2024)
 - [CoinSwitch sues WazirX to recover trapped funds](https://techcrunch.com/2024/08/28/coinswitch-sues-wazirx-to-recover-trapped-funds/)
 - [Astronaut John McFall explains how the Paralympic Games shaped his space career &lpar;exclusive&rpar;](https://www.space.com/esa-parastronaut-john-mcfall-paralympics-race)
 - [Brave lays off 27 employees](https://techcrunch.com/2024/08/28/brave-lays-off-27-employees/)
 - [Zepto, snagging $1 billion in 90 days, projects 150% annual growth](https://techcrunch.com/2024/08/27/zepto-snagging-1-billion-in-90-days-projects-150-annual-growth/)
-- [SpaceX delays Polaris Dawn astronaut launch until at least Aug. 30 due to bad weather](https://www.space.com/spacex-polaris-dawn-weather-delay-august-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
