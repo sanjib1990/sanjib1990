@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CoinSwitch sues WazirX to recover trapped funds](https://techcrunch.com/2024/08/28/coinswitch-sues-wazirx-to-recover-trapped-funds/)
 - [Astronaut John McFall explains how the Paralympic Games shaped his space career &lpar;exclusive&rpar;](https://www.space.com/esa-parastronaut-john-mcfall-paralympics-race)
 - [Brave lays off 27 employees](https://techcrunch.com/2024/08/28/brave-lays-off-27-employees/)
 - [Zepto, snagging $1 billion in 90 days, projects 150% annual growth](https://techcrunch.com/2024/08/27/zepto-snagging-1-billion-in-90-days-projects-150-annual-growth/)
 - [SpaceX delays Polaris Dawn astronaut launch until at least Aug. 30 due to bad weather](https://www.space.com/spacex-polaris-dawn-weather-delay-august-2024)
-- [India’s VerSe buys Valueleaf to boost digital marketing](https://techcrunch.com/2024/08/27/indias-verse-buys-valueleaf-to-boost-digital-marketing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
