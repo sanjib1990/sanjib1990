@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut John McFall carries Paralympic flag at opening ceremony Aug. 28](https://www.space.com/astronaut-john-mcfall-paralympic-flag-opening-ceremony)
+- [OpenAI reportedly in talks to close a new funding round at $100B+ valuation](https://techcrunch.com/2024/08/28/openai-reportedly-in-talks-to-close-new-funding-round-at-100b-valuation/)
 - [FAA requires investigation into SpaceX Falcon 9 landing failure](https://www.space.com/faa-investigation-spacex-rocket-landing-failure)
-- [It’s not just you: Reddit is down](https://techcrunch.com/2024/08/28/its-not-just-you-reddit-is-down/)
+- [Reddit back online after a software update took it down](https://techcrunch.com/2024/08/28/reddit-back-online-after-a-software-update-took-it-down/)
 - [OpenAI’s Converge 2 program has been shrouded in mystery](https://techcrunch.com/2024/08/28/openais-converge-2-program-has-been-shrouded-in-mystery/)
-- [Bluesky adds ‘anti-toxicity’ tools and aims to integrate ‘a Community Notes-like’ feature in the future](https://techcrunch.com/2024/08/28/bluesky-adds-anti-toxicity-tools-and-aims-to-integrate-a-community-notes-like-feature-in-the-future/)
-- [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
