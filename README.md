@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Alien: Romulus&#39; has the same problem as &#39;Prometheus&#39; and &#39;Alien: Covenant&#39; — and it&#39;s bad news for the franchise](https://www.space.com/alien-romulus-has-the-same-problem-as-prometheus-and-alien-covenant)
+- [VCs and founders talk finding &lpar;and keeping&rpar; product-market fit at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/28/vcs-and-founders-talk-finding-and-keeping-product-market-fit-at-techcrunch-disrupt-2024/)
+- [Born from San Francisco’s AI hackathons, Agency lets you see what your AI agents do](https://techcrunch.com/2024/08/28/san-franciscos-ai-hackathons-agency-lets-you-see-what-your-ai-agents-do/)
+- [Snapchat releases new teen safety resources for educators](https://techcrunch.com/2024/08/28/snapchat-releases-new-teen-safety-resources-for-educators/)
 - [What time is Blue Origin&#39;s private NS-26 astronaut launch on Aug. 29 &lpar;and how to watch live&rpar;](https://www.space.com/blue-origin-private-astronaut-launch-ns-26-what-time-livestream)
-- [Auroral substorm sparks stunning northern lights visible at mid-latitudes &lpar;photos&rpar;](https://www.space.com/aurora-substorm-northern-lights-aug-2024)
-- [Pylon lands $17M investment to build a full service B2B customer service platform](https://techcrunch.com/2024/08/28/pylon-lands-17m-investment-to-build-a-full-service-b2b-customer-service-platform/)
-- [Polaris Dawn will push the limits of SpaceX’s human spaceflight program — here’s how to watch it launch live](https://techcrunch.com/2024/08/28/polaris-dawn-will-push-the-limits-of-spacexs-human-spaceflight-program-heres-how-to-watch-it-launch-live/)
-- [Astronomers discover new &#39;odd radio circle&#39; near the center of our galaxy](https://www.space.com/odd-radio-circles-meerkat-observatory-star-losing-layers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
