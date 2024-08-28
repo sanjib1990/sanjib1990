@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s VerSe buys Valueleaf to boost digital marketing](https://techcrunch.com/2024/08/27/indias-verse-buys-valueleaf-to-boost-digital-marketing/)
 - [One busted valve led to the failure of Astrobotic’s $108M Peregrine lunar lander mission](https://techcrunch.com/2024/08/27/one-busted-valve-led-to-the-failure-of-astrobotics-108m-peregrine-lunar-lander-mission/)
 - [Scientists find surprising clue about Venus&#39; past in its atmosphere](https://www.space.com/venus-atmosphere-deuterium-water-ratio)
 - [&#39;Star Wars Outlaws&#39; enters our galaxy this week! Watch the new launch trailer &lpar;video&rpar;](https://www.space.com/star-wars-outlaws-launch-trailer)
 - [Meta and Instagram spotted developing a new social music-sharing feature](https://techcrunch.com/2024/08/27/meta-and-instagram-spotted-developing-a-new-social-music-sharing-feature/)
-- [NASA&#39;s DART asteroid crash really messed up its space rock target](https://www.space.com/dart-nasa-asteroid-crash-dimorphos-derailed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
