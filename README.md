@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Chinese astronauts conduct medical tests and grow plants in orbit &lpar;video&rpar;](https://www.space.com/china-tiangong-space-station-astronauts-video-august-2024)
-- [CoinSwitch sues WazirX to recover trapped funds](https://techcrunch.com/2024/08/28/coinswitch-sues-wazirx-to-recover-trapped-funds/)
-- [Astronaut John McFall explains how the Paralympic Games shaped his space career &lpar;exclusive&rpar;](https://www.space.com/esa-parastronaut-john-mcfall-paralympics-race)
-- [Brave lays off 27 employees](https://techcrunch.com/2024/08/28/brave-lays-off-27-employees/)
-- [Zepto, snagging $1 billion in 90 days, projects 150% annual growth](https://techcrunch.com/2024/08/27/zepto-snagging-1-billion-in-90-days-projects-150-annual-growth/)
+- [Astronomers discover new &#39;odd radio circle&#39; near the center of our galaxy](https://www.space.com/odd-radio-circles-meerkat-observatory-star-losing-layers)
+- [Plaud takes a crack at a simpler AI pin](https://techcrunch.com/2024/08/28/plaud-takes-a-crack-at-a-simpler-ai-pin/)
+- [Calm’s new Story-like mindfulness exercises offer an alternative to social media](https://techcrunch.com/2024/08/28/calms-new-story-like-mindfulness-exercises-offer-an-alternative-to-social-media/)
+- [Fast-growing neobank Comun has secured $21.5M in new funding just months after its last raise](https://techcrunch.com/2024/08/28/fast-growing-neobank-comun-raised-21-5m-just-months-after-its-last-raise/)
+- [Pryzm is a new kind of defense tech startup: one that helps others win lucrative contracts](https://techcrunch.com/2024/08/28/pryzm-is-a-new-kind-of-defense-tech-startup-one-that-helps-others-win-lucrative-contracts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
