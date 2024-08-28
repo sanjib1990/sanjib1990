@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluid Truck’s board ousted its sibling co-founders amid allegations of mismanaging funds](https://techcrunch.com/2024/08/28/fluid-trucks-board-ousted-its-sibling-co-founders-amid-allegations-of-mismanaging-funds/)
 - [Mock shuttle Pathfinder restored atop its stack at Alabama rocket center &lpar;photos&rpar;](https://www.space.com/space-shuttle-pathfinder-lift-restoration)
 - [Threads deepens its ties to the open social web, aka the ‘fediverse’](https://techcrunch.com/2024/08/28/threads-deepens-its-ties-to-the-open-social-web-aka-the-fediverse/)
 - [Japan declares its SLIM moon lander dead at last](https://www.space.com/jaxa-slim-moon-lander-dead)
 - [Polestar is getting a new CEO amid EV sales slump](https://techcrunch.com/2024/08/28/polestar-is-getting-a-new-ceo-amid-ev-sales-slump/)
-- [Midjourney says it’s ‘getting into hardware’](https://techcrunch.com/2024/08/28/midjourney-says-its-getting-into-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
