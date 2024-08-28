@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut John McFall explains how the Paralympic Games shaped his space career &lpar;exclusive&rpar;](https://www.space.com/esa-parastronaut-john-mcfall-paralympics-race)
+- [Brave lays off 27 employees](https://techcrunch.com/2024/08/28/brave-lays-off-27-employees/)
 - [Zepto, snagging $1 billion in 90 days, projects 150% annual growth](https://techcrunch.com/2024/08/27/zepto-snagging-1-billion-in-90-days-projects-150-annual-growth/)
 - [SpaceX delays Polaris Dawn astronaut launch until at least Aug. 30 due to bad weather](https://www.space.com/spacex-polaris-dawn-weather-delay-august-2024)
 - [India’s VerSe buys Valueleaf to boost digital marketing](https://techcrunch.com/2024/08/27/indias-verse-buys-valueleaf-to-boost-digital-marketing/)
-- [One busted valve led to the failure of Astrobotic’s $108M Peregrine lunar lander mission](https://techcrunch.com/2024/08/27/one-busted-valve-led-to-the-failure-of-astrobotics-108m-peregrine-lunar-lander-mission/)
-- [Scientists find surprising clue about Venus&#39; past in its atmosphere](https://www.space.com/venus-atmosphere-deuterium-water-ratio)
 <!-- BLOG-POST-LIST:END -->
 
 ---
