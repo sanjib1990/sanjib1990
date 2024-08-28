@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Paying for software is stupid… 10 free and open-source SaaS replacements](https://www.youtube.com/watch?v=e5dhaQm_J6U)
 - [What is DNS? &lpar;and how it makes the Internet work&rpar;](https://www.youtube.com/watch?v=NiQTs9DbtW4)
 - [Billionaire Pavel Durov arrested... The truth about Telegram](https://www.youtube.com/watch?v=39rBzRd4M0k)
 - [Nix in 100 Seconds](https://www.youtube.com/watch?v=FJVFXsNzYZQ)
 - [Wake up babe, a dangerous new open-source AI model is here](https://www.youtube.com/watch?v=QYVucud3ptc)
-- [Introduction to GIS, Part III: Projection](https://www.youtube.com/watch?v=qsjX1_DW81s)
 <!-- YOUTUBE:END -->
 
 ---
