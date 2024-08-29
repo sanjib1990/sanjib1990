@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Watch Blue Origin launch NS-26 space tourism mission today](https://www.space.com/blue-origin-ns-26-suborbital-space-tourism-launch)
 - [Durex India spilled customers’ private order data](https://techcrunch.com/2024/08/28/durex-india-spilled-customers-private-order-data/)
-- [Apple introduces AI-powered object removal in photos with the latest iOS update](https://techcrunch.com/2024/08/28/apple-introduces-ai-powered-object-removal-with-the-latest-ios-update/)
+- [Apple’s new iOS developer beta lets you remove objects from pictures using AI](https://techcrunch.com/2024/08/28/apple-introduces-ai-powered-object-removal-with-the-latest-ios-update/)
 - [NEA quietly reenters the secondaries market](https://techcrunch.com/2024/08/28/nea-quietly-reenters-the-secondaries-market/)
 - [One of Bolt’s proposed new backers, The London Fund, has been scrubbing its web page](https://techcrunch.com/2024/08/28/one-of-bolts-new-backers-the-london-fund-has-been-scrubbing-its-webpage/)
 <!-- BLOG-POST-LIST:END -->
