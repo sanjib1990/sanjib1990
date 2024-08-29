@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber cozies up to more AV companies, Canoo loses another founder and Waymo sees potential in teen riders](https://techcrunch.com/2024/08/29/uber-cozies-up-to-more-av-companies-canoo-loses-another-founder-and-waymo-sees-potential-in-teen-riders/)
+- [Apple Sports gets updated ahead of football season with Live Activities, play-by-play and more](https://techcrunch.com/2024/08/29/apple-sports-app-update-live-activities-nfl-ncaaf-college-football/)
+- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/)
+- [X caught blocking links to NPR, claiming the news site may be ‘unsafe’](https://techcrunch.com/2024/08/29/x-caught-blocking-links-to-npr-claiming-the-news-site-may-be-unsafe/)
 - [Apple event 2024: How to watch the iPhone 16 launch](https://techcrunch.com/2024/08/29/apple-event-2024-how-to-watch-the-iphone-16-launch/)
-- [SETI searches for alien life in over 1,000 galaxies using unexplored radio frequencies](https://www.space.com/seti-alien-signals-low-radio-frequencies)
-- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/)
-- [TechCrunch Minute: Here’s why AI has a hard time spelling ‘strawberry’](https://techcrunch.com/video/techcrunch-minute-heres-why-ai-has-a-hard-time-spelling-strawberry/)
-- [Flying through Sea-Tac’s hacked airport](https://techcrunch.com/2024/08/29/flying-through-sea-tacs-hacked-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
