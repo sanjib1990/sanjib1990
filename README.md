@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin&#39;s powerful New Glenn rocket to debut this October with NASA Mars launch](https://www.space.com/blue-origin-new-glenn-debut-launch-escapade-mars-october-2024)
+- [UK’s Wayve secures strategic investment from Uber to further develop self-driving tech](https://techcrunch.com/2024/08/29/uber-and-wayve/)
 - [France formally charges Telegram founder, Pavel Durov, over organized crime on messaging app](https://techcrunch.com/2024/08/29/france-formally-charges-telegram-founder-pavel-durov-over-organized-crime-on-app/)
 - [Space tourism: What are the pros and cons?](https://www.space.com/space-tourism-pros-cons)
-- [AI dominates India’s Reliance annual general meeting](https://techcrunch.com/2024/08/29/ai-dominates-india-reliance-annual-general-meeting/)
-- [Watch Blue Origin launch NS-26 space tourism mission today](https://www.space.com/blue-origin-ns-26-suborbital-space-tourism-launch)
-- [Durex India spilled customers’ private order data](https://techcrunch.com/2024/08/28/durex-india-spilled-customers-private-order-data/)
+- [AI dominates Reliance’s annual general meeting](https://techcrunch.com/2024/08/29/ai-dominates-india-reliance-annual-general-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
