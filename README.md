@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/)
+- [Sub.club aims to fund the fediverse via premium feeds](https://techcrunch.com/2024/08/29/sub-club-aims-to-fund-the-fediverse-via-premium-feeds/)
 - [New record: Blue Origin launches youngest woman beyond Kármán line](https://www.space.com/blue-origin-launches-youngest-woman-karman-line)
 - [Gmail users on Android can now chat with Gemini about their emails](https://techcrunch.com/2024/08/29/gmail-users-on-android-can-now-chat-with-gemini-about-their-emails/)
 - [Tesla keeps putting its digital history in the memory hole](https://techcrunch.com/2024/08/29/tesla-keeps-putting-its-digital-history-in-the-memory-hole/)
-- [Private astronauts of Polaris Dawn mission patiently await SpaceX launch amid multiple delays](https://www.space.com/polaris-dawn-crew-patient-delays)
-- [Netflix&#39;s &#39;Terminator Zero&#39; restores faith in an ailing sci-fi franchise &lpar;review&rpar;](https://www.space.com/netflix-terminator-zero-anime-series-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
