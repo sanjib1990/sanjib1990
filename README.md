@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix&#39;s &#39;Terminator Zero&#39; restores faith in an ailing sci-fi franchise &lpar;review&rpar;](https://www.space.com/netflix-terminator-zero-anime-series-review)
+- [Spotify points finger at Apple over an unwelcome change to volume control technology](https://techcrunch.com/2024/08/29/spotify-points-finger-at-apple-over-an-unwelcome-change-to-volume-control-technology/)
+- [Generative AI coding startup Magic lands $320M investment from Eric Schmidt, Atlassian and others](https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/)
 - [Uber cozies up to more AV companies, Canoo loses another founder and Waymo sees potential in teen riders](https://techcrunch.com/2024/08/29/uber-cozies-up-to-more-av-companies-canoo-loses-another-founder-and-waymo-sees-potential-in-teen-riders/)
 - [Apple Sports gets updated ahead of football season with Live Activities, play-by-play and more](https://techcrunch.com/2024/08/29/apple-sports-app-update-live-activities-nfl-ncaaf-college-football/)
-- [After winning a landmark case against real estate agents, this startup aims to replace them with a flat fee](https://techcrunch.com/2024/08/29/the-guy-who-sued-nar-over-real-estate-fees-has-co-founded-a-startup/)
-- [X caught blocking links to NPR, claiming the news site may be ‘unsafe’](https://techcrunch.com/2024/08/29/x-caught-blocking-links-to-npr-claiming-the-news-site-may-be-unsafe/)
-- [Apple event 2024: How to watch the iPhone 16 launch](https://techcrunch.com/2024/08/29/apple-event-2024-how-to-watch-the-iphone-16-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
