@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Archaeologists find huge, 2,500-year-old Egyptian astronomy observatory](https://www.space.com/ancient-egyptian-observatory-tracked-sun-stars)
-- [Two Oxford PhDs are building an app to let you remix photos into memes](https://techcrunch.com/2024/08/29/two-oxford-phds-are-building-an-app-to-let-you-remix-photos-into-memes/)
-- [Meta now allows preteens to explore Horizon Worlds with parent’s permission](https://techcrunch.com/2024/08/29/meta-now-allows-preteens-to-explore-horizon-worlds/)
-- [IBM Cloud to offer Intel’s Gaudi 3 AI chips next year](https://techcrunch.com/2024/08/29/ibm-cloud-will-offer-intel-gaudi-3-chips-next-year/)
-- [Satellite watches as hazardous wildfire particles drift into the air](https://www.space.com/wildfire-particles-earthcare-satellite)
+- [Apple event 2024: How to watch the iPhone 16 launch](https://techcrunch.com/2024/08/29/apple-event-2024-how-to-watch-the-iphone-16-launch/)
+- [SETI searches for alien life in over 1,000 galaxies using unexplored radio frequencies](https://www.space.com/seti-alien-signals-low-radio-frequencies)
+- [GitHub Copilot competitor Codeium raises $150M at a $1.25B valuation](https://techcrunch.com/2024/08/29/github-copilot-competitor-codeium-raises-150m-at-a-1-25b-valuation/)
+- [TechCrunch Minute: Here’s why AI has a hard time spelling ‘strawberry’](https://techcrunch.com/video/techcrunch-minute-heres-why-ai-has-a-hard-time-spelling-strawberry/)
+- [Flying through Sea-Tac’s hacked airport](https://techcrunch.com/2024/08/29/flying-through-sea-tacs-hacked-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
