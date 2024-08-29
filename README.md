@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [France formally charges Telegram founder, Pavel Durov, over organized crime on messaging app](https://techcrunch.com/2024/08/29/france-formally-charges-telegram-founder-pavel-durov-over-organized-crime-on-app/)
+- [Space tourism: What are the pros and cons?](https://www.space.com/space-tourism-pros-cons)
+- [AI dominates India’s Reliance annual general meeting](https://techcrunch.com/2024/08/29/ai-dominates-india-reliance-annual-general-meeting/)
 - [Watch Blue Origin launch NS-26 space tourism mission today](https://www.space.com/blue-origin-ns-26-suborbital-space-tourism-launch)
 - [Durex India spilled customers’ private order data](https://techcrunch.com/2024/08/28/durex-india-spilled-customers-private-order-data/)
-- [Apple’s new iOS developer beta lets you remove objects from pictures using AI](https://techcrunch.com/2024/08/28/apple-introduces-ai-powered-object-removal-with-the-latest-ios-update/)
-- [NEA quietly reenters the secondaries market](https://techcrunch.com/2024/08/28/nea-quietly-reenters-the-secondaries-market/)
-- [One of Bolt’s proposed new backers, The London Fund, has been scrubbing its web page](https://techcrunch.com/2024/08/28/one-of-bolts-new-backers-the-london-fund-has-been-scrubbing-its-webpage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
