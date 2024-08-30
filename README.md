@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber drives deeper into South Korea to take on Kakao Mobility](https://techcrunch.com/2024/08/30/uber-drives-deeper-into-south-korea-to-take-on-kakao-mobility/)
+- [&#39;Doomed&#39; comet Tsuchinshan-ATLAS survives brush with sun — may be visible to naked eye this fall](https://www.space.com/comet-tsuchinshan-atlas)
+- [TikTok’s new ‘Manage Topics’ tool gives you more control over your For You feed, here’s how to use it](https://techcrunch.com/2024/08/30/tiktoks-new-manage-topics-tool-gives-you-more-control-over-your-for-you-feed-heres-how-to-use-it/)
 - [Early galaxies weren&#39;t mystifyingly massive after all, James Webb Space Telescope finds](https://www.space.com/black-holes-early-universe-massive-galaxies-james-webb)
 - [How AI is revealing the universe&#39;s original &#39;settings&#39;](https://www.space.com/artificial-intelligence-universe-settings-cosmological-parameters)
-- [Aurora season is here: What to expect from the northern lights in 2024/25](https://www.space.com/aurora-season-what-to-expect-northern-lights-2024-and-2025)
-- [Google is working on AI that can hear signs of sickness](https://techcrunch.com/2024/08/29/google-is-working-on-ai-that-can-hear-signs-of-sickness/)
-- [Apple and Nvidia could be OpenAI’s next big investors](https://techcrunch.com/2024/08/29/apple-and-nvidia-could-be-openais-next-big-investors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
