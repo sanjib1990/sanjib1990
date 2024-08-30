@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Early galaxies weren&#39;t mystifyingly massive after all, James Webb Space Telescope finds](https://www.space.com/black-holes-early-universe-massive-galaxies-james-webb)
 - [How AI is revealing the universe&#39;s original &#39;settings&#39;](https://www.space.com/artificial-intelligence-universe-settings-cosmological-parameters)
 - [Aurora season is here: What to expect from the northern lights in 2024/25](https://www.space.com/aurora-season-what-to-expect-northern-lights-2024-and-2025)
 - [Google is working on AI that can hear signs of sickness](https://techcrunch.com/2024/08/29/google-is-working-on-ai-that-can-hear-signs-of-sickness/)
 - [Apple and Nvidia could be OpenAI’s next big investors](https://techcrunch.com/2024/08/29/apple-and-nvidia-could-be-openais-next-big-investors/)
-- [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
