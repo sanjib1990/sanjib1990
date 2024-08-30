@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former U.S. Navy Seal Jonny Kim will be 1st Korean-American astronaut on ISS in March 2025](https://www.space.com/nasa-astronaut-jonny-kim-iss-korean-american)
-- [What were the Bell Riots in &#39;Star Trek: Deep Space Nine&#39;s greatest time travel episode?](https://www.space.com/star-trek-deep-space-nine-bell-riots)
-- [Carta’s ill-fated secondaries business finally found a buyer](https://techcrunch.com/2024/08/30/cartas-ill-fated-secondaries-business-finally-found-a-buyer/)
-- [The best 50s sci-fi movies](https://www.space.com/best-50s-sci-fi-movies)
-- [NASA gives Intuitive Machines $117 million for 2027 mission to moon&#39;s south pole](https://www.space.com/nasa-intuitive-machines-moon-mission-2027)
+- [&#39;Deadpool &amp; Wolverine&#39; has a sneaky Canadarm robot arm cameo at the end of time — but blink and you&#39;ll miss it](https://www.space.com/deadpool-and-wolverine-canadarm-space-robot)
+- [Top court orders ban on Elon Musk’s X in Brazil](https://techcrunch.com/2024/08/30/top-court-orders-ban-on-elon-musks-x-in-brazil/)
+- [Investors are already valuing OpenAI at over $100B on the secondaries market](https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/)
+- [&#39;Slingshot&#39; is a surreal sci-fi head trip that questions its own reality &lpar;review&rpar;](https://www.space.com/slingshot-titan-space-movie-review)
+- [California AI bill SB 1047 aims to prevent AI disasters, but Silicon Valley warns it will cause one](https://techcrunch.com/2024/08/30/california-ai-bill-sb-1047-aims-to-prevent-ai-disasters-but-silicon-valley-warns-it-will-cause-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
