@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best 50s sci-fi movies](https://www.space.com/best-50s-sci-fi-movies)
+- [NASA gives Intuitive Machines $117 million for 2027 mission to moon&#39;s south pole](https://www.space.com/nasa-intuitive-machines-moon-mission-2027)
+- [Redfin is already trying to defend against a new flat-fee real estate startup](https://techcrunch.com/2024/08/30/redfin-is-already-trying-to-defend-against-a-new-flat-fee-real-estate-startup/)
 - [NASA&#39;s Perseverance rover begins ambitious ascent up a Mars crater rim](https://www.space.com/nasa-perseverance-mars-crater-rim)
 - [Apple stands by decision to terminate account belonging to WWDC student winner](https://techcrunch.com/2024/08/30/apple-stands-by-decision-to-terminate-account-belonging-to-wwdc-student-winner/)
-- [Airbnb and fashion app By Rotation partner for free destination wedding outfits](https://techcrunch.com/2024/08/30/airbnb-and-fashion-app-by-rotation-partner-for-free-destination-wedding-outfits/)
-- [The org behind the data set used to train Stable Diffusion claims it has removed CSAM](https://techcrunch.com/2024/08/30/the-org-behind-the-data-set-used-to-train-stable-diffusion-claims-it-has-removed-csam/)
-- [North Korean hackers exploited Chrome zero-day to steal crypto](https://techcrunch.com/2024/08/30/north-korean-hackers-exploited-chrome-zero-day-to-steal-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
