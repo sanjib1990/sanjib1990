@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fundraising is a lot easier when you have traction](https://techcrunch.com/2024/08/30/fundraising-is-a-lot-easier-when-you-have-traction/)
+- [NASA cuts 2 astronauts from SpaceX Crew-9 mission to make room for Boeing Starliner crew](https://www.space.com/spacex-crew-9-astronauts-cuts-boeing-starliner-return)
+- [Google rolls out safeguards for more of its AI products ahead of the US presidential election](https://techcrunch.com/2024/08/30/google-rolls-out-safeguards-for-more-of-its-ai-products-ahead-of-the-us-presidential-election/)
 - [Hello Wonder is building an AI-powered browser for kids](https://techcrunch.com/2024/08/30/hello-wonder-is-building-an-ai-powered-browser-for-kids/)
 - [Boeing Starliner astronauts will spend at least 240 days stuck in space — is that a new record?](https://www.space.com/boeing-starliner-astronauts-will-spend-at-least-240-days-stuck-in-space-is-that-a-new-record)
-- [TechCrunch Minute: Plaud’s NotePin is a wearable, AI-powered notetaker](https://techcrunch.com/video/techcrunch-minute-plauds-notepin-is-a-wearable-ai-powered-notetaker/)
-- [Former Riot Games employees leverage generative AI to power NPCs in new video game](https://techcrunch.com/2024/08/30/jam-and-tea-gaming-studio-leveraging-generative-ai-to-power-npcs/)
-- [Elle Family Office and Keebeck Wealth Management are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/elle-family-office-and-keebeck-wealth-management-are-coming-to-techcrunch-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
