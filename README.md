@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Be a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/be-a-volunteer-at-techcrunch-disrupt-2024/)
+- [Last Day: Exhibit your startup with big savings at TechCrunch Disrupt 2024](https://techcrunch.com/2024/08/30/last-day-exhibit-your-startup-with-big-savings-at-techcrunch-disrupt-2024/)
+- [Dailyhunt parent VerSe’s valuation gets slashed 42% to $2.9B: investor note](https://techcrunch.com/2024/08/30/dailyhunt-parent-verses-valuation-gets-slashed-42-to-2-9b-investor-note/)
 - [Uber drives deeper into South Korea to take on Kakao Mobility](https://techcrunch.com/2024/08/30/uber-drives-deeper-into-south-korea-to-take-on-kakao-mobility/)
 - [&#39;Doomed&#39; comet Tsuchinshan-ATLAS survives brush with sun — may be visible to naked eye this fall](https://www.space.com/comet-tsuchinshan-atlas)
-- [TikTok’s new ‘Manage Topics’ tool gives you more control over your For You feed, here’s how to use it](https://techcrunch.com/2024/08/30/tiktoks-new-manage-topics-tool-gives-you-more-control-over-your-for-you-feed-heres-how-to-use-it/)
-- [Early galaxies weren&#39;t mystifyingly massive after all, James Webb Space Telescope finds](https://www.space.com/black-holes-early-universe-massive-galaxies-james-webb)
-- [How AI is revealing the universe&#39;s original &#39;settings&#39;](https://www.space.com/artificial-intelligence-universe-settings-cosmological-parameters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
