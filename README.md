@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundraising is a lot easier when you have traction](https://techcrunch.com/2024/08/30/fundraising-is-a-lot-easier-when-you-have-traction/)
-- [NASA cuts 2 astronauts from SpaceX Crew-9 mission to make room for Boeing Starliner crew](https://www.space.com/spacex-crew-9-astronauts-cuts-boeing-starliner-return)
-- [Google rolls out safeguards for more of its AI products ahead of the US presidential election](https://techcrunch.com/2024/08/30/google-rolls-out-safeguards-for-more-of-its-ai-products-ahead-of-the-us-presidential-election/)
-- [Hello Wonder is building an AI-powered browser for kids](https://techcrunch.com/2024/08/30/hello-wonder-is-building-an-ai-powered-browser-for-kids/)
-- [Boeing Starliner astronauts will spend at least 240 days stuck in space — is that a new record?](https://www.space.com/boeing-starliner-astronauts-will-spend-at-least-240-days-stuck-in-space-is-that-a-new-record)
+- [NASA&#39;s Perseverance rover begins ambitious ascent up a Mars crater rim](https://www.space.com/nasa-perseverance-mars-crater-rim)
+- [Apple stands by decision to terminate account belonging to WWDC student winner](https://techcrunch.com/2024/08/30/apple-stands-by-decision-to-terminate-account-belonging-to-wwdc-student-winner/)
+- [Airbnb and fashion app By Rotation partner for free destination wedding outfits](https://techcrunch.com/2024/08/30/airbnb-and-fashion-app-by-rotation-partner-for-free-destination-wedding-outfits/)
+- [The org behind the data set used to train Stable Diffusion claims it has removed CSAM](https://techcrunch.com/2024/08/30/the-org-behind-the-data-set-used-to-train-stable-diffusion-claims-it-has-removed-csam/)
+- [North Korean hackers exploited Chrome zero-day to steal crypto](https://techcrunch.com/2024/08/30/north-korean-hackers-exploited-chrome-zero-day-to-steal-crypto/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
