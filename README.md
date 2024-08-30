@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora season is here: What to expect from the northern lights in 2024/25](https://www.space.com/aurora-season-what-to-expect-northern-lights-2024-and-2025)
 - [Google is working on AI that can hear signs of sickness](https://techcrunch.com/2024/08/29/google-is-working-on-ai-that-can-hear-signs-of-sickness/)
 - [Apple and Nvidia could be OpenAI’s next big investors](https://techcrunch.com/2024/08/29/apple-and-nvidia-could-be-openais-next-big-investors/)
 - [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/)
 - [Boeing&#39;s 1st crewed Starliner to return to Earth without astronauts on Sept. 6](https://www.space.com/boeing-starliner-return-earth-september-6)
-- [Intuitive Machines wins $116.9M contract for a moon mission in 2027](https://techcrunch.com/2024/08/29/intuitive-machines-wins-116-9m-contract-for-a-moon-mission-in-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
