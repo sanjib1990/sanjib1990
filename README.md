@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Nvidia could be OpenAI’s next big investors](https://techcrunch.com/2024/08/29/apple-and-nvidia-could-be-openais-next-big-investors/)
 - [India’s Agrim snags $17.3M to help farmers get inputs like seeds and pesticides more easily](https://techcrunch.com/2024/08/29/indias-agrim-snags-17-3m-to-help-farmers-get-inputs-like-seeds-and-pesticides-more-easily/)
 - [Boeing&#39;s 1st crewed Starliner to return to Earth without astronauts on Sept. 6](https://www.space.com/boeing-starliner-return-earth-september-6)
 - [Intuitive Machines wins $116.9M contract for a moon mission in 2027](https://techcrunch.com/2024/08/29/intuitive-machines-wins-116-9m-contract-for-a-moon-mission-in-2027/)
 - [South Korean tech giant Naver launches crypto wallet in partnership with Chiliz](https://techcrunch.com/2024/08/29/south-korean-tech-giant-naver-launches-crypto-wallet-in-partnership-with-chiliz/)
-- [Atlassian acquires Rewatch as it gets into AI meeting bots](https://techcrunch.com/2024/08/29/atlassian-acquires-rewatch-as-it-gets-into-ai-meeting-bots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
