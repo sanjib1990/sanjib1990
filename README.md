@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon hires the founders of AI robotics startup Covariant](https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/)
+- [Grammy CEO says music industry also has AI concerns](https://techcrunch.com/2024/08/31/grammy-ceo-says-music-industry-also-has-ai-concerns/)
 - [Before Midjourney, there was NightCafe — and it’s still kicking](https://techcrunch.com/2024/08/31/before-midjourney-there-was-nightcafe-and-its-still-kicking/)
 - [This Week In Space podcast: Episode 126 —Danger! Rogue Planets!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-126-danger-rogue-Planets)
 - [AI brings a whole new dimension to the challenge of organizational transformation](https://techcrunch.com/2024/08/31/ai-brings-a-whole-new-dimension-to-the-challenge-of-organizational-transformation/)
-- [Roll out with Optimus Prime in new &#39;Transformers One&#39; trailer &lpar;video&rpar;](https://www.space.com/transformers-one-roll-out-trailer)
-- [Watch out for these 10 hot startups from South Korea](https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
