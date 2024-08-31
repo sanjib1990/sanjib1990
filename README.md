@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Falcon 9 rocket can return to flight, FAA says](https://www.space.com/faa-approves-spacex-falcon-9-return-to-flight-august-2024)
 - [No, NASA&#39;s DART asteroid impact probably won&#39;t spark meteor showers on Earth — but maybe on Mars](https://www.space.com/dart-asteroid-impact-meteor-showers-mars)
 - [Top court orders ban on Elon Musk’s X in Brazil](https://techcrunch.com/2024/08/30/top-court-orders-ban-on-elon-musks-x-in-brazil/)
 - [&#39;Deadpool &amp; Wolverine&#39; has a sneaky Canadarm robot arm cameo at the end of time — but blink and you&#39;ll miss it](https://www.space.com/deadpool-and-wolverine-canadarm-space-robot)
 - [Investors are already valuing OpenAI at over $100B on the secondaries market](https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/)
-- [&#39;Slingshot&#39; is a surreal sci-fi head trip that questions its own reality &lpar;review&rpar;](https://www.space.com/slingshot-titan-space-movie-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
