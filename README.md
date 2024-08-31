@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bolt reportedly threatens legal action against Silverbear Capital](https://techcrunch.com/2024/08/31/bolt-reportedly-threatens-legal-action-against-silverbear-capital/)
+- [SpaceX launches back-to-back Falcon 9 rockets within 65 minutes and aces 2 landings days after a failed booster touchdown](https://www.space.com/spacex-back-to-back-rocket-launches-landings-after-booster-touchdown-failure)
+- [Bluesky tops app charts and sees ‘all-time-highs’ after Brazil bans X](https://techcrunch.com/2024/08/31/bluesky-tops-app-charts-and-sees-all-time-highs-after-brazil-bans-x/)
 - [Is OpenAI worth $100B?](https://techcrunch.com/2024/08/31/is-openai-worth-100b/)
 - [Rocket Lab&#39;s Mars probes reach launch site ahead of 1st flight on Blue Origin New Glenn rocket &lpar;photos&rpar;](https://www.space.com/rocket-lab-mars-probes-arrive-launch-site-new-glenn)
-- [Amazon hires the founders of AI robotics startup Covariant](https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/)
-- [Grammy CEO says music industry also has AI concerns](https://techcrunch.com/2024/08/31/grammy-ceo-says-music-industry-also-has-ai-concerns/)
-- [Before Midjourney, there was NightCafe — and it’s still kicking](https://techcrunch.com/2024/08/31/before-midjourney-there-was-nightcafe-and-its-still-kicking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
