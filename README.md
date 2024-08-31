@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch out for these 10 hot startups from South Korea](https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/)
 - [Who is Rook, the Renaissance station&#39;s robot science officer in &#39;Alien: Romulus?&#39;](https://www.space.com/alien-romulus-rook-robot-science-officer)
 - [NASA&#39;s solar sail successfully spreads its wings in space](https://www.space.com/nasa-solar-sail-deployment)
 - [SpaceX&#39;s Falcon 9 rocket can return to flight, FAA says](https://www.space.com/faa-approves-spacex-falcon-9-return-to-flight-august-2024)
 - [No, NASA&#39;s DART asteroid impact probably won&#39;t spark meteor showers on Earth — but maybe on Mars](https://www.space.com/dart-asteroid-impact-meteor-showers-mars)
-- [Top court orders ban on Elon Musk’s X in Brazil](https://techcrunch.com/2024/08/30/top-court-orders-ban-on-elon-musks-x-in-brazil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
