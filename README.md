@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple may ditch those old familiar USB-A ports in the new Mac mini](https://techcrunch.com/2024/09/01/apple-may-ditch-those-old-familiar-usb-a-ports-in-the-new-mac-mini/)
 - [The case against AI art](https://techcrunch.com/2024/09/01/the-case-against-ai-art/)
 - [Palantir’s CTO, and 13th employee, has become a secret weapon for Valley defense tech startups](https://techcrunch.com/2024/09/01/tktk/)
 - [‘Emotion AI’ may be the next trend for business software, and that could be problematic](https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/)
 - [Best Alien comic books of all time](https://www.space.com/best-alien-comics)
-- [Weird mystery waves that baffle scientists may be &#39;everywhere&#39; inside Earth&#39;s mantle](https://www.space.com/mystery-waves-earth-mantle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
