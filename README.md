@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Emotion AI’ may be the next trend for business software, and that could be problematic](https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/)
+- [Best Alien comic books of all time](https://www.space.com/best-alien-comics)
 - [Weird mystery waves that baffle scientists may be &#39;everywhere&#39; inside Earth&#39;s mantle](https://www.space.com/mystery-waves-earth-mantle)
 - [Why do so many home robots still suck?](https://techcrunch.com/2024/09/01/why-do-so-many-home-robots-still-suck/)
 - [From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised](https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/)
-- [Astrophotographer captures Comet 13P/Olbers and the Black Eye Galaxy M64 in stunning detail &lpar;photo&rpar;](https://www.space.com/comet-13p-olbers-m64-black-eye-galaxy-photo-astrophotographer)
-- [Bolt reportedly threatens legal action against Silverbear Capital](https://techcrunch.com/2024/08/31/bolt-reportedly-threatens-legal-action-against-silverbear-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
