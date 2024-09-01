@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised](https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/)
 - [Astrophotographer captures Comet 13P/Olbers and the Black Eye Galaxy M64 in stunning detail &lpar;photo&rpar;](https://www.space.com/comet-13p-olbers-m64-black-eye-galaxy-photo-astrophotographer)
 - [Bolt reportedly threatens legal action against Silverbear Capital](https://techcrunch.com/2024/08/31/bolt-reportedly-threatens-legal-action-against-silverbear-capital/)
 - [SpaceX launches back-to-back Falcon 9 rockets within 65 minutes and aces 2 landings days after a failed booster touchdown &lpar;video&rpar;](https://www.space.com/spacex-back-to-back-rocket-launches-landings-after-booster-touchdown-failure)
 - [Bluesky tops app charts and sees ‘all-time-highs’ after Brazil bans X](https://techcrunch.com/2024/08/31/bluesky-tops-app-charts-and-sees-all-time-highs-after-brazil-bans-x/)
-- [Is OpenAI worth $100B?](https://techcrunch.com/2024/08/31/is-openai-worth-100b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
