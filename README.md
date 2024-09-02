@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Heaviest antimatter particle ever discovered could hold secrets to our universe&#39;s origins](https://www.space.com/heaviest-antimatter-particle-could-hold-secrets-of-universe-origins)
 - [Orion capsule used in abort test &#39;lands&#39; at University of North Dakota](https://www.space.com/orion-mlas-capsule-university-north-dakota)
 - [The pieces of NASA&#39;s next 3 Artemis moon missions head to Florida launch site &lpar;photos&rpar;](https://www.space.com/nasa-artemis-moon-astronaut-missions-rocket-spacecraft-hardware-shipment-photos)
 - [Accel, Docker and Redis will discuss what’s next in open source as a business model at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/02/accel-docker-and-redis-will-discuss-whats-next-in-open-source-as-a-business-model-at-techcrunch-disrupt-2024/)
 - [Enhance your brand at TechCrunch Disrupt 2024 by hosting a Side Event](https://techcrunch.com/2024/09/02/enhance-your-brand-at-techcrunch-disrupt-2024-by-hosting-a-side-event/)
-- [&#39;Warm Jupiter&#39; exoplanet 300 light-years away found by amateur astronomers](https://www.space.com/warm-jupiter-citizen-scientists)
 <!-- BLOG-POST-LIST:END -->
 
 ---
