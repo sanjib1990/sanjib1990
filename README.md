@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customers of Indian crypto exchange WazirX unlikely to recover full funds](https://techcrunch.com/2024/09/02/customers-of-indian-crypto-exchange-wazirx-unlikely-to-recover-full-funds/)
+- [1 month until the annular solar eclipse 2024: Here&#39;s what you need to know](https://www.space.com/annular-solar-eclipse-2024-one-month-away)
 - [Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia](https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/)
 - [Apple may ditch those old familiar USB-A ports in the new Mac mini](https://techcrunch.com/2024/09/01/apple-may-ditch-those-old-familiar-usb-a-ports-in-the-new-mac-mini/)
 - [The case against AI art](https://techcrunch.com/2024/09/01/the-case-against-ai-art/)
-- [Palantir’s CTO, and 13th employee, has become a secret weapon for Valley defense tech startups](https://techcrunch.com/2024/09/01/tktk/)
-- [‘Emotion AI’ may be the next trend for business software, and that could be problematic](https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
