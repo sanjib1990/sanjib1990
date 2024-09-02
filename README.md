@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Warm Jupiter&#39; exoplanet 300 light-years away found by amateur astronomers](https://www.space.com/warm-jupiter-citizen-scientists)
+- [Sign or veto: What’s next for California’s AI disaster bill, SB 1047?](https://techcrunch.com/2024/09/02/governor-newsom-must-weigh-the-future-of-californias-ai-industry-with-sb-1047/)
+- [Students and recent grads: 5 days left to save on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/02/students-and-recent-grads-5-days-left-to-save-on-techcrunch-disrupt-2024-tickets/)
+- [A16z’s Joshua Lu says AI is already radically changing video games and Discord is the future](https://techcrunch.com/2024/09/02/a16zs-joshua-lu-says-ai-is-already-radically-changing-video-games-and-discord-is-the-future/)
 - [Astrophotographer captures Comet C/2023 E1 Atlas in rare encounter with Flying Bat and Squid Nebula](https://www.space.com/astrophotographer-captures-image-comet-c-2023-e1-atlas-flying-bat-and-squid-nebula)
-- [CrowdStrike faces onslaught of legal action from faulty software update](https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/)
-- [Astronomers discover oldest known eclipse reference in 6,000-year-old Hindu text](https://www.space.com/solar-eclipse-oldest-account-rig-veda)
-- [Want to branch out beyond Google? Here are some search engines worth checking out](https://techcrunch.com/2024/09/02/want-to-branch-out-beyond-google-here-are-some-search-engines-worth-checking-out/)
-- [NASA astronaut Butch Wilmore reports &#39;strange noise&#39; coming from Boeing&#39;s Starliner spacecraft, &#39;I don&#39;t know what&#39;s making it&#39;](https://www.space.com/strange-noise-boeing-starliner-spacecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
