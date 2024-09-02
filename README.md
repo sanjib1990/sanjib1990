@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographer captures Comet C/2023 E1 Atlas in rare encounter with Flying Bat and Squid Nebula](https://www.space.com/astrophotographer-captures-image-comet-c-2023-e1-atlas-flying-bat-and-squid-nebula)
+- [CrowdStrike faces onslaught of legal action from faulty software update](https://techcrunch.com/2024/09/02/crowdstrike-faces-onslaught-of-legal-action-from-faulty-software-update/)
 - [Astronomers discover oldest known eclipse reference in 6,000-year-old Hindu text](https://www.space.com/solar-eclipse-oldest-account-rig-veda)
 - [Want to branch out beyond Google? Here are some search engines worth checking out](https://techcrunch.com/2024/09/02/want-to-branch-out-beyond-google-here-are-some-search-engines-worth-checking-out/)
 - [NASA astronaut Butch Wilmore reports &#39;strange noise&#39; coming from Boeing&#39;s Starliner spacecraft, &#39;I don&#39;t know what&#39;s making it&#39;](https://www.space.com/strange-noise-boeing-starliner-spacecraft)
-- [Customers of Indian crypto exchange WazirX unlikely to recover full funds](https://techcrunch.com/2024/09/02/customers-of-indian-crypto-exchange-wazirx-unlikely-to-recover-full-funds/)
-- [1 month until the annular solar eclipse 2024: Here&#39;s what you need to know](https://www.space.com/annular-solar-eclipse-2024-one-month-away)
 <!-- BLOG-POST-LIST:END -->
 
 ---
