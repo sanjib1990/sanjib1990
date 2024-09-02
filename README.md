@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stick to the shade in new extended &#39;Dune: Awakening&#39; gameplay trailer &lpar;video&rpar;](https://www.space.com/new-extended-dune-awakening-gameplay-trailer)
 - [&#39;Unbreakable&#39; quantum communication closer to reality thanks to new, exceptionally bright photons](https://www.space.com/unbreakable-quantum-communication-bright-photons)
 - [Star-packed Triangulum Galaxy shines in new Hubble Telescope image](https://www.space.com/star-packed-triangulum-galaxy-hubble-telescope-photo)
 - [Lego Star Wars Mos Espa Podrace Diorama review](https://www.space.com/mos-espa-podrace-diorama-review)
 - [Heaviest antimatter particle ever discovered could hold secrets to our universe&#39;s origins](https://www.space.com/heaviest-antimatter-particle-could-hold-secrets-of-universe-origins)
-- [Orion capsule used in abort test &#39;lands&#39; at University of North Dakota](https://www.space.com/orion-mlas-capsule-university-north-dakota)
 <!-- BLOG-POST-LIST:END -->
 
 ---
