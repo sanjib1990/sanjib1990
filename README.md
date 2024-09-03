@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [For when you can’t afford a Cybersecurity Engineer……](https://www.youtube.com/watch?v=MXqcdQXFP8U)
 - [A Helping Hand for LLMs &lpar;Retrieval Augmented Generation&rpar; - Computerphile](https://www.youtube.com/watch?v=of4UDMvi2Kw)
 - [FreeBSD in 100 Seconds](https://www.youtube.com/watch?v=NKHzcXwTdB4)
 - [IPv6 keeps getting hacked on Windows](https://www.youtube.com/watch?v=Z_QlUyYlUCg)
 - [Which type of RAM do Laptops use??](https://www.youtube.com/watch?v=w2NsWavoNrE)
-- [The future of game development... has no game engine?](https://www.youtube.com/watch?v=SBdDt4BUIW0)
 <!-- YOUTUBE:END -->
 
 ---
