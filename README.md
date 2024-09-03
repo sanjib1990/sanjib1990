@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Payroll startup Cercli inks $4M to build the “Rippling for the Middle East and North Africa”](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/)
+- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/)
 - [BigEndian founders hope to use their deep chip experience to help establish India in semiconductors](https://techcrunch.com/2024/09/02/bigendian-embarks-on-surveillance-chip-development-from-india/)
 - [Satellites are making the night sky brighter — as a launch site, New Zealand has a duty to combat light pollution](https://www.space.com/satellites-making-night-sky-brighter-new-zealand-duty-light-pollution)
 - [SparkLabs closes $50M fund to back AI startups](https://techcrunch.com/2024/09/02/sparklabs-closes-50m-fund-to-back-ai-startups/)
-- [Stick to the shade in new extended &#39;Dune: Awakening&#39; gameplay trailer &lpar;video&rpar;](https://www.space.com/new-extended-dune-awakening-gameplay-trailer)
-- [&#39;Unbreakable&#39; quantum communication closer to reality thanks to new, exceptionally bright photons](https://www.space.com/unbreakable-quantum-communication-bright-photons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
