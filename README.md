@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotter launches AI tools to help YouTubers brainstorm video ideas, thumbnails and more](https://techcrunch.com/2024/09/03/spotter-launches-ai-tools-youtubers-brainstorm-video-ideas-thumbnails/)
 - [Some black holes have a &#39;heartbeat&#39; — and astronomers may finally know why](https://www.space.com/why-some-black-holes-have-heartbeats)
 - [Former Citi, Battery VC has new $378M fund that helps startups land Prudential, Mutual of Omaha, others as investors and customers](https://techcrunch.com/2024/09/03/former-citi-battery-vc-has-new-378m-fund-that-helps-startups-land-prudential/)
 - [Halliburton confirms data was stolen in ongoing cyberattack](https://techcrunch.com/2024/09/03/halliburton-confirms-data-was-stolen-in-ongoing-cyberattack/)
 - [Elon Musk’s Brazil battle wages on](https://techcrunch.com/2024/09/03/elon-musks-brazil-battle-wages-on/)
-- [&#39;A lot has changed&#39;: NOAA is rewriting the book on how to rank solar storms](https://www.space.com/noaa-new-space-weather-scales)
 <!-- BLOG-POST-LIST:END -->
 
 ---
