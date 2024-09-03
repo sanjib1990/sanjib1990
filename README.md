@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clearview AI hit with its largest GDPR fine yet as Dutch regulator considers holding execs personally liable](https://techcrunch.com/2024/09/03/clearview-ai-hit-with-its-largest-gdpr-fine-yet-as-dutch-regulator-considers-holding-execs-personally-liable/)
+- [Artemis 3 astronauts will walk on the moon with 4G-equipped spacesuits](https://www.space.com/artemis-3-moon-spacesuits-nokia-4g)
+- [X lets you edit DMs — here is how to use the feature](https://techcrunch.com/2024/09/03/x-lets-you-edit-dms-here-is-how-to-use-the-feature/)
 - [Laptop-leasing startup Fleet wants to become the IT companion for small companies](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/)
 - [Ziina banks $22M as growth explodes for the UAE-based fintech for small businesses](https://techcrunch.com/2024/09/02/ziina-banks-22m-as-growth-explodes-for-the-uae-based-fintech-for-small-businesses/)
-- [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/)
-- [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/)
-- [BigEndian founders hope to use their deep chip experience to help establish India in semiconductors](https://techcrunch.com/2024/09/02/bigendian-embarks-on-surveillance-chip-development-from-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
