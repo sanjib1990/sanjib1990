@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The flat-rate real estate startup that’s got big players worried and BNPL’s turning a corner](https://techcrunch.com/2024/09/03/the-flat-rate-real-estate-startup-thats-got-big-players-worried-and-bnpls-turning-a-corner/)
+- [Statue of fallen &#39;Teacher-in-Space&#39; Christa McAuliffe unveiled at NH state house](https://www.space.com/christa-mcauliffe-statue-new-hampshire-unveiling)
+- [As more Instagram users engage with Stories, the app adds a comments feature](https://techcrunch.com/2024/09/03/instagram-stories-public-comments-feature/)
 - [NASA science mission spacecraft are at risk from hackers, but a new law could help protect them](https://www.space.com/nasa-science-missions-at-risk-from-hackers-new-law-could-protect)
 - [Dragonfly Capital, Galaxy Ventures and NFX share insights on crypto scaling and strategy at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/03/dragonfly-capital-galaxy-ventures-and-nfx-share-insights-on-crypto-scaling-and-strategy-at-techcrunch-disrupt-2024/)
-- [Supercharged &#39;cocoon of energy&#39; may power the brightest supernovas in the universe](https://www.space.com/supercharged-cocoon-of-energy-power-brightest-supernovas-in-universe)
-- [Announcing the final agenda for the Builders Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/03/announcing-the-final-agenda-for-the-builders-stage-at-techcrunch-disrupt-2024/)
-- [Spotter launches AI tools to help YouTubers brainstorm video ideas, thumbnails and more](https://techcrunch.com/2024/09/03/spotter-launches-ai-tools-youtubers-brainstorm-video-ideas-thumbnails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
