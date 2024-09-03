@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It basically lifts the skies up.&#39; NASA discovers Earth&#39;s electrical field at last after 60-year search](https://www.space.com/earth-planet-wide-electrical-field)
+- [Watch Europe&#39;s Vega rocket launch its final mission tonight](https://www.space.com/arianespace-final-vega-rocket-launch)
 - [Learn startup best practices with MongoDB, Venture Backed, InterSystems and others at Disrupt 2024](https://techcrunch.com/2024/09/03/learn-startup-best-practices-with-mongodb-venture-backed-intersystems-and-others-at-disrupt-2024/)
 - [Shelved NASA spacecraft could spy on asteroid Apophis before 2029 Earth flyby](https://www.space.com/nasa-janus-spacecraft-aphophis-asteroid)
 - [Android 15 will be available on supported Pixel devices in the coming weeks](https://techcrunch.com/2024/09/03/android-15-will-be-available-on-supported-pixel-devices-in-the-coming-weeks/)
-- [Android’s latest update improves text-to-speech, Circle to Search, earthquake alerts and more](https://techcrunch.com/2024/09/03/android-15-release-new-updates/)
-- [Bluesky continues to soar, adding 2M more new users in a matter of days](https://techcrunch.com/2024/09/03/bluesky-continues-to-soar-adding-2m-more-new-users-in-a-matter-of-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
