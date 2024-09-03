@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharged &#39;cocoon of energy&#39; may power the brightest supernovas in the universe](https://www.space.com/supercharged-cocoon-of-energy-power-brightest-supernovas-in-universe)
+- [Announcing the final agenda for the Builders Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/03/announcing-the-final-agenda-for-the-builders-stage-at-techcrunch-disrupt-2024/)
 - [Spotter launches AI tools to help YouTubers brainstorm video ideas, thumbnails and more](https://techcrunch.com/2024/09/03/spotter-launches-ai-tools-youtubers-brainstorm-video-ideas-thumbnails/)
 - [Some black holes have a &#39;heartbeat&#39; — and astronomers may finally know why](https://www.space.com/why-some-black-holes-have-heartbeats)
 - [Former Citi, Battery VC has new $378M fund that helps startups land Prudential, Mutual of Omaha, others as investors and customers](https://techcrunch.com/2024/09/03/former-citi-battery-vc-has-new-378m-fund-that-helps-startups-land-prudential/)
-- [Halliburton confirms data was stolen in ongoing cyberattack](https://techcrunch.com/2024/09/03/halliburton-confirms-data-was-stolen-in-ongoing-cyberattack/)
-- [Elon Musk’s Brazil battle wages on](https://techcrunch.com/2024/09/03/elon-musks-brazil-battle-wages-on/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
