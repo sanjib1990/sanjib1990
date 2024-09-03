@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Payroll startup Cercli inks $4M to build the “Rippling for the Middle East and North Africa”](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/)
+- [Laptop-leasing startup Fleet wants to become the IT companion for small companies](https://techcrunch.com/2024/09/02/laptop-leasing-startup-fleet-wants-to-become-the-it-companion-for-small-companies/)
+- [Ziina banks $22M as growth explodes for the UAE-based fintech for small businesses](https://techcrunch.com/2024/09/02/ziina-banks-22m-as-growth-explodes-for-the-uae-based-fintech-for-small-businesses/)
+- [Payroll startup Cercli inks $4M to build the ‘Rippling for the Middle East and North Africa’](https://techcrunch.com/2024/09/02/cercli-inks-4m-to-build-rippling-for-the-mena-region/)
 - [‘Hospital at home’ startup Doccla raises $46 million for its European expansion](https://techcrunch.com/2024/09/02/hospital-at-home-startup-doccla-raises-46-million-for-its-european-expansion/)
 - [BigEndian founders hope to use their deep chip experience to help establish India in semiconductors](https://techcrunch.com/2024/09/02/bigendian-embarks-on-surveillance-chip-development-from-india/)
-- [Satellites are making the night sky brighter — as a launch site, New Zealand has a duty to combat light pollution](https://www.space.com/satellites-making-night-sky-brighter-new-zealand-duty-light-pollution)
-- [SparkLabs closes $50M fund to back AI startups](https://techcrunch.com/2024/09/02/sparklabs-closes-50m-fund-to-back-ai-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
