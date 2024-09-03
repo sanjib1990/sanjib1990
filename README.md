@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The flat-rate real estate startup that’s got big players worried and BNPL’s turning a corner](https://techcrunch.com/2024/09/03/the-flat-rate-real-estate-startup-thats-got-big-players-worried-and-bnpls-turning-a-corner/)
-- [Statue of fallen &#39;Teacher-in-Space&#39; Christa McAuliffe unveiled at NH state house](https://www.space.com/christa-mcauliffe-statue-new-hampshire-unveiling)
-- [As more Instagram users engage with Stories, the app adds a comments feature](https://techcrunch.com/2024/09/03/instagram-stories-public-comments-feature/)
-- [NASA science mission spacecraft are at risk from hackers, but a new law could help protect them](https://www.space.com/nasa-science-missions-at-risk-from-hackers-new-law-could-protect)
-- [Dragonfly Capital, Galaxy Ventures and NFX share insights on crypto scaling and strategy at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/03/dragonfly-capital-galaxy-ventures-and-nfx-share-insights-on-crypto-scaling-and-strategy-at-techcrunch-disrupt-2024/)
+- [Learn startup best practices with MongoDB, Venture Backed, InterSystems and others at Disrupt 2024](https://techcrunch.com/2024/09/03/learn-startup-best-practices-with-mongodb-venture-backed-intersystems-and-others-at-disrupt-2024/)
+- [Shelved NASA spacecraft could spy on asteroid Apophis before 2029 Earth flyby](https://www.space.com/nasa-janus-spacecraft-aphophis-asteroid)
+- [Android 15 will be available on supported Pixel devices in the coming weeks](https://techcrunch.com/2024/09/03/android-15-will-be-available-on-supported-pixel-devices-in-the-coming-weeks/)
+- [Android’s latest update improves text-to-speech, Circle to Search, earthquake alerts and more](https://techcrunch.com/2024/09/03/android-15-release-new-updates/)
+- [Bluesky continues to soar, adding 2M more new users in a matter of days](https://techcrunch.com/2024/09/03/bluesky-continues-to-soar-adding-2m-more-new-users-in-a-matter-of-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
