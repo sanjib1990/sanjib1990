@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s Brazil battle wages on](https://techcrunch.com/2024/09/03/elon-musks-brazil-battle-wages-on/)
+- [&#39;A lot has changed&#39;: NOAA is rewriting the book on how to rank solar storms](https://www.space.com/noaa-new-space-weather-scales)
 - [Oxylus Energy strikes “beautiful balance” to make e-fuels for aviation and shipping](https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/)
 - [Xavier Niel replaces Coatue’s Laffont on board of TikTok parent ByteDance](https://techcrunch.com/2024/09/03/xavier-niel-replaces-coatues-laffont-on-board-of-tiktok-parent-bytedance/)
 - [Clearview AI hit with its largest GDPR fine yet as Dutch regulator considers holding execs personally liable](https://techcrunch.com/2024/09/03/clearview-ai-hit-with-its-largest-gdpr-fine-yet-as-dutch-regulator-considers-holding-execs-personally-liable/)
-- [Artemis 3 astronauts will walk on the moon with 4G-equipped spacesuits](https://www.space.com/artemis-3-moon-spacesuits-nokia-4g)
-- [X lets you edit DMs — here is how to use the feature](https://techcrunch.com/2024/09/03/x-lets-you-edit-dms-here-is-how-to-use-the-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
