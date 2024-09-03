@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neko Health, the body-scanning AI health startup from Spotify’s Daniel Ek, opens in London](https://techcrunch.com/2024/09/03/neko-health-the-body-scanning-ai-health-startup-from-spotifys-daniel-ek-opens-in-london/)
 - [Hubble telescope spies a sparkling &#39;cosmic fossil&#39; 3 million light-years away &lpar;image&rpar;](https://www.space.com/hubble-space-telescope-sparkling-cosmic-fossil)
 - [Bitcoin ATMs are a hotbed for scams, FTC says](https://techcrunch.com/2024/09/03/bitcoin-atms-are-a-hotbed-for-scams-ftc-says/)
 - [Thruster issues delay BepiColombo probe&#39;s Mercury arrival until November 2026](https://www.space.com/bepicolombo-thruster-issues-mercury-arrival-delay-2026)
 - [Scientists make lab-grown black hole jets](https://www.space.com/lab-grown-black-hole-jets)
-- [Volkswagen is rolling out its ChatGPT assistant to the US](https://techcrunch.com/2024/09/03/volkswagen-is-rolling-out-its-chatgpt-assistant-to-the-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
