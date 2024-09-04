@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Publishers prevail in lawsuit over Internet Archive’s ’emergency’ ebook lending](https://techcrunch.com/2024/09/04/publishers-prevail-in-lawsuit-over-internet-archives-unauthorized-ebook-lending/)
+- [Ryan Breslow’s lofty $450M Bolt deal is in trouble](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/)
+- [Short series app My Drama takes on Character.AI with its new AI companions](https://techcrunch.com/2024/09/04/short-series-app-my-drama-launching-ai-companions/)
 - [Celestron Origin Intelligent Home Observatory smart telescope review](https://www.space.com/celestron-origin-intelligent-home-observatory-smart-telescope-review)
 - [Woman who allegedly killed two people using Ford BlueCruise charged with DUI homicide](https://techcrunch.com/2024/09/04/woman-who-allegedly-killed-two-people-using-ford-bluecruise-charged-with-dui-homicide/)
-- [X is hiring staff for security and safety after two years of layoffs](https://techcrunch.com/2024/09/04/x-is-hiring-staff-for-security-and-safety-after-two-years-of-layoffs/)
-- [Blue Origin droneship arrives in Florida ahead of 1st New Glenn launch &lpar;video, photos&rpar;](https://www.space.com/blue-origin-droneship-jacklyn-arrives-port)
-- [Lego City Modular Space Station review](https://www.space.com/lego-city-modular-space-station-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
