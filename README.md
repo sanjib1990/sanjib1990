@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tinder update targets college students as dating apps struggle](https://techcrunch.com/2024/09/04/tinder-u-gets-new-features-aimed-at-enhancing-online-dating-for-college-students/)
-- [TechCrunch Minute: X lost 40 million monthly active users after Brazil ban](https://techcrunch.com/video/techcrunch-minute-x-lost-40-million-monthly-active-users-after-brazil-ban/)
+- [This Week in AI: VCs &lpar;and devs&rpar; are enthusiastic about AI coding tools](https://techcrunch.com/2024/09/04/this-week-in-ai-vcs-and-devs-are-enthusiastic-about-ai-coding-tools/)
+- [The Cosmos Institute, whose founding fellows include Anthropic co-founder Jack Clark, launches grant programs and an AI lab](https://techcrunch.com/2024/09/04/the-cosmos-institute-whose-founding-fellows-include-anthropic-co-founder-jack-clark-launches-grant-programs-and-an-ai-lab/)
+- [A huge asteroid crash permanently altered Jupiter&#39;s biggest moon Ganymede](https://www.space.com/jupiter-moon-ganymede-asteroid-impact-tilt-axis)
 - [YouTube debuts new parental controls aimed at teens](https://techcrunch.com/2024/09/04/youtube-debuts-new-parental-controls-aimed-at-teens/)
-- [Ireland’s privacy watchdog ends legal fight with X over data use for AI after it agrees to permanent limits](https://techcrunch.com/2024/09/04/irelands-privacy-watchdog-ends-legal-fight-with-x-over-data-use-for-ai-after-it-agrees-to-permanent-limits/)
-- [X doubles down on video with a new TV app](https://techcrunch.com/2024/09/04/x-doubles-down-on-video-with-a-new-tv-app/)
+- [As remote working keeps rolling, Oyster raises $59M Series D at $1.2B valuation](https://techcrunch.com/2024/09/04/as-remote-working-keeps-rolling-oyster-raises-59m-series-d-at-1-2b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
