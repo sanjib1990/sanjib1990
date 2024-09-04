@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Should we regulate the moon? Scientists call for international plan to share lunar water and resources](https://www.space.com/moon-lunar-resources-international-cooperation)
-- [reMarkable’s Paper Pro adds color, light and more but keeps the focus on ‘focus’](https://techcrunch.com/2024/09/04/remarkables-paper-pro-adds-color-light-and-more-but-keeps-the-focus-on-focus/)
-- [UK regulator greenlights Microsoft’s Inflection acquihire, but also designates it a merger](https://techcrunch.com/2024/09/04/uk-regulator-greenlights-microsofts-inflection-acquihire-but-also-designates-it-a-merger/)
-- [Why Lyft’s CEO says ‘it would be insane’ not to go all in on bikeshare](https://techcrunch.com/2024/09/04/lyft-is-going-all-in-on-docked-bikeshare/)
-- [UAE on track to launch bold 7-asteroid mission in 2028](https://www.space.com/uae-asteroid-belt-mission-progress-2028-launch)
+- [New &#39;StarRupture&#39; gameplay trailer is a killer bug hunt on a crazy planet &lpar;video&rpar;](https://www.space.com/starrupture-video-game-gameplay-trailer)
+- [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/)
+- [Dutch clean energy investor SET Ventures lands new €200 million fund, which will go toward digital tech](https://techcrunch.com/2024/09/04/dutch-clean-energy-investor-set-ventures-lands-new-e200-million-fund-which-will-go-toward-digital-tech/)
+- [DubClub wants amateur sports betters to win more](https://techcrunch.com/2024/09/04/dubclub-wants-amateur-sports-betters-to-win-more/)
+- [You.com ‘refocuses’ from AI search to deeper productivity agents with new $50M round](https://techcrunch.com/2024/09/04/you-com-refocuses-from-ai-search-to-deeper-productivity-agents-with-new-50m-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
