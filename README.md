@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Should we regulate the moon? Scientists call for international plan to share lunar water and resources](https://www.space.com/moon-lunar-resources-international-cooperation)
+- [reMarkable’s Paper Pro adds color, light and more but keeps the focus on ‘focus’](https://techcrunch.com/2024/09/04/remarkables-paper-pro-adds-color-light-and-more-but-keeps-the-focus-on-focus/)
+- [UK regulator greenlights Microsoft’s Inflection acquihire, but also designates it a merger](https://techcrunch.com/2024/09/04/uk-regulator-greenlights-microsofts-inflection-acquihire-but-also-designates-it-a-merger/)
+- [Why Lyft’s CEO says ‘it would be insane’ not to go all in on bikeshare](https://techcrunch.com/2024/09/04/lyft-is-going-all-in-on-docked-bikeshare/)
 - [UAE on track to launch bold 7-asteroid mission in 2028](https://www.space.com/uae-asteroid-belt-mission-progress-2028-launch)
-- [Spotify launches its evolving playlist, daylist, globally](https://techcrunch.com/2024/09/04/spotify-launches-its-evolving-playlist-daylist-globally/)
-- [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/)
-- [PharmEasy still 92% below its peak $5.6 billion valuation, investor estimates](https://techcrunch.com/2024/09/03/pharmeasy-still-92-below-its-peak-5-6-billion-valuation-investor-estimates/)
-- [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
