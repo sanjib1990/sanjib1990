@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Impact investors FMO and BlueOrchard back Ghana’s digital lender Fido in $30M Series B round](https://techcrunch.com/2024/09/03/ghanas-digital-lender-fido-30m-series-b-round/)
+- [PharmEasy still 92% below its peak $5.6 billion valuation, investor estimates](https://techcrunch.com/2024/09/03/pharmeasy-still-92-below-its-peak-5-6-billion-valuation-investor-estimates/)
 - [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/)
 - [Canva has increased prices for its Teams product](https://techcrunch.com/2024/09/03/canva-has-increased-prices-for-its-teams-product/)
 - [Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected ‘Glowtime’ reveals](https://techcrunch.com/2024/09/03/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/)
-- [Snap CEO says the company is testing a ‘simplified’  Snapchat](https://techcrunch.com/2024/09/03/snap-ceo-says-the-company-is-testing-a-simplified-snapchat/)
-- [Neko Health, the body-scanning AI health startup from Spotify’s Daniel Ek, opens in London](https://techcrunch.com/2024/09/03/neko-health-the-body-scanning-ai-health-startup-from-spotifys-daniel-ek-opens-in-london/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
