@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From their experiences at Uber and PayPal, Palm founders want to make moving cash easier for big companies](https://techcrunch.com/2024/09/03/from-their-experiences-at-uber-and-paypal-palm-founders-want-to-make-moving-cash-easier-for-big-companies/)
 - [Canva has increased prices for its Teams product](https://techcrunch.com/2024/09/03/canva-has-increased-prices-for-its-teams-product/)
 - [Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected ‘Glowtime’ reveals](https://techcrunch.com/2024/09/03/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/)
 - [Snap CEO says the company is testing a ‘simplified’  Snapchat](https://techcrunch.com/2024/09/03/snap-ceo-says-the-company-is-testing-a-simplified-snapchat/)
 - [Neko Health, the body-scanning AI health startup from Spotify’s Daniel Ek, opens in London](https://techcrunch.com/2024/09/03/neko-health-the-body-scanning-ai-health-startup-from-spotifys-daniel-ek-opens-in-london/)
-- [Hubble telescope spies a sparkling &#39;cosmic fossil&#39; 3 million light-years away &lpar;image&rpar;](https://www.space.com/hubble-space-telescope-sparkling-cosmic-fossil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
