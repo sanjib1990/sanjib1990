@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canva has increased prices for its Teams product](https://techcrunch.com/2024/09/03/canva-has-increased-prices-for-its-teams-product/)
+- [Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected ‘Glowtime’ reveals](https://techcrunch.com/2024/09/03/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/)
+- [Snap CEO says the company is testing a ‘simplified’  Snapchat](https://techcrunch.com/2024/09/03/snap-ceo-says-the-company-is-testing-a-simplified-snapchat/)
 - [Neko Health, the body-scanning AI health startup from Spotify’s Daniel Ek, opens in London](https://techcrunch.com/2024/09/03/neko-health-the-body-scanning-ai-health-startup-from-spotifys-daniel-ek-opens-in-london/)
 - [Hubble telescope spies a sparkling &#39;cosmic fossil&#39; 3 million light-years away &lpar;image&rpar;](https://www.space.com/hubble-space-telescope-sparkling-cosmic-fossil)
-- [Bitcoin ATMs are a hotbed for scams, FTC says](https://techcrunch.com/2024/09/03/bitcoin-atms-are-a-hotbed-for-scams-ftc-says/)
-- [Thruster issues delay BepiColombo probe&#39;s Mercury arrival until November 2026](https://www.space.com/bepicolombo-thruster-issues-mercury-arrival-delay-2026)
-- [Scientists make lab-grown black hole jets](https://www.space.com/lab-grown-black-hole-jets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
