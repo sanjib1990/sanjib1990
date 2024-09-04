@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch this robot wheelchair’s compliant wheels take on bumps, rocks and stairs](https://techcrunch.com/2024/09/04/watch-this-robot-wheelchairs-compliant-wheels-take-on-bumps-rocks-and-stairs/)
-- [Slauson &amp; Co. raises $100M Fund II proving appetite for inclusion persists](https://techcrunch.com/2024/09/04/slauson-co-raises-100m-fund-ii-proving-appetite-for-inclusion-persists/)
-- [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/)
-- [Anthropic launches Claude Enterprise plan to compete with OpenAI](https://techcrunch.com/2024/09/04/anthropic-launches-claude-enterprise-plan-to-compete-with-openai/)
-- [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/)
+- [Tinder update targets college students as dating apps struggle](https://techcrunch.com/2024/09/04/tinder-u-gets-new-features-aimed-at-enhancing-online-dating-for-college-students/)
+- [TechCrunch Minute: X lost 40 million monthly active users after Brazil ban](https://techcrunch.com/video/techcrunch-minute-x-lost-40-million-monthly-active-users-after-brazil-ban/)
+- [YouTube debuts new parental controls aimed at teens](https://techcrunch.com/2024/09/04/youtube-debuts-new-parental-controls-aimed-at-teens/)
+- [Ireland’s privacy watchdog ends legal fight with X over data use for AI after it agrees to permanent limits](https://techcrunch.com/2024/09/04/irelands-privacy-watchdog-ends-legal-fight-with-x-over-data-use-for-ai-after-it-agrees-to-permanent-limits/)
+- [X doubles down on video with a new TV app](https://techcrunch.com/2024/09/04/x-doubles-down-on-video-with-a-new-tv-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
