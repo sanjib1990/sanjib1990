@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Belief in alien visits to Earth is spiraling out of control – here&#39;s why that&#39;s so dangerous](https://www.space.com/alien-visitation-earth-belief-out-of-control-dangerous)
-- [Ilya Sutskever’s startup, Safe Superintelligence, raises $1B](https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/)
-- [New &#39;StarRupture&#39; gameplay trailer is a killer bug hunt on a crazy planet &lpar;video&rpar;](https://www.space.com/starrupture-video-game-gameplay-trailer)
-- [Revefi seeks to automate companies’ data operations](https://techcrunch.com/2024/09/04/revefi-seeks-to-automate-companies-data-operations/)
-- [Dutch clean energy investor SET Ventures lands new €200 million fund, which will go toward digital tech](https://techcrunch.com/2024/09/04/dutch-clean-energy-investor-set-ventures-lands-new-e200-million-fund-which-will-go-toward-digital-tech/)
+- [Watch this robot wheelchair’s compliant wheels take on bumps, rocks and stairs](https://techcrunch.com/2024/09/04/watch-this-robot-wheelchairs-compliant-wheels-take-on-bumps-rocks-and-stairs/)
+- [Slauson &amp; Co. raises $100M Fund II proving appetite for inclusion persists](https://techcrunch.com/2024/09/04/slauson-co-raises-100m-fund-ii-proving-appetite-for-inclusion-persists/)
+- [Students and recent grads: Only 3 days left to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/04/students-and-recent-grads-only-3-days-left-to-save-on-techcrunch-disrupt-2024-student-passes/)
+- [Anthropic launches Claude Enterprise plan to compete with OpenAI](https://techcrunch.com/2024/09/04/anthropic-launches-claude-enterprise-plan-to-compete-with-openai/)
+- [Mayfield allocates $100M to AI incubator modeled after its entrepreneur-in-residence program](https://techcrunch.com/2024/09/04/mayfield-allocates-100m-to-ai-incubator-modeled-after-its-entrepreneur-in-residence-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
