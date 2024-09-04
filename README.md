@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Celestron Origin Intelligent Home Observatory smart telescope review](https://www.space.com/celestron-origin-intelligent-home-observatory-smart-telescope-review)
+- [Woman who allegedly killed two people using Ford BlueCruise charged with DUI homicide](https://techcrunch.com/2024/09/04/woman-who-allegedly-killed-two-people-using-ford-bluecruise-charged-with-dui-homicide/)
+- [X is hiring staff for security and safety after two years of layoffs](https://techcrunch.com/2024/09/04/x-is-hiring-staff-for-security-and-safety-after-two-years-of-layoffs/)
 - [Blue Origin droneship arrives in Florida ahead of 1st New Glenn launch &lpar;video, photos&rpar;](https://www.space.com/blue-origin-droneship-jacklyn-arrives-port)
 - [Lego City Modular Space Station review](https://www.space.com/lego-city-modular-space-station-review)
-- [&#39;There was some tension in the room&#39;, NASA says of decision to bring Boeing&#39;s Starliner spacecraft home without astronauts](https://www.space.com/boeing-starliner-spacecraft-tension-return-earth-without-astronauts)
-- [NASA clears Europa Clipper mission for Oct. 10 launch despite Jupiter radiation worries](https://www.space.com/nasa-europa-clipper-cleared-oct-2024-launch)
-- [This Week in AI: VCs &lpar;and devs&rpar; are enthusiastic about AI coding tools](https://techcrunch.com/2024/09/04/this-week-in-ai-vcs-and-devs-are-enthusiastic-about-ai-coding-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
