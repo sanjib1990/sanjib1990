@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishers prevail in lawsuit over Internet Archive’s ’emergency’ ebook lending](https://techcrunch.com/2024/09/04/publishers-prevail-in-lawsuit-over-internet-archives-unauthorized-ebook-lending/)
-- [Ryan Breslow’s lofty $450M Bolt deal is in trouble](https://techcrunch.com/2024/09/04/ryan-breslows-lofty-450m-bolt-deal-is-in-trouble/)
-- [Short series app My Drama takes on Character.AI with its new AI companions](https://techcrunch.com/2024/09/04/short-series-app-my-drama-launching-ai-companions/)
-- [Celestron Origin Intelligent Home Observatory smart telescope review](https://www.space.com/celestron-origin-intelligent-home-observatory-smart-telescope-review)
-- [Woman who allegedly killed two people using Ford BlueCruise charged with DUI homicide](https://techcrunch.com/2024/09/04/woman-who-allegedly-killed-two-people-using-ford-bluecruise-charged-with-dui-homicide/)
+- [Facebook says, ‘how do you do, fellow kids?’](https://techcrunch.com/2024/09/04/facebook-says-how-do-you-do-fellow-kids/)
+- [Chinese astronauts study ancient microbes aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/chinese-astronauts-ancient-microbes-tiangong-space-station-video)
+- [E-bike maker Cowboy raises a small funding round as it targets profitability next year](https://techcrunch.com/2024/09/04/e-bike-maker-cowboy-raises-one-last-small-funding-round-before-reaching-profitability/)
+- [Paylocity is acquiring corporate spend startup Airbase for $325M](https://techcrunch.com/2024/09/04/paylocity-acquiring-corporate-spend-startup-airbase-for-325m/)
+- [Hubble Telescope spies a very sparkly mini-galaxy &lpar;image&rpar;](https://www.space.com/hubble-telescope-mini-galaxy-andromeda-pegasus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
