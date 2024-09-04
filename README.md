@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin droneship arrives in Florida ahead of 1st New Glenn launch &lpar;video, photos&rpar;](https://www.space.com/blue-origin-droneship-jacklyn-arrives-port)
+- [Lego City Modular Space Station review](https://www.space.com/lego-city-modular-space-station-review)
+- [&#39;There was some tension in the room&#39;, NASA says of decision to bring Boeing&#39;s Starliner spacecraft home without astronauts](https://www.space.com/boeing-starliner-spacecraft-tension-return-earth-without-astronauts)
+- [NASA clears Europa Clipper mission for Oct. 10 launch despite Jupiter radiation worries](https://www.space.com/nasa-europa-clipper-cleared-oct-2024-launch)
 - [This Week in AI: VCs &lpar;and devs&rpar; are enthusiastic about AI coding tools](https://techcrunch.com/2024/09/04/this-week-in-ai-vcs-and-devs-are-enthusiastic-about-ai-coding-tools/)
-- [The Cosmos Institute, whose founding fellows include Anthropic co-founder Jack Clark, launches grant programs and an AI lab](https://techcrunch.com/2024/09/04/the-cosmos-institute-whose-founding-fellows-include-anthropic-co-founder-jack-clark-launches-grant-programs-and-an-ai-lab/)
-- [A huge asteroid crash permanently altered Jupiter&#39;s biggest moon Ganymede](https://www.space.com/jupiter-moon-ganymede-asteroid-impact-tilt-axis)
-- [YouTube debuts new parental controls aimed at teens](https://techcrunch.com/2024/09/04/youtube-debuts-new-parental-controls-aimed-at-teens/)
-- [As remote working keeps rolling, Oyster raises $59M Series D at $1.2B valuation](https://techcrunch.com/2024/09/04/as-remote-working-keeps-rolling-oyster-raises-59m-series-d-at-1-2b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
