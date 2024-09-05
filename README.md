@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ZipRecruiter’s new tool will quickly match and schedule an intro call with potential candidates](https://techcrunch.com/2024/09/05/ziprecruiters-new-tool-will-quickly-match-and-schedule-an-intro-call-with-potential-candidates/)
-- [Listen to the eerie sounds of an exploded star in new NASA video](https://www.space.com/chandra-sonifications-exploded-star-sounds-nasa-video)
-- [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/)
-- [DJI takes another crack at palm-sized drones, and this one is $199](https://techcrunch.com/2024/09/05/dji-takes-another-crack-at-palm-sized-drones/)
-- [Lucky alignment of 2 spacecraft reveals how solar wind gets a magnetic push](https://www.space.com/lucky-alignment-spacecraft-sun-solar-wind-mystery)
+- [YouTube to limit teens’ exposure to videos about fitness and weight across global markets](https://techcrunch.com/2024/09/05/youtube-to-limit-teens-exposure-to-videos-about-fitness-and-weight-across-global-markets/)
+- [Astronaut watches a meteor explode over Earth in a bright green fireball in stunning video from ISS](https://www.space.com/meteor-green-fireball-international-space-station-matthew-dominick-video)
+- [YouTube is developing AI detection tools for music and faces, plus creator controls for AI training](https://techcrunch.com/2024/09/05/youtube-is-developing-ai-detection-tools-for-music-and-faces-plus-creator-controls-for-ai-training/)
+- [US, UK and EU sign on to the Council of Europe’s high-level AI safety treaty](https://techcrunch.com/2024/09/05/us-uk-and-eu-sign-on-to-the-council-of-europes-high-level-ai-safety-treaty/)
+- [French cleantech startup Calyxia nets $35M to tackle microplastics pollution](https://techcrunch.com/2024/09/05/french-cleantech-startup-calyxia-nets-35m-to-tackle-microplastics-pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
