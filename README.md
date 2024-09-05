@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ZipRecruiter’s new tool will quickly match and schedule an intro call with potential candidates](https://techcrunch.com/2024/09/05/ziprecruiters-new-tool-will-quickly-match-and-schedule-an-intro-call-with-potential-candidates/)
+- [Listen to the eerie sounds of an exploded star in new NASA video](https://www.space.com/chandra-sonifications-exploded-star-sounds-nasa-video)
+- [Portex founder Brittany Ennix learned the importance of supply chains from Uber and Flexport](https://techcrunch.com/2024/09/05/portex-raises-6-25-million-seed-to-make-freight-shipping-easier/)
+- [DJI takes another crack at palm-sized drones, and this one is $199](https://techcrunch.com/2024/09/05/dji-takes-another-crack-at-palm-sized-drones/)
 - [Lucky alignment of 2 spacecraft reveals how solar wind gets a magnetic push](https://www.space.com/lucky-alignment-spacecraft-sun-solar-wind-mystery)
-- [Verizon bets on fiber’s staying power as it acquires Frontier for $20B](https://techcrunch.com/2024/09/05/verizon-bets-on-fibers-staying-power-as-it-acquires-frontier-for-20b/)
-- [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/)
-- [Kinsome aims to bridge the generation gap with its new app for kids and grandparents](https://techcrunch.com/2024/09/05/kinsome-new-communication-app-for-kids-and-grandparents/)
-- [Boeing Starliner astronauts have years of medical studies helping them with longer stay in space](https://www.space.com/boeing-starliner-astronauts-medical-studies-long-stay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
