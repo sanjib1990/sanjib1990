@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 1st Milky Way black hole image was groundbreaking — the next could be even better](https://www.space.com/event-horizon-black-hole-image-tests)
+- [Lyft restructures its micromobility business and Volkswagen brings ChatGPT to US vehicles](https://techcrunch.com/2024/09/05/lyft-restructures-its-micromobility-business-and-volkswagen-brings-chatgpt-to-us-vehicles/)
 - [Microsoft gives deepfake porn victims a tool to scrub images from Bing search](https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/)
 - [NASA astronauts can&#39;t wear Boeing Starliner spacesuits in SpaceX&#39;s Dragon. Here&#39;s why](https://www.space.com/boeing-starliner-astronauts-nasa-spacex-crew-dragon)
 - [Driverless car-sharing startup Vay steers toward B2B services](https://techcrunch.com/2024/09/05/driverless-car-sharing-startup-vay-steers-towards-b2b-services/)
-- [Drip Capital, a fintech that provides working capital to SMBs, picks up $113M](https://techcrunch.com/2024/09/05/drip-capital-a-fintech-that-provides-working-capital-to-smbs-picks-up-113m/)
-- [Used SpaceX rocket launches 7,001st Starlink satellites &lpar;and 20 others&rpar;, lands at sea &lpar;video&rpar;](https://www.space.com/spacex-rocket-launches-7001st-starlink-rocket-landing-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
