@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Front-end web development is changing, quickly](https://www.youtube.com/watch?v=TBIjgBVFjVI)
 - [Lecture 8: Refractive Index Diagnostics IV](https://www.youtube.com/watch?v=tR-mj5pYNSs)
 - [Lecture 19: Nuclear Diagnostics](https://www.youtube.com/watch?v=QXhQO_cOpjQ)
 - [Lecture 6: Refractive Index Diagnostics II](https://www.youtube.com/watch?v=WFF2VR7syCE)
 - [For when you can’t afford a Cybersecurity Engineer……](https://www.youtube.com/watch?v=MXqcdQXFP8U)
-- [A Helping Hand for LLMs &lpar;Retrieval Augmented Generation&rpar; - Computerphile](https://www.youtube.com/watch?v=of4UDMvi2Kw)
 <!-- YOUTUBE:END -->
 
 ---
