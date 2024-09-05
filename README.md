@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Phaethon, a weird asteroid that thinks it&#39;s a comet – our new research may explain what&#39;s going on](https://www.space.com/space-exploration/asteroid-comet-missions/meet-phaethon-a-weird-asteroid-that-thinks-its-a-comet-our-new-research-may-explain-whats-going-on)
+- [Google’s AI-powered Ask Photos feature begins U.S. rollout](https://techcrunch.com/2024/09/05/googles-ai-powered-ask-photos-feature-begins-u-s-rollout/)
+- [Endolith is using ‘Olympic caliber’ copper microbes to address the copper shortage](https://techcrunch.com/2024/09/05/endolith-is-using-olympic-caliber-copper-microbes-to-address-the-copper-shortage/)
 - [All Hands AI raises $5M to build open source agents for developers](https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-source-agents-for-developers/)
 - [TechCrunch Minute: This robotic wheelchair can climb stairs](https://techcrunch.com/video/techcrunch-minute-this-robotic-wheelchair-can-climb-stairs/)
-- [The Andromeda Galaxy glows rosy red in gorgeous new Hubble Telescope image](https://www.space.com/andromeda-galaxy-rosy-red-hubble-image)
-- [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/)
-- [German LLM maker Aleph Alpha pivots to AI support](https://techcrunch.com/2024/09/05/german-llm-maker-aleph-alpha-pivots-to-ai-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
