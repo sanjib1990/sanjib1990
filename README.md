@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google expands AI-powered virtual try-on tool to include dresses](https://techcrunch.com/2024/09/05/google-expands-ai-powered-virtual-try-on-tool-include-dresses/)
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/)
-- [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/)
-- [Is the Sagittarius constellation a teapot or an archer?](https://www.space.com/sagittarius-constellation-teapot-or-archer)
-- [YouTube to limit teens’ exposure to videos about fitness and weight across global markets](https://techcrunch.com/2024/09/05/youtube-to-limit-teens-exposure-to-videos-about-fitness-and-weight-across-global-markets/)
+- [All Hands AI raises $5M to build open source agents for developers](https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-source-agents-for-developers/)
+- [TechCrunch Minute: This robotic wheelchair can climb stairs](https://techcrunch.com/video/techcrunch-minute-this-robotic-wheelchair-can-climb-stairs/)
+- [The Andromeda Galaxy glows rosy red in gorgeous new Hubble Telescope image](https://www.space.com/andromeda-galaxy-rosy-red-hubble-image)
+- [Mintlify is building a next-gen platform for writing software docs](https://techcrunch.com/2024/09/05/mintlify-is-building-a-next-gen-platform-for-writing-software-docs/)
+- [German LLM maker Aleph Alpha pivots to AI support](https://techcrunch.com/2024/09/05/german-llm-maker-aleph-alpha-pivots-to-ai-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
