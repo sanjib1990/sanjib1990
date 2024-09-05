@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boom’s macOS camera app lets you customize your video call appearance](https://techcrunch.com/2024/09/04/boom-is-a-macos-camera-app-for-customizing-your-video-call-layout/)
 - [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/)
 - [Andreessen Horowitz shutters its Miami office after two years](https://techcrunch.com/2024/09/04/andreessen-horowitz-shutters-its-miami-office-after-two-years/)
 - [Boeing and NASA prepare to bring Starliner home without its crew on Friday](https://techcrunch.com/2024/09/04/boeing-and-nasa-prepare-to-bring-starliner-home-without-its-crew-on-friday/)
 - [Facebook says, ‘How do you do, fellow kids?’](https://techcrunch.com/2024/09/04/facebook-says-how-do-you-do-fellow-kids/)
-- [Chinese astronauts study ancient microbes aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/chinese-astronauts-ancient-microbes-tiangong-space-station-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
