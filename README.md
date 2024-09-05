@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The 1st Milky Way black hole image was groundbreaking — the next could be even better](https://www.space.com/event-horizon-black-hole-image-tests)
+- [US charges five Russian military hackers with targeting Ukraine’s government with destructive malware](https://techcrunch.com/2024/09/05/us-charges-five-russian-military-hackers-with-targeting-ukraines-government-with-destructive-malware/)
 - [Lyft restructures its micromobility business and Volkswagen brings ChatGPT to US vehicles](https://techcrunch.com/2024/09/05/lyft-restructures-its-micromobility-business-and-volkswagen-brings-chatgpt-to-us-vehicles/)
 - [Microsoft gives deepfake porn victims a tool to scrub images from Bing search](https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/)
 - [NASA astronauts can&#39;t wear Boeing Starliner spacesuits in SpaceX&#39;s Dragon. Here&#39;s why](https://www.space.com/boeing-starliner-astronauts-nasa-spacex-crew-dragon)
-- [Driverless car-sharing startup Vay steers toward B2B services](https://techcrunch.com/2024/09/05/driverless-car-sharing-startup-vay-steers-towards-b2b-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
