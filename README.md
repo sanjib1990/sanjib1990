@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A partial lunar eclipse of the Harvest Moon Supermoon is coming. Here&#39;s everything you need to know](https://www.space.com/harvest-moon-supermoon-partial-lunar-eclipse-september-2024)
 - [OSOM is shutting down on Friday](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/)
 - [Watch eerie 1st teaser for Hulu&#39;s &#39;Alien: Earth&#39; TV series &lpar;video&rpar;](https://www.space.com/hulu-alien-earth-first-teaser-trailer)
 - [Salesforce acquires data management firm Own for $1.9B in cash](https://techcrunch.com/2024/09/05/salesforce-acquires-data-management-firm-own-for-1-9b-in-cash/)
 - [NASA spacecraft captures 1st photo of its giant solar sail while tumbling in space](https://www.space.com/nasa-solar-sail-space-photo)
-- [&#39;No Man&#39;s Sky&#39; receives fishing, diving, and exo-skiffs via &#39;Aquarius&#39; update &lpar;video&rpar;](https://www.space.com/no-mans-sky-universe-alien-fishing-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
