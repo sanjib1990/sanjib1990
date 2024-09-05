@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Phaethon, a weird asteroid that thinks it&#39;s a comet – our new research may explain what&#39;s going on](https://www.space.com/space-exploration/asteroid-comet-missions/meet-phaethon-a-weird-asteroid-that-thinks-its-a-comet-our-new-research-may-explain-whats-going-on)
-- [Google’s AI-powered Ask Photos feature begins U.S. rollout](https://techcrunch.com/2024/09/05/googles-ai-powered-ask-photos-feature-begins-u-s-rollout/)
-- [Endolith is using ‘Olympic caliber’ copper microbes to address the copper shortage](https://techcrunch.com/2024/09/05/endolith-is-using-olympic-caliber-copper-microbes-to-address-the-copper-shortage/)
-- [All Hands AI raises $5M to build open source agents for developers](https://techcrunch.com/2024/09/05/all-hands-ai-raises-5m-to-build-open-source-agents-for-developers/)
-- [TechCrunch Minute: This robotic wheelchair can climb stairs](https://techcrunch.com/video/techcrunch-minute-this-robotic-wheelchair-can-climb-stairs/)
+- [Microsoft gives deepfake porn victims a tool to scrub images from Bing search](https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/)
+- [NASA astronauts can&#39;t wear Boeing Starliner spacesuits in SpaceX&#39;s Dragon. Here&#39;s why](https://www.space.com/boeing-starliner-astronauts-nasa-spacex-crew-dragon)
+- [Driverless car-sharing startup Vay steers toward B2B services](https://techcrunch.com/2024/09/05/driverless-car-sharing-startup-vay-steers-towards-b2b-services/)
+- [Drip Capital, a fintech that provides working capital to SMBs, picks up $113M](https://techcrunch.com/2024/09/05/drip-capital-a-fintech-that-provides-working-capital-to-smbs-picks-up-113m/)
+- [Used SpaceX rocket launches 7,001st Starlink satellites &lpar;and 20 others&rpar;, lands at sea &lpar;video&rpar;](https://www.space.com/spacex-rocket-launches-7001st-starlink-rocket-landing-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
