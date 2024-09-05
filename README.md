@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The 1st Milky Way black hole image was groundbreaking — the next could be even better](https://www.space.com/event-horizon-black-hole-image-tests)
-- [US charges five Russian military hackers with targeting Ukraine’s government with destructive malware](https://techcrunch.com/2024/09/05/us-charges-five-russian-military-hackers-with-targeting-ukraines-government-with-destructive-malware/)
-- [Lyft restructures its micromobility business and Volkswagen brings ChatGPT to US vehicles](https://techcrunch.com/2024/09/05/lyft-restructures-its-micromobility-business-and-volkswagen-brings-chatgpt-to-us-vehicles/)
-- [Microsoft gives deepfake porn victims a tool to scrub images from Bing search](https://techcrunch.com/2024/09/05/microsoft-gives-deepfake-porn-victims-a-tool-to-scrub-images-from-bing-search/)
-- [NASA astronauts can&#39;t wear Boeing Starliner spacesuits in SpaceX&#39;s Dragon. Here&#39;s why](https://www.space.com/boeing-starliner-astronauts-nasa-spacex-crew-dragon)
+- [OSOM is shutting down on Friday](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/)
+- [Watch eerie 1st teaser for Hulu&#39;s &#39;Alien: Earth&#39; TV series &lpar;video&rpar;](https://www.space.com/hulu-alien-earth-first-teaser-trailer)
+- [Salesforce acquires data management firm Own for $1.9B in cash](https://techcrunch.com/2024/09/05/salesforce-acquires-data-management-firm-own-for-1-9b-in-cash/)
+- [NASA spacecraft captures 1st photo of its giant solar sail while tumbling in space](https://www.space.com/nasa-solar-sail-space-photo)
+- [&#39;No Man&#39;s Sky&#39; receives fishing, diving, and exo-skiffs via &#39;Aquarius&#39; update &lpar;video&rpar;](https://www.space.com/no-mans-sky-universe-alien-fishing-update)
 <!-- BLOG-POST-LIST:END -->
 
 ---
