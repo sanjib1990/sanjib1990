@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lucky alignment of 2 spacecraft reveals how solar wind gets a magnetic push](https://www.space.com/lucky-alignment-spacecraft-sun-solar-wind-mystery)
+- [Verizon bets on fiber’s staying power as it acquires Frontier for $20B](https://techcrunch.com/2024/09/05/verizon-bets-on-fibers-staying-power-as-it-acquires-frontier-for-20b/)
 - [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/)
 - [Kinsome aims to bridge the generation gap with its new app for kids and grandparents](https://techcrunch.com/2024/09/05/kinsome-new-communication-app-for-kids-and-grandparents/)
 - [Boeing Starliner astronauts have years of medical studies helping them with longer stay in space](https://www.space.com/boeing-starliner-astronauts-medical-studies-long-stay)
-- [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/)
-- [Boom’s macOS camera app lets you customize your video call appearance](https://techcrunch.com/2024/09/04/boom-is-a-macos-camera-app-for-customizing-your-video-call-layout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
