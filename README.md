@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sedric monitors the communications of employees at financial institutions to ensure compliance](https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/)
+- [Kinsome aims to bridge the generation gap with its new app for kids and grandparents](https://techcrunch.com/2024/09/05/kinsome-new-communication-app-for-kids-and-grandparents/)
 - [Boeing Starliner astronauts have years of medical studies helping them with longer stay in space](https://www.space.com/boeing-starliner-astronauts-medical-studies-long-stay)
 - [Reonic raises €13 million to help small installers of green tech like heat pumps and solar panels](https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/)
 - [Boom’s macOS camera app lets you customize your video call appearance](https://techcrunch.com/2024/09/04/boom-is-a-macos-camera-app-for-customizing-your-video-call-layout/)
-- [Those ‘Founder mode’ memes keep coming](https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/)
-- [Andreessen Horowitz shutters its Miami office after two years](https://techcrunch.com/2024/09/04/andreessen-horowitz-shutters-its-miami-office-after-two-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
