@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google expands AI-powered virtual try-on tool to include dresses](https://techcrunch.com/2024/09/05/google-expands-ai-powered-virtual-try-on-tool-include-dresses/)
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/05/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/)
+- [Zamp targets growing demand for sales tax solutions](https://techcrunch.com/2024/09/05/zamp-targets-growing-demand-for-sales-tax-solutions/)
+- [Is the Sagittarius constellation a teapot or an archer?](https://www.space.com/sagittarius-constellation-teapot-or-archer)
 - [YouTube to limit teens’ exposure to videos about fitness and weight across global markets](https://techcrunch.com/2024/09/05/youtube-to-limit-teens-exposure-to-videos-about-fitness-and-weight-across-global-markets/)
-- [Astronaut watches a meteor explode over Earth in a bright green fireball in stunning video from ISS](https://www.space.com/meteor-green-fireball-international-space-station-matthew-dominick-video)
-- [YouTube is developing AI detection tools for music and faces, plus creator controls for AI training](https://techcrunch.com/2024/09/05/youtube-is-developing-ai-detection-tools-for-music-and-faces-plus-creator-controls-for-ai-training/)
-- [US, UK and EU sign on to the Council of Europe’s high-level AI safety treaty](https://techcrunch.com/2024/09/05/us-uk-and-eu-sign-on-to-the-council-of-europes-high-level-ai-safety-treaty/)
-- [French cleantech startup Calyxia nets $35M to tackle microplastics pollution](https://techcrunch.com/2024/09/05/french-cleantech-startup-calyxia-nets-35m-to-tackle-microplastics-pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
