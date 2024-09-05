@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Stop harassing Starlink,’ SpaceX President tells Brazilian judge](https://techcrunch.com/2024/09/05/stop-harassing-starlink-spacex-president-tells-brazilian-judge/)
 - [A partial lunar eclipse of the Harvest Moon Supermoon is coming. Here&#39;s everything you need to know](https://www.space.com/harvest-moon-supermoon-partial-lunar-eclipse-september-2024)
-- [OSOM is shutting down on Friday](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/)
+- [Osom is shutting down on Friday, as it had ‘no customers for a mobile phone’](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/)
 - [Watch eerie 1st teaser for Hulu&#39;s &#39;Alien: Earth&#39; TV series &lpar;video&rpar;](https://www.space.com/hulu-alien-earth-first-teaser-trailer)
 - [Salesforce acquires data management firm Own for $1.9B in cash](https://techcrunch.com/2024/09/05/salesforce-acquires-data-management-firm-own-for-1-9b-in-cash/)
-- [NASA spacecraft captures 1st photo of its giant solar sail while tumbling in space](https://www.space.com/nasa-solar-sail-space-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
