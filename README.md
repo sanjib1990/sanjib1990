@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We&#39;re confident in it&#39;: Boeing Starliner&#39;s parachute team readies for Crew Flight Test landing without astronauts on Sept. 7](https://www.space.com/boeing-starliner-parachute-landing-crew-flight-test)
+- [TechCrunch Minute: Canva faces backlash over price hikes](https://techcrunch.com/video/techcrunch-minute-canva-faces-backlash-over-price-hikes/)
+- [The New Data Pipeline: Fivetran, DataStax and NEA are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/the-new-data-pipeline-fivetran-datastax-and-nea-are-coming-to-techcrunch-disrupt-2024/)
 - [Transport for London outages drag into weekend after cyberattack](https://techcrunch.com/2024/09/06/transport-for-london-outages-drag-into-weekend-after-cyberattack/)
 - [Happy Star Trek Day: Paramount serves up free sample of TV shows to celebrate](https://www.space.com/star-trek-day-2024-paramount-tv-shows)
-- [Last call: Boost your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/last-call-boost-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/)
-- [Instagram DMs get upgraded with new features](https://techcrunch.com/2024/09/06/instagram-is-adding-new-photo-editing-features-to-dms/)
-- [Students and recent grads: Last day to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/06/students-and-recent-grads-last-day-to-save-on-techcrunch-disrupt-2024-student-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
