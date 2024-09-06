@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Boeing’s Starliner head home to Earth without astronauts today](https://www.space.com/boeing-starliner-crew-flight-test-earth-return-webcast)
+- [Elon Musk’s X could still face sanctions for training Grok on Europeans’ data](https://techcrunch.com/2024/09/06/elon-musks-x-could-still-face-sanctions-for-training-grok-on-europeans-data/)
 - [SpaceX launches next-gen US spy satellites on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-nrol-113-spy-satellites-launch)
 - [Telegram quietly enables users to report private chats to moderators after founder’s arrest](https://techcrunch.com/2024/09/05/telegram-quietly-enables-users-to-report-private-chats-to-moderators-after-founders-arrest/)
 - [‘Stop harassing Starlink,’ SpaceX president tells Brazilian judge](https://techcrunch.com/2024/09/05/stop-harassing-starlink-spacex-president-tells-brazilian-judge/)
-- [A partial lunar eclipse of the Harvest Moon Supermoon is coming. Here&#39;s everything you need to know](https://www.space.com/harvest-moon-supermoon-partial-lunar-eclipse-september-2024)
-- [Osom is shutting down on Friday, as it had ‘no customers for a mobile phone’](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
