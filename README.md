@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [University of Texas opens robotics program up to incoming freshmen](https://techcrunch.com/2024/09/06/university-of-texas-opens-robotics-program-up-to-incoming-freshmen/)
+- [The best 60s sci-fi movies](https://www.space.com/the-best-60s-sci-fi-movies)
+- [&#39;Slingshot&#39; exclusive: Director Mikael Håfström discusses his haunting new sci-fi thriller](https://www.space.com/slingshot-director-michael-hafstrom-interview)
 - [An annular solar eclipse will put a &#39;ring of fire&#39; above one of the most isolated spots on Earth: Easter Island](https://www.space.com/annular-solar-eclipse-october-2-2024)
 - [C-Zero is raising $18M to make emission-free hydrogen using natural gas, filings reveal](https://techcrunch.com/2024/09/06/c-zero-is-raising-18m-to-make-emission-free-hydrogen-using-natural-gas-filings-reveal/)
-- [Meta will let third-party apps place calls to WhatsApp and Messenger users — in 2027](https://techcrunch.com/2024/09/06/meta-will-let-third-party-apps-place-calls-to-whatsapp-and-messenger-users-in-2027/)
-- [Roblox introduces new earning opportunities for creators, teases generative AI project](https://techcrunch.com/2024/09/06/roblox-introduces-new-earning-opportunities-for-creators-teases-generative-ai-project/)
-- [Startups have to be clever when fighting larger rivals](https://techcrunch.com/2024/09/06/startups-have-to-be-clever-when-fighting-larger-rivals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
