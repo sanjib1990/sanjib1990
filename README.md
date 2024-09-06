@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An annular solar eclipse will put a &#39;ring of fire&#39; above one of the most isolated spots on Earth: Easter Island](https://www.space.com/annular-solar-eclipse-october-2-2024)
+- [C-Zero is raising $18M to make emission-free hydrogen using natural gas, filings reveal](https://techcrunch.com/2024/09/06/c-zero-is-raising-18m-to-make-emission-free-hydrogen-using-natural-gas-filings-reveal/)
+- [Meta will let third-party apps place calls to WhatsApp and Messenger users — in 2027](https://techcrunch.com/2024/09/06/meta-will-let-third-party-apps-place-calls-to-whatsapp-and-messenger-users-in-2027/)
+- [Roblox introduces new earning opportunities for creators, teases generative AI project](https://techcrunch.com/2024/09/06/roblox-introduces-new-earning-opportunities-for-creators-teases-generative-ai-project/)
 - [Startups have to be clever when fighting larger rivals](https://techcrunch.com/2024/09/06/startups-have-to-be-clever-when-fighting-larger-rivals/)
-- [Netflix&#39;s &#39;Apollo 13: Survival&#39; is a superb examination of NASA&#39;s finest hour &lpar;review&rpar;](https://www.space.com/netflix-apollo-13-survival-review)
-- [NFL season kicks off in Brazil, but reporters and fans can’t post on X due to nationwide ban](https://techcrunch.com/2024/09/06/nfl-season-kicks-off-in-brazil-but-reporters-and-fans-cant-post-on-x-due-to-nationwide-ban/)
-- [VC pitch show ‘Meet the Drapers’ partners with TikTok](https://techcrunch.com/2024/09/06/vc-pitch-show-meet-the-drapers-partners-with-tiktok/)
-- [Public EV startup with an indicted CEO is looking to raise an additional $100 million](https://techcrunch.com/2024/09/06/public-ev-startup-with-an-indicted-ceo-is-looking-to-raise-an-additional-100-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
