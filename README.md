@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real estate revolutions and beanie baby economies](https://techcrunch.com/2024/09/06/real-estate-revolutions-and-beanie-baby-economies/)
+- [China to test lunar-soil bricks in space to pave the way for its planned moon base](https://www.space.com/china-moon-bricks-test-tiangong-space-station)
+- [China&#39;s mysterious space plane returns to Earth after 268 days in orbit](https://www.space.com/china-space-plane-lands-268-days)
 - [NASA&#39;s solar sail spacecraft is visible in the night sky. Here&#39;s how to see it](https://www.space.com/nasa-solar-sail-how-to-see-night-sky)
 - [BepiColombo probe captures stunning Mercury images in closest flyby yet](https://www.space.com/bepicolombo-mercury-probe-flyby-images)
-- [Google faces provisional antitrust charges in UK for ‘self-preferencing’ its ad exchange](https://techcrunch.com/2024/09/06/google-faces-provisional-antitrust-charges-in-uk-for-self-preferencing-its-ad-exchange/)
-- [Karo is a to-do app that lets you assign tasks to your friends and family](https://techcrunch.com/2024/09/06/karo-is-a-to-do-app-that-lets-you-assign-tasks-to-your-friends-and-family/)
-- [Watch Boeing’s Starliner head home to Earth without astronauts today](https://www.space.com/boeing-starliner-crew-flight-test-earth-return-webcast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
