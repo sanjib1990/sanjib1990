@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches next-gen US spy satellites on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-nrol-113-spy-satellites-launch)
 - [Telegram quietly enables users to report private chats to moderators after founder’s arrest](https://techcrunch.com/2024/09/05/telegram-quietly-enables-users-to-report-private-chats-to-moderators-after-founders-arrest/)
 - [‘Stop harassing Starlink,’ SpaceX president tells Brazilian judge](https://techcrunch.com/2024/09/05/stop-harassing-starlink-spacex-president-tells-brazilian-judge/)
 - [A partial lunar eclipse of the Harvest Moon Supermoon is coming. Here&#39;s everything you need to know](https://www.space.com/harvest-moon-supermoon-partial-lunar-eclipse-september-2024)
 - [Osom is shutting down on Friday, as it had ‘no customers for a mobile phone’](https://techcrunch.com/2024/09/05/osom-is-shutting-down-on-friday/)
-- [Watch eerie 1st teaser for Hulu&#39;s &#39;Alien: Earth&#39; TV series &lpar;video&rpar;](https://www.space.com/hulu-alien-earth-first-teaser-trailer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
