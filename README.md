@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BepiColombo probe captures stunning Mercury images in closest flyby yet](https://www.space.com/bepicolombo-mercury-probe-flyby-images)
 - [Google faces provisional antitrust charges in UK for ‘self-preferencing’ its ad exchange](https://techcrunch.com/2024/09/06/google-faces-provisional-antitrust-charges-in-uk-for-self-preferencing-its-ad-exchange/)
 - [Karo is a to-do app that lets you assign tasks to your friends and family](https://techcrunch.com/2024/09/06/karo-is-a-to-do-app-that-lets-you-assign-tasks-to-your-friends-and-family/)
 - [Watch Boeing’s Starliner head home to Earth without astronauts today](https://www.space.com/boeing-starliner-crew-flight-test-earth-return-webcast)
 - [Elon Musk’s X could still face sanctions for training Grok on Europeans’ data](https://techcrunch.com/2024/09/06/elon-musks-x-could-still-face-sanctions-for-training-grok-on-europeans-data/)
-- [SpaceX launches next-gen US spy satellites on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-nrol-113-spy-satellites-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
