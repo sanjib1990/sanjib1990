@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Real estate revolutions and beanie baby economies](https://techcrunch.com/2024/09/06/real-estate-revolutions-and-beanie-baby-economies/)
-- [China to test lunar-soil bricks in space to pave the way for its planned moon base](https://www.space.com/china-moon-bricks-test-tiangong-space-station)
-- [China&#39;s mysterious space plane returns to Earth after 268 days in orbit](https://www.space.com/china-space-plane-lands-268-days)
-- [NASA&#39;s solar sail spacecraft is visible in the night sky. Here&#39;s how to see it](https://www.space.com/nasa-solar-sail-how-to-see-night-sky)
-- [BepiColombo probe captures stunning Mercury images in closest flyby yet](https://www.space.com/bepicolombo-mercury-probe-flyby-images)
+- [Transport for London outages drag into weekend after cyberattack](https://techcrunch.com/2024/09/06/transport-for-london-outages-drag-into-weekend-after-cyberattack/)
+- [Happy Star Trek Day: Paramount serves up free sample of TV shows to celebrate](https://www.space.com/star-trek-day-2024-paramount-tv-shows)
+- [Last call: Boost your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/06/last-call-boost-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/)
+- [Instagram DMs get upgraded with new features](https://techcrunch.com/2024/09/06/instagram-is-adding-new-photo-editing-features-to-dms/)
+- [Students and recent grads: Last day to save on TechCrunch Disrupt 2024 Student Passes](https://techcrunch.com/2024/09/06/students-and-recent-grads-last-day-to-save-on-techcrunch-disrupt-2024-student-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
