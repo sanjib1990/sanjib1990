@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [never leave the terminal](https://www.youtube.com/watch?v=6h9sjYm9vTE)
+- [a Terminal Web Browser??](https://www.youtube.com/watch?v=6h9sjYm9vTE)
 - [Front-end web development is changing, quickly](https://www.youtube.com/watch?v=TBIjgBVFjVI)
 - [Lecture 8: Refractive Index Diagnostics IV](https://www.youtube.com/watch?v=tR-mj5pYNSs)
 - [Lecture 19: Nuclear Diagnostics](https://www.youtube.com/watch?v=QXhQO_cOpjQ)
