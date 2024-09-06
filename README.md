@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The maiden voyage of Blue Origin’s massive new rocket won’t be for NASA](https://techcrunch.com/2024/09/06/the-maiden-voyage-of-blue-origins-massive-new-rocket-wont-be-for-nasa/)
+- [James Webb Space Telescope zooms in on giant question mark in space &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-question-mark-interacting-galaxies)
+- [Watch live as Boeing and NASA attempt to bring empty Starliner back to Earth](https://techcrunch.com/2024/09/06/watch-live-as-boeing-and-nasa-attempt-to-bring-empty-starliner-back-to-earth/)
 - [Wealthy Harris donors are reportedly pressing for ouster of FTC Chair Lina Khan](https://techcrunch.com/2024/09/06/wealthy-harris-donors-are-reportedly-pressing-for-ouster-of-ftc-chair-lina-khan/)
 - [How a cold email to a VC helped salon software startup Mangomint raise $35M](https://techcrunch.com/2024/09/06/how-a-cold-email-to-a-vc-helped-salon-software-startup-mangomint-raise-35m/)
-- [NASA delays ESCAPADE Mars launch on Blue Origin&#39;s giant New Glenn rocket to 2025 to avoid potential cost overruns](https://www.space.com/nasa-delays-escapade-mars-launch-on-blue-origin-new-glenn-rocket-2025)
-- [Boeing&#39;s Starliner ready to head home to Earth today](https://www.space.com/starliner-ready-return-to-earth-cft)
-- [University of Texas opens robotics program up to incoming freshmen](https://techcrunch.com/2024/09/06/university-of-texas-opens-robotics-program-up-to-incoming-freshmen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
