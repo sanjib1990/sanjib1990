@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wealthy Harris donors are reportedly pressing for ouster of FTC Chair Lina Khan](https://techcrunch.com/2024/09/06/wealthy-harris-donors-are-reportedly-pressing-for-ouster-of-ftc-chair-lina-khan/)
+- [How a cold email to a VC helped salon software startup Mangomint raise $35M](https://techcrunch.com/2024/09/06/how-a-cold-email-to-a-vc-helped-salon-software-startup-mangomint-raise-35m/)
+- [NASA delays ESCAPADE Mars launch on Blue Origin&#39;s giant New Glenn rocket to 2025 to avoid potential cost overruns](https://www.space.com/nasa-delays-escapade-mars-launch-on-blue-origin-new-glenn-rocket-2025)
 - [Boeing&#39;s Starliner ready to head home to Earth today](https://www.space.com/starliner-ready-return-to-earth-cft)
 - [University of Texas opens robotics program up to incoming freshmen](https://techcrunch.com/2024/09/06/university-of-texas-opens-robotics-program-up-to-incoming-freshmen/)
-- [The best 60s sci-fi movies](https://www.space.com/the-best-60s-sci-fi-movies)
-- [&#39;Slingshot&#39; exclusive: Director Mikael Håfström discusses his haunting new sci-fi thriller](https://www.space.com/slingshot-director-michael-hafstrom-interview)
-- [An annular solar eclipse will put a &#39;ring of fire&#39; above one of the most isolated spots on Earth: Easter Island](https://www.space.com/annular-solar-eclipse-october-2-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
