@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars leaks faster when closer to the sun](https://www.space.com/mars-water-leaking-sun)
+- [Google to receive punishment for search monopoly by next August, says judge](https://techcrunch.com/2024/09/06/google-to-receive-punishment-for-search-monopoly-by-next-august-says-judge/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/06/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [The maiden voyage of Blue Origin’s massive new rocket won’t be for NASA](https://techcrunch.com/2024/09/06/the-maiden-voyage-of-blue-origins-massive-new-rocket-wont-be-for-nasa/)
 - [James Webb Space Telescope zooms in on giant question mark in space &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-question-mark-interacting-galaxies)
-- [Watch live as Boeing and NASA attempt to bring empty Starliner back to Earth](https://techcrunch.com/2024/09/06/watch-live-as-boeing-and-nasa-attempt-to-bring-empty-starliner-back-to-earth/)
-- [Wealthy Harris donors are reportedly pressing for ouster of FTC Chair Lina Khan](https://techcrunch.com/2024/09/06/wealthy-harris-donors-are-reportedly-pressing-for-ouster-of-ftc-chair-lina-khan/)
-- [How a cold email to a VC helped salon software startup Mangomint raise $35M](https://techcrunch.com/2024/09/06/how-a-cold-email-to-a-vc-helped-salon-software-startup-mangomint-raise-35m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
