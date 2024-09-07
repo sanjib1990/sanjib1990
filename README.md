@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canva wants you to pay a lot more for its AI features](https://techcrunch.com/2024/09/07/canva-wants-you-to-pay-a-lot-more-for-its-ai-features/)
+- [Boeing’s Starliner performs flawless touchdown without on-board crew, program’s future remains uncertain](https://techcrunch.com/2024/09/07/boeings-starliner-performs-flawless-touchdown-without-on-board-crew-programs-future-remains-uncertain/)
 - [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/)
 - [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/)
 - [This Week In Space podcast: Episode 127 —Space Stations Inc.](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-127-space-stations-inc)
-- [Boeing&#39;s Starliner capsule just landed with no crew aboard. What&#39;s next for this astronaut taxi?](https://www.space.com/boeing-starliner-next-iss-mission-nasa-plan)
-- [For security, we have to stop picking up the phone](https://techcrunch.com/2024/09/07/for-security-we-have-to-stop-picking-up-the-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
