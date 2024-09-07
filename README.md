@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Telegram reportedly ‘inundated’ with illegal and extremist activity](https://techcrunch.com/2024/09/07/telegram-reportedly-inundated-with-illegal-and-extremist-activity/)
+- [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/)
 - [Payroll startup Warp disavows ‘affiliate’ who posted about white superiority](https://techcrunch.com/2024/09/07/payroll-startup-warp-disavows-affiliate-who-posted-about-white-superiority/)
 - [Canva wants you to pay a lot more for its AI features](https://techcrunch.com/2024/09/07/canva-wants-you-to-pay-a-lot-more-for-its-ai-features/)
 - [Boeing’s Starliner performs flawless touchdown without on-board crew, program’s future remains uncertain](https://techcrunch.com/2024/09/07/boeings-starliner-performs-flawless-touchdown-without-on-board-crew-programs-future-remains-uncertain/)
-- [Aptos CEO Mo Shaikh shares his journey to web3 and market opportunities in Asia and Middle East](https://techcrunch.com/2024/09/07/aptos-ceo-mo-shaikh-shares-his-journey-to-web3-and-market-opportunities-in-asia-and-middle-east/)
-- [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
