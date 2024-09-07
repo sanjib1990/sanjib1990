@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Saturn at its biggest and brightest tonight before its rings &#39;disappear&#39; in 2025](https://www.space.com/saturn-opposition-september-8-2024)
+- [How a viral AI image catapulted a Mexican startup to a major adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/)
 - [Boeing Starliner capsule lands back on Earth, without astronauts, to end troubled test flight &lpar;video&rpar;](https://www.space.com/boeing-starliner-lands-earth-crew-flight-test-mission)
 - [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/)
 - [Mars leaks faster when closer to the sun](https://www.space.com/mars-water-leaking-sun)
-- [Google to receive punishment for search monopoly by next August, says judge](https://techcrunch.com/2024/09/06/google-to-receive-punishment-for-search-monopoly-by-next-august-says-judge/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/06/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
