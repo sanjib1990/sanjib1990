@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startups are getting fined, or sometimes banned, by individual states](https://techcrunch.com/2024/09/07/startups-are-getting-fined-or-sometimes-banned-by-individual-states/)
+- [This Week In Space podcast: Episode 127 —Space Stations Inc.](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-127-space-stations-inc)
 - [Boeing&#39;s Starliner capsule just landed with no crew aboard. What&#39;s next for this astronaut taxi?](https://www.space.com/boeing-starliner-next-iss-mission-nasa-plan)
 - [For security, we have to stop picking up the phone](https://techcrunch.com/2024/09/07/for-security-we-have-to-stop-picking-up-the-phone/)
 - [See Saturn at its biggest and brightest tonight before its rings &#39;disappear&#39; in 2025](https://www.space.com/saturn-opposition-september-8-2024)
-- [How a viral AI image catapulted a Mexican startup to a major adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/)
-- [Boeing Starliner capsule lands back on Earth, without astronauts, to end troubled test flight &lpar;video&rpar;](https://www.space.com/boeing-starliner-lands-earth-crew-flight-test-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
