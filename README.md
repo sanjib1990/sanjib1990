@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing&#39;s Starliner capsule just landed with no crew aboard. What&#39;s next for this astronaut taxi?](https://www.space.com/boeing-starliner-next-iss-mission-nasa-plan)
+- [For security, we have to stop picking up the phone](https://techcrunch.com/2024/09/07/for-security-we-have-to-stop-picking-up-the-phone/)
 - [See Saturn at its biggest and brightest tonight before its rings &#39;disappear&#39; in 2025](https://www.space.com/saturn-opposition-september-8-2024)
 - [How a viral AI image catapulted a Mexican startup to a major adidas contract](https://techcrunch.com/2024/09/07/how-a-viral-ai-image-catapulted-a-mexican-startup-to-a-major-adidas-contract/)
 - [Boeing Starliner capsule lands back on Earth, without astronauts, to end troubled test flight &lpar;video&rpar;](https://www.space.com/boeing-starliner-lands-earth-crew-flight-test-mission)
-- [Second Byju’s auditor exits in a year amid bankruptcy proceedings](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/)
-- [Mars leaks faster when closer to the sun](https://www.space.com/mars-water-leaking-sun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
