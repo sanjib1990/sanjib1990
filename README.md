@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Second Byju’s auditor exits in a year as financial turmoil deepens](https://techcrunch.com/2024/09/06/second-byjus-auditor-exits-in-a-year-as-financial-turmoil-deepens/)
 - [Mars leaks faster when closer to the sun](https://www.space.com/mars-water-leaking-sun)
 - [Google to receive punishment for search monopoly by next August, says judge](https://techcrunch.com/2024/09/06/google-to-receive-punishment-for-search-monopoly-by-next-august-says-judge/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/06/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [The maiden voyage of Blue Origin’s massive new rocket won’t be for NASA](https://techcrunch.com/2024/09/06/the-maiden-voyage-of-blue-origins-massive-new-rocket-wont-be-for-nasa/)
-- [James Webb Space Telescope zooms in on giant question mark in space &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-question-mark-interacting-galaxies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
