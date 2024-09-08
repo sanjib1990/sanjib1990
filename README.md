@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electro-hydraulic muscles help these robot legs stand straight on uneven terrain](https://techcrunch.com/2024/09/08/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/)
 - [SpaceX will start launching Starships to Mars in 2026, Elon Musk says](https://www.space.com/spacex-starship-mars-launches-2026-elon-musk)
 - [Telegram reportedly ‘inundated’ with illegal and extremist activity](https://techcrunch.com/2024/09/07/telegram-reportedly-inundated-with-illegal-and-extremist-activity/)
 - [Bluesky grows to 9M+ users](https://techcrunch.com/2024/09/07/bluesky-grows-to-9m-users/)
 - [Payroll startup Warp disavows ‘affiliate’ who posted about white superiority](https://techcrunch.com/2024/09/07/payroll-startup-warp-disavows-affiliate-who-posted-about-white-superiority/)
-- [Canva wants you to pay a lot more for its AI features](https://techcrunch.com/2024/09/07/canva-wants-you-to-pay-a-lot-more-for-its-ai-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
