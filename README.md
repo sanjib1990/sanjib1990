@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European VC Atomico closes $1.24B across two funds for early and growth-stage startups](https://techcrunch.com/2024/09/08/european-vc-atomico-closes-1-24b-across-two-funds-for-early-and-growth-stage-startups/)
 - [The Try Guys say their subscription strategy is working](https://techcrunch.com/2024/09/08/the-try-guys-say-their-subscription-strategy-starting-to-work/)
 - [Apple Intelligence delays could impede iPhone 16 ‘supercycle’](https://techcrunch.com/2024/09/08/apple-intelligence-delays-could-impede-iphone-16-supercycle/)
 - [Elon Musk says Tesla has ‘no need’ to license xAI models](https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/)
 - [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/)
-- [Bending Spoons plans to lay off 75% of WeTransfer staff after acquisition](https://techcrunch.com/2024/09/08/bending-spoons-plans-to-lay-off-75-of-wetransfer-staff-after-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
