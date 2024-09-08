@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La French Tech gears up to go in a new direction](https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/)
+- [Bending Spoons plans to lay off 75% of WeTransfer staff after acquisition](https://techcrunch.com/2024/09/08/bending-spoons-plans-to-lay-off-75-of-wetransfer-staff-after-acquisition/)
 - [Meta Llama: Everything you need to know about the open generative AI model](https://techcrunch.com/2024/09/08/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/)
 - [Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected ‘Glowtime’ reveals](https://techcrunch.com/2024/09/08/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/)
 - [&#39;Lego Star Wars: Rebuild the Galaxy&#39; premiers this week. Watch epic 1st clip &lpar;video&rpar;](https://www.space.com/lego-star-wars-rebuild-the-galaxy-premiers-this-week-watch-epic-1st-clip)
-- [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/)
-- [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
