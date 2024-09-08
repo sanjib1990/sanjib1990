@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Lego Star Wars: Rebuild the Galaxy&#39; premiers this week. Watch epic 1st clip &lpar;video&rpar;](https://www.space.com/lego-star-wars-rebuild-the-galaxy-premiers-this-week-watch-epic-1st-clip)
+- [Sunamp’s thermal battery uses a chemical found in salt-and-vinegar potato chips](https://techcrunch.com/2024/09/08/sunamps-thermal-battery-uses-a-chemical-found-in-salt-and-vinegar-potato-chips/)
 - [The coolest startup in the Bay Area is a baseball team called the Oakland Ballers](https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/)
 - [Doom games ranked, worst to best](https://www.space.com/doom-games-ranked-worst-to-best)
-- [Electro-hydraulic muscles help these robot legs stand straight on uneven terrain](https://techcrunch.com/2024/09/08/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/)
 - [SpaceX will start launching Starships to Mars in 2026, Elon Musk says](https://www.space.com/spacex-starship-mars-launches-2026-elon-musk)
-- [Telegram reportedly ‘inundated’ with illegal and extremist activity](https://techcrunch.com/2024/09/07/telegram-reportedly-inundated-with-illegal-and-extremist-activity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
