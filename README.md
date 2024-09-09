@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [iPhone 16, Apple Intelligence and more: Everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-and-more-everything-revealed-at-apple-event-2024/)
-- [AI-powered visual search comes to the iPhone](https://techcrunch.com/2024/09/09/ai-powered-visual-search-comes-to-the-iphone/)
-- [Apple adds a dedicated camera button on iPhone 16](https://techcrunch.com/2024/09/09/apple-adds-a-dedicated-camera-button-on-iphone-16/)
-- [Apple announces its new A18 iPhone chip](https://techcrunch.com/2024/09/09/apple-announces-its-new-a18-iphone-chip/)
-- [Apple updates AirPods Max headphones with a USB-C port and new colors](https://techcrunch.com/2024/09/09/apple-updates-airpods-max-headphones-with-a-usb-c-port-and-new-colors/)
+- [iPhone 16, Apple Intelligence, AirPods 4 and more: Live updates on everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
+- [The moon might still have active volcanoes, China&#39;s Chang&#39;e 5 sample-return probe reveals](https://www.space.com/moon-volcanically-active-today-china-change-5)
+- [Here’s the full list of 35 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/09/09/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
+- [Apple will make iOS 18 available to all users on September 16](https://techcrunch.com/2024/09/09/apple-will-make-ios-18-available-to-all-users-on-september-16/)
+- [Apple to release AI-focused macOS Sequoia September 16 in record time](https://techcrunch.com/2024/09/09/apple-to-release-ai-focused-macos-sequoia-september-16-in-record-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
