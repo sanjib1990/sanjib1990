@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: Boeing’s Starliner returns to Earth](https://techcrunch.com/2024/09/09/techcrunch-space-boeings-starliner-returns-to-earth/)
+- [iPhone 16, Apple Intelligence, AirPods 4 and more: Live updates on everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
 - [Astronauts would have been fine on Boeing&#39;s Starliner during landing, NASA says](https://www.space.com/nasa-boeing-starliner-cft-could-have-returned-safely-with-crew-nasa-says)
 - [Why Apple added yet another button to the iPhone 16](https://techcrunch.com/2024/09/09/why-apple-added-yet-another-button-to-the-iphone-16/)
 - [Audible recruits voice actors to train audiobook-generating AI](https://techcrunch.com/2024/09/09/audible-recruits-voice-actors-to-train-audiobook-generating-ai/)
-- [Climate change was a lot less prominent in this year’s iPhone event](https://techcrunch.com/2024/09/09/climate-change-was-a-lot-less-prominent-in-this-years-iphone-event/)
-- [iPhone 16, Apple Intelligence, AirPods 4 and more: Live updates on everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
