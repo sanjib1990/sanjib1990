@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Watch Series 10 debuts with bigger screen, thinner display](https://techcrunch.com/2024/09/09/apple-watch-series-10-debuts-with-bigger-screen-thinner-display/)
 - [iPhone 16, Apple Intelligence and more: Everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-and-more-everything-revealed-at-apple-event-2024/)
-- [&#39;Warhammer 40K: Space Marine 2&#39; charges bravely onto PC and consoles today &lpar;video&rpar;](https://www.space.com/warhammer-40k-space-marine-2-launch-trailer)
-- [U.S., China and other nations convene in Seoul for summit on AI use in military](https://techcrunch.com/2024/09/09/u-s-china-and-other-nations-convene-in-seoul-for-summit-on-ai-use-in-military/)
-- [Life on alien planets probably wouldn&#39;t experience day and night – here&#39;s how that may change evolution](https://www.space.com/life-alien-planets-wouldnt-experience-day-and-night-evolution)
+- [AI-powered visual search comes to the iPhone](https://techcrunch.com/2024/09/09/ai-powered-visual-search-comes-to-the-iphone/)
+- [Apple adds a dedicated camera button on iPhone 16](https://techcrunch.com/2024/09/09/apple-adds-a-dedicated-camera-button-on-iphone-16/)
+- [Apple announces its new A18 iPhone chip](https://techcrunch.com/2024/09/09/apple-announces-its-new-a18-iphone-chip/)
+- [Apple updates AirPods Max headphones with a USB-C port and new colors](https://techcrunch.com/2024/09/09/apple-updates-airpods-max-headphones-with-a-usb-c-port-and-new-colors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
