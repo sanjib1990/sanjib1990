@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a 100,000-mile-high tower of plasma erupt from the sun in this stunning video](https://www.space.com/sun-solar-prominence-100000-miles-high-video)
+- [Sonos delays set-top box after flawed app update](https://techcrunch.com/2024/09/09/sonos-delays-set-top-box-after-flawed-app-update/)
+- [EV startup Ather seeks to raise $370 million in India IPO](https://techcrunch.com/2024/09/09/ev-startup-ather-seeks-to-raise-370-million-in-india-ipo/)
 - [Electro-hydraulic muscles help these robot legs stand straight on uneven terrain](https://techcrunch.com/2024/09/09/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/)
 - [European VC Atomico closes $1.24B across two funds for early and growth-stage startups](https://techcrunch.com/2024/09/08/european-vc-atomico-closes-1-24b-across-two-funds-for-early-and-growth-stage-startups/)
-- [The Try Guys say their subscription strategy is working](https://techcrunch.com/2024/09/08/the-try-guys-say-their-subscription-strategy-starting-to-work/)
-- [Apple Intelligence delays could impede iPhone 16 ‘supercycle’](https://techcrunch.com/2024/09/08/apple-intelligence-delays-could-impede-iphone-16-supercycle/)
-- [Elon Musk says Tesla has ‘no need’ to license xAI models](https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
