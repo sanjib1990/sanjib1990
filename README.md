@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts would have been fine on Boeing&#39;s Starliner during landing, NASA says](https://www.space.com/nasa-boeing-starliner-cft-could-have-returned-safely-with-crew-nasa-says)
+- [Why Apple added yet another button to the iPhone 16](https://techcrunch.com/2024/09/09/why-apple-added-yet-another-button-to-the-iphone-16/)
+- [Audible recruits voice actors to train audiobook-generating AI](https://techcrunch.com/2024/09/09/audible-recruits-voice-actors-to-train-audiobook-generating-ai/)
+- [Climate change was a lot less prominent in this year’s iPhone event](https://techcrunch.com/2024/09/09/climate-change-was-a-lot-less-prominent-in-this-years-iphone-event/)
 - [iPhone 16, Apple Intelligence, AirPods 4 and more: Live updates on everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
-- [Confluent acquires streaming data startup WarpStream](https://techcrunch.com/2024/09/09/confluent-acquires-streaming-data-startup-warpstream/)
-- [Apple sets lower iPhone 16 Pro prices in India](https://techcrunch.com/2024/09/09/apple-sets-lower-iphone-16-pro-prices-in-india/)
-- [Here are all the devices compatible with iOS 18](https://techcrunch.com/2024/09/09/here-are-all-the-devices-compatible-with-ios-18/)
-- [SpaceX&#39;s Polaris Dawn astronauts will make a daring trek into Earth&#39;s Van Allen radiation belt](https://www.space.com/spacex-polaris-dawn-astronauts-earth-van-allen-radiation-belt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
