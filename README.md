@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YC alum Odigos aims to help enterprises find errors and stamp out latency in their systems](https://techcrunch.com/2024/09/09/yc-alum-odigos-aims-to-help-enterprises-find-errors-and-stamp-out-latency-in-their-systems/)
+- [Best Transformers shows of all time](https://www.space.com/best-transformers-shows-of-all-time)
 - [The biggest galaxies live in our universe&#39;s supercluster &#39;cities&#39;](https://www.space.com/bigger-galaxies-dense-environments-machine-learning)
 - [Miami-based AI bookkeeping startup finally has raised another big round: $200M in equity and debt](https://techcrunch.com/2024/09/09/miami-based-ai-bookkeeping-startup-finally-has-raised-another-big-round-200m-in-equity-and-debt/)
 - [Thousands of Avis car rental customers had personal data stolen in cyberattack](https://techcrunch.com/2024/09/09/thousands-of-avis-car-rental-customers-had-personal-data-stolen-in-cyberattack/)
-- [Watch a 100,000-mile-high tower of plasma erupt from the sun in this stunning video](https://www.space.com/sun-solar-prominence-100000-miles-high-video)
-- [Sonos delays set-top box after flawed app update](https://techcrunch.com/2024/09/09/sonos-delays-set-top-box-after-flawed-app-update/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
