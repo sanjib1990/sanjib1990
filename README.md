@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/09/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/)
-- [How to watch the iPhone 16 reveal during this year’s big Apple Event](https://techcrunch.com/2024/09/09/how-to-watch-the-iphone-16-reveal-during-this-years-big-apple-event/)
-- [Bug lets anyone bypass WhatsApp’s ‘View Once’ privacy feature](https://techcrunch.com/2024/09/09/bug-lets-anyone-bypass-whatsapps-view-once-privacy-feature/)
-- [A particularly active &#39;aurora season&#39; could be just weeks away](https://www.space.com/sun-a-particularly-active-aurora-season-could-be-just-weeks-away)
+- [Alpha Partners raises $153M third fund for pro-rata investments](https://techcrunch.com/2024/09/09/alpha-partners-raises-153m-third-fund-for-pro-rata-investments/)
+- [TechCrunch Minute: Another blow to the Internet Archive’s lending library](https://techcrunch.com/video/techcrunch-minute-another-blow-to-the-internet-archives-lending-library/)
 - [Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected ‘Glowtime’ reveals](https://techcrunch.com/2024/09/09/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/)
+- [Progress acquires file management platform ShareFile for $875M](https://techcrunch.com/2024/09/09/progress-acquires-file-management-platform-sharefile-for-875m/)
+- [How AI is helping us search the universe for alien technosignatures](https://www.space.com/how-ai-is-helping-search-for-alien-technosignatures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
