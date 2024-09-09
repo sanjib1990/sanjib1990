@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alpha Partners raises $153M third fund for pro-rata investments](https://techcrunch.com/2024/09/09/alpha-partners-raises-153m-third-fund-for-pro-rata-investments/)
-- [TechCrunch Minute: Another blow to the Internet Archive’s lending library](https://techcrunch.com/video/techcrunch-minute-another-blow-to-the-internet-archives-lending-library/)
-- [Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected ‘Glowtime’ reveals](https://techcrunch.com/2024/09/09/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/)
-- [Progress acquires file management platform ShareFile for $875M](https://techcrunch.com/2024/09/09/progress-acquires-file-management-platform-sharefile-for-875m/)
-- [How AI is helping us search the universe for alien technosignatures](https://www.space.com/how-ai-is-helping-search-for-alien-technosignatures)
+- [Apple Watch Series 10 debuts with bigger screen, thinner display](https://techcrunch.com/2024/09/09/apple-watch-series-10-debuts-with-bigger-screen-thinner-display/)
+- [iPhone 16, Apple Intelligence and more: Everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-and-more-everything-revealed-at-apple-event-2024/)
+- [&#39;Warhammer 40K: Space Marine 2&#39; charges bravely onto PC and consoles today &lpar;video&rpar;](https://www.space.com/warhammer-40k-space-marine-2-launch-trailer)
+- [U.S., China and other nations convene in Seoul for summit on AI use in military](https://techcrunch.com/2024/09/09/u-s-china-and-other-nations-convene-in-seoul-for-summit-on-ai-use-in-military/)
+- [Life on alien planets probably wouldn&#39;t experience day and night – here&#39;s how that may change evolution](https://www.space.com/life-alien-planets-wouldnt-experience-day-and-night-evolution)
 <!-- BLOG-POST-LIST:END -->
 
 ---
