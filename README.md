@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The biggest galaxies live in our universe&#39;s supercluster &#39;cities&#39;](https://www.space.com/bigger-galaxies-dense-environments-machine-learning)
+- [Miami-based AI bookkeeping startup finally has raised another big round: $200M in equity and debt](https://techcrunch.com/2024/09/09/miami-based-ai-bookkeeping-startup-finally-has-raised-another-big-round-200m-in-equity-and-debt/)
+- [Thousands of Avis car rental customers had personal data stolen in cyberattack](https://techcrunch.com/2024/09/09/thousands-of-avis-car-rental-customers-had-personal-data-stolen-in-cyberattack/)
 - [Watch a 100,000-mile-high tower of plasma erupt from the sun in this stunning video](https://www.space.com/sun-solar-prominence-100000-miles-high-video)
 - [Sonos delays set-top box after flawed app update](https://techcrunch.com/2024/09/09/sonos-delays-set-top-box-after-flawed-app-update/)
-- [EV startup Ather seeks to raise $370 million in India IPO](https://techcrunch.com/2024/09/09/ev-startup-ather-seeks-to-raise-370-million-in-india-ipo/)
-- [Electro-hydraulic muscles help these robot legs stand straight on uneven terrain](https://techcrunch.com/2024/09/09/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/)
-- [European VC Atomico closes $1.24B across two funds for early and growth-stage startups](https://techcrunch.com/2024/09/08/european-vc-atomico-closes-1-24b-across-two-funds-for-early-and-growth-stage-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
