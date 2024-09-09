@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [iPhone 16, Apple Intelligence, AirPods 4 and more: Live updates on everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
-- [The moon might still have active volcanoes, China&#39;s Chang&#39;e 5 sample-return probe reveals](https://www.space.com/moon-volcanically-active-today-china-change-5)
-- [Here’s the full list of 35 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/09/09/heres-the-full-list-of-28-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
-- [Apple will make iOS 18 available to all users on September 16](https://techcrunch.com/2024/09/09/apple-will-make-ios-18-available-to-all-users-on-september-16/)
-- [Apple to release AI-focused macOS Sequoia September 16 in record time](https://techcrunch.com/2024/09/09/apple-to-release-ai-focused-macos-sequoia-september-16-in-record-time/)
+- [Confluent acquires streaming data startup WarpStream](https://techcrunch.com/2024/09/09/confluent-acquires-streaming-data-startup-warpstream/)
+- [Apple sets lower iPhone 16 Pro prices in India](https://techcrunch.com/2024/09/09/apple-sets-lower-iphone-16-pro-prices-in-india/)
+- [Here are all the devices compatible with iOS 18](https://techcrunch.com/2024/09/09/here-are-all-the-devices-compatible-with-ios-18/)
+- [SpaceX&#39;s Polaris Dawn astronauts will make a daring trek into Earth&#39;s Van Allen radiation belt](https://www.space.com/spacex-polaris-dawn-astronauts-earth-van-allen-radiation-belt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
