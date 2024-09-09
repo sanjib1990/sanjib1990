@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/09/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/)
+- [How to watch the iPhone 16 reveal during this year’s big Apple Event](https://techcrunch.com/2024/09/09/how-to-watch-the-iphone-16-reveal-during-this-years-big-apple-event/)
+- [Bug lets anyone bypass WhatsApp’s ‘View Once’ privacy feature](https://techcrunch.com/2024/09/09/bug-lets-anyone-bypass-whatsapps-view-once-privacy-feature/)
 - [A particularly active &#39;aurora season&#39; could be just weeks away](https://www.space.com/sun-a-particularly-active-aurora-season-could-be-just-weeks-away)
-- [YC alum Odigos aims to help enterprises find errors and stamp out latency in their systems](https://techcrunch.com/2024/09/09/yc-alum-odigos-aims-to-help-enterprises-find-errors-and-stamp-out-latency-in-their-systems/)
-- [Best Transformers shows of all time](https://www.space.com/best-transformers-shows-of-all-time)
-- [The biggest galaxies live in our universe&#39;s supercluster &#39;cities&#39;](https://www.space.com/bigger-galaxies-dense-environments-machine-learning)
-- [Miami-based AI bookkeeping startup finally has raised another big round: $200M in equity and debt](https://techcrunch.com/2024/09/09/miami-based-ai-bookkeeping-startup-finally-has-raised-another-big-round-200m-in-equity-and-debt/)
+- [Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected ‘Glowtime’ reveals](https://techcrunch.com/2024/09/09/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
