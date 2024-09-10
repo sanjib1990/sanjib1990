@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Finally, a bunch of SMB-focused fintechs get investor love while M&amp;A activity heats up](https://techcrunch.com/2024/09/10/finally-a-bunch-of-smb-focused-fintechs-get-investor-love-while-ma-activity-heats-up/)
+- [Satellites watch Tropical Storm Francine threaten Gulf Coast &lpar;video&rpar;](https://www.space.com/satellites-tropical-storm-francine-september-2024)
+- [Huawei’s $2,800 triple-screen phone laughs at your puny foldable](https://techcrunch.com/2024/09/10/huaweis-2800-triple-screen-phone-laughs-at-your-puny-foldable/)
 - [iPhone 16, Apple Intelligence, AirPods 4 and more: Everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/10/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
 - [French embedded insurance startup Neat secures $55 million](https://techcrunch.com/2024/09/10/french-embedded-insurance-startup-neat-secures-55-million/)
-- [EV warranty startup Amber launches a remote diagnostic service for Teslas](https://techcrunch.com/2024/09/10/ev-warranty-startup-amber-launches-a-remote-diagnostic-service-for-teslas/)
-- [China moves Mars sample-return launch up 2 years, to 2028](https://www.space.com/china-tianwen-2-mars-sample-return-mission-2028)
-- [TechCrunch Minute: Everything announced at Apple’s Glowtime event](https://techcrunch.com/video/techcrunch-minute-everything-announced-at-apples-glowtime-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
