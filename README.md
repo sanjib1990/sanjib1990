@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Senate leaders ask FTC to investigate AI content summaries as anti-competitive](https://techcrunch.com/2024/09/10/senate-leaders-ask-ftc-to-investigate-ai-content-summaries-as-anti-competitive/)
 - [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/)
 - [Bumble to leverage AI to help users with profile creation and conversations](https://techcrunch.com/2024/09/10/bumble-to-leverage-ai-to-help-users-with-profiles-and-conversations/)
 - [Watch 1st look clip from &#39;Star Trek: Lower Decks&#39; Season 5 &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-orion-pirots-season-5-clip)
 - [The real power of Apple Intelligence will show up in third-party apps](https://techcrunch.com/2024/09/10/the-real-power-of-apple-intelligence-will-show-up-in-third-party-apps/)
-- [SpaceX calls out ‘superfluous’ regulatory delays holding up Starship flights](https://techcrunch.com/2024/09/10/spacex-calls-out-superfluous-regulatory-delays-holding-up-starship-flights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
