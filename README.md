@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Form3, a quiet giant in UK fintech, raises $60M at a $570M valuation](https://techcrunch.com/2024/09/10/form3-a-quiet-giant-in-uk-fintech-raises-60m-at-a-570m-valuation/)
-- [Threads is not working on its own DM system yet, but it might make it easier to send Instagram messages](https://techcrunch.com/2024/09/10/threads-is-not-working-on-its-own-dm-system-yet-but-it-might-make-it-easier-to-send-instagram-messages/)
+- [Just how dark is the universe? NASA&#39;s New Horizons probe gives us best estimate yet](https://www.space.com/universe-darkness-estimate-new-horizons)
 - [China plans to build moon base at the lunar south pole by 2035](https://www.space.com/china-moon-base-south-pole-2035)
 - [SpaceX launches Polaris Dawn astronauts to attempt world&#39;s 1st-ever private spacewalk &lpar;video&rpar;](https://www.space.com/spacex-polaris-dawn-astronaut-mission-launch-success)
-- [Google loses appeal against EU’s $2.7B Shopping antitrust case, as bloc also wins $15B Apple state aid appeal](https://techcrunch.com/2024/09/10/google-loses-appeal-against-eus-e2-4b-shopping-antitrust-decision-as-bloc-also-wins-apple-state-aid-appeal/)
+- [NASA&#39;s Europa Clipper probe to icy Jupiter moon takes big step toward its Oct. 10 launch](https://www.space.com/nasa-europa-clipper-jupiter-probe-closer-to-october-2024-launch)
+- [Astronauts would have been fine on Boeing&#39;s Starliner during landing, NASA says](https://www.space.com/nasa-boeing-starliner-cft-could-have-returned-safely-with-crew-nasa-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
