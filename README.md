@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Partial lunar eclipse of the Harvest Moon: Everything you need to know](https://www.space.com/partial-lunar-eclipse-harvest-moon-september-2024)
-- [Creator startup Spotter raises another $7.4M](https://techcrunch.com/2024/09/10/creator-startup-spotter-raises-another-7-4m/)
-- [Elon Musk&#39;s pet dog inspires young girl&#39;s design for Polaris Dawn zero-g indicator](https://www.space.com/polaris-dawn-asteroid-shiba-dog-zero-g-indicator)
-- [Spare fixes cities’ outdated transport services for disabled residents](https://techcrunch.com/2024/09/10/spare-fixes-cities-outdated-transport-services-for-disabled-residents/)
-- [A long-lost moon could explain Mars&#39; weird shape and extreme terrain](https://www.space.com/mars-long-lost-moon-weird-shape-extreme-terrain)
+- [iPhone 16, Apple Intelligence, AirPods 4 and more: Everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/10/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
+- [French embedded insurance startup Neat secures $55 million](https://techcrunch.com/2024/09/10/french-embedded-insurance-startup-neat-secures-55-million/)
+- [EV warranty startup Amber launches a remote diagnostic service for Teslas](https://techcrunch.com/2024/09/10/ev-warranty-startup-amber-launches-a-remote-diagnostic-service-for-teslas/)
+- [China moves Mars sample-return launch up 2 years, to 2028](https://www.space.com/china-tianwen-2-mars-sample-return-mission-2028)
+- [TechCrunch Minute: Everything announced at Apple’s Glowtime event](https://techcrunch.com/video/techcrunch-minute-everything-announced-at-apples-glowtime-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
