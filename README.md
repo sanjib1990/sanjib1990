@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads is not working on its own DM system yet, but it might make it easier to send Instagram messages](https://techcrunch.com/2024/09/10/threads-is-not-working-on-its-own-dm-system-yet-but-it-might-make-it-easier-to-send-instagram-messages/)
+- [China plans to build moon base at the lunar south pole by 2035](https://www.space.com/china-moon-base-south-pole-2035)
+- [SpaceX launches Polaris Dawn astronauts to attempt world&#39;s 1st-ever private spacewalk &lpar;video&rpar;](https://www.space.com/spacex-polaris-dawn-astronaut-mission-launch-success)
+- [Google loses appeal against EU’s €2.4B Shopping antitrust decision, as bloc also wins Apple state aid appeal](https://techcrunch.com/2024/09/10/google-loses-appeal-against-eus-e2-4b-shopping-antitrust-decision-as-bloc-also-wins-apple-state-aid-appeal/)
 - [Formo gets investors’ mouths watering with Koji protein-based animal-free cheese](https://techcrunch.com/2024/09/09/formo-gets-investors-mouths-watering-with-koji-protein-based-animal-free-cheese/)
-- [Swiggy weighs increasing its IPO size by $150M, aiming to raise up to $1.4B](https://techcrunch.com/2024/09/09/swiggy-weighs-150m-boost-for-up-to-1-4b-india-ipo/)
-- [Sri Mandir helps Hindus visit sacred temples and offer donations virtually, from their phones](https://techcrunch.com/2024/09/09/sri-mandir-is-on-a-quest-to-digitize-indias-devotional-journey/)
-- [Seattle Cybertruck became fleeting tourist destination](https://techcrunch.com/2024/09/09/sad-seattle-cybertruck-became-fleeting-tourist-destination/)
-- [Heart disease is the world’s biggest killer — this Cambridge Uni spinout is using AI to find new treatments](https://techcrunch.com/2024/09/09/heart-disease-is-the-worlds-biggest-killer-this-cambridge-uni-spinout-is-using-ai-to-find-new-treatments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
