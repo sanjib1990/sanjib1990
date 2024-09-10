@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Watch blood oxygen detection won’t be available on the Series 10 in the U.S.](https://techcrunch.com/2024/09/10/apple-watch-blood-oxygen-detection-wont-be-available-on-the-series-10-in-the-u-s/)
-- [Drybaby is a dating app for the ‘sober curious’ movement](https://techcrunch.com/2024/09/10/drybaby-new-sober-dating-app-betting-on-surge-in-sober-curious-movement/)
-- [These 2 monster black holes may be the closest pair ever discovered &lpar;video&rpar;](https://www.space.com/supermassive-black-hole-duo-chandra-hubble)
-- [Legendary actor and &#39;Star Wars&#39;&#39; voice of Darth Vader, James Earl Jones dies at 93](https://www.space.com/james-earl-jones-dies-93-obituary)
-- [Google Gemini: Everything you need to know about the generative AI models](https://techcrunch.com/2024/09/10/what-is-google-gemini-ai/)
+- [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/)
+- [Bumble to leverage AI to help users with profile creation and conversations](https://techcrunch.com/2024/09/10/bumble-to-leverage-ai-to-help-users-with-profiles-and-conversations/)
+- [Watch 1st look clip from &#39;Star Trek: Lower Decks&#39; Season 5 &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-orion-pirots-season-5-clip)
+- [The real power of Apple Intelligence will show up in third-party apps](https://techcrunch.com/2024/09/10/the-real-power-of-apple-intelligence-will-show-up-in-third-party-apps/)
+- [SpaceX calls out “superfluous” regulatory delays holding up Starship flights](https://techcrunch.com/2024/09/10/spacex-calls-out-superfluous-regulatory-delays-holding-up-starship-flights/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
