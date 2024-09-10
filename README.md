@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Online, led by social media, overtakes TV as the most popular source of news in the UK, Ofcom says](https://techcrunch.com/2024/09/09/online-led-by-social-media-overtakes-tv-as-the-most-popular-source-of-news-in-the-uk-ofcom-says/)
+- [Apple upgrades watchOS with AI-powered features, including translation](https://techcrunch.com/2024/09/09/apple-upgrades-watchos-with-ai-powered-features-including-translation/)
 - [NASA&#39;s Europa Clipper probe to icy Jupiter moon takes big step toward its Oct. 10 launch](https://www.space.com/nasa-europa-clipper-jupiter-probe-closer-to-october-2024-launch)
 - [TechCrunch Space: Boeing’s Starliner returns to Earth](https://techcrunch.com/2024/09/09/techcrunch-space-boeings-starliner-returns-to-earth/)
-- [iPhone 16, Apple Intelligence, AirPods 4 and more: Live updates on everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
-- [Astronauts would have been fine on Boeing&#39;s Starliner during landing, NASA says](https://www.space.com/nasa-boeing-starliner-cft-could-have-returned-safely-with-crew-nasa-says)
-- [Why Apple added yet another button to the iPhone 16](https://techcrunch.com/2024/09/09/why-apple-added-yet-another-button-to-the-iphone-16/)
+- [iPhone 16, Apple Intelligence, AirPods 4 and more: Everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/09/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
