@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Partial lunar eclipse of the Harvest Moon: Everything you need to know](https://www.space.com/partial-lunar-eclipse-harvest-moon-september-2024)
+- [Creator startup Spotter raises another $7.4M](https://techcrunch.com/2024/09/10/creator-startup-spotter-raises-another-7-4m/)
+- [Elon Musk&#39;s pet dog inspires young girl&#39;s design for Polaris Dawn zero-g indicator](https://www.space.com/polaris-dawn-asteroid-shiba-dog-zero-g-indicator)
 - [Spare fixes cities’ outdated transport services for disabled residents](https://techcrunch.com/2024/09/10/spare-fixes-cities-outdated-transport-services-for-disabled-residents/)
 - [A long-lost moon could explain Mars&#39; weird shape and extreme terrain](https://www.space.com/mars-long-lost-moon-weird-shape-extreme-terrain)
-- [SpaceX&#39;s historic private Polaris Dawn astronaut launch lights up predawn sky &lpar;photos&rpar;](https://www.space.com/spacex-polaris-dawn-launch-photos)
-- [Lucid Motors’ Gravity SUV will have Tesla charging built in](https://techcrunch.com/2024/09/10/lucid-motors-gravity-tesla-charging-nacs/)
-- [MariaDB goes private with new CEO as K1 closes acquisition](https://techcrunch.com/2024/09/10/mariadb-goes-private-with-new-ceo-as-k1-closes-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
