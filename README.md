@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Watch blood oxygen detection won’t be available on the Series 10 in the U.S.](https://techcrunch.com/2024/09/10/apple-watch-blood-oxygen-detection-wont-be-available-on-the-series-10-in-the-u-s/)
+- [Drybaby is a dating app for the ‘sober curious’ movement](https://techcrunch.com/2024/09/10/drybaby-new-sober-dating-app-betting-on-surge-in-sober-curious-movement/)
+- [These 2 monster black holes may be the closest pair ever discovered &lpar;video&rpar;](https://www.space.com/supermassive-black-hole-duo-chandra-hubble)
 - [Legendary actor and &#39;Star Wars&#39;&#39; voice of Darth Vader, James Earl Jones dies at 93](https://www.space.com/james-earl-jones-dies-93-obituary)
 - [Google Gemini: Everything you need to know about the generative AI models](https://techcrunch.com/2024/09/10/what-is-google-gemini-ai/)
-- [London’s transit agency drops claim it has ‘no evidence’ of customer data theft after hack](https://techcrunch.com/2024/09/10/londons-transit-agency-drops-claim-it-has-no-evidence-of-customer-data-theft-after-hack/)
-- [Here’s how the new AirPods Pro hearing test works](https://techcrunch.com/2024/09/10/heres-how-the-new-airpods-pro-hearing-test-works/)
-- [iPhone 16, Apple Intelligence, AirPods 4 and more: Everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/10/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
