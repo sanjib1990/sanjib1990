@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Just how dark is the universe? NASA&#39;s New Horizons probe gives us best estimate yet](https://www.space.com/universe-darkness-estimate-new-horizons)
-- [China plans to build moon base at the lunar south pole by 2035](https://www.space.com/china-moon-base-south-pole-2035)
-- [SpaceX launches Polaris Dawn astronauts to attempt world&#39;s 1st-ever private spacewalk &lpar;video&rpar;](https://www.space.com/spacex-polaris-dawn-astronaut-mission-launch-success)
-- [NASA&#39;s Europa Clipper probe to icy Jupiter moon takes big step toward its Oct. 10 launch](https://www.space.com/nasa-europa-clipper-jupiter-probe-closer-to-october-2024-launch)
-- [Astronauts would have been fine on Boeing&#39;s Starliner during landing, NASA says](https://www.space.com/nasa-boeing-starliner-cft-could-have-returned-safely-with-crew-nasa-says)
+- [MariaDB goes private with new CEO as K1 closes acquisition](https://techcrunch.com/2024/09/10/mariadb-goes-private-with-new-ceo-as-k1-closes-acquisition/)
+- [JFrog deepens its partnership with GitHub, launches runtime security service](https://techcrunch.com/2024/09/10/jfrog-deepens-its-partnership-with-github-launches-runtime-security-service/)
+- [Qualifyze swallows $54M to improve pharmaceutical supply chains](https://techcrunch.com/2024/09/10/qualifyze-swallows-54m-to-improve-pharmaceutical-supply-chains/)
+- [7 years ago today, the sun unleashed a record-breaking solar flare](https://www.space.com/solar-flare-2017-record-breaking)
+- [Inversion Space accelerates orbital reentry vehicle tech with $71M Space Force contract](https://techcrunch.com/2024/09/10/inversion-space-accelerates-orbital-reentry-vehicle-tech-with-71m-space-force-contract/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
