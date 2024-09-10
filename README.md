@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to get into Warhammer 40K? Here&#39;s what you need to know before playing Space Marine 2](https://www.space.com/warhammer-40k-explained-before-you-play-space-marine-2)
-- [Apple punts on AI](https://techcrunch.com/2024/09/10/apple-punts-on-ai/)
-- [Finally, a bunch of SMB-focused fintechs get investor love while M&amp;A activity heats up](https://techcrunch.com/2024/09/10/finally-a-bunch-of-smb-focused-fintechs-get-investor-love-while-ma-activity-heats-up/)
-- [Satellites watch Tropical Storm Francine threaten Gulf Coast &lpar;video&rpar;](https://www.space.com/satellites-tropical-storm-francine-september-2024)
-- [Huawei’s $2,800 triple-screen phone laughs at your puny foldable](https://techcrunch.com/2024/09/10/huaweis-2800-triple-screen-phone-laughs-at-your-puny-foldable/)
+- [Legendary actor and &#39;Star Wars&#39;&#39; voice of Darth Vader, James Earl Jones dies at 93](https://www.space.com/james-earl-jones-dies-93-obituary)
+- [Google Gemini: Everything you need to know about the generative AI models](https://techcrunch.com/2024/09/10/what-is-google-gemini-ai/)
+- [London’s transit agency drops claim it has ‘no evidence’ of customer data theft after hack](https://techcrunch.com/2024/09/10/londons-transit-agency-drops-claim-it-has-no-evidence-of-customer-data-theft-after-hack/)
+- [Here’s how the new AirPods Pro hearing test works](https://techcrunch.com/2024/09/10/heres-how-the-new-airpods-pro-hearing-test-works/)
+- [iPhone 16, Apple Intelligence, AirPods 4 and more: Everything revealed at Apple Event 2024](https://techcrunch.com/2024/09/10/iphone-16-apple-intelligence-airpods-4-and-more-live-updates-on-everything-revealed-at-apple-event-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
