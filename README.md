@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Internet&#39;s most broken protocol](https://www.youtube.com/watch?v=cOE2miIh1_o)
 - [I built 24 Websites in 24 Hours](https://www.youtube.com/watch?v=2VvWM6gdDlk)
 - [Proxy vs Reverse Proxy vs Load Balancer | Simply Explained](https://www.youtube.com/watch?v=xo5V9g9joFs)
 - [This rubber duck can debug your code](https://www.youtube.com/watch?v=oRBvLbdMKM0)
 - [never leave the terminal](https://www.youtube.com/watch?v=6h9sjYm9vTE)
-- [Front-end web development is changing, quickly](https://www.youtube.com/watch?v=TBIjgBVFjVI)
 <!-- YOUTUBE:END -->
 
 ---
