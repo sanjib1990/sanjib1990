@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s AI note-taking app NotebookLM can now explain complex topics to you out loud](https://techcrunch.com/2024/09/11/googles-ai-note-taking-app-notebooklm-can-now-explain-complex-topics-to-you-out-loud/)
+- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/)
+- [Apple’s newly available ‘win-back’ offers let developers reach lapsed subscribers](https://techcrunch.com/2024/09/11/apples-newly-available-win-back-offers-let-developers-reach-lapsed-subscribers/)
+- [How SpaceX built a new spacesuit for Polaris Dawn&#39;s private spacewalk &lpar;video&rpar;](https://www.space.com/spacex-new-eva-spacewalking-spacesuit-video)
 - [Meet the NASA science flying on SpaceX&#39;s Polaris Dawn private astronaut mission](https://www.space.com/nasa-science-spacex-polaris-dawn-private-astronaut-mission)
-- [Oura has acquired metabolic health startup Veri](https://techcrunch.com/2024/09/11/oura-has-acquired-metabolic-heath-startup-veri/)
-- [New Lego &#39;Over the Moon&#39; set is on the way, and it&#39;s been made in collaboration with Pharrell Williams](https://www.space.com/a-new-lego-space-set-is-on-the-way-and-its-been-made-in-collaboration-with-pharrell-williams)
-- [Fearless Fund is shutting down its contested Strivers Grant program](https://techcrunch.com/2024/09/11/fearless-fund-is-shutting-down-its-contested-strivers-grant-program/)
-- [What&#39;s behind the Martian methane mystery?](https://www.space.com/what-is-behind-martian-methane-mystery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
