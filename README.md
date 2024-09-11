@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/)
 - [Amazon starts testing ads in its Rufus chatbot](https://techcrunch.com/2024/09/11/amazon-starts-testing-ads-in-its-rufus-chatbot/)
 - [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/11/tech-layoffs-2024-list/)
 - [Watch SpaceX Polaris Dawn astronauts conduct 1st private spacewalk early Sept. 12](https://www.space.com/spacex-polaris-dawn-private-spacewalk-webcast)
-- [OpenAI reportedly in talks to raise at $150B valuation](https://techcrunch.com/2024/09/11/openai-reportedly-in-talks-to-raise-at-150b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
