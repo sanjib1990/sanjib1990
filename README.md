@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Polaris Dawn crew flies higher than 1966 Gemini 11 orbital record](https://www.space.com/polaris-dawn-altitude-record-gemini-11)
 - [Sergey Brin says he’s working on AI at Google ‘pretty much every day’](https://techcrunch.com/2024/09/10/sergey-brin-says-hes-working-at-google-pretty-much-every-day-on-ai/)
 - [Beats makes iPhone 16 cases now](https://techcrunch.com/2024/09/10/beats-makes-iphone-16-cases-now/)
 - [Senate leaders ask FTC to investigate AI content summaries as anti-competitive](https://techcrunch.com/2024/09/10/senate-leaders-ask-ftc-to-investigate-ai-content-summaries-as-anti-competitive/)
 - [Neurode wants to treat and track ADHD symptoms through a wearable headband](https://techcrunch.com/2024/09/10/neurode-wants-to-treat-and-track-adhd-symptoms-through-a-wearable-headband/)
-- [Bumble to leverage AI to help users with profile creation and conversations](https://techcrunch.com/2024/09/10/bumble-to-leverage-ai-to-help-users-with-profiles-and-conversations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
