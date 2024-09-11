@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon starts testing ads in its Rufus chatbot](https://techcrunch.com/2024/09/11/amazon-starts-testing-ads-in-its-rufus-chatbot/)
+- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/11/tech-layoffs-2024-list/)
 - [Watch SpaceX Polaris Dawn astronauts conduct 1st private spacewalk early Sept. 12](https://www.space.com/spacex-polaris-dawn-private-spacewalk-webcast)
 - [OpenAI reportedly in talks to raise at $150B valuation](https://techcrunch.com/2024/09/11/openai-reportedly-in-talks-to-raise-at-150b-valuation/)
-- [NASA&#39;s Voyager 1 probe swaps thrusters in tricky fix as it flies through interstellar space](https://www.space.com/voyager-1-interstellar-space-thruster-fix)
-- [NASA&#39;s Juno probe spots massive new volcano on Jupiter moon Io](https://www.space.com/jupiter-juno-probe-massive-new-volcano-io)
-- [NASA astronaut, 2 cosmonauts arrive at ISS aboard Russian Soyuz capsule &lpar;video&rpar;](https://www.space.com/soyuz-ms-26-astronauts-iss-docking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
