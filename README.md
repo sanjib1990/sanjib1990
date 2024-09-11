@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mystery of dwarf planet Ceres&#39; origin may finally be solved, thanks to retired NASA spacecraft](https://www.space.com/dwarf-planet-ceres-origins-nasa-dawn-spacecraft)
+- [Atomico backs Tem to help businesses buy renewable energy directly from sources](https://techcrunch.com/2024/09/11/atomico-backs-tem-to-help-businesses-buy-renewable-energy-directly-from-sources/)
+- [Mistral releases Pixtral 12B, its first multimodal model](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/)
+- [Chrome wants to make sure your tabs and groups are accessible across devices](https://techcrunch.com/2024/09/11/chrome-wants-to-make-sure-your-tabs-and-groups-are-accessible-across-devices/)
 - [Watch Russian Soyuz rocket launch 3 astronauts to the ISS today](https://www.space.com/international-space-station-soyuz-ms-26-launch)
-- [Paymob, started by three college friends, lands another $22 million and is profitable in Egypt](https://techcrunch.com/2024/09/11/paymob-lands-another-22-million-and-is-profitable-in-egypt/)
-- [InMobi secures $100 million for AI acquisitions ahead of IPO](https://techcrunch.com/2024/09/10/inmobi-secures-100-million-for-ai-acquisitions-ahead-of-ipo/)
-- [Polaris Dawn crew flies higher than 1966 Gemini 11 orbital record](https://www.space.com/polaris-dawn-altitude-record-gemini-11)
-- [Sergey Brin says he’s working on AI at Google ‘pretty much every day’](https://techcrunch.com/2024/09/10/sergey-brin-says-hes-working-at-google-pretty-much-every-day-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
