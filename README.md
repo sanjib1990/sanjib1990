@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Shorts’ collaborative Add Yours sticker is now available to all users](https://techcrunch.com/2024/09/11/youtube-shorts-collaborative-add-yours-sticker-is-now-available-to-all-users/)
+- [Bluesky catches up to X with native support for video](https://techcrunch.com/2024/09/11/bluesky-catches-up-to-x-with-native-support-for-video/)
+- [Taylor Swift cites ‘fears around AI’ as she endorses the Democratic ticket](https://techcrunch.com/2024/09/11/taylor-swift-cites-fears-around-ai-as-she-endorses-the-democratic-ticket/)
+- [Mark Zuckerberg says he’s done apologizing](https://techcrunch.com/2024/09/11/mark-zuckerberg-says-hes-done-apologizing/)
 - [This Week in AI: OpenAI’s new Strawberry model may be smart, yet sluggish](https://techcrunch.com/2024/09/11/this-week-in-ai-openais-new-strawberry-model-may-be-smart-yet-sluggish/)
-- [Media talent app HUSSLUP shuts down as workers in Hollywood continue to face job slowdown](https://techcrunch.com/2024/09/11/media-talent-app-husslup-shuts-down-as-workers-in-hollywood-face-job-slowdown/)
-- [Google’s AI note-taking app NotebookLM can now explain complex topics to you out loud](https://techcrunch.com/2024/09/11/googles-ai-note-taking-app-notebooklm-can-now-explain-complex-topics-to-you-out-loud/)
-- [TechCrunch Minute: Why this entrepreneur is running the Oakland Ballers like a startup](https://techcrunch.com/video/techcrunch-minute-why-this-entrepreneur-is-running-the-oakland-ballers-like-a-startup/)
-- [Apple’s newly available ‘win-back’ offers let developers reach lapsed subscribers](https://techcrunch.com/2024/09/11/apples-newly-available-win-back-offers-let-developers-reach-lapsed-subscribers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
