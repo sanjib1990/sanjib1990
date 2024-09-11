@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oura has acquired metabolic health startup Veri](https://techcrunch.com/2024/09/11/oura-has-acquired-metabolic-heath-startup-veri/)
+- [New Lego &#39;Over the Moon&#39; set is on the way, and it&#39;s been made in collaboration with Pharrell Williams](https://www.space.com/a-new-lego-space-set-is-on-the-way-and-its-been-made-in-collaboration-with-pharrell-williams)
+- [Fearless Fund is shutting down its contested Strivers Grant program](https://techcrunch.com/2024/09/11/fearless-fund-is-shutting-down-its-contested-strivers-grant-program/)
 - [What&#39;s behind the Martian methane mystery?](https://www.space.com/what-is-behind-martian-methane-mystery)
 - [Meet Verse, an AI-powered creative app that helps Gen Z design and publish expressive content](https://techcrunch.com/2024/09/11/meet-verse-an-ai-powered-creative-app-that-helps-gen-z-design-and-publish-expressive-content/)
-- [Adobe says video generation is coming to Firefly this year](https://techcrunch.com/2024/09/11/adobe-says-video-generation-is-coming-to-firefly-this-year/)
-- [Connectly, now backed by Alibaba, taps AI to personalize text messages to customers](https://techcrunch.com/2024/09/11/alibaba-backed-connectly-taps-ai-to-personalize-customer-messages/)
-- [Nuro pivots to license self-driving tech to carmakers, mobility companies](https://techcrunch.com/2024/09/11/nuro-pivots-to-license-self-driving-tech-to-carmakers-mobility-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
