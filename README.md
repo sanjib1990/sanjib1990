@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hot &#39;Salsa:&#39; European satellite burns up in landmark controlled reentry &lpar;photo&rpar;](https://www.space.com/europe-salsa-satellite-controlled-reentry-milestone)
+- [New record! 19 people are orbiting Earth right now](https://www.space.com/new-record-19-people-orbiting-earth-soyuz-iss)
 - [YouTube Shorts’ collaborative Add Yours sticker is now available to all users](https://techcrunch.com/2024/09/11/youtube-shorts-collaborative-add-yours-sticker-is-now-available-to-all-users/)
 - [Bluesky catches up to X with native support for video](https://techcrunch.com/2024/09/11/bluesky-catches-up-to-x-with-native-support-for-video/)
 - [Taylor Swift cites ‘fears around AI’ as she endorses the Democratic ticket](https://techcrunch.com/2024/09/11/taylor-swift-cites-fears-around-ai-as-she-endorses-the-democratic-ticket/)
-- [Mark Zuckerberg says he’s done apologizing](https://techcrunch.com/2024/09/11/mark-zuckerberg-says-hes-done-apologizing/)
-- [This Week in AI: OpenAI’s new Strawberry model may be smart, yet sluggish](https://techcrunch.com/2024/09/11/this-week-in-ai-openais-new-strawberry-model-may-be-smart-yet-sluggish/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
