@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Voyager 1 probe swaps thrusters in tricky fix as it flies through interstellar space](https://www.space.com/voyager-1-interstellar-space-thruster-fix)
+- [NASA&#39;s Juno probe spots massive new volcano on Jupiter moon Io](https://www.space.com/jupiter-juno-probe-massive-new-volcano-io)
+- [NASA astronaut, 2 cosmonauts arrive at ISS aboard Russian Soyuz capsule &lpar;video&rpar;](https://www.space.com/soyuz-ms-26-astronauts-iss-docking)
+- [These sub-1mm robots morph and crawl with an electric zap](https://techcrunch.com/2024/09/11/these-sub-1mm-robots-morph-and-crawl-with-an-electric-zap/)
 - [Hot &#39;Salsa:&#39; European satellite burns up in landmark controlled reentry &lpar;photo&rpar;](https://www.space.com/europe-salsa-satellite-controlled-reentry-milestone)
-- [New record! 19 people are orbiting Earth right now](https://www.space.com/new-record-19-people-orbiting-earth-soyuz-iss)
-- [YouTube Shorts’ collaborative Add Yours sticker is now available to all users](https://techcrunch.com/2024/09/11/youtube-shorts-collaborative-add-yours-sticker-is-now-available-to-all-users/)
-- [Bluesky catches up to X with native support for video](https://techcrunch.com/2024/09/11/bluesky-catches-up-to-x-with-native-support-for-video/)
-- [Taylor Swift cites ‘fears around AI’ as she endorses the Democratic ticket](https://techcrunch.com/2024/09/11/taylor-swift-cites-fears-around-ai-as-she-endorses-the-democratic-ticket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
