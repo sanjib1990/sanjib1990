@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Novatus nabs $40M to help financial institutions quell their RegTech nightmares](https://techcrunch.com/2024/09/12/novatus-nabs-40m-to-help-financial-institutions-quell-their-regtech-nightmares/)
+- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/)
+- [&#39;International Observe the Moon Night&#39; is Sept. 14. Here&#39;s how to participate](https://www.space.com/nasa-observe-the-moon-night-2024-how-to-celebrate)
+- [SpaceX Polaris Dawn astronauts perform historic 1st private spacewalk in orbit &lpar;video&rpar;](https://www.space.com/spacex-polaris-dawn-first-private-spacewalk)
 - [The bubbling surface of a distant star was captured on video for the 1st time ever](https://www.space.com/alma-red-giant-star-surface-video)
-- [Google’s GenAI facing privacy risk assessment scrutiny in Europe](https://techcrunch.com/2024/09/12/googles-genai-facing-privacy-risk-assessment-scrutiny-in-europe/)
-- [SpaceX launches 5 giant BlueBird smartphone satellites for AST SpaceMobile, lands rocket](https://www.space.com/spacex-ast-spacemobile-bluebird-launch-september-2024)
-- [Consumer group sues to ban purchases inside games like Fortnite and Minecraft in Europe](https://techcrunch.com/2024/09/12/bad-credits-consumer-group-files-eu-suit-over-manipulative-payments-in-games-like-fortnite-and-minecraft-calls-for-a-ban/)
-- [WhatsApp brings Meta Verified, customized messages to small businesses in India](https://techcrunch.com/2024/09/12/whatsapp-brings-meta-verified-customized-messages-to-small-businesses-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
