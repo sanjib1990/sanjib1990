@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Polaris Dawn: World&#39;s 1st commercial spacewalk was history&#39;s 20th stand-up EVA](https://www.space.com/polaris-dawn-first-commercial-spacewalk-stand-up-eva)
-- [Microsoft lays off another 650 from gaming division](https://techcrunch.com/2024/09/12/microsoft-lays-off-another-650-from-gaming-division/)
-- [Satellites watch Francine make landfall as a Category 2 hurricane in Louisiana &lpar;video&rpar;](https://www.space.com/hurricane-francine-makes-landfall-in-louisiana-category-2)
-- [Hacker tricks ChatGPT into giving out detailed instructions for making homemade bombs](https://techcrunch.com/2024/09/12/hacker-tricks-chatgpt-into-giving-out-detailed-instructions-for-making-homemade-bombs/)
-- [New &#39;Firefly&#39; comics unveil the untold origins of Captain Mal and Zoë](https://www.space.com/firefly-year-one-comics-mal-zoe)
+- [Australian plan for misinformation law riles Elon Musk](https://techcrunch.com/2024/09/12/australian-plan-for-misinformation-law-riles-elon-musk/)
+- [Amazon and Flipkart violated competition laws in India, report says](https://techcrunch.com/2024/09/12/amazon-and-flipkart-violated-competition-laws-in-india-report-says/)
+- [Tune.FM wants to take on Spotify by using crypto to pay artists up to 100x more per stream](https://techcrunch.com/2024/09/12/tune-fm-wants-to-take-on-spotify-by-using-crypto-to-pay-artists-up-to-100x-more-per-stream/)
+- [TechCrunch Minute: The latest SpaceX mission saw the first private spacewalk](https://techcrunch.com/video/techcrunch-minute-the-latest-spacex-mission-will-see-the-first-space-walk-by-civilians/)
+- [Google DeepMind teaches a robot to autonomously tie its shoes and fix fellow robots](https://techcrunch.com/2024/09/12/google-deepmind-teaches-a-robot-to-autonomously-tie-its-shoes-and-fix-fellow-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
