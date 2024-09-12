@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bad credits: consumer group files EU suit over ‘manipulative’ payments in games like Fortnite and Minecraft, calls for a ban](https://techcrunch.com/2024/09/12/bad-credits-consumer-group-files-eu-suit-over-manipulative-payments-in-games-like-fortnite-and-minecraft-calls-for-a-ban/)
 - [WhatsApp brings Meta Verified, customized messages to small businesses in India](https://techcrunch.com/2024/09/12/whatsapp-brings-meta-verified-customized-messages-to-small-businesses-in-india/)
 - [Drama at OpenWeb, as a new CEO is announced – and the founding CEO says he’s staying](https://techcrunch.com/2024/09/11/drama-at-openweb-as-a-new-ceo-is-announced-and-the-founding-ceo-says-hes-staying/)
 - [Adam Neumann’s crypto comeback company is reportedly refunding investors](https://techcrunch.com/2024/09/11/adam-neumanns-crypto-comeback-company-is-reportedly-refunding-investors/)
 - [Amazon starts testing ads in its Rufus chatbot](https://techcrunch.com/2024/09/11/amazon-starts-testing-ads-in-its-rufus-chatbot/)
-- [LineLeap lets users pay to skip the line at bars](https://techcrunch.com/2024/09/11/lineleap-lets-users-pay-to-skip-the-line-at-bars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
