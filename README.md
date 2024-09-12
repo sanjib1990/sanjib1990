@@ -97,7 +97,7 @@
 - [The bubbling surface of a distant star was captured on video for the 1st time ever](https://www.space.com/alma-red-giant-star-surface-video)
 - [Google’s GenAI facing privacy risk assessment scrutiny in Europe](https://techcrunch.com/2024/09/12/googles-genai-facing-privacy-risk-assessment-scrutiny-in-europe/)
 - [SpaceX launches 5 giant BlueBird smartphone satellites for AST SpaceMobile, lands rocket](https://www.space.com/spacex-ast-spacemobile-bluebird-launch-september-2024)
-- [Bad credits: consumer group files EU suit over ‘manipulative’ payments in games like Fortnite and Minecraft, calls for a ban](https://techcrunch.com/2024/09/12/bad-credits-consumer-group-files-eu-suit-over-manipulative-payments-in-games-like-fortnite-and-minecraft-calls-for-a-ban/)
+- [Consumer group sues to ban purchases inside games like Fortnite and Minecraft in Europe](https://techcrunch.com/2024/09/12/bad-credits-consumer-group-files-eu-suit-over-manipulative-payments-in-games-like-fortnite-and-minecraft-calls-for-a-ban/)
 - [WhatsApp brings Meta Verified, customized messages to small businesses in India](https://techcrunch.com/2024/09/12/whatsapp-brings-meta-verified-customized-messages-to-small-businesses-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
