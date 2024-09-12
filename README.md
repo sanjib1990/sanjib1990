@@ -94,10 +94,10 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keith Rabois says Miami is still a great place for startups, even as a16z leaves](https://techcrunch.com/2024/09/12/keith-rabois-says-miami-is-still-a-great-place-for-startups-even-as-a16z-leaves/)
 - [Meta is making its AI info label less visible on content edited or modified by AI tools](https://techcrunch.com/2024/09/12/meta-is-making-its-ai-info-label-less-visible-on-content-edited-or-modified-by-ai-tools/)
 - [Cohost, the X rival founded with an anti-Big Tech manifesto, is running out of money and will shut down](https://techcrunch.com/2024/09/12/cohost-the-x-rival-founded-with-an-anti-big-tech-manifesto-is-running-out-of-money-and-will-shut-down/)
 - [Shopsense AI lets music fans buy dupes inspired by red-carpet looks at the VMAs](https://techcrunch.com/2024/09/12/shopsense-ai-technology-enables-music-fans-to-buy-dupes-inspired-by-red-carpet-looks-vmas/)
-- [Keith Rabois says Miami is still a great place for startups, even as a16z leaves](https://techcrunch.com/2024/09/12/keith-rabois-says-miami-is-still-a-great-place-for-startups-even-as-a16z-leaves/)
 - [SpaceX&#39;s Starship won&#39;t be licensed to fly again until late November, FAA says](https://www.space.com/spacex-starship-flight-five-late-november)
 <!-- BLOG-POST-LIST:END -->
 
