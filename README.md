@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Y Combinator companies are flocking to banking and HR startup Every](https://techcrunch.com/2024/09/12/why-y-combinator-companies-are-flocking-to-new-banking-hr-startup-every/)
 - [Threads makes it easier to evangelize the open social web with a new direct link feature](https://techcrunch.com/2024/09/12/threads-makes-it-easier-to-evangelize-the-open-social-web-with-a-new-direct-link-feature/)
 - [Autonomous delivery startup Nuro pivots and another Indian EV scooter startup takes the IPO road](https://techcrunch.com/2024/09/12/autonomous-delivery-startup-nuro-pivots-and-another-indian-ev-scooter-startup-takes-the-ipo-road/)
 - [Sun fires off X-class solar flare, increasing aurora viewing chances into weekend](https://www.space.com/sun-solar-flare-september-12-aurora-chances)
-- [OpenAI unveils a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
-- [SpaceX&#39;s private Polaris Dawn astronauts talk US flag and kids&#39; books from orbit on historic spaceflight &lpar;videos&rpar;](https://www.space.com/spacex-polaris-dawn-us-flag-kids-book-video)
+- [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
