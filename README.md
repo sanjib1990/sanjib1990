@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Australian plan for misinformation law riles Elon Musk](https://techcrunch.com/2024/09/12/australian-plan-for-misinformation-law-riles-elon-musk/)
-- [Amazon and Flipkart violated competition laws in India, report says](https://techcrunch.com/2024/09/12/amazon-and-flipkart-violated-competition-laws-in-india-report-says/)
-- [Tune.FM wants to take on Spotify by using crypto to pay artists up to 100x more per stream](https://techcrunch.com/2024/09/12/tune-fm-wants-to-take-on-spotify-by-using-crypto-to-pay-artists-up-to-100x-more-per-stream/)
-- [TechCrunch Minute: The latest SpaceX mission saw the first private spacewalk](https://techcrunch.com/video/techcrunch-minute-the-latest-spacex-mission-will-see-the-first-space-walk-by-civilians/)
-- [Google DeepMind teaches a robot to autonomously tie its shoes and fix fellow robots](https://techcrunch.com/2024/09/12/google-deepmind-teaches-a-robot-to-autonomously-tie-its-shoes-and-fix-fellow-robots/)
+- [Threads makes it easier to evangelize the open social web with a new direct link feature](https://techcrunch.com/2024/09/12/threads-makes-it-easier-to-evangelize-the-open-social-web-with-a-new-direct-link-feature/)
+- [Autonomous delivery startup Nuro pivots and another Indian EV scooter startup takes the IPO road](https://techcrunch.com/2024/09/12/autonomous-delivery-startup-nuro-pivots-and-another-indian-ev-scooter-startup-takes-the-ipo-road/)
+- [Sun fires off X-class solar flare, increasing aurora viewing chances into weekend](https://www.space.com/sun-solar-flare-september-12-aurora-chances)
+- [OpenAI unveils a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
+- [SpaceX&#39;s private Polaris Dawn astronauts talk US flag and kids&#39; books from orbit on historic spaceflight &lpar;videos&rpar;](https://www.space.com/spacex-polaris-dawn-us-flag-kids-book-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
