@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Novatus nabs $40M to help financial institutions quell their RegTech nightmares](https://techcrunch.com/2024/09/12/novatus-nabs-40m-to-help-financial-institutions-quell-their-regtech-nightmares/)
-- [OffDeal wants to help small businesses find big exits with AI agents](https://techcrunch.com/2024/09/12/offdeal-wants-to-help-small-businesses-find-big-exits-with-ai-agents/)
-- [&#39;International Observe the Moon Night&#39; is Sept. 14. Here&#39;s how to participate](https://www.space.com/nasa-observe-the-moon-night-2024-how-to-celebrate)
-- [SpaceX Polaris Dawn astronauts perform historic 1st private spacewalk in orbit &lpar;video&rpar;](https://www.space.com/spacex-polaris-dawn-first-private-spacewalk)
-- [The bubbling surface of a distant star was captured on video for the 1st time ever](https://www.space.com/alma-red-giant-star-surface-video)
+- [X is working on a separate blocking layer for DMs](https://techcrunch.com/2024/09/12/x-is-working-on-a-separate-blocking-layer-for-dms/)
+- [Face to face with Figure’s new humanoid robot](https://techcrunch.com/2024/09/12/face-to-face-with-figures-new-humanoid-robot/)
+- [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/)
+- [Tiny NASA satellite detects its 1st massive gamma ray burst](https://www.space.com/nasa-satellite-detects-1st-massive-gamma-ray-burst)
+- [iFixit marks iPhone 16 arrival with battery-powered soldering iron launch](https://techcrunch.com/2024/09/12/ifixit-marks-iphone-16-announcement-with-battery-powered-soldering-iron-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
