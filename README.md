@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [X is working on a separate blocking layer for DMs](https://techcrunch.com/2024/09/12/x-is-working-on-a-separate-blocking-layer-for-dms/)
-- [Face to face with Figure’s new humanoid robot](https://techcrunch.com/2024/09/12/face-to-face-with-figures-new-humanoid-robot/)
-- [After using a business coach to shift careers, AceUp founder wants to drive coaching based on data](https://techcrunch.com/2024/09/12/aceup-provides-data-driven-coaching-to-help-companies-improve-their-workplaces/)
-- [Tiny NASA satellite detects its 1st massive gamma ray burst](https://www.space.com/nasa-satellite-detects-1st-massive-gamma-ray-burst)
-- [iFixit marks iPhone 16 arrival with battery-powered soldering iron launch](https://techcrunch.com/2024/09/12/ifixit-marks-iphone-16-announcement-with-battery-powered-soldering-iron-launch/)
+- [Satellites watch Francine make landfall as a Category 2 hurricane in Louisiana &lpar;video&rpar;](https://www.space.com/hurricane-francine-makes-landfall-in-louisiana-category-2)
+- [Hacker tricks ChatGPT into giving out detailed instructions for making homemade bombs](https://techcrunch.com/2024/09/12/hacker-tricks-chatgpt-into-giving-out-detailed-instructions-for-making-homemade-bombs/)
+- [New &#39;Firefly&#39; comics unveil the untold origins of Captain Mal and Zoë](https://www.space.com/firefly-year-one-comics-mal-zoe)
+- [Meta, TikTok and Snap pledge to participate in program to combat suicide and self-harm content](https://techcrunch.com/2024/09/12/meta-tiktok-and-snap-pledge-to-participate-in-program-to-combat-suicide-and-self-harm-content/)
+- [Bitcoin and NFTs may get greater legal protections as ‘personal property’ under proposed UK law](https://techcrunch.com/2024/09/12/bitcoin-and-nfts-may-get-greater-legal-protections-as-personal-property-under-proposed-uk-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
