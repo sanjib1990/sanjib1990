@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Y Combinator companies are flocking to banking and HR startup Every](https://techcrunch.com/2024/09/12/why-y-combinator-companies-are-flocking-to-new-banking-hr-startup-every/)
-- [Threads makes it easier to evangelize the open social web with a new direct link feature](https://techcrunch.com/2024/09/12/threads-makes-it-easier-to-evangelize-the-open-social-web-with-a-new-direct-link-feature/)
-- [Autonomous delivery startup Nuro pivots and another Indian EV scooter startup takes the IPO road](https://techcrunch.com/2024/09/12/autonomous-delivery-startup-nuro-pivots-and-another-indian-ev-scooter-startup-takes-the-ipo-road/)
-- [Sun fires off X-class solar flare, increasing aurora viewing chances into weekend](https://www.space.com/sun-solar-flare-september-12-aurora-chances)
-- [OpenAI unveils o1, a model that can fact-check itself](https://techcrunch.com/2024/09/12/openai-unveils-a-model-that-can-fact-check-itself/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [This startup is making manure out of other biogas power plants and now has $62M to play with](https://techcrunch.com/2024/09/12/this-startup-is-making-manure-out-of-other-biogas-power-plants-and-now-has-62m-to-play-with/)
+- [Faraday Future gives CEO and founder raises and bonuses after delivering 13 cars](https://techcrunch.com/2024/09/12/faraday-future-raise-bonus-matthias-aydt-jia-yueting/)
+- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/12/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/)
+- [Bolt has quietly settled its lawsuit with Fanatics amid ongoing boardroom drama](https://techcrunch.com/2024/09/12/bolt-has-quietly-settled-its-lawsuit-with-fanatics-amid-ongoing-boardroom-drama/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
