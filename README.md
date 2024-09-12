@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Polaris Dawn: World&#39;s 1st commercial spacewalk was history&#39;s 20th stand-up EVA](https://www.space.com/polaris-dawn-first-commercial-spacewalk-stand-up-eva)
+- [Microsoft lays off another 650 from gaming division](https://techcrunch.com/2024/09/12/microsoft-lays-off-another-650-from-gaming-division/)
 - [Satellites watch Francine make landfall as a Category 2 hurricane in Louisiana &lpar;video&rpar;](https://www.space.com/hurricane-francine-makes-landfall-in-louisiana-category-2)
 - [Hacker tricks ChatGPT into giving out detailed instructions for making homemade bombs](https://techcrunch.com/2024/09/12/hacker-tricks-chatgpt-into-giving-out-detailed-instructions-for-making-homemade-bombs/)
 - [New &#39;Firefly&#39; comics unveil the untold origins of Captain Mal and Zoë](https://www.space.com/firefly-year-one-comics-mal-zoe)
-- [Meta, TikTok and Snap pledge to participate in program to combat suicide and self-harm content](https://techcrunch.com/2024/09/12/meta-tiktok-and-snap-pledge-to-participate-in-program-to-combat-suicide-and-self-harm-content/)
-- [Bitcoin and NFTs may get greater legal protections as ‘personal property’ under proposed UK law](https://techcrunch.com/2024/09/12/bitcoin-and-nfts-may-get-greater-legal-protections-as-personal-property-under-proposed-uk-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
