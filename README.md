@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [This startup is making manure out of other biogas power plants and now has $62M to play with](https://techcrunch.com/2024/09/12/this-startup-is-making-manure-out-of-other-biogas-power-plants-and-now-has-62m-to-play-with/)
-- [Faraday Future gives CEO and founder raises and bonuses after delivering 13 cars](https://techcrunch.com/2024/09/12/faraday-future-raise-bonus-matthias-aydt-jia-yueting/)
-- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/12/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/)
-- [Bolt has quietly settled its lawsuit with Fanatics amid ongoing boardroom drama](https://techcrunch.com/2024/09/12/bolt-has-quietly-settled-its-lawsuit-with-fanatics-amid-ongoing-boardroom-drama/)
+- [Meta is making its AI info label less visible on content edited or modified by AI tools](https://techcrunch.com/2024/09/12/meta-is-making-its-ai-info-label-less-visible-on-content-edited-or-modified-by-ai-tools/)
+- [Cohost, the X rival founded with an anti-Big Tech manifesto, is running out of money and will shut down](https://techcrunch.com/2024/09/12/cohost-the-x-rival-founded-with-an-anti-big-tech-manifesto-is-running-out-of-money-and-will-shut-down/)
+- [Shopsense AI lets music fans buy dupes inspired by red-carpet looks at the VMAs](https://techcrunch.com/2024/09/12/shopsense-ai-technology-enables-music-fans-to-buy-dupes-inspired-by-red-carpet-looks-vmas/)
+- [Keith Rabois says Miami is still a great place for startups, even as a16z leaves](https://techcrunch.com/2024/09/12/keith-rabois-says-miami-is-still-a-great-place-for-startups-even-as-a16z-leaves/)
+- [SpaceX&#39;s Starship won&#39;t be licensed to fly again until late November, FAA says](https://www.space.com/spacex-starship-flight-five-late-november)
 <!-- BLOG-POST-LIST:END -->
 
 ---
