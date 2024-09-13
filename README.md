@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Super Heavy rocket gets supersonic wind tunnel test for NASA&#39;s Artemis moon missions &lpar;photos&rpar;](https://www.space.com/starship-super-heavy-wind-tunnel-tests)
 - [&#39;Star Wars Outlaws&#39; finally lets fans play as the scoundrel &lpar;review&rpar;](https://www.space.com/star-wars-outlaws-review)
 - [Some startups and investors are more risk-averse than others](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/)
 - [Y Combinator expanding to four cohorts a year in 2025](https://techcrunch.com/2024/09/13/y-combinator-expanding-to-four-cohorts-a-year-in-2025/)
 - [TechCrunch Minute: Meta acknowledges it’s scraping all public posts for AI training](https://techcrunch.com/video/techcrunch-minute-meta-acknowledges-its-scraping-all-public-posts-for-ai-training/)
-- [Apollo 11 moonwalk footprint featured on Sprayground&#39;s latest backpack](https://www.space.com/sprayground-launches-lunar-backpack-astronaut-footprint)
 <!-- BLOG-POST-LIST:END -->
 
 ---
