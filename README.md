@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo robotaxis will be on the Uber app in Austin, Atlanta in early 2025](https://techcrunch.com/2024/09/13/waymo-robotaxis-will-be-on-the-uber-app-in-austin-atlanta-in-early-2025/)
-- [Black hole or neutron star? Gravitational wave &#39;chirps&#39; can tell us what becomes of dying stars](https://www.space.com/dying-stars-chirps-neutron-star-black-hole)
-- [Polaris Dawn astronaut plays &#39;Star Wars&#39; song in music video beamed from space &lpar;video&rpar;](https://www.space.com/polaris-dawn-music-video-harmony-of-reslience)
-- [Howbout raises $8M from Goodwater to build a calendar that you can share with your friends](https://techcrunch.com/2024/09/13/howbout-raises-8m-from-goodwater-to-build-a-calendar-that-you-can-share-with-your-friends/)
-- [Japan&#39;s ispace will launch its 2nd lunar lander to the moon in December](https://www.space.com/japan-ispace-second-private-moon-mission-launch-spacex-december-2024)
+- [SpaceX launches 21 Starlink satellites from California&#39;s Vandenberg Space Force Base, lands rocket &lpar;video&rpar;](https://www.space.com/spacex-starlink-satellite-group-9-6-launch-success)
+- [ESA&#39;s JUICE spacecraft confirmed Earth is habitable. Here&#39;s why](https://www.space.com/esa-juice-confirms-earth-is-habitable)
+- [Spotify begins piloting parent-managed accounts for kids on family plans](https://techcrunch.com/2024/09/13/spotify-begins-piloting-parent-managed-accounts-for-kids-on-family-plans/)
+- [SpaceX&#39;s private Polaris Dawn astronauts beam photos to Earth using Starlink satellites](https://www.space.com/spacex-polaris-dawn-astronauts-photos-starlink-internet)
+- [Waymo robotaxis to become available on Uber in Austin, Atlanta in early 2025](https://techcrunch.com/2024/09/13/waymo-robotaxis-will-be-on-the-uber-app-in-austin-atlanta-in-early-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
