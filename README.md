@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three and Vodafone’s $19B merger hits the skids as UK rules the deal would adversely impact customers and MVNOs](https://techcrunch.com/2024/09/13/three-and-vodafones-19b-merger-hits-the-skids-as-uk-rules-the-deal-is/)
 - [Oprah just had an AI special with Sam Altman and Bill Gates — here are the highlights](https://techcrunch.com/2024/09/12/ophah-just-had-an-ai-special-with-sam-altman-and-bill-gates-here-are-the-highlights/)
 - [XP Health grabs $32M to bring employees more affordable vision care](https://techcrunch.com/2024/09/12/xp-health-grabs-32m-to-bring-employees-more-affordable-vision-care/)
 - [Polaris Dawn astronauts perform historic private spacewalk while wearing SpaceX-made suits](https://techcrunch.com/2024/09/12/polaris-dawn-astronauts-perform-historic-private-spacewalk-while-wearing-spacex-made-suits/)
 - [Keith Rabois says Miami is still a great place for startups, even as a16z leaves](https://techcrunch.com/2024/09/12/keith-rabois-says-miami-is-still-a-great-place-for-startups-even-as-a16z-leaves/)
-- [Meta is making its AI info label less visible on content edited or modified by AI tools](https://techcrunch.com/2024/09/12/meta-is-making-its-ai-info-label-less-visible-on-content-edited-or-modified-by-ai-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
