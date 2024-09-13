@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/)
 - [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/)
 - [First impressions of ChatGPT o1: An AI designed to overthink it](https://techcrunch.com/2024/09/13/first-impressions-of-chatgpt-o1-an-ai-designed-to-overthink-it/)
 - [The best 70s sci-fi movies](https://www.space.com/best-70s-sci-fi-movies)
 - [Watch space aliens invade in wild new &#39;Venom: The Last Dance&#39; trailer &lpar;video&rpar;](https://www.space.com/venom-last-dance-aliens-invade-final-trailer)
-- [A fight is brewing as TuSimple tries to move $450M to China and pivot from self-driving trucks to AI animation](https://techcrunch.com/2024/09/13/a-fight-is-brewing-as-tusimple-tries-to-move-450m-to-china-and-pivot-from-self-driving-trucks-to-ai-animation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
