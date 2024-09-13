@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vanta’s Christina Cacioppo takes the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/vantas-christina-cacioppo-takes-the-stage-at-techcrunch-disrupt-2024/)
+- [Iron winds and molten metal rains ravage a hellish hot Jupiter exoplanet](https://www.space.com/hot-jupiter-exoplanet-iron-winds-metal-rains)
+- [Fortinet confirms customer data breach](https://techcrunch.com/2024/09/13/fortinet-confirms-customer-data-breach/)
+- [Meta reignites plans to train AI using UK users’ public Facebook and Instagram posts](https://techcrunch.com/2024/09/13/meta-reignites-plans-to-train-ai-using-uk-users-public-facebook-and-instagram-posts/)
 - [SpaceX launches 21 Starlink satellites from California&#39;s Vandenberg Space Force Base, lands rocket &lpar;video&rpar;](https://www.space.com/spacex-starlink-satellite-group-9-6-launch-success)
-- [ESA&#39;s JUICE spacecraft confirmed Earth is habitable. Here&#39;s why](https://www.space.com/esa-juice-confirms-earth-is-habitable)
-- [Spotify begins piloting parent-managed accounts for kids on family plans](https://techcrunch.com/2024/09/13/spotify-begins-piloting-parent-managed-accounts-for-kids-on-family-plans/)
-- [SpaceX&#39;s private Polaris Dawn astronauts beam photos to Earth using Starlink satellites](https://www.space.com/spacex-polaris-dawn-astronauts-photos-starlink-internet)
-- [Waymo robotaxis to become available on Uber in Austin, Atlanta in early 2025](https://techcrunch.com/2024/09/13/waymo-robotaxis-will-be-on-the-uber-app-in-austin-atlanta-in-early-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
