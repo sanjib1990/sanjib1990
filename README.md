@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Minute: Meta acknowledges it’s scraping all public posts for AI training](https://techcrunch.com/video/techcrunch-minute-meta-acknowledges-its-scraping-all-public-posts-for-ai-training/)
+- [Apollo 11 moonwalk footprint featured on Sprayground&#39;s latest backpack](https://www.space.com/sprayground-launches-lunar-backpack-astronaut-footprint)
+- [Telegram CEO Durov’s arrest hasn’t dampened enthusiasm for its TON blockchain](https://techcrunch.com/2024/09/13/telegram-ceo-durovs-arrest-hasnt-dampened-enthusiasm-for-its-ton-blockchain/)
+- [A fireside chat with Andreessen Horowitz partner Martin Casado at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/a-fireside-chat-with-andreessen-horowitz-partner-martin-casado-at-techcrunch-disrupt-2024/)
 - [Vanta’s Christina Cacioppo takes the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/vantas-christina-cacioppo-takes-the-stage-at-techcrunch-disrupt-2024/)
-- [Iron winds and molten metal rains ravage a hellish hot Jupiter exoplanet](https://www.space.com/hot-jupiter-exoplanet-iron-winds-metal-rains)
-- [Fortinet confirms customer data breach](https://techcrunch.com/2024/09/13/fortinet-confirms-customer-data-breach/)
-- [Meta reignites plans to train AI using UK users’ public Facebook and Instagram posts](https://techcrunch.com/2024/09/13/meta-reignites-plans-to-train-ai-using-uk-users-public-facebook-and-instagram-posts/)
-- [SpaceX launches 21 Starlink satellites from California&#39;s Vandenberg Space Force Base, lands rocket &lpar;video&rpar;](https://www.space.com/spacex-starlink-satellite-group-9-6-launch-success)
 <!-- BLOG-POST-LIST:END -->
 
 ---
