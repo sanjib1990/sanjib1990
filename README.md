@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo robotaxis will be on the Uber app in Austin, Atlanta in early 2025](https://techcrunch.com/2024/09/13/waymo-robotaxis-will-be-on-the-uber-app-in-austin-atlanta-in-early-2025/)
+- [Black hole or neutron star? Gravitational wave &#39;chirps&#39; can tell us what becomes of dying stars](https://www.space.com/dying-stars-chirps-neutron-star-black-hole)
+- [Polaris Dawn astronaut plays &#39;Star Wars&#39; song in music video beamed from space &lpar;video&rpar;](https://www.space.com/polaris-dawn-music-video-harmony-of-reslience)
 - [Howbout raises $8M from Goodwater to build a calendar that you can share with your friends](https://techcrunch.com/2024/09/13/howbout-raises-8m-from-goodwater-to-build-a-calendar-that-you-can-share-with-your-friends/)
 - [Japan&#39;s ispace will launch its 2nd lunar lander to the moon in December](https://www.space.com/japan-ispace-second-private-moon-mission-launch-spacex-december-2024)
-- [SoftBank-backed Delhivery contests metrics in rival Ecom Express’ IPO filing](https://techcrunch.com/2024/09/13/softbank-backed-delhivery-contests-metrics-in-rival-ecom-express-ipo-filing/)
-- [Boeing’s Starliner astronauts speak publicly today for 1st time in 2 months: Watch it live](https://www.space.com/boeing-starliner-astronauts-iss-webcast-september-2024)
-- [Alternative app stores will be allowed on Apple iPad in the EU from September 16](https://techcrunch.com/2024/09/13/alternative-app-stores-allowed-on-the-ipad-in-the-eu-starting-september-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
