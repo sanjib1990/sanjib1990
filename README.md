@@ -96,9 +96,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [SoftBank-backed Delhivery contests metrics in rival Ecom Express’ IPO filing](https://techcrunch.com/2024/09/13/softbank-backed-delhivery-contests-metrics-in-rival-ecom-express-ipo-filing/)
 - [Boeing’s Starliner astronauts speak publicly today for 1st time in 2 months: Watch it live](https://www.space.com/boeing-starliner-astronauts-iss-webcast-september-2024)
+- [Alternative app stores will be allowed on Apple iPad in the EU from September 16](https://techcrunch.com/2024/09/13/alternative-app-stores-allowed-on-the-ipad-in-the-eu-starting-september-16/)
 - [Three and Vodafone’s $19B merger hits the skids as UK rules the deal would adversely impact customers and MVNOs](https://techcrunch.com/2024/09/13/three-and-vodafones-19b-merger-hits-the-skids-as-uk-rules-the-deal-is/)
 - [Oprah just had an AI special with Sam Altman and Bill Gates — here are the highlights](https://techcrunch.com/2024/09/12/ophah-just-had-an-ai-special-with-sam-altman-and-bill-gates-here-are-the-highlights/)
-- [XP Health grabs $32M to bring employees more affordable vision care](https://techcrunch.com/2024/09/12/xp-health-grabs-32m-to-bring-employees-more-affordable-vision-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
