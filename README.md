@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Super Heavy rocket gets supersonic wind tunnel test for NASA&#39;s Artemis moon missions &lpar;photos&rpar;](https://www.space.com/starship-super-heavy-wind-tunnel-tests)
-- [&#39;Star Wars Outlaws&#39; finally lets fans play as the scoundrel &lpar;review&rpar;](https://www.space.com/star-wars-outlaws-review)
-- [Some startups and investors are more risk-averse than others](https://techcrunch.com/2024/09/13/some-startups-and-investors-are-more-risk-averse-than-others/)
-- [Y Combinator expanding to four cohorts a year in 2025](https://techcrunch.com/2024/09/13/y-combinator-expanding-to-four-cohorts-a-year-in-2025/)
-- [TechCrunch Minute: Meta acknowledges it’s scraping all public posts for AI training](https://techcrunch.com/video/techcrunch-minute-meta-acknowledges-its-scraping-all-public-posts-for-ai-training/)
+- [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/)
+- [First impressions of ChatGPT o1: An AI designed to overthink it](https://techcrunch.com/2024/09/13/first-impressions-of-chatgpt-o1-an-ai-designed-to-overthink-it/)
+- [The best 70s sci-fi movies](https://www.space.com/best-70s-sci-fi-movies)
+- [Watch space aliens invade in wild new &#39;Venom: The Last Dance&#39; trailer &lpar;video&rpar;](https://www.space.com/venom-last-dance-aliens-invade-final-trailer)
+- [A fight is brewing as TuSimple tries to move $450M to China and pivot from self-driving trucks to AI animation](https://techcrunch.com/2024/09/13/a-fight-is-brewing-as-tusimple-tries-to-move-450m-to-china-and-pivot-from-self-driving-trucks-to-ai-animation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
