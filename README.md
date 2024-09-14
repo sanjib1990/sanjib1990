@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepWell DTx receives FDA clearance for its therapeutic video game developer tools](https://techcrunch.com/2024/09/14/deepwell-dtx-receives-fda-clearance-for-its-therapeutic-video-game-developer-tools/)
 - [Astronauts 3D-print first metal part while on ISS](https://www.space.com/astronauts-3d-print-first-metal-part-on-iss)
 - [This Week In Space podcast: Episode 128 —Starliner is Back! What Now?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-128-starliner-back-what-now)
 - [These two friends built a simple tool to transfer playlists between Apple Music and Spotify, and it works great](https://techcrunch.com/2024/09/14/these-two-friends-built-a-simple-tool-to-transfer-playlists-between-apple-music-and-spotify-and-it-works-great/)
 - [A sprinkling of cosmic dust may have helped kick-start life on Earth](https://www.space.com/cosmic-dust-may-have-helped-kick-start-life-on-earth)
-- [This is how bad China’s startup scene looks now](https://techcrunch.com/2024/09/13/this-is-how-bad-chinas-startup-scene-looks-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
