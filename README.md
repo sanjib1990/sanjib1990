@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI could shake up its nonprofit structure next year](https://techcrunch.com/2024/09/14/openai-could-shake-up-its-nonprofit-structure-next-year/)
+- [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/)
+- [‘Hot Ones’ could add some heat to Netflix’s live lineup](https://techcrunch.com/2024/09/14/hot-ones-could-add-some-heat-to-netflixs-live-lineup/)
 - [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/)
 - [Sam Bankman-Fried appeals conviction, criticizes judge’s ‘unbalanced’ decisions](https://techcrunch.com/2024/09/14/sam-bankman-fried-appeals-conviction-criticizes-judges-unbalanced-decisions/)
-- [OpenAI previews its new Strawberry model](https://techcrunch.com/2024/09/14/openai-previews-its-new-strawberry-model/)
-- [DeepWell DTx receives FDA clearance for its therapeutic video game developer tools](https://techcrunch.com/2024/09/14/deepwell-dtx-receives-fda-clearance-for-its-therapeutic-video-game-developer-tools/)
-- [Astronauts 3D-print first metal part while on ISS](https://www.space.com/astronauts-3d-print-first-metal-part-on-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
