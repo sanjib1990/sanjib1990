@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This is how bad China’s startup scene looks now](https://techcrunch.com/2024/09/13/this-is-how-bad-chinas-startup-scene-looks-now/)
 - [Fei-Fei Li’s World Labs comes out of stealth with $230M in funding](https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/)
 - [Super Harvest Moon lunar eclipse: How to watch online for free on Sept. 17](https://www.space.com/super-harvest-moon-lunar-eclipse-how-to-watch)
 - [&#39;We just ran out of time&#39;: Boeing Starliner astronauts on why their spaceship returned to Earth without them](https://www.space.com/boeing-starliner-ran-out-of-time-butch-wilmore-suni-williams)
 - [Fintech Bolt is buying out the investor suing over Ryan Breslow’s $30M loan](https://techcrunch.com/2024/09/13/fintech-bolt-is-buying-out-the-investor-suing-over-ryan-breslows-30m-loan/)
-- [Dave and Varo Bank execs are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/13/chime-and-dave-execs-are-coming-to-techcrunch-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
