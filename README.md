@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/)
+- [Sam Bankman-Fried appeals conviction, criticizes judge’s ‘unbalanced’ decisions](https://techcrunch.com/2024/09/14/sam-bankman-fried-appeals-conviction-criticizes-judges-unbalanced-decisions/)
 - [OpenAI previews its new Strawberry model](https://techcrunch.com/2024/09/14/openai-previews-its-new-strawberry-model/)
 - [DeepWell DTx receives FDA clearance for its therapeutic video game developer tools](https://techcrunch.com/2024/09/14/deepwell-dtx-receives-fda-clearance-for-its-therapeutic-video-game-developer-tools/)
 - [Astronauts 3D-print first metal part while on ISS](https://www.space.com/astronauts-3d-print-first-metal-part-on-iss)
-- [This Week In Space podcast: Episode 128 —Starliner is Back! What Now?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-128-starliner-back-what-now)
-- [These two friends built a simple tool to transfer playlists between Apple Music and Spotify, and it works great](https://techcrunch.com/2024/09/14/these-two-friends-built-a-simple-tool-to-transfer-playlists-between-apple-music-and-spotify-and-it-works-great/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
