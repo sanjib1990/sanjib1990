@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These two friends built a simple tool to transfer playlists between Apple Music and Spotify, and it works great](https://techcrunch.com/2024/09/14/these-two-friends-built-a-simple-tool-to-transfer-playlists-between-apple-music-and-spotify-and-it-works-great/)
 - [A sprinkling of cosmic dust may have helped kick-start life on Earth](https://www.space.com/cosmic-dust-may-have-helped-kick-start-life-on-earth)
 - [This is how bad China’s startup scene looks now](https://techcrunch.com/2024/09/13/this-is-how-bad-chinas-startup-scene-looks-now/)
 - [Fei-Fei Li’s World Labs comes out of stealth with $230M in funding](https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/)
 - [Super Harvest Moon lunar eclipse: How to watch online for free on Sept. 17](https://www.space.com/super-harvest-moon-lunar-eclipse-how-to-watch)
-- [&#39;We just ran out of time&#39;: Boeing Starliner astronauts on why their spaceship returned to Earth without them](https://www.space.com/boeing-starliner-ran-out-of-time-butch-wilmore-suni-williams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
