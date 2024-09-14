@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s private Polaris Dawn astronauts will return to Earth early Sunday. Here&#39;s how to watch live online](https://www.space.com/polaris-dawn-astronauts-return-to-earth-how-to-watch-livestream)
 - [The LinkedIn games are fun, actually](https://techcrunch.com/2024/09/14/the-linkedin-games-are-fun-actually/)
 - [OpenAI could shake up its nonprofit structure next year](https://techcrunch.com/2024/09/14/openai-could-shake-up-its-nonprofit-structure-next-year/)
 - [Every fusion startup that has raised over $300M](https://techcrunch.com/2024/09/14/every-fusion-startup-that-has-raised-over-300m/)
 - [‘Hot Ones’ could add some heat to Netflix’s live lineup](https://techcrunch.com/2024/09/14/hot-ones-could-add-some-heat-to-netflixs-live-lineup/)
-- [Why ORNG’s founder pivoted from college food ordering to real-time money transfer](https://techcrunch.com/2024/09/14/why-orngs-founder-pivoted-from-college-food-ordering-to-real-time-money-transfer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
