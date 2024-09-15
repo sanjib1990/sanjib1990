@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cohere co-founder Nick Frosst’s indie band, Good Kid, is almost as successful as his AI company](https://techcrunch.com/2024/09/15/cohere-co-founder-nick-frossts-indie-band-good-kid-is-almost-as-successful-as-his-ai-company/)
 - [Could we turn the sun into a gigantic telescope?](https://www.space.com/sun-gigantic-telescope-with-gravitational-lensing)
 - [A walk through the crypto jungle at Korea Blockchain Week](https://techcrunch.com/2024/09/15/a-walk-through-the-crypto-jungle-at-korea-blockchain-week/)
 - [SpaceX&#39;s private Polaris Dawn astronauts splash down to end historic spacewalk mission &lpar;video&rpar;](https://www.space.com/spacex-polaris-dawn-private-astronaut-mission-splashdown)
 - [SpaceX&#39;s private Polaris Dawn astronauts will return to Earth early Sunday. Here&#39;s how to watch live online](https://www.space.com/polaris-dawn-astronauts-return-to-earth-how-to-watch-livestream)
-- [The LinkedIn games are fun, actually](https://techcrunch.com/2024/09/14/the-linkedin-games-are-fun-actually/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
