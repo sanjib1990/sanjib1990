@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s privacy watchdog takes credit for rise of ‘consent or pay’](https://techcrunch.com/2024/09/16/uks-privacy-watchdog-takes-credit-for-rise-of-consent-or-pay/)
+- [Sam Altman departs OpenAI’s safety committee](https://techcrunch.com/2024/09/16/sam-altman-departs-openais-safety-committee/)
 - [TechCrunch Space: The dawn of Polaris](https://techcrunch.com/2024/09/16/techcrunch-space-the-dawn-of-polaris/)
 - [Mammoth’s founder returns with new iOS app for Mastodon, Saturn](https://techcrunch.com/2024/09/16/mammoths-founder-returns-with-new-ios-app-for-mastodon-saturn/)
 - [IDW&#39;s &#39;Star Trek: Lore War&#39; will bring back Data&#39;s evil brother in 2025 comics crossover event](https://www.space.com/star-trek-lore-war-idw-data-comics-crossover-event-2025)
-- [Google and Muon Space join forces to continuously scan Earth for wildfires](https://techcrunch.com/2024/09/16/google-and-muon-space-join-forces-to-continuously-scan-the-earth-for-wildfires/)
-- [Microsoft Copilot: Everything you need to know about Microsoft’s AI](https://techcrunch.com/2024/09/16/microsoft-copilot-everything-you-need-to-know-about-microsofts-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
