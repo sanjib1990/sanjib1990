@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IBM makes developing for quantum computers easier with the Qiskit Functions Catalog](https://techcrunch.com/2024/09/16/ibm-makes-developing-for-quantum-computers-easier-with-the-qiskit-functions-catalog/)
-- [&#39;Astroneer&#39; is getting a surprise expansion 8 years after launch &lpar;video&rpar;](https://www.space.com/astroneer-getting-a-surprise-expansion-pack-with-an-unexpected-villain-eight-years-after-launch)
-- [This Nikon Z6 II mirrorless camera bundle is now $500 off](https://www.space.com/nikon-z6ii-bundle-deal-save-500-dollars-september-2024)
-- [Aurora alert: Powerful geomagnetic storm could spark northern lights across US and Europe tonight](https://www.space.com/aurora-alert-northern-lights-september-mid-latitudes-south)
-- [AI coding assistant Supermaven raises cash from OpenAI and Perplexity co-founders](https://techcrunch.com/2024/09/16/ai-coding-assistant-supermaven-raises-cash-from-openai-and-perplexity-founders/)
+- [Collisions could increase chance of &#39;God of Destruction&#39; asteroid Apophis hitting Earth](https://www.space.com/collisions-could-increase-chance-apophis-hitting-earth)
+- [Colin Kaepernick is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/16/colin-kaepernick-is-coming-to-techcrunch-disrupt-2024/)
+- [Generative AI startup Typeface acquires two companies, Treat and Narrato, to bolster its portfolio](https://techcrunch.com/2024/09/16/generative-ai-startup-typeface-acquires-two-companies-treat-and-narrato-to-bolster-its-portfolio/)
+- [Life360’s Tile introduces its first new Bluetooth trackers since its acquisition](https://techcrunch.com/2024/09/16/life360-tile-bluetooth-trackers-new-lineup-since-acquisition/)
+- [Runway announces an API for its video-generating models](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
