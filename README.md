@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM makes developing for quantum computers easier with the Qiskit Functions Catalog](https://techcrunch.com/2024/09/16/ibm-makes-developing-for-quantum-computers-easier-with-the-qiskit-functions-catalog/)
+- [&#39;Astroneer&#39; is getting a surprise expansion 8 years after launch &lpar;video&rpar;](https://www.space.com/astroneer-getting-a-surprise-expansion-pack-with-an-unexpected-villain-eight-years-after-launch)
+- [This Nikon Z6 II mirrorless camera bundle is now $500 off](https://www.space.com/nikon-z6ii-bundle-deal-save-500-dollars-september-2024)
+- [Aurora alert: Powerful geomagnetic storm could spark northern lights across US and Europe tonight](https://www.space.com/aurora-alert-northern-lights-september-mid-latitudes-south)
 - [AI coding assistant Supermaven raises cash from OpenAI and Perplexity co-founders](https://techcrunch.com/2024/09/16/ai-coding-assistant-supermaven-raises-cash-from-openai-and-perplexity-founders/)
-- [TeamBridge, founded by former Uber execs, raises $28M to build HR software for hourly workers](https://techcrunch.com/2024/09/16/teambridge-founded-by-former-uber-execs-sells-hr-software-for-hourly-workers/)
-- [China prepares for 1st launch of new Long March 8A rocket](https://www.space.com/china-long-march-8a-1st-launch-preparations)
-- [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/)
-- [Apple AirPods 4 with Active Noise Cancellation review](https://techcrunch.com/2024/09/16/apple-airpods-4-with-active-noise-cancellation-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
