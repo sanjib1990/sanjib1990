@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple AirPods 4 with Active Noise Cancellation review](https://techcrunch.com/2024/09/16/apple-airpods-4-with-active-noise-cancellation-review/)
+- [&#39;Surprising&#39; warmth above Antarctica is earliest observed on record](https://www.space.com/nasa-detects-surprising-warmth-above-antarctica-earliest-observed-on-record)
 - [Myntra bets on 4-hour delivery amid India’s quick commerce boom](https://techcrunch.com/2024/09/16/myntra-bets-on-4-hour-delivery-amid-indias-quick-commerce-boom/)
 - [James Webb Telescope goes &#39;extreme&#39; and spots baby stars at the edge of the Milky Way &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-extreme-outer-galaxy)
 - [AWS brings OpenSearch under the Linux Foundation umbrella](https://techcrunch.com/2024/09/16/aws-brings-opensearch-under-the-linux-foundation-umbrella/)
-- [Insight Partners is closing in on a whopping $10B+ new fund](https://techcrunch.com/2024/09/15/insight-partners-is-closing-in-on-a-whopping-10b-new-fund/)
-- [Port of Seattle shares ransomware attack details](https://techcrunch.com/2024/09/15/port-of-seattle-shares-ransomware-attack-details/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
