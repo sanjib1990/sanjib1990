@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Marvel Endgame Final Battle review](https://www.space.com/lego-avengers-endgame-final-battle-review)
+- [Salesforce Ventures ups its AI fund to $1B, doubling it again](https://techcrunch.com/2024/09/16/salesforce-ventures-ups-its-ai-fund-to-1-billion-doubling-it-again/)
+- [Amazon mandates full 5-day return to office](https://techcrunch.com/2024/09/16/amazon-mandates-full-five-day-return-to-office/)
+- [Runway announces an API for its video-generating AI models](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/)
 - [Gogoro CEO resigns as subsidy fraud investigation continues](https://techcrunch.com/2024/09/16/gogoro-ceo-resigns-as-subsidy-fraud-investigation-continues/)
-- [iOS 18 is out: Here’s what’s new](https://techcrunch.com/2024/09/16/ios-18-review/)
-- [Apple’s iOS 18 is now available to download](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
-- [Oracle CEO Larry Ellison says that AI will someday track your every move](https://techcrunch.com/2024/09/16/oracle-ceo-larry-ellison-says-that-ai-will-someday-track-your-every-move/)
-- [James Webb Space Telescope witnesses a black hole &#39;killing&#39; its galaxy &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-sees-black-hole-kill-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
