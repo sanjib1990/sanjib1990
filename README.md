@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Collisions could increase chance of &#39;God of Destruction&#39; asteroid Apophis hitting Earth](https://www.space.com/collisions-could-increase-chance-apophis-hitting-earth)
-- [Colin Kaepernick is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/16/colin-kaepernick-is-coming-to-techcrunch-disrupt-2024/)
-- [Generative AI startup Typeface acquires two companies, Treat and Narrato, to bolster its portfolio](https://techcrunch.com/2024/09/16/generative-ai-startup-typeface-acquires-two-companies-treat-and-narrato-to-bolster-its-portfolio/)
-- [Life360’s Tile introduces its first new Bluetooth trackers since its acquisition](https://techcrunch.com/2024/09/16/life360-tile-bluetooth-trackers-new-lineup-since-acquisition/)
-- [Runway announces an API for its video-generating models](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/)
+- [James Webb Space Telescope witnesses a black hole &#39;killing&#39; its galaxy &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-sees-black-hole-kill-galaxy)
+- [11xAI raises $24M led by Benchmark to build AI digital employees](https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/)
+- [TechCrunch Minute: FDA approval sets the stage for Apple’s AirPod hearing aids](https://techcrunch.com/video/techcrunch-minute-fda-approval-sets-the-stage-for-apples-airpod-hearing-aids/)
+- [As TikTok ban heads to court, ByteDance’s Lemon8 surges](https://techcrunch.com/2024/09/16/as-tiktok-ban-heads-to-court-bytedances-lemon8-surges/)
+- [U.S. government expands sanctions against spyware maker Intellexa](https://techcrunch.com/2024/09/16/us-government-expands-sanctions-against-spyware-maker-intellexa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
