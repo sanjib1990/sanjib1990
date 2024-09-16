@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gogoro CEO resigns as subsidy fraud investigation continues](https://techcrunch.com/2024/09/16/gogoro-ceo-resigns-as-subsidy-fraud-investigation-continues/)
 - [iOS 18 is out: Here’s what’s new](https://techcrunch.com/2024/09/16/ios-18-review/)
 - [Apple’s iOS 18 is now available to download](https://techcrunch.com/2024/09/16/ios-18-is-now-available-to-download/)
 - [Oracle CEO Larry Ellison says that AI will someday track your every move](https://techcrunch.com/2024/09/16/oracle-ceo-larry-ellison-says-that-ai-will-someday-track-your-every-move/)
 - [James Webb Space Telescope witnesses a black hole &#39;killing&#39; its galaxy &lpar;photo&rpar;](https://www.space.com/james-webb-space-telescope-sees-black-hole-kill-galaxy)
-- [11xAI raises $24M led by Benchmark to build AI digital employees](https://techcrunch.com/2024/09/16/ai-digital-employee-startup-11xai-raises-24m-led-by-benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
