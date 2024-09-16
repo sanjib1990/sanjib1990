@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fisker Ocean owners stuck paying for recall repairs](https://techcrunch.com/2024/09/16/fisker-ocean-owners-stuck-paying-for-recall-repairs/)
-- [NASA astronaut photographs SpaceX&#39;s private Polaris Dawn capsule reentry from ISS &lpar;photo&rpar;](https://www.space.com/spacex-polaris-dawn-earth-return-iss-photo)
-- [Lego Marvel Endgame Final Battle review](https://www.space.com/lego-avengers-endgame-final-battle-review)
-- [Salesforce Ventures ups its AI fund to $1B, doubling it again](https://techcrunch.com/2024/09/16/salesforce-ventures-ups-its-ai-fund-to-1-billion-doubling-it-again/)
-- [Amazon mandates full 5-day return to office](https://techcrunch.com/2024/09/16/amazon-mandates-full-five-day-return-to-office/)
+- [TechCrunch Space: The dawn of Polaris](https://techcrunch.com/2024/09/16/techcrunch-space-the-dawn-of-polaris/)
+- [Mammoth’s founder returns with new iOS app for Mastodon, Saturn](https://techcrunch.com/2024/09/16/mammoths-founder-returns-with-new-ios-app-for-mastodon-saturn/)
+- [IDW&#39;s &#39;Star Trek: Lore War&#39; will bring back Data&#39;s evil brother in 2025 comics crossover event](https://www.space.com/star-trek-lore-war-idw-data-comics-crossover-event-2025)
+- [Google and Muon Space join forces to continuously scan Earth for wildfires](https://techcrunch.com/2024/09/16/google-and-muon-space-join-forces-to-continuously-scan-the-earth-for-wildfires/)
+- [Microsoft Copilot: Everything you need to know about Microsoft’s AI](https://techcrunch.com/2024/09/16/microsoft-copilot-everything-you-need-to-know-about-microsofts-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
