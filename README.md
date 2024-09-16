@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hide your files like a hacker &lpar;5 Ways&rpar;](https://www.youtube.com/watch?v=VcqtWsbSbgU)
 - [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks](https://www.youtube.com/watch?v=6xlPJiNpCVw)
 - [The new ChatGPT just dropped….it solves a big problem](https://www.youtube.com/watch?v=LhpGFDWJgKk)
 - [The Internet&#39;s most broken protocol](https://www.youtube.com/watch?v=cOE2miIh1_o)
 - [I think I made the longest URL......](https://www.youtube.com/watch?v=2VvWM6gdDlk)
-- [Proxy vs Reverse Proxy vs Load Balancer | Simply Explained](https://www.youtube.com/watch?v=xo5V9g9joFs)
 <!-- YOUTUBE:END -->
 
 ---
