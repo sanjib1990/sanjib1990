@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Telescope goes &#39;extreme&#39; and spots baby stars at the edge of the Milky Way &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-extreme-outer-galaxy)
 - [AWS brings OpenSearch under the Linux Foundation umbrella](https://techcrunch.com/2024/09/16/aws-brings-opensearch-under-the-linux-foundation-umbrella/)
 - [Insight Partners is closing in on a whopping $10B+ new fund](https://techcrunch.com/2024/09/15/insight-partners-is-closing-in-on-a-whopping-10b-new-fund/)
 - [Port of Seattle shares ransomware attack details](https://techcrunch.com/2024/09/15/port-of-seattle-shares-ransomware-attack-details/)
 - [Flappy Bird’s creator disavows ‘official’ new version of the game](https://techcrunch.com/2024/09/15/flappy-birds-creator-disavows-official-new-version-of-the-game/)
-- [DryMerge promises to connect apps that normally don’t talk to each other — and when it works, it’s great](https://techcrunch.com/2024/09/15/drymerge-promises-to-connect-apps-that-normally-dont-talk-to-each-other-and-when-it-works-its-great/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
