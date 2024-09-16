@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker Ocean owners stuck paying for recall repairs](https://techcrunch.com/2024/09/16/fisker-ocean-owners-stuck-paying-for-recall-repairs/)
+- [NASA astronaut photographs SpaceX&#39;s private Polaris Dawn capsule reentry from ISS &lpar;photo&rpar;](https://www.space.com/spacex-polaris-dawn-earth-return-iss-photo)
 - [Lego Marvel Endgame Final Battle review](https://www.space.com/lego-avengers-endgame-final-battle-review)
 - [Salesforce Ventures ups its AI fund to $1B, doubling it again](https://techcrunch.com/2024/09/16/salesforce-ventures-ups-its-ai-fund-to-1-billion-doubling-it-again/)
 - [Amazon mandates full 5-day return to office](https://techcrunch.com/2024/09/16/amazon-mandates-full-five-day-return-to-office/)
-- [Runway announces an API for its video-generating AI models](https://techcrunch.com/2024/09/16/runway-announces-an-api-for-its-video-generating-models/)
-- [Gogoro CEO resigns as subsidy fraud investigation continues](https://techcrunch.com/2024/09/16/gogoro-ceo-resigns-as-subsidy-fraud-investigation-continues/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
