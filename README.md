@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Patreon launches features to automate away creators’ administrative workload and help them make more money](https://techcrunch.com/2024/09/17/patreon-launches-features-to-automate-away-creators-administrative-workload-and-help-them-make-more-money/)
+- [BlackRock and Microsoft are reportedly planning a $30B AI-focused megafund](https://techcrunch.com/2024/09/17/blackrock-and-microsoft-are-reportedly-planning-a-30b-ai-focused-megafund/)
+- [Neuralink’s ‘breakthrough device’ clearance from FDA does not mean it has cured blindness](https://techcrunch.com/2024/09/17/neuralinks-breakthrough-device-clearance-from-fda-does-not-mean-they-have-cured-blindness/)
 - [SpaceX launching 2 European navigation satellites tonight](https://www.space.com/spacex-galileo-l13-satellite-navigation-launch)
 - [Discord launches end-to-end encrypted voice and video chats](https://techcrunch.com/2024/09/17/discord-launches-end-to-end-encrypted-voice-and-video-chats/)
-- [Mozilla exits the fediverse and will shutter its Mastodon server in December](https://techcrunch.com/2024/09/17/mozilla-exits-the-fediverse-and-will-shutter-its-mastodon-server-in-december/)
-- [Mistral launches a free tier for developers to test its AI models](https://techcrunch.com/2024/09/17/mistral-launches-a-free-tier-for-developers-to-test-its-ai-models/)
-- [A &#39;primordial&#39; black hole may zoom through our solar system every decade](https://www.space.com/black-holes-solar-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
