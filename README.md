@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic Games Store — and Fortnite — now available on iPad in the EU](https://techcrunch.com/2024/09/17/epic-games-store-and-fortnite-now-available-on-ipad-in-the-eu/)
-- [IBM acquires Kubernetes cost optimization startup Kubecost](https://techcrunch.com/2024/09/17/ibm-acquires-kubernetes-cost-optimization-startup-kubecost/)
-- [Google will begin flagging AI-generated images in Search later this year](https://techcrunch.com/2024/09/17/google-will-begin-flagging-ai-generated-images-in-search-later-this-year/)
-- [TechCrunch Minute: It’s never been easier to migrate your Spotify playlists to Apple Music](https://techcrunch.com/video/techcrunch-minute-its-never-been-easier-to-migrate-your-spotify-playlists-to-apple-music/)
-- [9 firsts in 5 days: Polaris Dawn crew lands from history-making SpaceX mission](https://www.space.com/polaris-dawn-splashdown-records-firsts)
+- [FAA plans to fine SpaceX $630,000 for alleged launch violations](https://www.space.com/faa-fining-spacex-launches-2023)
+- [Snap’s extremely large Spectacles bring impressive AR to developers at $99 a month](https://techcrunch.com/2024/09/17/snaps-extremely-large-spectacles-bring-impressive-ar-to-developers-at-99-a-month/)
+- [AWS shuts down DeepComposer, its MIDI keyboard for AI music](https://techcrunch.com/2024/09/17/aws-shuts-down-deepcomposer-its-midi-keyboard-for-ai-music/)
+- [Snap’s new AI feature lets you create Snapchat Lenses by simply describing them](https://techcrunch.com/2024/09/17/snaps-new-ai-feature-lets-you-create-snapchat-lenses-by-simply-describing-them/)
+- [Snapchat launches video comments and tools for creators seeking brand deals](https://techcrunch.com/2024/09/17/snapchat-creators-more-ways-engage-viewers-land-brand-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
