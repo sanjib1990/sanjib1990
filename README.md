@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A &#39;primordial&#39; black hole may zoom through our solar system every decade](https://www.space.com/black-holes-solar-system)
+- [Ursa Major nabs $12.5M from U.S. Navy, DoD for 3D printed rocket motors](https://techcrunch.com/2024/09/17/ursa-major-nabs-12-5m-from-u-s-navy-dod-for-3d-printed-rocket-motors/)
 - [FAA plans to fine SpaceX $630,000 for alleged launch violations](https://www.space.com/faa-fining-spacex-launches-2023)
 - [Snap’s extremely large Spectacles bring impressive AR to developers at $99 a month](https://techcrunch.com/2024/09/17/snaps-extremely-large-spectacles-bring-impressive-ar-to-developers-at-99-a-month/)
 - [AWS shuts down DeepComposer, its MIDI keyboard for AI music](https://techcrunch.com/2024/09/17/aws-shuts-down-deepcomposer-its-midi-keyboard-for-ai-music/)
-- [Snap’s new AI feature lets you create Snapchat Lenses by simply describing them](https://techcrunch.com/2024/09/17/snaps-new-ai-feature-lets-you-create-snapchat-lenses-by-simply-describing-them/)
-- [Snapchat launches video comments and tools for creators seeking brand deals](https://techcrunch.com/2024/09/17/snapchat-creators-more-ways-engage-viewers-land-brand-deals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
