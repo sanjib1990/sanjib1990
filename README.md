@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Epic Games Store — and Fortnite — now available on iPad in the EU](https://techcrunch.com/2024/09/17/epic-games-store-and-fortnite-now-available-on-ipad-in-the-eu/)
+- [IBM acquires Kubernetes cost optimization startup Kubecost](https://techcrunch.com/2024/09/17/ibm-acquires-kubernetes-cost-optimization-startup-kubecost/)
+- [Google will begin flagging AI-generated images in Search later this year](https://techcrunch.com/2024/09/17/google-will-begin-flagging-ai-generated-images-in-search-later-this-year/)
 - [TechCrunch Minute: It’s never been easier to migrate your Spotify playlists to Apple Music](https://techcrunch.com/video/techcrunch-minute-its-never-been-easier-to-migrate-your-spotify-playlists-to-apple-music/)
 - [9 firsts in 5 days: Polaris Dawn crew lands from history-making SpaceX mission](https://www.space.com/polaris-dawn-splashdown-records-firsts)
-- [iOS 18 lets you replace Apple’s camera app with Halide or Obscura on the lock screen: Here’s how](https://techcrunch.com/2024/09/17/ios-18-lets-you-swap-out-apples-camera-app-with-halide-or-obscura-on-the-lock-screen/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/17/tech-layoffs-2024-list/)
-- [SocialAI offers a Twitter-like diary where AI bots respond to your private posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-private-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
