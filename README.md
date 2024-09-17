@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flink, the quick commerce startup, raises another $150M at a valuation of just under $1B](https://techcrunch.com/2024/09/16/flink-the-quick-commerce-startup-raises-another-150m-at-a-valuation-of-just-under-1b/)
+- [Quick-commerce startup Flink raises another $150M at a valuation of nearly $1B](https://techcrunch.com/2024/09/16/flink-the-quick-commerce-startup-raises-another-150m-at-a-valuation-of-just-under-1b/)
 - [Amazon will host its Prime Big Deals Day sales event on October 8 and 9](https://techcrunch.com/2024/09/16/amazon-will-host-its-prime-big-deals-day-sales-event-on-october-8-and-9/)
 - [Bluesky now has more than 10M users](https://techcrunch.com/2024/09/16/bluesky-now-has-10-million-users/)
 - [Slack is turning into an AI agent hub. Should it?](https://techcrunch.com/2024/09/16/slack-is-turning-into-an-ai-agent-hub-should-it/)
