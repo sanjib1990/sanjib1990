@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the Harvest Moon Supermoon lunar eclipse tonight! Here&#39;s what to expect](https://www.space.com/lunar-eclipse-september-harvest-moon-supermoon-what-to-expect)
 - [How Google and Yahoo’s shift to stricter email standards proved a windfall for this Armenian startup](https://techcrunch.com/2024/09/17/how-google-and-yahoos-shift-to-stricter-email-standards-proved-a-windfall-for-this-armenian-startup/)
 - [MacPaw launches its alternative iOS app store for EU in open beta](https://techcrunch.com/2024/09/17/macpaw-launches-its-alternative-ios-app-store-for-eu-in-open-beta/)
 - [Quick-commerce startup Flink raises another $150M at a valuation of nearly $1B](https://techcrunch.com/2024/09/16/flink-the-quick-commerce-startup-raises-another-150m-at-a-valuation-of-just-under-1b/)
 - [Amazon will host its Prime Big Deals Day sales event on October 8 and 9](https://techcrunch.com/2024/09/16/amazon-will-host-its-prime-big-deals-day-sales-event-on-october-8-and-9/)
-- [Bluesky now has more than 10M users](https://techcrunch.com/2024/09/16/bluesky-now-has-10-million-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
