@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth will get another moon this month  — but not for long!](https://www.space.com/earth-mini-moon-asteroid-2024-pt5)
+- [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/)
+- [Cisco’s second layoff of 2024 affects thousands of employees](https://techcrunch.com/2024/09/17/ciscos-second-layoff-of-2024-affect-thousands-of-employees/)
 - [Did a star escape cannibalism by its dead &#39;monster&#39; white dwarf companion?](https://www.space.com/star-companion-monster-white-dwarf-cannibalism)
 - [Arzeda is using AI to design proteins for artificial sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/)
-- [Ome’s $129 smart knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/)
-- [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/)
-- [The cybersecurity labor gap now stands at 4M+ open jobs. Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
