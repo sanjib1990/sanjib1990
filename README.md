@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Londoners will soon see drones ferrying blood between hospitals](https://techcrunch.com/2024/09/17/londoners-will-soon-see-drones-ferrying-blood-between-hospitals/)
-- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/)
-- [Space missions are getting more complex − lessons from Amazon and FedEx can inform satellite and spacecraft management in orbit](https://www.space.com/lessons-from-amazon-and-fedex-inform-satellite-spacecraft-management-in-orbit)
-- [What time is the Harvest Moon Supermoon lunar eclipse tonight?](https://www.space.com/what-time-lunar-eclipse-harvest-moon-supermoon-2024)
-- [Earth will get another moon this month  — but not for long!](https://www.space.com/earth-mini-moon-asteroid-2024-pt5)
+- [TechCrunch Minute: It’s never been easier to migrate your Spotify playlists to Apple Music](https://techcrunch.com/video/techcrunch-minute-its-never-been-easier-to-migrate-your-spotify-playlists-to-apple-music/)
+- [9 firsts in 5 days: Polaris Dawn crew lands from history-making SpaceX mission](https://www.space.com/polaris-dawn-splashdown-records-firsts)
+- [iOS 18 lets you replace Apple’s camera app with Halide or Obscura on the lock screen: Here’s how](https://techcrunch.com/2024/09/17/ios-18-lets-you-swap-out-apples-camera-app-with-halide-or-obscura-on-the-lock-screen/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/17/tech-layoffs-2024-list/)
+- [SocialAI offers a Twitter-like diary where AI bots respond to your private posts](https://techcrunch.com/2024/09/17/socialai-offers-a-twitter-like-diary-where-ai-bots-respond-to-your-private-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
