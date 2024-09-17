@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t miss the Harvest Moon Supermoon lunar eclipse tonight! Here&#39;s what to expect](https://www.space.com/lunar-eclipse-september-harvest-moon-supermoon-what-to-expect)
-- [How Google and Yahoo’s shift to stricter email standards proved a windfall for this Armenian startup](https://techcrunch.com/2024/09/17/how-google-and-yahoos-shift-to-stricter-email-standards-proved-a-windfall-for-this-armenian-startup/)
-- [MacPaw launches its alternative iOS app store for EU in open beta](https://techcrunch.com/2024/09/17/macpaw-launches-its-alternative-ios-app-store-for-eu-in-open-beta/)
-- [Quick-commerce startup Flink raises another $150M at a valuation of nearly $1B](https://techcrunch.com/2024/09/16/flink-the-quick-commerce-startup-raises-another-150m-at-a-valuation-of-just-under-1b/)
-- [Amazon will host its Prime Big Deals Day sales event on October 8 and 9](https://techcrunch.com/2024/09/16/amazon-will-host-its-prime-big-deals-day-sales-event-on-october-8-and-9/)
+- [Greenlite, founded by an ex-Gopuff exec, automates construction permitting](https://techcrunch.com/2024/09/17/greenlite-founded-by-an-ex-gopuff-exec-automates-construction-permitting/)
+- [Orb founders grew so frustrated dealing with billing at Asana, they built their own billing software](https://techcrunch.com/2024/09/17/orb-builds-billing-infrastructure-so-businesses-dont-have-to/)
+- [Scientists spot ancient &#39;smiley face&#39; on Mars — and it could contain signs of life](https://www.space.com/scientists-spot-ancient-smiley-face-on-mars-could-contain-signs-of-life)
+- [Apple Watch Series 10 review](https://techcrunch.com/2024/09/17/apple-watch-series-10-review/)
+- [Instagram tightens restrictions on teen use, putting parents in control](https://techcrunch.com/2024/09/17/instagram-tightens-restrictions-on-teen-accounts-putting-parents-in-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
