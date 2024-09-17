@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Greenlite, founded by an ex-Gopuff exec, automates construction permitting](https://techcrunch.com/2024/09/17/greenlite-founded-by-an-ex-gopuff-exec-automates-construction-permitting/)
-- [Orb founders grew so frustrated dealing with billing at Asana, they built their own billing software](https://techcrunch.com/2024/09/17/orb-builds-billing-infrastructure-so-businesses-dont-have-to/)
-- [Scientists spot ancient &#39;smiley face&#39; on Mars — and it could contain signs of life](https://www.space.com/scientists-spot-ancient-smiley-face-on-mars-could-contain-signs-of-life)
-- [Apple Watch Series 10 review](https://techcrunch.com/2024/09/17/apple-watch-series-10-review/)
-- [Instagram tightens restrictions on teen use, putting parents in control](https://techcrunch.com/2024/09/17/instagram-tightens-restrictions-on-teen-accounts-putting-parents-in-control/)
+- [Did a star escape cannibalism by its dead &#39;monster&#39; white dwarf companion?](https://www.space.com/star-companion-monster-white-dwarf-cannibalism)
+- [Arzeda is using AI to design proteins for artificial sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/)
+- [Ome’s $129 smart knob lets you turn off stove burners remotely](https://techcrunch.com/2024/09/17/omes-smart-knob-lets-you-turn-off-stove-burners-remotely/)
+- [Hgen draws on lessons from Tesla and SpaceX to drive down the cost of hydrogen](https://techcrunch.com/2024/09/17/hgen-draws-on-lessons-from-tesla-and-spacex-to-drive-down-the-cost-of-hydrogen/)
+- [The cybersecurity labor gap now stands at 4M+ open jobs. Intezer has raised $33M for AI tools to plug it](https://techcrunch.com/2024/09/17/the-cybersecurity-labor-gap-now-stands-at-4m-open-jobs-intezer-has-raised-33m-for-ai-tools-to-plug-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
