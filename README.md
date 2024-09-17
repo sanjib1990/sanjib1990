@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Slack is turning into an AI agent hub. Should it?](https://techcrunch.com/2024/09/16/slack-is-turning-into-an-ai-agent-hub-should-it/)
+- [Intel moves to spin out foundry business, inks AI chip deal with AWS](https://techcrunch.com/2024/09/16/intel-inks-ai-chip-deal-with-aws-pauses-plans-in-poland-and-germany/)
+- [Tech’s emissions may be way higher than disclosed due to ‘creative accounting’ of carbon](https://techcrunch.com/2024/09/16/techs-emissions-may-be-way-higher-than-disclosed-due-to-creative-accounting-of-carbon/)
 - [UK’s privacy watchdog takes credit for rise of ‘consent or pay’](https://techcrunch.com/2024/09/16/uks-privacy-watchdog-takes-credit-for-rise-of-consent-or-pay/)
 - [Sam Altman departs OpenAI’s safety committee](https://techcrunch.com/2024/09/16/sam-altman-departs-openais-safety-committee/)
-- [TechCrunch Space: The dawn of Polaris](https://techcrunch.com/2024/09/16/techcrunch-space-the-dawn-of-polaris/)
-- [Mammoth’s founder returns with new iOS app for Mastodon, Saturn](https://techcrunch.com/2024/09/16/mammoths-founder-returns-with-new-ios-app-for-mastodon-saturn/)
-- [IDW&#39;s &#39;Star Trek: Lore War&#39; will bring back Data&#39;s evil brother in 2025 comics crossover event](https://www.space.com/star-trek-lore-war-idw-data-comics-crossover-event-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
