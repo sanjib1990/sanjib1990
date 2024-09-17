@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intuitive Machines lands $4.8B NASA contract to build Earth-Moon communications infrastructure](https://techcrunch.com/2024/09/17/intuitive-machines-lands-4-8b-nasa-contract-to-build-earth-moon-communications-infrastructure/)
+- [JPMorgan could take over Goldman’s Apple Card business](https://techcrunch.com/2024/09/17/jpmorgan-could-take-over-goldmans-apple-card-business/)
+- [Why United chose SpaceX’s Starlink to power its free Wi-Fi](https://techcrunch.com/2024/09/17/why-united-chose-spacexs-starlink-to-power-its-free-wifi/)
 - [Patreon launches features to automate away creators’ administrative workload and help them make more money](https://techcrunch.com/2024/09/17/patreon-launches-features-to-automate-away-creators-administrative-workload-and-help-them-make-more-money/)
 - [BlackRock and Microsoft are reportedly planning a $30B AI-focused megafund](https://techcrunch.com/2024/09/17/blackrock-and-microsoft-are-reportedly-planning-a-30b-ai-focused-megafund/)
-- [Neuralink’s ‘breakthrough device’ clearance from FDA does not mean it has cured blindness](https://techcrunch.com/2024/09/17/neuralinks-breakthrough-device-clearance-from-fda-does-not-mean-they-have-cured-blindness/)
-- [SpaceX launching 2 European navigation satellites tonight](https://www.space.com/spacex-galileo-l13-satellite-navigation-launch)
-- [Discord launches end-to-end encrypted voice and video chats](https://techcrunch.com/2024/09/17/discord-launches-end-to-end-encrypted-voice-and-video-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
