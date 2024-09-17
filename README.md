@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Londoners will soon see drones ferrying blood between hospitals](https://techcrunch.com/2024/09/17/londoners-will-soon-see-drones-ferrying-blood-between-hospitals/)
+- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/17/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/)
+- [Space missions are getting more complex − lessons from Amazon and FedEx can inform satellite and spacecraft management in orbit](https://www.space.com/lessons-from-amazon-and-fedex-inform-satellite-spacecraft-management-in-orbit)
+- [What time is the Harvest Moon Supermoon lunar eclipse tonight?](https://www.space.com/what-time-lunar-eclipse-harvest-moon-supermoon-2024)
 - [Earth will get another moon this month  — but not for long!](https://www.space.com/earth-mini-moon-asteroid-2024-pt5)
-- [Workday acquires AI-powered document platform Evisort](https://techcrunch.com/2024/09/17/workday-acquires-ai-powered-document-platform-evisort/)
-- [Cisco’s second layoff of 2024 affects thousands of employees](https://techcrunch.com/2024/09/17/ciscos-second-layoff-of-2024-affect-thousands-of-employees/)
-- [Did a star escape cannibalism by its dead &#39;monster&#39; white dwarf companion?](https://www.space.com/star-companion-monster-white-dwarf-cannibalism)
-- [Arzeda is using AI to design proteins for artificial sweeteners and more](https://techcrunch.com/2024/09/17/arzeda-is-using-ai-to-design-proteins-for-artificial-sweeteners-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
