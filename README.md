@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Crew-9 astronaut launch delayed to Sept. 25](https://www.space.com/spacex-crew-9-iss-launch-delay-september-25)
-- [Here’s how Apple is making iPhone 16 more repairable](https://techcrunch.com/2024/09/18/heres-how-apple-is-making-iphone-16-more-repairable/)
-- [iPhone 16 Pro Max review: A $1,200 glimpse at a more intelligent future](https://techcrunch.com/2024/09/18/iphone-16-pro-max-review/)
-- [Apple Intelligence will support German, Italian, Korean, Portuguese, and Vietnamese in 2025](https://techcrunch.com/2024/09/18/apple-intelligence-will-support-german-italian-korean-portuguese-and-vietnamese-in-2025/)
-- [Harvest Moon Supermoon lunar eclipse delights skywatchers worldwide &lpar;photos&rpar;](https://www.space.com/harvest-moon-supermoon-lunar-eclipse-september-photos)
+- [&#39;Space for Birds&#39;: Astronaut Roberta Bondar captures avian habitats from Earth, in air and on orbit in new book &lpar;interview&rpar;](https://www.space.com/space-for-birds-astronaut-roberta-bondar-interview)
+- [Era Ventures raises $88M first fund for transforming the “built” environment](https://techcrunch.com/2024/09/18/era-ventures-raises-88m-first-fund-for-transforming-the-built-environment/)
+- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/)
+- [The 22-year-old building Roblox developer tools to make gaming more efficient](https://techcrunch.com/2024/09/18/the-22-year-old-building-roblox-developer-tools-to-make-gaming-more-efficient/)
+- [Behold! 1st-ever photo of Earth and Mars&#39; moon Phobos captured from Red Planet](https://www.space.com/mars-curiosity-photo-earth-moon-phobos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
