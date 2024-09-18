@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Largest jets ever seen blasting from a black hole 23 million light-years long!](https://www.space.com/black-hole-jets-longest-23-million-light-years)
-- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/)
-- [YouTube Studio now lets creators brainstorm video ideas with the help of AI](https://techcrunch.com/2024/09/18/youtube-studio-now-lets-creators-brainstorm-video-ideas-with-the-help-of-ai/)
-- [YouTube Shorts to integrate Veo, Google’s AI video model](https://techcrunch.com/2024/09/18/youtube-shorts-to-integrate-veo-google-ai-video-model/)
-- [&#39;Space for Birds&#39;: Astronaut Roberta Bondar captures avian habitats from Earth, in air and on orbit in new book &lpar;interview&rpar;](https://www.space.com/space-for-birds-astronaut-roberta-bondar-interview)
+- [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/)
+- [TechCrunch Minute: Everything you need to know about iOS 18](https://techcrunch.com/video/techcrunch-minute-everything-you-need-to-know-about-ios-18/)
+- [Best-ever &#39;Cloud Atlas&#39; of Mars showcases stunning cloud patterns &lpar;photos&rpar;](https://www.space.com/the-universe/mars/best-ever-cloud-atlas-of-mars-showcases-stunning-cloud-patterns-photos)
+- [YouTube launches Communities, a Discord-like space for creators and fans to interact with each other](https://techcrunch.com/2024/09/18/youtube-launches-communities-a-discord-like-space-for-creators-and-fans-to-interact-with-each-other/)
+- [Amazon adds PayPal as a payment option to Buy with Prime](https://techcrunch.com/2024/09/18/amazon-adds-paypal-as-a-payment-option-to-buy-with-prime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
