@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [23andMe sees independent board directors quit en masse](https://techcrunch.com/2024/09/17/23andme-sees-independent-board-directors-quit-en-masse/)
 - [Governor Newsom on California AI bill SB 1047: ‘I can’t solve for everything’](https://techcrunch.com/2024/09/17/governor-newsom-on-california-ai-bill-sb-1047-i-cant-solve-for-everything/)
 - [Amazon taps long-time exec to lead India business as competition intensifies](https://techcrunch.com/2024/09/17/amazon-taps-veteran-to-lead-india-business-as-competition-intensifies/)
 - [Al Gore roasts corporations and politicians, comparing their climate crisis promises to ‘New Year’s resolutions’](https://techcrunch.com/2024/09/17/al-gore-roasts-corporations-and-politicians-comparing-their-climate-crisis-promises-to-new-years-resolutions/)
 - [California’s 5 new AI laws crack down on election deepfakes and actor clones](https://techcrunch.com/2024/09/17/californias-5-new-ai-laws-crack-down-on-election-deepfakes-and-actor-clones/)
-- [Intuitive Machines lands $4.8B NASA contract to build Earth-moon communications infrastructure](https://techcrunch.com/2024/09/17/intuitive-machines-lands-4-8b-nasa-contract-to-build-earth-moon-communications-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
