@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill requiring AM radio in new cars gets closer to law](https://techcrunch.com/2024/09/18/bill-requiring-am-radio-in-new-cars-gets-closer-to-law/)
+- [The largest volcano on Mars may sit above a 1,000-mile magma pool. Could Olympus Mons erupt again?](https://www.space.com/could-newly-discovered-magma-plume-cause-oympus-mons-to-erupt-after-millions-of-years)
+- [2nd Kuiper Belt? Our solar system may be much larger than thought](https://www.space.com/second-kuiper-belt-solar-system-larger-than-thought)
+- [AI is on the hunt for dark matter](https://www.space.com/galaxy-collisions-dark-matter-ai-algorithms)
 - [HTC takes on Apple’s Vision Pro and PC Gaming with $1,000 Vive Focus Vision](https://techcrunch.com/2024/09/18/htc-takes-on-apples-vision-pro-and-pc-gaming-with-1000-vive-focus-vision/)
-- [Fisker reverses course on making Ocean owners pay for recall repairs](https://techcrunch.com/2024/09/18/fisker-reverses-course-on-making-ocean-owners-pay-for-recall-repairs/)
-- [Earth had Saturn-like rings 466 million years ago, new study suggests](https://www.space.com/ancient-earth-ring-system-asteroid-breakup)
-- [Three new ways to personalize your iPhone’s Home Screen in iOS 18](https://techcrunch.com/2024/09/18/three-new-ways-to-personalize-your-iphones-home-screen-in-ios-18/)
-- [LinkedIn scraped user data for training before updating its terms of service](https://techcrunch.com/2024/09/18/linkedin-scraped-user-data-for-training-before-updating-its-terms-of-service/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
