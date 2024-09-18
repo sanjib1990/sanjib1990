@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Rocket Lab launch 5 &#39;Internet of Things&#39; satellites today](https://www.space.com/rocket-lab-kineis-2nd-satellite-launch-webcast)
-- [Nurture wants to teach kids important life skills through interactive gameplay and entertainment](https://techcrunch.com/2024/09/18/nurture-wants-to-teach-kids-important-life-skills-through-interactive-gameplay-and-entertainment/)
-- [Google nets court win against EU’s $1.7B AdSense antitrust decision](https://techcrunch.com/2024/09/18/google-nets-court-win-against-eus-1-7b-adsense-antitrust-decision/)
-- [23andMe sees independent board directors quit en masse](https://techcrunch.com/2024/09/17/23andme-sees-independent-board-directors-quit-en-masse/)
-- [Governor Newsom on California AI bill SB 1047: ‘I can’t solve for everything’](https://techcrunch.com/2024/09/17/governor-newsom-on-california-ai-bill-sb-1047-i-cant-solve-for-everything/)
+- [SpaceX Crew-9 astronaut launch delayed to Sept. 25](https://www.space.com/spacex-crew-9-iss-launch-delay-september-25)
+- [Here’s how Apple is making iPhone 16 more repairable](https://techcrunch.com/2024/09/18/heres-how-apple-is-making-iphone-16-more-repairable/)
+- [iPhone 16 Pro Max review: A $1,200 glimpse at a more intelligent future](https://techcrunch.com/2024/09/18/iphone-16-pro-max-review/)
+- [Apple Intelligence will support German, Italian, Korean, Portuguese, and Vietnamese in 2025](https://techcrunch.com/2024/09/18/apple-intelligence-will-support-german-italian-korean-portuguese-and-vietnamese-in-2025/)
+- [Harvest Moon Supermoon lunar eclipse delights skywatchers worldwide &lpar;photos&rpar;](https://www.space.com/harvest-moon-supermoon-lunar-eclipse-september-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
