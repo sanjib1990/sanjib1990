@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTC takes on Apple’s Vision Pro and PC Gaming with $1,000 Vive Focus Vision](https://techcrunch.com/2024/09/18/htc-takes-on-apples-vision-pro-and-pc-gaming-with-1000-vive-focus-vision/)
+- [Fisker reverses course on making Ocean owners pay for recall repairs](https://techcrunch.com/2024/09/18/fisker-reverses-course-on-making-ocean-owners-pay-for-recall-repairs/)
+- [Earth had Saturn-like rings 466 million years ago, new study suggests](https://www.space.com/ancient-earth-ring-system-asteroid-breakup)
 - [Three new ways to personalize your iPhone’s Home Screen in iOS 18](https://techcrunch.com/2024/09/18/three-new-ways-to-personalize-your-iphones-home-screen-in-ios-18/)
 - [LinkedIn scraped user data for training before updating its terms of service](https://techcrunch.com/2024/09/18/linkedin-scraped-user-data-for-training-before-updating-its-terms-of-service/)
-- [This Week in AI: Why OpenAI’s o1 changes the AI regulation game](https://techcrunch.com/2024/09/18/this-week-in-ai-why-openais-o1-changes-the-ai-regulation-game/)
-- [&#39;Lego Star Wars: Rebuild the Galaxy&#39; is a fabulous multiverse frolic &lpar;review&rpar;](https://www.space.com/lego-star-wars-rebuild-the-galaxy-review)
-- [NASA scientists solve mystery of curious &#39;spiders&#39; on Mars](https://www.space.com/nasa-recreates-mars-spiders-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
