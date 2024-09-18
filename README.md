@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: Why OpenAI’s o1 changes the AI regulation game](https://techcrunch.com/2024/09/18/this-week-in-ai-why-openais-o1-changes-the-ai-regulation-game/)
+- [&#39;Lego Star Wars: Rebuild the Galaxy&#39; is a fabulous multiverse frolic &lpar;review&rpar;](https://www.space.com/lego-star-wars-rebuild-the-galaxy-review)
+- [NASA scientists solve mystery of curious &#39;spiders&#39; on Mars](https://www.space.com/nasa-recreates-mars-spiders-on-earth)
+- [U.S. government ‘took control’ of a botnet run by Chinese government hackers, says FBI director](https://techcrunch.com/2024/09/18/u-s-government-took-control-of-a-botnet-run-by-chinese-government-hackers-says-fbi-director/)
 - [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/)
-- [TechCrunch Minute: Everything you need to know about iOS 18](https://techcrunch.com/video/techcrunch-minute-everything-you-need-to-know-about-ios-18/)
-- [Best-ever &#39;Cloud Atlas&#39; of Mars showcases stunning cloud patterns &lpar;photos&rpar;](https://www.space.com/the-universe/mars/best-ever-cloud-atlas-of-mars-showcases-stunning-cloud-patterns-photos)
-- [YouTube launches Communities, a Discord-like space for creators and fans to interact with each other](https://techcrunch.com/2024/09/18/youtube-launches-communities-a-discord-like-space-for-creators-and-fans-to-interact-with-each-other/)
-- [Amazon adds PayPal as a payment option to Buy with Prime](https://techcrunch.com/2024/09/18/amazon-adds-paypal-as-a-payment-option-to-buy-with-prime/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
