@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Transformers One&#39; is an end of  summer sensation certain to please fans &lpar;review&rpar;](https://www.space.com/entertainment/transformers-one-is-an-end-of-summer-sensation-certain-to-please-fans-review)
+- [Bluesky addresses trust and safety concerns around abuse, spam, and more](https://techcrunch.com/2024/09/18/bluesky-addresses-trust-and-safety-concerns-around-abuse-spam-and-more/)
+- [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/)
 - [Bill requiring AM radio in new cars gets closer to law](https://techcrunch.com/2024/09/18/bill-requiring-am-radio-in-new-cars-gets-closer-to-law/)
 - [The largest volcano on Mars may sit above a 1,000-mile magma pool. Could Olympus Mons erupt again?](https://www.space.com/could-newly-discovered-magma-plume-cause-oympus-mons-to-erupt-after-millions-of-years)
-- [2nd Kuiper Belt? Our solar system may be much larger than thought](https://www.space.com/second-kuiper-belt-solar-system-larger-than-thought)
-- [AI is on the hunt for dark matter](https://www.space.com/galaxy-collisions-dark-matter-ai-algorithms)
-- [HTC takes on Apple’s Vision Pro and PC Gaming with $1,000 Vive Focus Vision](https://techcrunch.com/2024/09/18/htc-takes-on-apples-vision-pro-and-pc-gaming-with-1000-vive-focus-vision/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
