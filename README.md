@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Largest jets ever seen blasting from a black hole 23 million light-years long!](https://www.space.com/black-hole-jets-longest-23-million-light-years)
+- [Last Week: Amplify your brand by hosting a Side Event at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/18/last-week-amplify-your-brand-by-hosting-a-side-event-at-techcrunch-disrupt-2024/)
+- [YouTube Studio now lets creators brainstorm video ideas with the help of AI](https://techcrunch.com/2024/09/18/youtube-studio-now-lets-creators-brainstorm-video-ideas-with-the-help-of-ai/)
+- [YouTube Shorts to integrate Veo, Google’s AI video model](https://techcrunch.com/2024/09/18/youtube-shorts-to-integrate-veo-google-ai-video-model/)
 - [&#39;Space for Birds&#39;: Astronaut Roberta Bondar captures avian habitats from Earth, in air and on orbit in new book &lpar;interview&rpar;](https://www.space.com/space-for-birds-astronaut-roberta-bondar-interview)
-- [Era Ventures raises $88M first fund for transforming the “built” environment](https://techcrunch.com/2024/09/18/era-ventures-raises-88m-first-fund-for-transforming-the-built-environment/)
-- [Generative AI startup Runway inks deal with a major Hollywood studio](https://techcrunch.com/2024/09/18/generative-ai-startup-runway-inks-deal-with-a-major-hollywood-studio/)
-- [The 22-year-old building Roblox developer tools to make gaming more efficient](https://techcrunch.com/2024/09/18/the-22-year-old-building-roblox-developer-tools-to-make-gaming-more-efficient/)
-- [Behold! 1st-ever photo of Earth and Mars&#39; moon Phobos captured from Red Planet](https://www.space.com/mars-curiosity-photo-earth-moon-phobos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
