@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three new ways to personalize your iPhone’s Home Screen in iOS 18](https://techcrunch.com/2024/09/18/three-new-ways-to-personalize-your-iphones-home-screen-in-ios-18/)
+- [LinkedIn scraped user data for training before updating its terms of service](https://techcrunch.com/2024/09/18/linkedin-scraped-user-data-for-training-before-updating-its-terms-of-service/)
 - [This Week in AI: Why OpenAI’s o1 changes the AI regulation game](https://techcrunch.com/2024/09/18/this-week-in-ai-why-openais-o1-changes-the-ai-regulation-game/)
 - [&#39;Lego Star Wars: Rebuild the Galaxy&#39; is a fabulous multiverse frolic &lpar;review&rpar;](https://www.space.com/lego-star-wars-rebuild-the-galaxy-review)
 - [NASA scientists solve mystery of curious &#39;spiders&#39; on Mars](https://www.space.com/nasa-recreates-mars-spiders-on-earth)
-- [U.S. government ‘took control’ of a botnet run by Chinese government hackers, says FBI director](https://techcrunch.com/2024/09/18/u-s-government-took-control-of-a-botnet-run-by-chinese-government-hackers-says-fbi-director/)
-- [Luminate’s hair-saving chemo helmet nears release, as new funding goes toward home cancer care](https://techcrunch.com/2024/09/18/luminates-hair-saving-chemo-helmet-nears-release-as-new-funding-goes-toward-home-cancer-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
