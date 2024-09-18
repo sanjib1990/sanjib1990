@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intuitive Machines lands $4.8B NASA contract to build Earth-Moon communications infrastructure](https://techcrunch.com/2024/09/17/intuitive-machines-lands-4-8b-nasa-contract-to-build-earth-moon-communications-infrastructure/)
+- [California’s 5 new AI laws crack down on election deepfakes and actor clones](https://techcrunch.com/2024/09/17/californias-5-new-ai-laws-crack-down-on-election-deepfakes-and-actor-clones/)
+- [Intuitive Machines lands $4.8B NASA contract to build Earth-moon communications infrastructure](https://techcrunch.com/2024/09/17/intuitive-machines-lands-4-8b-nasa-contract-to-build-earth-moon-communications-infrastructure/)
 - [JPMorgan could take over Goldman’s Apple Card business](https://techcrunch.com/2024/09/17/jpmorgan-could-take-over-goldmans-apple-card-business/)
 - [Why United chose SpaceX’s Starlink to power its free Wi-Fi](https://techcrunch.com/2024/09/17/why-united-chose-spacexs-starlink-to-power-its-free-wifi/)
 - [Patreon launches features to automate away creators’ administrative workload and help them make more money](https://techcrunch.com/2024/09/17/patreon-launches-features-to-automate-away-creators-administrative-workload-and-help-them-make-more-money/)
-- [BlackRock and Microsoft are reportedly planning a $30B AI-focused megafund](https://techcrunch.com/2024/09/17/blackrock-and-microsoft-are-reportedly-planning-a-30b-ai-focused-megafund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
