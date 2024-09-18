@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s &#39;Hidden Figures&#39; women awarded Congressional Gold Medals](https://www.space.com/hidden-figures-congressional-gold-medal-ceremony)
 - [&#39;Transformers One&#39; is an end of  summer sensation certain to please fans &lpar;review&rpar;](https://www.space.com/entertainment/transformers-one-is-an-end-of-summer-sensation-certain-to-please-fans-review)
 - [Bluesky addresses trust and safety concerns around abuse, spam, and more](https://techcrunch.com/2024/09/18/bluesky-addresses-trust-and-safety-concerns-around-abuse-spam-and-more/)
 - [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/)
 - [Bill requiring AM radio in new cars gets closer to law](https://techcrunch.com/2024/09/18/bill-requiring-am-radio-in-new-cars-gets-closer-to-law/)
-- [The largest volcano on Mars may sit above a 1,000-mile magma pool. Could Olympus Mons erupt again?](https://www.space.com/could-newly-discovered-magma-plume-cause-oympus-mons-to-erupt-after-millions-of-years)
 <!-- BLOG-POST-LIST:END -->
 
 ---
