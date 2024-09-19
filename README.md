@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT develops recyclable 3D printed glass blocks for construction](https://techcrunch.com/2024/09/19/mit-develops-recyclable-3d-printed-glass-blocks-for-construction/)
+- [FTC report on predatory social media data hoarding hints at future regulations](https://techcrunch.com/2024/09/19/ftc-report-on-predatory-social-media-data-hoarding-hints-at-future-regulations/)
+- [Europe&#39;s Mars &#39;fetch rover&#39; nails sample pick-up test in the field &lpar;video&rpar;](https://www.space.com/mars-rover-europe-airbus-quarry-test-video)
 - [NASA&#39;s Europa Clipper on track for Oct. 10 launch to Jupiter&#39;s icy moon despite radiation worries](https://www.space.com/europa-clipper-launch-jupiter-radiation)
 - [SpaceX fires up 6th Starship to prep for test flight &lpar;video, photo&rpar;](https://www.space.com/spacex-starship-number-six-static-fire-photo-video)
-- [This robotic knee exoskeleton is made from consumer braces and drone motors](https://techcrunch.com/2024/09/19/this-robotic-knee-exoskeleton-is-made-from-consumer-braces-and-drone-motors/)
-- [&#39;Apollo 13: Survival:&#39; Director Peter Middleton on his immersive new Netflix documentary &lpar;exclusive&rpar;](https://www.space.com/entertainment/apollo-13-survival-director-peter-middleton-on-his-immersive-new-netflix-documentary-exclusive)
-- [Apple, Google wallets now support California driver’s licenses](https://techcrunch.com/2024/09/19/apple-google-wallets-now-support-california-drivers-licenses-and-state-ids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
