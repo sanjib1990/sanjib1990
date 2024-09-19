@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon releases a video generator — but only for ads](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/)
+- [Tidal Metals sees seawater as the solution to a critical mineral shortage](https://techcrunch.com/2024/09/19/tidal-metals-sees-seawater-as-the-solution-to-a-critical-mineral-shortage/)
+- [Amazon debuts an AI assistant for sellers, Project Amelia](https://techcrunch.com/2024/09/19/amazon-debuts-an-ai-assistant-for-sellers-project-amelia/)
+- [Zeno emerges from stealth to crib Tesla’s master plan for Africa and beyond](https://techcrunch.com/2024/09/19/zeno-emerges-from-stealth-to-crib-teslas-master-plan-for-africa-and-beyond/)
 - [Magnetic mystery at Mercury revealed by BepiColombo probe &lpar;video&rpar;](https://www.space.com/mercury-magnetic-mystery-bepicolombo-flyby-video)
-- [Kiwibot acquires an ad startup to turn its delivery robots into mobile billboards](https://techcrunch.com/2024/09/19/kiwibot-acquires-ad-startup-to-turn-its-delivery-robots-into-mobile-billboards/)
-- [Harbor is building a better baby monitor and an army of night nannies](https://techcrunch.com/2024/09/19/harbor-is-building-a-better-baby-monitor-and-an-army-of-night-nannies/)
-- [AI notetaker Fathom raises $17M](https://techcrunch.com/2024/09/19/ai-notetaker-fathom-raises-17m/)
-- [China&#39;s Yutu 2 rover still going strong after nearly 6 years on the far side of the moon &lpar;video&rpar;](https://www.space.com/china-yutu-2-rover-moon-far-side-2024-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
