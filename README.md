@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Radio pollution from SpaceX&#39;s new Starlink satellites poses threat to astronomy, scientists say](https://www.space.com/starlink-v2-mini-radio-noise-threatens-astronomy)
+- [TechCrunch Minute: United will use SpaceX’s Starlink to bring free Wi-Fi to flights](https://techcrunch.com/video/techcrunch-minute-united-will-use-spacexs-starlink-to-bring-free-wi-fi-to-flights/)
+- [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/)
+- [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/)
 - [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/)
-- [Upchieve, an online tutor app for low-income students, launches a free tool for teachers](https://techcrunch.com/2024/09/19/upchieve-online-tutor-app-low-income-students-launches-free-tool-teachers/)
-- [James Webb Space Telescope witnesses a &#39;smiling&#39; galactic collision &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-smiling-galactic-collision)
-- [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/)
-- [Amazon releases a video generator — but only for ads](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
