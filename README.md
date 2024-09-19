@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT develops recyclable 3D printed glass blocks for construction](https://techcrunch.com/2024/09/19/mit-develops-recyclable-3d-printed-glass-blocks-for-construction/)
-- [FTC report on predatory social media data hoarding hints at future regulations](https://techcrunch.com/2024/09/19/ftc-report-on-predatory-social-media-data-hoarding-hints-at-future-regulations/)
-- [Europe&#39;s Mars &#39;fetch rover&#39; nails sample pick-up test in the field &lpar;video&rpar;](https://www.space.com/mars-rover-europe-airbus-quarry-test-video)
-- [NASA&#39;s Europa Clipper on track for Oct. 10 launch to Jupiter&#39;s icy moon despite radiation worries](https://www.space.com/europa-clipper-launch-jupiter-radiation)
-- [SpaceX fires up 6th Starship to prep for test flight &lpar;video, photo&rpar;](https://www.space.com/spacex-starship-number-six-static-fire-photo-video)
+- [Chipmaker Qualcomm lays off hundreds of workers in San Diego](https://techcrunch.com/2024/09/19/chipmaker-qualcomm-lays-off-hundreds-of-workers-in-san-diego/)
+- [SpaceX disputes $633K FAA fine, citing “systematic challenges” with agency](https://techcrunch.com/2024/09/19/spacex-disputes-633k-faa-fine-citing-systematic-challenges-with-agency/)
+- [Elon Musk’s reposts of Kamala Harris deepfakes may not fly under new California law](https://techcrunch.com/2024/09/19/elon-musks-reposts-of-kamala-harris-deepfakes-may-not-fly-under-new-california-law/)
+- [SpaceX blasts proposed FAA fines in complaint letter to Congress](https://www.space.com/spacex-letter-congress-contest-faa-fines)
+- [MIT develops recyclable 3D-printed glass blocks for construction](https://techcrunch.com/2024/09/19/mit-develops-recyclable-3d-printed-glass-blocks-for-construction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
