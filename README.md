@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Craig Newmark pledges $100M to fight hacking by foreign governments](https://techcrunch.com/2024/09/18/craig-newmark-pledges-100m-to-fight-hacking-by-foreign-governments/)
 - [Rocket Lab aborts launch of 5 &#39;Internet of Things&#39; satellites at last second &lpar;video&rpar;](https://www.space.com/rocket-lab-launch-abort-iot-satellites-video)
 - [NASA&#39;s &#39;Hidden Figures&#39; women awarded Congressional Gold Medals](https://www.space.com/hidden-figures-congressional-gold-medal-ceremony)
 - [&#39;Transformers One&#39; is an end of  summer sensation certain to please fans &lpar;review&rpar;](https://www.space.com/entertainment/transformers-one-is-an-end-of-summer-sensation-certain-to-please-fans-review)
 - [Bluesky addresses trust and safety concerns around abuse, spam, and more](https://techcrunch.com/2024/09/18/bluesky-addresses-trust-and-safety-concerns-around-abuse-spam-and-more/)
-- [Fal.ai, which hosts media-generating AI models, raises $23M from a16z and others](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
