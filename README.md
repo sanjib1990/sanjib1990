@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Caught on camera: Satellite tracker photographs secret spacecraft](https://www.space.com/secret-satellites-caught-on-camera)
+- [Phlair’s carbon sucking technology could lower direct air capture’s costs](https://techcrunch.com/2024/09/19/phlairs-carbon-sucking-technology-could-lower-direct-air-captures-costs/)
 - [India weighs easing market share limits for UPI payment operators](https://techcrunch.com/2024/09/18/india-weighs-easing-market-share-limits-for-upi-payment-operators/)
 - [Palmer Luckey returns to headsets as Anduril partners with Microsoft on U.S. military tech](https://techcrunch.com/2024/09/18/palmer-luckey-back-in-the-headset-biz-as-anduril-partners-with-microsoft-on-u-s-military-system/)
 - [CEO of self-driving startup Motional is stepping down](https://techcrunch.com/2024/09/18/ceo-of-self-driving-startup-motional-is-stepping-down/)
-- [Craig Newmark pledges $100M to fight hacking by foreign governments](https://techcrunch.com/2024/09/18/craig-newmark-pledges-100m-to-fight-hacking-by-foreign-governments/)
-- [Rocket Lab aborts launch of 5 &#39;Internet of Things&#39; satellites at last second &lpar;video&rpar;](https://www.space.com/rocket-lab-launch-abort-iot-satellites-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
