@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EU to tell Apple how to do interoperability, DMA style](https://techcrunch.com/2024/09/19/eu-to-tell-apple-how-to-do-interoperability-dma-style/)
-- [This founder grew up in wine country — nows he’s built a platform for wine makers](https://techcrunch.com/2024/09/19/this-founder-grew-up-in-wine-country-nows-hes-built-a-platform-for-wine-makers/)
-- [Picus Security, founded by Turkish 3 mathematicians, raises $45M after simulating 1B cyberattacks](https://techcrunch.com/2024/09/19/picus-security-founded-by-turkish-3-mathematicians-raises-45m-after-simulating-1b-cyberattacks/)
-- [Brightband sees a bright &lpar;and open-source&rpar; future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/)
-- [AI governance can’t be left to the vested interests](https://techcrunch.com/2024/09/19/ai-governance-cant-be-left-to-the-vested-interests/)
+- [Magnetic mystery at Mercury revealed by BepiColombo probe &lpar;video&rpar;](https://www.space.com/mercury-magnetic-mystery-bepicolombo-flyby-video)
+- [Kiwibot acquires an ad startup to turn its delivery robots into mobile billboards](https://techcrunch.com/2024/09/19/kiwibot-acquires-ad-startup-to-turn-its-delivery-robots-into-mobile-billboards/)
+- [Harbor is building a better baby monitor and an army of night nannies](https://techcrunch.com/2024/09/19/harbor-is-building-a-better-baby-monitor-and-an-army-of-night-nannies/)
+- [AI notetaker Fathom raises $17M](https://techcrunch.com/2024/09/19/ai-notetaker-fathom-raises-17m/)
+- [China&#39;s Yutu 2 rover still going strong after nearly 6 years on the far side of the moon &lpar;video&rpar;](https://www.space.com/china-yutu-2-rover-moon-far-side-2024-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
