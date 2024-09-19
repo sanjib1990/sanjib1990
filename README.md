@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/)
+- [Upchieve, an online tutor app for low-income students, launches a free tool for teachers](https://techcrunch.com/2024/09/19/upchieve-online-tutor-app-low-income-students-launches-free-tool-teachers/)
+- [James Webb Space Telescope witnesses a &#39;smiling&#39; galactic collision &lpar;images&rpar;](https://www.space.com/james-webb-space-telescope-smiling-galactic-collision)
+- [Announcing our next wave of Startup Battlefield judges at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/announcing-startup-battlefield-judges-at-techcrunch-disrupt-2024/)
 - [Amazon releases a video generator — but only for ads](https://techcrunch.com/2024/09/19/amazon-releases-a-video-generator-but-only-for-ads/)
-- [Tidal Metals sees seawater as the solution to a critical mineral shortage](https://techcrunch.com/2024/09/19/tidal-metals-sees-seawater-as-the-solution-to-a-critical-mineral-shortage/)
-- [Amazon debuts an AI assistant for sellers, Project Amelia](https://techcrunch.com/2024/09/19/amazon-debuts-an-ai-assistant-for-sellers-project-amelia/)
-- [Zeno emerges from stealth to crib Tesla’s master plan for Africa and beyond](https://techcrunch.com/2024/09/19/zeno-emerges-from-stealth-to-crib-teslas-master-plan-for-africa-and-beyond/)
-- [Magnetic mystery at Mercury revealed by BepiColombo probe &lpar;video&rpar;](https://www.space.com/mercury-magnetic-mystery-bepicolombo-flyby-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
