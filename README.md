@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter-bound JUICE probe snaps photo of Earth, the moon and Uranus](https://www.space.com/earth-moon-photo-juice-uranus)
+- [Google rolls out automatic passkey syncing via Password Manager](https://techcrunch.com/2024/09/19/google-rolls-out-automatic-passkey-syncing-via-password-manager/)
 - [Radio pollution from SpaceX&#39;s new Starlink satellites poses threat to astronomy, scientists say](https://www.space.com/starlink-v2-mini-radio-noise-threatens-astronomy)
 - [TechCrunch Minute: United will use SpaceX’s Starlink to bring free Wi-Fi to flights](https://techcrunch.com/video/techcrunch-minute-united-will-use-spacexs-starlink-to-bring-free-wi-fi-to-flights/)
 - [Quilt, Furno Materials, and RA Capital Management share the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/quilt-furno-materials-and-ra-capital-management-share-the-stage-at-techcrunch-disrupt-2024/)
-- [Back Market lays out its plan to make refurbished phones go mainstream](https://techcrunch.com/2024/09/19/back-market-lays-out-its-plan-to-make-refurbished-phones-mainstream/)
-- [Dcode Capital, Albedo, and Biofire are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/19/dcode-capital-albedo-and-biofire-are-coming-to-techcrunch-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
