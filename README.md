@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do you know your protocols?](https://www.youtube.com/watch?v=Td1OPnEdIuQ)
 - [he hacked my websites](https://www.youtube.com/watch?v=AxMWywGFSfs)
 - [35 Lessons](https://www.youtube.com/watch?v=_pNESAbECaE)
 - [Hide your files like a hacker &lpar;5 Ways&rpar;](https://www.youtube.com/watch?v=VcqtWsbSbgU)
 - [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks](https://www.youtube.com/watch?v=6xlPJiNpCVw)
-- [The new ChatGPT just dropped….it solves a big problem](https://www.youtube.com/watch?v=LhpGFDWJgKk)
 <!-- YOUTUBE:END -->
 
 ---
