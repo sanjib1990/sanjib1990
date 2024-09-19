@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Europa Clipper on track for Oct. 10 launch to Jupiter&#39;s icy moon despite radiation worries](https://www.space.com/europa-clipper-launch-jupiter-radiation)
+- [SpaceX fires up 6th Starship to prep for test flight &lpar;video, photo&rpar;](https://www.space.com/spacex-starship-number-six-static-fire-photo-video)
+- [This robotic knee exoskeleton is made from consumer braces and drone motors](https://techcrunch.com/2024/09/19/this-robotic-knee-exoskeleton-is-made-from-consumer-braces-and-drone-motors/)
 - [&#39;Apollo 13: Survival:&#39; Director Peter Middleton on his immersive new Netflix documentary &lpar;exclusive&rpar;](https://www.space.com/entertainment/apollo-13-survival-director-peter-middleton-on-his-immersive-new-netflix-documentary-exclusive)
 - [Apple, Google wallets now support California driver’s licenses](https://techcrunch.com/2024/09/19/apple-google-wallets-now-support-california-drivers-licenses-and-state-ids/)
-- [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/)
-- [No, the FAA isn’t fining SpaceX because of Elon Musk’s politics, former FAA head says](https://techcrunch.com/2024/09/19/no-the-faa-isnt-fining-spacex-because-of-elon-musks-politics-former-faa-head-says/)
-- [Apple Intelligence is now live in public beta. Here’s what it offers and how to enable it.](https://techcrunch.com/2024/09/19/apple-intelligence-is-now-live-in-public-beta-heres-what-it-offers-and-how-to-enable-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
