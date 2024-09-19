@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Caught on camera: Satellite tracker photographs secret spacecraft](https://www.space.com/secret-satellites-caught-on-camera)
-- [Phlair’s carbon sucking technology could lower direct air capture’s costs](https://techcrunch.com/2024/09/19/phlairs-carbon-sucking-technology-could-lower-direct-air-captures-costs/)
-- [India weighs easing market share limits for UPI payment operators](https://techcrunch.com/2024/09/18/india-weighs-easing-market-share-limits-for-upi-payment-operators/)
-- [Palmer Luckey returns to headsets as Anduril partners with Microsoft on U.S. military tech](https://techcrunch.com/2024/09/18/palmer-luckey-back-in-the-headset-biz-as-anduril-partners-with-microsoft-on-u-s-military-system/)
-- [CEO of self-driving startup Motional is stepping down](https://techcrunch.com/2024/09/18/ceo-of-self-driving-startup-motional-is-stepping-down/)
+- [EU to tell Apple how to do interoperability, DMA style](https://techcrunch.com/2024/09/19/eu-to-tell-apple-how-to-do-interoperability-dma-style/)
+- [This founder grew up in wine country — nows he’s built a platform for wine makers](https://techcrunch.com/2024/09/19/this-founder-grew-up-in-wine-country-nows-hes-built-a-platform-for-wine-makers/)
+- [Picus Security, founded by Turkish 3 mathematicians, raises $45M after simulating 1B cyberattacks](https://techcrunch.com/2024/09/19/picus-security-founded-by-turkish-3-mathematicians-raises-45m-after-simulating-1b-cyberattacks/)
+- [Brightband sees a bright &lpar;and open-source&rpar; future for AI-powered weather forecasting](https://techcrunch.com/2024/09/19/brightband-sees-a-bright-and-open-source-future-for-ai-powered-weather-forecasting/)
+- [AI governance can’t be left to the vested interests](https://techcrunch.com/2024/09/19/ai-governance-cant-be-left-to-the-vested-interests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
