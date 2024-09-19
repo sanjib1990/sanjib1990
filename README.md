@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Apollo 13: Survival:&#39; Director Peter Middleton on his immersive new Netflix documentary &lpar;exclusive&rpar;](https://www.space.com/entertainment/apollo-13-survival-director-peter-middleton-on-his-immersive-new-netflix-documentary-exclusive)
+- [Apple, Google wallets now support California driver’s licenses](https://techcrunch.com/2024/09/19/apple-google-wallets-now-support-california-drivers-licenses-and-state-ids/)
 - [Virtuous, a fundraising CRM for nonprofits, raises $100M from Susquehanna Growth Equity](https://techcrunch.com/2024/09/19/virtuous-a-fundraising-crm-for-nonprofits-raises-100m-from-susquehanna-growth-equity/)
 - [No, the FAA isn’t fining SpaceX because of Elon Musk’s politics, former FAA head says](https://techcrunch.com/2024/09/19/no-the-faa-isnt-fining-spacex-because-of-elon-musks-politics-former-faa-head-says/)
 - [Apple Intelligence is now live in public beta. Here’s what it offers and how to enable it.](https://techcrunch.com/2024/09/19/apple-intelligence-is-now-live-in-public-beta-heres-what-it-offers-and-how-to-enable-it/)
-- [A leadership shake-up at Motional, inside the fight over TuSimple’s cash, and Fisker waffles on recall repairs](https://techcrunch.com/2024/09/19/a-leadership-shakeup-at-motional-inside-the-fight-over-tusimples-cash-and-fisker-waffles-on-recall-repairs/)
-- [Cruise robotaxis return to the Bay Area nearly one year after pedestrian crash](https://techcrunch.com/2024/09/19/cruise-avs-return-to-bay-area-year-after-pedestrian-crash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
