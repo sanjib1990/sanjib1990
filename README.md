@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft taps Three Mile Island nuclear plant to power AI](https://techcrunch.com/2024/09/20/microsoft-taps-three-mile-island-nuclear-plant-to-power-ai/)
+- [Who is Knull? An introduction to &#39;Venom: The Last Dance&#39;s big Marvel villain](https://www.space.com/who-is-knull-venom-last-dance-villain)
 - [Black hole &#39;bullets&#39; fired at Mars could reveal more about dark matter](https://www.space.com/mars-black-hole-bullets-dark-matter)
 - [Europe&#39;s Hera probe to launch Oct. 7 to inspect asteroid NASA smacked in 2022](https://www.space.com/europe-hera-probe-inspect-dart-asteroid-october-launch)
 - [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/)
-- [See the moon meet up with the Seven Sisters of the Pleiades this weekend](https://www.space.com/the-universe/moon/see-the-moon-meet-up-with-the-seven-sisters-of-the-pleiades-this-weekend)
-- [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
