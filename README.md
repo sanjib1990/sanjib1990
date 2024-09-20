@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut captures stunning timelapse of Comet Tsuchinshan-ATLAS from ISS &lpar;video&rpar;](https://www.space.com/comet-tsuchinshan-atlas-matthew-dominick-iss-photo)
+- [The iPhone 16 launches today, without its most hyped feature: Apple Intelligence](https://techcrunch.com/2024/09/20/the-iphone-16-launches-today-without-its-most-hyped-feature-apple-intelligence/)
 - [1st results of XRISM X-ray space telescope reveals black hole and supernova secrets](https://www.space.com/xrism-1st-results-black-hole-supernova)
-- [Internet surveillance firm Sandvine says it’s leaving 56 “non-democratic” countries](https://techcrunch.com/2024/09/20/internet-surveillance-firm-sandvine-says-its-leaving-56-non-democratic-countries/)
+- [Internet surveillance firm Sandvine says it’s leaving 56 ‘non-democratic’ countries](https://techcrunch.com/2024/09/20/internet-surveillance-firm-sandvine-says-its-leaving-56-non-democratic-countries/)
 - [Meet the SpaceX Crew-9 astronauts launching to the International Space Station Sept. 26](https://www.space.com/nasa-spacex-crew-9-meet-astronauts-launching-to-space-station)
-- [Plaud’s $169 ChatGPT-powered NotePin has a permanent place in my travel bag](https://techcrunch.com/2024/09/20/plauds-169-chatgpt-powered-notepin-has-a-permanent-place-in-my-travel-bag/)
-- [M&amp;As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
