@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s Hera probe to launch Oct. 7 to inspect asteroid NASA smacked in 2022](https://www.space.com/europe-hera-probe-inspect-dart-asteroid-october-launch)
 - [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/)
 - [See the moon meet up with the Seven Sisters of the Pleiades this weekend](https://www.space.com/the-universe/moon/see-the-moon-meet-up-with-the-seven-sisters-of-the-pleiades-this-weekend)
 - [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/)
 - [John Mulaney skewers San Francisco tech crowd at Dreamforce](https://techcrunch.com/2024/09/19/john-mulaney-skewers-san-francisco-at-dreamforce/)
-- [Indian filmmaker Ram Gopal Varma abandons human musicians for AI-generated music](https://techcrunch.com/2024/09/19/indian-filmmaker-ram-gopal-varma-abandons-human-musicians-for-ai-generated-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
