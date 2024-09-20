@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube tests a new way for creators to avoid takedowns](https://techcrunch.com/2024/09/20/youtube-tests-a-new-way-for-creators-to-avoid-takedowns/)
-- [TechCrunch Minute: Amazon announces AI-powered tools for creating video ads](https://techcrunch.com/video/techcrunch-minute-amazon-announces-ai-powered-tools-for-creating-video-ads/)
-- [Everything we know about &#39;Mickey 17&#39;](https://www.space.com/everything-we-know-about-mickey-17)
-- [Tumblr reports ~350% user growth following X’s ban in Brazil](https://techcrunch.com/2024/09/20/tumblr-reports-350-user-growth-following-xs-ban-in-brazil/)
-- [SpaceX launches 20 Starlink satellites, lands rocket at sea &lpar;video&rpar;](https://www.space.com/spacex-starlink-launch-group-9-17)
+- [M&amp;As and AI are in the spotlight, but there’s still capital left for quick commerce and more](https://techcrunch.com/2024/09/20/mas-and-ai-are-in-the-spotlight-but-theres-still-capital-left-for-quick-commerce-and-more/)
+- [&#39;Lego Star Wars: Rebuild the Galaxy&#39;: How its creators pieced together a playful classic &lpar;exclusive&rpar;](https://www.space.com/lego-star-wars-rebuild-the-galaxy-how-its-creators-pieced-together-a-playful-classic-exclusive)
+- [Last day to apply: Boost your brand at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/last-day-to-apply-boost-your-brand-at-techcrunch-disrupt-2024/)
+- [Apple Intelligence: Its biggest features and when you can expect them](https://techcrunch.com/2024/09/20/apple-intelligence-its-biggest-features-and-when-you-can-expect-them/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/09/20/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
