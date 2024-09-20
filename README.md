@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exoplanets may be hiding behind the &#39;Neptunian ridge&#39;](https://www.space.com/neptunian-landscape-ridge-exoplanets)
+- [SignalFire, CapitalG, and Comprehensive.io coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/20/signalfire-capital-g-and-comprehensive-io-coming-to-techcrunch-disrupt-2024/)
+- [Ticket Reboot Week: TechCrunch Disrupt 2024’s last sale has begun](https://techcrunch.com/2024/09/20/ticket-reboot-week-techcrunch-disrupt-2024s-last-sale-has-begun/)
+- [She sat down in the COVID lockdown and started coding — now she’s taking on Bolt](https://techcrunch.com/2024/09/20/she-sat-down-in-the-covid-lockdown-and-started-coding-now-shes-taking-on-bolt/)
 - [Microsoft taps Three Mile Island nuclear plant to power AI](https://techcrunch.com/2024/09/20/microsoft-taps-three-mile-island-nuclear-plant-to-power-ai/)
-- [Who is Knull? An introduction to &#39;Venom: The Last Dance&#39;s big Marvel villain](https://www.space.com/who-is-knull-venom-last-dance-villain)
-- [Black hole &#39;bullets&#39; fired at Mars could reveal more about dark matter](https://www.space.com/mars-black-hole-bullets-dark-matter)
-- [Europe&#39;s Hera probe to launch Oct. 7 to inspect asteroid NASA smacked in 2022](https://www.space.com/europe-hera-probe-inspect-dart-asteroid-october-launch)
-- [Health insurance startup Alan reaches $4.5B valuation with new $193M funding round](https://techcrunch.com/2024/09/20/health-insurance-startup-alan-reaches-45-billion-valuation-with-new-funding-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
