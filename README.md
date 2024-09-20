@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce](https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/)
 - [John Mulaney skewers San Francisco tech crowd at Dreamforce](https://techcrunch.com/2024/09/19/john-mulaney-skewers-san-francisco-at-dreamforce/)
 - [Indian filmmaker Ram Gopal Varma abandons human musicians for AI-generated music](https://techcrunch.com/2024/09/19/indian-filmmaker-ram-gopal-varma-abandons-human-musicians-for-ai-generated-music/)
 - [Here is what’s illegal under California’s 8 &lpar;and counting&rpar; new AI laws](https://techcrunch.com/2024/09/19/here-is-whats-illegal-under-californias-8-and-counting-new-ai-laws/)
 - [Gaming Lyft’s Citi Bike algos was a lucrative side hustle for a while](https://techcrunch.com/2024/09/19/gaming-lyfts-citi-bike-algos-was-a-lucrative-side-hustle-for-a-while/)
-- [Chipmaker Qualcomm lays off hundreds of workers in San Diego](https://techcrunch.com/2024/09/19/chipmaker-qualcomm-lays-off-hundreds-of-workers-in-san-diego/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
