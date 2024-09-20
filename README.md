@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here is what’s illegal under California’s 8 &lpar;and counting&rpar; new AI laws](https://techcrunch.com/2024/09/19/here-is-whats-illegal-under-californias-8-and-counting-new-ai-laws/)
 - [Gaming Lyft’s Citi Bike algos was a lucrative side hustle for a while](https://techcrunch.com/2024/09/19/gaming-lyfts-citi-bike-algos-was-a-lucrative-side-hustle-for-a-while/)
 - [Chipmaker Qualcomm lays off hundreds of workers in San Diego](https://techcrunch.com/2024/09/19/chipmaker-qualcomm-lays-off-hundreds-of-workers-in-san-diego/)
 - [SpaceX disputes $633K FAA fine, citing ‘systematic challenges’ with agency](https://techcrunch.com/2024/09/19/spacex-disputes-633k-faa-fine-citing-systematic-challenges-with-agency/)
 - [Elon Musk’s reposts of Kamala Harris deepfakes may not fly under new California law](https://techcrunch.com/2024/09/19/elon-musks-reposts-of-kamala-harris-deepfakes-may-not-fly-under-new-california-law/)
-- [SpaceX blasts proposed FAA fines in complaint letter to Congress](https://www.space.com/spacex-letter-congress-contest-faa-fines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
