@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/)
+- [Cards Against Humanity sues SpaceX for $15 million over land dispute](https://www.space.com/cards-against-humanity-sues-spacex)
 - [India aims for 2028 launch of Venus orbiter as part of ambitious space roadmap](https://www.space.com/space-exploration/launches-spacecraft/india-aims-for-2028-launch-of-venus-orbiter-as-part-of-ambitious-space-roadmap)
 - [Musk dodged Brazil’s X ban by ‘coincidence,’ says Cloudflare CEO](https://techcrunch.com/2024/09/20/musk-dodged-brazils-x-ban-by-coincidence-says-cloudflare-ceo/)
 - [Cards Against Humanity sues Elon Musk’s SpaceX  for trespassing](https://techcrunch.com/2024/09/20/cards-against-humanity-sues-elon-musks-spacex-for-trespassing/)
-- [SpaceX practices for epic Starship booster catch attempt &lpar;photos&rpar;](https://www.space.com/spacex-practice-starship-super-heavy-catch)
-- [Black Forest Labs, the company that powers Grok’s image generation, is raising another $100M on a $1B valuation, say sources](https://techcrunch.com/2024/09/20/black-forest-labs-the-company-that-powers-groks-image-generation-is-raising-another-100m-on-a-1b-valuation-say-sources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
