@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk threatened with SEC sanctions for failing to appear in court](https://techcrunch.com/2024/09/20/elon-musk-threatened-with-sec-sanctions-for-failing-to-appear-in-court/)
+- [Boeing Space &amp; Defense chief Ted Colbert is leaving: reports](https://www.space.com/boeing-space-ceo-ted-colbert-leaving)
 - [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/)
 - [Cards Against Humanity sues SpaceX for $15 million over land dispute](https://www.space.com/cards-against-humanity-sues-spacex)
 - [India aims for 2028 launch of Venus orbiter as part of ambitious space roadmap](https://www.space.com/space-exploration/launches-spacecraft/india-aims-for-2028-launch-of-venus-orbiter-as-part-of-ambitious-space-roadmap)
-- [Musk dodged Brazil’s X ban by ‘coincidence,’ says Cloudflare CEO](https://techcrunch.com/2024/09/20/musk-dodged-brazils-x-ban-by-coincidence-says-cloudflare-ceo/)
-- [Cards Against Humanity sues Elon Musk’s SpaceX  for trespassing](https://techcrunch.com/2024/09/20/cards-against-humanity-sues-elon-musks-spacex-for-trespassing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
