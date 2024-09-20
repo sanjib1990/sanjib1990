@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronaut captures stunning timelapse of Comet Tsuchinshan-ATLAS from ISS &lpar;video&rpar;](https://www.space.com/comet-tsuchinshan-atlas-matthew-dominick-iss-photo)
-- [The iPhone 16 launches today, without its most hyped feature: Apple Intelligence](https://techcrunch.com/2024/09/20/the-iphone-16-launches-today-without-its-most-hyped-feature-apple-intelligence/)
-- [1st results of XRISM X-ray space telescope reveals black hole and supernova secrets](https://www.space.com/xrism-1st-results-black-hole-supernova)
-- [Internet surveillance firm Sandvine says it’s leaving 56 ‘non-democratic’ countries](https://techcrunch.com/2024/09/20/internet-surveillance-firm-sandvine-says-its-leaving-56-non-democratic-countries/)
-- [Meet the SpaceX Crew-9 astronauts launching to the International Space Station Sept. 26](https://www.space.com/nasa-spacex-crew-9-meet-astronauts-launching-to-space-station)
+- [SpaceX practices for epic Starship booster catch attempt &lpar;photos&rpar;](https://www.space.com/spacex-practice-starship-super-heavy-catch)
+- [Black Forest Labs, the company that powers Grok’s image generation, is raising another $100M on a $1B valuation, say sources](https://techcrunch.com/2024/09/20/black-forest-labs-the-company-that-powers-groks-image-generation-is-raising-another-100m-on-a-1b-valuation-say-sources/)
+- [Here are the hottest product announcements from Apple, Google, Microsoft and others so far in 2024](https://techcrunch.com/2024/09/20/hottest-apple-products-google-microsoft/)
+- [Apple breaks down iPhone 16 repair process](https://techcrunch.com/2024/09/20/apple-breaks-down-iphone-16-repair-process/)
+- [The 25 battery tech startups that just got a piece of $3B in federal funds](https://techcrunch.com/2024/09/20/the-25-battery-tech-startups-that-just-got-a-piece-of-3b-in-federal-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
