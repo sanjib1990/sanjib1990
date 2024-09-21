@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What the 1st analysis of China&#39;s Chang&#39;e 6 lunar far side samples revealed](https://www.space.com/china-change-6-lunar-samples-results)
-- [Tesla Superchargers: All the EV brands that have access](https://techcrunch.com/2024/09/21/tesla-superchargers-all-the-ev-brands-that-have-access/)
-- [Shelf is a social network based on the media you consume](https://techcrunch.com/2024/09/21/shelf-is-a-social-network-based-on-the-media-you-consume/)
 - [This Week In Space podcast: Episode 129 —Back From Mars!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-129-back-from-mars)
 - [NASA invites public to design Artemis moon mission navigation tech](https://www.space.com/nasa-artemis-moon-navigation-tech)
+- [Moonquakes could &#39;pose a possible hazard&#39; to Artemis moon missions, study finds](https://www.space.com/moonquakes-artemis-3-hazards)
+- [Boeing Space &amp; Defense chief Ted Colbert is leaving: reports](https://www.space.com/boeing-space-ceo-ted-colbert-leaving)
 <!-- BLOG-POST-LIST:END -->
 
 ---
