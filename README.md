@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonquakes could &#39;pose a possible hazard&#39; to Artemis moon missions, study finds](https://www.space.com/moonquakes-artemis-3-hazards)
 - [Elon Musk threatened with SEC sanctions for failing to appear in court](https://techcrunch.com/2024/09/20/elon-musk-threatened-with-sec-sanctions-for-failing-to-appear-in-court/)
 - [Boeing Space &amp; Defense chief Ted Colbert is leaving: reports](https://www.space.com/boeing-space-ceo-ted-colbert-leaving)
 - [Adam Neumann’s startup Flow opens co-living community in Saudi Arabia](https://techcrunch.com/2024/09/20/adam-neumanns-startup-flow-opens-co-living-community-in-saudi-arabia/)
 - [Cards Against Humanity sues SpaceX for $15 million over land dispute](https://www.space.com/cards-against-humanity-sues-spacex)
-- [India aims for 2028 launch of Venus orbiter as part of ambitious space roadmap](https://www.space.com/space-exploration/launches-spacecraft/india-aims-for-2028-launch-of-venus-orbiter-as-part-of-ambitious-space-roadmap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
