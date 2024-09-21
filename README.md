@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X reverses course in Brazil](https://techcrunch.com/2024/09/21/x-reverses-course-in-brazil/)
 - [Amazon says no to remote work](https://techcrunch.com/2024/09/21/amazon-says-no-to-remote-work/)
 - [Qualcomm may be trying to buy Intel](https://techcrunch.com/2024/09/21/qualcomm-may-be-trying-to-buy-intel/)
 - [India’s Oyo acquires Motel 6 for $525M](https://techcrunch.com/2024/09/21/indias-oyo-acquires-motel-6-for-525m/)
 - [Electric outboard startup Pure Watercraft is selling itself for parts](https://techcrunch.com/2024/09/21/electric-outboard-startup-pure-watercraft-is-selling-itself-for-parts/)
-- [Moksha, the gamified meditation device, makes breath work exercises more engaging](https://techcrunch.com/2024/09/21/moksha-gamified-meditation-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
