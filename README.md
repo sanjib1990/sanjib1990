@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shelf is a social network based on the media you consume](https://techcrunch.com/2024/09/21/shelf-is-a-social-network-based-on-the-media-you-consume/)
+- [This Week In Space podcast: Episode 129 —Back From Mars!](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-129-back-from-mars)
 - [NASA invites public to design Artemis moon mission navigation tech](https://www.space.com/nasa-artemis-moon-navigation-tech)
 - [The EU’s 10 biggest antitrust actions on tech](https://techcrunch.com/2024/09/21/the-eus-10-biggest-antitrust-actions-on-tech/)
 - [Moonquakes could &#39;pose a possible hazard&#39; to Artemis moon missions, study finds](https://www.space.com/moonquakes-artemis-3-hazards)
-- [Elon Musk threatened with SEC sanctions for failing to appear in court](https://techcrunch.com/2024/09/20/elon-musk-threatened-with-sec-sanctions-for-failing-to-appear-in-court/)
-- [Boeing Space &amp; Defense chief Ted Colbert is leaving: reports](https://www.space.com/boeing-space-ceo-ted-colbert-leaving)
 <!-- BLOG-POST-LIST:END -->
 
 ---
