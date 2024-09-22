@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pedego’s Cargo e-bike: Sporty, stylish and powerful for $4,000](https://techcrunch.com/2024/09/22/pedegos-cargo-e-bike-sporty-stylish-and-powerful-for-4000/)
 - [Ibotta’s CEO explains why startups shouldn’t try to time the IPO market](https://techcrunch.com/2024/09/22/ibottas-ceo-explains-why-startups-shouldnt-try-to-time-the-ipo-market/)
 - [A guide to iOS 18’s hidden features and smaller updates](https://techcrunch.com/2024/09/22/a-guide-to-ios-18s-hidden-features-and-smaller-updates/)
 - [SpaceX&#39;s Crew-9 astronaut flight for NASA launches this week. Here&#39;s how it turned into a rescue mission](https://www.space.com/spacex-crew-9-astronaut-rescue-mission)
 - [How Canada is preserving what remains of its iconic supersonic Avro Arrow jet](https://www.space.com/canada-supersonic-avro-arrow-jet-preservation)
-- [Linus Torvalds explains why aging Linux developers are a good thing](https://techcrunch.com/2024/09/22/linus-torvalds-explains-why-aging-linux-developers-are-a-good-thing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
