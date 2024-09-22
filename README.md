@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Canada is preserving what remains of its iconic supersonic Avro Arrow jet](https://www.space.com/canada-supersonic-avro-arrow-jet-preservation)
+- [Linus Torvalds explains why aging Linux developers are a good thing](https://techcrunch.com/2024/09/22/linus-torvalds-explains-why-aging-linux-developers-are-a-good-thing/)
+- [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/09/22/techcrunch-reference-guide-to-security-terminology/)
 - [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/)
 - [Watch NASA astronaut, 2 record-breaking cosmonauts head home to Earth on Sept. 23](https://www.space.com/soyuz-ms-25-return-earth-from-iss)
-- [Autumnal equinox 2024 brings fall to the Northern Hemisphere today](https://www.space.com/autumn-equinox-2024)
-- [Google CEO Sundar Pichai announces $120M fund for global AI education](https://techcrunch.com/2024/09/21/google-ceo-sundar-pichai-announces-120m-fund-for-global-ai-education/)
-- [X reverses course in Brazil](https://techcrunch.com/2024/09/21/x-reverses-course-in-brazil/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
