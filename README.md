@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/)
+- [Watch NASA astronaut, 2 record-breaking cosmonauts head home to Earth on Sept. 23](https://www.space.com/soyuz-ms-25-return-earth-from-iss)
 - [Autumnal equinox 2024 brings fall to the Northern Hemisphere today](https://www.space.com/autumn-equinox-2024)
 - [Google CEO Sundar Pichai announces $120M fund for global AI education](https://techcrunch.com/2024/09/21/google-ceo-sundar-pichai-announces-120m-fund-for-global-ai-education/)
 - [X reverses course in Brazil](https://techcrunch.com/2024/09/21/x-reverses-course-in-brazil/)
-- [Amazon says no to remote work](https://techcrunch.com/2024/09/21/amazon-says-no-to-remote-work/)
-- [Qualcomm may be trying to buy Intel](https://techcrunch.com/2024/09/21/qualcomm-may-be-trying-to-buy-intel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
