@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A guide to iOS 18’s hidden features and smaller updates](https://techcrunch.com/2024/09/22/a-guide-to-ios-18s-hidden-features-and-smaller-updates/)
+- [SpaceX&#39;s Crew-9 astronaut flight for NASA launches this week. Here&#39;s how it turned into a rescue mission](https://www.space.com/spacex-crew-9-astronaut-rescue-mission)
 - [How Canada is preserving what remains of its iconic supersonic Avro Arrow jet](https://www.space.com/canada-supersonic-avro-arrow-jet-preservation)
 - [Linus Torvalds explains why aging Linux developers are a good thing](https://techcrunch.com/2024/09/22/linus-torvalds-explains-why-aging-linux-developers-are-a-good-thing/)
 - [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/09/22/techcrunch-reference-guide-to-security-terminology/)
-- [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/)
-- [Watch NASA astronaut, 2 record-breaking cosmonauts head home to Earth on Sept. 23](https://www.space.com/soyuz-ms-25-return-earth-from-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
