@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The new Reeder app is built for RSS, YouTube, Reddit, Mastodon and more](https://techcrunch.com/2024/09/23/the-new-reeder-app-is-built-for-rss-youtube-reddit-mastodon-and-more/)
+- [Astronomers catalog over 500 extremely powerful cosmic explosions](https://www.space.com/gamma-ray-burst-giant-catalog)
+- [Kestra raises another $8M for its open-source orchestration platform](https://techcrunch.com/2024/09/23/kestra-raises-another-8-million-for-its-open-source-orchestration-platform/)
+- [David Energy is going up against Goliath energy incumbents](https://techcrunch.com/2024/09/23/david-energy-is-going-up-against-goliath-energy-incumbents/)
 - [Massive radio survey reveals our universe&#39;s structure at the largest scales](https://www.space.com/universe-structure-meerkat-radio-survey)
-- [International Space Station: Live updates](https://www.space.com/news/live/international-space-station-live-updates)
-- [Jump raises $12M to help freelancers get benefits just like employees](https://techcrunch.com/2024/09/23/jump-raises-12-million-to-help-freelancers-get-benefits-just-like-employees/)
-- [SoftBank’s Masayoshi Son has been planning his comeback](https://techcrunch.com/2024/09/22/softbanks-masayoshi-son-has-been-planning-his-comeback/)
-- [Matt Mullenweg calls WP Engine a ‘cancer to WordPress’ and urges community to switch providers](https://techcrunch.com/2024/09/22/matt-mullenweg-calls-wp-engine-a-cancer-to-wordpress-and-urges-community-to-switch-providers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
