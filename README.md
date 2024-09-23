@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto scammers hack OpenAI’s press account on X](https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/)
 - [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/09/23/venture-capitalists-continue-to-play-musical-chairs/)
 - [SpaceX fishes Starship Super Heavy booster out of the sea &lpar;photo&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-retrieved-sea-photo)
 - [TechCrunch Space: SpaceX calls out ‘systematic challenges’ with FAA](https://techcrunch.com/2024/09/23/techcrunch-space-spacex-calls-out-systematic-challenges-with-faa/)
 - [China launches 10 satellites on 2 rockets less than 6 hours apart &lpar;video&rpar;](https://www.space.com/china-two-launches-10-satellites-september-2024)
-- [Here is what’s illegal under California’s 9 &lpar;and counting&rpar; new AI laws](https://techcrunch.com/2024/09/23/here-is-whats-illegal-under-californias-9-and-counting-new-ai-laws/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
