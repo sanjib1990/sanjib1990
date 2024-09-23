@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare’s new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
+- [The largest Einstein Cross ever discovered dwells among a rare &#39;carousel&#39; of galaxies](https://www.space.com/einstein-cross-largest-ever-seen)
+- [Soyuz MS-25 lands from ISS with NASA astronaut and record-setting cosmonauts &lpar;video&rpar;](https://www.space.com/soyuz-ms-25-landing-record-days-space)
+- [Thor and Harbinger Motors’ new hybrid RV will let you spend more time at the campsite](https://techcrunch.com/2024/09/23/thor-industries-harbinger-motors-hybrid-rv-range-extender/)
 - [The new Reeder app is built for RSS, YouTube, Reddit, Mastodon and more](https://techcrunch.com/2024/09/23/the-new-reeder-app-is-built-for-rss-youtube-reddit-mastodon-and-more/)
-- [Astronomers catalog over 500 extremely powerful cosmic explosions](https://www.space.com/gamma-ray-burst-giant-catalog)
-- [Kestra raises another $8M for its open-source orchestration platform](https://techcrunch.com/2024/09/23/kestra-raises-another-8-million-for-its-open-source-orchestration-platform/)
-- [David Energy is going up against Goliath energy incumbents](https://techcrunch.com/2024/09/23/david-energy-is-going-up-against-goliath-energy-incumbents/)
-- [Massive radio survey reveals our universe&#39;s structure at the largest scales](https://www.space.com/universe-structure-meerkat-radio-survey)
 <!-- BLOG-POST-LIST:END -->
 
 ---
