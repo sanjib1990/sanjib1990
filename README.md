@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/09/23/venture-capitalists-continue-to-play-musical-chairs/)
+- [SpaceX fishes Starship Super Heavy booster out of the sea &lpar;photo&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-retrieved-sea-photo)
+- [TechCrunch Space: SpaceX calls out ‘systematic challenges’ with FAA](https://techcrunch.com/2024/09/23/techcrunch-space-spacex-calls-out-systematic-challenges-with-faa/)
 - [China launches 10 satellites on 2 rockets less than 6 hours apart &lpar;video&rpar;](https://www.space.com/china-two-launches-10-satellites-september-2024)
 - [Here is what’s illegal under California’s 9 &lpar;and counting&rpar; new AI laws](https://techcrunch.com/2024/09/23/here-is-whats-illegal-under-californias-9-and-counting-new-ai-laws/)
-- [Sam Altman catapults past founder mode into ‘god mode’ with latest AI post](https://techcrunch.com/2024/09/23/sam-altman-catapults-past-founder-mode-into-god-mode-with-latest-ai-post/)
-- [X-rays from a nuclear explosion could redirect an asteroid](https://www.space.com/asteroid-nuclear-bomb-deflection-x-rays)
-- [How Big Tech embraced nuclear power](https://techcrunch.com/2024/09/23/how-big-tech-embraced-nuclear-power/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
