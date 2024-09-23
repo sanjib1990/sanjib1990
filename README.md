@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches 10 satellites on 2 rockets less than 6 hours apart &lpar;video&rpar;](https://www.space.com/china-two-launches-10-satellites-september-2024)
+- [Here is what’s illegal under California’s 9 &lpar;and counting&rpar; new AI laws](https://techcrunch.com/2024/09/23/here-is-whats-illegal-under-californias-9-and-counting-new-ai-laws/)
+- [Sam Altman catapults past founder mode into ‘god mode’ with latest AI post](https://techcrunch.com/2024/09/23/sam-altman-catapults-past-founder-mode-into-god-mode-with-latest-ai-post/)
+- [X-rays from a nuclear explosion could redirect an asteroid](https://www.space.com/asteroid-nuclear-bomb-deflection-x-rays)
 - [How Big Tech embraced nuclear power](https://techcrunch.com/2024/09/23/how-big-tech-embraced-nuclear-power/)
-- [NASA’s Perseverance Mars rover is enroute to conduct 1st crater rim study at &#39;Dox Castle&#39;](https://www.space.com/nasa-perseverance-mars-dox-crater)
-- [X will soon make your public posts visible to accounts you’ve blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
-- [Astronauts, capsule for SpaceX&#39;s Crew-9 mission arrive at Florida launch site &lpar;photos&rpar;](https://www.space.com/astronauts-dragon-capsule-launch-site-spacex-crew-9-mission)
-- [Some Kaspersky customers receive surprise forced-update to new antivirus software](https://techcrunch.com/2024/09/23/some-kaspersky-customers-receive-surprise-forced-update-to-new-antivirus-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
