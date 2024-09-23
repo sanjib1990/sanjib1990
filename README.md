@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [SoftBank’s Masayoshi Son has been planning his comeback](https://techcrunch.com/2024/09/22/softbanks-masayoshi-son-has-been-planning-his-comeback/)
 - [Matt Mullenweg calls WP Engine a ‘cancer to WordPress’ and urges community to switch providers](https://techcrunch.com/2024/09/22/matt-mullenweg-calls-wp-engine-a-cancer-to-wordpress-and-urges-community-to-switch-providers/)
-- [Synex founder, once detained at the border with a 80-pound magnet, is building portable MRIs to test glucose](https://techcrunch.com/2024/09/22/synex-founder-once-detained-at-the-border-with-a-80-pound-magnet-is-building-portable-mris-to-test-glucose/)
+- [Synex founder, once detained at the border with an 80-pound magnet, is building portable MRIs to test glucose](https://techcrunch.com/2024/09/22/synex-founder-once-detained-at-the-border-with-a-80-pound-magnet-is-building-portable-mris-to-test-glucose/)
 - [Yup, Jony Ive is working on an AI device startup with OpenAI](https://techcrunch.com/2024/09/22/yup-jony-ive-is-working-on-a-new-ai-device-company-with-openai/)
 - [Pedego’s Cargo e-bike: Sporty, stylish and powerful for $4,000](https://techcrunch.com/2024/09/22/pedegos-cargo-e-bike-sporty-stylish-and-powerful-for-4000/)
 <!-- BLOG-POST-LIST:END -->
