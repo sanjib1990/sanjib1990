@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pyka fields interest from defense as $40M round goes to scaling up its electric autonomous planes](https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/)
-- [How dark energy could relieve &#39;Hubble tension&#39; and galaxy headaches](https://www.space.com/hubble-tension-early-dark-energy-model)
-- [All Iron Ventures rebrands as Acurio Ventures with a new €150M ‘follow-on’ fund](https://techcrunch.com/2024/09/23/all-iron-ventures-rebrands-as-acurio-ventures-with-a-new-e150m-follow-on-fund/)
-- [Cloudflare’s new marketplace will let websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-will-let-websites-charge-ai-bots-for-scraping/)
-- [The largest Einstein Cross ever discovered dwells among a rare &#39;carousel&#39; of galaxies](https://www.space.com/einstein-cross-largest-ever-seen)
+- [Google TV receives a major update ahead of the launch of its new streaming box](https://techcrunch.com/2024/09/23/google-tv-recieves-a-major-update-ahead-of-google-tv-streamer-launch/)
+- [Zin Boats’ bigger, faster electric leisure craft is built from the hull up with PNW pride](https://techcrunch.com/2024/09/23/zin-boats-bigger-faster-electric-leisure-craft-is-built-from-the-hull-up-with-pnw-pride/)
+- [China&#39;s astronauts conduct emergency drills and deploy payloads into space &lpar;video&rpar;](https://www.space.com/china-astronauts-tiangong-space-station-emergency-drills-september-2024-video)
+- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/)
+- [5 days left to grab rebooted ticket prices for TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/5-days-left-to-grab-rebooted-ticket-prices-for-techcrunch-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
