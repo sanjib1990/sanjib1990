@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rivian reveals first $10M in grants for long-promised Rivian Foundation](https://techcrunch.com/2024/09/23/rivian-foundation-reveals-first-10-million-grantees/)
-- [Ephos wants to shatter the market for AI and quantum chips with a new design based on glass](https://techcrunch.com/2024/09/23/ephos-wants-to-shatter-the-market-for-ai-and-quantum-chips-with-a-new-design-based-on-glass/)
-- [Rabbit’s web-based ‘large action model’ agent arrives on r1 as early as this week](https://techcrunch.com/2024/09/23/rabbits-web-based-large-action-model-agent-arrives-on-r1-as-early-as-this-week/)
-- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/)
-- [Boston Dynamics’ Spot can now autonomously unlock doors](https://techcrunch.com/2024/09/23/boston-dynamics-spot-can-now-autonomously-unlock-doors/)
+- [How Big Tech embraced nuclear power](https://techcrunch.com/2024/09/23/how-big-tech-embraced-nuclear-power/)
+- [NASA’s Perseverance Mars rover is enroute to conduct 1st crater rim study at &#39;Dox Castle&#39;](https://www.space.com/nasa-perseverance-mars-dox-crater)
+- [X will soon make your public posts visible to accounts you’ve blocked](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/)
+- [Astronauts, capsule for SpaceX&#39;s Crew-9 mission arrive at Florida launch site &lpar;photos&rpar;](https://www.space.com/astronauts-dragon-capsule-launch-site-spacex-crew-9-mission)
+- [Some Kaspersky customers receive surprise forced-update to new antivirus software](https://techcrunch.com/2024/09/23/some-kaspersky-customers-receive-surprise-forced-update-to-new-antivirus-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
