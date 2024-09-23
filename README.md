@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrophotographer captures the beauty of solar activity in stunning sun photo](https://www.space.com/sun-beauty-of-solar-activity)
-- [1st look: Marvel&#39;s &#39;Alien: Romulus&#39; prequel comic solves a shocking mystery](https://www.space.com/marvel-alien-romulus-prequel-comic-preview)
-- [Letta, one of UC Berkeley’s most anticipated AI startups, has just come out of stealth](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/)
-- [First TikTok, now smart cars: How Biden’s new proposed ban will affect U.S. automakers](https://techcrunch.com/2024/09/23/first-tiktok-now-smart-cars-how-bidens-new-proposed-ban-will-affect-u-s-automakers/)
-- [Equinox increases chances of geomagnetic storm from solar eruption this week](https://www.space.com/sun-geomagnetic-storm-equinox-exploding-sunspot-september-25)
+- [Rivian reveals first $10M in grants for long-promised Rivian Foundation](https://techcrunch.com/2024/09/23/rivian-foundation-reveals-first-10-million-grantees/)
+- [Ephos wants to shatter the market for AI and quantum chips with a new design based on glass](https://techcrunch.com/2024/09/23/ephos-wants-to-shatter-the-market-for-ai-and-quantum-chips-with-a-new-design-based-on-glass/)
+- [Rabbit’s web-based ‘large action model’ agent arrives on r1 as early as this week](https://techcrunch.com/2024/09/23/rabbits-web-based-large-action-model-agent-arrives-on-r1-as-early-as-this-week/)
+- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/23/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/)
+- [Boston Dynamics’ Spot can now autonomously unlock doors](https://techcrunch.com/2024/09/23/boston-dynamics-spot-can-now-autonomously-unlock-doors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
