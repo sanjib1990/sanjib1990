@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare’s new marketplace lets websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-lets-websites-charge-ai-bots-for-scraping/)
+- [Pyka fields interest from defense as $40M round goes to scaling up its electric autonomous planes](https://techcrunch.com/2024/09/23/pyka-fields-interest-from-defense-as-40m-round-goes-to-scaling-up-its-electric-autonomous-planes/)
+- [How dark energy could relieve &#39;Hubble tension&#39; and galaxy headaches](https://www.space.com/hubble-tension-early-dark-energy-model)
+- [All Iron Ventures rebrands as Acurio Ventures with a new €150M ‘follow-on’ fund](https://techcrunch.com/2024/09/23/all-iron-ventures-rebrands-as-acurio-ventures-with-a-new-e150m-follow-on-fund/)
+- [Cloudflare’s new marketplace will let websites charge AI bots for scraping](https://techcrunch.com/2024/09/23/cloudflares-new-marketplace-will-let-websites-charge-ai-bots-for-scraping/)
 - [The largest Einstein Cross ever discovered dwells among a rare &#39;carousel&#39; of galaxies](https://www.space.com/einstein-cross-largest-ever-seen)
-- [Soyuz MS-25 lands from ISS with NASA astronaut and record-setting cosmonauts &lpar;video&rpar;](https://www.space.com/soyuz-ms-25-landing-record-days-space)
-- [Thor and Harbinger Motors’ new hybrid RV will let you spend more time at the campsite](https://techcrunch.com/2024/09/23/thor-industries-harbinger-motors-hybrid-rv-range-extender/)
-- [The new Reeder app is built for RSS, YouTube, Reddit, Mastodon and more](https://techcrunch.com/2024/09/23/the-new-reeder-app-is-built-for-rss-youtube-reddit-mastodon-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
