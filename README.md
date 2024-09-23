@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographer captures the beauty of solar activity in stunning sun photo](https://www.space.com/sun-beauty-of-solar-activity)
 - [1st look: Marvel&#39;s &#39;Alien: Romulus&#39; prequel comic solves a shocking mystery](https://www.space.com/marvel-alien-romulus-prequel-comic-preview)
 - [Letta, one of UC Berkeley’s most anticipated AI startups, has just come out of stealth](https://techcrunch.com/2024/09/23/letta-one-of-uc-berkeleys-most-anticipated-ai-startups-has-just-come-out-of-stealth/)
 - [First TikTok, now smart cars: How Biden’s new proposed ban will affect U.S. automakers](https://techcrunch.com/2024/09/23/first-tiktok-now-smart-cars-how-bidens-new-proposed-ban-will-affect-u-s-automakers/)
 - [Equinox increases chances of geomagnetic storm from solar eruption this week](https://www.space.com/sun-geomagnetic-storm-equinox-exploding-sunspot-september-25)
-- [Meta Connect 2024: How to watch the metaverse and generative AI event](https://techcrunch.com/2024/09/23/meta-connect-2024-how-to-watch-the-metaverse-and-generative-ai-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
