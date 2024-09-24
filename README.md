@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A startup from ex-Revolut employees uses AI to automate accounts — but hopes to keep accountants in jobs](https://techcrunch.com/2024/09/24/a-startup-from-ex-revolut-employees-uses-ai-to-automate-accounts-but-hopes-to-keep-accountants-in-jobs/)
-- [Microsoft claims its new tool can correct AI hallucinations, but experts advise caution](https://techcrunch.com/2024/09/24/microsoft-claims-its-new-tool-can-correct-ai-hallucinations-but-experts-caution-it-has-shortcomings/)
-- [New image of China&#39;s secret space plane shows delta-wing design](https://www.space.com/china-space-plane-image-delta-wing-design)
-- [Sequoia’s first space investment since SpaceX is in sunlight-seller Reflect Orbital](https://techcrunch.com/2024/09/24/sequoias-first-space-investment-since-spacex-is-sunlight-seller-reflect-orbital/)
-- [TikTok comes for Google’s ad business as it starts letting advertisers target its search results page](https://techcrunch.com/2024/09/24/tiktok-comes-for-googles-ad-business-as-it-starts-letting-advertisers-target-its-search-results-page/)
+- [Space Perspective completes 1st uncrewed balloon flight to the edge of Earth&#39;s atmosphere &lpar;video&rpar;](https://www.space.com/space-perspective-completes-first-uncrewed-test-flight)
+- [Data platform Airbyte can now create API connectors by reading the docs](https://techcrunch.com/2024/09/24/data-platform-airbyte-can-now-create-api-connectors-by-reading-the-docs/)
+- [Just 4 days left to save up to $600 on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/24/just-4-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-passes/)
+- [Tech YouTuber MKBHD’s Panels app is a bit underwhelming](https://techcrunch.com/2024/09/24/tech-youtuber-mkbhds-panels-app-is-a-bit-underwhelming/)
+- [As the open social web grows, a new nonprofit looks to expand the ‘fediverse’](https://techcrunch.com/2024/09/24/as-the-open-social-web-movement-grows-a-new-nonprofit-launches-to-expand-the-fediverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
