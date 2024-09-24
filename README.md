@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Missing link&#39; black hole lurks in strange binary system with red giant star](https://www.space.com/black-hole-missing-link-red-dwarf-star-strange-binary)
 - [WP Engine sends cease-and-desist letter to Automattic over Mullenweg’s comments](https://techcrunch.com/2024/09/23/wp-engine-sends-cease-and-desist-letter-to-automattic-over-mullenwegs-comments/)
 - [GitHub will allow enterprise cloud customers to store data in the EU](https://techcrunch.com/2024/09/23/github-will-allow-enterprise-cloud-customers-to-store-data-in-the-eu/)
 - [Fintech Jupiter in talks to buy a stake in SBM Bank India](https://techcrunch.com/2024/09/23/fintech-jupiter-in-talks-to-buy-a-stake-in-sbm-bank-india/)
 - [Crypto scammers hack OpenAI’s press account on X](https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/)
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/09/23/venture-capitalists-continue-to-play-musical-chairs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
