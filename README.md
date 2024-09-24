@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ByteDance is shutting down TikTok Music globally](https://techcrunch.com/2024/09/24/bytedance-is-shutting-down-tiktok-music-globally/)
-- [Boeing Starliner astronaut Suni Williams takes ISS command as 8-day mission turns into 8 months &lpar;video&rpar;](https://www.space.com/suni-williams-takes-command-of-iss-exp-71)
-- [Pinterest launches a feature to let users remix collages created by others](https://techcrunch.com/2024/09/24/pinterest-launches-a-feature-to-let-users-remix-collages-created-by-others/)
-- [&#39;Missing link&#39; black hole lurks in strange binary system with red giant star](https://www.space.com/black-hole-missing-link-red-dwarf-star-strange-binary)
-- [WP Engine sends cease-and-desist letter to Automattic over Mullenweg’s comments](https://techcrunch.com/2024/09/23/wp-engine-sends-cease-and-desist-letter-to-automattic-over-mullenwegs-comments/)
+- [Vista Equity Partners and Blackstone offer to buy Smartsheet for $8.4B in cash](https://techcrunch.com/2024/09/24/vista-equity-partners-and-blackstone-offer-to-buy-smartsheet-for-8-4b-in-cash/)
+- [Orion spacecraft can shield Artemis astronauts from deep-space radiation, study shows](https://www.space.com/nasa-artemis-1-moon-mission-radiation-human-spaceflight)
+- [Insta360’s excellent Link webcam gets a pair of successors](https://techcrunch.com/2024/09/24/insta360s-excellent-link-webcam-gets-a-pair-of-successors/)
+- [Fintech Mesa promises 1% cash back on mortgages, up to 3x on other home needs](https://techcrunch.com/2024/09/24/fintech-mesa-promises-1-cash-back-on-mortgages-up-to-3x-on-other-home-needs/)
+- [Torq, which automates cybersecurity workflows, raises $70M in new capital](https://techcrunch.com/2024/09/24/torq-which-automates-cybersecurity-workflows-raises-70m-in-new-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
