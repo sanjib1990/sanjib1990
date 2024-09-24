@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub will allow enterprise cloud customers to store data in the EU](https://techcrunch.com/2024/09/23/github-will-allow-enterprise-cloud-customers-to-store-data-in-the-eu/)
 - [Fintech Jupiter in talks to buy a stake in SBM Bank India](https://techcrunch.com/2024/09/23/fintech-jupiter-in-talks-to-buy-a-stake-in-sbm-bank-india/)
 - [Crypto scammers hack OpenAI’s press account on X](https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/)
 - [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/09/23/venture-capitalists-continue-to-play-musical-chairs/)
 - [SpaceX fishes Starship Super Heavy booster out of the sea &lpar;photo&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-retrieved-sea-photo)
-- [TechCrunch Space: SpaceX calls out ‘systematic challenges’ with FAA](https://techcrunch.com/2024/09/23/techcrunch-space-spacex-calls-out-systematic-challenges-with-faa/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
