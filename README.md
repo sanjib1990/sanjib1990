@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We are close:&#39; SETI astrobiologist Nathalie Cabrol on the search for life](https://www.space.com/space-exploration/search-for-life/we-are-close-seti-astrobiologist-nathalie-cabrol-on-the-search-for-life)
+- [Commvault acquires data backup provider Clumio](https://techcrunch.com/2024/09/24/commvault-acquires-data-backup-provider-clumio/)
+- [The best Twitter alternatives worth checking out](https://techcrunch.com/2024/09/24/best-twitter-alternatives-social-apps/)
+- [Tropical Storm Helene delays SpaceX&#39;s Crew-9 astronaut launch to Sept. 28](https://www.space.com/tropical-storm-helene-delays-spacex-crew-9-launch-september-28)
 - [US Space Force partners with India to open a microchip factory for next-gen tech](https://www.space.com/us-space-force-india-semiconductor-factory)
-- [EGYM, a connected fitness startup conceived after the founder hit a wall at the gym, lands $200M at a $1.2B+ valuation](https://techcrunch.com/2024/09/24/egym-a-connected-fitness-startup-conceived-after-the-founder-hit-a-wall-at-the-gym-is-ramping-up-with-200m-at-a-1-2b-valuation/)
-- [&#39;Warhammer 40K: Space Marine 2&#39; brings glory to the Emperor &lpar;review&rpar;](https://www.space.com/warhammer-40k-space-marine-2-review)
-- [The beloved Rodecaster board gets a video production counterpart](https://techcrunch.com/2024/09/24/the-beloved-rodecaster-board-get-a-video-production-counterpart/)
-- [How one female VC is teaching kids about startups and women in tech](https://techcrunch.com/2024/09/24/how-one-female-vc-is-teaching-kids-about-startups-and-women-in-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
