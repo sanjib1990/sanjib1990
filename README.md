@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force partners with India to open a microchip factory for next-gen tech](https://www.space.com/us-space-force-india-semiconductor-factory)
+- [EGYM, a connected fitness startup conceived after the founder hit a wall at the gym, lands $200M at a $1.2B+ valuation](https://techcrunch.com/2024/09/24/egym-a-connected-fitness-startup-conceived-after-the-founder-hit-a-wall-at-the-gym-is-ramping-up-with-200m-at-a-1-2b-valuation/)
 - [&#39;Warhammer 40K: Space Marine 2&#39; brings glory to the Emperor &lpar;review&rpar;](https://www.space.com/warhammer-40k-space-marine-2-review)
 - [The beloved Rodecaster board gets a video production counterpart](https://techcrunch.com/2024/09/24/the-beloved-rodecaster-board-get-a-video-production-counterpart/)
 - [How one female VC is teaching kids about startups and women in tech](https://techcrunch.com/2024/09/24/how-one-female-vc-is-teaching-kids-about-startups-and-women-in-tech/)
-- [Northvolt lays off 1,600 workers, but it’s not the end for Europe’s battery champion](https://techcrunch.com/2024/09/24/northvolt-lays-off-1600-workers-but-its-not-the-end-for-europes-battery-champion/)
-- [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
