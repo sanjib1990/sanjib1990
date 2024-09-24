@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Warhammer 40K: Space Marine 2&#39; brings glory to the Emperor &lpar;review&rpar;](https://www.space.com/warhammer-40k-space-marine-2-review)
+- [The beloved Rodecaster board gets a video production counterpart](https://techcrunch.com/2024/09/24/the-beloved-rodecaster-board-get-a-video-production-counterpart/)
+- [How one female VC is teaching kids about startups and women in tech](https://techcrunch.com/2024/09/24/how-one-female-vc-is-teaching-kids-about-startups-and-women-in-tech/)
+- [Northvolt lays off 1,600 workers, but it’s not the end for Europe’s battery champion](https://techcrunch.com/2024/09/24/northvolt-lays-off-1600-workers-but-its-not-the-end-for-europes-battery-champion/)
 - [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
-- [SpaceX stacks Starship megarocket ahead of 5th test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-stacked-fifth-test-flight-photos)
-- [Nothing launches a slick pair of $149 open-ear headphones](https://techcrunch.com/2024/09/24/nothing-launches-a-slick-pair-of-149-open-ear-headphones/)
-- [Toyota Ventures’s Jim Adler says climate tech startups need to secure future buyers](https://techcrunch.com/2024/09/24/toyota-venturess-jim-adler-says-climate-tech-startups-need-to-secure-future-buyers/)
-- [From dinners with Travis Kalanick to fired after maternity leave: One of CloudKitchens’ earliest employees is suing](https://techcrunch.com/2024/09/24/travis-kalanick-cloudkitchens-lawsuit-wrongful-termination-pregnant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
