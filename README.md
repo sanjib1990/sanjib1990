@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;We are close:&#39; SETI astrobiologist Nathalie Cabrol on the search for life](https://www.space.com/space-exploration/search-for-life/we-are-close-seti-astrobiologist-nathalie-cabrol-on-the-search-for-life)
+- [SpaceX launching 20 Starlink internet satellites to orbit early Sept. 25](https://www.space.com/spacex-starlink-launch-group-9-8)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Caroline Ellison sentenced to two years in prison for FTX fraud](https://techcrunch.com/2024/09/24/caroline-ellison-sentenced-to-two-years-in-prison-for-ftx-fraud/)
+- [&#39;We are close:&#39; SETI astrobiologist Nathalie Cabrol on the search for life](https://www.space.com/seti-nathalie-cabrol-the-secret-life-of-the-universe)
 - [Commvault acquires data backup provider Clumio](https://techcrunch.com/2024/09/24/commvault-acquires-data-backup-provider-clumio/)
-- [The best Twitter alternatives worth checking out](https://techcrunch.com/2024/09/24/best-twitter-alternatives-social-apps/)
-- [Tropical Storm Helene delays SpaceX&#39;s Crew-9 astronaut launch to Sept. 28](https://www.space.com/tropical-storm-helene-delays-spacex-crew-9-launch-september-28)
-- [US Space Force partners with India to open a microchip factory for next-gen tech](https://www.space.com/us-space-force-india-semiconductor-factory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
