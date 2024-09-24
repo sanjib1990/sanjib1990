@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce snatches up Zoomin, a tool for organizing company knowledge](https://techcrunch.com/2024/09/24/salesforce-snatches-up-zoomin-a-tool-for-organizing-company-knowledge/)
 - [SpaceX launching 20 Starlink internet satellites to orbit early Sept. 25](https://www.space.com/spacex-starlink-launch-group-9-8)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Caroline Ellison sentenced to two years in prison for FTX fraud](https://techcrunch.com/2024/09/24/caroline-ellison-sentenced-to-two-years-in-prison-for-ftx-fraud/)
 - [&#39;We are close:&#39; SETI astrobiologist Nathalie Cabrol on the search for life](https://www.space.com/seti-nathalie-cabrol-the-secret-life-of-the-universe)
-- [Commvault acquires data backup provider Clumio](https://techcrunch.com/2024/09/24/commvault-acquires-data-backup-provider-clumio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
