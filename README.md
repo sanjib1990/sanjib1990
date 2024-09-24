@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vista Equity Partners and Blackstone offer to buy Smartsheet for $8.4B in cash](https://techcrunch.com/2024/09/24/vista-equity-partners-and-blackstone-offer-to-buy-smartsheet-for-8-4b-in-cash/)
-- [Orion spacecraft can shield Artemis astronauts from deep-space radiation, study shows](https://www.space.com/nasa-artemis-1-moon-mission-radiation-human-spaceflight)
-- [Insta360’s excellent Link webcam gets a pair of successors](https://techcrunch.com/2024/09/24/insta360s-excellent-link-webcam-gets-a-pair-of-successors/)
-- [Fintech Mesa promises 1% cash back on mortgages, up to 3x on other home needs](https://techcrunch.com/2024/09/24/fintech-mesa-promises-1-cash-back-on-mortgages-up-to-3x-on-other-home-needs/)
-- [Torq, which automates cybersecurity workflows, raises $70M in new capital](https://techcrunch.com/2024/09/24/torq-which-automates-cybersecurity-workflows-raises-70m-in-new-cash/)
+- [A startup from ex-Revolut employees uses AI to automate accounts — but hopes to keep accountants in jobs](https://techcrunch.com/2024/09/24/a-startup-from-ex-revolut-employees-uses-ai-to-automate-accounts-but-hopes-to-keep-accountants-in-jobs/)
+- [Microsoft claims its new tool can correct AI hallucinations, but experts advise caution](https://techcrunch.com/2024/09/24/microsoft-claims-its-new-tool-can-correct-ai-hallucinations-but-experts-caution-it-has-shortcomings/)
+- [New image of China&#39;s secret space plane shows delta-wing design](https://www.space.com/china-space-plane-image-delta-wing-design)
+- [Sequoia’s first space investment since SpaceX is in sunlight-seller Reflect Orbital](https://techcrunch.com/2024/09/24/sequoias-first-space-investment-since-spacex-is-sunlight-seller-reflect-orbital/)
+- [TikTok comes for Google’s ad business as it starts letting advertisers target its search results page](https://techcrunch.com/2024/09/24/tiktok-comes-for-googles-ad-business-as-it-starts-letting-advertisers-target-its-search-results-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
