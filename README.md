@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ByteDance is shutting down TikTok Music globally](https://techcrunch.com/2024/09/24/bytedance-is-shutting-down-tiktok-music-globally/)
+- [Boeing Starliner astronaut Suni Williams takes ISS command as 8-day mission turns into 8 months &lpar;video&rpar;](https://www.space.com/suni-williams-takes-command-of-iss-exp-71)
 - [Pinterest launches a feature to let users remix collages created by others](https://techcrunch.com/2024/09/24/pinterest-launches-a-feature-to-let-users-remix-collages-created-by-others/)
 - [&#39;Missing link&#39; black hole lurks in strange binary system with red giant star](https://www.space.com/black-hole-missing-link-red-dwarf-star-strange-binary)
 - [WP Engine sends cease-and-desist letter to Automattic over Mullenweg’s comments](https://techcrunch.com/2024/09/23/wp-engine-sends-cease-and-desist-letter-to-automattic-over-mullenwegs-comments/)
-- [GitHub will allow enterprise cloud customers to store data in the EU](https://techcrunch.com/2024/09/23/github-will-allow-enterprise-cloud-customers-to-store-data-in-the-eu/)
-- [Fintech Jupiter in talks to buy a stake in SBM Bank India](https://techcrunch.com/2024/09/23/fintech-jupiter-in-talks-to-buy-a-stake-in-sbm-bank-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
