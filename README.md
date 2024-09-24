@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists have found evidence of past extreme solar storms. Their return could be disastrous for our technology-based societies](https://www.space.com/scientists-find-evidence-of-extreme-solar-storms-could-be-disasterous-for-tech-based-society)
+- [Moxie, which helps nurses launch medspas, raises a preemptive Series B from Lachy Groom](https://techcrunch.com/2024/09/24/moxie-which-helps-nurses-launch-medspas-raises-a-preemptive-series-b-from-lachy-groom-signalfire/)
 - [Witness the Galactic Civil War&#39;s last gasp in &#39;Star Wars: Battle of Jakku&#39; miniseries](https://www.space.com/star-wars-battle-of-jakku-miniseries)
 - [Space Perspective completes 1st uncrewed balloon flight to the edge of Earth&#39;s atmosphere &lpar;video&rpar;](https://www.space.com/space-perspective-completes-first-uncrewed-test-flight)
 - [Data platform Airbyte can now create API connectors by reading the docs](https://techcrunch.com/2024/09/24/data-platform-airbyte-can-now-create-api-connectors-by-reading-the-docs/)
-- [Just 4 days left to save up to $600 on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/24/just-4-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-passes/)
-- [Tech YouTuber MKBHD’s Panels app is a bit underwhelming](https://techcrunch.com/2024/09/24/tech-youtuber-mkbhds-panels-app-is-a-bit-underwhelming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
