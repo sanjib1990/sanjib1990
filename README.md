@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists have found evidence of past extreme solar storms. Their return could be disastrous for our technology-based societies](https://www.space.com/scientists-find-evidence-of-extreme-solar-storms-could-be-disasterous-for-tech-based-society)
-- [Moxie, which helps nurses launch medspas, raises a preemptive Series B from Lachy Groom](https://techcrunch.com/2024/09/24/moxie-which-helps-nurses-launch-medspas-raises-a-preemptive-series-b-from-lachy-groom-signalfire/)
-- [Witness the Galactic Civil War&#39;s last gasp in &#39;Star Wars: Battle of Jakku&#39; miniseries](https://www.space.com/star-wars-battle-of-jakku-miniseries)
-- [Space Perspective completes 1st uncrewed balloon flight to the edge of Earth&#39;s atmosphere &lpar;video&rpar;](https://www.space.com/space-perspective-completes-first-uncrewed-test-flight)
-- [Data platform Airbyte can now create API connectors by reading the docs](https://techcrunch.com/2024/09/24/data-platform-airbyte-can-now-create-api-connectors-by-reading-the-docs/)
+- [OpenAI rolls out Advanced Voice Mode with more voices and a new look](https://techcrunch.com/2024/09/24/openai-rolls-out-advanced-voice-mode-with-more-voices-and-a-new-look/)
+- [SpaceX stacks Starship megarocket ahead of 5th test flight &lpar;photos&rpar;](https://www.space.com/spacex-starship-stacked-fifth-test-flight-photos)
+- [Nothing launches a slick pair of $149 open-ear headphones](https://techcrunch.com/2024/09/24/nothing-launches-a-slick-pair-of-149-open-ear-headphones/)
+- [Toyota Ventures’s Jim Adler says climate tech startups need to secure future buyers](https://techcrunch.com/2024/09/24/toyota-venturess-jim-adler-says-climate-tech-startups-need-to-secure-future-buyers/)
+- [From dinners with Travis Kalanick to fired after maternity leave: One of CloudKitchens’ earliest employees is suing](https://techcrunch.com/2024/09/24/travis-kalanick-cloudkitchens-lawsuit-wrongful-termination-pregnant/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
