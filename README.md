@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video, and more](https://techcrunch.com/2024/09/25/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/)
+- [Canon PowerShot Zoom digital monocular review](https://www.space.com/canon-powershot-zoom-digital-monocular-review)
+- [Zuckerberg chats with AI clone as human creator looks on in year’s weirdest demo](https://techcrunch.com/2024/09/25/zuckerberg-chats-with-ai-clone-as-human-creator-looks-on-in-years-weirdest-demo/)
+- [Weird striped rock &#39;unlike any seen on Mars&#39; found by Perseverance rover.  Here&#39;s why NASA&#39;s excited](https://www.space.com/mars-perseverance-rover-weird-stripy-rock)
 - [Blue Origin fires up 2nd stage of huge New Glenn rocket ahead of debut launch &lpar;video&rpar;](https://www.space.com/blue-origin-new-glenn-upper-stage-hotfire-test-video)
-- [OpenAI CTO Mira Murati says she’s leaving the company](https://techcrunch.com/2024/09/25/openai-cto-mira-murati-says-shes-leaving-the-company/)
-- [What does Mark Zuckerberg’s shirt say?](https://techcrunch.com/2024/09/25/what-does-mark-zuckerbergs-shirt-say/)
-- [Meta pitches VR to mobile developers with new support for Android apps on Quest](https://techcrunch.com/2024/09/25/meta-pitches-vr-to-mobile-developers-with-new-support-for-android-apps-on-quest/)
-- [SpaceX&#39;s Elon Musk calls on FAA chief to resign](https://www.space.com/spacex-elon-musk-faa-administrator-resign)
 <!-- BLOG-POST-LIST:END -->
 
 ---
