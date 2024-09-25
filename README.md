@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airtel taps AI to combat India’s rampant spam calls problem](https://techcrunch.com/2024/09/24/airtel-taps-ai-to-combat-india-rampant-spam-calls-problem/)
+- [Hone Capital, a Silicon Valley firm, is being probed by the FBI](https://techcrunch.com/2024/09/24/hone-capital-a-silicon-valley-firm-is-being-probed-by-the-fbi/)
 - [Salesforce snatches up Zoomin, a tool for organizing company knowledge](https://techcrunch.com/2024/09/24/salesforce-snatches-up-zoomin-a-tool-for-organizing-company-knowledge/)
 - [SpaceX launches 20 Starlink internet satellites from California &lpar;photos&rpar;](https://www.space.com/spacex-starlink-launch-group-9-8)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Caroline Ellison sentenced to two years in prison for FTX fraud](https://techcrunch.com/2024/09/24/caroline-ellison-sentenced-to-two-years-in-prison-for-ftx-fraud/)
-- [&#39;We are close:&#39; SETI astrobiologist Nathalie Cabrol on the search for life](https://www.space.com/seti-nathalie-cabrol-the-secret-life-of-the-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
