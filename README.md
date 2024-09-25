@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introducing the Open Learners Podcast](https://www.youtube.com/watch?v=jY2w9Ipthpg)
 - [let&#39;s have some coffee](https://www.youtube.com/watch?v=WhqFLLvGOiA)
 - [Deno 2 is here… will it actually kill Node.js this time?](https://www.youtube.com/watch?v=pcC4Dr6Wj2Q)
 - [Tmux in 100 Seconds](https://www.youtube.com/watch?v=vtB1J_zCv8I)
 - [5 life-changing Linux tips](https://www.youtube.com/watch?v=fwBIZRq-vzY)
-- [How To Make AWS Not Suck](https://www.youtube.com/watch?v=gJmz31JywM0)
 <!-- YOUTUBE:END -->
 
 ---
