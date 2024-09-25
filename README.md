@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Connect 2024: Everything announced on AI, the metaverse, Quest headsets and more](https://techcrunch.com/2024/09/25/meta-connect-2024-everything-announced-on-ai-the-metaverse-quest-headsets-and-more/)
-- [Diagrid launches Catalyst to help enterprises build their microservices](https://techcrunch.com/2024/09/25/diagrid-launches-catalyst-to-help-enterprises-build-their-microservices/)
-- [Amazon employees beg management to reverse 5-day RTO mandate](https://techcrunch.com/2024/09/25/amazon-employees-beg-management-to-reverse-5-day-rto-mandate/)
-- [Consumer, culture, and creators with Erin and Sara Foster at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/25/consumer-culture-and-creators-with-erin-and-sara-foster-at-techcrunch-disrupt-2024/)
-- [Longshot Space closes over $5M in new funding to build space gun in the desert](https://techcrunch.com/2024/09/25/longshot-space-closes-over-5m-in-new-funding-to-build-space-gun-in-the-desert/)
+- [Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video and more](https://techcrunch.com/2024/09/25/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/)
+- [Meta developed a ‘neural interface’ for its next-gen Orion AR glasses](https://techcrunch.com/2024/09/25/meta-developed-a-neural-interface-for-its-next-gen-orion-ar-glasses/)
+- [Where did Mars&#39; atmosphere go? Scientists say it may be &#39;hiding in plain sight&#39;](https://www.space.com/mars-missing-atmosphere-hiding-plain-sight-clay-methane)
+- [Meta teases Orion, ‘the most advanced glasses the world has ever seen’](https://techcrunch.com/2024/09/25/meta-teases-orion-the-most-advanced-glasses-the-world-has-ever-seen/)
+- [Hurricane Helene could yield major flooding, tornadoes and &#39;devastating&#39; winds, experts warn](https://www.space.com/hurricane-helene-storm-september-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
