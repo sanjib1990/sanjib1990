@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video and more](https://techcrunch.com/2024/09/25/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/)
+- [Meta announces $300 Quest 3S, a cheaper take on mixed reality](https://techcrunch.com/2024/09/25/meta-announces-300-quest-3s-a-cheaper-take-on-mixed-reality/)
+- [Meta teases Orion, brain-powered true AR glasses in a tiny package](https://techcrunch.com/2024/09/25/meta-teases-orion-brain-powered-true-ar-glasses-in-a-tiny-package/)
+- [Y Combinator’s next Demo Day will include in-person seats for top VCs, Garry Tan says](https://techcrunch.com/2024/09/25/y-combinators-next-demo-day-will-include-in-person-seats-for-top-vcs-garry-tan-says/)
+- [Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video, and more](https://techcrunch.com/2024/09/25/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/)
 - [Meta developed a ‘neural interface’ for its next-gen Orion AR glasses](https://techcrunch.com/2024/09/25/meta-developed-a-neural-interface-for-its-next-gen-orion-ar-glasses/)
-- [Where did Mars&#39; atmosphere go? Scientists say it may be &#39;hiding in plain sight&#39;](https://www.space.com/mars-missing-atmosphere-hiding-plain-sight-clay-methane)
-- [Meta teases Orion, ‘the most advanced glasses the world has ever seen’](https://techcrunch.com/2024/09/25/meta-teases-orion-the-most-advanced-glasses-the-world-has-ever-seen/)
-- [Hurricane Helene could yield major flooding, tornadoes and &#39;devastating&#39; winds, experts warn](https://www.space.com/hurricane-helene-storm-september-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
