@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Legal ping-pong in the WordPress world continues as Automattic sends WP Engine a cease-and-desist letter alleging trademark infringement](https://techcrunch.com/2024/09/25/legal-ping-pong-in-the-wordpress-world-continues-automattic-now-sends-wp-engine-a-cease-and-desist-letter-alleging-trademark-infringement/)
+- [Vsim, founded by Nvidia alums, raises $21.5M for robotics simulation tech](https://techcrunch.com/2024/09/25/vsim-founded-by-nvidia-alums-raises-21-5m-for-robotics-simulation-tech/)
 - [Airtel taps AI to combat India’s rampant spam calls problem](https://techcrunch.com/2024/09/24/airtel-taps-ai-to-combat-india-rampant-spam-calls-problem/)
 - [Hone Capital, a Silicon Valley firm, is being probed by the FBI](https://techcrunch.com/2024/09/24/hone-capital-a-silicon-valley-firm-is-being-probed-by-the-fbi/)
 - [Salesforce snatches up Zoomin, a tool for organizing company knowledge](https://techcrunch.com/2024/09/24/salesforce-snatches-up-zoomin-a-tool-for-organizing-company-knowledge/)
-- [SpaceX launches 20 Starlink internet satellites from California &lpar;photos&rpar;](https://www.space.com/spacex-starlink-launch-group-9-8)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/09/24/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
