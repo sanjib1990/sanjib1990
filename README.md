@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After losing a peering lawsuit in Germany, Meta says it’s never getting back together with Deutsche Telekom](https://techcrunch.com/2024/09/25/after-losing-a-peering-lawsuit-in-germany-meta-says-its-never-getting-back-together-with-deutsche-telekom/)
+- [Ayrton Energy mimics margarine to store hydrogen safely](https://techcrunch.com/2024/09/25/ayrton-energy-mimics-margarine-to-store-hydrogen-safely/)
 - [How black-hole-powered quasars killed off neighboring galaxies in the early universe](https://www.space.com/black-hole-quasar-neighbor-galaxies)
 - [Audible experiments with new AI features for tailored audiobook recommendations](https://techcrunch.com/2024/09/25/audible-experiments-with-new-ai-features-tailored-audiobook-recommendations/)
 - [Meta acquires the Threads.com domain name](https://techcrunch.com/2024/09/25/meta-acquires-the-threads-com-domain-name/)
-- [Early sign-ups to EU’s AI Pact include Amazon, Google, Microsoft and OpenAI — but Apple and Meta are missing](https://techcrunch.com/2024/09/25/early-sign-ups-to-eus-ai-pact-include-amazon-google-microsoft-and-openai-but-apple-and-meta-are-missing/)
-- [Final 3 days to score up to $600 in savings on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/25/final-3-days-to-score-up-to-600-in-savings-on-techcrunch-disrupt-2024-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
