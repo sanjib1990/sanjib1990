@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Backyard Baseball ’97 is back, with a re-release coming soon on Steam](https://techcrunch.com/2024/09/25/backyard-baseball-97-is-back-with-a-re-release-coming-soon-on-steam/)
-- [Citizen scientists bring intriguing &#39;hot Jupiter&#39; exoplanet into sharp focus](https://www.space.com/wasp-77-ab-exoplanet-citizen-scientists)
-- [Tomasz Tunguz’s Theory Ventures bets $12M on Initia, the ‘iOS for web3’](https://techcrunch.com/2024/09/25/tomasz-tunguzs-theory-ventures-bets-12m-on-initia-the-ios-for-web3/)
-- [Raycast raises $30M to bring its Mac productivity app to Windows and iOS](https://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios/)
-- [AI2’s Molmo shows open source can meet, and beat, closed multimodal models](https://techcrunch.com/2024/09/25/ai2s-molmo-shows-open-source-can-meet-and-beat-closed-multimodal-models/)
+- [How black-hole-powered quasars killed off neighboring galaxies in the early universe](https://www.space.com/black-hole-quasar-neighbor-galaxies)
+- [Audible experiments with new AI features for tailored audiobook recommendations](https://techcrunch.com/2024/09/25/audible-experiments-with-new-ai-features-tailored-audiobook-recommendations/)
+- [Meta acquires the Threads.com domain name](https://techcrunch.com/2024/09/25/meta-acquires-the-threads-com-domain-name/)
+- [Early sign-ups to EU’s AI Pact include Amazon, Google, Microsoft and OpenAI — but Apple and Meta are missing](https://techcrunch.com/2024/09/25/early-sign-ups-to-eus-ai-pact-include-amazon-google-microsoft-and-openai-but-apple-and-meta-are-missing/)
+- [Final 3 days to score up to $600 in savings on TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/25/final-3-days-to-score-up-to-600-in-savings-on-techcrunch-disrupt-2024-passes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
