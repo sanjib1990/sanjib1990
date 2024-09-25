@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backyard Baseball ’97 is back, with a re-release coming soon on Steam](https://techcrunch.com/2024/09/25/backyard-baseball-97-is-back-with-a-re-release-coming-soon-on-steam/)
+- [Citizen scientists bring intriguing &#39;hot Jupiter&#39; exoplanet into sharp focus](https://www.space.com/wasp-77-ab-exoplanet-citizen-scientists)
 - [Tomasz Tunguz’s Theory Ventures bets $12M on Initia, the ‘iOS for web3’](https://techcrunch.com/2024/09/25/tomasz-tunguzs-theory-ventures-bets-12m-on-initia-the-ios-for-web3/)
 - [Raycast raises $30M to bring its Mac productivity app to Windows and iOS](https://techcrunch.com/2024/09/25/raycast-raises-30m-to-bring-its-mac-productivity-app-to-windows-and-ios/)
 - [AI2’s Molmo shows open source can meet, and beat, closed multimodal models](https://techcrunch.com/2024/09/25/ai2s-molmo-shows-open-source-can-meet-and-beat-closed-multimodal-models/)
-- [Supabase, a Postgres-centric developer platform, raises $80M Series C](https://techcrunch.com/2024/09/25/supabase-a-postgres-centric-developer-platform-raises-80m-series-c/)
-- [Uber will soon offer WeRide robotaxis in Abu Dhabi](https://techcrunch.com/2024/09/25/uber-will-soon-offer-weride-robotaxis-in-abu-dhabi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
