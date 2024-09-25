@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan launching spy satellite on penultimate mission of H-2A rocket early Sept. 26](https://www.space.com/japan-igs-radar-8-spy-satellite-launch)
+- [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/)
+- [Sam Altman reportedly poised to get equity in OpenAI for the first time](https://techcrunch.com/2024/09/25/sam-altman-reportedly-poised-to-get-equity-in-openai-for-the-first-time/)
 - [Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video, and more](https://techcrunch.com/2024/09/25/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/)
 - [Canon PowerShot Zoom digital monocular review](https://www.space.com/canon-powershot-zoom-digital-monocular-review)
-- [Zuckerberg chats with AI clone as human creator looks on in year’s weirdest demo](https://techcrunch.com/2024/09/25/zuckerberg-chats-with-ai-clone-as-human-creator-looks-on-in-years-weirdest-demo/)
-- [Weird striped rock &#39;unlike any seen on Mars&#39; found by Perseverance rover.  Here&#39;s why NASA&#39;s excited](https://www.space.com/mars-perseverance-rover-weird-stripy-rock)
-- [Blue Origin fires up 2nd stage of huge New Glenn rocket ahead of debut launch &lpar;video&rpar;](https://www.space.com/blue-origin-new-glenn-upper-stage-hotfire-test-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
