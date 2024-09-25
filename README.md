@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla hit with privacy complaint in EU over Firefox tracking tech](https://techcrunch.com/2024/09/25/mozilla-hit-with-privacy-complaint-in-eu-over-firefox-tracking-tech/)
+- [James Webb Space Telescope finds &#39;puffball&#39; exoplanet is uniquely lopsided](https://www.space.com/exoplanet-inflated-asymmetry-james-webb-space-telescope)
+- [Radian Aerospace completes ground tests of prototype space plane](https://techcrunch.com/2024/09/25/radian-aerospace-completes-ground-taxi-tests-of-prototype-space-plane/)
+- [WhatFix raises a whopping $125M for its in-app user guides](https://techcrunch.com/2024/09/25/whatfix-raises-125m-to-provide-in-app-guides-to-users/)
 - [Google’s revised ad targeting plan triggers fresh competition concerns in UK](https://techcrunch.com/2024/09/25/googles-revised-ad-targeting-plan-triggers-fresh-competition-concerns-in-uk/)
-- [Orzorz Galaxy Lite star projector review](https://www.space.com/orzorz-galaxy-lite-star-projector-review)
-- [1 week until annular solar eclipse turns the sun into a dramatic &#39;ring of fire&#39;](https://www.space.com/one-week-to-go-annular-solar-eclipse-2024)
-- [Reddit is bringing AI-powered, automatic translation to dozens of new countries](https://techcrunch.com/2024/09/25/reddit-is-bringing-ai-powered-automatic-translation-to-dozens-of-new-countries/)
-- [Automattic sends WP Engine its own cease-and-desist over WordPress trademark infringement](https://techcrunch.com/2024/09/25/legal-ping-pong-in-the-wordpress-world-continues-automattic-now-sends-wp-engine-a-cease-and-desist-letter-alleging-trademark-infringement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
