@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s chief research officer has left](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/)
+- [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/)
+- [Radar images capture snowman-shaped object tumbling past Earth](https://www.space.com/radar-images-snowman-asteroid-passes-by-earth)
+- [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/)
 - [Japan launching spy satellite on penultimate mission of H-2A rocket early Sept. 26](https://www.space.com/japan-igs-radar-8-spy-satellite-launch)
-- [13 companies from YC Demo Day 1 that are worth paying attention to](https://techcrunch.com/2024/09/25/13-companies-from-yc-demo-day-1-that-are-worth-paying-attention-to/)
-- [Sam Altman reportedly poised to get equity in OpenAI for the first time](https://techcrunch.com/2024/09/25/sam-altman-reportedly-poised-to-get-equity-in-openai-for-the-first-time/)
-- [Meta Connect 2024: Orion glasses, Quest 3S headset, Meta AI upgrades, Ray-Ban Meta real-time video, and more](https://techcrunch.com/2024/09/25/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/)
-- [Canon PowerShot Zoom digital monocular review](https://www.space.com/canon-powershot-zoom-digital-monocular-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
