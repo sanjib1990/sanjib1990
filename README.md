@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Tor Project merges with Tails, a Linux-based portable OS focused on privacy](https://techcrunch.com/2024/09/26/the-tor-project-merges-with-tails-a-linux-based-portable-os-focused-on-privacy/)
+- [Why I&#39;m going to Easter Island for the &#39;ring of fire&#39; annular solar eclipse](https://www.space.com/why-i-am-going-to-easter-island-for-ring-of-fire-annular-solar-eclipse-2024)
+- [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/)
 - [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/)
 - [SpaceX Crew-9 dropped 2 NASA astronauts from ISS mission, but they were prepared &lpar;video&rpar;](https://www.space.com/nasa-crew-9-ready-for-launch-spacex-falcon-9-failure)
-- [Earth will capture &#39;second moon&#39; this weekend](https://www.space.com/earth-will-capture-second-moon-sept-2024)
-- [Peak XV has reaped $1.2B in the year since it split from Sequoia](https://techcrunch.com/2024/09/25/peak-xv-has-reaped-1-2b-in-the-year-since-it-split-from-sequoia/)
-- [WordPress.org bans WP Engine, blocks it from accessing its resources](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
