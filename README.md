@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The W boson caused a particle mystery — but scientists have cracked the case](https://www.space.com/w-boson-mass-large-hadron-collider-solved)
+- [After is a new dating app that tries to tackle ghosting](https://techcrunch.com/2024/09/26/after-is-a-new-dating-app-that-tries-to-tackle-ghosting/)
 - [The Tor Project merges with Tails, a Linux-based portable OS focused on privacy](https://techcrunch.com/2024/09/26/the-tor-project-merges-with-tails-a-linux-based-portable-os-focused-on-privacy/)
 - [Why I&#39;m going to Easter Island for the &#39;ring of fire&#39; annular solar eclipse](https://www.space.com/why-i-am-going-to-easter-island-for-ring-of-fire-annular-solar-eclipse-2024)
 - [Prepared, which wants to ‘revolutionize’ emergency 911 calls, raises $27M](https://techcrunch.com/2024/09/26/prepared-which-lets-911-dispatchers-text-and-video-chat-with-callers-raises-27m/)
-- [As war rages in Ukraine, investment in European defense and dual-use tech skyrockets](https://techcrunch.com/2024/09/26/as-war-rages-in-ukraine-investment-in-european-defense-and-dual-use-tech-skyrockets/)
-- [SpaceX Crew-9 dropped 2 NASA astronauts from ISS mission, but they were prepared &lpar;video&rpar;](https://www.space.com/nasa-crew-9-ready-for-launch-spacex-falcon-9-failure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
