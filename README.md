@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/)
 - [OpenAI’s chief research officer has left following CTO Mira Murati’s exit](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/)
 - [Dinii, a cloud-based restaurant management platform, raises $45M Series B](https://techcrunch.com/2024/09/25/dinii-a-cloud-based-restaurant-management-platform-raises-45m-series-b/)
 - [Radar images capture snowman-shaped object tumbling past Earth](https://www.space.com/radar-images-snowman-asteroid-passes-by-earth)
 - [Pear wants to empower up-and-coming VCs with its new emerging managers in residence program](https://techcrunch.com/2024/09/25/pear-wants-to-empower-up-and-coming-vcs-with-its-new-emerging-managers-in-residence-program/)
-- [Japan launching spy satellite on penultimate mission of H-2A rocket early Sept. 26](https://www.space.com/japan-igs-radar-8-spy-satellite-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
