@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber snags another robotaxi deal, aviation startups land VC bucks, and where Rivian Foundation money is going](https://techcrunch.com/2024/09/26/uber-snags-another-robotaxi-deal-aviation-startups-land-vc-bucks-and-where-rivian-foundation-money-is-going/)
+- [Exoplanet orbiting dead star offers possible glimpse into Earth&#39;s future](https://www.space.com/sun-earth-future-exoplanet-dead-star)
 - [&#39;That&#39;s weird&#39;: James Webb Space Telescope spies a strange galaxy outshining its stars](https://www.space.com/james-webb-space-telescope-weird-galaxy-brighter-than-its-own-stars)
-- [Satellites images show Hurricane Helene gaining strength before Florida landfall &lpar;video&rpar;](https://www.space.com/hurricane-helene-satellite-footage-florida)
+- [Satellite images show Hurricane Helene gaining strength before Florida landfall &lpar;video&rpar;](https://www.space.com/hurricane-helene-satellite-footage-florida)
 - [Kaspersky defends force-replacing its security software without users’ explicit consent](https://techcrunch.com/2024/09/26/kaspersky-defends-automatically-force-replacing-its-software-without-users-explicit-consent/)
-- [Watch Hurricane Helene from space in this NASA view from ISS &lpar;video&rpar;](https://www.space.com/hurricane-helene-video-from-space-station-nasa-livestream)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/26/wordpress-vs-wp-engine-drama-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
