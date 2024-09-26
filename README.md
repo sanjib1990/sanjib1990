@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, South Korea plan mission to unexplored region of deep space](https://www.space.com/nasa-south-korea-lagrange-point-4-mission)
+- [Announcing the final agenda for the AI Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/26/announcing-the-final-agenda-for-the-ai-stage-at-techcrunch-disrupt-2024/)
+- [India’s Star Health says it’s investigating after hacker posts stolen medical data](https://techcrunch.com/2024/09/26/indias-star-health-says-its-investigating-after-hacker-posts-stolen-medical-data/)
+- [2 days left to save up to $600 on TechCrunch Disrupt 2024 tickets](https://techcrunch.com/2024/09/26/2-days-left-to-save-up-to-600-on-techcrunch-disrupt-2024-tickets/)
 - [NASA restarts art program with New York murals aimed at Artemis Generation](https://www.space.com/to-the-moon-and-back-murals-nasa-art-program)
-- [The W boson caused a particle mystery — but scientists have cracked the case](https://www.space.com/w-boson-mass-large-hadron-collider-solved)
-- [After is a new dating app that tries to tackle ghosting](https://techcrunch.com/2024/09/26/after-is-a-new-dating-app-that-tries-to-tackle-ghosting/)
-- [The Tor Project merges with Tails, a Linux-based portable OS focused on privacy](https://techcrunch.com/2024/09/26/the-tor-project-merges-with-tails-a-linux-based-portable-os-focused-on-privacy/)
-- [Why I&#39;m going to Easter Island for the &#39;ring of fire&#39; annular solar eclipse](https://www.space.com/why-i-am-going-to-easter-island-for-ring-of-fire-annular-solar-eclipse-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
