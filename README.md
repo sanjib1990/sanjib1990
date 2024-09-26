@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Crew-9 dropped 2 NASA astronauts from ISS mission, but they were prepared &lpar;video&rpar;](https://www.space.com/nasa-crew-9-ready-for-launch-spacex-falcon-9-failure)
 - [Earth will capture &#39;second moon&#39; this weekend](https://www.space.com/earth-will-capture-second-moon-sept-2024)
 - [Peak XV has reaped $1.2B in the year since it split from Sequoia](https://techcrunch.com/2024/09/25/peak-xv-has-reaped-1-2b-in-the-year-since-it-split-from-sequoia/)
 - [WordPress.org bans WP Engine, blocks it from accessing its resources](https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/)
 - [Marvel Fusion lands $70M for laser-powered fusion bet](https://techcrunch.com/2024/09/25/marvel-fusion-lands-70m-for-laser-powered-fusion-bet/)
-- [OpenAI’s chief research officer has left following CTO Mira Murati’s exit](https://techcrunch.com/2024/09/25/openais-chief-research-officer-has-left/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
