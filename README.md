@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zap Energy investors in recent $130M round included Soros Fund and Laurene Powell Jobs’ Emerson Collective](https://techcrunch.com/2024/09/26/zap-energy-investors-in-recent-130m-round-included-soros-fund-and-laurene-powell-jobs-emerson-collective/)
 - [Uber snags another robotaxi deal, aviation startups land VC bucks, and where Rivian Foundation money is going](https://techcrunch.com/2024/09/26/uber-snags-another-robotaxi-deal-aviation-startups-land-vc-bucks-and-where-rivian-foundation-money-is-going/)
 - [Exoplanet orbiting dead star offers possible glimpse into Earth&#39;s future](https://www.space.com/sun-earth-future-exoplanet-dead-star)
 - [&#39;That&#39;s weird&#39;: James Webb Space Telescope spies a strange galaxy outshining its stars](https://www.space.com/james-webb-space-telescope-weird-galaxy-brighter-than-its-own-stars)
 - [Satellite images show Hurricane Helene gaining strength before Florida landfall &lpar;video&rpar;](https://www.space.com/hurricane-helene-satellite-footage-florida)
-- [Kaspersky defends force-replacing its security software without users’ explicit consent](https://techcrunch.com/2024/09/26/kaspersky-defends-automatically-force-replacing-its-software-without-users-explicit-consent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
