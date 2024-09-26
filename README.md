@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2024/09/26/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
-- [BMW says we need both battery and hydrogen EVs for a zero-emissions future](https://techcrunch.com/2024/09/26/bmw-says-we-need-both-battery-and-hydrogen-evs-for-a-zero-emissions-future/)
-- [New type of Kevlar heading to ISS in October for space debris protection tests](https://www.space.com/space-debris-protection-material-kevlar-exo-iss-test)
-- [EVA, an entertainment booking platform for events, raises $2M as it expands to more cities](https://techcrunch.com/2024/09/26/eva-entertainment-booking-platform-raises-2m-expands-to-more-cities/)
-- [Google’s NotebookLM enhances AI note-taking with YouTube, audio file sources, sharable audio discussions](https://techcrunch.com/2024/09/26/googles-notebooklm-enhances-ai-note-taking-with-youtube-audio-file-sources-sharable-audio-discussions/)
+- [&#39;That&#39;s weird&#39;: James Webb Space Telescope spies a strange galaxy outshining its stars](https://www.space.com/james-webb-space-telescope-weird-galaxy-brighter-than-its-own-stars)
+- [Satellites images show Hurricane Helene gaining strength before Florida landfall &lpar;video&rpar;](https://www.space.com/hurricane-helene-satellite-footage-florida)
+- [Kaspersky defends force-replacing its security software without users’ explicit consent](https://techcrunch.com/2024/09/26/kaspersky-defends-automatically-force-replacing-its-software-without-users-explicit-consent/)
+- [Watch Hurricane Helene from space in this NASA view from ISS &lpar;video&rpar;](https://www.space.com/hurricane-helene-video-from-space-station-nasa-livestream)
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/26/wordpress-vs-wp-engine-drama-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
