@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s VP of global affairs claims o1 is ‘virtually perfect’ at correcting bias, but the data doesn’t quite back that up](https://techcrunch.com/2024/09/26/openais-vp-of-global-affairs-claims-o1-is-virtually-perfect-at-correcting-bias-but-the-data-doesnt-quite-back-that-up/)
+- [How to watch SpaceX&#39;s Crew-9 astronaut launch for NASA on Sept. 28](https://www.space.com/spacex-crew-9-astronaut-launch-watch-live)
+- [Former Brex COO who now heads unicorn fintech Figure says GPT is already upending the mortgage industry](https://techcrunch.com/2024/09/26/former-brex-coo-who-now-heads-unicorn-fintech-figure-says-gpt-is-already-upending-the-mortgage-industry/)
 - [Security compliance unicorn Drata lays off 9% of its workforce](https://techcrunch.com/2024/09/26/security-compliance-unicorn-drata-lays-off-9-of-its-workforce/)
-- [Nomi’s emotionally intelligent chatbots will now remember things like the colleague you don’t get along with](https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/)
-- [Zap Energy investors in recent $130M round included Soros Fund and Laurene Powell Jobs’ Emerson Collective](https://techcrunch.com/2024/09/26/zap-energy-investors-in-recent-130m-round-included-soros-fund-and-laurene-powell-jobs-emerson-collective/)
-- [Uber snags another robotaxi deal, aviation startups land VC bucks, and where Rivian Foundation money is going](https://techcrunch.com/2024/09/26/uber-snags-another-robotaxi-deal-aviation-startups-land-vc-bucks-and-where-rivian-foundation-money-is-going/)
-- [This exoplanet circling a dead star may mirror Earth&#39;s fate — if our planet survives a dying sun, that is](https://www.space.com/sun-earth-future-exoplanet-dead-star)
+- [Nomi’s companion chatbots will now remember things like the colleague you don’t get along with](https://techcrunch.com/2024/09/26/nomi-ai-wants-to-make-the-most-emotionally-intelligent-chatbots-on-the-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
