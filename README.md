@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/)
+- [China&#39;s CAS Space launches 5 satellites with its 4th rocket &lpar;video&rpar;](https://www.space.com/china-cas-space-fourth-rocket-launch-video)
 - [Comet Tsuchinshan-ATLAS may dazzle this weekend. But is the best yet to come?](https://www.space.com/comet-tsuchinshan-atlas-brightening-perihelion-how-to-see)
 - [US government charges three Iranian hackers with Trump campaign hack](https://techcrunch.com/2024/09/27/u-s-government-charges-three-iranian-hackers-with-trump-campaign-hack/)
 - [New &#39;Starfield: Shattered Space&#39; DLC explores House Va&#39;ruun homeworld &lpar;video&rpar;](https://www.space.com/starfield-shattered-space-dlc-explores-house-varuun-homeworld)
-- [Satellites reveal Hurricane Helene&#39;s deadly fury as a monster Category 4 storm during landfall &lpar;videos&rpar;](https://www.space.com/hurricane-helene-category-4-storm-satellite-videos)
-- [&#39;Alien: Romulus:&#39; How VFX Supervisor Shane Mahan hatched a new nest of xenomorphs &lpar;exclusive&rpar;](https://www.space.com/alien-romulus-vfx-supervisor-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
