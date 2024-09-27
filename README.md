@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Ideas submissions Lunar Landscape, Space Projection Telescope and Voyager 1&#39;s Pale Blue Dot need to be made into real sets](https://www.space.com/lego-ideas-space-sets-lunar-landscape-telescope-pale-blue-dot)
 - [Chinese rocket launches 8 satellites to orbit from ship at sea &lpar;video, photos&rpar;](https://www.space.com/china-smart-dragon-3-sea-launch-september-2024)
 - [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/)
 - [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/)
 - [China&#39;s CAS Space launches 5 satellites with its 4th rocket &lpar;video&rpar;](https://www.space.com/china-cas-space-fourth-rocket-launch-video)
-- [Comet Tsuchinshan-ATLAS may dazzle this weekend. But is the best yet to come?](https://www.space.com/comet-tsuchinshan-atlas-brightening-perihelion-how-to-see)
 <!-- BLOG-POST-LIST:END -->
 
 ---
