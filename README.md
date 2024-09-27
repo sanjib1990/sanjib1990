@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Alien: Romulus:&#39; How VFX Supervisor Shane Mahan hatched a new nest of xenomorphs &lpar;exclusive&rpar;](https://www.space.com/alien-romulus-vfx-supervisor-interview)
+- [Wordy’s new app helps you learn vocabulary while watching movies and TV shows](https://techcrunch.com/2024/09/27/wordy-new-app-helps-you-learn-vocab-while-watching-movies-tv-shows/)
+- [OpenAI’s $6.5B funding round may close as soon as next week](https://techcrunch.com/2024/09/27/openais-6-5b-funding-round-may-close-as-soon-as-next-week/)
+- [SpaceX Crew-9 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
 - [Hubble Space Telescope spies a spiral galaxy in a cosmic &#39;clock&#39;](https://www.space.com/spiral-galaxy-cosmic-clock-hubble-image)
-- [Bret Taylor of Sierra joins TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/27/bret-taylor-of-sierra-joins-techcrunch-disrupt-2024/)
-- [Amazon dodges antitrust scrutiny in UK over Anthropic investment](https://techcrunch.com/2024/09/27/amazon-dodges-antitrust-scrutiny-in-uk-over-anthropic-investment/)
-- [Last hours to snag up to $600 off TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/27/last-hours-to-snag-up-to-600-off-techcrunch-disrupt-2024-passes/)
-- [Ruko F11 Mini drone review](https://www.space.com/ruko-f11-mini-drone-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
