@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese rocket launches 8 satellites to orbit from ship at sea &lpar;video, photos&rpar;](https://www.space.com/china-smart-dragon-3-sea-launch-september-2024)
+- [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/)
 - [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/)
 - [China&#39;s CAS Space launches 5 satellites with its 4th rocket &lpar;video&rpar;](https://www.space.com/china-cas-space-fourth-rocket-launch-video)
 - [Comet Tsuchinshan-ATLAS may dazzle this weekend. But is the best yet to come?](https://www.space.com/comet-tsuchinshan-atlas-brightening-perihelion-how-to-see)
-- [US government charges three Iranian hackers with Trump campaign hack](https://techcrunch.com/2024/09/27/u-s-government-charges-three-iranian-hackers-with-trump-campaign-hack/)
-- [New &#39;Starfield: Shattered Space&#39; DLC explores House Va&#39;ruun homeworld &lpar;video&rpar;](https://www.space.com/starfield-shattered-space-dlc-explores-house-varuun-homeworld)
 <!-- BLOG-POST-LIST:END -->
 
 ---
