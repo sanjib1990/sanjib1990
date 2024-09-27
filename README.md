@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Space Telescope spies a spiral galaxy in a cosmic &#39;clock&#39;](https://www.space.com/spiral-galaxy-cosmic-clock-hubble-image)
+- [Bret Taylor of Sierra joins TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/27/bret-taylor-of-sierra-joins-techcrunch-disrupt-2024/)
+- [Amazon dodges antitrust scrutiny in UK over Anthropic investment](https://techcrunch.com/2024/09/27/amazon-dodges-antitrust-scrutiny-in-uk-over-anthropic-investment/)
+- [Last hours to snag up to $600 off TechCrunch Disrupt 2024 passes](https://techcrunch.com/2024/09/27/last-hours-to-snag-up-to-600-off-techcrunch-disrupt-2024-passes/)
 - [Ruko F11 Mini drone review](https://www.space.com/ruko-f11-mini-drone-review)
-- [Record-breaking Milky Way map showcases 1.5 billion objects: &#39;We have changed the view of our galaxy forever&#39;](https://www.space.com/milky-way-detailed-map-vista-survey)
-- [Meta fined $101.5M for 2019 breach that exposed hundreds of millions of Facebook passwords](https://techcrunch.com/2024/09/27/meta-fined-101-5m-for-2019-breach-that-exposed-hundreds-of-millions-of-facebook-passwords/)
-- [UK data watchdog confirms it’s investigating MoneyGram data breach](https://techcrunch.com/2024/09/27/uk-data-watchdog-confirms-investigating-moneygram-data-breach/)
-- [Hubble Space Telescope suggests our ancient universe was surprisingly crowded with supermassive black holes](https://www.space.com/space-exploration/hubble-space-telescope/the-early-universe-could-be-teeming-with-supermassive-black-holes-born-from-giant-stars-hubble-finds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
