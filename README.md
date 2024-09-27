@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK data watchdog confirms it’s investigating MoneyGram data breach](https://techcrunch.com/2024/09/27/uk-data-watchdog-confirms-investigating-moneygram-data-breach/)
+- [Hubble Space Telescope suggests our ancient universe was surprisingly crowded with supermassive black holes](https://www.space.com/space-exploration/hubble-space-telescope/the-early-universe-could-be-teeming-with-supermassive-black-holes-born-from-giant-stars-hubble-finds)
 - [Napkin is a note-taking app that is not about making you more productive](https://techcrunch.com/2024/09/27/napkin-is-a-note-taking-app-that-is-not-about-making-you-more-productive/)
 - [Europe will launch a satellite in 2027 just to watch it burn](https://www.space.com/european-space-agency-draco-suicide-satellite-2027)
 - [9 startups that stood out on YC Demo Day 2](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/)
-- [Indian game streaming startup Loco sells majority stake to Redwood](https://techcrunch.com/2024/09/26/indian-game-streaming-startup-loco-sells-majority-stake-to-redwood/)
-- [Starlink hits 4 million subscribers](https://techcrunch.com/2024/09/26/starlink-will-hit-4-million-subscribers-this-week-spacex-president-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
