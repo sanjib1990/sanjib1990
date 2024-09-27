@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comet Tsuchinshan-ATLAS may dazzle this weekend. But is the best yet to come?](https://www.space.com/comet-tsuchinshan-atlas-brightening-perihelion-how-to-see)
+- [US government charges three Iranian hackers with Trump campaign hack](https://techcrunch.com/2024/09/27/u-s-government-charges-three-iranian-hackers-with-trump-campaign-hack/)
 - [New &#39;Starfield: Shattered Space&#39; DLC explores House Va&#39;ruun homeworld &lpar;video&rpar;](https://www.space.com/starfield-shattered-space-dlc-explores-house-varuun-homeworld)
 - [Satellites reveal Hurricane Helene&#39;s deadly fury as a monster Category 4 storm during landfall &lpar;videos&rpar;](https://www.space.com/hurricane-helene-category-4-storm-satellite-videos)
 - [&#39;Alien: Romulus:&#39; How VFX Supervisor Shane Mahan hatched a new nest of xenomorphs &lpar;exclusive&rpar;](https://www.space.com/alien-romulus-vfx-supervisor-interview)
-- [Wordy’s new app helps you learn vocabulary while watching movies and TV shows](https://techcrunch.com/2024/09/27/wordy-new-app-helps-you-learn-vocab-while-watching-movies-tv-shows/)
-- [OpenAI’s $6.5B funding round may close as soon as next week](https://techcrunch.com/2024/09/27/openais-6-5b-funding-round-may-close-as-soon-as-next-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
