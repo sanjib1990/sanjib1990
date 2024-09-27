@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Binance founder ‘CZ’ released from custody after four-month sentence](https://techcrunch.com/2024/09/27/binance-founder-cz-released-from-custody-after-four-month-sentence/)
 - [Watch spectacular Comet Tsuchinshan-ATLAS rise during the early hours of Sept. 28 with this free livestream](https://www.space.com/watch-comet-c-2023-a3-tsuchinshan-atlas-rise-predawn-livestream)
 - [Lego Ideas submissions Lunar Landscape, Space Projection Telescope and Voyager 1&#39;s Pale Blue Dot need to be made into real sets](https://www.space.com/lego-ideas-space-sets-lunar-landscape-telescope-pale-blue-dot)
 - [Chinese rocket launches 8 satellites to orbit from ship at sea &lpar;video, photos&rpar;](https://www.space.com/china-smart-dragon-3-sea-launch-september-2024)
 - [Canoo hit with two supplier lawsuits as last remaining co-founder leaves](https://techcrunch.com/2024/09/27/canoo-hit-with-two-supplier-lawsuits-as-last-remaining-co-founder-leaves/)
-- [AI dominated both YC Demo Day and startup news](https://techcrunch.com/2024/09/27/ai-dominated-both-yc-demo-day-and-startup-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
