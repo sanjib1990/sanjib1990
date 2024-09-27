@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Napkin is a note-taking app that is not about making you more productive](https://techcrunch.com/2024/09/27/napkin-is-a-note-taking-app-that-is-not-about-making-you-more-productive/)
 - [Europe will launch a satellite in 2027 just to watch it burn](https://www.space.com/european-space-agency-draco-suicide-satellite-2027)
 - [9 startups that stood out on YC Demo Day 2](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/)
 - [Indian game streaming startup Loco sells majority stake to Redwood](https://techcrunch.com/2024/09/26/indian-game-streaming-startup-loco-sells-majority-stake-to-redwood/)
 - [Starlink hits 4 million subscribers](https://techcrunch.com/2024/09/26/starlink-will-hit-4-million-subscribers-this-week-spacex-president-says/)
-- [Runway earmarks $5M to fund up to 100 films using AI-generated video](https://techcrunch.com/2024/09/26/runway-earmarks-5m-to-fund-up-to-100-films-using-ai-generated-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
