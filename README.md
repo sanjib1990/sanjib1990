@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian game streaming startup Loco sells majority stake to Redwood](https://techcrunch.com/2024/09/26/indian-game-streaming-startup-loco-sells-majority-stake-to-redwood/)
 - [Starlink hits 4 million subscribers](https://techcrunch.com/2024/09/26/starlink-will-hit-4-million-subscribers-this-week-spacex-president-says/)
 - [Runway earmarks $5M to fund up to 100 films using AI-generated video](https://techcrunch.com/2024/09/26/runway-earmarks-5m-to-fund-up-to-100-films-using-ai-generated-video/)
 - [OpenAI’s VP of global affairs claims o1 is ‘virtually perfect’ at correcting bias, but the data doesn’t quite back that up](https://techcrunch.com/2024/09/26/openais-vp-of-global-affairs-claims-o1-is-virtually-perfect-at-correcting-bias-but-the-data-doesnt-quite-back-that-up/)
 - [How to watch SpaceX&#39;s Crew-9 astronaut launch for NASA on Sept. 28](https://www.space.com/spacex-crew-9-astronaut-launch-watch-live)
-- [Former Brex COO who now heads unicorn fintech Figure says GPT is already upending the mortgage industry](https://techcrunch.com/2024/09/26/former-brex-coo-who-now-heads-unicorn-fintech-figure-says-gpt-is-already-upending-the-mortgage-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
