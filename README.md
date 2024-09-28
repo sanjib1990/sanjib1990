@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches Crew-9 astronauts from upgraded Florida pad to return Boeing Starliner crew home](https://www.space.com/spacex-crew-9-astronaut-launch-success)
+- [Judge is unimpressed by Apple’s deadline extension request in Epic Games dispute](https://techcrunch.com/2024/09/28/judge-is-unimpressed-by-apples-deadline-extension-request-in-epic-games-dispute/)
 - [Meta offers a glimpse through its supposed iPhone killer: Orion](https://techcrunch.com/2024/09/28/meta-offers-a-glimpse-through-its-supposed-iphone-killer-orion/)
 - [VCs expect a surge in startups offering lower rate mortgages, other loans now that the Feds cut rates](https://techcrunch.com/2024/09/28/vcs-expect-a-surge-in-startups-offering-lower-rate-mortgages-other-loans-now-that-the-fed-cut-rates/)
 - [Robot hand can detach from arm, crawl over to objects, and pick them up](https://techcrunch.com/2024/09/28/robot-hand-can-detach-from-arm-crawl-over-to-objects-and-pick-them-up/)
-- [This Week In Space podcast: Episode 130 —Dogs on Mars, Snakes on the Moon](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-130-dogs-mars-snakes-moon)
-- [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2024/09/28/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
