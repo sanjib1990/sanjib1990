@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did dark matter help black holes grow to monster sizes in the infant cosmos?](https://www.space.com/supermassive-black-holes-dark-matter-decay)
+- [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/)
 - [Watch SpaceX launch Crew-9 astronaut mission to the ISS today](https://www.space.com/spacex-crew-9-launch-preview)
 - [A Russian warlord said he’ll take Cybertrucks into Ukraine; some experts think that’s unwise](https://techcrunch.com/2024/09/27/a-russian-warlord-said-hes-taking-cybertrucks-into-ukraine-some-experts-think-thats-unwise/)
 - [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/27/wordpress-vs-wp-engine-drama-explained/)
-- [SpaceX, NASA &#39;go&#39; for 1st astronaut launch to ISS from Cape Canaveral Space Force Station pad](https://www.space.com/spacex-nasa-go-crew-9-astronaut-launch-florida-pad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
