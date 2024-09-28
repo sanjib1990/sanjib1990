@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2024/09/28/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/)
 - [Did dark matter help black holes grow to monster sizes in the infant cosmos?](https://www.space.com/supermassive-black-holes-dark-matter-decay)
 - [Why Index Ventures is bulking up its investment team in NYC](https://techcrunch.com/2024/09/28/why-index-ventures-is-bulking-up-its-investment-team-in-nyc/)
 - [Watch SpaceX launch Crew-9 astronaut mission to the ISS today](https://www.space.com/spacex-crew-9-launch-preview)
 - [A Russian warlord said he’ll take Cybertrucks into Ukraine; some experts think that’s unwise](https://techcrunch.com/2024/09/27/a-russian-warlord-said-hes-taking-cybertrucks-into-ukraine-some-experts-think-thats-unwise/)
-- [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
