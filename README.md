@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Russian warlord said he’s taking Cybertrucks into Ukraine; some experts think that’s unwise](https://techcrunch.com/2024/09/27/a-russian-warlord-said-hes-taking-cybertrucks-into-ukraine-some-experts-think-thats-unwise/)
+- [A Russian warlord said he’ll take Cybertrucks into Ukraine; some experts think that’s unwise](https://techcrunch.com/2024/09/27/a-russian-warlord-said-hes-taking-cybertrucks-into-ukraine-some-experts-think-thats-unwise/)
 - [WordPress.org temporarily lifts its ban on WP Engine](https://techcrunch.com/2024/09/27/wordpress-org-temporarily-lifts-its-ban-on-wp-engine/)
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/27/wordpress-vs-wp-engine-drama-explained/)
 - [SpaceX, NASA &#39;go&#39; for 1st astronaut launch to ISS from Cape Canaveral Space Force Station pad](https://www.space.com/spacex-nasa-go-crew-9-astronaut-launch-florida-pad)
