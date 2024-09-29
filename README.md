@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/)
 - [How fast will the annular solar eclipse on Oct. 2 travel?](https://www.space.com/how-fast-will-the-annular-solar-eclipse-october-2-travel)
-- [Elastic founder on why they returned to open source 4 years after going proprietary](https://techcrunch.com/2024/09/29/elastic-founder-on-why-they-returned-to-open-source-four-years-after-going-proprietary/)
+- [Elastic founder on returning to open source four years after going proprietary](https://techcrunch.com/2024/09/29/elastic-founder-on-why-they-returned-to-open-source-four-years-after-going-proprietary/)
 - [Lucky ticket to space: How a Tennessee cardiologist made it to the final frontier](https://www.space.com/blue-origin-eiman-jahangir-suborbital-flight-moondao)
 - [How I Podcast: Hyperfixed’s Alex Goldman](https://techcrunch.com/2024/09/29/how-i-podcast-hyperfixeds-alex-goldman/)
-- [Watch SpaceX&#39;s Crew-9 astronaut mission arrive at the ISS today](https://www.space.com/spacex-crew-9-astronaut-mission-iss-docking)
 <!-- BLOG-POST-LIST:END -->
 
 ---
