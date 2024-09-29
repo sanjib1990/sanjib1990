@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gov. Newsom vetoes California’s controversial AI bill, SB 1047](https://techcrunch.com/2024/09/29/gov-newsom-vetoes-californias-controversial-ai-bill-sb-1047/)
 - [YouTube blocks videos from Adele, Green Day, Bob Dylan, others in dispute with SESAC](https://techcrunch.com/2024/09/29/youtube-blocks-videos-from-adele-green-day-bob-dylan-others-in-dispute-with-sesac/)
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/)
 - [How fast will the annular solar eclipse on Oct. 2 travel?](https://www.space.com/how-fast-will-the-annular-solar-eclipse-october-2-travel)
 - [Elastic founder on returning to open source four years after going proprietary](https://techcrunch.com/2024/09/29/elastic-founder-on-why-they-returned-to-open-source-four-years-after-going-proprietary/)
-- [Lucky ticket to space: How a Tennessee cardiologist made it to the final frontier](https://www.space.com/blue-origin-eiman-jahangir-suborbital-flight-moondao)
 <!-- BLOG-POST-LIST:END -->
 
 ---
