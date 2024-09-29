@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How fast will the annular solar eclipse on Oct. 2 travel?](https://www.space.com/how-fast-will-the-annular-solar-eclipse-october-2-travel)
+- [Elastic founder on why they returned to open source 4 years after going proprietary](https://techcrunch.com/2024/09/29/elastic-founder-on-why-they-returned-to-open-source-four-years-after-going-proprietary/)
 - [Lucky ticket to space: How a Tennessee cardiologist made it to the final frontier](https://www.space.com/blue-origin-eiman-jahangir-suborbital-flight-moondao)
 - [How I Podcast: Hyperfixed’s Alex Goldman](https://techcrunch.com/2024/09/29/how-i-podcast-hyperfixeds-alex-goldman/)
 - [Watch SpaceX&#39;s Crew-9 astronaut mission arrive at the ISS today](https://www.space.com/spacex-crew-9-astronaut-mission-iss-docking)
-- [Google Pixel 9 Pro Fold: Bigger, mostly better](https://techcrunch.com/2024/09/29/google-pixel-9-pro-fold-bigger-mostly-better/)
-- [In war-torn Sudan, a displaced startup incubator returns to fuel innovation](https://techcrunch.com/2024/09/29/savannah-returns-to-fuel-innovation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
