@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s Crew-9 astronaut mission arrive at the ISS today](https://www.space.com/spacex-crew-9-astronaut-mission-iss-docking)
+- [Google Pixel 9 Pro Fold: Bigger, mostly better](https://techcrunch.com/2024/09/29/google-pixel-9-pro-fold-bigger-mostly-better/)
 - [In war-torn Sudan, a displaced startup incubator returns to fuel innovation](https://techcrunch.com/2024/09/29/savannah-returns-to-fuel-innovation/)
 - [Best Sony cameras in 2024](https://www.space.com/best-sony-cameras)
 - [Astronomers prepare for once-in-a-lifetime event: A &#39;new star&#39; in the night sky](https://www.space.com/astronomers-new-star-nova-explosion-t-coronae-borealis)
-- [SpaceX pausing launches to study Falcon 9 issue on Crew-9 astronaut mission](https://www.space.com/spacex-pause-launches-crew-9-falcon-9-issue)
-- [&#39;Aurora&#39; the baby falcon plush toy takes flight again as SpaceX Crew-9 zero-g indicator](https://www.space.com/spacex-crew-9-zero-g-indicator-aurora-falcon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
