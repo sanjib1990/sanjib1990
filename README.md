@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/)
-- [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/)
-- [Microsoft to face higher competition scrutiny in Germany, including over its use of AI](https://techcrunch.com/2024/09/30/microsoft-to-face-higher-competition-scrutiny-in-germany-including-over-its-use-of-ai/)
-- [NASA&#39;s Chandra X-ray telescope sees streams of gas cross in distant galaxy cluster &lpar;image&rpar;](https://www.space.com/crossing-gas-streams-galaxy-cluster-chandra-image)
-- [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/)
+- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/)
+- [Think you need a VPN? Start here.](https://techcrunch.com/2024/09/30/think-you-need-a-vpn-guide-start-here/)
+- [How to make your own encrypted VPN server in 15 minutes](https://techcrunch.com/2024/09/30/how-to-make-your-own-encrypted-vpn-server-in-15-minutes/)
+- [VPN providers don’t protect your privacy online. Here’s what can.](https://techcrunch.com/2024/09/30/vpn-providers-do-not-protect-your-privacy-online-here-is-what-can/)
+- [Original full-size space shuttle mockup to be restored for Downey display](https://www.space.com/space-shuttle-mockup-inspiration-downey-move-restoration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
