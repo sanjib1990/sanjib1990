@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar eclipse livestream: Watch the annular eclipse online on Oct. 2](https://www.space.com/watch-annular-solar-eclipse-2024-online)
+- [A Waymo robotaxi stalled in front of VP Harris’ motorcade](https://techcrunch.com/2024/09/30/a-waymo-robotaxi-stalled-in-front-of-vp-harris-motorcade/)
 - [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/)
 - [Think you need a VPN? Start here.](https://techcrunch.com/2024/09/30/think-you-need-a-vpn-guide-start-here/)
 - [How to make your own encrypted VPN server in 15 minutes](https://techcrunch.com/2024/09/30/how-to-make-your-own-encrypted-vpn-server-in-15-minutes/)
-- [VPN providers don’t protect your privacy online. Here’s what can.](https://techcrunch.com/2024/09/30/vpn-providers-do-not-protect-your-privacy-online-here-is-what-can/)
-- [Original full-size space shuttle mockup to be restored for Downey display](https://www.space.com/space-shuttle-mockup-inspiration-downey-move-restoration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
