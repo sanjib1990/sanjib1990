@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After delivering astronauts to ISS, SpaceX’s Falcon 9 grounded after 3rd anomaly in 3 months](https://techcrunch.com/2024/09/30/after-delivering-astronauts-to-iss-spacexs-falcon-9-grounded-after-3rd-anomaly-in-3-months/)
+- [What time is the annular solar eclipse on Oct. 2?](https://www.space.com/what-time-annular-solar-eclipse-2024)
+- [iOS 18 Control Center: 18 apps that add useful actions to your iPhone](https://techcrunch.com/2024/09/30/18-apps-that-add-useful-actions-to-the-ios-18-control-center/)
+- [Cruise gets $1.5 million penalty for keeping pedestrian crash details from safety regulator](https://techcrunch.com/2024/09/30/cruise-1-5-million-penalty-omitting-pedestrian-crash-details-regulator/)
 - [Solar eclipse livestream: Watch the annular eclipse online on Oct. 2](https://www.space.com/watch-annular-solar-eclipse-2024-online)
-- [A Waymo robotaxi stalled in front of VP Harris’ motorcade](https://techcrunch.com/2024/09/30/a-waymo-robotaxi-stalled-in-front-of-vp-harris-motorcade/)
-- [Series, a GenAI game development platform, has quietly raised $28M from Netflix, Dell, a16z, others](https://techcrunch.com/2024/09/30/series-the-genai-startup-reinventing-game-development-has-quietly-raised-28m-from-netflix-dell-a16z-others/)
-- [Think you need a VPN? Start here.](https://techcrunch.com/2024/09/30/think-you-need-a-vpn-guide-start-here/)
-- [How to make your own encrypted VPN server in 15 minutes](https://techcrunch.com/2024/09/30/how-to-make-your-own-encrypted-vpn-server-in-15-minutes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
