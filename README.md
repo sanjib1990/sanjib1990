@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s enormous FAST radio telescope is getting even bigger &lpar;video&rpar;](https://www.space.com/china-fast-radio-telescope-24-new-dishes)
+- [Pinnit Android app lets you search through your notification history](https://techcrunch.com/2024/09/30/pinnit-android-app-lets-you-search-through-your-notification-history/)
 - [Raspberry Pi launches camera module for vision-based AI applications](https://techcrunch.com/2024/09/30/raspberry-pi-launches-camera-module-for-vision-based-ai-applications/)
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/29/wordpress-vs-wp-engine-drama-explained/)
 - [Fidelity has cut its estimate of X’s value by 79% since Musk’s purchase](https://techcrunch.com/2024/09/29/fidelity-has-cut-xs-value-by-79-since-musk-purchase/)
-- [Here is what’s illegal under California’s 18 &lpar;and counting&rpar; new AI laws](https://techcrunch.com/2024/09/29/here-is-whats-illegal-under-californias-18-and-counting-new-ai-laws/)
-- [Gov. Newsom vetoes California’s controversial AI bill, SB 1047](https://techcrunch.com/2024/09/29/gov-newsom-vetoes-californias-controversial-ai-bill-sb-1047/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
