@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Heart tissues beat half as strongly on the ISS as they do on Earth](https://www.space.com/heart-cells-iss-space-medicine)
+- [The VC buying up prized real estate in SF says not to ‘listen to agitators’](https://techcrunch.com/2024/09/30/the-vc-buying-up-prized-real-estate-in-sf-says-not-to-listen-to-agitators/)
 - [Van Gogh&#39;s &#39;Starry Night&#39; surprisingly adheres to the laws of physics, scientists find](https://www.space.com/van-gogh-starry-night-physics-accuracy)
 - [Snapchat’s new Footsteps feature tracks your location history](https://techcrunch.com/2024/09/30/snapchats-new-footsteps-feature-tracks-your-location-history/)
 - [ULA rolls Vulcan Centaur rocket to pad ahead of 2nd-ever launch &lpar;photos&rpar;](https://www.space.com/ula-vulcan-centaur-rocket-rollout-second-launch-photos)
-- [Find your way across countless young stars in this image of a faraway stellar nursery &lpar;image&rpar;](https://www.space.com/countless-young-stars-faraway-stellar-nursery)
-- [After delivering astronauts to ISS, SpaceX’s Falcon 9 grounded after third anomaly in three months](https://techcrunch.com/2024/09/30/after-delivering-astronauts-to-iss-spacexs-falcon-9-grounded-after-third-anomaly-in-three-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
