@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Last chance to become a volunteer at TechCrunch Disrupt 2024](https://techcrunch.com/2024/09/30/last-chance-to-become-a-volunteer-at-techcrunch-disrupt-2024/)
+- [AI reading coach startup Ello now lets kids create their own stories](https://techcrunch.com/2024/09/30/ai-reading-coach-startup-ello-launches-custom-story-creation-feature-for-kids/)
+- [Microsoft to face higher competition scrutiny in Germany, including over its use of AI](https://techcrunch.com/2024/09/30/microsoft-to-face-higher-competition-scrutiny-in-germany-including-over-its-use-of-ai/)
+- [NASA&#39;s Chandra X-ray telescope sees streams of gas cross in distant galaxy cluster &lpar;image&rpar;](https://www.space.com/crossing-gas-streams-galaxy-cluster-chandra-image)
 - [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/)
-- [Augmented Intelligence claims its symbolic AI can make chatbots more useful](https://techcrunch.com/2024/09/30/augmented-intelligence-claims-its-symbolic-ai-can-make-chatbots-more-useful/)
-- [Supermassive black hole jets mysteriously ignite nova explosions, Hubble Telescope finds](https://www.space.com/supermassive-black-hole-jets-hubble-telescope-nova-explosions)
-- [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/)
-- [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
