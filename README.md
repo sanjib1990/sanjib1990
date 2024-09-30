@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi launches camera module for vision-based AI applications](https://techcrunch.com/2024/09/30/raspberry-pi-launches-camera-module-for-vision-based-ai-applications/)
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/29/wordpress-vs-wp-engine-drama-explained/)
 - [Fidelity has cut X’s value by 79% since Musk purchase](https://techcrunch.com/2024/09/29/fidelity-has-cut-xs-value-by-79-since-musk-purchase/)
 - [Here is what’s illegal under California’s 18 &lpar;and counting&rpar; new AI laws](https://techcrunch.com/2024/09/29/here-is-whats-illegal-under-californias-18-and-counting-new-ai-laws/)
 - [Gov. Newsom vetoes California’s controversial AI bill, SB 1047](https://techcrunch.com/2024/09/29/gov-newsom-vetoes-californias-controversial-ai-bill-sb-1047/)
-- [YouTube blocks videos from Adele, Green Day, Bob Dylan, others in dispute with SESAC](https://techcrunch.com/2024/09/29/youtube-blocks-videos-from-adele-green-day-bob-dylan-others-in-dispute-with-sesac/)
-- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/09/29/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
