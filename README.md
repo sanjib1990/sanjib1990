@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supermassive black hole jets mysteriously ignite nova explosions, Hubble Telescope finds](https://www.space.com/supermassive-black-hole-jets-hubble-telescope-nova-explosions)
+- [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/)
+- [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/)
 - [Why space archaeologists are finding more Mayan ruins than ever before &lpar;exclusive&rpar;](https://www.space.com/mayan-ruins-space-archaeology-more-found)
 - [Queer social app Lex acquired by the former Musical.ly CEO’s conglomerate](https://techcrunch.com/2024/09/30/queer-social-app-lex-acquired-by-the-former-musical-ly-ceos-conglomerate/)
-- [Podcasting startup Podeo gets $5.4M to go beyond the Arab world](https://techcrunch.com/2024/09/30/podeo-5-4m-series-a/)
-- [HungryPanda, a food ordering app for the Asian diaspora, picks up $55M](https://techcrunch.com/2024/09/30/hungrypanda-a-food-ordering-app-for-the-asian-diaspora-picks-up-55m/)
-- [China&#39;s enormous FAST radio telescope is getting even bigger &lpar;video&rpar;](https://www.space.com/china-fast-radio-telescope-24-new-dishes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
