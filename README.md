@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Find your way across countless young stars in this image of a faraway stellar nursery &lpar;image&rpar;](https://www.space.com/countless-young-stars-faraway-stellar-nursery)
 - [After delivering astronauts to ISS, SpaceX’s Falcon 9 grounded after 3rd anomaly in 3 months](https://techcrunch.com/2024/09/30/after-delivering-astronauts-to-iss-spacexs-falcon-9-grounded-after-3rd-anomaly-in-3-months/)
 - [What time is the annular solar eclipse on Oct. 2?](https://www.space.com/what-time-annular-solar-eclipse-2024)
 - [iOS 18 Control Center: 18 apps that add useful actions to your iPhone](https://techcrunch.com/2024/09/30/18-apps-that-add-useful-actions-to-the-ios-18-control-center/)
 - [Cruise gets $1.5 million penalty for keeping pedestrian crash details from safety regulator](https://techcrunch.com/2024/09/30/cruise-1-5-million-penalty-omitting-pedestrian-crash-details-regulator/)
-- [Solar eclipse livestream: Watch the annular eclipse online on Oct. 2](https://www.space.com/watch-annular-solar-eclipse-2024-online)
 <!-- BLOG-POST-LIST:END -->
 
 ---
