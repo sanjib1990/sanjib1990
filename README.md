@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Milky Way&#39;s 2 biggest satellite galaxies are oddly lonely, study finds](https://www.space.com/milky-way-lonely-satellite-galaxies-magellanic-clouds)
+- [TechCrunch Space: The dawn of the space age](https://techcrunch.com/2024/09/30/techcrunch-space-the-dawn-of-the-space-age/)
 - [Heart tissues beat half as strongly on the ISS as they do on Earth](https://www.space.com/heart-cells-iss-space-medicine)
 - [The VC buying up prized real estate in SF says not to ‘listen to agitators’](https://techcrunch.com/2024/09/30/the-vc-buying-up-prized-real-estate-in-sf-says-not-to-listen-to-agitators/)
 - [Van Gogh&#39;s &#39;Starry Night&#39; surprisingly adheres to the laws of physics, scientists find](https://www.space.com/van-gogh-starry-night-physics-accuracy)
-- [Snapchat’s new Footsteps feature tracks your location history](https://techcrunch.com/2024/09/30/snapchats-new-footsteps-feature-tracks-your-location-history/)
-- [ULA rolls Vulcan Centaur rocket to pad ahead of 2nd-ever launch &lpar;photos&rpar;](https://www.space.com/ula-vulcan-centaur-rocket-rollout-second-launch-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
