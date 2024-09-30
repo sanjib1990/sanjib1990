@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beta Technologies unveils first passenger carrying electric aircraft](https://techcrunch.com/2024/09/30/beta-technologies-unveils-first-passenger-carrying-electric-aircraft/)
+- [Augmented Intelligence claims its symbolic AI can make chatbots more useful](https://techcrunch.com/2024/09/30/augmented-intelligence-claims-its-symbolic-ai-can-make-chatbots-more-useful/)
 - [Supermassive black hole jets mysteriously ignite nova explosions, Hubble Telescope finds](https://www.space.com/supermassive-black-hole-jets-hubble-telescope-nova-explosions)
 - [Qodo raises $40M Series A to bring quality-first code generation and testing to the enterprise](https://techcrunch.com/2024/09/30/qodo-raises-40m-series-a-to-bring-quality-first-code-generation-to-the-enterprise/)
 - [Airship wants to build better sales tools for HVAC contractors](https://techcrunch.com/2024/09/30/airship-wants-to-build-better-sales-tools-for-hvac-contractors/)
-- [Why space archaeologists are finding more Mayan ruins than ever before &lpar;exclusive&rpar;](https://www.space.com/mayan-ruins-space-archaeology-more-found)
-- [Queer social app Lex acquired by the former Musical.ly CEO’s conglomerate](https://techcrunch.com/2024/09/30/queer-social-app-lex-acquired-by-the-former-musical-ly-ceos-conglomerate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
