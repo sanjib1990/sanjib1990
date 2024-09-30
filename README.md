@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why space archaeologists are finding more Mayan ruins than ever before &lpar;exclusive&rpar;](https://www.space.com/mayan-ruins-space-archaeology-more-found)
+- [Queer social app Lex acquired by the former Musical.ly CEO’s conglomerate](https://techcrunch.com/2024/09/30/queer-social-app-lex-acquired-by-the-former-musical-ly-ceos-conglomerate/)
+- [Podcasting startup Podeo gets $5.4M to go beyond the Arab world](https://techcrunch.com/2024/09/30/podeo-5-4m-series-a/)
+- [HungryPanda, a food ordering app for the Asian diaspora, picks up $55M](https://techcrunch.com/2024/09/30/hungrypanda-a-food-ordering-app-for-the-asian-diaspora-picks-up-55m/)
 - [China&#39;s enormous FAST radio telescope is getting even bigger &lpar;video&rpar;](https://www.space.com/china-fast-radio-telescope-24-new-dishes)
-- [Pinnit Android app lets you search through your notification history](https://techcrunch.com/2024/09/30/pinnit-android-app-lets-you-search-through-your-notification-history/)
-- [Raspberry Pi launches camera module for vision-based AI applications](https://techcrunch.com/2024/09/30/raspberry-pi-launches-camera-module-for-vision-based-ai-applications/)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/09/29/wordpress-vs-wp-engine-drama-explained/)
-- [Fidelity has cut its estimate of X’s value by 79% since Musk’s purchase](https://techcrunch.com/2024/09/29/fidelity-has-cut-xs-value-by-79-since-musk-purchase/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
