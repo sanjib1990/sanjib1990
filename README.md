@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA requires investigation of anomaly on SpaceX&#39;s Crew-9 astronaut launch](https://www.space.com/faa-investigation-spacex-crew-9-launch-anomaly)
+- [Palmer Luckey: Every country needs a ‘warrior class’ excited to enact ‘violence on others in pursuit of good aims’](https://techcrunch.com/2024/10/01/palmer-luckey-every-country-needs-a-warrior-class-excited-to-enact-violence-on-others-in-pursuit-of-good-aims/)
 - [Impulse bets shuttling satellites between orbits is big business, and raises $150M to scale up](https://techcrunch.com/2024/10/01/impulse-bets-shuttling-satellites-between-orbits-is-big-business-and-raises-150m-to-scale-up/)
 - [China unveils spacesuit for moonwalking astronauts &lpar;video&rpar;](https://www.space.com/china-unveils-moon-landing-spacesuit-video)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
-- [A hidden microphone on a San Francisco street pole is spotting ‘bops’ in the wild](https://techcrunch.com/2024/10/01/a-hidden-microphone-on-a-san-francisco-street-pole-is-spotting-bops-in-the-wild/)
-- [Threads users can now see who follows them from other fediverse servers](https://techcrunch.com/2024/10/01/threads-users-can-now-see-who-follows-them-from-other-fediverse-servers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
