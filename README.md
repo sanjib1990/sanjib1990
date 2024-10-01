@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Impulse bets shuttling satellites between orbits is big business, and raises $150M to scale up](https://techcrunch.com/2024/10/01/impulse-bets-shuttling-satellites-between-orbits-is-big-business-and-raises-150m-to-scale-up/)
+- [China unveils spacesuit for moonwalking astronauts &lpar;video&rpar;](https://www.space.com/china-unveils-moon-landing-spacesuit-video)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
+- [A hidden microphone on a San Francisco street pole is spotting ‘bops’ in the wild](https://techcrunch.com/2024/10/01/a-hidden-microphone-on-a-san-francisco-street-pole-is-spotting-bops-in-the-wild/)
 - [Threads users can now see who follows them from other fediverse servers](https://techcrunch.com/2024/10/01/threads-users-can-now-see-who-follows-them-from-other-fediverse-servers/)
-- [A star-studded Rosette nebula brings gorgeous color to the cosmos](https://www.space.com/rosette-nebula-star-studded)
-- [Anthropic hires OpenAI co-founder Durk Kingma](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/)
-- [Comet Tsuchinshan-ATLAS wows skywatchers around the world and astronauts in space &lpar;photos, video&rpar;](https://www.space.com/comet-Tsuchinshan-atlas-photos-from-ground-and-space)
-- [Direct ocean capture may be the next frontier for carbon removal](https://techcrunch.com/2024/10/01/direct-ocean-capture-may-be-the-next-frontier-for-carbon-removal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
