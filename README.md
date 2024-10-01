@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anduril speeds up launch of defense payloads by buying Apex satellite buses off the shelf](https://techcrunch.com/2024/09/30/anduril-will-buy-satellite-buses-from-apex-space-to-rapidly-put-defense-payloads-on-orbit/)
+- [Tier becomes Dott following the merger of the two micromobility companies](https://techcrunch.com/2024/09/30/tier-becomes-dott-following-the-merger-of-the-two-micromobility-companies/)
 - [Meta won’t say whether it trains AI on smart glasses photos](https://techcrunch.com/2024/09/30/meta-wont-say-whether-it-trains-ai-on-ray-ban-meta-smart-glasses-photos/)
 - [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/)
 - [11x.ai, a developer of AI sales reps, has raised $50M Series B led by A16Z, sources say](https://techcrunch.com/2024/09/30/11x-ai-a-developer-of-ai-sales-reps-has-raised-50m-series-b-led-by-a16z-sources-say/)
-- [The Milky Way&#39;s 2 biggest satellite galaxies are oddly lonely, study finds](https://www.space.com/milky-way-lonely-satellite-galaxies-magellanic-clouds)
-- [TechCrunch Space: The dawn of the space age](https://techcrunch.com/2024/09/30/techcrunch-space-the-dawn-of-the-space-age/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
