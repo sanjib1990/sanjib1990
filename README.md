@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Palmer Luckey tried to crush aeronautics startup Salient Motion. But Anduril backer a16z invested.](https://techcrunch.com/2024/10/01/palmer-luckey-tried-to-crush-aeronautics-startup-salient-motion-but-anduril-backer-a16z-invested/)
-- [Google adds a multi-functional quick insert key and new AI features to Chromebook Plus](https://techcrunch.com/2024/10/01/google-adds-a-multi-functional-quick-insert-key-and-new-ai-features-to-chromebook-plus/)
-- [Sonos outlines turnaround plan following app disaster](https://techcrunch.com/2024/10/01/sonos-outlines-turnaround-plan-following-app-disaster/)
-- [Eon emerges from stealth with $127M to bring a fresh approach to back up cloud infrastructure](https://techcrunch.com/2024/10/01/eon-emerges-from-stealth-with-127m-to-bring-a-fresh-approach-to-back-up-cloud-infrastructure/)
-- [&#39;Sub-Earth&#39; exoplanet discovered around the closest solo star to us](https://www.space.com/barnards-star-exoplanet-sub-earth)
+- [Croissant debuts a cross-posting app for Threads, Bluesky and Mastodon](https://techcrunch.com/2024/10/01/croissant-debuts-a-cross-posting-app-for-threads-bluesky-and-mastodon/)
+- [Microsoft Copilot can now read your screen, think deeply, and speak aloud to you](https://techcrunch.com/2024/10/01/microsoft-copilot-can-now-read-your-screen-think-deeper-and-speak-aloud-to-you/)
+- [Microsoft brings AI-powered overviews to Bing](https://techcrunch.com/2024/10/01/microsoft-brings-ai-powered-overviews-to-bing/)
+- [Microsoft starts paying publishers for content surfaced by Copilot](https://techcrunch.com/2024/10/01/microsoft-starts-paying-publishers-for-content-in-copilot/)
+- [UK unmasks LockBit ransomware affiliate as high-ranking hacker in Russia state-backed cybercrime gang](https://techcrunch.com/2024/10/01/uk-unmasks-lockbit-ransomware-affiliate-evil-corp-cybercrime-gang/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
