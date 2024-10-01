@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Palmer Luckey tried to crush aeronautics startup Salient Motion. But Anduril backer a16z invested.](https://techcrunch.com/2024/10/01/palmer-luckey-tried-to-crush-aeronautics-startup-salient-motion-but-anduril-backer-a16z-invested/)
+- [Google adds a multi-functional quick insert key and new AI features to Chromebook Plus](https://techcrunch.com/2024/10/01/google-adds-a-multi-functional-quick-insert-key-and-new-ai-features-to-chromebook-plus/)
+- [Sonos outlines turnaround plan following app disaster](https://techcrunch.com/2024/10/01/sonos-outlines-turnaround-plan-following-app-disaster/)
+- [Eon emerges from stealth with $127M to bring a fresh approach to back up cloud infrastructure](https://techcrunch.com/2024/10/01/eon-emerges-from-stealth-with-127m-to-bring-a-fresh-approach-to-back-up-cloud-infrastructure/)
 - [&#39;Sub-Earth&#39; exoplanet discovered around the closest solo star to us](https://www.space.com/barnards-star-exoplanet-sub-earth)
-- [Air Doctor raised $20M to plug a gap in how people find doctors when they’re travelling](https://techcrunch.com/2024/10/01/air-doctor-raised-20m-to-plug-a-gap-in-how-people-find-doctors-when-theyre-travelling/)
-- [STEM and space: Building what&#39;s next](https://www.space.com/stem-jobs-electrical-engineer-cybersecurity-space-force)
-- [5 main stages of the annular solar eclipse 2024 explained](https://www.space.com/main-stages-annular-solar-eclipse-2024-explained)
-- [Sequoia backs Pydantic to expand beyond its open source data-validation framework](https://techcrunch.com/2024/10/01/sequoia-backs-pydantic-to-expand-beyond-its-open-source-data-validation-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
