@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Croissant debuts a cross-posting app for Threads, Bluesky and Mastodon](https://techcrunch.com/2024/10/01/croissant-debuts-a-cross-posting-app-for-threads-bluesky-and-mastodon/)
-- [Microsoft Copilot can now read your screen, think deeply, and speak aloud to you](https://techcrunch.com/2024/10/01/microsoft-copilot-can-now-read-your-screen-think-deeper-and-speak-aloud-to-you/)
-- [Microsoft brings AI-powered overviews to Bing](https://techcrunch.com/2024/10/01/microsoft-brings-ai-powered-overviews-to-bing/)
-- [Microsoft starts paying publishers for content surfaced by Copilot](https://techcrunch.com/2024/10/01/microsoft-starts-paying-publishers-for-content-in-copilot/)
-- [UK unmasks LockBit ransomware affiliate as high-ranking hacker in Russia state-backed cybercrime gang](https://techcrunch.com/2024/10/01/uk-unmasks-lockbit-ransomware-affiliate-evil-corp-cybercrime-gang/)
+- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/)
+- [Webb Researchers Discover Lensed Supernova, Confirm Hubble Tension](https://blogs.nasa.gov/webb/2024/10/01/webb-researchers-discover-lensed-supernova-confirm-hubble-tension/)
+- [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/)
+- [How the FBI and Mandiant caught a ‘serial hacker’ who tried to fake his own death](https://techcrunch.com/2024/10/01/how-the-fbi-and-mandiant-caught-a-serial-hacker-who-tried-to-fake-his-own-death/)
+- [James Webb Space Telescope deciphers the origins of Pluto&#39;s icy moon Charon](https://www.space.com/james-webb-space-telescope-pluto-icy-moon-charon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
