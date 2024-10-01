@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/01/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/)
-- [Webb Researchers Discover Lensed Supernova, Confirm Hubble Tension](https://blogs.nasa.gov/webb/2024/10/01/webb-researchers-discover-lensed-supernova-confirm-hubble-tension/)
-- [Numa raises $32M to bring AI and automation to car dealerships](https://techcrunch.com/2024/10/01/numa-is-bringing-ai-and-automation-to-car-dealerships/)
-- [How the FBI and Mandiant caught a ‘serial hacker’ who tried to fake his own death](https://techcrunch.com/2024/10/01/how-the-fbi-and-mandiant-caught-a-serial-hacker-who-tried-to-fake-his-own-death/)
-- [James Webb Space Telescope deciphers the origins of Pluto&#39;s icy moon Charon](https://www.space.com/james-webb-space-telescope-pluto-icy-moon-charon)
+- [Aspect Build gets $3.85M to help developers create software with Bazel](https://techcrunch.com/2024/10/01/aspect-build-gets-3-85m-to-help-developers-create-software-with-bazel/)
+- [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/)
+- [Acceleron Fusion has raised $15M to take another stab at cold fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/)
+- [How long will the annular solar eclipse on Oct. 2 last?](https://www.space.com/how-long-will-annular-solar-eclipse-2024-last)
+- [Microsoft HoloLens 2 discontinued with no successor in sight](https://techcrunch.com/2024/10/01/microsoft-hololens-2-discontinued-with-no-successor-in-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
