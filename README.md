@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinterest rolls out genAI tools for product imagery to advertisers](https://techcrunch.com/2024/10/01/pinterest-rolls-out-genai-tools-for-product-imagery-to-advertisers/)
-- [Aspect Build gets $3.85M to help developers create software with Bazel](https://techcrunch.com/2024/10/01/aspect-build-gets-3-85m-to-help-developers-create-software-with-bazel/)
-- [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/)
-- [Acceleron Fusion has raised $15M to take another stab at cold fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/)
-- [How long will the annular solar eclipse on Oct. 2 last?](https://www.space.com/how-long-will-annular-solar-eclipse-2024-last)
+- [A star-studded Rosette nebula brings gorgeous color to the cosmos](https://www.space.com/rosette-nebula-star-studded)
+- [Anthropic hires OpenAI co-founder Durk Kingma](https://techcrunch.com/2024/10/01/anthropic-hires-openai-co-founder-durk-kingma/)
+- [Comet Tsuchinshan-ATLAS wows skywatchers around the world and astronauts in space &lpar;photos, video&rpar;](https://www.space.com/comet-Tsuchinshan-atlas-photos-from-ground-and-space)
+- [Direct ocean capture may be the next frontier for carbon removal](https://techcrunch.com/2024/10/01/direct-ocean-capture-may-be-the-next-frontier-for-carbon-removal/)
+- [OpenAI’s DevDay brings Realtime API and other treats for AI app developers](https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
