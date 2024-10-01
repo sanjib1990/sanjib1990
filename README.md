@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [STEM and space: Building what&#39;s next](https://www.space.com/stem-jobs-electrical-engineer-cybersecurity-space-force)
 - [5 main stages of the annular solar eclipse 2024 explained](https://www.space.com/main-stages-annular-solar-eclipse-2024-explained)
 - [Sequoia backs Pydantic to expand beyond its open source data-validation framework](https://techcrunch.com/2024/10/01/sequoia-backs-pydantic-to-expand-beyond-its-open-source-data-validation-framework/)
 - [Invesco raises its valuation of Swiggy to $13.3B](https://techcrunch.com/2024/10/01/swiggy-valuation-ipo-invesco/)
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/01/wordpress-vs-wp-engine-drama-explained/)
-- [Anduril speeds up launch of defense payloads by buying Apex satellite buses off the shelf](https://techcrunch.com/2024/09/30/anduril-will-buy-satellite-buses-from-apex-space-to-rapidly-put-defense-payloads-on-orbit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
