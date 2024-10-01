@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest rolls out genAI tools for product imagery to advertisers](https://techcrunch.com/2024/10/01/pinterest-rolls-out-genai-tools-for-product-imagery-to-advertisers/)
 - [Aspect Build gets $3.85M to help developers create software with Bazel](https://techcrunch.com/2024/10/01/aspect-build-gets-3-85m-to-help-developers-create-software-with-bazel/)
 - [Runware uses custom hardware and advanced orchestration for fast AI inference](https://techcrunch.com/2024/10/01/runware-uses-custom-hardware-and-advanced-orchestration-for-fast-ai-inference/)
 - [Acceleron Fusion has raised $15M to take another stab at cold fusion, filing reveals](https://techcrunch.com/2024/10/01/acceleron-fusion-has-raised-15m-to-take-another-stab-at-cold-fusion-filing-reveals/)
 - [How long will the annular solar eclipse on Oct. 2 last?](https://www.space.com/how-long-will-annular-solar-eclipse-2024-last)
-- [Microsoft HoloLens 2 discontinued with no successor in sight](https://techcrunch.com/2024/10/01/microsoft-hololens-2-discontinued-with-no-successor-in-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
