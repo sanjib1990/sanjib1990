@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/)
+- [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/)
 - [Motier Ventures unveils La Maison, a community space for the French tech ecosystem](https://techcrunch.com/2024/10/02/motier-ventures-unveils-la-maison-a-community-space-for-the-french-tech-ecosystem/)
 - [Annular solar eclipse will turn the sun into a glorious &#39;ring of fire&#39; today. Here&#39;s what you need to know.](https://www.space.com/annular-solar-eclipse-2024-today-ring-of-fire-what-you-need-to-know)
 - [Peak XV trims fund size and fees as Indian market overheats](https://techcrunch.com/2024/10/01/peak-xv-top-india-sea-venture-firm-trims-fund-size-and-fees/)
-- [FAA requires investigation of anomaly on SpaceX&#39;s Crew-9 astronaut launch](https://www.space.com/faa-investigation-spacex-crew-9-launch-anomaly)
-- [Palmer Luckey: Every country needs a ‘warrior class’ excited to enact ‘violence on others in pursuit of good aims’](https://techcrunch.com/2024/10/01/palmer-luckey-every-country-needs-a-warrior-class-excited-to-enact-violence-on-others-in-pursuit-of-good-aims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
