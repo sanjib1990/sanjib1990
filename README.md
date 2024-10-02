@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ULA&#39;s Vulcan Centaur rocket is &#39;go&#39; for 2nd-ever launch on Oct. 4](https://www.space.com/ula-vulcan-centaur-go-launch-cert2)
+- [Meta confirms it may train its AI on any image you ask Ray-Ban Meta AI to analyze](https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze/)
 - [Cancer AI Alliance joins medical and tech expertise together with $40M to collaborate on next-gen care](https://techcrunch.com/2024/10/02/cancer-ai-alliance-joins-medical-and-tech-expertise-together-with-40m-to-collaborate-on-next-gen-care/)
 - [Former head of YC’s Continuity Fund Ali Rowghani launches new seed firm](https://techcrunch.com/2024/10/02/former-head-of-ycs-continuity-fund-ali-rowghani-launches-new-seed-firm/)
 - [OpenStack is ready for the VMware refugees](https://techcrunch.com/2024/10/02/openstack-is-ready-for-the-vmware-refugees/)
-- [Ray-Ban Meta + facial recognition = Terminator vision for doxxing](https://techcrunch.com/2024/10/02/ray-ban-meta-facial-recognition-terminator-vision-for-doxxing/)
-- [Sun unleashes monster X7.1 flare that could supercharge Earth auroras &lpar;video&rpar;](https://www.space.com/sun-monster-solar-flare-x7-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
