@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Maria From Brazil: An Open Learner’s Story](https://www.youtube.com/watch?v=fwxxoJanp4A)
 - [playing with the Rasperry Pi AI Camera](https://www.youtube.com/watch?v=o-a8Al3ZupI)
 - [Lecture 12: Ethics and Markets](https://www.youtube.com/watch?v=MVuXxWSrdNA)
 - [Lecture 22: Auctions, Part 1](https://www.youtube.com/watch?v=-XGDKoWi0Zg)
 - [Lecture 09: Search, Part 1](https://www.youtube.com/watch?v=0P2XSD9I6Gg)
-- [Lecture 14: Dynamic Competition, Part 1](https://www.youtube.com/watch?v=fRD43u-pY4A)
 <!-- YOUTUBE:END -->
 
 ---
