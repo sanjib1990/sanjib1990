@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Annular solar eclipse will turn the sun into a glorious &#39;ring of fire&#39; today. Here&#39;s what you need to know.](https://www.space.com/annular-solar-eclipse-2024-today-ring-of-fire-what-you-need-to-know)
 - [Peak XV trims fund size and fees as Indian market overheats](https://techcrunch.com/2024/10/01/peak-xv-top-india-sea-venture-firm-trims-fund-size-and-fees/)
 - [FAA requires investigation of anomaly on SpaceX&#39;s Crew-9 astronaut launch](https://www.space.com/faa-investigation-spacex-crew-9-launch-anomaly)
 - [Palmer Luckey: Every country needs a ‘warrior class’ excited to enact ‘violence on others in pursuit of good aims’](https://techcrunch.com/2024/10/01/palmer-luckey-every-country-needs-a-warrior-class-excited-to-enact-violence-on-others-in-pursuit-of-good-aims/)
 - [Impulse bets shuttling satellites between orbits is big business, and raises $150M to scale up](https://techcrunch.com/2024/10/01/impulse-bets-shuttling-satellites-between-orbits-is-big-business-and-raises-150m-to-scale-up/)
-- [China unveils spacesuit for moonwalking astronauts &lpar;video&rpar;](https://www.space.com/china-unveils-moon-landing-spacesuit-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
