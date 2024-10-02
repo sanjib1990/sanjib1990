@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did a NASA telescope detect cosmic &#39;hot dogs&#39; or Dyson spheres?](https://www.space.com/hot-dogs-wise-nasa-dyson-spheres)
+- [Toyota pours another $500M into electric air taxi startup Joby Aviation](https://techcrunch.com/2024/10/02/toyota-pours-another-500m-into-electric-air-taxi-startup-joby-aviation/)
 - [&#39;I think it was hard not to watch that rocket lift off without thinking, That&#39;s my rocket and that&#39;s my crew.&#39; How the NASA astronauts bumped from SpaceX&#39;s Crew-9 watched their ride launch without them](https://www.space.com/nasa-astronauts-spacex-crew-9-still-on-earth)
 - [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/)
 - [EU’s DSA enforcers send more questions to Snapchat, TikTok and YouTube about AI risks](https://techcrunch.com/2024/10/02/eus-dsa-enforcers-send-more-questions-to-snapchat-tiktok-and-youtube-about-ai-risks/)
-- [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/)
-- [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
