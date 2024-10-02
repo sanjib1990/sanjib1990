@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch reimagined: welcome to our new design](https://techcrunch.com/2024/10/02/techcrunch-reimagined-welcome-to-our-new-design/)
-- [Livesteam shopping app Whatnot adds a rewards program as GMV tops $2B](https://techcrunch.com/2024/10/02/whatnots-annual-gmv-hits-2b-introduces-new-rewards-program/)
-- [Character.AI hires a YouTube exec as CPO, says it will raise money next year with new partners](https://techcrunch.com/2024/10/02/character-ai-hires-ex-youtube-exec-as-cpo-says-will-raise-money-next-year-with-new-partners/)
-- [Permanent wants to permanently change where commercial buyers get their food](https://techcrunch.com/2024/10/02/permanent-wants-to-permanently-change-where-enterprise-buyers-get-their-food/)
-- [Spill, the Black-owned Twitter alternative, scores investment from Kerry Washington](https://techcrunch.com/2024/10/02/spill-the-black-owned-twitter-alternative-scores-investment-from-kerry-washington/)
+- [Waymo begins offering robotaxi rides via Uber in Austin](https://techcrunch.com/2024/10/02/waymo-begins-offering-robotaxi-rides-via-uber-in-austin/)
+- [Instant harkens back to a pre-Google Firebase](https://techcrunch.com/2024/10/02/instant-harkens-back-to-a-pre-google-firebase/)
+- [Gmail’s new ‘summary cards’ help you take action on your emails, like tracking packages and checking into flights](https://techcrunch.com/2024/10/02/gmail-enhanced-summary-cards-help-you-take-action-on-your-emails/)
+- [News agency AFP notifies French authorities of potential data breach](https://techcrunch.com/2024/10/02/news-agency-afp-notifies-french-authorities-of-potential-data-breach/)
+- [Pallet uses AI to bring logistics into the 21st century](https://techcrunch.com/2024/10/02/pallet-uses-ai-to-bring-logistics-into-the-21st-century/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
