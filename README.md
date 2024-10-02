@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I think it was hard not to watch that rocket lift off without thinking, That&#39;s my rocket and that&#39;s my crew.&#39; How the NASA astronauts bumped from SpaceX&#39;s Crew-9 watched their ride launch without them](https://www.space.com/nasa-astronauts-spacex-crew-9-still-on-earth)
+- [Meat replacement startup Heura has a new mission to slay junk food with healthier plant-based swaps](https://techcrunch.com/2024/10/02/meat-replacement-startup-heura-has-a-new-mission-to-slay-junk-food-with-healthier-plant-based-swaps/)
+- [EU’s DSA enforcers send more questions to Snapchat, TikTok and YouTube about AI risks](https://techcrunch.com/2024/10/02/eus-dsa-enforcers-send-more-questions-to-snapchat-tiktok-and-youtube-about-ai-risks/)
 - [Hedosophia leads $7M seed round into retail supply chain AI startup Ameba](https://techcrunch.com/2024/10/02/hedosophia-leads-7m-seed-round-into-retail-supply-chain-ai-startup-ameba/)
 - [Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM](https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/)
-- [Motier Ventures unveils La Maison, a community space for the French tech ecosystem](https://techcrunch.com/2024/10/02/motier-ventures-unveils-la-maison-a-community-space-for-the-french-tech-ecosystem/)
-- [Annular solar eclipse will turn the sun into a glorious &#39;ring of fire&#39; today. Here&#39;s what you need to know.](https://www.space.com/annular-solar-eclipse-2024-today-ring-of-fire-what-you-need-to-know)
-- [Peak XV trims fund size and fees as Indian market overheats](https://techcrunch.com/2024/10/01/peak-xv-top-india-sea-venture-firm-trims-fund-size-and-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
