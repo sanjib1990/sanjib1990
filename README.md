@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ray-Ban Meta + facial recognition = Terminator vision for doxxing](https://techcrunch.com/2024/10/02/ray-ban-meta-facial-recognition-terminator-vision-for-doxxing/)
+- [Sun unleashes monster X7.1 flare that could supercharge Earth auroras &lpar;video&rpar;](https://www.space.com/sun-monster-solar-flare-x7-video)
+- [This Week in AI: OpenAI is stretched thin](https://techcrunch.com/2024/10/02/this-week-in-ai-openai-is-stretched-thin/)
 - [OpenAI raises $6.6B and is now valued at $157B](https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/)
 - [NASA shuts off Voyager 2 science instrument as power dwindles](https://www.space.com/voyager-2-science-instrument-shut-off)
-- [J.B. Hunt and UP.Labs launch venture lab to build logistics startups](https://techcrunch.com/2024/10/02/j-b-hunt-and-up-labs-launch-venture-lab-to-build-logistics-startups/)
-- [Facebook says it paid content creators $2B this year](https://techcrunch.com/2024/10/02/facebook-says-it-paid-content-creators-2b-this-year/)
-- [AI coding startup Poolside raises $500M from eBay, Nvidia and others](https://techcrunch.com/2024/10/02/ai-coding-startup-poolside-raises-500m-from-ebay-nvidia-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
