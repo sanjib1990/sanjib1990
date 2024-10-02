@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo begins offering robotaxi rides via Uber in Austin](https://techcrunch.com/2024/10/02/waymo-begins-offering-robotaxi-rides-via-uber-in-austin/)
-- [Instant harkens back to a pre-Google Firebase](https://techcrunch.com/2024/10/02/instant-harkens-back-to-a-pre-google-firebase/)
-- [Gmail’s new ‘summary cards’ help you take action on your emails, like tracking packages and checking into flights](https://techcrunch.com/2024/10/02/gmail-enhanced-summary-cards-help-you-take-action-on-your-emails/)
-- [News agency AFP notifies French authorities of potential data breach](https://techcrunch.com/2024/10/02/news-agency-afp-notifies-french-authorities-of-potential-data-breach/)
-- [Pallet uses AI to bring logistics into the 21st century](https://techcrunch.com/2024/10/02/pallet-uses-ai-to-bring-logistics-into-the-21st-century/)
+- [OpenAI raises $6.6B and is now valued at $157B](https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/)
+- [NASA shuts off Voyager 2 science instrument as power dwindles](https://www.space.com/voyager-2-science-instrument-shut-off)
+- [J.B. Hunt and UP.Labs launch venture lab to build logistics startups](https://techcrunch.com/2024/10/02/j-b-hunt-and-up-labs-launch-venture-lab-to-build-logistics-startups/)
+- [Facebook says it paid content creators $2B this year](https://techcrunch.com/2024/10/02/facebook-says-it-paid-content-creators-2b-this-year/)
+- [AI coding startup Poolside raises $500M from eBay, Nvidia and others](https://techcrunch.com/2024/10/02/ai-coding-startup-poolside-raises-500m-from-ebay-nvidia-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
