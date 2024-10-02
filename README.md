@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Whatnot’s annual GMV hits $2B, introduces new rewards program](https://techcrunch.com/2024/10/02/whatnots-annual-gmv-hits-2b-introduces-new-rewards-program/)
+- [TechCrunch reimagined: welcome to our new design](https://techcrunch.com/2024/10/02/techcrunch-reimagined-welcome-to-our-new-design/)
+- [Livesteam shopping app Whatnot adds a rewards program as GMV tops $2B](https://techcrunch.com/2024/10/02/whatnots-annual-gmv-hits-2b-introduces-new-rewards-program/)
 - [Character.AI hires a YouTube exec as CPO, says it will raise money next year with new partners](https://techcrunch.com/2024/10/02/character-ai-hires-ex-youtube-exec-as-cpo-says-will-raise-money-next-year-with-new-partners/)
 - [Permanent wants to permanently change where commercial buyers get their food](https://techcrunch.com/2024/10/02/permanent-wants-to-permanently-change-where-enterprise-buyers-get-their-food/)
 - [Spill, the Black-owned Twitter alternative, scores investment from Kerry Washington](https://techcrunch.com/2024/10/02/spill-the-black-owned-twitter-alternative-scores-investment-from-kerry-washington/)
-- [Why is ChatGPT so bad at math?](https://techcrunch.com/2024/10/02/why-is-chatgpt-so-bad-at-math/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
