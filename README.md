@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Curiosity Mars rover&#39;s wheels are more battered than ever — but they still work](https://www.space.com/curiosity-mars-rover-wheel-damage-sept-2024)
+- [DOJ sentences pair for Apple repair scheme involving 6,000 knockoff iPhones](https://techcrunch.com/2024/10/03/doj-sentences-pair-for-apple-repair-scheme-involving-6000-knockoff-iphones/)
+- [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/10/03/techcrunch-reference-guide-to-security-terminology/)
 - [OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/)
 - [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/)
-- [Can you see Earth&#39;s new &#39;mini-moon&#39; with the naked eye?](https://www.space.com/earth-mini-moon-naked-eye)
-- [OpenAI also secured a massive credit line](https://techcrunch.com/2024/10/03/openai-also-secured-a-massive-credit-line/)
-- [Google brings ads to AI Overviews as it expands AI’s role in search](https://techcrunch.com/2024/10/03/google-brings-ads-to-ai-overviews-and-rolls-out-ai-organized-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
