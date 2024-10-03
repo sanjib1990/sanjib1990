@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wiz CEO Assaf Rappaport is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/wiz-ceo-assaf-rappaport-is-coming-to-techcrunch-disrupt-2024/)
-- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/strictlyvc-comes-to-techcrunch-disrupt-2024/)
-- [Ollie scoops up health startup to launch a tool that analyzes dog poop](https://techcrunch.com/2024/10/03/ollie-scoops-up-health-startup-to-launch-a-tool-that-analyzes-dog-poop/)
-- [In photos: Annular solar eclipse 2024 delights with stunning &#39;ring of fire&#39; display](https://www.space.com/annular-solar-eclipse-2024-best-photos)
-- [CISA issues warning about another Ivanti flaw under active attack](https://techcrunch.com/2024/10/03/cisa-issues-warning-about-another-ivanti-flaw-under-active-attack/)
+- [Google brings ads to AI Overviews as it expands AI’s role in search](https://techcrunch.com/2024/10/03/google-brings-ads-to-ai-overviews-and-rolls-out-ai-organized-pages/)
+- [Google Lens can now answer questions about videos](https://techcrunch.com/2024/10/03/google-lens-can-now-answer-questions-about-videos/)
+- [BepiColombo spacecraft&#39;s flyby of Mercury begins unraveling the planet&#39;s magnetic mystery](https://www.space.com/bepicolombo-spacecraft-mercury-flyby-magnetic-mystery)
+- [YouTube takes on TikTok with longer Shorts, templates, trends, and more](https://techcrunch.com/2024/10/03/youtube-takes-on-tiktok-with-longer-shorts-templates-trends-and-more/)
+- [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line &lpar;video&rpar;](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 <!-- BLOG-POST-LIST:END -->
 
 ---
