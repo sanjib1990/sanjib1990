@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When is the next solar eclipse?](https://www.space.com/solar-eclipse-march-2025-when)
+- [Initialized Capital restructures, and lets multiple partners go](https://techcrunch.com/2024/10/03/initialized-capital-restructures-and-lets-multiple-partners-go/)
 - [How to watch ULA&#39;s 2nd-ever Vulcan Centaur rocket launch on Oct. 4](https://www.space.com/ula-vulcan-centaur-cert2-launch-livestream)
 - [The 13 biggest take-private PE acquisitions so far this year in tech](https://techcrunch.com/2024/10/03/the-13-biggest-private-equity-acquisitions-of-public-tech-firms-in-2024-so-far/)
 - [Curiosity Mars rover&#39;s wheels are more battered than ever — but they still work](https://www.space.com/curiosity-mars-rover-wheel-damage-sept-2024)
-- [DOJ sentences pair for Apple repair scheme involving 6,000 knockoff iPhones](https://techcrunch.com/2024/10/03/doj-sentences-pair-for-apple-repair-scheme-involving-6000-knockoff-iphones/)
-- [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/10/03/techcrunch-reference-guide-to-security-terminology/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
