@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quoroom acquires Investory to scale up its capital-raising platform for startups](https://techcrunch.com/2024/10/03/quoroom-acquires-investory-to-scale-up-its-capital-raising-platform-for-startups/)
-- [Voyage AI is building RAG tools to make AI hallucinate less](https://techcrunch.com/2024/10/03/voyage-ai-is-building-rag-tools-to-make-ai-hallucinate-less/)
-- [Uber taps Yandex spinout Avride for autonomous delivery and ride-hail partnership](https://techcrunch.com/2024/10/03/uber-taps-yandex-spinout-avride-for-autonomous-delivery-and-ride-hail-partnership/)
-- [Hey, UK! Here’s how to ‘opt out’ of Meta using your Facebook and Instagram data to train its AI](https://techcrunch.com/2024/10/03/hey-uk-heres-how-to-opt-out-of-meta-using-your-facebook-and-instagram-data-to-train-its-ai/)
-- [Top &#39;safety risk&#39; for the ISS is a leak that has been ongoing for 5 years, NASA audit finds](https://www.space.com/iss-leak-safety-risk-nasa-oig-report)
+- [CISA issues warning about another Ivanti flaw under active attack](https://techcrunch.com/2024/10/03/cisa-issues-warning-about-another-ivanti-flaw-under-active-attack/)
+- [First moonwalker Neil Armstrong&#39;s speech notes posted online by Purdue](https://www.space.com/neil-armstrong-speeches-digitized-purdue)
+- [Argo Space’s plan to power orbital tugs with Moon water pulls in $7.9M](https://techcrunch.com/2024/10/03/argo-spaces-plan-to-power-orbital-tugs-with-moon-water-pulls-in-7-9m/)
+- [Video editing app Captions launches an AI-powered social media manager for sites](https://techcrunch.com/2024/10/03/video-editing-app-captions-launches-an-ai-powered-social-media-manager-for-sites/)
+- [How Kapa uses LLMs to help companies answer users’ technical questions reliably](https://techcrunch.com/2024/10/03/how-kapa-uses-llms-to-help-companies-answer-users-technical-questions-reliably/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
