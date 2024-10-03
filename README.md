@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wiz CEO Assaf Rappaport is coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/wiz-ceo-assaf-rappaport-is-coming-to-techcrunch-disrupt-2024/)
+- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/strictlyvc-comes-to-techcrunch-disrupt-2024/)
+- [Ollie scoops up health startup to launch a tool that analyzes dog poop](https://techcrunch.com/2024/10/03/ollie-scoops-up-health-startup-to-launch-a-tool-that-analyzes-dog-poop/)
+- [In photos: Annular solar eclipse 2024 delights with stunning &#39;ring of fire&#39; display](https://www.space.com/annular-solar-eclipse-2024-best-photos)
 - [CISA issues warning about another Ivanti flaw under active attack](https://techcrunch.com/2024/10/03/cisa-issues-warning-about-another-ivanti-flaw-under-active-attack/)
-- [First moonwalker Neil Armstrong&#39;s speech notes posted online by Purdue](https://www.space.com/neil-armstrong-speeches-digitized-purdue)
-- [Argo Space’s plan to power orbital tugs with Moon water pulls in $7.9M](https://techcrunch.com/2024/10/03/argo-spaces-plan-to-power-orbital-tugs-with-moon-water-pulls-in-7-9m/)
-- [Video editing app Captions launches an AI-powered social media manager for sites](https://techcrunch.com/2024/10/03/video-editing-app-captions-launches-an-ai-powered-social-media-manager-for-sites/)
-- [How Kapa uses LLMs to help companies answer users’ technical questions reliably](https://techcrunch.com/2024/10/03/how-kapa-uses-llms-to-help-companies-answer-users-technical-questions-reliably/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
