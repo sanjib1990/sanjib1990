@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top &#39;safety risk&#39; for the ISS is a leak that has been ongoing for 5 years, NASA audit finds](https://www.space.com/iss-leak-safety-risk-nasa-oig-report)
+- [ETH Zurich spinoff Voliro’s flying robots save lives, but don’t tell its CEO](https://techcrunch.com/2024/10/03/eth-zurich-spinoff-voliros-flying-robots-save-lives-but-dont-tell-its-ceo/)
+- [Spotify adds a new, automatically updating playlist for offline listening](https://techcrunch.com/2024/10/03/spotify-adds-a-new-automatically-updating-playlist-for-offline-listening/)
+- [Scammed and exploited, she built an AI-driven app for immigrants like her](https://techcrunch.com/2024/10/03/scammed-and-exploited-she-built-an-ai-driven-app-for-immigrants-like-her/)
 - [Aurora alert: Possible geomagnetic storm could spark northern lights as far south as Illinois and Oregon](https://www.space.com/aurora-alert-northern-lights-far-south-illinois-oregon-g3-geomagnetic-storm-predicted)
-- [One of our favorite star projectors now at lowest price in over six months](https://www.space.com/early-prime-day-star-projector-deal-save-13-percent-lowest-price-six-months)
-- [Google pilots blocking some sideloaded apps  in India](https://techcrunch.com/2024/10/03/google-pilots-blocking-some-sideloaded-apps-in-india/)
-- [How mass extinctions can help scientists find complex alien life](https://www.space.com/complex-alien-life-mass-extinctions)
-- [Google Maps will show AI-powered review summaries in India](https://techcrunch.com/2024/10/03/google-maps-will-show-ai-powered-review-summaries-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
