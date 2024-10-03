@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/)
+- [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/)
 - [James Webb Space Telescope finds supernova &#39;Hope&#39; that could finally resolve major astronomy debate](https://www.space.com/james-webb-space-telescope-hubble-tension-supernova-hope)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [When is the next solar eclipse?](https://www.space.com/solar-eclipse-march-2025-when)
-- [Initialized Capital restructures, and lets multiple partners go](https://techcrunch.com/2024/10/03/initialized-capital-restructures-and-lets-multiple-partners-go/)
-- [How to watch ULA&#39;s 2nd-ever Vulcan Centaur rocket launch on Oct. 4](https://www.space.com/ula-vulcan-centaur-cert2-launch-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
