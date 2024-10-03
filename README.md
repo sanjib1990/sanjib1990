@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How mass extinctions can help scientists find complex alien life](https://www.space.com/complex-alien-life-mass-extinctions)
 - [Google Maps will show AI-powered review summaries in India](https://techcrunch.com/2024/10/03/google-maps-will-show-ai-powered-review-summaries-in-india/)
 - [Google taps India’s love for gold to boost its credit play](https://techcrunch.com/2024/10/03/google-taps-india-love-for-gold-to-boost-its-credit-play/)
 - [Google flexes its edge in India in AI showdown](https://techcrunch.com/2024/10/03/google-flexes-its-edge-in-india-in-ai-showdown/)
 - [Oura Ring 4 debuts slimmer design, additional sizes, and improved sensing starting at $349](https://techcrunch.com/2024/10/03/oura-ring-4-debuts-slimmer-design-additional-sizes-and-improved-sensing-starting-at-349/)
-- [Google is testing Gemini-powered video search in India](https://techcrunch.com/2024/10/02/google-is-testing-gemini-powered-video-search-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
