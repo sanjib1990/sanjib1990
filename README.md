@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora alert: Possible geomagnetic storm could spark northern lights as far south as Illinois and Oregon](https://www.space.com/aurora-alert-northern-lights-far-south-illinois-oregon-g3-geomagnetic-storm-predicted)
+- [One of our favorite star projectors now at lowest price in over six months](https://www.space.com/early-prime-day-star-projector-deal-save-13-percent-lowest-price-six-months)
+- [Google pilots blocking some sideloaded apps  in India](https://techcrunch.com/2024/10/03/google-pilots-blocking-some-sideloaded-apps-in-india/)
 - [How mass extinctions can help scientists find complex alien life](https://www.space.com/complex-alien-life-mass-extinctions)
 - [Google Maps will show AI-powered review summaries in India](https://techcrunch.com/2024/10/03/google-maps-will-show-ai-powered-review-summaries-in-india/)
-- [Google taps India’s love for gold to boost its credit play](https://techcrunch.com/2024/10/03/google-taps-india-love-for-gold-to-boost-its-credit-play/)
-- [Google flexes its edge in India in AI showdown](https://techcrunch.com/2024/10/03/google-flexes-its-edge-in-india-in-ai-showdown/)
-- [Oura Ring 4 debuts slimmer design, additional sizes, and improved sensing starting at $349](https://techcrunch.com/2024/10/03/oura-ring-4-debuts-slimmer-design-additional-sizes-and-improved-sensing-starting-at-349/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
