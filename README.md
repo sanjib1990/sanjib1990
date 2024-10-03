@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google flexes its edge in India in AI showdown](https://techcrunch.com/2024/10/03/google-flexes-its-edge-in-india-in-ai-showdown/)
+- [Oura Ring 4 debuts slimmer design, additional sizes, and improved sensing starting at $349](https://techcrunch.com/2024/10/03/oura-ring-4-debuts-slimmer-design-additional-sizes-and-improved-sensing-starting-at-349/)
+- [Google is testing Gemini-powered video search in India](https://techcrunch.com/2024/10/02/google-is-testing-gemini-powered-video-search-in-india/)
 - [As data center usage heats up, Submer raises $55.5M to cool things down](https://techcrunch.com/2024/10/02/as-data-center-usage-heats-up-submer-raises-55-5m-to-cool-things-down/)
-- [WP Engine sues Automattic and WordPress co-founder Matt Mullenweg](https://techcrunch.com/2024/10/02/wp-engine-sues-automattic-and-wordpress-co-founder-matt-mullenweg/)
-- [Judge blocks California’s new AI law in case over Kamala Harris deepfake](https://techcrunch.com/2024/10/02/judge-blocks-californias-new-ai-law-in-case-over-kamala-harris-deepfake-musk-reposted/)
-- [Elon Musk’s xAI moves into OpenAI’s old HQ](https://techcrunch.com/2024/10/02/elon-musks-xai-moves-into-openais-old-hq/)
-- [Venture firm CRV returns $275 million citing overvaluation of mature startups](https://techcrunch.com/2024/10/02/venture-firm-crv-returns-275-million-citing-overvaluation-of-mature-startups/)
+- [WP Engine sues WordPress co-creator Mullenweg and Automattic, alleging abuse of power](https://techcrunch.com/2024/10/02/wp-engine-sues-automattic-and-wordpress-co-founder-matt-mullenweg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
