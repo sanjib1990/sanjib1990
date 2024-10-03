@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch ULA&#39;s 2nd-ever Vulcan Centaur rocket launch on Oct. 4](https://www.space.com/ula-vulcan-centaur-cert2-launch-livestream)
+- [The 13 biggest take-private PE acquisitions so far this year in tech](https://techcrunch.com/2024/10/03/the-13-biggest-private-equity-acquisitions-of-public-tech-firms-in-2024-so-far/)
 - [Curiosity Mars rover&#39;s wheels are more battered than ever — but they still work](https://www.space.com/curiosity-mars-rover-wheel-damage-sept-2024)
 - [DOJ sentences pair for Apple repair scheme involving 6,000 knockoff iPhones](https://techcrunch.com/2024/10/03/doj-sentences-pair-for-apple-repair-scheme-involving-6000-knockoff-iphones/)
 - [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/10/03/techcrunch-reference-guide-to-security-terminology/)
-- [OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/)
-- [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
