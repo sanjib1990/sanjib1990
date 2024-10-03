@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/)
+- [AirOps is an all-in-one platform for generating and managing AI-based marketing content](https://techcrunch.com/2024/10/03/airops-wants-to-be-the-all-in-one-platform-for-generating-and-managing-ai-based-seo-slop/)
+- [Can you see Earth&#39;s new &#39;mini-moon&#39; with the naked eye?](https://www.space.com/earth-mini-moon-naked-eye)
+- [OpenAI also secured a massive credit line](https://techcrunch.com/2024/10/03/openai-also-secured-a-massive-credit-line/)
 - [Google brings ads to AI Overviews as it expands AI’s role in search](https://techcrunch.com/2024/10/03/google-brings-ads-to-ai-overviews-and-rolls-out-ai-organized-pages/)
-- [Google Lens can now answer questions about videos](https://techcrunch.com/2024/10/03/google-lens-can-now-answer-questions-about-videos/)
-- [BepiColombo spacecraft&#39;s flyby of Mercury begins unraveling the planet&#39;s magnetic mystery](https://www.space.com/bepicolombo-spacecraft-mercury-flyby-magnetic-mystery)
-- [YouTube takes on TikTok with longer Shorts, templates, trends, and more](https://techcrunch.com/2024/10/03/youtube-takes-on-tiktok-with-longer-shorts-templates-trends-and-more/)
-- [Biggest solar flare since 2017 erupts from sun and Earth is in the firing line &lpar;video&rpar;](https://www.space.com/most-powerful-solar-flare-this-solar-cycle-x-9-earth-firing-line)
 <!-- BLOG-POST-LIST:END -->
 
 ---
