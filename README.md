@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Judge blocks California’s new AI law in case over Kamala Harris deepfake Musk reposted](https://techcrunch.com/2024/10/02/judge-blocks-californias-new-ai-law-in-case-over-kamala-harris-deepfake-musk-reposted/)
+- [Elon Musk’s xAI moves into OpenAI’s old HQ](https://techcrunch.com/2024/10/02/elon-musks-xai-moves-into-openais-old-hq/)
 - [Venture firm CRV returns $275 million citing overvaluation of mature startups](https://techcrunch.com/2024/10/02/venture-firm-crv-returns-275-million-citing-overvaluation-of-mature-startups/)
 - [Four-legged robot learns to climb ladders](https://techcrunch.com/2024/10/02/four-legged-robot-learns-to-climb-ladders/)
 - [Annular solar eclipse 2024 wows skywatchers with &#39;ring of fire&#39; over Easter Island, South America &lpar;videos, photos&rpar;](https://www.space.com/annular-solar-eclipse-wows-skywatchers-photos-video)
-- [ULA&#39;s Vulcan Centaur rocket is &#39;go&#39; for 2nd-ever launch on Oct. 4](https://www.space.com/ula-vulcan-centaur-go-launch-cert2)
-- [Meta confirms it may train its AI on any image you ask Ray-Ban Meta AI to analyze](https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
