@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Judge blocks California’s new AI law in case over Kamala Harris deepfake Musk reposted](https://techcrunch.com/2024/10/02/judge-blocks-californias-new-ai-law-in-case-over-kamala-harris-deepfake-musk-reposted/)
+- [Judge blocks California’s new AI law in case over Kamala Harris deepfake](https://techcrunch.com/2024/10/02/judge-blocks-californias-new-ai-law-in-case-over-kamala-harris-deepfake-musk-reposted/)
 - [Elon Musk’s xAI moves into OpenAI’s old HQ](https://techcrunch.com/2024/10/02/elon-musks-xai-moves-into-openais-old-hq/)
 - [Venture firm CRV returns $275 million citing overvaluation of mature startups](https://techcrunch.com/2024/10/02/venture-firm-crv-returns-275-million-citing-overvaluation-of-mature-startups/)
 - [Four-legged robot learns to climb ladders](https://techcrunch.com/2024/10/02/four-legged-robot-learns-to-climb-ladders/)
