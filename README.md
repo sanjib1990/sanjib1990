@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps will show AI-powered review summaries in India](https://techcrunch.com/2024/10/03/google-maps-will-show-ai-powered-review-summaries-in-india/)
+- [Google taps India’s love for gold to boost its credit play](https://techcrunch.com/2024/10/03/google-taps-india-love-for-gold-to-boost-its-credit-play/)
 - [Google flexes its edge in India in AI showdown](https://techcrunch.com/2024/10/03/google-flexes-its-edge-in-india-in-ai-showdown/)
 - [Oura Ring 4 debuts slimmer design, additional sizes, and improved sensing starting at $349](https://techcrunch.com/2024/10/03/oura-ring-4-debuts-slimmer-design-additional-sizes-and-improved-sensing-starting-at-349/)
 - [Google is testing Gemini-powered video search in India](https://techcrunch.com/2024/10/02/google-is-testing-gemini-powered-video-search-in-india/)
-- [As data center usage heats up, Submer raises $55.5M to cool things down](https://techcrunch.com/2024/10/02/as-data-center-usage-heats-up-submer-raises-55-5m-to-cool-things-down/)
-- [WP Engine sues WordPress co-creator Mullenweg and Automattic, alleging abuse of power](https://techcrunch.com/2024/10/02/wp-engine-sues-automattic-and-wordpress-co-founder-matt-mullenweg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
