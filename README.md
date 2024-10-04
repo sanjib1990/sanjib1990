@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch SpaceX&#39;s Falcon Heavy rocket launch NASA&#39;s Europa Clipper probe on Oct. 10](https://www.space.com/spacex-falcon-heavy-europa-clipper-launch-webcast)
+- [The Browser Company launches Arc Search on Android](https://techcrunch.com/2024/10/04/the-browser-company-launches-arc-search-on-android/)
 - [Meta’s Movie Gen model puts out realistic video with sound, so we can finally have infinite Moo Deng](https://techcrunch.com/2024/10/04/metas-movie-gen-model-puts-out-realistic-video-with-sound-so-we-can-finally-have-infinite-moo-deng/)
 - [Dangerous satellite air pollution exists in a legal loophole](https://www.space.com/montreal-protocol-satellites-air-pollution)
 - [Many companies won’t say if they’ll comply with California’s AI training transparency law](https://techcrunch.com/2024/10/04/many-companies-wont-say-if-theyll-comply-with-californias-ai-training-transparency-law/)
-- [ULA&#39;s new Vulcan Centaur rocket aces 2nd test launch](https://www.space.com/ula-vulcan-centaur-second-test-flight-launch-success)
-- [World Space Week 2024: How space technology arms scientists fighting climate change](https://www.space.com/space-technology-climate-change-world-space-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
