@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A co-lead on Sora, OpenAI’s video generator, has left for Google](https://techcrunch.com/2024/10/03/a-co-lead-on-sora-openais-video-generator-has-left-for-google/)
 - [Investors are scrambling to get into ElevenLabs, which may soon be valued at $3 billion](https://techcrunch.com/2024/10/03/investors-are-scrambling-to-get-into-elevenlabs-which-may-soon-be-valued-at-3-billion/)
 - [Announcing the final agenda for the Fintech Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-fintech-stage-at-techcrunch-disrupt-2024/)
 - [Announcing the final agenda for the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/03/announcing-the-final-agenda-for-the-space-stage-at-techcrunch-disrupt-2024/)
 - [James Webb Space Telescope finds supernova &#39;Hope&#39; that could finally resolve major astronomy debate](https://www.space.com/james-webb-space-telescope-hubble-tension-supernova-hope)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
