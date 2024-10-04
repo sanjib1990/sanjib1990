@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch SpaceX&#39;s Falcon Heavy rocket launch NASA&#39;s Europa Clipper probe on Oct. 10](https://www.space.com/spacex-falcon-heavy-europa-clipper-launch-webcast)
-- [The Browser Company launches Arc Search on Android](https://techcrunch.com/2024/10/04/the-browser-company-launches-arc-search-on-android/)
-- [Meta’s Movie Gen model puts out realistic video with sound, so we can finally have infinite Moo Deng](https://techcrunch.com/2024/10/04/metas-movie-gen-model-puts-out-realistic-video-with-sound-so-we-can-finally-have-infinite-moo-deng/)
-- [Dangerous satellite air pollution exists in a legal loophole](https://www.space.com/montreal-protocol-satellites-air-pollution)
-- [Many companies won’t say if they’ll comply with California’s AI training transparency law](https://techcrunch.com/2024/10/04/many-companies-wont-say-if-theyll-comply-with-californias-ai-training-transparency-law/)
+- [Kenya fines Baltic fintech Eleving’s local arm for misleading customers](https://techcrunch.com/2024/10/04/baltic-fintech-eleving-fined-in-kenya/)
+- [China aims to breed zebrafish aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-breed-zebrafish-tiangong-space-station-video)
+- [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/)
+- [YouTube apologizes for falsely banning channels for spam, canceling subscriptions](https://techcrunch.com/2024/10/04/youtube-apologizes-for-falsely-banning-channels-for-spam-canceling-subscriptions/)
+- [Gmail users on iOS can now ask Gemini questions about their emails](https://techcrunch.com/2024/10/04/gmail-users-on-ios-can-now-ask-gemini-questions-about-their-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
