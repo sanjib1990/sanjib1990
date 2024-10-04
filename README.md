@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/)
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2024/10/04/every-fusion-startup-that-has-raised-over-100m/)
+- [GM is working on an eyes-off, hands-off driving system](https://techcrunch.com/2024/10/04/gm-is-working-on-an-eyes-off-hands-off-driving-system/)
+- [Fisker faces SEC investigation as bankruptcy case drags on](https://techcrunch.com/2024/10/04/fisker-faces-sec-investigation-as-bankruptcy-case-drags-on/)
 - [NASA&#39;s exoplanet hunter TESS spots a record-breaking 3-star system](https://www.space.com/nasa-tess-record-breaking-three-star-system-tightly-packed)
-- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/)
-- [Amazon closes more of its cashierless convenience stores](https://techcrunch.com/2024/10/04/amazon-closes-more-of-its-cashierless-convenience-stores/)
-- [Why EnergyX raised $75M from small investors, even after taking VC money from GM and others](https://techcrunch.com/2024/10/04/why-energyx-raised-75m-from-small-investors-even-after-taking-vc-money-from-gm-and-others/)
-- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
