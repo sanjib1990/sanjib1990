@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Swiggy escalates India quick commerce battle with 10-minute meals](https://techcrunch.com/2024/10/04/swiggy-escalates-india-quick-commerce-battle-with-10-minute-meals/)
-- [College students confirm long-held prediction about atmospheric gravity waves](https://www.space.com/college-students-confirm-prediction-about-atmospheric-gravity-waves)
-- [Facebook launches a Gen Z-focused redesign](https://techcrunch.com/2024/10/04/facebook-launches-a-gen-z-focused-redesign/)
-- [Kenya fines Baltic fintech Eleving’s local arm for misleading customers](https://techcrunch.com/2024/10/04/baltic-fintech-eleving-fined-in-kenya/)
-- [China aims to breed zebrafish aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-breed-zebrafish-tiangong-space-station-video)
+- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/)
+- [Waymo picks its next robotaxi, Joby lands more Toyota bucks, and Cybertruck notches its fifth recall](https://techcrunch.com/2024/10/04/waymo-picks-its-next-robotaxi-joby-lands-more-toyota-bucks-and-cybertruck-notches-its-fifth-recall/)
+- [This Celestron beginner telescope is 18% off before Prime Day](https://www.space.com/celestron-70-travelscope-early-prime-day-deal-save-18-percent-2024)
+- [Detroit startup Grounded has a Lego-like way of designing EV vans for small businesses](https://techcrunch.com/2024/10/04/detroits-grounded-raises-3-5m-to-fuel-modular-electric-rv-plans/)
+- [Mark Zuckerberg is leg pressing chicken nuggets](https://techcrunch.com/2024/10/04/mark-zuckerberg-is-leg-pressing-chicken-nuggets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
