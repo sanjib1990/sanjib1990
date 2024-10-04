@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swiggy escalates India quick commerce battle with 10-minute meals](https://techcrunch.com/2024/10/04/swiggy-escalates-india-quick-commerce-battle-with-10-minute-meals/)
+- [College students confirm long-held prediction about atmospheric gravity waves](https://www.space.com/college-students-confirm-prediction-about-atmospheric-gravity-waves)
+- [Facebook launches a Gen Z-focused redesign](https://techcrunch.com/2024/10/04/facebook-launches-a-gen-z-focused-redesign/)
 - [Kenya fines Baltic fintech Eleving’s local arm for misleading customers](https://techcrunch.com/2024/10/04/baltic-fintech-eleving-fined-in-kenya/)
 - [China aims to breed zebrafish aboard Tiangong space station &lpar;video&rpar;](https://www.space.com/china-breed-zebrafish-tiangong-space-station-video)
-- [Check, Remote, and Gusto discuss the future of work at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/check-remote-and-gusto-discuss-the-future-of-work-at-techcrunch-disrupt-2024/)
-- [YouTube apologizes for falsely banning channels for spam, canceling subscriptions](https://techcrunch.com/2024/10/04/youtube-apologizes-for-falsely-banning-channels-for-spam-canceling-subscriptions/)
-- [Gmail users on iOS can now ask Gemini questions about their emails](https://techcrunch.com/2024/10/04/gmail-users-on-ios-can-now-ask-gemini-questions-about-their-emails/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
