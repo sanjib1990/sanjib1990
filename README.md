@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s Movie Gen model puts out realistic video with sound, so we can finally have infinite Moo Deng](https://techcrunch.com/2024/10/04/metas-movie-gen-model-puts-out-realistic-video-with-sound-so-we-can-finally-have-infinite-moo-deng/)
+- [Dangerous satellite air pollution exists in a legal loophole](https://www.space.com/montreal-protocol-satellites-air-pollution)
+- [Many companies won’t say if they’ll comply with California’s AI training transparency law](https://techcrunch.com/2024/10/04/many-companies-wont-say-if-theyll-comply-with-californias-ai-training-transparency-law/)
 - [ULA&#39;s new Vulcan Centaur rocket aces 2nd test launch](https://www.space.com/ula-vulcan-centaur-second-test-flight-launch-success)
 - [World Space Week 2024: How space technology arms scientists fighting climate change](https://www.space.com/space-technology-climate-change-world-space-week)
-- [Rivian deliveries fall as component shortage slows production](https://techcrunch.com/2024/10/04/rivian-deliveries-fall-component-shortage-slows-production/)
-- [Meta faces data retention limits on its EU ad business after top court ruling](https://techcrunch.com/2024/10/04/meta-faces-data-retention-limits-on-its-eu-ad-business-after-top-court-ruling/)
-- [Waymo’s next robotaxi will be the Hyundai IONIQ 5](https://techcrunch.com/2024/10/04/waymos-next-robotaxi-will-be-the-hyundai-ioniq-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
