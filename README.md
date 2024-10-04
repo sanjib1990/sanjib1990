@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ULA&#39;s new Vulcan Centaur rocket aces 2nd test launch](https://www.space.com/ula-vulcan-centaur-second-test-flight-launch-success)
+- [World Space Week 2024: How space technology arms scientists fighting climate change](https://www.space.com/space-technology-climate-change-world-space-week)
+- [Rivian deliveries fall as component shortage slows production](https://techcrunch.com/2024/10/04/rivian-deliveries-fall-component-shortage-slows-production/)
 - [Meta faces data retention limits on its EU ad business after top court ruling](https://techcrunch.com/2024/10/04/meta-faces-data-retention-limits-on-its-eu-ad-business-after-top-court-ruling/)
 - [Waymo’s next robotaxi will be the Hyundai IONIQ 5](https://techcrunch.com/2024/10/04/waymos-next-robotaxi-will-be-the-hyundai-ioniq-5/)
-- [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/)
-- [Even the ‘godmother of AI’ has no idea what AGI is](https://techcrunch.com/2024/10/03/even-the-godmother-of-ai-has-no-idea-what-agi-is/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
