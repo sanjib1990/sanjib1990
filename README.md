@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing the Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-startup-battlefield-200-at-techcrunch-disrupt-2024/)
-- [Waymo picks its next robotaxi, Joby lands more Toyota bucks, and Cybertruck notches its fifth recall](https://techcrunch.com/2024/10/04/waymo-picks-its-next-robotaxi-joby-lands-more-toyota-bucks-and-cybertruck-notches-its-fifth-recall/)
-- [This Celestron beginner telescope is 18% off before Prime Day](https://www.space.com/celestron-70-travelscope-early-prime-day-deal-save-18-percent-2024)
-- [Detroit startup Grounded has a Lego-like way of designing EV vans for small businesses](https://techcrunch.com/2024/10/04/detroits-grounded-raises-3-5m-to-fuel-modular-electric-rv-plans/)
-- [Mark Zuckerberg is leg pressing chicken nuggets](https://techcrunch.com/2024/10/04/mark-zuckerberg-is-leg-pressing-chicken-nuggets/)
+- [NASA&#39;s exoplanet hunter TESS spots a record-breaking 3-star system](https://www.space.com/nasa-tess-record-breaking-three-star-system-tightly-packed)
+- [Announcing the final agenda for the SaaS Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/announcing-the-final-agenda-for-the-saas-stage-at-techcrunch-disrupt-2024/)
+- [Amazon closes more of its cashierless convenience stores](https://techcrunch.com/2024/10/04/amazon-closes-more-of-its-cashierless-convenience-stores/)
+- [Why EnergyX raised $75M from small investors, even after taking VC money from GM and others](https://techcrunch.com/2024/10/04/why-energyx-raised-75m-from-small-investors-even-after-taking-vc-money-from-gm-and-others/)
+- [TechCrunch Disrupt 2024 Side Events schedule: Women in Tech, SignalFire, Llama Lounge, and more to host](https://techcrunch.com/2024/10/04/techcrunch-disrupt-2024-side-events-lineup-women-in-tech-signalfire-llama-lounge-and-more-to-host/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
