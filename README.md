@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo’s next robotaxi will be the Hyundai IONIQ 5](https://techcrunch.com/2024/10/04/waymos-next-robotaxi-will-be-the-hyundai-ioniq-5/)
 - [159 employees are leaving Automattic as CEO’s fight with WP Engine escalates](https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/)
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/04/wordpress-vs-wp-engine-drama-explained/)
 - [Even the ‘godmother of AI’ has no idea what AGI is](https://techcrunch.com/2024/10/03/even-the-godmother-of-ai-has-no-idea-what-agi-is/)
 - [Apple plans four new retail stores in India](https://techcrunch.com/2024/10/03/apple-plans-four-new-retail-stores-in-india/)
-- [A co-lead on Sora, OpenAI’s video generator, has left for Google](https://techcrunch.com/2024/10/03/a-co-lead-on-sora-openais-video-generator-has-left-for-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
