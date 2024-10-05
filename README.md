@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/)
 - [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/)
 - [Blue Origin to debut 2nd human-rated New Shepard rocket on Oct. 7 launch &lpar;photo&rpar;](https://www.space.com/blue-origin-new-shepard-vehicle-debut-ns-27-launch)
 - [YouTube apologizes for falsely banning channels for spam, canceling subscriptions](https://techcrunch.com/2024/10/04/youtube-apologizes-for-falsely-banning-channels-for-spam-canceling-subscriptions/)
 - [OpenAI secured more billions, but there’s still capital left for other startups](https://techcrunch.com/2024/10/04/openai-secured-more-billions-but-theres-still-capital-left-for-other-startups/)
-- [Every fusion startup that has raised over $100M](https://techcrunch.com/2024/10/04/every-fusion-startup-that-has-raised-over-100m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
