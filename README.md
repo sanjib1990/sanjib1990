@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Rookie Firebase mistake nearly destroys Arc browser](https://www.youtube.com/watch?v=QINoB1_OXUk)
+- [How an incredibly amateur mistake left Arc browser wide open to hackers](https://www.youtube.com/watch?v=QINoB1_OXUk)
 - [Maria From Brazil: An Open Learner’s Story](https://www.youtube.com/watch?v=fwxxoJanp4A)
 - [playing with the Rasperry Pi AI Camera](https://www.youtube.com/watch?v=o-a8Al3ZupI)
 - [Lecture 12: Ethics and Markets](https://www.youtube.com/watch?v=MVuXxWSrdNA)
