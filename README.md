@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s in the rug? How TikTok got swept into a real-time true crime story](https://techcrunch.com/2024/10/05/whats-in-the-rug-how-tiktok-got-swept-into-a-real-time-true-crime-story/)
 - [Fisker’s HQ abandoned in “complete disarray” with apparent hazardous waste, clay models left behind](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/)
 - [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/)
 - [This Week In Space podcast: Episode 131 —The Star Wars vs. Star Trek Food Fight](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-131-star-wars-vs-star-trek-food-fight)
 - [Ancient supermassive black hole is blowing galaxy-killing wind, James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-earliest-quasar-wind)
-- [5 ‘dumbphones’ that can still run WhatsApp](https://techcrunch.com/2024/10/05/5-dumbphones-that-can-still-run-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
