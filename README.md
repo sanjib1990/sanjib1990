@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ancient supermassive black hole is blowing galaxy-killing wind, James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-earliest-quasar-wind)
+- [5 ‘dumbphones’ that can still run WhatsApp](https://techcrunch.com/2024/10/05/5-dumbphones-that-can-still-run-whatsapp/)
 - [See Venus rendezvous with the crescent moon in the night sky tonight &lpar;Oct. 5&rpar;](https://www.space.com/venus-moon-conjunction-october-52024)
 - [How satellite data has proven climate change is a climate crisis](https://www.space.com/satellite-data-climate-change-crisis)
 - [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/)
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/04/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/)
-- [Blue Origin to debut 2nd human-rated New Shepard rocket on Oct. 7 launch &lpar;photo&rpar;](https://www.space.com/blue-origin-new-shepard-vehicle-debut-ns-27-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
