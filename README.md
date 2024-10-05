@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fisker’s HQ abandoned in “complete disarray” with apparent hazardous waste, clay models left behind](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/)
+- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/)
+- [This Week In Space podcast: Episode 131 —The Star Wars vs. Star Trek Food Fight](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-131-star-wars-vs-star-trek-food-fight)
 - [Ancient supermassive black hole is blowing galaxy-killing wind, James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-earliest-quasar-wind)
 - [5 ‘dumbphones’ that can still run WhatsApp](https://techcrunch.com/2024/10/05/5-dumbphones-that-can-still-run-whatsapp/)
-- [See Venus rendezvous with the crescent moon in the night sky tonight &lpar;Oct. 5&rpar;](https://www.space.com/venus-moon-conjunction-october-52024)
-- [How satellite data has proven climate change is a climate crisis](https://www.space.com/satellite-data-climate-change-crisis)
-- [The ‘Mozart of Math’ isn’t worried about AI replacing math nerds — ever](https://techcrunch.com/2024/10/04/the-mozart-of-math-isnt-worried-about-ai-replacing-math-nerds-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
