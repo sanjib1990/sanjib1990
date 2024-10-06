@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX will launch Europe&#39;s Hera asteroid probe on Oct. 7: Watch it live](https://www.space.com/esa-hera-mission-spacex-launch-livestream)
+- [CPO Paul Gubbay says Squarespace is training its AI tools with curation and taste](https://techcrunch.com/2024/10/06/cpo-paul-gubbay-says-squarespace-is-training-its-ai-tools-with-curation-and-taste/)
 - [Earth is a spaceship like the ISS — let me explain](https://www.space.com/earth-iss-sustainable-living-world-space-week)
 - [23andMe’s future prompts more worries, as genomic data analysis improves](https://techcrunch.com/2024/10/05/23andmes-future-prompts-more-worries-as-genomic-data-analysis-improves/)
 - [OpenAI closes the largest VC round of all time](https://techcrunch.com/2024/10/05/openai-closes-the-largest-vc-round-of-all-time/)
-- [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/)
-- [What’s in the rug? How TikTok got swept into a real-time true crime story](https://techcrunch.com/2024/10/05/whats-in-the-rug-how-tiktok-got-swept-into-a-real-time-true-crime-story/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
