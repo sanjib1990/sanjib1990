@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What it was like to experience the &#39;ring of fire&#39; solar eclipse on Easter Island](https://www.space.com/annular-solar-eclipse-easter-island-first-hand-experience)
+- [New York’s top VCs under 30](https://techcrunch.com/2024/10/06/new-yorks-top-vcs-under-30/)
 - [SpaceX will launch Europe&#39;s Hera asteroid probe on Oct. 7: Watch it live](https://www.space.com/esa-hera-mission-spacex-launch-livestream)
 - [CPO Paul Gubbay says Squarespace is training its AI tools with curation and taste](https://techcrunch.com/2024/10/06/cpo-paul-gubbay-says-squarespace-is-training-its-ai-tools-with-curation-and-taste/)
 - [Earth is a spaceship like the ISS — let me explain](https://www.space.com/earth-iss-sustainable-living-world-space-week)
-- [23andMe’s future prompts more worries, as genomic data analysis improves](https://techcrunch.com/2024/10/05/23andmes-future-prompts-more-worries-as-genomic-data-analysis-improves/)
-- [OpenAI closes the largest VC round of all time](https://techcrunch.com/2024/10/05/openai-closes-the-largest-vc-round-of-all-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
