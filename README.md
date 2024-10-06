@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [23andMe’s future prompts more worries, as genomic data analysis improves](https://techcrunch.com/2024/10/05/23andmes-future-prompts-more-worries-as-genomic-data-analysis-improves/)
 - [OpenAI closes the largest VC round of all time](https://techcrunch.com/2024/10/05/openai-closes-the-largest-vc-round-of-all-time/)
 - [New York tech investor and serial entrepreneur Kevin Ryan explains when to sell your company](https://techcrunch.com/2024/10/05/new-york-tech-investor-and-serial-entrepreneur-kevin-ryan-explains-when-to-sell-your-company/)
 - [What’s in the rug? How TikTok got swept into a real-time true crime story](https://techcrunch.com/2024/10/05/whats-in-the-rug-how-tiktok-got-swept-into-a-real-time-true-crime-story/)
 - [Fisker’s HQ abandoned in “complete disarray” with apparent hazardous waste, clay models left behind](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/)
-- [SoCreate wants to transform screenwriting software with AI imagery and community sharing tools](https://techcrunch.com/2024/10/05/socreate-wants-to-transform-screenwriting-software-with-ai-imagery-community-sharing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
