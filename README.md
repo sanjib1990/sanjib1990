@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/)
 - [Dwarf planet Ceres once had a muddy ocean, study suggests](https://www.space.com/dwarf-planet-ceres-muddy-ocean)
 - [Lucid Motors sets third straight quarterly sales record ahead of Gravity SUV launch](https://techcrunch.com/2024/10/07/lucid-motors-sets-third-straight-quarterly-sales-record-gravity-launch/)
 - [Comcast says customer data stolen in ransomware attack on debt collection agency](https://techcrunch.com/2024/10/07/comcast-says-customer-data-stolen-in-ransomware-attack-on-debt-collection-agency/)
 - [Save 10% on this BlissLights Sky Lite Evolve star projector this Prime Day](https://www.space.com/prime-day-star-projector-deal-save-10-percent-blisslights-october-2024)
-- [Scrubbed spacewalks, Starliner stay-overs and more: NASA astronaut Tracy C. Dyson discusses her eventful 6 months in orbit](https://www.space.com/nasa-astronaut-tracy-caldwell-dyson-post-flight-briefing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
