@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellite images capture Hurricane Milton intensifying into Category 5 storm &lpar;videos&rpar;](https://www.space.com/hurricane-milton-category-5-satellite-imagery)
+- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/)
+- [MoneyGram says hackers stole customers’ personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/)
 - [Emma Watson invests in reproductive health company Hertility](https://techcrunch.com/2024/10/07/emma-watson-invests-in-reproductive-health-company-hertility/)
 - [US judge orders Google to open up Google Play to rivals](https://techcrunch.com/2024/10/07/us-judge-orders-google-to-open-up-google-play-to-rivals/)
-- [Save 50% on your first month of Paramount Plus](https://www.space.com/paramount-plus-deal-save-50-percent-first-month-october-2024)
-- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/07/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/)
-- [The 30-year-old internet backdoor law that came back to bite](https://techcrunch.com/2024/10/07/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
