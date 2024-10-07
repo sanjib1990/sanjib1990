@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutterwave’s chief on the company’s executive hires, product focus, and IPO plans](https://techcrunch.com/2024/10/07/flutterwaves-ceo-agboola-on-hires-product-focus-and-future-plans/)
+- [Get $100 off with this Prime Day beginner telescope deal on the Celestron AstroMaster 114EQ](https://www.space.com/save-usd100-on-beginner-friendly-celestron-astromaster-114eq-at-amazon-prime-day-october-2024)
+- [James Webb Space Telescope studies dusty &#39;pancakes&#39; feeding baby stars and birthing planets](https://www.space.com/james-webb-space-telescope-dusty-pancakes-baby-stars)
 - [Ola Electric stock tumbles as complaints ratch up, and market share erodes](https://techcrunch.com/2024/10/07/ola-electric-olaelec-market-share/)
 - [Klarna is about to oust another board member](https://techcrunch.com/2024/10/06/klarna-is-about-to-oust-another-board-member/)
-- [SpaceX, NASA stand down from Oct. 10 Europa Clipper launch due to Hurricane Milton](https://www.space.com/spacex-nasa-europa-clipper-launch-delay-hurricane-milton)
-- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/)
-- [AWS CEO Matt Garman on generative AI, open source, and closing services](https://techcrunch.com/2024/10/06/aws-ceo-matt-garman-on-generative-ai-open-source-and-closing-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
