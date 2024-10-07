@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Emma Watson invests in reproductive health company Hertility](https://techcrunch.com/2024/10/07/emma-watson-invests-in-reproductive-health-company-hertility/)
+- [US judge orders Google to open up Google Play to rivals](https://techcrunch.com/2024/10/07/us-judge-orders-google-to-open-up-google-play-to-rivals/)
 - [Save 50% on your first month of Paramount Plus](https://www.space.com/paramount-plus-deal-save-50-percent-first-month-october-2024)
 - [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/07/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/)
 - [The 30-year-old internet backdoor law that came back to bite](https://techcrunch.com/2024/10/07/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/)
-- [India regulator issues notice to Ola Electric over consumer rights concerns](https://techcrunch.com/2024/10/07/india-regulator-issues-notice-to-ola-electric-over-consumer-rights-concerns/)
-- [&#39;The Ark&#39; creators on Season 2&#39;s finale, alien artifacts and the colonists&#39; next destination &lpar;exclusive&rpar;](https://www.space.com/ark-creators-season-2-finale-alien-artifacts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
