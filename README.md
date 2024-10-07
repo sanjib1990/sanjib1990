@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 50% on your first month of Paramount Plus](https://www.space.com/paramount-plus-deal-save-50-percent-first-month-october-2024)
+- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/07/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/)
+- [The 30-year-old internet backdoor law that came back to bite](https://techcrunch.com/2024/10/07/the-30-year-old-internet-backdoor-law-that-came-back-to-bite/)
 - [India regulator issues notice to Ola Electric over consumer rights concerns](https://techcrunch.com/2024/10/07/india-regulator-issues-notice-to-ola-electric-over-consumer-rights-concerns/)
 - [&#39;The Ark&#39; creators on Season 2&#39;s finale, alien artifacts and the colonists&#39; next destination &lpar;exclusive&rpar;](https://www.space.com/ark-creators-season-2-finale-alien-artifacts)
-- [Tesla’s head of vehicle programs jumps to Waymo ahead of Robotaxi reveal](https://techcrunch.com/2024/10/07/teslas-head-of-vehicle-programs-jumps-to-waymo-ahead-of-robotaxi-reveal/)
-- [How to watch &#39;Solar System&#39; online and from anywhere – Brian Cox&#39;s five-part series](https://www.space.com/entertainment/space-movies-shows/watch-solar-system-online-and-on-tv)
-- [Apple fixes bugs in macOS Sequoia that broke some cybersecurity tools](https://techcrunch.com/2024/10/07/apple-fixes-bugs-in-macos-sequoia-that-broke-some-cybersecurity-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
