@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/)
-- [Dwarf planet Ceres once had a muddy ocean, study suggests](https://www.space.com/dwarf-planet-ceres-muddy-ocean)
-- [Lucid Motors sets third straight quarterly sales record ahead of Gravity SUV launch](https://techcrunch.com/2024/10/07/lucid-motors-sets-third-straight-quarterly-sales-record-gravity-launch/)
-- [Comcast says customer data stolen in ransomware attack on debt collection agency](https://techcrunch.com/2024/10/07/comcast-says-customer-data-stolen-in-ransomware-attack-on-debt-collection-agency/)
-- [Save 10% on this BlissLights Sky Lite Evolve star projector this Prime Day](https://www.space.com/prime-day-star-projector-deal-save-10-percent-blisslights-october-2024)
+- [Ancient ruins are under threat. Here&#39;s how archaeologists are getting help from space &lpar;exclusive&rpar;](https://www.space.com/archaeologists-satellites-map-threats-ruins)
+- [SpaceX rocket launches Europe&#39;s Hera planetary defense probe to visit asteroid smacked by NASA](https://www.space.com/spacex-esa-hera-asteroid-mission-launch-success)
+- [American Water warns of billing outages after finding hackers in its systems](https://techcrunch.com/2024/10/07/american-water-warns-of-billing-outages-after-finding-hackers-in-its-systems/)
+- [Join us for the future of launch on the Space Stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/join-us-for-the-future-of-launch-on-the-space-stage-at-techcrunch-disrupt-2024/)
+- [Could Earth&#39;s &#39;evil twin&#39; Venus carry a dire warning about climate change?](https://www.space.com/venus-earth-greenhouse-gases-climate-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
