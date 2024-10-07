@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/)
 - [AWS CEO Matt Garman on generative AI, open source, and closing services](https://techcrunch.com/2024/10/06/aws-ceo-matt-garman-on-generative-ai-open-source-and-closing-services/)
 - [Tony Fadell-backed Plumerai brings on-device AI to home security cameras](https://techcrunch.com/2024/10/06/tony-fadell-backed-plumerai-brings-on-device-ai-to-home-security-cameras/)
 - [What it was like to experience the &#39;ring of fire&#39; solar eclipse on Easter Island](https://www.space.com/annular-solar-eclipse-easter-island-first-hand-experience)
 - [New York’s top VCs under 30](https://techcrunch.com/2024/10/06/new-yorks-top-vcs-under-30/)
-- [SpaceX will launch Europe&#39;s Hera asteroid probe on Oct. 7: Watch it live](https://www.space.com/esa-hera-mission-spacex-launch-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
