@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/)
 - [Satellite images capture Hurricane Milton intensifying into Category 5 storm &lpar;videos&rpar;](https://www.space.com/hurricane-milton-category-5-satellite-imagery)
 - [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/)
 - [MoneyGram says hackers stole customers’ personal information and transaction data](https://techcrunch.com/2024/10/07/moneygram-says-hackers-stole-customers-personal-information-and-transaction-data/)
 - [Emma Watson invests in reproductive health company Hertility](https://techcrunch.com/2024/10/07/emma-watson-invests-in-reproductive-health-company-hertility/)
-- [US judge orders Google to open up Google Play to rivals](https://techcrunch.com/2024/10/07/us-judge-orders-google-to-open-up-google-play-to-rivals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
