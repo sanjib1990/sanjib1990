@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ola Electric stock tumbles as complaints ratch up, and market share erodes](https://techcrunch.com/2024/10/07/ola-electric-olaelec-market-share/)
 - [Klarna is about to oust another board member](https://techcrunch.com/2024/10/06/klarna-is-about-to-oust-another-board-member/)
 - [SpaceX, NASA stand down from Oct. 10 Europa Clipper launch due to Hurricane Milton](https://www.space.com/spacex-nasa-europa-clipper-launch-delay-hurricane-milton)
 - [StrictlyVC comes to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/06/strictlyvc-comes-to-techcrunch-disrupt-2024/)
 - [AWS CEO Matt Garman on generative AI, open source, and closing services](https://techcrunch.com/2024/10/06/aws-ceo-matt-garman-on-generative-ai-open-source-and-closing-services/)
-- [Tony Fadell-backed Plumerai brings on-device AI to home security cameras](https://techcrunch.com/2024/10/06/tony-fadell-backed-plumerai-brings-on-device-ai-to-home-security-cameras/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
