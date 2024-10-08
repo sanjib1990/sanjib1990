@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chainalysis CEO Michael Gronager steps down in move described as temporary](https://techcrunch.com/2024/10/07/chainalysis-ceo-michael-gronager-steps-down-in-move-described-as-temporary/)
 - [General Catalyst is working on a ‘continuation’ fund worth up to $1B, sources say](https://techcrunch.com/2024/10/07/general-catalyst-is-working-on-a-continuation-fund-worth-up-to-1b-sources-say/)
 - [VC firm NFX laid off 4 employees and plans to hire more investors](https://techcrunch.com/2024/10/07/vc-firm-nfx-laid-off-4-employees-and-plans-to-hire-more-investors/)
 - [Meet the ScaleUp Startups exhibiting at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/07/meet-the-scaleup-startups-exhibiting-at-techcrunch-disrupt-2024/)
 - [VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%](https://techcrunch.com/2024/10/07/vessl-ai-secures-12m-for-its-mlops-platform/)
-- [Satellite images capture Hurricane Milton intensifying into Category 5 storm &lpar;videos&rpar;](https://www.space.com/hurricane-milton-category-5-satellite-imagery)
 <!-- BLOG-POST-LIST:END -->
 
 ---
