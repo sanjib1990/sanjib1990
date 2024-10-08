@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rocket snaps amazing views of Earth during Hera asteroid probe launch &lpar;photos&rpar;](https://www.space.com/spacex-falcon-9-hera-launch-earth-photos)
 - [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/)
 - [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/)
 - [Roli Airwave system uses AI and hand tracking to teach piano](https://techcrunch.com/2024/10/08/roli-airwave-system-uses-ai-and-hand-tracking-to-teach-piano/)
 - [Adobe proposes a way to protect artists from AI ripoffs](https://techcrunch.com/2024/10/08/adobe-proposes-a-way-to-protect-artists-from-ai-ripoffs/)
-- [Google’s partnership with SpotHero brings parking reservations to Maps and Search](https://techcrunch.com/2024/10/08/google-partners-with-spothero-convenient-parking-reservations-maps-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
