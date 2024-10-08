@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX eyes Oct. 13 for next Starship launch, pending FAA approval](https://www.space.com/spacex-starship-flight-5-target-oct-13-pending-faa)
+- [The sun fires off another powerful X flare, triggering radio blackouts across the Americas &lpar;video&rpar;](https://www.space.com/sun-x2-solar-flare-october-2024)
+- [Code in Meta’s Threads app references a communities feature, similar to Elon Musk’s X](https://techcrunch.com/2024/10/08/metas-threads-app-references-a-communities-feature-similar-to-elon-musks-x/)
 - [The dazzling Comet Tsuchinshan-ATLAS is emerging in the night sky: How to see it](https://www.space.com/comet-tsuchinshan-atlas-bright-night-sky)
 - [US needs &#39;space rescue service&#39; to help astronauts in distress, experts say](https://www.space.com/us-needs-space-rescue-service-astronauts-distress)
-- [Former Google Maps engineers get Sequioa backing to build out an AI-powered collboration board](https://techcrunch.com/2024/10/08/former-google-maps-engineers-get-sequioa-backing-to-build-out-an-ai-powered-collboration-board/)
-- [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/08/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
