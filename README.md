@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX rocket snaps amazing views of Earth during Hera asteroid probe launch &lpar;photos&rpar;](https://www.space.com/spacex-falcon-9-hera-launch-earth-photos)
-- [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/)
-- [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/)
-- [Roli Airwave system uses AI and hand tracking to teach piano](https://techcrunch.com/2024/10/08/roli-airwave-system-uses-ai-and-hand-tracking-to-teach-piano/)
-- [Adobe proposes a way to protect artists from AI ripoffs](https://techcrunch.com/2024/10/08/adobe-proposes-a-way-to-protect-artists-from-ai-ripoffs/)
+- [Honda gave us a sneak peek of its 0 Series EVs — here’s what we learned](https://techcrunch.com/2024/10/08/honda-0-series-ev-sneak-peek-prototype/)
+- [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce 2030 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/)
+- [Prime Day VR deal: Best high-resolution model at its lowest price](https://www.space.com/htc-vive-pro-2-prime-day-lowest-price-deal-42-percent)
+- [Gropyus plans to use robots to help rebuild Ukraine better and faster](https://techcrunch.com/2024/10/08/gropyus-plans-to-use-robots-to-help-rebuild-ukraine-better-and-faster/)
+- [X rival Mastodon rolls out revamped notifications, a refreshed look and more](https://techcrunch.com/2024/10/08/x-rival-mastodon-rolls-out-revamped-notifications-a-refreshed-look-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
