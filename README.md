@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Rocket Lab come to NASA&#39;s rescue with new Mars sample-return plan?](https://www.space.com/rocket-lab-mars-sample-return-proposal-nasa)
+- [Dragon&#39;s-eye view: Astronaut captures amazing shots of Hurricane Milton from space &lpar;photos&rpar;](https://www.space.com/nasa-astronaut-matthew-dominick-hurricane-milton-iss-spacex-dragon)
+- [Tesla Robotaxi reveal: What to expect](https://techcrunch.com/2024/10/08/tesla-robotaxi-reveal-what-to-expect/)
+- [AI mortgage startup LoanSnap loses license to operate in Connecticut](https://techcrunch.com/2024/10/08/ai-mortgage-startup-loansnap-loses-license-to-operate-in-connecticut/)
 - [Review: &#39;The Wild Robot&#39; is a lyrical ode to planetary love and parenthood](https://www.space.com/the-wild-robot-peter-brown-review)
-- [Fourteen AGs sue TikTok, claiming that it harms children’s mental health](https://techcrunch.com/2024/10/08/fourteen-ags-sue-tiktok-claiming-that-it-harms-childrens-mental-health/)
-- [North American robotics sales declined in first half of 2024](https://techcrunch.com/2024/10/08/north-american-robotics-sales-declined-in-first-half-of-2024/)
-- [SpaceX eyes Oct. 13 for next Starship launch, pending FAA approval](https://www.space.com/spacex-starship-flight-5-target-oct-13-pending-faa)
-- [The sun fires off another powerful X flare, triggering radio blackouts across the Americas &lpar;video&rpar;](https://www.space.com/sun-x2-solar-flare-october-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
