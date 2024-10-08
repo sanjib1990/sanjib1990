@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Alien: Romulus&#39; leaps onto home video and streaming in 4K UHD, Blu-ray and DVD](https://www.space.com/alien-romulus-digital-home-video-release)
-- [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce 2030 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/)
-- [Kasperksy says it’s closing down its UK office and laying off dozens](https://techcrunch.com/2024/10/08/kasperksy-says-its-closing-down-its-uk-office-and-laying-off-dozens/)
-- [Fisker bankruptcy hits major speed bump as fleet sale is now in question](https://techcrunch.com/2024/10/08/fisker-bankruptcy-hits-major-speed-bump-as-fleet-sale-is-now-in-question/)
-- [Walmart has Prime Day beat with this Sony A7R V camera deal](https://www.space.com/walmart-has-prime-day-beat-sony-a7r-v-camera-deal)
+- [The dazzling Comet Tsuchinshan-ATLAS is emerging in the night sky: How to see it](https://www.space.com/comet-tsuchinshan-atlas-bright-night-sky)
+- [US needs &#39;space rescue service&#39; to help astronauts in distress, experts say](https://www.space.com/us-needs-space-rescue-service-astronauts-distress)
+- [Former Google Maps engineers get Sequioa backing to build out an AI-powered collboration board](https://techcrunch.com/2024/10/08/former-google-maps-engineers-get-sequioa-backing-to-build-out-an-ai-powered-collboration-board/)
+- [Unify, an OpenAI Converge accelerator grad, lands $12M for ‘warm outbound’ messages](https://techcrunch.com/2024/10/08/unify-an-openai-converge-accelerator-grad-lands-12m-for-warm-outbound-messages/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/08/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
