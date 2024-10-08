@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, SpaceX delay Crew-8 astronauts&#39; homecoming to Oct. 13 due to Hurricane Milton](https://www.space.com/spacex-crew-8-astronauts-return-earth-delay-hurricane-milton)
+- [Uber to launch OpenAI-powered AI assistant to answer driver EV questions](https://techcrunch.com/2024/10/08/uber-to-launch-openai-powered-ai-assistant-to-answer-driver-ev-questions/)
 - [Open source BI platform Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/)
 - [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning too](https://techcrunch.com/2024/10/07/revyze-seed-round/)
 - [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/)
-- [Chainalysis CEO Michael Gronager steps down in move described as temporary](https://techcrunch.com/2024/10/07/chainalysis-ceo-michael-gronager-steps-down-in-move-described-as-temporary/)
-- [General Catalyst is working on a ‘continuation’ fund worth up to $1B, sources say](https://techcrunch.com/2024/10/07/general-catalyst-is-working-on-a-continuation-fund-worth-up-to-1b-sources-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
