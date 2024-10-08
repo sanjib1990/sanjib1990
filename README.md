@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce for Tomorrow at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/)
+- [X is cleared to go back online in Brazil](https://techcrunch.com/2024/10/08/x-is-cleared-to-go-back-online-in-brazil/)
 - [Record-breaking ancient spinning galaxy challenges cosmic evolution theories](https://www.space.com/the-universe/record-breaking-ancient-galaxy-challenges-cosmic-evolution-theories)
 - [Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider](https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/)
 - [The White House joins Reddit and shares hurricane information](https://techcrunch.com/2024/10/08/the-white-house-joins-reddit-and-shares-hurricane-information/)
-- [On TikTok, pop culture prevails over news and politics](https://techcrunch.com/2024/10/08/on-tiktok-pop-culture-prevails-over-news-and-politics/)
-- [Can Rocket Lab come to NASA&#39;s rescue with new Mars sample-return plan?](https://www.space.com/rocket-lab-mars-sample-return-proposal-nasa)
 <!-- BLOG-POST-LIST:END -->
 
 ---
