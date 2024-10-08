@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lithios takes inspiration from battery manufacturing to mine lithium from salty water](https://techcrunch.com/2024/10/08/lithios-takes-inspiration-from-battery-manufacturing-to-mine-lithium-from-salty-water/)
-- [NASA, SpaceX delay Crew-8 astronauts&#39; homecoming to Oct. 13 due to Hurricane Milton](https://www.space.com/spacex-crew-8-astronauts-return-earth-delay-hurricane-milton)
-- [Uber to launch OpenAI-powered AI assistant to answer driver EV questions](https://techcrunch.com/2024/10/08/uber-to-launch-openai-powered-ai-assistant-to-answer-driver-ev-questions/)
-- [Open source BI platform Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/)
-- [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning too](https://techcrunch.com/2024/10/07/revyze-seed-round/)
+- [Driver launches an AI-powered platform for creating technical documentation](https://techcrunch.com/2024/10/08/driver-launches-an-ai-powered-platform-for-creating-technical-documentation/)
+- [4 futuristic space technologies — and when they might happen](https://www.space.com/future-space-technologies-world-space-week)
+- [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/)
+- [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/)
+- [Best budget star projector now 62% cheaper for Prime Day](https://www.space.com/stargazing/astronomy-kit/best-budget-star-projector-now-62-percent-cheaper-for-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
