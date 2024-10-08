@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lithios takes inspiration from battery manufacturing to mine lithium from salty water](https://techcrunch.com/2024/10/08/lithios-takes-inspiration-from-battery-manufacturing-to-mine-lithium-from-salty-water/)
 - [NASA, SpaceX delay Crew-8 astronauts&#39; homecoming to Oct. 13 due to Hurricane Milton](https://www.space.com/spacex-crew-8-astronauts-return-earth-delay-hurricane-milton)
 - [Uber to launch OpenAI-powered AI assistant to answer driver EV questions](https://techcrunch.com/2024/10/08/uber-to-launch-openai-powered-ai-assistant-to-answer-driver-ev-questions/)
 - [Open source BI platform Lightdash gets Accel’s backing to bring AI to business intelligence](https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/)
 - [Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning too](https://techcrunch.com/2024/10/07/revyze-seed-round/)
-- [French biotech Generare speeds up hunt for new drugs by cloning natural molecules](https://techcrunch.com/2024/10/07/french-biotech-generare-speeds-up-hunt-for-new-drugs-by-cloning-natural-molecules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
