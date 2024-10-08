@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Honda gave us a sneak peek of its 0 Series EVs — here’s what we learned](https://techcrunch.com/2024/10/08/honda-0-series-ev-sneak-peek-prototype/)
+- [&#39;Alien: Romulus&#39; leaps onto home video and streaming in 4K UHD, Blu-ray and DVD](https://www.space.com/alien-romulus-digital-home-video-release)
 - [Announcing True Anomaly, Slingshot Aerospace, and Space Workforce 2030 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/announcing-true-anomaly-slingshot-aerospace-and-space-workforce-2030-at-techcrunchdisrupt-2024/)
-- [Prime Day VR deal: Best high-resolution model at its lowest price](https://www.space.com/htc-vive-pro-2-prime-day-lowest-price-deal-42-percent)
-- [Gropyus plans to use robots to help rebuild Ukraine better and faster](https://techcrunch.com/2024/10/08/gropyus-plans-to-use-robots-to-help-rebuild-ukraine-better-and-faster/)
-- [X rival Mastodon rolls out revamped notifications, a refreshed look and more](https://techcrunch.com/2024/10/08/x-rival-mastodon-rolls-out-revamped-notifications-a-refreshed-look-and-more/)
+- [Kasperksy says it’s closing down its UK office and laying off dozens](https://techcrunch.com/2024/10/08/kasperksy-says-its-closing-down-its-uk-office-and-laying-off-dozens/)
+- [Fisker bankruptcy hits major speed bump as fleet sale is now in question](https://techcrunch.com/2024/10/08/fisker-bankruptcy-hits-major-speed-bump-as-fleet-sale-is-now-in-question/)
+- [Walmart has Prime Day beat with this Sony A7R V camera deal](https://www.space.com/walmart-has-prime-day-beat-sony-a7r-v-camera-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
