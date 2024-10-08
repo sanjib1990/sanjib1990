@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Record-breaking ancient spinning galaxy challenges cosmic evolution theories](https://www.space.com/the-universe/record-breaking-ancient-galaxy-challenges-cosmic-evolution-theories)
 - [Fei-Fei Li picks Google Cloud, where she led AI, as World Labs’ main compute provider](https://techcrunch.com/2024/10/08/fei-fei-li-picks-google-cloud-where-she-led-ai-as-world-labs-main-compute-provider/)
 - [The White House joins Reddit and shares hurricane information](https://techcrunch.com/2024/10/08/the-white-house-joins-reddit-and-shares-hurricane-information/)
 - [On TikTok, pop culture prevails over news and politics](https://techcrunch.com/2024/10/08/on-tiktok-pop-culture-prevails-over-news-and-politics/)
 - [Can Rocket Lab come to NASA&#39;s rescue with new Mars sample-return plan?](https://www.space.com/rocket-lab-mars-sample-return-proposal-nasa)
-- [Dragon&#39;s-eye view: Astronaut captures amazing shots of Hurricane Milton from space &lpar;photos&rpar;](https://www.space.com/nasa-astronaut-matthew-dominick-hurricane-milton-iss-spacex-dragon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
