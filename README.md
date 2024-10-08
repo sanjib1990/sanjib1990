@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Driver launches an AI-powered platform for creating technical documentation](https://techcrunch.com/2024/10/08/driver-launches-an-ai-powered-platform-for-creating-technical-documentation/)
-- [4 futuristic space technologies — and when they might happen](https://www.space.com/future-space-technologies-world-space-week)
-- [TensorWave thinks it can break Nvidia’s grip on AI compute with an AMD-powered cloud](https://techcrunch.com/2024/10/08/tensorwave-claims-its-amd-powered-cloud-for-ai-will-give-nvidia-a-run-for-its-money/)
-- [Generative AI fact-checking firm Infactory lands a $4M seed](https://techcrunch.com/2024/10/08/generative-ai-fact-checking-firm-infactory-lands-a-4m-seed/)
-- [Best budget star projector now 62% cheaper for Prime Day](https://www.space.com/stargazing/astronomy-kit/best-budget-star-projector-now-62-percent-cheaper-for-prime-day)
+- [Dave Clark, formerly of Amazon and Flexport, just landed $100M for new supply chain venture](https://techcrunch.com/2024/10/08/dave-clark-formerly-of-amazon-and-flexport-just-landed-100m-for-new-supply-chain-venture/)
+- [Distributional raises $19M to automate AI model and app testing](https://techcrunch.com/2024/10/08/distributional-raises-19m-to-automate-ai-model-and-app-testing/)
+- [Roli Airwave system uses AI and hand tracking to teach piano](https://techcrunch.com/2024/10/08/roli-airwave-system-uses-ai-and-hand-tracking-to-teach-piano/)
+- [Adobe proposes a way to protect artists from AI ripoffs](https://techcrunch.com/2024/10/08/adobe-proposes-a-way-to-protect-artists-from-ai-ripoffs/)
+- [Google’s partnership with SpotHero brings parking reservations to Maps and Search](https://techcrunch.com/2024/10/08/google-partners-with-spothero-convenient-parking-reservations-maps-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
