@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review: &#39;The Wild Robot&#39; is a lyrical ode to planetary love and parenthood](https://www.space.com/the-wild-robot-peter-brown-review)
+- [Fourteen AGs sue TikTok, claiming that it harms children’s mental health](https://techcrunch.com/2024/10/08/fourteen-ags-sue-tiktok-claiming-that-it-harms-childrens-mental-health/)
+- [North American robotics sales declined in first half of 2024](https://techcrunch.com/2024/10/08/north-american-robotics-sales-declined-in-first-half-of-2024/)
 - [SpaceX eyes Oct. 13 for next Starship launch, pending FAA approval](https://www.space.com/spacex-starship-flight-5-target-oct-13-pending-faa)
 - [The sun fires off another powerful X flare, triggering radio blackouts across the Americas &lpar;video&rpar;](https://www.space.com/sun-x2-solar-flare-october-2024)
-- [Code in Meta’s Threads app references a communities feature, similar to Elon Musk’s X](https://techcrunch.com/2024/10/08/metas-threads-app-references-a-communities-feature-similar-to-elon-musks-x/)
-- [The dazzling Comet Tsuchinshan-ATLAS is emerging in the night sky: How to see it](https://www.space.com/comet-tsuchinshan-atlas-bright-night-sky)
-- [US needs &#39;space rescue service&#39; to help astronauts in distress, experts say](https://www.space.com/us-needs-space-rescue-service-astronauts-distress)
 <!-- BLOG-POST-LIST:END -->
 
 ---
