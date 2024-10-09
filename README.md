@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save almost $300 on my favorite MacBook Air for Prime Day 2024](https://www.space.com/save-almost-300-dollars-macbook-air-prime-day-laptop-deal-2024)
+- [See 1st trailer for Bong Joon Ho’s sci-fi comedy &#39;Mickey 17&#39; starring Robert Pattinson &lpar;video&rpar;](https://www.space.com/mickey-17-1st-trailer-robert-pattinson)
+- [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/)
+- [Last chance Prime Day streaming deal: 21% off Roku Ultra](https://www.space.com/roku-ultra-october-prime-day-deal-save-21-percent)
 - [Amazon revamps Ring subscriptions with AI video search](https://techcrunch.com/2024/10/09/amazon-revamps-ring-subscriptions-with-ai-video-search/)
-- [How sweet is space? The answer may reveal clues about how life began](https://www.space.com/how-sweet-is-space-may-reveal-origins-of-life)
-- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/)
-- [Billionaire Robinhood co-founder launches Aetherflux, a space-based solar power startup](https://techcrunch.com/2024/10/09/billionaire-robinhood-co-founder-launches-aetherflux-a-space-based-solar-power-startup/)
-- [I have reviewed all of the best star projectors and these are the only Prime Day deals worth considering](https://www.space.com/i-have-reviewed-all-the-best-star-projectors-these-are-only-prime-day-deals-worth-considering-october-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
