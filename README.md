@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepMind’s Demis Hassabis and John Jumper scoop Nobel Prize in Chemistry for AlphaFold](https://techcrunch.com/2024/10/09/deepminds-demis-hassabis-and-john-jumper-scoop-nobel-prize-in-chemistry-for-alphafold/)
+- [Basecamp Research taps $60M to build a ‘GPT for biology’](https://techcrunch.com/2024/10/09/basecamp-research-taps-60m-to-build-a-gpt-for-biology/)
 - [These space tech spinoffs are helping scientists fight climate change](https://www.space.com/how-space-technology-aids-climate-change)
 - [Luke Skywalker Force FX Elite Lightsaber is now at its lowest-ever price for Prime Day](https://www.space.com/lowest-ever-price-luke-skywalker-lightsaber-prime-day-october-2024)
 - [US government considers historic break-up of Google in antitrust case](https://techcrunch.com/2024/10/09/us-government-considers-historic-break-up-of-google-in-antitrust-case/)
-- [Meta is testing a feature to let you post Instagram Reels directly on Threads](https://techcrunch.com/2024/10/09/meta-is-testing-a-feature-to-let-you-post-instagram-reels-directly-on-threads/)
-- [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
