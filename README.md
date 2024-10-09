@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is testing a feature to let you post Instagram Reels directly on Threads](https://techcrunch.com/2024/10/09/meta-is-testing-a-feature-to-let-you-post-instagram-reels-directly-on-threads/)
+- [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/)
 - [Atlassian’s Jira has had it with your issues](https://techcrunch.com/2024/10/09/atlassians-jira-has-had-it-with-your-issues/)
 - [Atlassian’s Rovo AI is now generally available](https://techcrunch.com/2024/10/09/atlassians-rovo-ai-is-now-generally-available/)
 - [The Boring Company’s Las Vegas loop is attracting riders, and trespassers](https://techcrunch.com/2024/10/08/the-boring-companys-las-vegas-loop-is-attracting-riders-and-trespassers/)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/08/wordpress-vs-wp-engine-drama-explained/)
-- [Ashton Kutcher, Effie Epstein, and Guy Oseary are coming to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/08/ashton-kutcher-effie-epstein-and-guy-oseary-are-coming-to-techcrunch-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
