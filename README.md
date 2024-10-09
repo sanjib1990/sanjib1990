@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Severe solar storm could supercharge auroras across US, impact power grids, NOAA warns](https://www.space.com/severe-solar-storm-geomagnetic-storm-auroras-power-grids-october-10-11-2024)
 - [Tesla Robotaxi reveal: What to expect](https://techcrunch.com/2024/10/09/tesla-robotaxi-reveal-what-to-expect/)
 - [Comet Tsuchinshan-ATLAS photobombs SOHO spacecraft during powerful solar flare &lpar;video&rpar;](https://www.space.com/comet-tsuchinshan-atlas-soho-solar-flare-video)
 - [You can now buy songs from Green Day’s ‘Dookie’ in lo-fi formats like doorbell chime and wax cylinder](https://techcrunch.com/2024/10/09/you-can-now-buy-songs-from-green-days-dookie-in-lo-fi-formats-like-doorbell-chime-and-wax-cylinder/)
 - [Russia is banning Discord, an app its military uses](https://techcrunch.com/2024/10/09/russia-is-banning-discord-an-app-its-military-uses/)
-- [India’s Star Health confirms data breach after cybercriminals post customers’ health data online](https://techcrunch.com/2024/10/09/indias-star-health-confirms-data-breach-after-cybercriminals-post-customers-health-data-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
