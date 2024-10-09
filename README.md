@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week in AI: Tech giants embrace synthetic data](https://techcrunch.com/2024/10/09/this-week-in-ai-tech-giants-embrace-synthetic-data/)
+- [Zoom’s custom AI avatar tool may come with risks](https://techcrunch.com/2024/10/09/zooms-custom-ai-avatar-tool-may-come-with-risks/)
+- [Palantir now owns nearly 9% of EV startup Faraday Future — here’s why](https://techcrunch.com/2024/10/09/palantir-now-owns-nearly-9-percent-of-ev-startup-faraday-future/)
 - [Prime Day final hours: Celestron AstroMaster 130EQ still 31% off](https://www.space.com/celestron-astromaster-130-eq-prime-day-save-31-percent-2024)
 - [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/)
-- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/)
-- [James Webb Space Telescope watches a frozen, comet-like object shooting jets of gas](https://www.space.com/james-webb-space-telescope-watches-frozen-comet-like-object-shooting-gas-jets)
-- [Amazon makes shopping for groceries online less confusing](https://techcrunch.com/2024/10/09/amazon-makes-shopping-for-groceries-online-less-confusing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
