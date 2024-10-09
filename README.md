@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comet Tsuchinshan-ATLAS photobombs SOHO spacecraft during powerful solar flare &lpar;video&rpar;](https://www.space.com/comet-tsuchinshan-atlas-soho-solar-flare-video)
+- [You can now buy songs from Green Day’s ‘Dookie’ in lo-fi formats like doorbell chime and wax cylinder](https://techcrunch.com/2024/10/09/you-can-now-buy-songs-from-green-days-dookie-in-lo-fi-formats-like-doorbell-chime-and-wax-cylinder/)
+- [Russia is banning Discord, an app its military uses](https://techcrunch.com/2024/10/09/russia-is-banning-discord-an-app-its-military-uses/)
+- [India’s Star Health confirms data breach after cybercriminals post customers’ health data online](https://techcrunch.com/2024/10/09/indias-star-health-confirms-data-breach-after-cybercriminals-post-customers-health-data-online/)
 - [TezLab launches new AI-powered ‘car reports’ for Tesla and Rivian EVs](https://techcrunch.com/2024/10/09/tezlab-launches-new-ai-powered-car-reports-for-tesla-and-rivian-evs/)
-- [Official &#39;Star Trek&#39; magazine ends an impressive 30-year run in December](https://www.space.com/official-star-trek-magazine-ends-an-impressive-30-year-run-in-december)
-- [X changes creator payouts to depend on engagement, not ads](https://techcrunch.com/2024/10/09/x-changes-creator-payouts-to-depend-on-engagement-not-ads/)
-- [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/)
-- [Astronauts could mine asteroids for food someday, scientists say](https://www.space.com/mining-asteroids-food-deep-space-missions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
