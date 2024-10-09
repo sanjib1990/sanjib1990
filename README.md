@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/09/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/)
-- [Amazon’s new warehouses will employ 10x as many robots](https://techcrunch.com/2024/10/09/amazons-new-warehouses-will-employ-10x-as-many-robots/)
-- [Gateway gift: Northrop Grumman delivers lunar-orbit hab for Space Center Houston display](https://www.space.com/artemis-gateway-halo-mockup-northrop-grumman-space-center-houston)
-- [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/)
-- [Amazon debuts AI-powered Shopping Guides](https://techcrunch.com/2024/10/09/amazon-debuts-ai-powered-shopping-guides/)
+- [Prime Day final hours: Celestron AstroMaster 130EQ still 31% off](https://www.space.com/celestron-astromaster-130-eq-prime-day-save-31-percent-2024)
+- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/)
+- [European unicorn Alan becomes Canada’s first new health insurance company in almost 70 years](https://techcrunch.com/2024/10/09/european-unicorn-alan-becomes-canadas-first-new-health-insurance-company-in-almost-70-years/)
+- [James Webb Space Telescope watches a frozen, comet-like object shooting jets of gas](https://www.space.com/james-webb-space-telescope-watches-frozen-comet-like-object-shooting-gas-jets)
+- [Amazon makes shopping for groceries online less confusing](https://techcrunch.com/2024/10/09/amazon-makes-shopping-for-groceries-online-less-confusing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
