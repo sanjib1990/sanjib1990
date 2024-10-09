@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US government considers historic break-up of Google in antitrust case](https://techcrunch.com/2024/10/09/us-government-considers-historic-break-up-of-google-in-antitrust-case/)
 - [Meta is testing a feature to let you post Instagram Reels directly on Threads](https://techcrunch.com/2024/10/09/meta-is-testing-a-feature-to-let-you-post-instagram-reels-directly-on-threads/)
 - [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/)
 - [Atlassian’s Jira has had it with your issues](https://techcrunch.com/2024/10/09/atlassians-jira-has-had-it-with-your-issues/)
 - [Atlassian’s Rovo AI is now generally available](https://techcrunch.com/2024/10/09/atlassians-rovo-ai-is-now-generally-available/)
-- [The Boring Company’s Las Vegas loop is attracting riders, and trespassers](https://techcrunch.com/2024/10/08/the-boring-companys-las-vegas-loop-is-attracting-riders-and-trespassers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
