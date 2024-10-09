@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week in AI: Tech giants embrace synthetic data](https://techcrunch.com/2024/10/09/this-week-in-ai-tech-giants-embrace-synthetic-data/)
-- [Zoom’s custom AI avatar tool may come with risks](https://techcrunch.com/2024/10/09/zooms-custom-ai-avatar-tool-may-come-with-risks/)
-- [Palantir now owns nearly 9% of EV startup Faraday Future — here’s why](https://techcrunch.com/2024/10/09/palantir-now-owns-nearly-9-percent-of-ev-startup-faraday-future/)
-- [Prime Day final hours: Celestron AstroMaster 130EQ still 31% off](https://www.space.com/celestron-astromaster-130-eq-prime-day-save-31-percent-2024)
-- [Streamer Plex rolls out movie and TV show reviews](https://techcrunch.com/2024/10/09/streamer-plex-rolls-out-movie-and-tv-show-reviews/)
+- [Astronauts could mine asteroids for food someday, scientists say](https://www.space.com/mining-asteroids-food-deep-space-missions)
+- [Dominican Republic signs Artemis Accords for peaceful moon exploration](https://www.space.com/dominican-republic-signs-artemis-accords-moon-exploration)
+- [After winning Nobel for foundational AI work, Geoffrey Hinton says he’s proud Ilya Sutskever ‘fired Sam Altman’](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
+- [Tesla designer Franz von Holzhausen says he’s been designing a robotaxi in his mind for years](https://techcrunch.com/2024/10/09/tesla-designer-franz-von-holzhausen-says-hes-been-designing-a-robotaxi-in-his-mind-for-years/)
+- [Last-minute Prime Day lightsaber deal: 40% off Yoda Force FX](https://www.space.com/black-series-yoda-lightsaber-save-100-dollars-october-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
