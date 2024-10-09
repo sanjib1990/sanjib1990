@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save almost $300 on my favorite MacBook Air for Prime Day 2024](https://www.space.com/save-almost-300-dollars-macbook-air-prime-day-laptop-deal-2024)
-- [See 1st trailer for Bong Joon Ho’s sci-fi comedy &#39;Mickey 17&#39; starring Robert Pattinson &lpar;video&rpar;](https://www.space.com/mickey-17-1st-trailer-robert-pattinson)
-- [Levy Health wants to help women identify fertility issues sooner](https://techcrunch.com/2024/10/09/levy-health-wants-to-help-women-identify-fertility-issues-sooner/)
-- [Last chance Prime Day streaming deal: 21% off Roku Ultra](https://www.space.com/roku-ultra-october-prime-day-deal-save-21-percent)
-- [Amazon revamps Ring subscriptions with AI video search](https://techcrunch.com/2024/10/09/amazon-revamps-ring-subscriptions-with-ai-video-search/)
+- [Tesla Robotaxi event: How to watch the reveal Thursday](https://techcrunch.com/2024/10/09/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/)
+- [Amazon’s new warehouses will employ 10x as many robots](https://techcrunch.com/2024/10/09/amazons-new-warehouses-will-employ-10x-as-many-robots/)
+- [Gateway gift: Northrop Grumman delivers lunar-orbit hab for Space Center Houston display](https://www.space.com/artemis-gateway-halo-mockup-northrop-grumman-space-center-houston)
+- [5 big reasons to attend TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/09/5-big-reasons-to-attend-techcrunch-disrupt-2024/)
+- [Amazon debuts AI-powered Shopping Guides](https://techcrunch.com/2024/10/09/amazon-debuts-ai-powered-shopping-guides/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
