@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TezLab launches new AI-powered ‘car reports’ for Tesla and Rivian EVs](https://techcrunch.com/2024/10/09/tezlab-launches-new-ai-powered-car-reports-for-tesla-and-rivian-evs/)
+- [Official &#39;Star Trek&#39; magazine ends an impressive 30-year run in December](https://www.space.com/official-star-trek-magazine-ends-an-impressive-30-year-run-in-december)
+- [X changes creator payouts to depend on engagement, not ads](https://techcrunch.com/2024/10/09/x-changes-creator-payouts-to-depend-on-engagement-not-ads/)
+- [Shield AI’s founder on death, drones in Ukraine, and the AI weapon ‘no one wants’](https://techcrunch.com/2024/10/09/shield-ais-founder-on-death-drones-in-ukraine-and-the-ai-weapon-no-one-wants/)
 - [Astronauts could mine asteroids for food someday, scientists say](https://www.space.com/mining-asteroids-food-deep-space-missions)
-- [Dominican Republic signs Artemis Accords for peaceful moon exploration](https://www.space.com/dominican-republic-signs-artemis-accords-moon-exploration)
-- [After winning Nobel for foundational AI work, Geoffrey Hinton says he’s proud Ilya Sutskever ‘fired Sam Altman’](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
-- [Tesla designer Franz von Holzhausen says he’s been designing a robotaxi in his mind for years](https://techcrunch.com/2024/10/09/tesla-designer-franz-von-holzhausen-says-hes-been-designing-a-robotaxi-in-his-mind-for-years/)
-- [Last-minute Prime Day lightsaber deal: 40% off Yoda Force FX](https://www.space.com/black-series-yoda-lightsaber-save-100-dollars-october-prime-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
