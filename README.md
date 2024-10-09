@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OCW Viajes de aprendizaje: La historia de Tomás](https://www.youtube.com/watch?v=t0jHIrS7pnc)
 - [so...I put a Time Server in my HomeLab](https://www.youtube.com/watch?v=6YHqVbvfMYI)
 - [The most dystopian app ever made…](https://www.youtube.com/watch?v=zvbTDUSz8Cc)
 - [How an incredibly amateur mistake left Arc Browser wide open to hackers](https://www.youtube.com/watch?v=QINoB1_OXUk)
 - [Maria From Brazil: An Open Learner’s Story](https://www.youtube.com/watch?v=fwxxoJanp4A)
-- [playing with the Rasperry Pi AI Camera](https://www.youtube.com/watch?v=o-a8Al3ZupI)
 <!-- YOUTUBE:END -->
 
 ---
