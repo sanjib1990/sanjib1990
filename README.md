@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon revamps Ring subscriptions with AI video search](https://techcrunch.com/2024/10/09/amazon-revamps-ring-subscriptions-with-ai-video-search/)
+- [How sweet is space? The answer may reveal clues about how life began](https://www.space.com/how-sweet-is-space-may-reveal-origins-of-life)
+- [Zap Energy shows off its new fusion power prototype, Century](https://techcrunch.com/2024/10/09/zap-energy-shows-off-its-new-fusion-power-prototype-century/)
+- [Billionaire Robinhood co-founder launches Aetherflux, a space-based solar power startup](https://techcrunch.com/2024/10/09/billionaire-robinhood-co-founder-launches-aetherflux-a-space-based-solar-power-startup/)
 - [I have reviewed all of the best star projectors and these are the only Prime Day deals worth considering](https://www.space.com/i-have-reviewed-all-the-best-star-projectors-these-are-only-prime-day-deals-worth-considering-october-2024)
-- [Forget Amazon Prime Day: Our favorite MacBook is now $250 cheaper at BestBuy](https://www.space.com/forget-amazon-prime-day-favorite-macbook-laptop-now-250-usd-cheaper-bestbuy-october-2024)
-- [This Walmart Canon EOS R5 deal is better than Amazon&#39;s on Prime Day](https://www.space.com/canon-eos-r5-walmart-deal-better-than-prime-day)
-- [Why haven&#39;t we found intelligent alien civilizations? There may be a &#39;universal limit to technological development’](https://www.space.com/lack-of-intelligent-aliens-universal-technological-development-limit)
-- [Glassdoor takes a leaf out of LinkedIn’s book, launches short videos, polls and images](https://techcrunch.com/2024/10/09/glassdoor-takes-a-leaf-out-of-linkedins-book-launches-short-videos-polls-and-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
