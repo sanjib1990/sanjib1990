@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These space tech spinoffs are helping scientists fight climate change](https://www.space.com/how-space-technology-aids-climate-change)
+- [Luke Skywalker Force FX Elite Lightsaber is now at its lowest-ever price for Prime Day](https://www.space.com/lowest-ever-price-luke-skywalker-lightsaber-prime-day-october-2024)
 - [US government considers historic break-up of Google in antitrust case](https://techcrunch.com/2024/10/09/us-government-considers-historic-break-up-of-google-in-antitrust-case/)
 - [Meta is testing a feature to let you post Instagram Reels directly on Threads](https://techcrunch.com/2024/10/09/meta-is-testing-a-feature-to-let-you-post-instagram-reels-directly-on-threads/)
 - [OpenAI to open offices in Singapore, Paris, Brussels to facilitate global expansion](https://techcrunch.com/2024/10/09/openai-to-open-offices-in-singapore-paris-brussels-to-facilitate-global-expansion/)
-- [Atlassian’s Jira has had it with your issues](https://techcrunch.com/2024/10/09/atlassians-jira-has-had-it-with-your-issues/)
-- [Atlassian’s Rovo AI is now generally available](https://techcrunch.com/2024/10/09/atlassians-rovo-ai-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
