@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind’s Demis Hassabis and John Jumper scoop Nobel Prize in Chemistry for AlphaFold](https://techcrunch.com/2024/10/09/deepminds-demis-hassabis-and-john-jumper-scoop-nobel-prize-in-chemistry-for-alphafold/)
-- [Basecamp Research taps $60M to build a ‘GPT for biology’](https://techcrunch.com/2024/10/09/basecamp-research-taps-60m-to-build-a-gpt-for-biology/)
-- [These space tech spinoffs are helping scientists fight climate change](https://www.space.com/how-space-technology-aids-climate-change)
-- [Luke Skywalker Force FX Elite Lightsaber is now at its lowest-ever price for Prime Day](https://www.space.com/lowest-ever-price-luke-skywalker-lightsaber-prime-day-october-2024)
-- [US government considers historic break-up of Google in antitrust case](https://techcrunch.com/2024/10/09/us-government-considers-historic-break-up-of-google-in-antitrust-case/)
+- [I have reviewed all of the best star projectors and these are the only Prime Day deals worth considering](https://www.space.com/i-have-reviewed-all-the-best-star-projectors-these-are-only-prime-day-deals-worth-considering-october-2024)
+- [Forget Amazon Prime Day: Our favorite MacBook is now $250 cheaper at BestBuy](https://www.space.com/forget-amazon-prime-day-favorite-macbook-laptop-now-250-usd-cheaper-bestbuy-october-2024)
+- [This Walmart Canon EOS R5 deal is better than Amazon&#39;s on Prime Day](https://www.space.com/canon-eos-r5-walmart-deal-better-than-prime-day)
+- [Why haven&#39;t we found intelligent alien civilizations? There may be a &#39;universal limit to technological development’](https://www.space.com/lack-of-intelligent-aliens-universal-technological-development-limit)
+- [Glassdoor takes a leaf out of LinkedIn’s book, launches short videos, polls and images](https://techcrunch.com/2024/10/09/glassdoor-takes-a-leaf-out-of-linkedins-book-launches-short-videos-polls-and-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
