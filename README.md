@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Phew! No &#39;doomsday&#39; asteroids hide in famous broken comet&#39;s debris stream](https://www.space.com/taurid-meteoroid-stream-no-doomsday-asteroids)
+- [Scope3 starts tracking the carbon footprint of AI](https://techcrunch.com/2024/10/10/scope3-starts-tracking-the-carbon-footprint-of-ai/)
 - [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/)
 - [Fidelity says data breach exposed personal data of 77,000 customers](https://techcrunch.com/2024/10/10/fidelity-says-data-breach-exposed-personal-data-of-77000-customers/)
 - [Venture studio Diagram expands into climate tech with oversubscribed fund](https://techcrunch.com/2024/10/10/venture-studio-diagram-expands-into-climate-tech-with-oversubscribed-fund/)
-- [We have the satellite data to show climate change is real. Now what?](https://www.space.com/climate-change-satellite-data-environmental-action-fossil-fuel-burning)
-- [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
