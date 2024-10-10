@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover bright &#39;sungrazer&#39; comet that could be visible with the naked eye this month — after Tsuchinshan–ATLAS](https://www.space.com/sungrazer-comet-could-be-visible-to-naked-eye-this-month)
+- [Opera’s new feature lets you group, pin and close tabs through natural language commands](https://techcrunch.com/2024/10/10/operas-new-feature-lets-you-group-pin-and-close-tab-through-natural-language-commands/)
 - [Phew! No &#39;doomsday&#39; asteroids hide in famous broken comet&#39;s debris stream](https://www.space.com/taurid-meteoroid-stream-no-doomsday-asteroids)
 - [Scope3 starts tracking the carbon footprint of AI](https://techcrunch.com/2024/10/10/scope3-starts-tracking-the-carbon-footprint-of-ai/)
 - [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/)
-- [Fidelity says data breach exposed personal data of 77,000 customers](https://techcrunch.com/2024/10/10/fidelity-says-data-breach-exposed-personal-data-of-77000-customers/)
-- [Venture studio Diagram expands into climate tech with oversubscribed fund](https://techcrunch.com/2024/10/10/venture-studio-diagram-expands-into-climate-tech-with-oversubscribed-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
