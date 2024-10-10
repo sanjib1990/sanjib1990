@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Numeric grabs $28M Series A to automate accounting using AI](https://techcrunch.com/2024/10/10/numeric-grabs-28m-series-a-for-automating-accounting-with-ai/)
-- [Swsh’s new photo-sharing app lets Gen Zers filter out red Solo cups and alcoholic drinks](https://techcrunch.com/2024/10/10/swsh-new-photo-sharing-app-lets-gen-z-filter-out-red-solo-cups-alcoholic-beverages/)
-- [Antitrust challenge to Facebook’s ‘superprofiling’ finally wraps in Germany — with Meta agreeing to data limits](https://techcrunch.com/2024/10/10/antitrust-challenge-to-facebooks-superprofiling-finally-wraps-in-germany-with-meta-agreeing-to-data-limits/)
-- [What&#39;s inside the moon? Gravity measurements suggest a layer of molten rock](https://www.space.com/gravity-measurements-moon-molten-rock-layer)
-- [Students and recent grads! Last call for a Student Pass discount at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/10/students-last-call-for-a-student-pass-discount-at-techcrunch-disrupt-2024/)
+- [Bluesky joins Threads to court users frustrated by Meta’s moderation issues](https://techcrunch.com/2024/10/10/bluesky-joins-threads-to-court-users-frustrated-by-metas-moderation-issues/)
+- [Tesla’s Robotaxi reveal, Palantir owns some of Faraday Future, and the Strava for EVs](https://techcrunch.com/2024/10/10/teslas-robotaxi-reveal-palantir-owns-some-of-faraday-future-and-the-strava-for-evs/)
+- [Chinese astronauts zoom in on their nation&#39;s launch sites from orbit &lpar;video&rpar;](https://www.space.com/china-launch-sites-shenzhou-18-astronauts-tiangong-space-station-video)
+- [LinkedIn says 10M people have signed up as freelancers on its Services Marketplace](https://techcrunch.com/2024/10/10/linkedin-says-10m-people-have-signed-up-as-freelancers-on-its-services-marketplace/)
+- [How stuck is the startup exit market? Pretty stuck, says Pitchbook](https://techcrunch.com/2024/10/10/how-stuck-is-the-startup-exit-market-pretty-stuck-says-pitchbook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
