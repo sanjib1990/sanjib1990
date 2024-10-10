@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/)
+- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/)
 - [The Internet Archive slammed by DDoS attack and data breach](https://techcrunch.com/2024/10/09/the-internet-archive-slammed-by-ddos-attack-and-data-breach/)
 - [Tyler, the Creator changes his tune on Elon Musk](https://techcrunch.com/2024/10/09/tyler-the-creator-changes-his-tune-on-elon-musk/)
 - [Health insurtech startup Qantev raises €30 million to outperform LLMs with small AI models](https://techcrunch.com/2024/10/09/health-insurtech-startup-qantev-raises-e30-million-to-outperform-llms-with-small-ai-models/)
-- [Did that startup founder really work through his wedding?](https://techcrunch.com/2024/10/09/did-that-startup-founder-really-work-through-his-wedding/)
-- [Bridgit Mendler’s Northwood makes ground station connection with Planet Labs in key test](https://techcrunch.com/2024/10/09/bridgit-mendlers-northwood-makes-ground-station-connection-with-planet-labs-in-key-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
