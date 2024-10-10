@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Antitrust challenge to Facebook’s ‘superprofiling’ finally wraps in Germany — with Meta agreeing to data limits](https://techcrunch.com/2024/10/10/antitrust-challenge-to-facebooks-superprofiling-finally-wraps-in-germany-with-meta-agreeing-to-data-limits/)
+- [What&#39;s inside the moon? Gravity measurements suggest a layer of molten rock](https://www.space.com/gravity-measurements-moon-molten-rock-layer)
+- [Students and recent grads! Last call for a Student Pass discount at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/10/students-last-call-for-a-student-pass-discount-at-techcrunch-disrupt-2024/)
+- [Someone claims to have used AI to apply to 2,843 jobs](https://techcrunch.com/2024/10/10/a-reporter-used-ai-to-apply-to-2843-jobs/)
 - [Scientists discover bright &#39;sungrazer&#39; comet that could be visible with the naked eye this month — after Tsuchinshan–ATLAS](https://www.space.com/sungrazer-comet-could-be-visible-to-naked-eye-this-month)
-- [Opera’s new feature lets you group, pin and close tabs through natural language commands](https://techcrunch.com/2024/10/10/operas-new-feature-lets-you-group-pin-and-close-tab-through-natural-language-commands/)
-- [Phew! No &#39;doomsday&#39; asteroids hide in famous broken comet&#39;s debris stream](https://www.space.com/taurid-meteoroid-stream-no-doomsday-asteroids)
-- [Scope3 starts tracking the carbon footprint of AI](https://techcrunch.com/2024/10/10/scope3-starts-tracking-the-carbon-footprint-of-ai/)
-- [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
