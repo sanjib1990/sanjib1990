@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon team in charge of Just Walk Out loses three execs, gains one](https://techcrunch.com/2024/10/10/amazon-team-in-charge-of-just-walk-out-loses-three-execs-gains-one/)
+- [Gaia space telescope discovers 55 &#39;runaway&#39; careening away from stellar cluster at 80 times the speed of sound](https://www.space.com/the-universe/stars/gaia-space-telescope-discovers-55-runaway-careening-away-from-stellar-cluster-at-80-times-the-speed-of-sound)
 - [Jupiter&#39;s Great Red Spot is being squeezed, Hubble Telescope finds — and nobody knows why &lpar;video&rpar;](https://www.space.com/jupiter-great-red-spot-squeezed-hubble-telescope)
 - [FTX’s Ryan Salame posts jokes on LinkedIn as he heads to prison](https://techcrunch.com/2024/10/10/ftxs-ryan-salame-posts-jokes-on-linkedin-as-he-heads-to-prison/)
 - [Hopes dim for another bright October comet after Tsuchinshan-ATLAS](https://www.space.com/comet-atlas-sungrazer-dim-outlook-october-2024)
-- [Solar storm bombarding Earth now may reach &#39;extreme&#39; levels, sparking auroras down to Alabama and straining hurricane-weakened power grids](https://www.space.com/extreme-solar-storm-affects-auroras-power-grids-october-2024)
-- [SpaceX alums are working to raise a hefty $550M first deep tech fund](https://techcrunch.com/2024/10/10/spacex-alums-are-working-to-raise-a-hefty-550m-first-deep-tech-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
