@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Relyance lands $32M to help companies comply with data regulations](https://techcrunch.com/2024/10/10/relyance-helps-companies-comply-with-data-regulations/)
+- [Fidelity says data breach exposed personal data of 77,000 customers](https://techcrunch.com/2024/10/10/fidelity-says-data-breach-exposed-personal-data-of-77000-customers/)
+- [Venture studio Diagram expands into climate tech with oversubscribed fund](https://techcrunch.com/2024/10/10/venture-studio-diagram-expands-into-climate-tech-with-oversubscribed-fund/)
 - [We have the satellite data to show climate change is real. Now what?](https://www.space.com/climate-change-satellite-data-environmental-action-fossil-fuel-burning)
 - [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/)
-- [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/)
-- [The Internet Archive slammed by DDoS attack and data breach](https://techcrunch.com/2024/10/09/the-internet-archive-slammed-by-ddos-attack-and-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
