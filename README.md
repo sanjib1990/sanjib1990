@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We have the satellite data to show climate change is real. Now what?](https://www.space.com/climate-change-satellite-data-environmental-action-fossil-fuel-burning)
 - [MiLaboratories gets $10M for a platform play to accelerate genomic research](https://techcrunch.com/2024/10/10/milaboratories-gets-10m-for-a-platform-play-to-accelerate-genomic-research/)
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/10/wordpress-vs-wp-engine-drama-explained/)
 - [BaCta is using engineered bacteria to grow natural rubber and slash CO2 emissions](https://techcrunch.com/2024/10/10/bacta-is-using-engineered-bacteria-to-grow-natural-rubber-and-slash-co2-emissions/)
 - [The Internet Archive slammed by DDoS attack and data breach](https://techcrunch.com/2024/10/09/the-internet-archive-slammed-by-ddos-attack-and-data-breach/)
-- [Tyler, the Creator changes his tune on Elon Musk](https://techcrunch.com/2024/10/09/tyler-the-creator-changes-his-tune-on-elon-musk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
