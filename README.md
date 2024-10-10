@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTX’s Ryan Salame posts jokes on LinkedIn as he heads to prison](https://techcrunch.com/2024/10/10/ftxs-ryan-salame-posts-jokes-on-linkedin-as-he-heads-to-prison/)
+- [Hopes dim for another bright October comet after Tsuchinshan-ATLAS](https://www.space.com/comet-atlas-sungrazer-dim-outlook-october-2024)
+- [Solar storm bombarding Earth now may reach &#39;extreme&#39; levels, sparking auroras down to Alabama and straining hurricane-weakened power grids](https://www.space.com/extreme-solar-storm-affects-auroras-power-grids-october-2024)
 - [SpaceX alums are working to raise a hefty $550M first deep tech fund](https://techcrunch.com/2024/10/10/spacex-alums-are-working-to-raise-a-hefty-550m-first-deep-tech-fund/)
-- [Europa Clipper probe secured as Hurricane Milton sweeps by NASA&#39;s Kennedy Space Center &lpar;photos&rpar;](https://www.space.com/europa-clipper-hurricane-milton-nasa-ksc-photo)
-- [Monstrous Hurricane Milton captured in 4K video by new Sen cameras on ISS](https://www.space.com/sen-4k-camera-iss-hurricane-milton-video)
-- [Bluesky joins Threads to court users frustrated by Meta’s moderation issues](https://techcrunch.com/2024/10/10/bluesky-joins-threads-to-court-users-frustrated-by-metas-moderation-issues/)
-- [Tesla’s Robotaxi reveal, Palantir owns some of Faraday Future, and the Strava for EVs](https://techcrunch.com/2024/10/10/teslas-robotaxi-reveal-palantir-owns-some-of-faraday-future-and-the-strava-for-evs/)
+- [NASA secures Europa Clipper probe as Hurricane Milton sweeps over Kennedy Space Center &lpar;photos&rpar;](https://www.space.com/europa-clipper-hurricane-milton-nasa-ksc-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
