@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Khosla Ventures just backed OpenAI with $405M more, but not necessarily with its own capital](https://techcrunch.com/2024/10/11/khosla-ventures-just-backed-openai-with-405m-more-but-not-necessarily-with-its-own-capital/)
 - [Hit by hurricanes? FCC says you qualify for internet and mobile service subsidies](https://techcrunch.com/2024/10/11/hit-by-hurricanes-fcc-says-you-qualify-for-internet-and-mobile-service-subsidies/)
 - [Fearless Fund has made a big deal since settling its controversial lawsuit](https://techcrunch.com/2024/10/11/fearless-fund-has-made-its-first-big-deal-since-settling-its-controversial-lawsuit/)
 - [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/)
 - [James Webb Space Telescope spies &#39;inside-out&#39; star formation in ancient galaxy &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-inside-out-star-formation-early-universe)
-- [The key ingredients for life on Earth came from space, new evidence suggests](https://www.space.com/ingredients-for-life-came-from-space-new-study)
 <!-- BLOG-POST-LIST:END -->
 
 ---
