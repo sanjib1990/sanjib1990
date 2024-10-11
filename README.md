@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Artemis moon camera gets 1st field test &lpar;photos&rpar;](https://www.space.com/hulc-artemis-moon-camera-first-field-test)
+- [&#39;It was 3 hours of magic&#39;: Spectacular auroras thrill stargazers across the world &lpar;and internet&rpar; as intense geomagnetic storm batters Earth &lpar;photos&rpar;](https://www.space.com/spectacular-auroras-photos-thrill-skywatchers-from-geomagnetic-storm-october-2024)
 - [Hubble Telescope and New Horizons Pluto probe team up to image Uranus](https://www.space.com/hubble-telescope-new-horizons-image-uranus)
 - [How AI-generated content is upping the workload for Wikipedia editors](https://techcrunch.com/2024/10/11/how-ai-generated-content-is-upping-the-workload-for-wikipedia-editors/)
 - [Apple Intelligence features can also summarize breakup texts for you](https://techcrunch.com/2024/10/11/apple-intelligence-features-can-also-summarize-breakup-texts-for-you/)
-- [Cosmic rays have surprising amounts of antimatter. Is dark matter responsible?](https://www.space.com/antimatter-cosmic-rays-dark-matter)
-- [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
