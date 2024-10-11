@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Stunning was the word&#39;: Astronauts snap amazing aurora photo from ISS during severe geomagnetic storm](https://www.space.com/nasa-astronauts-supercharged-red-auroras-iss-photo)
+- [Researchers question AI’s ‘reasoning’ ability as models stumble on math problems with trivial changes](https://techcrunch.com/2024/10/11/researchers-question-ais-reasoning-ability-as-models-stumble-on-math-problems-with-trivial-changes/)
+- [Here’s the full list of 39 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/10/11/heres-the-full-list-of-39-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/)
 - [Khosla Ventures just backed OpenAI with $405M more, but not necessarily with its own capital](https://techcrunch.com/2024/10/11/khosla-ventures-just-backed-openai-with-405m-more-but-not-necessarily-with-its-own-capital/)
-- [Hit by hurricanes? FCC says you qualify for internet and mobile service subsidies](https://techcrunch.com/2024/10/11/hit-by-hurricanes-fcc-says-you-qualify-for-internet-and-mobile-service-subsidies/)
-- [Fearless Fund has made a big deal since settling its controversial lawsuit](https://techcrunch.com/2024/10/11/fearless-fund-has-made-its-first-big-deal-since-settling-its-controversial-lawsuit/)
-- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/)
-- [James Webb Space Telescope spies &#39;inside-out&#39; star formation in ancient galaxy &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-inside-out-star-formation-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
