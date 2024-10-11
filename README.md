@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Robotaxi event: How to watch the reveal live](https://techcrunch.com/2024/10/10/tesla-robotaxi-event-how-to-watch-the-reveal-live/)
 - [Amazon team in charge of Just Walk Out loses three execs, gains one](https://techcrunch.com/2024/10/10/amazon-team-in-charge-of-just-walk-out-loses-three-execs-gains-one/)
 - [Gaia space telescope discovers 55 &#39;runaway&#39; careening away from stellar cluster at 80 times the speed of sound](https://www.space.com/the-universe/stars/gaia-space-telescope-discovers-55-runaway-careening-away-from-stellar-cluster-at-80-times-the-speed-of-sound)
+- [Tesla Robotaxi reveal: What to expect](https://techcrunch.com/2024/10/10/tesla-robotaxi-reveal-what-to-expect/)
 - [Jupiter&#39;s Great Red Spot is being squeezed, Hubble Telescope finds — and nobody knows why &lpar;video&rpar;](https://www.space.com/jupiter-great-red-spot-squeezed-hubble-telescope)
-- [FTX’s Ryan Salame posts jokes on LinkedIn as he heads to prison](https://techcrunch.com/2024/10/10/ftxs-ryan-salame-posts-jokes-on-linkedin-as-he-heads-to-prison/)
-- [Hopes dim for another bright October comet after Tsuchinshan-ATLAS](https://www.space.com/comet-atlas-sungrazer-dim-outlook-october-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
