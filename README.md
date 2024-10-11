@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble Telescope and New Horizons Pluto probe team up to image Uranus](https://www.space.com/hubble-telescope-new-horizons-image-uranus)
+- [How AI-generated content is upping the workload for Wikipedia editors](https://techcrunch.com/2024/10/11/how-ai-generated-content-is-upping-the-workload-for-wikipedia-editors/)
 - [Apple Intelligence features can also summarize breakup texts for you](https://techcrunch.com/2024/10/11/apple-intelligence-features-can-also-summarize-breakup-texts-for-you/)
 - [Cosmic rays have surprising amounts of antimatter. Is dark matter responsible?](https://www.space.com/antimatter-cosmic-rays-dark-matter)
 - [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/)
-- [Elon Musk unveils the Robovan: the biggest surprise from Tesla’s We, Robot event](https://techcrunch.com/2024/10/10/robovan-was-the-biggest-surprise-at-tesla-we-robot-event/)
-- [Tesla reveals 20 Cybercabs at We, Robot event, says you’ll be able to buy one for less than $30,000](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
