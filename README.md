@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hit by hurricanes? FCC says you qualify for internet and mobile service subsidies](https://techcrunch.com/2024/10/11/hit-by-hurricanes-fcc-says-you-qualify-for-internet-and-mobile-service-subsidies/)
+- [Fearless Fund has made a big deal since settling its controversial lawsuit](https://techcrunch.com/2024/10/11/fearless-fund-has-made-its-first-big-deal-since-settling-its-controversial-lawsuit/)
 - [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/)
 - [James Webb Space Telescope spies &#39;inside-out&#39; star formation in ancient galaxy &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-inside-out-star-formation-early-universe)
 - [The key ingredients for life on Earth came from space, new evidence suggests](https://www.space.com/ingredients-for-life-came-from-space-new-study)
-- [Hints of volcanic moon around alien planet may be 1st-of-its-kind discovery &lpar;video&rpar;](https://www.space.com/possible-volcanic-exomoon-jupiter-moon-io)
-- [Instagram blames some moderation issues on human reviewers, not AI](https://techcrunch.com/2024/10/11/instagram-blames-moderation-issues-on-human-reviewers-not-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
