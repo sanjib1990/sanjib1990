@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthony Levandowski buys Elon Musk’s vision for the future](https://techcrunch.com/2024/10/11/anthony-levandowski-buys-elon-musks-vision-for-the-future/)
-- [Space Force&#39;s mysterious X-37B space plane to attempt new &#39;aerobraking&#39; maneuvers in orbit](https://www.space.com/space-force-x-37b-aerobraking-maneuvers)
-- [Sequoia Capital, US Cybersecurity and Infrastructure Security Agency, and Tidelift take the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/sequoia-capital-u-s-cybersecurity-and-infrastructure-security-agency-and-tidelift-take-the-stage-at-techcrunch-disrupt-2024/)
-- [Aktiia trained AI on 11 billion data points of blood pressure, and now a clinically certified app is coming](https://techcrunch.com/2024/10/11/aktiia-trained-ai-on-11-billion-data-points-of-blood-pressure-and-now-a-clinically-certified-app-is-coming/)
-- [Xbox will soon let players buy games directly in its Android app following Google antitrust ruling](https://techcrunch.com/2024/10/11/xbox-will-soon-let-players-buy-games-directly-in-its-android-app-following-google-antitrust-ruling/)
+- [Announcing more judges for Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/announcing-more-judges-for-startup-battlefield-200-at-techcrunch-disrupt-2024/)
+- [Silicon Valley is debating if AI weapons should be allowed to decide to kill](https://techcrunch.com/2024/10/11/silicon-valley-is-debating-if-ai-weapons-should-be-allowed-to-decide-to-kill/)
+- [Nearby exoplanet is a 1st-of-its-kind &#39;steam world,’ James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-steam-exoplanet)
+- [HubSpot acquires Cacheflow, a platform that helps close software sales](https://techcrunch.com/2024/10/11/hubspot-acquires-cacheflow-a-platform-that-helps-close-software-sales/)
+- [Temu gets more questions from the EU about illegal product risks](https://techcrunch.com/2024/10/11/temu-gets-more-questions-from-the-eu-about-illegal-product-risks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
