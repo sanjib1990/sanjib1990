@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New rounds will help startups challenge well-funded rivals](https://techcrunch.com/2024/10/11/new-rounds-will-help-startups-challenge-well-funded-rivals/)
+- [James Webb Space Telescope spies &#39;inside-out&#39; star formation in ancient galaxy &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-inside-out-star-formation-early-universe)
 - [The key ingredients for life on Earth came from space, new evidence suggests](https://www.space.com/ingredients-for-life-came-from-space-new-study)
 - [Hints of volcanic moon around alien planet may be 1st-of-its-kind discovery &lpar;video&rpar;](https://www.space.com/possible-volcanic-exomoon-jupiter-moon-io)
 - [Instagram blames some moderation issues on human reviewers, not AI](https://techcrunch.com/2024/10/11/instagram-blames-moderation-issues-on-human-reviewers-not-ai/)
-- [Announcing more judges for Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/announcing-more-judges-for-startup-battlefield-200-at-techcrunch-disrupt-2024/)
-- [Silicon Valley is debating if AI weapons should be allowed to decide to kill](https://techcrunch.com/2024/10/11/silicon-valley-is-debating-if-ai-weapons-should-be-allowed-to-decide-to-kill/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
