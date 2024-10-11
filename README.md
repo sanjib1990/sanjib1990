@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nabta Playa: A mysterious stone circle that may be the world&#39;s oldest astronomical observatory](https://www.space.com/nabta-playa-a-mysterious-stone-circle-astronomical-observatory)
-- [On this day in space! Oct. 11, 1984: The first American woman walks in space](https://www.space.com/39251-on-this-day-in-space.html)
-- [ByteDance lays off hundreds of TikTok employees in shift to AI content moderation](https://techcrunch.com/2024/10/11/bytedance-lays-off-hundreds-of-tiktok-employees-in-shift-to-ai-content-moderation/)
-- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
-- [New Artemis moon camera gets 1st field test &lpar;photos&rpar;](https://www.space.com/hulc-artemis-moon-camera-first-field-test)
+- [Anthony Levandowski buys Elon Musk’s vision for the future](https://techcrunch.com/2024/10/11/anthony-levandowski-buys-elon-musks-vision-for-the-future/)
+- [Space Force&#39;s mysterious X-37B space plane to attempt new &#39;aerobraking&#39; maneuvers in orbit](https://www.space.com/space-force-x-37b-aerobraking-maneuvers)
+- [Sequoia Capital, US Cybersecurity and Infrastructure Security Agency, and Tidelift take the stage at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/sequoia-capital-u-s-cybersecurity-and-infrastructure-security-agency-and-tidelift-take-the-stage-at-techcrunch-disrupt-2024/)
+- [Aktiia trained AI on 11 billion data points of blood pressure, and now a clinically certified app is coming](https://techcrunch.com/2024/10/11/aktiia-trained-ai-on-11-billion-data-points-of-blood-pressure-and-now-a-clinically-certified-app-is-coming/)
+- [Xbox will soon let players buy games directly in its Android app following Google antitrust ruling](https://techcrunch.com/2024/10/11/xbox-will-soon-let-players-buy-games-directly-in-its-android-app-following-google-antitrust-ruling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
