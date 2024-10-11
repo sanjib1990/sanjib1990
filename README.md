@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram blames moderation issues on human reviewers, not AI](https://techcrunch.com/2024/10/11/instagram-blames-moderation-issues-on-human-reviewers-not-ai/)
 - [Announcing more judges for Startup Battlefield 200 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/11/announcing-more-judges-for-startup-battlefield-200-at-techcrunch-disrupt-2024/)
 - [Silicon Valley is debating if AI weapons should be allowed to decide to kill](https://techcrunch.com/2024/10/11/silicon-valley-is-debating-if-ai-weapons-should-be-allowed-to-decide-to-kill/)
 - [Nearby exoplanet is a 1st-of-its-kind &#39;steam world,’ James Webb Space Telescope finds](https://www.space.com/james-webb-space-telescope-steam-exoplanet)
 - [HubSpot acquires Cacheflow, a platform that helps close software sales](https://techcrunch.com/2024/10/11/hubspot-acquires-cacheflow-a-platform-that-helps-close-software-sales/)
-- [Temu gets more questions from the EU about illegal product risks](https://techcrunch.com/2024/10/11/temu-gets-more-questions-from-the-eu-about-illegal-product-risks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
