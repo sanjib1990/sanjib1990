@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nabta Playa: A mysterious stone circle that may be the world&#39;s oldest astronomical observatory](https://www.space.com/nabta-playa-a-mysterious-stone-circle-astronomical-observatory)
+- [On this day in space! Oct. 11, 1984: The first American woman walks in space](https://www.space.com/39251-on-this-day-in-space.html)
+- [ByteDance lays off hundreds of TikTok employees in shift to AI content moderation](https://techcrunch.com/2024/10/11/bytedance-lays-off-hundreds-of-tiktok-employees-in-shift-to-ai-content-moderation/)
+- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
 - [New Artemis moon camera gets 1st field test &lpar;photos&rpar;](https://www.space.com/hulc-artemis-moon-camera-first-field-test)
-- [&#39;It was 3 hours of magic&#39;: Spectacular auroras thrill stargazers across the world &lpar;and internet&rpar; as intense geomagnetic storm batters Earth &lpar;photos&rpar;](https://www.space.com/spectacular-auroras-photos-thrill-skywatchers-from-geomagnetic-storm-october-2024)
-- [Hubble Telescope and New Horizons Pluto probe team up to image Uranus](https://www.space.com/hubble-telescope-new-horizons-image-uranus)
-- [How AI-generated content is upping the workload for Wikipedia editors](https://techcrunch.com/2024/10/11/how-ai-generated-content-is-upping-the-workload-for-wikipedia-editors/)
-- [Apple Intelligence features can also summarize breakup texts for you](https://techcrunch.com/2024/10/11/apple-intelligence-features-can-also-summarize-breakup-texts-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
