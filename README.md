@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic rays have surprising amounts of antimatter. Is dark matter responsible?](https://www.space.com/antimatter-cosmic-rays-dark-matter)
+- [UK neobank Monzo hits $5.9B valuation with secondary market sale](https://techcrunch.com/2024/10/11/uk-neobank-monzo-hits-5-9b-valuation-with-secondary-market-sale/)
 - [Elon Musk unveils the Robovan: the biggest surprise from Tesla’s We, Robot event](https://techcrunch.com/2024/10/10/robovan-was-the-biggest-surprise-at-tesla-we-robot-event/)
 - [Tesla reveals 20 Cybercabs at We, Robot event, says you’ll be able to buy one for less than $30,000](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/)
 - [Tesla Robotaxi event: How to watch the reveal live](https://techcrunch.com/2024/10/10/tesla-robotaxi-event-how-to-watch-the-reveal-live/)
-- [Babbel co-founder Markus Witte will once again run the company, replacing CEO Arne Schepker](https://techcrunch.com/2024/10/10/babbel-co-founder-markus-witte-will-once-again-run-the-company-replacing-ceo-arne-schepker/)
-- [Amazon team in charge of Just Walk Out loses three execs, gains one](https://techcrunch.com/2024/10/10/amazon-team-in-charge-of-just-walk-out-loses-three-execs-gains-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
