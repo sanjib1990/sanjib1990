@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla reveals 20 Cybercabs at We, Robot event, says you can buy one for less than $30,000](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/)
 - [Tesla Robotaxi event: How to watch the reveal live](https://techcrunch.com/2024/10/10/tesla-robotaxi-event-how-to-watch-the-reveal-live/)
 - [Babbel co-founder Markus Witte will once again run the company, replacing CEO Arne Schepker](https://techcrunch.com/2024/10/10/babbels-new-ceo-is-its-old-ceo/)
 - [Amazon team in charge of Just Walk Out loses three execs, gains one](https://techcrunch.com/2024/10/10/amazon-team-in-charge-of-just-walk-out-loses-three-execs-gains-one/)
 - [Gaia space telescope discovers 55 &#39;runaway&#39; careening away from stellar cluster at 80 times the speed of sound](https://www.space.com/the-universe/stars/gaia-space-telescope-discovers-55-runaway-careening-away-from-stellar-cluster-at-80-times-the-speed-of-sound)
-- [Tesla Robotaxi reveal: What to expect](https://techcrunch.com/2024/10/10/tesla-robotaxi-reveal-what-to-expect/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
