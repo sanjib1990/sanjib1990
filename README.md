@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The most interesting unicorns to come out of Japan](https://techcrunch.com/2024/10/12/the-most-interesting-unicorns-to-come-out-of-japan/)
 - [‘Chat control’: The EU’s controversial CSAM-scanning legal proposal explained](https://techcrunch.com/2024/10/12/chat-control-the-eus-controversial-csam-scanning-legal-proposal-explained/)
 - [Amazon’s Tye Brady discusses the next-generation robotic warehouses](https://techcrunch.com/2024/10/12/amazons-tye-brady-discusses-the-next-generation-robotic-warehouses/)
 - [This Week In Space podcast: Episode 132 —Living in Martian Mushrooms](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-132-living-martian-mushrooms)
 - [How do you solve a problem like MariaDB? Cozy up to the community, says new CEO](https://techcrunch.com/2024/10/12/how-do-you-solve-a-problem-like-mariadb-cozy-up-to-the-community-says-new-ceo/)
-- [What is wearable neurotech and why might we need it?](https://techcrunch.com/2024/10/12/what-is-wearable-neurotech-and-why-might-we-need-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
