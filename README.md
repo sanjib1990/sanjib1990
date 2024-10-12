@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok’s research reportedly acknowledges negative effects on teens](https://techcrunch.com/2024/10/12/tiktoks-research-reportedly-acknowledges-negative-effects-on-teens/)
 - [‘Where we are today in biology AI is similar to GPT in 2020’: An interview with the CEO of Africa’s biggest AI startup](https://techcrunch.com/2024/10/12/where-we-are-today-in-biology-ai-is-similar-to-gpt-in-2020-an-interview-with-the-ceo-of-africas-biggest-ai-startup/)
 - [NASA delays Europa Clipper launch to Jupiter to Oct. 14 amid post-hurricane checks](https://www.space.com/nasa-spacex-europa-clipper-launch-date-october-14)
 - [The most interesting unicorns to come out of Japan](https://techcrunch.com/2024/10/12/the-most-interesting-unicorns-to-come-out-of-japan/)
 - [‘Chat control’: The EU’s controversial CSAM-scanning legal proposal explained](https://techcrunch.com/2024/10/12/chat-control-the-eus-controversial-csam-scanning-legal-proposal-explained/)
-- [Amazon’s Tye Brady discusses the next-generation robotic warehouses](https://techcrunch.com/2024/10/12/amazons-tye-brady-discusses-the-next-generation-robotic-warehouses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
