@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is wearable neurotech and why might we need it?](https://techcrunch.com/2024/10/12/what-is-wearable-neurotech-and-why-might-we-need-it/)
 - [California police aren’t loving their Tesla cop cars](https://techcrunch.com/2024/10/11/california-police-arent-loving-their-tesla-cop-cars/)
 - [FAA clears SpaceX to resume Falcon 9 rocket launches](https://www.space.com/faa-clears-spacex-resume-falcon-9-rocket-launches-october-2024)
 - [Anthropic CEO goes full techno-optimist in 15,000-word paean to AI](https://techcrunch.com/2024/10/11/anthropic-ceo-goes-full-techno-optimist-in-15000-word-paean-to-ai/)
 - [SpaceX Starship launches: Live updates](https://www.space.com/news/live/spacex-starship-missions-updates)
-- [&#39;Stunning was the word&#39;: Astronauts snap amazing aurora photo from ISS during severe geomagnetic storm](https://www.space.com/nasa-astronauts-supercharged-red-auroras-iss-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
