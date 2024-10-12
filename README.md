@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Chat control’: The EU’s controversial CSAM-scanning legal proposal explained](https://techcrunch.com/2024/10/12/chat-control-the-eus-controversial-csam-scanning-legal-proposal-explained/)
+- [Amazon’s Tye Brady discusses the next-generation robotic warehouses](https://techcrunch.com/2024/10/12/amazons-tye-brady-discusses-the-next-generation-robotic-warehouses/)
 - [This Week In Space podcast: Episode 132 —Living in Martian Mushrooms](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-132-living-martian-mushrooms)
 - [How do you solve a problem like MariaDB? Cozy up to the community, says new CEO](https://techcrunch.com/2024/10/12/how-do-you-solve-a-problem-like-mariadb-cozy-up-to-the-community-says-new-ceo/)
 - [What is wearable neurotech and why might we need it?](https://techcrunch.com/2024/10/12/what-is-wearable-neurotech-and-why-might-we-need-it/)
-- [California police aren’t loving their Tesla cop cars](https://techcrunch.com/2024/10/11/california-police-arent-loving-their-tesla-cop-cars/)
-- [FAA clears SpaceX to resume Falcon 9 rocket launches](https://www.space.com/faa-clears-spacex-resume-falcon-9-rocket-launches-october-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
