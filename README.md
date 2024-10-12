@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In latest move against WP Engine, WordPress takes control of ACF plugin](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/)
+- [Tesla’s Cybercab robotaxi is here — and it could cost less than $30K](https://techcrunch.com/2024/10/12/teslas-cybercab-robotaxi-is-here-and-it-could-cost-less-than-30k/)
 - [What time is SpaceX&#39;s Starship Flight 5 launch test on Oct. 13 &lpar;and how to watch online&rpar;?](https://www.space.com/spacex-starship-flight-5-launch-what-time-livestream)
 - [SpaceX&#39;s Crew-8 astronauts to depart ISS for trip home on Oct. 13](https://www.space.com/spacex-crew-8-astronauts-return-earth-webcast)
 - [SpaceX will attempt historic catch of returning Starship booster on Sunday](https://techcrunch.com/2024/10/12/spacex-will-attempt-historic-catch-of-returning-starship-booster-on-sunday/)
-- [TikTok’s research reportedly acknowledges negative effects on teens](https://techcrunch.com/2024/10/12/tiktoks-research-reportedly-acknowledges-negative-effects-on-teens/)
-- [‘Where we are today in biology AI is similar to GPT in 2020’: An interview with the CEO of Africa’s biggest AI startup](https://techcrunch.com/2024/10/12/where-we-are-today-in-biology-ai-is-similar-to-gpt-in-2020-an-interview-with-the-ceo-of-africas-biggest-ai-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
