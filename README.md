@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The promise and perils of synthetic data](https://techcrunch.com/2024/10/13/the-promise-and-perils-of-synthetic-data/)
 - [The original source code for Backyard Baseball is long gone. Mega Cat Studios remastered the game anyway.](https://techcrunch.com/2024/10/13/the-original-source-code-for-backyard-baseball-is-long-gone-mega-cat-studios-remastered-the-game-anyway/)
 - [Data center tech is exploding but adoption won’t be easy for startups](https://techcrunch.com/2024/10/13/data-center-tech-is-exploding-but-adoption-wont-be-easy-for-startups/)
 - [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2024/10/13/meet-the-chinese-typhoon-hackers-preparing-for-war/)
-- [SpaceX catches giant Starship booster during historic Flight 5 rocket launch and landing &lpar;video&rpar;](https://www.space.com/spacex-starship-flight-5-launch-super-heavy-booster-catch-success-video)
-- [Best Predator comic books of all time](https://www.space.com/best-predator-comics)
+- [SpaceX catches giant Starship booster with &#39;Chopsticks&#39; on historic Flight 5 rocket launch and landing &lpar;video&rpar;](https://www.space.com/spacex-starship-flight-5-launch-super-heavy-booster-catch-success-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
