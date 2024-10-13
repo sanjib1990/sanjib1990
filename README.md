@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2024/10/13/meet-the-chinese-typhoon-hackers-preparing-for-war/)
 - [SpaceX catches giant Starship booster during historic Flight 5 rocket launch and landing &lpar;video&rpar;](https://www.space.com/spacex-starship-flight-5-launch-super-heavy-booster-catch-success-video)
 - [Best Predator comic books of all time](https://www.space.com/best-predator-comics)
 - [This three-person robotics startup is working with designer Yves Béhar to bring humanoids home](https://techcrunch.com/2024/10/13/this-three-person-robotics-startup-is-working-with-designer-yves-behar-to-bring-humanoids-home/)
 - [How a medtech market opportunity is shaping up for wearable neurotech](https://techcrunch.com/2024/10/13/how-a-medtech-market-opportunity-is-shaping-up-for-wearable-neurotech/)
-- [Snatching a spinning spacecraft was &#39;the greatest pride&#39; for 1st Canadian astronaut in space &lpar;video&rpar;](https://www.space.com/canadian-astronaut-1st-space-artemis-2-quantum-leap)
 <!-- BLOG-POST-LIST:END -->
 
 ---
