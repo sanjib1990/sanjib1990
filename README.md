@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a medtech market opportunity is shaping up for wearable neurotech](https://techcrunch.com/2024/10/13/how-a-medtech-market-opportunity-is-shaping-up-for-wearable-neurotech/)
 - [Snatching a spinning spacecraft was &#39;the greatest pride&#39; for 1st Canadian astronaut in space &lpar;video&rpar;](https://www.space.com/canadian-astronaut-1st-space-artemis-2-quantum-leap)
 - [Meta’s Yann LeCun says worries about A.I.’s existential threat are ‘complete B.S.’](https://techcrunch.com/2024/10/12/metas-yann-lecun-says-worries-about-a-i-s-existential-threat-are-complete-b-s/)
 - [In latest move against WP Engine, WordPress takes control of ACF plugin](https://techcrunch.com/2024/10/12/in-latest-move-against-wp-engine-wordpress-takes-control-of-acf-plugin/)
 - [Tesla’s Cybercab robotaxi is here — and it could cost less than $30K](https://techcrunch.com/2024/10/12/teslas-cybercab-robotaxi-is-here-and-it-could-cost-less-than-30k/)
-- [What time is SpaceX&#39;s Starship Flight 5 launch test on Oct. 13 &lpar;and how to watch online&rpar;?](https://www.space.com/spacex-starship-flight-5-launch-what-time-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
