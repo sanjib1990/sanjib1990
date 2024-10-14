@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/)
+- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
+- [What is the moon phase today? Lunar phases 2024](https://www.space.com/18880-moon-phases.html)
 - [Constellation Technologies &amp; Operations wants to work with telecom operators to deliver 5G internet from space](https://techcrunch.com/2024/10/14/constellation-technologies-operations-wants-to-work-with-telecom-operators-to-deliver-5g-internet-from-space/)
 - [Rerail is a new fintech-focused angel fund from Cocoa’s Anthony Danon](https://techcrunch.com/2024/10/14/rerail-is-a-new-fintech-focused-angel-fund-from-cocoas-anthony-danon/)
-- [NASA&#39;s Europa Clipper mission to Jupiter: Live updates](https://www.space.com/news/live/europa-clipper-mission-updates)
-- [What time will SpaceX launch NASA&#39;s Europa Clipper to icy Jupiter moon today &lpar;and how to watch online&rpar;?](https://www.space.com/nasa-spacex-europa-clipper-launch-what-time-livestream)
-- [Director Morgan Neville is steering clear of generative AI after ‘Roadrunner’ backlash](https://techcrunch.com/2024/10/13/director-morgan-neville-is-steering-clear-of-generative-ai-after-roadrunner-backlash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
