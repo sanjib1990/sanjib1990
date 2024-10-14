@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signed steel beams &#39;top off&#39; L.A. home for space shuttle Endeavour](https://www.space.com/topping-off-oschin-air-space-center-space-shuttle-endeavour)
+- [Casio confirms customer data compromised in ransomware attack](https://techcrunch.com/2024/10/14/casio-confirms-customer-data-compromised-in-ransomware-attack/)
+- [4 must-see Jupiter movies to help you prepare for NASA&#39;s Europa Clipper mission](https://www.space.com/4-must-see-jupiter-movies)
 - [Why NASA is sending the Europa Clipper to search for aliens near Jupiter](https://www.space.com/europa-clipper-why-nasa-searching-for-aliens-near-jupiter)
 - [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/)
-- [Adobe invites you to ’embrace the tech’ with Firefly’s new video generator](https://techcrunch.com/2024/10/14/adobe-invites-you-to-embrace-the-tech-with-fireflys-new-video-generator/)
-- [Aerleum plans to turn CO2 directly into fuel for cargo ships and, eventually, airplanes](https://techcrunch.com/2024/10/14/aerleum-plans-to-turn-co2-directly-into-fuel-for-cargo-ships-and-eventually-airplanes/)
-- [After selling his last AI startup to Meta, Beyond Presence’s founder nabs $3.1M to build realistic avatars](https://techcrunch.com/2024/10/14/after-selling-his-last-ai-startup-to-meta-beyond-presences-founder-nabs-3-1m-to-build-realistic-avatars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
