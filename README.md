@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA extends tiny CAPSTONE probe&#39;s moon mission to December 2025](https://www.space.com/nasa-capstone-moon-cubesat-mission-extension-december-2025)
 - [NASA wants to send humans to Mars in the 2030s − a crewed mission could unlock some of the red planet’s geologic mysteries](https://www.space.com/nasa-wants-humans-to-mars-in-2030s-unlock-geologic-mysteries)
 - [The biggest data breaches in 2024: 1 billion stolen records and rising](https://techcrunch.com/2024/10/14/2024-in-data-breaches-1-billion-stolen-records-and-rising/)
 - [NASA&#39;s $5 billion Europa Clipper had a rocky road to space. How it switched rockets and more to launch to Jupiter](https://www.space.com/nasa-europa-clipper-rocky-road-jupiter-launch)
 - [TechCrunch Space: SpaceX alums raising a massive new fund for deep tech and more](https://techcrunch.com/2024/10/14/techcrunch-space-spacex-alums-raising-a-massive-new-fund-for-deep-tech-and-more/)
-- [Omnea raises $25M to tackle the painfully annoying procurement market](https://techcrunch.com/2024/10/14/omnea-raises-25m-to-tackle-the-painfully-annoying-procurement-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
