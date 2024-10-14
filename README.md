@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars orbiters spy &#39;cryptic terrain&#39; near planet&#39;s icy south pole &lpar;photos&rpar;](https://www.space.com/mars-orbiter-cryptic-landforms-south-pole)
 - [James Webb Space Telescope wins &#39;race against time&#39; to directly observe young exoplanet](https://www.space.com/james-webb-space-telescope-exoplanet-aflepb-direct-image)
 - [On this day in space! Oct. 14, 1947: Chuck Yeager smashes the sound barrier.](https://www.space.com/39251-on-this-day-in-space.html)
 - [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/)
 - [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
-- [What is the moon phase today? Lunar phases 2024](https://www.space.com/18880-moon-phases.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
