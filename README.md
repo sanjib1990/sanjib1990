@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time will SpaceX launch NASA&#39;s Europa Clipper to icy Jupiter moon on Oct. 14 &lpar;and how to watch online&rpar;?](https://www.space.com/nasa-spacex-europa-clipper-launch-what-time-livestream)
 - [Director Morgan Neville is steering clear of generative AI after ‘Roadrunner’ backlash](https://techcrunch.com/2024/10/13/director-morgan-neville-is-steering-clear-of-generative-ai-after-roadrunner-backlash/)
 - [SpaceX successfully catches returning Starship booster](https://techcrunch.com/2024/10/13/spacex-will-attempt-historic-catch-of-returning-starship-booster-on-sunday/)
 - [Apple might release a $2,000 Vision headset next year](https://techcrunch.com/2024/10/13/apple-might-release-a-2000-vision-headset-next-year/)
 - [The promise and perils of synthetic data](https://techcrunch.com/2024/10/13/the-promise-and-perils-of-synthetic-data/)
-- [The original source code for Backyard Baseball is long gone. Mega Cat Studios remastered the game anyway.](https://techcrunch.com/2024/10/13/the-original-source-code-for-backyard-baseball-is-long-gone-mega-cat-studios-remastered-the-game-anyway/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
