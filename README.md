@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: SpaceX alums raising a massive new fund for deep tech and more](https://techcrunch.com/2024/10/14/techcrunch-space-spacex-alums-raising-a-massive-new-fund-for-deep-tech-and-more/)
+- [Omnea raises $25M to tackle the painfully annoying procurement market](https://techcrunch.com/2024/10/14/omnea-raises-25m-to-tackle-the-painfully-annoying-procurement-market/)
+- [SpaceX Falcon Heavy rocket launches NASA&#39;s Europa Clipper probe to explore icy Jupiter ocean moon](https://www.space.com/spacex-falcon-heavy-europa-clipper-launch)
 - [National Public Data, the hacked data broker that lost millions of Social Security numbers and more, files for bankruptcy](https://techcrunch.com/2024/10/14/national-public-data-the-hacked-data-broker-that-lost-millions-of-social-security-numbers-and-more-files-for-bankruptcy/)
 - [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/14/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/)
-- [Monster black hole is a &#39;cosmic Michael Myers&#39; killing a star and brutally attacking another](https://www.space.com/monster-black-hole-cosmic-michael-myers-star-killer)
-- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/14/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/)
-- [Signed steel beams &#39;top off&#39; L.A. home for space shuttle Endeavour](https://www.space.com/topping-off-oschin-air-space-center-space-shuttle-endeavour)
 <!-- BLOG-POST-LIST:END -->
 
 ---
