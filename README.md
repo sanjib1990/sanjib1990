@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA wants to send humans to Mars in the 2030s − a crewed mission could unlock some of the red planet’s geologic mysteries](https://www.space.com/nasa-wants-humans-to-mars-in-2030s-unlock-geologic-mysteries)
+- [The biggest data breaches in 2024: 1 billion stolen records and rising](https://techcrunch.com/2024/10/14/2024-in-data-breaches-1-billion-stolen-records-and-rising/)
+- [NASA&#39;s $5 billion Europa Clipper had a rocky road to space. How it switched rockets and more to launch to Jupiter](https://www.space.com/nasa-europa-clipper-rocky-road-jupiter-launch)
 - [TechCrunch Space: SpaceX alums raising a massive new fund for deep tech and more](https://techcrunch.com/2024/10/14/techcrunch-space-spacex-alums-raising-a-massive-new-fund-for-deep-tech-and-more/)
 - [Omnea raises $25M to tackle the painfully annoying procurement market](https://techcrunch.com/2024/10/14/omnea-raises-25m-to-tackle-the-painfully-annoying-procurement-market/)
-- [SpaceX Falcon Heavy rocket launches NASA&#39;s Europa Clipper probe to explore icy Jupiter ocean moon](https://www.space.com/spacex-falcon-heavy-europa-clipper-launch)
-- [National Public Data, the hacked data broker that lost millions of Social Security numbers and more, files for bankruptcy](https://techcrunch.com/2024/10/14/national-public-data-the-hacked-data-broker-that-lost-millions-of-social-security-numbers-and-more-files-for-bankruptcy/)
-- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/14/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
