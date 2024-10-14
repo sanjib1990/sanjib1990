@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/)
 - [&#39;Predator: Hunting Grounds&#39; scores a striking makeover for PS5 and Xbox X/S](https://www.space.com/predator-hunting-grounds-makeover-ps5-xbox-xs)
 - [In memory of Steve O’Hear](https://techcrunch.com/2024/10/14/in-memory-of-steve-ohear/)
 - [Tesla Optimus bots were controlled by humans during the ‘We, Robot’ event](https://techcrunch.com/2024/10/14/tesla-optimus-bots-were-controlled-by-humans-during-the-we-robot-event/)
 - [James Webb Space Telescope takes center stage in &#39;Infinite Cosmos&#39;. Author Ethan Siegel explains it all &lpar;exclusive&rpar;](https://www.space.com/james-webb-space-telescope-infinite-cosmos-author-ethan-siegel-exclusive)
-- [Former Product Hunt CEO Josh Buckley is looking to raise a fourth $250M fund](https://techcrunch.com/2024/10/14/former-product-hunt-ceo-josh-buckley-is-looking-to-raise-a-fourth-250m-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
