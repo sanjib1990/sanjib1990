@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars orbiters spy &#39;cryptic terrain&#39; near planet&#39;s icy south pole &lpar;photos&rpar;](https://www.space.com/mars-orbiter-cryptic-landforms-south-pole)
-- [James Webb Space Telescope wins &#39;race against time&#39; to directly observe young exoplanet](https://www.space.com/james-webb-space-telescope-exoplanet-aflepb-direct-image)
-- [On this day in space! Oct. 14, 1947: Chuck Yeager smashes the sound barrier.](https://www.space.com/39251-on-this-day-in-space.html)
-- [Table Space eyes $2.5B valuation in India IPO](https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/)
-- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
+- [Why NASA is sending the Europa Clipper to search for aliens near Jupiter](https://www.space.com/europa-clipper-why-nasa-searching-for-aliens-near-jupiter)
+- [Peanut, a social network for women, adds a pregnancy tracking tool](https://techcrunch.com/2024/10/14/peanut-a-social-network-for-women-adds-a-pregnancy-tracking-tool/)
+- [Adobe invites you to ’embrace the tech’ with Firefly’s new video generator](https://techcrunch.com/2024/10/14/adobe-invites-you-to-embrace-the-tech-with-fireflys-new-video-generator/)
+- [Aerleum plans to turn CO2 directly into fuel for cargo ships and, eventually, airplanes](https://techcrunch.com/2024/10/14/aerleum-plans-to-turn-co2-directly-into-fuel-for-cargo-ships-and-eventually-airplanes/)
+- [After selling his last AI startup to Meta, Beyond Presence’s founder nabs $3.1M to build realistic avatars](https://techcrunch.com/2024/10/14/after-selling-his-last-ai-startup-to-meta-beyond-presences-founder-nabs-3-1m-to-build-realistic-avatars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
