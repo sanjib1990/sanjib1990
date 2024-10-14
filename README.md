@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Full Golang Tutorial - Learn Go by Building a TodoList App](https://www.youtube.com/watch?v=XCZWyN9ZbEQ)
 - [The WordPress ecosystem has lost its mind…](https://www.youtube.com/watch?v=mc5P_082bvY)
 - [Hackers are destroying the Internet&#39;s history book right now](https://www.youtube.com/watch?v=N3ZGNT5S5IU)
 - [OCW Viajes de aprendizaje: La historia de Tomás](https://www.youtube.com/watch?v=t0jHIrS7pnc)
 - [so...I put a Time Server in my HomeLab](https://www.youtube.com/watch?v=6YHqVbvfMYI)
-- [The most dystopian app ever made…](https://www.youtube.com/watch?v=zvbTDUSz8Cc)
 <!-- YOUTUBE:END -->
 
 ---
