@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [National Public Data, the hacked data broker that lost millions of Social Security numbers and more, files for bankruptcy](https://techcrunch.com/2024/10/14/national-public-data-the-hacked-data-broker-that-lost-millions-of-social-security-numbers-and-more-files-for-bankruptcy/)
+- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/14/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/)
 - [Monster black hole is a &#39;cosmic Michael Myers&#39; killing a star and brutally attacking another](https://www.space.com/monster-black-hole-cosmic-michael-myers-star-killer)
 - [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/14/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/)
 - [Signed steel beams &#39;top off&#39; L.A. home for space shuttle Endeavour](https://www.space.com/topping-off-oschin-air-space-center-space-shuttle-endeavour)
-- [Casio confirms customer data compromised in ransomware attack](https://techcrunch.com/2024/10/14/casio-confirms-customer-data-compromised-in-ransomware-attack/)
-- [4 must-see Jupiter movies to help you prepare for NASA&#39;s Europa Clipper mission](https://www.space.com/4-must-see-jupiter-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
