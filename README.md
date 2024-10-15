@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram’s latest feature is a digital business card for your profile](https://techcrunch.com/2024/10/15/instagrams-latest-feature-is-a-digital-business-card-for-your-profile/)
+- [The New York Times has had it with generative AI companies using its content](https://techcrunch.com/2024/10/15/new-york-times-sends-perplexity-cease-and-desist-letter-demands-it-stops-using-its-content-in-ai-summaries/)
 - [India backs Musk in satellite spectrum allocation row](https://techcrunch.com/2024/10/15/india-backs-musk-in-satellite-spectrum-allocation-row/)
 - [SpaceX makes Starlink internet service free for people hit by hurricanes Helene and Milton](https://www.space.com/spacex-starlink-free-2024-hurricane-helene-milton)
 - [New iPad mini brings support for Apple Intelligence and Pencil](https://techcrunch.com/2024/10/15/new-ipad-mini-brings-support-for-apple-intelligence-and-pencil-pro/)
-- [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/)
-- [The moon, Mars and space junk: World space agency heads outline grand plans, but also concerns](https://www.space.com/space-agency-chiefs-plans-concerns-iac-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
