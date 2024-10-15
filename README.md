@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vast Space unveils Haven-2, a private space station to follow the ISS after its fiery end](https://www.space.com/haven2-international-space-station-suceed)
+- [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/)
 - [White House considers expanding Nvidia and AMD’s AI chip export limits to additional countries](https://techcrunch.com/2024/10/15/white-house-considers-expanding-nvidia-and-amds-ai-chip-export-limits-to-additional-countries/)
 - [SpaceX launches 100th rocket of 2024 during Starlink doubleheader &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-doubleheader-100th-launch-2024)
 - [Elon Musk’s X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
-- [Euclid &#39;dark universe&#39; telescope reveals 1st breathtaking images from massive &#39;cosmic atlas&#39; map](https://www.space.com/euclid-first-images-cosmic-atlas)
-- [Hunter&#39;s Supermoon rises this week, the biggest full moon of 2024. Here&#39;s how to see it](https://www.space.com/full-moon-hunter-supermoon-largest-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
