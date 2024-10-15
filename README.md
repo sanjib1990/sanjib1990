@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [White House considers expanding Nvidia and AMD’s AI chip export limits to additional countries](https://techcrunch.com/2024/10/15/white-house-considers-expanding-nvidia-and-amds-ai-chip-export-limits-to-additional-countries/)
+- [SpaceX launches 100th rocket of 2024 during Starlink doubleheader &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-doubleheader-100th-launch-2024)
+- [Elon Musk’s X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
+- [Euclid &#39;dark universe&#39; telescope reveals 1st breathtaking images from massive &#39;cosmic atlas&#39; map](https://www.space.com/euclid-first-images-cosmic-atlas)
 - [Hunter&#39;s Supermoon rises this week, the biggest full moon of 2024. Here&#39;s how to see it](https://www.space.com/full-moon-hunter-supermoon-largest-2024)
-- [Internal blog post reveals Automattic’s plan to enforce the WordPress trademark using ‘nice and not nice lawyers’](https://techcrunch.com/2024/10/15/internal-blog-post-reveals-automattics-plan-to-enforce-the-wordpress-trademark-using-nice-and-not-nice-lawyers/)
-- [Some Americans are still using Kaspersky’s antivirus despite U.S. government ban](https://techcrunch.com/2024/10/15/some-americans-are-still-using-kasperskys-antivirus-despite-u-s-government-ban/)
-- [Google adds new features for Pixel along with Android 15 rollout](https://techcrunch.com/2024/10/15/google-adds-new-features-for-pixel-along-with-android-15-and-theft-detection-roll-out/)
-- [Instagram’s latest feature is a digital business card for your profile](https://techcrunch.com/2024/10/15/instagrams-latest-feature-is-a-digital-business-card-for-your-profile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
