@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads will start showing others when you’re online by default](https://techcrunch.com/2024/10/15/threads-will-start-showing-others-when-youre-online-by-default/)
+- [Estonia joins Artemis Accords as moon-exploration coalition agrees to continue outreach efforts](https://www.space.com/estonia-joins-artemis-accords-moon-exploration)
 - [Vast Space unveils Haven-2, a private space station to follow the ISS after its fiery end](https://www.space.com/haven2-international-space-station-suceed)
 - [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/)
 - [White House considers expanding Nvidia and AMD’s AI chip export limits to additional countries](https://techcrunch.com/2024/10/15/white-house-considers-expanding-nvidia-and-amds-ai-chip-export-limits-to-additional-countries/)
-- [SpaceX launches 100th rocket of 2024 during Starlink doubleheader &lpar;video, photos&rpar;](https://www.space.com/spacex-starlink-doubleheader-100th-launch-2024)
-- [Elon Musk’s X still struggles to grow subscription revenue](https://techcrunch.com/2024/10/15/elon-musks-x-still-struggles-to-grow-subscription-revenue/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
