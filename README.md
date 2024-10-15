@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European cyber insurance startup Stoïk secures $27 million](https://techcrunch.com/2024/10/14/european-cyber-insurance-startup-stoik-secures-27-million/)
 - [Nvidia, the AI chipmaker, just hit another record high](https://techcrunch.com/2024/10/14/nvidia-the-ai-chipmaker-just-hit-another-record-high/)
 - [OpenAI snatches up Microsoft generative AI research lead](https://techcrunch.com/2024/10/14/openai-snatches-up-microsoft-generative-ai-research-lead/)
 - [Meet Alarmo, Nintendo’s $100 sleep-tracking alarm clock](https://techcrunch.com/video/meet-alarmo-nintendos-100-sleep-tracking-alarm-clock/)
 - [Google signed a deal to power data centers with nuclear micro-reactors from Kairos — but the 2030 timeline is very optimistic](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/)
-- [&#39;Predator: Hunting Grounds&#39; scores a striking makeover for PS5 and Xbox X/S](https://www.space.com/predator-hunting-grounds-makeover-ps5-xbox-xs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
