@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hunter&#39;s Supermoon rises this week, the biggest full moon of 2024. Here&#39;s how to see it](https://www.space.com/full-moon-hunter-supermoon-largest-2024)
+- [Internal blog post reveals Automattic’s plan to enforce the WordPress trademark using ‘nice and not nice lawyers’](https://techcrunch.com/2024/10/15/internal-blog-post-reveals-automattics-plan-to-enforce-the-wordpress-trademark-using-nice-and-not-nice-lawyers/)
 - [Some Americans are still using Kaspersky’s antivirus despite U.S. government ban](https://techcrunch.com/2024/10/15/some-americans-are-still-using-kasperskys-antivirus-despite-u-s-government-ban/)
 - [Google adds new features for Pixel along with Android 15 rollout](https://techcrunch.com/2024/10/15/google-adds-new-features-for-pixel-along-with-android-15-and-theft-detection-roll-out/)
 - [Instagram’s latest feature is a digital business card for your profile](https://techcrunch.com/2024/10/15/instagrams-latest-feature-is-a-digital-business-card-for-your-profile/)
-- [The New York Times has had it with generative AI companies using its content](https://techcrunch.com/2024/10/15/new-york-times-sends-perplexity-cease-and-desist-letter-demands-it-stops-using-its-content-in-ai-summaries/)
-- [India backs Musk in satellite spectrum allocation row](https://techcrunch.com/2024/10/15/india-backs-musk-in-satellite-spectrum-allocation-row/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
