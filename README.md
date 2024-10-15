@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/)
+- [Spotify is adding music video support in 85 additional markets](https://techcrunch.com/2024/10/15/spotify-is-adding-music-video-support-in-85-additional-markets/)
 - [Concourse is building AI to automate financial tasks](https://techcrunch.com/2024/10/15/concourse-is-building-ai-to-automate-financial-tasks/)
 - [Oura Ring 4 isn’t an Apple Watch replacement, but that’s not the point](https://techcrunch.com/2024/10/15/oura-ring-4-isnt-an-apple-watch-replacement-but-thats-not-the-point/)
 - [Pollution from rocket launches and burning satellites could cause the next environmental emergency](https://www.space.com/rocket-launches-satellite-reentries-air-pollution-concerns)
-- [India’s Reliance targets 2G users with $13 4G phones offering streaming, payments](https://techcrunch.com/2024/10/15/india-reliance-targets-2g-users-with-13-4g-phones-offering-streaming-payments/)
-- [European cyber insurance startup Stoïk secures $27M](https://techcrunch.com/2024/10/14/european-cyber-insurance-startup-stoik-secures-27-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
