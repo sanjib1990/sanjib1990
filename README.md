@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solar Cycle 25 is still in max phase, so more aurora-boosting sun storms could be coming](https://www.space.com/solar-cycle-25-max-phase-more-sun-storms)
+- [How Tesla’s plans for ‘unsupervised FSD’ and robotaxis could run into red tape](https://techcrunch.com/2024/10/15/how-teslas-plans-for-unsupervised-fsd-and-robotaxis-could-run-into-red-tape/)
+- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/)
+- [X rival Mastodon has started selling toys](https://techcrunch.com/2024/10/15/x-rival-mastodon-has-started-selling-toys/)
 - [Nuclear rockets could travel to Mars in half the time − but designing the reactors that would power them isn&#39;t easy](https://www.space.com/nuclear-rockets-could-travel-to-mars-in-half-time-designing-power-reactors-not-easy)
-- [Watch a robot dog run under water](https://techcrunch.com/2024/10/15/watch-a-robot-dog-run-under-water/)
-- [Threads will start showing others when you’re online by default](https://techcrunch.com/2024/10/15/threads-will-start-showing-others-when-youre-online-by-default/)
-- [Estonia joins Artemis Accords as moon-exploration coalition agrees to continue outreach efforts](https://www.space.com/estonia-joins-artemis-accords-moon-exploration)
-- [Vast Space unveils Haven-2, a private space station to follow the ISS after its fiery end](https://www.space.com/haven2-international-space-station-suceed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
