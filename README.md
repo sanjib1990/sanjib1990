@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some Americans are still using Kaspersky’s antivirus despite U.S. government ban](https://techcrunch.com/2024/10/15/some-americans-are-still-using-kasperskys-antivirus-despite-u-s-government-ban/)
+- [Google adds new features for Pixel along with Android 15 rollout](https://techcrunch.com/2024/10/15/google-adds-new-features-for-pixel-along-with-android-15-and-theft-detection-roll-out/)
 - [Instagram’s latest feature is a digital business card for your profile](https://techcrunch.com/2024/10/15/instagrams-latest-feature-is-a-digital-business-card-for-your-profile/)
 - [The New York Times has had it with generative AI companies using its content](https://techcrunch.com/2024/10/15/new-york-times-sends-perplexity-cease-and-desist-letter-demands-it-stops-using-its-content-in-ai-summaries/)
 - [India backs Musk in satellite spectrum allocation row](https://techcrunch.com/2024/10/15/india-backs-musk-in-satellite-spectrum-allocation-row/)
-- [SpaceX makes Starlink internet service free for people hit by hurricanes Helene and Milton](https://www.space.com/spacex-starlink-free-2024-hurricane-helene-milton)
-- [New iPad mini brings support for Apple Intelligence and Pencil](https://techcrunch.com/2024/10/15/new-ipad-mini-brings-support-for-apple-intelligence-and-pencil-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
