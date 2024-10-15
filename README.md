@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gladia believes real-time processing is the next frontier of audio transcription APIs](https://techcrunch.com/2024/10/15/gladia-believes-real-time-processing-is-the-next-frontier-of-audio-transcription-apis/)
-- [Spotify is adding music video support in 85 additional markets](https://techcrunch.com/2024/10/15/spotify-is-adding-music-video-support-in-85-additional-markets/)
-- [Concourse is building AI to automate financial tasks](https://techcrunch.com/2024/10/15/concourse-is-building-ai-to-automate-financial-tasks/)
-- [Oura Ring 4 isn’t an Apple Watch replacement, but that’s not the point](https://techcrunch.com/2024/10/15/oura-ring-4-isnt-an-apple-watch-replacement-but-thats-not-the-point/)
-- [Pollution from rocket launches and burning satellites could cause the next environmental emergency](https://www.space.com/rocket-launches-satellite-reentries-air-pollution-concerns)
+- [Cubesats, the tiniest of satellites, are changing the way we explore the solar system](https://www.space.com/cubesats-changing-how-we-explore-the-solar-system)
+- [Xscape is building multicolor lasers to connect chips within datacenters](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/)
+- [Port is building internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/)
+- [SimpliSafe’s new outdoor monitoring service combines AI with human agents](https://techcrunch.com/2024/10/15/simplisafes-new-outdoor-monitoring-service-combines-ai-with-human-agents/)
+- [20VC closes new $400M fund to ‘make Europe great again’ says Harry Stebbings](https://techcrunch.com/2024/10/15/20vc-closes-new-400m-fund-to-make-europe-great-again-says-harry-stebbings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
