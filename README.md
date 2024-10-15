@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cubesats, the tiniest of satellites, are changing the way we explore the solar system](https://www.space.com/cubesats-changing-how-we-explore-the-solar-system)
-- [Xscape is building multicolor lasers to connect chips within datacenters](https://techcrunch.com/2024/10/15/xscape-is-building-multicolor-lasers-for-datacenters/)
-- [Port is building internal tool hubs for devs](https://techcrunch.com/2024/10/15/port-is-building-internal-tool-hubs-for-devs/)
-- [SimpliSafe’s new outdoor monitoring service combines AI with human agents](https://techcrunch.com/2024/10/15/simplisafes-new-outdoor-monitoring-service-combines-ai-with-human-agents/)
-- [20VC closes new $400M fund to ‘make Europe great again’ says Harry Stebbings](https://techcrunch.com/2024/10/15/20vc-closes-new-400m-fund-to-make-europe-great-again-says-harry-stebbings/)
+- [New iPad mini brings support for Apple Intelligence and Pencil Pro](https://techcrunch.com/2024/10/15/new-ipad-mini-brings-support-for-apple-intelligence-and-pencil-pro/)
+- [Amplitude buys Command AI to bolster its app engagement offerings](https://techcrunch.com/2024/10/15/amplitude-buys-command-ai-to-bolster-its-app-engagement-offerings/)
+- [The moon, Mars and space junk: World space agency heads outline grand plans, but also concerns](https://www.space.com/space-agency-chiefs-plans-concerns-iac-2024)
+- [Career Karma founders launch OutRival to help companies build AI agents](https://techcrunch.com/2024/10/15/career-karma-founders-launch-outrival-to-help-companies-build-ai-agents/)
+- [Google supercharges Shopping tab with AI and personalized recommendation feed](https://techcrunch.com/2024/10/15/google-supercharges-shopping-tab-with-ai-and-personalized-recommendation-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
