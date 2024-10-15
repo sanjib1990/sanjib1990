@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [so...I took my last video down](https://www.youtube.com/watch?v=qgySNfo3crQ)
 - [Firefox and Tor hit with 9.8 critical level exploit](https://www.youtube.com/watch?v=2RmUMmUj3u8)
 - [Full Golang Tutorial - Learn Go by Building a TodoList App](https://www.youtube.com/watch?v=XCZWyN9ZbEQ)
 - [The WordPress ecosystem has lost its mind…](https://www.youtube.com/watch?v=mc5P_082bvY)
 - [Hackers are destroying the Internet&#39;s history book right now](https://www.youtube.com/watch?v=N3ZGNT5S5IU)
-- [OCW Viajes de aprendizaje: La historia de Tomás](https://www.youtube.com/watch?v=t0jHIrS7pnc)
 <!-- YOUTUBE:END -->
 
 ---
