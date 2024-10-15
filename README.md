@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear rockets could travel to Mars in half the time − but designing the reactors that would power them isn&#39;t easy](https://www.space.com/nuclear-rockets-could-travel-to-mars-in-half-time-designing-power-reactors-not-easy)
+- [Watch a robot dog run under water](https://techcrunch.com/2024/10/15/watch-a-robot-dog-run-under-water/)
 - [Threads will start showing others when you’re online by default](https://techcrunch.com/2024/10/15/threads-will-start-showing-others-when-youre-online-by-default/)
 - [Estonia joins Artemis Accords as moon-exploration coalition agrees to continue outreach efforts](https://www.space.com/estonia-joins-artemis-accords-moon-exploration)
 - [Vast Space unveils Haven-2, a private space station to follow the ISS after its fiery end](https://www.space.com/haven2-international-space-station-suceed)
-- [Keep’s AIOps platform helps ops teams reduce alert fatigue](https://techcrunch.com/2024/10/15/keeps-aiops-platform-helps-ops-teams-reduce-alert-fatigue/)
-- [White House considers expanding Nvidia and AMD’s AI chip export limits to additional countries](https://techcrunch.com/2024/10/15/white-house-considers-expanding-nvidia-and-amds-ai-chip-export-limits-to-additional-countries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
