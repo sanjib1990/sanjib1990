@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A 21st-century moon suit: Axiom Space&#39;s lunar spacesuit sports 4G comms, Prada looks and Oakley visors for Artemis astronauts](https://www.space.com/space-exploration/artemis/a-21st-century-moon-suit-axiom-spaces-lunar-spacesuit-sports-4g-comms-prada-looks-and-oakley-visors-for-artemis-astronauts)
+- [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/)
 - [When will Boeing’s Starliner fly astronauts again? NASA still doesn’t know](https://www.space.com/boeing-starliner-crewed-mission-flight-date-uncertainty)
 - [US and China will need to discuss moon mission plans, NASA chief predicts](https://www.space.com/nasa-china-need-discuss-moon-mission-plans-bill-nelson)
 - [Apple debuts new business tools for managing presence across email, calls, and Tap to Pay](https://techcrunch.com/2024/10/16/apple-debuts-new-business-tools-for-managing-presence-across-email-calls-and-tap-to-pay/)
-- [Fisker owners get help with recall repairs as court approves liquidation plan](https://techcrunch.com/2024/10/16/fisker-owners-get-help-with-recall-repairs-as-court-approves-liquidation-plan/)
-- [Perseverance rover watches a solar eclipse on Mars &lpar;photos&rpar;](https://www.space.com/perseverance-rover-mars-solar-eclipse-phobos-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
