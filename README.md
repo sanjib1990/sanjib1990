@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin donates New Shepard rocket and crew capsule to Smithsonian](https://www.space.com/blue-origin-new-shepard-smithsonian-museum)
 - [Lightmatter’s $400M round has AI hyperscalers hyped for photonic datacenters](https://techcrunch.com/2024/10/16/lightmatters-400m-d-round-has-ai-hyperscalers-hyped-for-photonic-datacenters/)
 - [Artemis moon suit designed by Axiom Space and Prada revealed in Milan &lpar;photos&rpar;](https://www.space.com/axemu-lunar-spacesuit-axiom-space-prada-reveal)
 - [Amazon revamps Kindle line with faster page turns, AI, and a new green color](https://techcrunch.com/2024/10/16/amazon-revamps-kindle-line-with-faster-page-turns-ai-and-a-new-green-color/)
 - [Amazon Kindle finally gets color](https://techcrunch.com/2024/10/16/amazon-kindle-finally-gets-color/)
-- [Treehouse uses AI to help electricians install tech like EV chargers and heat pumps more cheaply](https://techcrunch.com/2024/10/16/treehouse-uses-ai-to-help-electricians-install-tech-like-ev-chargers-and-heat-pumps-more-cheaply/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
