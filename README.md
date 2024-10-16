@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk’s X dodges EU’s DMA as bloc decides platform isn’t important enough for fairness controls](https://techcrunch.com/2024/10/16/elon-musks-x-dodges-eus-dma-as-bloc-decides-platform-isnt-important-enough-for-fairness-controls/)
-- [SpaceX plans to catch Starship upper stage with &#39;chopsticks&#39; in early 2025, Elon Musk says](https://www.space.com/spacex-starship-upper-stage-chopstick-catch-elon-musk)
-- [Airbnb launches a network that lets hosts hire other hosts](https://techcrunch.com/2024/10/16/airbnb-launches-a-network-that-lets-host-hire-other-hosts/)
-- [LatticeFlow’s LLM framework takes a first stab at benchmarking Big AI’s compliance with EU AI Act](https://techcrunch.com/2024/10/16/latticeflows-llm-framework-takes-a-first-stab-at-benchmarking-big-ais-compliance-with-eu-ai-act/)
-- [Doctors complain of IT ‘in the stone age’](https://techcrunch.com/2024/10/16/doctors-complain-of-it-in-the-stone-age/)
+- [Lightmatter’s $400M round has AI hyperscalers hyped for photonic datacenters](https://techcrunch.com/2024/10/16/lightmatters-400m-d-round-has-ai-hyperscalers-hyped-for-photonic-datacenters/)
+- [Artemis moon suit designed by Axiom Space and Prada revealed in Milan &lpar;photos&rpar;](https://www.space.com/axemu-lunar-spacesuit-axiom-space-prada-reveal)
+- [Amazon revamps Kindle line with faster page turns, AI, and a new green color](https://techcrunch.com/2024/10/16/amazon-revamps-kindle-line-with-faster-page-turns-ai-and-a-new-green-color/)
+- [Amazon Kindle finally gets color](https://techcrunch.com/2024/10/16/amazon-kindle-finally-gets-color/)
+- [Treehouse uses AI to help electricians install tech like EV chargers and heat pumps more cheaply](https://techcrunch.com/2024/10/16/treehouse-uses-ai-to-help-electricians-install-tech-like-ev-chargers-and-heat-pumps-more-cheaply/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
