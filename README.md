@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LatticeFlow’s LLM framework takes a first stab at benchmarking Big AI’s compliance with EU AI Act](https://techcrunch.com/2024/10/16/latticeflows-llm-framework-takes-a-first-stab-at-benchmarking-big-ais-compliance-with-eu-ai-act/)
+- [Doctors complain of IT ‘in the stone age’](https://techcrunch.com/2024/10/16/doctors-complain-of-it-in-the-stone-age/)
 - [ISS leaks among 50 &#39;areas of concern&#39; for astronaut safety: report](https://www.space.com/iss-leak-50-areas-of-concern-nasa-report)
 - [Kenya’s Octavia gets $3.9M seed to remove carbon from air](https://techcrunch.com/2024/10/16/octavia-gets-backing-to-remove-carbon-from-air/)
 - [Long careers in luxury fashion led to a $17M raise for this supply chain platform](https://techcrunch.com/2024/10/16/long-careers-in-luxury-fashion-led-to-a-17m-raise-for-this-supply-chain-platform/)
-- [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/)
-- [Nordic entrepreneur-led VC firm Node.vc closes €71 million first fund](https://techcrunch.com/2024/10/15/nordic-entrepreneur-led-vc-firm-node-vc-closes-e71-million-first-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
