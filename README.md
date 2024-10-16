@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Paladin’s drones helped Asheville during Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/)
+- [Boston Dynamics teams with TRI to bring AI smarts to Atlas humanoid robot](https://techcrunch.com/2024/10/16/boston-dynamics-teams-with-tri-to-bring-ai-smarts-to-atlas-humanoid-robot/)
+- [Mistral releases new AI models optimized for laptops and phones](https://techcrunch.com/2024/10/16/mistral-releases-new-ai-models-optimized-for-edge-devices/)
 - [Blue Origin donates New Shepard rocket and crew capsule to Smithsonian](https://www.space.com/blue-origin-new-shepard-smithsonian-museum)
 - [Lightmatter’s $400M round has AI hyperscalers hyped for photonic datacenters](https://techcrunch.com/2024/10/16/lightmatters-400m-d-round-has-ai-hyperscalers-hyped-for-photonic-datacenters/)
-- [Artemis moon suit designed by Axiom Space and Prada revealed in Milan &lpar;photos&rpar;](https://www.space.com/axemu-lunar-spacesuit-axiom-space-prada-reveal)
-- [Amazon revamps Kindle line with faster page turns, AI, and a new green color](https://techcrunch.com/2024/10/16/amazon-revamps-kindle-line-with-faster-page-turns-ai-and-a-new-green-color/)
-- [Amazon Kindle finally gets color](https://techcrunch.com/2024/10/16/amazon-kindle-finally-gets-color/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
