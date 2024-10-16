@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Glovo adds a side of social stickiness to its food delivery app](https://techcrunch.com/2024/10/16/glovo-adds-a-side-of-social-stickiness-to-its-food-delivery-app/)
+- [Google will now help you find the cheapest flights available for your trip](https://techcrunch.com/2024/10/16/google-will-now-help-you-find-the-cheapest-flights-available-for-your-trip/)
+- [Everything we know about Andor Season 2: release window, plot, cast &amp; more](https://www.space.com/star-wars-andor-season-two-everything-we-know)
+- [These &#39;failed stars&#39; orbit so closely it took 29 years to tell they were a pair](https://www.space.com/brown-dwarf-failed-star-binary-gliese-229b)
 - [How Paladin’s drones helped Asheville during Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/)
-- [Boston Dynamics teams with TRI to bring AI smarts to Atlas humanoid robot](https://techcrunch.com/2024/10/16/boston-dynamics-teams-with-tri-to-bring-ai-smarts-to-atlas-humanoid-robot/)
-- [Mistral releases new AI models optimized for laptops and phones](https://techcrunch.com/2024/10/16/mistral-releases-new-ai-models-optimized-for-edge-devices/)
-- [Blue Origin donates New Shepard rocket and crew capsule to Smithsonian](https://www.space.com/blue-origin-new-shepard-smithsonian-museum)
-- [Lightmatter’s $400M round has AI hyperscalers hyped for photonic datacenters](https://techcrunch.com/2024/10/16/lightmatters-400m-d-round-has-ai-hyperscalers-hyped-for-photonic-datacenters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
