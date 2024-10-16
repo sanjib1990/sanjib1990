@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/)
 - [Former Palantir CISO Dane Stuckey joins OpenAI to lead security](https://techcrunch.com/2024/10/15/former-palantir-ciso-dane-stuckey-joins-openai-to-lead-security/)
 - [Our favorite startups from Pear VC’s invitational demo day](https://techcrunch.com/2024/10/15/our-favorite-startups-from-pear-vcs-invitational-demo-day/)
 - [Solar Cycle 25 is still in max phase, so more aurora-boosting sun storms could be coming](https://www.space.com/solar-cycle-25-max-phase-more-sun-storms)
 - [How Tesla’s plans for ‘unsupervised FSD’ and robotaxis could run into red tape](https://techcrunch.com/2024/10/15/how-teslas-plans-for-unsupervised-fsd-and-robotaxis-could-run-into-red-tape/)
-- [Two more weeks to go: Connect with Meta, Dropbox, J.P. Morgan, and HP at Disrupt](https://techcrunch.com/2024/10/15/two-more-weeks-to-go-connect-with-meta-dropbox-jp-morgan-and-hp-at-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
