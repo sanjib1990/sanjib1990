@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX sues California agency, alleging political bias against Musk and regulatory overreach](https://techcrunch.com/2024/10/16/spacex-sues-california-agency-alleging-political-bias-against-musk-and-regulatory-overreach/)
+- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/)
 - [A 21st-century moon suit: Axiom Space&#39;s lunar spacesuit sports 4G comms, Prada looks and Oakley visors for Artemis astronauts](https://www.space.com/space-exploration/artemis/a-21st-century-moon-suit-axiom-spaces-lunar-spacesuit-sports-4g-comms-prada-looks-and-oakley-visors-for-artemis-astronauts)
 - [After selling Drift, ex-HubSpot exec launches AI for customer success managers](https://techcrunch.com/2024/10/16/after-selling-drift-ex-hubspot-exec-launches-ai-for-customer-success-managers/)
 - [When will Boeing’s Starliner fly astronauts again? NASA still doesn’t know](https://www.space.com/boeing-starliner-crewed-mission-flight-date-uncertainty)
-- [US and China will need to discuss moon mission plans, NASA chief predicts](https://www.space.com/nasa-china-need-discuss-moon-mission-plans-bill-nelson)
-- [Apple debuts new business tools for managing presence across email, calls, and Tap to Pay](https://techcrunch.com/2024/10/16/apple-debuts-new-business-tools-for-managing-presence-across-email-calls-and-tap-to-pay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
