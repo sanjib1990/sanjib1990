@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS leaks among 50 &#39;areas of concern&#39; for astronaut safety: report](https://www.space.com/iss-leak-50-areas-of-concern-nasa-report)
+- [Kenya’s Octavia gets $3.9M seed to remove carbon from air](https://techcrunch.com/2024/10/16/octavia-gets-backing-to-remove-carbon-from-air/)
+- [Long careers in luxury fashion led to a $17M raise for this supply chain platform](https://techcrunch.com/2024/10/16/long-careers-in-luxury-fashion-led-to-a-17m-raise-for-this-supply-chain-platform/)
 - [Support automation firm Capacity grows with new cash and acquisitions](https://techcrunch.com/2024/10/16/support-automation-firm-capacity-grows-with-new-cash-and-acquisitions/)
 - [Nordic entrepreneur-led VC firm Node.vc closes €71 million first fund](https://techcrunch.com/2024/10/15/nordic-entrepreneur-led-vc-firm-node-vc-closes-e71-million-first-fund/)
-- [The woman who filmed Waymo’s honking robotaxis got an apology promo—then spent all day using it](https://techcrunch.com/2024/10/15/the-woman-who-filmed-waymos-honking-robotaxis-got-an-apology-promo-then-spent-all-day-using-it/)
-- [Storio is helping other businesses unlock more value from solar energy](https://techcrunch.com/2024/10/15/storio-is-deploying-the-battery-companions-of-solar-panels-on-industrial-sites/)
-- [Former Palantir CISO Dane Stuckey joins OpenAI to lead security](https://techcrunch.com/2024/10/15/former-palantir-ciso-dane-stuckey-joins-openai-to-lead-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
