@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When will Boeing’s Starliner fly astronauts again? NASA still doesn’t know](https://www.space.com/boeing-starliner-crewed-mission-flight-date-uncertainty)
 - [US and China will need to discuss moon mission plans, NASA chief predicts](https://www.space.com/nasa-china-need-discuss-moon-mission-plans-bill-nelson)
-- [Apple debuts new business tools for managing presence across email, calls and Tap to Pay](https://techcrunch.com/2024/10/16/apple-debuts-new-business-tools-for-managing-presence-across-email-calls-and-tap-to-pay/)
+- [Apple debuts new business tools for managing presence across email, calls, and Tap to Pay](https://techcrunch.com/2024/10/16/apple-debuts-new-business-tools-for-managing-presence-across-email-calls-and-tap-to-pay/)
 - [Fisker owners get help with recall repairs as court approves liquidation plan](https://techcrunch.com/2024/10/16/fisker-owners-get-help-with-recall-repairs-as-court-approves-liquidation-plan/)
 - [Perseverance rover watches a solar eclipse on Mars &lpar;photos&rpar;](https://www.space.com/perseverance-rover-mars-solar-eclipse-phobos-photos)
-- [How did Mars turn into an uninhabitable desert? Curiosity rover rock samples may have answers](https://www.space.com/curiosity-rock-samples-uninhabitable-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
