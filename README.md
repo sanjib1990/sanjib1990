@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Glovo adds a side of social stickiness to its food delivery app](https://techcrunch.com/2024/10/16/glovo-adds-a-side-of-social-stickiness-to-its-food-delivery-app/)
-- [Google will now help you find the cheapest flights available for your trip](https://techcrunch.com/2024/10/16/google-will-now-help-you-find-the-cheapest-flights-available-for-your-trip/)
-- [Everything we know about Andor Season 2: release window, plot, cast &amp; more](https://www.space.com/star-wars-andor-season-two-everything-we-know)
-- [These &#39;failed stars&#39; orbit so closely it took 29 years to tell they were a pair](https://www.space.com/brown-dwarf-failed-star-binary-gliese-229b)
-- [How Paladin’s drones helped Asheville during Hurricane Helene](https://techcrunch.com/2024/10/16/how-paladins-drones-helped-asheville-during-hurricane-helene/)
+- [This Week in AI: AWS loses a top AI exec](https://techcrunch.com/2024/10/16/this-week-in-ai-aws-loses-a-top-ai-exec/)
+- [Are Cybertrucks too angular for Europe?](https://techcrunch.com/2024/10/16/are-cybertrucks-too-angular-for-europe/)
+- [African crypto startup Yellow Card raises $33M led by Blockchain Capital to scale its B2B pivot](https://techcrunch.com/2024/10/16/african-crypto-startup-yellow-card-raises-33m-led-by-blockchain-capital-to-scale-its-b2b-pivot/)
+- [​​Amazon jumps on nuclear power bandwagon by investing in X-Energy and promising small reactors](https://techcrunch.com/2024/10/16/amazon-jumps-on-nuclear-power-bandwagon-by-investing-in-x-energy-and-promising-small-reactors/)
+- [The FTC makes it easier to cancel subscriptions like streaming services, memberships and Prime](https://techcrunch.com/2024/10/16/the-ftc-makes-it-easier-to-cancel-subscriptions-like-gym-memberships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
