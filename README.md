@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s X dodges EU’s DMA as bloc decides platform isn’t important enough for fairness controls](https://techcrunch.com/2024/10/16/elon-musks-x-dodges-eus-dma-as-bloc-decides-platform-isnt-important-enough-for-fairness-controls/)
+- [SpaceX plans to catch Starship upper stage with &#39;chopsticks&#39; in early 2025, Elon Musk says](https://www.space.com/spacex-starship-upper-stage-chopstick-catch-elon-musk)
+- [Airbnb launches a network that lets hosts hire other hosts](https://techcrunch.com/2024/10/16/airbnb-launches-a-network-that-lets-host-hire-other-hosts/)
 - [LatticeFlow’s LLM framework takes a first stab at benchmarking Big AI’s compliance with EU AI Act](https://techcrunch.com/2024/10/16/latticeflows-llm-framework-takes-a-first-stab-at-benchmarking-big-ais-compliance-with-eu-ai-act/)
 - [Doctors complain of IT ‘in the stone age’](https://techcrunch.com/2024/10/16/doctors-complain-of-it-in-the-stone-age/)
-- [ISS leaks among 50 &#39;areas of concern&#39; for astronaut safety: report](https://www.space.com/iss-leak-50-areas-of-concern-nasa-report)
-- [Kenya’s Octavia gets $3.9M seed to remove carbon from air](https://techcrunch.com/2024/10/16/octavia-gets-backing-to-remove-carbon-from-air/)
-- [Long careers in luxury fashion led to a $17M raise for this supply chain platform](https://techcrunch.com/2024/10/16/long-careers-in-luxury-fashion-led-to-a-17m-raise-for-this-supply-chain-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
