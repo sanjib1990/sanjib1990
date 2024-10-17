@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe in talks to acquire Bridge for $1 billion](https://techcrunch.com/2024/10/17/stripe-in-talks-to-acquire-bridge-for-1-billion/)
+- [Elon Musk’s X is changing its privacy policy to allow third parties to train AI on your posts](https://techcrunch.com/2024/10/17/elon-musks-x-is-changing-its-privacy-policy-to-allow-third-parties-to-train-ai-on-your-posts/)
 - [Comet Tsuchinshan-ATLAS is still visible in the night sky, but not for long](https://www.space.com/comet-tsuchinshan-atlas-visible-how-long)
 - [Sam Altman’s Worldcoin becomes World and shows new iris-scanning Orb to prove your humanity](https://techcrunch.com/2024/10/17/sam-altmans-worldcoin-becomes-world-and-shows-new-iris-scanning-orb-to-prove-your-humanity/)
 - [Europe launches ambitious &#39;Moonlight&#39; program to support lunar exploration](https://www.space.com/europe-moonlight-program-lunar-navigation-communications)
-- [All mobile phones must be hearing aid compatible under new FCC rules](https://techcrunch.com/2024/10/17/all-mobile-phones-must-be-hearing-aid-compatible-under-new-fcc-rules/)
-- [Microsoft said it lost weeks of security logs for its customers’ cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
