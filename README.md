@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi Nuclear Power Plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/)
+- [Apple reportedly worked with a Chinese automaker to develop a battery for its now-canceled car](https://techcrunch.com/2024/10/16/apple-reportedly-worked-with-a-chinese-automaker-to-develop-a-battery-for-its-now-canceled-car/)
 - [The Analogue 3D drags the fondly remembered N64 into the 21st century](https://techcrunch.com/2024/10/16/the-analogue-3d-drags-the-fondly-remembered-n64-into-the-21st-century/)
 - [OroraTech’s space-based wildfire detection brings in $25M to put more imaging satellites in orbit](https://techcrunch.com/2024/10/16/ororatechs-space-based-wildfire-detection-brings-in-25m-to-put-more-imaging-satellites-in-orbit/)
 - [SpaceX sues California agency, alleging political bias against Musk and regulatory overreach](https://techcrunch.com/2024/10/16/spacex-sues-california-agency-alleging-political-bias-against-musk-and-regulatory-overreach/)
-- [Y Combinator-backed fintech CapWay has shut down](https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/)
-- [A 21st-century moon suit: Axiom Space&#39;s lunar spacesuit sports 4G comms, Prada looks and Oakley visors for Artemis astronauts](https://www.space.com/space-exploration/artemis/a-21st-century-moon-suit-axiom-spaces-lunar-spacesuit-sports-4g-comms-prada-looks-and-oakley-visors-for-artemis-astronauts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
