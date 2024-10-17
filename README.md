@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can AI make us feel less alone? The founder of Manifest thinks so](https://techcrunch.com/2024/10/17/can-ai-make-us-feel-less-alone-the-founder-of-manifest-thinks-so/)
+- [Eclipse opens an NYC office with plans to bolster its presence on the East Coast](https://techcrunch.com/2024/10/17/eclipse-opens-an-nyc-office-with-plans-to-bolster-its-presence-on-the-east-coast/)
+- [Chaotic trailer for &#39;Star Trek: Lower Decks&#39; Season 5 brings back Voyager&#39;s Harry Kim &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-season-5-trailer-couch)
+- [Permira completes Squarespace acquisition after upping bid to $7.2B](https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/)
 - [India’s central bank orders Sachin Bansal’s Navi to halt loans](https://techcrunch.com/2024/10/17/indias-central-bank-orders-sachin-bansals-navi-to-halt-loans/)
-- [Watch Hunter&#39;s Moon supermoon team up with Comet Tsuchinshan-ATLAS in free livestream today](https://www.space.com/hunters-moon-comet-tsuchinshan-atlas-livestream-october-2024)
-- [Elon Musk’s X boosts DSA info for EU users as bloc’s probe of its complaint handling continues](https://techcrunch.com/2024/10/17/elon-musks-x-boosts-dsa-info-for-eu-users-as-blocs-probe-of-its-complaint-handling-continues/)
-- [Casio says ‘no prospect of recovery yet’ after ransomware attack](https://techcrunch.com/2024/10/17/casio-says-no-prospect-of-recovery-yet-after-ransomware-attack/)
-- [Instagram rolls out new safety features to protect teens from sextortion](https://techcrunch.com/2024/10/17/instagram-rolls-out-new-safety-features-to-protect-teens-from-sextortion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
