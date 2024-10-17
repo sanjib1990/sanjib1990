@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s central bank orders Sachin Bansal’s Navi to halt loans](https://techcrunch.com/2024/10/17/indias-central-bank-orders-sachin-bansals-navi-to-halt-loans/)
+- [Watch Hunter&#39;s Moon supermoon team up with Comet Tsuchinshan-ATLAS in free livestream today](https://www.space.com/hunters-moon-comet-tsuchinshan-atlas-livestream-october-2024)
+- [Elon Musk’s X boosts DSA info for EU users as bloc’s probe of its complaint handling continues](https://techcrunch.com/2024/10/17/elon-musks-x-boosts-dsa-info-for-eu-users-as-blocs-probe-of-its-complaint-handling-continues/)
 - [Casio says ‘no prospect of recovery yet’ after ransomware attack](https://techcrunch.com/2024/10/17/casio-says-no-prospect-of-recovery-yet-after-ransomware-attack/)
 - [Instagram rolls out new safety features to protect teens from sextortion](https://techcrunch.com/2024/10/17/instagram-rolls-out-new-safety-features-to-protect-teens-from-sextortion/)
-- [Cyera acquires Trail Security for $162M; Cyera is now raising at a $3B valuation](https://techcrunch.com/2024/10/17/cyera-acquires-trail-security-for-162m-cyera-is-now-raising-at-a-3b-valuation/)
-- [Relive SpaceX&#39;s epic Starship launch &lpar;and rocket catch&rpar; in these jawdropping photos and video](https://www.space.com/relive-spacex-starship-fifth-test-flight-photos-video)
-- [Zepto eyes $100M from Indian offices in third funding in 6 months](https://techcrunch.com/2024/10/17/zepto-eyes-100m-from-indian-offices-in-third-funding-in-6-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
