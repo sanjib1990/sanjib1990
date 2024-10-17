@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Elon Musk to cop car chases, how a software engineer launched a police AI startup](https://techcrunch.com/2024/10/17/from-elon-musk-to-cop-car-chases-how-a-software-engineer-launched-a-police-ai-startup/)
+- [The planets of &#39;Star Wars Outlaws&#39;](https://www.space.com/planets-of-star-wars-outlaws)
 - [Can AI make us feel less alone? The founder of Manifest thinks so](https://techcrunch.com/2024/10/17/can-ai-make-us-feel-less-alone-the-founder-of-manifest-thinks-so/)
 - [Eclipse opens an NYC office with plans to bolster its presence on the East Coast](https://techcrunch.com/2024/10/17/eclipse-opens-an-nyc-office-with-plans-to-bolster-its-presence-on-the-east-coast/)
 - [Chaotic trailer for &#39;Star Trek: Lower Decks&#39; Season 5 brings back Voyager&#39;s Harry Kim &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-season-5-trailer-couch)
-- [Permira completes Squarespace acquisition after upping bid to $7.2B](https://techcrunch.com/2024/10/17/permira-completes-squarespace-acquisition-after-upping-bid-to-7-2b/)
-- [India’s central bank orders Sachin Bansal’s Navi to halt loans](https://techcrunch.com/2024/10/17/indias-central-bank-orders-sachin-bansals-navi-to-halt-loans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
