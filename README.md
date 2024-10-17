@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien life could lurk on Mars beneath protective ice, study suggests](https://www.space.com/alien-life-mars-ice-photosynthetic-zones)
-- [Databricks, Snowflake, and Battery Ventures discuss when to cash out or scale your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/databricks-snowflake-and-battery-ventures-discuss-when-to-cash-out-or-scale-your-startup-at-techcrunch-disrupt-2024/)
-- [Subscription management firm Zuora agrees to be acquired for $1.7B](https://techcrunch.com/2024/10/17/subscription-management-firm-zuora-agrees-to-be-acquired-for-1-7b/)
-- [Hackers are extorting Globe Life with stolen customer data](https://techcrunch.com/2024/10/17/hackers-are-extorting-globe-life-with-stolen-customer-data/)
-- [Apple says support for redeeming rewards coming to Apple Pay](https://techcrunch.com/2024/10/17/apple-says-support-for-redeeming-rewards-will-later-come-to-apple-pay/)
+- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/)
+- [The moon, Mars, asteroids and Jupiter: China reveals ambitious space exploration plans](https://www.space.com/china-exploration-roadmap-moon-mars-asteroids-jupiter)
+- [Google’s NotebookLM now lets you guide AI-generated audio conversations, launches business pilot](https://techcrunch.com/2024/10/17/googles-notebooklm-now-lets-you-guide-ai-generated-audio-conversations-launches-business-pilot/)
+- [With $11.9 million in funding, Dottxt tells AI models how to answer](https://techcrunch.com/2024/10/17/with-11-9-million-in-funding-dottxt-tells-ai-models-how-to-answer/)
+- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
