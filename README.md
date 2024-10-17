@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Last-minute Expo+ 2-for-1 passes available for TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/last-minute-expo-2-for-1-passes-available-for-techcrunch-disrupt-2024/)
-- [The moon, Mars, asteroids and Jupiter: China reveals ambitious space exploration plans](https://www.space.com/china-exploration-roadmap-moon-mars-asteroids-jupiter)
-- [Google’s NotebookLM now lets you guide AI-generated audio conversations, launches business pilot](https://techcrunch.com/2024/10/17/googles-notebooklm-now-lets-you-guide-ai-generated-audio-conversations-launches-business-pilot/)
-- [With $11.9 million in funding, Dottxt tells AI models how to answer](https://techcrunch.com/2024/10/17/with-11-9-million-in-funding-dottxt-tells-ai-models-how-to-answer/)
-- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
+- [Beyond the hype: Why Tesla’s robotaxi future faces regulatory roadblocks](https://techcrunch.com/2024/10/17/beyond-the-hype-why-teslas-robotaxi-future-faces-regulatory-roadblocks/)
+- [How much do SpaceX&#39;s reentering Starlink satellites pollute Earth&#39;s atmosphere?](https://www.space.com/spacex-starlink-reentry-pollution-damage-earth-atmosphere)
+- [The 14 biggest take-private PE acquisitions so far this year in tech](https://techcrunch.com/2024/10/17/the-14-biggest-private-equity-acquisitions-of-public-tech-firms-in-2024-so-far/)
+- [ChatGPT comes to Windows](https://techcrunch.com/2024/10/17/chatgpt-comes-to-windows/)
+- [Waymo offers $3 credit for San Francisco riders going to public transit stations](https://techcrunch.com/2024/10/17/waymo-offers-3-credit-for-san-francisco-riders-going-to-public-transit-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
