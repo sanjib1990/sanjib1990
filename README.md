@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hera probe snaps its 1st images of Earth and moon on way to asteroid crash site](https://www.space.com/hera-asteroid-mission-earth-moon-images)
-- [Feds arrest man who allegedly participated in hack of the SEC’s X account, boosting Bitcoin’s price](https://techcrunch.com/2024/10/17/feds-arrest-man-who-allegedly-participated-in-hack-of-the-secs-x-account-boosting-bitcoins-price/)
-- [Beyond the hype: Why Tesla’s robotaxi future faces regulatory roadblocks](https://techcrunch.com/2024/10/17/beyond-the-hype-why-teslas-robotaxi-future-faces-regulatory-roadblocks/)
-- [How much do SpaceX&#39;s reentering Starlink satellites pollute Earth&#39;s atmosphere?](https://www.space.com/spacex-starlink-reentry-pollution-damage-earth-atmosphere)
-- [The 14 biggest take-private PE acquisitions so far this year in tech](https://techcrunch.com/2024/10/17/the-14-biggest-private-equity-acquisitions-of-public-tech-firms-in-2024-so-far/)
+- [Microsoft said it lost weeks of security logs for its customers’ cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
+- [Experts say OpenAI’s patent pledge amounts to little more than ‘virtue signaling’](https://techcrunch.com/2024/10/17/experts-say-openais-patent-pledge-amounts-to-little-more-than-virtue-signaling/)
+- [The best 90s sci-fi movies](https://www.space.com/best-90s-sci-fi-movies)
+- [Richard Branson will co-pilot Space Perspective&#39;s 1st crewed balloon flight to edge of Earth&#39;s atmosphere](https://www.space.com/richard-branson-co-pilot-space-perspective-balloon-flight)
+- [Marc Benioff warns that AI, while useful, is overhyped and partly blames Microsoft](https://techcrunch.com/2024/10/17/marc-benioff-warns-that-ai-while-useful-is-overhyped-and-partly-blames-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
