@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman’s Worldcoin becomes World, and shows new iris-scanning ‘Orb’ to prove your humanity](https://techcrunch.com/2024/10/17/sam-altmans-worldcoin-becomes-world-and-shows-new-iris-scanning-orb-to-prove-your-humanity/)
+- [Europe launches ambitious &#39;Moonlight&#39; program to support lunar exploration](https://www.space.com/europe-moonlight-program-lunar-navigation-communications)
+- [All mobile phones must be hearing aid compatible under new FCC rules](https://techcrunch.com/2024/10/17/all-mobile-phones-must-be-hearing-aid-compatible-under-new-fcc-rules/)
 - [Microsoft said it lost weeks of security logs for its customers’ cloud products](https://techcrunch.com/2024/10/17/microsoft-said-it-lost-weeks-of-security-logs-for-its-customers-cloud-products/)
 - [Experts say OpenAI’s patent pledge amounts to little more than ‘virtue signaling’](https://techcrunch.com/2024/10/17/experts-say-openais-patent-pledge-amounts-to-little-more-than-virtue-signaling/)
-- [The best 90s sci-fi movies](https://www.space.com/best-90s-sci-fi-movies)
-- [Richard Branson will co-pilot Space Perspective&#39;s 1st crewed balloon flight to edge of Earth&#39;s atmosphere](https://www.space.com/richard-branson-co-pilot-space-perspective-balloon-flight)
-- [Marc Benioff warns that AI, while useful, is overhyped and partly blames Microsoft](https://techcrunch.com/2024/10/17/marc-benioff-warns-that-ai-while-useful-is-overhyped-and-partly-blames-microsoft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
