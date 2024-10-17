@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hera probe snaps its 1st images of Earth and moon on way to asteroid crash site](https://www.space.com/hera-asteroid-mission-earth-moon-images)
+- [Feds arrest man who allegedly participated in hack of the SEC’s X account, boosting Bitcoin’s price](https://techcrunch.com/2024/10/17/feds-arrest-man-who-allegedly-participated-in-hack-of-the-secs-x-account-boosting-bitcoins-price/)
 - [Beyond the hype: Why Tesla’s robotaxi future faces regulatory roadblocks](https://techcrunch.com/2024/10/17/beyond-the-hype-why-teslas-robotaxi-future-faces-regulatory-roadblocks/)
 - [How much do SpaceX&#39;s reentering Starlink satellites pollute Earth&#39;s atmosphere?](https://www.space.com/spacex-starlink-reentry-pollution-damage-earth-atmosphere)
 - [The 14 biggest take-private PE acquisitions so far this year in tech](https://techcrunch.com/2024/10/17/the-14-biggest-private-equity-acquisitions-of-public-tech-firms-in-2024-so-far/)
-- [ChatGPT comes to Windows](https://techcrunch.com/2024/10/17/chatgpt-comes-to-windows/)
-- [Waymo offers $3 credit for San Francisco riders going to public transit stations](https://techcrunch.com/2024/10/17/waymo-offers-3-credit-for-san-francisco-riders-going-to-public-transit-stations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
