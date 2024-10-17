@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s AI chief says world models are key to ‘human-level AI’ — but it might be 10 years out](https://techcrunch.com/2024/10/16/metas-ai-chief-says-world-models-are-key-to-human-level-ai-but-it-might-be-10-years-out/)
+- [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/)
 - [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi Nuclear Power Plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/)
 - [Apple reportedly worked with a Chinese automaker to develop a battery for its now-canceled car](https://techcrunch.com/2024/10/16/apple-reportedly-worked-with-a-chinese-automaker-to-develop-a-battery-for-its-now-canceled-car/)
 - [The Analogue 3D drags the fondly remembered N64 into the 21st century](https://techcrunch.com/2024/10/16/the-analogue-3d-drags-the-fondly-remembered-n64-into-the-21st-century/)
-- [OroraTech’s space-based wildfire detection brings in $25M to put more imaging satellites in orbit](https://techcrunch.com/2024/10/16/ororatechs-space-based-wildfire-detection-brings-in-25m-to-put-more-imaging-satellites-in-orbit/)
-- [SpaceX sues California agency, alleging political bias against Musk and regulatory overreach](https://techcrunch.com/2024/10/16/spacex-sues-california-agency-alleging-political-bias-against-musk-and-regulatory-overreach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
