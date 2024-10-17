@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zepto eyes $100M from Indian offices in third funding in 6 months](https://techcrunch.com/2024/10/17/zepto-eyes-100m-from-indian-offices-in-third-funding-in-6-months/)
 - [Accel eyes stake in India’s Truemeds at $330 million valuation](https://techcrunch.com/2024/10/16/accel-eyes-stake-in-truemeds-at-330-million-valuation/)
 - [Meta lays off employees across multiple teams](https://techcrunch.com/2024/10/16/meta-lays-off-employees-across-multiple-teams/)
 - [Meta’s AI chief says world models are key to ‘human-level AI’ — but it might be 10 years out](https://techcrunch.com/2024/10/16/metas-ai-chief-says-world-models-are-key-to-human-level-ai-but-it-might-be-10-years-out/)
 - [ODD taps $27M for diamond chips to clear radioactive debris at Fukushima Daiichi Nuclear Power Plant](https://techcrunch.com/2024/10/16/this-startups-diamond-chips-help-remove-radioactive-debris-at-stricken-daiichi-nuclear-power-plant/)
-- [Apple reportedly worked with a Chinese automaker to develop a battery for its now-canceled car](https://techcrunch.com/2024/10/16/apple-reportedly-worked-with-a-chinese-automaker-to-develop-a-battery-for-its-now-canceled-car/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
