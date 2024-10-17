@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From Elon Musk to cop car chases, how a software engineer launched a police AI startup](https://techcrunch.com/2024/10/17/from-elon-musk-to-cop-car-chases-how-a-software-engineer-launched-a-police-ai-startup/)
-- [The planets of &#39;Star Wars Outlaws&#39;](https://www.space.com/planets-of-star-wars-outlaws)
-- [Can AI make us feel less alone? The founder of Manifest thinks so](https://techcrunch.com/2024/10/17/can-ai-make-us-feel-less-alone-the-founder-of-manifest-thinks-so/)
-- [Eclipse opens an NYC office with plans to bolster its presence on the East Coast](https://techcrunch.com/2024/10/17/eclipse-opens-an-nyc-office-with-plans-to-bolster-its-presence-on-the-east-coast/)
-- [Chaotic trailer for &#39;Star Trek: Lower Decks&#39; Season 5 brings back Voyager&#39;s Harry Kim &lpar;video&rpar;](https://www.space.com/star-trek-lower-decks-season-5-trailer-couch)
+- [Alien life could lurk on Mars beneath protective ice, study suggests](https://www.space.com/alien-life-mars-ice-photosynthetic-zones)
+- [Databricks, Snowflake, and Battery Ventures discuss when to cash out or scale your startup at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/17/databricks-snowflake-and-battery-ventures-discuss-when-to-cash-out-or-scale-your-startup-at-techcrunch-disrupt-2024/)
+- [Subscription management firm Zuora agrees to be acquired for $1.7B](https://techcrunch.com/2024/10/17/subscription-management-firm-zuora-agrees-to-be-acquired-for-1-7b/)
+- [Hackers are extorting Globe Life with stolen customer data](https://techcrunch.com/2024/10/17/hackers-are-extorting-globe-life-with-stolen-customer-data/)
+- [Apple says support for redeeming rewards coming to Apple Pay](https://techcrunch.com/2024/10/17/apple-says-support-for-redeeming-rewards-will-later-come-to-apple-pay/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
