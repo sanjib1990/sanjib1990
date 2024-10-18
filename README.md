@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographer snaps spectacular view of annular solar eclipse from Easter Island &lpar;photo&rpar;](https://www.space.com/annular-solar-eclipse-easter-island-photo)
 - [Orionid meteor shower peaks this weekend: How to see bits of Halley&#39;s comet burn up in the night sky](https://www.space.com/orionid-meteor-shower-poor-year-2024)
 - [Tesla’s Full Self-Driving software under investigation by federal safety regulator](https://techcrunch.com/2024/10/18/teslas-full-self-driving-software-under-investigation-by-federal-safety-regulator/)
 - [SETI tests new alien-hunting strategy, but TRAPPIST-1 planets remain silent](https://www.space.com/seti-alien-hunting-trappist-1-planets-ppos)
 - [Nebius to resume Nasdaq trading after severing ties with Russia and Yandex](https://techcrunch.com/2024/10/18/nebius-to-resume-nasdaq-trading-after-severing-ties-with-russia-and-yandex/)
-- [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
