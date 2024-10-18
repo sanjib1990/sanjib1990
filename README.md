@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Former watch trader is now building the AWS of grid storage, Terralyr](https://techcrunch.com/2024/10/17/former-watch-trader-is-now-building-the-aws-of-grid-storage-terralyr/)
+- [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/)
+- [The surprising way OpenAI could get out of its pact with Microsoft](https://techcrunch.com/2024/10/17/the-surprising-way-openai-could-get-out-of-its-pact-with-microsoft/)
+- [Former watch trader is now building the AWS of grid storage, Terralayr](https://techcrunch.com/2024/10/17/former-watch-trader-is-now-building-the-aws-of-grid-storage-terralayr/)
 - [Amazon indicates employees can quit if they don’t like its return-to-office mandate](https://techcrunch.com/2024/10/17/amazon-indicates-employees-can-quit-if-they-dont-like-its-return-to-office-mandate/)
 - [Automattic offered employees another chance to quit — this time with nine months’ severance](https://techcrunch.com/2024/10/17/automattic-offered-employees-another-chance-to-quit-this-time-with-nine-months-severance/)
-- [General Catalyst reportedly to back Saudi Arabian startup](https://techcrunch.com/2024/10/17/general-catalyst-reportedly-to-back-saudi-arabian-startup/)
-- [Stripe in talks to acquire Bridge for $1 billion](https://techcrunch.com/2024/10/17/stripe-in-talks-to-acquire-bridge-for-1-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
