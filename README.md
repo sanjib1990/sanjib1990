@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Millie Bobby Brown battle alongside robots in 1st trailer for Netflix sci-fi film &#39;The Electric State&#39; &lpar;video&rpar;](https://www.space.com/electric-state-trailer-netflix)
 - [Like Wall-E, this lovable trash compactor will help ISS astronauts take out the garbage &lpar;photo&rpar;](https://www.space.com/iss-trash-compactor-wall-e-sierra-space-test)
 - [Microsoft could end up with substantial equity in the restructured, for-profit OpenAI](https://techcrunch.com/2024/10/18/microsoft-could-end-up-with-substantial-equity-in-the-restructured-for-profit-openai/)
 - [Full-size mock space shuttle makes first move towards Downey display](https://www.space.com/space-shuttle-mockup-inspiration-downey-move-relocation)
-- [WP Engine files an injuction to get its WordPress.org access back](https://techcrunch.com/2024/10/18/wp-engine-files-an-injuction-to-get-its-wordpress-org-access-back/)
-- [Europe makes moves to rendezvous with asteroid Apophis in 2029](https://www.space.com/esa-ramses-mission-asteroid-apophis-2029)
+- [WP Engine files an injunction to get its WordPress.org access back](https://techcrunch.com/2024/10/18/wp-engine-files-an-injuction-to-get-its-wordpress-org-access-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
