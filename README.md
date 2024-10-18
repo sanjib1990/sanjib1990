@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former watch trader is now building the AWS of grid storage, Terralyr](https://techcrunch.com/2024/10/17/former-watch-trader-is-now-building-the-aws-of-grid-storage-terralyr/)
 - [Amazon indicates employees can quit if they don’t like its return-to-office mandate](https://techcrunch.com/2024/10/17/amazon-indicates-employees-can-quit-if-they-dont-like-its-return-to-office-mandate/)
 - [Automattic offered employees another chance to quit — this time with nine months’ severance](https://techcrunch.com/2024/10/17/automattic-offered-employees-another-chance-to-quit-this-time-with-nine-months-severance/)
 - [General Catalyst reportedly to back Saudi Arabian startup](https://techcrunch.com/2024/10/17/general-catalyst-reportedly-to-back-saudi-arabian-startup/)
 - [Stripe in talks to acquire Bridge for $1 billion](https://techcrunch.com/2024/10/17/stripe-in-talks-to-acquire-bridge-for-1-billion/)
-- [Elon Musk’s X is changing its privacy policy to allow third parties to train AI on your posts](https://techcrunch.com/2024/10/17/elon-musks-x-is-changing-its-privacy-policy-to-allow-third-parties-to-train-ai-on-your-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
