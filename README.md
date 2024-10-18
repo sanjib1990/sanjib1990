@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SETI tests new alien-hunting strategy, but TRAPPIST-1 planets remain silent](https://www.space.com/seti-alien-hunting-trappist-1-planets-ppos)
+- [Nebius to resume Nasdaq trading after severing ties with Russia and Yandex](https://techcrunch.com/2024/10/18/nebius-to-resume-nasdaq-trading-after-severing-ties-with-russia-and-yandex/)
 - [Byju’s founder says his edtech startup, once worth $22B, is now ‘worth zero’](https://techcrunch.com/2024/10/17/byjus-founder-says-his-edtech-startup-once-worth-22b-is-now-worth-zero/)
 - [The surprising way OpenAI could get out of its pact with Microsoft](https://techcrunch.com/2024/10/17/the-surprising-way-openai-could-get-out-of-its-pact-with-microsoft/)
 - [Former watch trader is now building the AWS of grid storage, Terralayr](https://techcrunch.com/2024/10/17/former-watch-trader-is-now-building-the-aws-of-grid-storage-terralayr/)
-- [Amazon indicates employees can quit if they don’t like its return-to-office mandate](https://techcrunch.com/2024/10/17/amazon-indicates-employees-can-quit-if-they-dont-like-its-return-to-office-mandate/)
-- [Automattic offered employees another chance to quit — this time with nine months’ severance](https://techcrunch.com/2024/10/17/automattic-offered-employees-another-chance-to-quit-this-time-with-nine-months-severance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
