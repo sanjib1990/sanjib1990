@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluid Truck files for Chapter 11 bankruptcy and pursues sale after leadership shakeup](https://techcrunch.com/2024/10/18/fluid-truck-files-for-chapter-11-bankruptcy-and-pursues-sale-after-leadership-shakeup/)
+- [&#39;Alien: Isolation&#39; is finally getting a sequel, developer confirms](https://www.space.com/alien-isolation-sequel-confirmed)
+- [Acrew Capital hits five years, raises $700m](https://techcrunch.com/2024/10/18/acrew-capital-hits-five-years-raises-700m/)
+- [Why changes to the block on Elon Musk’s X are driving users away](https://techcrunch.com/2024/10/18/why-changes-to-the-block-on-elon-musks-x-are-driving-users-away/)
 - [Investors bet on the power of light, diamonds in the trash, and more](https://techcrunch.com/2024/10/18/investors-bet-on-the-power-of-light-diamonds-in-the-trash-and-more/)
-- [&#39;Killer electrons&#39; play pinball with space weather around Earth](https://www.space.com/killer-electrons-lightning-space-weather-pinball)
-- [Watch Millie Bobby Brown battle alongside robots in 1st trailer for Netflix sci-fi film &#39;The Electric State&#39; &lpar;video&rpar;](https://www.space.com/electric-state-trailer-netflix)
-- [Like Wall-E, this lovable trash compactor will help ISS astronauts take out the garbage &lpar;photo&rpar;](https://www.space.com/iss-trash-compactor-wall-e-sierra-space-test)
-- [Microsoft could end up with substantial equity in the restructured, for-profit OpenAI](https://techcrunch.com/2024/10/18/microsoft-could-end-up-with-substantial-equity-in-the-restructured-for-profit-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
