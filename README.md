@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automattic offered employees another chance to quit — this time with nine months’ severance](https://techcrunch.com/2024/10/17/automattic-offered-employees-another-chance-to-quit-this-time-with-nine-months-severance/)
 - [General Catalyst reportedly to back Saudi Arabian startup](https://techcrunch.com/2024/10/17/general-catalyst-reportedly-to-back-saudi-arabian-startup/)
 - [Stripe in talks to acquire Bridge for $1 billion](https://techcrunch.com/2024/10/17/stripe-in-talks-to-acquire-bridge-for-1-billion/)
 - [Elon Musk’s X is changing its privacy policy to allow third parties to train AI on your posts](https://techcrunch.com/2024/10/17/elon-musks-x-is-changing-its-privacy-policy-to-allow-third-parties-to-train-ai-on-your-posts/)
 - [Comet Tsuchinshan-ATLAS is still visible in the night sky, but not for long](https://www.space.com/comet-tsuchinshan-atlas-visible-how-long)
-- [Sam Altman’s Worldcoin becomes World and shows new iris-scanning Orb to prove your humanity](https://techcrunch.com/2024/10/17/sam-altmans-worldcoin-becomes-world-and-shows-new-iris-scanning-orb-to-prove-your-humanity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
