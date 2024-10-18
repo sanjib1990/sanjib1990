@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Like Wall-E, this lovable trash compactor will help ISS astronauts take out the garbage &lpar;photo&rpar;](https://www.space.com/iss-trash-compactor-wall-e-sierra-space-test)
 - [Microsoft could end up with substantial equity in the restructured, for-profit OpenAI](https://techcrunch.com/2024/10/18/microsoft-could-end-up-with-substantial-equity-in-the-restructured-for-profit-openai/)
+- [Full-size mock space shuttle makes first move towards Downey display](https://www.space.com/space-shuttle-mockup-inspiration-downey-move-relocation)
 - [WP Engine files an injuction to get its WordPress.org access back](https://techcrunch.com/2024/10/18/wp-engine-files-an-injuction-to-get-its-wordpress-org-access-back/)
 - [Europe makes moves to rendezvous with asteroid Apophis in 2029](https://www.space.com/esa-ramses-mission-asteroid-apophis-2029)
-- [Bluesky surges into the top 5 as X changes blocks, permits AI training on its data](https://techcrunch.com/2024/10/18/bluesky-surges-into-the-top-5-as-x-changes-blocks-permits-ai-training-on-its-data/)
-- [Hunter&#39;s Moon supermoon 2024 puts on a frightfully good show for skywatchers around the world &lpar;photos&rpar;](https://www.space.com/hunters-moon-supermoon-2024-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
