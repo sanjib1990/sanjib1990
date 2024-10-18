@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe makes moves to rendezvous with asteroid Apophis in 2029](https://www.space.com/esa-ramses-mission-asteroid-apophis-2029)
+- [Bluesky surges into the top 5 as X changes blocks, permits AI training on its data](https://techcrunch.com/2024/10/18/bluesky-surges-into-the-top-5-as-x-changes-blocks-permits-ai-training-on-its-data/)
+- [Hunter&#39;s Moon supermoon 2024 puts on a frightfully good show for skywatchers around the world &lpar;photos&rpar;](https://www.space.com/hunters-moon-supermoon-2024-photos)
+- [Space pictures! See our space image of the day](https://www.space.com/34-image-day.html)
 - [Astrophotographer snaps spectacular view of annular solar eclipse from Easter Island &lpar;photo&rpar;](https://www.space.com/annular-solar-eclipse-easter-island-photo)
-- [Orionid meteor shower peaks this weekend: How to see bits of Halley&#39;s comet burn up in the night sky](https://www.space.com/orionid-meteor-shower-poor-year-2024)
-- [Tesla’s Full Self-Driving software under investigation by federal safety regulator](https://techcrunch.com/2024/10/18/teslas-full-self-driving-software-under-investigation-by-federal-safety-regulator/)
-- [SETI tests new alien-hunting strategy, but TRAPPIST-1 planets remain silent](https://www.space.com/seti-alien-hunting-trappist-1-planets-ppos)
-- [Nebius to resume Nasdaq trading after severing ties with Russia and Yandex](https://techcrunch.com/2024/10/18/nebius-to-resume-nasdaq-trading-after-severing-ties-with-russia-and-yandex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
