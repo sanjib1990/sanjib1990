@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI sues Department of Defense over listing as a Chinese military company](https://techcrunch.com/2024/10/19/dji-sues-department-of-defense-over-listing-as-a-chinese-military-company/)
+- [What we know about the layoffs at Meta](https://techcrunch.com/2024/10/19/what-we-know-about-the-layoffs-at-meta/)
 - [I just spent my first week ever with an EV, the Chevy Equinox — here’s what it was like](https://techcrunch.com/2024/10/19/i-just-spent-my-first-week-ever-with-an-ev-the-chevy-equinox-heres-what-it-was-like/)
 - [Four takeaways from Pony AI’s IPO filing](https://techcrunch.com/2024/10/19/four-takeaways-from-pony-ais-ipo-filing/)
 - [Penguin Random House is adding an AI warning to its books’ copyright pages](https://techcrunch.com/2024/10/19/penguin-random-house-is-adding-an-ai-warning-to-its-books-copyright-pages/)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/19/wordpress-vs-wp-engine-drama-explained/)
-- [Midjourney plans to let anyone on the web edit images with AI](https://techcrunch.com/2024/10/19/midjourney-plans-to-let-anyone-on-the-web-edit-images-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
