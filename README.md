@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s next-generation Nancy Roman Space Telescope aces crucial &#39;spin test&#39;](https://www.space.com/roman-space-telescope-testing-spin-test)
+- [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/)
 - [Watch SpaceX&#39;s Starship come down for nighttime splashdown during epic test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-flight-five-splashdown-video)
 - [Everything we know about Avatar: Fire and Ash: Release window, plot &amp; more](https://www.space.com/everything-we-know-about-avatar-fire-and-ash-release-date-plot-cast)
 - [SpaceX wins $733M Space Force launch contract](https://techcrunch.com/2024/10/18/spacex-wins-733m-space-force-launch-contract/)
-- [New &#39;Dune: Prophecy&#39; trailer unveils the prequel series&#39; grand scope &lpar;video&rpar;](https://www.space.com/dune-prophecy-trailer-prequel-series-video)
-- [US Space Force awards SpaceX $730 million to launch at least 9 national-security missions](https://www.space.com/space-force-spacex-national-security-launches-october-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
