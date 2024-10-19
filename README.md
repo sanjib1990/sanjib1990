@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to launch 20 Eutelsat OneWeb broadband satellites to space on Oct. 20](https://www.space.com/spacex-eutelsat-oneweb-satellite-launch-october-2024)
 - [Match’s random video chat app Azar could be the next Chatroulette — for better or for worse](https://techcrunch.com/2024/10/19/matchs-random-video-chat-app-azar-could-be-the-next-chatroulette-for-better-or-for-worse/)
 - [&#39;Starfield: Shattered Space&#39; is outlandish enough, but won&#39;t alter your perception of the game &lpar;review&rpar;](https://www.space.com/starfield-shattered-space-expansion-review)
 - [This Week In Space podcast: Episode 133 —Red Moon Rising](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-133-red-moon-rising)
 - [NASA&#39;s next-generation Nancy Roman Space Telescope aces crucial &#39;spin test&#39;](https://www.space.com/roman-space-telescope-testing-spin-test)
-- [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
