@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Match’s random video chat app Azar could be the next Chatroulette — for better or for worse](https://techcrunch.com/2024/10/19/matchs-random-video-chat-app-azar-could-be-the-next-chatroulette-for-better-or-for-worse/)
+- [&#39;Starfield: Shattered Space&#39; is outlandish enough, but won&#39;t alter your perception of the game &lpar;review&rpar;](https://www.space.com/starfield-shattered-space-expansion-review)
+- [This Week In Space podcast: Episode 133 —Red Moon Rising](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-133-red-moon-rising)
 - [NASA&#39;s next-generation Nancy Roman Space Telescope aces crucial &#39;spin test&#39;](https://www.space.com/roman-space-telescope-testing-spin-test)
 - [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2024/10/19/claude-everything-you-need-to-know-about-anthropics-ai/)
-- [Watch SpaceX&#39;s Starship come down for nighttime splashdown during epic test flight &lpar;video&rpar;](https://www.space.com/spacex-starship-flight-five-splashdown-video)
-- [Everything we know about Avatar: Fire and Ash: Release window, plot &amp; more](https://www.space.com/everything-we-know-about-avatar-fire-and-ash-release-date-plot-cast)
-- [SpaceX wins $733M Space Force launch contract](https://techcrunch.com/2024/10/18/spacex-wins-733m-space-force-launch-contract/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
