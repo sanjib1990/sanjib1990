@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Midjourney plans to let anyone on the web edit images with AI](https://techcrunch.com/2024/10/19/midjourney-plans-to-let-anyone-on-the-web-edit-images-with-ai/)
+- [Women in AI: Dr. Rebecca Portnoff is protecting children from harmful deepfakes](https://techcrunch.com/2024/10/19/women-in-ai-dr-rebecca-portnoff-is-protecting-children-from-harmful-deepfakes/)
 - [23andMe faces an uncertain future — so does your genetic data](https://techcrunch.com/2024/10/19/23andme-faces-an-uncertain-future-so-does-your-genetic-data/)
 - [SpaceX to launch 20 Eutelsat OneWeb broadband satellites to space on Oct. 20](https://www.space.com/spacex-eutelsat-oneweb-satellite-launch-october-2024)
 - [Match’s random video chat app Azar could be the next Chatroulette — for better or for worse](https://techcrunch.com/2024/10/19/matchs-random-video-chat-app-azar-could-be-the-next-chatroulette-for-better-or-for-worse/)
-- [&#39;Starfield: Shattered Space&#39; is outlandish enough, but won&#39;t alter your perception of the game &lpar;review&rpar;](https://www.space.com/starfield-shattered-space-expansion-review)
-- [This Week In Space podcast: Episode 133 —Red Moon Rising](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-133-red-moon-rising)
 <!-- BLOG-POST-LIST:END -->
 
 ---
