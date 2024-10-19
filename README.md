@@ -98,7 +98,7 @@
 - [New &#39;Dune: Prophecy&#39; trailer unveils the prequel series&#39; grand scope &lpar;video&rpar;](https://www.space.com/dune-prophecy-trailer-prequel-series-video)
 - [US Space Force awards SpaceX $730 million to launch at least 9 national-security missions](https://www.space.com/space-force-spacex-national-security-launches-october-2024)
 - [Eric Schmidt’s SandboxAQ aims for $5B valuation for its AI/quantum Google moonshot](https://techcrunch.com/2024/10/18/eric-schmidts-sandboxaq-aims-for-5b-valuation-for-its-ai-quantum-google-moonshot/)
-- [SpaceX launching 20 Starlink internet satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-8-19)
+- [SpaceX launches 20 Starlink internet satellites from Florida &lpar;video&rpar;](https://www.space.com/spacex-starlink-launch-group-8-19)
 <!-- BLOG-POST-LIST:END -->
 
 ---
