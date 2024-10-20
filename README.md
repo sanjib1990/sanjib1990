@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Women in AI: Marissa Hummon thinks AI will help make the power grid greener](https://techcrunch.com/2024/10/20/women-in-ai-marissa-hummon-thinks-ai-will-help-make-the-power-grid-greener/)
 - [Lyft is working on a ‘service animal opt-in feature’ for passengers](https://techcrunch.com/2024/10/20/lyft-is-working-on-a-service-animal-opt-in-feature-for-passengers/)
 - [Can AI sandbag safety checks to sabotage users? Yes, but not very well — for now](https://techcrunch.com/2024/10/20/can-ai-sandbag-safety-checks-to-sabotage-users-yes-but-not-very-well-for-now/)
 - [Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI](https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/)
 - [Investments in generative AI startups topped $3.9B in Q3 2024](https://techcrunch.com/2024/10/20/investments-in-generative-ai-startups-topped-3-9b-in-q3-2024/)
-- [Remote-control robots could help humanity explore the moon and Mars](https://www.space.com/moon-mars-robots-remote-control-technology)
 <!-- BLOG-POST-LIST:END -->
 
 ---
