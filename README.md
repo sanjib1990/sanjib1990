@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blowing up: Inflatable space habitats could be key to exploring the solar system](https://www.space.com/expandable-space-habitats-moon-mars-private-companies)
+- [Star Trek Universe warps into NYCC with sneak peeks at &#39;Lower Decks&#39; season 5, &#39;Strange New Worlds&#39; season 3, a date for &#39;Section 31&#39; and &#39;Starfleet Academy&#39; season 2](https://www.space.com/star-trek-nycc-2024-lower-decks-strange-new-worlds-section-31-starfleet-academy)
 - [Hubble Telescope sees &#39;stellar volcano&#39; erupt in amazing colors &lpar;video, photo&rpar;](https://www.space.com/hubble-telescope-stellar-volcano-video)
 - [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/)
 - [DJI sues Department of Defense over listing as a Chinese military company](https://techcrunch.com/2024/10/19/dji-sues-department-of-defense-over-listing-as-a-chinese-military-company/)
-- [What we know about the layoffs at Meta](https://techcrunch.com/2024/10/19/what-we-know-about-the-layoffs-at-meta/)
-- [I just spent my first week ever with an EV, the Chevy Equinox — here’s what it was like](https://techcrunch.com/2024/10/19/i-just-spent-my-first-week-ever-with-an-ev-the-chevy-equinox-heres-what-it-was-like/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
