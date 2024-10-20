@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gusto’s head of technology says hiring an army of specialists is the wrong approach to AI](https://techcrunch.com/2024/10/20/gustos-head-of-technology-says-hiring-an-army-of-specialists-is-the-wrong-approach-to-ai/)
 - [Investments in generative AI startups topped $3.9B in Q3 2024](https://techcrunch.com/2024/10/20/investments-in-generative-ai-startups-topped-3-9b-in-q3-2024/)
 - [Remote-control robots could help humanity explore the moon and Mars](https://www.space.com/moon-mars-robots-remote-control-technology)
 - [Joseph Jacks bets on open source startups, a ‘paradox of philanthropy and capitalism’](https://techcrunch.com/2024/10/20/joseph-jacks-bets-on-open-source-startups-a-paradox-of-philanthropy-and-capitalism/)
 - [&#39;Edge of Space&#39; director Jean de Meuron on his X-15 film and having &#39;the right stuff&#39; &lpar;exclusive&rpar;](https://www.space.com/edge-of-space-x-15-film-director-interview)
-- [Throne’s toilet camera takes pictures of your poop](https://techcrunch.com/2024/10/20/thrones-toilet-camera-takes-pictures-of-your-poop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
