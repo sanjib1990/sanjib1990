@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Edge of Space&#39; director Jean de Meuron on his X-15 film and having &#39;the right stuff&#39; &lpar;exclusive&rpar;](https://www.space.com/edge-of-space-x-15-film-director-interview)
+- [Throne’s toilet camera takes pictures of your poop](https://techcrunch.com/2024/10/20/thrones-toilet-camera-takes-pictures-of-your-poop/)
 - [Blowing up: Inflatable space habitats could be key to exploring the solar system](https://www.space.com/expandable-space-habitats-moon-mars-private-companies)
 - [Star Trek Universe warps into NYCC with sneak peeks at &#39;Lower Decks&#39; season 5, &#39;Strange New Worlds&#39; season 3, a date for &#39;Section 31&#39; and &#39;Starfleet Academy&#39; season 2](https://www.space.com/star-trek-nycc-2024-lower-decks-strange-new-worlds-section-31-starfleet-academy)
 - [Hubble Telescope sees &#39;stellar volcano&#39; erupt in amazing colors &lpar;video, photo&rpar;](https://www.space.com/hubble-telescope-stellar-volcano-video)
-- [Former OpenAI CTO Mira Murati is reportedly fundraising for a new AI startup](https://techcrunch.com/2024/10/19/former-openai-cto-mira-murati-is-reportedly-fundraising-for-a-new-ai-startup/)
-- [DJI sues Department of Defense over listing as a Chinese military company](https://techcrunch.com/2024/10/19/dji-sues-department-of-defense-over-listing-as-a-chinese-military-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
