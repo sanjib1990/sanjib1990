@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Content kleptocracy’: News Corp outlets sue Perplexity over scraped stories](https://techcrunch.com/2024/10/21/content-kleptocracy-news-corp-outlets-sue-perplexity-over-scraped-stories/)
+- [Where are the best Black Friday space deals?](https://www.space.com/where-are-the-best-black-friday-space-deals)
+- [Poshmark reverses decision to lower selling fees after sellers experience a drop in sales](https://techcrunch.com/2024/10/21/poshmark-reverses-decision-to-lower-selling-fees-after-sellers-experience-drop-in-sales/)
+- [Neil deGrasse Tyson explains how his updated 1st book remains &#39;deeply charming and resonating&#39; in 2024 &lpar;exclusive&rpar;](https://www.space.com/neil-degrasse-tyson-merlins-tour-of-the-universe-new-edition)
 - [xAI, Elon Musk’s AI startup, launches an API](https://techcrunch.com/2024/10/21/xai-elon-musks-ai-startup-launches-an-api/)
-- [New &#39;Lego Marvel Avengers: Mission Demolition&#39; trailer introduces D-Man from Damage Control &lpar;video&rpar;](https://www.space.com/lego-marvel-avengers-mission-demolition-trailer)
-- [Daze, a creative, AI-powered messaging app for Gen Z, is blowing up prelaunch](https://techcrunch.com/2024/10/21/daze-a-creative-ai-powered-messaging-app-for-gen-z-is-blowing-up-prelaunch/)
-- [Shobizzy, a networking app for the TV industry, aims to open new doors for freelancers](https://techcrunch.com/2024/10/21/shobizzy-networking-app-for-freelancers-in-tv-film-industry/)
-- [TechCrunch Disrupt 2024 Side Events schedule: Mercury, JETRO, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/21/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
