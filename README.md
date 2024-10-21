@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Lego Marvel Avengers: Mission Demolition&#39; trailer introduces D-Man from Damage Control &lpar;video&rpar;](https://www.space.com/lego-marvel-avengers-mission-demolition-trailer)
+- [Daze, a creative, AI-powered messaging app for Gen Z, is blowing up prelaunch](https://techcrunch.com/2024/10/21/daze-a-creative-ai-powered-messaging-app-for-gen-z-is-blowing-up-prelaunch/)
+- [Shobizzy, a networking app for the TV industry, aims to open new doors for freelancers](https://techcrunch.com/2024/10/21/shobizzy-networking-app-for-freelancers-in-tv-film-industry/)
+- [TechCrunch Disrupt 2024 Side Events schedule: Mercury, JETRO, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/21/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/)
 - [With real scientific data, artist Martin Vargic has visualized hundreds of alien planets](https://www.space.com/exoplanet-art-martin-vargic-interview)
-- [Ireland adopts Online Safety Code for video-sharing platforms including TikTok](https://techcrunch.com/2024/10/21/ireland-adopts-online-safety-code-for-video-sharing-platforms-including-tiktok/)
-- [Final countdown: 7 days until TechCrunch Disrupt 2024 kicks off](https://techcrunch.com/2024/10/21/final-countdown-7-days-until-techcrunch-disrupt-2024-kicks-off/)
-- [Uprise wants to help small businesses make better financial decisions](https://techcrunch.com/2024/10/21/uprise-wants-to-help-small-businesses-make-better-financial-decisions/)
-- [Exclusive: Doritos&#39; 1st ad filmed in space features special &#39;zero-g&#39; chips &lpar;video&rpar;](https://www.space.com/doritos-ad-filmed-space-polaris-dawn-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
