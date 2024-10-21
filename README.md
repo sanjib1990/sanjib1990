@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about Dune: Messiah](https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-dune-messiah)
+- [A closer look at the AirPods Pro’s new hearing aid features](https://techcrunch.com/2024/10/21/a-closer-look-at-the-airpods-pros-new-hearing-aid-feature/)
 - [NASA&#39;s Europa Clipper isn&#39;t just a spacecraft — it&#39;s a work of art](https://www.space.com/europa-clipper-spacecraft-art-plate-jupiter-nasa)
 - [Groww pays $160M tax as it returns to India amid a startup relocation wave](https://techcrunch.com/2024/10/21/groww-pays-160m-tax-as-it-returns-to-india-amid-a-startup-relocation-wave/)
 - [DataCrunch wants to be Europe’s first AI cloud hyperscaler — powered by renewable energy](https://techcrunch.com/2024/10/21/datacrunch-wants-to-be-europes-first-ai-cloud-hyperscaler-powered-by-renewable-energy/)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/20/wordpress-vs-wp-engine-drama-explained/)
-- [Perplexity is reportedly looking to fundraise at an $8B valuation](https://techcrunch.com/2024/10/20/perplexity-is-reportedly-looking-to-fundraise-at-an-8b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
