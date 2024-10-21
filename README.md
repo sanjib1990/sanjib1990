@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Matthew McConaughey introduces the monstrous Mara-Yama in creepy new &#39;Exodus&#39; trailer &lpar;video&rpar;](https://www.space.com/exodus-role-playing-game-trailer-october-2024)
+- [One Zero, the AI fintech started by the founder of MobileEye, is raising $100M, say sources](https://techcrunch.com/2024/10/21/one-zero-the-ai-fintech-started-by-the-founder-of-mobileeye-is-raising-100m-say-sources/)
+- [‘Blade Runner 2049’ producer accuses Musk and Tesla of circumventing copyright with AI imagery](https://techcrunch.com/2024/10/21/blade-runner-2049-producer-accuses-musk-and-tesla-of-circumventing-copyright-with-ai-imagery/)
 - [Most of Earth&#39;s meteorites may have come from the same 3 spots](https://www.space.com/earth-meteorites-asteroid-families)
 - [10 best sci-fi horror movies to watch ahead of Halloween](https://www.space.com/best-sci-fi-horror-movies)
-- [To land safely on Mars and the moon, we may need to measure dust](https://www.space.com/moon-mars-dust-measurement)
-- [What is Bluesky? Everything to know about the X competitor.](https://techcrunch.com/2024/10/21/what-is-bluesky-everything-to-know-about-the-x-competitor/)
-- [Nevoya wants to break the EV truck adoption logjam](https://techcrunch.com/2024/10/21/nevoya-wants-to-break-the-ev-truck-adoption-logjam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
