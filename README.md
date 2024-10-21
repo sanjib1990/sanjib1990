@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What happens when black holes merge?](https://www.space.com/what-happens-when-black-holes-merge)
+- [TechCrunch Space: Inverted](https://techcrunch.com/2024/10/21/techcrunch-space-inverted/)
+- [Meta tests facial recognition for spotting ‘celeb-bait’ ads scams and easier account recovery](https://techcrunch.com/2024/10/21/meta-tests-facial-recognition-for-spotting-celeb-bait-ads-scams-and-easier-account-recovery/)
+- [Meta’s smart glasses outsell traditional Ray-Bans in some stores, even before AI features roll out](https://techcrunch.com/2024/10/21/metas-smart-glasses-outsell-traditional-ray-bans-in-some-stores-even-before-ai-features-roll-out/)
 - [Matthew McConaughey introduces the monstrous Mara-Yama in creepy new &#39;Exodus&#39; trailer &lpar;video&rpar;](https://www.space.com/exodus-role-playing-game-trailer-october-2024)
-- [One Zero, the AI fintech started by the founder of MobileEye, is raising $100M, say sources](https://techcrunch.com/2024/10/21/one-zero-the-ai-fintech-started-by-the-founder-of-mobileeye-is-raising-100m-say-sources/)
-- [‘Blade Runner 2049’ producer accuses Musk and Tesla of circumventing copyright with AI imagery](https://techcrunch.com/2024/10/21/blade-runner-2049-producer-accuses-musk-and-tesla-of-circumventing-copyright-with-ai-imagery/)
-- [Most of Earth&#39;s meteorites may have come from the same 3 spots](https://www.space.com/earth-meteorites-asteroid-families)
-- [10 best sci-fi horror movies to watch ahead of Halloween](https://www.space.com/best-sci-fi-horror-movies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
