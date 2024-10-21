@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [With real scientific data, artist Martin Vargic has visualized hundreds of alien planets](https://www.space.com/exoplanet-art-martin-vargic-interview)
+- [Ireland adopts Online Safety Code for video-sharing platforms including TikTok](https://techcrunch.com/2024/10/21/ireland-adopts-online-safety-code-for-video-sharing-platforms-including-tiktok/)
+- [Final countdown: 7 days until TechCrunch Disrupt 2024 kicks off](https://techcrunch.com/2024/10/21/final-countdown-7-days-until-techcrunch-disrupt-2024-kicks-off/)
+- [Uprise wants to help small businesses make better financial decisions](https://techcrunch.com/2024/10/21/uprise-wants-to-help-small-businesses-make-better-financial-decisions/)
 - [Exclusive: Doritos&#39; 1st ad filmed in space features special &#39;zero-g&#39; chips &lpar;video&rpar;](https://www.space.com/doritos-ad-filmed-space-polaris-dawn-video)
-- [Everything we know about Dune: Messiah](https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-dune-messiah)
-- [A closer look at the AirPods Pro’s new hearing aid features](https://techcrunch.com/2024/10/21/a-closer-look-at-the-airpods-pros-new-hearing-aid-feature/)
-- [NASA&#39;s Europa Clipper isn&#39;t just a spacecraft — it&#39;s a work of art](https://www.space.com/europa-clipper-spacecraft-art-plate-jupiter-nasa)
-- [Groww pays $160M tax as it returns to India amid a startup relocation wave](https://techcrunch.com/2024/10/21/groww-pays-160m-tax-as-it-returns-to-india-amid-a-startup-relocation-wave/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
