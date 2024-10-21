@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Bluesky? Everything to know about the X competitor.](https://techcrunch.com/2024/10/21/what-is-bluesky-everything-to-know-about-the-x-competitor/)
+- [Nevoya wants to break the EV truck adoption logjam](https://techcrunch.com/2024/10/21/nevoya-wants-to-break-the-ev-truck-adoption-logjam/)
+- [Benchmark is raising $170M for its latest partners-only fund](https://techcrunch.com/2024/10/21/benchmark-is-raising-170m-for-its-latest-partners-only-fund/)
+- [X rolls out its real-time search tool, Radar, to Premium+ subscribers](https://techcrunch.com/2024/10/21/x-rolls-out-its-real-time-search-tool-radar-to-premium-subscribers/)
 - [‘Content kleptocracy’: News Corp outlets sue Perplexity over scraped stories](https://techcrunch.com/2024/10/21/content-kleptocracy-news-corp-outlets-sue-perplexity-over-scraped-stories/)
-- [Where are the best Black Friday space deals?](https://www.space.com/where-are-the-best-black-friday-space-deals)
-- [Poshmark reverses decision to lower selling fees after sellers experience a drop in sales](https://techcrunch.com/2024/10/21/poshmark-reverses-decision-to-lower-selling-fees-after-sellers-experience-drop-in-sales/)
-- [Neil deGrasse Tyson explains how his updated 1st book remains &#39;deeply charming and resonating&#39; in 2024 &lpar;exclusive&rpar;](https://www.space.com/neil-degrasse-tyson-merlins-tour-of-the-universe-new-edition)
-- [xAI, Elon Musk’s AI startup, launches an API](https://techcrunch.com/2024/10/21/xai-elon-musks-ai-startup-launches-an-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
