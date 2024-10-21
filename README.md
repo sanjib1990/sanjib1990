@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Most of Earth&#39;s meteorites may have come from the same 3 spots](https://www.space.com/earth-meteorites-asteroid-families)
+- [10 best sci-fi horror movies to watch ahead of Halloween](https://www.space.com/best-sci-fi-horror-movies)
+- [To land safely on Mars and the moon, we may need to measure dust](https://www.space.com/moon-mars-dust-measurement)
 - [What is Bluesky? Everything to know about the X competitor.](https://techcrunch.com/2024/10/21/what-is-bluesky-everything-to-know-about-the-x-competitor/)
 - [Nevoya wants to break the EV truck adoption logjam](https://techcrunch.com/2024/10/21/nevoya-wants-to-break-the-ev-truck-adoption-logjam/)
-- [Benchmark is raising $170M for its latest partners-only fund](https://techcrunch.com/2024/10/21/benchmark-is-raising-170m-for-its-latest-partners-only-fund/)
-- [X rolls out its real-time search tool, Radar, to Premium+ subscribers](https://techcrunch.com/2024/10/21/x-rolls-out-its-real-time-search-tool-radar-to-premium-subscribers/)
-- [‘Content kleptocracy’: News Corp outlets sue Perplexity over scraped stories](https://techcrunch.com/2024/10/21/content-kleptocracy-news-corp-outlets-sue-perplexity-over-scraped-stories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
