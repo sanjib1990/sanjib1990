@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Neysa bags $30M to compete with global AI hyperscalers](https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/)
+- [TechCrunch Disrupt 2024 Side Events schedule: Mercury, Jetro, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/21/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/)
 - [What happens when black holes merge?](https://www.space.com/what-happens-when-black-holes-merge)
 - [TechCrunch Space: Inverted](https://techcrunch.com/2024/10/21/techcrunch-space-inverted/)
 - [Meta tests facial recognition for spotting ‘celeb-bait’ ads scams and easier account recovery](https://techcrunch.com/2024/10/21/meta-tests-facial-recognition-for-spotting-celeb-bait-ads-scams-and-easier-account-recovery/)
-- [Meta’s smart glasses outsell traditional Ray-Bans in some stores, even before AI features roll out](https://techcrunch.com/2024/10/21/metas-smart-glasses-outsell-traditional-ray-bans-in-some-stores-even-before-ai-features-roll-out/)
-- [Matthew McConaughey introduces the monstrous Mara-Yama in creepy new &#39;Exodus&#39; trailer &lpar;video&rpar;](https://www.space.com/exodus-role-playing-game-trailer-october-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
