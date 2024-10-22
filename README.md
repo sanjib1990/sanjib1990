@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starlink internet flies on a Boeing 777 jet for the 1st time](https://www.space.com/spacex-starlink-internet-boeing-777-jet-qatar-airways)
+- [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/)
+- [SpaceX to launch 23 Starlink broadband satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-61)
 - [Fall back to Earth with Falcon 9 payload fairings in stunning new SpaceX video](https://www.space.com/spacex-starlink-falcon-9-rocket-fairing-video)
-- [Lending fintech SoLo Funds faces class-action lawsuit](https://techcrunch.com/2024/10/22/lending-fintech-solo-funds-faces-class-action-lawsuit/)
-- [See the &#39;comet of the century&#39; light up the night sky in breathtaking photos](https://www.space.com/comet-c2023-a3-tsuchinshan-atlas-photos)
-- [EVTOL startups just got a big lift from the US government](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/)
-- [Cement startup Furno lands $20M grant to build low-carbon micro-kilns in Chicago](https://techcrunch.com/2024/10/22/cement-startup-furno-lands-20m-grant-to-build-low-carbon-micro-kilns-in-chicago/)
+- [Lending fintech SoLo Funds faces class action lawsuit](https://techcrunch.com/2024/10/22/lending-fintech-solo-funds-faces-class-action-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
