@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Farewell to Foursquare’s app](https://techcrunch.com/2024/10/22/farewell-to-foursquares-app/)
+- [SEC fines four companies $7 million for ‘misleading cyber disclosures’ regarding SolarWinds hack](https://techcrunch.com/2024/10/22/sec-fines-four-companies-7-million-for-misleading-cyber-disclosures-regarding-solarwinds-hack/)
+- [How does the Cosmic Web connect Taylor Swift and the last line of your &#39;celestial address?&#39;](https://www.space.com/universe-basins-attraction-cosmic-web-taylor-swift)
 - [Researchers link Polyfill supply chain attack to huge network of copycat gambling sites](https://techcrunch.com/2024/10/22/researchers-link-polyfill-supply-chain-attack-to-huge-network-of-copycat-gambling-sites/)
 - [Thousands of creatives sign petition against AI data scraping](https://techcrunch.com/2024/10/22/thousands-of-creatives-sign-petition-against-ai-data-scraping/)
-- [6 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/22/6-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/)
-- [Artiphon’s new Orba instrument can sample sounds live](https://techcrunch.com/2024/10/22/artiphons-new-orba-instrument-can-sample-sounds-live/)
-- [The US AI Safety Institute stands on shaky ground](https://techcrunch.com/2024/10/22/the-u-s-ai-safety-institute-stands-on-shaky-ground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
