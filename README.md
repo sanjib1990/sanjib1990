@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prime Video series &#39;Secret Level&#39; unveils stellar vocal cast: Kevin Hart, Keanu Reeves and more](https://www.space.com/prime-video-unveils-voice-cast-secret-level)
+- [Interface.ai raises $30M to help banks field customer requests](https://techcrunch.com/2024/10/22/interface-ai-raises-30m-to-help-banks-field-customer-requests/)
+- [Spotify now lets you create custom cover art for your playlists](https://techcrunch.com/2024/10/22/spotify-now-lets-you-create-custom-cover-art-for-your-playlists/)
+- [Marc Andreessen says AI model makers are in ‘race to the bottom’ and it’s not good for business](https://techcrunch.com/2024/10/22/marc-andreessen-says-ai-model-makers-are-in-a-race-to-the-bottom-and-its-not-god-for-business/)
 - [NASA peers into the blistering hot plasma swirling around 12 black holes](https://www.space.com/supermassive-black-hole-corona-geometric-shapes)
-- [As Ozlo’s Sleepbuds go on sale, company raises funds for tinnitus treatment](https://techcrunch.com/2024/10/22/as-ozlos-sleepbuds-go-on-sale-company-raises-funds-for-tinnitus-treatment/)
-- [iPad Mini 2024: Keeping up with the pack](https://techcrunch.com/2024/10/22/ipad-mini-2024-keeping-up-with-the-pack/)
-- [Paccurate helps companies ship in smaller boxes, saving them money while helping the earth](https://techcrunch.com/2024/10/22/pacurrate-is-helping-brands-ship-with-less-packaging/)
-- [WhatsApp introduces contact storing directly within the app, teases usernames](https://techcrunch.com/2024/10/22/whatsapp-introduces-contact-saving-directly-within-the-app-teases-usernames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
