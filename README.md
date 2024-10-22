@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the &#39;comet of the century&#39; light up the night sky in breathtaking photos](https://www.space.com/comet-c2023-a3-tsuchinshan-atlas-photos)
+- [EVTOL startups just got a big lift from the US government](https://techcrunch.com/2024/10/22/evtol-startups-just-got-a-big-lift-from-the-us-government/)
 - [Cement startup Furno lands $20M grant to build low-carbon micro-kilns in Chicago](https://techcrunch.com/2024/10/22/cement-startup-furno-lands-20m-grant-to-build-low-carbon-micro-kilns-in-chicago/)
 - [Supergiant star Betelgeuse may have a &#39;Betelbuddy&#39;](https://www.space.com/betelbuddy-mysterious-dimming-betelgeuse-star)
 - [LinkedIn confirms the ‘follower purge’ was just a bug that’s now resolved](https://techcrunch.com/2024/10/22/linkedin-confirms-the-follower-purge-was-just-a-bug-thats-now-resolved/)
-- [One Zero could be raising $100M](https://techcrunch.com/2024/10/22/one-zero-could-be-raising-100m/)
-- [Scientists have dated the moon&#39;s oldest, and largest, impact site](https://www.space.com/moon-oldest-impact-basin-dated)
 <!-- BLOG-POST-LIST:END -->
 
 ---
