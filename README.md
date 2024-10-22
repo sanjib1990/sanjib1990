@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CrewAI uses third-party models to automate business tasks](https://techcrunch.com/2024/10/22/crewai-uses-third-party-models-to-automate-business-tasks/)
-- [India’s Zomato to raise $1B ahead of rival Swiggy IPO](https://techcrunch.com/2024/10/22/zomato-to-raise-1b-ahead-of-rival-swiggy-india-ipo/)
-- [&#39;NASA at a crossroads:&#39; Budget woes, aging infrastructure and hard choices ahead](https://www.space.com/nasa-crossroads-budget-issues-national-academies-report)
-- [Tim Cook’s other job](https://techcrunch.com/2024/10/21/tim-cooks-other-job/)
-- [Passionfroot is a marketplace for business-focused content creators looking for brand partnerships — and vice versa](https://techcrunch.com/2024/10/21/passionfroot-is-building-a-platform-for-brand-and-creator-colloboration-with-a-focus-on-b2b-sector/)
+- [Socket lands a fresh $40M to scan software for security flaws](https://techcrunch.com/2024/10/22/socket-lands-a-fresh-40m-to-scan-software-for-security-flaws/)
+- [The Pluto problem: Is it time to rethink our definition of a planet?](https://www.space.com/pluto-problem-time-to-rethink-definition-of-a-planet)
+- [Desktop AI assistant app Highlight spins out of Medal with $10M in funding](https://techcrunch.com/2024/10/22/desktop-ai-assistant-app-highlight-spins-out-of-medal-with-10m-in-funding/)
+- [After learning that you can name group chats, Tim Cook chose the safest name possible](https://techcrunch.com/2024/10/22/after-learning-that-you-can-name-group-chats-tim-cook-chose-the-safest-name-possible/)
+- [Zoom partners with Suki to offer AI-powered medical note-taking](https://techcrunch.com/2024/10/22/zoom-partners-with-suki-to-offer-ai-powered-medical-note-taking/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
