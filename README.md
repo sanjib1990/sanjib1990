@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Silly Linux mistake exposes a terabyte of secret Pokémon data](https://www.youtube.com/watch?v=NCLBok_C9Hg)
 - [Appwrite in 100 Seconds](https://www.youtube.com/watch?v=L07xPMyL8sY)
 - [Nobel Prize in Physics &lpar;&amp; Computer Science?&rpar; - Computerphile](https://www.youtube.com/watch?v=Arqi1vp68oI)
 - [Jae-Min from South Korea: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=TmbsF5HkhnU)
 - [so...I took my last video down](https://www.youtube.com/watch?v=qgySNfo3crQ)
-- [Firefox and Tor hit with 9.8 critical level exploit](https://www.youtube.com/watch?v=2RmUMmUj3u8)
 <!-- YOUTUBE:END -->
 
 ---
