@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prime Video series &#39;Secret Level&#39; unveils stellar vocal cast: Kevin Hart, Keanu Reeves and more](https://www.space.com/prime-video-unveils-voice-cast-secret-level)
-- [Interface.ai raises $30M to help banks field customer requests](https://techcrunch.com/2024/10/22/interface-ai-raises-30m-to-help-banks-field-customer-requests/)
-- [Spotify now lets you create custom cover art for your playlists](https://techcrunch.com/2024/10/22/spotify-now-lets-you-create-custom-cover-art-for-your-playlists/)
-- [Marc Andreessen says AI model makers are in ‘race to the bottom’ and it’s not good for business](https://techcrunch.com/2024/10/22/marc-andreessen-says-ai-model-makers-are-in-a-race-to-the-bottom-and-its-not-god-for-business/)
-- [NASA peers into the blistering hot plasma swirling around 12 black holes](https://www.space.com/supermassive-black-hole-corona-geometric-shapes)
+- [Comet Tsuchinshan-ATLAS is a Halloween visitor from the spooky Oort Cloud − the invisible bubble that&#39;s home to countless space objects](https://www.space.com/comet-tsuchinshan-atlas-halloween-visitor-from-oort-cloud)
+- [Anthropic’s new AI model can control your PC](https://techcrunch.com/2024/10/22/anthropics-new-ai-can-control-your-pc/)
+- [Footwork, Construct Capital, and Bessemer Venture Partners discuss how to raise capital in 2025 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/22/footwork-construct-capital-and-bessemer-venture-partners-discuss-how-to-raise-capital-in-2025-at-techcrunch-disrupt-2024/)
+- [Ex-SpaceX engineers land $14M to scale new method for 3D printing metal](https://techcrunch.com/2024/10/22/ex-spacex-engineers-land-14m-to-scale-new-method-for-3d-printing-metal/)
+- [Stability claims its newest Stable Diffusion models generate more ‘diverse’ images](https://techcrunch.com/2024/10/22/stability-claims-its-newest-stable-diffusion-models-generate-more-diverse-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
