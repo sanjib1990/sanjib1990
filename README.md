@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tim Cook’s other job](https://techcrunch.com/2024/10/21/tim-cooks-other-job/)
 - [Passionfroot is a marketplace for business-focused content creators looking for brand partnerships — and vice versa](https://techcrunch.com/2024/10/21/passionfroot-is-building-a-platform-for-brand-and-creator-colloboration-with-a-focus-on-b2b-sector/)
 - [Meta suspends accounts tracking private jets of Elon Musk, Mark Zuckerberg, and other celebrities](https://techcrunch.com/2024/10/21/meta-suspends-accounts-tracking-private-jets-of-elon-musk-mark-zuckerberg-and-other-celebrities/)
 - [India’s Neysa bags $30M to compete with global AI hyperscalers](https://techcrunch.com/2024/10/21/indias-neysa-bags-30m-to-compete-with-global-ai-hyperscalers/)
 - [TechCrunch Disrupt 2024 Side Events schedule: Mercury, Jetro, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/21/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/)
-- [What happens when black holes merge?](https://www.space.com/what-happens-when-black-holes-merge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
