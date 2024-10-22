@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Socket lands a fresh $40M to scan software for security flaws](https://techcrunch.com/2024/10/22/socket-lands-a-fresh-40m-to-scan-software-for-security-flaws/)
-- [The Pluto problem: Is it time to rethink our definition of a planet?](https://www.space.com/pluto-problem-time-to-rethink-definition-of-a-planet)
-- [Desktop AI assistant app Highlight spins out of Medal with $10M in funding](https://techcrunch.com/2024/10/22/desktop-ai-assistant-app-highlight-spins-out-of-medal-with-10m-in-funding/)
-- [After learning that you can name group chats, Tim Cook chose the safest name possible](https://techcrunch.com/2024/10/22/after-learning-that-you-can-name-group-chats-tim-cook-chose-the-safest-name-possible/)
-- [Zoom partners with Suki to offer AI-powered medical note-taking](https://techcrunch.com/2024/10/22/zoom-partners-with-suki-to-offer-ai-powered-medical-note-taking/)
+- [NASA peers into the blistering hot plasma swirling around 12 black holes](https://www.space.com/supermassive-black-hole-corona-geometric-shapes)
+- [As Ozlo’s Sleepbuds go on sale, company raises funds for tinnitus treatment](https://techcrunch.com/2024/10/22/as-ozlos-sleepbuds-go-on-sale-company-raises-funds-for-tinnitus-treatment/)
+- [iPad Mini 2024: Keeping up with the pack](https://techcrunch.com/2024/10/22/ipad-mini-2024-keeping-up-with-the-pack/)
+- [Paccurate helps companies ship in smaller boxes, saving them money while helping the earth](https://techcrunch.com/2024/10/22/pacurrate-is-helping-brands-ship-with-less-packaging/)
+- [WhatsApp introduces contact storing directly within the app, teases usernames](https://techcrunch.com/2024/10/22/whatsapp-introduces-contact-saving-directly-within-the-app-teases-usernames/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
