@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cement startup Furno lands $20M grant to build low-carbon micro-kilns in Chicago](https://techcrunch.com/2024/10/22/cement-startup-furno-lands-20m-grant-to-build-low-carbon-micro-kilns-in-chicago/)
+- [Supergiant star Betelgeuse may have a &#39;Betelbuddy&#39;](https://www.space.com/betelbuddy-mysterious-dimming-betelgeuse-star)
+- [LinkedIn confirms the ‘follower purge’ was just a bug that’s now resolved](https://techcrunch.com/2024/10/22/linkedin-confirms-the-follower-purge-was-just-a-bug-thats-now-resolved/)
+- [One Zero could be raising $100M](https://techcrunch.com/2024/10/22/one-zero-could-be-raising-100m/)
 - [Scientists have dated the moon&#39;s oldest, and largest, impact site](https://www.space.com/moon-oldest-impact-basin-dated)
-- [OpenAI hires its first chief economist](https://techcrunch.com/2024/10/22/openai-hires-its-first-chief-economist/)
-- [Farewell to Foursquare’s app](https://techcrunch.com/2024/10/22/farewell-to-foursquares-app/)
-- [SEC fines four companies $7 million for ‘misleading cyber disclosures’ regarding SolarWinds hack](https://techcrunch.com/2024/10/22/sec-fines-four-companies-7-million-for-misleading-cyber-disclosures-regarding-solarwinds-hack/)
-- [How does the Cosmic Web connect Taylor Swift and the last line of your &#39;celestial address?&#39;](https://www.space.com/universe-basins-attraction-cosmic-web-taylor-swift)
 <!-- BLOG-POST-LIST:END -->
 
 ---
