@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists have dated the moon&#39;s oldest, and largest, impact site](https://www.space.com/moon-oldest-impact-basin-dated)
+- [OpenAI hires its first chief economist](https://techcrunch.com/2024/10/22/openai-hires-its-first-chief-economist/)
 - [Farewell to Foursquare’s app](https://techcrunch.com/2024/10/22/farewell-to-foursquares-app/)
 - [SEC fines four companies $7 million for ‘misleading cyber disclosures’ regarding SolarWinds hack](https://techcrunch.com/2024/10/22/sec-fines-four-companies-7-million-for-misleading-cyber-disclosures-regarding-solarwinds-hack/)
 - [How does the Cosmic Web connect Taylor Swift and the last line of your &#39;celestial address?&#39;](https://www.space.com/universe-basins-attraction-cosmic-web-taylor-swift)
-- [Researchers link Polyfill supply chain attack to huge network of copycat gambling sites](https://techcrunch.com/2024/10/22/researchers-link-polyfill-supply-chain-attack-to-huge-network-of-copycat-gambling-sites/)
-- [Thousands of creatives sign petition against AI data scraping](https://techcrunch.com/2024/10/22/thousands-of-creatives-sign-petition-against-ai-data-scraping/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
