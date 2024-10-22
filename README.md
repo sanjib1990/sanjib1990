@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Comet Tsuchinshan-ATLAS is a Halloween visitor from the spooky Oort Cloud − the invisible bubble that&#39;s home to countless space objects](https://www.space.com/comet-tsuchinshan-atlas-halloween-visitor-from-oort-cloud)
-- [Anthropic’s new AI model can control your PC](https://techcrunch.com/2024/10/22/anthropics-new-ai-can-control-your-pc/)
-- [Footwork, Construct Capital, and Bessemer Venture Partners discuss how to raise capital in 2025 at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/22/footwork-construct-capital-and-bessemer-venture-partners-discuss-how-to-raise-capital-in-2025-at-techcrunch-disrupt-2024/)
-- [Ex-SpaceX engineers land $14M to scale new method for 3D printing metal](https://techcrunch.com/2024/10/22/ex-spacex-engineers-land-14m-to-scale-new-method-for-3d-printing-metal/)
-- [Stability claims its newest Stable Diffusion models generate more ‘diverse’ images](https://techcrunch.com/2024/10/22/stability-claims-its-newest-stable-diffusion-models-generate-more-diverse-images/)
+- [Researchers link Polyfill supply chain attack to huge network of copycat gambling sites](https://techcrunch.com/2024/10/22/researchers-link-polyfill-supply-chain-attack-to-huge-network-of-copycat-gambling-sites/)
+- [Thousands of creatives sign petition against AI data scraping](https://techcrunch.com/2024/10/22/thousands-of-creatives-sign-petition-against-ai-data-scraping/)
+- [6 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/22/6-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/)
+- [Artiphon’s new Orba instrument can sample sounds live](https://techcrunch.com/2024/10/22/artiphons-new-orba-instrument-can-sample-sounds-live/)
+- [The US AI Safety Institute stands on shaky ground](https://techcrunch.com/2024/10/22/the-u-s-ai-safety-institute-stands-on-shaky-ground/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
