@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mini &#39;2001&#39; monoliths fly into space on first flight of Blue Origin&#39;s 2nd crew ship](https://www.space.com/2001-space-odyssey-monolith-blue-origin-ns-27)
+- [Spooky fireball blazes across Lake Erie a week before Halloween &lpar;video&rpar;](https://www.space.com/stargazing/meteors-showers/spooky-fireball-blazes-across-lake-erie-a-week-before-halloween-video)
+- [Philly’s Portal is like social media come to life](https://techcrunch.com/2024/10/23/phillys-portal-is-like-social-media-come-to-life/)
 - [Arm reportedly cancels Qualcomm design license](https://techcrunch.com/2024/10/23/arm-reportedly-cancels-qualcomm-design-license/)
 - [Bookcase can turn an iPhone into an e-reader](https://techcrunch.com/2024/10/23/bookcase-can-turn-an-iphone-into-an-e-reader/)
-- [Boeing-built communications satellite breaks up in orbit. &#39;Total loss,&#39; operator says](https://www.space.com/intelsat-33e-satellite-total-loss-breakup-pieces)
-- [Longtime policy researcher Miles Brundage leaves OpenAI](https://techcrunch.com/2024/10/23/longtime-policy-researcher-miles-brundage-leaves-openai/)
-- [Wayve starts testing its buzzy end-to-end self-driving tech in the US](https://techcrunch.com/2024/10/23/wayve-starts-testing-its-buzzy-end-to-end-self-driving-tech-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
