@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Man of Steel&#39; Henry Cavill to star in new live-action &#39;Voltron&#39; movie](https://www.space.com/henry-cavill-star-live-action-voltron-movie)
-- [Fixify blends automation and human analysts to tackle IT problems](https://techcrunch.com/2024/10/23/fixify-blends-automation-and-human-analysts-to-tackle-it-problems/)
-- [How moon-landing teams are learning from each other to make the next lunar leap](https://www.space.com/moon-landing-teams-lessons-learned-touchdown-attempts)
-- [China rolls out rocket for Shenzhou-19 astronaut launch &lpar;video&rpar;](https://www.space.com/china-shenzhou-19-rocket-roll-lanch-pad-video)
-- [Sensei reels in $16M to expand its contactless store platform in Europe](https://techcrunch.com/2024/10/22/contactles-stores-to-grow-in-europe-as-sensei-reels-in-another-16m/)
+- [NASA astronaut makes dazzling &#39;Jupiter-like planet&#39; on ISS using water and food coloring &lpar;photo&rpar;](https://www.space.com/nasa-astronaut-don-pettit-jupiter-water-ball-iss)
+- [&#39;The Orville&#39; executive producer delivers deluxe guidebook to the cult sci-fi series &lpar;exclusive interview&rpar;](https://www.space.com/guide-to-the-orville-book-preview)
+- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/)
+- [TikTok will now show its STEM feed to adults, not just teens](https://techcrunch.com/2024/10/23/tiktok-will-now-show-its-stem-feed-to-adults-not-just-teens/)
+- [Andreessen Horowitz helps founders meet compute needs with ‘Oxygen’ private GPU cluster](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
