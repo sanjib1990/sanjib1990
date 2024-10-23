@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Contactles stores to grow in Europe as  Sensei reels in another $16M](https://techcrunch.com/2024/10/22/contactles-stores-to-grow-in-europe-as-sensei-reels-in-another-16m/)
 - [India’s Paytm wins approval to resume payments growth](https://techcrunch.com/2024/10/22/paytm-wins-approval-to-resume-payments-growth/)
 - [James Webb Space Telescope sees lonely supermassive black hole-powered quasars in the early universe](https://www.space.com/james-webb-space-telescope-ancient-black-hole-quasar)
 - [SpaceX&#39;s Starlink internet flies on a Boeing 777 jet for the 1st time](https://www.space.com/spacex-starlink-internet-boeing-777-jet-qatar-airways)
 - [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/)
-- [SpaceX to launch 23 Starlink broadband satellites from Florida on Oct. 23](https://www.space.com/spacex-starlink-launch-group-6-61)
 <!-- BLOG-POST-LIST:END -->
 
 ---
