@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Promise Bio exits stealth backed by Pfizer and AstraZeneca](https://techcrunch.com/2024/10/23/promise-bio-exits-stealth-backed-by-pfizer-and-astrazeneca/)
+- [Wiz hopes to hit $1B in ARR in 2025 before an IPO, after turning down Google’s $23B](https://techcrunch.com/2024/10/23/wiz-hopes-to-hit-1b-in-arr-in-2025-before-an-ipo-after-turning-down-googles-23b/)
+- [TechCrunch Disrupt 2024 full Roundtable Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-roundtable-session-agenda/)
+- [5 days to go: TechCrunch Disrupt 2024 kicks off and ticket prices go up](https://techcrunch.com/2024/10/23/5-days-to-go-techcrunch-disrupt-2024-kicks-off-ticket-prices-go-up/)
 - [NASA astronaut makes dazzling &#39;Jupiter-like planet&#39; on ISS using water and food coloring &lpar;photo&rpar;](https://www.space.com/nasa-astronaut-don-pettit-jupiter-water-ball-iss)
-- [&#39;The Orville&#39; executive producer delivers deluxe guidebook to the cult sci-fi series &lpar;exclusive interview&rpar;](https://www.space.com/guide-to-the-orville-book-preview)
-- [VCs love using the AI meeting notepad Granola, so they gave it $20M](https://techcrunch.com/2024/10/23/vcs-love-using-the-ai-meeting-notepad-granola-so-they-gave-it-20m/)
-- [TikTok will now show its STEM feed to adults, not just teens](https://techcrunch.com/2024/10/23/tiktok-will-now-show-its-stem-feed-to-adults-not-just-teens/)
-- [Andreessen Horowitz helps founders meet compute needs with ‘Oxygen’ private GPU cluster](https://techcrunch.com/2024/10/23/andreessen-horowitz-helps-founders-meet-compute-needs-with-oxygen-private-gpu-cluster/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
