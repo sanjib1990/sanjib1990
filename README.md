@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How moon-landing teams are learning from each other to make the next lunar leap](https://www.space.com/moon-landing-teams-lessons-learned-touchdown-attempts)
 - [China rolls out rocket for Shenzhou-19 astronaut launch &lpar;video&rpar;](https://www.space.com/china-shenzhou-19-rocket-roll-lanch-pad-video)
 - [Contactless stores to grow in Europe as  Sensei reels in another $16M](https://techcrunch.com/2024/10/22/contactles-stores-to-grow-in-europe-as-sensei-reels-in-another-16m/)
 - [India’s Paytm wins approval to resume onboarding new UPI users](https://techcrunch.com/2024/10/22/paytm-wins-approval-to-resume-payments-growth/)
 - [James Webb Space Telescope sees lonely supermassive black hole-powered quasars in the early universe](https://www.space.com/james-webb-space-telescope-ancient-black-hole-quasar)
-- [SpaceX&#39;s Starlink internet flies on a Boeing 777 jet for the 1st time](https://www.space.com/spacex-starlink-internet-boeing-777-jet-qatar-airways)
 <!-- BLOG-POST-LIST:END -->
 
 ---
