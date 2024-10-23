@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rolls out Super Heavy rocket for Starship Flight 6 test launch &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-roll-out-flight-test-six)
+- [Boox’s phone-size e-reader gets faster processing and a fingerprint reader](https://techcrunch.com/2024/10/23/booxs-phone-size-e-reader-gets-faster-processing-and-a-fingerprint-reader/)
+- [Tesla Cybertruck pushes past Ford Mach-E to become third best-selling EV in America](https://techcrunch.com/2024/10/23/tesla-cybertruck-pushes-past-ford-mach-e-to-become-third-best-selling-ev-in-america/)
+- [Devialet launches new high-end audio amplifier](https://techcrunch.com/2024/10/23/devialet-updates-its-high-end-audio-amplifier/)
 - [&#39;Futurama&#39; creator Matt Groening says &#39;great episodes in the works&#39; for upcoming Season 13](https://www.space.com/entertainment/futurama-creator-matt-groening-says-great-episodes-in-the-works-for-upcoming-season-13)
-- [Beleaguered startup Humane drops AI Pin price by $200](https://techcrunch.com/2024/10/23/beleaguered-startup-humane-drops-ai-pin-price-by-200/)
-- [Headless &#39;Halloween comet&#39; could already be doomed](https://www.space.com/halloween-comet-headless-already-doomed)
-- [Mini &#39;2001&#39; monoliths fly into space on first flight of Blue Origin&#39;s 2nd crew ship](https://www.space.com/2001-space-odyssey-monolith-blue-origin-ns-27)
-- [Spooky fireball blazes across Lake Erie a week before Halloween &lpar;video&rpar;](https://www.space.com/stargazing/meteors-showers/spooky-fireball-blazes-across-lake-erie-a-week-before-halloween-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
