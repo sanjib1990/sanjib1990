@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Predator: Badlands&#39; coming to theaters in fall 2025](https://www.space.com/predator-badlands-coming-to-theaters-in-fall-2025)
-- [How to reduce your carbon footprint when shopping this Black Friday and Cyber Monday](https://www.space.com/how-to-reduce-carbon-footprint-during-black-friday-and-cyber-monday)
-- [Watch SpaceX Crew-8 astronauts undock from ISS today after weather delays](https://www.space.com/spacex-crew-8-iss-undocking-splashdown-webcast)
-- [Tom Hardy says farewell to the alien symbiote at NYCC&#39;s &#39;Venom: The Last Dance&#39; panel](https://www.space.com/tom-hardy-venom-last-dance-nycc-2024)
-- [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/)
+- [Arm reportedly cancels Qualcomm design license](https://techcrunch.com/2024/10/23/arm-reportedly-cancels-qualcomm-design-license/)
+- [Bookcase can turn an iPhone into an e-reader](https://techcrunch.com/2024/10/23/bookcase-can-turn-an-iphone-into-an-e-reader/)
+- [Boeing-built communications satellite breaks up in orbit. &#39;Total loss,&#39; operator says](https://www.space.com/intelsat-33e-satellite-total-loss-breakup-pieces)
+- [Longtime policy researcher Miles Brundage leaves OpenAI](https://techcrunch.com/2024/10/23/longtime-policy-researcher-miles-brundage-leaves-openai/)
+- [Wayve starts testing its buzzy end-to-end self-driving tech in the US](https://techcrunch.com/2024/10/23/wayve-starts-testing-its-buzzy-end-to-end-self-driving-tech-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
