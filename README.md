@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope sees lonely supermassive black hole-powered quasars in the early universe](https://www.space.com/james-webb-space-telescope-ancient-black-hole-quasar)
 - [SpaceX&#39;s Starlink internet flies on a Boeing 777 jet for the 1st time](https://www.space.com/spacex-starlink-internet-boeing-777-jet-qatar-airways)
 - [Ro CEO Zachariah Reitano says the benefits of being a private company are growing](https://techcrunch.com/2024/10/22/ro-ceo-zachariah-reitano-says-the-benefits-of-being-a-private-company-are-growing/)
 - [SpaceX to launch 23 Starlink broadband satellites from Florida tonight](https://www.space.com/spacex-starlink-launch-group-6-61)
 - [Fall back to Earth with Falcon 9 payload fairings in stunning new SpaceX video](https://www.space.com/spacex-starlink-falcon-9-rocket-fairing-video)
-- [Lending fintech SoLo Funds faces class action lawsuit](https://techcrunch.com/2024/10/22/lending-fintech-solo-funds-faces-class-action-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
