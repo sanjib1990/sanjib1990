@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Predator: Badlands&#39; coming to theaters in fall 2025](https://www.space.com/predator-badlands-coming-to-theaters-in-fall-2025)
+- [How to reduce your carbon footprint when shopping this Black Friday and Cyber Monday](https://www.space.com/how-to-reduce-carbon-footprint-during-black-friday-and-cyber-monday)
+- [Watch SpaceX Crew-8 astronauts undock from ISS today after weather delays](https://www.space.com/spacex-crew-8-iss-undocking-splashdown-webcast)
 - [Tom Hardy says farewell to the alien symbiote at NYCC&#39;s &#39;Venom: The Last Dance&#39; panel](https://www.space.com/tom-hardy-venom-last-dance-nycc-2024)
 - [DuckDuckGo will be making more early-stage investments in privacy-focused startups](https://techcrunch.com/2024/10/23/duckduckgo-will-be-making-more-early-stage-investments-in-privacy-focused-startups/)
-- [Google releases tech to watermark AI-generated text](https://techcrunch.com/2024/10/23/google-releases-tech-to-watermark-ai-generated-text/)
-- [TechCrunch Disrupt 2024 Side Events schedule: Mercury, Jetro, Enterprise Ireland, and more to host](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-side-events-schedule-mercury-jetro-enterprise-ireland-and-more-to-host/)
-- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
