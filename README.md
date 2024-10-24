@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn fined $356 million in EU for  tracking ads privacy breaches](https://techcrunch.com/2024/10/24/linkedin-fined-356-million-in-eu-for-tracking-ads-privacy-breaches/)
+- [Saturn gets its 1st confirmed Trojan asteroid — but it might be stolen](https://www.space.com/saturn-first-trojan-2019uo14-asteroid-stolen)
+- [LinkedIn fined $335 million in EU for  tracking ads privacy breaches](https://techcrunch.com/2024/10/24/linkedin-fined-356-million-in-eu-for-tracking-ads-privacy-breaches/)
 - [Vinted hits $5.4B valuation amid wave of secondary share sales in Europe](https://techcrunch.com/2024/10/24/vinted-hits-5-4b-valuation-amid-wave-of-secondary-share-sales-in-europe/)
 - [SpaceX to launch next-gen US spy satellites today on 100th Falcon 9 flight of the year](https://www.space.com/spacex-nrol-167-launch-spy-satellites)
 - [Perplexity launches a native Mac app](https://techcrunch.com/2024/10/24/perplexity-launches-a-native-mac-app/)
-- [Intel’s $1.45 billion EU antitrust fine is officially history](https://techcrunch.com/2024/10/24/intels-1-45-billion-eu-antitrust-fine-is-officially-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
