@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists found one of the largest carbon-based space molecules ever. Here&#39;s why that&#39;s a big deal](https://www.space.com/largest-carbon-based-molecule-in-space-ever-found)
+- [Bluesky raises $15M Series A, plans to launch subscriptions](https://techcrunch.com/2024/10/24/bluesky-raises-15m-series-a-plans-to-launch-subscriptions/)
+- [Here is Notion’s email client](https://techcrunch.com/2024/10/24/here-is-notions-email-client/)
 - [Wayve takes to the streets of San Francisco, Elon Musk makes another robotaxi promise, and inside Pony.AI’s IPO](https://techcrunch.com/2024/10/24/wayve-takes-to-the-streets-of-san-francisco-elon-musk-makes-another-robotaxi-promise-and-inside-pony-ais-ipo/)
 - [Native Union’s clever little combo charger just earned a spot in my travel bag](https://techcrunch.com/2024/10/24/native-unions-clever-little-combo-charger-just-earned-a-spot-in-my-travel-bag/)
-- [Fighting space junk: More than 100 partners sign Europe&#39;s &#39;Zero Debris Charter&#39;](https://www.space.com/europe-space-junk-zero-debris-charter-100-partners-iac)
-- [WordPress co-founder Matt Mullenweg is joining TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/24/wordpress-co-founder-matt-mullenweg-is-joining-techcrunch-disrupt-2024/)
-- [&#39;Star Trek: Lower Decks&#39;: What the main cast will miss most about their quirky characters &lpar;exclusive&rpar;](https://www.space.com/star-trek-lower-decks-season-5-cast-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
