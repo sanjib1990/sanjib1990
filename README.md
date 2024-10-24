@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cheers lets you play matchmaker with friends](https://techcrunch.com/2024/10/24/cheers-lets-you-play-matchmaker-with-friends/)
-- [New lunar-themed Google Doodle and card game honor October&#39;s last quarter moon](https://www.space.com/google-doodle-honors-october-last-quarter-moon)
-- [Concentric helps companies keep track of their sensitive data](https://techcrunch.com/2024/10/24/concentric-helps-companies-keep-track-of-their-sensitive-data/)
-- [This new UK startup is building classic-style cars with a modern EV twist](https://techcrunch.com/2024/10/24/this-new-uk-startup-is-building-classic-style-cars-with-a-modern-ev-twist/)
-- [StrictlyVC joins its first TechCrunch Disrupt](https://techcrunch.com/2024/10/24/strictlyvc-joins-its-first-techcrunch-disrupt-2024/)
+- [Apple Vision Pro production reportedly scaled back due to disappointing demand](https://techcrunch.com/2024/10/24/apple-vision-pro-production-reportedly-scaled-back-due-to-disappointing-demand/)
+- [Medtech Alimetry gases up with $18 million for a wearable to help diagnose gastric disorders](https://techcrunch.com/2024/10/24/medtech-alimetry-gases-up-with-18-million-for-a-wearable-to-help-diagnose-gastric-disorders/)
+- [In a cosmic horror show, this zombie star survived a supernova explosion](https://www.space.com/zombie-star-dandelion-supernova)
+- [Save 32% on the Celestron PowerSeeker 127EQ telescope](https://www.space.com/celestron-powerseeker-127eq-pre-black-friday-32-percent-off-2024)
+- [Cafeteria raises $3M to connect brands with their most opinionated customers: teens](https://techcrunch.com/2024/10/24/cafeteria-raises-3m-to-connect-brands-with-their-most-opinionated-customers-teens/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
