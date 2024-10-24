@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embattled Astra scores DOD contract to develop point-to-point cargo delivery from space](https://techcrunch.com/2024/10/24/embattled-astra-scores-dod-contract-to-develop-point-to-point-cargo-delivery-from-space/)
+- [Joby launches $200M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/10/24/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/)
+- [How the ransomware attack at Change Healthcare went down: A timeline](https://techcrunch.com/2024/10/24/how-the-ransomware-attack-at-change-healthcare-went-down-a-timeline/)
+- [Lumen Orbit closed one of the biggest rounds from Y Combinator’s last cohort](https://techcrunch.com/2024/10/24/lumen-orbit-closed-one-of-the-biggest-rounds-from-y-combinators-last-cohort/)
 - [‘They wish this technology didn’t exist’: Perplexity responds to News Corp’s lawsuit](https://techcrunch.com/2024/10/24/they-wish-this-technology-didnt-exist-perplexity-responds-to-news-corps-lawsuit/)
-- [Chinese company Deep Blue Aerospace plans to start launching space tourists in 2027](https://www.space.com/china-deep-blue-aerospace-space-tourism-flights-2027)
-- [UnitedHealth says Change Healthcare data breach affects over 100 million people in America](https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/)
-- [Electric aircraft startup Lilium has run out of money](https://techcrunch.com/2024/10/24/lilium-shuts-down-electric-aircraft-germany-startup/)
-- [Apple will pay security researchers up to $1 million to hack its private AI cloud](https://techcrunch.com/2024/10/24/apple-will-pay-security-researchers-up-to-1-million-to-hack-its-private-ai-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
