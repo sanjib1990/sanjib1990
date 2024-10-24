@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Vision Pro production reportedly scaled back due to disappointing demand](https://techcrunch.com/2024/10/24/apple-vision-pro-production-reportedly-scaled-back-due-to-disappointing-demand/)
-- [Medtech Alimetry gases up with $18 million for a wearable to help diagnose gastric disorders](https://techcrunch.com/2024/10/24/medtech-alimetry-gases-up-with-18-million-for-a-wearable-to-help-diagnose-gastric-disorders/)
-- [In a cosmic horror show, this zombie star survived a supernova explosion](https://www.space.com/zombie-star-dandelion-supernova)
-- [Save 32% on the Celestron PowerSeeker 127EQ telescope](https://www.space.com/celestron-powerseeker-127eq-pre-black-friday-32-percent-off-2024)
-- [Cafeteria raises $3M to connect brands with their most opinionated customers: teens](https://techcrunch.com/2024/10/24/cafeteria-raises-3m-to-connect-brands-with-their-most-opinionated-customers-teens/)
+- [Wayve takes to the streets of San Francisco, Elon Musk makes another robotaxi promise, and inside Pony.AI’s IPO](https://techcrunch.com/2024/10/24/wayve-takes-to-the-streets-of-san-francisco-elon-musk-makes-another-robotaxi-promise-and-inside-pony-ais-ipo/)
+- [Native Union’s clever little combo charger just earned a spot in my travel bag](https://techcrunch.com/2024/10/24/native-unions-clever-little-combo-charger-just-earned-a-spot-in-my-travel-bag/)
+- [Fighting space junk: More than 100 partners sign Europe&#39;s &#39;Zero Debris Charter&#39;](https://www.space.com/europe-space-junk-zero-debris-charter-100-partners-iac)
+- [WordPress co-founder Matt Mullenweg is joining TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/24/wordpress-co-founder-matt-mullenweg-is-joining-techcrunch-disrupt-2024/)
+- [&#39;Star Trek: Lower Decks&#39;: What the main cast will miss most about their quirky characters &lpar;exclusive&rpar;](https://www.space.com/star-trek-lower-decks-season-5-cast-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
