@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion’s email product is nearing launch](https://techcrunch.com/2024/10/24/notions-email-product-is-nearing-launch/)
-- [Breakthrough coming? Iceland could get solar power from space in 2030](https://www.space.com/iceland-space-based-solar-power)
-- [After selling Anchor to Spotify, co-founders reunite to build AI educational startup Oboe](https://techcrunch.com/2024/10/24/after-selling-anchor-to-spotify-co-founders-reunite-to-build-ai-educational-startup-oboe/)
-- [From Goodreads’ founder, Smashing debuts its AI-powered app for online readers](https://techcrunch.com/2024/10/24/smashing-an-ai-powered-app-for-online-readers-launches-to-the-public/)
-- [Watch sun unleash major X-flare in epic solar eruption &lpar;video&rpar;](https://www.space.com/watch-sun-unleash-x-class-solar-flare-eruption-emerging-sunspot-ar3869)
+- [Cheers lets you play matchmaker with friends](https://techcrunch.com/2024/10/24/cheers-lets-you-play-matchmaker-with-friends/)
+- [New lunar-themed Google Doodle and card game honor October&#39;s last quarter moon](https://www.space.com/google-doodle-honors-october-last-quarter-moon)
+- [Concentric helps companies keep track of their sensitive data](https://techcrunch.com/2024/10/24/concentric-helps-companies-keep-track-of-their-sensitive-data/)
+- [This new UK startup is building classic-style cars with a modern EV twist](https://techcrunch.com/2024/10/24/this-new-uk-startup-is-building-classic-style-cars-with-a-modern-ev-twist/)
+- [StrictlyVC joins its first TechCrunch Disrupt](https://techcrunch.com/2024/10/24/strictlyvc-joins-its-first-techcrunch-disrupt-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
