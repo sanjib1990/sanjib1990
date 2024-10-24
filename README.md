@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn fined $356 million in EU for  tracking ads privacy breaches](https://techcrunch.com/2024/10/24/linkedin-fined-356-million-in-eu-for-tracking-ads-privacy-breaches/)
+- [Vinted hits $5.4B valuation amid wave of secondary share sales in Europe](https://techcrunch.com/2024/10/24/vinted-hits-5-4b-valuation-amid-wave-of-secondary-share-sales-in-europe/)
+- [SpaceX to launch next-gen US spy satellites today on 100th Falcon 9 flight of the year](https://www.space.com/spacex-nrol-167-launch-spy-satellites)
+- [Perplexity launches a native Mac app](https://techcrunch.com/2024/10/24/perplexity-launches-a-native-mac-app/)
 - [Intel’s $1.45 billion EU antitrust fine is officially history](https://techcrunch.com/2024/10/24/intels-1-45-billion-eu-antitrust-fine-is-officially-history/)
-- [Spotify adds auto-moderation tool to help podcasters manage comments](https://techcrunch.com/2024/10/24/spotify-adds-auto-moderation-tool-to-help-podcasters-manage-comments/)
-- [Raspberry Pi releases more AI-focused add-ons](https://techcrunch.com/2024/10/24/raspberry-pi-releases-more-ai-focused-add-ons/)
-- [Nvidia signs a slew of AI-related deals in India](https://techcrunch.com/2024/10/23/nvidia-deepens-india-ai-drive-with-new-partnerships/)
-- [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
