@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia deepens India AI drive with new partnerships](https://techcrunch.com/2024/10/23/nvidia-deepens-india-ai-drive-with-new-partnerships/)
+- [Raspberry Pi releases more AI-focused add-ons](https://techcrunch.com/2024/10/24/raspberry-pi-releases-more-ai-focused-add-ons/)
+- [Nvidia signs a slew of AI-related deals in India](https://techcrunch.com/2024/10/23/nvidia-deepens-india-ai-drive-with-new-partnerships/)
 - [Cash collection startup Upflow also wants to handle B2B payments](https://techcrunch.com/2024/10/23/cash-collection-startup-upflow-also-wants-to-handle-b2b-payments/)
 - [Pinterest faces EU privacy complaint over tracking ads](https://techcrunch.com/2024/10/23/pinterest-faces-eu-privacy-complaint-over-tracking-ads/)
 - [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/)
-- [X’s India revenue falls 90%, filing shows](https://techcrunch.com/2024/10/23/xs-india-revenue-falls-90-filing-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
