@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launch startup Astra gets up to $44 million from US military for new &#39;Rocket 4&#39; line](https://www.space.com/astra-us-military-funding-rocket-4-line)
+- [Supply chain startup Interos lands new customers, cash](https://techcrunch.com/2024/10/24/supply-chain-startup-interos-lands-new-customers-cash/)
+- [AI networking startup Boardy raises $3M pre-seed](https://techcrunch.com/2024/10/24/ai-networking-startup-boardy-raises-3m-pre-seed/)
+- [General Catalyst raises $8B in fresh funds to back startups globally](https://techcrunch.com/2024/10/24/general-catalyst-raises-8b-in-fresh-funds-to-back-startups-globally/)
 - [Saturn gets its 1st confirmed Trojan asteroid — but it might be stolen](https://www.space.com/saturn-first-trojan-2019uo14-asteroid-stolen)
-- [LinkedIn fined $335 million in EU for  tracking ads privacy breaches](https://techcrunch.com/2024/10/24/linkedin-fined-356-million-in-eu-for-tracking-ads-privacy-breaches/)
-- [Vinted hits $5.4B valuation amid wave of secondary share sales in Europe](https://techcrunch.com/2024/10/24/vinted-hits-5-4b-valuation-amid-wave-of-secondary-share-sales-in-europe/)
-- [SpaceX to launch next-gen US spy satellites today on 100th Falcon 9 flight of the year](https://www.space.com/spacex-nrol-167-launch-spy-satellites)
-- [Perplexity launches a native Mac app](https://techcrunch.com/2024/10/24/perplexity-launches-a-native-mac-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
