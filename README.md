@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch sun erupt in 1st images from NOAA&#39;s groundbreaking new satellite &lpar;photos&rpar;](https://www.space.com/sun-noaa-first-space-based-coronagraph-images)
+- [Google adds new disclosures for AI photos, but it’s still not obvious at first glance](https://techcrunch.com/2024/10/24/google-adds-new-disclosures-for-ai-photos-but-its-still-not-obvious-at-first-glance/)
+- [49 US startups have become unicorns so far in 2024: Here’s the full list](https://techcrunch.com/2024/10/24/38-startups-have-become-unicorns-so-far-in-2024-heres-the-full-list/)
 - [Tesla’s $25,000 EV flip-flop, explained](https://techcrunch.com/2024/10/24/teslas-25000-ev-flip-flop-explained/)
 - [&#39;Superluminous&#39; nova from rare stellar duo spotted in Milky Way&#39;s galactic neighbor](https://www.space.com/superluminous-nova-small-magellanic-cloud-milky-way-neighbor)
-- [Watch SpaceX Crew-8 astronauts return to Earth early Oct. 25](https://www.space.com/spacex-crew-8-astronaut-mission-return-to-earth)
-- [Zero Motorcycles is raising $120 million](https://techcrunch.com/2024/10/24/zero-motorcycles-is-raising-120-million/)
-- [Scientists found one of the largest carbon-based space molecules ever. Here&#39;s why that&#39;s a big deal](https://www.space.com/largest-carbon-based-molecule-in-space-ever-found)
 <!-- BLOG-POST-LIST:END -->
 
 ---
