@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s $25,000 EV flip-flop, explained](https://techcrunch.com/2024/10/24/teslas-25000-ev-flip-flop-explained/)
+- [&#39;Superluminous&#39; nova from rare stellar duo spotted in Milky Way&#39;s galactic neighbor](https://www.space.com/superluminous-nova-small-magellanic-cloud-milky-way-neighbor)
+- [Watch SpaceX Crew-8 astronauts return to Earth early Oct. 25](https://www.space.com/spacex-crew-8-astronaut-mission-return-to-earth)
+- [Zero Motorcycles is raising $120 million](https://techcrunch.com/2024/10/24/zero-motorcycles-is-raising-120-million/)
 - [Scientists found one of the largest carbon-based space molecules ever. Here&#39;s why that&#39;s a big deal](https://www.space.com/largest-carbon-based-molecule-in-space-ever-found)
-- [Bluesky raises $15M Series A, plans to launch subscriptions](https://techcrunch.com/2024/10/24/bluesky-raises-15m-series-a-plans-to-launch-subscriptions/)
-- [Here is Notion’s email client](https://techcrunch.com/2024/10/24/here-is-notions-email-client/)
-- [Wayve takes to the streets of San Francisco, Elon Musk makes another robotaxi promise, and inside Pony.AI’s IPO](https://techcrunch.com/2024/10/24/wayve-takes-to-the-streets-of-san-francisco-elon-musk-makes-another-robotaxi-promise-and-inside-pony-ais-ipo/)
-- [Native Union’s clever little combo charger just earned a spot in my travel bag](https://techcrunch.com/2024/10/24/native-unions-clever-little-combo-charger-just-earned-a-spot-in-my-travel-bag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
