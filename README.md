@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch startup Astra gets up to $44 million from US military for new &#39;Rocket 4&#39; line](https://www.space.com/astra-us-military-funding-rocket-4-line)
-- [Supply chain startup Interos lands new customers, cash](https://techcrunch.com/2024/10/24/supply-chain-startup-interos-lands-new-customers-cash/)
-- [AI networking startup Boardy raises $3M pre-seed](https://techcrunch.com/2024/10/24/ai-networking-startup-boardy-raises-3m-pre-seed/)
-- [General Catalyst raises $8B in fresh funds to back startups globally](https://techcrunch.com/2024/10/24/general-catalyst-raises-8b-in-fresh-funds-to-back-startups-globally/)
-- [Saturn gets its 1st confirmed Trojan asteroid — but it might be stolen](https://www.space.com/saturn-first-trojan-2019uo14-asteroid-stolen)
+- [Notion’s email product is nearing launch](https://techcrunch.com/2024/10/24/notions-email-product-is-nearing-launch/)
+- [Breakthrough coming? Iceland could get solar power from space in 2030](https://www.space.com/iceland-space-based-solar-power)
+- [After selling Anchor to Spotify, co-founders reunite to build AI educational startup Oboe](https://techcrunch.com/2024/10/24/after-selling-anchor-to-spotify-co-founders-reunite-to-build-ai-educational-startup-oboe/)
+- [From Goodreads’ founder, Smashing debuts its AI-powered app for online readers](https://techcrunch.com/2024/10/24/smashing-an-ai-powered-app-for-online-readers-launches-to-the-public/)
+- [Watch sun unleash major X-flare in epic solar eruption &lpar;video&rpar;](https://www.space.com/watch-sun-unleash-x-class-solar-flare-eruption-emerging-sunspot-ar3869)
 <!-- BLOG-POST-LIST:END -->
 
 ---
