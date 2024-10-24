@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch sun erupt in 1st images from NOAA&#39;s groundbreaking new satellite &lpar;photos&rpar;](https://www.space.com/sun-noaa-first-space-based-coronagraph-images)
-- [Google adds new disclosures for AI photos, but it’s still not obvious at first glance](https://techcrunch.com/2024/10/24/google-adds-new-disclosures-for-ai-photos-but-its-still-not-obvious-at-first-glance/)
-- [49 US startups have become unicorns so far in 2024: Here’s the full list](https://techcrunch.com/2024/10/24/38-startups-have-become-unicorns-so-far-in-2024-heres-the-full-list/)
-- [Tesla’s $25,000 EV flip-flop, explained](https://techcrunch.com/2024/10/24/teslas-25000-ev-flip-flop-explained/)
-- [&#39;Superluminous&#39; nova from rare stellar duo spotted in Milky Way&#39;s galactic neighbor](https://www.space.com/superluminous-nova-small-magellanic-cloud-milky-way-neighbor)
+- [‘They wish this technology didn’t exist’: Perplexity responds to News Corp’s lawsuit](https://techcrunch.com/2024/10/24/they-wish-this-technology-didnt-exist-perplexity-responds-to-news-corps-lawsuit/)
+- [Chinese company Deep Blue Aerospace plans to start launching space tourists in 2027](https://www.space.com/china-deep-blue-aerospace-space-tourism-flights-2027)
+- [UnitedHealth says Change Healthcare data breach affects over 100 million people in America](https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/)
+- [Electric aircraft startup Lilium has run out of money](https://techcrunch.com/2024/10/24/lilium-shuts-down-electric-aircraft-germany-startup/)
+- [Apple will pay security researchers up to $1 million to hack its private AI cloud](https://techcrunch.com/2024/10/24/apple-will-pay-security-researchers-up-to-1-million-to-hack-its-private-ai-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
