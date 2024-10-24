@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VW spinoff Scout reveals its EV vision and it includes a model with a gas-powered generator](https://techcrunch.com/2024/10/24/vw-spinoff-scout-reveals-its-ev-vision-and-it-includes-a-model-with-a-gas-powered-generator/)
+- [Blue Origin certifies second capsule for suborbital space tourism flights](https://techcrunch.com/2024/10/24/blue-origin-certifies-second-capsule-for-suborbital-space-tourism-flights/)
 - [Embattled Astra scores DOD contract to develop point-to-point cargo delivery from space](https://techcrunch.com/2024/10/24/embattled-astra-scores-dod-contract-to-develop-point-to-point-cargo-delivery-from-space/)
 - [Joby launches $200M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/10/24/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/)
 - [How the ransomware attack at Change Healthcare went down: A timeline](https://techcrunch.com/2024/10/24/how-the-ransomware-attack-at-change-healthcare-went-down-a-timeline/)
-- [Lumen Orbit closed one of the biggest rounds from Y Combinator’s last cohort](https://techcrunch.com/2024/10/24/lumen-orbit-closed-one-of-the-biggest-rounds-from-y-combinators-last-cohort/)
-- [‘They wish this technology didn’t exist’: Perplexity responds to News Corp’s lawsuit](https://techcrunch.com/2024/10/24/they-wish-this-technology-didnt-exist-perplexity-responds-to-news-corps-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
