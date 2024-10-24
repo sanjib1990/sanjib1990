@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pinterest faces EU privacy complaint over tracking ads](https://techcrunch.com/2024/10/23/pinterest-faces-eu-privacy-complaint-over-tracking-ads/)
+- [TechCrunch Disrupt 2024 full Breakout Session agenda](https://techcrunch.com/2024/10/23/techcrunch-disrupt-2024-full-breakout-session-agenda/)
 - [X’s India revenue falls 90%, filing shows](https://techcrunch.com/2024/10/23/xs-india-revenue-falls-90-filing-shows/)
 - [Tesla is testing a robotaxi service that Elon Musk claims will launch next year](https://techcrunch.com/2024/10/23/tesla-is-testing-a-robotaxi-service-that-elon-musk-claims-will-launch-next-year/)
 - [The Space Development Agency taps 19 companies for future defense demo missions](https://techcrunch.com/2024/10/23/the-space-development-agency-taps-19-companies-for-future-defense-demo-missions/)
-- [Bessemer, Index, and a16z alum launch VC firm Chemistry](https://techcrunch.com/2024/10/23/bessemer-index-and-a16z-alum-launch-vc-firm-chemistry/)
-- [SpaceX rolls out Super Heavy rocket for Starship Flight 6 test launch &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-roll-out-flight-test-six)
 <!-- BLOG-POST-LIST:END -->
 
 ---
