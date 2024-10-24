@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla is testing a robotaxi service that Elon Musk claims will launch next year](https://techcrunch.com/2024/10/23/tesla-is-testing-a-robotaxi-service-that-elon-musk-claims-will-launch-next-year/)
 - [The Space Development Agency taps 19 companies for future defense demo missions](https://techcrunch.com/2024/10/23/the-space-development-agency-taps-19-companies-for-future-defense-demo-missions/)
 - [Bessemer, Index, and a16z alum launch VC firm Chemistry](https://techcrunch.com/2024/10/23/bessemer-index-and-a16z-alum-launch-vc-firm-chemistry/)
 - [SpaceX rolls out Super Heavy rocket for Starship Flight 6 test launch &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-booster-roll-out-flight-test-six)
 - [Boox’s phone-size e-reader gets faster processing and a fingerprint reader](https://techcrunch.com/2024/10/23/booxs-phone-size-e-reader-gets-faster-processing-and-a-fingerprint-reader/)
-- [Tesla Cybertruck pushes past Ford Mach-E to become third best-selling EV in America](https://techcrunch.com/2024/10/23/tesla-cybertruck-pushes-past-ford-mach-e-to-become-third-best-selling-ev-in-america/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
