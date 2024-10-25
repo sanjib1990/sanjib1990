@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Techcrunch Disrupt 2024 starts Monday — our partners have helped us create an unforgettable experience that you shouldn’t miss](https://techcrunch.com/2024/10/25/disrupt-starts-monday-our-partners-have-helped-us-create-an-unforgettable-experience-that-you-shouldnt-miss/)
-- [A star exploded almost 1000 years ago and left us with the gorgeous Crab Nebula. Here&#39;s how to see it](https://www.space.com/the-universe/stars/a-star-exploded-almost-1000-years-ago-and-left-us-with-the-gorgeous-crab-nebula-heres-how-to-see-it)
-- [Classic Christmas song gets authorized Spanish reworking thanks to ‘responsible’ AI](https://techcrunch.com/2024/10/25/classic-christmas-song-gets-authorized-spanish-reworking-thanks-to-responsible-ai/)
-- [China launches new set of classified Yaogan spy satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-spy-satellite-launch-october-2024)
-- [SpaceX Crew-8 astronauts taken to Pensacola hospital for extra medical checks after Dragon capsule splashdown, NASA says](https://www.space.com/space-exploration/international-space-station/spacex-crew-8-astronauts-taken-to-pensacola-hospital-for-extra-medical-checks-after-dragon-capsule-splashdown-nasa-says)
+- [Here&#39;s what China launched to orbit on its retrievable satellite last month &lpar;video&rpar;](https://www.space.com/china-reveals-payloads-shijian-19-retrievable-satellite-video)
+- [Prominent crypto critic says someone offered bribes to take down a blog post](https://techcrunch.com/2024/10/25/prominent-crypto-critic-says-someone-offered-bribes-to-take-down-a-blog-post/)
+- [The fediverse is getting its own TikTok competitor called Loops](https://techcrunch.com/2024/10/25/the-fediverse-is-getting-its-own-tiktok-competitor-called-loops/)
+- [The Celestron NexStar 130 SLT is nearly $200 off ahead of Black Friday](https://www.space.com/celestron-nexstar-130slt-early-black-friday-deal-save-over-180-dollars)
+- [OpenAI says it won’t release a model called Orion this year](https://techcrunch.com/2024/10/25/openai-says-it-wont-release-a-model-called-orion-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
