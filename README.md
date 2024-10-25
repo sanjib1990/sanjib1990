@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Lower Decks&#39; Season 5 episodes 1 and 2: Green Orions vs. Blue Orions, what&#39;s the difference?](https://www.space.com/star-trek-lower-decks-season-5-episodes-1-2-who-are-orions)
 - [Massive, bustling Perseus galaxy cluster dazzles in new telescope image](https://www.space.com/perseus-galaxy-cluster-gemini-north-telescope-photo)
 - [Airdog’s founders are back with a precision-strike drone meant for modern warfare](https://techcrunch.com/2024/10/25/airdogs-founders-are-back-with-a-precision-strike-drone-meant-for-modern-warfare/)
 - [Crew-8 astronauts splash down on SpaceX Dragon Endeavour after weather delays](https://www.space.com/spacex-crew-8-endeavour-landing)
 - [YouTube brings its affilate program to India, partners with Flipkart](https://techcrunch.com/2024/10/24/youtube-brings-its-affilate-program-to-india-partners-with-walmart-owned-flipkart/)
-- [Google Calendar gets a design refresh, dark mode](https://techcrunch.com/2024/10/24/google-calendar-gets-a-design-refresh-along-with-dark-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
