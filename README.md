@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Techcrunch Disrupt 2024 starts Monday — our partners have helped us create an unforgettable experience that you shouldn’t miss](https://techcrunch.com/2024/10/25/disrupt-starts-monday-our-partners-have-helped-us-create-an-unforgettable-experience-that-you-shouldnt-miss/)
+- [A star exploded almost 1000 years ago and left us with the gorgeous Crab Nebula. Here&#39;s how to see it](https://www.space.com/the-universe/stars/a-star-exploded-almost-1000-years-ago-and-left-us-with-the-gorgeous-crab-nebula-heres-how-to-see-it)
+- [Classic Christmas song gets authorized Spanish reworking thanks to ‘responsible’ AI](https://techcrunch.com/2024/10/25/classic-christmas-song-gets-authorized-spanish-reworking-thanks-to-responsible-ai/)
 - [China launches new set of classified Yaogan spy satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-spy-satellite-launch-october-2024)
 - [SpaceX Crew-8 astronauts taken to Pensacola hospital for extra medical checks after Dragon capsule splashdown, NASA says](https://www.space.com/space-exploration/international-space-station/spacex-crew-8-astronauts-taken-to-pensacola-hospital-for-extra-medical-checks-after-dragon-capsule-splashdown-nasa-says)
-- [YC startup Pharos lands a $5M seed led by Felicis to bring AI to hospital quality reporting](https://techcrunch.com/2024/10/25/yc-startup-pharos-lands-a-5m-seed-led-by-felicis-to-bring-ai-to-quality-reporting/)
-- [NASA&#39;s Robonaut-2 reunited with its ride into space at Smithsonian](https://www.space.com/robonaut-2-r2-humanoid-smithsonian-display)
-- [Apple upgrades TestFlight with redesigned invites, testing criteria, and more](https://techcrunch.com/2024/10/25/apple-upgrades-testflight-with-redesigned-invites-testing-criteria-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
