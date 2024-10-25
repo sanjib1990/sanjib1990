@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [your home automation SUCKS!!](https://www.youtube.com/watch?v=k02P5nghmfs)
 - [JavaScript framework reinvents itself… Did &quot;runes&quot; just ruin Svelte?](https://www.youtube.com/watch?v=aYyZUDFZTrM)
 - [The &quot;Goodbye&quot; Problem - Computerphile](https://www.youtube.com/watch?v=Isen8IHtrvE)
 - [Claude has taken control of my computer...](https://www.youtube.com/watch?v=DVRg0daTads)
 - [Silly Linux mistake exposes a terabyte of secret Pokémon data](https://www.youtube.com/watch?v=NCLBok_C9Hg)
-- [Appwrite in 100 Seconds](https://www.youtube.com/watch?v=L07xPMyL8sY)
 <!-- YOUTUBE:END -->
 
 ---
