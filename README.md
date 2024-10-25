@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A meteorite 200 times bigger than the dinosaur-killing asteroid helped life on Earth flourish](https://www.space.com/meteorite-s2-dinosaur-killing-life)
+- [3 days left: TechCrunch Disrupt 2024 kicks off and ticket prices increase](https://techcrunch.com/2024/10/25/3-days-left-techcrunch-disrupt-2024-kicks-off-and-ticket-prices-increase/)
+- [Elon Musk reportedly chats often with Putin](https://techcrunch.com/2024/10/25/elon-musk-reportedly-chats-often-with-putin/)
 - [Apple adds a menu in iOS 18.2 to change default apps including messages and calls](https://techcrunch.com/2024/10/25/apple-adds-a-menu-in-ios-18-2-to-change-default-apps-including-messages-and-calls/)
 - [Listen to haunting sounds of Earth&#39;s magnetic field flipping 41,000 years ago in eerie new animation](https://www.space.com/earth-magnetic-field-flipping-haunting-sounds)
-- [Screenable’s app turns any iPhone into a starter phone for kids](https://techcrunch.com/2024/10/25/screenables-app-turns-any-iphone-into-a-starter-phone-for-kids/)
-- [SpaceX Crew-8 astronaut mission: Live updates](https://www.space.com/news/live/spacex-crew-dragon-mission-updates)
-- [&#39;Star Trek: Lower Decks&#39; Season 5 episodes 1 and 2: Green Orions vs. Blue Orions, what&#39;s the difference?](https://www.space.com/star-trek-lower-decks-season-5-episodes-1-2-who-are-orions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
