@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China launches new set of classified Yaogan spy satellites &lpar;video&rpar;](https://www.space.com/china-yaogan-spy-satellite-launch-october-2024)
+- [SpaceX Crew-8 astronauts taken to Pensacola hospital for extra medical checks after Dragon capsule splashdown, NASA says](https://www.space.com/space-exploration/international-space-station/spacex-crew-8-astronauts-taken-to-pensacola-hospital-for-extra-medical-checks-after-dragon-capsule-splashdown-nasa-says)
+- [YC startup Pharos lands a $5M seed led by Felicis to bring AI to hospital quality reporting](https://techcrunch.com/2024/10/25/yc-startup-pharos-lands-a-5m-seed-led-by-felicis-to-bring-ai-to-quality-reporting/)
 - [NASA&#39;s Robonaut-2 reunited with its ride into space at Smithsonian](https://www.space.com/robonaut-2-r2-humanoid-smithsonian-display)
 - [Apple upgrades TestFlight with redesigned invites, testing criteria, and more](https://techcrunch.com/2024/10/25/apple-upgrades-testflight-with-redesigned-invites-testing-criteria-and-more/)
-- [Waymo raises $5.6B from Alphabet, a16z, Silver Lake, and more](https://techcrunch.com/2024/10/25/waymo-raises-5-6b-from-alphabet-a16z-silver-lake-and-more/)
-- [NASA&#39;s solar-sailing spacecraft has a bent boom in Earth orbit &lpar;photo&rpar;](https://www.space.com/nasa-acs3-solar-sail-bent-boom)
-- [Perplexity says it’s now serving 100M search queries a week](https://techcrunch.com/2024/10/25/perplexity-says-its-now-serving-100m-search-queries-a-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
