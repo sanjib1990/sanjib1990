@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube brings its affilate program to India, partners with Walmart-owned Flipkart](https://techcrunch.com/2024/10/24/youtube-brings-its-affilate-program-to-india-partners-with-walmart-owned-flipkart/)
-- [Google Calendar gets a design refresh along with dark mode](https://techcrunch.com/2024/10/24/google-calendar-gets-a-design-refresh-along-with-dark-mode/)
+- [Crew-8 astronauts splash down on SpaceX Dragon Endeavour after weather delays](https://www.space.com/spacex-crew-8-endeavour-landing)
+- [YouTube brings its affilate program to India, partners with Flipkart](https://techcrunch.com/2024/10/24/youtube-brings-its-affilate-program-to-india-partners-with-walmart-owned-flipkart/)
+- [Google Calendar gets a design refresh, dark mode](https://techcrunch.com/2024/10/24/google-calendar-gets-a-design-refresh-along-with-dark-mode/)
 - [OpenAI reportedly plans to release its Orion AI model by December](https://techcrunch.com/2024/10/24/openai-reportedly-plans-to-release-its-orion-ai-model-by-december/)
 - [TikTok accounts are becoming divorce fodder](https://techcrunch.com/2024/10/24/tiktok-accounts-are-becoming-divorce-fodder/)
-- [VW spinoff Scout reveals its EV vision and it includes a model with a gas-powered generator](https://techcrunch.com/2024/10/24/vw-spinoff-scout-reveals-its-ev-vision-and-it-includes-a-model-with-a-gas-powered-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
