@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Comet Tsuchinshan-ATLAS eject a tail of gas and dust as it flies past the sun &lpar;photos&rpar;](https://www.space.com/the-universe/solar-system/comet-tsuchinshan-atlas-dust-trail-navy-telescope-photos)
+- [What is Apple Intelligence, when is it coming and who will get it?](https://techcrunch.com/2024/10/25/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/)
 - [Not all startups mourn IPOs, but liquidity still must flow](https://techcrunch.com/2024/10/25/not-all-startups-mourn-ipos-but-liquidity-still-must-flow/)
 - [Rental car startup Kyte slashes staff and shrinks to two markets in bid for survival](https://techcrunch.com/2024/10/25/rental-car-startup-kyte-slashes-staff-and-shrinks-to-two-markets-in-bid-for-survival/)
 - [&#39;Alien: Romulus&#39; sequel in the works, new &#39;Alien vs. Predator&#39; will &#39;probably&#39; happen](https://www.space.com/alien-romulus-sequel-in-the-works-at-20th-century-studios-new-alien-vs-predator-will-probably-happen)
-- [Here&#39;s what China launched to orbit on its retrievable satellite last month &lpar;video&rpar;](https://www.space.com/china-reveals-payloads-shijian-19-retrievable-satellite-video)
-- [Prominent crypto critic says someone offered bribes to take down a blog post](https://techcrunch.com/2024/10/25/prominent-crypto-critic-says-someone-offered-bribes-to-take-down-a-blog-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
