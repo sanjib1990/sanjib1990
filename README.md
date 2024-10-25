@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Lower Decks&#39; scores an inventive interactive graphic novel, &#39;Warp Your Own Way&#39;](https://www.space.com/entertainment/star-trek-lower-decks-scores-an-inventive-interactive-graphic-novel-warp-your-own-way)
+- [FTC hits Lyft with $2.1M penalty for luring drivers with false earnings claims](https://techcrunch.com/2024/10/25/ftc-hits-lyft-with-2-1m-penalty-for-luring-drivers-with-false-earnings-claims/)
 - [James Webb Space Telescope finds 1st &#39;failed star&#39; candidates beyond the Milky Way](https://www.space.com/jwst-failed-star-brown-dwarf-outside-milky-way)
 - [See Comet Tsuchinshan-ATLAS eject a tail of gas and dust as it flies past the sun &lpar;photos&rpar;](https://www.space.com/the-universe/solar-system/comet-tsuchinshan-atlas-dust-trail-navy-telescope-photos)
 - [What is Apple Intelligence, when is it coming and who will get it?](https://techcrunch.com/2024/10/25/what-is-apple-intelligence-when-is-coming-and-who-will-get-it/)
-- [Not all startups mourn IPOs, but liquidity still must flow](https://techcrunch.com/2024/10/25/not-all-startups-mourn-ipos-but-liquidity-still-must-flow/)
-- [Rental car startup Kyte slashes staff and shrinks to two markets in bid for survival](https://techcrunch.com/2024/10/25/rental-car-startup-kyte-slashes-staff-and-shrinks-to-two-markets-in-bid-for-survival/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
