@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Massive, bustling Perseus galaxy cluster dazzles in new telescope image](https://www.space.com/perseus-galaxy-cluster-gemini-north-telescope-photo)
+- [Airdog’s founders are back with a precision-strike drone meant for modern warfare](https://techcrunch.com/2024/10/25/airdogs-founders-are-back-with-a-precision-strike-drone-meant-for-modern-warfare/)
 - [Crew-8 astronauts splash down on SpaceX Dragon Endeavour after weather delays](https://www.space.com/spacex-crew-8-endeavour-landing)
 - [YouTube brings its affilate program to India, partners with Flipkart](https://techcrunch.com/2024/10/24/youtube-brings-its-affilate-program-to-india-partners-with-walmart-owned-flipkart/)
 - [Google Calendar gets a design refresh, dark mode](https://techcrunch.com/2024/10/24/google-calendar-gets-a-design-refresh-along-with-dark-mode/)
-- [OpenAI reportedly plans to release its Orion AI model by December](https://techcrunch.com/2024/10/24/openai-reportedly-plans-to-release-its-orion-ai-model-by-december/)
-- [TikTok accounts are becoming divorce fodder](https://techcrunch.com/2024/10/24/tiktok-accounts-are-becoming-divorce-fodder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
