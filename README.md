@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A meteorite 200 times bigger than the dinosaur-killing asteroid helped life on Earth flourish](https://www.space.com/meteorite-s2-dinosaur-killing-life)
-- [3 days left: TechCrunch Disrupt 2024 kicks off and ticket prices increase](https://techcrunch.com/2024/10/25/3-days-left-techcrunch-disrupt-2024-kicks-off-and-ticket-prices-increase/)
-- [Elon Musk reportedly chats often with Putin](https://techcrunch.com/2024/10/25/elon-musk-reportedly-chats-often-with-putin/)
-- [Apple adds a menu in iOS 18.2 to change default apps including messages and calls](https://techcrunch.com/2024/10/25/apple-adds-a-menu-in-ios-18-2-to-change-default-apps-including-messages-and-calls/)
-- [Listen to haunting sounds of Earth&#39;s magnetic field flipping 41,000 years ago in eerie new animation](https://www.space.com/earth-magnetic-field-flipping-haunting-sounds)
+- [NASA&#39;s Robonaut-2 reunited with its ride into space at Smithsonian](https://www.space.com/robonaut-2-r2-humanoid-smithsonian-display)
+- [Apple upgrades TestFlight with redesigned invites, testing criteria, and more](https://techcrunch.com/2024/10/25/apple-upgrades-testflight-with-redesigned-invites-testing-criteria-and-more/)
+- [Waymo raises $5.6B from Alphabet, a16z, Silver Lake, and more](https://techcrunch.com/2024/10/25/waymo-raises-5-6b-from-alphabet-a16z-silver-lake-and-more/)
+- [NASA&#39;s solar-sailing spacecraft has a bent boom in Earth orbit &lpar;photo&rpar;](https://www.space.com/nasa-acs3-solar-sail-bent-boom)
+- [Perplexity says it’s now serving 100M search queries a week](https://techcrunch.com/2024/10/25/perplexity-says-its-now-serving-100m-search-queries-a-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
