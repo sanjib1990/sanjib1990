@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Whisper transcription tool has hallucination issues, researchers say](https://techcrunch.com/2024/10/26/openais-whisper-transcription-tool-has-hallucination-issues-researchers-say/)
+- [OpenAI denies it’s releasing a model called ‘Orion’ this year](https://techcrunch.com/2024/10/26/openai-denies-its-releasing-a-model-called-orion-this-year/)
 - [Apple wins $250 from Masimo in watch patent trial](https://techcrunch.com/2024/10/26/apple-wins-250-from-masimo-in-watch-patent-trial/)
 - [SpaceX to launch 22 Starlink internet satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-10-8)
 - [VC megadeals are booming — and AI is surprisingly not the top category](https://techcrunch.com/2024/10/26/vc-megadeals-are-booming-and-ai-is-surprisingly-not-the-top-category/)
-- [Before and after satellite images show lakes appearing across Sahara after deluge of rain soaks desert](https://www.space.com/sahara-lakes-appear-after-rain-soaks-desert-before-after-images)
-- [This Week In Space podcast: Episode 134 —The Spruce Space Shuttle](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-134-spruce-space-shuttle)
 <!-- BLOG-POST-LIST:END -->
 
 ---
