@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [McDonald’s broken ice cream machines could get fixed faster thanks to new federal rule](https://techcrunch.com/2024/10/25/mcdonalds-broken-ice-cream-machines-could-get-fixed-faster-thanks-to-new-federal-rule/)
+- [NAACP launches $200 million fund of funds](https://techcrunch.com/2024/10/25/naacp-launches-200-million-fund-of-funds/)
 - [‘Yikes’: While gaming, Musk inadvertently broadcasts ‘scary’ near-abort of Starship booster landing](https://techcrunch.com/2024/10/25/yikes-while-gaming-musk-inadvertently-broadcasts-scary-near-abort-of-starship-booster-landing/)
 - [&#39;Star Trek: Lower Decks&#39; scores an inventive interactive graphic novel, &#39;Warp Your Own Way&#39;](https://www.space.com/entertainment/star-trek-lower-decks-scores-an-inventive-interactive-graphic-novel-warp-your-own-way)
 - [FTC hits Lyft with $2.1M penalty for luring drivers with false earnings claims](https://techcrunch.com/2024/10/25/ftc-hits-lyft-with-2-1m-penalty-for-luring-drivers-with-false-earnings-claims/)
-- [James Webb Space Telescope finds 1st &#39;failed star&#39; candidates beyond the Milky Way](https://www.space.com/jwst-failed-star-brown-dwarf-outside-milky-way)
-- [See Comet Tsuchinshan-ATLAS eject a tail of gas and dust as it flies past the sun &lpar;photos&rpar;](https://www.space.com/the-universe/solar-system/comet-tsuchinshan-atlas-dust-trail-navy-telescope-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
