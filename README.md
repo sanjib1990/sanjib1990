@@ -97,7 +97,7 @@
 - [OpenAI’s Whisper transcription tool has hallucination issues, researchers say](https://techcrunch.com/2024/10/26/openais-whisper-transcription-tool-has-hallucination-issues-researchers-say/)
 - [OpenAI denies it’s releasing a model called ‘Orion’ this year](https://techcrunch.com/2024/10/26/openai-denies-its-releasing-a-model-called-orion-this-year/)
 - [Apple wins $250 from Masimo in watch patent trial](https://techcrunch.com/2024/10/26/apple-wins-250-from-masimo-in-watch-patent-trial/)
-- [SpaceX to launch 22 Starlink internet satellites from Florida this evening](https://www.space.com/spacex-starlink-launch-group-10-8)
+- [SpaceX launches 22 Starlink internet satellites from Florida](https://www.space.com/spacex-starlink-launch-group-10-8)
 - [VC megadeals are booming — and AI is surprisingly not the top category](https://techcrunch.com/2024/10/26/vc-megadeals-are-booming-and-ai-is-surprisingly-not-the-top-category/)
 <!-- BLOG-POST-LIST:END -->
 
