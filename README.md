@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apollo 14 astronaut&#39;s personal moon-flown Rolex watch sells for record $2.2 million](https://www.space.com/rolex-gmt-master-apollo-14-edgar-mitchell-moon-auction)
+- [Jon McNeill’s lessons on innovation through subtraction](https://techcrunch.com/2024/10/26/jon-mcneills-lessons-on-innovation-through-subtraction/)
+- [User’s guide to TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/26/users-guide-to-techcrunch-disrupt-2024/)
 - [More than just auroras: My Norwegian adventure with The Northern Lights Company](https://www.space.com/aurora-tour-northern-lights-company-experience-norway)
 - [Does alien life need a planet to survive? Scientists propose intriguing possibility](https://www.space.com/does-alien-life-need-a-planet-to-survive)
-- [McDonald’s broken ice cream machines could get fixed faster thanks to new federal rule](https://techcrunch.com/2024/10/25/mcdonalds-broken-ice-cream-machines-could-get-fixed-faster-thanks-to-new-federal-rule/)
-- [NAACP launches $200 million fund of funds](https://techcrunch.com/2024/10/25/naacp-launches-200-million-fund-of-funds/)
-- [‘Yikes’: While gaming, Musk inadvertently broadcasts ‘scary’ near-abort of Starship booster landing](https://techcrunch.com/2024/10/25/yikes-while-gaming-musk-inadvertently-broadcasts-scary-near-abort-of-starship-booster-landing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
