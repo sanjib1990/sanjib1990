@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does alien life need a planet to survive? Scientists propose intriguing possibility](https://www.space.com/does-alien-life-need-a-planet-to-survive)
 - [McDonald’s broken ice cream machines could get fixed faster thanks to new federal rule](https://techcrunch.com/2024/10/25/mcdonalds-broken-ice-cream-machines-could-get-fixed-faster-thanks-to-new-federal-rule/)
 - [NAACP launches $200 million fund of funds](https://techcrunch.com/2024/10/25/naacp-launches-200-million-fund-of-funds/)
 - [‘Yikes’: While gaming, Musk inadvertently broadcasts ‘scary’ near-abort of Starship booster landing](https://techcrunch.com/2024/10/25/yikes-while-gaming-musk-inadvertently-broadcasts-scary-near-abort-of-starship-booster-landing/)
 - [&#39;Star Trek: Lower Decks&#39; scores an inventive interactive graphic novel, &#39;Warp Your Own Way&#39;](https://www.space.com/entertainment/star-trek-lower-decks-scores-an-inventive-interactive-graphic-novel-warp-your-own-way)
-- [FTC hits Lyft with $2.1M penalty for luring drivers with false earnings claims](https://techcrunch.com/2024/10/25/ftc-hits-lyft-with-2-1m-penalty-for-luring-drivers-with-false-earnings-claims/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
