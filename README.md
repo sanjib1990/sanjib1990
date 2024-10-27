@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jon McNeill’s insights on Tesla’s robotaxi and why EV startups fail](https://techcrunch.com/2024/10/27/jon-mcneills-insights-on-teslas-robotaxi-and-why-ev-startups-fail/)
+- [Get Ready! TechCrunch Disrupt 2024 kicks off tomorrow and ticket prices increase](https://techcrunch.com/2024/10/27/get-ready-techcrunch-disrupt-2024-kicks-off-tomorrow-and-ticket-prices-increase/)
+- [Earth from space: Bizarre &#39;pet cloud&#39; reappears above its favorite spot in New Zealand](https://www.space.com/pet-cloud-reappears-above-new-zealand)
 - [NASDAQ CEO Adena Friedman isn’t surprised we haven’t seen a resurgence in startup IPOs yet](https://techcrunch.com/2024/10/27/nasdaq-ceo-adena-friedman-isnt-surprised-we-havent-seen-a-resurgence-in-startup-ipos-yet/)
 - [What next for NASA&#39;s Europa Clipper? The long road to Jupiter and its moons](https://www.space.com/europa-clipper-what-next-jupiter-moons)
-- [OpenAI’s Whisper transcription tool has hallucination issues, researchers say](https://techcrunch.com/2024/10/26/openais-whisper-transcription-tool-has-hallucination-issues-researchers-say/)
-- [OpenAI denies it’s releasing a model called ‘Orion’ this year](https://techcrunch.com/2024/10/26/openai-denies-its-releasing-a-model-called-orion-this-year/)
-- [Apple wins $250 from Masimo in watch patent trial](https://techcrunch.com/2024/10/26/apple-wins-250-from-masimo-in-watch-patent-trial/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
