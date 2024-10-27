@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Founders and VCs back a pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/)
 - [The next Mac mini might be nearly as small as an Apple TV](https://techcrunch.com/2024/10/27/the-next-mac-mini-might-be-nearly-as-small-as-an-apple-tv/)
 - [Meta releases an ‘open’ version of Google’s podcast generator](https://techcrunch.com/2024/10/27/meta-releases-an-open-version-of-googles-podcast-generator/)
 - [Everything we know about &#39;Elio&#39;](https://www.space.com/everything-we-know-about-elio)
 - [Merlin Solar bets twisty panels will help it land on rooftops everywhere](https://techcrunch.com/2024/10/27/merlin-solar-bets-twisty-panels-will-help-it-land-on-rooftops-everywhere/)
-- [New study of Apollo 16 moon samples reveals hidden lunar history](https://www.space.com/apollo-16-moon-samples-lunar-history)
 <!-- BLOG-POST-LIST:END -->
 
 ---
