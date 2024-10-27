@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta releases an ‘open’ version of Google’s podcast generator](https://techcrunch.com/2024/10/27/meta-releases-an-open-version-of-googles-podcast-generator/)
 - [Everything we know about &#39;Elio&#39;](https://www.space.com/everything-we-know-about-elio)
 - [Merlin Solar bets twisty panels will help it land on rooftops everywhere](https://techcrunch.com/2024/10/27/merlin-solar-bets-twisty-panels-will-help-it-land-on-rooftops-everywhere/)
 - [New study of Apollo 16 moon samples reveals hidden lunar history](https://www.space.com/apollo-16-moon-samples-lunar-history)
 - [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/)
-- [Jon McNeill’s insights on Tesla’s robotaxi and why EV startups fail](https://techcrunch.com/2024/10/27/jon-mcneills-insights-on-teslas-robotaxi-and-why-ev-startups-fail/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
