@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about &#39;Elio&#39;](https://www.space.com/everything-we-know-about-elio)
+- [Merlin Solar bets twisty panels will help it land on rooftops everywhere](https://techcrunch.com/2024/10/27/merlin-solar-bets-twisty-panels-will-help-it-land-on-rooftops-everywhere/)
 - [New study of Apollo 16 moon samples reveals hidden lunar history](https://www.space.com/apollo-16-moon-samples-lunar-history)
 - [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/)
 - [Jon McNeill’s insights on Tesla’s robotaxi and why EV startups fail](https://techcrunch.com/2024/10/27/jon-mcneills-insights-on-teslas-robotaxi-and-why-ev-startups-fail/)
-- [Get Ready! TechCrunch Disrupt 2024 kicks off tomorrow and ticket prices increase](https://techcrunch.com/2024/10/27/get-ready-techcrunch-disrupt-2024-kicks-off-tomorrow-and-ticket-prices-increase/)
-- [Earth from space: Bizarre &#39;pet cloud&#39; reappears above its favorite spot in New Zealand](https://www.space.com/pet-cloud-reappears-above-new-zealand)
 <!-- BLOG-POST-LIST:END -->
 
 ---
