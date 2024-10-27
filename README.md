@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New study of Apollo 16 moon samples reveals hidden lunar history](https://www.space.com/apollo-16-moon-samples-lunar-history)
+- [Arcade, a new AI product creation platform, designed this necklace](https://techcrunch.com/2024/10/27/arcade-a-new-ai-product-creation-platform-designed-this-necklace/)
 - [Jon McNeill’s insights on Tesla’s robotaxi and why EV startups fail](https://techcrunch.com/2024/10/27/jon-mcneills-insights-on-teslas-robotaxi-and-why-ev-startups-fail/)
 - [Get Ready! TechCrunch Disrupt 2024 kicks off tomorrow and ticket prices increase](https://techcrunch.com/2024/10/27/get-ready-techcrunch-disrupt-2024-kicks-off-tomorrow-and-ticket-prices-increase/)
 - [Earth from space: Bizarre &#39;pet cloud&#39; reappears above its favorite spot in New Zealand](https://www.space.com/pet-cloud-reappears-above-new-zealand)
-- [NASDAQ CEO Adena Friedman isn’t surprised we haven’t seen a resurgence in startup IPOs yet](https://techcrunch.com/2024/10/27/nasdaq-ceo-adena-friedman-isnt-surprised-we-havent-seen-a-resurgence-in-startup-ipos-yet/)
-- [What next for NASA&#39;s Europa Clipper? The long road to Jupiter and its moons](https://www.space.com/europa-clipper-what-next-jupiter-moons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
