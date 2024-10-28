@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chile and Cyprus join Artemis Accords for responsible moon exploration](https://www.space.com/chile-cyprus-artemis-accords-moon-exploration)
+- [Remote ropes in Carta to simplify equity grants for distributed teams](https://techcrunch.com/2024/10/28/remote-partners-with-carta-for-global-equity-grants-issuance-and-management/)
+- [Read AI raises $50M to integrate its bot with Slack, email, and more](https://techcrunch.com/2024/10/28/read-ai-raises-50m-to-integrate-its-bot-with-slack-email-and-more/)
+- [We finally have an ‘official’ definition for open source AI](https://techcrunch.com/2024/10/28/we-finally-have-an-official-definition-for-open-source-ai/)
 - [Elon Musk’s xAI adds image understanding capabilities to Grok](https://techcrunch.com/2024/10/28/xai-adds-image-understanding-capabilities-to-grok/)
-- [China wants to make its Tiangong space station bigger and better](https://www.space.com/china-expand-upgrade-tiangong-space-station)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/28/wordpress-vs-wp-engine-drama-explained/)
-- [Filigran secures $35M for its cybersecurity threat management suite](https://techcrunch.com/2024/10/27/filigran-secures-35-million-for-its-cybersecurity-threat-management-suite/)
-- [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
