@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious features on asteroid Vesta may be explained by saltwater](https://www.space.com/asteroid-vesta-mysterious-features)
+- [Microsoft accuses Google of ‘shadow campaign’ to influence cloud regulation in Europe](https://techcrunch.com/2024/10/28/microsoft-accuses-google-of-shadow-campaign-to-influence-cloud-regulation-in-europe/)
+- [Bret Taylor’s customer service AI startup just raised $175M](https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m/)
 - [Netflix’s new ‘Moments’ feature lets you save and share clips from your favorite episodes](https://techcrunch.com/2024/10/28/netflix-moments-feature-lets-you-save-and-share-clips-from-your-favorite-series/)
 - [&#39;Venom: The Last Dance&#39; is a fun and fitting farewell to Tom Hardy&#39;s alien antics &lpar;review&rpar;](https://www.space.com/venom-3-review)
-- [Former Disney star Bridgit Mendler talks scaling connectivity and resilience for space](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/)
-- [Qui-Gon Jinn and Obi-Wan Kenobi reunite in Marvel Comics&#39; &#39;Star Wars: Jedi Knights&#39;](https://www.space.com/entertainment/qui-gon-jinn-and-obi-wan-kenobi-reunite-in-marvel-comics-star-wars-jedi-knights)
-- [Watch comet ATLAS burn up as it flies into the sun &lpar;video&rpar;](https://www.space.com/comet-s1-atlas-sun-soho-spacecraft-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
