@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mysterious features on asteroid Vesta may be explained by saltwater](https://www.space.com/asteroid-vesta-mysterious-features)
-- [Microsoft accuses Google of ‘shadow campaign’ to influence cloud regulation in Europe](https://techcrunch.com/2024/10/28/microsoft-accuses-google-of-shadow-campaign-to-influence-cloud-regulation-in-europe/)
-- [Bret Taylor’s customer service AI startup just raised $175M](https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m/)
-- [Netflix’s new ‘Moments’ feature lets you save and share clips from your favorite episodes](https://techcrunch.com/2024/10/28/netflix-moments-feature-lets-you-save-and-share-clips-from-your-favorite-series/)
-- [&#39;Venom: The Last Dance&#39; is a fun and fitting farewell to Tom Hardy&#39;s alien antics &lpar;review&rpar;](https://www.space.com/venom-3-review)
+- [This veteran couldn’t share 3D scans of a burnt naval ship, so he created a startup that can](https://techcrunch.com/2024/10/28/this-veteran-couldnt-share-3d-scans-of-a-burnt-naval-ship-so-he-created-a-startup-that-can/)
+- [SpaceX&#39;s Starship booster was &#39;1 second away&#39; from aborting epic launch-tower catch](https://www.space.com/spacex-starship-super-heavy-chopsticks-catch-near-abort)
+- [Vinod Khosla calls out Trump’s ‘depraved values’ and Musk’s role in spreading misinformation](https://techcrunch.com/2024/10/28/vinod-khosla-calls-out-trumps-depraved-values-and-musks-role-in-spreading-misinformation/)
+- [MabLab’s improved drug and drink testing strips could make for safer streets and venues](https://techcrunch.com/2024/10/28/mablabs-improved-drug-and-drink-testing-strips-could-make-for-safer-streets-and-venues/)
+- [Step aside, Zoom fatigue, VRTL wants to make virtual fan events fun again](https://techcrunch.com/2024/10/28/step-aside-zoom-fatigue-vrtl-wants-to-make-virtual-fan-events-fun-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
