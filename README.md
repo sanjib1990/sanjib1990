@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA generated $76 billion for US economy in 2023, report says](https://www.space.com/nasa-economic-impact-us-2023-report)
+- [What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/10/28/what-are-ai-world-models-and-why-do-they-matter/)
 - [Europe&#39;s bold &#39;Explore 2040&#39; campaign aims to get astronauts to the moon and Mars](https://www.space.com/europe-astronauts-moon-mars-explore-2040)
 - [Here’s what’s happening on day 1 of TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/28/heres-whats-happening-on-day-one-of-techcrunch-disrupt-2024/)
 - [Chile and Cyprus join Artemis Accords for responsible moon exploration](https://www.space.com/chile-cyprus-artemis-accords-moon-exploration)
-- [Remote ropes in Carta to simplify equity grants for distributed teams](https://techcrunch.com/2024/10/28/remote-partners-with-carta-for-global-equity-grants-issuance-and-management/)
-- [Read AI raises $50M to capitalize on strong demand for its AI summary bot](https://techcrunch.com/2024/10/28/read-ai-raises-50m-to-integrate-its-bot-with-slack-email-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
