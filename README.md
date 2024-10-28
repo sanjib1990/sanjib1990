@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple unveils M4-powered iMac](https://techcrunch.com/2024/10/28/apple-unveils-m4-powered-imac/)
-- [Apple Intelligence exits beta](https://techcrunch.com/2024/10/28/apple-intelligence-exits-beta/)
-- [Introducing the 2024 Startup Battlefield Top 20 Finalists at TechCrunch Disrupt](https://techcrunch.com/2024/10/28/introducing-the-2024-startup-battlefield-top-20-finalists-at-techcrunch-disrupt/)
-- [30 years of polar climate data converted into menacing, 6-minute song](https://www.space.com/30-years-polar-climate-data-converted-to-music)
-- [Police operation claims takedown of prolific Redline and Meta password stealers](https://techcrunch.com/2024/10/28/police-operation-claims-takedown-of-prolific-redline-and-meta-password-stealers/)
+- [Apple’s Magic Mouse, Keyboard, and TrackPad finally get USB-C](https://techcrunch.com/2024/10/28/apples-magic-mouse-keyboard-and-trackpad-finally-get-usb-c/)
+- [Generative AI could cause 10 billion iPhones worth of e-waste per year by 2030](https://techcrunch.com/2024/10/28/generative-ai-could-cause-10-billion-iphones-worth-of-e-waste-per-year-by-2030/)
+- [Stacklok donates its Minder supply chain security project to the OpenSSF](https://techcrunch.com/2024/10/28/stacklok-donates-its-minder-supply-chain-security-project-to-the-openssf/)
+- [New &#39;secret&#39; Predator movie coming alongside &#39;Badlands&#39; in 2025](https://www.space.com/entertainment/space-movies-shows/new-secret-predator-movie-coming-alongside-badlands-in-2025)
+- [How Apple Intelligence changes the way you use Siri on your iPhone](https://techcrunch.com/2024/10/28/how-apple-intelligence-is-changing-the-way-you-use-siri-on-your-iphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
