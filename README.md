@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix’s new ‘Moments’ feature lets you save and share clips from your favorite episodes](https://techcrunch.com/2024/10/28/netflix-moments-feature-lets-you-save-and-share-clips-from-your-favorite-series/)
+- [&#39;Venom: The Last Dance&#39; is a fun and fitting farewell to Tom Hardy&#39;s alien antics &lpar;review&rpar;](https://www.space.com/venom-3-review)
+- [Former Disney star Bridgit Mendler talks scaling connectivity and resilience for space](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/)
 - [Qui-Gon Jinn and Obi-Wan Kenobi reunite in Marvel Comics&#39; &#39;Star Wars: Jedi Knights&#39;](https://www.space.com/entertainment/qui-gon-jinn-and-obi-wan-kenobi-reunite-in-marvel-comics-star-wars-jedi-knights)
 - [Watch comet ATLAS burn up as it flies into the sun &lpar;video&rpar;](https://www.space.com/comet-s1-atlas-sun-soho-spacecraft-video)
-- [Solideon wants to decentralize rocket manufacturing through 3D printing](https://techcrunch.com/2024/10/28/solideon-wants-to-decentralize-rocket-manufacturing-through-3d-printing/)
-- [Level Zero Health is working on a potentially life-changing device for hormone health](https://techcrunch.com/2024/10/28/level-zero-health-is-working-on-a-potentially-life-changing-device-for-hormone-health/)
-- [Nintendo tries again on mobile with a $10 Animal Crossing game arriving in December](https://techcrunch.com/2024/10/28/nintendo-to-launch-10-animal-crossing-mobile-game-on-december-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
