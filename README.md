@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA generated $76 billion for US economy in 2023, report says](https://www.space.com/nasa-economic-impact-us-2023-report)
-- [What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/10/28/what-are-ai-world-models-and-why-do-they-matter/)
-- [Europe&#39;s bold &#39;Explore 2040&#39; campaign aims to get astronauts to the moon and Mars](https://www.space.com/europe-astronauts-moon-mars-explore-2040)
-- [Here’s what’s happening on day 1 of TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/28/heres-whats-happening-on-day-one-of-techcrunch-disrupt-2024/)
-- [Chile and Cyprus join Artemis Accords for responsible moon exploration](https://www.space.com/chile-cyprus-artemis-accords-moon-exploration)
+- [Apple unveils M4-powered iMac](https://techcrunch.com/2024/10/28/apple-unveils-m4-powered-imac/)
+- [Apple Intelligence exits beta](https://techcrunch.com/2024/10/28/apple-intelligence-exits-beta/)
+- [Introducing the 2024 Startup Battlefield Top 20 Finalists at TechCrunch Disrupt](https://techcrunch.com/2024/10/28/introducing-the-2024-startup-battlefield-top-20-finalists-at-techcrunch-disrupt/)
+- [30 years of polar climate data converted into menacing, 6-minute song](https://www.space.com/30-years-polar-climate-data-converted-to-music)
+- [Police operation claims takedown of prolific Redline and Meta password stealers](https://techcrunch.com/2024/10/28/police-operation-claims-takedown-of-prolific-redline-and-meta-password-stealers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
