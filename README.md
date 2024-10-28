@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Filigran secures $35M for its ceybersecurity threat management suite](https://techcrunch.com/2024/10/27/filigran-secures-35-million-for-its-cybersecurity-threat-management-suite/)
 - [Indian fintech Slice seals bank merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/)
 - [Instagram is lowering video quality for unpopular videos](https://techcrunch.com/2024/10/27/instagram-is-lowering-video-quality-for-unpopular-videos/)
 - [Founders and VCs back a pan-European C corp, but an ‘EU Inc’ has a rocky road ahead](https://techcrunch.com/2024/10/27/founders-and-vcs-back-a-pan-european-c-corp-but-an-eu-inc-has-a-rocky-road-ahead/)
 - [The next Mac mini might be nearly as small as an Apple TV](https://techcrunch.com/2024/10/27/the-next-mac-mini-might-be-nearly-as-small-as-an-apple-tv/)
-- [Meta releases an ‘open’ version of Google’s podcast generator](https://techcrunch.com/2024/10/27/meta-releases-an-open-version-of-googles-podcast-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
