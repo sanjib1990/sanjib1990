@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [xAI adds image understanding capabilities to Grok](https://techcrunch.com/2024/10/28/xai-adds-image-understanding-capabilities-to-grok/)
+- [Elon Musk’s xAI adds image understanding capabilities to Grok](https://techcrunch.com/2024/10/28/xai-adds-image-understanding-capabilities-to-grok/)
 - [China wants to make its Tiangong space station bigger and better](https://www.space.com/china-expand-upgrade-tiangong-space-station)
 - [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/28/wordpress-vs-wp-engine-drama-explained/)
 - [Filigran secures $35M for its cybersecurity threat management suite](https://techcrunch.com/2024/10/27/filigran-secures-35-million-for-its-cybersecurity-threat-management-suite/)
