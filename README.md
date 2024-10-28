@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Crew-8 astronaut released from hospital, returns to Houston](https://www.space.com/spacex-crew-8-nasa-astronaut-released-from-hospital)
-- [ForestGuard is building the ‘Internet of Trees’ to detect fires even earlier](https://techcrunch.com/2024/10/28/forestguard-is-building-the-internet-of-trees-to-detect-fires-even-earlier/)
-- [Wiz CEO says company was targeted with deepfake attack that used his voice](https://techcrunch.com/2024/10/28/wiz-ceo-says-company-was-targeted-with-deepfake-attack-that-used-his-voice/)
-- [How investors can help startups compete for lucrative government and defense contracts](https://techcrunch.com/video/how-investors-can-help-startups-compete-for-lucrative-government-and-defense-contracts-tc-disrupt-24/)
-- [Both Harris and Trump have records on space policy − an international affairs expert examines where they differ when it comes to the final frontier](https://www.space.com/space-exploration/human-spaceflight/both-harris-and-trump-have-records-on-space-policy-an-international-affairs-expert-examines-where-they-differ-when-it-comes-to-the-final-frontier)
+- [Qui-Gon Jinn and Obi-Wan Kenobi reunite in Marvel Comics&#39; &#39;Star Wars: Jedi Knights&#39;](https://www.space.com/entertainment/qui-gon-jinn-and-obi-wan-kenobi-reunite-in-marvel-comics-star-wars-jedi-knights)
+- [Watch comet ATLAS burn up as it flies into the sun &lpar;video&rpar;](https://www.space.com/comet-s1-atlas-sun-soho-spacecraft-video)
+- [Solideon wants to decentralize rocket manufacturing through 3D printing](https://techcrunch.com/2024/10/28/solideon-wants-to-decentralize-rocket-manufacturing-through-3d-printing/)
+- [Level Zero Health is working on a potentially life-changing device for hormone health](https://techcrunch.com/2024/10/28/level-zero-health-is-working-on-a-potentially-life-changing-device-for-hormone-health/)
+- [Nintendo tries again on mobile with a $10 Animal Crossing game arriving in December](https://techcrunch.com/2024/10/28/nintendo-to-launch-10-animal-crossing-mobile-game-on-december-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
