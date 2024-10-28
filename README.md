@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Artemis 2 astronauts train for emergencies with Orion spacecraft ahead of 2025 moon launch &lpar;photos&rpar;](https://www.space.com/artemis-2-moon-astronauts-emergency-training-orion-spacecraft)
-- [Google expands AI Overviews in Search to more than 100 countries](https://techcrunch.com/2024/10/28/google-expands-ai-overviews-in-search-to-more-than-100-countries/)
-- [Apple’s Magic Mouse, Keyboard, and TrackPad finally get USB-C](https://techcrunch.com/2024/10/28/apples-magic-mouse-keyboard-and-trackpad-finally-get-usb-c/)
-- [Generative AI could cause 10 billion iPhones worth of e-waste per year by 2030](https://techcrunch.com/2024/10/28/generative-ai-could-cause-10-billion-iphones-worth-of-e-waste-per-year-by-2030/)
-- [Stacklok donates its Minder supply chain security project to the OpenSSF](https://techcrunch.com/2024/10/28/stacklok-donates-its-minder-supply-chain-security-project-to-the-openssf/)
+- [SpaceX Crew-8 astronaut released from hospital, returns to Houston](https://www.space.com/spacex-crew-8-nasa-astronaut-released-from-hospital)
+- [ForestGuard is building the ‘Internet of Trees’ to detect fires even earlier](https://techcrunch.com/2024/10/28/forestguard-is-building-the-internet-of-trees-to-detect-fires-even-earlier/)
+- [Wiz CEO says company was targeted with deepfake attack that used his voice](https://techcrunch.com/2024/10/28/wiz-ceo-says-company-was-targeted-with-deepfake-attack-that-used-his-voice/)
+- [How investors can help startups compete for lucrative government and defense contracts](https://techcrunch.com/video/how-investors-can-help-startups-compete-for-lucrative-government-and-defense-contracts-tc-disrupt-24/)
+- [Both Harris and Trump have records on space policy − an international affairs expert examines where they differ when it comes to the final frontier](https://www.space.com/space-exploration/human-spaceflight/both-harris-and-trump-have-records-on-space-policy-an-international-affairs-expert-examines-where-they-differ-when-it-comes-to-the-final-frontier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
