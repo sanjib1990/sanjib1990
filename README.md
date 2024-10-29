@@ -97,8 +97,8 @@
 - [Despite risks, Vinod Khosla is optimistic about AI](https://techcrunch.com/2024/10/28/despite-risks-vinod-khosla-is-optimistic-about-ai/)
 - [Foster sisters explain why they haven’t invested in AI](https://techcrunch.com/2024/10/28/foster-sisters-explain-why-they-havent-invested-in-ai/)
 - [Google-backed Open Cloud Coalition launches to lobby European lawmakers](https://techcrunch.com/2024/10/28/google-backed-open-cloud-coalition-launches-to-lobby-european-lawmakers/)
-- [This veteran couldn’t share 3D scans of a burnt naval ship, so he created a startup that can](https://techcrunch.com/2024/10/28/this-veteran-couldnt-share-3d-scans-of-a-burnt-naval-ship-so-he-created-a-startup-that-can/)
-- [SpaceX&#39;s Starship booster was &#39;1 second away&#39; from aborting epic launch-tower catch](https://www.space.com/spacex-starship-super-heavy-chopsticks-catch-near-abort)
+- [Visa Everywhere Initiative: The Ultimate Fintech Pitch Competition](https://techcrunch.com/video/visa-everywhere-initiative-the-ultimate-fintech-pitch-competition-2/)
+- [Post-Synapse meltdown, this is the state of the banking-as-a-service industry](https://techcrunch.com/video/post-synapse-meltdown-this-is-the-state-of-the-banking-as-a-service-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
