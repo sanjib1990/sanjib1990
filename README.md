@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon brings its Rufus AI shopping assistant to more international markets](https://techcrunch.com/2024/10/29/amazon-brings-its-rufus-ai-shopping-assistant-to-more-international-markets/)
-- [LinkedIn launches its first AI agent to take on the role of job recruiters](https://techcrunch.com/2024/10/29/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters/)
-- [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/)
-- [GitHub’s Copilot goes multi-model and adds support for Anthropic’s Claude  and Google’s Gemini](https://techcrunch.com/2024/10/29/githubs-copilot-goes-multi-model-and-adds-support-for-anthropics-claude-and-googles-gemini/)
-- [GitHub’s Copilot comes to Apple’s Xcode](https://techcrunch.com/2024/10/29/githubs-copilot-comes-to-apples-xcode/)
+- [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/)
+- [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/)
+- [Apple Intelligence is more about convenience with initial iOS 18.1 launch](https://techcrunch.com/2024/10/29/apple-intelligence-is-more-about-convenience-with-initial-ios-18-1-launch/)
+- [Luna wants to help young girls navigate their health and well-being](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/)
+- [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
