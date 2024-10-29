@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Crosscut Ventures is ‘following the founders’ into climate, space, and beyond](https://techcrunch.com/2024/10/29/why-crosscut-ventures-is-following-the-founders-into-climate-space-and-beyond/)
-- [Popular calendar app Fantastical lands on Windows](https://techcrunch.com/2024/10/29/popular-calendar-app-fantastical-lands-on-windows/)
-- [Distorted galaxy whizzes through crowded cluster in new Hubble image](https://www.space.com/galaxy-ic3225-hubble-space-telescope-photo)
-- [U.S. finalizing rules to ban certain investments in AI tech in China](https://techcrunch.com/2024/10/29/u-s-finalizing-rules-to-ban-certain-investments-in-ai-tech-in-china/)
-- [MoneyGram replaces CEO weeks after massive customer data breach](https://techcrunch.com/2024/10/29/moneygram-replaces-ceo-weeks-after-massive-customer-data-breach/)
+- [Key Atlantic current could collapse soon, &#39;impacting the entire world for centuries to come,&#39; leading climate scientists warn](https://www.space.com/key-atlantic-current-could-collapse-soon-impacting-entire-world-for-centuries)
+- [Apple’s new M4 Mac Mini really lives up to its name](https://techcrunch.com/2024/10/29/apples-new-mac-mini-really-lives-up-to-its-name/)
+- [Apple introduces M4 Pro chip, debuting on the new Mac Mini](https://techcrunch.com/2024/10/29/apple-introduces-its-m4-pro-chip-debuting-on-the-new-mac-mini/)
+- [EU boosts EIC budget for supporting deeptech R&amp;D and strategic scale-ups](https://techcrunch.com/2024/10/29/eu-boosts-eic-budget-for-supporting-deeptech-rd-and-strategic-scale-ups/)
+- [Watch China launch Shenzhou-19 astronauts to Tiangong space station today &lpar;video&rpar;](https://www.space.com/china-shenzhou-19-crew-tiangong-space-station)
 <!-- BLOG-POST-LIST:END -->
 
 ---
