@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/)
+- [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/)
 - [Krafton backs IMM Investment’s maiden India fund](https://techcrunch.com/2024/10/28/krafton-backs-imm-investments-maiden-india-fund/)
 - [SpaceX launching 20 Starlink internet satellites from California this morning](https://www.space.com/spacex-starlink-launch-group-9-9)
 - [Despite risks, Vinod Khosla is optimistic about AI](https://techcrunch.com/2024/10/28/despite-risks-vinod-khosla-is-optimistic-about-ai/)
-- [Foster sisters explain why they haven’t invested in AI](https://techcrunch.com/2024/10/28/foster-sisters-explain-why-they-havent-invested-in-ai/)
-- [Google-backed Open Cloud Coalition launches to lobby European lawmakers](https://techcrunch.com/2024/10/28/google-backed-open-cloud-coalition-launches-to-lobby-european-lawmakers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
