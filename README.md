@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Spark lets you build we b apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-we-b-apps-in-plain-english/)
+- [Amazon brings its Rufus AI shopping assistant to more international markets](https://techcrunch.com/2024/10/29/amazon-brings-its-rufus-ai-shopping-assistant-to-more-international-markets/)
+- [LinkedIn launches its first AI agent to take on the role of job recruiters](https://techcrunch.com/2024/10/29/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters/)
+- [GitHub Spark lets you build web apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-web-apps-in-plain-english/)
 - [GitHub’s Copilot goes multi-model and adds support for Anthropic’s Claude  and Google’s Gemini](https://techcrunch.com/2024/10/29/githubs-copilot-goes-multi-model-and-adds-support-for-anthropics-claude-and-googles-gemini/)
 - [GitHub’s Copilot comes to Apple’s Xcode](https://techcrunch.com/2024/10/29/githubs-copilot-comes-to-apples-xcode/)
-- [&#39;First tree on Mars:&#39; Scientists measure greenhouse effect needed to terraform Red Planet](https://www.space.com/first-tree-on-mars-attention-tarraformers)
-- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
