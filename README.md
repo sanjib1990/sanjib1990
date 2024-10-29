@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/)
+- [How a series of opsec failures led US authorities to the alleged developer of the Redline password-stealing malware](https://techcrunch.com/2024/10/29/how-a-series-of-opsec-failures-led-us-authorities-to-the-alleged-developer-of-the-redline-password-stealing-malware/)
 - [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/)
 - [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/)
-- [Apple Intelligence is more about convenience with initial iOS 18.1 launch](https://techcrunch.com/2024/10/29/apple-intelligence-is-more-about-convenience-with-initial-ios-18-1-launch/)
-- [Luna wants to help young girls navigate their health and well-being](https://techcrunch.com/2024/10/29/luna-wants-to-help-young-girls-navigate-their-health-and-well-being/)
-- [CTGT aims to make AI models safer](https://techcrunch.com/2024/10/29/ctgt-aims-to-make-ai-models-safer/)
+- [Building Enterprise AI Apps with Multi-Agent RAG Systems &lpar;MARS&rpar;](https://techcrunch.com/video/building-enterprise-ai-apps-with-multi-agent-rag-systems-mars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
