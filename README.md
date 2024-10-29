@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 underrated horror films for Halloween — and their cosmic counterparts](https://www.space.com/halloween-2024-cosmic-monsters-horror-movies)
+- [Salesforce AI chatbot Agentforce hits general availability](https://techcrunch.com/2024/10/29/salesforce-ai-chatbot-agentforce-hits-general-availability/)
+- [Margaret Atwood’s verdict on AI poetry is in — and it’s not good](https://techcrunch.com/2024/10/29/margaret-atwoods-verdict-on-ai-poetry-is-in-and-its-not-good/)
 - [NASA chief says talks between Elon Musk, Vladimir Putin would be &#39;concerning&#39;](https://www.space.com/nasa-chief-bill-nelson-concerned-elon-musk-putin-talks)
 - [Threads is testing the ‘trending now’ view in Japan](https://techcrunch.com/2024/10/29/threads-is-testing-the-trending-now-view-in-japan/)
-- [Google, DPI back African fintech Moniepoint in $110M round](https://techcrunch.com/2024/10/29/google-dpi-backs-moniepoint-in-110m-round/)
-- [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/)
-- [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
