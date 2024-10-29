@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Crosscut Ventures is ‘following the founders’ into climate, space, and beyond](https://techcrunch.com/2024/10/29/why-crosscut-ventures-is-following-the-founders-into-climate-space-and-beyond/)
+- [Popular calendar app Fantastical lands on Windows](https://techcrunch.com/2024/10/29/popular-calendar-app-fantastical-lands-on-windows/)
+- [Distorted galaxy whizzes through crowded cluster in new Hubble image](https://www.space.com/galaxy-ic3225-hubble-space-telescope-photo)
+- [U.S. finalizing rules to ban certain investments in AI tech in China](https://techcrunch.com/2024/10/29/u-s-finalizing-rules-to-ban-certain-investments-in-ai-tech-in-china/)
 - [MoneyGram replaces CEO weeks after massive customer data breach](https://techcrunch.com/2024/10/29/moneygram-replaces-ceo-weeks-after-massive-customer-data-breach/)
-- [Who&#39;s in your commercial? Capital One ad stars &lpar;unnamed&rpar; astronaut](https://www.space.com/astronaut-karen-nyberg-capital-one-commercial)
-- [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/)
-- [GMI Cloud secures $82M in Series A for its GPU cloud infrastructure](https://techcrunch.com/2024/10/29/gmi-cloud-secures-82m-in-series-a-for-its-gpu-cloud-infrastructure/)
-- [Tabnine launches its code review agent](https://techcrunch.com/2024/10/29/tabnine-launches-its-code-review-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
