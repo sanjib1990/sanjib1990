@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Perseverance rover gets stunning view of big Mars crater from slippery slope &lpar;video, photos&rpar;](https://www.space.com/perseverance-mars-rover-jezero-crater-photos-video-slippery-slope)
+- [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/)
+- [China launches 3 astronauts to Tiangong space station on Shenzhou 19 mission &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-3-astronauts-to-tiangong-space-station-on-shenzhou-19-mission)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/10/29/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [OpenAI reportedly planning to build its first AI chip in 2026](https://techcrunch.com/2024/10/29/openai-reportedly-planning-to-build-its-first-ai-chip-in-2026/)
-- [6 reasons not to buy in the Black Friday sales](https://www.space.com/black-friday-six-reasons-not-to-buy)
-- [NASA faces tough decisions on Orion capsule&#39;s heat shield for Artemis moon missions](https://www.space.com/space-exploration/artemis/artemis-ii-orion-heat-shield-issues-decision-forthcoming)
-- [Actor and director Olivia Wilde launches a VC firm](https://techcrunch.com/2024/10/29/actor-and-director-olivia-wilde-launches-a-vc-firm/)
-- [Elon Musk’s xAI is reportedly trying to raise billions more](https://techcrunch.com/2024/10/29/elon-musks-xai-is-reportedly-trying-to-raise-billions-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
