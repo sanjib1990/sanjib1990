@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs has hired the team behind Omnivore, a reader app](https://techcrunch.com/2024/10/29/elevenlabs-has-hired-the-team-behind-omnivore-a-reader-app/)
-- [How a series of opsec failures led US authorities to the alleged developer of the Redline password-stealing malware](https://techcrunch.com/2024/10/29/how-a-series-of-opsec-failures-led-us-authorities-to-the-alleged-developer-of-the-redline-password-stealing-malware/)
-- [Salva Health wants to lower breast cancer mortality with its affordable screening device](https://techcrunch.com/2024/10/29/salva-health-wants-to-lower-breast-cancer-mortality-with-its-affordable-screening-device/)
-- [Narada AI’s enterprise agent will use workplace tools for you](https://techcrunch.com/2024/10/29/narada-ais-enterprise-agent-will-use-workplace-tools-for-you/)
-- [Building Enterprise AI Apps with Multi-Agent RAG Systems &lpar;MARS&rpar;](https://techcrunch.com/video/building-enterprise-ai-apps-with-multi-agent-rag-systems-mars/)
+- [OpenAI reportedly planning to build its first AI chip in 2026](https://techcrunch.com/2024/10/29/openai-reportedly-planning-to-build-its-first-ai-chip-in-2026/)
+- [6 reasons not to buy in the Black Friday sales](https://www.space.com/black-friday-six-reasons-not-to-buy)
+- [NASA faces tough decisions on Orion capsule&#39;s heat shield for Artemis moon missions](https://www.space.com/space-exploration/artemis/artemis-ii-orion-heat-shield-issues-decision-forthcoming)
+- [Actor and director Olivia Wilde launches a VC firm](https://techcrunch.com/2024/10/29/actor-and-director-olivia-wilde-launches-a-vc-firm/)
+- [Elon Musk’s xAI is reportedly trying to raise billions more](https://techcrunch.com/2024/10/29/elon-musks-xai-is-reportedly-trying-to-raise-billions-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
