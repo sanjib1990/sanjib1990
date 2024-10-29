@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 20 Starlink internet satellites from California this morning](https://www.space.com/spacex-starlink-launch-group-9-9)
 - [Despite risks, Vinod Khosla is optimistic about AI](https://techcrunch.com/2024/10/28/despite-risks-vinod-khosla-is-optimistic-about-ai/)
 - [Foster sisters explain why they haven’t invested in AI](https://techcrunch.com/2024/10/28/foster-sisters-explain-why-they-havent-invested-in-ai/)
 - [Google-backed Open Cloud Coalition launches to lobby European lawmakers](https://techcrunch.com/2024/10/28/google-backed-open-cloud-coalition-launches-to-lobby-european-lawmakers/)
 - [Visa Everywhere Initiative: The Ultimate Fintech Pitch Competition](https://techcrunch.com/video/visa-everywhere-initiative-the-ultimate-fintech-pitch-competition-2/)
-- [Post-Synapse meltdown, this is the state of the banking-as-a-service industry](https://techcrunch.com/video/post-synapse-meltdown-this-is-the-state-of-the-banking-as-a-service-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
