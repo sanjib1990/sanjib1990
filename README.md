@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Atlantic current could collapse soon, &#39;impacting the entire world for centuries to come,&#39; leading climate scientists warn](https://www.space.com/key-atlantic-current-could-collapse-soon-impacting-entire-world-for-centuries)
-- [Apple’s new M4 Mac Mini really lives up to its name](https://techcrunch.com/2024/10/29/apples-new-mac-mini-really-lives-up-to-its-name/)
-- [Apple introduces M4 Pro chip, debuting on the new Mac Mini](https://techcrunch.com/2024/10/29/apple-introduces-its-m4-pro-chip-debuting-on-the-new-mac-mini/)
-- [EU boosts EIC budget for supporting deeptech R&amp;D and strategic scale-ups](https://techcrunch.com/2024/10/29/eu-boosts-eic-budget-for-supporting-deeptech-rd-and-strategic-scale-ups/)
-- [Watch China launch Shenzhou-19 astronauts to Tiangong space station today &lpar;video&rpar;](https://www.space.com/china-shenzhou-19-crew-tiangong-space-station)
+- [GitHub Spark lets you build we b apps in plain English](https://techcrunch.com/2024/10/29/github-spark-lets-you-build-we-b-apps-in-plain-english/)
+- [GitHub’s Copilot goes multi-model and adds support for Anthropic’s Claude  and Google’s Gemini](https://techcrunch.com/2024/10/29/githubs-copilot-goes-multi-model-and-adds-support-for-anthropics-claude-and-googles-gemini/)
+- [GitHub’s Copilot comes to Apple’s Xcode](https://techcrunch.com/2024/10/29/githubs-copilot-comes-to-apples-xcode/)
+- [&#39;First tree on Mars:&#39; Scientists measure greenhouse effect needed to terraform Red Planet](https://www.space.com/first-tree-on-mars-attention-tarraformers)
+- [NASA&#39;s Artemis 2 moon mission: Live updates](https://www.space.com/news/live/nasa-artemis-2-moon-mission-updates)
 <!-- BLOG-POST-LIST:END -->
 
 ---
