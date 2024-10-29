@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 underrated horror films for Halloween — and their cosmic counterparts](https://www.space.com/halloween-2024-cosmic-monsters-horror-movies)
-- [Salesforce AI chatbot Agentforce hits general availability](https://techcrunch.com/2024/10/29/salesforce-ai-chatbot-agentforce-hits-general-availability/)
-- [Margaret Atwood’s verdict on AI poetry is in — and it’s not good](https://techcrunch.com/2024/10/29/margaret-atwoods-verdict-on-ai-poetry-is-in-and-its-not-good/)
-- [NASA chief says talks between Elon Musk, Vladimir Putin would be &#39;concerning&#39;](https://www.space.com/nasa-chief-bill-nelson-concerned-elon-musk-putin-talks)
-- [Threads is testing the ‘trending now’ view in Japan](https://techcrunch.com/2024/10/29/threads-is-testing-the-trending-now-view-in-japan/)
+- [MoneyGram replaces CEO weeks after massive customer data breach](https://techcrunch.com/2024/10/29/moneygram-replaces-ceo-weeks-after-massive-customer-data-breach/)
+- [Who&#39;s in your commercial? Capital One ad stars &lpar;unnamed&rpar; astronaut](https://www.space.com/astronaut-karen-nyberg-capital-one-commercial)
+- [TechCrunch Disrupt 2024: Day 2](https://techcrunch.com/2024/10/29/techcrunch-disrupt-2024-day-2/)
+- [GMI Cloud secures $82M in Series A for its GPU cloud infrastructure](https://techcrunch.com/2024/10/29/gmi-cloud-secures-82m-in-series-a-for-its-gpu-cloud-infrastructure/)
+- [Tabnine launches its code review agent](https://techcrunch.com/2024/10/29/tabnine-launches-its-code-review-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
