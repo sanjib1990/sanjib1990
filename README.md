@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Perseverance rover gets stunning view of big Mars crater from slippery slope &lpar;video, photos&rpar;](https://www.space.com/perseverance-mars-rover-jezero-crater-photos-video-slippery-slope)
-- [Aesthetic launches the ‘Shazam for fashion’](https://techcrunch.com/2024/10/29/aesthetic-launches-the-shazam-for-fashion/)
-- [China launches 3 astronauts to Tiangong space station on Shenzhou 19 mission &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-3-astronauts-to-tiangong-space-station-on-shenzhou-19-mission)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/10/29/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [OpenAI reportedly planning to build its first AI chip in 2026](https://techcrunch.com/2024/10/29/openai-reportedly-planning-to-build-its-first-ai-chip-in-2026/)
+- [Ashton Kutcher’s Sound Ventures backs Fei-Fei Li’s World Labs in continued AI push](https://techcrunch.com/2024/10/29/ashton-kutchers-sound-ventures-backs-fei-fei-lis-world-labs-in-continued-ai-push/)
+- [Haptic’s touch-based navigation helps blind and sighted alike get around without looking](https://techcrunch.com/2024/10/29/haptics-touch-based-navigation-helps-blind-and-sighted-alike-get-around-without-looking/)
+- [Ashton Kutcher explains why he’s betting on AI, but not trying to pick a ‘winner’](https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/)
+- [Gecko Materials wants to sell you the next Velcro](https://techcrunch.com/2024/10/29/gecko-materials-wants-to-sell-you-the-next-velcro/)
+- [ForceField helps detect deepfakes and digital deception by verifying source data](https://techcrunch.com/2024/10/29/forcefield-helps-detect-deepfakes-and-digital-deception-by-verifying-source-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
