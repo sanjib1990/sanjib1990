@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google, DPI backs African fintech Moniepoint in $110M round](https://techcrunch.com/2024/10/29/google-dpi-backs-moniepoint-in-110m-round/)
+- [NASA chief says talks between Elon Musk, Vladimir Putin would be &#39;concerning&#39;](https://www.space.com/nasa-chief-bill-nelson-concerned-elon-musk-putin-talks)
+- [Threads is testing the ‘trending now’ view in Japan](https://techcrunch.com/2024/10/29/threads-is-testing-the-trending-now-view-in-japan/)
+- [Google, DPI back African fintech Moniepoint in $110M round](https://techcrunch.com/2024/10/29/google-dpi-backs-moniepoint-in-110m-round/)
 - [Infraspeak raises $19.5M to bring collaboration to facilities management](https://techcrunch.com/2024/10/29/infraspeak-raises-19-5m-to-bring-collaboration-to-facilities-management/)
 - [Emidat is building a tool to clean up construction by automating environmental reporting](https://techcrunch.com/2024/10/29/emidat-is-building-a-tool-to-clean-up-construction-by-automating-environmental-reporting/)
-- [Krafton backs IMM Investment’s first India fund](https://techcrunch.com/2024/10/28/krafton-backs-imm-investments-maiden-india-fund/)
-- [SpaceX launching 20 Starlink internet satellites from California this morning](https://www.space.com/spacex-starlink-launch-group-9-9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
