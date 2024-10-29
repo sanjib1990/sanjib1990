@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MDC is building a surgical robot that operates inside an MRI](https://techcrunch.com/2024/10/29/mdc-is-building-a-surgical-robot-that-operates-inside-an-mri/)
 - [Ashton Kutcher’s Sound Ventures backs Fei-Fei Li’s World Labs in continued AI push](https://techcrunch.com/2024/10/29/ashton-kutchers-sound-ventures-backs-fei-fei-lis-world-labs-in-continued-ai-push/)
 - [Haptic’s touch-based navigation helps blind and sighted alike get around without looking](https://techcrunch.com/2024/10/29/haptics-touch-based-navigation-helps-blind-and-sighted-alike-get-around-without-looking/)
 - [Ashton Kutcher explains why he’s betting on AI, but not trying to pick a ‘winner’](https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/)
 - [Gecko Materials wants to sell you the next Velcro](https://techcrunch.com/2024/10/29/gecko-materials-wants-to-sell-you-the-next-velcro/)
-- [ForceField helps detect deepfakes and digital deception by verifying source data](https://techcrunch.com/2024/10/29/forcefield-helps-detect-deepfakes-and-digital-deception-by-verifying-source-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
