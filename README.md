@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrophotographer captures comet Tsuchinshan-ATLAS growing an anti-tail &lpar;photos&rpar;](https://www.space.com/the-universe/comets/astrophotographer-captures-comet-tsuchinshan-atlas-growing-an-anti-tail-photos)
+- [Matt Mullenweg says Automattic is ‘very short-staffed’ amid WordPress vs. WP Engine drama](https://techcrunch.com/2024/10/30/matt-mullenweg-says-automattic-is-very-short-staffed-amid-wordpress-vs-wp-engine-drama/)
+- [Scout Motors EVs will use Rivian-VW software and architecture](https://techcrunch.com/2024/10/30/scout-motors-evs-will-use-rivian-vw-software-and-architecture/)
+- [SpaceX launching 23 Starlink satellites from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-today)
 - [NASA announces 9 possible moon landing sites for Artemis 3 lunar mission](https://www.space.com/space-exploration/artemis/nasa-announces-9-possible-moon-landing-sites-for-artemis-3-lunar-mission)
-- [Modash is flipping the influencer marketing script by connecting brands with the long tail of creators](https://techcrunch.com/2024/10/30/modash-is-flipping-the-influencer-marketing-script-by-connecting-brands-with-the-long-tail-of-creators/)
-- [NASA&#39;s Perseverance rover unexpectedly finds green-ish spots on Mars](https://www.space.com/space-exploration/mars-rovers/new-perseverance-images-reveal-green-hued-spots-within-the-red-martian-rock)
-- [This Week in AI: A preview of Disrupt 2024’s stacked AI panels](https://techcrunch.com/2024/10/30/this-week-in-ai-a-preview-of-disrupt-2024s-stacked-ai-panels/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
