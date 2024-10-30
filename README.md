@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Kindle Colorsoft review: A muted approach to color](https://techcrunch.com/2024/10/30/kindle-colorsoft-review-a-subtle-approach-to-color/)
-- [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/)
-- [Apple will buy renewable power for its Mac Mini users](https://techcrunch.com/2024/10/30/apple-will-buy-renewable-power-for-its-mac-mini-users/)
-- [Regal claims its customer service chatbots are better than most](https://techcrunch.com/2024/10/30/regal-claims-its-customer-service-chatbots-are-better-than-most/)
-- [NASA to resume ISS spacewalks in 2025 after spacesuit leak](https://www.space.com/space-exploration/international-space-station/nasa-ready-to-restart-spacewalks-on-the-iss-in-2025-after-a-spacesuit-leak)
+- [Saturn&#39;s moon Titan may have a 6-mile-thick crust of methane ice — could life be under there?](https://www.space.com/saturn-titan-methane-ice-life)
+- [Wonder Dynamics now lets you go straight from multi-camera video to fully animated 3D scene](https://techcrunch.com/2024/10/30/wonder-dynamics-now-lets-you-go-straight-from-multi-camera-video-to-fully-animated-3d-scene/)
+- [Bifrost helps industrials speed up model training with its 3D data generation platform](https://techcrunch.com/2024/10/30/bifrost-ai-raises-8m-for-its-3d-and-ai-data-generation-platform/)
+- [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/)
+- [Dropbox is laying off 20% of its staff](https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
