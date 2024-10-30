@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/)
 - [Tony Fadell takes a shot at Sam Altman in TechCrunch Disrupt interview](https://techcrunch.com/2024/10/29/tony-fadell-takes-a-shot-at-sam-altman-in-techcrunch-disrupt-interview/)
 - [GM CEO Mary Barra on the politics of EVs, the future of AVs, and moving away from China](https://techcrunch.com/2024/10/29/gm-ceo-mary-barra-on-the-politics-of-evs-the-future-of-avs-and-moving-away-from-china/)
 - [Tony Fadell on mission-driven a**holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/)
 - [Cloud Doesn’t Have to Mean Compromise](https://techcrunch.com/video/cloud-doesnt-have-to-mean-compromise/)
-- [How AI empowers SaaS leaders to build a new data pipeline](https://techcrunch.com/video/how-ai-empowers-saas-leaders-to-build-a-new-data-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
