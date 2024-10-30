@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA announces 9 possible moon landing sites for Artemis 3 lunar mission](https://www.space.com/space-exploration/artemis/nasa-announces-9-possible-moon-landing-sites-for-artemis-3-lunar-mission)
+- [Modash is flipping the influencer marketing script by connecting brands with the long tail of creators](https://techcrunch.com/2024/10/30/modash-is-flipping-the-influencer-marketing-script-by-connecting-brands-with-the-long-tail-of-creators/)
+- [NASA&#39;s Perseverance rover unexpectedly finds green-ish spots on Mars](https://www.space.com/space-exploration/mars-rovers/new-perseverance-images-reveal-green-hued-spots-within-the-red-martian-rock)
 - [This Week in AI: A preview of Disrupt 2024’s stacked AI panels](https://techcrunch.com/2024/10/30/this-week-in-ai-a-preview-of-disrupt-2024s-stacked-ai-panels/)
-- [Voyager 1 spacecraft phones home with transmitter that hasn&#39;t been used since 1981](https://www.space.com/space-exploration/missions/voyager-1-spacecraft-phones-home-with-transmitter-that-hasnt-been-used-since-1981)
-- [Debris from satellite breakup threatens other spacecraft, animation shows](https://www.space.com/space-exploration/satellites/debris-from-satellite-breakup-threatens-other-spacecraft-animation-shows)
-- [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/)
-- [Apple upgrades MacBook Pro with M4 chips](https://techcrunch.com/2024/10/30/apple-upgrades-macbook-pro-with-m4-chips/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
