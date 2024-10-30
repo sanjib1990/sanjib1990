@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI models get more election questions wrong when asked in Spanish, study shows](https://techcrunch.com/2024/10/30/ai-models-get-more-election-questions-wrong-when-asked-in-spanish-study-shows/)
 - [Can &#39;failed stars&#39; have planets? James Webb Space Telescopes offers clues](https://www.space.com/james-webb-space-telescope-failed-star-brown-dwarf-planets)
 - [Zoox co-founder on Tesla self-driving: ‘they don’t have technology that works’](https://techcrunch.com/2024/10/30/zoox-co-founder-on-tesla-self-driving-they-dont-have-technology-that-works/)
+- [The cybsecurity problems and opportunities facing open-source startups](https://techcrunch.com/video/the-cybsecurity-problems-and-opportunities-facing-open-source-startups/)
 - [NASA astronaut snaps spooky photo of SpaceX Dragon capsule from ISS](https://www.space.com/space-exploration/international-space-station/astronaut-snaps-spooky-photo-of-spacex-dragon-capsule-from-iss)
-- [Apollo 11 moonwalker Buzz Aldrin endorses Trump for president](https://www.space.com/space-exploration/apollo/apollo-11-moonwalker-buzz-aldrin-endorses-trump-for-president)
-- [Clashing approaches to combat AI’s ‘perpetual bulls**t machine’](https://techcrunch.com/2024/10/30/clashing-approaches-to-combat-ais-perpetual-bullst-machine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
