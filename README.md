@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MDC is building a surgical robot that operates inside an MRI](https://techcrunch.com/2024/10/29/mdc-is-building-a-surgical-robot-that-operates-inside-an-mri/)
-- [Ashton Kutcher’s Sound Ventures backs Fei-Fei Li’s World Labs in continued AI push](https://techcrunch.com/2024/10/29/ashton-kutchers-sound-ventures-backs-fei-fei-lis-world-labs-in-continued-ai-push/)
-- [Haptic’s touch-based navigation helps blind and sighted alike get around without looking](https://techcrunch.com/2024/10/29/haptics-touch-based-navigation-helps-blind-and-sighted-alike-get-around-without-looking/)
-- [Ashton Kutcher explains why he’s betting on AI, but not trying to pick a ‘winner’](https://techcrunch.com/2024/10/29/ashton-kutcher-explains-why-hes-betting-on-ai-but-not-trying-to-pick-a-winner/)
-- [Gecko Materials wants to sell you the next Velcro](https://techcrunch.com/2024/10/29/gecko-materials-wants-to-sell-you-the-next-velcro/)
+- [Tony Fadell takes a shot at Sam Altman in TechCrunch Disrupt interview](https://techcrunch.com/2024/10/29/tony-fadell-takes-a-shot-at-sam-altman-in-techcrunch-disrupt-interview/)
+- [GM CEO Mary Barra on the politics of EVs, the future of AVs, and moving away from China](https://techcrunch.com/2024/10/29/gm-ceo-mary-barra-on-the-politics-of-evs-the-future-of-avs-and-moving-away-from-china/)
+- [Tony Fadell on mission-driven a**holes, Silicon Valley entitlement and why LLMs are ‘know-it-alls’](https://techcrunch.com/2024/10/29/tony-fadell-on-mission-driven-aholes-silicon-valley-entitlement-and-why-llms-are-know-it-alls/)
+- [Cloud Doesn’t Have to Mean Compromise](https://techcrunch.com/video/cloud-doesnt-have-to-mean-compromise/)
+- [How AI empowers SaaS leaders to build a new data pipeline](https://techcrunch.com/video/how-ai-empowers-saas-leaders-to-build-a-new-data-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
