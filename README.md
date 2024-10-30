@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrophotographer captures comet Tsuchinshan-ATLAS growing an anti-tail &lpar;photos&rpar;](https://www.space.com/the-universe/comets/astrophotographer-captures-comet-tsuchinshan-atlas-growing-an-anti-tail-photos)
-- [Matt Mullenweg says Automattic is ‘very short-staffed’ amid WordPress vs. WP Engine drama](https://techcrunch.com/2024/10/30/matt-mullenweg-says-automattic-is-very-short-staffed-amid-wordpress-vs-wp-engine-drama/)
-- [Scout Motors EVs will use Rivian-VW software and architecture](https://techcrunch.com/2024/10/30/scout-motors-evs-will-use-rivian-vw-software-and-architecture/)
-- [SpaceX launching 23 Starlink satellites from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-today)
-- [NASA announces 9 possible moon landing sites for Artemis 3 lunar mission](https://www.space.com/space-exploration/artemis/nasa-announces-9-possible-moon-landing-sites-for-artemis-3-lunar-mission)
+- [Zoox co-founder on Tesla self-driving: ‘they don’t have technology that works’](https://techcrunch.com/2024/10/30/zoox-co-founder-on-tesla-self-driving-they-dont-have-technology-that-works/)
+- [NASA astronaut snaps spooky photo of SpaceX Dragon capsule from ISS](https://www.space.com/space-exploration/international-space-station/astronaut-snaps-spooky-photo-of-spacex-dragon-capsule-from-iss)
+- [Apollo 11 moonwalker Buzz Aldrin endorses Trump for president](https://www.space.com/space-exploration/apollo/apollo-11-moonwalker-buzz-aldrin-endorses-trump-for-president)
+- [Clashing approaches to combat AI’s ‘perpetual bulls**t machine’](https://techcrunch.com/2024/10/30/clashing-approaches-to-combat-ais-perpetual-bullst-machine/)
+- [Matt Mullenweg talks about Automattic’s staffing issues and financials at TechCrunch Disrupt](https://techcrunch.com/2024/10/30/matt-mullenweg-talks-about-automattics-staffing-issues-and-financials-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
