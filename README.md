@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian’s chief software officer says in-car buttons are ‘an anomaly’](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
+- [500 Amazon employees reportedly ask AWS CEO to reverse return-to-office policy](https://techcrunch.com/2024/10/30/500-amazon-employees-reportedly-ask-aws-ceo-to-reverse-return-to-office-policy/)
 - [AI models get more election questions wrong when asked in Spanish, study shows](https://techcrunch.com/2024/10/30/ai-models-get-more-election-questions-wrong-when-asked-in-spanish-study-shows/)
 - [Can &#39;failed stars&#39; have planets? James Webb Space Telescopes offers clues](https://www.space.com/james-webb-space-telescope-failed-star-brown-dwarf-planets)
-- [Zoox co-founder on Tesla self-driving: ‘they don’t have technology that works’](https://techcrunch.com/2024/10/30/zoox-co-founder-on-tesla-self-driving-they-dont-have-technology-that-works/)
-- [The cybsecurity problems and opportunities facing open-source startups](https://techcrunch.com/video/the-cybsecurity-problems-and-opportunities-facing-open-source-startups/)
-- [NASA astronaut snaps spooky photo of SpaceX Dragon capsule from ISS](https://www.space.com/space-exploration/international-space-station/astronaut-snaps-spooky-photo-of-spacex-dragon-capsule-from-iss)
+- [When startups should look to sell and when to keep fighting](https://techcrunch.com/video/when-startups-should-look-to-sell-and-when-to-keep-fighting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
