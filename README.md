@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Once-dominant Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/)
 - [X makes its basic API tier more costly, launches annual subscriptions](https://techcrunch.com/2024/10/30/x-makes-its-basic-api-tier-more-costly-launches-annual-subscriptions/)
 - [Meesho claims Indian e-commerce first with positive cash flow](https://techcrunch.com/2024/10/29/meesho-claims-indian-e-commerce-first-with-positive-cash-flow/)
-- [African ‘gender-equal’ VC Janngo Capital closes second fund at $78M](https://techcrunch.com/2024/10/29/african-vc-firm-janngo-capital-closes-second-fund-at-78m/)
+- [African ‘gender equal’ VC Janngo Capital closes second fund at $78M](https://techcrunch.com/2024/10/29/african-vc-firm-janngo-capital-closes-second-fund-at-78m/)
 - [Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2024](https://techcrunch.com/2024/10/29/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2024/)
-- [Tony Fadell takes a shot at Sam Altman in TechCrunch Disrupt interview](https://techcrunch.com/2024/10/29/tony-fadell-takes-a-shot-at-sam-altman-in-techcrunch-disrupt-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
