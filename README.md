@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Betaworks focuses on AI applications in its latest Camp](https://techcrunch.com/2024/10/30/betaworks-focuses-on-ai-applications-in-its-latest-camp/)
 - [Apple upgrades MacBook Pro with M4 chips](https://techcrunch.com/2024/10/30/apple-upgrades-macbook-pro-with-m4-chips/)
 - [Apple announces M4 Max chip, debuting on the MacBook Pro](https://techcrunch.com/2024/10/30/apple-announces-m4-max-chip-debuting-on-the-macbook-pro/)
 - [Cubesats on Europe&#39;s Hera asteroid mission phone home after Oct. 7 launch](https://www.space.com/space-exploration/missions/cubesats-on-europes-hera-asteroid-mission-phone-home-after-oct-7-launch)
 - [Boston Dynamics’ electric Atlas humanoid executes autonomous automotive parts picking](https://techcrunch.com/2024/10/30/boston-dynamics-electric-atlas-humanoid-executes-autonomous-automotive-parts-picking/)
-- [Saturn&#39;s moon Titan may have a 6-mile-thick crust of methane ice — could life be under there?](https://www.space.com/saturn-titan-methane-ice-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
