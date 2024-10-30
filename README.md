@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple upgrades MacBook Pro with M4 chips](https://techcrunch.com/2024/10/30/apple-upgrades-macbook-pro-with-m4-chips/)
+- [Apple announces M4 Max chip, debuting on the MacBook Pro](https://techcrunch.com/2024/10/30/apple-announces-m4-max-chip-debuting-on-the-macbook-pro/)
+- [Cubesats on Europe&#39;s Hera asteroid mission phone home after Oct. 7 launch](https://www.space.com/space-exploration/missions/cubesats-on-europes-hera-asteroid-mission-phone-home-after-oct-7-launch)
+- [Boston Dynamics’ electric Atlas humanoid executes autonomous automotive parts picking](https://techcrunch.com/2024/10/30/boston-dynamics-electric-atlas-humanoid-executes-autonomous-automotive-parts-picking/)
 - [Saturn&#39;s moon Titan may have a 6-mile-thick crust of methane ice — could life be under there?](https://www.space.com/saturn-titan-methane-ice-life)
-- [Wonder Dynamics now lets you go straight from multi-camera video to fully animated 3D scene](https://techcrunch.com/2024/10/30/wonder-dynamics-now-lets-you-go-straight-from-multi-camera-video-to-fully-animated-3d-scene/)
-- [Bifrost helps industrials speed up model training with its 3D data generation platform](https://techcrunch.com/2024/10/30/bifrost-ai-raises-8m-for-its-3d-and-ai-data-generation-platform/)
-- [Hummingbirds, a platform that connects local creators with brand campaigns in their area, raises $5.4M](https://techcrunch.com/2024/10/30/hummingbirds-platform-that-connects-local-creators-brand-campaigns-raises-5-4-m/)
-- [Dropbox is laying off 20% of its staff](https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
