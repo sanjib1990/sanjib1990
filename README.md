@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Kindle Colorsoft review: A muted approach to color](https://techcrunch.com/2024/10/30/kindle-colorsoft-review-a-subtle-approach-to-color/)
+- [TechCrunch Disrupt 2024: Day 3](https://techcrunch.com/2024/10/30/techcrunch-disrupt-2024-day-3/)
+- [Apple will buy renewable power for its Mac Mini users](https://techcrunch.com/2024/10/30/apple-will-buy-renewable-power-for-its-mac-mini-users/)
+- [Regal claims its customer service chatbots are better than most](https://techcrunch.com/2024/10/30/regal-claims-its-customer-service-chatbots-are-better-than-most/)
 - [NASA to resume ISS spacewalks in 2025 after spacesuit leak](https://www.space.com/space-exploration/international-space-station/nasa-ready-to-restart-spacewalks-on-the-iss-in-2025-after-a-spacesuit-leak)
-- [Archon emerges from stealth with $20M and ‘antibody cages’ to power up drug development](https://techcrunch.com/2024/10/30/archon-emerges-from-stealth-with-20m-and-antibody-cages-to-power-up-drug-development/)
-- [1st image of our Milky Way&#39;s black hole may be inaccurate, scientists say](https://www.space.com/the-universe/black-holes/1st-image-of-our-milky-ways-black-hole-may-be-inaccurate-scientists-say)
-- [Swiggy seeks $11.3B value at IPO, less than half Zomato’s worth](https://techcrunch.com/2024/10/30/once-dominant-swiggy-seeks-11-3b-value-at-ipo-less-than-half-zomatos-worth/)
-- [X makes its basic API tier more costly, launches annual subscriptions](https://techcrunch.com/2024/10/30/x-makes-its-basic-api-tier-more-costly-launches-annual-subscriptions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
