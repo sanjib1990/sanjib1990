@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can &#39;failed stars&#39; have planets? James Webb Space Telescopes offers clues](https://www.space.com/james-webb-space-telescope-failed-star-brown-dwarf-planets)
 - [Zoox co-founder on Tesla self-driving: ‘they don’t have technology that works’](https://techcrunch.com/2024/10/30/zoox-co-founder-on-tesla-self-driving-they-dont-have-technology-that-works/)
 - [NASA astronaut snaps spooky photo of SpaceX Dragon capsule from ISS](https://www.space.com/space-exploration/international-space-station/astronaut-snaps-spooky-photo-of-spacex-dragon-capsule-from-iss)
 - [Apollo 11 moonwalker Buzz Aldrin endorses Trump for president](https://www.space.com/space-exploration/apollo/apollo-11-moonwalker-buzz-aldrin-endorses-trump-for-president)
 - [Clashing approaches to combat AI’s ‘perpetual bulls**t machine’](https://techcrunch.com/2024/10/30/clashing-approaches-to-combat-ais-perpetual-bullst-machine/)
-- [Matt Mullenweg talks about Automattic’s staffing issues and financials at TechCrunch Disrupt](https://techcrunch.com/2024/10/30/matt-mullenweg-talks-about-automattics-staffing-issues-and-financials-at-techcrunch-disrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
