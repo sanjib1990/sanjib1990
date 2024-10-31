@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: Disrupt 2024 wrap-up](https://techcrunch.com/2024/10/31/techcrunch-space-disrupt-2024-wrap-up/)
 - [Amazon CEO Andy Jassy hints at an ‘agentic’ Alexa](https://techcrunch.com/2024/10/31/amazon-ceo-andy-jassy-hints-at-an-agentic-alexa/)
 - [US drone maker Skydio faces battery squeeze after Chinese sanctions](https://techcrunch.com/2024/10/31/us-drone-maker-skydio-faces-battery-squeeze-after-chinese-sanctions/)
 - [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/)
 - [Boeing can recover from its Starliner troubles, but it can’t afford any other misfires](https://www.space.com/space-exploration/human-spaceflight/boeing-can-recover-from-its-starliner-troubles-but-it-cant-afford-any-other-misfires)
-- [BBG Ventures raises new $60 million fund to support diverse founders](https://techcrunch.com/2024/10/31/bbg-ventures-raises-new-60-million-fund-to-support-diverse-founders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
