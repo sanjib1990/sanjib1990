@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oura buys Sparta Science, its third acquisition in two years](https://techcrunch.com/2024/10/31/oura-buys-sparta-science-its-third-acquisition-in-two-years/)
+- [MaC VC raised $150 million Fund III](https://techcrunch.com/2024/10/31/mac-vc-raised-150-million-fund-iii/)
+- [Earth sure looks spooky in these &#39;hyperspectral&#39; images from Europe&#39;s Hera asteroid probe](https://www.space.com/space-exploration/launches-spacecraft/asteroid-bound-hera-spacecraft-captures-spooky-view-of-earth-photo)
+- [OpenAI CEO Sam Altman says lack of compute capacity is delaying the company’s products](https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compute-is-delaying-the-companys-products/)
 - [India targets 2028 for Chandrayaan-4 sample-return mission to moon&#39;s south pole](https://www.space.com/the-universe/moon/india-targets-2028-for-chandrayaan-4-sample-return-mission-to-moons-south-pole)
-- [Stare into the &#39;blood-soaked eyes&#39; of 2 spooky galaxies in new Hubble, JWST images &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-hubble-blood-soaked-eyes-galaxy-pair)
-- [Carl Pei says Nothing could build its own operating system](https://techcrunch.com/2024/10/31/carl-pei-says-nothing-could-build-its-own-operating-system/)
-- [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/)
-- [Ford pauses F-150 Lightning production as Tesla Cybertruck heats up](https://techcrunch.com/2024/10/31/ford-pauses-f-150-lightning-production-as-tesla-cybertruck-heats-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
