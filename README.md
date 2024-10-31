@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy Dark Matter Day! Meet the usual — and unusual — suspects in this cosmic mystery](https://www.space.com/dark-matter-day-suspects-axions-black-holes)
+- [Space CEOs talk about the challenges and opportunities of selling defense tech](https://techcrunch.com/2024/10/31/space-ceos-talk-about-the-challenges-and-opportunities-of-selling-defense-tech/)
+- [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/)
 - [D-ID launches new high-quality avatars capable of real-time conversations](https://techcrunch.com/2024/10/31/d-id-launches-new-high-quality-avatars-capable-of-real-time-conversations/)
 - [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/)
-- [Noma is building tools to spot security issues with AI apps](https://techcrunch.com/2024/10/31/noma-is-building-tools-to-spot-security-issues-with-ai-apps/)
-- [Temu’s low cost marketplace faces formal probe in EU over raft of DSA compliance concerns](https://techcrunch.com/2024/10/31/temus-low-cost-marketplace-faces-formal-probe-in-eu-over-raft-of-dsa-compliance-concerns/)
-- [2024 looks set to be another record-breaking year for ransomware — and it’s likely going to get worse](https://techcrunch.com/2024/10/31/2024-looks-set-to-be-another-record-breaking-year-for-ransomware-and-its-likely-going-to-get-worse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
