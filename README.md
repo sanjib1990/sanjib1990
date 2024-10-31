@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [D-ID launches new high-quality avatars capable of real-time conversations](https://techcrunch.com/2024/10/31/d-id-launches-new-high-quality-avatars-capable-of-real-time-conversations/)
+- [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/)
+- [Noma is building tools to spot security issues with AI apps](https://techcrunch.com/2024/10/31/noma-is-building-tools-to-spot-security-issues-with-ai-apps/)
 - [Temu’s low cost marketplace faces formal probe in EU over raft of DSA compliance concerns](https://techcrunch.com/2024/10/31/temus-low-cost-marketplace-faces-formal-probe-in-eu-over-raft-of-dsa-compliance-concerns/)
 - [2024 looks set to be another record-breaking year for ransomware — and it’s likely going to get worse](https://techcrunch.com/2024/10/31/2024-looks-set-to-be-another-record-breaking-year-for-ransomware-and-its-likely-going-to-get-worse/)
-- [Will China return Mars samples to Earth before the US does?](https://www.space.com/the-universe/mars/will-china-return-mars-samples-to-earth-before-the-us-does)
-- [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/)
-- [Aurora Innovation delays commercial autonomous truck launch to 2025](https://techcrunch.com/2024/10/30/aurora-innovation-delays-commercial-autonomous-truck-launch-to-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
