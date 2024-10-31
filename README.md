@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing can recover from its Starliner troubles, but it can’t afford any other misfires](https://www.space.com/space-exploration/human-spaceflight/boeing-can-recover-from-its-starliner-troubles-but-it-cant-afford-any-other-misfires)
+- [BBG Ventures raises new $60 million fund to support diverse founders](https://techcrunch.com/2024/10/31/bbg-ventures-raises-new-60-million-fund-to-support-diverse-founders/)
+- [Female Founders Fund returns its Fund I](https://techcrunch.com/2024/10/31/female-founders-fund-returns-its-fund-i/)
 - [Oura buys Sparta Science, its third acquisition in two years](https://techcrunch.com/2024/10/31/oura-buys-sparta-science-its-third-acquisition-in-two-years/)
 - [MaC VC raised $150 million Fund III](https://techcrunch.com/2024/10/31/mac-vc-raised-150-million-fund-iii/)
-- [Earth sure looks spooky in these &#39;hyperspectral&#39; images from Europe&#39;s Hera asteroid probe](https://www.space.com/space-exploration/launches-spacecraft/asteroid-bound-hera-spacecraft-captures-spooky-view-of-earth-photo)
-- [OpenAI CEO Sam Altman says lack of compute capacity is delaying the company’s products](https://techcrunch.com/2024/10/31/openai-ceo-sam-altman-says-lack-of-compute-is-delaying-the-companys-products/)
-- [India targets 2028 for Chandrayaan-4 sample-return mission to moon&#39;s south pole](https://www.space.com/the-universe/moon/india-targets-2028-for-chandrayaan-4-sample-return-mission-to-moons-south-pole)
 <!-- BLOG-POST-LIST:END -->
 
 ---
