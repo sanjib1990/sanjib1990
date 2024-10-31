@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Temu’s low cost marketplace faces formal probe in EU over raft of DSA compliance concerns](https://techcrunch.com/2024/10/31/temus-low-cost-marketplace-faces-formal-probe-in-eu-over-raft-of-dsa-compliance-concerns/)
+- [2024 looks set to be another record-breaking year for ransomware — and it’s likely going to get worse](https://techcrunch.com/2024/10/31/2024-looks-set-to-be-another-record-breaking-year-for-ransomware-and-its-likely-going-to-get-worse/)
+- [Will China return Mars samples to Earth before the US does?](https://www.space.com/the-universe/mars/will-china-return-mars-samples-to-earth-before-the-us-does)
 - [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/)
 - [Aurora Innovation delays commercial autonomous truck launch to 2025](https://techcrunch.com/2024/10/30/aurora-innovation-delays-commercial-autonomous-truck-launch-to-2025/)
-- [And the winner of Startup Battlefield at Disrupt 2024 is . . . Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/)
-- [Perplexity’s CEO punts on defining ‘plagiarism’](https://techcrunch.com/2024/10/30/perplexitys-ceo-punts-on-defining-plagiarism/)
-- [Startup Battlefield 200 Runnerup Announcement](https://techcrunch.com/video/startup-battlefield-200-runnerup-announcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
