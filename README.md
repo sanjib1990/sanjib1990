@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [College social app Fizz’s ‘serial failed retiree’ CEO steps down as founder takes helm](https://techcrunch.com/2024/10/31/college-social-app-fizzs-serial-failed-retiree-ceo-steps-down-as-founder-takes-helm/)
-- [Dark matter might live in a dense haze around stellar corpses](https://www.space.com/neutron-stars-axions-dark-matter)
-- [Fight space ghosts as an astronaut cat in spooky Halloween 2024 Google Doodle](https://www.space.com/halloween-google-doodle-2024-astronaut-cat)
-- [Comets, supermoon, northern lights, oh my! Amazing photos of the celestial Halloween treats of October 2024](https://www.space.com/october-2024-skywatching-treats-best-photos)
-- [Nvidia-Run:ai deal to be reviewed under EU’s merger rules](https://techcrunch.com/2024/10/31/nvidia-runai-deal-to-be-reviewed-under-eus-merger-rules/)
+- [Google Maps is getting new AI features powered by Gemini](https://techcrunch.com/2024/10/31/google-maps-is-getting-new-ai-features-powered-by-gemini/)
+- [Google’s Gemini API and AI Studio get grounding with Google Search](https://techcrunch.com/2024/10/31/googles-gemini-api-and-ai-studio-get-grounding-with-google-search/)
+- [How to court — and retain — Gen Z workers](https://techcrunch.com/2024/10/31/2908947/)
+- [Dark Wolf Nebula shows off a howling good view in awesome Halloween image &lpar;video&rpar;](https://www.space.com/wolf-dark-nebula-halloween-2024)
+- [North Korea launches intercontinental ballistic missile to space, reaches record altitude](https://www.space.com/space-exploration/launches-spacecraft/north-korea-launches-intercontinental-ballistic-missile-to-space-reaches-record-altitude)
 <!-- BLOG-POST-LIST:END -->
 
 ---
