@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [College social app Fizz’s ‘serial failed retiree’ CEO steps down as founder takes helm](https://techcrunch.com/2024/10/31/college-social-app-fizzs-serial-failed-retiree-ceo-steps-down-as-founder-takes-helm/)
+- [Dark matter might live in a dense haze around stellar corpses](https://www.space.com/neutron-stars-axions-dark-matter)
+- [Fight space ghosts as an astronaut cat in spooky Halloween 2024 Google Doodle](https://www.space.com/halloween-google-doodle-2024-astronaut-cat)
+- [Comets, supermoon, northern lights, oh my! Amazing photos of the celestial Halloween treats of October 2024](https://www.space.com/october-2024-skywatching-treats-best-photos)
 - [Nvidia-Run:ai deal to be reviewed under EU’s merger rules](https://techcrunch.com/2024/10/31/nvidia-runai-deal-to-be-reviewed-under-eus-merger-rules/)
-- [The Lego Black Panther building set is over $100 off pre-Black Friday](https://www.space.com/lego-black-panther-early-black-friday-deal-save-30-percent-october-2024)
-- [Claude gets desktop apps and dictation support](https://techcrunch.com/2024/10/31/claude-gets-desktop-apps-and-dictation-support/)
-- [Boston Dynamics’ Atlas humanoid hot dogs for the camera](https://techcrunch.com/2024/10/31/boston-dynamics-atlas-humanoid-hot-dogs-for-the-camera/)
-- [Happy Dark Matter Day! Meet the usual — and unusual — suspects in this cosmic mystery](https://www.space.com/dark-matter-day-suspects-axions-black-holes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
