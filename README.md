@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NFL quarterback turned-founder Colin Kaepernick on the challenges facing disrupters](https://techcrunch.com/2024/10/30/nfl-quarterback-turned-founder-colin-kaepernick-on-the-challenges-facing-disrupters/)
+- [Aurora Innovation delays commercial autonomous truck launch to 2025](https://techcrunch.com/2024/10/30/aurora-innovation-delays-commercial-autonomous-truck-launch-to-2025/)
+- [And the winner of Startup Battlefield at Disrupt 2024 is . . . Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/)
+- [Perplexity’s CEO punts on defining ‘plagiarism’](https://techcrunch.com/2024/10/30/perplexitys-ceo-punts-on-defining-plagiarism/)
 - [Rivian’s chief software officer says in-car buttons are ‘an anomaly’](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
-- [500 Amazon employees reportedly ask AWS CEO to reverse return-to-office policy](https://techcrunch.com/2024/10/30/500-amazon-employees-reportedly-ask-aws-ceo-to-reverse-return-to-office-policy/)
-- [AI models get more election questions wrong when asked in Spanish, study shows](https://techcrunch.com/2024/10/30/ai-models-get-more-election-questions-wrong-when-asked-in-spanish-study-shows/)
-- [Can &#39;failed stars&#39; have planets? James Webb Space Telescopes offers clues](https://www.space.com/james-webb-space-telescope-failed-star-brown-dwarf-planets)
-- [When startups should look to sell and when to keep fighting](https://techcrunch.com/video/when-startups-should-look-to-sell-and-when-to-keep-fighting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
