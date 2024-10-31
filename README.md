@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India targets 2028 for Chandrayaan-4 sample-return mission to moon&#39;s south pole](https://www.space.com/the-universe/moon/india-targets-2028-for-chandrayaan-4-sample-return-mission-to-moons-south-pole)
+- [Stare into the &#39;blood-soaked eyes&#39; of 2 spooky galaxies in new Hubble, JWST images &lpar;video&rpar;](https://www.space.com/james-webb-space-telescope-hubble-blood-soaked-eyes-galaxy-pair)
+- [Carl Pei says Nothing could build its own operating system](https://techcrunch.com/2024/10/31/carl-pei-says-nothing-could-build-its-own-operating-system/)
 - [Kalshi secures tens of millions in loans from VCs, eyes $50M+ round amid election betting boom, source says](https://techcrunch.com/2024/10/31/kalshi-secures-tens-of-millions-in-loans-from-vcs-eyes-50m-round-amid-election-betting-boom-source-says/)
 - [Ford pauses F-150 Lightning production as Tesla Cybertruck heats up](https://techcrunch.com/2024/10/31/ford-pauses-f-150-lightning-production-as-tesla-cybertruck-heats-up/)
-- [&#39;Star Trek: Lower Decks&#39; Season 5 episode 3: Why are nanites causing havoc in a luxury space hotel?](https://www.space.com/entertainment/space-movies-shows/star-trek-lower-decks-season-5-episode-3-why-are-nanites-causing-havoc-in-a-luxury-space-hotel)
-- [Zoox robotaxis are finally rolling out, Waymo snags more cash, and Aurora delays its self-driving truck launch](https://techcrunch.com/2024/10/31/zoox-robotaxis-are-finally-rolling-out-waymo-snags-more-cash-and-aurora-delays-its-self-driving-truck-launch/)
-- [Meta is making a robot hand that can ‘feel’ touch](https://techcrunch.com/2024/10/31/meta-is-making-a-robot-hand-that-can-feel-touch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
