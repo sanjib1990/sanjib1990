@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Recursive Ray Tracing - Computerphile](https://www.youtube.com/watch?v=nOCPpT-Sn0A)
 - [Nader from Jordan: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=60vaGH3ULEU)
 - [Cisco has a Hacking Cert?!?](https://www.youtube.com/watch?v=NL-90TcNBNs)
 - [your home automation SUCKS!!](https://www.youtube.com/watch?v=k02P5nghmfs)
 - [JavaScript framework reinvents itself… Did &quot;runes&quot; just ruin Svelte?](https://www.youtube.com/watch?v=aYyZUDFZTrM)
-- [The &quot;Goodbye&quot; Problem - Computerphile](https://www.youtube.com/watch?v=Isen8IHtrvE)
 <!-- YOUTUBE:END -->
 
 ---
