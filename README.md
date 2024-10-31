@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon CEO Andy Jassy hints at an ‘agentic’ Alexa](https://techcrunch.com/2024/10/31/amazon-ceo-andy-jassy-hints-at-an-agentic-alexa/)
+- [US drone maker Skydio faces battery squeeze after Chinese sanctions](https://techcrunch.com/2024/10/31/us-drone-maker-skydio-faces-battery-squeeze-after-chinese-sanctions/)
+- [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/)
 - [Boeing can recover from its Starliner troubles, but it can’t afford any other misfires](https://www.space.com/space-exploration/human-spaceflight/boeing-can-recover-from-its-starliner-troubles-but-it-cant-afford-any-other-misfires)
 - [BBG Ventures raises new $60 million fund to support diverse founders](https://techcrunch.com/2024/10/31/bbg-ventures-raises-new-60-million-fund-to-support-diverse-founders/)
-- [Female Founders Fund returns its Fund I](https://techcrunch.com/2024/10/31/female-founders-fund-returns-its-fund-i/)
-- [Oura buys Sparta Science, its third acquisition in two years](https://techcrunch.com/2024/10/31/oura-buys-sparta-science-its-third-acquisition-in-two-years/)
-- [MaC VC raised $150 million Fund III](https://techcrunch.com/2024/10/31/mac-vc-raised-150-million-fund-iii/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
