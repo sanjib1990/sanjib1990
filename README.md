@@ -98,7 +98,7 @@
 - [Aurora Innovation delays commercial autonomous truck launch to 2025](https://techcrunch.com/2024/10/30/aurora-innovation-delays-commercial-autonomous-truck-launch-to-2025/)
 - [And the winner of Startup Battlefield at Disrupt 2024 is . . . Salva Health](https://techcrunch.com/2024/10/30/and-the-winner-of-startup-battlefield-at-disrupt-2024-is-salva-health/)
 - [Perplexity’s CEO punts on defining ‘plagiarism’](https://techcrunch.com/2024/10/30/perplexitys-ceo-punts-on-defining-plagiarism/)
-- [Rivian’s chief software officer says in-car buttons are ‘an anomaly’](https://techcrunch.com/2024/10/30/rivians-chief-software-officer-says-in-car-buttons-are-an-anomaly/)
+- [Startup Battlefield 200 Runnerup Announcement](https://techcrunch.com/video/startup-battlefield-200-runnerup-announcement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
