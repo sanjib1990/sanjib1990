@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia-Run:ai deal to be reviewed under EU’s merger rules](https://techcrunch.com/2024/10/31/nvidia-runai-deal-to-be-reviewed-under-eus-merger-rules/)
+- [The Lego Black Panther building set is over $100 off pre-Black Friday](https://www.space.com/lego-black-panther-early-black-friday-deal-save-30-percent-october-2024)
+- [Claude gets desktop apps and dictation support](https://techcrunch.com/2024/10/31/claude-gets-desktop-apps-and-dictation-support/)
+- [Boston Dynamics’ Atlas humanoid hot dogs for the camera](https://techcrunch.com/2024/10/31/boston-dynamics-atlas-humanoid-hot-dogs-for-the-camera/)
 - [Happy Dark Matter Day! Meet the usual — and unusual — suspects in this cosmic mystery](https://www.space.com/dark-matter-day-suspects-axions-black-holes)
-- [Space CEOs talk about the challenges and opportunities of selling defense tech](https://techcrunch.com/2024/10/31/space-ceos-talk-about-the-challenges-and-opportunities-of-selling-defense-tech/)
-- [MealMe, the startup integrating food ordering tech into apps, picks up $8M](https://techcrunch.com/2024/10/31/mealme-startup-integrating-food-ordering-tech-into-app-picks-up-8m/)
-- [D-ID launches new high-quality avatars capable of real-time conversations](https://techcrunch.com/2024/10/31/d-id-launches-new-high-quality-avatars-capable-of-real-time-conversations/)
-- [Buddy.ai is using AI and gaming to help children learn English as a second language](https://techcrunch.com/2024/10/31/buddy-ai-is-using-ai-and-gaming-to-help-children-learn-english-as-a-second-language/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
