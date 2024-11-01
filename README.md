@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/)
 - [How to make open source software more secure](https://techcrunch.com/2024/11/01/how-to-make-open-source-software-more-secure/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/)
 - [Satellites watch devastating floods in Spain from space &lpar;photos&rpar;](https://www.space.com/the-universe/earth/satellites-watch-devastating-floods-in-spain-from-space-photos)
-- [Apple is buying photo-editing app Pixelmator](https://techcrunch.com/2024/11/01/apple-is-buying-photo-editing-app-pixelmator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
