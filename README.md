@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China&#39;s Shenzhou 19 astronauts take the reins of Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinas-shenzhou-19-astronauts-take-the-reins-of-tiangong-space-station-video)
+- [Perplexity launches an elections tracker](https://techcrunch.com/2024/11/01/perplexity-launches-an-elections-tracker/)
 - [&#39;Alien signal&#39; sent from Mars decoded by father-daughter team](https://www.space.com/alien-signal-mars-decoded-esa-exomars)
 - [Watch Jude Law lead lost kids across the galaxy in new &#39;Star Wars: Skeleton Crew&#39; trailer](https://www.space.com/star-wars-skeleton-crew-trailer-disney-plus-dec-3)
 - [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/)
-- [Hubble watches neutron stars collide and explode to create black hole and &#39;birth atoms&#39;](https://www.space.com/electrons-dance-black-hole-neutronstar-collision)
-- [The Chainsmokers want to bring a different kind of value add to B2B companies](https://techcrunch.com/2024/11/01/the-chainsmokers-want-to-bring-a-different-kind-of-value-add-to-b2b-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
