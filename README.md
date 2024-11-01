@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Explore Jupiter&#39;s icy ocean moon Europa in NASA virtual tour &lpar;photos&rpar;](https://www.space.com/the-universe/jupiter/explore-jupiters-icy-ocean-moon-europa-in-nasa-virtual-tour-photos)
 - [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/)
 - [Perseverance rover watches &#39;googly eye&#39; solar eclipse from Mars &lpar;video&rpar;](https://www.space.com/the-universe/mars/perseverance-rover-watches-googly-eye-solar-eclipse-from-mars-video)
 - [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/)
-- [November&#39;s new moon makes a close pass to Venus](https://www.space.com/november-new-moon-2024)
-- [Small moon of Uranus may have once had a subsurface liquid water ocean](https://www.space.com/uranus-moon-miranda-subsurface-ocean-voyager-2)
+- [November&#39;s new moon makes a close pass to Venus tonight](https://www.space.com/november-new-moon-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
