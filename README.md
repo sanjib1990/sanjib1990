@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/)
+- [Can we solve the satellite air pollution problem? Here are 4 possible fixes](https://www.space.com/space-exploration/tech/can-we-solve-the-satellite-air-pollution-problem-here-are-4-possible-fixes)
+- [Cross-posting social app Openvibe now supports Threads, too](https://techcrunch.com/2024/11/01/cross-posting-social-app-openvibe-now-supports-threads-too/)
+- [NASA astronaut Suni Williams sends Happy Diwali wishes from ISS &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-suni-williams-sends-happy-diwali-wishes-from-iss-video)
 - [&#39;Interstellar&#39; fireballs likely came from within our solar system, study suggests](https://www.space.com/stargazing/meteors-showers/interstellar-fireballs-likely-came-from-within-our-solar-system-study-suggests)
-- [Chinese military researchers reportedly used Meta AI to develop defense chatbot](https://techcrunch.com/2024/11/01/chinese-military-researchers-reportedly-used-metas-ai-to-develop-a-defense-chatbot/)
-- [Instagram upgrades DMs with focus on creators](https://techcrunch.com/2024/11/01/instagram-upgrades-dms-with-focus-on-creators/)
-- [Explore Jupiter&#39;s icy ocean moon Europa in NASA virtual tour &lpar;photos&rpar;](https://www.space.com/the-universe/jupiter/explore-jupiters-icy-ocean-moon-europa-in-nasa-virtual-tour-photos)
-- [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
