@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Alien signal&#39; sent from Mars decoded by father-daughter team](https://www.space.com/alien-signal-mars-decoded-esa-exomars)
+- [Watch Jude Law lead lost kids across the galaxy in new &#39;Star Wars: Skeleton Crew&#39; trailer](https://www.space.com/star-wars-skeleton-crew-trailer-disney-plus-dec-3)
+- [When to sell your company? Look for these signals](https://techcrunch.com/2024/11/01/when-to-sell-your-company-look-for-these-signals/)
 - [Hubble watches neutron stars collide and explode to create black hole and &#39;birth atoms&#39;](https://www.space.com/electrons-dance-black-hole-neutronstar-collision)
 - [The Chainsmokers want to bring a different kind of value add to B2B companies](https://techcrunch.com/2024/11/01/the-chainsmokers-want-to-bring-a-different-kind-of-value-add-to-b2b-companies/)
-- [Which is better, Black Friday or Cyber Monday?](https://www.space.com/black-friday-or-cyber-monday-which-is-better)
-- [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/)
-- [How to make open source software more secure](https://techcrunch.com/2024/11/01/how-to-make-open-source-software-more-secure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
