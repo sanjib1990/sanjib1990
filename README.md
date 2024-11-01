@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble watches neutron stars collide and explode to create black hole and &#39;birth atoms&#39;](https://www.space.com/electrons-dance-black-hole-neutronstar-collision)
+- [The Chainsmokers want to bring a different kind of value add to B2B companies](https://techcrunch.com/2024/11/01/the-chainsmokers-want-to-bring-a-different-kind-of-value-add-to-b2b-companies/)
+- [Which is better, Black Friday or Cyber Monday?](https://www.space.com/black-friday-or-cyber-monday-which-is-better)
 - [New funding rounds confirm that money attracts money](https://techcrunch.com/2024/11/01/new-funding-rounds-confirm-that-money-attracts-money/)
 - [How to make open source software more secure](https://techcrunch.com/2024/11/01/how-to-make-open-source-software-more-secure/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/)
-- [Satellites watch devastating floods in Spain from space &lpar;photos&rpar;](https://www.space.com/the-universe/earth/satellites-watch-devastating-floods-in-spain-from-space-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
