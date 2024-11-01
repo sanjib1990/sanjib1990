@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple is buying photo editing app Pixelmator](https://techcrunch.com/2024/11/01/apple-is-buying-photo-editing-app-pixelmator/)
-- [&#39;Stargate&#39; 30 years later: Roland Emmerich&#39;s flawed sci-fi classic remains a refreshing watch](https://www.space.com/stargate-30-years-later-roland-emmerichs-flawed-sci-fi-classic-remains-a-refreshing-watch)
-- [Sun erupts with X-class solar flare on Halloween, causes radio blackouts &lpar;video&rpar;](https://www.space.com/the-universe/sun/sun-erupts-with-x-class-solar-flare-on-halloween-causes-radio-blackouts-video)
-- [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/)
-- [Can we solve the satellite air pollution problem? Here are 4 possible fixes](https://www.space.com/space-exploration/tech/can-we-solve-the-satellite-air-pollution-problem-here-are-4-possible-fixes)
+- [How to make open source software more secure](https://techcrunch.com/2024/11/01/how-to-make-open-source-software-more-secure/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [The biggest underestimated security threat of today? Advanced persistent teenagers](https://techcrunch.com/2024/11/01/the-biggest-underestimated-security-threat-of-today-advanced-persistent-teenagers/)
+- [Satellites watch devastating floods in Spain from space &lpar;photos&rpar;](https://www.space.com/the-universe/earth/satellites-watch-devastating-floods-in-spain-from-space-photos)
+- [Apple is buying photo-editing app Pixelmator](https://techcrunch.com/2024/11/01/apple-is-buying-photo-editing-app-pixelmator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
