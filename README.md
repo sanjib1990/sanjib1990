@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Interstellar&#39; fireballs likely came from within our solar system, study suggests](https://www.space.com/stargazing/meteors-showers/interstellar-fireballs-likely-came-from-within-our-solar-system-study-suggests)
+- [Chinese military researchers reportedly used Meta AI to develop defense chatbot](https://techcrunch.com/2024/11/01/chinese-military-researchers-reportedly-used-metas-ai-to-develop-a-defense-chatbot/)
+- [Instagram upgrades DMs with focus on creators](https://techcrunch.com/2024/11/01/instagram-upgrades-dms-with-focus-on-creators/)
 - [Explore Jupiter&#39;s icy ocean moon Europa in NASA virtual tour &lpar;photos&rpar;](https://www.space.com/the-universe/jupiter/explore-jupiters-icy-ocean-moon-europa-in-nasa-virtual-tour-photos)
 - [Former Caribou founder launches Further, a fintech that’s focused on helping people buy homes](https://techcrunch.com/2024/11/01/former-caribou-founder-launches-further-a-fintech-thats-focused-on-helping-people-buy-homes/)
-- [Perseverance rover watches &#39;googly eye&#39; solar eclipse from Mars &lpar;video&rpar;](https://www.space.com/the-universe/mars/perseverance-rover-watches-googly-eye-solar-eclipse-from-mars-video)
-- [How to build a company that can save the world and generate a profit](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/)
-- [November&#39;s new moon makes a close pass to Venus tonight](https://www.space.com/november-new-moon-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
