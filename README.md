@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indonesia blocks Google Pixel sales after ban on iPhone 16](https://techcrunch.com/2024/10/31/indonesia-bans-google-pixel-sales-after-iphone-16-block/)
 - [Elon Musk skipped a hearing in Philly about his super PAC’s payouts to voters](https://techcrunch.com/2024/10/31/elon-musk-skipped-a-hearing-in-philly-about-his-super-pacs-payouts-to-voters/)
 - [TechCrunch Space: Disrupt 2024 wrap-up](https://techcrunch.com/2024/10/31/techcrunch-space-disrupt-2024-wrap-up/)
 - [Amazon CEO Andy Jassy hints at an ‘agentic’ Alexa](https://techcrunch.com/2024/10/31/amazon-ceo-andy-jassy-hints-at-an-agentic-alexa/)
 - [US drone maker Skydio faces battery squeeze after Chinese sanctions](https://techcrunch.com/2024/10/31/us-drone-maker-skydio-faces-battery-squeeze-after-chinese-sanctions/)
-- [Decart’s AI simulates a real-time, playable version of Minecraft](https://techcrunch.com/2024/10/31/decarts-ai-simulates-a-real-time-playable-version-of-minecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
