@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is buying photo editing app Pixelmator](https://techcrunch.com/2024/11/01/apple-is-buying-photo-editing-app-pixelmator/)
+- [&#39;Stargate&#39; 30 years later: Roland Emmerich&#39;s flawed sci-fi classic remains a refreshing watch](https://www.space.com/stargate-30-years-later-roland-emmerichs-flawed-sci-fi-classic-remains-a-refreshing-watch)
+- [Sun erupts with X-class solar flare on Halloween, causes radio blackouts &lpar;video&rpar;](https://www.space.com/the-universe/sun/sun-erupts-with-x-class-solar-flare-on-halloween-causes-radio-blackouts-video)
 - [A new app launches to help keep voters informed for elections](https://techcrunch.com/2024/11/01/a-new-app-launches-to-help-keep-voters-informed-for-elections/)
 - [Can we solve the satellite air pollution problem? Here are 4 possible fixes](https://www.space.com/space-exploration/tech/can-we-solve-the-satellite-air-pollution-problem-here-are-4-possible-fixes)
-- [Cross-posting social app Openvibe now supports Threads, too](https://techcrunch.com/2024/11/01/cross-posting-social-app-openvibe-now-supports-threads-too/)
-- [NASA astronaut Suni Williams sends Happy Diwali wishes from ISS &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-suni-williams-sends-happy-diwali-wishes-from-iss-video)
-- [&#39;Interstellar&#39; fireballs likely came from within our solar system, study suggests](https://www.space.com/stargazing/meteors-showers/interstellar-fireballs-likely-came-from-within-our-solar-system-study-suggests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
