@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft and A16Z set aside differences, join hands in plea against AI regulation](https://techcrunch.com/2024/11/01/microsoft-and-a16z-set-aside-differences-join-hands-in-plea-against-ai-regulation/)
+- [Microsoft and a16z set aside differences, join hands in plea against AI regulation](https://techcrunch.com/2024/11/01/microsoft-and-a16z-set-aside-differences-join-hands-in-plea-against-ai-regulation/)
 - [&#39;Boo Deng&#39; steals the show at NASA JPL&#39;s annual pumpkin carving contest &lpar;photos&rpar;](https://www.space.com/nasa-jpl-pumpkin-carving-contest-2024)
 - [SpaceX wants to test refueling Starships in space early next year](https://techcrunch.com/2024/11/01/spacex-wants-to-test-refueling-starships-in-space-early-next-year/)
 - [China&#39;s Shenzhou 19 astronauts take the reins of Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinas-shenzhou-19-astronauts-take-the-reins-of-tiangong-space-station-video)
