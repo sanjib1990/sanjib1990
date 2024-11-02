@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/)
+- [Watch SpaceX Crew-9 astronauts move Crew Dragon spacecraft to new ISS parking spot on Nov. 3](https://www.space.com/space-exploration/international-space-station/spacex-crew-9-spacecraft-iss-relocation-webcast)
 - [CoffeeSpace is a Hinge-like app that wants to help you find your co-founder](https://techcrunch.com/2024/11/02/coffeespace-is-a-hinge-like-app-that-wants-to-help-you-find-your-co-founder/)
 - [Space isn’t all about the &#39;race&#39; – rival superpowers must work together for a better future](https://www.space.com/space-exploration/human-spaceflight/space-isnt-all-about-the-race-rival-superpowers-must-work-together-for-a-better-future)
 - [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/)
-- [Every upcoming Star Wars game officially announced](https://www.space.com/every-upcoming-star-wars-game)
-- [This Week In Space podcast: Episode 135 —The Spacer Pipeline](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-135-spacer-pipeline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
