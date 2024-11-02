@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CareYaya is enabling affordable home care by connecting healthcare students with elders](https://techcrunch.com/2024/11/02/careyaya-is-enabling-affordable-home-care-by-connecting-healthcare-students-with-elders/)
+- [Every upcoming Star Wars game officially announced](https://www.space.com/every-upcoming-star-wars-game)
+- [This Week In Space podcast: Episode 135 —The Spacer Pipeline](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-135-spacer-pipeline)
 - [How national interest startups should be thinking about government contracts](https://techcrunch.com/2024/11/02/how-national-interest-startups-should-be-thinking-about-government-contracts/)
 - [NASA astronaut captures city lights streaking below ISS in stunning new photos](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-captures-city-lights-streaking-below-iss-in-stunning-new-photos)
-- [Black holes that form in &#39;reverse Big Bang replays&#39; could account for dark energy](https://www.space.com/dark-energy-black-hole-connection)
-- [Microsoft and a16z set aside differences, join hands in plea against AI regulation](https://techcrunch.com/2024/11/01/microsoft-and-a16z-set-aside-differences-join-hands-in-plea-against-ai-regulation/)
-- [&#39;Boo Deng&#39; steals the show at NASA JPL&#39;s annual pumpkin carving contest &lpar;photos&rpar;](https://www.space.com/nasa-jpl-pumpkin-carving-contest-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
