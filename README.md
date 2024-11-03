@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘If you actually are solving a problem, you don’t talk about any of the hype,’ investor says](https://techcrunch.com/2024/11/03/if-you-actually-are-solving-a-problem-you-dont-talk-about-any-of-the-hype-investor-says/)
+- [Everything we know about &#39;Tron: Ares&#39;](https://www.space.com/everything-we-know-about-tron-ares)
 - [Chef Duff Goldman spins up moon-shaped cake for NASA &#39;Taste of Space&#39;](https://www.space.com/taste-space-duff-goldman-moon-landing-55th-cake)
 - [Wesley Chan on what he looks for as he’s shopping for potential unicorns](https://techcrunch.com/2024/11/03/wesley-chan-on-what-he-looks-for-as-hes-shopping-for-potential-unicorns/)
 - [Women in AI: Sophia Velastegui believes AI is moving too fast](https://techcrunch.com/2024/11/03/women-in-ai-sophia-velastegui-believes-ai-is-moving-too-fast/)
-- [GenAI suffers from data overload, so companies should focus on smaller, specific goals](https://techcrunch.com/2024/11/03/genai-suffers-from-data-overload-so-companies-should-focus-on-smaller-specific-goals/)
-- [&#39;Cosmic inflation:&#39; did the early cosmos balloon in size? A mirror universe going backwards in time may be a simpler explanation](https://www.space.com/the-universe/cosmic-inflation-did-the-early-cosmos-balloon-in-size-a-mirror-universe-going-backwards-in-time-may-be-a-simpler-explanation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
