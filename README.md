@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GenAI suffers from data overload, so companies should focus on smaller, specific goals](https://techcrunch.com/2024/11/03/genai-suffers-from-data-overload-so-companies-should-focus-on-smaller-specific-goals/)
+- [&#39;Cosmic inflation:&#39; did the early cosmos balloon in size? A mirror universe going backwards in time may be a simpler explanation](https://www.space.com/the-universe/cosmic-inflation-did-the-early-cosmos-balloon-in-size-a-mirror-universe-going-backwards-in-time-may-be-a-simpler-explanation)
 - [China&#39;s Shenzhou 18 astronauts return to Earth today after 6 months in space](https://www.space.com/space-exploration/launches-spacecraft/chinas-shenzhou-18-astronauts-return-to-earth-today-after-6-months-in-space)
 - [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/)
 - [Quantum Machines and Nvidia use machine learning to get closer to an error-corrected quantum computer](https://techcrunch.com/2024/11/02/quantum-machines-and-nvidia-use-machine-learning-to-get-closer-to-an-error-corrected-quantum-computer/)
-- [MIT debuts a large language model-inspired method for teaching robots new skills](https://techcrunch.com/2024/11/02/mit-debuts-a-large-language-model-inspired-method-for-teaching-robots-new-skills/)
-- [Can you build a startup without sacrificing your mental health? Bonobos founder Andy Dunn thinks so](https://techcrunch.com/2024/11/02/can-you-build-a-startup-without-sacrificing-your-mental-health-bonobos-founder-andy-dunn-thinks-so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
