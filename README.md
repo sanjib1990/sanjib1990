@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The horrors of software bugs](https://www.youtube.com/watch?v=Iq_r7IcNmUk)
+- [25 crazy software bugs explained](https://www.youtube.com/watch?v=Iq_r7IcNmUk)
 - [Recursive Ray Tracing - Computerphile](https://www.youtube.com/watch?v=nOCPpT-Sn0A)
 - [Nader from Jordan: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=60vaGH3ULEU)
 - [Cisco has a Hacking Cert?!?](https://www.youtube.com/watch?v=NL-90TcNBNs)
