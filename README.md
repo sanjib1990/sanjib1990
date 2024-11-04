@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space Force&#39;s mysterious X-37B begins &#39;aerobraking&#39; to lower orbit. Here&#39;s how it works &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/space-forces-mysterious-x-37b-begins-aerobraking-to-lower-orbit-heres-how-it-works-video)
+- [How do you vote from space? NASA astronauts cast 2024 election ballots from ISS](https://www.space.com/space-exploration/international-space-station/how-do-you-vote-from-space-nasa-astronauts-cast-2024-election-ballots-from-iss)
 - [NASA&#39;s 15-year-old NEOWISE asteroid hunter meets fiery doom by burning up in Earth&#39;s atmosphere](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-15-year-old-neowise-asteroid-hunter-meets-fiery-doom-by-burning-up-in-earths-atmosphere)
 - [Bluesky gears up for Election Day as X goes pro-Trump](https://techcrunch.com/2024/11/04/bluesky-gears-up-for-election-day-as-x-goes-pro-trump/)
 - [Amazon brings generative AI-powered recaps to Prime Video](https://techcrunch.com/2024/11/04/amazon-brings-generative-ai-powered-recaps-to-prime-video/)
-- [Amazon acknowledges screen issues on a ‘small number’ of Kindle Colorsoft units](https://techcrunch.com/2024/11/04/amazon-acknowledges-screen-issues-on-a-small-number-of-kindle-colorsoft-units/)
-- [Regulators deliver successive blows to Amazon and Meta’s nuclear power ambitions](https://techcrunch.com/2024/11/04/regulators-deliver-successive-blows-to-amazon-and-metas-nuclear-power-ambitions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
