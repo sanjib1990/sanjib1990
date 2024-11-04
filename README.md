@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupiter&#39;s moons hide giant subsurface oceans − Europa Clipper is one of 2 missions on their way to see if these moons could support life](https://www.space.com/space-exploration/search-for-life/jupiters-moons-hide-giant-subsurface-oceans-europa-clipper-is-one-of-2-missions-on-their-way-to-see-if-these-moons-could-support-life)
-- [&#39;Star Wars: Legacy of Vader&#39; follows Kylo Ren between &#39;The Last Jedi&#39; and &#39;Rise of Skywalker&#39;](https://www.space.com/entertainment/marvel-comics-star-wars-legacy-of-vader-series-follows-kylo-ren-between-the-last-jedi-and-rise-of-skywalker)
-- [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/)
-- [Anduril is considering Arizona, Ohio, or Texas for its massive manufacturing facility, source says](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/)
-- [Meta says it’s making its Llama models available for US national security applications](https://techcrunch.com/2024/11/04/meta-says-its-making-its-llama-models-available-for-us-national-security-applications/)
+- [Amazon brings generative AI-powered recaps to Prime Video](https://techcrunch.com/2024/11/04/amazon-brings-generative-ai-powered-recaps-to-prime-video/)
+- [Amazon acknowledges screen issues on a ‘small number’ of Kindle Colorsoft units](https://techcrunch.com/2024/11/04/amazon-acknowledges-screen-issues-on-a-small-number-of-kindle-colorsoft-units/)
+- [Regulators deliver successive blows to Amazon and Meta’s nuclear power ambitions](https://techcrunch.com/2024/11/04/regulators-deliver-successive-blows-to-amazon-and-metas-nuclear-power-ambitions/)
+- [From Lime to Uber to Hertz: Free and discounted Election Day rides](https://techcrunch.com/2024/11/04/from-lime-to-uber-to-hertz-free-and-discounted-election-day-rides/)
+- [Perplexity CEO offers to replace striking NYT staff with AI](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-to-replace-striking-nyt-staff-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
