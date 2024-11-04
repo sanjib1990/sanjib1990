@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Affirm launches in the UK, as ‘buy now, pay later’ market faces regulatory overhaul](https://techcrunch.com/2024/11/03/affirm-launches-in-the-uk-as-buy-now-pay-later-market-faces-regulatory-overhaul/)
 - [From Lime to Uber to Hertz: Free and discounted Election Day rides](https://techcrunch.com/2024/11/03/from-lime-to-uber-to-hertz-free-and-discounted-election-day-rides/)
 - [OpenAI has hired the co-founder of Twitter challenger Pebble](https://techcrunch.com/2024/11/03/openai-has-hired-the-co-founder-of-twitter-challenger-pebble/)
 - [Founders should seek sector alignment when looking for a family office investor](https://techcrunch.com/2024/11/03/founders-should-seek-sector-alignment-when-looking-for-a-family-office-investor/)
 - [Explore a long-lost Starfleet ghost ship in new &#39;Star Trek: Lower Decks&#39; comic &lpar;exclusive&rpar;](https://www.space.com/entertainment/explore-a-long-lost-starfleet-ghost-ship-in-new-star-trek-lower-decks-comic-exclusive)
-- [‘If you actually are solving a problem, you don’t talk about any of the hype,’ investor says](https://techcrunch.com/2024/11/03/if-you-actually-are-solving-a-problem-you-dont-talk-about-any-of-the-hype-investor-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
