@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [U.S. laws regulating AI prove elusive, but there may be hope](https://techcrunch.com/2024/11/04/u-s-laws-regulating-ai-prove-elusive-but-there-may-be-hope/)
 - [Astronomers urge FCC to halt satellite megaconstellation launches](https://www.space.com/space-exploration/satellites/astronomers-urge-fcc-to-halt-satellite-megaconstellation-launches)
 - [Vanguard cuts Indian ride-share startup Ola’s valuation to $2B](https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/)
 - [Threads now has 275M monthly active users](https://techcrunch.com/2024/11/03/threads-now-has-275m-monthly-active-users/)
 - [X updates block feature, letting blocked users see your public posts](https://techcrunch.com/2024/11/03/x-updates-block-feature-letting-blocked-users-see-your-public-posts/)
-- [Watch Rocket Lab launch mystery mission early on Nov. 5](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-mystery-mission-early-on-nov-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
