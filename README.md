@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Built in four days, this $120 robot arm cleans a spill with help from GPT-4o](https://techcrunch.com/2024/11/04/built-in-four-days-this-120-robot-arm-cleans-a-spill-with-help-from-gpt-4o/)
-- [Don&#39;t miss the Taurid meteor shower peak with colorful fireballs and shooting stars this week](https://www.space.com/stargazing/dont-miss-the-taurid-meteor-shower-peak-with-colorful-fireballs-and-shooting-stars-this-week)
-- [&#39;Alien vs. Predator&#39; 20 years later: What went right and what went wrong?](https://www.space.com/alien-vs-predator-20-years-later-what-went-right-and-what-went-wrong)
-- [Boost for Mars life? Red Planet&#39;s magnetic field may have lasted longer than thought](https://www.space.com/the-universe/mars/boost-for-mars-life-red-planets-magnetic-field-may-have-lasted-longer-than-thought)
-- [Columbus says ransomware gang stole personal data of 500,000 Ohio residents](https://techcrunch.com/2024/11/04/columbus-says-ransomware-gang-stole-personal-data-of-500000-ohio-residents/)
+- [Jupiter&#39;s moons hide giant subsurface oceans − Europa Clipper is one of 2 missions on their way to see if these moons could support life](https://www.space.com/space-exploration/search-for-life/jupiters-moons-hide-giant-subsurface-oceans-europa-clipper-is-one-of-2-missions-on-their-way-to-see-if-these-moons-could-support-life)
+- [&#39;Star Wars: Legacy of Vader&#39; follows Kylo Ren between &#39;The Last Jedi&#39; and &#39;Rise of Skywalker&#39;](https://www.space.com/entertainment/marvel-comics-star-wars-legacy-of-vader-series-follows-kylo-ren-between-the-last-jedi-and-rise-of-skywalker)
+- [The brightest bling of TechCrunch Disrupt 2024](https://techcrunch.com/2024/11/04/the-brightest-bling-of-techcrunch-disrupt-2024/)
+- [Anduril is considering Arizona, Ohio, or Texas for its massive manufacturing facility, source says](https://techcrunch.com/2024/11/04/anduril-is-considering-arizona-ohio-or-texas-for-its-massive-manufacturing-facility-source-says/)
+- [Meta says it’s making its Llama models available for US national security applications](https://techcrunch.com/2024/11/04/meta-says-its-making-its-llama-models-available-for-us-national-security-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
