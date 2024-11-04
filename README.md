@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Rocket Lab launch mystery mission early on Nov. 4](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-mystery-mission-early-on-nov-4)
-- [Watch Japan launch military communications satellite early Nov. 4 on 4th flight of H3 rocket](https://www.space.com/space-exploration/launches-spacecraft/japan-launching-military-communications-satellite-early-nov-4-on-4th-flight-of-h3-rocket)
+- [X updates block feature, letting blocked users see your public posts](https://techcrunch.com/2024/11/03/x-updates-block-feature-letting-blocked-users-see-your-public-posts/)
+- [Watch Rocket Lab launch mystery mission early on Nov. 5](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-mystery-mission-early-on-nov-4)
+- [Japan launches military communications satellite on 4th flight of H3 rocket](https://www.space.com/space-exploration/launches-spacecraft/japan-launching-military-communications-satellite-early-nov-4-on-4th-flight-of-h3-rocket)
 - [Affirm launches in the UK, as ‘buy now, pay later’ market faces regulatory overhaul](https://techcrunch.com/2024/11/03/affirm-launches-in-the-uk-as-buy-now-pay-later-market-faces-regulatory-overhaul/)
 - [From Lime to Uber to Hertz: Free and discounted Election Day rides](https://techcrunch.com/2024/11/03/from-lime-to-uber-to-hertz-free-and-discounted-election-day-rides/)
-- [OpenAI has hired the co-founder of Twitter challenger Pebble](https://techcrunch.com/2024/11/03/openai-has-hired-the-co-founder-of-twitter-challenger-pebble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
