@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/)
+- [Watch SpaceX launch 3 tons of cargo to ISS today](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-3-tons-of-cargo-to-iss-today)
 - [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/)
 - [See the moon snuggle up to Venus after sunset tonight](https://www.space.com/moon-venus-november-4-2024)
 - [U.S. laws regulating AI prove elusive, but there may be hope](https://techcrunch.com/2024/11/04/u-s-laws-regulating-ai-prove-elusive-but-there-may-be-hope/)
-- [Astronomers urge FCC to halt satellite megaconstellation launches](https://www.space.com/space-exploration/satellites/astronomers-urge-fcc-to-halt-satellite-megaconstellation-launches)
-- [Vanguard cuts Indian ride-share startup Ola’s valuation to $2B](https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
