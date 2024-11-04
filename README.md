@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost for Mars life? Red Planet&#39;s magnetic field may have lasted longer than thought](https://www.space.com/the-universe/mars/boost-for-mars-life-red-planets-magnetic-field-may-have-lasted-longer-than-thought)
+- [Columbus says ransomware gang stole personal data of 500,000 Ohio residents](https://techcrunch.com/2024/11/04/columbus-says-ransomware-gang-stole-personal-data-of-500000-ohio-residents/)
+- [SpaceX scrubs Starlink satellite launch due to apparent rocket helium leak](https://www.space.com/spacex-starlink-6-77-launch)
 - [No, startups shouldn’t always take the highest valuation, seed VCs say](https://techcrunch.com/2024/11/04/no-startups-shouldnt-always-take-the-highest-valuation-seed-vcs-say/)
 - [Watch SpaceX launch 3 tons of cargo to ISS today](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-3-tons-of-cargo-to-iss-today)
-- [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/)
-- [See the moon snuggle up to Venus after sunset tonight](https://www.space.com/moon-venus-november-4-2024)
-- [U.S. laws regulating AI prove elusive, but there may be hope](https://techcrunch.com/2024/11/04/u-s-laws-regulating-ai-prove-elusive-but-there-may-be-hope/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
