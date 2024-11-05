@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/)
-- [Newfound dead star spins record-breaking 716 times a second, explodes with thermonuclear blasts](https://www.space.com/neutron-star-4U182030-speed-demon-fastest-star)
-- [AI startups will need ‘quality of revenue’ to raise in 2025, seed VCs warn](https://techcrunch.com/2024/11/05/ai-startups-will-need-quality-of-revenue-to-raise-in-2025-seed-vcs-warn/)
-- [Can Pictionary and Minecraft test AI models’ ingenuity?](https://techcrunch.com/2024/11/05/people-are-using-games-like-pictionary-to-benchmark-ai-now/)
-- [Flash, founded by ex-Flipkart exec, launches in the U.S. to help shoppers juggle multiple online orders](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/)
+- [How a box on a roof helped Transaera to land $8.2 million in funding](https://techcrunch.com/2024/11/05/how-a-box-on-a-roof-helped-transaera-to-land-8-2-million-in-funding/)
+- [Satellites can now spot plastic trash on Earth&#39;s beaches from space &lpar;photo&rpar;](https://www.space.com/space-exploration/tech/satellites-can-now-spot-plastic-trash-on-earths-beaches-from-space-photo)
+- [Canadian authorities say they arrested hacker linked to Snowflake data breaches](https://techcrunch.com/2024/11/05/canadian-authorities-say-they-arrested-hacker-linked-to-snowflake-data-breaches/)
+- [Meta found to have exposed info on North Korean defectors to advertisers](https://techcrunch.com/2024/11/05/meta-found-to-have-exposed-info-on-north-korean-defectors-to-advertisers/)
+- [Printful and Printify ink a merger deal](https://techcrunch.com/2024/11/05/printful-and-printify-ink-a-merger-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
