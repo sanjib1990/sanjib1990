@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch 31st SpaceX Dragon cargo capsule arrive at the ISS today](https://www.space.com/space-exploration/international-space-station/watch-31st-spacex-dragon-cargo-capsule-arrive-at-the-iss-today)
 - [Coatue is raising $1B for AI bets](https://techcrunch.com/2024/11/04/coatue-is-raising-1b-for-ai-bets/)
 - [Meta’s former hardware lead for Orion is joining OpenAI](https://techcrunch.com/2024/11/04/metas-former-hardware-lead-for-orion-is-joining-openai/)
 - [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/)
 - [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/)
-- [Apple users can soon upgrade to ChatGPT Plus within the Settings app](https://techcrunch.com/2024/11/04/apple-users-can-soon-upgrade-to-chatgpt-plus-within-the-settings-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
