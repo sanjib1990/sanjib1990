@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk’s false and misleading election claims have been viewed 2 billion times on X](https://techcrunch.com/2024/11/05/elon-musks-false-and-misleading-election-claims-have-been-viewed-2-billion-times-on-x/)
-- [Matthew McConaughey unveils otherworldly aliens in upcoming sci-fi game &#39;Exodus&#39; &lpar;videos&rpar;](https://www.space.com/entertainment/matthew-mcconaughey-unveils-four-new-creature-trailers-for-upcoming-sci-fi-game-exodus-videos)
-- [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/)
-- [Meta extends political ad ban past Election Day](https://techcrunch.com/2024/11/05/meta-extends-political-ad-ban-past-election-day/)
-- [Google Cloud to make multi-factor authentication mandatory in 2025](https://techcrunch.com/2024/11/05/google-cloud-to-make-multi-factor-authentication-mandatory-in-2025/)
+- [Why can&#39;t active NASA astronauts endorse US presidential candidates?](https://www.space.com/space-exploration/human-spaceflight/why-cant-active-nasa-astronauts-endorse-us-presidential-candidates)
+- [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/)
+- [Black Friday or Christmas sales: Which is better?](https://www.space.com/black-friday-v-christmas-sales-which-is-better)
+- [Apple’s new widget puts Election Day updates on your Lock Screen and Home Screen](https://techcrunch.com/2024/11/05/apples-new-widget-puts-election-day-updates-on-your-lock-screen-and-home-screen/)
+- [Oil giant BP is killing 18 hydrogen projects, chilling the nascent industry](https://techcrunch.com/2024/11/05/oil-giant-bp-is-killing-18-hydrogen-projects-chilling-the-nascent-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
