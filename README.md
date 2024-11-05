@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coatue is raising $1B for AI bets](https://techcrunch.com/2024/11/04/coatue-is-raising-1b-for-ai-bets/)
+- [Meta’s former hardware lead for Orion is joining OpenAI](https://techcrunch.com/2024/11/04/metas-former-hardware-lead-for-orion-is-joining-openai/)
+- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/)
 - [Bowery Farming is ceasing operations](https://techcrunch.com/2024/11/04/bowery-farming-is-ceasing-operations/)
 - [Apple users can soon upgrade to ChatGPT Plus within the Settings app](https://techcrunch.com/2024/11/04/apple-users-can-soon-upgrade-to-chatgpt-plus-within-the-settings-app/)
-- [India delays its 1st-ever Gaganyaan astronaut launch to 2026](https://www.space.com/space-exploration/human-spaceflight/india-delays-its-1st-ever-gaganyaan-astronaut-launch-to-2026)
-- [Perplexity CEO offers AI company’s services to replace striking NYT staff](https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/)
-- [Space Force&#39;s mysterious X-37B begins &#39;aerobraking&#39; to lower orbit. Here&#39;s how it works &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/space-forces-mysterious-x-37b-begins-aerobraking-to-lower-orbit-heres-how-it-works-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
