@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World&#39;s 1st wooden satellite arrives at ISS for key orbital test](https://www.space.com/space-exploration/satellites/worlds-1st-wooden-satellite-arrives-at-iss-for-key-orbital-test)
+- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/)
 - [X reinstates SwapYourVote’s account after suspending it as spam](https://techcrunch.com/2024/11/05/x-reinstates-swapyourvotes-account-after-suspending-it-as-spam/)
 - [Google ‘fixes’ issues with voting search results that weren’t actually broken](https://techcrunch.com/2024/11/05/google-fixes-issues-with-voting-search-results-that-werent-actually-broken/)
 - [Satellite survives impact with object in space, takes selfie to prove it &lpar;photos&rpar;](https://www.space.com/space-exploration/satellites/satellite-survives-impact-with-object-in-space-takes-selfie-to-prove-it-photo)
-- [Astronomers spot unusually synchronized star formation&#39; in ancient galaxy for 1st time](https://www.space.com/the-universe/stars/astronomers-spot-unusually-synchronized-star-formation-in-ancient-galaxy-for-1st-time)
-- [NASA&#39;s Parker Solar Probe to glimpse Venus&#39; surface tomorrow before historic sun encounter](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-to-glimpse-venus-surface-tomorrow-before-historic-sun-encounter)
 <!-- BLOG-POST-LIST:END -->
 
 ---
