@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How a box on a roof helped Transaera to land $8.2 million in funding](https://techcrunch.com/2024/11/05/how-a-box-on-a-roof-helped-transaera-to-land-8-2-million-in-funding/)
-- [Satellites can now spot plastic trash on Earth&#39;s beaches from space &lpar;photo&rpar;](https://www.space.com/space-exploration/tech/satellites-can-now-spot-plastic-trash-on-earths-beaches-from-space-photo)
-- [Canadian authorities say they arrested hacker linked to Snowflake data breaches](https://techcrunch.com/2024/11/05/canadian-authorities-say-they-arrested-hacker-linked-to-snowflake-data-breaches/)
-- [Meta found to have exposed info on North Korean defectors to advertisers](https://techcrunch.com/2024/11/05/meta-found-to-have-exposed-info-on-north-korean-defectors-to-advertisers/)
-- [Printful and Printify ink a merger deal](https://techcrunch.com/2024/11/05/printful-and-printify-ink-a-merger-deal/)
+- [Elon Musk’s false and misleading election claims have been viewed 2 billion times on X](https://techcrunch.com/2024/11/05/elon-musks-false-and-misleading-election-claims-have-been-viewed-2-billion-times-on-x/)
+- [Matthew McConaughey unveils otherworldly aliens in upcoming sci-fi game &#39;Exodus&#39; &lpar;videos&rpar;](https://www.space.com/entertainment/matthew-mcconaughey-unveils-four-new-creature-trailers-for-upcoming-sci-fi-game-exodus-videos)
+- [Swiggy IPO nets $606 million from institutional investors](https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/)
+- [Meta extends political ad ban past Election Day](https://techcrunch.com/2024/11/05/meta-extends-political-ad-ban-past-election-day/)
+- [Google Cloud to make multi-factor authentication mandatory in 2025](https://techcrunch.com/2024/11/05/google-cloud-to-make-multi-factor-authentication-mandatory-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
