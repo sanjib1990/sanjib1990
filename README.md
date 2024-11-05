@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alan unveils AI health assistant for its 680,000 health insurance members](https://techcrunch.com/2024/11/05/alan-unveils-ai-based-health-assistant-to-complement-its-health-insurance/)
+- [Asteroid-mining company AstroForge gets 1st-ever FCC license for commercial deep-space mission](https://www.space.com/space-exploration/tech/asteroid-mining-company-astroforge-gets-1st-ever-fcc-license-for-commercial-deep-space-mission)
 - [Watch 31st SpaceX Dragon cargo capsule arrive at the ISS today](https://www.space.com/space-exploration/international-space-station/watch-31st-spacex-dragon-cargo-capsule-arrive-at-the-iss-today)
-- [Coatue is raising $1B for AI bets](https://techcrunch.com/2024/11/04/coatue-is-raising-1b-for-ai-bets/)
-- [Meta’s former hardware lead for Orion is joining OpenAI](https://techcrunch.com/2024/11/04/metas-former-hardware-lead-for-orion-is-joining-openai/)
-- [Datadog challenger Dash0 aims to dash observability bill shock](https://techcrunch.com/2024/11/04/datadog-challenger-dash0-aims-to-dash-observability-bill-shock/)
+- [India delays its 1st-ever Gaganyaan astronaut launch to 2026](https://www.space.com/space-exploration/human-spaceflight/india-delays-its-1st-ever-gaganyaan-astronaut-launch-to-2026)
+- [Space Force&#39;s mysterious X-37B begins &#39;aerobraking&#39; to lower orbit. Here&#39;s how it works &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/space-forces-mysterious-x-37b-begins-aerobraking-to-lower-orbit-heres-how-it-works-video)
+- [How do you vote from space? NASA astronauts cast 2024 election ballots from ISS](https://www.space.com/space-exploration/international-space-station/how-do-you-vote-from-space-nasa-astronauts-cast-2024-election-ballots-from-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
