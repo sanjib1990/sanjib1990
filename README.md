@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon begins delivering certain products via drone in Phoenix](https://techcrunch.com/2024/11/05/amazon-begins-delivering-certain-products-via-drone-in-phoenix/)
-- [&#39;Vega continues to be unusual:&#39; Lack of planets around young star puzzles astronomers](https://www.space.com/space-exploration/james-webb-space-telescope/vega-continues-to-be-unusual-lack-of-planets-around-young-star-puzzles-astronomers)
-- [Sharp &#39;lobster vision:&#39; China&#39;s Einstein Probe space telescope already making discoveries during commissioning phase](https://www.space.com/space-exploration/missions/sharp-lobster-vision-chinas-einstein-probe-space-telescope-already-making-discoveries-during-commissioning-phase)
-- [India issues notice to Wikipedia over concerns of bias](https://techcrunch.com/2024/11/05/india-issues-notice-to-wikipedia-over-concerns-of-bias/)
-- [Save $300 on the HTC VIVE Pro 2 VR headset, the best high-resolution option](https://www.space.com/early-black-friday-htc-vive-pro-2-deal-save-300-dollars-2024)
+- [DeepRoute raises $100M in push to beat Tesla’s FSD in China](https://techcrunch.com/2024/11/05/deeproute-raises-100m-in-push-to-beat-teslas-fsd-in-china/)
+- [Newfound dead star spins record-breaking 716 times a second, explodes with thermonuclear blasts](https://www.space.com/neutron-star-4U182030-speed-demon-fastest-star)
+- [AI startups will need ‘quality of revenue’ to raise in 2025, seed VCs warn](https://techcrunch.com/2024/11/05/ai-startups-will-need-quality-of-revenue-to-raise-in-2025-seed-vcs-warn/)
+- [Can Pictionary and Minecraft test AI models’ ingenuity?](https://techcrunch.com/2024/11/05/people-are-using-games-like-pictionary-to-benchmark-ai-now/)
+- [Flash, founded by ex-Flipkart exec, launches in the U.S. to help shoppers juggle multiple online orders](https://techcrunch.com/2024/11/05/flash-founded-by-ex-flipcart-exec-launches-in-the-us-to-help-shoppers-juggle-online-orders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
