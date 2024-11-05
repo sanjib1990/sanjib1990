@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India issues notice to Wikipedia over concerns of bias](https://techcrunch.com/2024/11/05/india-issues-notice-to-wikipedia-over-concerns-of-bias/)
+- [Save $300 on the HTC VIVE Pro 2 VR headset, the best high-resolution option](https://www.space.com/early-black-friday-htc-vive-pro-2-deal-save-300-dollars-2024)
 - [Asteroid-mining company AstroForge gets 1st-ever FCC license for commercial deep-space mission](https://www.space.com/space-exploration/tech/asteroid-mining-company-astroforge-gets-1st-ever-fcc-license-for-commercial-deep-space-mission)
+- [Alan unveils AI health assistant for its 680k health insurance members](https://techcrunch.com/2024/11/05/alan-unveils-ai-based-health-assistant-to-complement-its-health-insurance/)
 - [Watch 31st SpaceX Dragon cargo capsule arrive at the ISS today](https://www.space.com/space-exploration/international-space-station/watch-31st-spacex-dragon-cargo-capsule-arrive-at-the-iss-today)
-- [India delays its 1st-ever Gaganyaan astronaut launch to 2026](https://www.space.com/space-exploration/human-spaceflight/india-delays-its-1st-ever-gaganyaan-astronaut-launch-to-2026)
-- [Space Force&#39;s mysterious X-37B begins &#39;aerobraking&#39; to lower orbit. Here&#39;s how it works &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/space-forces-mysterious-x-37b-begins-aerobraking-to-lower-orbit-heres-how-it-works-video)
-- [How do you vote from space? NASA astronauts cast 2024 election ballots from ISS](https://www.space.com/space-exploration/international-space-station/how-do-you-vote-from-space-nasa-astronauts-cast-2024-election-ballots-from-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
