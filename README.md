@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X reinstates SwapYourVote’s account after suspending it as spam](https://techcrunch.com/2024/11/05/x-reinstates-swapyourvotes-account-after-suspending-it-as-spam/)
+- [Google ‘fixes’ issues with voting search results that weren’t actually broken](https://techcrunch.com/2024/11/05/google-fixes-issues-with-voting-search-results-that-werent-actually-broken/)
+- [Satellite survives impact with object in space, takes selfie to prove it &lpar;photos&rpar;](https://www.space.com/space-exploration/satellites/satellite-survives-impact-with-object-in-space-takes-selfie-to-prove-it-photo)
 - [Astronomers spot unusually synchronized star formation&#39; in ancient galaxy for 1st time](https://www.space.com/the-universe/stars/astronomers-spot-unusually-synchronized-star-formation-in-ancient-galaxy-for-1st-time)
 - [NASA&#39;s Parker Solar Probe to glimpse Venus&#39; surface tomorrow before historic sun encounter](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-to-glimpse-venus-surface-tomorrow-before-historic-sun-encounter)
-- [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/11/05/techcrunch-reference-guide-to-security-terminology/)
-- [As generative AI gets better, what will happen to artists?](https://techcrunch.com/2024/11/05/as-generative-ai-gets-better-what-will-happen-to-artists/)
-- [Design an interstellar &#39;generation ship&#39; to spend decades among the stars with Project Hyperion competition](https://www.space.com/space-exploration/tech/design-an-interstellar-generation-ship-to-spend-decades-among-the-stars-with-project-hyperion-competition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
