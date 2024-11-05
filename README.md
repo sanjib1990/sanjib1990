@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix&#39;s &#39;The Man Who Loved UFOs&#39; explores how flying saucer hoaxes go viral &lpar;review&rpar;](https://www.space.com/entertainment/netflixs-the-man-who-loved-ufos-explores-how-flying-saucer-hoaxes-go-viral-review)
+- [Waymo’s latest funding round boosts it to a $45B valuation](https://techcrunch.com/2024/11/05/waymos-latest-funding-round-boosts-it-to-45b-valuation/)
+- [Rivian’s software boss is ‘super excited’ about third-party apps](https://techcrunch.com/2024/11/05/rivians-software-boss-is-super-excited-about-third-party-apps/)
 - [Why can&#39;t active NASA astronauts endorse US presidential candidates?](https://www.space.com/space-exploration/human-spaceflight/why-cant-active-nasa-astronauts-endorse-us-presidential-candidates)
 - [Symbiotic Security helps developers find bugs as they code](https://techcrunch.com/2024/11/05/symbiotic-security-helps-developers-find-bugs-as-they-code/)
-- [Black Friday or Christmas sales: Which is better?](https://www.space.com/black-friday-v-christmas-sales-which-is-better)
-- [Apple’s new widget puts Election Day updates on your Lock Screen and Home Screen](https://techcrunch.com/2024/11/05/apples-new-widget-puts-election-day-updates-on-your-lock-screen-and-home-screen/)
-- [Oil giant BP is killing 18 hydrogen projects, chilling the nascent industry](https://techcrunch.com/2024/11/05/oil-giant-bp-is-killing-18-hydrogen-projects-chilling-the-nascent-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
