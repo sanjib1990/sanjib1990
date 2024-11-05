@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharp &#39;lobster vision:&#39; China&#39;s Einstein Probe space telescope already making discoveries during commissioning phase](https://www.space.com/space-exploration/missions/sharp-lobster-vision-chinas-einstein-probe-space-telescope-already-making-discoveries-during-commissioning-phase)
 - [India issues notice to Wikipedia over concerns of bias](https://techcrunch.com/2024/11/05/india-issues-notice-to-wikipedia-over-concerns-of-bias/)
 - [Save $300 on the HTC VIVE Pro 2 VR headset, the best high-resolution option](https://www.space.com/early-black-friday-htc-vive-pro-2-deal-save-300-dollars-2024)
 - [Asteroid-mining company AstroForge gets 1st-ever FCC license for commercial deep-space mission](https://www.space.com/space-exploration/tech/asteroid-mining-company-astroforge-gets-1st-ever-fcc-license-for-commercial-deep-space-mission)
 - [Alan unveils AI health assistant for its 680k health insurance members](https://techcrunch.com/2024/11/05/alan-unveils-ai-based-health-assistant-to-complement-its-health-insurance/)
-- [Watch 31st SpaceX Dragon cargo capsule arrive at the ISS today](https://www.space.com/space-exploration/international-space-station/watch-31st-spacex-dragon-cargo-capsule-arrive-at-the-iss-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
