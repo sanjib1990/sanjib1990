@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers spot unusually synchronized star formation&#39; in ancient galaxy for 1st time](https://www.space.com/the-universe/stars/astronomers-spot-unusually-synchronized-star-formation-in-ancient-galaxy-for-1st-time)
+- [NASA&#39;s Parker Solar Probe to glimpse Venus&#39; surface tomorrow before historic sun encounter](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-to-glimpse-venus-surface-tomorrow-before-historic-sun-encounter)
+- [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/11/05/techcrunch-reference-guide-to-security-terminology/)
+- [As generative AI gets better, what will happen to artists?](https://techcrunch.com/2024/11/05/as-generative-ai-gets-better-what-will-happen-to-artists/)
 - [Design an interstellar &#39;generation ship&#39; to spend decades among the stars with Project Hyperion competition](https://www.space.com/space-exploration/tech/design-an-interstellar-generation-ship-to-spend-decades-among-the-stars-with-project-hyperion-competition)
-- [Mozilla Foundation lays off 30% staff, drops advocacy division](https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/)
-- [Google is opening an AI hub in oil-rich Saudi Arabia](https://techcrunch.com/2024/11/05/google-is-opening-an-ai-hub-in-oil-rich-saudi-arabia/)
-- [Nodal connects hopeful parents with surrogates as reproductive freedom hangs in limbo](https://techcrunch.com/2024/11/05/nodal-connects-hopeful-parents-with-surrogates-as-reproductive-freedom-hangs-in-limbo/)
-- [Substack is giving out free subscriptions to boost app installs](https://techcrunch.com/2024/11/05/substack-is-giving-out-free-subscriptions-to-boost-app-installs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
