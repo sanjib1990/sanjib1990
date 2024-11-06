@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supernova hides in new Hubble Telescope galaxy &#39;light show&#39; image &lpar;photo&rpar;](https://www.space.com/the-universe/galaxies/supernova-hides-in-new-hubble-telescope-galaxy-light-show-image-photo)
 - [Apple may update Find My to let you share locations of lost items](https://techcrunch.com/2024/11/05/apple-may-update-find-my-app-to-let-you-share-locations-of-lost-items/)
 - [It’s Election Day, and all the AIs — but one — are acting responsibly](https://techcrunch.com/2024/11/05/its-election-day-and-all-the-ais-but-one-are-acting-responsibly/)
 - [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/)
 - [NASA&#39;s Chandra X-ray telescope sees &#39;knots&#39; blasting from nearby black hole jets](https://www.space.com/the-universe/black-holes/nasas-chandra-x-ray-telescope-sees-knots-blasting-from-nearby-black-hole-jets)
-- [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
