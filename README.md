@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [World&#39;s 1st wooden satellite arrives at ISS for key orbital test](https://www.space.com/space-exploration/satellites/worlds-1st-wooden-satellite-arrives-at-iss-for-key-orbital-test)
-- [Canoo’s CFO and top lawyer are the latest executives to leave](https://techcrunch.com/2024/11/05/canoos-cfo-and-top-lawyer-are-the-latest-executives-to-leave/)
-- [X reinstates SwapYourVote’s account after suspending it as spam](https://techcrunch.com/2024/11/05/x-reinstates-swapyourvotes-account-after-suspending-it-as-spam/)
-- [Google ‘fixes’ issues with voting search results that weren’t actually broken](https://techcrunch.com/2024/11/05/google-fixes-issues-with-voting-search-results-that-werent-actually-broken/)
-- [Satellite survives impact with object in space, takes selfie to prove it &lpar;photos&rpar;](https://www.space.com/space-exploration/satellites/satellite-survives-impact-with-object-in-space-takes-selfie-to-prove-it-photo)
+- [It’s Election Day, and all the AIs — but one — are acting responsibly](https://techcrunch.com/2024/11/05/its-election-day-and-all-the-ais-but-one-are-acting-responsibly/)
+- [Research Grid raises $6.4M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/)
+- [NASA&#39;s Chandra X-ray telescope sees &#39;knots&#39; blasting from nearby black hole jets](https://www.space.com/the-universe/black-holes/nasas-chandra-x-ray-telescope-sees-knots-blasting-from-nearby-black-hole-jets)
+- [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/)
+- [Nvidia just became the world’s largest company amid AI boom](https://techcrunch.com/2024/11/05/nvidia-just-became-the-worlds-largest-company-amid-ai-boom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
