@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 20 Starlink satellites early Nov. 7 on 2nd half of doubleheader](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-20-starlink-satellites-early-nov-7-on-2nd-half-of-doubleheader)
+- [SpaceX to launch Starship for the sixth time this month](https://techcrunch.com/2024/11/06/spacex-to-launch-starship-for-the-sixth-time-this-month/)
+- [iRobot lays off another 105 employees](https://techcrunch.com/2024/11/06/irobot-lays-off-another-105-employees/)
 - [Sun erupts with powerful X2.3 solar flare, triggers radio blackouts &lpar;video&rpar;](https://www.space.com/the-universe/sun/sun-erupts-with-powerful-x2-3-solar-flare-triggers-radio-blackouts-video)
 - [Apple iOS 18.2 public beta arrives with new AI features, but some remain waitlisted](https://techcrunch.com/2024/11/06/apple-ios-18-2-public-beta-arrives-with-new-ai-features-but-some-remain-waitlisted/)
-- [&#39;Fastest-feeding&#39; black hole of the early universe found! But does it break the laws of physics?](https://www.space.com/the-universe/black-holes/fastest-feeding-black-hole-of-the-early-universe-found-but-does-it-break-the-laws-of-physics)
-- [&#39;What&#39;s Starlink?&#39; Trump talks Elon Musk, Starship and SpaceX in election night victory speech &lpar;video&rpar;](https://www.space.com/trump-spacex-starlink-starship-elon-musk-election-night-speech)
-- [The FTC comes after neobank Dave for misleading marketing, hidden fees](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
