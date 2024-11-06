@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyft partners with May Mobility, Mobileye to bring autonomous vehicles to the app](https://techcrunch.com/2024/11/06/lyft-partners-with-may-mobility-mobileye-to-bring-autonomous-vehicles-to-the-app/)
+- [New NASA coronagraph will measure temperature, speed of solar wind from ISS](https://www.space.com/the-universe/sun/new-nasa-coronagraph-will-measure-temperature-speed-of-solar-wind-from-iss)
+- [Faber launches third VC fund with $34M first close, aims for $64M](https://techcrunch.com/2024/11/06/faber-launches-third-vc-fund-with-34m-first-close-aims-for-64m/)
 - [NASA&#39;s Chandra X-ray spacecraft finds &#39;danger zones&#39; around stars](https://www.space.com/chandra-danger-zones-planets-stars)
 - [MoradaUno wants to make it easier to rent apartments in Mexico](https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/)
-- [Corning, maker of toughened Gorilla Glass for phones, faces EU antitrust probe](https://techcrunch.com/2024/11/06/corning-maker-of-toughened-gorilla-glass-for-phones-faces-eu-antitrust-probe/)
-- [Apple to be fined for breaching EU’s Digital Markets Act, Bloomberg reports](https://techcrunch.com/2024/11/06/apple-to-be-fined-for-breaching-eus-digital-markets-act-bloomberg-reports/)
-- [Supernova hides in new Hubble Telescope galaxy &#39;light show&#39; image &lpar;photo&rpar;](https://www.space.com/the-universe/galaxies/supernova-hides-in-new-hubble-telescope-galaxy-light-show-image-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
