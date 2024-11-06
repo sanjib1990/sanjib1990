@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hera asteroid probe &#39;waves goodbye&#39; at Earth and moon from 2.3 million miles away &lpar;image&rpar;](https://www.space.com/space-exploration/asteroid-comet-missions/hera-asteroid-probe-waves-goodbye-at-earth-and-moon-from-2-3-million-miles-away-image)
 - [Lyft partners with May Mobility, Mobileye to bring autonomous vehicles to the app](https://techcrunch.com/2024/11/06/lyft-partners-with-may-mobility-mobileye-to-bring-autonomous-vehicles-to-the-app/)
 - [New NASA coronagraph will measure temperature, speed of solar wind from ISS](https://www.space.com/the-universe/sun/new-nasa-coronagraph-will-measure-temperature-speed-of-solar-wind-from-iss)
 - [Faber launches third VC fund with $34M first close, aims for $64M](https://techcrunch.com/2024/11/06/faber-launches-third-vc-fund-with-34m-first-close-aims-for-64m/)
 - [NASA&#39;s Chandra X-ray spacecraft finds &#39;danger zones&#39; around stars](https://www.space.com/chandra-danger-zones-planets-stars)
-- [MoradaUno wants to make it easier to rent apartments in Mexico](https://techcrunch.com/2024/11/06/moradauno-wants-to-make-it-easier-to-rent-apartments-in-mexico/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
