@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Interstellar&#39; gets 10th anniversary deluxe 4K UHD and Blu-ray collector&#39;s edition](https://www.space.com/interstellar-movie-10th-anniversary-4k-blu-ray)
 - [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/)
 - [Recruiting the world’s first disabled astronaut doesn&#39;t mean space travel is inclusive – here’s how to change that](https://www.space.com/space-exploration/human-spaceflight/recruiting-the-worlds-first-disabled-astronaut-doesnt-mean-space-travel-is-inclusive-heres-how-to-change-that)
 - [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/)
 - [‘For You’ feeds fail on election night, offering outdated information, angering users](https://techcrunch.com/2024/11/06/for-you-feeds-fail-on-election-night-offering-outdated-information-angering-users/)
-- [Hera asteroid probe &#39;waves goodbye&#39; at Earth and moon from 2.3 million miles away &lpar;image&rpar;](https://www.space.com/space-exploration/asteroid-comet-missions/hera-asteroid-probe-waves-goodbye-at-earth-and-moon-from-2-3-million-miles-away-image)
 <!-- BLOG-POST-LIST:END -->
 
 ---
