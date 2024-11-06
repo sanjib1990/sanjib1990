@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI coding assistants can help startups develop products, seed VCs believe](https://techcrunch.com/2024/11/06/ai-coding-assistants-can-help-startups-develop-products-seed-vcs-believe/)
+- [Recruiting the world’s first disabled astronaut doesn&#39;t mean space travel is inclusive – here’s how to change that](https://www.space.com/space-exploration/human-spaceflight/recruiting-the-worlds-first-disabled-astronaut-doesnt-mean-space-travel-is-inclusive-heres-how-to-change-that)
+- [How Trump’s election could affect the startup-friendly Inflation Reduction Act](https://techcrunch.com/2024/11/06/how-trumps-election-could-affect-the-startup-friendly-inflation-reduction-act/)
+- [‘For You’ feeds fail on election night, offering outdated information, angering users](https://techcrunch.com/2024/11/06/for-you-feeds-fail-on-election-night-offering-outdated-information-angering-users/)
 - [Hera asteroid probe &#39;waves goodbye&#39; at Earth and moon from 2.3 million miles away &lpar;image&rpar;](https://www.space.com/space-exploration/asteroid-comet-missions/hera-asteroid-probe-waves-goodbye-at-earth-and-moon-from-2-3-million-miles-away-image)
-- [Lyft partners with May Mobility, Mobileye to bring autonomous vehicles to the app](https://techcrunch.com/2024/11/06/lyft-partners-with-may-mobility-mobileye-to-bring-autonomous-vehicles-to-the-app/)
-- [New NASA coronagraph will measure temperature, speed of solar wind from ISS](https://www.space.com/the-universe/sun/new-nasa-coronagraph-will-measure-temperature-speed-of-solar-wind-from-iss)
-- [Faber launches third VC fund with $34M first close, aims for $64M](https://techcrunch.com/2024/11/06/faber-launches-third-vc-fund-with-34m-first-close-aims-for-64m/)
-- [NASA&#39;s Chandra X-ray spacecraft finds &#39;danger zones&#39; around stars](https://www.space.com/chandra-danger-zones-planets-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
