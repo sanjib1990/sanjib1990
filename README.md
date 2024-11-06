@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The FTC comes after neobank Dave for misleading marketing, hidden fees](https://techcrunch.com/2024/11/06/the-ftc-comes-after-neobank-dave-for-misleading-marketing-hidden-fees/)
+- [The other election night winner: Perplexity](https://techcrunch.com/2024/11/06/the-other-election-night-winner-perplexity/)
+- [SpaceX targeting Nov. 18 for next Starship megarocket launch](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-nov-18-for-next-starship-megarocket-launch)
+- [OpenAI acquired Chat.com](https://techcrunch.com/2024/11/06/openai-acquired-chat-com/)
 - [US military test-launches unarmed nuclear missile on election night &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/us-military-test-launches-unarmed-nuclear-missile-on-election-night-video)
-- [What Trump’s win might mean for Elon Musk](https://techcrunch.com/2024/11/06/what-trumps-win-might-mean-for-elon-musk/)
-- [SpaceX launching 23 more Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-6-77)
-- [This Week in AI: It’s shockingly easy to make a Kamala Harris deepfake](https://techcrunch.com/2024/11/06/this-week-in-ai-its-shockingly-easy-to-make-a-kamala-harris-deepfake/)
-- [Go Centaur! Space Force stands up rocket stage at Los Angeles base](https://www.space.com/centaur-exhibit-space-systems-command-los-angeles-afb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
