@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Malleable Encryption - Computerphile](https://www.youtube.com/watch?v=40xanXXsw24)
 - [my local, AI Voice Assistant &lpar;I replaced Alexa!!&rpar;](https://www.youtube.com/watch?v=XvbVePuP7NY)
 - [25 crazy software bugs explained](https://www.youtube.com/watch?v=Iq_r7IcNmUk)
 - [Recursive Ray Tracing - Computerphile](https://www.youtube.com/watch?v=nOCPpT-Sn0A)
 - [Nader from Jordan: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=60vaGH3ULEU)
-- [Cisco has a Hacking Cert?!?](https://www.youtube.com/watch?v=NL-90TcNBNs)
 <!-- YOUTUBE:END -->
 
 ---
