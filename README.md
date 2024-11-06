@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [It’s Election Day, and all the AIs — but one — are acting responsibly](https://techcrunch.com/2024/11/05/its-election-day-and-all-the-ais-but-one-are-acting-responsibly/)
-- [Research Grid raises $6.4M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/)
+- [Research Grid raises $6.48M to automate clinical trial admin](https://techcrunch.com/2024/11/05/research-grid-raises-6-4-million-to-automate-clincal-trial-admin/)
 - [NASA&#39;s Chandra X-ray telescope sees &#39;knots&#39; blasting from nearby black hole jets](https://www.space.com/the-universe/black-holes/nasas-chandra-x-ray-telescope-sees-knots-blasting-from-nearby-black-hole-jets)
 - [Apple warns investors its new products might never be as profitable as the iPhone](https://techcrunch.com/2024/11/05/apple-warns-investors-its-new-products-might-never-be-as-profitable-as-the-iphone/)
 - [Nvidia just became the world’s largest company amid AI boom](https://techcrunch.com/2024/11/05/nvidia-just-became-the-worlds-largest-company-amid-ai-boom/)
