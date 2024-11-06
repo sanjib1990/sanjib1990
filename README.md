@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Malleable Encryption - Computerphile](https://www.youtube.com/watch?v=40xanXXsw24)
-- [my local, AI Voice Assistant &lpar;I replaced Alexa!!&rpar;](https://www.youtube.com/watch?v=XvbVePuP7NY)
-- [25 crazy software bugs explained](https://www.youtube.com/watch?v=Iq_r7IcNmUk)
-- [Recursive Ray Tracing - Computerphile](https://www.youtube.com/watch?v=nOCPpT-Sn0A)
-- [Nader from Jordan: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=60vaGH3ULEU)
+- [Bounded Differences Inequality &lpar;aka Azuma-Hoeffding Inequality&rpar;](https://www.youtube.com/watch?v=FUwr_EtcPIU)
+- [Large Bipartite Subgraph](https://www.youtube.com/watch?v=crMyNv2fdkc)
+- [Linearity of Expectations](https://www.youtube.com/watch?v=feEXMWBQGZk)
+- [Extremal Set Theory: Sperner&#39;s Theorem](https://www.youtube.com/watch?v=exBXHYl4po8)
+- [Existence of Graphs with High Girth and High Chromatic Number](https://www.youtube.com/watch?v=16Vhe_1b974)
 <!-- YOUTUBE:END -->
 
 ---
