@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites capture havoc caused by Spanish floods &lpar;images&rpar;](https://www.space.com/the-universe/climate-change/satellites-capture-havoc-caused-by-spanish-floods-images)
+- [With this latest deal, Flipboard looks to build a news ecosystem beyond X](https://techcrunch.com/2024/11/07/with-this-latest-deal-flipboard-looks-to-build-a-news-ecosystem-beyond-x/)
+- [NOAA satellites watch Hurricane Rafael make landfall in Cuba &lpar;video&rpar;](https://www.space.com/the-universe/earth/noaa-satellites-watch-hurricane-rafael-make-landfall-in-cuba-video)
+- [Rivian takes major revenue hit as supplier problem persists](https://techcrunch.com/2024/11/07/rivian-takes-revenue-hit-as-supplier-problem-persists/)
 - [Teeny tardigrades can survive space and lethal radiation. Scientists may finally know how](https://www.space.com/the-universe/new-tardigrade-species-reveals-clues-to-surviving-lethal-space-radiation)
-- [Moon RACER: Intuitive Machines takes lunar rover out for debut drive](https://www.space.com/intuitive-machines-racer-lunar-terrain-vehicle-reveal)
-- [&#39;God of chaos&#39; asteroid may be transformed by tremors and landslides during 2029 flyby of Earth, study finds](https://www.space.com/the-universe/asteroids/god-of-chaos-asteroid-may-be-transformed-by-tremors-and-landslides-during-2029-flyby-of-earth-study-finds)
-- [Astronaut Suni Williams &#39;in good health&#39; on the ISS, NASA says, refuting tabloid claims](https://www.space.com/space-exploration/international-space-station/astronaut-suni-williams-in-good-health-on-the-iss-nasa-says-refuting-tabloid-claims)
-- [Canoo’s latest loss, tales from Waymo riders, and what a Trump win means for Elon &lpar;and his companies&rpar;](https://techcrunch.com/2024/11/07/canoos-latest-loss-tales-from-waymo-riders-and-what-a-trump-win-means-for-elon-and-his-companies/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
