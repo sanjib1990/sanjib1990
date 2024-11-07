@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hawke Endurance ED 10x42 monocular review](https://www.space.com/stargazing/astronomy-kit/hawke-endurance-ed-10x42-monocular-review)
-- [Space stations are loud — that&#39;s why NASA is making a quiet fan](https://www.space.com/space-exploration/international-space-station/space-stations-are-loud-thats-why-nasa-is-making-a-quiet-fan)
-- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet test fires engine for 1st time](https://www.space.com/space-exploration/tech/nasas-x-59-quiet-supersonic-jet-test-fires-engine-for-1st-time)
-- [Apple 16-inch MacBook Pro &lpar;M4 Pro&rpar; review: A powerful desktop replacement](https://techcrunch.com/2024/11/07/apple-16-inch-macbook-pro-m4-pro-review-a-powerful-desktop-replacement/)
-- [Lucid Motors starts taking orders for its existential Gravity SUV](https://techcrunch.com/2024/11/07/lucid-motors-starts-taking-orders-for-its-existential-gravity-suv/)
+- [Canoo’s latest loss, tales from Waymo riders, and what a Trump win means for Elon &lpar;and his companies&rpar;](https://techcrunch.com/2024/11/07/canoos-latest-loss-tales-from-waymo-riders-and-what-a-trump-win-means-for-elon-and-his-companies/)
+- [Roblox adds safety measures to ban kids under 13 from social spaces and other experiences](https://techcrunch.com/2024/11/07/roblox-adds-new-safety-measures-to-ban-kids-under-13-from-social-spaces/)
+- [TikTok’s latest feature lets music fans ‘Share to TikTok’ from Spotify and Apple Music](https://techcrunch.com/2024/11/07/tiktoks-latest-feature-lets-music-fans-share-to-tiktok-from-spotify-and-apple-music/)
+- [&#39;Star Trek: Lower Decks&#39; Season 5 episode 4: Who is Doctor Migleemo and why is he so obsessed with food?](https://www.space.com/entertainment/star-trek-lower-decks-season-5-episode-4-who-is-doctor-migleemo-and-why-is-he-so-obsessed-with-food)
+- [Mistral launches a moderation API](https://techcrunch.com/2024/11/07/mistral-launches-a-moderation-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
