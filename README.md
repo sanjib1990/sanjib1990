@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Dragon is about to do something to the ISS it&#39;s never done before](https://www.space.com/space-exploration/international-space-station/spacex-dragon-spacecraft-will-raise-iss-orbit-tomorrow-in-1st-ever-reboost)
+- [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/)
 - [Canada orders shutdown of TikTok offices over security risks &lpar;but won’t block app&rpar;](https://techcrunch.com/2024/11/07/canada-orders-shutdown-of-tiktok-offices-over-security-risks-but-wont-block-app/)
 - [Venus&#39; &#39;missing&#39; giant impact craters may be hiding in plain sight](https://www.space.com/the-universe/venus/venus-missing-giant-impact-craters-may-be-hiding-in-plain-sight)
 - [Glint Solar grabs $8M to help accelerate solar energy adoption across Europe](https://techcrunch.com/2024/11/07/glint-solar-grabs-8m-to-help-accelerate-solar-energy-adoption-across-europe/)
-- [Truecaller’s founders step down as the spam blocking app regains momentum](https://techcrunch.com/2024/11/06/truecaller-founders-step-down-as-spam-blocker-regains-momentum/)
-- [Australia looks to ban social media for kids under age 16](https://techcrunch.com/2024/11/06/australia-looks-to-ban-social-media-for-kids-under-age-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
