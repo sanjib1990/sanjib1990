@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX&#39;s Dragon is about to do something to the ISS it&#39;s never done before](https://www.space.com/space-exploration/international-space-station/spacex-dragon-spacecraft-will-raise-iss-orbit-tomorrow-in-1st-ever-reboost)
-- [Anthropic teams up with Palantir and AWS to sell AI to defense customers](https://techcrunch.com/2024/11/07/anthropic-teams-up-with-palantir-and-aws-to-sell-its-ai-to-defense-customers/)
-- [Canada orders shutdown of TikTok offices over security risks &lpar;but won’t block app&rpar;](https://techcrunch.com/2024/11/07/canada-orders-shutdown-of-tiktok-offices-over-security-risks-but-wont-block-app/)
-- [Venus&#39; &#39;missing&#39; giant impact craters may be hiding in plain sight](https://www.space.com/the-universe/venus/venus-missing-giant-impact-craters-may-be-hiding-in-plain-sight)
-- [Glint Solar grabs $8M to help accelerate solar energy adoption across Europe](https://techcrunch.com/2024/11/07/glint-solar-grabs-8m-to-help-accelerate-solar-energy-adoption-across-europe/)
+- [Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2024/11/07/startup-battlefield-200-celebrating-outstanding-achievements/)
+- [Ulysses is using robots to restore seagrass populations](https://techcrunch.com/2024/11/07/ulysses-is-using-robots-to-restore-seagrass-populations/)
+- [&#39;Beppo go home?&#39; An astronaut monkey steals hearts in tear-jerking SNL skit](https://www.space.com/the-universe/beppo-come-home-an-astronaut-monkey-steals-hearts-in-tear-jerking-snl-skit)
+- [SocialCrowd raises $2.5M seed round as interest in future of work software remains](https://techcrunch.com/2024/11/07/socialcrowd-raises-2-5m-seed-round-as-interest-in-future-of-work-software-remains/)
+- [Apple 16-inch MacBook Pro &lpar;M4 Pro&rpar; review](https://techcrunch.com/2024/11/07/apple-16-inch-macbook-pro-m4-pro-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
