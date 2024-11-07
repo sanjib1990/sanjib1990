@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet test fires engine for 1st time](https://www.space.com/space-exploration/tech/nasas-x-59-quiet-supersonic-jet-test-fires-engine-for-1st-time)
 - [Apple 16-inch MacBook Pro &lpar;M4 Pro&rpar; review: a powerful desktop replacement](https://techcrunch.com/2024/11/07/apple-16-inch-macbook-pro-m4-pro-review-a-powerful-desktop-replacement/)
 - [Lucid Motors starts taking orders for its existential Gravity SUV](https://techcrunch.com/2024/11/07/lucid-motors-starts-taking-orders-for-its-existential-gravity-suv/)
 - [Automattic’s new site tracks how many websites left WP Engine following feud with Matt Mullenweg](https://techcrunch.com/2024/11/07/automattics-new-site-tracks-how-many-websites-left-wp-engine-following-feud-with-matt-mullenweg/)
 - [iMac &lpar;M4&rpar; review: a mini upgrade to Apple’s entry-level all-in-one](https://techcrunch.com/2024/11/07/imac-m4-review-a-mini-upgrade-to-apples-entry-level-all-in-one/)
-- [Apple Mac Mini &lpar;M4&rpar; review: more power in a tiny package](https://techcrunch.com/2024/11/07/apple-mac-mini-m4-review-more-power-in-a-tiny-package/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
