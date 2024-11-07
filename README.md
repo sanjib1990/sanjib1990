@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;God of chaos&#39; asteroid may be transformed by tremors and landslides during 2029 flyby of Earth, study finds](https://www.space.com/the-universe/asteroids/god-of-chaos-asteroid-may-be-transformed-by-tremors-and-landslides-during-2029-flyby-of-earth-study-finds)
+- [Astronaut Suni Williams &#39;in good health&#39; on the ISS, NASA says, refuting tabloid claims](https://www.space.com/space-exploration/international-space-station/astronaut-suni-williams-in-good-health-on-the-iss-nasa-says-refuting-tabloid-claims)
 - [Canoo’s latest loss, tales from Waymo riders, and what a Trump win means for Elon &lpar;and his companies&rpar;](https://techcrunch.com/2024/11/07/canoos-latest-loss-tales-from-waymo-riders-and-what-a-trump-win-means-for-elon-and-his-companies/)
 - [Roblox adds safety measures to ban kids under 13 from social spaces and other experiences](https://techcrunch.com/2024/11/07/roblox-adds-new-safety-measures-to-ban-kids-under-13-from-social-spaces/)
 - [TikTok’s latest feature lets music fans ‘Share to TikTok’ from Spotify and Apple Music](https://techcrunch.com/2024/11/07/tiktoks-latest-feature-lets-music-fans-share-to-tiktok-from-spotify-and-apple-music/)
-- [&#39;Star Trek: Lower Decks&#39; Season 5 episode 4: Who is Doctor Migleemo and why is he so obsessed with food?](https://www.space.com/entertainment/star-trek-lower-decks-season-5-episode-4-who-is-doctor-migleemo-and-why-is-he-so-obsessed-with-food)
-- [Mistral launches a moderation API](https://techcrunch.com/2024/11/07/mistral-launches-a-moderation-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
