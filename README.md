@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Australia looks to ban social media for kids under age 16](https://techcrunch.com/2024/11/06/australia-looks-to-ban-social-media-for-kids-under-age-16/)
 - [‘Prediction markets’ set to pay out $450M to election bettors](https://techcrunch.com/2024/11/06/prediction-markets-set-to-pay-out-450m-to-election-bettors/)
-- [SpaceX launching 20 Starlink satellites early Nov. 7](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-20-starlink-satellites-early-nov-7-on-2nd-half-of-doubleheader)
+- [SpaceX launching 20 Starlink satellites from California early Nov. 9](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-20-starlink-satellites-early-nov-7-on-2nd-half-of-doubleheader)
 - [SpaceX to launch Starship for the sixth time this month](https://techcrunch.com/2024/11/06/spacex-to-launch-starship-for-the-sixth-time-this-month/)
 - [iRobot lays off another 105 employees](https://techcrunch.com/2024/11/06/irobot-lays-off-another-105-employees/)
 <!-- BLOG-POST-LIST:END -->
