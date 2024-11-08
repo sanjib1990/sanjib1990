@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark, Index, others are in a wild unsolicited bidding war over Anysphere, maker of Cursor](https://techcrunch.com/2024/11/08/benchmark-index-others-are-in-a-wild-unsolicited-bidding-war-over-anysphere-maker-of-cursor/)
+- [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/)
+- [Boom Supersonic&#39;s XB-1 jet sets new speed record during 7th test flight](https://www.space.com/space-exploration/tech/boom-supersonics-xb-1-jet-sets-new-speed-record-during-7th-test-flight)
+- [What does Trump’s election mean for the TikTok ban?](https://techcrunch.com/2024/11/08/what-does-trumps-election-mean-for-the-tiktok-ban/)
 - [New &#39;Star Wars&#39; trilogy set at Lucasfilm with &#39;Rebels&#39; writer and producer Simon Kinberg](https://www.space.com/entertainment/new-star-wars-trilogy-set-at-lucasfilm-with-rebels-writer-and-producer-simon-kinberg)
-- [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/)
-- [An asteroid hit Earth just hours after being detected. It was the 3rd &#39;imminent impactor&#39; of 2024](https://www.space.com/the-universe/asteroids/asteroid-that-hit-earth-hours-after-being-detected-was-3rd-imminent-impactor-of-2024)
-- [Startup land wasn’t as quiet this week as you might’ve expected](https://techcrunch.com/2024/11/08/startup-land-wasnt-as-quiet-this-week-as-you-mightve-expected/)
-- [China planning to build its own version of SpaceX&#39;s Starship](https://www.space.com/china-long-march-9-spacex-starship-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
