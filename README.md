@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 years after the giant Arecibo Observatory collapsed, we finally know what happened](https://www.space.com/the-universe/4-years-after-the-giant-arecibo-observatory-collapsed-we-finally-know-what-happened)
+- [NASA still mum about SpaceX Crew-8 astronaut&#39;s medical issue](https://www.space.com/nasa-spacex-crew-8-astronaut-health-issue-privacy-concerns)
 - [Benchmark, Index, others are in a wild unsolicited bidding war over Anysphere, maker of Cursor](https://techcrunch.com/2024/11/08/benchmark-index-others-are-in-a-wild-unsolicited-bidding-war-over-anysphere-maker-of-cursor/)
 - [‘Whatever you want Ben’: Inside Ben Horowitz’s cozy relationship with the Las Vegas Police Department](https://techcrunch.com/2024/11/08/whatever-you-want-ben-inside-ben-horowitzs-cozy-relationship-with-the-las-vegas-police-department/)
 - [Boom Supersonic&#39;s XB-1 jet sets new speed record during 7th test flight](https://www.space.com/space-exploration/tech/boom-supersonics-xb-1-jet-sets-new-speed-record-during-7th-test-flight)
-- [What does Trump’s election mean for the TikTok ban?](https://techcrunch.com/2024/11/08/what-does-trumps-election-mean-for-the-tiktok-ban/)
-- [New &#39;Star Wars&#39; trilogy set at Lucasfilm with &#39;Rebels&#39; writer and producer Simon Kinberg](https://www.space.com/entertainment/new-star-wars-trilogy-set-at-lucasfilm-with-rebels-writer-and-producer-simon-kinberg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
