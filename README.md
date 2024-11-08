@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup land wasn’t as quiet this week as you might’ve expected](https://techcrunch.com/2024/11/08/startup-land-wasnt-as-quiet-this-week-as-you-mightve-expected/)
+- [China planning to build its own version of SpaceX&#39;s Starship](https://www.space.com/china-long-march-9-spacex-starship-rocket)
 - [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/)
 - [SpaceX Dragon fires thrusters to boost ISS orbit for the 1st time](https://www.space.com/space-exploration/international-space-station/spacex-dragon-fires-thrusters-to-boost-iss-orbit-for-the-1st-time)
 - [Trump included Elon Musk on call with Zelenskyy](https://techcrunch.com/2024/11/08/trump-included-elon-musk-on-call-with-zelenskyy/)
-- [Axiom Space looks to India and Europe for rockets to help build its private space station](https://www.space.com/space-exploration/private-spaceflight/axiom-space-looks-to-india-and-europe-for-rockets-to-help-build-its-private-space-station)
-- [Tesla is part of the trillion-dollar club again](https://techcrunch.com/2024/11/08/tesla-is-part-of-the-trillion-dollar-club-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
