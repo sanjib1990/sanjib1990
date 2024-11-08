@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Space looks to India and Europe for rockets to help build its private space station](https://www.space.com/space-exploration/private-spaceflight/axiom-space-looks-to-india-and-europe-for-rockets-to-help-build-its-private-space-station)
+- [Tesla is part of the trillion-dollar club again](https://techcrunch.com/2024/11/08/tesla-is-part-of-the-trillion-dollar-club-again/)
+- [The Beatles’ AI-assisted track ‘Now and Then’ is nominated for  two Grammy awards](https://techcrunch.com/2024/11/08/the-beatles-ai-assisted-track-now-and-then-is-nominated-for-two-grammy-awards/)
 - [Adorable 3D-printed rovers learn to find blue ball in Mars-like environment](https://www.space.com/space-exploration/mars-rovers/adorable-3d-printed-rovers-learn-to-find-blue-ball-in-mars-like-environment)
 - [How AI startup Conflixis is protecting hospitals from corrupt doctors](https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/)
-- [UnifyApp’s AI-powered app integration platform grabs $20M from ICONIQ Growth](https://techcrunch.com/2024/11/08/unifyapps-ai-powered-app-integration-platform-grabs-20m-from-iconiq-growth/)
-- [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/)
-- [Save $300 on the best-motorized telescope before Black Friday](https://www.space.com/early-black-friday-celestron-nexstar-8se-deal-300-dollars-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
