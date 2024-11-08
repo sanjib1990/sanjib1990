@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Webb’s Mirrors for Optimal Optics](https://blogs.nasa.gov/webb/2024/11/08/monitoring-webbs-mirrors-for-optimal-optics/)
+- [&#39;Alien: Romulus&#39; bursts onto Hulu for streaming on Nov. 21](https://www.space.com/entertainment/alien-romulus-bursts-onto-hulu-for-streaming-on-nov-21)
+- [Beaverlab Finder TW2 AI-enhanced telescope review](https://www.space.com/beaverlab-finder-tw2-ai-enhanced-telescope-review)
 - [3D map reveals our solar system&#39;s local bubble has an &#39;escape tunnel&#39;](https://www.space.com/milky-way-hot-cold-local-bubble-supernovas)
 - [Led by a founder who sold a video startup to Apple, Panjaya uses deepfake techniques to bite into video dubbing](https://techcrunch.com/2024/11/08/led-by-a-founder-who-sold-a-video-startup-to-apple-panjaya-uses-deepfake-techniques-to-bite-into-video-dubbing/)
-- [Saturn and the moon put on a celestial show Sunday night. Here&#39;s how to see it](https://www.space.com/stargazing/saturn-and-the-moon-put-on-a-celestial-show-sunday-night-heres-how-to-see-it)
-- [Milky Way swirls over famous Easter Island statutes in stunning photo](https://www.space.com/stargazing/milky-way-swirls-over-famous-easter-island-statutes-in-stunning-photo)
-- [Block scales back TIDAL investment and shutters TBD in favor of Bitcoin mining](https://techcrunch.com/2024/11/07/block-scales-back-tidal-investment-and-shutters-tbd-in-favor-of-bitcoin-mining/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
