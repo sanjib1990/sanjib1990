@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New &#39;Star Wars&#39; trilogy set at Lucasfilm with &#39;Rebels&#39; writer and producer Simon Kinberg](https://www.space.com/entertainment/new-star-wars-trilogy-set-at-lucasfilm-with-rebels-writer-and-producer-simon-kinberg)
+- [Monarch Tractor lays off 10% in restructuring towards software and licensing AV tech](https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/)
+- [An asteroid hit Earth just hours after being detected. It was the 3rd &#39;imminent impactor&#39; of 2024](https://www.space.com/the-universe/asteroids/asteroid-that-hit-earth-hours-after-being-detected-was-3rd-imminent-impactor-of-2024)
 - [Startup land wasn’t as quiet this week as you might’ve expected](https://techcrunch.com/2024/11/08/startup-land-wasnt-as-quiet-this-week-as-you-mightve-expected/)
 - [China planning to build its own version of SpaceX&#39;s Starship](https://www.space.com/china-long-march-9-spacex-starship-rocket)
-- [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/)
-- [SpaceX Dragon fires thrusters to boost ISS orbit for the 1st time](https://www.space.com/space-exploration/international-space-station/spacex-dragon-fires-thrusters-to-boost-iss-orbit-for-the-1st-time)
-- [Trump included Elon Musk on call with Zelenskyy](https://techcrunch.com/2024/11/08/trump-included-elon-musk-on-call-with-zelenskyy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
