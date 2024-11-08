@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3D map reveals our solar system&#39;s local bubble has an &#39;escape tunnel&#39;](https://www.space.com/milky-way-hot-cold-local-bubble-supernovas)
+- [Led by a founder who sold a video startup to Apple, Panjaya uses deepfake techniques to bite into video dubbing](https://techcrunch.com/2024/11/08/led-by-a-founder-who-sold-a-video-startup-to-apple-panjaya-uses-deepfake-techniques-to-bite-into-video-dubbing/)
 - [Saturn and the moon put on a celestial show Sunday night. Here&#39;s how to see it](https://www.space.com/stargazing/saturn-and-the-moon-put-on-a-celestial-show-sunday-night-heres-how-to-see-it)
 - [Milky Way swirls over famous Easter Island statutes in stunning photo](https://www.space.com/stargazing/milky-way-swirls-over-famous-easter-island-statutes-in-stunning-photo)
 - [Block scales back TIDAL investment and shutters TBD in favor of Bitcoin mining](https://techcrunch.com/2024/11/07/block-scales-back-tidal-investment-and-shutters-tbd-in-favor-of-bitcoin-mining/)
-- [Crypto CEO kidnapped in Toronto, released after paying $1M ransom](https://techcrunch.com/2024/11/07/crypto-ceo-kidnapped-in-toronto-released-after-paying-1m-ransom/)
-- [Amazon may up its investment in Anthropic — on one condition](https://techcrunch.com/2024/11/07/amazon-may-up-its-investment-in-anthropic-on-one-condition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
