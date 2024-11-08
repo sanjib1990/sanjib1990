@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Large funds are too invested in the energy transition to turn back now](https://techcrunch.com/2024/11/08/large-funds-are-too-invested-in-the-energy-transition-to-turn-back-now/)
-- [Former Raya, Dispo exec has a new fund for the biggest out-of-favor tech: consumer](https://techcrunch.com/2024/11/08/former-raya-dispo-exec-has-a-new-fund-for-the-biggest-out-of-favor-tech-consumer/)
-- [On ancient Mars, carbon dioxide ice kept the water running. Here&#39;s how](https://www.space.com/the-universe/mars/on-ancient-mars-carbon-dioxide-ice-kept-the-water-running-heres-how)
-- [Monitoring Webb’s Mirrors for Optimal Optics](https://blogs.nasa.gov/webb/2024/11/08/monitoring-webbs-mirrors-for-optimal-optics/)
-- [&#39;Alien: Romulus&#39; bursts onto Hulu for streaming on Nov. 21](https://www.space.com/entertainment/alien-romulus-bursts-onto-hulu-for-streaming-on-nov-21)
+- [Adorable 3D-printed rovers learn to find blue ball in Mars-like environment](https://www.space.com/space-exploration/mars-rovers/adorable-3d-printed-rovers-learn-to-find-blue-ball-in-mars-like-environment)
+- [How AI startup Conflixis is protecting hospitals from corrupt doctors](https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/)
+- [UnifyApp’s AI-powered app integration platform grabs $20M from ICONIQ Growth](https://techcrunch.com/2024/11/08/unifyapps-ai-powered-app-integration-platform-grabs-20m-from-iconiq-growth/)
+- [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/)
+- [Save $300 on the best-motorized telescope before Black Friday](https://www.space.com/early-black-friday-celestron-nexstar-8se-deal-300-dollars-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
