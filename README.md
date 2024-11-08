@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto CEO kidnapped in Toronto, released after paying $1M ransom](https://techcrunch.com/2024/11/07/crypto-ceo-kidnapped-in-toronto-released-after-paying-1m-ransom/)
+- [Amazon may up its investment in Anthropic — on one condition](https://techcrunch.com/2024/11/07/amazon-may-up-its-investment-in-anthropic-on-one-condition/)
 - [Russia sends 53 satellites to orbit on record-breaking launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/russia-sends-53-satellites-to-orbit-on-record-breaking-launch-video)
 - [AI-powered parenting is here and a16z is ready to back it](https://techcrunch.com/2024/11/07/ai-powered-parenting-is-here-and-a16z-is-ready-to-back-it/)
 - [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/)
-- [Satellites capture havoc caused by Spanish floods &lpar;images&rpar;](https://www.space.com/the-universe/climate-change/satellites-capture-havoc-caused-by-spanish-floods-images)
-- [With this latest deal, Flipboard looks to build a news ecosystem beyond X](https://techcrunch.com/2024/11/07/with-this-latest-deal-flipboard-looks-to-build-a-news-ecosystem-beyond-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
