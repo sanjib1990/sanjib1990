@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Block scales back TIDAL investment and shutters TBD in favor of Bitcoin mining](https://techcrunch.com/2024/11/07/block-scales-back-tidal-investment-and-shutters-tbd-in-favor-of-bitcoin-mining/)
 - [Crypto CEO kidnapped in Toronto, released after paying $1M ransom](https://techcrunch.com/2024/11/07/crypto-ceo-kidnapped-in-toronto-released-after-paying-1m-ransom/)
 - [Amazon may up its investment in Anthropic — on one condition](https://techcrunch.com/2024/11/07/amazon-may-up-its-investment-in-anthropic-on-one-condition/)
 - [Russia sends 53 satellites to orbit on record-breaking launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/russia-sends-53-satellites-to-orbit-on-record-breaking-launch-video)
 - [AI-powered parenting is here and a16z is ready to back it](https://techcrunch.com/2024/11/07/ai-powered-parenting-is-here-and-a16z-is-ready-to-back-it/)
-- [Yelp just spent $80M on a site for car repair estimates](https://techcrunch.com/2024/11/07/yelp-just-spent-80m-on-a-site-for-car-repair-estimates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
