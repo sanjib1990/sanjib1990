@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Supersonic aircraft startup Exosonic is shutting down](https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/)
+- [SpaceX Dragon fires thrusters to boost ISS orbit for the 1st time](https://www.space.com/space-exploration/international-space-station/spacex-dragon-fires-thrusters-to-boost-iss-orbit-for-the-1st-time)
+- [Trump included Elon Musk on call with Zelenskyy](https://techcrunch.com/2024/11/08/trump-included-elon-musk-on-call-with-zelenskyy/)
 - [Axiom Space looks to India and Europe for rockets to help build its private space station](https://www.space.com/space-exploration/private-spaceflight/axiom-space-looks-to-india-and-europe-for-rockets-to-help-build-its-private-space-station)
 - [Tesla is part of the trillion-dollar club again](https://techcrunch.com/2024/11/08/tesla-is-part-of-the-trillion-dollar-club-again/)
-- [The Beatles’ AI-assisted track ‘Now and Then’ is nominated for  two Grammy awards](https://techcrunch.com/2024/11/08/the-beatles-ai-assisted-track-now-and-then-is-nominated-for-two-grammy-awards/)
-- [Adorable 3D-printed rovers learn to find blue ball in Mars-like environment](https://www.space.com/space-exploration/mars-rovers/adorable-3d-printed-rovers-learn-to-find-blue-ball-in-mars-like-environment)
-- [How AI startup Conflixis is protecting hospitals from corrupt doctors](https://techcrunch.com/2024/11/08/how-ai-startup-conflixis-is-protecting-hospitals-from-corrupt-doctors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
