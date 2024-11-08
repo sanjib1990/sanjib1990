@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Large funds are too invested in the energy transition to turn back now](https://techcrunch.com/2024/11/08/large-funds-are-too-invested-in-the-energy-transition-to-turn-back-now/)
+- [Former Raya, Dispo exec has a new fund for the biggest out-of-favor tech: consumer](https://techcrunch.com/2024/11/08/former-raya-dispo-exec-has-a-new-fund-for-the-biggest-out-of-favor-tech-consumer/)
+- [On ancient Mars, carbon dioxide ice kept the water running. Here&#39;s how](https://www.space.com/the-universe/mars/on-ancient-mars-carbon-dioxide-ice-kept-the-water-running-heres-how)
 - [Monitoring Webb’s Mirrors for Optimal Optics](https://blogs.nasa.gov/webb/2024/11/08/monitoring-webbs-mirrors-for-optimal-optics/)
 - [&#39;Alien: Romulus&#39; bursts onto Hulu for streaming on Nov. 21](https://www.space.com/entertainment/alien-romulus-bursts-onto-hulu-for-streaming-on-nov-21)
-- [Beaverlab Finder TW2 AI-enhanced telescope review](https://www.space.com/beaverlab-finder-tw2-ai-enhanced-telescope-review)
-- [3D map reveals our solar system&#39;s local bubble has an &#39;escape tunnel&#39;](https://www.space.com/milky-way-hot-cold-local-bubble-supernovas)
-- [Led by a founder who sold a video startup to Apple, Panjaya uses deepfake techniques to bite into video dubbing](https://techcrunch.com/2024/11/08/led-by-a-founder-who-sold-a-video-startup-to-apple-panjaya-uses-deepfake-techniques-to-bite-into-video-dubbing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
