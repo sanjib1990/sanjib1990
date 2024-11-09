@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhones might be harder for police to unlock, thanks to new reboot feature](https://techcrunch.com/2024/11/09/iphones-might-be-harder-for-police-to-unlock-thanks-to-new-reboot-feature/)
 - [Standing desks don’t do squat, per new study](https://techcrunch.com/2024/11/09/standing-desks-dont-do-squat-per-new-study/)
 - [As Firefox turns 20, Mozilla ponders how to restore it to its former glory](https://techcrunch.com/2024/11/09/as-firefox-turns-20-mozilla-ponders-how-to-restore-it-to-its-former-glory/)
 - [Boox Palma 2: A great little e-reader with bigger ambitions](https://techcrunch.com/2024/11/09/boox-palma-2-a-great-little-e-reader-with-bigger-ambitions/)
 - [These 60 robotics companies are hiring](https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/)
-- [This Week In Space podcast: Episode 136 —SpaceX Ascendant](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-136-spacex-ascendant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
