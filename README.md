@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 136 —SpaceX Ascendant](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-136-spacex-ascendant)
+- [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/)
+- [VCs on how to ‘survive and thrive’ after a down round](https://techcrunch.com/2024/11/09/vcs-on-how-to-survive-and-thrive-after-a-down-round/)
 - [Where do fast radio bursts come from? Astronomers tie mysterious eruptions to massive galaxies](https://www.space.com/the-universe/where-do-fast-radio-bursts-come-from-astronomers-tie-mysterious-eruptions-to-massive-galaxies)
 - [China&#39;s space agency brought the 1st lunar far side samples to Earth this year — here&#39;s what&#39;s next](https://www.space.com/the-universe/moon/chinas-space-agency-brought-the-1st-lunar-far-side-samples-to-earth-this-year-heres-whats-next)
-- [Australian company Gilmour Space gets country&#39;s 1st orbital launch license](https://www.space.com/space-exploration/launches-spacecraft/australian-company-gilmour-space-gets-countrys-1st-orbital-launch-license)
-- [Murder trial for tech exec Bob Lee enters next phase](https://techcrunch.com/2024/11/08/murder-trial-for-tech-exec-bob-lee-enters-next-phase/)
-- [OpenAI loses another lead safety researcher, Lilian Weng](https://techcrunch.com/2024/11/08/openai-loses-another-lead-safety-researcher-lilian-weng/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
