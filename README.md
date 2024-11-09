@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Firefox turns 20, Mozilla ponders how to restore it to its former glory](https://techcrunch.com/2024/11/09/as-firefox-turns-20-mozilla-ponders-how-to-restore-it-to-its-former-glory/)
 - [Boox Palma 2: A great little e-reader with bigger ambitions](https://techcrunch.com/2024/11/09/boox-palma-2-a-great-little-e-reader-with-bigger-ambitions/)
 - [These 60 robotics companies are hiring](https://techcrunch.com/2024/11/09/these-60-robotics-companies-are-hiring/)
 - [This Week In Space podcast: Episode 136 —SpaceX Ascendant](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-136-spacex-ascendant)
 - [Productivity hacks are overrated, says a16z VC who sold his own startup for $1.25B](https://techcrunch.com/2024/11/09/productivity-hacks-are-overrated-says-a16z-vc-who-sold-his-own-startup-for-1-25b/)
-- [VCs on how to ‘survive and thrive’ after a down round](https://techcrunch.com/2024/11/09/vcs-on-how-to-survive-and-thrive-after-a-down-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
