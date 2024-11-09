@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian company Gilmour Space gets country&#39;s 1st orbital launch license](https://www.space.com/space-exploration/launches-spacecraft/australian-company-gilmour-space-gets-countrys-1st-orbital-launch-license)
 - [Murder trial for tech exec Bob Lee enters next phase](https://techcrunch.com/2024/11/08/murder-trial-for-tech-exec-bob-lee-enters-next-phase/)
 - [OpenAI loses another lead safety researcher, Lilian Weng](https://techcrunch.com/2024/11/08/openai-loses-another-lead-safety-researcher-lilian-weng/)
 - [Upwind, an Israeli cloud cybersecurity startup, is raising $100M at a $850-900M valuation, say sources](https://techcrunch.com/2024/11/08/upwind-an-israeli-cloud-cybersecurity-startup-is-raising-100m-at-a-850-900m-valuation-say-sources/)
 - [ChatGPT told 2M people to get their election news elsewhere — and rejected 250K deepfakes](https://techcrunch.com/2024/11/08/chatgpt-told-2m-people-to-get-their-election-news-elsewhere-and-rejected-250k-deepfakes/)
-- [4 years after the giant Arecibo Observatory collapsed, we finally know what happened](https://www.space.com/the-universe/4-years-after-the-giant-arecibo-observatory-collapsed-we-finally-know-what-happened)
 <!-- BLOG-POST-LIST:END -->
 
 ---
