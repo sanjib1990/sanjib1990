@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TSMC reportedly halts advanced chip shipments to Chinese companies](https://techcrunch.com/2024/11/10/tsmc-reportedly-halts-advanced-chip-shipments-to-chinese-companies/)
+- [Equal has a plan to fight India’s growing cyber fraud problem](https://techcrunch.com/2024/11/10/equal-has-a-plan-to-fight-indias-growing-cyber-fraud-problem/)
 - [SpaceX launching 24 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-6-69)
 - [Encore is an AI-powered search engine for your thrifting needs](https://techcrunch.com/2024/11/10/encore-is-an-ai-powered-search-engine-for-your-thrifting-needs/)
 - [a16z VC Martin Casado explains why  so many AI regulations are so wrong](https://techcrunch.com/2024/11/10/a16z-vc-martin-casado-explains-why-so-many-ai-regulations-are-so-wrong/)
-- [&#39;Mass Effect&#39; TV series is headed to Amazon Prime Video](https://www.space.com/entertainment/mass-effect-tv-series-is-headed-to-amazon-prime-video)
-- [These are the top apps Gen Z young adults downloaded this year](https://techcrunch.com/2024/11/10/these-are-the-top-apps-gen-z-young-adults-downloaded-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
