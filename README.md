@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These are the top apps Gen Z young adults downloaded this year](https://techcrunch.com/2024/11/10/these-are-the-top-apps-gen-z-young-adults-downloaded-this-year/)
+- [Star Wars is following in the MCU&#39;s footsteps, but is this the way?](https://www.space.com/entertainment/space-movies-shows/star-wars-is-following-in-the-mcus-footsteps-but-is-this-the-way)
 - [Open source projects draw equity-free funding from corporates, startups, and even VCs](https://techcrunch.com/2024/11/10/open-source-projects-draw-equity-free-funding-from-corporates-startups-and-even-vcs/)
 - [NASA&#39;s Roman space telescope gets ready to stare at distant suns to find alien planets](https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-gets-ready-to-stare-at-distant-suns-to-find-alien-planets)
 - [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/)
-- [OpenAI reportedly developing new strategies to deal with AI improvement slowdown](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/)
-- [Mozilla lays off 30% of its nonprofit arm](https://techcrunch.com/2024/11/09/mozilla-lays-off-30-of-its-nonprofit-arm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
