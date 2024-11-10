@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/)
+- [OpenAI reportedly developing new strategies to deal with AI improvement slowdown](https://techcrunch.com/2024/11/09/openai-reportedly-developing-new-strategies-to-deal-with-ai-improvement-slowdown/)
 - [Mozilla lays off 30% of its nonprofit arm](https://techcrunch.com/2024/11/09/mozilla-lays-off-30-of-its-nonprofit-arm/)
 - [iPhones might be harder for police to unlock, thanks to new reboot feature](https://techcrunch.com/2024/11/09/iphones-might-be-harder-for-police-to-unlock-thanks-to-new-reboot-feature/)
 - [Standing desks don’t do squat, per new study](https://techcrunch.com/2024/11/09/standing-desks-dont-do-squat-per-new-study/)
-- [As Firefox turns 20, Mozilla ponders how to restore it to its former glory](https://techcrunch.com/2024/11/09/as-firefox-turns-20-mozilla-ponders-how-to-restore-it-to-its-former-glory/)
-- [Boox Palma 2: A great little e-reader with bigger ambitions](https://techcrunch.com/2024/11/09/boox-palma-2-a-great-little-e-reader-with-bigger-ambitions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
