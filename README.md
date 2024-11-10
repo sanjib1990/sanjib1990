@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z VC Martin Casado explains why  so many AI regulations are so wrong](https://techcrunch.com/2024/11/10/a16z-vc-martin-casado-explains-why-so-many-ai-regulations-are-so-wrong/)
+- [&#39;Mass Effect&#39; TV series is headed to Amazon Prime Video](https://www.space.com/entertainment/mass-effect-tv-series-is-headed-to-amazon-prime-video)
 - [These are the top apps Gen Z young adults downloaded this year](https://techcrunch.com/2024/11/10/these-are-the-top-apps-gen-z-young-adults-downloaded-this-year/)
 - [Star Wars is following in the MCU&#39;s footsteps, but is this the way?](https://www.space.com/entertainment/space-movies-shows/star-wars-is-following-in-the-mcus-footsteps-but-is-this-the-way)
 - [Open source projects draw equity-free funding from corporates, startups, and even VCs](https://techcrunch.com/2024/11/10/open-source-projects-draw-equity-free-funding-from-corporates-startups-and-even-vcs/)
-- [NASA&#39;s Roman space telescope gets ready to stare at distant suns to find alien planets](https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-gets-ready-to-stare-at-distant-suns-to-find-alien-planets)
-- [FTX bankruptcy estate sues Anthony Scaramucci, FWD.us, others](https://techcrunch.com/2024/11/09/ftx-bankruptcy-estate-sues-anthony-scaramucci-fwd-us-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
