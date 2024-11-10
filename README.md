@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 24 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-6-69)
+- [Encore is an AI-powered search engine for your thrifting needs](https://techcrunch.com/2024/11/10/encore-is-an-ai-powered-search-engine-for-your-thrifting-needs/)
 - [a16z VC Martin Casado explains why  so many AI regulations are so wrong](https://techcrunch.com/2024/11/10/a16z-vc-martin-casado-explains-why-so-many-ai-regulations-are-so-wrong/)
 - [&#39;Mass Effect&#39; TV series is headed to Amazon Prime Video](https://www.space.com/entertainment/mass-effect-tv-series-is-headed-to-amazon-prime-video)
 - [These are the top apps Gen Z young adults downloaded this year](https://techcrunch.com/2024/11/10/these-are-the-top-apps-gen-z-young-adults-downloaded-this-year/)
-- [Star Wars is following in the MCU&#39;s footsteps, but is this the way?](https://www.space.com/entertainment/space-movies-shows/star-wars-is-following-in-the-mcus-footsteps-but-is-this-the-way)
-- [Open source projects draw equity-free funding from corporates, startups, and even VCs](https://techcrunch.com/2024/11/10/open-source-projects-draw-equity-free-funding-from-corporates-startups-and-even-vcs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
