@@ -98,7 +98,7 @@
 - [It’s the Senate’s last chance to pass the PRESS Act](https://techcrunch.com/2024/11/10/its-the-senates-last-chance-to-pass-the-press-act/)
 - [TSMC reportedly halts advanced chip shipments to Chinese companies](https://techcrunch.com/2024/11/10/tsmc-reportedly-halts-advanced-chip-shipments-to-chinese-companies/)
 - [Equal has a plan to fight India’s growing cyber fraud problem](https://techcrunch.com/2024/11/10/equal-has-a-plan-to-fight-indias-growing-cyber-fraud-problem/)
-- [SpaceX launching 24 Starlink satellites from Florida today](https://www.space.com/spacex-starlink-launch-group-6-69)
+- [SpaceX launching 24 Starlink satellites from Florida on Monday](https://www.space.com/spacex-starlink-launch-group-6-69)
 <!-- BLOG-POST-LIST:END -->
 
 ---
