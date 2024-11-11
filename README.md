@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything we know about Exodus, the new sci-fi game from ex-BioWare developers](https://www.space.com/everything-we-know-about-exodus)
+- [Intuitive Machines CEO: ‘We now have the platform for a lunar economy’](https://techcrunch.com/2024/11/11/intuitive-machines-ceo-we-now-have-the-platform-for-a-lunar-economy/)
 - [Gift Guide 2024: The best gadgets for new home owners](https://techcrunch.com/2024/11/11/gift-guide-2024-the-best-gadgets-for-new-home-owners/)
 - [How can Jupiter have no surface? A dive into a planet so big, it could swallow 1,000 Earths](https://www.space.com/the-universe/jupiter/how-can-jupiter-have-no-surface-a-dive-into-a-planet-so-big-it-could-swallow-1-000-earths)
 - [Meta taps US, UK universities to test VR in education, creates digital twin ‘metaversities’ in Europe](https://techcrunch.com/2024/11/11/meta-taps-us-uk-universities-to-test-vr-in-education-creates-digital-twin-metaversities-in-europe/)
-- [Star cities: New 3D view of globular clusters illuminates their origins &lpar;photo&rpar;](https://www.space.com/the-universe/star-cities-new-3d-view-of-globular-clusters-illuminates-their-origins-photo)
-- [From self-driving cars to AI that writes enterprise software: Cogna founder raises $15M](https://techcrunch.com/2024/11/11/from-self-driving-cars-to-ai-that-writes-enterprise-software-cogna-founder-raises-15m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
