@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Falcon 9 rocket launching KoreaSat-6A satellite today on record-tying 23rd flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launching-koreasat-6a-satellite-today-on-record-tying-23rd-flight)
 - [Swiggy’s public debut will test India’s appetite for $1B+ IPOs](https://techcrunch.com/2024/11/11/swiggy-listing-to-test-india-appetite-for-1-billion-plus-ipos/)
 - [Supermassive black holes prefer to eat from wobbly plates](https://www.space.com/black-hole-accretion-disk-spin)
 - [Brazilian fintech Tako emerges from stealth with sizable seed round led by a16z and Ribbit Capital](https://techcrunch.com/2024/11/11/brazilian-fintech-tako-emerges-from-stealth-with-sizable-seed-round-led-by-a16z-and-ribbit-capital/)
 - [X is testing a free version of AI chatbot Grok](https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/)
-- [Elon Musk’s X is moving its legal disputes to Northern Texas](https://techcrunch.com/2024/11/10/elon-musks-x-is-moving-its-legal-disputes-to-northern-texas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
