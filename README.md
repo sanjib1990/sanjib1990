@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [At 60 years, monument to NASA&#39;s Project Mercury still stands, but what of its time capsule?](https://www.space.com/project-mercury-monument-time-capsule-60-years)
 - [Everything we know about Exodus, the new sci-fi game from ex-BioWare developers](https://www.space.com/everything-we-know-about-exodus)
 - [Intuitive Machines CEO: ‘We now have the platform for a lunar economy’](https://techcrunch.com/2024/11/11/intuitive-machines-ceo-we-now-have-the-platform-for-a-lunar-economy/)
 - [Gift Guide 2024: The best gadgets for new home owners](https://techcrunch.com/2024/11/11/gift-guide-2024-the-best-gadgets-for-new-home-owners/)
 - [How can Jupiter have no surface? A dive into a planet so big, it could swallow 1,000 Earths](https://www.space.com/the-universe/jupiter/how-can-jupiter-have-no-surface-a-dive-into-a-planet-so-big-it-could-swallow-1-000-earths)
-- [Meta taps US, UK universities to test VR in education, creates digital twin ‘metaversities’ in Europe](https://techcrunch.com/2024/11/11/meta-taps-us-uk-universities-to-test-vr-in-education-creates-digital-twin-metaversities-in-europe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
