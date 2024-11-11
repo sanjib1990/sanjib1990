@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Congress will hold another UFO hearing this week. Here&#39;s how to watch](https://www.space.com/space-exploration/search-for-life/us-congress-will-hold-another-ufo-hearing-this-week-heres-how-to-watch)
 - [Top space gifts from Best Buy this Black Friday](https://www.space.com/top-space-gifts-from-best-buy-this-black-friday)
-- [What a 2nd Trump term could mean for NASA and space exploration](https://www.space.com/space-exploration/what-a-2nd-trump-term-could-mean-for-nasa-and-space-exploration)
+- [What a 2nd Trump administration could mean for NASA and space exploration](https://www.space.com/space-exploration/what-a-2nd-trump-term-could-mean-for-nasa-and-space-exploration)
 - [The US is now at risk of losing to China in the race to send people back to the Moon’s surface](https://www.space.com/space-exploration/human-spaceflight/the-us-is-now-at-risk-of-losing-to-china-in-the-race-to-send-people-back-to-the-moons-surface)
 - [Amazon confirms employee data stolen after hacker claims MOVEit breach](https://techcrunch.com/2024/11/11/amazon-confirms-employee-data-stolen-after-hacker-claims-moveit-breach/)
-- [Starlink satellite falls to Earth, burns up as stunning fireball over US &lpar;video&rpar;](https://www.space.com/space-exploration/satellites/starlink-satellite-falls-to-earth-burns-up-as-stunning-fireball-over-us-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
