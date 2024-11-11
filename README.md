@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jupiter&#39;s storms and its &#39;potato&#39; moon Amalthea stun in new NASA Juno probe images](https://www.space.com/the-universe/jupiter/jupiters-storms-and-its-potato-moon-amalthea-stun-in-new-nasa-juno-probe-images)
+- [SpaceX alums find traction on Earth with their Mars-inspired methane-to-CO2 tech](https://techcrunch.com/2024/11/11/spacex-alums-find-traction-on-earth-with-their-mars-inspired-methane-to-co2-tech/)
 - [At 60 years, monument to NASA&#39;s Project Mercury still stands, but what of its time capsule?](https://www.space.com/project-mercury-monument-time-capsule-60-years)
 - [Everything we know about Exodus, the new sci-fi game from ex-BioWare developers](https://www.space.com/everything-we-know-about-exodus)
 - [Intuitive Machines CEO: ‘We now have the platform for a lunar economy’](https://techcrunch.com/2024/11/11/intuitive-machines-ceo-we-now-have-the-platform-for-a-lunar-economy/)
-- [Gift Guide 2024: The best gadgets for new home owners](https://techcrunch.com/2024/11/11/gift-guide-2024-the-best-gadgets-for-new-home-owners/)
-- [How can Jupiter have no surface? A dive into a planet so big, it could swallow 1,000 Earths](https://www.space.com/the-universe/jupiter/how-can-jupiter-have-no-surface-a-dive-into-a-planet-so-big-it-could-swallow-1-000-earths)
 <!-- BLOG-POST-LIST:END -->
 
 ---
