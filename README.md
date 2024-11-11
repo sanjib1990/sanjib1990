@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Star cities: New 3D view of globular clusters illuminates their origins &lpar;photo&rpar;](https://www.space.com/the-universe/star-cities-new-3d-view-of-globular-clusters-illuminates-their-origins-photo)
+- [From self-driving cars to AI that writes enterprise software: Cogna founder raises $15M](https://techcrunch.com/2024/11/11/from-self-driving-cars-to-ai-that-writes-enterprise-software-cogna-founder-raises-15m/)
 - [SpaceX Falcon 9 rocket launching KoreaSat-6A satellite today on record-tying 23rd flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launching-koreasat-6a-satellite-today-on-record-tying-23rd-flight)
 - [Swiggy’s public debut will test India’s appetite for $1B+ IPOs](https://techcrunch.com/2024/11/11/swiggy-listing-to-test-india-appetite-for-1-billion-plus-ipos/)
 - [Supermassive black holes prefer to eat from wobbly plates](https://www.space.com/black-hole-accretion-disk-spin)
-- [Brazilian fintech Tako emerges from stealth with sizable seed round led by a16z and Ribbit Capital](https://techcrunch.com/2024/11/11/brazilian-fintech-tako-emerges-from-stealth-with-sizable-seed-round-led-by-a16z-and-ribbit-capital/)
-- [X is testing a free version of AI chatbot Grok](https://techcrunch.com/2024/11/10/x-is-testing-a-free-version-of-ai-chatbot-grok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
