@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gift Guide 2024: The best gadgets for new home owners](https://techcrunch.com/2024/11/11/gift-guide-2024-the-best-gadgets-for-new-home-owners/)
+- [How can Jupiter have no surface? A dive into a planet so big, it could swallow 1,000 Earths](https://www.space.com/the-universe/jupiter/how-can-jupiter-have-no-surface-a-dive-into-a-planet-so-big-it-could-swallow-1-000-earths)
+- [Meta taps US, UK universities to test VR in education, creates digital twin ‘metaversities’ in Europe](https://techcrunch.com/2024/11/11/meta-taps-us-uk-universities-to-test-vr-in-education-creates-digital-twin-metaversities-in-europe/)
 - [Star cities: New 3D view of globular clusters illuminates their origins &lpar;photo&rpar;](https://www.space.com/the-universe/star-cities-new-3d-view-of-globular-clusters-illuminates-their-origins-photo)
 - [From self-driving cars to AI that writes enterprise software: Cogna founder raises $15M](https://techcrunch.com/2024/11/11/from-self-driving-cars-to-ai-that-writes-enterprise-software-cogna-founder-raises-15m/)
-- [SpaceX Falcon 9 rocket launching KoreaSat-6A satellite today on record-tying 23rd flight](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launching-koreasat-6a-satellite-today-on-record-tying-23rd-flight)
-- [Swiggy’s public debut will test India’s appetite for $1B+ IPOs](https://techcrunch.com/2024/11/11/swiggy-listing-to-test-india-appetite-for-1-billion-plus-ipos/)
-- [Supermassive black holes prefer to eat from wobbly plates](https://www.space.com/black-hole-accretion-disk-spin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
