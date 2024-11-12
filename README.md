@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Germany’s Klim raises $22M to take its regenerative farming platform international](https://techcrunch.com/2024/11/12/germanys-klim-raises-22m-to-take-its-regenerative-farming-platform-international/)
+- [Signal gets new video call features, making it a viable alternative to Zoom, Meet and Teams](https://techcrunch.com/2024/11/12/signal-gets-new-video-call-features-making-it-a-viable-alternative-to-zoom-meet-and-teams/)
 - [Fleek, a marketplace for wholesale second-hand clothes, sews up $20M](https://techcrunch.com/2024/11/12/fleek-a-marketplace-for-wholesale-second-hand-clothes-sews-up-20m/)
 - [SoftBank Vision Fund co-CEO Misra to leave firm](https://techcrunch.com/2024/11/12/softbank-vision-fund-co-ceo-misra-to-exit/)
 - [Quantune joins quest for the holy grail of non-invasive glucose monitoring](https://techcrunch.com/2024/11/12/quantune-joins-quest-for-the-holy-grail-of-non-invasive-glucose-monitoring/)
