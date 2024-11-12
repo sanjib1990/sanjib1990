@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SmartBank secures $26M for its personal finance management app](https://techcrunch.com/2024/11/11/smartbank-secures-18-8m-for-its-personal-finance-management-app/)
 - [Indonesian VC firm Intudo raises $125M across two funds](https://techcrunch.com/2024/11/11/indonesian-vc-firm-intudo-closes-125m-across-two-investment-funds/)
 - [Lightspeed doubles down on Wheelocity as it pivots to rural India commerce](https://techcrunch.com/2024/11/11/lightspeed-doubles-down-on-wheelocity-as-it-pivots-to-rural-india-commerce/)
 - [US Congress will hold another UFO hearing this week. Here&#39;s how to watch](https://www.space.com/space-exploration/search-for-life/us-congress-will-hold-another-ufo-hearing-this-week-heres-how-to-watch)
 - [Top space gifts from Best Buy this Black Friday](https://www.space.com/top-space-gifts-from-best-buy-this-black-friday)
-- [What a 2nd Trump administration could mean for NASA and space exploration](https://www.space.com/space-exploration/what-a-2nd-trump-term-could-mean-for-nasa-and-space-exploration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
