@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SabersPro Vader lightsaber review: &quot;An elegant replica that doesn&#39;t come cheap&quot;](https://www.space.com/saberspro-vader-lightsaber-review)
+- [&#39;Crumb trails&#39; of meteoroids could reveal potential &#39;planet-killer&#39; comets years before they reach Earth](https://www.space.com/the-universe/comets/crumb-trails-of-meteoroids-could-reveal-potential-planet-killer-comets-years-before-they-reach-earth)
+- [TikTok is integrating with influencer shopping app LTK, videos show](https://techcrunch.com/2024/11/12/tiktok-is-integrating-with-influencer-shopping-app-ltk-videos-show/)
+- [Trump expected to try to stop looming TikTok ban](https://techcrunch.com/2024/11/12/trump-expected-to-try-to-stop-looming-tiktok-ban/)
 - [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/)
-- [Marvel superheroes explore strange timelines in new trailer for &#39;What If…?&#39; Season 3 &lpar;video&rpar;](https://www.space.com/entertainment/marvel-superheroes-explore-strange-timelines-in-new-trailer-for-what-if-season-3-video)
-- [What is Bluesky? Everything to know about the X competitor.](https://techcrunch.com/2024/11/12/what-is-bluesky-everything-to-know-about-the-x-competitor/)
-- [Bluesky is seeing an exodus of unhappy X users following the election](https://techcrunch.com/2024/11/12/bluesky-is-seeing-an-exodus-of-unhappy-x-users-following-the-election/)
-- [Chrome on iOS now lets you search using images and text at the same time](https://techcrunch.com/2024/11/12/chrome-on-ios-now-lets-you-search-using-images-and-text-at-the-same-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
