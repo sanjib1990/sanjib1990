@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI startup Writer raises $200M at a $1.9B valuation](https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/)
-- [ScaleOps aims to take the frustration out of cloud management](https://techcrunch.com/2024/11/12/scaleops-aims-to-take-the-frustration-out-of-cloud-management/)
-- [Amazon attempts to lure AI researchers with $110M in grants and credits](https://techcrunch.com/2024/11/12/aws-attempts-to-lure-ai-researchers-with-110m-in-grants-and-credits/)
-- [General Catalyst and Khosla Ventures back data mapping startup Lume](https://techcrunch.com/2024/11/12/general-catalyst-and-khosla-ventures-back-data-mapping-startup-lume/)
-- [How two brothers went from growing up on a sailboat to making underwater military vehicles](https://techcrunch.com/2024/11/12/how-two-brothers-went-from-growing-up-on-a-sailboat-to-making-underwater-military-vehicles/)
+- [Good news everyone! &#39;The Art of Futurama&#39; by Matt Groening crash lands today](https://www.space.com/entertainment/good-news-everyone-the-art-of-futurama-by-matt-groening-crash-lands-today)
+- [LocalStack raises $25M to help developers emulate and test cloud apps locally](https://techcrunch.com/2024/11/12/localstack-raises-25m-to-help-developers-emulate-and-test-cloud-apps-locally/)
+- [Bounce bags $19M to expand its traveler convenience network](https://techcrunch.com/2024/11/12/bounce-grabs-19m-to-expand-its-traveller-convenience-network/)
+- [SUSE launches a cloud observability service](https://techcrunch.com/2024/11/12/suse-launches-a-cloud-observability-service/)
+- [This USB-C mouthpiece turns your phone into a musical instrument](https://techcrunch.com/2024/11/12/this-usb-c-mouthpiece-turns-your-phone-into-a-woodwind-instrument/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
