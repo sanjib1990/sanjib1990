@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;I weigh the same&#39;: NASA astronaut Suni Williams refutes tabloid health claims &lpar;video&rpar;](https://www.space.com/nasa-astronaut-suni-williams-refutes-tabloid-health-claims)
+- [TechCrunch Space: Nothing to see here!](https://techcrunch.com/2024/11/12/techcrunch-space-nothing-to-see-here/)
+- [23andMe cuts 40% of staff in restructuring](https://techcrunch.com/2024/11/12/23andme-cuts-40-of-staff-in-restructuring/)
+- [China&#39;s Mars rover Zhurong finds possible shoreline of ancient Red Planet ocean](https://www.space.com/the-universe/mars/chinas-mars-rover-zhurong-finds-possible-shoreline-of-ancient-red-planet-ocean)
 - [Generative disinfo is real — you’re just not the target, warns deepfake tracking nonprofit](https://techcrunch.com/2024/11/12/generative-disinfo-is-real-youre-just-not-the-target-warns-deepfake-tracking-nonprofit/)
-- [Long ago, Voyager 2 might have caught Uranus at a bad time](https://www.space.com/the-universe/uranus/long-ago-voyager-2-might-have-caught-uranus-at-a-bad-time)
-- [The Rivian-Volkswagen joint venture deal is now up to $5.8B](https://techcrunch.com/2024/11/12/the-rivian-volkswagen-joint-venture-deal-is-now-up-to-5-8b/)
-- [SabersPro Vader lightsaber review: &quot;An elegant replica that doesn&#39;t come cheap&quot;](https://www.space.com/saberspro-vader-lightsaber-review)
-- [&#39;Crumb trails&#39; of meteoroids could reveal potentially dangerous comets years before they reach Earth](https://www.space.com/the-universe/comets/crumb-trails-of-meteoroids-could-reveal-potential-planet-killer-comets-years-before-they-reach-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
