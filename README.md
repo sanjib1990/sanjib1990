@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Altos Ventures, an early backer of Coupang and Roblox, raises $500M fund](https://techcrunch.com/2024/11/12/altos-ventures-an-early-backer-of-coupang-and-roblox-raises-500m-fund/)
+- [Chinese private rocket launches 1st satellite for international customer](https://www.space.com/space-exploration/launches-spacecraft/chinese-private-rocket-launches-1st-satellite-for-international-customer)
 - [China reveals reusable cargo shuttle design for Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-reveals-reusable-cargo-shuttle-design-for-tiangong-space-station-video)
 - [Now anyone in LA can hail a Waymo robotaxi](https://techcrunch.com/2024/11/12/now-anyone-in-la-can-hail-a-waymo-robotaxi/)
 - [Particle launches an AI news app to help publishers, instead of just stealing their work](https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/)
-- [TikTok launches integration with Lemon8, as US ban looms](https://techcrunch.com/2024/11/12/tiktok-launches-integration-with-lemon8-as-us-ban-looms/)
-- [French newspapers want social media platform X to pay for news reuse](https://techcrunch.com/2024/11/12/french-newspapers-want-social-media-platform-x-to-pay-for-news-reuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
