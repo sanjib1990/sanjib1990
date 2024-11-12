@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 best Lego deals we&#39;ve spotted: Black Friday 2024](https://www.space.com/best-lego-black-friday-space-gifts-we-have-spotted)
+- [Scientists found &#39;nitriles&#39; in an interstellar cloud — here&#39;s why that could be huge](https://www.space.com/the-universe/scientists-found-nitriles-in-an-interstellar-cloud-heres-why-that-could-be-huge)
 - [Signal gets new video call features, making it a viable alternative to Zoom, Meet and Teams](https://techcrunch.com/2024/11/12/signal-gets-new-video-call-features-making-it-a-viable-alternative-to-zoom-meet-and-teams/)
 - [Fleek, a marketplace for wholesale second-hand clothes, sews up $20M](https://techcrunch.com/2024/11/12/fleek-a-marketplace-for-wholesale-second-hand-clothes-sews-up-20m/)
 - [SoftBank Vision Fund co-CEO Misra to leave firm](https://techcrunch.com/2024/11/12/softbank-vision-fund-co-ceo-misra-to-exit/)
-- [Quantune joins quest for the holy grail of non-invasive glucose monitoring](https://techcrunch.com/2024/11/12/quantune-joins-quest-for-the-holy-grail-of-non-invasive-glucose-monitoring/)
-- [Agicap secures $48 million for its cash flow management platform](https://techcrunch.com/2024/11/11/agicap-secures-48-million-for-its-cash-flow-management-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
