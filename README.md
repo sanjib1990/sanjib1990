@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Agicap secures $48 million for its cash flow management platform](https://techcrunch.com/2024/11/11/agicap-secures-48-million-for-its-cash-flow-management-platform/)
-- [Ecosia and Qwant, two European search engines, join forces on building an index to shrink reliance on Big Tech](https://techcrunch.com/2024/11/11/ecosia-and-qwant-two-european-search-engines-join-forces-on-building-an-index-to-shrink-reliance-on-big-tech/)
+- [Ecosia and Qwant, two European search engines, join forces on an index to shrink reliance on Big Tech](https://techcrunch.com/2024/11/11/ecosia-and-qwant-two-european-search-engines-join-forces-on-building-an-index-to-shrink-reliance-on-big-tech/)
 - [As demand for lithium explodes, battery recycling startup Tozero sprints to scale with $11.7M seed](https://techcrunch.com/2024/11/11/as-demand-for-lithium-explodes-battery-recycling-startup-tozero-sprints-to-scale-with-11-7m-seed/)
 - [SmartBank secures $26M for its personal finance management app](https://techcrunch.com/2024/11/11/smartbank-secures-18-8m-for-its-personal-finance-management-app/)
 - [Indonesian VC firm Intudo raises $125M across two funds](https://techcrunch.com/2024/11/11/indonesian-vc-firm-intudo-closes-125m-across-two-investment-funds/)
