@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Modern CPUs Assign Registers To Speed Up Your Code - Computerphile](https://www.youtube.com/watch?v=Me0GF5zMfAk)
 - [Microsoft Notepad.exe is overpowered now… and 13 other major updates for devs](https://www.youtube.com/watch?v=qyCVCGg_3Ec)
 - [Bounded Differences Inequality &lpar;aka Azuma-Hoeffding Inequality&rpar;](https://www.youtube.com/watch?v=FUwr_EtcPIU)
 - [Large Bipartite Subgraph](https://www.youtube.com/watch?v=crMyNv2fdkc)
 - [Linearity of Expectations](https://www.youtube.com/watch?v=feEXMWBQGZk)
-- [Extremal Set Theory: Sperner&#39;s Theorem](https://www.youtube.com/watch?v=exBXHYl4po8)
 <!-- YOUTUBE:END -->
 
 ---
