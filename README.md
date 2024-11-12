@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generative disinfo is real — you’re just not the target, warns deepfake tracking nonprofit](https://techcrunch.com/2024/11/12/generative-disinfo-is-real-youre-just-not-the-target-warns-deepfake-tracking-nonprofit/)
+- [Long ago, Voyager 2 might have caught Uranus at a bad time](https://www.space.com/the-universe/uranus/long-ago-voyager-2-might-have-caught-uranus-at-a-bad-time)
+- [The Rivian-Volkswagen joint venture deal is now up to $5.8B](https://techcrunch.com/2024/11/12/the-rivian-volkswagen-joint-venture-deal-is-now-up-to-5-8b/)
 - [SabersPro Vader lightsaber review: &quot;An elegant replica that doesn&#39;t come cheap&quot;](https://www.space.com/saberspro-vader-lightsaber-review)
-- [&#39;Crumb trails&#39; of meteoroids could reveal potential &#39;planet-killer&#39; comets years before they reach Earth](https://www.space.com/the-universe/comets/crumb-trails-of-meteoroids-could-reveal-potential-planet-killer-comets-years-before-they-reach-earth)
-- [TikTok is integrating with influencer shopping app LTK, videos show](https://techcrunch.com/2024/11/12/tiktok-is-integrating-with-influencer-shopping-app-ltk-videos-show/)
-- [Trump expected to try to stop looming TikTok ban](https://techcrunch.com/2024/11/12/trump-expected-to-try-to-stop-looming-tiktok-ban/)
-- [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/)
+- [&#39;Crumb trails&#39; of meteoroids could reveal potentially dangerous comets years before they reach Earth](https://www.space.com/the-universe/comets/crumb-trails-of-meteoroids-could-reveal-potential-planet-killer-comets-years-before-they-reach-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
