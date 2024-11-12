@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Germany’s Klim raises $22M to take its regenerative farming platform international](https://techcrunch.com/2024/11/12/germanys-klim-raises-22m-to-take-its-regenerative-farming-platform-international/)
+- [Fleek, a marketplace for wholesale second-hand clothes, sews up $20M](https://techcrunch.com/2024/11/12/fleek-a-marketplace-for-wholesale-second-hand-clothes-sews-up-20m/)
+- [SoftBank Vision Fund co-CEO Misra to leave firm](https://techcrunch.com/2024/11/12/softbank-vision-fund-co-ceo-misra-to-exit/)
+- [Quantune joins quest for the holy grail of non-invasive glucose monitoring](https://techcrunch.com/2024/11/12/quantune-joins-quest-for-the-holy-grail-of-non-invasive-glucose-monitoring/)
 - [Agicap secures $48 million for its cash flow management platform](https://techcrunch.com/2024/11/11/agicap-secures-48-million-for-its-cash-flow-management-platform/)
-- [Ecosia and Qwant, two European search engines, join forces on an index to shrink reliance on Big Tech](https://techcrunch.com/2024/11/11/ecosia-and-qwant-two-european-search-engines-join-forces-on-building-an-index-to-shrink-reliance-on-big-tech/)
-- [As demand for lithium explodes, battery recycling startup Tozero sprints to scale with $11.7M seed](https://techcrunch.com/2024/11/11/as-demand-for-lithium-explodes-battery-recycling-startup-tozero-sprints-to-scale-with-11-7m-seed/)
-- [SmartBank secures $26M for its personal finance management app](https://techcrunch.com/2024/11/11/smartbank-secures-18-8m-for-its-personal-finance-management-app/)
-- [Indonesian VC firm Intudo raises $125M across two funds](https://techcrunch.com/2024/11/11/indonesian-vc-firm-intudo-closes-125m-across-two-investment-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
