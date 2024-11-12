@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC alleges neobank Dave misled customers](https://techcrunch.com/2024/11/12/ftc-alleges-neobank-dave-misled-customers/)
-- [Open Gateway: Step into mock lunar orbit habitat at Space Center Houston](https://www.space.com/artemis-gateway-habitat-mockup-northrop-grumman-space-center-houston)
-- [Sam Bankman-Fried is coming back](https://techcrunch.com/2024/11/12/sam-bankman-fried-is-coming-back/)
-- [Apple reportedly shipping a security camera in 2026](https://techcrunch.com/2024/11/12/apple-reportedly-shipping-a-security-camera-in-2026/)
-- [Disney+ announces official &#39;Andor&#39; Season 2 premiere date and teases TIE fighter heist](https://www.space.com/entertainment/disney-announces-official-andor-season-2-premiere-date-and-teases-tie-fighter-heist)
+- [Anysphere acquires Supermaven to beef up Cursor](https://techcrunch.com/2024/11/12/anysphere-acquires-supermaven-to-beef-up-cursor/)
+- [Marvel superheroes explore strange timelines in new trailer for &#39;What If…?&#39; Season 3 &lpar;video&rpar;](https://www.space.com/entertainment/marvel-superheroes-explore-strange-timelines-in-new-trailer-for-what-if-season-3-video)
+- [What is Bluesky? Everything to know about the X competitor.](https://techcrunch.com/2024/11/12/what-is-bluesky-everything-to-know-about-the-x-competitor/)
+- [Bluesky is seeing an exodus of unhappy X users following the election](https://techcrunch.com/2024/11/12/bluesky-is-seeing-an-exodus-of-unhappy-x-users-following-the-election/)
+- [Chrome on iOS now lets you search using images and text at the same time](https://techcrunch.com/2024/11/12/chrome-on-ios-now-lets-you-search-using-images-and-text-at-the-same-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
