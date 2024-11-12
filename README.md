@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s geoblocks on media services in EU draw consumer protection ire](https://techcrunch.com/2024/11/12/apples-geoblocks-on-media-services-in-eu-draw-consumer-protection-ire/)
-- [Red Hat acquires AI optimization startup Neural Magic](https://techcrunch.com/2024/11/12/red-hat-acquires-ai-optimization-startup-neural-magic/)
-- [PointFive snaps up $20M for breakthrough tech to track usage across multiple clouds](https://techcrunch.com/2024/11/12/pointfive-snaps-up-20m-for-breakthrough-tech-to-track-usage-across-multiple-clouds/)
-- [Germany’s Klim raises $22M to take its regenerative farming platform international](https://techcrunch.com/2024/11/12/germanys-klim-raises-22m-to-take-its-regenerative-farming-platform-international/)
-- [A black hole&#39;s secrets could hide in its dizzying light &#39;echoes&#39;](https://www.space.com/the-universe/black-holes/a-black-holes-secrets-could-hide-in-its-dizzying-light-echoes)
+- [Generative AI startup Writer raises $200M at a $1.9B valuation](https://techcrunch.com/2024/11/12/generative-ai-startup-writer-raises-200m-at-a-1-9b-valuation/)
+- [ScaleOps aims to take the frustration out of cloud management](https://techcrunch.com/2024/11/12/scaleops-aims-to-take-the-frustration-out-of-cloud-management/)
+- [Amazon attempts to lure AI researchers with $110M in grants and credits](https://techcrunch.com/2024/11/12/aws-attempts-to-lure-ai-researchers-with-110m-in-grants-and-credits/)
+- [General Catalyst and Khosla Ventures back data mapping startup Lume](https://techcrunch.com/2024/11/12/general-catalyst-and-khosla-ventures-back-data-mapping-startup-lume/)
+- [How two brothers went from growing up on a sailboat to making underwater military vehicles](https://techcrunch.com/2024/11/12/how-two-brothers-went-from-growing-up-on-a-sailboat-to-making-underwater-military-vehicles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
