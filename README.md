@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conduktor looks to gatekeep ‘bad data’ out of company’s apps](https://techcrunch.com/2024/11/12/conduktor-aims-to-gatekeep-bad-data-out-of-companys-apps/)
-- [Top 10 best Lego deals we&#39;ve spotted: Black Friday 2024](https://www.space.com/best-lego-black-friday-space-gifts-we-have-spotted)
-- [Scientists found &#39;nitriles&#39; in an interstellar cloud — here&#39;s why that could be huge](https://www.space.com/the-universe/scientists-found-nitriles-in-an-interstellar-cloud-heres-why-that-could-be-huge)
-- [Signal gets new video call features, making it a viable alternative to Zoom, Meet and Teams](https://techcrunch.com/2024/11/12/signal-gets-new-video-call-features-making-it-a-viable-alternative-to-zoom-meet-and-teams/)
-- [Fleek, a marketplace for wholesale second-hand clothes, sews up $20M](https://techcrunch.com/2024/11/12/fleek-a-marketplace-for-wholesale-second-hand-clothes-sews-up-20m/)
+- [Apple’s geoblocks on media services in EU draw consumer protection ire](https://techcrunch.com/2024/11/12/apples-geoblocks-on-media-services-in-eu-draw-consumer-protection-ire/)
+- [Red Hat acquires AI optimization startup Neural Magic](https://techcrunch.com/2024/11/12/red-hat-acquires-ai-optimization-startup-neural-magic/)
+- [PointFive snaps up $20M for breakthrough tech to track usage across multiple clouds](https://techcrunch.com/2024/11/12/pointfive-snaps-up-20m-for-breakthrough-tech-to-track-usage-across-multiple-clouds/)
+- [Germany’s Klim raises $22M to take its regenerative farming platform international](https://techcrunch.com/2024/11/12/germanys-klim-raises-22m-to-take-its-regenerative-farming-platform-international/)
+- [A black hole&#39;s secrets could hide in its dizzying light &#39;echoes&#39;](https://www.space.com/the-universe/black-holes/a-black-holes-secrets-could-hide-in-its-dizzying-light-echoes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
