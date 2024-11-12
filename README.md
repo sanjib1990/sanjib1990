@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Altos Ventures, an early backer of Coupang and Roblox, raises $500M fund](https://techcrunch.com/2024/11/12/altos-ventures-an-early-backer-of-coupang-and-roblox-raises-500m-fund/)
-- [Chinese private rocket launches 1st satellite for international customer](https://www.space.com/space-exploration/launches-spacecraft/chinese-private-rocket-launches-1st-satellite-for-international-customer)
-- [China reveals reusable cargo shuttle design for Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-reveals-reusable-cargo-shuttle-design-for-tiangong-space-station-video)
-- [Now anyone in LA can hail a Waymo robotaxi](https://techcrunch.com/2024/11/12/now-anyone-in-la-can-hail-a-waymo-robotaxi/)
-- [Particle launches an AI news app to help publishers, instead of just stealing their work](https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/)
+- [Disney+ announces official &#39;Andor&#39; Season 2 premiere date and teases TIE fighter heist](https://www.space.com/entertainment/disney-announces-official-andor-season-2-premiere-date-and-teases-tie-fighter-heist)
+- [Firefly Aerospace readies for a big year in orbit with $175M D round](https://techcrunch.com/2024/11/12/firefly-aerospace-readies-for-a-big-year-in-orbit-with-175m-d-round/)
+- [James Webb Space Telescope finds galaxies pointing toward a dark matter alternative](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-finds-galaxies-pointing-toward-a-dark-matter-alternative)
+- [Here’s how to create a custom emoji with the Apple Intelligence feature ‘Genmoji’](https://techcrunch.com/2024/11/12/how-to-create-a-custom-emoji-with-genmoji-apple-intelligence-feature/)
+- [Zoox rolls outs custom robotaxi in San Francisco, Las Vegas](https://techcrunch.com/2024/11/12/zoox-rolls-outs-custom-robotaxi-in-san-francisco-las-vegas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
