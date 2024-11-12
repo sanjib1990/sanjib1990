@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Good news everyone! &#39;The Art of Futurama&#39; by Matt Groening crash lands today](https://www.space.com/entertainment/good-news-everyone-the-art-of-futurama-by-matt-groening-crash-lands-today)
-- [LocalStack raises $25M to help developers emulate and test cloud apps locally](https://techcrunch.com/2024/11/12/localstack-raises-25m-to-help-developers-emulate-and-test-cloud-apps-locally/)
-- [Bounce bags $19M to expand its traveler convenience network](https://techcrunch.com/2024/11/12/bounce-grabs-19m-to-expand-its-traveller-convenience-network/)
-- [SUSE launches a cloud observability service](https://techcrunch.com/2024/11/12/suse-launches-a-cloud-observability-service/)
-- [This USB-C mouthpiece turns your phone into a musical instrument](https://techcrunch.com/2024/11/12/this-usb-c-mouthpiece-turns-your-phone-into-a-woodwind-instrument/)
+- [China reveals reusable cargo shuttle design for Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-reveals-reusable-cargo-shuttle-design-for-tiangong-space-station-video)
+- [Now anyone in LA can hail a Waymo robotaxi](https://techcrunch.com/2024/11/12/now-anyone-in-la-can-hail-a-waymo-robotaxi/)
+- [Particle launches an AI news app to help publishers, instead of just stealing their work](https://techcrunch.com/2024/11/12/particle-launches-an-ai-news-app-to-help-publishers-instead-of-just-stealing-their-work/)
+- [TikTok launches integration with Lemon8, as US ban looms](https://techcrunch.com/2024/11/12/tiktok-launches-integration-with-lemon8-as-us-ban-looms/)
+- [French newspapers want social media platform X to pay for news reuse](https://techcrunch.com/2024/11/12/french-newspapers-want-social-media-platform-x-to-pay-for-news-reuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
