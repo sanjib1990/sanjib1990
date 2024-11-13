@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The sun&#39;s poles may have powerful magnetic tornadoes](https://www.space.com/the-universe/sun/the-suns-poles-may-have-powerful-magnetic-tornadoes)
-- [SpaceX rolls Starship spacecraft to pad ahead of Nov. 18 launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-sixth-starship-launch-pad-photos)
-- [This generative AI startup is strapping cameras to people’s backs](https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/)
-- [Stepful raises $31.5M to address healthcare staffing shortage with AI-powered training](https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/)
-- [Spotify teases a ‘super premium’ tier for superfans and upcoming video expansion in Q3 earnings call](https://techcrunch.com/2024/11/13/spotify-teases-a-super-premium-tier-for-superfans-and-upcoming-video-expansion-in-q3-earnings-call/)
+- [Lawyer allegedly hacked with spyware names NSO founders in lawsuit](https://techcrunch.com/2024/11/13/lawyer-allegedly-hacked-with-spyware-names-nso-founders-in-lawsuit/)
+- [Top Black Friday space gifts at Walmart](https://www.space.com/top-black-friday-space-gifts-at-walmart)
+- [UFO whistleblowers tell Congress &#39;we are not alone in the cosmos&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video)
+- [Get a sneak peak at the incredible sci-fi coming to Disney+ in 2025 &lpar;video&rpar;](https://www.space.com/entertainment/get-a-sneak-peak-at-incredible-sci-fi-coming-to-disney-in-2025-video)
+- [Wing begins delivering blood samples via drone in London](https://techcrunch.com/2024/11/13/wing-begins-delivering-blood-samples-via-drone-in-london/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
