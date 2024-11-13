@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Eat Takeaway sells Grubhub to Wonder for $650 million](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/)
+- [YouTube is now letting creators remix songs through AI prompting](https://techcrunch.com/2024/11/12/youtube-is-now-letting-creators-remix-songs-through-ai-prompting/)
 - [Swiggy market debut fuels India’s food, quick commerce wars](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/)
 - [Perplexity brings ads to its platform](https://techcrunch.com/2024/11/12/perplexity-brings-ads-to-its-platform/)
 - [Trump appoints SpaceX&#39;s Elon Musk to help head regulation-slashing &#39;Department of Government Efficiency&#39;](https://www.space.com/donald-trump-elon-musk-department-government-efficiency)
-- [Donald Trump announces Elon Musk will  co-lead Department of Government Efficiency](https://techcrunch.com/2024/11/12/donald-trump-announces-elon-musk-will-co-lead-department-of-government-efficiency/)
-- [NASA awards ‘sustainable’ aircraft concepts $11.5M](https://techcrunch.com/2024/11/12/nasa-awards-sustainable-aircraft-concepts-11-5m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
