@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [After spending three years working on SMS verification at Zenly, Prelude wants to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/)
+- [Klarna kickstarts U.S. IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/)
+- [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/)
 - [After years of trying, Just Eat Takeaway is selling Grubhub to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/)
-- [YouTube is now letting creators remix songs through AI prompting](https://techcrunch.com/2024/11/12/youtube-is-now-letting-creators-remix-songs-through-ai-prompting/)
-- [Swiggy debut is fueling India’s food delivery and quick-commerce wars](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/)
-- [Perplexity brings ads to its platform](https://techcrunch.com/2024/11/12/perplexity-brings-ads-to-its-platform/)
+- [YouTube is testing a feature that lets select creators remix songs using AI](https://techcrunch.com/2024/11/12/youtube-is-now-letting-creators-remix-songs-through-ai-prompting/)
+- [Swiggy debut fuels India’s food delivery and quick-commerce wars](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
