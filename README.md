@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/)
 - [Klarna kickstarts U.S. IPO plans with confidential SEC filing](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/)
 - [After spending three years working on SMS verification at Zenly, Prelude founders want to fix SMS onboarding](https://techcrunch.com/2024/11/13/after-spending-three-years-working-on-sms-verification-at-zenly-prelude-wants-to-fix-sms-onboarding/)
 - [After years of trying, Just Eat Takeaway is selling Grubhub to Wonder for $650M](https://techcrunch.com/2024/11/12/just-eat-takeaway-sells-grubhub-to-wonder-for-650-million/)
 - [YouTube is testing a feature that lets select creators remix songs using AI](https://techcrunch.com/2024/11/12/youtube-is-now-letting-creators-remix-songs-through-ai-prompting/)
-- [Swiggy debut fuels India’s food delivery and quick-commerce wars](https://techcrunch.com/2024/11/12/swiggy-debut-fuels-indias-food-quick-commerce-wars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
