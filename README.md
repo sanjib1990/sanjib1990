@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Jet Propulsion Lab laying off 5% of its workforce](https://www.space.com/nasa-jpl-laying-off-325-employees)
+- [Apple reportedly releasing a wall-mounted smart home tablet in 2025 – and yes, it does AI](https://techcrunch.com/2024/11/12/apple-reportedly-releasing-a-wall-mounted-smart-home-tablet-in-2025-and-yes-it-does-ai/)
 - [&#39;I weigh the same&#39;: NASA astronaut Suni Williams refutes tabloid health claims &lpar;video&rpar;](https://www.space.com/nasa-astronaut-suni-williams-refutes-tabloid-health-claims)
 - [TechCrunch Space: Nothing to see here!](https://techcrunch.com/2024/11/12/techcrunch-space-nothing-to-see-here/)
 - [23andMe cuts 40% of staff in restructuring](https://techcrunch.com/2024/11/12/23andme-cuts-40-of-staff-in-restructuring/)
-- [China&#39;s Mars rover Zhurong finds possible shoreline of ancient Red Planet ocean](https://www.space.com/the-universe/mars/chinas-mars-rover-zhurong-finds-possible-shoreline-of-ancient-red-planet-ocean)
-- [Generative disinfo is real — you’re just not the target, warns deepfake tracking nonprofit](https://techcrunch.com/2024/11/12/generative-disinfo-is-real-youre-just-not-the-target-warns-deepfake-tracking-nonprofit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
