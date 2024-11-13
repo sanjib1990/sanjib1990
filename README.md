@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s DOGE? Musk’s new political appointment under Trump is a crypto joke](https://techcrunch.com/2024/11/13/whats-doge-musks-new-political-appointment-under-trump-is-a-crypto-joke/)
+- [Apple’s AI-powered Final Cut Pro 11 is now available](https://techcrunch.com/2024/11/13/apples-ai-powered-final-cut-pro-11-is-now-available/)
+- [All astronauts still in good health on ISS, NASA flight surgeon says amid new tabloid rumors](https://www.space.com/space-exploration/missions/all-astronauts-still-in-good-health-on-iss-nasa-flight-surgeon-says-amid-new-tabloid-rumors)
+- [OpenAI’s take on AI agents could come in January](https://techcrunch.com/2024/11/13/openais-take-on-ai-agents-could-come-in-january/)
 - [Former Virgin Galactic CEO George Whitesides wins seat in US Congress](https://www.space.com/virgin-galactic-ceo-george-whitesides-congress-win)
-- [Don Lemon officially leaves Elon Musk’s X](https://techcrunch.com/2024/11/13/don-lemon-officially-leaves-elon-musks-x/)
-- [Spotify will start paying video podcast hosts based on how well their videos perform](https://techcrunch.com/2024/11/13/spotify-will-start-paying-video-podcast-hosts-based-on-how-well-their-videos-perform/)
-- [SpaceX launching 20 Starlink satellites from California tonight](https://www.space.com/spacex-starlink-launch-group-9-11)
-- [Amazon scraps secret fertility-tracking project](https://techcrunch.com/2024/11/13/amazon-scraps-secret-fertility-tracking-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
