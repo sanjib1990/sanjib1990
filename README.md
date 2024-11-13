@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Virgin Galactic CEO George Whitesides wins seat in US Congress](https://www.space.com/virgin-galactic-ceo-george-whitesides-congress-win)
+- [Don Lemon officially leaves Elon Musk’s X](https://techcrunch.com/2024/11/13/don-lemon-officially-leaves-elon-musks-x/)
 - [Spotify will start paying video podcast hosts based on how well their videos perform](https://techcrunch.com/2024/11/13/spotify-will-start-paying-video-podcast-hosts-based-on-how-well-their-videos-perform/)
 - [SpaceX launching 20 Starlink satellites from California tonight](https://www.space.com/spacex-starlink-launch-group-9-11)
 - [Amazon scraps secret fertility-tracking project](https://techcrunch.com/2024/11/13/amazon-scraps-secret-fertility-tracking-project/)
-- [Mark Zuckerberg sings with T-Pain on ‘Get Low’ remix](https://techcrunch.com/2024/11/13/mark-zuckerberg-sings-with-t-pain-on-get-low-remix/)
-- [Lawyer allegedly hacked with spyware names NSO founders in lawsuit](https://techcrunch.com/2024/11/13/lawyer-allegedly-hacked-with-spyware-names-nso-founders-in-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
