@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Starfish Space raises $29M to launch satellite-servicing spacecraft missions](https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/)
+- [Surprised Russian school kids discover Arctic island has vanished after comparing satellite images](https://www.space.com/the-universe/climate-change/surprised-russian-school-kids-discover-arctic-island-has-vanished-after-comparing-satellite-images)
+- [Lyten buys battery manufacturing assets from beleaguered Northvolt](https://techcrunch.com/2024/11/13/lyten-buys-battery-manufacturing-assets-from-beleaguered-northvolt/)
 - [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/)
 - [Apple now lets app developers apply to be featured on the App Store](https://techcrunch.com/2024/11/13/apple-now-lets-app-developers-apply-to-be-featured-on-the-app-store/)
-- [Amazon takes on Temu and Shein with discount ‘Amazon Haul’ store](https://techcrunch.com/2024/11/13/amazon-takes-on-temu-and-shein-with-discount-amazon-haul-store/)
-- [Hot Topic data breach exposed personal data of 57 million customers](https://techcrunch.com/2024/11/13/hot-topic-data-breach-exposed-personal-data-of-57-million-customers/)
-- [Europe asks for input on banned uses of AI](https://techcrunch.com/2024/11/13/europe-asks-for-input-on-banned-uses-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
