@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify will start paying video podcast hosts based on how well their videos perform](https://techcrunch.com/2024/11/13/spotify-will-start-paying-video-podcast-hosts-based-on-how-well-their-videos-perform/)
+- [SpaceX launching 20 Starlink satellites from California tonight](https://www.space.com/spacex-starlink-launch-group-9-11)
+- [Amazon scraps secret fertility-tracking project](https://techcrunch.com/2024/11/13/amazon-scraps-secret-fertility-tracking-project/)
+- [Mark Zuckerberg sings with T-Pain on ‘Get Low’ remix](https://techcrunch.com/2024/11/13/mark-zuckerberg-sings-with-t-pain-on-get-low-remix/)
 - [Lawyer allegedly hacked with spyware names NSO founders in lawsuit](https://techcrunch.com/2024/11/13/lawyer-allegedly-hacked-with-spyware-names-nso-founders-in-lawsuit/)
-- [Top Black Friday space gifts at Walmart](https://www.space.com/top-black-friday-space-gifts-at-walmart)
-- [UFO whistleblowers tell Congress &#39;we are not alone in the cosmos&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/search-for-life/ufo-whistleblowers-tell-congress-we-are-not-alone-in-the-cosmos-video)
-- [Get a sneak peak at the incredible sci-fi coming to Disney+ in 2025 &lpar;video&rpar;](https://www.space.com/entertainment/get-a-sneak-peak-at-incredible-sci-fi-coming-to-disney-in-2025-video)
-- [Wing begins delivering blood samples via drone in London](https://techcrunch.com/2024/11/13/wing-begins-delivering-blood-samples-via-drone-in-london/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
