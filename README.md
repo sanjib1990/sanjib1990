@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The sun&#39;s poles may have powerful magnetic tornadoes](https://www.space.com/the-universe/sun/the-suns-poles-may-have-powerful-magnetic-tornadoes)
+- [SpaceX rolls Starship spacecraft to pad ahead of Nov. 18 launch &lpar;photos&rpar;](https://www.space.com/spacex-rolls-out-sixth-starship-launch-pad-photos)
+- [This generative AI startup is strapping cameras to people’s backs](https://techcrunch.com/2024/11/13/this-generative-ai-startup-is-strapping-cameras-to-peoples-backs/)
+- [Stepful raises $31.5M to address healthcare staffing shortage with AI-powered training](https://techcrunch.com/2024/11/13/stepful-raises-31-5m-to-address-healthcare-staffing-shortage-with-ai-powered-training/)
 - [Spotify teases a ‘super premium’ tier for superfans and upcoming video expansion in Q3 earnings call](https://techcrunch.com/2024/11/13/spotify-teases-a-super-premium-tier-for-superfans-and-upcoming-video-expansion-in-q3-earnings-call/)
-- [This Week in AI: Anthropic’s CEO talks scaling up AI and Google predicts floods](https://techcrunch.com/2024/11/13/this-week-in-ai-anthropics-ceo-talks-scaling-up-ai-and-google-predicts-floods/)
-- [The final supermoon of 2024 rises Nov. 15 as November&#39;s Full Beaver Moon](https://www.space.com/the-universe/moon/the-final-supermoon-of-2024-rises-nov-15-as-novembers-full-beaver-moon)
-- [Ever wanted to rent a food delivery robot? Now you can.](https://techcrunch.com/2024/11/13/ever-wanted-to-rent-a-food-delivery-robot-now-you-can/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
