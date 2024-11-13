@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Starfish Space raises $29M to launch satellite-servicing spacecraft missions](https://techcrunch.com/2024/11/13/starfish-space-raises-29m-to-launch-satellite-servicing-spacecraft/)
-- [Surprised Russian school kids discover Arctic island has vanished after comparing satellite images](https://www.space.com/the-universe/climate-change/surprised-russian-school-kids-discover-arctic-island-has-vanished-after-comparing-satellite-images)
-- [Lyten buys battery manufacturing assets from beleaguered Northvolt](https://techcrunch.com/2024/11/13/lyten-buys-battery-manufacturing-assets-from-beleaguered-northvolt/)
-- [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/)
-- [Apple now lets app developers apply to be featured on the App Store](https://techcrunch.com/2024/11/13/apple-now-lets-app-developers-apply-to-be-featured-on-the-app-store/)
+- [Spotify teases a ‘super premium’ tier for superfans and upcoming video expansion in Q3 earnings call](https://techcrunch.com/2024/11/13/spotify-teases-a-super-premium-tier-for-superfans-and-upcoming-video-expansion-in-q3-earnings-call/)
+- [This Week in AI: Anthropic’s CEO talks scaling up AI and Google predicts floods](https://techcrunch.com/2024/11/13/this-week-in-ai-anthropics-ceo-talks-scaling-up-ai-and-google-predicts-floods/)
+- [The final supermoon of 2024 rises Nov. 15 as November&#39;s Full Beaver Moon](https://www.space.com/the-universe/moon/the-final-supermoon-of-2024-rises-nov-15-as-novembers-full-beaver-moon)
+- [Ever wanted to rent a food delivery robot? Now you can.](https://techcrunch.com/2024/11/13/ever-wanted-to-rent-a-food-delivery-robot-now-you-can/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
