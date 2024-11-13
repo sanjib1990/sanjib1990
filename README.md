@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fitbit’s kids smartwatch gets family group chats](https://techcrunch.com/2024/11/13/fitbit-smartwatch-for-kids-ages-7-launches-family-group-chats/)
-- [Galaxies get tangled up in &#39;the queen&#39;s hair&#39; in new Hubble Telescope image](https://www.space.com/the-universe/galaxies/galaxies-get-tangled-up-in-the-queens-hair-in-new-hubble-telescope-image)
-- [Tesla issues sixth Cybertruck recall in a year](https://techcrunch.com/2024/11/13/tesla-issues-sixth-cybertruck-recall-in-a-year/)
-- [NASA dealing with aging ISS and spacewalk hardware: &#39;None of our spacesuits are spring chickens&#39;](https://www.space.com/space-exploration/international-space-station/nasa-dealing-with-aging-iss-and-spacewalk-hardware-none-of-our-spacesuits-are-spring-chickens)
-- [DeepL launches DeepL Voice, real-time, text-based translations from voices and videos](https://techcrunch.com/2024/11/13/deepl-launches-deepl-voice-real-time-text-based-translations-from-voices-and-videos/)
+- [Nokia acquires Rapid, the API company once valued at $1B](https://techcrunch.com/2024/11/13/nokia-acquires-rapid-the-api-company-once-valued-at-1b/)
+- [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/)
+- [&#39;Snowball Earth:&#39; Entire planet was likely covered in ice more than 600 million years ago](https://www.space.com/the-universe/earth/snowball-earth-entire-planet-was-likely-covered-in-ice-more-than-600-million-years-ago)
+- [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/)
+- [Patreon gets gift subscriptions in time for the holidays](https://techcrunch.com/2024/11/13/patreon-gets-gift-subscriptions-in-time-for-the-holidays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
