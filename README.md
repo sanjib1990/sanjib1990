@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nokia acquires Rapid, the API company once valued at $1B](https://techcrunch.com/2024/11/13/nokia-acquires-rapid-the-api-company-once-valued-at-1b/)
-- [Leland lands $12 million to grow its coaching platform](https://techcrunch.com/2024/11/13/leland-lands-12-million-to-grow-its-coaching-platform/)
-- [&#39;Snowball Earth:&#39; Entire planet was likely covered in ice more than 600 million years ago](https://www.space.com/the-universe/earth/snowball-earth-entire-planet-was-likely-covered-in-ice-more-than-600-million-years-ago)
-- [Vecna Robotics raises $14.5M and taps former Motional CEO to lead startup](https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/)
-- [Patreon gets gift subscriptions in time for the holidays](https://techcrunch.com/2024/11/13/patreon-gets-gift-subscriptions-in-time-for-the-holidays/)
+- [Almost all of this year’s top 40 startups at Station F use AI](https://techcrunch.com/2024/11/13/34-startup-out-of-this-years-top-40-startups-at-station-f-use-ai/)
+- [Apple now lets app developers apply to be featured on the App Store](https://techcrunch.com/2024/11/13/apple-now-lets-app-developers-apply-to-be-featured-on-the-app-store/)
+- [Amazon takes on Temu and Shein with discount ‘Amazon Haul’ store](https://techcrunch.com/2024/11/13/amazon-takes-on-temu-and-shein-with-discount-amazon-haul-store/)
+- [Hot Topic data breach exposed personal data of 57 million customers](https://techcrunch.com/2024/11/13/hot-topic-data-breach-exposed-personal-data-of-57-million-customers/)
+- [Europe asks for input on banned uses of AI](https://techcrunch.com/2024/11/13/europe-asks-for-input-on-banned-uses-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
