@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Donald Trump announces Elon Musk will  co-lead Department of Government Efficiency](https://techcrunch.com/2024/11/12/donald-trump-announces-elon-musk-will-co-lead-department-of-government-efficiency/)
+- [NASA awards ‘sustainable’ aircraft concepts $11.5M](https://techcrunch.com/2024/11/12/nasa-awards-sustainable-aircraft-concepts-11-5m/)
 - [NASA&#39;s Jet Propulsion Lab laying off 5% of its workforce](https://www.space.com/nasa-jpl-laying-off-325-employees)
 - [Apple reportedly releasing a wall-mounted smart home tablet in 2025 – and yes, it does AI](https://techcrunch.com/2024/11/12/apple-reportedly-releasing-a-wall-mounted-smart-home-tablet-in-2025-and-yes-it-does-ai/)
 - [&#39;I weigh the same&#39;: NASA astronaut Suni Williams refutes tabloid health claims &lpar;video&rpar;](https://www.space.com/nasa-astronaut-suni-williams-refutes-tabloid-health-claims)
-- [TechCrunch Space: Nothing to see here!](https://techcrunch.com/2024/11/12/techcrunch-space-nothing-to-see-here/)
-- [23andMe cuts 40% of staff in restructuring](https://techcrunch.com/2024/11/12/23andme-cuts-40-of-staff-in-restructuring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
