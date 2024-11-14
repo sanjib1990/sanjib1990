@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blue Origin stacks huge New Glenn rocket ahead of 1st launch &lpar;photo&rpar;](https://www.space.com/space-exploration/private-spaceflight/blue-origin-stacks-huge-new-glenn-rocket-ahead-of-1st-launch-photo)
-- [Tiger Global-backed InVideo launches gen AI-based video creation](https://techcrunch.com/2024/11/14/tiger-global-backed-invideo-introduces-gen-ai-based-video-creation/)
-- [Snapchat will soon be able to alert parents when their teen leaves or arrives at certain locations](https://techcrunch.com/2024/11/14/snapchat-will-soon-be-able-to-alert-parents-when-their-teen-leaves-or-arrives-at-certain-locations/)
-- [Reliance, Disney complete India media merger valued at $8.5B](https://techcrunch.com/2024/11/14/reliance-disney-complete-india-media-merger-valued-at-8-5-billion/)
-- [Could a supernova ever destroy Earth?](https://www.space.com/the-universe/stars/could-a-supernova-ever-destroy-earth)
+- [This Lego Star Wars Droideka set is now 20% off ahead of Black Friday](https://www.space.com/20-percent-off-lego-star-wars-droideka-deal-black-friday-2024)
+- [Meta slapped with a €798M fine in Europe, its biggest yet](https://techcrunch.com/2024/11/14/meta-slapped-with-a-e798m-fine-in-europe-its-biggest-yet/)
+- [Team-GPT raises$4.5M to offer suite of AI tools to companies](https://techcrunch.com/2024/11/14/team-gpt-raises4-5m-to-offer-suite-of-ai-tools-to-companies/)
+- [Influur wants to standout from other influencer marketplaces by promising timely payout](https://techcrunch.com/2024/11/14/influur-wants-to-standout-from-other-influencer-marketplaces-by-promising-timely/)
+- [Artemis 2&#39;s Orion capsule goes into altitude chamber to prep for 2025 moon mission &lpar;photo&rpar;](https://www.space.com/space-exploration/human-spaceflight/artemis-2s-orion-capsule-goes-into-altitude-chamber-to-prep-for-2025-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
