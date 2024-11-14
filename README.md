@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tessl raises $125M at at $500M+ valuation to build AI that writes and maintains code](https://techcrunch.com/2024/11/14/tessl-raises-125m-at-at-500m-valuation-to-build-ai-that-writes-and-maintains-code/)
+- [Atlas.co wants its web-based mapping tool to be the Figma of geospatial data](https://techcrunch.com/2024/11/14/atlas-co-wants-its-web-based-mapping-tool-to-be-the-figma-of-geospatial-data/)
+- [SpaceX launching 24 Starlink satellites today on 2nd leg of spaceflight doubleheader](https://www.space.com/spacex-starlink-launch-group-6-68)
 - [ePlane looks to ride the Indian government’s interest in air taxis with new $14M round](https://techcrunch.com/2024/11/13/eplane-looks-to-ride-the-indian-governments-interest-in-air-taxis-with-new-14m-round/)
 - [Apple faces UK ‘iCloud monopoly’ compensation claim worth $3.8 billion](https://techcrunch.com/2024/11/13/apple-faces-uk-icloud-monopoly-compensation-claim-worth-3-8-billion/)
-- [What’s DOGE? Musk’s new political appointment under Trump is a crypto joke](https://techcrunch.com/2024/11/13/whats-doge-musks-new-political-appointment-under-trump-is-a-crypto-joke/)
-- [Apple’s AI-powered Final Cut Pro 11 is now available](https://techcrunch.com/2024/11/13/apples-ai-powered-final-cut-pro-11-is-now-available/)
-- [All astronauts still in good health on ISS, NASA flight surgeon says amid new tabloid rumors](https://www.space.com/space-exploration/missions/all-astronauts-still-in-good-health-on-iss-nasa-flight-surgeon-says-amid-new-tabloid-rumors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
