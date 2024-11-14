@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rolls Starship Flight 6 Super Heavy rocket to pad ahead of Nov. 18 launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rolls-starship-flight-6-super-heavy-rocket-to-pad-ahead-of-nov-18-launch-photos)
 - [NASA rockets seed artificial clouds below glowing auroras in Norway &lpar;photo&rpar;](https://www.space.com/the-universe/earth/nasa-rockets-seed-artificial-clouds-below-glowing-auroras-in-norway-photo)
 - [Sam Altman and Arianna Huffington’s Thrive AI Health assistant has a bare-bones demo](https://techcrunch.com/2024/11/14/sam-altman-and-arianna-huffingtons-thrive-ai-health-assistant-has-a-bare-bones-demo/)
 - [How to use Bluesky, the Twitter-like app that’s taking on Elon Musk’s X](https://techcrunch.com/2024/11/14/how-to-use-bluesky-the-twitter-like-app-thats-taking-on-elon-musks-x/)
 - [Chinese autonomous driving startup Pony AI seeks up to $224M in US IPO](https://techcrunch.com/2024/11/14/chinese-autonomous-driving-startup-pony-ai-seeks-up-to-224m-in-us-ipo/)
-- [Bluesky is courting the Swifties](https://techcrunch.com/2024/11/14/bluesky-is-courting-the-swifties/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
