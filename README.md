@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [First quilter in space challenges students, crafters to stitch the moon](https://www.space.com/lunar-quilt-challenge-astronaut-karen-nyberg)
-- [Ecolectro stuffs hydrogen production into shipping containers to cut costs](https://techcrunch.com/2024/11/14/ecolectro-stuffs-hydrogen-production-into-shipping-containers-to-cut-costs/)
-- [AI pioneer François Chollet leaves Google](https://techcrunch.com/2024/11/14/ai-pioneer-francois-chollet-leaves-google/)
-- [BitSight buys dark web security specialist Cybersixgill for $115M](https://techcrunch.com/2024/11/14/bitsight-buys-dark-web-security-specialist-cybersixgill-for-115m/)
-- [Nearly half of AI data centers may not have enough power by 2027](https://techcrunch.com/2024/11/14/nearly-half-of-ai-data-centers-may-not-have-enough-power-by-2027/)
+- [Will Rivian be Volkswagen’s software savior? VW is betting $5.8B it will](https://techcrunch.com/2024/11/14/will-rivian-be-volkswagens-software-savior-vw-is-betting-5-8b-it-will/)
+- [Brilliant fireball explodes over North America as satellites capture flash from space &lpar;video&rpar;](https://www.space.com/stargazing/meteors-showers/brilliant-fireball-explodes-over-north-america-as-satellites-watch-video)
+- [ChatGPT can now read some of your Mac’s desktop apps](https://techcrunch.com/2024/11/14/chatgpt-can-now-read-some-of-your-macs-desktop-apps/)
+- [YouTube chases TikTok with new gifting feature for vertical livestreams](https://techcrunch.com/2024/11/14/youtube-chases-tiktok-with-new-gifting-feature-for-vertical-livestreams/)
+- [Is this the best Black Friday camera deal ever? The Canon EOS R5 is nearly $1500 off the MSRP](https://www.space.com/black-friday-2024-canon-eos-r5-deal-save-1500-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
