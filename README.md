@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reliance, Disney complete India media merger valued at $8.5 billion](https://techcrunch.com/2024/11/14/reliance-disney-complete-india-media-merger-valued-at-8-5-billion/)
 - [Could a supernova ever destroy Earth?](https://www.space.com/the-universe/stars/could-a-supernova-ever-destroy-earth)
 - [PayPal once again lets you pool money from others to pay for things together](https://techcrunch.com/2024/11/14/paypals-new-feature-will-let-you-easily-split-expenses-with-family-and-friends/)
 - [US confirms China-backed hackers breached telecom providers to steal wiretap data](https://techcrunch.com/2024/11/14/us-confirms-china-backed-hackers-breached-telecom-providers-to-steal-wiretap-data/)
 - [Tessl raises $125M at $500M+ valuation to build AI that writes and maintains code](https://techcrunch.com/2024/11/14/tessl-raises-125m-at-at-500m-valuation-to-build-ai-that-writes-and-maintains-code/)
-- [Atlas.co wants its web-based mapping tool to be the Figma of geospatial data](https://techcrunch.com/2024/11/14/atlas-co-wants-its-web-based-mapping-tool-to-be-the-figma-of-geospatial-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
