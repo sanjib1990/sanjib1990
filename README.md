@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Full NGINX Tutorial - Demo Project with Node.js, Docker](https://www.youtube.com/watch?v=q8OleYuqntY)
 - [SQLite and its weird new fork “libSQL”](https://www.youtube.com/watch?v=PGpL5hYpY1o)
 - [Lotfullah from Afghanistan: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=16Dd9TVWGP4)
 - [Modern CPUs Assign Registers To Speed Up Your Code - Computerphile](https://www.youtube.com/watch?v=Me0GF5zMfAk)
 - [Microsoft Notepad.exe is overpowered now… and 13 other major updates for devs](https://www.youtube.com/watch?v=qyCVCGg_3Ec)
-- [Bounded Differences Inequality &lpar;aka Azuma-Hoeffding Inequality&rpar;](https://www.youtube.com/watch?v=FUwr_EtcPIU)
 <!-- YOUTUBE:END -->
 
 ---
