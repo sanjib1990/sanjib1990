@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FAA creating new committee to update launch regulations](https://www.space.com/space-exploration/private-spaceflight/faa-creating-new-committee-to-update-launch-regulations)
-- [The $7,500 EV tax credit is on Trump’s chopping block](https://techcrunch.com/2024/11/14/the-7500-ev-tax-credit-is-on-trumps-chopping-block/)
-- [Ford will pay up to $165M fine for rearview camera recall failures](https://techcrunch.com/2024/11/14/ford-will-pay-up-to-165m-fine-for-rearview-camera-recall-failures/)
-- [Asteroid pieces brought to Earth help reveal how our solar system&#39;s planets and moons grew](https://www.space.com/the-universe/asteroids/asteroid-pieces-brought-to-earth-help-reveal-how-our-solar-systems-planets-and-moons-grew)
-- [‘Hawk Tuah’ girl launches Pookie Tools, an AI-powered dating advice app, and it’s fine?](https://techcrunch.com/2024/11/14/hawk-tuah-girl-launches-pookie-tool-an-ai-powered-dating-advice-app-and-its-fine/)
+- [NASA rockets seed artificial clouds below glowing auroras in Norway &lpar;photo&rpar;](https://www.space.com/the-universe/earth/nasa-rockets-seed-artificial-clouds-below-glowing-auroras-in-norway-photo)
+- [Sam Altman and Arianna Huffington’s Thrive AI Health assistant has a bare-bones demo](https://techcrunch.com/2024/11/14/sam-altman-and-arianna-huffingtons-thrive-ai-health-assistant-has-a-bare-bones-demo/)
+- [How to use Bluesky, the Twitter-like app that’s taking on Elon Musk’s X](https://techcrunch.com/2024/11/14/how-to-use-bluesky-the-twitter-like-app-thats-taking-on-elon-musks-x/)
+- [Chinese autonomous driving startup Pony AI seeks up to $224M in US IPO](https://techcrunch.com/2024/11/14/chinese-autonomous-driving-startup-pony-ai-seeks-up-to-224m-in-us-ipo/)
+- [Bluesky is courting the Swifties](https://techcrunch.com/2024/11/14/bluesky-is-courting-the-swifties/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
