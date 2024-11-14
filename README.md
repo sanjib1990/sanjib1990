@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mission Space launches next quarter to provide real-time space weather forecasts](https://techcrunch.com/2024/11/14/mission-space-launches-next-quarter-to-provide-real-time-space-weather-forecasts/)
-- [SwiftConnect lets workers access the office with a smartphone swipe](https://techcrunch.com/2024/11/14/swiftconnect-lets-workers-access-the-office-with-a-smartphone-swipe/)
-- [Mach9 is equipping infrastructure operators with better information](https://techcrunch.com/2024/11/14/mach9-is-equipping-infrastructure-operators-with-better-information/)
-- [Mobile browser Arc Search is now generally available on Android](https://techcrunch.com/2024/11/14/the-browser-company-makes-arc-search-for-android-generally-available-as-it-thinks-about-other-products/)
-- [&#39;Hawking radiation&#39; may be erasing black holes. Watching it happen could reveal new physics.](https://www.space.com/the-universe/hawking-radiation-may-be-erasing-black-holes-watching-it-happen-could-reveal-new-physics)
+- [AI pioneer Francois Chollet leaves Google](https://techcrunch.com/2024/11/14/ai-pioneer-francois-chollet-leaves-google/)
+- [BitSight buys dark web security specialist Cybersixgill for $115M](https://techcrunch.com/2024/11/14/bitsight-buys-dark-web-security-specialist-cybersixgill-for-115m/)
+- [Nearly half of AI data centers may not have enough power by 2027](https://techcrunch.com/2024/11/14/nearly-half-of-ai-data-centers-may-not-have-enough-power-by-2027/)
+- [EU AI Act: Draft guidance for general purpose AIs shows first steps for Big AI to comply](https://techcrunch.com/2024/11/14/eu-ai-act-draft-guidance-for-general-purpose-ais-shows-first-steps-for-big-ai-to-comply/)
+- [&#39;Star Trek: Lower Decks&#39; Season 5 episode 5: What&#39;s the problem with Starbase 80?](https://www.space.com/entertainment/star-trek-lower-decks-season-5-episode-5-whats-the-problem-with-starbase-80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
