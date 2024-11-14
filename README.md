@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Let AI handle the dumb tickets](https://www.youtube.com/watch?v=o3dh-tCEN5s)
+- [Let AI handle the dumb tickets](https://www.youtube.com/watch?v=UNTZ0rouDaQ)
 - [Full NGINX Tutorial - Demo Project with Node.js, Docker](https://www.youtube.com/watch?v=q8OleYuqntY)
 - [SQLite and its weird new fork “libSQL”](https://www.youtube.com/watch?v=PGpL5hYpY1o)
 - [Lotfullah from Afghanistan: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=16Dd9TVWGP4)
