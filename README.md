@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Lego Star Wars Droideka set is now 20% off ahead of Black Friday](https://www.space.com/20-percent-off-lego-star-wars-droideka-deal-black-friday-2024)
-- [Meta slapped with a €798M fine in Europe, its biggest yet](https://techcrunch.com/2024/11/14/meta-slapped-with-a-e798m-fine-in-europe-its-biggest-yet/)
-- [Team-GPT raises$4.5M to offer suite of AI tools to companies](https://techcrunch.com/2024/11/14/team-gpt-raises4-5m-to-offer-suite-of-ai-tools-to-companies/)
-- [Influur wants to standout from other influencer marketplaces by promising timely payout](https://techcrunch.com/2024/11/14/influur-wants-to-standout-from-other-influencer-marketplaces-by-promising-timely/)
-- [Artemis 2&#39;s Orion capsule goes into altitude chamber to prep for 2025 moon mission &lpar;photo&rpar;](https://www.space.com/space-exploration/human-spaceflight/artemis-2s-orion-capsule-goes-into-altitude-chamber-to-prep-for-2025-moon-mission)
+- [Mission Space launches next quarter to provide real-time space weather forecasts](https://techcrunch.com/2024/11/14/mission-space-launches-next-quarter-to-provide-real-time-space-weather-forecasts/)
+- [SwiftConnect lets workers access the office with a smartphone swipe](https://techcrunch.com/2024/11/14/swiftconnect-lets-workers-access-the-office-with-a-smartphone-swipe/)
+- [Mach9 is equipping infrastructure operators with better information](https://techcrunch.com/2024/11/14/mach9-is-equipping-infrastructure-operators-with-better-information/)
+- [Mobile browser Arc Search is now generally available on Android](https://techcrunch.com/2024/11/14/the-browser-company-makes-arc-search-for-android-generally-available-as-it-thinks-about-other-products/)
+- [&#39;Hawking radiation&#39; may be erasing black holes. Watching it happen could reveal new physics.](https://www.space.com/the-universe/hawking-radiation-may-be-erasing-black-holes-watching-it-happen-could-reveal-new-physics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
