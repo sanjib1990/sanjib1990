@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA creating new committee to update launch regulations](https://www.space.com/space-exploration/private-spaceflight/faa-creating-new-committee-to-update-launch-regulations)
+- [The $7,500 EV tax credit is on Trump’s chopping block](https://techcrunch.com/2024/11/14/the-7500-ev-tax-credit-is-on-trumps-chopping-block/)
 - [Ford will pay up to $165M fine for rearview camera recall failures](https://techcrunch.com/2024/11/14/ford-will-pay-up-to-165m-fine-for-rearview-camera-recall-failures/)
 - [Asteroid pieces brought to Earth help reveal how our solar system&#39;s planets and moons grew](https://www.space.com/the-universe/asteroids/asteroid-pieces-brought-to-earth-help-reveal-how-our-solar-systems-planets-and-moons-grew)
-- [‘Hawk Tuah’ girl launches Pookie Tool, an AI-powered dating advice app, and it’s fine?](https://techcrunch.com/2024/11/14/hawk-tuah-girl-launches-pookie-tool-an-ai-powered-dating-advice-app-and-its-fine/)
-- [China launching Tianzhou 8 cargo mission to Tiangong space station on Nov. 15](https://www.space.com/china-tianzhou-8-cargo-launch-tiangong-space-station)
-- [Will Rivian be Volkswagen’s software savior? VW is betting $5.8B it will](https://techcrunch.com/2024/11/14/will-rivian-be-volkswagens-software-savior-vw-is-betting-5-8b-it-will/)
+- [‘Hawk Tuah’ girl launches Pookie Tools, an AI-powered dating advice app, and it’s fine?](https://techcrunch.com/2024/11/14/hawk-tuah-girl-launches-pookie-tool-an-ai-powered-dating-advice-app-and-its-fine/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
