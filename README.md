@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI pioneer Francois Chollet leaves Google](https://techcrunch.com/2024/11/14/ai-pioneer-francois-chollet-leaves-google/)
+- [First quilter in space challenges students, crafters to stitch the moon](https://www.space.com/lunar-quilt-challenge-astronaut-karen-nyberg)
+- [Ecolectro stuffs hydrogen production into shipping containers to cut costs](https://techcrunch.com/2024/11/14/ecolectro-stuffs-hydrogen-production-into-shipping-containers-to-cut-costs/)
+- [AI pioneer François Chollet leaves Google](https://techcrunch.com/2024/11/14/ai-pioneer-francois-chollet-leaves-google/)
 - [BitSight buys dark web security specialist Cybersixgill for $115M](https://techcrunch.com/2024/11/14/bitsight-buys-dark-web-security-specialist-cybersixgill-for-115m/)
 - [Nearly half of AI data centers may not have enough power by 2027](https://techcrunch.com/2024/11/14/nearly-half-of-ai-data-centers-may-not-have-enough-power-by-2027/)
-- [EU AI Act: Draft guidance for general purpose AIs shows first steps for Big AI to comply](https://techcrunch.com/2024/11/14/eu-ai-act-draft-guidance-for-general-purpose-ais-shows-first-steps-for-big-ai-to-comply/)
-- [&#39;Star Trek: Lower Decks&#39; Season 5 episode 5: What&#39;s the problem with Starbase 80?](https://www.space.com/entertainment/star-trek-lower-decks-season-5-episode-5-whats-the-problem-with-starbase-80)
 <!-- BLOG-POST-LIST:END -->
 
 ---
