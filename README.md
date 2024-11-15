@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [‘I went to Greenland to try to buy it’: Meet the founder who wants to re-create Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/)
+- [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/)
+- [The ISS has been leaking for 5 years. NASA and Russia disagree on how to fix it](https://www.space.com/space-exploration/international-space-station/the-iss-has-been-leaking-for-5-years-nasa-and-russia-disagree-on-how-to-fix-it)
+- [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/)
 - [Think you need a VPN? Start here.](https://techcrunch.com/2024/11/15/think-you-need-a-vpn-guide-start-here/)
 - [UFOs &#39;not attributable to foreign adversaries,&quot; new Pentagon report says](https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says)
-- [‘AI granny’ scambaiter wastes telephone fraudsters’ time with boring chat](https://techcrunch.com/2024/11/15/ai-granny-scambaiter-wastes-telephone-fraudsters-time-with-boring-chat/)
-- [Drone manufacturer Skydio raises $170 million extension round](https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
