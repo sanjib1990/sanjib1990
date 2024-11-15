@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘I went to Greenland to try to buy it’: Meet the founder who wants to re-create Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/)
+- [Think you need a VPN? Start here.](https://techcrunch.com/2024/11/15/think-you-need-a-vpn-guide-start-here/)
+- [UFOs &#39;not attributable to foreign adversaries,&quot; new Pentagon report says](https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says)
 - [‘AI granny’ scambaiter wastes telephone fraudsters’ time with boring chat](https://techcrunch.com/2024/11/15/ai-granny-scambaiter-wastes-telephone-fraudsters-time-with-boring-chat/)
 - [Drone manufacturer Skydio raises $170 million extension round](https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/)
-- [Lava could light up the James Webb Space Telescope&#39;s search for watery exoplanets](https://www.space.com/space-exploration/james-webb-space-telescope/lava-could-light-up-james-webb-space-telescopes-search-for-watery-exoplanets)
-- [After raising nearly half a billion, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-abl-space-pivots-from-launch-vehicles-to-missiles/)
-- [Microsoft bets a carbon removal bake-off will help offset its skyrocketing AI emissions](https://techcrunch.com/2024/11/15/microsoft-bets-a-carbon-removal-bake-off-will-help-offset-its-skyrocketing-ai-emissions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
