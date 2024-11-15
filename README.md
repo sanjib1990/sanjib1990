@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroku CEO Bob Wise departs](https://techcrunch.com/2024/11/14/heroku-ceo-bob-wise-departs/)
+- [Tech leaders recommend colleagues for Trump’s cabinet](https://techcrunch.com/2024/11/14/tech-leaders-recommend-colleagues-for-trumps-cabinet/)
+- [FTC reportedly begins investigating Microsoft’s cloud business practices](https://techcrunch.com/2024/11/14/ftc-reportedly-begins-investigating-microsofts-cloud-business-practices/)
 - [SpaceX rolls Starship Flight 6 Super Heavy rocket to pad ahead of Nov. 18 launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rolls-starship-flight-6-super-heavy-rocket-to-pad-ahead-of-nov-18-launch-photos)
 - [NASA rockets seed artificial clouds below glowing auroras in Norway &lpar;photo&rpar;](https://www.space.com/the-universe/earth/nasa-rockets-seed-artificial-clouds-below-glowing-auroras-in-norway-photo)
-- [Sam Altman and Arianna Huffington’s Thrive AI Health assistant has a bare-bones demo](https://techcrunch.com/2024/11/14/sam-altman-and-arianna-huffingtons-thrive-ai-health-assistant-has-a-bare-bones-demo/)
-- [How to use Bluesky, the Twitter-like app that’s taking on Elon Musk’s X](https://techcrunch.com/2024/11/14/how-to-use-bluesky-the-twitter-like-app-thats-taking-on-elon-musks-x/)
-- [Chinese autonomous driving startup Pony AI seeks up to $224M in US IPO](https://techcrunch.com/2024/11/14/chinese-autonomous-driving-startup-pony-ai-seeks-up-to-224m-in-us-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
