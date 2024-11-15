@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanoid robot may fly on China&#39;s Chang&#39;e 8 moon mission in 2028](https://www.space.com/the-universe/moon/humanoid-robot-may-fly-on-chinas-change-8-moon-mission-in-2028)
+- [How social app Spill plans to capitalize on the exodus from X](https://techcrunch.com/2024/11/15/how-social-app-spill-plans-to-capitalize-on-the-exodus-from-x/)
+- [As Bluesky surges, Threads begins testing custom feeds](https://techcrunch.com/2024/11/15/as-bluesky-surges-threads-begins-testing-custom-feeds/)
+- [&#39;Silo&#39; returns for season 2 on Apple TV+: What&#39;s in store for Juliette and the Silo 18 survivors?](https://www.space.com/entertainment/silo-returns-for-season-2-on-apple-tv-whats-in-store-for-juliette-and-the-silo-18-survivors)
 - [Blue Origin&#39;s New Glenn rocket to launch AST SpaceMobile&#39;s huge BlueBird smartphone satellites](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-to-launch-ast-spacemobiles-huge-bluebird-smartphone-satellites)
-- [JobGet, a ‘LinkedIn’ for hourly workers, acquires rival Snagajob](https://techcrunch.com/2024/11/15/jobget-a-linkedin-for-hourly-workers-acquires-rival-snagajob/)
-- [Meghan Markle is expanding her consumer portfolio](https://techcrunch.com/2024/11/15/meghan-markle-is-expanding-her-consumer-portfolio/)
-- [GM’s Cruise to pay $500,000 fine to DOJ, admits submitting false report](https://techcrunch.com/2024/11/15/gms-cruise-to-pay-500000-fine-to-doj-admits-submitting-false-report/)
-- [The Leonid meteor shower peaks this weekend. Are &#39;shooting stars&#39; in the forecast for 2024?](https://www.space.com/stargazing/meteors-showers/the-leonid-meteor-shower-peaks-this-weekend-are-shooting-stars-in-the-forecast-for-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
