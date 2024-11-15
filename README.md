@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora activity is just getting started. Here&#39;s why the best northern lights are yet to come.](https://www.space.com/stargazing/aurora-borealis/aurora-activity-is-just-getting-started-heres-why-the-best-northern-lights-are-yet-to-come)
-- [Did NASA&#39;s Viking landers accidentally kill life on Mars? Why one scientist thinks so](https://www.space.com/space-exploration/search-for-life/did-nasas-viking-landers-accidentally-kill-life-on-mars-why-one-scientist-thinks-so)
-- [Musk’s amended lawsuit against OpenAI names Microsoft as defendant](https://techcrunch.com/2024/11/14/musks-amended-lawsuit-against-openai-names-microsoft-as-defendant/)
-- [Bluesky says 1 million people signed up for the platform in last 24 hours](https://techcrunch.com/2024/11/14/bluesky-says-1-million-people-signed-up-for-the-platform-in-last-24-hours/)
-- [Heroku CEO Bob Wise departs](https://techcrunch.com/2024/11/14/heroku-ceo-bob-wise-departs/)
+- [Meghan Markle is expanding her consumer portfolio](https://techcrunch.com/2024/11/15/meghan-markle-is-expanding-her-consumer-portfolio/)
+- [GM’s Cruise to pay $500,000 fine to DOJ, admits submitting false report](https://techcrunch.com/2024/11/15/gms-cruise-to-pay-500000-fine-to-doj-admits-submitting-false-report/)
+- [The Leonid meteor shower peaks this weekend. Are &#39;shooting stars&#39; in the forecast for 2024?](https://www.space.com/stargazing/meteors-showers/the-leonid-meteor-shower-peaks-this-weekend-are-shooting-stars-in-the-forecast-for-2024)
+- [Angel investor Hannah Bronfman is ready to launch her own fund](https://techcrunch.com/2024/11/15/angel-investor-hannah-bronfman-is-ready-to-launch-her-own-fund/)
+- [Google tests removing news articles from search in EU, but it’s already backfiring](https://techcrunch.com/2024/11/15/google-wants-to-test-removing-news-articles-from-search-in-eu-but-it-is-already-backfiring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
