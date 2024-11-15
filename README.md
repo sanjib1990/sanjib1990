@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Donald Trump&#39;s approach to US space policy could throw up some surprises, especially with Elon Musk on board](https://www.space.com/space-exploration/donald-trumps-approach-to-us-space-policy-could-throw-up-some-surprises-especially-with-elon-musk-on-board)
-- [X sues to block California anti-deepfakes bill](https://techcrunch.com/2024/11/15/x-sues-to-block-california-anti-deepfakes-bill/)
-- [General Motors slashes another 1,000 jobs to cut costs](https://techcrunch.com/2024/11/15/general-motors-slashes-another-1000-jobs-to-cut-costs/)
-- [Humanoid robot may fly on China&#39;s Chang&#39;e 8 moon mission in 2028](https://www.space.com/the-universe/moon/humanoid-robot-may-fly-on-chinas-change-8-moon-mission-in-2028)
-- [How social app Spill plans to capitalize on the exodus from X](https://techcrunch.com/2024/11/15/how-social-app-spill-plans-to-capitalize-on-the-exodus-from-x/)
+- [‘AI granny’ scambaiter wastes telephone fraudsters’ time with boring chat](https://techcrunch.com/2024/11/15/ai-granny-scambaiter-wastes-telephone-fraudsters-time-with-boring-chat/)
+- [Drone manufacturer Skydio raises $170 million extension round](https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/)
+- [Lava could light up the James Webb Space Telescope&#39;s search for watery exoplanets](https://www.space.com/space-exploration/james-webb-space-telescope/lava-could-light-up-james-webb-space-telescopes-search-for-watery-exoplanets)
+- [After raising nearly half a billion, ABL Space pivots from launch vehicles to missiles](https://techcrunch.com/2024/11/15/after-raising-nearly-half-a-billion-abl-space-pivots-from-launch-vehicles-to-missiles/)
+- [Microsoft bets a carbon removal bake-off will help offset its skyrocketing AI emissions](https://techcrunch.com/2024/11/15/microsoft-bets-a-carbon-removal-bake-off-will-help-offset-its-skyrocketing-ai-emissions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
