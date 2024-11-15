@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Musk’s amended lawsuit against OpenAI names Microsoft as defendent](https://techcrunch.com/2024/11/14/musks-amended-lawsuit-against-openai-names-microsoft-as-defendent/)
 - [Bluesky says 1 million people signed up for the platform in last 24 hours](https://techcrunch.com/2024/11/14/bluesky-says-1-million-people-signed-up-for-the-platform-in-last-24-hours/)
 - [Heroku CEO Bob Wise departs](https://techcrunch.com/2024/11/14/heroku-ceo-bob-wise-departs/)
 - [Tech leaders recommend colleagues for Trump’s cabinet](https://techcrunch.com/2024/11/14/tech-leaders-recommend-colleagues-for-trumps-cabinet/)
 - [FTC reportedly begins investigating Microsoft’s cloud business practices](https://techcrunch.com/2024/11/14/ftc-reportedly-begins-investigating-microsofts-cloud-business-practices/)
-- [SpaceX rolls Starship Flight 6 Super Heavy rocket to pad ahead of Nov. 18 launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rolls-starship-flight-6-super-heavy-rocket-to-pad-ahead-of-nov-18-launch-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
