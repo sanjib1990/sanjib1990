@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
+- [What time is SpaceX&#39;s Starship Flight 6 launch test on Nov. 18?](https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacexs-starship-flight-6-launch-test-on-nov-18)
 - [Next Blue Origin space tourism flight will launch &#39;Space Gal&#39; Emily Calandrelli](https://www.space.com/space-exploration/private-spaceflight/next-blue-origin-space-tourism-flight-will-launch-space-gal-emily-calandrelli)
 - [Unlike X, Bluesky says it won’t train AI on your posts](https://techcrunch.com/2024/11/15/unlike-x-bluesky-says-it-wont-train-ai-on-your-posts/)
 - [Europe&#39;s Hera asteroid probe heads for Mars after engine burn](https://www.space.com/space-exploration/launches-spacecraft/europes-hera-asteroid-probe-heads-for-mars-after-engine-burn)
-- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/15/what-is-bluesky-everything-to-know-about-the-x-competitor/)
-- [Mars meteorite found in drawer reveals history of water on Red Planet](https://www.space.com/the-universe/mars/mars-meteorite-found-in-drawer-reveals-history-of-water-on-red-planet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
