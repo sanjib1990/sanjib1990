@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars meteorite found in drawer reveals history of water on Red Planet](https://www.space.com/the-universe/mars/mars-meteorite-found-in-drawer-reveals-history-of-water-on-red-planet)
+- [NSO Group admits cutting off 10 customers because they abused its Pegasus spyware, say unsealed court documents](https://techcrunch.com/2024/11/15/nso-group-admits-cutting-off-10-customers-because-they-abused-its-pegasus-spyware-say-unsealed-court-documents/)
+- [OpenAI at one point considered acquiring AI chip startup Cerebras](https://techcrunch.com/2024/11/15/openai-at-one-point-considered-acquiring-ai-chip-startup-cerebras/)
 - [The US IPO window hasn’t reopened yet, but startups take what they can](https://techcrunch.com/2024/11/15/the-us-ipo-window-hasnt-reopened-yet-but-startups-take-what-they-can/)
 - [The ISS has been leaking for 5 years. NASA and Russia disagree on how to fix it](https://www.space.com/space-exploration/international-space-station/the-iss-has-been-leaking-for-5-years-nasa-and-russia-disagree-on-how-to-fix-it)
-- [‘I went to Greenland to try to buy it’: Meet the founder who wants to recreate Mars on Earth](https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/)
-- [Think you need a VPN? Start here.](https://techcrunch.com/2024/11/15/think-you-need-a-vpn-guide-start-here/)
-- [UFOs &#39;not attributable to foreign adversaries,&quot; new Pentagon report says](https://www.space.com/space-exploration/search-for-life/ufos-not-attributable-to-foreign-adversaries-new-pentagon-report-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
