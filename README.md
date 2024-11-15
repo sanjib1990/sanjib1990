@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Donald Trump&#39;s approach to US space policy could throw up some surprises, especially with Elon Musk on board](https://www.space.com/space-exploration/donald-trumps-approach-to-us-space-policy-could-throw-up-some-surprises-especially-with-elon-musk-on-board)
+- [X sues to block California anti-deepfakes bill](https://techcrunch.com/2024/11/15/x-sues-to-block-california-anti-deepfakes-bill/)
+- [General Motors slashes another 1,000 jobs to cut costs](https://techcrunch.com/2024/11/15/general-motors-slashes-another-1000-jobs-to-cut-costs/)
 - [Humanoid robot may fly on China&#39;s Chang&#39;e 8 moon mission in 2028](https://www.space.com/the-universe/moon/humanoid-robot-may-fly-on-chinas-change-8-moon-mission-in-2028)
 - [How social app Spill plans to capitalize on the exodus from X](https://techcrunch.com/2024/11/15/how-social-app-spill-plans-to-capitalize-on-the-exodus-from-x/)
-- [As Bluesky surges, Threads begins testing custom feeds](https://techcrunch.com/2024/11/15/as-bluesky-surges-threads-begins-testing-custom-feeds/)
-- [&#39;Silo&#39; returns for season 2 on Apple TV+: What&#39;s in store for Juliette and the Silo 18 survivors?](https://www.space.com/entertainment/silo-returns-for-season-2-on-apple-tv-whats-in-store-for-juliette-and-the-silo-18-survivors)
-- [Blue Origin&#39;s New Glenn rocket to launch AST SpaceMobile&#39;s huge BlueBird smartphone satellites](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-to-launch-ast-spacemobiles-huge-bluebird-smartphone-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
