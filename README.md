@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin&#39;s New Glenn rocket to launch AST SpaceMobile&#39;s huge BlueBird smartphone satellites](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-to-launch-ast-spacemobiles-huge-bluebird-smartphone-satellites)
+- [JobGet, a ‘LinkedIn’ for hourly workers, acquires rival Snagajob](https://techcrunch.com/2024/11/15/jobget-a-linkedin-for-hourly-workers-acquires-rival-snagajob/)
 - [Meghan Markle is expanding her consumer portfolio](https://techcrunch.com/2024/11/15/meghan-markle-is-expanding-her-consumer-portfolio/)
 - [GM’s Cruise to pay $500,000 fine to DOJ, admits submitting false report](https://techcrunch.com/2024/11/15/gms-cruise-to-pay-500000-fine-to-doj-admits-submitting-false-report/)
 - [The Leonid meteor shower peaks this weekend. Are &#39;shooting stars&#39; in the forecast for 2024?](https://www.space.com/stargazing/meteors-showers/the-leonid-meteor-shower-peaks-this-weekend-are-shooting-stars-in-the-forecast-for-2024)
-- [Angel investor Hannah Bronfman is ready to launch her own fund](https://techcrunch.com/2024/11/15/angel-investor-hannah-bronfman-is-ready-to-launch-her-own-fund/)
-- [Google tests removing news articles from search in EU, but it’s already backfiring](https://techcrunch.com/2024/11/15/google-wants-to-test-removing-news-articles-from-search-in-eu-but-it-is-already-backfiring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
