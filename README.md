@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Documentary director redefines astronaut Eileen Collins as the &#39;Spacewoman&#39; &lpar;interview&rpar;](https://www.space.com/spacewoman-documentary-astronaut-eileen-collins-director-interview)
+- [EU AI Act: Everything you need to know](https://techcrunch.com/2024/11/16/eu-ai-act-everything-you-need-to-know/)
 - [USC students set world record with high-flying rocket launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/usc-students-set-world-record-with-high-flying-rocket-launch-video)
 - [SpaceX stacks Flight 6 Starship megarocket ahead of Nov. 19 launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-flight-6-starship-megarocket-photos)
 - [‘AI Granny’ is happy to talk with phone scammers all day](https://techcrunch.com/2024/11/15/ai-granny-is-happy-to-talk-with-phone-scammers-all-day/)
-- [Former TuSimple co-founder urges courts to block asset transfer to China](https://techcrunch.com/2024/11/15/former-tusimple-co-founder-urges-courts-to-block-asset-transfer-to-china/)
-- [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
