@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘AI Granny’ is happy to talk with phone scammers all day](https://techcrunch.com/2024/11/15/ai-granny-is-happy-to-talk-with-phone-scammers-all-day/)
 - [Former TuSimple co-founder urges courts to block asset transfer to China](https://techcrunch.com/2024/11/15/former-tusimple-co-founder-urges-courts-to-block-asset-transfer-to-china/)
 - [OpenAI’s tumultuous early years revealed in emails from Musk, Altman, and others](https://techcrunch.com/2024/11/15/openais-tumultuous-early-years-revealed-in-emails-from-musk-altman-and-others/)
 - [Here’s the full list of 44 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
 - [What time is SpaceX&#39;s Starship Flight 6 launch test on Nov. 18?](https://www.space.com/space-exploration/launches-spacecraft/what-time-is-spacexs-starship-flight-6-launch-test-on-nov-18)
-- [Next Blue Origin space tourism flight will launch &#39;Space Gal&#39; Emily Calandrelli](https://www.space.com/space-exploration/private-spaceflight/next-blue-origin-space-tourism-flight-will-launch-space-gal-emily-calandrelli)
 <!-- BLOG-POST-LIST:END -->
 
 ---
