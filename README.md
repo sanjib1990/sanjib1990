@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What a second Trump term means for the future of ransomware](https://techcrunch.com/2024/11/16/what-a-second-trump-term-means-for-the-future-of-ransomware/)
+- [Where did the universe&#39;s magnetic fields come from?](https://www.space.com/the-universe/where-did-the-universes-magnetic-fields-come-from)
+- [This Week In Space podcast: Episode 137 —Strange New Worlds](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-137-strange-new-worlds)
 - [Documentary director redefines astronaut Eileen Collins as the &#39;Spacewoman&#39; &lpar;interview&rpar;](https://www.space.com/spacewoman-documentary-astronaut-eileen-collins-director-interview)
 - [EU AI Act: Everything you need to know](https://techcrunch.com/2024/11/16/eu-ai-act-everything-you-need-to-know/)
-- [USC students set world record with high-flying rocket launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/usc-students-set-world-record-with-high-flying-rocket-launch-video)
-- [SpaceX stacks Flight 6 Starship megarocket ahead of Nov. 19 launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-flight-6-starship-megarocket-photos)
-- [‘AI Granny’ is happy to talk with phone scammers all day](https://techcrunch.com/2024/11/15/ai-granny-is-happy-to-talk-with-phone-scammers-all-day/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
