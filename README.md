@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best gifts for frequent travelers](https://techcrunch.com/2024/11/16/best-gifts-for-frequent-travelers/)
+- [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/)
 - [Botinkit’s robot wants to cook for you](https://techcrunch.com/2024/11/16/botinkits-robot-wants-to-cook-for-you/)
 - [SpaceX Starship: Everything you’ve ever wondered but were afraid to ask](https://techcrunch.com/2024/11/16/spacex-starship-everything-youve-ever-wondered-but-were-afraid-to-ask/)
 - [Last supermoon of 2024 wows skywatchers around the world with Full Beaver Moon &lpar;photos&rpar;](https://www.space.com/stargazing/last-supermoon-of-2024-wows-skywatchers-around-the-world-with-full-beaver-moon-photos)
-- [T-Mobile says it was hacked, linked to Chinese breaches of telecom networks](https://techcrunch.com/2024/11/16/t-mobile-says-it-was-hacked-linked-to-chinese-breaches-of-telecom-networks/)
-- [What a second Trump term means for the future of ransomware](https://techcrunch.com/2024/11/16/what-a-second-trump-term-means-for-the-future-of-ransomware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
