@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/)
 - [Best gifts for frequent travelers](https://techcrunch.com/2024/11/16/best-gifts-for-frequent-travelers/)
 - [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/)
 - [Botinkit’s robot wants to cook for you](https://techcrunch.com/2024/11/16/botinkits-robot-wants-to-cook-for-you/)
 - [SpaceX Starship: Everything you’ve ever wondered but were afraid to ask](https://techcrunch.com/2024/11/16/spacex-starship-everything-youve-ever-wondered-but-were-afraid-to-ask/)
-- [Last supermoon of 2024 wows skywatchers around the world with Full Beaver Moon &lpar;photos&rpar;](https://www.space.com/stargazing/last-supermoon-of-2024-wows-skywatchers-around-the-world-with-full-beaver-moon-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
