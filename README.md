@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Exploration Company raises $160M to build Europe’s answer to SpaceX Dragon](https://techcrunch.com/2024/11/17/the-exploration-company-raises-160m-to-build-europes-answer-to-spacex-dragon/)
 - [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/)
 - [SpaceX launching 20 Starlink satellites from California early Nov. 18](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-20-starlink-satellites-from-california-november-2024)
 - [Precursor’s Charles Hudson believes founders should test their investors](https://techcrunch.com/2024/11/17/2916508/)
 - [Robust AI’s Carter Pro robot is designed to work with, and be moved by, humans](https://techcrunch.com/2024/11/17/robust-ais-carter-pro-robot-is-designed-to-work-with-and-be-moved-by-humans/)
-- [SpaceX launching telecom satellite from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-telecom-satellite-from-florida-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
