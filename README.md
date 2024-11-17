@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robust AI’s Carter Pro robot is designed to work with, and be moved by, humans](https://techcrunch.com/2024/11/17/robust-ais-carter-pro-robot-is-designed-to-work-with-and-be-moved-by-humans/)
+- [SpaceX launching telecom satellite from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-telecom-satellite-from-florida-today)
 - [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/)
 - [Why does everything look flat even though the Earth is round?](https://www.space.com/the-universe/earth/why-does-everything-look-flat-even-though-the-earth-is-round)
 - [The best tech for plant lovers](https://techcrunch.com/2024/11/17/the-best-tech-for-plant-lovers/)
-- [Space-flown Choctaw Nation seeds to be planted on Earth for STEM experiment](https://www.space.com/the-universe/space-flown-choctaw-nation-seeds-to-be-planted-on-earth-for-stem-experiment)
-- [&#39;Lunik Heist:&#39; A real-life CIA rocket kidnapping goes to Hollywood](https://www.space.com/space-exploration/launches-spacecraft/lunik-heist-a-real-life-cia-rocket-kidnapping-goes-to-hollywood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
