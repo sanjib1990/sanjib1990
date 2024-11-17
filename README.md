@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space-flown Choctaw Nation seeds to be planted on Earth for STEM experiment](https://www.space.com/the-universe/space-flown-choctaw-nation-seeds-to-be-planted-on-earth-for-stem-experiment)
 - [&#39;Lunik Heist:&#39; A real-life CIA rocket kidnapping goes to Hollywood](https://www.space.com/space-exploration/launches-spacecraft/lunik-heist-a-real-life-cia-rocket-kidnapping-goes-to-hollywood)
 - [Consumer tech is bouncing back, and consumer founders like Brynn Putnam are bouncing back with it](https://techcrunch.com/2024/11/16/consumer-tech-is-bouncing-back-and-consumer-founders-like-brynn-putnam-are-bouncing-back-with-it/)
 - [Jake Paul vs Mike Tyson fight shows Netflix still struggles with live events](https://techcrunch.com/2024/11/16/jake-paul-vs-mike-tyson-fight-shows-netflix-still-struggles-with-live-events/)
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/)
-- [Best gifts for frequent travelers](https://techcrunch.com/2024/11/16/best-gifts-for-frequent-travelers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
