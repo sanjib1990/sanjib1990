@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/)
+- [SpaceX launching 20 Starlink satellites from California early Nov. 18](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-20-starlink-satellites-from-california-november-2024)
+- [Precursor’s Charles Hudson believes founders should test their investors](https://techcrunch.com/2024/11/17/2916508/)
 - [Robust AI’s Carter Pro robot is designed to work with, and be moved by, humans](https://techcrunch.com/2024/11/17/robust-ais-carter-pro-robot-is-designed-to-work-with-and-be-moved-by-humans/)
 - [SpaceX launching telecom satellite from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-telecom-satellite-from-florida-today)
-- [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/)
-- [Why does everything look flat even though the Earth is round?](https://www.space.com/the-universe/earth/why-does-everything-look-flat-even-though-the-earth-is-round)
-- [The best tech for plant lovers](https://techcrunch.com/2024/11/17/the-best-tech-for-plant-lovers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
