@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Consumer tech is bouncing back, and consumer founders like Brynn Putnam are bouncing back with it](https://techcrunch.com/2024/11/16/consumer-tech-is-bouncing-back-and-consumer-founders-like-brynn-putnam-are-bouncing-back-with-it/)
 - [Jake Paul vs Mike Tyson fight shows Netflix still struggles with live events](https://techcrunch.com/2024/11/16/jake-paul-vs-mike-tyson-fight-shows-netflix-still-struggles-with-live-events/)
 - [Disgruntled X users make the switch to Bluesky](https://techcrunch.com/2024/11/16/disgruntled-x-users-make-the-switch-to-bluesky/)
 - [Best gifts for frequent travelers](https://techcrunch.com/2024/11/16/best-gifts-for-frequent-travelers/)
 - [TikTok parent ByteDance reportedly values itself at $300 billion](https://techcrunch.com/2024/11/16/tiktok-parent-bytedance-reportedly-values-itself-at-300-billion/)
-- [Botinkit’s robot wants to cook for you](https://techcrunch.com/2024/11/16/botinkits-robot-wants-to-cook-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
