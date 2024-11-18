@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gadget lover Marc Benioff says his favorite gadget these days is his cars and trucks](https://techcrunch.com/2024/11/18/gadget-lover-marc-benioff-says-his-favorite-gadget-these-days-is-his-cars-and-trucks/)
+- [Hail Mary! AI in the confessional](https://techcrunch.com/2024/11/18/hail-mary-ai-in-the-confessional/)
+- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/)
 - [Aurora forecast: Will the northern lights be visible tonight?](https://www.space.com/live/aurora-forecast-will-the-northern-lights-be-visible-tonight)
 - [ElevenLabs now offers ability to build conversational AI agents](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/)
-- [Sam Altman will co-chair San Francisco mayor-elect Daniel Lurie’s transition team](https://techcrunch.com/2024/11/18/sam-altman-will-co-chair-the-new-mayor-of-san-franciscos-transition-team/)
-- [Perplexity introduces a shopping feature for Pro users in the U.S.](https://techcrunch.com/2024/11/18/perplexity-introduces-a-shopping-feature-for-pro-users/)
-- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
