@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Telescope witnesses Milky Way strip its galactic neighbor of gas](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-witnesses-milky-way-strip-its-galactic-neighbor-of-gas)
-- [India plans to build a moon-orbiting space station by 2040](https://www.space.com/the-universe/moon/india-plans-to-build-a-moon-orbiting-space-station-by-2040)
-- [Meta brings certain AI features to Ray-Ban Meta glasses in Europe](https://techcrunch.com/2024/11/18/meta-brings-certain-ai-features-to-ray-ban-meta-glasses-in/)
-- [SuperAnnotate helps companies manage their AI data sets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/)
-- [Space tech giant Maxar confirms hacker accessed employees’ personal data](https://techcrunch.com/2024/11/18/satellite-giant-maxar-confirms-hacker-accessed-employees-personal-data/)
+- [CISA director Jen Easterly to depart agency on January 20](https://techcrunch.com/2024/11/18/cisa-director-jen-easterly-to-depart-agency-on-january-20/)
+- [Mistral unveils new AI models and chat features](https://techcrunch.com/2024/11/18/mistral-unveils-new-ai-models-and-chat-features/)
+- [India orders Meta to curb WhatsApp data sharing, levies $25M fine](https://techcrunch.com/2024/11/18/india-fines-meta-25-4-million-over-whatsapp-privacy-policy/)
+- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/)
+- [A distant planet seems to have a sulphur-rich atmosphere, hinting at alien volcanoes](https://www.space.com/the-universe/exoplanets/a-distant-planet-seems-to-have-a-sulphur-rich-atmosphere-hinting-at-alien-volcanoes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
