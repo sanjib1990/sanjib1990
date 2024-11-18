@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Black Friday Sony camera deal at Walmart has everyone else beat](https://www.space.com/this-black-friday-2024-sony-camera-deal-at-walmart-has-everyone-else-beat)
-- [Rocket startup ABL Space Systems ends orbital launch plans, pivots to missile defense](https://www.space.com/space-exploration/launches-spacecraft/rocket-startup-abl-space-systems-ends-orbital-launch-plans-pivots-to-missile-defense)
-- [Pentagon UFO office testifies to US Senate on Tuesday. Watch it live here &lpar;video&rpar;](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-office-testifies-to-us-senate-on-tuesday-watch-it-live-here-video)
-- [Former TuSimple co-founder urges courts to block asset transfer to China](https://techcrunch.com/2024/11/18/former-tusimple-co-founder-urges-courts-to-block-asset-transfer-to-china/)
-- [Check out these top space gifts at Amazon this Black Friday](https://www.space.com/black-friday-space-gifts-at-amazon)
+- [Marlon Nichols talks relationship building in the African markets](https://techcrunch.com/2024/11/18/marlon-nichols-talks-relationship-building-in-the-african-markets/)
+- [Blue Origin targeting Nov. 22 for next space tourism launch](https://www.space.com/space-exploration/private-spaceflight/blue-origin-targeting-nov-22-for-next-space-tourism-launch)
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/)
+- [OpenAI investor Josh Kushner praises Musk, despite Musk’s OpenAI lawsuit](https://techcrunch.com/2024/11/18/openai-investor-josh-kushner-praises-musk-despite-musks-openai-lawsuit/)
+- [Trump’s pro-fracking energy secretary pick has also invested in geothermal and nuclear startups](https://techcrunch.com/2024/11/18/trumps-pro-fracking-energy-secretary-pick-has-also-invested-in-geothermal-and-nuclear-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
