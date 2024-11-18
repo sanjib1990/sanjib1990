@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CISA director Jen Easterly to depart agency on January 20](https://techcrunch.com/2024/11/18/cisa-director-jen-easterly-to-depart-agency-on-january-20/)
-- [Mistral unveils new AI models and chat features](https://techcrunch.com/2024/11/18/mistral-unveils-new-ai-models-and-chat-features/)
-- [India orders Meta to curb WhatsApp data sharing, levies $25M fine](https://techcrunch.com/2024/11/18/india-fines-meta-25-4-million-over-whatsapp-privacy-policy/)
-- [Twenty is building an open source alternative to Salesforce](https://techcrunch.com/2024/11/18/twenty-is-building-an-open-source-alternative-to-salesforce/)
-- [A distant planet seems to have a sulphur-rich atmosphere, hinting at alien volcanoes](https://www.space.com/the-universe/exoplanets/a-distant-planet-seems-to-have-a-sulphur-rich-atmosphere-hinting-at-alien-volcanoes)
+- [Aurora forecast: Will the northern lights be visible tonight?](https://www.space.com/live/aurora-forecast-will-the-northern-lights-be-visible-tonight)
+- [ElevenLabs now offers ability to build conversational AI agents](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/)
+- [Sam Altman will co-chair San Francisco mayor-elect Daniel Lurie’s transition team](https://techcrunch.com/2024/11/18/sam-altman-will-co-chair-the-new-mayor-of-san-franciscos-transition-team/)
+- [Perplexity introduces a shopping feature for Pro users in the U.S.](https://techcrunch.com/2024/11/18/perplexity-introduces-a-shopping-feature-for-pro-users/)
+- [Google.org commits $20M to researchers using AI for scientific breakthroughs](https://techcrunch.com/2024/11/18/google-org-commits-20m-to-researchers-using-ai-for-scientific-breakthroughs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
