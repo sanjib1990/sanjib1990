@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Text marketing firm Take Blip secures backing from SoftBank, Microsoft](https://techcrunch.com/2024/11/18/text-marketing-firm-take-blip-secures-backing-from-softbank-and-microsoft/)
+- [Roblox no longer allows users under 13 to message others outside of games](https://techcrunch.com/2024/11/18/roblox-no-longer-allows-users-under-13-to-message-others-outside-of-games/)
+- [SpaceX launching 1st mission for Indian Space Research Organisation today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-1st-mission-for-indian-space-research-organisation-today)
 - [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/)
 - [What to expect during SpaceX&#39;s 6th Starship test flight on Nov. 19](https://www.space.com/space-exploration/launches-spacecraft/what-to-expect-during-spacexs-6th-starship-test-flight)
-- [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/)
-- [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/)
-- [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
