@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gadget lover Marc Benioff says his favorite gadget these days is his cars and trucks](https://techcrunch.com/2024/11/18/gadget-lover-marc-benioff-says-his-favorite-gadget-these-days-is-his-cars-and-trucks/)
-- [Hail Mary! AI in the confessional](https://techcrunch.com/2024/11/18/hail-mary-ai-in-the-confessional/)
-- [Partiful is Google’s ‘best app’ of 2024](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/)
-- [Aurora forecast: Will the northern lights be visible tonight?](https://www.space.com/live/aurora-forecast-will-the-northern-lights-be-visible-tonight)
-- [ElevenLabs now offers ability to build conversational AI agents](https://techcrunch.com/2024/11/18/elevenlabs-now-offers-ability-to-build-conversational-ai-agents/)
+- [Former TuSimple co-founder urges courts to block asset transfer to China](https://techcrunch.com/2024/11/18/former-tusimple-co-founder-urges-courts-to-block-asset-transfer-to-china/)
+- [Check out these top space gifts at Amazon this Black Friday](https://www.space.com/black-friday-space-gifts-at-amazon)
+- [SpaceX&#39;s epic Starship Super Heavy rocket catch looked just like the company imagined &lpar;side-by-side video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-compares-super-heavy-rocket-catch-to-simulations-in-side-by-side-video)
+- [Mastodon sees a boost from the ‘X exodus,’ too, founder says](https://techcrunch.com/2024/11/18/mastodon-sees-a-boost-from-the-x-exodus-too-founder-says/)
+- [Healthcare VC firm Initiate has a new $45M and has already founded five startups internally](https://techcrunch.com/2024/11/18/healthcare-vc-firm-initiate-has-a-new-45m-and-has-already-founded-five-startups-internally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
