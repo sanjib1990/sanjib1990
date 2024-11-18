@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SuperAnnotate wants to help companies manage their AI data sets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/)
+- [Space tech giant Maxar confirms hacker accessed employees’ personal data](https://techcrunch.com/2024/11/18/satellite-giant-maxar-confirms-hacker-accessed-employees-personal-data/)
+- [&#39;Silo&#39; Season 2 Episode 1: What happened to Silo 17&#39;s tragic rebel uprising?](https://www.space.com/entertainment/silo-season-2-episode-1-what-happened-to-silo-17s-tragic-rebel-uprising)
 - [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/)
 - [NASA&#39;s Parker Solar Probe is solving long-standing mysteries about the sun. Here&#39;s what we&#39;ve learned so far.](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-is-solving-long-standing-mysteries-about-the-sun-heres-what-weve-learned-so-far)
-- [Xiaomi taps PhonePe’s app store for India smartphones](https://techcrunch.com/2024/11/18/xiaomi-taps-phonepe-indus-appstore-for-india-smartphones/)
-- [Text marketing firm Take Blip secures backing from SoftBank, Microsoft](https://techcrunch.com/2024/11/18/text-marketing-firm-take-blip-secures-backing-from-softbank-and-microsoft/)
-- [Roblox no longer allows users under 13 to message others outside of games](https://techcrunch.com/2024/11/18/roblox-no-longer-allows-users-under-13-to-message-others-outside-of-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
