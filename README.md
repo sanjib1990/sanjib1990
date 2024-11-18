@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: A big pivot](https://techcrunch.com/2024/11/18/techcrunch-space-a-big-pivot/)
+- [ServiceTitan names LLMs from Microsoft, OpenAI as risk factors](https://techcrunch.com/2024/11/18/servicetitan-names-llms-from-microsoft-openai-as-risk-factors/)
+- [In 2023 VCs returned the lowest level of capital to their investors since 2011](https://techcrunch.com/2024/11/18/in-2023-vcs-returned-the-lowest-level-of-capital-to-their-investors-since-2011/)
 - [&#39;Star Trek Generations&#39; at 30: Director David Carson reflects on The Nexus and Kirk&#39;s quiet death &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-trek-generations-at-30-director-david-carson-reflects-on-the-nexus-and-kirks-quiet-death-exclusive)
 - [Trump’s FCC pick has said he wants to ban TikTok, challenge Section 230](https://techcrunch.com/2024/11/18/trumps-fcc-pick-has-said-he-wants-to-ban-tiktok-challenge-section-230/)
-- [DoorDash’s app can now import your grocery list for faster shopping](https://techcrunch.com/2024/11/18/doordash-users-can-import-grocery-lists-into-the-app-to-shop-for-items-faster/)
-- [Marlon Nichols talks relationship building in the African markets](https://techcrunch.com/2024/11/18/marlon-nichols-talks-relationship-building-in-the-african-markets/)
-- [Blue Origin targeting Nov. 22 for next space tourism launch](https://www.space.com/space-exploration/private-spaceflight/blue-origin-targeting-nov-22-for-next-space-tourism-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
