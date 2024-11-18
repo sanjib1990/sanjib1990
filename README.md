@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Black Friday Sony camera deal at Walmart has everyone else beat](https://www.space.com/this-black-friday-2024-sony-camera-deal-at-walmart-has-everyone-else-beat)
+- [Rocket startup ABL Space Systems ends orbital launch plans, pivots to missile defense](https://www.space.com/space-exploration/launches-spacecraft/rocket-startup-abl-space-systems-ends-orbital-launch-plans-pivots-to-missile-defense)
+- [Pentagon UFO office testifies to US Senate on Tuesday. Watch it live here &lpar;video&rpar;](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-office-testifies-to-us-senate-on-tuesday-watch-it-live-here-video)
 - [Former TuSimple co-founder urges courts to block asset transfer to China](https://techcrunch.com/2024/11/18/former-tusimple-co-founder-urges-courts-to-block-asset-transfer-to-china/)
 - [Check out these top space gifts at Amazon this Black Friday](https://www.space.com/black-friday-space-gifts-at-amazon)
-- [SpaceX&#39;s epic Starship Super Heavy rocket catch looked just like the company imagined &lpar;side-by-side video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-compares-super-heavy-rocket-catch-to-simulations-in-side-by-side-video)
-- [Mastodon sees a boost from the ‘X exodus,’ too, founder says](https://techcrunch.com/2024/11/18/mastodon-sees-a-boost-from-the-x-exodus-too-founder-says/)
-- [Healthcare VC firm Initiate has a new $45M and has already founded five startups internally](https://techcrunch.com/2024/11/18/healthcare-vc-firm-initiate-has-a-new-45m-and-has-already-founded-five-startups-internally/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
