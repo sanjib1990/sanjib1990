@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek Generations&#39; at 30: Director David Carson reflects on The Nexus and Kirk&#39;s quiet death &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-trek-generations-at-30-director-david-carson-reflects-on-the-nexus-and-kirks-quiet-death-exclusive)
+- [Trump’s FCC pick has said he wants to ban TikTok, challenge Section 230](https://techcrunch.com/2024/11/18/trumps-fcc-pick-has-said-he-wants-to-ban-tiktok-challenge-section-230/)
+- [DoorDash’s app can now import your grocery list for faster shopping](https://techcrunch.com/2024/11/18/doordash-users-can-import-grocery-lists-into-the-app-to-shop-for-items-faster/)
 - [Marlon Nichols talks relationship building in the African markets](https://techcrunch.com/2024/11/18/marlon-nichols-talks-relationship-building-in-the-african-markets/)
 - [Blue Origin targeting Nov. 22 for next space tourism launch](https://www.space.com/space-exploration/private-spaceflight/blue-origin-targeting-nov-22-for-next-space-tourism-launch)
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/11/18/venture-capitalists-continue-to-play-musical-chairs/)
-- [OpenAI investor Josh Kushner praises Musk, despite Musk’s OpenAI lawsuit](https://techcrunch.com/2024/11/18/openai-investor-josh-kushner-praises-musk-despite-musks-openai-lawsuit/)
-- [Trump’s pro-fracking energy secretary pick has also invested in geothermal and nuclear startups](https://techcrunch.com/2024/11/18/trumps-pro-fracking-energy-secretary-pick-has-also-invested-in-geothermal-and-nuclear-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
