@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/)
+- [What to expect during SpaceX&#39;s 6th Starship test flight on Nov. 19](https://www.space.com/space-exploration/launches-spacecraft/what-to-expect-during-spacexs-6th-starship-test-flight)
+- [Juna.ai wants to use AI agents to make factories more energy-efficient](https://techcrunch.com/2024/11/18/juna-ai-wants-to-use-ai-agents-to-make-factories-more-energy-efficient/)
 - [India’s HealthKart valued at $500M in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/)
 - [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/)
-- [World of Warcraft turns 20](https://techcrunch.com/2024/11/17/world-of-warcraft-turns-20/)
-- [What is Bluesky when it’s not the underdog?](https://techcrunch.com/2024/11/17/what-is-bluesky-when-its-not-the-underdog/)
-- [The Exploration Company raises $160M to build Europe’s answer to SpaceX Dragon](https://techcrunch.com/2024/11/17/the-exploration-company-raises-160m-to-build-europes-answer-to-spacex-dragon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
