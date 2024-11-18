@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CSS just changed forever… plus 7 new features you don&#39;t know about](https://www.youtube.com/watch?v=A89FMtIkWKc)
 - [2026 OE Global Conference Announcement](https://www.youtube.com/watch?v=H9gipVkw6tY)
 - [FBI makes daring raid of Polymarket CEO&#39;s home...](https://www.youtube.com/watch?v=tx6A3_OLEMY)
 - [Let AI handle the dumb tickets](https://www.youtube.com/watch?v=UNTZ0rouDaQ)
 - [Full NGINX Tutorial - Demo Project with Node.js, Docker](https://www.youtube.com/watch?v=q8OleYuqntY)
-- [SQLite and its weird new fork “libSQL”](https://www.youtube.com/watch?v=PGpL5hYpY1o)
 <!-- YOUTUBE:END -->
 
 ---
