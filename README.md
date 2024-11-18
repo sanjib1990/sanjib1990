@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/)
+- [NASA&#39;s Parker Solar Probe is solving long-standing mysteries about the sun. Here&#39;s what we&#39;ve learned so far.](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-is-solving-long-standing-mysteries-about-the-sun-heres-what-weve-learned-so-far)
+- [Xiaomi taps PhonePe’s app store for India smartphones](https://techcrunch.com/2024/11/18/xiaomi-taps-phonepe-indus-appstore-for-india-smartphones/)
 - [Text marketing firm Take Blip secures backing from SoftBank, Microsoft](https://techcrunch.com/2024/11/18/text-marketing-firm-take-blip-secures-backing-from-softbank-and-microsoft/)
 - [Roblox no longer allows users under 13 to message others outside of games](https://techcrunch.com/2024/11/18/roblox-no-longer-allows-users-under-13-to-message-others-outside-of-games/)
-- [SpaceX launching 1st mission for Indian Space Research Organisation today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-1st-mission-for-indian-space-research-organisation-today)
-- [MakeMyTrip buys Happay from CRED](https://techcrunch.com/2024/11/18/makemytrip-buys-happay-from-cred/)
-- [What to expect during SpaceX&#39;s 6th Starship test flight on Nov. 19](https://www.space.com/space-exploration/launches-spacecraft/what-to-expect-during-spacexs-6th-starship-test-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
