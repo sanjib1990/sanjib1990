@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SuperAnnotate wants to help companies manage their AI data sets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/)
+- [Hubble Telescope witnesses Milky Way strip its galactic neighbor of gas](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-witnesses-milky-way-strip-its-galactic-neighbor-of-gas)
+- [India plans to build a moon-orbiting space station by 2040](https://www.space.com/the-universe/moon/india-plans-to-build-a-moon-orbiting-space-station-by-2040)
+- [Meta brings certain AI features to Ray-Ban Meta glasses in Europe](https://techcrunch.com/2024/11/18/meta-brings-certain-ai-features-to-ray-ban-meta-glasses-in/)
+- [SuperAnnotate helps companies manage their AI data sets](https://techcrunch.com/2024/11/18/superannotate-helps-companies-manage-their-ai-data-sets/)
 - [Space tech giant Maxar confirms hacker accessed employees’ personal data](https://techcrunch.com/2024/11/18/satellite-giant-maxar-confirms-hacker-accessed-employees-personal-data/)
-- [&#39;Silo&#39; Season 2 Episode 1: What happened to Silo 17&#39;s tragic rebel uprising?](https://www.space.com/entertainment/silo-season-2-episode-1-what-happened-to-silo-17s-tragic-rebel-uprising)
-- [Moonvalley wants to build more ethical video models](https://techcrunch.com/2024/11/18/moonvalley-wants-to-build-more-ethical-video-models/)
-- [NASA&#39;s Parker Solar Probe is solving long-standing mysteries about the sun. Here&#39;s what we&#39;ve learned so far.](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-is-solving-long-standing-mysteries-about-the-sun-heres-what-weve-learned-so-far)
 <!-- BLOG-POST-LIST:END -->
 
 ---
