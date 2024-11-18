@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s HealthKart valued at $500 million in new investment](https://techcrunch.com/2024/11/18/india-healthkart-raises-153-million-in-new-funding/)
 - [Oyo founder seeks new investment at $3.8B valuation](https://techcrunch.com/2024/11/17/oyo-founder-seeks-new-investment-at-3-8-billion-valuation/)
 - [World of Warcraft turns 20](https://techcrunch.com/2024/11/17/world-of-warcraft-turns-20/)
 - [What is Bluesky when it’s not the underdog?](https://techcrunch.com/2024/11/17/what-is-bluesky-when-its-not-the-underdog/)
 - [The Exploration Company raises $160M to build Europe’s answer to SpaceX Dragon](https://techcrunch.com/2024/11/17/the-exploration-company-raises-160m-to-build-europes-answer-to-spacex-dragon/)
-- [Norwegian startup Factiverse wants to fight disinformation with AI](https://techcrunch.com/2024/11/17/norwegian-startup-factiverse-wants-to-fight-disinformation-with-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
