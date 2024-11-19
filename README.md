@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VW taps former Rivian exec to run US business](https://techcrunch.com/2024/11/19/vw-taps-former-rivian-exec-to-run-us-business/)
+- [Chroma, backed by Pinterest and Twitter cofounders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/)
+- [India&#39;s Chandrayaan-2 moon orbiter avoids collision with South Korea&#39;s Danuri spacecraft](https://www.space.com/space-exploration/launches-spacecraft/indias-chandrayaan-2-moon-orbiter-avoids-collision-with-south-koreas-danuri-spacecraft)
+- [Meta hires Salesforce’s CEO of AI, Clara Shih, to lead new business AI group](https://techcrunch.com/2024/11/19/meta-hires-salesforces-ceo-of-ai-clara-shih-to-lead-new-business-ai-group/)
 - [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/)
-- [OpenAI brings ChatGPT’s Advanced Voice Mode to the web](https://techcrunch.com/2024/11/19/openai-brings-chatgpts-advanced-voice-mode-to-the-web/)
-- [SabersPro Luke lightsaber review: &quot;A premium, supersaver saber for duellists&quot;](https://www.space.com/saberspro-luke-lightsaber-review)
-- [Google ships first developer preview Android 16 to speed up feature roll outs](https://techcrunch.com/2024/11/19/google-ships-first-developer-preview-android-16-to-speed-up-feature-roll-outs/)
-- [Everything we know about &#39;Avengers: Doomsday&#39;](https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-avengers-doomsday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
