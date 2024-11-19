@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Green auroras and a SpaceX Dragon glow in new astronaut photos from the ISS](https://www.space.com/space-exploration/international-space-station/green-auroras-and-a-spacex-dragon-glow-in-new-astronaut-photos-from-the-iss)
+- [Oura valued at $5B following deal with medical device firm Dexcom](https://techcrunch.com/2024/11/19/oura-valued-at-5b-following-deal-with-medical-device-firm-dexcom/)
+- [US extradites Russian accused of extorting millions in Phobos ransomware payments](https://techcrunch.com/2024/11/19/us-extradites-russian-accused-of-extorting-millions-in-phobos-ransomware-payments/)
 - [Google Lens can now check prices and inventory when shopping in the real world](https://techcrunch.com/2024/11/19/google-lens-new-feature-makes-it-easier-to-shop-products-in-store/)
 - [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/)
-- [Amazon’s top music plan will now include one audiobook per month](https://techcrunch.com/2024/11/19/amazon-will-let-users-listen-to-one-audiobook-per-month-with-its-top-prime-music-paid-plan/)
-- [These 5 stunning galaxy images tell us a story of cosmic evolution](https://www.space.com/five-local-galaxies-cosmic-evolution-vlt)
-- [Dark matter might make space-time ring like a bell around black holes — and we might be able to &#39;hear&#39; it](https://www.space.com/the-universe/black-holes/dark-matter-might-make-space-time-ring-like-a-bell-around-black-holes-and-we-might-be-able-to-hear-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
