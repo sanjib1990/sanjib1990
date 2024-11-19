@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SabersPro Luke lightsaber review: &quot;A premium, supersaver saber for duellists&quot;](https://www.space.com/saberspro-luke-lightsaber-review)
+- [Google ships first developer preview Android 16 to speed up feature roll outs](https://techcrunch.com/2024/11/19/google-ships-first-developer-preview-android-16-to-speed-up-feature-roll-outs/)
+- [Everything we know about &#39;Avengers: Doomsday&#39;](https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-avengers-doomsday)
+- [Las Vegas Sheriff tells a16z partners what’s next on his wish list: AI for bodycams](https://techcrunch.com/2024/11/19/las-vegas-sheriff-tells-a16z-partners-whats-next-on-his-wish-list-ai-for-bodycams/)
 - [Thanks, Netflix, but we don’t need another daily word game](https://techcrunch.com/2024/11/19/hey-netflix-thanks-but-we-dont-need-another-daily-word-game/)
-- [Geminid meteor shower begins tonight. Here&#39;s what to expect from one of the best meteor showers of the year](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-begins-tonight-heres-what-to-expect-from-one-of-the-best-meteor-showers-of-the-year)
-- [GitHub launches $1.25M open source fund with a focus on security](https://techcrunch.com/2024/11/19/github-launches-1-25m-open-source-fund-with-a-focus-on-security/)
-- [Trump to attend SpaceX Starship&#39;s 6th flight test today: reports](https://www.space.com/space-exploration/launches-spacecraft/trump-to-attend-spacex-starships-6th-flight-test-today-reports)
-- [Google’s Gemini chatbot now has memory](https://techcrunch.com/2024/11/19/googles-gemini-chatbot-now-has-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
