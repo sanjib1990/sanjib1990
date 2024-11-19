@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former basketball hopeful wants to prevent ACL tears with airbags for knees](https://techcrunch.com/2024/11/19/former-basketball-hopeful-wants-to-prevent-acl-tears-with-airbags-for-knees/)
 - [Indian news agency sues OpenAI alleging copyright infringement](https://techcrunch.com/2024/11/18/indian-news-agency-sues-openai-alleging-copyright-infringement/)
 - [Sagence is building analog chips to run AI](https://techcrunch.com/2024/11/18/sagence-is-building-analog-chips-to-run-ai/)
 - [Yuka, the app that rates food and makeup, now lets users complain to companies directly](https://techcrunch.com/2024/11/18/yuka-the-app-that-rates-food-and-makeup-lets-users-complain-to-brands-with-its-new-feature/)
 - [Socium doubles down on Francophone Africa after $5M seed round](https://techcrunch.com/2024/11/18/socium-raises-5m-seed-led-by-breega/)
-- [Logitech’s MX console for creatives](https://techcrunch.com/video/logitechs-mx-console-for-creatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
