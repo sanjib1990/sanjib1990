@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Logitech’s MX console for creatives](https://techcrunch.com/video/logitechs-mx-console-for-creatives/)
 - [Ben Affleck tells actors and writers not to worry about AI](https://techcrunch.com/2024/11/18/ben-affleck-tells-actors-and-writers-not-to-worry-about-ai/)
 - [Venture funding in Europe in 2024 fell to $45 billion, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/)
 - [Justice Department reportedly pushing Google to spin off Chrome](https://techcrunch.com/2024/11/18/justice-department-reportedly-pushing-google-to-spin-off-chrome/)
 - [TechCrunch Space: A big pivot](https://techcrunch.com/2024/11/18/techcrunch-space-a-big-pivot/)
-- [ServiceTitan names LLMs from Microsoft, OpenAI as risk factors](https://techcrunch.com/2024/11/18/servicetitan-names-llms-from-microsoft-openai-as-risk-factors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
