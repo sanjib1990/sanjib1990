@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ben Affleck tells actors and writers not to worry about AI](https://techcrunch.com/2024/11/18/ben-affleck-tells-actors-and-writers-not-to-worry-about-ai/)
+- [Venture funding in Europe in 2024 fell to $45 billion, says Atomico](https://techcrunch.com/2024/11/18/venture-funding-in-europe-in-2024-fell-to-45-billion-says-atomico/)
+- [Justice Department reportedly pushing Google to spin off Chrome](https://techcrunch.com/2024/11/18/justice-department-reportedly-pushing-google-to-spin-off-chrome/)
 - [TechCrunch Space: A big pivot](https://techcrunch.com/2024/11/18/techcrunch-space-a-big-pivot/)
 - [ServiceTitan names LLMs from Microsoft, OpenAI as risk factors](https://techcrunch.com/2024/11/18/servicetitan-names-llms-from-microsoft-openai-as-risk-factors/)
-- [In 2023 VCs returned the lowest level of capital to their investors since 2011](https://techcrunch.com/2024/11/18/in-2023-vcs-returned-the-lowest-level-of-capital-to-their-investors-since-2011/)
-- [&#39;Star Trek Generations&#39; at 30: Director David Carson reflects on The Nexus and Kirk&#39;s quiet death &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-trek-generations-at-30-director-david-carson-reflects-on-the-nexus-and-kirks-quiet-death-exclusive)
-- [Trump’s FCC pick has said he wants to ban TikTok, challenge Section 230](https://techcrunch.com/2024/11/18/trumps-fcc-pick-has-said-he-wants-to-ban-tiktok-challenge-section-230/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
