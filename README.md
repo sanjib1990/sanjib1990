@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In Mexico’s tense job market, Minu’s take on employee benefits includes financial wellness](https://techcrunch.com/2024/11/19/in-mexicos-tense-job-market-minus-take-on-employee-benefits-includes-financial-wellness/)
+- [Instagram will soon let you reset your recommendation algorithm](https://techcrunch.com/2024/11/19/instagram-will-soon-let-you-reset-your-recommendation-algorithm/)
 - [How to watch SpaceX launch Flight 6 of its Starship megarocket today](https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-flight-6-of-its-starship-megarocket-today)
 - [Former basketball hopeful wants to prevent ACL tears with airbags for knees](https://techcrunch.com/2024/11/19/former-basketball-hopeful-wants-to-prevent-acl-tears-with-airbags-for-knees/)
 - [Indian news agency sues OpenAI alleging copyright infringement](https://techcrunch.com/2024/11/18/indian-news-agency-sues-openai-alleging-copyright-infringement/)
-- [Sagence is building analog chips to run AI](https://techcrunch.com/2024/11/18/sagence-is-building-analog-chips-to-run-ai/)
-- [Yuka, the app that rates food and makeup, now lets users complain to companies directly](https://techcrunch.com/2024/11/18/yuka-the-app-that-rates-food-and-makeup-lets-users-complain-to-brands-with-its-new-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
