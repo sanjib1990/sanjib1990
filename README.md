@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spectro Cloud nets $75M to help companies manage their Kubernetes installations](https://techcrunch.com/2024/11/19/spectro-cloud-helps-companies-manage-their-kubernetes-installations/)
-- [Selector automatically spots IT issues and recommends fixes](https://techcrunch.com/2024/11/19/selector-automatically-spots-it-issues-and-recommends-fixes/)
-- [Lightyear is on a mission to modernize network procurement](https://techcrunch.com/2024/11/19/lightyear-is-on-a-mission-to-modernize-network-procurement/)
-- [Agentio raises $12 million from Benchmark for its YouTube ad marketplace](https://techcrunch.com/2024/11/19/agentio-raises-12-million-from-benchmark-for-its-youtube-ad-marketplace/)
-- [Workbrew makes open-source package manager Homebrew enterprise-friendly](https://techcrunch.com/2024/11/19/workbrew-makes-open-source-package-manager-homebrew-enterprise-friendly/)
+- [Google Lens can now check prices and inventory when shopping in the real world](https://techcrunch.com/2024/11/19/google-lens-new-feature-makes-it-easier-to-shop-products-in-store/)
+- [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/)
+- [Amazon’s top music plan will now include one audiobook per month](https://techcrunch.com/2024/11/19/amazon-will-let-users-listen-to-one-audiobook-per-month-with-its-top-prime-music-paid-plan/)
+- [These 5 stunning galaxy images tell us a story of cosmic evolution](https://www.space.com/five-local-galaxies-cosmic-evolution-vlt)
+- [Dark matter might make space-time ring like a bell around black holes — and we might be able to &#39;hear&#39; it](https://www.space.com/the-universe/black-holes/dark-matter-might-make-space-time-ring-like-a-bell-around-black-holes-and-we-might-be-able-to-hear-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
