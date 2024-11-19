@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [In Mexico’s tense job market, Minu’s take on employee benefits includes financial wellness](https://techcrunch.com/2024/11/19/in-mexicos-tense-job-market-minus-take-on-employee-benefits-includes-financial-wellness/)
-- [Instagram will soon let you reset your recommendation algorithm](https://techcrunch.com/2024/11/19/instagram-will-soon-let-you-reset-your-recommendation-algorithm/)
-- [How to watch SpaceX launch Flight 6 of its Starship megarocket today](https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-flight-6-of-its-starship-megarocket-today)
-- [Former basketball hopeful wants to prevent ACL tears with airbags for knees](https://techcrunch.com/2024/11/19/former-basketball-hopeful-wants-to-prevent-acl-tears-with-airbags-for-knees/)
-- [Indian news agency sues OpenAI alleging copyright infringement](https://techcrunch.com/2024/11/18/indian-news-agency-sues-openai-alleging-copyright-infringement/)
+- [Spectro Cloud nets $75M to help companies manage their Kubernetes installations](https://techcrunch.com/2024/11/19/spectro-cloud-helps-companies-manage-their-kubernetes-installations/)
+- [Selector automatically spots IT issues and recommends fixes](https://techcrunch.com/2024/11/19/selector-automatically-spots-it-issues-and-recommends-fixes/)
+- [Lightyear is on a mission to modernize network procurement](https://techcrunch.com/2024/11/19/lightyear-is-on-a-mission-to-modernize-network-procurement/)
+- [Agentio raises $12 million from Benchmark for its YouTube ad marketplace](https://techcrunch.com/2024/11/19/agentio-raises-12-million-from-benchmark-for-its-youtube-ad-marketplace/)
+- [Workbrew makes open-source package manager Homebrew enterprise-friendly](https://techcrunch.com/2024/11/19/workbrew-makes-open-source-package-manager-homebrew-enterprise-friendly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
