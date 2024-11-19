@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thanks, Netflix, but we don’t need another daily word game](https://techcrunch.com/2024/11/19/hey-netflix-thanks-but-we-dont-need-another-daily-word-game/)
+- [Geminid meteor shower begins tonight. Here&#39;s what to expect from one of the best meteor showers of the year](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-begins-tonight-heres-what-to-expect-from-one-of-the-best-meteor-showers-of-the-year)
+- [GitHub launches $1.25M open source fund with a focus on security](https://techcrunch.com/2024/11/19/github-launches-1-25m-open-source-fund-with-a-focus-on-security/)
+- [Trump to attend SpaceX Starship&#39;s 6th flight test today: reports](https://www.space.com/space-exploration/launches-spacecraft/trump-to-attend-spacex-starships-6th-flight-test-today-reports)
 - [Google’s Gemini chatbot now has memory](https://techcrunch.com/2024/11/19/googles-gemini-chatbot-now-has-memory/)
-- [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/)
-- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/19/what-is-bluesky-everything-to-know-about-the-x-competitor/)
-- [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/)
-- [IRL social app Pie is coming to SF to make you less lonely](https://techcrunch.com/2024/11/19/irl-social-app-pie-is-coming-to-sf-to-make-you-less-lonely/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
