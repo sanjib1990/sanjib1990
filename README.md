@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky tops 20M users, narrowing gap with Instagram Threads](https://techcrunch.com/2024/11/19/bluesky-tops-20m-users-narrowing-gap-with-instagram-threads/)
+- [Physical AI startup BrightAI bootstraps to $80m in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/)
+- [Rocket Lab signs 1st customer for its powerful new Neutron rocket. But who is it?](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-signs-1st-customer-for-its-powerful-new-neutron-rocket)
+- [Minecraft is entering the real world](https://techcrunch.com/2024/11/19/minecraft-is-entering-the-real-world/)
 - [Green auroras and a SpaceX Dragon glow in new astronaut photos from the ISS](https://www.space.com/space-exploration/international-space-station/green-auroras-and-a-spacex-dragon-glow-in-new-astronaut-photos-from-the-iss)
-- [Oura valued at $5B following deal with medical device firm Dexcom](https://techcrunch.com/2024/11/19/oura-valued-at-5b-following-deal-with-medical-device-firm-dexcom/)
-- [US extradites Russian accused of extorting millions in Phobos ransomware payments](https://techcrunch.com/2024/11/19/us-extradites-russian-accused-of-extorting-millions-in-phobos-ransomware-payments/)
-- [Google Lens can now check prices and inventory when shopping in the real world](https://techcrunch.com/2024/11/19/google-lens-new-feature-makes-it-easier-to-shop-products-in-store/)
-- [Nuro expands driverless autonomous vehicle testing in push to attract customers](https://techcrunch.com/2024/11/19/nuro-expands-driverless-autonomous-vehicle-testing-in-push-to-attract-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
