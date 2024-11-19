@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Cloned My Voice &lpar;local and private&rpar;](https://www.youtube.com/watch?v=3fg7Ht0DSnE)
 - [Apache Spark in 100 Seconds](https://www.youtube.com/watch?v=IELMSD2kdmk)
 - [Creating Your Own Programming Language - Computerphile](https://www.youtube.com/watch?v=Q2UDHY5as90)
 - [CSS just changed forever… plus 7 new features you don&#39;t know about](https://www.youtube.com/watch?v=A89FMtIkWKc)
 - [2026 OE Global Conference Announcement](https://www.youtube.com/watch?v=H9gipVkw6tY)
-- [FBI makes daring raid of Polymarket CEO&#39;s home...](https://www.youtube.com/watch?v=tx6A3_OLEMY)
 <!-- YOUTUBE:END -->
 
 ---
