@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PayPal revives its money-pooling feature](https://techcrunch.com/2024/11/19/paypal-revives-its-money-pooling-feature/)
+- [SpaceX Starship launches banana to space, skips giant rocket catch on 6th test flight &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-launches-banana-to-space-skips-giant-rocket-catch-on-6th-test-flight-video-photos)
 - [PSA: You shouldn’t upload your medical images to AI chatbots](https://techcrunch.com/2024/11/19/psa-you-shouldnt-upload-your-medical-images-to-ai-chatbots/)
 - [Kim Kardashian has befriended Optimus, the Tesla bot](https://techcrunch.com/2024/11/19/kim-kardashian-has-befriended-optimus-the-tesla-bot/)
 - [VW taps former Rivian exec to run US business](https://techcrunch.com/2024/11/19/vw-taps-former-rivian-exec-to-run-us-business/)
-- [Chroma, backed by Pinterest and Twitter cofounders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/)
-- [India&#39;s Chandrayaan-2 moon orbiter avoids collision with South Korea&#39;s Danuri spacecraft](https://www.space.com/space-exploration/launches-spacecraft/indias-chandrayaan-2-moon-orbiter-avoids-collision-with-south-koreas-danuri-spacecraft)
 <!-- BLOG-POST-LIST:END -->
 
 ---
