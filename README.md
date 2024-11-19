@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/)
+- [OpenAI brings ChatGPT’s Advanced Voice Mode to the web](https://techcrunch.com/2024/11/19/openai-brings-chatgpts-advanced-voice-mode-to-the-web/)
 - [SabersPro Luke lightsaber review: &quot;A premium, supersaver saber for duellists&quot;](https://www.space.com/saberspro-luke-lightsaber-review)
 - [Google ships first developer preview Android 16 to speed up feature roll outs](https://techcrunch.com/2024/11/19/google-ships-first-developer-preview-android-16-to-speed-up-feature-roll-outs/)
 - [Everything we know about &#39;Avengers: Doomsday&#39;](https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-avengers-doomsday)
-- [Las Vegas Sheriff tells a16z partners what’s next on his wish list: AI for bodycams](https://techcrunch.com/2024/11/19/las-vegas-sheriff-tells-a16z-partners-whats-next-on-his-wish-list-ai-for-bodycams/)
-- [Thanks, Netflix, but we don’t need another daily word game](https://techcrunch.com/2024/11/19/hey-netflix-thanks-but-we-dont-need-another-daily-word-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
