@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky tops 20M users, narrowing gap with Instagram Threads](https://techcrunch.com/2024/11/19/bluesky-tops-20m-users-narrowing-gap-with-instagram-threads/)
-- [Physical AI startup BrightAI bootstraps to $80m in revenue](https://techcrunch.com/2024/11/19/physical-ai-startup-brightai-bootstraps-to-80m-in-revenue/)
-- [Rocket Lab signs 1st customer for its powerful new Neutron rocket. But who is it?](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-signs-1st-customer-for-its-powerful-new-neutron-rocket)
-- [Minecraft is entering the real world](https://techcrunch.com/2024/11/19/minecraft-is-entering-the-real-world/)
-- [Green auroras and a SpaceX Dragon glow in new astronaut photos from the ISS](https://www.space.com/space-exploration/international-space-station/green-auroras-and-a-spacex-dragon-glow-in-new-astronaut-photos-from-the-iss)
+- [Google’s Gemini chatbot now has memory](https://techcrunch.com/2024/11/19/googles-gemini-chatbot-now-has-memory/)
+- [Mitsubishi backs Ample’s radical approach to charging EV batteries](https://techcrunch.com/2024/11/19/mitsubishi-backs-amples-radical-approach-to-charging-ev-batteries/)
+- [What is Bluesky? Everything to know about the X competitor](https://techcrunch.com/2024/11/19/what-is-bluesky-everything-to-know-about-the-x-competitor/)
+- [Codecrafters wants to challenge seasoned developers with hard-to-build projects](https://techcrunch.com/2024/11/19/codecrafters-wants-to-challenge-seasoned-developers-with-hard-to-build-projects/)
+- [IRL social app Pie is coming to SF to make you less lonely](https://techcrunch.com/2024/11/19/irl-social-app-pie-is-coming-to-sf-to-make-you-less-lonely/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
