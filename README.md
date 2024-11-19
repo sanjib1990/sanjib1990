@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PSA: You shouldn’t upload your medical images to AI chatbots](https://techcrunch.com/2024/11/19/psa-you-shouldnt-upload-your-medical-images-to-ai-chatbots/)
+- [Kim Kardashian has befriended Optimus, the Tesla bot](https://techcrunch.com/2024/11/19/kim-kardashian-has-befriended-optimus-the-tesla-bot/)
 - [VW taps former Rivian exec to run US business](https://techcrunch.com/2024/11/19/vw-taps-former-rivian-exec-to-run-us-business/)
 - [Chroma, backed by Pinterest and Twitter cofounders, sells to AI audio company Bronze](https://techcrunch.com/2024/11/19/chroma-backed-by-pinterest-and-twitter-cofounders-sells-to-ai-audio-company-bronze/)
 - [India&#39;s Chandrayaan-2 moon orbiter avoids collision with South Korea&#39;s Danuri spacecraft](https://www.space.com/space-exploration/launches-spacecraft/indias-chandrayaan-2-moon-orbiter-avoids-collision-with-south-koreas-danuri-spacecraft)
-- [Meta hires Salesforce’s CEO of AI, Clara Shih, to lead new business AI group](https://techcrunch.com/2024/11/19/meta-hires-salesforces-ceo-of-ai-clara-shih-to-lead-new-business-ai-group/)
-- [Nuclear startups face new competition as energy giant Enel enters the ring](https://techcrunch.com/2024/11/19/nuclear-startups-face-new-competition-as-energy-giant-enel-enters-the-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
