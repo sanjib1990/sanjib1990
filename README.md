@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You have a few hours left to bid on this burned-out husk in San Francisco](https://techcrunch.com/2024/11/19/you-have-a-few-hours-left-to-bid-on-this-burned-out-husk-in-san-francisco/)
+- [&#39;Mind-blowing&#39; dark energy instrument results show Einstein was right about gravity — again](https://www.space.com/desi-einstein-gravity-dark-energy)
 - [Trump watches SpaceX launch Starship&#39;s 6th test flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/trump-watches-spacex-launch-starships-6th-test-flight-photos)
 - [Ben Ling’s Bling Capital has already nabbed another $270M for fourth fund](https://techcrunch.com/2024/11/19/ben-lings-bling-capital-has-already-nabbed-another-270m-for-fourth-fund/)
-- [SpaceX launches Starship for the sixth time – with Trump on site to watch](https://techcrunch.com/2024/11/19/spacex-launches-starship-for-the-sixth-time-with-trump-on-site-to-watch/)
-- [Apple says Mac users targeted in zero-day cyberattacks](https://techcrunch.com/2024/11/19/apple-says-mac-users-targeted-in-zero-day-cyberattacks/)
-- [Pentagon UFO chief tells Senate &#39;very anomalous objects&#39; need careful study &lpar;video&rpar;](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)
+- [SpaceX launches Starship for the sixth time — with Trump on site to watch](https://techcrunch.com/2024/11/19/spacex-launches-starship-for-the-sixth-time-with-trump-on-site-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
