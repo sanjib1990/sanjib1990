@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It&#39;s bananas:&#39; Toy fruit becomes first zero-g indicator to fly on SpaceX Starship](https://www.space.com/spacex-starship-test-flight-six-banana)
+- [UK open to social media ban for kids as gov’t kicks off feasibility study](https://techcrunch.com/2024/11/20/uk-open-to-social-media-ban-for-kids-as-govt-kicks-off-feasibility-study/)
 - [OpenAI releases a teacher’s guide to ChatGPT, but some educators are skeptical](https://techcrunch.com/2024/11/20/openai-releases-a-teachers-guide-to-chatgpt-but-some-educators-are-skeptical/)
 - [The Unistellar eQuinox 2 is our top-rated smart telescope and now has a $500 price cut in this Black Friday deal](https://www.space.com/stargazing/astronomy-kit/black-friday-telescope-deal-2024-our-top-rated-smart-telescope-now-500-cheaper)
 - [You have a few hours left to bid on this burned-out husk in San Francisco](https://techcrunch.com/2024/11/19/you-have-a-few-hours-left-to-bid-on-this-burned-out-husk-in-san-francisco/)
-- [&#39;Mind-blowing&#39; dark energy instrument results show Einstein was right about gravity — again](https://www.space.com/desi-einstein-gravity-dark-energy)
-- [Trump watches SpaceX launch Starship&#39;s 6th test flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/trump-watches-spacex-launch-starships-6th-test-flight-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
