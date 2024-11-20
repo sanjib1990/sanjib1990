@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Messenger gets HD video calls, AI backgrounds, and more](https://techcrunch.com/2024/11/20/messenger-gets-hd-video-calls-ai-backgrounds-and-more/)
-- [DuckDuckGo calls for EU to widen its Digital Markets Act probe of Google](https://techcrunch.com/2024/11/20/duckduckgo-calls-for-eu-to-widen-its-digital-markets-act-probe-of-google/)
-- [This Week in AI: Congressional commission warns of Chinese AGI](https://techcrunch.com/2024/11/20/this-week-in-ai-congressional-commission-warns-of-chinese-agi/)
-- [&#39;There are lots of mysteries in our backyard&#39;: Revised solar system chemistry explains long-standing puzzles](https://www.space.com/the-universe/solar-system/there-are-lots-of-mysteries-in-our-backyard-revised-solar-system-chemistry-explains-long-standing-puzzles)
-- [Did NASA&#39;s Perseverance rover find organics on Mars? These scientists aren&#39;t so sure](https://www.space.com/space-exploration/mars-rovers/did-nasas-perseverance-rover-find-organics-on-mars-these-scientists-arent-so-sure)
+- [The not so &#39;wicked&#39; path from &#39;The Wizard of Oz&#39; to the moon landing](https://www.space.com/not-so-wicked-wizard-of-oz-moon-for-all-mankind)
+- [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/)
+- [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/)
+- [Black Friday Bargain: The best Sony camera for astrophotography is over $930 cheaper](https://www.space.com/stargazing/astronomy-kit/black-friday-bargain-the-best-sony-camera-for-astrophotography-is-over-usd930-cheaper)
+- [Led by Anduril, defense tech funding sets a new record this year](https://techcrunch.com/2024/11/20/led-by-anduril-defense-tech-funding-sets-a-new-record-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
