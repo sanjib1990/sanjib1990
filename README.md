@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTX CTO Gary Wang avoids prison time](https://techcrunch.com/2024/11/20/ftx-cto-gary-wang-avoids-prison-time/)
+- [US charges five accused of multi-year hacking spree targeting tech and crypto giants](https://techcrunch.com/2024/11/20/us-charges-five-accused-of-multi-year-hacking-spree-targeting-tech-and-crypto-giants/)
 - [The not so &#39;wicked&#39; path from &#39;The Wizard of Oz&#39; to the moon landing](https://www.space.com/not-so-wicked-wizard-of-oz-moon-for-all-mankind)
 - [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/)
 - [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/)
-- [Black Friday Bargain: The best Sony camera for astrophotography is over $930 cheaper](https://www.space.com/stargazing/astronomy-kit/black-friday-bargain-the-best-sony-camera-for-astrophotography-is-over-usd930-cheaper)
-- [Led by Anduril, defense tech funding sets a new record this year](https://techcrunch.com/2024/11/20/led-by-anduril-defense-tech-funding-sets-a-new-record-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
