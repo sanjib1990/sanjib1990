@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Somewhere in the multiverse, dark energy is helping stars and life form](https://www.space.com/the-universe/somewhere-in-the-multiverse-dark-energy-is-helping-stars-and-life-form)
+- [Federal prosecutors have charged another Forbes 30 Under 30 alum with fraud](https://techcrunch.com/2024/11/20/federal-prosecutors-have-charged-another-forbes-30-under-30-alum-with-fraud/)
+- [A Chinese lab has released a ‘reasoning’ AI model to rival OpenAI’s o1](https://techcrunch.com/2024/11/20/a-chinese-lab-has-released-a-model-to-rival-openais-o1/)
+- [TV Time points to Apple’s ‘significant power’ over developers after being removed from App Store](https://techcrunch.com/2024/11/20/tv-time-points-to-apples-significant-power-over-developers-after-being-removed-from-app-store/)
 - [Comcast spins off its cable channels into separate company as it looks for growth](https://techcrunch.com/2024/11/20/comcast-spins-off-its-cable-channels-into-separate-company-as-it-looks-for-growth/)
-- [Chinese AV startup Pony AI boosts its IPO goal to $260M](https://techcrunch.com/2024/11/20/chinese-av-startup-pony-ai-boosts-its-ipo-goal-to-260m/)
-- [Scientists find extremely young exoplanet orbiting star with a wonky disk](https://www.space.com/the-universe/exoplanets/scientists-find-extremely-young-exoplanet-orbiting-a-star-with-a-wonky-disk)
-- [Amazon debuts its largest Echo Show yet](https://techcrunch.com/2024/11/20/amazon-debuts-its-largest-echo-show-yet/)
-- [Riding high on open source ERP, Odoo raises $527M via secondaries lifting its valuation to $5.26B](https://techcrunch.com/2024/11/20/riding-high-on-open-source-erp-odoo-raises-527m-via-secondaries-lifting-its-valuation-to-5-26b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
