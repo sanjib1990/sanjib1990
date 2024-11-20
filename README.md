@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Another VC-backed fintech, Earnin, faces crackdown over allegedly ‘predatory’ loans](https://techcrunch.com/2024/11/20/another-vc-backed-fintech-earnin-faces-crackdown-over-allegedly-predatory-loans/)
+- [Supermassive black holes bent the laws of physics to grow to monstrous sizes](https://www.space.com/supermassive-black-hole-physics-big-bang)
+- [It’s not just you, Reddit is down](https://techcrunch.com/2024/11/20/reddit-is-down-according-to-user-reports/)
 - [FTX CTO Gary Wang avoids prison time](https://techcrunch.com/2024/11/20/ftx-cto-gary-wang-avoids-prison-time/)
 - [US charges five accused of multi-year hacking spree targeting tech and crypto giants](https://techcrunch.com/2024/11/20/us-charges-five-accused-of-multi-year-hacking-spree-targeting-tech-and-crypto-giants/)
-- [The not so &#39;wicked&#39; path from &#39;The Wizard of Oz&#39; to the moon landing](https://www.space.com/not-so-wicked-wizard-of-oz-moon-for-all-mankind)
-- [May Mobility to test driverless shuttles in Ann Arbor](https://techcrunch.com/2024/11/20/may-mobility-to-test-driverless-shuttles-in-ann-arbor/)
-- [Benchmark invests $19M in New Lantern, a smarter way for radiologists to use AI](https://techcrunch.com/2024/11/20/benchmark-invests-19m-in-new-lantern-a-smarter-way-for-radiologists-to-use-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
