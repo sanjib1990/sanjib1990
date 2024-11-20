@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Current AI scaling laws are showing diminishing returns, forcing AI labs to change course](https://techcrunch.com/2024/11/20/ai-scaling-laws-are-showing-diminishing-returns-forcing-ai-labs-to-change-course/)
+- [&#39;Superhighways&#39; connecting the cosmic web could unlock secrets about dark matter](https://www.space.com/the-universe/superhighways-connecting-the-cosmic-web-could-unlock-secrets-about-dark-matter)
+- [I love this Star Trek-themed underwear and it&#39;s 20% off for Black Friday](https://www.space.com/20-percent-off-star-trek-underwear-oddballs-black-friday-2024)
+- [Fintech giant Finastra confirms it’s investigating a data breach](https://techcrunch.com/2024/11/20/fintech-giant-finastra-confirms-its-investigating-a-data-breach/)
 - [See Mars make a close pass to the moon tonight](https://www.space.com/stargazing/see-mars-make-a-close-pass-to-the-moon-tonight)
-- [Portugal’s Tekever raises $74M for dual-use drone platform deployed to Ukraine](https://techcrunch.com/2024/11/20/portugals-tekever-raises-74m-for-dual-use-drone-platform-deployed-to-ukraine/)
-- [UK crashes out of global top 50 supercomputer ranking](https://techcrunch.com/2024/11/20/uk-crashes-out-of-global-top-50-supercomputer-ranking/)
-- [&#39;It&#39;s bananas:&#39; Toy fruit becomes first zero-g indicator to fly on SpaceX Starship](https://www.space.com/spacex-starship-test-flight-six-banana)
-- [UK open to social media ban for kids as gov’t kicks off feasibility study](https://techcrunch.com/2024/11/20/uk-open-to-social-media-ban-for-kids-as-govt-kicks-off-feasibility-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
