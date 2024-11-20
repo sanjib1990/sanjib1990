@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/)
+- [Final trailer for Prime Video&#39;s &#39;Secret Level&#39; looks out of this world](https://www.space.com/entertainment/final-trailer-for-prime-videos-secret-level-looks-out-of-this-world)
+- [Solar power magnate Gautam Adani and others indicted over alleged $250M bribery scheme](https://techcrunch.com/2024/11/20/solar-power-magnate-gautam-adani-and-others-indicted-over-alleged-250m-bribery-scheme/)
 - [‘PDF to Brainrot’ study tools are a strange iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
-- [Fusion startup Tokamak Energy attracts $125M for its egg-like reactor design](https://techcrunch.com/2024/11/20/fusion-startup-tokamak-energy-attracts-125m-for-its-egg-like-reactor-design/)
-- [Another VC-backed fintech, Earnin, faces crackdown over allegedly ‘predatory’ loans](https://techcrunch.com/2024/11/20/another-vc-backed-fintech-earnin-faces-crackdown-over-allegedly-predatory-loans/)
-- [Supermassive black holes bent the laws of physics to grow to monstrous sizes](https://www.space.com/supermassive-black-hole-physics-big-bang)
-- [It’s not just you, Reddit is down](https://techcrunch.com/2024/11/20/reddit-is-down-according-to-user-reports/)
+- [SabersPro Obi Wan Ep3 lightsaber review](https://www.space.com/saberspro-obi-wan-ep-3-lightsaber-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
