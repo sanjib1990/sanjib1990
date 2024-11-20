@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Current AI scaling laws are showing diminishing returns, forcing AI labs to change course](https://techcrunch.com/2024/11/20/ai-scaling-laws-are-showing-diminishing-returns-forcing-ai-labs-to-change-course/)
-- [&#39;Superhighways&#39; connecting the cosmic web could unlock secrets about dark matter](https://www.space.com/the-universe/superhighways-connecting-the-cosmic-web-could-unlock-secrets-about-dark-matter)
-- [I love this Star Trek-themed underwear and it&#39;s 20% off for Black Friday](https://www.space.com/20-percent-off-star-trek-underwear-oddballs-black-friday-2024)
-- [Fintech giant Finastra confirms it’s investigating a data breach](https://techcrunch.com/2024/11/20/fintech-giant-finastra-confirms-its-investigating-a-data-breach/)
-- [See Mars make a close pass to the moon tonight](https://www.space.com/stargazing/see-mars-make-a-close-pass-to-the-moon-tonight)
+- [Riding high on open source ERP, Odoo raises $527M via secondaries lifting its valuation to $5.26B](https://techcrunch.com/2024/11/20/riding-high-on-open-source-erp-odoo-raises-527m-via-secondaries-lifting-its-valuation-to-5-26b/)
+- [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/)
+- [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/)
+- [Solar Orbiter spacecraft captures sharpest views yet of sun&#39;s surface &lpar;images&rpar;](https://www.space.com/the-universe/sun/solar-orbiter-spacecraft-captures-sharpest-views-yet-of-suns-surface-images)
+- [Federato fixes insurance risk analysis with AI, raises $40M](https://techcrunch.com/2024/11/20/federato-fixes-insurance-risk-analysis-with-ai-raises-40m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
