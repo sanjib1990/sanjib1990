@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI releases a teacher’s guide to ChatGPT, but some educators are skeptical](https://techcrunch.com/2024/11/20/openai-releases-a-teachers-guide-to-chatgpt-but-some-educators-are-skeptical/)
+- [The Unistellar eQuinox 2 is our top-rated smart telescope and now has a $500 price cut in this Black Friday deal](https://www.space.com/stargazing/astronomy-kit/black-friday-telescope-deal-2024-our-top-rated-smart-telescope-now-500-cheaper)
 - [You have a few hours left to bid on this burned-out husk in San Francisco](https://techcrunch.com/2024/11/19/you-have-a-few-hours-left-to-bid-on-this-burned-out-husk-in-san-francisco/)
 - [&#39;Mind-blowing&#39; dark energy instrument results show Einstein was right about gravity — again](https://www.space.com/desi-einstein-gravity-dark-energy)
 - [Trump watches SpaceX launch Starship&#39;s 6th test flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/trump-watches-spacex-launch-starships-6th-test-flight-photos)
-- [Ben Ling’s Bling Capital has already nabbed another $270M for fourth fund](https://techcrunch.com/2024/11/19/ben-lings-bling-capital-has-already-nabbed-another-270m-for-fourth-fund/)
-- [SpaceX launches Starship for the sixth time — with Trump on site to watch](https://techcrunch.com/2024/11/19/spacex-launches-starship-for-the-sixth-time-with-trump-on-site-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
