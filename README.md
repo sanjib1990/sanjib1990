@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘PDF to Brainrot’ study tools are a strange iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
+- [Fusion startup Tokamak Energy attracts $125M for its egg-like reactor design](https://techcrunch.com/2024/11/20/fusion-startup-tokamak-energy-attracts-125m-for-its-egg-like-reactor-design/)
 - [Another VC-backed fintech, Earnin, faces crackdown over allegedly ‘predatory’ loans](https://techcrunch.com/2024/11/20/another-vc-backed-fintech-earnin-faces-crackdown-over-allegedly-predatory-loans/)
 - [Supermassive black holes bent the laws of physics to grow to monstrous sizes](https://www.space.com/supermassive-black-hole-physics-big-bang)
 - [It’s not just you, Reddit is down](https://techcrunch.com/2024/11/20/reddit-is-down-according-to-user-reports/)
-- [FTX CTO Gary Wang avoids prison time](https://techcrunch.com/2024/11/20/ftx-cto-gary-wang-avoids-prison-time/)
-- [US charges five accused of multi-year hacking spree targeting tech and crypto giants](https://techcrunch.com/2024/11/20/us-charges-five-accused-of-multi-year-hacking-spree-targeting-tech-and-crypto-giants/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
