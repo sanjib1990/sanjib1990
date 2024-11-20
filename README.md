@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comcast spins off its cable channels into separate company as it looks for growth](https://techcrunch.com/2024/11/20/comcast-spins-off-its-cable-channels-into-separate-company-as-it-looks-for-growth/)
+- [Chinese AV startup Pony AI boosts its IPO goal to $260M](https://techcrunch.com/2024/11/20/chinese-av-startup-pony-ai-boosts-its-ipo-goal-to-260m/)
+- [Scientists find extremely young exoplanet orbiting star with a wonky disk](https://www.space.com/the-universe/exoplanets/scientists-find-extremely-young-exoplanet-orbiting-a-star-with-a-wonky-disk)
+- [Amazon debuts its largest Echo Show yet](https://techcrunch.com/2024/11/20/amazon-debuts-its-largest-echo-show-yet/)
 - [Riding high on open source ERP, Odoo raises $527M via secondaries lifting its valuation to $5.26B](https://techcrunch.com/2024/11/20/riding-high-on-open-source-erp-odoo-raises-527m-via-secondaries-lifting-its-valuation-to-5-26b/)
-- [YC-backed Four Growers builds robots to help solve greenhouse labor shortages](https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/)
-- [Raven Space Systems opens up a whole new category of industrial 3D printing](https://techcrunch.com/2024/11/20/raven-space-systems-opens-up-a-whole-new-category-of-industrial-3d-printing/)
-- [Solar Orbiter spacecraft captures sharpest views yet of sun&#39;s surface &lpar;images&rpar;](https://www.space.com/the-universe/sun/solar-orbiter-spacecraft-captures-sharpest-views-yet-of-suns-surface-images)
-- [Federato fixes insurance risk analysis with AI, raises $40M](https://techcrunch.com/2024/11/20/federato-fixes-insurance-risk-analysis-with-ai-raises-40m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
