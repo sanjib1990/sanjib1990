@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Somewhere in the multiverse, dark energy is helping stars and life form](https://www.space.com/the-universe/somewhere-in-the-multiverse-dark-energy-is-helping-stars-and-life-form)
-- [Federal prosecutors have charged another Forbes 30 Under 30 alum with fraud](https://techcrunch.com/2024/11/20/federal-prosecutors-have-charged-another-forbes-30-under-30-alum-with-fraud/)
-- [A Chinese lab has released a ‘reasoning’ AI model to rival OpenAI’s o1](https://techcrunch.com/2024/11/20/a-chinese-lab-has-released-a-model-to-rival-openais-o1/)
-- [TV Time points to Apple’s ‘significant power’ over developers after being removed from App Store](https://techcrunch.com/2024/11/20/tv-time-points-to-apples-significant-power-over-developers-after-being-removed-from-app-store/)
-- [Comcast spins off its cable channels into separate company as it looks for growth](https://techcrunch.com/2024/11/20/comcast-spins-off-its-cable-channels-into-separate-company-as-it-looks-for-growth/)
+- [Messenger gets HD video calls, AI backgrounds, and more](https://techcrunch.com/2024/11/20/messenger-gets-hd-video-calls-ai-backgrounds-and-more/)
+- [DuckDuckGo calls for EU to widen its Digital Markets Act probe of Google](https://techcrunch.com/2024/11/20/duckduckgo-calls-for-eu-to-widen-its-digital-markets-act-probe-of-google/)
+- [This Week in AI: Congressional commission warns of Chinese AGI](https://techcrunch.com/2024/11/20/this-week-in-ai-congressional-commission-warns-of-chinese-agi/)
+- [&#39;There are lots of mysteries in our backyard&#39;: Revised solar system chemistry explains long-standing puzzles](https://www.space.com/the-universe/solar-system/there-are-lots-of-mysteries-in-our-backyard-revised-solar-system-chemistry-explains-long-standing-puzzles)
+- [Did NASA&#39;s Perseverance rover find organics on Mars? These scientists aren&#39;t so sure](https://www.space.com/space-exploration/mars-rovers/did-nasas-perseverance-rover-find-organics-on-mars-these-scientists-arent-so-sure)
 <!-- BLOG-POST-LIST:END -->
 
 ---
