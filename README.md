@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Mars make a close pass to the moon tonight](https://www.space.com/stargazing/see-mars-make-a-close-pass-to-the-moon-tonight)
 - [Portugal’s Tekever raises $74M for dual-use drone platform deployed to Ukraine](https://techcrunch.com/2024/11/20/portugals-tekever-raises-74m-for-dual-use-drone-platform-deployed-to-ukraine/)
 - [UK crashes out of global top 50 supercomputer ranking](https://techcrunch.com/2024/11/20/uk-crashes-out-of-global-top-50-supercomputer-ranking/)
 - [&#39;It&#39;s bananas:&#39; Toy fruit becomes first zero-g indicator to fly on SpaceX Starship](https://www.space.com/spacex-starship-test-flight-six-banana)
 - [UK open to social media ban for kids as gov’t kicks off feasibility study](https://techcrunch.com/2024/11/20/uk-open-to-social-media-ban-for-kids-as-govt-kicks-off-feasibility-study/)
-- [OpenAI releases a teacher’s guide to ChatGPT, but some educators are skeptical](https://techcrunch.com/2024/11/20/openai-releases-a-teachers-guide-to-chatgpt-but-some-educators-are-skeptical/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
