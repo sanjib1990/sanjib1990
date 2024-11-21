@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/)
-- [Star imaged in detail outside the Milky Way for the first time &lpar;image, video&rpar;](https://www.space.com/star-outside-milky-way-wohg64)
-- [Blue Bear Capital lands $160M to back AI founders in climate, energy, and industry](https://techcrunch.com/2024/11/21/blue-bear-capital-lands-160m-to-back-ai-founders-in-climate-energy-and-industry/)
-- [What&#39;s next for SpaceX&#39;s Starship after its successful 6th test flight?](https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-its-successful-6th-test-flight)
-- [SpaceX launching 24 Starlink satellites from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-24-starlink-satellites-from-florida-today)
+- [Palo Alto Networks warns hackers are breaking into its customers’ firewalls — again](https://techcrunch.com/2024/11/21/palo-alto-networks-warns-hackers-are-breaking-into-its-customers-firewalls-again/)
+- [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/)
+- [Tubi hops on the short-form video bandwagon with its ‘Scenes’ feature](https://techcrunch.com/2024/11/21/tubi-hops-on-the-short-form-video-bandwagon-with-its-scenes-feature/)
+- [Will astronauts need to be rescued from the moon? NASA wants to be prepared just in case](https://www.space.com/space-exploration/artemis/will-astronauts-need-to-be-rescued-from-the-moon-nasa-wants-to-be-prepared-just-in-case)
+- [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
