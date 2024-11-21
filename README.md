@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zepto raises another $350 million amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/)
+- [SpaceX and NASA show off how Starship will help astronauts land on the moon &lpar;images&rpar;](https://www.space.com/space-exploration/artemis/spacex-and-nasa-show-off-how-starship-will-help-astronauts-land-on-the-moon-images)
+- [YouTube Shorts’ Dream Screen feature can now generate AI video backgrounds](https://techcrunch.com/2024/11/21/youtube-shorts-dream-screen-feature-can-now-generate-ai-video-backgrounds/)
+- [Marissa Mayer just laid out a possible business model for ad-supported AI chatbots](https://techcrunch.com/2024/11/21/marissa-mayer-just-laid-out-a-possible-business-model-for-ad-supported-ai-chatbots/)
 - [Canada wants your help to name its 1st moon rover](https://www.space.com/space-exploration/international-space-station/canada-wants-your-help-to-name-its-1st-moon-rover)
-- [Battery unicorn Northvolt files for bankruptcy, upending Europe’s industrial plan](https://techcrunch.com/2024/11/21/battery-unicorn-northvolt-files-for-bankruptcy-upending-europes-industrial-plan/)
-- [James Webb Space Telescope unveils surprising &#39;Red Monsters&#39; in the early universe](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-unveils-surprising-red-monsters-in-the-early-universe)
-- [Brave Search adds AI chat for follow-up questions after your initial query](https://techcrunch.com/2024/11/21/brave-search-adds-ai-chat-for-follow-up-questions-after-your-initial-query/)
-- [NASA chooses SpaceX and Blue Origin to deliver rover, astronaut base to the moon](https://www.space.com/space-exploration/artemis/nasa-chooses-spacex-and-blue-origin-to-deliver-rover-astronaut-base-to-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
