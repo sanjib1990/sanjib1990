@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope spots 1st &#39;Einstein zig-zag&#39; — here&#39;s why scientists are thrilled](https://www.space.com/first-einstein-zig-zag-jwst)
-- [WhatsApp rolls out voice message transcripts](https://techcrunch.com/2024/11/21/whatsapp-rolls-out-voice-message-transcripts/)
-- [AI2’s open source Tulu 3 lets anyone play the AI post-training game](https://techcrunch.com/2024/11/21/ai2s-open-source-tulu-3-lets-anyone-play-the-ai-post-training-game/)
-- [Watch Blue Origin launch &#39;Space Gal&#39; Emily Calandrelli, 5 others on tourism flight Nov. 22](https://www.space.com/space-exploration/private-spaceflight/watch-blue-origin-launch-space-gal-emily-calandrelli-space-tourists-ns-28-livestream)
-- [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/)
+- [SpaceX signs second commercial deal for Starship lunar lander with Lunar Outpost](https://techcrunch.com/2024/11/21/spacex-signs-second-commercial-deal-for-starship-lunar-lander-with-lunar-outpost/)
+- [Cruise fesses up, Pony AI raises its IPO ambitions, and the TuSimple drama dials back up](https://techcrunch.com/2024/11/21/cruise-fesses-up-pony-ai-raises-its-ipo-ambitions-and-the-tusimple-drama-dials-back-up/)
+- [Egg-shaped galaxies may be aligned to the black holes at their hearts, astronomers find](https://www.space.com/the-universe/black-holes/egg-shaped-galaxies-may-be-aligned-to-the-black-holes-at-their-hearts-astronomers-find)
+- [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/)
+- [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
