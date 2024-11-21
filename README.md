@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zepto raises another $350 million amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/)
+- [October 2024 set multiple US records for the driest month ever](https://www.space.com/the-universe/climate-change/october-2024-set-multiple-us-records-for-the-driest-month-ever)
+- [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/)
 - [SpaceX and NASA show off how Starship will help astronauts land on the moon &lpar;images&rpar;](https://www.space.com/space-exploration/artemis/spacex-and-nasa-show-off-how-starship-will-help-astronauts-land-on-the-moon-images)
 - [YouTube Shorts’ Dream Screen feature can now generate AI video backgrounds](https://techcrunch.com/2024/11/21/youtube-shorts-dream-screen-feature-can-now-generate-ai-video-backgrounds/)
 - [Marissa Mayer just laid out a possible business model for ad-supported AI chatbots](https://techcrunch.com/2024/11/21/marissa-mayer-just-laid-out-a-possible-business-model-for-ad-supported-ai-chatbots/)
-- [Canada wants your help to name its 1st moon rover](https://www.space.com/space-exploration/international-space-station/canada-wants-your-help-to-name-its-1st-moon-rover)
 <!-- BLOG-POST-LIST:END -->
 
 ---
