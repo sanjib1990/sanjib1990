@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Battery unicorn Northvolt files for bankruptcy, upending Europe’s industrial plan](https://techcrunch.com/2024/11/21/battery-unicorn-northvolt-files-for-bankruptcy-upending-europes-industrial-plan/)
+- [James Webb Space Telescope unveils surprising &#39;Red Monsters&#39; in the early universe](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-unveils-surprising-red-monsters-in-the-early-universe)
+- [Brave Search adds AI chat for follow-up questions after your initial query](https://techcrunch.com/2024/11/21/brave-search-adds-ai-chat-for-follow-up-questions-after-your-initial-query/)
+- [NASA chooses SpaceX and Blue Origin to deliver rover, astronaut base to the moon](https://www.space.com/space-exploration/artemis/nasa-chooses-spacex-and-blue-origin-to-deliver-rover-astronaut-base-to-the-moon)
 - [SpaceX signs second commercial deal for Starship lunar lander with Lunar Outpost](https://techcrunch.com/2024/11/21/spacex-signs-second-commercial-deal-for-starship-lunar-lander-with-lunar-outpost/)
-- [Cruise fesses up, Pony AI raises its IPO ambitions, and the TuSimple drama dials back up](https://techcrunch.com/2024/11/21/cruise-fesses-up-pony-ai-raises-its-ipo-ambitions-and-the-tusimple-drama-dials-back-up/)
-- [Egg-shaped galaxies may be aligned to the black holes at their hearts, astronomers find](https://www.space.com/the-universe/black-holes/egg-shaped-galaxies-may-be-aligned-to-the-black-holes-at-their-hearts-astronomers-find)
-- [German fintech unicorn N26 just had its first profitable quarter](https://techcrunch.com/2024/11/21/german-fintech-unicorn-n26-just-had-its-first-profitable-quarter/)
-- [Teleo wants to help the robotics industry reach its ‘ChatGPT moment’](https://techcrunch.com/2024/11/21/teleo-wants-to-help-the-robotics-industry-reach-its-chatgpt-moment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
