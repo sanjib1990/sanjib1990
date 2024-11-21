@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India’s Arzooo, once valued at $310M, sells in distressed deal](https://techcrunch.com/2024/11/20/arzooo-once-valued-at-310m-sells-in-distressed-deal/)
 - [OpenAI accidentally deleted potential evidence in NY Times copyright lawsuit](https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/)
 - [Nvidia’s CEO defends his moat as AI labs change how they improve their AI models](https://techcrunch.com/2024/11/20/nvidias-ceo-defends-his-moat-as-ai-labs-change-how-they-improve-their-ai-models/)
 - [NASA&#39;s Curiosity rover captures 360-degree view of Mars — and finds strange sulfur stones](https://www.space.com/the-universe/mars/nasas-curiosity-rover-captures-360-degree-view-of-mars-and-finds-strange-sulfur-stones)
 - [Reddit appears to be back after a 4-hour-long outage](https://techcrunch.com/2024/11/20/reddit-appears-to-be-back-after-a-4-hour-long-outage/)
-- [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
