@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX likely to get FAA approval for 25 Starship launches in 2025](https://www.space.com/space-exploration/private-spaceflight/spacex-likely-to-get-faa-approval-for-25-starship-launches-in-2025)
+- [Apple is reportedly building a more conversational Siri powered by LLMs](https://techcrunch.com/2024/11/21/apple-is-reportedly-building-a-more-conversational-siri-powered-by-llms/)
+- [Future Google supplier Kairos gets approval to build two small nuclear reactors](https://techcrunch.com/2024/11/21/future-google-supplier-kairos-gets-approval-to-build-two-small-nuclear-reactors/)
 - [October 2024 set multiple US records for the driest month ever](https://www.space.com/the-universe/climate-change/october-2024-set-multiple-us-records-for-the-driest-month-ever)
 - [Zepto raises another $350M amid retail upheaval in India](https://techcrunch.com/2024/11/21/zepto-raises-another-350-million-amid-retail-upheaval-in-india/)
-- [SpaceX and NASA show off how Starship will help astronauts land on the moon &lpar;images&rpar;](https://www.space.com/space-exploration/artemis/spacex-and-nasa-show-off-how-starship-will-help-astronauts-land-on-the-moon-images)
-- [YouTube Shorts’ Dream Screen feature can now generate AI video backgrounds](https://techcrunch.com/2024/11/21/youtube-shorts-dream-screen-feature-can-now-generate-ai-video-backgrounds/)
-- [Marissa Mayer just laid out a possible business model for ad-supported AI chatbots](https://techcrunch.com/2024/11/21/marissa-mayer-just-laid-out-a-possible-business-model-for-ad-supported-ai-chatbots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
