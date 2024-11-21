@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OneRail’s software helps solve the last-mile delivery problem](https://techcrunch.com/2024/11/21/onerails-software-helps-solve-the-last-mile-delivery-problem/)
+- [Star imaged in detail outside the Milky Way for the first time &lpar;image, video&rpar;](https://www.space.com/star-outside-milky-way-wohg64)
+- [Blue Bear Capital lands $160M to back AI founders in climate, energy, and industry](https://techcrunch.com/2024/11/21/blue-bear-capital-lands-160m-to-back-ai-founders-in-climate-energy-and-industry/)
 - [What&#39;s next for SpaceX&#39;s Starship after its successful 6th test flight?](https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-its-successful-6th-test-flight)
 - [SpaceX launching 24 Starlink satellites from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-24-starlink-satellites-from-florida-today)
-- [Bill to ban social media use by under-16s arrives in Australia’s parliament](https://techcrunch.com/2024/11/21/bill-to-ban-social-media-use-by-under-16s-arrives-in-australias-parliament/)
-- [Lighthouse, an analytics provider for the   hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/)
-- [DOJ: Google must sell Chrome to end monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
