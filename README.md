@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Curiosity rover captures 360-degree view of Mars — and finds strange sulfur stones](https://www.space.com/the-universe/mars/nasas-curiosity-rover-captures-360-degree-view-of-mars-and-finds-strange-sulfur-stones)
+- [Reddit appears to be back after a four-hour-long outage](https://techcrunch.com/2024/11/20/reddit-is-down-according-to-user-reports/)
 - [Snowflake snaps up data management company Datavolo](https://techcrunch.com/2024/11/20/snowflake-snaps-up-data-management-company-datavolo/)
 - [Final trailer for Prime Video&#39;s &#39;Secret Level&#39; looks out of this world](https://www.space.com/entertainment/final-trailer-for-prime-videos-secret-level-looks-out-of-this-world)
 - [Solar power magnate Gautam Adani and others indicted over alleged $250M bribery scheme](https://techcrunch.com/2024/11/20/solar-power-magnate-gautam-adani-and-others-indicted-over-alleged-250m-bribery-scheme/)
-- [‘PDF to Brainrot’ study tools are a strange iteration on a TikTok trend](https://techcrunch.com/2024/11/20/pdf-to-brainrot-study-tools-are-a-strange-iteration-on-a-tiktok-trend/)
-- [SabersPro Obi Wan Ep3 lightsaber review](https://www.space.com/saberspro-obi-wan-ep-3-lightsaber-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
