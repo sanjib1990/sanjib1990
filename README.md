@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada wants your help to name its 1st moon rover](https://www.space.com/space-exploration/international-space-station/canada-wants-your-help-to-name-its-1st-moon-rover)
 - [Battery unicorn Northvolt files for bankruptcy, upending Europe’s industrial plan](https://techcrunch.com/2024/11/21/battery-unicorn-northvolt-files-for-bankruptcy-upending-europes-industrial-plan/)
 - [James Webb Space Telescope unveils surprising &#39;Red Monsters&#39; in the early universe](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-unveils-surprising-red-monsters-in-the-early-universe)
 - [Brave Search adds AI chat for follow-up questions after your initial query](https://techcrunch.com/2024/11/21/brave-search-adds-ai-chat-for-follow-up-questions-after-your-initial-query/)
 - [NASA chooses SpaceX and Blue Origin to deliver rover, astronaut base to the moon](https://www.space.com/space-exploration/artemis/nasa-chooses-spacex-and-blue-origin-to-deliver-rover-astronaut-base-to-the-moon)
-- [SpaceX signs second commercial deal for Starship lunar lander with Lunar Outpost](https://techcrunch.com/2024/11/21/spacex-signs-second-commercial-deal-for-starship-lunar-lander-with-lunar-outpost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
