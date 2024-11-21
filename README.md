@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lighthouse, an analytics provider for the   hospitality sector, lights up with $370M at a $1B valuation](https://techcrunch.com/2024/11/21/lighthouse-an-analytics-provider-for-the-hospitality-sector-lights-up-with-370m-at-a-1b-valuation/)
 - [DOJ: Google must sell Chrome to end monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/)
 - [WhatsApp will finally let you unsubscribe from business marketing spam](https://techcrunch.com/2024/11/20/whatsapp-will-finally-let-you-unsubscribe-from-business-marketing-spam/)
 - [OneCell Diagnostics bags $16M to help limit cancer reoccurrence using AI](https://techcrunch.com/2024/11/20/onecell-diagnostics-bags-16m-to-help-limit-cancer-reoccurrence-using-ai/)
 - [India’s Arzooo, once valued at $310M, sells in distressed deal](https://techcrunch.com/2024/11/20/arzooo-once-valued-at-310m-sells-in-distressed-deal/)
-- [OpenAI accidentally deleted potential evidence in NY Times copyright lawsuit](https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
