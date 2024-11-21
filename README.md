@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads adjusts its algorithm to show you more content from accounts you follow](https://techcrunch.com/2024/11/21/threads-adjusts-its-algorithm-to-show-you-more-content-from-accounts-you-follow/)
-- [WordPress.com owner Automattic snaps up grammar checker Harper](https://techcrunch.com/2024/11/21/wordpress-com-owner-automattic-snaps-up-grammar-checker-harper/)
-- [Reddit is down again](https://techcrunch.com/2024/11/21/reddit-is-down-again/)
-- [FCC chair Jessica Rosenworcel agrees to step down](https://techcrunch.com/2024/11/21/fcc-chair-jessica-rosenworcel-agrees-to-step-down/)
-- [Spotify tests a video feature for audiobooks as it ramps up video expansion](https://techcrunch.com/2024/11/21/spotify-tests-a-video-feature-for-audiobooks-as-it-ramps-up-video-expansion/)
+- [James Webb Space Telescope spots 1st &#39;Einstein zig-zag&#39; — here&#39;s why scientists are thrilled](https://www.space.com/first-einstein-zig-zag-jwst)
+- [WhatsApp rolls out voice message transcripts](https://techcrunch.com/2024/11/21/whatsapp-rolls-out-voice-message-transcripts/)
+- [AI2’s open source Tulu 3 lets anyone play the AI post-training game](https://techcrunch.com/2024/11/21/ai2s-open-source-tulu-3-lets-anyone-play-the-ai-post-training-game/)
+- [Watch Blue Origin launch &#39;Space Gal&#39; Emily Calandrelli, 5 others on tourism flight Nov. 22](https://www.space.com/space-exploration/private-spaceflight/watch-blue-origin-launch-space-gal-emily-calandrelli-space-tourists-ns-28-livestream)
+- [Crusoe, a rumored OpenAI data center supplier, has secured $686M in new funds, filing shows](https://techcrunch.com/2024/11/21/crusoe-a-rumored-openai-data-center-supplier-has-secured-686m-in-new-funds-filing-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
