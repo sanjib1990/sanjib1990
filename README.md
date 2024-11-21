@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads adjusts its algorithm to show you more content from accounts you follow](https://techcrunch.com/2024/11/21/threads-adjusts-its-algorithm-to-show-you-more-content-from-accounts-you-follow/)
+- [WordPress.com owner Automattic snaps up grammar checker Harper](https://techcrunch.com/2024/11/21/wordpress-com-owner-automattic-snaps-up-grammar-checker-harper/)
+- [Reddit is down again](https://techcrunch.com/2024/11/21/reddit-is-down-again/)
+- [FCC chair Jessica Rosenworcel agrees to step down](https://techcrunch.com/2024/11/21/fcc-chair-jessica-rosenworcel-agrees-to-step-down/)
 - [Spotify tests a video feature for audiobooks as it ramps up video expansion](https://techcrunch.com/2024/11/21/spotify-tests-a-video-feature-for-audiobooks-as-it-ramps-up-video-expansion/)
-- [Suborbital rocket set to launch 6 experiments from Sweden&#39;s Arctic spaceport on Nov. 22](https://www.space.com/space-exploration/private-spaceflight/suborbital-rocket-set-to-launch-6-experiments-from-swedens-arctic-spaceport-on-nov-22)
-- [&#39;Star Trek: Lower Decks&#39; Season 5 episode 6: Is Ensign Olly really a demigod?](https://www.space.com/entertainment/star-trek-lower-decks-season-5-episode-6-is-ensign-olly-really-a-demigod)
-- [Wiz acquires Dazz for $450M to expand its cybersecurity platform](https://techcrunch.com/2024/11/21/wiz-acquires-dazz-for-450m-to-expand-its-cybersecurity-platform/)
-- [Palo Alto Networks warns hackers are breaking into its customers’ firewalls — again](https://techcrunch.com/2024/11/21/palo-alto-networks-warns-hackers-are-breaking-into-its-customers-firewalls-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
