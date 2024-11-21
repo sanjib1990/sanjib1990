@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify tests a video feature for audiobooks as it ramps up video expansion](https://techcrunch.com/2024/11/21/spotify-tests-a-video-feature-for-audiobooks-as-it-ramps-up-video-expansion/)
+- [Suborbital rocket set to launch 6 experiments from Sweden&#39;s Arctic spaceport on Nov. 22](https://www.space.com/space-exploration/private-spaceflight/suborbital-rocket-set-to-launch-6-experiments-from-swedens-arctic-spaceport-on-nov-22)
+- [&#39;Star Trek: Lower Decks&#39; Season 5 episode 6: Is Ensign Olly really a demigod?](https://www.space.com/entertainment/star-trek-lower-decks-season-5-episode-6-is-ensign-olly-really-a-demigod)
+- [Wiz acquires Dazz for $450M to expand its cybersecurity platform](https://techcrunch.com/2024/11/21/wiz-acquires-dazz-for-450m-to-expand-its-cybersecurity-platform/)
 - [Palo Alto Networks warns hackers are breaking into its customers’ firewalls — again](https://techcrunch.com/2024/11/21/palo-alto-networks-warns-hackers-are-breaking-into-its-customers-firewalls-again/)
-- [Candela brings its P-12 electric ferry to Tahoe and adds another $14M to build more](https://techcrunch.com/2024/11/21/candela-brings-its-p-12-electric-ferry-to-tahoe-and-adds-another-14m-to-build-more/)
-- [Tubi hops on the short-form video bandwagon with its ‘Scenes’ feature](https://techcrunch.com/2024/11/21/tubi-hops-on-the-short-form-video-bandwagon-with-its-scenes-feature/)
-- [Will astronauts need to be rescued from the moon? NASA wants to be prepared just in case](https://www.space.com/space-exploration/artemis/will-astronauts-need-to-be-rescued-from-the-moon-nasa-wants-to-be-prepared-just-in-case)
-- [Lightning looks to make managing AI a piece of cake](https://techcrunch.com/2024/11/21/lightning-ai-looks-to-make-managing-ai-a-piece-of-cake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
