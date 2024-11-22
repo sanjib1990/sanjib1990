@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic raises an additional $4B from Amazon, makes AWS is ‘primary’ cloud partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-is-primary-cloud-partner/)
+- [One of my favorite Lego space sets, Tales of the Space Age, is 30% off this Black Friday](https://www.space.com/lego-tales-of-the-space-age-save-30-percent-black-friday-2024)
+- [Unusual black hole light bursts puzzle astronomers: &#39;We are finding a lot of weird stuff&#39;](https://www.space.com/the-universe/black-holes/unusual-black-hole-light-bursts-puzzle-astronomers-we-are-finding-a-lot-of-weird-stuff)
+- [Apple’s mobile browser policies and Google pact are ‘holding back innovation,’ UK regulator says](https://techcrunch.com/2024/11/22/apples-mobile-browser-policies-and-google-pact-are-holding-back-innovation-uk-regulator-says/)
 - [SpaceX&#39;s Starship will fly Lunar Outpost&#39;s rover to the moon](https://www.space.com/space-exploration/moon-rovers/spacexs-starship-will-fly-lunar-outposts-rover-to-the-moon)
-- [I&#39;m a Lego expert and I think this Star Wars Chewbacca Black Friday deal is not to be missed](https://www.space.com/lego-star-wars-chewbacca-save-55-dollars-black-friday-2024)
-- [Earth&#39;s &#39;second moon&#39; is just visiting its cosmic parents for Thanksgiving](https://www.space.com/earth-second-moon-2024-PT5-asteroid)
-- [Mass Effect: The Board Game — Priority: Hagalaz review](https://www.space.com/entertainment/space-games-toys/mass-effect-the-board-game-priority-hagalaz-review)
-- [Flipkart co-founder Binny Bansal leaves PhonePe’s board](https://techcrunch.com/2024/11/22/flipkart-co-founder-binny-bansal-leaves-phonepe-board/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
