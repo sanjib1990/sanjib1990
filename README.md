@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin&#39;s powerful New Glenn rocket rises on the pad ahead of 1st launch &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-powerful-new-glenn-rocket-rises-on-the-pad-ahead-of-1st-launch-photo)
 - [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/)
 - [Precise new moon map could help guide future sample-return missions](https://www.space.com/the-universe/moon/precise-new-moon-map-could-help-guide-future-sample-return-missions)
 - [Fondo wants to mitigate the US’ accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/)
 - [LinkedIn co-founder Reid Hoffman warns against Elon Musk’s ‘conflict of interest’ in setting AI policies](https://techcrunch.com/2024/11/22/linkedin-co-founder-reid-hoffman-donald-trump-elon-musks-conflict-of-interest-in-setting-ai-policies/)
-- [How to turn a Bluesky Starter Pack into a List](https://techcrunch.com/2024/11/22/how-to-turn-a-bluesky-starter-pack-into-a-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
