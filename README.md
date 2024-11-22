@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did alien life exist in hot water on Mars billions of years ago?](https://www.space.com/mars-hot-water-alien-life-past)
+- [AI chip startup MatX, founded by Google alums, raises Series A at $300M+ valuation, sources say](https://techcrunch.com/2024/11/22/ai-chip-startup-matx-founded-by-google-alums-raises-series-a-at-300m-valuation-sources-say/)
 - [Revolut to launch mortgages, smart ATMs and business credit products](https://techcrunch.com/2024/11/22/revolut-to-launch-mortgages-smart-atms-and-business-credit-products/)
 - [Italian food delivery app Foodinho eats another privacy fine](https://techcrunch.com/2024/11/22/italian-food-delivery-app-foodinho-eats-another-privacy-fine/)
 - [Lunar Google Doodle celebrates half-lit third quarter moon each month with interactive card game](https://www.space.com/entertainment/lunar-google-doodle-celebrates-half-lit-third-quarter-moon-each-month-with-interactive-card-game)
-- [2-million-mile-per-hour galactic crash reawakens a dangerous &#39;cosmic crossroads&#39;](https://www.space.com/million-mph-galaxy-collision-stephans)
-- [The beginner-friendly DJI Mini 3 drone is $90 off this Black Friday](https://www.space.com/dji-mini-3-save-90-dollars-black-friday-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
