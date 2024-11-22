@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Did alien life exist in hot water on Mars billions of years ago?](https://www.space.com/mars-hot-water-alien-life-past)
-- [AI chip startup MatX, founded by Google alums, raises Series A at $300M+ valuation, sources say](https://techcrunch.com/2024/11/22/ai-chip-startup-matx-founded-by-google-alums-raises-series-a-at-300m-valuation-sources-say/)
-- [Revolut to launch mortgages, smart ATMs and business credit products](https://techcrunch.com/2024/11/22/revolut-to-launch-mortgages-smart-atms-and-business-credit-products/)
-- [Italian food delivery app Foodinho eats another privacy fine](https://techcrunch.com/2024/11/22/italian-food-delivery-app-foodinho-eats-another-privacy-fine/)
-- [Lunar Google Doodle celebrates half-lit third quarter moon each month with interactive card game](https://www.space.com/entertainment/lunar-google-doodle-celebrates-half-lit-third-quarter-moon-each-month-with-interactive-card-game)
+- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/)
+- [Precise new moon map could help guide future sample-return missions](https://www.space.com/the-universe/moon/precise-new-moon-map-could-help-guide-future-sample-return-missions)
+- [Fondo wants to mitigate the US’ accountant shortage with its AI bookkeeping service](https://techcrunch.com/2024/11/22/yc-backed-fondo-raises-funding-for-its-ai-powered-bookkeeping-and-taxes-platform/)
+- [LinkedIn co-founder Reid Hoffman warns against Elon Musk’s ‘conflict of interest’ in setting AI policies](https://techcrunch.com/2024/11/22/linkedin-co-founder-reid-hoffman-donald-trump-elon-musks-conflict-of-interest-in-setting-ai-policies/)
+- [How to turn a Bluesky Starter Pack into a List](https://techcrunch.com/2024/11/22/how-to-turn-a-bluesky-starter-pack-into-a-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
