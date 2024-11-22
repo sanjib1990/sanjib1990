@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The beginner-friendly DJI Mini 3 drone is $90 off this Black Friday](https://www.space.com/dji-mini-3-save-90-dollars-black-friday-2024)
+- [EU closes antitrust probe into Apple’s e-book and audiobook rules after complaint withdrawn](https://techcrunch.com/2024/11/22/eu-closes-antitrust-probe-into-apples-e-book-and-audiobook-rules-after-complaint-withdrawn/)
+- [The Pococo Galaxy star projector is 33% off this Black Friday](https://www.space.com/pococo-galaxy-projector-33-percent-off-black-friday-2024)
+- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2024/11/22/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
 - [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/)
-- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/)
-- [Blue Origin crew, including history&#39;s 100th woman to fly to space, lands safely](https://www.space.com/blue-origin-ns28-100th-woman-space)
-- [Flight suit worn on 1st all-private astronaut mission to ISS debuts on display](https://www.space.com/axiom-ax1-lopez-alegria-flight-suit-kennedy-space-center)
-- [Taking a cue from X, Threads tests AI-powered summaries of trending topics](https://techcrunch.com/2024/11/22/taking-a-cue-from-x-threads-tests-ai-powered-summaries-of-trending-topics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
