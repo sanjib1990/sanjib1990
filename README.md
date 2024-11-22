@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tour the new Hyundai Ioniq 9](https://techcrunch.com/video/tour-the-new-hyundai-ioniq-9/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [OpenAI is funding research into ‘AI morality’](https://techcrunch.com/2024/11/22/openai-is-funding-research-into-ai-morality/)
 - [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
 - [Hyundai and Kia recall 208,000 EVs](https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/)
-- [Blue Origin&#39;s powerful New Glenn rocket rises on the pad ahead of 1st launch &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-origins-powerful-new-glenn-rocket-rises-on-the-pad-ahead-of-1st-launch-photo)
-- [Money for tech that matters](https://techcrunch.com/2024/11/22/money-for-tech-that-matters/)
-- [Precise new moon map could help guide future sample-return missions](https://www.space.com/the-universe/moon/precise-new-moon-map-could-help-guide-future-sample-return-missions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
