@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth&#39;s &#39;second moon&#39; is just visiting its cosmic parents for Thanksgiving](https://www.space.com/earth-second-moon-2024-PT5-asteroid)
+- [Mass Effect: The Board Game — Priority: Hagalaz review](https://www.space.com/entertainment/space-games-toys/mass-effect-the-board-game-priority-hagalaz-review)
+- [Flipkart co-founder Binny Bansal leaves PhonePe board](https://techcrunch.com/2024/11/22/flipkart-co-founder-binny-bansal-leaves-phonepe-board/)
+- [New UK crypto regulations will include stablecoins and staking services](https://techcrunch.com/2024/11/22/new-uk-crypto-regulations-will-include-stablecoins-and-staking-services/)
 - [Using a monocular for stargazing: Is it worth it?](https://www.space.com/stargazing/astronomy-kit/using-a-monocular-for-stargazing-is-it-worth-it)
-- [A company is now developing human washing machines](https://techcrunch.com/2024/11/21/a-company-is-now-developing-human-washing-machines/)
-- [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/)
-- [American Airlines is deploying new tech to shame boarding line cutters](https://techcrunch.com/2024/11/21/american-airlines-is-deploying-new-tech-to-shame-boarding-line-cutters/)
-- [Hackers break into Andrew Tate’s online ‘university,’ steal user data and flood chats with emojis](https://techcrunch.com/2024/11/21/hackers-break-into-andrew-tates-online-university-steal-user-data-and-flood-chats-with-emojis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
