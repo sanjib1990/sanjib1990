@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Earth&#39;s &#39;second moon&#39; is just visiting its cosmic parents for Thanksgiving](https://www.space.com/earth-second-moon-2024-PT5-asteroid)
 - [Mass Effect: The Board Game — Priority: Hagalaz review](https://www.space.com/entertainment/space-games-toys/mass-effect-the-board-game-priority-hagalaz-review)
-- [Flipkart co-founder Binny Bansal leaves PhonePe board](https://techcrunch.com/2024/11/22/flipkart-co-founder-binny-bansal-leaves-phonepe-board/)
+- [Flipkart co-founder Binny Bansal leaves PhonePe’s board](https://techcrunch.com/2024/11/22/flipkart-co-founder-binny-bansal-leaves-phonepe-board/)
 - [New UK crypto regulations will include stablecoins and staking services](https://techcrunch.com/2024/11/22/new-uk-crypto-regulations-will-include-stablecoins-and-staking-services/)
 - [Using a monocular for stargazing: Is it worth it?](https://www.space.com/stargazing/astronomy-kit/using-a-monocular-for-stargazing-is-it-worth-it)
 <!-- BLOG-POST-LIST:END -->
