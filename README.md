@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starship will fly Lunar Outpost&#39;s rover to the moon](https://www.space.com/space-exploration/moon-rovers/spacexs-starship-will-fly-lunar-outposts-rover-to-the-moon)
+- [I&#39;m a Lego expert and I think this Star Wars Chewbacca Black Friday deal is not to be missed](https://www.space.com/lego-star-wars-chewbacca-save-55-dollars-black-friday-2024)
 - [Earth&#39;s &#39;second moon&#39; is just visiting its cosmic parents for Thanksgiving](https://www.space.com/earth-second-moon-2024-PT5-asteroid)
 - [Mass Effect: The Board Game — Priority: Hagalaz review](https://www.space.com/entertainment/space-games-toys/mass-effect-the-board-game-priority-hagalaz-review)
 - [Flipkart co-founder Binny Bansal leaves PhonePe’s board](https://techcrunch.com/2024/11/22/flipkart-co-founder-binny-bansal-leaves-phonepe-board/)
-- [New UK crypto regulations will include stablecoins and staking services](https://techcrunch.com/2024/11/22/new-uk-crypto-regulations-will-include-stablecoins-and-staking-services/)
-- [Using a monocular for stargazing: Is it worth it?](https://www.space.com/stargazing/astronomy-kit/using-a-monocular-for-stargazing-is-it-worth-it)
 <!-- BLOG-POST-LIST:END -->
 
 ---
