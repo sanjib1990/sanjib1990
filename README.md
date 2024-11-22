@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [StoreCash’s new app lets you instantly earn cash back at stores](https://techcrunch.com/2024/11/22/storecashs-new-app-lets-you-instantly-earn-cash-back-at-stores/)
-- [NASA begins stacking SLS rocket for Artemis 2 moon mission &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-begins-stacking-sls-rocket-for-artemis-2-moon-mission-photos)
-- [Anthropic raises an additional $4B from Amazon, makes AWS its ‘primary’ training partner](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/)
-- [One of my favorite Lego space sets, Tales of the Space Age, is 30% off this Black Friday](https://www.space.com/lego-tales-of-the-space-age-save-30-percent-black-friday-2024)
-- [Unusual black hole light bursts puzzle astronomers: &#39;We are finding a lot of weird stuff&#39;](https://www.space.com/the-universe/black-holes/unusual-black-hole-light-bursts-puzzle-astronomers-we-are-finding-a-lot-of-weird-stuff)
+- [Plex redesigns its app to look more like a streaming service](https://techcrunch.com/2024/11/22/plex-redesigns-its-app-to-look-more-like-a-streaming-service/)
+- [Battery unicorn Northvolt files for bankruptcy, co-founder and CEO resigns](https://techcrunch.com/2024/11/22/battery-unicorn-northvolt-files-for-bankruptcy-co-founder-and-ceo-resigns/)
+- [Blue Origin crew, including history&#39;s 100th woman to fly to space, lands safely](https://www.space.com/blue-origin-ns28-100th-woman-space)
+- [Flight suit worn on 1st all-private astronaut mission to ISS debuts on display](https://www.space.com/axiom-ax1-lopez-alegria-flight-suit-kennedy-space-center)
+- [Taking a cue from X, Threads tests AI-powered summaries of trending topics](https://techcrunch.com/2024/11/22/taking-a-cue-from-x-threads-tests-ai-powered-summaries-of-trending-topics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
