@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A company is now developing human washing machines](https://techcrunch.com/2024/11/21/a-company-is-now-developing-human-washing-machines/)
 - [Texas AG opens investigation into advertising group that Elon Musk sued for ‘boycotting’ X](https://techcrunch.com/2024/11/21/texas-ag-opens-investigation-into-advertising-group-that-elon-musk-sued-for-boycotting-x/)
 - [American Airlines is deploying new tech to shame boarding line cutters](https://techcrunch.com/2024/11/21/american-airlines-is-deploying-new-tech-to-shame-boarding-line-cutters/)
 - [Hackers break into Andrew Tate’s online ‘university,’ steal user data and flood chats with emojis](https://techcrunch.com/2024/11/21/hackers-break-into-andrew-tates-online-university-steal-user-data-and-flood-chats-with-emojis/)
 - [SpaceX likely to get FAA approval for 25 Starship launches in 2025](https://www.space.com/space-exploration/private-spaceflight/spacex-likely-to-get-faa-approval-for-25-starship-launches-in-2025)
-- [Apple is reportedly building a more conversational Siri powered by LLMs](https://techcrunch.com/2024/11/21/apple-is-reportedly-building-a-more-conversational-siri-powered-by-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
