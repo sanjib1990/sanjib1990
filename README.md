@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Wolfs’ sequel canceled because director ‘no longer trusted’ Apple](https://techcrunch.com/2024/11/23/wolfs-sequel-canceled-because-director-no-longer-trusted-apple/)
 - [DOJ tells Google to sell Chrome](https://techcrunch.com/2024/11/23/doj-tells-google-to-sell-chrome/)
 - [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/)
 - [Black Friday streaming deal: 60% off the first two months of Paramount Plus](https://www.space.com/paramount-plus-black-friday-streaming-deal-first-two-months-offer-2024)
 - [&#39;Silo&#39; Season 2: &#39;Order&#39;: How long until Silo 18 erupts into a bloody riot?](https://www.space.com/entertainment/silo-season-2-order-how-long-until-silo-18-erupts-into-a-bloody-riot)
-- [This Week In Space podcast: Episode 138 —From the Garage to Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-138-from-garage-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
