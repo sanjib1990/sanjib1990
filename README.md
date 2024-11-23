@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday streaming deal: 60% off the first two months of Paramount Plus](https://www.space.com/paramount-plus-black-friday-streaming-deal-first-two-months-offer-2024)
 - [&#39;Silo&#39; Season 2: &#39;Order&#39;: How long until Silo 18 erupts into a bloody riot?](https://www.space.com/entertainment/silo-season-2-order-how-long-until-silo-18-erupts-into-a-bloody-riot)
 - [This Week In Space podcast: Episode 138 —From the Garage to Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-138-from-garage-mars)
 - [The rise and fall of the ‘Scattered Spider’ hackers](https://techcrunch.com/2024/11/23/the-rise-and-fall-of-the-scattered-spider-hackers/)
 - [&#39;Forbidden Planet&#39; is one of the most influential sci-fi films of all time, and it&#39;s getting a remake](https://www.space.com/entertainment/forbidden-planet-is-of-the-most-influential-sci-fi-films-of-all-time-and-its-getting-a-remake)
-- [Trump’s tariff threats don’t scare this Mexican fintech](https://techcrunch.com/2024/11/23/trumps-tariff-threats-dont-scare-this-mexican-fintech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
