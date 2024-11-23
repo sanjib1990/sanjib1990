@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch 5 French &#39;Internet of Things&#39; satellites tonight](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-5-french-internet-of-things-satellites-tonight)
 - [OpenAI accidentally deleted potential evidence in NY Times copyright lawsuit &lpar;updated&rpar;](https://techcrunch.com/2024/11/22/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/)
 - [Sequoia marks up its 2020 fund by 25%](https://techcrunch.com/2024/11/22/sequoia-marks-up-its-2020-fund-by-25/)
 - [Illumen Capital doubles down on supporting underrepresented funds](https://techcrunch.com/2024/11/22/illumen-capital-doubles-down-on-supporting-underrepresented-funds/)
 - [Gilroy, former Coatue fintech head, and angel investor Rajaram launch VC firm](https://techcrunch.com/2024/11/22/gilroy-former-coatue-fintech-head-and-angel-investor-rajaram-launch-vc-firm/)
-- [Tour the new Hyundai Ioniq 9](https://techcrunch.com/video/tour-the-new-hyundai-ioniq-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
