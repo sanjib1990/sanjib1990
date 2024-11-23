@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia marks up its 2020 fund by 25%](https://techcrunch.com/2024/11/22/sequoia-marks-up-its-2020-fund-by-25/)
+- [Illumen Capital doubles down on supporting underrepresented funds](https://techcrunch.com/2024/11/22/illumen-capital-doubles-down-on-supporting-underrepresented-funds/)
+- [Gilroy, former Coatue fintech head, and angel investor Rajaram launch VC firm](https://techcrunch.com/2024/11/22/gilroy-former-coatue-fintech-head-and-angel-investor-rajaram-launch-vc-firm/)
 - [Tour the new Hyundai Ioniq 9](https://techcrunch.com/video/tour-the-new-hyundai-ioniq-9/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [OpenAI is funding research into ‘AI morality’](https://techcrunch.com/2024/11/22/openai-is-funding-research-into-ai-morality/)
-- [Y Combinator often backs startups that duplicate other YC companies, data shows — it’s not just AI code editors](https://techcrunch.com/2024/11/22/y-combinator-often-backs-startups-that-duplicate-other-yc-companies-data-shows-its-not-just-ai-code-editors/)
-- [Hyundai and Kia recall 208,000 EVs](https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
