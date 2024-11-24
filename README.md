@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a mini-team of NASA archivists is restoring astronomical history](https://www.space.com/space-exploration/missions/how-a-mini-team-of-nasa-archivists-is-restoring-astronomical-history)
 - [SpaceX launches 20 Starlink satellites from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-from-california-photos)
 - [How a digital “you” can sit through your agonizing web conference calls](https://techcrunch.com/2024/11/23/how-a-digital-you-can-sit-through-your-agonizing-web-conference-calls/)
 - [‘Wolfs’ sequel canceled because director ‘no longer trusted’ Apple](https://techcrunch.com/2024/11/23/wolfs-sequel-canceled-because-director-no-longer-trusted-apple/)
 - [DOJ tells Google to sell Chrome](https://techcrunch.com/2024/11/23/doj-tells-google-to-sell-chrome/)
-- [Tesla says it has reached a ‘conditional’ settlement in Rivian trade secrets lawsuit](https://techcrunch.com/2024/11/23/tesla-says-it-has-reached-a-conditional-settlement-in-rivian-trade-secrets-lawsuit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
