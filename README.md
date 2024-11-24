@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/)
+- [What is Section 31 in the &#39;Star Trek&#39; universe?](https://www.space.com/entertainment/what-is-section-31-in-the-star-trek-universe)
 - [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/)
 - [How amateur radio is connecting astronauts in space with kids on Earth](https://www.space.com/space-exploration/international-space-station/how-amateur-radio-is-connecting-astronauts-in-space-with-kids-on-earth)
 - [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/24/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/)
-- [Best Predator games of all time](https://www.space.com/entertainment/space-games-toys/best-predator-games-of-all-time)
-- [NASA tests cellphone-sized underwater robots for future ocean world missions &lpar;video&rpar;](https://www.space.com/space-exploration/missions/nasa-tests-cellphone-sized-underwater-robots-for-future-ocean-world-missions-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
