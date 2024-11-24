@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/24/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/)
+- [Best Predator games of all time](https://www.space.com/entertainment/space-games-toys/best-predator-games-of-all-time)
 - [NASA tests cellphone-sized underwater robots for future ocean world missions &lpar;video&rpar;](https://www.space.com/space-exploration/missions/nasa-tests-cellphone-sized-underwater-robots-for-future-ocean-world-missions-video)
 - [The curious case of Nebius, the publicly traded AI infrastructure ‘startup’](https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/)
 - [How a mini-team of NASA archivists is restoring astronomical history](https://www.space.com/space-exploration/missions/how-a-mini-team-of-nasa-archivists-is-restoring-astronomical-history)
-- [SpaceX launches 20 Starlink satellites from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-from-california-photos)
-- [How a digital “you” can sit through your agonizing web conference calls](https://techcrunch.com/2024/11/23/how-a-digital-you-can-sit-through-your-agonizing-web-conference-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
