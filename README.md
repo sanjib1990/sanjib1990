@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple will never stop thinking about making a TV](https://techcrunch.com/2024/11/24/apple-will-never-stop-thinking-about-making-a-tv/)
 - [Australian government drops misinformation bill](https://techcrunch.com/2024/11/24/australian-government-drops-misinformation-bill/)
 - [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/)
 - [What is Section 31 in the &#39;Star Trek&#39; universe?](https://www.space.com/entertainment/what-is-section-31-in-the-star-trek-universe)
 - [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/11/24/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/)
-- [How amateur radio is connecting astronauts in space with kids on Earth](https://www.space.com/space-exploration/international-space-station/how-amateur-radio-is-connecting-astronauts-in-space-with-kids-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
