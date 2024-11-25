@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Appcharge raises $26M to help gaming apps cut out Apple and Google from virtual goods revenues](https://techcrunch.com/2024/11/25/appcharge-raises-26m-to-help-gaming-apps-cut-out-apple-and-google-from-virtual-goods-revenues/)
+- [Watch SpaceX Starship flight 6 splash down in amazing &#39;buoycam&#39; footage &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-6th-starship-spacecraft-splash-down-in-amazing-buoycam-footage-video)
 - [Strange &#39;zebra&#39; patterns are coming from the Crab Nebula — this physicist finally figured out why](https://www.space.com/the-universe/strange-zebra-patterns-are-coming-from-the-crab-nebula-this-physicist-finally-figured-out-why)
 - [Bending Spoons is taking video platform Brightcove private in $233M acquisition](https://techcrunch.com/2024/11/25/bending-spoons-is-taking-video-platform-brightcove-private-in-233m-acquisition/)
 - [NASA satellites reveal Earth&#39;s continents are getting drier](https://www.space.com/the-universe/earth/nasa-satellites-reveal-earths-continents-are-getting-drier)
-- [UK seeks collaboration for security research lab to counter Russia and ‘new AI arms race’](https://techcrunch.com/2024/11/25/uk-seeks-collaboration-for-security-research-lab-to-counter-russia-and-new-ai-arms-race/)
-- [Corning offers bundle of commitments in bid to settle EU antitrust probe](https://techcrunch.com/2024/11/25/corning-offers-bundle-of-commitments-in-bid-to-settle-eu-antitrust-probe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
