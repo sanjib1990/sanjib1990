@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [James Webb Space Telescope &#39;pushed to its limits&#39; to see most distant galaxies ever](https://www.space.com/james-webb-space-telescope-earliest-galaxies-glimpse)
-- [NASA aircraft uncovers site of secret Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)
-- [Authorities catch ‘SMS blaster’ gang that drove around Bangkok sending thousands of phishing messages](https://techcrunch.com/2024/11/25/authorities-catch-sms-blaster-gang-that-drove-around-bangkok-sending-thousands-of-phishing-messages/)
-- [YouTube Music’s 2024 Recaps are out — here’s how to see yours](https://techcrunch.com/2024/11/25/youtube-musics-2024-recaps-are-out-heres-how-to-see-yours/)
-- [Apple again snubs AI in its ‘iPhone App of the Year’ finalists](https://techcrunch.com/2024/11/25/apple-again-snubs-ai-in-its-iphone-app-of-the-year-finalists/)
+- [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/)
+- [Neptune and Uranus have a magnetic mystery — but the case may finally be cracked](https://www.space.com/the-universe/solar-system/neptune-and-uranus-have-a-magnetic-mystery-but-the-case-may-finally-be-cracked)
+- [IMAX embraces AI to expand original content reach](https://techcrunch.com/2024/11/25/imax-embraces-ai-to-expand-original-content-reach/)
+- [Volkswagen slashes the value of its stake in Northvolt, the beleaguered battery manufacturer](https://techcrunch.com/2024/11/25/volkswagen-slashes-the-value-of-its-stake-in-northvolt-the-beleaguered-battery-manufacturer/)
+- [Threads tests the ability for users to choose their preferred default feed](https://techcrunch.com/2024/11/25/threads-tests-the-ability-for-users-to-choose-their-preferred-default-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
