@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Using AI to prevent SCAMS](https://www.youtube.com/watch?v=6drXjzANhUU)
 - [Cheaters are breaking the technical interview... how?](https://www.youtube.com/watch?v=Lf883rNZjSE)
 - [Top G Andrew Tate penetrated by LGBT hackers](https://www.youtube.com/watch?v=xR5d4Ba4FZg)
 - [I forced all my employees to make a website](https://www.youtube.com/watch?v=5MUGYkD_MfU)
 - [The plan to break apart Google... RIP Chrome](https://www.youtube.com/watch?v=V3554BmwV1E)
-- [I failed in the last video....but this time 😁](https://www.youtube.com/watch?v=3fg7Ht0DSnE)
 <!-- YOUTUBE:END -->
 
 ---
