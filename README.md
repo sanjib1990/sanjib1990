@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find highest energy cosmic ray electrons ever seen](https://www.space.com/the-universe/scientists-find-highest-energy-cosmic-electrons-ever-seen)
+- [Instagram takes on Snapchat with new location-sharing feature](https://techcrunch.com/2024/11/25/instagram-takes-on-snapchat-with-new-location-sharing-feature/)
+- [Pestle recipe app can now save dishes from TikTok](https://techcrunch.com/2024/11/25/pestle-recipe-app-can-now-save-dishes-from-tiktok/)
+- [Anthropic proposes a new way to connect data to AI chatbots](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/)
 - [&#39;Dune: Prophecy:&#39; What&#39;s the deal with Desmond Hart&#39;s demonic powers?](https://www.space.com/entertainment/dune-prophecy-whats-the-deal-with-desmond-harts-demonic-powers)
-- [California will offer EV rebates if Trump kills federal tax credits](https://techcrunch.com/2024/11/25/california-will-offer-ev-rebates-if-trump-kills-federal-tax-credits/)
-- [Appcharge raises $26M to help gaming apps cut out Apple and Google from virtual goods revenues](https://techcrunch.com/2024/11/25/appcharge-raises-26m-to-help-gaming-apps-cut-out-apple-and-google-from-virtual-goods-revenues/)
-- [Watch SpaceX Starship flight 6 splash down in amazing &#39;buoycam&#39; footage &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-6th-starship-spacecraft-splash-down-in-amazing-buoycam-footage-video)
-- [Strange &#39;zebra&#39; patterns are coming from the Crab Nebula — this physicist finally figured out why](https://www.space.com/the-universe/strange-zebra-patterns-are-coming-from-the-crab-nebula-this-physicist-finally-figured-out-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
