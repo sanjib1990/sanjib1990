@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi releases the Pico 2 W, a $7 wireless-enabled microcontroller board](https://techcrunch.com/2024/11/25/raspberry-pi-releases-the-pico-2-w-a-7-wireless-enabled-microcontroller-board/)
 - [SpaceX launching 23 Starlink satellites from Florida early Nov. 25](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-early-nov-25)
 - [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/)
 - [Apple will never stop thinking about making a TV](https://techcrunch.com/2024/11/24/apple-will-never-stop-thinking-about-making-a-tv/)
 - [Australian government drops misinformation bill](https://techcrunch.com/2024/11/24/australian-government-drops-misinformation-bill/)
-- [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
