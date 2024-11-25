@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bending Spoons is taking video platform Brightcove private in $233M acquisition](https://techcrunch.com/2024/11/25/bending-spoons-is-taking-video-platform-brightcove-private-in-233m-acquisition/)
+- [NASA satellites reveal Earth&#39;s continents are getting drier](https://www.space.com/the-universe/earth/nasa-satellites-reveal-earths-continents-are-getting-drier)
+- [UK seeks collaboration for security research lab to counter Russia and ‘new AI arms race’](https://techcrunch.com/2024/11/25/uk-seeks-collaboration-for-security-research-lab-to-counter-russia-and-new-ai-arms-race/)
+- [Corning offers bundle of commitments in bid to settle EU antitrust probe](https://techcrunch.com/2024/11/25/corning-offers-bundle-of-commitments-in-bid-to-settle-eu-antitrust-probe/)
 - [PlayAI clones voices on command](https://techcrunch.com/2024/11/25/playai-clones-voices-on-command/)
-- [The moon eclipses bright blue star Spica this week. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-eclipses-bright-blue-star-spica-this-week-heres-how-to-see-it)
-- [South Korean prosecutors request 5-year jail sentence for Samsung chief Jay Lee](https://techcrunch.com/2024/11/25/south-korean-prosecutors-request-5-year-jail-sentence-for-samsung-chief-jay-lee/)
-- [Raspberry Pi releases the Pico 2 W, a $7 wireless-enabled microcontroller board](https://techcrunch.com/2024/11/25/raspberry-pi-releases-the-pico-2-w-a-7-wireless-enabled-microcontroller-board/)
-- [SpaceX launches 23 Starlink satellites from Florida early on Monday &lpar;Nov. 25&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-early-nov-25)
 <!-- BLOG-POST-LIST:END -->
 
 ---
