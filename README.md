@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 23 Starlink satellites from Florida early Nov. 25](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-early-nov-25)
 - [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/)
 - [Apple will never stop thinking about making a TV](https://techcrunch.com/2024/11/24/apple-will-never-stop-thinking-about-making-a-tv/)
 - [Australian government drops misinformation bill](https://techcrunch.com/2024/11/24/australian-government-drops-misinformation-bill/)
 - [Latin America fintech will be a market to watch in 2025](https://techcrunch.com/2024/11/24/latin-america-fintech-will-be-a-market-to-watch-in-2025/)
-- [What is Section 31 in the &#39;Star Trek&#39; universe?](https://www.space.com/entertainment/what-is-section-31-in-the-star-trek-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
