@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Music’s 2024 Recaps are out—here’s how to see yours](https://techcrunch.com/2024/11/25/youtube-musics-2024-recaps-are-out-heres-how-to-see-yours/)
+- [James Webb Space Telescope &#39;pushed to its limits&#39; to see most distant galaxies ever](https://www.space.com/james-webb-space-telescope-earliest-galaxies-glimpse)
+- [NASA aircraft uncovers site of secret Cold War nuclear missile tunnels under Greenland ice sheet](https://www.space.com/the-universe/earth/nasa-aircraft-uncovers-site-of-secret-cold-war-nuclear-missile-tunnels-under-greenland-ice-sheet)
+- [Authorities catch ‘SMS blaster’ gang that drove around Bangkok sending thousands of phishing messages](https://techcrunch.com/2024/11/25/authorities-catch-sms-blaster-gang-that-drove-around-bangkok-sending-thousands-of-phishing-messages/)
+- [YouTube Music’s 2024 Recaps are out — here’s how to see yours](https://techcrunch.com/2024/11/25/youtube-musics-2024-recaps-are-out-heres-how-to-see-yours/)
 - [Apple again snubs AI in its ‘iPhone App of the Year’ finalists](https://techcrunch.com/2024/11/25/apple-again-snubs-ai-in-its-iphone-app-of-the-year-finalists/)
-- [How do astronauts weigh themselves in space?](https://www.space.com/space-exploration/human-spaceflight/how-do-astronauts-weigh-themselves-in-space)
-- [Bluesky falling foul of EU rules by not reporting user numbers across the bloc](https://techcrunch.com/2024/11/25/bluesky-falling-foul-of-eu-rules-by-not-reporting-user-numbers-across-the-bloc/)
-- [Firefly Aerospace completes Blue Ghost moon lander for January 2025 SpaceX launch](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-completes-blue-ghost-moon-lander-for-january-2025-spacex-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
