@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How does spaceflight affect astronauts&#39; brains? There&#39;s good news and bad](https://www.space.com/space-exploration/human-spaceflight/how-does-spaceflight-affect-astronauts-brains-theres-good-news-and-bad)
+- [Tesla appears to be building a teleoperations team for its robotaxi service](https://techcrunch.com/2024/11/25/tesla-appears-to-be-building-a-teleoperations-team-for-its-robotaxi-service/)
+- [Sill’s new app rounds up the best links from your Bluesky and Mastodon networks](https://techcrunch.com/2024/11/25/sills-new-app-rounds-up-the-best-links-from-your-bluesky-and-mastodon-network/)
 - [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/)
 - [Neptune and Uranus have a magnetic mystery — but the case may finally be cracked](https://www.space.com/the-universe/solar-system/neptune-and-uranus-have-a-magnetic-mystery-but-the-case-may-finally-be-cracked)
-- [IMAX embraces AI to expand original content reach](https://techcrunch.com/2024/11/25/imax-embraces-ai-to-expand-original-content-reach/)
-- [Volkswagen slashes the value of its stake in Northvolt, the beleaguered battery manufacturer](https://techcrunch.com/2024/11/25/volkswagen-slashes-the-value-of-its-stake-in-northvolt-the-beleaguered-battery-manufacturer/)
-- [Threads tests the ability for users to choose their preferred default feed](https://techcrunch.com/2024/11/25/threads-tests-the-ability-for-users-to-choose-their-preferred-default-feed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
