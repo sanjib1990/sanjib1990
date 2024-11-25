@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists find highest energy cosmic ray electrons ever seen](https://www.space.com/the-universe/scientists-find-highest-energy-cosmic-electrons-ever-seen)
-- [Instagram takes on Snapchat with new location-sharing feature](https://techcrunch.com/2024/11/25/instagram-takes-on-snapchat-with-new-location-sharing-feature/)
-- [Pestle recipe app can now save dishes from TikTok](https://techcrunch.com/2024/11/25/pestle-recipe-app-can-now-save-dishes-from-tiktok/)
-- [Anthropic proposes a new way to connect data to AI chatbots](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/)
-- [&#39;Dune: Prophecy:&#39; What&#39;s the deal with Desmond Hart&#39;s demonic powers?](https://www.space.com/entertainment/dune-prophecy-whats-the-deal-with-desmond-harts-demonic-powers)
+- [YouTube Music’s 2024 Recaps are out—here’s how to see yours](https://techcrunch.com/2024/11/25/youtube-musics-2024-recaps-are-out-heres-how-to-see-yours/)
+- [Apple again snubs AI in its ‘iPhone App of the Year’ finalists](https://techcrunch.com/2024/11/25/apple-again-snubs-ai-in-its-iphone-app-of-the-year-finalists/)
+- [How do astronauts weigh themselves in space?](https://www.space.com/space-exploration/human-spaceflight/how-do-astronauts-weigh-themselves-in-space)
+- [Bluesky falling foul of EU rules by not reporting user numbers across the bloc](https://techcrunch.com/2024/11/25/bluesky-falling-foul-of-eu-rules-by-not-reporting-user-numbers-across-the-bloc/)
+- [Firefly Aerospace completes Blue Ghost moon lander for January 2025 SpaceX launch](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-completes-blue-ghost-moon-lander-for-january-2025-spacex-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
