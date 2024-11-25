@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sombrero Galaxy&#39;s star-forming days are nearly over — and the James Webb Space Telescope may know why](https://www.space.com/space-exploration/james-webb-space-telescope/the-sombrero-galaxys-star-forming-days-are-nearly-over-and-the-james-webb-space-telescope-may-know-why)
+- [Rocket Lab nails two missions within 24 hours – one in each hemisphere](https://techcrunch.com/2024/11/25/rocket-lab-nails-two-missions-within-24-hours-one-in-each-hemisphere/)
 - [How does spaceflight affect astronauts&#39; brains? There&#39;s good news and bad](https://www.space.com/space-exploration/human-spaceflight/how-does-spaceflight-affect-astronauts-brains-theres-good-news-and-bad)
 - [Tesla appears to be building a teleoperations team for its robotaxi service](https://techcrunch.com/2024/11/25/tesla-appears-to-be-building-a-teleoperations-team-for-its-robotaxi-service/)
 - [Sill’s new app rounds up the best links from your Bluesky and Mastodon networks](https://techcrunch.com/2024/11/25/sills-new-app-rounds-up-the-best-links-from-your-bluesky-and-mastodon-network/)
-- [Here’s why ServiceTitan was on the clock to go public](https://techcrunch.com/2024/11/25/heres-why-servicetitan-was-on-the-clock-to-go-public/)
-- [Neptune and Uranus have a magnetic mystery — but the case may finally be cracked](https://www.space.com/the-universe/solar-system/neptune-and-uranus-have-a-magnetic-mystery-but-the-case-may-finally-be-cracked)
 <!-- BLOG-POST-LIST:END -->
 
 ---
