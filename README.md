@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The moon eclipses bright blue star Spica this week. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-eclipses-bright-blue-star-spica-this-week-heres-how-to-see-it)
 - [South Korean prosecutors request 5-year jail sentence for Samsung chief Jay Lee](https://techcrunch.com/2024/11/25/south-korean-prosecutors-request-5-year-jail-sentence-for-samsung-chief-jay-lee/)
 - [Raspberry Pi releases the Pico 2 W, a $7 wireless-enabled microcontroller board](https://techcrunch.com/2024/11/25/raspberry-pi-releases-the-pico-2-w-a-7-wireless-enabled-microcontroller-board/)
-- [SpaceX launching 23 Starlink satellites from Florida early Nov. 25](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-early-nov-25)
+- [SpaceX launches 23 Starlink satellites from Florida early on Monday &lpar;Nov. 25&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-early-nov-25)
 - [Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly](https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/)
-- [Apple will never stop thinking about making a TV](https://techcrunch.com/2024/11/24/apple-will-never-stop-thinking-about-making-a-tv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
