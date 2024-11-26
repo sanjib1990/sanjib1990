@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Magnetic tornadoes on Jupiter are spawning Earth-size storms](https://www.space.com/the-universe/jupiter/magnetic-tornadoes-on-jupiter-are-spawning-earth-size-storms)
+- [AWS re:Invent 2024: What to expect and how to watch Amazon’s biggest event of the year](https://techcrunch.com/2024/11/26/aws-reinvent-2024-what-to-expect-and-how-to-watch-amazons-biggest-event-of-the-year/)
+- [ServiceTitan could be the first of many ‘dirty’ term-sheet IPOs, VCs believe](https://techcrunch.com/2024/11/26/servicetitan-could-be-the-first-of-many-dirty-term-sheet-ipos-vcs-believe/)
+- [International Space Station dodges 2nd piece of space junk in 6 days](https://www.space.com/space-exploration/international-space-station/international-space-station-dodges-2nd-piece-of-space-junk-in-6-days)
 - [&#39;Knights of the Old Republic II&#39; at 20: The key to Star Wars&#39; future is found in its past](https://www.space.com/entertainment/knights-of-the-old-republic-ii-at-20-the-key-to-star-wars-future-is-found-in-its-past)
-- [Take an intergalactic joy ride in new trailer for Pixar&#39;s animated space odyssey &#39;Elio&#39; &lpar;video&rpar;](https://www.space.com/entertainment/take-an-intergalactic-joy-ride-in-new-trailer-for-pixars-animated-space-odyssey-elio-video)
-- [Uber is building a fleet of gig workers to label data for AI models](https://techcrunch.com/2024/11/26/uber-is-building-a-fleet-of-gig-workers-to-label-data-for-ai-models/)
-- [FTC finds that smart device makers fail to make clear how long their products will be supported](https://techcrunch.com/2024/11/26/ftc-finds-that-smart-device-makers-fail-to-make-clear-how-long-their-products-will-be-supported/)
-- [Russia-linked hackers exploited Firefox and Windows bugs in ‘widespread’ hacking campaign](https://techcrunch.com/2024/11/26/russia-linked-hackers-exploited-firefox-and-windows-zero-day-bugs-in-widespread-hacking-campaign/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
