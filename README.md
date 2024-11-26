@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This Mexican fintech isn’t too worried about Trump’s tariff threats](https://techcrunch.com/2024/11/26/this-mexican-fintech-isnt-too-worried-about-trumps-tariff-threats/)
-- [ISS astronauts open hatch to Russian spacecraft after strange smell delays cargo delivery](https://www.space.com/space-exploration/international-space-station/iss-astronauts-open-hatch-to-russian-spacecraft-after-strange-smell-delays-cargo-delivery)
-- [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/)
-- [Earth&#39;s mini-moon has finally departed. Will it ever return as a &#39;second moon?&#39;](https://www.space.com/goodnight-second-moon-asteroid-2024PT5)
-- [YC-backed Circleback is out to become the best meeting notetaker](https://techcrunch.com/2024/11/26/yc-backed-circleback-is-out-to-become-the-best-meeting-notetaker/)
+- [Take an intergalactic joy ride in new trailer for Pixar&#39;s animated space odyssey &#39;Elio&#39; &lpar;video&rpar;](https://www.space.com/entertainment/take-an-intergalactic-joy-ride-in-new-trailer-for-pixars-animated-space-odyssey-elio-video)
+- [Uber is building a fleet of gig workers to label data for AI models](https://techcrunch.com/2024/11/26/uber-is-building-a-fleet-of-gig-workers-to-label-data-for-ai-models/)
+- [FTC finds that smart device makers fail to make clear how long their products will be supported](https://techcrunch.com/2024/11/26/ftc-finds-that-smart-device-makers-fail-to-make-clear-how-long-their-products-will-be-supported/)
+- [Russia-linked hackers exploited Firefox and Windows bugs in ‘widespread’ hacking campaign](https://techcrunch.com/2024/11/26/russia-linked-hackers-exploited-firefox-and-windows-zero-day-bugs-in-widespread-hacking-campaign/)
+- [New Japanese rocket engine explodes during testing for 2nd time in 16 months](https://www.space.com/space-exploration/launches-spacecraft/new-japanese-rocket-engine-explodes-during-testing-for-2nd-time-in-16-months)
 <!-- BLOG-POST-LIST:END -->
 
 ---
