@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/)
+- [Amazon Japan raided by anti-monopoly authorities](https://techcrunch.com/2024/11/26/amazon-japan-raided-by-anti-monopoly-authorities/)
+- [Scientists are updating chemistry models to track down life on icy moons](https://www.space.com/space-exploration/search-for-life/scientists-are-updating-chemistry-models-to-track-down-life-on-icy-moons)
+- [Spotify debuts marketing tools and insights for audiobook authors](https://techcrunch.com/2024/11/26/spotify-debuts-marketing-tools-and-insights-for-audiobook-authors/)
 - [Major UK, US stores face ongoing disruption after ransomware attack hits supply chain giant Blue Yonder](https://techcrunch.com/2024/11/26/major-uk-us-stores-face-ongoing-disruption-after-ransomware-attack-hits-supply-chain-giant-blue-yonder/)
-- [Inflection CEO says it’s done trying to make next generation AI models](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/)
-- [In court filing, Drake alleges UMG and Spotify artificially inflated popularity of diss track ‘Not Like Us’](https://techcrunch.com/2024/11/26/in-court-filing-drake-alleges-umg-and-spotify-artificially-inflated-popularity-of-diss-track-not-like-us/)
-- [EU’s outgoing antitrust chief regrets not moving faster &amp; breaking Big Tech’s grip](https://techcrunch.com/2024/11/26/eus-outgoing-antitrust-chief-regrets-not-moving-faster-breaking-big-techs-grip/)
-- [Cleo Capital launches cybersecurity accelerator to help undo the ‘crushing burden’ of online threats](https://techcrunch.com/2024/11/26/cleo-capital-launches-cybersecurity-accelerator-to-help-undo-the-crushing-burden-of-online-threats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
