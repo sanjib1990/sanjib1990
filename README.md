@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday streaming deal: Save 75% on two months of AMC+](https://www.space.com/stargazing/astronomy-kit/black-friday-streaming-deal-save-75-percent-on-two-months-of-amc)
+- [Get 75% off your first two months of Discovery+ this Black Friday](https://www.space.com/entertainment/get-75-percent-off-discovery-plus-this-black-friday)
+- [OpenAI’s Sora appears to have leaked](https://techcrunch.com/2024/11/26/artists-appears-to-have-leaked-access-to-openais-sora/)
+- [&#39;Hidden black hole&#39; devouring curious star exposed by new X-ray space telescope](https://www.space.com/hidden-star-system-xrism-jaxa-nasa)
 - [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/)
-- [Amazon Japan raided by anti-monopoly authorities](https://techcrunch.com/2024/11/26/amazon-japan-raided-by-anti-monopoly-authorities/)
-- [Scientists are updating chemistry models to track down life on icy moons](https://www.space.com/space-exploration/search-for-life/scientists-are-updating-chemistry-models-to-track-down-life-on-icy-moons)
-- [Spotify debuts marketing tools and insights for audiobook authors](https://techcrunch.com/2024/11/26/spotify-debuts-marketing-tools-and-insights-for-audiobook-authors/)
-- [Major UK, US stores face ongoing disruption after ransomware attack hits supply chain giant Blue Yonder](https://techcrunch.com/2024/11/26/major-uk-us-stores-face-ongoing-disruption-after-ransomware-attack-hits-supply-chain-giant-blue-yonder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
