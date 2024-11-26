@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI helps India’s Meesho cut customer call costs by 75%](https://techcrunch.com/2024/11/26/ai-helps-indias-meesho-cut-customer-call-costs-by-75/)
-- [EV charging platform Ampeco raise $26M Series B, as demand for charging soars](https://techcrunch.com/2024/11/26/ev-charging-platform-ampeco-raise-26m-series-b-as-demand-for-charging-soars/)
-- [Cradle builds out its protein-design AI platform &lpar;and wet lab&rpar; with $73M in new funding](https://techcrunch.com/2024/11/26/cradle-builds-out-its-protein-design-ai-platform-and-wet-lab-with-73m-in-new-funding/)
-- [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/)
-- [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/)
+- [Get $80 off this computer-aided Celestron telescope for Black Friday](https://www.space.com/stargazing/astronomy-kit/get-usd80-off-this-computer-aided-celestron-telescope-for-black-friday)
+- [A super-Earth beyond Mars would have made Earth nearly uninhabitable](https://www.space.com/the-universe/solar-system/a-super-earth-beyond-mars-would-have-made-earth-nearly-uninhabitable)
+- [Google to test plain ‘blue link’ results for hotel searches in EU markets in latest DMA twist](https://techcrunch.com/2024/11/26/google-to-test-plain-blue-link-results-for-hotel-searches-in-eu-markets-in-latest-dma-twist/)
+- [You can get 70% off Max for six months this Black Friday](https://www.space.com/max-black-friday-2024-deal-save-70-percent)
+- [Intel and Biden Administration finalize $7.86B deal to fund domestic chip manufacturing](https://techcrunch.com/2024/11/26/intel-and-biden-administration-finalize-7-86b-deal-to-fund-domestic-chip-manufacturing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
