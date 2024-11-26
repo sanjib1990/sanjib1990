@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cradle builds out its protein-design AI platform &lpar;and wet lab&rpar; with $73M in new funding](https://techcrunch.com/2024/11/26/cradle-builds-out-its-protein-design-ai-platform-and-wet-lab-with-73m-in-new-funding/)
+- [Cambridge materials science spin-out Molyon is on a mission to make next-gen batteries fly](https://techcrunch.com/2024/11/26/cambridge-materials-science-spin-out-molyon-is-on-a-mission-to-make-next-gen-batteries-fly/)
 - [Biolevate’s raises €6M to helps medical writers keep up with the pace of new drugs](https://techcrunch.com/2024/11/25/biolevates-raises-e6m-to-helps-medical-writers-keep-up-with-the-pace-of-new-drugs/)
 - [Volta, a Shopify for B2B transactions, raises biggest pre-seed round of Italy](https://techcrunch.com/2024/11/25/volta-a-shopify-for-b2b-transactions-raises-biggest-pre-seed-round-of-italy/)
 - [Rivian snags $6.6B conditional federal loan to build Georgia factory](https://techcrunch.com/2024/11/25/rivian-snags-6-6b-conditional-federal-loan-to-build-georgia-factory/)
-- [Google Developer Program gains new features, but you’ll have to pay for them](https://techcrunch.com/2024/11/25/google-developer-program-gains-new-features-but-youll-have-to-pay-for-them/)
-- [Another star athlete is making his way into venture capital](https://techcrunch.com/2024/11/25/another-star-athlete-is-making-his-way-into-venture-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
