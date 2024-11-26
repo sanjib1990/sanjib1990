@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian snags $6.6B conditional federal loan to build Georgia factory](https://techcrunch.com/2024/11/25/rivian-snags-6-6b-conditional-federal-loan-to-build-georgia-factory/)
 - [Google Developer Program gains new features, but you’ll have to pay for them](https://techcrunch.com/2024/11/25/google-developer-program-gains-new-features-but-youll-have-to-pay-for-them/)
 - [Another star athlete is making his way into venture capital](https://techcrunch.com/2024/11/25/another-star-athlete-is-making-his-way-into-venture-capital/)
 - [SpaceX to launch 24 more Starlink satellites from Florida early Nov. 26](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-24-more-starlink-satellites-from-florida-early-nov-26)
 - [Marc Andreessen, Joe Lonsdale, and all the other VCs reportedly in the running for new Trump committees](https://techcrunch.com/2024/11/25/marc-andreessen-joe-londsale-and-all-the-other-vcs-reportedly-in-the-running-for-new-trump-committees/)
-- [Wicked xenomorphs invade in new teaser for Hulu&#39;s &#39;Alien: Earth&#39; &lpar;video&rpar;](https://www.space.com/entertainment/wicked-xenomorphs-invade-in-new-trailer-for-hulus-alien-earth-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
