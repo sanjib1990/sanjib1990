@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars may have made its 2 moons by ripping an asteroid apart](https://www.space.com/the-universe/mars/mars-may-have-made-its-2-moons-by-ripping-an-asteroid-apart)
+- [Cardless swipes up $30M to build a new generation of co-branded credit cards](https://techcrunch.com/2024/11/26/cardless-swipes-up-30m-to-build-a-new-generation-of-co-branded-credit-cards/)
 - [Apple ordered to open up in-app purchases in Brazil](https://techcrunch.com/2024/11/26/apple-ordered-to-open-up-in-app-purchases-in-brazil/)
-- [Say goodbye to ‘dockless’ e-bike parking in London following new rules to reduce bike mess on streets](https://techcrunch.com/2024/11/26/say-goodbye-to-freeform-dockless-e-bike-parking-in-london-tfl-debuts-new-rules-to-reduce-bike-mess-on-streets/)
+- [Say bye to freeform e-bike parking in London following new rules to reduce bike mess on streets](https://techcrunch.com/2024/11/26/say-goodbye-to-freeform-dockless-e-bike-parking-in-london-tfl-debuts-new-rules-to-reduce-bike-mess-on-streets/)
 - [We love this Celestron motorized telescope and it&#39;s $300 off for Black Friday](https://www.space.com/stargazing/astronomy-kit/we-love-this-celestron-motorised-telescope-and-its-usd300-off-for-black-friday)
-- [Get $80 off this computer-aided Celestron telescope for Black Friday](https://www.space.com/stargazing/astronomy-kit/get-usd80-off-this-computer-aided-celestron-telescope-for-black-friday)
-- [A super-Earth beyond Mars would have made Earth nearly uninhabitable](https://www.space.com/the-universe/solar-system/a-super-earth-beyond-mars-would-have-made-earth-nearly-uninhabitable)
 <!-- BLOG-POST-LIST:END -->
 
 ---
