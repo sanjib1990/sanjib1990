@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars may have made its 2 moons by ripping an asteroid apart](https://www.space.com/the-universe/mars/mars-may-have-made-its-2-moons-by-ripping-an-asteroid-apart)
-- [Cardless swipes up $30M to build a new generation of co-branded credit cards](https://techcrunch.com/2024/11/26/cardless-swipes-up-30m-to-build-a-new-generation-of-co-branded-credit-cards/)
-- [Apple ordered to open up in-app purchases in Brazil](https://techcrunch.com/2024/11/26/apple-ordered-to-open-up-in-app-purchases-in-brazil/)
-- [Say bye to freeform e-bike parking in London following new rules to reduce bike mess on streets](https://techcrunch.com/2024/11/26/say-goodbye-to-freeform-dockless-e-bike-parking-in-london-tfl-debuts-new-rules-to-reduce-bike-mess-on-streets/)
-- [We love this Celestron motorized telescope and it&#39;s $300 off for Black Friday](https://www.space.com/stargazing/astronomy-kit/we-love-this-celestron-motorised-telescope-and-its-usd300-off-for-black-friday)
+- [Major UK, US stores face ongoing disruption after ransomware attack hits supply chain giant Blue Yonder](https://techcrunch.com/2024/11/26/major-uk-us-stores-face-ongoing-disruption-after-ransomware-attack-hits-supply-chain-giant-blue-yonder/)
+- [Inflection CEO says it’s done trying to make next generation AI models](https://techcrunch.com/2024/11/26/inflection-ceo-says-its-done-competing-to-make-next-generation-ai-models/)
+- [In court filing, Drake alleges UMG and Spotify artificially inflated popularity of diss track ‘Not Like Us’](https://techcrunch.com/2024/11/26/in-court-filing-drake-alleges-umg-and-spotify-artificially-inflated-popularity-of-diss-track-not-like-us/)
+- [EU’s outgoing antitrust chief regrets not moving faster &amp; breaking Big Tech’s grip](https://techcrunch.com/2024/11/26/eus-outgoing-antitrust-chief-regrets-not-moving-faster-breaking-big-techs-grip/)
+- [Cleo Capital launches cybersecurity accelerator to help undo the ‘crushing burden’ of online threats](https://techcrunch.com/2024/11/26/cleo-capital-launches-cybersecurity-accelerator-to-help-undo-the-crushing-burden-of-online-threats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
