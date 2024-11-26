@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Mexican fintech isn’t too worried about Trump’s tariff threats](https://techcrunch.com/2024/11/26/this-mexican-fintech-isnt-too-worried-about-trumps-tariff-threats/)
+- [ISS astronauts open hatch to Russian spacecraft after strange smell delays cargo delivery](https://www.space.com/space-exploration/international-space-station/iss-astronauts-open-hatch-to-russian-spacecraft-after-strange-smell-delays-cargo-delivery)
+- [Bluesky verification could look a lot different from X’s blue checks](https://techcrunch.com/2024/11/26/bluesky-verification-could-look-a-lot-different-from-xs-blue-checks/)
 - [Earth&#39;s mini-moon has finally departed. Will it ever return as a &#39;second moon?&#39;](https://www.space.com/goodnight-second-moon-asteroid-2024PT5)
 - [YC-backed Circleback is out to become the best meeting notetaker](https://techcrunch.com/2024/11/26/yc-backed-circleback-is-out-to-become-the-best-meeting-notetaker/)
-- [Roon raises $15M to replace ‘Dr. Google’ with real doctors sharing videos about illness treatments](https://techcrunch.com/2024/11/26/roon-raises-15m-to-replace-dr-google-with-real-doctors-sharing-videos-about-illness-treatments/)
-- [From $19M to $1.5M, here’s how much Anduril pays top execs like Palmer Luckey in cash and stock](https://techcrunch.com/2024/11/26/from-19m-to-1-5m-heres-how-much-anduril-pays-top-execs-like-palmer-luckey-in-cash-and-stock/)
-- [Content funding on Space.com](https://www.space.com/content-funding-on-spacedotcom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
