@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple ordered to open up in-app purchases in Brazil](https://techcrunch.com/2024/11/26/apple-ordered-to-open-up-in-app-purchases-in-brazil/)
+- [Say goodbye to ‘dockless’ e-bike parking in London following new rules to reduce bike mess on streets](https://techcrunch.com/2024/11/26/say-goodbye-to-freeform-dockless-e-bike-parking-in-london-tfl-debuts-new-rules-to-reduce-bike-mess-on-streets/)
+- [We love this Celestron motorized telescope and it&#39;s $300 off for Black Friday](https://www.space.com/stargazing/astronomy-kit/we-love-this-celestron-motorised-telescope-and-its-usd300-off-for-black-friday)
 - [Get $80 off this computer-aided Celestron telescope for Black Friday](https://www.space.com/stargazing/astronomy-kit/get-usd80-off-this-computer-aided-celestron-telescope-for-black-friday)
 - [A super-Earth beyond Mars would have made Earth nearly uninhabitable](https://www.space.com/the-universe/solar-system/a-super-earth-beyond-mars-would-have-made-earth-nearly-uninhabitable)
-- [Google to test plain ‘blue link’ results for hotel searches in EU markets in latest DMA twist](https://techcrunch.com/2024/11/26/google-to-test-plain-blue-link-results-for-hotel-searches-in-eu-markets-in-latest-dma-twist/)
-- [You can get 70% off Max for six months this Black Friday](https://www.space.com/max-black-friday-2024-deal-save-70-percent)
-- [Intel and Biden Administration finalize $7.86B deal to fund domestic chip manufacturing](https://techcrunch.com/2024/11/26/intel-and-biden-administration-finalize-7-86b-deal-to-fund-domestic-chip-manufacturing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
