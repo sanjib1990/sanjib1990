@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump considers naming an ‘AI czar’](https://techcrunch.com/2024/11/26/trump-considers-naming-an-ai-czar/)
+- [Watch Jude Law describe his reverence for &#39;Star Wars&#39; in new &#39;Skeleton Crew&#39; featurette &lpar;video&rpar;](https://www.space.com/entertainment/watch-jude-law-describe-his-reverence-for-star-wars-in-new-skeleton-crew-featurette-video)
+- [Elon Musk wants to block the transfer of InfoWars’ X accounts to The Onion](https://techcrunch.com/2024/11/26/elon-musk-wants-to-block-the-transfer-of-infowars-x-accounts-to-the-onion/)
+- [SpaceX gets FCC green light for Starlink direct-to-phone deal with T-Mobile](https://techcrunch.com/2024/11/26/spacex-gets-fcc-green-light-for-starlink-direct-to-phone-deal-with-t-mobile/)
 - [Magnetic tornadoes on Jupiter are spawning Earth-size storms](https://www.space.com/the-universe/jupiter/magnetic-tornadoes-on-jupiter-are-spawning-earth-size-storms)
-- [AWS re:Invent 2024: What to expect and how to watch Amazon’s biggest event of the year](https://techcrunch.com/2024/11/26/aws-reinvent-2024-what-to-expect-and-how-to-watch-amazons-biggest-event-of-the-year/)
-- [ServiceTitan could be the first of many ‘dirty’ term-sheet IPOs, VCs believe](https://techcrunch.com/2024/11/26/servicetitan-could-be-the-first-of-many-dirty-term-sheet-ipos-vcs-believe/)
-- [International Space Station dodges 2nd piece of space junk in 6 days](https://www.space.com/space-exploration/international-space-station/international-space-station-dodges-2nd-piece-of-space-junk-in-6-days)
-- [&#39;Knights of the Old Republic II&#39; at 20: The key to Star Wars&#39; future is found in its past](https://www.space.com/entertainment/knights-of-the-old-republic-ii-at-20-the-key-to-star-wars-future-is-found-in-its-past)
 <!-- BLOG-POST-LIST:END -->
 
 ---
