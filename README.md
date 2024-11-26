@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Flame-throwing&#39; Guitar Nebula&#39;s concert caught by Hubble and Chandra space telescopes &lpar;video&rpar;](https://www.space.com/space-exploration/flame-throwing-guitar-nebulas-concert-caught-by-hubble-and-chandra-space-telescopes-video)
+- [Get a Hulu and Disney+ bundle for just $2.99 a month for a year with this Black Friday deal](https://www.space.com/entertainment/get-a-hulu-and-disney-bundle-cheaper-black-friday-streaming-deal)
+- [Save $200 on this &#39;revolutionary&#39; Celestron telescope this Black Friday](https://www.space.com/stargazing/astronomy-kit/save-big-on-this-revolutionary-celestron-telescope-this-black-friday)
+- [Epic Black Friday deal: Save a huge 90% on Hulu for a whole year](https://www.space.com/entertainment/epic-black-friday-deal-save-a-huge-90-percent-on-hulu-for-a-whole-year)
 - [Black Friday streaming deal: Save 75% on two months of AMC+](https://www.space.com/stargazing/astronomy-kit/black-friday-streaming-deal-save-75-percent-on-two-months-of-amc)
-- [Get 75% off your first two months of Discovery+ this Black Friday](https://www.space.com/entertainment/get-75-percent-off-discovery-plus-this-black-friday)
-- [OpenAI’s Sora appears to have leaked](https://techcrunch.com/2024/11/26/artists-appears-to-have-leaked-access-to-openais-sora/)
-- [&#39;Hidden black hole&#39; devouring curious star exposed by new X-ray space telescope](https://www.space.com/hidden-star-system-xrism-jaxa-nasa)
-- [Perplexity mulls getting into hardware](https://techcrunch.com/2024/11/26/perplexity-mulls-getting-into-hardware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
