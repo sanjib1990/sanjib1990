@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Save over 20% on this Lego Star Wars: Boarding the Tantive IV set](https://www.space.com/stargazing/astronomy-kit/save-over-20-percent-on-this-lego-star-wars-boarding-the-tantive-iv-set)
 - [Figure 02 performing tasks autonomously](https://techcrunch.com/video/figure-02-performing-tasks-autonomously/)
 - [Trump considers naming an ‘AI czar’](https://techcrunch.com/2024/11/26/trump-considers-naming-an-ai-czar/)
 - [Watch Jude Law describe his reverence for &#39;Star Wars&#39; in new &#39;Skeleton Crew&#39; featurette &lpar;video&rpar;](https://www.space.com/entertainment/watch-jude-law-describe-his-reverence-for-star-wars-in-new-skeleton-crew-featurette-video)
 - [Elon Musk wants to block the transfer of InfoWars’ X accounts to The Onion](https://techcrunch.com/2024/11/26/elon-musk-wants-to-block-the-transfer-of-infowars-x-accounts-to-the-onion/)
-- [SpaceX gets FCC green light for Starlink direct-to-phone deal with T-Mobile](https://techcrunch.com/2024/11/26/spacex-gets-fcc-green-light-for-starlink-direct-to-phone-deal-with-t-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
