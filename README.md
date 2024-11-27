@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronaut catches Dextre space robot &#39;busting a move&#39; outside ISS — for science &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/astronaut-catches-dextre-space-robot-busting-a-move-outside-iss-for-science-video)
+- [Stargaze for less — lowest price in six months on these Celestron binoculars at Amazon this Black Friday](https://www.space.com/stargazing/astronomy-kit/stargaze-for-less-with-110-off-celestron-binoculars-at-amazon-black-friday)
+- [Google Gemini’s Imagen 3 lets players design their own chess pieces](https://techcrunch.com/2024/11/27/google-geminis-imagen-3-lets-players-design-their-own-chess-pieces/)
 - [This Week in AI: AI gets creative in the kitchen](https://techcrunch.com/2024/11/27/this-week-in-ai-ai-gets-creative-in-the-kitchen/)
 - [Get 26% off this BlissLights galaxy projector this Black Friday and fill your home with stars!](https://www.space.com/stargazing/astronomy-kit/fill-your-home-with-stars-save-26-percent-star-projector-black-friday-2024)
-- [Goodnight moon! Astronomers snap photo of Earth&#39;s departing mini-moon](https://www.space.com/mini-moon-2024pt5-asteroid-depart-image)
-- [Meta’s Threads is developing its own take on Bluesky’s ‘Starter Packs’](https://techcrunch.com/2024/11/27/metas-threads-is-developing-its-own-take-on-blueskys-starter-packs/)
-- [OpenAI moves to trademark its o1 ‘reasoning’ models](https://techcrunch.com/2024/11/27/openai-moves-to-trademark-its-reasoning-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
