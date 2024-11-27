@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eyewa now has 150 stores selling eyeglasses in the Mideast, and just raised $100M to add 100 more](https://techcrunch.com/2024/11/26/eyewa-raises-100m-led-by-general-atlantic/)
+- [Ai2 releases new language models competitive with Meta’s Llama](https://techcrunch.com/2024/11/26/ai2-releases-new-language-models-competitive-with-metas-llama/)
 - [Roblox starts offering 25% more game currency for web purchases](https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/)
 - [Save over 20% on this Lego Star Wars: Boarding the Tantive IV set](https://www.space.com/stargazing/astronomy-kit/save-over-20-percent-on-this-lego-star-wars-boarding-the-tantive-iv-set)
 - [Figure 02 performing tasks autonomously](https://techcrunch.com/video/figure-02-performing-tasks-autonomously/)
-- [Trump considers naming an ‘AI czar’](https://techcrunch.com/2024/11/26/trump-considers-naming-an-ai-czar/)
-- [Watch Jude Law describe his reverence for &#39;Star Wars&#39; in new &#39;Skeleton Crew&#39; featurette &lpar;video&rpar;](https://www.space.com/entertainment/watch-jude-law-describe-his-reverence-for-star-wars-in-new-skeleton-crew-featurette-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
