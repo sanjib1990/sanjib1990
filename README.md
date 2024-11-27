@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 galaxies in perfect alignment challenge our best model of the universe](https://www.space.com/the-universe/galaxies/5-galaxies-in-perfect-alignment-challenge-our-best-model-of-the-universe)
-- [Pony AI set for Nasdaq debut at $4.55B valuation](https://techcrunch.com/2024/11/27/pony-ai-set-for-nasdaq-debut-at-4-55b-valuation/)
-- [Thanksgiving night sky 2024: Venus, Jupiter and Saturn stay for dessert](https://www.space.com/stargazing/thanksgiving-night-sky-2024-venus-jupiter-and-saturn-stay-for-dessert)
-- [Save $980 on one of Unistellar&#39;s best telescopes this Black Friday](https://www.space.com/stargazing/astronomy-kit/save-980-on-one-of-unistellars-best-telescopes-this-black-friday)
-- [Near Space Labs launches fleet of AI-powered balloon robots to track Earth climate risks](https://www.space.com/space-exploration/tech/near-space-labs-launches-fleet-of-ai-powered-balloon-robots-to-track-earth-climate-risks)
+- [Marc Andreessen, Joe Lonsdale, and all the other VCs reportedly in the running for DOGE and other Trump committees](https://techcrunch.com/2024/11/27/marc-andreessen-joe-londsale-and-all-the-other-vcs-reportedly-in-the-running-for-new-trump-committees/)
+- [ElevenLabs’ new feature is a NotebookLM competitor for creating GenAI podcasts](https://techcrunch.com/2024/11/27/elevenlabs-new-feature-is-a-notebooklm-competitor-for-creating-genai-podcasts/)
+- [China&#39;s Tianzhou 7 spacecraft burns up in Earth&#39;s atmosphere to end cargo mission &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinas-tianzhou-7-spacecraft-burns-up-in-earths-atmosphere-to-end-cargo-mission-video)
+- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/)
+- [Elon Musk’s AI company may release a consumer app](https://techcrunch.com/2024/11/27/elon-musks-ai-company-may-release-a-consumer-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
