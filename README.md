@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber’s subscription service reportedly target of FTC probe](https://techcrunch.com/2024/11/27/ubers-subscription-service-reportedly-target-of-ftc-probe/)
+- [Pony AI’s valuation hits $5.25B after Nasdaq debut](https://techcrunch.com/2024/11/27/pony-ai-set-for-nasdaq-debut-at-4-55b-valuation/)
+- [Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
+- [Spotify cuts developer access to several of its recommendation features](https://techcrunch.com/2024/11/27/spotify-cuts-developer-access-to-several-of-its-recommendation-features/)
 - [Investigators think a Chinese ship purposefully cut critical data cables](https://techcrunch.com/2024/11/27/investigators-think-a-chinese-ship-purposefully-cut-critical-data-cables/)
-- [NASA&#39;s Europa Clipper probe deploys 1st science instruments en route to Jupiter](https://www.space.com/space-exploration/missions/nasas-europa-clipper-probe-deploys-1st-science-instruments-en-route-to-jupiter)
-- [DIY and synth-curious? Try putting together the analog POM-400 from Teenage Engineering](https://techcrunch.com/video/diy-and-synth-curious-try-putting-together-the-analog-pom-400-from-teenage-engineering/)
-- [T-Mobile says telco hackers had ‘no access’ to customer call and text message logs](https://techcrunch.com/2024/11/27/t-mobile-says-telco-hackers-had-no-access-to-customer-call-and-text-message-logs/)
-- [Threads now lets you swipe between different feeds right from the home screen](https://techcrunch.com/2024/11/27/threads-now-lets-you-swipe-between-different-feeds-right-from-the-home-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
