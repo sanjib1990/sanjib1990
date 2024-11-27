@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok will restrict some beauty filters for under-18s](https://techcrunch.com/2024/11/27/tiktok-will-restrict-some-beauty-filters-for-under-18s/)
+- [Powerful new Vulcan Centaur rocket gearing up for 1st Space Force mission](https://www.space.com/space-exploration/launches-spacecraft/powerful-new-vulcan-centaur-rocket-gearing-up-for-1st-space-force-mission)
+- [Scaling startups top priority, as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-top-priority-as-eu-reboots-its-top-team/)
 - [This is one of the best Lego Star Wars Black Friday deals for kids I&#39;ve found](https://www.space.com/entertainment/space-games-toys/this-is-one-of-the-best-lego-star-wars-black-friday-deals-for-kids-ive-found)
 - [Hot Black Friday camera deal: Save $800 on the best DSLR for astrophotography](https://www.space.com/stargazing/astrophotography/hot-black-friday-camera-deal-save-800-on-the-best-dslr-for-astrophotography)
-- [Bluesky’s open API means anyone can scrape your data for AI training](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/)
-- [How China plans to put astronauts on the moon by 2030 &lpar;video&rpar;](https://www.space.com/the-universe/moon/how-china-plans-to-put-astronauts-on-the-moon-by-2030-video)
-- [Audio platform Pocket FM taps into AI tools help it expand content catalog](https://techcrunch.com/2024/11/27/audio-platform-pocket-fm-taps-into-ai-tools-help-it-expand-content-catalog/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
