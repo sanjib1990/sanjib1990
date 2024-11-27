@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Japan&#39;s priceless asteroid Ryugu sample got &#39;rapidly colonized&#39; by Earth bacteria](https://www.space.com/ryugu-asteroid-sample-earth-life-colonization)
-- [Astronaut catches Dextre space robot &#39;busting a move&#39; outside ISS — for science &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/astronaut-catches-dextre-space-robot-busting-a-move-outside-iss-for-science-video)
-- [Stargaze for less — lowest price in six months on these Celestron binoculars at Amazon this Black Friday](https://www.space.com/stargazing/astronomy-kit/stargaze-for-less-with-110-off-celestron-binoculars-at-amazon-black-friday)
-- [Google Gemini’s Imagen 3 lets players design their own chess pieces](https://techcrunch.com/2024/11/27/google-geminis-imagen-3-lets-players-design-their-own-chess-pieces/)
-- [This Week in AI: AI gets creative in the kitchen](https://techcrunch.com/2024/11/27/this-week-in-ai-ai-gets-creative-in-the-kitchen/)
+- [Investigators think a Chinese ship purposefully cut critical data cables](https://techcrunch.com/2024/11/27/investigators-think-a-chinese-ship-purposefully-cut-critical-data-cables/)
+- [NASA&#39;s Europa Clipper probe deploys 1st science instruments en route to Jupiter](https://www.space.com/space-exploration/missions/nasas-europa-clipper-probe-deploys-1st-science-instruments-en-route-to-jupiter)
+- [DIY and synth-curious? Try putting together the analog POM-400 from Teenage Engineering](https://techcrunch.com/video/diy-and-synth-curious-try-putting-together-the-analog-pom-400-from-teenage-engineering/)
+- [T-Mobile says telco hackers had ‘no access’ to customer call and text message logs](https://techcrunch.com/2024/11/27/t-mobile-says-telco-hackers-had-no-access-to-customer-call-and-text-message-logs/)
+- [Threads now lets you swipe between different feeds right from the home screen](https://techcrunch.com/2024/11/27/threads-now-lets-you-swipe-between-different-feeds-right-from-the-home-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
