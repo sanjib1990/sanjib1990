@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Japan&#39;s priceless asteroid Ryugu sample got &#39;rapidly colonized&#39; by Earth bacteria](https://www.space.com/ryugu-asteroid-sample-earth-life-colonization)
 - [Astronaut catches Dextre space robot &#39;busting a move&#39; outside ISS — for science &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/astronaut-catches-dextre-space-robot-busting-a-move-outside-iss-for-science-video)
 - [Stargaze for less — lowest price in six months on these Celestron binoculars at Amazon this Black Friday](https://www.space.com/stargazing/astronomy-kit/stargaze-for-less-with-110-off-celestron-binoculars-at-amazon-black-friday)
 - [Google Gemini’s Imagen 3 lets players design their own chess pieces](https://techcrunch.com/2024/11/27/google-geminis-imagen-3-lets-players-design-their-own-chess-pieces/)
 - [This Week in AI: AI gets creative in the kitchen](https://techcrunch.com/2024/11/27/this-week-in-ai-ai-gets-creative-in-the-kitchen/)
-- [Get 26% off this BlissLights galaxy projector this Black Friday and fill your home with stars!](https://www.space.com/stargazing/astronomy-kit/fill-your-home-with-stars-save-26-percent-star-projector-black-friday-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
