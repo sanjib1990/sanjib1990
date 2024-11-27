@@ -97,7 +97,7 @@
 - [Raspberry Pi launches Compute Module 5 for embedded apps](https://techcrunch.com/2024/11/27/raspberry-pi-launches-compute-module-5-for-embedded-applications/)
 - [Eyewa now has 150 stores selling eyeglasses in the Mideast, and just raised $100M to add 100 more](https://techcrunch.com/2024/11/26/eyewa-raises-100m-led-by-general-atlantic/)
 - [Ai2 releases new language models competitive with Meta’s Llama](https://techcrunch.com/2024/11/26/ai2-releases-new-language-models-competitive-with-metas-llama/)
-- [Roblox is offering 25% more of its in-game currency for purchases on its website](https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/)
+- [Roblox will now give users 25% more of its in-game currency if you buy Robux on its website](https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/)
 - [Save over 20% on this Lego Star Wars: Boarding the Tantive IV set](https://www.space.com/stargazing/astronomy-kit/save-over-20-percent-on-this-lego-star-wars-boarding-the-tantive-iv-set)
 <!-- BLOG-POST-LIST:END -->
 
