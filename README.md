@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thanksgiving night sky 2024: Venus, Jupiter and Saturn stay for dessert](https://www.space.com/stargazing/thanksgiving-night-sky-2024-venus-jupiter-and-saturn-stay-for-dessert)
+- [Save $980 on one of Unistellar&#39;s best telescopes this Black Friday](https://www.space.com/stargazing/astronomy-kit/save-980-on-one-of-unistellars-best-telescopes-this-black-friday)
 - [Near Space Labs launches fleet of AI-powered balloon robots to track Earth climate risks](https://www.space.com/space-exploration/tech/near-space-labs-launches-fleet-of-ai-powered-balloon-robots-to-track-earth-climate-risks)
 - [Act fast! Hulu and Disney+ bundle for just $2.99 a month for a year with this Black Friday deal](https://www.space.com/entertainment/get-a-hulu-and-disney-bundle-cheaper-black-friday-streaming-deal)
 - [TikTok will restrict some beauty filters for under-18s](https://techcrunch.com/2024/11/27/tiktok-will-restrict-some-beauty-filters-for-under-18s/)
-- [Powerful new Vulcan Centaur rocket gearing up for 1st Space Force mission](https://www.space.com/space-exploration/launches-spacecraft/powerful-new-vulcan-centaur-rocket-gearing-up-for-1st-space-force-mission)
-- [Scaling startups top priority as EU reboots its top team](https://techcrunch.com/2024/11/27/scaling-startups-top-priority-as-eu-reboots-its-top-team/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
