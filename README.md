@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Marc Andreessen, Joe Lonsdale, and all the other VCs reportedly in the running for DOGE and other Trump committees](https://techcrunch.com/2024/11/27/marc-andreessen-joe-londsale-and-all-the-other-vcs-reportedly-in-the-running-for-new-trump-committees/)
-- [ElevenLabs’ new feature is a NotebookLM competitor for creating GenAI podcasts](https://techcrunch.com/2024/11/27/elevenlabs-new-feature-is-a-notebooklm-competitor-for-creating-genai-podcasts/)
-- [China&#39;s Tianzhou 7 spacecraft burns up in Earth&#39;s atmosphere to end cargo mission &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinas-tianzhou-7-spacecraft-burns-up-in-earths-atmosphere-to-end-cargo-mission-video)
-- [TuSimple co-founder demands liquidation, sues company for control of his shares](https://techcrunch.com/2024/11/27/tusimple-co-founder-demands-liquidation-sues-company-for-control-of-his-shares/)
-- [Elon Musk’s AI company may release a consumer app](https://techcrunch.com/2024/11/27/elon-musks-ai-company-may-release-a-consumer-app/)
+- [This Week in AI: AI gets creative in the kitchen](https://techcrunch.com/2024/11/27/this-week-in-ai-ai-gets-creative-in-the-kitchen/)
+- [Get 26% off this BlissLights galaxy projector this Black Friday and fill your home with stars!](https://www.space.com/stargazing/astronomy-kit/fill-your-home-with-stars-save-26-percent-star-projector-black-friday-2024)
+- [Goodnight moon! Astronomers snap photo of Earth&#39;s departing mini-moon](https://www.space.com/mini-moon-2024pt5-asteroid-depart-image)
+- [Meta’s Threads is developing its own take on Bluesky’s ‘Starter Packs’](https://techcrunch.com/2024/11/27/metas-threads-is-developing-its-own-take-on-blueskys-starter-packs/)
+- [OpenAI moves to trademark its o1 ‘reasoning’ models](https://techcrunch.com/2024/11/27/openai-moves-to-trademark-its-reasoning-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
