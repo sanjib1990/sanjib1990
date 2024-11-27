@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky’s open API means anyone can scrape your data for AI training](https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/)
+- [How China plans to put astronauts on the moon by 2030 &lpar;video&rpar;](https://www.space.com/the-universe/moon/how-china-plans-to-put-astronauts-on-the-moon-by-2030-video)
 - [Audio platform Pocket FM taps into AI tools help it expand content catalog](https://techcrunch.com/2024/11/27/audio-platform-pocket-fm-taps-into-ai-tools-help-it-expand-content-catalog/)
 - [Raspberry Pi launches Compute Module 5 for embedded apps](https://techcrunch.com/2024/11/27/raspberry-pi-launches-compute-module-5-for-embedded-applications/)
 - [Eyewa now has 150 stores selling eyeglasses in the Mideast, and just raised $100M to add 100 more](https://techcrunch.com/2024/11/26/eyewa-raises-100m-led-by-general-atlantic/)
-- [Ai2 releases new language models competitive with Meta’s Llama](https://techcrunch.com/2024/11/26/ai2-releases-new-language-models-competitive-with-metas-llama/)
-- [Roblox will now give users 25% more of its in-game currency if you buy Robux on its website](https://techcrunch.com/2024/11/26/roblox-starts-offering-25-more-game-currency-for-web-purchases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
