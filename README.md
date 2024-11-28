@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;The Fantasy Worlds of Irwin Allen&#39; book honors the king of ‘60s sci-fi TV](https://www.space.com/entertainment/the-fantasy-worlds-of-irwin-allen-book-honors-the-king-of-60s-sci-fi-tv)
+- [Akhetonics gets fresh funding for a contrarian bet on all-optical chips](https://techcrunch.com/2024/11/28/akhetonics-gets-fresh-funding-for-a-contrarian-bet-on-all-optical-chips/)
+- [Hurry! The cheapest we have seen the Nikon Z 7II: Save $1,000 this Black Friday](https://www.space.com/stargazing/astronomy-kit/cheapest-nikon-z-7ii-save-1000-this-black-friday)
 - [Watch a mesmerizing simulation of the sun’s behavior from NASA &lpar;video&rpar;](https://www.space.com/the-universe/sun/watch-a-mesmerizing-simulation-of-the-suns-behavior-from-nasa-video)
 - [Massive saving of $759 on the best-in-class Leica binoculars this Black Friday](https://www.space.com/stargazing/astronomy-kit/massive-saving-759-off--leica-binoculars-this-black-friday)
-- [&#39;Impossible&#39; black holes discovered by the James Webb Space Telescope may finally have an explanation](https://www.space.com/the-universe/black-holes/impossible-black-holes-discovered-by-the-james-webb-telescope-may-finally-have-an-explanation)
-- [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/)
-- [Save 25% with this Black Friday deal on the BlissLights star projector](https://www.space.com/stargazing/astronomy-kit/save-25-percent-black-friday-deal-on-the-blisslights-star-projector)
 <!-- BLOG-POST-LIST:END -->
 
 ---
