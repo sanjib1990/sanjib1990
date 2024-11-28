@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [North Korean hackers have stolen billions in crypto by posing as VCs, recruiters and IT workers](https://techcrunch.com/2024/11/28/north-korean-hackers-have-stolen-billions-in-crypto-by-posing-as-vcs-recruiters-and-it-workers/)
+- [2 space telescope designs will battle it out to become NASA&#39;s next cosmic imager](https://www.space.com/space-exploration/missions/2-space-telescope-designs-will-battle-it-out-to-become-nasas-next-cosmic-imager)
+- [Intenty nudges you to provide a reason every time you unlock your phone](https://techcrunch.com/2024/11/28/intenty-will-nudge-you-to-provide-a-reason-every-time-you-unlock-your-phone/)
+- [Black Friday deal: The cheapest we have ever seen the Canon EOS R8](https://www.space.com/stargazing/astronomy-kit/black-friday-cheapest-we-have-ever-seen-canon-eos-r8)
 - [EU ends Amazon state aid case with no back taxes in its basket](https://techcrunch.com/2024/11/28/eu-ends-amazon-state-aid-case-with-no-back-taxes-in-its-basket/)
-- [Experience the galaxy in your own home for less this Black Friday with 30% off this Govee Star Light Projector](https://www.space.com/stargazing/astronomy-kit/30-percent-off-govee-star-light-projector-this-black-friday)
-- [From pond scum to premium skincare? Deep Blue Biotech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/)
-- [From 6th Ave to space: Haribo gummi candies blast off into Macy&#39;s Thanksgiving Day Parade](https://www.space.com/candy-cosmos-haribo-gummi-goldbear-macys-thanksgiving-parade)
-- [Financial inclusion drives African fintech M-KOPA to $400M in ARR](https://techcrunch.com/2024/11/28/financial-inclusion-drives-m-kopa-to-400m-in-arr/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
