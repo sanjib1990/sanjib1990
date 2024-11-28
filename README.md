@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy Thanksgiving from space! NASA astronauts beam home Turkey Day message &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/happy-thanksgiving-from-space-nasa-astronauts-beam-home-turkey-day-message-video)
 - [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/)
 - [FTC reportedly opens antitrust investigation into Microsoft](https://techcrunch.com/2024/11/27/ftc-reportedly-opens-antitrust-investigation-into-microsoft/)
 - [Time spent online by adults in the UK jumped by nearly an hour in 2024 says Ofcom](https://techcrunch.com/2024/11/27/time-spent-online-by-adults-in-the-uk-jumped-by-nearly-an-hour-in-2024-says-ofcom/)
 - [Uber’s subscription service reportedly target of FTC probe](https://techcrunch.com/2024/11/27/ubers-subscription-service-reportedly-target-of-ftc-probe/)
-- [Pony AI’s valuation hits $5.25B after Nasdaq debut](https://techcrunch.com/2024/11/27/pony-ai-set-for-nasdaq-debut-at-4-55b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
