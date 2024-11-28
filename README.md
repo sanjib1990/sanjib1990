@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Using Bayesian Approaches &amp; Sausage Plots to Improve Machine Learning - Computerphile](https://www.youtube.com/watch?v=NuBd2HKkJK4)
 - [I started a blog.....in 2024 &lpar;why you should too&rpar;](https://www.youtube.com/watch?v=dnE7c0ELEH8)
 - [D-Link says “just buy a new router” after 9.8 critical vulnerability…](https://www.youtube.com/watch?v=52v6gKPA4TM)
 - [Using AI to prevent SCAMS](https://www.youtube.com/watch?v=6drXjzANhUU)
 - [Cheaters are breaking the technical interview... how?](https://www.youtube.com/watch?v=Lf883rNZjSE)
-- [Top G Andrew Tate penetrated by LGBT hackers](https://www.youtube.com/watch?v=xR5d4Ba4FZg)
 <!-- YOUTUBE:END -->
 
 ---
