@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Time spent online by adults in the UK jumped by nearly an hour in 2024 says Ofcom](https://techcrunch.com/2024/11/27/time-spent-online-by-adults-in-the-uk-jumped-by-nearly-an-hour-in-2024-says-ofcom/)
 - [Uber’s subscription service reportedly target of FTC probe](https://techcrunch.com/2024/11/27/ubers-subscription-service-reportedly-target-of-ftc-probe/)
 - [Pony AI’s valuation hits $5.25B after Nasdaq debut](https://techcrunch.com/2024/11/27/pony-ai-set-for-nasdaq-debut-at-4-55b-valuation/)
 - [Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/)
 - [Spotify cuts developer access to several of its recommendation features](https://techcrunch.com/2024/11/27/spotify-cuts-developer-access-to-several-of-its-recommendation-features/)
-- [Investigators think a Chinese ship purposefully cut critical data cables](https://techcrunch.com/2024/11/27/investigators-think-a-chinese-ship-purposefully-cut-critical-data-cables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
