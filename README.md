@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI agent startup /dev/agents has raised a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/)
+- [&#39;The Book of Boba Fett&#39; was disappointing, but we still want a 2nd season](https://www.space.com/entertainment/the-book-of-boba-fett-was-disappointing-but-we-still-want-a-2nd-season)
+- [Save $450 this Black Friday: The Celestron NexStar Evolution 9.25&quot; telescope is the cheapest it has been all year!](https://www.space.com/stargazing/astronomy-kit/save-450-black-friday-celestron-nexstar-evolution-9-25-telescope-cheapest-all-year)
 - [The fastest-moving stars in the galaxy may be piloted by intelligent aliens, new paper suggests](https://www.space.com/space-exploration/search-for-life/the-fastest-moving-stars-in-the-galaxy-may-be-piloted-by-intelligent-aliens-new-paper-suggests)
 - [Black Friday deal: Save $55 on one of Celestron&#39;s best binoculars for stargazing](https://www.space.com/stargazing/astronomy-kit/black-friday-save-55-on-celestrons-best-binoculars-for-stargazing)
-- [Warm up this holiday season with NASA&#39;s new SLS rocket engine fireplace &lpar;video&rpar;](https://www.space.com/entertainment/warm-up-this-holiday-season-with-nasas-new-sls-rocket-engine-fireplace-video)
-- [&#39;Star Trek: Lower Decks&#39; season 5 episode 7: How does a certain &#39;Next Generation&#39; character cross paths with the Cerritos?](https://www.space.com/entertainment/star-trek-lower-decks-season-5-episode-7-how-does-a-certain-next-generation-character-cross-paths-with-the-cerritos)
-- [Australia approves law banning social media for under 16s](https://techcrunch.com/2024/11/28/australia-approves-law-banning-social-media-for-under-16s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
