@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warm up this holiday season with NASA&#39;s new SLS rocket engine fireplace &lpar;video&rpar;](https://www.space.com/entertainment/warm-up-this-holiday-season-with-nasas-new-sls-rocket-engine-fireplace-video)
+- [&#39;Star Trek: Lower Decks&#39; season 5 episode 7: How does a certain &#39;Next Generation&#39; character cross paths with the Cerritos?](https://www.space.com/entertainment/star-trek-lower-decks-season-5-episode-7-how-does-a-certain-next-generation-character-cross-paths-with-the-cerritos)
+- [Australia approves law banning social media for under 16s](https://techcrunch.com/2024/11/28/australia-approves-law-banning-social-media-for-under-16s/)
 - [North Korean hackers have stolen billions in crypto by posing as VCs, recruiters and IT workers](https://techcrunch.com/2024/11/28/north-korean-hackers-have-stolen-billions-in-crypto-by-posing-as-vcs-recruiters-and-it-workers/)
 - [2 space telescope designs will battle it out to become NASA&#39;s next cosmic imager](https://www.space.com/space-exploration/missions/2-space-telescope-designs-will-battle-it-out-to-become-nasas-next-cosmic-imager)
-- [Intenty nudges you to provide a reason every time you unlock your phone](https://techcrunch.com/2024/11/28/intenty-will-nudge-you-to-provide-a-reason-every-time-you-unlock-your-phone/)
-- [Black Friday deal: The cheapest we have ever seen the Canon EOS R8](https://www.space.com/stargazing/astronomy-kit/black-friday-cheapest-we-have-ever-seen-canon-eos-r8)
-- [EU ends Amazon state aid case with no back taxes in its basket](https://techcrunch.com/2024/11/28/eu-ends-amazon-state-aid-case-with-no-back-taxes-in-its-basket/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
