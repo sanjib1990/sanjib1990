@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI agent startup /dev/agents has raised a massive $56M seed round at a $500M valuation](https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/)
-- [&#39;The Book of Boba Fett&#39; was disappointing, but we still want a 2nd season](https://www.space.com/entertainment/the-book-of-boba-fett-was-disappointing-but-we-still-want-a-2nd-season)
-- [Save $450 this Black Friday: The Celestron NexStar Evolution 9.25&quot; telescope is the cheapest it has been all year!](https://www.space.com/stargazing/astronomy-kit/save-450-black-friday-celestron-nexstar-evolution-9-25-telescope-cheapest-all-year)
-- [The fastest-moving stars in the galaxy may be piloted by intelligent aliens, new paper suggests](https://www.space.com/space-exploration/search-for-life/the-fastest-moving-stars-in-the-galaxy-may-be-piloted-by-intelligent-aliens-new-paper-suggests)
-- [Black Friday deal: Save $55 on one of Celestron&#39;s best binoculars for stargazing](https://www.space.com/stargazing/astronomy-kit/black-friday-save-55-on-celestrons-best-binoculars-for-stargazing)
+- [&#39;Impossible&#39; black holes discovered by the James Webb Space Telescope may finally have an explanation](https://www.space.com/the-universe/black-holes/impossible-black-holes-discovered-by-the-james-webb-telescope-may-finally-have-an-explanation)
+- [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/)
+- [Save 25% with this Black Friday deal on the BlissLights star projector](https://www.space.com/stargazing/astronomy-kit/save-25-percent-black-friday-deal-on-the-blisslights-star-projector)
+- [Linkup connects LLMs with premium content sources &lpar;legally&rpar;](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/)
+- [The Nikon Z7 II is brilliant for astrophotography and it now has a huge $1003 saving in this Black Friday camera deal](https://www.space.com/space-exploration/tech/nikon-z72-black-friday-2024-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
