@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a mesmerizing simulation of the sun’s behavior from NASA &lpar;video&rpar;](https://www.space.com/the-universe/sun/watch-a-mesmerizing-simulation-of-the-suns-behavior-from-nasa-video)
+- [Massive saving of $759 on the best-in-class Leica binoculars this Black Friday](https://www.space.com/stargazing/astronomy-kit/massive-saving-759-off--leica-binoculars-this-black-friday)
 - [&#39;Impossible&#39; black holes discovered by the James Webb Space Telescope may finally have an explanation](https://www.space.com/the-universe/black-holes/impossible-black-holes-discovered-by-the-james-webb-telescope-may-finally-have-an-explanation)
 - [French court blocks popular porn site… subdomain](https://techcrunch.com/2024/11/28/french-court-blocks-popular-porn-sites-subdomain/)
 - [Save 25% with this Black Friday deal on the BlissLights star projector](https://www.space.com/stargazing/astronomy-kit/save-25-percent-black-friday-deal-on-the-blisslights-star-projector)
-- [Linkup connects LLMs with premium content sources &lpar;legally&rpar;](https://techcrunch.com/2024/11/28/linkup-connects-llms-with-premium-content-sources-legally/)
-- [The Nikon Z7 II is brilliant for astrophotography and it now has a huge $1003 saving in this Black Friday camera deal](https://www.space.com/space-exploration/tech/nikon-z72-black-friday-2024-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
