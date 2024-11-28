@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flying high! This DJI drone bundle is $270 off for Black Friday](https://www.space.com/stargazing/astronomy-kit/flying-high-this-dji-drone-bundle-is-270-off-for-black-friday)
 - [&#39;The Fantasy Worlds of Irwin Allen&#39; book honors the king of ‘60s sci-fi TV](https://www.space.com/entertainment/the-fantasy-worlds-of-irwin-allen-book-honors-the-king-of-60s-sci-fi-tv)
 - [Akhetonics gets fresh funding for a contrarian bet on all-optical chips](https://techcrunch.com/2024/11/28/akhetonics-gets-fresh-funding-for-a-contrarian-bet-on-all-optical-chips/)
 - [Hurry! The cheapest we have seen the Nikon Z 7II: Save $1,000 this Black Friday](https://www.space.com/stargazing/astronomy-kit/cheapest-nikon-z-7ii-save-1000-this-black-friday)
 - [Watch a mesmerizing simulation of the sun’s behavior from NASA &lpar;video&rpar;](https://www.space.com/the-universe/sun/watch-a-mesmerizing-simulation-of-the-suns-behavior-from-nasa-video)
-- [Massive saving of $759 on the best-in-class Leica binoculars this Black Friday](https://www.space.com/stargazing/astronomy-kit/massive-saving-759-off--leica-binoculars-this-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
