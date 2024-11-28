@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Chat now has its own take on Slack’s Huddles](https://techcrunch.com/2024/11/27/google-chat-now-has-its-own-take-on-slacks-huddles/)
+- [HongShan, spun out of Sequoia last year, is reportedly struggling to invest its huge war chest](https://techcrunch.com/2024/11/27/hongshan-spun-out-of-sequoia-last-year-is-reportedly-struggling-to-invest-its-huge-war-chest/)
 - [Happy Thanksgiving from space! NASA astronauts beam home Turkey Day message &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/happy-thanksgiving-from-space-nasa-astronauts-beam-home-turkey-day-message-video)
 - [India, already an IPO bright spot, prepares for bigger surge in 2025](https://techcrunch.com/2024/11/27/india-already-an-ipo-bright-spot-prepares-for-bigger-surge-in-2025/)
 - [FTC reportedly opens antitrust investigation into Microsoft](https://techcrunch.com/2024/11/27/ftc-reportedly-opens-antitrust-investigation-into-microsoft/)
-- [Time spent online by adults in the UK jumped by nearly an hour in 2024 says Ofcom](https://techcrunch.com/2024/11/27/time-spent-online-by-adults-in-the-uk-jumped-by-nearly-an-hour-in-2024-says-ofcom/)
-- [Uber’s subscription service reportedly target of FTC probe](https://techcrunch.com/2024/11/27/ubers-subscription-service-reportedly-target-of-ftc-probe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
