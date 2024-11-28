@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU ends Amazon state aid case with no back taxes in its basket](https://techcrunch.com/2024/11/28/eu-ends-amazon-state-aid-case-with-no-back-taxes-in-its-basket/)
+- [Experience the galaxy in your own home for less this Black Friday with 30% off this Govee Star Light Projector](https://www.space.com/stargazing/astronomy-kit/30-percent-off-govee-star-light-projector-this-black-friday)
+- [From pond scum to premium skincare? Deep Blue Biotech is all in on blue-green algae to make better chemicals](https://techcrunch.com/2024/11/28/from-pond-scum-to-premium-skincare-deep-blue-biotech-is-all-in-on-blue-green-algae-to-make-better-chemicals/)
 - [From 6th Ave to space: Haribo gummi candies blast off into Macy&#39;s Thanksgiving Day Parade](https://www.space.com/candy-cosmos-haribo-gummi-goldbear-macys-thanksgiving-parade)
 - [Financial inclusion drives African fintech M-KOPA to $400M in ARR](https://techcrunch.com/2024/11/28/financial-inclusion-drives-m-kopa-to-400m-in-arr/)
-- [The Nikon Z8 is the cheapest we have ever seen it this Black Friday with $700 off](https://www.space.com/stargazing/astrophotography/nikon-z8-the-best-mirrorless-camera-and-its-700-off-this-black-friday)
-- [Google Chat now has its own take on Slack’s Huddles](https://techcrunch.com/2024/11/27/google-chat-now-has-its-own-take-on-slacks-huddles/)
-- [HongShan, spun out of Sequoia last year, is reportedly struggling to invest its huge war chest](https://techcrunch.com/2024/11/27/hongshan-spun-out-of-sequoia-last-year-is-reportedly-struggling-to-invest-its-huge-war-chest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
