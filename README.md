@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Huge 30% discount on the Fussion Planetarium Projector this Black Friday](https://www.space.com/stargazing/astronomy-kit/huge-30-percent-discount-fussion-planetarium-projector-black-friday)
 - [As Cohere and Writer mine the ‘Live AI’ arena, Pathway joins the pack with a $10M round](https://techcrunch.com/2024/11/29/as-cohere-and-writer-mine-the-live-ai-arena-pathway-joins-the-pack-with-a-10m-round/)
 - [Reddit looks to UK, India, Brazil and the Philippines to spur international growth](https://techcrunch.com/2024/11/28/reddit-looks-to-uk-india-brazil-and-the-philippines-to-spur-international-growth/)
 - [Zomato raises $1B in first major fundraise since 2021 listing](https://techcrunch.com/2024/11/28/zomato-raises-1-billion-in-first-major-fundraise-since-2021-listing/)
 - [Early Thanksgiving online sales numbers are up 7% YoY to $15.6B, on par with pre-pandemic trends](https://techcrunch.com/2024/11/28/early-thanksgiving-online-sales-numbers-are-up-7-yoy-to-15-6b-on-par-with-pre-pandemic-trends/)
-- [One of the best mirrorless cameras has dipped below $2000](https://www.space.com/stargazing/astrophotography/one-of-the-best-mirrorless-cameras-has-dipped-below-2000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
