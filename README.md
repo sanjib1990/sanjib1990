@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our best budget telescope is $115 off this Black Friday, but you&#39;ll have to be fast](https://www.space.com/stargazing/astronomy-kit/act-fast-our-best-budget-telescope-is-115-off-this-black-friday-2024)
+- [Black Friday deal: These top Celestron binoculars have a 25% discount](https://www.space.com/stargazing/astronomy-kit/black-friday-top-celestron-binoculars-25-percent-discount)
 - [Learn how to use Apple Intelligence’s ‘Image Playground’](https://techcrunch.com/2024/11/29/how-to-use-apple-intelligence-image-playground-feature/)
 - [What is Tiran-Arafel in Dune: Prophecy?](https://www.space.com/entertainment/what-is-tiran-arafel-in-dune-prophecy)
 - [Missing Star Wars: Ahsoka? Get $94 off this Force FX Elite Sabine Wren Lightsaber](https://www.space.com/stargazing/astronomy-kit/missing-star-wars-ahsoka-get-94-off-this-force-fx-elite-sabine-wren-lightsaber)
-- [Sequoia nears first Asia-Pacific deal since regional split](https://techcrunch.com/2024/11/29/sequoia-nears-first-asia-pacific-deal-since-regional-split/)
-- [This spot will be key to the inevitable collapse of a key Atlantic current](https://www.space.com/the-universe/earth/this-spot-will-be-key-to-the-inevitable-collapse-of-a-key-atlantic-current)
 <!-- BLOG-POST-LIST:END -->
 
 ---
