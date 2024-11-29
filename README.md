@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious, record-breaking energy burst connected to dead star and red dwarf](https://www.space.com/record-breaking-mystery-energy-burst-gleam-xj0704-37)
+- [SpaceX to launch next-gen US spy satellites, 20 Starlink spacecraft from California early Nov. 30](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-next-gen-us-spy-satellites-20-starlink-spacecraft-from-california-early-nov-30)
+- [Canadian news companies sue OpenAI](https://techcrunch.com/2024/11/29/canadian-news-companies-sue-openai/)
 - [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/)
 - [Out of this world Black Friday deal: Save a massive 67% on the Estes Blue Origin New Shepard model rocket](https://www.space.com/entertainment/space-games-toys/out-of-this-world-black-friday-deal-save-a-massive-67-percent-on-the-estes-blue-origin-new-shepard-model-rocket)
-- [We&#39;re over the moon with £33 off this massive Lego Icons NASA Artemis rocket set](https://www.space.com/entertainment/space-games-toys/were-over-the-moon-with-gbp33-off-this-massive-lego-icons-nasa-artemis-rocket-set)
-- [Light up your home with our favorite Astronaut star projector now 35% cheaper for Black Friday](https://www.space.com/stargazing/astronomy-kit/our-favorite-astronaut-star-projector-now-35-percent-cheaper-for-black-friday)
-- [Dead stars within supernova explosions could solve the dark matter mystery in 10 seconds](https://www.space.com/supernova-neutron-star-dark-matter-1987A)
 <!-- BLOG-POST-LIST:END -->
 
 ---
