@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Cataclysmic&#39; solar storm hit Earth around 2687 years ago, ancient tree rings reveal](https://www.space.com/the-universe/sun/cataclysmic-solar-storm-hit-earth-around-2687-years-ago-ancient-tree-rings-reveal)
+- [One of the best Lego Marvel sets has 40% off this Black Friday](https://www.space.com/entertainment/space-games-toys/best-lego-marvel-set-40-percent-off-this-black-friday)
 - [Huge 30% discount on the Fussion Planetarium Projector this Black Friday](https://www.space.com/stargazing/astronomy-kit/huge-30-percent-discount-fussion-planetarium-projector-black-friday)
 - [As Cohere and Writer mine the ‘Live AI’ arena, Pathway joins the pack with a $10M round](https://techcrunch.com/2024/11/29/as-cohere-and-writer-mine-the-live-ai-arena-pathway-joins-the-pack-with-a-10m-round/)
 - [Reddit looks to UK, India, Brazil and the Philippines to spur international growth](https://techcrunch.com/2024/11/28/reddit-looks-to-uk-india-brazil-and-the-philippines-to-spur-international-growth/)
-- [Zomato raises $1B in first major fundraise since 2021 listing](https://techcrunch.com/2024/11/28/zomato-raises-1-billion-in-first-major-fundraise-since-2021-listing/)
-- [Early Thanksgiving online sales numbers are up 7% YoY to $15.6B, on par with pre-pandemic trends](https://techcrunch.com/2024/11/28/early-thanksgiving-online-sales-numbers-are-up-7-yoy-to-15-6b-on-par-with-pre-pandemic-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
