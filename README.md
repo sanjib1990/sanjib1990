@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/)
+- [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/29/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/)
+- [How bacteria are inspiring the next generation of space-borne lasers](https://www.space.com/space-exploration/satellites/how-bacteria-are-inspiring-the-next-generation-of-space-borne-lasers)
 - [Lego&#39;s Black Friday sale is now live — Here are the best deals on Star Wars sets and the free gifts up for grabs](https://www.space.com/lego-black-friday-sale-free-gifts-with-purchase-2024)
 - [I&#39;m a huge Star Wars and sci-fi fan and I recommend Disney Plus and Hulu&#39;s Black Friday bundle](https://www.space.com/massive-black-friday-disney-plus-hulu-streaming-deal-bundle-2024)
-- [The cheapest price since January — a massive $450 off our favorite Celestron telescope this Black Friday](https://www.space.com/stargazing/astronomy-kit/-cheapest-since-january-massive-450-off-our-favorite-celestron-telescope-black-friday)
-- [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/)
-- [Black Friday deal: Unleash your inner dark side with 20% off the Darth Vader Force FX Elite Lightsaber](https://www.space.com/entertainment/black-friday-unleash-your-dark-side-with-20-percent-off-darth-vader-force-fx-elite-lightsaber)
 <!-- BLOG-POST-LIST:END -->
 
 ---
