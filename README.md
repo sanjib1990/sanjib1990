@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to use Apple Intelligence’s ‘Image Playground’](https://techcrunch.com/2024/11/29/how-to-use-apple-intelligence-image-playground-feature/)
+- [What is Tiran-Arafel in Dune: Prophecy?](https://www.space.com/entertainment/what-is-tiran-arafel-in-dune-prophecy)
+- [Missing Star Wars: Ahsoka? Get $94 off this Force FX Elite Sabine Wren Lightsaber](https://www.space.com/stargazing/astronomy-kit/missing-star-wars-ahsoka-get-94-off-this-force-fx-elite-sabine-wren-lightsaber)
 - [Sequoia nears first Asia-Pacific deal since regional split](https://techcrunch.com/2024/11/29/sequoia-nears-first-asia-pacific-deal-since-regional-split/)
 - [This spot will be key to the inevitable collapse of a key Atlantic current](https://www.space.com/the-universe/earth/this-spot-will-be-key-to-the-inevitable-collapse-of-a-key-atlantic-current)
-- [Thanksgiving 2024: $33.6B spent online, 72% of that on mobile, says Salesforce](https://techcrunch.com/2024/11/29/early-thanksgiving-online-sales-numbers-are-up-7-yoy-to-15-6b-on-par-with-pre-pandemic-trends/)
-- [X could introduce labels for parody accounts, but enforcement might be tricky](https://techcrunch.com/2024/11/29/x-could-introduce-labels-for-parody-accounts-but-enforcement-might-be-tricky/)
-- [$255 off for Black Friday, this astronomer-friendly MacBook Air has never been cheaper](https://www.space.com/stargazing/astronomy-kit/255-off-black-friday-astronomer-friendly-macbook-air-never-been-cheaper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
