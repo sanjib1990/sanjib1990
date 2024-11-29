@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego&#39;s Black Friday sale is now live — Here are the best deals on Star Wars sets and the free gifts up for grabs](https://www.space.com/lego-black-friday-sale-free-gifts-with-purchase-2024)
+- [I&#39;m a huge Star Wars and sci-fi fan and I recommend Disney Plus and Hulu&#39;s Black Friday bundle](https://www.space.com/massive-black-friday-disney-plus-hulu-streaming-deal-bundle-2024)
+- [The cheapest price since January — a massive $450 off our favorite Celestron telescope this Black Friday](https://www.space.com/stargazing/astronomy-kit/-cheapest-since-january-massive-450-off-our-favorite-celestron-telescope-black-friday)
 - [Meta plans to build a $10B subsea cable spanning the world, sources say](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/)
 - [Black Friday deal: Unleash your inner dark side with 20% off the Darth Vader Force FX Elite Lightsaber](https://www.space.com/entertainment/black-friday-unleash-your-dark-side-with-20-percent-off-darth-vader-force-fx-elite-lightsaber)
-- [&#39;Cataclysmic&#39; solar storm hit Earth around 2687 years ago, ancient tree rings reveal](https://www.space.com/the-universe/sun/cataclysmic-solar-storm-hit-earth-around-2687-years-ago-ancient-tree-rings-reveal)
-- [One of the best Lego Marvel sets has 40% off this Black Friday](https://www.space.com/entertainment/space-games-toys/best-lego-marvel-set-40-percent-off-this-black-friday)
-- [Huge 30% discount on the Fussion Planetarium Projector this Black Friday](https://www.space.com/stargazing/astronomy-kit/huge-30-percent-discount-fussion-planetarium-projector-black-friday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
