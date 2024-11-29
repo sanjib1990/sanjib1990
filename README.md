@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As the year draws to a close, startups don’t pause](https://techcrunch.com/2024/11/29/as-the-year-draws-to-a-close-startups-dont-pause/)
+- [Out of this world Black Friday deal: Save a massive 67% on the Estes Blue Origin New Shepard model rocket](https://www.space.com/entertainment/space-games-toys/out-of-this-world-black-friday-deal-save-a-massive-67-percent-on-the-estes-blue-origin-new-shepard-model-rocket)
+- [We&#39;re over the moon with £33 off this massive Lego Icons NASA Artemis rocket set](https://www.space.com/entertainment/space-games-toys/were-over-the-moon-with-gbp33-off-this-massive-lego-icons-nasa-artemis-rocket-set)
+- [Light up your home with our favorite Astronaut star projector now 35% cheaper for Black Friday](https://www.space.com/stargazing/astronomy-kit/our-favorite-astronaut-star-projector-now-35-percent-cheaper-for-black-friday)
 - [Dead stars within supernova explosions could solve the dark matter mystery in 10 seconds](https://www.space.com/supernova-neutron-star-dark-matter-1987A)
-- [Unlock the deep sky and save $780 with this huge deal on a Sky-Watcher telescope for Black Friday](https://www.space.com/stargazing/astronomy-kit/unlock-the-deep-sky-and-save-usd780-with-this-huge-deal-on-a-sky-watcher-telescope-for-black-friday)
-- [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/)
-- [Voyager 1 interstellar spacecraft finds its voice again as NASA restores communications](https://www.space.com/space-exploration/missions/voyager-1-interstellar-spacecraft-finds-its-voice-again-as-nasa-restores-communications)
-- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
