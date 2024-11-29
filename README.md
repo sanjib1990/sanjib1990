@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zomato raises $1 billion in first major fundraise since 2021 listing](https://techcrunch.com/2024/11/28/zomato-raises-1-billion-in-first-major-fundraise-since-2021-listing/)
 - [Early Thanksgiving online sales numbers are up 7% YoY to $15.6B, on par with pre-pandemic trends](https://techcrunch.com/2024/11/28/early-thanksgiving-online-sales-numbers-are-up-7-yoy-to-15-6b-on-par-with-pre-pandemic-trends/)
 - [One of the best mirrorless cameras has dipped below $2000](https://www.space.com/stargazing/astrophotography/one-of-the-best-mirrorless-cameras-has-dipped-below-2000)
 - [Flying high! This DJI drone bundle is $270 off for Black Friday](https://www.space.com/stargazing/astronomy-kit/flying-high-this-dji-drone-bundle-is-270-off-for-black-friday)
 - [&#39;The Fantasy Worlds of Irwin Allen&#39; book honors the king of ‘60s sci-fi TV](https://www.space.com/entertainment/the-fantasy-worlds-of-irwin-allen-book-honors-the-king-of-60s-sci-fi-tv)
-- [Akhetonics gets fresh funding for a contrarian bet on all-optical chips](https://techcrunch.com/2024/11/28/akhetonics-gets-fresh-funding-for-a-contrarian-bet-on-all-optical-chips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
