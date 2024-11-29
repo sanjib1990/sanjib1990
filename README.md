@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dead stars within supernova explosions could solve the dark matter mystery in 10 seconds](https://www.space.com/supernova-neutron-star-dark-matter-1987A)
+- [Unlock the deep sky and save $780 with this huge deal on a Sky-Watcher telescope for Black Friday](https://www.space.com/stargazing/astronomy-kit/unlock-the-deep-sky-and-save-usd780-with-this-huge-deal-on-a-sky-watcher-telescope-for-black-friday)
+- [Study of ChatGPT citations makes dismal reading for publishers](https://techcrunch.com/2024/11/29/study-of-chatgpt-citations-makes-dismal-reading-for-publishers/)
+- [Voyager 1 interstellar spacecraft finds its voice again as NASA restores communications](https://www.space.com/space-exploration/missions/voyager-1-interstellar-spacecraft-finds-its-voice-again-as-nasa-restores-communications)
 - [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/)
-- [James Webb Space Telescope explores monster star supercluster Westerlund 1 &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-westerlund1)
-- [Hurry! This massive Lego Star Wars UCS Black Friday deal will not last long](https://www.space.com/entertainment/space-games-toys/hurry-this-massive-lego-star-wars-ucs-black-friday-deal-will-not-last-long)
-- [This will sell out — this Holy Stone drone has dipped below $400 this Black Friday](https://www.space.com/stargazing/astronomy-kit/this-will-sell-out-this-holy-stone-drone-has-dipped-below-400-black-friday-2024)
-- [This will sell out — this premium Vaonis smart telescope now has a massive $500 off](https://www.space.com/stargazing/astronomy-kit/this-will-sell-out-premium-vaonis-smart-telescope-now-a-massive-500-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
