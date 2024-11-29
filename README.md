@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Our best budget telescope is $115 off this Black Friday, but you&#39;ll have to be fast](https://www.space.com/stargazing/astronomy-kit/act-fast-our-best-budget-telescope-is-115-off-this-black-friday-2024)
-- [Black Friday deal: These top Celestron binoculars have a 25% discount](https://www.space.com/stargazing/astronomy-kit/black-friday-top-celestron-binoculars-25-percent-discount)
-- [Learn how to use Apple Intelligence’s ‘Image Playground’](https://techcrunch.com/2024/11/29/how-to-use-apple-intelligence-image-playground-feature/)
-- [What is Tiran-Arafel in Dune: Prophecy?](https://www.space.com/entertainment/what-is-tiran-arafel-in-dune-prophecy)
-- [Missing Star Wars: Ahsoka? Get $94 off this Force FX Elite Sabine Wren Lightsaber](https://www.space.com/stargazing/astronomy-kit/missing-star-wars-ahsoka-get-94-off-this-force-fx-elite-sabine-wren-lightsaber)
+- [ASL Aspire wants to gamify STEM education for deaf kids](https://techcrunch.com/2024/11/29/asl-aspire-wants-to-gamify-stem-education-for-deaf-kids/)
+- [James Webb Space Telescope explores monster star supercluster Westerlund 1 &lpar;image&rpar;](https://www.space.com/james-webb-space-telescope-westerlund1)
+- [Hurry! This massive Lego Star Wars UCS Black Friday deal will not last long](https://www.space.com/entertainment/space-games-toys/hurry-this-massive-lego-star-wars-ucs-black-friday-deal-will-not-last-long)
+- [This will sell out — this Holy Stone drone has dipped below $400 this Black Friday](https://www.space.com/stargazing/astronomy-kit/this-will-sell-out-this-holy-stone-drone-has-dipped-below-400-black-friday-2024)
+- [This will sell out — this premium Vaonis smart telescope now has a massive $500 off](https://www.space.com/stargazing/astronomy-kit/this-will-sell-out-premium-vaonis-smart-telescope-now-a-massive-500-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
