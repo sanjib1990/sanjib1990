@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Indoor climbing tracking startup, Lizcore, sharpens its focus on safety as it pulls in pre-seed](https://techcrunch.com/2024/11/29/indoor-climbing-tracking-startup-lizcore-sharpens-its-focus-on-safety-as-it-pulls-in-pre-seed/)
-- [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2024/11/29/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/)
-- [How bacteria are inspiring the next generation of space-borne lasers](https://www.space.com/space-exploration/satellites/how-bacteria-are-inspiring-the-next-generation-of-space-borne-lasers)
-- [Lego&#39;s Black Friday sale is now live — Here are the best deals on Star Wars sets and the free gifts up for grabs](https://www.space.com/lego-black-friday-sale-free-gifts-with-purchase-2024)
-- [I&#39;m a huge Star Wars and sci-fi fan and I recommend Disney Plus and Hulu&#39;s Black Friday bundle](https://www.space.com/massive-black-friday-disney-plus-hulu-streaming-deal-bundle-2024)
+- [Sequoia nears first Asia-Pacific deal since regional split](https://techcrunch.com/2024/11/29/sequoia-nears-first-asia-pacific-deal-since-regional-split/)
+- [This spot will be key to the inevitable collapse of a key Atlantic current](https://www.space.com/the-universe/earth/this-spot-will-be-key-to-the-inevitable-collapse-of-a-key-atlantic-current)
+- [Thanksgiving 2024: $33.6B spent online, 72% of that on mobile, says Salesforce](https://techcrunch.com/2024/11/29/early-thanksgiving-online-sales-numbers-are-up-7-yoy-to-15-6b-on-par-with-pre-pandemic-trends/)
+- [X could introduce labels for parody accounts, but enforcement might be tricky](https://techcrunch.com/2024/11/29/x-could-introduce-labels-for-parody-accounts-but-enforcement-might-be-tricky/)
+- [$255 off for Black Friday, this astronomer-friendly MacBook Air has never been cheaper](https://www.space.com/stargazing/astronomy-kit/255-off-black-friday-astronomer-friendly-macbook-air-never-been-cheaper)
 <!-- BLOG-POST-LIST:END -->
 
 ---
