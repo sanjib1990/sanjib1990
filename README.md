@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
+- [&#39;Silo&#39; Season 2: &#39;That Thing He Does&#39;: Who is Silo 17&#39;s mystery man in the vault?](https://www.space.com/entertainment/silo-season-2-that-thing-he-does-who-is-silo-17s-mystery-man-in-the-vault)
+- [Save a massive $750 on a new laptop with this Dell Black Friday deal](https://www.space.com/stargazing/astronomy-kit/save-a-massive-750-on-a-new-laptop-with-dell-Black-Friday-deal)
 - [Best mech games of all time](https://www.space.com/entertainment/space-games-toys/best-mech-games-of-all-time)
 - [Communicating with aliens one day could be much easier if we study the way AI agents speak with each other](https://www.space.com/space-exploration/search-for-life/communicating-with-aliens-one-day-could-be-much-easier-if-we-study-the-way-ai-agents-speak-with-each-other)
-- [Hurry! $80 off this awesome Star Wars Lightsaber this Cyber Monday but stocks are running low](https://www.space.com/stargazing/astronomy-kit/hurry-80-off-this-awesome-star-wars-lightsaber-cyber-monday-stocks-running-low)
-- [One of Sony&#39;s best cameras — the cheapest we have seen it this Cyber Monday](https://www.space.com/stargazing/astronomy-kit/one-of-sonys-best-cameras-cheapest-we-have-seen-it-cyber-monday)
-- [NASA&#39;s next-gen Nancy Grace Roman Space Telescope gets its powerful eye &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/nasas-next-gen-nancy-grace-roman-space-telescope-gets-its-powerful-eye-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
