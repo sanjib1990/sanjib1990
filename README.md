@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of Sony&#39;s best cameras — the cheapest we have seen it this Cyber Monday](https://www.space.com/stargazing/astronomy-kit/one-of-sonys-best-cameras-cheapest-we-have-seen-it-cyber-monday)
 - [NASA&#39;s next-gen Nancy Grace Roman Space Telescope gets its powerful eye &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/nasas-next-gen-nancy-grace-roman-space-telescope-gets-its-powerful-eye-photos)
 - [SpaceX lofts 24 Starlink satellites in midnight launch from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-24-starlink-satellites-from-florida-early-nov-30)
 - [I wish I waited to buy my Lego NASA Space Shuttle Discovery until this Black Friday so I could save $40](https://www.space.com/entertainment/space-games-toys/i-wish-i-waited-to-buy-my-lego-nasa-space-shuttle-discovery-until-this-black-friday-so-i-could-save-40-dollars-2024)
 - [Mysterious, record-breaking energy burst connected to dead star and red dwarf](https://www.space.com/record-breaking-mystery-energy-burst-gleam-xj0704-37)
-- [SpaceX to launch next-gen US spy satellites, 20 Starlink spacecraft from California early Nov. 30](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-next-gen-us-spy-satellites-20-starlink-spacecraft-from-california-early-nov-30)
 <!-- BLOG-POST-LIST:END -->
 
 ---
