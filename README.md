@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hurry! $80 off this awesome Star Wars Lightsaber this Cyber Monday but stocks are running low](https://www.space.com/stargazing/astronomy-kit/hurry-80-off-this-awesome-star-wars-lightsaber-cyber-monday-stocks-running-low)
 - [One of Sony&#39;s best cameras — the cheapest we have seen it this Cyber Monday](https://www.space.com/stargazing/astronomy-kit/one-of-sonys-best-cameras-cheapest-we-have-seen-it-cyber-monday)
 - [NASA&#39;s next-gen Nancy Grace Roman Space Telescope gets its powerful eye &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/nasas-next-gen-nancy-grace-roman-space-telescope-gets-its-powerful-eye-photos)
-- [SpaceX lofts 24 Starlink satellites in midnight launch from Florida](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-24-starlink-satellites-from-florida-early-nov-30)
+- [SpaceX lofts 24 Starlink satellites in midnight launch from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-24-starlink-satellites-from-florida-early-nov-30)
 - [I wish I waited to buy my Lego NASA Space Shuttle Discovery until this Black Friday so I could save $40](https://www.space.com/entertainment/space-games-toys/i-wish-i-waited-to-buy-my-lego-nasa-space-shuttle-discovery-until-this-black-friday-so-i-could-save-40-dollars-2024)
-- [Mysterious, record-breaking energy burst connected to dead star and red dwarf](https://www.space.com/record-breaking-mystery-energy-burst-gleam-xj0704-37)
 <!-- BLOG-POST-LIST:END -->
 
 ---
