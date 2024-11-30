@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate VCs are cautiously optimistic about a second Trump term — here’s why](https://techcrunch.com/2024/11/30/climate-vcs-are-cautiously-optimistic-about-a-second-trump-term-heres-why/)
+- [Private Japanese moon lander arrives in Florida ahead of January SpaceX launch &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/private-japanese-moon-lander-arrives-in-florida-ahead-of-january-spacex-launch-photos)
+- [Soar above the rest for Black Friday: This Holy Stone drone is 20% off on Amazon](https://www.space.com/stargazing/astronomy-kit/soar-above-the-rest-for-black-friday-this-holy-stone-drone-is-20-percent-off-on-amazon)
+- [Black Friday hits a record $74.4B in sales online, up 5% on last year](https://techcrunch.com/2024/11/30/black-friday-hits-a-record-74-4b-in-sales-online-up-5-on-last-year/)
 - [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
-- [&#39;Silo&#39; Season 2: &#39;That Thing He Does&#39;: Who is Silo 17&#39;s mystery man in the vault?](https://www.space.com/entertainment/silo-season-2-that-thing-he-does-who-is-silo-17s-mystery-man-in-the-vault)
-- [Save a massive $750 on a new laptop with this Dell Black Friday deal](https://www.space.com/stargazing/astronomy-kit/save-a-massive-750-on-a-new-laptop-with-dell-Black-Friday-deal)
-- [Best mech games of all time](https://www.space.com/entertainment/space-games-toys/best-mech-games-of-all-time)
-- [Communicating with aliens one day could be much easier if we study the way AI agents speak with each other](https://www.space.com/space-exploration/search-for-life/communicating-with-aliens-one-day-could-be-much-easier-if-we-study-the-way-ai-agents-speak-with-each-other)
 <!-- BLOG-POST-LIST:END -->
 
 ---
