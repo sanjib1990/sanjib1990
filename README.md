@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/)
 - [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/)
 - [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/)
 - [I&#39;m a pro astronomer and have been skywatching for over 25 years. These are the best Black Friday telescope deals I&#39;ve seen so far](https://www.space.com/stargazing/astronomy-kit/im-a-pro-astronomer-and-have-been-skywatching-for-over-25-years-these-are-the-best-black-friday-telescope-deals-ive-seen-so-far)
 - [Climate VCs are cautiously optimistic about a second Trump term — here’s why](https://techcrunch.com/2024/11/30/climate-vcs-are-cautiously-optimistic-about-a-second-trump-term-heres-why/)
-- [Private Japanese moon lander arrives in Florida ahead of January SpaceX launch &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/private-japanese-moon-lander-arrives-in-florida-ahead-of-january-spacex-launch-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
