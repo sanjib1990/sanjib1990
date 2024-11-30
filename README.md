@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/)
+- [I&#39;m a pro astronomer and have been skywatching for over 25 years. These are the best Black Friday telescope deals I&#39;ve seen so far](https://www.space.com/stargazing/astronomy-kit/im-a-pro-astronomer-and-have-been-skywatching-for-over-25-years-these-are-the-best-black-friday-telescope-deals-ive-seen-so-far)
 - [Climate VCs are cautiously optimistic about a second Trump term — here’s why](https://techcrunch.com/2024/11/30/climate-vcs-are-cautiously-optimistic-about-a-second-trump-term-heres-why/)
 - [Private Japanese moon lander arrives in Florida ahead of January SpaceX launch &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/private-japanese-moon-lander-arrives-in-florida-ahead-of-january-spacex-launch-photos)
 - [Soar above the rest for Black Friday: This Holy Stone drone is 20% off on Amazon](https://www.space.com/stargazing/astronomy-kit/soar-above-the-rest-for-black-friday-this-holy-stone-drone-is-20-percent-off-on-amazon)
-- [Black Friday hits a record $74.4B in sales online, up 5% on last year](https://techcrunch.com/2024/11/30/black-friday-hits-a-record-74-4b-in-sales-online-up-5-on-last-year/)
-- [Joco almost died at launch. Now, it’s a lifeline for e-bike delivery riders — and a profitable business](https://techcrunch.com/2024/11/30/joco-almost-died-at-launch-now-its-a-lifeline-for-e-bike-delivery-riders-and-a-profitable-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
