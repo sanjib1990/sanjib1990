@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Call me crazy but I&#39;d fall for this Cyber Monday star projector deal, even if it&#39;s fake](https://www.space.com/stargazing/astronomy-kit/call-me-crazy-but-id-fall-for-this-cyber-monday-star-projector-deal-even-if-its-fake)
+- [Death Clock app predicts the date of your death](https://techcrunch.com/2024/12/01/death-clock-app-predicts-the-date-of-your-death/)
 - [Get a year of Peacock for just $19.99 in this Cyber Monday streaming deal](https://www.space.com/entertainment/cyber-monday-2024-peacock-deal)
 - [This Hexeum telescope is at its lowest price ever at just $93 on Amazon this Cyber Monday](https://www.space.com/stargazing/astronomy-kit/hexeum-telescope-lowest-price-ever-just-93-on-amazon-cyber-monday)
 - [Star Wars: Hunters is coming to PC in early 2025](https://www.space.com/entertainment/star-wars-hunters-is-coming-to-pc-in-early-2025)
-- [Fidelity reportedly marked up its X stake by 32 percent](https://techcrunch.com/2024/12/01/fidelity-reportedly-marked-up-its-x-stake-by-32-percent/)
-- [My go-to telescope for high-definition views of the solar system is this Sky-Watcher refractor with nearly $500 off this Cyber Monday](https://www.space.com/stargazing/astronomy-kit/go-to-telescope-for-high-definition-views-solar-system-sky-watcher-refractor-500-off-cyber-monday)
 <!-- BLOG-POST-LIST:END -->
 
 ---
