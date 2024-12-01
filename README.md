@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Declassified spy satellite images reveal 1,400-year-old battle site in Iraq that set off the Muslim conquest](https://www.space.com/the-universe/earth/declassified-spy-satellite-images-reveal-1-400-year-old-battle-site-in-iraq-that-set-off-the-muslim-conquest)
+- [Huge PSVR 2 headset Cyber Monday deal: Save $200](https://www.space.com/cyber-monday-psvr-2-deal-lowest-price-2024)
 - [New moon December 2024: A young moon passes Venus](https://www.space.com/stargazing/new-moon-december-2024-a-young-moon-passes-venus)
 - [Bluesky promises more verification and an ‘aggressive’ approach to impersonation](https://techcrunch.com/2024/11/30/bluesky-promises-more-verification-and-an-aggressive-approach-to-impersonation/)
 - [Elon Musk files for injunction to halt OpenAI’s transition to a for-profit](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/)
-- [Why Olympic champion cyclist Sir Chris Hoy is backing Skarper to make any bike an e-bike](https://techcrunch.com/2024/11/30/__trashed-24/)
-- [I&#39;m a pro astronomer and have been skywatching for over 25 years. These are the best Black Friday telescope deals I&#39;ve seen so far](https://www.space.com/stargazing/astronomy-kit/im-a-pro-astronomer-and-have-been-skywatching-for-over-25-years-these-are-the-best-black-friday-telescope-deals-ive-seen-so-far)
 <!-- BLOG-POST-LIST:END -->
 
 ---
