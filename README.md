@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Confirmed: cloud security specialist Upwind raises $100M on a $900M valuation](https://techcrunch.com/2024/12/02/confirmed-cloud-security-specialist-upwind-raises-100m-on-a-900m-valuation/)
+- [Hubble Telescope peeks at star with planet-forming disk that gets 3 times hotter than the sun](https://www.space.com/the-universe/stars/hubble-telescope-peeks-at-star-with-planet-forming-disk-that-gets-3-times-hotter-than-the-sun)
+- [Intel CEO Pat Gelsinger retires](https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/)
+- [Cloud security specialist Upwind confirms it raised $100M at a $900M valuation](https://techcrunch.com/2024/12/02/confirmed-cloud-security-specialist-upwind-raises-100m-on-a-900m-valuation/)
 - [Why the highly-anticipated &#39;new star&#39; has yet to pop up in the night sky](https://www.space.com/the-universe/stars/why-the-highly-anticipated-new-star-has-yet-to-pop-up-in-the-night-sky)
 - [Ex-NBA athlete Omri Casspi launches $60M fund targeting cybersecurity, cloud infra and AI](https://techcrunch.com/2024/12/02/omri-casppi-launches-60m-fund-for-cyber-cloud-and-ai-startups/)
-- [Retail outages drag into second week after Blue Yonder ransomware attack](https://techcrunch.com/2024/12/02/retail-outages-drag-into-second-week-after-blue-yonder-ransomware-attack/)
-- [Musk busts through the UK political china shop](https://techcrunch.com/2024/12/02/musk-busts-through-the-uk-political-china-shop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
