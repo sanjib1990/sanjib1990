@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The skywatching butler I always wanted — Get $500 off this Unistellar smart telescope](https://www.space.com/stargazing/astronomy-kit/the-skywatching-butler-i-always-wanted-get-usd500-off-this-unistellar-smart-telescope)
-- [Hurry! Save hundreds on these 9 telescopes with these last-chance Cyber Monday deals!](https://www.space.com/stargazing/astronomy-kit/hurry-save-hundreds-on-telescopes-with-these-9-last-chance-cyber-monday-deals)
-- [Tesla updates include Apple Watch app and fart prank](https://techcrunch.com/2024/12/02/tesla-updates-include-apple-watch-app-and-fart-prank/)
-- [HUB2 banks $8.5M to become the ‘Stripe for Francophone Africa’](https://techcrunch.com/2024/12/02/hub2-a-stripe-for-francophone-africa-banks-8m/)
-- [Cyber Monday Meta Quest 3 deal: Get a free Batman game and a three-month trial of Meta Quest Plus.](https://www.space.com/meta-quest-3-cyber-monday-freebie-bundle-2024)
+- [Satellites spy red-hot lava threaten Iceland&#39;s Blue Lagoon](https://www.space.com/space-exploration/satellites/satellites-spy-red-hot-lava-threaten-icelands-blue-lagoon)
+- [Beginner telescope for kids now under $100 for Cyber Monday 2024](https://www.space.com/stargazing/astronomy-kit/beginner-telescope-for-kids-now-under-usd100-for-cyber-monday-2024)
+- [GoBlue’s new app lets you track your Bluesky stats](https://techcrunch.com/2024/12/02/goblues-new-app-lets-you-track-your-bluesky-stats/)
+- [One of the best beginner drones &lpar;according to our drone expert&rpar; is over $90 cheaper for Cyber Monday](https://www.space.com/stargazing/astronomy-kit/one-of-the-best-beginner-sub-250g-drone-bundles-according-to-our-drone-expert-has-been-reduced-to-usd329-for-cyber-monday-2024)
+- [Fruit flies in space! Chinese astronauts show off experiment on Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/fruit-flies-in-space-chinese-astronauts-show-off-experiment-on-tiangong-space-station-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
