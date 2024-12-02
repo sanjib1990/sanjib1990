@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS bets on liquid cooling for its AI servers](https://techcrunch.com/2024/12/02/aws-bets-on-liquid-cooling-for-its-ai-servers/)
+- [Jeff Bezos backs AI chipmaker Tenstorrent](https://techcrunch.com/2024/12/02/jeff-bezos-backs-ai-chipmaker-tenstorrent/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/02/tech-layoffs-2024-list/)
 - [Coinbase now lets you buy crypto with Apple Pay in third-party apps](https://techcrunch.com/2024/12/02/coinbase-now-lets-you-buy-crypto-with-apple-pay-in-third-party-apps/)
 - [Did Venus ever have oceans to support life, or was it &#39;born hot&#39;?](https://www.space.com/venus-earth-twin-no-surface-water)
-- [7 hours to go! Lowest price Nikon binoculars are FINALLY cheaper on Cyber Monday](https://www.space.com/stargazing/astronomy-kit/7-hours-to-go-lowest-price-nikon-binoculars-are-finally-cheaper-on-cyber-monday)
-- [An Apple employee is suing the company over monitoring employee personal devices](https://techcrunch.com/2024/12/02/an-apple-employee-is-suing-the-company-over-monitoring-employee-personal-devices/)
-- [SETI tracks distorted signals from distant pulsars with data from destroyed Arecibo Observatory](https://www.space.com/arecibo-seti-pulsars-cosmic-lighthouses)
 <!-- BLOG-POST-LIST:END -->
 
 ---
