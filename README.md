@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European AI infrastructure company Nebius nabs $700M from Nvidia, Accel, others](https://techcrunch.com/2024/12/02/european-ai-infrastructure-company-nebius-nabs-700m-from-nvidia-accel-others/)
+- [&#39;Dune: Prophecy:&#39; &#39;Sisterhood Above All:&#39; Are Valya and Tula Hiding Forbidden Tech?](https://www.space.com/entertainment/dune-prophecy-sisterhood-above-all-are-valya-and-tula-hiding-forbidden-tech)
+- [The Browser Company teases Dia, its new AI browser](https://techcrunch.com/2024/12/02/the-browser-company-teases-dia-its-new-ai-browser/)
 - [World&#39;s 2nd fastest supercomputer runs largest-ever simulation of the universe](https://www.space.com/the-universe/worlds-2nd-fastest-supercomputer-runs-largest-ever-simulation-of-the-universe)
 - [Prosus expects 5 IPOs from its India portfolio in next 18 months](https://techcrunch.com/2024/12/02/prosus-eyes-5-indian-ipos-in-next-18-months/)
-- [‘Brain rot’ wins as Oxford’s word of the year](https://techcrunch.com/2024/12/02/brain-rot-wins-as-oxfords-word-of-the-year/)
-- [Swiggy scales 10-minute food delivery to 400 cities in quick-commerce push](https://techcrunch.com/2024/12/02/swiggy-scales-10-minute-food-delivery-to-400-cities-in-quick-commerce-push/)
-- [AWS opens physical outlets that let customers upload their data](https://techcrunch.com/2024/12/01/aws-opens-physical-locations-for-customers-to-upload-their-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
