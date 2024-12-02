@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SETI tracks distorted signals from distant pulsars with data from destroyed Arecibo Observatory](https://www.space.com/arecibo-seti-pulsars-cosmic-lighthouses)
+- [Ads might be coming to ChatGPT — despite Sam Altman not being a fan](https://techcrunch.com/2024/12/02/ads-might-be-coming-to-chatgpt-despite-sam-altman-not-being-a-fan/)
+- [Strange &quot;quasi-moon&quot; of Earth will get one of these 7 names](https://www.space.com/the-universe/earth/strange-quasi-moon-of-earth-will-get-one-of-these-7-names)
+- [Poland arrests former spy chief in Pegasus spyware probe](https://techcrunch.com/2024/12/02/poland-arrests-former-spy-chief-in-pegasus-spyware-probe/)
 - [&#39;Halo 2&#39; 20 years later: The sequel that changed gaming forever](https://www.space.com/entertainment/space-games-toys/halo-2-20-years-later-the-sequel-that-changed-gaming-forever)
-- [Indian online ID verification firm Signzy confirms security incident](https://techcrunch.com/2024/12/02/indian-online-id-verification-firm-signzy-confirms-security-incident/)
-- [Cyber Monday drone deal: Save $110 on the DJI Avata](https://www.space.com/dji-avata-cyber-monday-2024-deal-save-110-dollars)
-- [Russian government confirms rare criminal charges against ransomware hacker](https://techcrunch.com/2024/12/02/russian-government-confirms-rare-criminal-charges-against-ransomware-hacker/)
-- [Spotify Wrapped 2024 is almost here, but first let’s explore all the copycats](https://techcrunch.com/2024/12/02/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
