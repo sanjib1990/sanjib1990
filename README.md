@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS bets on liquid cooling for its AI servers](https://techcrunch.com/2024/12/02/aws-bets-on-liquid-cooling-for-its-ai-servers/)
-- [Jeff Bezos backs AI chipmaker Tenstorrent](https://techcrunch.com/2024/12/02/jeff-bezos-backs-ai-chipmaker-tenstorrent/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/02/tech-layoffs-2024-list/)
-- [Coinbase now lets you buy crypto with Apple Pay in third-party apps](https://techcrunch.com/2024/12/02/coinbase-now-lets-you-buy-crypto-with-apple-pay-in-third-party-apps/)
-- [Did Venus ever have oceans to support life, or was it &#39;born hot&#39;?](https://www.space.com/venus-earth-twin-no-surface-water)
+- [Judge confirms decision to sink Elon Musk’s $56B pay package despite Tesla shareholder vote](https://techcrunch.com/2024/12/02/judge-confirms-decision-to-sink-elon-musks-56b-pay-package-despite-tesla-shareholder-vote/)
+- [Threads takes on Bluesky with more advanced search](https://techcrunch.com/2024/12/02/threads-takes-on-bluesky-with-more-advanced-search/)
+- [FTC fines online retailer Goat $2M over deceptive ‘Instant’ and ‘Next Day’ orders](https://techcrunch.com/2024/12/02/ftc-fines-online-retailer-goat-2m-over-deceptive-instant-and-next-day-orders/)
+- [Broken water pipe knocks out data processing for NASA sun-studying spacecraft](https://www.space.com/the-universe/sun/broken-water-pipe-knocks-out-data-processing-for-nasa-sun-studying-spacecraft)
+- [BepiColombo probe captures haunting Mercury image on 5th of 6 gravity assist flybys &lpar;photo&rpar;](https://www.space.com/the-universe/mercury/bepicolombo-probe-captures-haunting-mercury-image-on-5th-of-6-gravity-assist-flybys-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
