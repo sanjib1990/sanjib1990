@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase now lets you buy crypto with Apple Pay in third-party apps](https://techcrunch.com/2024/12/02/coinbase-now-lets-you-buy-crypto-with-apple-pay-in-third-party-apps/)
+- [Did Venus ever have oceans to support life, or was it &#39;born hot&#39;?](https://www.space.com/venus-earth-twin-no-surface-water)
+- [7 hours to go! Lowest price Nikon binoculars are FINALLY cheaper on Cyber Monday](https://www.space.com/stargazing/astronomy-kit/7-hours-to-go-lowest-price-nikon-binoculars-are-finally-cheaper-on-cyber-monday)
+- [An Apple employee is suing the company over monitoring employee personal devices](https://techcrunch.com/2024/12/02/an-apple-employee-is-suing-the-company-over-monitoring-employee-personal-devices/)
 - [SETI tracks distorted signals from distant pulsars with data from destroyed Arecibo Observatory](https://www.space.com/arecibo-seti-pulsars-cosmic-lighthouses)
-- [Ads might be coming to ChatGPT — despite Sam Altman not being a fan](https://techcrunch.com/2024/12/02/ads-might-be-coming-to-chatgpt-despite-sam-altman-not-being-a-fan/)
-- [Strange &quot;quasi-moon&quot; of Earth will get one of these 7 names](https://www.space.com/the-universe/earth/strange-quasi-moon-of-earth-will-get-one-of-these-7-names)
-- [Poland arrests former spy chief in Pegasus spyware probe](https://techcrunch.com/2024/12/02/poland-arrests-former-spy-chief-in-pegasus-spyware-probe/)
-- [&#39;Halo 2&#39; 20 years later: The sequel that changed gaming forever](https://www.space.com/entertainment/space-games-toys/halo-2-20-years-later-the-sequel-that-changed-gaming-forever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
