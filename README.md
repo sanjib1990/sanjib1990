@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World&#39;s 2nd fastest supercomputer runs largest-ever simulation of the universe](https://www.space.com/the-universe/worlds-2nd-fastest-supercomputer-runs-largest-ever-simulation-of-the-universe)
 - [Prosus expects 5 IPOs from its India portfolio in next 18 months](https://techcrunch.com/2024/12/02/prosus-eyes-5-indian-ipos-in-next-18-months/)
 - [‘Brain rot’ wins as Oxford’s word of the year](https://techcrunch.com/2024/12/02/brain-rot-wins-as-oxfords-word-of-the-year/)
 - [Swiggy scales 10-minute food delivery to 400 cities in quick-commerce push](https://techcrunch.com/2024/12/02/swiggy-scales-10-minute-food-delivery-to-400-cities-in-quick-commerce-push/)
 - [AWS opens physical outlets that let customers upload their data](https://techcrunch.com/2024/12/01/aws-opens-physical-locations-for-customers-to-upload-their-data/)
-- [AWS launches an incident response service to combat cybersecurity threats](https://techcrunch.com/2024/12/01/aws-launches-an-incident-response-service-to-combat-cybersecurity-threats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
