@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellites spy red-hot lava threaten Iceland&#39;s Blue Lagoon](https://www.space.com/space-exploration/satellites/satellites-spy-red-hot-lava-threaten-icelands-blue-lagoon)
-- [Beginner telescope for kids now under $100 for Cyber Monday 2024](https://www.space.com/stargazing/astronomy-kit/beginner-telescope-for-kids-now-under-usd100-for-cyber-monday-2024)
-- [GoBlue’s new app lets you track your Bluesky stats](https://techcrunch.com/2024/12/02/goblues-new-app-lets-you-track-your-bluesky-stats/)
-- [One of the best beginner drones &lpar;according to our drone expert&rpar; is over $90 cheaper for Cyber Monday](https://www.space.com/stargazing/astronomy-kit/one-of-the-best-beginner-sub-250g-drone-bundles-according-to-our-drone-expert-has-been-reduced-to-usd329-for-cyber-monday-2024)
-- [Fruit flies in space! Chinese astronauts show off experiment on Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/fruit-flies-in-space-chinese-astronauts-show-off-experiment-on-tiangong-space-station-video)
+- [&#39;Halo 2&#39; 20 years later: The sequel that changed gaming forever](https://www.space.com/entertainment/space-games-toys/halo-2-20-years-later-the-sequel-that-changed-gaming-forever)
+- [Indian online ID verification firm Signzy confirms security incident](https://techcrunch.com/2024/12/02/indian-online-id-verification-firm-signzy-confirms-security-incident/)
+- [Cyber Monday drone deal: Save $110 on the DJI Avata](https://www.space.com/dji-avata-cyber-monday-2024-deal-save-110-dollars)
+- [Russian government confirms rare criminal charges against ransomware hacker](https://techcrunch.com/2024/12/02/russian-government-confirms-rare-criminal-charges-against-ransomware-hacker/)
+- [Spotify Wrapped 2024 is almost here, but first let’s explore all the copycats](https://techcrunch.com/2024/12/02/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
