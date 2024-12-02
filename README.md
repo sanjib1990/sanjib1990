@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator’s Demo Day is back in person](https://techcrunch.com/2024/12/01/y-combinators-demo-day-is-back-in-person/)
 - [Call me crazy but I&#39;d fall for this Cyber Monday star projector deal, even if it&#39;s fake](https://www.space.com/stargazing/astronomy-kit/call-me-crazy-but-id-fall-for-this-cyber-monday-star-projector-deal-even-if-its-fake)
 - [Death Clock app predicts the date of your death](https://techcrunch.com/2024/12/01/death-clock-app-predicts-the-date-of-your-death/)
 - [Get a year of Peacock for just $19.99 in this Cyber Monday streaming deal](https://www.space.com/entertainment/cyber-monday-2024-peacock-deal)
 - [This Hexeum telescope is at its lowest price ever at just $93 on Amazon this Cyber Monday](https://www.space.com/stargazing/astronomy-kit/hexeum-telescope-lowest-price-ever-just-93-on-amazon-cyber-monday)
-- [Star Wars: Hunters is coming to PC in early 2025](https://www.space.com/entertainment/star-wars-hunters-is-coming-to-pc-in-early-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
