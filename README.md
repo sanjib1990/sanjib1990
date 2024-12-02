@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [European AI infrastructure company Nebius nabs $700M from Nvidia, Accel, others](https://techcrunch.com/2024/12/02/european-ai-infrastructure-company-nebius-nabs-700m-from-nvidia-accel-others/)
-- [&#39;Dune: Prophecy:&#39; &#39;Sisterhood Above All:&#39; Are Valya and Tula Hiding Forbidden Tech?](https://www.space.com/entertainment/dune-prophecy-sisterhood-above-all-are-valya-and-tula-hiding-forbidden-tech)
-- [The Browser Company teases Dia, its new AI browser](https://techcrunch.com/2024/12/02/the-browser-company-teases-dia-its-new-ai-browser/)
-- [World&#39;s 2nd fastest supercomputer runs largest-ever simulation of the universe](https://www.space.com/the-universe/worlds-2nd-fastest-supercomputer-runs-largest-ever-simulation-of-the-universe)
-- [Prosus expects 5 IPOs from its India portfolio in next 18 months](https://techcrunch.com/2024/12/02/prosus-eyes-5-indian-ipos-in-next-18-months/)
+- [Confirmed: cloud security specialist Upwind raises $100M on a $900M valuation](https://techcrunch.com/2024/12/02/confirmed-cloud-security-specialist-upwind-raises-100m-on-a-900m-valuation/)
+- [Why the highly-anticipated &#39;new star&#39; has yet to pop up in the night sky](https://www.space.com/the-universe/stars/why-the-highly-anticipated-new-star-has-yet-to-pop-up-in-the-night-sky)
+- [Ex-NBA athlete Omri Casspi launches $60M fund targeting cybersecurity, cloud infra and AI](https://techcrunch.com/2024/12/02/omri-casppi-launches-60m-fund-for-cyber-cloud-and-ai-startups/)
+- [Retail outages drag into second week after Blue Yonder ransomware attack](https://techcrunch.com/2024/12/02/retail-outages-drag-into-second-week-after-blue-yonder-ransomware-attack/)
+- [Musk busts through the UK political china shop](https://techcrunch.com/2024/12/02/musk-busts-through-the-uk-political-china-shop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
