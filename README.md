@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS opens physical locations for customers to upload their data](https://techcrunch.com/2024/12/01/aws-opens-physical-locations-for-customers-to-upload-their-data/)
+- [‘Brain rot’ wins as Oxford’s word of the year](https://techcrunch.com/2024/12/02/brain-rot-wins-as-oxfords-word-of-the-year/)
+- [Swiggy scales 10-minute food delivery to 400 cities in quick-commerce push](https://techcrunch.com/2024/12/02/swiggy-scales-10-minute-food-delivery-to-400-cities-in-quick-commerce-push/)
+- [AWS opens physical outlets that let customers upload their data](https://techcrunch.com/2024/12/01/aws-opens-physical-locations-for-customers-to-upload-their-data/)
 - [AWS launches an incident response service to combat cybersecurity threats](https://techcrunch.com/2024/12/01/aws-launches-an-incident-response-service-to-combat-cybersecurity-threats/)
 - [AWS wants to make your call center interactions less painful](https://techcrunch.com/2024/12/01/aws-wants-to-make-your-call-center-interactions-less-painful/)
-- [Y Combinator’s Demo Day is back in person](https://techcrunch.com/2024/12/01/y-combinators-demo-day-is-back-in-person/)
-- [Call me crazy but I&#39;d fall for this Cyber Monday star projector deal, even if it&#39;s fake](https://www.space.com/stargazing/astronomy-kit/call-me-crazy-but-id-fall-for-this-cyber-monday-star-projector-deal-even-if-its-fake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
