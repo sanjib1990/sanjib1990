@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The skywatching butler I always wanted — Get $500 off this Unistellar smart telescope](https://www.space.com/stargazing/astronomy-kit/the-skywatching-butler-i-always-wanted-get-usd500-off-this-unistellar-smart-telescope)
+- [Hurry! Save hundreds on these 9 telescopes with these last-chance Cyber Monday deals!](https://www.space.com/stargazing/astronomy-kit/hurry-save-hundreds-on-telescopes-with-these-9-last-chance-cyber-monday-deals)
+- [Tesla updates include Apple Watch app and fart prank](https://techcrunch.com/2024/12/02/tesla-updates-include-apple-watch-app-and-fart-prank/)
+- [HUB2 banks $8.5M to become the ‘Stripe for Francophone Africa’](https://techcrunch.com/2024/12/02/hub2-a-stripe-for-francophone-africa-banks-8m/)
 - [Cyber Monday Meta Quest 3 deal: Get a free Batman game and a three-month trial of Meta Quest Plus.](https://www.space.com/meta-quest-3-cyber-monday-freebie-bundle-2024)
-- [China reveals secrets of 1st sample taken from the far side of the moon — and it contains a volcanic surprise](https://www.space.com/the-universe/moon/china-reveals-secrets-of-1st-sample-taken-from-the-far-side-of-the-moon-and-it-contains-a-volcanic-surprise)
-- [Hubble Telescope peeks at star with planet-forming disk that gets 3 times hotter than the sun](https://www.space.com/the-universe/stars/hubble-telescope-peeks-at-star-with-planet-forming-disk-that-gets-3-times-hotter-than-the-sun)
-- [Intel CEO Pat Gelsinger retires](https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/)
-- [Cloud security specialist Upwind confirms it raised $100M at a $900M valuation](https://techcrunch.com/2024/12/02/confirmed-cloud-security-specialist-upwind-raises-100m-on-a-900m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
