@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why does the name ‘David Mayer’ crash ChatGPT? OpenAI says privacy tool went rogue](https://techcrunch.com/2024/12/03/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/)
+- [US says Chinese hackers are still lurking in American phone networks](https://techcrunch.com/2024/12/03/us-says-chinese-hackers-are-still-lurking-in-american-phone-networks/)
+- [Directive 8020: Everything we know about Supermassive&#39;s sci-fi horror game](https://www.space.com/entertainment/space-games-toys/directive-8020-everything-we-know-about-supermassives-sci-fi-horror-game)
 - [Amazon teams up with Orbital to remove CO2 from the air at one of its datacenters](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/)
 - [Get a sneak peek at &#39;Star Trek&#39; illustrated short story anthology beaming up later this month &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-trek-illustrated-short-stories-anthology-beams-onto-bookshelves-this-december-exclusive-exert)
-- [Amazon’s Q Business AI agents gets smarter](https://techcrunch.com/2024/12/03/amazons-q-business-ai-agent-gets-smarter/)
-- [Amazon SageMaker gets unified data controls](https://techcrunch.com/2024/12/03/aws-sagemaker-gets-a-unified-data-dashboard/)
-- [AWS wants Amazon Q to become your buddy for the entire software development lifecycle](https://techcrunch.com/2024/12/03/aws-wants-amazon-q-to-become-your-buddy-for-the-entire-software-development-lifecycle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
