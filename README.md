@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Music launches “2024 Delivered,” its take on Spotify Wrapped](https://techcrunch.com/2024/12/03/amazon-music-launches-2024-delivered-its-take-on-spotify-wrapped/)
+- [Hypelist wants to break lists out of silos and put recommendations first](https://techcrunch.com/2024/12/03/hypelist-is-an-app-for-you-to-create-and-discover-all-kinds-of-lists/)
+- [Handle on history: Knives embedded with rocket parts honor 45 years of Ariane launches](https://www.space.com/spacepeps-knives-esa-ariane-rocket-metal)
+- [Google’s video generator comes to more customers](https://techcrunch.com/2024/12/03/googles-video-generator-comes-to-more-customers/)
 - [Apple Music’s 2024 Replay rolls out to all users](https://techcrunch.com/2024/12/03/apple-musics-2024-replay-rolls-out-to-all-users/)
-- [FireDome’s autonomous launcher is gunning to protect acres of land from wildfire](https://techcrunch.com/2024/12/03/firedomes-autonomous-launcher-is-gunning-to-protect-acres-of-land-from-wildfire/)
-- [Yurts raises $40 million to be the DoD’s AI Chatbot](https://techcrunch.com/2024/12/03/yurts-raises-40-million-to-be-the-dods-ai-chatbot/)
-- [Mysterious fast radio bursts could be caused by asteroids slamming into dead stars](https://www.space.com/fast-radio-bursts-asteriods-neutron-stars-collide)
-- [The OpenWRT One router is designed with ‘software freedom and right to repair’ in mind](https://techcrunch.com/2024/12/03/the-openwrt-one-router-is-designed-with-software-freedom-and-right-to-repair-in-mind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
