@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon teams up with Orbital to remove CO2 from the air at one of its datacenters](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/)
+- [Get a sneak peek at &#39;Star Trek&#39; illustrated short story anthology beaming up later this month &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-trek-illustrated-short-stories-anthology-beams-onto-bookshelves-this-december-exclusive-exert)
+- [Amazon’s Q Business AI agents gets smarter](https://techcrunch.com/2024/12/03/amazons-q-business-ai-agent-gets-smarter/)
+- [Amazon SageMaker gets unified data controls](https://techcrunch.com/2024/12/03/aws-sagemaker-gets-a-unified-data-dashboard/)
 - [AWS wants Amazon Q to become your buddy for the entire software development lifecycle](https://techcrunch.com/2024/12/03/aws-wants-amazon-q-to-become-your-buddy-for-the-entire-software-development-lifecycle/)
-- [Walmart completes $2.3B acquisition of Vizio to help grow its ad business](https://techcrunch.com/2024/12/03/walmart-completes-23b-acquisition-of-vizio-to-help-grow-its-ad-business/)
-- [AWS and GitLab team up to bring Amazon Q agents to GitLab’s Duo Assistant](https://techcrunch.com/2024/12/03/aws-and-gitlab-team-up-to-bring-amazon-q-agents-to-gitlabs-duo-assistant/)
-- [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/)
-- [&#39;Galaxy Quest&#39; blasts back onto our screens with 25th anniversary Blu-ray release](https://www.space.com/entertainment/galaxy-quest-blasts-back-onto-our-screens-with-25th-anniversary-blu-ray-release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
