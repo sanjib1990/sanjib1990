@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Ahsoka&#39; season 1 and &#39;The Mandalorian&#39; season 3 get stunning 4K steelbook releases](https://www.space.com/entertainment/ahsoka-season-1-and-the-mandalorian-season-3-get-stunning-4k-steelbook-releases)
+- [The abject weirdness of AI ads](https://techcrunch.com/2024/12/03/the-abject-weirdness-of-ai-ads/)
 - [ServiceTitan’s IPO keeps getting weirder](https://techcrunch.com/2024/12/03/servicetitans-ipo-keeps-getting-weirder/)
 - [Europe’s Proba-3 satellites will launch early Dec. 4 to create artificial eclipses in space. Watch the liftoff live](https://www.space.com/space-exploration/satellites/europes-proba-3-satellites-will-launch-early-dec-4-to-create-artificial-eclipses-in-space-watch-the-liftoff-live)
 - [SpaceX mulls tender offer at $350B valuation](https://techcrunch.com/2024/12/03/spacex-mulls-tender-offer-at-350b-valuation/)
-- [Biden administration races to approve clean energy loans before Trump takes over — here’s who’s benefitting](https://techcrunch.com/2024/12/03/biden-administration-races-to-approve-clean-energy-loans-before-trump-takes-over-heres-whos-benefitting/)
-- [Brian Singerman to take a step back from Founders Fund](https://techcrunch.com/2024/12/03/brian-singerman-to-take-a-step-back-from-founders-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
