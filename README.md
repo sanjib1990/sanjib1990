@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK antitrust suit hits Microsoft with claim for $1.25B in cloud fees damages](https://techcrunch.com/2024/12/03/uk-antitrust-suit-hits-microsoft-with-claim-for-1-25b-in-cloud-fees-damages/)
+- [Cosmic rays could help assess hidden war damage in Ukraine](https://www.space.com/the-universe/earth/cosmic-rays-could-help-assess-hidden-war-damage-in-ukraine)
 - [US agency proposes new rule blocking data brokers from selling Americans’ sensitive personal data](https://techcrunch.com/2024/12/03/us-agency-proposes-new-rule-blocking-data-brokers-from-selling-americans-sensitive-personal-data/)
 - [US government contractor ENGlobal says operations are ‘limited’ following cyberattack](https://techcrunch.com/2024/12/03/us-government-contractor-englobal-says-operations-are-limited-following-cyberattack/)
 - [Orakl Oncology combines data and biology to bring new drugs to cancer patients](https://techcrunch.com/2024/12/03/orakl-oncology-combines-data-and-biology-to-bring-new-drugs-to-cancer-patients/)
-- [KPay, a financial management platform for SMEs, raises $55M Series A](https://techcrunch.com/2024/12/02/kpay-a-financial-management-platform-for-smes-raises-55m-series-a-funding-from-apis-partners/)
-- [The race is on to make AI agents do your online shopping for you](https://techcrunch.com/2024/12/02/the-race-is-on-to-make-ai-agents-do-your-online-shopping-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
