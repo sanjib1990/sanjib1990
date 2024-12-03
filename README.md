@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US agency proposes new rule blocking data brokers from selling Americans’ sensitive personal data](https://techcrunch.com/2024/12/03/us-agency-proposes-new-rule-blocking-data-brokers-from-selling-americans-sensitive-personal-data/)
+- [US government contractor ENGlobal says operations are ‘limited’ following cyberattack](https://techcrunch.com/2024/12/03/us-government-contractor-englobal-says-operations-are-limited-following-cyberattack/)
 - [Orakl Oncology combines data and biology to bring new drugs to cancer patients](https://techcrunch.com/2024/12/03/orakl-oncology-combines-data-and-biology-to-bring-new-drugs-to-cancer-patients/)
 - [KPay, a financial management platform for SMEs, raises $55M Series A](https://techcrunch.com/2024/12/02/kpay-a-financial-management-platform-for-smes-raises-55m-series-a-funding-from-apis-partners/)
 - [The race is on to make AI agents do your online shopping for you](https://techcrunch.com/2024/12/02/the-race-is-on-to-make-ai-agents-do-your-online-shopping-for-you/)
-- [Judge confirms decision to sink Elon Musk’s $56B pay package despite Tesla shareholder vote](https://techcrunch.com/2024/12/02/judge-confirms-decision-to-sink-elon-musks-56b-pay-package-despite-tesla-shareholder-vote/)
-- [Threads takes on Bluesky with more advanced search](https://techcrunch.com/2024/12/02/threads-takes-on-bluesky-with-more-advanced-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
