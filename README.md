@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Music launches “2024 Delivered,” its take on Spotify Wrapped](https://techcrunch.com/2024/12/03/amazon-music-launches-2024-delivered-its-take-on-spotify-wrapped/)
-- [Hypelist wants to break lists out of silos and put recommendations first](https://techcrunch.com/2024/12/03/hypelist-is-an-app-for-you-to-create-and-discover-all-kinds-of-lists/)
-- [Handle on history: Knives embedded with rocket parts honor 45 years of Ariane launches](https://www.space.com/spacepeps-knives-esa-ariane-rocket-metal)
-- [Google’s video generator comes to more customers](https://techcrunch.com/2024/12/03/googles-video-generator-comes-to-more-customers/)
-- [Apple Music’s 2024 Replay rolls out to all users](https://techcrunch.com/2024/12/03/apple-musics-2024-replay-rolls-out-to-all-users/)
+- [The shape of light: Scientists reveal image of an individual photon for 1st time ever](https://www.space.com/the-universe/the-shape-of-light-scientists-reveal-image-of-an-individual-photon-for-1st-time-ever)
+- [Spotify Wrapped 2024 is almost here, but first let’s explore all the copycats](https://techcrunch.com/2024/12/03/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
+- [&#39;Star Wars: Skeleton Crew&#39; episodes 1 &amp; 2: What&#39;s the secret of At Attin?](https://www.space.com/entertainment/space-movies-shows/star-wars-skeleton-crew-episodes-1-and-2-whats-the-secret-of-at-attin)
+- [Lenovo’s next PC gaming handheld glimpsed in online leak](https://techcrunch.com/2024/12/03/leaks-of-lenovos-next-pc-gaming-handheld-appear-online/)
+- [FTC bans two data brokers from collecting and selling Americans’ sensitive location data](https://techcrunch.com/2024/12/03/ftc-bans-two-data-brokers-from-collecting-and-selling-americans-sensitive-location-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
