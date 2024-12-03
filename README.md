@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KPay, a financial management platform for SMEs, raises $55M Series A](https://techcrunch.com/2024/12/02/kpay-a-financial-management-platform-for-smes-raises-55m-series-a-funding-from-apis-partners/)
+- [The race is on to make AI agents do your online shopping for you](https://techcrunch.com/2024/12/02/the-race-is-on-to-make-ai-agents-do-your-online-shopping-for-you/)
 - [Judge confirms decision to sink Elon Musk’s $56B pay package despite Tesla shareholder vote](https://techcrunch.com/2024/12/02/judge-confirms-decision-to-sink-elon-musks-56b-pay-package-despite-tesla-shareholder-vote/)
 - [Threads takes on Bluesky with more advanced search](https://techcrunch.com/2024/12/02/threads-takes-on-bluesky-with-more-advanced-search/)
 - [FTC fines online retailer Goat $2M over deceptive ‘Instant’ and ‘Next Day’ orders](https://techcrunch.com/2024/12/02/ftc-fines-online-retailer-goat-2m-over-deceptive-instant-and-next-day-orders/)
-- [Broken water pipe knocks out data processing for NASA sun-studying spacecraft](https://www.space.com/the-universe/sun/broken-water-pipe-knocks-out-data-processing-for-nasa-sun-studying-spacecraft)
-- [BepiColombo probe captures haunting Mercury image on 5th of 6 gravity assist flybys &lpar;photo&rpar;](https://www.space.com/the-universe/mercury/bepicolombo-probe-captures-haunting-mercury-image-on-5th-of-6-gravity-assist-flybys-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
