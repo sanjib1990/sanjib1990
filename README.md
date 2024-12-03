@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Hubble Space Telescope&#39;s 23-year-long look at a beautiful blue galaxy](https://www.space.com/space-exploration/hubble-space-telescope/inside-the-hubble-space-telescopes-23-year-long-look-at-a-beautiful-blue-galaxy)
-- [Why does the name ‘David Mayer’ crash ChatGPT? OpenAI says privacy tool went rogue](https://techcrunch.com/2024/12/03/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/)
-- [US says Chinese hackers are still lurking in American phone networks](https://techcrunch.com/2024/12/03/us-says-chinese-hackers-are-still-lurking-in-american-phone-networks/)
-- [Directive 8020: Everything we know about Supermassive&#39;s sci-fi horror game](https://www.space.com/entertainment/space-games-toys/directive-8020-everything-we-know-about-supermassives-sci-fi-horror-game)
-- [Amazon teams up with Orbital to remove CO2 from the air at one of its data centers](https://techcrunch.com/2024/12/03/amazon-teams-up-with-orbital-to-remove-co2-from-the-air-at-one-of-its-datacenters/)
+- [ServiceTitan’s IPO keeps getting weirder](https://techcrunch.com/2024/12/03/servicetitans-ipo-keeps-getting-weirder/)
+- [Europe’s Proba-3 satellites will launch early Dec. 4 to create artificial eclipses in space. Watch the liftoff live](https://www.space.com/space-exploration/satellites/europes-proba-3-satellites-will-launch-early-dec-4-to-create-artificial-eclipses-in-space-watch-the-liftoff-live)
+- [SpaceX mulls tender offer at $350B valuation](https://techcrunch.com/2024/12/03/spacex-mulls-tender-offer-at-350b-valuation/)
+- [Biden administration races to approve clean energy loans before Trump takes over — here’s who’s benefitting](https://techcrunch.com/2024/12/03/biden-administration-races-to-approve-clean-energy-loans-before-trump-takes-over-heres-whos-benefitting/)
+- [Brian Singerman to take a step back from Founders Fund](https://techcrunch.com/2024/12/03/brian-singerman-to-take-a-step-back-from-founders-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
