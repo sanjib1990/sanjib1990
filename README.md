@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The shape of light: Scientists reveal image of an individual photon for 1st time ever](https://www.space.com/the-universe/the-shape-of-light-scientists-reveal-image-of-an-individual-photon-for-1st-time-ever)
-- [Spotify Wrapped 2024 is almost here, but first let’s explore all the copycats](https://techcrunch.com/2024/12/03/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
-- [&#39;Star Wars: Skeleton Crew&#39; episodes 1 &amp; 2: What&#39;s the secret of At Attin?](https://www.space.com/entertainment/space-movies-shows/star-wars-skeleton-crew-episodes-1-and-2-whats-the-secret-of-at-attin)
-- [Lenovo’s next PC gaming handheld glimpsed in online leak](https://techcrunch.com/2024/12/03/leaks-of-lenovos-next-pc-gaming-handheld-appear-online/)
-- [FTC bans two data brokers from collecting and selling Americans’ sensitive location data](https://techcrunch.com/2024/12/03/ftc-bans-two-data-brokers-from-collecting-and-selling-americans-sensitive-location-data/)
+- [Celeb greetings app Cameo pivots to creators](https://techcrunch.com/2024/12/03/celeb-greetings-app-cameo-pivots-to-creators/)
+- [Ex-Microsoft employees get $4M from Accel to build an AI tool for product presentations](https://techcrunch.com/2024/12/03/ex-microsoft-employees-get-4m-from-accel-to-build-an-ai-tool-for-product-presentations/)
+- [Building blocks: How China plans to make bricks on the moon for lunar habitats](https://www.space.com/space-exploration/human-spaceflight/building-blocks-how-china-plans-to-make-bricks-on-the-moon-for-lunar-habitats)
+- [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/)
+- [Tiny asteroid detected hours before hitting Earth to become 4th &#39;imminent impactor&#39; of 2024](https://www.space.com/the-universe/asteroids/tiny-asteroid-detected-hours-before-hitting-earth-to-become-4th-imminent-impactor-of-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
