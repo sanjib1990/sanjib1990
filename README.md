@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Celeb greetings app Cameo pivots to creators](https://techcrunch.com/2024/12/03/celeb-greetings-app-cameo-pivots-to-creators/)
-- [Ex-Microsoft employees get $4M from Accel to build an AI tool for product presentations](https://techcrunch.com/2024/12/03/ex-microsoft-employees-get-4m-from-accel-to-build-an-ai-tool-for-product-presentations/)
-- [Building blocks: How China plans to make bricks on the moon for lunar habitats](https://www.space.com/space-exploration/human-spaceflight/building-blocks-how-china-plans-to-make-bricks-on-the-moon-for-lunar-habitats)
-- [ThredUp fashion marketplace offloads its European business, Remix](https://techcrunch.com/2024/12/03/thredup-fashion-marketplace-offloads-its-european-business-remix/)
-- [Tiny asteroid detected hours before hitting Earth to become 4th &#39;imminent impactor&#39; of 2024](https://www.space.com/the-universe/asteroids/tiny-asteroid-detected-hours-before-hitting-earth-to-become-4th-imminent-impactor-of-2024)
+- [AWS wants Amazon Q to become your buddy for the entire software development lifecycle](https://techcrunch.com/2024/12/03/aws-wants-amazon-q-to-become-your-buddy-for-the-entire-software-development-lifecycle/)
+- [Walmart completes $2.3B acquisition of Vizio to help grow its ad business](https://techcrunch.com/2024/12/03/walmart-completes-23b-acquisition-of-vizio-to-help-grow-its-ad-business/)
+- [AWS and GitLab team up to bring Amazon Q agents to GitLab’s Duo Assistant](https://techcrunch.com/2024/12/03/aws-and-gitlab-team-up-to-bring-amazon-q-agents-to-gitlabs-duo-assistant/)
+- [Clarifai introduces vendor-agnostic orchestration capabilities](https://techcrunch.com/2024/12/03/clarifai-introduces-vendor-agnostic-orchestration-capabilities/)
+- [&#39;Galaxy Quest&#39; blasts back onto our screens with 25th anniversary Blu-ray release](https://www.space.com/entertainment/galaxy-quest-blasts-back-onto-our-screens-with-25th-anniversary-blu-ray-release)
 <!-- BLOG-POST-LIST:END -->
 
 ---
