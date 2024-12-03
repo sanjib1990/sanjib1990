@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Orakl Oncology combines data and biology to bring new drugs to cancer patients](https://techcrunch.com/2024/12/03/orakl-oncology-combines-data-and-biology-to-bring-new-drugs-to-cancer-patients/)
 - [KPay, a financial management platform for SMEs, raises $55M Series A](https://techcrunch.com/2024/12/02/kpay-a-financial-management-platform-for-smes-raises-55m-series-a-funding-from-apis-partners/)
 - [The race is on to make AI agents do your online shopping for you](https://techcrunch.com/2024/12/02/the-race-is-on-to-make-ai-agents-do-your-online-shopping-for-you/)
 - [Judge confirms decision to sink Elon Musk’s $56B pay package despite Tesla shareholder vote](https://techcrunch.com/2024/12/02/judge-confirms-decision-to-sink-elon-musks-56b-pay-package-despite-tesla-shareholder-vote/)
 - [Threads takes on Bluesky with more advanced search](https://techcrunch.com/2024/12/02/threads-takes-on-bluesky-with-more-advanced-search/)
-- [FTC fines online retailer Goat $2M over deceptive ‘Instant’ and ‘Next Day’ orders](https://techcrunch.com/2024/12/02/ftc-fines-online-retailer-goat-2m-over-deceptive-instant-and-next-day-orders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
