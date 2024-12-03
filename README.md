@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pat Gelsinger set to net more than $10M severance from Intel](https://techcrunch.com/2024/12/03/pat-gelsinger-set-to-net-more-than-10m-severance-from-intel/)
+- [Delivery app Glovo bends to Spain’s Riders Law, will hire thousands of couriers](https://techcrunch.com/2024/12/03/delivery-app-glovo-bends-to-spains-riders-law-will-hire-thousands-of-couriers/)
 - [UK antitrust suit hits Microsoft with claim for $1.25B in cloud fees damages](https://techcrunch.com/2024/12/03/uk-antitrust-suit-hits-microsoft-with-claim-for-1-25b-in-cloud-fees-damages/)
 - [Cosmic rays could help assess hidden war damage in Ukraine](https://www.space.com/the-universe/earth/cosmic-rays-could-help-assess-hidden-war-damage-in-ukraine)
 - [US agency proposes new rule blocking data brokers from selling Americans’ sensitive personal data](https://techcrunch.com/2024/12/03/us-agency-proposes-new-rule-blocking-data-brokers-from-selling-americans-sensitive-personal-data/)
-- [US government contractor ENGlobal says operations are ‘limited’ following cyberattack](https://techcrunch.com/2024/12/03/us-government-contractor-englobal-says-operations-are-limited-following-cyberattack/)
-- [Orakl Oncology combines data and biology to bring new drugs to cancer patients](https://techcrunch.com/2024/12/03/orakl-oncology-combines-data-and-biology-to-bring-new-drugs-to-cancer-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
