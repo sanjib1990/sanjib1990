@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepMind’s Genie 2 can generate interactive worlds that look like video games](https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games/)
-- [Why we can&#39;t just name a quasi-moon &#39;Moony McMoonface&#39;](https://www.space.com/the-universe/asteroids/no-we-cant-just-name-a-quasi-moon-moony-mcmoonface)
-- [Superhuman launches availability sharing as it thinks about building a calendar app](https://techcrunch.com/2024/12/04/superhuman-launches-availablity-sharing-as-it-thinks-about-building-a-calendar-app/)
-- [Ransomware hackers target NHS hospitals with new cyberattacks](https://techcrunch.com/2024/12/04/ransomware-hackers-target-nhs-hospitals-with-new-cyberattacks/)
-- [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/)
+- [Instagram now lets creators enable replies in Broadcast Channels](https://techcrunch.com/2024/12/04/instagram-now-lets-creators-enable-replies-in-broadcast-channels/)
+- [US says Chinese hackers are still lurking in American phone networks](https://techcrunch.com/2024/12/04/us-says-chinese-hackers-are-still-lurking-in-american-phone-networks/)
+- [UnitedHealthcare CEO Brian Thompson shot and killed in New York](https://techcrunch.com/2024/12/04/unitedhealthcare-ceo-brian-thompson-shot-and-killed-in-new-york/)
+- [Behold! These gorgeous never-before-seen space images are from a NASA space telescope that should have died long ago](https://www.space.com/space-exploration/asteroid-comet-missions/behold-these-gorgeous-never-before-seen-space-images-are-from-a-nasa-space-telescope-that-should-have-died-long-ago)
+- [TikTok adds new ways for creators to raise money for charities](https://techcrunch.com/2024/12/04/tiktok-adds-new-ways-for-creators-to-raise-money-for-charities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
