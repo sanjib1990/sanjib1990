@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads users can now follow profiles from other fediverse servers](https://techcrunch.com/2024/12/04/threads-users-can-now-follow-profiles-from-other-fediverse-servers/)
-- [Trump picks billionaire private SpaceX astronaut Jared Isaacman to lead NASA](https://www.space.com/space-exploration/private-spaceflight/trump-picks-billionaire-private-spacex-astronaut-jared-isaacman-to-lead-nasa)
-- [AWS brings prompt routing and caching to its Bedrock LLM service](https://techcrunch.com/2024/12/04/aws-brings-prompt-routing-and-caching-to-its-bedrock-llm-service/)
-- [$132 – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/04/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/)
-- [OpenAI CEO Sam Altman says it’d be ‘un-American’ for Elon Musk to wield political influence to harm rivals](https://techcrunch.com/2024/12/04/openai-ceo-sam-altman-says-itd-be-un-american-for-elon-musk-to-wield-political-influence-to-harm-rivals/)
+- [Spotify users are disappointed by an underwhelming Wrapped this year](https://techcrunch.com/2024/12/04/spotify-users-are-disappointed-by-an-underwhelming-wrapped-this-year/)
+- [James Webb Space Telescope discovers 4th exoplanet in sweet triple &#39;super puff&#39; star system](https://www.space.com/kepler-51d-superpuff-exoplanet)
+- [See Fei-Fei Li’s World Labs generate 3D environments from a single picture](https://techcrunch.com/video/see-fei-fei-lis-world-labs-generate-3d-environments-from-a-single-picture/)
+- [AWS pledges $100M in cloud credits to help education organizations build learning tools](https://techcrunch.com/2024/12/04/aws-pledges-100m-in-cloud-credits-to-help-education-organizations-build-learning-tools/)
+- [Asteroid the size of 3 million elephants zooms past Earth](https://www.space.com/the-universe/asteroids/asteroid-the-size-of-3-million-elephants-zooms-past-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
