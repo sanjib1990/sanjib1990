@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/)
+- [Data resilience firm Veeam scores $15B valuation in $2B secondary sale](https://techcrunch.com/2024/12/04/data-resilience-company-veeam-valued-at-15bn-after-2bn-secondary-sale/)
 - [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/)
 - [Will the International Space Station&#39;s 2031 death dive cause pollution problems?](https://www.space.com/space-exploration/international-space-station/will-the-international-space-stations-2031-death-dive-cause-pollution-problems)
 - [‘Surreal Elderhood’ using OpenAI’s text-to-video model, Sora](https://techcrunch.com/video/surreal-elderhood-using-openais-text-to-video-model-sora/)
-- [SpaceX Falcon 9 rocket launched on record-breaking 24th flight early Wednesday &lpar;Video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launching-on-record-breaking-24th-flight-early-dec-4)
-- [Hugging Face CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
