@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I’m Replacing Alexa](https://www.youtube.com/watch?v=Y7d4WTvccOs)
 - [Jerry from Uganda: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=zG00757LByE)
 - [Software Engineering for Quantum Computing - Computerphile](https://www.youtube.com/watch?v=l909v-D8Z0s)
 - [Sketchy Stanford study says 9.5% of programmers are &quot;ghosts&quot;...](https://www.youtube.com/watch?v=KBdniMP3vac)
 - [Using Bayesian Approaches &amp; Sausage Plots to Improve Machine Learning - Computerphile](https://www.youtube.com/watch?v=NuBd2HKkJK4)
-- [I started a blog.....in 2024 &lpar;why you should too&rpar;](https://www.youtube.com/watch?v=dnE7c0ELEH8)
 <!-- YOUTUBE:END -->
 
 ---
