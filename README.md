@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA will update us all on its Artemis moon landing program on Dec. 5. Here&#39;s how to watch live.](https://www.space.com/space-exploration/artemis/nasa-artemis-moon-program-update-december-2024-livestream)
+- [Cleerly raises $106M from Insight Partners for AI heart health early detection](https://techcrunch.com/2024/12/04/cleerly-raises-106m-from-insight-partners-for-ai-heart-health-early-detection/)
+- [A billionaire private astronaut and SpaceX supporter may be the next NASA head](https://techcrunch.com/2024/12/04/a-billionaire-private-astronaut-and-spacex-supporter-may-be-the-next-nasa-head/)
 - [It’s the Senate’s last chance to pass the PRESS Act](https://techcrunch.com/2024/12/04/last-chance-for-the-senate-to-pass-the-press-act/)
 - [OpenAI inks deal to upgrade Anduril’s anti-drone tech](https://techcrunch.com/2024/12/04/openai-inks-deal-to-upgrade-andurils-anti-drone-tech/)
-- [Nonprofit 1863 Ventures has closed, reborn into for-profit New Majority Ventures](https://techcrunch.com/2024/12/04/non-profit-1863-ventures-has-closed-reborn-into-for-profit-new-majority-ventures/)
-- [Spiderweb protocluster is filled with baby galaxies, James Webb Space Telescope reveals &lpar;image&rpar;](https://www.space.com/space-exploration/james-webb-space-telescope-spiderweb)
-- [LLMs may have a killer enterprise app: ‘digital labor’ — at least if Salesforce Agentforce is any indicator](https://techcrunch.com/2024/12/04/llms-may-have-a-killer-enterprise-app-digital-labor-at-least-if-salesforce-agentforce-is-any-indicator/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
