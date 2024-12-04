@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What was the War of the Thinking Machines in &#39;Dune: Prophecy&#39;?](https://www.space.com/entertainment/dune-prophecy-what-was-the-war-of-the-thinking-machines)
-- [The pope gets his first electric popemobile from Mercedes-Benz](https://techcrunch.com/2024/12/04/the-pope-gets-his-first-electric-popemobile-from-mercedes-benz/)
-- [Spotify users are disappointed by an underwhelming Wrapped this year](https://techcrunch.com/2024/12/04/spotify-users-are-disappointed-by-an-underwhelming-wrapped-this-year/)
-- [James Webb Space Telescope discovers 4th exoplanet in sweet triple &#39;super puff&#39; star system](https://www.space.com/kepler-51d-superpuff-exoplanet)
-- [See Fei-Fei Li’s World Labs generate 3D environments from a single picture](https://techcrunch.com/video/see-fei-fei-lis-world-labs-generate-3d-environments-from-a-single-picture/)
+- [Non-profit 1863 Ventures has closed, reborn into for-profit New Majority Ventures](https://techcrunch.com/2024/12/04/non-profit-1863-ventures-has-closed-reborn-into-for-profit-new-majority-ventures/)
+- [Spiderweb protocluster is filled with baby galaxies, James Webb Space Telescope reveals &lpar;image&rpar;](https://www.space.com/space-exploration/james-webb-space-telescope-spiderweb)
+- [LLMs may have a killer enterprise app: ‘digital labor’ — at least if Salesforce AgentForce is any indicator](https://techcrunch.com/2024/12/04/llms-may-have-a-killer-enterprise-app-digital-labor-at-least-if-salesforce-agentforce-is-any-indicator/)
+- [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/)
+- [Khloé Kardashian and Kris Jenner are raising money for a new consumer startup](https://techcrunch.com/2024/12/04/khloe-kardashian-and-kris-jenner-are-raising-money-for-a-new-consumer-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
