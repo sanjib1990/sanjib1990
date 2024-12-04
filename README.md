@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/)
+- [Spotify Wrapped 2024 adds an AI podcast powered by Google’s NotebookLM](https://techcrunch.com/2024/12/04/spotify-wrapped-2024-adds-an-ai-podcast-powered-by-googles-notebooklm/)
+- [Watch Europe&#39;s Vega-C rocket launch today on 1st flight since 2022 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-europes-vega-c-rocket-launch-today-on-1st-flight-since-2022-video)
+- [Google’s Gradient backs Cake, a managed open-source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/)
 - [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/)
-- [Data resilience firm Veeam scores $15B valuation in $2B secondary sale](https://techcrunch.com/2024/12/04/data-resilience-company-veeam-valued-at-15bn-after-2bn-secondary-sale/)
-- [This ex-Scale AI leader built a platform to automatically extracts insights from customer feedback](https://techcrunch.com/2024/12/04/enterpret-automatically-extracts-insights-from-customer-feedback/)
-- [Will the International Space Station&#39;s 2031 death dive cause pollution problems?](https://www.space.com/space-exploration/international-space-station/will-the-international-space-stations-2031-death-dive-cause-pollution-problems)
-- [‘Surreal Elderhood’ using OpenAI’s text-to-video model, Sora](https://techcrunch.com/video/surreal-elderhood-using-openais-text-to-video-model-sora/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
