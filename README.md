@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HuggingFace CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/)
+- [SpaceX Falcon 9 rocket launching on record-breaking 24th flight early Dec. 4](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launching-on-record-breaking-24th-flight-early-dec-4)
+- [Hugging Face CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/)
 - [&#39;Ahsoka&#39; season 1 and &#39;The Mandalorian&#39; season 3 get stunning 4K steelbook releases](https://www.space.com/entertainment/ahsoka-season-1-and-the-mandalorian-season-3-get-stunning-4k-steelbook-releases)
 - [The abject weirdness of AI ads](https://techcrunch.com/2024/12/03/the-abject-weirdness-of-ai-ads/)
 - [ServiceTitan’s IPO keeps getting weirder](https://techcrunch.com/2024/12/03/servicetitans-ipo-keeps-getting-weirder/)
-- [Europe’s Proba-3 satellites will launch early Dec. 4 to create artificial eclipses in space. Watch the liftoff live](https://www.space.com/space-exploration/satellites/europes-proba-3-satellites-will-launch-early-dec-4-to-create-artificial-eclipses-in-space-watch-the-liftoff-live)
 <!-- BLOG-POST-LIST:END -->
 
 ---
