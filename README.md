@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tuskira unifies and optimizes disparate cybersecurity tools](https://techcrunch.com/2024/12/04/tuskira-aims-to-unify-and-optimize-disparate-cybersecurity-tools/)
-- [Spotify Wrapped 2024 adds an AI podcast powered by Google’s NotebookLM](https://techcrunch.com/2024/12/04/spotify-wrapped-2024-adds-an-ai-podcast-powered-by-googles-notebooklm/)
-- [Watch Europe&#39;s Vega-C rocket launch today on 1st flight since 2022 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-europes-vega-c-rocket-launch-today-on-1st-flight-since-2022-video)
-- [Google’s Gradient backs Cake, a managed open-source AI infrastructure platform](https://techcrunch.com/2024/12/04/googles-gradient-backs-cake-a-managed-open-source-ai-infrastructure-platform/)
-- [Growl is building the Peloton of boxing](https://techcrunch.com/2024/12/04/growl-is-building-the-peloton-of-boxing/)
+- [Revel to install 24 fast EV chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/)
+- [After you check out your Spotify Wrapped, explore these copycats](https://techcrunch.com/2024/12/04/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
+- [Business leaders among Pegasus spyware victims, says security firm](https://techcrunch.com/2024/12/04/business-leaders-among-pegasus-spyware-victims-says-security-firm/)
+- [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/)
+- [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
