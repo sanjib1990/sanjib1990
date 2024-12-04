@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram now lets creators enable replies in Broadcast Channels](https://techcrunch.com/2024/12/04/instagram-now-lets-creators-enable-replies-in-broadcast-channels/)
-- [US says Chinese hackers are still lurking in American phone networks](https://techcrunch.com/2024/12/04/us-says-chinese-hackers-are-still-lurking-in-american-phone-networks/)
-- [UnitedHealthcare CEO Brian Thompson shot and killed in New York](https://techcrunch.com/2024/12/04/unitedhealthcare-ceo-brian-thompson-shot-and-killed-in-new-york/)
-- [Behold! These gorgeous never-before-seen space images are from a NASA space telescope that should have died long ago](https://www.space.com/space-exploration/asteroid-comet-missions/behold-these-gorgeous-never-before-seen-space-images-are-from-a-nasa-space-telescope-that-should-have-died-long-ago)
-- [TikTok adds new ways for creators to raise money for charities](https://techcrunch.com/2024/12/04/tiktok-adds-new-ways-for-creators-to-raise-money-for-charities/)
+- [EU could target ultra low-cost e-tailers like Shein and Temu with package handling fee or import tax](https://techcrunch.com/2024/12/04/eu-considers-administrative-handling-fee-on-temu-and-shein-packages/)
+- [Frère’s fashion brand is upgrading the ‘tech bro’ look](https://techcrunch.com/2024/12/04/freres-fashion-brand-is-upgrading-the-tech-bro-look/)
+- [Solar maximum just knocked 3 satellites out of orbit. Here&#39;s why more may be on the way.](https://www.space.com/the-universe/sun/solar-maximum-just-knocked-3-satellites-out-of-orbit-heres-why-more-may-be-on-the-way)
+- [AWS makes its SageMaker HyperPod AI platform more efficient for training LLMs](https://techcrunch.com/2024/12/04/aws-makes-its-sagemaker-hyperpod-ai-platform-more-efficient-for-training-llms/)
+- [AWS brings third-party apps to its SageMaker AI platform](https://techcrunch.com/2024/12/04/aws-brings-third-party-apps-to-its-sagemaker-ai-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
