@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What was the War of the Thinking Machines in &#39;Dune: Prophecy&#39;?](https://www.space.com/entertainment/dune-prophecy-what-was-the-war-of-the-thinking-machines)
+- [The pope gets his first electric popemobile from Mercedes-Benz](https://techcrunch.com/2024/12/04/the-pope-gets-his-first-electric-popemobile-from-mercedes-benz/)
 - [Spotify users are disappointed by an underwhelming Wrapped this year](https://techcrunch.com/2024/12/04/spotify-users-are-disappointed-by-an-underwhelming-wrapped-this-year/)
 - [James Webb Space Telescope discovers 4th exoplanet in sweet triple &#39;super puff&#39; star system](https://www.space.com/kepler-51d-superpuff-exoplanet)
 - [See Fei-Fei Li’s World Labs generate 3D environments from a single picture](https://techcrunch.com/video/see-fei-fei-lis-world-labs-generate-3d-environments-from-a-single-picture/)
-- [AWS pledges $100M in cloud credits to help education organizations build learning tools](https://techcrunch.com/2024/12/04/aws-pledges-100m-in-cloud-credits-to-help-education-organizations-build-learning-tools/)
-- [Asteroid the size of 3 million elephants zooms past Earth](https://www.space.com/the-universe/asteroids/asteroid-the-size-of-3-million-elephants-zooms-past-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
