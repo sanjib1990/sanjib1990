@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Revel to install 24 fast EV chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/)
-- [After you check out your Spotify Wrapped, explore these copycats](https://techcrunch.com/2024/12/04/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
-- [Business leaders among Pegasus spyware victims, says security firm](https://techcrunch.com/2024/12/04/business-leaders-among-pegasus-spyware-victims-says-security-firm/)
-- [Axiado claims its chip can prevent cyberattacks](https://techcrunch.com/2024/12/04/axiado-claims-its-chip-can-prevent-cyberattacks/)
-- [LatAm startup Vambe sees ARR skyrocket after pivot to conversational AI](https://techcrunch.com/2024/12/04/latam-startup-vambe-sees-arr-skyrocket-after-pivot-to-conversational-ai/)
+- [DeepMind’s Genie 2 can generate interactive worlds that look like video games](https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games/)
+- [Why we can&#39;t just name a quasi-moon &#39;Moony McMoonface&#39;](https://www.space.com/the-universe/asteroids/no-we-cant-just-name-a-quasi-moon-moony-mcmoonface)
+- [Superhuman launches availability sharing as it thinks about building a calendar app](https://techcrunch.com/2024/12/04/superhuman-launches-availablity-sharing-as-it-thinks-about-building-a-calendar-app/)
+- [Ransomware hackers target NHS hospitals with new cyberattacks](https://techcrunch.com/2024/12/04/ransomware-hackers-target-nhs-hospitals-with-new-cyberattacks/)
+- [Revel to install 24 EV fast chargers at JFK airport](https://techcrunch.com/2024/12/04/revel-to-install-24-fast-ev-chargers-at-jfk-airport/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
