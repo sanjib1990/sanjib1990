@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Surreal Elderhood’ using OpenAI’s text-to-video model, Sora](https://techcrunch.com/video/surreal-elderhood-using-openais-text-to-video-model-sora/)
 - [SpaceX Falcon 9 rocket launching on record-breaking 24th flight early Dec. 4](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launching-on-record-breaking-24th-flight-early-dec-4)
 - [Hugging Face CEO has concerns about Chinese open source AI models](https://techcrunch.com/2024/12/03/huggingface-ceo-has-concerns-about-chinese-open-source-ai-models/)
 - [&#39;Ahsoka&#39; season 1 and &#39;The Mandalorian&#39; season 3 get stunning 4K steelbook releases](https://www.space.com/entertainment/ahsoka-season-1-and-the-mandalorian-season-3-get-stunning-4k-steelbook-releases)
 - [The abject weirdness of AI ads](https://techcrunch.com/2024/12/03/the-abject-weirdness-of-ai-ads/)
-- [ServiceTitan’s IPO keeps getting weirder](https://techcrunch.com/2024/12/03/servicetitans-ipo-keeps-getting-weirder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
