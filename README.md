@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellites find likely cause of mysterious African elephant deaths in 2020](https://www.space.com/the-universe/climate-change/satellites-find-likely-cause-of-mysterious-african-elephant-deaths-in-2020)
-- [TikTok partners with Nielsen to track cross-media ad campaign performance](https://techcrunch.com/2024/12/05/tiktok-partners-with-nielsen-to-track-cross-media-ad-campaign-performance/)
-- [Apple to shell out $1 billion on a manufacturing plant in Indonesia](https://techcrunch.com/2024/12/05/apple-will-spend-1-billion-for-new-manufacturing-plant-in-indonesia/)
-- [&#39;Star Trek: Lower Decks&#39; season 5 episode 8 flips the script and visits the &#39;Upper Decks&#39;](https://www.space.com/entertainment/space-movies-shows/star-trek-lower-decks-season-5-episode-8-flips-the-script-and-visits-the-upper-decks)
-- [UK tribunal green-lights $2.7B Facebook collective action antitrust lawsuit](https://techcrunch.com/2024/12/05/uk-tribunal-green-lights-2-7b-facebook-collective-action-antitrust-lawsuit/)
+- [Meta eases up on issuing strikes for Facebook users and Instagram creators](https://techcrunch.com/2024/12/05/meta-eases-up-on-issuing-strikes-for-facebook-users-and-instagram-creators/)
+- [Women in AI: Tamar Eilam is helping IBM build sustinable computing](https://techcrunch.com/2024/12/05/women-in-ai-tamar-eilam-is-helping-ibm-build-sustinable-computing/)
+- [Copilot Vision, Microsoft’s AI tool that can read your screen, launches in preview](https://techcrunch.com/2024/12/05/copilot-vision-microsofts-ai-tool-that-can-read-your-screen-launches-in-preview/)
+- [Google’s latest feature drop includes new Gemini extensions and accessibility features](https://techcrunch.com/2024/12/05/googles-latest-feature-drop-includes-new-gemini-extensions-and-accesiblity-features/)
+- [Nectir lets teachers tailor AI chatbots to provide their students with 24/7 educational support](https://techcrunch.com/2024/12/05/nectir-lets-teachers-tailor-ai-chatbots-to-provide-their-students-with-247-educational-support/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
