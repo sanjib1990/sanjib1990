@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Time4 is a new Daphni-backed fund dedicated to French entrepreneurs with diverse backgrounds](https://techcrunch.com/2024/12/05/time4-is-a-new-daphni-backed-fund-dedicated-to-french-entrepreneurs-with-diverse-backgrounds/)
+- [Myntra enters India’s quick-commerce race with 30-minute apparel delivery](https://techcrunch.com/2024/12/05/myntra-pushes-into-india-quick-commerce-race-with-30-minute-fashion-delivery/)
 - [Russian programmer says FSB agents planted spyware on his Android phone](https://techcrunch.com/2024/12/05/russian-programmer-says-fsb-agents-planted-spyware-on-his-android-phone/)
+- [Here&#39;s how SpaceX&#39;s 6th Starship megarocket launch looked from the ISS &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/heres-how-spacexs-6th-starship-megarocket-launch-looked-from-the-iss-video)
 - [Vodafone and Three’s $19B merger cleared by UK regulators — with conditions](https://techcrunch.com/2024/12/05/vodafone-and-threes-19b-merger-cleared-by-uk-regulators-with-conditions/)
-- [Lawhive raises $40M to go after ‘Main Street’ US lawyers](https://techcrunch.com/2024/12/04/lawhive-raises-40m-to-go-after-main-street-us-lawyers/)
-- [SpaceX completes 1st Starlink direct-to-cell constellation with launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-to-orbit-from-california)
-- [Bitcoin zooms past $100,000 mark for the first time](https://techcrunch.com/2024/12/04/bitcoin-zooms-past-100000-mark-for-the-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
