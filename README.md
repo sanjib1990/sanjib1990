@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads tests a feature that lets users see how well specific posts performed](https://techcrunch.com/2024/12/05/threads-tests-a-feature-that-lets-users-see-how-well-specific-posts-performed/)
+- [The &#39;Alien: Romulus&#39; VHS release is the perfect bit of &#39;80s nostalgia](https://www.space.com/entertainment/alien-romulus-scores-a-super-sweet-vhs-tape-release-this-week)
 - [Delaware judge rules against Elon Musk’s $56B pay package again](https://techcrunch.com/2024/12/05/delaware-judge-rules-against-elon-musks-56b-pay-package-again/)
 - [OpenAI confirms new $200 monthly subscription, ChatGPT Pro, which includes its o1 reasoning model](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/)
 - [Gigantic &#39;spiderwebs&#39; on Mars are the next big target for NASA&#39;s Curiosity rover, agency reveals](https://www.space.com/space-exploration/mars-rovers/gigantic-spiderwebs-on-mars-are-the-next-big-target-for-nasas-curiosity-rover-agency-reveals)
-- [China debuts $553 million spaceport with launch of new Long March-12 rocket &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-debuts-usd553-million-spaceport-with-launch-of-new-long-march-12-rocket-video)
-- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/05/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
