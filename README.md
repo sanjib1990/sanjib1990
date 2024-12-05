@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity expands its publisher program](https://techcrunch.com/2024/12/05/perplexity-expands-its-publisher-program/)
+- [After selling his last startup to IBM, this founder now wants to bring ‘agentic memory’ to enterprise data](https://techcrunch.com/2024/12/05/after-selling-his-startup-to-ibm-this-founder-wants-to-bring-agentic-memory-to-enterprises/)
+- [Trump may cancel NASA&#39;s powerful SLS moon rocket – here&#39;s what that would mean for Elon Musk and the future of space travel](https://www.space.com/space-exploration/artemis/trump-may-cancel-nasas-powerful-sls-moon-rocket-heres-what-that-would-mean-for-elon-musk-and-the-future-of-space-travel)
+- [SpaceX Falcon 9 rocket to launch Sirius XM radio satellite this morning](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-to-launch-sirius-xm-radio-satellite-this-morning)
 - [Ai Pin maker Humane demos AI software for cars, phones and smart speakers](https://techcrunch.com/2024/12/05/ai-pin-maker-humane-is-developing-ai-software-for-cars-phones-and-smart-speakers/)
-- [EU puts TikTok on watch over election security](https://techcrunch.com/2024/12/05/eu-puts-tiktok-on-watch-over-election-security/)
-- [Chainalysis permanently parts ways with its founding CEO](https://techcrunch.com/2024/12/05/chainalysis-permanently-parts-ways-with-its-founding-ceo/)
-- [&#39;It&#39;s like taking a picture of lightning&#39;: How astronomers raced to track the smallest asteroid ever seen](https://www.space.com/the-universe/asteroids/its-like-taking-a-picture-of-lightning-how-astronomers-raced-to-track-the-smallest-asteroid-ever-seen)
-- [Time4 is a new Daphni-backed fund dedicated to French entrepreneurs with diverse backgrounds](https://techcrunch.com/2024/12/05/time4-is-a-new-daphni-backed-fund-dedicated-to-french-entrepreneurs-with-diverse-backgrounds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
