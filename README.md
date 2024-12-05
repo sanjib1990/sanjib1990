@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the BEST home automation use case](https://www.youtube.com/watch?v=1gZm_fp2JB0)
+- [How opening learning can close knowledge gaps with June Odongo: An Open Conversation](https://www.youtube.com/watch?v=aqFgemQnKKo)
 - [Celebrating OCW&#39;s &quot;NextGen&quot; Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=pw-x4EgPU_U)
 - [Lecture 16: Liquid-Vapor Equilibria in Mixtures; Ideal and Excess Chemical Potentials](https://www.youtube.com/watch?v=RIeeEJglO10)
 - [Lecture 15: Stratification in Gas and Liquid Mixtures; Liquid-Vapor Spinodal Decomposition](https://www.youtube.com/watch?v=2Q5ZFIms9Bo)
-- [Lecture 19: Affinity and Nonequilibrium Law of Mass Action; Potential Energy Surface](https://www.youtube.com/watch?v=IbYdMkYn-20)
-- [Lecture 25: Thermodiffusive Effects; Multicomponent Transport](https://www.youtube.com/watch?v=N8S-wV3Ggyo)
 <!-- YOUTUBE:END -->
 
 ---
