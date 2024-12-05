@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon CTO Werner Vogels on fighting misinformation, tech addiction, and small nuclear reactors](https://techcrunch.com/2024/12/05/amazon-cto-werner-vogels-on-fighting-misinformation-tech-addiction-and-small-nuclear-reactors/)
+- [Comets probably delivered Earth its water long ago, new study reveals](https://www.space.com/the-universe/earth/comets-probably-delivered-earth-its-water-long-ago-new-study-reveals)
+- [Amp Robotics raises $91M to build more robot-filled waste sorting facilities](https://techcrunch.com/2024/12/05/amp-robotics-raises-91m-to-build-more-robot-filled-waste-sorting-facilities/)
+- [NASA delays Artemis 2 moon mission to April 2026, Artemis 3 lunar landing to mid-2027](https://www.space.com/space-exploration/artemis/nasa-delays-artemis-2-moon-mission-to-april-2026-artemis-3-lunar-landing-to-mid-2027)
 - [OpenAI wants to pair online courses with chatbots](https://techcrunch.com/2024/12/05/openai-wants-to-pair-online-courses-with-chatbots/)
-- [Elon Musk’s xAI lands billions in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/05/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/)
-- [Holiday app Festivitas puts Xmas lights on your Mac](https://techcrunch.com/2024/12/05/holiday-app-festivitas-puts-xmas-lights-on-your-mac/)
-- [Threads tests a feature that lets you see how well specific posts performed](https://techcrunch.com/2024/12/05/threads-tests-a-feature-that-lets-users-see-how-well-specific-posts-performed/)
-- [The &#39;Alien: Romulus&#39; VHS release is the perfect bit of &#39;80s nostalgia](https://www.space.com/entertainment/alien-romulus-scores-a-super-sweet-vhs-tape-release-this-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
