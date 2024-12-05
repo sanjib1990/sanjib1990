@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I’m Replacing Alexa](https://www.youtube.com/watch?v=Y7d4WTvccOs)
-- [Jerry from Uganda: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=zG00757LByE)
-- [Software Engineering for Quantum Computing - Computerphile](https://www.youtube.com/watch?v=l909v-D8Z0s)
-- [Sketchy Stanford study says 9.5% of programmers are &quot;ghosts&quot;...](https://www.youtube.com/watch?v=KBdniMP3vac)
-- [Using Bayesian Approaches &amp; Sausage Plots to Improve Machine Learning - Computerphile](https://www.youtube.com/watch?v=NuBd2HKkJK4)
+- [Lecture 16: Liquid-Vapor Equilibria in Mixtures; Ideal and Excess Chemical Potentials](https://www.youtube.com/watch?v=RIeeEJglO10)
+- [Lecture 15: Stratification in Gas and Liquid Mixtures; Liquid-Vapor Spinodal Decomposition](https://www.youtube.com/watch?v=2Q5ZFIms9Bo)
+- [Lecture 19: Affinity and Nonequilibrium Law of Mass Action; Potential Energy Surface](https://www.youtube.com/watch?v=IbYdMkYn-20)
+- [Lecture 25: Thermodiffusive Effects; Multicomponent Transport](https://www.youtube.com/watch?v=N8S-wV3Ggyo)
+- [Lecture 9: Minimum Work of Partitioning Small Systems; The Gibbs Phase Rule; The Van der Waals Model](https://www.youtube.com/watch?v=zVaeqsDzXzU)
 <!-- YOUTUBE:END -->
 
 ---
