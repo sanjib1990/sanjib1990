@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK tribunal green-lights $2.7B Facebook collective action antitrust lawsuit](https://techcrunch.com/2024/12/05/uk-tribunal-green-lights-2-7b-facebook-collective-action-antitrust-lawsuit/)
+- [Waymo outsources fleet operations to African fintech Moove in Phoenix and Miami](https://techcrunch.com/2024/12/05/waymo-outsources-fleet-operations-to-african-fintech-moove-in-phoenix-and-miami/)
+- [Bluesky CEO Jay Graber is reshaping social media, but advertising isn’t off the table](https://techcrunch.com/2024/12/05/bluesky-ceo-jay-graber-is-reshaping-social-media-but-advertising-isnt-off-the-table/)
+- [Twos is a to-do app that uses AI to suggest actions to complete your tasks](https://techcrunch.com/2024/12/05/twos-is-a-to-do-app-that-uses-ai-to-suggest-actions-to-complete-your-tasks/)
 - [Perplexity expands its publisher program](https://techcrunch.com/2024/12/05/perplexity-expands-its-publisher-program/)
-- [After selling his last startup to IBM, this founder now wants to bring ‘agentic memory’ to enterprise data](https://techcrunch.com/2024/12/05/after-selling-his-startup-to-ibm-this-founder-wants-to-bring-agentic-memory-to-enterprises/)
-- [Trump may cancel NASA&#39;s powerful SLS moon rocket – here&#39;s what that would mean for Elon Musk and the future of space travel](https://www.space.com/space-exploration/artemis/trump-may-cancel-nasas-powerful-sls-moon-rocket-heres-what-that-would-mean-for-elon-musk-and-the-future-of-space-travel)
-- [SpaceX Falcon 9 rocket to launch Sirius XM radio satellite this morning](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-to-launch-sirius-xm-radio-satellite-this-morning)
-- [Ai Pin maker Humane demos AI software for cars, phones and smart speakers](https://techcrunch.com/2024/12/05/ai-pin-maker-humane-is-developing-ai-software-for-cars-phones-and-smart-speakers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
