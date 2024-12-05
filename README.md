@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Satellites find likely cause of mysterious African elephant deaths in 2020](https://www.space.com/the-universe/climate-change/satellites-find-likely-cause-of-mysterious-african-elephant-deaths-in-2020)
+- [TikTok partners with Nielsen to track cross-media ad campaign performance](https://techcrunch.com/2024/12/05/tiktok-partners-with-nielsen-to-track-cross-media-ad-campaign-performance/)
+- [Apple to shell out $1 billion on a manufacturing plant in Indonesia](https://techcrunch.com/2024/12/05/apple-will-spend-1-billion-for-new-manufacturing-plant-in-indonesia/)
+- [&#39;Star Trek: Lower Decks&#39; season 5 episode 8 flips the script and visits the &#39;Upper Decks&#39;](https://www.space.com/entertainment/space-movies-shows/star-trek-lower-decks-season-5-episode-8-flips-the-script-and-visits-the-upper-decks)
 - [UK tribunal green-lights $2.7B Facebook collective action antitrust lawsuit](https://techcrunch.com/2024/12/05/uk-tribunal-green-lights-2-7b-facebook-collective-action-antitrust-lawsuit/)
-- [Waymo outsources fleet operations to African fintech Moove in Phoenix and Miami](https://techcrunch.com/2024/12/05/waymo-outsources-fleet-operations-to-african-fintech-moove-in-phoenix-and-miami/)
-- [Bluesky CEO Jay Graber is reshaping social media, but advertising isn’t off the table](https://techcrunch.com/2024/12/05/bluesky-ceo-jay-graber-is-reshaping-social-media-but-advertising-isnt-off-the-table/)
-- [Twos is a to-do app that uses AI to suggest actions to complete your tasks](https://techcrunch.com/2024/12/05/twos-is-a-to-do-app-that-uses-ai-to-suggest-actions-to-complete-your-tasks/)
-- [Perplexity expands its publisher program](https://techcrunch.com/2024/12/05/perplexity-expands-its-publisher-program/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
