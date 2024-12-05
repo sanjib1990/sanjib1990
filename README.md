@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Spectacular&#39; asteroid blazes over Siberia just hours after it was detected](https://www.space.com/the-universe/asteroids/spectacular-asteroid-blazes-over-siberia-just-hours-after-it-was-detected)
+- [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/)
 - [Uber will need to fingerprint drivers in California to transport teens](https://techcrunch.com/2024/12/05/uber-will-need-to-fingerprint-drivers-in-california-to-transport-teens/)
 - [Lucid Motors completes its first Gravity SUV](https://techcrunch.com/2024/12/05/lucid-motors-completes-its-first-gravity-suv/)
 - [Amazon CTO Werner Vogels on fighting misinformation, tech addiction, and small nuclear reactors](https://techcrunch.com/2024/12/05/amazon-cto-werner-vogels-on-fighting-misinformation-tech-addiction-and-small-nuclear-reactors/)
-- [Comets probably delivered Earth its water long ago, new study reveals](https://www.space.com/the-universe/earth/comets-probably-delivered-earth-its-water-long-ago-new-study-reveals)
-- [Amp Robotics raises $91M to build more robot-filled waste sorting facilities](https://techcrunch.com/2024/12/05/amp-robotics-raises-91m-to-build-more-robot-filled-waste-sorting-facilities/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
