@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta eases up on issuing strikes for Facebook users and Instagram creators](https://techcrunch.com/2024/12/05/meta-eases-up-on-issuing-strikes-for-facebook-users-and-instagram-creators/)
-- [Women in AI: Tamar Eilam is helping IBM build sustinable computing](https://techcrunch.com/2024/12/05/women-in-ai-tamar-eilam-is-helping-ibm-build-sustinable-computing/)
-- [Copilot Vision, Microsoft’s AI tool that can read your screen, launches in preview](https://techcrunch.com/2024/12/05/copilot-vision-microsofts-ai-tool-that-can-read-your-screen-launches-in-preview/)
-- [Google’s latest feature drop includes new Gemini extensions and accessibility features](https://techcrunch.com/2024/12/05/googles-latest-feature-drop-includes-new-gemini-extensions-and-accesiblity-features/)
-- [Nectir lets teachers tailor AI chatbots to provide their students with 24/7 educational support](https://techcrunch.com/2024/12/05/nectir-lets-teachers-tailor-ai-chatbots-to-provide-their-students-with-247-educational-support/)
+- [Delaware judge rules against Elon Musk’s $56B pay package again](https://techcrunch.com/2024/12/05/delaware-judge-rules-against-elon-musks-56b-pay-package-again/)
+- [OpenAI confirms new $200 monthly subscription, ChatGPT Pro, which includes its o1 reasoning model](https://techcrunch.com/2024/12/05/openai-confirms-its-new-200-plan-chatgpt-pro-which-includes-reasoning-models-and-more/)
+- [Gigantic &#39;spiderwebs&#39; on Mars are the next big target for NASA&#39;s Curiosity rover, agency reveals](https://www.space.com/space-exploration/mars-rovers/gigantic-spiderwebs-on-mars-are-the-next-big-target-for-nasas-curiosity-rover-agency-reveals)
+- [China debuts $553 million spaceport with launch of new Long March-12 rocket &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-debuts-usd553-million-spaceport-with-launch-of-new-long-march-12-rocket-video)
+- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/05/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
