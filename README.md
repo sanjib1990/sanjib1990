@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ai Pin maker Humane demos AI software for cars, phones and smart speakers](https://techcrunch.com/2024/12/05/ai-pin-maker-humane-is-developing-ai-software-for-cars-phones-and-smart-speakers/)
+- [EU puts TikTok on watch over election security](https://techcrunch.com/2024/12/05/eu-puts-tiktok-on-watch-over-election-security/)
+- [Chainalysis permanently parts ways with its founding CEO](https://techcrunch.com/2024/12/05/chainalysis-permanently-parts-ways-with-its-founding-ceo/)
+- [&#39;It&#39;s like taking a picture of lightning&#39;: How astronomers raced to track the smallest asteroid ever seen](https://www.space.com/the-universe/asteroids/its-like-taking-a-picture-of-lightning-how-astronomers-raced-to-track-the-smallest-asteroid-ever-seen)
 - [Time4 is a new Daphni-backed fund dedicated to French entrepreneurs with diverse backgrounds](https://techcrunch.com/2024/12/05/time4-is-a-new-daphni-backed-fund-dedicated-to-french-entrepreneurs-with-diverse-backgrounds/)
-- [Myntra enters India’s quick-commerce race with 30-minute apparel delivery](https://techcrunch.com/2024/12/05/myntra-pushes-into-india-quick-commerce-race-with-30-minute-fashion-delivery/)
-- [Russian programmer says FSB agents planted spyware on his Android phone](https://techcrunch.com/2024/12/05/russian-programmer-says-fsb-agents-planted-spyware-on-his-android-phone/)
-- [Here&#39;s how SpaceX&#39;s 6th Starship megarocket launch looked from the ISS &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/heres-how-spacexs-6th-starship-megarocket-launch-looked-from-the-iss-video)
-- [Vodafone and Three’s $19B merger cleared by UK regulators — with conditions](https://techcrunch.com/2024/12/05/vodafone-and-threes-19b-merger-cleared-by-uk-regulators-with-conditions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
