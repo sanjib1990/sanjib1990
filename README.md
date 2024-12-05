@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vodafone and Three’s $19B merger cleared by UK regulators — with conditions](https://techcrunch.com/2024/12/05/vodafone-and-threes-19b-merger-cleared-by-uk-regulators-with-conditions/)
 - [Lawhive raises $40M to go after ‘Main Street’ US lawyers](https://techcrunch.com/2024/12/04/lawhive-raises-40m-to-go-after-main-street-us-lawyers/)
 - [SpaceX completes 1st Starlink direct-to-cell constellation with launch from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-to-orbit-from-california)
 - [Bitcoin zooms past $100,000 mark for the first time](https://techcrunch.com/2024/12/04/bitcoin-zooms-past-100000-mark-for-the-first-time/)
 - [NASA will update us all on its Artemis moon landing program on Dec. 5. Here&#39;s how to watch live.](https://www.space.com/space-exploration/artemis/nasa-artemis-moon-program-update-december-2024-livestream)
-- [Cleerly raises $106M from Insight Partners for AI heart health early detection](https://techcrunch.com/2024/12/04/cleerly-raises-106m-from-insight-partners-for-ai-heart-health-early-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
