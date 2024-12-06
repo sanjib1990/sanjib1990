@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dwarf planet Ceres could be rich in organics, defunct spacecraft data reveals](https://www.space.com/dwarf-planet-ceres-water)
-- [Former LA Lakers star launches VC firm](https://techcrunch.com/2024/12/06/former-la-lakers-star-launches-vc-firm/)
-- [Over 10,000 exploding stars catalogued by groundbreaking Zwicky Transient Facility](https://www.space.com/the-universe/stars/Zwicky-Transient-Facility-10000-supernova)
-- [Watch the sun rise on SpaceX&#39;s Crew Dragon as the Milky Way fades into darkness in mesmerizing ISS video](https://www.space.com/space-exploration/international-space-station/watch-the-sun-rise-on-spacexs-crew-dragon-as-the-milky-way-fades-into-darkness-in-mesmerizing-iss-video)
-- [Heartcore Capital closes $180M fund to pivot towards infrastructure, synthetic biology, climate](https://techcrunch.com/2024/12/06/heartcore-capital-closes-180m-fund-to-pivot-towards-infrastructure-synthetic-biology-climate/)
+- [US appeals court upholds TikTok ban](https://techcrunch.com/2024/12/06/us-appeals-court-upholds-tiktok-ban/)
+- [OpenAI considers ditching provision that would prevent AGI from being used for commercial gain](https://techcrunch.com/2024/12/06/openai-considers-ditching-provision-that-would-prevent-agi-from-being-used-for-commercial-gain/)
+- [New celestial navigation tech could make drones stealthier](https://www.space.com/space-exploration/tech/new-celestial-navigation-tech-could-make-drones-stealthier)
+- [Geminid meteor shower peaks Dec. 13 alongside a bright moon. Here&#39;s how to see it](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-peaks-dec-13-alongside-a-bright-moon-heres-how-to-see-it)
+- [Google Photos launches a ‘2024 Recap’ for a look back at this year’s memories](https://techcrunch.com/2024/12/06/google-photos-launches-a-2024-recap-for-a-look-back-at-this-years-memories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
