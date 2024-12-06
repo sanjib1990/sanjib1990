@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uber and WeRide launch robotaxi service in Abu Dhabi](https://techcrunch.com/2024/12/06/uber-and-weride-launch-robotaxi-service-in-abu-dhabi/)
+- [Fly Ventures sets its eyes on technical founders with a fresh €80M fund](https://techcrunch.com/2024/12/06/fly-ventures-sets-its-eyes-on-technical-founders-with-a-fresh-e80m-fund/)
 - [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/)
 - [GitLab names Bill Staples as its new CEO](https://techcrunch.com/2024/12/05/gitlab-names-bill-staples-as-its-new-ceo/)
 - [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/)
-- [Ex-PayPal COO David Sacks is Trump’s new crypto and AI ‘czar’](https://techcrunch.com/2024/12/05/ex-paypal-coo-david-sacks-is-trumps-new-crypto-and-ai-czar/)
-- [Zopa, the UK neobank, snaps up $85M at a $1B+ valuation, eschewing the IPO route](https://techcrunch.com/2024/12/05/zopa-the-uk-neobank-snaps-up-85m-at-a-1b-valuation-eschewing-the-ipo-route/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
