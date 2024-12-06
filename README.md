@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find secret comet in the asteroid belt — how many others are there?](https://www.space.com/the-universe/asteroids/scientists-find-secret-comet-in-the-asteroid-belt-how-many-others-are-there)
+- [Meta’s Nick Clegg says Elon Musk has potential to be a political ‘puppet master’](https://techcrunch.com/2024/12/06/metas-nick-clegg-says-elon-musk-has-potential-to-be-a-political-puppet-master/)
+- [Rivian’s EVs ranked last on Consumer Reports reliability list](https://techcrunch.com/2024/12/06/rivians-evs-ranked-last-on-consumer-reports-reliability-list/)
 - [Instagram locks out developers of third-party consumer apps](https://techcrunch.com/2024/12/06/instagram-locks-out-developers-of-third-party-consumer-apps/)
-- [Hopeful hearts and other startup news](https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/)
-- [&#39;Interstellar&#39; returns from deep space to IMAX theaters starting today for 10th anniversary](https://www.space.com/entertainment/interstellar-reappears-in-imax-theaters-starting-today-for-its-10th-anniversary)
-- [Sweeping gravitational wave map of the universe could reveal hidden black holes](https://www.space.com/hidden-black-holes-gravitational-wave-map)
-- [a16z-backed Toka wants to help US agencies hack into security cameras and other IoT devices](https://techcrunch.com/2024/12/06/a16z-backed-toka-wants-to-help-us-agencies-hack-into-security-cameras-and-other-iot-devices/)
+- [See Jupiter at its biggest and brightest this weekend](https://www.space.com/stargazing/see-jupiter-at-its-biggest-and-brightest-this-weekend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
