@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/)
+- [Meet &#39;Blackbird&#39;: A flying taxi that spins and moves in any direction thanks to new propulsion system](https://www.space.com/space-exploration/tech/meet-blackbird-a-flying-taxi-that-spins-and-moves-in-any-direction-thanks-to-new-propulsion-system)
+- [Elon Musk donated more than $260 million to elect Donald Trump](https://techcrunch.com/2024/12/06/elon-musk-donated-more-than-260-million-to-elect-donald-trump/)
 - [US appeals court upholds TikTok ban](https://techcrunch.com/2024/12/06/us-appeals-court-upholds-tiktok-ban/)
 - [OpenAI considers ditching provision that would prevent AGI from being used for commercial gain](https://techcrunch.com/2024/12/06/openai-considers-ditching-provision-that-would-prevent-agi-from-being-used-for-commercial-gain/)
-- [New celestial navigation tech could make drones stealthier](https://www.space.com/space-exploration/tech/new-celestial-navigation-tech-could-make-drones-stealthier)
-- [Geminid meteor shower peaks Dec. 13 alongside a bright moon. Here&#39;s how to see it](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-peaks-dec-13-alongside-a-bright-moon-heres-how-to-see-it)
-- [Google Photos launches a ‘2024 Recap’ for a look back at this year’s memories](https://techcrunch.com/2024/12/06/google-photos-launches-a-2024-recap-for-a-look-back-at-this-years-memories/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
