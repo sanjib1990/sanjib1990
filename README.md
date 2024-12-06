@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s 31st Dragon cargo capsule head back to Earth today](https://www.space.com/space-exploration/international-space-station/watch-spacexs-31st-dragon-cargo-capsule-head-back-to-earth-today)
 - [Uber and WeRide launch robotaxi service in Abu Dhabi](https://techcrunch.com/2024/12/06/uber-and-weride-launch-robotaxi-service-in-abu-dhabi/)
 - [Fly Ventures sets its eyes on technical founders with a fresh €80M fund](https://techcrunch.com/2024/12/06/fly-ventures-sets-its-eyes-on-technical-founders-with-a-fresh-e80m-fund/)
 - [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/)
 - [GitLab names Bill Staples as its new CEO](https://techcrunch.com/2024/12/05/gitlab-names-bill-staples-as-its-new-ceo/)
-- [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
