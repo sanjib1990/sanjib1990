@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MobiKwik’s IPO will value it at $250M, 73% less than its last private valuation](https://techcrunch.com/2024/12/05/mobikwik-slashes-valuation-by-73-in-india-ipo/)
 - [GitLab names Bill Staples as its new CEO](https://techcrunch.com/2024/12/05/gitlab-names-bill-staples-as-its-new-ceo/)
 - [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/)
 - [Ex-PayPal COO David Sacks is Trump’s new crypto and AI ‘czar’](https://techcrunch.com/2024/12/05/ex-paypal-coo-david-sacks-is-trumps-new-crypto-and-ai-czar/)
 - [Zopa, the UK neobank, snaps up $85M at a $1B+ valuation, eschewing the IPO route](https://techcrunch.com/2024/12/05/zopa-the-uk-neobank-snaps-up-85m-at-a-1b-valuation-eschewing-the-ipo-route/)
-- [&#39;Spectacular&#39; asteroid blazes over Siberia just hours after it was detected](https://www.space.com/the-universe/asteroids/spectacular-asteroid-blazes-over-siberia-just-hours-after-it-was-detected)
 <!-- BLOG-POST-LIST:END -->
 
 ---
