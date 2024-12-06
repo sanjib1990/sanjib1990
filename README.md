@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dwarf planet Ceres could be rich in organics, defunct spacecraft data reveals](https://www.space.com/dwarf-planet-ceres-water)
+- [Former LA Lakers star launches VC firm](https://techcrunch.com/2024/12/06/former-la-lakers-star-launches-vc-firm/)
 - [Over 10,000 exploding stars catalogued by groundbreaking Zwicky Transient Facility](https://www.space.com/the-universe/stars/Zwicky-Transient-Facility-10000-supernova)
 - [Watch the sun rise on SpaceX&#39;s Crew Dragon as the Milky Way fades into darkness in mesmerizing ISS video](https://www.space.com/space-exploration/international-space-station/watch-the-sun-rise-on-spacexs-crew-dragon-as-the-milky-way-fades-into-darkness-in-mesmerizing-iss-video)
 - [Heartcore Capital closes $180M fund to pivot towards infrastructure, synthetic biology, climate](https://techcrunch.com/2024/12/06/heartcore-capital-closes-180m-fund-to-pivot-towards-infrastructure-synthetic-biology-climate/)
-- [Watch SpaceX&#39;s 31st Dragon cargo capsule head back to Earth Dec. 12](https://www.space.com/space-exploration/international-space-station/watch-spacexs-31st-dragon-cargo-capsule-head-back-to-earth-today)
-- [Uber and WeRide launch robotaxi service in Abu Dhabi](https://techcrunch.com/2024/12/06/uber-and-weride-launch-robotaxi-service-in-abu-dhabi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
