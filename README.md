@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitLab names Bill Staples as its new CEO](https://techcrunch.com/2024/12/05/gitlab-names-bill-staples-as-its-new-ceo/)
+- [OpenAI’s o1 model sure tries to deceive humans a lot](https://techcrunch.com/2024/12/05/openais-o1-model-sure-tries-to-deceive-humans-a-lot/)
+- [Ex-PayPal COO David Sacks is Trump’s new crypto and AI ‘czar’](https://techcrunch.com/2024/12/05/ex-paypal-coo-david-sacks-is-trumps-new-crypto-and-ai-czar/)
 - [Zopa, the UK neobank, snaps up $85M at a $1B+ valuation, eschewing the IPO route](https://techcrunch.com/2024/12/05/zopa-the-uk-neobank-snaps-up-85m-at-a-1b-valuation-eschewing-the-ipo-route/)
 - [&#39;Spectacular&#39; asteroid blazes over Siberia just hours after it was detected](https://www.space.com/the-universe/asteroids/spectacular-asteroid-blazes-over-siberia-just-hours-after-it-was-detected)
-- [Planet A Foods nabs $30M to make tons more cocoa-free chocolate](https://techcrunch.com/2024/12/05/planet-a-foods-nabs-30m-to-make-tons-more-cocoa-free-chocolate/)
-- [Uber will need to fingerprint drivers in California to transport teens](https://techcrunch.com/2024/12/05/uber-will-need-to-fingerprint-drivers-in-california-to-transport-teens/)
-- [Lucid Motors completes its first Gravity SUV](https://techcrunch.com/2024/12/05/lucid-motors-completes-its-first-gravity-suv/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
