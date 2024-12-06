@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars rover Perseverance sends home postcard from scenic &#39;Pico Turquino&#39; &lpar;photo&rpar;](https://www.space.com/space-exploration/mars-rovers/mars-rover-perseverance-sends-home-postcard-from-scenic-pico-turquino-photo)
+- [If you can make this AI bot fall in love, you could win thousands of dollars](https://techcrunch.com/2024/12/06/if-you-can-make-this-ai-bot-fall-in-love-you-could-win-thousands-of-dollars/)
+- [Snyk hits $300M ARR but isn’t rushing to go public](https://techcrunch.com/2024/12/06/snyk-hits-300m-arr-but-isnt-rushing-to-go-public/)
+- [Car-size asteroid will zip between Earth and the moon tonight](https://www.space.com/the-universe/asteroids/car-size-asteroid-will-zip-between-earth-and-the-moon-tonight)
 - [Scientists find secret comet in the asteroid belt — how many others are there?](https://www.space.com/the-universe/asteroids/scientists-find-secret-comet-in-the-asteroid-belt-how-many-others-are-there)
-- [Meta’s Nick Clegg says Elon Musk has potential to be a political ‘puppet master’](https://techcrunch.com/2024/12/06/metas-nick-clegg-says-elon-musk-has-potential-to-be-a-political-puppet-master/)
-- [Rivian’s EVs ranked last on Consumer Reports reliability list](https://techcrunch.com/2024/12/06/rivians-evs-ranked-last-on-consumer-reports-reliability-list/)
-- [Instagram locks out developers of third-party consumer apps](https://techcrunch.com/2024/12/06/instagram-locks-out-developers-of-third-party-consumer-apps/)
-- [See Jupiter at its biggest and brightest this weekend](https://www.space.com/stargazing/see-jupiter-at-its-biggest-and-brightest-this-weekend)
 <!-- BLOG-POST-LIST:END -->
 
 ---
