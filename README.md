@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A16z-backed Toka wants to help US agencies hack into security cameras and other IoT devices](https://techcrunch.com/2024/12/06/a16z-backed-toka-wants-to-help-us-agencies-hack-into-security-cameras-and-other-iot-devices/)
+- [Iran launches military satellite, sending nation&#39;s largest-ever payload to orbit: reports](https://www.space.com/space-exploration/launches-spacecraft/iran-launches-military-satellite-sending-nations-largest-ever-payload-to-orbit-reports)
 - [Immersive sci-fi spaceport experience Interstellar Arc is coming to Las Vegas in 2025](https://www.space.com/entertainment/immersive-sci-fi-spaceport-experience-interstellar-arc-is-coming-to-las-vegas-in-2025)
 - [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/06/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
 - [Meta unveils a new, more efficient Llama model](https://techcrunch.com/2024/12/06/meta-unveils-a-new-more-efficient-llama-model/)
-- [Y Combinator alum Nowadays, founded by sisters, raises $2M to automate event planning](https://techcrunch.com/2024/12/06/y-combinator-alum-nowadays-founded-by-sisters-raises-2m-to-automate-event-planning/)
-- [Meet &#39;Blackbird&#39;: A flying taxi that spins and moves in any direction thanks to new propulsion system](https://www.space.com/space-exploration/tech/meet-blackbird-a-flying-taxi-that-spins-and-moves-in-any-direction-thanks-to-new-propulsion-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
