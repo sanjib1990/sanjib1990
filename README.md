@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Will people really pay $200 a month for OpenAI’s new chatbot?](https://techcrunch.com/2024/12/06/will-people-really-pay-200-a-month-for-openais-new-chatbot/)
 - [Mars rover Perseverance sends home postcard from scenic &#39;Pico Turquino&#39; &lpar;photo&rpar;](https://www.space.com/space-exploration/mars-rovers/mars-rover-perseverance-sends-home-postcard-from-scenic-pico-turquino-photo)
 - [If you can make this AI bot fall in love, you could win thousands of dollars](https://techcrunch.com/2024/12/06/if-you-can-make-this-ai-bot-fall-in-love-you-could-win-thousands-of-dollars/)
 - [Snyk hits $300M ARR but isn’t rushing to go public](https://techcrunch.com/2024/12/06/snyk-hits-300m-arr-but-isnt-rushing-to-go-public/)
 - [Car-size asteroid will zip between Earth and the moon tonight](https://www.space.com/the-universe/asteroids/car-size-asteroid-will-zip-between-earth-and-the-moon-tonight)
-- [Scientists find secret comet in the asteroid belt — how many others are there?](https://www.space.com/the-universe/asteroids/scientists-find-secret-comet-in-the-asteroid-belt-how-many-others-are-there)
 <!-- BLOG-POST-LIST:END -->
 
 ---
