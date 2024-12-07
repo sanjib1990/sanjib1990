@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s X gains a new image generator, Aurora](https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/)
 - [The yearning for Uranus: A far-out world with a tale to tell](https://www.space.com/space-exploration/missions/the-yearning-for-uranus-a-far-out-world-with-a-tale-to-tell)
 - [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/)
 - [New York’s top VCs under 30](https://techcrunch.com/2024/12/07/new-yorks-top-vcs-under-30/)
 - [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/)
-- [Lilo &amp; Stitch live-action remake: Release date, plot, &amp; everything we know](https://www.space.com/entertainment/space-movies-shows/everything-we-know-lilo-and-stitch-live-action-remake)
 <!-- BLOG-POST-LIST:END -->
 
 ---
