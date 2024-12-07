@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New York’s top VCs under 30](https://techcrunch.com/2024/12/07/new-yorks-top-vcs-under-30/)
+- [The four startups from YC’s Fall batch that enterprises should pay attention to](https://techcrunch.com/2024/12/07/the-four-startups-from-ycs-fall-batch-that-enterprises-should-pay-attention-to/)
+- [Lilo &amp; Stitch live-action remake: Release date, plot, &amp; everything we know](https://www.space.com/entertainment/space-movies-shows/everything-we-know-lilo-and-stitch-live-action-remake)
+- [This Week In Space podcast: Episode 139 —Look to the Skies](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-139-look-to-skies)
 - [As Australia bans social media for kids under 16, age-assurance tech is in the spotlight](https://techcrunch.com/2024/12/07/as-australia-bans-social-media-for-kids-under-16-age-assurance-tech-is-in-the-spotlight/)
-- [We are fast approaching the sun&#39;s &#39;battle zone&#39; — and it could be even worse than solar maximum, experts warn](https://www.space.com/the-universe/sun/we-are-fast-approaching-the-suns-battle-zone-and-it-could-be-even-worse-than-solar-maximum-experts-warn)
-- [&#39;Ominous milestone for the planet&#39;: Arctic Ocean&#39;s 1st ice-free day could be just 3 years away, alarming study finds](https://www.space.com/the-universe/climate-change/ominous-milestone-for-the-planet-arctic-oceans-1st-ice-free-day-could-be-just-3-years-away-alarming-study-finds)
-- [How big can &#39;ultramassive&#39; black holes get? Scientists may have the answer](https://www.space.com/ultramassive-black-holes-how-big)
-- [Paytm sells PayPay stake to SoftBank for $279.2 million](https://techcrunch.com/2024/12/06/paytm-sells-paypay-stake-to-softbank-for-279-2-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
