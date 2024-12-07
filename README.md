@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How big can &#39;ultramassive&#39; black holes get? Scientists may have the answer](https://www.space.com/ultramassive-black-holes-how-big)
 - [Paytm sells PayPay stake to SoftBank for $279.2 million](https://techcrunch.com/2024/12/06/paytm-sells-paypay-stake-to-softbank-for-279-2-million/)
 - [Silicon Valley hitters take over Trump transition team: “a dozen Musk allies”](https://techcrunch.com/2024/12/06/silicon-valley-hitters-take-over-trump-transition-team-a-dozen-musk-allies/)
 - [Grok is now free for all X users](https://techcrunch.com/2024/12/06/2927301/)
 - [Will people really pay $200 a month for OpenAI’s new chatbot?](https://techcrunch.com/2024/12/06/will-people-really-pay-200-a-month-for-openais-new-chatbot/)
-- [Mars rover Perseverance sends home postcard from scenic &#39;Pico Turquino&#39; &lpar;photo&rpar;](https://www.space.com/space-exploration/mars-rovers/mars-rover-perseverance-sends-home-postcard-from-scenic-pico-turquino-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
