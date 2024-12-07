@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sam Altman&#39;s new $200 ChatGPT has a big Elon problem...](https://www.youtube.com/watch?v=Sf4WqHBCYSY)
 - [Which Network Doesn’t Belong?](https://www.youtube.com/watch?v=XycW6U32h20)
 - [the BEST home automation use case](https://www.youtube.com/watch?v=1gZm_fp2JB0)
 - [How opening learning can close knowledge gaps with June Odongo: An Open Conversation](https://www.youtube.com/watch?v=aqFgemQnKKo)
 - [Celebrating OCW&#39;s &quot;NextGen&quot; Platform with NPR&#39;s Anya Kamenetz](https://www.youtube.com/watch?v=pw-x4EgPU_U)
-- [Lecture 16: Liquid-Vapor Equilibria in Mixtures; Ideal and Excess Chemical Potentials](https://www.youtube.com/watch?v=RIeeEJglO10)
 <!-- YOUTUBE:END -->
 
 ---
