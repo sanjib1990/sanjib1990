@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google says its new AI model outperforms the top weather forecast system](https://techcrunch.com/2024/12/07/google-says-its-new-ai-model-outperforms-the-top-weather-forecast-system/)
 - [OpenAI bets you’ll pay $200 a month for ChatGPT](https://techcrunch.com/2024/12/07/openai-bets-youll-pay-200-a-month-for-chatgpt/)
 - [Elon Musk’s X gains a new image generator, Aurora](https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/)
 - [Google pushes back against federal supervision of its payment arm](https://techcrunch.com/2024/12/07/google-pushes-back-against-federal-supervision-of-its-payment-arm/)
 - [The yearning for Uranus: A far-out world with a tale to tell](https://www.space.com/space-exploration/missions/the-yearning-for-uranus-a-far-out-world-with-a-tale-to-tell)
-- [As YC retreats from Africa, alumni launch accelerators to fill the gap](https://techcrunch.com/2024/12/07/as-yc-retreats-from-africa-alumni-launch-accelerators-to-fill-the-gap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
