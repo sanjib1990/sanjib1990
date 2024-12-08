@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple sued over abandoning CSAM detection for iCloud](https://techcrunch.com/2024/12/08/apple-sued-over-abandoning-csam-detection-for-icloud/)
 - [Lead Edge is increasingly steering its 700+ investors away from VC deals](https://techcrunch.com/2024/12/08/more-than-700-people-have-given-lead-edge-5b-to-invest-as-it-moves-away-from-venture-deals/)
 - [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/)
 - [Ancient cosmic collisions may have birthed the universe&#39;s most monstrous galaxies](https://www.space.com/giant-galaxies-growth-elliptical)
 - [Kennedy Space Center viewing gantry gaining rocket engine test sim in 2025](https://www.space.com/gantry-lc-39-kennedy-space-center-visitor-complex)
-- [See the moon cozy up to Saturn during &#39;conjunction&#39; today](https://www.space.com/stargazing/see-the-moon-cozy-up-to-saturn-during-conjunction-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
