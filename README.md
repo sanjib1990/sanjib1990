@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kennedy Space Center viewing gantry gaining rocket engine test sim in 2025](https://www.space.com/gantry-lc-39-kennedy-space-center-visitor-complex)
 - [See the moon cozy up to Saturn during &#39;conjunction&#39; today](https://www.space.com/stargazing/see-the-moon-cozy-up-to-saturn-during-conjunction-today)
 - [SpaceX launches 23 Starlink internet satellites from Florida &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-starlink-internet-satellites-from-florida)
 - [Google says its new AI model outperforms the top weather forecast system](https://techcrunch.com/2024/12/07/google-says-its-new-ai-model-outperforms-the-top-weather-forecast-system/)
 - [OpenAI bets you’ll pay $200 a month for ChatGPT](https://techcrunch.com/2024/12/07/openai-bets-youll-pay-200-a-month-for-chatgpt/)
-- [Elon Musk’s X gains a new image generator, Aurora](https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
