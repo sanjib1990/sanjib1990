@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dimension raises $500M second fund for investing at the intersection tech and life sciences](https://techcrunch.com/2024/12/09/dimension-raises-500m-second-fund-for-investing-at-the-intersection-tech-and-life-sciences/)
-- [Are there hidden oceans inside the moons of Uranus? Their wobbles could tell us](https://www.space.com/the-universe/uranus/are-there-hidden-oceans-inside-the-moons-of-uranus-their-wobbles-could-tell-us)
-- [Sun unleashes surprise X-class solar flare triggering radio blackout over southern Africa &lpar;video&rpar;](https://www.space.com/the-universe/sun/sun-unleashes-impulsive-x-class-solar-flare-triggering-radio-blackout-over-southern-africa-video)
-- [A &#39;giant&#39; rising in the desert: World&#39;s largest telescope comes together &lpar;photo&rpar;](https://www.space.com/the-universe/a-giant-rising-in-the-desert-worlds-largest-telescope-comes-together-photo)
-- [Blue Yonder investigating data theft claims after ransomware gang takes credit for cyberattack](https://techcrunch.com/2024/12/09/blue-yonder-investigating-data-theft-claims-after-ransomware-gang-takes-credit-for-cyberattack/)
+- [YC-backed Zimi raises $2M to help international merchants easily sell in the U.S.](https://techcrunch.com/2024/12/09/yc-backed-zimi-raises-2m-to-help-international-merchants-easily-sell-in-the-u-s/)
+- [James Webb Space Telescope suggests &#39;new cosmic feature&#39; is needed to solve &#39;Hubble trouble&#39;](https://www.space.com/the-universe/james-webb-space-telescope-suggests-new-cosmic-feature-is-needed-to-solve-hubble-trouble)
+- [Reddit tests a conversational AI search tool](https://techcrunch.com/2024/12/09/reddit-tests-a-conversational-ai-search-tool/)
+- [The creator of ChatGPT’s voice wants to build the tech from “Her,” minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/)
+- [Geminid meteor shower peaks this week: Here&#39;s what to expect from the last big meteor shower of the year](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-peaks-this-week-heres-what-to-expect-from-the-last-big-meteor-shower-of-the-year)
 <!-- BLOG-POST-LIST:END -->
 
 ---
