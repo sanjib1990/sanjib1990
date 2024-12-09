@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YC-backed Zimi raises $2M to help international merchants easily sell in the U.S.](https://techcrunch.com/2024/12/09/yc-backed-zimi-raises-2m-to-help-international-merchants-easily-sell-in-the-u-s/)
-- [James Webb Space Telescope suggests &#39;new cosmic feature&#39; is needed to solve &#39;Hubble trouble&#39;](https://www.space.com/the-universe/james-webb-space-telescope-suggests-new-cosmic-feature-is-needed-to-solve-hubble-trouble)
-- [Reddit tests a conversational AI search tool](https://techcrunch.com/2024/12/09/reddit-tests-a-conversational-ai-search-tool/)
-- [The creator of ChatGPT’s voice wants to build the tech from “Her,” minus the dystopia](https://techcrunch.com/2024/12/09/the-creator-of-chatgpts-voice-wants-to-build-the-tech-from-her-minus-the-dystopia/)
-- [Geminid meteor shower peaks this week: Here&#39;s what to expect from the last big meteor shower of the year](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-peaks-this-week-heres-what-to-expect-from-the-last-big-meteor-shower-of-the-year)
+- [Riverside raises $30 million Series C to expand its podcast and video recording platform](https://techcrunch.com/2024/12/09/riverside-raises-30-million-series-c-to-expand-its-podcast-and-video-recording-platform/)
+- [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/)
+- [OpenAI’s Sora video generator might not be available in the EU at launch](https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/)
+- [ByteDance, TikTok ask appeals court to temporarily block sell-or-ban law](https://techcrunch.com/2024/12/09/bytedance-tiktok-ask-appeals-court-to-temporarily-block-sell-or-ban-law/)
+- [Troubled electric truckmaker Nikola offers up to $100 million in common stock](https://techcrunch.com/2024/12/09/troubled-electric-truckmaker-nikola-offers-up-to-100-million-in-common-stock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
