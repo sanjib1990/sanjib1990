@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s a Raspberry Pi 5 in a keyboard, and it’s called the Raspberry Pi 500](https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500/)
 - [Apple’s Vision Pro might add support for PlayStation VR controllers](https://techcrunch.com/2024/12/08/apples-vision-pro-might-add-support-for-playstation-vr-controllers/)
 - [UCLA offers comp lit course developed by AI](https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/)
 - [Apple sued over abandoning CSAM detection for iCloud](https://techcrunch.com/2024/12/08/apple-sued-over-abandoning-csam-detection-for-icloud/)
 - [Lead Edge is increasingly steering its 700+ investors away from VC deals](https://techcrunch.com/2024/12/08/more-than-700-people-have-given-lead-edge-5b-to-invest-as-it-moves-away-from-venture-deals/)
-- [Queer-founded brand discovery platform Famm launches a LinkedIn for the LGBTQ+ community](https://techcrunch.com/2024/12/08/queer-founded-brand-discovery-platform-famm-launches-a-linkedin-for-lgbtq-community/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
