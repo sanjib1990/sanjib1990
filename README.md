@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovery! Newfound exoplanet is 4th &#39;hot Neptune&#39; ever found](https://www.space.com/the-universe/exoplanets/discovery-newfound-exoplanet-is-4th-hot-neptune-ever-found)
 - [US medical device giant Artivion says hackers stole files during cybersecurity incident](https://techcrunch.com/2024/12/09/us-medical-device-giant-artivion-says-hackers-stole-files-during-cybersecurity-incident/)
 - [&#39;Silo&#39; Season 2: &#39;The Harmonium&#39;: Does Judge Meadows get her wish to go outside?](https://www.space.com/entertainment/silo-season-2-the-harmonium-does-judge-meadows-get-her-wish-to-go-outside)
 - [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/09/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
 - [Riverside raises $30 million Series C to expand its podcast and video recording platform](https://techcrunch.com/2024/12/09/riverside-raises-30-million-series-c-to-expand-its-podcast-and-video-recording-platform/)
-- [Connyct, an exclusive social media app for college students, emerges amid potential TikTok ban](https://techcrunch.com/2024/12/09/connyct-an-exclusive-social-media-app-for-college-students-emerges-amid-potential-tiktok-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
