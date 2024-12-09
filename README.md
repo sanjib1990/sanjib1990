@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not all stars with black hole companions die gruesome deaths, scientists say](https://www.space.com/death-black-hole-star-binary)
 - [OpenAI’s Sora video generator is launching for ChatGPT Pro and Plus subscribers — but not in the EU](https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/)
 - [Predicting future floods: New AI tool gives realistic satellite-like views](https://www.space.com/space-exploration/tech/predicting-future-floods-new-ai-tool-gives-realistic-satellite-like-views)
 - [Bluesky teases paid subscription, Bluesky+, in new mockup](https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/)
 - [Ukraine says Russian hackers are targeting country’s defense contractors](https://techcrunch.com/2024/12/09/ukraine-says-russian-hackers-are-targeting-countrys-defense-contractors/)
-- [OpenAI’s Sora is launching today — here are highlights from the first review](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
