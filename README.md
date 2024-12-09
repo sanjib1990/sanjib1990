@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovery! Newfound exoplanet is 4th &#39;hot Neptune&#39; ever found](https://www.space.com/the-universe/exoplanets/discovery-newfound-exoplanet-is-4th-hot-neptune-ever-found)
-- [US medical device giant Artivion says hackers stole files during cybersecurity incident](https://techcrunch.com/2024/12/09/us-medical-device-giant-artivion-says-hackers-stole-files-during-cybersecurity-incident/)
-- [&#39;Silo&#39; Season 2: &#39;The Harmonium&#39;: Does Judge Meadows get her wish to go outside?](https://www.space.com/entertainment/silo-season-2-the-harmonium-does-judge-meadows-get-her-wish-to-go-outside)
-- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/09/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
-- [Riverside raises $30 million Series C to expand its podcast and video recording platform](https://techcrunch.com/2024/12/09/riverside-raises-30-million-series-c-to-expand-its-podcast-and-video-recording-platform/)
+- [OpenAI’s Sora video generator is launching for ChatGPT Pro and Plus subscribers — but not in the EU](https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/)
+- [Predicting future floods: New AI tool gives realistic satellite-like views](https://www.space.com/space-exploration/tech/predicting-future-floods-new-ai-tool-gives-realistic-satellite-like-views)
+- [Bluesky teases paid subscription, Bluesky+, in new mockup](https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/)
+- [Ukraine says Russian hackers are targeting country’s defense contractors](https://techcrunch.com/2024/12/09/ukraine-says-russian-hackers-are-targeting-countrys-defense-contractors/)
+- [OpenAI’s Sora is launching today — here are highlights from the first review](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
