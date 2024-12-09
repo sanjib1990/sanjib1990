@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dimension raises $500M second fund for investing at the intersection tech and life sciences](https://techcrunch.com/2024/12/09/dimension-raises-500m-second-fund-for-investing-at-the-intersection-tech-and-life-sciences/)
+- [Are there hidden oceans inside the moons of Uranus? Their wobbles could tell us](https://www.space.com/the-universe/uranus/are-there-hidden-oceans-inside-the-moons-of-uranus-their-wobbles-could-tell-us)
+- [Sun unleashes surprise X-class solar flare triggering radio blackout over southern Africa &lpar;video&rpar;](https://www.space.com/the-universe/sun/sun-unleashes-impulsive-x-class-solar-flare-triggering-radio-blackout-over-southern-africa-video)
 - [A &#39;giant&#39; rising in the desert: World&#39;s largest telescope comes together &lpar;photo&rpar;](https://www.space.com/the-universe/a-giant-rising-in-the-desert-worlds-largest-telescope-comes-together-photo)
 - [Blue Yonder investigating data theft claims after ransomware gang takes credit for cyberattack](https://techcrunch.com/2024/12/09/blue-yonder-investigating-data-theft-claims-after-ransomware-gang-takes-credit-for-cyberattack/)
-- [It’s a Raspberry Pi 5 in a keyboard, and it’s called the Raspberry Pi 500](https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500/)
-- [Apple’s Vision Pro might add support for PlayStation VR controllers](https://techcrunch.com/2024/12/08/apples-vision-pro-might-add-support-for-playstation-vr-controllers/)
-- [UCLA offers comp lit course developed by AI](https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
