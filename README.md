@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hubble Telescope gets closest-ever look at a quasar, sees &#39;weird things&#39;](https://www.space.com/hubble-quasar-black-hole-3C273)
-- [The moon&#39;s oldest crater is super round - and that&#39;s great news for NASA&#39;s Artemis astronauts](https://www.space.com/the-universe/moon/the-shape-of-the-moons-oldest-crater-could-impact-nasas-artemis-missions-heres-how)
-- [Fisker resolves federal safety investigation into rollaway risk](https://techcrunch.com/2024/12/09/fisker-resolves-federal-safety-investigation-into-rollaway-risk/)
-- [Why OpenAI is only letting some Sora users create videos of real people](https://techcrunch.com/2024/12/09/openai-is-only-letting-some-sora-users-create-videos-of-real-people/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/12/09/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [An explosive new &#39;Star Trek: Section 31&#39; trailer just dropped and now we can&#39;t wait until 2025 &lpar;video&rpar;](https://www.space.com/entertainment/an-explosive-new-star-trek-section-31-trailer-just-dropped-and-now-we-cant-wait-until-2025-video)
+- [OpenAI Startup Fund raises $44M in its largest SPV yet](https://techcrunch.com/2024/12/09/openai-startup-fund-raises-44m-in-its-largest-spv-yet/)
+- [FTC distributes $72M to Fortnite customers tricked into making unwanted purchases](https://techcrunch.com/2024/12/09/ftc-distributes-72m-to-fortnite-customers-tricked-into-making-unwanted-purchases/)
+- [Spotify has disabled Car Thing streaming devices](https://techcrunch.com/2024/12/09/spotify-car-thing-units-are-officially-disabled/)
+- [SpaceX test-fires Super Heavy booster for 7th Starship launch &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-super-heavy-booster-for-7th-starship-launch-video-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
