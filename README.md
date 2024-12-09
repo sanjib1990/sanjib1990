@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Space: A new world](https://techcrunch.com/2024/12/09/techcrunch-space-a-new-world/)
+- [Amazon forms a new AI agent-focused lab led by Adept co-founder](https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/)
 - [An explosive new &#39;Star Trek: Section 31&#39; trailer just dropped and now we can&#39;t wait until 2025 &lpar;video&rpar;](https://www.space.com/entertainment/an-explosive-new-star-trek-section-31-trailer-just-dropped-and-now-we-cant-wait-until-2025-video)
 - [OpenAI Startup Fund raises $44M in its largest SPV yet](https://techcrunch.com/2024/12/09/openai-startup-fund-raises-44m-in-its-largest-spv-yet/)
 - [FTC distributes $72M to Fortnite customers tricked into making unwanted purchases](https://techcrunch.com/2024/12/09/ftc-distributes-72m-to-fortnite-customers-tricked-into-making-unwanted-purchases/)
-- [Spotify has disabled Car Thing streaming devices](https://techcrunch.com/2024/12/09/spotify-car-thing-units-are-officially-disabled/)
-- [SpaceX test-fires Super Heavy booster for 7th Starship launch &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-super-heavy-booster-for-7th-starship-launch-video-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
