@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The moon&#39;s oldest crater is super round - and that&#39;s great news for NASA&#39;s Artemis astronauts](https://www.space.com/the-universe/moon/the-shape-of-the-moons-oldest-crater-could-impact-nasas-artemis-missions-heres-how)
+- [Fisker resolves federal safety investigation into rollaway risk](https://techcrunch.com/2024/12/09/fisker-resolves-federal-safety-investigation-into-rollaway-risk/)
+- [Why OpenAI is only letting some Sora users create videos of real people](https://techcrunch.com/2024/12/09/openai-is-only-letting-some-sora-users-create-videos-of-real-people/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/12/09/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Not all stars with black hole companions die gruesome deaths, scientists say](https://www.space.com/death-black-hole-star-binary)
-- [OpenAI’s Sora video generator is launching for ChatGPT Pro and Plus subscribers — but not in the EU](https://techcrunch.com/2024/12/09/openais-sora-video-generator-might-not-be-available-in-the-eu-at-launch/)
-- [Predicting future floods: New AI tool gives realistic satellite-like views](https://www.space.com/space-exploration/tech/predicting-future-floods-new-ai-tool-gives-realistic-satellite-like-views)
-- [Bluesky teases paid subscription, Bluesky+, in new mockup](https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/)
-- [Ukraine says Russian hackers are targeting country’s defense contractors](https://techcrunch.com/2024/12/09/ukraine-says-russian-hackers-are-targeting-countrys-defense-contractors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
