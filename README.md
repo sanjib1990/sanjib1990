@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [who is this even for?? &lpar;Raspberry Pi 500&rpar;](https://www.youtube.com/watch?v=-49KVplIGDo)
+- [Computing just changed forever… but there’s a catch](https://www.youtube.com/watch?v=IJHrPjx4egM)
 - [How Path Tracing Makes Computer Graphics Look Awesome - Computerphile](https://www.youtube.com/watch?v=3OKj0SQ_UTw)
 - [I built a phone system because no one answers me](https://www.youtube.com/watch?v=fdM1V98iIQI)
 - [Sam Altman&#39;s new $200 ChatGPT has a big Elon problem...](https://www.youtube.com/watch?v=Sf4WqHBCYSY)
-- [Which Network Doesn’t Belong?](https://www.youtube.com/watch?v=XycW6U32h20)
-- [the BEST home automation use case](https://www.youtube.com/watch?v=1gZm_fp2JB0)
 <!-- YOUTUBE:END -->
 
 ---
