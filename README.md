@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon is officially in the online car sales business](https://techcrunch.com/2024/12/10/amazon-is-officially-in-the-online-car-sales-business/)
-- [Cohesity completes its merger with Veritas; here’s how they’ll integrate](https://techcrunch.com/2024/12/10/cohesity-completes-its-merger-with-veritas-heres-how-theyll-integrate/)
-- [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/)
-- [Geminid meteor shower fills the sky with &#39;shooting stars&#39; in spectacular time-lapse photos](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-fills-the-sky-with-shooting-stars-in-spectacular-time-lapse-photos)
-- [TeamViewer buys 1E, which detects PC software problems, for $720M](https://techcrunch.com/2024/12/10/1e-which-detects-pc-software-problems-acquired-by-germanys-teamviewer-for-720m/)
+- [TikTok’s e-commerce ‘Shop’ platform launches in Spain](https://techcrunch.com/2024/12/10/tiktoks-e-commerce-shop-platform-launches-in-spain/)
+- [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/)
+- [Duolingo teams up with Netflix to help ‘Squid Game’ fans learn Korean](https://techcrunch.com/2024/12/10/duolingo-teams-up-with-netflix-to-help-squid-game-fans-learn-korean/)
+- [Learn how Pike and Number One met at Starfleet Academy in &#39;Star Trek: Strange New Worlds: Asylum&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/find-out-how-pike-and-una-met-at-starfleet-academy-in-star-trek-strange-new-worlds-asylum-exclusive)
+- [Lucid Motors’ Gravity SUV nabs 450-mile EPA range estimate](https://techcrunch.com/2024/12/10/lucid-motors-gravity-suv-nabs-450-mile-epa-range-estimate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
