@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s how OpenAI’s fresh new Sora interface looks](https://techcrunch.com/video/heres-how-openais-fresh-new-sora-interface-looks/)
+- [100th woman in space, Emily Calandrelli, stands up to &#39;small men&#39; on the internet: &#39;I should have expected this.&#39;](https://www.space.com/space-exploration/human-spaceflight/100th-woman-in-space-emily-calandrelli-stands-up-to-small-men-on-the-internet-i-should-have-expected-this)
+- [Blue Origin says New Glenn on track to launch before end of 2024](https://techcrunch.com/2024/12/09/blue-origin-says-new-glenn-on-track-to-launch-before-end-of-2024/)
 - [TechCrunch Space: A new world](https://techcrunch.com/2024/12/09/techcrunch-space-a-new-world/)
 - [Amazon forms a new AI agent-focused lab led by Adept co-founder](https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/)
-- [An explosive new &#39;Star Trek: Section 31&#39; trailer just dropped and now we can&#39;t wait until 2025 &lpar;video&rpar;](https://www.space.com/entertainment/an-explosive-new-star-trek-section-31-trailer-just-dropped-and-now-we-cant-wait-until-2025-video)
-- [OpenAI Startup Fund raises $44M in its largest SPV yet](https://techcrunch.com/2024/12/09/openai-startup-fund-raises-44m-in-its-largest-spv-yet/)
-- [FTC distributes $72M to Fortnite customers tricked into making unwanted purchases](https://techcrunch.com/2024/12/09/ftc-distributes-72m-to-fortnite-customers-tricked-into-making-unwanted-purchases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
