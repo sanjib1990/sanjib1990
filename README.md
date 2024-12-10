@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Large Hadron Collider finds 1st evidence of the heaviest antimatter particle yet](https://www.space.com/lhc-alice-antimatter-first-hyperhelium4)
+- [HarperCollins CEO touts Spotify’s audiobooks entry, AI’s impact on publishing](https://techcrunch.com/2024/12/10/harpercollins-ceo-touts-spotifys-audiobooks-entry-ais-impact-on-publishing/)
+- [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/)
 - [SpaceX rocket launch tops the Christmas tree at Vandenberg Space Force Base &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-tops-the-christmas-tree-at-vandenberg-space-force-base-photo)
-- [A new disclosure shows, again, how badly Tiger’s ‘pray and spray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/)
-- [US sanctions Chinese cybersecurity firm for firewall hacks targeting critical infrastructure](https://techcrunch.com/2024/12/10/us-sanctions-chinese-cybersecurity-firm-for-firewall-hacks-targeting-critical-infrastructure/)
-- [Cosmic rays may complicate the quest to find life on Mars](https://www.space.com/the-universe/mars/cosmic-rays-may-complicate-the-quest-to-find-life-on-mars)
-- [Phhhoto’s antitrust claim against Meta is heading back to the courts](https://techcrunch.com/2024/12/10/phhhotos-antitrust-claim-against-meta-is-heading-back-to-the-courts/)
+- [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
