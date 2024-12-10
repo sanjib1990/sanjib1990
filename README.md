@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs’ AI voice generation ‘very likely’ used in a Russian influence operation](https://techcrunch.com/2024/12/10/elevenlabs-ai-voice-generation-very-likely-used-in-a-russian-influence-operation/)
 - [Rocket Lab&#39;s secretive launch last month was a hypersonic test for the US military &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-labs-secretive-launch-last-month-was-a-hypersonic-test-for-the-us-military-photos)
 - [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/)
 - [YouTube’s new auto-dubbing feature is now available for knowledge-focused content](https://techcrunch.com/2024/12/10/youtubes-new-auto-dubbing-feature-is-now-available-for-knowledge-focused-content/)
 - [GM is giving up on Cruise robotaxis, pivots to personal autonomous vehicles](https://techcrunch.com/2024/12/10/gm-is-giving-up-on-cruise-robotaxis-pivots-to-personal-autonomous-vehicles/)
-- [Sunny days on Mars come with a weather warning: Dust storms ahead!](https://www.space.com/the-universe/mars/sunny-days-on-mars-come-with-a-weather-warning-dust-storms-ahead)
 <!-- BLOG-POST-LIST:END -->
 
 ---
