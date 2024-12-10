@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is testing multiplayer mini-games](https://techcrunch.com/2024/12/10/youtube-is-testing-multiplayer-mini-games/)
+- [Software testing platform LambdaTest secures $38 million for AI push](https://techcrunch.com/2024/12/10/software-testing-platform-lambdatest-secures-38-million-in-ai-push/)
+- [James Webb Space Telescope finds smallest asteroids ever seen between Mars and Jupiter](https://www.space.com/the-universe/asteroids/james-webb-space-telescope-finds-smallest-asteroids-ever-seen-between-mars-and-jupiter)
+- [&#39;Dune: Prophecy:&#39; &#39;Twice Born:&#39; Plans go awry, people die, and what&#39;s behind those blue eyes?](https://www.space.com/entertainment/dune-prophecy-twice-born-plans-go-awry-people-die-and-whats-behind-those-blue-eyes)
 - [Amazon pilots quick commerce service in India](https://techcrunch.com/2024/12/10/amazon-pilots-quick-commerce-service-in-india/)
-- [From Liam Payne to Crowdstrike, here are the top trending searches for 2024, according to Google](https://techcrunch.com/2024/12/10/from-liam-payne-to-coastal-granddaughters-here-are-the-top-trending-searches-for-2024-according-to-google/)
-- [E-commerce marketplace platform Mirakl acquires ad optimization startup Adspert](https://techcrunch.com/2024/12/10/e-commerce-marketplace-platform-mirakl-acquires-ad-optimization-startup-adspert/)
-- [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/)
-- [A test for AGI is closer to being solved — but it may be flawed](https://techcrunch.com/2024/12/09/a-test-for-agi-is-closer-to-being-solved-but-it-may-be-flawed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
