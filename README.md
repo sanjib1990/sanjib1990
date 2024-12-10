@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunny days on Mars come with a weather warning: Dust storms ahead!](https://www.space.com/the-universe/mars/sunny-days-on-mars-come-with-a-weather-warning-dust-storms-ahead)
 - [Large Hadron Collider finds 1st evidence of the heaviest antimatter particle yet](https://www.space.com/lhc-alice-antimatter-first-hyperhelium4)
 - [HarperCollins CEO touts Spotify’s audiobooks entry, AI’s impact on publishing](https://techcrunch.com/2024/12/10/harpercollins-ceo-touts-spotifys-audiobooks-entry-ais-impact-on-publishing/)
 - [Google says its new quantum chip indicates that multiple universes exist](https://techcrunch.com/2024/12/10/google-says-its-new-quantum-chip-indicates-that-multiple-universes-exist/)
 - [SpaceX rocket launch tops the Christmas tree at Vandenberg Space Force Base &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-tops-the-christmas-tree-at-vandenberg-space-force-base-photo)
-- [A new disclosure shows, again, how badly Tiger’s ‘spray and pray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
