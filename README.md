@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Path Tracing Makes Computer Graphics Look Awesome - Computerphile](https://www.youtube.com/watch?v=3OKj0SQ_UTw)
 - [I built a phone system because no one answers me](https://www.youtube.com/watch?v=fdM1V98iIQI)
 - [Sam Altman&#39;s new $200 ChatGPT has a big Elon problem...](https://www.youtube.com/watch?v=Sf4WqHBCYSY)
 - [Which Network Doesn’t Belong?](https://www.youtube.com/watch?v=XycW6U32h20)
 - [the BEST home automation use case](https://www.youtube.com/watch?v=1gZm_fp2JB0)
-- [How opening learning can close knowledge gaps with June Odongo: An Open Conversation](https://www.youtube.com/watch?v=aqFgemQnKKo)
 <!-- YOUTUBE:END -->
 
 ---
