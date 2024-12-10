@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Phhhoto’s antitrust claim against Meta is heading back to the courts](https://techcrunch.com/2024/12/10/phhhotos-antitrust-claim-against-meta-is-heading-back-to-the-courts/)
+- [US Senator announces new bill to secure telecom companies in wake of Chinese hacks](https://techcrunch.com/2024/12/10/us-senator-announces-new-bill-to-secure-telecom-companies-in-wake-of-chinese-hacks/)
+- [CarDekho SEA raises first-ever outside funding, co-founder says he’s interested in acquisitions](https://techcrunch.com/2024/12/10/cardekho-sea-raises-first-ever-outside-funding-ceo-says-hes-interested-in-acquisitions/)
+- [Google kicks off $20B renewable energy building spree to power AI](https://techcrunch.com/2024/12/10/google-kicks-off-20b-renewable-energy-building-spree-to-power-ai/)
 - [Instagram rolls out ‘trial reels’ that aren’t shown to a creator’s followers](https://techcrunch.com/2024/12/10/instagram-rolls-out-trial-reels-that-arent-shown-to-a-creators-followers/)
-- [NASA tests high-tech software for future mission to search for life on Jupiter&#39;s moon Europa](https://www.space.com/the-universe/jupiter/nasa-tests-high-tech-software-for-future-mission-to-search-for-life-on-jupiters-moon-europa)
-- [San Francisco is the most prepared city for new transportation tech](https://techcrunch.com/2024/12/10/san-francisco-is-the-most-prepared-city-for-new-transportation-tech/)
-- [TikTok’s e-commerce ‘Shop’ platform launches in Spain](https://techcrunch.com/2024/12/10/tiktoks-e-commerce-shop-platform-launches-in-spain/)
-- [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
