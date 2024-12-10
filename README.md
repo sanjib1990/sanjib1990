@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rocket launch tops the Christmas tree at Vandenberg Space Force Base &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-tops-the-christmas-tree-at-vandenberg-space-force-base-photo)
+- [A new disclosure shows, again, how badly Tiger’s ‘pray and spray’ fund performed](https://techcrunch.com/2024/12/10/a-new-disclosure-shows-again-how-badly-tigers-pray-and-spray-fund-performed/)
+- [US sanctions Chinese cybersecurity firm for firewall hacks targeting critical infrastructure](https://techcrunch.com/2024/12/10/us-sanctions-chinese-cybersecurity-firm-for-firewall-hacks-targeting-critical-infrastructure/)
 - [Cosmic rays may complicate the quest to find life on Mars](https://www.space.com/the-universe/mars/cosmic-rays-may-complicate-the-quest-to-find-life-on-mars)
 - [Phhhoto’s antitrust claim against Meta is heading back to the courts](https://techcrunch.com/2024/12/10/phhhotos-antitrust-claim-against-meta-is-heading-back-to-the-courts/)
-- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/10/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
-- [How the &#39;Great Filter&#39; could explain why we haven&#39;t found intelligent aliens](https://www.space.com/space-exploration/search-for-life/how-the-great-filter-could-explain-why-we-havent-found-intelligent-aliens)
-- [US Senator announces new bill to secure telecom companies in wake of Chinese hacks](https://techcrunch.com/2024/12/10/us-senator-announces-new-bill-to-secure-telecom-companies-in-wake-of-chinese-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
