@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Automattic acquires WPAI, a startup that creates AI solutions for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/)
+- [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/)
 - [A test for AGI is closer to being solved — but it may be flawed](https://techcrunch.com/2024/12/09/a-test-for-agi-is-closer-to-being-solved-but-it-may-be-flawed/)
 - [Here’s how OpenAI’s fresh new Sora interface looks](https://techcrunch.com/video/heres-how-openais-fresh-new-sora-interface-looks/)
 - [100th woman in space, Emily Calandrelli, stands up to &#39;small men&#39; on the internet: &#39;I should have expected this.&#39;](https://www.space.com/space-exploration/human-spaceflight/100th-woman-in-space-emily-calandrelli-stands-up-to-small-men-on-the-internet-i-should-have-expected-this)
