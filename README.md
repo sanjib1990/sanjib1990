@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A test for AGI is closer to being solved — but it may be flawed](https://techcrunch.com/2024/12/09/a-test-for-agi-is-closer-to-being-solved-but-it-may-be-flawed/)
 - [Here’s how OpenAI’s fresh new Sora interface looks](https://techcrunch.com/video/heres-how-openais-fresh-new-sora-interface-looks/)
 - [100th woman in space, Emily Calandrelli, stands up to &#39;small men&#39; on the internet: &#39;I should have expected this.&#39;](https://www.space.com/space-exploration/human-spaceflight/100th-woman-in-space-emily-calandrelli-stands-up-to-small-men-on-the-internet-i-should-have-expected-this)
 - [Blue Origin says New Glenn on track to launch before end of 2024](https://techcrunch.com/2024/12/09/blue-origin-says-new-glenn-on-track-to-launch-before-end-of-2024/)
 - [TechCrunch Space: A new world](https://techcrunch.com/2024/12/09/techcrunch-space-a-new-world/)
-- [Amazon forms a new AI agent-focused lab led by Adept co-founder](https://techcrunch.com/2024/12/09/amazon-forms-a-new-ai-agent-focused-lab-led-by-adept-co-founder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
