@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram rolls out ‘trial reels’ that aren’t shown to a creator’s followers](https://techcrunch.com/2024/12/10/instagram-rolls-out-trial-reels-that-arent-shown-to-a-creators-followers/)
+- [NASA tests high-tech software for future mission to search for life on Jupiter&#39;s moon Europa](https://www.space.com/the-universe/jupiter/nasa-tests-high-tech-software-for-future-mission-to-search-for-life-on-jupiters-moon-europa)
+- [San Francisco is the most prepared city for new transportation tech](https://techcrunch.com/2024/12/10/san-francisco-is-the-most-prepared-city-for-new-transportation-tech/)
 - [TikTok’s e-commerce ‘Shop’ platform launches in Spain](https://techcrunch.com/2024/12/10/tiktoks-e-commerce-shop-platform-launches-in-spain/)
 - [Stainless helps build SDKs for OpenAI, Anthropic, and Meta](https://techcrunch.com/2024/12/10/stainless-helps-build-sdks-for-openai-anthropic-and-meta/)
-- [Duolingo teams up with Netflix to help ‘Squid Game’ fans learn Korean](https://techcrunch.com/2024/12/10/duolingo-teams-up-with-netflix-to-help-squid-game-fans-learn-korean/)
-- [Learn how Pike and Number One met at Starfleet Academy in &#39;Star Trek: Strange New Worlds: Asylum&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/find-out-how-pike-and-una-met-at-starfleet-academy-in-star-trek-strange-new-worlds-asylum-exclusive)
-- [Lucid Motors’ Gravity SUV nabs 450-mile EPA range estimate](https://techcrunch.com/2024/12/10/lucid-motors-gravity-suv-nabs-450-mile-epa-range-estimate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
