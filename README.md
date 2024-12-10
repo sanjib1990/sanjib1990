@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yelp adds AI-powered review insights to restaurants](https://techcrunch.com/2024/12/10/yelp-adds-ai-powered-review-insights-to-restaurants/)
+- [Hackers are exploiting a flaw in popular file-transfer tools to launch mass hacks, again](https://techcrunch.com/2024/12/10/hackers-are-exploiting-a-flaw-in-popular-file-transfer-tools-to-launch-mass-hacks-again/)
+- [EU’s data protection supervisor reviewing Microsoft 365 report](https://techcrunch.com/2024/12/10/eus-data-protection-supervisor-reviewing-microsoft-365-report/)
+- [Aqemia raises $38M to find new drugs by meshing theoretical physics with GenAI](https://techcrunch.com/2024/12/10/aqemia-raises-38m-to-find-new-drugs-by-meshing-theoretical-physics-with-genai/)
 - [YouTube is testing multiplayer mini-games](https://techcrunch.com/2024/12/10/youtube-is-testing-multiplayer-mini-games/)
-- [Software testing platform LambdaTest secures $38 million for AI push](https://techcrunch.com/2024/12/10/software-testing-platform-lambdatest-secures-38-million-in-ai-push/)
-- [James Webb Space Telescope finds smallest asteroids ever seen between Mars and Jupiter](https://www.space.com/the-universe/asteroids/james-webb-space-telescope-finds-smallest-asteroids-ever-seen-between-mars-and-jupiter)
-- [&#39;Dune: Prophecy:&#39; &#39;Twice Born:&#39; Plans go awry, people die, and what&#39;s behind those blue eyes?](https://www.space.com/entertainment/dune-prophecy-twice-born-plans-go-awry-people-die-and-whats-behind-those-blue-eyes)
-- [Amazon pilots quick commerce service in India](https://techcrunch.com/2024/12/10/amazon-pilots-quick-commerce-service-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
