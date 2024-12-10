@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From Liam Payne to Coastal Granddaughters, here are the top trending searches for 2024, according to Google](https://techcrunch.com/2024/12/10/from-liam-payne-to-coastal-granddaughters-here-are-the-top-trending-searches-for-2024-according-to-google/)
+- [Amazon pilots quick commerce service in India](https://techcrunch.com/2024/12/10/amazon-pilots-quick-commerce-service-in-india/)
+- [From Liam Payne to Crowdstrike, here are the top trending searches for 2024, according to Google](https://techcrunch.com/2024/12/10/from-liam-payne-to-coastal-granddaughters-here-are-the-top-trending-searches-for-2024-according-to-google/)
 - [E-commerce marketplace platform Mirakl acquires ad optimization startup Adspert](https://techcrunch.com/2024/12/10/e-commerce-marketplace-platform-mirakl-acquires-ad-optimization-startup-adspert/)
 - [Automattic acquires WPAI, a startup that makes AI products for WordPress](https://techcrunch.com/2024/12/09/automattic-acquires-wpai-a-startup-that-creates-ai-solutions-for-wordpress/)
 - [A test for AGI is closer to being solved — but it may be flawed](https://techcrunch.com/2024/12/09/a-test-for-agi-is-closer-to-being-solved-but-it-may-be-flawed/)
-- [Here’s how OpenAI’s fresh new Sora interface looks](https://techcrunch.com/video/heres-how-openais-fresh-new-sora-interface-looks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
