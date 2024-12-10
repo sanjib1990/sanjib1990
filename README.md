@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU cybersecurity rules for smart devices enter into force](https://techcrunch.com/2024/12/10/eu-cybersecurity-rules-for-smart-devices-enter-into-force/)
+- [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/)
+- [Extremely rare, black &#39;anti-auroras&#39; paint luminous &#39;letter E&#39; above Alaska](https://www.space.com/stargazing/aurora-borealis/extremely-rare-black-anti-auroras-paint-luminous-letter-e-above-alaska)
 - [Yelp adds AI-powered review insights to restaurants](https://techcrunch.com/2024/12/10/yelp-adds-ai-powered-review-insights-to-restaurants/)
 - [Hackers are exploiting a flaw in popular file-transfer tools to launch mass hacks, again](https://techcrunch.com/2024/12/10/hackers-are-exploiting-a-flaw-in-popular-file-transfer-tools-to-launch-mass-hacks-again/)
-- [EU’s data protection supervisor reviewing Microsoft 365 report](https://techcrunch.com/2024/12/10/eus-data-protection-supervisor-reviewing-microsoft-365-report/)
-- [Aqemia raises $38M to find new drugs by meshing theoretical physics with GenAI](https://techcrunch.com/2024/12/10/aqemia-raises-38m-to-find-new-drugs-by-meshing-theoretical-physics-with-genai/)
-- [YouTube is testing multiplayer mini-games](https://techcrunch.com/2024/12/10/youtube-is-testing-multiplayer-mini-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
