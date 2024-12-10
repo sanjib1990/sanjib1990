@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EU cybersecurity rules for smart devices enter into force](https://techcrunch.com/2024/12/10/eu-cybersecurity-rules-for-smart-devices-enter-into-force/)
-- [Nexalus has a new method for liquid-cooling data centers that could make the waste heat useful](https://techcrunch.com/2024/12/10/nexalus-has-a-new-method-for-liquid-cooling-data-centers-that-could-make-the-waste-heat-useful/)
-- [Extremely rare, black &#39;anti-auroras&#39; paint luminous &#39;letter E&#39; above Alaska](https://www.space.com/stargazing/aurora-borealis/extremely-rare-black-anti-auroras-paint-luminous-letter-e-above-alaska)
-- [Yelp adds AI-powered review insights to restaurants](https://techcrunch.com/2024/12/10/yelp-adds-ai-powered-review-insights-to-restaurants/)
-- [Hackers are exploiting a flaw in popular file-transfer tools to launch mass hacks, again](https://techcrunch.com/2024/12/10/hackers-are-exploiting-a-flaw-in-popular-file-transfer-tools-to-launch-mass-hacks-again/)
+- [Amazon is officially in the online car sales business](https://techcrunch.com/2024/12/10/amazon-is-officially-in-the-online-car-sales-business/)
+- [Cohesity completes its merger with Veritas; here’s how they’ll integrate](https://techcrunch.com/2024/12/10/cohesity-completes-its-merger-with-veritas-heres-how-theyll-integrate/)
+- [A new wave of desalination startups argues that deeper is better](https://techcrunch.com/2024/12/10/a-new-wave-of-desalination-startups-argues-that-deeper-is-better/)
+- [Geminid meteor shower fills the sky with &#39;shooting stars&#39; in spectacular time-lapse photos](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-fills-the-sky-with-shooting-stars-in-spectacular-time-lapse-photos)
+- [TeamViewer buys 1E, which detects PC software problems, for $720M](https://techcrunch.com/2024/12/10/1e-which-detects-pc-software-problems-acquired-by-germanys-teamviewer-for-720m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
