@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lina Khan’s FTC era ends; Andrew Ferguson named chair](https://techcrunch.com/2024/12/10/lina-khans-ftc-era-ends-andrew-ferguson-named-chair/)
 - [Court orders Mullenweg and Automattic to restore WP Engine’s access to WordPress.org](https://techcrunch.com/2024/12/10/court-orders-mullenweg-and-automattic-to-restore-wp-engines-access-to-wordpress-org/)
 - [Cruise employees ‘blindsided’ by GM’s plan to end robotaxi program](https://techcrunch.com/2024/12/10/cruise-employees-blindsided-by-gms-plan-to-end-robotaxi-program/)
 - [ElevenLabs’ AI voice generation ‘very likely’ used in a Russian influence operation](https://techcrunch.com/2024/12/10/elevenlabs-ai-voice-generation-very-likely-used-in-a-russian-influence-operation/)
 - [Rocket Lab&#39;s secretive launch last month was a hypersonic test for the US military &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/rocket-labs-secretive-launch-last-month-was-a-hypersonic-test-for-the-us-military-photos)
-- [Joby launches $300M public offering ahead of 2025 commercial eVTOL release](https://techcrunch.com/2024/12/10/joby-launches-200m-public-offering-ahead-of-2025-commercial-evtol-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
