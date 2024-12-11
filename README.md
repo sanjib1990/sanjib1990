@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pentagon doesn’t know where mystery drones over New Jersey come from](https://techcrunch.com/2024/12/11/pentagon-doesnt-know-where-mystery-drones-over-new-jersey-come-from/)
-- [&#39;We are preparing to make history:&#39; NASA&#39;s Parker Solar Probe gears up for epic sun flyby on Christmas Eve](https://www.space.com/the-universe/sun/we-are-preparing-to-make-history-nasas-parker-solar-probe-gears-up-for-epic-sun-flyby-on-christmas-eve)
-- [Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round](https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-100m-valuation-seed-round/)
-- [Cruise employees ‘blindsided’ by GM’s plan to end robotaxi program](https://techcrunch.com/2024/12/11/cruise-employees-blindsided-by-gms-plan-to-end-robotaxi-program/)
-- [Microsoft begins testing the ability to share files between iPhones and Windows PCs](https://techcrunch.com/2024/12/11/microsoft-begins-testing-the-ability-to-share-files-between-iphones-and-windows-pcs/)
+- [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/)
+- [Japanese company ispace plans to land helium-3 mining missions on the moon](https://www.space.com/the-universe/moon/japanese-company-ispace-plans-to-land-helium-3-mining-missions-on-the-moon)
+- [Hyundai’s electric air taxi startup Supernal is moving its HQ from DC to California](https://techcrunch.com/2024/12/11/hyundais-electric-air-taxi-startup-supernal-is-moving-its-hq-from-dc-to-california/)
+- [Honda cuts funding to robotaxi venture with Cruise and GM in Japan](https://techcrunch.com/2024/12/11/honda-cuts-funding-to-robotaxi-venture-with-cruise-and-gm-in-japan/)
+- [SpaceX launch of NASA&#39;s new 3D-sky-mapping satellite set for February 2025](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-of-nasas-new-3d-sky-mapping-satellite-set-for-february-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
