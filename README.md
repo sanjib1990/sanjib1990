@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YC-backed Finny is using AI to match financial advisors with prospects](https://techcrunch.com/2024/12/11/yc-backed-finny-helps-financial-advisors-find-new-clients/)
-- [Reveal Technology raises $11M to scale ‘decision dominance’ tools for DOD](https://techcrunch.com/2024/12/11/reveal-technology-raises-11m-to-scale-decision-dominance-tools-for-dod/)
-- [Electrified Thermal Solutions has a plan to help industry replace natural gas with bricks](https://techcrunch.com/2024/12/11/electrified-thermal-solutions-has-a-plan-to-help-industry-replace-natural-gas-with-bricks/)
-- [&#39;MechWarrior 5: Clans&#39; offers the stompy robot fights you expect, and a surprisingly strong story that you probably don&#39;t](https://www.space.com/entertainment/space-games-toys/mechwarrior-5-clans-offers-the-stompy-robot-fights-you-expect-and-a-surprisingly-strong-story-that-you-probably-dont)
-- [Learn how to use Apple Intelligence’s ‘Image Playground’](https://techcrunch.com/2024/12/11/how-to-use-apple-intelligence-image-playground-feature/)
+- [200 VCs wanted to get into Lumen Orbit’s $11M seed round](https://techcrunch.com/2024/12/11/200-vcs-wanted-to-get-into-lumen-orbits-11m-seed-round/)
+- [&#39;Star Wars: Skeleton Crew&#39; episode 3: What&#39;s Jod Na Nawood&#39;s true identity?](https://www.space.com/entertainment/space-movies-shows/star-wars-skeleton-crew-episode-3-whats-jod-na-nawoods-true-identity)
+- [2 huge asteroid strikes 36 million years ago didn&#39;t change Earth&#39;s climate over the long haul, study finds](https://www.space.com/the-universe/asteroids/2-huge-asteroid-strikes-36-million-years-ago-didnt-change-earths-climate-over-the-long-haul-study-finds)
+- [Snapchat+ subscribers can now keep messages in a chat for a week](https://techcrunch.com/2024/12/11/snapchat-subscribers-can-now-keep-messages-in-a-chat-for-a-week/)
+- [Video app Kino, from maker of Halide, is Apple’s iPhone app of the year](https://techcrunch.com/2024/12/11/video-app-kino-from-maker-of-halide-is-apples-iphone-app-of-the-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
