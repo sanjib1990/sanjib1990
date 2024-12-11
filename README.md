@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [HongShan, Peak XV back stablecoin-powered neobank KAST](https://techcrunch.com/2024/12/11/kast-stablecoin-neobank-hongshan-peak-xv/)
+- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/12/10/wordpress-vs-wp-engine-drama-explained/)
 - [Lina Khan’s FTC era ends; Andrew Ferguson named chair](https://techcrunch.com/2024/12/10/lina-khans-ftc-era-ends-andrew-ferguson-named-chair/)
 - [Court orders Automattic to restore WP Engine’s access to WordPress.org](https://techcrunch.com/2024/12/10/court-orders-mullenweg-and-automattic-to-restore-wp-engines-access-to-wordpress-org/)
 - [Cruise employees ‘blindsided’ by GM’s plan to end robotaxi program](https://techcrunch.com/2024/12/10/cruise-employees-blindsided-by-gms-plan-to-end-robotaxi-program/)
-- [ElevenLabs’ AI voice generation ‘very likely’ used in a Russian influence operation](https://techcrunch.com/2024/12/10/elevenlabs-ai-voice-generation-very-likely-used-in-a-russian-influence-operation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
