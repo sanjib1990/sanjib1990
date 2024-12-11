@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [200 VCs wanted to get into Lumen Orbit’s $11M seed round](https://techcrunch.com/2024/12/11/200-vcs-wanted-to-get-into-lumen-orbits-11m-seed-round/)
-- [&#39;Star Wars: Skeleton Crew&#39; episode 3: What&#39;s Jod Na Nawood&#39;s true identity?](https://www.space.com/entertainment/space-movies-shows/star-wars-skeleton-crew-episode-3-whats-jod-na-nawoods-true-identity)
-- [2 huge asteroid strikes 36 million years ago didn&#39;t change Earth&#39;s climate over the long haul, study finds](https://www.space.com/the-universe/asteroids/2-huge-asteroid-strikes-36-million-years-ago-didnt-change-earths-climate-over-the-long-haul-study-finds)
-- [Snapchat+ subscribers can now keep messages in a chat for a week](https://techcrunch.com/2024/12/11/snapchat-subscribers-can-now-keep-messages-in-a-chat-for-a-week/)
-- [Video app Kino, from maker of Halide, is Apple’s iPhone app of the year](https://techcrunch.com/2024/12/11/video-app-kino-from-maker-of-halide-is-apples-iphone-app-of-the-year/)
+- [MariaDB spinout SkySQL secures seed funding to ‘bring conversational AI to databases’](https://techcrunch.com/2024/12/11/mariadb-spinout-skysql-secures-seed-funding-to-bring-conversational-ai-to-databases/)
+- [Russian government spies targeted Ukraine using tools developed by cybercriminals](https://techcrunch.com/2024/12/11/russian-government-spies-targeted-ukraine-using-tools-developed-by-cybercriminals/)
+- [Seismometers track atmospheric shock waves from incoming space debris](https://www.space.com/space-exploration/seismometers-track-atmospheric-shock-waves-from-incoming-space-debris)
+- [Bid to revive UK privacy damages suit against Google DeepMind fails to show class](https://techcrunch.com/2024/12/11/bid-to-revive-uk-privacy-damages-suit-against-google-deepmind-fails-to-show-class/)
+- [Apple reportedly developing AI server chip with Broadcom](https://techcrunch.com/2024/12/11/apple-reportedly-developing-ai-server-chip-with-broadcom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
