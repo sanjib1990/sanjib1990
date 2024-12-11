@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wonky row crops and &#39;possessed&#39; tractors: The surprising impact of solar storms on modern farming](https://www.space.com/the-universe/sun/wonky-row-crops-and-possessed-tractors-the-surprising-impact-of-solar-storms-on-modern-farming)
-- [After you check out your Spotify Wrapped, explore these copycats](https://techcrunch.com/2024/12/11/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
-- [Albert Invent hopes to revolutionize the chemicals sector with its AI platform](https://techcrunch.com/2024/12/11/albert-invent-hopes-to-revolutionize-the-chemicals-sector-with-its-ai-platform/)
-- [Carbon dioxide rivers? Ancient Mars&#39; liquid may not all have been water](https://www.space.com/the-universe/mars/carbon-dioxide-rivers-ancient-mars-liquid-may-not-all-have-been-water)
-- [Mynt raises a cool $23M on a $210M valuation to build a smarter expense card for SMEs](https://techcrunch.com/2024/12/11/mynt-raises-a-cool-23m-on-a-210m-valuation-to-build-a-smarter-expense-card-for-smes/)
+- [Mantel’s app lets collectors show off their sports cards and other treasures](https://techcrunch.com/2024/12/11/mantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasuresmantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasures/)
+- [YC-backed EzDubs is chasing consumer market for translation](https://techcrunch.com/2024/12/11/yc-backed-ezdubs-is-chasing-consumer-market-for-trasnaltion/)
+- [Flare raises $30M to thwart info-stealers like those used on Snowflake customers](https://techcrunch.com/2024/12/11/flare-raises-30m-to-thwart-info-stealers-like-those-used-on-snowflake-customers/)
+- [Numia’s software brings offline and online customer interaction data into one place](https://techcrunch.com/2024/12/11/numias-software-brings-offline-and-online-customer-interaction-data-into-one-place/)
+- [NASA will fly F-15s through supersonic shock waves behind its experimental X-57 jet](https://www.space.com/space-exploration/quesst/nasa-will-fly-f-15s-through-supersonic-shock-waves-behind-its-experimental-x-57-jet)
 <!-- BLOG-POST-LIST:END -->
 
 ---
