@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wonky row crops and &#39;possessed&#39; tractors: The surprising impact of solar storms on modern farming](https://www.space.com/the-universe/sun/wonky-row-crops-and-possessed-tractors-the-surprising-impact-of-solar-storms-on-modern-farming)
+- [After you check out your Spotify Wrapped, explore these copycats](https://techcrunch.com/2024/12/11/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/)
 - [Albert Invent hopes to revolutionize the chemicals sector with its AI platform](https://techcrunch.com/2024/12/11/albert-invent-hopes-to-revolutionize-the-chemicals-sector-with-its-ai-platform/)
 - [Carbon dioxide rivers? Ancient Mars&#39; liquid may not all have been water](https://www.space.com/the-universe/mars/carbon-dioxide-rivers-ancient-mars-liquid-may-not-all-have-been-water)
 - [Mynt raises a cool $23M on a $210M valuation to build a smarter expense card for SMEs](https://techcrunch.com/2024/12/11/mynt-raises-a-cool-23m-on-a-210m-valuation-to-build-a-smarter-expense-card-for-smes/)
-- [HongShan, Peak XV back stablecoin-powered neobank KAST](https://techcrunch.com/2024/12/11/kast-stablecoin-neobank-hongshan-peak-xv/)
-- [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/12/10/wordpress-vs-wp-engine-drama-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
