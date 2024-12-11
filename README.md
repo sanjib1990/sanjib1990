@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s how OpenAI uses your data when you use ChatGPT through Apple’s integrations](https://techcrunch.com/2024/12/11/heres-how-openai-uses-your-data-when-you-use-chatgpt-through-apples-integrations/)
+- [Stigg makes it easy to change your SaaS pricing](https://techcrunch.com/2024/12/11/stigg-makes-it-easy-to-change-your-saas-pricing/)
+- [Tom Hanks bringing &#39;The Moonwalkers&#39; to Houston for US premiere in 2025](https://www.space.com/the-moonwalkers-journey-tom-hanks-space-center-houston)
+- [After crashing on Mars, NASA&#39;s Ingenuity helicopter could live on as a weather station for 20 years](https://www.space.com/space-exploration/mars-rovers/after-crashing-on-mars-nasas-ingenuity-helicopter-could-live-on-as-a-weather-station-for-20-years)
 - [MariaDB spinout SkySQL secures seed funding to ‘bring conversational AI to databases’](https://techcrunch.com/2024/12/11/mariadb-spinout-skysql-secures-seed-funding-to-bring-conversational-ai-to-databases/)
-- [Russian government spies targeted Ukraine using tools developed by cybercriminals](https://techcrunch.com/2024/12/11/russian-government-spies-targeted-ukraine-using-tools-developed-by-cybercriminals/)
-- [Seismometers track atmospheric shock waves from incoming space debris](https://www.space.com/space-exploration/seismometers-track-atmospheric-shock-waves-from-incoming-space-debris)
-- [Bid to revive UK privacy damages suit against Google DeepMind fails to show class](https://techcrunch.com/2024/12/11/bid-to-revive-uk-privacy-damages-suit-against-google-deepmind-fails-to-show-class/)
-- [Apple reportedly developing AI server chip with Broadcom](https://techcrunch.com/2024/12/11/apple-reportedly-developing-ai-server-chip-with-broadcom/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
