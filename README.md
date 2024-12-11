@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mantel’s app lets collectors show off their sports cards and other treasures](https://techcrunch.com/2024/12/11/mantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasuresmantels-app-launches-for-collectors-to-show-off-their-sports-cards-and-other-treasures/)
-- [YC-backed EzDubs is chasing consumer market for translation](https://techcrunch.com/2024/12/11/yc-backed-ezdubs-is-chasing-consumer-market-for-trasnaltion/)
-- [Flare raises $30M to thwart info-stealers like those used on Snowflake customers](https://techcrunch.com/2024/12/11/flare-raises-30m-to-thwart-info-stealers-like-those-used-on-snowflake-customers/)
-- [Numia’s software brings offline and online customer interaction data into one place](https://techcrunch.com/2024/12/11/numias-software-brings-offline-and-online-customer-interaction-data-into-one-place/)
-- [NASA will fly F-15s through supersonic shock waves behind its experimental X-57 jet](https://www.space.com/space-exploration/quesst/nasa-will-fly-f-15s-through-supersonic-shock-waves-behind-its-experimental-x-57-jet)
+- [YC-backed Finny is using AI to match financial advisors with prospects](https://techcrunch.com/2024/12/11/yc-backed-finny-helps-financial-advisors-find-new-clients/)
+- [Reveal Technology raises $11M to scale ‘decision dominance’ tools for DOD](https://techcrunch.com/2024/12/11/reveal-technology-raises-11m-to-scale-decision-dominance-tools-for-dod/)
+- [Electrified Thermal Solutions has a plan to help industry replace natural gas with bricks](https://techcrunch.com/2024/12/11/electrified-thermal-solutions-has-a-plan-to-help-industry-replace-natural-gas-with-bricks/)
+- [&#39;MechWarrior 5: Clans&#39; offers the stompy robot fights you expect, and a surprisingly strong story that you probably don&#39;t](https://www.space.com/entertainment/space-games-toys/mechwarrior-5-clans-offers-the-stompy-robot-fights-you-expect-and-a-surprisingly-strong-story-that-you-probably-dont)
+- [Learn how to use Apple Intelligence’s ‘Image Playground’](https://techcrunch.com/2024/12/11/how-to-use-apple-intelligence-image-playground-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
