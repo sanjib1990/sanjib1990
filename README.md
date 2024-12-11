@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pentagon doesn’t know where mystery drones over New Jersey come from](https://techcrunch.com/2024/12/11/pentagon-doesnt-know-where-mystery-drones-over-new-jersey-come-from/)
 - [&#39;We are preparing to make history:&#39; NASA&#39;s Parker Solar Probe gears up for epic sun flyby on Christmas Eve](https://www.space.com/the-universe/sun/we-are-preparing-to-make-history-nasas-parker-solar-probe-gears-up-for-epic-sun-flyby-on-christmas-eve)
 - [Microsoft’s M12 invests another $22.5M into NeuBird, months after its $22M seed round](https://techcrunch.com/2024/12/11/microsofts-m12-invests-another-22-5m-into-nuebird-months-after-its-100m-valuation-seed-round/)
 - [Cruise employees ‘blindsided’ by GM’s plan to end robotaxi program](https://techcrunch.com/2024/12/11/cruise-employees-blindsided-by-gms-plan-to-end-robotaxi-program/)
 - [Microsoft begins testing the ability to share files between iPhones and Windows PCs](https://techcrunch.com/2024/12/11/microsoft-begins-testing-the-ability-to-share-files-between-iphones-and-windows-pcs/)
-- [Watch Google DeepMind’s Genie 2 generate playable 3D worlds](https://techcrunch.com/video/watch-google-deepminds-genie-2-generate-playable-3d-worlds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
