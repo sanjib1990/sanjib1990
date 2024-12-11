@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Here’s how OpenAI uses your data when you use ChatGPT through Apple’s integrations](https://techcrunch.com/2024/12/11/heres-how-openai-uses-your-data-when-you-use-chatgpt-through-apples-integrations/)
-- [Stigg makes it easy to change your SaaS pricing](https://techcrunch.com/2024/12/11/stigg-makes-it-easy-to-change-your-saas-pricing/)
-- [Tom Hanks bringing &#39;The Moonwalkers&#39; to Houston for US premiere in 2025](https://www.space.com/the-moonwalkers-journey-tom-hanks-space-center-houston)
-- [After crashing on Mars, NASA&#39;s Ingenuity helicopter could live on as a weather station for 20 years](https://www.space.com/space-exploration/mars-rovers/after-crashing-on-mars-nasas-ingenuity-helicopter-could-live-on-as-a-weather-station-for-20-years)
-- [MariaDB spinout SkySQL secures seed funding to ‘bring conversational AI to databases’](https://techcrunch.com/2024/12/11/mariadb-spinout-skysql-secures-seed-funding-to-bring-conversational-ai-to-databases/)
+- [Microsoft begins testing the ability to share files between iPhones and Windows PCs](https://techcrunch.com/2024/12/11/microsoft-begins-testing-the-ability-to-share-files-between-iphones-and-windows-pcs/)
+- [Watch Google DeepMind’s Genie 2 generate playable 3D worlds](https://techcrunch.com/video/watch-google-deepminds-genie-2-generate-playable-3d-worlds/)
+- [ORCs in space! Astronomers find another vast odd radio circle in &#39;completely unexpected discovery&#39;](https://www.space.com/orcs-MeerKAT-odd-radio-circle-MIGHTEE)
+- [GM is giving up on Cruise robotaxis, pivots to personal autonomous vehicles](https://techcrunch.com/2024/12/11/gm-is-giving-up-on-cruise-robotaxis-pivots-to-personal-autonomous-vehicles/)
+- [Green ammonia startup Amogy is trying to raise $90M to reduce truck pollution](https://techcrunch.com/2024/12/11/green-ammonia-startup-amogy-is-trying-to-raise-90m-to-reduce-truck-pollution/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
