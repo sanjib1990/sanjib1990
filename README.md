@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover 7 new &#39;dark comets,&#39; but what exactly are they?](https://www.space.com/the-universe/comets/astronomers-discover-7-new-dark-comets-but-what-exactly-are-they)
+- [Google Gemini: Everything you need to know about the generative AI models](https://techcrunch.com/2024/12/12/what-is-google-gemini-ai/)
+- [A Waymo robotaxi got stuck in a roundabout loop](https://techcrunch.com/2024/12/12/a-waymo-robotaxi-got-stuck-in-a-roundabout-loop/)
+- [Fleet Space raises $100M to scale satellite-enabled mineral prospecting tech](https://techcrunch.com/2024/12/12/fleet-space-raises-100m-to-scale-satellite-enabled-mineral-prospecting-tech/)
 - [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
-- [Tesla’s loss is Zoox’s gain](https://techcrunch.com/2024/12/12/teslas-loss-is-zooxs-gain/)
-- [Nearly half of US teens are online almost constantly, Pew study finds](https://techcrunch.com/2024/12/12/nearly-half-of-us-teens-are-online-almost-constantly-pew-study-finds/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/12/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/12/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
