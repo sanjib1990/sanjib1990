@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India practices pulling its Gaganyaan astronaut capsule out of the sea &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/india-practices-crew-module-recovery-for-gaganyaan-astronaut-mission-photos)
+- [Yahoo cybersecurity team sees layoffs, outsourcing of ‘red team,’ under new CTO](https://techcrunch.com/2024/12/12/yahoo-cybersecurity-team-sees-layoffs-outsourcing-of-red-team-under-new-cto/)
+- [ServiceTitan’s IPO is a big winner that could inspire fintechs](https://techcrunch.com/2024/12/12/servicetitans-ipo-is-a-big-winner-that-could-inspire-fintechs/)
 - [Panama, Austria sign Artemis Accords, bringing tally to 50 nations](https://www.space.com/the-universe/moon/panama-austria-sign-artemis-accords-bringing-tally-to-50-nations)
 - [Threads rolls out its own version of Bluesky’s ‘Starter Packs’](https://techcrunch.com/2024/12/12/threads-rolls-out-its-own-version-of-blueskys-starter-packs/)
-- [Violent superflares explode from sun-like stars every 100 years](https://www.space.com/superflares-sunlike-stars-100-years)
-- [You can make ChatGPT sound like Santa Claus for the holidays](https://techcrunch.com/2024/12/12/you-can-make-chatgpt-sound-like-santa-claus-for-the-holidays/)
-- [RIP, Cruise robotaxi](https://techcrunch.com/2024/12/12/rip-cruise-robotaxi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
