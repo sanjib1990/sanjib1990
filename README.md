@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT now understands real-time video, seven months after OpenAI first demoed it](https://techcrunch.com/2024/12/12/chatgpt-now-understands-real-time-video-seven-months-after-openai-first-demoed-it/)
-- [Fireball! Meteor streaks across Indiana’s early-morning sky &lpar;videos&rpar;](https://www.space.com/stargazing/meteors-showers/fireball-meteor-streaks-across-indianas-early-morning-sky-videos)
-- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/12/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
-- [Google wraps ‘blue links’ search test, lobbies for less maximalist application of EU’s DMA](https://techcrunch.com/2024/12/12/google-wraps-blue-links-search-test-lobbies-for-less-maximalist-application-of-eus-dma/)
-- [Microsoft anchors $9B renewable energy coalition](https://techcrunch.com/2024/12/12/microsoft-anchors-9b-renewable-energy-coalition/)
+- [Violent superflares explode from sun-like stars every 100 years](https://www.space.com/superflares-sunlike-stars-100-years)
+- [You can make ChatGPT sound like Santa Claus for the holidays](https://techcrunch.com/2024/12/12/you-can-make-chatgpt-sound-like-santa-claus-for-the-holidays/)
+- [RIP, Cruise robotaxi](https://techcrunch.com/2024/12/12/rip-cruise-robotaxi/)
+- [Tumblr launches its interest-focused Communities out of beta](https://techcrunch.com/2024/12/12/tumblr-launches-its-interest-focused-communities-out-of-beta/)
+- [Meteor strikes on the moon! Astronomer captures possible Geminid lunar impacts &lpar;videos&rpar;](https://www.space.com/stargazing/meteors-showers/astronomer-captures-possible-geminid-meteors-smashing-into-the-moon-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
