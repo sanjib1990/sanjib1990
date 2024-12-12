@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT and Sora are down](https://techcrunch.com/2024/12/11/chatgpt-and-sora-are-down/)
 - [SolarSquare raises $40 million in India’s largest solar venture round](https://techcrunch.com/2024/12/11/solarsquare-raises-40-million-in-india-largest-solar-venture-round/)
 - [Microsoft will take an $800M hit over Cruise robotaxi shutdown](https://techcrunch.com/2024/12/11/microsoft-will-take-an-800m-hit-over-cruise-robotaxi-shutdown/)
 - [Trump’s proposed university endowment tax could hurt funding, VC warns](https://techcrunch.com/2024/12/11/trumps-proposed-university-endowment-tax-could-hurt-funding-vc-warns/)
 - [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/)
-- [Japanese company ispace plans to land helium-3 mining missions on the moon](https://www.space.com/the-universe/moon/japanese-company-ispace-plans-to-land-helium-3-mining-missions-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
