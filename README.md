@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT and Sora experience major outage](https://techcrunch.com/2024/12/11/chatgpt-and-sora-are-down/)
+- [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/)
+- [ChatGPT and Sora experienced a major outage](https://techcrunch.com/2024/12/11/chatgpt-and-sora-are-down/)
 - [SolarSquare raises $40 million in India’s largest solar venture round](https://techcrunch.com/2024/12/11/solarsquare-raises-40-million-in-india-largest-solar-venture-round/)
 - [Microsoft will take an $800M hit over Cruise robotaxi shutdown](https://techcrunch.com/2024/12/11/microsoft-will-take-an-800m-hit-over-cruise-robotaxi-shutdown/)
 - [Trump’s proposed university endowment tax could hurt funding, VC warns](https://techcrunch.com/2024/12/11/trumps-proposed-university-endowment-tax-could-hurt-funding-vc-warns/)
-- [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
