@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Panama, Austria sign Artemis Accords, bringing tally to 50 nations](https://www.space.com/the-universe/moon/panama-austria-sign-artemis-accords-bringing-tally-to-50-nations)
+- [Threads rolls out its own version of Bluesky’s ‘Starter Packs’](https://techcrunch.com/2024/12/12/threads-rolls-out-its-own-version-of-blueskys-starter-packs/)
 - [Violent superflares explode from sun-like stars every 100 years](https://www.space.com/superflares-sunlike-stars-100-years)
 - [You can make ChatGPT sound like Santa Claus for the holidays](https://techcrunch.com/2024/12/12/you-can-make-chatgpt-sound-like-santa-claus-for-the-holidays/)
 - [RIP, Cruise robotaxi](https://techcrunch.com/2024/12/12/rip-cruise-robotaxi/)
-- [Tumblr launches its interest-focused Communities out of beta](https://techcrunch.com/2024/12/12/tumblr-launches-its-interest-focused-communities-out-of-beta/)
-- [Meteor strikes on the moon! Astronomer captures possible Geminid lunar impacts &lpar;videos&rpar;](https://www.space.com/stargazing/meteors-showers/astronomer-captures-possible-geminid-meteors-smashing-into-the-moon-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
