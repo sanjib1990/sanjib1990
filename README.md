@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Harvard and Google to release 1 million public-domain books as AI training dataset](https://techcrunch.com/2024/12/12/harvard-and-google-to-release-1-million-public-domain-books-as-ai-training-dataset/)
-- [&#39;Grand&#39; spiral galaxy dazzles in new Hubble Telescope photo](https://www.space.com/space-exploration/hubble-space-telescope/grand-spiral-galaxy-dazzles-in-new-hubble-telescope-photo)
-- [Gigs, an ‘MVNO in a box,’ gets $73M to power mobile network services for any company](https://techcrunch.com/2024/12/12/gigs-mvno-73m-mobile-network-services/)
-- [Microsoft quietly axes Skype credit and phone number sales to push subscriptions](https://techcrunch.com/2024/12/12/microsoft-quietly-axes-skype-credit-and-phone-number-sales-to-push-subscriptions/)
-- [Cartesia claims its AI is efficient enough to run pretty much anywhere](https://techcrunch.com/2024/12/12/cartesia-claims-its-ai-is-efficient-enough-to-run-pretty-much-anywhere/)
+- [Realize Music’s ‘Sing’ wants you to sing out loud by yourself in VR because it just feels good](https://techcrunch.com/2024/12/12/realize-musics-sing-wants-you-to-sing-out-loud-by-yourself-in-vr-because-it-just-feels-good/)
+- [Evinced’s $55M C round will help bring its accessibility dev tools &lpar;and AI&rpar; to Europe](https://techcrunch.com/2024/12/12/evinceds-55m-c-round-will-help-bring-its-accessibility-dev-tools-and-ai-to-europe/)
+- [What causes volcanic eruptions on Jupiter&#39;s moon Io? Scientists aren&#39;t so sure anymore](https://www.space.com/space-exploration/juno/what-causes-volcanic-eruptions-on-jupiters-moon-io-scientists-arent-so-sure-anymore)
+- [The founders of SlideShare are making sharing docs more social with their new platform, Jaunt](https://techcrunch.com/2024/12/12/the-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jauntthe-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jaunt/)
+- [Twelve Labs is building AI that can analyze and search through videos](https://techcrunch.com/2024/12/12/twelve-labs-is-building-ai-that-can-analyze-and-search-through-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
