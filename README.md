@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upvest, a stock trading API used by N26, Revolut and others, raises $105 million](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/)
 - [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/)
 - [ChatGPT and Sora experienced a major outage](https://techcrunch.com/2024/12/11/chatgpt-and-sora-are-down/)
 - [SolarSquare raises $40 million in India’s largest solar venture round](https://techcrunch.com/2024/12/11/solarsquare-raises-40-million-in-india-largest-solar-venture-round/)
 - [Microsoft will take an $800M hit over Cruise robotaxi shutdown](https://techcrunch.com/2024/12/11/microsoft-will-take-an-800m-hit-over-cruise-robotaxi-shutdown/)
-- [Trump’s proposed university endowment tax could hurt funding, VC warns](https://techcrunch.com/2024/12/11/trumps-proposed-university-endowment-tax-could-hurt-funding-vc-warns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
