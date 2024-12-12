@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google wraps ‘blue links’ search test, lobbies for less maximalist application of EU’s DMA](https://techcrunch.com/2024/12/12/google-wraps-blue-links-search-test-lobbies-for-less-maximalist-application-of-eus-dma/)
 - [Microsoft anchors $9B renewable energy coalition](https://techcrunch.com/2024/12/12/microsoft-anchors-9b-renewable-energy-coalition/)
 - [Zomato faces $95 million India tax bill](https://techcrunch.com/2024/12/12/zomato-faces-95-million-india-tax-bill/)
 - [Humba Ventures raises $40M fund to invest in deep tech, defense tech](https://techcrunch.com/2024/12/12/humba-ventures-raises-a-40-million-fund-to-invest-in-deeptech-defense-tech/)
 - [Google wants to sell those Project Astra AR glasses some day, but it won’t be today](https://techcrunch.com/2024/12/12/google-wants-to-sell-those-project-astra-ar-glasses-some-day-but-it-wont-be-today/)
-- [Google announces Android XR platform, will launch first on Samsung’s Project Moohan device](https://techcrunch.com/2024/12/12/google-announces-android-xr-platform-will-launch-first-on-samsungs-project-moohan-device/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
