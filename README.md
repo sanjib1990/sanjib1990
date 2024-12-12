@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new $25M fund aims to give UK mental health startups a shot in the arm](https://techcrunch.com/2024/12/12/a-new-25m-fund-aims-to-give-uk-mental-health-startups-a-shot-in-the-arm/)
+- [Dramatic changes on Uranus, Neptune, Saturn and Jupiter revealed in 10 years of Hubble Telescope images &lpar;video&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/10-years-of-hubble-telescope-images-show-dramatic-changes-in-weather-on-saturn-jupiter-uranus-and-neptune)
+- [BeReal hit with privacy complaint over how it asks EU users to agree to tracking](https://techcrunch.com/2024/12/12/bereal-hit-with-privacy-complaint-over-how-it-asks-eu-users-to-agree-to-tracking/)
 - [Embedded data analytics startup Embeddable is still handpicking its customers despite strong demand](https://techcrunch.com/2024/12/12/embedded-data-analytics-startup-embeddable-is-still-handpicking-its-customers-despite-strong-demand/)
 - [Bitcoin ATM giant Byte Federal says 58,000 users’ personal data compromised in breach](https://techcrunch.com/2024/12/12/bitcoin-atm-giant-byte-federal-says-58000-users-personal-data-compromised-in-breach/)
-- [Anybotics raises $60M to bring more autonomous industrial robots to the U.S.](https://techcrunch.com/2024/12/12/anybotics-raises-60m-to-scale-autonomous-industrial-robots-in-the-u-s/)
-- [Upvest, a stock trading API used by N26, Revolut and others, raises $105 million](https://techcrunch.com/2024/12/11/upvest-a-stock-trading-api-used-by-n26-revolut-and-others-raises-105-million/)
-- [Laam lands $5.5M to provide South Asian fashions to migrants around the world](https://techcrunch.com/2024/12/11/laam-lands-5-5m-to-provide-south-asian-fashions-to-migrants-around-the-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
