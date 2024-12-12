@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Harvard and Google to release 1 million public-domain books as AI training dataset](https://techcrunch.com/2024/12/12/harvard-and-google-to-release-1-million-public-domain-books-as-ai-training-dataset/)
+- [&#39;Grand&#39; spiral galaxy dazzles in new Hubble Telescope photo](https://www.space.com/space-exploration/hubble-space-telescope/grand-spiral-galaxy-dazzles-in-new-hubble-telescope-photo)
+- [Gigs, an ‘MVNO in a box,’ gets $73M to power mobile network services for any company](https://techcrunch.com/2024/12/12/gigs-mvno-73m-mobile-network-services/)
 - [Microsoft quietly axes Skype credit and phone number sales to push subscriptions](https://techcrunch.com/2024/12/12/microsoft-quietly-axes-skype-credit-and-phone-number-sales-to-push-subscriptions/)
 - [Cartesia claims its AI is efficient enough to run pretty much anywhere](https://techcrunch.com/2024/12/12/cartesia-claims-its-ai-is-efficient-enough-to-run-pretty-much-anywhere/)
-- [&#39;Warhammer 40,000&#39; TV series locked and loaded at Amazon with Henry Cavill set to star](https://www.space.com/entertainment/warhammer-40-000-tv-series-locked-and-loaded-at-amazon-mgm-studios-with-henry-cavill-set-to-star)
-- [After Meta signals end to publisher payouts, Australia plots Big Tech news tax](https://techcrunch.com/2024/12/12/after-meta-signals-end-to-publisher-payouts-australia-plots-big-tech-news-tax/)
-- [Researchers find security flaws in Skoda cars that may let hackers remotely track them](https://techcrunch.com/2024/12/12/researchers-find-security-flaws-in-skoda-cars-that-may-let-hackers-remotely-track-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
