@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SolarSquare raises $40 million in India’s largest solar venture round](https://techcrunch.com/2024/12/11/solarsquare-raises-40-million-in-india-largest-solar-venture-round/)
+- [Microsoft will take an $800M hit over Cruise robotaxi shutdown](https://techcrunch.com/2024/12/11/microsoft-will-take-an-800m-hit-over-cruise-robotaxi-shutdown/)
+- [Trump’s proposed university endowment tax could hurt funding, VC warns](https://techcrunch.com/2024/12/11/trumps-proposed-university-endowment-tax-could-hurt-funding-vc-warns/)
 - [It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/)
 - [Japanese company ispace plans to land helium-3 mining missions on the moon](https://www.space.com/the-universe/moon/japanese-company-ispace-plans-to-land-helium-3-mining-missions-on-the-moon)
-- [Hyundai’s electric air taxi startup Supernal is moving its HQ from DC to California](https://techcrunch.com/2024/12/11/hyundais-electric-air-taxi-startup-supernal-is-moving-its-hq-from-dc-to-california/)
-- [Honda cuts funding to robotaxi venture with Cruise and GM in Japan](https://techcrunch.com/2024/12/11/honda-cuts-funding-to-robotaxi-venture-with-cruise-and-gm-in-japan/)
-- [SpaceX launch of NASA&#39;s new 3D-sky-mapping satellite set for February 2025](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-of-nasas-new-3d-sky-mapping-satellite-set-for-february-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
