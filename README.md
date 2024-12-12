@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;SALLY&#39; at Sundance: NatGeo film to reveal &#39;hidden love&#39; of 1st US woman in space](https://www.space.com/sally-ride-national-geographic-sundance-documentary)
+- [DOJ asks court to reject TikTok’s bid to temporarily block sell-or-ban law](https://techcrunch.com/2024/12/12/doj-asks-court-to-reject-tiktoks-bid-to-temporarily-block-sell-or-ban-law/)
+- [&#39;Star Trek: Lower Decks&#39; brings back fan-favorite characters for &#39;Multiverse of Madness&#39;-style hijinks in latest episode](https://www.space.com/entertainment/space-movies-shows/star-trek-lower-decks-brings-back-fan-favorite-characters-for-multiverse-of-madness-style-hijinks-in-latest-episode)
 - [Realize Music’s ‘Sing’ wants you to sing out loud by yourself in VR because it just feels good](https://techcrunch.com/2024/12/12/realize-musics-sing-wants-you-to-sing-out-loud-by-yourself-in-vr-because-it-just-feels-good/)
 - [Evinced’s $55M C round will help bring its accessibility dev tools &lpar;and AI&rpar; to Europe](https://techcrunch.com/2024/12/12/evinceds-55m-c-round-will-help-bring-its-accessibility-dev-tools-and-ai-to-europe/)
-- [What causes volcanic eruptions on Jupiter&#39;s moon Io? Scientists aren&#39;t so sure anymore](https://www.space.com/space-exploration/juno/what-causes-volcanic-eruptions-on-jupiters-moon-io-scientists-arent-so-sure-anymore)
-- [The founders of SlideShare are making sharing docs more social with their new platform, Jaunt](https://techcrunch.com/2024/12/12/the-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jauntthe-founders-of-slideshare-are-making-sharing-docs-more-social-with-their-new-platform-jaunt/)
-- [Twelve Labs is building AI that can analyze and search through videos](https://techcrunch.com/2024/12/12/twelve-labs-is-building-ai-that-can-analyze-and-search-through-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
