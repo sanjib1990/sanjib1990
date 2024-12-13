@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 22 Starlink internet satellites from California today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-22-starlink-internet-satellites-from-california-today)
+- [How to watch the Geminid meteor shower 2024 live online tonight &lpar;Dec. 13&rpar;](https://www.space.com/stargazing/meteors-showers/how-to-watch-the-geminid-meteor-shower-2024-live-online-tonight)
+- [Google debuts NotebookLM for enterprises](https://techcrunch.com/2024/12/13/google-debuts-notebooklm-for-enterprise/)
 - [OpenAI blames its massive ChatGPT outage on a ‘new telemetry service’](https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/)
 - [How 21-year-old Koko Xs became the new rising star solo VC](https://techcrunch.com/2024/12/13/how-21-year-old-koko-xs-became-the-new-rising-star-solo-vc/)
-- [NASA&#39;s Mars exploration plans need &#39;paradigm shifts&#39; to succeed, report finds](https://www.space.com/the-universe/mars/paradigm-shifts-needed-in-mars-exploration-new-nasa-report-finds)
-- [Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment](https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/)
-- [Extraterrestrial life may look nothing like life on Earth − so astrobiologists are coming up with a framework to study how complex systems evolve](https://www.space.com/space-exploration/search-for-life/extraterrestrial-life-may-look-nothing-like-life-on-earth-so-astrobiologists-are-coming-up-with-a-framework-to-study-how-complex-systems-evolve)
 <!-- BLOG-POST-LIST:END -->
 
 ---
