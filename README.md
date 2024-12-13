@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft debuts Phi-4, a new generative AI model, in research preview](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/)
+- [Meta debuts a tool for watermarking AI-generated videos](https://techcrunch.com/2024/12/12/meta-releases-a-tool-for-watermarking-ai-generated-videos/)
+- [Galaxy-size jet from monster black hole blasts mystery object in deep space &lpar;video&rpar;](https://www.space.com/black-hole-jet-mystery-object-chandra)
 - [Astronomers discover 7 new &#39;dark comets,&#39; but what exactly are they?](https://www.space.com/the-universe/comets/astronomers-discover-7-new-dark-comets-but-what-exactly-are-they)
 - [Google Gemini: Everything you need to know about the generative AI models](https://techcrunch.com/2024/12/12/what-is-google-gemini-ai/)
-- [A Waymo robotaxi got stuck in a roundabout loop](https://techcrunch.com/2024/12/12/a-waymo-robotaxi-got-stuck-in-a-roundabout-loop/)
-- [Fleet Space raises $100M to scale satellite-enabled mineral prospecting tech](https://techcrunch.com/2024/12/12/fleet-space-raises-100m-to-scale-satellite-enabled-mineral-prospecting-tech/)
-- [Carta is making it too difficult to cancel subscriptions, some founders say](https://techcrunch.com/2024/12/12/carta-is-making-it-too-difficult-to-cancel-subscriptions-some-founders-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
