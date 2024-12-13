@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Up and over! NASA&#39;s Mars rover Perseverance reaches rim of its Jezero Crater home &lpar;video&rpar;](https://www.space.com/space-exploration/mars-rovers/up-and-over-nasas-mars-rover-perseverance-reaches-peak-of-its-jezero-crater-home-video)
 - [WhatsApp lets you select specific people within a group to start a group call without disturbing anyone](https://techcrunch.com/2024/12/13/whatsapp-lets-you-select-specific-people-within-a-group-to-start-a-group-call-without-disturbing-anyone/)
 - [New Syndicate One fund joins Belgium’s small-but-punchy tech ecosystem](https://techcrunch.com/2024/12/13/new-syndicate-one-fund-joins-belgiums-small-but-punchy-tech-ecosystem/)
 - [As AI-fueled disinformation explodes, here comes the startup counterattack](https://techcrunch.com/2024/12/13/as-ai-fueled-disinformation-explodes-here-comes-the-startup-counterattack/)
 - [Texas AG is investigating Character.AI, other platforms over child safety concerns](https://techcrunch.com/2024/12/12/texas-ag-is-investigating-character-ai-other-platforms-over-child-safety-concerns/)
-- [Microsoft launches Phi-4, a new generative AI model, in research preview](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
