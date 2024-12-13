@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Game Awards 2024: All the new space and sci-fi games at the show](https://www.space.com/entertainment/space-games-toys/the-game-awards-2024-new-space-video-games-round-up)
+- [Biden administration races to approve clean energy loans before Trump takes over — here’s who is benefiting](https://techcrunch.com/2024/12/13/biden-administration-races-to-approve-clean-energy-loans-before-trump-takes-over-heres-whos-benefitting/)
+- [EVgo secures $1.25B loan amid Biden’s rush to approve clean energy loans](https://techcrunch.com/2024/12/13/evgo-secures-1-25-billion-loan-amid-bidens-rush-to-approve-clean-energy-loans/)
 - [SpaceX launching mysterious RRT-1 mission from Florida tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-mysterious-rrt-1-mission-from-florida-tonight)
-- [Google’s NotebookLM now lets you to talk to its AI podcast hosts](https://techcrunch.com/2024/12/13/googles-notebooklm-now-lets-you-to-talk-to-its-ai-podcast-hosts/)
-- [The federal crash-reporting rule Tesla opposes could be on the chopping block](https://techcrunch.com/2024/12/13/the-federal-crash-reporting-rule-tesla-opposes-could-be-on-the-chopping-block/)
-- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/13/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
-- [December full moon rises this weekend: How to see the last full moon of 2024](https://www.space.com/stargazing/december-full-moon-rises-this-weekend-how-to-see-the-last-full-moon-of-2024)
+- [Google’s NotebookLM now lets you talk to its AI podcast hosts](https://techcrunch.com/2024/12/13/googles-notebooklm-now-lets-you-to-talk-to-its-ai-podcast-hosts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
