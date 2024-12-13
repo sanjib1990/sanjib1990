@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [December full moon rises this weekend: How to see the last full moon of 2024](https://www.space.com/stargazing/december-full-moon-rises-this-weekend-how-to-see-the-last-full-moon-of-2024)
+- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/)
+- [Sam Altman and Jeff Bezos are the latest billionaires to donate $1M to Trump fund](https://techcrunch.com/2024/12/13/sam-altman-and-jeff-bezos-are-the-latest-billionaires-to-donate-1m-to-trump-fund/)
 - [SpaceX launching 22 Starlink internet satellites from California today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-22-starlink-internet-satellites-from-california-today)
 - [How to watch the Geminid meteor shower 2024 live online tonight &lpar;Dec. 13&rpar;](https://www.space.com/stargazing/meteors-showers/how-to-watch-the-geminid-meteor-shower-2024-live-online-tonight)
-- [Google debuts NotebookLM for enterprises](https://techcrunch.com/2024/12/13/google-debuts-notebooklm-for-enterprise/)
-- [OpenAI blames its massive ChatGPT outage on a ‘new telemetry service’](https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/)
-- [How 21-year-old Koko Xs became the new rising star solo VC](https://techcrunch.com/2024/12/13/how-21-year-old-koko-xs-became-the-new-rising-star-solo-vc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
