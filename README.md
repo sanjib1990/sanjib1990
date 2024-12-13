@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Tragedy of the commons’ in space:  We need to act now to prevent an orbital debris crisis, scientists say](https://www.space.com/space-exploration/satellites/tragedy-of-the-commons-in-space-we-need-to-act-now-to-prevent-an-orbital-debris-crisis-scientists-say)
+- [&#39;Intergalactic: The Heretic Prophet&#39; is Naughty Dog&#39;s new sci-fi adventure game set on a distant planet &lpar;trailer&rpar;](https://www.space.com/entertainment/space-games-toys/intergalactic-the-heretic-prophet-is-naughty-dogs-new-sci-fi-adventure-game-set-on-a-distant-planet-trailer)
 - [Up and over! NASA&#39;s Mars rover Perseverance reaches rim of its Jezero Crater home &lpar;video&rpar;](https://www.space.com/space-exploration/mars-rovers/up-and-over-nasas-mars-rover-perseverance-reaches-peak-of-its-jezero-crater-home-video)
 - [WhatsApp lets you select specific people within a group to start a group call without disturbing anyone](https://techcrunch.com/2024/12/13/whatsapp-lets-you-select-specific-people-within-a-group-to-start-a-group-call-without-disturbing-anyone/)
 - [New Syndicate One fund joins Belgium’s small-but-punchy tech ecosystem](https://techcrunch.com/2024/12/13/new-syndicate-one-fund-joins-belgiums-small-but-punchy-tech-ecosystem/)
-- [As AI-fueled disinformation explodes, here comes the startup counterattack](https://techcrunch.com/2024/12/13/as-ai-fueled-disinformation-explodes-here-comes-the-startup-counterattack/)
-- [Texas AG is investigating Character.AI, other platforms over child safety concerns](https://techcrunch.com/2024/12/12/texas-ag-is-investigating-character-ai-other-platforms-over-child-safety-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
