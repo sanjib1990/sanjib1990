@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Databricks is on track to raise a record $9.5+ billion round at $60B valuation](https://techcrunch.com/2024/12/13/databricks-is-on-track-to-raise-a-record-9-5-billion-round-at-60b-valuation/)
+- [Exxon can’t resist the AI power gold rush](https://techcrunch.com/2024/12/13/exxon-cant-resist-the-ai-power-gold-rush/)
 - [UnitedHealthcare’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/)
 - [What failed before might succeed now — or fail again — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/)
 - [NASA astronaut uses homemade star tracker to take incredible deep space photo from ISS](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-uses-homemade-star-tracker-to-take-incredible-deep-space-photo-from-iss)
-- [See what Google’s Project Astra AR glasses can do &lpar;for a select few beta testers&rpar;](https://techcrunch.com/video/see-what-googles-project-astra-ar-glasses-can-do-for-a-select-few-beta-testers/)
-- [OpenAI fires back against Musk, claims he wanted an OpenAI for-profit](https://techcrunch.com/2024/12/13/openai-fires-back-against-musk-claims-he-wanted-an-openai-for-profit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
