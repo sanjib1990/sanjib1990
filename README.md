@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game Awards 2024: All the new space and sci-fi games at the show](https://www.space.com/entertainment/space-games-toys/the-game-awards-2024-new-space-video-games-round-up)
-- [Biden administration races to approve clean energy loans before Trump takes over — here’s who is benefiting](https://techcrunch.com/2024/12/13/biden-administration-races-to-approve-clean-energy-loans-before-trump-takes-over-heres-whos-benefitting/)
-- [EVgo secures $1.25B loan amid Biden’s rush to approve clean energy loans](https://techcrunch.com/2024/12/13/evgo-secures-1-25-billion-loan-amid-bidens-rush-to-approve-clean-energy-loans/)
-- [SpaceX launching mysterious RRT-1 mission from Florida tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-mysterious-rrt-1-mission-from-florida-tonight)
-- [Google’s NotebookLM now lets you talk to its AI podcast hosts](https://techcrunch.com/2024/12/13/googles-notebooklm-now-lets-you-to-talk-to-its-ai-podcast-hosts/)
+- [UnitedHealthcare’s Optum left an AI chatbot, used by employees to ask questions about claims, exposed to the internet](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/)
+- [What failed before might succeed now — or fail again — and other startup bets](https://techcrunch.com/2024/12/13/what-failed-before-might-succeed-now-or-fail-again-and-other-startup-bets/)
+- [NASA astronaut uses homemade star tracker to take incredible deep space photo from ISS](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-uses-homemade-star-tracker-to-take-incredible-deep-space-photo-from-iss)
+- [See what Google’s Project Astra AR glasses can do &lpar;for a select few beta testers&rpar;](https://techcrunch.com/video/see-what-googles-project-astra-ar-glasses-can-do-for-a-select-few-beta-testers/)
+- [OpenAI fires back against Musk, claims he wanted an OpenAI for-profit](https://techcrunch.com/2024/12/13/openai-fires-back-against-musk-claims-he-wanted-an-openai-for-profit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
