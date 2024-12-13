@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching mysterious RRT-1 mission from Florida tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-mysterious-rrt-1-mission-from-florida-tonight)
+- [Google’s NotebookLM now lets you to talk to its AI podcast hosts](https://techcrunch.com/2024/12/13/googles-notebooklm-now-lets-you-to-talk-to-its-ai-podcast-hosts/)
+- [The federal crash-reporting rule Tesla opposes could be on the chopping block](https://techcrunch.com/2024/12/13/the-federal-crash-reporting-rule-tesla-opposes-could-be-on-the-chopping-block/)
+- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/13/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
 - [December full moon rises this weekend: How to see the last full moon of 2024](https://www.space.com/stargazing/december-full-moon-rises-this-weekend-how-to-see-the-last-full-moon-of-2024)
-- [Liquid AI just raised $250M to develop a more efficient type of AI model](https://techcrunch.com/2024/12/13/liquid-ai-just-raised-250m-to-develop-a-more-efficient-type-of-ai-model/)
-- [Sam Altman and Jeff Bezos are the latest billionaires to donate $1M to Trump fund](https://techcrunch.com/2024/12/13/sam-altman-and-jeff-bezos-are-the-latest-billionaires-to-donate-1m-to-trump-fund/)
-- [SpaceX launching 22 Starlink internet satellites from California today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-22-starlink-internet-satellites-from-california-today)
-- [How to watch the Geminid meteor shower 2024 live online tonight &lpar;Dec. 13&rpar;](https://www.space.com/stargazing/meteors-showers/how-to-watch-the-geminid-meteor-shower-2024-live-online-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
