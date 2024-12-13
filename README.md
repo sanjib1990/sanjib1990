@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI blames its massive ChatGPT outage on a ‘new telemetry service’](https://techcrunch.com/2024/12/13/openai-blames-its-massive-chatgpt-outage-on-a-new-telemetry-service/)
+- [How 21-year-old Koko Xs became the new rising star solo VC](https://techcrunch.com/2024/12/13/how-21-year-old-koko-xs-became-the-new-rising-star-solo-vc/)
+- [NASA&#39;s Mars exploration plans need &#39;paradigm shifts&#39; to succeed, report finds](https://www.space.com/the-universe/mars/paradigm-shifts-needed-in-mars-exploration-new-nasa-report-finds)
+- [Bluesky at a crossroads as users petition to ban Jesse Singal over anti-trans views, harassment](https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/)
 - [Extraterrestrial life may look nothing like life on Earth − so astrobiologists are coming up with a framework to study how complex systems evolve](https://www.space.com/space-exploration/search-for-life/extraterrestrial-life-may-look-nothing-like-life-on-earth-so-astrobiologists-are-coming-up-with-a-framework-to-study-how-complex-systems-evolve)
-- [Controversial EU ad campaign on X broke bloc’s own privacy rules](https://techcrunch.com/2024/12/13/controversial-eu-ad-campaign-on-x-broke-blocs-own-privacy-rules/)
-- [Activate and The Engine Accelerator team up to train scientists to become founders](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/)
-- [Geminid meteor shower peaks tonight! Here&#39;s how to see one of the best meteor showers of the year](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-2024-peaks-tonight-how-to-see-one-of-the-best-meteor-showers-of-the-year)
-- [‘Tragedy of the commons’ in space:  We need to act now to prevent an orbital debris crisis, scientists say](https://www.space.com/space-exploration/satellites/tragedy-of-the-commons-in-space-we-need-to-act-now-to-prevent-an-orbital-debris-crisis-scientists-say)
 <!-- BLOG-POST-LIST:END -->
 
 ---
