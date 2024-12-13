@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft debuts Phi-4, a new generative AI model, in research preview](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/)
+- [Microsoft launches Phi-4, a new generative AI model, in research preview](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/)
 - [Meta debuts a tool for watermarking AI-generated videos](https://techcrunch.com/2024/12/12/meta-releases-a-tool-for-watermarking-ai-generated-videos/)
 - [Galaxy-size jet from monster black hole blasts mystery object in deep space &lpar;video&rpar;](https://www.space.com/black-hole-jet-mystery-object-chandra)
 - [Astronomers discover 7 new &#39;dark comets,&#39; but what exactly are they?](https://www.space.com/the-universe/comets/astronomers-discover-7-new-dark-comets-but-what-exactly-are-they)
