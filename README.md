@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extraterrestrial life may look nothing like life on Earth − so astrobiologists are coming up with a framework to study how complex systems evolve](https://www.space.com/space-exploration/search-for-life/extraterrestrial-life-may-look-nothing-like-life-on-earth-so-astrobiologists-are-coming-up-with-a-framework-to-study-how-complex-systems-evolve)
+- [Controversial EU ad campaign on X broke bloc’s own privacy rules](https://techcrunch.com/2024/12/13/controversial-eu-ad-campaign-on-x-broke-blocs-own-privacy-rules/)
+- [Activate and The Engine Accelerator team up to train scientists to become founders](https://techcrunch.com/2024/12/13/activate-and-the-engine-accelerator-team-up-to-train-scientists-to-become-founders/)
+- [Geminid meteor shower peaks tonight! Here&#39;s how to see one of the best meteor showers of the year](https://www.space.com/stargazing/meteors-showers/geminid-meteor-shower-2024-peaks-tonight-how-to-see-one-of-the-best-meteor-showers-of-the-year)
 - [‘Tragedy of the commons’ in space:  We need to act now to prevent an orbital debris crisis, scientists say](https://www.space.com/space-exploration/satellites/tragedy-of-the-commons-in-space-we-need-to-act-now-to-prevent-an-orbital-debris-crisis-scientists-say)
-- [&#39;Intergalactic: The Heretic Prophet&#39; is Naughty Dog&#39;s new sci-fi adventure game set on a distant planet &lpar;trailer&rpar;](https://www.space.com/entertainment/space-games-toys/intergalactic-the-heretic-prophet-is-naughty-dogs-new-sci-fi-adventure-game-set-on-a-distant-planet-trailer)
-- [Up and over! NASA&#39;s Mars rover Perseverance reaches rim of its Jezero Crater home &lpar;video&rpar;](https://www.space.com/space-exploration/mars-rovers/up-and-over-nasas-mars-rover-perseverance-reaches-peak-of-its-jezero-crater-home-video)
-- [WhatsApp lets you select specific people within a group to start a group call without disturbing anyone](https://techcrunch.com/2024/12/13/whatsapp-lets-you-select-specific-people-within-a-group-to-start-a-group-call-without-disturbing-anyone/)
-- [New Syndicate One fund joins Belgium’s small-but-punchy tech ecosystem](https://techcrunch.com/2024/12/13/new-syndicate-one-fund-joins-belgiums-small-but-punchy-tech-ecosystem/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
