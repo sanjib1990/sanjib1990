@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Marc Andreessen was ‘very scared’ after meeting with the Biden administration about AI](https://techcrunch.com/2024/12/14/why-marc-andreessen-was-very-scared-after-meeting-with-the-biden-administration-about-ai/)
 - [Klarna’s CEO says it stopped hiring thanks to AI but still advertises many open positions](https://techcrunch.com/2024/12/14/klarnas-ceo-says-it-stopped-hiring-thanks-to-ai-but-still-advertises-many-open-positions/)
 - [&#39;Dune: Prophecy&#39; stars talk weird haircuts and hairy coats &lpar;exclusive&rpar;](https://www.space.com/entertainment/dune-prophecy-stars-talk-weird-haircuts-and-hairy-coats-exclusive)
 - [‘Reasoning’ AI models have become a trend, for better or worse](https://techcrunch.com/2024/12/14/reasoning-ai-models-have-become-a-trend-for-better-or-worse/)
 - [This Week In Space podcast: Episode 140 —University Rocketeers](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-140-university-rocketeers)
-- [86 years after infamous &#39;War of the Worlds&#39; broadcast, visitors in the sky have New Jersey panicking again](https://www.space.com/entertainment/86-years-after-infamous-war-of-the-worlds-broadcast-visitors-in-the-sky-have-new-jersey-panicking-again)
 <!-- BLOG-POST-LIST:END -->
 
 ---
