@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI whistleblower found dead in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
+- [OpenAI co-founder Ilya Sutskever believes superintelligent AI will be ‘unpredictable’](https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/)
+- [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
 - [AI helps Telegram remove 15 million suspect groups and channels in 2024](https://techcrunch.com/2024/12/13/ai-helps-telegram-remove-15-million-suspect-groups-and-channels-in-2024/)
 - [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/)
 - [G2 Ventures Partners is raising $750 million for a third fund](https://techcrunch.com/2024/12/13/g2-ventures-partners-is-raising-750-million-for-a-third-fund/)
-- [Databricks is on track to raise a record $9.5+ billion round at $60B valuation](https://techcrunch.com/2024/12/13/databricks-is-on-track-to-raise-a-record-9-5-billion-round-at-60b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
