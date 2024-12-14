@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X gains a faster Grok model and a new ‘Grok button’](https://techcrunch.com/2024/12/13/x-gains-a-faster-grok-model-and-a-new-grok-button/)
 - [OpenAI co-founder Ilya Sutskever believes superintelligent AI will be ‘unpredictable’](https://techcrunch.com/2024/12/13/openai-co-founder-ilya-sutskever-believes-superintelligent-ai-will-be-unpredictable/)
 - [OpenAI whistleblower found dead at 26 in San Francisco apartment](https://techcrunch.com/2024/12/13/openai-whistleblower-found-dead-in-san-francisco-apartment/)
 - [AI helps Telegram remove 15 million suspect groups and channels in 2024](https://techcrunch.com/2024/12/13/ai-helps-telegram-remove-15-million-suspect-groups-and-channels-in-2024/)
 - [Kalshi CEO admits enlisting influencers to dis Polymarket in a now-deleted podcast segment](https://techcrunch.com/2024/12/13/kalshi-ceo-admits-enlisting-influencers-to-dis-polymarket-in-a-now-deleted-podcast-segment/)
-- [G2 Ventures Partners is raising $750 million for a third fund](https://techcrunch.com/2024/12/13/g2-ventures-partners-is-raising-750-million-for-a-third-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
