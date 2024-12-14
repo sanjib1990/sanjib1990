@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta asks California AG to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-ag-to-block-openais-conversion-to-for-profit/)
 - [What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/)
 - [Arlan Hamilton announces changes at Backstage Capital, will step into advisory role](https://techcrunch.com/2024/12/14/arlan-hamilton-announces-changes-at-backstage-capital-will-step-into-advisory-role/)
 - [Why Marc Andreessen was ‘very scared’ after meeting with the Biden administration about AI](https://techcrunch.com/2024/12/14/why-marc-andreessen-was-very-scared-after-meeting-with-the-biden-administration-about-ai/)
 - [Klarna’s CEO says it stopped hiring thanks to AI but still advertises many open positions](https://techcrunch.com/2024/12/14/klarnas-ceo-says-it-stopped-hiring-thanks-to-ai-but-still-advertises-many-open-positions/)
-- [&#39;Dune: Prophecy&#39; stars talk weird haircuts and hairy coats &lpar;exclusive&rpar;](https://www.space.com/entertainment/dune-prophecy-stars-talk-weird-haircuts-and-hairy-coats-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
