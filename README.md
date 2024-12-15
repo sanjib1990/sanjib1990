@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Dune: Prophecy:&#39; What are Face Dancers and who are the Bene Tleilax?](https://www.space.com/entertainment/dune-prophecy-what-are-face-dancers-and-who-are-the-bene-tleilax)
 - [There&#39;s a weird, disappearing dark spot on Saturn&#39;s moon Enceladus](https://www.space.com/space-exploration/search-for-life/theres-a-weird-disappearing-dark-spot-on-saturns-moon-enceladus)
 - [Rhode Island says personal data likely breached in social services cyberattack](https://techcrunch.com/2024/12/14/rhode-island-says-personal-data-likely-breached-in-social-services-cyberattack/)
 - [GM ‘blindsides’ Cruise by giving up on robotaxis](https://techcrunch.com/2024/12/14/gm-blindsides-cruise-by-giving-up-on-robotaxis/)
 - [Meta asks California AG to block OpenAI’s conversion to for-profit](https://techcrunch.com/2024/12/14/meta-asks-california-ag-to-block-openais-conversion-to-for-profit/)
-- [What are AI ‘world models,’ and why do they matter?](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
