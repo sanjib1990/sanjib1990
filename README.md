@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tune-ups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/)
+- [What exactly is an AI agent?](https://techcrunch.com/2024/12/15/what-exactly-is-an-ai-agent/)
 - [Apple reportedly developing foldable iPhone and iPad](https://techcrunch.com/2024/12/15/apple-reportedly-developing-foldable-iphone-and-ipad/)
 - [See the best Geminid meteor shower 2024 photos from around the world](https://www.space.com/stargazing/meteors-showers/best-geminid-meteor-shower-2024-photos-from-around-the-world)
 - [Open source companies that go proprietary: A timeline](https://techcrunch.com/2024/12/15/open-source-companies-that-go-proprietary-a-timeline/)
-- [Trump’s Silicon Valley advisers have AI ‘censorship’ in their crosshairs](https://techcrunch.com/2024/12/15/trumps-silicon-valley-advisers-have-ai-censorship-in-their-crosshairs/)
-- [Where does &#39;Star Wars: Skeleton Crew&#39; fit in the Star Wars timeline?](https://www.space.com/entertainment/where-does-star-wars-skeleton-crew-fit-in-the-star-wars-timeline)
 <!-- BLOG-POST-LIST:END -->
 
 ---
