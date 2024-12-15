@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump’s Silicon Valley advisers have AI ‘censorship’ in their crosshairs](https://techcrunch.com/2024/12/15/trumps-silicon-valley-advisers-have-ai-censorship-in-their-crosshairs/)
 - [Where does &#39;Star Wars: Skeleton Crew&#39; fit in the Star Wars timeline?](https://www.space.com/entertainment/where-does-star-wars-skeleton-crew-fit-in-the-star-wars-timeline)
 - [&#39;Dune: Prophecy:&#39; What are Face Dancers and who are the Bene Tleilax?](https://www.space.com/entertainment/dune-prophecy-what-are-face-dancers-and-who-are-the-bene-tleilax)
 - [There&#39;s a weird, disappearing dark spot on Saturn&#39;s moon Enceladus](https://www.space.com/space-exploration/search-for-life/theres-a-weird-disappearing-dark-spot-on-saturns-moon-enceladus)
 - [Rhode Island says personal data likely breached in social services cyberattack](https://techcrunch.com/2024/12/14/rhode-island-says-personal-data-likely-breached-in-social-services-cyberattack/)
-- [GM ‘blindsides’ Cruise by giving up on robotaxis](https://techcrunch.com/2024/12/14/gm-blindsides-cruise-by-giving-up-on-robotaxis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
