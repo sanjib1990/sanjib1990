@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who is Jared Isaacman, Trump&#39;s pick for NASA chief?](https://www.space.com/space-exploration/private-spaceflight/who-is-jared-isaacman-trumps-pick-for-nasa-chief)
+- [UK’s internet watchdog finalizes first set of rules for Online Safety law](https://techcrunch.com/2024/12/16/uks-internet-watchdog-finalizes-first-set-of-rules-for-online-safety-law/)
 - [Google names its new India chief](https://techcrunch.com/2024/12/16/google-names-new-india-chief/)
 - [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/)
 - [Serbian police used Cellebrite to unlock, then plant spyware, on a journalist’s phone](https://techcrunch.com/2024/12/15/serbian-police-used-cellebrite-to-unlock-then-plant-spyware-on-a-journalists-phone/)
-- [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/)
-- [NeurIPS keynote speaker apologizes for reference to Chinese student](https://techcrunch.com/2024/12/15/neurips-keynote-speaker-apologizes-for-reference-to-chinese-student/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
