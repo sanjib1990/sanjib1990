@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google names new India chief](https://techcrunch.com/2024/12/16/google-names-new-india-chief/)
+- [Google names its new India chief](https://techcrunch.com/2024/12/16/google-names-new-india-chief/)
 - [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/)
 - [Serbian police used Cellebrite to unlock, then plant spyware, on a journalist’s phone](https://techcrunch.com/2024/12/15/serbian-police-used-cellebrite-to-unlock-then-plant-spyware-on-a-journalists-phone/)
 - [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/)
