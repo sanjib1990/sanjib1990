@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iRobot co-founder’s new home robot startup hopes to raise $30M](https://techcrunch.com/2024/12/16/irobot-co-founders-new-home-robot-startup-hopes-to-raise-30m/)
+- [TuSimple drama heats up ahead of pivotal shareholder meeting](https://techcrunch.com/2024/12/16/tusimple-drama-heats-up-ahead-of-pivotal-shareholder-meeting/)
 - [TikTok asks Supreme Court for a lifeline as sell-or-ban deadline approaches](https://techcrunch.com/2024/12/16/tiktok-asks-supreme-court-for-a-lifeline-as-sell-or-ban-deadline-approaches/)
 - [James Webb Space Telescope witnesses Firefly Sparkle galaxy &#39;being assembled brick by brick&#39; &lpar;image, video&rpar;](https://www.space.com/the-universe/galaxies/james-webb-space-telescope-spots-dazzling-firefly-sparkle-galaxy-bears-striking-resemblance-to-young-milky-way-image-video)
 - [TechCrunch Space: Sayonara](https://techcrunch.com/2024/12/16/techcrunch-space-sayonara/)
-- [Called your doctor after-hours? ConnectOnCall hackers may have stolen your medical data](https://techcrunch.com/2024/12/16/called-your-doctor-after-hours-connectoncall-hackers-may-have-stolen-your-medical-data/)
-- [OpenAI brings its AI-powered web search tool to more ChatGPT users](https://techcrunch.com/2024/12/16/openai-brings-its-ai-powered-web-search-tool-to-more-chatgpt-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
