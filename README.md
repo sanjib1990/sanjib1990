@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EU signs $11B deal for sovereign satellite constellation to rival Musk’s Starlink](https://techcrunch.com/2024/12/16/eu-signs-11b-deal-for-sovereign-satellite-constellation-to-rival-musks-starlink/)
+- [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/)
+- [&#39;Silo&#39; Season 2 &#39;Descent&#39;: The mystery spirals deeper as we learn Solo&#39;s real name... or do we?](https://www.space.com/entertainment/silo-season-2-descent-the-mystery-spirals-deeper-as-we-learn-solos-real-name-or-do-we)
+- [See the moon meet up with Mars this in the night sky this week](https://www.space.com/the-universe/mars/see-the-moon-meet-up-with-mars-this-in-the-night-sky-this-week)
 - [Who is Jared Isaacman, Trump&#39;s pick for NASA chief?](https://www.space.com/space-exploration/private-spaceflight/who-is-jared-isaacman-trumps-pick-for-nasa-chief)
-- [UK’s internet watchdog finalizes first set of rules for Online Safety law](https://techcrunch.com/2024/12/16/uks-internet-watchdog-finalizes-first-set-of-rules-for-online-safety-law/)
-- [Google names its new India chief](https://techcrunch.com/2024/12/16/google-names-new-india-chief/)
-- [This stealthy African stablecoin startup already processed over $1B in cross-border payments](https://techcrunch.com/2024/12/16/this-stealthy-african-stablecoin-startup-already-processed-over-1b-in-cross-border-payments/)
-- [Serbian police used Cellebrite to unlock, then plant spyware, on a journalist’s phone](https://techcrunch.com/2024/12/15/serbian-police-used-cellebrite-to-unlock-then-plant-spyware-on-a-journalists-phone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
