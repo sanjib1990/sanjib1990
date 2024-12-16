@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google experiments with a new image generator that remixes three images into one creation](https://techcrunch.com/2024/12/16/google-experiments-with-a-new-image-generator-that-remixes-three-images-into-one-creation/)
-- [Tesla offers free Supercharging for Model S with a catch](https://techcrunch.com/2024/12/16/tesla-offers-free-supercharging-for-model-s-with-a-catch/)
-- [YouTube will now let creators opt in to third-party AI training](https://techcrunch.com/2024/12/16/youtube-will-let-creators-opt-out-into-third-party-ai-training/)
-- [Watch SpaceX Starship test fire engines ahead of flight 7 launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starship-test-fire-engines-ahead-of-flight-7-launch-video)
-- [Meta updates its smart glasses with real-time AI video](https://techcrunch.com/2024/12/16/meta-updates-its-smart-glasses-with-real-time-ai-video/)
+- [TechCrunch Space: Sayonara](https://techcrunch.com/2024/12/16/techcrunch-space-sayonara/)
+- [Called your doctor after-hours? ConnectOnCall hackers may have stolen your medical data](https://techcrunch.com/2024/12/16/called-your-doctor-after-hours-connectoncall-hackers-may-have-stolen-your-medical-data/)
+- [OpenAI brings its AI-powered web search tool to more ChatGPT users](https://techcrunch.com/2024/12/16/openai-brings-its-ai-powered-web-search-tool-to-more-chatgpt-users/)
+- [Instagram now lets you schedule DMs](https://techcrunch.com/2024/12/16/instagram-now-lets-you-schedule-dms/)
+- [&#39;Dune: Prophecy&#39; &#39;In Blood, Truth:&#39; Tula plays Frankenstein and Desmond&#39;s twisted origins exposed](https://www.space.com/entertainment/dune-prophecy-in-blood-truth-tula-plays-frankenstein-and-desmonds-twisted-origins-exposed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
