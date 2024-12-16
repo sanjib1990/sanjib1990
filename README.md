@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revisiting 19th-century Paris with VR](https://techcrunch.com/2024/12/15/revisiting-19th-century-paris-with-vr/)
 - [NeurIPS keynote speaker apologizes for reference to Chinese student](https://techcrunch.com/2024/12/15/neurips-keynote-speaker-apologizes-for-reference-to-chinese-student/)
 - [The 2025 Lucid Air Pure is a luxe ride at $69,900 with room for tech tune-ups](https://techcrunch.com/2024/12/15/the-2025-lucid-air-pure-is-a-luxe-ride-at-69900-with-room-for-tech-tune-ups/)
 - [What exactly is an AI agent?](https://techcrunch.com/2024/12/15/what-exactly-is-an-ai-agent/)
 - [Apple reportedly developing foldable iPhone and iPad](https://techcrunch.com/2024/12/15/apple-reportedly-developing-foldable-iphone-and-ipad/)
-- [See the best Geminid meteor shower 2024 photos from around the world](https://www.space.com/stargazing/meteors-showers/best-geminid-meteor-shower-2024-photos-from-around-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
