@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Skims co-founder Jens Grede addresses those IPO rumors](https://techcrunch.com/2024/12/16/skims-co-founder-jens-grede-addresses-those-ipo-rumors/)
+- [This red giant star has starspots larger than the entire sun](https://www.space.com/the-universe/stars/this-red-giant-star-has-starspots-larger-than-the-entire-sun)
+- [December full moon 2024: Cold Moon puts on a dazzling show for skywatchers worldwide &lpar;photos&rpar;](https://www.space.com/the-universe/moon/december-full-moon-2024-cold-moon-puts-on-a-dazzling-show-for-skywatchers-worldwide-photos)
 - [EU signs $11B deal for sovereign satellite constellation to rival Musk’s Starlink](https://techcrunch.com/2024/12/16/eu-signs-11b-deal-for-sovereign-satellite-constellation-to-rival-musks-starlink/)
 - [Prequel is building a community-driven approach to finding software bugs](https://techcrunch.com/2024/12/16/prequel-is-building-a-community-driven-approach-to-finding-software-bugs/)
-- [&#39;Silo&#39; Season 2 &#39;Descent&#39;: The mystery spirals deeper as we learn Solo&#39;s real name... or do we?](https://www.space.com/entertainment/silo-season-2-descent-the-mystery-spirals-deeper-as-we-learn-solos-real-name-or-do-we)
-- [See the moon meet up with Mars this in the night sky this week](https://www.space.com/the-universe/mars/see-the-moon-meet-up-with-mars-this-in-the-night-sky-this-week)
-- [Who is Jared Isaacman, Trump&#39;s pick for NASA chief?](https://www.space.com/space-exploration/private-spaceflight/who-is-jared-isaacman-trumps-pick-for-nasa-chief)
 <!-- BLOG-POST-LIST:END -->
 
 ---
