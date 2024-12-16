@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google DeepMind unveils a new video model to rival Sora](https://techcrunch.com/2024/12/16/google-deepmind-unveils-a-new-video-model-to-rival-sora/)
-- [1st monster black hole ever pictured erupts with surprise gamma-ray explosion](https://www.space.com/m87-black-hole-unexpected-gamma-rays)
-- [SoftBank CEO announces a $100 billion investment into the US](https://techcrunch.com/2024/12/16/softbank-ceo-announces-a-100-billion-investment-into-the-us/)
-- [Israeli spyware maker Paragon bought by U.S. private equity giant](https://techcrunch.com/2024/12/16/israeli-spyware-maker-paragon-bought-by-u-s-private-equity-giant/)
-- [YouTube’s latest test lets creators post voice notes as comments](https://techcrunch.com/2024/12/16/youtubes-latest-test-lets-creators-post-voice-notes-as-comments/)
+- [Tesla offers free Supercharging for Model S with a catch](https://techcrunch.com/2024/12/16/tesla-offers-free-supercharging-for-model-s-with-a-catch/)
+- [YouTube creators can now allow third-party companies to train AI models on their content](https://techcrunch.com/2024/12/16/youtube-creators-can-now-third-party-companies-train-ai-models-on-their-content/)
+- [YouTube will now let creators opt into third-party AI training](https://techcrunch.com/2024/12/16/youtube-will-let-creators-opt-out-into-third-party-ai-training/)
+- [Watch SpaceX Starship test fire engines ahead of flight 7 launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starship-test-fire-engines-ahead-of-flight-7-launch-video)
+- [Meta updates its smart glasses with real-time AI video](https://techcrunch.com/2024/12/16/meta-updates-its-smart-glasses-with-real-time-ai-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
