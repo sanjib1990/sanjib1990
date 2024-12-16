@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BlackBerry sells Cylance for $160M, a fraction of the $1.4B it paid in 2018](https://techcrunch.com/2024/12/16/blackberry-sells-cylance-for-160m-a-fraction-of-the-1-4b-it-paid-in-2018/)
-- [Snapchat introduces a unified monetization program for creators](https://techcrunch.com/2024/12/16/snapchat-introduces-a-unified-monetization-program-for-creators/)
-- [Temu is the most-downloaded app on the U.S. App Store in 2024](https://techcrunch.com/2024/12/16/temu-is-the-most-downloaded-app-on-the-u-s-app-store-in-2024/)
-- [Skims co-founder Jens Grede addresses those IPO rumors](https://techcrunch.com/2024/12/16/skims-co-founder-jens-grede-addresses-those-ipo-rumors/)
-- [This red giant star has starspots larger than the entire sun](https://www.space.com/the-universe/stars/this-red-giant-star-has-starspots-larger-than-the-entire-sun)
+- [Google DeepMind unveils a new video model to rival Sora](https://techcrunch.com/2024/12/16/google-deepmind-unveils-a-new-video-model-to-rival-sora/)
+- [1st monster black hole ever pictured erupts with surprise gamma-ray explosion](https://www.space.com/m87-black-hole-unexpected-gamma-rays)
+- [SoftBank CEO announces a $100 billion investment into the US](https://techcrunch.com/2024/12/16/softbank-ceo-announces-a-100-billion-investment-into-the-us/)
+- [Israeli spyware maker Paragon bought by U.S. private equity giant](https://techcrunch.com/2024/12/16/israeli-spyware-maker-paragon-bought-by-u-s-private-equity-giant/)
+- [YouTube’s latest test lets creators post voice notes as comments](https://techcrunch.com/2024/12/16/youtubes-latest-test-lets-creators-post-voice-notes-as-comments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
