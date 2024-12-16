@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BlackBerry sells Cylance for $160M, a fraction of the $1.4B it paid in 2018](https://techcrunch.com/2024/12/16/blackberry-sells-cylance-for-160m-a-fraction-of-the-1-4b-it-paid-in-2018/)
+- [Snapchat introduces a unified monetization program for creators](https://techcrunch.com/2024/12/16/snapchat-introduces-a-unified-monetization-program-for-creators/)
 - [Temu is the most-downloaded app on the U.S. App Store in 2024](https://techcrunch.com/2024/12/16/temu-is-the-most-downloaded-app-on-the-u-s-app-store-in-2024/)
 - [Skims co-founder Jens Grede addresses those IPO rumors](https://techcrunch.com/2024/12/16/skims-co-founder-jens-grede-addresses-those-ipo-rumors/)
 - [This red giant star has starspots larger than the entire sun](https://www.space.com/the-universe/stars/this-red-giant-star-has-starspots-larger-than-the-entire-sun)
-- [December full moon 2024: Cold Moon puts on a dazzling show for skywatchers worldwide &lpar;photos&rpar;](https://www.space.com/the-universe/moon/december-full-moon-2024-cold-moon-puts-on-a-dazzling-show-for-skywatchers-worldwide-photos)
-- [EU signs $11B deal for sovereign satellite constellation to rival Musk’s Starlink](https://techcrunch.com/2024/12/16/eu-signs-11b-deal-for-sovereign-satellite-constellation-to-rival-musks-starlink/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
