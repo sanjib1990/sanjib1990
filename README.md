@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google experiments with a new image generator that remixes three images into one creation](https://techcrunch.com/2024/12/16/google-experiments-with-a-new-image-generator-that-remixes-three-images-into-one-creation/)
 - [Tesla offers free Supercharging for Model S with a catch](https://techcrunch.com/2024/12/16/tesla-offers-free-supercharging-for-model-s-with-a-catch/)
-- [YouTube creators can now allow third-party companies to train AI models on their content](https://techcrunch.com/2024/12/16/youtube-creators-can-now-third-party-companies-train-ai-models-on-their-content/)
-- [YouTube will now let creators opt into third-party AI training](https://techcrunch.com/2024/12/16/youtube-will-let-creators-opt-out-into-third-party-ai-training/)
+- [YouTube will now let creators opt in to third-party AI training](https://techcrunch.com/2024/12/16/youtube-will-let-creators-opt-out-into-third-party-ai-training/)
 - [Watch SpaceX Starship test fire engines ahead of flight 7 launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starship-test-fire-engines-ahead-of-flight-7-launch-video)
 - [Meta updates its smart glasses with real-time AI video](https://techcrunch.com/2024/12/16/meta-updates-its-smart-glasses-with-real-time-ai-video/)
 <!-- BLOG-POST-LIST:END -->
