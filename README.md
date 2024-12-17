@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Stephen Curry’s Penny Jar Capital files to raise a Fund II](https://techcrunch.com/2024/12/17/stephen-currys-penny-jar-capital-files-to-raise-a-fund-ii/)
-- [&#39;Edge of Space&#39;: Ambitious short film chronicles daring flight of X-15 rocket plane test pilot &lpar;video&rpar;](https://www.space.com/entertainment/edge-of-space-ambitious-short-film-chronicles-daring-flight-of-x-15-rocket-plane-test-pilot-video)
-- [Google joins $90M investment into Cassava to bolster Africa’s digital infrastructure](https://techcrunch.com/2024/12/17/google-joins-90m-investment-into-cassava-to-bolster-africas-digital-infrastructure/)
-- [Google says customers can use its AI in ‘high-risk’ domains, so long as there’s human supervision](https://techcrunch.com/2024/12/17/google-says-customers-can-use-its-ai-in-high-risk-domains-so-long-as-theres-human-supervision/)
-- [UK consults on opt-out model for training AIs on copyrighted content](https://techcrunch.com/2024/12/17/uk-consults-on-opt-out-model-for-training-ais-on-copyrighted-content/)
+- [Cash App creator Bob Lee’s killer found guilty of second-degree murder](https://techcrunch.com/2024/12/17/cash-app-creator-bob-lees-killer-found-guilty-of-second-degree-murder/)
+- [This fintech processed $1B in payments through word-of-mouth](https://techcrunch.com/2024/12/17/this-fintech-processed-1b-in-payments-through-word-of-mouth/)
+- [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/)
+- [OpenAI brings its o1 reasoning model to its API — for certain developers](https://techcrunch.com/2024/12/17/openai-brings-its-o1-reasoning-model-to-its-api-for-certain-developers/)
+- [Webb mail: US Priority Mail stamps to again star deep space images in 2025](https://www.space.com/usps-james-webb-space-telescope-2025-priority-stamps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
