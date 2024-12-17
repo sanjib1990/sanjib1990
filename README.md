@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular LatAm digital payment service AstroPay launches multi-currency wallet](https://techcrunch.com/2024/12/17/popular-latam-digital-payment-service-astropay-launches-multi-currency-wallet/)
+- [SpaceX launching 2 mPOWER communication satellites from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-2-mpower-communication-satellites-from-florida)
+- [SpaceX launches 6th batch of next-gen US spy satellites from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-6th-batch-of-next-gen-us-spy-satellites-from-california-today)
+- [Focused Energy buys two of the world’s most powerful lasers for its fusion quest](https://techcrunch.com/2024/12/17/focused-energy-buys-two-of-the-worlds-most-powerful-lasers-for-its-fusion-quest/)
 - [Texas medical school says hackers stole sensitive health data of 1.4 million individuals](https://techcrunch.com/2024/12/17/texas-medical-school-says-hackers-stole-sensitive-health-data-of-1-4-million-individuals/)
-- [Meta fined $263M over 2018 security breach that affected ~3M EU users](https://techcrunch.com/2024/12/17/meta-fined-263m-over-2018-security-breach-that-affected-3m-eu-users/)
-- [Nuon helps companies deploy their software into their customers’ cloud accounts](https://techcrunch.com/2024/12/17/nuon-helps-companies-deploy-their-software-into-their-customers-cloud-accounts/)
-- [NASA astronaut Suni Williams poses with adorable tentacle-armed Astrobee robot on ISS &lpar;photo&rpar;](https://www.space.com/space-exploration/tech/nasa-astronaut-suni-williams-poses-with-adorable-tentacle-armed-astrobee-robot-on-iss-photo)
-- [Pineapple on pizza is delicious — and if you disagree, you can’t log in to WordPress.org](https://techcrunch.com/2024/12/17/pineapple-on-pizza-is-delicious-and-if-you-disagree-you-cant-log-in-to-wordpress-org/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
