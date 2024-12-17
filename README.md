@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mark Zuckerberg says Threads now has 100M daily active users](https://techcrunch.com/2024/12/16/mark-zuckerberg-says-threads-now-has-100m-daily-active-users/)
 - [Waymo robotaxis are coming to Tokyo in 2025](https://techcrunch.com/2024/12/16/waymo-robotaxis-are-coming-to-tokyo-in-2025/)
 - [Cohere is quietly working with Palantir to deploy its AI models](https://techcrunch.com/2024/12/16/cohere-is-quietly-working-with-palantir-to-deploy-its-ai-models/)
 - [Jay-Z’s Marcy Venture Partners merges with investment arm of Pendulum Holdings](https://techcrunch.com/2024/12/16/jay-zs-marcy-venture-partners-merges-with-investment-arm-of-pendulum-holdings/)
 - [iRobot co-founder’s new home robot startup hopes to raise $30M](https://techcrunch.com/2024/12/16/irobot-co-founders-new-home-robot-startup-hopes-to-raise-30m/)
-- [TuSimple’s former CEO wants a new board that will liquidate the company](https://techcrunch.com/2024/12/16/tusimple-drama-heats-up-ahead-of-pivotal-shareholder-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
