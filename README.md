@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Astronomers discover 1st binary stars orbiting supermassive black hole at the center of the Milky Way](https://www.space.com/first-binary-stars-sgrA-black-hole)
-- [Code Assist, Google’s enterprise-focused coding assistant, gets third-party tools](https://techcrunch.com/2024/12/17/code-assist-googles-enterprise-focused-code-assistant-gets-third-party-tools/)
-- [Slip Robotics snags $28M for its bots that can load a truck in five minutes](https://techcrunch.com/2024/12/17/slip-robotics-snags-28m-for-its-bots-that-can-load-a-truck-in-five-minutes/)
-- [SoundCloud introduces a cheaper plan for artists](https://techcrunch.com/2024/12/17/soundcloud-introduces-a-new-cheaper-paid-plan-for-artists/)
-- [&#39;Star Wars: Skeleton Crew&#39; featurette reveals the magic behind the massive stop-motion Mama Crab &lpar;video&rpar;](https://www.space.com/entertainment/skeleton-crews-featurette-reveals-the-magic-behind-the-massive-stop-motion-mama-crab-video)
+- [Stephen Curry’s Penny Jar Capital files to raise a Fund II](https://techcrunch.com/2024/12/17/stephen-currys-penny-jar-capital-files-to-raise-a-fund-ii/)
+- [&#39;Edge of Space&#39;: Ambitious short film chronicles daring flight of X-15 rocket plane test pilot &lpar;video&rpar;](https://www.space.com/entertainment/edge-of-space-ambitious-short-film-chronicles-daring-flight-of-x-15-rocket-plane-test-pilot-video)
+- [Google joins $90M investment into Cassava to bolster Africa’s digital infrastructure](https://techcrunch.com/2024/12/17/google-joins-90m-investment-into-cassava-to-bolster-africas-digital-infrastructure/)
+- [Google says customers can use its AI in ‘high-risk’ domains, so long as there’s human supervision](https://techcrunch.com/2024/12/17/google-says-customers-can-use-its-ai-in-high-risk-domains-so-long-as-theres-human-supervision/)
+- [UK consults on opt-out model for training AIs on copyrighted content](https://techcrunch.com/2024/12/17/uk-consults-on-opt-out-model-for-training-ais-on-copyrighted-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
