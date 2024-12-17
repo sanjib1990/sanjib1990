@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Endurance, a pioneering NASA moon rover designed to survive the frigid lunar night](https://www.space.com/space-exploration/moon-rovers/meet-endurance-a-pioneering-nasa-moon-rover-designed-to-survive-the-frigid-lunar-night)
-- [Kakao Mobility hit with $10.5M antitrust fine for limiting rivals’ access](https://techcrunch.com/2024/12/17/kakao-mobility-hit-with-10-5m-antitrust-fine-for-limiting-rivals-access/)
-- [Agave, the startup behind Find the Cat, finds $18M](https://techcrunch.com/2024/12/17/agave-the-startup-behind-find-the-cat-finds-18m/)
-- [Alphabet-backed Indian lender files for $171M IPO](https://techcrunch.com/2024/12/17/aye-finance-ipo/)
-- [African digital bank Tyme raises $250M round led by Nubank at $1.5B valuation](https://techcrunch.com/2024/12/16/nubank-leads-250m-round-in-african-digital-bank-tyme-at-1-5b-valuation/)
+- [Pineapple on pizza is delicious — and if you disagree, you can’t log in to WordPress.org](https://techcrunch.com/2024/12/17/pineapple-on-pizza-is-delicious-and-if-you-disagree-you-cant-log-in-to-wordpress-org/)
+- [Remote enables USDC crypto payouts for contractors](https://techcrunch.com/2024/12/17/remote-enables-usdc-crypto-payouts-for-contractors/)
+- [EU to investigate TikTok’s response to election security risks in Romania](https://techcrunch.com/2024/12/17/eu-to-investigate-tiktoks-response-to-election-security-risks-in-romania/)
+- [While some account-to-account payments players falter, Volume raises fresh cash](https://techcrunch.com/2024/12/17/while-some-account-to-account-payments-players-falter-volume-raises-fresh-cash/)
+- [Travel is back: Hostaway raises $365M at a $925M valuation](https://techcrunch.com/2024/12/17/travel-is-back-hostaway-raises-365m-at-a-925m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
