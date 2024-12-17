@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX wants Starbase to become an official city in Texas](https://www.space.com/space-exploration/private-spaceflight/spacex-wants-starbase-to-become-an-official-city-in-texas)
+- [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/)
 - [Insight VC describes Databricks’ wild $10B deal and the bad advice the CEO ignored](https://techcrunch.com/2024/12/17/insight-vc-describes-databricks-wild-10b-deal-and-the-bad-advice-the-ceo-ignored/)
 - [Salesforce plans to hire 2,000 people to sell its AI products](https://techcrunch.com/2024/12/17/salesforce-plans-to-hire-2000-people-to-sell-its-ai-products/)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/)
-- [SpaceX test-fires Starship spacecraft again ahead of Flight 7 launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-spacecraft-again-ahead-of-flight-7-launch-video)
-- [OpenAI says it has no plans for a Sora API — yet](https://techcrunch.com/2024/12/17/openai-says-it-has-no-plans-for-a-sora-api-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
