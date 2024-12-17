@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, D.C.](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/)
+- [You ain’t seen nothing yet! &#39;The Outer Worlds 2&#39; gets wild new trailer at The Game Awards](https://www.space.com/entertainment/you-aint-seen-nothing-yet-the-outer-worlds-2-gets-wild-new-trailer-at-the-game-awards)
+- [Bridgy Fed, a project to connect the open social web, is now becoming a nonprofit](https://techcrunch.com/2024/12/17/bridgy-fed-a-project-to-connect-the-open-social-web-is-now-becoming-a-nonprofit/)
 - [Cash App creator Bob Lee’s killer found guilty of second-degree murder](https://techcrunch.com/2024/12/17/cash-app-creator-bob-lees-killer-found-guilty-of-second-degree-murder/)
 - [This fintech processed $1B in payments through word-of-mouth](https://techcrunch.com/2024/12/17/this-fintech-processed-1b-in-payments-through-word-of-mouth/)
-- [Grammarly acquires productivity startup Coda, brings on new CEO](https://techcrunch.com/2024/12/17/grammarly-acquires-productivity-startup-coda-brings-on-new-ceo/)
-- [OpenAI brings its o1 reasoning model to its API — for certain developers](https://techcrunch.com/2024/12/17/openai-brings-its-o1-reasoning-model-to-its-api-for-certain-developers/)
-- [Webb mail: US Priority Mail stamps to again star deep space images in 2025](https://www.space.com/usps-james-webb-space-telescope-2025-priority-stamps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
