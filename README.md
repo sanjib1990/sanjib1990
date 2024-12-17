@@ -96,7 +96,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nubank leads $250M round in African digital bank Tyme at $1.5B valuation](https://techcrunch.com/2024/12/16/nubank-leads-250m-round-in-african-digital-bank-tyme-at-1-5b-valuation/)
 - [Hexa, the startup studio behind Aircall and Swan, unveils its next batch of startups](https://techcrunch.com/2024/12/16/hexa-the-startup-studio-behind-aircall-and-swan-unveils-its-next-batch-of-startups/)
-- [Mark Zuckerberg says Threads now has 100M daily active users](https://techcrunch.com/2024/12/16/mark-zuckerberg-says-threads-now-has-100m-daily-active-users/)
+- [Threads now has 100M daily active users](https://techcrunch.com/2024/12/16/mark-zuckerberg-says-threads-now-has-100m-daily-active-users/)
 - [Waymo robotaxis are coming to Tokyo in 2025](https://techcrunch.com/2024/12/16/waymo-robotaxis-are-coming-to-tokyo-in-2025/)
 - [Cohere is quietly working with Palantir to deploy its AI models](https://techcrunch.com/2024/12/16/cohere-is-quietly-working-with-palantir-to-deploy-its-ai-models/)
 <!-- BLOG-POST-LIST:END -->
