@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo robotaxis are coming to Tokyo in 2025](https://techcrunch.com/2024/12/16/waymo-robotaxis-are-coming-to-tokyo-in-2025/)
+- [Cohere is quietly working with Palantir to deploy its AI models](https://techcrunch.com/2024/12/16/cohere-is-quietly-working-with-palantir-to-deploy-its-ai-models/)
 - [Jay-Z’s Marcy Venture Partners merges with investment arm of Pendulum Holdings](https://techcrunch.com/2024/12/16/jay-zs-marcy-venture-partners-merges-with-investment-arm-of-pendulum-holdings/)
 - [iRobot co-founder’s new home robot startup hopes to raise $30M](https://techcrunch.com/2024/12/16/irobot-co-founders-new-home-robot-startup-hopes-to-raise-30m/)
 - [TuSimple’s former CEO wants a new board that will liquidate the company](https://techcrunch.com/2024/12/16/tusimple-drama-heats-up-ahead-of-pivotal-shareholder-meeting/)
-- [TikTok asks Supreme Court for a lifeline as sell-or-ban deadline approaches](https://techcrunch.com/2024/12/16/tiktok-asks-supreme-court-for-a-lifeline-as-sell-or-ban-deadline-approaches/)
-- [James Webb Space Telescope witnesses Firefly Sparkle galaxy &#39;being assembled brick by brick&#39; &lpar;image, video&rpar;](https://www.space.com/the-universe/galaxies/james-webb-space-telescope-spots-dazzling-firefly-sparkle-galaxy-bears-striking-resemblance-to-young-milky-way-image-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
