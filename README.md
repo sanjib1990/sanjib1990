@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Texas medical school says hackers stole sensitive health data of 1.4 million individuals](https://techcrunch.com/2024/12/17/texas-medical-school-says-hackers-stole-sensitive-health-data-of-1-4-million-individuals/)
+- [Meta fined $263M over 2018 security breach that affected ~3M EU users](https://techcrunch.com/2024/12/17/meta-fined-263m-over-2018-security-breach-that-affected-3m-eu-users/)
+- [Nuon helps companies deploy their software into their customers’ cloud accounts](https://techcrunch.com/2024/12/17/nuon-helps-companies-deploy-their-software-into-their-customers-cloud-accounts/)
+- [NASA astronaut Suni Williams poses with adorable tentacle-armed Astrobee robot on ISS &lpar;photo&rpar;](https://www.space.com/space-exploration/tech/nasa-astronaut-suni-williams-poses-with-adorable-tentacle-armed-astrobee-robot-on-iss-photo)
 - [Pineapple on pizza is delicious — and if you disagree, you can’t log in to WordPress.org](https://techcrunch.com/2024/12/17/pineapple-on-pizza-is-delicious-and-if-you-disagree-you-cant-log-in-to-wordpress-org/)
-- [Remote enables USDC crypto payouts for contractors](https://techcrunch.com/2024/12/17/remote-enables-usdc-crypto-payouts-for-contractors/)
-- [EU to investigate TikTok’s response to election security risks in Romania](https://techcrunch.com/2024/12/17/eu-to-investigate-tiktoks-response-to-election-security-risks-in-romania/)
-- [While some account-to-account payments players falter, Volume raises fresh cash](https://techcrunch.com/2024/12/17/while-some-account-to-account-payments-players-falter-volume-raises-fresh-cash/)
-- [Travel is back: Hostaway raises $365M at a $925M valuation](https://techcrunch.com/2024/12/17/travel-is-back-hostaway-raises-365m-at-a-925m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
