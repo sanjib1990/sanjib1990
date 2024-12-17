@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Complete DevOps Roadmap 2025 - Master these 4 Levels!](https://www.youtube.com/watch?v=1J2YOV6LcwY)
 - [Devin just came to take your software job… will code for $8/hr](https://www.youtube.com/watch?v=GhIm-Dk1pzk)
 - [who is this even for?? &lpar;Raspberry Pi 500&rpar;](https://www.youtube.com/watch?v=-49KVplIGDo)
 - [Computing just changed forever… but there’s a catch](https://www.youtube.com/watch?v=IJHrPjx4egM)
 - [How Path Tracing Makes Computer Graphics Look Awesome - Computerphile](https://www.youtube.com/watch?v=3OKj0SQ_UTw)
-- [I built a phone system because no one answers me](https://www.youtube.com/watch?v=fdM1V98iIQI)
 <!-- YOUTUBE:END -->
 
 ---
