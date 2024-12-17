@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Popular LatAm digital payment service AstroPay launches multi-currency wallet](https://techcrunch.com/2024/12/17/popular-latam-digital-payment-service-astropay-launches-multi-currency-wallet/)
-- [SpaceX launching 2 mPOWER communication satellites from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-2-mpower-communication-satellites-from-florida)
-- [SpaceX launches 6th batch of next-gen US spy satellites from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-6th-batch-of-next-gen-us-spy-satellites-from-california-today)
-- [Focused Energy buys two of the world’s most powerful lasers for its fusion quest](https://techcrunch.com/2024/12/17/focused-energy-buys-two-of-the-worlds-most-powerful-lasers-for-its-fusion-quest/)
-- [Texas medical school says hackers stole sensitive health data of 1.4 million individuals](https://techcrunch.com/2024/12/17/texas-medical-school-says-hackers-stole-sensitive-health-data-of-1-4-million-individuals/)
+- [SoundCloud introduces a cheaper plan for artists](https://techcrunch.com/2024/12/17/soundcloud-introduces-a-new-cheaper-paid-plan-for-artists/)
+- [&#39;Star Wars: Skeleton Crew&#39; featurette reveals the magic behind the massive stop-motion Mama Crab &lpar;video&rpar;](https://www.space.com/entertainment/skeleton-crews-featurette-reveals-the-magic-behind-the-massive-stop-motion-mama-crab-video)
+- [FTC bans hidden junk fees in short-term lodging, live-event ticket prices](https://techcrunch.com/2024/12/17/ftc-bans-hidden-junk-fees-in-short-term-lodging-live-event-ticket-prices/)
+- [Shein must cede Indians’ data, control of local ops to re-enter India](https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/)
+- [Databricks raises $10B as it barrels toward an IPO](https://techcrunch.com/2024/12/17/databricks-raises-10b-as-it-barrels-toward-an-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
