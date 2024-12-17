@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover 1st binary stars orbiting supermassive black hole at the center of the Milky Way](https://www.space.com/first-binary-stars-sgrA-black-hole)
+- [Code Assist, Google’s enterprise-focused coding assistant, gets third-party tools](https://techcrunch.com/2024/12/17/code-assist-googles-enterprise-focused-code-assistant-gets-third-party-tools/)
+- [Slip Robotics snags $28M for its bots that can load a truck in five minutes](https://techcrunch.com/2024/12/17/slip-robotics-snags-28m-for-its-bots-that-can-load-a-truck-in-five-minutes/)
 - [SoundCloud introduces a cheaper plan for artists](https://techcrunch.com/2024/12/17/soundcloud-introduces-a-new-cheaper-paid-plan-for-artists/)
 - [&#39;Star Wars: Skeleton Crew&#39; featurette reveals the magic behind the massive stop-motion Mama Crab &lpar;video&rpar;](https://www.space.com/entertainment/skeleton-crews-featurette-reveals-the-magic-behind-the-massive-stop-motion-mama-crab-video)
-- [FTC bans hidden junk fees in short-term lodging, live-event ticket prices](https://techcrunch.com/2024/12/17/ftc-bans-hidden-junk-fees-in-short-term-lodging-live-event-ticket-prices/)
-- [Shein must cede Indians’ data, control of local ops to re-enter India](https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/)
-- [Databricks raises $10B as it barrels toward an IPO](https://techcrunch.com/2024/12/17/databricks-raises-10b-as-it-barrels-toward-an-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
