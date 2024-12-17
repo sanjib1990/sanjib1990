@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Insight VC describes Databricks’ wild $10B deal and the bad advice the CEO ignored](https://techcrunch.com/2024/12/17/insight-vc-describes-databricks-wild-10b-deal-and-the-bad-advice-the-ceo-ignored/)
+- [Salesforce plans to hire 2,000 people to sell its AI products](https://techcrunch.com/2024/12/17/salesforce-plans-to-hire-2000-people-to-sell-its-ai-products/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/)
+- [SpaceX test-fires Starship spacecraft again ahead of Flight 7 launch &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-spacecraft-again-ahead-of-flight-7-launch-video)
 - [OpenAI says it has no plans for a Sora API — yet](https://techcrunch.com/2024/12/17/openai-says-it-has-no-plans-for-a-sora-api-yet/)
-- [Grubhub to pay $25M for ‘deceptive’ practices against customers, drivers](https://techcrunch.com/2024/12/17/grubhub-to-pay-25m-for-deceptive-practices-against-customers-drivers/)
-- [AI boom masks fundraising struggles for non-AI startups](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/)
-- [Bob Lee verdict: Cash App creator’s killer found guilty of second-degree murder](https://techcrunch.com/2024/12/17/bob-lee-verdict-cash-app-creators-killer-found-guilty-of-second-degree-murder/)
-- [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, D.C.](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
