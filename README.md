@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI says it has no plans for a Sora API — yet](https://techcrunch.com/2024/12/17/openai-says-it-has-no-plans-for-a-sora-api-yet/)
+- [Grubhub to pay $25M for ‘deceptive’ practices against customers, drivers](https://techcrunch.com/2024/12/17/grubhub-to-pay-25m-for-deceptive-practices-against-customers-drivers/)
 - [AI boom masks fundraising struggles for non-AI startups](https://techcrunch.com/2024/12/17/ai-boom-masks-fundraising-struggles-for-non-ai-startups/)
 - [Bob Lee verdict: Cash App creator’s killer found guilty of second-degree murder](https://techcrunch.com/2024/12/17/bob-lee-verdict-cash-app-creators-killer-found-guilty-of-second-degree-murder/)
 - [Commonwealth Fusion Systems just picked its first commercial site partly because of its proximity to Washington, D.C.](https://techcrunch.com/2024/12/17/commonwealth-fusion-systems-just-picked-its-first-commercial-site-partly-because-of-its-proximity-to-washington-d-c/)
-- [You ain’t seen nothing yet! &#39;The Outer Worlds 2&#39; gets wild new trailer at The Game Awards](https://www.space.com/entertainment/you-aint-seen-nothing-yet-the-outer-worlds-2-gets-wild-new-trailer-at-the-game-awards)
-- [Bridgy Fed, a project to connect the open social web, is now becoming a nonprofit](https://techcrunch.com/2024/12/17/bridgy-fed-a-project-to-connect-the-open-social-web-is-now-becoming-a-nonprofit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
