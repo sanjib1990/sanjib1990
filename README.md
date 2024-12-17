@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Endurance, a pioneering NASA moon rover designed to survive the frigid lunar night](https://www.space.com/space-exploration/moon-rovers/meet-endurance-a-pioneering-nasa-moon-rover-designed-to-survive-the-frigid-lunar-night)
+- [Kakao Mobility hit with $10.5M antitrust fine for limiting rivals’ access](https://techcrunch.com/2024/12/17/kakao-mobility-hit-with-10-5m-antitrust-fine-for-limiting-rivals-access/)
 - [Agave, the startup behind Find the Cat, finds $18M](https://techcrunch.com/2024/12/17/agave-the-startup-behind-find-the-cat-finds-18m/)
 - [Alphabet-backed Indian lender files for $171M IPO](https://techcrunch.com/2024/12/17/aye-finance-ipo/)
 - [African digital bank Tyme raises $250M round led by Nubank at $1.5B valuation](https://techcrunch.com/2024/12/16/nubank-leads-250m-round-in-african-digital-bank-tyme-at-1-5b-valuation/)
-- [Hexa, the startup studio behind Aircall and Swan, unveils its next batch of startups](https://techcrunch.com/2024/12/16/hexa-the-startup-studio-behind-aircall-and-swan-unveils-its-next-batch-of-startups/)
-- [Threads now has 100M daily active users](https://techcrunch.com/2024/12/16/mark-zuckerberg-says-threads-now-has-100m-daily-active-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
