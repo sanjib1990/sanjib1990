@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube says it will start cracking down on videos with clickbait titles in India](https://techcrunch.com/2024/12/18/youtube-says-it-will-start-cracking-down-on-videos-with-clickbait-titles-in-india/)
-- [The Imperial Probe Droid is one of the best Lego Star Wars sets we have reviewed and you can now pick it up for a low price](https://www.space.com/entertainment/space-games-toys/lego-star-wars-imperial-probe-droid-deal-december-2024)
-- [The moon may be 100 million years older than we thought](https://www.space.com/the-universe/moon/the-moon-may-be-100-million-years-older-than-we-thought)
-- [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/)
-- [YouTube to test a way for creators and celebrities to find AI-generated content using their likeness](https://techcrunch.com/2024/12/18/youtube-to-test-a-way-for-creators-and-celebrities-to-find-ai-generated-content-using-their-likeness/)
+- [SpaceX gets green light for seventh Starship mission](https://techcrunch.com/2024/12/18/spacex-gets-green-light-for-seventh-starship-mission/)
+- [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/)
+- [Hauler Hero wants to bring waste management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/)
+- [&#39;Exodus&#39; looks like a next-gen Mass Effect, but you get to fight an armored space bear &lpar;trailer&rpar;](https://www.space.com/entertainment/space-games-toys/exodus-looks-like-a-next-gen-mass-effect-but-you-get-to-fight-an-armored-space-bear-trailer)
+- [Supreme Court to hear arguments over TikTok sell-or-ban law](https://techcrunch.com/2024/12/18/supreme-court-to-hear-arguments-over-tiktok-sell-or-ban-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
