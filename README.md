@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [With 25M users, Bluesky launches a $1M fund to take on social media and AI](https://techcrunch.com/2024/12/18/with-25m-users-bluesky-launches-a-1m-fund-to-take-on-social-media-and-ai/)
+- [Rivian EVs finally get YouTube, Google Cast, and SiriusXM](https://techcrunch.com/2024/12/18/rivian-evs-finally-get-youtube-google-cast-and-siriusxm/)
+- [California can ban new gas cars starting in 2035, EPA says](https://techcrunch.com/2024/12/18/california-can-ban-new-gas-cars-starting-in-2035-epa-says/)
+- [Private Japanese rocket explodes after liftoff in its 2nd launch failure of 2024 &lpar;photos&rpar;](https://www.space.com/space-exploration/private-spaceflight/private-japanese-rocket-explodes-after-liftoff-in-its-2nd-launch-failure-of-2024-photos)
+- [With 25M users, Bluesky gets a $1M fund to take on social media and AI](https://techcrunch.com/2024/12/18/with-25m-users-bluesky-gets-a-1m-fund-to-take-on-social-media-and-ai/)
 - [Tracker firm Hapn spilling names of thousands of GPS tracking customers](https://techcrunch.com/2024/12/18/tracker-firm-hapn-spilling-names-of-thousands-of-gps-tracking-customers/)
-- [Space2Sea Voyage of Legends in Antarctica: Join William Shatner, Neil deGrasse Tyson, former NASA astronauts and more in free webinar on space and science](https://www.space.com/entertainment/space2sea-voyage-of-legends-in-antarctica-join-william-shatner-neil-degrasse-tyson-former-nasa-astronauts-and-more-in-free-webinar-on-space-and-science)
-- [Instagram Threads adds ‘Use Media’ feature for resharing photos and videos](https://techcrunch.com/2024/12/18/instagram-threads-adds-use-media-feature-for-resharing-photos-and-videos/)
-- [James Webb Space Telescope catches monster black hole napping after &#39;overeating&#39; in the early universe](https://www.space.com/monster-black-hole-napping-overfeeding-early-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
