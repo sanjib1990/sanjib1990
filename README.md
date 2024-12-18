@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aave protocol developer secures $31 million for Lens, a high-performance blockchain for social apps](https://techcrunch.com/2024/12/18/aave-protocol-developer-secures-31-million-for-lens-its-high-performance-blockchain-for-social-apps/)
+- [China launches 1st set of spacecraft for planned 13,000-satellite broadband constellation &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-1st-set-of-spacecraft-for-planned-13-000-satellite-broadband-constellation-photo)
 - [Chinese astronauts conduct record-breaking 9-hour spacewalk outside Tiangong space station &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-conduct-record-breaking-9-hour-spacewalk-outside-tiangong-space-station-photos)
 - [Human artifacts abandoned on Mars should be cataloged to track our migration beyond Earth](https://www.space.com/mars-human-artifacts-catalogue)
 - [WeTransfer’s free plan now has a monthly limit of 10 transfers](https://techcrunch.com/2024/12/18/wetransfers-free-plan-now-has-a-monthly-limit-of-10-transfers/)
-- [Five years later… Netflix hit with Dutch data access fine](https://techcrunch.com/2024/12/18/five-years-later-netflix-hit-with-dutch-data-access-fine/)
-- [Boeing Starliner astronauts will return to Earth in March 2025 after new NASA, SpaceX delay](https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-astronauts-will-return-to-earth-in-march-2025-after-new-nasa-spacex-delay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
