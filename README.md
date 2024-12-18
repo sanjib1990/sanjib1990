@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canoo furloughs workers and idles factory as it scrapes for cash](https://techcrunch.com/2024/12/18/canoo-furloughs-workers-and-idles-factory-as-it-scrapes-for-cash/)
 - [New Anthropic study shows AI really doesn’t want to be forced to change its views](https://techcrunch.com/2024/12/18/new-anthropic-study-shows-ai-really-doesnt-want-to-be-forced-to-change-its-views/)
 - [Menlo Ventures and Anthropic have picked the first 18 startups for their $100M fund](https://techcrunch.com/2024/12/18/menlo-ventures-and-anthropic-have-picked-the-first-18-startups-for-their-100m-fund/)
 - [Amazon Fire TV introduces ‘Dual Audio’ feature for simultaneous listening via hearing aids and TV speakers](https://techcrunch.com/2024/12/18/amazon-fire-tv-introduces-dual-audio-feature-for-simultaneous-listening-via-hearing-aids-and-tv-speakers/)
 - [Rivian EVs finally get YouTube, Google Cast, and SiriusXM](https://techcrunch.com/2024/12/18/rivian-evs-finally-get-youtube-google-cast-and-siriusxm/)
-- [California can ban new gas cars starting in 2035, EPA says](https://techcrunch.com/2024/12/18/california-can-ban-new-gas-cars-starting-in-2035-epa-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
