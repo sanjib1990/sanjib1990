@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Starship Flight 7 test flight gets FAA launch license. But when will it fly?](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-7-test-flight-gets-faa-launch-license-but-when-will-it-fly)
 - [SpaceX wants Starbase to become an official city in Texas](https://www.space.com/space-exploration/private-spaceflight/spacex-wants-starbase-to-become-an-official-city-in-texas)
 - [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/)
 - [Insight VC describes Databricks’ wild $10B deal and the bad advice the CEO ignored](https://techcrunch.com/2024/12/17/insight-vc-describes-databricks-wild-10b-deal-and-the-bad-advice-the-ceo-ignored/)
 - [Salesforce plans to hire 2,000 people to sell its AI products](https://techcrunch.com/2024/12/17/salesforce-plans-to-hire-2000-people-to-sell-its-ai-products/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/17/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
