@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Five years later… Netflix hit with Dutch data access fine](https://techcrunch.com/2024/12/18/five-years-later-netflix-hit-with-dutch-data-access-fine/)
+- [Boeing Starliner astronauts will return to Earth in March 2025 after new NASA, SpaceX delay](https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-astronauts-will-return-to-earth-in-march-2025-after-new-nasa-spacex-delay)
 - [AI is burying company web sites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/)
 - [Threads is testing a post scheduling feature](https://techcrunch.com/2024/12/17/threads-is-testing-a-post-scheduling-feature/)
 - [‘It’s dumb to IPO this year’: Databricks CEO explains why he’s waiting to go public](https://techcrunch.com/2024/12/17/its-dumb-to-ipo-this-year-databricks-ceo-explains-why-hes-waiting-to-go-public/)
-- [India’s MobiKwik surges 82% in market debut](https://techcrunch.com/2024/12/17/mobikwik-surges-82-in-india-market-debut/)
-- [SpaceX&#39;s Starship Flight 7 test flight gets FAA launch license. But when will it fly?](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-7-test-flight-gets-faa-launch-license-but-when-will-it-fly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
