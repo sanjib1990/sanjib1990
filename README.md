@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [forcing my kids to make their own cryptocurrency](https://www.youtube.com/watch?v=L4ASwqLZVV0)
+- [create your own Solana Token...in the terminal &lpar;2025 edition&rpar;](https://www.youtube.com/watch?v=L4ASwqLZVV0)
 - [Sujood from Sudan: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=vPSWNkZ_WX0)
 - [How opening learning can close knowledge gaps with June Odongo](https://www.youtube.com/watch?v=k8-xSeYO44c)
 - [Complete DevOps Roadmap 2025 - Master these 4 Levels!](https://www.youtube.com/watch?v=1J2YOV6LcwY)
