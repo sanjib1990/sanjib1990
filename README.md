@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Anthropic study shows AI really doesn’t want to be forced to change its views](https://techcrunch.com/2024/12/18/new-anthropic-study-shows-ai-really-doesnt-want-to-be-forced-to-change-its-views/)
+- [Menlo Ventures and Anthropic have picked the first 18 startups for their $100M fund](https://techcrunch.com/2024/12/18/menlo-ventures-and-anthropic-have-picked-the-first-18-startups-for-their-100m-fund/)
+- [Amazon Fire TV introduces ‘Dual Audio’ feature for simultaneous listening via hearing aids and TV speakers](https://techcrunch.com/2024/12/18/amazon-fire-tv-introduces-dual-audio-feature-for-simultaneous-listening-via-hearing-aids-and-tv-speakers/)
 - [Rivian EVs finally get YouTube, Google Cast, and SiriusXM](https://techcrunch.com/2024/12/18/rivian-evs-finally-get-youtube-google-cast-and-siriusxm/)
 - [California can ban new gas cars starting in 2035, EPA says](https://techcrunch.com/2024/12/18/california-can-ban-new-gas-cars-starting-in-2035-epa-says/)
-- [Private Japanese rocket explodes after liftoff in its 2nd launch failure of 2024 &lpar;photos&rpar;](https://www.space.com/space-exploration/private-spaceflight/private-japanese-rocket-explodes-after-liftoff-in-its-2nd-launch-failure-of-2024-photos)
-- [With 25M users, Bluesky gets a $1M fund to take on social media and AI](https://techcrunch.com/2024/12/18/with-25m-users-bluesky-gets-a-1m-fund-to-take-on-social-media-and-ai/)
-- [Tracker firm Hapn spilling names of thousands of GPS tracking customers](https://techcrunch.com/2024/12/18/tracker-firm-hapn-spilling-names-of-thousands-of-gps-tracking-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
