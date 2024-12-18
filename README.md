@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope catches monster black hole napping after &#39;overeating&#39; in the early universe](https://www.space.com/monster-black-hole-napping-overfeeding-early-universe)
+- [Perplexity acquires Carbon to connect AI search to your work files](https://techcrunch.com/2024/12/18/perplexity-acquires-carbon-to-connect-ai-search-to-your-work-files/)
+- [App downloads decline 2.3% in 2024, but consumer spending grows to $127B](https://techcrunch.com/2024/12/18/app-downloads-decline-2-3-in-2024-but-consumer-spending-grows-to-127b/)
 - [Wing and DoorDash launch drone deliveries in Dallas-Fort Worth](https://techcrunch.com/2024/12/18/wing-and-doordash-launch-drone-deliveries-in-dallas-fort-worth/)
 - [Microsoft bought nearly 500,000 Nvidia Hopper chips this year](https://techcrunch.com/2024/12/18/microsoft-bought-nearly-500000-nvidia-hopper-chips-this-year/)
-- [OpenAI brings ChatGPT to your landline](https://techcrunch.com/2024/12/18/openai-brings-chatgpt-to-your-landline/)
-- [Who wants ‘Her’-like AI that gets stuff wrong?](https://techcrunch.com/2024/12/18/who-wants-her-like-ai-that-gets-stuff-wrong/)
-- [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
