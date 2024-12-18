@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX gets green light for seventh Starship mission](https://techcrunch.com/2024/12/18/spacex-gets-green-light-for-seventh-starship-mission/)
-- [Sustainable Ocean Alliance marks 10 years with ocean-friendly startup label and a new batch of ‘ecopreneurs’](https://techcrunch.com/2024/12/18/sustainable-ocean-alliance-marks-10-years-with-ocean-friendly-startup-label-and-a-new-batch-of-ecopreneurs/)
-- [Hauler Hero wants to bring waste management software into the 21st century](https://techcrunch.com/2024/12/18/hauler-hero-wants-to-bring-waste-management-software-into-the-21st-century/)
-- [&#39;Exodus&#39; looks like a next-gen Mass Effect, but you get to fight an armored space bear &lpar;trailer&rpar;](https://www.space.com/entertainment/space-games-toys/exodus-looks-like-a-next-gen-mass-effect-but-you-get-to-fight-an-armored-space-bear-trailer)
-- [Supreme Court to hear arguments over TikTok sell-or-ban law](https://techcrunch.com/2024/12/18/supreme-court-to-hear-arguments-over-tiktok-sell-or-ban-law/)
+- [Wing and DoorDash launch drone deliveries in Dallas-Fort Worth](https://techcrunch.com/2024/12/18/wing-and-doordash-launch-drone-deliveries-in-dallas-fort-worth/)
+- [Microsoft bought nearly 500,000 Nvidia Hopper chips this year](https://techcrunch.com/2024/12/18/microsoft-bought-nearly-500000-nvidia-hopper-chips-this-year/)
+- [OpenAI brings ChatGPT to your landline](https://techcrunch.com/2024/12/18/openai-brings-chatgpt-to-your-landline/)
+- [Who wants ‘Her’-like AI that gets stuff wrong?](https://techcrunch.com/2024/12/18/who-wants-her-like-ai-that-gets-stuff-wrong/)
+- [GitHub launches a free version of its Copilot](https://techcrunch.com/2024/12/18/github-launches-a-free-version-of-its-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
