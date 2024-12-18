@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese astronauts conduct record-breaking 9-hour spacewalk outside Tiangong space station &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-conduct-record-breaking-9-hour-spacewalk-outside-tiangong-space-station-photos)
+- [Human artifacts abandoned on Mars should be cataloged to track our migration beyond Earth](https://www.space.com/mars-human-artifacts-catalogue)
 - [WeTransfer’s free plan now has a monthly limit of 10 transfers](https://techcrunch.com/2024/12/18/wetransfers-free-plan-now-has-a-monthly-limit-of-10-transfers/)
 - [Five years later… Netflix hit with Dutch data access fine](https://techcrunch.com/2024/12/18/five-years-later-netflix-hit-with-dutch-data-access-fine/)
 - [Boeing Starliner astronauts will return to Earth in March 2025 after new NASA, SpaceX delay](https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-astronauts-will-return-to-earth-in-march-2025-after-new-nasa-spacex-delay)
-- [AI is burying company web sites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/)
-- [Threads is testing a post scheduling feature](https://techcrunch.com/2024/12/17/threads-is-testing-a-post-scheduling-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
