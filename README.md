@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WeTransfer’s free plan now has a monthly limit of 10 transfers](https://techcrunch.com/2024/12/18/wetransfers-free-plan-now-has-a-monthly-limit-of-10-transfers/)
 - [Five years later… Netflix hit with Dutch data access fine](https://techcrunch.com/2024/12/18/five-years-later-netflix-hit-with-dutch-data-access-fine/)
 - [Boeing Starliner astronauts will return to Earth in March 2025 after new NASA, SpaceX delay](https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-astronauts-will-return-to-earth-in-march-2025-after-new-nasa-spacex-delay)
 - [AI is burying company web sites in search results, but Otterly.AI thinks it can help](https://techcrunch.com/2024/12/18/ai-is-burying-company-web-sites-in-search-results-but-otterly-ai-thinks-it-can-help/)
 - [Threads is testing a post scheduling feature](https://techcrunch.com/2024/12/17/threads-is-testing-a-post-scheduling-feature/)
-- [‘It’s dumb to IPO this year’: Databricks CEO explains why he’s waiting to go public](https://techcrunch.com/2024/12/17/its-dumb-to-ipo-this-year-databricks-ceo-explains-why-hes-waiting-to-go-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
