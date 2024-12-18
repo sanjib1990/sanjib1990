@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads is testing a post scheduling feature](https://techcrunch.com/2024/12/17/threads-is-testing-a-post-scheduling-feature/)
 - [‘It’s dumb to IPO this year’: Databricks CEO explains why he’s waiting to go public](https://techcrunch.com/2024/12/17/its-dumb-to-ipo-this-year-databricks-ceo-explains-why-hes-waiting-to-go-public/)
 - [India’s MobiKwik surges 82% in market debut](https://techcrunch.com/2024/12/17/mobikwik-surges-82-in-india-market-debut/)
 - [SpaceX&#39;s Starship Flight 7 test flight gets FAA launch license. But when will it fly?](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-7-test-flight-gets-faa-launch-license-but-when-will-it-fly)
 - [SpaceX wants Starbase to become an official city in Texas](https://www.space.com/space-exploration/private-spaceflight/spacex-wants-starbase-to-become-an-official-city-in-texas)
-- [The DOJ wants a Perplexity executive to testify in its Google antitrust case](https://techcrunch.com/2024/12/17/the-doj-wants-a-perplexity-executive-to-testify-in-its-google-antitrust-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
