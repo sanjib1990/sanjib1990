@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube says it will start cracking down on videos with clickbait titles in India](https://techcrunch.com/2024/12/18/youtube-says-it-will-start-cracking-down-on-videos-with-clickbait-titles-in-india/)
+- [The Imperial Probe Droid is one of the best Lego Star Wars sets we have reviewed and you can now pick it up for a low price](https://www.space.com/entertainment/space-games-toys/lego-star-wars-imperial-probe-droid-deal-december-2024)
+- [The moon may be 100 million years older than we thought](https://www.space.com/the-universe/moon/the-moon-may-be-100-million-years-older-than-we-thought)
+- [Access bets people will pay thousands of dollars a year for guaranteed restaurant reservations](https://techcrunch.com/2024/12/18/access-bets-people-will-pay-thousands-of-dollars-for-guaranteed-restaurant-reservations/)
 - [YouTube to test a way for creators and celebrities to find AI-generated content using their likeness](https://techcrunch.com/2024/12/18/youtube-to-test-a-way-for-creators-and-celebrities-to-find-ai-generated-content-using-their-likeness/)
-- [Felix Capital’s Julien Codorniou to join 20VC as general partner](https://techcrunch.com/2024/12/18/felix-capitals-julien-codorniou-joins-20vc-as-general-partner/)
-- [Aave protocol developer secures $31 million for Lens, a high-performance blockchain for social apps](https://techcrunch.com/2024/12/18/aave-protocol-developer-secures-31-million-for-lens-its-high-performance-blockchain-for-social-apps/)
-- [China launches 1st set of spacecraft for planned 13,000-satellite broadband constellation &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-launches-1st-set-of-spacecraft-for-planned-13-000-satellite-broadband-constellation-photo)
-- [Chinese astronauts conduct record-breaking 9-hour spacewalk outside Tiangong space station &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/chinese-astronauts-conduct-record-breaking-9-hour-spacewalk-outside-tiangong-space-station-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
