@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [World&lpar;coin&rpar; must let Europeans comprehensively delete their data, under privacy order](https://techcrunch.com/2024/12/19/worldcoin-must-let-europeans-comprehensively-delete-their-data-under-privacy-order/)
-- [BepiColombo spacecraft flies by Mercury, sees volcanic plain and impact craters](https://www.space.com/the-universe/mercury/bepicolombo-spacecraft-flies-by-mercury-sees-volcanic-plain-and-impact-craters)
-- [SpaceX will launch Firefly Aerospace&#39;s Blue Ghost lander to the moon in mid-January with these 10 NASA payloads](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-the-private-blue-ghost-moon-lander-with-these-10-nasa-experiments-in-january-2025)
-- [Tesla is courting Texas cities to test its promised robotaxi service](https://techcrunch.com/2024/12/19/tesla-is-courting-texas-cities-to-test-its-promised-robotaxi-service/)
-- [K2 Space will fly its extra-large satellite for the first time in 2026](https://techcrunch.com/2024/12/19/k2-space-will-fly-its-extra-large-satellite-for-the-first-time-in-2026/)
+- [Waymo fills the Cruise void overseas and a salute to icon Jean Jennings](https://techcrunch.com/2024/12/19/waymo-fills-the-cruise-void-overseas-and-a-salute-to-an-icon/)
+- [Instagram teases AI tools for editing appearances, backgrounds in videos using prompts](https://techcrunch.com/2024/12/19/instagram-teases-ai-tools-for-editing-appearances-backgrounds-in-videos-using-prompts/)
+- [It&#39;s a bird! it&#39;s a plane! It&#39;s the 1st fantastic trailer for James Gunn&#39;s &#39;Superman!&#39;](https://www.space.com/entertainment/its-a-bird-its-a-plane-its-the-1st-fantastic-trailer-for-james-gunns-superman)
+- [Over 20 venture firms pledge to not take money from China, Russia](https://techcrunch.com/2024/12/19/over-20-venture-firms-pledge-to-not-take-money-from-china-russia/)
+- [Google releases its own ‘reasoning’ AI model](https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
