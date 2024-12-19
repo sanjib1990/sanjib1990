@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/)
+- [Real estate VC Fifth Wall is raising $500M for a new fund](https://techcrunch.com/2024/12/19/real-estate-vc-fifth-wall-is-raising-500m-for-a-new-fund/)
 - [NASA space telescopes give Christmas Tree Cluster a festive makeover &lpar;photos&rpar;](https://www.space.com/the-universe/the-christmas-tree-cluster-gets-a-festive-makeover-photos)
-- [In just 4 months AI coding assistant Cursor raised another $100M at a $2.5B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/)
+- [In just 4 months, AI coding assistant Cursor raised another $100M at a $2.5B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/)
 - [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/)
-- [Looking back at &#39;2010&#39;, the criminally-underrated sequel to &#39;2001: A Space Odyssey&#39;](https://www.space.com/entertainment/space-movies-shows/looking-back-at-2010-the-criminally-underrated-sequel-to-2001-a-space-odyssey)
-- [Tapestry, a new app for tracking social media, news, blogs, and more, will launch in ‘early 2025’](https://techcrunch.com/2024/12/19/tapestry-a-new-app-for-tracking-social-media-news-blogs-and-more-will-launch-in-early-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
