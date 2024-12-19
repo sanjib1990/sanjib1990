@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World&lpar;coin&rpar; must let Europeans comprehensively delete their data, under privacy order](https://techcrunch.com/2024/12/19/worldcoin-must-let-europeans-comprehensively-delete-their-data-under-privacy-order/)
+- [BepiColombo spacecraft flies by Mercury, sees volcanic plain and impact craters](https://www.space.com/the-universe/mercury/bepicolombo-spacecraft-flies-by-mercury-sees-volcanic-plain-and-impact-craters)
 - [SpaceX will launch Firefly Aerospace&#39;s Blue Ghost lander to the moon in mid-January with these 10 NASA payloads](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-the-private-blue-ghost-moon-lander-with-these-10-nasa-experiments-in-january-2025)
 - [Tesla is courting Texas cities to test its promised robotaxi service](https://techcrunch.com/2024/12/19/tesla-is-courting-texas-cities-to-test-its-promised-robotaxi-service/)
 - [K2 Space will fly its extra-large satellite for the first time in 2026](https://techcrunch.com/2024/12/19/k2-space-will-fly-its-extra-large-satellite-for-the-first-time-in-2026/)
-- [&#39;Missing link&#39; black hole found? Not so fast, new study says](https://www.space.com/missing-link-black-hole-omega-centauri)
-- [Did the &#39;Lower Decks&#39; finale just set up an exciting new &#39;Star Trek&#39; spin-off?](https://www.space.com/entertainment/space-movies-shows/did-the-lower-decks-finale-just-set-up-an-exciting-new-star-trek-spin-off)
 <!-- BLOG-POST-LIST:END -->
 
 ---
