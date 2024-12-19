@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bugs in a major McDonald’s India delivery system exposed sensitive customer data](https://techcrunch.com/2024/12/19/bugs-in-a-major-mcdonalds-india-delivery-system-exposed-sensitive-customer-data/)
 - [Double moon mission! SpaceX to launch 2 private lunar landers in January](https://www.space.com/the-universe/moon/double-moon-mission-spacex-to-launch-2-private-lunar-landers-in-january)
 - [Apple and Meta go to war over interoperability vs. privacy](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
 - [Hyme Energy signs global deal with Arla to scale thermal storage tech](https://techcrunch.com/2024/12/19/after-raising-26m-hyme-energy-signs-global-deal-to-scale-thermal-storage/)
 - [BlueQubit raises $10M to take Quantum software into real-world applications](https://techcrunch.com/2024/12/19/bluequbit-raises-10m-to-take-quantum-software-into-real-world-applications/)
-- [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
