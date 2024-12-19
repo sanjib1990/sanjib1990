@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX will launch Firefly Aerospace&#39;s Blue Ghost lander to the moon in mid-January with these 10 NASA payloads](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-the-private-blue-ghost-moon-lander-with-these-10-nasa-experiments-in-january-2025)
+- [Tesla is courting Texas cities to test its promised robotaxi service](https://techcrunch.com/2024/12/19/tesla-is-courting-texas-cities-to-test-its-promised-robotaxi-service/)
 - [K2 Space will fly its extra-large satellite for the first time in 2026](https://techcrunch.com/2024/12/19/k2-space-will-fly-its-extra-large-satellite-for-the-first-time-in-2026/)
+- [&#39;Missing link&#39; black hole found? Not so fast, new study says](https://www.space.com/missing-link-black-hole-omega-centauri)
 - [Did the &#39;Lower Decks&#39; finale just set up an exciting new &#39;Star Trek&#39; spin-off?](https://www.space.com/entertainment/space-movies-shows/did-the-lower-decks-finale-just-set-up-an-exciting-new-star-trek-spin-off)
-- [Hotel booking platform Safara raises $14M, acquires rival Skipper](https://techcrunch.com/2024/12/19/hotel-booking-platform-safara-raises-14m-acquires-rival-skipper/)
-- [Culina Health nabs $7.9M to provide virtual access to registered dietitians](https://techcrunch.com/2024/12/19/culina-health-nabs-7-9m-to-provide-virtual-access-to-registered-dietitians/)
-- [Decart adds $32M at a $500M+ valuation to build AI tech and ‘open world’ apps](https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
