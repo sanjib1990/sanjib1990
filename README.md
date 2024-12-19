@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ex-Twitch CEO Emmett Shear is founding an AI startup backed by a16z](https://techcrunch.com/2024/12/19/ex-twitch-ceo-emmett-shear-is-founding-an-ai-startup-backed-by-a16z/)
-- [Real estate VC Fifth Wall is raising $500M for a new fund](https://techcrunch.com/2024/12/19/real-estate-vc-fifth-wall-is-raising-500m-for-a-new-fund/)
-- [NASA space telescopes give Christmas Tree Cluster a festive makeover &lpar;photos&rpar;](https://www.space.com/the-universe/the-christmas-tree-cluster-gets-a-festive-makeover-photos)
-- [In just 4 months, AI coding assistant Cursor raised another $100M at a $2.5B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/)
-- [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/)
+- [Boon raises $20.5M to build agentic AI tools for fleets](https://techcrunch.com/2024/12/19/boon-raises-20-5m-to-build-agentic-ai-tools-for-fleets/)
+- [SpaceX inks deal to launch 2 more astronaut missions to the ISS](https://www.space.com/space-exploration/international-space-station/spacex-inks-deal-to-launch-2-more-astronaut-missions-to-the-iss)
+- [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/)
+- [Meet the robot with two Guinness World Records for basketball](https://techcrunch.com/video/meet-the-robot-with-two-guinness-world-records-for-basketball/)
+- [TuSimple pivot from self-driving to AI animation is complete with CreateAI rebrand](https://techcrunch.com/2024/12/19/tusimple-pivot-from-self-driving-to-ai-animation-is-complete-with-createai-rebrand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
