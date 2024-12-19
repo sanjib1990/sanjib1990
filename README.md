@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/)
 - [Boon raises $20.5M to build agentic AI tools for fleets](https://techcrunch.com/2024/12/19/boon-raises-20-5m-to-build-agentic-ai-tools-for-fleets/)
 - [SpaceX inks deal to launch 2 more astronaut missions to the ISS](https://www.space.com/space-exploration/international-space-station/spacex-inks-deal-to-launch-2-more-astronaut-missions-to-the-iss)
 - [A bad experience with an accounting firm spurred this founder to start Aiwyn](https://techcrunch.com/2024/12/19/a-bad-experience-with-an-accounting-firm-spurred-this-founder-to-start-aiwyn/)
 - [Meet the robot with two Guinness World Records for basketball](https://techcrunch.com/video/meet-the-robot-with-two-guinness-world-records-for-basketball/)
-- [TuSimple pivot from self-driving to AI animation is complete with CreateAI rebrand](https://techcrunch.com/2024/12/19/tusimple-pivot-from-self-driving-to-ai-animation-is-complete-with-createai-rebrand/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
