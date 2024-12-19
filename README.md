@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/)
+- [Looking back at &#39;2010&#39;, the criminally-underrated sequel to &#39;2001: A Space Odyssey&#39;](https://www.space.com/entertainment/space-movies-shows/looking-back-at-2010-the-criminally-underrated-sequel-to-2001-a-space-odyssey)
+- [Tapestry, a new app for tracking social media, news, blogs, and more, will launch in ‘early 2025’](https://techcrunch.com/2024/12/19/tapestry-a-new-app-for-tracking-social-media-news-blogs-and-more-will-launch-in-early-2025/)
 - [Waymo fills the Cruise void overseas and a salute to icon Jean Jennings](https://techcrunch.com/2024/12/19/waymo-fills-the-cruise-void-overseas-and-a-salute-to-an-icon/)
 - [Instagram teases AI tools for editing appearances, backgrounds in videos using prompts](https://techcrunch.com/2024/12/19/instagram-teases-ai-tools-for-editing-appearances-backgrounds-in-videos-using-prompts/)
-- [It&#39;s a bird! it&#39;s a plane! It&#39;s the 1st fantastic trailer for James Gunn&#39;s &#39;Superman!&#39;](https://www.space.com/entertainment/its-a-bird-its-a-plane-its-the-1st-fantastic-trailer-for-james-gunns-superman)
-- [Over 20 venture firms pledge to not take money from China, Russia](https://techcrunch.com/2024/12/19/over-20-venture-firms-pledge-to-not-take-money-from-china-russia/)
-- [Google releases its own ‘reasoning’ AI model](https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
