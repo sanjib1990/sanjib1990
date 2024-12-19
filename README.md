@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA space telescopes give Christmas Tree Cluster a festive makeover &lpar;photos&rpar;](https://www.space.com/the-universe/the-christmas-tree-cluster-gets-a-festive-makeover-photos)
+- [In just 4 months AI coding assistant Cursor raised another $100M at a $2.5B valuation led by Thrive, sources say](https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/)
 - [Backed by a16z and NEA, Backflip raises $30M Series A to turn text into AI-generated designs](https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/)
 - [Looking back at &#39;2010&#39;, the criminally-underrated sequel to &#39;2001: A Space Odyssey&#39;](https://www.space.com/entertainment/space-movies-shows/looking-back-at-2010-the-criminally-underrated-sequel-to-2001-a-space-odyssey)
 - [Tapestry, a new app for tracking social media, news, blogs, and more, will launch in ‘early 2025’](https://techcrunch.com/2024/12/19/tapestry-a-new-app-for-tracking-social-media-news-blogs-and-more-will-launch-in-early-2025/)
-- [Waymo fills the Cruise void overseas and a salute to icon Jean Jennings](https://techcrunch.com/2024/12/19/waymo-fills-the-cruise-void-overseas-and-a-salute-to-an-icon/)
-- [Instagram teases AI tools for editing appearances, backgrounds in videos using prompts](https://techcrunch.com/2024/12/19/instagram-teases-ai-tools-for-editing-appearances-backgrounds-in-videos-using-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
