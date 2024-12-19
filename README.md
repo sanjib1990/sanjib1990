@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US government urges high-ranking officials to lock down mobile devices following telecom breaches](https://techcrunch.com/2024/12/19/us-government-urges-high-ranking-officials-to-lock-down-mobile-devices-following-telecom-breaches/)
-- [Oura closes $200M round, bringing its valuation to $5.2B](https://techcrunch.com/2024/12/19/oura-closes-200m-round-bringing-its-valuation-to-5-2b/)
-- [This baby exoplanet is made of different stuff than its birth cloud](https://www.space.com/young-exoplanet-differs-enviroment-planet-formation)
-- [With Neverless, former Revolut execs want to make meme coins easy to buy](https://techcrunch.com/2024/12/19/with-neverless-former-revolut-execs-want-to-make-meme-coins-easy-to-buy/)
-- [North Korea-linked hackers accounted for 61% of all crypto stolen in 2024](https://techcrunch.com/2024/12/19/north-korea-linked-hackers-have-hit-a-new-peak-accounting-for-61of-all-crypto-stolen-in-2024/)
+- [K2 Space will fly its extra-large satellite for the first time in 2026](https://techcrunch.com/2024/12/19/k2-space-will-fly-its-extra-large-satellite-for-the-first-time-in-2026/)
+- [Did the &#39;Lower Decks&#39; finale just set up an exciting new &#39;Star Trek&#39; spin-off?](https://www.space.com/entertainment/space-movies-shows/did-the-lower-decks-finale-just-set-up-an-exciting-new-star-trek-spin-off)
+- [Hotel booking platform Safara raises $14M, acquires rival Skipper](https://techcrunch.com/2024/12/19/hotel-booking-platform-safara-raises-14m-acquires-rival-skipper/)
+- [Culina Health nabs $7.9M to provide virtual access to registered dietitians](https://techcrunch.com/2024/12/19/culina-health-nabs-7-9m-to-provide-virtual-access-to-registered-dietitians/)
+- [Decart adds $32M at a $500M+ valuation to build AI tech and ‘open world’ apps](https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
