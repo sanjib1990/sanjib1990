@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US government urges high-ranking officials to lock down mobile devices following telecom breaches](https://techcrunch.com/2024/12/19/us-government-urges-high-ranking-officials-to-lock-down-mobile-devices-following-telecom-breaches/)
+- [Oura closes $200M round, bringing its valuation to $5.2B](https://techcrunch.com/2024/12/19/oura-closes-200m-round-bringing-its-valuation-to-5-2b/)
+- [This baby exoplanet is made of different stuff than its birth cloud](https://www.space.com/young-exoplanet-differs-enviroment-planet-formation)
+- [With Neverless, former Revolut execs want to make meme coins easy to buy](https://techcrunch.com/2024/12/19/with-neverless-former-revolut-execs-want-to-make-meme-coins-easy-to-buy/)
 - [North Korea-linked hackers accounted for 61% of all crypto stolen in 2024](https://techcrunch.com/2024/12/19/north-korea-linked-hackers-have-hit-a-new-peak-accounting-for-61of-all-crypto-stolen-in-2024/)
-- [Puffy white dwarfs could shed light on mysterious dark matter. Here&#39;s how.](https://www.space.com/the-universe/stars/puffy-white-dwarfs-could-shed-light-on-mysterious-dark-matter-heres-how)
-- [The promise and warning of Truth Terminal, the AI bot that secured $50,000 in Bitcoin from Marc Andreessen](https://techcrunch.com/2024/12/19/the-promise-and-warning-of-truth-terminal-the-ai-bot-that-secured-50000-in-bitcoin-from-marc-andreessen/)
-- [EU asks for views on plan to force Apple to open up iOS](https://techcrunch.com/2024/12/19/eu-asks-for-views-on-plan-to-force-apple-to-open-up-ios/)
-- [Bugs in a major McDonald’s India delivery system exposed sensitive customer data](https://techcrunch.com/2024/12/19/bugs-in-a-major-mcdonalds-india-delivery-system-exposed-sensitive-customer-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
