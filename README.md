@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [After raising $26M, Hyme Energy signs global deal to scale thermal storage](https://techcrunch.com/2024/12/19/after-raising-26m-hyme-energy-signs-global-deal-to-scale-thermal-storage/)
 - [BlueQubit raises $10M to take Quantum software into real-world applications](https://techcrunch.com/2024/12/19/bluequbit-raises-10m-to-take-quantum-software-into-real-world-applications/)
 - [Indian startups raised 32% fewer rounds in 2024 as VCs got selective](https://techcrunch.com/2024/12/18/indian-startups-raised-32-fewer-rounds-in-2024-as-vcs-got-selective/)
 - [‘We want to pay it forward’: Funding Societies raises $25M to boost capital for SMEs in Southeast Asia](https://techcrunch.com/2024/12/18/softbank-backed-sme-lender-funding-societies-raises-25m/)
 - [Exclusive: Google’s Gemini is forcing contractors to rate AI responses outside their expertise](https://techcrunch.com/2024/12/18/exclusive-googles-gemini-is-forcing-contractors-to-rate-ai-responses-outside-their-expertise/)
-- [Canoo furloughs workers and idles factory as it scrapes for cash](https://techcrunch.com/2024/12/18/canoo-furloughs-workers-and-idles-factory-as-it-scrapes-for-cash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
