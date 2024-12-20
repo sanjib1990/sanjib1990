@@ -82,9 +82,9 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [MIT Milestone Celebration | Keynote Address &lpar;480p&rpar;](https://www.youtube.com/watch?v=wtRBk2dWxpo)
-- [MIT Milestone Celebration | The Future of OCW and Education &lpar;480p&rpar;](https://www.youtube.com/watch?v=EOl5lfyE1to)
-- [MIT Milestone Celebration | Welcome &lpar;480p&rpar;](https://www.youtube.com/watch?v=v8EFwgEJPyU)
+- [MIT Milestone Celebration | Keynote Address &lpar;480p&rpar;, Nov 28, 2007](https://www.youtube.com/watch?v=wtRBk2dWxpo)
+- [MIT Milestone Celebration | The Future of OCW and Education &lpar;480p&rpar;, Nov 28, 2007](https://www.youtube.com/watch?v=EOl5lfyE1to)
+- [MIT Milestone Celebration | Welcome &lpar;480p&rpar;, Nov 28, 2007](https://www.youtube.com/watch?v=v8EFwgEJPyU)
 - [The open-source Alexa](https://www.youtube.com/watch?v=Dl7jHJP18qE)
 - [XZ Exploit - Computerphile](https://www.youtube.com/watch?v=LY8_35a_DEA)
 <!-- YOUTUBE:END -->
