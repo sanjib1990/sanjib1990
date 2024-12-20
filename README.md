@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lerer Hippeau files to a raise Fund IX](https://techcrunch.com/2024/12/20/lerer-hippeau-files-to-a-raise-fund-ix/)
+- [Swizzle Fund raises $5M for inaugural fund addressing women’s health and wealth](https://techcrunch.com/2024/12/20/swizzle-fund-raises-5m-for-inaugural-fund-addressing-womens-health-and-wealth/)
+- [Lerer Hippeau files to raise Fund IX](https://techcrunch.com/2024/12/20/lerer-hippeau-files-to-a-raise-fund-ix/)
 - [NASA Mars probe spies dusty, retired Insight lander from orbit &lpar;photo&rpar;](https://www.space.com/the-universe/mars/nasa-mars-probe-spies-dusty-retired-insight-lander-from-orbit-photo)
 - [Arizona’s getting an online charter school taught entirely by AI](https://techcrunch.com/2024/12/20/arizonas-getting-an-online-charter-school-taught-entirely-by-ai/)
 - [Rocket Lab scrubs Strix radar satellite launch for Synspective over &#39;sensor data&#39;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-scrubs-strix-radar-satellite-launch-for-synspective-over-sensor-data)
-- [Ransomware attack on health giant Ascension hits 5.6 million patients](https://techcrunch.com/2024/12/20/ransomware-attack-on-health-giant-ascension-hits-5-6-million-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
