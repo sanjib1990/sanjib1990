@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Energy Revolution Ventures’ $18M fund lays a bet on ‘new chemistry’ startups in energy and hydrogen](https://techcrunch.com/2024/12/20/energy-revolution-ventures-18m-fund-lays-a-bet-on-new-chemistry-startups-in-energy-and-hydrogen/)
+- [‘Genius Girl’ goes from inspiring a Korean TV show character to raising a $100 million AI fund](https://techcrunch.com/2024/12/20/genius-girl-goes-from-inspiring-a-korean-tv-show-character-to-raising-a-100-million-ai-fund/)
 - [NASA&#39;s Hubble and Chandra telescopes discover a strange &#39;sideways&#39; black hole in a cosmic crime scene &lpar;image&rpar;](https://www.space.com/NASA-sideways-black-hole-crime-scene-NGC5084)
 - [The Ursid meteor shower peaks this weekend. Here&#39;s what to expect from the final &#39;shooting stars&#39; of 2024](https://www.space.com/stargazing/the-ursid-meteor-shower-peaks-this-weekend-heres-how-to-see-it)
 - [US Space Force 5 years later: What has it accomplished so far, and where does it go from here?](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-5-years-later-what-has-it-accomplished-so-far-and-where-does-it-go-from-here)
-- [Bluesky adds mentions tab in the notifications screen and username squatting protection](https://techcrunch.com/2024/12/20/bluesky-adds-mentions-tab-in-the-notifications-screen-and-username-squatting-protection/)
-- [Uzbekistan’s mobile bank TBC bags $37M to expand with new AI and insurance products](https://techcrunch.com/2024/12/20/uzbekistans-mobile-bank-tbc-bags-37m-to-expand-with-new-ai-and-insurance-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
