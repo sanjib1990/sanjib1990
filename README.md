@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom&#39;s private space station is coming sooner than we thought](https://www.space.com/space-exploration/private-spaceflight/axioms-private-space-station-is-coming-sooner-than-we-thought)
+- [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/)
+- [Google is expanding Gemini’s in-depth research mode to 40 languages](https://techcrunch.com/2024/12/20/google-is-expanding-geminis-in-depth-research-mode-to-40-languages/)
 - [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
 - [Watch NASA&#39;s Artemis Orion moon spacecraft blow its top during testing &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/watch-nasas-artemis-orion-moon-spacecraft-blow-its-top-during-testing-video)
-- [OpenAI announces new o3 models](https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/)
-- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/20/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
-- [Swizzle Fund raises $5M for inaugural fund addressing women’s health and wealth](https://techcrunch.com/2024/12/20/swizzle-fund-raises-5m-for-inaugural-fund-addressing-womens-health-and-wealth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
