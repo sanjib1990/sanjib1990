@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
+- [Watch NASA&#39;s Artemis Orion moon spacecraft blow its top during testing &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/watch-nasas-artemis-orion-moon-spacecraft-blow-its-top-during-testing-video)
+- [OpenAI announces new o3 models](https://techcrunch.com/2024/12/20/openai-announces-new-o3-model/)
+- [OpenAI 2024 event: How to watch new ChatGPT product reveals and demos](https://techcrunch.com/2024/12/20/openai-2024-event-how-to-watch-new-chatgpt-product-reveals-and-demos/)
 - [Swizzle Fund raises $5M for inaugural fund addressing women’s health and wealth](https://techcrunch.com/2024/12/20/swizzle-fund-raises-5m-for-inaugural-fund-addressing-womens-health-and-wealth/)
-- [Lerer Hippeau files to raise Fund IX](https://techcrunch.com/2024/12/20/lerer-hippeau-files-to-a-raise-fund-ix/)
-- [NASA Mars probe spies dusty, retired Insight lander from orbit &lpar;photo&rpar;](https://www.space.com/the-universe/mars/nasa-mars-probe-spies-dusty-retired-insight-lander-from-orbit-photo)
-- [Arizona’s getting an online charter school taught entirely by AI](https://techcrunch.com/2024/12/20/arizonas-getting-an-online-charter-school-taught-entirely-by-ai/)
-- [Rocket Lab scrubs Strix radar satellite launch for Synspective over &#39;sensor data&#39;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-scrubs-strix-radar-satellite-launch-for-synspective-over-sensor-data)
 <!-- BLOG-POST-LIST:END -->
 
 ---
