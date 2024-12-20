@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 30 satellites on Bandwagon-2 rideshare mission early Dec. 21](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-30-satellites-on-bandwagon-2-rideshare-mission-early-dec-21)
+- [Space2Sea Antarctica: A student journalist&#39;s expedition to bottom of the world begins](https://www.space.com/space-exploration/missions/space2sea-antarctica-a-student-journalists-expedition-to-bottom-of-the-world-begins)
+- [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/)
 - [Dreaming of a white Christmas? Snow is likely in these US states according to NOAA climate data](https://www.space.com/the-universe/earth/dreaming-of-a-white-christmas-snow-is-likely-in-these-us-states-according-to-noaa-climate-data)
 - [Third member of LockBit ransomware gang has been arrested](https://techcrunch.com/2024/12/20/third-member-of-lockbit-ransomware-gang-has-been-arrested/)
-- [Feds clear the way for robotaxis without steering wheels and pedals](https://techcrunch.com/2024/12/20/feds-clear-the-way-for-robotaxis-without-steering-wheel-and-pedals/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/12/20/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
