@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The year is coming to a close, but startup news keeps rolling in](https://techcrunch.com/2024/12/20/the-year-is-coming-to-a-close-but-startup-news-keeps-rolling-in/)
-- [SpaceX launching 4 &#39;MicroGEO&#39; satellites to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-4-microgeo-satellites-to-orbit-tonight)
-- [Axiom&#39;s private space station is coming sooner than we thought](https://www.space.com/space-exploration/private-spaceflight/axioms-private-space-station-is-coming-sooner-than-we-thought)
-- [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/)
-- [Google is expanding Gemini’s in-depth research mode to 40 languages](https://techcrunch.com/2024/12/20/google-is-expanding-geminis-in-depth-research-mode-to-40-languages/)
+- [Dreaming of a white Christmas? Snow is likely in these US states according to NOAA climate data](https://www.space.com/the-universe/earth/dreaming-of-a-white-christmas-snow-is-likely-in-these-us-states-according-to-noaa-climate-data)
+- [Third member of LockBit ransomware gang has been arrested](https://techcrunch.com/2024/12/20/third-member-of-lockbit-ransomware-gang-has-been-arrested/)
+- [Feds clear the way for robotaxis without steering wheels and pedals](https://techcrunch.com/2024/12/20/feds-clear-the-way-for-robotaxis-without-steering-wheel-and-pedals/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2024/12/20/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [VCs pledge not to take money from Russia or China, and Databricks raises a humongous round](https://techcrunch.com/2024/12/20/vcs-pledge-not-to-take-money-from-russia-china-databricks-raises-humongous-round/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
