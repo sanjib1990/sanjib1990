@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch a private Earth-imaging satellite this morning](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-a-private-earth-imaging-satellite-this-morning)
+- [Sequoia’s Matt Miller is exiting the firm after making headlines earlier this year](https://techcrunch.com/2024/12/19/sequoias-matt-miller-is-exiting-the-firm-after-making-headlines-earlier-this-year/)
 - [India’s Rapido exposed user and driver data through leaky website feedback form](https://techcrunch.com/2024/12/19/indias-rapido-exposed-user-and-driver-data-through-leaky-website-feedback-form/)
 - [Sam Altman once owned some equity in OpenAI through Sequoia](https://techcrunch.com/2024/12/19/sam-altman-once-owned-some-equity-in-openai-through-sequoia/)
 - [Russian cosmonauts install X-ray detector, jettison trash on spacewalk outside ISS](https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-x-ray-detector-jettison-trash-on-spacewalk-outside-iss)
-- [Perplexity has reportedly closed a $500M funding round](https://techcrunch.com/2024/12/19/perplexity-has-reportedly-closed-a-500m-funding-round/)
-- [Boon raises $20.5M to build agentic AI tools for fleets](https://techcrunch.com/2024/12/19/boon-raises-20-5m-to-build-agentic-ai-tools-for-fleets/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
