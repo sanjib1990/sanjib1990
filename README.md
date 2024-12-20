@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/)
+- [European Solo GP Robin Capital closes first fund with €15M to play with](https://techcrunch.com/2024/12/19/european-solo-gp-robin-capital-closes-first-fund-with-e15m-to-play-with/)
 - [Watch Rocket Lab launch a private Earth-imaging satellite this morning](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-a-private-earth-imaging-satellite-this-morning)
 - [Sequoia’s Matt Miller is exiting the firm after making headlines earlier this year](https://techcrunch.com/2024/12/19/sequoias-matt-miller-is-exiting-the-firm-after-making-headlines-earlier-this-year/)
 - [India’s Rapido exposed user and driver data through leaky website feedback form](https://techcrunch.com/2024/12/19/indias-rapido-exposed-user-and-driver-data-through-leaky-website-feedback-form/)
-- [Sam Altman once owned some equity in OpenAI through Sequoia](https://techcrunch.com/2024/12/19/sam-altman-once-owned-some-equity-in-openai-through-sequoia/)
-- [Russian cosmonauts install X-ray detector, jettison trash on spacewalk outside ISS](https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-x-ray-detector-jettison-trash-on-spacewalk-outside-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
