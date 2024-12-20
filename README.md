@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rivian executives accused of harassment in previously unreported lawsuits](https://techcrunch.com/2024/12/20/rivian-executives-accused-of-harassment-in-previously-unreported-lawsuits/)
-- [Hubble&#39;s &#39;impossible&#39; planet explained? Gas giants may have formed fast in early universe](https://www.space.com/the-universe/exoplanets/hubbles-impossible-planet-explained-gas-giants-may-have-formed-fast-in-early-universe)
-- [Why Apple sends spyware victims to this nonprofit security lab](https://techcrunch.com/2024/12/20/why-apple-sends-spyware-victims-to-this-nonprofit-security-lab/)
-- [Energy Revolution Ventures’ $18M fund lays a bet on ‘new chemistry’ startups in energy and hydrogen](https://techcrunch.com/2024/12/20/energy-revolution-ventures-18m-fund-lays-a-bet-on-new-chemistry-startups-in-energy-and-hydrogen/)
-- [‘Genius Girl’ goes from inspiring a Korean TV show character to raising a $100 million AI fund](https://techcrunch.com/2024/12/20/genius-girl-goes-from-inspiring-a-korean-tv-show-character-to-raising-a-100-million-ai-fund/)
+- [Lerer Hippeau files to a raise Fund IX](https://techcrunch.com/2024/12/20/lerer-hippeau-files-to-a-raise-fund-ix/)
+- [NASA Mars probe spies dusty, retired Insight lander from orbit &lpar;photo&rpar;](https://www.space.com/the-universe/mars/nasa-mars-probe-spies-dusty-retired-insight-lander-from-orbit-photo)
+- [Arizona’s getting an online charter school taught entirely by AI](https://techcrunch.com/2024/12/20/arizonas-getting-an-online-charter-school-taught-entirely-by-ai/)
+- [Rocket Lab scrubs Strix radar satellite launch for Synspective over &#39;sensor data&#39;](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-scrubs-strix-radar-satellite-launch-for-synspective-over-sensor-data)
+- [Ransomware attack on health giant Ascension hits 5.6 million patients](https://techcrunch.com/2024/12/20/ransomware-attack-on-health-giant-ascension-hits-5-6-million-patients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
