@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The year is coming to a close, but startup news keeps rolling in](https://techcrunch.com/2024/12/20/the-year-is-coming-to-a-close-but-startup-news-keeps-rolling-in/)
+- [SpaceX launching 4 &#39;MicroGEO&#39; satellites to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-4-microgeo-satellites-to-orbit-tonight)
 - [Axiom&#39;s private space station is coming sooner than we thought](https://www.space.com/space-exploration/private-spaceflight/axioms-private-space-station-is-coming-sooner-than-we-thought)
 - [Nvidia clears regulatory hurdle to acquire Run:ai](https://techcrunch.com/2024/12/20/nvidia-clears-regulatory-hurdle-to-acquire-runai/)
 - [Google is expanding Gemini’s in-depth research mode to 40 languages](https://techcrunch.com/2024/12/20/google-is-expanding-geminis-in-depth-research-mode-to-40-languages/)
-- [Here’s the full list of 49 US AI startups that have raised $100M or more in 2024](https://techcrunch.com/2024/12/20/heres-the-full-list-of-49-us-ai-startups-that-have-raised-100m-or-more-in-2024/)
-- [Watch NASA&#39;s Artemis Orion moon spacecraft blow its top during testing &lpar;video&rpar;](https://www.space.com/space-exploration/artemis/watch-nasas-artemis-orion-moon-spacecraft-blow-its-top-during-testing-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
