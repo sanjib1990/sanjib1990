@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian executives accused of harassment in previously unreported lawsuits](https://techcrunch.com/2024/12/20/rivian-executives-accused-of-harassment-in-previously-unreported-lawsuits/)
+- [Hubble&#39;s &#39;impossible&#39; planet explained? Gas giants may have formed fast in early universe](https://www.space.com/the-universe/exoplanets/hubbles-impossible-planet-explained-gas-giants-may-have-formed-fast-in-early-universe)
+- [Why Apple sends spyware victims to this nonprofit security lab](https://techcrunch.com/2024/12/20/why-apple-sends-spyware-victims-to-this-nonprofit-security-lab/)
 - [Energy Revolution Ventures’ $18M fund lays a bet on ‘new chemistry’ startups in energy and hydrogen](https://techcrunch.com/2024/12/20/energy-revolution-ventures-18m-fund-lays-a-bet-on-new-chemistry-startups-in-energy-and-hydrogen/)
 - [‘Genius Girl’ goes from inspiring a Korean TV show character to raising a $100 million AI fund](https://techcrunch.com/2024/12/20/genius-girl-goes-from-inspiring-a-korean-tv-show-character-to-raising-a-100-million-ai-fund/)
-- [NASA&#39;s Hubble and Chandra telescopes discover a strange &#39;sideways&#39; black hole in a cosmic crime scene &lpar;image&rpar;](https://www.space.com/NASA-sideways-black-hole-crime-scene-NGC5084)
-- [The Ursid meteor shower peaks this weekend. Here&#39;s what to expect from the final &#39;shooting stars&#39; of 2024](https://www.space.com/stargazing/the-ursid-meteor-shower-peaks-this-weekend-heres-how-to-see-it)
-- [US Space Force 5 years later: What has it accomplished so far, and where does it go from here?](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-5-years-later-what-has-it-accomplished-so-far-and-where-does-it-go-from-here)
 <!-- BLOG-POST-LIST:END -->
 
 ---
