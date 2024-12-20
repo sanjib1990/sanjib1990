@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MIT Milestone Celebration | Keynote Address &lpar;480p&rpar;](https://www.youtube.com/watch?v=wtRBk2dWxpo)
+- [MIT Milestone Celebration | The Future of OCW and Education &lpar;480p&rpar;](https://www.youtube.com/watch?v=EOl5lfyE1to)
+- [MIT Milestone Celebration | Welcome &lpar;480p&rpar;](https://www.youtube.com/watch?v=v8EFwgEJPyU)
 - [The open-source Alexa](https://www.youtube.com/watch?v=Dl7jHJP18qE)
 - [XZ Exploit - Computerphile](https://www.youtube.com/watch?v=LY8_35a_DEA)
-- [create your own Solana Token...in the terminal &lpar;2025 edition&rpar;](https://www.youtube.com/watch?v=L4ASwqLZVV0)
-- [Sujood from Sudan: An Open Learner&#39;s Story](https://www.youtube.com/watch?v=vPSWNkZ_WX0)
-- [How opening learning can close knowledge gaps with June Odongo](https://www.youtube.com/watch?v=k8-xSeYO44c)
 <!-- YOUTUBE:END -->
 
 ---
