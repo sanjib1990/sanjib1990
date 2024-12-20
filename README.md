@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force 5 years later: What has it accomplished so far, and where does it go from here?](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-5-years-later-what-has-it-accomplished-so-far-and-where-does-it-go-from-here)
+- [Bluesky adds mentions tab in the notifications screen and username squatting protection](https://techcrunch.com/2024/12/20/bluesky-adds-mentions-tab-in-the-notifications-screen-and-username-squatting-protection/)
 - [Uzbekistan’s mobile bank TBC bags $37M to expand with new AI and insurance products](https://techcrunch.com/2024/12/20/uzbekistans-mobile-bank-tbc-bags-37m-to-expand-with-new-ai-and-insurance-products/)
 - [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/)
 - [European Solo GP Robin Capital closes first fund with €15M to play with](https://techcrunch.com/2024/12/19/european-solo-gp-robin-capital-closes-first-fund-with-e15m-to-play-with/)
-- [Watch Rocket Lab launch a private Earth-imaging satellite this morning](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-a-private-earth-imaging-satellite-this-morning)
-- [Sequoia’s Matt Miller is exiting the firm after making headlines earlier this year](https://techcrunch.com/2024/12/19/sequoias-matt-miller-is-exiting-the-firm-after-making-headlines-earlier-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
