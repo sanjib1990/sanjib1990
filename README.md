@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uzbekistan’s mobile bank TBC bags $37M to expand with new AI and insurance products](https://techcrunch.com/2024/12/20/uzbekistans-mobile-bank-tbc-bags-37m-to-expand-with-new-ai-and-insurance-products/)
 - [British university spinoff Mindgard protects companies from AI threats](https://techcrunch.com/2024/12/20/british-university-spinoff-mindgard-protects-companies-from-ai-threats/)
 - [European Solo GP Robin Capital closes first fund with €15M to play with](https://techcrunch.com/2024/12/19/european-solo-gp-robin-capital-closes-first-fund-with-e15m-to-play-with/)
 - [Watch Rocket Lab launch a private Earth-imaging satellite this morning](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-a-private-earth-imaging-satellite-this-morning)
 - [Sequoia’s Matt Miller is exiting the firm after making headlines earlier this year](https://techcrunch.com/2024/12/19/sequoias-matt-miller-is-exiting-the-firm-after-making-headlines-earlier-this-year/)
-- [India’s Rapido exposed user and driver data through leaky website feedback form](https://techcrunch.com/2024/12/19/indias-rapido-exposed-user-and-driver-data-through-leaky-website-feedback-form/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
