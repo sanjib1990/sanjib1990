@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hollywood angels: Here are the celebrities who are also star VCs](https://techcrunch.com/2024/12/21/hollywood-angels-here-are-the-celebrities-who-are-also-star-vcs/)
+- [This Week In Space podcast: Episode 141 —Holiday Special 2024](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-141-holiday-special-2024)
 - [Every upcoming &#39;Star Wars&#39; movie officially announced](https://www.space.com/entertainment/space-movies-shows/every-new-star-wars-movie-officially-announced)
 - [Meet Skyseed, a VC fund and incubator backing the Bluesky and AT Protocol ecosystem](https://techcrunch.com/2024/12/21/meet-skyseed-a-vc-fund-and-incubator-backing-the-bluesky-and-at-protocol-ecosystem/)
 - [Winter solstice 2024 brings shortest day of the year to Northern Hemisphere today](https://www.space.com/stargazing/winter-solstice-2024-brings-shortest-day-of-the-year-to-northern-hemisphere-today)
-- [Astronauts on NASA&#39;s moon-orbiting Gateway space station will wear smart undershirts to stay healthy](https://www.space.com/space-exploration/artemis/astronauts-on-nasas-moon-orbiting-gateway-space-station-will-wear-smart-undershirts-to-stay-healthy)
-- [Sam Altman disputes Marc Andreessen’s description of AI meetings with Biden administration](https://techcrunch.com/2024/12/20/sam-altman-disputes-marc-andreessens-description-of-ai-meetings-with-biden-administration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
