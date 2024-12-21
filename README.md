@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman disputes Marc Andreessen’s description of AI meetings with Biden administration](https://techcrunch.com/2024/12/20/sam-altman-disputes-marc-andreessens-description-of-ai-meetings-with-biden-administration/)
+- [EV startup Canoo places remaining employees on a ‘mandatory unpaid break’](https://techcrunch.com/2024/12/20/ev-startup-canoo-places-remaining-employees-on-a-mandatory-unpaid-break/)
 - [SpaceX launching 30 satellites on Bandwagon-2 rideshare mission early Dec. 21](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-30-satellites-on-bandwagon-2-rideshare-mission-early-dec-21)
 - [Space2Sea Antarctica: A student journalist&#39;s expedition to bottom of the world begins](https://www.space.com/space-exploration/missions/space2sea-antarctica-a-student-journalists-expedition-to-bottom-of-the-world-begins)
 - [After causing outrage on the first day of Y Combinator, AI code editor PearAI lands $1M seed](https://techcrunch.com/2024/12/20/after-causing-outrage-on-the-first-day-of-y-combinator-ai-code-editor-pearai-lands-1m-seed/)
-- [Dreaming of a white Christmas? Snow is likely in these US states according to NOAA climate data](https://www.space.com/the-universe/earth/dreaming-of-a-white-christmas-snow-is-likely-in-these-us-states-according-to-noaa-climate-data)
-- [Third member of LockBit ransomware gang has been arrested](https://techcrunch.com/2024/12/20/third-member-of-lockbit-ransomware-gang-has-been-arrested/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
