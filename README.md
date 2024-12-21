@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI announces new o3 model — but you can’t use it yet](https://techcrunch.com/2024/12/21/openai-announces-new-o3-model-but-you-cant-use-it-yet/)
 - [Google pushes back against DOJ’s ‘interventionist’ remedies in antitrust case](https://techcrunch.com/2024/12/21/google-pushes-back-against-dojs-interventionist-remedies-in-antitrust-case/)
 - [See how &#39;Ahsoka&#39; brought &#39;Clone Wars&#39; Anakin Skywalker to live-action in this behind-the-scenes clip &lpar;exclusive video&rpar;](https://www.space.com/entertainment/see-how-ahsoka-brought-clone-wars-anakin-skywalker-to-live-action-in-this-behind-the-scenes-clip-exclusive-video)
 - [If climate tech is dead, what comes next?](https://techcrunch.com/2024/12/21/if-climate-tech-is-dead-what-comes-next/)
 - [Hollywood angels: Here are the celebrities who are also star VCs](https://techcrunch.com/2024/12/21/hollywood-angels-here-are-the-celebrities-who-are-also-star-vcs/)
-- [Planes, drones or UFOs: What are people seeing in the New Jersey sky?](https://www.space.com/space-exploration/search-for-life/planes-drones-or-ufos-what-are-people-seeing-in-the-new-jersey-sky)
 <!-- BLOG-POST-LIST:END -->
 
 ---
