@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tetsuwan Scientific is making robotic AI scientists that can run experiments on their own](https://techcrunch.com/2024/12/22/tetsuwan-scientific-is-making-robotic-ai-scientists-that-can-run-experiments-on-their-own/)
+- [Space2Sea Antarctica: William Shatner, Neil deGrasse Tyson and NASA astronauts talk exploration and science from the Drake Passage](https://www.space.com/space-exploration/space2sea-antarctica-william-shatner-neil-degrasse-tyson-and-nasa-astronauts-talk-exploration-and-science-from-the-drake-passage)
 - [Daffy Duck&#39;s &#39;full moon&#39; and Porky Pig fend off alien invasion in &#39;The Day The Earth Blew Up: A Looney Tunes Movie&#39; &lpar;trailer&rpar;](https://www.space.com/entertainment/daffy-ducks-full-moon-and-porky-pig-fend-off-alien-invasion-in-the-day-the-earth-blew-up-a-looney-tunes-movie-trailer)
 - [You can now wear an Apollo Guidance Computer keypad as a wristwatch](https://www.space.com/space-exploration/apollo/you-can-now-wear-an-apollo-guidance-computer-keypad-as-a-wristwatch)
 - [OpenAI’s GPT-5 reportedly falling short of expectations](https://techcrunch.com/2024/12/21/openais-gpt-5-reportedly-falling-short-of-expectations/)
-- [OpenAI announces new o3 model — but you can’t use it yet](https://techcrunch.com/2024/12/21/openai-announces-new-o3-model-but-you-cant-use-it-yet/)
-- [Google pushes back against DOJ’s ‘interventionist’ remedies in antitrust case](https://techcrunch.com/2024/12/21/google-pushes-back-against-dojs-interventionist-remedies-in-antitrust-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
