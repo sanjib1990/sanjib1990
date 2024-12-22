@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump says he wants to keep TikTok around ‘for a little while’](https://techcrunch.com/2024/12/22/trump-says-he-wants-to-keep-tiktok-around-for-a-little-while/)
 - [OpenAI trained o1 and o3 to ‘think’ about its safety policy](https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy/)
 - [The biggest flops and fizzles in 2024 transportation, from Apple Car to Fisker](https://techcrunch.com/2024/12/22/the-biggest-flops-and-fizzles-in-2024-transportation-from-apple-car-to-fisker/)
 - [What time is the NASA Parker Solar Probe&#39;s closest sun flyby ever on Christmas Eve?](https://www.space.com/the-universe/sun/what-time-is-nasa-parker-solar-probe-closest-sun-flyby-on-christmas-eve)
 - [Apple might be working on a smart doorbell](https://techcrunch.com/2024/12/22/apple-might-be-working-on-a-smart-doorbell/)
-- [Tetsuwan Scientific is making robotic AI scientists that can run experiments on their own](https://techcrunch.com/2024/12/22/tetsuwan-scientific-is-making-robotic-ai-scientists-that-can-run-experiments-on-their-own/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
