@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pavel Durov says Telegram is now profitable](https://techcrunch.com/2024/12/23/pavel-durov-says-telegram-is-now-profitable/)
+- [WhatsApp scores historic victory against NSO Group in long-running spyware hacking case](https://techcrunch.com/2024/12/23/whatsapp-scores-historic-victory-against-nso-group-in-long-running-spyware-hacking-case/)
 - [Accidental discovery reveals &#39;millinovas,&#39; a new class of cosmic explosion 100 times brighter than the sun](https://www.space.com/millinovas-chance-discovery-x-ray)
 - [This Christmas Eve, humans will try to embrace a star](https://www.space.com/the-universe/sun/this-christmas-eve-humans-will-try-to-embrace-a-star)
 - [xAI is testing a standalone iOS app for its Grok chatbot](https://techcrunch.com/2024/12/22/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/)
-- [SpaceX launches 21 Starlink internet satellites from Florida, lands rocket at sea &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-21-starlink-internet-satellites-from-florida-lands-rocket-at-sea-photos)
-- [X jacks up Premium+ prices by 37.5%, hits some markets harder](https://techcrunch.com/2024/12/22/x-jacks-up-premium-prices-37-5-hits-some-markets-harder/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
