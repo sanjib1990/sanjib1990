@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to follow Santa Claus this Christmas Eve with NORAD&#39;s 2024 tracker](https://www.space.com/entertainment/how-to-follow-santa-claus-this-christmas-eve-with-norads-2024-tracker)
+- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/)
+- [Nvidia’s CES 2025 keynote: How to watch](https://techcrunch.com/2024/12/23/nvidias-ces-2025-keynote-how-to-watch/)
 - [Asteroid-comet chimera Chiron has an unusual ice mix, James Webb Space Telescope finds](https://www.space.com/the-universe/asteroids/asteroid-comet-chimera-chiron-has-an-unusual-ice-mix-james-webb-space-telescope-finds)
 - [An investigation finds that Google Maps fails users in the West Bank](https://techcrunch.com/2024/12/23/an-investigation-finds-that-google-maps-fails-users-in-the-west-bank/)
-- [AI startups attracted 25% of Europe’s VC funding](https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/)
-- [How to watch &#39;Doctor Who&#39; Christmas special: Stream &#39;Joy to the World&#39; online and from anywhere](https://www.space.com/entertainment/space-movies-shows/watch-doctor-who-joy-to-the-world-online-from-anywhere)
-- [Coralogix acquires AI observability platform Aporia](https://techcrunch.com/2024/12/23/coralogix-acquires-ai-observability-platform-aporia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
