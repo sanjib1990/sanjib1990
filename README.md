@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA delays Artemis missions again. What could this mean for the moon, Mars and space leadership?](https://www.space.com/space-exploration/artemis/nasa-delays-artemis-missions-again-what-could-this-mean-for-the-moon-mars-and-space-leadership)
+- [Who is that dying blue robot in the new &#39;Superman&#39; trailer?](https://www.space.com/entertainment/who-is-that-dying-blue-robot-in-the-new-superman-trailer)
 - [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/12/23/techcrunch-reference-guide-to-security-terminology/)
 - [Could that be Santa&#39;s sleigh? Early risers can spot the ISS from the UK this Christmas](https://www.space.com/stargazing/could-that-be-santas-sleigh-early-risers-can-spot-the-iss-from-the-uk-this-christmas)
 - [Prosus buys Despegar for $1.7B, taking a bite out of Latin America’s travel sector](https://techcrunch.com/2024/12/23/prosus-buys-despegar-for-1-7b-taking-a-bite-out-of-latin-americas-travel-sector/)
-- [&#39;Silo&#39; Season 2 Episode 6: How far will Bernard go to maintain control?](https://www.space.com/entertainment/silo-season-2-episode-6-how-far-will-bernard-go-to-maintain-control)
-- [Pavel Durov says Telegram is now profitable](https://techcrunch.com/2024/12/23/pavel-durov-says-telegram-is-now-profitable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
