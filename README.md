@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Asteroid-comet chimera Chiron has an unusual ice mix, James Webb Space Telescope finds](https://www.space.com/the-universe/asteroids/asteroid-comet-chimera-chiron-has-an-unusual-ice-mix-james-webb-space-telescope-finds)
+- [An investigation finds that Google Maps fails users in the West Bank](https://techcrunch.com/2024/12/23/an-investigation-finds-that-google-maps-fails-users-in-the-west-bank/)
 - [AI startups attracted 25% of Europe’s VC funding](https://techcrunch.com/2024/12/23/ai-startups-attracted-25-of-europes-vc-funding/)
 - [How to watch &#39;Doctor Who&#39; Christmas special: Stream &#39;Joy to the World&#39; online and from anywhere](https://www.space.com/entertainment/space-movies-shows/watch-doctor-who-joy-to-the-world-online-from-anywhere)
 - [Coralogix acquires AI observability platform Aporia](https://techcrunch.com/2024/12/23/coralogix-acquires-ai-observability-platform-aporia/)
-- [CES 2025 is coming: TechCrunch wants to meet your hardware startup](https://techcrunch.com/2024/12/23/ces-2025-is-coming-techcrunch-wants-to-meet-your-hardware-startup/)
-- [Eero’s Outdoor 7 long-distance mesh unit solved our yearslong Wi-Fi quandary in 10 minutes](https://techcrunch.com/2024/12/23/eeros-outdoor-7-long-distance-mesh-unit-solved-our-yearslong-wi-fi-quandary-in-10-minutes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
