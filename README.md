@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X jacks up Premium+ prices 37.5%, hits some markets harder](https://techcrunch.com/2024/12/22/x-jacks-up-premium-prices-37-5-hits-some-markets-harder/)
 - [Sriram Krishnan named Trump’s senior policy advisor for AI](https://techcrunch.com/2024/12/22/sriram-krishnan-named-trumps-senior-policy-advisor-for-ai/)
 - [Palantir and Anduril reportedly building a tech consortium to bid on defense contracts](https://techcrunch.com/2024/12/22/palantir-and-anduril-reportedly-building-a-tech-consortium-to-bid-on-defense-contracts/)
 - [Trump says he wants to keep TikTok around ‘for a little while’](https://techcrunch.com/2024/12/22/trump-says-he-wants-to-keep-tiktok-around-for-a-little-while/)
 - [OpenAI trained o1 and o3 to ‘think’ about its safety policy](https://techcrunch.com/2024/12/22/openai-trained-o1-and-o3-to-think-about-its-safety-policy/)
-- [The biggest flops and fizzles in 2024 transportation, from Apple Car to Fisker](https://techcrunch.com/2024/12/22/the-biggest-flops-and-fizzles-in-2024-transportation-from-apple-car-to-fisker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
