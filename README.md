@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accidental discovery reveals &#39;millinovas,&#39; a new class of cosmic explosion 100 times brighter than the sun](https://www.space.com/millinovas-chance-discovery-x-ray)
+- [This Christmas Eve, humans will try to embrace a star](https://www.space.com/the-universe/sun/this-christmas-eve-humans-will-try-to-embrace-a-star)
 - [xAI is testing a standalone iOS app for its Grok chatbot](https://techcrunch.com/2024/12/22/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/)
 - [SpaceX launches 21 Starlink internet satellites from Florida, lands rocket at sea &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-21-starlink-internet-satellites-from-florida-lands-rocket-at-sea-photos)
 - [X jacks up Premium+ prices by 37.5%, hits some markets harder](https://techcrunch.com/2024/12/22/x-jacks-up-premium-prices-37-5-hits-some-markets-harder/)
-- [Sriram Krishnan named Trump’s senior policy advisor for AI](https://techcrunch.com/2024/12/22/sriram-krishnan-named-trumps-senior-policy-advisor-for-ai/)
-- [Palantir and Anduril reportedly building a tech consortium to bid on defense contracts](https://techcrunch.com/2024/12/22/palantir-and-anduril-reportedly-building-a-tech-consortium-to-bid-on-defense-contracts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
