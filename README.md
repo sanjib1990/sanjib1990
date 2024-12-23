@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists hope NASA&#39;s Parker Solar Probe gets hit by a storm during historic Christmas Eve sun flyby](https://www.space.com/the-universe/sun/scientists-hope-nasas-parker-solar-probe-gets-hit-by-a-storm-during-historic-christmas-eve-sun-flyby)
+- [See a dead Chinese satellite burn up as a brilliant fireball in the night sky &lpar;video&rpar;](https://www.space.com/stargazing/see-a-dead-chinese-satellite-burn-up-as-a-brilliant-fireball-across-the-night-sky-video)
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/)
-- [See a dead Chinese satellite burn up as a brilliant fireball across the night sky &lpar;video&rpar;](https://www.space.com/stargazing/see-a-dead-chinese-satellite-burn-up-as-a-brilliant-fireball-across-the-night-sky-video)
 - [How to follow Santa Claus this Christmas Eve with NORAD&#39;s 2024 tracker](https://www.space.com/entertainment/how-to-follow-santa-claus-this-christmas-eve-with-norads-2024-tracker)
 - [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/)
-- [Nvidia’s CES 2025 keynote: How to watch](https://techcrunch.com/2024/12/23/nvidias-ces-2025-keynote-how-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
