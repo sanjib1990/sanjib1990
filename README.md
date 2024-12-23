@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Silo&#39; Season 2 Episode 6: How far will Bernard go to maintain control?](https://www.space.com/entertainment/silo-season-2-episode-6-how-far-will-bernard-go-to-maintain-control)
 - [Pavel Durov says Telegram is now profitable](https://techcrunch.com/2024/12/23/pavel-durov-says-telegram-is-now-profitable/)
 - [WhatsApp scores historic victory against NSO Group in long-running spyware hacking case](https://techcrunch.com/2024/12/23/whatsapp-scores-historic-victory-against-nso-group-in-long-running-spyware-hacking-case/)
 - [Accidental discovery reveals &#39;millinovas,&#39; a new class of cosmic explosion 100 times brighter than the sun](https://www.space.com/millinovas-chance-discovery-x-ray)
 - [This Christmas Eve, humans will try to embrace a star](https://www.space.com/the-universe/sun/this-christmas-eve-humans-will-try-to-embrace-a-star)
-- [xAI is testing a standalone iOS app for its Grok chatbot](https://techcrunch.com/2024/12/22/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
