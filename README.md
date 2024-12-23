@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Honda and Nissan plan major merger focused on ‘intelligence and electrification’](https://techcrunch.com/2024/12/23/honda-and-nissan-plan-major-merger-focused-on-intelligence-and-electrification/)
-- [10 most powerful solar flares of 2024](https://www.space.com/the-universe/sun/10-most-powerful-solar-flares-of-2024)
-- [NASA delays Artemis missions again. What could this mean for the moon, Mars and space leadership?](https://www.space.com/space-exploration/artemis/nasa-delays-artemis-missions-again-what-could-this-mean-for-the-moon-mars-and-space-leadership)
-- [Who is that dying blue robot in the new &#39;Superman&#39; trailer?](https://www.space.com/entertainment/who-is-that-dying-blue-robot-in-the-new-superman-trailer)
-- [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/12/23/techcrunch-reference-guide-to-security-terminology/)
+- [Instagram tests a way to show you Story Highlights you didn’t get a chance to see](https://techcrunch.com/2024/12/23/instagram-tests-a-way-to-show-you-story-highlights-you-didnt-get-a-chance-to-see/)
+- [Juniper Ventures spins out of Climate Capital to invest in synthetic biology for the climate](https://techcrunch.com/2024/12/23/juniper-ventures-spins-out-of-climate-capital-to-invest-in-synthetic-biology-for-the-climate/)
+- [A popular technique to make AI more efficient has drawbacks](https://techcrunch.com/2024/12/23/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/)
+- [Yoast CEO calls for a ‘federated’ approach to WordPress repository](https://techcrunch.com/2024/12/23/yoast-ceo-calls-for-a-federated-approach-to-wordpress-repository/)
+- [Electric aircraft startup Lilium ceases operations, 1,000 workers laid off](https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
