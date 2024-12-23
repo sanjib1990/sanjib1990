@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Honda and Nissan plan major merger focused on ‘intelligence and electrification’](https://techcrunch.com/2024/12/23/honda-and-nissan-plan-major-merger-focused-on-intelligence-and-electrification/)
+- [10 most powerful solar flares of 2024](https://www.space.com/the-universe/sun/10-most-powerful-solar-flares-of-2024)
 - [NASA delays Artemis missions again. What could this mean for the moon, Mars and space leadership?](https://www.space.com/space-exploration/artemis/nasa-delays-artemis-missions-again-what-could-this-mean-for-the-moon-mars-and-space-leadership)
 - [Who is that dying blue robot in the new &#39;Superman&#39; trailer?](https://www.space.com/entertainment/who-is-that-dying-blue-robot-in-the-new-superman-trailer)
 - [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/12/23/techcrunch-reference-guide-to-security-terminology/)
-- [Could that be Santa&#39;s sleigh? Early risers can spot the ISS from the UK this Christmas](https://www.space.com/stargazing/could-that-be-santas-sleigh-early-risers-can-spot-the-iss-from-the-uk-this-christmas)
-- [Prosus buys Despegar for $1.7B, taking a bite out of Latin America’s travel sector](https://techcrunch.com/2024/12/23/prosus-buys-despegar-for-1-7b-taking-a-bite-out-of-latin-americas-travel-sector/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
