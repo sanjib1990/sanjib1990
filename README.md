@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The TechCrunch Cyber Glossary](https://techcrunch.com/2024/12/23/techcrunch-reference-guide-to-security-terminology/)
+- [Could that be Santa&#39;s sleigh? Early risers can spot the ISS from the UK this Christmas](https://www.space.com/stargazing/could-that-be-santas-sleigh-early-risers-can-spot-the-iss-from-the-uk-this-christmas)
+- [Prosus buys Despegar for $1.7B, taking a bite out of Latin America’s travel sector](https://techcrunch.com/2024/12/23/prosus-buys-despegar-for-1-7b-taking-a-bite-out-of-latin-americas-travel-sector/)
 - [&#39;Silo&#39; Season 2 Episode 6: How far will Bernard go to maintain control?](https://www.space.com/entertainment/silo-season-2-episode-6-how-far-will-bernard-go-to-maintain-control)
 - [Pavel Durov says Telegram is now profitable](https://techcrunch.com/2024/12/23/pavel-durov-says-telegram-is-now-profitable/)
-- [WhatsApp scores historic victory against NSO Group in long-running spyware hacking case](https://techcrunch.com/2024/12/23/whatsapp-scores-historic-victory-against-nso-group-in-long-running-spyware-hacking-case/)
-- [Accidental discovery reveals &#39;millinovas,&#39; a new class of cosmic explosion 100 times brighter than the sun](https://www.space.com/millinovas-chance-discovery-x-ray)
-- [This Christmas Eve, humans will try to embrace a star](https://www.space.com/the-universe/sun/this-christmas-eve-humans-will-try-to-embrace-a-star)
 <!-- BLOG-POST-LIST:END -->
 
 ---
