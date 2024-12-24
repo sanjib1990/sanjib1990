@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best sci-fi movies of 2024](https://www.space.com/entertainment-best-sci-fi-movies-2024)
+- [Venus, Mars and more: How to see planets in the night sky in 2025](https://www.space.com/stargazing/venus-mars-and-more-how-to-see-planets-in-the-night-sky-in-2025)
+- [Shuttered electric air taxi startup Lilium may be saved after all](https://techcrunch.com/2024/12/24/shuttered-electric-air-taxi-startup-lilium-may-be-saved-after-all/)
+- [Dune: Prophecy&#39; renewed for Season 2 after HBO show&#39;s hugely successful debut](https://www.space.com/entertainment/the-spice-must-flow-hbo-greenlights-a-second-season-of-dune-prophecy)
 - [&#39;Dune: Prophecy&#39; Season Finale: Lies unleashed, a lost child, and long live the Emperor](https://www.space.com/entertainment/dune-prophecy-season-finale-lies-unleashed-a-lost-child-and-long-live-the-emperor)
-- [These are the cybersecurity stories we were jealous of in 2024](https://techcrunch.com/2024/12/24/techcrunch-security-desk-cybersecurity-reporting-jealousy-list-of-2024/)
-- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2024/12/24/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
-- [Stars get ripped open like Christmas presents to create strange &#39;JuMBO&#39; worlds](https://www.space.com/jumbos-stars-unwrap-stellar-cores)
-- [NASA&#39;s Parker Solar Probe celebrates Christmas with record smashing &#39;kiss&#39; of the sun](https://www.space.com/nasa-parker-solar-probe-christmas-flyby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
