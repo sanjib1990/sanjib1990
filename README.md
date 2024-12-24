@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/)
 - [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/)
 - [ULA wants to upgrade Vulcan Centaur rocket into a &#39;space interceptor&#39; to defend satellites](https://www.space.com/space-exploration/launches-spacecraft/ula-wants-to-upgrade-vulcan-centaur-rocket-into-a-space-interceptor-to-defend-satellites)
 - [Sony’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/24/sonys-ces-2025-press-conference-how-to-watch/)
 - [OpenAI ‘considered’ building a humanoid robot: Report](https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/)
-- [The promise and perils of synthetic data](https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
