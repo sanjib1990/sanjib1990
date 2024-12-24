@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Parker Solar Probe celebrates Christmas with record smashing &#39;kiss&#39; of the sun](https://www.space.com/nasa-parker-solar-probe-christmas-flyby)
 - [24 amazing space images from 2024](https://www.space.com/the-universe/24-amazing-space-images-from-2024)
 - [Aurora alert: Geomagnetic storm could spark northern lights in upper Midwest skies this Christmas](https://www.space.com/stargazing/aurora-borealis/aurora-alert-geomagnetic-storm-could-spark-northern-lights-in-upper-midwest-skies-this-christmas)
-- [Proton’s device aims to help those with kidney disease, and cut heart failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/)
+- [Proton’s device aims to help those with kidney disease and cut heart failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/)
 - [Halide’s next version will come with new film filters, HDR](https://techcrunch.com/2024/12/23/halides-next-version-will-come-with-new-film-filters-hdr/)
-- [These 5 particles are so strange, we&#39;re not sure they exist](https://www.space.com/the-universe/these-5-particles-are-so-strange-were-not-sure-they-exist)
 <!-- BLOG-POST-LIST:END -->
 
 ---
