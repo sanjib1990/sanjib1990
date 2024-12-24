@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyundai is giving away free Tesla NACs adapters to its EV customers](https://techcrunch.com/2024/12/23/hyundai-is-giving-away-free-tesla-nacs-adapters-to-its-ev-customers/)
+- [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/)
 - [Scientists hope NASA&#39;s Parker Solar Probe gets hit by a storm during historic Christmas Eve sun flyby](https://www.space.com/the-universe/sun/scientists-hope-nasas-parker-solar-probe-gets-hit-by-a-storm-during-historic-christmas-eve-sun-flyby)
 - [See a dead Chinese satellite burn up as a brilliant fireball in the night sky &lpar;video&rpar;](https://www.space.com/stargazing/see-a-dead-chinese-satellite-burn-up-as-a-brilliant-fireball-across-the-night-sky-video)
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/23/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/)
-- [How to follow Santa Claus this Christmas Eve with NORAD&#39;s 2024 tracker](https://www.space.com/entertainment/how-to-follow-santa-claus-this-christmas-eve-with-norads-2024-tracker)
-- [Venture capitalists continue to play musical chairs](https://techcrunch.com/2024/12/23/venture-capitalists-continue-to-play-musical-chairs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
