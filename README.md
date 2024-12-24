@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [24 amazing space images from 2024](https://www.space.com/the-universe/24-amazing-space-images-from-2024)
+- [Aurora alert: Geomagnetic storm could spark northern lights in upper Midwest skies this Christmas](https://www.space.com/stargazing/aurora-borealis/aurora-alert-geomagnetic-storm-could-spark-northern-lights-in-upper-midwest-skies-this-christmas)
 - [Proton’s device aims to help those with kidney disease, and cut heart failure risks](https://techcrunch.com/2024/12/24/as-potassium-monitoring-startup-hopes-to-cut-the-risk-of-heart-failure/)
 - [Halide’s next version will come with new film filters, HDR](https://techcrunch.com/2024/12/23/halides-next-version-will-come-with-new-film-filters-hdr/)
 - [These 5 particles are so strange, we&#39;re not sure they exist](https://www.space.com/the-universe/these-5-particles-are-so-strange-were-not-sure-they-exist)
-- [Hyundai is giving away free Tesla NACs adapters to its EV customers](https://techcrunch.com/2024/12/23/hyundai-is-giving-away-free-tesla-nacs-adapters-to-its-ev-customers/)
-- [OpenAI’s o3 suggests AI models are scaling in new ways — but so are the costs](https://techcrunch.com/2024/12/23/openais-o3-suggests-ai-models-are-scaling-in-new-ways-but-so-are-the-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
