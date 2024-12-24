@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ULA wants to upgrade Vulcan Centaur rocket into a &#39;space interceptor&#39; to defend satellites](https://www.space.com/space-exploration/launches-spacecraft/ula-wants-to-upgrade-vulcan-centaur-rocket-into-a-space-interceptor-to-defend-satellites)
 - [Sony’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/24/sonys-ces-2025-press-conference-how-to-watch/)
 - [OpenAI ‘considered’ building a humanoid robot: Report](https://techcrunch.com/2024/12/24/openai-considered-building-a-humanoid-robot-report/)
 - [The promise and perils of synthetic data](https://techcrunch.com/2024/12/24/the-promise-and-perils-of-synthetic-data/)
 - [Samsung’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/24/samsungs-ces-2025-press-conference-how-to-watch/)
-- [Mars orbiters witness a &#39;winter wonderland&#39; on the Red Planet &lpar;photos&rpar;](https://www.space.com/the-universe/mars/mars-orbiters-witness-a-winter-wonderland-on-the-red-planet-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
