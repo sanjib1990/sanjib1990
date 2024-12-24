@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revenue-based financing startups continue to raise capital in MENA, where the model just works](https://techcrunch.com/2024/12/24/revenue-based-financing-startups-continue-to-raise-capital-in-mena-where-the-model-just-works/)
+- [Black hole paradox that stumped Stephen Hawking may have a solution, new paper claims](https://www.space.com/the-universe/black-holes/black-hole-paradox-that-stumped-stephen-hawking-may-have-a-solution-new-paper-claims)
+- [Watch Boston Dynamics’ electric Atlas do a backflip](https://techcrunch.com/2024/12/24/watch-boston-dynamics-electric-atlas-do-a-backflip/)
+- [Clop ransomware gang takes credit for latest mass hack that breached dozens of companies](https://techcrunch.com/2024/12/24/clop-ransomware-gang-takes-credit-for-latest-mass-hack-that-breached-dozens-of-companies/)
 - [Best sci-fi movies of 2024](https://www.space.com/entertainment-best-sci-fi-movies-2024)
-- [Venus, Mars and more: How to see planets in the night sky in 2025](https://www.space.com/stargazing/venus-mars-and-more-how-to-see-planets-in-the-night-sky-in-2025)
-- [Shuttered electric air taxi startup Lilium may be saved after all](https://techcrunch.com/2024/12/24/shuttered-electric-air-taxi-startup-lilium-may-be-saved-after-all/)
-- [Dune: Prophecy&#39; renewed for Season 2 after HBO show&#39;s hugely successful debut](https://www.space.com/entertainment/the-spice-must-flow-hbo-greenlights-a-second-season-of-dune-prophecy)
-- [&#39;Dune: Prophecy&#39; Season Finale: Lies unleashed, a lost child, and long live the Emperor](https://www.space.com/entertainment/dune-prophecy-season-finale-lies-unleashed-a-lost-child-and-long-live-the-emperor)
 <!-- BLOG-POST-LIST:END -->
 
 ---
