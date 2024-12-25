@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/)
+- [Piece of Apollo 11 spacecraft &#39;lands&#39; in moon meteorite-lined wedding ring](https://www.space.com/apollo-11-flown-moon-kapton-wedding-ring)
 - [What does the NASA administrator do?](https://www.space.com/space-exploration/missions/what-does-the-nasa-administrator-do)
 - [New thunderstorms wider than Earth are spewing out green lightning on Jupiter — and could make one of the gas giant&#39;s massive bands disappear](https://www.space.com/the-universe/jupiter/new-thunderstorms-wider-than-earth-are-spewing-out-green-lightning-on-jupiter-and-could-make-one-of-the-gas-giants-massive-bands-disappear)
 - [Home for the holidays? Share this top cybersecurity advice with friends and family](https://techcrunch.com/2024/12/25/home-for-the-holidays-share-this-top-cybersecurity-advice-with-friends-and-family/)
-- [Mars opposition 2025: How to see the Red Planet at its biggest and brightest](https://www.space.com/stargazing/mars-opposition-2025-how-to-see-the-red-planet-at-its-biggest-and-brightest)
-- [How 2024 brought us deeper into the world of particles](https://www.space.com/the-universe/how-2024-brought-us-deeper-into-the-world-of-particles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
