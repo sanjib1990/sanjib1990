@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/)
+- [Astronauts on ISS beam holiday cheer to Earth for Christmas &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/astronauts-on-iss-beam-holiday-cheer-to-earth-for-christmas-video)
+- [GV, the VC team backed by Google, has a broad remit, but it can’t do one thing](https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/)
 - [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/)
 - [Piece of Apollo 11 spacecraft &#39;lands&#39; in moon meteorite-lined wedding ring](https://www.space.com/apollo-11-flown-moon-kapton-wedding-ring)
-- [What does the NASA administrator do?](https://www.space.com/space-exploration/missions/what-does-the-nasa-administrator-do)
-- [New thunderstorms wider than Earth are spewing out green lightning on Jupiter — and could make one of the gas giant&#39;s massive bands disappear](https://www.space.com/the-universe/jupiter/new-thunderstorms-wider-than-earth-are-spewing-out-green-lightning-on-jupiter-and-could-make-one-of-the-gas-giants-massive-bands-disappear)
-- [Home for the holidays? Share this top cybersecurity advice with friends and family](https://techcrunch.com/2024/12/25/home-for-the-holidays-share-this-top-cybersecurity-advice-with-friends-and-family/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
