@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The &#39;Doctor Who&#39; Christmas special 2024 is pure Steven Moffat: Here&#39;s why &#39;Joy&#39; is so important to the world](https://www.space.com/entertainment/space-movies-shows/the-doctor-who-christmas-special-2024-is-pure-steven-moffat-heres-why-joy-is-so-important-to-the-world)
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/)
 - [Astronauts on ISS beam holiday cheer to Earth for Christmas &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/astronauts-on-iss-beam-holiday-cheer-to-earth-for-christmas-video)
 - [GV, the VC team backed by Google, has a broad remit, but it can’t do one thing](https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/)
 - [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2024/12/25/amds-ces-2025-press-conference-how-to-watch/)
-- [Piece of Apollo 11 spacecraft &#39;lands&#39; in moon meteorite-lined wedding ring](https://www.space.com/apollo-11-flown-moon-kapton-wedding-ring)
 <!-- BLOG-POST-LIST:END -->
 
 ---
