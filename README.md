@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New thunderstorms wider than Earth are spewing out green lightning on Jupiter — and could make one of the gas giant&#39;s massive bands disappear](https://www.space.com/the-universe/jupiter/new-thunderstorms-wider-than-earth-are-spewing-out-green-lightning-on-jupiter-and-could-make-one-of-the-gas-giants-massive-bands-disappear)
 - [Home for the holidays? Share this top cybersecurity advice with friends and family](https://techcrunch.com/2024/12/25/home-for-the-holidays-share-this-top-cybersecurity-advice-with-friends-and-family/)
 - [Mars opposition 2025: How to see the Red Planet at its biggest and brightest](https://www.space.com/stargazing/mars-opposition-2025-how-to-see-the-red-planet-at-its-biggest-and-brightest)
 - [How 2024 brought us deeper into the world of particles](https://www.space.com/the-universe/how-2024-brought-us-deeper-into-the-world-of-particles)
 - [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2024/12/24/tech-layoffs-2024-list/)
-- [Onyx Motorbikes is back, one year after its owner died leaving the company in shambles](https://techcrunch.com/2024/12/24/onyx-motorbikes-is-back-one-year-after-its-owner-died-leaving-the-company-in-shambles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
