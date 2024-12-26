@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek’s new AI model appears to be one of the best ‘open’ challengers yet](https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/)
 - [&#39;Silo&#39; scores a third and fourth season from Apple TV+](https://www.space.com/entertainment/silo-scores-a-third-and-fourth-season-from-apple-tv)
 - [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/)
 - [Scientists await signal from NASA&#39;s Parker Solar Probe after historic close sun flyby. Will it phone home?](https://www.space.com/the-universe/sun/scientists-await-signal-from-nasas-parker-solar-probe-after-historic-close-sun-flyby-will-it-phone-home)
 - [Microsoft and OpenAI have a financial definition of AGI: Report](https://techcrunch.com/2024/12/26/microsoft-and-openai-have-a-financial-definition-of-agi-report/)
-- [Executive assistants, high salaries, and other ways early-stage founders will trigger a seed VC](https://techcrunch.com/2024/12/26/executive-assistants-high-salaries-and-other-ways-early-stage-founders-will-trigger-a-seed-vc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
