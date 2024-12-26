@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s big year: The new records and feats Elon Musk&#39;s space company achieved in 2024](https://www.space.com/space-exploration/launches-spacecraft/spacexs-big-year-heres-every-new-record-and-feat-elon-musks-space-company-achieved-in-2024)
 - [10 times the sky amazed us in 2024](https://www.space.com/stargazing/10-times-the-sky-amazed-us-in-2024)
 - [PharmEasy investor cuts value of its stake drastically, implying new valuation of $456M](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/)
 - [Bluesky is testing a trending topics feature](https://techcrunch.com/2024/12/25/bluesky-starts-testing-a-trending-topics-feature/)
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/)
-- [The &#39;Doctor Who&#39; Christmas special 2024 is pure Steven Moffat: Here&#39;s why &#39;Joy&#39; is so important to the world](https://www.space.com/entertainment/space-movies-shows/the-doctor-who-christmas-special-2024-is-pure-steven-moffat-heres-why-joy-is-so-important-to-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
