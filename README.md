@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch this robotic ‘Superman Suit’ rotate around a gymnastics bar](https://techcrunch.com/video/watch-this-robotic-superman-suit-rotate-around-a-gymnastics-bar/)
+- [ChatGPT Search can be tricked into misleading users, new research reveals](https://techcrunch.com/2024/12/26/chatgpt-search-can-be-tricked-into-misleading-users-new-research-reveals/)
 - [ChatGPT and Sora are down for the second time this month](https://techcrunch.com/2024/12/26/chatgpt-and-sora-are-down-for-the-second-time-this-month/)
 - [DeepSeek’s new AI model appears to be one of the best ‘open’ challengers yet](https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/)
 - [&#39;Silo&#39; scores a third and fourth season from Apple TV+](https://www.space.com/entertainment/silo-scores-a-third-and-fourth-season-from-apple-tv)
-- [The fall of EV startup Fisker: A comprehensive timeline](https://techcrunch.com/2024/12/26/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/)
-- [Scientists await signal from NASA&#39;s Parker Solar Probe after historic close sun flyby. Will it phone home?](https://www.space.com/the-universe/sun/scientists-await-signal-from-nasas-parker-solar-probe-after-historic-close-sun-flyby-will-it-phone-home)
 <!-- BLOG-POST-LIST:END -->
 
 ---
