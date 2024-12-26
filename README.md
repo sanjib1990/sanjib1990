@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s jets made 355 trips in 2024, including 31 to or from the Mar-a-Lago area](https://techcrunch.com/2024/12/26/elon-musks-jets-made-355-trips-in-2024-including-31-to-or-from-the-mar-a-lago-area/)
+- [Just a fraction of the hydrogen hidden beneath Earth&#39;s surface could power Earth for 200 years, scientists find](https://www.space.com/the-universe/earth/just-a-fraction-of-the-hydrogen-hidden-beneath-earths-surface-could-power-earth-for-200-years-scientists-find)
 - [&#39;DOOM 3&#39; 20 years later: Not the threequel we expected, but still an essential sci-fi shooter](https://www.space.com/entertainment/space-games-toys/doom-3-20-years-later-not-the-threequel-we-expected-but-still-an-essential-sci-fi-shooter)
 - [Are night vision monoculars good for skywatching?](https://www.space.com/stargazing/astronomy-kit/monoculars-with-night-vision-are-they-worth-it)
 - [These were the badly handled data breaches of 2024](https://techcrunch.com/2024/12/26/badly-handled-data-breaches-2024/)
-- [Running Chicken Nebula glows in gorgeous new image from Very Large Telescope in Chile](https://www.space.com/the-universe/galaxies/running-chicken-nebula-glows-in-gorgeous-new-image-from-very-large-telescope-in-chile)
-- [&#39;Star Wars: Skeleton Crew&#39; episode 5: What&#39;s hidden inside Skull Ridge Mountain?](https://www.space.com/entertainment/space-movies-shows/star-wars-skeleton-crew-episode-5-whats-hidden-inside-skull-ridge-mountain)
 <!-- BLOG-POST-LIST:END -->
 
 ---
