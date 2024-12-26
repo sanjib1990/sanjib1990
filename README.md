@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;DOOM 3&#39; 20 years later: Not the threequel we expected, but still an essential sci-fi shooter](https://www.space.com/entertainment/space-games-toys/doom-3-20-years-later-not-the-threequel-we-expected-but-still-an-essential-sci-fi-shooter)
 - [Are night vision monoculars good for skywatching?](https://www.space.com/stargazing/astronomy-kit/monoculars-with-night-vision-are-they-worth-it)
 - [These were the badly handled data breaches of 2024](https://techcrunch.com/2024/12/26/badly-handled-data-breaches-2024/)
 - [Running Chicken Nebula glows in gorgeous new image from Very Large Telescope in Chile](https://www.space.com/the-universe/galaxies/running-chicken-nebula-glows-in-gorgeous-new-image-from-very-large-telescope-in-chile)
 - [&#39;Star Wars: Skeleton Crew&#39; episode 5: What&#39;s hidden inside Skull Ridge Mountain?](https://www.space.com/entertainment/space-movies-shows/star-wars-skeleton-crew-episode-5-whats-hidden-inside-skull-ridge-mountain)
-- [SpaceX&#39;s big year: The new records and feats Elon Musk&#39;s space company achieved in 2024](https://www.space.com/space-exploration/launches-spacecraft/spacexs-big-year-heres-every-new-record-and-feat-elon-musks-space-company-achieved-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
