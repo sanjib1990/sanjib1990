@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PharmEasy’s $5.6 billion value shrinks to $456 million, investor data shows](https://techcrunch.com/2024/12/25/pharmeasy-valued-at-456-million-vs-peak-5-6-billion-investor-data-shows/)
+- [Bluesky starts testing a trending topics feature](https://techcrunch.com/2024/12/25/bluesky-starts-testing-a-trending-topics-feature/)
 - [Elon Musk’s xAI lands $6B in new cash to fuel AI ambitions](https://techcrunch.com/2024/12/25/elon-musks-xai-lands-billions-in-new-cash-to-fuel-ai-ambitions/)
 - [The &#39;Doctor Who&#39; Christmas special 2024 is pure Steven Moffat: Here&#39;s why &#39;Joy&#39; is so important to the world](https://www.space.com/entertainment/space-movies-shows/the-doctor-who-christmas-special-2024-is-pure-steven-moffat-heres-why-joy-is-so-important-to-the-world)
 - [$132K – $149K, here’s what seed-stage founders pay early employees, based on data](https://techcrunch.com/2024/12/25/132k-149k-heres-what-seed-stage-founders-pay-early-employees-based-on-data/)
-- [Astronauts on ISS beam holiday cheer to Earth for Christmas &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/astronauts-on-iss-beam-holiday-cheer-to-earth-for-christmas-video)
-- [GV, the VC team backed by Google, has a broad remit, but it can’t do one thing](https://techcrunch.com/2024/12/25/gv-the-vc-team-backed-by-google-has-a-broad-remit-but-it-cant-do-one-thing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
