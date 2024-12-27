@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA, Astronomical League team up for 2025 Hubble night sky challenge](https://www.space.com/stargazing/nasa-astronomical-league-team-up-for-2025-hubble-night-sky-challenge)
+- [Lego Marvel Avengers Helicarrier review](https://www.space.com/entertainment/space-games-toys/lego-marvel-helicarrier-review)
+- [NASA&#39;s Parker Solar Probe phones home after surviving historic close sun flyby](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-phones-home-after-surviving-historic-close-sun-flyby)
+- [OpenAI lays out its for-profit transition plans](https://techcrunch.com/2024/12/27/openai-lays-out-its-for-profit-transition-plans/)
 - [Record-breaking ransoms and breaches: A timeline of ransomware in 2024](https://techcrunch.com/2024/12/27/record-breaking-ransoms-and-breaches-a-timeline-of-ransomware-in-2024/)
-- [Gears of War games ranked, worst to best](https://www.space.com/gears-of-war-games-ranked-worst-to-best)
-- [The sun in 2025: How the solar cycle will shape our year ahead](https://www.space.com/the-universe/sun/the-sun-in-2025-how-the-solar-cycle-will-shape-our-year-ahead)
-- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/)
-- [Watch this robotic ‘Superman Suit’ rotate around a gymnastics bar](https://techcrunch.com/video/watch-this-robotic-superman-suit-rotate-around-a-gymnastics-bar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
