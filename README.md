@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Christmas solar flares erupt from the sun. Will they trigger aurora &#39;fireworks&#39; as we close out 2024?](https://www.space.com/the-universe/sun/christmas-solar-flares-fire-off-from-the-sun-will-they-trigger-aurora-fireworks-as-we-close-out-2024)
 - [How to use monoculars for stargazing](https://www.space.com/stargazing/astronomy-kit/how-to-use-monoculars-for-stargazing)
 - [Want a cheap EV? Hertz is handing out discounts to renters](https://techcrunch.com/2024/12/27/want-a-cheap-ev-hertz-is-handing-out-discounts-to-renters/)
 - [Lego Marvel Avengers Helicarrier review](https://www.space.com/entertainment/space-games-toys/lego-marvel-helicarrier-review)
 - [NASA, Astronomical League team up for 2025 Hubble night sky challenge](https://www.space.com/stargazing/nasa-astronomical-league-team-up-for-2025-hubble-night-sky-challenge)
-- [NASA&#39;s Parker Solar Probe phones home after surviving historic close sun flyby. It&#39;s alive!](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-phones-home-after-surviving-historic-close-sun-flyby)
 <!-- BLOG-POST-LIST:END -->
 
 ---
