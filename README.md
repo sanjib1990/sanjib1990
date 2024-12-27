@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The sun in 2025: How the solar cycle will shape our year ahead](https://www.space.com/the-universe/sun/the-sun-in-2025-how-the-solar-cycle-will-shape-our-year-ahead)
 - [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/)
 - [Watch this robotic ‘Superman Suit’ rotate around a gymnastics bar](https://techcrunch.com/video/watch-this-robotic-superman-suit-rotate-around-a-gymnastics-bar/)
 - [ChatGPT Search can be tricked into misleading users, new research reveals](https://techcrunch.com/2024/12/26/chatgpt-search-can-be-tricked-into-misleading-users-new-research-reveals/)
 - [ChatGPT and Sora went down for the second time this month](https://techcrunch.com/2024/12/26/chatgpt-and-sora-went-down-for-the-second-time-this-month/)
-- [DeepSeek’s new AI model appears to be one of the best ‘open’ challengers yet](https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
