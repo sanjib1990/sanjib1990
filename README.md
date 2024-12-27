@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI sales rep startups are booming. So why are VCs wary?](https://techcrunch.com/2024/12/26/ai-sdr-startups-are-booming-so-why-are-vcs-wary/)
 - [Watch this robotic ‘Superman Suit’ rotate around a gymnastics bar](https://techcrunch.com/video/watch-this-robotic-superman-suit-rotate-around-a-gymnastics-bar/)
 - [ChatGPT Search can be tricked into misleading users, new research reveals](https://techcrunch.com/2024/12/26/chatgpt-search-can-be-tricked-into-misleading-users-new-research-reveals/)
-- [ChatGPT and Sora are down for the second time this month](https://techcrunch.com/2024/12/26/chatgpt-and-sora-are-down-for-the-second-time-this-month/)
+- [ChatGPT and Sora went down for the second time this month](https://techcrunch.com/2024/12/26/chatgpt-and-sora-went-down-for-the-second-time-this-month/)
 - [DeepSeek’s new AI model appears to be one of the best ‘open’ challengers yet](https://techcrunch.com/2024/12/26/deepseeks-new-ai-model-appears-to-be-one-of-the-best-open-challengers-yet/)
-- [&#39;Silo&#39; scores a third and fourth season from Apple TV+](https://www.space.com/entertainment/silo-scores-a-third-and-fourth-season-from-apple-tv)
 <!-- BLOG-POST-LIST:END -->
 
 ---
