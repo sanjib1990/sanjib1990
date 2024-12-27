@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyberhaven says it was hacked to publish a malicious update to its Chrome extension](https://techcrunch.com/2024/12/27/cyberhaven-says-it-was-hacked-to-publish-a-malicious-update-to-its-chrome-extension/)
+- [Why DeepSeek’s new AI model thinks it’s ChatGPT](https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/)
+- [Lyft says San Francisco overcharged it $100M in taxes](https://techcrunch.com/2024/12/27/lyft-says-san-francisco-overcharged-it-100-million-in-taxes/)
+- [LG mounts planters on a lamp for apartment growing](https://techcrunch.com/2024/12/27/lg-mounts-planters-on-a-lamp-for-apartment-growing/)
 - [Watch this four-legged robot adapt to tricky situations like an animal](https://techcrunch.com/video/watch-this-four-legged-robot-adapt-to-tricky-situations-like-an-animal/)
-- [Best iPad apps to boost productivity and make your life easier](https://techcrunch.com/2024/12/27/best-ipad-apps-to-boost-productivity-and-make-your-life-easier/)
-- [Christmas solar flares erupt from the sun. Will they trigger aurora &#39;fireworks&#39; as we close out 2024?](https://www.space.com/the-universe/sun/christmas-solar-flares-fire-off-from-the-sun-will-they-trigger-aurora-fireworks-as-we-close-out-2024)
-- [How to use monoculars for stargazing](https://www.space.com/stargazing/astronomy-kit/how-to-use-monoculars-for-stargazing)
-- [Want a cheap EV? Hertz is handing out discounts to renters](https://techcrunch.com/2024/12/27/want-a-cheap-ev-hertz-is-handing-out-discounts-to-renters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
