@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/)
+- [Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition](https://techcrunch.com/2024/12/27/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/)
 - [The rare &#39;black moon&#39; of December 30 rises next week](https://www.space.com/stargazing/the-rare-black-moon-of-december-30-rises-next-week)
 - [Terraform Labs co-founder Do Kwon will face fraud charges in the US](https://techcrunch.com/2024/12/27/terraform-labs-co-founder-do-kwon-will-face-fraud-charges-in-the-u-s/)
 - [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/)
-- [Cyberhaven says it was hacked to publish a malicious update to its Chrome extension](https://techcrunch.com/2024/12/27/cyberhaven-says-it-was-hacked-to-publish-a-malicious-update-to-its-chrome-extension/)
-- [Why DeepSeek’s new AI model thinks it’s ChatGPT](https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
