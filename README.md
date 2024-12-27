@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The rare &#39;black moon&#39; of December 30 rises next week](https://www.space.com/stargazing/the-rare-black-moon-of-december-30-rises-next-week)
+- [Terraform Labs co-founder Do Kwon will face fraud charges in the US](https://techcrunch.com/2024/12/27/terraform-labs-co-founder-do-kwon-will-face-fraud-charges-in-the-u-s/)
+- [The trends that shaped EVs, robotaxis, and electric flight in 2024](https://techcrunch.com/2024/12/27/the-trends-that-shaped-evs-robotaxis-and-electric-flight-in-2024/)
 - [Cyberhaven says it was hacked to publish a malicious update to its Chrome extension](https://techcrunch.com/2024/12/27/cyberhaven-says-it-was-hacked-to-publish-a-malicious-update-to-its-chrome-extension/)
 - [Why DeepSeek’s new AI model thinks it’s ChatGPT](https://techcrunch.com/2024/12/27/why-deepseeks-new-ai-model-thinks-its-chatgpt/)
-- [Lyft says San Francisco overcharged it $100M in taxes](https://techcrunch.com/2024/12/27/lyft-says-san-francisco-overcharged-it-100-million-in-taxes/)
-- [LG mounts planters on a lamp for apartment growing](https://techcrunch.com/2024/12/27/lg-mounts-planters-on-a-lamp-for-apartment-growing/)
-- [Watch this four-legged robot adapt to tricky situations like an animal](https://techcrunch.com/video/watch-this-four-legged-robot-adapt-to-tricky-situations-like-an-animal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
