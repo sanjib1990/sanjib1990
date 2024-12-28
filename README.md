@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/)
 - [How to watch CES 2025’s press conferences](https://techcrunch.com/2024/12/28/how-to-watch-ces-2025s-press-conferences/)
 - [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
 - [DJI Neo drone review](https://www.space.com/dji-neo-drone-review)
 - [Blue Origin hot fires New Glenn rocket for first time and scores FAA license for test launch](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-hot-fires-new-glenn-rocket-for-first-time-and-scores-faa-license-for-test-launch)
-- [Revisiting the biggest moments in the space industry in 2024](https://techcrunch.com/2024/12/28/revisiting-the-biggest-moments-in-the-space-industry-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
