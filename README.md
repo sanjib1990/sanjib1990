@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Year of Venus: How to see the &#39;evening star&#39; at its best in 2025](https://www.space.com/stargazing/year-of-venus-how-to-see-the-evening-star-at-its-best-in-2025)
 - [Don&#39;t miss these 15 spectacular moon events in 2025](https://www.space.com/stargazing/dont-miss-these-15-spectacular-moon-events-in-2025)
 - [Starship, Europa Clipper and more: The top 10 spaceflight stories of 2024](https://www.space.com/space-exploration/missions/starship-europa-clipper-and-more-the-top-10-spaceflight-stories-of-2024)
 - [Bench shuts down, leaving thousands of businesses without access to accounting and tax docs](https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/)
 - [Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition](https://techcrunch.com/2024/12/27/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/)
-- [The rare &#39;black moon&#39; of December 30 rises next week](https://www.space.com/stargazing/the-rare-black-moon-of-december-30-rises-next-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
