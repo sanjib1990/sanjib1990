@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch CES 2025’s press conferences](https://techcrunch.com/2024/12/28/how-to-watch-ces-2025s-press-conferences/)
+- [Best iPad apps for unleashing and exploring your creativity](https://techcrunch.com/2024/12/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/)
+- [DJI Neo drone review](https://www.space.com/dji-neo-drone-review)
+- [Blue Origin hot fires New Glenn rocket for first time and scores FAA license for test launch](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-hot-fires-new-glenn-rocket-for-first-time-and-scores-faa-license-for-test-launch)
 - [Revisiting the biggest moments in the space industry in 2024](https://techcrunch.com/2024/12/28/revisiting-the-biggest-moments-in-the-space-industry-in-2024/)
-- [How The Bad Batch became key to the Star Wars lore](https://www.space.com/how-the-bad-batch-became-key-to-the-star-wars-lore)
-- [Year of Venus: How to see the &#39;evening star&#39; at its best in 2025](https://www.space.com/stargazing/year-of-venus-how-to-see-the-evening-star-at-its-best-in-2025)
-- [Don&#39;t miss these 15 spectacular moon events in 2025](https://www.space.com/stargazing/dont-miss-these-15-spectacular-moon-events-in-2025)
-- [Starship, Europa Clipper and more: The top 10 spaceflight stories of 2024](https://www.space.com/space-exploration/missions/starship-europa-clipper-and-more-the-top-10-spaceflight-stories-of-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
