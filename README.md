@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Dune: Prophecy&#39;s&#39; Faoileann Cunningham talks about Sister Jen&#39;s harrowing series journey &lpar;exclusive&rpar;](https://www.space.com/entertainment/dune-prophecys-faoileann-cunningham-talks-about-sister-jens-harrowing-series-journey-exclusive)
 - [Watch India launch 2 satellites on a space docking test flight on Dec. 30 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/india-spadex-space-docking-satellites-launch)
-- [DJI Air 3S drone review](https://www.space.com/dji-air-3s-drone-review)
 - [Watch SpaceX launch its last Falcon 9 rocket of 2024 overnight tonight](https://www.space.com/spacex-starlink-launch-group-12-6)
+- [DJI Air 3S drone review](https://www.space.com/dji-air-3s-drone-review)
 - [Sun unleashes massive X1.1 solar flare to close out 2024 &lpar;photo&rpar;](https://www.space.com/the-universe/sun/sun-unleashes-massive-x1-1-solar-flare-to-close-out-2024-photo)
-- [Watch Greenland lose 563 cubic miles of ice in under 30 seconds in disturbing new  time-lapse video](https://www.space.com/the-universe/climate-change/watch-greenland-lose-563-cubic-miles-of-ice-in-under-30-seconds-in-disturbing-new-time-lapse-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
