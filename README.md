@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch India launch 2 satellites on a space docking test flight on Dec. 30 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/india-spadex-space-docking-satellites-launch)
 - [DJI Air 3S drone review](https://www.space.com/dji-air-3s-drone-review)
-- [Watch SpaceX launches its last Falcon 9 rocket of 2024 overnight tonight](https://www.space.com/spacex-starlink-launch-group-12-6)
+- [Watch SpaceX launch its last Falcon 9 rocket of 2024 overnight tonight](https://www.space.com/spacex-starlink-launch-group-12-6)
 - [Sun unleashes massive X1.1 solar flare to close out 2024 &lpar;photo&rpar;](https://www.space.com/the-universe/sun/sun-unleashes-massive-x1-1-solar-flare-to-close-out-2024-photo)
 - [Watch Greenland lose 563 cubic miles of ice in under 30 seconds in disturbing new  time-lapse video](https://www.space.com/the-universe/climate-change/watch-greenland-lose-563-cubic-miles-of-ice-in-under-30-seconds-in-disturbing-new-time-lapse-video)
-- [Who are the Covenant? The Halo universe&#39;s alien alliance explained](https://www.space.com/halo-who-are-the-covenant)
 <!-- BLOG-POST-LIST:END -->
 
 ---
