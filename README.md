@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who are the Covenant? The Halo universe&#39;s alien alliance explained](https://www.space.com/halo-who-are-the-covenant)
+- [Africa’s newest fintech unicorns are winning by keeping their feet on the ground](https://techcrunch.com/2024/12/29/africas-fintech-unicorns-blend-digital-banking-and-physical-touchpoints/)
 - [Permira’s Brian Ruder talks AI, Squarespace acquisition, and the value of co-leadership](https://techcrunch.com/2024/12/29/permiras-brian-ruder-talks-ai-squarespace-acquisition-and-the-value-of-co-leadership/)
 - [15 must-see naked-eye skywatching events in 2025](https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025)
 - [3... 2... 1... SpaceX launches Starlink satellites on third-to-last mission of 2024](https://www.space.com/spacex-launches-22-more-starlink-satellites-from-california)
-- [Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/)
-- [Rocket launch today: Is there a rocket launch and what time?](https://www.space.com/live/rocket-launch-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
