@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Permira’s Brian Ruder talks AI, Squarespace acquisition, and the value of co-leadership](https://techcrunch.com/2024/12/29/permiras-brian-ruder-talks-ai-squarespace-acquisition-and-the-value-of-co-leadership/)
 - [15 must-see naked-eye skywatching events in 2025](https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025)
 - [3... 2... 1... SpaceX launches Starlink satellites on third-to-last mission of 2024](https://www.space.com/spacex-launches-22-more-starlink-satellites-from-california)
 - [Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/)
 - [Rocket launch today: Is there a rocket launch and what time?](https://www.space.com/live/rocket-launch-today)
-- [SpaceX launches 4 Astranis satellites on 2nd try after last-second abort](https://www.space.com/space-exploration/launches-spacecraft/spacex-astranis-microgeo-satellites-launch-after-abort)
 <!-- BLOG-POST-LIST:END -->
 
 ---
