@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DJI Air 3S drone review](https://www.space.com/dji-air-3s-drone-review)
+- [Watch SpaceX launches its last Falcon 9 rocket of 2024 overnight tonight](https://www.space.com/spacex-starlink-launch-group-12-6)
+- [Sun unleashes massive X1.1 solar flare to close out 2024 &lpar;photo&rpar;](https://www.space.com/the-universe/sun/sun-unleashes-massive-x1-1-solar-flare-to-close-out-2024-photo)
 - [Watch Greenland lose 563 cubic miles of ice in under 30 seconds in disturbing new  time-lapse video](https://www.space.com/the-universe/climate-change/watch-greenland-lose-563-cubic-miles-of-ice-in-under-30-seconds-in-disturbing-new-time-lapse-video)
 - [Who are the Covenant? The Halo universe&#39;s alien alliance explained](https://www.space.com/halo-who-are-the-covenant)
-- [Africa’s newest fintech unicorns are winning by keeping their feet on the ground](https://techcrunch.com/2024/12/29/africas-fintech-unicorns-blend-digital-banking-and-physical-touchpoints/)
-- [Permira’s Brian Ruder talks AI, Squarespace acquisition, and the value of co-leadership](https://techcrunch.com/2024/12/29/permiras-brian-ruder-talks-ai-squarespace-acquisition-and-the-value-of-co-leadership/)
-- [15 must-see naked-eye skywatching events in 2025](https://www.space.com/stargazing/15-must-see-naked-eye-skywatching-events-in-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
