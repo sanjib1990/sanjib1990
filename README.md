@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3... 2... 1... SpaceX launches Starlink satellites on third-to-last mission planned for 2024](https://www.space.com/spacex-launches-22-more-starlink-satellites-from-california)
 - [Google CEO says AI model Gemini will the company’s ‘biggest focus’ in 2025](https://techcrunch.com/2024/12/28/google-ceo-says-ai-model-gemini-will-the-companys-biggest-focus-in-2025/)
 - [Rocket launch today: Is there a rocket launch and what time?](https://www.space.com/live/rocket-launch-today)
 - [Watch SpaceX attempt to launch 4 Astranis satellites for the 2nd time tonight after abort](https://www.space.com/space-exploration/launches-spacecraft/spacex-astranis-microgeo-satellites-launch-after-abort)
 - [Trump asks Supreme Court to pause imminent TikTok ban](https://techcrunch.com/2024/12/28/trump-asks-supreme-court-to-pause-imminent-tiktok-ban/)
-- [How to watch CES 2025’s press conferences](https://techcrunch.com/2024/12/28/how-to-watch-ces-2025s-press-conferences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
