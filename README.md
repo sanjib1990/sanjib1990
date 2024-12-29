@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI data centers could be ‘distorting’ the US power grid](https://techcrunch.com/2024/12/29/ai-data-centers-could-be-distorting-the-us-power-grid/)
 - [India’s mobile payments dilemma](https://techcrunch.com/2024/12/29/indias-mobile-payments-dilemma/)
 - [Crypto industry groups sue IRS over broker reporting rule](https://techcrunch.com/2024/12/29/crypto-industry-groups-sue-irs-over-broker-reporting-rule/)
 - [&#39;Dune: Prophecy&#39;s&#39; Faoileann Cunningham talks about Sister Jen&#39;s harrowing series journey &lpar;exclusive&rpar;](https://www.space.com/entertainment/dune-prophecys-faoileann-cunningham-talks-about-sister-jens-harrowing-series-journey-exclusive)
 - [Watch India launch 2 satellites on a space docking test flight on Dec. 30 &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/india-spadex-space-docking-satellites-launch)
-- [Watch SpaceX launch its last Falcon 9 rocket of 2024 overnight tonight](https://www.space.com/spacex-starlink-launch-group-12-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
