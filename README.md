@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/)
+- [Aurora alert: Powerful geomagnetic storm could spark northern lights as far south as Illinois tonight and tomorrow](https://www.space.com/stargazing/aurora-borealis/aurora-alert-powerful-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-illinois-tonight-and-tomorrow)
+- [UK antitrust watchdog launches review of IBM’s HashiCorp takeover](https://techcrunch.com/2024/12/30/uk-antitrust-watchdog-launches-review-of-ibms-hashicorp-takeover/)
 - [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/)
 - [&#39;Mathematically perfect&#39; star system discovered 105 light-years from Earth may still be in its infancy. Could that change its prospects for life?](https://www.space.com/the-universe/exoplanets/mathematically-perfect-star-system-discovered-105-light-years-from-earth-may-still-be-in-its-infancy-could-that-change-its-prospects-for-life)
-- [Mercedes-backed Volocopter files for bankruptcy](https://techcrunch.com/2024/12/30/mercedes-backed-volocopter-files-for-bankruptcy/)
-- [New flexible &#39;metamaterial&#39; inspired by nature could help us build shapeshifting space habitats and telescopes](https://www.space.com/space-exploration/tech/new-flexible-metamaterial-inspired-by-nature-could-help-us-build-shapeshifting-space-habitats-and-telescopes)
-- [What has to happen in 2025 to move the UAP story forward?](https://www.space.com/space-exploration/search-for-life/what-has-to-happen-in-2025-to-move-the-uap-story-forward)
 <!-- BLOG-POST-LIST:END -->
 
 ---
