@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/)
+- [&#39;Mathematically perfect&#39; star system discovered 105 light-years from Earth may still be in its infancy. Could that change its prospects for life?](https://www.space.com/the-universe/exoplanets/mathematically-perfect-star-system-discovered-105-light-years-from-earth-may-still-be-in-its-infancy-could-that-change-its-prospects-for-life)
+- [Mercedes-backed Volocopter files for bankruptcy](https://techcrunch.com/2024/12/30/mercedes-backed-volocopter-files-for-bankruptcy/)
 - [New flexible &#39;metamaterial&#39; inspired by nature could help us build shapeshifting space habitats and telescopes](https://www.space.com/space-exploration/tech/new-flexible-metamaterial-inspired-by-nature-could-help-us-build-shapeshifting-space-habitats-and-telescopes)
 - [What has to happen in 2025 to move the UAP story forward?](https://www.space.com/space-exploration/search-for-life/what-has-to-happen-in-2025-to-move-the-uap-story-forward)
-- [David Lynch&#39;s &#39;Dune&#39; at 40: David Lynch&#39;s 1984 adaptation is a true spice oddity](https://www.space.com/entertainment/space-movies-shows/david-lynchs-dune-at-40-david-lynchs-1984-adaptation-is-a-true-spice-oddity)
-- [The top 7 black hole discoveries from 2024](https://www.space.com/2024-big-year-black-holes)
-- [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
