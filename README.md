@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition](https://techcrunch.com/2024/12/30/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/)
+- [Apple TV+ will be free to stream this weekend](https://techcrunch.com/2024/12/30/apple-tv-will-be-free-to-stream-this-weekend/)
 - [Get ready for the &#39;New Year Comet&#39;: What to expect from Comet ATLAS &lpar;C/2024&rpar; G3](https://www.space.com/the-universe/comets/get-ready-for-the-new-year-comet-what-to-expect-from-comet-atlas-c-2024-g3)
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/)
 - [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/)
-- [Aurora alert: Powerful geomagnetic storm could spark northern lights as far south as Illinois tonight and tomorrow](https://www.space.com/stargazing/aurora-borealis/aurora-alert-powerful-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-illinois-tonight-and-tomorrow)
-- [UK antitrust watchdog launches review of IBM’s HashiCorp takeover](https://techcrunch.com/2024/12/30/uk-antitrust-watchdog-launches-review-of-ibms-hashicorp-takeover/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
