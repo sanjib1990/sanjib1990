@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get ready for the &#39;New Year Comet&#39;: What to expect from Comet ATLAS &lpar;C/2024&rpar; G3](https://www.space.com/the-universe/comets/get-ready-for-the-new-year-comet-what-to-expect-from-comet-atlas-c-2024-g3)
+- [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/)
 - [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/)
 - [Aurora alert: Powerful geomagnetic storm could spark northern lights as far south as Illinois tonight and tomorrow](https://www.space.com/stargazing/aurora-borealis/aurora-alert-powerful-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-illinois-tonight-and-tomorrow)
 - [UK antitrust watchdog launches review of IBM’s HashiCorp takeover](https://techcrunch.com/2024/12/30/uk-antitrust-watchdog-launches-review-of-ibms-hashicorp-takeover/)
-- [Backed by a16z and QED, Brazilian startup Carecode puts AI agents to work on healthcare](https://techcrunch.com/2024/12/30/backed-by-a16z-and-qed-brazilian-startup-carecode-puts-ai-agents-to-work-on-healthcare/)
-- [&#39;Mathematically perfect&#39; star system discovered 105 light-years from Earth may still be in its infancy. Could that change its prospects for life?](https://www.space.com/the-universe/exoplanets/mathematically-perfect-star-system-discovered-105-light-years-from-earth-may-still-be-in-its-infancy-could-that-change-its-prospects-for-life)
 <!-- BLOG-POST-LIST:END -->
 
 ---
