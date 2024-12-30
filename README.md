@@ -94,9 +94,9 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ByteDance appears to be skirting US restrictions to buy Nvidia chips: report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/)
+- [ByteDance appears to be skirting US restrictions to buy Nvidia chips: Report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/)
 - [This MagSafe iPhone wallet doubles as a stand and offers Find My functionality](https://techcrunch.com/2024/12/30/this-magsafe-iphone-wallet-doubles-as-a-stand-and-offers-find-my-functionality/)
-- [US Treasury says China stole documents in ‘major’ cyberattack](https://techcrunch.com/2024/12/30/us-treasury-says-china-stole-documents-in-major-cyberattack/)
+- [US Treasury says China accessed government documents in ‘major’ cyberattack](https://techcrunch.com/2024/12/30/us-treasury-says-china-stole-documents-in-major-cyberattack/)
 - [From AI agents to enterprise budgets, 20 VCs share their predictions on enterprise tech in 2025](https://techcrunch.com/2024/12/30/from-ai-agents-to-enterprise-budgets-20-vcs-share-their-predictions-on-enterprise-tech-in-2025/)
 - [Blue Origin looks to take on SpaceX dominance with New Glenn launch days away](https://techcrunch.com/2024/12/30/blue-origin-looks-to-take-on-spacex-dominance-with-new-glenn-launch-days-away/)
 <!-- BLOG-POST-LIST:END -->
