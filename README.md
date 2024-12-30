@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What has to happen in 2025 to move the UAP story forward?](https://www.space.com/space-exploration/search-for-life/what-has-to-happen-in-2025-to-move-the-uap-story-forward)
 - [David Lynch&#39;s &#39;Dune&#39; at 40: David Lynch&#39;s 1984 adaptation is a true spice oddity](https://www.space.com/entertainment/space-movies-shows/david-lynchs-dune-at-40-david-lynchs-1984-adaptation-is-a-true-spice-oddity)
 - [The top 7 black hole discoveries from 2024](https://www.space.com/2024-big-year-black-holes)
 - [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/)
-- [Verizon says it has secured its network after breach by China-linked Salt Typhoon group](https://techcrunch.com/2024/12/30/verizon-says-it-has-secured-its-network-after-breach-by-china-linked-salt-typhoon-group/)
-- [Former US President Jimmy Carter dies at 100, but his voice continues &#39;into the cosmos&#39;](https://www.space.com/space-exploration/former-us-president-jimmy-carter-dies-at-100-but-his-voice-continues-into-the-cosmos)
+- [AT&amp;T and Verizon say networks are secure after being breached by China-linked Salt Typhoon hackers](https://techcrunch.com/2024/12/30/verizon-says-it-has-secured-its-network-after-breach-by-china-linked-salt-typhoon-group/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
