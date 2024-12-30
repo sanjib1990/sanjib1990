@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Volkswagen leak exposed precise location data on thousands of vehicles across Europe for months](https://techcrunch.com/2024/12/30/volkswagen-leak-exposed-precise-location-data-on-thousands-of-vehicles-across-europe-for-months/)
-- [Sci-fi movies and TV shows to be excited for in 2025](https://www.space.com/entertainment/space-movies-shows/sci-fi-movies-and-tv-shows-to-be-excited-for-in-2025)
-- [Panasonic Leica DG Elmarit 200mm f/2.8 POWER O.I.S. review](https://www.space.com/panasonic-leica-dg-elmarit-200mm-f28-power-ois-review)
-- [Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition](https://techcrunch.com/2024/12/30/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/)
-- [Apple TV+ will be free to stream this weekend](https://techcrunch.com/2024/12/30/apple-tv-will-be-free-to-stream-this-weekend/)
+- [ByteDance appears to be skirting US restrictions to buy Nvidia chips: report](https://techcrunch.com/2024/12/30/bytedance-appears-to-be-skirting-u-s-restrictions-to-buy-nvidia-chips-report/)
+- [This MagSafe iPhone wallet doubles as a stand and offers Find My functionality](https://techcrunch.com/2024/12/30/this-magsafe-iphone-wallet-doubles-as-a-stand-and-offers-find-my-functionality/)
+- [US Treasury says China stole documents in ‘major’ cyberattack](https://techcrunch.com/2024/12/30/us-treasury-says-china-stole-documents-in-major-cyberattack/)
+- [From AI agents to enterprise budgets, 20 VCs share their predictions on enterprise tech in 2025](https://techcrunch.com/2024/12/30/from-ai-agents-to-enterprise-budgets-20-vcs-share-their-predictions-on-enterprise-tech-in-2025/)
+- [Blue Origin looks to take on SpaceX dominance with New Glenn launch days away](https://techcrunch.com/2024/12/30/blue-origin-looks-to-take-on-spacex-dominance-with-new-glenn-launch-days-away/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
