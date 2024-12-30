@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Panasonic Leica DG Elmarit 200mm f/2.8 POWER O.I.S. review](https://www.space.com/panasonic-leica-dg-elmarit-200mm-f28-power-ois-review)
 - [Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition](https://techcrunch.com/2024/12/30/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/)
 - [Apple TV+ will be free to stream this weekend](https://techcrunch.com/2024/12/30/apple-tv-will-be-free-to-stream-this-weekend/)
 - [Get ready for the &#39;New Year Comet&#39;: What to expect from Comet ATLAS &lpar;C/2024&rpar; G3](https://www.space.com/the-universe/comets/get-ready-for-the-new-year-comet-what-to-expect-from-comet-atlas-c-2024-g3)
 - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/)
-- [Nvidia completes acquisition of AI infrastructure startup Run:ai](https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
