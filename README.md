@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Volkswagen leak exposed precise location data on thousands of vehicles across Europe for months](https://techcrunch.com/2024/12/30/volkswagen-leak-exposed-precise-location-data-on-thousands-of-vehicles-across-europe-for-months/)
 - [Sci-fi movies and TV shows to be excited for in 2025](https://www.space.com/entertainment/space-movies-shows/sci-fi-movies-and-tv-shows-to-be-excited-for-in-2025)
 - [Panasonic Leica DG Elmarit 200mm f/2.8 POWER O.I.S. review](https://www.space.com/panasonic-leica-dg-elmarit-200mm-f28-power-ois-review)
 - [Nonprofit group joins Elon Musk’s effort to block OpenAI’s for-profit transition](https://techcrunch.com/2024/12/30/nonprofit-group-joins-elon-musks-effort-to-block-openais-for-profit-transition/)
 - [Apple TV+ will be free to stream this weekend](https://techcrunch.com/2024/12/30/apple-tv-will-be-free-to-stream-this-weekend/)
-- [Get ready for the &#39;New Year Comet&#39;: What to expect from Comet ATLAS &lpar;C/2024&rpar; G3](https://www.space.com/the-universe/comets/get-ready-for-the-new-year-comet-what-to-expect-from-comet-atlas-c-2024-g3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
