@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The top 7 black hole discoveries from 2024](https://www.space.com/2024-big-year-black-holes)
+- [Calo raises $25 million to expand its ready-to-eat meal service beyond the Middle East](https://techcrunch.com/2024/12/30/calo-raises-25-million-to-expand-its-ready-to-eat-meal-service-beyond-middle-east/)
+- [Verizon says it has secured its network after breach by China-linked Salt Typhoon group](https://techcrunch.com/2024/12/30/verizon-says-it-has-secured-its-network-after-breach-by-china-linked-salt-typhoon-group/)
 - [Former US President Jimmy Carter dies at 100, but his voice continues &#39;into the cosmos&#39;](https://www.space.com/space-exploration/former-us-president-jimmy-carter-dies-at-100-but-his-voice-continues-into-the-cosmos)
 - [Nvidia’s next move: powering humanoid robots](https://techcrunch.com/2024/12/29/nvidias-next-move-powering-humanoid-robots/)
-- [AI data centers could be ‘distorting’ the US power grid](https://techcrunch.com/2024/12/29/ai-data-centers-could-be-distorting-the-us-power-grid/)
-- [India’s mobile payments dilemma](https://techcrunch.com/2024/12/29/indias-mobile-payments-dilemma/)
-- [Crypto industry groups sue IRS over broker reporting rule](https://techcrunch.com/2024/12/29/crypto-industry-groups-sue-irs-over-broker-reporting-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
