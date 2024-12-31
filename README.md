@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s pro-Trump critics claim they’re being censored on X](https://techcrunch.com/2024/12/31/elon-musks-pro-trump-critics-claim-theyre-being-censored-on-x/)
 - [Will Smith eating spaghetti and other weird AI benchmarks that took off in 2024](https://techcrunch.com/2024/12/31/will-smith-eating-spaghetti-and-other-weird-ai-benchmarks-that-took-off-in-2024/)
 - [A look back on my favorite episodes of TechCrunch’s Found podcast](https://techcrunch.com/2024/12/31/a-look-back-on-my-favorite-episodes-of-techcrunchs-found-podcast/)
 - [Investigation exposes pedophilia in the child-influencer industry](https://techcrunch.com/2024/12/31/investigation-exposes-pedophilia-in-the-child-influencer-industry/)
 - [Elon Musk’s promises for Tesla in 2024, from robotaxis to Optimus bots](https://techcrunch.com/2024/12/31/elon-musks-promises-for-tesla-in-2024-from-robotaxis-to-optimus-bots/)
-- [&#39;Ambitious climate action is more urgent than ever:&#39; 3 Climate records broken in 2024](https://www.space.com/the-universe/climate-change/ambitious-climate-action-is-more-urgent-than-ever-3-climate-records-broken-in-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ---
