@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Year’s cybersecurity resolutions that every startup should keep](https://techcrunch.com/2024/12/31/new-year-cybersecurity-resolutions-that-every-startup-should-keep/)
 - [Will 2025 be the year of Starship? SpaceX&#39;s megarocket is growing up.](https://www.space.com/space-exploration/private-spaceflight/will-2025-be-the-year-of-starship-spacex-megarocket-is-growing-up)
 - [India again delays rules to break PhonePe-Google Pay duopoly](https://techcrunch.com/2024/12/31/india-again-delays-rules-to-break-phonepe-google-pay-duopoly/)
 - [India lifts WhatsApp payment curbs](https://techcrunch.com/2024/12/31/india-lifts-whatsapp-payment-curbs/)
 - [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/)
-- [Samsung pays $181M to become largest shareholder of Rainbow Robotics](https://techcrunch.com/2024/12/30/samsung-pays-181m-to-become-largest-shareholder-of-rainbow-robotics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
