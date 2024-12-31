@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investigation exposes pedophilia in the child-influencer industry](https://techcrunch.com/2024/12/31/investigation-exposes-pedophilia-in-the-child-influencer-industry/)
 - [Elon Musk’s promises for Tesla in 2024, from robotaxis to Optimus bots](https://techcrunch.com/2024/12/31/elon-musks-promises-for-tesla-in-2024-from-robotaxis-to-optimus-bots/)
 - [&#39;Ambitious climate action is more urgent than ever:&#39; 3 Climate records broken in 2024](https://www.space.com/the-universe/climate-change/ambitious-climate-action-is-more-urgent-than-ever-3-climate-records-broken-in-2024)
 - [Ireland&#39;s lost Apollo 11 moon rock traced from basement to fire in documents](https://www.space.com/ireland-apollo-moon-rock-display-documents)
 - [A Waymo robotaxi and a Serve delivery robot collided in Los Angeles](https://techcrunch.com/2024/12/31/a-waymo-robotaxi-and-a-serve-delivery-robot-collided-in-los-angeles/)
-- [NASA&#39;s Orion crew capsule had heat shield issues during Artemis 1 − an aerospace expert weighs in &lpar;op-ed&rpar;](https://www.space.com/space-exploration/nasa-orion-crew-capsule-had-heat-shield-issues-during-artemis-1-an-aerospace-expert-weighs-in-op-ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
