@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Silo&#39; Season 2 Episode 7: Juliette takes a plunge and Lukas views the vault of human history](https://www.space.com/entertainment/silo-season-2-the-dive-juliette-takes-a-plunge-and-lukas-views-the-vault-of-human-history)
+- [Best sci-fi TV shows of 2024](https://www.space.com/best-sci-fi-TV-shows-2024)
+- [Eclipses, meteor showers and more: The must-see skywatching events of 2025](https://www.space.com/stargazing/eclipses-meteor-showers-and-more-the-must-see-skywatching-events-of-2025)
 - [US telco Lumen says its network is now clear of China’s Salt Typhoon hackers](https://techcrunch.com/2024/12/31/another-us-telco-says-its-network-is-now-clear-of-china-backed-salt-typhoon-hackers/)
 - [Was 2024 the year we finally started to understand dark energy?](https://www.space.com/2024-finally-understand-dark-energy)
-- [After ups and down, food delivery startup Epicery closes shop](https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/)
-- [New Year’s cybersecurity resolutions that every startup should keep](https://techcrunch.com/2024/12/31/new-year-cybersecurity-resolutions-that-every-startup-should-keep/)
-- [Will 2025 be the year of Starship? SpaceX&#39;s megarocket is growing up.](https://www.space.com/space-exploration/private-spaceflight/will-2025-be-the-year-of-starship-spacex-megarocket-is-growing-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
