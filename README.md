@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These were the badly handled data breaches of 2024](https://techcrunch.com/2024/12/31/badly-handled-data-breaches-2024/)
+- [The online moments that defined 2024](https://techcrunch.com/2024/12/31/the-online-moments-that-defined-2024/)
+- [&#39;Star Bound&#39; serves up a &#39;snarky approach to space history&#39; and the American space program &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-bound-serves-up-a-snarky-approach-to-space-history-and-the-american-space-program-exclusive)
+- [&#39;Galaxy Quest&#39; at 25: the &#39;Star Trek&#39; spoof that has its cake and eats it](https://www.space.com/entertainment/space-movies-shows/galaxy-quest-at-25-the-star-trek-spoof-that-has-its-cake-and-eats-it)
 - [&#39;Silo&#39; Season 2 Episode 7: Juliette takes a plunge and Lukas views the vault of human history](https://www.space.com/entertainment/silo-season-2-the-dive-juliette-takes-a-plunge-and-lukas-views-the-vault-of-human-history)
-- [Best sci-fi TV shows of 2024](https://www.space.com/best-sci-fi-TV-shows-2024)
-- [Eclipses, meteor showers and more: The must-see skywatching events of 2025](https://www.space.com/stargazing/eclipses-meteor-showers-and-more-the-must-see-skywatching-events-of-2025)
-- [US telco Lumen says its network is now clear of China’s Salt Typhoon hackers](https://techcrunch.com/2024/12/31/another-us-telco-says-its-network-is-now-clear-of-china-backed-salt-typhoon-hackers/)
-- [Was 2024 the year we finally started to understand dark energy?](https://www.space.com/2024-finally-understand-dark-energy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
