@@ -95,10 +95,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Will 2025 be the year of Starship? SpaceX&#39;s megarocket is growing up.](https://www.space.com/space-exploration/private-spaceflight/will-2025-be-the-year-of-starship-spacex-megarocket-is-growing-up)
-- [Sci-fi movies and TV shows to be excited for in 2025](https://www.space.com/entertainment/space-movies-shows/sci-fi-movies-and-tv-shows-to-be-excited-for-in-2025)
-- [Panasonic Leica DG Elmarit 200mm f/2.8 POWER O.I.S. review](https://www.space.com/panasonic-leica-dg-elmarit-200mm-f28-power-ois-review)
-- [Get ready for the &#39;New Year Comet&#39;: What to expect from Comet ATLAS &lpar;C/2024&rpar; G3](https://www.space.com/the-universe/comets/get-ready-for-the-new-year-comet-what-to-expect-from-comet-atlas-c-2024-g3)
-- [Aurora alert: Powerful geomagnetic storm could spark northern lights as far south as Illinois tonight and tomorrow](https://www.space.com/stargazing/aurora-borealis/aurora-alert-powerful-geomagnetic-storm-could-spark-northern-lights-as-far-south-as-illinois-tonight-and-tomorrow)
+- [India again delays rules to break PhonePe-Google Pay duopoly](https://techcrunch.com/2024/12/31/india-again-delays-rules-to-break-phonepe-google-pay-duopoly/)
+- [India lifts WhatsApp payment curbs](https://techcrunch.com/2024/12/31/india-lifts-whatsapp-payment-curbs/)
+- [Gupshup investor cuts value of its stake again, implying new valuation of $486M](https://techcrunch.com/2024/12/30/gupshup-investor-cuts-value-of-its-stake-by-65-implying-new-valuation-of-486m/)
+- [Samsung pays $181M to become largest shareholder of Rainbow Robotics](https://techcrunch.com/2024/12/30/samsung-pays-181m-to-become-largest-shareholder-of-rainbow-robotics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
