@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [People are playing a new DOOM-themed CAPTCHA](https://techcrunch.com/2025/01/01/people-are-playing-a-new-doom-themed-captcha/)
 - [Image of the Day 2024 Archive](https://www.space.com/image-of-the-day-archive-2024)
 - [&#39;Star Trek: Lower Decks&#39;: the 25 best &#39;Trek&#39; callbacks from the show&#39;s five-year mission](https://www.space.com/entertainment/space-movies-shows/star-trek-lower-decks-the-25-best-trek-callbacks-from-the-shows-five-year-mission)
 - [Ingenuity Mars Helicopter flies again as first drone on Rose Parade float](https://www.space.com/rose-parade-mars-rover-rendezvous-float)
 - [Internal SpaceX documents show the sweet stock deals offered to investors like a16z, Gigafund](https://techcrunch.com/2025/01/01/internal-spacex-documents-show-the-sweet-stock-deals-offered-to-investors-like-a16z-gigafund/)
-- [We finally know where to look for life on Mars](https://www.space.com/space-exploration/search-for-life/we-finally-know-where-to-look-for-life-on-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
