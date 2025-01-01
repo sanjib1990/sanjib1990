@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Internal SpaceX documents show the sweet stock deals offered to investors like a16z, Gigafund](https://techcrunch.com/2025/01/01/internal-spacex-documents-show-the-sweet-stock-deals-offered-to-investors-like-a16z-gigafund/)
+- [We finally know where to look for life on Mars](https://www.space.com/space-exploration/search-for-life/we-finally-know-where-to-look-for-life-on-mars)
+- [Robinhood, already a ‘comeback’ stock, has even more aggressive plans for 2025](https://techcrunch.com/2025/01/01/robinhood-already-a-comeback-stock-has-even-more-aggressive-plans-for-2025/)
 - [OpenAI failed to deliver the opt-out tool it promised by 2025](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/)
 - [Silicon Valley stifled the AI doom movement in 2024](https://techcrunch.com/2025/01/01/2024-the-year-silicon-valley-stifled-the-ai-doom-movement/)
-- [Just a fraction of the hydrogen hidden beneath Earth&#39;s surface could power Earth for 200 years, scientists find [clone]](https://www.space.com/the-universe/earth/just-a-fraction-of-the-hydrogen-hidden-beneath-earths-surface-could-power-earth-for-200-years-scientists-find-clone)
-- [New Year&#39;s northern lights delight as powerful solar storms spark auroras across central US and Europe &lpar;photos&rpar;](https://www.space.com/stargazing/aurora-borealis/new-years-northern-lights-delight-as-powerful-solar-storms-spark-auroras-across-central-us-and-europe-photos)
-- [Launches, moon landings and more: Here&#39;s the top spaceflight missions to watch in 2025](https://www.space.com/space-exploration/missions/launches-moon-landings-and-more-the-top-spaceflight-events-to-look-forward-to-in-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
