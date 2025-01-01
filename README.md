@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Year&#39;s northern lights delight as powerful solar storms spark auroras across central US and Europe &lpar;photos&rpar;](https://www.space.com/stargazing/aurora-borealis/new-years-northern-lights-delight-as-powerful-solar-storms-spark-auroras-across-central-us-and-europe-photos)
 - [Launches, moon landings and more: Here&#39;s the top spaceflight missions to watch in 2025](https://www.space.com/space-exploration/missions/launches-moon-landings-and-more-the-top-spaceflight-events-to-look-forward-to-in-2025)
 - [Accel closes $650 million for new India fund](https://techcrunch.com/2025/01/01/accel-closes-650-million-for-new-india-fund/)
 - [Judge allows California’s ban on addictive feeds for minors to go into effect](https://techcrunch.com/2024/12/31/judge-allows-californias-ban-on-addictive-feeds-for-minors-to-go-into-effect/)
 - [Elon Musk’s pro-Trump critics claim they’re being censored on X](https://techcrunch.com/2024/12/31/elon-musks-pro-trump-critics-claim-theyre-being-censored-on-x/)
-- [Will Smith eating spaghetti and other weird AI benchmarks that took off in 2024](https://techcrunch.com/2024/12/31/will-smith-eating-spaghetti-and-other-weird-ai-benchmarks-that-took-off-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
