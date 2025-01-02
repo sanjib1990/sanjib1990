@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These 55 robotics companies are hiring](https://techcrunch.com/2025/01/02/these-60-robotics-companies-are-hiring/)
+- [NASA&#39;s Parker Solar Probe beams home 1st detailed update after record-breaking approach to the sun](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-beams-home-1st-detailed-update-after-record-breaking-approach-to-the-sun)
 - [Strap on a VR headset like a Facehugger with &#39;Alien: Rogue Incursion&#39; — the 1st-ever &#39;Alien&#39; VR game](https://www.space.com/entertainment/alien-rogue-incursion-brings-the-perfect-organism-to-life-in-virtual-reality)
 - [Meta policy chief Nick Clegg steps down](https://techcrunch.com/2025/01/02/meta-policy-chief-nick-clegg-steps-down/)
 - [New details emerge in Cybertruck explosion outside Trump hotel in Vegas that left 1 dead, 7 injured](https://techcrunch.com/2025/01/02/police-investigating-cybertruck-fire-outside-trump-hotel-in-vegas/)
-- [Newly uncovered oxygen reaction could aid the search for alien life](https://www.space.com/space-exploration/search-for-life/newly-uncovered-oxygen-reaction-could-aid-the-search-for-alien-life)
-- [Space debris crash in Kenya village believed to be from leftover rocket hardware](https://www.space.com/space-exploration/satellites/space-debris-crashes-into-kenyan-village-believed-to-be-leftover-rocket-hardware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
