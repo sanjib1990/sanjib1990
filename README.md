@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Thiel-backed venture debt firm Tacora raises $268.7M for new fund](https://techcrunch.com/2025/01/02/peter-thiel-backed-venture-debt-firm-tacora-raises-268-7m-for-new-fund/)
 - [How to watch CES 2025’s press conferences](https://techcrunch.com/2025/01/02/how-to-watch-ces-2025s-press-conferences/)
 - [Dead stars can celebrate 2 New Years every second with nearby cosmic fireworks](https://www.space.com/the-universe/stars/frb-fireworks-neutronstar-newyear-2025)
 - [KoBold used AI to find copper — now investors are piling in to the tune of $537M](https://techcrunch.com/2025/01/02/kobold-used-ai-to-find-copper-now-investors-are-piling-in-to-the-tune-of-537m/)
 - [xAI’s next-gen AI model didn’t arrive on time, adding to a trend](https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/)
-- [These 55 robotics companies are hiring](https://techcrunch.com/2025/01/02/these-55-robotics-companies-are-hiring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
