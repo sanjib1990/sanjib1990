@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black holes can squash star formation, James Webb Space Telescope finds](https://www.space.com/the-universe/black-holes/black-holes-can-squash-star-formation-james-webb-space-telescope-finds)
 - [Telegram rolls out third-party account verification, filters](https://techcrunch.com/2025/01/02/telegram-rolls-out-third-party-account-verification-filters/)
 - [Chinese government hackers reportedly targeted US Treasury’s sanctions office during December cyberattack](https://techcrunch.com/2025/01/02/chinese-government-hackers-reportedly-targeted-us-treasurys-sanctions-office-during-december-cyberattack/)
 - [Cybertruck explosion outside Trump hotel in Vegas leaves 1 dead, 7 injured](https://techcrunch.com/2025/01/01/police-investigating-cybertruck-fire-outside-trump-hotel-in-vegas/)
 - [Panasonic Leica Summilux DG 15mm f/1.7 ASPH review](https://www.space.com/panasonic-leica-summilux-dg-15mm-asph-review)
-- [Toyota’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/01/toyotas-ces-2025-press-conference-how-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
