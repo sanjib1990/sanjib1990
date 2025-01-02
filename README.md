@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fall 2024 was Earth&#39;s warmest autumn ever](https://www.space.com/the-universe/climate-change/fall-2024-was-earths-warmest-autumn-ever)
+- [Spotify’s partner program for podcast hosts is now available](https://techcrunch.com/2025/01/02/spotifys-partner-program-for-podcast-hosts-is-now-available/)
+- [Thomson Reuters acquires tax automation company SafeSend for $600M](https://techcrunch.com/2025/01/02/thomson-reuters-acquires-tax-automation-company-safesend-for-600m/)
 - [The Quadrantid meteor shower peaks tonight! Don&#39;t miss the 1st &#39;shooting stars&#39; of 2025](https://www.space.com/stargazing/meteors-showers/the-quadrantid-meteor-shower-peaks-tonight-dont-miss-the-1st-shooting-stars-of-2025)
 - [Tesla Cybertruck fails to boost 2024 sales as annual deliveries fall for first time](https://techcrunch.com/2025/01/02/tesla-cybertruck-fails-to-boost-2024-sales-as-annual-deliveries-fall-for-first-time/)
-- [Apheris rethinks the AI data bottleneck in life science with federated computing](https://techcrunch.com/2025/01/02/apheris-rethinks-the-ai-data-bottleneck-in-life-science-with-federated-computing/)
-- [2025 will be the year climate tech learns to love AI](https://techcrunch.com/2025/01/02/2025-will-be-the-year-climate-tech-learns-to-love-ai/)
-- [James Webb telescope uncovers massive &#39;grand design&#39; spiral galaxy in the early universe — and scientists can&#39;t explain how it got so big, so fast](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-telescope-uncovers-massive-grand-design-spiral-galaxy-in-the-early-universe-and-scientists-cant-explain-how-it-got-so-big-so-fast)
 <!-- BLOG-POST-LIST:END -->
 
 ---
