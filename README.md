@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strap on a VR headset like a Facehugger with &#39;Alien: Rogue Incursion&#39; — the 1st-ever &#39;Alien&#39; VR game](https://www.space.com/entertainment/alien-rogue-incursion-brings-the-perfect-organism-to-life-in-virtual-reality)
+- [Meta policy chief Nick Clegg steps down](https://techcrunch.com/2025/01/02/meta-policy-chief-nick-clegg-steps-down/)
+- [New details emerge in Cybertruck explosion outside Trump hotel in Vegas that left 1 dead, 7 injured](https://techcrunch.com/2025/01/02/police-investigating-cybertruck-fire-outside-trump-hotel-in-vegas/)
 - [Newly uncovered oxygen reaction could aid the search for alien life](https://www.space.com/space-exploration/search-for-life/newly-uncovered-oxygen-reaction-could-aid-the-search-for-alien-life)
-- [Space debris crashes into Kenyan village, believed to be leftover rocket hardware](https://www.space.com/space-exploration/satellites/space-debris-crashes-into-kenyan-village-believed-to-be-leftover-rocket-hardware)
-- [CES 2025: What to expect from the year’s first and biggest tech show](https://techcrunch.com/2025/01/02/ces-2025-what-to-expect-from-the-years-first-and-biggest-tech-show/)
-- [Some black holes at the centers of galaxies have a buddy − but detecting these binary pairs isn’t easy](https://www.space.com/the-universe/some-black-holes-at-the-centers-of-galaxies-have-a-buddy-but-detecting-these-binary-pairs-isnt-easy)
-- [Fall 2024 was Earth&#39;s warmest autumn ever](https://www.space.com/the-universe/climate-change/fall-2024-was-earths-warmest-autumn-ever)
+- [Space debris crash in Kenya village believed to be from leftover rocket hardware](https://www.space.com/space-exploration/satellites/space-debris-crashes-into-kenyan-village-believed-to-be-leftover-rocket-hardware)
 <!-- BLOG-POST-LIST:END -->
 
 ---
