@@ -98,7 +98,7 @@
 - [Panasonic Leica Summilux DG 15mm f/1.7 ASPH review](https://www.space.com/panasonic-leica-summilux-dg-15mm-asph-review)
 - [Toyota’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/01/toyotas-ces-2025-press-conference-how-to-watch/)
 - [People are playing a new DOOM-themed CAPTCHA](https://techcrunch.com/2025/01/01/people-are-playing-a-new-doom-themed-captcha/)
-- [Image of the Day 2024 Archive](https://www.space.com/image-of-the-day-archive-2024)
+- [&#39;Star Trek: Lower Decks&#39;: the 25 best &#39;Trek&#39; callbacks from the show&#39;s five-year mission](https://www.space.com/entertainment/space-movies-shows/star-trek-lower-decks-the-25-best-trek-callbacks-from-the-shows-five-year-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
