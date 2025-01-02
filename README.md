@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [These 55 robotics companies are hiring](https://techcrunch.com/2025/01/02/these-60-robotics-companies-are-hiring/)
-- [NASA&#39;s Parker Solar Probe beams home 1st detailed update after record-breaking approach to the sun](https://www.space.com/the-universe/sun/nasas-parker-solar-probe-beams-home-1st-detailed-update-after-record-breaking-approach-to-the-sun)
-- [Strap on a VR headset like a Facehugger with &#39;Alien: Rogue Incursion&#39; — the 1st-ever &#39;Alien&#39; VR game](https://www.space.com/entertainment/alien-rogue-incursion-brings-the-perfect-organism-to-life-in-virtual-reality)
-- [Meta policy chief Nick Clegg steps down](https://techcrunch.com/2025/01/02/meta-policy-chief-nick-clegg-steps-down/)
-- [New details emerge in Cybertruck explosion outside Trump hotel in Vegas that left 1 dead, 7 injured](https://techcrunch.com/2025/01/02/police-investigating-cybertruck-fire-outside-trump-hotel-in-vegas/)
+- [How to watch CES 2025’s press conferences](https://techcrunch.com/2025/01/02/how-to-watch-ces-2025s-press-conferences/)
+- [Dead stars can celebrate 2 New Years every second with nearby cosmic fireworks](https://www.space.com/the-universe/stars/frb-fireworks-neutronstar-newyear-2025)
+- [KoBold used AI to find copper — now investors are piling in to the tune of $537M](https://techcrunch.com/2025/01/02/kobold-used-ai-to-find-copper-now-investors-are-piling-in-to-the-tune-of-537m/)
+- [xAI’s next-gen AI model didn’t arrive on time, adding to a trend](https://techcrunch.com/2025/01/02/xais-next-gen-grok-model-didnt-arrive-on-time-adding-to-a-trend/)
+- [These 55 robotics companies are hiring](https://techcrunch.com/2025/01/02/these-55-robotics-companies-are-hiring/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
