@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Some black holes at the centers of galaxies have a buddy − but detecting these binary pairs isn’t easy](https://www.space.com/the-universe/some-black-holes-at-the-centers-of-galaxies-have-a-buddy-but-detecting-these-binary-pairs-isnt-easy)
 - [Fall 2024 was Earth&#39;s warmest autumn ever](https://www.space.com/the-universe/climate-change/fall-2024-was-earths-warmest-autumn-ever)
 - [Spotify’s partner program for podcast hosts is now available](https://techcrunch.com/2025/01/02/spotifys-partner-program-for-podcast-hosts-is-now-available/)
 - [Thomson Reuters acquires tax automation company SafeSend for $600M](https://techcrunch.com/2025/01/02/thomson-reuters-acquires-tax-automation-company-safesend-for-600m/)
 - [The Quadrantid meteor shower peaks tonight! Don&#39;t miss the 1st &#39;shooting stars&#39; of 2025](https://www.space.com/stargazing/meteors-showers/the-quadrantid-meteor-shower-peaks-tonight-dont-miss-the-1st-shooting-stars-of-2025)
-- [Tesla Cybertruck fails to boost 2024 sales as annual deliveries fall for first time](https://techcrunch.com/2025/01/02/tesla-cybertruck-fails-to-boost-2024-sales-as-annual-deliveries-fall-for-first-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
