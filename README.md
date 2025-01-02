@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly uncovered oxygen reaction could aid the search for alien life](https://www.space.com/space-exploration/search-for-life/newly-uncovered-oxygen-reaction-could-aid-the-search-for-alien-life)
 - [Space debris crashes into Kenyan village, believed to be leftover rocket hardware](https://www.space.com/space-exploration/satellites/space-debris-crashes-into-kenyan-village-believed-to-be-leftover-rocket-hardware)
 - [CES 2025: What to expect from the year’s first and biggest tech show](https://techcrunch.com/2025/01/02/ces-2025-what-to-expect-from-the-years-first-and-biggest-tech-show/)
 - [Some black holes at the centers of galaxies have a buddy − but detecting these binary pairs isn’t easy](https://www.space.com/the-universe/some-black-holes-at-the-centers-of-galaxies-have-a-buddy-but-detecting-these-binary-pairs-isnt-easy)
 - [Fall 2024 was Earth&#39;s warmest autumn ever](https://www.space.com/the-universe/climate-change/fall-2024-was-earths-warmest-autumn-ever)
-- [Spotify’s partner program for podcast hosts is now available](https://techcrunch.com/2025/01/02/spotifys-partner-program-for-podcast-hosts-is-now-available/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
