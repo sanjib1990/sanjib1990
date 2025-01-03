@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can NASA&#39;s troubled Mars Sample Return mission be saved?](https://www.space.com/the-universe/mars/can-nasas-troubled-mars-sample-return-mission-be-saved)
 - [Cloudflare’s VPN app among half-dozen pulled from Indian app stores](https://techcrunch.com/2025/01/02/cloudflares-vpn-app-among-half-dozen-pulled-from-indian-app-stores/)
 - [Nvidia’s CES 2025 keynote: How to watch](https://techcrunch.com/2025/01/02/nvidias-ces-2025-keynote-how-to-watch/)
 - [Peter Thiel-backed venture debt firm Tacora raises $268.7M for new fund](https://techcrunch.com/2025/01/02/peter-thiel-backed-venture-debt-firm-tacora-raises-268-7m-for-new-fund/)
 - [How to watch CES 2025’s press conferences](https://techcrunch.com/2025/01/02/how-to-watch-ces-2025s-press-conferences/)
-- [Dead stars can celebrate 2 New Years every second with nearby cosmic fireworks](https://www.space.com/the-universe/stars/frb-fireworks-neutronstar-newyear-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
