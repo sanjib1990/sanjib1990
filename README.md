@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft to spend $80 billion in FY’25 on data centers for AI](https://techcrunch.com/2025/01/03/microsoft-to-spend-80-billion-in-fy25-on-data-centers-for-ai/)
+- [Turo CEO: Attackers had clean records, so background checks wouldn’t have stopped them](https://techcrunch.com/2025/01/03/turo-ceo-attackers-had-clean-records-background-checks-wouldnt-have-stopped-them/)
+- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2025/01/03/tech-layoffs-2024-list/)
 - [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/)
-- [Turo taps national security and counterterrorism experts after Cybertruck explosion](https://techcrunch.com/2025/01/03/turo-taps-national-security-and-counterterrorism-experts-after-cybertruck-explosion/)
 - [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/)
-- [Hydrogen tax credit rules give startups clarity while boosting nuclear and carbon capture](https://techcrunch.com/2025/01/03/hydrogen-tax-credit-rules-give-startups-clarity-while-boosting-nuclear-and-carbon-capture/)
-- [Venture fund founder sues PayPal, alleging racial discrimination](https://techcrunch.com/2025/01/03/venture-fund-founder-sues-paypal-alleging-racial-discrimination/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
