@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Electra found a cheap, clean way to purify iron, and it’s raising $257M to make it happen](https://techcrunch.com/2025/01/03/electra-found-a-cheap-clean-way-to-purify-iron-and-its-raising-257m-to-make-it-happen/)
-- [Online gift card store exposed hundreds of thousands of people’s identity documents](https://techcrunch.com/2025/01/03/online-gift-card-store-exposed-hundreds-of-thousands-of-peoples-identity-documents/)
-- [Rivian wraps 2024 with more than 50,000 EVs delivered](https://techcrunch.com/2025/01/03/rivian-wraps-2024-with-more-than-50000-evs-delivered/)
-- [Rare string of &#39;cosmic pearls&#39; dance together in the universe](https://www.space.com/dwarf-galaxies-cosmic-pearls-lambda-cold-dark-matter)
-- [Supercharged auroras possible this weekend as colossal &#39;hole&#39; in the sun spews solar wind toward Earth](https://www.space.com/stargazing/aurora-borealis/supercharged-auroras-possible-this-weekend-as-colossal-hole-in-the-sun-spews-solar-wind-toward-earth)
+- [Sun erupts with powerful X1.2 solar flare, causes radio blackouts &lpar;photo&rpar;](https://www.space.com/the-universe/sun/sun-erupts-with-powerful-x1-2-solar-flare-causes-radio-blackouts-photo)
+- [US sanctions Chinese cyber firm linked to Flax Typhoon hacks](https://techcrunch.com/2025/01/03/us-sanctions-chinese-cyber-firm-linked-to-flax-typhoon-hacks/)
+- [Apple TV+ is free to stream this weekend](https://techcrunch.com/2025/01/03/apple-tv-will-be-free-to-stream-this-weekend/)
+- [These MagSafe earbuds snap on to the back of an iPhone](https://techcrunch.com/2025/01/03/these-magsafe-earbuds-snap-on-to-the-back-of-an-iphone/)
+- [How to watch SpaceX launch its 1st Falcon 9 rocket of 2025 tonight](https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-its-1st-falcon-9-rocket-of-2025-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
