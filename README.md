@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/)
+- [Turo taps national security and counterterrorism experts after Cybertruck explosion](https://techcrunch.com/2025/01/03/turo-taps-national-security-and-counterterrorism-experts-after-cybertruck-explosion/)
 - [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/)
 - [Hydrogen tax credit rules give startups clarity while boosting nuclear and carbon capture](https://techcrunch.com/2025/01/03/hydrogen-tax-credit-rules-give-startups-clarity-while-boosting-nuclear-and-carbon-capture/)
 - [Venture fund founder sues PayPal, alleging racial discrimination](https://techcrunch.com/2025/01/03/venture-fund-founder-sues-paypal-alleging-racial-discrimination/)
-- [Sun erupts with powerful X1.2 solar flare, causes radio blackouts &lpar;photo&rpar;](https://www.space.com/the-universe/sun/sun-erupts-with-powerful-x1-2-solar-flare-causes-radio-blackouts-photo)
-- [US sanctions Chinese cyber firm linked to Flax Typhoon hacks](https://techcrunch.com/2025/01/03/us-sanctions-chinese-cyber-firm-linked-to-flax-typhoon-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
