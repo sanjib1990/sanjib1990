@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The amazing, but unsettling future of technology...](https://www.youtube.com/watch?v=v4H2fTgHGuc)
 - [What&#39;s Your Least Favourite Programming Language? &lpar;2024 soundcheck question&rpar; - Computerphile](https://www.youtube.com/watch?v=03lRzf7iSiU)
 - [Cybersecurity, in SPACE!!](https://www.youtube.com/watch?v=I4C8_HeSj-E)
 - [Access ANY Network &lpar;remotely&rpar;](https://www.youtube.com/watch?v=1lZ3FQSv-wI)
 - [MIT Milestone Celebration | Keynote Address &lpar;480p&rpar;, Nov 28, 2007](https://www.youtube.com/watch?v=wtRBk2dWxpo)
-- [MIT Milestone Celebration | The Future of OCW and Education &lpar;480p&rpar;, Nov 28, 2007](https://www.youtube.com/watch?v=EOl5lfyE1to)
 <!-- YOUTUBE:END -->
 
 ---
