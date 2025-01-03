@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Silo&#39; Season 2: Steve Zahn sees his enigmatic character Solo as a &#39;curious, delightful kid&#39; &lpar;exclusive&rpar;](https://www.space.com/entertainment/silo-season-2-steve-zahn-sees-his-enigmatic-character-solo-as-a-curious-delightful-kid-exclusive)
-- [Microsoft to spend $80 billion in FY’25 on data centers for AI](https://techcrunch.com/2025/01/03/microsoft-to-spend-80-billion-in-fy25-on-data-centers-for-ai/)
-- [Turo CEO: Attackers had clean records, so background checks wouldn’t have stopped them](https://techcrunch.com/2025/01/03/turo-ceo-attackers-had-clean-records-background-checks-wouldnt-have-stopped-them/)
-- [A comprehensive list of 2024 tech layoffs](https://techcrunch.com/2025/01/03/tech-layoffs-2024-list/)
-- [FTC orders AI accessibility startup accessiBe to pay $1M for misleading advertising](https://techcrunch.com/2025/01/03/ftc-orders-ai-accessibility-startup-accessibe-to-pay-1m-for-misleading-advertising/)
+- [New ship, new year: SpaceX to deploy model Starlink satellites on next Starship launch](https://techcrunch.com/2025/01/03/new-ship-new-year-spacex-to-deploy-model-starlink-satellites-on-next-starship-launch/)
+- [Blue Origin is expected to launch its 1st New Glenn rocket next week, but when?](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-ready-to-launch-1st-new-glenn-rocket)
+- [Ancient volcanic ash on Mars could offer new clues in search for extraterrestrial life](https://www.space.com/the-universe/mars/ancient-volcanic-ash-on-mars-could-offer-new-clues-in-search-for-extraterrestrial-life)
+- [Uber CEO Dara Khosrowshahi resigns from self-driving truck startup Aurora’s board](https://techcrunch.com/2025/01/03/uber-ceo-dara-khosrowshahi-resigns-from-self-driving-truck-startup-auroras-board/)
+- [Inside the wild fall and last-minute revival of Bench, the VC-backed accounting startup that imploded over the holidays](https://techcrunch.com/2025/01/03/inside-the-wild-fall-and-last-minute-revival-of-bench-the-vc-backed-accounting-startup-that-imploded-over-the-holidays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
