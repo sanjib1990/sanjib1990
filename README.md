@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electra found a cheap, clean way to purify iron, and it’s raising $257M to make it happen](https://techcrunch.com/2025/01/03/electra-found-a-cheap-clean-way-to-purify-iron-and-its-raising-257m-to-make-it-happen/)
+- [Online gift card store exposed hundreds of thousands of people’s identity documents](https://techcrunch.com/2025/01/03/online-gift-card-store-exposed-hundreds-of-thousands-of-peoples-identity-documents/)
+- [Rivian wraps 2024 with more than 50,000 EVs delivered](https://techcrunch.com/2025/01/03/rivian-wraps-2024-with-more-than-50000-evs-delivered/)
 - [Rare string of &#39;cosmic pearls&#39; dance together in the universe](https://www.space.com/dwarf-galaxies-cosmic-pearls-lambda-cold-dark-matter)
 - [Supercharged auroras possible this weekend as colossal &#39;hole&#39; in the sun spews solar wind toward Earth](https://www.space.com/stargazing/aurora-borealis/supercharged-auroras-possible-this-weekend-as-colossal-hole-in-the-sun-spews-solar-wind-toward-earth)
-- [Hindustan Unilever in talks to acquire Peak XV-backed Minimalist for up to $350M](https://techcrunch.com/2025/01/03/hindustan-unilever-minimalist-acquisition/)
-- [Can NASA&#39;s troubled Mars Sample Return mission be saved?](https://www.space.com/the-universe/mars/can-nasas-troubled-mars-sample-return-mission-be-saved)
-- [Cloudflare’s VPN app among half-dozen pulled from Indian app stores](https://techcrunch.com/2025/01/02/cloudflares-vpn-app-among-half-dozen-pulled-from-indian-app-stores/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
