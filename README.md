@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bench saved by the bell, and other last-minute deals that closed 2024](https://techcrunch.com/2025/01/03/bench-saved-by-the-bell-and-other-last-minute-deals-that-closed-2024/)
+- [Hydrogen tax credit rules give startups clarity while boosting nuclear and carbon capture](https://techcrunch.com/2025/01/03/hydrogen-tax-credit-rules-give-startups-clarity-while-boosting-nuclear-and-carbon-capture/)
+- [Venture fund founder sues PayPal, alleging racial discrimination](https://techcrunch.com/2025/01/03/venture-fund-founder-sues-paypal-alleging-racial-discrimination/)
 - [Sun erupts with powerful X1.2 solar flare, causes radio blackouts &lpar;photo&rpar;](https://www.space.com/the-universe/sun/sun-erupts-with-powerful-x1-2-solar-flare-causes-radio-blackouts-photo)
 - [US sanctions Chinese cyber firm linked to Flax Typhoon hacks](https://techcrunch.com/2025/01/03/us-sanctions-chinese-cyber-firm-linked-to-flax-typhoon-hacks/)
-- [Apple TV+ is free to stream this weekend](https://techcrunch.com/2025/01/03/apple-tv-will-be-free-to-stream-this-weekend/)
-- [These MagSafe earbuds snap on to the back of an iPhone](https://techcrunch.com/2025/01/03/these-magsafe-earbuds-snap-on-to-the-back-of-an-iphone/)
-- [How to watch SpaceX launch its 1st Falcon 9 rocket of 2025 tonight](https://www.space.com/space-exploration/launches-spacecraft/how-to-watch-spacex-launch-its-1st-falcon-9-rocket-of-2025-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
