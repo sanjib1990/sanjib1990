@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 142 —2025 in Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-142-2025-in-space)
+- [&#39;Silo&#39; Season 2, &#39;The Book of Quinn&#39;: Juliette suffers, Walker snitches, and Lukas decodes Quinn&#39;s letter](https://www.space.com/entertainment/silo-season-2-the-book-of-quinn-juliette-suffers-walker-snitches-and-lukas-decodes-quinns-letter)
 - [Peter Parker battles a rogue alien hunter in Marvel&#39;s &#39;Predator vs. Spider-Man&#39;](https://www.space.com/entertainment/peter-parker-battles-a-rogue-alien-hunter-in-marvels-predator-vs-spider-man)
 - [Small satellite constellation could reveal black holes like never before](https://www.space.com/the-universe/black-holes/small-satellite-constellation-could-reveal-black-holes-like-never-before)
 - [NASA will announce update to Mars sample return plans on Jan. 7. Here&#39;s how to listen in](https://www.space.com/space-exploration/missions/nasa-mars-sample-return-program-update-livestream-how-to-listen)
-- [What I learned from a black hole in Los Angeles](https://www.space.com/the-universe/what-i-learned-from-a-black-hole-in-los-angeles)
-- [New ship, new year: SpaceX to deploy model Starlink satellites on next Starship launch](https://techcrunch.com/2025/01/03/new-ship-new-year-spacex-to-deploy-model-starlink-satellites-on-next-starship-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
