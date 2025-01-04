@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tenable CEO Amit Yoran dies](https://techcrunch.com/2025/01/04/tenable-ceo-amit-yoran-dies/)
 - [Lyft will credit NYC riders for congestion fee throughout January](https://techcrunch.com/2025/01/04/lyft-will-credit-nyc-riders-for-congestion-fee-throughout-january/)
 - [What will this year bring in VC? We asked a few investors](https://techcrunch.com/2025/01/04/what-will-this-year-bring-in-vc-we-asked-a-few-investors/)
 - [This Week In Space podcast: Episode 142 —2025 in Space](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-142-2025-in-space)
 - [&#39;Silo&#39; Season 2, &#39;The Book of Quinn&#39;: Juliette suffers, Walker snitches, and Lukas decodes Quinn&#39;s letter](https://www.space.com/entertainment/silo-season-2-the-book-of-quinn-juliette-suffers-walker-snitches-and-lukas-decodes-quinns-letter)
-- [Peter Parker battles a rogue alien hunter in Marvel&#39;s &#39;Predator vs. Spider-Man&#39;](https://www.space.com/entertainment/peter-parker-battles-a-rogue-alien-hunter-in-marvels-predator-vs-spider-man)
 <!-- BLOG-POST-LIST:END -->
 
 ---
