@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peter Parker battles a rogue alien hunter in Marvel&#39;s &#39;Predator vs. Spider-Man&#39;](https://www.space.com/entertainment/peter-parker-battles-a-rogue-alien-hunter-in-marvels-predator-vs-spider-man)
 - [Small satellite constellation could reveal black holes like never before](https://www.space.com/the-universe/black-holes/small-satellite-constellation-could-reveal-black-holes-like-never-before)
 - [NASA will announce update to Mars sample return plans on Jan. 7. Here&#39;s how to listen in](https://www.space.com/space-exploration/missions/nasa-mars-sample-return-program-update-livestream-how-to-listen)
 - [What I learned from a black hole in Los Angeles](https://www.space.com/the-universe/what-i-learned-from-a-black-hole-in-los-angeles)
 - [New ship, new year: SpaceX to deploy model Starlink satellites on next Starship launch](https://techcrunch.com/2025/01/03/new-ship-new-year-spacex-to-deploy-model-starlink-satellites-on-next-starship-launch/)
-- [Blue Origin is expected to launch its 1st New Glenn rocket next week, but when?](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-ready-to-launch-1st-new-glenn-rocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
