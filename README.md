@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bad news for Adrian Dittman/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/)
+- [Samsung’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/05/samsungs-ces-2025-press-conference-how-to-watch/)
 - [United Airlines accelerates its Starlink rollout, with first commercial flight planned for spring](https://techcrunch.com/2025/01/05/united-airlines-accelerates-its-starlink-rollout-with-first-commercial-flight-planned-for-spring/)
-- [From forced landings to stuffed animal heads, headhunter Peterson Conway is defense tech’s wildest power broker](https://techcrunch.com/2025/01/04/from-forced-landings-to-stuffed-animal-heads-headhunter-peterson-conway-is-defense-techs-wildest-power-broker/)
-- [Tenable CEO Amit Yoran dies](https://techcrunch.com/2025/01/04/tenable-ceo-amit-yoran-dies/)
-- [Lyft will credit NYC riders for congestion fee throughout January](https://techcrunch.com/2025/01/04/lyft-will-credit-nyc-riders-for-congestion-fee-throughout-january/)
-- [What will this year bring in VC? We asked a few investors](https://techcrunch.com/2025/01/04/what-will-this-year-bring-in-vc-we-asked-a-few-investors/)
+- [Sony’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/05/sonys-ces-2025-press-conference-how-to-watch/)
+- [AMD’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/05/amds-ces-2025-press-conference-how-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
