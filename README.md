@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTuber LegalEagle sues PayPal over ‘sleeping leech’ Honey extension](https://techcrunch.com/2025/01/05/youtuber-legaleagle-sues-paypal-over-sleeping-leech-honey-extension/)
 - [Roborock’s Roomba competitor gets a robot arm](https://techcrunch.com/2025/01/05/roborocks-roomba-competitor-gets-a-robot-arm/)
 - [Bad news for Adrian Dittman/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/)
 - [Samsung’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/05/samsungs-ces-2025-press-conference-how-to-watch/)
 - [United Airlines accelerates its Starlink rollout, with first commercial flight planned for spring](https://techcrunch.com/2025/01/05/united-airlines-accelerates-its-starlink-rollout-with-first-commercial-flight-planned-for-spring/)
-- [Sony’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/05/sonys-ces-2025-press-conference-how-to-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
