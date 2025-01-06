@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Pluto captured its largest moon Charon with a 10-hour icy &#39;kiss&#39;](https://www.space.com/pluto-charon-kiss-capture)
+- [Qualcomm brings its Snapdragon X chips to mid-range Windows laptops and desktops](https://techcrunch.com/2025/01/06/qualcomm-brings-its-snapdragon-x-chips-to-more-affordable-windows-laptops-and-desktops/)
 - [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/)
 - [Astronomers have pinpointed the origin of mysterious repeating radio bursts from space](https://www.space.com/the-universe/astronomers-have-pinpointed-the-origin-of-mysterious-repeating-radio-bursts-from-space)
 - [Disney to merge Hulu Live TV with Fubo in groundbreaking deal](https://techcrunch.com/2025/01/06/disney-to-merge-hulu-live-tv-with-fubo-in-groundbreaking-deal/)
-- [Lucid meets production target with 9,029 EV deliveries in 2024](https://techcrunch.com/2025/01/06/lucid-meets-production-target-with-9029-ev-deliveries-in-2024/)
-- [Bird Buddy expands into insects with Wonder line](https://techcrunch.com/2025/01/06/bird-buddy-expands-into-insects-with-wonder-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
