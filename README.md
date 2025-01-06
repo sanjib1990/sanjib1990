@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2025/01/06/meet-the-chinese-typhoon-hackers-preparing-for-war/)
-- [US Space Force broke its launch record in 2024 with 93 liftoffs](https://www.space.com/space-exploration/missions/us-space-force-broke-its-launch-record-in-2024-with-93-liftoffs)
-- [Google is forming a new team to build AI that can simulate the physical world](https://techcrunch.com/2025/01/06/google-is-forming-a-new-team-to-build-ai-that-can-simulate-the-physical-world/)
-- [Bosch is making e-bike batteries lockable via an app to deter theft](https://techcrunch.com/2025/01/06/bosch-is-making-e-bike-batteries-lockable-via-an-app-to-deter-theft/)
-- [Samsung says its home robot, Ballie, will roll out this year](https://techcrunch.com/2025/01/06/samsung-says-its-home-robot-ballie-will-roll-out-this-year/)
+- [Flying Flea electric motorcycles will feature connected services powered by Qualcomm](https://techcrunch.com/2025/01/06/flying-flea-electric-motorcycles-will-feature-connected-services-powered-by-qualcomm/)
+- [CISA says ‘no indication’ of wider government hack beyond Treasury](https://techcrunch.com/2025/01/06/cisa-says-no-indication-of-wider-government-hack-beyond-treasury/)
+- [AMD unveils new chips for laptops, desktops, and gaming handhelds at CES 2025](https://techcrunch.com/2025/01/06/amd-unveils-new-chips-for-laptops-desktops-and-gaming-handhelds/)
+- [Bluesky bump from X exodus is slowing down, data shows](https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/)
+- [Google unveils an AI-powered TV that summarizes the news for you at CES 2025](https://techcrunch.com/2025/01/06/google-unveils-an-ai-powered-tv-that-summarizes-the-news-for-you-at-ces-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
