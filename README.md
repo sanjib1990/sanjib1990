@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/)
 - [Kirin offers a taste of its electric salt spoon at CES 2025](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/)
 - [Samsung brings live translate to its TVs at CES 2025](https://techcrunch.com/2025/01/05/samsung-brings-live-translate-to-its-tvs-at-ces-2025/)
 - [Samsung’s new TVs can find recipes for dishes in shows](https://techcrunch.com/2025/01/05/samsungs-new-tvs-can-find-recipes-for-dishes-in-shows/)
 - [Withings’ Omnia is a full-size body-scanning health mirror](https://techcrunch.com/2025/01/05/withings-omnia-is-a-full-size-body-scanning-health-mirror/)
-- [OpenAI is beginning to turn its attention to ‘superintelligence’](https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
