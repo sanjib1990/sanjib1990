@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Will.i.am is flogging electronics again](https://techcrunch.com/2025/01/06/will-i-am-is-flogging-electronics-again/)
-- [TechCrunch Space: New year, new milestones](https://techcrunch.com/2025/01/06/techcrunch-space-new-year-new-milestones/)
-- [Pebble reveals its EV travel trailer designed for digital nomads](https://techcrunch.com/2025/01/06/pebble-reveals-its-ev-travel-trailer-designed-for-digital-nomads/)
-- [Online spending grew 3% to a record $1.2T over holiday period, says Salesforce](https://techcrunch.com/2025/01/06/online-spending-grew-3-to-a-record-1-2t-over-holiday-period-says-salesforce/)
-- [Therabody launches Coach, an AI-powered digital recovery platform](https://techcrunch.com/2025/01/06/therabody-launches-coach-an-ai-powered-digital-recovery-app/)
+- [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2025/01/06/meet-the-chinese-typhoon-hackers-preparing-for-war/)
+- [US Space Force broke its launch record in 2024 with 93 liftoffs](https://www.space.com/space-exploration/missions/us-space-force-broke-its-launch-record-in-2024-with-93-liftoffs)
+- [Google is forming a new team to build AI that can simulate the physical world](https://techcrunch.com/2025/01/06/google-is-forming-a-new-team-to-build-ai-that-can-simulate-the-physical-world/)
+- [Bosch is making e-bike batteries lockable via an app to deter theft](https://techcrunch.com/2025/01/06/bosch-is-making-e-bike-batteries-lockable-via-an-app-to-deter-theft/)
+- [Samsung says its home robot, Ballie, will roll out this year](https://techcrunch.com/2025/01/06/samsung-says-its-home-robot-ballie-will-roll-out-this-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
