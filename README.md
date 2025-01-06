@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel shows off its latest chip lineup at CES 2025](https://techcrunch.com/2025/01/06/intel-shows-off-its-latest-chip-lineup-at-ces-2025/)
-- [Kidde’s new smoke detectors have Ring technology built in](https://techcrunch.com/2025/01/06/kiddes-new-smoke-detectors-have-ring-technology-built-in/)
-- [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/)
-- [Dark Energy Camera captures thousands of galaxies in stunning image](https://www.space.com/the-universe/galaxies/dark-energy-camera-captures-thousands-of-galaxies-in-stunning-image)
-- [SpaceX aims to launch 1st Starlink satellites of 2025 today, and you can watch live](https://www.space.com/spacex-starlink-launch-group-6-71)
+- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/)
+- [Astronomers have pinpointed the origin of mysterious repeating radio bursts from space](https://www.space.com/the-universe/astronomers-have-pinpointed-the-origin-of-mysterious-repeating-radio-bursts-from-space)
+- [Disney to merge Hulu Live TV with Fubo in groundbreaking deal](https://techcrunch.com/2025/01/06/disney-to-merge-hulu-live-tv-with-fubo-in-groundbreaking-deal/)
+- [Lucid meets production target with 9,029 EV deliveries in 2024](https://techcrunch.com/2025/01/06/lucid-meets-production-target-with-9029-ev-deliveries-in-2024/)
+- [Bird Buddy expands into insects with Wonder line](https://techcrunch.com/2025/01/06/bird-buddy-expands-into-insects-with-wonder-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
