@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/)
 - [Desert planets like those in &#39;Dune&#39; and &#39;Star Wars&#39; unlikely to host life, NASA says](https://www.space.com/the-universe/exoplanets/desert-planets-like-those-in-dune-and-star-wars-unlikely-to-host-life-nasa-says)
 - [OpenAI is losing money on its pricey ChatGPT Pro plan, CEO Sam Altman says](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/)
 - [Kirin offers a taste of its electric salt spoon at CES 2025](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/)
 - [Samsung brings live translate to its TVs at CES 2025](https://techcrunch.com/2025/01/05/samsung-brings-live-translate-to-its-tvs-at-ces-2025/)
-- [Samsung’s new TVs can find recipes for dishes in shows](https://techcrunch.com/2025/01/05/samsungs-new-tvs-can-find-recipes-for-dishes-in-shows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
