@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Springtime on Mars brings frost avalanches, gas geysers and explosions &lpar;photos&rpar;](https://www.space.com/the-universe/mars/springtime-on-mars-brings-frost-avalanches-gas-geysers-and-explosions-photos)
-- [Sierra Space CEO Tom Vice steps down, CNBC reports](https://techcrunch.com/2025/01/06/sierra-space-ceo-tom-vice-steps-down-cnbc-reports/)
-- [Goodbye, Dell XPS](https://techcrunch.com/2025/01/06/goodbye-dell-xps/)
-- [Flying Flea electric motorcycles will feature connected services powered by Qualcomm](https://techcrunch.com/2025/01/06/flying-flea-electric-motorcycles-will-feature-connected-services-powered-by-qualcomm/)
-- [CISA says ‘no indication’ of wider government hack beyond Treasury](https://techcrunch.com/2025/01/06/cisa-says-no-indication-of-wider-government-hack-beyond-treasury/)
+- [India delays 1st space docking of SpaDeX satellites, &#39;further validation&#39; needed](https://www.space.com/space-exploration/missions/indias-delays-1st-space-docking-of-spadex-satellites)
+- [Consumer tech spending will break records in 2025 if Trump’s tariffs don’t squash it, CTA predicts](https://techcrunch.com/2025/01/06/consumer-tech-spending-will-break-records-in-2025-if-trumps-tariffs-dont-squash-it-cta-predicts/)
+- [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/)
+- [Toyota is ‘exploring rockets’](https://techcrunch.com/2025/01/06/toyota-is-exploring-rockets/)
+- [Washington sues T-Mobile over 2021 data breach that spilled 79 million customer records](https://techcrunch.com/2025/01/06/washington-sues-t-mobile-over-2021-data-breach-that-spilled-79-million-customer-records/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
