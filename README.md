@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Toyota’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/05/toyotas-ces-2025-press-conference-how-to-watch/)
-- [YouTuber LegalEagle sues PayPal over ‘sleeping leech’ Honey extension](https://techcrunch.com/2025/01/05/youtuber-legaleagle-sues-paypal-over-sleeping-leech-honey-extension/)
-- [Roborock’s Roomba competitor gets a robot arm](https://techcrunch.com/2025/01/05/roborocks-roomba-competitor-gets-a-robot-arm/)
-- [Bad news for Adrian Dittman/Elon Musk truthers](https://techcrunch.com/2025/01/05/bad-news-for-adrian-dittman-elon-musk-truthers/)
-- [Samsung’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/05/samsungs-ces-2025-press-conference-how-to-watch/)
+- [This fuzzy, purse-mounted robot is designed to ‘delight bystanders’](https://techcrunch.com/2025/01/05/this-fuzzy-purse-mounted-robot-is-designed-to-delight-bystanders/)
+- [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/)
+- [Circular unveils its next gen Ring 2 with ECG functionality and AFib detection at CES 2025](https://techcrunch.com/2025/01/05/circular-unveils-its-next-gen-ring-2-with-ecg-functionality-and-afib-detection-at-ces-2025/)
+- [This tiny robot cat will blow on your coffee to cool it off](https://techcrunch.com/2025/01/05/this-tiny-robot-cat-will-blow-on-your-coffee-to-cool-it-off/)
+- [Birdfy sees your smart bird feeder and raises you a smart birdbath](https://techcrunch.com/2025/01/05/birdfy-sees-your-smart-bird-feeder-and-raises-you-a-smart-birdbath/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
