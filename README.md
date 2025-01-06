@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI is beginning to turn its attention to ‘superintelligence’](https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/)
 - [This fuzzy, purse-mounted robot is designed to ‘delight bystanders’](https://techcrunch.com/2025/01/05/this-fuzzy-purse-mounted-robot-is-designed-to-delight-bystanders/)
 - [Timekettle’s new earbuds offer real-time translation on calls](https://techcrunch.com/2025/01/05/timekettles-new-earbuds-offer-real-time-translation-on-calls/)
 - [Circular unveils its next gen Ring 2 with ECG functionality and AFib detection at CES 2025](https://techcrunch.com/2025/01/05/circular-unveils-its-next-gen-ring-2-with-ecg-functionality-and-afib-detection-at-ces-2025/)
 - [This tiny robot cat will blow on your coffee to cool it off](https://techcrunch.com/2025/01/05/this-tiny-robot-cat-will-blow-on-your-coffee-to-cool-it-off/)
-- [Birdfy sees your smart bird feeder and raises you a smart birdbath](https://techcrunch.com/2025/01/05/birdfy-sees-your-smart-bird-feeder-and-raises-you-a-smart-birdbath/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
