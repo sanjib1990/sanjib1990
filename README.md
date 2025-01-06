@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel shows off its latest chip lineup at CES 2025](https://techcrunch.com/2025/01/06/intel-shows-off-its-latest-chip-lineup-at-ces-2025/)
+- [Kidde’s new smoke detectors have Ring technology built in](https://techcrunch.com/2025/01/06/kiddes-new-smoke-detectors-have-ring-technology-built-in/)
+- [Soliddd is building smart glasses for people with macular degeneration](https://techcrunch.com/2025/01/06/soliddd-is-building-smart-glasses-for-people-with-macular-degeneration/)
 - [Dark Energy Camera captures thousands of galaxies in stunning image](https://www.space.com/the-universe/galaxies/dark-energy-camera-captures-thousands-of-galaxies-in-stunning-image)
 - [SpaceX aims to launch 1st Starlink satellites of 2025 today, and you can watch live](https://www.space.com/spacex-starlink-launch-group-6-71)
-- [Avataar releases new tool to create AI-generated videos for products](https://techcrunch.com/2025/01/06/avataar-releases-new-tool-to-create-ai-generated-videos-for-products/)
-- [Elvie unveils an app-controlled smart bouncer that transforms into a bassinet at CES 2025](https://techcrunch.com/2025/01/06/elvie-unveils-an-app-controlled-smart-bouncer-that-transforms-into-a-bassinet-at-ces-2025/)
-- [Desert planets like those in &#39;Dune&#39; and &#39;Star Wars&#39; unlikely to host life, NASA says](https://www.space.com/the-universe/exoplanets/desert-planets-like-those-in-dune-and-star-wars-unlikely-to-host-life-nasa-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
