@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RoboForce raises $10 million to create a robot workforce](https://techcrunch.com/2025/01/06/roboforce-raises-10-millions-to-create-a-robot-workforce/)
-- [BluShift Aerospace hopes to launch 1st suborbital rocket from Maine in 2025](https://www.space.com/space-exploration/launches-spacecraft/blushift-aerospace-hopes-to-launch-1st-suborbital-rocket-from-maine-in-2025)
-- [UK uses AI to tackle ‘bid-rigging’ collusion in public procurement contracts](https://techcrunch.com/2025/01/06/uk-uses-ai-to-tackle-bid-rigging-collusion-in-public-procurement-contracts/)
-- [SpaceX&#39;s Starship Flight 7 test flight will deploy simulated Starlink satellites for 1st time](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-7-test-flight-will-deploy-simulated-starlink-satellites-for-1st-time)
-- [How Pluto captured its largest moon Charon with a 10-hour icy &#39;kiss&#39;](https://www.space.com/pluto-charon-kiss-capture)
+- [Will.i.am is flogging electronics again](https://techcrunch.com/2025/01/06/will-i-am-is-flogging-electronics-again/)
+- [TechCrunch Space: New year, new milestones](https://techcrunch.com/2025/01/06/techcrunch-space-new-year-new-milestones/)
+- [Pebble reveals its EV travel trailer designed for digital nomads](https://techcrunch.com/2025/01/06/pebble-reveals-its-ev-travel-trailer-designed-for-digital-nomads/)
+- [Online spending grew 3% to a record $1.2T over holiday period, says Salesforce](https://techcrunch.com/2025/01/06/online-spending-grew-3-to-a-record-1-2t-over-holiday-period-says-salesforce/)
+- [Therabody launches Coach, an AI-powered digital recovery platform](https://techcrunch.com/2025/01/06/therabody-launches-coach-an-ai-powered-digital-recovery-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
