@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RoboForce raises $10 million to create a robot workforce](https://techcrunch.com/2025/01/06/roboforce-raises-10-millions-to-create-a-robot-workforce/)
+- [BluShift Aerospace hopes to launch 1st suborbital rocket from Maine in 2025](https://www.space.com/space-exploration/launches-spacecraft/blushift-aerospace-hopes-to-launch-1st-suborbital-rocket-from-maine-in-2025)
+- [UK uses AI to tackle ‘bid-rigging’ collusion in public procurement contracts](https://techcrunch.com/2025/01/06/uk-uses-ai-to-tackle-bid-rigging-collusion-in-public-procurement-contracts/)
+- [SpaceX&#39;s Starship Flight 7 test flight will deploy simulated Starlink satellites for 1st time](https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-flight-7-test-flight-will-deploy-simulated-starlink-satellites-for-1st-time)
 - [How Pluto captured its largest moon Charon with a 10-hour icy &#39;kiss&#39;](https://www.space.com/pluto-charon-kiss-capture)
-- [Qualcomm brings its Snapdragon X chips to mid-range Windows laptops and desktops](https://techcrunch.com/2025/01/06/qualcomm-brings-its-snapdragon-x-chips-to-more-affordable-windows-laptops-and-desktops/)
-- [Full Nature Farms launches smart irrigation system at CES 2025 to reduce agricultural water waste](https://techcrunch.com/2025/01/06/full-nature-farms-launches-smart-irrigation-system-at-ces-2025-to-reduce-agricultural-water-waste/)
-- [Astronomers have pinpointed the origin of mysterious repeating radio bursts from space](https://www.space.com/the-universe/astronomers-have-pinpointed-the-origin-of-mysterious-repeating-radio-bursts-from-space)
-- [Disney to merge Hulu Live TV with Fubo in groundbreaking deal](https://techcrunch.com/2025/01/06/disney-to-merge-hulu-live-tv-with-fubo-in-groundbreaking-deal/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
