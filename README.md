@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung will unveil the Galaxy S25 on January 22](https://techcrunch.com/2025/01/06/samsung-will-unveil-the-galaxy-s25-on-january-22/)
+- [Toyota is ‘exploring rockets’ and has made its first investment into Interstellar Technologies](https://techcrunch.com/2025/01/06/toyota-is-exploring-rockets-made-first-investment-interstellar-technologies/)
+- [Samsung says its home robot, Ballie, will roll out the first half of 2025](https://techcrunch.com/2025/01/06/samsung-says-its-home-robot-ballie-will-roll-out-this-year/)
+- [The US just added Tencent —  which backs US startups — to its list of ‘Chinese military’ companies](https://techcrunch.com/2025/01/06/the-us-just-added-tencent-to-its-list-of-chinese-military-companies/)
 - [India delays 1st space docking of SpaDeX satellites, &#39;further validation&#39; needed](https://www.space.com/space-exploration/missions/indias-delays-1st-space-docking-of-spadex-satellites)
-- [Consumer tech spending will break records in 2025 if Trump’s tariffs don’t squash it, CTA predicts](https://techcrunch.com/2025/01/06/consumer-tech-spending-will-break-records-in-2025-if-trumps-tariffs-dont-squash-it-cta-predicts/)
-- [Toyota’s Woven City is open for business and looking for startups](https://techcrunch.com/2025/01/06/toyotas-woven-city-is-open-for-business-and-looking-for-startups/)
-- [Toyota is ‘exploring rockets’](https://techcrunch.com/2025/01/06/toyota-is-exploring-rockets/)
-- [Washington sues T-Mobile over 2021 data breach that spilled 79 million customer records](https://techcrunch.com/2025/01/06/washington-sues-t-mobile-over-2021-data-breach-that-spilled-79-million-customer-records/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
