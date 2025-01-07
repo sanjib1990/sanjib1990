@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists find &#39;spooky&#39; quantum entanglement on incredibly tiny scales — within individual protons](https://www.space.com/spooky-action-small-distance-entanglement-quarks-gluons)
+- [Anthropic reportedly in talks to raise $2B at $60B valuation, led by Lightspeed](https://techcrunch.com/2025/01/07/anthropic-reportedly-in-talks-to-raise-2b-at-60b-valuation-led-by-lightspeed/)
+- [Xpeng Aero HT unveils ‘flying car’ that’s part-van, part-eVTOL at CES 2025](https://techcrunch.com/2025/01/07/xpeng-aero-ht-unveils-flying-car-thats-part-van-part-evtol-at-ces-2025/)
+- [South Park Commons is raising $40M for an India-specific fund](https://techcrunch.com/2025/01/07/south-park-commons-is-raising-40m-for-an-india-specific-fund/)
 - [Telegram reports spike in sharing user data with law enforcement](https://techcrunch.com/2025/01/07/telegram-reports-spike-in-sharing-user-data-with-law-enforcement/)
-- [Honda reveals its futuristic ‘0 SUV’ prototype at CES 2025](https://techcrunch.com/2025/01/07/honda-reveals-its-futuristic-0-suv-prototype-at-ces-2025/)
-- [Panasonic unveils an AI-powered wellness coach, powered by Anthropic’s Claude, at CES 2025](https://techcrunch.com/2025/01/07/panasonic-unveils-an-ai-powered-wellness-coach-powered-by-anthropics-claude-at-ces-2025/)
-- [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/)
-- [BMW’s new UI puts widgets on the windshield at CES 2025](https://techcrunch.com/2025/01/07/bmws-new-ui-puts-widgets-on-the-windshield-ces-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
