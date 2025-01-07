@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CES 2025 Press Day: Everything Nvidia, Sony, Toyota, Samsung announced, and more](https://techcrunch.com/2025/01/06/ces-2025-press-day-everything-nvidia-sony-toyota-samsung-announced-and-more/)
 - [Nvidia’s Project Digits is a ‘personal AI supercomputer’](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
 - [Nvidia is helping humanoid robots learn through Apple Vision Pro instruction](https://techcrunch.com/2025/01/06/nvidia-is-helping-humanoid-robots-learn-through-apple-vision-pro-instruction/)
 - [Toyota’s next-generation cars will be built with Nvidia supercomputers and operating system](https://techcrunch.com/2025/01/06/toyotas-next-generation-cars-will-be-built-with-nvidia-supercomputers-and-operating-system/)
 - [Nvidia details Mega, a fleet manager for warehouse robots](https://techcrunch.com/2025/01/06/nvidia-details-mega-warehouse-robot-fleet-management-simulator/)
-- [Nvidia releases its own brand of world models](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
