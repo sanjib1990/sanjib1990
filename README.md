@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA won&#39;t decide on Mars Sample Return plan until mid-2026](https://www.space.com/space-exploration/missions/nasa-wont-decide-on-mars-sample-return-plan-until-mid-2026)
-- [You can plug a second mic into Shure’s new MV7i](https://techcrunch.com/2025/01/07/you-can-plug-a-second-mic-into-shures-new-mv7i/)
-- [Nuclear startup Deep Fission plans to bury micro-reactors to power data centers](https://techcrunch.com/2025/01/07/nuclear-startup-deep-fission-plans-to-bury-micro-reactors-to-power-data-centers/)
-- [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/)
-- [Threads prototypes custom display names and cover images for profiles](https://techcrunch.com/2025/01/07/threads-prototypes-custom-display-names-and-cover-images-for-profiles/)
+- [This pool cleaning company made a robot turtle to track water quality](https://techcrunch.com/2025/01/07/this-pool-cleaning-company-made-a-robot-turtle-to-track-water-quality/)
+- [Silicon Valley is so dominant again, its startups devoured over half of all global VC funding in 2024](https://techcrunch.com/2025/01/07/silicon-valley-is-so-dominant-again-its-startups-devoured-over-half-of-all-global-vc-funding-in-2024/)
+- [This baseball radar gun plugs into an iPhone](https://techcrunch.com/2025/01/07/this-baseball-radar-gun-plugs-into-an-iphone/)
+- [Feds investigate Tesla’s ‘Actual Smart Summon’ after several crashes](https://techcrunch.com/2025/01/07/feds-investigate-teslas-actual-smart-summon-after-several-crashes/)
+- [AWS says it’ll invest ‘at least’ $11B to expand data center infrastructure in Georgia](https://techcrunch.com/2025/01/07/aws-says-itll-invest-at-least-11b-to-expand-data-center-infrastructure-in-georgia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
