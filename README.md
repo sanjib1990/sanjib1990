@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [At CES 2025, Uber teams up with Nvidia to scale autonomous driving faster](https://techcrunch.com/2025/01/07/at-ces-2025-uber-teams-up-with-nvidia-to-scale-autonomous-driving-faster/)
-- [What the heck happened at fintech Bench?](https://techcrunch.com/2025/01/07/what-the-heck-happened-at-fintech-bench/)
-- [SpaceX launch of private Blue Ghost moon lander set for Jan. 15](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-of-private-blue-ghost-moon-lander-set-for-jan-15)
-- [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/)
-- [US government set to launch its Cyber Trust Mark cybersecurity labeling program for internet-connected devices in 2025](https://techcrunch.com/2025/01/07/us-government-set-to-launch-its-cyber-trust-mark-cybersecurity-labeling-program-for-internet-connected-devices-in-2025/)
+- [Telegram reports spike in sharing user data with law enforcement](https://techcrunch.com/2025/01/07/telegram-reports-spike-in-sharing-user-data-with-law-enforcement/)
+- [Honda reveals its futuristic ‘0 SUV’ prototype at CES 2025](https://techcrunch.com/2025/01/07/honda-reveals-its-futuristic-0-suv-prototype-at-ces-2025/)
+- [Panasonic unveils an AI-powered wellness coach, powered by Anthropic’s Claude, at CES 2025](https://techcrunch.com/2025/01/07/panasonic-unveils-an-ai-powered-wellness-coach-powered-by-anthropics-claude-at-ces-2025/)
+- [HR software startup OnPay was inspired by the founder’s family payroll business](https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/)
+- [BMW’s new UI puts widgets on the windshield at CES 2025](https://techcrunch.com/2025/01/07/bmws-new-ui-puts-widgets-on-the-windshield-ces-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
