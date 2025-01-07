@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Eat Takeaway completes Grubhub sale to Wonder for a modest $650M](https://techcrunch.com/2025/01/07/just-eat-takeaway-completes-grubhub-sale-to-wonder-for-a-modest-650m/)
+- [Microsoft to pump $3 billion into cloud and AI push in India](https://techcrunch.com/2025/01/07/microsoft-to-pump-3-billion-into-cloud-and-ai-push-in-india/)
 - [Apple to label notification summaries to indicate use of AI](https://techcrunch.com/2025/01/06/apple-to-label-notification-summaries-to-indicate-use-of-ai/)
 - [CES 2025 Press Day: Everything Nvidia, Sony, Toyota, Samsung announced, and more](https://techcrunch.com/2025/01/06/ces-2025-press-day-everything-nvidia-sony-toyota-samsung-announced-and-more/)
 - [Nvidia’s Project Digits is a ‘personal AI supercomputer’](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
-- [Nvidia is helping humanoid robots learn through Apple Vision Pro instruction](https://techcrunch.com/2025/01/06/nvidia-is-helping-humanoid-robots-learn-through-apple-vision-pro-instruction/)
-- [Toyota’s next-generation cars will be built with Nvidia supercomputers and operating system](https://techcrunch.com/2025/01/06/toyotas-next-generation-cars-will-be-built-with-nvidia-supercomputers-and-operating-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
