@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia unveils $2,000 RTX 5090 GPU](https://techcrunch.com/2025/01/06/nvidia-unveils-rtx-5090-gpu/)
-- [Sony-Honda’s Afeela EV will start at $89,900](https://techcrunch.com/2025/01/06/sony-hondas-afeela-ev-will-start-at-89900/)
-- [Sony’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/06/sonys-ces-2025-press-conference-how-to-watch/)
-- [Nvidia’s CES 2025 keynote: How to watch](https://techcrunch.com/2025/01/06/nvidias-ces-2025-keynote-how-to-watch/)
-- [Anker shows off its solar beach umbrella at CES 2025](https://techcrunch.com/2025/01/06/anker-shows-off-its-solar-beach-umbrella-at-ces-2025/)
+- [Nvidia’s Project Digits is a ‘personal AI supercomputer’](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
+- [Nvidia is helping humanoid robots learn through Apple Vision Pro instruction](https://techcrunch.com/2025/01/06/nvidia-is-helping-humanoid-robots-learn-through-apple-vision-pro-instruction/)
+- [Toyota’s next-generation cars will be built with Nvidia supercomputers and operating system](https://techcrunch.com/2025/01/06/toyotas-next-generation-cars-will-be-built-with-nvidia-supercomputers-and-operating-system/)
+- [Nvidia details Mega, a fleet manager for warehouse robots](https://techcrunch.com/2025/01/06/nvidia-details-mega-warehouse-robot-fleet-management-simulator/)
+- [Nvidia releases its own brand of world models](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
