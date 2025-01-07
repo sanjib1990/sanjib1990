@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ISS astronaut captures green auroras dancing over city lights &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-green-auroras-dancing-over-city-lights-video)
 - [Peacock is experimenting with mini-games and short videos](https://techcrunch.com/2025/01/07/peacock-is-experimenting-with-mini-games-and-short-videos/)
-- [Meta to phase back in political content on Facebook, Instagram and Threads](https://techcrunch.com/2025/01/07/meta-to-phase-back-in-political-content-on-facebook-instagram-and-threads/)
+- [Meta to phase back in political content on Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/07/meta-to-phase-back-in-political-content-on-facebook-instagram-and-threads/)
 - [UK confirms plans to criminalize the creation of sexually explicit deepfake content](https://techcrunch.com/2025/01/07/uk-confirms-plans-to-criminalize-the-creation-of-sexually-explicit-deepfake-content/)
 - [Ultrahuman stakes a claim to luxury smart rings with trio of 18K gold and pt950 platinum bands](https://techcrunch.com/2025/01/07/ultrahuman-stakes-a-claim-to-luxury-smart-rings-with-trio-of-18k-gold-and-pt950-platinum-bands/)
-- [Reddit intros new trends tools for businesses and an AMA ad format](https://techcrunch.com/2025/01/07/reddit-intros-new-trends-tools-for-businesses-and-an-ama-ad-format/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
