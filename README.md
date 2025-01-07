@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getty Images and Shutterstock to merge to form $3.7 billion stock photo giant](https://techcrunch.com/2025/01/07/getty-images-and-shutterstock-will-merge-to-form-37-billion-stock-photo-giant/)
-- [Petcube’s new water fountain aims to protect your cat’s urinary health](https://techcrunch.com/2025/01/07/petcubes-new-water-fountain-aims-to-protect-your-cats-urinary-health/)
-- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer/)
-- [Segway dropped two e-bikes at CES that are stylish and packed with tech for under $3000](https://techcrunch.com/2025/01/07/segway-dropped-two-e-bikes-at-ces-that-are-stylish-and-packed-with-tech-for-under-3000/)
-- [James Webb Space Telescope spots record-breaking collection of stars in far-flung galaxy](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-spots-record-breaking-collection-of-stars-in-far-flung-galaxy)
+- [Peacock is experimenting with mini-games and short videos](https://techcrunch.com/2025/01/07/peacock-is-experimenting-with-mini-games-and-short-videos/)
+- [Meta to phase back in political content on Facebook, Instagram and Threads](https://techcrunch.com/2025/01/07/meta-to-phase-back-in-political-content-on-facebook-instagram-and-threads/)
+- [UK confirms plans to criminalize the creation of sexually explicit deepfake content](https://techcrunch.com/2025/01/07/uk-confirms-plans-to-criminalize-the-creation-of-sexually-explicit-deepfake-content/)
+- [Ultrahuman stakes a claim to luxury smart rings with trio of 18K gold and pt950 platinum bands](https://techcrunch.com/2025/01/07/ultrahuman-stakes-a-claim-to-luxury-smart-rings-with-trio-of-18k-gold-and-pt950-platinum-bands/)
+- [Reddit intros new trends tools for businesses and an AMA ad format](https://techcrunch.com/2025/01/07/reddit-intros-new-trends-tools-for-businesses-and-an-ama-ad-format/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
