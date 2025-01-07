@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scientists find &#39;spooky&#39; quantum entanglement on incredibly tiny scales — within individual protons](https://www.space.com/spooky-action-small-distance-entanglement-quarks-gluons)
-- [Anthropic reportedly in talks to raise $2B at $60B valuation, led by Lightspeed](https://techcrunch.com/2025/01/07/anthropic-reportedly-in-talks-to-raise-2b-at-60b-valuation-led-by-lightspeed/)
-- [Xpeng Aero HT unveils ‘flying car’ that’s part-van, part-eVTOL at CES 2025](https://techcrunch.com/2025/01/07/xpeng-aero-ht-unveils-flying-car-thats-part-van-part-evtol-at-ces-2025/)
-- [South Park Commons is raising $40M for an India-specific fund](https://techcrunch.com/2025/01/07/south-park-commons-is-raising-40m-for-an-india-specific-fund/)
-- [Telegram reports spike in sharing user data with law enforcement](https://techcrunch.com/2025/01/07/telegram-reports-spike-in-sharing-user-data-with-law-enforcement/)
+- [NASA won&#39;t decide on Mars Sample Return plan until mid-2026](https://www.space.com/space-exploration/missions/nasa-wont-decide-on-mars-sample-return-plan-until-mid-2026)
+- [You can plug a second mic into Shure’s new MV7i](https://techcrunch.com/2025/01/07/you-can-plug-a-second-mic-into-shures-new-mv7i/)
+- [Nuclear startup Deep Fission plans to bury micro-reactors to power data centers](https://techcrunch.com/2025/01/07/nuclear-startup-deep-fission-plans-to-bury-micro-reactors-to-power-data-centers/)
+- [Chinese VCs are hounding failed founders to claw back their investments](https://techcrunch.com/2025/01/07/chinese-vcs-are-hounding-failed-founders-to-claw-back-their-investments/)
+- [Threads prototypes custom display names and cover images for profiles](https://techcrunch.com/2025/01/07/threads-prototypes-custom-display-names-and-cover-images-for-profiles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
