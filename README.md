@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CES 2025 Day 1: Honda, BMW, X’s victory lap, and the first show floor gadget reveals](https://techcrunch.com/2025/01/07/ces-2025-day-1-honda-bmw-xs-victory-lap-and-the-first-show-floor-gadget-reveals/)
+- [X hires former WSJ editor and bureau chief to lead news group](https://techcrunch.com/2025/01/07/x-hires-former-wsj-editor-and-bureau-chief-to-lead-news-group/)
+- [Watch India attempt its 1st space docking between satellites live online this week](https://www.space.com/space-exploration/missions/watch-india-first-space-docking-livestream)
 - [This pool cleaning company made a robot turtle to track water quality](https://techcrunch.com/2025/01/07/this-pool-cleaning-company-made-a-robot-turtle-to-track-water-quality/)
 - [Silicon Valley is so dominant again, its startups devoured over half of all global VC funding in 2024](https://techcrunch.com/2025/01/07/silicon-valley-is-so-dominant-again-its-startups-devoured-over-half-of-all-global-vc-funding-in-2024/)
-- [This baseball radar gun plugs into an iPhone](https://techcrunch.com/2025/01/07/this-baseball-radar-gun-plugs-into-an-iphone/)
-- [Feds investigate Tesla’s ‘Actual Smart Summon’ after several crashes](https://techcrunch.com/2025/01/07/feds-investigate-teslas-actual-smart-summon-after-several-crashes/)
-- [AWS says it’ll invest ‘at least’ $11B to expand data center infrastructure in Georgia](https://techcrunch.com/2025/01/07/aws-says-itll-invest-at-least-11b-to-expand-data-center-infrastructure-in-georgia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
