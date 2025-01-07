@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/06/sonys-ces-2025-press-conference-how-to-watch/)
+- [Nvidia’s CES 2025 keynote: How to watch](https://techcrunch.com/2025/01/06/nvidias-ces-2025-keynote-how-to-watch/)
+- [Anker shows off its solar beach umbrella at CES 2025](https://techcrunch.com/2025/01/06/anker-shows-off-its-solar-beach-umbrella-at-ces-2025/)
+- [CES 2025 Press Day: Everything Nvidia, Sony, Toyota, Samsung announced, and more](https://techcrunch.com/2025/01/06/ces-2025-press-day-everything-nvidia-sony-toyota-samsung-announced-and-more/)
 - [Samsung will unveil the Galaxy S25 on January 22](https://techcrunch.com/2025/01/06/samsung-will-unveil-the-galaxy-s25-on-january-22/)
-- [Toyota is ‘exploring rockets’ and has made its first investment into Interstellar Technologies](https://techcrunch.com/2025/01/06/toyota-is-exploring-rockets-made-first-investment-interstellar-technologies/)
-- [Samsung says its home robot, Ballie, will roll out the first half of 2025](https://techcrunch.com/2025/01/06/samsung-says-its-home-robot-ballie-will-roll-out-this-year/)
-- [The US just added Tencent —  which backs US startups — to its list of ‘Chinese military’ companies](https://techcrunch.com/2025/01/06/the-us-just-added-tencent-to-its-list-of-chinese-military-companies/)
-- [India delays 1st space docking of SpaDeX satellites, &#39;further validation&#39; needed](https://www.space.com/space-exploration/missions/indias-delays-1st-space-docking-of-spadex-satellites)
 <!-- BLOG-POST-LIST:END -->
 
 ---
