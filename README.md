@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RadioShack is back &lpar;kind of&rpar;](https://techcrunch.com/2025/01/07/radioshack-is-back-kind-of/)
-- [Big &#39;dark comet&#39; discoveries could be coming in 2025](https://www.space.com/the-universe/comets/big-dark-comet-discoveries-could-be-coming-in-2025)
-- [Trump announces $20B plan to build new data centers in the US](https://techcrunch.com/2025/01/07/trump-announces-20b-plan-to-build-new-data-centers-in-the-us/)
-- [Meticulous shows off its smart espresso machine at CES 2025](https://techcrunch.com/2025/01/07/meticulous-shows-off-its-smart-espresso-machine-at-ces-2025/)
-- [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/)
+- [At CES 2025, Uber teams up with Nvidia to scale autonomous driving faster](https://techcrunch.com/2025/01/07/at-ces-2025-uber-teams-up-with-nvidia-to-scale-autonomous-driving-faster/)
+- [What the heck happened at fintech Bench?](https://techcrunch.com/2025/01/07/what-the-heck-happened-at-fintech-bench/)
+- [SpaceX launch of private Blue Ghost moon lander set for Jan. 15](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-of-private-blue-ghost-moon-lander-set-for-jan-15)
+- [Google puts $1M into 3D design app Rooms after more than 1 million ‘rooms’ created](https://techcrunch.com/2025/01/07/google-puts-1m-into-3d-design-app-rooms-after-more-than-1-million-rooms-created/)
+- [US government set to launch its Cyber Trust Mark cybersecurity labeling program for internet-connected devices in 2025](https://techcrunch.com/2025/01/07/us-government-set-to-launch-its-cyber-trust-mark-cybersecurity-labeling-program-for-internet-connected-devices-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
