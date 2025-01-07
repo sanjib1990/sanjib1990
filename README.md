@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony-Honda’s Afeela EV will start at $89,900](https://techcrunch.com/2025/01/06/sony-hondas-afeela-ev-will-start-at-89900/)
 - [Sony’s CES 2025 press conference: How to watch](https://techcrunch.com/2025/01/06/sonys-ces-2025-press-conference-how-to-watch/)
 - [Nvidia’s CES 2025 keynote: How to watch](https://techcrunch.com/2025/01/06/nvidias-ces-2025-keynote-how-to-watch/)
 - [Anker shows off its solar beach umbrella at CES 2025](https://techcrunch.com/2025/01/06/anker-shows-off-its-solar-beach-umbrella-at-ces-2025/)
 - [CES 2025 Press Day: Everything Nvidia, Sony, Toyota, Samsung announced, and more](https://techcrunch.com/2025/01/06/ces-2025-press-day-everything-nvidia-sony-toyota-samsung-announced-and-more/)
-- [Samsung will unveil the Galaxy S25 on January 22](https://techcrunch.com/2025/01/06/samsung-will-unveil-the-galaxy-s25-on-january-22/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
