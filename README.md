@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ISS astronaut captures green auroras dancing over city lights &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/iss-astronaut-captures-green-auroras-dancing-over-city-lights-video)
-- [Peacock is experimenting with mini-games and short videos](https://techcrunch.com/2025/01/07/peacock-is-experimenting-with-mini-games-and-short-videos/)
-- [Meta to phase back in political content on Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/07/meta-to-phase-back-in-political-content-on-facebook-instagram-and-threads/)
-- [UK confirms plans to criminalize the creation of sexually explicit deepfake content](https://techcrunch.com/2025/01/07/uk-confirms-plans-to-criminalize-the-creation-of-sexually-explicit-deepfake-content/)
-- [Ultrahuman stakes a claim to luxury smart rings with trio of 18K gold and pt950 platinum bands](https://techcrunch.com/2025/01/07/ultrahuman-stakes-a-claim-to-luxury-smart-rings-with-trio-of-18k-gold-and-pt950-platinum-bands/)
+- [RadioShack is back &lpar;kind of&rpar;](https://techcrunch.com/2025/01/07/radioshack-is-back-kind-of/)
+- [Big &#39;dark comet&#39; discoveries could be coming in 2025](https://www.space.com/the-universe/comets/big-dark-comet-discoveries-could-be-coming-in-2025)
+- [Trump announces $20B plan to build new data centers in the US](https://techcrunch.com/2025/01/07/trump-announces-20b-plan-to-build-new-data-centers-in-the-us/)
+- [Meticulous shows off its smart espresso machine at CES 2025](https://techcrunch.com/2025/01/07/meticulous-shows-off-its-smart-espresso-machine-at-ces-2025/)
+- [Employer.com offers to buy failed fintech Level, a week after it makes offer for Bench](https://techcrunch.com/2025/01/07/employer-com-offers-to-buy-failed-fintech-level-a-week-after-it-makes-offer-for-bench/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
