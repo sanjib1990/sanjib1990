@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
-- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/)
-- [Blue Origin to launch its 1st New Glenn rocket on Jan. 10](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-launch-its-1st-new-glenn-rocket-on-jan-10)
-- [Just Eat Takeaway completes Grubhub sale to Wonder for a modest $650M](https://techcrunch.com/2025/01/07/just-eat-takeaway-completes-grubhub-sale-to-wonder-for-a-modest-650m/)
-- [Microsoft plans to invest $3B in AI, cloud in India](https://techcrunch.com/2025/01/07/microsoft-to-pump-3-billion-into-cloud-and-ai-push-in-india/)
+- [Getty Images and Shutterstock to merge to form $3.7 billion stock photo giant](https://techcrunch.com/2025/01/07/getty-images-and-shutterstock-will-merge-to-form-37-billion-stock-photo-giant/)
+- [Petcube’s new water fountain aims to protect your cat’s urinary health](https://techcrunch.com/2025/01/07/petcubes-new-water-fountain-aims-to-protect-your-cats-urinary-health/)
+- [Kombu is changing the way we make our ‘booch’ with its modern kombucha brewer](https://techcrunch.com/2025/01/07/kombu-is-changing-the-way-we-make-our-booch-with-its-modern-kombucha-brewer/)
+- [Segway dropped two e-bikes at CES that are stylish and packed with tech for under $3000](https://techcrunch.com/2025/01/07/segway-dropped-two-e-bikes-at-ces-that-are-stylish-and-packed-with-tech-for-under-3000/)
+- [James Webb Space Telescope spots record-breaking collection of stars in far-flung galaxy](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-spots-record-breaking-collection-of-stars-in-far-flung-galaxy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
