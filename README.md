@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
+- [NXP to buy automotive safety software firm TTTech Auto for $625M](https://techcrunch.com/2025/01/07/nxp-to-buy-automotive-safety-software-firm-tttech-auto-for-625m/)
 - [Blue Origin to launch its 1st New Glenn rocket on Jan. 10](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-launch-its-1st-new-glenn-rocket-on-jan-10)
 - [Just Eat Takeaway completes Grubhub sale to Wonder for a modest $650M](https://techcrunch.com/2025/01/07/just-eat-takeaway-completes-grubhub-sale-to-wonder-for-a-modest-650m/)
 - [Microsoft plans to invest $3B in AI, cloud in India](https://techcrunch.com/2025/01/07/microsoft-to-pump-3-billion-into-cloud-and-ai-push-in-india/)
-- [Apple to label notification summaries to indicate use of AI](https://techcrunch.com/2025/01/06/apple-to-label-notification-summaries-to-indicate-use-of-ai/)
-- [CES 2025 Press Day: Everything Nvidia, Sony, Toyota, Samsung announced, and more](https://techcrunch.com/2025/01/06/ces-2025-press-day-everything-nvidia-sony-toyota-samsung-announced-and-more/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
