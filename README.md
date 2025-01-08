@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delta SkyMiles members can now earn miles riding with Uber, ending its deal with Lyft](https://techcrunch.com/2025/01/07/delta-skymiles-members-can-now-earn-miles-riding-with-uber-ending-its-deal-with-lyft/)
+- [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/)
+- [Delta Air Lines announces an AI-powered assistant in its mobile app and free onboard YouTube Premium and Music at CES 2025](https://techcrunch.com/2025/01/07/delta-air-lines-announces-an-ai-powered-assistant-in-its-mobile-app-and-free-onboard-youtube-premium-and-music-at-ces-2025/)
 - [Zeekr RT, the robotaxi built for Waymo, has the tiniest wipers](https://techcrunch.com/2025/01/07/zeekr-rt-the-robotaxi-built-for-waymo-has-the-tiniest-wipers/)
 - [Nvidia CEO says his AI chips are improving faster than Moore’s Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/)
-- [CES 2025 Day 1: Honda, BMW, X’s victory lap, and the first show floor gadget reveals](https://techcrunch.com/2025/01/07/ces-2025-day-1-honda-bmw-xs-victory-lap-and-the-first-show-floor-gadget-reveals/)
-- [X hires former WSJ editor and bureau chief to lead news group](https://techcrunch.com/2025/01/07/x-hires-former-wsj-editor-and-bureau-chief-to-lead-news-group/)
-- [Watch India attempt its 1st space docking between satellites live online this week](https://www.space.com/space-exploration/missions/watch-india-first-space-docking-livestream)
 <!-- BLOG-POST-LIST:END -->
 
 ---
