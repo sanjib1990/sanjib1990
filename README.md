@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nomupay raises $37M on a $200M valuation to build payment rails in underserved markets across Asia](https://techcrunch.com/2025/01/07/nomupay-raises-37m-on-a-200m-valuation-to-build-payment-rails-in-underserved-markets-across-asia/)
 - [Report: VC in emerging markets plummeted by over 40% last year](https://techcrunch.com/2025/01/07/report-vc-in-emerging-markets-plummeted-by-over-40-last-year/)
 - [Indian government websites are still redirecting users to scam sites](https://techcrunch.com/2025/01/07/indian-government-websites-are-still-redirecting-users-to-scam-sites/)
 - [Delta SkyMiles members can now earn miles riding with Uber, as deal with Lyft nears end](https://techcrunch.com/2025/01/07/delta-skymiles-members-can-now-earn-miles-riding-with-uber-ending-its-deal-with-lyft/)
 - [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/)
-- [Delta Air Lines announces an AI-powered assistant in its mobile app and free onboard YouTube Premium and Music at CES 2025](https://techcrunch.com/2025/01/07/delta-air-lines-announces-an-ai-powered-assistant-in-its-mobile-app-and-free-onboard-youtube-premium-and-music-at-ces-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
