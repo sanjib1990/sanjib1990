@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Dark photons&#39; at Big Bang&#39;s cosmic dawn could shine a light on dark matter](https://www.space.com/dark-matter-photons-cosmic-dawn)
 - [Building blocks of life on Earth left the Milky Way before being pulled back in](https://www.space.com/cosmic-conveyer-belt-carbon-milky-way)
-- [Livestream shopping app Whatnot raises $265M, pinning valuation at nearly $5B](https://techcrunch.com/2025/01/08/livestream-shopping-app-whatnot-raises-265m-pinning-valuation-at-nearly-5b/)
-- [SteamOS expands to other gaming handhelds with the Lenovo Legion Go S](https://techcrunch.com/2025/01/08/steamos-expands-to-other-gaming-handhelds-with-the-lenovo-legion-go-s/)
-- [Casio says hackers stole personal data of 8,500 people during October ransomware attack](https://techcrunch.com/2025/01/08/casio-says-hackers-stole-personal-data-of-8500-people-during-october-ransomware-attack/)
-- [Siren secures strategic funding for its socks that detect diabetic foot ulcers](https://techcrunch.com/2025/01/08/sirens-smart-sock-for-diabetics-secures-strategic-funding-round/)
+- [SpaceX to launch more Starlink satellites from Florida today. Watch live!](https://www.space.com/spacex-starlink-launch-group-12-11)
+- [Watch India attempt its 1st space docking between satellites live online this week](https://www.space.com/space-exploration/missions/watch-india-first-space-docking-livestream)
+- [NASA won&#39;t decide on Mars Sample Return plan until mid-2026](https://www.space.com/space-exploration/missions/nasa-wont-decide-on-mars-sample-return-plan-until-mid-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
