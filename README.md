@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Dark photons&#39; at Big Bang&#39;s cosmic dawn could shine a light on dark matter](https://www.space.com/dark-matter-photons-cosmic-dawn)
-- [Building blocks of life on Earth left the Milky Way before being pulled back in](https://www.space.com/cosmic-conveyer-belt-carbon-milky-way)
-- [SpaceX to launch more Starlink satellites from Florida today. Watch live!](https://www.space.com/spacex-starlink-launch-group-12-11)
-- [Watch India attempt its 1st space docking between satellites live online this week](https://www.space.com/space-exploration/missions/watch-india-first-space-docking-livestream)
-- [NASA won&#39;t decide on Mars Sample Return plan until mid-2026](https://www.space.com/space-exploration/missions/nasa-wont-decide-on-mars-sample-return-plan-until-mid-2026)
+- [Space Force&#39;s secretive X-37B space plane soars past 1 year in orbit](https://www.space.com/space-exploration/tech/space-forces-secretive-x-37b-space-plane-soars-past-1-year-in-orbit)
+- [Facebook Marketplace to display eBay listings to appease EU regulators](https://techcrunch.com/2025/01/08/facebook-marketplace-to-display-ebay-listings-to-appease-eu-regulators/)
+- [&#39;Star Wars: Skeleton Crew&#39; episode 7 is a bittersweet return to At Attin](https://www.space.com/entertainment/space-movies-shows/star-wars-skeleton-crew-episode-7-is-a-bittersweet-return-to-at-attin)
+- [Healthcare analytics platform H1 has acquired Ribbon, backed by a16Z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/)
+- [Venus and the moon light up the night sky in gorgeous photos from around the world](https://www.space.com/stargazing/venus-and-the-moon-light-up-the-night-sky-in-gorgeous-photos-from-around-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
