@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX to launch Starship megarocket&#39;s Flight 7 test mission on Jan. 13](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-starship-megarockets-flight-7-test-mission-on-jan-13)
-- [Mastodon CEO calls Meta’s moderation changes ‘deeply troubling,’ warns users cross-posting from Threads](https://techcrunch.com/2025/01/08/mastodon-ceo-calls-metas-moderation-changes-deeply-troubling-warns-users-cross-posting-from-threads/)
-- [NASA&#39;s Jet Propulsion Lab closed due to raging LA fires](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-closed-due-to-raging-la-fires)
-- [Gamers can’t fathom how 6x CEO Elon Musk found time to best Diablo IV](https://techcrunch.com/2025/01/08/gamers-cant-fathom-how-6x-ceo-elon-musk-found-time-to-best-diablo-iv/)
-- [This basketball robot uses AI to rebound the ball after you shoot](https://techcrunch.com/2025/01/08/this-basketball-robot-uses-ai-to-rebound-the-ball-after-you-shoot/)
+- [Halliday’s $489 smart glasses beam a tiny screen to your eye](https://techcrunch.com/2025/01/08/hallidays-489-smart-glasses-beam-a-tiny-screen-to-your-eye/)
+- [This $1,500 iPad bundle will Rickroll your family after you die](https://techcrunch.com/2025/01/08/this-1500-ipad-bundle-will-rickroll-your-family-after-you-die/)
+- [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/)
+- [AI researcher François Chollet is co-founding a nonprofit to build benchmarks for AGI](https://techcrunch.com/2025/01/08/ai-researcher-francois-chollet-is-co-founding-a-nonprofit-to-build-benchmarks-for-agi/)
+- [Watch Duty surpasses ChatGPT as top free app on App Store as California fires spread](https://techcrunch.com/2025/01/08/watch-duty-surpasses-chatgpt-as-top-free-app-on-app-store-as-california-fires-spread/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
