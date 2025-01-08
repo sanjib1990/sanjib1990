@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zeekr RT, the robotaxi built for Waymo, has the tiniest wipers](https://techcrunch.com/2025/01/07/zeekr-rt-the-robotaxi-built-for-waymo-has-the-tiniest-wipers/)
+- [Nvidia CEO says his AI chips are improving faster than Moore’s Law](https://techcrunch.com/2025/01/07/nvidia-ceo-says-his-ai-chips-are-improving-faster-than-moores-law/)
 - [CES 2025 Day 1: Honda, BMW, X’s victory lap, and the first show floor gadget reveals](https://techcrunch.com/2025/01/07/ces-2025-day-1-honda-bmw-xs-victory-lap-and-the-first-show-floor-gadget-reveals/)
 - [X hires former WSJ editor and bureau chief to lead news group](https://techcrunch.com/2025/01/07/x-hires-former-wsj-editor-and-bureau-chief-to-lead-news-group/)
 - [Watch India attempt its 1st space docking between satellites live online this week](https://www.space.com/space-exploration/missions/watch-india-first-space-docking-livestream)
-- [This pool cleaning company made a robot turtle to track water quality](https://techcrunch.com/2025/01/07/this-pool-cleaning-company-made-a-robot-turtle-to-track-water-quality/)
-- [Silicon Valley is so dominant again, its startups devoured over half of all global VC funding in 2024](https://techcrunch.com/2025/01/07/silicon-valley-is-so-dominant-again-its-startups-devoured-over-half-of-all-global-vc-funding-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
