@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/)
-- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/)
-- [Microsoft rolls back its Bing Image Creator model after users complain of degraded quality](https://techcrunch.com/2025/01/08/microsoft-rolls-back-its-bing-image-creator-model-after-users-complain-of-degraded-quality/)
-- [Former CEO of MoviePass’ parent company pleads guilty to fraud over ‘unlimited’ plan](https://techcrunch.com/2025/01/08/former-ceo-of-moviepass-parent-company-pleads-guilty-to-fraud-over-unlimited-plan/)
-- [Space Force&#39;s secretive X-37B space plane soars past 1 year in orbit](https://www.space.com/space-exploration/tech/space-forces-secretive-x-37b-space-plane-soars-past-1-year-in-orbit)
+- [Tonal’s new strength training system arrives with refreshed hardware and new workouts](https://techcrunch.com/2025/01/08/tonals-new-strength-training-system-arrives-with-refreshed-hardware-and-new-workouts/)
+- [Bill Nye &#39;The Science Guy&#39; awarded Presidential Medal of Freedom](https://www.space.com/the-universe/bill-nye-the-science-guy-awarded-presidential-medal-of-freedom)
+- [Boston Dynamics settles patent suit with military robotics firm Ghost](https://techcrunch.com/2025/01/08/boston-dynamics-settles-patent-suit-with-military-robotics-firm-ghost/)
+- [Former Huami employees launch SATELLAI, a satellite pet tracker, at CES 2025](https://techcrunch.com/2025/01/08/former-huami-employees-launch-satellai-a-satellite-pet-tracker-at-ces-2025/)
+- [Japan says Chinese hackers targeted its government and tech companies for years](https://techcrunch.com/2025/01/08/japan-says-chinese-hackers-targeted-its-government-and-tech-companies-for-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
