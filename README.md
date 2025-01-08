@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Siren secures strategic funding for its socks that detect diabetic foot ulcers](https://techcrunch.com/2025/01/08/sirens-smart-sock-for-diabetics-secures-strategic-funding-round/)
+- [SpaceX to launch more Starlink satellites from Florida today. Watch live!](https://www.space.com/spacex-starlink-launch-group-12-11)
 - [UN aviation agency confirms hacker breached recruitment database to access thousands of records](https://techcrunch.com/2025/01/08/un-aviation-agency-confirms-hacker-breached-recruitment-database-to-access-thousands-of-records/)
 - [Microsoft backs its $3B AI push in India with public and private sector deals](https://techcrunch.com/2025/01/08/microsoft-backs-its-3b-ai-push-in-india-with-public-and-private-sector-deals/)
 - [Nomupay raises $37M at a $200M valuation to build payment rails in underserved markets across Asia](https://techcrunch.com/2025/01/07/nomupay-raises-37m-on-a-200m-valuation-to-build-payment-rails-in-underserved-markets-across-asia/)
-- [VC investment in emerging markets plummeted by over 40% last year](https://techcrunch.com/2025/01/07/report-vc-in-emerging-markets-plummeted-by-over-40-last-year/)
-- [Indian government websites are still redirecting users to scam sites](https://techcrunch.com/2025/01/07/indian-government-websites-are-still-redirecting-users-to-scam-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
