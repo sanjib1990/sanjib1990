@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Livestream shopping app Whatnot raises $265M, pinning valuation at nearly $5B](https://techcrunch.com/2025/01/08/livestream-shopping-app-whatnot-raises-265m-pinning-valuation-at-nearly-5b/)
+- [SteamOS expands to other gaming handhelds with the Lenovo Legion Go S](https://techcrunch.com/2025/01/08/steamos-expands-to-other-gaming-handhelds-with-the-lenovo-legion-go-s/)
+- [Casio says hackers stole personal data of 8,500 people during October ransomware attack](https://techcrunch.com/2025/01/08/casio-says-hackers-stole-personal-data-of-8500-people-during-october-ransomware-attack/)
 - [Siren secures strategic funding for its socks that detect diabetic foot ulcers](https://techcrunch.com/2025/01/08/sirens-smart-sock-for-diabetics-secures-strategic-funding-round/)
 - [SpaceX to launch more Starlink satellites from Florida today. Watch live!](https://www.space.com/spacex-starlink-launch-group-12-11)
-- [UN aviation agency confirms hacker breached recruitment database to access thousands of records](https://techcrunch.com/2025/01/08/un-aviation-agency-confirms-hacker-breached-recruitment-database-to-access-thousands-of-records/)
-- [Microsoft backs its $3B AI push in India with public and private sector deals](https://techcrunch.com/2025/01/08/microsoft-backs-its-3b-ai-push-in-india-with-public-and-private-sector-deals/)
-- [Nomupay raises $37M at a $200M valuation to build payment rails in underserved markets across Asia](https://techcrunch.com/2025/01/07/nomupay-raises-37m-on-a-200m-valuation-to-build-payment-rails-in-underserved-markets-across-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
