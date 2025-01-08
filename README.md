@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gridware’s boxes literally listen to power lines to find outages](https://techcrunch.com/2025/01/08/gridwares-boxes-literally-listen-to-power-lines-to-find-outages/)
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/)
-- [Ukrainian hackers take credit for hacking Russian ISP that wiped out servers and caused internet outages](https://techcrunch.com/2025/01/08/ukrainian-hackers-take-credit-for-hacking-russian-isp-that-wiped-out-servers-and-caused-internet-outages/)
-- [This Week in AI: More capable AI is coming, but will its benefits be evenly distributed?](https://techcrunch.com/2025/01/08/this-week-in-ai-more-capable-ai-is-coming-but-will-its-benefits-be-evenly-distributed/)
-- [Triller launches a tool to back up users’ TikToks ahead of the U.S. ban deadline](https://techcrunch.com/2025/01/08/triller-launches-a-tool-to-back-up-users-tiktoks-ahead-of-the-u-s-ban-deadline/)
+- [SpaceX to launch Starship megarocket&#39;s Flight 7 test mission on Jan. 13](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-starship-megarockets-flight-7-test-mission-on-jan-13)
+- [Mastodon CEO calls Meta’s moderation changes ‘deeply troubling,’ warns users cross-posting from Threads](https://techcrunch.com/2025/01/08/mastodon-ceo-calls-metas-moderation-changes-deeply-troubling-warns-users-cross-posting-from-threads/)
+- [NASA&#39;s Jet Propulsion Lab closed due to raging LA fires](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-closed-due-to-raging-la-fires)
+- [Gamers can’t fathom how 6x CEO Elon Musk found time to best Diablo IV](https://techcrunch.com/2025/01/08/gamers-cant-fathom-how-6x-ceo-elon-musk-found-time-to-best-diablo-iv/)
+- [This basketball robot uses AI to rebound the ball after you shoot](https://techcrunch.com/2025/01/08/this-basketball-robot-uses-ai-to-rebound-the-ball-after-you-shoot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
