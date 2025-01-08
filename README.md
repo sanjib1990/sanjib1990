@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/)
+- [Satellites watch as LA wildfires burn out of control in California &lpar;video&rpar;](https://www.space.com/space-exploration/satellites/satellites-watch-as-la-wildfires-burn-out-of-control-in-california-video)
+- [What time is Blue Origin&#39;s 1st New Glenn rocket launch on Jan. 10?](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-first-new-glenn-rocket-launch-what-time)
+- [Grok may soon get an ‘Unhinged Mode’](https://techcrunch.com/2025/01/08/grok-may-soon-get-an-unhinged-mode/)
 - [Halliday’s $489 smart glasses beam a tiny screen to your eye](https://techcrunch.com/2025/01/08/hallidays-489-smart-glasses-beam-a-tiny-screen-to-your-eye/)
-- [This $1,500 iPad bundle will Rickroll your family after you die](https://techcrunch.com/2025/01/08/this-1500-ipad-bundle-will-rickroll-your-family-after-you-die/)
-- [Flock Safety quietly hired a sitting California mayor. Now he’s suing Flock](https://techcrunch.com/2025/01/08/flock-safety-quietly-hired-a-sitting-california-mayor-now-hes-suing-flock/)
-- [AI researcher François Chollet is co-founding a nonprofit to build benchmarks for AGI](https://techcrunch.com/2025/01/08/ai-researcher-francois-chollet-is-co-founding-a-nonprofit-to-build-benchmarks-for-agi/)
-- [Watch Duty surpasses ChatGPT as top free app on App Store as California fires spread](https://techcrunch.com/2025/01/08/watch-duty-surpasses-chatgpt-as-top-free-app-on-app-store-as-california-fires-spread/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
