@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Omi, a competitor to Friend, wants to boost your productivity using AI and a ‘brain interface’](https://techcrunch.com/2025/01/08/omi-a-competitor-to-friend-wants-to-boost-your-productivity-using-ai-and-a-brain-interface/)
+- [Grove cuts clinical trial enrollment time with AI](https://techcrunch.com/2025/01/08/grove-cuts-clinical-trial-enrollment-time-with-ai/)
+- [Microsoft rolls back its Bing Image Creator model after users complain of degraded quality](https://techcrunch.com/2025/01/08/microsoft-rolls-back-its-bing-image-creator-model-after-users-complain-of-degraded-quality/)
+- [Former CEO of MoviePass’ parent company pleads guilty to fraud over ‘unlimited’ plan](https://techcrunch.com/2025/01/08/former-ceo-of-moviepass-parent-company-pleads-guilty-to-fraud-over-unlimited-plan/)
 - [Space Force&#39;s secretive X-37B space plane soars past 1 year in orbit](https://www.space.com/space-exploration/tech/space-forces-secretive-x-37b-space-plane-soars-past-1-year-in-orbit)
-- [Facebook Marketplace to display eBay listings to appease EU regulators](https://techcrunch.com/2025/01/08/facebook-marketplace-to-display-ebay-listings-to-appease-eu-regulators/)
-- [&#39;Star Wars: Skeleton Crew&#39; episode 7 is a bittersweet return to At Attin](https://www.space.com/entertainment/space-movies-shows/star-wars-skeleton-crew-episode-7-is-a-bittersweet-return-to-at-attin)
-- [Healthcare analytics platform H1 has acquired Ribbon, backed by a16Z and General Catalyst](https://techcrunch.com/2025/01/08/healthcare-analytics-platform-h1-has-acquired-ribbon-backed-by-a16z-and-general-catalyst/)
-- [Venus and the moon light up the night sky in gorgeous photos from around the world](https://www.space.com/stargazing/venus-and-the-moon-light-up-the-night-sky-in-gorgeous-photos-from-around-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ---
