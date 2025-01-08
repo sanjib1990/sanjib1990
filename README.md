@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Delta SkyMiles members can now earn miles riding with Uber, ending its deal with Lyft](https://techcrunch.com/2025/01/07/delta-skymiles-members-can-now-earn-miles-riding-with-uber-ending-its-deal-with-lyft/)
+- [Delta SkyMiles members can now earn miles riding with Uber, as deal with Lyft nears end](https://techcrunch.com/2025/01/07/delta-skymiles-members-can-now-earn-miles-riding-with-uber-ending-its-deal-with-lyft/)
 - [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/)
 - [Delta Air Lines announces an AI-powered assistant in its mobile app and free onboard YouTube Premium and Music at CES 2025](https://techcrunch.com/2025/01/07/delta-air-lines-announces-an-ai-powered-assistant-in-its-mobile-app-and-free-onboard-youtube-premium-and-music-at-ces-2025/)
 - [Zeekr RT, the robotaxi built for Waymo, has the tiniest wipers](https://techcrunch.com/2025/01/07/zeekr-rt-the-robotaxi-built-for-waymo-has-the-tiniest-wipers/)
