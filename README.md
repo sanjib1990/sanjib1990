@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UN aviation agency confirms hacker breached recruitment database to access thousands of records](https://techcrunch.com/2025/01/08/un-aviation-agency-confirms-hacker-breached-recruitment-database-to-access-thousands-of-records/)
+- [Microsoft backs its $3B AI push in India with public and private sector deals](https://techcrunch.com/2025/01/08/microsoft-backs-its-3b-ai-push-in-india-with-public-and-private-sector-deals/)
 - [Nomupay raises $37M at a $200M valuation to build payment rails in underserved markets across Asia](https://techcrunch.com/2025/01/07/nomupay-raises-37m-on-a-200m-valuation-to-build-payment-rails-in-underserved-markets-across-asia/)
 - [VC investment in emerging markets plummeted by over 40% last year](https://techcrunch.com/2025/01/07/report-vc-in-emerging-markets-plummeted-by-over-40-last-year/)
 - [Indian government websites are still redirecting users to scam sites](https://techcrunch.com/2025/01/07/indian-government-websites-are-still-redirecting-users-to-scam-sites/)
-- [Delta SkyMiles members can now earn miles riding with Uber, as deal with Lyft nears end](https://techcrunch.com/2025/01/07/delta-skymiles-members-can-now-earn-miles-riding-with-uber-ending-its-deal-with-lyft/)
-- [Sam Altman’s family responds to lawsuit alleging he sexually assaulted his sister](https://techcrunch.com/2025/01/07/sam-altmans-family-responds-to-lawsuit-alleging-he-sexually-assaulted-his-sister/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
