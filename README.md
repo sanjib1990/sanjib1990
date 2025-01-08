@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gridware’s boxes literally listen to power lines to find outages](https://techcrunch.com/2025/01/08/gridwares-boxes-literally-listen-to-power-lines-to-find-outages/)
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/08/tech-layoffs-2024-list/)
+- [Ukrainian hackers take credit for hacking Russian ISP that wiped out servers and caused internet outages](https://techcrunch.com/2025/01/08/ukrainian-hackers-take-credit-for-hacking-russian-isp-that-wiped-out-servers-and-caused-internet-outages/)
 - [This Week in AI: More capable AI is coming, but will its benefits be evenly distributed?](https://techcrunch.com/2025/01/08/this-week-in-ai-more-capable-ai-is-coming-but-will-its-benefits-be-evenly-distributed/)
 - [Triller launches a tool to back up users’ TikToks ahead of the U.S. ban deadline](https://techcrunch.com/2025/01/08/triller-launches-a-tool-to-back-up-users-tiktoks-ahead-of-the-u-s-ban-deadline/)
-- [Tonal’s new strength training system arrives with refreshed hardware and new workouts](https://techcrunch.com/2025/01/08/tonals-new-strength-training-system-arrives-with-refreshed-hardware-and-new-workouts/)
-- [Bill Nye &#39;The Science Guy&#39; awarded Presidential Medal of Freedom](https://www.space.com/the-universe/bill-nye-the-science-guy-awarded-presidential-medal-of-freedom)
-- [Boston Dynamics settles patent suit with military robotics firm Ghost](https://techcrunch.com/2025/01/08/boston-dynamics-settles-patent-suit-with-military-robotics-firm-ghost/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
