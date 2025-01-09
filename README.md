@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Humans will soon be able to mine on the moon. But should we? 4 questions to consider](https://www.space.com/the-universe/moon/humans-will-soon-be-able-to-mine-on-the-moon-but-should-we-4-questions-to-consider)
-- [Comcast and other TV streamers are now chasing YouTube’s ad dollars instead of the other way around](https://techcrunch.com/2025/01/09/comcast-and-other-tv-streamers-are-now-chasing-youtubes-ad-dollars-instead-of-the-other-way-around/)
-- [What should I look for in a monocular for stargazing?](https://www.space.com/stargazing/astronomy-kit/what-should-i-look-for-in-a-monocular-for-stargazing)
-- [Google searches for deleting Facebook, Instagram explode after Meta ends fact-checking](https://techcrunch.com/2025/01/09/google-searches-for-deleting-facebook-instagram-explode-after-meta-ends-fact-checking/)
-- [Watch Duty surpasses ChatGPT as top free app on App Store as California fires spread](https://techcrunch.com/2025/01/09/watch-duty-surpasses-chatgpt-as-top-free-app-on-app-store-as-california-fires-spread/)
+- [Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/)
+- [Facebook awards researcher $100,000 for finding bug that granted internal access](https://techcrunch.com/2025/01/09/facebook-awards-researcher-100000-for-finding-bug-that-granted-internal-access/)
+- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/)
+- [CES 2025: The weirdest tech products and claims from this year’s event](https://techcrunch.com/2025/01/09/ces-2025-the-weirdest-tech-products-and-claims-from-this-years-event/)
+- [SpaceX to launch 7th batch of next-gen spy satellites for US government tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-7th-batch-of-next-gen-spy-satellites-for-us-government-tonight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
