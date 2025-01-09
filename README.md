@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Biosphere zaps germs with UV light to make biomanufacturing cheaper](https://techcrunch.com/2025/01/09/biosphere-zaps-germs-with-uv-light-to-make-biomanufacturing-cheaper/)
+- [Watch the moon hide the &#39;Seven Sisters&#39; of the Pleiades star cluster tonight](https://www.space.com/stargazing/watch-the-moon-hide-the-seven-sisters-of-the-pleiades-star-cluster-tonight)
+- [Hackers are exploiting a new Ivanti VPN security bug to hack into company networks](https://techcrunch.com/2025/01/09/hackers-are-exploiting-a-new-ivanti-vpn-security-bug-to-hack-into-company-networks/)
 - [Once-in-a-160000-year comet G3 ATLAS could shine as bright as Venus next week. Here&#39;s what to expect.](https://www.space.com/the-universe/comets/once-in-a-160000-year-comet-g3-atlas-could-shine-as-bright-as-venus-next-week-heres-what-to-expect)
 - [The Fantastic Four join &#39;Marvel Rivals&#39; ahead of their big-screen Marvel Cinematic Universe reboot](https://www.space.com/entertainment/space-games-toys/the-fantastic-four-join-marvel-rivals-ahead-of-their-big-screen-marvel-cinematic-universe-reboot)
-- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/)
-- [Blue Origin to launch its 1st New Glenn rocket early Jan. 10: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-launch-its-1st-new-glenn-rocket-early-jan-10-watch-it-live)
-- [VLC tops 6 billion downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
