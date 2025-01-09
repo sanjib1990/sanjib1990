@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PickPad addresses the chaos of restaurant takeout](https://techcrunch.com/2025/01/08/pickpad-addresses-the-chaos-of-restaurant-takeout/)
+- [The LiberLive C1 stringless instrument isn’t a guitar, and that’s fine](https://techcrunch.com/2025/01/08/the-liberlive-c1-stringless-instrument-isnt-a-guitar-and-thats-fine/)
+- [CES 2025 was full of IRL AI slop](https://techcrunch.com/2025/01/08/ces-2025-was-full-of-irl-ai-slop/)
+- [CES 2025: The weirdest tech products and claims from this year’s event](https://techcrunch.com/2025/01/08/ces-2025-the-weirdest-tech-products-and-claims-from-this-years-event/)
+- [Pickpad addresses the chaos of restaurant takeout](https://techcrunch.com/2025/01/08/pickpad-addresses-the-chaos-of-restaurant-takeout/)
 - [Astrohaus launches a mechanical keyboard for writers](https://techcrunch.com/2025/01/08/astrohaus-launches-a-mechanical-keyboard-for-writers/)
-- [Satellites watch as LA wildfires burn out of control in California &lpar;video&rpar;](https://www.space.com/space-exploration/satellites/satellites-watch-as-la-wildfires-burn-out-of-control-in-california-video)
-- [What time is Blue Origin&#39;s 1st New Glenn rocket launch on Jan. 10?](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-first-new-glenn-rocket-launch-what-time)
-- [Grok may soon get an ‘Unhinged Mode’](https://techcrunch.com/2025/01/08/grok-may-soon-get-an-unhinged-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
