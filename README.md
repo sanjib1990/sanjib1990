@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin to launch its 1st New Glenn rocket early Jan. 10: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-launch-its-1st-new-glenn-rocket-early-jan-10-watch-it-live)
+- [VLC tops 6 billion downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
+- [Apple might be working on a new ‘Invites’ app](https://techcrunch.com/2025/01/09/apple-might-be-working-on-a-new-invites-app/)
+- [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/)
 - [Defiant is a new European VC firm that uses data and products to make better investments](https://techcrunch.com/2025/01/09/defiant-is-a-new-european-vc-firm-that-uses-data-and-products-to-make-better-investments/)
-- [xAI is testing a standalone iOS app for its Grok chatbot](https://techcrunch.com/2025/01/08/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/)
-- [Flipkart hires Dunzo’s co-founder to lead quick commerce push](https://techcrunch.com/2025/01/08/flipkart-taps-dunzo-founder-to-lead-quick-commerce-push/)
-- [Elon Musk agrees that we’ve exhausted AI training data](https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/)
-- [We talked to the guy who was stuck in a Waymo robotaxi on a dizzying loop](https://techcrunch.com/2025/01/08/we-talked-to-the-guy-who-was-stuck-in-a-waymo-robotaxi-on-an-dizzying-loop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
