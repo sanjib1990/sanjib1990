@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An amateur astronomer used an old technique to study Jupiter — and found something strange](https://www.space.com/the-universe/jupiter/an-amateur-astronomer-used-an-old-technique-to-study-jupiter-and-found-something-strange)
+- [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/)
 - [Y Combinator scored a surprise win when Larry Page came to speak](https://techcrunch.com/2025/01/09/y-combinator-scored-a-surprise-win-when-larry-page-came-to-speak/)
 - [These are CES 2025’s least repairable and sustainable gadgets, according to iFixit](https://techcrunch.com/2025/01/09/these-are-ces-2025s-least-repairable-and-sustainable-gadgets-according-to-ifixit/)
 - [SpaceX rolls Starship out to pad ahead of Flight 7 test launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rolls-starship-out-to-pad-ahead-of-flight-7-test-launch-photos)
-- [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/)
-- [Blue Origin delays 1st New Glenn rocket launch due to rough seas for landing](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-delays-1st-new-glenn-rocket-launch-due-to-rough-seas-for-landing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
