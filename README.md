@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/)
-- [Facebook awards researcher $100,000 for finding bug that granted internal access](https://techcrunch.com/2025/01/09/facebook-awards-researcher-100000-for-finding-bug-that-granted-internal-access/)
-- [Scout Motors CEO Scott Keogh says modern cars have become ‘dystopian’ and ‘disconnected’](https://techcrunch.com/2025/01/09/scout-motors-ceo-scott-keogh-interview-ces-2025/)
-- [CES 2025: The weirdest tech products and claims from this year’s event](https://techcrunch.com/2025/01/09/ces-2025-the-weirdest-tech-products-and-claims-from-this-years-event/)
-- [SpaceX to launch 7th batch of next-gen spy satellites for US government tonight](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-7th-batch-of-next-gen-spy-satellites-for-us-government-tonight)
+- [Y Combinator scored a surprise win when Larry Page came to speak](https://techcrunch.com/2025/01/09/y-combinator-scored-a-surprise-win-when-larry-page-came-to-speak/)
+- [These are CES 2025’s least repairable and sustainable gadgets, according to iFixit](https://techcrunch.com/2025/01/09/these-are-ces-2025s-least-repairable-and-sustainable-gadgets-according-to-ifixit/)
+- [SpaceX rolls Starship out to pad ahead of Flight 7 test launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rolls-starship-out-to-pad-ahead-of-flight-7-test-launch-photos)
+- [DoorBox debuts its new and improved smart delivery box at CES 2025](https://techcrunch.com/2025/01/09/doorbox-debuts-its-new-and-improved-smart-delivery-box-at-ces-2025/)
+- [Blue Origin delays 1st New Glenn rocket launch due to rough seas for landing](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-delays-1st-new-glenn-rocket-launch-due-to-rough-seas-for-landing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
