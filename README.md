@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok tells LA staff impacted by wildfires to use personal/sick hours if they can’t work from home](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/)
 - [ChatGPT’s newest feature lets user assign it traits like ‘chatty’ and ‘Gen Z’](https://techcrunch.com/2025/01/09/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/)
 - [Autonomous vehicles are having a moment and other vibes from CES 2025](https://techcrunch.com/2025/01/09/autonomous-vehicles-are-having-a-moment-and-other-vibes-from-ces-2025/)
 - [Opticron Explorer WA ED-R 8x42 monocular review](https://www.space.com/stargazing/astronomy-kit/opticron-explorer-wa-ed-r-8x42-monocular-review)
 - [CES 2025: Where have all the US automakers gone?](https://techcrunch.com/2025/01/09/ces-2025-where-have-all-the-us-automakers-gone/)
-- [Google folds more AI teams into DeepMind to ‘accelerate the research to developer pipeline’](https://techcrunch.com/2025/01/09/google-folds-more-ai-teams-into-deepmind-to-accelerate-the-research-to-developer-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
