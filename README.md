@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Defiant is a new European VC firm that uses data and products to make better investments](https://techcrunch.com/2025/01/09/defiant-is-a-new-european-vc-firm-that-uses-data-and-products-to-make-better-investments/)
 - [xAI is testing a standalone iOS app for its Grok chatbot](https://techcrunch.com/2025/01/08/xai-is-testing-a-standalone-ios-app-for-its-grok-chatbot/)
 - [Flipkart hires Dunzo’s co-founder to lead quick commerce push](https://techcrunch.com/2025/01/08/flipkart-taps-dunzo-founder-to-lead-quick-commerce-push/)
 - [Elon Musk agrees that we’ve exhausted AI training data](https://techcrunch.com/2025/01/08/elon-musk-agrees-that-weve-exhausted-ai-training-data/)
 - [We talked to the guy who was stuck in a Waymo robotaxi on a dizzying loop](https://techcrunch.com/2025/01/08/we-talked-to-the-guy-who-was-stuck-in-a-waymo-robotaxi-on-an-dizzying-loop/)
-- [The US has a new cybersecurity safety label for smart devices](https://techcrunch.com/2025/01/08/the-u-s-has-a-new-cybersecurity-safety-label-for-smart-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
