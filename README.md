@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opticron Explorer WA ED-R 8x42 monocular review](https://www.space.com/stargazing/astronomy-kit/opticron-explorer-wa-ed-r-8x42-monocular-review)
+- [CES 2025: Where have all the US automakers gone?](https://techcrunch.com/2025/01/09/ces-2025-where-have-all-the-us-automakers-gone/)
+- [Google folds more AI teams into DeepMind to ‘accelerate the research to developer pipeline’](https://techcrunch.com/2025/01/09/google-folds-more-ai-teams-into-deepmind-to-accelerate-the-research-to-developer-pipeline/)
 - [An amateur astronomer used an old technique to study Jupiter — and found something strange](https://www.space.com/the-universe/jupiter/an-amateur-astronomer-used-an-old-technique-to-study-jupiter-and-found-something-strange)
 - [Scale AI hit by its second employee wage lawsuit in less than a month](https://techcrunch.com/2025/01/09/scale-ai-hit-by-its-second-employee-wage-lawsuit-in-less-than-a-month/)
-- [Y Combinator scored a surprise win when Larry Page came to speak](https://techcrunch.com/2025/01/09/y-combinator-scored-a-surprise-win-when-larry-page-came-to-speak/)
-- [These are CES 2025’s least repairable and sustainable gadgets, according to iFixit](https://techcrunch.com/2025/01/09/these-are-ces-2025s-least-repairable-and-sustainable-gadgets-according-to-ifixit/)
-- [SpaceX rolls Starship out to pad ahead of Flight 7 test launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rolls-starship-out-to-pad-ahead-of-flight-7-test-launch-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
