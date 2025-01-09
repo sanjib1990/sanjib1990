@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s Daily Listen AI feature generates a podcast based on your Discover feed](https://techcrunch.com/2025/01/09/googles-daily-listen-ai-feature-generates-a-podcast-based-on-your-discover-feed/)
-- [Doublepoint launches free Apple Watch app to control devices with hand gestures](https://techcrunch.com/2025/01/09/doublepoint-launches-free-apple-watch-app-to-control-devices-with-hand-gestures/)
-- [Video editing app Captions switches to a freemium model to boost growth](https://techcrunch.com/2025/01/09/video-editing-app-captions-switches-to-a-freemium-model-to-boost-growth/)
-- [PrettyDamnQuick snaps up $25M to speed up online checkout](https://techcrunch.com/2025/01/09/prettydamnquick-snaps-up-25m-to-speed-up-online-checkout/)
-- [Innovaccer aims to become healthcare’s AI powerhouse with $275M Series F](https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/)
+- [Humans will soon be able to mine on the moon. But should we? 4 questions to consider](https://www.space.com/the-universe/moon/humans-will-soon-be-able-to-mine-on-the-moon-but-should-we-4-questions-to-consider)
+- [Comcast and other TV streamers are now chasing YouTube’s ad dollars instead of the other way around](https://techcrunch.com/2025/01/09/comcast-and-other-tv-streamers-are-now-chasing-youtubes-ad-dollars-instead-of-the-other-way-around/)
+- [What should I look for in a monocular for stargazing?](https://www.space.com/stargazing/astronomy-kit/what-should-i-look-for-in-a-monocular-for-stargazing)
+- [Google searches for deleting Facebook, Instagram explode after Meta ends fact-checking](https://techcrunch.com/2025/01/09/google-searches-for-deleting-facebook-instagram-explode-after-meta-ends-fact-checking/)
+- [Watch Duty surpasses ChatGPT as top free app on App Store as California fires spread](https://techcrunch.com/2025/01/09/watch-duty-surpasses-chatgpt-as-top-free-app-on-app-store-as-california-fires-spread/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
