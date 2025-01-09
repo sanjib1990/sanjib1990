@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Once-in-a-160000-year comet G3 ATLAS could shine as bright as Venus next week. Here&#39;s what to expect.](https://www.space.com/the-universe/comets/once-in-a-160000-year-comet-g3-atlas-could-shine-as-bright-as-venus-next-week-heres-what-to-expect)
+- [The Fantastic Four join &#39;Marvel Rivals&#39; ahead of their big-screen Marvel Cinematic Universe reboot](https://www.space.com/entertainment/space-games-toys/the-fantastic-four-join-marvel-rivals-ahead-of-their-big-screen-marvel-cinematic-universe-reboot)
+- [Xocean raises $119M to capture ocean data with uncrewed surface vessels](https://techcrunch.com/2025/01/09/xocean-raises-119m-to-capture-ocean-data-with-uncrewed-surface-vessels/)
 - [Blue Origin to launch its 1st New Glenn rocket early Jan. 10: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-to-launch-its-1st-new-glenn-rocket-early-jan-10-watch-it-live)
 - [VLC tops 6 billion downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
-- [Apple might be working on a new ‘Invites’ app](https://techcrunch.com/2025/01/09/apple-might-be-working-on-a-new-invites-app/)
-- [Grand Games, the Turkish startup behind Magic Sort, drinks up $30M](https://techcrunch.com/2025/01/09/grand-games-the-turkish-gaming-startup-behind-pouring-game-magic-sort-drinks-up-30m/)
-- [Defiant is a new European VC firm that uses data and products to make better investments](https://techcrunch.com/2025/01/09/defiant-is-a-new-european-vc-firm-that-uses-data-and-products-to-make-better-investments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
