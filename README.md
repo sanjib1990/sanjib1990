@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok pleads its case against sell-or-ban law before Supreme Court](https://techcrunch.com/2025/01/10/tiktok-pleads-its-case-against-sell-or-ban-law-before-supreme-court/)
-- [US government charges operators of crypto mixing service used by North Korea and ransomware gangs](https://techcrunch.com/2025/01/10/us-government-charges-operators-of-crypto-mixing-service-used-by-north-korea-and-ransomware-gangs/)
-- [NASA Solar Dynamics Observatory back online after 2024 data center flood](https://www.space.com/the-universe/sun/nasa-solar-dynamics-observatory-back-online-after-2024-data-center-flood)
-- [What is the US Space Force doing in Greenland?](https://www.space.com/space-exploration/missions/what-is-the-us-space-force-doing-in-greenland)
-- [How a leap year mistake knocked out a OneWeb satellite for 2 days](https://www.space.com/space-exploration/satellites/how-a-leap-year-mistake-knocked-out-a-oneweb-satellite-for-2-days)
+- [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/)
+- [EU approves $35B Synopsys and Ansys merger, subject to divestment conditions](https://techcrunch.com/2025/01/10/eu-approves-35b-synopsys-and-ansys-merger-subject-to-divestment-conditions/)
+- [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/)
+- [Panasonic Lumix GH7 review](https://www.space.com/stargazing/astrophotography/panasonic-lumix-gh7-review)
+- [The new Atari handheld knows its market](https://techcrunch.com/2025/01/10/the-new-atari-handheld-knows-its-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
