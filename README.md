@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok tells LA staff impacted by wildfires to use personal/sick hours if they can’t work from home](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/)
-- [ChatGPT’s newest feature lets user assign it traits like ‘chatty’ and ‘Gen Z’](https://techcrunch.com/2025/01/09/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/)
-- [Autonomous vehicles are having a moment and other vibes from CES 2025](https://techcrunch.com/2025/01/09/autonomous-vehicles-are-having-a-moment-and-other-vibes-from-ces-2025/)
-- [Opticron Explorer WA ED-R 8x42 monocular review](https://www.space.com/stargazing/astronomy-kit/opticron-explorer-wa-ed-r-8x42-monocular-review)
-- [CES 2025: Where have all the US automakers gone?](https://techcrunch.com/2025/01/09/ces-2025-where-have-all-the-us-automakers-gone/)
+- [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/)
+- [Nvidia’s AI avatar sat on my computer screen and weirded me out](https://techcrunch.com/2025/01/09/nvidias-ai-avatar-sat-on-my-computer-screen-and-weirded-me-out/)
+- [ICON, a builder of 3D printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/)
+- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/)
+- [Apptronik’s Apollo humanoid robot gets to work at CES 2025](https://techcrunch.com/2025/01/09/apptroniks-apollo-humanoid-robot-gets-to-work-at-ces-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
