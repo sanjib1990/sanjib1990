@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See the moon and Jupiter ride the Bull in tonight’s sky](https://www.space.com/stargazing/see-the-moon-and-jupiter-ride-the-bull-in-tonights-sky)
+- [Cannabis company Stiiizy says hackers accessed customers’ ID documents](https://techcrunch.com/2025/01/10/cannabis-company-stiiizy-says-hackers-accessed-customers-id-documents/)
 - [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/)
 - [The fastest-spinning &#39;vampire star&#39; we know of is shrinking. Soon, it will explode](https://www.space.com/fastest-spinning-white-dwarf-cosmic-vampire)
 - [&#39;Star Trek: Lower Decks&#39; Final Season and The Complete Series warp onto Blu-ray this March](https://www.space.com/entertainment/star-trek-lower-decks-final-season-and-the-complete-series-blast-onto-blu-ray-in-march)
-- [Automattic says it will reduce its contribution to WordPress core project to match WP Engine](https://techcrunch.com/2025/01/10/automattic-says-it-will-reduce-its-contribution-to-wordpress-core-project-to-match-wp-engine/)
-- [Beams secures $9M Series A to digitize UK home renovation market](https://techcrunch.com/2025/01/09/beams-secures-9m-series-a-to-digitize-uk-home-renovation-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
