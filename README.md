@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X says it is rolling out labels for parody accounts](https://techcrunch.com/2025/01/09/x-says-it-is-rolling-out-labels-for-parody-accounts/)
 - [Every smartphone in LA accidentally received a wildfire evacuation alert](https://techcrunch.com/2025/01/09/every-smartphone-in-la-accidentally-received-a-wildfire-evacuation-alert/)
 - [This security system shoots paintballs at intruders](https://techcrunch.com/2025/01/09/this-security-system-shoots-paintballs-at-intruders/)
 - [Tesla launches new-look Model Y in China](https://techcrunch.com/2025/01/09/tesla-launches-new-look-model-y-in-china/)
 - [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/)
-- [Nvidia’s AI avatar sat on my computer screen and weirded me out](https://techcrunch.com/2025/01/09/nvidias-ai-avatar-sat-on-my-computer-screen-and-weirded-me-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
