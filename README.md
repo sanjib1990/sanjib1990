@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/)
-- [Amazon curbs some DEI programs](https://techcrunch.com/2025/01/10/amazon-curbs-some-dei-programs/)
-- [TikTok ban: How both sides made their case to the Supreme Court and what the justices asked](https://techcrunch.com/2025/01/10/tiktok-ban-how-both-sides-made-their-case-to-the-supreme-court-and-what-the-justices-asked/)
-- [Space2Sea Antarctica: 2 Ukrainian soldiers fulfill 1st part of Antarctic dream](https://www.space.com/space-exploration/space2sea-antarctica-2-ukrainian-soldiers-fulfill-1st-part-of-antarctic-dream)
-- [New OpenAI job listings reveal its robotics plans](https://techcrunch.com/2025/01/10/new-openai-job-listings-reveal-its-robotics-plans/)
+- [Images from space show devastation of raging Los Angeles fires](https://www.space.com/the-universe/climate-change/images-from-space-show-devastation-of-raging-los-angeles-fires)
+- [NASA&#39;s Jet Propulsion Lab still &#39;untouched&#39; by raging LA fires](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-still-untouched-by-raging-la-fires)
+- [The Full Wolf Moon &#39;eats&#39; Mars on Jan. 13. Here&#39;s how to see it](https://www.space.com/stargazing/the-full-wolf-moon-eats-mars-on-jan-13-heres-how-to-see-it)
+- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/)
+- [A drone punched a hole into an LA firefighting plane](https://techcrunch.com/2025/01/10/a-drone-punched-a-hole-into-an-la-firefighting-plane/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
