@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2025/01/10/meet-the-chinese-typhoon-hackers-preparing-for-war/)
+- [Star escapes ravenous supermassive black hole, leaving behind its stellar partner](https://www.space.com/flares-twice-star-black-hole-tde)
+- [Shein is still looking to IPO](https://techcrunch.com/2025/01/10/shein-is-still-looking-to-ipo/)
+- [Meta eliminates DEI programs](https://techcrunch.com/2025/01/10/meta-eliminates-dei-programs/)
 - [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/)
-- [EU approves $35B Synopsys and Ansys merger, subject to divestment conditions](https://techcrunch.com/2025/01/10/eu-approves-35b-synopsys-and-ansys-merger-subject-to-divestment-conditions/)
-- [Overhaul raises another $55M to help companies like Dyson and Microsoft fight supply chain theft](https://techcrunch.com/2025/01/10/overhaul-keeps-tabs-on-cargo-for-customers-like-microsoft-and-dyson/)
-- [Panasonic Lumix GH7 review](https://www.space.com/stargazing/astrophotography/panasonic-lumix-gh7-review)
-- [The new Atari handheld knows its market](https://techcrunch.com/2025/01/10/the-new-atari-handheld-knows-its-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
