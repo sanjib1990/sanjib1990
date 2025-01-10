@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the US Space Force doing in Greenland?](https://www.space.com/space-exploration/missions/what-is-the-us-space-force-doing-in-greenland)
 - [How a leap year mistake knocked out a OneWeb satellite for 2 days](https://www.space.com/space-exploration/satellites/how-a-leap-year-mistake-knocked-out-a-oneweb-satellite-for-2-days)
 - [China hacked US Treasury’s CFIUS, which reviews foreign investments for national security risks](https://techcrunch.com/2025/01/10/china-hacked-us-treasurys-cfius-which-reviews-foreign-investments-for-national-security-risks/)
 - [See the moon and Jupiter ride the Bull in tonight’s sky](https://www.space.com/stargazing/see-the-moon-and-jupiter-ride-the-bull-in-tonights-sky)
 - [Cannabis company Stiiizy says hackers accessed customers’ ID documents](https://techcrunch.com/2025/01/10/cannabis-company-stiiizy-says-hackers-accessed-customers-id-documents/)
-- [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
