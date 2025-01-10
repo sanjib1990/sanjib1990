@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/)
-- [Riding in a Zoox robotaxi at CES 2025: Everything that went right and wrong](https://techcrunch.com/2025/01/10/riding-in-a-zoox-robotaxi-at-ces-2025-everything-that-went-right-and-wrong/)
-- [Hugging Face settles suit with AI startup FriendliAI, which had accused it of patent infringement](https://techcrunch.com/2025/01/10/hugging-face-settles-suit-with-ai-startup-friendliai-which-had-accused-it-of-patent-infringement/)
-- [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2025/01/10/meet-the-chinese-typhoon-hackers-preparing-for-war/)
-- [Star escapes ravenous supermassive black hole, leaving behind its stellar partner](https://www.space.com/flares-twice-star-black-hole-tde)
+- [Mars is bigger and brighter this weekend than it will be all year. Here&#39;s how to see it](https://www.space.com/stargazing/mars-is-bigger-and-brighter-this-weekend-than-it-will-be-all-year-heres-how-to-see-it)
+- [How OpenAI’s bot crushed this seven-person company’s web site ‘like a DDoS attack’](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
+- [VCs say AI companies need proprietary data to stand out from the pack](https://techcrunch.com/2025/01/10/vcs-say-ai-companies-need-proprietary-data-to-stand-out-from-the-pack/)
+- [Lenovo’s latest form factors prove PCs can still be fun](https://techcrunch.com/2025/01/10/lenovos-latest-form-factors-prove-pcs-can-still-be-fun/)
+- [World&#39;s 1st wooden satellite deploys from ISS to demonstrate cleaner spacecraft tech &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/worlds-1st-wooden-satellite-deploys-from-iss-to-demonstrate-cleaner-spacecraft-tech)
 <!-- BLOG-POST-LIST:END -->
 
 ---
