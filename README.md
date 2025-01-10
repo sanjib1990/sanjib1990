@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a leap year mistake knocked out a OneWeb satellite for 2 days](https://www.space.com/space-exploration/satellites/how-a-leap-year-mistake-knocked-out-a-oneweb-satellite-for-2-days)
+- [China hacked US Treasury’s CFIUS, which reviews foreign investments for national security risks](https://techcrunch.com/2025/01/10/china-hacked-us-treasurys-cfius-which-reviews-foreign-investments-for-national-security-risks/)
 - [See the moon and Jupiter ride the Bull in tonight’s sky](https://www.space.com/stargazing/see-the-moon-and-jupiter-ride-the-bull-in-tonights-sky)
 - [Cannabis company Stiiizy says hackers accessed customers’ ID documents](https://techcrunch.com/2025/01/10/cannabis-company-stiiizy-says-hackers-accessed-customers-id-documents/)
 - [Gumloop, founded in a bedroom in Vancouver, lets users automate tasks with drag-and-drop modules](https://techcrunch.com/2025/01/10/gumloop-founded-in-a-bedroom-in-vancouver-lets-users-automate-tasks-with-drag-and-drop-modules/)
-- [The fastest-spinning &#39;vampire star&#39; we know of is shrinking. Soon, it will explode](https://www.space.com/fastest-spinning-white-dwarf-cosmic-vampire)
-- [&#39;Star Trek: Lower Decks&#39; Final Season and The Complete Series warp onto Blu-ray this March](https://www.space.com/entertainment/star-trek-lower-decks-final-season-and-the-complete-series-blast-onto-blu-ray-in-march)
 <!-- BLOG-POST-LIST:END -->
 
 ---
