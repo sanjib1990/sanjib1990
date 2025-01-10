@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Every smartphone in LA accidentally received a wildfire evacuation alert](https://techcrunch.com/2025/01/09/every-smartphone-in-la-accidentally-received-a-wildfire-evacuation-alert/)
+- [This security system shoots paintballs at intruders](https://techcrunch.com/2025/01/09/this-security-system-shoots-paintballs-at-intruders/)
+- [Tesla launches new-look Model Y in China](https://techcrunch.com/2025/01/09/tesla-launches-new-look-model-y-in-china/)
 - [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/)
 - [Nvidia’s AI avatar sat on my computer screen and weirded me out](https://techcrunch.com/2025/01/09/nvidias-ai-avatar-sat-on-my-computer-screen-and-weirded-me-out/)
-- [ICON, a builder of 3D printed homes last valued around $2 billion, cuts about 25% of staff](https://techcrunch.com/2025/01/09/icon-a-builder-of-3d-printed-homes-last-valued-around-2-billion-cuts-about-25-of-staff/)
-- [Defense startup Epirus in talks to raise over $150M, potentially cutting valuation](https://techcrunch.com/2025/01/09/defense-startup-epirus-in-talks-to-raise-over-150m-potentially-cutting-valuation/)
-- [Apptronik’s Apollo humanoid robot gets to work at CES 2025](https://techcrunch.com/2025/01/09/apptroniks-apollo-humanoid-robot-gets-to-work-at-ces-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
