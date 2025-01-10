@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mars is bigger and brighter this weekend than it will be all year. Here&#39;s how to see it](https://www.space.com/stargazing/mars-is-bigger-and-brighter-this-weekend-than-it-will-be-all-year-heres-how-to-see-it)
-- [How OpenAI’s bot crushed this seven-person company’s web site ‘like a DDoS attack’](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
-- [VCs say AI companies need proprietary data to stand out from the pack](https://techcrunch.com/2025/01/10/vcs-say-ai-companies-need-proprietary-data-to-stand-out-from-the-pack/)
-- [Lenovo’s latest form factors prove PCs can still be fun](https://techcrunch.com/2025/01/10/lenovos-latest-form-factors-prove-pcs-can-still-be-fun/)
-- [World&#39;s 1st wooden satellite deploys from ISS to demonstrate cleaner spacecraft tech &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/worlds-1st-wooden-satellite-deploys-from-iss-to-demonstrate-cleaner-spacecraft-tech)
+- [Bench customers are now being forced to hand over their data or risk losing it, they say](https://techcrunch.com/2025/01/10/bench-customers-are-now-being-forced-to-hand-over-their-data-or-risk-losing-it-they-say/)
+- [Amazon curbs some DEI programs](https://techcrunch.com/2025/01/10/amazon-curbs-some-dei-programs/)
+- [TikTok ban: How both sides made their case to the Supreme Court and what the justices asked](https://techcrunch.com/2025/01/10/tiktok-ban-how-both-sides-made-their-case-to-the-supreme-court-and-what-the-justices-asked/)
+- [Space2Sea Antarctica: 2 Ukrainian soldiers fulfill 1st part of Antarctic dream](https://www.space.com/space-exploration/space2sea-antarctica-2-ukrainian-soldiers-fulfill-1st-part-of-antarctic-dream)
+- [New OpenAI job listings reveal its robotics plans](https://techcrunch.com/2025/01/10/new-openai-job-listings-reveal-its-robotics-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
