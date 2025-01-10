@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/10/how-to-delete-facebook-instagram-and-threads/)
+- [Riding in a Zoox robotaxi at CES 2025: Everything that went right and wrong](https://techcrunch.com/2025/01/10/riding-in-a-zoox-robotaxi-at-ces-2025-everything-that-went-right-and-wrong/)
+- [Hugging Face settles suit with AI startup FriendliAI, which had accused it of patent infringement](https://techcrunch.com/2025/01/10/hugging-face-settles-suit-with-ai-startup-friendliai-which-had-accused-it-of-patent-infringement/)
 - [Meet the Chinese ‘Typhoon’ hackers preparing for war](https://techcrunch.com/2025/01/10/meet-the-chinese-typhoon-hackers-preparing-for-war/)
 - [Star escapes ravenous supermassive black hole, leaving behind its stellar partner](https://www.space.com/flares-twice-star-black-hole-tde)
-- [Shein is still looking to IPO](https://techcrunch.com/2025/01/10/shein-is-still-looking-to-ipo/)
-- [Meta eliminates DEI programs](https://techcrunch.com/2025/01/10/meta-eliminates-dei-programs/)
-- [January almost had its first pentacorn, and other startup news](https://techcrunch.com/2025/01/10/january-almost-had-its-first-pentacorn-and-other-startup-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
