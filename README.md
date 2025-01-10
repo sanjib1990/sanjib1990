@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beams secures $9M Series A to digitize UK home renovation market](https://techcrunch.com/2025/01/09/beams-secures-9m-series-a-to-digitize-uk-home-renovation-market/)
+- [India’s payment push is cutting out Visa and Mastercard](https://techcrunch.com/2025/01/09/india-rupay-upi-payment-push-is-cutting-out-visa-and-mastercard/)
 - [X says it is rolling out labels for parody accounts](https://techcrunch.com/2025/01/09/x-says-it-is-rolling-out-labels-for-parody-accounts/)
 - [Every smartphone in LA accidentally received a wildfire evacuation alert](https://techcrunch.com/2025/01/09/every-smartphone-in-la-accidentally-received-a-wildfire-evacuation-alert/)
 - [This security system shoots paintballs at intruders](https://techcrunch.com/2025/01/09/this-security-system-shoots-paintballs-at-intruders/)
-- [Tesla launches new-look Model Y in China](https://techcrunch.com/2025/01/09/tesla-launches-new-look-model-y-in-china/)
-- [Hippocratic AI raises $141M for creating patient-facing AI agents](https://techcrunch.com/2025/01/09/hippocratic-ai-raises-141m-for-creating-patient-facing-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
