@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Dune: Prophecy&#39; showrunner and Harkonnen stars dissect a stellar first season &lpar;exclusive&rpar;](https://www.space.com/entertainment/dune-prophecy-showrunner-and-harkonnen-stars-dissect-a-stellar-first-season-exclusive)
 - [What time is SpaceX&#39;s Starship Flight 7 launch test on Jan. 13?](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-7-launch-what-time)
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
 - [This Week In Space podcast: Episode 143 —King Starship](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-143-king-starship)
 - [How to see a &#39;planet parade&#39; of 4 bright planets in January&#39;s night sky &lpar;video&rpar;](https://www.space.com/stargazing/how-to-see-a-planet-parade-of-4-bright-planets-in-january-night-sky-video)
-- [Snappy aquires swag-gifting startup Covver as it seks to roll-up players](https://techcrunch.com/2025/01/10/snappy-aquires-swag-gifting-startup-covver-as-it-seks-to-roll-up-players/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
