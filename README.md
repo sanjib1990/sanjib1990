@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is SpaceX&#39;s Starship Flight 7 launch test on Jan. 13?](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-7-launch-what-time)
+- [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/01/11/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
 - [This Week In Space podcast: Episode 143 —King Starship](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-this-week-in-space-podcast-episode-143-king-starship)
 - [How to see a &#39;planet parade&#39; of 4 bright planets in January&#39;s night sky &lpar;video&rpar;](https://www.space.com/stargazing/how-to-see-a-planet-parade-of-4-bright-planets-in-january-night-sky-video)
-- [SpaceX assembles the world&#39;s largest rocket for Starship Flight 7 test launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-assembles-the-worlds-largest-rocket-for-starship-flight-7-test-launch-photos)
-- [Devastation of raging Los Angeles fires visible from space in satellite images](https://www.space.com/the-universe/climate-change/images-from-space-show-devastation-of-raging-los-angeles-fires)
-- [NASA&#39;s Jet Propulsion Lab still &#39;untouched&#39; by raging LA fires](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-still-untouched-by-raging-la-fires)
+- [Snappy aquires swag-gifting startup Covver as it seks to roll-up players](https://techcrunch.com/2025/01/10/snappy-aquires-swag-gifting-startup-covver-as-it-seks-to-roll-up-players/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
