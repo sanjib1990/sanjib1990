@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s behind ballooning video game budgets?](https://techcrunch.com/2025/01/11/whats-behind-ballooning-video-game-budgets/)
 - [Everything you missed at CES 2025](https://techcrunch.com/2025/01/11/everything-you-missed-at-ces-2025/)
 - [Ruko U11MINI drone review](https://www.space.com/space-exploration/tech/ruko-u11-mini-drone-review)
 - [I got soaked driving the Arc Sport electric boat](https://techcrunch.com/2025/01/11/i-got-soaked-driving-the-arc-sport-electric-boat/)
 - [Matt Mullenweg deactivates WordPress accounts of contributors planning a fork](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/)
-- [&#39;Dune: Prophecy&#39; showrunner and Harkonnen stars dissect a stellar first season &lpar;exclusive&rpar;](https://www.space.com/entertainment/dune-prophecy-showrunner-and-harkonnen-stars-dissect-a-stellar-first-season-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
