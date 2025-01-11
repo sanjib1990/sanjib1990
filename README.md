@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snappy aquires swag-gifting startup Covver as it seks to roll-up players](https://techcrunch.com/2025/01/10/snappy-aquires-swag-gifting-startup-covver-as-it-seks-to-roll-up-players/)
 - [Microsoft accuses group of developing tool to abuse its AI service in new lawsuit](https://techcrunch.com/2025/01/10/microsoft-accuses-group-of-developing-tool-to-abuse-its-ai-service-in-new-lawsuit/)
 - [Mark Zuckerberg defends Meta’s latest pivot in three-hour Joe Rogan interview](https://techcrunch.com/2025/01/10/mark-zuckerberg-defends-metas-latest-pivot-in-three-hour-joe-rogan-interview/)
 - [SpaceX assembles the world&#39;s largest rocket for Starship Flight 7 test launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-assembles-the-worlds-largest-rocket-for-starship-flight-7-test-launch-photos)
 - [Devastation of raging Los Angeles fires visible from space in satellite images](https://www.space.com/the-universe/climate-change/images-from-space-show-devastation-of-raging-los-angeles-fires)
-- [NASA&#39;s Jet Propulsion Lab still &#39;untouched&#39; by raging LA fires](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-still-untouched-by-raging-la-fires)
 <!-- BLOG-POST-LIST:END -->
 
 ---
