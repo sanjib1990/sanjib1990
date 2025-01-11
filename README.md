@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft accuses group of developing tool to abuse its AI service in new lawsuit](https://techcrunch.com/2025/01/10/microsoft-accuses-group-of-developing-tool-to-abuse-its-ai-service-in-new-lawsuit/)
+- [Mark Zuckerberg defends Meta’s latest pivot in three-hour Joe Rogan interview](https://techcrunch.com/2025/01/10/mark-zuckerberg-defends-metas-latest-pivot-in-three-hour-joe-rogan-interview/)
+- [SpaceX assembles the world&#39;s largest rocket for Starship Flight 7 test launch &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-assembles-the-worlds-largest-rocket-for-starship-flight-7-test-launch-photos)
 - [Images from space show devastation of raging Los Angeles fires](https://www.space.com/the-universe/climate-change/images-from-space-show-devastation-of-raging-los-angeles-fires)
 - [NASA&#39;s Jet Propulsion Lab still &#39;untouched&#39; by raging LA fires](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-still-untouched-by-raging-la-fires)
-- [The Full Wolf Moon &#39;eats&#39; Mars on Jan. 13. Here&#39;s how to see it](https://www.space.com/stargazing/the-full-wolf-moon-eats-mars-on-jan-13-heres-how-to-see-it)
-- [These startups are making smarter canes for people with visual impairments](https://techcrunch.com/2025/01/10/these-startups-are-making-smarter-canes-for-people-with-visual-impairments/)
-- [A drone punched a hole into an LA firefighting plane](https://techcrunch.com/2025/01/10/a-drone-punched-a-hole-into-an-la-firefighting-plane/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
