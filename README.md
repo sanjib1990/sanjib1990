@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smart robot helps out astronauts on China&#39;s Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/smart-robot-helps-out-astronauts-on-chinas-tiangong-space-station-video)
 - [Astronomers investigate black hole jets with Event Horizon Telescope](https://www.space.com/the-universe/black-holes/astronomers-investigate-black-hole-jets-with-event-horizon-telescope)
 - [Apple board opposes proposal to abolish DEI programs](https://techcrunch.com/2025/01/11/apple-board-opposes-proposal-to-abolish-dei-programs/)
 - [Researchers open source Sky-T1, a ‘reasoning’ AI model that can be trained for less than $450](https://techcrunch.com/2025/01/11/researchers-open-source-sky-t1-a-reasoning-ai-model-that-can-be-trained-for-less-than-450/)
 - [What’s behind ballooning video game budgets?](https://techcrunch.com/2025/01/11/whats-behind-ballooning-video-game-budgets/)
-- [Everything you missed at CES 2025](https://techcrunch.com/2025/01/11/everything-you-missed-at-ces-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
