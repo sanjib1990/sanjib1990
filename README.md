@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple board opposes proposal to abolish DEI programs](https://techcrunch.com/2025/01/11/apple-board-opposes-proposal-to-abolish-dei-programs/)
 - [Researchers open source Sky-T1, a ‘reasoning’ AI model that can be trained for less than $450](https://techcrunch.com/2025/01/11/researchers-open-source-sky-t1-a-reasoning-ai-model-that-can-be-trained-for-less-than-450/)
 - [What’s behind ballooning video game budgets?](https://techcrunch.com/2025/01/11/whats-behind-ballooning-video-game-budgets/)
 - [Everything you missed at CES 2025](https://techcrunch.com/2025/01/11/everything-you-missed-at-ces-2025/)
 - [Ruko U11MINI drone review](https://www.space.com/space-exploration/tech/ruko-u11-mini-drone-review)
-- [I got soaked driving the Arc Sport electric boat](https://techcrunch.com/2025/01/11/i-got-soaked-driving-the-arc-sport-electric-boat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
