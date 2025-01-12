@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/)
 - [CES 2025: Self-driving cars were everywhere, plus other transportation tech trends](https://techcrunch.com/2025/01/12/ces-2025-self-driving-cars-were-everywhere-plus-other-transportation-tech-trends/)
 - [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/)
 - [Apple may add an iPhone Air to its lineup](https://techcrunch.com/2025/01/12/apple-may-add-an-iphone-air-to-its-lineup/)
 - [How to turn off Apple Intelligence-powered notification summaries](https://techcrunch.com/2025/01/12/how-to-turn-off-apple-intelligence-powered-notification-summaries/)
-- [China test-fires 5 new rocket engines in a single day. But what are they for? &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-test-fires-5-new-rocket-engines-in-a-single-day-but-what-are-they-for-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
