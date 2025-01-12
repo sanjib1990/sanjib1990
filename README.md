@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to turn off Apple Intelligence-powered notification summaries](https://techcrunch.com/2025/01/12/how-to-turn-off-apple-intelligence-powered-notification-summaries/)
+- [China test-fires 5 new rocket engines in a single day. But what are they for? &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/china-test-fires-5-new-rocket-engines-in-a-single-day-but-what-are-they-for-video)
 - [Open source licenses: Everything you need to know](https://techcrunch.com/2025/01/12/open-source-licenses-everything-you-need-to-know/)
 - [SpaceX will launch 2 private lunar landers this week, kicking off busy year for moon missions](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-2-private-lunar-landers-this-week-kicking-off-busy-year-for-moon-missions)
 - [Smart robot helps out astronauts on China&#39;s Tiangong space station &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/smart-robot-helps-out-astronauts-on-chinas-tiangong-space-station-video)
-- [Astronomers investigate black hole jets with Event Horizon Telescope](https://www.space.com/the-universe/black-holes/astronomers-investigate-black-hole-jets-with-event-horizon-telescope)
-- [Apple board opposes proposal to abolish DEI programs](https://techcrunch.com/2025/01/11/apple-board-opposes-proposal-to-abolish-dei-programs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
