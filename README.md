@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Daredevil&#39; white dwarf star could be closest-known object to a weird black hole](https://www.space.com/dead-star-edge-supermassive-black-hole-mystery-x-rays)
-- [Blue Origin delays launch of New Glenn mega-rocket](https://techcrunch.com/2025/01/13/blue-origin-delays-launch-of-new-glenn-mega-rocket/)
-- [Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers](https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/)
-- [eBay acquires Caramel to reduce risk and complexity of online car sales](https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/)
-- [&#39;Silo&#39; Season 2: &#39;The Safeguard&#39; recap: Solo is redeemed and Lukas finds a secret tunnel](https://www.space.com/entertainment/silo-season-2-the-safeguard-recap-solo-is-redeemed-and-lukas-finds-a-secret-tunnel)
+- [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/)
+- [A 24-year-old who exited his first company to Coinbase, raises $3M for his next venture](https://techcrunch.com/2025/01/13/a-24-year-old-who-exited-his-first-company-to-coinbase-raises-3m-for-his-next-venture/)
+- [Clearwater agrees to buy investment management platform Enfusion for $1.5B](https://techcrunch.com/2025/01/13/clearwater-agrees-to-buy-investment-management-platform-enfusion-for-1-5b/)
+- [Biden administration proposes sweeping new restrictions on exporting AI chips](https://techcrunch.com/2025/01/13/biden-administration-proposes-sweeping-new-restrictions-on-exporting-ai-chips/)
+- [Biden admin snubs Tesla’s $100 million big-rig charging funding request — again](https://techcrunch.com/2025/01/13/biden-admin-snubs-teslas-100-million-big-rig-charging-funding-request-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
