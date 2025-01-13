@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CoreWeave’s first international data centers are now live in the UK](https://techcrunch.com/2025/01/13/coreweaves-first-international-data-centers-are-now-live-in-the-uk/)
+- [UK domain giant Nominet confirms cybersecurity incident linked to Ivanti VPN hacks](https://techcrunch.com/2025/01/13/uk-domain-giant-nominet-confirms-cybersecurity-incident-linked-to-ivanti-vpn-hacks/)
+- [More money comes to AI healthcare: Qventus nabs $105M at a $400M+ valuation](https://techcrunch.com/2025/01/13/more-money-comes-to-ai-healthcare-qventus-nabs-105m-at-a-400m-valuation/)
+- [CoreWeave, a $19B AI compute provider, opens its first international data centers in the UK](https://techcrunch.com/2025/01/13/coreweaves-first-international-data-centers-are-now-live-in-the-uk/)
 - [Mastodon announces transition to non-profit structure](https://techcrunch.com/2025/01/13/mastodon-announces-transition-to-non-profit-structure/)
 - [SpaceX launching 21 Starlink satellites from Florida this morning](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-21-starlink-satellites-from-florida-this-morning)
-- [UK throws its hat into the AI fire](https://techcrunch.com/2025/01/13/uk-throws-its-hat-into-the-ai-fire/)
-- [Blue Origin scrubs 1st New Glenn rocket launch due to technical issue](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-scrubs-1st-new-glenn-rocket-launch-due-to-technical-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
