@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A new campaign aims to safeguard social media from billionaires using Bluesky’s underlying tech](https://techcrunch.com/2025/01/13/a-new-campaign-aims-to-safeguard-social-media-from-billionaires-using-blueskys-underlying-tech/)
-- [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/)
-- [A 24-year-old who exited his first company to Coinbase, raises $3M for his next venture](https://techcrunch.com/2025/01/13/a-24-year-old-who-exited-his-first-company-to-coinbase-raises-3m-for-his-next-venture/)
-- [Clearwater agrees to buy investment management platform Enfusion for $1.5B](https://techcrunch.com/2025/01/13/clearwater-agrees-to-buy-investment-management-platform-enfusion-for-1-5b/)
-- [Biden administration proposes sweeping new restrictions on exporting AI chips](https://techcrunch.com/2025/01/13/biden-administration-proposes-sweeping-new-restrictions-on-exporting-ai-chips/)
+- [Total lunar eclipse March 2025: When and where to see the next &#39;Blood Moon&#39; lunar eclipse](https://www.space.com/stargazing/eclipses/total-lunar-eclipse-march-2025-when-and-where-to-see-the-next-blood-moon-lunar-eclipse)
+- [Prince Harry and Meghan Markle are slamming Meta over its fact-checking policy](https://techcrunch.com/2025/01/13/prince-harry-and-meghan-markle-are-slamming-meta-over-its-fact-checking-policy/)
+- [Top New York VC Ben Lerer says more mid-sized VC firms are heading for failure](https://techcrunch.com/2025/01/13/top-new-york-vc-ben-lerer-says-more-mid-sized-vc-firms-are-heading-for-failure/)
+- [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/)
+- [‘Free Our Feeds’ campaign aims to billionaire-proof Bluesky’s tech](https://techcrunch.com/2025/01/13/free-our-feeds-campaign-aims-to-billionaire-proof-blueskys-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
