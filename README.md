@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Daredevil&#39; white dwarf star could be closest-known object to a weird black hole](https://www.space.com/dead-star-edge-supermassive-black-hole-mystery-x-rays)
+- [Blue Origin delays launch of New Glenn mega-rocket](https://techcrunch.com/2025/01/13/blue-origin-delays-launch-of-new-glenn-mega-rocket/)
+- [Moody’s agrees to acquire Cape Analytics, which develops geospatial AI for insurance providers](https://techcrunch.com/2025/01/13/moodys-agrees-to-acquire-cape-analytics-which-develops-geospatial-ai-for-insurance-providers/)
+- [eBay acquires Caramel to reduce risk and complexity of online car sales](https://techcrunch.com/2025/01/13/ebay-acquires-caramel-to-reduce-risk-and-complexity-of-online-car-sales/)
 - [&#39;Silo&#39; Season 2: &#39;The Safeguard&#39; recap: Solo is redeemed and Lukas finds a secret tunnel](https://www.space.com/entertainment/silo-season-2-the-safeguard-recap-solo-is-redeemed-and-lukas-finds-a-secret-tunnel)
-- [Space mysteries: How does the ISS stay in orbit without falling to Earth?](https://www.space.com/space-exploration/international-space-station/space-mysteries-how-does-the-iss-stay-in-orbit-without-falling-to-earth)
-- [Sonos CEO Patrick Spence is leaving following bungled app update](https://techcrunch.com/2025/01/13/sonos-ceo-patrick-spence-is-leaving-following-app-update-disaster/)
-- [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/)
-- [China plans to plant a waving flag on the moon in 2026. Here&#39;s how](https://www.space.com/the-universe/moon/china-plans-to-plant-a-waving-flag-on-the-moon-in-2026-heres-how)
 <!-- BLOG-POST-LIST:END -->
 
 ---
