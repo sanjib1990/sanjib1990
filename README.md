@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A new campaign aims to safeguard social media from billionaires using Bluesky’s underlying tech](https://techcrunch.com/2025/01/13/a-new-campaign-aims-to-safeguard-social-media-from-billionaires-using-blueskys-underlying-tech/)
 - [Raspberry AI raises $24M from a16z to accelerate fashion design](https://techcrunch.com/2025/01/13/raspberry-ai-raises-24m-from-a16z-to-accelerate-fashion-design/)
 - [A 24-year-old who exited his first company to Coinbase, raises $3M for his next venture](https://techcrunch.com/2025/01/13/a-24-year-old-who-exited-his-first-company-to-coinbase-raises-3m-for-his-next-venture/)
 - [Clearwater agrees to buy investment management platform Enfusion for $1.5B](https://techcrunch.com/2025/01/13/clearwater-agrees-to-buy-investment-management-platform-enfusion-for-1-5b/)
 - [Biden administration proposes sweeping new restrictions on exporting AI chips](https://techcrunch.com/2025/01/13/biden-administration-proposes-sweeping-new-restrictions-on-exporting-ai-chips/)
-- [Biden admin snubs Tesla’s $100 million big-rig charging funding request — again](https://techcrunch.com/2025/01/13/biden-admin-snubs-teslas-100-million-big-rig-charging-funding-request-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
