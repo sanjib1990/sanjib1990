@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robinhood agrees to pay $45M in SEC settlement](https://techcrunch.com/2025/01/13/robinhood-agrees-to-pay-45m-in-sec-settlement/)
+- [Microsoft forms new internal dev-focused AI org](https://techcrunch.com/2025/01/13/microsoft-forms-new-internal-dev-focused-ai-org/)
+- [What happened to the flags Apollo astronauts left on the moon?](https://www.space.com/what-happened-to-the-american-flags-on-the-moon)
 - [Scientists turn 3 years&#39; worth of solar flares into audible sound &lpar;video&rpar;](https://www.space.com/the-universe/sun/scientists-turn-3-years-worth-of-solar-flares-into-audible-sound-video)
 - [The CIA’s first CTO, Nand Mulchandani, prepares for the Trump administration](https://techcrunch.com/2025/01/13/the-cias-first-cto-nand-mulchandani-prepares-for-the-trump-administration/)
-- [OpenAI presents its preferred version of AI regulation in a new ‘blueprint’](https://techcrunch.com/2025/01/13/openai-presents-its-preferred-version-of-ai-regulation-in-a-new-blueprint/)
-- [Total lunar eclipse March 2025: When and where to see the next &#39;Blood Moon&#39; lunar eclipse](https://www.space.com/stargazing/eclipses/total-lunar-eclipse-march-2025-when-and-where-to-see-the-next-blood-moon-lunar-eclipse)
-- [Prince Harry and Meghan Markle are slamming Meta over its fact-checking policy](https://techcrunch.com/2025/01/13/prince-harry-and-meghan-markle-are-slamming-meta-over-its-fact-checking-policy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
