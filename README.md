@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CoreWeave’s first international data centers are now live in the UK](https://techcrunch.com/2025/01/13/coreweaves-first-international-data-centers-are-now-live-in-the-uk/)
+- [Mastodon announces transition to non-profit structure](https://techcrunch.com/2025/01/13/mastodon-announces-transition-to-non-profit-structure/)
+- [SpaceX launching 21 Starlink satellites from Florida this morning](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-21-starlink-satellites-from-florida-this-morning)
+- [UK throws its hat into the AI fire](https://techcrunch.com/2025/01/13/uk-throws-its-hat-into-the-ai-fire/)
 - [Blue Origin scrubs 1st New Glenn rocket launch due to technical issue](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-scrubs-1st-new-glenn-rocket-launch-due-to-technical-issue)
-- [Groww, India’s biggest trading app, prepares for IPO](https://techcrunch.com/2025/01/12/groww-indias-biggest-trading-app-prepares-for-ipo/)
-- [UK in-home healthcare provider Cera raises $150M to scale its AI platform](https://techcrunch.com/2025/01/12/uk-in-home-healthcare-provider-cera-raises-150m-to-expand-its-ai-platform/)
-- [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/)
-- [CES 2025: Self-driving cars were everywhere, plus other transportation tech trends](https://techcrunch.com/2025/01/12/ces-2025-self-driving-cars-were-everywhere-plus-other-transportation-tech-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
