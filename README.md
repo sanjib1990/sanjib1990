@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists turn 3 years&#39; worth of solar flares into audible sound &lpar;video&rpar;](https://www.space.com/the-universe/sun/scientists-turn-3-years-worth-of-solar-flares-into-audible-sound-video)
+- [The CIA’s first CTO, Nand Mulchandani, prepares for the Trump administration](https://techcrunch.com/2025/01/13/the-cias-first-cto-nand-mulchandani-prepares-for-the-trump-administration/)
+- [OpenAI presents its preferred version of AI regulation in a new ‘blueprint’](https://techcrunch.com/2025/01/13/openai-presents-its-preferred-version-of-ai-regulation-in-a-new-blueprint/)
 - [Total lunar eclipse March 2025: When and where to see the next &#39;Blood Moon&#39; lunar eclipse](https://www.space.com/stargazing/eclipses/total-lunar-eclipse-march-2025-when-and-where-to-see-the-next-blood-moon-lunar-eclipse)
 - [Prince Harry and Meghan Markle are slamming Meta over its fact-checking policy](https://techcrunch.com/2025/01/13/prince-harry-and-meghan-markle-are-slamming-meta-over-its-fact-checking-policy/)
-- [Top New York VC Ben Lerer says more mid-sized VC firms are heading for failure](https://techcrunch.com/2025/01/13/top-new-york-vc-ben-lerer-says-more-mid-sized-vc-firms-are-heading-for-failure/)
-- [The first AI chip startup to go public in 2025 will be Blaize](https://techcrunch.com/2025/01/13/the-first-ai-chip-startup-to-go-public-in-2025-will-be-blaize/)
-- [‘Free Our Feeds’ campaign aims to billionaire-proof Bluesky’s tech](https://techcrunch.com/2025/01/13/free-our-feeds-campaign-aims-to-billionaire-proof-blueskys-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
