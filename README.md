@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/)
+- [China plans to plant a waving flag on the moon in 2026. Here&#39;s how](https://www.space.com/the-universe/moon/china-plans-to-plant-a-waving-flag-on-the-moon-in-2026-heres-how)
+- [A breach of a data broker’s trove of location data threatens the privacy of millions](https://techcrunch.com/2025/01/13/gravy-analytics-data-broker-breach-trove-of-location-data-threatens-privacy-millions/)
 - [UK domain giant Nominet confirms cybersecurity incident linked to Ivanti VPN hacks](https://techcrunch.com/2025/01/13/uk-domain-giant-nominet-confirms-cybersecurity-incident-linked-to-ivanti-vpn-hacks/)
-- [More money comes to AI healthcare: Qventus nabs $105M at a $400M+ valuation](https://techcrunch.com/2025/01/13/more-money-comes-to-ai-healthcare-qventus-nabs-105m-at-a-400m-valuation/)
-- [CoreWeave, a $19B AI compute provider, opens its first international data centers in the UK](https://techcrunch.com/2025/01/13/coreweaves-first-international-data-centers-are-now-live-in-the-uk/)
-- [Mastodon announces transition to non-profit structure](https://techcrunch.com/2025/01/13/mastodon-announces-transition-to-non-profit-structure/)
-- [SpaceX launching 21 Starlink satellites from Florida this morning](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-21-starlink-satellites-from-florida-this-morning)
+- [More money comes to AI healthcare: Qventus nabs $105M at $400M+ valuation](https://techcrunch.com/2025/01/13/more-money-comes-to-ai-healthcare-qventus-nabs-105m-at-a-400m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
