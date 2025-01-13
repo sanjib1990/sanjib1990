@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin scrubs 1st New Glenn rocket launch due to technical issue](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-scrubs-1st-new-glenn-rocket-launch-due-to-technical-issue)
 - [Groww, India’s biggest trading app, prepares for IPO](https://techcrunch.com/2025/01/12/groww-indias-biggest-trading-app-prepares-for-ipo/)
 - [UK in-home healthcare provider Cera raises $150M to expand its AI platform](https://techcrunch.com/2025/01/12/uk-in-home-healthcare-provider-cera-raises-150m-to-expand-its-ai-platform/)
 - [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/)
 - [CES 2025: Self-driving cars were everywhere, plus other transportation tech trends](https://techcrunch.com/2025/01/12/ces-2025-self-driving-cars-were-everywhere-plus-other-transportation-tech-trends/)
-- [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
