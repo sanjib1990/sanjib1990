@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Space mysteries: How does the ISS stay in orbit without falling to Earth?](https://www.space.com/space-exploration/international-space-station/space-mysteries-how-does-the-iss-stay-in-orbit-without-falling-to-earth)
+- [Sonos CEO Patrick Spence is leaving following bungled app update](https://techcrunch.com/2025/01/13/sonos-ceo-patrick-spence-is-leaving-following-app-update-disaster/)
 - [Float Financial, which aims to be the Brex of Canada, lands US$48.5M Series B](https://techcrunch.com/2025/01/13/float-financial-which-aims-to-be-the-brex-of-canada-lands-us48-5m-series-b/)
 - [China plans to plant a waving flag on the moon in 2026. Here&#39;s how](https://www.space.com/the-universe/moon/china-plans-to-plant-a-waving-flag-on-the-moon-in-2026-heres-how)
 - [A breach of a data broker’s trove of location data threatens the privacy of millions](https://techcrunch.com/2025/01/13/gravy-analytics-data-broker-breach-trove-of-location-data-threatens-privacy-millions/)
-- [UK domain giant Nominet confirms cybersecurity incident linked to Ivanti VPN hacks](https://techcrunch.com/2025/01/13/uk-domain-giant-nominet-confirms-cybersecurity-incident-linked-to-ivanti-vpn-hacks/)
-- [More money comes to AI healthcare: Qventus nabs $105M at $400M+ valuation](https://techcrunch.com/2025/01/13/more-money-comes-to-ai-healthcare-qventus-nabs-105m-at-a-400m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
