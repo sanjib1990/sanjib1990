@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK in-home healthcare provider Cera raises $150M to expand its AI platform](https://techcrunch.com/2025/01/12/uk-in-home-healthcare-provider-cera-raises-150m-to-expand-its-ai-platform/)
 - [Watch Duty was downloaded 2 million times during this week’s LA fires](https://techcrunch.com/2025/01/12/watch-duty-was-downloaded-2-million-times-during-this-weeks-la-fires/)
 - [CES 2025: Self-driving cars were everywhere, plus other transportation tech trends](https://techcrunch.com/2025/01/12/ces-2025-self-driving-cars-were-everywhere-plus-other-transportation-tech-trends/)
 - [Here are the five best pieces of founder advice I learned as a host of Found](https://techcrunch.com/2025/01/12/heres-the-five-best-pieces-of-founder-advice-i-learned-as-a-host-of-found/)
 - [Apple may add an iPhone Air to its lineup](https://techcrunch.com/2025/01/12/apple-may-add-an-iphone-air-to-its-lineup/)
-- [How to turn off Apple Intelligence-powered notification summaries](https://techcrunch.com/2025/01/12/how-to-turn-off-apple-intelligence-powered-notification-summaries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
