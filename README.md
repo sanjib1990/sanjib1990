@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nocs Provisions 8X32 Field Tube monocular review](https://www.space.com/stargazing/astronomy-kit/nocs-provisions-8x32-field-tube-monocular-review)
+- [OpenAI appoints BlackRock exec to its board](https://techcrunch.com/2025/01/14/openai-appoints-blackrock-exec-to-its-board/)
+- [Substack rolls out livestreaming for all publishers](https://techcrunch.com/2025/01/14/substack-rolls-out-livestreaming-for-all-publishers/)
+- [TikTok users’ attempted migration to Chinese app RedNote isn’t going too well](https://techcrunch.com/2025/01/14/tiktok-users-attempted-migration-to-chinese-app-rednote-isnt-going-too-well/)
 - [Feeding supermassive black holes are more common than thought across the universe](https://www.space.com/Ravenously-feeding-supermassive-black-holes-hiding-early-universe)
-- [CBRE buys remainder of co-working company Industrious at an $800M valuation](https://techcrunch.com/2025/01/14/cbre-buys-remainder-of-co-working-company-industrious-at-an-800m-valuation/)
-- [Biden administration opens up federal land to AI data centers](https://techcrunch.com/2025/01/14/biden-administration-opens-up-federal-land-to-ai-data-centers/)
-- [Why some former Bench customers are not happy](https://techcrunch.com/2025/01/14/why-some-former-bench-customers-are-not-happy/)
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
