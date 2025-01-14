@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/)
-- [Decentralized Instagram alternative Pixelfed launches mobile apps](https://techcrunch.com/2025/01/14/decentralized-instagram-alternative-pixelfed-launches-mobile-apps/)
-- [Mysterious spiral galaxy jet puzzles astronomers: &#39;At first, I thought I completely messed up&#39;](https://www.space.com/space-exploration/hubble-space-telescope/mysterious-spiral-galaxy-jet-puzzles-astronomers-at-first-i-thought-i-completely-messed-up)
-- [Massachusetts senator seeks to extend deadline for TikTok ban](https://techcrunch.com/2025/01/14/massachusetts-senator-seeks-to-extend-deadline-for-tiktok-ban/)
-- [OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/)
+- [OpenAI quietly revises policy doc to remove reference to ‘politically unbiased’ AI](https://techcrunch.com/2025/01/14/openai-quietly-revises-policy-doc-to-remove-reference-to-politically-unbiased-ai/)
+- [James Webb Space Telescope discovers one of the earliest &#39;truly gargantuan&#39; supernovas ever seen](https://www.space.com/James-Webb-Space-Telescope-earliest-distant-supernova)
+- [With $30 million in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/)
+- [Data center power demand will double over the next five years](https://techcrunch.com/2025/01/14/data-center-power-demand-will-double-over-the-next-five-years/)
+- [Aurora takes feds to court over safety rules as it nears self-driving truck launch](https://techcrunch.com/2025/01/14/aurora-takes-feds-to-court-over-safety-rules-as-it-nears-self-driving-truck-launch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
