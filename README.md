@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Little house on the &lpar;moon&rpar; prairie: Artist&#39;s &#39;Moonhouse&#39; set to lift off on  lunar lander](https://www.space.com/moonhouse-artwork-mikael-genberg-ispace)
+- [Biden admin’s final rule banning Chinese connected cars also bars robotaxi testing on U.S. roads](https://techcrunch.com/2025/01/14/biden-admins-final-rule-banning-chinese-connected-cars-also-bars-robotaxi-testing-on-u-s-roads/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/01/14/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [Nintendo Switch 2 could be announced this week: The rumors &lpar;and facts&rpar; so far](https://techcrunch.com/2025/01/14/nintendo-switch-2-could-be-announced-this-week-the-rumors-and-facts-so-far/)
 - [Intel spins off its corporate venture arm, Intel Capital, into a standalone fund](https://techcrunch.com/2025/01/14/intel-spins-off-its-corporate-venture-arm-intel-capital-into-a-standalone-fund/)
-- [Here&#39;s what NASA is sending to the moon on Firefly Aerospace&#39;s Blue Ghost lunar lander](https://www.space.com/space-exploration/launches-spacecraft/heres-what-nasa-is-sending-to-the-moon-on-firefly-aerospaces-blue-ghost-lunar-lander)
-- [Meta execs obsessed over beating OpenAI’s GPT-4 internally, court filings reveal](https://techcrunch.com/2025/01/14/meta-execs-obsessed-over-beating-openais-gpt-4-internally-court-filings-reveal/)
-- [Hackers are exploiting a new Fortinet firewall bug to breach company networks](https://techcrunch.com/2025/01/14/hackers-are-exploiting-a-new-fortinet-firewall-bug-to-breach-company-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
