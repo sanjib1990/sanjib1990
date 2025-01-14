@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubin Observatory aces 1st image tests, gets ready to use world&#39;s largest digital camera](https://www.space.com/the-universe/vera-rubin-observatory-aces-1st-camera-tests-in-chile-atacama-desert-photo)
-- [What&#39;s flying to the moon on ispace&#39;s Resilience lunar lander?](https://www.space.com/space-exploration/launches-spacecraft/whats-flying-to-the-moon-on-ispaces-resilience-lunar-lander)
-- [Google’s NotebookLM had to teach its AI podcast hosts not to act annoyed at humans](https://techcrunch.com/2025/01/14/googles-notebooklm-had-to-teach-its-ai-podcast-hosts-not-to-act-annoyed-at-humans/)
-- [Flights delayed by SpaceX’s falling rocket debris](https://techcrunch.com/2025/01/14/flights-delayed-by-spacexs-falling-rocket-debris/)
-- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/)
+- [Nintendo Switch 2 could be announced this week: The rumors &lpar;and facts&rpar; so far](https://techcrunch.com/2025/01/14/nintendo-switch-2-could-be-announced-this-week-the-rumors-and-facts-so-far/)
+- [Intel spins off its corporate venture arm, Intel Capital, into a standalone fund](https://techcrunch.com/2025/01/14/intel-spins-off-its-corporate-venture-arm-intel-capital-into-a-standalone-fund/)
+- [Here&#39;s what NASA is sending to the moon on Firefly Aerospace&#39;s Blue Ghost lunar lander](https://www.space.com/space-exploration/launches-spacecraft/heres-what-nasa-is-sending-to-the-moon-on-firefly-aerospaces-blue-ghost-lunar-lander)
+- [Meta execs obsessed over beating OpenAI’s GPT-4 internally, court filings reveal](https://techcrunch.com/2025/01/14/meta-execs-obsessed-over-beating-openais-gpt-4-internally-court-filings-reveal/)
+- [Hackers are exploiting a new Fortinet firewall bug to breach company networks](https://techcrunch.com/2025/01/14/hackers-are-exploiting-a-new-fortinet-firewall-bug-to-breach-company-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
