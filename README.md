@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As TikTok faces a US shutdown, here are some alternative apps to check out](https://techcrunch.com/2025/01/13/tiktok-ban-alternatives-youtube-shorts-reddit-others/)
 - [Robinhood agrees to pay $45M in SEC settlement](https://techcrunch.com/2025/01/13/robinhood-agrees-to-pay-45m-in-sec-settlement/)
 - [Microsoft forms new internal dev-focused AI org](https://techcrunch.com/2025/01/13/microsoft-forms-new-internal-dev-focused-ai-org/)
 - [What happened to the flags Apollo astronauts left on the moon?](https://www.space.com/what-happened-to-the-american-flags-on-the-moon)
 - [Scientists turn 3 years&#39; worth of solar flares into audible sound &lpar;video&rpar;](https://www.space.com/the-universe/sun/scientists-turn-3-years-worth-of-solar-flares-into-audible-sound-video)
-- [The CIA’s first CTO, Nand Mulchandani, prepares for the Trump administration](https://techcrunch.com/2025/01/13/the-cias-first-cto-nand-mulchandani-prepares-for-the-trump-administration/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
