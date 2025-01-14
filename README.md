@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nocs Provisions 8X32 Field Tube monocular review](https://www.space.com/stargazing/astronomy-kit/nocs-provisions-8x32-field-tube-monocular-review)
-- [OpenAI appoints BlackRock exec to its board](https://techcrunch.com/2025/01/14/openai-appoints-blackrock-exec-to-its-board/)
-- [Substack rolls out livestreaming for all publishers](https://techcrunch.com/2025/01/14/substack-rolls-out-livestreaming-for-all-publishers/)
-- [TikTok users’ attempted migration to Chinese app RedNote isn’t going too well](https://techcrunch.com/2025/01/14/tiktok-users-attempted-migration-to-chinese-app-rednote-isnt-going-too-well/)
-- [Feeding supermassive black holes are more common than thought across the universe](https://www.space.com/Ravenously-feeding-supermassive-black-holes-hiding-early-universe)
+- [Rubin Observatory aces 1st image tests, gets ready to use world&#39;s largest digital camera](https://www.space.com/the-universe/vera-rubin-observatory-aces-1st-camera-tests-in-chile-atacama-desert-photo)
+- [What&#39;s flying to the moon on ispace&#39;s Resilience lunar lander?](https://www.space.com/space-exploration/launches-spacecraft/whats-flying-to-the-moon-on-ispaces-resilience-lunar-lander)
+- [Google’s NotebookLM had to teach its AI podcast hosts not to act annoyed at humans](https://techcrunch.com/2025/01/14/googles-notebooklm-had-to-teach-its-ai-podcast-hosts-not-to-act-annoyed-at-humans/)
+- [Flights delayed by SpaceX’s falling rocket debris](https://techcrunch.com/2025/01/14/flights-delayed-by-spacexs-falling-rocket-debris/)
+- [Google-backed Pixxel launches India’s first private satellite constellation](https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
