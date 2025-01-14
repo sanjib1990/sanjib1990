@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s CMA slaps Google Search and its 90%+ market share with an antitrust investigation](https://techcrunch.com/2025/01/14/uks-cma-slaps-google-search-and-its-90-market-share-with-an-antitrust-investigation/)
+- [SpaceX to launch 131 satellites on Transporter 12 rideshare mission today](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-131-satellites-on-transporter-12-rideshare-mission-today)
+- [Bioptimus raises $41M to develop a ‘GPT for biology’](https://techcrunch.com/2025/01/14/bioptimus-raises-41m-to-develop-a-gpt-for-biology/)
 - [LemFi moves remittances further into Asia and Europe with $53M in new funding](https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/)
 - [How Barcelona became an unlikely hub for spyware startups](https://techcrunch.com/2025/01/13/how-barcelona-became-an-unlikely-hub-for-spyware-startups/)
-- [China is reportedly open to Elon Musk acquiring TikTok US](https://techcrunch.com/2025/01/13/china-is-reportedly-open-to-elon-musk-acquiring-tiktok-us/)
-- [As TikTok faces a US shutdown, here are some alternative apps to check out](https://techcrunch.com/2025/01/13/tiktok-ban-alternatives-youtube-shorts-reddit-others/)
-- [Robinhood agrees to pay $45M in SEC settlement](https://techcrunch.com/2025/01/13/robinhood-agrees-to-pay-45m-in-sec-settlement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
