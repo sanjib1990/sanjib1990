@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EV startup Harbinger’s obsession with simplicity fuels $100M Series B](https://techcrunch.com/2025/01/14/ev-startup-harbingers-obsession-with-simplicity-fuels-100m-series-b/)
+- [Decentralized Instagram alternative Pixelfed launches mobile apps](https://techcrunch.com/2025/01/14/decentralized-instagram-alternative-pixelfed-launches-mobile-apps/)
+- [Mysterious spiral galaxy jet puzzles astronomers: &#39;At first, I thought I completely messed up&#39;](https://www.space.com/space-exploration/hubble-space-telescope/mysterious-spiral-galaxy-jet-puzzles-astronomers-at-first-i-thought-i-completely-messed-up)
+- [Massachusetts senator seeks to extend deadline for TikTok ban](https://techcrunch.com/2025/01/14/massachusetts-senator-seeks-to-extend-deadline-for-tiktok-ban/)
 - [OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/)
-- [Boardy AI raises $8M seed round months after closing pre-seed](https://techcrunch.com/2025/01/14/boardy-ai-raises-8m-seed-round-months-after-closing-pre-seed/)
-- [Dark matter may have caused a baffling break in this star stream](https://www.space.com/self-interacting-dark-matter-milky-way-stellar-stream)
-- [Panasonic Lumix S5IIx review](https://www.space.com/stargazing/astronomy-kit/panasonic-lumix-s5iix-review)
-- [Kayak founder returns with Steppin, an app that locks you out of social media until you go for a walk](https://techcrunch.com/2025/01/14/kayak-founder-returns-with-steppin-an-app-that-locks-you-out-of-social-media-until-you-go-for-a-walk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
