@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Barcelona became an unlikely hub for spyware startups](https://techcrunch.com/2025/01/13/how-barcelona-became-an-unlikely-hub-for-spyware-startups/)
 - [China is reportedly open to Elon Musk acquiring TikTok US](https://techcrunch.com/2025/01/13/china-is-reportedly-open-to-elon-musk-acquiring-tiktok-us/)
 - [As TikTok faces a US shutdown, here are some alternative apps to check out](https://techcrunch.com/2025/01/13/tiktok-ban-alternatives-youtube-shorts-reddit-others/)
 - [Robinhood agrees to pay $45M in SEC settlement](https://techcrunch.com/2025/01/13/robinhood-agrees-to-pay-45m-in-sec-settlement/)
 - [Microsoft forms new internal dev-focused AI org](https://techcrunch.com/2025/01/13/microsoft-forms-new-internal-dev-focused-ai-org/)
-- [What happened to the flags Apollo astronauts left on the moon?](https://www.space.com/what-happened-to-the-american-flags-on-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
