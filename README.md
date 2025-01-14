@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feeding supermassive black holes are more common than thought across the universe](https://www.space.com/Ravenously-feeding-supermassive-black-holes-hiding-early-universe)
+- [CBRE buys remainder of co-working company Industrious at an $800M valuation](https://techcrunch.com/2025/01/14/cbre-buys-remainder-of-co-working-company-industrious-at-an-800m-valuation/)
+- [Biden administration opens up federal land to AI data centers](https://techcrunch.com/2025/01/14/biden-administration-opens-up-federal-land-to-ai-data-centers/)
 - [Why some former Bench customers are not happy](https://techcrunch.com/2025/01/14/why-some-former-bench-customers-are-not-happy/)
-- [ChatGPT now lets you schedule reminders and recurring tasks](https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/)
-- [Watch SpaceX launch 2 private moon landers on a single rocket early Jan. 15](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-2-private-moon-landers-on-a-single-rocket-early-jan-15)
-- [Meta to cut roughly 5% of its workforce based on performance](https://techcrunch.com/2025/01/14/meta-to-cut-roughly-5-of-its-workforce-based-on-performance/)
-- [Apple joins consortium to help develop next-gen AI data center tech](https://techcrunch.com/2025/01/14/apple-joins-consortium-to-help-develop-next-gen-ai-data-center-tech/)
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/01/14/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
