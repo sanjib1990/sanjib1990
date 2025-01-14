@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Powerset gives founders $1 million to invest in other startups](https://techcrunch.com/2025/01/14/powerset-gives-founders-1-million-to-invest-in-other-startups/)
-- [Blue Ghost moon lander will help NASA see Earth&#39;s magnetic field &#39;breathing&#39; for 1st time](https://www.space.com/space-exploration/launches-spacecraft/blue-ghost-moon-lander-will-help-nasa-see-earths-magnetic-field-breathing-for-1st-time)
-- [North Korea stole over $659M in crypto heists during 2024, deploys fake job seekers](https://techcrunch.com/2025/01/14/north-korea-stole-over-659m-in-crypto-heists-during-2024-deploys-fake-job-seekers/)
-- [UK plans to ban public sector organizations from paying ransomware hackers](https://techcrunch.com/2025/01/14/uk-plans-to-ban-public-sector-organizations-from-paying-ransomware-hackers/)
-- [Los Angeles fires leave NASA&#39;s Deep Space Network mission control empty for 1st time in 60 years](https://www.space.com/the-universe/los-angeles-fires-leave-nasa-deep-space-network-mission-control-empty-for-1st-time-in-60-years)
+- [OpenAI’s AI reasoning model ‘thinks’ in Chinese sometimes and no one really knows why](https://techcrunch.com/2025/01/14/openais-ai-reasoning-model-thinks-in-chinese-sometimes-and-no-one-really-knows-why/)
+- [Boardy AI raises $8M seed round months after closing pre-seed](https://techcrunch.com/2025/01/14/boardy-ai-raises-8m-seed-round-months-after-closing-pre-seed/)
+- [Dark matter may have caused a baffling break in this star stream](https://www.space.com/self-interacting-dark-matter-milky-way-stellar-stream)
+- [Panasonic Lumix S5IIx review](https://www.space.com/stargazing/astronomy-kit/panasonic-lumix-s5iix-review)
+- [Kayak founder returns with Steppin, an app that locks you out of social media until you go for a walk](https://techcrunch.com/2025/01/14/kayak-founder-returns-with-steppin-an-app-that-locks-you-out-of-social-media-until-you-go-for-a-walk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
