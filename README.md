@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK plans to ban public sector organizations from paying ransomware hackers](https://techcrunch.com/2025/01/14/uk-plans-to-ban-public-sector-organizations-from-paying-ransomware-hackers/)
+- [Los Angeles fires leave NASA&#39;s Deep Space Network mission control empty for 1st time in 60 years](https://www.space.com/the-universe/los-angeles-fires-leave-nasa-deep-space-network-mission-control-empty-for-1st-time-in-60-years)
 - [Venture funding remains stable in France thanks to AI startups](https://techcrunch.com/2025/01/14/venture-funding-remains-stable-in-france-thanks-to-ai-startups/)
 - [UK’s CMA slaps Google Search and its 90%+ market share with an antitrust investigation](https://techcrunch.com/2025/01/14/uks-cma-slaps-google-search-and-its-90-market-share-with-an-antitrust-investigation/)
 - [SpaceX to launch 131 satellites on Transporter 12 rideshare mission today](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-131-satellites-on-transporter-12-rideshare-mission-today)
-- [Bioptimus raises $41M to develop a ‘GPT for biology’](https://techcrunch.com/2025/01/14/bioptimus-raises-41m-to-develop-a-gpt-for-biology/)
-- [LemFi moves remittances further into Asia and Europe with $53M in new funding](https://techcrunch.com/2025/01/13/lemfi-moves-remittances-further-into-asia-and-europe-with-53m-in-new-funding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
