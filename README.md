@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI quietly revises policy doc to remove reference to ‘politically unbiased’ AI](https://techcrunch.com/2025/01/14/openai-quietly-revises-policy-doc-to-remove-reference-to-politically-unbiased-ai/)
-- [James Webb Space Telescope discovers one of the earliest &#39;truly gargantuan&#39; supernovas ever seen](https://www.space.com/James-Webb-Space-Telescope-earliest-distant-supernova)
-- [With $30 million in new funding, SEEQC thinks chips are key to building useful quantum computing](https://techcrunch.com/2025/01/14/with-30-million-in-new-funding-seeqc-thinks-chips-are-key-to-building-useful-quantum-computing/)
-- [Data center power demand will double over the next five years](https://techcrunch.com/2025/01/14/data-center-power-demand-will-double-over-the-next-five-years/)
-- [Aurora takes feds to court over safety rules as it nears self-driving truck launch](https://techcrunch.com/2025/01/14/aurora-takes-feds-to-court-over-safety-rules-as-it-nears-self-driving-truck-launch/)
+- [Why some former Bench customers are not happy](https://techcrunch.com/2025/01/14/why-some-former-bench-customers-are-not-happy/)
+- [ChatGPT now lets you schedule reminders and recurring tasks](https://techcrunch.com/2025/01/14/chatgpt-now-lets-you-schedule-reminders-and-recurring-tasks/)
+- [Watch SpaceX launch 2 private moon landers on a single rocket early Jan. 15](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-2-private-moon-landers-on-a-single-rocket-early-jan-15)
+- [Meta to cut roughly 5% of its workforce based on performance](https://techcrunch.com/2025/01/14/meta-to-cut-roughly-5-of-its-workforce-based-on-performance/)
+- [Apple joins consortium to help develop next-gen AI data center tech](https://techcrunch.com/2025/01/14/apple-joins-consortium-to-help-develop-next-gen-ai-data-center-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
