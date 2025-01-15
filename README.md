@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel doubles down on Sarla Aviation’s ambition to develop electric air taxis in India](https://techcrunch.com/2025/01/14/accel-doubles-down-on-sarla-aviations-ambition-to-develop-electric-air-taxis-in-india/)
+- [Elon Musk tweets so much, people bet over $1M weekly to guess how many posts](https://techcrunch.com/2025/01/14/elon-musk-tweets-so-much-people-bet-over-1m-weekly-to-guess-how-many-posts/)
 - [Little house on the &lpar;moon&rpar; prairie: Artist&#39;s &#39;Moonhouse&#39; set to lift off on  lunar lander](https://www.space.com/moonhouse-artwork-mikael-genberg-ispace)
 - [Biden admin’s final rule banning Chinese connected cars also bars robotaxi testing on U.S. roads](https://techcrunch.com/2025/01/14/biden-admins-final-rule-banning-chinese-connected-cars-also-bars-robotaxi-testing-on-u-s-roads/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/01/14/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Nintendo Switch 2 could be announced this week: The rumors &lpar;and facts&rpar; so far](https://techcrunch.com/2025/01/14/nintendo-switch-2-could-be-announced-this-week-the-rumors-and-facts-so-far/)
-- [Intel spins off its corporate venture arm, Intel Capital, into a standalone fund](https://techcrunch.com/2025/01/14/intel-spins-off-its-corporate-venture-arm-intel-capital-into-a-standalone-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
