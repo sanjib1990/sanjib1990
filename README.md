@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope sees little red dots feeding black holes: &#39;This is how you solve a universe-breaking problem&#39;](https://www.space.com/james-webb-space-telescope-little-red-dots-galaxies-black-hole-growth)
+- [Google inks deal with The Associated Press to bring more real-time info to Gemini](https://techcrunch.com/2025/01/15/google-inks-deal-with-the-associated-press-to-bring-more-real-time-info-to-gemini/)
 - [Uncanny &#39;Alien: Romulus&#39; Ian Holm CGI fixed for home release as director &#39;wasn&#39;t 100 percent happy&#39;](https://www.space.com/entertainment/uncanny-alien-romulus-ian-holm-cgi-fixed-for-home-release-as-director-wasnt-100-percent-happy)
 - [Goodnight, Gaia! ESA spacecraft shuts down after 12 years of Milky Way mapping](https://www.space.com/goodnight-gaia-star-tracking-spacecraft-shuts-down-jan152025)
 - [Google raises the price of Workspace plans, includes its AI features for free](https://techcrunch.com/2025/01/15/google-raises-the-price-of-workspace-plans-making-its-ai-features-included-for-free/)
-- [Colossal Biosciences raises $200M at $10.2B valuation to bring back woolly mammoths](https://techcrunch.com/2025/01/15/colossal-biosciences-raises-200m-at-10-2b-valuation-to-bring-back-woolly-mammoths/)
-- [As Gen Z job applicants balloon, companies are turning to AI agent recruiters](https://techcrunch.com/2025/01/15/as-gen-z-job-applicants-balloon-companies-are-turning-to-ai-agent-recruiters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
