@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Battlestar Galactica at 20: the show that reinvented space opera](https://www.space.com/entertainment/space-movies-shows/battlestar-galactica-at-20-the-show-that-reinvented-space-opera)
-- [TikTok owner ByteDance powered an e-reader’s unhinged AI assistant](https://techcrunch.com/2025/01/15/tiktok-owner-bytedance-powered-an-e-readers-unhinged-ai-assistant/)
-- [OpenAI is bankrolling Axios’ expansion into four new markets](https://techcrunch.com/2025/01/15/openai-is-bankrolling-axios-expansion-into-four-new-markets/)
-- [The 7 best total solar eclipses of the next 10 years](https://www.space.com/stargazing/eclipses/top-solar-eclipses-next-decade)
-- [Tesla to split $100M award for electric truck charging corridor in Illinois](https://techcrunch.com/2025/01/15/tesla-to-split-100m-award-for-electric-truck-charging-corridor-in-illinois/)
+- [Duolingo sees 216% spike in U.S. users learning Chinese amid TikTok ban and move to RedNote](https://techcrunch.com/2025/01/15/duolingo-sees-216-spike-in-u-s-users-learning-chinese-amid-tiktok-ban-and-move-to-rednote/)
+- [Space Mountain at 50: Five nods to NASA from the Walt Disney World ride](https://www.space.com/space-mountain-50th-disney-world-nasa-astronauts)
+- [Meta adds 200 megawatts of solar to its 12 gigawatt renewable portfolio](https://techcrunch.com/2025/01/15/meta-adds-200-megawatts-of-solar-to-its-12-gigawatt-renewable-portfolio/)
+- [These tech companies are donating to LA wildfire relief efforts](https://techcrunch.com/2025/01/15/these-tech-companies-are-donating-to-la-wildfire-relief-efforts/)
+- [Loft Orbital lands a fresh $170 million after logging over $500 million of bookings](https://techcrunch.com/2025/01/15/loft-orbital-lands-a-fresh-170-million-after-logging-over-500-million-of-bookings/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
