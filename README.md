@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nelly raises $51 million to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/)
 - [SEC sues Elon Musk for allegedly failing to disclose Twitter acquisition on time](https://techcrunch.com/2025/01/14/sec-sues-elon-musk-for-allegedly-failing-to-disclose-twitter-acquisition-on-time/)
 - [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/)
 - [Accel doubles down on Sarla Aviation’s ambition to develop electric air taxis in India](https://techcrunch.com/2025/01/14/accel-doubles-down-on-sarla-aviations-ambition-to-develop-electric-air-taxis-in-india/)
 - [Elon Musk tweets so much, people bet over $1M weekly to guess how many posts](https://techcrunch.com/2025/01/14/elon-musk-tweets-so-much-people-bet-over-1m-weekly-to-guess-how-many-posts/)
-- [Little house on the &lpar;moon&rpar; prairie: Artist&#39;s &#39;Moonhouse&#39; set to lift off on  lunar lander](https://www.space.com/moonhouse-artwork-mikael-genberg-ispace)
 <!-- BLOG-POST-LIST:END -->
 
 ---
