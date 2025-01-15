@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank veteran hunts for profits in payments infrastructure plumbing](https://techcrunch.com/2025/01/15/akshay-naheta-distributed-technologies-research/)
+- [SpaceX launching Starship Flight 7 today: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-starship-flight-7-today-watch-it-live)
+- [Creator of Gas and tbh makes an app for disappearing photos via iMessage](https://techcrunch.com/2025/01/15/creator-of-gas-and-tbh-makes-an-app-for-disappearing-photos-via-imessage/)
 - [Synthesia snaps up $180M at a $2.1B valuation for its B2B AI video platform](https://techcrunch.com/2025/01/14/synthesia-snaps-up-180m-on-a-2-1b-valuation-for-its-b2b-ai-video-platform/)
 - [SpaceX launches 2 private lunar landers to the moon &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2-private-lunar-landers-to-the-moon-photos)
-- [Nelly raises $51 million to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/)
-- [SEC sues Elon Musk for allegedly failing to disclose Twitter acquisition on time](https://techcrunch.com/2025/01/14/sec-sues-elon-musk-for-allegedly-failing-to-disclose-twitter-acquisition-on-time/)
-- [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
