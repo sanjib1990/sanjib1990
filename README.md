@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synthesia snaps up $180M at a $2.1B valuation for its B2B AI video platform](https://techcrunch.com/2025/01/14/synthesia-snaps-up-180m-on-a-2-1b-valuation-for-its-b2b-ai-video-platform/)
+- [SpaceX launches 2 private lunar landers to the moon &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2-private-lunar-landers-to-the-moon-photos)
 - [Nelly raises $51 million to digitalize medical practices across Europe](https://techcrunch.com/2025/01/14/nelly-raises-51-million-to-digitalize-medical-practices-across-europe/)
 - [SEC sues Elon Musk for allegedly failing to disclose Twitter acquisition on time](https://techcrunch.com/2025/01/14/sec-sues-elon-musk-for-allegedly-failing-to-disclose-twitter-acquisition-on-time/)
 - [Nvidia backs MetAI, a Taiwanese startup that creates AI-powered digital twins](https://techcrunch.com/2025/01/14/nvidia-backs-metai-a-taiwanese-startup-that-creates-ai-powered-digital-twins/)
-- [Accel doubles down on Sarla Aviation’s ambition to develop electric air taxis in India](https://techcrunch.com/2025/01/14/accel-doubles-down-on-sarla-aviations-ambition-to-develop-electric-air-taxis-in-india/)
-- [Elon Musk tweets so much, people bet over $1M weekly to guess how many posts](https://techcrunch.com/2025/01/14/elon-musk-tweets-so-much-people-bet-over-1m-weekly-to-guess-how-many-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
