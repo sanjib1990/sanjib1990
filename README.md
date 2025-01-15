@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reusable rocket startup Stoke raised another massive round: $260M](https://techcrunch.com/2025/01/15/reusable-rocket-startup-stoke-raised-another-massive-round-260m/)
+- [Governments call for spyware regulations in UN Security Council meeting](https://techcrunch.com/2025/01/15/governments-call-for-spyware-regulations-in-un-security-council-meeting/)
+- [As TikTok faces a US shutdown, here are some alternative apps to check out](https://techcrunch.com/2025/01/15/as-tiktok-faces-a-us-shutdown-here-are-some-alternative-apps-to-check-out/)
 - [More teens report using ChatGPT for schoolwork, despite the tech’s faults](https://techcrunch.com/2025/01/15/more-teens-report-using-chatgpt-for-schoolwork-despite-the-techs-faults/)
 - [Samsung will unveil the Galaxy S25 on January 22 — here’s what we expect](https://techcrunch.com/2025/01/15/samsung-will-unveil-the-galaxy-s25-on-january-22-heres-what-we-expect/)
-- [Duolingo sees 216% spike in U.S. users learning Chinese amid TikTok ban and move to RedNote](https://techcrunch.com/2025/01/15/duolingo-sees-216-spike-in-u-s-users-learning-chinese-amid-tiktok-ban-and-move-to-rednote/)
-- [Space Mountain at 50: Five nods to NASA from the Walt Disney World ride](https://www.space.com/space-mountain-50th-disney-world-nasa-astronauts)
-- [Meta adds 200 megawatts of solar to its 12 gigawatt renewable portfolio](https://techcrunch.com/2025/01/15/meta-adds-200-megawatts-of-solar-to-its-12-gigawatt-renewable-portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
