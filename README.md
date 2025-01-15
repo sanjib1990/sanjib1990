@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft’s newest Copilot plan for business is pay-as-you-go](https://techcrunch.com/2025/01/15/microsofts-newest-copilot-plan-for-business-is-pay-as-you-go/)
-- [LinkedIn adds free AI tools for job hunters and recruiters](https://techcrunch.com/2025/01/15/linkedin-ads-free-ai-tools-for-job-hunters-and-recruiters/)
-- [An ancient 3-star system gave this &#39;blue lurker&#39; star a turbo boost, scientists find](https://www.space.com/space-exploration/hubble-space-telescope/an-ancient-3-star-system-gave-this-blue-lurker-star-a-turbo-boost-scientists-find)
-- [UnitedHealth hid its Change Healthcare data breach notice for months](https://techcrunch.com/2025/01/15/unitedhealth-hid-its-change-healthcare-data-breach-notice-for-months/)
-- [The sun&#39;s magnetic field will flip soon. Here&#39;s what to expect.](https://www.space.com/the-universe/sun/sun-magnetic-field-flip)
+- [Fast-growing South African venture FARO raises $6M to source, refurbish and sell surplus clothing](https://techcrunch.com/2025/01/15/faro-buys-excess-inventory-and-resells-at-a-discount-to-customers/)
+- [OpenAI tests letting users sign up for ChatGPT with only a phone number](https://techcrunch.com/2025/01/15/openai-tests-letting-users-sign-up-for-chatgpt-with-only-a-phone-number/)
+- [Telescope vs monocular: Which should I buy?](https://www.space.com/stargazing/astronomy-kit/telescope-vs-monocular-which-should-i-buy)
+- [Saturn disappears behind the moon in stunning telescope photo](https://www.space.com/stargazing/saturn-disappears-behind-the-moon-in-stunning-telescope-photo)
+- [PowerSchool data breach victims say hackers stole ‘all’ historical student and teacher data](https://techcrunch.com/2025/01/15/powerschool-data-breach-victims-say-hackers-stole-all-historical-student-and-teacher-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
