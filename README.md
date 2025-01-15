@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The most disastrous app launch of all time…](https://www.youtube.com/watch?v=yvGY5vkONds)
 - [17 weird new tech products at CES 2025 you need right now...](https://www.youtube.com/watch?v=mBFf-aYoV6Q)
 - [Computer Timescales Mapped onto Human Timescales - Computerphile](https://www.youtube.com/watch?v=PpaQrzoDW2I)
 - [The amazing, but unsettling future of technology...](https://www.youtube.com/watch?v=v4H2fTgHGuc)
 - [What&#39;s Your Least Favourite Programming Language? &lpar;2024 soundcheck question&rpar; - Computerphile](https://www.youtube.com/watch?v=03lRzf7iSiU)
-- [Cybersecurity, in SPACE!!](https://www.youtube.com/watch?v=I4C8_HeSj-E)
 <!-- YOUTUBE:END -->
 
 ---
