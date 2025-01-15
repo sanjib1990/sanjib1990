@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hinge’s new AI feature determines if your prompt response is too basic](https://techcrunch.com/2025/01/15/hinge-new-ai-feature-determines-if-your-prompt-response-is-too-basic/)
-- [Strange multi-planet system proves not all hot Jupiter exoplanets are lonely giants](https://www.space.com/ho-Jupiter-exoplanets-not-lonely-giants-WASP-132)
-- [What&#39;s next for the 2 private landers SpaceX just launched toward the moon?](https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-the-2-private-landers-spacex-just-launched-toward-the-moon)
-- [SoftBank veteran hunts for profits in payments infrastructure plumbing](https://techcrunch.com/2025/01/15/akshay-naheta-distributed-technologies-research/)
-- [SpaceX launching Starship Flight 7 today: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-starship-flight-7-today-watch-it-live)
+- [Microsoft’s newest Copilot plan for business is pay-as-you-go](https://techcrunch.com/2025/01/15/microsofts-newest-copilot-plan-for-business-is-pay-as-you-go/)
+- [LinkedIn adds free AI tools for job hunters and recruiters](https://techcrunch.com/2025/01/15/linkedin-ads-free-ai-tools-for-job-hunters-and-recruiters/)
+- [An ancient 3-star system gave this &#39;blue lurker&#39; star a turbo boost, scientists find](https://www.space.com/space-exploration/hubble-space-telescope/an-ancient-3-star-system-gave-this-blue-lurker-star-a-turbo-boost-scientists-find)
+- [UnitedHealth hid its Change Healthcare data breach notice for months](https://techcrunch.com/2025/01/15/unitedhealth-hid-its-change-healthcare-data-breach-notice-for-months/)
+- [The sun&#39;s magnetic field will flip soon. Here&#39;s what to expect.](https://www.space.com/the-universe/sun/sun-magnetic-field-flip)
 <!-- BLOG-POST-LIST:END -->
 
 ---
