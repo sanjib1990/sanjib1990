@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Biden administration adds 14 additional Chinese firms to trade blacklist](https://techcrunch.com/2025/01/15/biden-administration-adds-14-additional-chinese-firms-to-trade-blacklist/)
-- [Hubble Telescope sees rare supernova explosion as a violent &#39;pale blue dot&#39; &lpar;image&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-sees-rare-supernova-explosion-as-a-violent-pale-blue-dot-image)
-- [How to stream Donald Trump’s Inauguration Day 2025](https://techcrunch.com/2025/01/15/how-to-stream-donald-trumps-inauguration-day-2025/)
-- [AI researcher François Chollet founds a new AI lab focused on AGI](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/)
-- [Trump’s DOT pick wants EV owners to pay to use roads](https://techcrunch.com/2025/01/15/trumps-dot-pick-wants-ev-owners-to-pay-to-use-roads/)
+- [Battlestar Galactica at 20: the show that reinvented space opera](https://www.space.com/entertainment/space-movies-shows/battlestar-galactica-at-20-the-show-that-reinvented-space-opera)
+- [TikTok owner ByteDance powered an e-reader’s unhinged AI assistant](https://techcrunch.com/2025/01/15/tiktok-owner-bytedance-powered-an-e-readers-unhinged-ai-assistant/)
+- [OpenAI is bankrolling Axios’ expansion into four new markets](https://techcrunch.com/2025/01/15/openai-is-bankrolling-axios-expansion-into-four-new-markets/)
+- [The 7 best total solar eclipses of the next 10 years](https://www.space.com/stargazing/eclipses/top-solar-eclipses-next-decade)
+- [Tesla to split $100M award for electric truck charging corridor in Illinois](https://techcrunch.com/2025/01/15/tesla-to-split-100m-award-for-electric-truck-charging-corridor-in-illinois/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
