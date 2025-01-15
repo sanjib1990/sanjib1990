@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hinge’s new AI feature determines if your prompt response is too basic](https://techcrunch.com/2025/01/15/hinge-new-ai-feature-determines-if-your-prompt-response-is-too-basic/)
+- [Strange multi-planet system proves not all hot Jupiter exoplanets are lonely giants](https://www.space.com/ho-Jupiter-exoplanets-not-lonely-giants-WASP-132)
 - [What&#39;s next for the 2 private landers SpaceX just launched toward the moon?](https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-the-2-private-landers-spacex-just-launched-toward-the-moon)
 - [SoftBank veteran hunts for profits in payments infrastructure plumbing](https://techcrunch.com/2025/01/15/akshay-naheta-distributed-technologies-research/)
 - [SpaceX launching Starship Flight 7 today: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-starship-flight-7-today-watch-it-live)
-- [Creator of Gas and tbh makes an app for disappearing photos via iMessage](https://techcrunch.com/2025/01/15/creator-of-gas-and-tbh-makes-an-app-for-disappearing-photos-via-imessage/)
-- [Synthesia snaps up $180M at a $2.1B valuation for its B2B AI video platform](https://techcrunch.com/2025/01/14/synthesia-snaps-up-180m-on-a-2-1b-valuation-for-its-b2b-ai-video-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
