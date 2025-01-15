@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluesky is getting its own photo-sharing app, Flashes](https://techcrunch.com/2025/01/15/bluesky-is-getting-its-own-photo-sharing-app-flashes/)
-- [James Webb Space Telescope sees little red dots feeding black holes: &#39;This is how you solve a universe-breaking problem&#39;](https://www.space.com/james-webb-space-telescope-little-red-dots-galaxies-black-hole-growth)
-- [Google inks deal with The Associated Press to bring more real-time info to Gemini](https://techcrunch.com/2025/01/15/google-inks-deal-with-the-associated-press-to-bring-more-real-time-info-to-gemini/)
-- [Uncanny &#39;Alien: Romulus&#39; Ian Holm CGI fixed for home release as director &#39;wasn&#39;t 100 percent happy&#39;](https://www.space.com/entertainment/uncanny-alien-romulus-ian-holm-cgi-fixed-for-home-release-as-director-wasnt-100-percent-happy)
-- [Goodnight, Gaia! ESA spacecraft shuts down after 12 years of Milky Way mapping](https://www.space.com/goodnight-gaia-star-tracking-spacecraft-shuts-down-jan152025)
+- [Biden administration adds 14 additional Chinese firms to trade blacklist](https://techcrunch.com/2025/01/15/biden-administration-adds-14-additional-chinese-firms-to-trade-blacklist/)
+- [Hubble Telescope sees rare supernova explosion as a violent &#39;pale blue dot&#39; &lpar;image&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-sees-rare-supernova-explosion-as-a-violent-pale-blue-dot-image)
+- [How to stream Donald Trump’s Inauguration Day 2025](https://techcrunch.com/2025/01/15/how-to-stream-donald-trumps-inauguration-day-2025/)
+- [AI researcher François Chollet founds a new AI lab focused on AGI](https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/)
+- [Trump’s DOT pick wants EV owners to pay to use roads](https://techcrunch.com/2025/01/15/trumps-dot-pick-wants-ev-owners-to-pay-to-use-roads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
