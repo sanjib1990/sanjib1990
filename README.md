@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New York powerhouse VC Insight Partners nabs another $12.5B after $8B in exits](https://techcrunch.com/2025/01/16/new-york-powerhouse-vc-insight-partners-nabs-another-12-5b-after-8b-in-exits/)
+- [Failed fintech startup Bench racked up over $65 million in debt, documents reveal](https://techcrunch.com/2025/01/16/failed-fintech-startup-bench-racked-up-over-65-million-in-debt-documents-reveal/)
+- [Apple pauses AI notification summaries for news after generating false alerts](https://techcrunch.com/2025/01/16/apple-pauses-ai-notification-summaries-for-news-after-generating-false-alerts/)
 - [Centuries-old supernova guides James Webb Space Telescope through an interstellar gap](https://www.space.com/space-exploration/james-webb-space-telescope/centuries-old-supernova-guides-james-webb-space-telescope-through-an-interstellar-gap)
 - [Threads might let you add music to your posts in the future](https://techcrunch.com/2025/01/16/threads-might-let-you-add-music-to-your-posts-in-the-future/)
-- [Major milestone! India becomes 4th nation to dock satellites in orbit](https://www.space.com/space-exploration/missions/major-milestone-india-becomes-4th-nation-to-dock-satellites-in-orbit)
-- [Trump administration might give a boost to deep-sea mining for critical minerals](https://techcrunch.com/2025/01/16/trump-administration-might-give-a-boost-to-deep-sea-mining-for-critical-minerals/)
-- [Climate tech matured in 2024 as investors favored bigger rounds, later stages](https://techcrunch.com/2025/01/16/climate-tech-matured-in-2024-as-investors-favored-bigger-rounds-later-stages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
