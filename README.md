@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best](https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/)
 - [Hindenburg Research, a short seller that targeted tech and EV companies, is closing up shop](https://techcrunch.com/2025/01/15/hindenburg-research-a-short-seller-that-targeted-tech-and-ev-companies-is-closing-up-shop/)
 - [Reusable rocket startup Stoke raised another massive round: $260M](https://techcrunch.com/2025/01/15/reusable-rocket-startup-stoke-raised-another-massive-round-260m/)
 - [Governments call for spyware regulations in UN Security Council meeting](https://techcrunch.com/2025/01/15/governments-call-for-spyware-regulations-in-un-security-council-meeting/)
 - [As TikTok faces a US shutdown, here are some alternative apps to check out](https://techcrunch.com/2025/01/15/as-tiktok-faces-a-us-shutdown-here-are-some-alternative-apps-to-check-out/)
-- [More teens report using ChatGPT for schoolwork, despite the tech’s faults](https://techcrunch.com/2025/01/15/more-teens-report-using-chatgpt-for-schoolwork-despite-the-techs-faults/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
