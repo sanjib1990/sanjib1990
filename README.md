@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX catches Starship booster a second time, loses ship to an ‘anomaly’ in space](https://techcrunch.com/2025/01/16/spacex-catches-starship-booster-a-second-time-loses-ship-to-an-anomaly-in-space/)
+- [&#39;Dune&#39; director David Lynch dies at 78](https://www.space.com/entertainment/dune-director-david-lynch-dies-at-78)
+- [Despite VCs investing $75B in Q4 , it’s still hard for startups to raise money, data proves](https://techcrunch.com/2025/01/16/despite-vcs-investing-75b-in-q4-its-still-hard-for-startups-to-raise-money-data-proves/)
 - [New York powerhouse VC Insight Partners nabs another $12.5B after $8B in exits](https://techcrunch.com/2025/01/16/new-york-powerhouse-vc-insight-partners-nabs-another-12-5b-after-8b-in-exits/)
 - [Failed fintech startup Bench racked up over $65 million in debt, documents reveal](https://techcrunch.com/2025/01/16/failed-fintech-startup-bench-racked-up-over-65-million-in-debt-documents-reveal/)
-- [Apple pauses AI notification summaries for news after generating false alerts](https://techcrunch.com/2025/01/16/apple-pauses-ai-notification-summaries-for-news-after-generating-false-alerts/)
-- [Centuries-old supernova guides James Webb Space Telescope through an interstellar gap](https://www.space.com/space-exploration/james-webb-space-telescope/centuries-old-supernova-guides-james-webb-space-telescope-through-an-interstellar-gap)
-- [Threads might let you add music to your posts in the future](https://techcrunch.com/2025/01/16/threads-might-let-you-add-music-to-your-posts-in-the-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
