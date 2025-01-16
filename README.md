@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [In AI copyright case, Zuckerberg turns to YouTube for his defense](https://techcrunch.com/2025/01/15/in-ai-copyright-case-zuckerberg-turns-to-youtube-for-his-defense/)
 - [Watch 2 NASA astronauts repair X-ray telescope on ISS during a spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-repair-x-ray-telescope-on-iss-during-a-spacewalk-today)
 - [Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best](https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/)
 - [Hindenburg Research, a short seller that targeted tech and EV companies, is closing up shop](https://techcrunch.com/2025/01/15/hindenburg-research-a-short-seller-that-targeted-tech-and-ev-companies-is-closing-up-shop/)
 - [Reusable rocket startup Stoke raised another massive round: $260M](https://techcrunch.com/2025/01/15/reusable-rocket-startup-stoke-raised-another-massive-round-260m/)
-- [Governments call for spyware regulations in UN Security Council meeting](https://techcrunch.com/2025/01/15/governments-call-for-spyware-regulations-in-un-security-council-meeting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
