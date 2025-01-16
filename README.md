@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Teal Health raises $10M to create at-home cervical cancer screenings](https://techcrunch.com/2025/01/16/teal-health-raises-10m-to-create-at-home-cervical-cancer-screenings/)
+- [Photographer captures rare Comet G3 ATLAS from UK in dramatic &#39;once-in-a-lifetime&#39; image](https://www.space.com/the-universe/comets/photographer-captures-rare-comet-g3-atlas-from-uk-in-dramatic-once-in-a-lifetime-image)
 - [What is a monocular and how do they work?](https://www.space.com/stargazing/astronomy-kit/what-is-a-monocular-and-how-do-they-work)
 - [NASA wants a &#39;Super-Hubble&#39; space telescope to search for life on alien worlds](https://www.space.com/space-exploration/search-for-life/nasa-wants-a-super-hubble-space-telescope-to-search-for-life-on-alien-worlds)
 - [TikTok CEO plans to attend Trump inauguration](https://techcrunch.com/2025/01/16/tiktok-ceo-plans-to-attend-trump-inauguration/)
-- [Clop ransomware gang names dozens of victims hit by Cleo mass-hack, but several firms dispute breaches](https://techcrunch.com/2025/01/16/clop-ransomware-gang-names-dozens-of-victims-hit-by-cleo-mass-hack-but-several-firms-dispute-breaches/)
-- [James Webb Space Telescope watches planet-forming dust shells zooming through space](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-watches-planet-forming-dust-shells-zooming-through-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
