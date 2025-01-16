@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Centuries-old supernova guides James Webb Space Telescope through an interstellar gap](https://www.space.com/space-exploration/james-webb-space-telescope/centuries-old-supernova-guides-james-webb-space-telescope-through-an-interstellar-gap)
+- [Threads might let you add music to your posts in the future](https://techcrunch.com/2025/01/16/threads-might-let-you-add-music-to-your-posts-in-the-future/)
 - [Major milestone! India becomes 4th nation to dock satellites in orbit](https://www.space.com/space-exploration/missions/major-milestone-india-becomes-4th-nation-to-dock-satellites-in-orbit)
 - [Trump administration might give a boost to deep-sea mining for critical minerals](https://techcrunch.com/2025/01/16/trump-administration-might-give-a-boost-to-deep-sea-mining-for-critical-minerals/)
 - [Climate tech matured in 2024 as investors favored bigger rounds, later stages](https://techcrunch.com/2025/01/16/climate-tech-matured-in-2024-as-investors-favored-bigger-rounds-later-stages/)
-- [Astronauts repair black hole observatory, inspect cosmic ray detector on ISS spacewalk](https://www.space.com/space-exploration/international-space-station/astronauts-repair-black-hole-observatory-inspect-cosmic-ray-detector-on-iss-spacewalk)
-- [Nvidia releases more tools and guardrails to nudge enterprises to adopt AI agents](https://techcrunch.com/2025/01/16/nvidia-releases-more-tools-and-guardrails-to-nudge-enterprises-to-adopt-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
