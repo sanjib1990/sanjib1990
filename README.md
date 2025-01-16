@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Our warming Earth: 2024 was hottest year on record, NASA says](https://www.space.com/the-universe/climate-change/our-warming-earth-2024-was-hottest-year-on-record-nasa-says)
+- [Mark Cuban is ready to fund a TikTok alternative built on Bluesky’s AT Protocol](https://techcrunch.com/2025/01/16/mark-cuban-is-ready-to-fund-a-tiktok-alternative-built-on-blueskys-at-protocol/)
 - [A rising EV startup star snags $100M and Tesla’s win-lose federal funding moment](https://techcrunch.com/2025/01/16/a-rising-ev-startup-star-snags-100m-and-teslas-win-lose-federal-funding-moment/)
 - [Trading platform eToro said to be eyeing $5B US IPO in 2025](https://techcrunch.com/2025/01/16/trading-platform-etoro-said-to-be-eyeing-5b-us-ipo-in-2025/)
 - [Instagram Threads won’t share a timeline for account portability](https://techcrunch.com/2025/01/16/instagram-threads-wont-share-a-timeline-for-account-portability/)
-- [TikTok ban poised to be delayed as Trump explores ways to extend deadline](https://techcrunch.com/2025/01/16/tiktok-ban-poised-to-be-delayed-as-trump-explores-ways-to-extend-deadline/)
-- [Goldman Sachs’ David Solomon tells startups to reconsider going public](https://techcrunch.com/2025/01/16/goldman-sachs-david-solomon-tells-startups-to-reconsider-going-public/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
