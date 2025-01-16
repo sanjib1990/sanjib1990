@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A rising EV startup star snags $100M and Tesla’s win-lose federal funding moment](https://techcrunch.com/2025/01/16/a-rising-ev-startup-star-snags-100m-and-teslas-win-lose-federal-funding-moment/)
+- [Trading platform eToro said to be eyeing $5B US IPO in 2025](https://techcrunch.com/2025/01/16/trading-platform-etoro-said-to-be-eyeing-5b-us-ipo-in-2025/)
+- [Instagram Threads won’t share a timeline for account portability](https://techcrunch.com/2025/01/16/instagram-threads-wont-share-a-timeline-for-account-portability/)
+- [TikTok ban poised to be delayed as Trump explores ways to extend deadline](https://techcrunch.com/2025/01/16/tiktok-ban-poised-to-be-delayed-as-trump-explores-ways-to-extend-deadline/)
 - [Goldman Sachs’ David Solomon tells startups to reconsider going public](https://techcrunch.com/2025/01/16/goldman-sachs-david-solomon-tells-startups-to-reconsider-going-public/)
-- [This MIT spinout wants to spool hair-thin fibers into patients’ brains](https://techcrunch.com/2025/01/16/this-mit-spinout-wants-to-spool-hair-thin-fibers-into-patients-brains/)
-- [Trump&#39;s space policy won&#39;t catch Europe off guard, ESA chief says](https://www.space.com/space-exploration/private-spaceflight/trumps-space-policy-wont-catch-europe-off-guard-esa-chief-says)
-- [Symbotic set to take over Walmart’s robotics business](https://techcrunch.com/2025/01/16/symbotic-set-to-take-over-walmarts-robotics-business/)
-- [Anduril to build its billion-dollar weapons megafactory in Ohio](https://techcrunch.com/2025/01/16/anduril-to-build-its-billion-dollar-weapons-megafactory-in-ohio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
