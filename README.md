@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperline secures $10 million for its automated billing platform](https://techcrunch.com/2025/01/16/hyperline-secures-10-million-for-its-automated-billing-platform/)
+- [Jeff Bezos&#39; Blue Origin launches massive New Glenn rocket into orbit on 1st flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-launches-massive-new-glenn-rocket-into-orbit-on-1st-flight-video)
 - [Amazon to acquire Indian fintech Axio in credit push](https://techcrunch.com/2025/01/15/amazon-to-acquire-indian-fintech-axio-in-credit-push/)
 - [In AI copyright case, Zuckerberg turns to YouTube for his defense](https://techcrunch.com/2025/01/15/in-ai-copyright-case-zuckerberg-turns-to-youtube-for-his-defense/)
 - [Watch 2 NASA astronauts repair X-ray telescope on ISS during a spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-repair-x-ray-telescope-on-iss-during-a-spacewalk-today)
-- [Chinese AI company MiniMax releases new models it claims are competitive with the industry’s best](https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/)
-- [Hindenburg Research, a short seller that targeted tech and EV companies, is closing up shop](https://techcrunch.com/2025/01/15/hindenburg-research-a-short-seller-that-targeted-tech-and-ev-companies-is-closing-up-shop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
