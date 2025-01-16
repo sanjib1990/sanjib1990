@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Teal Health raises $10M to create at-home cervical cancer screenings](https://techcrunch.com/2025/01/16/teal-health-raises-10m-to-create-at-home-cervical-cancer-screenings/)
-- [Photographer captures rare Comet G3 ATLAS from UK in dramatic &#39;once-in-a-lifetime&#39; image](https://www.space.com/the-universe/comets/photographer-captures-rare-comet-g3-atlas-from-uk-in-dramatic-once-in-a-lifetime-image)
-- [What is a monocular and how do they work?](https://www.space.com/stargazing/astronomy-kit/what-is-a-monocular-and-how-do-they-work)
-- [NASA wants a &#39;Super-Hubble&#39; space telescope to search for life on alien worlds](https://www.space.com/space-exploration/search-for-life/nasa-wants-a-super-hubble-space-telescope-to-search-for-life-on-alien-worlds)
-- [TikTok CEO plans to attend Trump inauguration](https://techcrunch.com/2025/01/16/tiktok-ceo-plans-to-attend-trump-inauguration/)
+- [Goldman Sachs’ David Solomon tells startups to reconsider going public](https://techcrunch.com/2025/01/16/goldman-sachs-david-solomon-tells-startups-to-reconsider-going-public/)
+- [This MIT spinout wants to spool hair-thin fibers into patients’ brains](https://techcrunch.com/2025/01/16/this-mit-spinout-wants-to-spool-hair-thin-fibers-into-patients-brains/)
+- [Trump&#39;s space policy won&#39;t catch Europe off guard, ESA chief says](https://www.space.com/space-exploration/private-spaceflight/trumps-space-policy-wont-catch-europe-off-guard-esa-chief-says)
+- [Symbotic set to take over Walmart’s robotics business](https://techcrunch.com/2025/01/16/symbotic-set-to-take-over-walmarts-robotics-business/)
+- [Anduril to build its billion-dollar weapons megafactory in Ohio](https://techcrunch.com/2025/01/16/anduril-to-build-its-billion-dollar-weapons-megafactory-in-ohio/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
