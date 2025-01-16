@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral signs deal with AFP to offer up-to-date answers in Le Chat](https://techcrunch.com/2025/01/16/mistral-signs-deal-with-afp-to-offer-up-to-date-answers-in-le-chat/)
+- [Prepaid payments platform Recharge raises €45M to go on M&amp;A spree](https://techcrunch.com/2025/01/16/prepaid-payments-platform-recharge-raises-e45m-to-go-on-ma-spree/)
 - [Google strikes world’s largest biochar carbon removal deal with Indian startup Varaha](https://techcrunch.com/2025/01/16/google-strikes-worlds-largest-biochar-carbon-removal-deal-with-indian-startup-varaha/)
 - [Hyperline secures $10 million for its automated billing platform](https://techcrunch.com/2025/01/16/hyperline-secures-10-million-for-its-automated-billing-platform/)
 - [Jeff Bezos&#39; Blue Origin launches massive New Glenn rocket into orbit on 1st flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-launches-massive-new-glenn-rocket-into-orbit-on-1st-flight-video)
-- [Amazon to buy Indian BNPL startup Axio for over $150M](https://techcrunch.com/2025/01/15/amazon-to-acquire-indian-fintech-axio-in-credit-push/)
-- [In AI copyright case, Zuckerberg turns to YouTube for his defense](https://techcrunch.com/2025/01/15/in-ai-copyright-case-zuckerberg-turns-to-youtube-for-his-defense/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
