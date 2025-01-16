@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dub.co is an open-source URL shortener and link attribution engine packed into one](https://techcrunch.com/2025/01/16/dub-co-is-an-open-source-url-shortener-and-link-attribution-engine-packed-into-one/)
+- [Moon selected as historical preservation site to protect lunar heritage](https://www.space.com/the-universe/moon/moon-selected-as-historical-preservation-site-to-protect-lunar-heritage)
 - [Blue Origin successfully launches New Glenn rocket into space](https://techcrunch.com/2025/01/16/blue-origin-successfully-launches-new-glenn-rocket-into-space/)
 - [What if life on Venus is just life from Earth?](https://www.space.com/space-exploration/search-for-life/what-if-life-on-venus-is-just-life-from-earth)
 - [Mistral signs deal with AFP to offer up-to-date answers in Le Chat](https://techcrunch.com/2025/01/16/mistral-signs-deal-with-afp-to-offer-up-to-date-answers-in-le-chat/)
-- [Prepaid payments platform Recharge raises €45M to go on M&amp;A spree](https://techcrunch.com/2025/01/16/prepaid-payments-platform-recharge-raises-e45m-to-go-on-ma-spree/)
-- [Google strikes world’s largest biochar carbon removal deal with Indian startup Varaha](https://techcrunch.com/2025/01/16/google-strikes-worlds-largest-biochar-carbon-removal-deal-with-indian-startup-varaha/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
