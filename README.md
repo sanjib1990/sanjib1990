@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google strikes world’s largest biochar carbon removal deal with Indian startup Varaha](https://techcrunch.com/2025/01/16/google-strikes-worlds-largest-biochar-carbon-removal-deal-with-indian-startup-varaha/)
 - [Hyperline secures $10 million for its automated billing platform](https://techcrunch.com/2025/01/16/hyperline-secures-10-million-for-its-automated-billing-platform/)
 - [Jeff Bezos&#39; Blue Origin launches massive New Glenn rocket into orbit on 1st flight &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-launches-massive-new-glenn-rocket-into-orbit-on-1st-flight-video)
-- [Amazon to acquire Indian fintech Axio in credit push](https://techcrunch.com/2025/01/15/amazon-to-acquire-indian-fintech-axio-in-credit-push/)
+- [Amazon to buy Indian BNPL startup Axio for over $150M](https://techcrunch.com/2025/01/15/amazon-to-acquire-indian-fintech-axio-in-credit-push/)
 - [In AI copyright case, Zuckerberg turns to YouTube for his defense](https://techcrunch.com/2025/01/15/in-ai-copyright-case-zuckerberg-turns-to-youtube-for-his-defense/)
-- [Watch 2 NASA astronauts repair X-ray telescope on ISS during a spacewalk today](https://www.space.com/space-exploration/international-space-station/watch-2-nasa-astronauts-repair-x-ray-telescope-on-iss-during-a-spacewalk-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
