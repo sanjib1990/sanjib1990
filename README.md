@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dub.co is an open-source URL shortener and link attribution engine packed into one](https://techcrunch.com/2025/01/16/dub-co-is-an-open-source-url-shortener-and-link-attribution-engine-packed-into-one/)
-- [Moon selected as historical preservation site to protect lunar heritage](https://www.space.com/the-universe/moon/moon-selected-as-historical-preservation-site-to-protect-lunar-heritage)
-- [Blue Origin successfully launches New Glenn rocket into space](https://techcrunch.com/2025/01/16/blue-origin-successfully-launches-new-glenn-rocket-into-space/)
-- [What if life on Venus is just life from Earth?](https://www.space.com/space-exploration/search-for-life/what-if-life-on-venus-is-just-life-from-earth)
-- [Mistral signs deal with AFP to offer up-to-date answers in Le Chat](https://techcrunch.com/2025/01/16/mistral-signs-deal-with-afp-to-offer-up-to-date-answers-in-le-chat/)
+- [Clop ransomware gang names dozens of victims hit by Cleo mass-hack, but several firms dispute breaches](https://techcrunch.com/2025/01/16/clop-ransomware-gang-names-dozens-of-victims-hit-by-cleo-mass-hack-but-several-firms-dispute-breaches/)
+- [James Webb Space Telescope watches planet-forming dust shells zooming through space](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-watches-planet-forming-dust-shells-zooming-through-space)
+- [Are James Webb Space Telescope images really so colorful?](https://www.space.com/space-exploration/james-webb-space-telescope/are-james-webb-space-telescope-images-really-that-colorful)
+- [Nintendo teases Mario Kart as first Switch 2 title](https://techcrunch.com/2025/01/16/nintendo-teases-mario-kart-as-first-switch-2-title/)
+- [Nintendo unveils the Nintendo Switch 2](https://techcrunch.com/2025/01/16/nintendo-unveils-the-nintendo-switch-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
