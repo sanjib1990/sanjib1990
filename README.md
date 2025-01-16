@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a monocular and how do they work?](https://www.space.com/stargazing/astronomy-kit/what-is-a-monocular-and-how-do-they-work)
+- [NASA wants a &#39;Super-Hubble&#39; space telescope to search for life on alien worlds](https://www.space.com/space-exploration/search-for-life/nasa-wants-a-super-hubble-space-telescope-to-search-for-life-on-alien-worlds)
+- [TikTok CEO plans to attend Trump inauguration](https://techcrunch.com/2025/01/16/tiktok-ceo-plans-to-attend-trump-inauguration/)
 - [Clop ransomware gang names dozens of victims hit by Cleo mass-hack, but several firms dispute breaches](https://techcrunch.com/2025/01/16/clop-ransomware-gang-names-dozens-of-victims-hit-by-cleo-mass-hack-but-several-firms-dispute-breaches/)
 - [James Webb Space Telescope watches planet-forming dust shells zooming through space](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-watches-planet-forming-dust-shells-zooming-through-space)
-- [Are James Webb Space Telescope images really so colorful?](https://www.space.com/space-exploration/james-webb-space-telescope/are-james-webb-space-telescope-images-really-that-colorful)
-- [Nintendo teases Mario Kart as first Switch 2 title](https://techcrunch.com/2025/01/16/nintendo-teases-mario-kart-as-first-switch-2-title/)
-- [Nintendo unveils the Nintendo Switch 2](https://techcrunch.com/2025/01/16/nintendo-unveils-the-nintendo-switch-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
