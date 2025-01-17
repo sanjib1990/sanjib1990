@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump spoke to China’s President Xi about TikTok just ahead of Supreme Court ruling](https://techcrunch.com/2025/01/17/trump-talked-to-chinas-president-xi-about-tiktok-just-ahead-of-supreme-court-ruling/)
+- [Malware stole internal PowerSchool passwords from engineer’s hacked computer](https://techcrunch.com/2025/01/17/malware-stole-internal-powerschool-passwords-from-engineers-hacked-computer/)
+- [Bumble founder Whitney Wolfe Herd to reclaim CEO position in March](https://techcrunch.com/2025/01/17/bumble-founder-whitney-wolfe-herd-to-reclaim-ceo-position-in-march/)
+- [Instagram Reels adds new features as TikTok is banned in the U.S.](https://techcrunch.com/2025/01/17/instagram-reels-adds-new-features-as-tiktok-is-banned-in-the-us/)
+- [Trump comments on TikTok ban](https://techcrunch.com/2025/01/17/trump-comments-on-tiktok-ban/)
 - [Europe&#39;s new Ariane 6 heavy-lift rocket set for 2nd launch in February](https://www.space.com/space-exploration/launches-spacecraft/europes-new-ariane-6-heavy-lift-rocket-set-for-2nd-launch-in-february)
-- [Rivian finalizes $6.6B loan for its Georgia factory](https://techcrunch.com/2025/01/17/rivian-finalizes-6-6b-loan-for-its-georgia-factory/)
-- [25 biggest space conspiracy theories: Debunked](https://www.space.com/space-exploration/search-for-life/25-space-conspiracy-theories-debunked)
-- [Instabase raises $100M to help companies process unstructured document data](https://techcrunch.com/2025/01/17/instabase-raises-100m-to-help-companies-process-unstructured-document-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
