@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feeding supermassive black holes may have ended the cosmic &#39;dark ages&#39; billions of years ago](https://www.space.com/nasa-telescope-monster-black-hole-cosmic-dark-ages-nustar)
 - [SpaceX Starship explosion likely caused by propellant leak, Elon Musk says](https://www.space.com/space-exploration/private-spaceflight/spacex-starship-explosion-likely-caused-by-propellant-leak-elon-musk-says)
 - [100 years ago, Edwin Hubble proved our Milky Way galaxy isn&#39;t alone](https://www.space.com/the-universe/100-years-ago-edwin-hubble-proved-our-milky-way-galaxy-isnt-alone)
 - [Nord Security founders launch Nexos.ai to help enterprises take AI projects from pilot to production](https://techcrunch.com/2025/01/17/nord-security-founders-launch-nexos-ai-to-help-enterprises-take-ai-projects-from-pilot-to-production/)
 - [Apple brings Store app to Indian market](https://techcrunch.com/2025/01/16/apple-brings-store-app-to-indian-market/)
-- [FAA had to divert flights because of SpaceX Starship explosion](https://techcrunch.com/2025/01/16/faa-had-to-divert-flights-because-of-spacex-starship-explosion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
