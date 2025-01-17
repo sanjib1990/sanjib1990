@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok ban: How to download your data](https://techcrunch.com/2025/01/17/tiktok-ban-how-to-download-your-data/)
+- [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/)
+- [Bluesky saw 17x increase in moderation reports in 2024 after rapid growth](https://techcrunch.com/2025/01/17/bluesky-saw-17x-increase-in-moderation-reports-in-2024-after-rapid-growth/)
+- [ChatGPT’s newest feature lets users assign it traits like ‘chatty’ and ‘Gen Z’](https://techcrunch.com/2025/01/17/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/)
 - [Major telescope makers hit by class action lawsuit over alleged price fixing](https://www.space.com/stargazing/major-telescope-makers-hit-by-class-action-lawsuit-over-alleged-price-fixing)
-- [TikTok CEO responds to Trump, thanks him for trying to solve US ban](https://techcrunch.com/2025/01/17/tiktok-ceo-responds-to-trump-thanks-him-for-trying-to-solve-us-ban/)
-- [SpaceX and Blue Origin must investigate this week’s big rocket tests, FAA says](https://techcrunch.com/2025/01/17/spacex-and-blue-origin-must-investigate-this-weeks-big-rocket-tests-faa-says/)
-- [FAA requiring investigation into SpaceX Starship&#39;s Flight 7 explosion](https://www.space.com/space-exploration/private-spaceflight/faa-requiring-investigation-into-spacex-starships-flight-7-explosion)
-- [OpenAI is trying to extend human life, with help from a longevity startup](https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
