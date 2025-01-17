@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Malware stole internal PowerSchool passwords from engineer’s hacked computer](https://techcrunch.com/2025/01/17/malware-stole-internal-powerschool-passwords-from-engineers-hacked-computer/)
-- [Bumble founder Whitney Wolfe Herd to reclaim CEO position in March](https://techcrunch.com/2025/01/17/bumble-founder-whitney-wolfe-herd-to-reclaim-ceo-position-in-march/)
-- [Instagram Reels adds new features as TikTok is banned in the U.S.](https://techcrunch.com/2025/01/17/instagram-reels-adds-new-features-as-tiktok-is-banned-in-the-us/)
-- [Trump comments on TikTok ban](https://techcrunch.com/2025/01/17/trump-comments-on-tiktok-ban/)
-- [Europe&#39;s new Ariane 6 heavy-lift rocket set for 2nd launch in February](https://www.space.com/space-exploration/launches-spacecraft/europes-new-ariane-6-heavy-lift-rocket-set-for-2nd-launch-in-february)
+- [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/)
+- [Fastest disintegrating world ever seen &#39;spills its guts&#39; for NASA&#39;s exoplanet hunter](https://www.space.com/james-webb-space-telescope-rapidly-disintergrating-planet)
+- [Save 20% on the Lego Space Astronaut, one of our favorite space sets of 2024](https://www.space.com/entertainment/lego-3-in-1-astronaut-20-percent-off-january-2025)
+- [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
+- [Treasury sanctions Salt Typhoon hacking group behind breaches of major US telecom firms](https://techcrunch.com/2025/01/17/treasury-sanctions-salt-typhoon-hacking-group-behind-breaches-of-major-us-telecom-firms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
