@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GM banned from sharing driving and location data with insurance companies](https://techcrunch.com/2025/01/17/gm-banned-from-sharing-driving-and-location-data-with-insurance-companies/)
-- [&#39;Star Trek: Voyager&#39; at 30: why it was the right show at the wrong time](https://www.space.com/entertainment/space-movies-shows/star-trek-voyager-at-30-why-it-was-the-right-show-at-the-wrong-time)
-- [Venus and Saturn take a sunset stroll tonight. Here&#39;s how to see it](https://www.space.com/stargazing/venus-and-saturn-take-a-sunset-stroll-tonight-heres-how-to-see-it)
-- [Feeding supermassive black holes may have ended the cosmic &#39;dark ages&#39; billions of years ago](https://www.space.com/nasa-telescope-monster-black-hole-cosmic-dark-ages-nustar)
-- [SpaceX Starship explosion likely caused by propellant leak, Elon Musk says](https://www.space.com/space-exploration/private-spaceflight/spacex-starship-explosion-likely-caused-by-propellant-leak-elon-musk-says)
+- [Instabase raises $100M to help companies process unstructured document data](https://techcrunch.com/2025/01/17/instabase-raises-100m-to-help-companies-process-unstructured-document-data/)
+- [Supreme Court upholds TikTok ban](https://techcrunch.com/2025/01/17/supreme-court-upholds-tiktok-ban/)
+- [Bushnell Equinox X650 5x32mm digital night vision monocular review](https://www.space.com/stargazing/astronomy-kit/bushnell-equinox-x650-digital-night-vision-monocular-review)
+- [Bright comet G3 ATLAS seen from space in new astronaut photo](https://www.space.com/stargazing/bright-comet-g3-atlas-seen-from-space-in-new-astronaut-photo)
+- [Ken Howery: the tech mogul at the center of Trump’s Greenland ambition](https://techcrunch.com/2025/01/17/ken-howery-the-tech-mogul-at-the-center-of-trumps-greenland-ambition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
