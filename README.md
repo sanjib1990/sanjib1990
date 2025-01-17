@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech expands its reach with new startup acquisitions and investments](https://techcrunch.com/2025/01/17/big-tech-expands-its-reach-with-new-startup-acquisitions-and-investments/)
-- [Fastest disintegrating world ever seen &#39;spills its guts&#39; for NASA&#39;s exoplanet hunter](https://www.space.com/james-webb-space-telescope-rapidly-disintergrating-planet)
-- [Save 20% on the Lego Space Astronaut, one of our favorite space sets of 2024](https://www.space.com/entertainment/lego-3-in-1-astronaut-20-percent-off-january-2025)
-- [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
-- [Treasury sanctions Salt Typhoon hacking group behind breaches of major US telecom firms](https://techcrunch.com/2025/01/17/treasury-sanctions-salt-typhoon-hacking-group-behind-breaches-of-major-us-telecom-firms/)
+- [Major telescope makers hit by class action lawsuit over alleged price fixing](https://www.space.com/stargazing/major-telescope-makers-hit-by-class-action-lawsuit-over-alleged-price-fixing)
+- [TikTok CEO responds to Trump, thanks him for trying to solve US ban](https://techcrunch.com/2025/01/17/tiktok-ceo-responds-to-trump-thanks-him-for-trying-to-solve-us-ban/)
+- [SpaceX and Blue Origin must investigate this week’s big rocket tests, FAA says](https://techcrunch.com/2025/01/17/spacex-and-blue-origin-must-investigate-this-weeks-big-rocket-tests-faa-says/)
+- [FAA requiring investigation into SpaceX Starship&#39;s Flight 7 explosion](https://www.space.com/space-exploration/private-spaceflight/faa-requiring-investigation-into-spacex-starships-flight-7-explosion)
+- [OpenAI is trying to extend human life, with help from a longevity startup](https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
