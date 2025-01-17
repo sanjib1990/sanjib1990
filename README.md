@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok ban: How to download your data](https://techcrunch.com/2025/01/17/tiktok-ban-how-to-download-your-data/)
+- [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/)
+- [Space Force to march in Trump&#39;s Jan. 20 inauguration, a 1st for the new military branch](https://www.space.com/space-exploration/missions/space-force-to-march-in-trumps-jan-20-inauguration-a-1st-for-the-new-military-branch)
+- [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/)
+- [TikTok ban: How to download your videos and data](https://techcrunch.com/2025/01/17/tiktok-ban-how-to-download-your-videos-and-data/)
 - [AI startup Character AI tests games on the web](https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/)
-- [Bluesky saw 17x increase in moderation reports in 2024 after rapid growth](https://techcrunch.com/2025/01/17/bluesky-saw-17x-increase-in-moderation-reports-in-2024-after-rapid-growth/)
-- [ChatGPT’s newest feature lets users assign it traits like ‘chatty’ and ‘Gen Z’](https://techcrunch.com/2025/01/17/chatgpts-newest-feature-lets-user-assign-it-traits-like-chatty-and-gen-z/)
-- [Major telescope makers hit by class action lawsuit over alleged price fixing](https://www.space.com/stargazing/major-telescope-makers-hit-by-class-action-lawsuit-over-alleged-price-fixing)
 <!-- BLOG-POST-LIST:END -->
 
 ---
