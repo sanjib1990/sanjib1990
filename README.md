@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nord Security founders launch Nexos.ai to help enterprises take AI projects from pilot to production](https://techcrunch.com/2025/01/17/nord-security-founders-launch-nexos-ai-to-help-enterprises-take-ai-projects-from-pilot-to-production/)
 - [Apple brings Store app to Indian market](https://techcrunch.com/2025/01/16/apple-brings-store-app-to-indian-market/)
 - [FAA had to divert flights because of SpaceX Starship explosion](https://techcrunch.com/2025/01/16/faa-had-to-divert-flights-because-of-spacex-starship-explosion/)
 - [SpaceX catches Starship booster a second time, loses ship to an ‘anomaly’ in space](https://techcrunch.com/2025/01/16/spacex-catches-starship-booster-a-second-time-loses-ship-to-an-anomaly-in-space/)
 - [Watch SpaceX Starship explode over Atlantic Ocean on Flight Test 7 &lpar;videos&rpar;](https://www.space.com/space-exploration/private-spaceflight/watch-spacex-starship-explode-over-atlantic-ocean-on-flight-test-7-videos)
-- [SpaceX catches Super Heavy booster on Starship Flight 7 test but loses upper stage &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-catches-super-heavy-booster-on-starship-flight-7-test-but-loses-upper-stage-video-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
