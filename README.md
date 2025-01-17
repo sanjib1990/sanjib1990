@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GM banned from sharing driving and location data with insurance companies](https://techcrunch.com/2025/01/17/gm-banned-from-sharing-driving-and-location-data-with-insurance-companies/)
+- [&#39;Star Trek: Voyager&#39; at 30: why it was the right show at the wrong time](https://www.space.com/entertainment/space-movies-shows/star-trek-voyager-at-30-why-it-was-the-right-show-at-the-wrong-time)
+- [Venus and Saturn take a sunset stroll tonight. Here&#39;s how to see it](https://www.space.com/stargazing/venus-and-saturn-take-a-sunset-stroll-tonight-heres-how-to-see-it)
 - [Feeding supermassive black holes may have ended the cosmic &#39;dark ages&#39; billions of years ago](https://www.space.com/nasa-telescope-monster-black-hole-cosmic-dark-ages-nustar)
 - [SpaceX Starship explosion likely caused by propellant leak, Elon Musk says](https://www.space.com/space-exploration/private-spaceflight/spacex-starship-explosion-likely-caused-by-propellant-leak-elon-musk-says)
-- [100 years ago, Edwin Hubble proved our Milky Way galaxy isn&#39;t alone](https://www.space.com/the-universe/100-years-ago-edwin-hubble-proved-our-milky-way-galaxy-isnt-alone)
-- [Nord Security founders launch Nexos.ai to help enterprises take AI projects from pilot to production](https://techcrunch.com/2025/01/17/nord-security-founders-launch-nexos-ai-to-help-enterprises-take-ai-projects-from-pilot-to-production/)
-- [Apple brings Store app to Indian market](https://techcrunch.com/2025/01/16/apple-brings-store-app-to-indian-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
