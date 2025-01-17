@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump spoke to China’s President Xi about TikTok just ahead of Supreme Court ruling](https://techcrunch.com/2025/01/17/trump-talked-to-chinas-president-xi-about-tiktok-just-ahead-of-supreme-court-ruling/)
+- [Europe&#39;s new Ariane 6 heavy-lift rocket set for 2nd launch in February](https://www.space.com/space-exploration/launches-spacecraft/europes-new-ariane-6-heavy-lift-rocket-set-for-2nd-launch-in-february)
+- [Rivian finalizes $6.6B loan for its Georgia factory](https://techcrunch.com/2025/01/17/rivian-finalizes-6-6b-loan-for-its-georgia-factory/)
+- [25 biggest space conspiracy theories: Debunked](https://www.space.com/space-exploration/search-for-life/25-space-conspiracy-theories-debunked)
 - [Instabase raises $100M to help companies process unstructured document data](https://techcrunch.com/2025/01/17/instabase-raises-100m-to-help-companies-process-unstructured-document-data/)
-- [Supreme Court upholds TikTok ban](https://techcrunch.com/2025/01/17/supreme-court-upholds-tiktok-ban/)
-- [Bushnell Equinox X650 5x32mm digital night vision monocular review](https://www.space.com/stargazing/astronomy-kit/bushnell-equinox-x650-digital-night-vision-monocular-review)
-- [Bright comet G3 ATLAS seen from space in new astronaut photo](https://www.space.com/stargazing/bright-comet-g3-atlas-seen-from-space-in-new-astronaut-photo)
-- [Ken Howery: the tech mogul at the center of Trump’s Greenland ambition](https://techcrunch.com/2025/01/17/ken-howery-the-tech-mogul-at-the-center-of-trumps-greenland-ambition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
