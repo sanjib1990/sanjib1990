@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s Jet Propulsion Lab to open next week after LA fires](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-to-open-next-week-after-la-fires)
 - [ChatGPT’s head of product will testify in the US government’s case against Google](https://techcrunch.com/2025/01/17/chatgpts-head-of-product-will-testify-in-the-us-governments-case-against-google/)
 - [Netradyne snags $90M at $1.35B valuation to expand smart dashcams for commercial fleets](https://techcrunch.com/2025/01/17/netradyne-snags-90m-at-1-25b-valuation-to-expand-smart-dashcams-for-commercial-fleets/)
 - [Space Force to march in Trump&#39;s Jan. 20 inauguration, a 1st for the new military branch](https://www.space.com/space-exploration/missions/space-force-to-march-in-trumps-jan-20-inauguration-a-1st-for-the-new-military-branch)
 - [Perplexity acquires Read.cv, a social media platform for professionals](https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/)
-- [TikTok ban: How to download your videos and data](https://techcrunch.com/2025/01/17/tiktok-ban-how-to-download-your-videos-and-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
