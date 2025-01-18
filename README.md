@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/)
+- [DOJ confirms arrested US Army soldier is linked to AT&amp;T and Verizon hacks](https://techcrunch.com/2025/01/18/doj-confirms-arrested-us-army-soldier-is-linked-to-att-and-verizon-hacks/)
+- [TikTok says it will go dark Sunday unless Biden offers ‘definitive statement’](https://techcrunch.com/2025/01/18/tiktok-says-it-will-go-dark-sunday-unless-biden-offers-definitive-statement/)
+- [This Week In Space podcast: Episode 144 —The great lunar armada](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-144-the-great-lunar-armada)
 - [Nikon 5x15 HG monocular review](https://www.space.com/stargazing/astronomy-kit/nikon-5x15-hg-monocular-review)
-- [Satellites watch &#39;ghost island&#39; solidify in the Caspian Sea before disappearing &lpar;photos&rpar;](https://www.space.com/the-universe/earth/satellites-watch-ghost-island-solidify-in-the-caspian-sea-before-disappearing-photos)
-- [World&#39;s largest telescope threatened by light pollution from renewable energy project](https://www.space.com/space-exploration/worlds-largest-telescope-threatened-by-light-pollution-from-renewable-energy-project)
-- [How victims of PowerSchool’s data breach helped each other investigate ‘massive’ hack](https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/)
-- [SpaceX launching 27 Starlink satellites today in 1st flight since Starship explosion](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-27-starlink-satellites-today-in-1st-flight-since-starship-explosion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
