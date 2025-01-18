@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World&#39;s largest telescope threatened by light pollution from renewable energy project](https://www.space.com/space-exploration/worlds-largest-telescope-threatened-by-light-pollution-from-renewable-energy-project)
 - [How victims of PowerSchool’s data breach helped each other investigate ‘massive’ hack](https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/)
 - [SpaceX launching 27 Starlink satellites today in 1st flight since Starship explosion](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-27-starlink-satellites-today-in-1st-flight-since-starship-explosion)
 - [Step inside a virtual reality art piece inspired by the James Webb Space Telescope](https://www.space.com/space-exploration/james-webb-space-telescope/step-inside-a-virtual-reality-art-piece-inspired-by-the-james-webb-space-telescope)
 - [EV startup Canoo files for bankruptcy and ceases operations](https://techcrunch.com/2025/01/17/ev-startup-canoo-files-for-bankruptcy-and-ceases-operations/)
-- [Amazon suspends US drone deliveries following crash at testing facility](https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
