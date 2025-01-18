@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Apple Intelligence rolled back after doing dumb stuff...](https://www.youtube.com/watch?v=7rXgVsIGvGQ)
 - [Solve Markov Decision Processes with the Value Iteration Algorithm - Computerphile](https://www.youtube.com/watch?v=dZ0SQrr4g8g)
 - [HashiCorp Vault Tutorial for Beginners - What, Why and How](https://www.youtube.com/watch?v=klyAhaklGNU)
 - [The most disastrous app launch of all time…](https://www.youtube.com/watch?v=yvGY5vkONds)
 - [17 weird new tech products at CES 2025 you need right now...](https://www.youtube.com/watch?v=mBFf-aYoV6Q)
-- [Computer Timescales Mapped onto Human Timescales - Computerphile](https://www.youtube.com/watch?v=PpaQrzoDW2I)
 <!-- YOUTUBE:END -->
 
 ---
