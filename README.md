@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How victims of PowerSchool’s data breach helped each other investigate ‘massive’ hack](https://techcrunch.com/2025/01/18/how-victims-of-powerschools-data-breach-helped-each-other-investigate-massive-hack/)
+- [SpaceX launching 27 Starlink satellites today in 1st flight since Starship explosion](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-27-starlink-satellites-today-in-1st-flight-since-starship-explosion)
 - [Step inside a virtual reality art piece inspired by the James Webb Space Telescope](https://www.space.com/space-exploration/james-webb-space-telescope/step-inside-a-virtual-reality-art-piece-inspired-by-the-james-webb-space-telescope)
 - [EV startup Canoo files for bankruptcy and ceases operations](https://techcrunch.com/2025/01/17/ev-startup-canoo-files-for-bankruptcy-and-ceases-operations/)
 - [Amazon suspends US drone deliveries following crash at testing facility](https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/)
-- [NASA&#39;s Jet Propulsion Lab to open next week after LA fires](https://www.space.com/space-exploration/nasas-jet-propulsion-lab-to-open-next-week-after-la-fires)
-- [ChatGPT’s head of product will testify in the US government’s case against Google](https://techcrunch.com/2025/01/17/chatgpts-head-of-product-will-testify-in-the-us-governments-case-against-google/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
