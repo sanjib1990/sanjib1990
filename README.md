@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What we know about the TikTok ban](https://techcrunch.com/2025/01/18/what-we-know-about-the-tiktok-ban/)
 - [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/)
 - [DOJ confirms arrested US Army soldier is linked to AT&amp;T and Verizon hacks](https://techcrunch.com/2025/01/18/doj-confirms-arrested-us-army-soldier-is-linked-to-att-and-verizon-hacks/)
 - [TikTok says it will go dark Sunday unless Biden offers ‘definitive statement’](https://techcrunch.com/2025/01/18/tiktok-says-it-will-go-dark-sunday-unless-biden-offers-definitive-statement/)
 - [This Week In Space podcast: Episode 144 —The great lunar armada](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-144-the-great-lunar-armada)
-- [Nikon 5x15 HG monocular review](https://www.space.com/stargazing/astronomy-kit/nikon-5x15-hg-monocular-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
