@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok is restoring service in the US](https://techcrunch.com/2025/01/19/tiktok-says-is-restoring-service-in-the-us/)
+- [TikTok is restoring service in the US](https://techcrunch.com/2025/01/19/tiktok-is-restoring-service-in-the-us/)
 - [TikTok goes dark in the US](https://techcrunch.com/2025/01/19/tiktok-goes-dark-in-the-u-s/)
 - [Trump says he will delay TikTok ban, suggests a joint venture with US ownership](https://techcrunch.com/2025/01/19/trump-says-he-will-delay-tiktok-ban-suggests-a-joint-venture-with-us-ownership/)
 - [Employees of failed startups are at special risk of stolen personal data through old Google logins](https://techcrunch.com/2025/01/19/employees-of-failed-startups-are-at-special-risk-of-stolen-personal-data-through-old-google-logins/)
