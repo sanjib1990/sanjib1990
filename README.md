@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple lists all apps it removed alongside TikTok in the U.S.](https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/)
 - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
 - [FTC says partnerships like Microsoft-OpenAI raise antitrust concerns](https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/)
 - [What we know about the TikTok ban](https://techcrunch.com/2025/01/18/what-we-know-about-the-tiktok-ban/)
-- [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
