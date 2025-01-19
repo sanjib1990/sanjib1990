@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
 - [FTC says partnerships like Microsoft-OpenAI raise antitrust concerns](https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/)
 - [What we know about the TikTok ban](https://techcrunch.com/2025/01/18/what-we-know-about-the-tiktok-ban/)
 - [Once high-flying proptech startups Divvy Homes and EasyKnock are the latest to struggle](https://techcrunch.com/2025/01/18/once-high-flying-proptech-startups-divvy-homes-easyknock-are-the-latest-to-struggle/)
-- [DOJ confirms arrested US Army soldier is linked to AT&amp;T and Verizon hacks](https://techcrunch.com/2025/01/18/doj-confirms-arrested-us-army-soldier-is-linked-to-att-and-verizon-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
