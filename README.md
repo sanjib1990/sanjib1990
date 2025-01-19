@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI isn’t very good at history, new paper finds](https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/)
+- [Scientists discover &#39;sunken worlds&#39; hidden deep within Earth&#39;s mantle that shouldn&#39;t be there](https://www.space.com/the-universe/earth/scientists-discover-sunken-worlds-hidden-deep-within-earths-mantle-that-shouldnt-be-there)
 - [How &#39;quantum foam&#39; may have inflated the early universe](https://www.space.com/the-universe/how-quantum-foam-may-have-inflated-the-early-universe)
 - [World&#39;s largest telescope gets its protective shell &lpar;photos&rpar;](https://www.space.com/the-universe/worlds-largest-telescope-gets-its-protective-shell-photos)
 - [20 years after crashing in the Utah desert, NASA&#39;s Genesis mission is still teaching us about solar wind](https://www.space.com/the-universe/20-years-after-crashing-in-the-utah-desert-nasas-genesis-mission-is-still-teaching-us-about-solar-wind)
-- [Apple lists all apps it removed alongside TikTok in the U.S.](https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/)
-- [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
