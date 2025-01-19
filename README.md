@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 years after crashing in the Utah desert, NASA&#39;s Genesis mission is still teaching us about solar wind](https://www.space.com/the-universe/20-years-after-crashing-in-the-utah-desert-nasas-genesis-mission-is-still-teaching-us-about-solar-wind)
 - [Apple lists all apps it removed alongside TikTok in the U.S.](https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/)
 - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
 - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
 - [FTC says partnerships like Microsoft-OpenAI raise antitrust concerns](https://techcrunch.com/2025/01/18/ftc-says-partnerships-like-microsoft-openai-raise-antitrust-concerns/)
-- [What we know about the TikTok ban](https://techcrunch.com/2025/01/18/what-we-know-about-the-tiktok-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
