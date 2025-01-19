@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From recruiting for Palantir to landing a plane on Highway 85: meet defense tech’s wildest power broker](https://techcrunch.com/2025/01/19/from-recruiting-for-palantir-to-landing-on-highway-85-meet-defense-techs-wildest-power-broker/)
 - [AI benchmarking organization criticized for waiting to disclose funding from OpenAI](https://techcrunch.com/2025/01/19/ai-benchmarking-organization-criticized-for-waiting-to-disclose-funding-from-openai/)
 - [The Pentagon says AI is speeding up its ‘kill chain’](https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/)
 - [Meta announces a new CapCut rival called Edits](https://techcrunch.com/2025/01/19/meta-announces-a-new-video-editing-app-called-edits-amidst-tiktok-and-capcut-ban/)
 - [TikTok is restoring service in the US](https://techcrunch.com/2025/01/19/tiktok-is-restoring-service-in-the-us/)
-- [TikTok goes dark in the US](https://techcrunch.com/2025/01/19/tiktok-goes-dark-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
