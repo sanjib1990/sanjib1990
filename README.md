@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Predator: Hunting Grounds&#39; is the perfect template for another modern-day Predator movie](https://www.space.com/entertainment/predator-hunting-grounds-is-the-perfect-template-for-another-modern-day-predator-movie)
 - [Gravitational waves offer a &#39;cosmic DNA test&#39; for black holes](https://www.space.com/black-hole-size-spin-ancestors)
 - [Blinkit signals costly battle ahead in Indian quick commerce market](https://techcrunch.com/2025/01/20/blinkit-signals-costly-battle-ahead-in-indian-quick-commerce-market/)
 - [X is rolling out a dedicated vertical video feed for US users](https://techcrunch.com/2025/01/20/x-is-rolling-out-a-dedicated-vertical-video-feed-for-us-users/)
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/)
-- [Bluesky launches a custom feed for vertical videos](https://techcrunch.com/2025/01/19/bluesky-launches-a-custom-feed-for-vertical-videos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
