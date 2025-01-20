@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)
+- [At the Microsoft Excel World Championship, selfies and a ‘hype’ tunnel](https://techcrunch.com/2025/01/20/at-the-microsoft-excel-world-championship-selfies-and-a-hype-tunnel/)
 - [Hubble Telescope spies newborn stars in famous Orion Nebula &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-spies-newborn-stars-in-famous-orion-nebula-photo)
 - [&#39;We will pursue our manifest destiny into the stars.&#39; President Trump wants astronauts to raise the American flag on Mars](https://www.space.com/space-exploration/we-will-pursue-our-manifest-destiny-into-the-stars-president-trump-wants-astronauts-to-raise-the-american-flag-on-mars)
 - [Flipboard’s new app Surf adds its own video feed, too](https://techcrunch.com/2025/01/20/flipboards-new-app-surf-adds-its-own-video-feed-too/)
-- [DC&#39;s new &#39;Superman Unlimited&#39; comic lands prior to James Gunn&#39;s &#39;Superman&#39; movie](https://www.space.com/entertainment/dcs-new-superman-unlimited-comic-lands-prior-to-james-gunns-superman)
-- [DeepSeek claims its reasoning model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
