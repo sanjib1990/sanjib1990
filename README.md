@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are the types of AI companies enterprise VCs want to back in 2025](https://techcrunch.com/2025/01/20/here-are-the-types-of-ai-companies-enterprise-vcs-want-to-back-in-2025/)
+- [Monocular vs binocular: Which is best for stargazing](https://www.space.com/stargazing/astronomy-kit/monocular-vs-binocular-which-is-best-for-stargazing)
+- [&#39;Heavy&#39; dark matter would rip our understanding of the universe apart, new research suggests](https://www.space.com/the-universe/heavy-dark-matter-would-rip-our-understanding-of-the-universe-apart-new-research-suggests)
 - [3D structure of iconic Ring Nebula gives &#39;a brand new view of an old astronomical friend&#39;](https://www.space.com/the-universe/stars/3d-structure-of-iconic-ring-nebula-gives-a-brand-new-view-of-an-old-astronomical-friend)
 - [How President Trump could change NASA](https://www.space.com/space-exploration/how-president-trump-could-change-nasa)
-- [&#39;Silo&#39; Season 2&#39;s explosive finale teases season 3 with a cliffhanger and a Pez dispenser](https://www.space.com/entertainment/silo-season-2s-explosive-finale-teases-season-3-with-a-cliffhanger-and-a-pez-dispenser)
-- [AI vision startup Metropolis is buying Oosto &lpar;formerly known as AnyVision&rpar; for just $125M, sources say](https://techcrunch.com/2025/01/20/sources-ai-vision-startup-metropolis-is-buying-oosto-formerly-known-as-anyvision-for-just-125m/)
-- [&#39;Predator: Hunting Grounds&#39; is the perfect template for another modern-day Predator movie](https://www.space.com/entertainment/predator-hunting-grounds-is-the-perfect-template-for-another-modern-day-predator-movie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
