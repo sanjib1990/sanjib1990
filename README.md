@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How President Trump could change NASA](https://www.space.com/space-exploration/how-president-trump-could-change-nasa)
+- [&#39;Silo&#39; Season 2&#39;s explosive finale teases season 3 with a cliffhanger and a Pez dispenser](https://www.space.com/entertainment/silo-season-2s-explosive-finale-teases-season-3-with-a-cliffhanger-and-a-pez-dispenser)
+- [AI vision startup Metropolis is buying Oosto &lpar;formerly known as AnyVision&rpar; for just $125M, sources say](https://techcrunch.com/2025/01/20/sources-ai-vision-startup-metropolis-is-buying-oosto-formerly-known-as-anyvision-for-just-125m/)
 - [&#39;Predator: Hunting Grounds&#39; is the perfect template for another modern-day Predator movie](https://www.space.com/entertainment/predator-hunting-grounds-is-the-perfect-template-for-another-modern-day-predator-movie)
 - [Gravitational waves offer a &#39;cosmic DNA test&#39; for black holes](https://www.space.com/black-hole-size-spin-ancestors)
-- [Blinkit signals costly battle ahead in Indian quick commerce market](https://techcrunch.com/2025/01/20/blinkit-signals-costly-battle-ahead-in-indian-quick-commerce-market/)
-- [X is rolling out a dedicated vertical video feed for US users](https://techcrunch.com/2025/01/20/x-is-rolling-out-a-dedicated-vertical-video-feed-for-us-users/)
-- [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
