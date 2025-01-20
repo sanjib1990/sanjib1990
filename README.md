@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/)
+- [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/)
 - [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)
 - [At the Microsoft Excel World Championship, selfies and a ‘hype’ tunnel](https://techcrunch.com/2025/01/20/at-the-microsoft-excel-world-championship-selfies-and-a-hype-tunnel/)
 - [Hubble Telescope spies newborn stars in famous Orion Nebula &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-spies-newborn-stars-in-famous-orion-nebula-photo)
-- [&#39;We will pursue our manifest destiny into the stars.&#39; President Trump wants astronauts to raise the American flag on Mars](https://www.space.com/space-exploration/we-will-pursue-our-manifest-destiny-into-the-stars-president-trump-wants-astronauts-to-raise-the-american-flag-on-mars)
-- [Flipboard’s new app Surf adds its own video feed, too](https://techcrunch.com/2025/01/20/flipboards-new-app-surf-adds-its-own-video-feed-too/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
