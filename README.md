@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We will pursue our manifest destiny into the stars.&#39; President Trump wants astronauts to raise the American flag on Mars](https://www.space.com/space-exploration/we-will-pursue-our-manifest-destiny-into-the-stars-president-trump-wants-astronauts-to-raise-the-american-flag-on-mars)
+- [Flipboard’s new app Surf adds its own video feed, too](https://techcrunch.com/2025/01/20/flipboards-new-app-surf-adds-its-own-video-feed-too/)
+- [DC&#39;s new &#39;Superman Unlimited&#39; comic lands prior to James Gunn&#39;s &#39;Superman&#39; movie](https://www.space.com/entertainment/dcs-new-superman-unlimited-comic-lands-prior-to-james-gunns-superman)
 - [DeepSeek claims its reasoning model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/)
 - [RedNote, Flip, Clapper and Likee claim the top of the App Store as TikTok comes back online](https://techcrunch.com/2025/01/20/rednote-flip-clapper-and-likee-claim-the-top-of-the-app-store-as-tiktok-comes-back-online/)
-- [Meta confirms it will keep fact-checkers outside the U.S. ‘for now’](https://techcrunch.com/2025/01/20/meta-confirms-it-will-keep-fact-checkers-outside-the-u-s-for-now/)
-- [Scientists call on UN to help solve Earth&#39;s space junk problem](https://www.space.com/space-exploration/satellites/scientists-call-on-un-to-help-solve-earths-space-junk-problem)
-- [Here are the types of AI companies enterprise VCs want to back in 2025](https://techcrunch.com/2025/01/20/here-are-the-types-of-ai-companies-enterprise-vcs-want-to-back-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
