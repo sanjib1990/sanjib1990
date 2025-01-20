@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek claims its reasoning model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/)
+- [RedNote, Flip, Clapper and Likee claim the top of the App Store as TikTok comes back online](https://techcrunch.com/2025/01/20/rednote-flip-clapper-and-likee-claim-the-top-of-the-app-store-as-tiktok-comes-back-online/)
 - [Meta confirms it will keep fact-checkers outside the U.S. ‘for now’](https://techcrunch.com/2025/01/20/meta-confirms-it-will-keep-fact-checkers-outside-the-u-s-for-now/)
 - [Scientists call on UN to help solve Earth&#39;s space junk problem](https://www.space.com/space-exploration/satellites/scientists-call-on-un-to-help-solve-earths-space-junk-problem)
 - [Here are the types of AI companies enterprise VCs want to back in 2025](https://techcrunch.com/2025/01/20/here-are-the-types-of-ai-companies-enterprise-vcs-want-to-back-in-2025/)
-- [Monocular vs binocular: Which is best for stargazing](https://www.space.com/stargazing/astronomy-kit/monocular-vs-binocular-which-is-best-for-stargazing)
-- [&#39;Heavy&#39; dark matter would rip our understanding of the universe apart, new research suggests](https://www.space.com/the-universe/heavy-dark-matter-would-rip-our-understanding-of-the-universe-apart-new-research-suggests)
 <!-- BLOG-POST-LIST:END -->
 
 ---
