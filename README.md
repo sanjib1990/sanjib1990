@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gravitational waves offer a &#39;cosmic DNA test&#39; for black holes](https://www.space.com/black-hole-size-spin-ancestors)
+- [Blinkit signals costly battle ahead in Indian quick commerce market](https://techcrunch.com/2025/01/20/blinkit-signals-costly-battle-ahead-in-indian-quick-commerce-market/)
 - [X is rolling out a dedicated vertical video feed for US users](https://techcrunch.com/2025/01/20/x-is-rolling-out-a-dedicated-vertical-video-feed-for-us-users/)
 - [How African VC firm Oui Capital returned its first fund with Moniepoint’s unicorn exit](https://techcrunch.com/2025/01/19/oui-capital-return-fund-with-moniepoint-exit/)
 - [Bluesky launches a custom feed for vertical videos](https://techcrunch.com/2025/01/19/bluesky-launches-a-custom-feed-for-vertical-videos/)
-- [How to stream Donald Trump’s Inauguration Day 2025](https://techcrunch.com/2025/01/19/how-to-stream-donald-trumps-inauguration-day-2025/)
-- [From recruiting for Palantir to landing a plane on Highway 85: meet defense tech’s wildest power broker](https://techcrunch.com/2025/01/19/from-recruiting-for-palantir-to-landing-on-highway-85-meet-defense-techs-wildest-power-broker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
