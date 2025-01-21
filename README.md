@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Govtech giant Conduent won’t rule out cyberattack as outage drags on](https://techcrunch.com/2025/01/21/govtech-giant-conduent-wont-rule-out-cyberattack-as-outage-drags-on/)
+- [Bill Nelson steps down as NASA chief as Trump begins 2nd term](https://www.space.com/space-exploration/bill-nelson-steps-down-as-nasa-chief-as-trump-begins-2nd-term)
 - [&#39;Silo&#39; creator Graham Yost talks season 2&#39;s cliffhanger ending and how it sets up season 3 &lpar;Exclusive&rpar;](https://www.space.com/entertainment/silo-season-2-finale-creator-graham-yost-on-that-big-time-jump-and-how-it-heralds-season-3-exclusive)
-- [Spotify introduces educational audio courses, starting in the UK](https://techcrunch.com/2025/01/21/spotify-introduces-educational-audio-courses-starting-in-the-uk/)
+- [Spotify’s educational audio courses could be coming to US](https://techcrunch.com/2025/01/21/spotify-educational-audio-courses-could-be-coming-to-us/)
 - [Trump moves to sink offshore wind](https://techcrunch.com/2025/01/21/trump-moves-to-sink-offshore-wind/)
-- [Meta lures TikTok creators with $5K bonuses, content deals, free verification](https://techcrunch.com/2025/01/21/meta-lures-tiktok-creators-with-5k-bonuses-content-deals-free-verification/)
-- [Funding to fintechs continues to decline, but at a slower pace](https://techcrunch.com/2025/01/21/funding-to-fintechs-continues-to-decline-but-at-a-slower-pace/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
