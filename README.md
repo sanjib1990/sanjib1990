@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/)
 - [President Trump signs exec order to make Musk’s DOGE commission more official](https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/)
 - [Trump signs exec order delaying TikTok enforcement action for 75 days](https://techcrunch.com/2025/01/20/trump-signs-exec-order-delaying-tiktok-enforcement-action-for-75-days/)
 - [President Trump repeals Biden’s AI executive order](https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/)
 - [UK to unveil ‘Humphrey’ assistant for civil servants with other AI plans to cut bureaucracy](https://techcrunch.com/2025/01/20/uk-to-unveil-humphrey-assistant-for-civil-servants-with-other-ai-plans-to-cut-bureaucracy/)
-- [SpaceX launching 21 Starlink satellites early Jan. 21 on 1st flight since Starship explosion](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-21-starlink-satellites-early-jan-21-on-1st-flight-since-starship-explosion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
