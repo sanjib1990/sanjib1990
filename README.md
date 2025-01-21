@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Funding to fintechs continues to decline, but at a slower pace](https://techcrunch.com/2025/01/21/funding-to-fintechs-continues-to-decline-but-at-a-slower-pace/)
+- [Watch &lpar;and hear!&rpar; a meteorite impact on doorbell camera video in a world 1st](https://www.space.com/stargazing/meteors-showers/watch-and-hear-a-meteorite-impact-on-doorbell-camera-video-in-a-world-1st)
+- [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/)
 - [The best Disney-era Star Wars spaceships](https://www.space.com/entertainment/the-best-disney-era-star-wars-spaceships)
 - [Forum software NodeBB joins the fediverse](https://techcrunch.com/2025/01/21/forum-software-nodebb-joins-the-fediverse/)
-- [Samsung Unpacked 2025: Here’s how to watch and what we expect](https://techcrunch.com/2025/01/21/samsung-unpacked-2025-heres-how-to-watch-and-what-we-expect/)
-- [Meta will soon let you link your WhatsApp account with Instagram and Facebook](https://techcrunch.com/2025/01/21/meta-will-soon-let-you-link-your-whatsapp-account-with-instagram-and-facebook/)
-- [IMDb founder steps down as CEO after 35 years](https://techcrunch.com/2025/01/21/imdb-founder-steps-down-as-ceo-after-35-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
