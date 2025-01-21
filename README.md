@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A history of time in computers](https://www.youtube.com/watch?v=NsUVKI40DmE)
+- [This free Chinese AI just crushed OpenAI&#39;s $200 o1 model...](https://www.youtube.com/watch?v=-2k1rcRzsLA)
 - [Quicksort Algorithm in Five Lines of Code! - Computerphile](https://www.youtube.com/watch?v=OKc2hAmMOY4)
 - [Apple Intelligence rolled back after doing dumb stuff...](https://www.youtube.com/watch?v=7rXgVsIGvGQ)
 - [Solve Markov Decision Processes with the Value Iteration Algorithm - Computerphile](https://www.youtube.com/watch?v=dZ0SQrr4g8g)
-- [HashiCorp Vault Tutorial for Beginners - What, Why and How](https://www.youtube.com/watch?v=klyAhaklGNU)
-- [The most disastrous app launch of all time…](https://www.youtube.com/watch?v=yvGY5vkONds)
 <!-- YOUTUBE:END -->
 
 ---
