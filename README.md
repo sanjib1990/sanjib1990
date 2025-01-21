@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When you wish upon a star, is it already dead? An astronomer crunches the numbers](https://www.space.com/the-universe/when-you-wish-upon-a-star-is-it-already-dead-an-astronomer-crunches-the-numbers)
+- [Qomodo raises $13.9M to expand BNPL for Italy’s main-street retailers](https://techcrunch.com/2025/01/21/qomodo-raises-13-9m-to-expand-bnpl-for-italys-main-street-retailers/)
 - [First look at space shuttle, Mission Control 2025 dollar coins from US Mint](https://www.space.com/space-shuttle-mission-control-florida-texas-innovation-coin-designs)
 - [Save up to 35% on a range of Black Series Force FX lightsabers](https://www.space.com/entertainment/space-games-toys/35-percent-off-lightsabers-january-2025)
 - [HPE investigating security breach after hacker claims theft of sensitive data](https://techcrunch.com/2025/01/21/hpe-investigating-security-breach-after-hacker-claims-theft-of-sensitive-data/)
-- [MoneyHash, which provides single access to payment services in MENA, banks $5.2M](https://techcrunch.com/2025/01/21/moneyhash-provides-single-access-to-payment-services-in-mena/)
-- [UK approves 1st vertical rocket launch from Saxavord Spaceport](https://www.space.com/space-exploration/launches-spacecraft/uk-approves-1st-vertical-rocket-launch-from-saxavord-spaceport)
 <!-- BLOG-POST-LIST:END -->
 
 ---
