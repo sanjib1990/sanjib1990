@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/)
+- [Trump targets EV charging funding programs Tesla benefits from](https://techcrunch.com/2025/01/21/trump-targets-ev-charging-funding-programs-tesla-benefits-from/)
 - [Govtech giant Conduent won’t rule out cyberattack as outage drags on](https://techcrunch.com/2025/01/21/govtech-giant-conduent-wont-rule-out-cyberattack-as-outage-drags-on/)
 - [Bill Nelson steps down as NASA chief as Trump begins 2nd term](https://www.space.com/space-exploration/bill-nelson-steps-down-as-nasa-chief-as-trump-begins-2nd-term)
 - [&#39;Silo&#39; creator Graham Yost talks season 2&#39;s cliffhanger ending and how it sets up season 3 &lpar;Exclusive&rpar;](https://www.space.com/entertainment/silo-season-2-finale-creator-graham-yost-on-that-big-time-jump-and-how-it-heralds-season-3-exclusive)
-- [Spotify’s educational audio courses could be coming to US](https://techcrunch.com/2025/01/21/spotify-educational-audio-courses-could-be-coming-to-us/)
-- [Trump moves to sink offshore wind](https://techcrunch.com/2025/01/21/trump-moves-to-sink-offshore-wind/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
