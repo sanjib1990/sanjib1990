@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta will soon let you link your WhatsApp account with Instagram and Facebook](https://techcrunch.com/2025/01/21/meta-will-soon-let-you-link-your-whatsapp-account-with-instagram-and-facebook/)
 - [IMDb founder steps down as CEO after 35 years](https://techcrunch.com/2025/01/21/imdb-founder-steps-down-as-ceo-after-35-years/)
 - [Vortex Solo R/T 8x36 monocular](https://www.space.com/stargazing/astronomy-kit/vortex-solo-rt-8x36-monocular-review)
 - [Rocket Lab selected to launch more hypersonic test vehicles for US military](https://www.space.com/space-exploration/tech/rocket-lab-selected-to-launch-more-hypersonic-test-vehicles-for-us-military)
 - [Anthropic plans to release a ‘two-way’ voice mode for Claude](https://techcrunch.com/2025/01/21/anthropic-plans-to-release-a-two-way-voice-mode-for-claude/)
-- [UK plans ‘digital wallet’ for driver’s licenses and other ID, plus a chatbot powered by OpenAI](https://techcrunch.com/2025/01/21/uk-plans-digital-wallet-for-drivers-licenses-and-other-id-plus-a-chatbot-powered-by-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
