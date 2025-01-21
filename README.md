@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [When you wish upon a star, is it already dead? An astronomer crunches the numbers](https://www.space.com/the-universe/when-you-wish-upon-a-star-is-it-already-dead-an-astronomer-crunches-the-numbers)
-- [Qomodo raises $13.9M to expand BNPL for Italy’s main-street retailers](https://techcrunch.com/2025/01/21/qomodo-raises-13-9m-to-expand-bnpl-for-italys-main-street-retailers/)
-- [First look at space shuttle, Mission Control 2025 dollar coins from US Mint](https://www.space.com/space-shuttle-mission-control-florida-texas-innovation-coin-designs)
-- [Save up to 35% on a range of Black Series Force FX lightsabers](https://www.space.com/entertainment/space-games-toys/35-percent-off-lightsabers-january-2025)
-- [HPE investigating security breach after hacker claims theft of sensitive data](https://techcrunch.com/2025/01/21/hpe-investigating-security-breach-after-hacker-claims-theft-of-sensitive-data/)
+- [IMDb founder steps down as CEO after 35 years](https://techcrunch.com/2025/01/21/imdb-founder-steps-down-as-ceo-after-35-years/)
+- [Vortex Solo R/T 8x36 monocular](https://www.space.com/stargazing/astronomy-kit/vortex-solo-rt-8x36-monocular-review)
+- [Rocket Lab selected to launch more hypersonic test vehicles for US military](https://www.space.com/space-exploration/tech/rocket-lab-selected-to-launch-more-hypersonic-test-vehicles-for-us-military)
+- [Anthropic plans to release a ‘two-way’ voice mode for Claude](https://techcrunch.com/2025/01/21/anthropic-plans-to-release-a-two-way-voice-mode-for-claude/)
+- [UK plans ‘digital wallet’ for driver’s licenses and other ID, plus a chatbot powered by OpenAI](https://techcrunch.com/2025/01/21/uk-plans-digital-wallet-for-drivers-licenses-and-other-id-plus-a-chatbot-powered-by-openai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
