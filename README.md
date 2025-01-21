@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First look at space shuttle, Mission Control 2025 dollar coins from US Mint](https://www.space.com/space-shuttle-mission-control-florida-texas-innovation-coin-designs)
+- [Save up to 35% on a range of Black Series Force FX lightsabers](https://www.space.com/entertainment/space-games-toys/35-percent-off-lightsabers-january-2025)
 - [HPE investigating security breach after hacker claims theft of sensitive data](https://techcrunch.com/2025/01/21/hpe-investigating-security-breach-after-hacker-claims-theft-of-sensitive-data/)
 - [MoneyHash, which provides single access to payment services in MENA, banks $5.2M](https://techcrunch.com/2025/01/21/moneyhash-provides-single-access-to-payment-services-in-mena/)
 - [UK approves 1st vertical rocket launch from Saxavord Spaceport](https://www.space.com/space-exploration/launches-spacecraft/uk-approves-1st-vertical-rocket-launch-from-saxavord-spaceport)
-- [Karmen secures $9.4 million for its revenue-based financing products](https://techcrunch.com/2025/01/20/karmen-secures-94-million-for-its-revenue-based-financing-products/)
-- [President Trump signs exec order to make Musk’s DOGE commission more official](https://techcrunch.com/2025/01/20/president-trump-signs-exec-order-to-make-musks-doge-commission-more-official/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
