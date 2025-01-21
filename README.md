@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Silo&#39; creator Graham Yost talks season 2&#39;s cliffhanger ending and how it sets up season 3 &lpar;Exclusive&rpar;](https://www.space.com/entertainment/silo-season-2-finale-creator-graham-yost-on-that-big-time-jump-and-how-it-heralds-season-3-exclusive)
+- [Spotify introduces educational audio courses, starting in the UK](https://techcrunch.com/2025/01/21/spotify-introduces-educational-audio-courses-starting-in-the-uk/)
+- [Trump moves to sink offshore wind](https://techcrunch.com/2025/01/21/trump-moves-to-sink-offshore-wind/)
+- [Meta lures TikTok creators with $5K bonuses, content deals, free verification](https://techcrunch.com/2025/01/21/meta-lures-tiktok-creators-with-5k-bonuses-content-deals-free-verification/)
 - [Funding to fintechs continues to decline, but at a slower pace](https://techcrunch.com/2025/01/21/funding-to-fintechs-continues-to-decline-but-at-a-slower-pace/)
-- [Watch &lpar;and hear!&rpar; a meteorite impact on doorbell camera video in a world 1st](https://www.space.com/stargazing/meteors-showers/watch-and-hear-a-meteorite-impact-on-doorbell-camera-video-in-a-world-1st)
-- [Stripe is laying off 300 people, but says it still plans to hire in 2025](https://techcrunch.com/2025/01/21/stripe-is-laying-off-300-people-but-says-it-still-plans-to-hire-in-2025/)
-- [The best Disney-era Star Wars spaceships](https://www.space.com/entertainment/the-best-disney-era-star-wars-spaceships)
-- [Forum software NodeBB joins the fediverse](https://techcrunch.com/2025/01/21/forum-software-nodebb-joins-the-fediverse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
