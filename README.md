@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/)
+- [Earth&#39;s elusive &#39;ignorosphere&#39; could shed new light on auroras](https://www.space.com/the-universe/earth/earths-elusive-ignorosphere-could-shed-new-light-on-auroras)
+- [Scale AI’s Alexandr Wang has published an open letter lobbying Trump to invest in AI](https://techcrunch.com/2025/01/21/scale-ais-alexandr-wang-has-published-an-open-letter-lobbying-trump-to-invest-in-ai/)
 - [Amperesand targets data centers as the next big customer for its solid-state transformers](https://techcrunch.com/2025/01/21/amperesand-targets-data-centers-as-the-next-big-customer-for-its-solid-state-transformers/)
 - [Finland becomes 53rd country to join the Artemis Accords for moon exploration](https://www.space.com/the-universe/moon/finland-becomes-53rd-country-to-join-the-artemis-accords-for-moon-exploration)
-- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/)
-- [Meta is building Oakley smart glasses for athletes: report](https://techcrunch.com/2025/01/21/meta-is-building-oakley-smart-glasses-for-athletes-report/)
-- [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
