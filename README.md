@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The best Disney-era Star Wars spaceships](https://www.space.com/entertainment/the-best-disney-era-star-wars-spaceships)
+- [Forum software NodeBB joins the fediverse](https://techcrunch.com/2025/01/21/forum-software-nodebb-joins-the-fediverse/)
+- [Samsung Unpacked 2025: Here’s how to watch and what we expect](https://techcrunch.com/2025/01/21/samsung-unpacked-2025-heres-how-to-watch-and-what-we-expect/)
 - [Meta will soon let you link your WhatsApp account with Instagram and Facebook](https://techcrunch.com/2025/01/21/meta-will-soon-let-you-link-your-whatsapp-account-with-instagram-and-facebook/)
 - [IMDb founder steps down as CEO after 35 years](https://techcrunch.com/2025/01/21/imdb-founder-steps-down-as-ceo-after-35-years/)
-- [Vortex Solo R/T 8x36 monocular](https://www.space.com/stargazing/astronomy-kit/vortex-solo-rt-8x36-monocular-review)
-- [Rocket Lab selected to launch more hypersonic test vehicles for US military](https://www.space.com/space-exploration/tech/rocket-lab-selected-to-launch-more-hypersonic-test-vehicles-for-us-military)
-- [Anthropic plans to release a ‘two-way’ voice mode for Claude](https://techcrunch.com/2025/01/21/anthropic-plans-to-release-a-two-way-voice-mode-for-claude/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
