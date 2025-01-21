@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amperesand targets data centers as the next big customer for its solid-state transformers](https://techcrunch.com/2025/01/21/amperesand-targets-data-centers-as-the-next-big-customer-for-its-solid-state-transformers/)
+- [Finland becomes 53rd country to join the Artemis Accords for moon exploration](https://www.space.com/the-universe/moon/finland-becomes-53rd-country-to-join-the-artemis-accords-for-moon-exploration)
+- [Startup founders flooded inauguration parties hopeful for dealmaking](https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/)
+- [Meta is building Oakley smart glasses for athletes: report](https://techcrunch.com/2025/01/21/meta-is-building-oakley-smart-glasses-for-athletes-report/)
 - [Perplexity launches Sonar, an API for AI search](https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/)
-- [Trump targets EV charging funding programs Tesla benefits from](https://techcrunch.com/2025/01/21/trump-targets-ev-charging-funding-programs-tesla-benefits-from/)
-- [Govtech giant Conduent won’t rule out cyberattack as outage drags on](https://techcrunch.com/2025/01/21/govtech-giant-conduent-wont-rule-out-cyberattack-as-outage-drags-on/)
-- [Bill Nelson steps down as NASA chief as Trump begins 2nd term](https://www.space.com/space-exploration/bill-nelson-steps-down-as-nasa-chief-as-trump-begins-2nd-term)
-- [&#39;Silo&#39; creator Graham Yost talks season 2&#39;s cliffhanger ending and how it sets up season 3 &lpar;Exclusive&rpar;](https://www.space.com/entertainment/silo-season-2-finale-creator-graham-yost-on-that-big-time-jump-and-how-it-heralds-season-3-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
