@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [President Trump repeals Biden’s AI executive order](https://techcrunch.com/2025/01/20/president-trump-repeals-bidens-ai-executive-order/)
+- [UK to unveil ‘Humphrey’ assistant for civil servants with other AI plans to cut bureaucracy](https://techcrunch.com/2025/01/20/uk-to-unveil-humphrey-assistant-for-civil-servants-with-other-ai-plans-to-cut-bureaucracy/)
+- [SpaceX launching 21 Starlink satellites early Jan. 21 on 1st flight since Starship explosion](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-21-starlink-satellites-early-jan-21-on-1st-flight-since-starship-explosion)
 - [OpenAI’s agent tool may be nearing release](https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/)
 - [Friend delays shipments of its AI companion pendant](https://techcrunch.com/2025/01/20/friend-delays-shipments-of-its-ai-companion-pendant/)
-- [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)
-- [At the Microsoft Excel World Championship, selfies and a ‘hype’ tunnel](https://techcrunch.com/2025/01/20/at-the-microsoft-excel-world-championship-selfies-and-a-hype-tunnel/)
-- [Hubble Telescope spies newborn stars in famous Orion Nebula &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-spies-newborn-stars-in-famous-orion-nebula-photo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
