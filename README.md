@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hubble tension is now in our cosmic backyard, sending cosmology into crisis](https://www.space.com/space-exploration/hubble-space-telescope/hubble-tension-is-now-in-our-cosmic-backyard-sending-cosmology-into-crisis)
+- [Google hit with $12.6M fine in Indonesia for monopolistic practices in payment system](https://techcrunch.com/2025/01/22/google-hit-with-12-6m-fine-in-indonesia-for-monopolistic-practices-in-payment-system/)
+- [Hindustan Unilever acquires Peak XV-backed Minimalist for over $340M](https://techcrunch.com/2025/01/22/hindustan-unilever-acquires-peak-xv-backed-minimalist-for-over-340m/)
+- [Save nearly $75 on these all-purpose Celestron Nature DX ED 8x42](https://www.space.com/stargazing/astronomy-kit/save-nearly-usd75-on-these-all-purpose-celestron-nature-dx-ed-8x42)
 - [UK appoints ex-Amazon executive Doug Gurr as interim chair of antitrust body](https://techcrunch.com/2025/01/22/uk-appoints-ex-amazon-executive-doug-gurr-as-interim-chair-of-antitrust-body/)
-- [Indian fintech Jar turns cash flow positive](https://techcrunch.com/2025/01/22/indian-fintech-jar-turns-cash-flow-positive/)
-- [Vertice raises $50M for its AI-powered SaaS spend platform](https://techcrunch.com/2025/01/21/vertice-raises-50m-for-its-ai-powered-saas-spend-platform/)
-- [Truecaller brings real-time caller ID to iPhone users](https://techcrunch.com/2025/01/21/truecaller-brings-real-time-caller-id-to-iphone-users/)
-- [Trump pardons Silk Road creator Ross Ulbricht](https://techcrunch.com/2025/01/21/trump-pardons-silk-road-creator-ross-ulbricht/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
