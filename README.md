@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nearly 10 years later, Tumblr TV launches to all as a TikTok alternative](https://techcrunch.com/2025/01/22/nearly-10-years-later-tumblr-tv-launches-to-all-as-a-tiktok-alternative/)
+- [Scale AI is facing a third worker lawsuit in about a month](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/)
 - [Chinese commercial Ceres-1 rocket launches 5 weather satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/chinese-commercial-ceres-1-rocket-launches-5-satellites-video)
 - [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/)
 - [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/)
-- [Microsoft’s relationship with OpenAI cracked when it hired Mustafa Suleyman, rival Marc Benioff says](https://techcrunch.com/2025/01/22/microsofts-relationship-with-openai-cracked-when-it-hired-mustafa-suleyman-rival-marc-benioff-says/)
-- [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
