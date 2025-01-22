@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Livestream app Favorited, a new TikTok alternative, gets backing from a16z](https://techcrunch.com/2025/01/22/livestream-app-favorited-a-new-tiktok-alternative-gets-backing-from-a16z/)
-- [Europe plans to launch advanced Mars lander in 2035](https://www.space.com/space-exploration/missions/europe-plans-to-launch-advanced-mars-lander-in-2035)
-- [Trump administration fires members of cybersecurity review board in “horribly shortsighted” decision](https://techcrunch.com/2025/01/22/trump-administration-fires-members-of-cybersecurity-review-board-in-horribly-shortsighted-decision/)
-- [Dewey launches a solution to save your TikTok favorites … just in case](https://techcrunch.com/2025/01/22/dewey-launches-a-solution-to-save-your-tiktok-favorites-just-in-case/)
-- [YouTube launches speed controls and high-quality audio tests for Premium users](https://techcrunch.com/2025/01/22/youtube-premium/)
+- [Streaming service Plex gets more social with public profiles and reviews](https://techcrunch.com/2025/01/22/streaming-service-plex-gets-more-social-with-public-profiles-and-reviews/)
+- [Zombie nuclear reactors could be revived thanks to AI data center demand](https://techcrunch.com/2025/01/22/zombie-nuclear-reactors-could-be-revived-thanks-to-ai-data-center-demand/)
+- [Samsung’s SmartThings to introduce AI features that simplify your daily routines](https://techcrunch.com/2025/01/22/samsungs-smartthings-to-introduce-ai-features-that-simplify-your-daily-routines/)
+- [Samsung’s AI-focused Galaxy S25 Ultra ships February 7 for $1,300](https://techcrunch.com/2025/01/22/samsungs-ai-focused-galaxy-s25-ultra-ships-february-7-for-1300/)
+- [The Samsung Galaxy S25’s side button fires up Google Gemini](https://techcrunch.com/2025/01/22/the-samsung-galaxy-s25s-side-button-fires-up-google-gemini/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
