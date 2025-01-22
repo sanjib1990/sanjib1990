@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK appoints ex-Amazon executive Doug Gurr as interim chair of antitrust body](https://techcrunch.com/2025/01/22/uk-appoints-ex-amazon-executive-doug-gurr-as-interim-chair-of-antitrust-body/)
 - [Indian fintech Jar turns cash flow positive](https://techcrunch.com/2025/01/22/indian-fintech-jar-turns-cash-flow-positive/)
 - [Vertice raises $50M for its AI-powered SaaS spend platform](https://techcrunch.com/2025/01/21/vertice-raises-50m-for-its-ai-powered-saas-spend-platform/)
 - [Truecaller brings real-time caller ID to iPhone users](https://techcrunch.com/2025/01/21/truecaller-brings-real-time-caller-id-to-iphone-users/)
 - [Trump pardons Silk Road creator Ross Ulbricht](https://techcrunch.com/2025/01/21/trump-pardons-silk-road-creator-ross-ulbricht/)
-- [MrBeast is reportedly now among those trying to buy TikTok](https://techcrunch.com/2025/01/21/mr-beast-is-reportedly-now-among-those-trying-to-buy-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
