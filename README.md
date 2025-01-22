@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Livestream app Favorited, a new TikTok alternative, gets backing from a16z](https://techcrunch.com/2025/01/22/livestream-app-favorited-a-new-tiktok-alternative-gets-backing-from-a16z/)
+- [Europe plans to launch advanced Mars lander in 2035](https://www.space.com/space-exploration/missions/europe-plans-to-launch-advanced-mars-lander-in-2035)
+- [Trump administration fires members of cybersecurity review board in “horribly shortsighted” decision](https://techcrunch.com/2025/01/22/trump-administration-fires-members-of-cybersecurity-review-board-in-horribly-shortsighted-decision/)
+- [Dewey launches a solution to save your TikTok favorites … just in case](https://techcrunch.com/2025/01/22/dewey-launches-a-solution-to-save-your-tiktok-favorites-just-in-case/)
 - [YouTube launches speed controls and high-quality audio tests for Premium users](https://techcrunch.com/2025/01/22/youtube-premium/)
-- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/22/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/)
-- [Beam me to the stars: Scientists propose wild new interstellar travel tech](https://www.space.com/space-exploration/tech/beam-me-to-the-stars-scientists-propose-wild-new-interstellar-travel-tech)
-- [Anthropic reportedly secures an additional $1B from Google](https://techcrunch.com/2025/01/22/anthropic-reportedly-secures-an-additional-1b-from-google/)
-- [Want a Telescope for Christmas? Here&#39;s What You Need to Know](https://www.space.com/27897-telescope-binoculars-astronomy-tips.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
