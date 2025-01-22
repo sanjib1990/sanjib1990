@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ramp encroaches into digital bank territory with new treasury product](https://techcrunch.com/2025/01/22/ramp-encroaches-into-digital-bank-territory-with-new-treasury-product/)
+- [Postman launches an AI agent builder on top of its API platform](https://techcrunch.com/2025/01/22/postman-launches-an-ai-agent-builder-on-top-of-its-api-platform/)
 - [Sales knowledge automation platform 1up gets a third of its customer leads from memes](https://techcrunch.com/2025/01/22/sales-knowledge-automation-platform-1up-gets-a-third-of-its-customer-leads-from-memes/)
 - [Doti gives enterprises a flexible AI-powered search experience to unlock their data silos](https://techcrunch.com/2025/01/22/doti-gives-enterprises-a-flexible-ai-powered-search-experience-to-unlock-their-data-silos/)
 - [Partial solar eclipse March 2025: Everything you need to know](https://www.space.com/stargazing/eclipses/partial-solar-eclipse-march-2025-everything-you-need-to-know)
-- [Lindus Health raises $55M to ‘fix the broken clinical trial industry’](https://techcrunch.com/2025/01/22/lindus-health-raises-55m-to-fix-the-broken-clinical-trial-industry/)
-- [Hubble tension is now in our cosmic backyard, sending cosmology into crisis](https://www.space.com/space-exploration/hubble-space-telescope/hubble-tension-is-now-in-our-cosmic-backyard-sending-cosmology-into-crisis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
