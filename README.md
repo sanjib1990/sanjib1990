@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Strange Earth &#39;quasi-moon&#39; named Cardea, after goddess of door hinges](https://www.space.com/the-universe/solar-system/strange-earth-quasi-moon-named-cardea-after-goddess-of-door-hinges)
-- [Researchers develop a way to power wearables through human skin](https://techcrunch.com/2025/01/22/researchers-develop-a-way-to-power-wearables-through-human-skin/)
-- [Astrophotographer captures a &#39;Great Dragon&#39; in the Pelican Nebula &lpar;photo&rpar;](https://www.space.com/stargazing/astrophotgrapher-captures-the-great-dragon-of-the-pelican-nebula-in-all-its-glory)
-- [Samsung Unpacked: Samsung’s Galaxy S25 will support Content Credentials to identify AI-generated images](https://techcrunch.com/2025/01/22/samsung-unpacked-samsungs-galaxy-s25-will-support-content-credentials-to-identify-ai-generated-images/)
-- [This Week in AI: OpenAI gains an invaluable infrastructure advantage](https://techcrunch.com/2025/01/22/this-week-in-ai-openai-gains-an-invaluable-infrastructure-advantage/)
+- [Chinese commercial Ceres-1 rocket launches 5 weather satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/chinese-commercial-ceres-1-rocket-launches-5-satellites-video)
+- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/)
+- [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/)
+- [Microsoft’s relationship with OpenAI cracked when it hired Mustafa Suleyman, rival Marc Benioff says](https://techcrunch.com/2025/01/22/microsofts-relationship-with-openai-cracked-when-it-hired-mustafa-suleyman-rival-marc-benioff-says/)
+- [AngelList, CoinList partner to help crypto startups raise and manage funds](https://techcrunch.com/2025/01/22/angellist-coinlist-partner-to-help-crypto-startups-raise-and-manage-funds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
