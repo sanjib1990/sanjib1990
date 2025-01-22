@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump open to Elon Musk or Larry Ellison buying TikTok](https://techcrunch.com/2025/01/22/trump-open-to-elon-musk-or-larry-ellison-buying-tiktok/)
-- [SMILE! Europe and China move toward 2026 launch of space weather mission](https://www.space.com/space-exploration/satellites/smile-europe-and-china-move-toward-2026-launch-of-space-weather-mission)
-- [Databricks closes $15.3B financing at $62B valuation, Meta joins as ‘strategic investor’](https://techcrunch.com/2025/01/22/databricks-closes-15-3b-financing-at-62b-valuation-meta-joins-as-strategic-investor/)
-- [What PowerSchool isn’t saying about its ‘massive’ student data breach](https://techcrunch.com/2025/01/22/what-powerschool-isnt-saying-about-its-massive-student-data-breach/)
-- [‘The Other Moonshot:’ New podcast centers on unsung black heroes of the space race &lpar;trailer&rpar;](https://www.space.com/entertainment/the-other-moonshot-new-podcast-tells-story-of-space-races-unsung-black-heroes-trailer)
+- [YouTube launches speed controls and high-quality audio tests for Premium users](https://techcrunch.com/2025/01/22/youtube-premium/)
+- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/22/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/)
+- [Beam me to the stars: Scientists propose wild new interstellar travel tech](https://www.space.com/space-exploration/tech/beam-me-to-the-stars-scientists-propose-wild-new-interstellar-travel-tech)
+- [Anthropic reportedly secures an additional $1B from Google](https://techcrunch.com/2025/01/22/anthropic-reportedly-secures-an-additional-1b-from-google/)
+- [Want a Telescope for Christmas? Here&#39;s What You Need to Know](https://www.space.com/27897-telescope-binoculars-astronomy-tips.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
