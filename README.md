@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Unpacked: Samsung’s Galaxy S25 will support Content Credentials to identify AI-generated images](https://techcrunch.com/2025/01/22/samsung-unpacked-samsungs-galaxy-s25-will-support-content-credentials-to-identify-ai-generated-images/)
+- [This Week in AI: OpenAI gains an invaluable infrastructure advantage](https://techcrunch.com/2025/01/22/this-week-in-ai-openai-gains-an-invaluable-infrastructure-advantage/)
 - [Marvel&#39;s flagship &#39;Star Wars&#39; comic series relaunching into the New Republic era in May](https://www.space.com/entertainment/marvels-flagship-star-wars-comic-series-relaunching-into-the-new-republic-era-in-may)
 - [Watch Firefly Aerospace&#39;s Blue Ghost moon lander witness an eclipse from space &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-firefly-aerospaces-blue-ghost-moon-lander-witness-an-eclipse-from-space-video)
 - [Streaming service Plex gets more social with public profiles and reviews](https://techcrunch.com/2025/01/22/streaming-service-plex-gets-more-social-with-public-profiles-and-reviews/)
-- [Zombie nuclear reactors could be revived thanks to AI data center demand](https://techcrunch.com/2025/01/22/zombie-nuclear-reactors-could-be-revived-thanks-to-ai-data-center-demand/)
-- [Samsung’s SmartThings to introduce AI features that simplify your daily routines](https://techcrunch.com/2025/01/22/samsungs-smartthings-to-introduce-ai-features-that-simplify-your-daily-routines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
