@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lindus Health raises $55M to ‘fix the broken clinical trial industry’](https://techcrunch.com/2025/01/22/lindus-health-raises-55m-to-fix-the-broken-clinical-trial-industry/)
 - [Hubble tension is now in our cosmic backyard, sending cosmology into crisis](https://www.space.com/space-exploration/hubble-space-telescope/hubble-tension-is-now-in-our-cosmic-backyard-sending-cosmology-into-crisis)
 - [Google hit with $12.6M fine in Indonesia for monopolistic practices in payment system](https://techcrunch.com/2025/01/22/google-hit-with-12-6m-fine-in-indonesia-for-monopolistic-practices-in-payment-system/)
-- [Hindustan Unilever acquires Peak XV-backed Minimalist for over $340M](https://techcrunch.com/2025/01/22/hindustan-unilever-acquires-peak-xv-backed-minimalist-for-over-340m/)
+- [Hindustan Unilever to acquire Peak XV-backed Minimalist for over $340M](https://techcrunch.com/2025/01/22/hindustan-unilever-acquires-peak-xv-backed-minimalist-for-over-340m/)
 - [Save nearly $75 on these all-purpose Celestron Nature DX ED 8x42](https://www.space.com/stargazing/astronomy-kit/save-nearly-usd75-on-these-all-purpose-celestron-nature-dx-ed-8x42)
-- [UK appoints ex-Amazon executive Doug Gurr as interim chair of antitrust body](https://techcrunch.com/2025/01/22/uk-appoints-ex-amazon-executive-doug-gurr-as-interim-chair-of-antitrust-body/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
