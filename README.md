@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Indian fintech Jar turns cash flow positive](https://techcrunch.com/2025/01/22/indian-fintech-jar-turns-cash-flow-positive/)
+- [Vertice raises $50M for its AI-powered SaaS spend platform](https://techcrunch.com/2025/01/21/vertice-raises-50m-for-its-ai-powered-saas-spend-platform/)
 - [Truecaller brings real-time caller ID to iPhone users](https://techcrunch.com/2025/01/21/truecaller-brings-real-time-caller-id-to-iphone-users/)
 - [Trump pardons Silk Road creator Ross Ulbricht](https://techcrunch.com/2025/01/21/trump-pardons-silk-road-creator-ross-ulbricht/)
 - [MrBeast is reportedly now among those trying to buy TikTok](https://techcrunch.com/2025/01/21/mr-beast-is-reportedly-now-among-those-trying-to-buy-tiktok/)
-- [Former Meta COO Sheryl Sandberg sanctioned by judge for allegedly deleting emails](https://techcrunch.com/2025/01/21/meta-coo-sheryl-sandberg-sanctioned-by-judge-for-allegedly-deleting-emails/)
-- [Microsoft is no longer OpenAI’s exclusive cloud provider](https://techcrunch.com/2025/01/21/microsoft-is-no-longer-openais-exclusive-cloud-provider/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
