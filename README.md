@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains launches Junie, a new AI coding agent for its IDEs](https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/)
+- [Trump orders formation of working group to evaluate crypto stockpile](https://techcrunch.com/2025/01/23/trump-orders-formation-of-working-group-to-evaluate-crypto-stockpile/)
+- [OpenAI says it may store deleted Operator data for up to 90 days](https://techcrunch.com/2025/01/23/openai-says-it-may-store-deleted-operator-data-for-up-to-90-days/)
+- [Everyone wants MrBeast on their TikTok bid, but he hasn’t committed yet](https://techcrunch.com/2025/01/23/everyone-wants-mrbeast-on-their-tiktok-bid-but-he-hasnt-committed-yet/)
 - [Growing up and going out: Beyond the cradle &lpar;op-ed&rpar;](https://www.space.com/space-exploration/human-spaceflight/growing-up-and-going-out-beyond-the-cradle-op-ed)
-- [Anthropic’s new Citations feature aims to reduce AI errors](https://techcrunch.com/2025/01/23/anthropics-new-citations-feature-aims-to-reduce-ai-errors/)
-- [Fitbit fined $12M over Ionic smartwatch burns](https://techcrunch.com/2025/01/23/fitbit-fined-12m-over-ionic-smartwatch-burns/)
-- [Threads rolls out a post scheduler, ‘markup’ feature, and more](https://techcrunch.com/2025/01/23/threads-rolls-out-a-post-scheduler-markup-feature-and-more/)
-- [Tom Brady’s Autograph merges with digital fitness company Future](https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
