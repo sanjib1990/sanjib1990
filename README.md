@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ati Motors raises $20M as India’s robotics industry grows](https://techcrunch.com/2025/01/22/ati-motors-raises-20m-as-indias-robotics-industry-grows/)
+- [Microsoft’s head of venture has resigned](https://techcrunch.com/2025/01/22/microsofts-head-of-venture-has-resigned/)
 - [Nearly 10 years later, Tumblr TV launches to all as a TikTok alternative](https://techcrunch.com/2025/01/22/nearly-10-years-later-tumblr-tv-launches-to-all-as-a-tiktok-alternative/)
 - [Scale AI is facing a third worker lawsuit in about a month](https://techcrunch.com/2025/01/22/scale-ai-is-facing-a-third-worker-lawsuit-in-about-a-month/)
 - [Chinese commercial Ceres-1 rocket launches 5 weather satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/chinese-commercial-ceres-1-rocket-launches-5-satellites-video)
-- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/01/22/how-to-delete-facebook-instagram-and-threads/)
-- [Rent-to-own startup Divvy Homes selling to Brookfield for about $1 billion](https://techcrunch.com/2025/01/22/rent-to-own-startup-divvy-homes-selling-to-brookfield-for-about-1-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
