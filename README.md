@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Android 16’s first beta version brings iOS-style live notifications](https://techcrunch.com/2025/01/23/android-16s-first-beta-version-brings-ios-style-live-notifications/)
-- [Substack introduces a $20M funding guarantee to entice creators to migrate to its platform](https://techcrunch.com/2025/01/23/substack-introduces-a-20m-funding-guarantee-to-entice-creators-to-migrate-to-its-platform/)
-- [X sees a jump in consumer spending on mobile, despite decline in daily active users](https://techcrunch.com/2025/01/23/x-sees-a-jump-in-consumer-spending-on-mobile-despite-decline-in-daily-active-users/)
-- [Trump orders interim NASA chief to end DEI initiatives](https://www.space.com/space-exploration/trump-orders-interim-nasa-chief-to-end-dei-initiatives)
-- [Canoo craters and Trump comes for EVs](https://techcrunch.com/2025/01/23/canoo-craters-and-trump-comes-for-evs/)
+- [Tom Brady’s Autograph merges with digital fitness company Future](https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/)
+- [&#39;Star Wars: Episode I: Jedi Power Battles&#39; continues to be the most fascinating &#39;The Phantom Menace&#39; tie-in video game](https://www.space.com/entertainment/space-games-toys/star-wars-episode-i-jedi-power-battles-continues-to-be-the-most-fascinating-the-phantom-menace-tie-in-video-game)
+- [Hidden Waymo feature let researcher customize robotaxi’s display](https://techcrunch.com/2025/01/23/hidden-waymo-feature-let-researcher-customize-robotaxis-display/)
+- [Trump’s not happy with how EU regulators have treated US tech giants](https://techcrunch.com/2025/01/23/trumps-not-happy-with-how-eu-regulators-have-treated-us-tech-giants/)
+- [Bedrock Energy wants geothermal to make data centers cooler and offices more comfortable](https://techcrunch.com/2025/01/23/bedrock-energy-wants-geothermal-to-make-data-centers-cooler-and-offices-more-comfortable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
