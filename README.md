@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android 16’s first beta version brings iOS-style live notifications](https://techcrunch.com/2025/01/23/android-16s-first-beta-version-brings-ios-style-live-notifications/)
+- [Substack introduces a $20M funding guarantee to entice creators to migrate to its platform](https://techcrunch.com/2025/01/23/substack-introduces-a-20m-funding-guarantee-to-entice-creators-to-migrate-to-its-platform/)
+- [X sees a jump in consumer spending on mobile, despite decline in daily active users](https://techcrunch.com/2025/01/23/x-sees-a-jump-in-consumer-spending-on-mobile-despite-decline-in-daily-active-users/)
 - [Trump orders interim NASA chief to end DEI initiatives](https://www.space.com/space-exploration/trump-orders-interim-nasa-chief-to-end-dei-initiatives)
 - [Canoo craters and Trump comes for EVs](https://techcrunch.com/2025/01/23/canoo-craters-and-trump-comes-for-evs/)
-- [OpenAI launches Operator, an AI agent that performs tasks autonomously](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/)
-- [After pivoting from crypto to payroll, Rollfi gets acquired](https://techcrunch.com/2025/01/23/after-pivoting-from-crypto-to-payroll-rollfi-gets-acquired/)
-- [Roli releases a 49-key educational keyboard and generative AI play](https://techcrunch.com/2025/01/23/roli-releases-a-49-key-educational-keyboard-and-generative-ai-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
