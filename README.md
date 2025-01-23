@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 best camera gifts for astrophotography and videography 2025](https://www.space.com/10-best-camera-gifts-for-astrophotography-and-videography)
+- [African fintech Moniepoint gets Visa backing, plans to work on contactless payments](https://techcrunch.com/2025/01/23/african-fintech-moniepoint-gets-visa-backing/)
 - [Astronomers watch monster black hole spit out a light-year-long jet](https://www.space.com/monster-black-hole-spits-jet-third-speed-light)
 - [OpenAI may preview its agent tool for users on the $200 per month Pro plan](https://techcrunch.com/2025/01/23/openais-agent-tool-will-be-available-to-users-paying-200-per-month-for-pro/)
 - [UK probes Apple and Google over ‘mobile ecosystem’ market power](https://techcrunch.com/2025/01/23/uk-probes-apple-and-google-over-mobile-ecosystem-market-power/)
-- [WhatsApp wins reprieve in India over sharing user data with Meta](https://techcrunch.com/2025/01/22/whatsapp-wins-reprieve-in-india-over-user-data-sharing/)
-- [Neko, the body-scanning startup co-founded by Spotify’s Daniel Ek, snaps up $260M at a $1.8B valuation](https://techcrunch.com/2025/01/22/neko-the-body-scanning-startup-co-founded-by-spotifys-daniel-ek-snaps-up-260m-at-a-1-8b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
