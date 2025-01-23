@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spacetech Voyager is aiming for a multi-billion valuation IPO](https://techcrunch.com/2025/01/23/spacetech-voyager-is-aiming-for-a-multi-billion-valuation-ipo/)
-- [Brave will allow you to tune search results with upvotes and downvotes](https://techcrunch.com/2025/01/23/brave-search/)
-- [A young star may soon disappear: Inside the great dimming of T Tauri](https://www.space.com/the-universe/stars/a-young-star-may-soon-disappear-inside-the-great-dimming-of-t-tauri)
-- [Passbolt raises $8M for its open source password manager for teams](https://techcrunch.com/2025/01/23/passbolt-raises-8m-for-its-open-source-password-manager-for-teams/)
-- [Hackers found a way to remotely unlock, start, and track millions of Subarus](https://techcrunch.com/2025/01/23/hackers-found-a-way-to-remotely-unlock-start-and-track-millions-of-subarus/)
+- [Trump orders interim NASA chief to end DEI initiatives](https://www.space.com/space-exploration/trump-orders-interim-nasa-chief-to-end-dei-initiatives)
+- [Canoo craters and Trump comes for EVs](https://techcrunch.com/2025/01/23/canoo-craters-and-trump-comes-for-evs/)
+- [OpenAI launches Operator, an AI agent that performs tasks autonomously](https://techcrunch.com/2025/01/23/openai-launches-operator-an-ai-agent-that-performs-tasks-autonomously/)
+- [After pivoting from crypto to payroll, Rollfi gets acquired](https://techcrunch.com/2025/01/23/after-pivoting-from-crypto-to-payroll-rollfi-gets-acquired/)
+- [Roli releases a 49-key educational keyboard and generative AI play](https://techcrunch.com/2025/01/23/roli-releases-a-49-key-educational-keyboard-and-generative-ai-play/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
