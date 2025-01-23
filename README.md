@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Growing up and going out: Beyond the cradle &lpar;op-ed&rpar;](https://www.space.com/space-exploration/human-spaceflight/growing-up-and-going-out-beyond-the-cradle-op-ed)
+- [Anthropic’s new Citations feature aims to reduce AI errors](https://techcrunch.com/2025/01/23/anthropics-new-citations-feature-aims-to-reduce-ai-errors/)
+- [Fitbit fined $12M over Ionic smartwatch burns](https://techcrunch.com/2025/01/23/fitbit-fined-12m-over-ionic-smartwatch-burns/)
+- [Threads rolls out a post scheduler, ‘markup’ feature, and more](https://techcrunch.com/2025/01/23/threads-rolls-out-a-post-scheduler-markup-feature-and-more/)
 - [Tom Brady’s Autograph merges with digital fitness company Future](https://techcrunch.com/2025/01/23/tom-bradys-autograph-merges-with-digital-fitness-company-future/)
-- [&#39;Star Wars: Episode I: Jedi Power Battles&#39; continues to be the most fascinating &#39;The Phantom Menace&#39; tie-in video game](https://www.space.com/entertainment/space-games-toys/star-wars-episode-i-jedi-power-battles-continues-to-be-the-most-fascinating-the-phantom-menace-tie-in-video-game)
-- [Hidden Waymo feature let researcher customize robotaxi’s display](https://techcrunch.com/2025/01/23/hidden-waymo-feature-let-researcher-customize-robotaxis-display/)
-- [Trump’s not happy with how EU regulators have treated US tech giants](https://techcrunch.com/2025/01/23/trumps-not-happy-with-how-eu-regulators-have-treated-us-tech-giants/)
-- [Bedrock Energy wants geothermal to make data centers cooler and offices more comfortable](https://techcrunch.com/2025/01/23/bedrock-energy-wants-geothermal-to-make-data-centers-cooler-and-offices-more-comfortable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
