@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/)
-- [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/)
-- [Hubble Space Telescope reveals richest view of Andromeda galaxy to date &lpar;image&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-space-telescope-reveals-richest-view-of-andromeda-galaxy-to-date-image)
-- [Hugging Face claims its new AI models are the smallest of their kind](https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/)
-- [Snap launches a new way to reward AR creators, rolls out student pricing for Spectacles](https://techcrunch.com/2025/01/23/snap-launches-a-new-way-to-reward-ar-creators-rolls-out-student-pricing-for-spectacles/)
+- [A young star may soon disappear: Inside the great dimming of T Tauri](https://www.space.com/the-universe/stars/a-young-star-may-soon-disappear-inside-the-great-dimming-of-t-tauri)
+- [Passbolt raises $8M for its open source password manager for teams](https://techcrunch.com/2025/01/23/passbolt-raises-8m-for-its-open-source-password-manager-for-teams/)
+- [Hackers found a way to remotely unlock, start, and track millions of Subarus](https://techcrunch.com/2025/01/23/hackers-found-a-way-to-remotely-unlock-start-and-track-millions-of-subarus/)
+- [Meta’s Yann LeCun predicts a ‘new AI architectures paradigm’ within 5 years and ‘decade of robotics’](https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/)
+- [ChatGPT suffered a major outage this morning, but OpenAI says it’s back up](https://techcrunch.com/2025/01/23/chatgpt-suffered-a-major-outage-this-morning-but-openai-says-its-back-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
