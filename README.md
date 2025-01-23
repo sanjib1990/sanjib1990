@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google buys part of HTC’s XR business for $250 million](https://techcrunch.com/2025/01/22/google-buys-part-of-htc-virtual-reality-unit-for-250-million/)
 - [Some shareholders of a16z-backed Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/)
 - [Raymond Tonsing’s Caffeinated Capital seeks $400M for fifth fund](https://techcrunch.com/2025/01/22/raymond-tonsings-caffeinated-capital-seeks-400m-for-fifth-fund/)
 - [Ati Motors raises $20M as India’s robotics industry grows](https://techcrunch.com/2025/01/22/ati-motors-raises-20m-as-indias-robotics-industry-grows/)
 - [Microsoft’s head of venture has resigned](https://techcrunch.com/2025/01/22/microsofts-head-of-venture-has-resigned/)
-- [Nearly 10 years later, Tumblr TV launches to all as a TikTok alternative](https://techcrunch.com/2025/01/22/nearly-10-years-later-tumblr-tv-launches-to-all-as-a-tiktok-alternative/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
