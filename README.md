@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Stargate situation is crazy... Elon vs Altman beef intensifies](https://www.youtube.com/watch?v=YrHsw4Oja7w)
 - [Dark web PHP dev Ross Ulbricht released from prison…](https://www.youtube.com/watch?v=gi-wuoIDdjw)
 - [Can you make your own voice assistant?](https://www.youtube.com/watch?v=fDWaUwguPp8)
 - [A history of time in computers](https://www.youtube.com/watch?v=NsUVKI40DmE)
 - [This free Chinese AI just crushed OpenAI&#39;s $200 o1 model...](https://www.youtube.com/watch?v=-2k1rcRzsLA)
-- [Quicksort Algorithm in Five Lines of Code! - Computerphile](https://www.youtube.com/watch?v=OKc2hAmMOY4)
 <!-- YOUTUBE:END -->
 
 ---
