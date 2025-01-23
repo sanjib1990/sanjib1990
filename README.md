@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trillions of comets discovered orbiting alien planet systems &lpar;image&rpar;](https://www.space.com/the-universe/comets/trillions-of-comets-discovered-orbiting-alien-planet-systems-image)
-- [Everstone acquires bootstrapped Indian startup Wingify for $200M](https://techcrunch.com/2025/01/23/everstone-acquires-bootstrapped-indian-startup-wingify-for-200m/)
-- [Aurora alert: Incoming solar storm could spark northern lights in upper Midwest skies this week](https://www.space.com/stargazing/aurora-borealis/aurora-alert-incoming-solar-storm-could-spark-northern-lights-in-upper-midwest-skies-this-week)
-- [10 best camera gifts for astrophotography and videography 2025](https://www.space.com/10-best-camera-gifts-for-astrophotography-and-videography)
-- [African fintech Moniepoint gets Visa backing, plans to work on contactless payments](https://techcrunch.com/2025/01/23/african-fintech-moniepoint-gets-visa-backing/)
+- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/)
+- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/)
+- [Y Combinator grad Spacium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/)
+- [400 rocket landings! SpaceX notches reuse milestone](https://www.space.com/space-exploration/launches-spacecraft/400-rocket-landings-spacex-notches-reuse-milestone)
+- [New &#39;Mickey 17&#39; trailer gives us a deeper look at Robert Pattinson&#39;s upcoming sci-fi dark comedy romp](https://www.space.com/entertainment/space-movies-shows/new-mickey-17-trailer-gives-us-a-deeper-look-at-robert-pattinsons-upcoming-sci-fi-dark-comedy-romp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
