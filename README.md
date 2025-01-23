@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Neko, the body-scanning startup co-founded by Spotify’s Daniel Ek, snaps up $260M at a $1.8B valuation](https://techcrunch.com/2025/01/22/neko-the-body-scanning-startup-co-founded-by-spotifys-daniel-ek-snaps-up-260m-at-a-1-8b-valuation/)
 - [&#39;Star Trek: Section 31&#39; review: It isn&#39;t classic &#39;Trek&#39;, but the Paramount+ exclusive offers some flashy fun](https://www.space.com/entertainment/review-paramount-s-section-31-isnt-your-classic-star-trek-but-its-sure-some-flashy-fun)
 - [Someone bought the domain ‘OGOpenAI’ and redirected it to a Chinese AI lab](https://techcrunch.com/2025/01/22/someone-bought-the-domain-ogopenai-and-redirected-it-to-a-chinese-ai-lab/)
 - [Google buys part of HTC’s XR business for $250 million](https://techcrunch.com/2025/01/22/google-buys-part-of-htc-virtual-reality-unit-for-250-million/)
 - [Some shareholders of a16z-backed Divvy Homes may not see a dime from $1B sale](https://techcrunch.com/2025/01/22/some-shareholders-of-a16z-backed-divvy-homes-may-not-see-a-dime-from-1b-sale/)
-- [Raymond Tonsing’s Caffeinated Capital seeks $400M for fifth fund](https://techcrunch.com/2025/01/22/raymond-tonsings-caffeinated-capital-seeks-400m-for-fifth-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
