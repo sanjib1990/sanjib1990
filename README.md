@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trillions of comets discovered orbiting alien planet systems &lpar;image&rpar;](https://www.space.com/the-universe/comets/trillions-of-comets-discovered-orbiting-alien-planet-systems-image)
+- [Everstone acquires bootstrapped Indian startup Wingify for $200M](https://techcrunch.com/2025/01/23/everstone-acquires-bootstrapped-indian-startup-wingify-for-200m/)
+- [Aurora alert: Incoming solar storm could spark northern lights in upper Midwest skies this week](https://www.space.com/stargazing/aurora-borealis/aurora-alert-incoming-solar-storm-could-spark-northern-lights-in-upper-midwest-skies-this-week)
 - [10 best camera gifts for astrophotography and videography 2025](https://www.space.com/10-best-camera-gifts-for-astrophotography-and-videography)
 - [African fintech Moniepoint gets Visa backing, plans to work on contactless payments](https://techcrunch.com/2025/01/23/african-fintech-moniepoint-gets-visa-backing/)
-- [Astronomers watch monster black hole spit out a light-year-long jet](https://www.space.com/monster-black-hole-spits-jet-third-speed-light)
-- [OpenAI may preview its agent tool for users on the $200 per month Pro plan](https://techcrunch.com/2025/01/23/openais-agent-tool-will-be-available-to-users-paying-200-per-month-for-pro/)
-- [UK probes Apple and Google over ‘mobile ecosystem’ market power](https://techcrunch.com/2025/01/23/uk-probes-apple-and-google-over-mobile-ecosystem-market-power/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
