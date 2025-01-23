@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp wins reprieve in India over user data sharing](https://techcrunch.com/2025/01/22/whatsapp-wins-reprieve-in-india-over-user-data-sharing/)
+- [Astronomers watch monster black hole spit out a light-year-long jet](https://www.space.com/monster-black-hole-spits-jet-third-speed-light)
+- [OpenAI may preview its agent tool for users on the $200 per month Pro plan](https://techcrunch.com/2025/01/23/openais-agent-tool-will-be-available-to-users-paying-200-per-month-for-pro/)
+- [UK probes Apple and Google over ‘mobile ecosystem’ market power](https://techcrunch.com/2025/01/23/uk-probes-apple-and-google-over-mobile-ecosystem-market-power/)
+- [WhatsApp wins reprieve in India over sharing user data with Meta](https://techcrunch.com/2025/01/22/whatsapp-wins-reprieve-in-india-over-user-data-sharing/)
 - [Neko, the body-scanning startup co-founded by Spotify’s Daniel Ek, snaps up $260M at a $1.8B valuation](https://techcrunch.com/2025/01/22/neko-the-body-scanning-startup-co-founded-by-spotifys-daniel-ek-snaps-up-260m-at-a-1-8b-valuation/)
-- [&#39;Star Trek: Section 31&#39; review: It isn&#39;t classic &#39;Trek&#39;, but the Paramount+ exclusive offers some flashy fun](https://www.space.com/entertainment/review-paramount-s-section-31-isnt-your-classic-star-trek-but-its-sure-some-flashy-fun)
-- [Someone bought the domain ‘OGOpenAI’ and redirected it to a Chinese AI lab](https://techcrunch.com/2025/01/22/someone-bought-the-domain-ogopenai-and-redirected-it-to-a-chinese-ai-lab/)
-- [Google buys part of HTC’s XR business for $250 million](https://techcrunch.com/2025/01/22/google-buys-part-of-htc-virtual-reality-unit-for-250-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
