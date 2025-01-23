@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fundraise Up claims its AI can boost nonprofit donations](https://techcrunch.com/2025/01/23/fundraise-up-claims-its-ai-can-boost-nonprofit-donations/)
-- [Tive’s tools help companies track the status of their shipments in real time](https://techcrunch.com/2025/01/23/tives-tools-help-companies-track-the-status-of-their-shipments-in-real-time/)
-- [Y Combinator grad Spacium raises oversubscribed $6.3M for space re-fueling](https://techcrunch.com/2025/01/23/space-re-fueling-startup-spacium-raises-6-3-million/)
-- [400 rocket landings! SpaceX notches reuse milestone](https://www.space.com/space-exploration/launches-spacecraft/400-rocket-landings-spacex-notches-reuse-milestone)
-- [New &#39;Mickey 17&#39; trailer gives us a deeper look at Robert Pattinson&#39;s upcoming sci-fi dark comedy romp](https://www.space.com/entertainment/space-movies-shows/new-mickey-17-trailer-gives-us-a-deeper-look-at-robert-pattinsons-upcoming-sci-fi-dark-comedy-romp)
+- [Coval evaluates AI voice and chat agents like self-driving cars](https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/)
+- [Method is helping fintech companies like SoFi build repayment functionality into their apps](https://techcrunch.com/2025/01/23/method-is-helping-fintech-companies-like-sofi-build-repayment-functionality-into-their-apps/)
+- [Hubble Space Telescope reveals richest view of Andromeda galaxy to date &lpar;image&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-space-telescope-reveals-richest-view-of-andromeda-galaxy-to-date-image)
+- [Hugging Face claims its new AI models are the smallest of their kind](https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/)
+- [Snap launches a new way to reward AR creators, rolls out student pricing for Spectacles](https://techcrunch.com/2025/01/23/snap-launches-a-new-way-to-reward-ar-creators-rolls-out-student-pricing-for-spectacles/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
