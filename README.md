@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spacetech Voyager is aiming for a multi-billion valuation IPO](https://techcrunch.com/2025/01/23/spacetech-voyager-is-aiming-for-a-multi-billion-valuation-ipo/)
+- [Brave will allow you to tune search results with upvotes and downvotes](https://techcrunch.com/2025/01/23/brave-search/)
 - [A young star may soon disappear: Inside the great dimming of T Tauri](https://www.space.com/the-universe/stars/a-young-star-may-soon-disappear-inside-the-great-dimming-of-t-tauri)
 - [Passbolt raises $8M for its open source password manager for teams](https://techcrunch.com/2025/01/23/passbolt-raises-8m-for-its-open-source-password-manager-for-teams/)
 - [Hackers found a way to remotely unlock, start, and track millions of Subarus](https://techcrunch.com/2025/01/23/hackers-found-a-way-to-remotely-unlock-start-and-track-millions-of-subarus/)
-- [Meta’s Yann LeCun predicts a ‘new AI architectures paradigm’ within 5 years and ‘decade of robotics’](https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/)
-- [ChatGPT suffered a major outage this morning, but OpenAI says it’s back up](https://techcrunch.com/2025/01/23/chatgpt-suffered-a-major-outage-this-morning-but-openai-says-its-back-up/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
