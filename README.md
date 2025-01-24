@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch &#39;planetary parade&#39; online for free on Jan. 25](https://www.space.com/stargazing/watch-planetary-parade-online-for-free-on-jan-25)
-- [iOS 18 hits 68% adoption across iPhones, per new Apple figures](https://techcrunch.com/2025/01/24/ios-18-hits-68-adoption-across-iphones-per-new-apple-figures/)
-- [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/)
-- [The EU wants to talk to US tech companies ahead of Germany’s upcoming election](https://techcrunch.com/2025/01/24/the-eu-wants-to-talk-to-us-tech-companies-ahead-of-germanys-upcoming-election/)
-- [The AI industry’s pace has researchers stressed](https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/)
+- [Chinese rocket booster falls to Earth, explodes near home &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-booster-falls-to-earth-explodes-near-home-video)
+- [ElevenLabs has raised a new round at $3B+ valuation led by ICONIQ Growth, sources say](https://techcrunch.com/2025/01/24/elevenlabs-has-raised-a-new-round-at-3b-valuation-led-by-iconiq-growth-sources-say/)
+- [X expands its vertical video feed to global users](https://techcrunch.com/2025/01/24/x-expands-its-vertical-video-feed-to-global-users/)
+- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/)
+- [Waymo lobbyist activity in SF skyrocketed in 2024](https://techcrunch.com/2025/01/24/waymo-lobbyist-activity-in-sf-skyrocketed-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
