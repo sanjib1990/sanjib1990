@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Threads is testing ads in the U.S. and Japan](https://techcrunch.com/2025/01/24/threads-is-testing-ads-in-the-u-s-and-japan/)
-- [Sam Altman’s World now wants to link AI agents to your digital identity](https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/)
-- [Total lunar eclipse September 2025: When and where to see the &#39;Blood Moon&#39; lunar eclipse](https://www.space.com/stargazing/eclipses/total-lunar-eclipse-september-2025-when-and-where-to-see-the-blood-moon-lunar-eclipse)
-- [The 1st monster black hole ever imaged has messy eating habits](https://www.space.com/first-black-hole-imaged-m87-turbulent-feeding-captured)
-- [Flip, the TikTok Shop rival, launches a creator fund that grants up to $100M of equity](https://techcrunch.com/2025/01/24/flip-launches-a-creator-fund-that-grants-up-to-100m-of-equity/)
+- [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/)
+- [The EU wants to talk to US tech companies ahead of Germany’s upcoming election](https://techcrunch.com/2025/01/24/the-eu-wants-to-talk-to-us-tech-companies-ahead-of-germanys-upcoming-election/)
+- [The AI industry’s pace has researchers stressed](https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/)
+- [People are benchmarking AI by having it make balls bounce in rotating shapes](https://techcrunch.com/2025/01/24/people-are-benchmarking-ai-by-having-it-make-balls-bounce-in-rotating-shapes/)
+- [US users dumped RedNote after Trump paused the TikTok ban](https://techcrunch.com/2025/01/24/us-users-dumped-rednote-after-trump-paused-the-tiktok-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
