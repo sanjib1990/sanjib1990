@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover exoplanet with 20,500 mph winds — the fastest in the known universe](https://www.space.com/the-universe/exoplanets/scientists-discover-exoplanet-with-20-500-mile-per-hour-winds-the-fastest-in-the-known-universe)
 - [AI companies upped their federal lobbying spend in 2024 amid regulatory uncertainty](https://techcrunch.com/2025/01/24/ai-companies-upped-their-federal-lobbying-spend-in-2024-amid-regulatory-uncertainty/)
 - [Blue Origin to simulate moon gravity on Jan. 28 New Shepard suborbital launch](https://www.space.com/space-exploration/human-spaceflight/blue-origin-to-simulate-moon-gravity-on-jan-28-new-shepard-suborbital-launch)
 - [Chinese rocket booster falls to Earth, explodes near home &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-booster-falls-to-earth-explodes-near-home-video)
 - [ElevenLabs has raised a new round at $3B+ valuation led by ICONIQ Growth, sources say](https://techcrunch.com/2025/01/24/elevenlabs-has-raised-a-new-round-at-3b-valuation-led-by-iconiq-growth-sources-say/)
-- [X expands its vertical video feed to global users](https://techcrunch.com/2025/01/24/x-expands-its-vertical-video-feed-to-global-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
