@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Threads is testing ads in the U.S. and Japan](https://techcrunch.com/2025/01/24/threads-is-testing-ads-in-the-u-s-and-japan/)
+- [Sam Altman’s World now wants to link AI agents to your digital identity](https://techcrunch.com/2025/01/24/sam-altmans-world-now-wants-to-link-ai-agents-to-your-digital-identity/)
+- [Total lunar eclipse September 2025: When and where to see the &#39;Blood Moon&#39; lunar eclipse](https://www.space.com/stargazing/eclipses/total-lunar-eclipse-september-2025-when-and-where-to-see-the-blood-moon-lunar-eclipse)
 - [The 1st monster black hole ever imaged has messy eating habits](https://www.space.com/first-black-hole-imaged-m87-turbulent-feeding-captured)
 - [Flip, the TikTok Shop rival, launches a creator fund that grants up to $100M of equity](https://techcrunch.com/2025/01/24/flip-launches-a-creator-fund-that-grants-up-to-100m-of-equity/)
-- [Mark Zuckerberg says Meta will have 1.3M GPUs for AI by year-end](https://techcrunch.com/2025/01/24/mark-zuckerberg-says-meta-will-have-1-3m-gpus-for-ai-by-year-end/)
-- [OpenAI’s Stargate project reportedly doesn’t have the money it needs](https://techcrunch.com/2025/01/24/openais-stargate-project-reportedly-doesnt-have-the-money-it-needs/)
-- [Apple admits next-gen CarPlay is late, but still in development](https://techcrunch.com/2025/01/24/apple-admits-next-gen-carplay-is-late-but-still-in-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
