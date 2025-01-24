@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Stargate project reportedly doesn’t have the money it needs](https://techcrunch.com/2025/01/24/openais-stargate-project-reportedly-doesnt-have-the-money-it-needs/)
+- [Apple admits next-gen CarPlay is late, but still in development](https://techcrunch.com/2025/01/24/apple-admits-next-gen-carplay-is-late-but-still-in-development/)
+- [Google commits to combatting fake reviews in the UK after 5-year probe](https://techcrunch.com/2025/01/24/google-commits-to-combatting-fake-reviews-in-the-uk-after-5-year-probe/)
 - [Allara lands $26M to expand women’s hormone telehealth](https://techcrunch.com/2025/01/24/allara-lands-26m-to-expand-womens-hormone-telehealth/)
 - [Foyer unlocks $6.2M to help people save up to buy homes](https://techcrunch.com/2025/01/24/foyer-unlocks-6-2m-to-help-people-save-up-to-buy-homes/)
-- [3 years of James Webb Space Telescope data on alien worlds now available online](https://www.space.com/james-webb-space-telescope-3-years-exoplanet)
-- [Volcanic cones on Mars tell a tale of ice and fire](https://www.space.com/the-universe/mars/volcanic-cones-on-mars-tell-a-tale-of-ice-and-fire)
-- [See the planet parade for under $70 with this beginner friendly, super-portable Celestron telescope deal](https://www.space.com/stargazing/astronomy-kit/save-usd40-on-this-beginner-friendly-super-portable-celestron-telescope-for-planet-parade-jan-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
