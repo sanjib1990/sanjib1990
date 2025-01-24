@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 1st monster black hole ever imaged has messy eating habits](https://www.space.com/first-black-hole-imaged-m87-turbulent-feeding-captured)
+- [Flip, the TikTok Shop rival, launches a creator fund that grants up to $100M of equity](https://techcrunch.com/2025/01/24/flip-launches-a-creator-fund-that-grants-up-to-100m-of-equity/)
+- [Mark Zuckerberg says Meta will have 1.3M GPUs for AI by year-end](https://techcrunch.com/2025/01/24/mark-zuckerberg-says-meta-will-have-1-3m-gpus-for-ai-by-year-end/)
 - [OpenAI’s Stargate project reportedly doesn’t have the money it needs](https://techcrunch.com/2025/01/24/openais-stargate-project-reportedly-doesnt-have-the-money-it-needs/)
 - [Apple admits next-gen CarPlay is late, but still in development](https://techcrunch.com/2025/01/24/apple-admits-next-gen-carplay-is-late-but-still-in-development/)
-- [Google commits to combatting fake reviews in the UK after 5-year probe](https://techcrunch.com/2025/01/24/google-commits-to-combatting-fake-reviews-in-the-uk-after-5-year-probe/)
-- [Allara lands $26M to expand women’s hormone telehealth](https://techcrunch.com/2025/01/24/allara-lands-26m-to-expand-womens-hormone-telehealth/)
-- [Foyer unlocks $6.2M to help people save up to buy homes](https://techcrunch.com/2025/01/24/foyer-unlocks-6-2m-to-help-people-save-up-to-buy-homes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
