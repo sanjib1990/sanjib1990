@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth&#39;s recent asteroid visitor might&#39;ve been a piece of the moon](https://www.space.com/the-universe/asteroids/earths-recent-asteroid-visitor-mightve-been-a-piece-of-the-moon)
 - [US indicts five individuals in crackdown on North Korea’s illicit IT workforce](https://techcrunch.com/2025/01/24/us-indicts-five-individuals-in-crackdown-on-north-koreas-illicit-it-workforce/)
 - [Tata acquires 60% stake in Apple partner Pegatron’s India unit](https://techcrunch.com/2025/01/24/tata-acquires-60-stake-in-apple-partner-pegatron-india-unit/)
 - [Madrona just announced its biggest fund ever, closing on $770M as other venture funds grow smaller](https://techcrunch.com/2025/01/23/madrona-just-announced-its-biggest-fund-ever-closing-on-770m-as-other-venture-funds-grow-smaller/)
 - [SpaceX launching 23 Starlink satellites to orbit from California today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-to-orbit-from-california-today)
-- [Reliance plans world’s biggest AI data centre in India, report says](https://techcrunch.com/2025/01/23/reliance-plans-world-biggest-ai-data-centre-in-india-report-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
