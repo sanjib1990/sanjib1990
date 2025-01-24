@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Volcanic cones on Mars tell a tale of ice and fire](https://www.space.com/the-universe/mars/volcanic-cones-on-mars-tell-a-tale-of-ice-and-fire)
+- [See the planet parade for under $70 with this beginner friendly, super-portable Celestron telescope deal](https://www.space.com/stargazing/astronomy-kit/save-usd40-on-this-beginner-friendly-super-portable-celestron-telescope-for-planet-parade-jan-2025)
 - [LG Electronics takes majority stake in Bear Robotics, reportedly valuing startup at $600M](https://techcrunch.com/2025/01/24/lg-electronics-takes-majority-stake-in-bear-robotics-reportedly-valuing-startup-at-600m/)
 - [Apple introduces a new API to support more in-app purchase formats](https://techcrunch.com/2025/01/24/apple-introduces-a-new-api-to-support-more-in-app-purchase-formats/)
 - [Save 23% on Lego City Modular Space Station, one of our favorite Lego space sets](https://www.space.com/entertainment/space-games-toys/save-24-percent-on-lego-city-modular-space-station-one-of-our-favorite-lego-space-sets)
-- [Earth&#39;s recent asteroid visitor might&#39;ve been a piece of the moon](https://www.space.com/the-universe/asteroids/earths-recent-asteroid-visitor-mightve-been-a-piece-of-the-moon)
-- [US indicts five individuals in crackdown on North Korea’s illicit IT workforce](https://techcrunch.com/2025/01/24/us-indicts-five-individuals-in-crackdown-on-north-koreas-illicit-it-workforce/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
