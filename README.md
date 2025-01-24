@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch &#39;planetary parade&#39; online for free on Jan. 25](https://www.space.com/stargazing/watch-planetary-parade-online-for-free-on-jan-25)
+- [iOS 18 hits 68% adoption across iPhones, per new Apple figures](https://techcrunch.com/2025/01/24/ios-18-hits-68-adoption-across-iphones-per-new-apple-figures/)
 - [Neko Health’s unicorn-sized Series B is larger than some Series C rounds](https://techcrunch.com/2025/01/24/neko-healths-unicorn-sized-series-b-is-larger-than-some-series-c-rounds/)
 - [The EU wants to talk to US tech companies ahead of Germany’s upcoming election](https://techcrunch.com/2025/01/24/the-eu-wants-to-talk-to-us-tech-companies-ahead-of-germanys-upcoming-election/)
 - [The AI industry’s pace has researchers stressed](https://techcrunch.com/2025/01/24/the-ai-industrys-pace-has-researchers-stressed/)
-- [People are benchmarking AI by having it make balls bounce in rotating shapes](https://techcrunch.com/2025/01/24/people-are-benchmarking-ai-by-having-it-make-balls-bounce-in-rotating-shapes/)
-- [US users dumped RedNote after Trump paused the TikTok ban](https://techcrunch.com/2025/01/24/us-users-dumped-rednote-after-trump-paused-the-tiktok-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
