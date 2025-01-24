@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla’s redesigned Model Y is coming to North America in March for $60,000](https://techcrunch.com/2025/01/23/teslas-redesigned-model-y-is-coming-to-north-america-in-march-for-60000/)
 - [Even some of the best AI can’t beat this new benchmark](https://techcrunch.com/2025/01/23/even-some-of-the-best-ai-cant-beat-this-new-benchmark/)
 - [NASA honors fallen astronauts with &#39;Day of Remembrance&#39; ceremony](https://www.space.com/space-exploration/human-spaceflight/nasa-honors-fallen-astronauts-with-day-of-remembrance-ceremony)
 - [JetBrains launches Junie, a new AI coding agent for its IDEs](https://techcrunch.com/2025/01/23/jetbrains-launches-junie-a-new-ai-coding-agent-for-its-ides/)
 - [Trump orders formation of working group to evaluate crypto stockpile](https://techcrunch.com/2025/01/23/trump-orders-formation-of-working-group-to-evaluate-crypto-stockpile/)
-- [OpenAI says it may store deleted Operator data for up to 90 days](https://techcrunch.com/2025/01/23/openai-says-it-may-store-deleted-operator-data-for-up-to-90-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
