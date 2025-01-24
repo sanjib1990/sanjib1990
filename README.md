@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI companies upped their federal lobbying spend in 2024 amid regulatory uncertainty](https://techcrunch.com/2025/01/24/ai-companies-upped-their-federal-lobbying-spend-in-2024-amid-regulatory-uncertainty/)
+- [Blue Origin to simulate moon gravity on Jan. 28 New Shepard suborbital launch](https://www.space.com/space-exploration/human-spaceflight/blue-origin-to-simulate-moon-gravity-on-jan-28-new-shepard-suborbital-launch)
 - [Chinese rocket booster falls to Earth, explodes near home &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/chinese-rocket-booster-falls-to-earth-explodes-near-home-video)
 - [ElevenLabs has raised a new round at $3B+ valuation led by ICONIQ Growth, sources say](https://techcrunch.com/2025/01/24/elevenlabs-has-raised-a-new-round-at-3b-valuation-led-by-iconiq-growth-sources-say/)
 - [X expands its vertical video feed to global users](https://techcrunch.com/2025/01/24/x-expands-its-vertical-video-feed-to-global-users/)
-- [TechCrunch Disrupt 2025 tickets now on sale: Lowest rates ever](https://techcrunch.com/2025/01/24/techcrunch-disrupt-2025-tickets-now-on-sale-lowest-rates-ever/)
-- [Waymo lobbyist activity in SF skyrocketed in 2024](https://techcrunch.com/2025/01/24/waymo-lobbyist-activity-in-sf-skyrocketed-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
