@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Allara lands $26M to expand women’s hormone telehealth](https://techcrunch.com/2025/01/24/allara-lands-26m-to-expand-womens-hormone-telehealth/)
+- [Foyer unlocks $6.2M to help people save up to buy homes](https://techcrunch.com/2025/01/24/foyer-unlocks-6-2m-to-help-people-save-up-to-buy-homes/)
+- [3 years of James Webb Space Telescope data on alien worlds now available online](https://www.space.com/james-webb-space-telescope-3-years-exoplanet)
 - [Volcanic cones on Mars tell a tale of ice and fire](https://www.space.com/the-universe/mars/volcanic-cones-on-mars-tell-a-tale-of-ice-and-fire)
 - [See the planet parade for under $70 with this beginner friendly, super-portable Celestron telescope deal](https://www.space.com/stargazing/astronomy-kit/save-usd40-on-this-beginner-friendly-super-portable-celestron-telescope-for-planet-parade-jan-2025)
-- [LG Electronics takes majority stake in Bear Robotics, reportedly valuing startup at $600M](https://techcrunch.com/2025/01/24/lg-electronics-takes-majority-stake-in-bear-robotics-reportedly-valuing-startup-at-600m/)
-- [Apple introduces a new API to support more in-app purchase formats](https://techcrunch.com/2025/01/24/apple-introduces-a-new-api-to-support-more-in-app-purchase-formats/)
-- [Save 23% on Lego City Modular Space Station, one of our favorite Lego space sets](https://www.space.com/entertainment/space-games-toys/save-24-percent-on-lego-city-modular-space-station-one-of-our-favorite-lego-space-sets)
 <!-- BLOG-POST-LIST:END -->
 
 ---
