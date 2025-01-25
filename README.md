@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI wants to take over your browser](https://techcrunch.com/2025/01/25/openai-wants-to-take-over-your-browser/)
+- [Paul McCartney calls on UK government to protect artists from AI](https://techcrunch.com/2025/01/25/paul-mccartney-calls-on-uk-government-to-protect-artists-from-ai/)
 - [Mysterious Mars mounds may bolster case for ancient Red Planet ocean](https://www.space.com/the-universe/mars/mysterious-mars-mounds-may-bolster-case-for-ancient-red-planet-ocean)
 - [This Week In Space podcast: Episode 145 —We&#39;re &#39;Star Bound&#39; with a guide to America&#39;s space program](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-145-were-star-bound-with-a-guide-to-americas-space-program)
 - [Invisible &#39;flickering&#39; on the sun could predict potentially dangerous solar flares hours in advance](https://www.space.com/the-universe/sun/invisible-flickering-on-the-sun-could-predict-potentially-dangerous-solar-flares-hours-in-advance)
-- [NASA wants to launch rockets into northern lights to study &#39;black auroras&#39;](https://www.space.com/stargazing/aurora-borealis/nasa-wants-to-launch-rockets-into-northern-lights-to-study-black-auroras)
-- [Electric spacecraft propulsion may soon take a leap, thanks to new supercomputer](https://www.space.com/space-exploration/tech/electric-spacecraft-propulsion-may-soon-take-a-leap-thanks-to-new-supercomputer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
