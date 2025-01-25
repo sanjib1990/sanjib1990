@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Electric spacecraft propulsion may soon take a leap, thanks to new supercomputer](https://www.space.com/space-exploration/tech/electric-spacecraft-propulsion-may-soon-take-a-leap-thanks-to-new-supercomputer)
 - [Could we travel to parallel universes?](https://www.space.com/the-universe/could-we-travel-to-parallel-universes)
 - [Wall Street banks plan sale of X debt at a discount](https://techcrunch.com/2025/01/24/wall-street-banks-plan-sale-of-x-debt-at-a-discount/)
 - [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/)
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/)
-- [In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment](https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
