@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wall Street banks plan sale of X debt at a discount](https://techcrunch.com/2025/01/24/wall-street-banks-plan-sale-of-x-debt-at-a-discount/)
 - [Retro Biosciences, backed by Sam Altman, is raising $1 billion to extend human lifespan](https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/)
 - [UnitedHealth confirms 190 million Americans affected by Change Healthcare data breach](https://techcrunch.com/2025/01/24/unitedhealth-confirms-190-million-americans-affected-by-change-healthcare-data-breach/)
 - [In motion to dismiss, chatbot platform Character AI claims it is protected by the First Amendment](https://techcrunch.com/2025/01/24/in-motion-to-dismiss-chatbot-platform-character-ai-claims-it-is-protected-by-the-first-amendment/)
 - [What is Section 31? The &#39;Star Trek&#39; spy organization explained](https://www.space.com/entertainment/space-movies-shows/what-is-section-31-the-star-trek-spy-organization-explained)
-- [Scientists discover exoplanet with supersonic winds — the fastest in the known universe](https://www.space.com/the-universe/exoplanets/scientists-discover-exoplanet-with-20-500-mile-per-hour-winds-the-fastest-in-the-known-universe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
