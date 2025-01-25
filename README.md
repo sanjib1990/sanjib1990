@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/)
 - [Will states lead the way on AI regulation?](https://techcrunch.com/2025/01/25/will-states-lead-the-way-on-ai-regulation/)
 - [OpenAI wants to take over your browser](https://techcrunch.com/2025/01/25/openai-wants-to-take-over-your-browser/)
 - [Paul McCartney calls on UK government to protect artists from AI](https://techcrunch.com/2025/01/25/paul-mccartney-calls-on-uk-government-to-protect-artists-from-ai/)
 - [Mysterious Mars mounds may bolster case for ancient Red Planet ocean](https://www.space.com/the-universe/mars/mysterious-mars-mounds-may-bolster-case-for-ancient-red-planet-ocean)
-- [This Week In Space podcast: Episode 145 —We&#39;re &#39;Star Bound&#39; with a guide to America&#39;s space program](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-145-were-star-bound-with-a-guide-to-americas-space-program)
 <!-- BLOG-POST-LIST:END -->
 
 ---
