@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are boson stars — and what do they have to do with dark matter?](https://www.space.com/the-universe/stars/what-are-boson-stars-and-what-do-they-have-to-do-with-dark-matter)
 - [Real estate firms pivot to energy development amid booming data center demand](https://techcrunch.com/2025/01/25/amid-soaring-demand-for-data-centers-real-estate-companies-look-to-become-energy-developers/)
 - [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/)
 - [Will states lead the way on AI regulation?](https://techcrunch.com/2025/01/25/will-states-lead-the-way-on-ai-regulation/)
 - [OpenAI wants to take over your browser](https://techcrunch.com/2025/01/25/openai-wants-to-take-over-your-browser/)
-- [Paul McCartney calls on UK government to protect artists from AI](https://techcrunch.com/2025/01/25/paul-mccartney-calls-on-uk-government-to-protect-artists-from-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
