@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Reid Hoffman feels optimistic about our AI future](https://techcrunch.com/2025/01/26/why-reid-hoffman-feels-optimistic-about-our-ai-future/)
 - [&#39;Star Trek: Section 31&#39; has a huge surprise celebrity cameo at the end](https://www.space.com/entertainment/star-trek-section-31-has-a-huge-surprise-celebrity-cameo-at-the-end)
 - [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/)
 - [Earth is bombarded with rocks from space — but who gets to keep these ultimate antiques?](https://www.space.com/the-universe/asteroids/earth-is-bombarded-with-rocks-from-space-but-who-gets-to-keep-these-ultimate-antiques)
 - [US military practices rescuing astronauts from the sea &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/us-military-practices-rescuing-astronauts-from-the-sea-photos)
-- [Partial solar eclipse September 2025: Everything you need to know about the &#39;solstice&#39; solar eclipse](https://www.space.com/stargazing/eclipses/partial-solar-eclipse-september-2025-everything-you-need-to-know-about-the-solstice-solar-eclipse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
