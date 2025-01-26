@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Partial solar eclipse September 2025: Everything you need to know about the &#39;solstice&#39; solar eclipse](https://www.space.com/stargazing/eclipses/partial-solar-eclipse-september-2025-everything-you-need-to-know-about-the-solstice-solar-eclipse)
 - [What are boson stars — and what do they have to do with dark matter?](https://www.space.com/the-universe/stars/what-are-boson-stars-and-what-do-they-have-to-do-with-dark-matter)
 - [Real estate firms pivot to energy development amid booming data center demand](https://techcrunch.com/2025/01/25/amid-soaring-demand-for-data-centers-real-estate-companies-look-to-become-energy-developers/)
 - [Trump administration reportedly negotiating an Oracle takeover of TikTok](https://techcrunch.com/2025/01/25/trump-administration-reportedly-negotiating-an-oracle-takeover-of-tiktok/)
 - [Will states lead the way on AI regulation?](https://techcrunch.com/2025/01/25/will-states-lead-the-way-on-ai-regulation/)
-- [OpenAI wants to take over your browser](https://techcrunch.com/2025/01/25/openai-wants-to-take-over-your-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
