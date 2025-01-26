@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/)
 - [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/)
 - [Why Reid Hoffman feels optimistic about our AI future](https://techcrunch.com/2025/01/26/why-reid-hoffman-feels-optimistic-about-our-ai-future/)
 - [&#39;Star Trek: Section 31&#39; has a huge surprise celebrity cameo at the end](https://www.space.com/entertainment/star-trek-section-31-has-a-huge-surprise-celebrity-cameo-at-the-end)
 - [2025 will likely be another brutal year of failed startups, data suggests](https://techcrunch.com/2025/01/26/2025-will-likely-be-another-brutal-year-of-failed-startups-data-suggests/)
-- [Earth is bombarded with rocks from space — but who gets to keep these ultimate antiques?](https://www.space.com/the-universe/asteroids/earth-is-bombarded-with-rocks-from-space-but-who-gets-to-keep-these-ultimate-antiques)
 <!-- BLOG-POST-LIST:END -->
 
 ---
