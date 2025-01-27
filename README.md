@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI-backed 1X acquires Kind Humanoid](https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/)
 - [Bluesky adds video to user profiles](https://techcrunch.com/2025/01/27/bluesky-adds-video-to-user-profiles/)
 - [AI startup DeepSeek pauses signups amid cyber incident](https://techcrunch.com/2025/01/27/ai-startup-deepseek-pauses-signups-amid-cyber-incident/)
 - [&#39;Dune: Part 2&#39; and &#39;Alien: Romulus&#39; score Oscar nominations, but Denis Villeneuve misses out again](https://www.space.com/entertainment/dune-part-2-and-alien-romulus-score-oscar-nominations-but-denis-villeneuve-misses-out-again)
 - [Viral AI company DeepSeek releases new image model family](https://techcrunch.com/2025/01/27/viral-ai-company-deepseek-releases-new-image-model-family/)
-- [SpaceX launching 21 Starlink satellites to orbit from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-21-starlink-satellites-to-orbit-from-florida-today)
 <!-- BLOG-POST-LIST:END -->
 
 ---
