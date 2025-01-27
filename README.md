@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smartwatch pioneer and Kickstarter darling Pebble is returning in a new form](https://techcrunch.com/2025/01/27/smartwatch-pioneer-and-kickstarter-darling-pebble-is-returning-in-a-new-form/)
+- [India&#39;s space agency completes 1st Gaganyaan astronaut crew capsule](https://www.space.com/space-exploration/human-spaceflight/indias-space-agency-completes-1st-gaganyaan-astronaut-crew-capsule)
+- [DeepSeek displaces ChatGPT as the App Store’s top app](https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/)
+- [How DeepSeek’s efficient AI could stall the nuclear renaissance](https://techcrunch.com/2025/01/27/how-deepseeks-efficient-ai-could-stall-the-nuclear-renaissance/)
 - [OpenAI-backed 1X acquires Kind Humanoid](https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/)
-- [Bluesky adds video to user profiles](https://techcrunch.com/2025/01/27/bluesky-adds-video-to-user-profiles/)
-- [AI startup DeepSeek pauses signups amid cyber incident](https://techcrunch.com/2025/01/27/ai-startup-deepseek-pauses-signups-amid-cyber-incident/)
-- [&#39;Dune: Part 2&#39; and &#39;Alien: Romulus&#39; score Oscar nominations, but Denis Villeneuve misses out again](https://www.space.com/entertainment/dune-part-2-and-alien-romulus-score-oscar-nominations-but-denis-villeneuve-misses-out-again)
-- [Viral AI company DeepSeek releases new image model family](https://techcrunch.com/2025/01/27/viral-ai-company-deepseek-releases-new-image-model-family/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
