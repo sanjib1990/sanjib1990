@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba’s Qwen team releases AI models that can control PCs and phones](https://techcrunch.com/2025/01/27/alibabas-qwen-team-releases-ai-models-that-can-control-pcs-and-phones/)
-- [Cornell’s robot jellyfish and worm are powered by a hydraulic fluid battery](https://techcrunch.com/2025/01/27/cornells-robot-jellyfish-and-worm-are-powered-by-a-hydraulic-fluid-battery/)
-- [Supermassive black holes in &#39;little red dot&#39; galaxies are 1,000 times larger than they should be, and astronomers don&#39;t know why](https://www.space.com/james-webb-space-telescope-overlymassive-black-holes)
-- [Hackers are targeting machine identities. Token Security just raised $20M to stop them.](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/)
-- [Smartwatch pioneer and Kickstarter darling Pebble is returning in a new form](https://techcrunch.com/2025/01/27/smartwatch-pioneer-and-kickstarter-darling-pebble-is-returning-in-a-new-form/)
+- [Quartz has been quietly publishing AI-generated news articles](https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/)
+- [What time is Blue Origin&#39;s New Shepard rocket &#39;moon gravity&#39; launch on Jan. 28? Here&#39;s how to watch live](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-new-shepard-moon-gravity-rocket-launch-time-livestream)
+- [How to switch off Apple Intelligence on your iPhone, iPad, and Mac](https://techcrunch.com/2025/01/27/how-to-switch-off-apple-intelligence-on-your-iphone-ipad-and-mac/)
+- [DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/27/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/)
+- [Nvidia drops $600B off its market cap amid the rise of DeepSeek](https://techcrunch.com/2025/01/27/nvidia-drops-600bn-off-its-market-cap-amid-the-rise-of-deepseek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
