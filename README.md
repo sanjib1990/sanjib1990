@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 21 Starlink satellites to orbit from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-21-starlink-satellites-to-orbit-from-florida-today)
+- [Grok 3 seemingly went live for some users](https://techcrunch.com/2025/01/27/grok-3-seemingly-went-live-for-some-users/)
+- [Meta AI can now use your Facebook and Instagram data to personalize its responses](https://techcrunch.com/2025/01/27/meta-ai-can-now-use-your-facebook-and-instagram-data-to-personalize-its-responses/)
 - [TechCrunch Disrupt 2025: 5 Days left to claim your 2 for 1 Passes at the lowest rate of the year](https://techcrunch.com/2025/01/27/techcrunch-disrupt-2025-5-days-left-to-claim-your-2-for-1-passes-at-the-lowest-rate-of-the-year/)
 - [To decode dark energy, the Rubin Observatory will find millions of exploding vampire stars](https://www.space.com/veracrubin-millions-vampire-stars-white-dwarf-typeia-supernova)
-- [How the ransomware attack at Change Healthcare went down: A timeline](https://techcrunch.com/2025/01/27/how-the-ransomware-attack-at-change-healthcare-went-down-a-timeline/)
-- [&#39;Alien: Earth&#39;s new teaser trailer shows us the Xenomorph&#39;s arrival](https://www.space.com/entertainment/space-movies-shows/alien-earths-new-teaser-trailer-shows-us-the-xenomorphs-arrival)
-- [Boom Supersonic&#39;s next-generation XB-1 passenger plane 1 step away from breaking the sound barrier](https://www.space.com/space-exploration/tech/boom-supersonics-next-generation-xb-1-passenger-plane-1-step-away-from-breaking-the-sound-barrier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
