@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cornell’s robot jellyfish and worm are powered by a hydraulic fluid battery](https://techcrunch.com/2025/01/27/cornells-robot-jellyfish-and-worm-are-powered-by-a-hydraulic-fluid-battery/)
+- [Supermassive black holes in &#39;little red dot&#39; galaxies are 1,000 times larger than they should be, and astronomers don&#39;t know why](https://www.space.com/james-webb-space-telescope-overlymassive-black-holes)
+- [Hackers are targeting machine identities. Token Security just raised $20M to stop them](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/)
 - [Smartwatch pioneer and Kickstarter darling Pebble is returning in a new form](https://techcrunch.com/2025/01/27/smartwatch-pioneer-and-kickstarter-darling-pebble-is-returning-in-a-new-form/)
 - [India&#39;s space agency completes 1st Gaganyaan astronaut crew capsule](https://www.space.com/space-exploration/human-spaceflight/indias-space-agency-completes-1st-gaganyaan-astronaut-crew-capsule)
-- [DeepSeek displaces ChatGPT as the App Store’s top app](https://techcrunch.com/2025/01/27/deepseek-displaces-chatgpt-as-the-app-stores-top-app/)
-- [How DeepSeek’s efficient AI could stall the nuclear renaissance](https://techcrunch.com/2025/01/27/how-deepseeks-efficient-ai-could-stall-the-nuclear-renaissance/)
-- [OpenAI-backed 1X acquires Kind Humanoid](https://techcrunch.com/2025/01/27/openai-backed-1x-acquires-kind-humanoid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
