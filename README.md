@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump wants US to pursue &#39;manifest destiny&#39; in space. What could that mean?](https://www.space.com/space-exploration/trump-wants-us-to-pursue-manifest-destiny-in-space-what-could-that-mean)
+- [DeepSeek ‘punctures’ tech spending plans, and what analysts are saying](https://techcrunch.com/2025/01/27/deepseek-punctures-tech-spending-plans-and-what-analysts-are-saying/)
 - [TalkTalk investigating data breach after hacker claims theft of customer data](https://techcrunch.com/2025/01/27/talktalk-investigating-data-breach-after-hacker-claims-theft-of-customer-data/)
 - [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/)
 - [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/01/26/deepseek-gets-silicon-valley-talking/)
-- [Why Reid Hoffman feels optimistic about our AI future](https://techcrunch.com/2025/01/26/why-reid-hoffman-feels-optimistic-about-our-ai-future/)
-- [&#39;Star Trek: Section 31&#39; has a huge surprise celebrity cameo at the end](https://www.space.com/entertainment/star-trek-section-31-has-a-huge-surprise-celebrity-cameo-at-the-end)
 <!-- BLOG-POST-LIST:END -->
 
 ---
