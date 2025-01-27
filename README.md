@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Comet G3 &lpar;ATLAS&rpar; will be &#39;remembered as the Great Comet of 2025&#39; &lpar;photos&rpar;](https://www.space.com/the-universe/comets/why-comet-g3-atlas-will-be-remembered-as-the-great-comet-of-2025-photos)
+- [Mistral’s origin story has an insuretech founder at its heart](https://techcrunch.com/2025/01/27/alans-founder-role-in-mistrals-origin-story/)
 - [&#39;Invincible&#39; Season 3: Release date, plot, and everything we know](https://www.space.com/entertainment/invincible-season-3-release-date-plot-and-everything-we-know)
 - [Trump wants US to pursue &#39;manifest destiny&#39; in space. What could that mean?](https://www.space.com/space-exploration/trump-wants-us-to-pursue-manifest-destiny-in-space-what-could-that-mean)
 - [DeepSeek ‘punctures’ AI leaders’ spending plans, and what analysts are saying](https://techcrunch.com/2025/01/27/deepseek-punctures-tech-spending-plans-and-what-analysts-are-saying/)
-- [TalkTalk investigating data breach after hacker claims theft of customer data](https://techcrunch.com/2025/01/27/talktalk-investigating-data-breach-after-hacker-claims-theft-of-customer-data/)
-- [Perplexity submits a new bid for TikTok](https://techcrunch.com/2025/01/26/perplexity-submits-a-new-bid-for-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
