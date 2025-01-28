@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Geek Ventures, a fund that specializes in backing immigrant founders, is raising a second fund](https://techcrunch.com/2025/01/28/geek-ventures-a-fund-that-specializes-in-backing-immigrant-founders-is-raising-a-second-fund/)
-- [Documents show UK wooed a16z for five years](https://techcrunch.com/2025/01/28/documents-show-uk-wooed-a16z-for-five-years/)
-- [Amazon’s Prime Air drone service is headed to this UK town](https://techcrunch.com/2025/01/28/amazons-prime-air-drone-service-is-headed-to-this-uk-town/)
-- [Blue Origin scrubs landmark New Shepard moon-gravity launch due to weather, rocket glitch](https://www.space.com/space-exploration/human-spaceflight/blue-origin-scrubs-landmark-new-shepard-moon-gravity-launch-due-to-weather-rocket-glitch)
-- [Waymo begins testing robotaxis on LA freeways](https://techcrunch.com/2025/01/28/waymo-begins-testing-robotaxis-on-la-freeways/)
+- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2025/01/28/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
+- [Satellites watch world&#39;s largest iceberg on crash course with Antarctic penguin island &lpar;photo/video&rpar;](https://www.space.com/the-universe/earth/satellites-watch-worlds-largest-iceberg-on-crash-course-with-antarctic-penguin-island-photo-video)
+- [Bookshop.org challenges Amazon with new e-book platform](https://techcrunch.com/2025/01/28/bookshop-org-challenges-amazon-with-new-e-book-platform/)
+- [Hugging Face researchers are trying to build a more open version of DeepSeek’s AI ‘reasoning’ model](https://techcrunch.com/2025/01/28/hugging-face-researchers-are-trying-to-build-a-more-open-version-of-deepseeks-ai-reasoning-model/)
+- [Automattic and others back Openvibe, an app that’s unifying the open social web](https://techcrunch.com/2025/01/28/automattic-and-others-back-openvibe-an-app-thats-unifying-the-open-social-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
