@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo](https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/)
+- [SonicWall says hackers are exploiting a new zero-day bug to breach customer networks](https://techcrunch.com/2025/01/27/sonicwall-says-hackers-are-exploiting-a-new-zero-day-bug-to-breach-customer-networks/)
 - [Quartz has been quietly publishing AI-generated news articles](https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/)
 - [What time is Blue Origin&#39;s New Shepard rocket &#39;moon gravity&#39; launch on Jan. 28? Here&#39;s how to watch live](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-new-shepard-moon-gravity-rocket-launch-time-livestream)
 - [How to switch off Apple Intelligence on your iPhone, iPad, and Mac](https://techcrunch.com/2025/01/27/how-to-switch-off-apple-intelligence-on-your-iphone-ipad-and-mac/)
-- [DeepSeek claims its ‘reasoning’ model beats OpenAI’s o1 on certain benchmarks](https://techcrunch.com/2025/01/27/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/)
-- [Nvidia drops $600B off its market cap amid the rise of DeepSeek](https://techcrunch.com/2025/01/27/nvidia-drops-600bn-off-its-market-cap-amid-the-rise-of-deepseek/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
