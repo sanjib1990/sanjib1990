@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X announces a partnership with Visa to power X Money’s wallet](https://techcrunch.com/2025/01/28/x-announces-a-partnership-with-visa-for-to-power-x-moneys-wallet/)
+- [A cosmic &#39;CT scan&#39; shows the universe is far more complex than expected](https://www.space.com/universe-less-clumpy-more-complex-DESI)
+- [PowerSchool begins notifying students and teachers after massive data breach](https://techcrunch.com/2025/01/28/powerschool-begins-notifying-students-and-teachers-after-massive-data-breach/)
+- [OpenAI launches ChatGPT plan for U.S. government agencies](https://techcrunch.com/2025/01/28/openai-launches-chatgpt-plan-for-u-s-government-agencies/)
 - [Alice&amp;Bob raises $104M, says quantum computers based on cat qubits will be ready by 2030](https://techcrunch.com/2025/01/28/alicebob-raises-104m-says-quantum-computers-based-on-cat-qubits-will-be-ready-by-2030/)
-- [‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain](https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/)
-- [Spotify says it paid $10 billion to music industry last year](https://techcrunch.com/2025/01/28/spotify-says-it-paid-10-billion-to-music-industry-last-year/)
-- [Lucid Gravity SUV owners will gain access to Tesla Superchargers on Jan 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/)
-- [James Webb Space Telescope&#39;s &#39;big sky images&#39; issued on stamps in Big Sky, Montana](https://www.space.com/usps-james-webb-space-telescope-2025-priority-stamps-first-day-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
