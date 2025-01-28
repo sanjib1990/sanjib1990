@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ENGlobal says hackers accessed ‘sensitive personal’ data during cyberattack](https://techcrunch.com/2025/01/28/englobal-says-hackers-accessed-sensitive-personal-data-during-cyberattack/)
-- [Gigantic 500,000-mile &#39;hole&#39; in the sun&#39;s atmosphere aims aurora-sparking solar wind at Earth &lpar;photo&rpar;](https://www.space.com/the-universe/sun/gigantic-500-000-mile-hole-in-the-suns-atmosphere-aims-aurora-sparking-solar-wind-at-earth-photo)
-- [Atomicwork gets backing from Khosla for its AI alternative to old-school IT software like ServiceNow](https://techcrunch.com/2025/01/28/atomicwork-gets-backing-from-khosla-for-its-ai-alternative-to-old-school-it-software-like-servicenow/)
-- [Helion raises $425M to help build a fusion reactor for Microsoft](https://techcrunch.com/2025/01/28/helion-raises-425m-to-help-build-a-fusion-reactor-for-microsoft/)
-- [Microsoft tests ‘scareware blocker’ for Edge that uses computer vision to detect scams](https://techcrunch.com/2025/01/28/microsoft-tests-scareware-blocker-for-edge-that-uses-computer-vision-to-detect-scams/)
+- [Alice&amp;Bob raises $104M, says quantum computers based on cat qubits will be ready by 2030](https://techcrunch.com/2025/01/28/alicebob-raises-104m-says-quantum-computers-based-on-cat-qubits-will-be-ready-by-2030/)
+- [‘Blade’ writer David S. Goyer debuts his latest sci-fi franchise on Incention, a new platform built on Story blockchain](https://techcrunch.com/2025/01/28/blade-writer-david-s-goyer-debuts-his-latest-sci-fi-franchise-on-incention-a-new-platform-built-on-story-blockchain/)
+- [Spotify says it paid $10 billion to music industry last year](https://techcrunch.com/2025/01/28/spotify-says-it-paid-10-billion-to-music-industry-last-year/)
+- [Lucid Gravity SUV owners will gain access to Tesla Superchargers on Jan 31](https://techcrunch.com/2025/01/28/lucid-gravity-suv-owners-will-gain-access-to-tesla-superchargers-on-jan-31/)
+- [James Webb Space Telescope&#39;s &#39;big sky images&#39; issued on stamps in Big Sky, Montana](https://www.space.com/usps-james-webb-space-telescope-2025-priority-stamps-first-day-issue)
 <!-- BLOG-POST-LIST:END -->
 
 ---
