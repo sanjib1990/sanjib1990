@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boom’s XB-1 becomes first civil aircraft to go supersonic](https://techcrunch.com/2025/01/28/booms-xb-1-becomes-first-civil-aircraft-to-go-supersonic/)
-- [Jetify launches Testpilot, its AI QA engineer](https://techcrunch.com/2025/01/28/jetify-launches-testpilot-its-ai-qa-engineer/)
-- [Newly discovered super-Earth orbits in and out of its star&#39;s habitable zone. Could life survive its extreme climate?](https://www.space.com/the-universe/exoplanets/newly-discovered-super-earth-orbits-in-and-out-of-its-stars-habitable-zone-could-life-survive-its-extreme-climate)
-- [GM expects to save up to $1 billion on Cruise costs](https://techcrunch.com/2025/01/28/gm-expects-to-save-up-to-1-billion-on-cruise-costs/)
-- [Quibim raises $50M to develop AI models for medical imaging](https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/)
+- [Waymo begins testing robotaxis on LA freeways](https://techcrunch.com/2025/01/28/waymo-begins-testing-robotaxis-on-la-freeways/)
+- [This startup is selling for $1B, so why is its founder not proud of the outcome?](https://techcrunch.com/2025/01/28/this-startup-is-selling-for-1b-so-why-is-its-founder-not-proud-of-the-outcome/)
+- [This founder was worried about his mother slipping — so he created sensors to detect falls](https://techcrunch.com/2025/01/28/this-founder-was-worried-about-his-mother-slipping-so-he-created-sensors-to-detect-falls/)
+- [Google Play adds a ‘Verified’ badge for trusted VPN apps](https://techcrunch.com/2025/01/28/google-play-adds-a-verified-badge-for-trusted-vpn-apps/)
+- [&#39;Star Trek: Section 31&#39; goes back to Trek&#39;s &#39;space western&#39; roots to tell a &#39;Clint Eastwood&#39; story &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-trek-section-31-goes-back-to-treks-space-western-roots-to-tell-a-clint-eastwood-story-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
