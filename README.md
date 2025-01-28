@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/01/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
+- [David Sacks claims there’s ‘substantial evidence’ that DeepSeek used OpenAI’s models to train its own](https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/)
 - [DeepSeek triggered a wild, baseless rally for some Chinese stocks](https://techcrunch.com/2025/01/28/deepseek-triggered-a-wild-baseless-rally-for-some-chinese-stocks/)
 - [Firefly Aerospace&#39;s Blue Ghost lunar lander snaps its 1st photos of the moon &lpar;images&rpar;](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-blue-ghost-lunar-lander-snaps-its-1st-photos-of-the-moon-images)
 - [Watch India launch a new navigation satellite into orbit today on its 1st mission of 2025](https://www.space.com/space-exploration/launches-spacecraft/india-launching-navigation-satellite-today-on-its-1st-mission-of-2025-watch-it-live)
-- [Figure AI details plan to improve humanoid robot safety in the workplace](https://techcrunch.com/2025/01/28/figure-ai-details-plan-to-improve-humanoid-robot-safety-in-the-workplace/)
-- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2025/01/28/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
