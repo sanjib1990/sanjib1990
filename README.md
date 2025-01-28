@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zepto shifts domicile to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/)
+- [Scientists find hints of the dark universe in 3D maps of the cosmos](https://www.space.com/the-universe/galaxies/scientists-find-hints-of-the-dark-universe-in-3d-maps-of-the-cosmos)
+- [Zepto shifts HQ to India as local listings gain appeal](https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/)
 - [TravelPerk raises $200M as valuation nearly doubles to $2.7B](https://techcrunch.com/2025/01/27/travelperk-raises-200m-as-valuation-nearly-doubles-to-2-7b/)
 - [Boom Supersonic to break sound barrier during historic test flight today: Watch live](https://www.space.com/space-exploration/tech/boom-supersonic-to-break-sound-barrier-during-historic-test-flight-today-watch-live)
 - [Google Maps will soon rename Gulf of Mexico to ‘Gulf of America’](https://techcrunch.com/2025/01/27/google-maps-will-soon-rename-gulf-of-mexico-to-gulf-of-america/)
-- [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
