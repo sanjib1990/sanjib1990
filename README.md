@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An interstellar visitor may have changed the course of 4 solar system planets, study suggests](https://www.space.com/the-universe/solar-system/an-interstellar-visitor-may-have-changed-the-course-of-4-solar-system-planets-study-suggests)
-- [Hugging Face makes it easier for devs to run AI models on third-party clouds](https://techcrunch.com/2025/01/28/hugging-face-makes-it-easier-for-devs-to-run-ai-models-on-third-party-clouds/)
-- [&#39;Star Wars: A New Legacy&#39; celebrates 10 years of &#39;Star Wars&#39; comics under the Marvel empire](https://www.space.com/entertainment/star-wars-a-new-legacy-celebrates-10-years-of-star-wars-comics-under-the-marvel-empire)
-- [Trump says Microsoft is in talks to acquire TikTok](https://techcrunch.com/2025/01/28/trump-says-microsoft-is-in-talks-to-acquire-tiktok/)
-- [X announces a partnership with Visa to power X Money’s wallet](https://techcrunch.com/2025/01/28/x-announces-a-partnership-with-visa-for-to-power-x-moneys-wallet/)
+- [Boom’s XB-1 becomes first civil aircraft to go supersonic](https://techcrunch.com/2025/01/28/booms-xb-1-becomes-first-civil-aircraft-to-go-supersonic/)
+- [Jetify launches Testpilot, its AI QA engineer](https://techcrunch.com/2025/01/28/jetify-launches-testpilot-its-ai-qa-engineer/)
+- [Newly discovered super-Earth orbits in and out of its star&#39;s habitable zone. Could life survive its extreme climate?](https://www.space.com/the-universe/exoplanets/newly-discovered-super-earth-orbits-in-and-out-of-its-stars-habitable-zone-could-life-survive-its-extreme-climate)
+- [GM expects to save up to $1 billion on Cruise costs](https://techcrunch.com/2025/01/28/gm-expects-to-save-up-to-1-billion-on-cruise-costs/)
+- [Quibim raises $50M to develop AI models for medical imaging](https://techcrunch.com/2025/01/28/quibim-raises-50m-to-develop-ai-models-for-medical-imaging/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
