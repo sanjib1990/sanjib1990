@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hacker&#39;s Roadmap 2025 &lpar;how to get started in IT&rpar;](https://www.youtube.com/watch?v=5xWnmUEi1Qw)
 - [Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble?](https://www.youtube.com/watch?v=Nl7aCUsWykg)
 - [The Stargate situation is crazy... Elon vs Altman beef intensifies](https://www.youtube.com/watch?v=YrHsw4Oja7w)
 - [Dark web PHP dev Ross Ulbricht released from prison…](https://www.youtube.com/watch?v=gi-wuoIDdjw)
 - [Can you make your own voice assistant?](https://www.youtube.com/watch?v=fDWaUwguPp8)
-- [A history of time in computers](https://www.youtube.com/watch?v=NsUVKI40DmE)
 <!-- YOUTUBE:END -->
 
 ---
