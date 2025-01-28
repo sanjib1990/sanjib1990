@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps will soon rename Gulf of Mexico to ‘Gulf of America’](https://techcrunch.com/2025/01/27/google-maps-will-soon-rename-gulf-of-mexico-to-gulf-of-america/)
+- [Reid Hoffman’s Manas AI raises $24.6M, a fraction of other AI drug discovery startups](https://techcrunch.com/2025/01/27/reid-hoffmans-manas-ai-raises-24-6m-a-fraction-of-other-ai-drug-discovery-startups/)
 - [Former Intel CEO Pat Gelsinger is already using DeepSeek instead of OpenAI at his startup, Gloo](https://techcrunch.com/2025/01/27/former-intel-ceo-pat-gelsinger-is-already-using-deepseek-instead-of-openai-at-his-startup-gloo/)
 - [SonicWall says hackers are exploiting a new zero-day bug to breach customer networks](https://techcrunch.com/2025/01/27/sonicwall-says-hackers-are-exploiting-a-new-zero-day-bug-to-breach-customer-networks/)
 - [Quartz has been quietly publishing AI-generated news articles](https://techcrunch.com/2025/01/27/quartz-has-been-quietly-publishing-ai-generated-news-articles/)
-- [What time is Blue Origin&#39;s New Shepard rocket &#39;moon gravity&#39; launch on Jan. 28? Here&#39;s how to watch live](https://www.space.com/space-exploration/launches-spacecraft/blue-origin-new-shepard-moon-gravity-rocket-launch-time-livestream)
-- [How to switch off Apple Intelligence on your iPhone, iPad, and Mac](https://techcrunch.com/2025/01/27/how-to-switch-off-apple-intelligence-on-your-iphone-ipad-and-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
