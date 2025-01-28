@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [India launching navigation satellite today on its 1st mission of 2025: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/india-launching-navigation-satellite-today-on-its-1st-mission-of-2025-watch-it-live)
+- [DeepSeek triggered a wild, baseless rally for some Chinese stocks](https://techcrunch.com/2025/01/28/deepseek-triggered-a-wild-baseless-rally-for-some-chinese-stocks/)
+- [Firefly Aerospace&#39;s Blue Ghost lunar lander snaps its 1st photos of the moon &lpar;images&rpar;](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospaces-blue-ghost-lunar-lander-snaps-its-1st-photos-of-the-moon-images)
+- [Watch India launch a new navigation satellite into orbit today on its 1st mission of 2025](https://www.space.com/space-exploration/launches-spacecraft/india-launching-navigation-satellite-today-on-its-1st-mission-of-2025-watch-it-live)
 - [Figure AI details plan to improve humanoid robot safety in the workplace](https://techcrunch.com/2025/01/28/figure-ai-details-plan-to-improve-humanoid-robot-safety-in-the-workplace/)
 - [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2025/01/28/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
-- [Satellites watch world&#39;s largest iceberg on crash course with Antarctic penguin island &lpar;photo/video&rpar;](https://www.space.com/the-universe/earth/satellites-watch-worlds-largest-iceberg-on-crash-course-with-antarctic-penguin-island-photo-video)
-- [Bookshop.org challenges Amazon with new e-book platform](https://techcrunch.com/2025/01/28/bookshop-org-challenges-amazon-with-new-e-book-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
