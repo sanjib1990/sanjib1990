@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An interstellar visitor may have changed the course of 4 solar system planets, study suggests](https://www.space.com/the-universe/solar-system/an-interstellar-visitor-may-have-changed-the-course-of-4-solar-system-planets-study-suggests)
+- [Hugging Face makes it easier for devs to run AI models on third-party clouds](https://techcrunch.com/2025/01/28/hugging-face-makes-it-easier-for-devs-to-run-ai-models-on-third-party-clouds/)
+- [&#39;Star Wars: A New Legacy&#39; celebrates 10 years of &#39;Star Wars&#39; comics under the Marvel empire](https://www.space.com/entertainment/star-wars-a-new-legacy-celebrates-10-years-of-star-wars-comics-under-the-marvel-empire)
+- [Trump says Microsoft is in talks to acquire TikTok](https://techcrunch.com/2025/01/28/trump-says-microsoft-is-in-talks-to-acquire-tiktok/)
 - [X announces a partnership with Visa to power X Money’s wallet](https://techcrunch.com/2025/01/28/x-announces-a-partnership-with-visa-for-to-power-x-moneys-wallet/)
-- [A cosmic &#39;CT scan&#39; shows the universe is far more complex than expected](https://www.space.com/universe-less-clumpy-more-complex-DESI)
-- [PowerSchool begins notifying students and teachers after massive data breach](https://techcrunch.com/2025/01/28/powerschool-begins-notifying-students-and-teachers-after-massive-data-breach/)
-- [OpenAI launches ChatGPT plan for U.S. government agencies](https://techcrunch.com/2025/01/28/openai-launches-chatgpt-plan-for-u-s-government-agencies/)
-- [Alice&amp;Bob raises $104M, says quantum computers based on cat qubits will be ready by 2030](https://techcrunch.com/2025/01/28/alicebob-raises-104m-says-quantum-computers-based-on-cat-qubits-will-be-ready-by-2030/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
