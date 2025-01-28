@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Geek Ventures, a fund that specializes in backing immigrant founders, is raising a second fund](https://techcrunch.com/2025/01/28/geek-ventures-a-fund-that-specializes-in-backing-immigrant-founders-is-raising-a-second-fund/)
+- [Documents show UK wooed a16z for five years](https://techcrunch.com/2025/01/28/documents-show-uk-wooed-a16z-for-five-years/)
+- [Amazon’s Prime Air drone service is headed to this UK town](https://techcrunch.com/2025/01/28/amazons-prime-air-drone-service-is-headed-to-this-uk-town/)
+- [Blue Origin scrubs landmark New Shepard moon-gravity launch due to weather, rocket glitch](https://www.space.com/space-exploration/human-spaceflight/blue-origin-scrubs-landmark-new-shepard-moon-gravity-launch-due-to-weather-rocket-glitch)
 - [Waymo begins testing robotaxis on LA freeways](https://techcrunch.com/2025/01/28/waymo-begins-testing-robotaxis-on-la-freeways/)
-- [This startup is selling for $1B, so why is its founder not proud of the outcome?](https://techcrunch.com/2025/01/28/this-startup-is-selling-for-1b-so-why-is-its-founder-not-proud-of-the-outcome/)
-- [This founder was worried about his mother slipping — so he created sensors to detect falls](https://techcrunch.com/2025/01/28/this-founder-was-worried-about-his-mother-slipping-so-he-created-sensors-to-detect-falls/)
-- [Google Play adds a ‘Verified’ badge for trusted VPN apps](https://techcrunch.com/2025/01/28/google-play-adds-a-verified-badge-for-trusted-vpn-apps/)
-- [&#39;Star Trek: Section 31&#39; goes back to Trek&#39;s &#39;space western&#39; roots to tell a &#39;Clint Eastwood&#39; story &lpar;exclusive&rpar;](https://www.space.com/entertainment/star-trek-section-31-goes-back-to-treks-space-western-roots-to-tell-a-clint-eastwood-story-exclusive)
 <!-- BLOG-POST-LIST:END -->
 
 ---
