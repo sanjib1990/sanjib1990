@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UVeye racks up another $191 million for its vision-based ‘MRI for cars’](https://techcrunch.com/2025/01/29/uveye-racks-up-another-191-million-for-its-vision-based-mri-for-cars/)
+- [This Bay Area startup is using AI to help families navigate long-term care planning](https://techcrunch.com/2025/01/29/this-bay-area-startup-is-using-ai-to-help-families-navigate-long-term-care/)
+- [NASA Jet Propulsion Lab opens doors after LA fires, helps firefighter helicopters refuel](https://www.space.com/the-universe/climate-change/nasa-jet-propulsion-lab-opens-doors-after-la-fires-helps-firefighter-helicopters-refuel)
 - [TechCrunch Disrupt 2025: Only 3 days left for 2-for-1 Pass](https://techcrunch.com/2025/01/29/techcrunch-disrupt-2025-only-3-days-left-for-2-for-1-pass/)
 - [January new moon 2025: The young moon visits Venus and Saturn](https://www.space.com/stargazing/january-new-moon-2025-the-young-moon-visits-venus-and-saturn)
-- [Clutch grabs $20M to build out its non-human security ID platform](https://techcrunch.com/2025/01/29/clutch-grabs-20m-to-build-out-its-non-human-security-id-platform/)
-- [Finout raises $40M Series C for its cloud cost management service](https://techcrunch.com/2025/01/29/finout-raises-40m-series-c-for-its-cloud-cost-management-service/)
-- [On Tesla earnings day, all eyes are Elon, profits, and AI](https://techcrunch.com/2025/01/29/on-tesla-earnings-day-all-eyes-are-elon-profits-and-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
