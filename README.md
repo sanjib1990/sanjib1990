@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Climate change ignited LA’s wildfire risk. These startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/)
 - [Waymo reportedly testing robotaxis in 10 new cities in 2025](https://techcrunch.com/2025/01/29/waymo-reportedly-testing-robotaxis-in-10-new-cities-in-2025/)
 - [Instagram gives creators more insight into their reels’ performance](https://techcrunch.com/2025/01/29/instagram-gives-creators-more-insight-into-their-reels-performance/)
 - [Anthropic’s CEO says DeepSeek shows US export rules are working](https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/)
 - [Report: Majority of U.S. teens have lost trust in Big Tech](https://techcrunch.com/2025/01/29/report-majority-of-u-s-teens-have-lost-trust-in-big-tech/)
-- [Netflix adds a convenient feature for iOS users to download an entire TV season at once](https://techcrunch.com/2025/01/29/netflix-adds-a-convenient-feature-for-ios-users-to-download-an-entire-tv-season-at-once/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
