@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Climate change ignited LA’s wildfire risk. These startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/)
+- [MoviePass might pivot to crypto](https://techcrunch.com/2025/01/29/moviepass-might-pivot-to-crypto/)
+- [Astronaut Hall of Fame to honor Bernard Harris and Peggy Whitson in May](https://www.space.com/space-exploration/human-spaceflight/astronaut-hall-of-fame-to-honor-bernard-harris-and-peggy-whitson-in-may)
+- [Climate change ignited LA’s wildfire risk — these startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/)
 - [Waymo reportedly testing robotaxis in 10 new cities in 2025](https://techcrunch.com/2025/01/29/waymo-reportedly-testing-robotaxis-in-10-new-cities-in-2025/)
 - [Instagram gives creators more insight into their reels’ performance](https://techcrunch.com/2025/01/29/instagram-gives-creators-more-insight-into-their-reels-performance/)
-- [Anthropic’s CEO says DeepSeek shows US export rules are working](https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/)
-- [Report: Majority of U.S. teens have lost trust in Big Tech](https://techcrunch.com/2025/01/29/report-majority-of-u-s-teens-have-lost-trust-in-big-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
