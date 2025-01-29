@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn passes $2B in premium revenues in 12 months, with overall revenues up 9% on the year](https://techcrunch.com/2025/01/29/linkedin-passes-2b-in-premium-revenues-in-12-months-with-overall-revenues-up-9-on-the-year/)
+- [Elon Musk claims Tesla will launch a self-driving service in Austin in June](https://techcrunch.com/2025/01/29/elon-musk-claims-tesla-will-launch-a-self-driving-service-in-austin-in-june/)
+- [Threads adds another 20M monthly users since December, reaching 320M](https://techcrunch.com/2025/01/29/threads-adds-another-20m-users-since-december-reaching-320m/)
+- [SpaceX Starlink satellite sparks brilliant fireball as it falls from space over US &lpar;videos&rpar;](https://www.space.com/stargazing/spacex-starlink-satellite-sparks-brilliant-fireball-as-it-falls-from-space-over-us-videos)
 - [Hackers are hijacking WordPress sites to push Windows and Mac malware](https://techcrunch.com/2025/01/29/hackers-are-hijacking-wordpress-sites-to-push-windows-and-mac-malware/)
-- [NASA X-ray telescope Chandra discovers black holes &#39;blow&#39; on their food to cool it down](https://www.space.com/chandra-NASA-black-holes-cook-meals)
-- [Watch a SpaceX rocket launch the next-gen SpainSat NG 1 satellite into orbit tonight](https://www.space.com/space-exploration/spacex-rocket-next-gen-spainsat-ng-1-satellite-launch)
-- [Microsoft brings a DeepSeek model to its cloud](https://techcrunch.com/2025/01/29/microsoft-brings-a-deepseek-model-to-its-cloud/)
-- [Joe Lonsdale’s 8VC seeking $1B for new fund](https://techcrunch.com/2025/01/29/joe-lonsdales-8vc-seeking-1b-for-new-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
