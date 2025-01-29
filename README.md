@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump asks Elon Musk to return 2 Starliner astronauts from the ISS for NASA—but they already have a SpaceX ride home](https://www.space.com/space-exploration/trump-asks-elon-musk-to-return-2-starliner-astronauts-from-the-iss-for-nasa-but-they-already-have-a-spacex-ride-home)
+- [Uber-backed mobility fintech Moove acquires Brazil’s Kovi, takes ARR to $275M](https://techcrunch.com/2025/01/29/uber-backed-mobility-fintech-moove-acquires-brazils-kovi-takes-arr-to-275m/)
+- [ChatGPT’s mobile users are 85% male, report says](https://techcrunch.com/2025/01/29/chatgpts-mobile-users-are-85-male-report-says/)
+- [Trump asks Elon Musk to return 2 Starliner astronauts from the ISS for NASA —but they already have a SpaceX ride home](https://www.space.com/space-exploration/trump-asks-elon-musk-to-return-2-starliner-astronauts-from-the-iss-for-nasa-but-they-already-have-a-spacex-ride-home)
 - [Meteomatics eyes U.S. expansion for its enterprise-focused weather forecasting tools](https://techcrunch.com/2025/01/29/meteomatics-eyes-u-s-expansion-for-its-enterprise-focused-weather-forecasting-tools/)
 - [DeepSeek’s AI avoids answering 85% of prompts on ‘sensitive topics’ related to China](https://techcrunch.com/2025/01/29/deepseeks-ai-avoids-answering-85-of-prompts-on-sensitive-topics-related-to-china/)
-- [Microsoft probing whether DeepSeek improperly used OpenAI APIs](https://techcrunch.com/2025/01/29/microsoft-probing-whether-deepseek-improperly-used-openais-api/)
-- [Formance raises $21M to build the AWS for fintech infrastructure](https://techcrunch.com/2025/01/29/formance-raises-21-million-to-build-the-aws-of-fintech-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
