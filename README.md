@@ -83,7 +83,7 @@
 
 <!-- YOUTUBE:START -->
 - [DeepSeek is a Game Changer for AI - Computerphile](https://www.youtube.com/watch?v=gY4Z-9QlZ64)
-- [Hacker&#39;s Roadmap 2025 &lpar;how to get started in IT&rpar;](https://www.youtube.com/watch?v=5xWnmUEi1Qw)
+- [the hacker’s roadmap &lpar;how to get started in IT in 2025&rpar;](https://www.youtube.com/watch?v=5xWnmUEi1Qw)
 - [Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble?](https://www.youtube.com/watch?v=Nl7aCUsWykg)
 - [The Stargate situation is crazy... Elon vs Altman beef intensifies](https://www.youtube.com/watch?v=YrHsw4Oja7w)
 - [Dark web PHP dev Ross Ulbricht released from prison…](https://www.youtube.com/watch?v=gi-wuoIDdjw)
