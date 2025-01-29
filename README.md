@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MoviePass might pivot to crypto](https://techcrunch.com/2025/01/29/moviepass-might-pivot-to-crypto/)
-- [Astronaut Hall of Fame to honor Bernard Harris and Peggy Whitson in May](https://www.space.com/space-exploration/human-spaceflight/astronaut-hall-of-fame-to-honor-bernard-harris-and-peggy-whitson-in-may)
-- [Climate change ignited LA’s wildfire risk — these startups want to extinguish it](https://techcrunch.com/2025/01/29/climate-change-ignited-las-wildfire-risk-these-startups-want-to-extinguish-it/)
-- [Waymo reportedly testing robotaxis in 10 new cities in 2025](https://techcrunch.com/2025/01/29/waymo-reportedly-testing-robotaxis-in-10-new-cities-in-2025/)
-- [Instagram gives creators more insight into their reels’ performance](https://techcrunch.com/2025/01/29/instagram-gives-creators-more-insight-into-their-reels-performance/)
+- [Microsoft brings a DeepSeek model to its cloud](https://techcrunch.com/2025/01/29/microsoft-brings-a-deepseek-model-to-its-cloud/)
+- [Joe Lonsdale’s 8VC seeking $1B for new fund](https://techcrunch.com/2025/01/29/joe-lonsdales-8vc-seeking-1b-for-new-fund/)
+- [NASA finds key molecules for life in OSIRIS-REx asteroid samples. Here&#39;s what that means](https://www.space.com/the-universe/asteroids/nasa-finds-key-molecules-for-life-in-osiris-rex-asteroid-samples-heres-what-that-means)
+- [Trump administration&#39;s funding freeze attempt could have stalled $1.2 billion in NASA spending](https://www.space.com/space-exploration/missions/trump-administration-freezes-usd1-2-billion-in-nasa-funding)
+- [DeepSeek might have a trademark problem in the U.S.](https://techcrunch.com/2025/01/29/deepseek-might-have-a-trademark-problem-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
