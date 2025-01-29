@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Naboo secures $21M for its concierge-style corporate event booking platform](https://techcrunch.com/2025/01/28/naboo-secures-21-million-for-its-concierge-style-corporate-event-booking-platform/)
 - [SoftBank to invest $500M in robotics startup SkildAI](https://techcrunch.com/2025/01/28/softbank-to-invest-500m-in-robotics-startup-skildai/)
 - [Italy sends first data watchdog request to DeepSeek: ‘The data of millions of Italians is at risk’](https://techcrunch.com/2025/01/28/italy-sends-first-data-watchdog-request-to-deepseek-the-data-of-millions-of-italians-is-at-risk/)
 - [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/01/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
 - [David Sacks claims there’s ‘substantial evidence’ that DeepSeek used OpenAI’s models to train its own](https://techcrunch.com/2025/01/28/david-sacks-claims-theres-substantial-evidence-that-deepseek-used-openais-models-to-train-its-own/)
-- [DeepSeek triggered a wild, baseless rally for some Chinese stocks](https://techcrunch.com/2025/01/28/deepseek-triggered-a-wild-baseless-rally-for-some-chinese-stocks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
