@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek’s app becomes unavailable on Apple’s and Google’s app stores in Italy](https://techcrunch.com/2025/01/29/deepseeks-app-becomes-unavailable-on-apples-and-googles-app-stores-in-italy/)
+- [Earth-observing company Planet signs $230 million deal for fleet of new Pelican satellites](https://www.space.com/space-exploration/satellites/earth-observing-company-planet-signs-usd230-million-deal-for-fleet-of-new-pelican-satellites)
+- [Warhammer 40,000 animation &#39;Astartes II&#39; looks stunningly brutal in new trailer](https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animation-astartes-ii-looks-stunningly-brutal-in-new-trailer)
+- [Engineering giant Smiths Group says hackers accessed its systems during cyberattack](https://techcrunch.com/2025/01/29/engineering-giant-smiths-group-says-hackers-accessed-its-systems-during-cyberattack/)
 - [Uber-backed mobility fintech Moove acquires Brazil’s Kovi, takes ARR to $275M](https://techcrunch.com/2025/01/29/uber-backed-mobility-fintech-moove-acquires-brazils-kovi-takes-arr-to-275m/)
-- [ChatGPT’s mobile users are 85% male, report says](https://techcrunch.com/2025/01/29/chatgpts-mobile-users-are-85-male-report-says/)
-- [Trump asks Elon Musk to return 2 Starliner astronauts from the ISS for NASA —but they already have a SpaceX ride home](https://www.space.com/space-exploration/trump-asks-elon-musk-to-return-2-starliner-astronauts-from-the-iss-for-nasa-but-they-already-have-a-spacex-ride-home)
-- [Meteomatics eyes U.S. expansion for its enterprise-focused weather forecasting tools](https://techcrunch.com/2025/01/29/meteomatics-eyes-u-s-expansion-for-its-enterprise-focused-weather-forecasting-tools/)
-- [DeepSeek’s AI avoids answering 85% of prompts on ‘sensitive topics’ related to China](https://techcrunch.com/2025/01/29/deepseeks-ai-avoids-answering-85-of-prompts-on-sensitive-topics-related-to-china/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
