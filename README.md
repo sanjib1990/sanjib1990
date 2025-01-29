@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo reportedly testing robotaxis in 10 new cities in 2025](https://techcrunch.com/2025/01/29/waymo-reportedly-testing-robotaxis-in-10-new-cities-in-2025/)
+- [Instagram gives creators more insight into their reels’ performance](https://techcrunch.com/2025/01/29/instagram-gives-creators-more-insight-into-their-reels-performance/)
+- [Anthropic’s CEO says DeepSeek shows US export rules are working](https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/)
+- [Report: Majority of U.S. teens have lost trust in Big Tech](https://techcrunch.com/2025/01/29/report-majority-of-u-s-teens-have-lost-trust-in-big-tech/)
 - [Netflix adds a convenient feature for iOS users to download an entire TV season at once](https://techcrunch.com/2025/01/29/netflix-adds-a-convenient-feature-for-ios-users-to-download-an-entire-tv-season-at-once/)
-- [Health insurance startup Alan keeps growing at a rapid pace](https://techcrunch.com/2025/01/29/health-insurance-startup-alan-keeps-growing-at-a-rapid-pace/)
-- [Resolution Games announces Battlemarked, an upcoming VR Dungeons &amp; Dragons game](https://techcrunch.com/2025/01/29/resolution-games-announces-battlemarked-an-upcoming-vr-dungeons-and-dragons-game/)
-- [MGM Resorts settles lawsuits after millions of customer records stolen in data breaches](https://techcrunch.com/2025/01/29/mgm-resorts-settles-lawsuits-after-millions-of-customer-records-stolen-in-data-breaches/)
-- [Ireland and Italy send data watchdog requests to DeepSeek: ‘The data of millions of Italians is at risk’](https://techcrunch.com/2025/01/29/italy-sends-first-data-watchdog-request-to-deepseek-the-data-of-millions-of-italians-is-at-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
