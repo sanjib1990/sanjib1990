@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [UVeye racks up another $191 million for its vision-based ‘MRI for cars’](https://techcrunch.com/2025/01/29/uveye-racks-up-another-191-million-for-its-vision-based-mri-for-cars/)
-- [This Bay Area startup is using AI to help families navigate long-term care planning](https://techcrunch.com/2025/01/29/this-bay-area-startup-is-using-ai-to-help-families-navigate-long-term-care/)
-- [NASA Jet Propulsion Lab opens doors after LA fires, helps firefighter helicopters refuel](https://www.space.com/the-universe/climate-change/nasa-jet-propulsion-lab-opens-doors-after-la-fires-helps-firefighter-helicopters-refuel)
-- [TechCrunch Disrupt 2025: Only 3 days left for 2-for-1 Pass](https://techcrunch.com/2025/01/29/techcrunch-disrupt-2025-only-3-days-left-for-2-for-1-pass/)
-- [January new moon 2025: The young moon visits Venus and Saturn](https://www.space.com/stargazing/january-new-moon-2025-the-young-moon-visits-venus-and-saturn)
+- [Netflix adds a convenient feature for iOS users to download an entire TV season at once](https://techcrunch.com/2025/01/29/netflix-adds-a-convenient-feature-for-ios-users-to-download-an-entire-tv-season-at-once/)
+- [Health insurance startup Alan keeps growing at a rapid pace](https://techcrunch.com/2025/01/29/health-insurance-startup-alan-keeps-growing-at-a-rapid-pace/)
+- [Resolution Games announces Battlemarked, an upcoming VR Dungeons &amp; Dragons game](https://techcrunch.com/2025/01/29/resolution-games-announces-battlemarked-an-upcoming-vr-dungeons-and-dragons-game/)
+- [MGM Resorts settles lawsuits after millions of customer records stolen in data breaches](https://techcrunch.com/2025/01/29/mgm-resorts-settles-lawsuits-after-millions-of-customer-records-stolen-in-data-breaches/)
+- [Ireland and Italy send data watchdog requests to DeepSeek: ‘The data of millions of Italians is at risk’](https://techcrunch.com/2025/01/29/italy-sends-first-data-watchdog-request-to-deepseek-the-data-of-millions-of-italians-is-at-risk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
