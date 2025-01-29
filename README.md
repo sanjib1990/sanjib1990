@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek’s app becomes unavailable on Apple’s and Google’s app stores in Italy](https://techcrunch.com/2025/01/29/deepseeks-app-becomes-unavailable-on-apples-and-googles-app-stores-in-italy/)
-- [Earth-observing company Planet signs $230 million deal for fleet of new Pelican satellites](https://www.space.com/space-exploration/satellites/earth-observing-company-planet-signs-usd230-million-deal-for-fleet-of-new-pelican-satellites)
-- [Warhammer 40,000 animation &#39;Astartes II&#39; looks stunningly brutal in new trailer](https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animation-astartes-ii-looks-stunningly-brutal-in-new-trailer)
-- [Engineering giant Smiths Group says hackers accessed its systems during cyberattack](https://techcrunch.com/2025/01/29/engineering-giant-smiths-group-says-hackers-accessed-its-systems-during-cyberattack/)
-- [Uber-backed mobility fintech Moove acquires Brazil’s Kovi, takes ARR to $275M](https://techcrunch.com/2025/01/29/uber-backed-mobility-fintech-moove-acquires-brazils-kovi-takes-arr-to-275m/)
+- [TechCrunch Disrupt 2025: Only 3 days left for 2-for-1 Pass](https://techcrunch.com/2025/01/29/techcrunch-disrupt-2025-only-3-days-left-for-2-for-1-pass/)
+- [January new moon 2025: The young moon visits Venus and Saturn](https://www.space.com/stargazing/january-new-moon-2025-the-young-moon-visits-venus-and-saturn)
+- [Clutch grabs $20M to build out its non-human security ID platform](https://techcrunch.com/2025/01/29/clutch-grabs-20m-to-build-out-its-non-human-security-id-platform/)
+- [Finout raises $40M Series C for its cloud cost management service](https://techcrunch.com/2025/01/29/finout-raises-40m-series-c-for-its-cloud-cost-management-service/)
+- [On Tesla earnings day, all eyes are Elon, profits, and AI](https://techcrunch.com/2025/01/29/on-tesla-earnings-day-all-eyes-are-elon-profits-and-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
