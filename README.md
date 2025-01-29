@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Formance raises $21M to build the AWS for fintech infrastructure](https://techcrunch.com/2025/01/29/formance-raises-21-million-to-build-the-aws-of-fintech-infrastructure/)
+- [Happy Lunar New Year 2025! Chinese astronauts send Year of the Snake greeting from Tiangong space station &lpar;video&rpar;](https://www.space.com/the-universe/moon/happy-lunar-new-year-2025-chinese-astronauts-send-year-of-the-snake-greeting-from-tiangong-space-station-video)
 - [This fintech has a fix for the biggest cross-border payments issues in Francophone Africa](https://techcrunch.com/2025/01/29/cauridor-has-a-fix-for-cross-border-payments-issues-in-francophone-africa/)
 - [Shared scooter startup Voi reports its first profitable year as it explores an IPO](https://techcrunch.com/2025/01/28/shared-scooter-startup-voi-reports-its-first-profitable-year-as-it-explores-an-ipo/)
 - [DeepSeek reaches No. 1 on US Play Store](https://techcrunch.com/2025/01/28/deepseek-reaches-no-1-on-us-play-store/)
-- [Naboo secures $21M for its concierge-style corporate event booking platform](https://techcrunch.com/2025/01/28/naboo-secures-21-million-for-its-concierge-style-corporate-event-booking-platform/)
-- [SoftBank to invest $500M in robotics startup SkildAI](https://techcrunch.com/2025/01/28/softbank-to-invest-500m-in-robotics-startup-skildai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
