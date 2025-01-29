@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DeepSeek stole our tech... says OpenAI](https://www.youtube.com/watch?v=hpwoGjpYygI)
 - [Lecture 4: PCP via GKR and Interactive Arguments, Part 1](https://www.youtube.com/watch?v=L8PXcZ2ExiU)
 - [Lecture 3: Continuation of the GKR Protocol and Corollaries](https://www.youtube.com/watch?v=gp21TApWetE)
 - [Lecture 7: Soundness of the Fiat-Shamir Paradigm in the Standard Model, Part 1](https://www.youtube.com/watch?v=R2izY69q0m8)
 - [Lecture 5: The Kilian-Micali Protocol, Part 1](https://www.youtube.com/watch?v=OO2qyzBAD14)
-- [Lecture 8: Succinct Non-Interactive Arguments for Batch NP &lpar;BARGs&rpar; from LWE, Part 1](https://www.youtube.com/watch?v=t3C6cpQlSvA)
 <!-- YOUTUBE:END -->
 
 ---
