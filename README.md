@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers are hijacking WordPress sites to push Windows and Mac malware](https://techcrunch.com/2025/01/29/hackers-are-hijacking-wordpress-sites-to-push-windows-and-mac-malware/)
+- [NASA X-ray telescope Chandra discovers black holes &#39;blow&#39; on their food to cool it down](https://www.space.com/chandra-NASA-black-holes-cook-meals)
+- [Watch a SpaceX rocket launch the next-gen SpainSat NG 1 satellite into orbit tonight](https://www.space.com/space-exploration/spacex-rocket-next-gen-spainsat-ng-1-satellite-launch)
 - [Microsoft brings a DeepSeek model to its cloud](https://techcrunch.com/2025/01/29/microsoft-brings-a-deepseek-model-to-its-cloud/)
 - [Joe Lonsdale’s 8VC seeking $1B for new fund](https://techcrunch.com/2025/01/29/joe-lonsdales-8vc-seeking-1b-for-new-fund/)
-- [NASA finds key molecules for life in OSIRIS-REx asteroid samples. Here&#39;s what that means](https://www.space.com/the-universe/asteroids/nasa-finds-key-molecules-for-life-in-osiris-rex-asteroid-samples-heres-what-that-means)
-- [Trump administration&#39;s funding freeze attempt could have stalled $1.2 billion in NASA spending](https://www.space.com/space-exploration/missions/trump-administration-freezes-usd1-2-billion-in-nasa-funding)
-- [DeepSeek might have a trademark problem in the U.S.](https://techcrunch.com/2025/01/29/deepseek-might-have-a-trademark-problem-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
