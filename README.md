@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [DeepSeek is a Game Changer for AI - Computerphile](https://www.youtube.com/watch?v=gY4Z-9QlZ64)
-- [the hacker’s roadmap &lpar;how to get started in IT in 2025&rpar;](https://www.youtube.com/watch?v=5xWnmUEi1Qw)
-- [Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble?](https://www.youtube.com/watch?v=Nl7aCUsWykg)
-- [The Stargate situation is crazy... Elon vs Altman beef intensifies](https://www.youtube.com/watch?v=YrHsw4Oja7w)
-- [Dark web PHP dev Ross Ulbricht released from prison…](https://www.youtube.com/watch?v=gi-wuoIDdjw)
+- [Lecture 4: PCP via GKR and Interactive Arguments, Part 1](https://www.youtube.com/watch?v=L8PXcZ2ExiU)
+- [Lecture 3: Continuation of the GKR Protocol and Corollaries](https://www.youtube.com/watch?v=gp21TApWetE)
+- [Lecture 7: Soundness of the Fiat-Shamir Paradigm in the Standard Model, Part 1](https://www.youtube.com/watch?v=R2izY69q0m8)
+- [Lecture 5: The Kilian-Micali Protocol, Part 1](https://www.youtube.com/watch?v=OO2qyzBAD14)
+- [Lecture 8: Succinct Non-Interactive Arguments for Batch NP &lpar;BARGs&rpar; from LWE, Part 1](https://www.youtube.com/watch?v=t3C6cpQlSvA)
 <!-- YOUTUBE:END -->
 
 ---
