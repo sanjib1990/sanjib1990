@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European embedded banking startup Swan adds another $44 million to its Series B](https://techcrunch.com/2025/01/29/european-embedded-banking-startup-swan-adds-another-44-million-to-its-series-b/)
 - [Watch NASA astronauts Suni Williams and Butch Wilmore perform spacewalk outside the ISS today &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/watch-nasa-astronauts-suni-williams-and-butch-wilmore-perform-spacewalk-outside-the-iss-today-video)
 - [SoftBank in talks to invest as much as $25B in OpenAI, report says](https://techcrunch.com/2025/01/29/softbank-in-talks-to-invest-as-much-as-25b-in-openai-report-says/)
 - [Meta says end of fact-checking hasn’t impacted ad spend](https://techcrunch.com/2025/01/29/meta-says-end-of-fact-checking-hasnt-impacted-ad-spend/)
 - [Zuck shrugs off DeepSeek, vows to spend hundreds of billions on AI](https://techcrunch.com/2025/01/29/zuck-shrugs-off-deepseek-vows-to-spend-hundreds-of-billions-on-ai/)
-- [LinkedIn passes $2B in premium revenue in 12 months, with overall revenue up 9% on the year](https://techcrunch.com/2025/01/29/linkedin-passes-2b-in-premium-revenues-in-12-months-with-overall-revenues-up-9-on-the-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
