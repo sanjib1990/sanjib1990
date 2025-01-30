@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [QED seeds $9.9M in Cedar Money, a stablecoin payment platform](https://techcrunch.com/2025/01/30/qed-seeds-9-9m-in-cedar-money-a-stablecoin-payment-platform/)
-- [Savant Labs is an automation platform for business analysts](https://techcrunch.com/2025/01/30/savant-labs-is-an-automation-platform-for-business-analysts/)
-- [Ai2 says its new AI model beats one of DeepSeek’s best](https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/)
-- [SpaceX and Vast want ideas for science experiments on Dragon spacecraft and Haven-1 space station](https://www.space.com/space-exploration/private-spaceflight/spacex-and-vast-want-ideas-for-science-experiments-on-dragon-spacecraft-and-haven-1-space-station)
-- [I&#39;ve found two great deals on a pair of Lego Star Wars sets featuring the iconic Tantive IV starship that complement each other perfectly](https://www.space.com/entertainment/space-movies-shows/lego-star-wars-tantive-iv-deals-2025)
+- [Little Umbrella’s next Jackbox-style game pits you and your friends against an AI game show host](https://techcrunch.com/2025/01/30/little-umbrellas-next-jackbox-style-game-pits-you-and-your-friends-against-an-ai-game-show-host/)
+- [Microsoft’s Copilot-focused Surface Pro and Laptop PCs ship with Snapdragon and Intel options](https://techcrunch.com/2025/01/30/microsofts-copilot-focused-surface-pro-and-laptop-ship-with-snapdragon-and-intel-options/)
+- [Watch Earth and space in 4K with new 24/7 livestream from ISS &lpar;video&rpar;](https://www.space.com/the-universe/earth/watch-earth-and-space-in-4k-with-new-24-7-livestream-from-iss-video)
+- [Mexican president pushes back against Google’s renaming of Gulf of Mexico](https://techcrunch.com/2025/01/30/mexican-president-pushes-back-against-googles-renaming-of-gulf-of-mexico/)
+- [AI creations edited by humans can likely be copyrighted in US, agency says](https://techcrunch.com/2025/01/30/ai-creations-edited-by-humans-can-likely-be-copyrighted-in-us-agency-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
