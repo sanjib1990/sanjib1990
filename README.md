@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How DeepSeek changed Silicon Valley’s AI landscape](https://techcrunch.com/2025/01/30/how-deepseek-changed-silicon-valleys-ai-landscape/)
-- [ElevenLabs, the hot AI audio startup, confirms $180M in Series C funding at a $3.3B valuation](https://techcrunch.com/2025/01/30/elevenlabs-raises-180-million-in-series-c-funding-at-3-3-billion-valuation/)
-- [Japan&#39;s Resilience moon lander views Earth&#39;s most remote region from orbit &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/japans-resilience-moon-lander-views-earths-most-remote-region-from-orbit-photo)
-- [Threads adds a ‘media’ tab and the ability to tag people in photos](https://techcrunch.com/2025/01/30/threads-adds-a-media-tab-and-the-ability-to-tag-people-in-photos/)
-- [Mark Zuckerberg teases a 2025 return to ‘OG Facebook’](https://techcrunch.com/2025/01/30/mark-zuckerberg-teases-a-2025-return-to-og-facebook/)
+- [Microsoft signs massive carbon credit deal with reforestation startup Chestnut Carbon](https://techcrunch.com/2025/01/30/microsoft-signs-massive-carbon-credit-deal-with-reforestation-startup-chestnut-carbon/)
+- [Astronomers find hundreds of &#39;hidden&#39; black holes — and there may be billions or even trillions more](https://www.space.com/the-universe/black-holes/astronomers-find-hundreds-of-hidden-black-holes-and-there-may-be-billions-or-even-trillions-more)
+- [Waymo employees can hail fully autonomous rides in Atlanta now](https://techcrunch.com/2025/01/30/waymo-employees-can-hail-fully-autonomous-rides-in-atlanta-now/)
+- [Factorial Capital takes a fresh approach to finding startups with a technical edge](https://techcrunch.com/2025/01/30/factorial-capital-takes-a-fresh-approach-to-finding-startups-with-a-technical-edge/)
+- [US Justice Department sues to block HPE’s $14B acquisition of Juniper Networks](https://techcrunch.com/2025/01/30/us-justice-department-sues-to-block-hpes-14b-acquisition-of-juniper-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
