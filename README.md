@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek exposed internal database containing chat histories and sensitive data](https://techcrunch.com/2025/01/30/deepseek-exposed-internal-database-containing-chat-histories-and-sensitive-data/)
-- [Data analytics startup Athenic AI wants to be an enterprise’s central nervous system](https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/)
-- [&#39;SALLY&#39; premieres at Sundance with Sally Ride&#39;s family, astronaut in audience](https://www.space.com/space-exploration/human-spaceflight/sally-premieres-at-sundance-with-sally-rides-family-astronaut-in-audience)
-- [US blood donation giant warns of disruption after ransomware attack](https://techcrunch.com/2025/01/30/us-blood-donation-giant-warns-of-disruption-after-ransomware-attack/)
-- [SuperOps bags $25M to use AI and better help managed service providers](https://techcrunch.com/2025/01/30/superops-bags-25m-to-use-ai-and-better-help-managed-service-providers/)
+- [QED seeds $9.9M in Cedar Money, a stablecoin payment platform](https://techcrunch.com/2025/01/30/qed-seeds-9-9m-in-cedar-money-a-stablecoin-payment-platform/)
+- [Savant Labs is an automation platform for business analysts](https://techcrunch.com/2025/01/30/savant-labs-is-an-automation-platform-for-business-analysts/)
+- [Ai2 says its new AI model beats one of DeepSeek’s best](https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/)
+- [SpaceX and Vast want ideas for science experiments on Dragon spacecraft and Haven-1 space station](https://www.space.com/space-exploration/private-spaceflight/spacex-and-vast-want-ideas-for-science-experiments-on-dragon-spacecraft-and-haven-1-space-station)
+- [I&#39;ve found two great deals on a pair of Lego Star Wars sets featuring the iconic Tantive IV starship that complement each other perfectly](https://www.space.com/entertainment/space-movies-shows/lego-star-wars-tantive-iv-deals-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
