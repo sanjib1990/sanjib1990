@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Little Umbrella’s next Jackbox-style game pits you and your friends against an AI game show host](https://techcrunch.com/2025/01/30/little-umbrellas-next-jackbox-style-game-pits-you-and-your-friends-against-an-ai-game-show-host/)
-- [Microsoft’s Copilot-focused Surface Pro and Laptop PCs ship with Snapdragon and Intel options](https://techcrunch.com/2025/01/30/microsofts-copilot-focused-surface-pro-and-laptop-ship-with-snapdragon-and-intel-options/)
-- [Watch Earth and space in 4K with new 24/7 livestream from ISS &lpar;video&rpar;](https://www.space.com/the-universe/earth/watch-earth-and-space-in-4k-with-new-24-7-livestream-from-iss-video)
-- [Mexican president pushes back against Google’s renaming of Gulf of Mexico](https://techcrunch.com/2025/01/30/mexican-president-pushes-back-against-googles-renaming-of-gulf-of-mexico/)
-- [AI creations edited by humans can likely be copyrighted in US, agency says](https://techcrunch.com/2025/01/30/ai-creations-edited-by-humans-can-likely-be-copyrighted-in-us-agency-says/)
+- [&#39;Citizen Sleeper 2&#39; drops tomorrow, and we can&#39;t wait to roll the dice on this epic space RPG &lpar;trailer&rpar;](https://www.space.com/entertainment/space-games-toys/citizen-sleeper-2-drops-tomorrow-and-we-cant-wait-to-roll-the-dice-on-this-epic-space-rpg-trailer)
+- [Ex-Autodesk execs snag $46M to build the next gen of architecture design](https://techcrunch.com/2025/01/30/ex-autodesk-execs-snag-46m-to-build-the-next-gen-of-architecture-design/)
+- [International police coalition takes down two prolific cybercrime and hacking forums](https://techcrunch.com/2025/01/30/international-police-coalition-takes-down-two-prolific-cybercrime-and-hacking-forums/)
+- [Amazon hikes prices for its Music Unlimited subscriptions](https://techcrunch.com/2025/01/30/amazon-hikes-prices-for-its-music-unlimited-subscriptions/)
+- [OpenAI will offer its tech to US national labs for nuclear weapons research](https://techcrunch.com/2025/01/30/openai-will-offer-its-tech-to-us-national-labs-for-nuclear-weapons-research/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
