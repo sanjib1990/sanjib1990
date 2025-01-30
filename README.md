@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI said to be in talks to raise $40B at a $340B valuation](https://techcrunch.com/2025/01/30/openai-said-to-be-in-talks-to-raise-40b-at-a-340b-valuation/)
-- [Controversial genetics testing startup Nucleus Genomics raises $14M Series A](https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/)
-- [Fintech startup Cushion shuts down after 8 years and over $20 million in funding](https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/)
-- [Serial founder DIVINE launches creator app with hip hop legend RAKIM](https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/)
-- [AngelSense exposed location data and personal information of tracked users](https://techcrunch.com/2025/01/30/angelsense-exposed-location-data-and-personal-information-of-tracked-users/)
+- [Google quietly announces its next flagship AI model](https://techcrunch.com/2025/01/30/google-quietly-announces-its-next-flagship-ai-model/)
+- [Intel won’t bring its Falcon Shores AI chip to market](https://techcrunch.com/2025/01/30/intel-wont-bring-its-falcon-shores-ai-chip-to-market/)
+- [Apple quarterly revenue  increases, even as China sales decline 11%](https://techcrunch.com/2025/01/30/apple-quarterly-revenue-increases-even-as-china-sales-decline-11/)
+- [Elon Musk reveals Elon Musk was wrong about Full Self-Driving](https://techcrunch.com/2025/01/30/elon-musk-reveals-elon-musk-was-wrong-about-full-self-driving/)
+- [Mars was hot then cold then hot again. Could life have really survived there?](https://www.space.com/ancient-mars-hot-cold-climate-hydrogen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
