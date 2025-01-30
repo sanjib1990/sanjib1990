@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA astronauts free stuck radio unit, collect microbes and set record on station spacewalk](https://www.space.com/space-exploration/international-space-station/nasa-astronauts-free-stuck-radio-unit-collect-microbes-and-set-record-on-station-spacewalk)
+- [US Justice Department says cybercrime forum allegedly affected 17 million Americans](https://techcrunch.com/2025/01/30/us-justice-department-says-cybercrime-forum-allegedly-affected-17-million-americans/)
 - [Microsoft signs massive carbon credit deal with reforestation startup Chestnut Carbon](https://techcrunch.com/2025/01/30/microsoft-signs-massive-carbon-credit-deal-with-reforestation-startup-chestnut-carbon/)
 - [Astronomers find hundreds of &#39;hidden&#39; black holes — and there may be billions or even trillions more](https://www.space.com/the-universe/black-holes/astronomers-find-hundreds-of-hidden-black-holes-and-there-may-be-billions-or-even-trillions-more)
 - [Waymo employees can hail fully autonomous rides in Atlanta now](https://techcrunch.com/2025/01/30/waymo-employees-can-hail-fully-autonomous-rides-in-atlanta-now/)
-- [Factorial Capital takes a fresh approach to finding startups with a technical edge](https://techcrunch.com/2025/01/30/factorial-capital-takes-a-fresh-approach-to-finding-startups-with-a-technical-edge/)
-- [US Justice Department sues to block HPE’s $14B acquisition of Juniper Networks](https://techcrunch.com/2025/01/30/us-justice-department-sues-to-block-hpes-14b-acquisition-of-juniper-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
