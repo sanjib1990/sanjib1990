@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [a16z has venture scouts scattered across Europe](https://techcrunch.com/2025/01/30/a16z-has-venture-scouts-scattered-across-europe/)
-- [Google issues ‘voluntary exit’ program for Android, Chrome, and Pixel employees](https://techcrunch.com/2025/01/30/google-issues-voluntary-exit-program-for-android-chrome-and-pixel-employees/)
-- [Boom goes supersonic and Elon promises a self-driving service by summer](https://techcrunch.com/2025/01/30/boom-goes-supersonic-and-elon-promises-a-self-driving-service-by-summer/)
-- [Amazon cuts jobs in Sustainability department](https://techcrunch.com/2025/01/30/amazon-cuts-jobs-in-sustainability-department/)
-- [NASA astronaut Suni Williams sets new record on 5.5-hour spacewalk outside ISS](https://www.space.com/space-exploration/international-space-station/nasa-astronauts-free-stuck-radio-unit-collect-microbes-and-set-record-on-station-spacewalk)
+- [OpenAI said to be in talks to raise $40B at a $340B valuation](https://techcrunch.com/2025/01/30/openai-said-to-be-in-talks-to-raise-40b-at-a-340b-valuation/)
+- [Controversial genetics testing startup Nucleus Genomics raises $14M Series A](https://techcrunch.com/2025/01/30/controversial-genetics-testing-startup-nucleus-genomics-raises-14m-series-a/)
+- [Fintech startup Cushion shuts down after 8 years and over $20 million in funding](https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/)
+- [Serial founder DIVINE launches creator app with hip hop legend RAKIM](https://techcrunch.com/2025/01/30/serial-founder-divine-launches-creator-app-with-hip-hop-legend-rakim/)
+- [AngelSense exposed location data and personal information of tracked users](https://techcrunch.com/2025/01/30/angelsense-exposed-location-data-and-personal-information-of-tracked-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
