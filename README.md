@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SoftBank in talks to invest as much as $25B in OpenAI, report says](https://techcrunch.com/2025/01/29/softbank-in-talks-to-invest-as-much-as-25b-in-openai-report-says/)
 - [Meta says end of fact-checking hasn’t impacted ad spend](https://techcrunch.com/2025/01/29/meta-says-end-of-fact-checking-hasnt-impacted-ad-spend/)
 - [Zuck shrugs off DeepSeek, vows to spend hundreds of billions on AI](https://techcrunch.com/2025/01/29/zuck-shrugs-off-deepseek-vows-to-spend-hundreds-of-billions-on-ai/)
 - [LinkedIn passes $2B in premium revenue in 12 months, with overall revenue up 9% on the year](https://techcrunch.com/2025/01/29/linkedin-passes-2b-in-premium-revenues-in-12-months-with-overall-revenues-up-9-on-the-year/)
 - [Elon Musk claims Tesla will launch a self-driving service in Austin in June](https://techcrunch.com/2025/01/29/elon-musk-claims-tesla-will-launch-a-self-driving-service-in-austin-in-june/)
-- [Threads adds another 20M monthly users since December, reaching 320M](https://techcrunch.com/2025/01/29/threads-adds-another-20m-users-since-december-reaching-320m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
