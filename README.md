@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How did life&#39;s building blocks end up on dwarf planet Ceres?](https://www.space.com/the-universe/dwarf-planets/how-did-lifes-building-blocks-end-up-on-dwarf-planet-ceres)
-- [India lauds Chinese AI lab DeepSeek, plans to host its models on local servers](https://techcrunch.com/2025/01/30/india-to-host-china-deepseek-ai-model-locally-in-rare-tech-approval/)
-- [European embedded banking startup Swan adds another $44 million to its Series B](https://techcrunch.com/2025/01/29/european-embedded-banking-startup-swan-adds-another-44-million-to-its-series-b/)
-- [Watch NASA astronauts Suni Williams and Butch Wilmore perform spacewalk outside the ISS today &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/watch-nasa-astronauts-suni-williams-and-butch-wilmore-perform-spacewalk-outside-the-iss-today-video)
-- [SoftBank in talks to invest as much as $25B in OpenAI, report says](https://techcrunch.com/2025/01/29/softbank-in-talks-to-invest-as-much-as-25b-in-openai-report-says/)
+- [DeepSeek exposed internal database containing chat histories and sensitive data](https://techcrunch.com/2025/01/30/deepseek-exposed-internal-database-containing-chat-histories-and-sensitive-data/)
+- [Data analytics startup Athenic AI wants to be an enterprise’s central nervous system](https://techcrunch.com/2025/01/30/data-analytics-startup-athenic-ai-wants-to-be-an-enterprises-central-nervous-system/)
+- [&#39;SALLY&#39; premieres at Sundance with Sally Ride&#39;s family, astronaut in audience](https://www.space.com/space-exploration/human-spaceflight/sally-premieres-at-sundance-with-sally-rides-family-astronaut-in-audience)
+- [US blood donation giant warns of disruption after ransomware attack](https://techcrunch.com/2025/01/30/us-blood-donation-giant-warns-of-disruption-after-ransomware-attack/)
+- [SuperOps bags $25M to use AI and better help managed service providers](https://techcrunch.com/2025/01/30/superops-bags-25m-to-use-ai-and-better-help-managed-service-providers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
