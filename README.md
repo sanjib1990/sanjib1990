@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&#39;Citizen Sleeper 2&#39; drops tomorrow, and we can&#39;t wait to roll the dice on this epic space RPG &lpar;trailer&rpar;](https://www.space.com/entertainment/space-games-toys/citizen-sleeper-2-drops-tomorrow-and-we-cant-wait-to-roll-the-dice-on-this-epic-space-rpg-trailer)
-- [Ex-Autodesk execs snag $46M to build the next gen of architecture design](https://techcrunch.com/2025/01/30/ex-autodesk-execs-snag-46m-to-build-the-next-gen-of-architecture-design/)
-- [International police coalition takes down two prolific cybercrime and hacking forums](https://techcrunch.com/2025/01/30/international-police-coalition-takes-down-two-prolific-cybercrime-and-hacking-forums/)
-- [Amazon hikes prices for its Music Unlimited subscriptions](https://techcrunch.com/2025/01/30/amazon-hikes-prices-for-its-music-unlimited-subscriptions/)
-- [OpenAI will offer its tech to US national labs for nuclear weapons research](https://techcrunch.com/2025/01/30/openai-will-offer-its-tech-to-us-national-labs-for-nuclear-weapons-research/)
+- [How DeepSeek changed Silicon Valley’s AI landscape](https://techcrunch.com/2025/01/30/how-deepseek-changed-silicon-valleys-ai-landscape/)
+- [ElevenLabs, the hot AI audio startup, confirms $180M in Series C funding at a $3.3B valuation](https://techcrunch.com/2025/01/30/elevenlabs-raises-180-million-in-series-c-funding-at-3-3-billion-valuation/)
+- [Japan&#39;s Resilience moon lander views Earth&#39;s most remote region from orbit &lpar;photo&rpar;](https://www.space.com/space-exploration/launches-spacecraft/japans-resilience-moon-lander-views-earths-most-remote-region-from-orbit-photo)
+- [Threads adds a ‘media’ tab and the ability to tag people in photos](https://techcrunch.com/2025/01/30/threads-adds-a-media-tab-and-the-ability-to-tag-people-in-photos/)
+- [Mark Zuckerberg teases a 2025 return to ‘OG Facebook’](https://techcrunch.com/2025/01/30/mark-zuckerberg-teases-a-2025-return-to-og-facebook/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
