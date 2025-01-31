@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guo’s Conviction Partners adds Mike Vernal as GP, raises $230M fund](https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/)
+- [Anthropic CEO Dario Amodei is trying to duck a deposition in an OpenAI copyright lawsuit](https://techcrunch.com/2025/01/31/anthropic-ceo-dario-amodei-is-trying-to-duck-a-deposition-in-an-openai-copyright-lawsuit/)
+- [CFPB fines fintech Wise, alleging it charged deceptive fees](https://techcrunch.com/2025/01/31/cfpb-fines-fintech-wise-alleging-it-charged-deceptive-fees/)
+- [NASA&#39;s new SPHEREx space telescope to launch in February — it can do what the JWST can&#39;t](https://www.space.com/space-exploration/missions/new-nasa-space-telescope-spherex-to-launch-in-february-it-can-do-what-the-jwst-cant)
 - [Apple will pay $20M to settle Watch battery swelling suit, ‘denies wrongdoing’](https://techcrunch.com/2025/01/31/apple-will-pay-20m-to-settle-watch-battery-swelling-suit-denies-wrongdoing/)
-- [Meta turns to solar — again — in its data center-building boom](https://techcrunch.com/2025/01/31/meta-turns-to-solar-again-in-its-data-center-building-boom/)
-- [Stablecoins are finding product market fit in emerging markets](https://techcrunch.com/2025/01/31/stablecoins-are-finding-product-market-fit-in-emerging-markets/)
-- [This investor wants you to sign an NDA to build Legos together](https://techcrunch.com/2025/01/31/this-investor-wants-you-to-sign-an-nda-to-build-legos-together/)
-- [Sam Altman’s ousting from OpenAI has entered the cultural zeitgeist](https://techcrunch.com/2025/01/31/sam-altmans-ousting-from-openai-has-entered-the-cultural-zeitgeist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
