@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple will pay $20M to settle Watch battery swelling suit, ‘denies wrongdoing’](https://techcrunch.com/2025/01/31/apple-will-pay-20m-to-settle-watch-battery-swelling-suit-denies-wrongdoing/)
+- [Meta turns to solar — again — in its data center-building boom](https://techcrunch.com/2025/01/31/meta-turns-to-solar-again-in-its-data-center-building-boom/)
+- [Stablecoins are finding product market fit in emerging markets](https://techcrunch.com/2025/01/31/stablecoins-are-finding-product-market-fit-in-emerging-markets/)
+- [This investor wants you to sign an NDA to build Legos together](https://techcrunch.com/2025/01/31/this-investor-wants-you-to-sign-an-nda-to-build-legos-together/)
 - [Sam Altman’s ousting from OpenAI has entered the cultural zeitgeist](https://techcrunch.com/2025/01/31/sam-altmans-ousting-from-openai-has-entered-the-cultural-zeitgeist/)
-- [OpenAI launches o3-mini, its latest ‘reasoning’ model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/)
-- [Swiss tax authority forced to buy Bahamas domain name after URL typo](https://techcrunch.com/2025/01/31/swiss-tax-authority-forced-to-buy-bahamas-domain-name-after-url-typo/)
-- [Microsoft is forming a new unit to study AI’s impacts](https://techcrunch.com/2025/01/31/microsoft-is-forming-a-new-unit-to-study-ais-impacts/)
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/01/31/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
