@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MLCommons and Hugging Face team up to release massive speech data set for AI research](https://techcrunch.com/2025/01/31/mlcommons-and-hugging-face-team-up-to-release-massive-speech-data-set-for-ai-research/)
+- [NASA&#39;s Juno spacecraft watches most powerful volcanic event ever seen on Jupiter&#39;s moon Io](https://www.space.com/nasa-juno-spacecraft-jupiter-io-volcanism)
+- [‘Hundreds’ of companies are blocking DeepSeek over China data risks](https://techcrunch.com/2025/01/31/hundreds-of-companies-are-blocking-deepseek-over-china-data-risks/)
+- [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/)
 - [Guo’s Conviction Partners adds Mike Vernal as GP, raises $230M fund](https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/)
-- [Anthropic CEO Dario Amodei is trying to duck a deposition in an OpenAI copyright lawsuit](https://techcrunch.com/2025/01/31/anthropic-ceo-dario-amodei-is-trying-to-duck-a-deposition-in-an-openai-copyright-lawsuit/)
-- [CFPB fines fintech Wise, alleging it charged deceptive fees](https://techcrunch.com/2025/01/31/cfpb-fines-fintech-wise-alleging-it-charged-deceptive-fees/)
-- [NASA&#39;s new SPHEREx space telescope to launch in February — it can do what the JWST can&#39;t](https://www.space.com/space-exploration/missions/new-nasa-space-telescope-spherex-to-launch-in-february-it-can-do-what-the-jwst-cant)
-- [Apple will pay $20M to settle Watch battery swelling suit, ‘denies wrongdoing’](https://techcrunch.com/2025/01/31/apple-will-pay-20m-to-settle-watch-battery-swelling-suit-denies-wrongdoing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
