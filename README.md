@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman’s ousting from OpenAI has entered the cultural zeitgeist](https://techcrunch.com/2025/01/31/sam-altmans-ousting-from-openai-has-entered-the-cultural-zeitgeist/)
+- [OpenAI launches o3-mini, its latest ‘reasoning’ model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/)
+- [Swiss tax authority forced to buy Bahamas domain name after URL typo](https://techcrunch.com/2025/01/31/swiss-tax-authority-forced-to-buy-bahamas-domain-name-after-url-typo/)
+- [Microsoft is forming a new unit to study AI’s impacts](https://techcrunch.com/2025/01/31/microsoft-is-forming-a-new-unit-to-study-ais-impacts/)
 - [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/01/31/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/)
-- [Scientists discover new, 3rd form of magnetism that may be the &#39;missing link&#39; in the quest for superconductivity](https://www.space.com/space-exploration/tech/scientists-discover-new-3rd-form-of-magnetism-that-may-be-the-missing-link-in-the-quest-for-superconductivity)
-- [WeDoSolar pivots to B2B, after stake acquired by Chinese solar giant](https://techcrunch.com/2025/01/31/wedosolar-pivots-to-b2b-after-stake-acquired-by-chinese-solar-giant/)
-- [European &#39;Swarm&#39; satellites detect electric currents from the ocean&#39;s tides](https://www.space.com/the-universe/earth/european-swarm-satellites-detect-electric-currents-from-the-oceans-tides)
 <!-- BLOG-POST-LIST:END -->
 
 ---
