@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Intelligence will support more languages from April](https://techcrunch.com/2025/01/31/apple-intelligence-will-support-more-languages-from-april/)
 - [In another challenging year for startups, higher valuations and revenue give reason for hope](https://techcrunch.com/2025/01/31/in-another-challenging-year-for-startups-higher-valuations-and-revenue-give-reason-for-hope/)
 - [Intel has already received $2.2B in federal grants for chip production](https://techcrunch.com/2025/01/30/intel-has-already-received-2-2b-in-federal-grants-for-chip-production/)
 - [Pentagon scrambles to block DeepSeek after employees connect to Chinese servers](https://techcrunch.com/2025/01/30/pentagon-scrambles-to-block-deepseek-after-employees-connect-to-chinese-servers/)
 - [Apple tops 1 billion subscriptions, nearly $100B in services revenue in 2024](https://techcrunch.com/2025/01/30/apple-tops-1-billion-subscriptions-nearly-100-billion-in-services-revenue-in-2024/)
-- [Apple CEO says DeepSeek shows ‘innovation that drives efficiency’](https://techcrunch.com/2025/01/30/apple-ceo-says-deepseek-shows-innovation-that-drives-efficiency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
