@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel has already received $2.2B in federal grants for chip production](https://techcrunch.com/2025/01/30/intel-has-already-received-2-2b-in-federal-grants-for-chip-production/)
+- [Pentagon scrambles to block DeepSeek after employees connect to Chinese servers](https://techcrunch.com/2025/01/30/pentagon-scrambles-to-block-deepseek-after-employees-connect-to-chinese-servers/)
+- [Apple tops 1 billion subscriptions, nearly $100B in services revenue in 2024](https://techcrunch.com/2025/01/30/apple-tops-1-billion-subscriptions-nearly-100-billion-in-services-revenue-in-2024/)
+- [Apple CEO says DeepSeek shows ‘innovation that drives efficiency’](https://techcrunch.com/2025/01/30/apple-ceo-says-deepseek-shows-innovation-that-drives-efficiency/)
 - [Google quietly announces its next flagship AI model](https://techcrunch.com/2025/01/30/google-quietly-announces-its-next-flagship-ai-model/)
-- [Intel won’t bring its Falcon Shores AI chip to market](https://techcrunch.com/2025/01/30/intel-wont-bring-its-falcon-shores-ai-chip-to-market/)
-- [Apple quarterly revenue  increases, even as China sales decline 11%](https://techcrunch.com/2025/01/30/apple-quarterly-revenue-increases-even-as-china-sales-decline-11/)
-- [Elon Musk reveals Elon Musk was wrong about Full Self-Driving](https://techcrunch.com/2025/01/30/elon-musk-reveals-elon-musk-was-wrong-about-full-self-driving/)
-- [Mars was hot then cold then hot again. Could life have really survived there?](https://www.space.com/ancient-mars-hot-cold-climate-hydrogen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
