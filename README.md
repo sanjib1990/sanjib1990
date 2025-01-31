@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/01/31/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
+- [Custom feed builder Graze is building a business on Bluesky, and investors are paying attention](https://techcrunch.com/2025/01/31/custom-feed-builder-graze-is-building-a-business-on-bluesky-and-investors-are-paying-attention/)
+- [Scientists discover new, 3rd form of magnetism that may be the &#39;missing link&#39; in the quest for superconductivity](https://www.space.com/space-exploration/tech/scientists-discover-new-3rd-form-of-magnetism-that-may-be-the-missing-link-in-the-quest-for-superconductivity)
+- [WeDoSolar pivots to B2B, after stake acquired by Chinese solar giant](https://techcrunch.com/2025/01/31/wedosolar-pivots-to-b2b-after-stake-acquired-by-chinese-solar-giant/)
 - [European &#39;Swarm&#39; satellites detect electric currents from the ocean&#39;s tides](https://www.space.com/the-universe/earth/european-swarm-satellites-detect-electric-currents-from-the-oceans-tides)
-- [AI startup Perplexity sued for alleged trademark infringement](https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/)
-- [A brief history of mass-hacks](https://techcrunch.com/2025/01/31/a-brief-history-of-mass-hacks/)
-- [20 jaw-dropping places on Earth that look like an alien planet](https://www.space.com/the-universe/earth/20-jaw-dropping-places-on-earth-that-look-like-an-alien-planet)
-- [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
