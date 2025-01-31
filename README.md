@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ahsoka season 2: Release date rumours, plot, cast, &amp; everything we know](https://www.space.com/entertainment/space-movies-shows/ahsoka-season-2-release-date-plot-cast-and-everything-we-know)
+- [The TechCrunch Cyber Glossary](https://techcrunch.com/2025/01/31/techcrunch-reference-guide-to-security-terminology/)
 - [How to see Venus snuggle up to a thin crescent moon this weekend](https://www.space.com/stargazing/how-to-see-venus-snuggle-up-to-a-thin-crescent-moon-this-weekend)
-- [US nonprofit healthcare provider says hackers stole medical and personal data of 1M+ patients](https://techcrunch.com/2025/01/31/us-nonprofit-healthcare-provider-says-hackers-stole-medical-and-personal-data-of-1m-patients/)
+- [US nonprofit healthcare provider says hacker stole medical and personal data of 1M+ patients](https://techcrunch.com/2025/01/31/us-nonprofit-healthcare-provider-says-hackers-stole-medical-and-personal-data-of-1m-patients/)
 - [When is an asteroid not an asteroid? When it&#39;s Elon Musk&#39;s Tesla Roadster, it turns out.](https://www.space.com/the-universe/asteroids/when-is-an-asteroid-not-an-asteroid-when-its-elon-musks-tesla-roadster-it-turns-out)
-- [Apple Intelligence will support more languages from April](https://techcrunch.com/2025/01/31/apple-intelligence-will-support-more-languages-from-april/)
-- [In another challenging year for startups, higher valuations and revenue give reason for hope](https://techcrunch.com/2025/01/31/in-another-challenging-year-for-startups-higher-valuations-and-revenue-give-reason-for-hope/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
