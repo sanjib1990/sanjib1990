@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European &#39;Swarm&#39; satellites detect electric currents from the ocean&#39;s tides](https://www.space.com/the-universe/earth/european-swarm-satellites-detect-electric-currents-from-the-oceans-tides)
+- [AI startup Perplexity sued for alleged trademark infringement](https://techcrunch.com/2025/01/31/ai-startup-perplexity-sued-for-alleged-trademark-infringement/)
 - [A brief history of mass-hacks](https://techcrunch.com/2025/01/31/a-brief-history-of-mass-hacks/)
 - [20 jaw-dropping places on Earth that look like an alien planet](https://www.space.com/the-universe/earth/20-jaw-dropping-places-on-earth-that-look-like-an-alien-planet)
 - [Backed by Mayo Clinic, Nutrix’s hardware monitors worker stress](https://techcrunch.com/2025/01/31/backed-by-mayo-clinic-nutrixs-hardware-monitors-worker-stress/)
-- [Tata Technologies says ransomware attack hit IT assets, investigation ongoing](https://techcrunch.com/2025/01/31/tata-technologies-says-ransomware-attack-hit-it-assets-investigation-ongoing/)
-- [WhatsApp says it disrupted a hacking campaign targeting journalists with Paragon spyware](https://techcrunch.com/2025/01/31/whatsapp-says-it-disrupted-a-hacking-campaign-targeting-journalists-with-spyware/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
