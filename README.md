@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral board member and a16z VC Anjney Midha says DeepSeek won’t stop AI’s GPU hunger](https://techcrunch.com/2025/01/31/mistral-board-member-and-a16z-vc-anjney-midha-says-deepseek-wont-stop-ais-gpu-hunger/)
+- [Private Blue Ghost moon lander sees gorgeous lunar eclipse from Earth orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/private-blue-ghost-moon-lander-sees-gorgeous-lunar-eclipse-from-earth-orbit-video)
 - [MLCommons and Hugging Face team up to release massive speech data set for AI research](https://techcrunch.com/2025/01/31/mlcommons-and-hugging-face-team-up-to-release-massive-speech-data-set-for-ai-research/)
 - [NASA&#39;s Juno spacecraft watches most powerful volcanic event ever seen on Jupiter&#39;s moon Io](https://www.space.com/nasa-juno-spacecraft-jupiter-io-volcanism)
 - [‘Hundreds’ of companies are blocking DeepSeek over China data risks](https://techcrunch.com/2025/01/31/hundreds-of-companies-are-blocking-deepseek-over-china-data-risks/)
-- [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/)
-- [Guo’s Conviction Partners adds Mike Vernal as GP, raises $230M fund](https://techcrunch.com/2025/01/31/guos-conviction-partners-adds-mike-vernal-as-gp-raises-230m-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
