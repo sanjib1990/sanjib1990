@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp says it disrupted a hacking campaign targeting journalists with spyware](https://techcrunch.com/2025/01/31/whatsapp-says-it-disrupted-a-hacking-campaign-targeting-journalists-with-spyware/)
+- [TechCrunch Disrupt 2025: Last 24 hours for 2-for-1 Pass](https://techcrunch.com/2025/01/31/techcrunch-disrupt-2025-24-hours-left-for-2-for-1-pass/)
+- [Space mining company AstroForge identifies asteroid target for Odin launch next month](https://www.space.com/space-exploration/tech/space-mining-company-astroforge-identifies-asteroid-target-for-odin-launch-next-month)
 - [Ahsoka season 2: Release date rumours, plot, cast, &amp; everything we know](https://www.space.com/entertainment/space-movies-shows/ahsoka-season-2-release-date-plot-cast-and-everything-we-know)
 - [The TechCrunch Cyber Glossary](https://techcrunch.com/2025/01/31/techcrunch-reference-guide-to-security-terminology/)
-- [How to see Venus snuggle up to a thin crescent moon this weekend](https://www.space.com/stargazing/how-to-see-venus-snuggle-up-to-a-thin-crescent-moon-this-weekend)
-- [US nonprofit healthcare provider says hacker stole medical and personal data of 1M+ patients](https://techcrunch.com/2025/01/31/us-nonprofit-healthcare-provider-says-hackers-stole-medical-and-personal-data-of-1m-patients/)
-- [When is an asteroid not an asteroid? When it&#39;s Elon Musk&#39;s Tesla Roadster, it turns out.](https://www.space.com/the-universe/asteroids/when-is-an-asteroid-not-an-asteroid-when-its-elon-musks-tesla-roadster-it-turns-out)
 <!-- BLOG-POST-LIST:END -->
 
 ---
