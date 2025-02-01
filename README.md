@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X expands lawsuit over advertiser ‘boycott’ to include Lego, Nestlé, Pinterest, and others](https://techcrunch.com/2025/02/01/x-expands-lawsuit-over-advertiser-boycott-to-include-lego-nestle-pinterest-and-others/)
 - [Adobe exec Scott Belsky departs for indie movie studio A24](https://techcrunch.com/2025/02/01/adobe-exec-scott-belsky-departs-for-indie-movie-studio-a24/)
 - [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/02/01/deepseek-gets-silicon-valley-talking-2/)
 - [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/)
 - [&#39;Star Trek: Section 31&#39;&#39;s costume design was literally &#39;Star Trek by Balenciaga&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/star-trek-section-31s-costume-design-was-literally-star-trek-by-balenciaga-interview)
-- [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
