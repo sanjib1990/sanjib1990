@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/)
 - [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/)
 - [Autonomous vehicle testing in California dropped 50%. Here’s why.](https://techcrunch.com/2025/01/31/autonomous-vehicle-testing-in-california-dropped-50-heres-why/)
 - [OpenAI used this subreddit to test AI persuasion](https://techcrunch.com/2025/01/31/openai-used-this-subreddit-to-test-ai-persuasion/)
 - [Sam Altman: OpenAI has been on the ‘wrong side of history’ concerning open source](https://techcrunch.com/2025/01/31/sam-altman-believes-openai-has-been-on-the-wrong-side-of-history-concerning-open-source/)
-- [Mistral board member and a16z VC Anjney Midha says DeepSeek won’t stop AI’s GPU hunger](https://techcrunch.com/2025/01/31/mistral-board-member-and-a16z-vc-anjney-midha-says-deepseek-wont-stop-ais-gpu-hunger/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
