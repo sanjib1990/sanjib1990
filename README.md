@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adobe exec Scott Belsky departs for indie movie studio A24](https://techcrunch.com/2025/02/01/adobe-exec-scott-belsky-departs-for-indie-movie-studio-a24/)
 - [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/02/01/deepseek-gets-silicon-valley-talking-2/)
 - [Here are all the IPOs reported to be in the works for 2025](https://techcrunch.com/2025/02/01/here-are-all-the-ipos-reported-to-be-in-the-works-for-2025/)
 - [&#39;Star Trek: Section 31&#39;&#39;s costume design was literally &#39;Star Trek by Balenciaga&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/star-trek-section-31s-costume-design-was-literally-star-trek-by-balenciaga-interview)
 - [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/)
-- [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
