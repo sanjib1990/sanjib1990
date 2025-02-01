@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Star Trek: Section 31&#39;&#39;s costume design was literally &#39;Star Trek by Balenciaga&#39; &lpar;interview&rpar;](https://www.space.com/entertainment/star-trek-section-31s-costume-design-was-literally-star-trek-by-balenciaga-interview)
+- [Here are the apps battling to be become the ‘TikTok for Bluesky’](https://techcrunch.com/2025/02/01/here-are-the-apps-battling-to-be-become-the-tiktok-for-bluesky/)
+- [Venture debt lenders will play a big role in fire sales and startup shutdown this year, experts say](https://techcrunch.com/2025/02/01/venture-debt-lenders-will-play-a-big-role-in-fire-sales-and-startup-shutdown-this-year-experts-say/)
 - [How to delete X and move on with your life](https://techcrunch.com/2025/02/01/how-to-delete-x-and-move-on-with-your-life/)
-- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/)
-- [This Week In Space podcast: Episode 146 — All the Way With USRA](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-146-all-the-way-with-usra)
-- [Planetary parade February 2025: When, where and how to see it](https://www.space.com/stargazing/planetary-parade-february-2025-when-where-and-how-to-see-it)
-- [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/)
+- [Watch Japan launch navigation satellite on its 1st mission of 2025 on Feb. 2](https://www.space.com/space-exploration/launches-spacecraft/japan-h3-rocket-launch-michibiki-6-navigation-satellite)
 <!-- BLOG-POST-LIST:END -->
 
 ---
