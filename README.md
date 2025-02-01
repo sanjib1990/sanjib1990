@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI agents could birth the first one-person unicorn — but at what societal cost?](https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/)
+- [This Week In Space podcast: Episode 146 — All the Way With USRA](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-146-all-the-way-with-usra)
 - [Planetary parade February 2025: When, where and how to see it](https://www.space.com/stargazing/planetary-parade-february-2025-when-where-and-how-to-see-it)
 - [India pledges fresh billion for startups](https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/)
 - [Elon Musk is reportedly taking control of the inner workings of US government agencies](https://techcrunch.com/2025/01/31/elon-musk-is-reportedly-taking-control-of-the-inner-workings-of-us-government-agencies/)
-- [Autonomous vehicle testing in California dropped 50%. Here’s why.](https://techcrunch.com/2025/01/31/autonomous-vehicle-testing-in-california-dropped-50-heres-why/)
-- [OpenAI used this subreddit to test AI persuasion](https://techcrunch.com/2025/01/31/openai-used-this-subreddit-to-test-ai-persuasion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
