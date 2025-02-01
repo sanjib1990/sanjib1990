@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Grafana is the goat... Let&#39;s deploy the LGTM stack](https://www.youtube.com/watch?v=1X3dV3D5EJg)
 - [the ONLY way to run Deepseek...](https://www.youtube.com/watch?v=7TR-FLWNVHY)
 - [DeepSeek in Deep Trouble! &lpar;Internal database exposed&rpar;](https://www.youtube.com/watch?v=OKrXf7SMdww)
 - [DeepSeek stole our tech... says OpenAI](https://www.youtube.com/watch?v=hpwoGjpYygI)
 - [Lecture 4: PCP via GKR and Interactive Arguments, Part 1](https://www.youtube.com/watch?v=L8PXcZ2ExiU)
-- [Lecture 3: Continuation of the GKR Protocol and Corollaries](https://www.youtube.com/watch?v=gp21TApWetE)
 <!-- YOUTUBE:END -->
 
 ---
