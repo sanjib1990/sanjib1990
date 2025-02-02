@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shein app returns to India via Reliance deal](https://techcrunch.com/2025/02/01/shein-app-returns-to-india-via-reliance-deal/)
 - [Senator warns of national security risks after Elon Musk’s DOGE granted ‘full access’ to sensitive Treasury systems](https://techcrunch.com/2025/02/01/senator-warns-of-national-security-risks-after-elon-musks-doge-granted-full-access-to-sensitive-treasury-systems/)
 - [SpaceX launches 22 Starlink satellites to orbit from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-22-starlink-satellites-to-orbit-from-california)
 - [X expands lawsuit over advertiser ‘boycott’ to include Lego, Nestlé, Pinterest, and others](https://techcrunch.com/2025/02/01/x-expands-lawsuit-over-advertiser-boycott-to-include-lego-nestle-pinterest-and-others/)
 - [Adobe exec Scott Belsky departs for indie movie studio A24](https://techcrunch.com/2025/02/01/adobe-exec-scott-belsky-departs-for-indie-movie-studio-a24/)
-- [DeepSeek gets Silicon Valley talking](https://techcrunch.com/2025/02/01/deepseek-gets-silicon-valley-talking-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
