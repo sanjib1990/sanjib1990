@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple reportedly launching a new event invite feature code-named Confetti](https://techcrunch.com/2025/02/02/apple-reportedly-launching-a-new-event-invite-feature-code-named-confetti/)
+- [A year in isolation: 366-day mock moon mission wraps up in Russia](https://www.space.com/the-universe/moon/a-year-in-isolation-366-day-mock-moon-mission-wraps-up-in-russia)
 - [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/)
 - [Astronaut&#39;s mission &#39;back to Earth&#39; lands on colorful spacesuit patch](https://www.space.com/space-exploration/human-spaceflight/astronauts-mission-back-to-earth-lands-on-colorful-spacesuit-patch)
 - [AI systems with ‘unacceptable risk’ are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
-- [Magnificent communication: Apollo 11 moonwalker Buzz Aldrin tests Verizon satellite service in new ad](https://www.space.com/space-exploration/apollo/magnificent-communication-apollo-11-moonwalker-buzz-aldrin-tests-verizon-satellite-service-in-new-ad)
-- [Giant ice age landforms discovered deep beneath North Sea revealed in amazing detail](https://www.space.com/the-universe/earth/giant-ice-age-landforms-discovered-deep-beneath-north-sea-revealed-in-amazing-detail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
