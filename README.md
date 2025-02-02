@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/)
+- [Astronaut&#39;s mission &#39;back to Earth&#39; lands on colorful spacesuit patch](https://www.space.com/space-exploration/human-spaceflight/astronauts-mission-back-to-earth-lands-on-colorful-spacesuit-patch)
 - [AI systems with ‘unacceptable risk’ are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
+- [Magnificent communication: Apollo 11 moonwalker Buzz Aldrin tests Verizon satellite service in new ad](https://www.space.com/space-exploration/apollo/magnificent-communication-apollo-11-moonwalker-buzz-aldrin-tests-verizon-satellite-service-in-new-ad)
 - [Giant ice age landforms discovered deep beneath North Sea revealed in amazing detail](https://www.space.com/the-universe/earth/giant-ice-age-landforms-discovered-deep-beneath-north-sea-revealed-in-amazing-detail)
-- [How much did SpaceX&#39;s Starship Flight 7 explosion pollute the atmosphere?](https://www.space.com/space-exploration/how-much-did-spacexs-starship-flight-7-explosion-pollute-the-atmosphere)
-- [Shein app relaunches in India with Reliance partnership](https://techcrunch.com/2025/02/01/shein-app-returns-to-india-via-reliance-deal/)
-- [Senator warns of national security risks after Elon Musk’s DOGE granted ‘full access’ to sensitive Treasury systems](https://techcrunch.com/2025/02/01/senator-warns-of-national-security-risks-after-elon-musks-doge-granted-full-access-to-sensitive-treasury-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
