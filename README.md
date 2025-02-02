@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 21 Starlink satellites from Florida on Feb. 3](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-12-3)
 - [Dub: the copy trading app that has teens talking](https://techcrunch.com/2025/02/02/dub-the-copy-trading-app-that-has-teens-talking/)
 - [Apple reportedly launching a new event invite feature code-named Confetti](https://techcrunch.com/2025/02/02/apple-reportedly-launching-a-new-event-invite-feature-code-named-confetti/)
 - [A year in isolation: 366-day mock moon mission wraps up in Russia](https://www.space.com/the-universe/moon/a-year-in-isolation-366-day-mock-moon-mission-wraps-up-in-russia)
 - [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/)
-- [Astronaut&#39;s mission &#39;back to Earth&#39; lands on colorful spacesuit patch](https://www.space.com/space-exploration/human-spaceflight/astronauts-mission-back-to-earth-lands-on-colorful-spacesuit-patch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
