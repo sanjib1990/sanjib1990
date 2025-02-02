@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dub: the copy trading app that has teens talking](https://techcrunch.com/2025/02/02/dub-the-copy-trading-app-that-has-teens-talking/)
 - [Apple reportedly launching a new event invite feature code-named Confetti](https://techcrunch.com/2025/02/02/apple-reportedly-launching-a-new-event-invite-feature-code-named-confetti/)
 - [A year in isolation: 366-day mock moon mission wraps up in Russia](https://www.space.com/the-universe/moon/a-year-in-isolation-366-day-mock-moon-mission-wraps-up-in-russia)
 - [Google’s X spins out Heritable Agriculture, a startup using AI to improve crop yield](https://techcrunch.com/2025/02/02/google-x-spins-out-heritable-agriculture-a-startup-using-ai-to-improve-crop-yield/)
 - [Astronaut&#39;s mission &#39;back to Earth&#39; lands on colorful spacesuit patch](https://www.space.com/space-exploration/human-spaceflight/astronauts-mission-back-to-earth-lands-on-colorful-spacesuit-patch)
-- [AI systems with ‘unacceptable risk’ are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
