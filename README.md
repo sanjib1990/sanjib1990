@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Newly-launched Indian satellite left stranded by propulsion problem](https://www.space.com/space-exploration/launches-spacecraft/newly-launched-indian-satellite-left-stranded-by-propulsion-problem)
 - [DeepSeek: The countries and agencies that have banned the AI company’s tech](https://techcrunch.com/2025/02/03/deepseek-the-countries-and-agencies-that-have-banned-the-ai-companys-tech/)
 - [&#39;Roasting marshmallow&#39; exoplanet is so hot, it rains metal. How did it form?](https://www.space.com/roasting-marshmellow-exoplanet-wasp121b)
 - [Journalist targeted on WhatsApp by Paragon spyware: ‘I feel violated’](https://techcrunch.com/2025/02/03/journalist-targeted-on-whatsapp-by-paragon-spyware-i-feel-violated/)
 - [Is the moon still geologically active? Evidence says it&#39;s possible](https://www.space.com/the-universe/moon/is-the-moon-still-geologically-active-evidence-says-its-possible)
-- [Trump says new US sovereign wealth fund could purchase TikTok](https://techcrunch.com/2025/02/03/trump-says-new-us-sovereign-wealth-fund-could-purchase-tiktok/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
