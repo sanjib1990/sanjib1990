@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A red moon: Will the next &#39;Sputnik Moment&#39; be made in China?](https://www.space.com/the-universe/moon/a-red-moon-will-the-next-sputnik-moment-be-made-in-china)
+- [Watch Rocket Lab launch 5 &#39;Internet of Things&#39; satellites to orbit today](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-5-internet-of-things-satellites-to-orbit-today)
 - [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/)
 - [Falling space debris is a growing worry for aircraft, new research suggests](https://www.space.com/space-exploration/launches-spacecraft/falling-space-debris-is-a-growing-worry-for-aircraft-new-research-suggests)
 - [Samsung chief Jay Y. Lee cleared of all charges in 2015 merger case](https://techcrunch.com/2025/02/03/samsung-chief-jay-y-lee-cleared-of-all-charges-in-2015-merger-case/)
-- [Trump wants the US to land astronauts on Mars soon. Could it happen by 2029?](https://www.space.com/the-universe/mars/trump-wants-the-us-to-land-astronauts-on-mars-soon-could-it-happen-by-2029)
-- [Tana snaps up $25M as its AI-powered knowledge graph for work racks up a 160k+ waitlist](https://techcrunch.com/2025/02/03/tana-snaps-up-25m-with-its-ai-powered-knowledge-graph-for-work-racking-up-a-160k-waitlist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
