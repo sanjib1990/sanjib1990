@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ontario cancels $100 million Starlink contract in protest at U.S. tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-100-million-starlink-contract-in-protest-at-u-s-tariffs/)
+- [Hot Tub, the first native iPhone porn app, arrives in EU](https://techcrunch.com/2025/02/03/hot-tub-the-first-native-iphone-porn-app-arrives-in-eu/)
 - [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/)
 - [Trump administration removes Apollo moon rock from White House Oval Office](https://www.space.com/space-exploration/apollo/trump-administration-removes-moon-rock-from-white-house-oval-office)
 - [The Beatles won a Grammy last night, thanks to AI](https://techcrunch.com/2025/02/03/the-beatles-won-a-grammy-last-night-thanks-to-ai/)
-- [OpenAI’s new trademark application hints at humanoid robots, smart jewelry, and more](https://techcrunch.com/2025/02/03/openais-new-trademark-application-hints-at-humanoid-robots-smart-jewelry-and-more/)
-- [What PowerSchool won’t say about its data breach affecting millions of students](https://techcrunch.com/2025/02/03/what-powerschool-isnt-saying-about-its-massive-student-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
