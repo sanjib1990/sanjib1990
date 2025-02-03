@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hero’s all-in-one, AI productivity app takes on Google’s Calendar and others](https://techcrunch.com/2025/02/03/heros-all-in-one-ai-productivity-app-takes-on-googles-calendar-and-others/)
 - [A red moon: Will the next &#39;Sputnik Moment&#39; be made in China?](https://www.space.com/the-universe/moon/a-red-moon-will-the-next-sputnik-moment-be-made-in-china)
-- [Watch Rocket Lab launch 5 &#39;Internet of Things&#39; satellites to orbit today](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-5-internet-of-things-satellites-to-orbit-today)
+- [Rocket Lab delays launch due to space collision concern](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-5-internet-of-things-satellites-iot-4-you-and-me)
 - [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/)
 - [Falling space debris is a growing worry for aircraft, new research suggests](https://www.space.com/space-exploration/launches-spacecraft/falling-space-debris-is-a-growing-worry-for-aircraft-new-research-suggests)
-- [Samsung chief Jay Y. Lee cleared of all charges in 2015 merger case](https://techcrunch.com/2025/02/03/samsung-chief-jay-y-lee-cleared-of-all-charges-in-2015-merger-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
