@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek founder Liang Wenfeng receives a hero’s welcome back home](https://techcrunch.com/2025/02/02/deepseek-founder-liang-wenfeng-receives-a-heros-welcome-back-home/)
 - [India expands Aadhaar authentication for businesses, raising privacy concerns](https://techcrunch.com/2025/02/02/india-expands-aadhaar-authentication-for-businesses-raising-privacy-concerns/)
 - [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/)
 - [SpaceX launching 21 Starlink satellites from Florida on Feb. 3](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-12-3)
 - [Dub: the copy trading app that has teens talking](https://techcrunch.com/2025/02/02/dub-the-copy-trading-app-that-has-teens-talking/)
-- [Apple reportedly launching a new event invite feature code-named Confetti](https://techcrunch.com/2025/02/02/apple-reportedly-launching-a-new-event-invite-feature-code-named-confetti/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
