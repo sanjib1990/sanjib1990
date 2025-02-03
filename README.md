@@ -95,7 +95,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Trump wants the US to land astronauts on Mars soon. Could it happen by 2029?](https://www.space.com/the-universe/mars/trump-wants-the-us-to-land-astronauts-on-mars-soon-could-it-happen-by-2029)
-- [Tana snaps up $25M, with its AI-powered knowledge graph for work racking up a 160k+ waitlist](https://techcrunch.com/2025/02/03/tana-snaps-up-25m-with-its-ai-powered-knowledge-graph-for-work-racking-up-a-160k-waitlist/)
+- [Tana snaps up $25M as its AI-powered knowledge graph for work racks up a 160k+ waitlist](https://techcrunch.com/2025/02/03/tana-snaps-up-25m-with-its-ai-powered-knowledge-graph-for-work-racking-up-a-160k-waitlist/)
 - [DeepSeek founder Liang Wenfeng receives a hero’s welcome back home](https://techcrunch.com/2025/02/02/deepseek-founder-liang-wenfeng-receives-a-heros-welcome-back-home/)
 - [India expands Aadhaar authentication for businesses, raising privacy concerns](https://techcrunch.com/2025/02/02/india-expands-aadhaar-authentication-for-businesses-raising-privacy-concerns/)
 - [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/)
