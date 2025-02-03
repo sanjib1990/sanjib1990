@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin to launch New Shepard moon-gravity mission on Feb. 4 after glitch](https://www.space.com/space-exploration/human-spaceflight/blue-origin-targeting-february-4-new-shepard-moon-gravity-mission)
+- [No, DeepSeek isn’t uncensored if you run it locally](https://techcrunch.com/2025/02/03/no-deepseek-isnt-uncensored-if-you-run-it-locally/)
+- [Meta says it may stop development of AI systems it deems too risky](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/)
 - [Newly-launched Indian satellite left stranded by propulsion problem](https://www.space.com/space-exploration/launches-spacecraft/newly-launched-indian-satellite-left-stranded-by-propulsion-problem)
 - [DeepSeek: The countries and agencies that have banned the AI company’s tech](https://techcrunch.com/2025/02/03/deepseek-the-countries-and-agencies-that-have-banned-the-ai-companys-tech/)
-- [&#39;Roasting marshmallow&#39; exoplanet is so hot, it rains metal. How did it form?](https://www.space.com/roasting-marshmellow-exoplanet-wasp121b)
-- [Journalist targeted on WhatsApp by Paragon spyware: ‘I feel violated’](https://techcrunch.com/2025/02/03/journalist-targeted-on-whatsapp-by-paragon-spyware-i-feel-violated/)
-- [Is the moon still geologically active? Evidence says it&#39;s possible](https://www.space.com/the-universe/moon/is-the-moon-still-geologically-active-evidence-says-its-possible)
 <!-- BLOG-POST-LIST:END -->
 
 ---
