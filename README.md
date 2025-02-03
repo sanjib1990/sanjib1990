@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hero’s all-in-one, AI productivity app takes on Google’s Calendar and others](https://techcrunch.com/2025/02/03/heros-all-in-one-ai-productivity-app-takes-on-googles-calendar-and-others/)
-- [A red moon: Will the next &#39;Sputnik Moment&#39; be made in China?](https://www.space.com/the-universe/moon/a-red-moon-will-the-next-sputnik-moment-be-made-in-china)
-- [Rocket Lab delays launch due to space collision concern](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-5-internet-of-things-satellites-iot-4-you-and-me)
-- [Riot raises $30 million for its cybersecurity product suite focused on employees](https://techcrunch.com/2025/02/03/riot-raises-30-million-for-its-cybersecurity-product-suite-focused-on-employees/)
-- [Falling space debris is a growing worry for aircraft, new research suggests](https://www.space.com/space-exploration/launches-spacecraft/falling-space-debris-is-a-growing-worry-for-aircraft-new-research-suggests)
+- [TechCrunch Disrupt 2025: Secure your ticket at this year’s lowest rates](https://techcrunch.com/2025/02/03/techcrunch-disrupt-2025-secure-your-ticket-at-this-years-lowest-rates/)
+- [Trump administration removes Apollo moon rock from White House Oval Office](https://www.space.com/space-exploration/apollo/trump-administration-removes-moon-rock-from-white-house-oval-office)
+- [The Beatles won a Grammy last night, thanks to AI](https://techcrunch.com/2025/02/03/the-beatles-won-a-grammy-last-night-thanks-to-ai/)
+- [OpenAI’s new trademark application hints at humanoid robots, smart jewelry, and more](https://techcrunch.com/2025/02/03/openais-new-trademark-application-hints-at-humanoid-robots-smart-jewelry-and-more/)
+- [What PowerSchool won’t say about its data breach affecting millions of students](https://techcrunch.com/2025/02/03/what-powerschool-isnt-saying-about-its-massive-student-data-breach/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
