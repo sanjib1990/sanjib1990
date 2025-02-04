@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Walkstar is a new iOS app that pauses songs when you stop moving](https://techcrunch.com/2025/02/04/walkstar-is-a-new-ios-app-that-pauses-songs-when-you-stop-moving/)
-- [The moon will cover the Seven Sisters of the Pleiades this week. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-will-cover-the-seven-sisters-of-the-pleiades-this-week-heres-how-to-see-it)
-- [&#39;The Fantastic Four: First Steps&#39; takes off with 1st awe-inspiring trailer](https://www.space.com/entertainment/space-movies-shows/the-fantastic-four-first-steps-takes-off-with-first-awe-inspiring-trailer)
-- [Canada’s StackAdapt snaps up $235M for its AI-based programmatic platform](https://techcrunch.com/2025/02/04/canadas-stackadapt-snaps-up-235m-for-its-ai-based-programmatic-platform/)
-- [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/)
+- [OpenAI’s Operator agent helped me move, but I had to help it, too](https://techcrunch.com/2025/02/04/openais-operator-agent-helped-me-move-but-i-had-to-help-it-too/)
+- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/)
+- [Team behind Twitterrific launches a multi-feed app called Tapestry](https://techcrunch.com/2025/02/04/team-behind-twitterrific-launches-a-multi-feed-app-called-tapestry/)
+- [Scientists discover black holes spinning unexpectedly fast: &#39;You’re essentially looking at its fossil record&#39;](https://www.space.com/Spinning-black-holes-reveal-details-dinner)
+- [Snap unveils AI text-to-image model for mobile devices](https://techcrunch.com/2025/02/04/snap-unveils-ai-text-to-image-model-for-mobile-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
