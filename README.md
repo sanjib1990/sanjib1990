@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/)
+- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/)
+- [Bullet-fast moon rocks carved 2 lunar gorges deeper than the Grand Canyon](https://www.space.com/the-universe/moon/bullet-fast-moon-rocks-carved-2-lunar-gorges-deeper-than-the-grand-canyon)
+- [Spotify reports its first full year of profitability, adds 35M monthly active users](https://techcrunch.com/2025/02/04/spotify-reports-its-full-year-of-profitability-adds-35m-monthly-active-users/)
 - [OpenAI’s Operator agent helped me move, but I had to help it, too](https://techcrunch.com/2025/02/04/openais-operator-agent-helped-me-move-but-i-had-to-help-it-too/)
-- [Sotira lands $2M to help brands offload and monetize their surplus inventory](https://techcrunch.com/2025/02/04/sotira-lands-2m-to-help-brands-offload-and-monetize-their-surplus-inventory/)
-- [Team behind Twitterrific launches a multi-feed app called Tapestry](https://techcrunch.com/2025/02/04/team-behind-twitterrific-launches-a-multi-feed-app-called-tapestry/)
-- [Scientists discover black holes spinning unexpectedly fast: &#39;You’re essentially looking at its fossil record&#39;](https://www.space.com/Spinning-black-holes-reveal-details-dinner)
-- [Snap unveils AI text-to-image model for mobile devices](https://techcrunch.com/2025/02/04/snap-unveils-ai-text-to-image-model-for-mobile-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
