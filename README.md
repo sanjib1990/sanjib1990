@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Opera launches a mindfulness-focused browser with break reminders and soundscapes](https://techcrunch.com/2025/02/04/opera-launches-a-mindfulness-browser-with-break-reminders-and-soundscapes/)
 - [AI agents for e-commerce startup, founded by Google and DeepMind alums, raises $10M seed](https://techcrunch.com/2025/02/04/google-and-deepmind-alums-raises-10m-for-qee/)
 - [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/)
 - [China hits back at Trump tariffs with Google antitrust investigation](https://techcrunch.com/2025/02/03/china-hits-back-at-trump-tariffs-with-google-antitrust-investigation/)
 - [New record coming? 5 rockets scheduled to launch in next 24 hours](https://www.space.com/space-exploration/launches-spacecraft/new-record-coming-5-rockets-scheduled-to-launch-in-next-24-hours)
-- [Accel backs Indian AI startup building ‘ChatGPT for presentations’](https://techcrunch.com/2025/02/03/accel-backs-indian-ai-startup-building-chatgpt-for-presentations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
