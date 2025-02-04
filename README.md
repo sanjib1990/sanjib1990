@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Accel backs Indian AI startup building ‘ChatGPT for presentations’](https://techcrunch.com/2025/02/03/accel-backs-indian-ai-startup-building-chatgpt-for-presentations/)
 - [Adam Candeub, a vocal critic of Big Tech, will reportedly join the FCC](https://techcrunch.com/2025/02/03/adam-candeub-a-vocal-critic-of-big-tech-will-reportedly-join-the-fcc/)
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/)
 - [Stripe brings aboard new head of ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/)
 - [Naver-backed Cinamon wants to make 3D video animation easier using AI](https://techcrunch.com/2025/02/03/naver-backed-cinamon-raises-funding-to-launch-video-generator/)
-- [Blue Origin to launch New Shepard moon-gravity mission on Feb. 4 after glitch](https://www.space.com/space-exploration/human-spaceflight/blue-origin-targeting-february-4-new-shepard-moon-gravity-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
