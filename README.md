@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China hits back at Trump tariffs with Google antitrust investigation](https://techcrunch.com/2025/02/03/china-hits-back-at-trump-tariffs-with-google-antitrust-investigation/)
 - [New record coming? 5 rockets scheduled to launch in next 24 hours](https://www.space.com/space-exploration/launches-spacecraft/new-record-coming-5-rockets-scheduled-to-launch-in-next-24-hours)
 - [Accel backs Indian AI startup building ‘ChatGPT for presentations’](https://techcrunch.com/2025/02/03/accel-backs-indian-ai-startup-building-chatgpt-for-presentations/)
 - [Adam Candeub, a vocal critic of Big Tech, will reportedly join the FCC](https://techcrunch.com/2025/02/03/adam-candeub-a-vocal-critic-of-big-tech-will-reportedly-join-the-fcc/)
 - [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/)
-- [Stripe brings aboard new head of ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
