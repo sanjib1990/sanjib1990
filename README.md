@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon continues renewable energy spree with 476 MW purchase](https://techcrunch.com/2025/02/04/amazon-continues-renewable-energy-spree-with-476-mw-purchase/)
-- [A review of Tapestry, an app powered by the growing open web](https://techcrunch.com/2025/02/04/a-review-of-tapestry-an-app-powered-by-the-growing-open-web/)
-- [SpaceX launching 2 Maxar Earth-observing satellites to orbit today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-maxar-worldview-legion-5-6-satellites)
-- [E-fuels startup will make diamonds before powering jet planes](https://techcrunch.com/2025/02/04/e-fuels-startup-will-make-diamonds-before-powering-jet-planes/)
-- [TED Talks has put out an all-call for a new leader](https://techcrunch.com/2025/02/04/ted-talks-has-put-out-an-all-call-for-a-new-leader/)
+- [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
+- [SpaceX to launch water-hunting moon probe &#39;Lunar Trailblazer&#39; on Feb. 26](https://www.space.com/space-exploration/satellites/spacex-to-launch-water-hunting-moon-probe-lunar-trailblazer-on-feb-26)
+- [Spyware maker Paragon confirms U.S. government is a customer](https://techcrunch.com/2025/02/04/spyware-maker-paragon-confirms-u-s-government-is-a-customer/)
+- [Okta competitor SailPoint races toward $11.5B IPO](https://techcrunch.com/2025/02/04/okta-competitor-sailpoint-races-toward-11-5b-ipo/)
+- [Figure drops OpenAI in favor of in-house models](https://techcrunch.com/2025/02/04/figure-drops-openai-in-favor-of-in-house-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
