@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adam Candeub, a vocal critic of Big Tech, will reportedly join the FCC](https://techcrunch.com/2025/02/03/adam-candeub-a-vocal-critic-of-big-tech-will-reportedly-join-the-fcc/)
+- [Ontario cancels, then restores, $68 million Starlink contract after protesting US tariffs](https://techcrunch.com/2025/02/03/ontario-cancels-then-restores-68-million-starlink-contract-after-protesting-u-s-tariffs/)
 - [Stripe brings aboard new head of ‘startup and VC partnerships’](https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/)
 - [Naver-backed Cinamon wants to make 3D video animation easier using AI](https://techcrunch.com/2025/02/03/naver-backed-cinamon-raises-funding-to-launch-video-generator/)
 - [Blue Origin to launch New Shepard moon-gravity mission on Feb. 4 after glitch](https://www.space.com/space-exploration/human-spaceflight/blue-origin-targeting-february-4-new-shepard-moon-gravity-mission)
-- [No, DeepSeek isn’t uncensored if you run it locally](https://techcrunch.com/2025/02/03/no-deepseek-isnt-uncensored-if-you-run-it-locally/)
-- [Meta says it may stop development of AI systems it deems too risky](https://techcrunch.com/2025/02/03/meta-says-it-may-stop-development-of-ai-systems-it-deems-too-risky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
