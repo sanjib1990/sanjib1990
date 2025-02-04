@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canada’s StackAdapt snaps up $235M for its AI-based programmatic platform](https://techcrunch.com/2025/02/04/canadas-stackadapt-snaps-up-235m-for-its-ai-based-programmatic-platform/)
+- [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/)
 - [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/)
 - [Grubhub confirms data breach affecting customers and drivers](https://techcrunch.com/2025/02/04/grubhub-confirms-data-breach-affecting-customers-and-drivers/)
 - [OpenAI partners with Korea’s Kakao after inking SoftBank Japanese JV](https://techcrunch.com/2025/02/04/openai-doubles-down-on-asia-partners-with-kakao-after-its-big-deal-with-softbank/)
-- [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/)
-- [SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim](https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
