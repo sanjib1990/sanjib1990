@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launching 2 Maxar Earth-observing satellites to orbit today](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-maxar-worldview-legion-5-6-satellites)
+- [E-fuels startup will make diamonds before powering jet planes](https://techcrunch.com/2025/02/04/e-fuels-startup-will-make-diamonds-before-powering-jet-planes/)
+- [TED Talks has put out an all-call for a new leader](https://techcrunch.com/2025/02/04/ted-talks-has-put-out-an-all-call-for-a-new-leader/)
+- [Challenging Bluesky, Threads now allows for public custom feeds](https://techcrunch.com/2025/02/04/challenging-bluesky-threads-now-allows-for-public-custom-feeds/)
 - [This Week in AI: Billionaires talk automating jobs away](https://techcrunch.com/2025/02/04/this-week-in-ai-billionaires-talk-automating-jobs-away/)
-- [An angel investor was so intrigued by this startup, he joined as a co-founder](https://techcrunch.com/2025/02/04/an-angel-investor-was-so-intrigued-by-this-startup-he-joined-as-a-co-founder/)
-- [Sci-fi thriller &#39;Ash&#39; gets terrifying 1st trailer that&#39;s dripping with Lovecraftian cosmic horror vibes](https://www.space.com/entertainment/sci-fi-thriller-ash-gets-terrifying-1st-trailer-thats-dripping-with-lovecraftian-cosmic-horror-vibes)
-- [Okta lays off 180 employees – nearly one year after last workforce reduction](https://techcrunch.com/2025/02/04/okta-lays-off-180-employees-nearly-one-year-after-last-workforce-reduction/)
-- [China may probe Intel for antitrust: report](https://techcrunch.com/2025/02/04/china-may-probe-intel-for-antitrust-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
