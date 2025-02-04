@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD pulls up the release of its next-gen data center GPUs](https://techcrunch.com/2025/02/04/amd-pulls-up-the-release-of-its-next-gen-data-center-gpus/)
+- [Hubble Space Telescope spots a spectacular Bullseye in deep space &lpar;image&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-space-telescope-spots-a-spectacular-bullseye-in-deep-space-image)
+- [Miist, founded by a 25-year-old, wants people to vape their way out of smoking addiction and migraines](https://techcrunch.com/2025/02/04/miist-founded-by-a-25-year-old-wants-people-to-vape-their-way-out-of-smoking-addiction-and-migraines/)
 - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
 - [SpaceX to launch water-hunting moon probe &#39;Lunar Trailblazer&#39; on Feb. 26](https://www.space.com/space-exploration/satellites/spacex-to-launch-water-hunting-moon-probe-lunar-trailblazer-on-feb-26)
-- [Spyware maker Paragon confirms US government is a customer](https://techcrunch.com/2025/02/04/spyware-maker-paragon-confirms-u-s-government-is-a-customer/)
-- [Okta competitor SailPoint races toward $11.5B IPO](https://techcrunch.com/2025/02/04/okta-competitor-sailpoint-races-toward-11-5b-ipo/)
-- [Figure drops OpenAI in favor of in-house models](https://techcrunch.com/2025/02/04/figure-drops-openai-in-favor-of-in-house-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
