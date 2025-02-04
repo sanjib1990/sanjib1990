@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walkstar is a new iOS app that pauses songs when you stop moving](https://techcrunch.com/2025/02/04/walkstar-is-a-new-ios-app-that-pauses-songs-when-you-stop-moving/)
+- [The moon will cover the Seven Sisters of the Pleiades this week. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-will-cover-the-seven-sisters-of-the-pleiades-this-week-heres-how-to-see-it)
+- [&#39;The Fantastic Four: First Steps&#39; takes off with 1st awe-inspiring trailer](https://www.space.com/entertainment/space-movies-shows/the-fantastic-four-first-steps-takes-off-with-first-awe-inspiring-trailer)
 - [Canada’s StackAdapt snaps up $235M for its AI-based programmatic platform](https://techcrunch.com/2025/02/04/canadas-stackadapt-snaps-up-235m-for-its-ai-based-programmatic-platform/)
 - [Archive raises $30M to solve fashion’s pollution problem with online resales](https://techcrunch.com/2025/02/04/archive-raises-30m-to-solve-fashions-pollution-problem-with-online-resales/)
-- [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/)
-- [Grubhub confirms data breach affecting customers and drivers](https://techcrunch.com/2025/02/04/grubhub-confirms-data-breach-affecting-customers-and-drivers/)
-- [OpenAI partners with Korea’s Kakao after inking SoftBank Japanese JV](https://techcrunch.com/2025/02/04/openai-doubles-down-on-asia-partners-with-kakao-after-its-big-deal-with-softbank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
