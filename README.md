@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grubhub confirms data breach affecting customers and drivers](https://techcrunch.com/2025/02/04/grubhub-confirms-data-breach-affecting-customers-and-drivers/)
+- [OpenAI doubles down on Asia, partners with Kakao after its big deal with SoftBank](https://techcrunch.com/2025/02/04/openai-doubles-down-on-asia-partners-with-kakao-after-its-big-deal-with-softbank/)
 - [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/)
 - [SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim](https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/)
 - [Opera launches a mindfulness-focused browser with break reminders and soundscapes](https://techcrunch.com/2025/02/04/opera-launches-a-mindfulness-browser-with-break-reminders-and-soundscapes/)
-- [AI agents for e-commerce startup, founded by Google and DeepMind alums, raises $10M seed](https://techcrunch.com/2025/02/04/google-and-deepmind-alums-raises-10m-for-qee/)
-- [Neuralk-AI is developing AI models specifically designed for structured data](https://techcrunch.com/2025/02/03/neuralk-ai-is-developing-ai-models-specifically-designed-for-structured-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
