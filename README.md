@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LogicStar is building AI agents for app maintenance](https://techcrunch.com/2025/02/04/logicstar-is-building-ai-agents-for-app-maintenance/)
-- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/)
-- [Bullet-fast moon rocks carved 2 lunar gorges deeper than the Grand Canyon](https://www.space.com/the-universe/moon/bullet-fast-moon-rocks-carved-2-lunar-gorges-deeper-than-the-grand-canyon)
-- [Spotify reports its first full year of profitability, adds 35M monthly active users](https://techcrunch.com/2025/02/04/spotify-reports-its-full-year-of-profitability-adds-35m-monthly-active-users/)
-- [OpenAI’s Operator agent helped me move, but I had to help it, too](https://techcrunch.com/2025/02/04/openais-operator-agent-helped-me-move-but-i-had-to-help-it-too/)
+- [DSTLRY, the comic books marketplace, launches new customization features for artists](https://techcrunch.com/2025/02/04/dstlry-launches-the-cameo-of-comics-with-creator-sketches/)
+- [How Max Altschuler accidentally founded a VC firm that just raised another $54M](https://techcrunch.com/2025/02/04/how-max-altschuler-accidentally-founded-a-vc-firm-that-just-raised-another-54m/)
+- [VIPER back from the dead? NASA asks US companies to partner on ice-hunting moon rover](https://www.space.com/space-exploration/moon-rovers/viper-back-from-the-dead-nasa-asks-us-companies-to-partner-on-ice-hunting-moon-rover)
+- [Blue Origin mimics moon gravity on 1st-of-its-kind New Shepard research rocket launch &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/blue-origin-mimics-moon-gravity-on-1st-of-its-kind-new-shepard-suborbital-research-flight-video)
+- [Apple launches Invites, a new app for creating custom invitations](https://techcrunch.com/2025/02/04/apple-launches-invites-a-new-app-for-creating-custom-invitations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
