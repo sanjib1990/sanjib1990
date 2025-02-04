@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Egypt’s Khazna banks $16M for its financial super app and expansion into Saudi](https://techcrunch.com/2025/02/04/egypts-khazna-banks-16m-for-its-financial-super-app-and-expansion-into-saudi/)
 - [Grubhub confirms data breach affecting customers and drivers](https://techcrunch.com/2025/02/04/grubhub-confirms-data-breach-affecting-customers-and-drivers/)
-- [OpenAI doubles down on Asia, partners with Kakao after its big deal with SoftBank](https://techcrunch.com/2025/02/04/openai-doubles-down-on-asia-partners-with-kakao-after-its-big-deal-with-softbank/)
+- [OpenAI partners with Korea’s Kakao after inking SoftBank Japanese JV](https://techcrunch.com/2025/02/04/openai-doubles-down-on-asia-partners-with-kakao-after-its-big-deal-with-softbank/)
 - [Waabi and Volvo team up to build self-driving trucks at scale](https://techcrunch.com/2025/02/04/waabi-and-volvo-team-up-to-build-self-driving-trucks-at-scale/)
 - [SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim](https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/)
-- [Opera launches a mindfulness-focused browser with break reminders and soundscapes](https://techcrunch.com/2025/02/04/opera-launches-a-mindfulness-browser-with-break-reminders-and-soundscapes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
