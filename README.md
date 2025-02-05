@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Synthesis is making compostable materials that last a lifetime](https://techcrunch.com/2025/02/05/modern-synthesis-is-making-compostable-materials-that-last-a-lifetime/)
 - [Former Whoop exec’s new app Alma uses AI for all things nutrition](https://techcrunch.com/2025/02/05/former-whoop-execs-new-app-alma-uses-ai-for-all-things-nutrition/)
 - [Waymo just popped up on the Uber app in Austin ahead of robotaxi launch](https://techcrunch.com/2025/02/05/waymo-just-popped-up-on-the-uber-app-in-austin-ahead-of-robotaxi-launch/)
 - [Astronauts on the ISS experience vision changes — should Mars travelers be worried?](https://www.space.com/space-exploration/human-spaceflight/astronauts-on-the-iss-experience-vision-changes-should-mars-travelers-be-worried)
 - [Router maker Zyxel tells customers to replace vulnerable hardware exploited by hackers](https://techcrunch.com/2025/02/05/router-maker-zyxel-tells-customers-to-replace-vulnerable-hardware-exploited-by-hackers/)
-- [European AI startups raised $8 billion in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
