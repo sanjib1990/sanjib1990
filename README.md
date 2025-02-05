@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;This idea that it takes like 250 years for Pluto to orbit the sun, I think that&#39;s just bizarre.&#39; Star Trek scion Adam Nimoy talks our favorite &lpar;dwarf&rpar; planet for &#39;I Heart Pluto&#39; festival](https://www.space.com/entertainment/i-heart-pluto-festival-6th-annual-adam-nimoy)
+- [Scout Motors sued over plan to sell EVs direct to consumers](https://techcrunch.com/2025/02/05/scout-motors-sued-over-plan-to-sell-evs-direct-to-consumers/)
+- [Bench burned through $135 million before shutting down](https://techcrunch.com/2025/02/05/bench-burned-through-135-million-before-shutting-down/)
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/05/tech-layoffs-2024-list/)
 - [XOi raises $230M, acquires Specifx to expand its tech for field service technicians](https://techcrunch.com/2025/02/05/xoi-raises-230m-acquires-specifx-to-expand-its-tech-for-field-service-technicians/)
-- [Google ditches DEI hiring goals](https://techcrunch.com/2025/02/05/google-ditches-dei-hiring-goals/)
-- [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/05/the-biggest-breach-of-u-s-government-data-is-under-way/)
-- [Amazon reportedly gears up to release next-gen Alexa](https://techcrunch.com/2025/02/05/amazon-reportedly-gears-up-to-release-next-gen-alexa/)
-- [Paragon spyware used to target citizens across Europe, says Italian government](https://techcrunch.com/2025/02/05/paragon-spyware-used-to-target-citizens-across-europe-says-italian-government/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
