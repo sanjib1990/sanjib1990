@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s launching a satellite constellation this month to study the solar wind in 3D](https://www.space.com/the-universe/sun/nasas-launching-a-satellite-constellation-this-month-to-study-the-solar-wind-in-3d)
+- [Save $300 on the VIVE XR Elite, one of the best VR headsets on the market](https://www.space.com/entertainment/save-usd300-on-the-vive-xr-elite-one-of-the-best-vr-headsets-on-the-market)
 - [AI’s biggest stage awaits – TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/)
 - [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/)
 - [Google launches new AI models and brings ‘thinking’ to Gemini](https://techcrunch.com/2025/02/05/google-launches-new-ai-models-and-brings-thinking-to-gemini/)
-- [Comet G3 &lpar;ATLAS&rpar; looks breathtaking above future home of world&#39;s largest telescope &lpar;photos&rpar;](https://www.space.com/the-universe/comets/comet-g3-atlas-looks-breathtaking-above-future-home-of-worlds-largest-telescope-photos)
-- [Musk moves to dismiss suit over Tesla’s alleged use of AI-generated ‘Blade Runner’ imagery](https://techcrunch.com/2025/02/05/musk-moves-to-dismiss-suit-over-teslas-alleged-use-of-ai-generated-blade-runner-imagery/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
