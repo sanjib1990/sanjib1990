@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers unsure what caused &#39;weird explosion&#39; seen by Einstein Probe&#39;s X-ray eye](https://www.space.com/einstein-probe-mysterious-explosion-black-hole-gamma-ray)
+- [NASA just gave these 9 companies $24 million to dream up Artemis moon mission tech](https://www.space.com/space-exploration/artemis/nasa-just-gave-these-9-companies-usd24-million-to-dream-up-artemis-moon-mission-tech)
 - [Ransomware payments dropped in 2024 as victims refused to pay hackers](https://techcrunch.com/2025/02/05/ransomware-payments-dropped-in-2024-as-victims-refused-to-pay-hackers/)
 - [Stripe makes $1.1 billion crypto bet as it closes on Bridge acquisition](https://techcrunch.com/2025/02/05/stripe-makes-1-1-billion-crypto-bet-as-it-closes-on-bridge-acquisition/)
 - [The Elon Musk Act aims to ban ‘special government employees’ from having federal contracts](https://techcrunch.com/2025/02/05/the-elon-musk-act-aims-to-ban-special-government-employees-from-having-federal-contracts/)
-- [The Fantastic Four meets Saturn V: &#39;First Steps&#39; trailer launched at rocket center](https://www.space.com/entertainment/the-fantastic-four-meets-saturn-v-first-steps-trailer-launched-at-rocket-center)
-- [New target of Paragon spyware comes forward](https://techcrunch.com/2025/02/05/new-target-of-paragon-spyware-comes-forward/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
