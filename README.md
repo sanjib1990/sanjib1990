@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google wants Search to be more like an AI assistant in 2025](https://techcrunch.com/2025/02/04/google-wants-search-to-be-more-like-an-ai-assistant-in-2025/)
+- [Krafton leads Cashfree’s $53M funding at $700M valuation](https://techcrunch.com/2025/02/04/krafton-leads-cashfrees-53m-funding-at-700m-valuation/)
 - [Brightpick’s new warehouse robot can reach 20-foot-high shelves](https://techcrunch.com/2025/02/04/brightpicks-new-warehouse-robot-can-reach-20-foot-high-shelves/)
 - [Alphabet praises DeepSeek, but it’s massively ramping up its AI spending](https://techcrunch.com/2025/02/04/alphabet-praises-deepseek-but-its-massively-ramping-up-its-ai-spending/)
 - [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/)
-- [Snap says TikTok uncertainty benefited its business](https://techcrunch.com/2025/02/04/snap-says-tiktok-uncertainty-benefited-its-business/)
-- [A16z hires acquitted former Marine Daniel Penny as an investor](https://techcrunch.com/2025/02/04/a16z-hires-acquitted-former-marine-daniel-penny-as-an-investor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
