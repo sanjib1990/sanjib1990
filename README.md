@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI’s biggest stage awaits – TechCrunch Sessions: AI tickets available](https://techcrunch.com/2025/02/05/ais-biggest-stage-awaits-techcrunch-sessions-ai-tickets-available/)
+- [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/)
+- [Google launches new AI models and brings ‘thinking’ to Gemini](https://techcrunch.com/2025/02/05/google-launches-new-ai-models-and-brings-thinking-to-gemini/)
+- [Comet G3 &lpar;ATLAS&rpar; looks breathtaking above future home of world&#39;s largest telescope &lpar;photos&rpar;](https://www.space.com/the-universe/comets/comet-g3-atlas-looks-breathtaking-above-future-home-of-worlds-largest-telescope-photos)
 - [Musk moves to dismiss suit over Tesla’s alleged use of AI-generated ‘Blade Runner’ imagery](https://techcrunch.com/2025/02/05/musk-moves-to-dismiss-suit-over-teslas-alleged-use-of-ai-generated-blade-runner-imagery/)
-- [German company Atmos launching 1st cargo-return capsule on upcoming SpaceX mission](https://www.space.com/space-exploration/launches-spacecraft/german-company-atmos-launching-1st-cargo-return-capsule-on-upcoming-spacex-mission)
-- [Cherry Ventures raises a new $500M fund for early stage and beyond, but will it be enough?](https://techcrunch.com/2025/02/05/cherry-ventures-raises-a-new-500m-fund-for-early-stage-and-beyond-but-will-it-be-enough/)
-- [CodeSignal wants you to practice soft skills with its AI-powered guide](https://techcrunch.com/2025/02/05/codesignal-wants-you-to-practice-soft-skills-with-its-ai-powered-guide/)
-- [See the moon and Jupiter grab &#39;the Bull&#39; by the horns this week](https://www.space.com/stargazing/see-the-moon-and-jupiter-grab-the-bull-by-the-horns-this-week)
 <!-- BLOG-POST-LIST:END -->
 
 ---
