@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronauts on the ISS experience vision changes — should Mars travelers be worried?](https://www.space.com/space-exploration/human-spaceflight/astronauts-on-the-iss-experience-vision-changes-should-mars-travelers-be-worried)
 - [Router maker Zyxel tells customers to replace vulnerable hardware exploited by hackers](https://techcrunch.com/2025/02/05/router-maker-zyxel-tells-customers-to-replace-vulnerable-hardware-exploited-by-hackers/)
 - [European AI startups raised $8 billion in 2024](https://techcrunch.com/2025/02/04/european-ai-startups-raised-8-billion-in-2024/)
 - [Hitachi Ventures raises $400M fund to invest in everything from fusion to AI](https://techcrunch.com/2025/02/04/hitachi-ventures-raises-400m-fund-to-invest-in-everything-from-fusion-to-ai/)
 - [Google wants Search to be more like an AI assistant in 2025](https://techcrunch.com/2025/02/04/google-wants-search-to-be-more-like-an-ai-assistant-in-2025/)
-- [Krafton leads Cashfree’s $53M funding at $700M valuation](https://techcrunch.com/2025/02/04/krafton-leads-cashfrees-53m-funding-at-700m-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
