@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD pulls up the release of its next-gen data center GPUs](https://techcrunch.com/2025/02/04/amd-pulls-up-the-release-of-its-next-gen-data-center-gpus/)
-- [Hubble Space Telescope spots a spectacular Bullseye in deep space &lpar;image&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-space-telescope-spots-a-spectacular-bullseye-in-deep-space-image)
-- [Miist, founded by a 25-year-old, wants people to vape their way out of smoking addiction and migraines](https://techcrunch.com/2025/02/04/miist-founded-by-a-25-year-old-wants-people-to-vape-their-way-out-of-smoking-addiction-and-migraines/)
-- [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
-- [SpaceX to launch water-hunting moon probe &#39;Lunar Trailblazer&#39; on Feb. 26](https://www.space.com/space-exploration/satellites/spacex-to-launch-water-hunting-moon-probe-lunar-trailblazer-on-feb-26)
+- [Brightpick’s new warehouse robot can reach 20-foot-high shelves](https://techcrunch.com/2025/02/04/brightpicks-new-warehouse-robot-can-reach-20-foot-high-shelves/)
+- [Alphabet praises DeepSeek, but it’s massively ramping up its AI spending](https://techcrunch.com/2025/02/04/alphabet-praises-deepseek-but-its-massively-ramping-up-its-ai-spending/)
+- [Two space startups have merged to create the next generation of telescopes](https://techcrunch.com/2025/02/04/two-space-startups-have-merged-to-create-the-next-generation-of-telescopes/)
+- [Snap says TikTok uncertainty benefited its business](https://techcrunch.com/2025/02/04/snap-says-tiktok-uncertainty-benefited-its-business/)
+- [A16z hires acquitted former Marine Daniel Penny as an investor](https://techcrunch.com/2025/02/04/a16z-hires-acquitted-former-marine-daniel-penny-as-an-investor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
