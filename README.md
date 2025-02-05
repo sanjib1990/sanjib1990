@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ransomware payments dropped in 2024 as victims refused to pay hackers](https://techcrunch.com/2025/02/05/ransomware-payments-dropped-in-2024-as-victims-refused-to-pay-hackers/)
+- [Stripe makes $1.1 billion crypto bet as it closes on Bridge acquisition](https://techcrunch.com/2025/02/05/stripe-makes-1-1-billion-crypto-bet-as-it-closes-on-bridge-acquisition/)
 - [The Elon Musk Act aims to ban ‘special government employees’ from having federal contracts](https://techcrunch.com/2025/02/05/the-elon-musk-act-aims-to-ban-special-government-employees-from-having-federal-contracts/)
 - [The Fantastic Four meets Saturn V: &#39;First Steps&#39; trailer launched at rocket center](https://www.space.com/entertainment/the-fantastic-four-meets-saturn-v-first-steps-trailer-launched-at-rocket-center)
 - [New target of Paragon spyware comes forward](https://techcrunch.com/2025/02/05/new-target-of-paragon-spyware-comes-forward/)
-- [Tickets on sale: TechCrunch All Stage 2025, formerly known as Early Stage](https://techcrunch.com/2025/02/05/tickets-on-sale-techcrunch-all-stage-2025-formerly-known-as-early-stage/)
-- [Workday cuts nearly 2,000 employees](https://techcrunch.com/2025/02/05/workday-cuts-nearly-2000-employees/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
