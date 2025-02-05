@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [XOi raises $230M, acquires Specifx to expand its tech for field service technicians](https://techcrunch.com/2025/02/05/xoi-raises-230m-acquires-specifx-to-expand-its-tech-for-field-service-technicians/)
+- [Google ditches DEI hiring goals](https://techcrunch.com/2025/02/05/google-ditches-dei-hiring-goals/)
+- [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/05/the-biggest-breach-of-u-s-government-data-is-under-way/)
+- [Amazon reportedly gears up to release next-gen Alexa](https://techcrunch.com/2025/02/05/amazon-reportedly-gears-up-to-release-next-gen-alexa/)
 - [Paragon spyware used to target citizens across Europe, says Italian government](https://techcrunch.com/2025/02/05/paragon-spyware-used-to-target-citizens-across-europe-says-italian-government/)
-- [New &#39;Star Wars: The Mask of Fear&#39; novel stars Mon Mothma, Bail Organa, and Saw Gerrera &lpar;interview&rpar;](https://www.space.com/entertainment/new-star-wars-the-mask-of-fear-novel-stars-mon-mothma-bail-organa-and-saw-gerrera-interview)
-- [Giant planet or &#39;failed star?&#39; Newfound mystery world blurs the lines](https://www.space.com/the-universe/exoplanets/giant-planet-or-failed-star-newfound-mystery-world-blurs-the-lines)
-- [Why IQ is a poor test for AI](https://techcrunch.com/2025/02/05/why-iq-is-a-poor-test-for-ai/)
-- [Astronomers unsure what caused &#39;weird explosion&#39; seen by Einstein Probe&#39;s X-ray eye](https://www.space.com/einstein-probe-mysterious-explosion-black-hole-gamma-ray)
 <!-- BLOG-POST-LIST:END -->
 
 ---
