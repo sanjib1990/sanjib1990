@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Dojo: Elon Musk’s big plan to build an AI supercomputer, explained](https://techcrunch.com/2025/02/06/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/)
+- [Perseverance Mars rover finds &#39;one-of-a-kind treasure&#39; on Red Planet&#39;s Silver Mountain](https://www.space.com/space-exploration/mars-rovers/perseverance-mars-rover-finds-one-of-a-kind-treasure-on-red-planets-silver-mountain)
+- [Google is adding digital watermarks to images edited with Magic Editor AI](https://techcrunch.com/2025/02/06/google-is-adding-digital-watermarks-to-images-edited-with-magic-editor-ai/)
 - [Snapchat+ subscribers can now create custom AI-generated stickers](https://techcrunch.com/2025/02/06/snapchat-subscribers-can-now-create-custom-ai-generated-stickers/)
 - [NASA&#39;s Europa Clipper snaps its 1st starry image en route to Jupiter&#39;s icy moon](https://www.space.com/space-exploration/missions/nasas-europa-clipper-snaps-its-1st-starry-image-en-route-to-jupiters-icy-moon)
-- [Ford goes protectionist as EV losses top $5B](https://techcrunch.com/2025/02/06/ford-goes-protectionist-as-ev-losses-top-5b/)
-- [Europe signs contract for its 1st moon lander, Argonaut](https://www.space.com/the-universe/moon/europe-signs-contract-for-its-1st-moon-lander-argonaut)
-- [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
