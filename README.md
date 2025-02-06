@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IMI becomes the latest British engineering firm to be hacked](https://techcrunch.com/2025/02/06/imi-becomes-the-latest-british-engineering-firm-to-be-hacked/)
+- [Shein gets more questions from EU about DSA compliance](https://techcrunch.com/2025/02/06/shein-gets-more-questions-from-eu-about-dsa-compliance/)
+- [Temperamental stars could be ruining our view of thousands of exoplanets, Hubble Telescope finds](https://www.space.com/temperamental-stars-spoiling-view-exoplanets)
 - [Could this startup’s compact nuclear reactors revolutionize cancer detection?](https://techcrunch.com/2025/02/06/could-this-startups-compact-nuclear-reactors-revolutionize-cancer-detection/)
 - [India’s Zomato to rebrand as Eternal](https://techcrunch.com/2025/02/06/indias-zomato-to-rebrand-as-eternal/)
-- [Presto is building Stripe for EV charging](https://techcrunch.com/2025/02/06/presto-is-building-stripe-for-ev-charging/)
-- [The moon will be unusually high in the sky tomorrow. Here&#39;s why](https://www.space.com/stargazing/the-moon-will-be-unusually-high-in-the-sky-heres-why)
-- [First lab-grown meat treats go on sale in the UK — for dogs](https://techcrunch.com/2025/02/06/first-lab-grown-meat-treats-go-on-sale-in-the-uk-for-dogs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
