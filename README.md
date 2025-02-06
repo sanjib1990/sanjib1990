@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapchat+ subscribers can now create custom AI-generated stickers](https://techcrunch.com/2025/02/06/snapchat-subscribers-can-now-create-custom-ai-generated-stickers/)
+- [NASA&#39;s Europa Clipper snaps its 1st starry image en route to Jupiter&#39;s icy moon](https://www.space.com/space-exploration/missions/nasas-europa-clipper-snaps-its-1st-starry-image-en-route-to-jupiters-icy-moon)
+- [Ford goes protectionist as EV losses top $5B](https://techcrunch.com/2025/02/06/ford-goes-protectionist-as-ev-losses-top-5b/)
 - [Europe signs contract for its 1st moon lander, Argonaut](https://www.space.com/the-universe/moon/europe-signs-contract-for-its-1st-moon-lander-argonaut)
 - [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/)
-- [EU details which systems fall within AI Act’s scope](https://techcrunch.com/2025/02/06/eu-details-which-systems-fall-within-ai-acts-scope/)
-- [Spyware maker Paragon terminates contract with Italian government: media reports](https://techcrunch.com/2025/02/06/spyware-maker-paragon-terminates-contract-with-italian-government-media-reports/)
-- [Mark Zuckerberg’s charity insists it’s not abandoning its DEI efforts](https://techcrunch.com/2025/02/06/mark-zuckerbergs-charity-insists-its-not-abandoning-its-dei-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
