@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot brings mockups to life by generating code from images](https://techcrunch.com/2025/02/06/github-copilot-brings-mockups-to-life-by-generating-code-from-images/)
-- [RPLY is a new AI assistant that responds to missed texts](https://techcrunch.com/2025/02/06/rply-is-a-new-ai-assistant-that-responds-to-missed-texts/)
-- [NASA satellites catch Earth&#39;s magnetic field making music](https://www.space.com/the-universe/earth/nasa-satellites-catch-earths-magnetic-field-making-music)
-- [Scientists discover largest black hole jet ever seen in the early universe — its twice as long as our galaxy](https://www.space.com/monster-black-hole-early-universe-jet-twice-milky-way)
-- [Keyboard maker suspends U.S. shipments over Trump tariffs on Chinese goods](https://techcrunch.com/2025/02/06/keyboard-maker-suspends-u-s-shipments-over-trump-tariffs-on-chinese-goods/)
+- [Europe signs contract for its 1st moon lander, Argonaut](https://www.space.com/the-universe/moon/europe-signs-contract-for-its-1st-moon-lander-argonaut)
+- [Fintech Ramp lands Eagles’ Saquon Barkley as investor and Super Bowl commercial star](https://techcrunch.com/2025/02/06/fintech-ramp-lands-eagles-saquon-barkley-as-investor-and-super-bowl-commercial-star/)
+- [EU details which systems fall within AI Act’s scope](https://techcrunch.com/2025/02/06/eu-details-which-systems-fall-within-ai-acts-scope/)
+- [Spyware maker Paragon terminates contract with Italian government: media reports](https://techcrunch.com/2025/02/06/spyware-maker-paragon-terminates-contract-with-italian-government-media-reports/)
+- [Mark Zuckerberg’s charity insists it’s not abandoning its DEI efforts](https://techcrunch.com/2025/02/06/mark-zuckerbergs-charity-insists-its-not-abandoning-its-dei-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
