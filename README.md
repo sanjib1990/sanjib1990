@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [IMI becomes the latest British engineering firm to be hacked](https://techcrunch.com/2025/02/06/imi-becomes-the-latest-british-engineering-firm-to-be-hacked/)
-- [Shein gets more questions from EU about DSA compliance](https://techcrunch.com/2025/02/06/shein-gets-more-questions-from-eu-about-dsa-compliance/)
-- [Temperamental stars could be ruining our view of thousands of exoplanets, Hubble Telescope finds](https://www.space.com/temperamental-stars-spoiling-view-exoplanets)
-- [Could this startup’s compact nuclear reactors revolutionize cancer detection?](https://techcrunch.com/2025/02/06/could-this-startups-compact-nuclear-reactors-revolutionize-cancer-detection/)
-- [India’s Zomato to rebrand as Eternal](https://techcrunch.com/2025/02/06/indias-zomato-to-rebrand-as-eternal/)
+- [Intel Capital fuels TrueFoundry’s $19M funding to help boost AI deployments at scale](https://techcrunch.com/2025/02/06/intel-capital-fuels-truefoundrys-19m-funding-to-help-boost-ai-deployments-at-scale/)
+- [Fizz brings on TikTok alum to help build out its marketplace and recommendation engine](https://techcrunch.com/2025/02/06/fizz-brings-on-tiktok-alum-to-help-build-out-its-marketplace-and-recommendation-engine/)
+- [Lyft’s new AI customer assistant is powered by Anthropic’s Claude](https://techcrunch.com/2025/02/06/lyfts-new-ai-customer-assistant-is-powered-by-anthropics-claude/)
+- [Pendulum’s AI-driven platform helps enterprises better predict supply and demand](https://techcrunch.com/2025/02/06/pendulums-ai-driven-platform-helps-enterprises-better-predict-supply-and-demand/)
+- [Private FLIP moon rover replaces NASA&#39;s cancelled VIPER on 2025 lunar south pole mission](https://www.space.com/space-exploration/moon-rovers/private-flip-rover-replaces-nasas-viper-on-astrobotic-moon-mission)
 <!-- BLOG-POST-LIST:END -->
 
 ---
