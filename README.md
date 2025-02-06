@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google finally shipped some fire…](https://www.youtube.com/watch?v=k9xbh9LUYn0)
 - [How CPU Memory &amp; Caches Work - Computerphile](https://www.youtube.com/watch?v=SAk-6gVkio0)
 - [Deep Research.....but Open Source](https://www.youtube.com/watch?v=4M7RIbQZ_-w)
 - [OpenAI o3 tries to curb stomp DeepSeek...](https://www.youtube.com/watch?v=PoeFxGzPpXE)
 - [Your Remote Desktop SUCKS!! Try this instead &lpar;FREE + Open Source&rpar;](https://www.youtube.com/watch?v=EXL8mMUXs88)
-- [Grafana is the goat... Let&#39;s deploy the LGTM stack](https://www.youtube.com/watch?v=1X3dV3D5EJg)
 <!-- YOUTUBE:END -->
 
 ---
