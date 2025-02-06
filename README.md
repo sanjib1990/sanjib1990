@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [European VC firm Emblem raises $85 million for its initial fund](https://techcrunch.com/2025/02/05/european-vc-firm-emblem-raises-85-million-for-its-initial-fund/)
 - [Aiming to accelerate product design with AI, Trace.Space raises a seed round](https://techcrunch.com/2025/02/05/aiming-to-accelerate-product-design-with-ai-trace-space-raises-a-seed-round/)
 - [These researchers used NPR Sunday Puzzle questions to benchmark AI ‘reasoning’ models](https://techcrunch.com/2025/02/05/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/)
 - [Boston Dynamics joins forces with its former CEO to speed the learning of its Atlas humanoid robot](https://techcrunch.com/2025/02/05/boston-dynamics-joins-forces-with-its-former-ceo-to-speed-the-learning-of-its-atlas-humanoid-robot/)
 - [SoftBank could soon buy Renee James’ Ampere chip company for about $6.5B](https://techcrunch.com/2025/02/05/softbank-could-soon-buy-renee-james-ampere-chip-company-for-about-6-5b/)
-- [Sonos lays off 200 ahead of rumored set-top box release](https://techcrunch.com/2025/02/05/sonos-lays-off-200-ahead-of-rumored-set-top-box-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
