@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Putin axes Yuri Borisov, head of Russia&#39;s space agency](https://www.space.com/space-exploration/missions/putin-axes-yuri-borisov-head-of-russias-space-agency)
+- [Government agency removes spoon emoji from work platform amid protests](https://techcrunch.com/2025/02/06/government-agency-removes-spoon-emoji-from-work-platform-amid-protests/)
 - [Early Meta employee sues for sexual harassment, gender discrimination](https://techcrunch.com/2025/02/06/early-meta-employee-sues-for-sexual-harassment-gender-discrimination/)
 - [OpenAI now reveals more of its o3-mini model’s thought process](https://techcrunch.com/2025/02/06/openai-now-reveals-more-of-its-o3-mini-models-thought-process/)
 - [DOGE staffer steps down after racist posts emerge](https://techcrunch.com/2025/02/06/doge-staffer-steps-down-after-racist-posts-emerge/)
-- [Pour one out for Cruise and why autonomous vehicle test miles dropped 50%](https://techcrunch.com/2025/02/06/pour-one-out-for-cruise-and-why-autonomous-vehicle-test-miles-dropped-50/)
-- [Tinder will try AI-powered matching as the dating app continues to lose users](https://techcrunch.com/2025/02/06/tinder-will-try-ai-powered-matching-as-the-dating-app-continues-to-lose-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
