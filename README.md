@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comstruct, a platform to digitize the construction industry, raises $13.5 million](https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/)
 - [Avelios nabs $31M led by Sequoia to fix the ailing world of healthcare IT](https://techcrunch.com/2025/02/06/avelios-nabs-31m-led-by-sequoia-to-fix-the-ailing-world-of-healthcare-it/)
 - [European VC firm Emblem raises $85 million for its initial fund](https://techcrunch.com/2025/02/05/european-vc-firm-emblem-raises-85-million-for-its-initial-fund/)
 - [Aiming to accelerate product design with AI, Trace.Space raises a seed round](https://techcrunch.com/2025/02/05/aiming-to-accelerate-product-design-with-ai-trace-space-raises-a-seed-round/)
 - [These researchers used NPR Sunday Puzzle questions to benchmark AI ‘reasoning’ models](https://techcrunch.com/2025/02/05/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/)
-- [Boston Dynamics joins forces with its former CEO to speed the learning of its Atlas humanoid robot](https://techcrunch.com/2025/02/05/boston-dynamics-joins-forces-with-its-former-ceo-to-speed-the-learning-of-its-atlas-humanoid-robot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
