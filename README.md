@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Superlogic raises $13.7M at a $200M valuation to help consumers use reward points toward cool ‘experiences’](https://techcrunch.com/2025/02/06/superlogic-raises-13-7m-at-a-200m-valuation-to-help-consumers-use-reward-points-toward-cool-experiences/)
-- [Spotify, Warner Music Group sign new deal to help deliver ‘further paid subscription tiers’](https://techcrunch.com/2025/02/06/spotify-warner-music-group-sign-new-deal-to-help-deliver-further-paid-subscription-tiers/)
-- [Save 44% on a Disney Plus and Hulu duo subscription](https://www.space.com/entertainment/disney-plus-hulu-bundle-deal-44-percent-off-2025)
-- [Mistral releases its AI assistant on iOS and Android](https://techcrunch.com/2025/02/06/mistral-releases-its-ai-assistant-on-ios-and-android/)
-- [James Webb Space Telescope images bacteria-size dust grains — they&#39;ll likely turn into exoplanets](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-images-bacteria-size-dust-grains-theyll-likely-turn-into-exoplanets)
+- [GitHub Copilot brings mockups to life by generating code from images](https://techcrunch.com/2025/02/06/github-copilot-brings-mockups-to-life-by-generating-code-from-images/)
+- [RPLY is a new AI assistant that responds to missed texts](https://techcrunch.com/2025/02/06/rply-is-a-new-ai-assistant-that-responds-to-missed-texts/)
+- [NASA satellites catch Earth&#39;s magnetic field making music](https://www.space.com/the-universe/earth/nasa-satellites-catch-earths-magnetic-field-making-music)
+- [Scientists discover largest black hole jet ever seen in the early universe — its twice as long as our galaxy](https://www.space.com/monster-black-hole-early-universe-jet-twice-milky-way)
+- [Keyboard maker suspends U.S. shipments over Trump tariffs on Chinese goods](https://techcrunch.com/2025/02/06/keyboard-maker-suspends-u-s-shipments-over-trump-tariffs-on-chinese-goods/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
