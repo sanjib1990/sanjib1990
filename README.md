@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The moon will be unusually high in the sky tomorrow. Here&#39;s why](https://www.space.com/stargazing/the-moon-will-be-unusually-high-in-the-sky-tomorrow-heres-why)
+- [Could this startup’s compact nuclear reactors revolutionize cancer detection?](https://techcrunch.com/2025/02/06/could-this-startups-compact-nuclear-reactors-revolutionize-cancer-detection/)
+- [India’s Zomato to rebrand as Eternal](https://techcrunch.com/2025/02/06/indias-zomato-to-rebrand-as-eternal/)
+- [Presto is building Stripe for EV charging](https://techcrunch.com/2025/02/06/presto-is-building-stripe-for-ev-charging/)
+- [The moon will be unusually high in the sky tomorrow. Here&#39;s why](https://www.space.com/stargazing/the-moon-will-be-unusually-high-in-the-sky-heres-why)
 - [First lab-grown meat treats go on sale in the UK — for dogs](https://techcrunch.com/2025/02/06/first-lab-grown-meat-treats-go-on-sale-in-the-uk-for-dogs/)
-- [Comstruct raises $13.5M to simplify the procurement process for construction firms](https://techcrunch.com/2025/02/06/comstruct-a-platform-to-digitize-the-construction-industry-raises-135-million/)
-- [Avelios nabs $31M led by Sequoia to fix the ailing world of healthcare IT](https://techcrunch.com/2025/02/06/avelios-nabs-31m-led-by-sequoia-to-fix-the-ailing-world-of-healthcare-it/)
-- [European VC firm Emblem raises $85 million for its initial fund](https://techcrunch.com/2025/02/05/european-vc-firm-emblem-raises-85-million-for-its-initial-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
