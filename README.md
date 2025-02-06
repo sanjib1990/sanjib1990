@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Deep Research.....but Open Source](https://www.youtube.com/watch?v=4M7RIbQZ_-w)
 - [OpenAI o3 tries to curb stomp DeepSeek...](https://www.youtube.com/watch?v=PoeFxGzPpXE)
 - [Your Remote Desktop SUCKS!! Try this instead &lpar;FREE + Open Source&rpar;](https://www.youtube.com/watch?v=EXL8mMUXs88)
 - [Grafana is the goat... Let&#39;s deploy the LGTM stack](https://www.youtube.com/watch?v=1X3dV3D5EJg)
 - [the ONLY way to run Deepseek...](https://www.youtube.com/watch?v=7TR-FLWNVHY)
-- [DeepSeek in Deep Trouble! &lpar;Internal database exposed&rpar;](https://www.youtube.com/watch?v=OKrXf7SMdww)
 <!-- YOUTUBE:END -->
 
 ---
