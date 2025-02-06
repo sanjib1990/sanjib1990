@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What brand of golf ball did Alan Shepard hit off the moon? The world may never know](https://www.space.com/space-exploration/apollo/what-brand-of-golf-ball-did-alan-shepard-hit-off-the-moon-the-world-may-never-know)
+- [Snap CEO helps launch LA wildfire recovery program](https://techcrunch.com/2025/02/06/snap-ceo-helps-launch-la-wildfire-recovery-program/)
+- [Tracking the EV battery factory construction boom across North America](https://techcrunch.com/2025/02/06/tracking-the-ev-battery-factory-construction-boom-across-north-america/)
 - [Tesla Dojo: Elon Musk’s big plan to build an AI supercomputer, explained](https://techcrunch.com/2025/02/06/tesla-dojo-elon-musks-big-plan-to-build-an-ai-supercomputer-explained/)
 - [Perseverance Mars rover finds &#39;one-of-a-kind treasure&#39; on Red Planet&#39;s Silver Mountain](https://www.space.com/space-exploration/mars-rovers/perseverance-mars-rover-finds-one-of-a-kind-treasure-on-red-planets-silver-mountain)
-- [Google is adding digital watermarks to images edited with Magic Editor AI](https://techcrunch.com/2025/02/06/google-is-adding-digital-watermarks-to-images-edited-with-magic-editor-ai/)
-- [Snapchat+ subscribers can now create custom AI-generated stickers](https://techcrunch.com/2025/02/06/snapchat-subscribers-can-now-create-custom-ai-generated-stickers/)
-- [NASA&#39;s Europa Clipper snaps its 1st starry image en route to Jupiter&#39;s icy moon](https://www.space.com/space-exploration/missions/nasas-europa-clipper-snaps-its-1st-starry-image-en-route-to-jupiters-icy-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
