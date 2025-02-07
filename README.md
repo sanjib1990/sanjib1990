@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify pushes for ‘open trade’ as Trump delays import exemption](https://techcrunch.com/2025/02/07/shopify-pushes-for-open-trade-as-trump-delays-import-exemption/)
 - [One of Elon Musk’s young DOGE engineers explains how he won the $700K Vesuvius Challenge](https://techcrunch.com/2025/02/07/one-of-elon-musks-young-doge-engineers-explains-how-he-won-the-700k-vesuvius-challenge/)
 - [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/)
-- [Mysterious magnetic stars may arise when supernovas blast out matter](https://www.space.com/rapidly-spinning-neutron-stars-universe-strongest-magnetic-fields)
+- [Supernova &#39;rains&#39; could give rise to mysteriously magnetic dead stars](https://www.space.com/rapidly-spinning-neutron-stars-universe-strongest-magnetic-fields)
 - [Tesla’s Dojo, a timeline](https://techcrunch.com/2025/02/07/teslas-dojo-a-timeline/)
-- [Coalition ‘concerned’ over UK appointing ex-Amazon exec as antitrust regulator chair](https://techcrunch.com/2025/02/07/coalition-concerned-over-uk-appointing-ex-amazon-exec-as-antitrust-regulator-chair/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
