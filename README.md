@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerSchool data breach affected 16,000 students in the UK](https://techcrunch.com/2025/02/07/powerschool-data-breach-affected-16000-students-in-the-uk/)
+- [UAE to invest billions to build AI data center in France](https://techcrunch.com/2025/02/07/uae-to-invest-billions-to-build-ai-data-center-in-france/)
 - [Meta launches new program to improve speech and translation AI](https://techcrunch.com/2025/02/07/meta-launches-new-program-to-improve-speech-and-translation-ai/)
 - [Meta is studying how humans and robots can collaborate on housework](https://techcrunch.com/2025/02/07/meta-is-studying-how-humans-and-robots-can-collaborate-on-housework/)
 - [Swiggy, 2024’s biggest tech listing, falls below its IPO price and 2022 valuation](https://techcrunch.com/2025/02/07/swiggy-2024s-biggest-tech-listing-falls-below-its-ipo-price-and-2022-valuation/)
-- [India to launch new domain name for banks to fight digital fraud](https://techcrunch.com/2025/02/06/india-to-launch-new-domain-name-for-banks-to-fight-digital-fraud/)
-- [Sprinklr cuts 500 employees, citing underwhelming business performance](https://techcrunch.com/2025/02/06/sprinklr-cuts-500-employees-citing-underwhelming-business-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
