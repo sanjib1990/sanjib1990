@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [India to launch new domain name for banks to fight digital fraud](https://techcrunch.com/2025/02/06/india-to-launch-new-domain-name-for-banks-to-fight-digital-fraud/)
 - [Sprinklr cuts 500 employees, citing underwhelming business performance](https://techcrunch.com/2025/02/06/sprinklr-cuts-500-employees-citing-underwhelming-business-performance/)
 - [Report: OpenAI’s ex-CTO, Mira Murati, has recruited OpenAI co-founder John Schulman](https://techcrunch.com/2025/02/06/report-openais-ex-cto-mira-murati-has-recruited-openai-co-founder-john-schulman/)
 - [Carried interest repeal could stifle investments in startups, NVCA says](https://techcrunch.com/2025/02/06/carried-interest-repeal-could-stifle-investments-in-startups-nvca-says/)
 - [Orgs demand action to mitigate AI’s environmental harm](https://techcrunch.com/2025/02/06/orgs-demand-action-to-mitigate-ais-environmental-harm/)
-- [Amazon doubles down on AI with a massive $100B spending plan for 2025](https://techcrunch.com/2025/02/06/amazon-doubles-down-on-ai-with-a-massive-100b-spending-plan-for-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
