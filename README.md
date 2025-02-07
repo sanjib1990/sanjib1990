@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Odds of an asteroid impact in 2032 just went up. Here&#39;s why experts say you shouldn&#39;t worry](https://www.space.com/asteroid-2024yr4-odds-increase-no-concern)
+- [Hiveclass, a platform for virtual PE classes for kids, raises $1.5M](https://techcrunch.com/2025/02/07/hiveclass-a-platform-for-virtual-pe-classes-for-kids-raises-1-5m/)
 - [Hopping robot will hunt for moon water on China&#39;s 2026 lunar mission](https://www.space.com/the-universe/moon/hopping-robot-will-hunt-for-moon-water-on-chinas-2026-lunar-mission)
 - [Coalition of US states to file lawsuit after Musk’s DOGE gains access to Americans’ personal data](https://techcrunch.com/2025/02/07/coalition-of-us-states-to-file-lawsuit-after-musks-doge-gains-access-to-americans-personal-data/)
 - [UK government demands Apple backdoor to encrypted cloud data: report](https://techcrunch.com/2025/02/07/uk-government-demands-apple-backdoor-to-encrypted-cloud-data-report/)
-- [&#39;Every episode this season feels like it could be a season finale&#39; boasts &#39;Invincible&#39; creator as Season 3 debuts &lpar;interview&rpar;](https://www.space.com/entertainment/every-episode-this-season-feels-like-it-could-be-a-season-finale-boasts-invincible-creator-as-season-3-debuts-interview)
-- [Composo helps enterprises monitor how well AI apps work](https://techcrunch.com/2025/02/07/composo-helps-enterprises-monitor-how-well-ai-apps-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
