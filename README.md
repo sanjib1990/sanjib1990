@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coalition ‘concerned’ over UK appointing ex-Amazon exec as antitrust regulator chair](https://techcrunch.com/2025/02/07/coalition-concerned-over-uk-appointing-ex-amazon-exec-as-antitrust-regulator-chair/)
+- [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/)
+- [Bluesky will soon let you limit replies to ‘followers only’](https://techcrunch.com/2025/02/07/bluesky-will-soon-let-you-limit-replies-to-followers-only/)
 - [Ex-Apple engineer issues apology after lawsuit over Journal app, Vision Pro leaks is dismissed](https://techcrunch.com/2025/02/07/ex-apple-engineer-issues-apology-after-lawsuit-over-journal-app-vision-pro-leaks-is-dismissed/)
 - [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/07/doge-biggest-breach-of-united-states-government-data-under-way/)
-- [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/)
-- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/)
-- [Tiny spacecraft could travel across interstellar space with this &#39;trampoline&#39; lightsail](https://www.space.com/space-exploration/tech/tiny-spacecraft-could-travel-to-distant-star-systems-with-this-trampoline-lightsail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
