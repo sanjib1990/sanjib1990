@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Report: OpenAI’s ex-CTO, Mira Murati, has recruited OpenAI co-founder John Schulman](https://techcrunch.com/2025/02/06/report-openais-ex-cto-mira-murati-has-recruited-openai-co-founder-john-schulman/)
+- [Orgs demand action to mitigate AI’s environmental harm](https://techcrunch.com/2025/02/06/orgs-demand-action-to-mitigate-ais-environmental-harm/)
+- [Amazon doubles down on AI with a massive $100B spending plan for 2025](https://techcrunch.com/2025/02/06/amazon-doubles-down-on-ai-with-a-massive-100b-spending-plan-for-2025/)
 - [Putin axes Yuri Borisov, head of Russia&#39;s space agency](https://www.space.com/space-exploration/missions/putin-axes-yuri-borisov-head-of-russias-space-agency)
 - [Government agency removes spoon emoji from work platform amid protests](https://techcrunch.com/2025/02/06/government-agency-removes-spoon-emoji-from-work-platform-amid-protests/)
-- [Early Meta employee sues for sexual harassment, gender discrimination](https://techcrunch.com/2025/02/06/early-meta-employee-sues-for-sexual-harassment-gender-discrimination/)
-- [OpenAI now reveals more of its o3-mini model’s thought process](https://techcrunch.com/2025/02/06/openai-now-reveals-more-of-its-o3-mini-models-thought-process/)
-- [DOGE staffer steps down after racist posts emerge](https://techcrunch.com/2025/02/06/doge-staffer-steps-down-after-racist-posts-emerge/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
