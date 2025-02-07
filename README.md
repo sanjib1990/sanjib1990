@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinterest lists DEI attacks as possible business risk in latest filing](https://techcrunch.com/2025/02/07/pinterest-lists-dei-attacks-as-possible-business-risk-latest-filing/)
-- [Odds of an asteroid impact in 2032 just went up. Here&#39;s why experts say you shouldn&#39;t worry](https://www.space.com/asteroid-2024yr4-odds-increase-no-concern)
-- [Hiveclass, a platform for virtual PE classes for kids, raises $1.5M](https://techcrunch.com/2025/02/07/hiveclass-a-platform-for-virtual-pe-classes-for-kids-raises-1-5m/)
-- [Hopping robot will hunt for moon water on China&#39;s 2026 lunar mission](https://www.space.com/the-universe/moon/hopping-robot-will-hunt-for-moon-water-on-chinas-2026-lunar-mission)
-- [Coalition of US states to file lawsuit after Musk’s DOGE gains access to Americans’ personal data](https://techcrunch.com/2025/02/07/coalition-of-us-states-to-file-lawsuit-after-musks-doge-gains-access-to-americans-personal-data/)
+- [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/)
+- [SpaceX launching 21 Starlink satellites from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-12-9)
+- [The DJI Mini 4k, one of the best beginner drones, is 20% off](https://www.space.com/tech/the-dji-mini-4k-deal-one-of-the-best-beginner-drones-is-20-percent-off)
+- [HPE begins notifying data breach victims after Russian government hack](https://techcrunch.com/2025/02/07/hpe-begins-notifying-data-breach-victims-after-russian-government-hack/)
+- [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
