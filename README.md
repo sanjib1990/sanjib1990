@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mysterious magnetic stars may arise when supernovas blast out matter](https://www.space.com/rapidly-spinning-neutron-stars-universe-strongest-magnetic-fields)
+- [Tesla’s Dojo, a timeline](https://techcrunch.com/2025/02/07/teslas-dojo-a-timeline/)
 - [Coalition ‘concerned’ over UK appointing ex-Amazon exec as antitrust regulator chair](https://techcrunch.com/2025/02/07/coalition-concerned-over-uk-appointing-ex-amazon-exec-as-antitrust-regulator-chair/)
 - [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/)
 - [Bluesky will soon let you limit replies to ‘followers only’](https://techcrunch.com/2025/02/07/bluesky-will-soon-let-you-limit-replies-to-followers-only/)
-- [Ex-Apple engineer issues apology after lawsuit over Journal app, Vision Pro leaks is dismissed](https://techcrunch.com/2025/02/07/ex-apple-engineer-issues-apology-after-lawsuit-over-journal-app-vision-pro-leaks-is-dismissed/)
-- [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/07/doge-biggest-breach-of-united-states-government-data-under-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
