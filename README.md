@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One of Elon Musk’s young DOGE engineers explains how he won the $700K Vesuvius Challenge](https://techcrunch.com/2025/02/07/one-of-elon-musks-young-doge-engineers-explains-how-he-won-the-700k-vesuvius-challenge/)
+- [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/)
 - [Mysterious magnetic stars may arise when supernovas blast out matter](https://www.space.com/rapidly-spinning-neutron-stars-universe-strongest-magnetic-fields)
 - [Tesla’s Dojo, a timeline](https://techcrunch.com/2025/02/07/teslas-dojo-a-timeline/)
 - [Coalition ‘concerned’ over UK appointing ex-Amazon exec as antitrust regulator chair](https://techcrunch.com/2025/02/07/coalition-concerned-over-uk-appointing-ex-amazon-exec-as-antitrust-regulator-chair/)
-- [DeepMind claims its AI performs better than International Mathematical Olympiad gold medalists](https://techcrunch.com/2025/02/07/deepmind-claims-its-ai-performs-better-than-international-mathematical-olympiad-gold-medalists/)
-- [Bluesky will soon let you limit replies to ‘followers only’](https://techcrunch.com/2025/02/07/bluesky-will-soon-let-you-limit-replies-to-followers-only/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
