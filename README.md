@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify pushes for ‘open trade’ as Trump delays import exemption](https://techcrunch.com/2025/02/07/shopify-pushes-for-open-trade-as-trump-delays-import-exemption/)
-- [One of Elon Musk’s young DOGE engineers explains how he won the $700K Vesuvius Challenge](https://techcrunch.com/2025/02/07/one-of-elon-musks-young-doge-engineers-explains-how-he-won-the-700k-vesuvius-challenge/)
-- [Andrew Ng is ‘very glad’ Google dropped its AI weapons pledge](https://techcrunch.com/2025/02/07/andrew-ng-is-very-glad-google-dropped-its-ai-weapons-pledge/)
-- [Supernova &#39;rains&#39; could give rise to mysteriously magnetic dead stars](https://www.space.com/rapidly-spinning-neutron-stars-universe-strongest-magnetic-fields)
-- [Tesla’s Dojo, a timeline](https://techcrunch.com/2025/02/07/teslas-dojo-a-timeline/)
+- [Vast Space now aims for 2026 launch of Haven-1 space station after key milestone &lpar;photos&rpar;](https://www.space.com/space-exploration/private-spaceflight/vast-space-now-aims-for-2026-launch-of-haven-1-space-station-after-key-milestone-photos)
+- [Anthropic CEO says DeepSeek was ‘the worst’ on a critical bioweapons data safety test](https://techcrunch.com/2025/02/07/anthropic-ceo-says-deepseek-was-the-worst-on-a-critical-bioweapons-data-safety-test/)
+- [OpenAI plans to open an office in Germany](https://techcrunch.com/2025/02/07/openai-plans-to-open-an-office-in-germany/)
+- [Anduril in talks to raise up to $2.5B at  $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/)
+- [Trump admin freezes EV charging program that gave Tesla millions](https://techcrunch.com/2025/02/07/trump-admin-freezes-ev-charging-program-that-gave-tesla-millions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
