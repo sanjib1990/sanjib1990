@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VC Mike Ghaffary is looking for the job-creating AI startup that doesn’t yet exist](https://techcrunch.com/2025/02/07/vc-mike-ghaffary-is-looking-for-the-job-creating-ai-startup-that-doesnt-yet-exist/)
-- [German court orders X to give data access to democracy researchers ahead of federal elections](https://techcrunch.com/2025/02/07/german-court-orders-x-to-give-data-access-to-democracy-researchers-ahead-of-federal-elections/)
-- [Microsoft Copilot: Everything you need to know about Microsoft’s AI](https://techcrunch.com/2025/02/07/microsoft-copilot-everything-you-need-to-know-about-microsofts-ai/)
-- [Laurene Powell Jobs joins Amazon in backing nuclear startup X-Energy in $700M round](https://techcrunch.com/2025/02/07/laurene-powell-jobs-joins-amazon-in-backing-nuclear-startup-x-energy-in-700m-round/)
-- [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/)
+- [Ex-Apple engineer issues apology after lawsuit over Journal app, Vision Pro leaks is dismissed](https://techcrunch.com/2025/02/07/ex-apple-engineer-issues-apology-after-lawsuit-over-journal-app-vision-pro-leaks-is-dismissed/)
+- [The biggest breach of US government data is under way](https://techcrunch.com/2025/02/07/doge-biggest-breach-of-united-states-government-data-under-way/)
+- [Startups face the recurring dilemma of whether to partner](https://techcrunch.com/2025/02/07/startups-face-the-recurring-dilemma-of-partnering-or-not/)
+- [Self Inspection raises $3M for its AI-powered vehicle inspections](https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/)
+- [Tiny spacecraft could travel across interstellar space with this &#39;trampoline&#39; lightsail](https://www.space.com/space-exploration/tech/tiny-spacecraft-could-travel-to-distant-star-systems-with-this-trampoline-lightsail)
 <!-- BLOG-POST-LIST:END -->
 
 ---
