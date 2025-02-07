@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VC Mike Ghaffary is looking for the job-creating AI startup that doesn’t yet exist](https://techcrunch.com/2025/02/07/vc-mike-ghaffary-is-looking-for-the-job-creating-ai-startup-that-doesnt-yet-exist/)
+- [German court orders X to give data access to democracy researchers ahead of federal elections](https://techcrunch.com/2025/02/07/german-court-orders-x-to-give-data-access-to-democracy-researchers-ahead-of-federal-elections/)
+- [Microsoft Copilot: Everything you need to know about Microsoft’s AI](https://techcrunch.com/2025/02/07/microsoft-copilot-everything-you-need-to-know-about-microsofts-ai/)
+- [Laurene Powell Jobs joins Amazon in backing nuclear startup X-Energy in $700M round](https://techcrunch.com/2025/02/07/laurene-powell-jobs-joins-amazon-in-backing-nuclear-startup-x-energy-in-700m-round/)
 - [Report: Ilya Sutskever’s startup in talks to fundraise at roughly $20B valuation](https://techcrunch.com/2025/02/07/report-ilya-sutskevers-startup-in-talks-to-fundraise-at-roughly-20b-valuation/)
-- [SpaceX launching 21 Starlink satellites from Florida today](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-12-9)
-- [The DJI Mini 4k, one of the best beginner drones, is 20% off](https://www.space.com/tech/the-dji-mini-4k-deal-one-of-the-best-beginner-drones-is-20-percent-off)
-- [HPE begins notifying data breach victims after Russian government hack](https://techcrunch.com/2025/02/07/hpe-begins-notifying-data-breach-victims-after-russian-government-hack/)
-- [PromptLayer is building tools to put non-techies in the driver’s seat of AI app development](https://techcrunch.com/2025/02/07/promptlayer-is-building-tools-to-put-non-techies-in-the-drivers-seat-of-ai-app-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
