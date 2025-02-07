@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK government demands Apple backdoor to encrypted cloud data: report](https://techcrunch.com/2025/02/07/uk-government-demands-apple-backdoor-to-encrypted-cloud-data-report/)
+- [&#39;Every episode this season feels like it could be a season finale&#39; boasts &#39;Invincible&#39; creator as Season 3 debuts &lpar;interview&rpar;](https://www.space.com/entertainment/every-episode-this-season-feels-like-it-could-be-a-season-finale-boasts-invincible-creator-as-season-3-debuts-interview)
+- [Composo helps enterprises monitor how well AI apps work](https://techcrunch.com/2025/02/07/composo-helps-enterprises-monitor-how-well-ai-apps-work/)
+- [New fast radio burst detector could sift through &#39;a whole beach of sand&#39; to solve big cosmic mystery](https://www.space.com/space-exploration/tech/new-fast-radio-burst-detector-could-sift-through-a-whole-beach-of-sand-to-solve-big-cosmic-mystery)
 - [PowerSchool data breach affected 16,000 students in the UK](https://techcrunch.com/2025/02/07/powerschool-data-breach-affected-16000-students-in-the-uk/)
-- [UAE to invest billions to build AI data center in France](https://techcrunch.com/2025/02/07/uae-to-invest-billions-to-build-ai-data-center-in-france/)
-- [Meta launches new program to improve speech and translation AI](https://techcrunch.com/2025/02/07/meta-launches-new-program-to-improve-speech-and-translation-ai/)
-- [Meta is studying how humans and robots can collaborate on housework](https://techcrunch.com/2025/02/07/meta-is-studying-how-humans-and-robots-can-collaborate-on-housework/)
-- [Swiggy, 2024’s biggest tech listing, falls below its IPO price and 2022 valuation](https://techcrunch.com/2025/02/07/swiggy-2024s-biggest-tech-listing-falls-below-its-ipo-price-and-2022-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
