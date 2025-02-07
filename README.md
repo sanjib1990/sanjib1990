@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Carried interest repeal could stifle investments in startups, NVCA says](https://techcrunch.com/2025/02/06/carried-interest-repeal-could-stifle-investments-in-startups-nvca-says/)
 - [Report: OpenAI’s ex-CTO, Mira Murati, has recruited OpenAI co-founder John Schulman](https://techcrunch.com/2025/02/06/report-openais-ex-cto-mira-murati-has-recruited-openai-co-founder-john-schulman/)
+- [Carried interest repeal could stifle investments in startups, NVCA says](https://techcrunch.com/2025/02/06/carried-interest-repeal-could-stifle-investments-in-startups-nvca-says/)
 - [Orgs demand action to mitigate AI’s environmental harm](https://techcrunch.com/2025/02/06/orgs-demand-action-to-mitigate-ais-environmental-harm/)
 - [Amazon doubles down on AI with a massive $100B spending plan for 2025](https://techcrunch.com/2025/02/06/amazon-doubles-down-on-ai-with-a-massive-100b-spending-plan-for-2025/)
 - [Putin axes Yuri Borisov, head of Russia&#39;s space agency](https://www.space.com/space-exploration/missions/putin-axes-yuri-borisov-head-of-russias-space-agency)
