@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Eclipse at sea: Best cruises for the total solar eclipse 2026](https://www.space.com/stargazing/eclipses/eclipse-at-sea-best-cruises-for-the-total-solar-eclipse-2026)
 - [Vast Space now aims for 2026 launch of Haven-1 space station after key milestone &lpar;photos&rpar;](https://www.space.com/space-exploration/private-spaceflight/vast-space-now-aims-for-2026-launch-of-haven-1-space-station-after-key-milestone-photos)
 - [Anthropic CEO says DeepSeek was ‘the worst’ on a critical bioweapons data safety test](https://techcrunch.com/2025/02/07/anthropic-ceo-says-deepseek-was-the-worst-on-a-critical-bioweapons-data-safety-test/)
 - [OpenAI plans to open an office in Germany](https://techcrunch.com/2025/02/07/openai-plans-to-open-an-office-in-germany/)
 - [Anduril in talks to raise up to $2.5B at  $28B valuation](https://techcrunch.com/2025/02/07/anduril-in-talks-to-raise-up-to-2-5b-at-28b-valuation/)
-- [Trump admin freezes EV charging program that gave Tesla millions](https://techcrunch.com/2025/02/07/trump-admin-freezes-ev-charging-program-that-gave-tesla-millions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
