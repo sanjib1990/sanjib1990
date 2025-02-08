@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Autodesk CTO Raji Arasu calls for diversity in the teams building AI](https://techcrunch.com/2025/02/08/autodesk-cto-raji-arasu-calls-for-diversity-in-the-teams-building-ai/)
+- [NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station](https://www.space.com/space-exploration/international-space-station/nasa-will-beam-super-bowl-lix-to-orbit-for-astronauts-aboard-the-international-space-station)
+- [This Week In Space podcast: Episode 147 — Not As They Seem](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-147-not-as-they-seem)
 - [Why the ‘spirit’ of open source means much more than a license](https://techcrunch.com/2025/02/08/why-the-spirit-of-open-source-means-much-more-than-a-license/)
 - [Croatia&#39;s 1st satellite captures its first views of home &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/croatias-1st-satellite-captures-its-first-views-of-home-photo)
-- [Christie’s announces AI art auction, and not everyone is pleased](https://techcrunch.com/2025/02/08/christies-announces-ai-art-auction-and-not-everyone-is-pleased/)
-- [Exploring Venus may require exotic tech like balloons and &#39;aerobots&#39;](https://www.space.com/the-universe/venus/exploring-venus-may-require-exotic-tech-like-balloons-and-aerobots)
-- [Eclipse at sea: Best cruises for the total solar eclipse 2026](https://www.space.com/stargazing/eclipses/eclipse-at-sea-best-cruises-for-the-total-solar-eclipse-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ---
