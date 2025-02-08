@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why the ‘spirit’ of open source means much more than a license](https://techcrunch.com/2025/02/08/why-the-spirit-of-open-source-means-much-more-than-a-license/)
+- [Croatia&#39;s 1st satellite captures its first views of home &lpar;photo&rpar;](https://www.space.com/space-exploration/satellites/croatias-1st-satellite-captures-its-first-views-of-home-photo)
 - [Christie’s announces AI art auction, and not everyone is pleased](https://techcrunch.com/2025/02/08/christies-announces-ai-art-auction-and-not-everyone-is-pleased/)
 - [Exploring Venus may require exotic tech like balloons and &#39;aerobots&#39;](https://www.space.com/the-universe/venus/exploring-venus-may-require-exotic-tech-like-balloons-and-aerobots)
 - [Eclipse at sea: Best cruises for the total solar eclipse 2026](https://www.space.com/stargazing/eclipses/eclipse-at-sea-best-cruises-for-the-total-solar-eclipse-2026)
-- [Vast Space now aims for 2026 launch of Haven-1 space station after key milestone &lpar;photos&rpar;](https://www.space.com/space-exploration/private-spaceflight/vast-space-now-aims-for-2026-launch-of-haven-1-space-station-after-key-milestone-photos)
-- [Anthropic CEO says DeepSeek was ‘the worst’ on a critical bioweapons data safety test](https://techcrunch.com/2025/02/07/anthropic-ceo-says-deepseek-was-the-worst-on-a-critical-bioweapons-data-safety-test/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
