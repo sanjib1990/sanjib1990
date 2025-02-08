@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk said he’s not interested in acquiring TikTok](https://techcrunch.com/2025/02/08/elon-musk-said-hes-not-interested-in-acquiring-tiktok/)
 - [Ex-Meta employee sues for sexual harassment](https://techcrunch.com/2025/02/08/ex-meta-employee-sues-for-sexual-harassment/)
 - [AI pioneer Fei-Fei Li says AI policy must be based on ‘science, not science fiction’](https://techcrunch.com/2025/02/08/ai-pioneer-fei-fei-li-says-ai-policy-must-be-based-on-science-not-science-fiction/)
 - [Autodesk CTO Raji Arasu calls for diversity in the teams building AI](https://techcrunch.com/2025/02/08/autodesk-cto-raji-arasu-calls-for-diversity-in-the-teams-building-ai/)
 - [NASA will beam Super Bowl LIX to orbit for astronauts aboard the International Space Station](https://www.space.com/space-exploration/international-space-station/nasa-will-beam-super-bowl-lix-to-orbit-for-astronauts-aboard-the-international-space-station)
-- [This Week In Space podcast: Episode 147 — Not As They Seem](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-147-not-as-they-seem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
