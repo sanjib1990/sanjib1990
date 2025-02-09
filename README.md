@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Investments in French AI ecosystem reach $85B as Brookfield commits $20B](https://techcrunch.com/2025/02/09/investments-in-french-ai-ecosystem-reach-85b-as-brookfield-commits-20b/)
+- [These apps are building Instagram alternatives on open protocols](https://techcrunch.com/2025/02/09/these-apps-are-building-instagram-alternatives-on-open-protocols/)
+- [World&#39;s fastest supercomputer &#39;El Capitan&#39; goes online — it will be used to secure the US nuclear stockpile and in other classified research](https://www.space.com/space-exploration/tech/worlds-fastest-supercomputer-el-capitan-goes-online-it-will-be-used-to-secure-the-us-nuclear-stockpile-and-in-other-classified-research)
 - [NASA and General Atomics test nuclear fuel for future moon and Mars missions](https://www.space.com/space-exploration/tech/nasa-and-general-atomics-test-nuclear-fuel-for-future-moon-and-mars-missions)
 - [How to use Apple’s new event planning ‘Invites’ app](https://techcrunch.com/2025/02/09/how-to-use-apples-new-event-planning-invites-app/)
-- [Space weather scales are outdated and confusing. Here&#39;s what NOAA scientists are doing about it](https://www.space.com/the-universe/earth/space-weather-scales-are-outdated-and-confusing-heres-what-noaa-scientists-are-doing-about-it)
-- [See Mars next to a nearly full moon in the sky tonight](https://www.space.com/stargazing/see-mars-next-to-a-nearly-full-moon-in-the-sky-tonight)
-- [Trump ends legal battle over Twitter ban](https://techcrunch.com/2025/02/08/trump-ends-legal-battle-over-twitter-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
