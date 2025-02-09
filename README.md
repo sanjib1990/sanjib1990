@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use Apple’s new event planning ‘Invites’ app](https://techcrunch.com/2025/02/09/how-to-use-apples-new-event-planning-invites-app/)
+- [Space weather scales are outdated and confusing. Here&#39;s what NOAA scientists are doing about it](https://www.space.com/the-universe/earth/space-weather-scales-are-outdated-and-confusing-heres-what-noaa-scientists-are-doing-about-it)
 - [See Mars next to a nearly full moon in the sky tonight](https://www.space.com/stargazing/see-mars-next-to-a-nearly-full-moon-in-the-sky-tonight)
 - [Trump ends legal battle over Twitter ban](https://techcrunch.com/2025/02/08/trump-ends-legal-battle-over-twitter-ban/)
 - [Apple’s new research robot takes a page from Pixar’s playbook](https://techcrunch.com/2025/02/08/apples-new-research-robot-takes-a-page-from-pixars-playbook/)
-- [Elon Musk said he’s not interested in acquiring TikTok](https://techcrunch.com/2025/02/08/elon-musk-said-hes-not-interested-in-acquiring-tiktok/)
-- [Ex-Meta employee sues for sexual harassment](https://techcrunch.com/2025/02/08/ex-meta-employee-sues-for-sexual-harassment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
