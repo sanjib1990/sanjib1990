@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/)
+- [Sony says PlayStation Plus members will get five-day extension after outage](https://techcrunch.com/2025/02/09/sony-says-playstation-plus-members-will-get-five-day-extension-after-outage/)
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/)
+- [Auction offers Neil Armstrong&#39;s reply to NASA engineer&#39;s Apollo 11 mission patch ideas](https://www.space.com/space-exploration/apollo/auction-offers-neil-armstrongs-reply-to-nasa-engineers-apollo-11-mission-patch-ideas)
 - [Investments in French AI ecosystem reach $85B as Brookfield commits $20B](https://techcrunch.com/2025/02/09/investments-in-french-ai-ecosystem-reach-85b-as-brookfield-commits-20b/)
-- [These apps are building Instagram alternatives on open protocols](https://techcrunch.com/2025/02/09/these-apps-are-building-instagram-alternatives-on-open-protocols/)
-- [World&#39;s fastest supercomputer &#39;El Capitan&#39; goes online — it will be used to secure the US nuclear stockpile and in other classified research](https://www.space.com/space-exploration/tech/worlds-fastest-supercomputer-el-capitan-goes-online-it-will-be-used-to-secure-the-us-nuclear-stockpile-and-in-other-classified-research)
-- [NASA and General Atomics test nuclear fuel for future moon and Mars missions](https://www.space.com/space-exploration/tech/nasa-and-general-atomics-test-nuclear-fuel-for-future-moon-and-mars-missions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
