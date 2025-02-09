@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [See Mars next to a nearly full moon in the sky tonight](https://www.space.com/stargazing/see-mars-next-to-a-nearly-full-moon-in-the-sky-tonight)
 - [Trump ends legal battle over Twitter ban](https://techcrunch.com/2025/02/08/trump-ends-legal-battle-over-twitter-ban/)
 - [Apple’s new research robot takes a page from Pixar’s playbook](https://techcrunch.com/2025/02/08/apples-new-research-robot-takes-a-page-from-pixars-playbook/)
 - [Elon Musk said he’s not interested in acquiring TikTok](https://techcrunch.com/2025/02/08/elon-musk-said-hes-not-interested-in-acquiring-tiktok/)
 - [Ex-Meta employee sues for sexual harassment](https://techcrunch.com/2025/02/08/ex-meta-employee-sues-for-sexual-harassment/)
-- [AI pioneer Fei-Fei Li says AI policy must be based on ‘science, not science fiction’](https://techcrunch.com/2025/02/08/ai-pioneer-fei-fei-li-says-ai-policy-must-be-based-on-science-not-science-fiction/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
