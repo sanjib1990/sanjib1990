@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek’s R1 reportedly ‘more vulnerable’ to jailbreaking than other AI models](https://techcrunch.com/2025/02/09/deepseeks-r1-reportedly-more-vulnerable-to-jailbreaking-than-other-ai-models/)
 - [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/)
 - [Sony says PlayStation Plus members will get five-day extension after outage](https://techcrunch.com/2025/02/09/sony-says-playstation-plus-members-will-get-five-day-extension-after-outage/)
 - [Here are five startups that are running Super Bowl ads this year](https://techcrunch.com/2025/02/09/here-are-five-startups-that-are-running-super-bowl-ads-this-year/)
 - [Auction offers Neil Armstrong&#39;s reply to NASA engineer&#39;s Apollo 11 mission patch ideas](https://www.space.com/space-exploration/apollo/auction-offers-neil-armstrongs-reply-to-nasa-engineers-apollo-11-mission-patch-ideas)
-- [Investments in French AI ecosystem reach $85B as Brookfield commits $20B](https://techcrunch.com/2025/02/09/investments-in-french-ai-ecosystem-reach-85b-as-brookfield-commits-20b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
