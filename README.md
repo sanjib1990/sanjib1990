@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google expands NotebookLM Plus to individual users](https://techcrunch.com/2025/02/10/google-expands-notebooklm-plus-to-individual-users/)
-- [Firefly&#39;s Blue Ghost lunar lander leaves Earth orbit to head for the moon](https://www.space.com/space-exploration/launches-spacecraft/fireflys-blue-ghost-lunar-lander-leaves-earth-orbit-to-head-for-the-moon)
-- [Bird cuts 120 jobs as part of ‘strategic realignment’](https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/)
-- [OpenAI spoke to government officials about its DeepSeek probe](https://techcrunch.com/2025/02/10/openai-spoke-to-government-officials-about-its-deepseek-probe/)
-- [TikTok wants Android users to sideload its app](https://techcrunch.com/2025/02/10/tiktok-wants-android-users-to-sideload-its-app/)
+- [What was the mysterious space signal scientists discovered in 2024? Here are some possibilities](https://www.space.com/the-universe/what-was-the-mysterious-space-signal-scientists-discovered-in-2024-here-are-some-possibilities)
+- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/)
+- [Apple Music adds a better-sounding Spatial Audio version of Kendrick Lamar’s Super Bowl halftime show](https://techcrunch.com/2025/02/10/apple-music-adds-a-better-sounding-spatial-audio-version-of-kendrick-lamars-super-bowl-halftime-show/)
+- [Elon Musk-led team submits $97.4B bid for OpenAI](https://techcrunch.com/2025/02/10/elon-musk-led-team-submits-97-4b-bid-for-openai/)
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
