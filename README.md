@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Did Covid lockdowns really cause temperatures on the moon to drop?](https://www.space.com/the-universe/moon/did-covid-lockdowns-really-cause-temperatures-on-the-moon-to-drop)
-- [Revel nabs $60M in New York State funding to build more EV chargers](https://techcrunch.com/2025/02/10/revel-nabs-60m-in-new-york-state-funding-to-build-more-ev-chargers/)
-- [Tech giants and startups join forces to call for simpler EU rules on AI, data](https://techcrunch.com/2025/02/10/tech-giants-and-startups-join-forces-to-call-for-simpler-eu-rules-on-ai-data/)
-- [Global police operation seizes 8base ransomware gang leak site](https://techcrunch.com/2025/02/10/global-police-operation-seizes-8base-ransomware-gang-leak-site/)
-- [Google-backed public interest AI partnership launches with $400M+ for open ecosystem building](https://techcrunch.com/2025/02/10/google-backed-public-interest-ai-partnership-launches-with-400m-pledged-for-open-ecosystem-building/)
+- [Macron urges Europe to simplify its regulations to get back into the AI race](https://techcrunch.com/2025/02/10/macron-urges-europe-to-simplify-its-regulations-to-get-back-into-the-ai-race/)
+- [Rivian opens commercial van sales to all businesses](https://techcrunch.com/2025/02/10/rivian-opens-commercial-van-sales-to-all-businesses/)
+- [AI can now replicate itself — a milestone that has experts terrified](https://www.space.com/space-exploration/tech/ai-can-now-replicate-itself-a-milestone-that-has-experts-terrified)
+- [Perplexity’s Super Bowl ‘tweet’ increased app installs by 50%](https://techcrunch.com/2025/02/10/perplexitys-super-bowl-tweet-increased-app-installs-by-50/)
+- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
