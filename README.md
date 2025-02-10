@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google-backed public interest AI partnership launches with $400M+ pledged for open ecosystem building](https://techcrunch.com/2025/02/10/google-backed-public-interest-ai-partnership-launches-with-400m-pledged-for-open-ecosystem-building/)
-- [Scientists &#39;dust for fingerprints&#39; around a young star as it births exoplanets](https://www.space.com/dust-star-magnetic-fingerprints)
-- [TikTok influencers are wearing Apple Watches on their ankles](https://techcrunch.com/2025/02/10/tiktok-influencers-are-wearing-apple-watches-on-their-ankles/)
-- [Euclid &#39;dark universe&#39; telescope discovers stunning Einstein ring in warped space-time &lpar;image&rpar;](https://www.space.com/euclid-einstein-ring-dark-matter)
-- [UK’s secret Apple iCloud backdoor order is a global emergency, say critics](https://techcrunch.com/2025/02/10/uks-secret-apple-icloud-backdoor-order-is-a-global-emergency-say-critics/)
+- [Did Covid lockdowns really cause temperatures on the moon to drop?](https://www.space.com/the-universe/moon/did-covid-lockdowns-really-cause-temperatures-on-the-moon-to-drop)
+- [Revel nabs $60M in New York State funding to build more EV chargers](https://techcrunch.com/2025/02/10/revel-nabs-60m-in-new-york-state-funding-to-build-more-ev-chargers/)
+- [Tech giants and startups join forces to call for simpler EU rules on AI, data](https://techcrunch.com/2025/02/10/tech-giants-and-startups-join-forces-to-call-for-simpler-eu-rules-on-ai-data/)
+- [Global police operation seizes 8base ransomware gang leak site](https://techcrunch.com/2025/02/10/global-police-operation-seizes-8base-ransomware-gang-leak-site/)
+- [Google-backed public interest AI partnership launches with $400M+ for open ecosystem building](https://techcrunch.com/2025/02/10/google-backed-public-interest-ai-partnership-launches-with-400m-pledged-for-open-ecosystem-building/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
