@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch NASA&#39;s 1st Twitch stream from the ISS this week](https://www.space.com/space-exploration/international-space-station/how-to-watch-nasas-1st-twitch-stream-from-the-iss-this-week)
 - [Macron urges Europe to simplify its regulations to get back into the AI race](https://techcrunch.com/2025/02/10/macron-urges-europe-to-simplify-its-regulations-to-get-back-into-the-ai-race/)
 - [Rivian opens commercial van sales to all businesses](https://techcrunch.com/2025/02/10/rivian-opens-commercial-van-sales-to-all-businesses/)
 - [AI can now replicate itself — a milestone that has experts terrified](https://www.space.com/space-exploration/tech/ai-can-now-replicate-itself-a-milestone-that-has-experts-terrified)
 - [Perplexity’s Super Bowl ‘tweet’ increased app installs by 50%](https://techcrunch.com/2025/02/10/perplexitys-super-bowl-tweet-increased-app-installs-by-50/)
-- [Mistral gets down to business](https://techcrunch.com/2025/02/10/mistral-gets-down-to-business/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
