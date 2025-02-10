@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-driven ads take the field during the 2025 Super Bowl](https://techcrunch.com/2025/02/10/ai-driven-ads-take-the-field-during-2025-super-bowl/)
+- [Students&#39; contest-winning pen, paint and poetry works shown aboard International Space Station](https://www.space.com/space-exploration/international-space-station/students-contest-winning-pen-paint-and-poetry-works-shown-aboard-international-space-station)
+- [Lyft to launch Mobileye-powered robotaxis ‘as soon as 2026,’ starting with Dallas](https://techcrunch.com/2025/02/10/lyft-to-launch-mobileye-powered-robotaxis-as-soon-as-2026-starting-with-dallas/)
 - [AI pioneer Fei-Fei Li warns policymakers not to let sci-fi sensationalism shape AI rules](https://techcrunch.com/2025/02/10/ai-pioneer-fei-fei-li-says-governments-should-embrace-a-pragmatic-attitude-instead-of-an-ideological-one-on-ai/)
 - [Media giant Lee Enterprises confirms cyberattack as news outlets report ongoing disruption](https://techcrunch.com/2025/02/10/media-giant-lee-enterprises-confirms-cyberattack-as-news-outlets-report-ongoing-disruption/)
-- [Live-action &#39;Gundam&#39; movie enters full production as Bandai drops Netflix to partner with Legendary Pictures](https://www.space.com/entertainment/live-action-gundam-movie-enters-full-production-as-bandai-drops-netflix-to-partner-with-legendary-pictures)
-- [Who is Janet Petro, Trump&#39;s pick for acting NASA administrator?](https://www.space.com/space-exploration/missions/who-is-janet-petro-trumps-pick-for-acting-nasa-administrator)
-- [Macron unveils $112B AI investment package, France’s answer to US’ Stargate](https://techcrunch.com/2025/02/10/macron-unveils-a-112b-ai-investment-package-as-frances-answer-to-stargate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
