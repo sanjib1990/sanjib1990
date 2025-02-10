@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google-backed public interest AI partnership launches with $400M+ pledged for open ecosystem building](https://techcrunch.com/2025/02/10/google-backed-public-interest-ai-partnership-launches-with-400m-pledged-for-open-ecosystem-building/)
+- [Scientists &#39;dust for fingerprints&#39; around a young star as it births exoplanets](https://www.space.com/dust-star-magnetic-fingerprints)
+- [TikTok influencers are wearing Apple Watches on their ankles](https://techcrunch.com/2025/02/10/tiktok-influencers-are-wearing-apple-watches-on-their-ankles/)
+- [Euclid &#39;dark universe&#39; telescope discovers stunning Einstein ring in warped space-time &lpar;image&rpar;](https://www.space.com/euclid-einstein-ring-dark-matter)
 - [UK’s secret Apple iCloud backdoor order is a global emergency, say critics](https://techcrunch.com/2025/02/10/uks-secret-apple-icloud-backdoor-order-is-a-global-emergency-say-critics/)
-- [AI-driven ads take the field during the 2025 Super Bowl](https://techcrunch.com/2025/02/10/ai-driven-ads-take-the-field-during-2025-super-bowl/)
-- [Students&#39; contest-winning pen, paint and poetry works shown aboard International Space Station](https://www.space.com/space-exploration/international-space-station/students-contest-winning-pen-paint-and-poetry-works-shown-aboard-international-space-station)
-- [Lyft to launch Mobileye-powered robotaxis ‘as soon as 2026,’ starting with Dallas](https://techcrunch.com/2025/02/10/lyft-to-launch-mobileye-powered-robotaxis-as-soon-as-2026-starting-with-dallas/)
-- [AI pioneer Fei-Fei Li warns policymakers not to let sci-fi sensationalism shape AI rules](https://techcrunch.com/2025/02/10/ai-pioneer-fei-fei-li-says-governments-should-embrace-a-pragmatic-attitude-instead-of-an-ideological-one-on-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
