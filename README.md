@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s secret Apple iCloud backdoor order is a global emergency, say critics](https://techcrunch.com/2025/02/10/uks-secret-apple-icloud-backdoor-order-is-a-global-emergency-say-critics/)
 - [AI-driven ads take the field during the 2025 Super Bowl](https://techcrunch.com/2025/02/10/ai-driven-ads-take-the-field-during-2025-super-bowl/)
 - [Students&#39; contest-winning pen, paint and poetry works shown aboard International Space Station](https://www.space.com/space-exploration/international-space-station/students-contest-winning-pen-paint-and-poetry-works-shown-aboard-international-space-station)
 - [Lyft to launch Mobileye-powered robotaxis ‘as soon as 2026,’ starting with Dallas](https://techcrunch.com/2025/02/10/lyft-to-launch-mobileye-powered-robotaxis-as-soon-as-2026-starting-with-dallas/)
 - [AI pioneer Fei-Fei Li warns policymakers not to let sci-fi sensationalism shape AI rules](https://techcrunch.com/2025/02/10/ai-pioneer-fei-fei-li-says-governments-should-embrace-a-pragmatic-attitude-instead-of-an-ideological-one-on-ai/)
-- [Media giant Lee Enterprises confirms cyberattack as news outlets report ongoing disruption](https://techcrunch.com/2025/02/10/media-giant-lee-enterprises-confirms-cyberattack-as-news-outlets-report-ongoing-disruption/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
