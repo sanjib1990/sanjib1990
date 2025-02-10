@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Macron unveils a $112B AI investment package, France’s answer to Stargate](https://techcrunch.com/2025/02/10/macron-unveils-a-112b-ai-investment-package-as-frances-answer-to-stargate/)
+- [Crater-diving hopper &#39;Gracie&#39; will launch to the moon aboard private Athena lander this month](https://www.space.com/the-universe/moon/crater-diving-hopper-gracie-will-launch-to-the-moon-aboard-private-athena-lander-this-month)
 - [Saudi’s BRKZ closes $17M Series A for its construction tech platform](https://techcrunch.com/2025/02/09/saudis-brkz-closes-17m-series-a-for-its-construction-tech-platform/)
 - [OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed](https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/)
 - [DeepSeek’s R1 reportedly ‘more vulnerable’ to jailbreaking than other AI models](https://techcrunch.com/2025/02/09/deepseeks-r1-reportedly-more-vulnerable-to-jailbreaking-than-other-ai-models/)
-- [Apple could launch a new iPhone SE and PowerBeats Pro 2 on February 11](https://techcrunch.com/2025/02/09/apple-could-launch-a-new-iphone-se-and-powerbeats-pro-2-on-february-11/)
-- [Sony says PlayStation Plus members will get five-day extension after outage](https://techcrunch.com/2025/02/09/sony-says-playstation-plus-members-will-get-five-day-extension-after-outage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
