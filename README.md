@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Risks with current Artemis 3 moon landing plan &#39;may be too high,&#39; NASA safety group says](https://www.space.com/space-exploration/missions/risks-with-current-artemis-3-moon-landing-plan-may-be-too-high-nasa-safety-group-says)
+- [Is AI making us dumb?](https://techcrunch.com/2025/02/10/is-ai-making-us-dumb/)
 - [What was the mysterious space signal scientists discovered in 2024? Here are some possibilities](https://www.space.com/the-universe/what-was-the-mysterious-space-signal-scientists-discovered-in-2024-here-are-some-possibilities)
 - [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/)
 - [Apple Music adds a better-sounding Spatial Audio version of Kendrick Lamar’s Super Bowl halftime show](https://techcrunch.com/2025/02/10/apple-music-adds-a-better-sounding-spatial-audio-version-of-kendrick-lamars-super-bowl-halftime-show/)
-- [Elon Musk-led team submits $97.4B bid for OpenAI](https://techcrunch.com/2025/02/10/elon-musk-led-team-submits-97-4b-bid-for-openai/)
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/10/tech-layoffs-2024-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
