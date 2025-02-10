@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Macron unveils a $112B AI investment package, France’s answer to Stargate](https://techcrunch.com/2025/02/10/macron-unveils-a-112b-ai-investment-package-as-frances-answer-to-stargate/)
+- [Who is Janet Petro, Trump&#39;s pick for acting NASA administrator?](https://www.space.com/space-exploration/missions/who-is-janet-petro-trumps-pick-for-acting-nasa-administrator)
+- [Macron unveils $112B AI investment package, France’s answer to US’ Stargate](https://techcrunch.com/2025/02/10/macron-unveils-a-112b-ai-investment-package-as-frances-answer-to-stargate/)
 - [Crater-diving hopper &#39;Gracie&#39; will launch to the moon aboard private Athena lander this month](https://www.space.com/the-universe/moon/crater-diving-hopper-gracie-will-launch-to-the-moon-aboard-private-athena-lander-this-month)
 - [Saudi’s BRKZ closes $17M Series A for its construction tech platform](https://techcrunch.com/2025/02/09/saudis-brkz-closes-17m-series-a-for-its-construction-tech-platform/)
 - [OpenAI CEO Sam Altman admits that AI’s benefits may not be widely distributed](https://techcrunch.com/2025/02/09/openai-ceo-sam-altman-admits-that-ais-benefits-may-not-be-widely-distributed/)
-- [DeepSeek’s R1 reportedly ‘more vulnerable’ to jailbreaking than other AI models](https://techcrunch.com/2025/02/09/deepseeks-r1-reportedly-more-vulnerable-to-jailbreaking-than-other-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
