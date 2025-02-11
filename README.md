@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rocket launches 21 Starlink satellites into orbit, then lands at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launches-21-starlink-satellites-into-orbit-then-lands-at-sea-video)
+- [Shopify took down Kanye’s swastika t-shirt shop, but another antisemitic storefront still operates](https://techcrunch.com/2025/02/11/shopify-took-down-kanyes-swastika-t-shirt-shop-but-another-antisemitic-storefront-still-operates/)
 - [Google says it removed cultural events from its calender last year](https://techcrunch.com/2025/02/11/google-says-it-removed-cultural-events-from-its-calender-in-mid-2024/)
 - [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/)
 - [NASA HQ verbally orders employees to purge workspaces of LGBTQI+ symbols](https://www.space.com/space-exploration/nasa-verbally-orders-employees-to-purge-workspaces-of-lgbtqi-symbols)
-- [Tumblr to join the fediverse after WordPress migration completes](https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/)
-- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
