@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinkfish helps enterprises build AI agents through natural language processing](https://techcrunch.com/2025/02/11/pinkfish-helps-enterprises-build-ai-agents-through-natural-language-processing/)
-- [Huge solar storm in May 2024 spawned 2 new radiation belts around Earth](https://www.space.com/the-universe/earth/huge-solar-storm-in-may-2024-spawned-2-new-radiation-belts-around-earth)
-- [YouTube AI updates include auto dubbing expansion, age ID tech, and more](https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/)
-- [Google leads $230M convertible note for Boston quantum computing startup QuEra](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/)
-- [CISA election security officials placed on leave: report](https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/)
+- [Apple reportedly partners with Alibaba after rejecting DeepSeek for China AI launch](https://techcrunch.com/2025/02/11/apple-reportedly-partners-with-alibaba-after-rejecting-deepseek-for-china-ai-launch/)
+- [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/)
+- [BuzzFeed is taking on Instagram, TikTok, X with a new social platform designed to spread ‘joy’](https://techcrunch.com/2025/02/11/buzzfeed-is-taking-on-instagram-tiktok-x-with-a-new-social-platform-designed-to-spread-joy/)
+- [There was nearly 1 rocket launch attempt every 34 hours in 2024 — this year will be even busier](https://www.space.com/space-exploration/missions/there-was-nearly-1-rocket-launch-attempt-every-34-hours-in-2024-this-year-will-be-even-busier)
+- [BYD to offer Tesla-like driver assist, even on its cheapest models](https://techcrunch.com/2025/02/11/byd-to-offer-tesla-like-driver-assist-even-on-its-cheapest-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
