@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google back Toonsutra to grow its webtoons platform in India](https://techcrunch.com/2025/02/11/google-back-toonsutra-to-grow-its-webtoons-platform-in-india/)
 - [What would happen if the OSIRIS-REx asteroid Bennu smashed into Earth in 2182?](https://www.space.com/the-universe/asteroids/what-would-happen-if-the-osiris-rex-asteroid-bennu-smashed-into-earth-in-2182)
 - [Save a massive 63% on a year of Peacock TV now $29.99](https://www.space.com/entertainment/save-a-massive-63-percent-on-peacock-tv-now-under-30-dollars)
 - [AI investments surged 62% to $110B in 2024 while startup funding declined 12%, says Dealroom](https://techcrunch.com/2025/02/11/ai-investments-surged-62-to-110-billion-in-2024-while-startup-funding-overall-declined-12-says-dealroom/)
 - [Ghanaian fintech Affinity bags $8M to scale digital banking in a mobile money-driven market](https://techcrunch.com/2025/02/11/affinity-bags-8m-to-scale-digital-banking-in-ghana/)
-- [Boom Supersonic&#39;s XB-1 jet breaks sound barrier 3 times on final test flight &lpar;video, photos&rpar;](https://www.space.com/space-exploration/tech/boom-supersonics-xb-1-jet-breaks-sound-barrier-3-times-on-final-test-flight-video-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
