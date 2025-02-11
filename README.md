@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google back Toonsutra to grow its webtoons platform in India](https://techcrunch.com/2025/02/11/google-back-toonsutra-to-grow-its-webtoons-platform-in-india/)
+- [Australian health tech startup Harrison.ai scores $112M Series C](https://techcrunch.com/2025/02/11/australian-healthtech-startup-harrison-ai-scores-112m-series-c/)
+- [In Paris, JD Vance skewers EU AI rules, lauds US tech supremacy](https://techcrunch.com/2025/02/11/in-paris-jd-vance-skewers-eu-ai-rules-lauds-us-tech-supremacy/)
+- [Google backs Toonsutra to grow its webtoons platform in India](https://techcrunch.com/2025/02/11/google-back-toonsutra-to-grow-its-webtoons-platform-in-india/)
 - [What would happen if the OSIRIS-REx asteroid Bennu smashed into Earth in 2182?](https://www.space.com/the-universe/asteroids/what-would-happen-if-the-osiris-rex-asteroid-bennu-smashed-into-earth-in-2182)
 - [Save a massive 63% on a year of Peacock TV now $29.99](https://www.space.com/entertainment/save-a-massive-63-percent-on-peacock-tv-now-under-30-dollars)
-- [AI investments surged 62% to $110B in 2024 while startup funding declined 12%, says Dealroom](https://techcrunch.com/2025/02/11/ai-investments-surged-62-to-110-billion-in-2024-while-startup-funding-overall-declined-12-says-dealroom/)
-- [Ghanaian fintech Affinity bags $8M to scale digital banking in a mobile money-driven market](https://techcrunch.com/2025/02/11/affinity-bags-8m-to-scale-digital-banking-in-ghana/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
