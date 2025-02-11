@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Another person targeted by Paragon spyware comes forward](https://techcrunch.com/2025/02/11/another-person-targeted-by-paragon-spyware-comes-forward/)
-- [CISA election security officials placed on leave, DHS confirms](https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/)
-- [Apple reportedly partners with Alibaba after rejecting DeepSeek for China AI launch](https://techcrunch.com/2025/02/11/apple-reportedly-partners-with-alibaba-after-rejecting-deepseek-for-china-ai-launch/)
-- [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/)
-- [BuzzFeed is taking on Instagram, TikTok, X with a new social platform designed to spread ‘joy’](https://techcrunch.com/2025/02/11/buzzfeed-is-taking-on-instagram-tiktok-x-with-a-new-social-platform-designed-to-spread-joy/)
+- [Klarna and Deel eye IPOs, and Stripe embraces crypto](https://techcrunch.com/2025/02/11/more-fintech-startups-are-planning-ipos-embracing-crypto/)
+- [Apple brings heart rate monitoring to Powerbeats Pro 2](https://techcrunch.com/2025/02/11/apple-brings-heart-rate-monitoring-to-powerbeats-pro-2/)
+- [OpenAI CEO Sam Altman calls Musk’s bid an attempt to ‘slow us down’](https://techcrunch.com/2025/02/11/openai-ceo-sam-altman-calls-musks-bid-an-attempt-to-slow-us-down/)
+- [Mysterious cosmic lights turn out to be 2 undiscovered supernova remnants](https://www.space.com/the-universe/stars/mysterious-cosmic-lights-turn-out-to-be-2-undiscovered-supernova-remnants)
+- [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
