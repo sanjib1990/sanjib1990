@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/)
-- [Two senior partners are leaving Peak XV amid strategy shift](https://techcrunch.com/2025/02/10/two-senior-partners-are-leaving-peak-xv-amid-strategy-shift/)
-- [SpaceX launches 23 Starlink satellites to orbit from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-starlink-satellites-to-orbit-from-california-photos)
-- [Google changed the Gulf of Mexico to the Gulf of America on Maps](https://techcrunch.com/2025/02/10/google-changed-the-gulf-of-mexico-to-the-gulf-of-america-on-maps/)
-- [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/)
+- [AI investments surged 62% to $110 billion in 2024 while startup funding overall declined 12%, says Dealroom](https://techcrunch.com/2025/02/11/ai-investments-surged-62-to-110-billion-in-2024-while-startup-funding-overall-declined-12-says-dealroom/)
+- [Ghanaian fintech Affinity bags $8M to scale digital banking in a mobile money-driven market](https://techcrunch.com/2025/02/11/affinity-bags-8m-to-scale-digital-banking-in-ghana/)
+- [Boom Supersonic&#39;s XB-1 jet breaks sound barrier 3 times on final test flight &lpar;video, photos&rpar;](https://www.space.com/space-exploration/tech/boom-supersonics-xb-1-jet-breaks-sound-barrier-3-times-on-final-test-flight-video-photos)
+- [Instagram is introducing teen accounts with new safety features in India](https://techcrunch.com/2025/02/11/instagram-is-introducing-teen-accounts-with-new-safety-features-in-india/)
+- [EU looks to the private sector to help fund ‘AI Gigafactories’, eyeing the frontier AI race](https://techcrunch.com/2025/02/11/eu-looks-to-the-private-sector-to-help-fund-ai-gigafactories-eyeing-the-frontier-ai-race/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
