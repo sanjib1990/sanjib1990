@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple and Google take down malicious mobile apps from their app stores](https://techcrunch.com/2025/02/10/apple-and-google-take-down-malicious-apps-from-their-app-stores/)
+- [Plaid working with Goldman Sachs on raising $300M to $400M in tender offer](https://techcrunch.com/2025/02/10/plaid-working-with-goldman-sachs-on-raising-300m-to-400m-in-tender-offer/)
+- [These are the investors funding Musk’s $97 billion OpenAI takeover attempt](https://techcrunch.com/2025/02/10/these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt/)
 - [Risks with current Artemis 3 moon landing plan &#39;may be too high,&#39; NASA safety group says](https://www.space.com/space-exploration/missions/risks-with-current-artemis-3-moon-landing-plan-may-be-too-high-nasa-safety-group-says)
 - [Is AI making us dumb?](https://techcrunch.com/2025/02/10/is-ai-making-us-dumb/)
-- [What was the mysterious space signal scientists discovered in 2024? Here are some possibilities](https://www.space.com/the-universe/what-was-the-mysterious-space-signal-scientists-discovered-in-2024-here-are-some-possibilities)
-- [Carta settles two more lawsuits that alleged sexual harassment and discrimination](https://techcrunch.com/2025/02/10/carta-settles-two-more-lawsuits-that-alleged-sexual-harassment-and-discrimination/)
-- [Apple Music adds a better-sounding Spatial Audio version of Kendrick Lamar’s Super Bowl halftime show](https://techcrunch.com/2025/02/10/apple-music-adds-a-better-sounding-spatial-audio-version-of-kendrick-lamars-super-bowl-halftime-show/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
