@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Australian health tech startup Harrison.ai scores $112M Series C](https://techcrunch.com/2025/02/11/australian-healthtech-startup-harrison-ai-scores-112m-series-c/)
-- [In Paris, JD Vance skewers EU AI rules, lauds US tech supremacy](https://techcrunch.com/2025/02/11/in-paris-jd-vance-skewers-eu-ai-rules-lauds-us-tech-supremacy/)
-- [Google backs Toonsutra to grow its webtoons platform in India](https://techcrunch.com/2025/02/11/google-back-toonsutra-to-grow-its-webtoons-platform-in-india/)
-- [What would happen if the OSIRIS-REx asteroid Bennu smashed into Earth in 2182?](https://www.space.com/the-universe/asteroids/what-would-happen-if-the-osiris-rex-asteroid-bennu-smashed-into-earth-in-2182)
-- [Save a massive 63% on a year of Peacock TV now $29.99](https://www.space.com/entertainment/save-a-massive-63-percent-on-peacock-tv-now-under-30-dollars)
+- [Anthropic CEO Dario Amodei calls the AI Action Summit a ‘missed opportunity’](https://techcrunch.com/2025/02/11/anthropic-ceo-dario-amodei-calls-the-ai-action-summit-a-missed-opportunity/)
+- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/)
+- [Workday launches a platform for enterprises to manage all of their AI agents in one place](https://techcrunch.com/2025/02/11/workday-launches-a-platform-for-enterprises-to-manage-all-of-their-ai-agents-in-one-place/)
+- [3D mood board and marketplace Mattoboard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/)
+- [Scientists alarmed as Rubin Observatory changes biography of astronomer Vera Rubin amid Trump&#39;s push to end DEI efforts](https://www.space.com/the-universe/earth/scientists-alarmed-as-rubin-observatory-changes-biography-of-astronomer-vera-rubin-amid-trumps-push-to-end-dei-efforts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
