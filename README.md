@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [QED leads $11M investment in Nigerian fintech Raenest](https://techcrunch.com/2025/02/11/qed-leads-11m-investment-in-nigerian-fintech-raenest/)
+- [Two senior partners are leaving Peak XV amid strategy shift](https://techcrunch.com/2025/02/10/two-senior-partners-are-leaving-peak-xv-amid-strategy-shift/)
 - [SpaceX launches 23 Starlink satellites to orbit from California &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-starlink-satellites-to-orbit-from-california-photos)
 - [Google changed the Gulf of Mexico to the Gulf of America on Maps](https://techcrunch.com/2025/02/10/google-changed-the-gulf-of-mexico-to-the-gulf-of-america-on-maps/)
 - [Zeta valued at $2B in new funding](https://techcrunch.com/2025/02/10/zeta-valued-at-2b-in-new-funding/)
-- [Apple and Google take down malicious mobile apps from their app stores](https://techcrunch.com/2025/02/10/apple-and-google-take-down-malicious-apps-from-their-app-stores/)
-- [Plaid working with Goldman Sachs on raising $300M to $400M in tender offer](https://techcrunch.com/2025/02/10/plaid-working-with-goldman-sachs-on-raising-300m-to-400m-in-tender-offer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
