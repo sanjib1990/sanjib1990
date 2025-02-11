@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch &#39;Captain America: Brave New World&#39;: Catch it in theaters, and later stream on Disney Plus](https://www.space.com/entertainment/space-movies-shows/entertainment/space-movies-shows/how-to-watch-captain-america-brave-new-world-catch-it-in-cinemas-and-later-stream-on-disney-plus)
 - [Klarna and Deel eye IPOs, and Stripe embraces crypto](https://techcrunch.com/2025/02/11/more-fintech-startups-are-planning-ipos-embracing-crypto/)
 - [Apple brings heart rate monitoring to Powerbeats Pro 2](https://techcrunch.com/2025/02/11/apple-brings-heart-rate-monitoring-to-powerbeats-pro-2/)
 - [OpenAI CEO Sam Altman calls Musk’s bid an attempt to ‘slow us down’](https://techcrunch.com/2025/02/11/openai-ceo-sam-altman-calls-musks-bid-an-attempt-to-slow-us-down/)
 - [Mysterious cosmic lights turn out to be 2 undiscovered supernova remnants](https://www.space.com/the-universe/stars/mysterious-cosmic-lights-turn-out-to-be-2-undiscovered-supernova-remnants)
-- [Stripe mulls employee shareholder sale at $85B-plus valuation](https://techcrunch.com/2025/02/11/stripe-mulls-employee-shareholder-sale-at-85b-plus-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
