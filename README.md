@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic CEO Dario Amodei calls the AI Action Summit a ‘missed opportunity’](https://techcrunch.com/2025/02/11/anthropic-ceo-dario-amodei-calls-the-ai-action-summit-a-missed-opportunity/)
-- [Voyantis aims to help companies figure out their customers’ worth](https://techcrunch.com/2025/02/11/voyantis-aims-to-help-companies-figure-out-their-customers-worth/)
-- [Workday launches a platform for enterprises to manage all of their AI agents in one place](https://techcrunch.com/2025/02/11/workday-launches-a-platform-for-enterprises-to-manage-all-of-their-ai-agents-in-one-place/)
-- [3D mood board and marketplace Mattoboard picks up $2M to launch AI visual search](https://techcrunch.com/2025/02/11/mattoboard-picks-up-2m-to-bring-ai-visual-search-to-its-3d-mood-board-for-designers/)
-- [Scientists alarmed as Rubin Observatory changes biography of astronomer Vera Rubin amid Trump&#39;s push to end DEI efforts](https://www.space.com/the-universe/earth/scientists-alarmed-as-rubin-observatory-changes-biography-of-astronomer-vera-rubin-amid-trumps-push-to-end-dei-efforts)
+- [Pinkfish helps enterprises build AI agents through natural language processing](https://techcrunch.com/2025/02/11/pinkfish-helps-enterprises-build-ai-agents-through-natural-language-processing/)
+- [Huge solar storm in May 2024 spawned 2 new radiation belts around Earth](https://www.space.com/the-universe/earth/huge-solar-storm-in-may-2024-spawned-2-new-radiation-belts-around-earth)
+- [YouTube AI updates include auto dubbing expansion, age ID tech, and more](https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/)
+- [Google leads $230M convertible note for Boston quantum computing startup QuEra](https://techcrunch.com/2025/02/11/google-leads-230m-convertible-note-for-boston-quantum-computing-startup-quera/)
+- [CISA election security officials placed on leave: report](https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
