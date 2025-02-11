@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best sci-fi comedies of all time](https://www.space.com/entertainment/space-movies-shows/best-sci-fi-comedies-of-all-time)
 - [Apple Maps plans to show ‘Gulf of America,’ following Google](https://techcrunch.com/2025/02/11/apple-maps-plans-to-show-gulf-of-america-following-google/)
 - [ChatGPT may not be as power-hungry as once assumed](https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/)
 - [NASA picks SpaceX to launch Pandora exoplanet mission](https://www.space.com/the-universe/exoplanets/nasa-picks-spacex-to-launch-pandora-exoplanet-mission)
 - [Amazon tests sending customers directly to brands’ websites when it doesn’t stock their products](https://techcrunch.com/2025/02/11/amazon-tests-sending-customers-directly-to-brands-websites-when-it-doesnt-stock-their-products/)
-- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
