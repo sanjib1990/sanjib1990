@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX rocket launches 21 Starlink satellites into orbit, then lands at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launches-21-starlink-satellites-into-orbit-then-lands-at-sea-video)
-- [Shopify took down Kanye’s swastika t-shirt shop, but another antisemitic storefront still operates](https://techcrunch.com/2025/02/11/shopify-took-down-kanyes-swastika-t-shirt-shop-but-another-antisemitic-storefront-still-operates/)
-- [Google says it removed cultural events from its calender last year](https://techcrunch.com/2025/02/11/google-says-it-removed-cultural-events-from-its-calender-in-mid-2024/)
-- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/)
-- [NASA HQ verbally orders employees to purge workspaces of LGBTQI+ symbols](https://www.space.com/space-exploration/nasa-verbally-orders-employees-to-purge-workspaces-of-lgbtqi-symbols)
+- [Apple Maps plans to show ‘Gulf of America,’ following Google](https://techcrunch.com/2025/02/11/apple-maps-plans-to-show-gulf-of-america-following-google/)
+- [ChatGPT may not be as power-hungry as once assumed](https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/)
+- [NASA picks SpaceX to launch Pandora exoplanet mission](https://www.space.com/the-universe/exoplanets/nasa-picks-spacex-to-launch-pandora-exoplanet-mission)
+- [Amazon tests sending customers directly to brands’ websites when it doesn’t stock their products](https://techcrunch.com/2025/02/11/amazon-tests-sending-customers-directly-to-brands-websites-when-it-doesnt-stock-their-products/)
+- [How to delete Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/11/how-to-delete-facebook-instagram-and-threads/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
