@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Another person targeted by Paragon spyware comes forward](https://techcrunch.com/2025/02/11/another-person-targeted-by-paragon-spyware-comes-forward/)
+- [CISA election security officials placed on leave, DHS confirms](https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/)
 - [Apple reportedly partners with Alibaba after rejecting DeepSeek for China AI launch](https://techcrunch.com/2025/02/11/apple-reportedly-partners-with-alibaba-after-rejecting-deepseek-for-china-ai-launch/)
 - [Mast Reforestation hatched a plan to restore wildfire-ravaged forests. Investors took notice.](https://techcrunch.com/2025/02/11/mast-reforestation-hatched-a-plan-to-restore-wildfire-ravaged-forests-investors-took-notice/)
 - [BuzzFeed is taking on Instagram, TikTok, X with a new social platform designed to spread ‘joy’](https://techcrunch.com/2025/02/11/buzzfeed-is-taking-on-instagram-tiktok-x-with-a-new-social-platform-designed-to-spread-joy/)
-- [There was nearly 1 rocket launch attempt every 34 hours in 2024 — this year will be even busier](https://www.space.com/space-exploration/missions/there-was-nearly-1-rocket-launch-attempt-every-34-hours-in-2024-this-year-will-be-even-busier)
-- [BYD to offer Tesla-like driver assist, even on its cheapest models](https://techcrunch.com/2025/02/11/byd-to-offer-tesla-like-driver-assist-even-on-its-cheapest-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
