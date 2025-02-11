@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to watch &#39;Captain America: Brave New World&#39;: Catch it in theaters, and later stream on Disney Plus](https://www.space.com/entertainment/space-movies-shows/entertainment/space-movies-shows/how-to-watch-captain-america-brave-new-world-catch-it-in-cinemas-and-later-stream-on-disney-plus)
-- [Klarna and Deel eye IPOs, and Stripe embraces crypto](https://techcrunch.com/2025/02/11/more-fintech-startups-are-planning-ipos-embracing-crypto/)
-- [Apple brings heart rate monitoring to Powerbeats Pro 2](https://techcrunch.com/2025/02/11/apple-brings-heart-rate-monitoring-to-powerbeats-pro-2/)
-- [OpenAI CEO Sam Altman calls Musk’s bid an attempt to ‘slow us down’](https://techcrunch.com/2025/02/11/openai-ceo-sam-altman-calls-musks-bid-an-attempt-to-slow-us-down/)
-- [Mysterious cosmic lights turn out to be 2 undiscovered supernova remnants](https://www.space.com/the-universe/stars/mysterious-cosmic-lights-turn-out-to-be-2-undiscovered-supernova-remnants)
+- [Google says it removed cultural events from its calender last year](https://techcrunch.com/2025/02/11/google-says-it-removed-cultural-events-from-its-calender-in-mid-2024/)
+- [Anduril takes control of Microsoft’s $22B VR military headset program](https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/)
+- [NASA HQ verbally orders employees to purge workspaces of LGBTQI+ symbols](https://www.space.com/space-exploration/nasa-verbally-orders-employees-to-purge-workspaces-of-lgbtqi-symbols)
+- [Tumblr to join the fediverse after WordPress migration completes](https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/)
+- [How Musk’s $97.4B bid could gum up OpenAI’s for-profit conversion](https://techcrunch.com/2025/02/11/how-musks-97-4b-bid-could-gum-up-openais-for-profit-conversion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
