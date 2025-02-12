@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Las Vegas just got a Netflix restaurant](https://techcrunch.com/2025/02/12/las-vegas-just-got-a-netflix-restaurant/)
-- [Security compliance firm Drata acquires SafeBase for $250M](https://techcrunch.com/2025/02/12/security-compliance-firm-drata-acquires-safebase-for-250m/)
-- [VC Sheel Mohnot talks about Twitter fame, fintech, and the truth about AI startups](https://techcrunch.com/2025/02/12/vc-sheel-mohnot-talks-about-twitter-fame-fintech-and-the-truth-about-ai-startups/)
-- [Win a chance to see a SpaceX rocket launch thanks to Bethesda, creators of &#39;Starfield&#39;](https://www.space.com/entertainment/win-a-chance-to-see-a-spacex-rocket-launch-thanks-to-bethesda-creators-of-starfield)
-- [Anthropic CEO Dario Amodei warns of ‘race’ to understand AI as it becomes more powerful](https://techcrunch.com/2025/02/12/anthropic-ceo-dario-amodei-says-were-in-a-race-to-understand-ai-as-it-becomes-more-powerful/)
+- [NASA’s Webb Reveals the Ancient Surfaces of Trans-Neptunian Objects](https://blogs.nasa.gov/webb/2025/02/12/nasas-webb-reveals-the-ancient-surfaces-of-trans-neptunian-objects/)
+- [Apple is reportedly exploring humanoid robots](https://techcrunch.com/2025/02/12/apple-is-reportedly-exploring-humanoid-robots/)
+- [Google expands Family Link parental controls with screen time tools, approved contacts, and more](https://techcrunch.com/2025/02/12/google-expands-family-link-parental-controls-with-screen-time-tools-approved-contacts-and-more/)
+- [May Mobility launches its first driverless commercial ride-hail service](https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/)
+- [Report: Meta in talks to acquire AI chip firm FuriosaAI](https://techcrunch.com/2025/02/12/report-meta-in-talks-to-acquire-ai-chip-firm-furiosaai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
