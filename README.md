@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s TV app, TV+ streaming service, and MLS Season Pass launches on Android](https://techcrunch.com/2025/02/12/apples-tv-app-tv-streaming-service-and-mls-season-pass-launches-on-android/)
+- [Gamma rays create Red Hulk in Captain America: Brave New World, but how do they work in the real world?](https://www.space.com/captain-america-brave-new-world-gamma-rays-red-hulk)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/02/12/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [OpenAI cancels its o3 AI model in favor of a ‘unified’ next-gen release](https://techcrunch.com/2025/02/12/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release/)
 - [NASA’s Webb Reveals the Ancient Surfaces of Trans-Neptunian Objects](https://blogs.nasa.gov/webb/2025/02/12/nasas-webb-reveals-the-ancient-surfaces-of-trans-neptunian-objects/)
-- [Apple is reportedly exploring humanoid robots](https://techcrunch.com/2025/02/12/apple-is-reportedly-exploring-humanoid-robots/)
-- [Google expands Family Link parental controls with screen time tools, approved contacts, and more](https://techcrunch.com/2025/02/12/google-expands-family-link-parental-controls-with-screen-time-tools-approved-contacts-and-more/)
-- [May Mobility launches its first driverless commercial ride-hail service](https://techcrunch.com/2025/02/12/may-mobility-launches-its-first-driverless-commercial-ride-hail-service/)
-- [Report: Meta in talks to acquire AI chip firm FuriosaAI](https://techcrunch.com/2025/02/12/report-meta-in-talks-to-acquire-ai-chip-firm-furiosaai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
