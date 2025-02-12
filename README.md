@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SGNL snags $30M for a new take on ID security based on zero-standing privileges](https://techcrunch.com/2025/02/12/sgnl-snags-30m-for-a-new-take-on-id-security-based-on-zero-standing-privileges/)
+- [February&#39;s full moon shines bright tonight. Here&#39;s what to expect from the Snow Moon](https://www.space.com/the-universe/moon/februarys-full-moon-shines-bright-tonight-heres-what-to-expect-from-the-snow-moon-2025)
+- [Aurora Alert: Geomagnetic storm could bring northern lights as far south as Michigan and Maine this week](https://www.space.com/stargazing/aurora-borealis/aurora-alert-geomagnetic-storm-could-bring-northern-lights-as-far-south-as-michigan-and-maine-this-week)
+- [SpotDraft taps AI to help streamline contract management](https://techcrunch.com/2025/02/12/spotdraft-taps-ai-to-help-streamline-contract-management/)
 - [AI-driven manufacturing database Keychain raises $5M for European push](https://techcrunch.com/2025/02/12/ai-driven-manufacturing-database-keychain-raises-5m-for-european-push/)
-- [Adobe launches subscriptions for Firefly AI](https://techcrunch.com/2025/02/12/adobe-launches-firefly-ai-subscriptions/)
-- [SpaceX rocket launch spawns dazzling &#39;space jellyfish&#39; in evening sky &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos)
-- [Save big on one of the best star projectors you can buy, the Pococo Galaxy Star Projector](https://www.space.com/stargazing/astronomy-kit/pococo-galaxy-star-projector-deal-lowest-price-on-amazon-this-year)
-- [Lanch bags $27M for a social media-skewed take on fast food](https://techcrunch.com/2025/02/12/lanch-bags-27m-for-a-social-media-skewed-take-on-fast-food/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
