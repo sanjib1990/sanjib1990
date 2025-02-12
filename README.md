@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-driven manufacturing database Keychain raises $5M for European push](https://techcrunch.com/2025/02/12/ai-driven-manufacturing-database-keychain-raises-5m-for-european-push/)
+- [Adobe launches subscriptions for Firefly AI](https://techcrunch.com/2025/02/12/adobe-launches-firefly-ai-subscriptions/)
+- [SpaceX rocket launch spawns dazzling &#39;space jellyfish&#39; in evening sky &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-spawns-dazzling-space-jellyfish-in-evening-sky-photos)
+- [Save big on one of the best star projectors you can buy, the Pococo Galaxy Star Projector](https://www.space.com/stargazing/astronomy-kit/pococo-galaxy-star-projector-deal-lowest-price-on-amazon-this-year)
 - [Lanch bags $27M for a social media-skewed take on fast food](https://techcrunch.com/2025/02/12/lanch-bags-27m-for-a-social-media-skewed-take-on-fast-food/)
-- [Chestnut Carbon gets $160M to turn old farms into forests](https://techcrunch.com/2025/02/12/chestnut-carbon-gets-160m-to-turn-old-farms-into-forests/)
-- [EU abandons ePrivacy, AI liability reforms as bloc shifts focus to AI competitiveness](https://techcrunch.com/2025/02/12/eu-abandons-eprivacy-reform-as-bloc-shifts-focus-to-competitiveness-and-fostering-data-access-for-ai/)
-- [Lucidity snags $21M to help enterprises optimize their cloud storage](https://techcrunch.com/2025/02/12/lucidity-snags-21m-to-help-enterprises-optimize-their-cloud-storage/)
-- [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
