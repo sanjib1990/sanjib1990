@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lanch bags $27M for a social media-skewed take on fast food](https://techcrunch.com/2025/02/12/lanch-bags-27m-for-a-social-media-skewed-take-on-fast-food/)
+- [Chestnut Carbon gets $160M to turn old farms into forests](https://techcrunch.com/2025/02/12/chestnut-carbon-gets-160m-to-turn-old-farms-into-forests/)
+- [EU abandons ePrivacy, AI liability reforms as bloc shifts focus to AI competitiveness](https://techcrunch.com/2025/02/12/eu-abandons-eprivacy-reform-as-bloc-shifts-focus-to-competitiveness-and-fostering-data-access-for-ai/)
 - [Lucidity snags $21M to help enterprises optimize their cloud storage](https://techcrunch.com/2025/02/12/lucidity-snags-21m-to-help-enterprises-optimize-their-cloud-storage/)
 - [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/)
-- [A woman in China sued Tesla after complaining of faulty brakes — now she’s paying Tesla $23K](https://techcrunch.com/2025/02/12/a-woman-in-china-sued-tesla-after-complaining-of-faulty-brakes-now-shes-paying-tesla-23k/)
-- [Scientist image 3-million-light-year-long &#39;cosmic web&#39; ensnaring 2 galaxies for 1st time](https://www.space.com/cosmic-web-two-galaxies-image)
-- [Gravitational waves could turn colliding neutron stars into &#39;cosmic tuning forks&#39;](https://www.space.com/the-universe/gravitational-waves-neutron-stars-cosmic-tuning-forks)
 <!-- BLOG-POST-LIST:END -->
 
 ---
