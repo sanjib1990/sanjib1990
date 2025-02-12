@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lucidity snags $21M to help enterprises optimize their cloud storage](https://techcrunch.com/2025/02/12/lucidity-snags-21m-to-help-enterprises-optimize-their-cloud-storage/)
+- [No-code app builder Softr expands beyond Airtable databases](https://techcrunch.com/2025/02/12/no-code-app-builder-softr-expands-beyond-airtable-databases/)
+- [A woman in China sued Tesla after complaining of faulty brakes — now she’s paying Tesla $23K](https://techcrunch.com/2025/02/12/a-woman-in-china-sued-tesla-after-complaining-of-faulty-brakes-now-shes-paying-tesla-23k/)
 - [Scientist image 3-million-light-year-long &#39;cosmic web&#39; ensnaring 2 galaxies for 1st time](https://www.space.com/cosmic-web-two-galaxies-image)
 - [Gravitational waves could turn colliding neutron stars into &#39;cosmic tuning forks&#39;](https://www.space.com/the-universe/gravitational-waves-neutron-stars-cosmic-tuning-forks)
-- [Google Whisk, an image remixing tool, is now available in 100+ countries](https://techcrunch.com/2025/02/11/google-whisk-an-image-remixing-tool-is-now-available-in-100-countries/)
-- [Tabby doubles valuation to $3.3B in $160M funding as it looks beyond BNPL and plans IPO](https://techcrunch.com/2025/02/11/tabby-lands-160m-at-a-3-3b-valuation-as-it-expands-beyond-bnpl/)
-- [Shopify took down Kanye’s swastika T-shirt shop, but another antisemitic storefront still operates](https://techcrunch.com/2025/02/11/shopify-took-down-kanyes-swastika-t-shirt-shop-but-another-antisemitic-storefront-still-operates/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
