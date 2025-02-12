@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Whisk, an image remixing tool, is now available in 100+ countries](https://techcrunch.com/2025/02/11/google-whisk-an-image-remixing-tool-is-now-available-in-100-countries/)
 - [Tabby doubles valuation to $3.3B in $160M funding as it looks beyond BNPL and plans IPO](https://techcrunch.com/2025/02/11/tabby-lands-160m-at-a-3-3b-valuation-as-it-expands-beyond-bnpl/)
 - [Shopify took down Kanye’s swastika T-shirt shop, but another antisemitic storefront still operates](https://techcrunch.com/2025/02/11/shopify-took-down-kanyes-swastika-t-shirt-shop-but-another-antisemitic-storefront-still-operates/)
 - [NASA moves up return date for Boeing Starliner astronauts after swapping SpaceX Dragon spacecraft](https://www.space.com/space-exploration/boeing-starliner-astronauts-returning-earlier-than-expected-nasa-swaps-spacecraft-to-accelerate-spacex-crew-10-relief-mission-to-iss)
 - [Federal workers sue Elon Musk and DOGE to cut off data access](https://techcrunch.com/2025/02/11/federal-workers-sue-elon-musk-and-doge-to-cut-off-data-access/)
-- [Founders Fund is about to close another $3B fund](https://techcrunch.com/2025/02/11/founders-fund-is-about-to-close-another-3b-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
