@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump picks Apple exec to lead transportation safety agency](https://techcrunch.com/2025/02/12/trump-picks-apple-exec-to-lead-transportation-safety-agency/)
-- [Scientists detect highest-energy ghost particle ever seen — where did it come from?](https://www.space.com/highest-energy-ghost-particle-neutrino-12-suspect-blazars)
-- [Suger helps companies list and scale up on cloud marketplaces](https://techcrunch.com/2025/02/12/suger-helps-companies-list-and-scale-up-on-cloud-marketplaces/)
-- [SGNL snags $30M for a new take on ID security based on zero-standing privileges](https://techcrunch.com/2025/02/12/sgnl-snags-30m-for-a-new-take-on-id-security-based-on-zero-standing-privileges/)
-- [February&#39;s full moon shines bright tonight. Here&#39;s what to expect from the Snow Moon](https://www.space.com/the-universe/moon/februarys-full-moon-shines-bright-tonight-heres-what-to-expect-from-the-snow-moon-2025)
+- [Las Vegas just got a Netflix restaurant](https://techcrunch.com/2025/02/12/las-vegas-just-got-a-netflix-restaurant/)
+- [Security compliance firm Drata acquires SafeBase for $250M](https://techcrunch.com/2025/02/12/security-compliance-firm-drata-acquires-safebase-for-250m/)
+- [VC Sheel Mohnot talks about Twitter fame, fintech, and the truth about AI startups](https://techcrunch.com/2025/02/12/vc-sheel-mohnot-talks-about-twitter-fame-fintech-and-the-truth-about-ai-startups/)
+- [Win a chance to see a SpaceX rocket launch thanks to Bethesda, creators of &#39;Starfield&#39;](https://www.space.com/entertainment/win-a-chance-to-see-a-spacex-rocket-launch-thanks-to-bethesda-creators-of-starfield)
+- [Anthropic CEO Dario Amodei warns of ‘race’ to understand AI as it becomes more powerful](https://techcrunch.com/2025/02/12/anthropic-ceo-dario-amodei-says-were-in-a-race-to-understand-ai-as-it-becomes-more-powerful/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
