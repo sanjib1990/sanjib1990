@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Starliner astronauts returning earlier than expected — NASA swaps spacecraft to accelerate SpaceX Crew-10 relief mission to ISS](https://www.space.com/space-exploration/boeing-starliner-astronauts-returning-earlier-than-expected-nasa-swaps-spacecraft-to-accelerate-spacex-crew-10-relief-mission-to-iss)
+- [Federal workers sue Elon Musk and DOGE to cut off data access](https://techcrunch.com/2025/02/11/federal-workers-sue-elon-musk-and-doge-to-cut-off-data-access/)
+- [Founders Fund is about to close another $3B fund](https://techcrunch.com/2025/02/11/founders-fund-is-about-to-close-another-3b-fund/)
 - [Best sci-fi comedies of all time](https://www.space.com/entertainment/space-movies-shows/best-sci-fi-comedies-of-all-time)
 - [Apple Maps plans to show ‘Gulf of America,’ following Google](https://techcrunch.com/2025/02/11/apple-maps-plans-to-show-gulf-of-america-following-google/)
-- [ChatGPT may not be as power-hungry as once assumed](https://techcrunch.com/2025/02/11/chatgpt-may-not-be-as-power-hungry-as-once-assumed/)
-- [NASA picks SpaceX to launch Pandora exoplanet mission](https://www.space.com/the-universe/exoplanets/nasa-picks-spacex-to-launch-pandora-exoplanet-mission)
-- [Amazon tests sending customers directly to brands’ websites when it doesn’t stock their products](https://techcrunch.com/2025/02/11/amazon-tests-sending-customers-directly-to-brands-websites-when-it-doesnt-stock-their-products/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
