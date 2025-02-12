@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VC industry reacts to Trump nominating a16z’s Brian Quintez for regulatory role](https://techcrunch.com/2025/02/12/vc-industry-reacts-to-trump-nominating-a16zs-brian-quintez-for-regulatory-role/)
+- [Reddit hints at expanded AI-powered search](https://techcrunch.com/2025/02/12/reddit-hints-at-expanded-ai-powered-search/)
+- [VC industry reacts to Trump nominating a16z’s Brian Quintenz for regulatory role](https://techcrunch.com/2025/02/12/vc-industry-reacts-to-trump-nominating-a16zs-brian-quintez-for-regulatory-role/)
 - [Tiny plasma jets on the sun drive the elusive solar wind, Europe&#39;s Solar Orbiter reveals](https://www.space.com/the-universe/sun/tiny-plasma-jets-on-the-sun-drive-the-elusive-solar-wind-europes-solar-orbiter-reveals)
 - [OpenAI pledges that its models won’t censor viewpoints](https://techcrunch.com/2025/02/12/openai-pledges-that-its-models-wont-censor-viewpoints/)
 - [Elizabeth Holmes says from prison she’s ‘committed’ to ‘making healthcare solutions available to everyone’](https://techcrunch.com/2025/02/12/elizabeth-holmes-says-from-prison-shes-committed-to-making-healthcare-solutions-available-to-everyone/)
-- [Apple’s TV app, TV+ streaming service, and MLS Season Pass launches on Android](https://techcrunch.com/2025/02/12/apples-tv-app-tv-streaming-service-and-mls-season-pass-launches-on-android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
