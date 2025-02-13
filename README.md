@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spyware maker caught distributing malicious Android apps for years](https://techcrunch.com/2025/02/13/spyware-maker-caught-distributing-malicious-android-apps-for-years/)
-- [YouTube Shorts adds Veo 2 so creators can make gen AI videos](https://techcrunch.com/2025/02/13/youtube-shorts-adds-veo-2-so-creators-can-make-gen-ai-videos/)
-- [EnCharge raises $100M+ to accelerate AI using analog chips](https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/)
-- [&#39;It was a miracle.&#39; Amazing tales of dead spacecraft that came back to life](https://www.space.com/space-exploration/it-was-a-miracle-amazing-tales-of-dead-spacecraft-that-came-back-to-life)
-- [Data center tweaks could unlock 76 GW of new power capacity in the U.S.](https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/)
+- [Startup Battlefield 200: The competition starts on the waitlist](https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/)
+- [EU’s Disinformation Code moves closer to becoming DSA benchmark](https://techcrunch.com/2025/02/13/eus-disinformation-code-moves-closer-to-becoming-dsa-benchmark/)
+- [Honda’s $60B merger with Nissan falls apart](https://techcrunch.com/2025/02/13/hondas-60b-merger-with-nissan-falls-apart/)
+- [Publishers sue AI startup Cohere over alleged copyright infringement](https://techcrunch.com/2025/02/13/publishers-sue-ai-startup-cohere-over-alleged-copyright-infringement/)
+- [Germany’s Helsing doubles down on drones for Ukraine, scales up manufacturing](https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
