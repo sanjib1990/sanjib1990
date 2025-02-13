@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Total lunar eclipse brings a Blood Moon to North America next month. Here&#39;s how to see it](https://www.space.com/stargazing/eclipses/total-lunar-eclipse-brings-a-blood-moon-to-north-america-next-month-heres-how-to-see-it)
-- [China’s Salt Typhoon hackers continue to breach telecom firms despite US sanctions](https://techcrunch.com/2025/02/13/chinas-salt-typhoon-hackers-continue-to-breach-telecom-firms-despite-us-sanctions/)
-- [February&#39;s Full Snow Moon dazzles in a flurry of stunning photos from around the world](https://www.space.com/the-universe/moon/february-full-snow-moon-2025-dazzles-in-a-flurry-of-stunning-photos-from-around-the-world)
-- [Elon Musk will withdraw bid for OpenAI’s nonprofit if its board agrees to terms](https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/)
-- [Coinbase eyes re-entry to India](https://techcrunch.com/2025/02/12/coinbase-eyes-re-entry-to-india/)
+- [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/)
+- [Mercedes-AMG Petronas F1 team steers toward nature-based carbon credits](https://techcrunch.com/2025/02/13/mercedes-amg-petronas-f1-team-steers-toward-nature-based-carbon-credits/)
+- [Telegram releases improved sticker search and video consumption features](https://techcrunch.com/2025/02/13/telegram-releases-improved-sticker-search-and-video-consumption-features/)
+- [Barcelona-based spyware startup Variston reportedly shuts down](https://techcrunch.com/2025/02/13/barcelona-based-spyware-startup-variston-reportedly-shuts-down/)
+- [Docker’s new CEO is former Oracle Cloud exec Don Johnson](https://techcrunch.com/2025/02/13/former-oracle-cloud-exec-don-johnson-takes-over-as-dockers-new-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
