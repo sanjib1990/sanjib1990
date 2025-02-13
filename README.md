@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve removes Steam game that contained malware](https://techcrunch.com/2025/02/13/valve-removes-steam-game-that-contained-malware/)
+- [I test and review Lego sets for a living and Lego&#39;s 25th Anniversary R2-D2 is now one of the lowest prices I&#39;ve ever seen it](https://www.space.com/entertainment/lego-r2d2-25th-anniversary-18-percent-off)
+- [Alibaba confirms Apple deal bringing AI features to iPhones in China](https://techcrunch.com/2025/02/13/alibaba-confirms-apple-deal-bringing-ai-features-to-iphones-in-china/)
 - [Startup Battlefield 200: The competition starts on the waitlist](https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/)
 - [EU’s Disinformation Code moves closer to becoming DSA benchmark](https://techcrunch.com/2025/02/13/eus-disinformation-code-moves-closer-to-becoming-dsa-benchmark/)
-- [Honda’s $60B merger with Nissan falls apart](https://techcrunch.com/2025/02/13/hondas-60b-merger-with-nissan-falls-apart/)
-- [Publishers sue AI startup Cohere over alleged copyright infringement](https://techcrunch.com/2025/02/13/publishers-sue-ai-startup-cohere-over-alleged-copyright-infringement/)
-- [Germany’s Helsing doubles down on drones for Ukraine, scales up manufacturing](https://techcrunch.com/2025/02/13/germanys-helsing-doubles-down-on-drones-for-ukraine-scales-up-manufacturing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
