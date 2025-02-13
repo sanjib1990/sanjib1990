@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Perseverance rover&#39;s Mars samples show traces of ancient water, but NASA needs them on Earth to seek signs of life](https://www.space.com/perseverance-mars-rover-samples-ancient-water-return-to-earth-signs-of-life)
+- [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/)
 - [Another robotaxi operation heads to Texas and Archer scores $300M for its defense mission](https://techcrunch.com/2025/02/13/another-robotaxi-operation-heads-to-texas-and-archer-scores-300m-for-its-defense-mission/)
 - [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/)
 - [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/)
-- [Seagate acquires Intevac, which makes equipment for hard disk drives, for $119M](https://techcrunch.com/2025/02/13/seagate-acquires-intevac-which-makes-equipment-for-hard-disk-drives-for-119m/)
-- [Moon or Mars? Why not both, acting NASA head Janet Petro says](https://www.space.com/the-universe/moon/moon-or-mars-why-not-both-acting-nasa-head-janet-petro-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
