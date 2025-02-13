@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Perseverance rover&#39;s Mars samples show traces of ancient water, but NASA needs them on Earth to seek signs of life](https://www.space.com/perseverance-mars-rover-samples-ancient-water-return-to-earth-signs-of-life)
-- [Phase raises $13M to speed up the UX design process with its no-code platform](https://techcrunch.com/2025/02/13/phase-raises-13m-launches-its-no-code-platform-out-of-beta-to-challenge-figma/)
-- [Another robotaxi operation heads to Texas and Archer scores $300M for its defense mission](https://techcrunch.com/2025/02/13/another-robotaxi-operation-heads-to-texas-and-archer-scores-300m-for-its-defense-mission/)
-- [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/)
-- [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/)
+- [Elon Musk’s full offer letter to buy OpenAI reveals five key details](https://techcrunch.com/2025/02/13/eon-musks-full-offer-letter-to-buy-openai-reveals-five-key-details/)
+- [Jeff Bezos&#39; Blue Origin targeting late spring for 2nd launch of powerful New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-targeting-late-spring-for-2nd-launch-of-powerful-new-glenn-rocket)
+- [Japan&#39;s Resilience lunar lander prepares for 1st swing around the moon](https://www.space.com/ispace-resilience-moon-lander-1st-lunar-flyby)
+- [Tim Cook teases Apple product news for February 19 — likely the iPhone SE](https://techcrunch.com/2025/02/13/tim-cook-teases-apple-product-news-for-february-19-likely-the-iphone-se/)
+- [Anthropic’s next major AI model could arrive within weeks](https://techcrunch.com/2025/02/13/anthropics-next-major-ai-model-could-arrive-within-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
