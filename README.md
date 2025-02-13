@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avride launches sidewalk delivery bots on Uber Eats in Jersey City](https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/)
+- [Sophos lays off 6% of workforce following Secureworks acquisition](https://techcrunch.com/2025/02/13/sophos-lays-off-6-of-workforce-following-secureworks-acquisition/)
+- [Apple’s app tracking privacy framework could fall foul of German antitrust rules](https://techcrunch.com/2025/02/13/apples-app-tracking-privacy-framework-could-fall-foul-of-german-antitrust-rules/)
 - [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/)
 - [Mercedes-AMG Petronas F1 team steers toward nature-based carbon credits](https://techcrunch.com/2025/02/13/mercedes-amg-petronas-f1-team-steers-toward-nature-based-carbon-credits/)
-- [Telegram releases improved sticker search and video consumption features](https://techcrunch.com/2025/02/13/telegram-releases-improved-sticker-search-and-video-consumption-features/)
-- [Barcelona-based spyware startup Variston reportedly shuts down](https://techcrunch.com/2025/02/13/barcelona-based-spyware-startup-variston-reportedly-shuts-down/)
-- [Docker’s new CEO is former Oracle Cloud exec Don Johnson](https://techcrunch.com/2025/02/13/former-oracle-cloud-exec-don-johnson-takes-over-as-dockers-new-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
