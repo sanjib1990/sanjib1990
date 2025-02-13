@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coinbase eyes re-entry to India](https://techcrunch.com/2025/02/12/coinbase-eyes-re-entry-to-india/)
 - [Getaround abruptly shuts down US car-sharing operations](https://techcrunch.com/2025/02/12/getaround-abruptly-shuts-down-us-car-sharing-operations/)
 - [NASA denies setting &#39;new bans&#39; for employees amid reports of removing LGBTQI+ symbols from offices](https://www.space.com/the-universe/earth/nasa-denies-setting-new-bans-for-employees-amid-reports-of-removing-lgbtqi-symbols-from-offices)
 - [US pharma giant Merck backs healthcare marketplace HD in Southeast Asia](https://techcrunch.com/2025/02/12/merck-backs-healthcare-marketplace-hd-in-southeast-asia/)
 - [Ulu Ventures sticks to its diversity strategy, raises $208M](https://techcrunch.com/2025/02/12/ulu-ventures-sticks-to-its-diversity-strategy-raises-208m/)
-- [Elon Musk’s X will pay Trump $10M to settle lawsuit over 2021 ban](https://techcrunch.com/2025/02/12/elon-musks-x-will-pay-trump-10m-to-settle-lawsuit-over-2021-ban/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
