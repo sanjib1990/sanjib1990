@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US pharma giant Merck backs healthcare marketplace HD in Southeast Asia](https://techcrunch.com/2025/02/12/merck-backs-healthcare-marketplace-hd-in-southeast-asia/)
 - [Ulu Ventures sticks to its diversity strategy, raises $208M](https://techcrunch.com/2025/02/12/ulu-ventures-sticks-to-its-diversity-strategy-raises-208m/)
 - [Elon Musk’s X will pay Trump $10M to settle lawsuit over 2021 ban](https://techcrunch.com/2025/02/12/elon-musks-x-will-pay-trump-10m-to-settle-lawsuit-over-2021-ban/)
 - [Founded by DeepMind alumnus, Latent Labs launches with $50M to make biology programmable](https://techcrunch.com/2025/02/12/founded-by-deepmind-alumnus-latent-labs-launches-with-50m-to-make-biology-programmable/)
 - [Reddit hints at expanded AI-powered search](https://techcrunch.com/2025/02/12/reddit-hints-at-expanded-ai-powered-search/)
-- [VC industry reacts to Trump nominating a16z’s Brian Quintenz for regulatory role](https://techcrunch.com/2025/02/12/vc-industry-reacts-to-trump-nominating-a16zs-brian-quintez-for-regulatory-role/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
