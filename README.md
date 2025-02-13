@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China’s Salt Typhoon hackers continue to breach telecom firms despite US sanctions](https://techcrunch.com/2025/02/13/chinas-salt-typhoon-hackers-continue-to-breach-telecom-firms-despite-us-sanctions/)
+- [February&#39;s Full Snow Moon dazzles in a flurry of stunning photos from around the world](https://www.space.com/the-universe/moon/february-full-snow-moon-2025-dazzles-in-a-flurry-of-stunning-photos-from-around-the-world)
 - [Elon Musk will withdraw bid for OpenAI’s nonprofit if its board agrees to terms](https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/)
 - [Coinbase eyes re-entry to India](https://techcrunch.com/2025/02/12/coinbase-eyes-re-entry-to-india/)
 - [Getaround abruptly shuts down US car-sharing operations](https://techcrunch.com/2025/02/12/getaround-abruptly-shuts-down-us-car-sharing-operations/)
-- [NASA denies setting &#39;new bans&#39; for employees amid reports of removing LGBTQI+ symbols from offices](https://www.space.com/the-universe/earth/nasa-denies-setting-new-bans-for-employees-amid-reports-of-removing-lgbtqi-symbols-from-offices)
-- [US pharma giant Merck backs healthcare marketplace HD in Southeast Asia](https://techcrunch.com/2025/02/12/merck-backs-healthcare-marketplace-hd-in-southeast-asia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
