@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX test-fires Starship megarocket and Super Heavy booster ahead of next launch &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-megarocket-and-super-heavy-booster-ahead-of-next-launch-video-photos)
+- [Meta CTO says staff should quit if they don’t like Meta’s new policies](https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/)
 - [Sony&#39;s latest State of Play highlights three incredible sci-fi games coming to PlayStation 5](https://www.space.com/sony-state-of-play-three-incredible-sci-fi-games-coming-to-playstation-5)
 - [Google Gemini now brings receipts to your AI chats](https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/)
 - [Arm is launching its own chip this year with Meta as a customer](https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/)
-- [OpenAI removes certain content warnings from ChatGPT](https://techcrunch.com/2025/02/13/openai-removes-certain-content-warnings-from-chatgpt/)
-- [Elon Musk’s full offer letter to buy OpenAI reveals five key details](https://techcrunch.com/2025/02/13/eon-musks-full-offer-letter-to-buy-openai-reveals-five-key-details/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
