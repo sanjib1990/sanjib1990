@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spyware maker caught distributing malicious Android apps for years](https://techcrunch.com/2025/02/13/spyware-maker-caught-distributing-malicious-android-apps-for-years/)
+- [YouTube Shorts adds Veo 2 so creators can make gen AI videos](https://techcrunch.com/2025/02/13/youtube-shorts-adds-veo-2-so-creators-can-make-gen-ai-videos/)
+- [EnCharge raises $100M+ to accelerate AI using analog chips](https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/)
+- [&#39;It was a miracle.&#39; Amazing tales of dead spacecraft that came back to life](https://www.space.com/space-exploration/it-was-a-miracle-amazing-tales-of-dead-spacecraft-that-came-back-to-life)
 - [Data center tweaks could unlock 76 GW of new power capacity in the U.S.](https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/)
-- [&#39;Iridescent&#39; clouds on Mars captured in Martian twilight in stunning NASA rover images &lpar;video&rpar;](https://www.space.com/the-universe/mars/iridescent-clouds-on-mars-captured-in-martian-twilight-in-stunning-nasa-rover-images-video)
-- [CyberArk snaps up Zilla Security for up to $175M](https://techcrunch.com/2025/02/13/cyberark-snaps-up-zilla-security-for-up-to-175m/)
-- [Avride launches sidewalk delivery bots on Uber Eats in Jersey City](https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/)
-- [Sophos lays off 6% of workforce following Secureworks acquisition](https://techcrunch.com/2025/02/13/sophos-lays-off-6-of-workforce-following-secureworks-acquisition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
