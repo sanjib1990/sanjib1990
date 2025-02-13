@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data center tweaks could unlock 76 GW of new power capacity in the U.S.](https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/)
+- [&#39;Iridescent&#39; clouds on Mars captured in Martian twilight in stunning NASA rover images &lpar;video&rpar;](https://www.space.com/the-universe/mars/iridescent-clouds-on-mars-captured-in-martian-twilight-in-stunning-nasa-rover-images-video)
+- [CyberArk snaps up Zilla Security for up to $175M](https://techcrunch.com/2025/02/13/cyberark-snaps-up-zilla-security-for-up-to-175m/)
 - [Avride launches sidewalk delivery bots on Uber Eats in Jersey City](https://techcrunch.com/2025/02/13/avride-launches-sidewalk-delivery-bots-on-uber-eats-in-jersey-city/)
 - [Sophos lays off 6% of workforce following Secureworks acquisition](https://techcrunch.com/2025/02/13/sophos-lays-off-6-of-workforce-following-secureworks-acquisition/)
-- [Apple’s app tracking privacy framework could fall foul of German antitrust rules](https://techcrunch.com/2025/02/13/apples-app-tracking-privacy-framework-could-fall-foul-of-german-antitrust-rules/)
-- [Apptronik, which makes humanoid robots, raises $350M as category heats up](https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/)
-- [Mercedes-AMG Petronas F1 team steers toward nature-based carbon credits](https://techcrunch.com/2025/02/13/mercedes-amg-petronas-f1-team-steers-toward-nature-based-carbon-credits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
