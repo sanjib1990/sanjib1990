@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve removes Steam game that contained malware](https://techcrunch.com/2025/02/13/valve-removes-steam-game-that-contained-malware/)
-- [I test and review Lego sets for a living and Lego&#39;s 25th Anniversary R2-D2 is now one of the lowest prices I&#39;ve ever seen it](https://www.space.com/entertainment/lego-r2d2-25th-anniversary-18-percent-off)
-- [Alibaba confirms Apple deal bringing AI features to iPhones in China](https://techcrunch.com/2025/02/13/alibaba-confirms-apple-deal-bringing-ai-features-to-iphones-in-china/)
-- [Startup Battlefield 200: The competition starts on the waitlist](https://techcrunch.com/2025/02/13/startup-battlefield-200-the-competition-starts-on-the-waitlist/)
-- [EU’s Disinformation Code moves closer to becoming DSA benchmark](https://techcrunch.com/2025/02/13/eus-disinformation-code-moves-closer-to-becoming-dsa-benchmark/)
+- [Another robotaxi operation heads to Texas and Archer scores $300M for its defense mission](https://techcrunch.com/2025/02/13/another-robotaxi-operation-heads-to-texas-and-archer-scores-300m-for-its-defense-mission/)
+- [Tofu is building an omni-channel marketing platform for enterprises](https://techcrunch.com/2025/02/13/tofu-is-building-a-omni-channel-marketing-platform-for-enterprises/)
+- [OpenAI scrubs diversity commitment web page from its site](https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/)
+- [Seagate acquires Intevac, which makes equipment for hard disk drives, for $119M](https://techcrunch.com/2025/02/13/seagate-acquires-intevac-which-makes-equipment-for-hard-disk-drives-for-119m/)
+- [Moon or Mars? Why not both, acting NASA head Janet Petro says](https://www.space.com/the-universe/moon/moon-or-mars-why-not-both-acting-nasa-head-janet-petro-says)
 <!-- BLOG-POST-LIST:END -->
 
 ---
