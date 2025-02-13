@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sony&#39;s latest State of Play highlights three incredible sci-fi games coming to PlayStation 5](https://www.space.com/sony-state-of-play-three-incredible-sci-fi-games-coming-to-playstation-5)
+- [Google Gemini now brings receipts to your AI chats](https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/)
+- [Arm is launching its own chip this year with Meta as a customer](https://techcrunch.com/2025/02/13/arm-is-launching-its-own-chip-this-year-with-meta-as-a-customer/)
+- [OpenAI removes certain content warnings from ChatGPT](https://techcrunch.com/2025/02/13/openai-removes-certain-content-warnings-from-chatgpt/)
 - [Elon Musk’s full offer letter to buy OpenAI reveals five key details](https://techcrunch.com/2025/02/13/eon-musks-full-offer-letter-to-buy-openai-reveals-five-key-details/)
-- [Jeff Bezos&#39; Blue Origin targeting late spring for 2nd launch of powerful New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-targeting-late-spring-for-2nd-launch-of-powerful-new-glenn-rocket)
-- [Japan&#39;s Resilience lunar lander prepares for 1st swing around the moon](https://www.space.com/ispace-resilience-moon-lander-1st-lunar-flyby)
-- [Tim Cook teases Apple product news for February 19 — likely the iPhone SE](https://techcrunch.com/2025/02/13/tim-cook-teases-apple-product-news-for-february-19-likely-the-iphone-se/)
-- [Anthropic’s next major AI model could arrive within weeks](https://techcrunch.com/2025/02/13/anthropics-next-major-ai-model-could-arrive-within-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
