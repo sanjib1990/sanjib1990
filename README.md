@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hypervelocity star drags fastest exoplanet through space at 1.2 million mph](https://www.space.com/hypervelocity-star-drags-fastest-exoplanet-1-million-mph)
 - [Plain pulls in $15M to agregate B2B customer services chats into one platform](https://techcrunch.com/2025/02/14/plain-pulls-in-15m-to-agregate-b2b-customer-services-chats-into-one-platform/)
 - [TikTok is back on US app stores](https://techcrunch.com/2025/02/13/tiktok-is-back-on-the-app-store-and-the-play-store-in-the-u-s/)
 - [Hotstar and JioCinema merge into JioHotstar as Reliance tightens grip on streaming in India](https://techcrunch.com/2025/02/13/hotstar-and-jiocinema-merge-into-jiohotstar-as-reliance-tightens-grip-on-streaming-in-india/)
 - [Turo scraps plans for an IPO](https://techcrunch.com/2025/02/13/turo-scraps-plans-for-an-ipo/)
-- [UK drops ‘safety’ from its AI body, now called AI Security Institute, inks MOU with Anthropic](https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
