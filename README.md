@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe denies dropping AI liability rules under pressure from Trump](https://techcrunch.com/2025/02/14/europe-denies-dropping-ai-liability-rules-under-pressure-from-trump/)
 - [Meet &#39;Tansuo&#39; and &#39;Wangyu,&#39; China&#39;s next moon rover and astronaut spacesuit &lpar;video&rpar;](https://www.space.com/china-names-spacesuit-moon-rover-wangyu-tansuo)
 - [Hypervelocity star drags fastest exoplanet through space at 1.2 million mph](https://www.space.com/hypervelocity-star-drags-fastest-exoplanet-1-million-mph)
-- [SpaceX test-fires Starship megarocket and Super Heavy booster ahead of next launch &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-megarocket-and-super-heavy-booster-ahead-of-next-launch-video-photos)
-- [Sony&#39;s latest State of Play highlights three incredible sci-fi games coming to PlayStation 5](https://www.space.com/sony-state-of-play-three-incredible-sci-fi-games-coming-to-playstation-5)
-- [Jeff Bezos&#39; Blue Origin targeting late spring for 2nd launch of powerful New Glenn rocket](https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-targeting-late-spring-for-2nd-launch-of-powerful-new-glenn-rocket)
+- [Plain pulls in $15M to agregate B2B customer services chats into one platform](https://techcrunch.com/2025/02/14/plain-pulls-in-15m-to-agregate-b2b-customer-services-chats-into-one-platform/)
+- [TikTok is back on US app stores](https://techcrunch.com/2025/02/13/tiktok-is-back-on-the-app-store-and-the-play-store-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
