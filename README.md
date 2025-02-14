@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boeing Starliner astronauts on the ISS set the story straight: &#39;We don&#39;t feel stranded&#39;](https://www.space.com/space-exploration/international-space-station/boeing-starliner-astronauts-on-the-iss-set-the-story-straight-we-dont-feel-stranded)
+- [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/)
 - [Jeff Bezos&#39; Blue Origin laying off 1,000 employees: reports](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-laying-off-1-000-employees-reports)
 - [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/)
 - [OpenAI says its board of directors ‘unanimously’ rejects Elon Musk’s bid](https://techcrunch.com/2025/02/14/openai-says-its-board-of-directors-unanimously-rejects-musks-bid/)
-- [Bluesky gets growth and analytics tools with BlueSkyHunter launch](https://techcrunch.com/2025/02/14/bluesky-gets-growth-and-analytics-tools-with-blueskyhunter-launch/)
-- [Global electricity demand expected to grow 4% annually through 2027](https://techcrunch.com/2025/02/14/global-electricity-demand-expected-to-grow-4-annually-through-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
