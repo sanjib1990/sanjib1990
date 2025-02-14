@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb CEO says it’s still too early for AI trip planning](https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/)
+- [Black holes vibe together in a cosmic love story for Valentine&#39;s Day written in the stars](https://www.space.com/black-hole-vibing-valentines-day)
+- [ICON, a pioneer in 3D home printing, raises $56M led by Norwest, Tiger Global](https://techcrunch.com/2025/02/14/icon-a-pioneer-in-3d-home-printing-raises-56m-led-by-norwest-tiger-global/)
 - [Europe denies dropping AI liability rules under pressure from Trump](https://techcrunch.com/2025/02/14/europe-denies-dropping-ai-liability-rules-under-pressure-from-trump/)
 - [Meet &#39;Tansuo&#39; and &#39;Wangyu,&#39; China&#39;s next moon rover and astronaut spacesuit &lpar;video&rpar;](https://www.space.com/china-names-spacesuit-moon-rover-wangyu-tansuo)
-- [Hypervelocity star drags fastest exoplanet through space at 1.2 million mph](https://www.space.com/hypervelocity-star-drags-fastest-exoplanet-1-million-mph)
-- [Plain pulls in $15M to agregate B2B customer services chats into one platform](https://techcrunch.com/2025/02/14/plain-pulls-in-15m-to-agregate-b2b-customer-services-chats-into-one-platform/)
-- [TikTok is back on US app stores](https://techcrunch.com/2025/02/13/tiktok-is-back-on-the-app-store-and-the-play-store-in-the-u-s/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
