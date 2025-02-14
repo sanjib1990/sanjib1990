@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hotstar and JioCinema merge into JioHotstar as Reliance tightens grip on streaming in India](https://techcrunch.com/2025/02/13/hotstar-and-jiocinema-merge-into-jiohotstar-as-reliance-tightens-grip-on-streaming-in-india/)
+- [Turo scraps plans for an IPO](https://techcrunch.com/2025/02/13/turo-scraps-plans-for-an-ipo/)
 - [UK drops ‘safety’ from its AI body, now called AI Security Institute, inks MOU with Anthropic](https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/)
 - [SpaceX test-fires Starship megarocket and Super Heavy booster ahead of next launch &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-megarocket-and-super-heavy-booster-ahead-of-next-launch-video-photos)
 - [Meta CTO says staff should quit if they don’t like Meta’s new policies](https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/)
-- [Sony&#39;s latest State of Play highlights three incredible sci-fi games coming to PlayStation 5](https://www.space.com/sony-state-of-play-three-incredible-sci-fi-games-coming-to-playstation-5)
-- [Google Gemini now brings receipts to your AI chats](https://techcrunch.com/2025/02/13/google-gemini-now-brings-receipts-to-your-ai-chats/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
