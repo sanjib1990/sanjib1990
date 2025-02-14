@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Finding The Slope Algorithm &lpar;Forward Mode Automatic Differentiation&rpar; - Computerphile](https://www.youtube.com/watch?v=QwFLA5TrviI)
 - [How to get a job in IT &lpar;2025&rpar;](https://www.youtube.com/watch?v=jPZAqiQ0TtU)
 - [Elon Musk attempts hostile takeover of OpenAI…](https://www.youtube.com/watch?v=tPZauAYgVRQ)
 - [UK demands backdoor for encrypted Apple user data...](https://www.youtube.com/watch?v=ozkg_iW9mNU)
 - [Google finally shipped some fire…](https://www.youtube.com/watch?v=k9xbh9LUYn0)
-- [How CPU Memory &amp; Caches Work - Computerphile](https://www.youtube.com/watch?v=SAk-6gVkio0)
 <!-- YOUTUBE:END -->
 
 ---
