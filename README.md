@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apply to Speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/)
-- [Call for Speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/)
-- [7 romantic sci-fi movies to cuddle up with on Valentine&#39;s Day](https://www.space.com/entertainment/7-romantic-sci-fi-movies-to-cuddle-up-with-on-valentines-day)
-- [Airbnb CEO says it’s still too early for AI trip planning](https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/)
-- [Black holes vibe together in a cosmic love story for Valentine&#39;s Day written in the stars](https://www.space.com/black-hole-vibing-valentines-day)
+- [A job ad for Y Combinator startup Firecrawl seeks to hire an AI agent for $15K a year](https://techcrunch.com/2025/02/14/a-job-ad-for-y-combinator-startup-firecrawl-seeks-to-hire-an-ai-agent-for-15k-a-year/)
+- [How Sen&#39;s 4K live cameras on the ISS offer a new perspective from space &lpar;op-ed&rpar;](https://www.space.com/sen-live-4k-cameras-iss-new-perspective-op-ed)
+- [Instagram tests a ‘dislike’ button for comments](https://techcrunch.com/2025/02/14/instagram-tests-a-dislike-button-for-comments/)
+- [Astronomers have brought you a space Valentine: The Tarantula of the cosmos](https://www.space.com/the-universe/astronomers-have-brought-you-a-space-valentine-the-tarantula-of-the-cosmos)
+- [Apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
