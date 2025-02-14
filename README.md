@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek founder Liang Wenfeng is reportedly set to meet with China’s Xi Jinping](https://techcrunch.com/2025/02/14/deepseek-founder-liang-wenfeng-is-reportedly-set-to-meet-with-chinas-xi-jinping/)
-- [NATO backs its first cohort of European dual-use startups](https://techcrunch.com/2025/02/14/nato-backs-its-first-cohort-of-european-dual-use-startups/)
-- [What the asteroid with a 1-in-48 chance of hitting Earth in 2032 looks like &lpar;images&rpar;](https://www.space.com/asteroid-2024yt4-image-feb7)
-- [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/)
-- [Welcome to the moon! Firefly&#39;s Blue Ghost lander reaches lunar orbit &lpar;video, photos&rpar;](https://www.space.com/firefly-aerospace-blue-ghost-moon-lander-reachers-lunar-orbit)
+- [Jeff Bezos&#39; Blue Origin laying off 1,000 employees: reports](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-laying-off-1-000-employees-reports)
+- [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/)
+- [OpenAI says its board of directors ‘unanimously’ rejects Elon Musk’s bid](https://techcrunch.com/2025/02/14/openai-says-its-board-of-directors-unanimously-rejects-musks-bid/)
+- [Bluesky gets growth and analytics tools with BlueSkyHunter launch](https://techcrunch.com/2025/02/14/bluesky-gets-growth-and-analytics-tools-with-blueskyhunter-launch/)
+- [Global electricity demand expected to grow 4% annually through 2027](https://techcrunch.com/2025/02/14/global-electricity-demand-expected-to-grow-4-annually-through-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
