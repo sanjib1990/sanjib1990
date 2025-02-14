@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/)
+- [Welcome to the moon! Firefly&#39;s Blue Ghost lander reaches lunar orbit &lpar;video, photos&rpar;](https://www.space.com/firefly-aerospace-blue-ghost-moon-lander-reachers-lunar-orbit)
+- [Meta’s next big bet may be humanoid robotics](https://techcrunch.com/2025/02/14/metas-next-big-bet-may-be-humanoid-robotics/)
 - [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/)
 - [Meta confirms ‘Project Waterworth,’ a global subsea cable project spanning 50,000 kilometers](https://techcrunch.com/2025/02/14/meta-confirms-project-waterworth-a-global-subsea-cable-project-spanning-50000km/)
-- [Mastodon is working to add the controversial ‘quote posts’ feature](https://techcrunch.com/2025/02/14/mastodon-is-working-to-add-the-controversial-quote-posts-feature/)
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/02/14/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [A job ad for Y Combinator startup Firecrawl seeks to hire an AI agent for $15K a year](https://techcrunch.com/2025/02/14/a-job-ad-for-y-combinator-startup-firecrawl-seeks-to-hire-an-ai-agent-for-15k-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
