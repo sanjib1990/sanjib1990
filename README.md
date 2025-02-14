@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek founder Liang Wenfeng is reportedly set to meet with China’s Xi Jinping](https://techcrunch.com/2025/02/14/deepseek-founder-liang-wenfeng-is-reportedly-set-to-meet-with-chinas-xi-jinping/)
+- [NATO backs its first cohort of European dual-use startups](https://techcrunch.com/2025/02/14/nato-backs-its-first-cohort-of-european-dual-use-startups/)
+- [What the asteroid with a 1-in-48 chance of hitting Earth in 2032 looks like &lpar;images&rpar;](https://www.space.com/asteroid-2024yt4-image-feb7)
 - [Elon Musk’s AI company, xAI, said to be in talks to raise $10B](https://techcrunch.com/2025/02/14/elon-musks-ai-company-xai-said-to-be-in-talks-to-raise-10b/)
 - [Welcome to the moon! Firefly&#39;s Blue Ghost lander reaches lunar orbit &lpar;video, photos&rpar;](https://www.space.com/firefly-aerospace-blue-ghost-moon-lander-reachers-lunar-orbit)
-- [Meta’s next big bet may be humanoid robotics](https://techcrunch.com/2025/02/14/metas-next-big-bet-may-be-humanoid-robotics/)
-- [AI and security startups blossom on cloudy days](https://techcrunch.com/2025/02/14/ai-and-security-startups-blossom-on-cloudy-days/)
-- [Meta confirms ‘Project Waterworth,’ a global subsea cable project spanning 50,000 kilometers](https://techcrunch.com/2025/02/14/meta-confirms-project-waterworth-a-global-subsea-cable-project-spanning-50000km/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
