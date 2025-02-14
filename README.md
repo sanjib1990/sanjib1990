@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apply to Speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/14/apply-to-speak-at-techcrunch-sessions-ai/)
+- [Call for Speakers: TechCrunch All Stage 2025](https://techcrunch.com/2025/02/14/call-for-speakers-techcrunch-all-stage-2025/)
+- [7 romantic sci-fi movies to cuddle up with on Valentine&#39;s Day](https://www.space.com/entertainment/7-romantic-sci-fi-movies-to-cuddle-up-with-on-valentines-day)
 - [Airbnb CEO says it’s still too early for AI trip planning](https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/)
 - [Black holes vibe together in a cosmic love story for Valentine&#39;s Day written in the stars](https://www.space.com/black-hole-vibing-valentines-day)
-- [ICON, a pioneer in 3D home printing, raises $56M led by Norwest, Tiger Global](https://techcrunch.com/2025/02/14/icon-a-pioneer-in-3d-home-printing-raises-56m-led-by-norwest-tiger-global/)
-- [Europe denies dropping AI liability rules under pressure from Trump](https://techcrunch.com/2025/02/14/europe-denies-dropping-ai-liability-rules-under-pressure-from-trump/)
-- [Meet &#39;Tansuo&#39; and &#39;Wangyu,&#39; China&#39;s next moon rover and astronaut spacesuit &lpar;video&rpar;](https://www.space.com/china-names-spacesuit-moon-rover-wangyu-tansuo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
