@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marc Andreessen dreams of making a16z a lasting company, beyond partnerships](https://techcrunch.com/2025/02/15/marc-andreessen-dreams-of-making-a16z-a-lasting-company-beyond-partnerships/)
 - [The best sci-fi TV shows of the 1950s](https://www.space.com/entertainment/the-best-sci-fi-tv-shows-of-the-1950s)
 - [This Week In Space podcast: Episode 148 — Clavius Base](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-148-clavius-base)
 - [What is an encryption backdoor?](https://techcrunch.com/2025/02/15/what-is-an-encryption-backdoor/)
 - [The force is strong with this JEDI](https://www.space.com/space-exploration/tech/the-force-is-strong-with-this-jedi)
-- [These Google Photos alternatives offer tons of storage options at a reasonable price](https://techcrunch.com/2025/02/15/these-google-photos-alternatives-offer-tons-of-storage-options-at-a-reasonable-price/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
