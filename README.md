@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Intelligence could arrive on Vision Pro in April](https://techcrunch.com/2025/02/15/apple-intelligence-could-arrive-on-vision-pro-in-april/)
 - [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/)
 - [Perplexity launches its own freemium ‘deep research’ product](https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/)
 - [OpenAI teases a ‘simplified’ GPT-5 model](https://techcrunch.com/2025/02/15/openai-teases-a-simplified-gpt-5-model/)
 - [Marc Andreessen dreams of making a16z a lasting company, beyond partnerships](https://techcrunch.com/2025/02/15/marc-andreessen-dreams-of-making-a16z-a-lasting-company-beyond-partnerships/)
-- [The best sci-fi TV shows of the 1950s](https://www.space.com/entertainment/the-best-sci-fi-tv-shows-of-the-1950s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
