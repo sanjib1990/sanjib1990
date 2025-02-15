@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Court filings show Meta paused efforts to license books for AI training](https://techcrunch.com/2025/02/14/court-filings-show-meta-paused-efforts-to-license-books-for-ai-training/)
+- [AI Alexa and AI Siri face bugs and delays](https://techcrunch.com/2025/02/14/ai-alexa-and-ai-siri-face-bugs-and-delays/)
 - [Boeing Starliner astronauts on the ISS set the story straight: &#39;We don&#39;t feel stranded&#39;](https://www.space.com/space-exploration/international-space-station/boeing-starliner-astronauts-on-the-iss-set-the-story-straight-we-dont-feel-stranded)
 - [Figure AI is in talks to raise $1.5B at 15x its last valuation](https://techcrunch.com/2025/02/14/figure-ai-is-in-talks-to-raise-1-5b-at-15x-its-last-valuation/)
 - [Jeff Bezos&#39; Blue Origin laying off 1,000 employees: reports](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-laying-off-1-000-employees-reports)
-- [SailPoint’s dull debut did little to loosen the stuck IPO window, expert says](https://techcrunch.com/2025/02/14/sailpoints-dull-debut-did-little-to-loosen-the-stuck-ipo-window-expert-says/)
-- [OpenAI says its board of directors ‘unanimously’ rejects Elon Musk’s bid](https://techcrunch.com/2025/02/14/openai-says-its-board-of-directors-unanimously-rejects-musks-bid/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
