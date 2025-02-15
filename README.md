@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These Google Photos alternatives offer tons of storage options at a reasonable price](https://techcrunch.com/2025/02/15/these-google-photos-alternatives-offer-tons-of-storage-options-at-a-reasonable-price/)
 - [Tom Hanks&#39; &#39;The Moonwalkers&#39; makes US premiere at Space Center Houston](https://www.space.com/space-exploration/apollo/tom-hanks-the-moonwalkers-makes-us-premiere-at-space-center-houston)
-- [SpaceX Falcon 9 rocket launches 21 Starlink satellites on record-setting 26th flight &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launches-21-starlink-satellites-on-record-setting-26th-flight-photos)
+- [SpaceX Falcon 9 rocket launches 21 Starlink satellites on record-setting 26th flight &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launches-21-starlink-satellites-on-record-setting-26th-flight-photos)
 - [Uber sues DoorDash, alleging anti-competitive tactics](https://techcrunch.com/2025/02/14/uber-sues-doordash-alleging-anti-competitive-tactics/)
 - [Court filings show Meta paused efforts to license books for AI training](https://techcrunch.com/2025/02/14/court-filings-show-meta-paused-efforts-to-license-books-for-ai-training/)
-- [AI Alexa and AI Siri face bugs and delays](https://techcrunch.com/2025/02/14/ai-alexa-and-ai-siri-face-bugs-and-delays/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
