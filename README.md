@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Death of OpenAI whistleblower deemed suicide in new autopsy report](https://techcrunch.com/2025/02/15/death-of-openai-whistleblower-deemed-suicide-in-new-autopsy-report/)
 - [North Carolina Amazon workers vote against unionizing](https://techcrunch.com/2025/02/15/north-carolina-amazon-workers-vote-against-unionizing/)
 - [Apple Intelligence could arrive on Vision Pro in April](https://techcrunch.com/2025/02/15/apple-intelligence-could-arrive-on-vision-pro-in-april/)
 - [xAI’s “Colossus” supercomputer raises health questions in Memphis](https://techcrunch.com/2025/02/15/xais-colossus-supercomputer-raises-health-questions-in-memphis/)
 - [Perplexity launches its own freemium ‘deep research’ product](https://techcrunch.com/2025/02/15/perplexity-launches-its-own-freemium-deep-research-product/)
-- [OpenAI teases a ‘simplified’ GPT-5 model](https://techcrunch.com/2025/02/15/openai-teases-a-simplified-gpt-5-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
