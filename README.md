@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers are training AI to interpret animal emotions](https://techcrunch.com/2025/02/16/researchers-are-training-ai-to-interpret-animal-emotions/)
 - [Broadcom, TSMC reportedly exploring deals that would split up Intel](https://techcrunch.com/2025/02/16/broadcom-tsmc-reportedly-exploring-deals-that-would-split-up-intel/)
 - [YouTube TV reaches new deal to keep Paramount content](https://techcrunch.com/2025/02/16/youtube-tv-reaches-new-deal-to-keep-paramount-content/)
 - [OpenAI tries to ‘uncensor’ ChatGPT](https://techcrunch.com/2025/02/16/openai-tries-to-uncensor-chatgpt/)
 - [&#39;City-killer&#39; asteroid 2024 YR4 could hit the moon instead of us, scientists say](https://www.space.com/the-universe/asteroids/city-killer-asteroid-2024-yr4-could-hit-the-moon-instead-of-us-scientists-say)
-- [Open source LLMs hit Europe’s digital sovereignty roadmap](https://techcrunch.com/2025/02/16/open-source-llms-hit-europes-digital-sovereignty-roadmap/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
