@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/02/17/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
+- [Gamemaker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/)
+- [Watch the sun erupt in new images from NOAA&#39;s weather satellite](https://www.space.com/the-universe/sun/watch-the-sun-erupt-in-new-images-from-noaas-weather-satellite)
 - [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/)
 - [Some planet-forming stars never &#39;grow up&#39; and lose their &#39;Peter Pan&#39; disks](https://www.space.com/stars-planet-forming-disks-peter-pan)
-- [Olyn secures Beatles biopic for its ‘Shopify for filmmakers’](https://techcrunch.com/2025/02/17/olyn-secures-beatles-biopic-for-its-shopify-for-filmmakers/)
-- [Astronomers realize mysterious TV signal in their data bounced off an airplane](https://www.space.com/space-exploration/tech/astronomers-realize-mysterious-tv-signal-in-their-data-bounced-off-an-airplane)
-- [South Korea blocks downloads of DeepSeek from local app stores](https://techcrunch.com/2025/02/16/south-korea-blocks-downloads-of-deepseek-from-local-app-stores/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
