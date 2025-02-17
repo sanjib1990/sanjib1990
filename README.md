@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can sim drivers make the shift to F1? Max Verstappen thinks so](https://techcrunch.com/2025/02/16/can-sim-drivers-make-the-shift-to-f1-max-verstappen-thinks-so/)
 - [These researchers used NPR Sunday Puzzle questions to benchmark AI ‘reasoning’ models](https://techcrunch.com/2025/02/16/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/)
 - [Researchers are training AI to interpret animal emotions](https://techcrunch.com/2025/02/16/researchers-are-training-ai-to-interpret-animal-emotions/)
 - [Broadcom, TSMC reportedly exploring deals that would split up Intel](https://techcrunch.com/2025/02/16/broadcom-tsmc-reportedly-exploring-deals-that-would-split-up-intel/)
 - [YouTube TV reaches new deal to keep Paramount content](https://techcrunch.com/2025/02/16/youtube-tv-reaches-new-deal-to-keep-paramount-content/)
-- [OpenAI tries to ‘uncensor’ ChatGPT](https://techcrunch.com/2025/02/16/openai-tries-to-uncensor-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
