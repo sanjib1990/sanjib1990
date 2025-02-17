@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/)
 - [Some planet-forming stars never &#39;grow up&#39; and lose their &#39;Peter Pan&#39; disks](https://www.space.com/stars-planet-forming-disks-peter-pan)
 - [Olyn secures Beatles biopic for its ‘Shopify for filmmakers’](https://techcrunch.com/2025/02/17/olyn-secures-beatles-biopic-for-its-shopify-for-filmmakers/)
 - [Astronomers realize mysterious TV signal in their data bounced off an airplane](https://www.space.com/space-exploration/tech/astronomers-realize-mysterious-tv-signal-in-their-data-bounced-off-an-airplane)
 - [South Korea blocks downloads of DeepSeek from local app stores](https://techcrunch.com/2025/02/16/south-korea-blocks-downloads-of-deepseek-from-local-app-stores/)
-- [Can sim drivers make the shift to F1? Max Verstappen thinks so](https://techcrunch.com/2025/02/16/can-sim-drivers-make-the-shift-to-f1-max-verstappen-thinks-so/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
