@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What the US’ first major AI copyright ruling might mean for IP law](https://techcrunch.com/2025/02/17/what-the-us-first-major-ai-copyright-ruling-might-mean-for-ip-law/)
-- [The Winter Triangle meets the &#39;Mars Triangle&#39; in the night sky this month](https://www.space.com/winter-triangle-meets-mars-triangle-night-sky-feb-2025)
-- [X is blocking links to Signal, a secure messaging platform used by federal workers](https://techcrunch.com/2025/02/17/x-is-blocking-links-to-signal-a-secure-messaging-platform-used-by-federal-workers/)
-- [Does the moon look smaller tonight? Here&#39;s why a &#39;micromoon&#39; rises](https://www.space.com/the-moon-apogee-smaller-micromoon-february-2025)
-- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/02/17/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
+- [Are your noise-canceling headphones messing with your head?](https://techcrunch.com/2025/02/17/are-your-noise-canceling-headphones-messing-with-your-head/)
+- [The New York Times has greenlit AI tools for product and edit staff](https://techcrunch.com/2025/02/17/the-new-york-times-has-greenlit-ai-tools-for-product-and-edit-staff/)
+- [These are the hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/02/17/these-are-the-hottest-ai-models-what-they-do-and-how-to-use-them/)
+- [Scientists accidentally discover Earth&#39;s inner core is less solid than expected](https://www.space.com/the-universe/earth/scientists-accidentally-discover-earths-inner-core-is-less-solid-than-expected)
+- [Trump fires hundreds of air traffic support staff as SpaceX visits FAA command center](https://techcrunch.com/2025/02/17/trump-fires-hundreds-of-air-traffic-support-staff-as-spacex-visits-faa-command-center/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
