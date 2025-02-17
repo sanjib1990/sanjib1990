@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Olyn secures Beatles biopic for its ‘Shopify for filmmakers’](https://techcrunch.com/2025/02/17/olyn-secures-beatles-biopic-for-its-shopify-for-filmmakers/)
+- [Astronomers realize mysterious TV signal in their data bounced off an airplane](https://www.space.com/space-exploration/tech/astronomers-realize-mysterious-tv-signal-in-their-data-bounced-off-an-airplane)
 - [South Korea blocks downloads of DeepSeek from local app stores](https://techcrunch.com/2025/02/16/south-korea-blocks-downloads-of-deepseek-from-local-app-stores/)
 - [Can sim drivers make the shift to F1? Max Verstappen thinks so](https://techcrunch.com/2025/02/16/can-sim-drivers-make-the-shift-to-f1-max-verstappen-thinks-so/)
 - [These researchers used NPR Sunday Puzzle questions to benchmark AI ‘reasoning’ models](https://techcrunch.com/2025/02/16/these-researchers-used-npr-sunday-puzzle-questions-to-benchmark-ai-reasoning-models/)
-- [Researchers are training AI to interpret animal emotions](https://techcrunch.com/2025/02/16/researchers-are-training-ai-to-interpret-animal-emotions/)
-- [Broadcom, TSMC reportedly exploring deals that would split up Intel](https://techcrunch.com/2025/02/16/broadcom-tsmc-reportedly-exploring-deals-that-would-split-up-intel/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
