@@ -97,7 +97,7 @@
 - [&#39;Star Trek: Section 31&#39; got us thinking... Should you have to do your homework before you watch a movie?](https://www.space.com/entertainment/space-movies-shows/star-trek-section-31-got-us-thinking-should-you-have-to-do-your-homework-before-you-watch-a-movie)
 - [Are your noise-canceling headphones messing with your head?](https://techcrunch.com/2025/02/17/are-your-noise-canceling-headphones-messing-with-your-head/)
 - [The New York Times has greenlit AI tools for product and edit staff](https://techcrunch.com/2025/02/17/the-new-york-times-has-greenlit-ai-tools-for-product-and-edit-staff/)
-- [These are the hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/02/17/these-are-the-hottest-ai-models-what-they-do-and-how-to-use-them/)
+- [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/02/17/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
 - [Scientists accidentally discover Earth&#39;s inner core is less solid than expected](https://www.space.com/the-universe/earth/scientists-accidentally-discover-earths-inner-core-is-less-solid-than-expected)
 <!-- BLOG-POST-LIST:END -->
 
