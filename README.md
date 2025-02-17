@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Mac Studios = 1 insane AI Supercomputer](https://www.youtube.com/watch?v=uJ3G3dA4Y2A)
 - [I built an AI supercomputer with 5 Mac Studios](https://www.youtube.com/watch?v=Ju0ndy2kwlw)
 - [Finding The Slope Algorithm &lpar;Forward Mode Automatic Differentiation&rpar; - Computerphile](https://www.youtube.com/watch?v=QwFLA5TrviI)
 - [How to get a job in IT &lpar;2025&rpar;](https://www.youtube.com/watch?v=jPZAqiQ0TtU)
 - [Elon Musk attempts hostile takeover of OpenAI…](https://www.youtube.com/watch?v=tPZauAYgVRQ)
-- [UK demands backdoor for encrypted Apple user data...](https://www.youtube.com/watch?v=ozkg_iW9mNU)
 <!-- YOUTUBE:END -->
 
 ---
