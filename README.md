@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What the US’ first major AI copyright ruling might mean for IP law](https://techcrunch.com/2025/02/17/what-the-us-first-major-ai-copyright-ruling-might-mean-for-ip-law/)
+- [The Winter Triangle meets the &#39;Mars Triangle&#39; in the night sky this month](https://www.space.com/winter-triangle-meets-mars-triangle-night-sky-feb-2025)
+- [X is blocking links to Signal, a secure messaging platform used by federal workers](https://techcrunch.com/2025/02/17/x-is-blocking-links-to-signal-a-secure-messaging-platform-used-by-federal-workers/)
 - [Does the moon look smaller tonight? Here&#39;s why a &#39;micromoon&#39; rises](https://www.space.com/the-moon-apogee-smaller-micromoon-february-2025)
 - [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/02/17/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
-- [Gamemaker Polymath aims to make learning math as enjoyable as Roblox](https://techcrunch.com/2025/02/17/polymath-aims-to-make-learning-math-as-enjoyable-as-roblox-with-its-educational-sandbox-game/)
-- [Watch the sun erupt in new images from NOAA&#39;s weather satellite](https://www.space.com/the-universe/sun/watch-the-sun-erupt-in-new-images-from-noaas-weather-satellite)
-- [Mistral releases regional model focused on Arabic language and culture](https://techcrunch.com/2025/02/17/mistral-releases-regional-model-focused-on-arabic-language-and-culture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
