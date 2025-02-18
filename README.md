@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The people in Elon Musk’s DOGE universe](https://techcrunch.com/2025/02/18/the-people-in-elon-musk-doge-universe/)
+- [X challenges German court order granting data access to election researchers](https://techcrunch.com/2025/02/18/x-challenges-german-court-order-granting-data-access-to-election-researchers/)
+- [Meta announces LlamaCon, its first generative AI dev conference](https://techcrunch.com/2025/02/18/meta-announces-llamacon-its-first-generative-ai-dev-conference/)
+- [At $800 off, this powerful Nikon Z8 mirrorless camera has never been cheaper, just in time for March&#39;s lunar eclipse](https://www.space.com/stargazing/astronomy-kit/at-usd800-off-this-powerful-nikon-z8-mirrorless-camera-has-never-been-cheaper)
 - [James Webb Space Telescope finds our Milky Way galaxy&#39;s supermassive black hole blowing bubbles &lpar;image, video&rpar;](https://www.space.com/jwst-milky-way-black-hole-blowing-bubbles)
-- [Exoplanet with iron rain has violent winds &#39;like something out of science fiction&#39;](https://www.space.com/wasp-121b-violent-winds-science-fiction)
-- [Bluesky adds a ‘followers only’ reply option](https://techcrunch.com/2025/02/18/bluesky-adds-a-followers-only-reply-option/)
-- [Imagine Dragons &#39;Starfield&#39; video game anthem will beam to Earth from the moon](https://www.space.com/imagine-dragons-moon-intuitive-machines-im2-lonestar-data-center)
-- [Fetii’s group rideshare app for young people attracts funding from Mark Cuban, YC](https://techcrunch.com/2025/02/18/fetiis-group-rideshare-app-for-young-people-has-attracted-funds-from-mark-cuban-yc/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
