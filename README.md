@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch Rocket Lab launch sharp-eyed Earth-observation satellite today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-blacksky-first-gen-3-satellite)
-- [Safe Superintelligence, Ilya Sutskever’s AI startup, is reportedly close to raising roughly $1B](https://techcrunch.com/2025/02/18/safe-superintelligence-ilya-sutskevers-ai-startup-is-reportedly-close-to-raising-roughly-1b/)
-- [Amazon, Microsoft, and Exxon want to make scandal-plagued carbon markets more trustworthy](https://techcrunch.com/2025/02/18/amazon-microsoft-and-exxon-want-to-make-scandal-plagued-carbon-markets-more-trustworthy/)
-- [SpaceX to land rocket off coast of The Bahamas for 1st time during Starlink launch today](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-first-rocket-landing-bahamas)
-- [Thinking Machines Lab is ex-OpenAI CTO Mira Murati’s new startup](https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/)
+- [Google Play Books purchases on iOS now skirt the App Store’s commission](https://techcrunch.com/2025/02/18/google-play-books-purchases-on-ios-now-skirt-the-app-stores-commission/)
+- [Is Pluto a planet or not? Who cares! Our love for the King of the Kuiper Belt is stronger than ever 95 years later](https://www.space.com/the-universe/pluto/is-pluto-a-planet-or-not-who-cares-our-love-for-the-king-of-the-kuiper-belt-is-stronger-than-ever-95-years-later)
+- [Duolingo ‘killed’ its mascot with a Cybertruck, and it’s going weirdly well](https://techcrunch.com/2025/02/18/duolingo-killed-its-mascot-with-a-cybertruck-and-its-going-weirdly-well/)
+- [Elon Musk staffer created a DOGE AI assistant for making government “less dumb”](https://techcrunch.com/2025/02/18/elon-musk-staffer-created-a-doge-ai-assistant-for-making-government-less-dumb/)
+- [Apple purges apps without contact info from EU app store, as DSA deadline hits](https://techcrunch.com/2025/02/18/apple-purges-apps-without-contact-info-from-eu-app-store-as-dsa-deadline-hits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
