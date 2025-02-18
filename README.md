@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X doubles its Premium+ plan prices after xAI releases Grok 3](https://techcrunch.com/2025/02/18/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/)
 - [Elon Musk’s xAI releases its latest flagship model, Grok 3](https://techcrunch.com/2025/02/17/elon-musks-ai-company-xai-releases-its-latest-flagship-ai-grok-3/)
 - [Thousands protest Elon Musk’s DOGE in NYC on Presidents’ Day](https://techcrunch.com/2025/02/17/thousands-protest-elon-musks-doge-in-nyc-on-presidents-day/)
 - [Nextdoor’s Nirav Tolia thinks he can turn things around with AI; he has a lot riding on it](https://techcrunch.com/2025/02/17/nextdoors-nirav-tolia-thinks-he-can-turn-things-around-with-ai-he-has-a-lot-riding-on-it/)
 - [&#39;Star Trek: Section 31&#39; got us thinking... Should you have to do your homework before you watch a movie?](https://www.space.com/entertainment/space-movies-shows/star-trek-section-31-got-us-thinking-should-you-have-to-do-your-homework-before-you-watch-a-movie)
-- [Are your noise-canceling headphones messing with your head?](https://techcrunch.com/2025/02/17/are-your-noise-canceling-headphones-messing-with-your-head/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
