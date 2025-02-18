@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M](https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/)
+- [Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing](https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/)
 - [3D-printed &#39;hydrogels&#39; could be future space radiation shields for astronaut trips to Mars](https://www.space.com/space-exploration/tech/3d-printed-hydrogels-could-be-future-space-radiation-shields-for-astronaut-trips-to-mars)
 - [James Webb Space Telescope learns how a cosmic phoenix cools off to birth stars](https://www.space.com/jwst-pheonix-cluster-star-birth)
-- [&#39;Star Trek: Section 31&#39; got us thinking... Should you have to do your homework before you watch a movie?](https://www.space.com/entertainment/space-movies-shows/star-trek-section-31-got-us-thinking-should-you-have-to-do-your-homework-before-you-watch-a-movie)
-- [Scientists accidentally discover Earth&#39;s inner core is less solid than expected](https://www.space.com/the-universe/earth/scientists-accidentally-discover-earths-inner-core-is-less-solid-than-expected)
-- [The Winter Triangle meets the &#39;Mars Triangle&#39; in the night sky this month](https://www.space.com/winter-triangle-meets-mars-triangle-night-sky-feb-2025)
+- [X doubles its Premium+ plan prices after xAI releases Grok 3](https://techcrunch.com/2025/02/18/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
