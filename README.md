@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX to land rocket off coast of The Bahamas for 1st time during Starlink launch today](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-first-rocket-landing-bahamas)
+- [Thinking Machines Lab is ex-OpenAI CTO Mira Murati’s new startup](https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/)
+- [VC giant Insight Partners confirms January cyberattack](https://techcrunch.com/2025/02/18/vc-giant-insight-partners-confirms-january-cyberattack/)
 - [Fintech fundraising is giving me 2021 flashbacks](https://techcrunch.com/2025/02/18/fintech-fundraising-is-giving-me-2021-flashbacks/)
 - [Fiverr wants gig workers to offload some of their work to AI](https://techcrunch.com/2025/02/18/fiverr-wants-gig-workers-to-offload-some-of-their-work-to-ai/)
-- [Facebook now only stores live videos for 30 days, will delete old broadcasts](https://techcrunch.com/2025/02/18/facebook-now-only-stores-live-videos-for-30-days-will-delete-old-broadcasts/)
-- [Amazon kills ‘Inspire,’ its TikTok-style feed for discovering products](https://techcrunch.com/2025/02/18/amazon-kills-inspire-its-tiktok-style-feed-for-discovering-products/)
-- [OpenAI may give board special voting rights to ward off takeover attempts](https://techcrunch.com/2025/02/18/openai-may-give-board-special-voting-rights-to-ward-off-takeover-attempts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
