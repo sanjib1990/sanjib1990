@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Most Popular I.T. Cert just got better](https://www.youtube.com/watch?v=_x5xBe7tDs4)
+- [Is Elon’s Grok 3 the new AI king?](https://www.youtube.com/watch?v=b0XI-cbel1U)
 - [5 Mac Studios = 1 insane AI Supercomputer](https://www.youtube.com/watch?v=uJ3G3dA4Y2A)
 - [I built an AI supercomputer with 5 Mac Studios](https://www.youtube.com/watch?v=Ju0ndy2kwlw)
 - [Finding The Slope Algorithm &lpar;Forward Mode Automatic Differentiation&rpar; - Computerphile](https://www.youtube.com/watch?v=QwFLA5TrviI)
-- [How to get a job in IT &lpar;2025&rpar;](https://www.youtube.com/watch?v=jPZAqiQ0TtU)
-- [Elon Musk attempts hostile takeover of OpenAI…](https://www.youtube.com/watch?v=tPZauAYgVRQ)
 <!-- YOUTUBE:END -->
 
 ---
