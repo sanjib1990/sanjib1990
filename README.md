@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch sharp-eyed Earth-observation satellite today](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-blacksky-first-gen-3-satellite)
+- [Safe Superintelligence, Ilya Sutskever’s AI startup, is reportedly close to raising roughly $1B](https://techcrunch.com/2025/02/18/safe-superintelligence-ilya-sutskevers-ai-startup-is-reportedly-close-to-raising-roughly-1b/)
+- [Amazon, Microsoft, and Exxon want to make scandal-plagued carbon markets more trustworthy](https://techcrunch.com/2025/02/18/amazon-microsoft-and-exxon-want-to-make-scandal-plagued-carbon-markets-more-trustworthy/)
 - [SpaceX to land rocket off coast of The Bahamas for 1st time during Starlink launch today](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-first-rocket-landing-bahamas)
 - [Thinking Machines Lab is ex-OpenAI CTO Mira Murati’s new startup](https://techcrunch.com/2025/02/18/thinking-machines-lab-is-ex-openai-cto-mira-muratis-new-startup/)
-- [VC giant Insight Partners confirms January cyberattack](https://techcrunch.com/2025/02/18/vc-giant-insight-partners-confirms-january-cyberattack/)
-- [Fintech fundraising is giving me 2021 flashbacks](https://techcrunch.com/2025/02/18/fintech-fundraising-is-giving-me-2021-flashbacks/)
-- [Fiverr wants gig workers to offload some of their work to AI](https://techcrunch.com/2025/02/18/fiverr-wants-gig-workers-to-offload-some-of-their-work-to-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
