@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetii’s group rideshare app for young people attracts funding from Mark Cuban, YC](https://techcrunch.com/2025/02/18/fetiis-group-rideshare-app-for-young-people-has-attracted-funds-from-mark-cuban-yc/)
+- [Save a massive 36% on the Star Wars Black Series Force FX Elite Lightsaber](https://www.space.com/entertainment/space-games-toys/save-a-massive-36-percent-on-the-star-wars-black-series-force-fx-elite-lightsaber)
 - [Hightouch raises $80M on a $1.2B valuation for marketing tools powered by AI](https://techcrunch.com/2025/02/18/hightouch-raises-80m-on-a-1-2b-valuation-for-marketing-tools-powered-by-ai/)
 - [Cosmic voids may explain the universe&#39;s acceleration without dark energy](https://www.space.com/the-universe/cosmic-voids-may-explain-the-universes-acceleration-without-dark-energy)
 - [Lingo.dev is an app localization engine for developers](https://techcrunch.com/2025/02/18/lingo-dev-is-an-app-localization-engine-for-developers/)
-- [As US newspaper outages drag on, Lee Enterprises blames cyberattack for encrypting critical systems](https://techcrunch.com/2025/02/18/as-us-newspaper-outages-drag-on-lee-enterprises-blames-cyberattack-for-encrypting-critical-systems/)
-- [Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M](https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
