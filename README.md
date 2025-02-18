@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hightouch raises $80M on a $1.2B valuation for marketing tools powered by AI](https://techcrunch.com/2025/02/18/hightouch-raises-80m-on-a-1-2b-valuation-for-marketing-tools-powered-by-ai/)
+- [Cosmic voids may explain the universe&#39;s acceleration without dark energy](https://www.space.com/the-universe/cosmic-voids-may-explain-the-universes-acceleration-without-dark-energy)
+- [Lingo.dev is an app localization engine for developers](https://techcrunch.com/2025/02/18/lingo-dev-is-an-app-localization-engine-for-developers/)
 - [As US newspaper outages drag on, Lee Enterprises blames cyberattack for encrypting critical systems](https://techcrunch.com/2025/02/18/as-us-newspaper-outages-drag-on-lee-enterprises-blames-cyberattack-for-encrypting-critical-systems/)
 - [Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M](https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/)
-- [Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing](https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/)
-- [3D-printed &#39;hydrogels&#39; could be future space radiation shields for astronaut trips to Mars](https://www.space.com/space-exploration/tech/3d-printed-hydrogels-could-be-future-space-radiation-shields-for-astronaut-trips-to-mars)
-- [James Webb Space Telescope learns how a cosmic phoenix cools off to birth stars](https://www.space.com/jwst-pheonix-cluster-star-birth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
