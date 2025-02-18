@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope finds our Milky Way galaxy&#39;s supermassive black hole blowing bubbles &lpar;image, video&rpar;](https://www.space.com/jwst-milky-way-black-hole-blowing-bubbles)
+- [Exoplanet with iron rain has violent winds &#39;like something out of science fiction&#39;](https://www.space.com/wasp-121b-violent-winds-science-fiction)
+- [Bluesky adds a ‘followers only’ reply option](https://techcrunch.com/2025/02/18/bluesky-adds-a-followers-only-reply-option/)
+- [Imagine Dragons &#39;Starfield&#39; video game anthem will beam to Earth from the moon](https://www.space.com/imagine-dragons-moon-intuitive-machines-im2-lonestar-data-center)
 - [Fetii’s group rideshare app for young people attracts funding from Mark Cuban, YC](https://techcrunch.com/2025/02/18/fetiis-group-rideshare-app-for-young-people-has-attracted-funds-from-mark-cuban-yc/)
-- [Save a massive 36% on the Star Wars Black Series Force FX Elite Lightsaber](https://www.space.com/entertainment/space-games-toys/save-a-massive-36-percent-on-the-star-wars-black-series-force-fx-elite-lightsaber)
-- [Hightouch raises $80M on a $1.2B valuation for marketing tools powered by AI](https://techcrunch.com/2025/02/18/hightouch-raises-80m-on-a-1-2b-valuation-for-marketing-tools-powered-by-ai/)
-- [Cosmic voids may explain the universe&#39;s acceleration without dark energy](https://www.space.com/the-universe/cosmic-voids-may-explain-the-universes-acceleration-without-dark-energy)
-- [Lingo.dev is an app localization engine for developers](https://techcrunch.com/2025/02/18/lingo-dev-is-an-app-localization-engine-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
