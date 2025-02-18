@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As US newspaper outages drag on, Lee Enterprises blames cyberattack for encrypting critical systems](https://techcrunch.com/2025/02/18/as-us-newspaper-outages-drag-on-lee-enterprises-blames-cyberattack-for-encrypting-critical-systems/)
 - [Legal tech startup Luminance, backed by the late Mike Lynch, raises $75M](https://techcrunch.com/2025/02/18/legal-ai-startup-luminance-backed-by-the-late-mike-lynch-raises-75m/)
 - [Level Zero Health banks $6.9M to prove wearable medtech can take the strain out of hormone testing](https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/)
 - [3D-printed &#39;hydrogels&#39; could be future space radiation shields for astronaut trips to Mars](https://www.space.com/space-exploration/tech/3d-printed-hydrogels-could-be-future-space-radiation-shields-for-astronaut-trips-to-mars)
 - [James Webb Space Telescope learns how a cosmic phoenix cools off to birth stars](https://www.space.com/jwst-pheonix-cluster-star-birth)
-- [X doubles its Premium+ plan prices after xAI releases Grok 3](https://techcrunch.com/2025/02/18/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
