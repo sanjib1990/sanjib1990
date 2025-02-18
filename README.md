@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The people in Elon Musk’s DOGE universe](https://techcrunch.com/2025/02/18/the-people-in-elon-musk-doge-universe/)
-- [X challenges German court order granting data access to election researchers](https://techcrunch.com/2025/02/18/x-challenges-german-court-order-granting-data-access-to-election-researchers/)
-- [Meta announces LlamaCon, its first generative AI dev conference](https://techcrunch.com/2025/02/18/meta-announces-llamacon-its-first-generative-ai-dev-conference/)
-- [At $800 off, this powerful Nikon Z8 mirrorless camera has never been cheaper, just in time for March&#39;s lunar eclipse](https://www.space.com/stargazing/astronomy-kit/at-usd800-off-this-powerful-nikon-z8-mirrorless-camera-has-never-been-cheaper)
-- [James Webb Space Telescope finds our Milky Way galaxy&#39;s supermassive black hole blowing bubbles &lpar;image, video&rpar;](https://www.space.com/jwst-milky-way-black-hole-blowing-bubbles)
+- [Fintech fundraising is giving me 2021 flashbacks](https://techcrunch.com/2025/02/18/fintech-fundraising-is-giving-me-2021-flashbacks/)
+- [Fiverr wants gig workers to offload some of their work to AI](https://techcrunch.com/2025/02/18/fiverr-wants-gig-workers-to-offload-some-of-their-work-to-ai/)
+- [Facebook now only stores live videos for 30 days, will delete old broadcasts](https://techcrunch.com/2025/02/18/facebook-now-only-stores-live-videos-for-30-days-will-delete-old-broadcasts/)
+- [Amazon kills ‘Inspire,’ its TikTok-style feed for discovering products](https://techcrunch.com/2025/02/18/amazon-kills-inspire-its-tiktok-style-feed-for-discovering-products/)
+- [OpenAI may give board special voting rights to ward off takeover attempts](https://techcrunch.com/2025/02/18/openai-may-give-board-special-voting-rights-to-ward-off-takeover-attempts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
