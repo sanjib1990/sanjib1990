@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Captain America: Brave New World&#39; introduces adamantium into the MCU, but did it come from space in the comics?](https://www.space.com/entertainment/space-movies-shows/captain-america-brave-new-world-introduces-adamantium-into-the-mcu-but-did-it-come-from-space-in-the-comics)
+- [Japan&#39;s Resilience moon lander aces lunar flyby ahead of historic touchdown try &lpar;photo&rpar;](https://www.space.com/japan-ispace-resilience-moon-lander-aces-flyby-ahead-of-touchdown)
+- [Trump admin reverses hydropower layoffs that sparked grid stability fears](https://techcrunch.com/2025/02/18/trump-admin-reverses-hydropower-layoffs-that-sparked-grid-stability-fears/)
 - [Google Play Books purchases on iOS now skirt the App Store’s commission](https://techcrunch.com/2025/02/18/google-play-books-purchases-on-ios-now-skirt-the-app-stores-commission/)
 - [Is Pluto a planet or not? Who cares! Our love for the King of the Kuiper Belt is stronger than ever 95 years later](https://www.space.com/the-universe/pluto/is-pluto-a-planet-or-not-who-cares-our-love-for-the-king-of-the-kuiper-belt-is-stronger-than-ever-95-years-later)
-- [Duolingo ‘killed’ its mascot with a Cybertruck, and it’s going weirdly well](https://techcrunch.com/2025/02/18/duolingo-killed-its-mascot-with-a-cybertruck-and-its-going-weirdly-well/)
-- [Elon Musk staffer created a DOGE AI assistant for making government “less dumb”](https://techcrunch.com/2025/02/18/elon-musk-staffer-created-a-doge-ai-assistant-for-making-government-less-dumb/)
-- [Apple purges apps without contact info from EU app store, as DSA deadline hits](https://techcrunch.com/2025/02/18/apple-purges-apps-without-contact-info-from-eu-app-store-as-dsa-deadline-hits/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
