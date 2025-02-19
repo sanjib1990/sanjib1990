@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pokémon Go maker Niantic is reportedly selling its games division](https://techcrunch.com/2025/02/18/pokemon-go-maker-niantic-is-reportedly-selling-its-games-division/)
 - [Boeing plans to lay off hundreds of employees working on NASA&#39;s SLS moon rocket: reports](https://www.space.com/boeing-layoffs-nasa-space-launch-system-moon-rocket)
 - [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/)
 - [&#39;Captain America: Brave New World&#39; introduces adamantium into the MCU, but did it come from space in the comics?](https://www.space.com/entertainment/space-movies-shows/captain-america-brave-new-world-introduces-adamantium-into-the-mcu-but-did-it-come-from-space-in-the-comics)
 - [Japan&#39;s Resilience moon lander aces lunar flyby ahead of historic touchdown try &lpar;photo&rpar;](https://www.space.com/japan-ispace-resilience-moon-lander-aces-flyby-ahead-of-touchdown)
-- [Trump admin reverses hydropower layoffs that sparked grid stability fears](https://techcrunch.com/2025/02/18/trump-admin-reverses-hydropower-layoffs-that-sparked-grid-stability-fears/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
