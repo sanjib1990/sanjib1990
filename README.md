@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spanish spyware startup Mollitiam Industries shuts down](https://techcrunch.com/2025/02/19/spanish-spyware-startup-mollitiam-industries-shuts-down/)
+- [Lego Marvel Logo &amp; Minifigures set review](https://www.space.com/entertainment/lego-marvel-logo-and-minifigures-set-review)
+- [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/)
+- [Over 1,000 NASA employees saved from dismissal as Trump downsizes federal workforce](https://www.space.com/the-universe/earth/over-1-000-nasa-employees-saved-from-dismissal-as-trump-downsizes-federal-workforce)
 - [Karman+ digs up $20M to build an asteroid-mining autonomous spacecraft](https://techcrunch.com/2025/02/19/karman-digs-up-20m-to-build-an-asteroid-mining-autonomous-spacecraft/)
-- [This Week in AI: Maybe we should ignore AI benchmarks for now](https://techcrunch.com/2025/02/19/this-week-in-ai-maybe-we-should-ignore-ai-benchmarks-for-now/)
-- [Google’s ‘Career Dreamer’ uses AI to help you explore job possibilities](https://techcrunch.com/2025/02/19/googles-career-dreamer-uses-ai-to-help-you-explore-job-possibilities/)
-- [Google pulls Gemini from main search app on iOS](https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/)
-- [ElectronX is building a stock market for electricity trading](https://techcrunch.com/2025/02/19/electronx-is-building-a-stock-market-for-electricity-trading/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
