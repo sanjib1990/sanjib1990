@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guidde taps AI to help create software training videos](https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/)
+- [A former Etsy product manager built an AI-powered app for new parents](https://techcrunch.com/2025/02/19/a-former-etsy-product-manager-built-a-app-to-create-better-family-management-for-parents/)
 - [X doubles its Premium+ plan prices after xAI releases Grok 3](https://techcrunch.com/2025/02/19/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/)
 - [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/19/hyundais-new-tesla-charging-port-comes-up-short/)
 - [7 planets are aligned in the night sky right now. But what&#39;s that mean for science?](https://www.space.com/planetary-alignments-mean-for-science-astronomy)
-- [Kuda and CEO face allegations of sex discrimination and unfair dismissal from former executive, per filing](https://techcrunch.com/2025/02/19/kuda-and-ceo-face-allegations-of-sex-discrimination-and-unfair-dismissal-from-former-executive-per-filing/)
-- [I want to believe — but yet another massive search for alien technosignatures just turned up nothing](https://www.space.com/alien-radio-signals-search-empty)
 <!-- BLOG-POST-LIST:END -->
 
 ---
