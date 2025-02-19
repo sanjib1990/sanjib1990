@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Karman+ digs up $20M to build an asteroid-mining autonomous spacecraft](https://techcrunch.com/2025/02/19/karman-digs-up-20m-to-build-an-asteroid-mining-autonomous-spacecraft/)
+- [This Week in AI: Maybe we should ignore AI benchmarks for now](https://techcrunch.com/2025/02/19/this-week-in-ai-maybe-we-should-ignore-ai-benchmarks-for-now/)
+- [Google’s ‘Career Dreamer’ uses AI to help you explore job possibilities](https://techcrunch.com/2025/02/19/googles-career-dreamer-uses-ai-to-help-you-explore-job-possibilities/)
+- [Google pulls Gemini from main search app on iOS](https://techcrunch.com/2025/02/19/google-pulls-gemini-from-main-search-app-on-ios/)
 - [ElectronX is building a stock market for electricity trading](https://techcrunch.com/2025/02/19/electronx-is-building-a-stock-market-for-electricity-trading/)
-- [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/)
-- [Google brings a ‘Circle to Search’-like feature to iPhone users](https://techcrunch.com/2025/02/19/google-brings-a-circle-to-search-like-feature-to-iphone-users/)
-- [The next giant leap? How jumping could help astronauts train for trips to the moon and Mars](https://www.space.com/space-exploration/human-spaceflight/the-next-giant-leap-how-jumping-could-help-astronauts-train-for-trips-to-the-moon-and-mars)
-- [Mistral’s Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
