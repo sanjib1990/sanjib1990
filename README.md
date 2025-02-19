@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spanish spyware startup Mollitiam Industries shuts down](https://techcrunch.com/2025/02/19/spanish-spyware-startup-mollitiam-industries-shuts-down/)
-- [Lego Marvel Logo &amp; Minifigures set review](https://www.space.com/entertainment/lego-marvel-logo-and-minifigures-set-review)
-- [IVF insurance startup Future Family promises a baby or your money back](https://techcrunch.com/2025/02/19/ivf-insurance-startup-future-family-promises-a-baby-or-your-money-back/)
-- [Over 1,000 NASA employees saved from dismissal as Trump downsizes federal workforce](https://www.space.com/the-universe/earth/over-1-000-nasa-employees-saved-from-dismissal-as-trump-downsizes-federal-workforce)
-- [Karman+ digs up $20M to build an asteroid-mining autonomous spacecraft](https://techcrunch.com/2025/02/19/karman-digs-up-20m-to-build-an-asteroid-mining-autonomous-spacecraft/)
+- [Leaving Pluto in the dust: New Horizons probe gearing up for epic crossing of &#39;termination shock&#39;](https://www.space.com/space-exploration/new-horizons/leaving-pluto-in-the-dust-new-horizons-probe-gearing-up-for-epic-crossing-of-termination-shock)
+- [Uber ditches commissions in favor of daily fees for rickshaw drivers in India](https://techcrunch.com/2025/02/19/uber-ditches-commissions-in-favor-of-fees-for-auto-rickshaw-drivers-in-india/)
+- [Black holes snacking on small stars create particle accelerators that bombard Earth with cosmic rays](https://www.space.com/microquasars-black-hole-devour-stars)
+- [Brand new women’s focused Swizzle Ventures skyrockets past its fundraising target](https://techcrunch.com/2025/02/19/brand-new-womens-focused-swizzle-ventures-skyrockets-past-its-fundraising-target/)
+- [Mark Zuckerberg’s charity U-turns, ends DEI efforts](https://techcrunch.com/2025/02/19/mark-zuckerbergs-charity-u-turns-ends-dei-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
