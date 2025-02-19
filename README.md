@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperlume wants to make chip-to-chip communication faster and more efficient](https://techcrunch.com/2025/02/19/hyperlume-wants-to-make-chip-to-chip-communication-faster-and-more-efficient/)
+- [Superhuman introduces AI-powered categorization to reduce spammy emails in your inbox](https://techcrunch.com/2025/02/19/superhuman-introduces-ai-powered-categorization-to-reduce-spammy-emails-in-your-inbox/)
+- [Blue Ghost moon lander lowers its orbit to fly closer to the lunar surface &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-ghost-moon-lander-lowers-its-orbit-to-fly-closer-to-the-lunar-surface-video)
+- [Augury raises $75M at $1B+ valuation for AI to detect malfunctions in factory machines](https://techcrunch.com/2025/02/19/augury-raises-73m-on-a-1b-valuation-for-ai-to-detect-malfunctions-in-factory-machines/)
 - [NIH funding uncertainty spurs new biotech venture fund](https://techcrunch.com/2025/02/19/nih-funding-uncertainty-spurs-new-biotech-venture-fund/)
-- [Murena now sells a ‘deGoogled’ Pixel Tablet](https://techcrunch.com/2025/02/19/murena-now-sells-a-degoogled-pixel-tablet/)
-- [Palo Alto Networks warns of another firewall vulnerability under attack by hackers](https://techcrunch.com/2025/02/19/palo-alto-networks-warns-of-another-firewall-vulnerability-under-attack-by-hackers/)
-- [Guidde taps AI to help create software training videos](https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/)
-- [A former Etsy product manager built an AI-powered app for new parents](https://techcrunch.com/2025/02/19/a-former-etsy-product-manager-built-a-app-to-create-better-family-management-for-parents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
