@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NIH funding uncertainty spurs new biotech venture fund](https://techcrunch.com/2025/02/19/nih-funding-uncertainty-spurs-new-biotech-venture-fund/)
+- [Murena now sells a ‘deGoogled’ Pixel Tablet](https://techcrunch.com/2025/02/19/murena-now-sells-a-degoogled-pixel-tablet/)
+- [Palo Alto Networks warns of another firewall vulnerability under attack by hackers](https://techcrunch.com/2025/02/19/palo-alto-networks-warns-of-another-firewall-vulnerability-under-attack-by-hackers/)
 - [Guidde taps AI to help create software training videos](https://techcrunch.com/2025/02/19/guidde-taps-ai-to-help-create-software-training-videos/)
 - [A former Etsy product manager built an AI-powered app for new parents](https://techcrunch.com/2025/02/19/a-former-etsy-product-manager-built-a-app-to-create-better-family-management-for-parents/)
-- [X doubles its Premium+ plan prices after xAI releases Grok 3](https://techcrunch.com/2025/02/19/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/)
-- [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/19/hyundais-new-tesla-charging-port-comes-up-short/)
-- [7 planets are aligned in the night sky right now. But what&#39;s that mean for science?](https://www.space.com/planetary-alignments-mean-for-science-astronomy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
