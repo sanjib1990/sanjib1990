@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X doubles its Premium+ plan prices after xAI releases Grok 3](https://techcrunch.com/2025/02/19/x-doubles-its-premium-plan-prices-after-xai-releases-grok-3/)
+- [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/19/hyundais-new-tesla-charging-port-comes-up-short/)
+- [7 planets are aligned in the night sky right now. But what&#39;s that mean for science?](https://www.space.com/planetary-alignments-mean-for-science-astronomy)
+- [Kuda and CEO face allegations of sex discrimination and unfair dismissal from former executive, per filing](https://techcrunch.com/2025/02/19/kuda-and-ceo-face-allegations-of-sex-discrimination-and-unfair-dismissal-from-former-executive-per-filing/)
 - [I want to believe — but yet another massive search for alien technosignatures just turned up nothing](https://www.space.com/alien-radio-signals-search-empty)
-- [Pokémon Go maker Niantic is reportedly selling its games division](https://techcrunch.com/2025/02/18/pokemon-go-maker-niantic-is-reportedly-selling-its-games-division/)
-- [Boeing plans to lay off hundreds of employees working on NASA&#39;s SLS moon rocket: reports](https://www.space.com/boeing-layoffs-nasa-space-launch-system-moon-rocket)
-- [Humane’s AI Pin is dead, as HP buys startup’s assets for $116M](https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/)
-- [&#39;Captain America: Brave New World&#39; introduces adamantium into the MCU, but did it come from space in the comics?](https://www.space.com/entertainment/space-movies-shows/captain-america-brave-new-world-introduces-adamantium-into-the-mcu-but-did-it-come-from-space-in-the-comics)
 <!-- BLOG-POST-LIST:END -->
 
 ---
