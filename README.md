@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Want a workout? Try walking to the top of the world&#39;s largest telescope &lpar;photo&rpar;](https://www.space.com/extremely-large-telescope-workout-photo)
-- [Australian IVF giant Genea confirms hackers ‘accessed data’ during cyberattack](https://techcrunch.com/2025/02/19/australian-ivf-giant-genea-confirms-hackers-accessed-data-during-cyberattack/)
-- [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
-- [Hyperlume wants to make chip-to-chip communication faster and more efficient](https://techcrunch.com/2025/02/19/hyperlume-wants-to-make-chip-to-chip-communication-faster-and-more-efficient/)
-- [Superhuman introduces AI-powered categorization to reduce spammy emails in your inbox](https://techcrunch.com/2025/02/19/superhuman-introduces-ai-powered-categorization-to-reduce-spammy-emails-in-your-inbox/)
+- [Apple’s $599 iPhone 16e adds AI, launches February 28](https://techcrunch.com/2025/02/19/apples-599-iphone-16e-adds-ai-ditches-the-fingerprint-scanner/)
+- [Largest-ever discovery of &#39;missing link&#39; black holes revealed by dark energy camera &lpar;video&rpar;](https://www.space.com/desi-missing-link-intermediate-mass-black-hole)
+- [Instagram upgrades DMs with music-sharing, message scheduling, translation and more](https://techcrunch.com/2025/02/19/instagram-upgrades-dms-with-music-sharing-message-scheduling-translation-and-more/)
+- [US Army soldier pleads guilty to AT&amp;T and Verizon hacks](https://techcrunch.com/2025/02/19/us-army-soldier-pleads-guilty-to-att-and-verizon-hacks/)
+- [X in talks to raise money at a $44B valuation](https://techcrunch.com/2025/02/19/x-in-talks-to-raise-money-at-a-44b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
