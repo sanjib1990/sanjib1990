@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saronic raises $600M to mass produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/)
+- [Study of TikTok, X ‘For You’ feeds in Germany finds Far Right political bias ahead of federal elections](https://techcrunch.com/2025/02/19/study-of-tiktok-x-for-you-feeds-in-germany-finds-far-right-political-bias-ahead-of-federal-elections/)
+- [After raising $1 billion, fintech Varo closes another $29 million, replaces founder CEO](https://techcrunch.com/2025/02/19/after-raising-1-billion-fintech-varo-closes-another-29-million-replaces-founder-ceo/)
 - [Leaving Pluto in the dust: New Horizons probe gearing up for epic crossing of &#39;termination shock&#39;](https://www.space.com/space-exploration/new-horizons/leaving-pluto-in-the-dust-new-horizons-probe-gearing-up-for-epic-crossing-of-termination-shock)
 - [Uber ditches commissions in favor of daily fees for rickshaw drivers in India](https://techcrunch.com/2025/02/19/uber-ditches-commissions-in-favor-of-fees-for-auto-rickshaw-drivers-in-india/)
-- [Black holes snacking on small stars create particle accelerators that bombard Earth with cosmic rays](https://www.space.com/microquasars-black-hole-devour-stars)
-- [Brand new women’s focused Swizzle Ventures skyrockets past its fundraising target](https://techcrunch.com/2025/02/19/brand-new-womens-focused-swizzle-ventures-skyrockets-past-its-fundraising-target/)
-- [Mark Zuckerberg’s charity U-turns, ends DEI efforts](https://techcrunch.com/2025/02/19/mark-zuckerbergs-charity-u-turns-ends-dei-efforts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
