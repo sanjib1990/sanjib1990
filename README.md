@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s $599 iPhone 16e adds AI, launches February 28](https://techcrunch.com/2025/02/19/apples-599-iphone-16e-adds-ai-ditches-the-fingerprint-scanner/)
-- [Largest-ever discovery of &#39;missing link&#39; black holes revealed by dark energy camera &lpar;video&rpar;](https://www.space.com/desi-missing-link-intermediate-mass-black-hole)
-- [Instagram upgrades DMs with music-sharing, message scheduling, translation and more](https://techcrunch.com/2025/02/19/instagram-upgrades-dms-with-music-sharing-message-scheduling-translation-and-more/)
-- [US Army soldier pleads guilty to AT&amp;T and Verizon hacks](https://techcrunch.com/2025/02/19/us-army-soldier-pleads-guilty-to-att-and-verizon-hacks/)
-- [X in talks to raise money at a $44B valuation](https://techcrunch.com/2025/02/19/x-in-talks-to-raise-money-at-a-44b-valuation/)
+- [ElectronX is building a stock market for electricity trading](https://techcrunch.com/2025/02/19/electronx-is-building-a-stock-market-for-electricity-trading/)
+- [Sanas taps AI to change call center workers’ accents in real time](https://techcrunch.com/2025/02/19/sanas-taps-ai-to-change-call-center-workers-accents-in-real-time/)
+- [Google brings a ‘Circle to Search’-like feature to iPhone users](https://techcrunch.com/2025/02/19/google-brings-a-circle-to-search-like-feature-to-iphone-users/)
+- [The next giant leap? How jumping could help astronauts train for trips to the moon and Mars](https://www.space.com/space-exploration/human-spaceflight/the-next-giant-leap-how-jumping-could-help-astronauts-train-for-trips-to-the-moon-and-mars)
+- [Mistral’s Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
