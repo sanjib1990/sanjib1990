@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Want a workout? Try walking to the top of the world&#39;s largest telescope &lpar;photo&rpar;](https://www.space.com/extremely-large-telescope-workout-photo)
+- [Australian IVF giant Genea confirms hackers ‘accessed data’ during cyberattack](https://techcrunch.com/2025/02/19/australian-ivf-giant-genea-confirms-hackers-accessed-data-during-cyberattack/)
+- [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
 - [Hyperlume wants to make chip-to-chip communication faster and more efficient](https://techcrunch.com/2025/02/19/hyperlume-wants-to-make-chip-to-chip-communication-faster-and-more-efficient/)
 - [Superhuman introduces AI-powered categorization to reduce spammy emails in your inbox](https://techcrunch.com/2025/02/19/superhuman-introduces-ai-powered-categorization-to-reduce-spammy-emails-in-your-inbox/)
-- [Blue Ghost moon lander lowers its orbit to fly closer to the lunar surface &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-ghost-moon-lander-lowers-its-orbit-to-fly-closer-to-the-lunar-surface-video)
-- [Augury raises $75M at $1B+ valuation for AI to detect malfunctions in factory machines](https://techcrunch.com/2025/02/19/augury-raises-73m-on-a-1b-valuation-for-ai-to-detect-malfunctions-in-factory-machines/)
-- [NIH funding uncertainty spurs new biotech venture fund](https://techcrunch.com/2025/02/19/nih-funding-uncertainty-spurs-new-biotech-venture-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
