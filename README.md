@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s Curiosity Mars rover discovers evidence of ripples from an ancient Red Planet lake &lpar;images&rpar;](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-mars-rover-discovers-evidence-of-ripples-from-an-ancient-red-planet-lake-images)
-- [Electric aircraft founder Kyle Clark threw out the Silicon Valley playbook](https://techcrunch.com/2025/02/20/electric-aircraft-founder-kyle-clark-threw-out-the-silicon-valley-playbook/)
-- [Trump’s FTC is looking into censorship on tech platforms](https://techcrunch.com/2025/02/20/trumps-ftc-is-looking-into-censorship-on-tech-platforms/)
-- [Amazon shuts down Chime, its Zoom alternative](https://techcrunch.com/2025/02/20/amazon-shuts-down-chime-its-zoom-alternative/)
-- [In India, Apple’s iPhone 16e faces stiff competition from older models](https://techcrunch.com/2025/02/20/in-india-apples-iphone-16e-faces-stiff-competition-from-older-models/)
+- [Bankrupt Nikola wants to sell its whole business by April](https://techcrunch.com/2025/02/20/bankrupt-nikola-wants-to-sell-its-whole-business-by-april/)
+- [Stalkerware apps Cocospy and Spyic are exposing phone data of millions of people](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/)
+- [The ISS should be deorbited &#39;as soon as possible,&#39; Elon Musk says: &#39;Let&#39;s go to Mars&#39;](https://www.space.com/space-exploration/international-space-station/the-iss-should-be-deorbited-as-soon-as-possible-elon-musk-says-lets-go-to-mars)
+- [Meta starts accepting sign-ups for Community Notes on Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/20/meta-starts-accepting-sign-ups-for-community-notes-on-facebook-instagram-and-threads/)
+- [Tesla to test virtual queues at Supercharging locations](https://techcrunch.com/2025/02/20/tesla-to-test-virtual-queues-at-supercharging-locations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
