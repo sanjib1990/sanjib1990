@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK healthcare giant HCRG confirms hack after ransomware gang claims theft of sensitive data](https://techcrunch.com/2025/02/20/uk-healthcare-giant-hcrg-confirms-hack-after-ransomware-gang-claims-theft-of-sensitive-data/)
+- [SmartSuite raises $38M to be the final word on enterprise collaboration](https://techcrunch.com/2025/02/20/smartsuite-raises-38m-to-be-the-final-word-on-enterprise-collaboration/)
+- [Jeff Bezos&#39; Blue Origin announces crew for 10th space tourism launch](https://www.space.com/blue-origin-crew-10th-space-tourism-launch)
 - [Amazon is shutting down its app store on Android](https://techcrunch.com/2025/02/20/amazon-is-shutting-down-its-app-store-on-android/)
 - [Valar Atomics comes out of stealth with $19M and a pilot reactor site](https://techcrunch.com/2025/02/20/valar-atomics-comes-out-of-stealth-with-19m-and-a-pilot-reactor-site/)
-- [Einstein Probe&#39;s X-ray vision discovers an &#39;impossible&#39; pair of vampire stars](https://www.space.com/the-universe/stars/einstein-probes-x-ray-vision-discovers-an-impossible-pair-of-vampire-stars)
-- [NASA lowers impact risk of &#39;city-killer&#39; asteroid 2024 YR4 to 1 in 67 &lpar;phew!&rpar;](https://www.space.com/asteroid-2024yt4-impact-risk-drop-nasa)
-- [What is dark energy? Exploding white dwarf stars may help us crack the case](https://www.space.com/white-dwarf-stars-diversity-exploding-dark-energy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
