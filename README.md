@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tether backs stablecoin liquidity provider Mansa in $10M seed round](https://techcrunch.com/2025/02/19/tether-backs-stablecoin-liquidity-provider-mansa-in-10m-seed-round/)
 - [Spore.Bio raises $23M to apply machine learning to microbiology testing](https://techcrunch.com/2025/02/19/sporebio-raises-23m-to-apply-machine-learning-to-microbiology-testing/)
 - [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/)
 - [‘For You’ feeds are not for creators, Patreon says](https://techcrunch.com/2025/02/19/for-you-feeds-are-not-for-creators-patreon-says/)
 - [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/)
-- [Study of TikTok, X ‘For You’ feeds in Germany finds far-right political bias ahead of federal elections](https://techcrunch.com/2025/02/19/study-of-tiktok-x-for-you-feeds-in-germany-finds-far-right-political-bias-ahead-of-federal-elections/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
