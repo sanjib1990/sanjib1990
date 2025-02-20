@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Android phone could have stalkerware. Here’s how to remove it](https://techcrunch.com/2025/02/20/remove-android-spyware/)
+- [Mark Zuckerberg’s makeover didn’t make people like him, study shows](https://techcrunch.com/2025/02/20/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows/)
+- [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2025/02/20/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
 - [Bankrupt Nikola wants to sell its whole business by April](https://techcrunch.com/2025/02/20/bankrupt-nikola-wants-to-sell-its-whole-business-by-april/)
 - [Stalkerware apps Cocospy and Spyic are exposing phone data of millions of people](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/)
-- [The ISS should be deorbited &#39;as soon as possible,&#39; Elon Musk says: &#39;Let&#39;s go to Mars&#39;](https://www.space.com/space-exploration/international-space-station/the-iss-should-be-deorbited-as-soon-as-possible-elon-musk-says-lets-go-to-mars)
-- [Meta starts accepting sign-ups for Community Notes on Facebook, Instagram, and Threads](https://techcrunch.com/2025/02/20/meta-starts-accepting-sign-ups-for-community-notes-on-facebook-instagram-and-threads/)
-- [Tesla to test virtual queues at Supercharging locations](https://techcrunch.com/2025/02/20/tesla-to-test-virtual-queues-at-supercharging-locations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
