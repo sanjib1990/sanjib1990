@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Android phone could have stalkerware. Here’s how to remove it](https://techcrunch.com/2025/02/20/remove-android-spyware/)
-- [Mark Zuckerberg’s makeover didn’t make people like him, study shows](https://techcrunch.com/2025/02/20/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows/)
-- [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2025/02/20/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
-- [Bankrupt Nikola wants to sell its whole business by April](https://techcrunch.com/2025/02/20/bankrupt-nikola-wants-to-sell-its-whole-business-by-april/)
-- [Stalkerware apps Cocospy and Spyic are exposing phone data of millions of people](https://techcrunch.com/2025/02/20/stalkerware-apps-cocospy-spyic-exposing-phone-data-of-millions-of-people/)
+- [&#39;Jupiter Ascending&#39; came out 10 years ago, and we&#39;re still not sure how the Matrix creator&#39;s space opera went so wrong](https://www.space.com/entertainment/space-movies-shows/jupiter-ascending-10-years-later-a-cosmic-misfire-or-an-undervalued-space-romp)
+- [6 new tech unicorns were minted in January 2025 so far.](https://techcrunch.com/2025/02/20/6-new-tech-unicorns-were-minted-in-january-2025-so-far/)
+- [Some baby stars in ancient stellar nurseries were born in &#39;fluffy&#39; cosmic blankets](https://www.space.com/infant-stars-ancient-stellar-nurseries-fluffy)
+- [Rivian inches closer to profitability but warns ‘changes to government policies’ could hurt](https://techcrunch.com/2025/02/20/rivian-inches-closer-to-profitability-but-warns-changes-to-government-policies-could-hurt/)
+- [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
