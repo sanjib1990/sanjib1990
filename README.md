@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [61 US startups became unicorns in 2024: Here’s the full list](https://techcrunch.com/2025/02/20/38-startups-have-become-unicorns-so-far-in-2024-heres-the-full-list/)
+- [Inside the Humane acquisition: HP offers big raises to some,  others immediately laid off](https://techcrunch.com/2025/02/20/inside-the-humane-acquisition-hp-offers-big-raises-to-some-others-immediately-laid-off/)
+- [Cherryrock Capital raises new $172M fund from all-star investors to back diverse founders](https://techcrunch.com/2025/02/20/cherryrock-capital-raises-new-172m-fund-from-all-star-investors-to-back-diverse-founders/)
+- [Life as we don&#39;t know it: Some aliens may need sulfuric acid like we need water](https://www.space.com/space-exploration/search-for-life/life-as-we-dont-know-it-some-aliens-may-need-sulfuric-acid-like-we-need-water)
 - [Figure’s humanoid robot takes voice orders to help around the house](https://techcrunch.com/2025/02/20/figures-humanoid-robot-takes-voice-orders-to-help-around-the-house/)
-- [Our favorite novelty Astronaut star projector is now 20% off](https://www.space.com/stargazing/astronomy-kit/our-favorite-novelty-astronaut-star-projector-is-now-20-percent-off-on-amazon)
-- [SpaceX Falcon 9 rocket debris creates dramatic fireball over Europe, crashes in Poland](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-debris-creates-dramatic-fireball-over-europe-crashes-in-poland)
-- [Instagram’s new ad format lets creators get paid for testimonials in comments](https://techcrunch.com/2025/02/20/instagrams-new-ad-format-lets-creators-get-paid-for-testimonials-in-comments/)
-- [Spotify partners with ElevenLabs to expand its library of AI-narrated audiobooks](https://techcrunch.com/2025/02/20/spotify-partners-with-elevenlabs-to-expand-its-library-of-ai-narrated-audiobooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
