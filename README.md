@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valar Atomics comes out of stealth with $19M and a pilot reactor site](https://techcrunch.com/2025/02/20/valar-atomics-comes-out-of-stealth-with-19m-and-a-pilot-reactor-site/)
 - [Einstein Probe&#39;s X-ray vision discovers an &#39;impossible&#39; pair of vampire stars](https://www.space.com/the-universe/stars/einstein-probes-x-ray-vision-discovers-an-impossible-pair-of-vampire-stars)
 - [NASA lowers impact risk of &#39;city-killer&#39; asteroid 2024 YR4 to 1 in 67 &lpar;phew!&rpar;](https://www.space.com/asteroid-2024yt4-impact-risk-drop-nasa)
 - [What is dark energy? Exploding white dwarf stars may help us crack the case](https://www.space.com/white-dwarf-stars-diversity-exploding-dark-energy)
-- [Musk and Trump just repeated inaccurate claims of &#39;stranded&#39; Starliner astronauts. NASA and the astronauts don&#39;t agree](https://www.space.com/space-exploration/international-space-station/musk-and-trump-just-repeated-inaccurate-claims-of-stranded-starliner-astronauts-nasa-and-the-astronauts-dont-agree)
-- [Tether backs stablecoin liquidity provider Mansa in $10M seed round](https://techcrunch.com/2025/02/19/tether-backs-stablecoin-liquidity-provider-mansa-in-10m-seed-round/)
+- [Musk and Trump repeat false &#39;stranded&#39; Starliner astronauts narrative, but they are not stranded](https://www.space.com/space-exploration/international-space-station/musk-and-trump-just-repeated-inaccurate-claims-of-stranded-starliner-astronauts-nasa-and-the-astronauts-dont-agree)
 <!-- BLOG-POST-LIST:END -->
 
 ---
