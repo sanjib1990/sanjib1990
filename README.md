@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch caps streamers’ storage at 100 hours of highlights and uploads](https://techcrunch.com/2025/02/20/twitch-caps-streamers-storage-at-100-hours-of-highlights-and-uploads/)
+- [Hubble Telescope sets its eyes on cosmic cotton candy near the Tarantula Nebula &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/cotton-candy-in-space-hubble-telescope-spies-colorful-cloudscape-near-tarantula-nebula-photo)
+- [OpenAI now serves 400M users every week](https://techcrunch.com/2025/02/20/openai-now-serves-400-million-users-every-week/)
 - [UK healthcare giant HCRG confirms hack after ransomware gang claims theft of sensitive data](https://techcrunch.com/2025/02/20/uk-healthcare-giant-hcrg-confirms-hack-after-ransomware-gang-claims-theft-of-sensitive-data/)
-- [SmartSuite raises $38M to be the final word on enterprise collaboration](https://techcrunch.com/2025/02/20/smartsuite-raises-38m-to-be-the-final-word-on-enterprise-collaboration/)
-- [Jeff Bezos&#39; Blue Origin announces crew for 10th space tourism launch](https://www.space.com/blue-origin-crew-10th-space-tourism-launch)
-- [Amazon is shutting down its app store on Android](https://techcrunch.com/2025/02/20/amazon-is-shutting-down-its-app-store-on-android/)
-- [Valar Atomics comes out of stealth with $19M and a pilot reactor site](https://techcrunch.com/2025/02/20/valar-atomics-comes-out-of-stealth-with-19m-and-a-pilot-reactor-site/)
+- [Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation](https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
