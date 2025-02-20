@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spore.Bio raises $23M to apply machine learning to microbiology testing](https://techcrunch.com/2025/02/19/sporebio-raises-23m-to-apply-machine-learning-to-microbiology-testing/)
 - [AI-coding startup Codeium in talks to raise at an almost $3B valuation, sources say](https://techcrunch.com/2025/02/19/ai-coding-startup-codeium-in-talks-to-raise-at-an-almost-3b-valuation-sources-say/)
 - [‘For You’ feeds are not for creators, Patreon says](https://techcrunch.com/2025/02/19/for-you-feeds-are-not-for-creators-patreon-says/)
 - [Saronic raises $600M to mass-produce autonomous warships](https://techcrunch.com/2025/02/19/saronic-raises-600m-to-mass-produce-autonomous-warships/)
 - [Study of TikTok, X ‘For You’ feeds in Germany finds far-right political bias ahead of federal elections](https://techcrunch.com/2025/02/19/study-of-tiktok-x-for-you-feeds-in-germany-finds-far-right-political-bias-ahead-of-federal-elections/)
-- [After raising $1 billion, fintech Varo closes another $29 million, replaces founder CEO](https://techcrunch.com/2025/02/19/after-raising-1-billion-fintech-varo-closes-another-29-million-replaces-founder-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
