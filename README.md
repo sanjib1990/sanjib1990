@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitch caps streamers’ storage at 100 hours of highlights and uploads](https://techcrunch.com/2025/02/20/twitch-caps-streamers-storage-at-100-hours-of-highlights-and-uploads/)
-- [Hubble Telescope sets its eyes on cosmic cotton candy near the Tarantula Nebula &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/cotton-candy-in-space-hubble-telescope-spies-colorful-cloudscape-near-tarantula-nebula-photo)
-- [OpenAI now serves 400M users every week](https://techcrunch.com/2025/02/20/openai-now-serves-400-million-users-every-week/)
-- [UK healthcare giant HCRG confirms hack after ransomware gang claims theft of sensitive data](https://techcrunch.com/2025/02/20/uk-healthcare-giant-hcrg-confirms-hack-after-ransomware-gang-claims-theft-of-sensitive-data/)
-- [Mercor, an AI recruiting startup founded by 21-year-olds, raises $100M at $2B valuation](https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/)
+- [Instagram’s new ad format lets creators get paid for testimonials in comments](https://techcrunch.com/2025/02/20/instagrams-new-ad-format-lets-creators-get-paid-for-testimonials-in-comments/)
+- [Spotify partners with ElevenLabs to expand its library of AI-narrated audiobooks](https://techcrunch.com/2025/02/20/spotify-partners-with-elevenlabs-to-expand-its-library-of-ai-narrated-audiobooks/)
+- [California privacy regulator seeks to fine Florida data broker after huge breach of Social Security numbers](https://techcrunch.com/2025/02/20/california-privacy-regulator-seeks-to-fine-florida-data-broker-after-huge-breach-of-social-security-numbers/)
+- [Substack now lets creators monetize videos and post them directly from its app](https://techcrunch.com/2025/02/20/substack-now-lets-creators-monetize-videos-and-post-them-directly-from-its-app/)
+- [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
