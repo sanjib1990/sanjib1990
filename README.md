@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Figure’s humanoid robot takes voice orders to help around the house](https://techcrunch.com/2025/02/20/figures-humanoid-robot-takes-voice-orders-to-help-around-the-house/)
+- [Our favorite novelty Astronaut star projector is now 20% off](https://www.space.com/stargazing/astronomy-kit/our-favorite-novelty-astronaut-star-projector-is-now-20-percent-off-on-amazon)
+- [SpaceX Falcon 9 rocket debris creates dramatic fireball over Europe, crashes in Poland](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-debris-creates-dramatic-fireball-over-europe-crashes-in-poland)
 - [Instagram’s new ad format lets creators get paid for testimonials in comments](https://techcrunch.com/2025/02/20/instagrams-new-ad-format-lets-creators-get-paid-for-testimonials-in-comments/)
 - [Spotify partners with ElevenLabs to expand its library of AI-narrated audiobooks](https://techcrunch.com/2025/02/20/spotify-partners-with-elevenlabs-to-expand-its-library-of-ai-narrated-audiobooks/)
-- [California privacy regulator seeks to fine Florida data broker after huge breach of Social Security numbers](https://techcrunch.com/2025/02/20/california-privacy-regulator-seeks-to-fine-florida-data-broker-after-huge-breach-of-social-security-numbers/)
-- [Substack now lets creators monetize videos and post them directly from its app](https://techcrunch.com/2025/02/20/substack-now-lets-creators-monetize-videos-and-post-them-directly-from-its-app/)
-- [Arize AI hopes it has first-mover advantage in AI observability](https://techcrunch.com/2025/02/20/arize-ai-hopes-it-has-first-mover-advantage-in-ai-observability/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
