@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [61 US startups became unicorns in 2024: Here’s the full list](https://techcrunch.com/2025/02/20/38-startups-have-become-unicorns-so-far-in-2024-heres-the-full-list/)
-- [Inside the Humane acquisition: HP offers big raises to some,  others immediately laid off](https://techcrunch.com/2025/02/20/inside-the-humane-acquisition-hp-offers-big-raises-to-some-others-immediately-laid-off/)
-- [Cherryrock Capital raises new $172M fund from all-star investors to back diverse founders](https://techcrunch.com/2025/02/20/cherryrock-capital-raises-new-172m-fund-from-all-star-investors-to-back-diverse-founders/)
-- [Life as we don&#39;t know it: Some aliens may need sulfuric acid like we need water](https://www.space.com/space-exploration/search-for-life/life-as-we-dont-know-it-some-aliens-may-need-sulfuric-acid-like-we-need-water)
-- [Figure’s humanoid robot takes voice orders to help around the house](https://techcrunch.com/2025/02/20/figures-humanoid-robot-takes-voice-orders-to-help-around-the-house/)
+- [NASA&#39;s Curiosity Mars rover discovers evidence of ripples from an ancient Red Planet lake &lpar;images&rpar;](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-mars-rover-discovers-evidence-of-ripples-from-an-ancient-red-planet-lake-images)
+- [Electric aircraft founder Kyle Clark threw out the Silicon Valley playbook](https://techcrunch.com/2025/02/20/electric-aircraft-founder-kyle-clark-threw-out-the-silicon-valley-playbook/)
+- [Trump’s FTC is looking into censorship on tech platforms](https://techcrunch.com/2025/02/20/trumps-ftc-is-looking-into-censorship-on-tech-platforms/)
+- [Amazon shuts down Chime, its Zoom alternative](https://techcrunch.com/2025/02/20/amazon-shuts-down-chime-its-zoom-alternative/)
+- [In India, Apple’s iPhone 16e faces stiff competition from older models](https://techcrunch.com/2025/02/20/in-india-apples-iphone-16e-faces-stiff-competition-from-older-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
