@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/)
-- [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/)
-- [YouTube reportedly launching new ‘premium lite’ tier soon](https://techcrunch.com/2025/02/21/youtube-reportedly-launching-new-premium-lite-tier-soon/)
-- [Elon Musk’s DOGE comes for agency that regulates autonomous vehicles](https://techcrunch.com/2025/02/21/elon-musks-doge-comes-for-agency-that-regulates-autonomous-vehicles/)
-- [&#39;It&#39;s extremely worrisome.&#39; NASA&#39;s James Webb Space Telescope faces potential 20% budget cut just 4 years after launch](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
+- [Report: AI coding assistants aren’t a panacea](https://techcrunch.com/2025/02/21/report-ai-coding-assistants-arent-a-panacea/)
+- [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/)
+- [NASA Associate Administrator Jim Free announces retirement after 35-year career at the space agency](https://www.space.com/space-exploration/human-spaceflight/nasa-associate-administrator-jim-free-announces-retirement-after-35-year-career-at-the-space-agency)
+- [Apple pulls iCloud end-to-end encryption feature for UK users after government demanded backdoor](https://techcrunch.com/2025/02/21/apple-pulls-icloud-end-to-end-encryption-feature-for-uk-users-after-government-demanded-backdoor/)
+- [DeepSeek to open-source parts of online services code](https://techcrunch.com/2025/02/21/deepseek-to-open-source-parts-of-online-services-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
