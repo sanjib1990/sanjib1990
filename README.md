@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How automotive exec Crystal Brown founded CircNova, an AI drug discovery biotech](https://techcrunch.com/2025/02/21/how-automotive-exec-crystal-brown-founded-circnova-an-ai-drug-discovery-biotech/)
-- [Five of the most important fintech VCs investing heavily in the sector](https://techcrunch.com/2025/02/21/the-most-important-fintech-vcs-investing-heavily-in-the-sector/)
-- [Report: AI coding assistants aren’t a panacea](https://techcrunch.com/2025/02/21/report-ai-coding-assistants-arent-a-panacea/)
-- [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/)
-- [NASA Associate Administrator Jim Free announces retirement after 30-year career at the space agency](https://www.space.com/space-exploration/human-spaceflight/nasa-associate-administrator-jim-free-announces-retirement-after-35-year-career-at-the-space-agency)
+- [The Vision Pro is getting Apple Intelligence in April](https://techcrunch.com/2025/02/21/the-vision-pro-is-getting-apple-intelligence-in-april/)
+- [Augury and Hightouch joined the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/)
+- [Crypto exchange Bybit says it was hacked and lost around $1.4 billion](https://techcrunch.com/2025/02/21/crypto-exchange-bybit-says-it-was-hacked-and-lost-around-1-4-billion/)
+- [Boost for alien hunters? Earth life may not be so improbable, study suggests](https://www.space.com/space-exploration/search-for-life/boost-for-alien-hunters-earth-life-may-not-be-so-improbable-study-suggests)
+- [The real reason why oil and gas companies are bullish on carbon capture](https://techcrunch.com/2025/02/21/the-real-reason-why-oil-and-gas-companies-are-bullish-on-carbon-capture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
