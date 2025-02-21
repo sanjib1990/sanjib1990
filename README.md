@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rivian inches closer to profitability but warns ‘changes to government policies’ could hurt](https://techcrunch.com/2025/02/20/rivian-inches-closer-to-profitability-but-warns-changes-to-government-policies-could-hurt/)
+- [Rivian will launch hands-off highway driver assist ‘in a few weeks’](https://techcrunch.com/2025/02/20/rivian-will-launch-hands-off-highway-driver-assist-in-a-few-weeks/)
 - [Solar crushed 2024, but emissions were up as industry used more natural gas](https://techcrunch.com/2025/02/20/solar-crushed-2024-but-emissions-were-up-as-industry-used-more-natural-gas/)
 - [&#39;Jupiter Ascending&#39; came out 10 years ago, and we&#39;re still not sure how The Matrix creators&#39; space opera went so wrong](https://www.space.com/entertainment/space-movies-shows/jupiter-ascending-10-years-later-a-cosmic-misfire-or-an-undervalued-space-romp)
 - [6 new tech unicorns were minted in January 2025](https://techcrunch.com/2025/02/20/6-new-tech-unicorns-were-minted-in-january-2025-so-far/)
-- [Some baby stars in ancient stellar nurseries were born in &#39;fluffy&#39; cosmic blankets](https://www.space.com/infant-stars-ancient-stellar-nurseries-fluffy)
-- [Rivian inches closer to profitability but warns ‘changes to government policies’ could hurt](https://techcrunch.com/2025/02/20/rivian-inches-closer-to-profitability-but-warns-changes-to-government-policies-could-hurt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
