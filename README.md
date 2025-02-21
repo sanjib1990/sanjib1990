@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch Disrupt 2025: Lowest prices of the year end in 7 days](https://techcrunch.com/2025/02/21/techcrunch-disrupt-2025-lowest-prices-of-the-year-end-in-7-days/)
+- [Three reasons every founder and VC should be at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/21/3-big-reasons-to-attend-techcrunch-all-stage-2025-if-you-are-a-founder-or-vc/)
+- [YouTube reportedly launching new ‘premium lite’ tier soon](https://techcrunch.com/2025/02/21/youtube-reportedly-launching-new-premium-lite-tier-soon/)
+- [Elon Musk’s DOGE comes for agency that regulates autonomous vehicles](https://techcrunch.com/2025/02/21/elon-musks-doge-comes-for-agency-that-regulates-autonomous-vehicles/)
 - [&#39;It&#39;s extremely worrisome.&#39; NASA&#39;s James Webb Space Telescope faces potential 20% budget cut just 4 years after launch](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
-- [How do black holes &#39;leak&#39; energy? Scientists have a new spin on the answer](https://www.space.com/the-universe/black-holes/how-do-black-holes-leak-energy-scientists-may-finally-have-the-answer)
-- [OpenAI rolls out its AI agent, Operator, in several countries](https://techcrunch.com/2025/02/21/openai-rolls-out-its-ai-agent-operator-in-several-countries/)
-- [Rivian inches closer to profitability but warns ‘changes to government policies’ could hurt](https://techcrunch.com/2025/02/20/rivian-inches-closer-to-profitability-but-warns-changes-to-government-policies-could-hurt/)
-- [Rivian will launch hands-off highway driver assist ‘in a few weeks’](https://techcrunch.com/2025/02/20/rivian-will-launch-hands-off-highway-driver-assist-in-a-few-weeks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
