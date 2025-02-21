@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Norway’s 1X is building a humanoid robot for the home](https://techcrunch.com/2025/02/21/norways-1x-is-building-a-humanoid-robot-for-the-home/)
+- [Paralympian John McFall could become 1st astronaut with a disability on ISS](https://www.space.com/space-exploration/human-spaceflight/paralympian-john-mcfall-could-become-1st-astronaut-with-a-disability-on-iss)
+- [Sakana walks back claims that its AI can dramatically speed up model training](https://techcrunch.com/2025/02/21/sakana-walks-back-claims-that-its-ai-can-dramatically-speed-up-model-training/)
+- [Despite recent layoffs, Meta is expanding in India](https://techcrunch.com/2025/02/21/despite-recent-layoffs-meta-is-expanding-in-india/)
 - [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/)
-- [Apple takes on recipe apps with Apple News+ Food](https://techcrunch.com/2025/02/21/apple-takes-on-recipe-apps-with-apple-news-food/)
-- [The Vision Pro is getting Apple Intelligence in April](https://techcrunch.com/2025/02/21/the-vision-pro-is-getting-apple-intelligence-in-april/)
-- [Augury and Hightouch joined the unicorn club](https://techcrunch.com/2025/02/21/augury-and-hightouch-joined-the-unicorn-club/)
-- [Crypto exchange Bybit says it was hacked and lost around $1.4B](https://techcrunch.com/2025/02/21/crypto-exchange-bybit-says-it-was-hacked-and-lost-around-1-4-billion/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
