@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jeff Bezos&#39; Blue Origin targeting Feb. 25 for 10th space tourism launch](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-targeting-feb-25-for-10th-space-tourism-launch)
+- [Nvidia CEO Jensen Huang says market got it wrong about DeepSeek’s impact](https://techcrunch.com/2025/02/21/nvidia-ceo-jensen-huang-says-market-got-it-wrong-about-deepseeks-impact/)
+- [Report: OpenAI plans to shift compute needs from Microsoft to SoftBank](https://techcrunch.com/2025/02/21/report-openai-plans-to-shift-compute-needs-from-microsoft-to-softbank/)
 - [Norway’s 1X is building a humanoid robot for the home](https://techcrunch.com/2025/02/21/norways-1x-is-building-a-humanoid-robot-for-the-home/)
 - [Paralympian John McFall could become 1st astronaut with a disability on ISS](https://www.space.com/space-exploration/human-spaceflight/paralympian-john-mcfall-could-become-1st-astronaut-with-a-disability-on-iss)
-- [Sakana walks back claims that its AI can dramatically speed up model training](https://techcrunch.com/2025/02/21/sakana-walks-back-claims-that-its-ai-can-dramatically-speed-up-model-training/)
-- [Despite recent layoffs, Meta is expanding in India](https://techcrunch.com/2025/02/21/despite-recent-layoffs-meta-is-expanding-in-india/)
-- [Fintech founder Charlie Javice’s criminal trial has begun](https://techcrunch.com/2025/02/21/fintech-founder-charlie-javices-criminal-trial-has-begun/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
