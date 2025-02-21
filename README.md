@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How automotive exec Crystal Brown founded CircNova, an AI drug discovery biotech](https://techcrunch.com/2025/02/21/how-automotive-exec-crystal-brown-founded-circnova-an-ai-drug-discovery-biotech/)
+- [Five of the most important fintech VCs investing heavily in the sector](https://techcrunch.com/2025/02/21/the-most-important-fintech-vcs-investing-heavily-in-the-sector/)
 - [Report: AI coding assistants aren’t a panacea](https://techcrunch.com/2025/02/21/report-ai-coding-assistants-arent-a-panacea/)
 - [Apply to Speak at TechCrunch Sessions: AI before the deadline](https://techcrunch.com/2025/02/21/apply-to-speak-at-techcrunch-sessions-ai-before-the-deadline/)
-- [NASA Associate Administrator Jim Free announces retirement after 35-year career at the space agency](https://www.space.com/space-exploration/human-spaceflight/nasa-associate-administrator-jim-free-announces-retirement-after-35-year-career-at-the-space-agency)
-- [Apple pulls iCloud end-to-end encryption feature for UK users after government demanded backdoor](https://techcrunch.com/2025/02/21/apple-pulls-icloud-end-to-end-encryption-feature-for-uk-users-after-government-demanded-backdoor/)
-- [DeepSeek to open-source parts of online services code](https://techcrunch.com/2025/02/21/deepseek-to-open-source-parts-of-online-services-code/)
+- [NASA Associate Administrator Jim Free announces retirement after 30-year career at the space agency](https://www.space.com/space-exploration/human-spaceflight/nasa-associate-administrator-jim-free-announces-retirement-after-35-year-career-at-the-space-agency)
 <!-- BLOG-POST-LIST:END -->
 
 ---
