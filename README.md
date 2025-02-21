@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Einstein wins again! Quarks obey relativity laws, Large Hadron Collider finds](https://www.space.com/Quark-Large-Hadron-Collider-heaviest-elementry-particle-obeys-Einstein)
+- [iOS 18.4 will bring Apple Intelligence-powered ‘Priority Notifications’](https://techcrunch.com/2025/02/21/ios-18-4-will-bring-apple-intelligence-powered-priority-notifications/)
 - [Jeff Bezos&#39; Blue Origin targeting Feb. 25 for 10th space tourism launch](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-targeting-feb-25-for-10th-space-tourism-launch)
 - [Nvidia CEO Jensen Huang says market got it wrong about DeepSeek’s impact](https://techcrunch.com/2025/02/21/nvidia-ceo-jensen-huang-says-market-got-it-wrong-about-deepseeks-impact/)
 - [Report: OpenAI plans to shift compute needs from Microsoft to SoftBank](https://techcrunch.com/2025/02/21/report-openai-plans-to-shift-compute-needs-from-microsoft-to-softbank/)
-- [Norway’s 1X is building a humanoid robot for the home](https://techcrunch.com/2025/02/21/norways-1x-is-building-a-humanoid-robot-for-the-home/)
-- [Paralympian John McFall could become 1st astronaut with a disability on ISS](https://www.space.com/space-exploration/human-spaceflight/paralympian-john-mcfall-could-become-1st-astronaut-with-a-disability-on-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
