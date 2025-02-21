@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do black holes &#39;leak&#39; energy? Scientists have a new spin on the answer](https://www.space.com/the-universe/black-holes/how-do-black-holes-leak-energy-scientists-may-finally-have-the-answer)
 - [OpenAI rolls out its AI agent, Operator, in several countries](https://techcrunch.com/2025/02/21/openai-rolls-out-its-ai-agent-operator-in-several-countries/)
 - [Rivian inches closer to profitability but warns ‘changes to government policies’ could hurt](https://techcrunch.com/2025/02/20/rivian-inches-closer-to-profitability-but-warns-changes-to-government-policies-could-hurt/)
 - [Rivian will launch hands-off highway driver assist ‘in a few weeks’](https://techcrunch.com/2025/02/20/rivian-will-launch-hands-off-highway-driver-assist-in-a-few-weeks/)
 - [Solar crushed 2024, but emissions were up as industry used more natural gas](https://techcrunch.com/2025/02/20/solar-crushed-2024-but-emissions-were-up-as-industry-used-more-natural-gas/)
-- [&#39;Jupiter Ascending&#39; came out 10 years ago, and we&#39;re still not sure how The Matrix creators&#39; space opera went so wrong](https://www.space.com/entertainment/space-movies-shows/jupiter-ascending-10-years-later-a-cosmic-misfire-or-an-undervalued-space-romp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
