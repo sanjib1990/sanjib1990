@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;It&#39;s extremely worrisome.&#39; NASA&#39;s James Webb Space Telescope faces potential 20% budget cut just 4 years after launch](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
 - [How do black holes &#39;leak&#39; energy? Scientists have a new spin on the answer](https://www.space.com/the-universe/black-holes/how-do-black-holes-leak-energy-scientists-may-finally-have-the-answer)
 - [OpenAI rolls out its AI agent, Operator, in several countries](https://techcrunch.com/2025/02/21/openai-rolls-out-its-ai-agent-operator-in-several-countries/)
 - [Rivian inches closer to profitability but warns ‘changes to government policies’ could hurt](https://techcrunch.com/2025/02/20/rivian-inches-closer-to-profitability-but-warns-changes-to-government-policies-could-hurt/)
 - [Rivian will launch hands-off highway driver assist ‘in a few weeks’](https://techcrunch.com/2025/02/20/rivian-will-launch-hands-off-highway-driver-assist-in-a-few-weeks/)
-- [Solar crushed 2024, but emissions were up as industry used more natural gas](https://techcrunch.com/2025/02/20/solar-crushed-2024-but-emissions-were-up-as-industry-used-more-natural-gas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
