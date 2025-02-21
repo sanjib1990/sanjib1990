@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ChatGPT Operator is expensive....use this instead &lpar;FREE + Open Source&rpar;](https://www.youtube.com/watch?v=sxTNACldK3Y)
 - [Kafka Tutorial for Beginners | Everything you need to get started](https://www.youtube.com/watch?v=QkdkLdMBuL0)
 - [The Most Popular I.T. Cert just got better](https://www.youtube.com/watch?v=_x5xBe7tDs4)
 - [Is Elon’s Grok 3 the new AI king?](https://www.youtube.com/watch?v=b0XI-cbel1U)
 - [5 Mac Studios = 1 insane AI Supercomputer](https://www.youtube.com/watch?v=uJ3G3dA4Y2A)
-- [I built an AI supercomputer with 5 Mac Studios](https://www.youtube.com/watch?v=Ju0ndy2kwlw)
 <!-- YOUTUBE:END -->
 
 ---
