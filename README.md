@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta, X approved ads containing violent anti-Muslim, antisemitic hate speech ahead of German election, study finds](https://techcrunch.com/2025/02/21/meta-x-approved-ads-containing-violent-anti-muslim-antisemitic-hate-speech-ahead-of-german-election-study-finds/)
+- [Court filings show Meta staffers discussed using copyrighted content for AI training](https://techcrunch.com/2025/02/21/court-filings-show-meta-staffers-discussed-using-copyrighted-content-for-ai-training/)
 - [What&#39;s that smell? Astronomers discover a stinky new clue in the search for alien life](https://www.space.com/search-for-alien-life-stinky-new-clue-sulfur-habitable-zone)
-- [Brian Armstrong says Coinbase spent $50M fighting SEC lawsuit – and beat it](https://techcrunch.com/2025/02/21/brian-armstrong-says-coinbase-spent-50m-fighting-sec-lawsuit-and-beat-it/)
+- [Brian Armstrong says Coinbase spent $50M fighting SEC lawsuit — and beat it](https://techcrunch.com/2025/02/21/brian-armstrong-says-coinbase-spent-50m-fighting-sec-lawsuit-and-beat-it/)
 - [Einstein wins again! Quarks obey relativity laws, Large Hadron Collider finds](https://www.space.com/Quark-Large-Hadron-Collider-heaviest-elementry-particle-obeys-Einstein)
-- [iOS 18.4 will bring Apple Intelligence-powered ‘Priority Notifications’](https://techcrunch.com/2025/02/21/ios-18-4-will-bring-apple-intelligence-powered-priority-notifications/)
-- [Jeff Bezos&#39; Blue Origin targeting Feb. 25 for 10th space tourism launch](https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-blue-origin-targeting-feb-25-for-10th-space-tourism-launch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
