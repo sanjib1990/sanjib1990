@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The fallout from HP’s Humane acquisition](https://techcrunch.com/2025/02/22/the-fallout-of-hps-humane-acquisition/)
 - [Trump administration reportedly shutting down federal EV chargers nationwide](https://techcrunch.com/2025/02/22/trump-administration-reportedly-shutting-down-federal-ev-chargers-nationwide/)
 - [This Week In Space podcast: Episode 149 — SpaceX, Moon Missions, and Killer Asteroids?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-149-spacex-moon-missions-and-killer-asteroids)
 - [Explore the online world of Apple TV’s ‘Severance’](https://techcrunch.com/2025/02/22/explore-the-online-world-of-apple-tvs-severance/)
 - [Astronomers discover &#39;Quipu,&#39; the single largest structure in the known universe](https://www.space.com/the-universe/galaxies/astronomers-discover-quipu-the-single-largest-structure-in-the-known-universe)
-- [20 years of satellite data reveal &#39;staggering&#39; levels of glaciers melting, sea levels rising](https://www.space.com/the-universe/climate-change/20-years-of-satellite-data-reveal-staggering-levels-of-glaciers-melting-sea-levels-rising)
 <!-- BLOG-POST-LIST:END -->
 
 ---
