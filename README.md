@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Week In Space podcast: Episode 149 — SpaceX, Moon Missions, and Killer Asteroids?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-149-spacex-moon-missions-and-killer-asteroids)
+- [Explore the online world of Apple TV’s ‘Severance’](https://techcrunch.com/2025/02/22/explore-the-online-world-of-apple-tvs-severance/)
+- [Astronomers discover &#39;Quipu,&#39; the single largest structure in the known universe](https://www.space.com/the-universe/galaxies/astronomers-discover-quipu-the-single-largest-structure-in-the-known-universe)
 - [20 years of satellite data reveal &#39;staggering&#39; levels of glaciers melting, sea levels rising](https://www.space.com/the-universe/climate-change/20-years-of-satellite-data-reveal-staggering-levels-of-glaciers-melting-sea-levels-rising)
 - [30 years after warp drives were proposed, we still can&#39;t make the math work](https://www.space.com/space-exploration/tech/30-years-after-warp-drives-were-proposed-we-still-cant-make-the-math-work)
-- [Meta, X approved ads containing violent anti-Muslim, antisemitic hate speech ahead of German election, study finds](https://techcrunch.com/2025/02/21/meta-x-approved-ads-containing-violent-anti-muslim-antisemitic-hate-speech-ahead-of-german-election-study-finds/)
-- [Court filings show Meta staffers discussed using copyrighted content for AI training](https://techcrunch.com/2025/02/21/court-filings-show-meta-staffers-discussed-using-copyrighted-content-for-ai-training/)
-- [What&#39;s that smell? Astronomers discover a stinky new clue in the search for alien life](https://www.space.com/search-for-alien-life-stinky-new-clue-sulfur-habitable-zone)
 <!-- BLOG-POST-LIST:END -->
 
 ---
