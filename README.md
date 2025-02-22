@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US AI Safety Institute could face big cuts](https://techcrunch.com/2025/02/22/us-ai-safety-institute-could-face-big-cuts/)
 - [How I Podcast: Summer Album / Winter Album’s Jody Avirgan](https://techcrunch.com/2025/02/22/how-i-podcast-summer-album-winter-albums-jody-avirgan/)
 - [The pain of discontinued items, and the thrill of finding them online](https://techcrunch.com/2025/02/22/the-pain-of-discontinued-items-and-the-thrill-of-finding-them-online/)
 - [The fallout from HP’s Humane acquisition](https://techcrunch.com/2025/02/22/the-fallout-of-hps-humane-acquisition/)
 - [Trump administration reportedly shutting down federal EV chargers nationwide](https://techcrunch.com/2025/02/22/trump-administration-reportedly-shutting-down-federal-ev-chargers-nationwide/)
-- [This Week In Space podcast: Episode 149 — SpaceX, Moon Missions, and Killer Asteroids?](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-149-spacex-moon-missions-and-killer-asteroids)
 <!-- BLOG-POST-LIST:END -->
 
 ---
