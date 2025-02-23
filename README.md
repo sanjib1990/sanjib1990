@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/23/hyundais-new-tesla-charging-port-comes-up-short/)
+- [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/)
+- [Electric aircraft founder Kyle Clark threw out the Silicon Valley playbook](https://techcrunch.com/2025/02/23/electric-aircraft-founder-kyle-clark-threw-out-the-silicon-valley-playbook/)
 - [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/)
 - [Grok 3 appears to have briefly censored unflattering mentions of Trump and Musk](https://techcrunch.com/2025/02/23/grok-3-appears-to-have-briefly-censored-unflattering-mentions-of-trump-and-musk/)
-- [Astronomers discover misshapen galaxy is a cosmic predator that bears &#39;scars&#39; from its last meal &lpar;photo&rpar;](https://www.space.com/very-large-telescope-hungry-galaxy-next-cosmic-meal)
-- [Swimming robots, fusion satellites and more! New NASA-funded studies could someday &#39;change the possible&#39;](https://www.space.com/nasa-2025-niac-funded-studies)
-- [SpaceX launches 22 Starlink internet satellites from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-22-starlink-internet-satellites-from-california)
 <!-- BLOG-POST-LIST:END -->
 
 ---
