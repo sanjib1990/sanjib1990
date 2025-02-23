@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Astronomers discover misshapen galaxy is a cosmic predator that bears &#39;scars&#39; from its last meal &lpar;photo&rpar;](https://www.space.com/very-large-telescope-hungry-galaxy-next-cosmic-meal)
 - [Swimming robots, fusion satellites and more! New NASA-funded studies could someday &#39;change the possible&#39;](https://www.space.com/nasa-2025-niac-funded-studies)
-- [SpaceX launches 22 Starlink internet satellites from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-22-starlink-internet-satellites-from-california)
+- [SpaceX launches 22 Starlink internet satellites from California &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-22-starlink-internet-satellites-from-california)
 - [Did xAI lie about Grok 3’s benchmarks?](https://techcrunch.com/2025/02/22/did-xai-lie-about-grok-3s-benchmarks/)
 - [US AI Safety Institute could face big cuts](https://techcrunch.com/2025/02/22/us-ai-safety-institute-could-face-big-cuts/)
-- [How I Podcast: Summer Album / Winter Album’s Jody Avirgan](https://techcrunch.com/2025/02/22/how-i-podcast-summer-album-winter-albums-jody-avirgan/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
