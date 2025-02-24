@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s &#39;SPHEREx&#39; infrared space telescope is launching this week. Here&#39;s why it&#39;s a big deal](https://www.space.com/space-exploration/missions/nasas-spherex-infrared-space-telescope-is-launching-this-week-heres-why-its-a-big-deal)
 - [Key Cambridge, UK VC launches $126M fund to stem later stage flight](https://techcrunch.com/2025/02/24/key-cambridge-uk-vc-launches-126m-fund-to-stem-later-stage-flight/)
 - [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/)
 - [Google’s new AI video model Veo 2 will cost 50 cents per second](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/)
 - [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/23/hyundais-new-tesla-charging-port-comes-up-short/)
-- [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
