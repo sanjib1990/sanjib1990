@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/)
+- [Powerful X-class solar flare triggers radio blackouts across the Pacific Ocean &lpar;video&rpar;](https://www.space.com/the-universe/sun/powerful-x-class-solar-flare-triggers-radio-blackouts-across-the-pacific-ocean-video)
+- [Anthropic used Pokémon to benchmark its newest AI model](https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/)
 - [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/)
 - [SpaceX targeting Feb. 28 for Flight 8 of Starship megarocket](https://www.space.com/space-exploration/private-spaceflight/spacex-targeting-feb-28-for-flight-8-of-starship-megarocket)
-- [SoundCloud partners with TicketMaster to let artists list events](https://techcrunch.com/2025/02/24/soundcloud-partners-with-ticketmaster-to-let-artists-list-events/)
-- [Khosla Ventures seeks $3.5B in fresh capital](https://techcrunch.com/2025/02/24/khosla-ventures-seeks-3-5b-in-fresh-capital/)
-- [Star Wars gets serious and rebellious again with the first ‘Andor’ season 2 trailer](https://www.space.com/entertainment/space-movies-shows/star-wars-gets-serious-and-rebellious-again-in-1st-andor-season-2-trailer-and-we-finally-have-a-release-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
