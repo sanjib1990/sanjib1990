@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Private Blue Ghost moon lander captures amazing footage of Earth behind and lunar surface below &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-ghost-lunar-lander-captures-amazing-footage-of-the-moon-ahead-of-march-2-touchdown-attempt-video)
+- [DOGE’s HR email is getting the ‘Bee Movie’ spam treatment](https://techcrunch.com/2025/02/24/doges-hr-email-is-getting-the-bee-movie-spam-treatment/)
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/)
 - [Powerful X-class solar flare triggers radio blackouts across the Pacific Ocean &lpar;video&rpar;](https://www.space.com/the-universe/sun/powerful-x-class-solar-flare-triggers-radio-blackouts-across-the-pacific-ocean-video)
 - [Anthropic used Pokémon to benchmark its newest AI model](https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/)
-- [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/)
-- [SpaceX targeting Feb. 28 for Flight 8 of Starship megarocket](https://www.space.com/space-exploration/private-spaceflight/spacex-targeting-feb-28-for-flight-8-of-starship-megarocket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
