@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A single default password exposes access to dozens of apartment buildings](https://techcrunch.com/2025/02/24/a-single-default-password-exposes-access-to-dozens-of-apartment-buildings/)
+- [Cambium is building an AI that helps turn waste wood into usable lumber](https://techcrunch.com/2025/02/24/cambium-is-building-an-ai-that-helps-turn-waste-wood-into-usable-lumber/)
+- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/)
+- [NASA installs &#39;bulletproof&#39; sunshade on powerful Nancy Grace Roman Space Telescope &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/nasa-installs-bulletproof-sunshade-on-powerful-nancy-grace-roman-space-telescope-photos)
 - [Meta AI arrives in the Middle East and Africa with support for Arabic](https://techcrunch.com/2025/02/24/meta-ai-arrives-in-the-middle-east-and-africa-with-support-for-arabic/)
-- [Earth safe from &#39;city-killer&#39; asteroid 2024 YR4 &#39;That&#39;s impact probability zero folks!&#39;](https://www.space.com/the-universe/asteroids/earth-safe-from-city-killer-asteroid-2024-yr4-thats-impact-probability-zero-folks)
-- [Apple commits $500B to US manufacturing, including a new AI server facility in Houston](https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/)
-- [Where will the &#39;Blood Moon&#39; total lunar eclipse be visible in March 2025?](https://www.space.com/where-blood-moon-total-lunar-eclipse-visible-march-2025)
-- [Yope is sparking GenZ &lpar;and VC&rpar; interest with an Instagram-like app for private groups](https://techcrunch.com/2025/02/24/yope-is-sparking-genz-and-vc-interest-with-an-instagram-like-app-for-private-groups/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
