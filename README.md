@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/)
-- [NASA picks SpaceX rocket to launch asteroid threat hunter NEO Surveyor in 2027](https://www.space.com/space-exploration/missions/nasa-picks-spacex-rocket-to-launch-asteroid-threat-hunter-neo-surveyor-in-2027)
-- [As Meta gets rid of fact-checkers, misinformation is going viral](https://techcrunch.com/2025/02/24/as-meta-gets-rid-of-fact-checkers-misinformation-is-going-viral/)
-- [Flexport releases onslaught of AI tools in a move inspired by ‘founder mode’](https://techcrunch.com/2025/02/24/flexport-releases-onslaught-of-ai-tools-in-a-move-inspired-by-founder-mode/)
-- [First &lpar;and last?&rpar; look at Intuitive Machines&#39; next moon lander&#39;s footpad designs &lpar;photos&rpar;](https://www.space.com/the-universe/moon/first-and-last-look-at-intuitive-machines-next-moon-landers-footpad-designs-photos)
+- [Three years on, Europe looks to Ukraine for the future of defense tech](https://techcrunch.com/2025/02/24/three-years-on-europe-looks-to-ukraine-for-the-future-of-defense-tech/)
+- [Limited edition Athena moon lander merch on sale at Columbia Sportswear now — and it&#39;ll definitely sell out](https://www.space.com/the-universe/moon/columbia-sportswear-offers-limited-edition-apparel-celebrating-its-2nd-moon-mission-launching-this-week)
+- [TikTok &lpar;with Douyin&rpar; becomes first app to reach $6B in annual consumer spending](https://techcrunch.com/2025/02/24/tiktok-with-douyin-becomes-first-app-to-reach-6b-in-annual-consumer-spending/)
+- [Australia bans government use of Kaspersky software due to ‘unacceptable security risk’](https://techcrunch.com/2025/02/24/australia-bans-government-use-of-kaspersky-software-due-to-unacceptable-security-risk/)
+- [Researchers accuse North Korea of $1.4 billion Bybit crypto heist](https://techcrunch.com/2025/02/24/researchers-accuse-north-korea-of-1-4-billion-bybit-crypto-heist/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
