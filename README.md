@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexport releases onslaught of AI tools in a move inspired by ‘Founder Mode’](https://techcrunch.com/2025/02/24/flexport-releases-onslaught-of-ai-tools-in-a-move-inspired-by-founder-mode/)
+- [The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open](https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/)
+- [NASA picks SpaceX rocket to launch asteroid threat hunter NEO Surveyor in 2027](https://www.space.com/space-exploration/missions/nasa-picks-spacex-rocket-to-launch-asteroid-threat-hunter-neo-surveyor-in-2027)
+- [As Meta gets rid of fact-checkers, misinformation is going viral](https://techcrunch.com/2025/02/24/as-meta-gets-rid-of-fact-checkers-misinformation-is-going-viral/)
+- [Flexport releases onslaught of AI tools in a move inspired by ‘founder mode’](https://techcrunch.com/2025/02/24/flexport-releases-onslaught-of-ai-tools-in-a-move-inspired-by-founder-mode/)
 - [First &lpar;and last?&rpar; look at Intuitive Machines&#39; next moon lander&#39;s footpad designs &lpar;photos&rpar;](https://www.space.com/the-universe/moon/first-and-last-look-at-intuitive-machines-next-moon-landers-footpad-designs-photos)
-- [A single default password exposes access to dozens of apartment buildings](https://techcrunch.com/2025/02/24/a-single-default-password-exposes-access-to-dozens-of-apartment-buildings/)
-- [Cambium is building an AI that helps turn waste wood into usable lumber](https://techcrunch.com/2025/02/24/cambium-is-building-an-ai-that-helps-turn-waste-wood-into-usable-lumber/)
-- [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
