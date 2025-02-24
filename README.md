@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/)
 - [Google’s new AI video model Veo 2 will cost 50 cents per second](https://techcrunch.com/2025/02/23/googles-new-ai-video-model-veo-2-will-cost-50-cents-per-second/)
 - [Hyundai’s new Tesla charging port comes up short](https://techcrunch.com/2025/02/23/hyundais-new-tesla-charging-port-comes-up-short/)
 - [Palantir CEO’s new book says Silicon Valley has ‘lost its way’](https://techcrunch.com/2025/02/23/palantir-ceos-new-book-says-silicon-valley-has-lost-its-way/)
 - [Electric aircraft founder Kyle Clark threw out the Silicon Valley playbook](https://techcrunch.com/2025/02/23/electric-aircraft-founder-kyle-clark-threw-out-the-silicon-valley-playbook/)
-- [This mental health chatbot aims to fill the counseling gap at understaffed schools](https://techcrunch.com/2025/02/23/this-mental-health-chatbot-aims-to-fill-the-counseling-gap-at-understaffed-schools/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
