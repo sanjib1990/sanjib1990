@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Three years on, Europe looks to Ukraine for the future of defense tech](https://techcrunch.com/2025/02/24/three-years-on-europe-looks-to-ukraine-for-the-future-of-defense-tech/)
-- [Limited edition Athena moon lander merch on sale at Columbia Sportswear now — and it&#39;ll definitely sell out](https://www.space.com/the-universe/moon/columbia-sportswear-offers-limited-edition-apparel-celebrating-its-2nd-moon-mission-launching-this-week)
-- [TikTok &lpar;with Douyin&rpar; becomes first app to reach $6B in annual consumer spending](https://techcrunch.com/2025/02/24/tiktok-with-douyin-becomes-first-app-to-reach-6b-in-annual-consumer-spending/)
-- [Australia bans government use of Kaspersky software due to ‘unacceptable security risk’](https://techcrunch.com/2025/02/24/australia-bans-government-use-of-kaspersky-software-due-to-unacceptable-security-risk/)
-- [Researchers accuse North Korea of $1.4 billion Bybit crypto heist](https://techcrunch.com/2025/02/24/researchers-accuse-north-korea-of-1-4-billion-bybit-crypto-heist/)
+- [Grok 3 appears to be driving Grok usage to new heights](https://techcrunch.com/2025/02/24/grok-3-appears-to-be-driving-grok-usage-to-new-heights/)
+- [Apple TV shares first look at &#39;Murderbot&#39;, a killing machine who just wants to watch TV all day](https://www.space.com/entertainment/space-movies-shows/apple-tv-shares-first-look-at-murderbot-a-killing-machine-who-just-wants-to-watch-tv-all-day)
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/02/24/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
+- [The SEC will not sue Robinhood over crypto](https://techcrunch.com/2025/02/24/the-sec-will-not-sue-robinhood-over-crypto/)
+- [Perplexity teases a web browser called Comet](https://techcrunch.com/2025/02/24/perplexity-teases-a-web-browser-called-comet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
