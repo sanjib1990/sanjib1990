@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple commits $500B to US manufacturing, including a new AI server facility in Houston](https://techcrunch.com/2025/02/24/apple-commits-500b-to-us-manufacturing-including-a-new-ai-server-facility-in-houston/)
 - [Where will the &#39;Blood Moon&#39; total lunar eclipse be visible in March 2025?](https://www.space.com/where-blood-moon-total-lunar-eclipse-visible-march-2025)
 - [Yope is sparking GenZ &lpar;and VC&rpar; interest with an Instagram-like app for private groups](https://techcrunch.com/2025/02/24/yope-is-sparking-genz-and-vc-interest-with-an-instagram-like-app-for-private-groups/)
 - [NASA&#39;s &#39;SPHEREx&#39; infrared space telescope is launching this week. Here&#39;s why it&#39;s a big deal](https://www.space.com/space-exploration/missions/nasas-spherex-infrared-space-telescope-is-launching-this-week-heres-why-its-a-big-deal)
 - [Key Cambridge, UK VC launches $126M fund to stem later stage flight](https://techcrunch.com/2025/02/24/key-cambridge-uk-vc-launches-126m-fund-to-stem-later-stage-flight/)
-- [The lesson of Larry Ellison’s misadventures in farming](https://techcrunch.com/2025/02/23/the-lesson-of-larry-ellisons-misadventures-in-farming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
