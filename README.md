@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Holmes and Balwani’s appeal falls flat as court upholds fraud convictions](https://techcrunch.com/2025/02/24/holmes-and-balwanis-appeal-falls-flat-as-court-upholds-fraud-convictions/)
+- [Apple exec Phil Schiller testifies that he raised concerns over App Store commissions on web-based sales](https://techcrunch.com/2025/02/24/apple-exec-phil-schiller-testifies-that-he-raised-concerns-over-app-store-commissions-on-web-based-sales/)
+- [SpaceX targeting Feb. 28 for next launch of Starship megarocket](https://www.space.com/space-exploration/private-spaceflight/spacex-targeting-feb-28-for-flight-8-of-starship-megarocket)
 - [Private Blue Ghost moon lander captures amazing footage of Earth behind and lunar surface below &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/blue-ghost-lunar-lander-captures-amazing-footage-of-the-moon-ahead-of-march-2-touchdown-attempt-video)
 - [DOGE’s HR email is getting the ‘Bee Movie’ spam treatment](https://techcrunch.com/2025/02/24/doges-hr-email-is-getting-the-bee-movie-spam-treatment/)
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/24/tech-layoffs-2024-list/)
-- [Powerful X-class solar flare triggers radio blackouts across the Pacific Ocean &lpar;video&rpar;](https://www.space.com/the-universe/sun/powerful-x-class-solar-flare-triggers-radio-blackouts-across-the-pacific-ocean-video)
-- [Anthropic used Pokémon to benchmark its newest AI model](https://techcrunch.com/2025/02/24/anthropic-used-pokemon-to-benchmark-its-newest-ai-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
