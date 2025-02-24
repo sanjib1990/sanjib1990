@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flexport releases onslaught of AI tools in a move inspired by ‘Founder Mode’](https://techcrunch.com/2025/02/24/flexport-releases-onslaught-of-ai-tools-in-a-move-inspired-by-founder-mode/)
+- [First &lpar;and last?&rpar; look at Intuitive Machines&#39; next moon lander&#39;s footpad designs &lpar;photos&rpar;](https://www.space.com/the-universe/moon/first-and-last-look-at-intuitive-machines-next-moon-landers-footpad-designs-photos)
 - [A single default password exposes access to dozens of apartment buildings](https://techcrunch.com/2025/02/24/a-single-default-password-exposes-access-to-dozens-of-apartment-buildings/)
 - [Cambium is building an AI that helps turn waste wood into usable lumber](https://techcrunch.com/2025/02/24/cambium-is-building-an-ai-that-helps-turn-waste-wood-into-usable-lumber/)
 - [Patlytics raises $14M for its patent analytics platform](https://techcrunch.com/2025/02/24/patlytics-raises-14m-series-a-funding-for-its-patent-analytics-platform/)
-- [NASA installs &#39;bulletproof&#39; sunshade on powerful Nancy Grace Roman Space Telescope &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/nasa-installs-bulletproof-sunshade-on-powerful-nancy-grace-roman-space-telescope-photos)
-- [Meta AI arrives in the Middle East and Africa with support for Arabic](https://techcrunch.com/2025/02/24/meta-ai-arrives-in-the-middle-east-and-africa-with-support-for-arabic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
