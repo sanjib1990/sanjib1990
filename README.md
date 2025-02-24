@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok 3 appears to be driving Grok usage to new heights](https://techcrunch.com/2025/02/24/grok-3-appears-to-be-driving-grok-usage-to-new-heights/)
-- [Apple TV shares first look at &#39;Murderbot&#39;, a killing machine who just wants to watch TV all day](https://www.space.com/entertainment/space-movies-shows/apple-tv-shares-first-look-at-murderbot-a-killing-machine-who-just-wants-to-watch-tv-all-day)
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/02/24/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [The SEC will not sue Robinhood over crypto](https://techcrunch.com/2025/02/24/the-sec-will-not-sue-robinhood-over-crypto/)
-- [Perplexity teases a web browser called Comet](https://techcrunch.com/2025/02/24/perplexity-teases-a-web-browser-called-comet/)
+- [SpaceX says Starship self-destructed after propellant leaks caused fires and comms blackout](https://techcrunch.com/2025/02/24/spacex-says-starship-self-destructed-after-propellant-leaks-caused-fires-and-comms-blackout/)
+- [SpaceX targeting Feb. 28 for Flight 8 of Starship megarocket](https://www.space.com/space-exploration/private-spaceflight/spacex-targeting-feb-28-for-flight-8-of-starship-megarocket)
+- [SoundCloud partners with TicketMaster to let artists list events](https://techcrunch.com/2025/02/24/soundcloud-partners-with-ticketmaster-to-let-artists-list-events/)
+- [Khosla Ventures seeks $3.5B in fresh capital](https://techcrunch.com/2025/02/24/khosla-ventures-seeks-3-5b-in-fresh-capital/)
+- [Star Wars gets serious and rebellious again with the first ‘Andor’ season 2 trailer](https://www.space.com/entertainment/space-movies-shows/star-wars-gets-serious-and-rebellious-again-in-1st-andor-season-2-trailer-and-we-finally-have-a-release-date)
 <!-- BLOG-POST-LIST:END -->
 
 ---
