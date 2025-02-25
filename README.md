@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple’s Developer service comes to China’s WeChat](https://techcrunch.com/2025/02/25/apples-developer-service-comes-to-chinas-wechat/)
-- [DoorDash to pay delivery workers nearly $17M for using tips to cover wages](https://techcrunch.com/2025/02/25/doordash-to-pay-delivery-workers-nearly-17m-for-using-tips-to-cover-wages/)
-- [Mitico raises $4.3M seed round to capture CO2 using ‘prehistoric chemistry’](https://techcrunch.com/2025/02/25/mitico-raises-4-3m-seed-round-to-capture-co2-using-prehistoric-chemistry/)
-- [Mysterious fast radio burst traced back to massive &#39;cosmic graveyard&#39; of ancient stars](https://www.space.com/science-astronomy/fast-radio-burst-frb-dead-galaxy)
-- [Redalpine, Founders Fund back Magdrive’s electric thruster business](https://techcrunch.com/2025/02/25/redalpine-founders-fund-back-magdrives-electric-thruster-business/)
+- [FAA tests Starlink terminals as Musk claims Verizon tech is ‘not working’](https://techcrunch.com/2025/02/25/faa-tests-starlink-terminals-as-musk-claims-verizon-tech-is-not-working/)
+- [Sam Bankman-Fried’s first post from prison isn’t even good](https://techcrunch.com/2025/02/25/sam-bankman-frieds-first-post-from-prison-isnt-even-good/)
+- [IBM’s $6.4B HashiCorp acquisition cleared by UK](https://techcrunch.com/2025/02/25/ibms-6-4b-hashicorp-acquisition-cleared-by-uk/)
+- [DeepSeek reopens access to its API after three-week pause](https://techcrunch.com/2025/02/25/deepseek-reopens-access-to-its-api-after-three-week-pause/)
+- [Microsoft cancels some of its AI data center leases](https://techcrunch.com/2025/02/25/microsoft-cancels-some-of-its-ai-data-center-leases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
