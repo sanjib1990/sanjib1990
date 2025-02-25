@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why OpenAI isn’t bringing deep research to its API just yet](https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/)
+- [SpaceX says its Falcon 9 rocket debris crash over Europe was caused by propellant leak](https://www.space.com/space-exploration/launches-spacecraft/fiery-falcon-9-rocket-debris-crash-over-europe-caused-by-propellant-leak-spacex-says)
+- [Tumblr backs Tapestry, a timeline app for the open social web](https://techcrunch.com/2025/02/25/tumblr-backs-tapestry-a-timeline-app-for-the-open-social-web/)
 - [NASA tells employees to ignore Trump administration&#39;s &#39;What did you do last week?&#39; email](https://www.space.com/nasa-responds-trump-email-employees-work-achievements)
 - [Quora’s Poe now lets users create and share custom AI-powered apps](https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/)
-- [Brex eyes $500M in revenue as it adds the likes of Anthropic and Robinhood as customers](https://techcrunch.com/2025/02/25/brex-eyes-500m-in-revenue-as-it-adds-the-likes-of-anthropic-and-robinhood-as-customers/)
-- [Is this 32-year-old a brilliant founder, or a deceptive fraudster?](https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/)
-- [Metroid Prime 4: Beyond — Release window, trailers, and everything we know](https://www.space.com/entertainment/space-games-toys/metroid-prime-4-beyond-release-date-trailers-and-everything-we-know)
 <!-- BLOG-POST-LIST:END -->
 
 ---
