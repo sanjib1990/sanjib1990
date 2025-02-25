@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [University spin-out Afynia secures $5M seed to commercialize its microRNA panel test for endometriosis](https://techcrunch.com/2025/02/25/university-spin-out-afynia-secures-5m-seed-to-commercialize-its-microrna-panel-test-for-endometriosis/)
+- [Ancient beach on Mars discovered by China&#39;s Zhurong Mars rover: &#39;This strengthens the case for past habitability&#39;](https://www.space.com/the-universe/mars/ancient-beach-on-mars-discovered-by-chinas-zhurong-mars-rover-this-strengthens-the-case-for-past-habitability)
+- [Clicks brings its BlackBerry-style keyboard case to Android phones](https://techcrunch.com/2025/02/25/clicks-brings-its-blackberry-style-keyboard-case-to-android-users/)
+- [YouTube is working to make ad slots less interruptive](https://techcrunch.com/2025/02/25/youtube-is-working-to-make-ad-slots-less-interruptive/)
 - [FAA tests Starlink terminals as Musk claims Verizon tech is ‘not working’](https://techcrunch.com/2025/02/25/faa-tests-starlink-terminals-as-musk-claims-verizon-tech-is-not-working/)
-- [Sam Bankman-Fried’s first post from prison isn’t even good](https://techcrunch.com/2025/02/25/sam-bankman-frieds-first-post-from-prison-isnt-even-good/)
-- [IBM’s $6.4B HashiCorp acquisition cleared by UK](https://techcrunch.com/2025/02/25/ibms-6-4b-hashicorp-acquisition-cleared-by-uk/)
-- [DeepSeek reopens access to its API after three-week pause](https://techcrunch.com/2025/02/25/deepseek-reopens-access-to-its-api-after-three-week-pause/)
-- [Microsoft cancels some of its AI data center leases](https://techcrunch.com/2025/02/25/microsoft-cancels-some-of-its-ai-data-center-leases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
