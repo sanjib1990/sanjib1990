@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Watch shipments surge in India](https://techcrunch.com/2025/02/25/apple-watch-shipments-surge-in-india/)
+- [Perfect taps $23M to fix the flaws in recruitment with AI](https://techcrunch.com/2025/02/25/perfect-taps-23m-to-fix-the-flaws-in-recruitment-with-ai/)
 - [Google launches a free AI coding assistant with very high usage caps](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/)
+- [If Mars has microbe fossils, a laser and rock quarry in Algeria could help find them](https://www.space.com/mars-microbes-laser-rock-quarry-algeria)
 - [EU’s top court ruling on Android Auto antitrust referral could put interoperability requests in the fast lane](https://techcrunch.com/2025/02/25/eus-top-court-ruling-on-android-auto-antitrust-referral-could-put-interoperability-requests-in-the-fast-lane/)
-- [US employee screening giant DISA says hackers accessed data of more than 3M people](https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/)
-- [What makes Mars the &#39;Red&#39; Planet? Scientists have some new ideas](https://www.space.com/the-universe/mars/what-makes-mars-the-red-planet-scientists-have-some-new-ideas)
-- [Thoma Bravo raises €1.8B for its first European fund](https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
