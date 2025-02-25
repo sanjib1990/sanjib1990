@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA tells employees to ignore Trump administration&#39;s &#39;What did you do last week?&#39; email](https://www.space.com/nasa-responds-trump-email-employees-work-achievements)
+- [Quora’s Poe now lets users create and share custom AI-powered apps](https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/)
 - [Brex eyes $500M in revenue as it adds the likes of Anthropic and Robinhood as customers](https://techcrunch.com/2025/02/25/brex-eyes-500m-in-revenue-as-it-adds-the-likes-of-anthropic-and-robinhood-as-customers/)
 - [Is this 32-year-old a brilliant founder, or a deceptive fraudster?](https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/)
 - [Metroid Prime 4: Beyond — Release window, trailers, and everything we know](https://www.space.com/entertainment/space-games-toys/metroid-prime-4-beyond-release-date-trailers-and-everything-we-know)
-- [Opera integrates Bluesky, Slack, and Discord into its browser](https://techcrunch.com/2025/02/25/opera-integrates-bluesky-slack-and-discord-into-its-browser/)
-- [Sweden’s Lovable, an app-building AI platform, rakes in $15M after spectacular growth](https://techcrunch.com/2025/02/25/swedens-lovable-an-app-building-ai-platform-rakes-in-16m-after-spectacular-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
