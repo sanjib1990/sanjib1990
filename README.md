@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [University spin-out Afynia secures $5M seed to commercialize its microRNA panel test for endometriosis](https://techcrunch.com/2025/02/25/university-spin-out-afynia-secures-5m-seed-to-commercialize-its-microrna-panel-test-for-endometriosis/)
-- [Ancient beach on Mars discovered by China&#39;s Zhurong Mars rover: &#39;This strengthens the case for past habitability&#39;](https://www.space.com/the-universe/mars/ancient-beach-on-mars-discovered-by-chinas-zhurong-mars-rover-this-strengthens-the-case-for-past-habitability)
-- [Clicks brings its BlackBerry-style keyboard case to Android phones](https://techcrunch.com/2025/02/25/clicks-brings-its-blackberry-style-keyboard-case-to-android-users/)
-- [YouTube is working to make ad slots less interruptive](https://techcrunch.com/2025/02/25/youtube-is-working-to-make-ad-slots-less-interruptive/)
-- [FAA tests Starlink terminals as Musk claims Verizon tech is ‘not working’](https://techcrunch.com/2025/02/25/faa-tests-starlink-terminals-as-musk-claims-verizon-tech-is-not-working/)
+- [Brex eyes $500M in revenue as it adds the likes of Anthropic and Robinhood as customers](https://techcrunch.com/2025/02/25/brex-eyes-500m-in-revenue-as-it-adds-the-likes-of-anthropic-and-robinhood-as-customers/)
+- [Is this 32-year-old a brilliant founder, or a deceptive fraudster?](https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/)
+- [Metroid Prime 4: Beyond — Release window, trailers, and everything we know](https://www.space.com/entertainment/space-games-toys/metroid-prime-4-beyond-release-date-trailers-and-everything-we-know)
+- [Opera integrates Bluesky, Slack, and Discord into its browser](https://techcrunch.com/2025/02/25/opera-integrates-bluesky-slack-and-discord-into-its-browser/)
+- [Sweden’s Lovable, an app-building AI platform, rakes in $15M after spectacular growth](https://techcrunch.com/2025/02/25/swedens-lovable-an-app-building-ai-platform-rakes-in-16m-after-spectacular-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
