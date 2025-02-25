@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fyre Festival 2 is coming, and it already sounds bananas &lpar;and not in a good way&rpar;](https://techcrunch.com/2025/02/24/fyre-festival-2-is-coming-and-it-already-sounds-bananas-and-not-in-a-good-way/)
+- [Watch Jeff Bezos&#39; Blue Origin launch 10th space tourism flight today](https://www.space.com/space-exploration/private-spaceflight/watch-jeff-bezos-blue-origin-launch-10th-space-tourism-flight-today)
+- [Automattic-owned Beeper is releasing redesigned desktop and iOS apps](https://techcrunch.com/2025/02/24/automattic-owned-beeper-is-releasing-redesigned-desktop-and-ios-apps/)
 - [1,000 artists release ‘silent’ album to protest UK copyright sell-out to AI](https://techcrunch.com/2025/02/24/1000-artists-release-silent-album-to-protest-uk-copyright-sell-out-to-ai/)
 - [UK’s internet watchdog toughens approach to deepfake porn](https://techcrunch.com/2025/02/24/uks-internet-watchdog-toughens-approach-to-deepfake-porn/)
-- [Web Summit attendees aren’t buying Scale AI CEO’s push for America ‘to win the AI war’](https://techcrunch.com/2025/02/24/web-summit-attendees-arent-buying-scale-ai-ceos-push-for-america-to-win-the-ai-war/)
-- [Anthropic reportedly ups its next funding round to $3.5B](https://techcrunch.com/2025/02/24/anthropic-reportedly-ups-its-next-funding-round-to-3-5b/)
-- [SpaceX wraps up investigation of Starship Flight 7 explosion &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-wraps-up-investigation-of-starship-flight-7-explosion-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
