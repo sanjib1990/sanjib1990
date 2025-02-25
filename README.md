@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1,000 artists release ‘silent’ album to protest UK copyright sell-out to AI](https://techcrunch.com/2025/02/24/1000-artists-release-silent-album-to-protest-uk-copyright-sell-out-to-ai/)
+- [UK’s internet watchdog toughens approach to deepfake porn](https://techcrunch.com/2025/02/24/uks-internet-watchdog-toughens-approach-to-deepfake-porn/)
+- [Web Summit attendees aren’t buying Scale AI CEO’s push for America ‘to win the AI war’](https://techcrunch.com/2025/02/24/web-summit-attendees-arent-buying-scale-ai-ceos-push-for-america-to-win-the-ai-war/)
+- [Anthropic reportedly ups its next funding round to $3.5B](https://techcrunch.com/2025/02/24/anthropic-reportedly-ups-its-next-funding-round-to-3-5b/)
 - [SpaceX wraps up investigation of Starship Flight 7 explosion &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-wraps-up-investigation-of-starship-flight-7-explosion-video)
-- [Chegg sues Google over AI search summaries](https://techcrunch.com/2025/02/24/chegg-sues-google-over-ai-search-summaries/)
-- [Even Elon Musk forgets that X isn’t Twitter sometimes](https://techcrunch.com/2025/02/24/even-elon-musk-forgets-that-x-isnt-twitter-sometimes/)
-- [Holmes and Balwani’s appeal falls flat as court upholds fraud convictions](https://techcrunch.com/2025/02/24/holmes-and-balwanis-appeal-falls-flat-as-court-upholds-fraud-convictions/)
-- [Apple exec Phil Schiller testifies that he raised concerns over App Store commissions on web-based sales](https://techcrunch.com/2025/02/24/apple-exec-phil-schiller-testifies-that-he-raised-concerns-over-app-store-commissions-on-web-based-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
