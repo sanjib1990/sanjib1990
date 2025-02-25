@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI rolls out deep research to paying ChatGPT users](https://techcrunch.com/2025/02/25/openai-rolls-out-deep-research-to-paying-chatgpt-users/)
+- [SpaceX rolls huge Super Heavy booster to pad ahead of Starship Flight 8 launch &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-launch-pad-flight-8-photos)
+- [Framous is a new Mac app for adding device frames to screenshots](https://techcrunch.com/2025/02/25/framous-is-a-new-mac-app-for-adding-device-frames-to-screenshots/)
+- [Apple shareholders vote down anti-DEI proposal](https://techcrunch.com/2025/02/25/apple-shareholders-vote-down-anti-dei-proposal/)
 - [Why OpenAI isn’t bringing deep research to its API just yet](https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/)
-- [SpaceX says its Falcon 9 rocket debris crash over Europe was caused by propellant leak](https://www.space.com/space-exploration/launches-spacecraft/fiery-falcon-9-rocket-debris-crash-over-europe-caused-by-propellant-leak-spacex-says)
-- [Tumblr backs Tapestry, a timeline app for the open social web](https://techcrunch.com/2025/02/25/tumblr-backs-tapestry-a-timeline-app-for-the-open-social-web/)
-- [NASA tells employees to ignore Trump administration&#39;s &#39;What did you do last week?&#39; email](https://www.space.com/nasa-responds-trump-email-employees-work-achievements)
-- [Quora’s Poe now lets users create and share custom AI-powered apps](https://techcrunch.com/2025/02/25/quoras-poe-now-lets-users-create-and-share-custom-ai-powered-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
