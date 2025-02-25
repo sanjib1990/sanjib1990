@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DOGE has an official ‘acting’ administrator, and it’s not Elon Musk, White House confirms](https://techcrunch.com/2025/02/25/doge-has-an-official-acting-administrator-and-its-not-elon-musk-white-house-confirms/)
-- [Anthropic’s Claude AI is playing Pokémon on Twitch — slowly](https://techcrunch.com/2025/02/25/anthropics-claude-ai-is-playing-pokemon-on-twitch-slowly/)
-- [Lucid Motors CEO Peter Rawlinson steps down](https://techcrunch.com/2025/02/25/lucid-motors-ceo-peter-rawlinson-steps-down/)
-- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/)
-- [OpenAI rolls out deep research to paying ChatGPT users](https://techcrunch.com/2025/02/25/openai-rolls-out-deep-research-to-paying-chatgpt-users/)
+- [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
+- [Anthropic’s latest flagship AI might not have been incredibly costly to train](https://techcrunch.com/2025/02/25/anthropics-latest-flagship-ai-might-not-have-been-incredibly-costly-to-train/)
+- [Shooting for the moon, Intuitive Machines to launch daring lunar lander for NASA on Feb. 26](https://www.space.com/space-exploration/2-moon-landings-in-2-years-intuitive-machines-dreams-big-with-feb-26-launch-plan)
+- [Perplexity launches $50M seed and pre-seed VC fund](https://techcrunch.com/2025/02/25/perplexity-launches-50m-seed-and-pre-seed-vc-fund/)
+- [The people in Elon Musk’s DOGE universe](https://techcrunch.com/2025/02/25/the-people-in-elon-musk-doge-universe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
