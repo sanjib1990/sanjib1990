@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US employee screening giant DISA says hackers accessed data of more than 3M people](https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/)
+- [What makes Mars the &#39;Red&#39; Planet? Scientists have some new ideas](https://www.space.com/the-universe/mars/what-makes-mars-the-red-planet-scientists-have-some-new-ideas)
+- [Thoma Bravo raises €1.8B for its first European fund](https://techcrunch.com/2025/02/25/thoma-bravo-raises-e1-8b-for-its-first-european-fund/)
 - [Fyre Festival 2 is coming, and it already sounds bananas &lpar;and not in a good way&rpar;](https://techcrunch.com/2025/02/24/fyre-festival-2-is-coming-and-it-already-sounds-bananas-and-not-in-a-good-way/)
 - [Watch Jeff Bezos&#39; Blue Origin launch 10th space tourism flight today](https://www.space.com/space-exploration/private-spaceflight/watch-jeff-bezos-blue-origin-launch-10th-space-tourism-flight-today)
-- [Automattic-owned Beeper is releasing redesigned desktop and iOS apps](https://techcrunch.com/2025/02/24/automattic-owned-beeper-is-releasing-redesigned-desktop-and-ios-apps/)
-- [1,000 artists release ‘silent’ album to protest UK copyright sell-out to AI](https://techcrunch.com/2025/02/24/1000-artists-release-silent-album-to-protest-uk-copyright-sell-out-to-ai/)
-- [UK’s internet watchdog toughens approach to deepfake porn](https://techcrunch.com/2025/02/24/uks-internet-watchdog-toughens-approach-to-deepfake-porn/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
