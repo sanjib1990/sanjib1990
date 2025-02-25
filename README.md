@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s Developer service comes to China’s WeChat](https://techcrunch.com/2025/02/25/apples-developer-service-comes-to-chinas-wechat/)
+- [DoorDash to pay delivery workers nearly $17M for using tips to cover wages](https://techcrunch.com/2025/02/25/doordash-to-pay-delivery-workers-nearly-17m-for-using-tips-to-cover-wages/)
+- [Mitico raises $4.3M seed round to capture CO2 using ‘prehistoric chemistry’](https://techcrunch.com/2025/02/25/mitico-raises-4-3m-seed-round-to-capture-co2-using-prehistoric-chemistry/)
+- [Mysterious fast radio burst traced back to massive &#39;cosmic graveyard&#39; of ancient stars](https://www.space.com/science-astronomy/fast-radio-burst-frb-dead-galaxy)
 - [Redalpine, Founders Fund back Magdrive’s electric thruster business](https://techcrunch.com/2025/02/25/redalpine-founders-fund-back-magdrives-electric-thruster-business/)
-- [Quantum Machines raises $170M, says it’s working with more than half of all quantum computing companies](https://techcrunch.com/2025/02/25/quantum-machines-raises-170m-says-its-working-with-more-than-half-of-all-quantum-computing-companies/)
-- [Adobe launches a Photoshop iPhone app](https://techcrunch.com/2025/02/25/adobe-launches-a-photoshop-iphone-app/)
-- [Serverless cloud platform Koyeb now lets developers spin up Tenstorrent’s AI accelerators](https://techcrunch.com/2025/02/25/serverless-cloud-platform-koyeb-lets-developers-spin-up-tenstorrent-ai-accelerators/)
-- [Exoplanetary parade: What would the night sky look like on alien worlds? &lpar;op-ed&rpar;](https://www.space.com/stargazing/exoplanetary-parade-what-would-the-night-sky-look-like-on-alien-worlds-op-ed)
 <!-- BLOG-POST-LIST:END -->
 
 ---
