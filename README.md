@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Claude 3.7 goes hard for programmers…](https://www.youtube.com/watch?v=x2WtHZciC74)
 - [No Regrets - What Happens to AI Beyond Generative? - Computerphile](https://www.youtube.com/watch?v=fN3gdUMB_Yc)
 - [Microsoft’s new chip looks like science fiction…](https://www.youtube.com/watch?v=jwnez8HdN7E)
 - [ChatGPT Operator is expensive....use this instead &lpar;FREE + Open Source&rpar;](https://www.youtube.com/watch?v=sxTNACldK3Y)
 - [Kafka Tutorial for Beginners | Everything you need to get started](https://www.youtube.com/watch?v=QkdkLdMBuL0)
-- [The Most Popular I.T. Cert just got better](https://www.youtube.com/watch?v=_x5xBe7tDs4)
 <!-- YOUTUBE:END -->
 
 ---
