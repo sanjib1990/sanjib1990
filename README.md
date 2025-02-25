@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DOGE has an official ‘acting’ administrator, and it’s not Elon Musk, White House confirms](https://techcrunch.com/2025/02/25/doge-has-an-official-acting-administrator-and-its-not-elon-musk-white-house-confirms/)
+- [Anthropic’s Claude AI is playing Pokémon on Twitch — slowly](https://techcrunch.com/2025/02/25/anthropics-claude-ai-is-playing-pokemon-on-twitch-slowly/)
+- [Lucid Motors CEO Peter Rawlinson steps down](https://techcrunch.com/2025/02/25/lucid-motors-ceo-peter-rawlinson-steps-down/)
+- [Apptronik’s humanoid robots take the first steps toward building themselves](https://techcrunch.com/2025/02/25/apptroniks-humanoid-robots-take-the-first-steps-toward-building-themselves/)
 - [OpenAI rolls out deep research to paying ChatGPT users](https://techcrunch.com/2025/02/25/openai-rolls-out-deep-research-to-paying-chatgpt-users/)
-- [SpaceX rolls huge Super Heavy booster to pad ahead of Starship Flight 8 launch &lpar;photos&rpar;](https://www.space.com/spacex-starship-super-heavy-launch-pad-flight-8-photos)
-- [Framous is a new Mac app for adding device frames to screenshots](https://techcrunch.com/2025/02/25/framous-is-a-new-mac-app-for-adding-device-frames-to-screenshots/)
-- [Apple shareholders vote down anti-DEI proposal](https://techcrunch.com/2025/02/25/apple-shareholders-vote-down-anti-dei-proposal/)
-- [Why OpenAI isn’t bringing deep research to its API just yet](https://techcrunch.com/2025/02/25/why-openai-isnt-bringing-deep-research-to-its-api-just-yet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
