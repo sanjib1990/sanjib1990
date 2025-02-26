@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft finalizes its EU sovereign cloud project](https://techcrunch.com/2025/02/26/microsoft-finalizes-its-eu-sovereign-cloud-project/)
-- [Google makes it easier to delete personal info from Search results](https://techcrunch.com/2025/02/26/google-makes-it-easier-to-delete-personal-info-from-search-results/)
-- [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/)
-- [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/)
-- [The only good &#39;Star Wars&#39; prequel trilogy movie is retaking the high ground with an April theatrical return to celebrate its 20th anniversary](https://www.space.com/entertainment/space-movies-shows/the-only-good-star-wars-prequel-trilogy-movie-is-retaking-the-high-ground-with-an-april-theatrical-return-to-celebrate-its-20th-anniversary)
+- [NASA&#39;s asteroid-hopping Lucy probe takes 1st images of its next target: Donaldjohnson](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-asteroid-hopping-lucy-probe-takes-1st-images-of-its-next-target-donaldjohnson)
+- [Amazon says that Alexa+ is ‘model agnostic’](https://techcrunch.com/2025/02/26/amazon-says-that-alexa-is-model-agnostic/)
+- [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/)
+- [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/)
+- [Capim, a Brazilian BNPL startup for dental services, lands a $26.7M Series A](https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
