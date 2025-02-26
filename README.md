@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These dwarf galaxies in the Hydra cluster are baffling scientists: &#39;We found something we didn&#39;t expect&#39;](https://www.space.com/the-universe/these-dwarf-galaxies-in-the-hydra-cluster-are-baffling-scientists-we-found-something-we-didnt-expect)
 - [Avride’s sidewalk delivery bots land in Japan](https://techcrunch.com/2025/02/26/avrides-sidewalk-delivery-bots-land-in-japan/)
 - [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2025/02/26/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/)
 - [Here are all the tech companies rolling back DEI or still committed to it — so far](https://techcrunch.com/2025/02/26/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/)
 - [NASA leadership shakeup continues as agency settles into Trump&#39;s 2nd term](https://www.space.com/nasa-leadership-shakeup-trump-2nd-term)
-- [Watch the asteroid that had us all worried zoom harmlessly through space &lpar;video&rpar;](https://www.space.com/asteroid-yr-2024-very-large-telescope)
 <!-- BLOG-POST-LIST:END -->
 
 ---
