@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ElevenLabs is launching its own speech-to-text model](https://techcrunch.com/2025/02/26/elevenlabs-is-launching-its-own-speech-to-text-model/)
+- [See Mercury at its best in the night sky over the next 2 weeks](https://www.space.com/mercurcy-elusive-easily-visible-winter-spring-2025)
+- [Pixel Watch 3 is getting ‘Loss of Pulse Detection’ in the US in March](https://techcrunch.com/2025/02/26/pixel-watch-3-is-getting-loss-of-pulse-detection-in-the-us-in-march/)
+- [Hinge launches a new feature for daters to privately share details with matches](https://techcrunch.com/2025/02/26/hinge-launches-a-new-feature-for-daters-to-privately-share-details-with-matches/)
 - [The 1st Australian rocket to launch from Australian soil could reach orbit next month](https://www.space.com/gilmour-space-eris-rocket-1st-orbital-launch-australian-soil)
-- [Alexa+ can read, summarize and recall lengthy documents](https://techcrunch.com/2025/02/26/alexa-can-read-summarize-and-recall-lengthy-documents/)
-- [Alexa+ can do your grocery shopping, too](https://techcrunch.com/2025/02/26/alexa-can-do-your-grocery-shopping-too/)
-- [Alexa+ costs $19.99, free for Amazon Prime members](https://techcrunch.com/2025/02/26/alexa-costs-19-99-or-free-for-prime-members/)
-- [Amazon’s new Alexa+ brings AI-powered ‘Explore’ and ‘Stories’ features for kids](https://techcrunch.com/2025/02/26/amazons-new-alexa-brings-ai-powered-explore-and-stories-features-for-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
