@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s asteroid-hopping Lucy probe takes 1st images of its next target: Donaldjohnson](https://www.space.com/space-exploration/asteroid-comet-missions/nasas-asteroid-hopping-lucy-probe-takes-1st-images-of-its-next-target-donaldjohnson)
-- [Amazon says that Alexa+ is ‘model agnostic’](https://techcrunch.com/2025/02/26/amazon-says-that-alexa-is-model-agnostic/)
-- [Continue wants to help developers create and share custom AI coding assistants](https://techcrunch.com/2025/02/26/continue-wants-to-help-developers-create-and-share-custom-ai-coding-assistants/)
-- [Oliver Cameron talks about going up against incumbents at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/founders-talk-about-going-up-against-incumbents-at-techcrunch-sessions-ai/)
-- [Capim, a Brazilian BNPL startup for dental services, lands a $26.7M Series A](https://techcrunch.com/2025/02/26/capim-a-brazilian-bnpl-startup-for-dental-services-lands-a-26-7m-series-a/)
+- [The 1st Australian rocket to launch from Australian soil could reach orbit next month](https://www.space.com/gilmour-space-eris-rocket-1st-orbital-launch-australian-soil)
+- [Alexa+ can read, summarize and recall lengthy documents](https://techcrunch.com/2025/02/26/alexa-can-read-summarize-and-recall-lengthy-documents/)
+- [Alexa+ can do your grocery shopping, too](https://techcrunch.com/2025/02/26/alexa-can-do-your-grocery-shopping-too/)
+- [Alexa+ costs $19.99, free for Amazon Prime members](https://techcrunch.com/2025/02/26/alexa-costs-19-99-or-free-for-prime-members/)
+- [Amazon’s new Alexa+ brings AI-powered ‘Explore’ and ‘Stories’ features for kids](https://techcrunch.com/2025/02/26/amazons-new-alexa-brings-ai-powered-explore-and-stories-features-for-kids/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
