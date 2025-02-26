@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2025/02/25/claude-everything-you-need-to-know-about-anthropics-ai/)
 - [How much does ChatGPT cost? Everything you need to know about OpenAI’s pricing plans](https://techcrunch.com/2025/02/25/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/)
 - [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
 - [Anthropic’s latest flagship AI might not have been incredibly costly to train](https://techcrunch.com/2025/02/25/anthropics-latest-flagship-ai-might-not-have-been-incredibly-costly-to-train/)
 - [Shooting for the moon, Intuitive Machines to launch daring lunar lander for NASA on Feb. 26](https://www.space.com/space-exploration/2-moon-landings-in-2-years-intuitive-machines-dreams-big-with-feb-26-launch-plan)
-- [Perplexity launches $50M seed and pre-seed VC fund](https://techcrunch.com/2025/02/25/perplexity-launches-50m-seed-and-pre-seed-vc-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
