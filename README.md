@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lock screen platform Glance launches AI-powered shopping experience, gets fresh backing from Google](https://techcrunch.com/2025/02/26/lockscreen-platform-glance-launches-gen-ai-led-shopping-experience-gets-fresh-backing-from-google/)
-- [Astrophotographer captures &#39;rare&#39; planetary parade as 7 planets align in the night sky &lpar;photo&rpar;](https://www.space.com/astrophotographer-captures-rare-planetary-alignment-seven-planets-february-2025)
-- [Regie.ai injects sales enablement with AI, but keeps humans in the loop](https://techcrunch.com/2025/02/26/regie-ai-injects-sales-enablement-with-ai-but-keeps-humans-in-the-loop/)
-- [Anagram takes a gamified approach to employee cybersecurity training](https://techcrunch.com/2025/02/26/anagram-takes-a-gamified-approach-to-employee-cybersecurity-training/)
-- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/)
+- [Microsoft finalizes its EU sovereign cloud project](https://techcrunch.com/2025/02/26/microsoft-finalizes-its-eu-sovereign-cloud-project/)
+- [Google makes it easier to delete personal info from Search results](https://techcrunch.com/2025/02/26/google-makes-it-easier-to-delete-personal-info-from-search-results/)
+- [TechCrunch Disrupt 2025: 3 days left to save up to $1,130 on passes](https://techcrunch.com/2025/02/26/techcrunch-disrupt-2025-3-days-left-to-save-up-to-1130-on-passes/)
+- [5 days left — save over $300 to TechCrunch Sessions: AI](https://techcrunch.com/2025/02/26/5-days-left-save-over-300-to-techcrunch-sessions-ai/)
+- [The only good &#39;Star Wars&#39; prequel trilogy movie is retaking the high ground with an April theatrical return to celebrate its 20th anniversary](https://www.space.com/entertainment/space-movies-shows/the-only-good-star-wars-prequel-trilogy-movie-is-retaking-the-high-ground-with-an-april-theatrical-return-to-celebrate-its-20th-anniversary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
