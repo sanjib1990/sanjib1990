@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridgetown Research raises $19M to speed up due diligence with AI](https://techcrunch.com/2025/02/26/bridgetown-research-raises-19m-to-speed-up-due-diligence-with-ai/)
+- [Framework’s first desktop PC is optimized for gaming and local AI inference](https://techcrunch.com/2025/02/26/frameworks-first-desktop-pc-is-ready-for-gaming-and-local-ai-inference/)
 - [Nomagic picks up $44M for its AI-powered robotic arms](https://techcrunch.com/2025/02/26/nomagic-picks-up-44m-for-its-ai-powered-robotic-arms/)
 - [Gozem nets $30M to expand vehicle financing, digital banking in Francophone Africa](https://techcrunch.com/2025/02/26/gozem-nets-30m-to-expand-vehicle-financing-digital-banking-in-francophone-africa/)
 - [Hackers publish sensitive patient data allegedly stolen from Australian IVF provider Genea](https://techcrunch.com/2025/02/26/hackers-publish-sensitive-patient-data-allegedly-stolen-from-australian-ivf-provider-genea/)
-- [Thousands of exposed GitHub repos, now private, can still be accessed through Copilot](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/)
-- [2 NASA missions will carpool on a SpaceX rocket this Friday to help map the cosmos](https://www.space.com/space-exploration/missions/2-nasa-missions-will-carpool-on-a-spacex-rocket-this-friday-to-help-map-the-cosmos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
