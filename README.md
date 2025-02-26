@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thousands of exposed GitHub repos, now private, can still be accessed through Copilot](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/)
+- [2 NASA missions will carpool on a SpaceX rocket this Friday to help map the cosmos](https://www.space.com/space-exploration/missions/2-nasa-missions-will-carpool-on-a-spacex-rocket-this-friday-to-help-map-the-cosmos)
 - [ElevenLabs now lets authors create and publish audiobooks on its own platform](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)
 - [German startup wins accolade for its fusion reactor design](https://techcrunch.com/2025/02/25/german-startup-wins-accolade-for-its-fusion-reactor-design/)
 - [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2025/02/25/claude-everything-you-need-to-know-about-anthropics-ai/)
-- [How much does ChatGPT cost? Everything you need to know about OpenAI’s pricing plans](https://techcrunch.com/2025/02/25/how-much-does-chatgpt-cost-everything-you-need-to-know-about-openais-pricing-plans/)
-- [Y Combinator deletes posts after a startup’s demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
