@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nomagic picks up $44M for its AI-powered robotic arms](https://techcrunch.com/2025/02/26/nomagic-picks-up-44m-for-its-ai-powered-robotic-arms/)
+- [Gozem nets $30M to expand vehicle financing, digital banking in Francophone Africa](https://techcrunch.com/2025/02/26/gozem-nets-30m-to-expand-vehicle-financing-digital-banking-in-francophone-africa/)
+- [Hackers publish sensitive patient data allegedly stolen from Australian IVF provider Genea](https://techcrunch.com/2025/02/26/hackers-publish-sensitive-patient-data-allegedly-stolen-from-australian-ivf-provider-genea/)
 - [Thousands of exposed GitHub repos, now private, can still be accessed through Copilot](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/)
 - [2 NASA missions will carpool on a SpaceX rocket this Friday to help map the cosmos](https://www.space.com/space-exploration/missions/2-nasa-missions-will-carpool-on-a-spacex-rocket-this-friday-to-help-map-the-cosmos)
-- [ElevenLabs now lets authors create and publish audiobooks on its own platform](https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/)
-- [German startup wins accolade for its fusion reactor design](https://techcrunch.com/2025/02/25/german-startup-wins-accolade-for-its-fusion-reactor-design/)
-- [Claude: Everything you need to know about Anthropic’s AI](https://techcrunch.com/2025/02/25/claude-everything-you-need-to-know-about-anthropics-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
