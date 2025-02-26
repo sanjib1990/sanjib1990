@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Here are all the tech companies rolling back DEI or still committed to it — so far](https://techcrunch.com/2025/02/26/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/)
+- [NASA leadership shakeup continues as agency settles into Trump&#39;s 2nd term](https://www.space.com/nasa-leadership-shakeup-trump-2nd-term)
 - [Watch the asteroid that had us all worried zoom harmlessly through space &lpar;video&rpar;](https://www.space.com/asteroid-yr-2024-very-large-telescope)
+- [Inception emerges from stealth with a new type of AI model](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/)
 - [Hacked crypto exchange Bybit offers $140M bounty to trace stolen funds](https://techcrunch.com/2025/02/26/hacked-crypto-exchange-bybit-offers-140-million-bounty-to-trace-stolen-funds/)
-- [ElevenLabs is launching its own speech-to-text model](https://techcrunch.com/2025/02/26/elevenlabs-is-launching-its-own-speech-to-text-model/)
-- [See Mercury at its best in the night sky over the next 2 weeks](https://www.space.com/mercurcy-elusive-easily-visible-winter-spring-2025)
-- [Pixel Watch 3 is getting ‘Loss of Pulse Detection’ in the US in March](https://techcrunch.com/2025/02/26/pixel-watch-3-is-getting-loss-of-pulse-detection-in-the-us-in-march/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
