@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch the asteroid that had us all worried zoom harmlessly through space &lpar;video&rpar;](https://www.space.com/asteroid-yr-2024-very-large-telescope)
+- [Hacked crypto exchange Bybit offers $140M bounty to trace stolen funds](https://techcrunch.com/2025/02/26/hacked-crypto-exchange-bybit-offers-140-million-bounty-to-trace-stolen-funds/)
 - [ElevenLabs is launching its own speech-to-text model](https://techcrunch.com/2025/02/26/elevenlabs-is-launching-its-own-speech-to-text-model/)
 - [See Mercury at its best in the night sky over the next 2 weeks](https://www.space.com/mercurcy-elusive-easily-visible-winter-spring-2025)
 - [Pixel Watch 3 is getting ‘Loss of Pulse Detection’ in the US in March](https://techcrunch.com/2025/02/26/pixel-watch-3-is-getting-loss-of-pulse-detection-in-the-us-in-march/)
-- [Hinge launches a new feature for daters to privately share details with matches](https://techcrunch.com/2025/02/26/hinge-launches-a-new-feature-for-daters-to-privately-share-details-with-matches/)
-- [The 1st Australian rocket to launch from Australian soil could reach orbit next month](https://www.space.com/gilmour-space-eris-rocket-1st-orbital-launch-australian-soil)
 <!-- BLOG-POST-LIST:END -->
 
 ---
