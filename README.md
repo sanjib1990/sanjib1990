@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA set to deliver a knock-out PUNCH to mysteries of the solar wind](https://www.space.com/the-universe/sun/nasa-set-to-deliver-a-knock-out-punch-to-mysteries-of-the-solar-wind)
-- [SpaceX delays Flight 8 of Starship megarocket to March 3](https://www.space.com/space-exploration/private-spaceflight/spacex-delays-flight-8-of-starship-megarocket-to-march-3)
-- [Amazon debuts Ocelot, its first quantum computing chip](https://techcrunch.com/2025/02/27/amazon-debuts-ocelot-its-first-quantum-computing-chip/)
-- [James Webb Space Telescope joins cosmic detectives in hunt for dark matter](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-joins-cosmic-detectives-in-hunt-for-dark-matter)
-- [Unique, a Swiss AI platform for finance, raises $30M](https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/)
+- [eBay makes it easier to find fast-shipping items and local listings](https://techcrunch.com/2025/02/27/ebay-makes-it-easier-to-find-fast-shipping-items-and-local-listings/)
+- [Katy Perry and historic all-female crew will launch to space on Blue Origin rocket](https://www.space.com/space-exploration/human-spaceflight/katy-perry-and-historic-all-female-crew-will-launch-to-space-on-blue-origin-rocket)
+- [FBI says North Korea ‘responsible’ for $1.4 billion Bybit heist](https://techcrunch.com/2025/02/27/fbi-says-north-korea-responsible-for-1-4-billion-bybit-heist/)
+- [4 days left to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/27/4-days-left-to-save-up-to-325-at-techcrunch-sessions-ai/)
+- [TechCrunch Disrupt 2025: Just 2 days left to save up to $1,130](https://techcrunch.com/2025/02/27/techcrunch-disrupt-2025-just-2-days-left-to-save-up-to-1130/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
