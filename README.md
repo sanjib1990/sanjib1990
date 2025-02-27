@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini: Everything you need to know about the generative AI models](https://techcrunch.com/2025/02/26/what-is-google-gemini-ai/)
+- [Apple iPhone 16e review: An A18 chip and Apple Intelligence for $599](https://techcrunch.com/2025/02/26/apple-iphone-16e-review-an-a18-chip-and-apple-intelligence-for-599/)
+- [Europe’s Relay pulls in $35M Series A after applying Asia’s model to delivery](https://techcrunch.com/2025/02/26/europes-relay-pulls-in-35m-series-a-after-applying-asias-model-to-delivery/)
 - [Lonestar and Phison’s data center infrastructure is headed to the moon](https://techcrunch.com/2025/02/26/lonestar-and-phisons-data-center-infrastructure-is-headed-to-the-moon/)
 - [SpaceX rocket launches private moon lander and NASA &#39;trailblazer&#39; to hunt for lunar water &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launches-private-moon-lander-and-nasa-trailblazer-to-hunt-for-lunar-water)
-- [Commercetools, a pioneer in ‘headless commerce’, lays off dozens of staff](https://techcrunch.com/2025/02/26/commercetools-a-pioneer-in-headless-commerce-lays-off-dozens-of-staff/)
-- [Shop Circle raises $60M to encircle e-commerce with an app suite](https://techcrunch.com/2025/02/26/shop-circle-raises-60m-to-encircle-ecommerce-with-an-app-suite/)
-- [Nvidia CEO Jensen Huang shrugs off DeepSeek as sales soar](https://techcrunch.com/2025/02/26/nvidia-ceo-jensen-huang-shrugs-off-deepseek-as-sales-soar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
