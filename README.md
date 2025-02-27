@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ResilienceVC bucks trend, unveils $56M fund to back fintechs working on financial inclusion](https://techcrunch.com/2025/02/27/resiliencevc-bucks-trend-unveils-56m-fund-to-back-fintechs-working-on-financial-inclusion/)
+- [In challenge to YouTube, TikTok revamps its desktop platform](https://techcrunch.com/2025/02/27/in-challenge-to-youtube-tiktok-revamps-its-desktop-platform/)
+- [2025 TechCrunch Events Calendar](https://techcrunch.com/2025/02/27/2025-techcrunch-events-calendar/)
 - [eBay makes it easier to find fast-shipping items and local listings](https://techcrunch.com/2025/02/27/ebay-makes-it-easier-to-find-fast-shipping-items-and-local-listings/)
 - [Katy Perry and historic all-female crew will launch to space on Blue Origin rocket](https://www.space.com/space-exploration/human-spaceflight/katy-perry-and-historic-all-female-crew-will-launch-to-space-on-blue-origin-rocket)
-- [FBI says North Korea ‘responsible’ for $1.4 billion Bybit heist](https://techcrunch.com/2025/02/27/fbi-says-north-korea-responsible-for-1-4-billion-bybit-heist/)
-- [4 days left to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/27/4-days-left-to-save-up-to-325-at-techcrunch-sessions-ai/)
-- [TechCrunch Disrupt 2025: Just 2 days left to save up to $1,130](https://techcrunch.com/2025/02/27/techcrunch-disrupt-2025-just-2-days-left-to-save-up-to-1130/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
