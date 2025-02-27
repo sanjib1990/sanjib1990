@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Generative AI&#39;s Greatest Flaw - Computerphile](https://www.youtube.com/watch?v=vTKHB4rkDZM)
+- [Generative AI&#39;s Greatest Flaw - Computerphile](https://www.youtube.com/watch?v=rAEqP9VEhe8)
 - [Claude 3.7 goes hard for programmers…](https://www.youtube.com/watch?v=x2WtHZciC74)
 - [No Regrets - What Happens to AI Beyond Generative? - Computerphile](https://www.youtube.com/watch?v=fN3gdUMB_Yc)
 - [Microsoft’s new chip looks like science fiction…](https://www.youtube.com/watch?v=jwnez8HdN7E)
