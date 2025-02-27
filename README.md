@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ResilienceVC bucks trend, unveils $56M fund to back fintechs working on financial inclusion](https://techcrunch.com/2025/02/27/resiliencevc-bucks-trend-unveils-56m-fund-to-back-fintechs-working-on-financial-inclusion/)
-- [In challenge to YouTube, TikTok revamps its desktop platform](https://techcrunch.com/2025/02/27/in-challenge-to-youtube-tiktok-revamps-its-desktop-platform/)
-- [2025 TechCrunch Events Calendar](https://techcrunch.com/2025/02/27/2025-techcrunch-events-calendar/)
-- [eBay makes it easier to find fast-shipping items and local listings](https://techcrunch.com/2025/02/27/ebay-makes-it-easier-to-find-fast-shipping-items-and-local-listings/)
-- [Katy Perry and historic all-female crew will launch to space on Blue Origin rocket](https://www.space.com/space-exploration/human-spaceflight/katy-perry-and-historic-all-female-crew-will-launch-to-space-on-blue-origin-rocket)
+- [Archipelo comes out of stealth with $12M funding to secure human and AI-driven code](https://techcrunch.com/2025/02/27/archipelo-comes-out-of-stealth-with-12m-funding-to-secure-human-and-ai-driven-code/)
+- [Katy Perry, Gayle King, and Lauren Sánchez headed to space on Blue Origin mission](https://techcrunch.com/2025/02/27/katy-perry-gayle-king-and-lauren-sanchez-headed-to-space-on-blue-origin-mission/)
+- [YC grad Deepnight nabs $5.5M for AI night vision software that disrupts a multi-billion dollar industry](https://techcrunch.com/2025/02/27/yc-grad-deepnight-nabs-5-5m-for-ai-night-vision-software-that-disrupts-a-multi-billion-dollar-industry/)
+- [Workhelix taps years of research to help enterprises figure out where to apply AI](https://techcrunch.com/2025/02/27/workhelix-taps-years-of-research-to-help-enterprises-figure-out-where-to-apply-ai/)
+- [Meta fixes error that exposed Instagram users to graphic and violent content](https://techcrunch.com/2025/02/27/meta-fixes-error-that-exposed-instagram-users-to-graphic-and-violent-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
