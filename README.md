@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Copilot gets a macOS app](https://techcrunch.com/2025/02/27/microsoft-copilot-gets-a-macos-app/)
 - [Lucid loses its CEO, and ‘founder mode’ comes for Flexport](https://techcrunch.com/2025/02/27/lucid-loses-its-ceo-and-founder-mode-comes-for-flexport/)
 - [Stripe CEO says AI startups are growing faster than SaaS ever did and calling them wrappers ‘misses the point’](https://techcrunch.com/2025/02/27/stripe-ceo-says-ai-startups-are-growing-faster-than-saas-ever-did-and-calling-them-wrappers-misses-the-point/)
 - [AI models trained on unsecured code become toxic, study finds](https://techcrunch.com/2025/02/27/ai-models-trained-on-unsecured-code-become-toxic-study-finds/)
-- [Apple introduces new child safety initiatives, including an age verification system for apps](https://techcrunch.com/2025/02/27/apple-introduces-new-child-safety-initiatives-including-an-age-verification-system-for-apps/)
-- [Meta’s new AR glasses for research can measure heart rate](https://techcrunch.com/2025/02/27/metas-new-ar-glasses-for-research-can-measure-heart-rate/)
+- [Apple introduces new child safety initiatives, including an age-checking system for apps](https://techcrunch.com/2025/02/27/apple-introduces-new-child-safety-initiatives-including-an-age-checking-system-for-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
