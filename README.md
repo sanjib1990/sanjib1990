@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope joins cosmic detectives in hunt for dark matter](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-joins-cosmic-detectives-in-hunt-for-dark-matter)
+- [Unique, a Swiss AI platform for finance, raises $30M](https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/)
 - [NASA launching its SPHEREx and PUNCH space missions on March 2 after delay: How to watch live](https://www.space.com/space-exploration/missions/nasa-launching-its-spherex-and-punch-space-missions-on-feb-28-how-to-watch-live)
 - [Taktile helps fintechs build automated decision-making workflows](https://techcrunch.com/2025/02/27/taktile-helps-fintechs-build-automated-decision-making-workflows/)
 - [Instagram may spin off Reels into a separate app](https://techcrunch.com/2025/02/27/instagram-may-spin-off-reels-into-a-separate-app/)
-- [SpaceX launches 21 Starlink satellite on new Falcon 9 rocket, aces nighttime landing](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-21-starlink-satellite-on-new-falcon-9-rocket-aces-nighttime-landing)
-- [Google Gemini: Everything you need to know about the generative AI models](https://techcrunch.com/2025/02/26/what-is-google-gemini-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
