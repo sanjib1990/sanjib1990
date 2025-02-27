@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snowflake grows startup accelerator with $200M in new capital](https://techcrunch.com/2025/02/27/snowflake-grows-startup-accelerator-with-200m-in-new-capital/)
 - [Private Athena moon lander beams home gorgeous views of Earth from space &lpar;photos&rpar;](https://www.space.com/athena-moon-lander-beams-home-gorgeous-views-of-earth-from-space)
 - [Meta fires around 20 employees for leaking confidential information](https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/)
 - [Waymo has doubled its weekly robotaxi rides in less than a year](https://techcrunch.com/2025/02/27/waymo-has-doubled-its-weekly-robotaxi-rides-in-less-than-a-year/)
 - [Twitch is letting more streamers access its monetization tools](https://techcrunch.com/2025/02/27/twitch-is-letting-more-streamers-access-its-monetization-tools/)
-- [OpenAI CEO Sam Altman says the company is ‘out of GPUs’](https://techcrunch.com/2025/02/27/openai-ceo-sam-altman-says-the-company-is-out-of-gpus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
