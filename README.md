@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Maternity clinic Millie nabs $12M Series A from an all-star, all female class of VCs](https://techcrunch.com/2025/02/26/maternity-clinic-millie-nabs-12m-series-a-from-an-all-star-all-female-class-of-vcs/)
-- [These dwarf galaxies in the Hydra cluster are baffling scientists: &#39;We found something we didn&#39;t expect&#39;](https://www.space.com/the-universe/these-dwarf-galaxies-in-the-hydra-cluster-are-baffling-scientists-we-found-something-we-didnt-expect)
-- [Avride’s sidewalk delivery bots land in Japan](https://techcrunch.com/2025/02/26/avrides-sidewalk-delivery-bots-land-in-japan/)
-- [These alternatives to popular apps can help reclaim your online life from billionaires and surveillance](https://techcrunch.com/2025/02/26/these-alternatives-to-popular-apps-can-help-reclaim-your-online-life-from-billionaires-and-surveillance/)
-- [Here are all the tech companies rolling back DEI or still committed to it — so far](https://techcrunch.com/2025/02/26/here-are-all-the-tech-companies-rolling-back-dei-or-still-committed-to-it-so-far/)
+- [Lonestar and Phison’s data center infrastructure is headed to the moon](https://techcrunch.com/2025/02/26/lonestar-and-phisons-data-center-infrastructure-is-headed-to-the-moon/)
+- [SpaceX rocket launches private moon lander and NASA &#39;trailblazer&#39; to hunt for lunar water &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launches-private-moon-lander-and-nasa-trailblazer-to-hunt-for-lunar-water)
+- [Commercetools, a pioneer in ‘headless commerce’, lays off dozens of staff](https://techcrunch.com/2025/02/26/commercetools-a-pioneer-in-headless-commerce-lays-off-dozens-of-staff/)
+- [Shop Circle raises $60M to encircle e-commerce with an app suite](https://techcrunch.com/2025/02/26/shop-circle-raises-60m-to-encircle-ecommerce-with-an-app-suite/)
+- [Nvidia CEO Jensen Huang shrugs off DeepSeek as sales soar](https://techcrunch.com/2025/02/26/nvidia-ceo-jensen-huang-shrugs-off-deepseek-as-sales-soar/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
