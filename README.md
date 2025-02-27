@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Copilot gets a macOS app](https://techcrunch.com/2025/02/27/microsoft-copilot-gets-a-macos-app/)
-- [Lucid loses its CEO, and ‘founder mode’ comes for Flexport](https://techcrunch.com/2025/02/27/lucid-loses-its-ceo-and-founder-mode-comes-for-flexport/)
-- [Stripe CEO says AI startups are growing faster than SaaS ever did and calling them wrappers ‘misses the point’](https://techcrunch.com/2025/02/27/stripe-ceo-says-ai-startups-are-growing-faster-than-saas-ever-did-and-calling-them-wrappers-misses-the-point/)
-- [AI models trained on unsecured code become toxic, study finds](https://techcrunch.com/2025/02/27/ai-models-trained-on-unsecured-code-become-toxic-study-finds/)
-- [Apple introduces new child safety initiatives, including an age-checking system for apps](https://techcrunch.com/2025/02/27/apple-introduces-new-child-safety-initiatives-including-an-age-checking-system-for-apps/)
+- [Spyzie stalkerware is spying on thousands of Android and iPhone users](https://techcrunch.com/2025/02/27/spyzie-stalkerware-spying-on-thousands-of-android-and-iphone-users/)
+- [OpenAI unveils GPT-4.5 ‘Orion,’ its largest AI model yet](https://techcrunch.com/2025/02/27/openai-unveils-gpt-4-5-orion-its-largest-ai-model-yet/)
+- [OpenAI’s GPT-4.5 is better at convincing other AIs to give it money](https://techcrunch.com/2025/02/27/openais-gpt-4-5-is-better-at-convincing-other-ai-to-give-it-money/)
+- [NASA must &#39;consider alternatives&#39; to put Artemis astronauts on the moon, experts tell US Congress](https://www.space.com/nasa-must-consider-alternatives-artemis-program-experts-tell-congress)
+- [4 days left to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/27/4-days-left-to-save-up-to-325-at-techcrunch-sessions-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
