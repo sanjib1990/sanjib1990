@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Archipelo comes out of stealth with $12M funding to secure human and AI-driven code](https://techcrunch.com/2025/02/27/archipelo-comes-out-of-stealth-with-12m-funding-to-secure-human-and-ai-driven-code/)
-- [Katy Perry, Gayle King, and Lauren Sánchez headed to space on Blue Origin mission](https://techcrunch.com/2025/02/27/katy-perry-gayle-king-and-lauren-sanchez-headed-to-space-on-blue-origin-mission/)
-- [YC grad Deepnight nabs $5.5M for AI night vision software that disrupts a multi-billion dollar industry](https://techcrunch.com/2025/02/27/yc-grad-deepnight-nabs-5-5m-for-ai-night-vision-software-that-disrupts-a-multi-billion-dollar-industry/)
-- [Workhelix taps years of research to help enterprises figure out where to apply AI](https://techcrunch.com/2025/02/27/workhelix-taps-years-of-research-to-help-enterprises-figure-out-where-to-apply-ai/)
-- [Meta fixes error that exposed Instagram users to graphic and violent content](https://techcrunch.com/2025/02/27/meta-fixes-error-that-exposed-instagram-users-to-graphic-and-violent-content/)
+- [Lucid loses its CEO, and ‘founder mode’ comes for Flexport](https://techcrunch.com/2025/02/27/lucid-loses-its-ceo-and-founder-mode-comes-for-flexport/)
+- [Stripe CEO says AI startups are growing faster than SaaS ever did and calling them wrappers ‘misses the point’](https://techcrunch.com/2025/02/27/stripe-ceo-says-ai-startups-are-growing-faster-than-saas-ever-did-and-calling-them-wrappers-misses-the-point/)
+- [AI models trained on unsecured code become toxic, study finds](https://techcrunch.com/2025/02/27/ai-models-trained-on-unsecured-code-become-toxic-study-finds/)
+- [Apple introduces new child safety initiatives, including an age verification system for apps](https://techcrunch.com/2025/02/27/apple-introduces-new-child-safety-initiatives-including-an-age-verification-system-for-apps/)
+- [Meta’s new AR glasses for research can measure heart rate](https://techcrunch.com/2025/02/27/metas-new-ar-glasses-for-research-can-measure-heart-rate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
