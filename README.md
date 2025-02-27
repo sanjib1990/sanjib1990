@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA set to deliver a knock-out PUNCH to mysteries of the solar wind](https://www.space.com/the-universe/sun/nasa-set-to-deliver-a-knock-out-punch-to-mysteries-of-the-solar-wind)
 - [SpaceX delays Flight 8 of Starship megarocket to March 3](https://www.space.com/space-exploration/private-spaceflight/spacex-delays-flight-8-of-starship-megarocket-to-march-3)
 - [Amazon debuts Ocelot, its first quantum computing chip](https://techcrunch.com/2025/02/27/amazon-debuts-ocelot-its-first-quantum-computing-chip/)
 - [James Webb Space Telescope joins cosmic detectives in hunt for dark matter](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-joins-cosmic-detectives-in-hunt-for-dark-matter)
 - [Unique, a Swiss AI platform for finance, raises $30M](https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/)
-- [NASA launching its SPHEREx and PUNCH space missions on March 2 after delay: How to watch live](https://www.space.com/space-exploration/missions/nasa-launching-its-spherex-and-punch-space-missions-on-feb-28-how-to-watch-live)
 <!-- BLOG-POST-LIST:END -->
 
 ---
