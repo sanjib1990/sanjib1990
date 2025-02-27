@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram may spin off Reels into a separate app](https://techcrunch.com/2025/02/27/instagram-may-spin-off-reels-into-a-separate-app/)
 - [SpaceX launches 21 Starlink satellite on new Falcon 9 rocket, aces nighttime landing](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-21-starlink-satellite-on-new-falcon-9-rocket-aces-nighttime-landing)
 - [Google Gemini: Everything you need to know about the generative AI models](https://techcrunch.com/2025/02/26/what-is-google-gemini-ai/)
 - [Apple iPhone 16e review: An A18 chip and Apple Intelligence for $599](https://techcrunch.com/2025/02/26/apple-iphone-16e-review-an-a18-chip-and-apple-intelligence-for-599/)
 - [Europe’s Relay pulls in $35M Series A after applying Asia’s model to delivery](https://techcrunch.com/2025/02/26/europes-relay-pulls-in-35m-series-a-after-applying-asias-model-to-delivery/)
-- [Lonestar and Phison’s data center infrastructure is headed to the moon](https://techcrunch.com/2025/02/26/lonestar-and-phisons-data-center-infrastructure-is-headed-to-the-moon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
