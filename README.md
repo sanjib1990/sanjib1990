@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/02/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
+- [How did Andromeda&#39;s dwarf galaxies form? Hubble Telescope finds more questions than answers](https://www.space.com/the-universe/galaxies/how-did-andromedas-dwarf-galaxies-form-hubble-telescope-finds-more-questions-than-answers)
 - [SpaceX gets FAA approval for Flight 8 of Starship megarocket](https://www.space.com/space-exploration/private-spaceflight/spacex-gets-faa-approval-for-flight-8-of-starship-megarocket)
 - [Researchers uncover unknown Android flaws used to hack into a student’s phone](https://techcrunch.com/2025/02/28/researchers-uncover-unknown-android-flaws-used-to-hack-into-a-students-phone/)
 - [Google Sheets gets a Gemini-powered upgrade to analyze data faster and create visuals](https://techcrunch.com/2025/02/28/google-sheets-gets-a-gemini-powered-upgrade-to-analyze-data-faster-and-create-visuals/)
-- [Bluesky-based Instagram alternative Flashes launches publicly](https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/)
-- [How microbes from Earth can help astronauts adapt to long-term space missions](https://www.space.com/space-exploration/missions/how-microbes-from-earth-can-help-astronauts-adapt-to-long-term-space-missions)
 <!-- BLOG-POST-LIST:END -->
 
 ---
