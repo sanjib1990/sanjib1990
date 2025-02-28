@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/)
+- [NASA&#39;s X-59 quiet supersonic jet clears &#39;major hurdle&#39; ahead of 1st flight &lpar;photos&rpar;](https://www.space.com/x-59-quiet-supersonic-jet-sci-fi-photos)
+- [OpenAI plans to integrate Sora’s video generator into ChatGPT](https://techcrunch.com/2025/02/28/openai-plans-to-integrate-soras-video-generator-into-chatgpt/)
 - [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/02/28/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
 - [How did Andromeda&#39;s dwarf galaxies form? Hubble Telescope finds more questions than answers](https://www.space.com/the-universe/galaxies/how-did-andromedas-dwarf-galaxies-form-hubble-telescope-finds-more-questions-than-answers)
-- [SpaceX gets FAA approval for Flight 8 of Starship megarocket](https://www.space.com/space-exploration/private-spaceflight/spacex-gets-faa-approval-for-flight-8-of-starship-megarocket)
-- [Researchers uncover unknown Android flaws used to hack into a student’s phone](https://techcrunch.com/2025/02/28/researchers-uncover-unknown-android-flaws-used-to-hack-into-a-students-phone/)
-- [Google Sheets gets a Gemini-powered upgrade to analyze data faster and create visuals](https://techcrunch.com/2025/02/28/google-sheets-gets-a-gemini-powered-upgrade-to-analyze-data-faster-and-create-visuals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
