@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GPT-4.5 shocks the world with its lack of intelligence...](https://www.youtube.com/watch?v=FW2XOIxaNqg)
+- [You&#39;re Going to Get Hacked in 2025](https://www.youtube.com/watch?v=CxTMHw-M0Yg)
 - [Generative AI&#39;s Greatest Flaw - Computerphile](https://www.youtube.com/watch?v=rAEqP9VEhe8)
 - [Claude 3.7 goes hard for programmers…](https://www.youtube.com/watch?v=x2WtHZciC74)
 - [No Regrets - What Happens to AI Beyond Generative? - Computerphile](https://www.youtube.com/watch?v=fN3gdUMB_Yc)
-- [Microsoft’s new chip looks like science fiction…](https://www.youtube.com/watch?v=jwnez8HdN7E)
-- [ChatGPT Operator is expensive....use this instead &lpar;FREE + Open Source&rpar;](https://www.youtube.com/watch?v=sxTNACldK3Y)
 <!-- YOUTUBE:END -->
 
 ---
