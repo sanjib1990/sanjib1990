@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX gets FAA approval for Flight 8 of Starship megarocket](https://www.space.com/space-exploration/private-spaceflight/spacex-gets-faa-approval-for-flight-8-of-starship-megarocket)
+- [Researchers uncover unknown Android flaws used to hack into a student’s phone](https://techcrunch.com/2025/02/28/researchers-uncover-unknown-android-flaws-used-to-hack-into-a-students-phone/)
+- [Google Sheets gets a Gemini-powered upgrade to analyze data faster and create visuals](https://techcrunch.com/2025/02/28/google-sheets-gets-a-gemini-powered-upgrade-to-analyze-data-faster-and-create-visuals/)
+- [Bluesky-based Instagram alternative Flashes launches publicly](https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/)
 - [How microbes from Earth can help astronauts adapt to long-term space missions](https://www.space.com/space-exploration/missions/how-microbes-from-earth-can-help-astronauts-adapt-to-long-term-space-missions)
-- [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/)
-- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/)
-- [1st private spacecraft to attempt to travel beyond the moon appears to be in trouble](https://www.space.com/space-exploration/launches-spacecraft/1st-private-spacecraft-to-attempt-to-travel-beyond-the-moon-appears-to-be-in-trouble)
-- [Alkami is buying fintech Mantl for $400 million](https://techcrunch.com/2025/02/28/alkami-is-buying-fintech-mantl-for-400-million/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
