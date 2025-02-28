@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There are 3 private lunar landers headed to the moon right now — a 1st in space history](https://www.space.com/the-universe/moon/there-are-3-private-lunar-landers-headed-to-the-moon-right-now-a-1st-in-space-history)
+- [Microsoft hangs up on Skype: service to shut down May 5, 2025](https://techcrunch.com/2025/02/28/microsoft-hangs-up-on-skype-service-to-shut-down-may-5-2025/)
+- [Belgium investigating alleged cyberattack on intelligence agency by China-linked hackers](https://techcrunch.com/2025/02/28/belgium-investigating-alleged-cyberattack-on-intelligence-agency-by-china-linked-hackers/)
 - [Watch &#39;rare&#39; planetary parade online for free today as 7 planets align across the sky &lpar;video&rpar;](https://www.space.com/watch-planetary-parade-february-2025-online-free-today)
 - [Fuel your children&#39;s imagination for all things space with this National Geographic Power Rocket — it&#39;s got a 21% saving right now at Amazon](https://www.space.com/entertainment/space-games-toys/nat-geo-power-rocket-deal)
-- [What time is SpaceX&#39;s Starship Flight 8 launch on March 3?](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-8-launch-what-time)
-- [Why the northern lights seem more frequent than ever — from solar science to smartphone snapshots](https://www.space.com/why-northern-lights-more-visible-lately-from-science-to-social-media)
-- [OpenAI’s Sora is now available in the EU, UK](https://techcrunch.com/2025/02/27/openais-sora-is-now-available-in-the-eu-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
