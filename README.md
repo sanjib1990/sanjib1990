@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How microbes from Earth can help astronauts adapt to long-term space missions](https://www.space.com/space-exploration/missions/how-microbes-from-earth-can-help-astronauts-adapt-to-long-term-space-missions)
 - [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/)
 - [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/)
 - [1st private spacecraft to attempt to travel beyond the moon appears to be in trouble](https://www.space.com/space-exploration/launches-spacecraft/1st-private-spacecraft-to-attempt-to-travel-beyond-the-moon-appears-to-be-in-trouble)
 - [Alkami is buying fintech Mantl for $400 million](https://techcrunch.com/2025/02/28/alkami-is-buying-fintech-mantl-for-400-million/)
-- [Tesla applies for ride-hail permit in California — but there’s a catch](https://techcrunch.com/2025/02/28/tesla-applies-for-ride-hail-permit-in-california-but-theres-a-catch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
