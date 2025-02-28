@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Good hype for fusion, bad buzz for YC](https://techcrunch.com/2025/02/28/good-hype-for-fusion-bad-buzz-for-yc/)
+- [A comprehensive list of 2024 and 2025 tech layoffs](https://techcrunch.com/2025/02/28/tech-layoffs-2024-list/)
+- [1st private spacecraft to attempt to travel beyond the moon appears to be in trouble](https://www.space.com/space-exploration/launches-spacecraft/1st-private-spacecraft-to-attempt-to-travel-beyond-the-moon-appears-to-be-in-trouble)
+- [Alkami is buying fintech Mantl for $400 million](https://techcrunch.com/2025/02/28/alkami-is-buying-fintech-mantl-for-400-million/)
 - [Tesla applies for ride-hail permit in California — but there’s a catch](https://techcrunch.com/2025/02/28/tesla-applies-for-ride-hail-permit-in-california-but-theres-a-catch/)
-- [Ainael Meteor and Galaxy Projector review](https://www.space.com/stargazing/astronomy-kit/ainael-meteor-galaxy-projector-review)
-- [Chinese scientists developing Mars drone that can roll and fly across Red Planet &lpar;video&rpar;](https://www.space.com/the-universe/mars/chinese-scientists-developing-mars-drone-that-can-roll-and-fly-across-red-planet-video)
-- [Save 30% on this fun kids Lego Star Wars playset — the only current set that includes a Yoda minifigure](https://www.space.com/entertainment/space-games-toys/lego-jedi-tenoo-temple-yoda-minifigure-30-percent-off)
-- [Mozilla responds to backlash over new terms, saying it’s not using people’s data for AI](https://techcrunch.com/2025/02/28/mozilla-responds-to-backlash-over-new-terms-saying-its-not-using-peoples-data-for-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
