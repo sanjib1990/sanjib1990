@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time is SpaceX&#39;s Starship Flight 8 launch on March 3?](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-8-launch-what-time)
 - [Why the northern lights seem more frequent than ever — from solar science to smartphone snapshots](https://www.space.com/why-northern-lights-more-visible-lately-from-science-to-social-media)
 - [OpenAI’s Sora is now available in the EU, UK](https://techcrunch.com/2025/02/27/openais-sora-is-now-available-in-the-eu-uk/)
 - [Airbnb co-founder Joe Gebbia takes wraps off his first assignment for DOGE](https://techcrunch.com/2025/02/27/airbnb-co-founder-joe-gebbia-takes-wraps-off-his-first-assignment-for-doge/)
 - [2025 TechCrunch Events Calendar](https://techcrunch.com/2025/02/27/2025-techcrunch-events-calendar/)
-- [Sequoia’s Roelof Botha warns ‘chumps’ not to buy into SPVs](https://techcrunch.com/2025/02/27/sequoias-roelof-botha-warns-chumps-not-to-buy-into-spvs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
