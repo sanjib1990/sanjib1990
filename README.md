@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The biggest data breaches of 2025 — so far](https://techcrunch.com/2025/02/28/the-biggest-data-breaches-of-2025-so-far/)
+- [Last week to apply to speak at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/last-week-to-apply-to-speak-at-techcrunch-sessions-ai/)
+- [Apply to Speak at TechCrunch All Stage 2025](https://techcrunch.com/2025/02/28/apply-to-speak-at-techcrunch-all-stage-2025/)
+- [NASA&#39;s brand-new Lunar Trailblazer probe suffers glitch on way to the moon](https://www.space.com/nasa-lunar-trailblazer-moon-probe-not-responding)
 - [TechCrunch Disrupt 2025: Final 24 hours to save up to $1,130](https://techcrunch.com/2025/02/28/techcrunch-disrupt-2025-final-hours-to-save-up-to-1130/)
-- [Only 3 more days to save up to $325 at TechCrunch Sessions: AI](https://techcrunch.com/2025/02/28/only-3-more-days-to-save-up-to-325-at-techcrunch-sessions-ai/)
-- [Intel delays its Ohio chip factory to 2030](https://techcrunch.com/2025/02/28/intel-delays-its-ohio-chip-factory-to-2030/)
-- [There are 3 private lunar landers headed to the moon right now — a 1st in space history](https://www.space.com/the-universe/moon/there-are-3-private-lunar-landers-headed-to-the-moon-right-now-a-1st-in-space-history)
-- [Microsoft hangs up on Skype: service to shut down May 5, 2025](https://techcrunch.com/2025/02/28/microsoft-hangs-up-on-skype-service-to-shut-down-may-5-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
