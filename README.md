@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sequoia’s Roelof Botha warns ‘chumps’ not to buy into SPVs](https://techcrunch.com/2025/02/27/sequoias-roelof-botha-warns-chumps-not-to-buy-into-spvs/)
+- [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/02/27/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
+- [SEC says meme coins are not securities](https://techcrunch.com/2025/02/27/sec-says-meme-coins-are-not-securities/)
 - [Meta is reportedly planning a standalone AI chatbot app](https://techcrunch.com/2025/02/27/meta-is-reportedly-planning-a-standalone-ai-chatbot-app/)
 - [Snowflake grows startup accelerator with $200M in new capital](https://techcrunch.com/2025/02/27/snowflake-grows-startup-accelerator-with-200m-in-new-capital/)
-- [Private Athena moon lander beams home gorgeous views of Earth from space &lpar;photos&rpar;](https://www.space.com/athena-moon-lander-beams-home-gorgeous-views-of-earth-from-space)
-- [Meta fires around 20 employees for leaking confidential information](https://techcrunch.com/2025/02/27/meta-fires-around-20-employees-for-leaking-confidential-information/)
-- [Waymo has doubled its weekly robotaxi rides in less than a year](https://techcrunch.com/2025/02/27/waymo-has-doubled-its-weekly-robotaxi-rides-in-less-than-a-year/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
