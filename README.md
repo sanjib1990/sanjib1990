@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI launches GPT-4.5, its largest model to date](https://techcrunch.com/2025/03/01/openai-launches-gpt-4-5-its-largest-model-to-date/)
+- [DeepSeek claims ‘theoretical’ profit margins of 545%](https://techcrunch.com/2025/03/01/deepseek-claims-theoretical-profit-margins-of-545/)
+- [&#39;I think we all know that hope is fading.&#39; Private Odin asteroid probe is tumbling in space](https://www.space.com/space-exploration/private-spaceflight/i-think-we-all-know-that-hope-is-fading-private-odin-asteroid-probe-is-tumbling-in-space)
+- [Ben Horowitz donates Cybertruck fleet to the Las Vegas police](https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/)
 - [Govee Star Light Projector review](https://www.space.com/stargazing/astronomy-kit/govee-star-light-projector-review)
-- [&#39;Land&#39; your own Blue Ghost with Firefly&#39;s moon lander building blocks set](https://www.space.com/entertainment/space-games-toys/land-your-own-blue-ghost-with-fireflys-moon-lander-building-blocks-set)
-- [How to get rid of the new Apple Mail redesign](https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/)
-- [‘Uber for guns’ app Protector lets you hire armed body guards like you would an Uber — but does anyone need this?](https://techcrunch.com/2025/03/01/uber-for-guns-app-protector-lets-you-hire-armed-body-guards-like-you-would-an-uber-but-does-anyone-need-this/)
-- [This Week In Space podcast: Episode 150 — Our Listener Special](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-150-our-listener-special)
 <!-- BLOG-POST-LIST:END -->
 
 ---
