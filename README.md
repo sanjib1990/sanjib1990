@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Govee Star Light Projector review](https://www.space.com/stargazing/astronomy-kit/govee-star-light-projector-review)
+- [&#39;Land&#39; your own Blue Ghost with Firefly&#39;s moon lander building blocks set](https://www.space.com/entertainment/space-games-toys/land-your-own-blue-ghost-with-fireflys-moon-lander-building-blocks-set)
 - [How to get rid of the new Apple Mail redesign](https://techcrunch.com/2025/03/01/how-to-get-rid-of-the-new-apple-mail-redesign/)
 - [‘Uber for guns’ app Protector lets you hire armed body guards like you would an Uber — but does anyone need this?](https://techcrunch.com/2025/03/01/uber-for-guns-app-protector-lets-you-hire-armed-body-guards-like-you-would-an-uber-but-does-anyone-need-this/)
 - [This Week In Space podcast: Episode 150 — Our Listener Special](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-150-our-listener-special)
-- [2 days left to save up to $325 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/03/01/2-days-left-to-save-up-to-325-on-techcrunch-sessions-ai-tickets/)
-- [OpenAI’s startup empire: The companies backed by its venture fund](https://techcrunch.com/2025/03/01/openais-startup-empire-the-companies-backed-by-its-venture-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
