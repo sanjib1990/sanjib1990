@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers explore how to build shapeshifting, T-1000-style robots](https://techcrunch.com/2025/03/01/researchers-explore-how-to-build-shapeshifting-t-1000-style-robots/)
 - [OpenAI launches GPT-4.5, its largest model to date](https://techcrunch.com/2025/03/01/openai-launches-gpt-4-5-its-largest-model-to-date/)
 - [DeepSeek claims ‘theoretical’ profit margins of 545%](https://techcrunch.com/2025/03/01/deepseek-claims-theoretical-profit-margins-of-545/)
 - [&#39;I think we all know that hope is fading.&#39; Private Odin asteroid probe is tumbling in space](https://www.space.com/space-exploration/private-spaceflight/i-think-we-all-know-that-hope-is-fading-private-odin-asteroid-probe-is-tumbling-in-space)
 - [Ben Horowitz donates Cybertruck fleet to the Las Vegas police](https://techcrunch.com/2025/03/01/ben-horowitz-donates-cybertruck-fleet-to-the-las-vegas-police/)
-- [Govee Star Light Projector review](https://www.space.com/stargazing/astronomy-kit/govee-star-light-projector-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
