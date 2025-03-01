@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sergey Brin says RTO is key to Google winning the AGI race](https://techcrunch.com/2025/02/28/sergey-brin-says-rto-is-key-to-google-winning-the-agi-race/)
+- [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/)
 - [US Space Operations Command unveils new motto in head banging video: &#39;Always the hunter&#39;](https://www.space.com/space-operations-command-motto-always-the-hunter-video)
 - [Scientists warn of consequences as over 800 NOAA workers are fired: &#39;Censoring science does not change the facts&#39;](https://www.space.com/the-universe/climate-change/scientists-warn-of-consequences-as-over-800-noaa-workers-are-fired-censoring-science-does-not-change-the-facts)
 - [Startup co-founded by longevity guru Peter Attia emerges from stealth](https://techcrunch.com/2025/02/28/startup-co-founded-by-longevity-guru-peter-attia-emerges-from-stealth/)
-- [NASA&#39;s X-59 quiet supersonic jet clears &#39;major hurdle&#39; ahead of 1st flight &lpar;photos&rpar;](https://www.space.com/x-59-quiet-supersonic-jet-sci-fi-photos)
-- [OpenAI plans to bring Sora’s video generator to ChatGPT](https://techcrunch.com/2025/02/28/openai-plans-to-bring-soras-video-generator-to-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
