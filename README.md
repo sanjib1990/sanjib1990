@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Uber for guns’ app Protector lets you hire armed body guards like you would an Uber — but does anyone need this?](https://techcrunch.com/2025/03/01/uber-for-guns-app-protector-lets-you-hire-armed-body-guards-like-you-would-an-uber-but-does-anyone-need-this/)
+- [This Week In Space podcast: Episode 150 — Our Listener Special](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-150-our-listener-special)
 - [2 days left to save up to $325 on TechCrunch Sessions: AI tickets](https://techcrunch.com/2025/03/01/2-days-left-to-save-up-to-325-on-techcrunch-sessions-ai-tickets/)
 - [OpenAI’s startup empire: The companies backed by its venture fund](https://techcrunch.com/2025/03/01/openais-startup-empire-the-companies-backed-by-its-venture-fund/)
 - [Partial solar eclipse 1 month away: The moon will take a &#39;bite&#39; out of the sun on March 29](https://www.space.com/partial-solar-eclipse-one-month-to-go-what-to-expect)
-- [From interstellar dust to life beyond Earth: Why scientists can&#39;t wait NASA&#39;s new SPHEREx space telescope](https://www.space.com/space-exploration/missions/from-interstellar-dust-to-life-beyond-earth-why-scientists-cant-wait-nasas-new-spherex-space-telescope)
-- [NASA&#39;s Europa Clipper will fly close to Mars today on way to Jupiter&#39;s icy moon](https://www.space.com/the-universe/mars/nasas-europa-clipper-will-fly-close-to-mars-this-saturday-on-way-to-jupiters-icy-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
