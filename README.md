@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What time will the private Blue Ghost probe land on the moon Sunday? How to watch live.](https://www.space.com/space-exploration/private-spaceflight/firefly-blue-ghost-moon-landing-what-time-livestream)
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/02/28/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
 - [General Catalyst is reportedly weighing a potential IPO](https://techcrunch.com/2025/02/28/general-catalyst-is-reportedly-weighing-a-potential-ipo/)
 - [Sergey Brin says RTO is key to Google winning the AGI race](https://techcrunch.com/2025/02/28/sergey-brin-says-rto-is-key-to-google-winning-the-agi-race/)
 - [SymbyAI raises $2.1M seed to make science research easier](https://techcrunch.com/2025/02/28/symbyai-raises-2-1m-seed-to-make-science-research-easier/)
-- [US Space Operations Command unveils new motto in head banging video: &#39;Always the hunter&#39;](https://www.space.com/space-operations-command-motto-always-the-hunter-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
