@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aviron’s $2,499 gamified treadmill will keep you on your toes](https://techcrunch.com/2025/03/02/avirons-2499-gamified-treadmill-will-keep-you-on-your-toes/)
 - [Last chance! Last 24 hours to save up to $325 on TechCrunch Sessions: AI](https://techcrunch.com/2025/03/02/last-chance-last-24-hours-to-save-up-to-325-on-techcrunch-sessions-ai/)
 - [The TechCrunch AI glossary](https://techcrunch.com/2025/03/02/the-techcrunch-ai-glossary/)
 - [Is it time to revisit what NASA&#39;s Viking lander found on Mars in 1976?](https://www.space.com/mars-viking-lander-1976-results)
 - [Earth shines over the moon in amazing 1st photos from private Blue Ghost lander. &#39;We&#39;re all in that picture.&#39;](https://www.space.com/space-exploration/missions/earth-shines-over-moon-in-amazing-1st-photos-from-private-blue-ghost-lander-were-all-in-that-picture)
-- [Is the &#39;Blaze Star&#39; about to explode? If it does, here&#39;s where to look in March](https://www.space.com/blaze-star-coronae-borealis-where-to-look-march-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
