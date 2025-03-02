@@ -94,8 +94,8 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pikoy Galaxy Projector review](https://www.space.com/stargazing/astronomy-kit/pikoy-galaxy-projector-review)
 - [Trump calls for creation of a ‘crypto strategic reserve’](https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/)
+- [Pikoy Galaxy Projector review](https://www.space.com/stargazing/astronomy-kit/pikoy-galaxy-projector-review)
 - [Aviron’s $2,499 gamified treadmill will keep you on your toes](https://techcrunch.com/2025/03/02/avirons-2499-gamified-treadmill-will-keep-you-on-your-toes/)
 - [Last chance! Last 24 hours to save up to $325 on TechCrunch Sessions: AI](https://techcrunch.com/2025/03/02/last-chance-last-24-hours-to-save-up-to-325-on-techcrunch-sessions-ai/)
 - [The TechCrunch AI glossary](https://techcrunch.com/2025/03/02/the-techcrunch-ai-glossary/)
