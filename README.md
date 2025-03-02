@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is the &#39;Blaze Star&#39; about to explode? If it does, here&#39;s where to look in March](https://www.space.com/blaze-star-coronae-borealis-where-to-look-march-2025)
 - [&#39;We&#39;re on the moon!&#39; Private Blue Ghost moon lander aces historic lunar landing for NASA](https://www.space.com/the-universe/moon/were-on-the-moon-private-blue-ghost-moon-lander-aces-historic-lunar-landing-for-nasa)
 - [Mark Cuban offers to fund government tech unit that was cut in the middle of the night](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
 - [Russian cargo ship docks at space station with science, spacesuit and supplies](https://www.space.com/space-exploration/international-space-station/russian-cargo-ship-docks-at-space-station-with-science-spacesuit-and-supplies)
 - [Researchers explore how to build shapeshifting, T-1000-style robots](https://techcrunch.com/2025/03/01/researchers-explore-how-to-build-shapeshifting-t-1000-style-robots/)
-- [OpenAI launches GPT-4.5, its largest model to date](https://techcrunch.com/2025/03/01/openai-launches-gpt-4-5-its-largest-model-to-date/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
