@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore arrests alleged Nvidia chip smugglers](https://techcrunch.com/2025/03/03/singapore-arrests-alleged-nvidia-chip-smugglers/)
+- [Creator monetization platform Passes sued over alleged distribution of CSAM](https://techcrunch.com/2025/03/03/creator-monetization-platform-passes-sued-over-alleged-distribution-of-csam/)
 - [Sunrise on the moon! Private Blue Ghost lander captures amazing shot after historic lunar touchdown &lpar;photo&rpar;](https://www.space.com/the-universe/moon/sunrise-on-the-moon-private-blue-ghost-lander-captures-amazing-shot-after-historic-lunar-touchdown-photo)
 - [TechCrunch Sessions: AI speaker applications close March 7](https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/)
 - [MWC hears two starkly divided views of AI’s impact](https://techcrunch.com/2025/03/03/mwc-hears-two-starkly-divided-views-of-ais-impact/)
-- [Going to SXSW 2025? Here are the festival&#39;s best space-themed panels](https://www.space.com/space-exploration/going-to-sxsw-2025-here-are-the-festivals-best-space-themed-panels)
-- [The author of SB 1047 introduces a new AI bill in California](https://techcrunch.com/2025/03/03/the-author-of-sb-1047-introduces-a-new-ai-bill-in-california/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
