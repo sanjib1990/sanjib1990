@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s new Ariane 6 heavy-lift rocket launching for 2nd time ever today: Watch live](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-second-launch-cso-3-french-spy-satellite)
+- [Uber is piloting accounts for teenagers in India](https://techcrunch.com/2025/03/03/uber-is-piloting-accounts-for-teenagers-in-india/)
+- [Google’s Gemini now lets you ask questions using videos and what’s on your screen](https://techcrunch.com/2025/03/03/googles-gemini-now-lets-you-ask-questions-using-videos-or-whats-on-your-screen/)
 - [Signal is the number-one downloaded app in the Netherlands. But why?](https://techcrunch.com/2025/03/02/signal-is-the-number-one-downloaded-app-in-the-netherlands-but-why/)
 - [Apple might not release a truly ‘modernized’ Siri until 2027](https://techcrunch.com/2025/03/02/apple-might-not-release-a-truly-modernized-siri-until-2027/)
-- [Flora is building an AI-powered ‘infinite canvas’ for creative professionals](https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/)
-- [&#39;America First&#39; on the moon? US must &#39;dominate&#39; in space, acting NASA chief says during lunar landing](https://www.space.com/space-exploration/america-first-on-the-moon-us-must-dominate-in-space-acting-nasa-chief-says-during-lunar-landing)
-- [Trump calls for creation of a ‘crypto strategic reserve’](https://techcrunch.com/2025/03/02/trump-calls-for-creation-of-crypto-strategic-reserve/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
