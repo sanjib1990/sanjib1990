@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego partners with moon rover firm Lunar Outpost for &#39;future product and surprises&#39;](https://www.space.com/entertainment/space-games-toys/lego-partners-with-moon-rover-firm-lunar-outpost-for-future-product-and-surprises)
+- [Get 73% off Starz streaming service for three months](https://www.space.com/entertainment/73-percent-off-starz-for-3-months-streaming-deal)
+- [Private Athena moon lander enters lunar orbit ahead of March 6 touchdown try](https://www.space.com/the-universe/moon/private-athena-moon-lander-enters-lunar-orbit-ahead-of-march-6-touchdown-try)
+- [Podcasting platform Podcastle launches a text-to-speech model with more than 450 AI voices](https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/)
 - [Rogue exoplanet or failed star? James Webb Space Telescope looks into a new cosmic case](https://www.space.com/the-universe/rogue-exoplanet-or-failed-star-james-webb-space-telescope-looks-into-a-new-cosmic-case)
-- [Google upgrades Colab with an AI agent tool](https://techcrunch.com/2025/03/03/google-upgrades-colab-with-an-ai-agent-tool/)
-- [Reddit co-founder Alexis Ohanian joins Frank McCourt’s TikTok bid](https://techcrunch.com/2025/03/03/reddit-co-founder-alexis-ohanian-joins-frank-mccourts-tiktok-bid/)
-- [No part of Amazon is ‘unaffected’ by AI, says its head of AGI](https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/)
-- [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
