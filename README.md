@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As Skype shuts down, its legacy is end-to-end encryption for the masses](https://techcrunch.com/2025/03/03/as-skype-shuts-down-its-legacy-is-end-to-end-encryption-for-the-masses/)
+- [HackerPulse wants to help enterprises spot engineering bottlenecks](https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/)
+- [Pearl Young, the first woman to work in a technical role at NASA, overcame barriers and ‘raised hell’ − her legacy continues today](https://www.space.com/space-exploration/pearl-young-the-first-woman-to-work-in-a-technical-role-at-nasa-overcame-barriers-and-raised-hell-her-legacy-continues-today)
+- [Jolla founders take the wraps off an AI assistant to power up their push for privacy-friendly GenAI](https://techcrunch.com/2025/03/03/jolla-founders-take-the-wraps-off-an-ai-assistant-to-power-up-their-push-for-privacy-friendly-genai/)
 - [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/)
-- [Opera unveils an AI agent that runs natively within the browser](https://techcrunch.com/2025/03/03/opera-announces-a-new-agentic-feature-for-its-browser/)
-- [Watch SpaceX launch is Starship Flight 8 megarocket test flight today](https://www.space.com/space-exploration/private-spaceflight/spacex-launching-flight-8-of-starship-megarocket-today-watch-it-live)
-- [Europe&#39;s new Ariane 6 heavy-lift rocket launching for 2nd time ever today: Watch live](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-second-launch-cso-3-french-spy-satellite)
-- [Uber is piloting accounts for teenagers in India](https://techcrunch.com/2025/03/03/uber-is-piloting-accounts-for-teenagers-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
