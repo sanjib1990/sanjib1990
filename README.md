@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Going to SXSW 2025? Here are the festival&#39;s best space-themed panels](https://www.space.com/space-exploration/going-to-sxsw-2025-here-are-the-festivals-best-space-themed-panels)
+- [The author of SB 1047 introduces a new AI bill in California](https://techcrunch.com/2025/03/03/the-author-of-sb-1047-introduces-a-new-ai-bill-in-california/)
+- [Google Play update makes it easier to find Android apps with widgets](https://techcrunch.com/2025/03/03/google-play-update-makes-it-easier-to-find-android-apps-with-widgets/)
+- [Ramp has more than doubled its annualized revenue to $700 million](https://techcrunch.com/2025/03/03/ramp-has-more-than-doubled-its-annualized-revenue-to-700-million/)
 - [TechCrunch Sessions: AI speaker applications close March 7](https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/)
-- [Sparkling galaxy blazes with star formation in new James Webb Space Telescope image](https://www.space.com/space-exploration/james-webb-space-telescope/sparkling-galaxy-blazes-with-star-formation-in-new-james-webb-space-telescope-image)
-- [TSMC pledges to spend $100B on US chip facilities](https://techcrunch.com/2025/03/03/tsmc-pledges-to-spend-100b-on-us-chip-facilities/)
-- [Google releases SpeciesNet, an AI model designed to identify wildlife](https://techcrunch.com/2025/03/03/google-releases-speciesnet-an-ai-model-designed-to-identify-wildlife/)
-- [Lee Enterprises ransomware attack hits freelance and contractor payments](https://techcrunch.com/2025/03/03/lee-enterprises-ransomware-attack-hits-freelance-and-contractor-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
