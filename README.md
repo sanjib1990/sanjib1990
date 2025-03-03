@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese buyers are getting Nvidia Blackwell chips despite U.S. export controls](https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/)
+- [Conan O’Brien comments on AI during his opening monologue at the Oscars](https://techcrunch.com/2025/03/03/conan-obrien-comments-on-ai-during-his-opening-monologue-at-the-oscars/)
+- [T-Mobile and Perplexity announce new ‘AI phone’ priced at under $1K](https://techcrunch.com/2025/03/03/t-mobile-and-perplexity-announce-new-ai-phone-priced-at-under-1k/)
+- [Stability AI optimized its audio generation model to run on Arm chips](https://techcrunch.com/2025/03/03/stability-ai-optimized-its-audio-generation-model-to-run-on-arm-chips/)
 - [As Skype shuts down, its legacy is end-to-end encryption for the masses](https://techcrunch.com/2025/03/03/as-skype-shuts-down-its-legacy-is-end-to-end-encryption-for-the-masses/)
-- [HackerPulse wants to help enterprises spot engineering bottlenecks](https://techcrunch.com/2025/03/03/hackerpulse-built-a-platform-to-give-enterprises-visibility-into-their-engineering-teams/)
-- [Pearl Young, the first woman to work in a technical role at NASA, overcame barriers and ‘raised hell’ − her legacy continues today](https://www.space.com/space-exploration/pearl-young-the-first-woman-to-work-in-a-technical-role-at-nasa-overcame-barriers-and-raised-hell-her-legacy-continues-today)
-- [Jolla founders take the wraps off an AI assistant to power up their push for privacy-friendly GenAI](https://techcrunch.com/2025/03/03/jolla-founders-take-the-wraps-off-an-ai-assistant-to-power-up-their-push-for-privacy-friendly-genai/)
-- [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
