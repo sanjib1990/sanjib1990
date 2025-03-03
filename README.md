@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sunrise on the moon! Private Blue Ghost lander captures amazing shot after historic lunar touchdown &lpar;photo&rpar;](https://www.space.com/the-universe/moon/sunrise-on-the-moon-private-blue-ghost-lander-captures-amazing-shot-after-historic-lunar-touchdown-photo)
+- [TechCrunch Sessions: AI speaker applications close March 7](https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/)
+- [MWC hears two starkly divided views of AI’s impact](https://techcrunch.com/2025/03/03/mwc-hears-two-starkly-divided-views-of-ais-impact/)
 - [Going to SXSW 2025? Here are the festival&#39;s best space-themed panels](https://www.space.com/space-exploration/going-to-sxsw-2025-here-are-the-festivals-best-space-themed-panels)
 - [The author of SB 1047 introduces a new AI bill in California](https://techcrunch.com/2025/03/03/the-author-of-sb-1047-introduces-a-new-ai-bill-in-california/)
-- [Google Play update makes it easier to find Android apps with widgets](https://techcrunch.com/2025/03/03/google-play-update-makes-it-easier-to-find-android-apps-with-widgets/)
-- [Ramp has more than doubled its annualized revenue to $700 million](https://techcrunch.com/2025/03/03/ramp-has-more-than-doubled-its-annualized-revenue-to-700-million/)
-- [TechCrunch Sessions: AI speaker applications close March 7](https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
