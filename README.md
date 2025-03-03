@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudsmith raises $23M to improve software supply chain security](https://techcrunch.com/2025/03/03/cloudsmith-raises-23m-to-solve-software-supply-chain-security/)
+- [Opera unveils an AI agent that runs natively within the browser](https://techcrunch.com/2025/03/03/opera-announces-a-new-agentic-feature-for-its-browser/)
+- [Watch SpaceX launch is Starship Flight 8 megarocket test flight today](https://www.space.com/space-exploration/private-spaceflight/spacex-launching-flight-8-of-starship-megarocket-today-watch-it-live)
 - [Europe&#39;s new Ariane 6 heavy-lift rocket launching for 2nd time ever today: Watch live](https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-second-launch-cso-3-french-spy-satellite)
 - [Uber is piloting accounts for teenagers in India](https://techcrunch.com/2025/03/03/uber-is-piloting-accounts-for-teenagers-in-india/)
-- [Google’s Gemini now lets you ask questions using videos and what’s on your screen](https://techcrunch.com/2025/03/03/googles-gemini-now-lets-you-ask-questions-using-videos-or-whats-on-your-screen/)
-- [Signal is the number-one downloaded app in the Netherlands. But why?](https://techcrunch.com/2025/03/02/signal-is-the-number-one-downloaded-app-in-the-netherlands-but-why/)
-- [Apple might not release a truly ‘modernized’ Siri until 2027](https://techcrunch.com/2025/03/02/apple-might-not-release-a-truly-modernized-siri-until-2027/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
