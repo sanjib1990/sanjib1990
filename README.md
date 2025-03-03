@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rogue exoplanet or failed star? James Webb Space Telescope looks into a new cosmic case](https://www.space.com/the-universe/rogue-exoplanet-or-failed-star-james-webb-space-telescope-looks-into-a-new-cosmic-case)
+- [Google upgrades Colab with an AI agent tool](https://techcrunch.com/2025/03/03/google-upgrades-colab-with-an-ai-agent-tool/)
+- [Reddit co-founder Alexis Ohanian joins Frank McCourt’s TikTok bid](https://techcrunch.com/2025/03/03/reddit-co-founder-alexis-ohanian-joins-frank-mccourts-tiktok-bid/)
+- [No part of Amazon is ‘unaffected’ by AI, says its head of AGI](https://techcrunch.com/2025/03/03/no-part-of-amazon-is-unaffected-by-ai-says-its-head-of-agi/)
 - [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/)
-- [Anthropic raises $3.5B to fuel its AI ambitions](https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/)
-- [Cadrim star projector review](https://www.space.com/stargazing/astronomy-kit/cadrim-star-projector-review)
-- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/03/03/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
-- [US said to halt offensive cyber operations against Russia](https://techcrunch.com/2025/03/03/us-said-to-halt-offensive-cyber-operations-against-russia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
