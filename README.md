@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lego partners with moon rover firm Lunar Outpost for &#39;future product and surprises&#39;](https://www.space.com/entertainment/space-games-toys/lego-partners-with-moon-rover-firm-lunar-outpost-for-future-product-and-surprises)
-- [Get 73% off Starz streaming service for three months](https://www.space.com/entertainment/73-percent-off-starz-for-3-months-streaming-deal)
-- [Private Athena moon lander enters lunar orbit ahead of March 6 touchdown try](https://www.space.com/the-universe/moon/private-athena-moon-lander-enters-lunar-orbit-ahead-of-march-6-touchdown-try)
-- [Podcasting platform Podcastle launches a text-to-speech model with more than 450 AI voices](https://techcrunch.com/2025/03/03/podcasting-platform-podcastle-launches-a-text-to-speech-model-with-more-than-450-ai-voices/)
-- [Rogue exoplanet or failed star? James Webb Space Telescope looks into a new cosmic case](https://www.space.com/the-universe/rogue-exoplanet-or-failed-star-james-webb-space-telescope-looks-into-a-new-cosmic-case)
+- [TechCrunch Sessions: AI speaker applications close March 7](https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/)
+- [Sparkling galaxy blazes with star formation in new James Webb Space Telescope image](https://www.space.com/space-exploration/james-webb-space-telescope/sparkling-galaxy-blazes-with-star-formation-in-new-james-webb-space-telescope-image)
+- [TSMC pledges to spend $100B on US chip facilities](https://techcrunch.com/2025/03/03/tsmc-pledges-to-spend-100b-on-us-chip-facilities/)
+- [Google releases SpeciesNet, an AI model designed to identify wildlife](https://techcrunch.com/2025/03/03/google-releases-speciesnet-an-ai-model-designed-to-identify-wildlife/)
+- [Lee Enterprises ransomware attack hits freelance and contractor payments](https://techcrunch.com/2025/03/03/lee-enterprises-ransomware-attack-hits-freelance-and-contractor-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
