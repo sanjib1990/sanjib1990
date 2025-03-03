@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US said to halt offensive cyber operations against Russia](https://techcrunch.com/2025/03/03/us-said-to-halt-offensive-cyber-operations-against-russia/)
+- [Mozilla rewrites Firefox’s Terms of Use after user backlash](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/)
+- [SpaceX launches 21 Starlink satellites to orbit, loses Falcon 9 booster after landing &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-21-starlink-satellites-in-overnight-falcon-9-launch-loses-booster-after-landing-video)
+- [UK probes how TikTok, Reddit, and Imgur protect child privacy](https://techcrunch.com/2025/03/03/uk-probes-how-tiktok-reddit-and-imgur-protect-child-privacy/)
 - [Chinese buyers are getting Nvidia Blackwell chips despite U.S. export controls](https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/)
-- [Conan O’Brien comments on AI during his opening monologue at the Oscars](https://techcrunch.com/2025/03/03/conan-obrien-comments-on-ai-during-his-opening-monologue-at-the-oscars/)
-- [T-Mobile and Perplexity announce new ‘AI phone’ priced at under $1K](https://techcrunch.com/2025/03/03/t-mobile-and-perplexity-announce-new-ai-phone-priced-at-under-1k/)
-- [Stability AI optimized its audio generation model to run on Arm chips](https://techcrunch.com/2025/03/03/stability-ai-optimized-its-audio-generation-model-to-run-on-arm-chips/)
-- [As Skype shuts down, its legacy is end-to-end encryption for the masses](https://techcrunch.com/2025/03/03/as-skype-shuts-down-its-legacy-is-end-to-end-encryption-for-the-masses/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
