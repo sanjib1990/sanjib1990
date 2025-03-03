@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fintech startup Ramp nearly doubles valuation to $13B in secondary share sale](https://techcrunch.com/2025/03/03/fintech-startup-ramp-nearly-doubles-valuation-to-13b-in-secondary-share-sale/)
+- [Anthropic raises $3.5B to fuel its AI ambitions](https://techcrunch.com/2025/03/03/anthropic-raises-3-5b-to-fuel-its-ai-ambitions/)
+- [Cadrim star projector review](https://www.space.com/stargazing/astronomy-kit/cadrim-star-projector-review)
+- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/03/03/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
 - [US said to halt offensive cyber operations against Russia](https://techcrunch.com/2025/03/03/us-said-to-halt-offensive-cyber-operations-against-russia/)
-- [Mozilla rewrites Firefox’s Terms of Use after user backlash](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/)
-- [SpaceX launches 21 Starlink satellites to orbit, loses Falcon 9 booster after landing &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-21-starlink-satellites-in-overnight-falcon-9-launch-loses-booster-after-landing-video)
-- [UK probes how TikTok, Reddit, and Imgur protect child privacy](https://techcrunch.com/2025/03/03/uk-probes-how-tiktok-reddit-and-imgur-protect-child-privacy/)
-- [Chinese buyers are getting Nvidia Blackwell chips despite U.S. export controls](https://techcrunch.com/2025/03/03/chinese-buyers-are-getting-nvidia-blackwell-chips-despite-u-s-export-controls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
