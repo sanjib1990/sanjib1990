@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX calls off Starship Flight 8 launch test due to rocket issues &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-calls-off-starship-flight-8-launch-test-due-to-rocket-issues-video)
+- [People are using Super Mario to benchmark AI now](https://techcrunch.com/2025/03/03/people-are-using-super-mario-to-benchmark-ai-now/)
+- [General Catalyst loses three top investors as the firm expands beyond venture, contemplates IPO](https://techcrunch.com/2025/03/03/general-catalyst-loses-three-top-investors-as-the-firm-expands-beyond-venture-contemplates-ipo/)
+- [You can now talk to Google Gemini from your iPhone’s lock screen](https://techcrunch.com/2025/03/03/you-can-now-talk-to-google-gemini-from-your-iphones-lock-screen/)
 - [Singapore arrests alleged Nvidia chip smugglers](https://techcrunch.com/2025/03/03/singapore-arrests-alleged-nvidia-chip-smugglers/)
-- [Creator monetization platform Passes sued over alleged distribution of CSAM](https://techcrunch.com/2025/03/03/creator-monetization-platform-passes-sued-over-alleged-distribution-of-csam/)
-- [Sunrise on the moon! Private Blue Ghost lander captures amazing shot after historic lunar touchdown &lpar;photo&rpar;](https://www.space.com/the-universe/moon/sunrise-on-the-moon-private-blue-ghost-lander-captures-amazing-shot-after-historic-lunar-touchdown-photo)
-- [TechCrunch Sessions: AI speaker applications close March 7](https://techcrunch.com/2025/03/03/techcrunch-sessions-ai-speaker-applications-close-march-7/)
-- [MWC hears two starkly divided views of AI’s impact](https://techcrunch.com/2025/03/03/mwc-hears-two-starkly-divided-views-of-ais-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
