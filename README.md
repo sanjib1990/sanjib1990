@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [See Earth as a Blue Marble in this stunning photo by Japan&#39;s private Resiliance moon lander](https://www.space.com/the-universe/moon/see-earth-as-a-blue-marble-in-this-stunning-photo-by-japans-private-resiliance-moon-lander)
-- [Google’s March Pixel Drop has AI-powered scam detection and live location sharing with friends](https://techcrunch.com/2025/03/04/googles-march-pixel-drop-has-ai-powered-scam-detection-and-live-location-sharing-with-friends/)
+- [OpenAI chairman Bret Taylor lays out the bull case for AI agents](https://techcrunch.com/2025/03/04/openai-chairman-bret-taylor-lays-out-the-bull-case-for-ai-agents/)
+- [See Earth as a Blue Marble in this stunning photo by Japan&#39;s private Resilience moon lander](https://www.space.com/the-universe/moon/see-earth-as-a-blue-marble-in-this-stunning-photo-by-japans-private-resiliance-moon-lander)
+- [Google’s March Pixel Drop adds AI-powered scam detection and live location sharing with friends](https://techcrunch.com/2025/03/04/googles-march-pixel-drop-has-ai-powered-scam-detection-and-live-location-sharing-with-friends/)
 - [Dark Skys Skyview Pocket Planetarium review](https://www.space.com/stargazing/astronomy-kit/dark-skys-skyview-pocket-planetarium-review)
 - [Automattic CEO Matt Mullenweg talks succession — ‘I don’t want to pass it to a committee’](https://techcrunch.com/2025/03/04/automattic-ceo-matt-mullenweg-talks-succession-i-dont-want-to-pass-it-to-a-committee/)
-- [Cohere claims its new Aya Vision AI model is best-in-class](https://techcrunch.com/2025/03/04/cohere-claims-its-new-aya-vision-ai-model-is-best-in-class/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
