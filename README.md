@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora alert: Incoming solar storm could spark northern lights as far south as New York tonight](https://www.space.com/aurora-alert-northern-lights-new-york-tonight-geomagnetic-storm-march-2025)
+- [SpaceX, NASA to launch 1st mission to study aurora &#39;electrojets&#39; in Earth&#39;s atmosphere](https://www.space.com/stargazing/aurora-borealis/spacex-nasa-to-launch-1st-mission-to-study-aurora-electrojets-in-earths-atmosphere)
 - [Cino cracks bill-splitting at the moment of payment, raises seed round](https://techcrunch.com/2025/03/04/cino-has-cracked-bill-splitting-at-the-moment-of-payment-raises-seed/)
 - [Dutch startup QuantWare seeks to fast-track quantum computing](https://techcrunch.com/2025/03/03/dutch-startup-quantware-seeks-to-fast-track-quantum-computing/)
 - [Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage](https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/)
-- [Trump Administration cuts may threaten AI research efforts](https://techcrunch.com/2025/03/03/trump-administration-cuts-may-threaten-ai-research-efforts/)
-- [NASA delays launch of SPHEREx and PUNCH missions to March 6](https://www.space.com/space-exploration/missions/nasa-delays-launch-of-spherex-and-punch-missions-to-march-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
