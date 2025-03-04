@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump Administration cuts may threaten AI research efforts](https://techcrunch.com/2025/03/03/trump-administration-cuts-may-threaten-ai-research-efforts/)
+- [NASA delays launch of SPHEREx and PUNCH missions to March 6](https://www.space.com/space-exploration/missions/nasa-delays-launch-of-spherex-and-punch-missions-to-march-6)
 - [SpaceX calls off Starship Flight 8 launch test due to rocket issues &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-calls-off-starship-flight-8-launch-test-due-to-rocket-issues-video)
 - [People are using Super Mario to benchmark AI now](https://techcrunch.com/2025/03/03/people-are-using-super-mario-to-benchmark-ai-now/)
 - [General Catalyst loses three top investors as the firm expands beyond venture, contemplates IPO](https://techcrunch.com/2025/03/03/general-catalyst-loses-three-top-investors-as-the-firm-expands-beyond-venture-contemplates-ipo/)
-- [You can now talk to Google Gemini from your iPhone’s lock screen](https://techcrunch.com/2025/03/03/you-can-now-talk-to-google-gemini-from-your-iphones-lock-screen/)
-- [Singapore arrests alleged Nvidia chip smugglers](https://techcrunch.com/2025/03/03/singapore-arrests-alleged-nvidia-chip-smugglers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
