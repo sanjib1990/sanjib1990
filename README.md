@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Swap banks $40M to build tools for merchants to deal with tariffs and other cross-border trading nightmares](https://techcrunch.com/2025/03/04/swap-banks-40m-to-build-tools-for-merchants-to-deal-with-tariffs-and-other-cross-border-trading-nightmares/)
-- [Scrunch AI is helping companies stand out in AI search](https://techcrunch.com/2025/03/04/scrunch-ai-is-helping-companies-stand-out-in-ai-search/)
-- [India&#39;s Aditya-L1 solar probe watches powerful flare erupt from the sun](https://www.space.com/the-universe/sun/indias-aditya-l1-solar-probe-watches-powerful-flare-erupt-from-the-sun)
-- [LlamaIndex launches a cloud service for building unstructed data agents](https://techcrunch.com/2025/03/04/llamaindex-launches-a-cloud-service-for-building-unstructed-data-agents/)
-- [Hotel management platform Mews books $75M round led by Tiger Global](https://techcrunch.com/2025/03/04/hotel-management-platform-mews-books-75m-round-led-by-tiger-global/)
+- [On a quest to revive the woolly mammoth, Colossal Biosciences has created a woolly mouse](https://techcrunch.com/2025/03/04/on-a-quest-to-revive-the-woolly-mammoth-colossal-biosciences-has-created-a-woolly-mouse/)
+- [OpenAI launches $50M grant program to help fund academic research](https://techcrunch.com/2025/03/04/openai-launches-50m-grant-program-to-help-fund-academic-research/)
+- [Funding to women-founded startups declined 12% in 2024, but that wasn’t far behind the broader market](https://techcrunch.com/2025/03/04/funding-to-women-founded-startups-declined-12-in-2024-but-that-wasnt-far-behind-the-broader-market/)
+- [Polish space agency says it’s investigating a cyberattack](https://techcrunch.com/2025/03/04/polish-space-agency-says-its-investigating-a-cyberattack/)
+- [Apple launches a new iPad Air with M3 chip](https://techcrunch.com/2025/03/04/apple-launches-a-new-ipad-air-with-m3-chip/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
