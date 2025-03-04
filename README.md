@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hotel management platform Mews books $75M round led by Tiger Global](https://techcrunch.com/2025/03/04/hotel-management-platform-mews-books-75m-round-led-by-tiger-global/)
+- [Uber users in Austin are getting matched with Waymo robotaxis](https://techcrunch.com/2025/03/04/uber-users-in-austin-are-getting-matched-with-waymo-robotaxis/)
+- [Mistral urges telcos to get into the hyperscaler game](https://techcrunch.com/2025/03/04/mistral-urges-telcos-to-get-into-the-hyperscaler-game/)
 - [Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory](https://techcrunch.com/2025/03/04/mach-industries-founded-by-21-year-old-ethan-thornton-lands-us-army-contract-builds-weapons-factory/)
 - [Geysers on Saturn&#39;s moon Enceladus may not come from its underground ocean](https://www.space.com/the-universe/saturn/geysers-on-saturns-moon-enceladus-may-not-come-from-its-underground-ocean)
-- [Aurora alert: Incoming solar storm could spark northern lights as far south as New York tonight](https://www.space.com/aurora-alert-northern-lights-new-york-tonight-geomagnetic-storm-march-2025)
-- [SpaceX, NASA to launch 1st mission to study aurora &#39;electrojets&#39; in Earth&#39;s atmosphere](https://www.space.com/stargazing/aurora-borealis/spacex-nasa-to-launch-1st-mission-to-study-aurora-electrojets-in-earths-atmosphere)
-- [Cino cracks bill-splitting at the moment of payment, raises seed round](https://techcrunch.com/2025/03/04/cino-has-cracked-bill-splitting-at-the-moment-of-payment-raises-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
