@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dutch startup QuantWare seeks to fast-track quantum computing](https://techcrunch.com/2025/03/03/dutch-startup-quantware-seeks-to-fast-track-quantum-computing/)
 - [Moonwatt secures $8.3M to dial up solar’s staying power with sodium-ion storage](https://techcrunch.com/2025/03/03/moonwatt-secures-8-3m-to-dial-up-solars-staying-power-with-sodium-ion-storage/)
 - [Trump Administration cuts may threaten AI research efforts](https://techcrunch.com/2025/03/03/trump-administration-cuts-may-threaten-ai-research-efforts/)
 - [NASA delays launch of SPHEREx and PUNCH missions to March 6](https://www.space.com/space-exploration/missions/nasa-delays-launch-of-spherex-and-punch-missions-to-march-6)
 - [SpaceX calls off Starship Flight 8 launch test due to rocket issues &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-calls-off-starship-flight-8-launch-test-due-to-rocket-issues-video)
-- [People are using Super Mario to benchmark AI now](https://techcrunch.com/2025/03/03/people-are-using-super-mario-to-benchmark-ai-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
