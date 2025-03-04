@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Andy Dunn’s new app Pie uses AI to help you make friends](https://techcrunch.com/2025/03/04/andy-dunns-new-app-pie-uses-ai-to-help-you-make-friends/)
+- [&#39;From my standpoint, politics is not playing into this at all.&#39; &#39;Stuck&#39; NASA astronauts on ISS grilled on Earthly politics as long 9-month mission nears end](https://www.space.com/space-exploration/human-spaceflight/from-my-standpoint-politics-is-not-playing-into-this-at-all-stuck-nasa-astronauts-on-iss-grilled-on-earthly-politics-as-long-9-month-mission-nears-end)
+- [Foundation Capital, an early backer of Solana and Cerebras, raises $600M fund](https://techcrunch.com/2025/03/04/foundation-capital-an-early-backer-of-solana-and-cerebras-raises-600m-fund/)
 - [Klarna CEO doubts that other companies will replace Salesforce with AI](https://techcrunch.com/2025/03/04/klarna-ceo-doubts-that-other-companies-will-replace-salesforce-with-ai/)
 - [Amazon is reportedly developing its own AI ‘reasoning’ model](https://techcrunch.com/2025/03/04/amazon-is-reportedly-developing-its-own-ai-reasoning-model/)
-- [Google still limits how Gemini answers political questions](https://techcrunch.com/2025/03/04/google-still-limits-how-gemini-answers-political-questions/)
-- [Hackers launder most of Bybit’s stolen crypto worth $1.4B](https://techcrunch.com/2025/03/04/hackers-launder-most-of-bybits-stolen-crypto-worth-1-4-billion/)
-- [OpenAI chairman Bret Taylor lays out the bull case for AI agents](https://techcrunch.com/2025/03/04/openai-chairman-bret-taylor-lays-out-the-bull-case-for-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
