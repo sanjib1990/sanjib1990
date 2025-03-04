@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swap banks $40M to build tools for merchants to deal with tariffs and other cross-border trading nightmares](https://techcrunch.com/2025/03/04/swap-banks-40m-to-build-tools-for-merchants-to-deal-with-tariffs-and-other-cross-border-trading-nightmares/)
+- [Scrunch AI is helping companies stand out in AI search](https://techcrunch.com/2025/03/04/scrunch-ai-is-helping-companies-stand-out-in-ai-search/)
+- [India&#39;s Aditya-L1 solar probe watches powerful flare erupt from the sun](https://www.space.com/the-universe/sun/indias-aditya-l1-solar-probe-watches-powerful-flare-erupt-from-the-sun)
 - [LlamaIndex launches a cloud service for building unstructed data agents](https://techcrunch.com/2025/03/04/llamaindex-launches-a-cloud-service-for-building-unstructed-data-agents/)
 - [Hotel management platform Mews books $75M round led by Tiger Global](https://techcrunch.com/2025/03/04/hotel-management-platform-mews-books-75m-round-led-by-tiger-global/)
-- [Uber users in Austin are getting matched with Waymo robotaxis](https://techcrunch.com/2025/03/04/uber-users-in-austin-are-getting-matched-with-waymo-robotaxis/)
-- [Mistral urges telcos to get into the hyperscaler game](https://techcrunch.com/2025/03/04/mistral-urges-telcos-to-get-into-the-hyperscaler-game/)
-- [Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory](https://techcrunch.com/2025/03/04/mach-industries-founded-by-21-year-old-ethan-thornton-lands-us-army-contract-builds-weapons-factory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
