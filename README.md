@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump gives Big 3 automakers one month tariff reprieve to move operations to US](https://techcrunch.com/2025/03/05/trump-gives-big-3-automakers-one-month-reprieve-for-canada-mexico-tariffs/)
+- [Hubble Telescope discovers a new &#39;3-body problem&#39; puzzle among Kuiper Belt asteroids &lpar;video&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-discovers-a-new-3-body-problem-puzzle-among-kuiper-belt-asteroids-video)
+- [Eric Schmidt argues against a ‘Manhattan Project for AGI’](https://techcrunch.com/2025/03/05/eric-schmidt-argues-against-a-manhattan-project-for-agi/)
 - [The US will &#39;plant the American flag on the planet Mars and even far beyond,&#39; Trump tells Congress](https://www.space.com/space-exploration/us-will-plant-american-flag-on-mars-trump-tells-congress)
-- [Trump gives Big 3 automakers one month reprieve for Canada, Mexico tariffs](https://techcrunch.com/2025/03/05/trump-gives-big-3-automakers-one-month-reprieve-for-canada-mexico-tariffs/)
 - [Private Athena moon lander beams home amazing video of south pole touchdown site](https://www.space.com/the-universe/moon/private-athena-moon-lander-beams-home-amazing-video-of-south-pole-touchdown-site)
-- [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/03/05/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
-- [Volkswagen’s cheapest EV ever is the first to use Rivian software](https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
