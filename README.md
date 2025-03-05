@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aspiration co-founder and board member defrauded investors of $145M, prosecutors say](https://techcrunch.com/2025/03/04/aspiration-co-founder-and-board-member-defrauded-investors-of-145m-prosecutors-say/)
 - [Touch down on the moon with private Blue Ghost lander in this amazing video](https://www.space.com/the-universe/moon/touch-down-on-the-moon-with-private-blue-ghost-lander-in-this-amazing-video)
 - [Amazon reportedly forms a new agentic AI group](https://techcrunch.com/2025/03/04/amazon-reportedly-forms-a-new-agentic-ai-group/)
 - [X updates Communities with new filters, sorting options, and a way to see your own posts](https://techcrunch.com/2025/03/04/x-updates-communities-with-new-filters-sorting-options-and-a-way-to-see-your-own-posts/)
 - [African VC LoftyInc Capital launches third fund for seed and Series A, reaches $43M first close](https://techcrunch.com/2025/03/04/loftyinc-capital-launches-third-fund-for-seed-and-series-a/)
-- [Andy Dunn’s new app Pie uses AI to help you make friends](https://techcrunch.com/2025/03/04/andy-dunns-new-app-pie-uses-ai-to-help-you-make-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
