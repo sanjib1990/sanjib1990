@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste](https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/)
+- [CoreWeave acquires AI developer platform Weights &amp; Biases](https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/)
 - [CoreWeave partner EcoDataCenter racks up half a billion dollars to build more sustainable buildings for AI](https://techcrunch.com/2025/03/04/coreweave-partner-ecodatacenter-racks-up-half-a-billion-dollars-to-build-more-sustainable-buildings-for-ai/)
-- [Meta brings its anti-fraud facial recognition test to the UK after getting a thumbs up from regulators](https://techcrunch.com/2025/03/04/meta-brings-its-anti-fraud-facial-recognition-test-to-the-uk-after-getting-a-thumbs-up-from-regulators/)
+- [Meta brings its anti-fraud facial recognition test to the UK following regulator approval](https://techcrunch.com/2025/03/04/meta-brings-its-anti-fraud-facial-recognition-test-to-the-uk-after-getting-a-thumbs-up-from-regulators/)
 - [Defense tech startup Epirus raises $250M Series D to counter drone swarms](https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/)
-- [Quantexa nabs $175M at a $2.6B valuation to double down on data analytics for AI](https://techcrunch.com/2025/03/04/quantexa-nabs-175m-at-a-2-6b-valuation-to-double-down-on-data-analytics-for-ai/)
-- [Key ex-OpenAI researcher subpoenaed in AI copyright case](https://techcrunch.com/2025/03/04/key-ex-openai-researcher-subpoenaed-in-ai-copyright-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
