@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [U.K.’s competition authority says Microsoft’s OpenAI partnership doesn’t quality for investigation](https://techcrunch.com/2025/03/05/u-k-s-competition-authority-says-microsofts-openai-partnership-doesnt-quality-for-investigation/)
+- [Grain emerges from stealth with $50M to help any business hedge against FX volatility](https://techcrunch.com/2025/03/05/grain-emerges-from-stealth-with-50m-to-help-any-business-hedge-against-fx-volatility/)
+- [Kevin Rose, Alexis Ohanian acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/)
 - [ARM to sign $250M chip deal with Malaysia](https://techcrunch.com/2025/03/05/arm-to-sign-250m-chip-deal-with-malaysia/)
 - [&#39;We should be living on Mars by now!&#39; Red Planet and Voyager 1&#39;s Pale Blue Dot steal the spotlight in NYC rock show](https://www.space.com/entertainment/we-should-be-living-on-mars-by-now-red-planet-and-voyager-1s-pale-blue-dot-steal-the-spotlight-in-nyc-rock-show)
-- [&#39;Once-in-a-lifetime&#39; planetary parade photo captures 10 celestial bodies in a single shot](https://www.space.com/stargazing/astrophotography/once-in-a-lifetime-planetary-parade-photo-captures-10-celestial-bodies-in-a-single-shot)
-- [Apple is challenging U.K.’s iCloud encryption backdoor order](https://techcrunch.com/2025/03/05/apple-is-challenging-u-k-s-icloud-encryption-backdoor-order/)
-- [Darwinbox, the HR upstart from India, raises $140M to take on Deel and Rippling](https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
