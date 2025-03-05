@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [U.K.’s competition authority says Microsoft’s OpenAI partnership doesn’t quality for investigation](https://techcrunch.com/2025/03/05/u-k-s-competition-authority-says-microsofts-openai-partnership-doesnt-quality-for-investigation/)
-- [Grain emerges from stealth with $50M to help any business hedge against FX volatility](https://techcrunch.com/2025/03/05/grain-emerges-from-stealth-with-50m-to-help-any-business-hedge-against-fx-volatility/)
-- [Kevin Rose, Alexis Ohanian acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/)
-- [ARM to sign $250M chip deal with Malaysia](https://techcrunch.com/2025/03/05/arm-to-sign-250m-chip-deal-with-malaysia/)
-- [&#39;We should be living on Mars by now!&#39; Red Planet and Voyager 1&#39;s Pale Blue Dot steal the spotlight in NYC rock show](https://www.space.com/entertainment/we-should-be-living-on-mars-by-now-red-planet-and-voyager-1s-pale-blue-dot-steal-the-spotlight-in-nyc-rock-show)
+- [Apple launches new MacBook Air with M4 chip](https://techcrunch.com/2025/03/05/apple-launches-a-new-macbook-air-with-m4-chip/)
+- [GibberLink lets AI agents call each other in robo-language](https://techcrunch.com/2025/03/05/gibberlink-lets-ai-agents-call-each-other-in-robo-language/)
+- [CIA director says US has paused sharing intelligence with Ukraine](https://techcrunch.com/2025/03/05/cia-director-says-us-has-paused-sharing-intelligence-with-ukraine/)
+- [Experts don’t think AI is ready to be a ‘co-scientist’](https://techcrunch.com/2025/03/05/experts-dont-think-ai-is-ready-to-be-a-co-scientist/)
+- [UK’s competition regulator says Microsoft’s OpenAI partnership doesn’t qualify for investigation](https://techcrunch.com/2025/03/05/u-k-s-competition-authority-says-microsofts-openai-partnership-doesnt-quality-for-investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
