@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’](https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/)
+- [Not all cancer patients need chemo. Ataraxis AI raised $20M to fix that.](https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-fix-that/)
 - [Apple adds AI-powered app review summaries with iOS 18.4](https://techcrunch.com/2025/03/05/apple-adds-ai-powered-app-review-summaries-with-ios-18-4/)
 - [OpenAI’s GPT-4.5 AI model comes to more ChatGPT users](https://techcrunch.com/2025/03/05/openais-gpt-4-5-ai-model-comes-to-more-chatgpt-users/)
 - [Mystery solved! Odd X-ray signal was &#39;death knell&#39; of planet destroyed by zombie star &lpar;video&rpar;](https://www.space.com/the-universe/45-year-old-mystery-signal-was-death-knell-of-planet-destroyed-by-zombie-star-video)
-- [Former NSA official says federal worker cuts will have ‘devastating impact’ on cyber and national security](https://techcrunch.com/2025/03/05/former-nsa-official-says-federal-worker-cuts-will-have-devastating-impact-on-cyber-and-national-security/)
-- [Ryan Breslow is back as CEO of fintech Bolt, after years of controversy](https://techcrunch.com/2025/03/05/ryan-breslow-is-back-as-ceo-of-fintech-bolt-after-years-of-controversy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
