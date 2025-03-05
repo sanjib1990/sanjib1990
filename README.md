@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The US will &#39;plant the American flag on the planet Mars and even far beyond,&#39; Trump tells Congress](https://www.space.com/space-exploration/us-will-plant-american-flag-on-mars-trump-tells-congress)
+- [Trump gives Big 3 automakers one month reprieve for Canada, Mexico tariffs](https://techcrunch.com/2025/03/05/trump-gives-big-3-automakers-one-month-reprieve-for-canada-mexico-tariffs/)
 - [Private Athena moon lander beams home amazing video of south pole touchdown site](https://www.space.com/the-universe/moon/private-athena-moon-lander-beams-home-amazing-video-of-south-pole-touchdown-site)
 - [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/03/05/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
 - [Volkswagen’s cheapest EV ever is the first to use Rivian software](https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/)
-- [Revenue prediction startup Gong surpasses $300M ARR, indicating potential IPO path](https://techcrunch.com/2025/03/05/revenue-prediction-startup-gong-surpasses-300m-arr-indicating-potential-ipo-path/)
-- [Prime Video tests AI dubbing for select movies and TV series](https://techcrunch.com/2025/03/05/prime-video-tests-ai-dubbing-for-select-movies-and-tv-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
