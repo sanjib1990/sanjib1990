@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trump gives Big 3 automakers one month tariff reprieve to move operations to US](https://techcrunch.com/2025/03/05/trump-gives-big-3-automakers-one-month-reprieve-for-canada-mexico-tariffs/)
-- [Hubble Telescope discovers a new &#39;3-body problem&#39; puzzle among Kuiper Belt asteroids &lpar;video&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-discovers-a-new-3-body-problem-puzzle-among-kuiper-belt-asteroids-video)
+- [Tapbots teases a new Bluesky app, Phoenix, saying it can’t ‘survive on Mastodon alone’](https://techcrunch.com/2025/03/05/tapbots-teases-a-new-bluesky-app-phoenix-saying-it-cant-survive-on-mastodon-alone/)
+- [Canoo’s CEO is buying the bankrupt EV startup’s assets](https://techcrunch.com/2025/03/05/canoos-ceo-is-buying-the-bankrupt-ev-startups-assets/)
+- [Trump gives automakers one-month tariff reprieve to move operations from Canada, Mexico to US](https://techcrunch.com/2025/03/05/trump-gives-automakers-one-month-tariff-reprieve-to-move-operations-from-canada-mexico-to-us/)
 - [Eric Schmidt argues against a ‘Manhattan Project for AGI’](https://techcrunch.com/2025/03/05/eric-schmidt-argues-against-a-manhattan-project-for-agi/)
-- [The US will &#39;plant the American flag on the planet Mars and even far beyond,&#39; Trump tells Congress](https://www.space.com/space-exploration/us-will-plant-american-flag-on-mars-trump-tells-congress)
-- [Private Athena moon lander beams home amazing video of south pole touchdown site](https://www.space.com/the-universe/moon/private-athena-moon-lander-beams-home-amazing-video-of-south-pole-touchdown-site)
+- [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/03/05/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
