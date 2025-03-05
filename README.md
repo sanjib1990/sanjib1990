@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flex, a Brex for business owners, has raised $25M at a $250M valuation](https://techcrunch.com/2025/03/05/flex-a-brex-for-business-owners-has-raised-25m-at-a-250m-valuation/)
-- [Sci-fi shooter &#39;Jump Ship&#39; is nearly here, and it&#39;s a chaotic mix of &#39;Left 4 Dead&#39;, &#39;Sea of Thieves&#39;, &#39;FTL&#39; and Hawaiian pizza &lpar;video&rpar;](https://www.space.com/entertainment/sci-fi-shooter-jump-ship-is-nearly-here-and-its-a-chaotic-mix-of-left-4-dead-sea-of-thieves-ftl-and-hawaiian-pizza-video)
-- [Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups](https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/)
-- [EU must ‘fully’ apply its market fairness rulebook on Google, search rivals urge](https://techcrunch.com/2025/03/05/eu-must-fully-apply-its-market-fairness-rulebook-on-google-search-rivals-urge/)
-- [AI pioneers scoop Turing Award for reinforcement learning work](https://techcrunch.com/2025/03/05/ai-pioneers-scoop-turing-award-for-reinforcement-learning-work/)
+- [Google Search’s new ‘AI Mode’ lets users ask complex, multi-part questions](https://techcrunch.com/2025/03/05/google-searchs-new-ai-mode-lets-users-ask-complex-multi-part-questions/)
+- [Anna Patterson’s Ceramic.ai looks to help enterprises build AI models faster and more efficiently](https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai-looks-to-help-enterprises-build-models-faster-and-more-efficiently/)
+- [Hyundai pairs up with Yandex spinoff Avride to develop robotaxis](https://techcrunch.com/2025/03/05/hyundai-pairs-up-with-yandex-spinoff-avride-to-develop-robotaxis/)
+- [Justice Department charges Chinese hackers-for-hire linked to Treasury breach](https://techcrunch.com/2025/03/05/justice-department-charges-chinese-hackers-for-hire-linked-to-treasury-breach/)
+- [Anthropic quietly removes Biden-era AI policy commitments from its website](https://techcrunch.com/2025/03/05/anthropic-quietly-removes-biden-era-ai-policy-commitments-from-its-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
