@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;We should be living on Mars by now!&#39; Red Planet and Voyager 1&#39;s Pale Blue Dot steal the spotlight in NYC rock show](https://www.space.com/entertainment/we-should-be-living-on-mars-by-now-red-planet-and-voyager-1s-pale-blue-dot-steal-the-spotlight-in-nyc-rock-show)
 - [&#39;Once-in-a-lifetime&#39; planetary parade photo captures 10 celestial bodies in a single shot](https://www.space.com/stargazing/astrophotography/once-in-a-lifetime-planetary-parade-photo-captures-10-celestial-bodies-in-a-single-shot)
 - [Apple is challenging U.K.’s iCloud encryption backdoor order](https://techcrunch.com/2025/03/05/apple-is-challenging-u-k-s-icloud-encryption-backdoor-order/)
 - [Darwinbox, the HR upstart from India, raises $140M to take on Deel and Rippling](https://techcrunch.com/2025/03/05/darwinbox-the-hr-upstart-from-india-raises-140m-to-take-on-deel-and-rippling/)
 - [From high school science project to $18.3M: AI-accelerated enzymes are coming for fast fashion’s plastic waste](https://techcrunch.com/2025/03/05/from-high-school-science-project-to-18-3m-ai-accelerated-enzymes-are-coming-for-fast-fashions-plastic-waste/)
-- [CoreWeave acquires AI developer platform Weights &amp; Biases](https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
