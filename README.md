@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’](https://techcrunch.com/2025/03/05/openai-reportedly-plans-to-charge-up-to-20000-a-month-for-specialized-ai-agents/)
-- [Not all cancer patients need chemo. Ataraxis AI raised $20M to fix that.](https://techcrunch.com/2025/03/05/not-all-cancer-patients-need-chemo-ataraxis-ai-raised-20m-to-fix-that/)
-- [Apple adds AI-powered app review summaries with iOS 18.4](https://techcrunch.com/2025/03/05/apple-adds-ai-powered-app-review-summaries-with-ios-18-4/)
-- [OpenAI’s GPT-4.5 AI model comes to more ChatGPT users](https://techcrunch.com/2025/03/05/openais-gpt-4-5-ai-model-comes-to-more-chatgpt-users/)
-- [Mystery solved! Odd X-ray signal was &#39;death knell&#39; of planet destroyed by zombie star &lpar;video&rpar;](https://www.space.com/the-universe/45-year-old-mystery-signal-was-death-knell-of-planet-destroyed-by-zombie-star-video)
+- [Private Athena moon lander beams home amazing video of south pole touchdown site](https://www.space.com/the-universe/moon/private-athena-moon-lander-beams-home-amazing-video-of-south-pole-touchdown-site)
+- [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/03/05/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
+- [Volkswagen’s cheapest EV ever is the first to use Rivian software](https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/)
+- [Revenue prediction startup Gong surpasses $300M ARR, indicating potential IPO path](https://techcrunch.com/2025/03/05/revenue-prediction-startup-gong-surpasses-300m-arr-indicating-potential-ipo-path/)
+- [Prime Video tests AI dubbing for select movies and TV series](https://techcrunch.com/2025/03/05/prime-video-tests-ai-dubbing-for-select-movies-and-tv-series/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
