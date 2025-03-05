@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/)
-- [Broadcom urges VMware customers to patch ‘emergency’ zero-day bugs under active exploitation](https://techcrunch.com/2025/03/05/broadcom-urges-vmware-customers-to-patch-emergency-zero-day-bugs-under-active-exploitation/)
-- [The solar system is teeming with 1 million &#39;alien invaders&#39; from Alpha Centauri](https://www.space.com/the-universe/asteroids/solar-system-teeming-with-1-million-alien-invaders-from-alpha-centauri)
-- [Apple updates the Mac Studio with M4 Max and M3 Ultra options](https://techcrunch.com/2025/03/05/apple-updates-the-new-mac-studio-with-m4-max-or-m3-ultra/)
-- [Apple launches new MacBook Air with M4 chip](https://techcrunch.com/2025/03/05/apple-launches-a-new-macbook-air-with-m4-chip/)
+- [Flex, a Brex for business owners, has raised $25M at a $250M valuation](https://techcrunch.com/2025/03/05/flex-a-brex-for-business-owners-has-raised-25m-at-a-250m-valuation/)
+- [Sci-fi shooter &#39;Jump Ship&#39; is nearly here, and it&#39;s a chaotic mix of &#39;Left 4 Dead&#39;, &#39;Sea of Thieves&#39;, &#39;FTL&#39; and Hawaiian pizza &lpar;video&rpar;](https://www.space.com/entertainment/sci-fi-shooter-jump-ship-is-nearly-here-and-its-a-chaotic-mix-of-left-4-dead-sea-of-thieves-ftl-and-hawaiian-pizza-video)
+- [Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups](https://techcrunch.com/2025/03/05/growth-at-all-costs-is-destroying-the-internet-pr-maven-ed-zitron-says-thats-an-opportunity-for-startups/)
+- [EU must ‘fully’ apply its market fairness rulebook on Google, search rivals urge](https://techcrunch.com/2025/03/05/eu-must-fully-apply-its-market-fairness-rulebook-on-google-search-rivals-urge/)
+- [AI pioneers scoop Turing Award for reinforcement learning work](https://techcrunch.com/2025/03/05/ai-pioneers-scoop-turing-award-for-reinforcement-learning-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
