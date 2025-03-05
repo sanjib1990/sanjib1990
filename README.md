@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apply to speak at TechCrunch Sessions: AI before time runs out](https://techcrunch.com/2025/03/05/apply-to-speak-at-techcrunch-sessions-ai-before-time-runs-out/)
+- [Broadcom urges VMware customers to patch ‘emergency’ zero-day bugs under active exploitation](https://techcrunch.com/2025/03/05/broadcom-urges-vmware-customers-to-patch-emergency-zero-day-bugs-under-active-exploitation/)
+- [The solar system is teeming with 1 million &#39;alien invaders&#39; from Alpha Centauri](https://www.space.com/the-universe/asteroids/solar-system-teeming-with-1-million-alien-invaders-from-alpha-centauri)
+- [Apple updates the Mac Studio with M4 Max and M3 Ultra options](https://techcrunch.com/2025/03/05/apple-updates-the-new-mac-studio-with-m4-max-or-m3-ultra/)
 - [Apple launches new MacBook Air with M4 chip](https://techcrunch.com/2025/03/05/apple-launches-a-new-macbook-air-with-m4-chip/)
-- [GibberLink lets AI agents call each other in robo-language](https://techcrunch.com/2025/03/05/gibberlink-lets-ai-agents-call-each-other-in-robo-language/)
-- [CIA director says US has paused sharing intelligence with Ukraine](https://techcrunch.com/2025/03/05/cia-director-says-us-has-paused-sharing-intelligence-with-ukraine/)
-- [Experts don’t think AI is ready to be a ‘co-scientist’](https://techcrunch.com/2025/03/05/experts-dont-think-ai-is-ready-to-be-a-co-scientist/)
-- [UK’s competition regulator says Microsoft’s OpenAI partnership doesn’t qualify for investigation](https://techcrunch.com/2025/03/05/u-k-s-competition-authority-says-microsofts-openai-partnership-doesnt-quality-for-investigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
