@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Search’s new ‘AI Mode’ lets users ask complex, multi-part questions](https://techcrunch.com/2025/03/05/google-searchs-new-ai-mode-lets-users-ask-complex-multi-part-questions/)
-- [Anna Patterson’s Ceramic.ai looks to help enterprises build AI models faster and more efficiently](https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai-looks-to-help-enterprises-build-models-faster-and-more-efficiently/)
-- [Hyundai pairs up with Yandex spinoff Avride to develop robotaxis](https://techcrunch.com/2025/03/05/hyundai-pairs-up-with-yandex-spinoff-avride-to-develop-robotaxis/)
-- [Justice Department charges Chinese hackers-for-hire linked to Treasury breach](https://techcrunch.com/2025/03/05/justice-department-charges-chinese-hackers-for-hire-linked-to-treasury-breach/)
-- [Anthropic quietly removes Biden-era AI policy commitments from its website](https://techcrunch.com/2025/03/05/anthropic-quietly-removes-biden-era-ai-policy-commitments-from-its-website/)
+- [Apple adds AI-powered app review summaries with iOS 18.4](https://techcrunch.com/2025/03/05/apple-adds-ai-powered-app-review-summaries-with-ios-18-4/)
+- [OpenAI’s GPT-4.5 AI model comes to more ChatGPT users](https://techcrunch.com/2025/03/05/openais-gpt-4-5-ai-model-comes-to-more-chatgpt-users/)
+- [Mystery solved! Odd X-ray signal was &#39;death knell&#39; of planet destroyed by zombie star &lpar;video&rpar;](https://www.space.com/the-universe/45-year-old-mystery-signal-was-death-knell-of-planet-destroyed-by-zombie-star-video)
+- [Former NSA official says federal worker cuts will have ‘devastating impact’ on cyber and national security](https://techcrunch.com/2025/03/05/former-nsa-official-says-federal-worker-cuts-will-have-devastating-impact-on-cyber-and-national-security/)
+- [Ryan Breslow is back as CEO of fintech Bolt, after years of controversy](https://techcrunch.com/2025/03/05/ryan-breslow-is-back-as-ceo-of-fintech-bolt-after-years-of-controversy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
