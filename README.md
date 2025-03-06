@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Christie’s AI art auction reportedly exceeds expectations](https://techcrunch.com/2025/03/06/christies-ai-art-auction-reportedly-exceeds-expectations/)
+- [ChatGPT on macOS can now directly edit code](https://techcrunch.com/2025/03/06/chatgpt-on-macos-can-now-directly-edit-code/)
+- [Spotify says it’s fixing the bug that caused Premium users to hear ads](https://techcrunch.com/2025/03/06/spotify-says-its-fixing-the-bug-that-caused-premium-users-to-hear-ads/)
+- [Intuitive Machines lands near lunar south pole, but fate of private Athena probe unclear](https://www.space.com/the-universe/moon/intuitive-machines-lands-private-athena-lander-near-moon-south-pole-historic-touchdown)
 - [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
-- [VW’s cheapest EV will have Rivian DNA and who is bidding for Canoo’s assets](https://techcrunch.com/2025/03/06/vws-cheapest-ev-will-have-rivian-dna-and-who-is-bidding-for-canoos-assets/)
-- [Founder of battery startup Our Next Energy returns as CEO following new funding](https://techcrunch.com/2025/03/06/founder-of-battery-startup-our-next-energy-returns-as-ceo-following-new-funding/)
-- [TechCrunch Sessions: AI speaker applications close tomorrow, submit yours today](https://techcrunch.com/2025/03/06/techcrunch-sessions-ai-speaker-applications-close-tomorrow-submit-yours-today/)
-- [OpenAI’s ex-policy lead criticizes the company for ‘rewriting’ its AI safety history](https://techcrunch.com/2025/03/06/openais-ex-policy-lead-criticizes-the-company-for-rewriting-its-ai-safety-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
