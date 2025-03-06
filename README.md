@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Alpine Eagle secures funding from European backers for counter-drone tech amid rising threats](https://techcrunch.com/2025/03/05/alpine-eagle-secures-funding-from-european-backers-for-counter-drone-tech-amid-rising-threats/)
+- [Infineon teams up with India’s CDIL to explore business in light EVs, energy storage solutions](https://techcrunch.com/2025/03/05/infineon-teams-up-with-indias-cdil-to-explore-business-in-light-evs-energy-storage-solutions/)
 - [The private Athena moon lander will touch down near the moon&#39;s south pole today: Watch it live](https://www.space.com/space-exploration/private-spaceflight/intuitive-machines-athena-moon-landing-south-pole-webcast)
 - [Varda space capsule returns to Earth in 1st commercial landing in Australian Outback &lpar;photos&rpar;](https://www.space.com/space-exploration/tech/varda-space-capsule-returns-to-earth-in-1st-commercial-landing-in-australian-outback-photos)
 - [Tapbots teases a new Bluesky app, Phoenix, saying it can’t ‘survive on Mastodon alone’](https://techcrunch.com/2025/03/05/tapbots-teases-a-new-bluesky-app-phoenix-saying-it-cant-survive-on-mastodon-alone/)
-- [Canoo’s CEO is buying the bankrupt EV startup’s assets](https://techcrunch.com/2025/03/05/canoos-ceo-is-buying-the-bankrupt-ev-startups-assets/)
-- [Trump gives automakers one-month tariff reprieve to move operations from Canada, Mexico to US](https://techcrunch.com/2025/03/05/trump-gives-automakers-one-month-tariff-reprieve-to-move-operations-from-canada-mexico-to-us/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
