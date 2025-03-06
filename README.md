@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s Claude Code tool had a bug that ‘bricked’ some systems](https://techcrunch.com/2025/03/06/anthropics-claude-code-tool-had-a-bug-that-bricked-some-systems/)
+- [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/)
 - [ChatGPT doubled its weekly active users in under 6 months, thanks to new releases](https://techcrunch.com/2025/03/06/chatgpt-doubled-its-weekly-active-users-in-under-6-months-thanks-to-new-releases/)
 - [Hacked health firm HCRG demanded journalist ‘take down’ data breach reporting, citing UK court order](https://techcrunch.com/2025/03/06/hacked-health-firm-hcrg-demanded-journalist-take-down-data-breach-reporting-citing-uk-court-order/)
 - [Hope is all but lost for private asteroid probe in deep space — &#39;the chance of talking with Odin is minimal&#39;](https://www.space.com/space-exploration/private-spaceflight/hope-is-all-but-lost-for-private-asteroid-probe-in-deep-space-the-chance-of-talking-with-odin-is-minimal)
-- [Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’](https://techcrunch.com/2025/03/06/hugging-faces-chief-science-officer-worries-ai-is-becoming-yes-men-on-servers/)
-- [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
