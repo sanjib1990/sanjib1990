@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA switches off Voyager instruments to extend life of the two interstellar spacecraft &#39;Every day could be our last.&#39;](https://www.space.com/nasa-switches-off-voyager-instruments-to-extend-life-of-the-two-interstellar-spacecraft)
 - [1st American robotic lunar rover set to land on the moon today](https://www.space.com/the-universe/moon/lunar-outposts-mapp-rover-set-for-lunar-south-pole-landing-and-groundbreaking-resource-sale)
 - [UK quietly scrubs encryption advice from government websites](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/)
 - [A quarter of startups in YC’s current cohort have codebases that are almost entirely AI-generated](https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/)
 - [Total lunar eclipse is just one week away: When and where to see the Blood Moon](https://www.space.com/total-lunar-eclipse-one-week-away-march-2025-everything-you-need-to-know)
-- [Renaissance Fusion raises €32M to radically simplify complex fusion reactors](https://techcrunch.com/2025/03/06/renaissance-fusion-raises-e32m-to-radically-simplify-complex-fusion-reactors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
