@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Uber’s new product chief is gearing up for robotaxis](https://techcrunch.com/2025/03/06/how-ubers-new-product-chief-is-gearing-up-for-robotaxis/)
+- [Faireez raises $7.5M for AI-powered hotel-style housekeeping for condo residents](https://techcrunch.com/2025/03/06/faireez-raises-7-5m-for-ai-powered-hotel-style-housekeeping-for-condo-owners/)
+- [Reddit adds new tools to help users contribute and connect across its platform](https://techcrunch.com/2025/03/06/reddit-adds-new-tools-to-help-users-contribute-and-connect-across-its-platform/)
+- [7 fascinating facts about lunar eclipses](https://www.space.com/stargazing/eclipses/7-fascinating-facts-about-lunar-eclipses)
 - [Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/)
-- [Low on power and spinning out of control, NASA&#39;s Lunar Trailblazer moon probe&#39;s future looks grim](https://www.space.com/space-exploration/missions/nasa-lunar-trailblazer-moon-probe-spinning-low-power-future-looks-grim)
-- [Anthropic submits AI policy recommendations to the White House](https://techcrunch.com/2025/03/06/anthropic-submits-ai-policy-recommendations-to-the-white-house/)
-- [Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation](https://techcrunch.com/2025/03/06/turing-a-key-coding-provider-for-openai-and-other-llm-producers-raises-111m-at-a-2-2b-valuation/)
-- [DNA-busting radiation from star-killing supernova could have influenced evolution on Earth](https://www.space.com/space-exploration/search-for-life/dna-busting-radiation-from-star-killing-supernova-could-have-influenced-evolution-on-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
