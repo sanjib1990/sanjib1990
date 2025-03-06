@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Uber’s new product chief is gearing up for robotaxis](https://techcrunch.com/2025/03/06/how-ubers-new-product-chief-is-gearing-up-for-robotaxis/)
-- [Faireez raises $7.5M for AI-powered hotel-style housekeeping for condo residents](https://techcrunch.com/2025/03/06/faireez-raises-7-5m-for-ai-powered-hotel-style-housekeeping-for-condo-owners/)
-- [Reddit adds new tools to help users contribute and connect across its platform](https://techcrunch.com/2025/03/06/reddit-adds-new-tools-to-help-users-contribute-and-connect-across-its-platform/)
-- [7 fascinating facts about lunar eclipses](https://www.space.com/stargazing/eclipses/7-fascinating-facts-about-lunar-eclipses)
-- [Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/)
+- [OpenAI’s ex-policy lead criticizes the company for ‘rewriting’ its AI safety history](https://techcrunch.com/2025/03/06/openais-ex-policy-lead-criticizes-the-company-for-rewriting-its-ai-safety-history/)
+- [Mistral’s new OCR API turns any PDF document into an AI-ready Markdown file](https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/)
+- [Intangible AI, a no-code 3D creation tool for filmmakers and game designers, raises $4M](https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/)
+- [Private Blue Ghost lander spotted on the moon by NASA lunar orbiter &lpar;photo&rpar;](https://www.space.com/the-universe/moon/private-blue-ghost-lander-spotted-on-the-moon-by-nasa-lunar-orbiter-photo)
+- [Why VCs ghost founders, or reject deals and never speak to the founder again](https://techcrunch.com/2025/03/06/why-vcs-ghost-founders-or-reject-deals-and-never-speak-to-the-founder-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
