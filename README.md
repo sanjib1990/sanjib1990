@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Russian crypto exchange Garantex seized by law enforcement operation](https://techcrunch.com/2025/03/06/russian-crypto-exchange-garantex-seized-by-law-enforcement-operation/)
-- [Christie’s AI art auction reportedly exceeds expectations](https://techcrunch.com/2025/03/06/christies-ai-art-auction-reportedly-exceeds-expectations/)
-- [ChatGPT on macOS can now directly edit code](https://techcrunch.com/2025/03/06/chatgpt-on-macos-can-now-directly-edit-code/)
-- [Spotify says it’s fixing the bug that caused Premium users to hear ads](https://techcrunch.com/2025/03/06/spotify-says-its-fixing-the-bug-that-caused-premium-users-to-hear-ads/)
-- [Intuitive Machines lands near lunar south pole, but fate of private Athena probe unclear](https://www.space.com/the-universe/moon/intuitive-machines-lands-private-athena-lander-near-moon-south-pole-historic-touchdown)
+- [ChatGPT doubled its weekly active users in under 6 months, thanks to new releases](https://techcrunch.com/2025/03/06/chatgpt-doubled-its-weekly-active-users-in-under-6-months-thanks-to-new-releases/)
+- [Hacked health firm HCRG demanded journalist ‘take down’ data breach reporting, citing UK court order](https://techcrunch.com/2025/03/06/hacked-health-firm-hcrg-demanded-journalist-take-down-data-breach-reporting-citing-uk-court-order/)
+- [Hope is all but lost for private asteroid probe in deep space — &#39;the chance of talking with Odin is minimal&#39;](https://www.space.com/space-exploration/private-spaceflight/hope-is-all-but-lost-for-private-asteroid-probe-in-deep-space-the-chance-of-talking-with-odin-is-minimal)
+- [Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’](https://techcrunch.com/2025/03/06/hugging-faces-chief-science-officer-worries-ai-is-becoming-yes-men-on-servers/)
+- [Shield AI raises $240M at a $5.3B valuation to commercialize its AI drone tech](https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
