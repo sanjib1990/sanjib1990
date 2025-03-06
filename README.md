@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2025/03/06/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)
+- [VW’s cheapest EV will have Rivian DNA and who is bidding for Canoo’s assets](https://techcrunch.com/2025/03/06/vws-cheapest-ev-will-have-rivian-dna-and-who-is-bidding-for-canoos-assets/)
+- [Founder of battery startup Our Next Energy returns as CEO following new funding](https://techcrunch.com/2025/03/06/founder-of-battery-startup-our-next-energy-returns-as-ceo-following-new-funding/)
+- [TechCrunch Sessions: AI speaker applications close tomorrow, submit yours today](https://techcrunch.com/2025/03/06/techcrunch-sessions-ai-speaker-applications-close-tomorrow-submit-yours-today/)
 - [OpenAI’s ex-policy lead criticizes the company for ‘rewriting’ its AI safety history](https://techcrunch.com/2025/03/06/openais-ex-policy-lead-criticizes-the-company-for-rewriting-its-ai-safety-history/)
-- [Mistral’s new OCR API turns any PDF document into an AI-ready Markdown file](https://techcrunch.com/2025/03/06/mistrals-new-ocr-api-turns-any-pdf-document-into-an-ai-ready-markdown-file/)
-- [Intangible AI, a no-code 3D creation tool for filmmakers and game designers, raises $4M](https://techcrunch.com/2025/03/06/intangible-ai-a-no-code-3d-creation-tool-for-filmmakers-and-game-designers-raises-4m/)
-- [Private Blue Ghost lander spotted on the moon by NASA lunar orbiter &lpar;photo&rpar;](https://www.space.com/the-universe/moon/private-blue-ghost-lander-spotted-on-the-moon-by-nasa-lunar-orbiter-photo)
-- [Why VCs ghost founders, or reject deals and never speak to the founder again](https://techcrunch.com/2025/03/06/why-vcs-ghost-founders-or-reject-deals-and-never-speak-to-the-founder-again/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
