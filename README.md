@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation](https://techcrunch.com/2025/03/06/turing-a-key-coding-provider-for-openai-and-other-llm-producers-raises-111m-at-a-2-2b-valuation/)
+- [DNA-busting radiation from star-killing supernova could have influenced evolution on Earth](https://www.space.com/space-exploration/search-for-life/dna-busting-radiation-from-star-killing-supernova-could-have-influenced-evolution-on-earth)
+- [A year later, OpenAI still hasn’t released its voice cloning tool](https://techcrunch.com/2025/03/06/a-year-later-openai-still-hasnt-released-its-voice-cloning-tool/)
+- [Crogl, armed with $30M, takes the wraps off a new AI ‘Iron Man suit’ for security analysts](https://techcrunch.com/2025/03/06/crogl-armed-with-30m-takes-the-wraps-off-a-new-ai-iron-man-suit-for-security-analysts/)
 - [Mars may have a solid inner core just like Earth](https://www.space.com/the-universe/mars/mars-may-have-a-solid-inner-core-just-like-earth)
-- [NASA switches off Voyager instruments to extend life of the two interstellar spacecraft &#39;Every day could be our last.&#39;](https://www.space.com/nasa-switches-off-voyager-instruments-to-extend-life-of-the-two-interstellar-spacecraft)
-- [1st American robotic lunar rover set to land on the moon today](https://www.space.com/the-universe/moon/lunar-outposts-mapp-rover-set-for-lunar-south-pole-landing-and-groundbreaking-resource-sale)
-- [UK quietly scrubs encryption advice from government websites](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/)
-- [A quarter of startups in YC’s current cohort have codebases that are almost entirely AI-generated](https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
