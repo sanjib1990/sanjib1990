@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/)
+- [A second Intuitive Machines spacecraft just landed on the moon — and probably tipped over](https://techcrunch.com/2025/03/06/a-second-intuitive-machines-spacecraft-just-landed-on-the-moon-and-probably-tipped-over/)
 - [Anthropic’s Claude Code tool had a bug that ‘bricked’ some systems](https://techcrunch.com/2025/03/06/anthropics-claude-code-tool-had-a-bug-that-bricked-some-systems/)
 - [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/)
 - [ChatGPT doubled its weekly active users in under 6 months, thanks to new releases](https://techcrunch.com/2025/03/06/chatgpt-doubled-its-weekly-active-users-in-under-6-months-thanks-to-new-releases/)
-- [Hacked health firm HCRG demanded journalist ‘take down’ data breach reporting, citing UK court order](https://techcrunch.com/2025/03/06/hacked-health-firm-hcrg-demanded-journalist-take-down-data-breach-reporting-citing-uk-court-order/)
-- [Hope is all but lost for private asteroid probe in deep space — &#39;the chance of talking with Odin is minimal&#39;](https://www.space.com/space-exploration/private-spaceflight/hope-is-all-but-lost-for-private-asteroid-probe-in-deep-space-the-chance-of-talking-with-odin-is-minimal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
