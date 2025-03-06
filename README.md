@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Twenty, twenty, 24 hours to give…I wanna be educated](https://www.youtube.com/watch?v=3_6SXySMp24)
 - [I replaced my entire tech stack with Postgres...](https://www.youtube.com/watch?v=3JW732GrMdg)
 - [Carbon: &lpar;C++&rpar;++ ? Can Carbon De-Throne C++? - Computerphile](https://www.youtube.com/watch?v=t6amG00HQuo)
 - [It only takes one photo](https://www.youtube.com/watch?v=j8cYlXd_eVw)
 - [GPT-4.5 shocks the world with its lack of intelligence...](https://www.youtube.com/watch?v=FW2XOIxaNqg)
-- [You&#39;re going to get Hacked in 2025](https://www.youtube.com/watch?v=CxTMHw-M0Yg)
 <!-- YOUTUBE:END -->
 
 ---
