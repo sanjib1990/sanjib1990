@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A quarter of startups in YC’s current cohort have codebases that are almost entirely AI-generated](https://techcrunch.com/2025/03/06/a-quarter-of-startups-in-ycs-current-cohort-have-codebases-that-are-almost-entirely-ai-generated/)
+- [Total lunar eclipse is just one week away: When and where to see the Blood Moon](https://www.space.com/total-lunar-eclipse-one-week-away-march-2025-everything-you-need-to-know)
 - [Renaissance Fusion raises €32M to radically simplify complex fusion reactors](https://techcrunch.com/2025/03/06/renaissance-fusion-raises-e32m-to-radically-simplify-complex-fusion-reactors/)
 - [Alpine Eagle secures funding from European backers for counter-drone tech amid rising threats](https://techcrunch.com/2025/03/05/alpine-eagle-secures-funding-from-european-backers-for-counter-drone-tech-amid-rising-threats/)
-- [Infineon teams up with India’s CDIL to explore business in light EVs, energy storage solutions](https://techcrunch.com/2025/03/05/infineon-teams-up-with-indias-cdil-to-explore-business-in-light-evs-energy-storage-solutions/)
-- [The private Athena moon lander will touch down near the moon&#39;s south pole today: Watch it live](https://www.space.com/space-exploration/private-spaceflight/intuitive-machines-athena-moon-landing-south-pole-webcast)
-- [Varda space capsule returns to Earth in 1st commercial landing in Australian Outback &lpar;photos&rpar;](https://www.space.com/space-exploration/tech/varda-space-capsule-returns-to-earth-in-1st-commercial-landing-in-australian-outback-photos)
+- [Infineon teams up with India’s CDIL to build chips for light EVs, energy storage solutions](https://techcrunch.com/2025/03/05/infineon-teams-up-with-indias-cdil-to-explore-business-in-light-evs-energy-storage-solutions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
