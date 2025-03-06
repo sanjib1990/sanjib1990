@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google DeepMind, Cohere, and Twelve Labs explain how founders can build with their AI models at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/06/google-deepmind-cohere-and-twelve-labs-explain-how-founders-can-build-with-their-ai-models-at-tc-sessions-ai/)
+- [Low on power and spinning out of control, NASA&#39;s Lunar Trailblazer moon probe&#39;s future looks grim](https://www.space.com/space-exploration/missions/nasa-lunar-trailblazer-moon-probe-spinning-low-power-future-looks-grim)
+- [Anthropic submits AI policy recommendations to the White House](https://techcrunch.com/2025/03/06/anthropic-submits-ai-policy-recommendations-to-the-white-house/)
 - [Turing, a key coding provider for OpenAI and other LLM producers, raises $111M at a $2.2B valuation](https://techcrunch.com/2025/03/06/turing-a-key-coding-provider-for-openai-and-other-llm-producers-raises-111m-at-a-2-2b-valuation/)
 - [DNA-busting radiation from star-killing supernova could have influenced evolution on Earth](https://www.space.com/space-exploration/search-for-life/dna-busting-radiation-from-star-killing-supernova-could-have-influenced-evolution-on-earth)
-- [A year later, OpenAI still hasn’t released its voice cloning tool](https://techcrunch.com/2025/03/06/a-year-later-openai-still-hasnt-released-its-voice-cloning-tool/)
-- [Crogl, armed with $30M, takes the wraps off a new AI ‘Iron Man suit’ for security analysts](https://techcrunch.com/2025/03/06/crogl-armed-with-30m-takes-the-wraps-off-a-new-ai-iron-man-suit-for-security-analysts/)
-- [Mars may have a solid inner core just like Earth](https://www.space.com/the-universe/mars/mars-may-have-a-solid-inner-core-just-like-earth)
 <!-- BLOG-POST-LIST:END -->
 
 ---
