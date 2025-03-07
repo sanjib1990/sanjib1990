@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX loses Starship rocket stage again, but catches giant Super Heavy booster during Flight 8 launch &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-loses-starship-upper-stage-again-but-catches-giant-super-heavy-booster-during-flight-8-launch-video)
+- [SpaceX Starship spirals out of control in second straight test flight failure](https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/)
 - [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/)
 - [A second Intuitive Machines spacecraft just landed on the moon — and probably tipped over](https://techcrunch.com/2025/03/06/a-second-intuitive-machines-spacecraft-just-landed-on-the-moon-and-probably-tipped-over/)
 - [Anthropic’s Claude Code tool had a bug that ‘bricked’ some systems](https://techcrunch.com/2025/03/06/anthropics-claude-code-tool-had-a-bug-that-bricked-some-systems/)
-- [Scale AI is being investigated by the US Department of Labor](https://techcrunch.com/2025/03/06/scale-ai-is-being-investigated-by-the-us-department-of-labor/)
-- [ChatGPT doubled its weekly active users in under 6 months, thanks to new releases](https://techcrunch.com/2025/03/06/chatgpt-doubled-its-weekly-active-users-in-under-6-months-thanks-to-new-releases/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
