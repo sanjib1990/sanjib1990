@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX Dragon capsule arrives at launch site for Crew-10 astronaut flight to ISS &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/spacex-dragon-capsule-arrives-at-launch-site-for-crew-10-astronaut-flight-to-iss-photos)
+- [Japanese telco giant NTT Com says hackers accessed details of almost 18,000 organizations](https://techcrunch.com/2025/03/07/japanese-telco-giant-ntt-com-says-hackers-accessed-details-of-almost-18000-organizations/)
+- [Russian propoganda is reportely influencing AI chatbot results](https://techcrunch.com/2025/03/07/russian-propoganda-is-reportely-influencing-ai-chatbot-results/)
+- [CollX raises $10M to grow its card collection marketplace](https://techcrunch.com/2025/03/07/collx-raises-10m-to-grow-its-card-collection-marketplace/)
 - [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/)
-- [See the moon cozy up to a fading Mars on March 8](https://www.space.com/see-moon-mars-form-triangle-march-8-2025)
-- [Meta’s next Llama models may have upgraded voice features](https://techcrunch.com/2025/03/07/metas-next-llama-models-may-have-upgraded-voice-features/)
-- [X now lets you query Grok by mentioning it in replies](https://techcrunch.com/2025/03/07/x-now-lets-you-query-grok-by-mentioning-it-in-replies/)
-- [&#39;Primordial&#39; helium from the birth of the solar system may be stuck in Earth&#39;s core](https://www.space.com/the-universe/earth/primordial-helium-from-the-birth-of-the-solar-system-may-be-stuck-in-earths-core)
 <!-- BLOG-POST-LIST:END -->
 
 ---
