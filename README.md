@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scientists discover Earth&#39;s oldest impact crater in Australia](https://www.space.com/the-universe/earth/scientists-discover-earths-oldest-impact-in-australia)
 - [Microsoft reportedly ramps up AI efforts to compete with OpenAI](https://techcrunch.com/2025/03/07/microsoft-reportedly-ramps-up-ai-efforts-to-compete-with-openai/)
 - [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/)
 - [Signal President Meredith Whittaker calls out agentic AI as having ‘profound’ security and privacy issues](https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/)
 - [Intuitive Machines’ second moon lander is dead](https://techcrunch.com/2025/03/07/intuitive-machines-second-moon-lander-is-dead/)
-- [US lawmakers have already introduce hundreds of AI bills in 2025](https://techcrunch.com/2025/03/07/us-lawmakers-have-already-introduce-hundreds-of-ai-bills-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
