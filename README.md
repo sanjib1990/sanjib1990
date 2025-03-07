@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FBI says scammers are targeting US executives with fake BianLian ransom notes](https://techcrunch.com/2025/03/07/fbi-says-scammers-are-targeting-us-executives-with-fake-bianlian-ransom-notes/)
+- [What&#39;s the difference between a solar eclipse and a lunar eclipse?](https://www.space.com/difference-between-solar-eclipse-lunar-eclipse)
 - [Watch fiery SpaceX Starship Flight 8 debris rain down over The Bahamas &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-fiery-spacex-starship-flight-8-debris-rain-down-over-the-bahamas-video)
 - [SpaceX loses Starship rocket stage again, but catches giant Super Heavy booster during Flight 8 launch &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-loses-starship-upper-stage-again-but-catches-giant-super-heavy-booster-during-flight-8-launch-video)
 - [SpaceX Starship spirals out of control in second straight test flight failure](https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/)
-- [Google co-founder Larry Page reportedly has a new AI startup](https://techcrunch.com/2025/03/06/google-co-founder-larry-page-reportedly-has-a-new-ai-startup/)
-- [A second Intuitive Machines spacecraft just landed on the moon — and probably tipped over](https://techcrunch.com/2025/03/06/a-second-intuitive-machines-spacecraft-just-landed-on-the-moon-and-probably-tipped-over/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
