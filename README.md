@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A monster black hole may be hiding in the galaxy next door: &#39;It is astounding&#39;](https://www.space.com/the-universe/black-holes/a-monster-black-hole-may-be-hiding-in-the-galaxy-next-door-it-is-astounding)
-- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/)
-- [Secretive US Space Force X-37B space plane &#39;breaks new ground&#39; as it returns to Earth after 434 days in orbit &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/secretive-us-space-force-x-37b-space-plane-breaks-new-ground-as-it-returns-to-earth-after-434-days-in-orbit-photos)
-- [Health expert warns of leaning too heavily on AI for social connections](https://techcrunch.com/2025/03/07/health-expert-warns-of-leaning-too-heavily-on-ai-for-social-connections/)
-- [Spectacular photo taken from ISS shows &#39;gigantic jet&#39; of upward-shooting lightning towering 50 miles over New Orleans](https://www.space.com/the-universe/earth/spectacular-photo-from-iss-shows-gigantic-lightning-jet-50-miles-over-new-orleans)
+- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/)
+- [Google debuts a new Gemini-based text embedding model](https://techcrunch.com/2025/03/07/google-debuts-a-new-gemini-based-text-embedding-model/)
+- [Private Intuitive Machines moon lander fell over inside crater at lunar south pole, photo reveals](https://www.space.com/the-universe/moon/private-intuitive-machines-moon-lander-fell-over-inside-crater-at-lunar-south-pole-photo-reveals)
+- [Elon Musk’s AI company, xAI, acquires one-million-square-foot property in Memphis](https://techcrunch.com/2025/03/07/elon-musks-ai-company-xai-acquires-one-million-square-foot-property-in-memphis/)
+- [TechCrunch Sessions: AI speaker applications close today, submit yours now](https://techcrunch.com/2025/03/07/techcrunch-sessions-ai-speaker-applications-close-today-submit-yours-now/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
