@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A monster black hole may be hiding in the galaxy next door: &#39;It is astounding&#39;](https://www.space.com/the-universe/black-holes/a-monster-black-hole-may-be-hiding-in-the-galaxy-next-door-it-is-astounding)
+- [Startups Weekly: Startups raised funding to help others navigate challenges](https://techcrunch.com/2025/03/07/startups-raised-funding-to-help-others-navigate-challenges/)
+- [Secretive US Space Force X-37B space plane &#39;breaks new ground&#39; as it returns to Earth after 434 days in orbit &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/secretive-us-space-force-x-37b-space-plane-breaks-new-ground-as-it-returns-to-earth-after-434-days-in-orbit-photos)
+- [Health expert warns of leaning too heavily on AI for social connections](https://techcrunch.com/2025/03/07/health-expert-warns-of-leaning-too-heavily-on-ai-for-social-connections/)
 - [Spectacular photo taken from ISS shows &#39;gigantic jet&#39; of upward-shooting lightning towering 50 miles over New Orleans](https://www.space.com/the-universe/earth/spectacular-photo-from-iss-shows-gigantic-lightning-jet-50-miles-over-new-orleans)
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/03/07/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [US charges admins of Garantex for allegedly facilitating crypto money laundering for terrorists and hackers](https://techcrunch.com/2025/03/07/us-charges-admins-of-garantex-for-allegedly-facilitating-crypto-money-laundering-for-terrorists-and-hackers/)
-- [Google adds a Gemini panel to Calendar to help you manage your schedule](https://techcrunch.com/2025/03/07/google-adds-a-gemini-panel-to-calendar-to-help-you-manage-your-schedule/)
-- [SpaceX Dragon capsule arrives at launch site for Crew-10 astronaut flight to ISS &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/spacex-dragon-capsule-arrives-at-launch-site-for-crew-10-astronaut-flight-to-iss-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
