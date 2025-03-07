@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal President Meredith Whittaker calls out agentic AI as having ‘profound’ security and privacy issues](https://techcrunch.com/2025/03/07/signal-president-meredith-whittaker-calls-out-agentic-ai-as-having-profound-security-and-privacy-issues/)
+- [Intuitive Machines’ second moon lander is dead](https://techcrunch.com/2025/03/07/intuitive-machines-second-moon-lander-is-dead/)
+- [US lawmakers have already introduce hundreds of AI bills in 2025](https://techcrunch.com/2025/03/07/us-lawmakers-have-already-introduce-hundreds-of-ai-bills-in-2025/)
 - [Discord is discussing an IPO](https://techcrunch.com/2025/03/07/discord-is-discussing-an-ipo/)
 - [What is Instagram’s Threads app? All your questions answered](https://techcrunch.com/2025/03/07/what-is-instagrams-threads-app-all-your-questions-answered/)
-- [Threads tests adding ‘interests’ on profiles to connect users with topical discussions](https://techcrunch.com/2025/03/07/threads-tests-adding-interests-on-profiles-to-connect-users-with-topical-discussions/)
-- [The PSVR 2 is now one of its lowest ever prices with a huge $150 off at Walmart](https://www.space.com/stargazing/astronomy-kit/the-psvr-2-is-now-one-of-its-lowest-ever-prices-150-dollars-off)
-- [Google removes ‘underrepresented’ language from its grant website](https://techcrunch.com/2025/03/07/google-removes-underrepresented-language-from-its-grant-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
