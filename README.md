@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Water mining on the moon may be easier than expected, India&#39;s Chandrayaan-3 lander finds](https://www.space.com/the-universe/moon/water-mining-on-the-moon-may-be-easier-than-expected-indias-chandrayaan-3-lander-finds)
 - [FBI says scammers are targeting US executives with fake BianLian ransom notes](https://techcrunch.com/2025/03/07/fbi-says-scammers-are-targeting-us-executives-with-fake-bianlian-ransom-notes/)
 - [What&#39;s the difference between a solar eclipse and a lunar eclipse?](https://www.space.com/difference-between-solar-eclipse-lunar-eclipse)
 - [Watch fiery SpaceX Starship Flight 8 debris rain down over The Bahamas &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-fiery-spacex-starship-flight-8-debris-rain-down-over-the-bahamas-video)
 - [SpaceX loses Starship rocket stage again, but catches giant Super Heavy booster during Flight 8 launch &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-loses-starship-upper-stage-again-but-catches-giant-super-heavy-booster-during-flight-8-launch-video)
-- [SpaceX Starship spirals out of control in second straight test flight failure](https://techcrunch.com/2025/03/06/spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
