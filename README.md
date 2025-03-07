@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X now lets you query Grok by mentioning it in replies](https://techcrunch.com/2025/03/07/x-now-lets-you-query-grok-by-mentioning-it-in-replies/)
+- [&#39;Primordial&#39; helium from the birth of the solar system may be stuck in Earth&#39;s core](https://www.space.com/the-universe/earth/primordial-helium-from-the-birth-of-the-solar-system-may-be-stuck-in-earths-core)
 - [Our best binoculars under $300 are now even better value with this $90 price cut](https://www.space.com/stargazing/astronomy-kit/celestron-trailseeker-8x42-binoculars-deal-best-under-300-dollars-now-90-off)
 - [Water mining on the moon may be easier than expected, India&#39;s Chandrayaan-3 lander finds](https://www.space.com/the-universe/moon/water-mining-on-the-moon-may-be-easier-than-expected-indias-chandrayaan-3-lander-finds)
 - [FBI says scammers are targeting US executives with fake BianLian ransom notes](https://techcrunch.com/2025/03/07/fbi-says-scammers-are-targeting-us-executives-with-fake-bianlian-ransom-notes/)
-- [What&#39;s the difference between a solar eclipse and a lunar eclipse?](https://www.space.com/difference-between-solar-eclipse-lunar-eclipse)
-- [Watch fiery SpaceX Starship Flight 8 debris rain down over The Bahamas &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-fiery-spacex-starship-flight-8-debris-rain-down-over-the-bahamas-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
