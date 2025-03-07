@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spectacular photo taken from ISS shows &#39;gigantic jet&#39; of upward-shooting lightning towering 50 miles over New Orleans](https://www.space.com/the-universe/earth/spectacular-photo-from-iss-shows-gigantic-lightning-jet-50-miles-over-new-orleans)
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/03/07/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
+- [US charges admins of Garantex for allegedly facilitating crypto money laundering for terrorists and hackers](https://techcrunch.com/2025/03/07/us-charges-admins-of-garantex-for-allegedly-facilitating-crypto-money-laundering-for-terrorists-and-hackers/)
+- [Google adds a Gemini panel to Calendar to help you manage your schedule](https://techcrunch.com/2025/03/07/google-adds-a-gemini-panel-to-calendar-to-help-you-manage-your-schedule/)
 - [SpaceX Dragon capsule arrives at launch site for Crew-10 astronaut flight to ISS &lpar;photos&rpar;](https://www.space.com/space-exploration/human-spaceflight/spacex-dragon-capsule-arrives-at-launch-site-for-crew-10-astronaut-flight-to-iss-photos)
-- [Japanese telco giant NTT Com says hackers accessed details of almost 18,000 organizations](https://techcrunch.com/2025/03/07/japanese-telco-giant-ntt-com-says-hackers-accessed-details-of-almost-18000-organizations/)
-- [Russian propoganda is reportely influencing AI chatbot results](https://techcrunch.com/2025/03/07/russian-propoganda-is-reportely-influencing-ai-chatbot-results/)
-- [CollX raises $10M to grow its card collection marketplace](https://techcrunch.com/2025/03/07/collx-raises-10m-to-grow-its-card-collection-marketplace/)
-- [Last day to apply to be a TechCrunch Sessions: AI speaker](https://techcrunch.com/2025/03/07/last-day-to-apply-to-be-a-techcrunch-sessions-ai-speaker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
