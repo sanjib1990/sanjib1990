@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/)
+- [Here&#39;s the launch plan for NASA&#39;s SPHEREx and PUNCH missions: &#39;Liftoff is just the beginning&#39;](https://www.space.com/space-exploration/missions/heres-the-launch-plan-for-nasas-spherex-and-punch-missions-liftoff-is-just-the-beginning)
+- [Chevy Silverado EV vs Rivian R1T: How two EVs handled the iconic Mint 400 off-road race](https://techcrunch.com/2025/03/08/chevy-silverado-ev-vs-rivian-r1t-how-two-evs-handled-the-iconic-mint-400-off-road-race/)
 - [5 devices to help ease your smartphone addiction](https://techcrunch.com/2025/03/08/5-devices-to-help-ease-your-smartphone-addiction/)
 - [This Week In Space podcast: Episode 151 — In Search of Alien Megastructures](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-151-in-search-of-alien-megastructures)
-- [In defense tech, Lithuania’s sovereign VC fund is one step ahead](https://techcrunch.com/2025/03/08/in-defense-tech-lithuanias-sovereign-vc-fund-is-one-step-ahead/)
-- [New &#39;Starman&#39; documentary shines light on NASA JPL legend Gentry Lee](https://www.space.com/entertainment/new-starman-documentary-shines-light-on-nasa-jpl-legend-gentry-lee)
-- [NASA&#39;s Artemis 2 crew wants your help designing the plush toy that will fly with them around the moon.](https://www.space.com/space-exploration/artemis/nasas-artemis-2-crew-wants-your-help-designing-the-plush-toy-that-will-fly-with-them-around-the-moon)
 <!-- BLOG-POST-LIST:END -->
 
 ---
