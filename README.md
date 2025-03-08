@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [For NASA astronauts on a 10-day space mission that lasted 9 months, a landing date at last](https://www.space.com/space-exploration/international-space-station/stranded-starliner-astronauts-on-iss-get-landing-date-at-last)
 - [FAA investigating SpaceX Starship Flight 8 explosion that disrupted commercial flights](https://www.space.com/space-exploration/missions/faa-investigating-spacex-starship-flight-8-explosion-that-disrupted-commercial-flights)
 - [Cursor in talks to raise at a $10B valuation as AI coding sector booms](https://techcrunch.com/2025/03/07/cursor-in-talks-to-raise-at-a-10b-valuation-as-ai-coding-sector-booms/)
 - [Scientists discover Earth&#39;s oldest impact crater in Australia](https://www.space.com/the-universe/earth/scientists-discover-earths-oldest-impact-in-australia)
 - [Microsoft reportedly ramps up AI efforts to compete with OpenAI](https://techcrunch.com/2025/03/07/microsoft-reportedly-ramps-up-ai-efforts-to-compete-with-openai/)
-- [SXSW 2025: What we’re paying attention to](https://techcrunch.com/2025/03/07/sxsw-2025-what-were-paying-attention-to/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
