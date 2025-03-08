@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 devices to help ease your smartphone addiction](https://techcrunch.com/2025/03/08/5-devices-to-help-ease-your-smartphone-addiction/)
+- [This Week In Space podcast: Episode 151 — In Search of Alien Megastructures](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-151-in-search-of-alien-megastructures)
 - [In defense tech, Lithuania’s sovereign VC fund is one step ahead](https://techcrunch.com/2025/03/08/in-defense-tech-lithuanias-sovereign-vc-fund-is-one-step-ahead/)
 - [New &#39;Starman&#39; documentary shines light on NASA JPL legend Gentry Lee](https://www.space.com/entertainment/new-starman-documentary-shines-light-on-nasa-jpl-legend-gentry-lee)
 - [NASA&#39;s Artemis 2 crew wants your help designing the plush toy that will fly with them around the moon.](https://www.space.com/space-exploration/artemis/nasas-artemis-2-crew-wants-your-help-designing-the-plush-toy-that-will-fly-with-them-around-the-moon)
-- [For NASA astronauts on a 10-day space mission that lasted 9 months, a landing date at last](https://www.space.com/space-exploration/international-space-station/stranded-starliner-astronauts-on-iss-get-landing-date-at-last)
-- [FAA investigating SpaceX Starship Flight 8 explosion that disrupted commercial flights](https://www.space.com/space-exploration/missions/faa-investigating-spacex-starship-flight-8-explosion-that-disrupted-commercial-flights)
 <!-- BLOG-POST-LIST:END -->
 
 ---
