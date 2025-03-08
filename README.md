@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week in Review: OpenAI could charge $20K a month for an AI agent](https://techcrunch.com/2025/03/08/week-in-review-openai-could-charge-20k-a-month-for-an-ai-agent/)
 - [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/)
 - [Here&#39;s the launch plan for NASA&#39;s SPHEREx and PUNCH missions: &#39;Liftoff is just the beginning&#39;](https://www.space.com/space-exploration/missions/heres-the-launch-plan-for-nasas-spherex-and-punch-missions-liftoff-is-just-the-beginning)
 - [Chevy Silverado EV vs Rivian R1T: How two EVs handled the iconic Mint 400 off-road race](https://techcrunch.com/2025/03/08/chevy-silverado-ev-vs-rivian-r1t-how-two-evs-handled-the-iconic-mint-400-off-road-race/)
 - [5 devices to help ease your smartphone addiction](https://techcrunch.com/2025/03/08/5-devices-to-help-ease-your-smartphone-addiction/)
-- [This Week In Space podcast: Episode 151 — In Search of Alien Megastructures](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-151-in-search-of-alien-megastructures)
 <!-- BLOG-POST-LIST:END -->
 
 ---
