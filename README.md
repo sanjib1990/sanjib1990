@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What will happen during the total lunar eclipse of March 2025?](https://www.space.com/total-lunar-eclipse-march-2025-stages-explained-what-to-expect)
 - [New DOJ proposal still calls for Google to divest Chrome, but allows for AI investments](https://techcrunch.com/2025/03/08/new-doj-proposal-still-calls-for-google-to-divest-chrome-but-allows-for-ai-investments/)
 - [Google scrubs mentions of ‘diversity’ and ‘equity’ from responsible AI team webpage](https://techcrunch.com/2025/03/08/google-scrubs-mentions-of-diversity-and-equity-from-responsible-ai-team-webpage/)
 - [Judge allows authors’ AI copyright lawsuit against Meta to move forward](https://techcrunch.com/2025/03/08/judge-allows-authors-ai-copyright-lawsuit-against-meta-to-move-forward/)
 - [Week in Review: OpenAI could charge $20K a month for an AI agent](https://techcrunch.com/2025/03/08/week-in-review-openai-could-charge-20k-a-month-for-an-ai-agent/)
-- [9 US AI startups have raised $100M or more in 2025](https://techcrunch.com/2025/03/08/9-us-ai-startups-have-raised-100m-or-more-in-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
