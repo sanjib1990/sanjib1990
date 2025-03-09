@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there life out there? The existence of other technological species is highly likely](https://www.space.com/space-exploration/search-for-life/is-there-life-out-there-the-existence-of-other-technological-species-is-highly-likely)
 - [Rocket Lab unveils plan to land Neutron rockets at sea, 1st launch in 2025](https://www.space.com/space-exploration/missions/rocket-lab-unveils-plan-to-land-neutron-rockets-at-sea-1st-launch-in-2025)
 - [What will happen during the total lunar eclipse of March 2025?](https://www.space.com/total-lunar-eclipse-march-2025-stages-explained-what-to-expect)
 - [New DOJ proposal still calls for Google to divest Chrome, but allows for AI investments](https://techcrunch.com/2025/03/08/new-doj-proposal-still-calls-for-google-to-divest-chrome-but-allows-for-ai-investments/)
 - [Google scrubs mentions of ‘diversity’ and ‘equity’ from responsible AI team webpage](https://techcrunch.com/2025/03/08/google-scrubs-mentions-of-diversity-and-equity-from-responsible-ai-team-webpage/)
-- [Judge allows authors’ AI copyright lawsuit against Meta to move forward](https://techcrunch.com/2025/03/08/judge-allows-authors-ai-copyright-lawsuit-against-meta-to-move-forward/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
