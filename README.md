@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to stop doomscrolling](https://techcrunch.com/2025/03/09/how-to-stop-doomscrolling/)
+- [Scientists discover simpler way to achieve Einstein&#39;s &#39;spooky action at a distance&#39; thanks to AI breakthrough — bringing quantum internet closer to reality](https://www.space.com/space-exploration/tech/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-breakthrough-bringing-quantum-internet-closer-to-reality)
+- [Property and sovereignty in space: Countries and companies face potential clashes as they take to the stars](https://www.space.com/space-exploration/property-and-sovereignty-in-space-countries-and-companies-face-potential-clashes-as-they-take-to-the-stars)
 - [Is there life out there? The existence of other technological species is highly likely](https://www.space.com/space-exploration/search-for-life/is-there-life-out-there-the-existence-of-other-technological-species-is-highly-likely)
 - [Rocket Lab unveils plan to land Neutron rockets at sea, 1st launch in 2025](https://www.space.com/space-exploration/missions/rocket-lab-unveils-plan-to-land-neutron-rockets-at-sea-1st-launch-in-2025)
-- [What will happen during the total lunar eclipse of March 2025?](https://www.space.com/total-lunar-eclipse-march-2025-stages-explained-what-to-expect)
-- [New DOJ proposal still calls for Google to divest Chrome, but allows for AI investments](https://techcrunch.com/2025/03/08/new-doj-proposal-still-calls-for-google-to-divest-chrome-but-allows-for-ai-investments/)
-- [Google scrubs mentions of ‘diversity’ and ‘equity’ from responsible AI team webpage](https://techcrunch.com/2025/03/08/google-scrubs-mentions-of-diversity-and-equity-from-responsible-ai-team-webpage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
