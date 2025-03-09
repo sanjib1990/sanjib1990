@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s smart home hub reportedly delayed by Siri challenges](https://techcrunch.com/2025/03/09/apples-smart-home-hub-reportedly-delayed-by-siri-challenges/)
+- [Musk may still have a chance to thwart OpenAI’s for-profit conversion](https://techcrunch.com/2025/03/09/musk-may-still-have-a-chance-to-thwart-openais-for-profit-conversion/)
 - [How to stop doomscrolling](https://techcrunch.com/2025/03/09/how-to-stop-doomscrolling/)
 - [Scientists discover simpler way to achieve Einstein&#39;s &#39;spooky action at a distance&#39; thanks to AI breakthrough — bringing quantum internet closer to reality](https://www.space.com/space-exploration/tech/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-breakthrough-bringing-quantum-internet-closer-to-reality)
 - [Property and sovereignty in space: Countries and companies face potential clashes as they take to the stars](https://www.space.com/space-exploration/property-and-sovereignty-in-space-countries-and-companies-face-potential-clashes-as-they-take-to-the-stars)
-- [Is there life out there? The existence of other technological species is highly likely](https://www.space.com/space-exploration/search-for-life/is-there-life-out-there-the-existence-of-other-technological-species-is-highly-likely)
-- [Rocket Lab unveils plan to land Neutron rockets at sea, 1st launch in 2025](https://www.space.com/space-exploration/missions/rocket-lab-unveils-plan-to-land-neutron-rockets-at-sea-1st-launch-in-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
