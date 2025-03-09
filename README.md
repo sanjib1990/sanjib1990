@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tammy Nam joins AI-powered ad startup Creatopy as CEO](https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/)
 - [Apple’s smart home hub reportedly delayed by Siri challenges](https://techcrunch.com/2025/03/09/apples-smart-home-hub-reportedly-delayed-by-siri-challenges/)
 - [Musk may still have a chance to thwart OpenAI’s for-profit conversion](https://techcrunch.com/2025/03/09/musk-may-still-have-a-chance-to-thwart-openais-for-profit-conversion/)
 - [How to stop doomscrolling](https://techcrunch.com/2025/03/09/how-to-stop-doomscrolling/)
 - [Scientists discover simpler way to achieve Einstein&#39;s &#39;spooky action at a distance&#39; thanks to AI breakthrough — bringing quantum internet closer to reality](https://www.space.com/space-exploration/tech/scientists-discover-simpler-way-to-achieve-einsteins-spooky-action-at-a-distance-thanks-to-ai-breakthrough-bringing-quantum-internet-closer-to-reality)
-- [Property and sovereignty in space: Countries and companies face potential clashes as they take to the stars](https://www.space.com/space-exploration/property-and-sovereignty-in-space-countries-and-companies-face-potential-clashes-as-they-take-to-the-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
