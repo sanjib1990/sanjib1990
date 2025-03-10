@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Our AI girlfriends just leveled up big time…](https://www.youtube.com/watch?v=UIVADiGfwWc)
 - [TikTok just released its React Native killer…](https://www.youtube.com/watch?v=-qjE8JkIVoQ)
 - [Twenty, twenty, 24 hours to give…I wanna be educated](https://www.youtube.com/watch?v=3_6SXySMp24)
 - [I replaced my entire tech stack with Postgres...](https://www.youtube.com/watch?v=3JW732GrMdg)
 - [Carbon: &lpar;C++&rpar;++ ? Can Carbon De-Throne C++? - Computerphile](https://www.youtube.com/watch?v=t6amG00HQuo)
-- [It only takes one photo](https://www.youtube.com/watch?v=j8cYlXd_eVw)
 <!-- YOUTUBE:END -->
 
 ---
