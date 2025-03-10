@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Asana CEO Dustin Moskovitz is retiring](https://techcrunch.com/2025/03/10/asana-ceo-dustin-moskovitz-is-retiring/)
 - [Elon Musk says DOGE involvement is making it harder to run his businesses](https://techcrunch.com/2025/03/10/elon-musk-says-doge-involvement-is-making-it-harder-to-run-his-businesses/)
 - [Eric Schmidt joins Relativity Space as CEO](https://techcrunch.com/2025/03/10/eric-schmidt-joins-relativity-space-as-ceo/)
 - [Boom Supersonic&#39;s XB-1 jet flew in front of the sun so NASA could take this incredible shock wave photo](https://www.space.com/space-exploration/tech/nasa-boom-supersonic-xb-1-jet-photo)
 - [Bluesky is weighing a proposal that gives users consent over how their data is used for AI](https://techcrunch.com/2025/03/10/bluesky-is-weighing-a-proposal-that-gives-users-consent-over-how-their-data-is-used-for-ai/)
-- [In another chess move with Microsoft, OpenAI is pouring $12B into CoreWeave](https://techcrunch.com/2025/03/10/in-another-chess-move-with-microsoft-openai-is-pouring-12b-into-coreweave/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
