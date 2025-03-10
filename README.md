@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mysterious phenomenon at the heart of the Milky Way could point to new dark matter suspect. &#39;We may have been overlooking its subtle chemical effects on the cosmos.&#39;](https://www.space.com/the-universe/mysterious-phenomenon-heart-milky-way-new-dark-matter-suspect)
-- [Save 72% on a Disney Plus subscription bundle in this huge streaming deal](https://www.space.com/entertainment/72-percent-off-disney-plus-hulu-espn-plus-streaming-deal)
-- [Insight VC explains the biggest mistake that keeps founders from raising a big round](https://techcrunch.com/2025/03/10/insight-vc-explains-the-biggest-mistake-that-keeps-founders-from-raising-a-big-round/)
-- [Hacker accessed PowerSchool’s network months before massive December breach](https://techcrunch.com/2025/03/10/hacker-accessed-powerschools-network-months-before-massive-december-breach/)
-- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/03/10/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
+- [Hubble rocks out with cosmic guitar | Space photo of the day March 10, 2025](https://www.space.com/space-exploration/hubble-rocks-out-cosmic-guitar)
+- [16 years before &#39;Mickey 17&#39;&#39;s mission to the stars, 2009&#39;s &#39;Moon&#39; was already sending in the clones](https://www.space.com/entertainment/space-movies-shows/16-years-before-mickey-17s-mission-to-the-stars-2009s-moon-was-already-sending-in-the-clones)
+- [Daqus Energy has a plan to make EV sports cars fast, light, and cheap](https://techcrunch.com/2025/03/10/daqus-energy-has-a-plan-to-make-ev-sports-cars-fast-light-and-cheap/)
+- [Elon Musk says X is down due to cyberattacks](https://techcrunch.com/2025/03/10/x-is-experiencing-outages-on-monday-morning/)
+- [Open social web browser Surf integrates with Bluesky in latest beta](https://techcrunch.com/2025/03/10/open-social-web-browser-surf-integrates-with-bluesky-in-latest-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
