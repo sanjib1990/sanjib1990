@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Companies to acquire Redfin in $1.75B deal](https://techcrunch.com/2025/03/10/rocket-companies-to-take-redfin-private-in-1-75b-deal/)
 - [This month&#39;s &#39;blood moon&#39; eclipse mirrors one Christopher Columbus used to scare indigenous people with in 1504](https://www.space.com/march-2025-eclipse-echoes-columbus-eclipse-1504)
 - [These mysterious objects born in violent clashes between young star systems aren&#39;t stars or planets](https://www.space.com/the-universe/these-mysterious-objects-born-in-violent-clashes-between-young-star-systems-arent-stars-or-planets)
 - [Neom is reportedly turning into a financial disaster, except for McKinsey &amp; Co.](https://techcrunch.com/2025/03/09/neom-is-reportedly-turning-into-a-financial-disaster-except-for-mckinsey-co/)
 - [Manus probably isn’t China’s second ‘DeepSeek moment’](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/)
-- [Japan’s service robot market projected to triple in five years](https://techcrunch.com/2025/03/09/japans-service-robot-market-projected-to-triple-in-five-years/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
