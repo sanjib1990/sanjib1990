@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA cutting programs, workforce to comply with Trump order](https://www.space.com/space-exploration/nasa-cutting-programs-workforce-to-comply-with-trump-order)
-- [At SXSW, Bluesky CEO Jay Graber pokes fun at Mark Zuckerberg with Latin phrase T-shirt](https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/)
-- [Hubble rocks out with cosmic guitar | Space photo of the day March 10, 2025](https://www.space.com/space-exploration/hubble-rocks-out-cosmic-guitar)
-- [16 years before &#39;Mickey 17&#39;&#39;s mission to the stars, 2009&#39;s &#39;Moon&#39; was already sending in the clones](https://www.space.com/entertainment/space-movies-shows/16-years-before-mickey-17s-mission-to-the-stars-2009s-moon-was-already-sending-in-the-clones)
-- [Daqus Energy has a plan to make EV sports cars fast, light, and cheap](https://techcrunch.com/2025/03/10/daqus-energy-has-a-plan-to-make-ev-sports-cars-fast-light-and-cheap/)
+- [There&#39;s a total lunar eclipse coming. How will these 2 solar-powered moon probes survive the darkness?](https://www.space.com/total-lunar-eclipse-march-2025-what-happens-to-solar-powered-spacecraft)
+- [Open web initiatives Project Liberty and Solid could be teaming up](https://techcrunch.com/2025/03/10/open-web-initiatives-project-liberty-and-solid-could-be-teaming-up/)
+- [What PowerSchool won’t say about its data breach affecting millions of students](https://techcrunch.com/2025/03/10/what-powerschool-isnt-saying-about-its-massive-student-data-breach/)
+- [Poolside CEO says most companies shouldn’t build foundation models](https://techcrunch.com/2025/03/10/poolside-ceo-says-most-companies-shouldnt-build-foundation-models/)
+- [DeepSeek isn’t taking VC money yet. Here are 3 reasons why.](https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
