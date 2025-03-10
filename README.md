@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [These mysterious objects born in violent clashes between young star systems aren&#39;t stars or planets](https://www.space.com/the-universe/these-mysterious-objects-born-in-violent-clashes-between-young-star-systems-arent-stars-or-planets)
 - [Neom is reportedly turning into a financial disaster, except for McKinsey &amp; Co.](https://techcrunch.com/2025/03/09/neom-is-reportedly-turning-into-a-financial-disaster-except-for-mckinsey-co/)
 - [Manus probably isn’t China’s second ‘DeepSeek moment’](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/)
 - [Japan’s service robot market projected to triple in five years](https://techcrunch.com/2025/03/09/japans-service-robot-market-projected-to-triple-in-five-years/)
 - [Colossal CEO Ben Lamm says humanity has a ‘moral obligation’ to pursue de-extinction tech](https://techcrunch.com/2025/03/09/colossal-ceo-ben-lamm-says-humanity-has-a-moral-obligation-to-pursue-de-extinction-tech/)
-- [Tammy Nam joins AI-powered ad startup Creatopy as CEO](https://techcrunch.com/2025/03/09/tammy-nam-joins-ai-powered-ad-startup-creatopy-as-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
