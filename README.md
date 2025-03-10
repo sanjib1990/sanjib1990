@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Showcase your innovation — exhibit at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/showcase-your-innovation-exhibit-at-techcrunch-sessions-ai/)
+- [Maximize your brand: Secure an exhibit table at TechCrunch All Stage 2025](https://techcrunch.com/2025/03/10/maximize-your-exposure-secure-an-exhibit-table-at-techcrunch-all-stage-2025/)
+- [Supercharge your brand visibility with an exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/10/supercharge-your-brand-visibility-with-an-exhibit-table-at-techcrunch-disrupt-2025/)
+- [Microsoft appears to be working on 3D gaming experiences for Copilot](https://techcrunch.com/2025/03/10/microsoft-appears-to-be-working-on-3d-gaming-experiences-for-copilot/)
 - [ServiceNow to buy Moveworks for $2.85B to grow its AI portfolio](https://techcrunch.com/2025/03/10/servicenow-buys-moveworks-for-2-85b-to-grow-its-ai-portfolio/)
-- [Nirvana keeps on truckin’ with $80M at a $830M valuation for its AI-powered insurance](https://techcrunch.com/2025/03/10/nirvana-keeps-on-truckin-with-80m-at-a-830m-valuation-for-its-ai-powered-insurance/)
-- [New recipe for gravity could unite Einstein&#39;s general relativity with quantum physics — and probe the dark universe](https://www.space.com/the-universe/new-recipe-for-gravity-could-unite-einsteins-general-relativity-with-quantum-physics-and-probe-the-dark-universe)
-- [Rocket Companies to acquire Redfin in $1.75B deal](https://techcrunch.com/2025/03/10/rocket-companies-to-take-redfin-private-in-1-75b-deal/)
-- [This month&#39;s &#39;blood moon&#39; eclipse mirrors one Christopher Columbus used to scare indigenous people with in 1504](https://www.space.com/march-2025-eclipse-echoes-columbus-eclipse-1504)
 <!-- BLOG-POST-LIST:END -->
 
 ---
