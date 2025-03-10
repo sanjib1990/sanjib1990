@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s a total lunar eclipse coming. How will these 2 solar-powered moon probes survive the darkness?](https://www.space.com/total-lunar-eclipse-march-2025-what-happens-to-solar-powered-spacecraft)
-- [Open web initiatives Project Liberty and Solid could be teaming up](https://techcrunch.com/2025/03/10/open-web-initiatives-project-liberty-and-solid-could-be-teaming-up/)
-- [What PowerSchool won’t say about its data breach affecting millions of students](https://techcrunch.com/2025/03/10/what-powerschool-isnt-saying-about-its-massive-student-data-breach/)
-- [Poolside CEO says most companies shouldn’t build foundation models](https://techcrunch.com/2025/03/10/poolside-ceo-says-most-companies-shouldnt-build-foundation-models/)
-- [DeepSeek isn’t taking VC money yet. Here are 3 reasons why.](https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/)
+- [Boom Supersonic&#39;s XB-1 jet flew in front of the sun so NASA could take this incredible shock wave photo](https://www.space.com/space-exploration/tech/nasa-boom-supersonic-xb-1-jet-photo)
+- [Bluesky is weighing a proposal that gives users consent over how their data is used for AI](https://techcrunch.com/2025/03/10/bluesky-is-weighing-a-proposal-that-gives-users-consent-over-how-their-data-is-used-for-ai/)
+- [In another chess move with Microsoft, OpenAI is pouring $12B into CoreWeave](https://techcrunch.com/2025/03/10/in-another-chess-move-with-microsoft-openai-is-pouring-12b-into-coreweave/)
+- [Elon Musk says X is down due to cyberattacks](https://techcrunch.com/2025/03/10/elon-musk-says-x-is-down-due-to-cyberattacks/)
+- [Rad Power Bikes CEO steps down](https://techcrunch.com/2025/03/10/rad-power-bikes-ceo-steps-down/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
