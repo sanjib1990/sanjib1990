@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Showcase your innovation — exhibit at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/showcase-your-innovation-exhibit-at-techcrunch-sessions-ai/)
-- [Maximize your brand: Secure an exhibit table at TechCrunch All Stage 2025](https://techcrunch.com/2025/03/10/maximize-your-exposure-secure-an-exhibit-table-at-techcrunch-all-stage-2025/)
-- [Supercharge your brand visibility with an exhibit table at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/10/supercharge-your-brand-visibility-with-an-exhibit-table-at-techcrunch-disrupt-2025/)
-- [Microsoft appears to be working on 3D gaming experiences for Copilot](https://techcrunch.com/2025/03/10/microsoft-appears-to-be-working-on-3d-gaming-experiences-for-copilot/)
-- [ServiceNow to buy Moveworks for $2.85B to grow its AI portfolio](https://techcrunch.com/2025/03/10/servicenow-buys-moveworks-for-2-85b-to-grow-its-ai-portfolio/)
+- [Applications are open for Startup Battlefield 200 — apply today!](https://techcrunch.com/2025/03/10/applications-are-open-for-startup-battlefield-200-apply-today/)
+- [Here’s your chance to host a Side Event at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/10/heres-your-chance-to-host-a-side-event-at-techcrunch-sessions-ai/)
+- [AvatarOS snags $7M seed round from M13 to build an AI-powered virtual influencer platform](https://techcrunch.com/2025/03/10/avataros-snags-7m-seed-round-from-m13-to-build-an-ai-powered-virtual-influencer-platform/)
+- [Witness the birth of the Rebellion in &#39;Andor&#39; Season 2 featurette &lpar;video&rpar;](https://www.space.com/entertainment/witness-the-birth-of-the-rebellion-in-andor-season-2-featurette-video)
+- [Trump administration in talks with four groups about potential TikTok sale](https://techcrunch.com/2025/03/10/trump-administration-in-talks-with-four-groups-about-potential-tiktok-sale/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
