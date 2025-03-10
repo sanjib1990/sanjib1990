@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA cutting programs, workforce to comply with Trump order](https://www.space.com/space-exploration/nasa-cutting-programs-workforce-to-comply-with-trump-order)
+- [At SXSW, Bluesky CEO Jay Graber pokes fun at Mark Zuckerberg with Latin phrase T-shirt](https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/)
 - [Hubble rocks out with cosmic guitar | Space photo of the day March 10, 2025](https://www.space.com/space-exploration/hubble-rocks-out-cosmic-guitar)
 - [16 years before &#39;Mickey 17&#39;&#39;s mission to the stars, 2009&#39;s &#39;Moon&#39; was already sending in the clones](https://www.space.com/entertainment/space-movies-shows/16-years-before-mickey-17s-mission-to-the-stars-2009s-moon-was-already-sending-in-the-clones)
 - [Daqus Energy has a plan to make EV sports cars fast, light, and cheap](https://techcrunch.com/2025/03/10/daqus-energy-has-a-plan-to-make-ev-sports-cars-fast-light-and-cheap/)
-- [Elon Musk says X is down due to cyberattacks](https://techcrunch.com/2025/03/10/x-is-experiencing-outages-on-monday-morning/)
-- [Open social web browser Surf integrates with Bluesky in latest beta](https://techcrunch.com/2025/03/10/open-social-web-browser-surf-integrates-with-bluesky-in-latest-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
