@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flower Labs launches a new service that automatically switches from local to cloud AI](https://techcrunch.com/2025/03/11/flower-labs-launches-a-new-service-that-automatically-switches-from-local-to-cloud-ai/)
+- [The special effects in Netflix&#39;s &#39;The Electric State&#39; look amazing, but we can&#39;t stop thinking about the animatronic Mr Peanut cameo &lpar;video&rpar;](https://www.space.com/entertainment/the-special-effects-in-netflixs-the-electric-state-look-amazing-but-we-cant-stop-thinking-about-the-animatronic-mr-peanut-cameo-video)
+- [Yet another AI robotics firm lands major funding, as Dexterity closes latest round](https://techcrunch.com/2025/03/11/yet-another-ai-robotics-firm-lands-major-funding-as-dexterity-closes-latest-round/)
+- [Geothermal could power nearly all new data centers through 2030](https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/)
 - [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/)
-- [Watch sparks fly as Blue Ghost lander drills into the moon &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-sparks-fly-as-blue-ghost-lander-drills-into-the-moon-video)
-- [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/)
-- [Hugging Face expands its LeRobot platform with training data for self-driving machines](https://techcrunch.com/2025/03/11/hugging-face-expands-its-lerobot-platform-with-training-data-for-self-driving-machines/)
-- [The best sci-fi TV shows of the 1960s](https://www.space.com/entertainment/the-best-sci-fi-tv-shows-of-the-1960s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
