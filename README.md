@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flower Labs launches a new service that automatically switches from local to cloud AI](https://techcrunch.com/2025/03/11/flower-labs-launches-a-new-service-that-automatically-switches-from-local-to-cloud-ai/)
-- [The special effects in Netflix&#39;s &#39;The Electric State&#39; look amazing, but we can&#39;t stop thinking about the animatronic Mr Peanut cameo &lpar;video&rpar;](https://www.space.com/entertainment/the-special-effects-in-netflixs-the-electric-state-look-amazing-but-we-cant-stop-thinking-about-the-animatronic-mr-peanut-cameo-video)
-- [Yet another AI robotics firm lands major funding, as Dexterity closes latest round](https://techcrunch.com/2025/03/11/yet-another-ai-robotics-firm-lands-major-funding-as-dexterity-closes-latest-round/)
-- [Geothermal could power nearly all new data centers through 2030](https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/)
-- [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/)
+- [OpenAI says it has trained an AI that’s ‘really good’ at creative writing](https://techcrunch.com/2025/03/11/openai-says-it-has-trained-an-ai-thats-really-good-at-creative-writing/)
+- [Life on Mars? It probably looks like something you&#39;d find in your stomach](https://www.space.com/the-universe/mars/life-on-mars-it-probably-looks-like-something-youd-find-in-your-stomach)
+- [DOGE axes CISA ‘red team’ staffers amid ongoing federal cuts](https://techcrunch.com/2025/03/11/doge-axes-cisa-red-team-staffers-amid-ongoing-federal-cuts/)
+- [SpaceX Dragon meets sunrise at launch pad for Crew-10 flight  | Space photo of the day March 11, 2025](https://www.space.com/space-exploration/spacex-dragon-meets-sunrise-at-launch-pad-for-crew-10-flight-space-photo-of-the-day-march-11-2025)
+- [Podcast app Pocket Casts makes its web player free](https://techcrunch.com/2025/03/11/podcast-app-pocket-casts-makes-its-web-player-free/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
