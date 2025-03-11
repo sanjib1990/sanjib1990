@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Does exoplanet K2-18b host alien life or not? Here&#39;s why the debate continues](https://www.space.com/the-universe/exoplanets/does-exoplanet-k2-18b-host-alien-life-or-not-heres-why-the-debate-continues)
 - [Equator closes $55M fund to bring more private capital to African climate tech](https://techcrunch.com/2025/03/11/equator-closes-55m-fund-for-early-stage-climate-tech-startups-in-africa/)
+- [What time is the &#39;Blood Moon&#39; total lunar eclipse this week?](https://www.space.com/what-time-total-lunar-eclipse-march-2025)
 - [Apple’s next major OS updates will bring the biggest design overhaul in years](https://techcrunch.com/2025/03/11/apples-next-major-os-updates-will-bring-the-biggest-design-overhaul-in-years/)
 - [Reshape Energy is using an acquisition playbook to drive energy upgrades for commercial real estate](https://techcrunch.com/2025/03/11/reshape-energy-is-using-an-acquisition-playbook-to-drive-energy-upgrades-for-commercial-real-estate/)
-- [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/10/meet-the-new-vc-firm-secretly-backed-by-volkswagen/)
-- [Startup studio Hexa acquires majority stake in Veevart, a vertical SaaS platform for museums](https://techcrunch.com/2025/03/10/startup-studio-hexa-acquires-majority-stake-in-veevart-a-vertical-saas-for-museums/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
