@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta is reportedly testing in-house chips for AI training](https://techcrunch.com/2025/03/11/meta-is-reportedly-testing-in-house-chips-for-ai-training/)
 - [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/)
 - [Trump says he will label violence against Tesla as domestic terrorism](https://techcrunch.com/2025/03/11/trump-says-he-will-label-violence-against-tesla-as-domestic-terrorism/)
 - [The New Yorker has finally embraced modernity](https://techcrunch.com/2025/03/11/the-new-yorker-has-finally-embraced-modernity/)
 - [IBM’s CEO doesn’t think AI will replace programmers anytime soon](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/)
-- [World&#39;s largest iceberg runs aground in South Atlantic after 1,200-mile journey &lpar;satellite photos&rpar;](https://www.space.com/the-universe/earth/worlds-largest-iceberg-runs-aground-in-south-atlantic-after-1-200-mile-journey-satellite-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
