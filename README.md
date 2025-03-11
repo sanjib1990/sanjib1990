@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump says he will label violence against Tesla as domestic terrorism](https://techcrunch.com/2025/03/11/trump-says-he-will-label-violence-against-tesla-as-domestic-terrorism/)
+- [The New Yorker has finally embraced modernity](https://techcrunch.com/2025/03/11/the-new-yorker-has-finally-embraced-modernity/)
 - [IBM’s CEO doesn’t think AI will replace programmers anytime soon](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/)
 - [World&#39;s largest iceberg runs aground in South Atlantic after 1,200-mile journey &lpar;satellite photos&rpar;](https://www.space.com/the-universe/earth/worlds-largest-iceberg-runs-aground-in-south-atlantic-after-1-200-mile-journey-satellite-photos)
 - [Y Combinator founders raising less money signal a ‘vibe shift,’ VC says](https://techcrunch.com/2025/03/11/y-combinator-founders-raising-less-money-signal-a-vibe-shift-vc-says/)
-- [Apple fixes new security flaw used in ‘extremely sophisticated attack’](https://techcrunch.com/2025/03/11/apple-fixes-new-security-flaw-used-in-extremely-sophisticated-attack/)
-- [OpenAI says it has trained an AI that’s ‘really good’ at creative writing](https://techcrunch.com/2025/03/11/openai-says-it-has-trained-an-ai-thats-really-good-at-creative-writing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
