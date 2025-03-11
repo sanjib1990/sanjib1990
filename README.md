@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple’s next major OS updates will bring the biggest design overhaul in years](https://techcrunch.com/2025/03/11/apples-next-major-os-updates-will-bring-the-biggest-design-overhaul-in-years/)
 - [Reshape Energy is using an acquisition playbook to drive energy upgrades for commercial real estate](https://techcrunch.com/2025/03/11/reshape-energy-is-using-an-acquisition-playbook-to-drive-energy-upgrades-for-commercial-real-estate/)
 - [Meet the new VC firm secretly backed by Volkswagen](https://techcrunch.com/2025/03/10/meet-the-new-vc-firm-secretly-backed-by-volkswagen/)
 - [Startup studio Hexa acquires majority stake in Veevart, a vertical SaaS platform for museums](https://techcrunch.com/2025/03/10/startup-studio-hexa-acquires-majority-stake-in-veevart-a-vertical-saas-for-museums/)
 - [Radiology AI software provider Gleamer expands into MRI with two small acquisitions](https://techcrunch.com/2025/03/10/radiology-ai-software-provider-gleamer-expands-into-mri-with-two-small-acquisitions/)
-- [Infinite Uptime bags $35M to help factories optimize equipment usage](https://techcrunch.com/2025/03/10/infinite-uptime-bags-35m-to-help-factories-optimize-equipment-usage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
