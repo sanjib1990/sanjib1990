@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/)
-- [Private mini rover aboard sideways Athena moon lander was ready to roll — but it couldn&#39;t get out](https://www.space.com/the-universe/moon/private-mini-rover-aboard-sideways-athena-moon-lander-was-ready-to-roll-but-it-couldnt-get-out)
-- [Musk’s Starlink to launch in India through Airtel](https://techcrunch.com/2025/03/11/starlink-india-launch-airtel-partnership/)
-- [Junction, an API to link health wearables with labs, raises $18M](https://techcrunch.com/2025/03/11/junction-an-api-to-link-health-wearables-with-labs-raises-18m/)
-- [Astronaut turned to AI to inspire design of SpaceX Crew-10 mission patch](https://www.space.com/space-exploration/human-spaceflight/astronaut-turned-to-ai-to-inspire-design-of-spacex-crew-10-mission-patch)
+- [BaaS startup Synctera raises $15M, signs Bolt as a customer](https://techcrunch.com/2025/03/11/baas-startup-synctera-raises-15m-signs-bolt-as-a-customer/)
+- [The sibling founders of Stax Payments are back with a new fintech and a $20M seed raise](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/)
+- [The next ice age is coming in 10,000 years — unless climate change prevents it](https://www.space.com/the-universe/earth/the-next-ice-age-is-coming-in-10-000-years-unless-climate-change-prevents-it)
+- [FTC says Americans lost $12.5B to scams last year — social media, AI and crypto didn’t help](https://techcrunch.com/2025/03/11/ftc-says-americans-lost-12-5b-to-scams-last-year-social-media-ai-and-crypto-didnt-help/)
+- [TikTok now lets parents see their teen’s follower/following list, block access during certain hours](https://techcrunch.com/2025/03/11/tiktok-now-lets-parents-see-their-teens-follower-following-list-block-access-during-certain-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
