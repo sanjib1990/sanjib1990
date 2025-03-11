@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn what VCs want to see from founders at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/11/learn-what-vcs-want-to-see-from-founders-at-techcrunch-sessions-ai/)
+- [Private mini rover aboard sideways Athena moon lander was ready to roll — but it couldn&#39;t get out](https://www.space.com/the-universe/moon/private-mini-rover-aboard-sideways-athena-moon-lander-was-ready-to-roll-but-it-couldnt-get-out)
+- [Musk’s Starlink to launch in India through Airtel](https://techcrunch.com/2025/03/11/starlink-india-launch-airtel-partnership/)
 - [Junction, an API to link health wearables with labs, raises $18M](https://techcrunch.com/2025/03/11/junction-an-api-to-link-health-wearables-with-labs-raises-18m/)
 - [Astronaut turned to AI to inspire design of SpaceX Crew-10 mission patch](https://www.space.com/space-exploration/human-spaceflight/astronaut-turned-to-ai-to-inspire-design-of-spacex-crew-10-mission-patch)
-- [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/)
-- [Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt](https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/)
-- [Sola emerges from stealth with $30M to build the ‘Stripe for security’](https://techcrunch.com/2025/03/11/sola-emerges-from-stealth-with-30m-to-build-the-stripe-for-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
