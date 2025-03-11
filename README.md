@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Junction, an API to link health wearables with labs, raises $18M](https://techcrunch.com/2025/03/11/junction-an-api-to-link-health-wearables-with-labs-raises-18m/)
+- [Astronaut turned to AI to inspire design of SpaceX Crew-10 mission patch](https://www.space.com/space-exploration/human-spaceflight/astronaut-turned-to-ai-to-inspire-design-of-spacex-crew-10-mission-patch)
 - [General Fusion fires up its newest steampunk fusion reactor](https://techcrunch.com/2025/03/11/general-fusion-fires-up-its-newest-steampunk-fusion-reactor/)
 - [Zolve, a neobank for global citizens moving to the US, raises $51M and secures $200M debt](https://techcrunch.com/2025/03/11/zolve-a-neobank-for-global-citizens-moving-to-the-us-raises-51m-and-secures-200m-debt/)
 - [Sola emerges from stealth with $30M to build the ‘Stripe for security’](https://techcrunch.com/2025/03/11/sola-emerges-from-stealth-with-30m-to-build-the-stripe-for-security/)
-- [Some say passkeys are clunky — this startup wants to change that](https://techcrunch.com/2025/03/11/some-say-passkeys-are-clunky-this-startup-wants-to-change-that/)
-- [Does exoplanet K2-18b host alien life or not? Here&#39;s why the debate continues](https://www.space.com/the-universe/exoplanets/does-exoplanet-k2-18b-host-alien-life-or-not-heres-why-the-debate-continues)
 <!-- BLOG-POST-LIST:END -->
 
 ---
