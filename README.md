@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo expands its robotaxi service across Silicon Valley](https://techcrunch.com/2025/03/11/waymo-expands-its-robotaxi-service-across-silicon-valley/)
+- [Virtual physical therapists Hinge Health files for IPO, estimated to raise $500M](https://techcrunch.com/2025/03/11/virtual-physical-therapists-hinge-health-files-for-ipo-estimated-to-raise-500m/)
 - [BaaS startup Synctera raises $15M, signs Bolt as a customer](https://techcrunch.com/2025/03/11/baas-startup-synctera-raises-15m-signs-bolt-as-a-customer/)
 - [The sibling founders of Stax Payments are back with a new fintech and a $20M seed raise](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/)
 - [The next ice age is coming in 10,000 years — unless climate change prevents it](https://www.space.com/the-universe/earth/the-next-ice-age-is-coming-in-10-000-years-unless-climate-change-prevents-it)
-- [FTC says Americans lost $12.5B to scams last year — social media, AI and crypto didn’t help](https://techcrunch.com/2025/03/11/ftc-says-americans-lost-12-5b-to-scams-last-year-social-media-ai-and-crypto-didnt-help/)
-- [TikTok now lets parents see their teen’s follower/following list, block access during certain hours](https://techcrunch.com/2025/03/11/tiktok-now-lets-parents-see-their-teens-follower-following-list-block-access-during-certain-hours/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
