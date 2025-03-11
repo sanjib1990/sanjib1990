@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Waymo expands its robotaxi service across Silicon Valley](https://techcrunch.com/2025/03/11/waymo-expands-its-robotaxi-service-across-silicon-valley/)
-- [Virtual physical therapists Hinge Health files for IPO, estimated to raise $500M](https://techcrunch.com/2025/03/11/virtual-physical-therapists-hinge-health-files-for-ipo-estimated-to-raise-500m/)
-- [BaaS startup Synctera raises $15M, signs Bolt as a customer](https://techcrunch.com/2025/03/11/baas-startup-synctera-raises-15m-signs-bolt-as-a-customer/)
-- [The sibling founders of Stax Payments are back with a new fintech and a $20M seed raise](https://techcrunch.com/2025/03/11/the-sibling-founders-of-stax-payments-are-back-with-a-new-fintech-and-a-20m-seed-raise/)
-- [The next ice age is coming in 10,000 years — unless climate change prevents it](https://www.space.com/the-universe/earth/the-next-ice-age-is-coming-in-10-000-years-unless-climate-change-prevents-it)
+- [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/)
+- [Watch sparks fly as Blue Ghost lander drills into the moon &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-sparks-fly-as-blue-ghost-lander-drills-into-the-moon-video)
+- [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/)
+- [Hugging Face expands its LeRobot platform with training data for self-driving machines](https://techcrunch.com/2025/03/11/hugging-face-expands-its-lerobot-platform-with-training-data-for-self-driving-machines/)
+- [The best sci-fi TV shows of the 1960s](https://www.space.com/entertainment/the-best-sci-fi-tv-shows-of-the-1960s)
 <!-- BLOG-POST-LIST:END -->
 
 ---
