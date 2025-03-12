@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/)
+- [Meet the SpaceX Crew-10 astronauts launching to the ISS on March 12](https://www.space.com/space-exploration/human-spaceflight/meet-the-spacex-crew-10-astronauts-launching-to-the-iss)
 - [Salesforce to invest $1B in Singapore to boost adoption of AI](https://techcrunch.com/2025/03/12/salesforce-to-invest-1b-in-singapore-to-boost-adoption-of-ai/)
 - [North Korean government hackers snuck spyware on Android app store](https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/)
 - [Astronomers crack the case of a mysterious deep space radio signal that repeats every 2 hours](https://www.space.com/the-universe/astronomers-crack-the-case-of-a-mysterious-deep-space-radio-signal-that-repeats-every-2-hours)
-- [Scientists discover smallest galaxy ever seen: &#39;It&#39;s like having a perfectly functional human being that&#39;s the size of a grain of rice&#39;](https://www.space.com/the-universe/scientists-discover-smallest-galaxy-ever-seen-its-like-having-a-perfectly-functional-human-being-thats-the-size-of-a-grain-of-rice)
-- [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
