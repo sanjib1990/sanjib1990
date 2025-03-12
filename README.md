@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secrets in the shadows: What lunar eclipses teach us about Earth](https://www.space.com/lunar-eclipse-what-can-scientists-learn)
+- [Water in the universe may have formed closer to the Big Bang than previously thought](https://www.space.com/space-exploration/search-for-life/water-in-the-universe-may-have-formed-closer-to-the-big-bang-than-previously-thought)
+- [Dapr’s microservices runtime now supports AI agents](https://techcrunch.com/2025/03/12/daprs-microservices-runtime-now-supports-ai-agents/)
 - [Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that](https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/)
 - [Moonvalley releases a video generator it claims was trained on licensed content](https://techcrunch.com/2025/03/12/moonvalley-releases-a-video-generator-it-claims-was-trained-on-licensed-content/)
-- [Snap introduces AI Video Lenses powered by its in-house generative model](https://techcrunch.com/2025/03/12/snap-introduces-ai-video-lenses-powered-by-its-in-house-generative-model/)
-- [Who is Galactus, the Devourer of Worlds? Exploring the big bad guy for Marvel&#39;s &#39;The Fantastic Four: First Steps&#39;](https://www.space.com/entertainment/who-is-galactus-the-devourer-of-worlds-exploring-the-big-bad-guy-for-marvels-the-fantastic-four-first-steps)
-- [Garantex administrator arrested in India under extradition law](https://techcrunch.com/2025/03/12/garantex-administrator-arrested-in-india-under-extradition-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
