@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We found 6 Easter eggs in the &#39;Alien: Earth&#39; shorts revealed at SXSW 2025... at least we hope they&#39;re just Easter eggs](https://www.space.com/entertainment/we-found-6-easter-eggs-in-the-alien-earth-shorts-revealed-at-sxsw-2025-at-least-we-hope-theyre-just-easter-eggs)
+- [UK competition probe of mobile browsers finds Apple-Google duopoly is ‘anti-innovation’](https://techcrunch.com/2025/03/12/uk-competition-probe-of-mobile-browsers-finds-apple-google-duopoly-is-anti-innovation/)
+- [Donald Trump Jr. has been boosting MAGA-related startups](https://techcrunch.com/2025/03/12/donald-trump-jr-has-been-boosting-maga-related-startups/)
+- [OpenStack comes to the Linux Foundation](https://techcrunch.com/2025/03/12/openstack-comes-to-the-linux-foundation/)
 - [Secrets in the shadows: What lunar eclipses teach us about Earth](https://www.space.com/lunar-eclipse-what-can-scientists-learn)
-- [Water in the universe may have formed closer to the Big Bang than previously thought](https://www.space.com/space-exploration/search-for-life/water-in-the-universe-may-have-formed-closer-to-the-big-bang-than-previously-thought)
-- [Dapr’s microservices runtime now supports AI agents](https://techcrunch.com/2025/03/12/daprs-microservices-runtime-now-supports-ai-agents/)
-- [Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that](https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/)
-- [Moonvalley releases a video generator it claims was trained on licensed content](https://techcrunch.com/2025/03/12/moonvalley-releases-a-video-generator-it-claims-was-trained-on-licensed-content/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
