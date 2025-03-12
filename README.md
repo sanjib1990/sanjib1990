@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Four Fundamental Subspaces and Least Squares](https://www.youtube.com/watch?v=jY-Mu6XQ3NU)
+- [Elimination and Factorization A = CR](https://www.youtube.com/watch?v=PrErxYzSANo)
+- [Microsoft goes nuclear on TypeScript codebase…](https://www.youtube.com/watch?v=PQ2WjtaPfXU)
 - [2026 OE Global Conference Save the Date Announcement](https://www.youtube.com/watch?v=HJmYjHL_Cc0)
 - [Your Remote Desktop SUCKS!!](https://www.youtube.com/watch?v=-eSTJ2-fszw)
-- [Our AI girlfriends just leveled up big time…](https://www.youtube.com/watch?v=UIVADiGfwWc)
-- [TikTok just released its React Native killer…](https://www.youtube.com/watch?v=-qjE8JkIVoQ)
-- [Twenty, twenty, 24 hours to give…I wanna be educated](https://www.youtube.com/watch?v=3_6SXySMp24)
 <!-- YOUTUBE:END -->
 
 ---
