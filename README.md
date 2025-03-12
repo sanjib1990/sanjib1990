@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser User, one of the tools powering Manus, is also going viral](https://techcrunch.com/2025/03/12/browser-user-one-of-the-tools-powering-manus-is-also-going-viral/)
+- [Google DeepMind unveils new AI models for controlling robots](https://techcrunch.com/2025/03/12/google-deepmind-unveils-new-ai-models-for-controlling-robots/)
+- [The people in Elon Musk’s DOGE universe](https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/)
+- [Browser Use, one of the tools powering Manus, is also going viral](https://techcrunch.com/2025/03/12/browser-use-one-of-the-tools-powering-manus-is-also-going-viral/)
 - [We found 6 Easter eggs in the &#39;Alien: Earth&#39; shorts revealed at SXSW 2025... at least we hope they&#39;re just Easter eggs](https://www.space.com/entertainment/we-found-6-easter-eggs-in-the-alien-earth-shorts-revealed-at-sxsw-2025-at-least-we-hope-theyre-just-easter-eggs)
 - [UK competition probe of mobile browsers finds Apple-Google duopoly is ‘anti-innovation’](https://techcrunch.com/2025/03/12/uk-competition-probe-of-mobile-browsers-finds-apple-google-duopoly-is-anti-innovation/)
-- [Donald Trump Jr. has been boosting MAGA-related startups](https://techcrunch.com/2025/03/12/donald-trump-jr-has-been-boosting-maga-related-startups/)
-- [OpenStack comes to the Linux Foundation](https://techcrunch.com/2025/03/12/openstack-comes-to-the-linux-foundation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
