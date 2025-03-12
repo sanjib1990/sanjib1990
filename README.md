@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta faces publisher copyright AI lawsuit in France](https://techcrunch.com/2025/03/12/meta-faces-publisher-copyright-ai-lawsuit-in-france/)
+- [Ditto lands $82M to synchronize data from the edge to the cloud](https://techcrunch.com/2025/03/12/ditto-lands-82m-to-synchronize-data-from-the-edge-to-the-cloud/)
+- [Pokémon Go maker Niantic is selling its games division to Scopely for $3.5B](https://techcrunch.com/2025/03/12/pokemon-go-maker-niantic-is-selling-its-games-division-to-scopely-for-3-5b/)
+- [Watch a SpaceX rocket launch Crew-10 relief mission for NASA astronauts on ISS tonight](https://www.space.com/space-exploration/international-space-station/watch-a-spacex-rocket-launch-crew-10-relief-mission-for-nasa-astronauts-on-iss-tonight)
 - [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/)
-- [Meet the SpaceX Crew-10 astronauts launching to the ISS on March 12](https://www.space.com/space-exploration/human-spaceflight/meet-the-spacex-crew-10-astronauts-launching-to-the-iss)
-- [Salesforce to invest $1B in Singapore to boost adoption of AI](https://techcrunch.com/2025/03/12/salesforce-to-invest-1b-in-singapore-to-boost-adoption-of-ai/)
-- [North Korean government hackers snuck spyware on Android app store](https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/)
-- [Astronomers crack the case of a mysterious deep space radio signal that repeats every 2 hours](https://www.space.com/the-universe/astronomers-crack-the-case-of-a-mysterious-deep-space-radio-signal-that-repeats-every-2-hours)
 <!-- BLOG-POST-LIST:END -->
 
 ---
