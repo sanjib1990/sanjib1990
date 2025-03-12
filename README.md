@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Onyx thinks its open-source solution will win enterprise search](https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/)
+- [Lithium-ion batteries are remaking Google’s data centers](https://techcrunch.com/2025/03/12/lithium-ion-batteries-are-remaking-googles-data-centers/)
+- [Project Europe, a new early stage fund, will back people under 25 to build the next tech titan](https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/)
+- [Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden](https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/)
 - [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/)
-- [Wispy comet photobombs &#39;rare&#39; planetary parade above Chile&#39;s Atacama Desert &lpar;photos&rpar;](https://www.space.com/stargazing/wispy-comet-photobombs-rare-planetary-parade-above-chiles-atacama-desert-photos)
-- [Pentera nabs $60M at a $1B+ valuation to build simulated network attacks to train security teams](https://techcrunch.com/2025/03/12/pentera-nabs-60m-at-a-1b-valuation-to-build-simulated-network-attacks-to-train-security-teams/)
-- [Wolf Games, backed by ‘Law &amp; Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/)
-- [Total lunar eclipse March 2025 livestreams: Where to watch the &#39;Blood Moon&#39; online for free](https://www.space.com/total-lunar-eclipse-march-2025-livestreams)
 <!-- BLOG-POST-LIST:END -->
 
 ---
