@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce to invest $1B in Singapore to boost adoption of AI](https://techcrunch.com/2025/03/12/salesforce-to-invest-1b-in-singapore-to-boost-adoption-of-ai/)
+- [North Korean government hackers snuck spyware on Android app store](https://techcrunch.com/2025/03/12/north-korean-government-hackers-snuck-spyware-on-android-app-store/)
+- [Astronomers crack the case of a mysterious deep space radio signal that repeats every 2 hours](https://www.space.com/the-universe/astronomers-crack-the-case-of-a-mysterious-deep-space-radio-signal-that-repeats-every-2-hours)
 - [Scientists discover smallest galaxy ever seen: &#39;It&#39;s like having a perfectly functional human being that&#39;s the size of a grain of rice&#39;](https://www.space.com/the-universe/scientists-discover-smallest-galaxy-ever-seen-its-like-having-a-perfectly-functional-human-being-thats-the-size-of-a-grain-of-rice)
 - [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/)
-- [Uber terminates Foodpanda Taiwan acquisition, citing regulatory hurdles](https://techcrunch.com/2025/03/11/uber-terminates-foodpanda-taiwan-acquisition-citing-regulatory-hurdles/)
-- [Jio announces deal to bring Starlink to India just hours after similar Airtel  partnership](https://techcrunch.com/2025/03/11/jio-announces-deal-to-bring-starlink-to-india-just-hours-after-similar-airtel-partnership/)
-- [SpaceX rocket launches NASA SPHEREx space telescope and PUNCH solar probes &lpar;video&rpar;](https://www.space.com/space-exploration/missions/spacex-rocket-launches-nasa-spherex-space-telescope-and-punch-solar-probes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
