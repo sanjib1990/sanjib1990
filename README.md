@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elea AI is chasing the healthcare productivity opportunity by targeting pathology labs’ legacy systems](https://techcrunch.com/2025/03/12/elea-ai-is-chasing-the-healthcare-productivity-opportunity-by-targeting-pathology-labs-legacy-systems/)
 - [Uber terminates Foodpanda Taiwan acquisition, citing regulatory hurdles](https://techcrunch.com/2025/03/11/uber-terminates-foodpanda-taiwan-acquisition-citing-regulatory-hurdles/)
 - [Jio announces deal to bring Starlink to India just hours after similar Airtel  partnership](https://techcrunch.com/2025/03/11/jio-announces-deal-to-bring-starlink-to-india-just-hours-after-similar-airtel-partnership/)
 - [SpaceX rocket launches NASA SPHEREx space telescope and PUNCH solar probes &lpar;video&rpar;](https://www.space.com/space-exploration/missions/spacex-rocket-launches-nasa-spherex-space-telescope-and-punch-solar-probes)
 - [Tata Technologies’ data leaked by ransomware gang](https://techcrunch.com/2025/03/11/tata-technologies-data-leaked-by-ransomware-gang/)
-- [Spotify says its payouts are getting better, but artists still disagree](https://techcrunch.com/2025/03/11/spotify-says-its-payouts-are-getting-better-but-artists-still-disagree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
