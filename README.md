@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Onyx thinks its open-source solution will win enterprise search](https://techcrunch.com/2025/03/12/why-onyx-thinks-its-open-source-solution-will-win-enterprise-search/)
-- [Lithium-ion batteries are remaking Google’s data centers](https://techcrunch.com/2025/03/12/lithium-ion-batteries-are-remaking-googles-data-centers/)
-- [Project Europe, a new early stage fund, will back people under 25 to build the next tech titan](https://techcrunch.com/2025/03/12/project-europe-a-new-early-stage-fund-will-back-under-25s-with-200k-to-build-the-next-tech-titan/)
-- [Battery manufacturer Northvolt nears the end as it files for bankruptcy in Sweden](https://techcrunch.com/2025/03/12/battery-manufacturer-northvolt-nears-the-end-as-it-files-for-bankruptcy-in-sweden/)
-- [How La Fourche, an online organic supermarket, is thriving after q-commerce’s bust](https://techcrunch.com/2025/03/12/how-la-fourche-an-online-organic-supermarket-is-thriving-after-q-commerces-bust/)
+- [Sakana claims its AI-generated paper passed peer review — but it’s a bit more nuanced than that](https://techcrunch.com/2025/03/12/sakana-claims-its-ai-paper-passed-peer-review-but-its-a-bit-more-nuanced-than-that/)
+- [Moonvalley releases a video generator it claims was trained on licensed content](https://techcrunch.com/2025/03/12/moonvalley-releases-a-video-generator-it-claims-was-trained-on-licensed-content/)
+- [Snap introduces AI Video Lenses powered by its in-house generative model](https://techcrunch.com/2025/03/12/snap-introduces-ai-video-lenses-powered-by-its-in-house-generative-model/)
+- [Who is Galactus, the Devourer of Worlds? Exploring the big bad guy for Marvel&#39;s &#39;The Fantastic Four: First Steps&#39;](https://www.space.com/entertainment/who-is-galactus-the-devourer-of-worlds-exploring-the-big-bad-guy-for-marvels-the-fantastic-four-first-steps)
+- [Garantex administrator arrested in India under extradition law](https://techcrunch.com/2025/03/12/garantex-administrator-arrested-in-india-under-extradition-law/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
