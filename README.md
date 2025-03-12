@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google DeepMind unveils new AI models for controlling robots](https://techcrunch.com/2025/03/12/google-deepmind-unveils-new-ai-models-for-controlling-robots/)
-- [The people in Elon Musk’s DOGE universe](https://techcrunch.com/2025/03/12/the-people-in-elon-musk-doge-universe/)
-- [Browser Use, one of the tools powering Manus, is also going viral](https://techcrunch.com/2025/03/12/browser-use-one-of-the-tools-powering-manus-is-also-going-viral/)
-- [We found 6 Easter eggs in the &#39;Alien: Earth&#39; shorts revealed at SXSW 2025... at least we hope they&#39;re just Easter eggs](https://www.space.com/entertainment/we-found-6-easter-eggs-in-the-alien-earth-shorts-revealed-at-sxsw-2025-at-least-we-hope-theyre-just-easter-eggs)
-- [UK competition probe of mobile browsers finds Apple-Google duopoly is ‘anti-innovation’](https://techcrunch.com/2025/03/12/uk-competition-probe-of-mobile-browsers-finds-apple-google-duopoly-is-anti-innovation/)
+- [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/)
+- [Intel appoints Lip-Bu Tan as its next CEO](https://techcrunch.com/2025/03/12/intel-appoints-lip-bu-tan-as-its-next-ceo/)
+- [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/)
+- [SpaceX Crew-10 astronauts depart for launch pad ahead of liftoff &lpar;video, photos&rpar;](https://www.space.com/space-exploration/international-space-station/spacex-crew-10-astronauts-depart-for-launch-pad-ahead-of-liftoff-photos)
+- [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/12/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
