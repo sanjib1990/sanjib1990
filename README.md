@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX rocket launches NASA SPHEREx space telescope and PUNCH solar probes](https://www.space.com/space-exploration/missions/spacex-rocket-launches-nasa-spherex-space-telescope-and-punch-solar-probes)
+- [Tata Technologies’ data leaked by ransomware gang](https://techcrunch.com/2025/03/11/tata-technologies-data-leaked-by-ransomware-gang/)
+- [Spotify says its payouts are getting better, but artists still disagree](https://techcrunch.com/2025/03/11/spotify-says-its-payouts-are-getting-better-but-artists-still-disagree/)
 - [Google has given Anthropic more funding than previously known, show new filings](https://techcrunch.com/2025/03/11/google-has-given-anthropic-more-funding-than-previously-known-show-new-filings/)
 - [Meta is reportedly testing in-house chips for AI training](https://techcrunch.com/2025/03/11/meta-is-reportedly-testing-in-house-chips-for-ai-training/)
-- [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/)
-- [Trump says he will label violence against Tesla as domestic terrorism](https://techcrunch.com/2025/03/11/trump-says-he-will-label-violence-against-tesla-as-domestic-terrorism/)
-- [The New Yorker has finally embraced modernity](https://techcrunch.com/2025/03/11/the-new-yorker-has-finally-embraced-modernity/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
