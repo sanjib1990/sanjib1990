@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google has given Anthropic more funding than previously known, show new filings](https://techcrunch.com/2025/03/11/google-has-given-anthropic-more-funding-than-previously-known-show-new-filings/)
 - [Meta is reportedly testing in-house chips for AI training](https://techcrunch.com/2025/03/11/meta-is-reportedly-testing-in-house-chips-for-ai-training/)
 - [Bolt CEO Ryan Breslow explains his troubled $30M personal loan, announces new ‘super app’](https://techcrunch.com/2025/03/11/bolt-ceo-ryan-breslow-explains-his-troubled-30m-personal-loan-announces-new-super-app/)
 - [Trump says he will label violence against Tesla as domestic terrorism](https://techcrunch.com/2025/03/11/trump-says-he-will-label-violence-against-tesla-as-domestic-terrorism/)
 - [The New Yorker has finally embraced modernity](https://techcrunch.com/2025/03/11/the-new-yorker-has-finally-embraced-modernity/)
-- [IBM’s CEO doesn’t think AI will replace programmers anytime soon](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
