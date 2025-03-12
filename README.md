@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pentera nabs $60M at a $1B+ valuation to build simulated network attacks to train security teams](https://techcrunch.com/2025/03/12/pentera-nabs-60m-at-a-1b-valuation-to-build-simulated-network-attacks-to-train-security-teams/)
+- [Wolf Games, backed by ‘Law &amp; Order’ creator, uses AI to create murder mystery games](https://techcrunch.com/2025/03/12/wolf-games-backed-by-law-order-creator-uses-ai-to-create-murder-mystery-games/)
+- [Total lunar eclipse March 2025 livestreams: Where to watch the &#39;Blood Moon&#39; online for free](https://www.space.com/total-lunar-eclipse-march-2025-livestreams)
 - [Meta faces publisher copyright AI lawsuit in France](https://techcrunch.com/2025/03/12/meta-faces-publisher-copyright-ai-lawsuit-in-france/)
 - [Ditto lands $82M to synchronize data from the edge to the cloud](https://techcrunch.com/2025/03/12/ditto-lands-82m-to-synchronize-data-from-the-edge-to-the-cloud/)
-- [Pokémon Go maker Niantic is selling its games division to Scopely for $3.5B](https://techcrunch.com/2025/03/12/pokemon-go-maker-niantic-is-selling-its-games-division-to-scopely-for-3-5b/)
-- [Watch a SpaceX rocket launch Crew-10 relief mission for NASA astronauts on ISS tonight](https://www.space.com/space-exploration/international-space-station/watch-a-spacex-rocket-launch-crew-10-relief-mission-for-nasa-astronauts-on-iss-tonight)
-- [Scimplify raises $40M to help manufacturers access specialty chemicals](https://techcrunch.com/2025/03/12/scimplify-raises-40m-to-help-manufacturers-access-specialty-chemicals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
