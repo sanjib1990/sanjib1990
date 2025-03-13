@@ -82,7 +82,7 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ditch your AI subscriptions…host them yourself! &lpar;cheaper + unlimited access&rpar;](https://www.youtube.com/watch?v=nQCOTzS5oU0)
+- [I’m changing how I use AI &lpar;Open WebUI + LiteLLM&rpar;](https://www.youtube.com/watch?v=nQCOTzS5oU0)
 - [The annual MIT giving day begins now!  #shorts #MIT24 #education #free #giveback](https://www.youtube.com/watch?v=YIUo_DHeTMQ)
 - [The Four Fundamental Subspaces and Least Squares](https://www.youtube.com/watch?v=jY-Mu6XQ3NU)
 - [Elimination and Factorization A = CR](https://www.youtube.com/watch?v=PrErxYzSANo)
