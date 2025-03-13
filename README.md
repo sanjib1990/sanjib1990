@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX calls off Crew-10 astronaut launch for NASA due to hydraulics issue &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/spacex-scrubs-crew-10-astronaut-launch-for-nasa-due-to-hydraulics-issue-video)
+- [As Intel welcomes a new CEO, a look at where the company stands](https://techcrunch.com/2025/03/12/as-intel-welcomes-a-new-ceo-a-look-at-where-the-company-stands/)
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/)
 - [Intel appoints Lip-Bu Tan as its next CEO](https://techcrunch.com/2025/03/12/intel-appoints-lip-bu-tan-as-its-next-ceo/)
 - [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/)
-- [SpaceX Crew-10 astronauts depart for launch pad ahead of liftoff &lpar;video, photos&rpar;](https://www.space.com/space-exploration/international-space-station/spacex-crew-10-astronauts-depart-for-launch-pad-ahead-of-liftoff-photos)
-- [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/12/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
