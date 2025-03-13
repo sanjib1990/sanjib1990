@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta is launching Community Notes in the US next week](https://techcrunch.com/2025/03/13/meta-is-launching-community-notes-in-the-us-next-week/)
-- [SpaceX launches 21 Starlink broadband satellites to orbit from Florida &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-12-21)
-- [Singapore grants bail for Nvidia chip smugglers in alleged $390M fraud](https://techcrunch.com/2025/03/13/singapore-grants-bail-for-nvidia-chip-smugglers-in-alleged-390m-fraud/)
-- [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/)
-- [Crypto wallet integrated with Telegram introduces crypto trading and yield features](https://techcrunch.com/2025/03/13/telegram-introduces-trading-and-yield-features-for-its-self-custodial-crypto-wallet/)
+- [UiPath is looking for a path to growth in agentic AI with its Peak.ai acquisition](https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/)
+- [Omni raises $69M to design tools that help companies better analyze their data](https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/)
+- [Skich launches an alternative app store on iOS in the EU](https://techcrunch.com/2025/03/13/skich-challenges-epic-games-with-an-alternative-app-store-on-ios-in-the-eu/)
+- [ClickUp is launching a revamped calendar tool for task and meeting management](https://techcrunch.com/2025/03/13/clickup-is-launching-a-revamped-calendar-tool-for-task-and-meeting-management/)
+- [Dead Athena moon lander seen inside its crater grave from lunar orbit &lpar;photos&rpar;](https://www.space.com/the-universe/moon/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
