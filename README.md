@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/13/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/)
-- [5 ways TechCrunch Sessions: AI will fuel your AI growth](https://techcrunch.com/2025/03/13/5-ways-techcrunch-sessions-ai-will-fuel-your-ai-growth/)
-- [Xbox debuts a new AI-powered gaming companion for mobile users](https://techcrunch.com/2025/03/13/xbox-debuts-a-new-ai-powered-gaming-companion/)
-- [Apple’s appeal against UK’s secret iCloud backdoor order must be held in public, rights groups urge](https://techcrunch.com/2025/03/13/apples-appeal-against-uks-secret-icloud-backdoor-order-must-be-held-in-public-rights-groups-urge/)
-- [Spotify launches a program to publish audiobooks from independent authors](https://techcrunch.com/2025/03/13/spotify-launches-a-program-to-publish-audiobooks-from-independent-authors/)
+- [Google wants Gemini to get to know you better](https://techcrunch.com/2025/03/13/google-wants-gemini-to-get-to-know-you-better/)
+- [How to spot fake images of the &#39;Blood Worm Moon&#39; total lunar eclipse](https://www.space.com/how-to-spot-fake-lunar-eclipse-images)
+- [Google introduces new developer tools and titles for games on mobile and PC](https://techcrunch.com/2025/03/13/google-introduces-new-developer-tools-and-titles-for-games-on-mobile-and-pc/)
+- [Geothermal unicorn Fervo Energy may IPO as early as next year](https://techcrunch.com/2025/03/13/geothermal-unicorn-fervo-energy-may-ipo-as-early-as-next-year/)
+- [OpenAI’s ‘creative writing’ AI evokes that annoying kid from high school fiction club](https://techcrunch.com/2025/03/13/openais-creative-writing-ai-evokes-that-annoying-kid-from-high-school-fiction-club/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
