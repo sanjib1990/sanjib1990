@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tom Hanks at &#39;Moonwalkers&#39; film premiere predicts getting busy on moon](https://www.space.com/space-exploration/apollo/tom-hanks-at-moonwalkers-film-premiere-predicts-getting-busy-on-moon)
+- [Oracle is reportedly a top choice for helping run TikTok](https://techcrunch.com/2025/03/13/oracle-is-reportedly-a-top-choice-for-storing-u-s-tiktok-user-data/)
+- [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/)
+- [Google calls for weakened copyright and export rules in AI policy proposal](https://techcrunch.com/2025/03/13/google-calls-for-weakened-copyright-and-export-rules-in-ai-policy-proposal/)
 - [Move over, Apple: Meet the alternative app stores coming to the EU](https://techcrunch.com/2025/03/13/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/)
-- [Amazon is still hosting stalkerware victims’ data weeks after breach alert](https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/)
-- [The 1st full live-action &#39;Lilo and Stitch&#39; remake just dropped and fine, we admit it: it looks fantastic &lpar;video&rpar;](https://www.space.com/entertainment/the-1st-full-live-action-lilo-and-stitch-remake-just-dropped-and-fine-we-admit-it-it-looks-fantastic-video)
-- [Ex-Twitter AI ethics lead Rumman Chowdhury is worried about Musk’s impact on the federal government](https://techcrunch.com/2025/03/13/ex-twitter-ai-ethics-lead-rumman-chowdhury-is-worried-about-musks-impact-on-the-federal-government/)
-- [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
