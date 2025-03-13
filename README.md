@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saturn officially has 128 more moons](https://www.space.com/the-universe/saturn/saturn-officially-has-128-more-moons)
 - [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/13/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/)
-- [Huawei’s lobbying lands it in a bribery scandal with EU politicians](https://techcrunch.com/2025/03/13/huaweis-lobbying-lands-it-in-a-bribery-scandal-with-eu-politicians/)
-- [&#39;Blood Worm Moon&#39; US weather forecast: Best places to see tonight&#39;s total lunar eclipse](https://www.space.com/stargazing/eclipses/total-blood-moon-lunar-eclipse-2025-what-is-the-us-weather-forecast-for-march-13)
-- [UiPath is looking for a path to growth in agentic AI with its Peak.ai acquisition](https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/)
+- [5 ways TechCrunch Sessions: AI will fuel your AI growth](https://techcrunch.com/2025/03/13/5-ways-techcrunch-sessions-ai-will-fuel-your-ai-growth/)
+- [Xbox debuts a new AI-powered gaming companion for mobile users](https://techcrunch.com/2025/03/13/xbox-debuts-a-new-ai-powered-gaming-companion/)
+- [Apple’s appeal against UK’s secret iCloud backdoor order must be held in public, rights groups urge](https://techcrunch.com/2025/03/13/apples-appeal-against-uks-secret-icloud-backdoor-order-must-be-held-in-public-rights-groups-urge/)
+- [Spotify launches a program to publish audiobooks from independent authors](https://techcrunch.com/2025/03/13/spotify-launches-a-program-to-publish-audiobooks-from-independent-authors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
