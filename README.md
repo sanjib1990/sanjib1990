@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Facebook now lets creators get paid for views on stories](https://techcrunch.com/2025/03/13/facebook-now-lets-creators-get-paid-for-views-on-stories/)
-- [Capri Sun takes a swing at an eclipse with limited &#39;Moon Punch&#39; drink](https://www.space.com/stargazing/eclipses/capri-sun-takes-a-swing-at-an-eclipse-with-limited-moon-punch-drink)
-- [Apple’s Lockdown Mode is good for security — but its notifications are baffling](https://techcrunch.com/2025/03/13/apples-lockdown-mode-is-good-for-security-but-its-notifications-are-baffling/)
-- [Meghan Markle is launching a podcast about female founders](https://techcrunch.com/2025/03/13/meghan-markle-is-launching-a-podcast-about-female-founders/)
-- [Tiny Mars moon Deimos gets a rare close-up, thanks to Europe&#39;s Hera asteroid probe &lpar;photos&rpar;](https://www.space.com/the-universe/mars/tiny-mars-moon-deimos-gets-a-rare-close-up-thanks-to-europes-hera-asteroid-probe-photos)
+- [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/)
+- [Watch moon dust fly as private Blue Ghost lunar lander touches down &lpar;video&rpar;](https://www.space.com/the-universe/moon/watch-moon-dust-fly-as-private-blue-ghost-lunar-lander-touches-down-video)
+- [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/)
+- [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
+- [ESA&#39;s Hera probe trains its cameras at Mars&#39; moon Deimos  | Space photo of the day March 13, 2025](https://www.space.com/space-exploration/esas-hera-probe-trains-its-cameras-at-mars-moon-deimos-space-photo-of-the-day-march-13-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
