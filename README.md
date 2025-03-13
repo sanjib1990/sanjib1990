@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Move over, Apple: Meet the alternative app stores coming to the EU](https://techcrunch.com/2025/03/13/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/)
+- [Amazon is still hosting stalkerware victims’ data weeks after breach alert](https://techcrunch.com/2025/03/13/amazon-is-still-hosting-stalkerware-victims-data-weeks-after-breach-alert/)
+- [The 1st full live-action &#39;Lilo and Stitch&#39; remake just dropped and fine, we admit it: it looks fantastic &lpar;video&rpar;](https://www.space.com/entertainment/the-1st-full-live-action-lilo-and-stitch-remake-just-dropped-and-fine-we-admit-it-it-looks-fantastic-video)
+- [Ex-Twitter AI ethics lead Rumman Chowdhury is worried about Musk’s impact on the federal government](https://techcrunch.com/2025/03/13/ex-twitter-ai-ethics-lead-rumman-chowdhury-is-worried-about-musks-impact-on-the-federal-government/)
 - [Minimalist Light Phone III launches March 27](https://techcrunch.com/2025/03/13/minimalist-light-phone-iii-launches-march-27/)
-- [Watch moon dust fly as private Blue Ghost lunar lander touches down &lpar;video&rpar;](https://www.space.com/the-universe/moon/watch-moon-dust-fly-as-private-blue-ghost-lunar-lander-touches-down-video)
-- [10 startups to watch from Y Combinator’s W25 Demo Day](https://techcrunch.com/2025/03/13/10-startups-to-watch-from-y-combinators-w25-demo-day/)
-- [FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
-- [ESA&#39;s Hera probe trains its cameras at Mars&#39; moon Deimos  | Space photo of the day March 13, 2025](https://www.space.com/space-exploration/esas-hera-probe-trains-its-cameras-at-mars-moon-deimos-space-photo-of-the-day-march-13-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
