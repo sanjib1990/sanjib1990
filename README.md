@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Travis Kalanick thinks Uber screwed up: “Wish we had an autonomous ride-sharing product”](https://techcrunch.com/2025/03/12/travis-kalanick-thinks-uber-screwed-up-wish-we-had-an-autonomous-ride-sharing-product/)
 - [SpaceX calls off Crew-10 astronaut launch for NASA due to hydraulics issue &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/spacex-scrubs-crew-10-astronaut-launch-for-nasa-due-to-hydraulics-issue-video)
 - [As Intel welcomes a new CEO, a look at where the company stands](https://techcrunch.com/2025/03/12/as-intel-welcomes-a-new-ceo-a-look-at-where-the-company-stands/)
 - [Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’](https://techcrunch.com/2025/03/12/anthropic-ceo-says-spies-are-after-100m-ai-secrets-in-a-few-lines-of-code/)
 - [Intel appoints Lip-Bu Tan as its next CEO](https://techcrunch.com/2025/03/12/intel-appoints-lip-bu-tan-as-its-next-ceo/)
-- [Food delivery startup Wonder acquires media company Tastemade for $90M](https://techcrunch.com/2025/03/12/food-delivery-startup-wonder-acquires-media-company-tastemade-for-90m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
