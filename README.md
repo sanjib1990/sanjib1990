@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android is adding Auracast support, which allows hearing aids to connect to public audio broadcasts](https://techcrunch.com/2025/03/13/android-is-adding-auracast-support-which-allows-hearing-aids-to-connect-to-public-audio-broadcasts/)
+- [Former Google chief Eric Schmidt takes the reins at rocket startup Relativity Space](https://www.space.com/space-exploration/launches-spacecraft/former-google-chief-eric-schmidt-takes-the-reins-at-rocket-startup-relativity-space)
+- [Y Combinator urges the White House to support Europe’s Digital Markets Act](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/)
 - [Tom Hanks at &#39;Moonwalkers&#39; film premiere predicts getting busy on moon](https://www.space.com/space-exploration/apollo/tom-hanks-at-moonwalkers-film-premiere-predicts-getting-busy-on-moon)
 - [Oracle is reportedly a top choice for helping run TikTok](https://techcrunch.com/2025/03/13/oracle-is-reportedly-a-top-choice-for-storing-u-s-tiktok-user-data/)
-- [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/)
-- [Google calls for weakened copyright and export rules in AI policy proposal](https://techcrunch.com/2025/03/13/google-calls-for-weakened-copyright-and-export-rules-in-ai-policy-proposal/)
-- [Move over, Apple: Meet the alternative app stores coming to the EU](https://techcrunch.com/2025/03/13/move-over-apple-meet-the-alternative-app-stores-coming-to-the-eu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
