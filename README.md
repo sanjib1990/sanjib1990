@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Singapore grants bail for Nvidia chip smugglers in alleged $390M fraud](https://techcrunch.com/2025/03/13/singapore-grants-bail-for-nvidia-chip-smugglers-in-alleged-390m-fraud/)
+- [Bria lands new funding for AI models trained on licensed data](https://techcrunch.com/2025/03/13/bria-lands-new-funding-for-ai-models-trained-on-licensed-data/)
+- [Telegram introduces trading and yield features for its self-custodial crypto wallet](https://techcrunch.com/2025/03/13/telegram-introduces-trading-and-yield-features-for-its-self-custodial-crypto-wallet/)
 - [A total lunar eclipse comes to North America tonight: Here&#39;s everything you need to know about the &#39;Blood Worm Moon&#39;](https://www.space.com/total-lunar-eclipse-tonight-march-2025-visibility-tips)
 - [Could deeptech serve as Europe’s  path to autonomy from the US?](https://techcrunch.com/2025/03/13/could-europes-16b-deeptech-bet-be-a-path-to-autonomy-from-the-us/)
-- [Is our universe trapped inside a black hole? This James Webb Space Telescope discovery might blow your mind](https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind)
-- [Xiaomi to preinstall PhonePe’s app store on smartphones sold in India](https://techcrunch.com/2025/03/13/xiaomi-to-preinstall-phonepes-app-store-on-smartphones-sold-in-india/)
-- [Estonia-based Blackwall raises €45 million Series B to protect SMBs from malicious online traffic](https://techcrunch.com/2025/03/12/estonia-based-blackwall-raises-e45-million-series-b-to-protect-smbs-from-malicious-online-traffic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
