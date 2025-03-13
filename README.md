@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn officially has 128 more moons](https://www.space.com/the-universe/saturn/saturn-officially-has-128-more-moons)
+- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/13/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/)
+- [Huawei’s lobbying lands it in a bribery scandal with EU politicians](https://techcrunch.com/2025/03/13/huaweis-lobbying-lands-it-in-a-bribery-scandal-with-eu-politicians/)
+- [&#39;Blood Worm Moon&#39; US weather forecast: Best places to see tonight&#39;s total lunar eclipse](https://www.space.com/stargazing/eclipses/total-blood-moon-lunar-eclipse-2025-what-is-the-us-weather-forecast-for-march-13)
 - [UiPath is looking for a path to growth in agentic AI with its Peak.ai acquisition](https://techcrunch.com/2025/03/13/uipath-is-looking-for-a-path-to-growth-in-agentic-ai-with-its-peak-ai-acquisition/)
-- [Omni raises $69M to design tools that help companies better analyze their data](https://techcrunch.com/2025/03/13/omni-is-designing-tools-to-help-companies-make-data-driven-decisions/)
-- [Skich launches an alternative app store on iOS in the EU](https://techcrunch.com/2025/03/13/skich-challenges-epic-games-with-an-alternative-app-store-on-ios-in-the-eu/)
-- [ClickUp is launching a revamped calendar tool for task and meeting management](https://techcrunch.com/2025/03/13/clickup-is-launching-a-revamped-calendar-tool-for-task-and-meeting-management/)
-- [Dead Athena moon lander seen inside its crater grave from lunar orbit &lpar;photos&rpar;](https://www.space.com/the-universe/moon/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
