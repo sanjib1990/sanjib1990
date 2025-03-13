@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi to preinstall PhonePe’s app store on smartphones sold in India](https://techcrunch.com/2025/03/13/xiaomi-to-preinstall-phonepes-app-store-on-smartphones-sold-in-india/)
 - [Estonia-based Blackwall raises €45 million Series B to protect SMBs from malicious online traffic](https://techcrunch.com/2025/03/12/estonia-based-blackwall-raises-e45-million-series-b-to-protect-smbs-from-malicious-online-traffic/)
 - [Vento rolls out new €75M fund for Italian founders, no matter where they live](https://techcrunch.com/2025/03/12/vento-hopes-new-e75m-fund-for-italian-founders-anywhere-will-kick-italys-ecosystem-into-life/)
 - [Travis Kalanick thinks Uber screwed up: “Wish we had an autonomous ride-sharing product”](https://techcrunch.com/2025/03/12/travis-kalanick-thinks-uber-screwed-up-wish-we-had-an-autonomous-ride-sharing-product/)
 - [SpaceX calls off Crew-10 astronaut launch for NASA due to hydraulics issue &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/spacex-scrubs-crew-10-astronaut-launch-for-nasa-due-to-hydraulics-issue-video)
-- [As Intel welcomes a new CEO, a look at where the company stands](https://techcrunch.com/2025/03/12/as-intel-welcomes-a-new-ceo-a-look-at-where-the-company-stands/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
