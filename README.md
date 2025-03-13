@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rad Power Bikes already has a new CEO](https://techcrunch.com/2025/03/13/rad-power-bikes-already-has-a-new-ceo/)
+- [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/)
 - [Android is adding Auracast support, which allows hearing aids to connect to public audio broadcasts](https://techcrunch.com/2025/03/13/android-is-adding-auracast-support-which-allows-hearing-aids-to-connect-to-public-audio-broadcasts/)
 - [Former Google chief Eric Schmidt takes the reins at rocket startup Relativity Space](https://www.space.com/space-exploration/launches-spacecraft/former-google-chief-eric-schmidt-takes-the-reins-at-rocket-startup-relativity-space)
 - [Y Combinator urges the White House to support Europe’s Digital Markets Act](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/)
-- [Tom Hanks at &#39;Moonwalkers&#39; film premiere predicts getting busy on moon](https://www.space.com/space-exploration/apollo/tom-hanks-at-moonwalkers-film-premiere-predicts-getting-busy-on-moon)
-- [Oracle is reportedly a top choice for helping run TikTok](https://techcrunch.com/2025/03/13/oracle-is-reportedly-a-top-choice-for-storing-u-s-tiktok-user-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
