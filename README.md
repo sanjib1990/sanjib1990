@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Poppy seeds&#39; and &#39;leopard spots&#39; on Mars could hint at ancient microbial life](https://www.space.com/space-exploration/search-for-life/poppy-seeds-and-leopard-spots-on-mars-could-hint-at-ancient-microbial-life)
+- [Google is replacing Google Assistant with Gemini](https://techcrunch.com/2025/03/14/google-is-replacing-google-assistant-with-gemini/)
+- [‘Open’ model licenses often carry concerning restrictions](https://techcrunch.com/2025/03/14/open-model-licenses-often-carry-concerning-restrictions/)
+- [TechCrunch Mobility: Testing the Uber-Waymo robotaxi, Rivian goes hands-free, and Travis Kalanick has AV FOMO](https://techcrunch.com/2025/03/14/techcrunch-mobility-testing-the-uber-waymo-robotaxi-rivian-goes-hands-free-and-travis-kalanick-has-av-fomo/)
 - [13 faster-than-light travel methods from sci-fi that leave Einstein&#39;s theory of relativity in their space dust](https://www.space.com/entertainment/13-faster-than-light-travel-methods-from-sci-fi-that-leave-einsteins-theory-of-relativity-in-their-space-dust)
-- [AT&amp;T technician Mark Klein, who exposed secret NSA spying, dies](https://techcrunch.com/2025/03/14/att-technician-mark-klein-who-exposed-secret-nsa-spying-dies/)
-- [Space photo of the day: Total lunar eclipse crosses the sky above SpaceX&#39;s Crew-10 spacecraft and Falcon 9 rocket](https://www.space.com/space-exploration/launches-spacecraft/total-lunar-eclipse-crosses-the-sky-above-spacexs-crew-10-spacecraft-and-falcon-9-rocket-space-photo-of-the-day-march-14-2025)
-- [Tern AI’s low-cost GPS alternative actually works](https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/)
-- [HTC Vive are offering big discounts on select VR headsets this March](https://www.space.com/entertainment/htc-vive-march-deals-save-200-dollars-pro-2-flow)
 <!-- BLOG-POST-LIST:END -->
 
 ---
