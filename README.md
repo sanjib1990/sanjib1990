@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Warhammer 40,000: Space Marine 3&#39; has been officially announced, but you&#39;ll have to wait a while to purge more alien scum](https://www.space.com/entertainment/space-games-toys/warhammer-40-000-space-marine-3-has-been-officially-announced-but-youll-have-to-wait-a-while-to-purge-more-alien-scum)
 - [&#39;Poppy seeds&#39; and &#39;leopard spots&#39; on Mars could hint at ancient microbial life](https://www.space.com/space-exploration/search-for-life/poppy-seeds-and-leopard-spots-on-mars-could-hint-at-ancient-microbial-life)
 - [Google is replacing Google Assistant with Gemini](https://techcrunch.com/2025/03/14/google-is-replacing-google-assistant-with-gemini/)
 - [‘Open’ model licenses often carry concerning restrictions](https://techcrunch.com/2025/03/14/open-model-licenses-often-carry-concerning-restrictions/)
 - [TechCrunch Mobility: Testing the Uber-Waymo robotaxi, Rivian goes hands-free, and Travis Kalanick has AV FOMO](https://techcrunch.com/2025/03/14/techcrunch-mobility-testing-the-uber-waymo-robotaxi-rivian-goes-hands-free-and-travis-kalanick-has-av-fomo/)
-- [13 faster-than-light travel methods from sci-fi that leave Einstein&#39;s theory of relativity in their space dust](https://www.space.com/entertainment/13-faster-than-light-travel-methods-from-sci-fi-that-leave-einsteins-theory-of-relativity-in-their-space-dust)
 <!-- BLOG-POST-LIST:END -->
 
 ---
