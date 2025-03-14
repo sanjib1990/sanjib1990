@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tern AI’s low-cost GPS alternative actually works](https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/)
+- [HTC Vive are offering big discounts on select VR headsets this March](https://www.space.com/entertainment/htc-vive-march-deals-save-200-dollars-pro-2-flow)
+- [How ‘The Electric State’ team created a world of unlikely robots](https://techcrunch.com/2025/03/14/how-the-electric-state-team-created-a-world-of-unlikely-robots/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/03/14/chatgpt-everything-to-know-about-the-ai-chatbot/)
 - [China is reportedly keeping DeepSeek under close watch](https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/)
-- [Startups Weekly: Founders may be raising less, but deals haven’t been lacking](https://techcrunch.com/2025/03/14/startups-weekly-founders-may-be-raising-less-but-deals-havent-been-lacking/)
-- [&#39;The Day The Earth Blew Up&#39; is a Looney Tunes love letter to Tim Burton&#39;s &#39;Mars Attacks&#39; and &#39;50s cult sci-fi films &lpar;interview&rpar;](https://www.space.com/entertainment/the-day-the-earth-blew-up-is-a-looney-tunes-love-letter-to-tim-burtons-mars-attacks-and-50s-cult-sci-fi-films-interview)
-- [Arizona proposes law that would shift wildfire liability from utilities to insurers](https://techcrunch.com/2025/03/14/arizona-proposes-law-that-would-shift-wildfire-liability-from-utilities-to-insurers/)
-- [No one knows what the hell an AI agent is](https://techcrunch.com/2025/03/14/no-one-knows-what-the-hell-an-ai-agent-is/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
