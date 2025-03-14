@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anti-aging zealot Bryan Johnson wants to start ‘foodome sequencing’](https://techcrunch.com/2025/03/13/anti-aging-zealot-bryan-johnson-wants-to-start-foodome-sequencing/)
 - [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/)
 - [Rad Power Bikes already has a new CEO](https://techcrunch.com/2025/03/13/rad-power-bikes-already-has-a-new-ceo/)
 - [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/)
 - [Android is adding Auracast support, which allows hearing aids to connect to public audio broadcasts](https://techcrunch.com/2025/03/13/android-is-adding-auracast-support-which-allows-hearing-aids-to-connect-to-public-audio-broadcasts/)
-- [Former Google chief Eric Schmidt takes the reins at rocket startup Relativity Space](https://www.space.com/space-exploration/launches-spacecraft/former-google-chief-eric-schmidt-takes-the-reins-at-rocket-startup-relativity-space)
 <!-- BLOG-POST-LIST:END -->
 
 ---
