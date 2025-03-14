@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch Rocket Lab launch radar imaging satellite to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-lightning-god-reigns-mission-launch)
+- [US lawmakers urge UK spy court to hold Apple ‘backdoor’ secret hearing in public](https://techcrunch.com/2025/03/14/us-lawmakers-urge-uk-spy-court-to-hold-apple-backdoor-secret-hearing-in-public/)
 - [Kerry Washington invests in wedding marketplace Cheersy](https://techcrunch.com/2025/03/14/kerry-washington-invests-in-wedding-marketplace-cheersy/)
 - [These Funko Pop! Star Wars figures are highly collectable and have a big discount at Walmart and Best Buy](https://www.space.com/entertainment/these-funko-pop-star-wars-figures-are-highly-collectable-and-have-a-big-discount-at-walmart-and-best-buy)
 - [UK’s secret iCloud backdoor order triggers civil rights challenge](https://techcrunch.com/2025/03/14/uks-secret-icloud-backdoor-order-triggers-civil-rights-challenge/)
-- [Trump family is reportedly in talks to acquire stake in Binance’s US arm](https://techcrunch.com/2025/03/14/trump-family-is-reportedly-in-talks-to-acquire-stake-in-binances-us-arm/)
-- [James Webb Space Telescope investigates the origins of &#39;failed stars&#39; in the Flame Nebula](https://www.space.com/space-exploration/james-webb-space-telescope/planets-or-failed-stars-how-the-james-webb-space-telescope-is-helping-unlock-the-mysteries-of-brown-dwarfs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
