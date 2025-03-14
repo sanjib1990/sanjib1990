@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lego Star Wars Grogu with Hover Pram review](https://www.space.com/entertainment/lego-star-wars-grogu-with-hover-pram-review)
+- [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/)
+- [AI coding assistant Cursor reportedly tells a ‘vibe coder’ to write his own damn code](https://techcrunch.com/2025/03/14/ai-coding-assistant-cursor-reportedly-tells-a-vibe-coder-to-write-his-own-damn-code/)
+- [Profitable Klarna files for a potentially blockbuster IPO](https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/)
 - [&#39;Warhammer 40,000: Space Marine 3&#39; has been officially announced, but you&#39;ll have to wait a while to purge more alien scum](https://www.space.com/entertainment/space-games-toys/warhammer-40-000-space-marine-3-has-been-officially-announced-but-youll-have-to-wait-a-while-to-purge-more-alien-scum)
-- [&#39;Poppy seeds&#39; and &#39;leopard spots&#39; on Mars could hint at ancient microbial life](https://www.space.com/space-exploration/search-for-life/poppy-seeds-and-leopard-spots-on-mars-could-hint-at-ancient-microbial-life)
-- [Google is replacing Google Assistant with Gemini](https://techcrunch.com/2025/03/14/google-is-replacing-google-assistant-with-gemini/)
-- [‘Open’ model licenses often carry concerning restrictions](https://techcrunch.com/2025/03/14/open-model-licenses-often-carry-concerning-restrictions/)
-- [TechCrunch Mobility: Testing the Uber-Waymo robotaxi, Rivian goes hands-free, and Travis Kalanick has AV FOMO](https://techcrunch.com/2025/03/14/techcrunch-mobility-testing-the-uber-waymo-robotaxi-rivian-goes-hands-free-and-travis-kalanick-has-av-fomo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
