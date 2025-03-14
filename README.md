@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI can handle the boring stuff!](https://www.youtube.com/watch?v=nbPfYbvlVec)
 - [I’m changing how I use AI &lpar;Open WebUI + LiteLLM&rpar;](https://www.youtube.com/watch?v=nQCOTzS5oU0)
 - [The annual MIT giving day begins now!  #shorts #MIT24 #education #free #giveback](https://www.youtube.com/watch?v=YIUo_DHeTMQ)
 - [The Four Fundamental Subspaces and Least Squares](https://www.youtube.com/watch?v=jY-Mu6XQ3NU)
 - [Elimination and Factorization A = CR](https://www.youtube.com/watch?v=PrErxYzSANo)
-- [Microsoft goes nuclear on TypeScript codebase…](https://www.youtube.com/watch?v=PQ2WjtaPfXU)
 <!-- YOUTUBE:END -->
 
 ---
