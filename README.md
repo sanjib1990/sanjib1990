@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How an astronomer accidentally found a star stuck in a cosmic waltz](https://www.space.com/space-exploration/james-webb-space-telescope/how-an-astronomer-accidentally-found-a-star-stuck-in-a-cosmic-waltz)
+- [&#39;Their loss diminishes us all&#39;: Scientists emphasize how Trump&#39;s mass NOAA layoffs endanger the world](https://www.space.com/the-universe/earth/their-loss-diminishes-us-all-scientists-emphasize-how-trumps-mass-noaa-layoffs-endanger-the-world)
+- [Total lunar eclipse March 2025: Best photos of the &quot;Blood Worm Moon&quot;](https://www.space.com/total-lunar-eclipse-blood-worm-moon-best-photos)
 - [Waymo was slapped with nearly 600 parking tickets last year in SF alone](https://techcrunch.com/2025/03/13/waymo-was-slapped-with-nearly-600-parking-tickets-last-year-in-sf-alone/)
 - [Anti-aging zealot Bryan Johnson wants to start ‘foodome sequencing’](https://techcrunch.com/2025/03/13/anti-aging-zealot-bryan-johnson-wants-to-start-foodome-sequencing/)
-- [Sesame, the startup behind the viral virtual assistant Maya, releases its base AI model](https://techcrunch.com/2025/03/13/sesame-the-startup-behind-the-viral-virtual-assistant-maya-releases-its-base-ai-model/)
-- [Rad Power Bikes already has a new CEO](https://techcrunch.com/2025/03/13/rad-power-bikes-already-has-a-new-ceo/)
-- [Y Combinator’s police surveillance darling Flock Safety raises $275M at $7.5B valuation](https://techcrunch.com/2025/03/13/y-combinators-police-surveillance-darling-flock-safety-raises-275m-at-7-5b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
