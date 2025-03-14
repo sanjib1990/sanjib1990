@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/03/14/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [Wow! Private lunar lander watches &#39;diamond ring&#39; eclipse from the surface of the moon &lpar;photo&rpar;](https://www.space.com/the-universe/moon/wow-private-lunar-lander-watches-diamond-ring-eclipse-from-the-surface-of-the-moon-photo)
-- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/03/14/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
-- [SpaceX launching 74 satellites on Transporter 13 rideshare mission early March 15](https://www.space.com/space-exploration/launches-spacecraft/spacex-74-satellites-transporter-13-rideshare-launch)
-- [iPhone and Android users will soon be able to send encrypted RCS messages to each other](https://techcrunch.com/2025/03/14/iphone-and-android-users-will-soon-be-able-to-send-encrypted-rcs-messages-to-each-other/)
+- [China is reportedly keeping DeepSeek under close watch](https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/)
+- [Startups Weekly: Founders may be raising less, but deals haven’t been lacking](https://techcrunch.com/2025/03/14/startups-weekly-founders-may-be-raising-less-but-deals-havent-been-lacking/)
+- [&#39;The Day The Earth Blew Up&#39; is a Looney Tunes love letter to Tim Burton&#39;s &#39;Mars Attacks&#39; and &#39;50s cult sci-fi films &lpar;interview&rpar;](https://www.space.com/entertainment/the-day-the-earth-blew-up-is-a-looney-tunes-love-letter-to-tim-burtons-mars-attacks-and-50s-cult-sci-fi-films-interview)
+- [Arizona proposes law that would shift wildfire liability from utilities to insurers](https://techcrunch.com/2025/03/14/arizona-proposes-law-that-would-shift-wildfire-liability-from-utilities-to-insurers/)
+- [No one knows what the hell an AI agent is](https://techcrunch.com/2025/03/14/no-one-knows-what-the-hell-an-ai-agent-is/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
