@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer of Lockbit ransomware gets extradited to the United States](https://techcrunch.com/2025/03/14/developer-of-lockbit-ransomware-gets-extradited-to-the-united-states/)
+- [Accused LockBit ransomware developer extradited to the US](https://techcrunch.com/2025/03/14/developer-of-lockbit-ransomware-gets-extradited-to-the-united-states/)
 - [Tiangong astronauts experiment with AI robot and more to kick off busy year for Chinese human spaceflight &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/tiangong-astronauts-experiment-with-ai-robot-and-more-to-kick-off-busy-year-for-chinese-human-spaceflight-video)
 - [Watch Rocket Lab launch radar imaging satellite to orbit tonight](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-lightning-god-reigns-mission-launch)
 - [US lawmakers urge UK spy court to hold Apple ‘backdoor’ secret hearing in public](https://techcrunch.com/2025/03/14/us-lawmakers-urge-uk-spy-court-to-hold-apple-backdoor-secret-hearing-in-public/)
