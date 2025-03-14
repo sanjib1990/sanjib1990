@@ -94,10 +94,10 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [UK’s secret iCloud backdoor order triggers civil rights challenge](https://techcrunch.com/2025/03/14/uks-secret-icloud-backdoor-order-triggers-civil-rights-challenge/)
 - [Trump family is reportedly in talks to acquire stake in Binance’s US arm](https://techcrunch.com/2025/03/14/trump-family-is-reportedly-in-talks-to-acquire-stake-in-binances-us-arm/)
 - [James Webb Space Telescope investigates the origins of &#39;failed stars&#39; in the Flame Nebula](https://www.space.com/space-exploration/james-webb-space-telescope/planets-or-failed-stars-how-the-james-webb-space-telescope-is-helping-unlock-the-mysteries-of-brown-dwarfs)
 - [SoftBank buys $676M old Sharp plant for its OpenAI collab in Japan](https://techcrunch.com/2025/03/14/softbank-buys-676m-old-sharp-plant-for-its-openai-collab-in-japan/)
-- [&#39;Their loss diminishes us all&#39;: Scientists emphasize how Trump&#39;s mass NOAA layoffs endanger the world](https://www.space.com/the-universe/earth/their-loss-diminishes-us-all-scientists-emphasize-how-trumps-mass-noaa-layoffs-endanger-the-world)
 - [How an astronomer accidentally found a star stuck in a cosmic waltz](https://www.space.com/space-exploration/james-webb-space-telescope/how-an-astronomer-accidentally-found-a-star-stuck-in-a-cosmic-waltz)
 <!-- BLOG-POST-LIST:END -->
 
