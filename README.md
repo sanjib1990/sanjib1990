@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [13 faster-than-light travel methods from sci-fi that leave Einstein&#39;s theory of relativity in their space dust](https://www.space.com/entertainment/13-faster-than-light-travel-methods-from-sci-fi-that-leave-einsteins-theory-of-relativity-in-their-space-dust)
+- [AT&amp;T technician Mark Klein, who exposed secret NSA spying, dies](https://techcrunch.com/2025/03/14/att-technician-mark-klein-who-exposed-secret-nsa-spying-dies/)
+- [Space photo of the day: Total lunar eclipse crosses the sky above SpaceX&#39;s Crew-10 spacecraft and Falcon 9 rocket](https://www.space.com/space-exploration/launches-spacecraft/total-lunar-eclipse-crosses-the-sky-above-spacexs-crew-10-spacecraft-and-falcon-9-rocket-space-photo-of-the-day-march-14-2025)
 - [Tern AI’s low-cost GPS alternative actually works](https://techcrunch.com/2025/03/14/tern-ais-low-cost-gps-alternative-actually-works/)
 - [HTC Vive are offering big discounts on select VR headsets this March](https://www.space.com/entertainment/htc-vive-march-deals-save-200-dollars-pro-2-flow)
-- [How ‘The Electric State’ team created a world of unlikely robots](https://techcrunch.com/2025/03/14/how-the-electric-state-team-created-a-world-of-unlikely-robots/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/03/14/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [China is reportedly keeping DeepSeek under close watch](https://techcrunch.com/2025/03/14/china-is-reportedly-keeping-deepseek-under-close-watch/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
