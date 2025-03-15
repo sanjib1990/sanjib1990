@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluesky users debate plans around user data and AI training](https://techcrunch.com/2025/03/15/bluesky-users-debate-plans-around-user-data-and-ai-training/)
 - [Week in Review: SXSW week comes to a close](https://techcrunch.com/2025/03/15/week-in-review-sxsw-week-comes-to-a-close/)
 - [This Week In Space podcast: Episode 152 — Atomic Rockets II: Nuclear Electric Boogaloo](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-152-atomic-rockets-ii-nuclear-electric-boogaloo)
 - [SpaceX launches astronauts for long-awaited International Space Station crew swap](https://techcrunch.com/2025/03/15/spacex-launches-astronauts-for-long-awaited-international-space-station-crew-swap/)
 - [SpaceX aces 3rd launch in 13 hours, sending 23 Starlink satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-aces-3rd-launch-in-13-hours-sending-23-starlink-satellites-to-orbit-video)
-- [Skype is shutting down in May — these are the best alternatives](https://techcrunch.com/2025/03/15/skype-shuts-down-in-may-these-are-the-best-alternatives/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
