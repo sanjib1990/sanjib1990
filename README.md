@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefly Aerospace&#39;s Alpha rocket launching for 6th time ever on Saturday: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-alpha-rocket-launch-lm-400-lockheed-martin)
+- [SpaceX Crew-10 folds traits, hopes into origami crane zero-g indicator](https://www.space.com/space-exploration/human-spaceflight/spacex-crew-10-folds-traits-hopes-into-origami-crane-zero-g-indicator)
+- [Firefly Aerospace&#39;s Alpha rocket launching for 6th time ever soon: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-alpha-rocket-launch-lm-400-lockheed-martin)
 - [SpaceX launches relief crew for NASA&#39;s beleaguered Starliner astronauts on ISS &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/spacex-launches-relief-crew-for-nasas-beleaguered-starliner-astronauts-on-iss-video)
 - [Republican Congressman Jim Jordan asks Big Tech if Biden tried to censor AI](https://techcrunch.com/2025/03/14/republican-congressman-jim-jordan-asks-big-tech-if-biden-tried-to-censor-ai/)
 - [Lego Star Wars Grogu with Hover Pram review](https://www.space.com/entertainment/lego-star-wars-grogu-with-hover-pram-review)
-- [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
