@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to watch Nvidia GTC 2025, including CEO Jensen Huang’s keynote](https://techcrunch.com/2025/03/15/how-to-watch-nvidia-gtc-2025-including-ceo-jensen-huangs-keynote/)
+- [Nvidia GTC 2025: What to expect from this year’s show](https://techcrunch.com/2025/03/15/nvidia-gtc-2025-what-to-expect-from-this-years-show/)
 - [Bluesky users debate plans around user data and AI training](https://techcrunch.com/2025/03/15/bluesky-users-debate-plans-around-user-data-and-ai-training/)
 - [Week in Review: SXSW week comes to a close](https://techcrunch.com/2025/03/15/week-in-review-sxsw-week-comes-to-a-close/)
 - [This Week In Space podcast: Episode 152 — Atomic Rockets II: Nuclear Electric Boogaloo](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-152-atomic-rockets-ii-nuclear-electric-boogaloo)
-- [SpaceX launches astronauts for long-awaited International Space Station crew swap](https://techcrunch.com/2025/03/15/spacex-launches-astronauts-for-long-awaited-international-space-station-crew-swap/)
-- [SpaceX aces 3rd launch in 13 hours, sending 23 Starlink satellites to orbit &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-aces-3rd-launch-in-13-hours-sending-23-starlink-satellites-to-orbit-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
