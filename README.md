@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where will the partial solar eclipse be visible in March 2025?](https://www.space.com/where-partial-solar-eclipse-visible-march-2025)
 - [Watch SpaceX&#39;s Crew-10 astronaut mission arrive at the ISS tonight](https://www.space.com/space-exploration/international-space-station/spacex-crew-10-astronaut-mission-international-space-station-docking)
 - [4 rocky exoplanets found around Barnard&#39;s Star, one of the sun&#39;s nearest neighbors](https://www.space.com/the-universe/exoplanets/4-rocky-exoplanets-found-around-barnards-star-one-of-the-suns-nearest-neighbors)
 - [SpaceX Crew-10 folds traits, hopes into origami crane zero-g indicator](https://www.space.com/space-exploration/human-spaceflight/spacex-crew-10-folds-traits-hopes-into-origami-crane-zero-g-indicator)
 - [Firefly Aerospace&#39;s Alpha rocket launching for 6th time ever soon: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/firefly-aerospace-alpha-rocket-launch-lm-400-lockheed-martin)
-- [SpaceX launches relief crew for NASA&#39;s beleaguered Starliner astronauts on ISS &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/spacex-launches-relief-crew-for-nasas-beleaguered-starliner-astronauts-on-iss-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
