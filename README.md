@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches relief crew for NASA&#39;s beleaguered Starliner astronauts on ISS &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/spacex-launches-relief-crew-for-nasas-beleaguered-starliner-astronauts-on-iss-video)
 - [Republican Congressman Jim Jordan asks Big Tech if Biden tried to censor AI](https://techcrunch.com/2025/03/14/republican-congressman-jim-jordan-asks-big-tech-if-biden-tried-to-censor-ai/)
 - [Lego Star Wars Grogu with Hover Pram review](https://www.space.com/entertainment/lego-star-wars-grogu-with-hover-pram-review)
 - [Bench is charging people for services they already paid for, some customers say](https://techcrunch.com/2025/03/14/bench-is-charging-people-for-services-they-already-paid-for-some-customers-say/)
 - [AI coding assistant Cursor reportedly tells a ‘vibe coder’ to write his own damn code](https://techcrunch.com/2025/03/14/ai-coding-assistant-cursor-reportedly-tells-a-vibe-coder-to-write-his-own-damn-code/)
-- [Profitable Klarna files for a potentially blockbuster IPO](https://techcrunch.com/2025/03/14/profitable-klarna-files-for-a-potentially-blockbuster-ipo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
