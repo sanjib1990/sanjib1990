@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Baidu launches two new versions of its AI model Ernie](https://techcrunch.com/2025/03/16/baidu-launches-two-new-versions-of-its-ai-model-ernie/)
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/03/16/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
 - [This butterfly-shaped nebula owes its structure to 2 chaotic young stars](https://www.space.com/space-exploration/james-webb-space-telescope/this-butterfly-shaped-nebula-owes-its-structure-to-2-chaotic-young-stars)
 - [Photo calorie app Cal AI, downloaded over a million times, was built by two teenagers](https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/)
 - [The 1st private mission to Venus comes together ahead of possible 2026 launch &lpar;photos&rpar;](https://www.space.com/the-universe/venus/the-1st-private-mission-to-venus-comes-together-ahead-of-possible-2026-launch-photos)
-- [You can buy Chewbacca&#39;s Bowcaster or Luke&#39;s medal at a &#39;Star Wars&#39; auction, but it could cost you half a million dollars](https://www.space.com/entertainment/you-can-buy-chewbaccas-bowcaster-or-lukes-medal-at-a-star-wars-auction-but-it-could-cost-you-half-a-million-dollars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
