@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You can buy Chewbacca&#39;s Bowcaster or Luke&#39;s medal at a &#39;Star Wars&#39; auction, but it could cost you half a million dollars](https://www.space.com/entertainment/you-can-buy-chewbaccas-bowcaster-or-lukes-medal-at-a-star-wars-auction-but-it-could-cost-you-half-a-million-dollars)
 - [Spiral starburst galaxy glows in gorgeous Hubble Telescope image](https://www.space.com/space-exploration/hubble-space-telescope/spiral-starburst-galaxy-glows-in-gorgeous-hubble-telescope-image)
 - [Arctic ice is melting faster than expected — and the culprit could be dust](https://www.space.com/the-universe/climate-change/arctic-ice-is-melting-faster-than-expected-and-the-culprit-could-be-dust)
 - [VC Aileen Lee highlights how the broader investor exodus is worsening woes for unicorn companies](https://techcrunch.com/2025/03/15/vc-aileen-lee-highlights-how-the-broader-investor-exodus-is-worsening-woes-for-unicorn-companies/)
 - [Joby Aviation and Virgin Atlantic partner to launch electric air taxis in the UK](https://techcrunch.com/2025/03/15/joby-aviation-and-virgin-atlantic-partner-to-launch-electric-air-taxis-in-the-uk/)
-- [Amazon’s Echo will send all voice recordings to the cloud, starting March 28](https://techcrunch.com/2025/03/15/amazons-echo-will-send-all-voice-recordings-to-the-cloud-starting-march-28/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
