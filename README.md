@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spiral starburst galaxy glows in gorgeous Hubble Telescope image](https://www.space.com/space-exploration/hubble-space-telescope/spiral-starburst-galaxy-glows-in-gorgeous-hubble-telescope-image)
 - [Arctic ice is melting faster than expected — and the culprit could be dust](https://www.space.com/the-universe/climate-change/arctic-ice-is-melting-faster-than-expected-and-the-culprit-could-be-dust)
 - [VC Aileen Lee highlights how the broader investor exodus is worsening woes for unicorn companies](https://techcrunch.com/2025/03/15/vc-aileen-lee-highlights-how-the-broader-investor-exodus-is-worsening-woes-for-unicorn-companies/)
 - [Joby Aviation and Virgin Atlantic partner to launch electric air taxis in the UK](https://techcrunch.com/2025/03/15/joby-aviation-and-virgin-atlantic-partner-to-launch-electric-air-taxis-in-the-uk/)
 - [Amazon’s Echo will send all voice recordings to the cloud, starting March 28](https://techcrunch.com/2025/03/15/amazons-echo-will-send-all-voice-recordings-to-the-cloud-starting-march-28/)
-- [How to watch Nvidia GTC 2025, including CEO Jensen Huang’s keynote](https://techcrunch.com/2025/03/15/how-to-watch-nvidia-gtc-2025-including-ceo-jensen-huangs-keynote/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
