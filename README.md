@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple reportedly considered building the iPhone 17 Air without ports](https://techcrunch.com/2025/03/16/apple-reportedly-considered-building-the-iphone-17-air-without-ports/)
+- [Meta takes aim at ex-employee’s memoir ‘Careless People’](https://techcrunch.com/2025/03/16/meta-takes-aim-at-ex-employees-memoir-careless-people/)
 - [People are using Google’s new AI model to remove watermarks from images](https://techcrunch.com/2025/03/16/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/)
 - [Baidu launches two new versions of its AI model Ernie](https://techcrunch.com/2025/03/16/baidu-launches-two-new-versions-of-its-ai-model-ernie/)
 - [Nvidia’s AI empire: A look at its top startup investments](https://techcrunch.com/2025/03/16/nvidias-ai-empire-a-look-at-its-top-startup-investments/)
-- [This butterfly-shaped nebula owes its structure to 2 chaotic young stars](https://www.space.com/space-exploration/james-webb-space-telescope/this-butterfly-shaped-nebula-owes-its-structure-to-2-chaotic-young-stars)
-- [Photo calorie app Cal AI, downloaded over a million times, was built by two teenagers](https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
