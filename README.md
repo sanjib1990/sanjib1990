@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google adds its HD voice model Chirp 3 to its Vertex AI platform](https://techcrunch.com/2025/03/17/google-adds-its-hd-voice-model-chirp-3-to-its-vertex-ai-platform/)
+- [Google beefs up its UK AI business with Agentspace data residency and more](https://techcrunch.com/2025/03/17/google-beefs-up-its-uk-ai-business-with-agentspace-data-residency-and-more/)
 - [Mars could have an ocean&#39;s worth of water beneath its surface, seismic data suggest](https://www.space.com/the-universe/mars/mars-could-have-an-oceans-worth-of-water-beneath-its-surface-seismic-data-suggest)
 - [European tech industry coalition calls for ‘radical action’ on digital sovereignty — starting with buying local](https://techcrunch.com/2025/03/16/european-tech-industry-coalition-calls-for-radical-action-on-digital-sovereignty-starting-with-buying-local/)
 - [Apple reportedly considered building the iPhone 17 Air without ports](https://techcrunch.com/2025/03/16/apple-reportedly-considered-building-the-iphone-17-air-without-ports/)
-- [Meta takes aim at ex-employee’s memoir ‘Careless People’](https://techcrunch.com/2025/03/16/meta-takes-aim-at-ex-employees-memoir-careless-people/)
-- [People are using Google’s new AI model to remove watermarks from images](https://techcrunch.com/2025/03/16/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
