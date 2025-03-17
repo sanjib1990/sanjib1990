@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rocket Lab launching 5 &#39;Internet of Things&#39; satellites tonight: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-kineis-internet-of-things-high-five-launch)
+- [Boeing Starliner astronauts heading back to Earth on March 18 after 9 months in space: Watch it live](https://www.space.com/space-exploration/international-space-station/boeing-starliner-astronauts-spacex-crew-9-return-to-earth)
 - [How climate change could make Earth&#39;s space junk problem even worse](https://www.space.com/space-exploration/satellites/how-climate-change-could-make-earths-space-junk-problem-even-worse)
 - [UK’s internet watchdog puts storage and file-sharing services on watch over CSAM](https://techcrunch.com/2025/03/17/uks-internet-watchdog-puts-storage-and-file-sharing-services-on-watch-over-csam/)
 - [Google adds its voice model Chirp 3 to its Vertex AI platform](https://techcrunch.com/2025/03/17/google-adds-its-hd-voice-model-chirp-3-to-its-vertex-ai-platform/)
-- [Google beefs up its UK AI business with Agentspace data residency and more](https://techcrunch.com/2025/03/17/google-beefs-up-its-uk-ai-business-with-agentspace-data-residency-and-more/)
-- [Mars could have an ocean&#39;s worth of water beneath its surface, seismic data suggest](https://www.space.com/the-universe/mars/mars-could-have-an-oceans-worth-of-water-beneath-its-surface-seismic-data-suggest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
