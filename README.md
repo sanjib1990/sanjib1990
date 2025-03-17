@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vote for the session you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/17/vote-for-the-session-you-want-to-see-at-techcrunch-session-ai/)
+- [Snap expands Spectacles capabilities with GPS and hand-tracking features](https://techcrunch.com/2025/03/17/snap-expands-spectacles-capabilities-with-gps-and-hand-tracking-features/)
+- [Our best binoculars for viewing the sun safely have a dazzling 58% off – grab a pair now in time for March&#39;s partial solar eclipse](https://www.space.com/stargazing/astronomy-kit/our-best-binoculars-for-viewing-the-sun-safely-have-a-dazzling-58-percent-off-grab-a-pair-now-in-time-for-marchs-partial-solar-eclipse)
+- [Beam back to the USS Callister in mindbending new &#39;Black Mirror&#39; Season 7 trailer](https://www.space.com/entertainment/beam-back-to-the-uss-callister-in-mindbending-new-black-mirror-season-7-trailer)
 - [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/)
-- [Palmetto wants software developers to electrify America using its AI building models](https://techcrunch.com/2025/03/17/palmetto-wants-software-developers-to-electrify-america-using-its-ai-building-models/)
-- [Roblox releases its open-source model that can create 3D objects using AI](https://techcrunch.com/2025/03/17/roblox-releases-its-open-source-model-that-can-create-3d-objects-using-ai/)
-- [Discord launches SDK to help developers enhance social experiences in their games](https://techcrunch.com/2025/03/17/discord-launches-sdk-to-help-developers-enhance-social-experiences-in-their-games/)
-- [How did Earth get such a strange moon? Exploring the giant impact theory](https://www.space.com/the-universe/moon/how-did-earth-get-such-a-strange-moon-exploring-the-giant-impact-theory)
 <!-- BLOG-POST-LIST:END -->
 
 ---
