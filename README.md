@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 excellent Irish sci-fi movies to leave Hollywood green with envy this St. Patrick&#39;s Day](https://www.space.com/entertainment/7-excellent-irish-sci-fi-movies-to-leave-hollywood-green-with-envy-this-st-patricks-day)
-- [James Webb Space Telescope sees four giant alien planets circling nearby star &lpar;images&rpar;](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-sees-four-giant-alien-planets-circling-nearby-star-images)
-- [TikTok rolls out a ‘Security Checkup’ tool to help users secure their accounts](https://techcrunch.com/2025/03/17/tiktok-rolls-out-a-security-checkup-tool-to-help-users-secure-their-accounts/)
-- [Hackers are exploiting Fortinet firewall bugs to plant ransomware](https://techcrunch.com/2025/03/17/hackers-are-exploiting-fortinet-firewall-bugs-to-plant-ransomware/)
-- [Nvidia GTC 2025: What to expect from this year’s show](https://techcrunch.com/2025/03/17/nvidia-gtc-2025-what-to-expect-from-this-years-show/)
+- [Klarna nabs Walmart away from Affirm and boosts its IPO prospects](https://techcrunch.com/2025/03/17/klarna-nabs-walmart-away-from-affirm-and-boosts-its-ipo-prospects/)
+- [&#39;Starship Troopers&#39; big-screen reboot coming from &#39;District 9&#39; director Neill Blomkamp — would you like to know more?](https://www.space.com/entertainment/space-movies-shows/starship-troopers-big-screen-reboot-coming-from-district-9-director-neill-blomkamp-would-you-like-to-know-more)
+- [YC-backed ReactWise is applying AI to speed up drug manufacturing](https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/)
+- [Google and Muon Space launch a new satellite to battle wildfires](https://techcrunch.com/2025/03/17/google-and-muon-space-launch-a-new-satellite-to-battle-wildfires/)
+- [Texas man faces prison for activating ‘kill switch’ on former employer’s network](https://techcrunch.com/2025/03/17/texas-man-faces-prison-for-activating-kill-switch-on-former-employers-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
