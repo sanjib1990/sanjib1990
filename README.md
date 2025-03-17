@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch All Stage unveils a powerhouse agenda for founders](https://techcrunch.com/2025/03/17/techcrunch-all-stage-unveils-a-powerhouse-agenda-for-founders/)
+- [Palmetto wants software developers to electrify America using its AI building models](https://techcrunch.com/2025/03/17/palmetto-wants-software-developers-to-electrify-america-using-its-ai-building-models/)
+- [Roblox releases its open-source model that can create 3D objects using AI](https://techcrunch.com/2025/03/17/roblox-releases-its-open-source-model-that-can-create-3d-objects-using-ai/)
 - [Discord launches SDK to help developers enhance social experiences in their games](https://techcrunch.com/2025/03/17/discord-launches-sdk-to-help-developers-enhance-social-experiences-in-their-games/)
 - [How did Earth get such a strange moon? Exploring the giant impact theory](https://www.space.com/the-universe/moon/how-did-earth-get-such-a-strange-moon-exploring-the-giant-impact-theory)
-- [Rocket Lab launching 5 &#39;Internet of Things&#39; satellites on Electron tonight: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-kineis-internet-of-things-high-five-launch)
-- [Boeing Starliner astronauts heading back to Earth on March 18 after 9 months in space: Watch it live](https://www.space.com/space-exploration/international-space-station/boeing-starliner-astronauts-spacex-crew-9-return-to-earth)
-- [How climate change could make Earth&#39;s space junk problem even worse](https://www.space.com/space-exploration/satellites/how-climate-change-could-make-earths-space-junk-problem-even-worse)
 <!-- BLOG-POST-LIST:END -->
 
 ---
