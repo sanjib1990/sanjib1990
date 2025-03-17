@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This app limits your screen time by making you literally touch grass](https://techcrunch.com/2025/03/17/this-app-limits-your-screen-time-by-making-you-literally-touch-grass/)
+- [A Google-backed weapon to battle wildfires made it into orbit](https://techcrunch.com/2025/03/17/a-google-backed-weapon-to-battle-wildfires-made-it-into-orbit/)
+- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/03/17/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/)
+- [People are using Google’s new AI model to remove watermarks from images](https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/)
 - [World&#39;s largest digital camera to help new Vera Rubin Observatory make a &#39;time-lapse record of the universe&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/tech/worlds-largest-digital-camera-to-help-new-vera-rubin-observatory-make-a-time-lapse-record-of-the-universe-photos)
-- [Flexport accuses former employees of stealing its source code to create a rival startup](https://techcrunch.com/2025/03/17/flexport-accuses-former-employees-of-stealing-its-source-code-to-create-a-rival-startup/)
-- [Farewell, Blue Ghost! Private moon lander goes dark to end record-breaking commercial lunar mission](https://www.space.com/the-universe/moon/farewell-blue-ghost-private-moon-lander-goes-dark-to-end-record-breaking-commercial-lunar-mission)
-- [Elon Musk’s AI company, xAI, acquires a generative AI video startup](https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup/)
-- [OpenAI to start testing ChatGPT connectors for Google Drive and Slack](https://techcrunch.com/2025/03/17/openai-to-start-testing-chatgpt-connectors-for-google-drive-and-slack/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
