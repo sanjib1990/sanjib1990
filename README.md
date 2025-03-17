@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This app limits your screen time by making you literally touch grass](https://techcrunch.com/2025/03/17/this-app-limits-your-screen-time-by-making-you-literally-touch-grass/)
-- [A Google-backed weapon to battle wildfires made it into orbit](https://techcrunch.com/2025/03/17/a-google-backed-weapon-to-battle-wildfires-made-it-into-orbit/)
-- [These fintech companies are hiring in 2025 after a turbulent year](https://techcrunch.com/2025/03/17/these-fintech-companies-are-hiring-in-2025-after-a-turbulent-year/)
-- [People are using Google’s new AI model to remove watermarks from images](https://techcrunch.com/2025/03/17/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/)
-- [World&#39;s largest digital camera to help new Vera Rubin Observatory make a &#39;time-lapse record of the universe&#39; &lpar;video&rpar;](https://www.space.com/space-exploration/tech/worlds-largest-digital-camera-to-help-new-vera-rubin-observatory-make-a-time-lapse-record-of-the-universe-photos)
+- [Feel the burn with this amazing video of a Varda space capsule&#39;s plunge through Earth&#39;s atmosphere](https://www.space.com/space-exploration/private-spaceflight/feel-the-burn-with-this-amazing-video-of-a-varda-space-capsules-plunge-through-earths-atmosphere)
+- [OpenAI exec leaves to found materials science startup](https://techcrunch.com/2025/03/17/openai-exec-leaves-to-found-materials-science-startup/)
+- [Intel could be in for significant changes as Lip-Bu Tan takes on CEO role](https://techcrunch.com/2025/03/17/intel-could-be-in-for-significant-changes-as-lip-bu-tan-takes-on-ceo-role/)
+- [Rippling sues Deel, Deel denies ‘all legal wrongdoing’, and Slack is the main witness](https://techcrunch.com/2025/03/17/rippling-sues-deel-deel-denies-all-legal-wrongdoing-and-slack-is-the-main-witness/)
+- [How to stop doomscrolling](https://techcrunch.com/2025/03/17/how-to-stop-doomscrolling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
