@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google adds its HD voice model Chirp 3 to its Vertex AI platform](https://techcrunch.com/2025/03/17/google-adds-its-hd-voice-model-chirp-3-to-its-vertex-ai-platform/)
+- [How climate change could make Earth&#39;s space junk problem even worse](https://www.space.com/space-exploration/satellites/how-climate-change-could-make-earths-space-junk-problem-even-worse)
+- [UK’s internet watchdog puts storage and file-sharing services on watch over CSAM](https://techcrunch.com/2025/03/17/uks-internet-watchdog-puts-storage-and-file-sharing-services-on-watch-over-csam/)
+- [Google adds its voice model Chirp 3 to its Vertex AI platform](https://techcrunch.com/2025/03/17/google-adds-its-hd-voice-model-chirp-3-to-its-vertex-ai-platform/)
 - [Google beefs up its UK AI business with Agentspace data residency and more](https://techcrunch.com/2025/03/17/google-beefs-up-its-uk-ai-business-with-agentspace-data-residency-and-more/)
 - [Mars could have an ocean&#39;s worth of water beneath its surface, seismic data suggest](https://www.space.com/the-universe/mars/mars-could-have-an-oceans-worth-of-water-beneath-its-surface-seismic-data-suggest)
-- [European tech industry coalition calls for ‘radical action’ on digital sovereignty — starting with buying local](https://techcrunch.com/2025/03/16/european-tech-industry-coalition-calls-for-radical-action-on-digital-sovereignty-starting-with-buying-local/)
-- [Apple reportedly considered building the iPhone 17 Air without ports](https://techcrunch.com/2025/03/16/apple-reportedly-considered-building-the-iphone-17-air-without-ports/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
