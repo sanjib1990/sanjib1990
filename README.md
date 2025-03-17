@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars could have an ocean&#39;s worth of water beneath its surface, seismic data suggest](https://www.space.com/the-universe/mars/mars-could-have-an-oceans-worth-of-water-beneath-its-surface-seismic-data-suggest)
 - [European tech industry coalition calls for ‘radical action’ on digital sovereignty — starting with buying local](https://techcrunch.com/2025/03/16/european-tech-industry-coalition-calls-for-radical-action-on-digital-sovereignty-starting-with-buying-local/)
 - [Apple reportedly considered building the iPhone 17 Air without ports](https://techcrunch.com/2025/03/16/apple-reportedly-considered-building-the-iphone-17-air-without-ports/)
 - [Meta takes aim at ex-employee’s memoir ‘Careless People’](https://techcrunch.com/2025/03/16/meta-takes-aim-at-ex-employees-memoir-careless-people/)
 - [People are using Google’s new AI model to remove watermarks from images](https://techcrunch.com/2025/03/16/people-are-using-googles-new-ai-model-to-remove-watermarks-from-images/)
-- [Baidu launches two new versions of its AI model Ernie](https://techcrunch.com/2025/03/16/baidu-launches-two-new-versions-of-its-ai-model-ernie/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
