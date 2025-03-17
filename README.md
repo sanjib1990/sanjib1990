@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Farewell, Blue Ghost! Private moon lander goes dark to end record-breaking commercial lunar mission](https://www.space.com/the-universe/moon/farewell-blue-ghost-private-moon-lander-goes-dark-to-end-record-breaking-commercial-lunar-mission)
+- [Elon Musk’s AI company, xAI, acquires a generative AI video startup](https://techcrunch.com/2025/03/17/elon-musks-ai-company-xai-acquires-a-generative-ai-video-startup/)
+- [OpenAI to start testing ChatGPT connectors for Google Drive and Slack](https://techcrunch.com/2025/03/17/openai-to-start-testing-chatgpt-connectors-for-google-drive-and-slack/)
 - [Klarna nabs Walmart away from Affirm and boosts its IPO prospects](https://techcrunch.com/2025/03/17/klarna-nabs-walmart-away-from-affirm-and-boosts-its-ipo-prospects/)
 - [&#39;Starship Troopers&#39; big-screen reboot coming from &#39;District 9&#39; director Neill Blomkamp — would you like to know more?](https://www.space.com/entertainment/space-movies-shows/starship-troopers-big-screen-reboot-coming-from-district-9-director-neill-blomkamp-would-you-like-to-know-more)
-- [YC-backed ReactWise is applying AI to speed up drug manufacturing](https://techcrunch.com/2025/03/17/yc-backed-reactwise-is-applying-ai-to-speed-up-drug-manufacturing/)
-- [Google and Muon Space launch a new satellite to battle wildfires](https://techcrunch.com/2025/03/17/google-and-muon-space-launch-a-new-satellite-to-battle-wildfires/)
-- [Texas man faces prison for activating ‘kill switch’ on former employer’s network](https://techcrunch.com/2025/03/17/texas-man-faces-prison-for-activating-kill-switch-on-former-employers-network/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
