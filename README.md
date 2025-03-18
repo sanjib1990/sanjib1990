@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic-backed AI-powered code review platform Graphite raises cash](https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/)
+- [Arcade raises $12M from Perplexity co-founder’s new fund to make AI agents less awful](https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/)
+- [Private Starlab space station moves into &#39;full-scale development&#39; ahead of 2028 launch](https://www.space.com/space-exploration/human-spaceflight/private-starlab-space-station-moves-into-full-scale-development-ahead-of-2028-launch)
+- [Mark Zuckerberg says that Meta’s Llama models have hit 1B downloads](https://techcrunch.com/2025/03/18/mark-zuckerberg-says-that-metas-llama-models-have-hit-1b-downloads/)
 - [Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/)
-- [Asteroid 2024 YR4 no longer poses a threat to hit Earth, but we can still hit it — for science!](https://www.space.com/the-universe/asteroids/asteroid-2024-yr4-no-longer-poses-a-threat-heres-why-we-should-send-a-spacecraft-there-anyway)
-- [Coreshell has a plan to slash the price of American made batteries](https://techcrunch.com/2025/03/18/coreshell-has-a-plan-to-slash-the-price-of-american-made-batteries/)
-- [Anthropic is reportedly prepping a voice mode for Claude](https://techcrunch.com/2025/03/18/anthropic-is-reportedly-prepping-a-voice-mode-for-claude/)
-- [WhatsApp will soon limit number of broadcast messages users and businesses can send](https://techcrunch.com/2025/03/18/whatsapp-will-soon-limit-number-of-broadcast-messages-users-and-businesses-can-send/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
