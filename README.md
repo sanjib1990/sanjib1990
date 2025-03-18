@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pebble creator unveils the first new Pebble-inspired smartwatches](https://techcrunch.com/2025/03/18/pebble-creator-unveils-the-first-new-pebble-inspired-smartwatches/)
+- [Astronaut takes a mind-bending trip over Earth beneath star trails: Space photo of the day](https://www.space.com/space-exploration/astronaut-takes-mind-bending-trip-over-earth-beneath-star-trails-space-photo-of-the-day)
+- [Pebble creator unveils two new Pebble-inspired smartwatches](https://techcrunch.com/2025/03/18/pebble-creator-unveils-the-first-new-pebble-inspired-smartwatches/)
 - [Stability AI’s new AI model turns photos into 3D scenes](https://techcrunch.com/2025/03/18/stability-ais-new-ai-model-turns-photos-into-3d-scenes/)
 - [How to watch Nvidia GTC 2025, including CEO Jensen Huang’s keynote](https://techcrunch.com/2025/03/18/how-to-watch-nvidia-gtc-2025-including-ceo-jensen-huangs-keynote/)
 - [New cosmic &#39;baby pictures&#39; reveal our universe taking its 1st steps towards stars and galaxies](https://www.space.com/the-universe/new-cosmic-baby-pictures-from-powerful-telescope-in-chile-reveal-our-universe-taking-its-1st-steps)
-- [Punch it! &#39;Star Trek: Strange New Worlds&#39; Season 4 starts filming before Season 3 even airs](https://www.space.com/entertainment/punch-it-star-trek-strange-new-worlds-season-4-starts-filming-before-season-3-even-airs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
