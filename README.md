@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GrubMarket raises $50M at a $3.5B+ valuation to build AI for the $1 trillion food distribution industry](https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/)
+- [What time will NASA&#39;s Starliner astronauts land with SpaceX&#39;s Crew-9 today? How to watch live.](https://www.space.com/space-exploration/international-space-station/what-time-are-nasas-starliner-astronauts-landing-with-spacexs-crew-9-today)
 - [Google, Speedinvest back Kenya’s Leta, which uses AI to make logistics cheaper](https://techcrunch.com/2025/03/18/google-speedinvest-back-kenyas-leta-which-uses-ai-to-make-logistics-cheaper/)
 - [Waymo’s milestone SFO mapping permit comes with strings attached](https://techcrunch.com/2025/03/17/waymos-milestone-sfo-mapping-permit-comes-with-strings-attached/)
 - [Google revives talks to acquire Wiz at higher valuation](https://techcrunch.com/2025/03/17/google-revives-talks-to-acquire-wiz-at-higher-valuation/)
-- [Feel the burn with this amazing video of a Varda space capsule&#39;s plunge through Earth&#39;s atmosphere](https://www.space.com/space-exploration/private-spaceflight/feel-the-burn-with-this-amazing-video-of-a-varda-space-capsules-plunge-through-earths-atmosphere)
-- [OpenAI exec leaves to found materials science startup](https://techcrunch.com/2025/03/17/openai-exec-leaves-to-found-materials-science-startup/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
