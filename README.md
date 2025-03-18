@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FTC removes posts critical of big tech from its website](https://techcrunch.com/2025/03/18/ftc-removes-posts-critical-of-big-tech-from-its-website/)
+- [GM teams up with Nvidia to bring AI to robots, factories, and self-driving cars](https://techcrunch.com/2025/03/18/gm-teams-up-with-nvidia-to-bring-ai-to-robots-factories-and-self-driving-cars/)
+- [Nvidia debuts Groot N1, a foundation model for humanoid robotics](https://techcrunch.com/2025/03/18/nvidia-debuts-groot-n1-a-foundation-model-for-humanoid-robotics/)
+- [Here’s why Google pitched its $32B Wiz acquisition as ‘multicloud’](https://techcrunch.com/2025/03/18/heres-why-google-pitched-its-32b-wiz-acquisition-as-multicloud/)
 - [Watch how SpaceX makes 15,000 Starlink satellite internet kits a day &lpar;video&rpar;](https://www.space.com/space-exploration/tech/watch-how-spacex-makes-15-000-starlink-satellite-internet-kits-a-day-video)
-- [Nvidia announces new GPUs at GTC 2025, including Vera Rubin](https://techcrunch.com/2025/03/18/nvidia-announces-new-gpus-at-gtc-2025-including-rubin/)
-- [Tesla and Rivian charging networks have fewest problems by far, according to Consumer Reports](https://techcrunch.com/2025/03/18/tesla-and-rivian-charging-networks-have-fewest-problems-by-far-according-to-consumer-reports/)
-- [Bolt’s former CEO is launching a new e-commerce startup](https://techcrunch.com/2025/03/18/bolts-former-ceo-is-launching-a-new-e-commerce-startup/)
-- [Astronaut takes a mind-bending trip over Earth beneath star trails: Space photo of the day](https://www.space.com/space-exploration/astronaut-takes-mind-bending-trip-over-earth-beneath-star-trails-space-photo-of-the-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
