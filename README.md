@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/)
+- [Asteroid 2024 YR4 no longer poses a threat to hit Earth, but we can still hit it — for science!](https://www.space.com/the-universe/asteroids/asteroid-2024-yr4-no-longer-poses-a-threat-heres-why-we-should-send-a-spacecraft-there-anyway)
+- [Coreshell has a plan to slash the price of American made batteries](https://techcrunch.com/2025/03/18/coreshell-has-a-plan-to-slash-the-price-of-american-made-batteries/)
+- [Anthropic is reportedly prepping a voice mode for Claude](https://techcrunch.com/2025/03/18/anthropic-is-reportedly-prepping-a-voice-mode-for-claude/)
 - [WhatsApp will soon limit number of broadcast messages users and businesses can send](https://techcrunch.com/2025/03/18/whatsapp-will-soon-limit-number-of-broadcast-messages-users-and-businesses-can-send/)
-- [Exist is a new social wellness app that wants to help middle-age users find community](https://techcrunch.com/2025/03/18/exist-is-a-new-social-wellness-app-that-wants-to-help-middle-age-users-find-community/)
-- [Google plans to release new ‘open’ AI models for drug discovery](https://techcrunch.com/2025/03/18/google-plans-to-release-new-open-ai-models-for-drug-discovery/)
-- [Google launches new healthcare-related features for Search, Android](https://techcrunch.com/2025/03/18/google-adds-new-healthcare-related-features-in-search/)
-- [&#39;Apollo 1&#39; director surprised by details of ill-fated mission in new documentary](https://www.space.com/space-exploration/apollo/apollo-1-director-surprised-by-details-of-ill-fated-mission-in-new-documentary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
