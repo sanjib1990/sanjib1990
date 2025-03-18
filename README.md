@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FTC removes posts critical of big tech from its website](https://techcrunch.com/2025/03/18/ftc-removes-posts-critical-of-big-tech-from-its-website/)
+- [Watch the sun set over the moon in epic video from private Blue Ghost lunar lander](https://www.space.com/the-universe/moon/watch-the-sun-set-over-the-moon-in-epic-video-from-private-blue-ghost-lunar-lander)
+- [An AI model from over a decade ago sparked Nvidia’s investment in autonomous vehicles](https://techcrunch.com/2025/03/18/an-ai-model-from-over-a-decade-ago-sparked-nvidias-investment-in-autonomous-vehicles/)
+- [Nvidia announces two ‘personal AI supercomputers’](https://techcrunch.com/2025/03/18/nvidia-announces-two-personal-ai-supercomputers/)
+- [FTC removes posts critical of Big Tech from its website](https://techcrunch.com/2025/03/18/ftc-removes-posts-critical-of-big-tech-from-its-website/)
 - [GM teams up with Nvidia to bring AI to robots, factories, and self-driving cars](https://techcrunch.com/2025/03/18/gm-teams-up-with-nvidia-to-bring-ai-to-robots-factories-and-self-driving-cars/)
-- [Nvidia debuts Groot N1, a foundation model for humanoid robotics](https://techcrunch.com/2025/03/18/nvidia-debuts-groot-n1-a-foundation-model-for-humanoid-robotics/)
-- [Here’s why Google pitched its $32B Wiz acquisition as ‘multicloud’](https://techcrunch.com/2025/03/18/heres-why-google-pitched-its-32b-wiz-acquisition-as-multicloud/)
-- [Watch how SpaceX makes 15,000 Starlink satellite internet kits a day &lpar;video&rpar;](https://www.space.com/space-exploration/tech/watch-how-spacex-makes-15-000-starlink-satellite-internet-kits-a-day-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
