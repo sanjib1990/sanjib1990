@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic-backed AI-powered code review platform Graphite raises cash](https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/)
-- [Arcade raises $12M from Perplexity co-founder’s new fund to make AI agents less awful](https://techcrunch.com/2025/03/18/arcade-raises-12m-from-perplexity-co-founders-new-fund-to-make-ai-agents-less-awful/)
-- [Private Starlab space station moves into &#39;full-scale development&#39; ahead of 2028 launch](https://www.space.com/space-exploration/human-spaceflight/private-starlab-space-station-moves-into-full-scale-development-ahead-of-2028-launch)
-- [Mark Zuckerberg says that Meta’s Llama models have hit 1B downloads](https://techcrunch.com/2025/03/18/mark-zuckerberg-says-that-metas-llama-models-have-hit-1b-downloads/)
-- [Make your choice! Vote for the speaker you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/18/make-your-choice-vote-for-the-speaker-you-want-to-see-at-techcrunch-sessions-ai/)
+- [New cosmic &#39;baby pictures&#39; reveal our universe taking its 1st steps towards stars and galaxies](https://www.space.com/the-universe/new-cosmic-baby-pictures-from-powerful-telescope-in-chile-reveal-our-universe-taking-its-1st-steps)
+- [Punch it! &#39;Star Trek: Strange New Worlds&#39; Season 4 starts filming before Season 3 even airs](https://www.space.com/entertainment/punch-it-star-trek-strange-new-worlds-season-4-starts-filming-before-season-3-even-airs)
+- [Google brings a ‘canvas’ feature to Gemini, plus Audio Overview](https://techcrunch.com/2025/03/18/google-brings-a-canvas-feature-to-gemini-plus-audio-overview/)
+- [CISA scrambles to contact fired employees after court rules layoffs ‘unlawful’](https://techcrunch.com/2025/03/18/cisa-scrambles-to-contact-fired-employees-after-court-rules-layoffs-unlawful/)
+- [Al Gore’s Just Climate fund raises $175M from Microsoft and CalSTRS for nature-based climate investments](https://techcrunch.com/2025/03/18/al-gores-just-climate-fund-raises-175m-from-microsoft-and-calstrs-for-nature-based-climate-investments/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
