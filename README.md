@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch how SpaceX makes 15,000 Starlink satellite internet kits a day &lpar;video&rpar;](https://www.space.com/space-exploration/tech/watch-how-spacex-makes-15-000-starlink-satellite-internet-kits-a-day-video)
+- [Nvidia announces new GPUs at GTC 2025, including Vera Rubin](https://techcrunch.com/2025/03/18/nvidia-announces-new-gpus-at-gtc-2025-including-rubin/)
+- [Tesla and Rivian charging networks have fewest problems by far, according to Consumer Reports](https://techcrunch.com/2025/03/18/tesla-and-rivian-charging-networks-have-fewest-problems-by-far-according-to-consumer-reports/)
+- [Bolt’s former CEO is launching a new e-commerce startup](https://techcrunch.com/2025/03/18/bolts-former-ceo-is-launching-a-new-e-commerce-startup/)
 - [Astronaut takes a mind-bending trip over Earth beneath star trails: Space photo of the day](https://www.space.com/space-exploration/astronaut-takes-mind-bending-trip-over-earth-beneath-star-trails-space-photo-of-the-day)
-- [Pebble creator unveils two new Pebble-inspired smartwatches](https://techcrunch.com/2025/03/18/pebble-creator-unveils-the-first-new-pebble-inspired-smartwatches/)
-- [Stability AI’s new AI model turns photos into 3D scenes](https://techcrunch.com/2025/03/18/stability-ais-new-ai-model-turns-photos-into-3d-scenes/)
-- [How to watch Nvidia GTC 2025, including CEO Jensen Huang’s keynote](https://techcrunch.com/2025/03/18/how-to-watch-nvidia-gtc-2025-including-ceo-jensen-huangs-keynote/)
-- [New cosmic &#39;baby pictures&#39; reveal our universe taking its 1st steps towards stars and galaxies](https://www.space.com/the-universe/new-cosmic-baby-pictures-from-powerful-telescope-in-chile-reveal-our-universe-taking-its-1st-steps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
