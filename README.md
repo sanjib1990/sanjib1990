@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nerdio nabs $500M to power virtual desktops on Azure](https://techcrunch.com/2025/03/18/nerdio-nabs-500m-to-power-virtual-desktops-on-azure/)
+- [Why NASA&#39;s Starliner astronauts spent 9 months in space on a 10-day mission: A timeline](https://www.space.com/space-exploration/international-space-station/why-nasas-starliner-astronauts-spent-9-months-in-space-on-a-10-day-mission-a-timeline)
+- [YC-backed food supply startup Vendease restructures employees’ salaries](https://techcrunch.com/2025/03/18/vendease-restructures-employees-salaries/)
 - [GrubMarket raises $50M at a $3.5B+ valuation to build AI for the $1 trillion food distribution industry](https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/)
 - [What time will NASA&#39;s Starliner astronauts land with SpaceX&#39;s Crew-9 today? How to watch live.](https://www.space.com/space-exploration/international-space-station/what-time-are-nasas-starliner-astronauts-landing-with-spacexs-crew-9-today)
-- [Google, Speedinvest back Kenya’s Leta, which uses AI to make logistics cheaper](https://techcrunch.com/2025/03/18/google-speedinvest-back-kenyas-leta-which-uses-ai-to-make-logistics-cheaper/)
-- [Waymo’s milestone SFO mapping permit comes with strings attached](https://techcrunch.com/2025/03/17/waymos-milestone-sfo-mapping-permit-comes-with-strings-attached/)
-- [Google revives talks to acquire Wiz at higher valuation](https://techcrunch.com/2025/03/17/google-revives-talks-to-acquire-wiz-at-higher-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
