@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elon Musk’s DOGE leadership likely violates constitution’s appointments clause, judge says](https://techcrunch.com/2025/03/18/elon-musks-doge-leadership-likely-violates-constitutions-appointments-clause-judge-says/)
-- [New $5M deep tech fund aims to lure founders from universities](https://techcrunch.com/2025/03/18/new-5m-deep-tech-fund-aims-to-lure-founders-from-universities/)
+- [SpaceX launches 23 Starlink internet satellites to orbit from Florida&#39;s Space Coast &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-starlink-internet-satellites-to-orbit-from-floridas-space-coast-video-photos)
+- [Never-&#39;stuck’ Starliner astronauts return to Earth at last with Crew-9 duo in SpaceX Dragon splashdown](https://www.space.com/space-exploration/international-space-station/never-stuck-starliner-astronauts-return-to-earth-at-last-with-crew-9-duo-in-spacex-dragon-splashdown)
 - [NASA astronauts return from long Space Station stay prompted by Boeing problems](https://techcrunch.com/2025/03/18/nasa-astronauts-return-from-long-space-station-stay-prompted-by-boeing-problems/)
-- [What Tesla can and can’t do in California with its new passenger transportation permit](https://techcrunch.com/2025/03/18/what-tesla-can-and-cant-do-in-california-with-its-new-passenger-transportation-permit/)
-- [Watch the sun set over the moon in epic video from private Blue Ghost lunar lander](https://www.space.com/the-universe/moon/watch-the-sun-set-over-the-moon-in-epic-video-from-private-blue-ghost-lunar-lander)
+- [Nvidia and Google DeepMind will help power Disney’s cute robots](https://techcrunch.com/2025/03/18/nvidia-and-google-deepmind-will-help-power-disneys-cute-robots/)
+- [JD Vance claims freeing AI from regulation is good for American workers and tech innovators](https://techcrunch.com/2025/03/18/jd-vance-claims-freeing-ai-from-regulation-is-good-for-american-workers-and-tech-innovators/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
