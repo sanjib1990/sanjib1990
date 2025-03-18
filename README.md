@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk’s DOGE leadership likely violates constitution’s appointments clause, judge says](https://techcrunch.com/2025/03/18/elon-musks-doge-leadership-likely-violates-constitutions-appointments-clause-judge-says/)
+- [New $5M deep tech fund aims to lure founders from universities](https://techcrunch.com/2025/03/18/new-5m-deep-tech-fund-aims-to-lure-founders-from-universities/)
+- [NASA astronauts return from long Space Station stay prompted by Boeing problems](https://techcrunch.com/2025/03/18/nasa-astronauts-return-from-long-space-station-stay-prompted-by-boeing-problems/)
+- [What Tesla can and can’t do in California with its new passenger transportation permit](https://techcrunch.com/2025/03/18/what-tesla-can-and-cant-do-in-california-with-its-new-passenger-transportation-permit/)
 - [Watch the sun set over the moon in epic video from private Blue Ghost lunar lander](https://www.space.com/the-universe/moon/watch-the-sun-set-over-the-moon-in-epic-video-from-private-blue-ghost-lunar-lander)
-- [An AI model from over a decade ago sparked Nvidia’s investment in autonomous vehicles](https://techcrunch.com/2025/03/18/an-ai-model-from-over-a-decade-ago-sparked-nvidias-investment-in-autonomous-vehicles/)
-- [Nvidia announces two ‘personal AI supercomputers’](https://techcrunch.com/2025/03/18/nvidia-announces-two-personal-ai-supercomputers/)
-- [FTC removes posts critical of Big Tech from its website](https://techcrunch.com/2025/03/18/ftc-removes-posts-critical-of-big-tech-from-its-website/)
-- [GM teams up with Nvidia to bring AI to robots, factories, and self-driving cars](https://techcrunch.com/2025/03/18/gm-teams-up-with-nvidia-to-bring-ai-to-robots-factories-and-self-driving-cars/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
