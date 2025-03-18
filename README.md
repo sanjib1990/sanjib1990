@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple loses appeal against Germany’s special abuse control for Big Tech](https://techcrunch.com/2025/03/18/apple-loses-appeal-against-germanys-special-abuse-control-for-big-tech/)
-- [The far side of the moon was once a vast magma ocean, Chinese lunar lander confirms](https://www.space.com/the-universe/moon/the-far-side-of-the-moon-was-once-a-vast-magma-ocean-chinese-lunar-lander-confirms)
-- [Google is buying Wiz for up to $33B to beef up in cloud security, sources say](https://techcrunch.com/2025/03/18/google-is-buying-wiz-for-32b-to-beef-up-in-cloud-security/)
-- [Nerdio nabs $500M to power virtual desktops on Azure](https://techcrunch.com/2025/03/18/nerdio-nabs-500m-to-power-virtual-desktops-on-azure/)
-- [Why NASA&#39;s Starliner astronauts spent 9 months in space on a 10-day mission: A timeline](https://www.space.com/space-exploration/international-space-station/why-nasas-starliner-astronauts-spent-9-months-in-space-on-a-10-day-mission-a-timeline)
+- [WhatsApp will soon limit number of broadcast messages users and businesses can send](https://techcrunch.com/2025/03/18/whatsapp-will-soon-limit-number-of-broadcast-messages-users-and-businesses-can-send/)
+- [Exist is a new social wellness app that wants to help middle-age users find community](https://techcrunch.com/2025/03/18/exist-is-a-new-social-wellness-app-that-wants-to-help-middle-age-users-find-community/)
+- [Google plans to release new ‘open’ AI models for drug discovery](https://techcrunch.com/2025/03/18/google-plans-to-release-new-open-ai-models-for-drug-discovery/)
+- [Google launches new healthcare-related features for Search, Android](https://techcrunch.com/2025/03/18/google-adds-new-healthcare-related-features-in-search/)
+- [&#39;Apollo 1&#39; director surprised by details of ill-fated mission in new documentary](https://www.space.com/space-exploration/apollo/apollo-1-director-surprised-by-details-of-ill-fated-mission-in-new-documentary)
 <!-- BLOG-POST-LIST:END -->
 
 ---
