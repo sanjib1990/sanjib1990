@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/)
+- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/)
+- [Google now lets kids use Google Wallet for in-store payments in select countries](https://techcrunch.com/2025/03/19/google-now-lets-kids-use-google-wallet-for-in-store-payments-in-select-countries/)
+- [Borderlands 4: Release date, trailers &amp; everything we know](https://www.space.com/entertainment/space-games-toys/borderlands-4-release-date-trailers-and-everything-we-know)
 - [&#39;Microlightning&#39; between water droplets could have sparked life on Earth. Here&#39;s how](https://www.space.com/the-universe/earth/microlightning-between-water-droplets-could-have-sparked-life-on-earth-heres-how)
-- [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/)
-- [Researchers name several countries as potential Paragon spyware customers](https://techcrunch.com/2025/03/19/researchers-name-several-countries-as-potential-paragon-spyware-customers/)
-- [Mars madness! Perfect NCAA tournament bracket wins you a trip to the Red Planet on SpaceX&#39;s Starship](https://www.space.com/the-universe/mars/mars-madness-perfect-bracket-wins-you-a-trip-to-the-red-planet-on-spacexs-starship)
-- [Shopify transfers its US listing from the NYSE to the Nasdaq](https://techcrunch.com/2025/03/19/shopify-transfers-its-us-listing-from-the-nyse-to-the-nasdaq/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
