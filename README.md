@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/)
+- [Euclid space telescope&#39;s 1st results reveal &#39;a goldmine of data&#39; in search for dark matter and dark energy &lpar;images, video&rpar;](https://www.space.com/the-universe/euclid-space-telescopes-1st-results-reveal-a-goldmine-of-data-in-search-for-dark-matter-and-dark-energy-images-video)
+- [US paid music subscribers cross 100 million mark for the first time](https://techcrunch.com/2025/03/19/us-paid-music-subscribers-cross-100-million-mark-for-the-first-time/)
+- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/)
 - [Dolphins welcome SpaceX&#39;s Crew-9 astronauts home after splashdown &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/dolphins-welcome-spacexs-crew-9-astronauts-home-after-splashdown-video)
-- [Factorial, a HR unicorn, snaps up $120M from General Catalyst to boost sales and marketing](https://techcrunch.com/2025/03/19/factorial-snaps-up-120m-from-general-catalyst-to-boost-its-hr-sales-and-marketing/)
-- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/)
-- [Trump fires FTC commissioners, setting up a legal battle](https://techcrunch.com/2025/03/18/trump-fires-ftc-commissioners-setting-up-a-legal-battle/)
-- [SpaceX launches 23 Starlink internet satellites to orbit from Florida&#39;s Space Coast &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-starlink-internet-satellites-to-orbit-from-floridas-space-coast-video-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
