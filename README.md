@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Save 28% in this early Amazon Spring Deal Days Lego Star Wars deal as Ahsoka Tano&#39;s T-6 Jedi Shuttle is heavily discounted](https://www.space.com/entertainment/save-28-percent-in-this-early-amazon-spring-sale-lego-star-wars-deal-as-ahsoka-tanos-t-6-jedi-shuttle-is-heavily-discounted)
-- [The AI leaders bringing the AGI debate down to Earth](https://techcrunch.com/2025/03/19/the-ai-leaders-bringing-the-agi-debate-down-to-earth/)
-- [Hunted Labs lands $3M to find suspicious open source contributors](https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/)
-- [Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage](https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/)
-- [How do spiral galaxies get &#39;feathers&#39;? All it takes is a little gravity](https://www.space.com/the-universe/galaxies/how-do-spiral-galaxies-get-feathers-all-it-takes-is-a-little-gravity)
+- [Researchers say they’ve discovered a new method of ‘scaling up’ AI, but there’s reason to be skeptical](https://techcrunch.com/2025/03/19/researchers-say-theyve-discovered-a-new-method-of-scaling-up-ai-but-theres-reason-to-be-skeptical/)
+- [Tera AI comes out of stealth with $7.8M to provide visual navigation for robots](https://techcrunch.com/2025/03/19/teraai-comes-out-of-stealth-with-7-8m-to-provide-visual-navigation-for-robots/)
+- [Hubble Telescope spies star-forming cocoons in neighboring galaxy &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-spies-star-forming-cocoons-in-neighboring-galaxy-photo)
+- [US teachers’ union says hackers stole sensitive personal data on over 500,000 members](https://techcrunch.com/2025/03/19/us-teachers-union-says-hackers-stole-sensitive-personal-data-on-over-500000-members/)
+- [EU sends Apple first DMA interoperability instructions for apps and connected devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
