@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Group co-led by Fei-Fei Li suggests that AI safety laws should anticipate future risks](https://techcrunch.com/2025/03/19/group-co-led-by-fei-fei-li-suggests-that-ai-safety-laws-should-anticipate-future-risks/)
-- [Substack rival Ghost is now connected to the fediverse](https://techcrunch.com/2025/03/19/substack-rival-ghost-is-now-connected-to-the-fediverse/)
-- [A key DeepMind robotics researcher left Google and Nvidia has already backed his stealth startup](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/)
-- [Bluesky made more money selling T-shirts mocking Zuckerberg than custom domains](https://techcrunch.com/2025/03/19/bluesky-made-more-money-selling-t-shirts-mocking-zuckerberg-than-custom-domains/)
-- [xAI launches an API for generating images](https://techcrunch.com/2025/03/19/xai-launches-an-api-for-generating-images/)
+- [Large alien planets may be born in chaos, NASA&#39;s retired exoplanet-hunter finds](https://www.space.com/the-universe/exoplanets/large-alien-planets-may-be-born-in-chaos-nasas-retired-exoplanet-hunter-finds)
+- [NASA still mulling options for Boeing&#39;s troubled Starliner astronaut capsule](https://www.space.com/space-exploration/international-space-station/nasa-still-mulling-options-for-boeings-troubled-starliner-astronaut-capsule)
+- [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/)
+- [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/)
+- [What were Stephen Hawking&#39;s greatest contributions to science?](https://www.space.com/the-universe/what-were-stephen-hawkings-greatest-contributions-to-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
