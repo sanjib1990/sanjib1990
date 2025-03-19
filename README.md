@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Researchers say they’ve discovered a new method of ‘scaling up’ AI, but there’s reason to be skeptical](https://techcrunch.com/2025/03/19/researchers-say-theyve-discovered-a-new-method-of-scaling-up-ai-but-theres-reason-to-be-skeptical/)
-- [Tera AI comes out of stealth with $7.8M to provide visual navigation for robots](https://techcrunch.com/2025/03/19/teraai-comes-out-of-stealth-with-7-8m-to-provide-visual-navigation-for-robots/)
-- [Hubble Telescope spies star-forming cocoons in neighboring galaxy &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-spies-star-forming-cocoons-in-neighboring-galaxy-photo)
-- [US teachers’ union says hackers stole sensitive personal data on over 500,000 members](https://techcrunch.com/2025/03/19/us-teachers-union-says-hackers-stole-sensitive-personal-data-on-over-500000-members/)
-- [EU sends Apple first DMA interoperability instructions for apps and connected devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/)
+- [Solar viewing deals 2025: safely observe the sun for less](https://www.space.com/stargazing/astronomy-kit/solar-viewing-deals-2025-safely-observe-the-sun-for-less)
+- [Analytics company Dataminr secures $85M to fund growth](https://techcrunch.com/2025/03/19/analytics-company-dataminr-secures-85m-to-fund-growth/)
+- [Streamer Plex raises subscription price for the first time in a decade](https://techcrunch.com/2025/03/19/streamer-plex-raises-subscription-price-for-the-first-time-in-a-decade/)
+- [Google search, Play Store falling foul of Digital Markets Act rules, says EU](https://techcrunch.com/2025/03/19/google-search-play-store-falling-foul-of-digital-markets-act-rules-says-eu/)
+- [EPA was ‘arbitrary and capricious’ when it froze nonprofits’ Citibank accounts, judge finds](https://techcrunch.com/2025/03/19/epa-was-arbitrary-and-capricious-when-it-froze-nonprofits-citibank-accounts-judge-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
