@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/19/tech-layoffs-2025-list/)
 - [Trump fires FTC commissioners, setting up a legal battle](https://techcrunch.com/2025/03/18/trump-fires-ftc-commissioners-setting-up-a-legal-battle/)
 - [SpaceX launches 23 Starlink internet satellites to orbit from Florida&#39;s Space Coast &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-23-starlink-internet-satellites-to-orbit-from-floridas-space-coast-video-photos)
 - [Never-&#39;stuck’ Starliner astronauts return to Earth at last with Crew-9 duo in SpaceX Dragon splashdown](https://www.space.com/space-exploration/international-space-station/never-stuck-starliner-astronauts-return-to-earth-at-last-with-crew-9-duo-in-spacex-dragon-splashdown)
 - [NASA astronauts return from long Space Station stay prompted by Boeing problems](https://techcrunch.com/2025/03/18/nasa-astronauts-return-from-long-space-station-stay-prompted-by-boeing-problems/)
-- [Nvidia and Google DeepMind will help power Disney’s cute robots](https://techcrunch.com/2025/03/18/nvidia-and-google-deepmind-will-help-power-disneys-cute-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
