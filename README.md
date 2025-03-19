@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cape opens $99/month beta of its privacy-first mobile plan, inks Proton deal, raises $30M](https://techcrunch.com/2025/03/19/cape-opens-99-month-beta-of-its-privacy-first-mobile-plan-inks-proton-deal-raises-30m/)
-- [Let your voice be heard! Vote for who you want to see at TechCrunch Sessions: AI](https://techcrunch.com/2025/03/19/let-your-voice-be-heard-vote-for-who-you-want-to-see-at-techcrunch-sessions-ai/)
-- [Google now lets kids use Google Wallet for in-store payments in select countries](https://techcrunch.com/2025/03/19/google-now-lets-kids-use-google-wallet-for-in-store-payments-in-select-countries/)
-- [Borderlands 4: Release date, trailers &amp; everything we know](https://www.space.com/entertainment/space-games-toys/borderlands-4-release-date-trailers-and-everything-we-know)
-- [&#39;Microlightning&#39; between water droplets could have sparked life on Earth. Here&#39;s how](https://www.space.com/the-universe/earth/microlightning-between-water-droplets-could-have-sparked-life-on-earth-heres-how)
+- [Save 28% in this early Amazon Spring Deal Days Lego Star Wars deal as Ahsoka Tano&#39;s T-6 Jedi Shuttle is heavily discounted](https://www.space.com/entertainment/save-28-percent-in-this-early-amazon-spring-sale-lego-star-wars-deal-as-ahsoka-tanos-t-6-jedi-shuttle-is-heavily-discounted)
+- [The AI leaders bringing the AGI debate down to Earth](https://techcrunch.com/2025/03/19/the-ai-leaders-bringing-the-agi-debate-down-to-earth/)
+- [Hunted Labs lands $3M to find suspicious open source contributors](https://techcrunch.com/2025/03/19/hunted-labs-lands-3m-to-find-suspicious-open-source-contributors/)
+- [Mortgage as an employee benefit? Kleiner Perkins leads $23.5M Series A for Multiply Mortgage](https://techcrunch.com/2025/03/19/mortgage-as-an-employee-benefit-kleiner-perkins-leads-23-5m-series-a-for-multiply-mortgage/)
+- [How do spiral galaxies get &#39;feathers&#39;? All it takes is a little gravity](https://www.space.com/the-universe/galaxies/how-do-spiral-galaxies-get-feathers-all-it-takes-is-a-little-gravity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
