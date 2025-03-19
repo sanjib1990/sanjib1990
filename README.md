@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Microlightning&#39; between water droplets could have sparked life on Earth. Here&#39;s how](https://www.space.com/the-universe/earth/microlightning-between-water-droplets-could-have-sparked-life-on-earth-heres-how)
+- [Agentic AI startup AMT aims to be ‘Google Adwords for influencers,’ raises seed round](https://techcrunch.com/2025/03/19/agentic-ai-startup-amt-aims-to-be-google-adwords-for-influencers-raises-seed-round/)
 - [Researchers name several countries as potential Paragon spyware customers](https://techcrunch.com/2025/03/19/researchers-name-several-countries-as-potential-paragon-spyware-customers/)
-- [Mars madness! Perfect bracket wins you a trip to the Red Planet on SpaceX&#39;s Starship](https://www.space.com/the-universe/mars/mars-madness-perfect-bracket-wins-you-a-trip-to-the-red-planet-on-spacexs-starship)
+- [Mars madness! Perfect NCAA tournament bracket wins you a trip to the Red Planet on SpaceX&#39;s Starship](https://www.space.com/the-universe/mars/mars-madness-perfect-bracket-wins-you-a-trip-to-the-red-planet-on-spacexs-starship)
 - [Shopify transfers its US listing from the NYSE to the Nasdaq](https://techcrunch.com/2025/03/19/shopify-transfers-its-us-listing-from-the-nyse-to-the-nasdaq/)
-- [Academics accuse AI startups of co-opting peer review for publicity](https://techcrunch.com/2025/03/19/academics-accuse-ai-startups-of-co-opting-peer-review-for-publicity/)
-- [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
