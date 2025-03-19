@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alien life could survive on Earth-like planets circling dead stars, study suggests](https://www.space.com/the-universe/alien-life-could-survive-on-earth-like-planets-circling-dead-stars-study-suggests)
-- [NASA still mulling options for Boeing&#39;s troubled Starliner astronaut capsule](https://www.space.com/space-exploration/international-space-station/nasa-still-mulling-options-for-boeings-troubled-starliner-astronaut-capsule)
-- [Large alien planets may be born in chaos, NASA&#39;s retired exoplanet-hunter finds](https://www.space.com/the-universe/exoplanets/large-alien-planets-may-be-born-in-chaos-nasas-retired-exoplanet-hunter-finds)
-- [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/)
-- [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/)
+- [Aliens abduct space-crazed kid in wild new trailer for Pixar&#39;s &#39;Elio&#39; &lpar;video&rpar;](https://www.space.com/entertainment/aliens-abduct-space-crazed-kid-in-wild-new-trailer-for-pixars-elio-video)
+- [The MacBook Pro is one of the best laptops for astronomers and it&#39;s just hit its lowest-ever price](https://www.space.com/stargazing/astronomy-kit/macbook-pro-m4-deal)
+- [X users treating Grok like a fact-checker spark concerns over misinformation](https://techcrunch.com/2025/03/19/x-users-treating-grok-like-a-fact-checker-spark-concerns-over-misinformation/)
+- [Sequoia shutters D.C. office, lets go of policy team](https://techcrunch.com/2025/03/19/sequoia-shutters-d-c-office-lets-go-of-policy-team/)
+- [OpenAI research lead Noam Brown thinks AI ‘reasoning’ models could’ve arrived decades ago](https://techcrunch.com/2025/03/19/openai-research-lead-noam-brown-thinks-ai-reasoning-models-couldve-arrived-decades-ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
