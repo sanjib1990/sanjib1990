@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Researchers name several countries as potential Paragon spyware customers](https://techcrunch.com/2025/03/19/researchers-name-several-countries-as-potential-paragon-spyware-customers/)
+- [Mars madness! Perfect bracket wins you a trip to the Red Planet on SpaceX&#39;s Starship](https://www.space.com/the-universe/mars/mars-madness-perfect-bracket-wins-you-a-trip-to-the-red-planet-on-spacexs-starship)
+- [Shopify transfers its US listing from the NYSE to the Nasdaq](https://techcrunch.com/2025/03/19/shopify-transfers-its-us-listing-from-the-nyse-to-the-nasdaq/)
+- [Academics accuse AI startups of co-opting peer review for publicity](https://techcrunch.com/2025/03/19/academics-accuse-ai-startups-of-co-opting-peer-review-for-publicity/)
 - [Prezent raises $20M to build AI for slide decks](https://techcrunch.com/2025/03/19/prezent-raises-20m-to-build-ai-for-slide-decks/)
-- [Euclid space telescope&#39;s 1st results reveal &#39;a goldmine of data&#39; in search for dark matter and dark energy &lpar;images, video&rpar;](https://www.space.com/the-universe/euclid-space-telescopes-1st-results-reveal-a-goldmine-of-data-in-search-for-dark-matter-and-dark-energy-images-video)
-- [US paid music subscribers cross 100 million mark for the first time](https://techcrunch.com/2025/03/19/us-paid-music-subscribers-cross-100-million-mark-for-the-first-time/)
-- [Aletiq secures $6.5M for its SaaS tool focused on product lifecycle management](https://techcrunch.com/2025/03/19/aletiq-secures-65m-for-its-saas-tool-focused-on-product-lifecycle-management/)
-- [Dolphins welcome SpaceX&#39;s Crew-9 astronauts home after splashdown &lpar;video&rpar;](https://www.space.com/space-exploration/international-space-station/dolphins-welcome-spacexs-crew-9-astronauts-home-after-splashdown-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
