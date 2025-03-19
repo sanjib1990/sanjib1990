@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Large alien planets may be born in chaos, NASA&#39;s retired exoplanet-hunter finds](https://www.space.com/the-universe/exoplanets/large-alien-planets-may-be-born-in-chaos-nasas-retired-exoplanet-hunter-finds)
+- [Alien life could survive on Earth-like planets circling dead stars, study suggests](https://www.space.com/the-universe/alien-life-could-survive-on-earth-like-planets-circling-dead-stars-study-suggests)
 - [NASA still mulling options for Boeing&#39;s troubled Starliner astronaut capsule](https://www.space.com/space-exploration/international-space-station/nasa-still-mulling-options-for-boeings-troubled-starliner-astronaut-capsule)
+- [Large alien planets may be born in chaos, NASA&#39;s retired exoplanet-hunter finds](https://www.space.com/the-universe/exoplanets/large-alien-planets-may-be-born-in-chaos-nasas-retired-exoplanet-hunter-finds)
 - [Nvidia reportedly acquires synthetic data startup Gretel](https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/)
 - [AWS generative AI exec leaves to launch startup](https://techcrunch.com/2025/03/19/aws-generative-ai-exec-leaves-to-launch-startup/)
-- [What were Stephen Hawking&#39;s greatest contributions to science?](https://www.space.com/the-universe/what-were-stephen-hawkings-greatest-contributions-to-science)
 <!-- BLOG-POST-LIST:END -->
 
 ---
