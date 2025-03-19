@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Group co-led by Fei-Fei Li suggests that AI safety laws should anticipate future risks](https://techcrunch.com/2025/03/19/group-co-led-by-fei-fei-li-suggests-that-ai-safety-laws-should-anticipate-future-risks/)
+- [Substack rival Ghost is now connected to the fediverse](https://techcrunch.com/2025/03/19/substack-rival-ghost-is-now-connected-to-the-fediverse/)
 - [A key DeepMind robotics researcher left Google and Nvidia has already backed his stealth startup](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/)
-- [Bluesky made more money selling t-shirts mocking Zuckerberg than custom domains](https://techcrunch.com/2025/03/19/bluesky-made-more-money-selling-t-shirts-mocking-zuckerberg-than-custom-domains/)
+- [Bluesky made more money selling T-shirts mocking Zuckerberg than custom domains](https://techcrunch.com/2025/03/19/bluesky-made-more-money-selling-t-shirts-mocking-zuckerberg-than-custom-domains/)
 - [xAI launches an API for generating images](https://techcrunch.com/2025/03/19/xai-launches-an-api-for-generating-images/)
-- [Telegram founder Pavel Durov says app now has 1B users, calls WhatsApp a ‘cheap, watered down imitation’](https://techcrunch.com/2025/03/19/telegram-founder-pavel-durov-says-app-now-has-1b-users-calls-whatsapp-a-cheap-watered-down-imitation/)
-- [Elon Musk’s X reportedly bounces back to $44B valuation](https://techcrunch.com/2025/03/19/elon-musks-x-reportedly-bounces-back-to-44b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
