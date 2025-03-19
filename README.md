@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solar viewing deals 2025: safely observe the sun for less](https://www.space.com/stargazing/astronomy-kit/solar-viewing-deals-2025-safely-observe-the-sun-for-less)
-- [Analytics company Dataminr secures $85M to fund growth](https://techcrunch.com/2025/03/19/analytics-company-dataminr-secures-85m-to-fund-growth/)
-- [Streamer Plex raises subscription price for the first time in a decade](https://techcrunch.com/2025/03/19/streamer-plex-raises-subscription-price-for-the-first-time-in-a-decade/)
-- [Google search, Play Store falling foul of Digital Markets Act rules, says EU](https://techcrunch.com/2025/03/19/google-search-play-store-falling-foul-of-digital-markets-act-rules-says-eu/)
-- [EPA was ‘arbitrary and capricious’ when it froze nonprofits’ Citibank accounts, judge finds](https://techcrunch.com/2025/03/19/epa-was-arbitrary-and-capricious-when-it-froze-nonprofits-citibank-accounts-judge-finds/)
+- [A key DeepMind robotics researcher left Google and Nvidia has already backed his stealth startup](https://techcrunch.com/2025/03/19/a-key-deepmind-robotics-researcher-left-google-and-nvidia-has-already-backed-his-stealth-startup/)
+- [Bluesky made more money selling t-shirts mocking Zuckerberg than custom domains](https://techcrunch.com/2025/03/19/bluesky-made-more-money-selling-t-shirts-mocking-zuckerberg-than-custom-domains/)
+- [xAI launches an API for generating images](https://techcrunch.com/2025/03/19/xai-launches-an-api-for-generating-images/)
+- [Telegram founder Pavel Durov says app now has 1B users, calls WhatsApp a ‘cheap, watered down imitation’](https://techcrunch.com/2025/03/19/telegram-founder-pavel-durov-says-app-now-has-1b-users-calls-whatsapp-a-cheap-watered-down-imitation/)
+- [Elon Musk’s X reportedly bounces back to $44B valuation](https://techcrunch.com/2025/03/19/elon-musks-x-reportedly-bounces-back-to-44b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
