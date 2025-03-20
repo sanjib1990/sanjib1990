@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic adds web search to its Claude chatbot](https://techcrunch.com/2025/03/20/anthropic-adds-web-search-to-its-claude-chatbot/)
-- [OpenAI upgrades its transcription and voice-generating AI models](https://techcrunch.com/2025/03/20/openai-upgrades-its-transcription-and-voice-generating-ai-models/)
-- [Threads adds new features to highlight topics and limit replies](https://techcrunch.com/2025/03/20/threads-adds-new-features-to-highlight-topics-and-limit-replies/)
-- [The 10 best space RPGs of all time: Explore the galaxy in these stellar role-playing games](https://www.space.com/entertainment/space-games-toys/best-space-rpgs-of-all-time-explore-the-galaxy-in-these-stellar-role-playing-games)
-- [Rerun’s open-source AI platform for robots, drones and cars revs up with $17M seed](https://techcrunch.com/2025/03/20/reruns-open-source-ai-platform-for-robots-drones-and-cars-revs-up-with-17m-seed/)
+- [Honda and Acura EV owners to gain access to Tesla Superchargers this June](https://techcrunch.com/2025/03/20/honda-and-acura-ev-owners-to-gain-access-to-tesla-superchargers-this-june/)
+- [Massive star explosions may have triggered two mass extinctions in Earth&#39;s past: &#39;It would be terrifying.&#39;](https://www.space.com/space-exploration/search-for-life/massive-star-explosions-may-have-triggered-two-mass-extinctions-in-earths-past-it-would-be-terrifying)
+- [Gmail’s new AI search now sorts emails by relevance instead of chronological order](https://techcrunch.com/2025/03/20/gmails-new-ai-search-now-sorts-emails-by-relevance-instead-of-chronological-order/)
+- [The March 29 partial solar eclipse is fast approaching — Amazon is selling these certified and safe solar viewing glasses for under $10](https://www.space.com/stargazing/astronomy-kit/the-march-29-partial-solar-eclipse-is-fast-approaching-amazon-is-selling-these-certified-and-safe-solar-viewing-glasses-for-under-usd10)
+- [CoreWeave prices its IPO to raise at least $2.2 billion. And now the games begin.](https://techcrunch.com/2025/03/20/coreweave-prices-its-ipo-to-raise-at-least-2-2-billion-and-now-the-games-begin/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
