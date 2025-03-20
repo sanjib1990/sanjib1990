@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/)
 - [ChatGPT hit with privacy complaint over defamatory hallucinations](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/)
 - [Michael Seibel is leaving Y Combinator](https://techcrunch.com/2025/03/19/michael-seibel-is-leaving-y-combinator/)
 - [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/)
 - [SoftBank to acquire semiconductor designer Ampere in $6.5B all-cash deal](https://techcrunch.com/2025/03/19/softbank-to-acquire-semiconductor-designer-ampere-in-6-5b-all-cash-deal/)
-- [How a $6M bet on Wiz turned into a massive 200x return for one early backer](https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
