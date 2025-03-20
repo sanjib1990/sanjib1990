@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/)
-- [Adapty releases a web-based solution for app makers to earn money outside app stores](https://techcrunch.com/2025/03/20/adapty-releases-a-web-based-solutions-for-appmakers-to-earn-money-outside-app-stores/)
-- [Dark energy is even stranger than we thought, new 3D map of the universe suggests. &#39;What a time to be alive!&#39; &lpar;video&rpar;](https://www.space.com/the-universe/dark-energy-is-even-stranger-than-we-thought-new-3d-map-of-the-universe-suggests-what-a-time-to-be-alive-video)
-- [Meta AI is finally coming to the EU, but with limitations](https://techcrunch.com/2025/03/20/meta-ai-is-finally-coming-to-the-eu-but-with-limitations/)
-- [TikTok to start pushing Amber Alerts to users’ For You feeds](https://techcrunch.com/2025/03/20/tiktok-to-start-pushing-amber-alerts-to-users-for-you-feeds/)
+- [VC investment in European startups passed $52B in 2024, continuing long-term growth trend](https://techcrunch.com/2025/03/20/vc-investment-in-european-startups-passed-52b-in-2024-continuing-long-term-growth-trend/)
+- [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/)
+- [&#39;Shocking&#39; nova explosion of dead star was 100 times brighter than the sun](https://www.space.com/the-universe/shocking-nova-explosion-of-dead-star-was-100-times-brighter-than-the-sun)
+- [Solar notches another win as Microsoft adds 475 MW to power its AI data centers](https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/)
+- [Tesla recalls Cybertrucks for exterior panels that fall off](https://techcrunch.com/2025/03/20/tesla-recalls-cybertrucks-for-exterior-panels-that-fall-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
