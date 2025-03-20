@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple puts Vision Pro exec in charge of Siri in exec shaekup](https://techcrunch.com/2025/03/20/apple-puts-vision-pro-exec-in-charge-of-siri-in-exec-shaekup/)
-- [Astronomers discover exotic atmosphere on scorching hot exoplanet Cuancoá. &#39;Like finding a snowball that hasn&#39;t melted in a fire&#39;](https://www.space.com/space-exploration/james-webb-space-telescope/astronomers-discover-exotic-atmosphere-on-scorching-hot-exoplanet-cuancoa-like-finding-a-snowball-that-hasnt-melted-in-a-fire)
-- [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/)
-- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2025/03/20/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
-- [AI’s answers on China differ depending on the language, analysis finds](https://techcrunch.com/2025/03/20/ais-answers-on-china-differ-depending-on-the-language-analysis-finds/)
+- [A high schooler built a website that lets you challenge AI models to a Minecraft build-off](https://techcrunch.com/2025/03/20/a-high-schooler-built-a-website-that-lets-you-challenge-ai-models-to-a-minecraft-build-off/)
+- [North Korea launches new unit with a focus on AI hacking, per report](https://techcrunch.com/2025/03/20/north-korea-launches-new-unit-with-a-focus-on-ai-hacking-per-report/)
+- [SpaceX to set new rocket-reuse record on March 21 launch of US spy satellites](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-8th-batch-of-next-gen-us-spy-satellites-early-march-21)
+- [Gwyneth Paltrow says Goop is growing just fine](https://techcrunch.com/2025/03/20/gwyneth-paltrow-says-goop-is-growing-just-fine/)
+- [Perplexity is reportedly in talks to raise up to $1B at an $18B valuation](https://techcrunch.com/2025/03/20/perplexity-is-reportedly-in-talks-to-raise-up-to-1b-at-an-18b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
