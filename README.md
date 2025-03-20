@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackers are ramping up attacks using year-old ServiceNow security bugs to target unpatched systems](https://techcrunch.com/2025/03/20/hackers-are-ramping-up-attacks-using-year-old-servicenow-security-bugs-to-break-into-unpatched-systems/)
+- [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/)
+- [This new telescope lens could be a game-changer for space imagery](https://www.space.com/space-exploration/tech/this-new-telescope-lens-could-be-a-game-changer-for-space-imagery)
 - [VC investment in European startups passed $52B in 2024, continuing long-term growth trend](https://techcrunch.com/2025/03/20/vc-investment-in-european-startups-passed-52b-in-2024-continuing-long-term-growth-trend/)
 - [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/)
-- [&#39;Shocking&#39; nova explosion of dead star was 100 times brighter than the sun](https://www.space.com/the-universe/shocking-nova-explosion-of-dead-star-was-100-times-brighter-than-the-sun)
-- [Solar notches another win as Microsoft adds 475 MW to power its AI data centers](https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/)
-- [Tesla recalls Cybertrucks for exterior panels that fall off](https://techcrunch.com/2025/03/20/tesla-recalls-cybertrucks-for-exterior-panels-that-fall-off/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
