@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Honda and Acura EV owners to gain access to Tesla Superchargers this June](https://techcrunch.com/2025/03/20/honda-and-acura-ev-owners-to-gain-access-to-tesla-superchargers-this-june/)
-- [Massive star explosions may have triggered two mass extinctions in Earth&#39;s past: &#39;It would be terrifying.&#39;](https://www.space.com/space-exploration/search-for-life/massive-star-explosions-may-have-triggered-two-mass-extinctions-in-earths-past-it-would-be-terrifying)
-- [Gmail’s new AI search now sorts emails by relevance instead of chronological order](https://techcrunch.com/2025/03/20/gmails-new-ai-search-now-sorts-emails-by-relevance-instead-of-chronological-order/)
-- [The March 29 partial solar eclipse is fast approaching — Amazon is selling these certified and safe solar viewing glasses for under $10](https://www.space.com/stargazing/astronomy-kit/the-march-29-partial-solar-eclipse-is-fast-approaching-amazon-is-selling-these-certified-and-safe-solar-viewing-glasses-for-under-usd10)
-- [CoreWeave prices its IPO to raise at least $2.2 billion. And now the games begin.](https://techcrunch.com/2025/03/20/coreweave-prices-its-ipo-to-raise-at-least-2-2-billion-and-now-the-games-begin/)
+- [Apple puts Vision Pro exec in charge of Siri in exec shaekup](https://techcrunch.com/2025/03/20/apple-puts-vision-pro-exec-in-charge-of-siri-in-exec-shaekup/)
+- [Astronomers discover exotic atmosphere on scorching hot exoplanet Cuancoá. &#39;Like finding a snowball that hasn&#39;t melted in a fire&#39;](https://www.space.com/space-exploration/james-webb-space-telescope/astronomers-discover-exotic-atmosphere-on-scorching-hot-exoplanet-cuancoa-like-finding-a-snowball-that-hasnt-melted-in-a-fire)
+- [Next Insurance gets scooped up by Munich Re for $2.6B](https://techcrunch.com/2025/03/20/next-insurance-gets-scooped-up-by-munich-re-for-2-6b/)
+- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2025/03/20/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
+- [AI’s answers on China differ depending on the language, analysis finds](https://techcrunch.com/2025/03/20/ais-answers-on-china-differ-depending-on-the-language-analysis-finds/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
