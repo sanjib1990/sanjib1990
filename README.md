@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple is reportedly losing $1B per year on its streaming service](https://techcrunch.com/2025/03/20/apple-is-reportedly-losing-1b-per-year-on-its-streaming-service/)
+- [Which is better for astrophotography? Sony, Canon or Nikon?](https://www.space.com/entertainment/which-is-better-for-astrophotography-sony-canon-or-nikon)
+- [When space meets sea, Crew-9 Dragon meets dolphins: Space photo of the day](https://www.space.com/space-exploration/international-space-station/when-space-meets-sea-crew-9-dragon-meets-dolphins-space-photo-of-the-day)
 - [A high schooler built a website that lets you challenge AI models to a Minecraft build-off](https://techcrunch.com/2025/03/20/a-high-schooler-built-a-website-that-lets-you-challenge-ai-models-to-a-minecraft-build-off/)
 - [North Korea launches new unit with a focus on AI hacking, per report](https://techcrunch.com/2025/03/20/north-korea-launches-new-unit-with-a-focus-on-ai-hacking-per-report/)
-- [SpaceX to set new rocket-reuse record on March 21 launch of US spy satellites](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-8th-batch-of-next-gen-us-spy-satellites-early-march-21)
-- [Gwyneth Paltrow says Goop is growing just fine](https://techcrunch.com/2025/03/20/gwyneth-paltrow-says-goop-is-growing-just-fine/)
-- [Perplexity is reportedly in talks to raise up to $1B at an $18B valuation](https://techcrunch.com/2025/03/20/perplexity-is-reportedly-in-talks-to-raise-up-to-1b-at-an-18b-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
