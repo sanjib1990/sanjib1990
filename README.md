@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make waves in 2025: Exhibit at TechCrunch events](https://techcrunch.com/2025/03/20/make-waves-in-2025-exhibit-at-techcrunch-events/)
+- [Adapty releases a web-based solution for app makers to earn money outside app stores](https://techcrunch.com/2025/03/20/adapty-releases-a-web-based-solutions-for-appmakers-to-earn-money-outside-app-stores/)
+- [Dark energy is even stranger than we thought, new 3D map of the universe suggests. &#39;What a time to be alive!&#39; &lpar;video&rpar;](https://www.space.com/the-universe/dark-energy-is-even-stranger-than-we-thought-new-3d-map-of-the-universe-suggests-what-a-time-to-be-alive-video)
+- [Meta AI is finally coming to the EU, but with limitations](https://techcrunch.com/2025/03/20/meta-ai-is-finally-coming-to-the-eu-but-with-limitations/)
 - [TikTok to start pushing Amber Alerts to users’ For You feeds](https://techcrunch.com/2025/03/20/tiktok-to-start-pushing-amber-alerts-to-users-for-you-feeds/)
-- [Oxygen discovered in most distant galaxy ever seen: &#39;It is like finding an adolescent where you would only expect babies&#39;](https://www.space.com/the-universe/oxygen-discovered-in-most-distant-galaxy-ever-seen-it-is-like-finding-an-adolescent-where-you-would-only-expect-babies)
-- [Dark skies above world&#39;s best astronomy sites could be ruined by new energy project](https://www.space.com/space-exploration/dark-skies-above-worlds-best-astronomy-sites-could-be-ruined-by-new-energy-project)
-- [Spring equinox 2025: Say goodbye to winter in the Northern Hemisphere today](https://www.space.com/the-universe/earth/spring-equinox-2025-say-goodbye-to-winter-in-the-northern-hemisphere-today)
-- [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
