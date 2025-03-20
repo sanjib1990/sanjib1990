@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How a $6M bet on Wiz turned into a massive 200x return for one early backer](https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/)
 - [OpenAI’s o1-pro is the company’s most expensive AI model yet](https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/)
 - [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2025/03/19/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
 - [Data breach at stalkerware SpyX affects close to 2 million, including thousands of Apple users](https://techcrunch.com/2025/03/19/data-breach-at-stalkerware-spyx-affects-close-to-2-million-including-thousands-of-apple-users/)
 - [Aliens abduct space-crazed kid in wild new trailer for Pixar&#39;s &#39;Elio&#39; &lpar;video&rpar;](https://www.space.com/entertainment/aliens-abduct-space-crazed-kid-in-wild-new-trailer-for-pixars-elio-video)
-- [The MacBook Pro is one of the best laptops for astronomers and it&#39;s just hit its lowest-ever price](https://www.space.com/stargazing/astronomy-kit/macbook-pro-m4-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
