@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TikTok to start pushing Amber Alerts to users’ For You feeds](https://techcrunch.com/2025/03/20/tiktok-to-start-pushing-amber-alerts-to-users-for-you-feeds/)
+- [Oxygen discovered in most distant galaxy ever seen: &#39;It is like finding an adolescent where you would only expect babies&#39;](https://www.space.com/the-universe/oxygen-discovered-in-most-distant-galaxy-ever-seen-it-is-like-finding-an-adolescent-where-you-would-only-expect-babies)
 - [Dark skies above world&#39;s best astronomy sites could be ruined by new energy project](https://www.space.com/space-exploration/dark-skies-above-worlds-best-astronomy-sites-could-be-ruined-by-new-energy-project)
 - [Spring equinox 2025: Say goodbye to winter in the Northern Hemisphere today](https://www.space.com/the-universe/earth/spring-equinox-2025-say-goodbye-to-winter-in-the-northern-hemisphere-today)
 - [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/)
-- [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/)
-- [ChatGPT hit with privacy complaint over defamatory hallucinations](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
