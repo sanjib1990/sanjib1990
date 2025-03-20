@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers are ramping up attacks using year-old ServiceNow security bugs to target unpatched systems](https://techcrunch.com/2025/03/20/hackers-are-ramping-up-attacks-using-year-old-servicenow-security-bugs-to-break-into-unpatched-systems/)
-- [Airbyte launches new connectors to help companies better leverage their data](https://techcrunch.com/2025/03/20/airbyte-launches-new-connectors-to-help-companies-better-leverage-their-data/)
-- [This new telescope lens could be a game-changer for space imagery](https://www.space.com/space-exploration/tech/this-new-telescope-lens-could-be-a-game-changer-for-space-imagery)
-- [VC investment in European startups passed $52B in 2024, continuing long-term growth trend](https://techcrunch.com/2025/03/20/vc-investment-in-european-startups-passed-52b-in-2024-continuing-long-term-growth-trend/)
-- [Time is ticking! Vote for the TechCrunch Sessions: AI speaker you want to see](https://techcrunch.com/2025/03/20/time-is-ticking-vote-for-the-techcrunch-sessions-ai-speaker-you-want-to-see/)
+- [Anthropic adds web search to its Claude chatbot](https://techcrunch.com/2025/03/20/anthropic-adds-web-search-to-its-claude-chatbot/)
+- [OpenAI upgrades its transcription and voice-generating AI models](https://techcrunch.com/2025/03/20/openai-upgrades-its-transcription-and-voice-generating-ai-models/)
+- [Threads adds new features to highlight topics and limit replies](https://techcrunch.com/2025/03/20/threads-adds-new-features-to-highlight-topics-and-limit-replies/)
+- [The 10 best space RPGs of all time: Explore the galaxy in these stellar role-playing games](https://www.space.com/entertainment/space-games-toys/best-space-rpgs-of-all-time-explore-the-galaxy-in-these-stellar-role-playing-games)
+- [Rerun’s open-source AI platform for robots, drones and cars revs up with $17M seed](https://techcrunch.com/2025/03/20/reruns-open-source-ai-platform-for-robots-drones-and-cars-revs-up-with-17m-seed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
