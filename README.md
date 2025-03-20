@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring equinox 2025: Say goodbye to winter in the Northern Hemisphere today](https://www.space.com/the-universe/earth/spring-equinox-2025-say-goodbye-to-winter-in-the-northern-hemisphere-today)
 - [Pruna AI open sources its AI model optimization framework](https://techcrunch.com/2025/03/20/pruna-ai-open-sources-its-ai-model-optimization-framework/)
 - [Amid calls for sovereign EU tech stack, Evroc raises $55M to build a hyperscale cloud in Europe](https://techcrunch.com/2025/03/20/amid-calls-for-sovereign-eu-tech-stack-evroc-raises-55m-to-build-a-hyperscale-cloud-in-europe/)
 - [ChatGPT hit with privacy complaint over defamatory hallucinations](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/)
 - [Michael Seibel is leaving Y Combinator](https://techcrunch.com/2025/03/19/michael-seibel-is-leaving-y-combinator/)
-- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
