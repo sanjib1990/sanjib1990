@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ClearGrid, armed with a fresh $10M, is developing AI to improve debt collection in MENA](https://techcrunch.com/2025/03/19/cleargrid-armed-with-10m-uses-ai-to-fix-debt-collection-in-mena/)
+- [SoftBank to acquire semiconductor designer Ampere in $6.5B all-cash deal](https://techcrunch.com/2025/03/19/softbank-to-acquire-semiconductor-designer-ampere-in-6-5b-all-cash-deal/)
 - [How a $6M bet on Wiz turned into a massive 200x return for one early backer](https://techcrunch.com/2025/03/19/how-a-6m-bet-on-wiz-turned-into-a-massive-200x-return-for-one-early-backer/)
 - [OpenAI’s o1-pro is the company’s most expensive AI model yet](https://techcrunch.com/2025/03/19/openais-o1-pro-is-its-most-expensive-model-yet/)
 - [Hacked, leaked, exposed: Why you should never use stalkerware apps](https://techcrunch.com/2025/03/19/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/)
-- [Data breach at stalkerware SpyX affects close to 2 million, including thousands of Apple users](https://techcrunch.com/2025/03/19/data-breach-at-stalkerware-spyx-affects-close-to-2-million-including-thousands-of-apple-users/)
-- [Aliens abduct space-crazed kid in wild new trailer for Pixar&#39;s &#39;Elio&#39; &lpar;video&rpar;](https://www.space.com/entertainment/aliens-abduct-space-crazed-kid-in-wild-new-trailer-for-pixars-elio-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
