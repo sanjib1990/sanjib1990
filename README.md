@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I&#39;m going to New Brunswick, Canada, to see next week&#39;s &#39;sunrise&#39; solar eclipse](https://www.space.com/why-i-am-going-to-new-brunswick-for-partial-solar-eclipse-march-2025)
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/03/21/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
 - [This solar filter attaches to your telescope, camera lens or spotting scope for safe eclipse viewing. With a 15% discount, grab it now in time for this month&#39;s solar event](https://www.space.com/stargazing/astronomy-kit/celestron-solar-filter-deal-partial-solar-eclipse)
 - [Next month NASA&#39;s Lucy probe will visit an asteroid that&#39;s been waiting 150 million years to say hello](https://www.space.com/the-universe/asteroids/next-month-nasas-lucy-probe-will-visit-an-asteroid-thats-been-waiting-150-million-years-to-say-hello)
 - [TechCrunch has, yes, personal news!](https://techcrunch.com/2025/03/21/techcrunch-has-personal-news/)
-- [Anthropic appears to be using Brave to power web search for its Claude chatbot](https://techcrunch.com/2025/03/21/anthropic-appears-to-be-using-brave-to-power-web-searches-for-its-claude-chatbot/)
-- [Startups Weekly: Wiz’s bet paid off in an M&amp;A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
