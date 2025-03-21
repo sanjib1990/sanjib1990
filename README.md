@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GTC felt more bullish than ever, but Nvidia’s challenges are piling up](https://techcrunch.com/2025/03/20/gtc-felt-more-bullish-than-ever-but-nvidias-challenges-are-piling-up/)
 - [Apple faces lawsuit over Apple Intelligence delays](https://techcrunch.com/2025/03/20/apple-faces-lawsuit-over-apple-intelligence-delays/)
 - [Federal judge blocks DOGE’s access to Social Security Administration’s banks of personal information](https://techcrunch.com/2025/03/20/federal-judge-blocks-doges-access-to-social-security-administrations-banks-of-personal-information/)
 - [Apple is reportedly losing $1B per year on its streaming service](https://techcrunch.com/2025/03/20/apple-is-reportedly-losing-1b-per-year-on-its-streaming-service/)
 - [Which is better for astrophotography? Sony, Canon or Nikon?](https://www.space.com/entertainment/which-is-better-for-astrophotography-sony-canon-or-nikon)
-- [When space meets sea, Crew-9 Dragon meets dolphins: Space photo of the day](https://www.space.com/space-exploration/international-space-station/when-space-meets-sea-crew-9-dragon-meets-dolphins-space-photo-of-the-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
