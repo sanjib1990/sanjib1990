@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the James Webb Space Telescope is helping size up tiny dwarf planets](https://www.space.com/the-universe/how-the-james-webb-space-telescope-is-helping-size-up-tiny-dwarf-planets)
+- [Valve removes video game demo suspected of being malware](https://techcrunch.com/2025/03/21/valve-removes-video-game-demo-suspected-of-being-malware/)
+- [Into the deep &lpar;field&rpar; with ESA&#39;s Euclid &#39;dark universe&#39; telescope: Space photo of the day](https://www.space.com/space-exploration/into-the-deep-field-with-esas-euclid-dark-universe-telescope-space-photo-of-the-day)
 - [Why I&#39;m going to New Brunswick, Canada, to see next week&#39;s &#39;sunrise&#39; solar eclipse](https://www.space.com/why-i-am-going-to-new-brunswick-for-partial-solar-eclipse-march-2025)
 - [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/03/21/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [This solar filter attaches to your telescope, camera lens or spotting scope for safe eclipse viewing. With a 15% discount, grab it now in time for this month&#39;s solar event](https://www.space.com/stargazing/astronomy-kit/celestron-solar-filter-deal-partial-solar-eclipse)
-- [Next month NASA&#39;s Lucy probe will visit an asteroid that&#39;s been waiting 150 million years to say hello](https://www.space.com/the-universe/asteroids/next-month-nasas-lucy-probe-will-visit-an-asteroid-thats-been-waiting-150-million-years-to-say-hello)
-- [TechCrunch has, yes, personal news!](https://techcrunch.com/2025/03/21/techcrunch-has-personal-news/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
