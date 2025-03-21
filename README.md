@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic appears to be using Brave to power web search for its Claude chatbot](https://techcrunch.com/2025/03/21/anthropic-appears-to-be-using-brave-to-power-web-searches-for-its-claude-chatbot/)
+- [Startups Weekly: Wiz’s bet paid off in an M&amp;A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/)
+- [TechCrunch Mobility: Inside Waymo’s deal with SFO, Elon’s moment of truth, and BYD’s breakthrough](https://techcrunch.com/2025/03/21/techcrunch-mobility-inside-waymos-deal-with-sfo-elons-moment-of-truth-and-byds-breakthrough/)
+- [New research on &#39;Death Star&#39; that looks like a cosmic pinwheel reduces gamma-ray burst threat to Earth](https://www.space.com/the-universe/stars/new-research-on-death-star-that-looks-like-a-cosmic-pinwheel-reduces-gamma-ray-burst-threat-to-earth)
 - [Saturn&#39;s iconic rings will &#39;disappear&#39; this weekend. Here&#39;s why](https://www.space.com/stargazing/saturns-iconic-rings-will-disappear-this-weekend-heres-why)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/03/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Wayve CEO shares his key  ingredients for scaling autonomous driving tech](https://techcrunch.com/2025/03/21/wayve-ceo-shares-his-key-ingredients-for-scaling-autonomous-driving-tech/)
-- [Microsoft is exploring a way to credit contributors to AI training data](https://techcrunch.com/2025/03/21/microsoft-is-exploring-a-way-to-credit-contributors-to-ai-training-data/)
-- [Meta spotted testing AI-generated comments on Instagram](https://techcrunch.com/2025/03/21/meta-spotted-testing-ai-generated-comments-on-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
