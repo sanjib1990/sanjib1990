@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China now has a &#39;kill mesh&#39; in orbit, Space Force vice chief says](https://www.space.com/space-exploration/space-force-general-warns-of-adversaries-surpassing-us-abilities-in-orbit-we-are-at-an-inflection-point)
+- [Meta has revenue sharing agreements with Llama AI model hosts, filing reveals](https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/)
+- [How BYD plans to make EV charging as fast as filling a gas tank](https://techcrunch.com/2025/03/21/how-byd-plans-to-make-ev-charging-as-fast-as-filling-a-gas-tank/)
 - [How the James Webb Space Telescope is helping size up tiny dwarf planets](https://www.space.com/the-universe/how-the-james-webb-space-telescope-is-helping-size-up-tiny-dwarf-planets)
 - [Valve removes video game demo suspected of being malware](https://techcrunch.com/2025/03/21/valve-removes-video-game-demo-suspected-of-being-malware/)
-- [Into the deep &lpar;field&rpar; with ESA&#39;s Euclid &#39;dark universe&#39; telescope: Space photo of the day](https://www.space.com/space-exploration/into-the-deep-field-with-esas-euclid-dark-universe-telescope-space-photo-of-the-day)
-- [Why I&#39;m going to New Brunswick, Canada, to see next week&#39;s &#39;sunrise&#39; solar eclipse](https://www.space.com/why-i-am-going-to-new-brunswick-for-partial-solar-eclipse-march-2025)
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/03/21/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
