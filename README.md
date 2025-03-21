@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This solar filter attaches to your telescope, camera lens or spotting scope for safe eclipse viewing. With a 15% discount, grab it now in time for this month&#39;s solar event](https://www.space.com/stargazing/astronomy-kit/celestron-solar-filter-deal-partial-solar-eclipse)
+- [Next month NASA&#39;s Lucy probe will visit an asteroid that&#39;s been waiting 150 million years to say hello](https://www.space.com/the-universe/asteroids/next-month-nasas-lucy-probe-will-visit-an-asteroid-thats-been-waiting-150-million-years-to-say-hello)
+- [TechCrunch has, yes, personal news!](https://techcrunch.com/2025/03/21/techcrunch-has-personal-news/)
 - [Anthropic appears to be using Brave to power web search for its Claude chatbot](https://techcrunch.com/2025/03/21/anthropic-appears-to-be-using-brave-to-power-web-searches-for-its-claude-chatbot/)
 - [Startups Weekly: Wiz’s bet paid off in an M&amp;A-rich week](https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/)
-- [TechCrunch Mobility: Inside Waymo’s deal with SFO, Elon’s moment of truth, and BYD’s breakthrough](https://techcrunch.com/2025/03/21/techcrunch-mobility-inside-waymos-deal-with-sfo-elons-moment-of-truth-and-byds-breakthrough/)
-- [New research on &#39;Death Star&#39; that looks like a cosmic pinwheel reduces gamma-ray burst threat to Earth](https://www.space.com/the-universe/stars/new-research-on-death-star-that-looks-like-a-cosmic-pinwheel-reduces-gamma-ray-burst-threat-to-earth)
-- [Saturn&#39;s iconic rings will &#39;disappear&#39; this weekend. Here&#39;s why](https://www.space.com/stargazing/saturns-iconic-rings-will-disappear-this-weekend-heres-why)
 <!-- BLOG-POST-LIST:END -->
 
 ---
