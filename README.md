@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saturn&#39;s iconic rings will &#39;disappear&#39; this weekend. Here&#39;s why](https://www.space.com/stargazing/saturns-iconic-rings-will-disappear-this-weekend-heres-why)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/03/21/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [Wayve CEO shares his key  ingredients for scaling autonomous driving tech](https://techcrunch.com/2025/03/21/wayve-ceo-shares-his-key-ingredients-for-scaling-autonomous-driving-tech/)
+- [Microsoft is exploring a way to credit contributors to AI training data](https://techcrunch.com/2025/03/21/microsoft-is-exploring-a-way-to-credit-contributors-to-ai-training-data/)
 - [Meta spotted testing AI-generated comments on Instagram](https://techcrunch.com/2025/03/21/meta-spotted-testing-ai-generated-comments-on-instagram/)
-- [Upcoming Marvel Phase 6 movies &amp; TV shows: The Fantastic Four, Avengers: Doomsday &amp; more](https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-phase-6-movies-and-tv-shows)
-- [1X will test humanoid robots in ‘a few hundred’ homes in 2025](https://techcrunch.com/2025/03/21/1x-will-test-humanoid-robots-in-a-few-hundred-homes-in-2025/)
-- [Apollo 10, Soyuz capsule among artifacts moving to new space gallery in London](https://www.space.com/space-exploration/apollo/apollo-10-soyuz-capsule-among-artifacts-moving-to-new-space-gallery-in-london)
-- [Commercial services platform BuildOps becomes a unicorn, raises $127M](https://techcrunch.com/2025/03/21/commercial-services-platform-buildops-becomes-a-unicorn-raises-127m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
