@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google claims news is worthless to its ad business after test involving 1% of search results in eight EU markets](https://techcrunch.com/2025/03/21/google-claims-news-is-worthless-to-its-ad-business-after-test-involving-1-of-search-results-in-eight-eu-markets/)
 - [What happened to all the water on Mars? Here&#39;s why the debate continues](https://www.space.com/the-universe/mars/what-happened-to-all-the-water-on-mars-the-debate-continues)
 - [Cosmic &#39;tornadoes&#39; rage around the heart of the Milky Way and its supermassive black hole](https://www.space.com/the-universe/cosmic-tornadoes-rage-around-the-heart-of-the-milky-way-and-its-supermassive-black-hole)
 - [GTC felt more bullish than ever, but Nvidia’s challenges are piling up](https://techcrunch.com/2025/03/20/gtc-felt-more-bullish-than-ever-but-nvidias-challenges-are-piling-up/)
 - [Apple faces lawsuit over Apple Intelligence delays](https://techcrunch.com/2025/03/20/apple-faces-lawsuit-over-apple-intelligence-delays/)
-- [Federal judge blocks DOGE’s access to Social Security Administration’s banks of personal information](https://techcrunch.com/2025/03/20/federal-judge-blocks-doges-access-to-social-security-administrations-banks-of-personal-information/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
