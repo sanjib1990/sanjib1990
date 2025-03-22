@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta settles UK ‘right to object to ad-tracking’ lawsuit by agreeing not to track plaintiff](https://techcrunch.com/2025/03/21/meta-settles-u-k-right-to-object-to-ad-tracking-lawsuit-by-agreeing-not-to-track-plaintiff/)
 - [Is Netflix&#39;s &#39;The Electric State&#39; a sci-fi retelling of &#39;The Wizard of Oz&#39;?](https://www.space.com/entertainment/robots-and-androids-and-drones-oh-my-is-netflixs-the-electric-state-a-sci-fi-retelling-of-the-wizard-of-oz)
 - [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/)
 - [China now has a &#39;kill mesh&#39; in orbit, Space Force vice chief says](https://www.space.com/space-exploration/space-force-general-warns-of-adversaries-surpassing-us-abilities-in-orbit-we-are-at-an-inflection-point)
 - [Meta has revenue sharing agreements with Llama AI model hosts, filing reveals](https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/)
-- [How BYD plans to make EV charging as fast as filling a gas tank](https://techcrunch.com/2025/03/21/how-byd-plans-to-make-ev-charging-as-fast-as-filling-a-gas-tank/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
