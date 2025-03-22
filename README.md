@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/)
+- [Dark skies and epic Winter Star Party — why the Florida Keys are more than just a Spring Break destination](https://www.space.com/stargazing/dark-skies-and-epic-winter-star-party-why-the-florida-keys-are-more-than-just-a-spring-break-destination)
+- [This Week In Space podcast: Episode 153 — Pathways to Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-153-pathways-to-mars)
 - [Exoplanet &#39;baby pictures&#39; reveal exomoons possibly taking shape around infant worlds](https://www.space.com/the-universe/exoplanets/exoplanet-baby-pictures-reveal-exomoons-possibly-taking-shape-around-infant-worlds)
 - [Stunning space photo captures bright blue shock wave around double star system](https://www.space.com/stargazing/stunning-space-photo-captures-bright-blue-shock-wave-around-double-star-system)
-- [1 week until the 1st solar eclipse of 2025. Here&#39;s what you need to know about the March 2025 partial solar eclipse](https://www.space.com/partial-solar-eclipse-one-week-away-get-ready)
-- [Meta settles UK ‘right to object to ad-tracking’ lawsuit by agreeing not to track plaintiff](https://techcrunch.com/2025/03/21/meta-settles-u-k-right-to-object-to-ad-tracking-lawsuit-by-agreeing-not-to-track-plaintiff/)
-- [Is Netflix&#39;s &#39;The Electric State&#39; a sci-fi retelling of &#39;The Wizard of Oz&#39;?](https://www.space.com/entertainment/robots-and-androids-and-drones-oh-my-is-netflixs-the-electric-state-a-sci-fi-retelling-of-the-wizard-of-oz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
