@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora alert: Giant &#39;hole&#39; in sun and strong geomagnetic storm converge to supercharge northern lights this weekend](https://www.space.com/stargazing/aurora-borealis/aurora-alert-giant-hole-in-sun-and-strong-geomagnetic-storm-converge-to-supercharge-northern-lights-this-weekend)
 - [Week in Review: Google buys Wiz](https://techcrunch.com/2025/03/22/week-in-review-google-buys-wiz/)
 - [&#39;Star Trek&#39; icon lives on with new Nichelle Nichols Space Camp to inspire young women to aim for the stars](https://www.space.com/space-exploration/star-trek-icon-lives-on-with-new-nichelle-nichols-space-camp-to-inspire-young-women-to-aim-for-the-stars)
 - [The 20 hottest open source startups of 2024](https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/)
 - [Dark skies and epic Winter Star Party — why the Florida Keys are more than just a Spring Break destination](https://www.space.com/stargazing/dark-skies-and-epic-winter-star-party-why-the-florida-keys-are-more-than-just-a-spring-break-destination)
-- [This Week In Space podcast: Episode 153 — Pathways to Mars](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-153-pathways-to-mars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
