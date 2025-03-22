@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exoplanet &#39;baby pictures&#39; reveal exomoons possibly taking shape around infant worlds](https://www.space.com/the-universe/exoplanets/exoplanet-baby-pictures-reveal-exomoons-possibly-taking-shape-around-infant-worlds)
 - [Stunning space photo captures bright blue shock wave around double star system](https://www.space.com/stargazing/stunning-space-photo-captures-bright-blue-shock-wave-around-double-star-system)
 - [1 week until the 1st solar eclipse of 2025. Here&#39;s what you need to know about the March 2025 partial solar eclipse](https://www.space.com/partial-solar-eclipse-one-week-away-get-ready)
 - [Meta settles UK ‘right to object to ad-tracking’ lawsuit by agreeing not to track plaintiff](https://techcrunch.com/2025/03/21/meta-settles-u-k-right-to-object-to-ad-tracking-lawsuit-by-agreeing-not-to-track-plaintiff/)
 - [Is Netflix&#39;s &#39;The Electric State&#39; a sci-fi retelling of &#39;The Wizard of Oz&#39;?](https://www.space.com/entertainment/robots-and-androids-and-drones-oh-my-is-netflixs-the-electric-state-a-sci-fi-retelling-of-the-wizard-of-oz)
-- [Anduril might build a weapons factory in the UK](https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
