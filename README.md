@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [James Webb Space Telescope could find signs of life on alien &#39;hycean&#39; ocean worlds](https://www.space.com/the-universe/exoplanets/james-webb-space-telescope-could-find-signs-of-life-on-alien-hycean-ocean-worlds)
 - [Jonah Peretti helped shaped digital media — can he do it again?](https://techcrunch.com/2025/03/22/jonah-peretti-helped-shaped-digital-media-can-he-do-it-again/)
 - [Charlie Javice trial becomes a master class in hubris for both sides](https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/)
 - [Aurora alert: Giant &#39;hole&#39; in sun and strong geomagnetic storm converge to supercharge northern lights this weekend](https://www.space.com/stargazing/aurora-borealis/aurora-alert-giant-hole-in-sun-and-strong-geomagnetic-storm-converge-to-supercharge-northern-lights-this-weekend)
 - [Week in Review: Google buys Wiz](https://techcrunch.com/2025/03/22/week-in-review-google-buys-wiz/)
-- [&#39;Star Trek&#39; icon lives on with new Nichelle Nichols Space Camp to inspire young women to aim for the stars](https://www.space.com/space-exploration/star-trek-icon-lives-on-with-new-nichelle-nichols-space-camp-to-inspire-young-women-to-aim-for-the-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
