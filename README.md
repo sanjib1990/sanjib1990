@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ouch! Carlo Rambaldi&#39;s original screen-used &#39;E.T.&#39; model might reach $1 million at Sotheby&#39;s auction](https://www.space.com/entertainment/ouch-carlo-rambaldis-original-screen-used-e-t-model-might-reach-usd1-million-at-sothebys-auction)
 - [Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/)
 - [Preserving astronomy history: The fight is on to save an iconic Royal Observatory Greenwich site](https://www.space.com/space-exploration/preserving-astronomy-history-the-fight-is-on-to-save-an-iconic-royal-observatory-greenwich-site)
 - [What will the partial solar eclipse of March 2025 look like from space?](https://www.space.com/stargazing/eclipses/what-does-partial-solar-eclipse-look-like-from-space)
 - [1st-ever orbital rocket launch from European soil targeted for March 24](https://www.space.com/space-exploration/launches-spacecraft/1st-ever-orbital-rocket-launch-from-european-soil-targeted-for-march-24)
-- [James Webb Space Telescope could find signs of life on alien &#39;hycean&#39; ocean worlds](https://www.space.com/the-universe/exoplanets/james-webb-space-telescope-could-find-signs-of-life-on-alien-hycean-ocean-worlds)
 <!-- BLOG-POST-LIST:END -->
 
 ---
