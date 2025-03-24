@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches secret US spy satellite on 19th anniversary of company&#39;s 1st-ever liftoff &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secret-spy-satellite-for-us-government-on-19th-anniversary-of-companys-1st-ever-liftoff-photos)
+- [Hurry! Only six days left to get 72% off Disney Plus, Hulu and ESPN Plus meaning you can watch season two of &quot;Star Wars: Andor&quot; with a huge discount](https://www.space.com/entertainment/disney-plus-hulu-and-espn-plus-are-72-off-stream-star-wars-andor-season-2)
 - [What would happen if the Milky Way&#39;s black hole erupted? This distant galaxy paints a terrifying picture](https://www.space.com/the-universe/what-would-happen-if-the-milky-ways-black-hole-erupted-this-distant-galaxy-paints-a-terrifying-picture)
 - [Sunspots may be visible during the March 29 partial solar eclipse. Here&#39;s how to spot them.](https://www.space.com/see-sunspots-during-partial-solar-eclipse-march-29-2025)
 - [Cyberattack disrupts train ticket sales in Ukraine](https://techcrunch.com/2025/03/24/cyberattack-disrupts-train-ticket-sales-in-ukraine/)
-- [Trump admin directs DOE officials to shield DOGE documents from disclosure](https://techcrunch.com/2025/03/24/trump-admin-directs-doe-officials-to-shield-doge-documents-from-disclosure/)
-- [Step into the spotlight: Apply to speak at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/24/step-into-the-spotlight-apply-to-speak-at-techcrunch-disrupt-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
