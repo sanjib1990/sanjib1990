@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/)
+- [Black holes may obey the laws of physics after all, new theory suggests](https://www.space.com/the-universe/black-holes/black-holes-may-obey-the-laws-of-physics-after-all-new-theory-suggests)
 - [Ex-Network International execs raise $6M for Enza, an African fintech serving banks](https://techcrunch.com/2025/03/24/ex-network-execs-raise-6m-for-enza/)
 - [DNA testing company 23andMe files for bankruptcy protection, CEO resigns](https://techcrunch.com/2025/03/23/dna-testing-company-23andme-files-for-bankruptcy-protection-ceo-resigns/)
 - [Former Cruise CEO Kyle Vogt’s new robotics startup reportedly raises another $150M](https://techcrunch.com/2025/03/23/former-cruise-ceo-kyle-vogts-new-robotics-startup-reportedly-raises-another-150m/)
-- [Buy now, pay later . . . for a burrito?](https://techcrunch.com/2025/03/23/buy-now-pay-later-for-a-burrito/)
-- [Barack Obama joins Bluesky](https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
