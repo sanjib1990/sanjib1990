@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cadillac Optiq EV and Cadillac Escalade IQ go big on tech, luxury, and price](https://techcrunch.com/2025/03/24/the-cadillac-optiq-ev-and-cadillac-escalade-iq-go-big-on-tech-luxury-and-price/)
+- [Star Catcher sends electricity across NFL football field in key space power-beaming test &lpar;photos&rpar;](https://www.space.com/space-exploration/tech/star-catcher-sends-electricity-across-nfl-football-field-in-key-space-power-beaming-test-photos)
 - [23andMe faces an uncertain future — so does your genetic data](https://techcrunch.com/2025/03/24/23andme-faces-an-uncertain-future-so-does-your-genetic-data/)
 - [Euclid &#39;dark universe detective&#39; spacecraft discovers 2,674 new dwarf galaxies](https://www.space.com/the-universe/euclid-dark-universe-detective-spacecraft-discovers-2-674-new-dwarf-galaxies)
 - [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/)
-- [Black holes may obey the laws of physics after all, new theory suggests](https://www.space.com/the-universe/black-holes/black-holes-may-obey-the-laws-of-physics-after-all-new-theory-suggests)
-- [Ex-Network International execs raise $6.75M for Enza, an African fintech serving banks](https://techcrunch.com/2025/03/24/ex-network-execs-raise-6m-for-enza/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
