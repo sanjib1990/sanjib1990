@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Only 7 Days Left: Founders and VCs Save $300+ on TechCrunch All Stage Passes](https://techcrunch.com/2025/03/24/only-7-days-left-founders-and-vcs-save-300-on-techcrunch-all-stage-passes/)
+- [Apply to compete in TechCrunch Startup Battlefield 200 today!](https://techcrunch.com/2025/03/24/apply-to-compete-in-techcrunch-startup-battlefield-200-today/)
+- [Meteorites and asteroids tracked back to their place of origin in the solar system](https://www.space.com/space-exploration/asteroid-comet-missions/meteorites-and-asteroids-tracked-back-to-their-place-of-origin-in-the-solar-system)
 - [The Cadillac Optiq EV and Cadillac Escalade IQ go big on tech, luxury, and price](https://techcrunch.com/2025/03/24/the-cadillac-optiq-ev-and-cadillac-escalade-iq-go-big-on-tech-luxury-and-price/)
 - [Star Catcher sends electricity across NFL football field in key space power-beaming test &lpar;photos&rpar;](https://www.space.com/space-exploration/tech/star-catcher-sends-electricity-across-nfl-football-field-in-key-space-power-beaming-test-photos)
-- [23andMe faces an uncertain future — so does your genetic data](https://techcrunch.com/2025/03/24/23andme-faces-an-uncertain-future-so-does-your-genetic-data/)
-- [Euclid &#39;dark universe detective&#39; spacecraft discovers 2,674 new dwarf galaxies](https://www.space.com/the-universe/euclid-dark-universe-detective-spacecraft-discovers-2-674-new-dwarf-galaxies)
-- [AI chip startup FuriosaAI reportedly turns down $800M acquisition offer from Meta](https://techcrunch.com/2025/03/24/ai-chip-startup-furiosaai-reportedly-turns-down-800m-acquisition-offer-from-meta/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
