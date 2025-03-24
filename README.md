@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rare &#39;solar horns&#39; will appear during partial solar eclipse on March 29 — Here are 6 of the best places in the US and Canada to see the unusual phenomenon](https://www.space.com/where-to-see-rare-solar-horns-partial-solar-eclipse-march-2025)
+- [NASA says removal of &#39;first woman, person of color&#39; language from Artemis websites &#39;does not indicate&#39; moon mission crew change](https://www.space.com/space-exploration/artemis/nasa-says-removal-of-first-woman-person-of-color-language-from-artemis-websites-does-not-indicate-moon-mission-crew-change)
 - [Fair-code pioneer n8n raises $60M for AI-powered workflow automation](https://techcrunch.com/2025/03/24/fair-code-pioneer-n8n-raises-60m-for-ai-powered-workflow-automation/)
 - [AI creation platform Arcade expands from jewelry to home goods](https://techcrunch.com/2025/03/24/ai-creation-platform-arcade-expands-from-jewelry-to-home-goods/)
 - [New Barbie doll celebrates 60 years as an astronaut, but forgets when humans first flew into space](https://www.space.com/entertainment/space-games-toys/new-barbie-doll-celebrates-60-years-as-an-astronaut-but-forgets-when-humans-first-flew-into-space)
-- [US lifts sanctions on Tornado Cash, a crypto mixer linked to North Korean money laundering](https://techcrunch.com/2025/03/24/us-lifts-sanctions-on-tornado-cash-a-crypto-mixer-linked-to-north-korean-money-laundering/)
-- [Revel opens first EV fast-charging hub in San Francisco](https://techcrunch.com/2025/03/24/revel-opens-first-ev-fast-charging-hub-in-san-francisco/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
