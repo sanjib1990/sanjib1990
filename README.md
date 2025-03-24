@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [a16z and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/)
+- [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/)
 - [&#39;Cosmic tornado&#39; swirls in breathtaking new James Webb Space Telescope image](https://www.space.com/space-exploration/james-webb-space-telescope/cosmic-tornado-swirls-in-breathtaking-new-james-webb-space-telescope-image)
 - [French VC firm Founders Future plans US expansion](https://techcrunch.com/2025/03/24/french-vc-firm-founders-future-plans-us-expansion/)
 - [The Trump administration planned Yemen strikes in an unauthorized Signal chat](https://techcrunch.com/2025/03/24/the-trump-administration-planned-yemen-strikes-in-an-unauthorized-signal-chat/)
-- [Rare &#39;solar horns&#39; will appear during partial solar eclipse on March 29 — Here are 6 of the best places in the US and Canada to see the unusual phenomenon](https://www.space.com/where-to-see-rare-solar-horns-partial-solar-eclipse-march-2025)
-- [NASA says removal of &#39;first woman, person of color&#39; language from Artemis websites &#39;does not indicate&#39; moon mission crew change](https://www.space.com/space-exploration/artemis/nasa-says-removal-of-first-woman-person-of-color-language-from-artemis-websites-does-not-indicate-moon-mission-crew-change)
 <!-- BLOG-POST-LIST:END -->
 
 ---
