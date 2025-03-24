@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Step into the spotlight: Apply to speak at TechCrunch Disrupt 2025](https://techcrunch.com/2025/03/24/step-into-the-spotlight-apply-to-speak-at-techcrunch-disrupt-2025/)
+- [Private SpaceX Fram2 mission ready for world&#39;s 1st crewed flight over Earth&#39;s polar regions &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/private-spacex-fram2-mission-ready-for-worlds-1st-crewed-flight-over-earths-polar-regions-photos)
+- [Gorgeous Hubble telescope image was 20 years in the making: Space photo of the day](https://www.space.com/space-exploration/hubble-space-telescope/gorgeous-hubble-telescope-image-was-20-years-in-the-making-space-photo-of-the-day)
+- [Apple is bringing lossless audio and low-latency audio to AirPods Max](https://techcrunch.com/2025/03/24/apple-is-bringing-lossless-audio-and-low-latency-audio-to-airpods-max/)
 - [Only 7 Days Left: Founders and VCs Save $300+ on TechCrunch All Stage Passes](https://techcrunch.com/2025/03/24/only-7-days-left-founders-and-vcs-save-300-on-techcrunch-all-stage-passes/)
-- [Apply to compete in TechCrunch Startup Battlefield 200 today!](https://techcrunch.com/2025/03/24/apply-to-compete-in-techcrunch-startup-battlefield-200-today/)
-- [Meteorites and asteroids tracked back to their place of origin in the solar system](https://www.space.com/space-exploration/asteroid-comet-missions/meteorites-and-asteroids-tracked-back-to-their-place-of-origin-in-the-solar-system)
-- [The Cadillac Optiq EV and Cadillac Escalade IQ go big on tech, luxury, and price](https://techcrunch.com/2025/03/24/the-cadillac-optiq-ev-and-cadillac-escalade-iq-go-big-on-tech-luxury-and-price/)
-- [Star Catcher sends electricity across NFL football field in key space power-beaming test &lpar;photos&rpar;](https://www.space.com/space-exploration/tech/star-catcher-sends-electricity-across-nfl-football-field-in-key-space-power-beaming-test-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
