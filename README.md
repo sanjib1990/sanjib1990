@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DNA testing company 23andMe files for bankruptcy protection, CEO resigns](https://techcrunch.com/2025/03/23/dna-testing-company-23andme-files-for-bankruptcy-protection-ceo-resigns/)
 - [Former Cruise CEO Kyle Vogt’s new robotics startup reportedly raises another $150M](https://techcrunch.com/2025/03/23/former-cruise-ceo-kyle-vogts-new-robotics-startup-reportedly-raises-another-150m/)
 - [Buy now, pay later . . . for a burrito?](https://techcrunch.com/2025/03/23/buy-now-pay-later-for-a-burrito/)
 - [Barack Obama joins Bluesky](https://techcrunch.com/2025/03/23/barack-obama-joins-bluesky/)
 - [Ouch! Carlo Rambaldi&#39;s original screen-used &#39;E.T.&#39; model might reach $1 million at Sotheby&#39;s auction](https://www.space.com/entertainment/ouch-carlo-rambaldis-original-screen-used-e-t-model-might-reach-usd1-million-at-sothebys-auction)
-- [Browser Use, the tool making it easier for AI ‘agents’ to navigate websites, raises $17M](https://techcrunch.com/2025/03/23/browser-use-the-tool-making-it-easier-for-ai-agents-to-navigate-websites-raises-17m/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
