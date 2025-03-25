@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA completes SLS core stage stacking  for Artemis 2 moon mission &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-completes-sls-core-stage-stacking-for-artemis-2-moon-mission-photos)
 - [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/)
 - [10 things we want from the next Mass Effect game](https://www.space.com/entertainment/space-games-toys/10-things-we-want-from-the-next-mass-effect-game)
 - [Instagram partners with schools to prioritize reports of online bullying and student safety](https://techcrunch.com/2025/03/25/instagram-helps-schools-quickly-report-and-remove-posts-made-by-students/)
 - [ChatGPT’s image-generation feature gets an upgrade](https://techcrunch.com/2025/03/25/chatgpts-image-generation-feature-gets-an-upgrade/)
-- [Rare moonbow shines below total lunar eclipse in stunning photo: &#39;This is definitely the first time I&#39;ve tried something like this, but will not be the last&#39;](https://www.space.com/rare-moonbow-total-lunar-eclipse-astrophoto)
 <!-- BLOG-POST-LIST:END -->
 
 ---
