@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rare moonbow shines below total lunar eclipse in stunning photo: &#39;This is definitely the first time I&#39;ve tried something like this, but will not be the last&#39;](https://www.space.com/rare-moonbow-total-lunar-eclipse-astrophoto)
+- [Apple announces WWDC 2025 returns June 9-13](https://techcrunch.com/2025/03/25/apple-announces-wwdc-2025-returns-june-9-13/)
 - [23andMe files for bankruptcy: How to delete your data](https://techcrunch.com/2025/03/25/23andme-files-for-bankruptcy-how-to-delete-your-data/)
-- [Google unveils a next-gen AI reasoning model](https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/)
-- [&#39;It’s coming!&#39; New &#39;Alien: Earth&#39; trailer is packed with nostalgia, a creepy android, and some very unfortunate humans &lpar;video&rpar;](https://www.space.com/entertainment/its-coming-new-alien-earth-trailer-is-packed-with-nostalgia-a-creepy-android-and-some-very-unfortunate-humans-video)
-- [&#39;City of Lights&#39; as seen at night from space: Space photo of the day](https://www.space.com/space-exploration/city-of-lights-as-seen-at-night-from-space-space-photo-of-the-day)
-- [Quora’s Poe launches its most affordable subscription plan for $5/month](https://techcrunch.com/2025/03/25/quoras-poe-now-offers-an-affordable-subscription-plan-for-5-month/)
+- [Google unveils a next-gen family of AI reasoning models](https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/)
+- [&#39;It&#39;s coming!&#39; New &#39;Alien: Earth&#39; trailer is packed with nostalgia, a creepy android, and some very unfortunate humans &lpar;video&rpar;](https://www.space.com/entertainment/its-coming-new-alien-earth-trailer-is-packed-with-nostalgia-a-creepy-android-and-some-very-unfortunate-humans-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
