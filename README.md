@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Gates-backed Commonwealth Fusion Systems hits key reactor construction milestone](https://techcrunch.com/2025/03/25/bill-gates-backed-commonwealth-fusion-systems-hits-key-reactor-construction-milestone/)
 - [Waymo to launch robotaxi service in Washington D.C. in 2026](https://techcrunch.com/2025/03/25/waymo-to-launch-robotaxi-service-in-washington-d-c-in-2026/)
 - [Dazzling photos of this month&#39;s total lunar eclipse showcase a blood red moon near the Milky Way&#39;s heart](https://www.space.com/stargazing/astrophotography/dazzling-photos-of-this-months-total-lunar-eclipse-showcase-a-blood-red-moon-near-the-milky-ways-heart)
 - [Mysterious blue spiral spotted over European skies. What was it? &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos)
 - [Space pirates already have their sights set on the &#39;high seas&#39; of Earth orbit. Can we stop them?](https://www.space.com/space-exploration/space-pirates-already-have-their-sights-set-on-the-high-seas-of-earth-orbit-can-we-stop-them)
-- [Daphni secures $215M for its third fund](https://techcrunch.com/2025/03/24/daphni-secures-215m-for-its-third-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
