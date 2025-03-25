@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Character AI is adding parental supervision tools to improve teen safety](https://techcrunch.com/2025/03/25/character-ai-is-adding-parental-supervision-tools/)
-- [Aurora alert! Moderate geomagnetic storm could spark northern lights as far south as New York and Idaho tonight &lpar;March 25&rpar;](https://www.space.com/northern-lights-tonight-march-25-geomagnetic-storm-warning)
-- [Bill Gates-backed Commonwealth Fusion Systems hits key reactor construction milestone](https://techcrunch.com/2025/03/25/bill-gates-backed-commonwealth-fusion-systems-hits-key-reactor-construction-milestone/)
-- [Waymo to launch robotaxi service in Washington D.C. in 2026](https://techcrunch.com/2025/03/25/waymo-to-launch-robotaxi-service-in-washington-d-c-in-2026/)
-- [Dazzling photos of this month&#39;s total lunar eclipse showcase a blood red moon near the Milky Way&#39;s heart](https://www.space.com/stargazing/astrophotography/dazzling-photos-of-this-months-total-lunar-eclipse-showcase-a-blood-red-moon-near-the-milky-ways-heart)
+- [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/)
+- [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/)
+- [Apple Music is integrating with music tools to allow DJs to create mixes using its catalog](https://techcrunch.com/2025/03/25/apple-3/)
+- [Best places in the US and Canada to see rare &#39;double sunrise&#39; during partial solar eclipse on March 29](https://www.space.com/best-places-us-canada-rare-double-sunrise-partial-solar-eclipse-march-29)
+- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2025/03/25/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
