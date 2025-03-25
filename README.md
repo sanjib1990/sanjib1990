@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Earth to Space&#39; art festival set to launch at Kennedy Center this week](https://www.space.com/space-exploration/earth-to-space-art-festival-set-to-launch-at-kennedy-center-this-week)
+- [Emergence Capital closes on $1B fund to back B2B companies](https://techcrunch.com/2025/03/25/emergence-capital-closes-on-1b-fund-to-back-b2b-companies/)
 - [NASA completes SLS core stage stacking  for Artemis 2 moon mission &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-completes-sls-core-stage-stacking-for-artemis-2-moon-mission-photos)
 - [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/)
 - [10 things we want from the next Mass Effect game](https://www.space.com/entertainment/space-games-toys/10-things-we-want-from-the-next-mass-effect-game)
-- [Instagram partners with schools to prioritize reports of online bullying and student safety](https://techcrunch.com/2025/03/25/instagram-helps-schools-quickly-report-and-remove-posts-made-by-students/)
-- [ChatGPT’s image-generation feature gets an upgrade](https://techcrunch.com/2025/03/25/chatgpts-image-generation-feature-gets-an-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
