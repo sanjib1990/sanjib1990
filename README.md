@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jensen Huang on GPUs - Computerphile](https://www.youtube.com/watch?v=G6R7UOFx1bw)
 - [Next.js rocked by critical 9.1 level exploit...](https://www.youtube.com/watch?v=AaCnBOqyvIM)
 - [Behind the Scenes at GTC AI Conference - Computerphile](https://www.youtube.com/watch?v=sBeHhJ8P24I)
 - [YOU decide how this AI helps your team](https://www.youtube.com/watch?v=QVjxorbKY6c)
 - [Most Detailed DevOps Roadmap | Weekly Breakdown](https://www.youtube.com/watch?v=116elYvjJ1M)
-- [the FASTEST way to build a website](https://www.youtube.com/watch?v=KFsvPP9Kiw8)
 <!-- YOUTUBE:END -->
 
 ---
