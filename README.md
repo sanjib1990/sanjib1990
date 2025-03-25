@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Once a target of Musk’s ire, Gen Z creator Kat Abughazaleh is running for Congress](https://techcrunch.com/2025/03/25/once-a-target-of-musks-ire-gen-z-creator-kat-abughazaleh-is-running-for-congress/)
+- [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/)
+- [US Space Force celebrates return of 1st Guardian to launch to space &lpar;photos&rpar;](https://www.space.com/space-exploration/international-space-station/us-space-force-celebrates-return-of-1st-guardian-to-launch-to-space-photos)
 - [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/)
 - [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/)
-- [Apple Music is integrating with music tools to allow DJs to create mixes using its catalog](https://techcrunch.com/2025/03/25/apple-3/)
-- [Best places in the US and Canada to see rare &#39;double sunrise&#39; during partial solar eclipse on March 29](https://www.space.com/best-places-us-canada-rare-double-sunrise-partial-solar-eclipse-march-29)
-- [Tesla Superchargers: GM, Ford, Rivian, and other EV brands with access](https://techcrunch.com/2025/03/25/tesla-superchargers-gm-ford-rivian-and-other-ev-brands-with-access/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
