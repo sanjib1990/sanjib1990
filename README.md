@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Discord made its streaming overlay a lot more user-friendly](https://techcrunch.com/2025/03/25/discord-made-its-streaming-overlay-a-lot-more-user-friendly/)
-- [Curiosity Mars rover discovers largest organic molecules ever seen on Red Planet](https://www.space.com/the-universe/mars/curiosity-mars-rover-discovers-largest-organic-molecules-ever-seen-on-red-planet)
-- [Once a target of Musk’s ire, Gen Z creator Kat Abughazaleh is running for Congress](https://techcrunch.com/2025/03/25/once-a-target-of-musks-ire-gen-z-creator-kat-abughazaleh-is-running-for-congress/)
-- [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/)
-- [US Space Force celebrates return of 1st Guardian to launch to space &lpar;photos&rpar;](https://www.space.com/space-exploration/international-space-station/us-space-force-celebrates-return-of-1st-guardian-to-launch-to-space-photos)
+- [23andMe files for bankruptcy: How to delete your data](https://techcrunch.com/2025/03/25/23andme-files-for-bankruptcy-how-to-delete-your-data/)
+- [Google unveils a next-gen AI reasoning model](https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/)
+- [&#39;It’s coming!&#39; New &#39;Alien: Earth&#39; trailer is packed with nostalgia, a creepy android, and some very unfortunate humans &lpar;video&rpar;](https://www.space.com/entertainment/its-coming-new-alien-earth-trailer-is-packed-with-nostalgia-a-creepy-android-and-some-very-unfortunate-humans-video)
+- [&#39;City of Lights&#39; as seen at night from space: Space photo of the day](https://www.space.com/space-exploration/city-of-lights-as-seen-at-night-from-space-space-photo-of-the-day)
+- [Quora’s Poe launches its most affordable subscription plan for $5/month](https://techcrunch.com/2025/03/25/quoras-poe-now-offers-an-affordable-subscription-plan-for-5-month/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
