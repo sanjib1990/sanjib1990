@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;The monster will come for us all!” Mon Mothma rouses the rebels in new &#39;Andor&#39; Season 2 trailer](https://www.space.com/entertainment/the-monster-will-come-for-us-all-mon-mothma-rouses-the-rebels-in-new-andor-season-2-trailer)
+- [How to tell if your online accounts have been hacked](https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/)
 - [&#39;Earth to Space&#39; art festival set to launch at Kennedy Center this week](https://www.space.com/space-exploration/earth-to-space-art-festival-set-to-launch-at-kennedy-center-this-week)
 - [Emergence Capital closes on $1B fund to back B2B companies](https://techcrunch.com/2025/03/25/emergence-capital-closes-on-1b-fund-to-back-b2b-companies/)
 - [NASA completes SLS core stage stacking  for Artemis 2 moon mission &lpar;photos&rpar;](https://www.space.com/space-exploration/artemis/nasa-completes-sls-core-stage-stacking-for-artemis-2-moon-mission-photos)
-- [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/)
-- [10 things we want from the next Mass Effect game](https://www.space.com/entertainment/space-games-toys/10-things-we-want-from-the-next-mass-effect-game)
 <!-- BLOG-POST-LIST:END -->
 
 ---
