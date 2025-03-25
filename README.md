@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Earth AI’s algorithms found critical minerals in places everyone else ignored](https://techcrunch.com/2025/03/25/earth-ais-algorithms-found-critical-minerals-in-places-everyone-else-ignored/)
+- [10 things we want from the next Mass Effect game](https://www.space.com/entertainment/space-games-toys/10-things-we-want-from-the-next-mass-effect-game)
+- [Instagram partners with schools to prioritize reports of online bullying and student safety](https://techcrunch.com/2025/03/25/instagram-helps-schools-quickly-report-and-remove-posts-made-by-students/)
+- [ChatGPT’s image-generation feature gets an upgrade](https://techcrunch.com/2025/03/25/chatgpts-image-generation-feature-gets-an-upgrade/)
 - [Rare moonbow shines below total lunar eclipse in stunning photo: &#39;This is definitely the first time I&#39;ve tried something like this, but will not be the last&#39;](https://www.space.com/rare-moonbow-total-lunar-eclipse-astrophoto)
-- [Apple announces WWDC 2025 returns June 9-13](https://techcrunch.com/2025/03/25/apple-announces-wwdc-2025-returns-june-9-13/)
-- [23andMe files for bankruptcy: How to delete your data](https://techcrunch.com/2025/03/25/23andme-files-for-bankruptcy-how-to-delete-your-data/)
-- [Google unveils a next-gen family of AI reasoning models](https://techcrunch.com/2025/03/25/google-unveils-a-next-gen-ai-reasoning-model/)
-- [&#39;It&#39;s coming!&#39; New &#39;Alien: Earth&#39; trailer is packed with nostalgia, a creepy android, and some very unfortunate humans &lpar;video&rpar;](https://www.space.com/entertainment/its-coming-new-alien-earth-trailer-is-packed-with-nostalgia-a-creepy-android-and-some-very-unfortunate-humans-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
