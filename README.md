@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [a16z and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/)
+- [A new, challenging AGI test stumps most AI models](https://techcrunch.com/2025/03/24/a-new-challenging-agi-test-stumps-most-ai-models/)
+- [A Chinese tech giant says it slashed AI costs using only Chinese chips](https://techcrunch.com/2025/03/24/a-chinese-tech-giant-says-it-slashed-ai-costs-using-only-chinese-chips/)
+- [a16z- and Benchmark-backed 11x has been claiming customers it doesn’t have](https://techcrunch.com/2025/03/24/a16z-and-benchmark-backed-11x-has-been-claiming-customers-it-doesnt-have/)
 - [Vertical farming company Plenty files for bankruptcy after raising nearly $1B](https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/)
 - [&#39;Cosmic tornado&#39; swirls in breathtaking new James Webb Space Telescope image](https://www.space.com/space-exploration/james-webb-space-telescope/cosmic-tornado-swirls-in-breathtaking-new-james-webb-space-telescope-image)
-- [French VC firm Founders Future plans US expansion](https://techcrunch.com/2025/03/24/french-vc-firm-founders-future-plans-us-expansion/)
-- [The Trump administration planned Yemen strikes in an unauthorized Signal chat](https://techcrunch.com/2025/03/24/the-trump-administration-planned-yemen-strikes-in-an-unauthorized-signal-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
