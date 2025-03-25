@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waymo to launch robotaxi service in Washington D.C. in 2026](https://techcrunch.com/2025/03/25/waymo-to-launch-robotaxi-service-in-washington-d-c-in-2026/)
 - [Dazzling photos of this month&#39;s total lunar eclipse showcase a blood red moon near the Milky Way&#39;s heart](https://www.space.com/stargazing/astrophotography/dazzling-photos-of-this-months-total-lunar-eclipse-showcase-a-blood-red-moon-near-the-milky-ways-heart)
 - [Mysterious blue spiral spotted over European skies. What was it? &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos)
 - [Space pirates already have their sights set on the &#39;high seas&#39; of Earth orbit. Can we stop them?](https://www.space.com/space-exploration/space-pirates-already-have-their-sights-set-on-the-high-seas-of-earth-orbit-can-we-stop-them)
-- [&#39;Cosmic tornado&#39; swirls in breathtaking new James Webb Space Telescope image](https://www.space.com/space-exploration/james-webb-space-telescope/cosmic-tornado-swirls-in-breathtaking-new-james-webb-space-telescope-image)
-- [Rare &#39;solar horns&#39; will appear during partial solar eclipse on March 29 — Here are 6 of the best places in the US and Canada to see the unusual phenomenon](https://www.space.com/where-to-see-rare-solar-horns-partial-solar-eclipse-march-2025)
+- [Daphni secures $215M for its third fund](https://techcrunch.com/2025/03/24/daphni-secures-215m-for-its-third-fund/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
