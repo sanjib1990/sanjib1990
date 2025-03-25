@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord made its streaming overlay a lot more user-friendly](https://techcrunch.com/2025/03/25/discord-made-its-streaming-overlay-a-lot-more-user-friendly/)
+- [Curiosity Mars rover discovers largest organic molecules ever seen on Red Planet](https://www.space.com/the-universe/mars/curiosity-mars-rover-discovers-largest-organic-molecules-ever-seen-on-red-planet)
 - [Once a target of Musk’s ire, Gen Z creator Kat Abughazaleh is running for Congress](https://techcrunch.com/2025/03/25/once-a-target-of-musks-ire-gen-z-creator-kat-abughazaleh-is-running-for-congress/)
 - [Outreach founder Manny Medina has a new startup that helps AI agents get paid](https://techcrunch.com/2025/03/25/outreach-founder-manny-medina-has-a-new-startup-that-helps-ai-agents-get-paid/)
 - [US Space Force celebrates return of 1st Guardian to launch to space &lpar;photos&rpar;](https://www.space.com/space-exploration/international-space-station/us-space-force-celebrates-return-of-1st-guardian-to-launch-to-space-photos)
-- [Less than a week to save $300+ on TechCrunch All Stage passes](https://techcrunch.com/2025/03/25/less-than-a-week-to-save-300-on-techcrunch-all-stage-passes/)
-- [Plural’s platform allows enterprises to manage their Kubernetes clusters in one place](https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
