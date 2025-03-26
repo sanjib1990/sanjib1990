@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX launches 27 Starlink satellites to orbit from California, lands rocket at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-satellite-launch-group-11-7-video)
+- [Nvidia is reportedly in talks to acquire Lepton AI](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/)
 - [ChatGPT’s new AI image feature is delayed for free users](https://techcrunch.com/2025/03/26/chatgpts-new-ai-image-feature-is-delayed-for-free-users/)
 - [UnitedHealth removes mentions of DEI from its website](https://techcrunch.com/2025/03/26/unitedhealth-removes-mentions-of-dei-from-its-website/)
 - [Hold onto your hats! Is the &#39;blaze star&#39; T Corona Borealis about to go boom?](https://www.space.com/the-universe/stars/hold-onto-your-hats-is-the-blaze-star-t-corona-borealis-about-to-go-boom)
-- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/)
-- [What will happen during the partial solar eclipse of March 2025?](https://www.space.com/what-will-happen-partial-solar-eclipse-march-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
