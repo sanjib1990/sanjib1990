@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube is changing how YouTube Shorts views are counted](https://techcrunch.com/2025/03/26/youtube-is-changing-how-youtube-shorts-views-are-counted/)
-- [Waze removes Google Assistant from iOS due to ongoing issues](https://techcrunch.com/2025/03/26/waze-removes-google-assistant-from-ios-due-to-ongoing-issues/)
-- [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/)
-- [What’s next for ATProto, the protocol powering Bluesky and other apps](https://techcrunch.com/2025/03/26/whats-next-for-atproto-the-protocol-powering-bluesky-and-other-apps/)
-- [Krisp is using AI to help Indians sound like Americans on calls](https://techcrunch.com/2025/03/26/krisp-launches-a-dubbing-feature-to-change-accent-of-the-speaker-during-a-call/)
+- [Strange red nova deaths of shrouded stars investigated by &#39;stellar Sherlocks&#39;](https://www.space.com/the-universe/strange-red-nova-deaths-of-shrouded-stars-investigated-by-stellar-sherlocks)
+- [Nuclear startup Terrestrial Energy goes public via SPAC, netting $280 million in merger](https://techcrunch.com/2025/03/26/nuclear-startup-terrestrial-energy-goes-public-via-spac-netting-280-million-in-merger/)
+- [James Webb Space Telescope captures 1st images of Neptune&#39;s elusive auroras](https://www.space.com/the-universe/neptune/james-webb-space-telescope-captures-1st-images-of-neptunes-elusive-auroras-photos)
+- [Has GetReal cracked the code on AI deepfakes? $18M and an impressive client list says yes](https://techcrunch.com/2025/03/26/has-getreal-cracked-the-code-on-ai-deepfakes-18m-and-an-impressive-client-list-says-yes/)
+- [A new social app is fighting rage-bait](https://techcrunch.com/2025/03/26/a-new-social-app-is-fighting-rage-bait/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
