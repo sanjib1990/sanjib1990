@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon launches personalized shopping prompts as part of its generative AI push](https://techcrunch.com/2025/03/26/amazon-launches-personalized-shopping-prompts-as-part-of-its-generative-ai-push/)
+- [Send in the clones — Mickey 17, and 17 other famous clones from sci-fi movies and shows](https://www.space.com/entertainment/send-in-the-clones-mickey-17-and-17-other-famous-clones-from-sci-fi-movies-and-shows)
+- [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/)
 - [Google fixes Chrome zero-day security flaw used in hacking campaign targeting journalists](https://techcrunch.com/2025/03/26/google-fixes-chrome-zero-day-security-flaw-used-in-hacking-campaign-targeting-journalists/)
 - [Rivian spins out a new micromobility startup called Also with $105M from Eclipse](https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/)
-- [Cloud veterans launch ConfigHub to fix ‘configuration hell’](https://techcrunch.com/2025/03/26/cloud-veterans-launch-confighub-to-fix-configuration-hell/)
-- [New documentary &#39;Children of the Sky&#39; asks the bold question: Can we raise kids in space? &lpar;op-ed&rpar;](https://www.space.com/entertainment/new-documentary-children-of-the-sky-asks-the-bold-question-can-we-raise-kids-in-space-op-ed)
-- [AI’s coming to the classroom: Brisk raises $15M after a quick start in school](https://techcrunch.com/2025/03/26/ais-coming-to-the-classroom-brisk-raises-15m-after-a-quick-start-in-school/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
