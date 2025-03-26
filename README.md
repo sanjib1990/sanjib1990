@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;What choices do you make when you are turning the moon into cheese?&#39; Author John Scalzi on new novel &#39;When the Moon Hits Your Eye&#39;](https://www.space.com/entertainment/what-choices-do-you-make-when-you-are-turning-the-moon-into-cheese-author-john-scalzi-on-new-novel-when-the-moon-hits-your-eye)
+- [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/)
+- [Auroras on ice giant revealed: Space photo of the day](https://www.space.com/space-exploration/auroras-on-ice-giant-revealed-space-photo-of-the-day)
+- [OpenAI adopts rival Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/)
 - [SpaceX reportedly has a secret backdoor for Chinese investment](https://techcrunch.com/2025/03/26/spacex-reportedly-has-a-secret-backdoor-for-chinese-investment/)
-- [Leaked data exposes a Chinese AI censorship machine](https://techcrunch.com/2025/03/26/leaked-data-exposes-a-chinese-ai-censorship-machine/)
-- [Strange sphere-studded rock on Mars found by NASA&#39;s Perseverance rover](https://www.space.com/space-exploration/mars-rovers/strange-sphere-studded-rock-on-mars-found-by-nasas-perseverance-rover)
-- [Bradley Tusk says he makes more money with ‘equity-for-services’ than he did as a traditional VC](https://techcrunch.com/2025/03/26/bradley-tusk-says-he-makes-more-money-with-equity-for-services-than-he-did-as-a-traditional-vc/)
-- [Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B](https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
