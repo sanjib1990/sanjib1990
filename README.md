@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube is changing how YouTube Shorts views are counted](https://techcrunch.com/2025/03/26/youtube-is-changing-how-youtube-shorts-views-are-counted/)
+- [Waze removes Google Assistant from iOS due to ongoing issues](https://techcrunch.com/2025/03/26/waze-removes-google-assistant-from-ios-due-to-ongoing-issues/)
+- [Amazon’s Alexa Fund is now backing AI startups](https://techcrunch.com/2025/03/26/amazon-alexa-fund-invests-into-four-new-startups-as-it-plans-to-invest-more-into-ai-solutions/)
 - [What’s next for ATProto, the protocol powering Bluesky and other apps](https://techcrunch.com/2025/03/26/whats-next-for-atproto-the-protocol-powering-bluesky-and-other-apps/)
 - [Krisp is using AI to help Indians sound like Americans on calls](https://techcrunch.com/2025/03/26/krisp-launches-a-dubbing-feature-to-change-accent-of-the-speaker-during-a-call/)
-- [What time is the partial solar eclipse on March 29?](https://www.space.com/what-time-partial-solar-eclipse-march-2025)
-- [The TikTok ban is losing support among Americans, study says](https://techcrunch.com/2025/03/26/the-tiktok-ban-is-losing-support-among-americans-study-says/)
-- [Amazon launches personalized shopping prompts as part of its generative AI push](https://techcrunch.com/2025/03/26/amazon-launches-personalized-shopping-prompts-as-part-of-its-generative-ai-push/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
