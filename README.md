@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/03/26/tech-layoffs-2025-list/)
+- [The new moon of March 2025 creates a partial solar eclipse this weekend](https://www.space.com/the-universe/moon/the-new-moon-of-march-2025-creates-a-partial-solar-eclipse-this-weekend)
 - [Watch Rocket Lab launch &#39;Finding Hot Wildfires Near You&#39; mission from New Zealand today](https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-finding-hot-wildfires-near-you-mission-from-new-zealand-today)
 - [Microsoft adds AI-powered deep research tools to Copilot](https://techcrunch.com/2025/03/25/microsoft-adds-ai-powered-deep-research-tools-to-copilot/)
 - [Read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/)
-- [&quot;The monster will come for us all!” Mon Mothma rouses the rebels in new &#39;Andor&#39; Season 2 trailer](https://www.space.com/entertainment/the-monster-will-come-for-us-all-mon-mothma-rouses-the-rebels-in-new-andor-season-2-trailer)
-- [How to tell if your online accounts have been hacked](https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
