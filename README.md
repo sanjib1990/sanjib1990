@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What will happen during the partial solar eclipse of March 2025?](https://www.space.com/what-will-happen-partial-solar-eclipse-march-2025)
+- [The Lumon Terminal Pro computer pops up on Apple’s website](https://techcrunch.com/2025/03/26/the-lumon-terminal-pro-computer-pops-up-on-apples-website/)
 - [&#39;What choices do you make when you are turning the moon into cheese?&#39; Author John Scalzi on new novel &#39;When the Moon Hits Your Eye&#39;](https://www.space.com/entertainment/what-choices-do-you-make-when-you-are-turning-the-moon-into-cheese-author-john-scalzi-on-new-novel-when-the-moon-hits-your-eye)
 - [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/)
 - [Auroras on ice giant revealed: Space photo of the day](https://www.space.com/space-exploration/auroras-on-ice-giant-revealed-space-photo-of-the-day)
-- [OpenAI adopts rival Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/)
-- [SpaceX reportedly has a secret backdoor for Chinese investment](https://techcrunch.com/2025/03/26/spacex-reportedly-has-a-secret-backdoor-for-chinese-investment/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
