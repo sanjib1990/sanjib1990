@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s next for ATProto, the protocol powering Bluesky and other apps](https://techcrunch.com/2025/03/26/whats-next-for-atproto-the-protocol-powering-bluesky-and-other-apps/)
+- [Krisp is using AI to help Indians sound like Americans on calls](https://techcrunch.com/2025/03/26/krisp-launches-a-dubbing-feature-to-change-accent-of-the-speaker-during-a-call/)
+- [What time is the partial solar eclipse on March 29?](https://www.space.com/what-time-partial-solar-eclipse-march-2025)
+- [The TikTok ban is losing support among Americans, study says](https://techcrunch.com/2025/03/26/the-tiktok-ban-is-losing-support-among-americans-study-says/)
 - [Amazon launches personalized shopping prompts as part of its generative AI push](https://techcrunch.com/2025/03/26/amazon-launches-personalized-shopping-prompts-as-part-of-its-generative-ai-push/)
-- [Send in the clones — Mickey 17, and 17 other famous clones from sci-fi movies and shows](https://www.space.com/entertainment/send-in-the-clones-mickey-17-and-17-other-famous-clones-from-sci-fi-movies-and-shows)
-- [Countdown: 5 days left to save up to $320 on TechCrunch All Stage passes](https://techcrunch.com/2025/03/26/countdown-5-days-left-to-save-up-to-320-on-techcrunch-all-stage-passes/)
-- [Google fixes Chrome zero-day security flaw used in hacking campaign targeting journalists](https://techcrunch.com/2025/03/26/google-fixes-chrome-zero-day-security-flaw-used-in-hacking-campaign-targeting-journalists/)
-- [Rivian spins out a new micromobility startup called Also with $105M from Eclipse](https://techcrunch.com/2025/03/26/rivian-spins-out-a-new-micromobility-startup-called-also-with-105m-from-eclipse/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
