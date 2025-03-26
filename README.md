@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Strange red nova deaths of shrouded stars investigated by &#39;stellar Sherlocks&#39;](https://www.space.com/the-universe/strange-red-nova-deaths-of-shrouded-stars-investigated-by-stellar-sherlocks)
-- [Nuclear startup Terrestrial Energy goes public via SPAC, netting $280 million in merger](https://techcrunch.com/2025/03/26/nuclear-startup-terrestrial-energy-goes-public-via-spac-netting-280-million-in-merger/)
-- [James Webb Space Telescope captures 1st images of Neptune&#39;s elusive auroras](https://www.space.com/the-universe/neptune/james-webb-space-telescope-captures-1st-images-of-neptunes-elusive-auroras-photos)
-- [Has GetReal cracked the code on AI deepfakes? $18M and an impressive client list says yes](https://techcrunch.com/2025/03/26/has-getreal-cracked-the-code-on-ai-deepfakes-18m-and-an-impressive-client-list-says-yes/)
-- [A new social app is fighting rage-bait](https://techcrunch.com/2025/03/26/a-new-social-app-is-fighting-rage-bait/)
+- [SpaceX reportedly has a secret backdoor for Chinese investment](https://techcrunch.com/2025/03/26/spacex-reportedly-has-a-secret-backdoor-for-chinese-investment/)
+- [Leaked data exposes a Chinese AI censorship machine](https://techcrunch.com/2025/03/26/leaked-data-exposes-a-chinese-ai-censorship-machine/)
+- [Strange sphere-studded rock on Mars found by NASA&#39;s Perseverance rover](https://www.space.com/space-exploration/mars-rovers/strange-sphere-studded-rock-on-mars-found-by-nasas-perseverance-rover)
+- [Bradley Tusk says he makes more money with ‘equity-for-services’ than he did as a traditional VC](https://techcrunch.com/2025/03/26/bradley-tusk-says-he-makes-more-money-with-equity-for-services-than-he-did-as-a-traditional-vc/)
+- [Fintech Mercury lands $300M in Sequoia-led Series C, doubles valuation to $3.5B](https://techcrunch.com/2025/03/26/fintech-mercury-lands-300m-in-sequoia-led-series-c-doubles-valuation-to-3-5b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
