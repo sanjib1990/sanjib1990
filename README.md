@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hold onto your hats! Is the &#39;blaze star&#39; T Corona Borealis about to go boom?](https://www.space.com/the-universe/stars/hold-onto-your-hats-is-the-blaze-star-t-corona-borealis-about-to-go-boom)
+- [Island lands $250M in funding at a $4.8B valuation](https://techcrunch.com/2025/03/26/island-lands-250m-in-funding-at-a-4-8b-valuation/)
 - [What will happen during the partial solar eclipse of March 2025?](https://www.space.com/what-will-happen-partial-solar-eclipse-march-2025)
 - [The Lumon Terminal Pro computer pops up on Apple’s website](https://techcrunch.com/2025/03/26/the-lumon-terminal-pro-computer-pops-up-on-apples-website/)
 - [&#39;What choices do you make when you are turning the moon into cheese?&#39; Author John Scalzi on new novel &#39;When the Moon Hits Your Eye&#39;](https://www.space.com/entertainment/what-choices-do-you-make-when-you-are-turning-the-moon-into-cheese-author-john-scalzi-on-new-novel-when-the-moon-hits-your-eye)
-- [19 founders and VCs working with Elon Musk’s DOGE](https://techcrunch.com/2025/03/26/19-founders-and-vcs-working-with-elon-musks-doge/)
-- [Auroras on ice giant revealed: Space photo of the day](https://www.space.com/space-exploration/auroras-on-ice-giant-revealed-space-photo-of-the-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
