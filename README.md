@@ -94,7 +94,7 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [We read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/we-read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/)
+- [Read the email Jack Dorsey sent when he cut 931 of Block’s staff](https://techcrunch.com/2025/03/25/read-the-email-jack-dorsey-sent-when-he-cut-931-of-blocks-staff/)
 - [&quot;The monster will come for us all!” Mon Mothma rouses the rebels in new &#39;Andor&#39; Season 2 trailer](https://www.space.com/entertainment/the-monster-will-come-for-us-all-mon-mothma-rouses-the-rebels-in-new-andor-season-2-trailer)
 - [How to tell if your online accounts have been hacked](https://techcrunch.com/2025/03/25/how-to-tell-if-your-online-accounts-have-been-hacked/)
 - [&#39;Earth to Space&#39; art festival set to launch at Kennedy Center this week](https://www.space.com/space-exploration/earth-to-space-art-festival-set-to-launch-at-kennedy-center-this-week)
