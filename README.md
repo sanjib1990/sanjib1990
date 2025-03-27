@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unknown physics may help dark energy act as &#39;antigravity&#39; throughout the universe](https://www.space.com/the-universe/unknown-physics-may-help-dark-energy-act-as-antigravity-throughout-the-universe)
+- [NHS vendor Advanced to pay £3M fine following 2022 ransomware attack](https://techcrunch.com/2025/03/27/nhs-vendor-advanced-to-pay-3m-fine-following-2022-ransomware-attack/)
 - [OpenAI will reportedly close its SoftBank-led $40 billion round soon](https://techcrunch.com/2025/03/26/openai-will-reportedly-close-its-softbank-led-40-billion-round-soon/)
 - [OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns](https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/)
 - [SpaceX launches 27 Starlink satellites to orbit from California, lands rocket at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-satellite-launch-group-11-7-video)
-- [Nvidia is reportedly in talks to acquire Lepton AI](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/)
-- [ChatGPT’s new AI image feature is delayed for free users](https://techcrunch.com/2025/03/26/chatgpts-new-ai-image-feature-is-delayed-for-free-users/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
