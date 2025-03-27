@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ebay backs WunderGraph to build an open-source GraphQL federation](https://techcrunch.com/2025/03/27/ebay-backs-wundergraph-to-build-an-open-source-graphql-federation/)
+- [TikTok to launch TikTok Shop in France, Germany, and Italy](https://techcrunch.com/2025/03/27/tiktok-to-launch-tiktok-shop-in-france-germany-and-italy/)
+- [Signal downloads spike in the U.S. and Yemen amid government scandal](https://techcrunch.com/2025/03/27/signal-downloads-spike-in-the-u-s-and-yemen-amid-government-scandal/)
+- [New Utah law makes app stores responsible for age verification](https://techcrunch.com/2025/03/27/new-utah-law-makes-app-stores-responsible-for-age-verification/)
+- [eBay backs WunderGraph to build an open source GraphQL federation](https://techcrunch.com/2025/03/27/ebay-backs-wundergraph-to-build-an-open-source-graphql-federation/)
 - [YC alum Mendel, a ‘Ramp for LatAm enterprises,’ raises $35M Series B](https://techcrunch.com/2025/03/27/yc-alum-mendel-a-ramp-for-latam-enterprises-raises-35m-series-b/)
-- [Partial solar eclipse 2025 livestreams: Where to watch online for free on March 29](https://www.space.com/partial-solar-eclipse-march-2025-livestreams)
-- [With the Switch 2 coming, Nintendo is working on Virtual Game Cards for cross-device portability](https://techcrunch.com/2025/03/27/with-the-switch-2-coming-nintendo-is-working-on-virtual-game-cards-for-cross-device-portability/)
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/03/27/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
