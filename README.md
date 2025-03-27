@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns](https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/)
 - [SpaceX launches 27 Starlink satellites to orbit from California, lands rocket at sea &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-satellite-launch-group-11-7-video)
 - [Nvidia is reportedly in talks to acquire Lepton AI](https://techcrunch.com/2025/03/26/nvidia-is-reportedly-in-talks-to-acquire-lepton-ai/)
 - [ChatGPT’s new AI image feature is delayed for free users](https://techcrunch.com/2025/03/26/chatgpts-new-ai-image-feature-is-delayed-for-free-users/)
 - [UnitedHealth removes mentions of DEI from its website](https://techcrunch.com/2025/03/26/unitedhealth-removes-mentions-of-dei-from-its-website/)
-- [Hold onto your hats! Is the &#39;blaze star&#39; T Corona Borealis about to go boom?](https://www.space.com/the-universe/stars/hold-onto-your-hats-is-the-blaze-star-t-corona-borealis-about-to-go-boom)
 <!-- BLOG-POST-LIST:END -->
 
 ---
