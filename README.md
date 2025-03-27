@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Katy Perry, Gayle King blast off on star-studded all-female Blue Origin rocket launch on April 14](https://www.space.com/space-exploration/private-spaceflight/katy-perry-gayle-king-blast-off-on-star-studded-all-female-blue-origin-rocket-launch-on-april-14)
-- [4 days left to lock in $300+ savings for investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/27/4-days-left-to-lock-in-300-savings-for-investor-and-founder-tickets-for-techcrunch-all-stage/)
-- [Capturing the cosmos on canvas: How art helps scientists and space agencies communicate with the public](https://www.space.com/space-exploration/capturing-the-cosmos-on-canvas-how-art-helps-scientists-and-space-agencies-communicate-with-the-public)
-- [Google rolls out new vacation-planning features to Search, Maps, and Gemini](https://techcrunch.com/2025/03/27/google-rolls-out-new-vacation-planning-features-to-search-maps-and-gemini/)
-- [Has the sun already passed solar maximum?](https://www.space.com/the-universe/sun/is-solar-maximum-over-solar-cycle-25)
+- [Ebay backs WunderGraph to build an open-source GraphQL federation](https://techcrunch.com/2025/03/27/ebay-backs-wundergraph-to-build-an-open-source-graphql-federation/)
+- [YC alum Mendel, a ‘Ramp for LatAm enterprises,’ raises $35M Series B](https://techcrunch.com/2025/03/27/yc-alum-mendel-a-ramp-for-latam-enterprises-raises-35m-series-b/)
+- [Partial solar eclipse 2025 livestreams: Where to watch online for free on March 29](https://www.space.com/partial-solar-eclipse-march-2025-livestreams)
+- [With the Switch 2 coming, Nintendo is working on Virtual Game Cards for cross-device portability](https://techcrunch.com/2025/03/27/with-the-switch-2-coming-nintendo-is-working-on-virtual-game-cards-for-cross-device-portability/)
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/03/27/chatgpt-everything-to-know-about-the-ai-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
