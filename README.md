@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Times Internet spin-out Abound raises $14M to let more Indian Americans send money home](https://techcrunch.com/2025/03/27/times-internet-spin-out-abound-raises-14m-to-let-more-indian-americans-send-money-home/)
 - [When&#39;s the next &#39;parade of planets&#39;? The past, present and future of planetary alignments](https://www.space.com/stargazing/when-is-next-planetary-parade-how-rare-are-they)
 - [Unknown physics may help dark energy act as &#39;antigravity&#39; throughout the universe](https://www.space.com/the-universe/unknown-physics-may-help-dark-energy-act-as-antigravity-throughout-the-universe)
 - [NHS vendor Advanced to pay £3M fine following 2022 ransomware attack](https://techcrunch.com/2025/03/27/nhs-vendor-advanced-to-pay-3m-fine-following-2022-ransomware-attack/)
 - [OpenAI will reportedly close its SoftBank-led $40 billion round soon](https://techcrunch.com/2025/03/26/openai-will-reportedly-close-its-softbank-led-40-billion-round-soon/)
-- [OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns](https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
