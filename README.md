@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [So long, Gaia: Europe officially retires prolific star-mapping space telescope](https://www.space.com/space-exploration/missions/so-long-gaia-europe-officially-retires-prolific-star-mapping-space-telescope)
 - [2 newly found exoplanets reignite an outstanding question about our solar system](https://www.space.com/the-universe/exoplanets/2-newly-found-exoplanets-reignite-an-outstanding-question-about-our-solar-system)
 - [Trump’s auto tariffs are a gift to Tesla](https://techcrunch.com/2025/03/27/trumps-auto-tariffs-are-a-gift-to-tesla/)
 - [Why HoneyBook’s $140M in ARR may finally justify its $2.4B ZIRP-era valuation](https://techcrunch.com/2025/03/27/why-honeybooks-140m-in-arr-may-finally-justify-its-2-4b-zirp-era-valuation/)
 - [This Star Wars The Black Series Force FX lightsaber is its lowest-ever price and 55% off for Amazon&#39;s Big Spring Sale](https://www.space.com/entertainment/sabine-wren-force-fx-lightsaber-55-percent-off-big-spring-sale)
-- [Explore a hostile world, build up your wheely big base, and chat to your clones in upcoming sci-fi survival game &#39;The Alters&#39; &lpar;video&rpar;](https://www.space.com/entertainment/explore-a-hostile-world-build-up-your-wheely-big-base-and-chat-to-your-clones-in-upcoming-sci-fi-survival-game-the-alters-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
