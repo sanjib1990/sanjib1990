@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 newly found exoplanets reignite an outstanding question about our solar system](https://www.space.com/the-universe/exoplanets/2-newly-found-exoplanets-reignite-an-outstanding-question-about-our-solar-system)
+- [Trump’s auto tariffs are a gift to Tesla](https://techcrunch.com/2025/03/27/trumps-auto-tariffs-are-a-gift-to-tesla/)
+- [Why HoneyBook’s $140M in ARR may finally justify its $2.4B ZIRP-era valuation](https://techcrunch.com/2025/03/27/why-honeybooks-140m-in-arr-may-finally-justify-its-2-4b-zirp-era-valuation/)
+- [This Star Wars The Black Series Force FX lightsaber is its lowest-ever price and 55% off for Amazon&#39;s Big Spring Sale](https://www.space.com/entertainment/sabine-wren-force-fx-lightsaber-55-percent-off-big-spring-sale)
 - [Explore a hostile world, build up your wheely big base, and chat to your clones in upcoming sci-fi survival game &#39;The Alters&#39; &lpar;video&rpar;](https://www.space.com/entertainment/explore-a-hostile-world-build-up-your-wheely-big-base-and-chat-to-your-clones-in-upcoming-sci-fi-survival-game-the-alters-video)
-- [Instagram now lets you speed up reels just like on TikTok](https://techcrunch.com/2025/03/27/instagram-now-lets-you-speed-up-videos-just-like-on-tiktok/)
-- [Facebook debuts a revamped Friends tab as part of its return to ‘OG’ Facebook](https://techcrunch.com/2025/03/27/facebook-debuts-a-revamped-friends-tab-as-part-of-its-return-to-og-facebook/)
-- [Twin’s first AI agent is an invoice-retrieval agent for Qonto customers](https://techcrunch.com/2025/03/27/twins-first-ai-agent-is-an-invoice-retrieval-agent-for-qonto-customers/)
-- [NASA stacks moon-bound Artemis 2 rocket: Space photo of the day](https://www.space.com/space-exploration/artemis/nasa-stacks-moon-bound-artemis-2-rocket-space-photo-of-the-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
