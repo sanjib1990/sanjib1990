@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Facilitative Leadership in the Public Sector &lpar;Trailer&rpar;](https://www.youtube.com/watch?v=PtYI9lppyXc)
+- [21-year old dev destroys LeetCode, gets kicked out of school...](https://www.youtube.com/watch?v=AwZ8PtoqCeU)
 - [The &quot;vibe coding&quot; mind virus explained…](https://www.youtube.com/watch?v=Tw18-4U7mts)
 - [Jensen Huang on GPUs - Computerphile](https://www.youtube.com/watch?v=G6R7UOFx1bw)
 - [Next.js rocked by critical 9.1 level exploit...](https://www.youtube.com/watch?v=AaCnBOqyvIM)
-- [Behind the Scenes at GTC AI Conference - Computerphile](https://www.youtube.com/watch?v=sBeHhJ8P24I)
-- [YOU decide how this AI helps your team](https://www.youtube.com/watch?v=QVjxorbKY6c)
 <!-- YOUTUBE:END -->
 
 ---
