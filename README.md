@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twin’s first AI agent is an invoice retrieval agent for Qonto customers](https://techcrunch.com/2025/03/27/twins-first-ai-agent-is-an-invoice-retrieval-agent-for-qonto-customers/)
+- [Explore a hostile world, build up your wheely big base, and chat to your clones in upcoming sci-fi survival game &#39;The Alters&#39; &lpar;video&rpar;](https://www.space.com/entertainment/explore-a-hostile-world-build-up-your-wheely-big-base-and-chat-to-your-clones-in-upcoming-sci-fi-survival-game-the-alters-video)
+- [Instagram now lets you speed up reels just like on TikTok](https://techcrunch.com/2025/03/27/instagram-now-lets-you-speed-up-videos-just-like-on-tiktok/)
+- [Facebook debuts a revamped Friends tab as part of its return to ‘OG’ Facebook](https://techcrunch.com/2025/03/27/facebook-debuts-a-revamped-friends-tab-as-part-of-its-return-to-og-facebook/)
+- [Twin’s first AI agent is an invoice-retrieval agent for Qonto customers](https://techcrunch.com/2025/03/27/twins-first-ai-agent-is-an-invoice-retrieval-agent-for-qonto-customers/)
 - [NASA stacks moon-bound Artemis 2 rocket: Space photo of the day](https://www.space.com/space-exploration/artemis/nasa-stacks-moon-bound-artemis-2-rocket-space-photo-of-the-day)
-- [TikTok to launch TikTok Shop in France, Germany, and Italy](https://techcrunch.com/2025/03/27/tiktok-to-launch-tiktok-shop-in-france-germany-and-italy/)
-- [Signal downloads spike in the US and Yemen amid government scandal](https://techcrunch.com/2025/03/27/signal-downloads-spike-in-the-u-s-and-yemen-amid-government-scandal/)
-- [New Utah law makes app stores responsible for age verification](https://techcrunch.com/2025/03/27/new-utah-law-makes-app-stores-responsible-for-age-verification/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
