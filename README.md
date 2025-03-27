@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twin’s first AI agent is an invoice retrieval agent for Qonto customers](https://techcrunch.com/2025/03/27/twins-first-ai-agent-is-an-invoice-retrieval-agent-for-qonto-customers/)
+- [NASA stacks moon-bound Artemis 2 rocket: Space photo of the day](https://www.space.com/space-exploration/artemis/nasa-stacks-moon-bound-artemis-2-rocket-space-photo-of-the-day)
 - [TikTok to launch TikTok Shop in France, Germany, and Italy](https://techcrunch.com/2025/03/27/tiktok-to-launch-tiktok-shop-in-france-germany-and-italy/)
-- [Signal downloads spike in the U.S. and Yemen amid government scandal](https://techcrunch.com/2025/03/27/signal-downloads-spike-in-the-u-s-and-yemen-amid-government-scandal/)
+- [Signal downloads spike in the US and Yemen amid government scandal](https://techcrunch.com/2025/03/27/signal-downloads-spike-in-the-u-s-and-yemen-amid-government-scandal/)
 - [New Utah law makes app stores responsible for age verification](https://techcrunch.com/2025/03/27/new-utah-law-makes-app-stores-responsible-for-age-verification/)
-- [eBay backs WunderGraph to build an open source GraphQL federation](https://techcrunch.com/2025/03/27/ebay-backs-wundergraph-to-build-an-open-source-graphql-federation/)
-- [YC alum Mendel, a ‘Ramp for LatAm enterprises,’ raises $35M Series B](https://techcrunch.com/2025/03/27/yc-alum-mendel-a-ramp-for-latam-enterprises-raises-35m-series-b/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
