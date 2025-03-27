@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Certification platform Certiverse nabs $11M series A led by Cherryrock](https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/)
+- [US Space Force certifies new Vulcan Centaur rocket to launch national security missions](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-certifies-new-vulcan-centaur-rocket-to-launch-national-security-missions)
+- [Certification platform Certiverse nabs $11M Series A led by Cherryrock](https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/)
 - [NASA cancels cargo launch to ISS due to damaged Cygnus spacecraft](https://www.space.com/space-exploration/international-space-station/nasa-cancels-cargo-launch-to-iss-due-to-damaged-cygnus-spacecraft)
 - [NASA&#39;s daredevil solar spacecraft survives 2nd close flyby of our sun](https://www.space.com/the-universe/sun/nasas-daredevil-solar-spacecraft-survives-2nd-close-flyby-of-our-sun)
 - [So long, Gaia: Europe officially retires prolific star-mapping space telescope](https://www.space.com/space-exploration/missions/so-long-gaia-europe-officially-retires-prolific-star-mapping-space-telescope)
-- [2 newly found exoplanets reignite an outstanding question about our solar system](https://www.space.com/the-universe/exoplanets/2-newly-found-exoplanets-reignite-an-outstanding-question-about-our-solar-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
