@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI peels back ChatGPT’s safeguards around image creation](https://techcrunch.com/2025/03/28/openai-peels-back-chatgpts-safeguards-around-image-creation/)
+- [NASA astronaut who gave up seat for Starliner rescue mission takes command of SpaceX Crew-11 flight to ISS](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-who-gave-up-seat-for-starliner-rescue-mission-takes-command-of-spacex-crew-11-flight-to-iss)
+- [Last chance! 72% off Disney Plus, Hulu and ESPN Plus bundle means you can watch all Marvel movies and TV shows, including X-Men, for just $2.99 a month](https://www.space.com/entertainment/watch-marvel-ahead-of-doomsday-and-thunderbolts-72-percent-off-disney-deal)
 - [Exoplanet nurseries around infant stars can be much smaller than expected: &#39;It is astonishing&#39;](https://www.space.com/the-universe/exoplanet-nurseries-around-infant-stars-can-be-much-smaller-than-expected-it-is-astonishing)
-- [Lucid to ramp customer deliveries for Gravity SUV by end of April](https://techcrunch.com/2025/03/28/lucid-to-ramp-customer-deliveries-for-gravity-suv-by-end-of-april/)
 - [James Webb Space Telescope discovers 2 galaxies forming breathtaking &#39;cosmic lens&#39;: Space photo of the day](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-discovers-2-galaxies-forming-breathtaking-cosmic-lens-space-photo-of-the-day)
-- [‘It was weird, man’: Zuckerberg took Facebook employees to see ‘The Social Network’ when it came out](https://techcrunch.com/2025/03/28/it-was-weird-man-zuckerberg-took-facebook-employees-to-see-the-social-network-when-it-came-out/)
+- [This spacecraft swarm could spot interstellar visitors zipping through our solar system](https://www.space.com/space-exploration/tech/this-spacecraft-swarm-could-spot-interstellar-visitors-zipping-through-our-solar-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
