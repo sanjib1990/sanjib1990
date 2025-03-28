@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [EVERYTHING NEW with ChatGPT 4o Image Generation](https://www.youtube.com/watch?v=on-AmAv_DtI)
 - [OpenAI’s new image generator hits different...](https://www.youtube.com/watch?v=Bt-7YiNBvLE)
 - [Facilitative Leadership in the Public Sector &lpar;Trailer&rpar;](https://www.youtube.com/watch?v=PtYI9lppyXc)
 - [21-year old dev destroys LeetCode, gets kicked out of school...](https://www.youtube.com/watch?v=AwZ8PtoqCeU)
 - [The &quot;vibe coding&quot; mind virus explained…](https://www.youtube.com/watch?v=Tw18-4U7mts)
-- [Jensen Huang on GPUs - Computerphile](https://www.youtube.com/watch?v=G6R7UOFx1bw)
 <!-- YOUTUBE:END -->
 
 ---
