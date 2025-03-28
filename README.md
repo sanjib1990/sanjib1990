@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This spacecraft swarm could spot interstellar visitors zipping through our solar system](https://www.space.com/space-exploration/tech/this-spacecraft-swarm-could-spot-interstellar-visitors-zipping-through-our-solar-system)
+- [WhatsApp users can now add songs to their Status updates](https://techcrunch.com/2025/03/28/whatsapp-users-can-now-add-songs-to-their-status-updates/)
 - [YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’](https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/)
 - [Meet the astronauts of SpaceX&#39;s Fram2 mission, the 1st to fly over Earth&#39;s poles](https://www.space.com/space-exploration/human-spaceflight/meet-the-astronauts-of-spacexs-fram2-mission-the-1st-to-fly-over-earths-poles)
 - [Nikola founder Trevor Milton pardoned by Trump](https://techcrunch.com/2025/03/28/nikola-founder-trevor-milton-pardoned-by-trump/)
-- [Mozilla patches Firefox bug ‘exploited in the wild’, similar to bug attacking Chrome](https://techcrunch.com/2025/03/28/mozilla-patches-firefox-bug-exploited-in-the-wild-similar-to-bug-attacking-chrome/)
-- [Google rolls out user choice billing on Google Play in the UK](https://techcrunch.com/2025/03/28/google-rolls-out-user-choice-billing-on-google-play-in-the-uk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
