@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This spacecraft swarm could spot interstellar visitors zipping through our solar system](https://www.space.com/space-exploration/tech/this-spacecraft-swarm-could-spot-interstellar-visitors-zipping-through-our-solar-system)
-- [WhatsApp users can now add songs to their Status updates](https://techcrunch.com/2025/03/28/whatsapp-users-can-now-add-songs-to-their-status-updates/)
-- [YC-backed Taxo raises $5M to slash healthcare admin with its AI ‘reasoning engine’](https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/)
-- [Meet the astronauts of SpaceX&#39;s Fram2 mission, the 1st to fly over Earth&#39;s poles](https://www.space.com/space-exploration/human-spaceflight/meet-the-astronauts-of-spacexs-fram2-mission-the-1st-to-fly-over-earths-poles)
-- [Nikola founder Trevor Milton pardoned by Trump](https://techcrunch.com/2025/03/28/nikola-founder-trevor-milton-pardoned-by-trump/)
+- [OpenAI peels back ChatGPT’s safeguards around image creation](https://techcrunch.com/2025/03/28/openai-peels-back-chatgpts-safeguards-around-image-creation/)
+- [Exoplanet nurseries around infant stars can be much smaller than expected: &#39;It is astonishing&#39;](https://www.space.com/the-universe/exoplanet-nurseries-around-infant-stars-can-be-much-smaller-than-expected-it-is-astonishing)
+- [Lucid to ramp customer deliveries for Gravity SUV by end of April](https://techcrunch.com/2025/03/28/lucid-to-ramp-customer-deliveries-for-gravity-suv-by-end-of-april/)
+- [James Webb Space Telescope discovers 2 galaxies forming breathtaking &#39;cosmic lens&#39;: Space photo of the day](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-discovers-2-galaxies-forming-breathtaking-cosmic-lens-space-photo-of-the-day)
+- [‘It was weird, man’: Zuckerberg took Facebook employees to see ‘The Social Network’ when it came out](https://techcrunch.com/2025/03/28/it-was-weird-man-zuckerberg-took-facebook-employees-to-see-the-social-network-when-it-came-out/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
