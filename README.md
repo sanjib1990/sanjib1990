@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t miss the partial solar eclipse tomorrow: Where, when and how to see it](https://www.space.com/partial-solar-eclipse-how-where-when-to-see-march-2025)
 - [Boeing&#39;s next Starliner launch for NASA could slip to early 2026 after fixes](https://www.space.com/space-exploration/international-space-station/boeings-next-starliner-launch-for-nasa-could-slip-to-early-2026-after-fixes)
 - [Krafton acquires controlling stake in Indian gaming studio Nautilus Mobile for $14M](https://techcrunch.com/2025/03/27/krafton-acquires-controlling-stake-in-indian-gaming-studio-nautilus-mobile-for-14m/)
 - [Open source devs are fighting AI crawlers with cleverness and vengeance](https://techcrunch.com/2025/03/27/open-source-devs-are-fighting-ai-crawlers-with-cleverness-and-vengeance/)
 - [US Space Force certifies new Vulcan Centaur rocket to launch national security missions](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-certifies-new-vulcan-centaur-rocket-to-launch-national-security-missions)
-- [Certification platform Certiverse nabs $11M Series A led by Cherryrock](https://techcrunch.com/2025/03/27/certification-platform-certiverse-nabs-11m-series-a-led-by-cherryrock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
