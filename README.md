@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Doom games in order: Chronological and release date](https://www.space.com/entertainment/space-games-toys/doom-games-in-order-chronological-and-release-date)
 - [&#39;Chappie&#39; is 10 years old, and Blomkamp&#39;s flawed humanist take on robots and AI is more relevant than ever](https://www.space.com/entertainment/space-movies-shows/chappie-is-10-years-old-and-blomkamps-flawed-humanist-take-on-robots-and-ai-is-more-relevant-than-ever)
 - [Nintendo used its new app to announce the ‘Legend of Zelda’ movie release date](https://techcrunch.com/2025/03/28/nintendo-used-its-new-app-to-announce-the-legend-of-zelda-movie-release-date/)
 - [Solar eclipse US weather forecast: Best places to see the moon &#39;bite&#39; the sun tomorrow](https://www.space.com/stargazing/eclipses/solar-eclipse-us-weather-forecast-best-places-to-see-the-moon-bite-the-sun-tomorrow)
 - [Surprise X-class solar flare from emerging sunspot triggers radio blackouts across the Americas](https://www.space.com/surprise-x-class-solar-flare-triggers-radio-blackouts-americas)
-- [TechCrunch Mobility: Inside the Rivian skunkworks program, and Trump’s gift to Tesla](https://techcrunch.com/2025/03/28/techcrunch-mobility-inside-the-rivian-skunkworks-program-and-trumps-gift-to-tesla/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
