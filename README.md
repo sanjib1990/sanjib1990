@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA astronaut who gave up seat for Starliner rescue mission takes command of SpaceX Crew-11 flight to ISS](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-who-gave-up-seat-for-starliner-rescue-mission-takes-command-of-spacex-crew-11-flight-to-iss)
-- [Last chance! 72% off Disney Plus, Hulu and ESPN Plus bundle means you can watch all Marvel movies and TV shows, including X-Men, for just $2.99 a month](https://www.space.com/entertainment/watch-marvel-ahead-of-doomsday-and-thunderbolts-72-percent-off-disney-deal)
-- [Exoplanet nurseries around infant stars can be much smaller than expected: &#39;It is astonishing&#39;](https://www.space.com/the-universe/exoplanet-nurseries-around-infant-stars-can-be-much-smaller-than-expected-it-is-astonishing)
-- [James Webb Space Telescope discovers 2 galaxies forming breathtaking &#39;cosmic lens&#39;: Space photo of the day](https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-discovers-2-galaxies-forming-breathtaking-cosmic-lens-space-photo-of-the-day)
-- [This spacecraft swarm could spot interstellar visitors zipping through our solar system](https://www.space.com/space-exploration/tech/this-spacecraft-swarm-could-spot-interstellar-visitors-zipping-through-our-solar-system)
+- [Surprise X-class solar flare from emerging sunspot triggers radio blackouts across the Americas](https://www.space.com/surprise-x-class-solar-flare-triggers-radio-blackouts-americas)
+- [TechCrunch Mobility: Inside the Rivian skunkworks program, and Trump’s gift to Tesla](https://techcrunch.com/2025/03/28/techcrunch-mobility-inside-the-rivian-skunkworks-program-and-trumps-gift-to-tesla/)
+- [Breast pump startup Willow acquires assets of Elvie as UK women’s health pioneer moves into administration](https://techcrunch.com/2025/03/28/breast-pump-startup-willow-acquires-assets-of-elvie-as-uk-womens-health-pioneer-moves-into-administration/)
+- [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/)
+- [NASA astronaut who gave up seat for Starliner crew takes command of SpaceX Crew-11 flight to ISS](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-who-gave-up-seat-for-starliner-rescue-mission-takes-command-of-spacex-crew-11-flight-to-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
