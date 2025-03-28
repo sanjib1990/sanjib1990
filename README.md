@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo used its new app to announce the ‘Legend of Zelda’ movie release date](https://techcrunch.com/2025/03/28/nintendo-used-its-new-app-to-announce-the-legend-of-zelda-movie-release-date/)
+- [Solar eclipse US weather forecast: Best places to see the moon &#39;bite&#39; the sun tomorrow](https://www.space.com/stargazing/eclipses/solar-eclipse-us-weather-forecast-best-places-to-see-the-moon-bite-the-sun-tomorrow)
 - [Surprise X-class solar flare from emerging sunspot triggers radio blackouts across the Americas](https://www.space.com/surprise-x-class-solar-flare-triggers-radio-blackouts-americas)
 - [TechCrunch Mobility: Inside the Rivian skunkworks program, and Trump’s gift to Tesla](https://techcrunch.com/2025/03/28/techcrunch-mobility-inside-the-rivian-skunkworks-program-and-trumps-gift-to-tesla/)
 - [Breast pump startup Willow acquires assets of Elvie as UK women’s health pioneer moves into administration](https://techcrunch.com/2025/03/28/breast-pump-startup-willow-acquires-assets-of-elvie-as-uk-womens-health-pioneer-moves-into-administration/)
-- [Startups Weekly: Mercury more than doubled its valuation, and other news](https://techcrunch.com/2025/03/28/startups-weekly-mercury-more-than-doubled-its-valuation-and-other-news/)
-- [NASA astronaut who gave up seat for Starliner crew takes command of SpaceX Crew-11 flight to ISS](https://www.space.com/space-exploration/international-space-station/nasa-astronaut-who-gave-up-seat-for-starliner-rescue-mission-takes-command-of-spacex-crew-11-flight-to-iss)
 <!-- BLOG-POST-LIST:END -->
 
 ---
