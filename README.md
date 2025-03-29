@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/)
 - [‘Tesla Takedown’ protesters are planning a global day of action on March 29, and things might get ugly](https://techcrunch.com/2025/03/28/tesla-takedown-protesters-are-planning-a-global-day-of-action-on-march-29-and-things-might-get-ugly/)
 - [Elon Musk says xAI acquired X](https://techcrunch.com/2025/03/28/elon-musk-says-xai-acquired-x/)
 - [Fintech VC powerhouse Frank Rotman stepping down from QED Investors to found his own startups](https://techcrunch.com/2025/03/28/fintech-vc-powerhouse-frank-rotman-stepping-down-from-qed-investors-to-found-his-own-startups/)
 - [Doom games in order: Chronological and release date](https://www.space.com/entertainment/space-games-toys/doom-games-in-order-chronological-and-release-date)
-- [&#39;Chappie&#39; is 10 years old, and Blomkamp&#39;s flawed humanist take on robots and AI is more relevant than ever](https://www.space.com/entertainment/space-movies-shows/chappie-is-10-years-old-and-blomkamps-flawed-humanist-take-on-robots-and-ai-is-more-relevant-than-ever)
 <!-- BLOG-POST-LIST:END -->
 
 ---
