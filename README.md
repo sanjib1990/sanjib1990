@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [‘Tesla Takedown’ protesters are planning a global day of action on March 29, and things might get ugly](https://techcrunch.com/2025/03/29/tesla-takedown-protesters-are-planning-a-global-day-of-action-on-march-29-and-things-might-get-ugly/)
+- [1st solar eclipse of 2025 puts on stunning show for skywatchers around the world &lpar;photos&rpar;](https://www.space.com/partial-solar-eclipse-first-of-2025-best-photos)
 - [X-rays, mushrooms and more: The science riding on SpaceX&#39;s Fram2 astronaut mission around Earth&#39;s poles](https://www.space.com/space-exploration/missions/x-rays-mushrooms-and-more-the-science-riding-on-spacexs-fram2-astronaut-mission-around-earths-poles)
 - [A total solar eclipse from 2471 B.C. may have shaken Egypt&#39;s cult of the sun](https://www.space.com/the-universe/sun/a-total-solar-eclipse-from-2471-b-c-may-have-shaken-egypts-cult-of-the-sun)
 - [Javice found guilty of defrauding JPMorgan in $175M startup purchase](https://techcrunch.com/2025/03/28/javice-found-guilty-of-defrauding-jpmorgan-in-175m-startup-purchase/)
-- [‘Tesla Takedown’ protesters are planning a global day of action on March 29, and things might get ugly](https://techcrunch.com/2025/03/28/tesla-takedown-protesters-are-planning-a-global-day-of-action-on-march-29-and-things-might-get-ugly/)
-- [Elon Musk says xAI acquired X](https://techcrunch.com/2025/03/28/elon-musk-says-xai-acquired-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
