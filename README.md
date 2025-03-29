@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon shakes up streaming leadership team](https://techcrunch.com/2025/03/29/amazon-shakes-up-streaming-leadership-team/)
 - [Elon Musk’s xAI buys X](https://techcrunch.com/2025/03/29/block-cuts-931-employees/)
 - [Elon Musk says xAI acquired X](https://techcrunch.com/2025/03/29/elon-musk-says-xai-acquired-x/)
 - [CoreWeave co-founder explains how a closet of crypto-mining GPUs led to a $1.5B IPO](https://techcrunch.com/2025/03/29/coreweave-co-founder-explains-how-a-closet-of-crypto-mining-gpus-led-to-a-1-5b-ipo/)
 - [A look at Intel Capital before the 34-year-old firm strikes out on its own](https://techcrunch.com/2025/03/29/a-look-at-intel-capital-before-the-34-year-old-firm-strikes-out-on-its-own/)
-- [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
