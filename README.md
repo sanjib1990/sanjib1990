@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A look at Intel Capital before the 34-year-old firm strikes out on its own](https://techcrunch.com/2025/03/29/a-look-at-intel-capital-before-the-34-year-old-firm-strikes-out-on-its-own/)
 - [Here are Africa’s biggest startups based on valuation](https://techcrunch.com/2025/03/29/here-are-africas-biggest-startups-based-on-valuation/)
 - [Only 3 days left to save $300+ on investor and founder tickets for TechCrunch All Stage](https://techcrunch.com/2025/03/29/only-3-days-left-to-save-300-on-investor-and-founder-tickets-for-techcrunch-all-stage/)
 - [This Week In Space podcast: Episode 154 — The View From On High](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-154-the-view-from-on-high)
 - [‘Tesla Takedown’ protesters are planning a global day of action on March 29, and things might get ugly](https://techcrunch.com/2025/03/29/tesla-takedown-protesters-are-planning-a-global-day-of-action-on-march-29-and-things-might-get-ugly/)
-- [1st solar eclipse of 2025 puts on stunning show for skywatchers around the world &lpar;photos&rpar;](https://www.space.com/partial-solar-eclipse-first-of-2025-best-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
