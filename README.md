@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“This isn’t the Matrix”](https://techcrunch.com/2025/03/30/this-isnt-the-matrix/)
+- [Apple reportedly revamping Health app to add an AI coach](https://techcrunch.com/2025/03/30/apple-reportedly-revamping-health-app-to-add-an-ai-coach/)
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/)
 - [China Miéville says we shouldn’t blame science fiction for its bad readers](https://techcrunch.com/2025/03/30/author-china-mieville-says-we-shouldnt-blame-science-fiction-for-its-bad-readers/)
 - [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/03/30/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
-- [SpaceX rolls out rocket for historic Fram2 astronaut flight over Earth&#39;s poles &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/spacex-rolls-out-rocket-for-historic-fram2-astronaut-flight-over-earths-poles-photos)
-- [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/03/30/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
