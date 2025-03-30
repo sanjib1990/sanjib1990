@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [China Miéville says we shouldn’t blame science fiction for its bad readers](https://techcrunch.com/2025/03/30/author-china-mieville-says-we-shouldnt-blame-science-fiction-for-its-bad-readers/)
+- [The hottest AI models, what they do, and how to use them](https://techcrunch.com/2025/03/30/the-hottest-ai-models-what-they-do-and-how-to-use-them/)
 - [SpaceX rolls out rocket for historic Fram2 astronaut flight over Earth&#39;s poles &lpar;photos&rpar;](https://www.space.com/space-exploration/missions/spacex-rolls-out-rocket-for-historic-fram2-astronaut-flight-over-earths-poles-photos)
 - [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/03/30/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/)
 - [ISS National Lab explores the future of space in new podcast &#39;Between a Rocket and a Hard Space&#39;](https://www.space.com/space-exploration/international-space-station/iss-national-lab-explores-the-future-of-space-in-new-podcast-between-a-rocket-and-a-hard-space)
-- [Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts](https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/)
-- [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
