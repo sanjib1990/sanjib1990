@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpaceX&#39;s Fram2 astronaut flight over Earth&#39;s poles will be the 1st to grow mushrooms in space](https://www.space.com/space-exploration/missions/spacexs-fram2-astronaut-flight-over-earths-poles-will-be-first-to-grow-mushrooms-in-space)
 - [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/)
 - [‘Tesla Takedown’ protesters are planning a global day of action on March 29, and things might get ugly](https://techcrunch.com/2025/03/29/tesla-takedown-protesters-are-planning-a-global-day-of-action-on-march-29-and-things-might-get-ugly/)
 - [Amazon shakes up streaming leadership team](https://techcrunch.com/2025/03/29/amazon-shakes-up-streaming-leadership-team/)
 - [Elon Musk’s xAI buys X](https://techcrunch.com/2025/03/29/block-cuts-931-employees/)
-- [Elon Musk says xAI acquired X](https://techcrunch.com/2025/03/29/elon-musk-says-xai-acquired-x/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
