@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts](https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/)
+- [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/)
 - [Earth&#39;s sea ice hits all-time low, NASA satellites reveal](https://www.space.com/the-universe/climate-change/earths-sea-ice-hits-all-time-low-nasa-satellites-reveal)
 - [European Space Agency launches competition to find its next commercial rocket by 2028](https://www.space.com/space-exploration/launches-spacecraft/european-space-agency-launches-competition-to-find-its-next-commercial-rocket-by-2028)
 - [1st-ever orbital rocket launch from European soil falls to Earth and explodes seconds into flight](https://www.space.com/space-exploration/launches-spacecraft/1st-ever-orbital-rocket-launch-from-european-soil-falls-to-earth-and-explodes-seconds-into-flight)
-- [SpaceX&#39;s Fram2 astronaut flight over Earth&#39;s poles will be the 1st to grow mushrooms in space](https://www.space.com/space-exploration/missions/spacexs-fram2-astronaut-flight-over-earths-poles-will-be-first-to-grow-mushrooms-in-space)
-- [Sam Altman firing drama detailed in new book excerpt](https://techcrunch.com/2025/03/29/sam-altman-firing-drama-detailed-in-new-book-excerpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
