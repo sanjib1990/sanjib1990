@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Bluesky: These are the apps building social experiences on the AT Protocol](https://techcrunch.com/2025/03/30/beyond-bluesky-these-are-the-apps-building-social-experiences-on-the-at-protocol/)
+- [ISS National Lab explores the future of space in new podcast &#39;Between a Rocket and a Hard Space&#39;](https://www.space.com/space-exploration/international-space-station/iss-national-lab-explores-the-future-of-space-in-new-podcast-between-a-rocket-and-a-hard-space)
 - [Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts](https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/)
 - [Just 2 days to secure your founder or investor pass with $300+ off for TechCrunch All Stage](https://techcrunch.com/2025/03/30/just-2-days-to-secure-your-founder-or-investor-pass-with-300-off-for-techcrunch-all-stage/)
 - [Earth&#39;s sea ice hits all-time low, NASA satellites reveal](https://www.space.com/the-universe/climate-change/earths-sea-ice-hits-all-time-low-nasa-satellites-reveal)
-- [European Space Agency launches competition to find its next commercial rocket by 2028](https://www.space.com/space-exploration/launches-spacecraft/european-space-agency-launches-competition-to-find-its-next-commercial-rocket-by-2028)
-- [1st-ever orbital rocket launch from European soil falls to Earth and explodes seconds into flight](https://www.space.com/space-exploration/launches-spacecraft/1st-ever-orbital-rocket-launch-from-european-soil-falls-to-earth-and-explodes-seconds-into-flight)
 <!-- BLOG-POST-LIST:END -->
 
 ---
