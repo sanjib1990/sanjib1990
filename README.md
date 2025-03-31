@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI raises $40B at $300B post-money valuation](https://techcrunch.com/2025/03/31/openai-raises-40b-at-300b-post-money-valuation/)
+- [ChatGPT’s new image generator is really good at faking receipts](https://techcrunch.com/2025/03/31/chatgpts-new-image-generator-is-really-good-at-faking-receipts/)
 - [FAA closes investigation into SpaceX Starship Flight 7 explosion](https://www.space.com/space-exploration/launches-spacecraft/faa-closes-investigation-into-spacex-starship-flight-7-explosion)
 - [Alphabet’s AI drug discovery platform Isomorphic Labs raises $600M from Thrive](https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/)
 - [SpaceX launches 28 Starlink satellites to orbit on 1st half of spaceflight doubleheader &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-to-orbit-on-1st-half-of-spaceflight-doubleheader-photos)
-- [Hillary Clinton joins Bluesky](https://techcrunch.com/2025/03/31/hillary-clinton-joins-bluesky/)
-- [NASA launches rockets into auroras, creating breathtaking lights in Alaskan skies &lpar;photos&rpar;](https://www.space.com/stargazing/aurora-borealis/nasa-launches-rockets-into-auroras-creating-breathtaking-lights-in-alaskan-skies-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
