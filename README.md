@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceX Fram2 1st polar astronaut mission:  Live updates](https://www.space.com/space-exploration/live/fram2-spacex-mission-updates)
-- [NASA practices recovering its next moon astronauts: Space photo of the day](https://www.space.com/space-exploration/artemis/nasa-practices-recovering-its-next-moon-astronauts-space-photo-of-the-day)
-- [NASA officially adds SpaceX&#39;s giant Starship megarocket to its launch roster](https://www.space.com/space-exploration/launches-spacecraft/nasa-adds-spacex-starship-largest-rocket-on-earth-to-launch-roster)
-- [Apple rolls out Priority Notifications as Apple Intelligence expands to EU](https://techcrunch.com/2025/03/31/apple-rolls-out-priority-notifications-as-apple-intelligence-expands-to-eu/)
-- [Apple brings Apple Intelligence to the Vision Pro](https://techcrunch.com/2025/03/31/apple-brings-apple-intelligence-to-the-vision-pro/)
+- [What it was like to experience the sunrise solar eclipse in New Brunswick](https://www.space.com/stargazing/eclipses/what-it-was-like-to-experience-the-sunrise-solar-eclipse-in-new-brunswick)
+- [Some Alexa+ features reportedly won’t arrive for months](https://techcrunch.com/2025/03/31/some-alexa-features-reportedly-wont-arrive-for-months/)
+- [Spark, Mayfield, and Kleiner Perkins pour another $75M into AI data center chipmaker Retym](https://techcrunch.com/2025/03/31/spark-mayfield-and-kleiner-perkins-pour-another-75m-into-ai-data-center-chipmaker-retym/)
+- [SpaceX Fram2 1st polar astronaut mission:  Live updates](https://www.space.com/news/live/fram2-spacex-mission-updates)
+- [Oracle under fire for its handling of separate security incidents](https://techcrunch.com/2025/03/31/oracle-under-fire-for-its-handling-of-separate-security-incidents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
