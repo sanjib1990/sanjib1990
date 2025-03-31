@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hillary Clinton joins Bluesky](https://techcrunch.com/2025/03/31/hillary-clinton-joins-bluesky/)
+- [NASA launches rockets into auroras, creating breathtaking lights in Alaskan skies &lpar;photos&rpar;](https://www.space.com/stargazing/aurora-borealis/nasa-launches-rockets-into-auroras-creating-breathtaking-lights-in-alaskan-skies-photos)
+- [OpenAI plans to release a new ‘open’ AI language model in the coming months](https://techcrunch.com/2025/03/31/openai-plans-to-release-a-new-open-language-model-in-the-coming-months/)
 - [What it was like to experience the sunrise solar eclipse in New Brunswick](https://www.space.com/stargazing/eclipses/what-it-was-like-to-experience-the-sunrise-solar-eclipse-in-new-brunswick)
 - [Some Alexa+ features reportedly won’t arrive for months](https://techcrunch.com/2025/03/31/some-alexa-features-reportedly-wont-arrive-for-months/)
-- [Spark, Mayfield, and Kleiner Perkins pour another $75M into AI data center chipmaker Retym](https://techcrunch.com/2025/03/31/spark-mayfield-and-kleiner-perkins-pour-another-75m-into-ai-data-center-chipmaker-retym/)
-- [SpaceX Fram2 1st polar astronaut mission:  Live updates](https://www.space.com/news/live/fram2-spacex-mission-updates)
-- [Oracle under fire for its handling of separate security incidents](https://techcrunch.com/2025/03/31/oracle-under-fire-for-its-handling-of-separate-security-incidents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
