@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/03/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [US Space Force wants a new &#39;orbital carrier&#39; to be a spacecraft launch pad in space](https://www.space.com/us-space-force-orbital-carrier-spacecraft-launch-pad-in-space)
-- [Streaming service Plex rolls out a revamped mobile app](https://techcrunch.com/2025/03/31/streaming-service-plex-rolls-out-a-revamped-mobile-app/)
-- [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/)
-- [This sulfur-based space molecule could tell us about the emergence of life on Earth](https://www.space.com/the-universe/earth/this-sulfur-based-space-molecule-could-tell-us-about-the-emergence-of-life-on-earth)
+- [Substack is rolling out a TikTok-like video feed in its app](https://techcrunch.com/2025/03/31/substack-is-rolling-out-a-tiktok-like-video-feed-in-its-app/)
+- [Mission Control &#39;members only&#39;: NASA flight directors don new jacket](https://www.space.com/space-exploration/human-spaceflight/mission-control-members-only-nasa-flight-directors-don-new-jacket)
+- [Hubble Telescope captures gorgeous new view of Milky Way&#39;s star-packed galactic neighbor &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-captures-gorgeous-new-view-of-milky-ways-star-packed-galactic-neighbor-photo)
+- [EV truck maker Harbinger accuses Canoo of hiding assets in bankruptcy sale](https://techcrunch.com/2025/03/31/ev-truck-maker-harbinger-accuses-canoo-of-hiding-assets-in-bankruptcy-sale/)
+- [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
