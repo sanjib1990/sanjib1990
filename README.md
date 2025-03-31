@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/03/31/chatgpt-everything-to-know-about-the-ai-chatbot/)
+- [US Space Force wants a new &#39;orbital carrier&#39; to be a spacecraft launch pad in space](https://www.space.com/us-space-force-orbital-carrier-spacecraft-launch-pad-in-space)
+- [Streaming service Plex rolls out a revamped mobile app](https://techcrunch.com/2025/03/31/streaming-service-plex-rolls-out-a-revamped-mobile-app/)
 - [Less than 24 hours to save $300+ on founder and investor passes for TechCrunch All Stage](https://techcrunch.com/2025/03/31/less-than-24-hours-to-save-300-on-founder-and-investor-passes-for-techcrunch-all-stage/)
 - [This sulfur-based space molecule could tell us about the emergence of life on Earth](https://www.space.com/the-universe/earth/this-sulfur-based-space-molecule-could-tell-us-about-the-emergence-of-life-on-earth)
-- [Manus launches paid subscription plans and a mobile app](https://techcrunch.com/2025/03/31/manus-launches-paid-subscription-plans-and-a-mobile-app/)
-- [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/)
-- [Amazon unveils Nova Act, an AI agent that can control a web browser](https://techcrunch.com/2025/03/31/amazon-unveils-nova-act-an-ai-agent-that-uses-a-web-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
