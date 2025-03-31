@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Session 2: Hypotheticals](https://www.youtube.com/watch?v=3VQ8oSasaRQ)
+- [Session 4: Do You Really See Yourself as a Facilitative Leader?](https://www.youtube.com/watch?v=cZW2A2z7zcI)
+- [Session 1: Concepts and Theories of Facilitative Leadership in the Public Sector](https://www.youtube.com/watch?v=idZoHI9dLsk)
+- [Session 3: Microskills for Facilitative Leaders](https://www.youtube.com/watch?v=9IaCINjMWrI)
 - [I gave Claude root access to my server... Model Context Protocol explained](https://www.youtube.com/watch?v=HyzlYwjoXOQ)
-- [EVERYTHING NEW with ChatGPT 4o Image Generation](https://www.youtube.com/watch?v=on-AmAv_DtI)
-- [OpenAI’s new image generator hits different...](https://www.youtube.com/watch?v=Bt-7YiNBvLE)
-- [Facilitative Leadership in the Public Sector &lpar;Trailer&rpar;](https://www.youtube.com/watch?v=PtYI9lppyXc)
-- [21-year old dev destroys LeetCode, gets kicked out of school...](https://www.youtube.com/watch?v=AwZ8PtoqCeU)
 <!-- YOUTUBE:END -->
 
 ---
