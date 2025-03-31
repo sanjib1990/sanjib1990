@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAA closes investigation into SpaceX Starship Flight 7 explosion](https://www.space.com/space-exploration/launches-spacecraft/faa-closes-investigation-into-spacex-starship-flight-7-explosion)
+- [Alphabet’s AI drug discovery platform Isomorphic Labs raises $600M from Thrive](https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/)
+- [SpaceX launches 28 Starlink satellites to orbit on 1st half of spaceflight doubleheader &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-to-orbit-on-1st-half-of-spaceflight-doubleheader-photos)
 - [Hillary Clinton joins Bluesky](https://techcrunch.com/2025/03/31/hillary-clinton-joins-bluesky/)
 - [NASA launches rockets into auroras, creating breathtaking lights in Alaskan skies &lpar;photos&rpar;](https://www.space.com/stargazing/aurora-borealis/nasa-launches-rockets-into-auroras-creating-breathtaking-lights-in-alaskan-skies-photos)
-- [OpenAI plans to release a new ‘open’ AI language model in the coming months](https://techcrunch.com/2025/03/31/openai-plans-to-release-a-new-open-language-model-in-the-coming-months/)
-- [What it was like to experience the sunrise solar eclipse in New Brunswick](https://www.space.com/stargazing/eclipses/what-it-was-like-to-experience-the-sunrise-solar-eclipse-in-new-brunswick)
-- [Some Alexa+ features reportedly won’t arrive for months](https://techcrunch.com/2025/03/31/some-alexa-features-reportedly-wont-arrive-for-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
