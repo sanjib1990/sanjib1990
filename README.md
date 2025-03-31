@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cosmic rays may be the elusive spark for lightning here on Earth](https://www.space.com/the-universe/earth/cosmic-rays-may-be-the-elusive-spark-for-lightning-here-on-earth)
 - [This newly found super-Earth might have blown off its own atmosphere](https://www.space.com/the-universe/exoplanets/this-newly-found-super-earth-might-have-blown-off-its-own-atmosphere)
 - [“This isn’t ‘The Matrix&#39;”](https://techcrunch.com/2025/03/30/this-isnt-the-matrix/)
 - [Apple reportedly revamping Health app to add an AI coach](https://techcrunch.com/2025/03/30/apple-reportedly-revamping-health-app-to-add-an-ai-coach/)
 - [Perplexity CEO denies having financial issues, says no IPO before 2028](https://techcrunch.com/2025/03/30/perplexity-ceo-denies-having-financial-issues-says-no-ipo-before-2028/)
-- [China Miéville says we shouldn’t blame science fiction for its bad readers](https://techcrunch.com/2025/03/30/author-china-mieville-says-we-shouldnt-blame-science-fiction-for-its-bad-readers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
