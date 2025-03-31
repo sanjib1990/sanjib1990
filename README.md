@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Watch SpaceX launch historic Fram2 astronaut mission over Earth&#39;s poles tonight](https://www.space.com/space-exploration/missions/spacex-fram2-astronaut-mission-over-earths-poles-launch-webcast)
+- [Temporal lands $146 million at a flat valuation, eyes agentic AI expansion](https://techcrunch.com/2025/03/31/temporal-lands-146-million-at-a-flat-valuation-eyes-agentic-ai-expansion/)
+- [Amazon unveils Nova Act, an AI agent that can control a web browser](https://techcrunch.com/2025/03/31/amazon-unveils-nova-act-an-ai-agent-that-uses-a-web-browser/)
+- [SpaceX&#39;s private Fram2 launch over Earth&#39;s poles will send astronauts where no one has gone before](https://www.space.com/space-exploration/missions/spacexs-private-fram2-launch-over-earths-poles-will-send-astronauts-where-no-one-has-gone-before)
+- [Watch SpaceX launch historic Fram2 astronaut mission over Earth&#39;s poles tonight &lpar;video&rpar;](https://www.space.com/space-exploration/missions/spacex-fram2-astronaut-mission-over-earths-poles-launch-webcast)
 - [IPO-bound Chime hopes to boost growth by paying higher interest rates](https://techcrunch.com/2025/03/31/ipo-bound-chime-hopes-to-boost-growth-by-paying-higher-interest-rates/)
-- [Solar eclipse shines over Stonehenge in stunning photo from Astrophotographer Josh Dury](https://www.space.com/partial-solar-eclipse-march-2025-stonehenge-photos)
-- [Cosmic rays may be the elusive spark for lightning here on Earth](https://www.space.com/the-universe/earth/cosmic-rays-may-be-the-elusive-spark-for-lightning-here-on-earth)
-- [This newly found super-Earth might have blown off its own atmosphere](https://www.space.com/the-universe/exoplanets/this-newly-found-super-earth-might-have-blown-off-its-own-atmosphere)
 <!-- BLOG-POST-LIST:END -->
 
 ---
