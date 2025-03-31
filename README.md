@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [API testing firm APIsec exposed customer data during security lapse](https://techcrunch.com/2025/03/31/api-testing-firm-apisec-exposed-customer-data-during-security-lapse/)
+- [OpenAI disables video gen for certain Sora users as capacity challenges continue](https://techcrunch.com/2025/03/31/openai-disables-video-gen-for-certain-sora-users-as-capacity-challenges-continue/)
+- [Signal sees its downloads double after scandal](https://techcrunch.com/2025/03/31/signal-sees-its-downloads-double-after-scandal/)
 - [Substack is rolling out a TikTok-like video feed in its app](https://techcrunch.com/2025/03/31/substack-is-rolling-out-a-tiktok-like-video-feed-in-its-app/)
 - [Mission Control &#39;members only&#39;: NASA flight directors don new jacket](https://www.space.com/space-exploration/human-spaceflight/mission-control-members-only-nasa-flight-directors-don-new-jacket)
-- [Hubble Telescope captures gorgeous new view of Milky Way&#39;s star-packed galactic neighbor &lpar;photo&rpar;](https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-captures-gorgeous-new-view-of-milky-ways-star-packed-galactic-neighbor-photo)
-- [EV truck maker Harbinger accuses Canoo of hiding assets in bankruptcy sale](https://techcrunch.com/2025/03/31/ev-truck-maker-harbinger-accuses-canoo-of-hiding-assets-in-bankruptcy-sale/)
-- [Runway releases an impressive new video-generating AI model](https://techcrunch.com/2025/03/31/runway-releases-an-impressive-new-video-generating-ai-model/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
