@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch a private German rocket explode during 1st orbital launch attempt from European soil &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-a-private-german-rocket-explode-during-1st-orbital-launch-attempt-from-european-soil-video)
+- [Fashion startup CaaStle appears to be in trouble](https://techcrunch.com/2025/03/31/fashion-startup-caastle-appears-to-be-in-trouble/)
 - [OpenAI raises $40B at $300B post-money valuation](https://techcrunch.com/2025/03/31/openai-raises-40b-at-300b-post-money-valuation/)
 - [ChatGPT’s new image generator is really good at faking receipts](https://techcrunch.com/2025/03/31/chatgpts-new-image-generator-is-really-good-at-faking-receipts/)
 - [FAA closes investigation into SpaceX Starship Flight 7 explosion](https://www.space.com/space-exploration/launches-spacecraft/faa-closes-investigation-into-spacex-starship-flight-7-explosion)
-- [Alphabet’s AI drug discovery platform Isomorphic Labs raises $600M from Thrive](https://techcrunch.com/2025/03/31/alphabets-ai-drug-discovery-platform-isomorphic-labs-raises-600m-from-thrive/)
-- [SpaceX launches 28 Starlink satellites to orbit on 1st half of spaceflight doubleheader &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-to-orbit-on-1st-half-of-spaceflight-doubleheader-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
