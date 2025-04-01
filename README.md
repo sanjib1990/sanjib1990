@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT isn’t the only chatbot that’s gaining users](https://techcrunch.com/2025/04/01/chatgpt-isnt-the-only-chatbot-thats-gaining-users/)
+- [Scientists used JWST instruments &#39;wrong&#39; on purpose to capture direct images of exoplanets](https://www.space.com/space-exploration/james-webb-space-telescope/scientists-used-jwst-instruments-wrong-on-purpose-to-capture-direct-images-of-exoplanets)
+- [Lip-Bu Tan says Intel will spin off non-core units](https://techcrunch.com/2025/04/01/lip-bu-tan-says-intel-will-spin-off-non-core-units/)
 - [Ente wants to take on Google Photos with its privacy-first photo storage service](https://techcrunch.com/2025/04/01/ente-wants-to-take-on-google-photos-with-its-privacy-first-photo-storage-service/)
 - [Sun unleashes powerful M5.6 solar flare and Earth is in the firing line — are auroras incoming?](https://www.space.com/sun-erupts-solar-flare-earth-strike-zone-april-2025)
-- [2 decades of Hubble Space Telescope data track changing seasons on Uranus](https://www.space.com/space-exploration/hubble-space-telescope/2-decades-of-hubble-space-telescope-data-track-changing-seasons-on-uranus)
-- [OpenAI’s new image generator is now available to all users](https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/)
-- [SpaceX launches private Fram2 astronauts on historic spaceflight over Earth&#39;s poles](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-private-fram2-astronauts-on-historic-spaceflight-over-earths-poles)
 <!-- BLOG-POST-LIST:END -->
 
 ---
