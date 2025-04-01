@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet aces key &#39;cruise control&#39; test ahead of 1st flight](https://www.space.com/space-exploration/quesst/nasas-x-59-quiet-supersonic-jet-aces-key-cruise-control-test-ahead-of-1st-flight)
 - [ChatGPT isn’t the only chatbot that’s gaining users](https://techcrunch.com/2025/04/01/chatgpt-isnt-the-only-chatbot-thats-gaining-users/)
 - [Scientists used JWST instruments &#39;wrong&#39; on purpose to capture direct images of exoplanets](https://www.space.com/space-exploration/james-webb-space-telescope/scientists-used-jwst-instruments-wrong-on-purpose-to-capture-direct-images-of-exoplanets)
 - [Lip-Bu Tan says Intel will spin off non-core units](https://techcrunch.com/2025/04/01/lip-bu-tan-says-intel-will-spin-off-non-core-units/)
 - [Ente wants to take on Google Photos with its privacy-first photo storage service](https://techcrunch.com/2025/04/01/ente-wants-to-take-on-google-photos-with-its-privacy-first-photo-storage-service/)
-- [Sun unleashes powerful M5.6 solar flare and Earth is in the firing line — are auroras incoming?](https://www.space.com/sun-erupts-solar-flare-earth-strike-zone-april-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ---
