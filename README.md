@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok is shutting down its Instagram competitor TikTok Notes](https://techcrunch.com/2025/04/01/tiktok-is-shutting-down-its-instagram-competitor-tiktok-notes/)
-- [Cryptocurrency billionaire watches SpaceX rocket launch on the way to his own SpaceX rocket launch](https://www.space.com/space-exploration/launches-spacecraft/private-fram2-astronauts-watched-spacex-rocket-launch-ahead-of-their-own-launch)
-- [Genetic sharing site openSNP to shut down, citing concerns of data privacy and ‘rise in authoritarian governments’](https://techcrunch.com/2025/04/01/genetic-sharing-site-opensnp-to-shut-down-citing-concerns-of-data-privacy-and-rise-in-authoritarian-governments/)
-- [DARPA accidentally detects SpaceX Falcon 9 rocket reentry by listening to Earth&#39;s atmosphere](https://www.space.com/space-exploration/tech/darpa-accidentally-detects-spacex-falcon-9-rocket-reentry-by-listening-to-earths-atmosphere)
-- [Floating blue-eyed robot keeps watch on the ISS: Space photo of the day](https://www.space.com/space-exploration/international-space-station/floating-blue-eyed-robot-keeps-watch-on-the-iss-space-photo-of-the-day)
+- [Rare &#39;double sunrise&#39; captured in Canada by intrepid solar eclipse chasers &lpar;photos&rpar;](https://www.space.com/stargazing/eclipses/rare-double-sunrise-captured-in-canada-by-intrepid-solar-eclipse-chasers-photos)
+- [Zelle is shutting down its app, but you probably don’t need to worry](https://techcrunch.com/2025/04/01/zelle-is-shutting-down-its-app-but-you-probably-dont-need-to-worry/)
+- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/)
+- [Déjà vu: President Trump nominates Greg Autry again to be NASA&#39;s financial chief](https://www.space.com/space-exploration/deja-vu-president-trump-nominates-greg-autry-again-to-be-nasas-financial-chief)
+- [Meta’s head of AI research plans to leave the company](https://techcrunch.com/2025/04/01/metas-head-of-ai-research-plans-to-leave-the-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
