@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA&#39;s X-59 &#39;quiet&#39; supersonic jet aces key &#39;cruise control&#39; test ahead of 1st flight](https://www.space.com/space-exploration/quesst/nasas-x-59-quiet-supersonic-jet-aces-key-cruise-control-test-ahead-of-1st-flight)
-- [ChatGPT isn’t the only chatbot that’s gaining users](https://techcrunch.com/2025/04/01/chatgpt-isnt-the-only-chatbot-thats-gaining-users/)
-- [Scientists used JWST instruments &#39;wrong&#39; on purpose to capture direct images of exoplanets](https://www.space.com/space-exploration/james-webb-space-telescope/scientists-used-jwst-instruments-wrong-on-purpose-to-capture-direct-images-of-exoplanets)
-- [Lip-Bu Tan says Intel will spin off non-core units](https://techcrunch.com/2025/04/01/lip-bu-tan-says-intel-will-spin-off-non-core-units/)
-- [Ente wants to take on Google Photos with its privacy-first photo storage service](https://techcrunch.com/2025/04/01/ente-wants-to-take-on-google-photos-with-its-privacy-first-photo-storage-service/)
+- [Qualcomm acquires generative AI division of Vietnamese startup VinAI](https://techcrunch.com/2025/04/01/qualcomm-acquires-generative-ai-division-of-vietnamese-startup-vinai/)
+- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/)
+- [Million-mile-long solar whirlwind could help solve sun&#39;s greatest mysteries &lpar;video&rpar;](https://www.space.com/the-universe/sun/million-mile-long-solar-whirlwind-could-help-solve-suns-greatest-mysteries-video)
+- [The Beagle is a new long-range drone with more than one application](https://techcrunch.com/2025/04/01/the-beagle-is-a-new-long-range-drone-with-more-than-one-application/)
+- [Watch chilling 1st views of Earth&#39;s poles seen by SpaceX Fram2 astronauts &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/watch-chilling-1st-views-of-earths-poles-seen-by-spacex-fram2-astronauts-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
