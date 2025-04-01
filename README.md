@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone is trying to recruit security researchers in bizarre hacking campaign](https://techcrunch.com/2025/04/01/someone-is-trying-to-recruit-security-researchers-in-bizarre-hacking-campaign/)
+- [Sam Altman says that OpenAI’s capacity issues will cause product delays](https://techcrunch.com/2025/04/01/sam-altman-says-that-openais-capacity-issues-will-cause-product-delays/)
+- [Roblox partners with Google on ads](https://techcrunch.com/2025/04/01/roblox-partners-with-google-on-ads/)
+- [NaNoWriMo shut down after AI, content moderation scandals](https://techcrunch.com/2025/04/01/nanowrimo-shut-down-after-ai-content-moderation-scandals/)
 - [Qualcomm acquires generative AI division of Vietnamese startup VinAI](https://techcrunch.com/2025/04/01/qualcomm-acquires-generative-ai-division-of-vietnamese-startup-vinai/)
-- [Meet Ponte Labor, a startup matching Hispanic immigrants to jobs using WhatsApp](https://techcrunch.com/2025/04/01/meet-ponte-labor-a-startup-matching-hispanic-immigrants-to-jobs-using-whatsapp/)
-- [Million-mile-long solar whirlwind could help solve sun&#39;s greatest mysteries &lpar;video&rpar;](https://www.space.com/the-universe/sun/million-mile-long-solar-whirlwind-could-help-solve-suns-greatest-mysteries-video)
-- [The Beagle is a new long-range drone with more than one application](https://techcrunch.com/2025/04/01/the-beagle-is-a-new-long-range-drone-with-more-than-one-application/)
-- [Watch chilling 1st views of Earth&#39;s poles seen by SpaceX Fram2 astronauts &lpar;video&rpar;](https://www.space.com/space-exploration/human-spaceflight/watch-chilling-1st-views-of-earths-poles-seen-by-spacex-fram2-astronauts-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
