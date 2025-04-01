@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA&#39;s new SPHEREx space telescope takes its 1st cosmic images: &#39;The instrument team nailed it&#39;](https://www.space.com/space-exploration/launches-spacecraft/nasas-new-spherex-space-telescope-takes-its-1st-cosmic-images-the-instrument-team-nailed-it)
 - [Researchers suggest OpenAI trained AI models on paywalled O’Reilly books](https://techcrunch.com/2025/04/01/researchers-suggest-openai-trained-ai-models-on-paywalled-oreilly-books/)
 - [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/)
 - [Andreessen Horowitz is trying to nab a piece of TikTok with Oracle, report says](https://techcrunch.com/2025/04/01/andreessen-horowitz-is-trying-to-nab-a-piece-of-tiktok-with-oracle-report-says/)
 - [An accounting startup has turned tax preparations into a Pokémon Showdown game](https://techcrunch.com/2025/04/01/an-accounting-startup-has-turned-tax-preparations-into-a-pokemon-showdown-game/)
-- [New alien abduction film &#39;Watch the Skies&#39; is giving us Swedish Spielberg vibes &lpar;video&rpar;](https://www.space.com/entertainment/frightening-trailer-for-swedish-ufo-film-watch-the-skies-gives-us-major-spielberg-feels-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
