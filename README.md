@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2 decades of Hubble Space Telescope data track changing seasons on Uranus](https://www.space.com/space-exploration/hubble-space-telescope/2-decades-of-hubble-space-telescope-data-track-changing-seasons-on-uranus)
 - [OpenAI’s new image generator is now available to all users](https://techcrunch.com/2025/03/31/openais-new-image-generator-is-now-available-to-all-users/)
 - [SpaceX launches private Fram2 astronauts on historic spaceflight over Earth&#39;s poles](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-private-fram2-astronauts-on-historic-spaceflight-over-earths-poles)
 - [Construct Capital raises $300M fund for defense and manufacturing tech](https://techcrunch.com/2025/03/31/construct-capital-raises-300m-fund-for-defense-and-manufacturing-tech/)
 - [Watch a private German rocket explode during 1st orbital launch attempt from European soil &lpar;video&rpar;](https://www.space.com/space-exploration/launches-spacecraft/watch-a-private-german-rocket-explode-during-1st-orbital-launch-attempt-from-european-soil-video)
-- [Fashion startup CaaStle appears to be in trouble](https://techcrunch.com/2025/03/31/fashion-startup-caastle-appears-to-be-in-trouble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
