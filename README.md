@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone is trying to recruit security researchers in bizarre hacking campaign](https://techcrunch.com/2025/04/01/someone-is-trying-to-recruit-security-researchers-in-bizarre-hacking-campaign/)
-- [Sam Altman says that OpenAI’s capacity issues will cause product delays](https://techcrunch.com/2025/04/01/sam-altman-says-that-openais-capacity-issues-will-cause-product-delays/)
-- [Roblox partners with Google on ads](https://techcrunch.com/2025/04/01/roblox-partners-with-google-on-ads/)
-- [NaNoWriMo shut down after AI, content moderation scandals](https://techcrunch.com/2025/04/01/nanowrimo-shut-down-after-ai-content-moderation-scandals/)
-- [Qualcomm acquires generative AI division of Vietnamese startup VinAI](https://techcrunch.com/2025/04/01/qualcomm-acquires-generative-ai-division-of-vietnamese-startup-vinai/)
+- [TikTok is shutting down its Instagram competitor TikTok Notes](https://techcrunch.com/2025/04/01/tiktok-is-shutting-down-its-instagram-competitor-tiktok-notes/)
+- [Cryptocurrency billionaire watches SpaceX rocket launch on the way to his own SpaceX rocket launch](https://www.space.com/space-exploration/launches-spacecraft/private-fram2-astronauts-watched-spacex-rocket-launch-ahead-of-their-own-launch)
+- [Genetic sharing site openSNP to shut down, citing concerns of data privacy and ‘rise in authoritarian governments’](https://techcrunch.com/2025/04/01/genetic-sharing-site-opensnp-to-shut-down-citing-concerns-of-data-privacy-and-rise-in-authoritarian-governments/)
+- [DARPA accidentally detects SpaceX Falcon 9 rocket reentry by listening to Earth&#39;s atmosphere](https://www.space.com/space-exploration/tech/darpa-accidentally-detects-spacex-falcon-9-rocket-reentry-by-listening-to-earths-atmosphere)
+- [Floating blue-eyed robot keeps watch on the ISS: Space photo of the day](https://www.space.com/space-exploration/international-space-station/floating-blue-eyed-robot-keeps-watch-on-the-iss-space-photo-of-the-day)
 <!-- BLOG-POST-LIST:END -->
 
 ---
