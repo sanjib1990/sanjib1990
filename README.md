@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rare &#39;double sunrise&#39; captured in Canada by intrepid solar eclipse chasers &lpar;photos&rpar;](https://www.space.com/stargazing/eclipses/rare-double-sunrise-captured-in-canada-by-intrepid-solar-eclipse-chasers-photos)
-- [Zelle is shutting down its app, but you probably don’t need to worry](https://techcrunch.com/2025/04/01/zelle-is-shutting-down-its-app-but-you-probably-dont-need-to-worry/)
-- [Mark Cuban backs Skylight, a TikTok alternative built on Bluesky’s underlying technology](https://techcrunch.com/2025/04/01/mark-cuban-backs-skylight-a-tiktok-alternative-built-on-blueskys-underlying-technology/)
-- [Déjà vu: President Trump nominates Greg Autry again to be NASA&#39;s financial chief](https://www.space.com/space-exploration/deja-vu-president-trump-nominates-greg-autry-again-to-be-nasas-financial-chief)
-- [Meta’s head of AI research plans to leave the company](https://techcrunch.com/2025/04/01/metas-head-of-ai-research-plans-to-leave-the-company/)
+- [Researchers suggest OpenAI trained AI models on paywalled O’Reilly books](https://techcrunch.com/2025/04/01/researchers-suggest-openai-trained-ai-models-on-paywalled-oreilly-books/)
+- [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/)
+- [Andreessen Horowitz is trying to nab a piece of TikTok with Oracle, report says](https://techcrunch.com/2025/04/01/andreessen-horowitz-is-trying-to-nab-a-piece-of-tiktok-with-oracle-report-says/)
+- [An accounting startup has turned tax preparations into a Pokémon Showdown game](https://techcrunch.com/2025/04/01/an-accounting-startup-has-turned-tax-preparations-into-a-pokemon-showdown-game/)
+- [New alien abduction film &#39;Watch the Skies&#39; is giving us Swedish Spielberg vibes &lpar;video&rpar;](https://www.space.com/entertainment/frightening-trailer-for-swedish-ufo-film-watch-the-skies-gives-us-major-spielberg-feels-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
