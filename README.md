@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla records worst deliveries in two years amid Elon Musk backlash](https://techcrunch.com/2025/04/02/tesla-records-worst-deliveries-in-two-years-amid-elon-musk-backlash/)
-- [Rivian starts a challenging year with a big slip in deliveries](https://techcrunch.com/2025/04/02/rivian-starts-a-challenging-year-with-a-big-slip-in-deliveries/)
-- [Drone pilot who flew over Vandenberg Space Force Base sentenced to 4 months in jail](https://www.space.com/space-exploration/launches-spacecraft/drone-pilot-who-flew-over-vandenberg-space-force-base-sentenced-to-4-months-in-jail)
-- [Fourier is making hydrogen electrolyzers inspired by data centers](https://techcrunch.com/2025/04/02/fourier-is-making-hydrogen-electrolyzers-inspired-by-data-centers/)
-- [Plush polar bear with penguin art floats as Fram2 zero-g indicator in polar orbit](https://www.space.com/space-exploration/private-spaceflight/plush-polar-bear-with-penguin-art-floats-as-fram2-zero-g-indicator-in-polar-orbit)
+- [Actively AI raises $22.5M to offer sales ‘superintelligence,’ says AI SDRs failed](https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/)
+- [Parasail says its fleet of on-demand GPUs is larger than Oracle’s entire cloud](https://techcrunch.com/2025/04/02/parasail-says-its-fleet-of-on-demand-gpus-is-larger-than-oracles-entire-cloud/)
+- [Incredible photo shows supermassive black hole blowing a jet of matter into interstellar space](https://www.space.com/the-universe/galaxies/incredible-photo-shows-supermassive-black-hole-blowing-a-jet-of-matter-into-interstellar-space)
+- [Patreon signs podcast partnerships with Sony and Wondery](https://techcrunch.com/2025/04/02/patreon-signs-podcast-partnerships-with-sony-and-wondery/)
+- [Roblox enables parents to block experiences and friends](https://techcrunch.com/2025/04/02/roblox-enables-parents-to-block-experiences-and-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
