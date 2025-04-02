@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ESA&#39;s new documentary paints worrying picture of Earth&#39;s orbital junk problem](https://www.space.com/the-universe/earth/esas-new-documentary-paints-worrying-picture-of-earths-orbital-junk-problem)
+- [Epic Games acquires Loci to introduce automated 3D tagging](https://techcrunch.com/2025/04/02/epic-games-introduces-automated-3d-tagging-to-help-detect-ip-violations-in-fortnite/)
+- [Amazon reportedly submits last-minute bid to acquire TikTok](https://techcrunch.com/2025/04/02/amazon-reportedly-submits-last-minute-bid-to-acquire-tiktok/)
+- [Redwood Materials preps for expansion spree with new R&amp;D center in San Francisco](https://techcrunch.com/2025/04/02/redwood-materials-preps-for-expansion-spree-with-new-rd-center-in-san-francisco/)
 - [US Space Force picks Rocket Lab and Stoke Space to compete for national security launches](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-picks-rocket-lab-and-stoke-space-to-compete-for-national-security-launches)
-- [DeepMind’s 145-page paper on AGI safety may not convince skeptics](https://techcrunch.com/2025/04/02/deepminds-145-page-paper-on-agi-safety-may-not-convince-skeptics/)
-- [A new security fund opens up to help protect the fediverse](https://techcrunch.com/2025/04/02/a-new-security-fund-opens-up-to-help-protect-the-fediverse/)
-- [NASA’s Webb Finds Asteroid 2024 YR4 Is Building-Sized](https://blogs.nasa.gov/webb/2025/04/02/nasas-webb-finds-asteroid-2024-yr4-is-building-sized/)
-- [Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’](https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
