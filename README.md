@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Remember that asteroid everyone was worried about 2 months ago? The JWST just got a clear view of it](https://www.space.com/space-exploration/james-webb-space-telescope/remember-that-asteroid-everyone-was-worried-about-2-months-ago-the-jwst-just-got-a-clear-view-of-it)
-- [WordPress maker Automattic lays off 16% of staff](https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff/)
-- [Europe&#39;s life-hunting ExoMars rover gets new landing platform to replace canceled Russian craft](https://www.space.com/space-exploration/mars-rovers/europes-life-hunting-exomars-rover-gets-new-landing-platform-to-replace-canceled-russian-craft)
-- [Familiar faces return in &#39;Star Wars: Tales of the Underworld&#39;, which hits Disney+ on May the 4th &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/familiar-faces-return-in-star-wars-tales-of-the-underworld-which-hits-disney-on-may-the-4th-video)
-- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/04/02/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
+- [Epic Games CEO calls Apple and Google ‘gangster-style’ businesses in need of competition](https://techcrunch.com/2025/04/02/epic-games-ceo-calls-apple-and-google-gangster-style-businesses-in-need-of-competition/)
+- [25 years on, Vin Diesel&#39;s &#39;Pitch Black&#39; still outshines every other Riddick film — and we think we know why](https://www.space.com/entertainment/space-movies-shows/25-years-on-vin-diesels-pitch-black-still-outshines-every-other-riddick-film-and-we-think-we-know-why)
+- [You might be following Second Lady Usha Vance on Instagram now](https://techcrunch.com/2025/04/02/you-might-be-following-second-lady-usha-vance-on-instagram-now/)
+- [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/)
+- [OpenAI seeks to convene group to advise its nonprofit goals](https://techcrunch.com/2025/04/02/openai-seeks-to-convene-group-to-advise-its-nonprofit-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
