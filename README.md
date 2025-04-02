@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remember that asteroid everyone was worried about 2 months ago? The JWST just got a clear view of it](https://www.space.com/space-exploration/james-webb-space-telescope/remember-that-asteroid-everyone-was-worried-about-2-months-ago-the-jwst-just-got-a-clear-view-of-it)
+- [WordPress maker Automattic lays off 16% of staff](https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff/)
 - [Europe&#39;s life-hunting ExoMars rover gets new landing platform to replace canceled Russian craft](https://www.space.com/space-exploration/mars-rovers/europes-life-hunting-exomars-rover-gets-new-landing-platform-to-replace-canceled-russian-craft)
 - [Familiar faces return in &#39;Star Wars: Tales of the Underworld&#39;, which hits Disney+ on May the 4th &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/familiar-faces-return-in-star-wars-tales-of-the-underworld-which-hits-disney-on-may-the-4th-video)
 - [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/04/02/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
-- [SpaceX Fram2 astronauts see &#39;pure white&#39; Antarctica from polar orbit: Space photo of the day](https://www.space.com/space-exploration/private-spaceflight/spacex-fram2-astronauts-see-pure-white-antarctica-from-polar-orbit-space-photo-of-the-day)
-- [ESA&#39;s new documentary paints worrying picture of Earth&#39;s orbital junk problem](https://www.space.com/the-universe/earth/esas-new-documentary-paints-worrying-picture-of-earths-orbital-junk-problem)
 <!-- BLOG-POST-LIST:END -->
 
 ---
