@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [US Space Force picks Rocket Lab and Stoke Space to compete for national security launches](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-picks-rocket-lab-and-stoke-space-to-compete-for-national-security-launches)
+- [DeepMind’s 145-page paper on AGI safety may not convince skeptics](https://techcrunch.com/2025/04/02/deepminds-145-page-paper-on-agi-safety-may-not-convince-skeptics/)
+- [A new security fund opens up to help protect the fediverse](https://techcrunch.com/2025/04/02/a-new-security-fund-opens-up-to-help-protect-the-fediverse/)
 - [NASA’s Webb Finds Asteroid 2024 YR4 Is Building-Sized](https://blogs.nasa.gov/webb/2025/04/02/nasas-webb-finds-asteroid-2024-yr4-is-building-sized/)
 - [Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’](https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/)
-- [Anthropic launches an AI chatbot plan for colleges and universities](https://techcrunch.com/2025/04/02/anthropic-launches-an-ai-chatbot-tier-for-colleges-and-universities/)
-- [Space miso is nuttier than Earth miso — but it&#39;s still miso](https://www.space.com/space-exploration/space-miso-is-nuttier-than-earth-miso-but-its-still-miso)
-- [You can still get 73% Starz for three months and watch some Marvel content following the Avengers: Doomsday cast announcement](https://www.space.com/entertainment/73-percent-off-some-marvel-movies-three-months-of-starz-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
