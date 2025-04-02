@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla records worst deliveries in two years amid Elon Musk backlash](https://techcrunch.com/2025/04/02/tesla-records-worst-deliveries-in-two-years-amid-elon-musk-backlash/)
+- [Rivian starts a challenging year with a big slip in deliveries](https://techcrunch.com/2025/04/02/rivian-starts-a-challenging-year-with-a-big-slip-in-deliveries/)
+- [Drone pilot who flew over Vandenberg Space Force Base sentenced to 4 months in jail](https://www.space.com/space-exploration/launches-spacecraft/drone-pilot-who-flew-over-vandenberg-space-force-base-sentenced-to-4-months-in-jail)
 - [Fourier is making hydrogen electrolyzers inspired by data centers](https://techcrunch.com/2025/04/02/fourier-is-making-hydrogen-electrolyzers-inspired-by-data-centers/)
 - [Plush polar bear with penguin art floats as Fram2 zero-g indicator in polar orbit](https://www.space.com/space-exploration/private-spaceflight/plush-polar-bear-with-penguin-art-floats-as-fram2-zero-g-indicator-in-polar-orbit)
-- [Northern Lights in Mexico? Low-latitudes may be more vulnerable than expected to geomagnetic storms](https://www.space.com/stargazing/aurora-borealis/northern-lights-in-mexico-low-latitudes-may-be-more-vulnerable-than-expected-to-geomagnetic-storms)
-- [NASA&#39;s new SPHEREx space telescope takes its 1st cosmic images: &#39;The instrument team nailed it&#39;](https://www.space.com/space-exploration/launches-spacecraft/nasas-new-spherex-space-telescope-takes-its-1st-cosmic-images-the-instrument-team-nailed-it)
-- [Researchers suggest OpenAI trained AI models on paywalled O’Reilly books](https://techcrunch.com/2025/04/01/researchers-suggest-openai-trained-ai-models-on-paywalled-oreilly-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
