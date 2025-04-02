@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Europe&#39;s life-hunting ExoMars rover gets new landing platform to replace canceled Russian craft](https://www.space.com/space-exploration/mars-rovers/europes-life-hunting-exomars-rover-gets-new-landing-platform-to-replace-canceled-russian-craft)
+- [Familiar faces return in &#39;Star Wars: Tales of the Underworld&#39;, which hits Disney+ on May the 4th &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/familiar-faces-return-in-star-wars-tales-of-the-underworld-which-hits-disney-on-may-the-4th-video)
+- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/04/02/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
+- [SpaceX Fram2 astronauts see &#39;pure white&#39; Antarctica from polar orbit: Space photo of the day](https://www.space.com/space-exploration/private-spaceflight/spacex-fram2-astronauts-see-pure-white-antarctica-from-polar-orbit-space-photo-of-the-day)
 - [ESA&#39;s new documentary paints worrying picture of Earth&#39;s orbital junk problem](https://www.space.com/the-universe/earth/esas-new-documentary-paints-worrying-picture-of-earths-orbital-junk-problem)
-- [Epic Games acquires Loci to introduce automated 3D tagging](https://techcrunch.com/2025/04/02/epic-games-introduces-automated-3d-tagging-to-help-detect-ip-violations-in-fortnite/)
-- [Amazon reportedly submits last-minute bid to acquire TikTok](https://techcrunch.com/2025/04/02/amazon-reportedly-submits-last-minute-bid-to-acquire-tiktok/)
-- [Redwood Materials preps for expansion spree with new R&amp;D center in San Francisco](https://techcrunch.com/2025/04/02/redwood-materials-preps-for-expansion-spree-with-new-rd-center-in-san-francisco/)
-- [US Space Force picks Rocket Lab and Stoke Space to compete for national security launches](https://www.space.com/space-exploration/launches-spacecraft/us-space-force-picks-rocket-lab-and-stoke-space-to-compete-for-national-security-launches)
 <!-- BLOG-POST-LIST:END -->
 
 ---
