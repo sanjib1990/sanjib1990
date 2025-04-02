@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Actively AI raises $22.5M to offer sales ‘superintelligence,’ says AI SDRs failed](https://techcrunch.com/2025/04/02/actively-ai-raises-22-5m-to-offer-sales-superintelligence-says-ai-sdrs-failed/)
-- [Parasail says its fleet of on-demand GPUs is larger than Oracle’s entire cloud](https://techcrunch.com/2025/04/02/parasail-says-its-fleet-of-on-demand-gpus-is-larger-than-oracles-entire-cloud/)
-- [Incredible photo shows supermassive black hole blowing a jet of matter into interstellar space](https://www.space.com/the-universe/galaxies/incredible-photo-shows-supermassive-black-hole-blowing-a-jet-of-matter-into-interstellar-space)
-- [Patreon signs podcast partnerships with Sony and Wondery](https://techcrunch.com/2025/04/02/patreon-signs-podcast-partnerships-with-sony-and-wondery/)
-- [Roblox enables parents to block experiences and friends](https://techcrunch.com/2025/04/02/roblox-enables-parents-to-block-experiences-and-friends/)
+- [NASA’s Webb Finds Asteroid 2024 YR4 Is Building-Sized](https://blogs.nasa.gov/webb/2025/04/02/nasas-webb-finds-asteroid-2024-yr4-is-building-sized/)
+- [Khosla’s Keith Rabois leads $11.5M Series A for startup Roam, calls it ‘the future of the housing market’](https://techcrunch.com/2025/04/02/khoslas-keith-rabois-leads-11-5m-series-a-for-startup-roam-calls-it-the-future-of-the-housing-market/)
+- [Anthropic launches an AI chatbot plan for colleges and universities](https://techcrunch.com/2025/04/02/anthropic-launches-an-ai-chatbot-tier-for-colleges-and-universities/)
+- [Space miso is nuttier than Earth miso — but it&#39;s still miso](https://www.space.com/space-exploration/space-miso-is-nuttier-than-earth-miso-but-its-still-miso)
+- [You can still get 73% Starz for three months and watch some Marvel content following the Avengers: Doomsday cast announcement](https://www.space.com/entertainment/73-percent-off-some-marvel-movies-three-months-of-starz-deal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
