@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fourier is making hydrogen electrolyzers inspired by data centers](https://techcrunch.com/2025/04/02/fourier-is-making-hydrogen-electrolyzers-inspired-by-data-centers/)
 - [Plush polar bear with penguin art floats as Fram2 zero-g indicator in polar orbit](https://www.space.com/space-exploration/private-spaceflight/plush-polar-bear-with-penguin-art-floats-as-fram2-zero-g-indicator-in-polar-orbit)
 - [Northern Lights in Mexico? Low-latitudes may be more vulnerable than expected to geomagnetic storms](https://www.space.com/stargazing/aurora-borealis/northern-lights-in-mexico-low-latitudes-may-be-more-vulnerable-than-expected-to-geomagnetic-storms)
 - [NASA&#39;s new SPHEREx space telescope takes its 1st cosmic images: &#39;The instrument team nailed it&#39;](https://www.space.com/space-exploration/launches-spacecraft/nasas-new-spherex-space-telescope-takes-its-1st-cosmic-images-the-instrument-team-nailed-it)
 - [Researchers suggest OpenAI trained AI models on paywalled O’Reilly books](https://techcrunch.com/2025/04/01/researchers-suggest-openai-trained-ai-models-on-paywalled-oreilly-books/)
-- [CaaStle board confirms financial distress, furloughing employees](https://techcrunch.com/2025/04/01/fashion-startup-caastle-appears-to-be-in-trouble/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
