@@ -82,11 +82,11 @@
 ### 📺 Latest Interesting YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ai Will Try to Cheat &amp; Escape &lpar;aka Rob Miles was Right!&rpar; - Computerphile](https://www.youtube.com/watch?v=AqJnK9Dh-eQ)
-- [Session 2: Hypotheticals](https://www.youtube.com/watch?v=3VQ8oSasaRQ)
-- [Session 4: Do You Really See Yourself as a Facilitative Leader?](https://www.youtube.com/watch?v=cZW2A2z7zcI)
-- [Session 1: Concepts and Theories of Facilitative Leadership in the Public Sector](https://www.youtube.com/watch?v=idZoHI9dLsk)
-- [Session 3: Microskills for Facilitative Leaders](https://www.youtube.com/watch?v=9IaCINjMWrI)
+- [Lec 16: Input Markets II—Labor and Capital](https://www.youtube.com/watch?v=Zl92WCm30bU)
+- [Lec 3: Budget Constraints and Constrained Choice](https://www.youtube.com/watch?v=c8K_FSLtceQ)
+- [Lec 4: Demand Curves and Income/Substitution Effects](https://www.youtube.com/watch?v=Qj1HvrSKLqY)
+- [Lec 7: Competition I](https://www.youtube.com/watch?v=IYwk6EwPmCg)
+- [Lec 23: Government Redistribution and Taxation](https://www.youtube.com/watch?v=DB7dSaro4cE)
 <!-- YOUTUBE:END -->
 
 ---
