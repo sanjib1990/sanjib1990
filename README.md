@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Epic Games CEO calls Apple and Google ‘gangster-style’ businesses in need of competition](https://techcrunch.com/2025/04/02/epic-games-ceo-calls-apple-and-google-gangster-style-businesses-in-need-of-competition/)
-- [25 years on, Vin Diesel&#39;s &#39;Pitch Black&#39; still outshines every other Riddick film — and we think we know why](https://www.space.com/entertainment/space-movies-shows/25-years-on-vin-diesels-pitch-black-still-outshines-every-other-riddick-film-and-we-think-we-know-why)
-- [You might be following Second Lady Usha Vance on Instagram now](https://techcrunch.com/2025/04/02/you-might-be-following-second-lady-usha-vance-on-instagram-now/)
-- [The affidavit of a Rippling employee caught spying for Deel reads like a movie](https://techcrunch.com/2025/04/02/the-affidavit-of-a-rippling-employee-caught-spying-for-deel-reads-like-a-movie/)
-- [OpenAI seeks to convene group to advise its nonprofit goals](https://techcrunch.com/2025/04/02/openai-seeks-to-convene-group-to-advise-its-nonprofit-goals/)
+- [Space solar startup Aetherflux raises $50M to launch first space demo in 2026](https://techcrunch.com/2025/04/02/space-solar-startup-aetherflux-raises-50m-to-launch-first-space-demo-in-2026/)
+- [Stablecoin issuer Circle takes another stab at a public listing](https://techcrunch.com/2025/04/02/stablecoin-issuer-circle-takes-another-stab-at-a-public-listing/)
+- [Atlas V rocket will launch Amazon&#39;s 1st big batch of Project Kuiper internet satellites on April 9](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-will-launch-amazons-1st-big-batch-of-project-kuiper-internet-satellites-on-april-9)
+- [&#39;Red Planet,&#39; &#39;Top Gun&#39;  and &#39;Batman: Forever&#39; star Val Kilmer dies at 65](https://www.space.com/entertainment/red-planet-top-gun-and-batman-forever-star-val-kilmer-dies-at-65)
+- [OpenAI’s o3 model might be costlier to run than originally estimated](https://techcrunch.com/2025/04/02/openais-o3-model-might-be-costlier-to-run-than-originally-estimated/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
