@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-300m/)
+- [The Nintendo Switch 2, hands-on: It’s pretty good!](https://techcrunch.com/2025/04/03/the-nintendo-switch-2-hands-on-its-pretty-good/)
+- [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/)
+- [Powerful solar winds squish Jupiter&#39;s magnetic field &#39;like a giant squash ball&#39;](https://www.space.com/the-universe/jupiter/surprise-jupiters-powerful-magnetic-field-gets-squished-by-the-solar-wind)
 - [Fuse raises $6.6M to fix a payment problem for companies expanding to MENA](https://techcrunch.com/2025/04/03/ex-bvnk-founder-launches-fuse-raises-6-6m-to-power-cross-border-payments-in-mena/)
-- [NASA proves its electric moon dust shield works on the lunar surface](https://www.space.com/the-universe/moon/nasa-proves-its-electric-moon-dust-shield-works-on-the-lunar-surface)
-- [Truecaller now has over 450M monthly active users](https://techcrunch.com/2025/04/03/truecaller-now-has-over-450m-monthly-active-users/)
-- [Fintech Plaid raises $575M at a $6.1B valuation, says it will not go public in 2025](https://techcrunch.com/2025/04/03/fintech-plaid-raises-575m-at-6-1b-valuation-says-it-will-not-go-public-in-2025/)
-- [What&#39;s the difference between a young exoplanet and an old one?](https://www.space.com/the-universe/exoplanets/whats-the-difference-between-a-young-exoplanet-and-an-old-one)
 <!-- BLOG-POST-LIST:END -->
 
 ---
