@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Y Combinator neobank Djamo raises $17M with 1M users across Francophone Africa](https://techcrunch.com/2025/04/03/djamo-raises-17m-and-has-1m-users-across-francophone-africa/)
+- [Secretive Russian military satellites release mystery object into orbit](https://www.space.com/space-exploration/satellites/secretive-russian-military-satellites-release-mystery-object-into-orbit)
 - [&#39;Star Trek: Strange New Worlds&#39; Season 3 teaser trailer promises more gimmicky hijinks in the final frontier &lpar;video&rpar;](https://www.space.com/entertainment/star-trek-strange-new-worlds-season-3-teaser-trailer-promises-more-gimmicky-hijinks-in-the-final-frontier-video)
 - [Space solar startup Aetherflux raises $50M to launch first space demo in 2026](https://techcrunch.com/2025/04/02/space-solar-startup-aetherflux-raises-50m-to-launch-first-space-demo-in-2026/)
 - [Stablecoin issuer Circle takes another stab at a public listing](https://techcrunch.com/2025/04/02/stablecoin-issuer-circle-takes-another-stab-at-a-public-listing/)
-- [Atlas V rocket will launch Amazon&#39;s 1st big batch of Project Kuiper internet satellites on April 9](https://www.space.com/space-exploration/launches-spacecraft/atlas-v-rocket-will-launch-amazons-1st-big-batch-of-project-kuiper-internet-satellites-on-april-9)
-- [&#39;Red Planet,&#39; &#39;Top Gun&#39;  and &#39;Batman Forever&#39; star Val Kilmer dies at 65](https://www.space.com/entertainment/red-planet-top-gun-and-batman-forever-star-val-kilmer-dies-at-65)
 <!-- BLOG-POST-LIST:END -->
 
 ---
