@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fuse raises $6.6M to fix a payment problem for companies expanding to MENA](https://techcrunch.com/2025/04/03/ex-bvnk-founder-launches-fuse-raises-6-6m-to-power-cross-border-payments-in-mena/)
+- [NASA proves its electric moon dust shield works on the lunar surface](https://www.space.com/the-universe/moon/nasa-proves-its-electric-moon-dust-shield-works-on-the-lunar-surface)
+- [Truecaller now has over 450M monthly active users](https://techcrunch.com/2025/04/03/truecaller-now-has-over-450m-monthly-active-users/)
 - [Fintech Plaid raises $575M at a $6.1B valuation, says it will not go public in 2025](https://techcrunch.com/2025/04/03/fintech-plaid-raises-575m-at-6-1b-valuation-says-it-will-not-go-public-in-2025/)
 - [What&#39;s the difference between a young exoplanet and an old one?](https://www.space.com/the-universe/exoplanets/whats-the-difference-between-a-young-exoplanet-and-an-old-one)
-- [Y Combinator neobank Djamo raises $17M with 1M users across Francophone Africa](https://techcrunch.com/2025/04/03/djamo-raises-17m-and-has-1m-users-across-francophone-africa/)
-- [Secretive Russian military satellites release mystery object into orbit](https://www.space.com/space-exploration/satellites/secretive-russian-military-satellites-release-mystery-object-into-orbit)
-- [&#39;Star Trek: Strange New Worlds&#39; Season 3 teaser trailer promises more gimmicky hijinks in the final frontier &lpar;video&rpar;](https://www.space.com/entertainment/star-trek-strange-new-worlds-season-3-teaser-trailer-promises-more-gimmicky-hijinks-in-the-final-frontier-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
