@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify debuts Gen AI ads, programmatic ad buying](https://techcrunch.com/2025/04/03/spotify-debuts-gen-ai-ads-programmatic-ad-buying/)
-- [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/)
-- [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/)
-- [The Nintendo Switch 2, hands-on: It’s pretty good!](https://techcrunch.com/2025/04/03/the-nintendo-switch-2-hands-on-its-pretty-good/)
-- [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/)
+- [Voice AI platform Phonic gets backing from Lux](https://techcrunch.com/2025/04/03/end-to-end-voice-ai-solution-phonic-gets-backing-from-lux/)
+- [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/)
+- [Moon dust may help astronauts power sustainable lunar cities. Here&#39;s how.](https://www.space.com/the-universe/moon/moon-dust-may-help-astronauts-power-sustainable-lunar-cities-heres-how)
+- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/04/03/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
+- [How a &#39;mudball&#39; meteorite survived space to land in the jungles of Central America](https://www.space.com/stargazing/meteors-showers/how-a-mudball-meteorite-survived-space-to-land-in-the-jungles-of-central-america)
 <!-- BLOG-POST-LIST:END -->
 
 ---
