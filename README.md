@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [True Anomaly to launch 1st deep-space security missions with autonomous Jackal satellites in 2026](https://www.space.com/space-exploration/satellites/true-anomaly-to-launch-1st-deep-space-security-missions-with-autonomous-jackal-satellites-in-2026)
-- [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/)
-- [TikTok quietly launches a new ‘TikTok for Artists’ platform](https://techcrunch.com/2025/04/03/tiktok-quietly-launches-a-new-tiktok-for-artists-platform/)
-- [Devin, the viral coding AI agent, gets a new pay-as-you-go plan](https://techcrunch.com/2025/04/03/devin-the-viral-coding-ai-agent-gets-a-new-pay-as-you-go-plan/)
-- [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/)
+- [NASA&#39;s Artemis 2 astronauts reveal moon mission patch to honor &#39;AII&#39;](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-reveal-moon-mission-patch-to-honor-aii)
+- [Amazon Kindle’s new feature uses AI to generate recaps for books in a series](https://techcrunch.com/2025/04/03/amazon-kindles-new-feature-uses-ai-to-generate-recaps-for-books-in-a-series/)
+- [Grace raises €5.9 million seed to offer insurance to luxury goods](https://techcrunch.com/2025/04/03/grace-raises-e5-9-million-seed-to-offer-insurance-to-luxury-goods/)
+- [OpenAI just made its first cybersecurity investment](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/)
+- [Intel and TSMC are reportedly launching a joint chipmaking venture](https://techcrunch.com/2025/04/03/intel-and-tsmc-are-reportedly-launching-a-joint-chipmaking-venture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
