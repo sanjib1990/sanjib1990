@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube Shorts takes on TikTok with new creation tools](https://techcrunch.com/2025/04/03/youtube-shorts-takes-on-tiktok-with-new-creation-tools/)
-- [Elon Musk took a chainsaw to the US government. Tesla is taking the hit.](https://techcrunch.com/2025/04/03/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/)
-- [Thatch raises $40M to give employees more control of their health care choices](https://techcrunch.com/2025/04/03/thatch-raises-40m-to-give-employees-more-control-of-their-health-insurance-choices/)
-- [This sneaky Android spyware needs a password to uninstall. Here’s how to remove it without one.](https://techcrunch.com/2025/04/03/this-sneaky-android-spyware-needs-a-password-to-uninstall-heres-how-to-remove-it-without-one/)
-- [ChatGPT users have generated over 700M images since last week, OpenAI says](https://techcrunch.com/2025/04/03/chatgpt-users-have-generated-over-700m-images-since-last-week-openai-says/)
+- [Captain Pike and his crew explore a lost Starfleet vessel in a new &#39;Star Trek: Strange New Worlds&#39; novel coming later this month](https://www.space.com/entertainment/captain-pike-and-his-crew-explore-a-lost-starfleet-vessel-in-a-new-star-trek-strange-new-worlds-novel-coming-later-this-month)
+- [New &#39;Black Mirror&#39; Season 7 trailer teases an epic space battle for the USS Callister &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/new-black-mirror-season-7-trailer-teases-an-epic-space-battle-for-the-uss-callister-video)
+- [Apple loses $250B market value as tariffs tank tech stocks](https://techcrunch.com/2025/04/03/apple-loses-250b-market-value-as-tariffs-tank-tech-stocks/)
+- [Google is shipping Gemini models faster than its AI safety reports](https://techcrunch.com/2025/04/03/google-is-shipping-gemini-models-faster-than-its-ai-safety-reports/)
+- [Extreme magnetic fields near our galaxy&#39;s black hole are preventing stars from being born, JWST discovers](https://www.space.com/space-exploration/james-webb-space-telescope/extreme-magnetic-fields-near-our-galaxys-black-hole-are-preventing-stars-from-being-born-jwst-discovers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
