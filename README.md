@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-300m/)
+- [Spotify debuts Gen AI ads, programmatic ad buying](https://techcrunch.com/2025/04/03/spotify-debuts-gen-ai-ads-programmatic-ad-buying/)
+- [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/)
+- [Runway, best known for its video-generating AI models, raises $308M](https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/)
 - [The Nintendo Switch 2, hands-on: It’s pretty good!](https://techcrunch.com/2025/04/03/the-nintendo-switch-2-hands-on-its-pretty-good/)
 - [A web3 startup aims to change the game in the tariff wars](https://techcrunch.com/2025/04/03/could-web3-change-the-game-in-the-coming-tariff-wars/)
-- [Powerful solar winds squish Jupiter&#39;s magnetic field &#39;like a giant squash ball&#39;](https://www.space.com/the-universe/jupiter/surprise-jupiters-powerful-magnetic-field-gets-squished-by-the-solar-wind)
-- [Fuse raises $6.6M to fix a payment problem for companies expanding to MENA](https://techcrunch.com/2025/04/03/ex-bvnk-founder-launches-fuse-raises-6-6m-to-power-cross-border-payments-in-mena/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
