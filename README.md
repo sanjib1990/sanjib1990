@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Doom: The Dark Ages — Release date, trailers &amp; everything we know](https://www.space.com/entertainment/space-games-toys/doom-the-dark-ages-release-date-trailers-and-everything-we-know)
-- [Microsoft reportedly pulls back on its data center plans](https://techcrunch.com/2025/04/03/microsoft-reportedly-pulls-back-on-its-data-center-plans/)
-- [SpaceX Fram2 astronauts see their Florida launch site from space as historic pole-orbiting mission nears its end &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-fram2-astronauts-see-their-florida-launch-site-from-space-as-historic-pole-orbiting-mission-nears-its-end-video)
+- [True Anomaly to launch 1st deep-space security missions with autonomous Jackal satellites in 2026](https://www.space.com/space-exploration/satellites/true-anomaly-to-launch-1st-deep-space-security-missions-with-autonomous-jackal-satellites-in-2026)
+- [Teen with 4.0 GPA who built the viral Cal AI app was rejected by 15 top universities](https://techcrunch.com/2025/04/03/teen-with-4-0-gpa-who-built-the-viral-cal-ai-app-was-rejected-by-15-top-universities/)
+- [TikTok quietly launches a new ‘TikTok for Artists’ platform](https://techcrunch.com/2025/04/03/tiktok-quietly-launches-a-new-tiktok-for-artists-platform/)
+- [Devin, the viral coding AI agent, gets a new pay-as-you-go plan](https://techcrunch.com/2025/04/03/devin-the-viral-coding-ai-agent-gets-a-new-pay-as-you-go-plan/)
 - [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/)
-- [X may soon start selling inactive usernames to Verified Organizations starting at $10K, code reveals](https://techcrunch.com/2025/04/03/x-may-soon-start-selling-inactive-usernames-to-verified-organizations-starting-at-10k-code-reveals/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
