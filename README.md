@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Voice AI platform Phonic gets backing from Lux](https://techcrunch.com/2025/04/03/end-to-end-voice-ai-solution-phonic-gets-backing-from-lux/)
-- [Call for speakers: Showcase your knowledge at TechCrunch All Stage](https://techcrunch.com/2025/04/03/call-for-speakers-showcase-your-knowledge-at-techcrunch-all-stage/)
-- [Moon dust may help astronauts power sustainable lunar cities. Here&#39;s how.](https://www.space.com/the-universe/moon/moon-dust-may-help-astronauts-power-sustainable-lunar-cities-heres-how)
-- [What to know about TikTok’s uncertain future in the US and the people who want to buy it](https://techcrunch.com/2025/04/03/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/)
-- [How a &#39;mudball&#39; meteorite survived space to land in the jungles of Central America](https://www.space.com/stargazing/meteors-showers/how-a-mudball-meteorite-survived-space-to-land-in-the-jungles-of-central-america)
+- [YouTube Shorts takes on TikTok with new creation tools](https://techcrunch.com/2025/04/03/youtube-shorts-takes-on-tiktok-with-new-creation-tools/)
+- [Elon Musk took a chainsaw to the US government. Tesla is taking the hit.](https://techcrunch.com/2025/04/03/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/)
+- [Thatch raises $40M to give employees more control of their health care choices](https://techcrunch.com/2025/04/03/thatch-raises-40m-to-give-employees-more-control-of-their-health-insurance-choices/)
+- [This sneaky Android spyware needs a password to uninstall. Here’s how to remove it without one.](https://techcrunch.com/2025/04/03/this-sneaky-android-spyware-needs-a-password-to-uninstall-heres-how-to-remove-it-without-one/)
+- [ChatGPT users have generated over 700M images since last week, OpenAI says](https://techcrunch.com/2025/04/03/chatgpt-users-have-generated-over-700m-images-since-last-week-openai-says/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
