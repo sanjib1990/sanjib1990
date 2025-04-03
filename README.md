@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X may soon start selling inactive usernames to Verified Organizations starting at $10K, code reveals](https://techcrunch.com/2025/04/03/x-may-soon-start-selling-inactive-usernames-to-verified-organizations-starting-at-10k-code-reveals/)
+- [Major storms on Jupiter can leave a fingerprint in the planet&#39;s atmosphere](https://www.space.com/the-universe/jupiter/major-storms-on-jupiter-can-leave-a-fingerprint-in-the-planets-atmosphere)
+- [Studio Ghibli hasn’t commented on OpenAI’s onslaught of AI copies, but the fan subreddit has](https://techcrunch.com/2025/04/03/studio-ghibli-hasnt-commented-on-openais-onslaught-of-ai-copies-but-the-fan-subreddit-has/)
 - [Captain Pike and his crew explore a lost Starfleet vessel in a new &#39;Star Trek: Strange New Worlds&#39; novel coming later this month](https://www.space.com/entertainment/captain-pike-and-his-crew-explore-a-lost-starfleet-vessel-in-a-new-star-trek-strange-new-worlds-novel-coming-later-this-month)
 - [New &#39;Black Mirror&#39; Season 7 trailer teases an epic space battle for the USS Callister &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/new-black-mirror-season-7-trailer-teases-an-epic-space-battle-for-the-uss-callister-video)
-- [Apple loses $250B market value as tariffs tank tech stocks](https://techcrunch.com/2025/04/03/apple-loses-250b-market-value-as-tariffs-tank-tech-stocks/)
-- [Google is shipping Gemini models faster than its AI safety reports](https://techcrunch.com/2025/04/03/google-is-shipping-gemini-models-faster-than-its-ai-safety-reports/)
-- [Extreme magnetic fields near our galaxy&#39;s black hole are preventing stars from being born, JWST discovers](https://www.space.com/space-exploration/james-webb-space-telescope/extreme-magnetic-fields-near-our-galaxys-black-hole-are-preventing-stars-from-being-born-jwst-discovers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
