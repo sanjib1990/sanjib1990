@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Doom: The Dark Ages — Release date, trailers &amp; everything we know](https://www.space.com/entertainment/space-games-toys/doom-the-dark-ages-release-date-trailers-and-everything-we-know)
+- [Microsoft reportedly pulls back on its data center plans](https://techcrunch.com/2025/04/03/microsoft-reportedly-pulls-back-on-its-data-center-plans/)
+- [SpaceX Fram2 astronauts see their Florida launch site from space as historic pole-orbiting mission nears its end &lpar;video&rpar;](https://www.space.com/space-exploration/private-spaceflight/spacex-fram2-astronauts-see-their-florida-launch-site-from-space-as-historic-pole-orbiting-mission-nears-its-end-video)
+- [New session at TechCrunch All Stage: Jahanvi Sardana on how top startups reshape markets](https://techcrunch.com/2025/04/03/new-session-at-techcrunch-all-stage-jahanvi-sardana-on-how-top-startups-reshape-markets/)
 - [X may soon start selling inactive usernames to Verified Organizations starting at $10K, code reveals](https://techcrunch.com/2025/04/03/x-may-soon-start-selling-inactive-usernames-to-verified-organizations-starting-at-10k-code-reveals/)
-- [Major storms on Jupiter can leave a fingerprint in the planet&#39;s atmosphere](https://www.space.com/the-universe/jupiter/major-storms-on-jupiter-can-leave-a-fingerprint-in-the-planets-atmosphere)
-- [Studio Ghibli hasn’t commented on OpenAI’s onslaught of AI copies, but the fan subreddit has](https://techcrunch.com/2025/04/03/studio-ghibli-hasnt-commented-on-openais-onslaught-of-ai-copies-but-the-fan-subreddit-has/)
-- [Captain Pike and his crew explore a lost Starfleet vessel in a new &#39;Star Trek: Strange New Worlds&#39; novel coming later this month](https://www.space.com/entertainment/captain-pike-and-his-crew-explore-a-lost-starfleet-vessel-in-a-new-star-trek-strange-new-worlds-novel-coming-later-this-month)
-- [New &#39;Black Mirror&#39; Season 7 trailer teases an epic space battle for the USS Callister &lpar;video&rpar;](https://www.space.com/entertainment/space-movies-shows/new-black-mirror-season-7-trailer-teases-an-epic-space-battle-for-the-uss-callister-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
