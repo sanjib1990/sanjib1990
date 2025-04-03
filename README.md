@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Federal judge allows the EFF’s lawsuit against DOGE and Elon Musk to proceed](https://techcrunch.com/2025/04/03/federal-judge-allows-the-effs-lawsuit-against-doge-and-elon-musk-to-proceed/)
+- [SpinLaunch wants to send 250 broadband &#39;microsatellites&#39; to orbit with a single launch](https://www.space.com/space-exploration/launches-spacecraft/spinlaunch-wants-to-send-250-broadband-microsatellites-to-orbit-with-a-single-launch)
+- [I&#39;m going to a huge astronomy expo to see the latest telescope tech this weekend. I won&#39;t be alone.](https://www.space.com/stargazing/northeast-astronomy-forum-2025-expo-telecopes-showcase)
 - [NASA&#39;s Artemis 2 astronauts reveal moon mission patch to honor &#39;AII&#39;](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-reveal-moon-mission-patch-to-honor-aii)
 - [Amazon Kindle’s new feature uses AI to generate recaps for books in a series](https://techcrunch.com/2025/04/03/amazon-kindles-new-feature-uses-ai-to-generate-recaps-for-books-in-a-series/)
-- [Grace raises €5.9 million seed to offer insurance to luxury goods](https://techcrunch.com/2025/04/03/grace-raises-e5-9-million-seed-to-offer-insurance-to-luxury-goods/)
-- [OpenAI just made its first cybersecurity investment](https://techcrunch.com/2025/04/03/openai-just-made-its-first-cybersecurity-investment/)
-- [Intel and TSMC are reportedly launching a joint chipmaking venture](https://techcrunch.com/2025/04/03/intel-and-tsmc-are-reportedly-launching-a-joint-chipmaking-venture/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
