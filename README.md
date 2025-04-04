@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Kalshi helped prediction markets go mainstream](https://techcrunch.com/video/how-kalshi-helped-prediction-markets-go-mainstream/)
+- [HoverAir X1 PRO drone review](https://www.space.com/stargazing/astronomy-kit/hoverair-x1-pro-drone-review)
+- [OpenAI’s models ‘memorized’ copyrighted content, new study suggests](https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/)
+- [AI has opened a new era in venture capital according to Forerunner Founder Kirsten Green](https://techcrunch.com/video/ai-has-opened-a-new-era-in-venture-capital-according-to-forerunner-founder-kirsten-green/)
 - [Scientists are using stellar &#39;quakes&#39; to peer inside stars](https://www.space.com/the-universe/stars/scientists-are-using-stellar-quakes-to-peer-inside-stars)
-- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/04/04/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
-- [Meta officially says goodbye to its US fact checkers on Monday](https://techcrunch.com/2025/04/04/meta-officially-says-goodbye-to-its-us-fact-checkers-on-monday/)
-- [Mach CEO on building defense tech company in your 20s](https://techcrunch.com/video/mach-ceo-on-building-defense-tech-company-in-your-20s/)
-- [GitHub Copilot introduces new limits, charges for ‘premium’ AI models](https://techcrunch.com/2025/04/04/github-copilot-introduces-new-limits-charges-for-premium-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
