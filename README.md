@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch SpaceX&#39;s history-making Fram2 astronaut mission return to Earth today](https://www.space.com/space-exploration/private-spaceflight/watch-spacexs-history-making-fram2-astronaut-mission-return-to-earth-today)
 - [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/)
 - [Midjourney releases V7, its first new AI image model in nearly a year](https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/)
 - [SpaceX launches 27 Starlink satellites to orbit from California](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-27-starlink-satellites-to-orbit-from-california)
 - [Amazon’s new AI agent will shop third-party sites for you](https://techcrunch.com/2025/04/03/amazons-new-ai-agent-will-shop-third-party-stores-for-you/)
-- [Federal judge allows the EFF’s lawsuit against DOGE and Elon Musk to proceed](https://techcrunch.com/2025/04/03/federal-judge-allows-the-effs-lawsuit-against-doge-and-elon-musk-to-proceed/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
