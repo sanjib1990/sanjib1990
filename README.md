@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trump fires head of National Security Agency and Cyber Command](https://techcrunch.com/2025/04/04/trump-fires-head-of-national-security-agency-and-cyber-command/)
+- [Scientists may have just found the driving force behind Venus&#39; volcanos](https://www.space.com/the-universe/venus/scientists-may-have-just-found-the-driving-force-behind-venus-volcanos)
 - [JWST finds spiral galaxy about 5 times more massive than Milky Way — scientists call it &#39;Big Wheel&#39;](https://www.space.com/space-exploration/james-webb-space-telescope/jwst-finds-spiral-galaxy-about-5-times-more-massive-than-milky-way-scientists-call-it-big-wheel)
 - [A comprehensive list of 2025 tech layoffs](https://techcrunch.com/2025/04/04/tech-layoffs-2025-list/)
 - [ChatGPT: Everything you need to know about the AI-powered chatbot](https://techcrunch.com/2025/04/04/chatgpt-everything-to-know-about-the-ai-chatbot/)
-- [Watch SpaceX&#39;s history-making Fram2 astronaut mission return to Earth today](https://www.space.com/space-exploration/private-spaceflight/watch-spacexs-history-making-fram2-astronaut-mission-return-to-earth-today)
-- [StrictlyVC is heading to London this May](https://techcrunch.com/2025/04/04/strictlyvc-is-heading-to-london-this-may/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
