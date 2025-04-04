@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Starseeker: Astroneer Expeditions&#39; brings co-op space adventures to Nintendo Switch 2 &lpar;and other platforms&rpar; in 2026 &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/starseeker-astroneer-expeditions-brings-co-op-space-adventures-to-nintendo-switch-2-and-other-platforms-in-2026-video)
+- [OpenAI says it’ll release o3 after all, delays GPT-5](https://techcrunch.com/2025/04/04/openai-says-itll-release-o3-after-all-delays-gpt-5/)
 - [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/)
 - [Watch &#39;potentially hazardous&#39; asteroid fly near Earth this weekend in this free livestream](https://www.space.com/the-universe/asteroids/watch-potentially-hazardous-asteroid-fly-near-earth-this-weekend-in-this-free-livestream)
 - [Automakers jump on Tesla’s brand woes with discount EV offers](https://techcrunch.com/2025/04/04/automakers-jump-on-teslas-brand-woes-with-discount-ev-offers/)
-- [Vanguard 1 is the oldest satellite orbiting Earth. Scientists want to bring it home after 67 years](https://www.space.com/space-exploration/launches-spacecraft/vanguard-1-is-the-oldest-satellite-orbiting-earth-scientists-want-to-bring-it-home-after-67-years)
-- [Trump fires head of National Security Agency and Cyber Command](https://techcrunch.com/2025/04/04/trump-fires-head-of-national-security-agency-and-cyber-command/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
