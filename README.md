@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Startups Weekly: Stay tuned for the Rippling espionage movie](https://techcrunch.com/2025/04/04/startups-weekly-stay-tuned-for-the-rippling-espionage-movie/)
-- [Flexport CEO Ryan Petersen still sees opportunity in global trade despite Trump’s tariffs](https://techcrunch.com/video/flexport-ceo-ryan-petersen-still-sees-opportunity-in-global-trade-despite-trumps-tariffs/)
-- [The Lego Marvel Spider-Man Daily Bugle set is one of the largest Lego sets in the Lego Marvel range — now at one of the lowest prices we&#39;ve seen in years](https://www.space.com/entertainment/lego-marvel-spider-man-daily-bugle-rarely-discounted-now-on-offer-25-minifigures)
-- [Gemini 2.5 Pro is Google’s most expensive AI model yet](https://techcrunch.com/2025/04/04/gemini-2-5-pro-is-googles-most-expensive-ai-model-yet/)
-- [Klarna and StubHub delay IPOs because of Trump tariff turmoil](https://techcrunch.com/2025/04/04/klarna-and-stubhub-delay-ipos-because-of-trump-tariff-turmoil/)
+- [Scientists are using stellar &#39;quakes&#39; to peer inside stars](https://www.space.com/the-universe/stars/scientists-are-using-stellar-quakes-to-peer-inside-stars)
+- [DeepSeek: Everything you need to know about the AI chatbot app](https://techcrunch.com/2025/04/04/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
+- [Meta officially says goodbye to its US fact checkers on Monday](https://techcrunch.com/2025/04/04/meta-officially-says-goodbye-to-its-us-fact-checkers-on-monday/)
+- [Mach CEO on building defense tech company in your 20s](https://techcrunch.com/video/mach-ceo-on-building-defense-tech-company-in-your-20s/)
+- [GitHub Copilot introduces new limits, charges for ‘premium’ AI models](https://techcrunch.com/2025/04/04/github-copilot-introduces-new-limits-charges-for-premium-ai-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
