@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechCrunch All Stage: Learn how AI can supercharge your MVPs with Chris Gardner](https://techcrunch.com/2025/04/04/techcrunch-all-stage-learn-how-ai-can-supercharge-your-mvps-with-chris-gardner/)
+- [Watch &#39;potentially hazardous&#39; asteroid fly near Earth this weekend in this free livestream](https://www.space.com/the-universe/asteroids/watch-potentially-hazardous-asteroid-fly-near-earth-this-weekend-in-this-free-livestream)
 - [Automakers jump on Tesla’s brand woes with discount EV offers](https://techcrunch.com/2025/04/04/automakers-jump-on-teslas-brand-woes-with-discount-ev-offers/)
 - [Vanguard 1 is the oldest satellite orbiting Earth. Scientists want to bring it home after 67 years](https://www.space.com/space-exploration/launches-spacecraft/vanguard-1-is-the-oldest-satellite-orbiting-earth-scientists-want-to-bring-it-home-after-67-years)
 - [Trump fires head of National Security Agency and Cyber Command](https://techcrunch.com/2025/04/04/trump-fires-head-of-national-security-agency-and-cyber-command/)
-- [Scientists may have just found the driving force behind Venus&#39; volcanos](https://www.space.com/the-universe/venus/scientists-may-have-just-found-the-driving-force-behind-venus-volcanos)
-- [JWST finds spiral galaxy about 5 times more massive than Milky Way — scientists call it &#39;Big Wheel&#39;](https://www.space.com/space-exploration/james-webb-space-telescope/jwst-finds-spiral-galaxy-about-5-times-more-massive-than-milky-way-scientists-call-it-big-wheel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
