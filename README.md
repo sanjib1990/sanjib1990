@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to see Venus light the sky as the bright &#39;morning star&#39; through fall 2025](https://www.space.com/stargazing/how-to-see-venus-light-the-sky-as-the-bright-morning-star-through-fall-2025)
+- [TechCrunch Mobility: Tesla takes a hit, tariff chaos begins, and one EV startup hits a milestone](https://techcrunch.com/2025/04/04/techcrunch-mobility-tesla-takes-a-hit-tariff-chaos-begins-and-one-ev-startup-hits-a-milestone/)
 - [How Kalshi helped prediction markets go mainstream](https://techcrunch.com/video/how-kalshi-helped-prediction-markets-go-mainstream/)
 - [HoverAir X1 PRO drone review](https://www.space.com/stargazing/astronomy-kit/hoverair-x1-pro-drone-review)
 - [OpenAI’s models ‘memorized’ copyrighted content, new study suggests](https://techcrunch.com/2025/04/04/openais-models-memorized-copyrighted-content-new-study-suggests/)
-- [AI has opened a new era in venture capital according to Forerunner Founder Kirsten Green](https://techcrunch.com/video/ai-has-opened-a-new-era-in-venture-capital-according-to-forerunner-founder-kirsten-green/)
-- [Scientists are using stellar &#39;quakes&#39; to peer inside stars](https://www.space.com/the-universe/stars/scientists-are-using-stellar-quakes-to-peer-inside-stars)
 <!-- BLOG-POST-LIST:END -->
 
 ---
