@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet &#39;Nighthawk&#39;: Mars helicopter mission could be big leap for exploration](https://www.space.com/the-universe/mars/meet-nighthawk-mars-helicopter-mission-could-be-big-leap-for-exploration)
 - [ChatGPT adoption skyrockets in India, but monetization may be trailing](https://techcrunch.com/2025/04/04/chatgpt-adoption-skyrockets-in-india-but-monetization-may-be-trailing/)
 - [Jared Isaacman, Trump&#39;s pick for NASA chief, to get Senate confirmation hearing on April 9](https://www.space.com/space-exploration/jared-isaacman-trumps-pick-for-nasa-chief-to-get-senate-confirmation-hearing-on-april-9)
 - [NASA&#39;s Perseverance rover watches as 2 Mars dust devils merge into 1 &lpar;video&rpar;](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-watches-as-2-mars-dust-devils-merge-into-1-video)
 - [How to see Venus light the sky as the bright &#39;morning star&#39; through fall 2025](https://www.space.com/stargazing/how-to-see-venus-light-the-sky-as-the-bright-morning-star-through-fall-2025)
-- [TechCrunch Mobility: Tesla takes a hit, tariff chaos begins, and one EV startup hits a milestone](https://techcrunch.com/2025/04/04/techcrunch-mobility-tesla-takes-a-hit-tariff-chaos-begins-and-one-ev-startup-hits-a-milestone/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
