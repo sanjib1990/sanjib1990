@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta releases Llama 4, a new crop of flagship AI models](https://techcrunch.com/2025/04/05/meta-releases-llama-4-a-new-crop-of-flagship-ai-models/)
 - [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/)
 - [‘A Minecraft Movie’ is on-track for a $135M opening weekend](https://techcrunch.com/2025/04/05/a-minecraft-movie-is-on-track-for-a-135m-opening-weekend/)
 - [Week in Review: Nintendo unveils the Switch 2](https://techcrunch.com/2025/04/05/nintendo-unveils-the-switch-2/)
 - [The Wildgate reveal trailer looks like Sea of Thieves in space, with more interesting progression &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/the-wildgate-reveal-trailer-looks-like-sea-of-thieves-in-space-with-more-interesting-progression-video)
-- [SF Mayor Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
