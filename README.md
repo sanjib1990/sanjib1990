@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fram2 astronaut mission&#39;s West Coast splashdown opens new era for SpaceX](https://www.space.com/space-exploration/private-spaceflight/fram2-astronaut-missions-west-coast-splashdown-opens-new-era-for-spacex)
+- [Celebrate &#39;Star Trek&#39; and help feed the hungry for First Contact Day today](https://www.space.com/entertainment/celebrate-star-trek-and-help-feed-the-hungry-for-first-contact-day-today)
+- [This Week In Space podcast: Episode 155 — Space News You Can Use](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-155-space-news-you-can-use)
 - [The moon joins Mars and Jupiter in a &#39;mini planet parade&#39; tonight. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-joins-mars-and-jupiter-in-a-mini-planet-parade-tonight-heres-how-to-see-it)
 - [Meet &#39;Nighthawk&#39;: Mars helicopter mission could be big leap for exploration](https://www.space.com/the-universe/mars/meet-nighthawk-mars-helicopter-mission-could-be-big-leap-for-exploration)
-- [ChatGPT adoption skyrockets in India, but monetization may be trailing](https://techcrunch.com/2025/04/04/chatgpt-adoption-skyrockets-in-india-but-monetization-may-be-trailing/)
-- [Jared Isaacman, Trump&#39;s pick for NASA chief, to get Senate confirmation hearing on April 9](https://www.space.com/space-exploration/jared-isaacman-trumps-pick-for-nasa-chief-to-get-senate-confirmation-hearing-on-april-9)
-- [NASA&#39;s Perseverance rover watches as 2 Mars dust devils merge into 1 &lpar;video&rpar;](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-watches-as-2-mars-dust-devils-merge-into-1-video)
 <!-- BLOG-POST-LIST:END -->
 
 ---
