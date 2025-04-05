@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week in Review: Nintendo unveils the Switch 2](https://techcrunch.com/2025/04/05/nintendo-unveils-the-switch-2/)
 - [The Wildgate reveal trailer looks like Sea of Thieves in space, with more interesting progression &lpar;video&rpar;](https://www.space.com/entertainment/space-games-toys/the-wildgate-reveal-trailer-looks-like-sea-of-thieves-in-space-with-more-interesting-progression-video)
 - [SF Mayor Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)
 - [Fram2 astronaut mission&#39;s West Coast splashdown opens new era for SpaceX](https://www.space.com/space-exploration/private-spaceflight/fram2-astronaut-missions-west-coast-splashdown-opens-new-era-for-spacex)
 - [Celebrate &#39;Star Trek&#39; and help feed the hungry for First Contact Day today](https://www.space.com/entertainment/celebrate-star-trek-and-help-feed-the-hungry-for-first-contact-day-today)
-- [This Week In Space podcast: Episode 155 — Space News You Can Use](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-155-space-news-you-can-use)
 <!-- BLOG-POST-LIST:END -->
 
 ---
