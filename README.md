@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SF Mayor Lurie to tech CEOs: ‘How can we get you back?’](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)
 - [Fram2 astronaut mission&#39;s West Coast splashdown opens new era for SpaceX](https://www.space.com/space-exploration/private-spaceflight/fram2-astronaut-missions-west-coast-splashdown-opens-new-era-for-spacex)
 - [Celebrate &#39;Star Trek&#39; and help feed the hungry for First Contact Day today](https://www.space.com/entertainment/celebrate-star-trek-and-help-feed-the-hungry-for-first-contact-day-today)
 - [This Week In Space podcast: Episode 155 — Space News You Can Use](https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-155-space-news-you-can-use)
 - [The moon joins Mars and Jupiter in a &#39;mini planet parade&#39; tonight. Here&#39;s how to see it](https://www.space.com/stargazing/the-moon-joins-mars-and-jupiter-in-a-mini-planet-parade-tonight-heres-how-to-see-it)
-- [Meet &#39;Nighthawk&#39;: Mars helicopter mission could be big leap for exploration](https://www.space.com/the-universe/mars/meet-nighthawk-mars-helicopter-mission-could-be-big-leap-for-exploration)
 <!-- BLOG-POST-LIST:END -->
 
 ---
