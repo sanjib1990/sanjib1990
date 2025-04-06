@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blue Origin faces backlash ahead of historic all-female spaceflight with Katy Perry](https://www.space.com/space-exploration/private-spaceflight/blue-origin-faces-backlash-ahead-of-historic-all-female-spaceflight-with-katy-perry)
 - [How bacteria could help build and maintain cities on the moon](https://www.space.com/the-universe/moon/how-bacteria-could-help-build-and-maintain-cities-on-the-moon)
-- [SpaceX launches 28 Starlink satellites to orbit from Florida&#39;s Space Coast &lpar;photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-to-orbit-from-floridas-space-coast-photos)
+- [SpaceX launches 28 Starlink satellites to orbit from Florida&#39;s Space Coast &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-to-orbit-from-floridas-space-coast-photos)
 - [DOGE reportedly planning a hackathon to build ‘mega API’ for IRS data](https://techcrunch.com/2025/04/05/doge-reportedly-planning-a-hackathon-to-build-mega-api-for-irs-data/)
 - [Meta releases Llama 4, a new crop of flagship AI models](https://techcrunch.com/2025/04/05/meta-releases-llama-4-a-new-crop-of-flagship-ai-models/)
-- [Deel’s comms chief departs amidst spying lawsuit from Rippling](https://techcrunch.com/2025/04/05/deels-comms-chief-departs-amidst-spying-lawsuit-from-rippling/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
