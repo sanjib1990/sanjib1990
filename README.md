@@ -94,11 +94,11 @@
 ### 📕 Latest interesting Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Doctor Who&#39; Season 2 premieres this week with a robot revolution and AI terrors](https://www.space.com/entertainment/doctor-who-season-2-premieres-this-week-with-a-robot-revolution-and-ai-terrors)
 - [Lyrid meteor shower 2025 peaks this month: Could we be in for a surprise outburst this year?](https://www.space.com/stargazing/meteors-showers/lyrid-meteor-shower-2025-peaks-this-month-could-we-be-in-for-a-surprise-outburst-this-year)
 - [NASA website removes &#39;First Woman&#39; graphic novel — but here&#39;s where you can still find it](https://www.space.com/space-exploration/nasa-website-removes-first-woman-graphic-novel-but-heres-where-you-can-still-find-it)
 - [Blue Origin faces backlash ahead of historic all-female spaceflight with Katy Perry](https://www.space.com/space-exploration/private-spaceflight/blue-origin-faces-backlash-ahead-of-historic-all-female-spaceflight-with-katy-perry)
 - [How bacteria could help build and maintain cities on the moon](https://www.space.com/the-universe/moon/how-bacteria-could-help-build-and-maintain-cities-on-the-moon)
-- [SpaceX launches 28 Starlink satellites to orbit from Florida&#39;s Space Coast &lpar;video, photos&rpar;](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-28-starlink-satellites-to-orbit-from-floridas-space-coast-photos)
 <!-- BLOG-POST-LIST:END -->
 
 ---
